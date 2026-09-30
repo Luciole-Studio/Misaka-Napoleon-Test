@@ -1,0 +1,103 @@
+---
+source_url: "https://portale.hdbg.de/koenigreich-bayern/objekte/objekt/390"
+final_url: "https://portale.hdbg.de/koenigreich-bayern/objekte/objekt/390"
+provider: "exa"
+text_sha256: "8d3506da015331d4d0592369aade5e5335a85df064b68131c0caad550525314e"
+title: "Portal K\u00f6nigreich Bayern: Objekte"
+content_kind: "page_text"
+---
+
+Portal Königreich Bayern: Objekte
+
+zur Hauptnavigation springenzum Inhaltsbereich springen
+
+- Maximilian I. Joseph 01.01.1806 - 12.10.1825
+- Ludwig I. 13.10.1825 - 19.03.1848
+- Maximilian II. 19.03.1848 - 10.03.1864
+- Ludwig II. 10.03.1864 - 10.06.1886
+- Otto I. 10.06.1886 - 05.11.1913
+- Prinzregent Luitpold 10.06.1886 - 12.12.1912
+- Ludwig III. 12.12.1912 - 13.11.1918
+
+# Vertrag von Ried, 8. Oktober 1813, französischer Text
+
+Zugehörige Themen (2) Zugehörige Ereignisse (5) Zugehörige Personen (3) Zugehörige Objekte (2)
+
+Urkunde
+
+| Lageort: | München, Bayerisches Hauptstaatsarchiv |
+| --- | --- |
+| Copyright: | München, Bayerisches Hauptstaatsarchiv |
+| Untertitel: |
+
+Verträge
+
+Im Vertrag von Ried sagte sich Bayern vom Rheinbund los und verpflichtete sich, mit seiner Armee von 36.000 Mann unter alliiertem Oberkommando gegen Napoleon zu operieren. Dafür garantierte Österreich Bayern im Namen der Alliierten den territorialen Status quo. Bayern konnte also zunächst seine Gebietserwerbungen, die es von Napoleon erhalten hatte, behaupten. Zukünftige Landabtretungen sollten nur gegen gleichwertige Entschädigungen erfolgen.
+
+Bayern ging durch diesen Bündniswechsel als Siegermacht aus den Befreiungskriegen hervor, die mit der endgültigen Niederlage Napoleons am 18. Juni 1815 bei Waterloo endeten.
+
+Auf der Schlussseite des Vertrags sind die Unterschriften der Bevollmächtigten der beiden Staaten zu sehen. General Wrede unterzeichnete für Bayern und Prinz Heinrich von Reuß, der Befehlshaber der Inn-Armee, für Österreich.
+
+Weis, Eberhard: Montgelas, Band 2, München 2005.
+
+## Zugehörige Themen
+
+### Napoleon Bonaparte
+
+Napoleon Bonaparte wurde am 15. August 1769 als zweiter Sohn von Carlo di Bounaparte und Letizia Ramolino in Ajaccio auf Korsika geboren. Auf Wunsch...
+
+### Bayern in den Befreiungskriegen 1813–1815
+
+Nach der katastrophalen Niederlage Napoleons im Russlandfeldzug von 1812 vollzog Bayern im Vertrag von Ried im Oktober 1813 den Bündniswechsel. Es...
+
+## Zugehörige Ereignisse
+
+### Vertrag von Bogenhausen: geheimes Militärbündnis zwischen Bayern und Frankreich (1805)
+
+Max IV. Joseph schließt am 25. August 1805 ein geheimes Verteidigungsbündnis mit Napoleon, um der befürchteten Einverleibung durch Österreich zu...
+
+### Gründung des Rheinbundes (1806)
+
+Bayern muss als Gegenleistung für die Königswürde dem Rheinbund, einem Offensiv- und Defensivbündnis unter der Führung Napoleons, beitreten. Trotz der...
+
+### Russlandfeldzug Napoleons (1812)
+
+Ungefähr 33 000 bayerische Soldaten müssen am Russlandfeldzug Napoleons teilnehmen, da Bayern mit Frankreich verbündet ist.
+
+Alle Zugehörigen Ereignisse (5)
+
+- Vertrag von Bogenhausen: geheimes Militärbündnis zwischen Bayern und Frankreich (1805)
+- Gründung des Rheinbundes (1806)
+- Russlandfeldzug Napoleons (1812)
+- Vertrag von Ried (1813)
+- Beginn des Wiener Kongresses (1814)
+
+## Zugehörige Personen
+
+### Maximilian I. Joseph von Bayern
+
+Als am 27. Mai 1756 dem Pfalzgrafen Michael von Zweibrücken-Birkenfeld und seiner Frau Maria Franziska Dorothea der Sohn Max Joseph geboren wurde,...
+
+### Maximilian Joseph von Montgelas
+
+Maximilian Joseph von Montgelas wurde am 12. September 1759 in München geboren. Sein Vater, Janus von Montgelas (1710–1767), stammte aus dem Herzogtum...
+
+### Carl Philipp von Wrede
+
+Mit dem am 29. April 1767 in Heidelberg geborenen Carl Philipp Freiherr von Wrede betrat 1799 eine der zentralen, aber auch umstrittenen...
+
+## Zugehörige Objekte
+
+### Karte: Koalitionskriege von 1798-1815
+
+Von 1792 bis 1815 war Europa fast ununterbrochen Schauplatz erbitterter Kämpfe zwischen Frankreich und Bündnissen (= Koalitionen) anderer Mächte....
+
+### Vertrag von Ried, 8. Oktober 1813, französisch-russischer Text (Transkription), Seite 01
+
+Napoleons katastrophale Niederlage im russischen Feldzug von 1812 führte zum Zusammenbruch seiner Herrschaftsordnung in Europa. Im März 1813 schloss...
+
+Zurück
+
+## Zögern Sie nicht uns bei Fragen und Anregungen einfach anzuschreiben
+
+Kontaktieren Sie uns

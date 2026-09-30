@@ -1,0 +1,62 @@
+---
+source_url: "https://www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987"
+final_url: "https://www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987"
+sha256: "8fac6c51c0b3855b5ce91d2829d3f482f47347cf4b08af15be531ce49298e481"
+text_sha256: "a62c469b708901a69cdbc6de6558303caeeb0971c1ad66b3482de8e91014e16e"
+title: "Le financement des guerres napol\u00e9oniennes et la conjoncture du Premier Empire - Pers\u00e9e"
+---
+
+Title: Le financement des guerres napoléoniennes et la conjoncture du Premier Empire - Persée
+
+Saut au contenu
+
+fr[en](https://www.persee.fr?pRedirect=https://www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987&pLang=en)
+
+[Persée](http://info.persee.fr) [Portail Persée](https://www.persee.fr) [Perséides](https://info.persee.fr/section/perseides/) [Data Persée](http://data.persee.fr)
+
+[Parcourir les collections](https://www.persee.fr/disciplines)
+
+#### Plan
+
+#### Figures
+
+## Le financement des guerres napoléoniennes et la conjoncture du Premier Empire
+
+#### [article]
+
+[Jean Gabillard](https://www.persee.fr/authority/24915)
+
+[Revue économique](https://www.persee.fr/collection/reco) Année 1953 [4-4](https://www.persee.fr/issue/reco_0035-2764_1953_num_4_4?sectionId=reco_0035-2764_1953_num_4_4_406987) pp. 548-572
+
+- Documents liés
+- Référence bibliographique
+
+Gabillard Jean. Le financement des guerres napoléoniennes et la conjoncture du Premier Empire. In: Revue économique, volume 4, n°4, 1953. pp. 548-572.
+
+DOI : [https://doi.org/10.3406/reco.1953.406987](https://doi.org/10.3406/reco.1953.406987)
+
+[www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987](https://www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987)
+
+- [BibTex](https://www.persee.fr/docAsBibTex/reco_0035-2764_1953_num_4_4_406987.bib)
+- [RefWorks](https://www.persee.fr/docAsRefworks/reco_0035-2764_1953_num_4_4_406987.txt)
+- [RIS (ProCite, Endnote, …)](https://www.persee.fr/docAsRIS/reco_0035-2764_1953_num_4_4_406987.ris)
+
+LE FINANCEMENT DES GUERRES NAPOLEONNIENNES ET LA CONJONCTURE DU PREMIER EMPIRE Le financement des guerres napoléoniennes ne laisse pas être mysté rieux peu études ont été faites de ce problème et on connaît encore mal les mécanismes économiques de ce début du monde moderne Nous nous permettons de livrer dans cette esquisse quelques hypothèses dont le moins on puisse dire évidemment est elles sont difficiles vérifier Les problèmes qui nous ont inquiétés préalablement routes recher ches sont ceux-ci Comment peut-on financer une guerre en régime métallique rigou reux est-à-dire sans inflation Quelles ont été les conséquences des mouvements de monnaie métal lique nécessitées par les guerres de Empire Quelle est origine des crises survenues pendant la période impériale Quels pouvaient être les comportements monétaires des particuliers leur liaison avec les événements politiques et particulièrement avec les campagnes militaires importance ils ont dans la genèse des crises Nous étudierons ces problèmes sous trois rubriques abord la structure monétaire de économie impériale et en fait la rigidité du sys tème monétaire Ensuite nous aborderons le problème du financement des guerres Enfin en troisième lieu nous étudierons les comportements moné taires et la conjoncture de la période impériale
+
+Dans cette étude nous avons pas relevé les chiffres qui ont servi nos recherches ils représentent malgré tout un volume assez consi dérable Les données financières peuvent être retrouvées dans les Mémoires de MOLLIEN qui relevé tous les chiffres des budgets et leurs principaux postes et dans YHistoire financière de la France de MARION tome IV Pour les données plus particulièrement économiques nous avons utilisé ouvrage Alexandre CHABERT Essai sur les mouvements des prix et des
+
+### Informations
+
+[Au sujet de persee.fr](https://www.persee.fr/a-propos) [Votre collection sur persee.fr](https://www.persee.fr/votre-collection-sur-persee) [Nous contacter](https://www.persee.fr/nous-contacter)
+
+### Ressources
+
+[Interopérabilité](https://www.persee.fr/interoperabilite) [Modèles documentaires](https://www.persee.fr/modeles-documentaires) [Statistiques de consultation](https://www.persee.fr/statistiques-de-consultation) [Kit logos](https://www.persee.fr/kit-logos)
+
+### Suivez-nous
+
+### Légal
+
+[CGU](https://www.persee.fr/cgu) [Mentions légales](https://www.persee.fr/mentions-legales) [Crédits](https://www.persee.fr/credits)[Politique d'archivage pérenne](https://www.persee.fr/politique-d-archivage-perenne)
+
+[Persée](https://info.persee.fr) © 2005-2026

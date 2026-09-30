@@ -1,0 +1,70 @@
+---
+source_url: "https://apaixonadosporhistoria.com.br/fonte-primaria/21/decreto-de-abertura-dos-portos-1808"
+final_url: "https://apaixonadosporhistoria.com.br/fonte-primaria/21/decreto-de-abertura-dos-portos-1808"
+provider: "exa"
+text_sha256: "fbcc337236152dfe24afe0613e64c51c3a774764296b7afaff2874e7f1891a52"
+title: "Decreto de Abertura dos Portos (1808) - Apaixonados por Hist\u00f3ria"
+content_kind: "page_text"
+---
+
+Decreto de Abertura dos Portos (1808) - Apaixonados por História
+
+- Home
+- Textos
+- Livros
+- Filmes e séries
+- Fontes
+- Ficção-histórica
+
+Área do membro
+
+- Cadastre-se
+- Faça login
+
+www
+
+Busque no site Textos Livros Filmes e séries Fontes
+
+Ver mais opções
+
+Fontes> Brasil Colônia
+
+# Decreto de Abertura dos Portos (1808)
+
+1,9 mil visualizações | 0,7 páginas | 377 palavras | 0 comentário(s)
+
+Chegada da Família Real de Portugal. Rio de Janeiro, 7 de março de 1808. A nau Príncipe Real acaba de fundear; o Vice-Rei e nobres se aproximam para ir a bordo. A nau inglesa Marlborough e o Forte de Villegaignon disparam uma salva. Pintado por Geoff Hunt, R.S.M.A., por encomenda do Dr. Kenneth H. Light. Coleção particular.
+
+Sobre a fonte
+
+O Decreto de Abertura dos Portos às Nações Amigas foi uma carta régia promulgada pelo Príncipe-regente de Portugal Dom João de Bragança, no dia 28 de janeiro de 1808, em Salvador, na Capitania da Baía de Todos os Santos, no contexto da Guerra Napoleônica. O decreto acabava com o chamado sistema de exclusivo colonial, e permitia que as nações amigas (diga-se, a Inglaterra) pudessem realizar comércio na costa brasileira.
+
+Decreto de Abertura dos Portos às Nações Amigas
+
+Conde da Ponte do meu Conselho, governador e capitão general da capitania da Bahia, Amigo. Eu o Príncipe Regente vos envio muito saudar, como aquele que amo. Atendendo a representação que fizestes subir a minha real presença sobre se achar interrompido, e suspenso o comércio desta capitania com grave prejuízo dos meus vassalos, e da minha Real Fazenda, em razão das críticas, e públicas circunstâncias da Europa, e querendo dar sobre este importante objeto alguma providência pronta, e capaz de melhorar o progresso de tais danos, sou servido ordenar interina, e provisoriamente enquanto não consolido um sistema geral que efetivamente regule semelhantes matérias o seguinte:
+
+1° que sejam admissíveis nas Alfândegas do Brasil todos e quaisquer gêneros, fazendas, e mercadorias transportadas, ou em navios estrangeiros das potências que se conservam em paz e harmonia com a minha Real Coroa, ou em navios dos meus vassalos pagando por entrada vinte e quatro por cento a saber vinte de direitos grossos e quatro de donativo já estabelecido, regulando-se a cobrança destes direitos pelas pautas, ou aforamento por que até o presente se regulam cada uma das ditas Alfândegas, ficando os vinhos, águas ardentes, e azeites doces, quese denominam molhados, pagando o dobro dos direitos que até agora nelas satisfaziam.
+
+2° que não só os meus vassalos, mas também os sobreditos estrangeiros possam exportar para os portos que bem lhes parecer a benefício do comércio, e agricultura, que tanto desejo promover todos, e quaisquer gêneros, e produções coloniais, à exceção do pau-brasil, ou outros notoriamente estancados, pagando por saída os mesmos direitos já estabelecidos nas respectivas capitanias, ficando entretanto como em suspenso, e sem vigor todas as leis, cartas régias, ou outras ordens que até aqui proibiam neste Estado do Brasil o recíproco comércio, e navegação entre os meus vassalos, e estrangeiros.
+
+O que tudo assim fareis executar com o zelo, e atividade que de vós espero. Escrita na Bahia aos vinte e oito de janeiro de 1808.
+
+Príncipe.
+
+Cumpra-se e registre-se e passem-se as ordens necessárias. Bahia, 29 de janeiro de 1808
+
+Mais fontes sobre Brasil Colônia
+
+Brasil Colônia e + Manifesto de 6 de agosto de 1822 1,5 mil visualizações - 16/07/2021 - 9,8 páginas
+
+Brasil Colônia Sentença proferida contra os réus da Conjuração Mineira 1,5 mil visualizações - 11/10/2020 - 1 páginas
+
+Comentários sobre a fonte
+
+Cadastre-se ou faça login para comentar
+
+Faça login Cadastre-se
+
+### Ainda não há comentários nessa página.Seja o primeiro a comentar.
+
+Utilizamos cookies essenciais e tecnologias semelhantes de acordo com a nossa Política de Privacidade e, ao continuar navegando, você concorda com estas condições.

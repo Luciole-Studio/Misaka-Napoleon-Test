@@ -1,0 +1,130 @@
+---
+source_url: "https://digital.library.unt.edu/ark:/67531/metadc1752349/"
+final_url: "https://digital.library.unt.edu/ark:/67531/metadc1752349/"
+provider: "exa"
+text_sha256: "edf632124d8442edf354ec29fc340acae566427a1e8f1482fce49cc9aeb0998d"
+title: "The Austrian Army in the War of the Sixth Coalition: A Reassessment - UNT Digital Library"
+content_kind: "page_text"
+---
+
+The Austrian Army in the War of the Sixth Coalition: A Reassessment - UNT Digital Library
+
+# The Austrian Army in the War of the Sixth Coalition: A Reassessment
+
+Showing 1-4 of 160 pages in this thesis.
+
+PDF Version Also Available for Download.
+
+### Creation Information
+
+### Context
+
+This thesis is part of the collection entitled: UNT Theses and Dissertations and was provided by the UNT Libraries to the UNT Digital Library, a digital repository hosted by the UNT Libraries. It has been viewed 303 times. More information about this thesis can be viewed below.
+
+Search
+
+## Who
+
+People and organizations associated with either the creation of this thesis or its content.
+
+### Provided By
+
+#### UNT Libraries
+
+The UNT Libraries serve the university and community by providing access to physical and online collections, fostering information literacy, supporting academic research, and much, much more.
+
+About| Browse this Partner
+
+### Contact Us
+
+Corrections & Problems Questions
+
+## What
+
+Descriptive information to help identify this thesis. Follow the links below to find similar items on the Digital Library.
+
+### Degree Information
+
+### Subjects
+
+### Collections
+
+This thesis is part of the following collection of related materials.
+
+#### UNT Theses and Dissertations
+
+Theses and dissertations represent a wealth of scholarly and artistic content created by masters and doctoral students in the degree-seeking process. Some ETDs in this collection are restricted to use by the UNT community.
+
+About| Browse this Collection
+
+What responsibilities do I have when using this thesis?
+
+### Digital Files
+
+- 160 image files available in multiple sizes
+- 1 file (.pdf)
+- Metadata API: descriptive and downloadable metadata available in other formats
+
+## When
+
+Dates and time periods associated with this thesis.
+
+### Usage Statistics
+
+When was this thesis last used?
+
+Yesterday: 0
+
+Past 30 days: 0
+
+Total Uses: 303
+
+## Interact With This Thesis
+
+Here are some suggestions for what to do next.
+
+### Search Inside
+
+Search Inside
+
+- or search this site for other thesis or dissertations
+
+### Start Reading
+
+PDF Version Also Available for Download.
+
+### Citations, Rights, Re-Use
+
+### International Image Interoperability Framework
+
+We support the IIIF Presentation API
+
+Copy
+
+### Print / Share
+
+Print Email Twitter Facebook Tumblr Reddit
+
+## Links for Robots
+
+Helpful links in machine-readable formats.
+
+### Archival Resource Key (ARK)
+
+- ERC Record:/ark:/67531/metadc1752349/?
+- Persistence Statement:/ark:/67531/metadc1752349/??
+
+### International Image Interoperability Framework (IIIF)
+
+### Metadata Formats
+
+### Images
+
+- Thumbnail:/ark:/67531/metadc1752349/thumbnail/
+- Small Image:/ark:/67531/metadc1752349/small/
+
+### URLs
+
+### Stats
+
+Messman, Daniel M. The Austrian Army in the War of the Sixth Coalition: A Reassessment, thesis, December 2020; Denton, Texas. (https://digital.library.unt.edu/ark:/67531/metadc1752349/: accessed June 16, 2026), University of North Texas Libraries, UNT Digital Library, https://digital.library.unt.edu; .

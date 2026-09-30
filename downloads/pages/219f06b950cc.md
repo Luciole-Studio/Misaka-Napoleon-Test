@@ -1,0 +1,42 @@
+---
+source_url: "https://www.historyofparliamentonline.org/periods/hanoverians/new-opposition-1801-4"
+final_url: "https://www.historyofparliamentonline.org/periods/hanoverians/new-opposition-1801-4"
+provider: "exa"
+text_sha256: "590c89889c74c9ce1b3c8fc9fae85bb63b91c05387d9b02d6def6cbd68b5ab30"
+title: "The 'New Opposition', 1801-4 | History of Parliament Online"
+content_kind: "page_text"
+---
+
+The 'New Opposition', 1801-4 | History of Parliament Online
+
+### Further Reading
+
+Peter Jupp, Lord Grenville, 1759-1834 (1985)
+
+James J. Sack, The Grenvillites, 1801-29. Party Politics and Factionalism in the Age of Pitt and Liverpool (Chicago, 1979)
+
+This group, numerically small but formidable in talent and experience, had its origins in late 1801, the penultimate year of the 1796 Parliament, when the ex-ministers Lord Grenville, William Windham and the 2 nd Earl Spencer, and the conservative Whig magnate, the 2nd Earl Fitzwilliam, decided that they must oppose the terms of the peace preliminaries negotiated by Henry Addington, who had replaced Grenville’s cousin William Pitt as prime minister in March. Between 1802 and 1804 Grenville slowly abandoned an independent political stance to engage in active opposition to the Addington ministry in collaboration with the initially loose but steadily cohering parliamentary group known as the ‘new opposition’. By early 1804 Grenville and his allies were co-operating with Charles James Fox’s Whigs to form a combined opposition which brought down Addington.
+
+Grenville, Windham and Spencer resigned from the cabinet when the king’s veto on Catholic emancipation brought down Pitt in March 1801. They at first supported the administration of Addington, but Grenville was dismayed by the preliminary terms of peace with France negotiated by Addington, believing (correctly) that French aggrandisement guaranteed that the truce would be short-lived and that Britain would enter renewed hostilities on greatly disadvantageous terms. He decided to oppose the preliminaries, while otherwise supporting the government. His brothers, the 1 st marquess of Buckingham and Thomas Grenville, his nephew Lord Temple and their kinsman by marriage, Charles Williams Wynn, concurred in this line, as did Windham, Spencer, Fitzwilliam and his Members William Elliot and French Laurence. In November 1801 it was reported in the press that in the Commons Windham, Temple, Williams Wynn, Elliot, Laurence and a few others had, as the ‘new opposition’ taken seats on an opposition bench near the bar of the House. Addresses advocating stout resistance to future French aggression were defeated in the Lords by 122-16 (13 May 1802), and in the Commons by 276-20 (14 May 1802). The minority in the Lords included ten adherents of the ‘new opposition’: Buckingham; the 5th earl of Carlisle; the 1st earl of Carnarvon; the 1st earl of Carysfort; the 1st Baron Cawdor; Fitzwilliam; the 1st Earl Fortescue; Grenville; the 1st earl of Minto, and Spencer. Carysfort and Fortescue were members of the Grevillite family connection, by marriage. Like Spencer, Carlisle, Carnarvon, Cawdor and Minto had been Portland Whigs. The Commons minority contained 14 definite members of the ‘new opposition’: the five Grenvillites, Tom Grenville, Temple, Charles and Sir Watkin Williams Wynn, and Sir William Young; five attached to Fitzwilliam, namely Bryan Cooke, Charles Lawrence Dundas, Elliot, Francis Foljambe and Laurence; Windham and his associates Lords Folkestone and Kensington; and Spencer’s representative, William Poyntz.
+
+After the general election of 1802, the ‘new opposition’ in the Commons numbered about 20. All the above-mentioned Members were returned, while new recruits included Richard Benyon, George Cranfield Berkeley, Lawrence Dundas, Sir John Coxe Hippisley and (from December 1803) Sir John Newport. With the peers, the grouping amounted to about 30 men. It was still far from being a unified party with a coherent political philosophy, and for the first year of the 1802 Parliament Grenville, torn between his desire to see Pitt, whose support for the peace treaty and equivocation in talks with Grenville clouded the issue, installed at the head of a vigorous government, and his attachment to the gradually solidifying ‘new opposition’, did not consider himself as the leader of a party.
+
+The renewal of war in May 1803 removed most of his doubts and he now asserted himself as leader of the ‘new opposition’. On 3 June Peter Patten, at the behest of George Canning, who had been contemptuous of Addington’s premiership from the outset, moved a series of resolutions of censure on ministers for their handling of the negotiations with France. Pitt’s bid to bury the issue by moving the orders of the day was defeated by 333-56, the Foxites walked out, and Patten’s motion was crushed by 275-34. According to Canning’s analysis, the minority included 16 adherents of the ‘new opposition’, including five of Fitzwilliam’s Members. (The remainder were 13 militant Pittites and four ‘stragglers’.) A similar motion made by Fitzwilliam in the Lords secured only 17 votes.
+
+In the following months the ‘new opposition’ and the Foxite Whigs drew closer together, and in January 1804 the Grenvilles, Spencer, Fitzwilliam and Windham resolved to propose to Fox a combined and systematic opposition to the government, with the aim of replacing it with a broad-based administration. The response was favourable, and an onslaught on Addington’s defence measures, into which Pitt and the prince of Wales’s adherents were drawn, brought down the ministry in late April 1804. The king’s veto of Fox dashed hopes of a broad coalition ministry, and Pitt took office without him and Grenville. In May 1804 his head-counter, George Rose, calculated that in the Commons the Foxites numbered 79 and those attached to Grenville 23. Among these Members were 11 of the men who had launched the ‘new opposition’ in the division of 14 May 1802: Elliot; Folkestone; Tom Grenville; Kensington; Laurence; Poyntz; Temple; Windham; the two Williams Wynns, and Young.
+
+From this point the ‘new opposition’ lost its separate identity, but the connection between it and the Foxites shaped the politics of the Whig party in opposition, for the next 14 years.
+
+It is worth noting that when Lord Grenville became head of the short-lived coalition ministry of ‘all the talents’ in February 1806, he, Spencer, Fitzwilliam and Windham were in the cabinet, while 14 men who had been involved in the activities of the ‘new opposition’ were given subordinate offices.
+
+### Author: David R. Fisher
+
+### Twins in Parliament: the Grenvilles and Buckingham Borough, 1774
+
+ Examples of twins sitting in Parliament at the same time are extremely rare. The first time it happened, so far as we can establish, was at the 1774 election, when even more unusually, two Grenville twins took the two places at Buckingham. 
+
+### The Cider Excise, 1763-8
+
+ The introduction of the cider tax in 1763 provoked a minor political row, particularly in the West Country, which was suggestive of significant future changes. The furore was not on the scale of the excise crisis of 1733, but it foreshadowed developments in the expanding scope of popular,... 
+
+ The War of Jenkins' Ear with Spain is said to have been provoked by the display of a mutilated ear at a Commons' Committee in 1738. The war contributed to the decline of Walpole's power in Parliament.
