@@ -1,0 +1,7 @@
+year,snapshot,country,ship_class,sea_commission,sea_ordinary,sea_total,harbour_commission,harbour_ordinary,building_or_ordered,grand_total,sea_commission_tons,source,locator,status
+1803,year_start,UK,line,32,79,111,0,39,22,172,54800,James1837vol3,Abstract11_PDF395,primary_table_checked_second_source_not_independent
+1804,year_start,UK,line,75,40,115,9,29,19,172,135666,James1837vol3,Abstract12_PDF396,single_source_checked
+1805,year_start,UK,line,83,33,116,11,28,26,181,148929,James1837vol3,Abstract13_PDF397,primary_table_checked_second_source_not_independent
+1803,year_start,UK,all_cruisers_including_line,210,178,388,3,102,53,546,158090,James1837vol3,Abstract11_PDF395,single_source_checked
+1804,year_start,UK,all_cruisers_including_line,356,67,423,27,68,78,596,286555,James1837vol3,Abstract12_PDF396,single_source_checked
+1805,year_start,UK,all_cruisers_including_line,473,61,534,26,73,80,713,330013,James1837vol3,Abstract13_PDF397,single_source_checked

@@ -1,0 +1,206 @@
+# Sources — nodes/r_b55f2c1cf5/cards/t_7ee3b0 — [t_7ee3b0] 海军军备竞赛可行性计算：法方何时、以何质量追近皇家海军
+
+Written by misaka when the products here were settled and rebuilt from scratch each time, so edit nothing in this file or under the sources folder. Each file there is a hard link to where it already lives in the project (a copy only where a hard link was not possible); the originals never move. Cite original project files, not this bundle's disposable sources paths.
+
+## Products
+
+- `../t_104134/c2_gaps.csv` — [t_7ee3b0] c2_gaps.csv (task_output)
+- `build_c3.py` — [t_7ee3b0] build_c3.py (task_output)
+- `c3_calibration.csv` — [t_7ee3b0] c3_calibration.csv (task_output)
+- `c3_naval_race_model.md` — [t_7ee3b0] c3_naval_race_model.md (task_output)
+- `c3_quality_thresholds.csv` — [t_7ee3b0] c3_quality_thresholds.csv (task_output)
+- `c3_replay_manifest.json` — [t_7ee3b0] c3_replay_manifest.json (task_output)
+- `c3_scenarios.csv` — [t_7ee3b0] c3_scenarios.csv (task_output)
+- `c3_thresholds.csv` — [t_7ee3b0] c3_thresholds.csv (task_output)
+- `materials/James_1886_IV_sortie_passages.md` — [t_7ee3b0] James_1886_IV_sortie_passages.md (task_output)
+- `materials/README.md` — [t_7ee3b0] README.md (task_output)
+- `rebuild_feedback_evidence.md` — [t_7ee3b0] rebuild_feedback_evidence.md (task_output)
+- `sortie_evidence.md` — [t_7ee3b0] sortie_evidence.md (task_output)
+
+## Cited sources (under `sources/`)
+
+- `sources/James_1837_v3_ETH.pdf` ← `downloads/James_1837_v3_ETH.pdf`
+  - "James_1837_v3_ETH.pdf"
+  - sha256 a178739fd84ccf59a4c1fc0dc312734551593c2d4608ec739ebe28e0b18e7be8
+  - cited as `doc:a178739fd84c#p395` by [t_104134] "英国1803年初战列舰：海勤现役32、海勤预备79，海勤合计111；港勤39，在建或已订购22；包括后两类的大总数172不得当作可战舰数。" (fact)
+  - cited in `nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md`
+- `sources/James_Naval_History_v3.pdf` ← `downloads/James_Naval_History_v3.pdf`
+  - "James_Naval_History_v3.pdf"
+  - sha256 a78cfbda31e215142dee2ea14ef368eed2ac6084f9d1a889693ae7a6752026b5
+  - cited as `doc:a78cfbda31e2#p183` by [t_104134] "James述1803年初32舰现役，5月1日前增20，6月1日60；但限定at sea or fitting for sea，因此现役舰数不能直接代替即时在航战力，亦非海峡专属兵力。" (fact) — "all either at sea or fitting for sea"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md`
+- `sources/c11_corbett.txt` ← `downloads/c11_corbett.txt`
+  - "c11_corbett.txt"
+  - sha256 4ab49819b13448b04316d8e2754e54e80965c710395e2fd891e0ecea1d576a83
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+- `sources/pages/2cae8e7be9d4.md` ← `downloads/pages/2cae8e7be9d4.md`
+  - "The Continental System: An Economic Interpretation - Econlib" — https://www.econlib.org/library/YPDBooks/Heckscher/hksrCS15.html
+  - sha256 2cae8e7be9d4d7530b766476c70ea0e7b81f5f3eb8083d64c7ef11050644c779
+  - cited as `https://www.econlib.org/library/YPDBooks/Heckscher/hksrCS15.html` in `nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md`
+- `sources/pages/326b19e197a6.md` ← `downloads/pages/326b19e197a6.md`
+  - "Napoléon et la " descente " en Angleterre. 1re partie : Les multiples projets de 1778 à 1803 - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/napoleon-et-la-descente-en-angleterre-1re-partie-les-multiples-projets-de-1778-a-1803/
+  - sha256 326b19e197a6a7aeff6a92dab3522bdd28b2cae49d0635d98f8cf8fbe0b46ef1
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/articles/napoleon-et-la-descente-en-angleterre-1re-partie-les-multiples-projets-de-1778-a-1803/` in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+- `sources/pages/3b214d7b54fb.md` ← `downloads/pages/3b214d7b54fb.md`
+  - "COMMITTEE OF SUPPLY. (Hansard, 10 November 1813)" — https://api.parliament.uk/historic-hansard/commons/1813/nov/10/committee-of-supply
+  - sha256 3b214d7b54fb6e97568f0b25d22dbbc7459a2f92e18392088c84bd1ac4d756c1
+  - cited by [t_7ee3b0] "1813年议会以法国扩舰威胁及海员遣散后难召回支持保编；新建和修理另待预算，故不能把保编证据写成已核增建数量。" (fact) — "If we suddenly disbanded, it would not be so easy a task, on an emergency, to recal our seamen"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1813/nov/10/committee-of-supply` in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md`
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1813/nov/10/committee-of-supply` in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md`
+- `sources/pages/581d84a8bc6e.md` ← `downloads/pages/581d84a8bc6e.md`
+  - "FRENCH PRISONERS OF WAR. (Hansard, 14 June 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/jun/14/french-prisoners-of-war
+  - sha256 581d84a8bc6ebc5fba597774b6bf66901dd0c9982f976a47a8595451c7b7a1dd
+  - cited by [t_104134] "议会报告在England的法国战俘45933人，另述parole2710人；文本未给陆海军拆分及清晰包含关系。报告是在囚待遇争论中提出，不能据其健康比例消除同期待遇批评。" (fact) — "the total number of French Prisoners remaining in England amounted to 45,933"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md`
+- `sources/pages/6864746209f3.md` ← `downloads/pages/6864746209f3.md`
+  - "Correspondance de Napoléon Ier - Juillet 1811 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1811/
+  - sha256 6864746209f39aee6fe88239fe954df1d57a7d5537d4faa2fea23c6fd9869f07
+  - cited by [t_7ee3b0] "1811-07-31致欧仁通信提出：若两战列舰困于Malamocco，一半船员改乘小舰在亚得里亚海练习；这是替代训练选项证据，不是训练日实际完成数。" (fact) — "la moitié des équipages restera à bord et l’autre moitié, embarquée sur ces bâtiments légers, battr…"
+  - cited by [t_7ee3b0] "同期命令明确提出半数舰员乘轻舰在亚得里亚海巡航并练习，故封锁下全部海上训练日为零不能作为先验；训练实现量仍未知。" (fact) — "la moitié des équipages restera à bord et l’autre moitié, embarquée sur ces bâtiments légers, battr…"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1811/` in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+- `sources/pages/70cc6a857e5f.md` ← `downloads/pages/70cc6a857e5f.md`
+  - "Carnegie Endowment for International Peace" — https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/327/0142_Bk.pdf
+  - sha256 70cc6a857e5f3c1617deab203e0e6115719e6d3e6ec4380ed81969691d5a08a2
+  - cited by [t_104134] "Heckscher棉业表仅为官方固定估价，不能视为当期出口收入；其解释同时指出大陆港口关闭、殖民品过量进口、南美与美洲贸易投机因素，不支持将1811危机全部归为封锁单因。" (fact) — "On this point only ‘ official ’ values are available"
+- `sources/pages/71106f9334bc.md` ← `downloads/pages/71106f9334bc.md`
+  - "A Global Forum for Naval Historical Scholarship" — https://www.ijnhonline.org/wp-content/uploads/2012/01/Bjerg.pdf
+  - sha256 71106f9334bc0074cf079de22bd2f1c0541db5ae1e6b13f7c8f2f17b7dbf149e
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+  - cited as `https://www.ijnhonline.org/wp-content/uploads/2012/01/Bjerg.pdf` in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md`
+  - cited as `https://www.ijnhonline.org/wp-content/uploads/2012/01/Bjerg.pdf` in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md`
+- `sources/pages/717b149d2bb0.md` ← `downloads/pages/717b149d2bb0.md`
+  - "The French Fleet, 1807-1814; Britain's Problem; and Madison's Opportunity on JSTOR" — https://www.jstor.org/stable/1876579
+  - sha256 717b149d2bb0e2e86a1ce9756c3f84e92d49dd4960c5601e551e58a3a7994be3
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md`
+  - cited as `https://www.jstor.org/stable/1876579` in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md`
+- `sources/pages/7b34f7d2c4ab.md` ← `downloads/pages/7b34f7d2c4ab.md`
+  - "Au. II A Guard of Hi. Britannic Majesty's Troops shall likewise be placed in tlic Dock-YanU" — https://www.thegazette.co.uk/London/issue/16067/page/1231/data.pdf
+  - sha256 7b34f7d2c4ab58a2ea592c84368112a0be49d75a301a5db8938dbe3e6e75292b
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+  - cited as `https://www.thegazette.co.uk/London/issue/16067/page/1231/data.pdf` in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md`
+  - cited as `https://www.thegazette.co.uk/London/issue/16067/page/1231/data.pdf` in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md`
+- `sources/pages/7f93512d05f7.md` ← `downloads/pages/7f93512d05f7.md`
+  - "The Royal Navy 1793-1815 - PDF Free Download" — https://epdf.tips/the-royal-navy-1793-1815.html
+  - sha256 7f93512d05f7f8a4ab63996be7ba94c49876829622b752f46a63ab954a2afa10
+  - cited as `https://epdf.tips/the-royal-navy-1793-1815.html` in `nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md`
+- `sources/pages/82a063e7e022.md` ← `downloads/pages/82a063e7e022.md`
+  - "Correspondance de Napoléon Ier - Juillet 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1810/
+  - sha256 82a063e7e0221d78d69d1eaa4e348fe3782bcaf8797b246e69bf3f68c17ae89b
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1810/` in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+- `sources/pages/8a34c915525c.md` ← `downloads/pages/8a34c915525c.md`
+  - "A British View of the Naval War of 1812 | Naval History Magazine - August 2008 Volume 22, Number 4" — https://www.usni.org/magazines/naval-history-magazine/2008/august/british-view-naval-war-1812
+  - sha256 8a34c915525c14d290ae3b0bd0461c0d11d0510b8772fde1e163285b4ee156fa
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md`
+  - cited as `https://www.usni.org/magazines/naval-history-magazine/2008/august/british-view-naval-war-1812` in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md`
+- `sources/pages/95e1bd14b0d8.md` ← `downloads/pages/95e1bd14b0d8.md`
+  - https://www.ibiblio.org/pha/USN/Navy/navalhistoryofgr06jameuoft.pdf
+  - sha256 95e1bd14b0d887072d19c5e535e7dc36cca69f74022bf1226d3c27b08188677e
+  - cited by [t_104134] "James卷6第119页以French papers为据述1814年2月土伦23舰afloat，另2—3舰在建；这是转引截面而非独立法国档案核对。" (fact)
+  - cited in `nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md`
+  - cited as `https://www.ibiblio.org/pha/USN/Navy/navalhistoryofgr06jameuoft.pdf` in `nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md`
+- `sources/pages/a0212ccd17cd.md` ← `downloads/pages/a0212ccd17cd.md`
+  - "The London Gazette | The Gazette" — https://www.thegazette.co.uk/London/issue/16067/page/1231
+  - sha256 a0212ccd17cd7dcfa125f8eb44c8a783fc7c3241fcf15547f82ef6c956680585
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md`
+  - cited as `https://www.thegazette.co.uk/London/issue/16067/page/1231` in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md`
+- `sources/pages/ab124a162bee.md` ← `downloads/pages/ab124a162bee.md`
+  - "NAVY ESTIMATES. (Hansard, 4 March 1839)" — https://api.parliament.uk/historic-hansard/commons/1839/mar/04/navy-estimates
+  - sha256 ab124a162bee6df0b60a8dcba42977f97cbb7666625ce551be92dd033a73d119
+  - cited by [t_104134] "1839年议会发言以1793年1/3/5/7月及年底前borne为23000/39000/50000/60000/70000，借以论证1839年的动员能力；整千数且海军陆战队范围不明，不可改称mus…" (fact) — "I will state shortly to the Committee what has been done on former occasions"
+- `sources/pages/b92bac3d423e.md` ← `downloads/pages/b92bac3d423e.md`
+  - "War, Naval Logistics and the British State" — https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf
+  - sha256 b92bac3d423e354551736d05fce5d1b982541c26928437aaac019fbb4e77121f
+  - cited in `nodes/r_b55f2c1cf5/cards/t_104134/manpower/late_supply_addendum.md`
+  - cited as `https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf` in `nodes/r_b55f2c1cf5/cards/t_104134/manpower/late_supply_addendum.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+  - cited as `https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf` in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+- `sources/pages/c0e5e2069d0d.md` ← `downloads/pages/c0e5e2069d0d.md`
+  - "The "Berlin Decree" of November 21 1806 - napoleon.org" — https://www.napoleon.org/en/history-of-the-two-empires/articles/the-berlin-decree-of-november-21-1806/
+  - sha256 c0e5e2069d0d55c8ce14d6dff725988cce1d08340565055bbe3dd583a370ca0d
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+- `sources/pages/c8d5a2d5c67b.md` ← `downloads/pages/c8d5a2d5c67b.md`
+  - "JASMA経営会計研究論文" — https://www.jstage.jst.go.jp/article/jjsma/23/1/23_33/_pdf/-char/en
+  - sha256 c8d5a2d5c67bb5a418cf6e4f9334d507d0d1e5c163dcc9f2feba94a51a315162
+  - cited as `https://www.jstage.jst.go.jp/article/jjsma/23/1/23_33/_pdf/-char/en` in `nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md`
+- `sources/pages/ca2822c409fd.md` ← `downloads/pages/ca2822c409fd.md`
+  - https://era-prod11.ethz.ch/zut/download/ftpack/plain/22838061
+  - sha256 ca2822c409fd53e5463b3691a8a5af29cbb176db02ed28fcc0329db82f47e98d
+  - cited as `https://era-prod11.ethz.ch/zut/download/ftpack/plain/22838061` in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/sortie_evidence.md`
+- `sources/pages/d49295b7a7ca.md` ← `downloads/pages/d49295b7a7ca.md`
+  - "Napoleon Series: War of 1812 Issue 9" — https://www.napoleon-series.org/military-info/Warof1812/2008/Issue9/c_top25articles.html
+  - sha256 d49295b7a7cae13d3effb833f6f02a0ccb44246e9d254d6a8c7c390bc08fdb03
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+  - cited as `https://www.napoleon-series.org/military-info/Warof1812/2008/Issue9/c_top25articles.html` in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md`
+  - cited as `https://www.napoleon-series.org/military-info/Warof1812/2008/Issue9/c_top25articles.html` in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md`
+- `sources/pages/d6e755fb0b5d.md` ← `downloads/pages/d6e755fb0b5d.md`
+  - https://www.ibiblio.org/hyperwar/NHC/NewPDFs/UK/UK,%20Naval%20History%20of%20Great%20Britain%204.pdf
+  - sha256 d6e755fb0b5d97396a17807a89efeb25af29017a019e93c5bbca717307455068
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+  - cited as `https://www.ibiblio.org/hyperwar/NHC/NewPDFs/UK/UK,%20Naval%20History%20of%20Great%20Britain%204.pdf` in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+  - cited as `https://www.ibiblio.org/hyperwar/NHC/NewPDFs/UK/UK,%20Naval%20History%20of%20Great%20Britain%204.pdf` in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/materials/James_1886_IV_sortie_passages.md`
+  - cited as `https://www.ibiblio.org/hyperwar/NHC/NewPDFs/UK/UK,%20Naval%20History%20of%20Great%20Britain%204.pdf` in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/sortie_evidence.md`
+- `sources/pages/d79be65764b5.md` ← `downloads/pages/d79be65764b5.md`
+  - "FINANCE RESOLUTIONS. (Hansard, 20 June 1809)" — https://api.parliament.uk/historic-hansard/commons/1809/jun/20/finance-resolutions
+  - sha256 d79be65764b55f77b4d8403d1a9b686a19784133ca8edc92774b2c9cfcde215b
+  - cited by [t_104134] "1804—1809战争税表按4月5日年终、Customs and Excise及Property Tax分列；仅战争税而非全部税收。1807网页总项16305881与分项不符，1809总项20030…" (fact)
+  - cited by [t_104134] "Hansard第15项同表内部：1807报告合计比分项和多£50，1809少£56,000。差额是算术派生，不能据此认定合计或分项谁错。" (fact) — "| Customs and Excise | 9,305,799 | | Property Tax | 7,000,032 | | 16,305,881 |"
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1809/jun/20/finance-resolutions` in `nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md`
+- `sources/pages/ecb1c103e4af.md` ← `downloads/pages/ecb1c103e4af.md`
+  - "The French Fleet, 1807-1814; Britain's Problem; and Madison's Opportunity" — https://www.journals.uchicago.edu/doi/10.1086/240080
+  - sha256 ecb1c103e4af86cfd81158843732f2e7989dc204a5c8ae29a9a6889c258ec881
+  - cited as `https://www.journals.uchicago.edu/doi/10.1086/240080` in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md`
+- `sources/pages/fea94568f86f.md` ← `downloads/pages/fea94568f86f.md`
+  - "www.e-rara.ch" — https://era-prod11.ethz.ch/download/pdf/22972845.pdf
+  - sha256 fea94568f86f2eae624fe8fb744c30814e03489da749bc09e20c62a6ae098d46
+  - cited by [t_104134] "James1837卷5第328页述1811夏末斯海尔德15艘战列舰在锚；三厂在建12—15艘，其中5—6较先进，另3舰调入维修。三种状态不可混算为年度新增。" (fact)
+  - cited by [t_104134] "95e1缓存扉页明确1902年卷VI；fea缓存仅平台书目封页明确1837年及馆藏号，未标卷次。“卷5”仍需独立书目补核，但1811印刷328页正文定位成立。" (fact)
+  - cited in `nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md`
+  - cited as `https://era-prod11.ethz.ch/download/pdf/22972845.pdf` in `nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md`
+- `sources/t_104134/c2_gaps.csv` ← `nodes/r_b55f2c1cf5/cards/t_104134/c2_gaps.csv`
+  - "[t_104134] nodes/r_b55f2c1cf5/cards/t_104134/c2_gaps.csv"
+  - sha256 d0bc3e5672beb70301aaad5bc07c4b46098ef15c79fb0fc723eeea4e0484f66c
+  - cited by [t_7ee3b0] "C2缺法国1807–14全国存量和下水、英国1806后同口径系列、人力实到、舰材及海军预算，不能计算合同要求的史实校准误差。" (fact)
+- `sources/t_104134/c2_naval_econ_data.md` ← `nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md`
+  - "[t_104134] nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md"
+  - sha256 575754e7ae242ab8e4cde3a48c7d3433649a3605cf46e8bfae51a1e4d4463b03
+  - cited by [t_104134] "英国1803—05原表及1803动员锚点可支撑状态区分；现役包含舾装，预备非即时可用，全国非海峡。在建/订购及港勤不得加作即时战力。" (inference)
+- `sources/naval/James1837_p395.png` ← `nodes/r_b55f2c1cf5/cards/t_104134/naval/James1837_p395.png`
+  - sha256 9051f118da00b3c61aeaafa1a4d4b3518a9e5a7b892a70928bdbec85065ed474
+  - cited by [t_104134] "英国1803年初战列舰：海勤现役32、海勤预备79，海勤合计111；港勤39，在建或已订购22；包括后两类的大总数172不得当作可战舰数。" (fact)
+
+## Cited, already in this folder
+
+- `build_c3.py`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+- `c3_naval_race_model.md`
+  - cited by [t_7ee3b0] "舰数门槛与吨位、效能及护航能力不等同。C2只有英国1803—05相容切片可作条件算术，法国追平年与1830海员代理不可识别。" (inference)
+  - cited by [t_7ee3b0] "条件模型给出追赶须累计弥补初始差额并扣除英国净增；敏感性门槛只是代数关系，未估计英国反应系数或法国学习率。" (inference)
+- `sortie_evidence.md`
+  - cited by [t_7ee3b0] "1806远征有真实巡航与补给停泊，1809防火艇受风潮约束；不能将远征日历当训练天数，或将锚地败绩当全国质量比例。" (inference)
+
+## Consulted but not cited (left where they are)
+
+- `downloads/pages/91cd29be12fe.md` — "ETH-Bibliothek / The naval history of Great Britain : from the declaration of war by France in 1793, to the accession o…" — https://www.e-rara.ch/doi/10.3931/e-rara-80794
+- `downloads/pages/c12dfd521612.md` — "Verifying your browser" — https://www.e-rara.ch/zut/content/structure/22837653
+- `downloads/pages/d3e4fbf7fd4d.md` — "The Naval History of Great Britain" — https://www.electricscotland.com/history/scotreg/navalhistory.htm
+- `downloads/pages/f7a4158b5822.md` — "Verifying your browser" — https://www.e-rara.ch/zut/content/structure/22836754
+
+## Unresolved locators
+
+- `https://www.e-rara.ch/download/pdf/22837653.pdf` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md`)
+- `https://archive.org/details/campaignoftrafalOOcorb` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`)
+- `https://doi.org/10.1086/240080` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`)
+- `http://www.archive.org/details/navalhistoryofg04jame` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/materials/James_1886_IV_sortie_passages.md`)
+- `downloads/pages/d6e755fb0b5d.md。原缓存有跳页及OCR错误，不称完整逐页文本。本文件是实际读取段落的选录，不是整卷复制。` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/materials/James_1886_IV_sortie_passages.md`)
+- `https://www.jstor.org/stable/pdf/1876579.pdf` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md`)
+- `https://www.journals.uchicago.edu/doi/pdf/10.1086/240080` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md`)

@@ -1,0 +1,11 @@
+{
+ "seq": 2,
+ "path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_9f10b6/f4_audit.md",
+ "ops": [
+  {
+   "append": {
+    "content": "\n## 六、提交后补订审计（第二轮）\n\n补订范围：S6阈值表、1810非常关税构成与严格S3区间、S3/S6对冲曲线、专卖毛净通例、F2/F3口径澄清、补偿融资轴＋F5社会侧证据。**未改动任何既有结论与数值。**\n\n新增引文抽核（本轮亲读缓存原文）：\n\n| # | 出处 | 结果 |\n|---|---|---|\n| 19 | M 印p.306 | 61.046m构成点名：1810-07-09令荷兰存货由业主保留缴50%税；8-05与10-18令提高进口税并强化缉私；许可证制度「permit d'en tirer même d'Angleterre et de les introduire en payant d'énormes droits」。**原文未给各component份额** |\n| 20 | M 印p.306 | 7月法令后4个月即53.622.620；1810-08至1812-01-01累计105.927.667 |\n| 21 | LZ 缓存 | 「Outre leurs 25 000 francs annuels」；1814「une pension de 36 000 francs annuelle leur fut accordée et quatre-vingt quatre sénateurs furent intégrés à la nouvelle chambre des Pairs」 |\n| 22 | LZ 附录2 | sénatoreries「d'abord au nombre de trente et un, puis… de trente-six」，每处年入2–2.5万 |\n| 23 | BCN 书评 | 「75% des revenus se situent entre 500 et 5000 francs」 |\n\n新增算术（已入CSV，标明为推算非原表）：\n\n- `105.927667−61.046＝44.881667`（1811非常关税推算），假设：非常制度1810年7/8月起步，故日历年1810非常额≈8–12月部分。\n- `79.3−44.881667＝34.418333`（1811普通关税推算）；与1810普通35.881同量级，作一致性交叉检验。\n- `496.5/37＝13.4189…`（每百万人主权费精算；文书自取整14）。\n\n数据表：记录数由397增至**422**（新增S6阈值表行、1811拆分推算、F5社会锚点）。id唯一、缺测行无值、模型行非S0、无空locator/source_id等机械检查全部重跑通过。\n\n本轮对协作材料的一处校正：F5转述sénatoreries为「实设不足四十处」，所引页面原文为初31处、经数波至36处，本卡按36处登记。\n\n仍未做：Branda《Le prix de la gloire》(2007)逐年表、Gaudin《Mémoires》附录历年收入表、Bulletin des lois各年《Compte général》均未取；Last Order所列入口登记为下一轮升级路径，未取得者照旧标缺测，不以入口存在改写任何缺测格。\n"
+   }
+  }
+ ]
+}

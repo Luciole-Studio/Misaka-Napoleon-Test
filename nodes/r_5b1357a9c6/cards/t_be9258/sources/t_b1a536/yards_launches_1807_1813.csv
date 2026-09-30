@@ -1,0 +1,53 @@
+yard,ship_identity,rated_guns,launch_date,scope,source_codes,evidence_status,conflict_or_identity_note
+Antwerp,Charlemagne,74,1807-04-08,requested_seven,L;T;G,web_text_secondary,BnF catalogue title independent corroboration; later Nassau
+Antwerp,Commerce de Lyon,74,1807-04-09,requested_seven,L;T,web_text_secondary,Completed March 1808 not launch year
+Antwerp,Anversois,74,1807-06-07,requested_seven,L;T,web_text_secondary,Later Eole same hull
+Antwerp,Duguesclin,74,1807-06-20,requested_seven,L;T,web_text_secondary,
+Antwerp,Cesar,74,1807-06-21,requested_seven,L;T,web_text_secondary,Later Prins Frederik same hull
+Antwerp,Dantzig,74,1807-08-15,requested_seven,L;T,web_text_secondary,Dantzick; originally Illustre; later Achille same hull
+Antwerp,Ville de Berlin,74,1807-09-06,requested_seven,L;T,web_text_secondary,Thesee alias; launch-day name disputed
+Antwerp,Pultusk,74,1807-09-20,requested_seven,L;T,web_text_secondary,Pulstuck; originally Audacieux; Dutch later name conflicting
+Antwerp,Dalmate,74,1808-08-21,requested_seven,L;T,web_text_secondary,Later Hector same hull
+Antwerp,Albanais,74,1808-10-02,requested_seven,L;T,web_text_secondary,
+Antwerp,Friedland,80,1810-05-02,requested_seven,L;B,web_text_secondary,Later Vlaming; not Cherbourg Friedland launched 1840
+Antwerp,Tilsitt,80,1810-08-15,requested_seven,B;Ti;L,web_text_secondary,L gives 1810-08-25; date retained as conflict
+Antwerp,Auguste,80,1811-04-25,requested_seven,L;B,web_text_secondary,Later Illustre; distinct from Illustre launched June 1811
+Antwerp,Pacificateur,80,1811-05-22,requested_seven,L;B,web_text_secondary,Not Brest same-name cancelled 74-gun hull
+Antwerp,Illustre,80,1811-06-09,requested_seven,L;B,web_text_secondary,Later Prins van Oranje
+Antwerp,Trajan,74,1811-08-15,requested_seven,L;T,web_text_secondary,
+Antwerp,Gaulois,74,1812-04-14,requested_seven,L;T,web_text_secondary,1811 planned launch not actual
+Antwerp,Conquerant,80,1812-04-27,requested_seven,L;B,web_text_secondary,1811 planned launch not actual
+Brest,Tonnerre,74,1808-06-09,requested_seven,L;T,web_text_secondary,
+Brest,Nestor,74,1810-05-21,requested_seven,L;T,web_text_secondary,
+Brest,Orion,74,1813-10-09,requested_seven,L;T,web_text_secondary,
+Rochefort,Ville de Varsovie,80,1808-05-10,requested_seven,L;B,web_text_secondary,Laid down as Tonnant same hull
+Rochefort,Triomphant,74,1809-03-31,requested_seven,L;T,web_text_secondary,
+Lorient,D'Hautpoul,74,1807-09-02,requested_seven,L;T,web_text_secondary,Later HMS Abercrombie same hull
+Lorient,Polonais,74,1808-05-27,requested_seven,T;P;L,web_text_secondary,L gives 1808-05-25; later Lys same hull
+Lorient,Eylau,80,1808-11-19,requested_seven,L;B,web_text_secondary,
+Lorient,Golymin,74,1809-12-08,requested_seven,L;T,web_text_secondary,
+Lorient,Marengo,74,1810-10-12,requested_seven,L;T,web_text_secondary,Later Pluton same hull
+Lorient,Diademe,80,1811-12-01,requested_seven,L;B,web_text_secondary,Completed March 1812 not launch year
+Toulon,Donawerth,80,1808-07-04,requested_seven,L;B,web_text_secondary,
+Toulon,Austerlitz,118,1808-08-15,requested_seven,L;O,web_text_secondary,
+Toulon,Danube,74,1808-12-21,requested_seven,L;T,web_text_secondary,
+Toulon,Ulm,74,1809-05-25,requested_seven,L;U;T,web_text_secondary,T class table gives Rochefort; U career text citing Winfield-Roberts p94 gives Toulon
+Toulon,Wagram,118,1810-07-01,requested_seven,L;O,web_text_secondary,Originally Monarque; distinct from unlaunched Antwerp namesake
+Toulon,Sceptre,80,1810-08-15,requested_seven,L;B,web_text_secondary,
+Toulon,Trident,74,1811-06-09,requested_seven,L;T,web_text_secondary,
+Toulon,Imperial,118,1811-12-01,requested_seven,L;O,web_text_secondary,Later Royal Louis; not namesake lost in 1806
+Toulon,Romulus,74,1812-05-31,requested_seven,L;T,web_text_secondary,Later Guerriere same hull
+Toulon,Ville de Marseille,74,1812-08-15,requested_seven,L;T,web_text_secondary,Later disposal date conflicting not used
+Toulon,Montebello,118,1812-12-06,requested_seven,L;O,web_text_secondary,Not Venice 74-gun namesake launched 1815
+Toulon,Heros,118,1813-08-15,requested_seven,L;O,web_text_secondary,Completed January 1814; launch does not establish commissioned service
+Toulon,Colosse,74,1813-12-05,requested_seven,L;T,web_text_secondary,Later Pallas same hull
+Genoa,Breslaw,74,1808-05-03,requested_seven,L;T,web_text_secondary,Originally Superbe same hull
+Genoa,Agamemnon,74,1812-02-23,requested_seven,L;T,web_text_secondary,Later Amphitrite same hull
+Genoa,Scipion,74,1813-09-05,requested_seven,L;T,web_text_secondary,
+Venice,Rivoli,74,1810-09-06,requested_seven,L;T;V,web_text_secondary,V British 1812 identity record excluded as duplicate of captured hull
+Venice,Mont Saint-Bernard,74,1811-06-09,requested_seven,T;M;V;L,web_text_secondary,L gives 1809-06-09; V rates 80; French versus Italian registry unresolved
+Venice,Regenerateur,74,1811-07-07,requested_seven,L;V,web_text_secondary,Rigeneratore same hull; L gives month only; legal registry unresolved
+Venice,Castiglione,74,1812-08-02,requested_seven,L;T;V,web_text_secondary,
+Venice,Royal Italien,74,1812-08-15,requested_seven,L;T;V,web_text_secondary,Real Italiano same hull; legal registry unresolved
+Cherbourg,Zelandais,80,1813-10-12,supplement_outside_seven,L;B,web_text_secondary,Later Duquesne; not Russian transferred namesake
+Cherbourg,Duguay-Trouin,74,1813-11-10,supplement_outside_seven,L;T,web_text_secondary,

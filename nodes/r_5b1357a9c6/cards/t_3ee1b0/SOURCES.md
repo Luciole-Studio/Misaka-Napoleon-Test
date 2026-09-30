@@ -1,0 +1,266 @@
+# Sources — nodes/r_5b1357a9c6/cards/t_3ee1b0 — [t_3ee1b0] 普鲁士：残存国家、改革派与取消普鲁士的可行性
+
+Written by misaka when the products here were settled and rebuilt from scratch each time, so edit nothing in this file or under the sources folder. Each file there is a hard link to where it already lives in the project (a copy only where a hard link was not possible); the originals never move. Cite original project files, not this bundle's disposable sources paths.
+
+## Products
+
+- `PR_arithmetic.py` — [t_3ee1b0] PR_arithmetic.py (task_output)
+- `PR_calculations.csv` — [t_3ee1b0] PR_calculations.csv (task_output)
+- `PR_parameters.csv` — [t_3ee1b0] PR_parameters.csv (task_output)
+- `PR_prussia.md` — [t_3ee1b0] PR_prussia.md (task_output)
+- `notes_core.md` — [t_3ee1b0] notes_core.md (task_output)
+- `notes_economy_society.md` — [t_3ee1b0] notes_economy_society.md (task_output)
+- `notes_financial_addendum.md` — [t_3ee1b0] notes_financial_addendum.md (task_output)
+- `notes_hgis.md` — [t_3ee1b0] notes_hgis.md (task_output)
+- `notes_mobilization.md` — [t_3ee1b0] notes_mobilization.md (task_output)
+- `notes_treaties_diplomacy.md` — [t_3ee1b0] notes_treaties_diplomacy.md (task_output)
+
+## Cited sources (under `sources/`)
+
+- `sources/A_Axtmann1991_Austria_Ireland.pdf` ← `downloads/A_Axtmann1991_Austria_Ireland.pdf`
+  - "A_Axtmann1991_Austria_Ireland.pdf"
+  - sha256 404e0e6ff4178381e6628dca11bf23797b185d58bc77a063870990d45949d016
+  - cited by [t_f4bb81] "Axtmann1991财政附录转Beer1877：1809财政收入31.1、支出86.3、军费66.8；1810分别25.0/76.1/52.2百万银值盾CM。总支出不含偿还本金及纸券回收。" (fact)
+  - cited as `doc:404e0e6ff417#p262` by [t_f4bb81] "Axtmann1991财政附录转Beer1877：1809财政收入31.1、支出86.3、军费66.8；1810分别25.0/76.1/52.2百万银值盾CM。总支出不含偿还本金及纸券回收。" (fact)
+- `sources/F4_Marion_IV_1925.pdf` ← `downloads/F4_Marion_IV_1925.pdf`
+  - "F4_Marion_IV_1925.pdf"
+  - sha256 1f18be55f219f6abe4058a30ce58fab14d1f202daa0b4724634cecb004c41ed5
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_financial_addendum.md`
+- `sources/PR_HGIS_Preussen.pdf` ← `downloads/PR_HGIS_Preussen.pdf`
+  - "PR_HGIS_Preussen.pdf"
+  - sha256 1cb1940bb2b6d2b3b8a77f40414be4edbe02b40363fecc35acf14fc11401a0b3
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_hgis.md`
+- `sources/PR_Murau_Debt2023.pdf` ← `downloads/PR_Murau_Debt2023.pdf`
+  - "PR_Murau_Debt2023.pdf"
+  - sha256 714b36cac7e707b29f337047b8eb1b6e51e089e878933de68971ccb93b025b12
+  - cited as `doc:714b36cac7e7#p12` by [t_3ee1b0] "普鲁士1806年国债口径存在未调和冲突：Murau(2023)报1806年末53.5百万塔勒并给1820年合计217.2百万（=180有息+11.2纸币+25.9省债，占4.25年财政收入），而本卡…" (fact) — "At the end of 1806, the Prussian debt had been 53.5 million thaler. By 1820, it amounted to 180 mil…"
+  - cited as `doc:714b36cac7e7#p15` by [t_3ee1b0] "财政危机不必然产出代议制：1820年Hardenberg敕令名义上规定新债须经等级会议同意（事实上的债务刹车），但同一敕令给Seehandlung独立发债例外，此后1820年代的彩票债、1822年伦…" (interpretation) — "the Seehandlung extensively used the loophole that had been created and provided off-balance-sheet …"
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_financial_addendum.md`
+- `sources/PR_Takaoka_Landwehr.pdf` ← `downloads/PR_Takaoka_Landwehr.pdf`
+  - "PR_Takaoka_Landwehr.pdf"
+  - sha256 d289b6a22d2a639d13f2d7fc38c2b6703e6164c8ed38486d83ceb43b0643d804
+  - cited as `doc:d289b6a22d2a#p6` by [t_3ee1b0] "1813年柏林国民军的组织与筹款证据不支持"自发全民起义"读法：柏林摊派4,000步兵与576骑兵，志愿者按议会与委员会记录仅约13%，6月底仍缺800人，市长请求减额被国王拒绝；至7月基金支出12…" (fact) — "volunteers made up only a small part of the Berliner Landwehr, about 13% according to the records o…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_mobilization.md`
+- `sources/R1_vandal1_full.txt` ← `downloads/R1_vandal1_full.txt`
+  - "R1_vandal1_full.txt"
+  - sha256 a10dfd33132e7f4350c74c207593984fb27a0bfc9c26587da58a9f9736ab143a
+  - cited by [t_3ee1b0] "Vandal刊述1807-11-12给Caulaincourt训令：以俄取多瑙两公国交换法国处置西里西亚；1808-02-17报告谓索柏林或比索西里西亚更少令俄惊惧，因俄怕后者强化华沙。" (fact) — "La demande de Berlin effaroucherait peut-être moins"
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_treaties_diplomacy.md`
+- `sources/c12_vandal3_full.txt` ← `downloads/c12_vandal3_full.txt`
+  - "c12_vandal3_full.txt"
+  - sha256 6811043f3fa7668e827ca8e42ea5080005646306fe436a3dcaa25eb76a8d4f83
+  - cited by [t_3ee1b0] "俄方对进一步处置普鲁士的否决点是随时间硬化的利益性条款，而非恒定的私人友谊：1808年1月塔列朗回忆录记亚历山大对西里西亚试探答以"Ceci est réellement une affaire d…" (inference) — "Je regarde comme beaucoup plus important et même comme l'objet le plus essentiel de l'arrangement u…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_treaties_diplomacy.md`
+- `sources/pages/00ca352688de.md` ← `downloads/pages/00ca352688de.md`
+  - "18120224-001:allianzvertrag - EPOCHE NAPOLEON" — https://www.epoche-napoleon.net/quellen/1812/02/24/allianzvertrag.html
+  - sha256 00ca352688de422acacdf9d6ca241c8ce1731204e2e2929a3d7de3168e056fe9
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_treaties_diplomacy.md`
+- `sources/pages/064046ec6241.md` ← `downloads/pages/064046ec6241.md`
+  - "Correspondance de Napoléon Ier - Septembre 1809 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-septembre-1809/
+  - sha256 064046ec62415a050e6cf0f5c92b92b44c21a5dbfee457512aa6e84827e1eb8f
+  - cited by [t_f4bb81] "1809-09-04真实照会要求波希米亚Leitmeritz、Saatz、Elnbogen三圈割萨克森；这是谈判领土筹码而非波希米亚独立方案。" (fact) — "cède à la Saxe les cercles de Leitmeritz, de Saatz et d’Elnbogen"
+- `sources/pages/0964a00115c5.md` ← `downloads/pages/0964a00115c5.md`
+  - "Traité entre la France et la Prusse pour le règlement des contributions de guerre, l'occupation de trois places fortes …" — https://napoleon-histoire.com/traite-entre-la-france-et-la-prusse-pour-le-reglement-des-contributions-de-guerre-loccupation-de-trois-places-fortes-et-la-reconnaissance-des-rois-despagne-et-de-naples/
+  - sha256 0964a00115c512b8a7b6a5cbfd41c84224033342ad1403da6d76a3224ab7da28
+  - cited by [t_3ee1b0] "1808-09-08巴黎条约分立条款的对奥援军兵力存在未解口径冲突：法文转录作"une division de 10,000 hommes"，德文百科转录作"eine Division von 16…" (fact) — "une division de 10,000 hommes, tant infanterie, que cavalerie et artillerie"
+  - cited by [t_3ee1b0] "1808年巴黎条约正约VII规定三要塞法军驻军Glogau 3,300、Custrin 2,800、Stettin 3,900，合计10,000；VIII规定饷由法方出，但住宿、口粮、草料、燃料灯火…" (fact) — "Total des trois garnisons 10.000 hommes."
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_economy_society.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_treaties_diplomacy.md`
+- `sources/pages/0cb883e1dd4e.md` ← `downloads/pages/0cb883e1dd4e.md`
+  - "Traité d'alliance signé à Paris le 14 mars 1812 entre la France et l’Autriche" — https://napoleon-histoire.com/traite-dalliance-signe-a-paris-le-14-mars-1812-entre-la-france-et-lautriche/
+  - sha256 0cb883e1dd4e47835a8a353f7e473914501f73913dcb85518e7151d52e3729fd
+  - cited by [t_f4bb81] "1812法奥盟约担保奥斯曼欧洲领土，故S5奥国东南转向主线应是多瑙交通、通商与政治斡旋，而非无条件吞并巴尔干。" (inference)
+- `sources/pages/0e5a385b8bba.md` ← `downloads/pages/0e5a385b8bba.md`
+  - "God’s March through History - Iron Kingdom: The Rise and Downfall of Prussia, 1600-1947" — https://erenow.org/modern/iron-kingdom/14.php
+  - sha256 0e5a385b8bba95036c845e378364e71caed524757fb1a07dbb3acd62488a16dd
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_economy_society.md`
+- `sources/pages/1b329de6f5e8.md` ← `downloads/pages/1b329de6f5e8.md`
+  - "A Time of Iron - Iron Kingdom: The Rise and Downfall of Prussia, 1600-1947" — https://erenow.org/modern/iron-kingdom/13.php
+  - sha256 1b329de6f5e8dcd9389287328a7b9473aab289ef95b2e401a1e72c62997c9fee
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_economy_society.md`
+- `sources/pages/3f6d498365c6.md` ← `downloads/pages/3f6d498365c6.md`
+  - "Nobilität im Sittlich-Wissenschaftlichen Verein 1808-1809" — https://adelsquellen.de/adelsforschung/tugend.htm
+  - sha256 3f6d498365c65dc504a5d89b67803458cef290901a13b809f03b0a4d7b50d9b6
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_economy_society.md`
+- `sources/pages/4b40ca3af7f7.md` ← `downloads/pages/4b40ca3af7f7.md`
+  - "Treaty between Prussia and France, Tilsit, 9 July, 1807 - napoleon.org" — https://www.napoleon.org/en/history-of-the-two-empires/articles/treaty-between-prussia-and-france-tilsit-9-july-1807/
+  - sha256 4b40ca3af7f78be3bff4b0f23d9b4e716a41cba018f09d0143d991fdd344ac71
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_core.md`
+- `sources/pages/54fd0efdaf3a.md` ← `downloads/pages/54fd0efdaf3a.md`
+  - "Internet-Portal "Westfälische Geschichte"" — https://www.lwl.org/westfaelische-geschichte/portal/Internet/input_felder/langDatensatz_ebene4.php?url_tabelle=tab_websegmente&urlID=714
+  - sha256 54fd0efdaf3a5e25c9df586f7d3a493955be914d2c495ef36c9b842658441717
+  - cited by [t_3ee1b0] "Stein曾同意以30–40k普军供法使用换减赔款和撤军的使节提案：有当时可选的客户国交易，不需假想全欧宪法。" (fact) — "ein Truppenkorps von 30.000 bis 40.000 Mann Napoleon zur freien Verfügung zu stellen"
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_economy_society.md`
+- `sources/pages/603b19b5b0f9.md` ← `downloads/pages/603b19b5b0f9.md`
+  - "Document > Traité de paix de Vienne (14 octobre 1809) - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/document-traite-de-paix-de-vienne-14-octobre-1809/
+  - sha256 603b19b5b0f9ee408a7a8157d33fca45187721d32e5d3787d77ac897c90ca3eb
+  - cited by [t_f4bb81] "1809秘密军额150,000；8500万法郎是一次和约结算/赔款，不是年贡。" (fact) — "ne s’élève pas au-dessus de 150 000 hommes pendant la durée de la guerre maritime"
+- `sources/pages/6d14b89ddb86.md` ← `downloads/pages/6d14b89ddb86.md`
+  - "18120224-004:geheimtaktat04 - EPOCHE NAPOLEON" — https://www.epoche-napoleon.net/quellen/1812/02/24/geheimtaktat04.html
+  - sha256 6d14b89ddb86cb14cc84ca31a3aab25643a901d191ca337c235f2c2a7734269c
+  - cited by [t_3ee1b0] "1812-02-24法普秘密军事协定第II条要求普军20,000人（步14,000/骑4,000/炮2,000、60炮）；第XI条禁未经同意的征兵集中，第XIII条仅泛称领土补偿。" (fact) — "Se. Majestät der König von Preußen wird ein Kontingent von 20.000 Mann stellen"
+- `sources/pages/6fe177bf2d7a.md` ← `downloads/pages/6fe177bf2d7a.md`
+  - "The Project Gutenberg eBook of Reden an die deutsche Nation, by Johann Gottlieb Fichte." — https://www.gutenberg.org/files/48340/48340-h/48340-h.htm
+  - sha256 6fe177bf2d7a934bb5b22228755965b756a23999ef81ae2298613c188ba03d89
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_economy_society.md`
+- `sources/pages/7378b53aa48e.md` ← `downloads/pages/7378b53aa48e.md`
+  - https://repertorium.at/qu/1811_oestabgb.html
+  - sha256 7378b53aa48ec76cfd71a0d456785f27fe6ffefd026ea33b2b64443f5f1dd8b6
+  - cited by [t_f4bb81] "1811 ABGB可兼承认天赋人权、禁人身奴役与保留特别财政法规、分层土地权；不需法国占领才能法典化，亦非一次废除所有领主权。" (interpretation)
+- `sources/pages/7f6b50171ff1.md` ← `downloads/pages/7f6b50171ff1.md`
+  - "Military Service" — https://doi.org/10.1017/cbo9781139030861.016
+  - sha256 7f6b50171ff16048fa131dcbaf01e918ff8fcb9e9a32c07d930650c83ace4a43
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_mobilization.md`
+- `sources/pages/848ad5b3b9ea.md` ← `downloads/pages/848ad5b3b9ea.md`
+  - "The Austrian Army in the War of the Sixth Coalition: A Reassessment" — https://doi.org/10.12794/metadc1752349
+  - sha256 848ad5b3b9ea1d07cf585bdb919c83f2ed28e64786e5f86bece67f0f351b13b2
+  - cited by [t_f4bb81] "1810裁军保留军官、技术兵、休假兵与团骨架，1813可扩至约29.8万动员编组/24.5万野战；财政破产约束再战成本和窗口而非永久剥夺能力。" (inference)
+- `sources/pages/9f08012c5301.md` ← `downloads/pages/9f08012c5301.md`
+  - "Senatsbeschluß über die Ausübung der Funktionen der Deputirten des gesetzgebenden Körpers der IV. Serie während der am …" — https://www.verfassungen.eu/f/fverf13-3.htm
+  - sha256 9f08012c5301e0d6e0b517c0411972f929bf570a69f81253b606dcabbe8640e0
+  - cited by [t_f4bb81] "1813摄政决议修正1804禁女性摄政条款，母后在未另安排时可摄政；若新君非其子，其摄政结束，奥国对外孙的亲缘利益不能自动转到法国旁支。" (fact) — "l'Impératrice mère réunit de droit à la garde de son fils mineur, la régence de l'Empire."
+- `sources/pages/a01b8afccf5d.md` ← `downloads/pages/a01b8afccf5d.md`
+  - "Coping with Poverty in Rural Brandenburg: The Role of Lords and State in the Late Eighteenth Century" — https://doi.org/10.1525/luminos.63.g
+  - sha256 a01b8afccf5dbb6fd2c529d16f18d29d62f67c1617843ba6c2b4c478b15c49df
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_economy_society.md`
+- `sources/pages/a0a178c08a7e.md` ← `downloads/pages/a0a178c08a7e.md`
+  - "Edikt über die Finanzen des Staats und die neuen Einrichtungen wegen der Abgaben (1810)" — https://www.verfassungen.de/preussen/gesetze/finanzverfassung10.htm
+  - sha256 a0a178c08a7e5397520382b5f4282a4b30c3c39a54c87c5dd83679d368338593
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_economy_society.md`
+- `sources/pages/af4f870b8ddf.md` ← `downloads/pages/af4f870b8ddf.md`
+  - "ADB:Friedrich August I. (König von Sachsen) – Wikisource" — https://de.wikisource.org/wiki/ADB:Friedrich_August_I._(K%C3%B6nig_von_Sachsen)
+  - sha256 af4f870b8ddf30be49d55dc3120590df55398f4c5ffa535ccd305f4b05307479
+  - cited by [t_3ee1b0] "接收王朝的显示偏好：萨克森的弗里德里希·奥古斯特在1778年拒绝普鲁士提出的“以两劳西茨换上德领土”案，理由是不能割让忠诚臣民去调换；其华沙大公任内从未取当地civil list、反从私库垫付3,0…" (fact) — "von seiner dortigen Civilliste nie etwas bezogen, sondern aus seiner eigenen Casse dem warschauer S…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/PR_prussia.md`
+- `sources/pages/b0cf11d23f51.md` ← `downloads/pages/b0cf11d23f51.md`
+  - "Princes’ Wars, Wars of the People, or Total War? Mass Armies and the Question of a Military Revolution in Germany, 1792…" — https://journals.sagepub.com/doi/10.1177/0968344513483071
+  - sha256 b0cf11d23f51b69955c0c0f25df0c2dbf8e6528ff3b0ef94abeb8cba03eb40ff
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_mobilization.md`
+- `sources/pages/b9eaa7cabeae.md` ← `downloads/pages/b9eaa7cabeae.md`
+  - "L'entrevue d'Erfurt racontée par Talleyrand - Le Consulat et le Premier empire" — https://napoleon-histoire.com/1808-l-entrevue-d-erfurt-racontee-talleyrand/
+  - sha256 b9eaa7cabeaedf973cdec0d17c9c7fdd0f7b052aa1e5d689f2d255d32b820cee
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_treaties_diplomacy.md`
+- `sources/pages/ba4cd1cfd439.md` ← `downloads/pages/ba4cd1cfd439.md`
+  - "Endogenous Formation of Free Trade Agreements: Evidence from the Zollverein’s Impact on Market Integration" — https://spot.colorado.edu/~shiue/Zoll.pdf
+  - sha256 ba4cd1cfd4396b9eb168142beaac56479706aba4540398681c67eadec2596cab
+  - cited by [t_3ee1b0] "残普经济改革可能延续，但1834式普领导关税同盟依赖1815西部领土与1831黑森加入形成的通海关税屏障，不能自动搬进法国胜利世界。" (inference)
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_treaties_diplomacy.md`
+- `sources/pages/cf0509d983d0.md` ← `downloads/pages/cf0509d983d0.md`
+  - "LWL - Kultur - Ausz�ge aus Berding" — https://lwl.org/aufbruch-in-die-moderne/LWL/Kultur/Aufbruch/popups/politik/verfassung/abschaffung_privilegien/berding/index2_html.html
+  - sha256 cf0509d983d0ec968d26f6e9e46a611466abf7e72ea3e24e1f16f3d1724ef46d
+  - cited by [t_3ee1b0] "行政延续与社会改革在拿破仑式接管中结构性互斥：Berding记拿破仑取得威国领地一半的所有权与处分权连同领主权利转赠法国元帅将军，造成财政毁灭，而由巴黎控制的帝国领地管理阻断一切触及受赠者领主性收入…" (fact) — "Das Königreich Westphalen verlor durch die Abtretung der Dotationsdomänen wichtige Einnahmequellen,…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/PR_prussia.md`
+- `sources/pages/df8591563743.md` ← `downloads/pages/df8591563743.md`
+  - "The World the Bureaucrats Made - Iron Kingdom: The Rise and Downfall of Prussia, 1600-1947" — https://erenow.org/modern/iron-kingdom/12.php
+  - sha256 df859156374311879495dc3f6a646c84dd598b2d9cc2ea462bba1566c0c90f7e
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_core.md`
+- `sources/pages/e00651d91906.md` ← `downloads/pages/e00651d91906.md`
+  - "Polen – ERIH" — https://www.erih.de/wie-alles-begann/industriegeschichte-europaeischer-laender/polen
+  - sha256 e00651d919065594e0010d9f825eb0003966fa78a5f885053ba56fa363eb33da
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_economy_society.md`
+- `sources/t_f4bb81/A_assemble_validate.py` ← `nodes/r_5b1357a9c6/cards/t_f4bb81/A_assemble_validate.py`
+  - sha256 9040da277dd09f7a8c42430b0513a7f3d546ebbf6170c2ef6a82098aad883362
+  - cited in `nodes/r_5b1357a9c6/cards/t_f4bb81/VALIDATION.md`
+- `sources/t_f4bb81/A_calculations.py` ← `nodes/r_5b1357a9c6/cards/t_f4bb81/A_calculations.py`
+  - sha256 69fbd03ba61b132bb81028a67fd7d7335f466a894bb75c7f9dc7b828ad315477
+  - cited in `nodes/r_5b1357a9c6/cards/t_f4bb81/VALIDATION.md`
+- `sources/t_f4bb81/A_scenario_bounds.csv` ← `nodes/r_5b1357a9c6/cards/t_f4bb81/A_scenario_bounds.csv`
+  - "[t_f4bb81] nodes/r_5b1357a9c6/cards/t_f4bb81/A_scenario_bounds.csv"
+  - sha256 c03c7aa9bfbedcf0adcb38a0f89ca1652dd8de3313315c8719c5e35311da73e8
+  - cited by [t_3ee1b0] "普奥比较的差距位置需修正描述：A卡印1815—30奥国单一主战区危机野战9—14万，与本卡S5残普各战区野战合计8.0—15.2万在单一战线上重叠；因此“奥强于残普”的实质不在单场会战兵力，而在多战…" (inference) — "S2/S5,one_main_theatre,crisis_1815-1830,90000,140000,persons,counterfactual,"M13 May-August1813""
+  - cited by [t_3ee1b0] "A卡未冻结可比疆界的奥国绝对人口，仅给出1810同疆指数100→1848约121—146（假设净增0.5—1.0%/年×38年）。因此PR卡不得计算普奥人口比值，1848排序只由军额、财政与疆界条件…" (fact) — "economic_population_index,1848,121,146,1810_same_borders_index,counterfactual,"G11;E16","assumed ne…"
+- `sources/t_f4bb81/part_02_policy.md` ← `nodes/r_5b1357a9c6/cards/t_f4bb81/part_02_policy.md`
+  - "[t_f4bb81] nodes/r_5b1357a9c6/cards/t_f4bb81/part_02_policy.md"
+  - sha256 bffb263c741722c9d2eaa241c2ad1378486d2c8fa0c081441e274c0e6f7988ee
+  - cited by [t_f4bb81] "主线为保王朝/核心军队、有限援军、海口/商业通达与明确边界的受约束法奥同盟；早期克制可避免1809毁损，晚修复则以1812盟约条款为当时可用工具。" (inference)
+  - cited by [t_f4bb81] "全哈布斯堡行省化不是联合满足英国中立、长期财政与一次继承的合理主线；不能以地方官留用直接否认并省，需检验他们是否接受巴黎最终税兵任命权。" (inference)
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_financial_addendum.md`
+- `sources/pages/2ad693d5ac13.md` ← `nodes/r_b55f2c1cf5/cards/t_208a11/sources/pages/2ad693d5ac13.md`
+  - sha256 2ad693d5ac13c9d65f6046695de9b91e2c511c522d0a94dfd9842d4701ba3214
+  - cited by [t_3ee1b0] "威斯特法利亚提供了“法国消灭一个德意志国家并把其领土交给客户王国”的同时代实例：接收国承接旧统治者的巨额债务（1812年累计估1.4亿—2亿法郎），同时须养本国25,000人并支付驻境的12,500…" (fact) — "Servicing the huge debt inherited from the former rulers of this region and maintaining Jerome's ex…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/PR_prussia.md`
+- `sources/t_7da32d/prussia_austria_notes.md` ← `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+  - "[t_7da32d] nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md"
+  - sha256 1ef0737fd0082ee514562814a968e16c5d2a96fa79342f9a2221661babc57091
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_core.md`
+
+## Cited, already in this folder
+
+- `PR_calculations.csv`
+  - cited by [t_3ee1b0] "本卡数量推演（S5残普1848人口约620–810万；常备5.6–9.7万、危机总动员12.4–21.8万、各战区野战合计8.0–15.2万；取消后中摩擦初期接管4.5–7.5万，较保留残普的1.5…" (inference)
+- `PR_prussia.md`
+  - cited by [t_3ee1b0] "修正声明：本卡原先将“承债才可能行政延续”列为纯推演（见⑥取消四笔账第3条）；现据亲读的Grab/Berding/ADB升为带同时代实例的机制锚点，并新增三项限定（客户国可成净负债、行政延续与改革互…" (inference)
+- `notes_treaties_diplomacy.md`
+  - cited by [t_3ee1b0] "比较模型应区分取消普鲁士王朝、将其领土并入德/波客户国与直接法省三件事；第一项并不自动节省后两者的驻军与行政成本。" (inference)
+
+## Consulted but not cited (left where they are)
+
+- `downloads/A_Jobst_Kernbauer2016_excerpt.pdf` — "A_Jobst_Kernbauer2016_excerpt.pdf"
+- `downloads/A_Kaps2015_trade_statistics.pdf` — "A_Kaps2015_trade_statistics.pdf"
+- `downloads/c10_kopsidis_bromley2016.pdf` — "c10_kopsidis_bromley2016.pdf"
+- `downloads/f1_metternich_memoires_t1.txt` — "f1_metternich_memoires_t1.txt"
+- `downloads/pages/0a2abbafcb10.md` — "Hubris and Nemesis: 1789–1806 - Iron Kingdom: The Rise and Downfall of Prussia, 1600-1947" — https://erenow.org/modern/iron-kingdom/11.php
+- `downloads/pages/15d715a151a0.md` — "Unternehmensgeschichte - Oesterreichische Nationalbank (OeNB)" — https://www.oenb.at/Ueber-Uns/unternehmensgeschichte/1816-1818.html
+- `downloads/pages/17447f15be10.md` — "2016_1_Hörcher" — https://hunghist.org/84-abstract/351-2016-1-horcher
+- `downloads/pages/2226957c29b6.md` — "Staatsbankrott 1811 – Wien Geschichte Wiki" — https://www.geschichtewiki.wien.gv.at/Staatsbankrott_1811
+- `downloads/pages/25101e384c5e.md` — "Recherches récentes" — https://droit.cairn.info/revue-francaise-de-droit-constitutionnel-2008-4-page-703?lang=fr
+- `downloads/pages/2ad693d5ac13.md` — "Napoleon and the Transformation of Europe (European History in Perspective)" — https://ndl.ethernet.edu.et/bitstream/123456789/44567/1/2.Alexander%20Grab.pdf
+- `downloads/pages/2c1a774dc889.md` — "Mähren - Zeno.org" — http://www.zeno.org/Brockhaus-1809/B/M%C3%A4hren
+- `downloads/pages/2c86b127592b.md` — "LeMO Zeitstrahl - Vormärz und Revolution - Alltagsleben - Die Hungersnot 1816/17" — https://www.dhm.de/lemo/kapitel/vormaerz-und-revolution/alltagsleben/die-hungersnot-1816/17
+- `downloads/pages/2db1b3d107b9.md` — "Constitution de l'An XII - Empire - 28 floréal An XII | Conseil constitutionnel" — https://www.conseil-constitutionnel.fr/les-constitutions-dans-l-histoire/constitution-de-l-an-xii-empire-28-floreal-an-xii
+- `downloads/pages/35dcb892b38d.md` — "The Project Gutenberg eBook of Napoléon et Alexandre Ier, par Albert Vandal" — https://www.gutenberg.org/files/31260/31260-h/31260-h.htm
+- `downloads/pages/3a419bf742fa.md` — "18120224-003:geheimtaktat02 - EPOCHE NAPOLEON" — https://www.epoche-napoleon.net/quellen/1812/02/24/geheimtaktat02.html
+- `downloads/pages/3f4aaa790362.md` — "Domokos Rosáry, Napoléon et la Hongrie. - Persée" — https://www.persee.fr/doc/rhmc_0048-8003_1981_num_28_3_1162_t1_0530_0000_1
+- `downloads/pages/564fdec6591d.md` — "Karl August Baron von Hardenberg, “On the Reorganization of the Prussian State” (September 12, 1807) | German History i…" — https://germanhistorydocs.org/en/the-holy-roman-empire-1648-1815/karl-august-baron-von-hardenberg-on-the-reorganization-of-the-prussian-state-september-12-1807
+- `downloads/pages/5f1e86c351d1.md` — "Ungarn - Zeno.org" — http://www.zeno.org/Brockhaus-1809/B/Ungarn
+- `downloads/pages/63870d6f50b8.md` — "Andreas Hofer | Die Welt der Habsburger" — https://www.habsburger.net/en/persons/person/andreas-hofer
+- `downloads/pages/664a7ecc0984.md` — "Oestreich - Zeno.org" — http://www.zeno.org/Brockhaus-1809/B/Oestreich
+- `downloads/pages/6a70f356e610.md` — "Franz II (I) and the Metternich System | Die Welt der Habsburger" — https://www.habsburger.net/en/chapter/franz-ii-i-and-metternich-system
+- `downloads/pages/6c50590d5ddd.md` — "Données actuelles sur Napoléon II (1811-1832) et ses dents - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/donnees-actuelles-sur-napoleon-ii-1811-1832-et-ses-dents/
+- `downloads/pages/70f0bcc9bf3f.md` — "Pariser Konvention (1808)" — https://de.wikipedia.org/wiki/Pariser_Konvention_(1808)
+- `downloads/pages/7b11d8a7dad4.md` — "Foreign trade and early industrialisation in the Habsburg Monarchy and the United Kingdom — Two extremes in comparison …" — https://pmc.ncbi.nlm.nih.gov/articles/PMC3092985/
+- `downloads/pages/7b3ecc9629e8.md` — "Krümper" — https://de.wikipedia.org/wiki/Kr%C3%BCmper
+- `downloads/pages/7e5166c3be17.md` — "Read online “Iron Kingdom : The Rise and Downfall of Prussia, 1600-1947” |FREE BOOK| – Read Online Books" — https://read-online-books.com/book/read-online-iron-kingdom-the-rise-and-downfall-of-prussia-1600-1947-free/page-62
+- `downloads/pages/86b2fc3fc26a.md` — "Donaudampfschiffahrtsgesellschaft – Wien Geschichte Wiki" — https://www.geschichtewiki.wien.gv.at/Donaudampfschiffahrtsgesellschaft
+- `downloads/pages/914e3418f267.md` — "Der regierungsunfähige Kaiser: Ferdinand I. | Die Welt der Habsburger" — https://www.habsburger.net/de/kapitel/der-regierungsunfaehige-kaiser-ferdinand-i
+- `downloads/pages/9a69563ae505.md` — "Resistance in the ‘holy land’ of Tyrol: a Tyrolean Taliban? | Die Welt der Habsburger" — https://www.habsburger.net/en/chapter/resistance-holy-land-tyrol-tyrolean-taliban
+- `downloads/pages/9a8e1d55620d.md` — "1811. évi országgyűlés. Devalváczió. | Borovszky Samu: Magyarország vármegyéi és városai | Kézikönyvtár" — https://www.arcanum.com/hu/online-kiadvanyok/Borovszky-borovszky-samu-magyarorszag-varmegyei-es-varosai-1/somogy-varmegye-153D7/somogy-varmegye-tortenete-irta-reiszig-ede-dr-15DBA/ii-a-mohacsi-vesztol-a-kiegyezesig-16088/2-a-xviii-szazad-es-a-franczia-haboruk-kora-1624A/1811-evi-orszaggyules-devalvaczio-16380/
+- `downloads/pages/a947acecb6dc.md` — "mai_03" — http://www.histoire-empire.org/correspondance_de_napoleon/1809/mai_03.htm
+- `downloads/pages/c5194d3db60c.md` — "Vormärz – Wien Geschichte Wiki" — https://www.geschichtewiki.wien.gv.at/Vorm%C3%A4rz
+- `downloads/pages/d4b41dee9730.md` — "DAM" — https://digital.library.unt.edu/ark:/67531/metadc1752349/
+- `downloads/pages/d5c627631093.md` — "The Austrian Army in the War of the Sixth Coalition: A Reassessment - UNT Digital Library" — https://digital.library.unt.edu/ark:/67531/metadc1752349/
+- `downloads/pages/ef06d5628e76.md` — "2022_1_Nagy" — https://hunghist.org/83-articles/774-2022-1-nagy
+- `downloads/pages/f56f440eec96.md` — "Nordbahn – Wien Geschichte Wiki" — https://www.geschichtewiki.wien.gv.at/Kaiser-Ferdinands-Nordbahn
+
+## Unresolved locators
+
+- `https://digital.library.unt.edu/ark:/67531/metadc1752349/（直接fetch遇DAM验证，Exa提取元数据成功：downloads/pages/d5c627631093.md）；正文经DOI读取https://doi.org/10.12794/metadc1752349，本地downloads/pages/848ad5b3b9ea.md。实际读导论末及MOBILIZATION章前半（L80–130），非全篇。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_army_monetary.md`)
+- `https://repertorium.at/qu/1811_oestabgb.html；downloads/pages/7378b53aa48e.md。读颁行敕令、§§15–19；全典已下载未通读。底本为Augsburg馆藏标1811的未定年原样重印，不冒称1811首印。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_economy_law_society.md`)
+- `downloads/A_Kaps2015_trade_statistics.pdf，doc1d0307c721e1。实际读pp.253–255、258–260（PDF1–3、6–8）。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_economy_law_society.md`)
+- `https://pmc.ncbi.nlm.nih.gov/articles/PMC3092985/；downloads/pages/7b11d8a7dad4.md。实际读§§2–3、Table1–2、结尾脚注，结果各曲线未抄数。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_economy_law_society.md`)
+- `https://www.arcanum.com/hu/online-kiadvanyok/Borovszky-borovszky-samu-magyarorszag-varmegyei-es-varosai-1/somogy-varmegye-153D7/somogy-varmegye-tortenete-irta-reiszig-ede-dr-15DBA/ii-a-mohacsi-vesztol-a-kiegyezesig-16088/2-a-xviii-szazad-es-a-franczia-haboruk-kora-1624A/1811-evi-orszaggyules-devalvaczio-16380/；downloads/pages/9a8e1d55620d.md；全文读。地方旧史，不代表所有郡立场。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_economy_law_society.md`)
+- `https://hunghist.org/84-abstract/351-2016-1-horcher；downloads/pages/17447f15be10.md；读导言、Preliminary` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_economy_law_society.md`)
+- `https://www.geschichtewiki.wien.gv.at/Kaiser-Ferdinands-Nordbahn；downloads/pages/f56f440eec96.md；读1835–48段。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_economy_law_society.md`)
+- `https://www.habsburger.net/en/chapter/resistance-holy-land-tyrol-tyrolean-taliban；downloads/pages/9a69563ae505.md；实读全文。政治类比Taliban失之粗糙，本卡不采。事实采用：特权/宗教传统威胁与奥国支持同动，1809战败弗朗茨无法兑现永不割Tyrol承诺；1810-02-20Hofer处决。反叛机制为社区制度而非自动德意志民族主义。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_economy_law_society.md`)
+- `https://www.dhm.de/lemo/kapitel/vormaerz-und-revolution/alltagsleben/die-hungersnot-1816/17；downloads/pages/2c86b127592b.md；全文读。资料地区主要德意志，作为相邻地区天气与粮禁的机制，不直接照搬奥地利减产率/死亡率。战争削储粮与畜力使危机恶化；各地粮禁反而截断省际贸易；减战可缓冲却不消天气。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_economy_law_society.md`)
+- `http://www.zeno.org/Brockhaus-1809/B/Oestreich；downloads/pages/664a7ecc0984.md；全文读。页163。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_economy_law_society.md`)
+- `https://researchonline.lse.ac.uk/id/eprint/132265/1/U062406.pdf；downloads/A_Axtmann1991_Austria_Ireland.pdf，SHA256` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_fiscal_table.md`)
+- `downloads/pages/86b2fc3fc26a.md，URL` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_fiscal_table.md`)
+- `https://www.geschichtewiki.wien.gv.at/Donaudampfschiffahrtsgesellschaft。读1828–46创设/早期船队部分。1828英船匠Andrews与Prichard获奥国特许；1830首航Pest、1831常班；1834` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_fiscal_table.md`)
+- `https://hunghist.org/83-articles/774-2022-1-nagy；本地` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_hungary_finance.md`)
+- `downloads/pages/ef06d5628e76.md。本卡读导言、Military` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_hungary_finance.md`)
+- `https://www.geschichtewiki.wien.gv.at/Staatsbankrott_1811；downloads/pages/2226957c29b6.md` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_hungary_finance.md`)
+- `https://www.oenb.at/Ueber-Uns/unternehmensgeschichte/1816-1818.html；downloads/pages/15d715a151a0.md` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_hungary_finance.md`)
+- `https://napoleon-histoire.com/correspondance-de-napoleon-ier-septembre-1809/；downloads/pages/064046ec6241.md` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_partition_dynasty.md`)
+- `http://www.histoire-empire.org/correspondance_de_napoleon/1809/mai_03.htm；downloads/pages/a947acecb6dc.md，独立宣言位于L253–269；已单段阅读全文。原句“Réunissez-vous` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_partition_dynasty.md`)
+- `https://www.persee.fr/doc/rhmc_0048-8003_1981_num_28_3_1162_t1_0530_0000_1；downloads/pages/3f4aaa790362.md，全文核读。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_partition_dynasty.md`)
+- `downloads/pages/c5194d3db60c.md，Wien` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_partition_dynasty.md`)
+- `downloads/pages/6a70f356e610.md，Stephan` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_partition_dynasty.md`)
+- `https://www.conseil-constitutionnel.fr/les-constitutions-dans-l-histoire/constitution-de-l-an-xii-empire-28-floreal-an-xii；downloads/pages/2db1b3d107b9.md。读第3–7、17–31条。18岁成年、原18条排女性摄政、30条母亲监护。此原规1813已改，不能只引用1804来排斥玛丽路易丝摄政。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_succession_resources.md`)
+- `https://www.verfassungen.eu/f/fverf13-3.htm；downloads/pages/9f08012c5301.md。读法文1–19条；网页标题、前导1812日期明显复制错误，德译15条甚至反转“有继承弟弟”的原意，故不采德译/网页尾部关于03-30的概括。正文落款与底源Bulletin` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_succession_resources.md`)
+- `downloads/pages/25101e384c5e.md；读该段及两注，不自称全文精读。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_succession_resources.md`)
+- `https://www.napoleon.org/histoire-des-2-empires/articles/donnees-actuelles-sur-napoleon-ii-1811-1832-et-ses-dents/；downloads/pages/6c50590d5ddd.md。仅采导言：生1811-03-20，史实1832-07-22死于结核、无婚无嗣。原页面称在位15天为名义政治声明，不写实际执政。疾病不能当反事实免死或确定同年死；设活过1832主分支与早夭压力分支，不给伪医学概率。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_succession_resources.md`)
+- `http://www.zeno.org/Brockhaus-1809/B/M%C3%A4hren，downloads/pages/2c1a774dc889.md` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_succession_resources.md`)
+- `http://www.zeno.org/Brockhaus-1809/B/Ungarn，downloads/pages/5f1e86c351d1.md` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_succession_resources.md`)
+- `downloads/pages/603b19b5b0f9.md；Fondation` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_treaties.md`)
+- `downloads/pages/0cb883e1dd4e.md，Napoleon-Histoire` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_treaties.md`)

@@ -1,0 +1,11 @@
+{
+ "seq": 1,
+ "path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_c98c24/notes_model_audit.md",
+ "ops": [
+  {
+   "append": {
+    "content": "\n\n## 提交前主动反证及复跑\n联合乐观角点新增为P2_joint_optimistic.csv：低驻军、全留B軍建制和自养来源、700法郎军价、350m陆军预算、任务减3万、高税余。乙四地含外圈算术转正：在场余23,597.6、军费余19.229m；丙仍缺215,514.3在场及174.980m。此反例修正“乙技术不可行”可能误读，已报Last Order #571；主线改判仍需政治证据。保留原建制不必然等于保留国家主权，禁止为维护主线而定义排除反例。\n\n最终脚本连续运行两次，全部CSV逐字节sha256一致；P2_budget.csv与scenario_summary.csv一致。21主表、63驻军×税余角点、48政策闭合、2联合乐观、62地区明细、1458敏感性行；敏感性含重复同值路径，不作频率统计。四份亲读PDF工作区路径均exists=True。主要哈希：P2_budget.csv 77b02fc7feb3be7bda0a5a40c39d254929265cf149d479c172f943e5e12caf40；P2_joint_optimistic.csv 5bc49ff0e4c356392e7b822981fa2bc4a40d8964215edc1b9ab7bb5cb9632d01。交付为Markdown/CSV，无另行版面渲染验证。\n\n文字复核纠错：Rowe的征前/征后数在本卡展示的百分比均除同一个表列动员数，已删“分母不同”错误措辞；不能将这两个描述比率顺乘为队列交付率。Marion预算年份已写为1812年度、1792年以来并地，而非1812以后。\n"
+   }
+  }
+ ]
+}

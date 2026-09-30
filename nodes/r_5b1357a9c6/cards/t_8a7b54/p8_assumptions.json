@@ -1,0 +1,40 @@
+{
+  "description": "P8 analyst-imputed epistemic intervals, NOT measured frequencies or scholarly numerical claims; see P8_probability_tree.md for conditional denominators",
+  "source_numeric": "P6_realization.csv, P6_impulse_risk.csv, P6_durability.csv; conditional regional inputs SP1/IT1/SA/MX/IN1/P2/P4/P5",
+  "baseline": {
+    "adopt": [0.15, 0.30], "maintain_given_adopt": [0.40, 0.60],
+    "uk_given_framework": [0.40, 0.60], "russia_given_framework": [0.35, 0.50], "austria_given_framework": [0.45, 0.60],
+    "residual_dependence_lambda": [0.00, 0.70], "redline_share_of_impulse": [0.08, 0.20],
+    "navy_funding_training_given_peace": [0.45, 0.70]
+  },
+  "school_stress": {
+    "Schroeder-system_rules": {"adopt":[0.08,0.18],"maintain_given_adopt":[0.35,0.55],"uk_given_framework":[0.45,0.65],"russia_given_framework":[0.40,0.55],"austria_given_framework":[0.50,0.65],"residual_dependence_lambda":[0.10,0.55],"redline_share_of_impulse":[0.12,0.25]},
+    "Esdaile-contingency": {"adopt":[0.08,0.20],"maintain_given_adopt":[0.30,0.50],"uk_given_framework":[0.35,0.55],"russia_given_framework":[0.35,0.50],"austria_given_framework":[0.45,0.60],"residual_dependence_lambda":[0.00,0.50],"redline_share_of_impulse":[0.18,0.30]},
+    "Lieven-Russian_autonomy": {"adopt":[0.15,0.30],"maintain_given_adopt":[0.35,0.55],"uk_given_framework":[0.40,0.60],"russia_given_framework":[0.20,0.38],"austria_given_framework":[0.45,0.60],"residual_dependence_lambda":[0.00,0.50],"redline_share_of_impulse":[0.10,0.20]},
+    "Crouzet_OBrien-fiscal_naval": {"adopt":[0.15,0.30],"maintain_given_adopt":[0.40,0.60],"uk_given_framework":[0.30,0.50],"russia_given_framework":[0.35,0.50],"austria_given_framework":[0.45,0.60],"residual_dependence_lambda":[0.00,0.50],"redline_share_of_impulse":[0.10,0.20]},
+    "Broers-institutional_adaptation": {"adopt":[0.15,0.30],"maintain_given_adopt":[0.50,0.70],"uk_given_framework":[0.40,0.60],"russia_given_framework":[0.35,0.50],"austria_given_framework":[0.45,0.60],"residual_dependence_lambda":[0.15,0.70],"redline_share_of_impulse":[0.08,0.18]}
+  },
+  "conditional_outcomes_given_C1815": {
+    "A_core_regular_1835": [0.55,0.75],
+    "X2_French_preferential_market_1848": [0.35,0.45],
+    "X2_limited_customs_union_1848": [0.25,0.35],
+    "Bourbon_constitutional_Spain_1848": [0.30,0.45],
+    "Bourbon_absolutist_ministerial_1848": [0.40,0.55],
+    "Bonapartist_Spain_1848": [0.05,0.15],
+    "republic_Spain_1848": [0.00,0.02],
+    "Italy_Rome_King_north_middle_union_1848": [0.35,0.45],
+    "Naples_join_given_union": [0.10,0.35],
+    "Austria_still_stronger_than_Prussia_1848": [0.70,0.90],
+    "South_America_loose_Hispanic_federation_1848": [0.35,0.50],
+    "Mexico_de_facto_independent_1848": [0.90,1.00],
+    "Cuba_still_Spanish_under_Bourbon_1848": [0.55,0.70],
+    "French_compoirs_restored_unfortified_1848": [0.35,0.65],
+    "French_conquer_EIC_Bengal_and_hold_1848": [0.00,0.01]
+  },
+  "analyst_stress_not_source_probabilities": {
+    "A_mid_choice_given_C": [0.15,0.30], "A_mid_joint_resource_given_choice": [0.20,0.40],
+    "A_mid_local_elite_transfer_given_resources": [0.10,0.30], "A_mid_survive_to_1848_given_transfer": [0.40,0.70],
+    "all_Hispanic_America_still_Madrid_sovereign_1848": [0.00,0.10],
+    "A_full_europe_1848_outside_model_escape": [0.00,0.005]
+  }
+}

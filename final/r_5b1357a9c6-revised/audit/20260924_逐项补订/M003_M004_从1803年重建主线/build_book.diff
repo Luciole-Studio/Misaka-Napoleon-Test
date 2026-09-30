@@ -1,0 +1,10 @@
+--- 修改前/build_book.py
++++ 修改后/build_book.py
+@@ -9,6 +9,7 @@
+  if i==0:
+   s=re.sub(r'^# 胜利之后的欧洲\s+## 拿破仑的另一条道路，1803—1848\s+### 引言：征服一片大陆，然后呢？', '# 引言　征服一片大陆，然后呢？',s)
+   s=re.sub(r'^### (?!引言注释)', '## ',s,flags=re.M)
++  s=re.sub(r'^#### ', '### ',s,flags=re.M)
+  elif i<=10:
+   s=re.sub(r'^# 第[一二三四五六七八九十]+[章编]　',f'# 第{nums[i-1]}章　',s)
+   # Keep source chapters consistently numbered, without changing their audit record.

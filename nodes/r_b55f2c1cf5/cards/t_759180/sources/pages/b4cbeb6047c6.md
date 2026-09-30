@@ -1,0 +1,127 @@
+---
+source_url: "https://aaronbelkin.org/pdfs/Counterfactual%20Thought%20Experiments%20in%20World%20Politics%20-%201st%20chpt.pdf"
+final_url: "https://aaronbelkin.org/pdfs/Counterfactual%20Thought%20Experiments%20in%20World%20Politics%20-%201st%20chpt.pdf"
+provider: "exa"
+text_sha256: "13b0e988362a9eadac557a3bee6c32dfb2ce4303454d9c72ef31d57e14622178"
+title: "Contents _________________"
+content_kind: "page_text"
+---
+
+Copyright 1996 hy Il 'r S, .. 11, 1,-;, "," I I 
+Published by f'rincct(lfl l'If", ,II 
+Princeton. New Jersey 
+In the United Kingdum: Princeton 11 I1, vC"'IV I'" 
+West Sussex 
+All Rights Reserved 
+Library 0/ Congress Cataloging-in-Publicallon 1)111" 
+Counterfactual thought experimcnlS in worl d l"r " " I, 
+methodological, and psychological perspecti ves I cd" ed hy 1'111 111' I 
+Tetlock and Aaron Belkin. 
+p. cm. 
+Includes bibliographical references and index . 
+ISBN 0-691-02792-7 (cl : alk. paper). - ISBN 0·69 1.027<) 1 t) (ph : 
+alk. paper) 
+L World politics. 2. History-Philosophy . 3. Countcrfoctuals 
+(Logic). I. Tetlock, Philip. II. Belkin, Aaron, 1966- 
+DI6 .9.C645 1996 
+901-dc20 96·6.1'.16 
+CIP 
+This book has been composed in Times Roman 
+Princeton University Press books are printed on acid-free paper and 
+meet the guidelines for permanence and durability of the Committee 
+on Production Guidelines for Book Longevity of the Council 
+on Library Resources 
+Printed in the United States of America by Princeton Academic Press 
+10 9 8 7 6 5 4 3 2 
+'1'1 (P10 bk)9 8 7 6 5 4 3 2 I . 
+
+Contents _________________
+
+vii 
+Acknowledgments ix 
+PART ONE: Counterfactual Inference: Form and Function 
+Counterfactual Thought Experiments in World Politics: Logical, 
+
+List of Contributors
+
+Methodological, and Psychological Perspectives Philip E. Tetlock and Aaron Belkin 2 Causes and Counterfactuals in Social Science: Exploring an Analogy between Cellular Automata and Historical Processes 39 James D. Fearon PART TWO: Counterfactual Analysis of Particular Events 3 Counterfactual Reasoning in Western Studies of Soviet Politics and Foreign Relations 69 George W. Breslauer 4 Confronting Hitler and Its Consequences 95 Yuen Foong Khong 5 Back to the Past: Counterfactuals and the Cuban Missile Crisis Richard Ned Lebow and Janice Gross Stein
+
+119
+
+6 Counterfactual Reasoning in Motivational Analysis: U.S. Policy toward Iran 149 Richard K. Herrmann and Michael P. Fischerkeller PART THREE: Counterfactual Analysis of Classes of Events 7 Counterfactuals about War and Its Absence 171 Bruce Russett 8 Using Counterfactuals in Historical Analysis: Theories of Revolution 187 Edgclr Kiser clIId Margaret tevi
+
+vi CONTE NTS 
+PART FOUR: Countcrfnct lJllls 111111 CIIIIII' '1111'111 Y 
+9 Counterfactuals and Int cnl!lt illlHlI A I hil i 
+from Game Theory 
+Bruce Bueno de Mesqllilll 
+
+SI1 I11 C Insights
+
+211
+
+10 Off-the-Path Behavior: A Game-Thcore tic Approach to Counterfactuals and Its Implications for Polit ical and Historical Analysis Barry R. Weingast
+
+230
+
+PART FIVE: Computer and Mental Simulations of Possible Worlds 
+II Rerunning History: Counterfactual Simulation in 
+World Politics 247 
+Lars-Erik Cederman 
+12 Counterfactuals, Past and Future 268 
+Steven Weber 
+PART SIX: Commentaries 
+Conceptual Blending and Counterfactual Argument in the 
+Social and Behavioral Sciences 291 
+Mark Turner 
+2 Psychological Biases in Counterfactual Thought 
+Experiments 296 
+James M. Olson, Neal J. Roese, and Ronald J. Deibert 
+3 Counterfactual Inferences as Instances of Statistical 
+Inferences 301 
+Robyn M. Dawes 
+4 Counterfactuals, Causation, and Complexity 309 
+Robert Jervis 
+References 317 
+Index 337 
+
+## Contributors ---------------
+
+AARO N BELKIN 
+Doctoral candidate , Department of Political Science 
+University of California, Berkeley 
+GEO RGE W . BRESLAUER 
+Professor, Department of Political Science 
+University of California, Berkeley 
+BRU CE BUENO DE MESQUITA 
+Senior Fellow, Hoover Institution 
+Stanford University 
+LA R S-ERIK CEDERMAN 
+University Lecturer in International Relations, Somerville College 
+Oxford University 
+RO BYN M. DAWES 
+University Professor 
+Carnegie Mellon University 
+RO N ALD J . DEIB ERT 
+Assistant Professor, Department of Political Science 
+University of Toronto 
+J A MES D. FEARON 
+Assistant Professor, Department of Political Science 
+University of Chicago 
+MI CH AEL P. FISCHERKELLER 
+Doctoral candidate, Department of Political Science 
+The Ohio State University 
+R ICHAR D K . H E R RMANN 
+Associate Professor, Department of Political Science 
+Director, Program in Foreign Policy Analysis, Mershon Center 
+The Ohio State University 
+ROB E RT J ERVIS 
+Adlai E. Stevenson Professor of International Relations, 
+Department of Political Science 
+Columbia University 
+YUE N FOONG KHONG 
+Fellow, Nuffic1d College 
+John G . Winant University Lecturer in American Poreign Policy 
+Ox foru University 
+
+

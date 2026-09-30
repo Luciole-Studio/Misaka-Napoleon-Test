@@ -1,0 +1,1200 @@
+• Britse krakers in Leiden [Hendriks, Nimanaj & Van der Steen]
+• Risk Management in 16th Century Antwerp [Dreijer]
+• Napoleon and the Dutch War Subsidy [Hay]
+• Mapping Foreign Migration to Belgium [Heynssens]
+The Low Countries Journal 
+of Social and Economic 
+History
+jaargang 17
+2020
+nummer 2
+
+HAY
+55
+Making War Pay for War
+Napoleon and the Dutch War Subsidy, 1795-1806
+Mark Edward Hay
+tseg 17 (2): 55-82
+doi: 10.18352/tseg.1102
+Les avantages de cette brillante conquête pour la République sont immen-
+ses: elle lui donne des trésors, des magasins, des chantiers, des vaisseaux 
+et surtout dans les affaires politiques et commercielles de l’Europe une 
+prépondérance, dont il est impossible de calculer les effets et les suites.
+The representatives-on-mission with the Army of the North, reporting 
+back to Paris after the conquest of the Dutch Republic in January 1795.1
+Abstract
+Just over one decade ago, Pierre Branda published a study of Napoleonic public 
+finance. The study marks a turning point in the historiography of Napoleonic war 
+financing because, through relying on well-researched quantitative data, Branda 
+lays to rest the long-held myth that Napoleon ‘made war pay for war’. However, the 
+Franco-centric conceptualization of Napoleonic resource extraction and the tempo-
+ral delineation have resulted in a prism that omits certain sources of revenue. This 
+omission has a bearing on Branda’s overall assessment of Napoleonic war financing. 
+Through exploring French resource extraction in the Netherlands through forcing 
+the Dutch to pay for the maintenance of a French contingent, this article builds on 
+Branda’s work to shed a new light on the success of Napoleonic resource extraction 
+and war financing. 
+In her struggle against much of Europe, Revolutionary France faced 
+uneven odds, both in terms of manpower and in terms of resources. The 
+1 	 Archives diplomatiques (France) [FR-AD], Correspondance Politique, Hollande [CPH], 586, Repre-
+sentatives-on-mission to the Committee of Public Safety, 21 January 1795. 
+
+56
+VOL. 17, NO. 2, 2020
+TSEG
+conception of the levée en masse remedied France’s shortage of man-
+power.2 However, in resource mobilization no such quick fix existed. 
+France was a rich country with considerable capital accumulation, but 
+at the end of the eighteenth century, she possessed neither the finan-
+cial infrastructure nor the trust to mobilize the required resources at 
+short notice. The turmoil unleashed by the Revolution did little to im-
+prove French public finances.3 Therefore, France was forced to extract 
+the resources necessary to fight her wars abroad. The Netherlands, with 
+its perceived abundance of wealth, soon became a principal target for 
+France. This article explores French resource extraction in the Nether-
+lands through examining one of the resource extraction instruments 
+that was implemented by France with the signing of Treaty of The Ha-
+gue on 16 May 1795.
+France extracted resources from the Netherlands for almost two de-
+cades. Moreover, French resource extraction evolved considerably as a 
+result of the increasing French demand for resources, the rise to power 
+of Napoleon Bonaparte and the gradual integration of the Netherlands 
+into the Napoleonic Empire and the Napoleonic fiscal-military state. 
+The two principal instruments of French resource extraction were an 
+indemnity of 100 million guilders (f) and an obligation to pay for the 
+maintenance of a French contingent, which was de facto a Dutch sub­
+sidy of the French war effort. Both instruments were introduced with the 
+Treaty of The Hague of 16 May 1795, which brought the Revolutionary 
+War between France and the Dutch Republic to an end and which saw 
+a regenerated Batavian Republic re-enter the war on the side of France.4 
+The Dutch indemnity is explored in-depth in the historiography. There 
+is a broad consensus that the Dutch indemnity was timely and a great 
+windfall to France, and that it was a near insurmountable cost to the 
+2 	 J.-P. Bertaud, The army of the French Revolution. From citizen-soldiers to instrument of power (Prince-
+ton 1988) 102-132.
+3 	 J.C. Riley, The Seven Years War and the old regime in France. The economic and financial toll (Prince-
+ton 1986); T.J. Sargent and F.R. Velde, ‘Macroeconomic features of the French Revolution’, Journal of Po-
+litical Economy 103:3 (1995) 474-518; J.F. Bosher, French finances 1770-1795. From business to bureau-
+cracy (Cambridge 1970); F. Crouzet, La grande inflation. La monnaie en France de Louis XVI à Napoléon 
+(Paris 1993). 
+4 	 Archives nationales (France) [FR-NA], 284AP/10/6, Traité de paix et d’alliance entre la Répub-
+lique française et la République des Provinces unies du 27 floréal, 3e année de la Republique; FR-NA, 
+284AP/10/6, Articles séparés et secrets. Dutch original: Nationaal Archief (Netherlands) [NL-NA], 
+1.01.02, Staten-Generaal, 12597.281, Traité de paix et d’alliance entre la République française et a Ré-
+publique des Provinces unies du 27 floréal, 3e année de la Republique; NL-NA, 3.01.29, Financie van 
+Holland, 913, Articles séparés et secrets. An accessible copy is found in: M. Kerautret, Documents diplo-
+matiques du Consulat et de l’Empire, 3 vols (Paris 2002) I: 24-33.
+
+HAY
+MAKING WAR PAY FOR WAR
+57
+Illustration 1 Signing of the Peace of The Hague, 16 May 1795. Print by Christiaan Josi (Amster-
+dam 1800) (source: Rijksmuseum Amsterdam)
+
+58
+VOL. 17, NO. 2, 2020
+TSEG
+Dutch which locked the Batavian Republic into a subordinate relation­
+ship with France.5 Beyond the odd reference, there is no discussion of 
+the Dutch war subsidy. So as to provide a fuller picture of Napoleonic 
+war financing, this article examines how France imposed the obligation 
+to pay for the maintenance of a French contingent on the Dutch, how 
+successive French regimes exploited this obligation to extract the maxi-
+mum possible amount of resources from the Netherlands and, finally, 
+how much the resources extracted through this instrument contributed 
+to Napoleonic war financing. 
+First, this article examines briefly the historiography of French re-
+source extraction in the Revolutionary and Napoleonic era to highlight 
+the merits and demerits of past approaches. Then, the Dutch war sub­
+sidy will be explored to show how the limitations of the current histo-
+riography can be addressed. Through drawing on undisclosed Dutch 
+archival material – the hitherto overlooked accounts of the adminis-
+trative body that was charged with the financial management of the 
+French contingent in the Netherlands, the final section quantifies the 
+Dutch war subsidy, before embedding the findings in the historography 
+of Napoleonic war financing.6
+The historiography of French war financing
+The topic of French war financing and resource extraction in the Rev-
+olutionary and Napoleonic era has attracted a good bit of scholarly at-
+tention, but focused, in-depth studies are few and far between. A first 
+study is Rupelle’s Les finances de la guerre de 1796 à 1815.7 Rupelle of-
+fers a chronology of French war financing from the Directory to Napo-
+leon’s first abdication to substantiate the argument that Napoleon’s rise 
+to power marked a turning point in French war financing because he 
+placed resource extraction in dependent states on a more stable footing 
+5 	 F. Crouzet, ‘Aspects financiers de la relation franco-batave,’ in: A. Jourdan and J. Leerssen (eds.), Re-
+mous révolutionnaires. République batave, armée française (Amsterdam 1996) 52-53; R.R. Palmer, The 
+age of democratic revolution. A political history of Europe and America, 1760-1800, 2 vols (Princeton 
+1959-1964) II: 186-187; T.C.W. Blanning, The French revolutionary wars 1787-1802 (London 1996) 137; 
+S. Schama, Patriots and liberators. Revolution in the Netherlands 1780-1813 (London 2005) 207-210; 
+R. Kubben, Regeneration and hegemony. Franco-Batavian relations in the revolutionary era. A legal ap-
+proach 1795-1803 (Leiden 2009) 197.
+6 	 NL-NA, 2.01.14.03, Eerste Commissaris over de Franse Troepen in Dienst der Bataafse Republiek. 
+7 	 S. de la Rupelle, ‘Les finances de la guerre de 1796 à 1815’, in: E. Boutmy et al. (eds.), Annales de 
+l’École libre des sciences politiques (Paris 1892) 25-62, 649-669.
+
+HAY
+MAKING WAR PAY FOR WAR
+59
+through transforming the largely ad hoc resource extraction into for-
+mal treaties of subsidy. However, this was only successful until 1808, af-
+ter which Napoleon was less successful in imposing his will on his foes. 
+Rupelle must be acknowledged for venturing into uncharted territory 
+to produce a good study, but with the benefit of more than a century 
+of reflection, one must conclude that the study has several weakness-
+es. First, Rupelle has overlooked some methods of resource extraction, 
+such as the obligation of dependent states to place their armed forces 
+at the disposal of France, which should be considered a subsidy of the 
+French war effort. Second, Rupelle has relied on prospective French 
+budgetary data, rather than the definitive accounts, which impedes his 
+ability to assess the success of French war financing.8 A final flaw is that 
+Rupelle omits the years 1792-1795, which saw extensive plundering 
+and requisitioning by France. 
+Two historians do explore the early years of French resource ex-
+traction. In his six-volume financial history of France Marion examines 
+French resource extraction in the Revolutionary and Napoleonic era in 
+the broader context of French public finances, 1715-1914.9 The broad-
+er perspective, and his retracing of Rupelle’s research leads to a revision 
+of some of Rupelle’s estimates, but because Marion relies on the same 
+erroneous data as Rupelle, his figures are equally unusable. The second 
+historian to explore French resource extraction in the early Revolution-
+ary era is Belhost.10 The study stands out for attempting to quantify the 
+resources that were extracted in a certain territory. However, Belhost’s 
+quantification is flawed because he relies only on select diplomatic 
+sources, without following up on how the financial transactions were 
+executed. As this research shows, the sums of extracted resources fluc-
+tuated considerable due to a variety of factors, resulting in the actual 
+transfers differing considerably from what was intended. For this rea-
+son, one cannot fully rely on Belhost’s findings. 
+A recent study that addresses the limitations in the historiography 
+is Branda’s Le prix de la gloire.11 It explores Napoleonic public finance 
+1803-1814 and includes an examination of Napoleonic war financing 
+and resource extraction. The correct budgetary data has been employed 
+8 	 Rupelle, ‘Les finances de la guerre’, 56; P. Branda, Le prix de la gloire. Napoléon et l’argent (Paris 2007) 
+575-577.
+9 	 M. Marion, Histoire financière de la France depuis 1715, 6 vols (Paris 1914-1931).
+10		 J.-F. Belhost, ‘Le financement de la guerre de 1792 a l’an IV’, in: G. Antonetti (ed.), Etat, finances et 
+economie pendant la Revolution Francaise (Paris 1991) 317-345.
+11		 Branda, Le prix. 
+
+60
+VOL. 17, NO. 2, 2020
+TSEG
+and Branda has also gone to great lengths to corroborate his findings 
+with secondary sources, though non-French literature has been left 
+aside mostly. The merit of Branda’s work lies in his new conceptual-
+ization of French resource extraction. He distinguishes three types of 
+resource extraction. First is the seizure of property, goods, and capi-
+tal, and the appropriation of fiscal revenue during military campaigns, 
+which is referred to as ordinary contributions. Second is extraordinary 
+contributions, which refers to the financial gain derived from treaties, 
+such as reparations, indemnities, or other financial contributions. Third 
+is the savings and contributions to the French war effort resulting from 
+the obligation of dependent states to place (parts of) their military 
+­forces at the disposal of France, or to pay for the upkeep of French 
+­forces stationed in their territory.12 This francocentric conceptualiza-
+tion has disclosed resource flows that have been overlooked hitherto. 
+Additionally, Branda has developed a methodology for calculating re-
+source extraction that others have found impossible to quantify, such 
+as the savings on the French war effort as a result of forcing dependent 
+states to place their armed forces at the disposal of France.13 This ap-
+proach has allowed Branda to argue that Napoleon failed to make his 
+wars self-financing. Branda’s research findings are listed in table 1. 
+Table 1 Napoleonic War Financing (1803-1814), according to Branda.
+Source
+Sum in mln francs
+% of war expenditure
+ 
+Domestic resource mobilization
+1,859
+43.4
+Resource extraction abroad
+1,799
+42.0
+Credit
+123
+2.9
+Deficit
+503
+11.7
+ 
+Total expenditure on war
+4,284
+100
+Source: P. Branda, Le prix de la gloire. Napoléon et l’argent (Paris 2007) 283-295.
+A criticism to Branda’s conceptualization is that it implies a rationali-
+ty and clarity to French resource extraction that was rarely present. In 
+practice the various methods of extracting resources are not so neatly 
+distinguished. For example, when French forces invaded the Nether­
+12		 Ibid., 314-335.
+13		 Branda, Le prix, 600-601; P. Branda, ‘Did the war pay for the war? An assessment of Napoleon’s at-
+tempts to make his campaigns self-financing’, Napoleonica. La Revue 3 (2008-2009) 2-15.
+
+HAY
+MAKING WAR PAY FOR WAR
+61
+lands in late 1794, they extracted considerable resources through plun-
+der and requisitioning. In the negotiations leading to the Franco-Dutch 
+peace, the Dutch managed to have the sum of requisitions, though 
+capped at f 10 million, deducted from the indemnity of f 100 million.14 
+Thus, Dutch ordinary contributions became intertwined with Dutch 
+extraordinary contributions. Such nuance only becomes visible when 
+resource extraction is studied from the perspective of states on the re-
+ceiving end of French efforts. A second criticism is that Branda has over-
+looked some resource flows from beyond the borders of France, such as 
+from the Netherlands. The omission is understandable, as it results from 
+the temporal delineation of his study. Branda defines the Napoleon­
+ic era as the years 1803-1814 to coincide with the Napoleonic Wars, 
+and he searches for resource extraction instruments that were intro-
+duced in these years. This overlooks resource extraction that was imple-
+mented by previous regimes, and which was inherited by the Napoleon­
+ic regime. Such is for example the case with the Dutch war subsidy.
+The Treaty of The Hague and the Dutch war subsidy
+Secret article 3 of the Treaty of The Hague stated that a French contin-
+gent would be taken into the pay of the Batavian Republic, but other 
+than that this was to include salary, clothing, military equipment, and 
+lodgings and that the French contingent would be capped at 25,000 
+men, the article did not contain any specifics. The details of the agree-
+ment were agreed on 27 July 1795.15 The preamble of the treaty spe-
+cified the makeup of the French contingent and it set out the conditi-
+ons of the deployment. Two articles are of particular interest. Article 1 
+of the preamble stated that France was not permitted to rotate troops 
+into the Batavian Republic. This was added to prevent France from 
+replac­ing fully equipped and provisioned French troops in the Bata-
+vian Republic with deprived troops from elsewhere. Article 3 of the 
+preamble stated that the commander of the French contingent was 
+prohibited from unilaterally transferring (parts of) the French contin-
+14		 G. Schimmelpenninck, Rutger Jan Schimmelpenninck, en eenige gebeurtenissen van zijnen tijd, 2 vols 
+(Amsterdam 1845) II: 312-313.
+15		 Koninklijke Bibliotheek (Netherlands) [NL-KB], Knuttel, 22478, Articles convenus […] Pour régler 
+le service, l’administraiton, l’habillement, l’équipement et la solde des 25000 hommes de troupes 
+françaises, qui doivent rester dans les Provinces-Unies, conformément au traité de paix et d’alliance fait 
+entre les deux Républiques.
+
+62
+VOL. 17, NO. 2, 2020
+TSEG
+gent to outside the Batavian Republic. This was to ensure that France 
+would not pin the costs of her military campaigns on the Batavian Re-
+public. The treaty proper reiterated the commitment to take the French 
+troops into Batavian pay (article 2). The Batavians were also to pro­
+vide lodgings for the French contingent (article 4). Ideally, the French 
+troops would be housed in military barracks, but if no such buildings 
+were available, the troops would be quartered in public buildings. The 
+commitment to equip the French troops was elaborated on to mean 
+that the Batavian authorities were to provide the French troops with all 
+that they ­required: clothing, shoes, weapons, accoutrements, etc. (arti-
+cle 5). Further­more, the French contingent would receive daily rations 
+of foodstuffs and fodder (article 3) in accordance to French military reg­
+ulation as per Law of 2 Thermidor, Year 2 (20 July 1794). Finally, hospi-
+tals would be set up for wounded or ill French soldiers (article 6). 
+To ensure a timely payment of the salaries to the French contingent 
+a Committee for the Payment of French Troops was set up. The lodgings 
+of the French contingent, and the erection and running of the French 
+hospitals, was organized by the Batavian Army, but its costs were com-
+pensated by this committee too.16 The provisioning of the French con-
+tingent was done by merchants in the Batavian Republic. After a deliv-
+ery of goods, the merchants were reimbursed by a second newly created 
+body, the Committee for the Delivery of Victuals and Necessities to 
+the French Troops.17 Both committees made their payments through 
+drawing on the Batavian treasuries. The funds were levied through 
+both committees submitting their expenses to the Committee for the 
+French Alliance, which was a governmental department that replaced 
+the old regime Council of State and which was charged with translat-
+ing revolutionary principles into policy and maintaining amicable re-
+lations with France.18 The Committee for the French Alliance would 
+then submit a petition for extraordinary defence (a budget) to the Bata­
+vian States-General. In the decentralized early Batavian Republic, the 
+States-General repartitioned the budget amongst the provinces of the 
+republic according to a set quota, after which the provinces would levy 
+the revenue through their respective systems of taxation. 
+16		 NL-NA, 2.01.14.01, Comité te Lande, 162, Instructies voor het Comité tot betaling der Franse troe­
+pen in soldij der Bataafse Republiek.
+17		 NL-NA, 2.01.14.01, Comité te Lande, 162, Instructies voor het Comité tot bezorging der behoeften 
+en noodwendigheden der Franse troepen in soldij der Bataafse Republiek. 
+18		 A.M. Elias, ‘Van Raad van State, Comité te Lande en Staatsraad (1795-1810)’, in: Raad van State 450 
+jaar (The Hague 1981) 113-128.
+
+HAY
+MAKING WAR PAY FOR WAR
+63
+Within several months, it became clear that the management of the 
+upkeep of the French contingent was too cumbersome. The two com-
+mittees were merged into a single body, the Committee for the Admin-
+istration of French Troops, and rather than levying revenue only after 
+being petitioned by the Committee for the French Alliance, the Bata­
+vian government resorted to levying revenue in advance at a rate of 
+f 1,065,000 per month.19 This arrangement was not entirely satisfactory 
+either. The provinces were slow in levying their quotas, which led to in-
+sufficient funds for the Administration and arrears in the maintenance 
+of the French contingent.20 The French military authorities in the Bata­
+vian Republic were quick to exploit this state of affairs by submitting 
+requests for emergency funding. In the spirit of the recently conclud-
+ed alliance, the Batavians honoured these requests without much de-
+liberation.21 However, it was not long before rapidly increasing costs 
+forced Batavians to reflect on their approach to funding the French 
+contingent. On 24 May 1796 the Batavian government set up a com-
+mittee to investigate the functioning of the bodies responsible for the 
+maintenance of the French contingent. The investigative committee 
+faced many challenges, not in the least because the accounts of the var-
+ious committees were found to be deficient. It took the committee six 
+months to puzzle together a picture of the maintenance of the French 
+contingent based on the flawed administration. The conclusions were 
+worse than expected. 
+It was discovered that the Administration had frequently financed 
+troops in excess of the stipulated 25,000 men. The most shocking case 
+of overpayment occurred in September 1796, when the contingent 
+numbered 26,000 troops, but the French military authorities submit-
+ted a request for payment of 36,000 troops. Not only did the Admin-
+istration fail to cap payments at 25,000, but it did not even bother to 
+ascertain whether the paper strength of the French contingent corre-
+sponded to the actual strength. The salaries were simply paid out. The 
+investigative committee concluded that for a period of six months a 
+total of f 4,294,057 guilders was paid out in salaries. If the Adminis-
+tration had abided by the treaty, the salaries should not have exceed-
+19		 NL-NA, 2.01.14.01, Comité te Lande, 138, Petitie van f 1,000,000 tot het versorgen der fransche 
+troupes voor de drie eerstkomende maanden, 16 oktober 1795. 
+20		 NL-NA, 1.01.02, Staten-Generaal, 11085B, ‘States-General to the Representatives of Friesland, 29 
+February 1796’.
+21		 For example, on 28 December 1795 a request for funding for the defence of the Batavian frontiers 
+was submitted: NL-NA, 2.01.14.01, Comité te Lande, 138, Petitie van f 1,300,000 voor de besorging der 
+levensmiddelen voor de Frontierplaatsen, 28 december 1795. 
+
+64
+VOL. 17, NO. 2, 2020
+TSEG
+ed f 1,842,134. In other words, the Administration had overspent by 
+f 2,451,923. The delivery of provisions and equipment to the French 
+contingent was equally chaotic. Most reflective was the case of a pay-
+ment of f 451,780 in deliveries to the French Army of the Sambre and 
+the Meuse, which was not covered by the treaty and which was not even 
+in Batavian Republic at that time. According to the investigative com-
+mittee the total expenditure on the French contingent for a period of 12 
+months stood at f 20,612,812.22 
+Such costs were unsustainable. To bring order, the Batavian govern-
+ment dismissed incapable staff, reorganized the Administration and 
+placed it under closer governmental oversight.23 From 21 March 1797, 
+the former Committee for the Administration of the French Troops 
+continued as the Administration for the Victuals, Pay and Necessities of 
+the French Troops in the Pay of the Batavian Republic, under the direc-
+tion of First Commissioner Jan Willem Janssens.24 The reorganization 
+was a success. Henceforth, the French contingent could rely on regular 
+payments and provisions.
+No sooner had agreement been reached on adequate funding of the 
+French contingent, than a new bone of contention arose. Article 17 of 
+the Treaty of The Hague stated that the French contingent would re-
+main in the Batavian Republic for the duration of the war. However, 
+secret article 3 of the treaty could imply that, after the conclusion of a 
+general peace, the French contingent, or part thereof, could remain in 
+the Batavian Republic. The contradiction of article 17 and secret article 
+3, and the ambivalent phrasing of secret article 3, ensured that the obli­
+gation to maintain a French contingent became a topic of heated nego-
+tiations, with the Batavian government hoping to cut expenditure by 
+reducing the size of the contingent, or removing it from Dutch territory 
+altogether, and France hoping to maintain the largest possible contin-
+gent at the cost of the Batavian Republic for as long as possible.
+When the Treaty of Campo Formio of 17 October 1797 ushered in a 
+continental European peace, a first opportunity to renegotiate the obli-
+gation to pay for the upkeep of the French contingent presented itself. 
+22		 NL-KB, Knuttel, 22895, Rapport van de personeele commissie tot onderzoek naar de directie en 
+werkzaamheden vanhet committé van administratie der Fransche troupes in soldy dezer republicq; 
+gedaan aan de Nationale Vergadering, representeerende het volk van Nederland, 25 november 1796.
+23		 NL-KB, Knuttel, 22895, Extract uit het Register der Decreeten van de Nationale Vergadering represen-
+teerende het Volk van Nederland, 2 december 1796; NL-KB, Knuttel, 22895, Extract uit het Register der 
+Decreeten van de Nationale Vergadering representeerende het Volk van Nederland, 14 december 1796. 
+24		 NL-KB, Knuttel, 22895, Extract uit het Register der Decreeten van de Nationale Vergadering repre-
+senteerende het Volk van Nederland, 21 februari 1797.
+
+HAY
+MAKING WAR PAY FOR WAR
+65
+The Batavian government charged a special delegation to negotiate a 
+reduction of the French contingent in Paris.25 The mission failed be-
+cause it became embroiled in the ever-factious Batavian politics. In ad-
+dition to renegotiating the French contingent, the delegation hoped to 
+gain French approval for regime change in the Batavian Republic. The 
+official Batavian ambassador to France caught word of this and he or-
+chestrated the delegation’s arrest. This staved off regime change in the 
+Batavian Republic, but the opportunity to renegotiate the French con-
+tingent was lost too.26 
+France also attempted to renegotiate the upkeep of the French con-
+tingent. In April 1798, the French ambassador at The Hague, Charles-
+François Delacroix, was instructed to open negotiations with the Bata­
+vian government. His aims were to maintain the French contingent at 
+a strength of 25,000 men and to secure more advantageous employ-
+ment conditions.27 By May 1798 Delacroix had secured a new agree-
+ment that allowed France to replace up to one quarter of the French 
+contingent with troops from elsewhere and to deploy up to three quar-
+ters of the contingent abroad. Furthermore, the new agreement obliged 
+the Batavian Republic to pay France 1.2 million francs annually to fa-
+cilitate recruitment for the French contingent in the Batavian Repub-
+lic.28 The new agreement thus revised the conditions for the upkeep of 
+the French contingent decidedly in favour of France. It marked a clear 
+break with the Treaty of 27 July 1795 in that France could rotate de-
+prived troops into the Batavian Republic and in that France could de-
+ploy up to 18,750 men for operations abroad. Needless to say, the new 
+agreement greatly increased the costs of the upkeep of the French con-
+tingent. However, and despite French pressure to put the new arrange-
+ment into law swiftly, the Batavians never ratified the agreement. In 
+May 1798, the Batavian regime was desperately trying to keep a lid on 
+domestic political turmoil. In June the situation became untenable, and 
+on 12 June 1798 a coup installed a new caretaker government, the Bata-
+vian Interim Executive Authority, which did not deem it appropriate to 
+take such weighty decisions. The new regime that came to power in Au-
+gust 1798, the Batavian Executive Authority, was required to submit the 
+25		 H.T. Colenbrander, Gedenkstukken der algemeene geschiedenis van Nederland van 1795 tot 1840, 10 
+vols (The Hague 1905-1922) II: 717, Instructie voor J. Eykenbroek, 6 februari 1798.
+26		 Schama, Patriots and liberators, 284-342.
+27		 FR-AD, CPH, 599, ‘Delacroix to Talleyrand, 16 June 1798’.
+28		 NL-NA, 1.01.02, Staten-Generaal, 12597.283, Traité secret entre la République française et la Ré-
+publique Batave [1 June 1798]. 
+
+66
+VOL. 17, NO. 2, 2020
+TSEG
+new agreement to the Batavian Representative Body for approval, but it 
+declined to do so because it did not want to be associated with a ­treaty 
+that was so disadvantageous to the Batavian Republic. The upkeep of 
+the French contingent thus remained on the footing as set out in the 
+Treaty 27 July 1795. The arrangement remained unsatisfactory to both 
+parties, but at least it was a compromise of sorts that worked.29
+The Anglo-Russian military invasion of North Holland in August 
+1799 rendered this fragile compromise unsustainable. In order to defeat 
+the invasion, France expanded her military presence in the Bata­vian 
+­Republic.30 The French authorities were never in doubt that the Bata­
+vian authorities should bear the costs of all the French forces defending 
+the Batavian Republic. However, the Batavian government could not af-
+ford to fund the inflated French contingent. Batavian public ­finances 
+were already in a bad state, and the invasion exacerbated affairs by im-
+peding tax collection and by forcing the mobilization of the Bata­vian 
+armed forces at great cost.31 Both governments felt they were in the 
+right – the Batavian government because it adhered to treaties that lim-
+ited its financial contribution and the French government because it 
+believed the extraordinary circumstances of the invasion demanded 
+extraordinary financial sacrifices – and both governments refused to 
+budge. The result was that the French armed forces in the Batavian Re-
+public remained underfunded. In response French officials submitted a 
+steady stream of requests for urgent funding and they resorted to requi-
+sitioning on the spot, whereby it was then left to the Batavian authori-
+ties to distinguish funding for the French contingent, which they were 
+obliged to pay, from funding for supernumerary French forces, which 
+they were not obliged to pay.32 The Administration was not up to this 
+task, and the service effectively broke down. 
+By the beginning of October 1799, the expenditure on French armed 
+forces in the Batavian Republic had spiralled out of control to the extent 
+that once more an investigation into the upkeep of the French contin-
+gent was ordered.33 The review report was drawn up by the Batavian 
+29		 Schama, Patriots and liberators, 321-353; C. Rogge, Geschiedenis der staatsregeling, voor het Ba­
+taafsche volk (Amsterdam 1799) 562-605.
+30		 J. Zuurbier, et al. (eds.), De lange herfst van 1799. De Russisch-Engelse invasie in polder en duin (Cas-
+tricum 1998).
+31		 T.J.E.M. Pfeil, ‘Tot redding van het Vaderland’. Het primaat van de Nederlandse overheidsfinanciën in 
+de Bataafs-Franse tijd 1795-1810 (Amsterdam 1998) 201-308.
+32		 NL-NA, 2.01.01.04, Uitvoerend Bewind, 696, Geheime Agenda, 20 september 1799; NL-NA, 
+2.01.01.04, Uitvoerend Bewind, 696, Geheime Agenda, 13 november 1799. 
+33		 NL-NA, 2.01.01.04, Uitvoerend Bewind, 696, Geheime Agenda, 7 oktober 1799. 
+
+HAY
+MAKING WAR PAY FOR WAR
+67
+Agent for War, Gerrit Jan Pijman, and the Administration’s First Com-
+missioner Janssens.34 It revealed that the French contingent consistent-
+ly exceeded the stipulated 25,000 men. In the light of the military oper-
+ations in the Batavian Republic, this was perhaps understandable. More 
+serious was that the investigation revealed that the French contingent 
+was top heavy. The staff of the contingent was larger than necessary 
+and there were too many officers in relation to rank and file. Second-
+ly, the investigation revealed abuses that indicated intentional abuse of 
+the Batavian obligation to maintain a French contingent. Many officers 
+with the French contingent allowed themselves to be paid out at high-
+er ranks than they held, and rather than live frugally, as the Bata­vian 
+authorities had expected, the staff of the French contingent took up 
+residence in the grandest of buildings and lived lavishly.35 Thirdly, the 
+investigation revealed that the French officials repeatedly violated the 
+latest treaty on the upkeep of the French contingent, the Treaty of 27 
+July 1795. Deprived French troops were frequently rotated into the con-
+tingent and fully equipped and provisioned troops were deployed for 
+operations abroad without consent of the Batavian authorities. More-
+over, by refusing to submit the overviews of the troops present in the 
+Batavian Republic, it seemed as if France tried to cover up their viola-
+tions of the treaty.36 The exposé of abuses and violations by the French 
+military authorities reinvigorated the Batavian drive to renegotiate the 
+terms of the upkeep of the French contingent. To this end the report on 
+French abuses and violations was forwarded to Rutger Jan Schimmel-
+penninck, at this time the Batavian Extraordinary Minister Plenipo-
+tentiary at Paris, with instructions to secure a reduction of the French 
+contingent to 10,000 troops, of which the staff and composition of the 
+contingent would be pre-approved by Batavian authorities and whose 
+salaries, provisions and lodgings would be provided according to Bata-
+vian standards.37 However, any hope for a quick resolution was dashed 
+by unfolding political events in Paris.
+In sum, the Revolutionary strategy of resource extraction can be 
+characterized as imposing harsh peace conditions, including a war sub-
+34		 NL-NA, 2.01.01.04, Uitvoerend Bewind, 658, Geheime minuut-notulen, 21 november 1799. 
+35		 NL-NA, 1.02.14, Legatie Frankrijk, 680, Extrait de la revue passé à La Haye […]. 
+36		 NL-NA 2.01.01.04, Uitvoerend Bewind, 470, ‘Janssens to Pijman, 21 November 1799’; NL-NA, 
+2.01.01.04, Uitvoerend Bewind, 658, Geheime minuut-notulen, 21 november 1799.
+37		 NL-NA, 2.01.01.04, Uitvoerend Bewind, 658, Geheime minuut-notulen, 21 november 1799; FR-AD, 
+Correspondance politique, Hollande, Supplément [CPHS], 22, Extract uit het Register der Besluiten van 
+het Uitvoerend Bewind der Bataafsche Republiek, 21 november 1799; NL-NA, 1.02.14, Legatie Frank­
+rijk, 680, ‘Van der Goes to Schimmelpenninck, 21 November 1799’.
+
+68
+VOL. 17, NO. 2, 2020
+TSEG
+Illustration 2 The Defeated Pay the Fine (source: Print by James Gillray [possibly, MH] from David 
+Hess, Hollandia Regenerata (London, 1795) Rijksmuseum Amsterdam)
+sidy, and maximising resource extraction through allowing officials on 
+the ground to abuse bilateral agreements, in which they were greatly as-
+sisted by a disorganized Batavian administration. Only once did the Re-
+volutionaries attempt to renegotiate the Batavian obligation to maintain 
+a French contingent, but this failed in the face of Batavian opposition.
+
+HAY
+MAKING WAR PAY FOR WAR
+69
+Napoleon Bonaparte and the Dutch war subsidy
+Schimmelpenninck’s instructions reached him just after an ambitious 
+young general by the name of Napoleon Bonaparte seized power in 
+France. Malcolm Crook has argued that what sets Bonaparte’s coup 
+of Brumaire apart from previous coups was that it was consolidated.38 
+Bonaparte’s consolidation of power was in no small part due to his abil­
+ity to mobilize the resources which allowed him to channel domestic 
+disorder towards pursuing military victory abroad. However, upon seiz­
+ing power Bonaparte found the French treasury empty, with no quick 
+fixes available.39 Therefore, the First Consul’s efforts to mobilize resour-
+ces were directed at the place where he believed resources could be had 
+at short notice, the Batavian Republic. 
+On 29 November 1799, Schimmelpenninck was summoned to a 
+meeting with Bonaparte and the recently appointed Minister of Foreign 
+Relations, Charles-Maurice de Talleyrand. At the meeting, the First Con-
+sul demanded an immediate voluntary contribution of 6 million francs, 
+in exchange for which he was willing to make a range of diplomatic con-
+cessions, including on the obligation to maintain a French contingent.40 
+The Batavians were open to negotiation, but the discussion got bogged 
+down as a result of Schimmelpenninck’s insistence on an explication 
+of the concessions France was willing to make, which his counterparts 
+were reluctant to do.41 Bonaparte’s first response was to apply pressure 
+to reveal to the Batavians that holding out on an agreement came at a 
+cost too. For instance, since the withdrawal of the Anglo-Russian in-
+vasion force from the Batavian Republic, the French contingent in the 
+Batavian Republic had dwindled to about half its stipulated size. On 16 
+January 1800 the First Consul threatened to reinforce the contingent to 
+its full strength, which would increase the costs of maintenance consid-
+38		 M. Crook, Napoleon comes to power. Democracy and dictatorship in revolutionary France, 1795-1804 
+(Cardiff 1998) 71-95.
+39		 M.-M.-C. Gaudin, Mémoires, souvenirs, opinions et écrits du duc de Gaëte, 2 vols (Paris 1826) I: 134-
+144; M. le duc de Gaëte [M.-M.-C. Gaudin], Notice historique sur les finances de France (Paris 1818) 28-
+42; R. Stourm, Les finances du consulat (Paris 1902) 41-114.
+40		 NL-NA, 1.02.14, Legatie Frankrijk, 647-648, ‘Schimmelpenninck to Van der Goes, 29 November 
+1799’.
+41		 NL-NA, 2.01.01.04, Uitvoerend Bewind, 470, ‘Van der Goes to Executive Authoriy, 3 December 
+1799’; NL-NA, 2.01.01.04, Uitvoerend Bewind, 658, Geheime minuut-notulen, 5 december 1799’; NL-
+NA, 1.02.14, Legatie Frankrijk, 680, Extract uit het Register der Besluiten van het Uitvoerend Bewind 
+der Bataafsche Republiek, 5 december 1799; NL-NA, 1.02.14, Legatie Frankrijk, 680, ‘Van der Goes to 
+Schimmelpenninck, 5 December 1799’; NL-NA, 1.02.14, Legatie Frankrijk, 648, ‘Schimmelpenninck to 
+Van der Goes, 9 December 1799’. 
+
+70
+VOL. 17, NO. 2, 2020
+TSEG
+erably.42 Schimmelpenninck was unpleasantly surprised by the threat, 
+but, assessing that the measure would not alleviate Bonaparte’s imme-
+diate need for funds, he took it as bluff.43 
+Having concluded that Schimmelpenninck was the primary obsta-
+cle to a swift conclusion of an agreement, Bonaparte decided to cir-
+cumvent the Batavian minister altogether through entrusting the new 
+French ambassador at The Hague, Charles-Louis Huguet de Sémonville, 
+with renegotiating the conditions of the French contingent.44 Upon his 
+arrival in The Hague on 23 January 1800, Sémonville submitted two 
+notes. In the first note Bonaparte seemingly reached out to the Bata­
+vian government by conceding that the supernumerary officers with 
+the French contingent did not have the right to claim pay from the Bata­
+vian authorities, and he indicated that Paris would recall them. How­- 
+e­ver, the note went on to point out that without salary payments the su-
+pernumerary officers lacked the means to travel back to Paris.45 If the 
+first note was at least presented as a compromise, the second note was 
+straightforward. The Batavian government was informed that Bonapar-
+te had dispatched troops to reinforce the French contingent to its full 
+strength of 25,000 troops. If the Batavian government wished to change 
+the itinerary of the French troops, it could do so by accepting to pay for 
+the maintenance of a force of 18,000 French troops for a period that 
+would be backdated as well as extended into the future.46 Neither sum, 
+nor dates were specified, but it was sure to amount to a couple of mil-
+lion guilders.
+The French demands and the willingness to escalate matters 
+shocked the Batavians, but at least the cards were on the table. The 
+Bata­vian response was calculated. The Batavian Executive Authority 
+authorized the payment of the supernumerary French officers.47 This 
+42		 NL-NA, 1.02.14, Legatie Frankrijk, 682, ‘Authorising Officer of the French contingent in the Bata-
+vian Republic to Pijman, 16 January 1800’; NL-NA, 1.02.14, Legatie Frankrijk, 682, ‘Pijman to Execu-
+tive Authority, 17 January 1800’; NL-NA, 2.01.08, Buitenlandse Zaken, 213, ‘ Janssens to Schimmelpen-
+ninck, 2 February 1800’. 
+43		 NL-NA, 1.02.14, Legatie Frankrijk, 692, ‘ Talleyrand to Schimmelpenninck, 21 January 1800’.
+44		 NL-NA, 2.01.08, Buitenlandse Zaken, 213, ‘Schimmelpenninck to Van der Goes, 31 December 
+1799’; NL-NA, 2.21.005.39, Collectie 039 Gogel (1752-1820), 3, ‘Van der Goes to Gogel, 6 January 1800’; 
+NL-NA, 2.01.08, Buitenlandse Zaken, 34, Net registers (verbaal) met korte inhoud van stukken inge-
+komen bij het Agentschap der Buitenlandse Betrekkingen met de daarop genomen besluiten, 22 janu-
+ari 1800.
+45		 NL-NA, 1.02.14, Legatie Frankrijk, 682, ‘Sémonville to Van der Goes, 23 January 1800’.
+46		 NL-NA, 1.02.14, Legatie Frankrijk, 682., ‘Sémonville to Van der Goes, 25 January 1800’. 
+47		 NL-NA, 2.01.01.04, Uitvoerend Bewind, 659, Geheime minuut-notulen, 28 januari 1800; NL-NA, 
+2.01.01.04, Uitvoerend Bewind, 659, Geheime minuut-notulen, 29 januari 1800.
+
+HAY
+MAKING WAR PAY FOR WAR
+71
+was presented as a concession to France, but in fact it was also self-serv-
+ing. Sémonville’s note had made clear that the supernumerary officers 
+would linger in the Batavian Republic until their discharge was bought 
+off. The longer their discharge was put off, the more it would cost.48 As 
+for the reinforcements for the French contingent, the Batavian Execu-
+tive Authority informed Sémonville that they were pleased to receive 
+the additional troops.49 For one part, the reinforcements were welcome 
+since part of the Batavian army had just been stood down.50 For anoth-
+er part, the Batavian Executive Authority seems to have wanted to call 
+Bonaparte’s bluff. It was known that France needed to reinforce other 
+theatres of war more urgently than the Low Countries, from where the 
+Anglo-Russian forces had withdrawn.51 The Batavian Executive Author-
+ity’s response was a gamble, for had Bonaparte indeed reinforced the 
+French contingent, the Batavians would have been hard pressed to levy 
+the required funds. 
+Fortunately, the gamble paid off. By the second week of February 
+1800, the reinforcements had not yet been dispatched, and Talleyrand 
+raised the idea of reducing the French contingent with Schimmelpen-
+ninck. Now it was Schimmelpenninck’s turn to direct his counterpart to 
+The Hague, where the negotiations on those issues should supposedly 
+take place.52 In a detailed letter to the Batavian Agent for Foreign Affairs 
+Maarten, Baron van der Goes van Dirxland, Talleyrand indicated that 
+France was willing to reduce the French contingent and to make conces-
+sions regarding another drawn-out Franco-Batavian dispute – the joint 
+use of the port of Flushing – in exchange for a sum of 50 million francs. 
+The Batavian authorities were stunned by the demand. The Batavian 
+Executive Authority could offer no more than 6 million francs for the 
+reduction of the French contingent and the renunciation of all French 
+claims to Flushing.53 The disparity between the French demand and 
+the Batavian offer made any compromise impossible. After this latest 
+exchange, no further negotiations were held and the efforts to reach a 
+mutually satisfactory agreement on the French contingent petered out. 
+48		 NL-NA, 1.02.14, Legatie Frankrijk, 698, ‘Janssens to Schimmelpennick, 2 February 1800’.
+49		 NL-NA, 2.01.01.04, Uitvoerend Bewind, 659, ‘Van der Goes to Sémonville, 30 January 1800’.
+50		 NL-NA, 1.02.14, Legatie Frankrijk, 680, Extract uit het Register der Besluiten van het Uitvoerend Be-
+wind der Bataafsche Republiek, 12 december 1799. 
+51		 NL-NA, 1.02.14, Legatie Frankrijk, 649, ‘Schimmelpenninck to Van der Goes, 24 January 1800’; NL-
+NA, 2.01.08, Buitenlandse Zaken, 59, Net registers (verbaal) met korte inhoud van stukken ingekomen 
+bij het Agentschap der Buitenlandse Betrekkingen met de daarop genomen besluiten, 4 februari 1800.
+52		 NL-NA, 1.02.14, Legatie Frankrijk, 649, ‘Schimmelpenninck to Van der Goes, 8 February 1800’.
+53		 NL-NA, 1.02.14, Legatie Frankrijk, 682, ‘Van der Goes to Schimmelpenninck, 14 February 1800’.
+
+72
+VOL. 17, NO. 2, 2020
+TSEG
+Bonaparte’s victory at Marengo on 14 June 1800 had immediate 
+implications for Franco-Batavian relations. The gradual return to a 
+continental peace, culminating in the Treaty of Lunéville (9 February 
+1801), raised Batavian hopes that the article stipulating the removal of 
+the French contingent could be invoked. Both in Paris and The Hague, 
+Bata­vian officials raised the issue, but the overtures were ignored.54 It 
+was not until the summer of 1801, when preliminary peace talks with 
+­Britain had started, that the First Consul would consider the continued 
+presence of the French contingent in the Batavian Republic. The issue 
+was broached by General Charles Pierre François Augereau, the com-
+mander-in-chief of the French contingent in the Batavian Republic, 
+during a meeting with Pijman. Augereau intimated that a full withdraw-
+al of the French contingent was out of order until a general European 
+peace had been achieved, but that Bonaparte was open to a reduction 
+of the contingent in exchange for financial compensation. At the time, 
+Pijman was only a member of the Batavian Council for American Pos-
+sessions and Establishments. It was not until he was elected to the Bata­
+vian Executive Authority on 4 June 1801 that Pijman had the oppor-
+tunity to raise the proposal with his peers, who were quick to agree to 
+re-open negotiations. 55 
+A first major difference of opinion related to whether France had the 
+right to maintain troops in the Batavian Republic after a general peace. 
+In accordance with earlier treaties, the Batavians insisted on the with-
+drawal of all French troops. Bonaparte, however, insisted on a continued 
+presence for two years.56 There was also some haggling over the height 
+of the financial compensation. Augereau proposed a sum of f 10 mil-
+lion, plus a f 1 million bonus for the rank and file of the French contin-
+gent. The Batavians would not go further than f 5 million.57 The issues 
+were hammered out fairly quickly, and by 29 August 1801 a new agree-
+54		 FR-AD, CPH, 605, ‘Van der Goes to Sémonville, 19 March 1801’; NL-NA, 1.02.14, Legatie Frankrijk, 
+631, ‘Schimmelpenninck to Van der Goes, 21 March 1801’.
+55		 G.J. Pijman, Bijdragen tot de voornaamste gebeurtenissen voorgevallen in de Republiek der Vereenigde 
+Nederlanden, sedert het jaar 1778, tot en met het jaar 1807 (Utrecht 1826) 103-106.
+56		 Napoléon Bonaparte, Correspondance générale, 15 vols (Paris 2004-2018) III: 735, ‘Napoleon to Au-
+gereau, 25 July 1801’; FR-AD, CPHS, 23, ‘Pijman to Augereau, 9 August 1801’; FR-AD, CPHS, 23, ‘Pijman 
+to Bonaparte, 9 August 1801’; Bonaparte, Correspondance, III: 752, ‘Napoleon to Talleyrand, 14 August 
+1801’.
+57		 Pijman, Bijdragen, 108-110; FR-AD, CPHS, 23, ‘Augereau to Bonaparte, 11 August 1801’; FR-AD, 
+CPHS, 23, Note en proposition; FR-AD, CPHS, 23, Projet du règlement pour les troupes Françaises qui 
+passent comme auxiliaires dans la Republic Batave; FR-AD, CPHS, 23, ‘Talleyrand to Augereau, [20 Au-
+gust 1801]’. 
+
+HAY
+MAKING WAR PAY FOR WAR
+73
+ment was reached.58 The new arrangement was a fair balance of inter-
+ests. The Batavians secured a reduction of the contingent from 25,000 
+troops to 10,000 troops and the full withdrawal of the French contin-
+gent at a general European peace. France would be paid a lump sum of 
+f 5 million, and those French troops that left the Batavian Republic would 
+be clothed and equipped at Batavian expense to the sum of f 1 million.59 
+When the Treaty of Amiens (25 March 1802) heralded in a gener-
+al European peace, the Batavians hoped to invoke the article obliging 
+France to withdraw its troops from the Batavian Commonwealth, as 
+the Republic was renamed after the coup of 16 October 1801.60 Howev-
+er, France refused to do so, insisting that the French contingent remain 
+in the Netherlands so that it could be shipped off conveniently from 
+Dutch ports to take possession of Louisiana, which was retroceded to 
+France per Third Treaty of San Ildefonso (1 October 1800).61 The expe-
+dition was scheduled for mid-August.62 The Batavians accepted this de-
+lay, though to fix the date of withdrawal they passed a resolution that 
+terminated the maintenance of the French contingent on 23 Septem-
+ber 1802.63 The deadline for departure came and passed with no conse-
+quences for France. Throughout November and December 1802, there 
+were repeated Batavian calls and ultimatums for the withdrawal of the 
+French contingent, but these were met with silence.64 Then, in Jan­uary 
+1803, the French position changed. Talleyrand outright denied France had 
+committed to withdrawing the French contingent from the Netherlands, 
+and he insisted that French troops remain in place until France was satis-
+fied that the Treaty of Amiens was implemented fully.65 The change in the 
+58		 FR-AD, CPHS, 23, ‘Augereau to Talleyrand, 27 August 1801’.
+59		 NL-NA, 2.01.08, Buitenlandse Zaken, 428, Convention entre le Gouvernement de la Republique 
+Française et celui de la Republique Batave, 29 août 1801. 
+60		 NL-NA, 1.02.14, Legatie Frankrijk, 636, ‘Schimmelpenninck to Van der Goes, 10 April 1802’; NL-NA, 
+1.02.14, Legatie Frankrijk, 686, ‘ Batavian Council of War to Berthier [Minister of War], 15 April 1802’.
+61		 Bonaparte, Correspondance, III: 959, ‘Napoleon to Victor [Commander-in-Chief of the French army 
+in The Netherlands], 27 April 1802’; F.P. Renaut, La question de la Louisiane, 1796-1806 (Paris, 1918) 49-
+74; Kerautret, Documents diplomatiques, I: 159-162, 176-178.
+62		 Bonaparte, Correspondance, III: 1008, ‘Napoleon to Victor, 28 June 1802’.
+63		 NL-NA, 1.02.14, Legatie Frankrijk, 686, Extract uit het Register der Besluiten van het Staatsbewind, 
+2 augustus 1802; NL-NA, 1.02.14, Legatie Frankrijk, 686, ‘Van der Goes to Schimmelpenninck, 6 August 
+1802’; NL-NA, 1.02.14, Legatie Frankrijk, 686, ‘Van der Goes to Schimmelpenninck, 10 August 1802’; 
+NL-NA, 1.02.14, Legatie Frankrijk, 638, ‘Schimmelpenninck to Van der Goes, 16 August 1802’; NL-NA, 
+1.02.14, Legatie Frankrijk, 660, ‘Schimmelpenninck to Talleyrand, 2 September 1802’. 
+64		 NL-NA, 2.01.08, Buitenlandse Zaken, 215, ‘Schimmelpenninck to Van der Goes, 4 November 1802’; 
+FR-AD, 606, ‘De Vos van Steenwijk [Ordinary Ambassador at Paris] to Talleyrand, 6 December 1802’.
+65		 NL-NA, 2.01.08, Buitenlandse Zaken, 23, ‘Sémonville to Van der Goes, 1 January 1803’; NL-NA, 
+1.02.14, Legatie Frankrijk, 702, ‘De Vos van Steenwijk to Van der Goes, 19 January 1803’.
+
+74
+VOL. 17, NO. 2, 2020
+TSEG
+French position was the consequence of increasing tension between 
+the signatories of Amiens, principally Britain and France, which raised 
+the possibility of a renewal of hostilities.66 In this context France was 
+wise to retain a military presence in such a strategic location as the Low 
+Countries. However, the benefit of hindsight must not be allowed to 
+condone French actions. Bonaparte’s correspondence reveals that he 
+never intended to withdraw its troops, whatever the international cir-
+cumstances.67 
+Having secured a continued military presence in the Batavian Com-
+monwealth, Bonaparte pushed for these troops to be maintained at Bata­- 
+vian expense once again.68 Recognising that a host of unpaid French 
+soldiers roaming the country would not spell good for the Dutch pop-
+ulation, in April 1803, the Batavians conceded to provide lodgings and 
+sustenance for the French contingent.69 This concession only further 
+encouraged France. By early May 1803, sustained French pressure had 
+enticed the Batavians to agree to paying the salaries of the French con-
+tingent too.70 All that remained now was to translate these arrange-
+ments into a formal agreement. Britain’s declaration of war on France, 
+on 18 May 1803, provided the final push. On 25 June 1803, France and 
+the Batavian Commonwealth renewed their alliance. Article 1 of the 
+treaty stipulated that the Batavians took into their pay a French contin-
+gent of 18,000 troops.71 The make-up of the contingent and the condi-
+tions of employment were hammered out later by Schimmelpenninck, 
+who had returned to Paris as Ordinary Ambassador, and General Jean 
+Gérard Lacuée, State Councillor and President of the Section of War.72 
+The treaty remained the final arrangement until the Netherlands was 
+relieved of this obligation in July 1806, when Louis Bonaparte ascend-
+ed the throne of Holland. Napoleon did attempt to seize upon the poor 
+performance of the Dutch armed forces during the British invasion of 
+66		 P.W. Schroeder, The transformation of European politics 1763-1848 (Oxford 1994) 231-245; A.W. 
+Ward and G.P. Gooch (eds.), The Cambridge history of British foreign policy 1783-1919, 3 vols (Cam-
+bridge 1922-1923) I: 309-327.
+67		 Bonaparte, Correspondance, III: 785-786, ‘Napoleon to Talleyrand, 19 September 1801’.
+68		 NL-NA, 2.01.08, Buitenlandse Zaken, 234, ‘Sémonville to Van der Goes, 28 March 1803’; NL-NA, 
+2.01.08, Buitenlandse Zaken, 234, ‘Sémonville to Van der Goes, 29 March 1803’.
+69		 NL-NA, 2.01.08, Buitenlandse Zaken, 53, Minuut geheime notulen van het Staatsbewind, 18 april 
+1801.
+70		 NL-NA, 2.01.01.05, Staatsbewind 445, ‘State Authority to Legislative Body, 9 May 1803’.
+71		 NL-NA, 2.21.005.03, Collectie 030 Canneman 1930 (1795-1815), 1, Conventie van Parijs, 25 juni 
+1803.
+72		 Convention entre les Gouvernements Français et Batave pour régler l’entretien des troupes Françaises 
+en Batavie (S.l. 1803).
+
+HAY
+MAKING WAR PAY FOR WAR
+75
+Walcheren in 1809, to force his brother into signing a treaty to take a 
+French contingent of 6,000 troops into Dutch pay.73 But because several 
+months later the Kingdom of Holland was annexed to the Empire, the 
+treaty remained a dead letter.
+In assessing the Napoleonic strategy for extracting resources from 
+the Netherlands, one must emphasize that when Napoleon seized pow-
+er, the Batavian Republic was formally allied to France. Thus, Napoleon 
+did not have the opportunity to introduce new resource extraction in-
+struments. The opportunity for extracting resources was therefore lim-
+ited to exploiting existing treaties. Fortunately, the treaties that obliged 
+the Batavians to maintain a French contingent were ill-defined and 
+open to interpretation. In the negotiations that followed, the Napoleon-
+ic regime maintained the initiative through dictating when and where 
+negotiations took place and alternating between isolating the negoti-
+ations and merging them with broader diplomatic affairs. The willing-
+ness to escalate disagreement and the calculated application of diplo-
+matic and military pressure meant that the Napoleonic regime usually 
+emerged triumphant. Ultimately, the Napoleonic regime succeeded in 
+maintaining a French contingent in the Netherlands beyond its legal 
+date, whilst having the Batavians to pay for the privilege. Perhaps, then, 
+a fair assessment is to say that if the Revolutionaries played a strong 
+hand admirably, Napoleon played a weak hand extremely well.
+Quantifying the Dutch war subsidy
+The historiographical representation of the Dutch war subsidy is mixed. 
+Godefroi estimates the cost of the upkeep of French forces at f 7.5 mil­
+lion per year.74 Kubben proposes an average of f 10 million per annum.75 
+Crouzet gives an estimate of f 13 million for the first year, with the cost 
+of upkeep thereafter declining to f 10 million annually.76 Schama and 
+White set the cost at f 10-12 million per annum.77 The two foremost 
+authorities in Dutch fiscal history, Fritschy and Pfeil, estimate the cost 
+of the upkeep for the French contingent at approximately f 12 million 
+73		 Convention pour l’administration de corps de 6,000 hommes de troupes Françaises, à payer par la Hol-
+lande (S.l. 1810).
+74		 L.S. Godefroi, De eerste fase van de financiële unificatie van Nederland (1796-1801) (Rotterdam 
+1986) 44.
+75		 Kubben, Regeneration and hegemony, 286.
+76		 Crouzet, ‘Aspects financiers’, 53.
+77		 Schama, Patriots and liberators, 389.
+
+76
+VOL. 17, NO. 2, 2020
+TSEG
+annually.78 The lack of historiographical consensus is of course prob­
+lematic, though a qualified argument could be made for setting the an-
+nual costs at f 10-12 million. However, whilst such a figure may suffice 
+to highlight factors contributing to the ongoing fiscal crisis in the Revo-
+lutionary and Napoleonic Netherlands, or to shed a light on the tensed 
+Franco-Batavian relations, it is inadequate for quantifying the re­sources 
+extracted by France because it lacks substantiation and implies that 
+the cost of the French contingent remained stable. An examination of 
+Dutch archival sources is needed to provide an accurate picture of the 
+costs of the Dutch war subsidy. 
+The Batavian Republic was obliged to pay for a French contingent 
+from the signing of the Treaty of The Hague on 16 May 1795 until the 
+revoking of the obligation on 31 July 1806, with accounts definitively 
+closed on 24 August 1807. These eleven years and 76 days can be divid-
+ed into four periods. First, the period from the signing of the Treaty of 
+The Hague on 16 May 1795 to the eve of the reorganization of the Ad-
+ministration for the French contingent, 20 March 1797. Second, the pe-
+riod from 21 March 1797 to the eve of the signing of the treaty on the 
+reduction of the French contingent of 29 August 1801. Third, the peri-
+od from 29 August 1801 to the eve of the signing of the third treaty on 
+the upkeep of the contingent on 1 November 1803. Fourth, the period 
+from 1 November 1803 to the withdrawal of the French contingent.
+Due to a lack of accounts of the committees responsible for main-
+taining the French contingent until the reorganization of 21 March 
+1797, it is difficult to establish with precision the cost of the upkeep of 
+the French contingent for the first period. However, some circumstan-
+tial evidence exists. As mentioned, the investigative committee con-
+cluded that the upkeep of the French contingent stood at f 20,612,812 
+for a period of 12 months, or approximately f 1.7 million per month. 
+Were this figure applied to the first 22 months, the upkeep would 
+amount to f 37.79 million. Schimmelpenninck’s memoirs give a sum of 
+f 20,811,467 from the signing of the first contract on 27 July 1795 to 21 
+March 1797.79 If Schimmelpenninck’s figure were applied to the ­period 
+from 16 May 1795 to 20 March 1797, the upkeep of the French con-
+78		 W. Fritschy, ‘De “Generale Beleenbank” en de financiële problemen in de beginjaren van de Ba­taafse 
+Republiek’ in: Jaarboek voor de Geschiedenis van Bedrijf en Techniek 3 (1986) 112; Pfeil, Tot redding, 129; 
+T.J.E.M. Pfeil, ‘Het Nederlandse bezuinigingsbeleid in de Bataafs-Franse tijd (1795-1810): illusie en 
+werkelijkheid’, in: W. Fritschy, J.K.T. Postma and J. Roelevink (eds.), Doel en middel. Aspecten van finan-
+cieel overheidsbeleid in de Nederlanden van de zestiende eeuw tot heden (Amsterdam 1995) 134.
+79		 Schimmelpenninck, Rutger Jan Schimmelpenninck, II: 312-313.
+
+HAY
+MAKING WAR PAY FOR WAR
+77
+tingent would have cost f 22.89 million. It is difficult to weigh off these 
+two authoritative sources. What supports Schimmelpenninck’s figure is 
+that it more or less corresponds to the initial estimate of the costs of the 
+upkeep of the French contingent by the Committee for the French Al-
+liance, which was f 1,065,000 per month, and that the Batavian govern-
+ment estimated a comparable sum for the upkeep of the Batavian army 
+of similar establishment.80 Furthermore, a sum of approximately f 12 
+million annually would not necessarily be incompatible with the find-
+ings of the investigative committee. In response to the excessive expen-
+diture on the French contingent in the first year, the investigative com-
+mittee advised to deduct overpaid amounts from future payments.81 
+It is unclear if the Batavian government succeeded in this, but it is not 
+unlikely. Fortunately, from the reorganization of the Administration in 
+March 1797 the accounts of the upkeep of the French contingent were 
+kept diligently and reviewed regularly. An overview of the costs of the 
+French contingent is given below. From table 2 it can be seen that, after 
+the chaotic first period, the per annum costs of the French contingent 
+dropped to significantly below the historiographical consensus of f 10-
+12 million per annum. Nevertheless, the cost of the French contingent 
+was still considerable. Table 3 gives the expenditure on the French con-
+tingent as a percentage of Dutch ordinary fiscal revenue. The large slice 
+of Dutch ordinary fiscal revenue earmarked for maintaining a French 
+contingent may go some way substantiating the tensed relations and 
+difficult negotiations between the reluctant allies from the conquest of 
+the Dutch Republic in 1795 to Louis Bonaparte ascension to the Dutch 
+throne in 1806.
+In total a sum of f 95,976,461 was transferred to France under the 
+obligation to maintain a French contingent. The relevance of these fig-
+ures for the history of French war financing is twofold. First, they shed 
+a new light on the perceived success of French resource extraction in-
+struments. In the historiography there is ample recognition of the im-
+portance and success of the f 100 million indemnity that France im-
+posed on the Dutch at the Treaty of The Hague. 82 However, what is less 
+80		 NL-NA, 2.01.14.01, Comité te Lande, 138, Calculatie van kosten gerequireerd werdende tot betaa­
+ling en onderhoud der Nationale Armée […], 14 maart 1796.
+81		 NL-KB, Knuttel, 22895, Rapport van de personeele commissie tot onderzoek naar de directie en 
+werkzaamheden vanhet committé van administratie der Fransche troupes in soldy dezer republicq; 
+gedaan aan de Nationale Vergadering, representeerende het volk van Nederland, 25 november 1796. 
+82		 Crouzet, ‘Aspects financiers’, 52-53; Palmer, The age of democratic revolution, II: 186-187; Blanning, 
+The French revolutionary wars, 137; Schama, Patriots and liberators, 207-210; Kubben, Regeneration and 
+hegemony, 197.
+
+78
+VOL. 17, NO. 2, 2020
+TSEG
+Table 2 Cost of the French contingent per contract, 1795-1806 (in guilders f).
+Cost
+Per annum cost
+Contract 1: 16/05/1795-20/03/1797
+22,892,610
+12,378,967
+Contract 2: 21/03/1797-28/08/1801
+35,869,116
+8,071,657
+Contract 3: 29/08/1801-31/10/1803
+15,550,856
+7,148,693
+Contract 4: 01/11/1803-31/07/1806
+21,663,879
+7,875,813
+Total
+95,976,461
+Sources: NL-NA, 2.01.14.03, First Commissioner on the French forces in the Batavian Republic Service, 156-193, 
+Accounts of the Commissariat for the French troops in the payment of soldiers of the Batavian Republic […]; 
+G. Schimmelpenninck, Rutger Jan Schimmelpenninck, en eenige gebeurtenissen van zijnen tijd, 2 vols 
+(Amsterdam 1845) II: 312-313.
+Table 3 Cost of the French contingent and Dutch ordinary fiscal revenue, 1795-
+1806.
+Year
+Batavian ordinary fiscal 
+revenue (f) 
+Per annum cost of 
+French contingent (f)
+Expenditure on French 
+contingent as % of  
+ordinary fiscal revenue
+1795
+32,800,000
+7,630,869
+23.3
+1796
+?
+12,486,876
+?
+1797
+?
+9,818,535
+?
+1798
+25,600,000
+9,507,254
+37.1
+1799
+33,800,000
+8,669,958
+25.7
+1800
+33,800,000
+7,425,307
+22.0
+1801
+33,800,000
+5,727,253
+16.9
+1802
+33,800,000
+8,250,722
+24.4
+1803
+35,000,000
+6,041,886
+17.3
+1804
+35,000,000
+8,354,893
+23.9
+1805
+35,000,000
+7,351,856
+21.0
+1806
+42,700,000
+4,711,049
+11.0
+Sources: Dutch ordinary fiscal revenue: due to the opaque nature of Dutch public finance, it is difficult to 
+piece together a picture of Dutch fiscal revenue. No estimates exist for 1796 and 1797. The remaining figures 
+have been drawn from: T.J.E.M. Pfeil, ‘Tot Redding van het Vaderland’. Het primaat van de Nederlandse 
+overheidsfinanciën in de Bataafs-Franse tijd 1795-1810 (Amsterdam 1998) 122, 209, who relies on estimates 
+by Alexander Gogel. Per annum cost of the French contingent: Sources: NL-NA, 2.01.14.03, First Commissioner 
+on the French forces in service of the Batavian Republic, 156-193, Accounts of the Commissariat for the French 
+troops in the payment of soldiers of the Batavian Republic […]; G. Schimmelpenninck, Rutger Jan Schimmel-
+penninck, en eenige gebeurtenissen van zijnen tijd, 2 vols (Amsterdam 1845) II: 312-313.
+
+HAY
+MAKING WAR PAY FOR WAR
+79
+well known is that France only received f 75 million of this indemnity, 
+because half of the funds were transferred in newly-created paper cur-
+rencies that could only be liquidated at a considerable discount. Thus, 
+as this research shows, as an instrument of resource extraction the obli­
+gation to pay for the upkeep of a French contingent was more success-
+ful than the indemnity.83
+However, the figures do not quite come into their significance until 
+they are applied to Branda’s research on Napoleonic war financing. As 
+mentioned, Branda has defined the Napoleonic era as the years 1803-
+1814, to coincide with the Napoleonic Wars. However, this temporal 
+delineation overlooks resource extraction instruments that were put 
+in place before Napoleon’s rise to power but which he inherited. As this 
+article shows, the Napoleonic regime was well aware of the resource 
+instruments in place and it was quick to exploit them ruthlessly. Thus, 
+any study of Napoleonic resource extraction and war financing must 
+include these resource flows. Table 4 corrects for this faulty temporal 
+delineation of the Napoleonic era and divides the Dutch war subsidy 
+according to the date on which Napoleon seized power, 9 November 
+1799. Table 5 applies these findings to Branda’s research. Whilst this pi-
+lot study does not suffice to fully close the deficit in Napoleonic war fi-
+nancing, it does allow for a significant reconsideration of the success 
+of Napoleonic resource extraction, and by extension Napoleon’s famed 
+ability to make war pay for war.
+Table 4 Resources extracted by revolutionary and Napoleonic France under the 
+Dutch obligation to maintain a French contingent, 1795-1806.
+ 
+Sum in f
+Sum in francs
+Revolutionary Era: 16/05/1795-08/11/1799
+46,534,519
+105,633,358
+Napoleonic Era: 09/11/1799-31/07/1806
+49,441,942
+112,233,208
+Total
+95,976,461
+217,866,566
+Sources: NL-NA, 2.01.14.03, First Commissioner on the French forces in the service of the Batavian Republic 
+Service, 156-193, Accounts of the Commissariat for the French troops in the payment of soldiers of the Batavian 
+Republic […]; G. Schimmelpenninck, Rutger Jan Schimmelpenninck, en eenige gebeurtenissen van zijnen 
+tijd, 2 vols (Amsterdam 1845) II: 312-313. Exchange rate: 2.27 francs per guilder, as per estimate in F. Crouzet, 
+‘Aspects financiers de la relation franco-batave,’ in: A. Jourdan and J. Leerssen (eds.), Remous révolutionnaires. 
+République batave, armée française (Amsterdam 1996) 52.
+83		 J.B. Manger, Recherches sur les relations économiques entre la France et la Hollande pendant la Révo-
+lution Française (1785-1795) (Paris 1923) 109-142.
+
+80
+VOL. 17, NO. 2, 2020
+TSEG
+Table 5 Napoleonic War Financing (1803-1814), according to Hay.
+Branda Hypothesis
+Hay Amendments
+Source
+mln francs
+% of war exp.
+mln francs
+% of war exp.
+ 
+ 
+Domestic resource 
+mobilization
+1,859
+43.4
+1,859
+43.4
+Resource extraction 
+abroad
+1,799
+42.0
+1,911
+44.6
+Credit
+123
+2.9
+123
+2.9
+Deficit
+503
+11.7
+391
+9.1
+ 
+ 
+Total expenditure 
+on war
+4,284
+100
+4,284
+100
+Source: P. Branda, Le prix de la gloire. Napoléon et l’argent (Paris 2007) 283-295.
+Conclusion
+This article shows that the current scholarship underestimates the suc-
+cess of Napoleonic war financing because it adheres to a francocen-
+tric conceptualization of French resource extraction in the years 1803-
+1814. Through adopting the perspective of a state on the receiving end 
+of French resource extraction and expanding the temporal delineation 
+to include the early years of Napoleonic resource extraction, this ­study 
+has shown that Napoleonic war financing was more successful than 
+hith­erto believed. Through power play, bluff and bluster, the Napoleonic 
+regime exploited the resource extraction instruments that had been in-
+troduced by previous regimes. The case of the Dutch war subsidy shows 
+that, through these means, Napoleon extracted more than 112 million 
+francs from the Netherlands. These resources have not been included in 
+current assessments of the success of Napoleonic war financing.
+Whilst this pilot study does not suffice to contest recent research 
+conclusions, it is important to emphasize that but one instrument of 
+French resource extraction in the Netherlands has been explored. The 
+Napoleonic regime extracted additional resources through other means, 
+such as the continued illegal sale and exploitation of the domains of 
+alien sovereigns, ecclesiastical orders, and individuals in the Batavian 
+Republic that had formally been transferred to Batavian owner­ship per 
+
+HAY
+MAKING WAR PAY FOR WAR
+81
+Treaty of The Hague of 1795, the extraction of re­sources through the 
+manipulation of the terms of the joint use of the Dutch port of Flushing, 
+and the loans raised in the Netherlands by King Louis on behalf of his 
+brother’s war effort.84 It may well prove that resources extracted through 
+such means would go far to further close the deficit in Napoleonic war 
+financing. Moreover, the argument, that the Napoleon­ic regime contin-
+ued to extract resources in the Netherlands through the strategies and 
+instruments introduced by previous regimes, may well apply to other 
+states that followed a trajectory from occupation to integration into the 
+French Empire similar to the Netherlands. It is hoped that this study 
+opens similar lines of inquiry for other parts of Revolutionary and Na-
+poleonic Europe so that a fuller understanding of French resource ex-
+traction and war financing in the Revolutionary and Napoleon­ic age 
+may be gained, and that historians may once and for all pass verdict on 
+the persistant myth of Napoleon making war pay for war.
+About the author
+Dr Mark Edward Hay read history in Amsterdam, Leiden, Paris and Oxford be-
+fore taking up an AHRC-funded doctorate in history from King’s College Lon-
+don. His doctoral research, titled Calculated Risk. Collaboration and Resistance 
+in the Revolutionary and Napoleonic Netherlands, 1780-1806, explored Dutch 
+financial diplomacy in the Revolutionary and Napoleonic era. Subsequently, 
+Mark took up the Economic History Society Power Research Fellowship at the 
+University of London to explore the role of female financiers in the consolida-
+tion and national re-orientation of the Amsterdam capital market, 1810-1820. 
+He now teaches economic and international history at the Erasmus University 
+Rotterdam.
+E-mail: hay@eshcc.eur.nl
+84		 Domains: NL-NA, 2.01.08, Buitenlandse Zaken, 423, Verdrag tussen de Franse en de Bataafse Repu­
+bliek, gesloten 5 jan 1800 te Parijs […]; FR-AD, CPHS, 23, Convention du 15 nivose an VIII; Flushing: H.J.J. 
+Bijleveld, Verhandeling over de geschillen met Frankrijk, betrekkelijk Vlissingen, sedert 1795 tot op den af-
+stand dier vesting in 1807 (Middelburg 1865) 128-182; King Louis’ loans: Pfeil, Tot redding, 473-490.
+
+The Low Countries Journal of Social and Economic History
+jaargang 17  2020  nummer 2

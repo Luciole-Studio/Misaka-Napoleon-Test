@@ -1,0 +1,94 @@
+L1 [26c] tokens=0 hit=0 miss=0 :: ## 第二十九章　奥斯曼帝国：改革、政变、藩镇与海峡
+L3 [14c] tokens=0 hit=0 miss=0 :: ### 一、可租用，不可征用
+L5 [463c] tokens=5 hit=2 miss=3 :: 【锚】1808年3月圣彼得堡瓜分谈判死锁于达达尼尔："Mon opinion est que nous ne pouvons céder ni Constantinople ni 
+   HIT : Dardanelles@06:35 | Vandal@03:396,03:402,06:35
+   MISS: Mon opinion est que nous ne pouvons céde | ——Vandal定性为共管扣押（mise sous séquestre）而非真保 | Constantinople
+L7 [473c] tokens=8 hit=4 miss=4 :: 【锚】1812年3月拿破仑请马哈茂德二世率八万人入波兰的邀盟（随法奥同盟与保证奥斯曼完整的消息一同抵京）被实质无视："Mahmud II and his grand vizier 
+   HIT : 25000@02b:468,03:218,03:278,06:15 | Tilsit@00:137 | Aksan@06:25,06:41,06:47,06:51 | French@01:303,02a:339,02a:354,02b:663
+   MISS: （Aksan）。1807年春奥斯曼同盟期内，波斯尼亚穆斯林贝伊两度拒绝25,00 | Mahmud | Bayraktar | Danube
+L9 [27c] tokens=0 hit=0 miss=0 :: ### 二、反直觉：法国对俄威胁越大，奥斯曼的和约越好
+L11 [226c] tokens=4 hit=2 miss=2 :: 【锚】俄因对法备战，1811–12年从要求全部两公国退到Seret线再退到Prut线，并放弃两个秘密条款与同盟要求："The idea of an alliance, and th
+   HIT : Russian@03:404 | Aksan@06:25,06:41,06:47,06:51
+   MISS: Seret | Ottomans
+L13 [415c] tokens=13 hit=6 miss=7 :: 【锚】新军（Nizam-ı Cedid）1806年底实册"22,685 men and 1,590 officers enrolled in the Nizam-i Jedid a
+   HIT : 22685@06:23 | 1590@01:79,02b:603,06:23 | 145000@02b:35,02b:37,02b:43 | 10000@01:81,05:186,10:266,10:268 | 4000@01:181,01:183,02b:41,02b:69 | 14000@02b:644,03:422,06:25,06:299
+   MISS: 135000 | Nizam- | Cedid | Nizam-i | Jedid | Anatolia | Istanbul
+L15 [398c] tokens=3 hit=1 miss=2 :: **主线（中高）**：奥斯曼是每次被强制就掉头的自主机器；S4的最优形态是低成本牵制器（海峡工事＋军械＋现金换对俄牵制与海峡关闭）；大军过境与合营瓜分均被实测证据否决；1812年法
+   HIT : 14.7@03:55,10:232
+   MISS: Cedid | Juchereau
+L17 [3c] tokens=0 hit=0 miss=0 :: ---
+L19 [23c] tokens=0 hit=0 miss=0 :: ## 第三十章　埃及、穆罕默德·阿里与红海通道
+L21 [26c] tokens=0 hit=0 miss=0 :: ### 一、等距的结构：商业向英、技术向法、政治两拒
+L23 [609c] tokens=15 hit=6 miss=9 :: 【锚】Driault（Mohamed Aly et Napoléon，1925，本轮全文）："Il eût préféré s'entendre là-dessus avec la
+   HIT : 1925@01:301,03:430,06:73,06:103 | 1904@04:473,06:151,06:215 | Driault@06:73,06:79,06:87,06:103 | Mohamed@06:73 | Napoléon@00:131,01:277,01:281,01:291 | France@00:133,00:135,00:137,01:293
+   MISS: 40.000 | Six mille Français suffiraient aujourd'h | Quand | C'est | Boutin | Nerciat | Moniteur | Français | Testa
+L25 [306c] tokens=7 hit=5 miss=2 :: 【锚】1810–13年埃及粮食经马耳他comptoir卖往西班牙与葡萄牙："the wali decided to open a warehouse or comptoir in 
+   HIT : Spain@02a:350,04:439,04:441,04:443 | Portugal@04:453,05:501 | Egypt@06:81,06:99,06:113 | Europe@01:283,02b:624,02b:649,03:400 | Marsot@06:81,06:87,06:93,06:97
+   MISS: Malta | Drovetti
+L27 [246c] tokens=4 hit=3 miss=1 :: 红海舰队的天花板："eighteen ships varying in weight between 100 and 150 tons were built in the Bula
+   HIT : 100@01:69,01:79,01:81,01:125 | 150@01:160,01:303,02a:139,02a:217 | Marsot@06:81,06:87,06:93,06:97
+   MISS: Bulaq
+L29 [18c] tokens=0 hit=0 miss=0 :: ### 二、天花板由阿里的目标序决定
+L31 [825c] tokens=19 hit=11 miss=8 :: 【锚】1828–30年法国提议阿里代取的黎波里、突尼斯、阿尔及尔："he was approached by the French to undertake an expediti
+   HIT : 130000@03:141,08:419,10:269 | 2.6@02a:215,02b:235,02b:584,02b:589 | 90550@06:113 | 80000@01:79,03:218,06:453,10:266 | 60000@02b:43,10:264,10:265,10:270 | 20000@03:208,10:265,10:271,10:274 | French@01:303,02a:339,02a:354,02b:663 | Barbary@06:135 | Fahmy@06:99,06:103,06:109,06:113 | Scott@06:113 | European@02b:649,04:471,05:549,06:335
+   MISS: by the mid-1830s the number of conscript | ；Scott 1837判埃海军 | Tripoli | Tunis | Algiers | Najib | Efendi | Europeans
+L33 [277c] tokens=7 hit=6 miss=1 :: 【锚】科尼亚（1832年12月21日）："The Ottoman forces lost 92 cannons, 3,000 casualties and 10,000 priso
+   HIT : 3000@01:83,01:160,02a:213,02b:39 | 10000@01:81,05:186,10:266,10:268 | 262@01:65,02a:199,02a:368,02b:648 | 530@04:81,07:60,10:131 | Ottoman@06:15,06:19,06:25 | Aksan@06:25,06:41,06:47,06:51
+   MISS: Egyptians
+L35 [399c] tokens=9 hit=5 miss=4 :: **判定**：埃及是不可收编的乘数：法国可买到粮仓、威慑存在（英国为此付亚丁、前沿使团、波斯湾保险费）、技术代理陆权，买不到主权通道；A层行省化＝净消耗单位（1798–1801三年
+   HIT : 1645@05:335,06:137 | 15.7@05:357,06:137 | 148@01:117,02b:294,02b:660,04:81 | 37000@02b:665 | 600@01:117,01:125,01:152,01:195
+   MISS: Jabart | Ghorbal | Douin | Bowring
+L37 [3c] tokens=0 hit=0 miss=0 :: ---
+L39 [27c] tokens=0 hit=0 miss=0 :: ## 第三十一章　波斯、阿富汗与旁遮普：陆路通印的走廊
+L41 [17c] tokens=0 hit=0 miss=0 :: ### 一、加尔达纳使团的自我勘测
+L43 [517c] tokens=13 hit=5 miss=8 :: 【锚】加尔达纳（Gardane）本人拟定的对印计划（Driault 1904，本轮全文）：阿勒颇线七至八月、特拉布宗线五至七月抵印度河，赫拉特为集结点，俄可在阿斯特拉巴德设仓，"i
+   HIT : 1904@04:473,06:151,06:215 | 60000@02b:43,10:264,10:265,10:270 | 2500@02a:213,02b:468,03:121,03:131 | 300@01:83,01:152,01:160,01:176 | Driault@06:73,06:79,06:87,06:103
+   MISS: 144000 | Gardane | Bianchi | Trézel | Fabvier | Truilhier | Persans | Araxe
+L45 [252c] tokens=3 hit=1 miss=2 :: 【锚】芬肯施泰因条约：第12条法军过境须另订专约（路线、给养、运输、辅助军），第13条一切供应按本国人同价由法军自付，第14条通行权"elles ne pourront être 
+   HIT : Russie@00:137
+   MISS: Angleterre | Kharg
+L47 [18c] tokens=0 hit=0 miss=0 :: ### 二、四个明码标价的安全采购者
+L49 [559c] tokens=20 hit=14 miss=6 :: 【锚】卡扎尔中央财政的现金层极薄：沙对琼斯1809年自述省入不超省支、贡品为实物、现钱仅够养兵与宫廷、珠宝无法变现；英国价格序列：1809年预备约£100k／年＋训练1.6万步兵，
+   HIT : 100@01:69,01:79,01:81,01:125 | 1.6@01:168,01:195,02a:89,02a:165 | 200000@10:265,10:271,10:274 | 150000@03:153,10:269 | 0.9@02a:117,02a:248,02b:213,02b:215 | 14881500@06:193 | 82014@06:193 | 27752@06:193 | 376@03:27,03:178,05:415,06:193 | 370@01:160,02b:665,03:256,06:193 | Elphinstone@06:177 | Prinsep@06:191,06:193,10:496 | Making@01:299,06:99,10:465 | Revenue@02a:347,10:506
+   MISS: Shauh-Shuja had only five [guns] when he | Shauh-Shuja | Peshawer | Murray | Khalsa | Govindgarh
+L51 [310c] tokens=4 hit=1 miss=3 :: 【锚】1809年英国三条约栅栏（Aitchison卷VII，全文已核）：阿姆利则4月25日（英不干预萨特莱杰河以北／兰吉特限河左岸驻军）、喀布尔6月17日（阻法波过境、英付费义务限
+   HIT : French@01:303,02a:339,02a:354,02b:663
+   MISS: Aitchison | Sindh | Karrack
+L53 [13c] tokens=0 hit=0 miss=0 :: ### 三、后勤包络的裁定
+L55 [501c] tokens=17 hit=9 miss=8 :: 【推】单季无预置无里海航运的≥2万法军波斯段行军关闭（高置信；实测锚：贝尔德1801年数千人分队过120英里即需5,000骆驼；英印1838年孟加拉纵队限9,500战兵配30,00
+   HIT : 120@01:160,02a:133,02a:161,02a:221 | 5000@01:209,02a:159,02b:35,02b:37 | 9500@05:82,06:223 | 30000@02b:39,03:141,08:419,10:269 | 1500@02b:665,03:121,03:125,03:153 | 3000@01:83,01:160,02a:213,02b:39 | 1.5@01:53,01:97,02a:293,02a:296 | 500@01:130,01:132,01:134,01:136 | 1000@01:79,01:81,01:125,01:144
+   MISS: Kharg | Trézel | Truilhier | Amini | Atkin | Ingram | Kelly | Iranica
+L57 [3c] tokens=0 hit=0 miss=0 :: ---
+L59 [28c] tokens=0 hit=0 miss=0 :: ## 第三十二章　东印度公司：财政、军队、贸易与承压能力
+L61 [16c] tokens=0 hit=0 miss=0 :: ### 一、"贸易养帝国"不成立
+L63 [920c] tokens=24 hit=12 miss=12 :: 【锚】公司请愿书（本轮亲读）："all such sums of money, together with the said sum of 6,289,405l., which h
+   HIT : 6289405@06:366 | 0.32@10:296 | 1.1@01:109,01:205,02a:92,02a:185 | 2.7@01:41,02a:86,02a:185,02a:186 | 13273044@06:350,06:358 | 13214114@06:350,06:358 | 1534758@06:354,06:358 | 1124403@06:354,06:358 | 2651939@06:360 | 13104924@06:370 | India@02a:368,05:299,06:253,06:255 | Indian@05:299
+   MISS: 51182137 | 7780000 | 7000000 | 7787953 | 28.6 | 38614174 | 51182127 | 22567953 | 28614174 | Native | Powers | Cartwright
+L65 [10c] tokens=0 hit=0 miss=0 :: ### 二、三问三答
+L67 [585c] tokens=3 hit=3 miss=0 :: 【锚】董事会1812年立场："from the avowed design of France to invade our Indian possessions with grea
+   HIT : France@00:133,00:135,00:137,01:293 | Indian@05:299 | European@02b:649,04:471,05:549,06:335
+L69 [695c] tokens=15 hit=10 miss=5 :: 【锚】茶–中国贸易：英国国库从中获得的关税与消费税1792-3至1808-9共£32,290,599（年均约£1.9m）；Milburn宽口径"forming a total of
+   HIT : 32290599@06:416 | 1.9@01:166,01:168,01:209,02a:96 | 3707636@06:418 | 725895@06:448 | 801467@06:451 | Milburn@06:408,06:416,06:435,06:455 | Bombay@06:408 | China@06:408 | Canton@08:445,08:499,10:286,10:469 | England@02a:338,02a:339,02a:341,02a:359
+   MISS: 30739208 | 63029807 | 2514501805 | 3294570 | Sicca
+L71 [591c] tokens=10 hit=7 miss=3 :: 【锚】1812年4月8日帕斯利、斯旺西、伯明翰请愿："the Petitioners feel, at this time, when they are nearly preclu
+   HIT : 1967359@06:398 | 2506377@06:398 | 531265@06:398 | Europe@01:283,02b:624,02b:649,03:400 | Indian@05:299 | House@08:473 | Commons@00:135
+   MISS: Petitioners | Vernon | Smith
+L73 [13c] tokens=0 hit=0 miss=0 :: ### 三、双侧脆弱性定理
+L75 [1131c] tokens=20 hit=9 miss=11 :: 【锚】1796→1808公司自有欧籍步兵由六团降至三团，土著步兵26团增至59团、土著骑兵8团增至16团："the European infantry, before confif
+   HIT : 850@01:160,01:193,01:203,02b:649 | 100@01:69,01:79,01:81,01:125 | 20000@03:208,10:265,10:271,10:274 | 2.6@02a:215,02b:235,02b:584,02b:589 | 1906@06:382,07:278 | European@02b:649,04:471,05:549,06:335 | Royal@02a:45,02b:618,02b:619,02b:621 | Wilson@06:303,06:307 | French@01:303,02a:339,02a:354,02b:663
+   MISS: 2.46 | 2294426 | （Wilson）；1806年韦洛尔兵变： | Bengal | About | Return | XXIII | Bowen | Peers | Philips | Webster
+L77 [3c] tokens=0 hit=0 miss=0 :: ---
+L79 [36c] tokens=0 hit=0 miss=0 :: ## 第三十三章　印度诸邦与法属印度洋：马拉塔、锡克、迈索尔遗产与德卡恩
+L81 [22c] tokens=0 hit=0 miss=0 :: ### 一、联络确存，失败在时序、中介与截获
+L83 [858c] tokens=20 hit=9 miss=11 :: 【锚】Sen（French in India，本轮全文）："he also received a Brahmin agent from Sindhia, who came to s
+   HIT : French@01:303,02a:339,02a:354,02b:663 | India@02a:368,05:299,06:253,06:255 | Bombay@06:408 | Marathas@06:289 | Napoleon@00:127,00:129,01:279,01:283 | Decaen@06:255,06:265 | Gordon@06:289 | Maratha@06:289,06:291 | European@02b:649,04:471,05:549,06:335
+   MISS: 。Gordon： | Brahmin | Sindhia | Malabar | Coast | Binot | Courson | Durhène | Perron | Lefebvre | Shinde's
+L85 [18c] tokens=0 hit=0 miss=0 :: ### 二、四个计划窗口全被欧洲关闭
+L87 [957c] tokens=33 hit=22 miss=11 :: 【锚】1803年德卡恩自请六战列舰＋3,000步兵＋500骑；1805年1月16日致德克雷信（Corr. X 8279）三分舰队20,000法军＋3,000西军；1808年5月13
+   HIT : 3000@01:83,01:160,02a:213,02b:39 | 500@01:130,01:132,01:134,01:136 | 20000@03:208,10:265,10:271,10:274 | 4000@01:181,01:183,02b:41,02b:69 | 13000@03:141,05:66,08:419,10:269 | 19600@06:261 | 10600@06:261 | 1200@02a:133,02a:161,02a:221,03:123 | 6848@06:275 | 11306@06:275 | 16000@02b:665,03:318,03:320,06:275 | 12000@02a:221,05:307,06:163,06:325 | 900@01:79,01:164,01:181,01:183 | 300@01:83,01:152,01:160,01:176 | 800@00:135,01:79,01:81,01:83 | Napoleon@00:127,00:129,01:279,01:283 | Decaen@06:255,06:265 | European@02b:649,04:471,05:549,06:335 | Government@02a:335,02b:646,09:364,10:506 | British@02a:339,02b:620,02b:635,02b:636 | Empire@01:281,01:303,02b:628,03:418 | India@02a:368,05:299,06:253,06:255
+   MISS: 8279 | 13877 | 14078 | ——基地社会结构对动员的硬约束。缅甸轴线：1809年爪哇Daendels遣de  | Nantes | Lorient | Brest | August | Daendels | Houssaye | Burmese
+L89 [111c] tokens=3 hit=0 miss=3 :: 【锚】路径C（军官–军械输出）已被历史验证：Allard／Ventura 1822年经波斯入拉合尔建Fauj-i-Khas（1825年5–6千人，法语口令、三色旗配鹰徽）；英国反制
+   MISS: Allard | Ventura | Fauj-i-Khas
+L91 [360c] tokens=6 hit=4 miss=2 :: **四闸门模型**：出港×中继×季风窗×岁入基地，1803–15从未同开。分层带：骚扰层已达上限自供养；千人级军官–军械层1803–08可行；万人级需S1／S2且四闸门同开；十万级
+   HIT : 2.4@02a:87,02a:101,02a:186,02b:448 | 145@01:202,02a:87,02b:35,02b:37 | Prentout@06:265,06:279 | Manche@04:451,05:501,05:509,05:515
+   MISS: Caroline | Vénus

@@ -1,0 +1,92 @@
+10 P. E, TEFLOCK AND A. BELKIN
+
+mere observations of covariation and to stipulate the causal mechanisms un-
+derlying the democratic peace and to derive a host of testable predictions
+from these hypothesized mechanisms. For instance, if heightened accoun-
+tability constraints on leaders are responsible for the democratic peace, what
+independent evidence do we have of the workings of this hypothesized
+cause? Are democratic leaders who advocate war against fellow democracies
+more likely to fail than their less bellicose colleagues? Do we see more
+references to accountability constraints in the private deliberations of demo-
+cratic than nondemocratic leaders? The more elaborate the network of cor-
+roborative correlational evidence, including time-lagged and partial correla-
+tions, the greater our justifiable confidence in the nomothetic counterfactual
+
+3. Idiographic-Nomothetic Synthesis,
+
+‘The tension between idiographic disciplines (history and area studies) and
+nomothetic disciplines (general social science) is well known and need not be
+belabored. A not uncommon way of proceeding is to acknowledge that the
+idiographic and nomothetic represent complementary “ways of knowing” that
+may in the fullness of time be conceptually integrated, but do not hold your
+breath. It is worth noting, however, that such conceptual integration is the norm in
+natural history, where there is much less controversy than in the social sciences
+over what counts as a well-established statistical or theoretical generalization.
+
+Our favorite example of idiographic-nomothetic symbiosis is the manner
+in which biological and physical scientists have gone about deriving and
+testing rival hypotheses concerning the extinction of dinosaurs. Perhaps the
+‘most influential hypothesis is the doomsday-asteroid conjecture which, in
+counterfactual form, runs as follows: “If a six- to twelve-mile-wide asteroid
+had struck the Earth at a velocity of approximately 44,000 miles per hour
+sixty-five million years ago, then a host of predictions would follow (includ-
+ing the size of the crater, the effects on the atmosphere and climate, the
+distribution of various trace elements in particular geological strata, antipo-
+dal volcanism, . . . ).” This line of work captures the best in both the id-
+iographic and nomothetic traditions. Investigators focus on a well-defined
+“conceivable” cause (meteors and asteroids hit our planet frequently over
+long stretches of time) but rely heavily upon deductive theory, empirical
+observations, and computer simulations to assess the soundness of the con-
+necting principles that permit us to deduce empirical consequences such as
+climate change of sufficient magnitude to wipe out the dinosaurs. Investiga-
+tors also try to tease apart testable predictions from rival hypotheses such as
+“endogenous volcanism alone is sufficient to account not only for this spe-
+cific mass extinction but for nine of the ten other mass extinctions in the
+
+COUNTERFACTUAL THOUGHT EXPERIMENTS. u
+
+fossil record over two billion years.” As a result of this vigorous research
+program, many scientists argue that a once highly speculative counterfactual
+conjecture is now better viewed as a quite-probable fact of natural history—
+yet another illustration of how blurry the boundary between factual and
+counterfactual can be (Chapter 6, Herrmann and Fisherkeller).
+
+There are no idiographic-nomothetic syntheses of comparable scope and
+sweep in world politics. But there are some elegant demonstrations of how
+‘one can weave together idiographic and nomothetic objectives—in particu-
+lar, by the game theorists in this volume. Bueno de Mesquita and Weingast
+both use game-theoretic models to enhance our understanding of particular
+historical episodes (Philip Augustus versus the Pope; medieval merchants
+versus towns; federal bureaucrats versus Congress), to identify intriguing
+cross-case regularities, and to make predictions about how behavior will
+change as a lawful function of alterations in the probabilities or payoffs
+attached to courses of action. In so doing, the game theorists remind us that
+social scientists are not the only creatures roaming this planet capable of
+thinking counterfactually. Policy makers do it all the time, constructing
+‘mental representations of how others would respond to one or another move
+and making decisions on the basis of those mental models. Policy makers
+can identify equilibrium solutions (solutions in which no one stands to gain
+from unilateral defection) only by computing off-the-path behavioral
+(OTPB) expectations concerning what would happen if they or the other side
+acted differently in response to a given move. Assuming both sides act ratio-
+nally and stay on the equilibrium path, these OTPB expectations eventually
+become counterfactual assertions about what would have happened under
+this or that contingency (Chapter 9, Bueno de Mesquita; Chapter 10,
+Weingast). The mental representations of these now-counterfactual worlds
+were once, however, causally consequential; they constrained rational deci-
+sion makers to go down particular branches of the game-tree.
+
+Game theorists integrate the idiographic and nomothetic by applying
+“strong theory”—expected utility maximization and criteria for identifying
+equilibrium strategies—to complex historical situations that can then be un-
+derstood by modeling the options available to each side and the expected
+payoffs associated with all logically possible combinations of moves. In
+judging what else could plausibly have happened, game theorists use
+nomothetic laws to answer the idiographic question: How much history do I
+have to rewrite to “undo” a particular policy? If the counterfactual simply
+shifts us from one equilibrium path to another (as is possible in games with
+multiple equilibria), the counterfactual does no violence to the rational-actor
+axioms of the underlying theory and may be quite acceptable. But if the
+counterfactual requires us to imagine a world in which, for stochastic rea~
+sons (“trembling hand”) or psychological reasons (“bounded rationality,”
+

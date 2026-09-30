@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>整书统稿与现行缺陷账</title>
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      white-space: pre-wrap;
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #1a1a1a;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <style>
+  :root{--paper:#fffdf8;--ink:#242a2d;--muted:#65716f;--accent:#285c59;--line:#d9dfd8;--nav:280px}*{box-sizing:border-box}html{scroll-behavior:auto;scroll-padding-top:35px}body{margin:0;max-width:none;width:auto;background:var(--paper);color:var(--ink);font-family:"Songti SC","Noto Serif CJK SC","Source Han Serif SC",Georgia,serif;font-size:18px;line-height:1.85;overflow-wrap:break-word;padding:58px max(40px,calc((100vw - var(--nav) - 940px)/2)) 100px calc(var(--nav) + max(40px,calc((100vw - var(--nav) - 940px)/2)))}body>header,body>section,body>h1{max-width:900px;margin-left:auto;margin-right:auto}header#title-block-header{text-align:left;padding:50px 0 60px;border-top:5px solid var(--accent);border-bottom:1px solid var(--line);margin-bottom:55px}h1.title{font-size:54px;letter-spacing:.03em;border:0;padding:0;margin:.4em 0;color:#163e3d;line-height:1.35}.subtitle{font-size:24px;letter-spacing:.05em;margin:.6em 0}.date{font:14px/1.8 system-ui,sans-serif;letter-spacing:.15em;color:var(--muted);margin-top:26px}h1{font-size:34px;line-height:1.5;margin:90px 0 36px;border-top:3px solid var(--accent);padding-top:30px;letter-spacing:.02em}h2{font-size:26px;line-height:1.6;margin:54px 0 22px;color:#174c49}h3{font-size:21px;line-height:1.6;margin:36px 0 15px}p{margin:0 0 1.25em}strong{font-weight:700;color:#173e3c}a{color:#286560;text-decoration:none;text-underline-offset:.2em}a:hover{text-decoration:underline}blockquote{margin:1.6em 0;padding:.3em 1.2em;border-left:3px solid #8aa39b;color:#384c47;background:#f1f4ed}hr{border:0;border-top:1px solid var(--line);margin:3em 0}.table-scroll{overflow-x:auto;max-width:100%;margin:24px 0 30px;border-top:2px solid var(--accent);border-bottom:1px solid var(--line)}table{border-collapse:collapse;width:100%;font-size:15px;line-height:1.65;font-family:"PingFang SC",system-ui,sans-serif;font-variant-numeric:tabular-nums;margin:0}th{background:#edf2eb;color:#1d4945;padding:11px 12px;text-align:left;font-weight:600;border-bottom:1px solid #b7c9bf}td{padding:10px 12px;border-bottom:1px solid #e3e7e0;vertical-align:top;min-width:68px}td:first-child{min-width:100px}tr:nth-child(even){background:#f7f8f3}table caption{font-weight:600;padding:10px}.footnote-ref{font:12px/1 system-ui,sans-serif;white-space:nowrap;padding:0 2px}.footnotes{font-size:15px;line-height:1.85;border-top:0;margin-top:28px}.footnotes li{margin:0 0 1.5em;padding-left:5px}.footnotes p{margin:0 0 .5em}.footnote-back{padding-left:.5em}#TOC{position:fixed;top:0;left:0;bottom:0;width:var(--nav);background:#f0f2ec;border-right:1px solid var(--line);padding:26px 20px 45px;overflow-y:auto;font:14px/1.6 "PingFang SC",system-ui,sans-serif;z-index:10}#TOC h2{font:600 17px/1.5 system-ui,sans-serif;letter-spacing:.12em;margin:0 0 22px;color:var(--accent)}#TOC ul{list-style:none;margin:0;padding:0}#TOC>ul>li{margin-bottom:16px}#TOC>ul>li>a{font-weight:650;color:#24433e}#TOC ul ul{padding:7px 0 0 12px;border-left:1px solid #c9d4ca;margin-top:5px}#TOC ul ul li{margin-bottom:7px}#TOC li.current>a{color:#0b7567;background:#dfeae1}#TOC .toc-tools{font-size:12px;color:#66766d;margin:10px 0 22px}#TOC details{margin:0 0 16px}#TOC summary{cursor:pointer;font-weight:650;color:#24433e}#progress{position:fixed;top:0;left:var(--nav);height:3px;background:#3b8477;z-index:100;width:0}#top-link{position:fixed;right:22px;bottom:22px;background:#e7eee5;border:1px solid #c4d4c8;border-radius:4px;padding:7px 13px;font:13px/1.5 system-ui,sans-serif;z-index:9}.print-only{display:none}code{font-size:.85em;background:#eef1eb;padding:.1em .3em}li{margin-bottom:.5em}:target{scroll-margin-top:35px}.footnotes li:target{background:#f0f1d9;padding:12px;border-radius:4px}::selection{background:#d3e4d6}
+  @media(max-width:1050px){:root{--nav:240px}body{font-size:17px;padding-right:28px;padding-left:calc(var(--nav) + 28px)}h1.title{font-size:43px}h1{font-size:29px}h2{font-size:24px}}
+  @media(max-width:760px){body{padding:25px 22px 65px;font-size:17px}#TOC{position:relative;width:auto;max-height:470px;border:1px solid var(--line);margin:0 0 35px;padding:20px}header#title-block-header{padding:25px 0 32px;margin-bottom:30px}h1.title{font-size:38px}.subtitle{font-size:20px}h1{margin-top:60px;font-size:27px}h2{font-size:23px}h3{font-size:20px}#progress{left:0}#top-link{right:10px;bottom:10px}td,th{padding:8px 10px}table{font-size:14px}.table-scroll table.wide-table{min-width:680px;display:table}}
+  @media print{body{padding:0;background:white;color:#000;font-size:10.5pt;line-height:1.6}#TOC{position:static;width:auto;height:auto;overflow:visible;background:white;border:0;padding:0;page-break-after:always;font-size:10pt}#TOC details{display:block}#TOC ul ul{display:block!important}#progress,#top-link,.toc-tools{display:none}h1{page-break-before:always;border-top:0;font-size:25pt}h2{font-size:16pt}h3{font-size:13pt}h1,h2,h3{break-after:avoid}table{font-size:7.5pt;table-layout:fixed;width:100%}th,td{min-width:0!important;padding:6px 5px;overflow-wrap:anywhere}td:first-child{min-width:0!important}.table-scroll table.wide-table{min-width:0!important;max-width:100%}.table-scroll{overflow:visible;break-inside:auto}tr{break-inside:avoid}thead{display:table-header-group}a{color:inherit}header#title-block-header{padding-top:100px;page-break-after:always;border-top:0}.footnotes{font-size:9pt}p{orphans:3;widows:3}@page{size:A4;margin:20mm 18mm}}
+  </style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">整书统稿与现行缺陷账</h1>
+</header>
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a href="#整书统稿与现行缺陷账"
+id="toc-整书统稿与现行缺陷账">整书统稿与现行缺陷账</a>
+<ul>
+<li><a href="#一这次不是又加一篇总结"
+id="toc-一这次不是又加一篇总结">一、这次不是又加一篇总结</a></li>
+<li><a href="#二关键改判" id="toc-二关键改判">二、关键改判</a></li>
+<li><a href="#三逐类状态" id="toc-三逐类状态">三、逐类状态</a></li>
+<li><a href="#四仍然缺什么"
+id="toc-四仍然缺什么">四、仍然缺什么</a></li>
+<li><a href="#五可复查的交付"
+id="toc-五可复查的交付">五、可复查的交付</a></li>
+</ul></li>
+</ul>
+</nav>
+<h1 id="整书统稿与现行缺陷账">整书统稿与现行缺陷账</h1>
+<p>日期：2026-09-24。当前版本：十二章联动统稿。</p>
+<p><strong>正文已实际修改，但全书尚未通过“材料穷尽、引注全部合格、逐句编辑与视觉验收”。</strong>
+本报告不再用新增字数、表格数量或运行成功替代这些检查。</p>
+<h2 id="一这次不是又加一篇总结">一、这次不是又加一篇总结</h2>
+<p>12个章节文件全部有实质变更：统一1807年条件主线、直辖与盟国分账、海上停战和分期预算；将较高海军投入模型降为对照；把省界、铁路、援助、共同基金与继承放进同一组约束。地方材料仍留在各章，末章用同一笔财政如何传到美洲、东方及英国的冲突串起它们。</p>
+<p>原来63张表保留其历史数据；13个地区/政策结论行被替换或扩写，属于对模糊终局的改判，不是删除统计。新增6表后共69表。原220个注释标识保留，新增18个，现238注、454处调用。原报告23个文件指纹不变。详细差异与被替换原段独立保留。</p>
+<h2 id="二关键改判">二、关键改判</h2>
+<ol type="1">
+<li>650／750／850百万法郎是收入门槛与费用配置，不是已复原的同一疆域实收。低收入下优先减工程、扩军和非条约援助；兵额还要过任务检验。</li>
+<li>1830年法国年度可动员主力舰吨位的半数至三分之二，是规划目标，不是新校准预测。九成保留为高投入、较有利基地与英国反应的另一个分支。</li>
+<li>不签总和约仍可先停战，但持续海战不可同时享有开放航运和完整训练收益；安特卫普上限明确为作者谈判方案。</li>
+<li>西班牙、意大利、美洲各区、北欧、希腊、埃及、旁遮普、印度洋与中国均给出1848年首选、次选或较弱条件分支，不让“取决于因素”充当全部答案。</li>
+<li>共同基金从“退出不起”改为有缴款、债务服务、担保、表决和退出规则的有限合作；更深共同主权仍须重新取得政治同意。</li>
+<li>布伊斯8300／7600万盾加总不等于新现金；Culerrier名由Michel改Pascal；科兰古邮程与1812年断联信的来源分开。</li>
+</ol>
+<h2 id="三逐类状态">三、逐类状态</h2>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 22%" />
+<col style="width: 22%" />
+<col style="width: 22%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr>
+<th>类别</th>
+<th style="text-align: right;">已完成本项修复</th>
+<th style="text-align: right;">部分修复</th>
+<th style="text-align: right;">尚未修复</th>
+<th>含义</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>39项有效结论/论证缺口</td>
+<td style="text-align: right;">33</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">0</td>
+<td>已给选择和论证不等于联合可行性证明；另M011撤回</td>
+</tr>
+<tr>
+<td>100处引注缺口</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">87</td>
+<td>是引注实例，不是100部独立文献</td>
+</tr>
+<tr>
+<td>10组已识别材料遗漏</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">0</td>
+<td>只指已发现这10组，不是全部材料覆盖</td>
+</tr>
+<tr>
+<td>5项结构/覆盖问题</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">2</td>
+<td>全量证据映射、统一作品书目仍未关闭</td>
+</tr>
+<tr>
+<td>1项术语问题</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+<td>liste civile已改为皇室岁费</td>
+</tr>
+</tbody>
+</table>
+<p>上述类别相互交叉，不相加成独立缺陷总数。新增SRC003—SRC005也与C/L项交叉。</p>
+<h2 id="四仍然缺什么">四、仍然缺什么</h2>
+<p><strong>承重核算</strong>：M001、M005、M006、M007、M008、M010仍部分。需要同年同疆域净税、实际兵力任务、盟国履约和低预算舰队的联合检验；新增规划账及5项旧模型复现没有代替它。</p>
+<p><strong>来源质量</strong>：90处引注仍部分或未修，详列下文。优先处理精确数值和直接引语，尤其英海军多年员额、美洲财政/军额、东方军制和公司文书。新引用也须继续逐源核读。</p>
+<p><strong>全量覆盖</strong>：原材料总账登记7246个路径、2195个独立SHA-256内容。登记状态不是已读状态；本轮明确补入通信、公投、贷款、地方官员与计量研究，但仍没有证明每份有效证据全部入文。</p>
+<p><strong>出版编辑</strong>：全书逐句通读、跨章重复性、统一作品/版本书目及逐屏视觉检查仍待完成。本轮实际范围为章级结构、关键接口、新增段和替换段；不改称全本逐句精校。</p>
+<h2 id="五可复查的交付">五、可复查的交付</h2>
+<ul>
+<li><a href="../../胜利之后的欧洲_阅读版.html">阅读版</a></li>
+<li><a href="../../胜利之后的欧洲_完整修订稿.md">完整修订稿</a></li>
+<li><a
+href="../../胜利之后的欧洲_模型与复算附件.zip">模型与复算附件</a></li>
+<li><a
+href="../20260924_逐项补订/当前缺陷工作账.csv">现行缺陷CSV</a></li>
+<li><a
+href="../20260924_整书统稿/本轮材料到正文.csv">本轮材料到正文映射</a></li>
+<li><a href="../20260924_整书统稿/逐章差异.patch">逐章差异</a></li>
+<li><a href="../20260924_整书统稿/替换段落核对.md">替换段落核对</a></li>
+</ul>
+<p>P2、Q2、P4及P6两项脚本共5项，在隔离副本运行成功，既有CSV未变。F3上游引擎未重跑；政治概率仅为历史模型设值。此检查不检验全部来源真实性。</p>
+<p><a
+href="../20260924_整书统稿/整书优化与未结缺陷.html">全部现行缺陷逐项记录</a></p>
+</body>
+</html>

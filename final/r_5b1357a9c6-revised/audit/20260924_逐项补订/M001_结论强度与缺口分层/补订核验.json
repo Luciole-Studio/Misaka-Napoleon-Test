@@ -1,0 +1,42 @@
+{
+  "changed_chapters": [
+    "00_导论.md",
+    "09_另一条十九世纪.md",
+    "10_资料附编.md"
+  ],
+  "other_chapters_unchanged": 9,
+  "original_report_files_unchanged": 23,
+  "old_note_definitions_preserved": 209,
+  "new_note": "终6",
+  "current_note_definitions": 210,
+  "old_note_calls_preserved": 386,
+  "current_note_calls": 387,
+  "tables_preserved": 62,
+  "tables_unchanged": 61,
+  "table_expanded": 1,
+  "original_gap_topics_preserved": 10,
+  "budget_checks": [
+    "750−300−25−300−195−20=−90",
+    "800+40−300−25−300−195−20=0"
+  ],
+  "missing_internal_anchors": [],
+  "duplicate_html_ids": [],
+  "visual_verified": false,
+  "limits": "完成源文件、算术、表列、注释与HTML内部链接静态核验；未作本轮逐屏视觉检查，未声称完成所有来源核验或联合可行性模型。",
+  "current_hashes": {
+    "chapters/02a_英国海权与和平_国家财政与社会.md": "80bc04d82c9dfbe9ec5fa020f8c0b04454460d51884c7a7ac6b4bbfe51c147e8",
+    "chapters/00_导论.md": "f0d633f365dcd6dcf3d59008f750bbe762601f24f948fe72f5c8258ca0b22d37",
+    "chapters/08_新秩序的经济与社会.md": "89d194c13a915aba8ab301f34f2f2dbb257a1f0ed6300b7a624ade7f7ed02e20",
+    "chapters/07_行省化的边界.md": "1ec94aac316f992bb05c65b8456e05d5aae2798f980883fa8af1b71ea950cdde",
+    "chapters/09_另一条十九世纪.md": "9dd408e6f2027d446ed683a86b78bf482fbdc4f16276e6f1133a55fa91a4879b",
+    "chapters/06_东方与印度.md": "17df5b3c2c47bafb65d7fc145750e651c839095970edbc4d5108433ed04b7724",
+    "chapters/10_资料附编.md": "bc9e3c1def662f09d3566b62d76af351e6d9f604a3ac9171c95405c8db73ddc5",
+    "chapters/01_法国的能力与代价.md": "f13e31367d07a93ca431040b048bd43e14f5f5f68cc9d90686b793b23598bc0e",
+    "chapters/03_大陆诸国.md": "0ce3d7d61ec2f1c85e3c5489e3899948be597749ab2b8eef6ff8b1562f820f35",
+    "chapters/02b_英国海权与和平_舰队海峡与帝国.md": "a83caf10c68cdb4ec9989f39879ebc5b717a1ea38f276c4905a076364e5ef1bf",
+    "chapters/04_西班牙与意大利.md": "1730d1a4443d97096b59a58eaa40cf15d171dbfb5a8de6d9dda9b4bf6ad5749c",
+    "chapters/05_大西洋与美洲.md": "083c053f3cde59fd0037097faee11d00917f83fcd5a9fc3a85d014908637f198",
+    "胜利之后的欧洲_完整修订稿.md": "00bbe340804b99ed6d079ccbb40a3e823a75bb9e2e0c0b3eea864ae5a5f7319d",
+    "胜利之后的欧洲_阅读版.html": "bee5e06db836c2126146463227e95a209e2943e0b45f85f67bc6ec6d89ec4256"
+  }
+}

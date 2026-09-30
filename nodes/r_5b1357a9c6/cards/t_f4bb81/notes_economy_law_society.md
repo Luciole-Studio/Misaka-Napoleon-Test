@@ -1,0 +1,49 @@
+# 法律、经济、生态与1830–48机制
+
+## AB｜ABGB1811，Heino Speer2013电子转录
+https://repertorium.at/qu/1811_oestabgb.html；downloads/pages/7378b53aa48e.md。读颁行敕令、§§15–19；全典已下载未通读。底本为Augsburg馆藏标1811的未定年原样重印，不冒称1811首印。
+- 敕令1811-06-01，德语世袭领1812-01-01生效；特定军法、商业法、政治和财政法规继续。特别写货币合同优先适用1811-02-20财政敕令。民法典不是废等级行政/贵族权的全能改革。
+- §16："Jeder Mensch hat angeborne ... Rechte"；禁Sclaverey/Leibeigenschaft。仅据此不得说封建租赋Robot已取消。
+- 匈牙利不在当次通行辖区；不能把German hereditary lands译作只限德语民族居地，它含波希米亚等。
+
+## K15｜Klemens Kaps, Habsburg Monarchy, eighteenth century–1918
+Revue de l’OFCE140(2015), pp.253–264；downloads/A_Kaps2015_trade_statistics.pdf，doc1d0307c721e1。实际读pp.253–255、258–260（PDF1–3、6–8）。
+- 1775波希米亚-奥地利关税同盟；统计从1790、尤其1792比较连贯。1825含Tyrol、Milan/Venice是统计关税范围时间不是政治并入，绝不能误写领土回归。
+- 内向保护与外贸双方不同利益（纺织制造者vs商人）影响统计生产。
+- 货值常行政定价，1804跃升与1811骤降有价格因素；1820起伙伴常只是跨境路线非终极贸易国；不把官方总额直当实物流量。
+- pp.259–260：CM一盾=60克鲁策；海关毛重sporco；Otruba1790–1839编21品类与省份。完整1831前商品账户多待FHKA/地区档案。此为可查数据存在证明，不自称亲查原档。
+
+## G11｜Simone Gingrich, Foreign trade and early industrialisation in the Habsburg Monarchy and the United Kingdom — Two extremes in comparison
+Ecological Economics70(7),2011,1280–1288；doi10.1016/j.ecolecon.2010.08.013；https://pmc.ncbi.nlm.nih.gov/articles/PMC3092985/；downloads/pages/7b11d8a7dad4.md。实际读§§2–3、Table1–2、结尾脚注，结果各曲线未抄数。
+- 1830煤一次能源<1%，生物质占比表四舍五入100%；不是零工业、零煤。
+- 表1人口28.511m、面积667251 km²；本文统计历史边界与反事实剩余奥国不相同，不作为1810/1848同疆人口；1840农业71%只Cisleithania，不许说1830全帝国71%。
+- 西部波希米亚/摩拉维亚/西里西亚纺织，东部农业互补；维也纳/布达/布拉格距海港远，多瑙下游非西欧中心；地形限制运河。
+- 1830后实物账户缺1840、1849/50、1858/59经插值；1851前木材贸易有补估。贸易与储量/产出不能互代；不把煤储量直接当蒸汽能力。
+
+## HU11｜Reiszig Ede, Somogy县史, Borovszky县市系列，1811. évi országgyűlés. Devalváczió节
+https://www.arcanum.com/hu/online-kiadvanyok/Borovszky-borovszky-samu-magyarorszag-varmegyei-es-varosai-1/somogy-varmegye-153D7/somogy-varmegye-tortenete-irta-reiszig-ede-dr-15DBA/ii-a-mohacsi-vesztol-a-kiegyezesig-16088/2-a-xviii-szazad-es-a-franczia-haboruk-kora-1624A/1811-evi-orszaggyules-devalvaczio-16380/；downloads/pages/9a8e1d55620d.md；全文读。地方旧史，不代表所有郡立场。
+- 指令2–3反对纸券削至1/5并称"törvénytelennek"（非法）；不愿担未获国家同意发行纸币的准备金义务，认为王室握有矿山、盐矿、王室庄园。转Melhárd p.386，非本卡亲阅1811郡原指令。
+- 给君主的支持与对财政专断的抵制可共存；财政/国体谈判并非一条亲法/反法轴。
+
+## HR16｜Ferenc Hörcher, Enlightened Reform or National Reform? The Continuity Debate ... Two Széchenyis (1790–1848)
+Hungarian Historical Review5(1)2016；https://hunghist.org/84-abstract/351-2016-1-horcher；downloads/pages/17447f15be10.md；读导言、Preliminary Remarks、Latest Phase、Nineteenth-Century Views开头L26–69及注53。
+- 作者明示不新增原始史料；讨论连续/断裂两说，不能当独立档案证据。
+- 1812议会后13年不召开；政治能量转语言、文化协会/图书馆/学院；不是民族运动死了。
+- Hitel1830、Széchenyi与Kossuth1841争论动员应继续还是缓和。英式机器/宪制/育马知识网络可能在封锁中受阻（注53引1815日记，本卡转引）。
+
+## RAIL｜Wien Geschichte Wiki, Nordbahn
+https://www.geschichtewiki.wien.gv.at/Kaiser-Ferdinands-Nordbahn；downloads/pages/f56f440eec96.md；读1835–48段。
+- 1836特许50年；Riepl赴英考察、Rothschild煤矿权益；1837试车，1838定期运营、1839到Brünn。开业不同日期对应试车/礼仪/正式营运，不选其一当互相否定。
+- 该页把Salomon写Anselm Salomon，避引用全名；仅称Rothschild。1847/1848Oderberg通达在不同来源有差，不采用精确日。
+
+## TY｜Stephan Gruber, Resistance in the holy land of Tyrol
+https://www.habsburger.net/en/chapter/resistance-holy-land-tyrol-tyrolean-taliban；downloads/pages/9a69563ae505.md；实读全文。政治类比Taliban失之粗糙，本卡不采。事实采用：特权/宗教传统威胁与奥国支持同动，1809战败弗朗茨无法兑现永不割Tyrol承诺；1810-02-20Hofer处决。反叛机制为社区制度而非自动德意志民族主义。
+
+## E16｜Christopher Jütte, Die Hungersnot1816/17, DHM LeMO
+https://www.dhm.de/lemo/kapitel/vormaerz-und-revolution/alltagsleben/die-hungersnot-1816/17；downloads/pages/2c86b127592b.md；全文读。资料地区主要德意志，作为相邻地区天气与粮禁的机制，不直接照搬奥地利减产率/死亡率。战争削储粮与畜力使危机恶化；各地粮禁反而截断省际贸易；减战可缓冲却不消天气。
+
+## BR09｜Brockhaus1809增补Oestreich（Zeno转录）
+http://www.zeno.org/Brockhaus-1809/B/Oestreich；downloads/pages/664a7ecc0984.md；全文读。页163。
+- 1808年底人口同时代估22–23m；不是现代普查定数，与现代复原并列不硬拼。
+- 1808-05-01预备营52，每团1300；06-09 Landwehr命令；宣称20–30万"streitbare Männer"是动员潜额宣传，不充抵训练合格实数。
+- 弗朗茨1804帝号以与法国、俄国平等等级为理由，是王朝地位与存续机制；1805失地数字旧估有误差，不优先于和约。

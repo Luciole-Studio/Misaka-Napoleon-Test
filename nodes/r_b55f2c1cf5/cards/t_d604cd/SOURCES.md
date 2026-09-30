@@ -1,0 +1,399 @@
+# Sources — nodes/r_b55f2c1cf5/cards/t_d604cd — [t_d604cd] 波兰、波罗的海与东部边疆架构：华沙公国实绩、复国方案与对俄缓冲体系
+
+Written by misaka when the products here were settled and rebuilt from scratch each time, so edit nothing in this file or under the sources folder. Each file there is a hard link to where it already lives in the project (a copy only where a hard link was not possible); the originals never move. Cite original project files, not this bundle's disposable sources paths.
+
+## Products
+
+- `c18_eastern_frontier.md` — [t_d604cd] c18_eastern_frontier.md (task_output)
+- `nordic_evidence.md` — [t_d604cd] nordic_evidence.md (task_output)
+- `ottoman_evidence.md` — [t_d604cd] ottoman_evidence.md (task_output)
+
+## Cited sources (under `sources/`)
+
+- `sources/c12_makarov2024.pdf` ← `downloads/c12_makarov2024.pdf`
+  - "c12_makarov2024.pdf"
+  - sha256 81a9135182a0665b68e514fa939d9773b69f1a8658fb170b13a3589e58516fee
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+- `sources/c12_troshin2015.pdf` ← `downloads/c12_troshin2015.pdf`
+  - "c12_troshin2015.pdf"
+  - sha256 c17e7379cc37ae262251f8a19bbd3ace942ebecdd27bd2168db40265f1ef2b51
+  - cited as `doc:c17e7379cc37#p6` by [t_26cd47] "【资料质量】Troshin正文估计1808、1809、1810–1811贸易条件0.43、0.69、0.74，只作作者估算；印刷表年份错误禁作冻结系列。作者题页为Н. Н.，报告已更正为N. N. …" (fact)
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+- `sources/c12_vandal3_full.txt` ← `downloads/c12_vandal3_full.txt`
+  - "c12_vandal3_full.txt"
+  - sha256 6811043f3fa7668e827ca8e42ea5080005646306fe436a3dcaa25eb76a8d4f83
+  - cited by [t_26cd47] "1811年10月Nesselrode备忘录明确提出Oldenburg、边境互惠减军、华沙、普鲁士、贸易五项及奥地利保证；不复国空泛声明被其评为低价值，普鲁士政治生存被称最关键。" (fact) — "Je regarde comme beaucoup plus important et même comme l'objet le plus essentiel de l'arrangement u…"
+  - cited by [t_26cd47] "备忘录期待和平使俄奥恢复财政军力并重建均势，而非持久承认法国支配；因此‘可避免1812’与‘法国可控制俄国’并非同命题。" (inference) — "Pendant l'époque de paix plus ou moins raffermie qui suivrait un arrangement pareil, la Russie et l…"
+  - cited by [t_26cd47] "【文献推断】Nesselrode1811年10月五项谈判建议与奥地利担保旨在争取喘息、恢复俄奥力量，不能用作俄国接受法国排他霸权的证据。" (inference) — "rétablir leurs finances et"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+- `sources/c18_czubaty2018.pdf` ← `downloads/c18_czubaty2018.pdf`
+  - "c18_czubaty2018.pdf"
+  - sha256 c60ccb20b50e336170aaf08bf858c35600f449462fb486aab4417896e4e0179b
+  - cited as `doc:c60ccb20b50e#p25` by [t_d604cd] "Czubaty2018 pp.389–392：1812年Zamoyski向Maret主张复国政体更接近1791宪制，Łubieński反对而主张法律平等的官僚国家；复国后的制度安排本身存在当时争论。" (fact)
+  - cited by [t_d604cd] "1810年6月20日任命改革委员会，1811年1月19日为其报告日期；此前交接称后者为启动王命日期不准确。报告主张国有地产农民产权和融资，但依赖难收的巴约讷债款。" (fact)
+  - cited as `doc:c60ccb20b50e#p10` by [t_d604cd] "1810年6月20日任命改革委员会，1811年1月19日为其报告日期；此前交接称后者为启动王命日期不准确。报告主张国有地产农民产权和融资，但依赖难收的巴约讷债款。" (fact)
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+- `sources/pages/06cc3ecd49f0.md` ← `downloads/pages/06cc3ecd49f0.md`
+  - "| July 1983, Volume 47 - Issue 187 | Belleten" — https://belleten.gov.tr/eng/full-text/1814/tur
+  - sha256 06cc3ecd49f039d97dc3c858c760e3b67c4c2a30dfd9b00aea8c227fdd163c09
+  - cited as `https://belleten.gov.tr/eng/full-text/1814/tur` in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/ottoman_evidence.md`
+- `sources/pages/0cb883e1dd4e.md` ← `downloads/pages/0cb883e1dd4e.md`
+  - "Traité d'alliance signé à Paris le 14 mars 1812 entre la France et l’Autriche" — https://napoleon-histoire.com/traite-dalliance-signe-a-paris-le-14-mars-1812-entre-la-france-et-lautriche/
+  - sha256 0cb883e1dd4e47835a8a353f7e473914501f73913dcb85518e7151d52e3729fd
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+- `sources/pages/13f4af98385b.md` ← `downloads/pages/13f4af98385b.md`
+  - "The Project Gutenberg eBook of Napoléon et Alexandre Ier, par Albert Vandal" — https://www.gutenberg.org/cache/epub/28254/pg28254-images.html
+  - sha256 13f4af98385bd9ea9834f4d87f045a32cef63fc5784670c4f57019f08a1f6b79
+  - cited by [t_c17367] "1808-02-02信以到达亚洲造成震慑为近期机制，而非先攻占印度。" (fact) — "Une armée de 50,000 hommes ... ne serait pas arrivée sur l'Euphrate qu'elle ferait trembler l'Angle…"
+  - cited as `https://www.gutenberg.org/cache/epub/28254/pg28254-images.html` in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/ottoman_evidence.md`
+  - cited as `https://www.gutenberg.org/cache/epub/28254/pg28254-images.html` in `nodes/r_b55f2c1cf5/cards/t_d604cd/ottoman_evidence.md`
+- `sources/pages/23a7a98922ae.md` ← `downloads/pages/23a7a98922ae.md`
+  - "Treaty of Paris (1814) - Wikisource, the free online library" — https://en.wikisource.org/wiki/Treaty_of_Paris_(1814)
+  - sha256 23a7a98922aedea37109dc885b6252cda28891fe45f8d4dc2546bb5ba0051f67
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+- `sources/pages/289211c6dcdf.md` ← `downloads/pages/289211c6dcdf.md`
+  - "Причины Отечественной войны 1812 года." — https://litobr.ru/History_Bogdanovich_isotia_voiny_1812_goda/1-2_Prichiny_voiny_1812_goda.htm
+  - sha256 289211c6dcdf60c135686c483ffb217751a59137631f47dacd66c5918c2b5239
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://litobr.ru/History_Bogdanovich_isotia_voiny_1812_goda/1-2_Prichiny_voiny_1812_goda.htm` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://litobr.ru/History_Bogdanovich_isotia_voiny_1812_goda/1-2_Prichiny_voiny_1812_goda.htm` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/2ad693d5ac13.md` ← `downloads/pages/2ad693d5ac13.md`
+  - "Napoleon and the Transformation of Europe (European History in Perspective)" — https://ndl.ethernet.edu.et/bitstream/123456789/44567/1/2.Alexander%20Grab.pdf
+  - sha256 2ad693d5ac13c9d65f6046695de9b91e2c511c522d0a94dfd9842d4701ba3214
+  - cited by [t_d604cd] "Grab p183将巴约讷交易描述为王室地产出售、估值4300万；波兰历史博物馆则为居民所欠债权47366220法郎。保留冲突，不把两种资产混为一谈。Czubaty p394的债务人还款融资与后者性…" (fact)
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://ndl.ethernet.edu.et/bitstream/123456789/44567/1/2.Alexander%20Grab.pdf` in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+- `sources/pages/2c591936a232.md` ← `downloads/pages/2c591936a232.md`
+  - "Avalon Project - Treaty of Paris 1763" — https://avalon.law.yale.edu/18th_century/paris763.asp
+  - sha256 2c591936a232f88da7c74aea787f7598a0ac9cf4ecb2bc8d325999513b4132a1
+  - cited by [t_c17367] "1763条约XI归还1749基线商站，而禁设防及驻军限定于孟加拉Subah领地；不可泛化为全印度禁止。" (fact) — "not to erect fortifications, or to keep troops in any part of the dominions of the Subah of Bengal"
+  - cited as `https://avalon.law.yale.edu/18th_century/paris763.asp` in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+- `sources/pages/30fef872bff7.md` ← `downloads/pages/30fef872bff7.md`
+  - "BÜKREŞ ANDLASMASININ MÜZAKERESI 1811- 18121 rafsız bir siyaset takip etmesine mani oluyorlardı. Hatta ı kalmışlardı. 18…" — https://dergipark.org.tr/tr/download/article-file/2512679
+  - sha256 30fef872bff72dd6c4f38f651b12e7be0b6448aa567f7b037ffdaaf4f32ad92d
+  - cited by [t_d604cd] "İsmail pp.94–95以奥斯曼内部文书反驳仅归咎法方授权迟到的解释；1812年2月8日大维齐尔主张拒绝法国结盟，理由包括提尔西特弃盟信誉与对英关系。" (fact)
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://dergipark.org.tr/tr/download/article-file/2512679` in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://dergipark.org.tr/tr/download/article-file/2512679` in `nodes/r_b55f2c1cf5/cards/t_d604cd/ottoman_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/ottoman_evidence.md`
+- `sources/pages/35dcb892b38d.md` ← `downloads/pages/35dcb892b38d.md`
+  - "The Project Gutenberg eBook of Napoléon et Alexandre Ier, par Albert Vandal" — https://www.gutenberg.org/files/31260/31260-h/31260-h.htm
+  - sha256 35dcb892b38dbf0f6bd94ffc0e5ad2ff91ba8be12406bdc227b5a72b15b916ea
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://www.gutenberg.org/files/31260/31260-h/31260-h.htm` in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited by [t_26cd47] "1810-01-04公约首条为波兰王国永不重建；拿破仑2月反提案改为本国不提供复国援助，区别是保证结果与约束本国行为。" (fact) — "L'empereur Napoléon s'engage à ne jamais donner aucun secours ni assistance"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://www.gutenberg.org/files/31260/31260-h/31260-h.htm` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+- `sources/pages/3dcc8f5c674b.md` ← `downloads/pages/3dcc8f5c674b.md`
+  - "Barkebrødstider 1807–1814 - Norgeshistorie" — https://www.norgeshistorie.no/grunnlov-og-ny-union/1346-barkebrodstider-1807-1814.html
+  - sha256 3dcc8f5c674b01c3bb7a316d931cbf7aaa0e15e5742b001feb16cb4e516192f3
+  - cited by [t_d604cd] "挪威平常进口约四分之一谷物需求，丹麦供应约四分之三进口谷物；不得外推为全部食物比例。" (fact)
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://www.norgeshistorie.no/grunnlov-og-ny-union/1346-barkebrodstider-1807-1814.html` in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://www.norgeshistorie.no/grunnlov-og-ny-union/1346-barkebrodstider-1807-1814.html` in `nodes/r_b55f2c1cf5/cards/t_d604cd/nordic_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/nordic_evidence.md`
+- `sources/pages/45dd82f748a7.md` ← `downloads/pages/45dd82f748a7.md`
+  - "BUCHAREST DURING the PEACE of 1812 Ana-Maria Lepăr* Abstract - DocsLib" — https://docslib.org/doc/8863344/bucharest-during-the-peace-of-1812-ana-maria-lep%C4%83r-abstract
+  - sha256 45dd82f748a70957c47e4dfc4819a1f56e3e702ede347683ba97d05f53a2bbb3
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://docslib.org/doc/8863344/bucharest-during-the-peace-of-1812-ana-maria-lep%C4%83r-abstract` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://docslib.org/doc/8863344/bucharest-during-the-peace-of-1812-ana-maria-lep%C4%83r-abstract` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/4b8f2a2c5183.md` ← `downloads/pages/4b8f2a2c5183.md`
+  - "New Page 1" — https://www.histoire-empire.org/correspondance_de_napoleon/1804/septembre_02.htm
+  - sha256 4b8f2a2c518395b47e2e153cad83ccd6f72b90e16edef910da0aeba54deec635
+  - cited as `https://www.histoire-empire.org/correspondance_de_napoleon/1804/septembre_02.htm` in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+- `sources/pages/4ba9714f9fde.md` ← `downloads/pages/4ba9714f9fde.md`
+  - "Oeuvres de Napoléon Bonaparte" — https://www.gutenberg.org/cache/epub/13475/pg13475-images.html
+  - sha256 4ba9714f9fdefef01c879facc92a73e30dfee045b2b3956594ce0217706eac61
+  - cited by [t_d604cd] "1812总联盟复国宣言与法国保证奥地利剩余波兰省份并存，故不能当成法国无条件承认全部旧疆。" (inference) — "j'ai garanti à l'empereur d'Autriche l'intégrité de ses états"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://www.gutenberg.org/cache/epub/13475/pg13475-images.html` in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited by [t_26cd47] "【事实／公开自辩】拿破仑1812年12月20日表示拒绝以农奴解放武装俄国人口；其所谓大量村庄请求与动员能力尚无独立验证。不是圣赫勒拿语录。" (fact) — "je me suis refusé à cette mesure"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://www.gutenberg.org/cache/epub/13475/pg13475-images.html` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://www.gutenberg.org/cache/epub/13475/pg13475-images.html` in `nodes/r_b55f2c1cf5/cards/t_26cd47/polish_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/polish_evidence.md`
+- `sources/pages/56a23915a69c.md` ← `downloads/pages/56a23915a69c.md`
+  - "М.М. Сперанский. Отчет в делах 1810 г., представленный императору Александру I" — http://dugward.ru/library/speranskiy_m/speranskiy_otchet_v_delah_1810.html
+  - sha256 56a23915a69c3f335d08b28d3815ef6e2776d9e32cf5cb9b1c0b935ef4fec9e8
+  - cited as `http://dugward.ru/library/speranskiy_m/speranskiy_otchet_v_delah_1810.html` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/583fdf517a90.md` ← `downloads/pages/583fdf517a90.md`
+  - "1812 год. Министр полиции России генерал А. Д. Балашов в ставке Наполеона – тема научной статьи по истории и археологии…" — https://cyberleninka.ru/article/n/1812-god-ministr-politsii-rossii-general-a-d-balashov-v-stavke-napoleona
+  - sha256 583fdf517a90cc50f56850b63e03562468061a42cfc2bcf54ea230b6b232a8ca
+  - cited as `https://cyberleninka.ru/article/n/1812-god-ministr-politsii-rossii-general-a-d-balashov-v-stavke-napoleona` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/5b7b985b0f78.md` ← `downloads/pages/5b7b985b0f78.md`
+  - "Supplying War: Logistics From Wallenstein To Patton [PDF] [28jjb479976g]" — https://vdoc.pub/documents/supplying-war-logistics-from-wallenstein-to-patton-28jjb479976g
+  - sha256 5b7b985b0f78abb03a374f0d2747db2384d871504dab98c112ab51c7022deb69
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://vdoc.pub/documents/supplying-war-logistics-from-wallenstein-to-patton-28jjb479976g` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://vdoc.pub/documents/supplying-war-logistics-from-wallenstein-to-patton-28jjb479976g` in `nodes/r_b55f2c1cf5/cards/t_26cd47/limited_war_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/limited_war_evidence.md`
+- `sources/pages/5e89d50c1e0b.md` ← `downloads/pages/5e89d50c1e0b.md`
+  - "Russian Campaign, French Campaign" — https://ehne.fr/en/node/12209/printable/pdf
+  - sha256 5e89d50c1e0bbd598cfd7cae7d2322f2b8c6bf97d41e3b2a527e2fa138582fff
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://ehne.fr/en/node/12209/printable/pdf` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://ehne.fr/en/node/12209/printable/pdf` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/6635f608e21d.md` ← `downloads/pages/6635f608e21d.md`
+  - "The Campaign of 1812 in Russia" — https://clausewitzstudies.org/readings/1812/Clausewitz-CampaignOf1812inRussia-EllesmereTranslation.pdf
+  - sha256 6635f608e21d89611d1d3d9736e0dee898f795071d6f720876a952b6f5e5e076
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://clausewitzstudies.org/readings/1812/Clausewitz-CampaignOf1812inRussia-EllesmereTranslation.pdf` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://clausewitzstudies.org/readings/1812/Clausewitz-CampaignOf1812inRussia-EllesmereTranslation.pdf` in `nodes/r_b55f2c1cf5/cards/t_26cd47/limited_war_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/limited_war_evidence.md`
+- `sources/pages/6bc1e5201866.md` ← `downloads/pages/6bc1e5201866.md`
+  - "Traité d'alliance entre la France et la Perse - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/traite-dalliance-entre-la-france-et-la-perse/
+  - sha256 6bc1e52018665bc7854d8e1d023fbc3549642343b7a75c53cee962d5b45adf2d
+  - cited by [t_c17367] "芬肯施泰因第12条规定法军路线、补给、运输及辅助兵另订专约，第13条有偿，第14条不准将法国通行安排扩及英俄。" (fact) — "elles ne pourront être étendues, par des traités postérieurs, ni à l’Angleterre, ni à la Russie."
+  - cited as `https://napoleon-histoire.com/traite-dalliance-entre-la-france-et-la-perse/` in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+- `sources/pages/719fb33fecec.md` ← `downloads/pages/719fb33fecec.md`
+  - "Układ w Bayonne - Muzeum Historii Polski w WarszawieZobacz naszą stronę na YouTubieZobacz naszą stronę na YouTubie" — https://muzhp.pl/kalendarium/uklad-w-bayonne
+  - sha256 719fb33fecec49a80ceec8d88db2fc6785ef2a2ef55c689652ed61d4f9bf185d
+  - cited by [t_d604cd] "巴约讷实为公国居民欠原普政府之债权转让，至少据波兰历史博物馆；Grab现有OCR把它描述为王室地产购买，不应直接复用其债款对象说明。" (fact)
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://muzhp.pl/kalendarium/uklad-w-bayonne` in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+- `sources/pages/7ace9e1b1b47.md` ← `downloads/pages/7ace9e1b1b47.md`
+  - "Creating a Buffer Zone (Chapter 3) - Defending British India against Napoleon" — https://www.cambridge.org/core/books/defending-british-india-against-napoleon/creating-a-buffer-zone/3899B503863F420D92C3E81F3D29EC95
+  - sha256 7ace9e1b1b47301a34534a3b7825e014cbc267bbd6f225bb1ebfe00172dce2f0
+  - cited by [t_c17367] "1808年6月17日Minto明确因法国驻波斯使团活动要求赴拉合尔与喀布尔派使，支持威胁导致英印前沿外交扩张。" (fact) — "I allude to the Mission of British agents to the Courts of Lahore and Caubul."
+  - cited by [t_c17367] "Minto1808-06-17备忘录以法国驻波斯使团活动说明向拉合尔、喀布尔派使的迫切性；只是公开章节节选中的转引，非已读全章。" (fact) — "the Mission of British agents to the Courts of Lahore and Caubul"
+  - cited as `https://www.cambridge.org/core/books/abs/defending-british-india-against-napoleon/creating-a-buffer-zone/3899B503863F420D92C3E81F3D29EC95` in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+- `sources/pages/8294c46ce151.md` ← `downloads/pages/8294c46ce151.md`
+  - "Correspondance de Napoléon – Janvier 1803" — https://napoleon-histoire.com/correspondance-de-napoleon-janvier-1803/
+  - sha256 8294c46ce151476ffb69e5c7dca05f89184dd9503f26d65b361a881825a617ba
+  - cited by [t_c17367] "1803-01-15特别训令首先为观察，仍要求按没有制海权筹划多年战争；半数所求兵力、据点、盟友及逐半年报告均有原文。" (fact) — "Pour nourrir la guerre aux Indes plusieurs campagnes, il faut raisonner dans l’hypothèse que nous n…"
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-janvier-1803/` in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+- `sources/pages/8304138e1ae4.md` ← `downloads/pages/8304138e1ae4.md`
+  - "PROJETS DE PARTAGE DE L'EMPIRE OTTOMAN 8o7-1812" — https://belleten.gov.tr/eng/full-text-pdf/1814/eng
+  - sha256 8304138e1ae4676dbd7b0251bbc3939ee54fd28b8092f244101e5a553040c679
+  - cited by [t_d604cd] "Süslü pp.782–783明确记塞利姆倒台后新政府仍表友法并委任使节，故‘没有任何再同盟载体’被反证；但仍有国家载体不等于愿意续战。" (inference)
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://belleten.gov.tr/eng/full-text-pdf/1814/eng` in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/ottoman_evidence.md`
+  - cited as `https://belleten.gov.tr/eng/full-text-pdf/1814/eng` in `nodes/r_b55f2c1cf5/cards/t_d604cd/ottoman_evidence.md`
+- `sources/pages/8382c0deb72f.md` ← `downloads/pages/8382c0deb72f.md`
+  - "(PDF) Paul's Great Game" — https://www.academia.edu/52554683/Pauls_Great_Game
+  - sha256 8382c0deb72f0cdf9a94c92b176672fcd53f6eeb7ea288430210dbd5f39092d0
+  - cited by [t_c17367] "1801保罗远征实际动员与所谓各3.5万人法俄联合方案需分离；2014研究称后者未见法俄档案，并以Duroc抵俄过晚提出时间线反证。" (fact) — "No such plan has been found in either the French or Russian archives."
+  - cited as `https://www.academia.edu/52554683/Pauls_Great_Game` in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+- `sources/pages/83fff8e6b841.md` ← `downloads/pages/83fff8e6b841.md`
+  - "Geoffrey Hosking · Peasants in Arms: Russia v. Napoleon" — https://www.lrb.co.uk/the-paper/v31/n23/geoffrey-hosking/peasants-in-arms
+  - sha256 83fff8e6b84128927b0c61b8ea074903bbb1b1095fb80a8f26d82d7693ce8e21
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://www.lrb.co.uk/the-paper/v31/n23/geoffrey-hosking/peasants-in-arms` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://www.lrb.co.uk/the-paper/v31/n23/geoffrey-hosking/peasants-in-arms` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/8803bb4aae82.md` ← `downloads/pages/8803bb4aae82.md`
+  - "Lire Oeuvres de Napoléon Bonaparte, Tome V. de Napoléon Bonaparte en ligne gratuitement - Сhapitre 52" — https://www.ffdsp.com/lire-oeuvres-de-napoleon-bonaparte-tome-v-gratuit-chapitre-52
+  - sha256 8803bb4aae829487c95d027138c65923e69bbbfcacff47afd906a411b6247c4a
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/polish_evidence.md`
+  - cited as `https://www.ffdsp.com/lire-oeuvres-de-napoleon-bonaparte-tome-v-gratuit-chapitre-52` in `nodes/r_b55f2c1cf5/cards/t_26cd47/polish_evidence.md`
+- `sources/pages/8f2c112edf2d.md` ← `downloads/pages/8f2c112edf2d.md`
+  - "Подготовка к войне 1812 года." — https://litobr.ru/History_Bogdanovich_isotia_voiny_1812_goda/1-3_Prigotovlenia_k_voine.htm
+  - sha256 8f2c112edf2df88f8218887447010f60a076e18e15eac3f2e6fa1ee12b4d154e
+  - cited as `https://litobr.ru/History_Bogdanovich_isotia_voiny_1812_goda/1-3_Prigotovlenia_k_voine.htm` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/9af33326aacf.md` ← `downloads/pages/9af33326aacf.md`
+  - https://academic-journals.eu/pl/download?path=%2Fuploads%2FZm9sZGVycHVibWVkaWE%3D%2Fdocuments%2Fstudia_i_materialy_viii_nawrot_komitet_wojskowy_na_litwie_w_1812.pdf
+  - sha256 9af33326aacf0872cb784e676822d473e9e1a88b4f4615d20aff8f3c182b9a6b
+  - cited by [t_d604cd] "Nawrot pp.288–290所引1812文书：Sapieha先求400万兹罗提初装，较完整概算10789338兹罗提；拿破仑8月24日同意50万法郎贷款，9月13日才拨。为提前法国融资分支提供…" (fact) — "24 sierpnia Napoleon zgodził się na udzielenie pożyczki w wysokości 500 tys. franków"
+  - cited by [t_d604cd] "立陶宛50万法郎贷款8月24日批准、9月13日拨付；12月1日约12500人和广义逾20000人是嵌套口径，不可相加或前移为7月战力。" (fact)
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://academic-journals.eu/pl/download?path=%2Fuploads%2FZm9sZGVycHVibWVkaWE%3D%2Fdocuments%2Fstudia_i_materialy_viii_nawrot_komitet_wojskowy_na_litwie_w_1812.pdf` in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited by [t_26cd47] "【事实／转引Nawrot】立陶宛12月1日五步兵团四骑兵团约12,500人；两万以上含其他组织，不可两数相加或倒算成夏季可战兵力。" (fact) — "około 12,5 tys. ludzi, na dzień 1 grudnia 1812 r."
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://academic-journals.eu/pl/download?path=%2Fuploads%2FZm9sZGVycHVibWVkaWE%3D%2Fdocuments%2Fstudia_i_materialy_viii_nawrot_komitet_wojskowy_na_litwie_w_1812.pdf` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://academic-journals.eu/pl/download?path=%2Fuploads%2FZm9sZGVycHVibWVkaWE%3D%2Fdocuments%2Fstudia_i_materialy_viii_nawrot_komitet_wojskowy_na_litwie_w_1812.pdf` in `nodes/r_b55f2c1cf5/cards/t_26cd47/polish_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/polish_evidence.md`
+- `sources/pages/a0f246407c7d.md` ← `downloads/pages/a0f246407c7d.md`
+  - "FRANCE iii. RELATIONS WITH PERSIA 1789-1918 - Encyclopaedia Iranica" — https://www.iranicaonline.org/articles/france-iii-relations-with-persia-1789-1918/
+  - sha256 a0f246407c7d72a5f6cc44e547e840d3ceb45ee476c961581ef0932f79b187eb
+  - cited as `https://www.iranicaonline.org/articles/france-iii-relations-with-persia-1789-1918/` in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+- `sources/pages/a5b15e70c82c.md` ← `downloads/pages/a5b15e70c82c.md`
+  - "Literary Review - Charles Esdaile on Russia Against Napoleon by Dominic Lieven" — https://web.archive.org/web/20130605171204/http:/www.literaryreview.co.uk/esdaile_10_09.html
+  - sha256 a5b15e70c82c9f6760a1d89756fb293a95cd408672d70c00bf67d3d8f362469d
+  - cited by [t_26cd47] "Esdaile评Lieven明确区分敌意与战争，称亚历山大1811放弃进攻而等待受攻；仅为书评转引，不冒充读Lieven专著。" (inference) — "Hostility to France, however, did not necessarily mean war"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://web.archive.org/web/20130605171204/http:/www.literaryreview.co.uk/esdaile_10_09.html` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://web.archive.org/web/20130605171204/http:/www.literaryreview.co.uk/esdaile_10_09.html` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/b1d3de43f219.md` ← `downloads/pages/b1d3de43f219.md`
+  - "Абоский Договор » Международная военно-историческая ассоциация" — https://imha.ru/1144538697-aboskiy-dogovor.html
+  - sha256 b1d3de43f219cd011b7c4287c319320fcfc6ae5d78a9a5794151819b8617d847
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://imha.ru/1144538697-aboskiy-dogovor.html` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://imha.ru/1144538697-aboskiy-dogovor.html` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/b24d31cb67be.md` ← `downloads/pages/b24d31cb67be.md`
+  - "Е. В. Тарле. Наполеон(20)" — https://www.booksite.ru/localtxt/tar/le/tarle/nap/ole/napoleon/20.htm
+  - sha256 b24d31cb67be2a5331c36c7fd79ba7e53a60042be1689adc702f2807a9afbb9a
+  - cited as `https://www.booksite.ru/localtxt/tar/le/tarle/nap/ole/napoleon/20.htm` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/b92bac3d423e.md` ← `downloads/pages/b92bac3d423e.md`
+  - "War, Naval Logistics and the British State" — https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf
+  - sha256 b92bac3d423e354551736d05fce5d1b982541c26928437aaac019fbb4e77121f
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf` in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf` in `nodes/r_b55f2c1cf5/cards/t_d604cd/nordic_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/nordic_evidence.md`
+- `sources/pages/be739b1529d1.md` ← `downloads/pages/be739b1529d1.md`
+  - "Danmark-Norges utenrikspolitikk 1797‒1807 - Norgeshistorie" — https://www.norgeshistorie.no/grunnlov-og-ny-union/1374-danmark-norges-utenrikspolitikk-1797-1807.html
+  - sha256 be739b1529d142e455377aa20c6e7fdb5c39399f2278e8896c7ae37e8e065210
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://www.norgeshistorie.no/grunnlov-og-ny-union/1374-danmark-norges-utenrikspolitikk-1797-1807.html` in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://www.norgeshistorie.no/grunnlov-og-ny-union/1374-danmark-norges-utenrikspolitikk-1797-1807.html` in `nodes/r_b55f2c1cf5/cards/t_d604cd/nordic_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/nordic_evidence.md`
+- `sources/pages/bef69773295d.md` ← `downloads/pages/bef69773295d.md`
+  - "Thomas Munch-Petersen" — https://www.ssns.org.uk/wp-content/uploads/2019/09/Munch-Pedersen_1996_Vol_31_pp_37_56.pdf
+  - sha256 bef69773295d2a44c328a5b170aa6d057f318d3bd518fc741a56045bd9f11d48
+  - cited by [t_d604cd] "Munch-Petersen认为贝尔纳多特的结盟必要代价为挪威，芬兰可追加；该结论不能扩展为所有反事实均优先挪威。" (interpretation) — "Norway was always the essential price for his alliance."
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://www.ssns.org.uk/wp-content/uploads/2019/09/Munch-Pedersen_1996_Vol_31_pp_37_56.pdf` in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://www.ssns.org.uk/wp-content/uploads/2019/09/Munch-Pedersen_1996_Vol_31_pp_37_56.pdf` in `nodes/r_b55f2c1cf5/cards/t_d604cd/nordic_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/nordic_evidence.md`
+- `sources/pages/cd494198d45d.md` ← `downloads/pages/cd494198d45d.md`
+  - "The Project Gutenberg eBook of Napoléon et Alexandre Ier (3/3), par Albert Vandal" — https://www.gutenberg.org/cache/epub/32621/pg32621-images.html
+  - sha256 cd494198d45da4decf3ca984d171223370226f5d6622f7692358e41b93c80a59
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://www.gutenberg.org/cache/epub/32621/pg32621-images.html` in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited by [t_26cd47] "Vandal所引1811俄方进攻意向是有条件计划：华沙不合作则留在防御，并明说可能延续现状；不能据计划存在推出任何让步下都必战。" (inference) — "Alors les choses continueront à rester sur le pied sur lequel elles se trouvent maintenant"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://www.gutenberg.org/cache/epub/32621/pg32621-images.html` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+- `sources/pages/ce13bc8c21a9.md` ← `downloads/pages/ce13bc8c21a9.md`
+  - "„KRÓLESTWO POLSKIE PRZYWRÓCONE” – OCZEKIWANIA WSPÓŁCZESNYCH WOBEC KONFEDERACJI GENERALNEJ KRÓLESTWA POLSKIEGO 1812–1813" — https://bibliotekanauki.pl/articles/540558.pdf
+  - sha256 ce13bc8c21a9a69f7f956120d6ed16941de22895437611d47e0ad17380163419
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://bibliotekanauki.pl/articles/540558.pdf` in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://bibliotekanauki.pl/articles/540558.pdf` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://bibliotekanauki.pl/articles/540558.pdf` in `nodes/r_b55f2c1cf5/cards/t_26cd47/polish_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/polish_evidence.md`
+- `sources/pages/cfb7909dde31.md` ← `downloads/pages/cfb7909dde31.md`
+  - "Protecting Trade and Supply Lines (Chapter 4) - Defending British India against Napoleon" — https://www.cambridge.org/core/books/defending-british-india-against-napoleon/protecting-trade-and-supply-lines/2F14D9EB0AC3A298D00CE6A44D83BEC5
+  - sha256 cfb7909dde31e86fd988c1ad32202252ec12dca0836ff3b758e622b1d6a6784d
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+- `sources/pages/d0bb605e0940.md` ← `downloads/pages/d0bb605e0940.md`
+  - "Fra gyldne tider til nød og konkurs - Norgeshistorie" — https://www.norgeshistorie.no/grunnlov-og-ny-union/1306-fra-gyldne-tider-til-nod-og-konkurs.html
+  - sha256 d0bb605e0940faae26ab9525202d682bdfee6cc3364284559e7abdc3ebdc77f5
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://www.norgeshistorie.no/grunnlov-og-ny-union/1306-fra-gyldne-tider-til-nod-og-konkurs.html` in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://www.norgeshistorie.no/grunnlov-og-ny-union/1306-fra-gyldne-tider-til-nod-og-konkurs.html` in `nodes/r_b55f2c1cf5/cards/t_d604cd/nordic_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/nordic_evidence.md`
+- `sources/pages/d8df3ea3f40b.md` ← `downloads/pages/d8df3ea3f40b.md`
+  - "Финансовая составляющая войны россиипротив наполеоновского нашествия в 1812–1815 годы – тема научной статьи по истории …" — https://cyberleninka.ru/article/n/finansovaya-sostavlyayuschaya-voyny-rossiiprotiv-napoleonovskogo-nashestviya-v-1812-1815-gody
+  - sha256 d8df3ea3f40b85cf7b7df1966e25f9de956fc065570dce07e2d57f040e154a00
+  - cited as `https://cyberleninka.ru/article/n/finansovaya-sostavlyayuschaya-voyny-rossiiprotiv-napoleonovskogo-nashestviya-v-1812-1815-gody` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/d95cb3adbf11.md` ← `downloads/pages/d95cb3adbf11.md`
+  - "THE RUSSIAN-SWEDISH UNION TREATY OF 1812 AND NORWAY’S ROLE" — https://vestnikgum.ru/upload/iblock/726/bti76lt9l8y2cj3yigyudezg3a7y0k0w/40_48.pdf
+  - sha256 d95cb3adbf111537bb959f8a6fcd5694ff400418096b94f01e3ce814fa2cdc3b
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://vestnikgum.ru/upload/iblock/726/bti76lt9l8y2cj3yigyudezg3a7y0k0w/40_48.pdf` in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://vestnikgum.ru/upload/iblock/726/bti76lt9l8y2cj3yigyudezg3a7y0k0w/40_48.pdf` in `nodes/r_b55f2c1cf5/cards/t_d604cd/nordic_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/nordic_evidence.md`
+- `sources/pages/e19174f0f234.md` ← `downloads/pages/e19174f0f234.md`
+  - "Clow.ru: История России. Пособие для школьников и абитуриентов. Статьи по истории и исследования. Россия на рубеже веко…" — https://history.clow.ru/29.htm
+  - sha256 e19174f0f234f1146110efddc197bdc4816ce22085b85210d5cad80377108ff3
+  - cited as `https://history.clow.ru/29.htm` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/e47ab045c32f.md` ← `downloads/pages/e47ab045c32f.md`
+  - "The Defence of British Trade with the Baltic, 1808-1813" — https://www.reenactor.ru/ARH/PDF/Defence.pdf
+  - sha256 e47ab045c32fb5012346ffb2ecdcba56917937e1f0958ddfd8a6eb09faf342e4
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://www.reenactor.ru/ARH/PDF/Defence.pdf` in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://www.reenactor.ru/ARH/PDF/Defence.pdf` in `nodes/r_b55f2c1cf5/cards/t_d604cd/nordic_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/nordic_evidence.md`
+- `sources/pages/e6f361323912.md` ← `downloads/pages/e6f361323912.md`
+  - "Full text of "Expeditions Overseas"" — https://archive.org/stream/ExpeditionsOverseas/Expeditions%20Overseas_djvu.txt
+  - sha256 e6f361323912718eeac7364266f998ff4bd9062ea537e2b5972eaa58ee367a1a
+  - cited by [t_c17367] "1801Baird局部横越可证明水袋破损、梯队节奏与骆驼夫付款的重要性，不能推出跨亚洲最大兵力。" (inference)
+  - cited as `https://archive.org/stream/ExpeditionsOverseas/Expeditions%20Overseas_djvu.txt` in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+- `sources/pages/e7490577990a.md` ← `downloads/pages/e7490577990a.md`
+  - "Chapter 21 – Lord Wellesley’s Administration – Mahratta Affairs, 1800–1803" — https://www.ibiblio.org/britishraj/Marshman2/chapter21.html
+  - sha256 e7490577990a717e54769f16b05432b688a8a3e71dace54870a081ed79135cc6
+  - cited as `https://www.ibiblio.org/britishraj/Marshman2/chapter21.html` in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+- `sources/pages/eed9ab647f9a.md` ← `downloads/pages/eed9ab647f9a.md`
+  - "Full text of "With Napoleon In Russia The Memoirs Of General De Caulaincourt Duke Of Vicenza"" — https://archive.org/stream/in.ernet.dli.2015.58850/2015.58850.With-Napoleon-In-Russia-The-Memoirs-Of-General-De-Caulaincourt-Duke-Of-Vicenza_djvu.txt
+  - sha256 eed9ab647f9adcadd66f4085f5c96ac71646dbc836b7d273f3b3b1bb1c83f2dd
+  - cited by [t_26cd47] "Caulaincourt英文节编本p75确记停驻整顿、总部回维捷布斯克及武装波兰，但仍保留之后进军莫斯科或彼得堡；这是回溯性亲历记录，不是已核同期作战令。" (fact) — "I will establish my headquarters at Witepsk. I will raise Poland in arms, and later on I will choos…"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://archive.org/stream/in.ernet.dli.2015.58850/2015.58850.With-Napoleon-In-Russia-The-Memoirs-Of-General-De-Caulaincourt-Duke-Of-Vicenza_djvu.txt` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://archive.org/stream/in.ernet.dli.2015.58850/2015.58850.With-Napoleon-In-Russia-The-Memoirs-Of-General-De-Caulaincourt-Duke-Of-Vicenza_djvu.txt` in `nodes/r_b55f2c1cf5/cards/t_26cd47/limited_war_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/limited_war_evidence.md`
+- `sources/pages/f07e59139e29.md` ← `downloads/pages/f07e59139e29.md`
+  - "Successionsordning (1810:0926); | Sveriges riksdag" — https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/successionsordning-18100926_sfs-1810-0926/
+  - sha256 f07e59139e29f5d4b4b6846b8827505ec3dbe90f17c477ed2d32902551dbc399
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/successionsordning-18100926_sfs-1810-0926/` in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/successionsordning-18100926_sfs-1810-0926/` in `nodes/r_b55f2c1cf5/cards/t_d604cd/nordic_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/nordic_evidence.md`
+- `sources/pages/f19270d24c25.md` ← `downloads/pages/f19270d24c25.md`
+  - "III. ДОКЛАДНАЯ ЗАПИСКА ГРАФА НЕССЕЛЬРОДЕ ИМПЕРАТОРУ АЛЕКСАНДРУ I-му. (ОКТЯБРЬ 1811 г.)[678]. Разрыв франко-русского сою…" — https://history.wikireading.ru/288188
+  - sha256 f19270d24c2514c06f8b122e0e98345ad2a8bc16e8adf97fb1b1890dfdb85853
+  - cited as `https://history.wikireading.ru/288188` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/f38b37d5dbd1.md` ← `downloads/pages/f38b37d5dbd1.md`
+  - "Borodino and the Fall of Moscow - Russia Against Napoleon: The True Story of the Campaigns of War and Peace" — https://erenow.org/ww/russia-against-napoleon-the-true-story-of-the-campaigns/7.php
+  - sha256 f38b37d5dbd1406b83f6c544898a6097bd2ce1b898c3b5b38c121c487cf75e12
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://erenow.org/ww/russia-against-napoleon-the-true-story-of-the-campaigns/7.php` in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://erenow.org/ww/russia-against-napoleon-the-true-story-of-the-campaigns/7.php` in `nodes/r_b55f2c1cf5/cards/t_d604cd/ottoman_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/ottoman_evidence.md`
+- `sources/pages/f5346ba53437.md` ← `downloads/pages/f5346ba53437.md`
+  - "Бухарестский мирный договор с Турцией от 16 мая 1812 года (СПб., 1828) - РуссПортал. Историческая библиотека русской ци…" — https://russportal.ru/index.php?id=russia.traites_convention1812_05_16_01
+  - sha256 f5346ba5343776073905614d4d61b3f2ca15f988d9fd0db0312a8adcecfef038
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://russportal.ru/index.php?id=russia.traites_convention1812_05_16_01` in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited as `https://russportal.ru/index.php?id=russia.traites_convention1812_05_16_01` in `nodes/r_b55f2c1cf5/cards/t_d604cd/ottoman_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/ottoman_evidence.md`
+- `sources/pages/fcff28bd1292.md` ← `downloads/pages/fcff28bd1292.md`
+  - "GARDANE MISSION - Encyclopaedia Iranica" — https://www.iranicaonline.org/articles/gardane-mission/
+  - sha256 fcff28bd12922b7178c578129a438d867196d08b128f62ad954574a78070e425
+  - cited by [t_c17367] "伊朗将Ḵārg岛与芬肯施泰因格鲁吉亚条款履行挂钩；法俄和好并不能无成本产生联合军过境合作。Iranica转引，未见波斯文原折。" (inference)
+  - cited as `https://www.iranicaonline.org/articles/gardane-mission/` in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+- `sources/t_26cd47/c12_russia_problem.md` ← `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - "[t_26cd47] nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md"
+  - sha256 0e51aea45aa70a74ab165380b1e6d7f3d0ae0f1cab5432abb72f21c6170699bc
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+- `sources/t_c17367/c7_orient_india.md` ← `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+  - "[t_c17367] nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md"
+  - sha256 15bbebaa7cec239010358cc4970063802ddbc31a9e4da0f4d3e22cf5712c9388
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_d604cd/ottoman_evidence.md`
+
+## Cited, already in this folder
+
+- `c18_eastern_frontier.md`
+  - cited by [t_d604cd] "最少新增承诺的组合是有限公国、法俄克制、贸易妥协及奥斯曼自主缓冲；这是中等置信模型，不是俄国受法国控制，也不是已获各方签署的完整计划。" (inference)
+
+## Consulted but not cited (left where they are)
+
+- `downloads/c6_correspondance30.pdf` — "c6_correspondance30.pdf"
+- `downloads/pages/0c8d86631dca.md` — "Encyklopedia staropolska/Bajońskie sumy - Wikiźródła, wolna biblioteka" — https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Bajo%C5%84skie_sumy
+- `downloads/pages/2f75680b8ff0.md` — "Defending British India against Napoleon" — https://www.cambridge.org/core/books/defending-british-india-against-napoleon/DBABCEBD5A71A21BA3250F49E77216A2
+- `downloads/pages/67f1d0201b9d.md` — "Client Challenge" — https://www.jstor.org/stable/10.5699/slaveasteurorev2.96.3.0574
+- `downloads/pages/685cb0142009.md` — "Vellore Mutiny | Sepoy Rebellion, British Raj & Indian Soldiers | Britannica" — https://www.britannica.com/event/Vellore-Mutiny
+- `downloads/pages/aab94e1f905a.md` — "THE STATE OF RUSSIAN FOREIGN TRADE AT THE END OF 1808–1809 (ACCORDING TO A. B. KURAKIN’S DISPATCHES) - Вестник МГПУ «Ис…" — https://vestnik-historicalsciences.mgpu.ru/2025/01/14/the-state-of-russian-foreign-trade-at-the-end-of-1808-1809-according-to-a-b-kurakins-dispatches/?lang=en
+- `downloads/pages/cdcb21dbdaab.md` — https://doi.org/10.5699/slaveasteurorev2.96.3.0574
+- `downloads/pages/ce24c4f90149.md` — "Troshin N.N. Russia in the Continental Blockade: economic consequences" — https://en.nbpublish.com/library_read_article.php?id=67239
+- `downloads/pages/df27e5314cf3.md` — "Correspondance de Napoléon Ier - Janvier-Février-Mars 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-janvier-fevrier-mars-1810/
+- `downloads/pages/eeaecf23e90f.md` — "Księstwo Warszawskie – pierwsze nowoczesne państwo polskie? | Kwartalnik Historyczny" — https://apcz.umk.pl/KH/article/view/KH.2018.125.2.04
+
+## Unresolved locators
+
+- `https://apcz.umk.pl/KH/article/download/KH.2018.125.2.04/15761` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`)
+- `https://www.gutenberg.org/cache/epub/32621/pg32621.txt` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`)
+- `https://en.nbpublish.com/library_get_pdf.php?id=35678` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`)
+- `https://vestnik-historicalsciences.mgpu.ru/wp-content/uploads/sites/2/2025/01/makarov-n-a.pdf` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`)
+- `downloads/pages/eed9ab647f9a.md；现存下载目录检索有返回上限，去重并非穷尽。直接curl下载Clausewitz` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_26cd47/limited_war_evidence.md`)
+- `https://zlib.pub/book/1812-napoleons-russian-campaign-auhpdungnp60` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_26cd47/limited_war_evidence.md`)
+- `https://eprints.lse.ac.uk/25288/` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`)
+- `https://archive.org/details/alexanderithetsa0000reym` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`)
+- `https://doi.org/10.1080/02634937.2014.909672` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`)
+- `https://en.wikisource.org/wiki/Treaty_of_Paris_` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`)

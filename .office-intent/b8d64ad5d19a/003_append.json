@@ -1,0 +1,11 @@
+{
+ "seq": 3,
+ "path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_9f10b6/f4_audit.md",
+ "ops": [
+  {
+   "append": {
+    "content": "\n【登记路径说明】第二轮补订的发现无法再经`misaka_card_note`登记（卡片提交后返回「Card ownership changed before its research evidence was recorded」，与F2 t_0e763d提交后的情形相同）。因此本轮新增证据与不确定性全部留在：报告§补订1–7、本审计文件§六、`SOURCES.md`末节及`coordination_ledger.md`最后两行。审阅者请以这四处为准，卡片日志止于提交时点。\n"
+   }
+  }
+ ]
+}

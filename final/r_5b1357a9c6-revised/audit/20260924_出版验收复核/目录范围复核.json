@@ -1,0 +1,92 @@
+{
+  "系统元数据": {
+    "files": 6,
+    "unique_hashes_within_category": 6,
+    "bytes": 79896,
+    "not_prior_registered": 6
+  },
+  "研究运行元数据": {
+    "files": 3,
+    "unique_hashes_within_category": 2,
+    "bytes": 6148,
+    "not_prior_registered": 3
+  },
+  "文档转换缓存或运行元数据": {
+    "files": 253,
+    "unique_hashes_within_category": 222,
+    "bytes": 4410667,
+    "not_prior_registered": 121
+  },
+  "抽取索引缓存": {
+    "files": 61374,
+    "unique_hashes_within_category": 59867,
+    "bytes": 1208450588,
+    "not_prior_registered": 61374
+  },
+  "项目元数据或其他": {
+    "files": 1,
+    "unique_hashes_within_category": 1,
+    "bytes": 9561,
+    "not_prior_registered": 0
+  },
+  "卡状态与摘要": {
+    "files": 73,
+    "unique_hashes_within_category": 73,
+    "bytes": 1342243,
+    "not_prior_registered": 0
+  },
+  "下载材料与抽取正文": {
+    "files": 1203,
+    "unique_hashes_within_category": 1199,
+    "bytes": 1478235689,
+    "not_prior_registered": 0
+  },
+  "历史报告或辅助研究": {
+    "files": 361,
+    "unique_hashes_within_category": 333,
+    "bytes": 68019603,
+    "not_prior_registered": 0
+  },
+  "修订稿备份": {
+    "files": 58,
+    "unique_hashes_within_category": 58,
+    "bytes": 22559656,
+    "not_prior_registered": 58
+  },
+  "本次待审书稿及其辅助产物": {
+    "files": 79,
+    "unique_hashes_within_category": 79,
+    "bytes": 25951311,
+    "not_prior_registered": 79
+  },
+  "研究协调与上下文": {
+    "files": 21,
+    "unique_hashes_within_category": 20,
+    "bytes": 9145163,
+    "not_prior_registered": 0
+  },
+  "本轮研究卡": {
+    "files": 673,
+    "unique_hashes_within_category": 669,
+    "bytes": 24975446,
+    "not_prior_registered": 0
+  },
+  "来源登记而非原文": {
+    "files": 73,
+    "unique_hashes_within_category": 73,
+    "bytes": 4363628,
+    "not_prior_registered": 0
+  },
+  "研究卡引用副本": {
+    "files": 5043,
+    "unique_hashes_within_category": 967,
+    "bytes": 5750211851,
+    "not_prior_registered": 0
+  },
+  "前轮研究卡": {
+    "files": 145,
+    "unique_hashes_within_category": 145,
+    "bytes": 28927063,
+    "not_prior_registered": 0
+  }
+}

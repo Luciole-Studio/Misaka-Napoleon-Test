@@ -1,0 +1,22 @@
+{
+  "pages": 67,
+  "inline_types": [
+    "Code",
+    "Emph",
+    "LineBreak",
+    "Link",
+    "SoftBreak",
+    "Space",
+    "Str",
+    "Strong"
+  ],
+  "block_types": [
+    "BlockQuote",
+    "BulletList",
+    "Header",
+    "HorizontalRule",
+    "OrderedList",
+    "Para",
+    "Table"
+  ]
+}

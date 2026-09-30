@@ -1,0 +1,7 @@
+<div id="progress" aria-hidden="true"></div>
+<a id="top-link" href="#title-block-header">回到书首 ↑</a>
+<script>
+(()=>{document.querySelectorAll('table').forEach(t=>{if(t.rows.length&&t.rows[0].cells.length>=5)t.classList.add('wide-table')});const toc=document.getElementById('TOC');if(toc){const hint=document.createElement('p');hint.className='toc-tools';hint.textContent='章节可展开 · 点击引注查看来源 · ⌘/Ctrl + F 搜索';toc.querySelector('h2').after(hint);toc.querySelectorAll(':scope > ul > li').forEach(li=>{const sub=li.querySelector(':scope > ul');if(!sub)return;const link=li.querySelector(':scope > a');const d=document.createElement('details'),s=document.createElement('summary');s.append(link);d.append(s,sub);li.append(d);});}
+const bar=document.getElementById('progress');const update=()=>{const width=innerWidth>760?innerWidth-(parseInt(getComputedStyle(document.documentElement).getPropertyValue('--nav'))||280):innerWidth;const total=document.documentElement.scrollHeight-innerHeight;bar.style.width=(total?Math.min(1,scrollY/total)*width:0)+'px';};addEventListener('scroll',update,{passive:true});addEventListener('resize',update);update();
+const reveal=()=>{if(!location.hash)return;document.querySelectorAll('#TOC a').forEach(a=>{if(a.hash===location.hash){const d=a.closest('details');if(d)d.open=true;}})};addEventListener('hashchange',reveal);reveal();})();
+</script>

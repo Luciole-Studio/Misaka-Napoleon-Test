@@ -1,0 +1,110 @@
+[
+  {
+    "chapter": "00_导论.md",
+    "chars_before": 10639,
+    "chars_after": 11339,
+    "changed": true,
+    "added_lines": 10,
+    "removed_lines": 0,
+    "sha256": "2d7a3714ff976274e7bb6cbdf2e6c182522b9a2fe2e094d5d300c89c91a88fe6"
+  },
+  {
+    "chapter": "01_法国的能力与代价.md",
+    "chars_before": 15688,
+    "chars_after": 18797,
+    "changed": true,
+    "added_lines": 43,
+    "removed_lines": 3,
+    "sha256": "381b48fa4379860ebdb6cf9db723c52c0a100c7b0c664274ee11b8ba9bd5078b"
+  },
+  {
+    "chapter": "02a_英国海权与和平_国家财政与社会.md",
+    "chars_before": 26820,
+    "chars_after": 27867,
+    "changed": true,
+    "added_lines": 21,
+    "removed_lines": 5,
+    "sha256": "63956463bbfb54d802300647da126bc543b15447531708240e3189c9ea764278"
+  },
+  {
+    "chapter": "02b_英国海权与和平_舰队海峡与帝国.md",
+    "chars_before": 44332,
+    "chars_after": 47548,
+    "changed": true,
+    "added_lines": 29,
+    "removed_lines": 14,
+    "sha256": "c54bbf86170cc33dc1f063e61a46a149652310f06eeeda578e190a5eac77e48f"
+  },
+  {
+    "chapter": "03_大陆诸国.md",
+    "chars_before": 28727,
+    "chars_after": 29796,
+    "changed": true,
+    "added_lines": 19,
+    "removed_lines": 1,
+    "sha256": "a6d5d16766c62374e3dea39ccabd7c3497c4d08800f4db4d92041e261bd53cd6"
+  },
+  {
+    "chapter": "04_西班牙与意大利.md",
+    "chars_before": 28868,
+    "chars_after": 30554,
+    "changed": true,
+    "added_lines": 30,
+    "removed_lines": 2,
+    "sha256": "b3365eebae434845ca43168518204e90f0915893d2027bd55b9a7d99f7434f9f"
+  },
+  {
+    "chapter": "05_大西洋与美洲.md",
+    "chars_before": 31631,
+    "chars_after": 34823,
+    "changed": true,
+    "added_lines": 47,
+    "removed_lines": 5,
+    "sha256": "a25a453d036ae71667b6976c85ed64e9697dfc2cbc18950f19717bcf678df2e1"
+  },
+  {
+    "chapter": "06_东方与印度.md",
+    "chars_before": 26562,
+    "chars_after": 29181,
+    "changed": true,
+    "added_lines": 41,
+    "removed_lines": 4,
+    "sha256": "c65abd3fc9b0c2d3920e6cad002105f6a7cfd0a7bf35c5d42982ec65fdd3010b"
+  },
+  {
+    "chapter": "07_行省化的边界.md",
+    "chars_before": 13291,
+    "chars_after": 14883,
+    "changed": true,
+    "added_lines": 25,
+    "removed_lines": 3,
+    "sha256": "38d2c8c85181bb477cb7007a540fb6c39694b33d51937e0ab678efaea4236a57"
+  },
+  {
+    "chapter": "08_新秩序的经济与社会.md",
+    "chars_before": 25022,
+    "chars_after": 28139,
+    "changed": true,
+    "added_lines": 40,
+    "removed_lines": 6,
+    "sha256": "7b81a7d481129b4a6cd431a87755d5c4a63a6ab1ac62898e45a47fe86c718524"
+  },
+  {
+    "chapter": "09_另一条十九世纪.md",
+    "chars_before": 18405,
+    "chars_after": 20609,
+    "changed": true,
+    "added_lines": 49,
+    "removed_lines": 19,
+    "sha256": "df432b2f7fb769698122dd5d6a5f8054afb07daf8d54e058e5a3d8ca33ff343a"
+  },
+  {
+    "chapter": "10_资料附编.md",
+    "chars_before": 20739,
+    "chars_after": 31634,
+    "changed": true,
+    "added_lines": 78,
+    "removed_lines": 5,
+    "sha256": "1476742493f7b7c9fb1ea9c223eeb15914100ab2ca9c17e51583fa637bf95162"
+  }
+]

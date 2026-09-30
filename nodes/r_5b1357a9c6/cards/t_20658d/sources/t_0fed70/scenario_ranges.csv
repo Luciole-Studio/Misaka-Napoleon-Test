@@ -1,0 +1,6 @@
+scenario,exports_1844GBP_equivalent_low_GBPm,exports_1844GBP_equivalent_high_GBPm,central_cost_1848GBP_equivalent_low_GBPm,central_cost_1848GBP_equivalent_high_GBPm,soldiers_low,soldiers_high,status
+S1,6.4,9.6,2.60,4.0,28000,42000,judgment_range_not_statistical_confidence_interval
+S2,8.0,12.0,3.40,5.40,35000,50000,judgment_range_not_statistical_confidence_interval
+S3,6.4,12.8,5.00,8.0,40000,65000,judgment_range_not_statistical_confidence_interval
+S5_from_S2,9.6,16.0,3.2,5.2,32000,48000,judgment_range_not_statistical_confidence_interval
+S6,5.6,12.0,5.2,9.00,40000,70000,judgment_range_not_statistical_confidence_interval

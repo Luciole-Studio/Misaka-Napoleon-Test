@@ -1,0 +1,503 @@
+# Sources — nodes/r_5b1357a9c6/cards/t_c69786 — [t_c69786] 英国政治：内阁、议会、王室、和平党与登陆后的决策
+
+Written by misaka when the products here were settled and rebuilt from scratch each time, so edit nothing in this file or under the sources folder. Each file there is a hard link to where it already lives in the project (a copy only where a hard link was not possible); the originals never move. Cite original project files, not this bundle's disposable sources paths.
+
+## Products
+
+- `B1_britain_politics.md` — [t_c69786] B1_britain_politics.md (task_output)
+- `B1a_landing_decision.md` — [t_c69786] B1a_landing_decision.md (task_output)
+- `B1b_acceptance_equilibrium.md` — [t_c69786] B1b_acceptance_equilibrium.md (task_output)
+- `B1c_1815_1848.md` — [t_c69786] B1c_1815_1848.md (task_output)
+- `VALIDATION.md` — [t_c69786] VALIDATION.md (task_output)
+- `VALIDATION_bounded_update.json` — [t_c69786] VALIDATION_bounded_update.json (task_output)
+- `notes_1812_check.md` — [t_c69786] notes_1812_check.md (task_output)
+- `notes_administration_population.md` — [t_c69786] notes_administration_population.md (task_output)
+- `notes_amiens_orders.md` — [t_c69786] notes_amiens_orders.md (task_output)
+- `notes_budget1815.md` — [t_c69786] notes_budget1815.md (task_output)
+- `notes_capacity.md` — [t_c69786] notes_capacity.md (task_output)
+- `notes_capacity_update.md` — [t_c69786] notes_capacity_update.md (task_output)
+- `notes_competing_accounts.md` — [t_c69786] notes_competing_accounts.md (task_output)
+- `notes_constitution_1803_1811.md` — [t_c69786] notes_constitution_1803_1811.md (task_output)
+- `notes_factions 2.md` — [t_c69786] notes_factions 2.md (task_output)
+- `notes_factions.md` — [t_c69786] notes_factions.md (task_output)
+- `notes_french_terms_navy.md` — [t_c69786] notes_french_terms_navy.md (task_output)
+- `notes_ireland_press.md` — [t_c69786] notes_ireland_press.md (task_output)
+- `notes_landing.md` — [t_c69786] notes_landing.md (task_output)
+- `notes_local_evacuation_correction.md` — [t_c69786] notes_local_evacuation_correction.md (task_output)
+- `notes_negotiations.md` — [t_c69786] notes_negotiations.md (task_output)
+- `notes_postwar.md` — [t_c69786] notes_postwar.md (task_output)
+- `notes_reform.md` — [t_c69786] notes_reform.md (task_output)
+
+## Cited sources (under `sources/`)
+
+- `sources/B1_chambray1812_part14.pdf` ← `downloads/B1_chambray1812_part14.pdf`
+  - "B1_chambray1812_part14.pdf"
+  - sha256 c2c708a552dc94a8266e9a0c9c80b07a580f7e6a42f88efce72af1aa280fa229
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_1812_check.md`
+- `sources/B2_BoE_millennium_v31.xlsx` ← `downloads/B2_BoE_millennium_v31.xlsx`
+  - sha256 4c23dd392a498691eac92659aec283fb43f28118bd80511dc87fc595974195eb
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_capacity.md`
+- `sources/B4_Chilcott_Maintaining_British_Army_2006.pdf` ← `downloads/B4_Chilcott_Maintaining_British_Army_2006.pdf`
+  - "B4_Chilcott_Maintaining_British_Army_2006.pdf"
+  - sha256 ad3fc15a73a7a20c5655647ecdac5e25659bee8408a4eab32b5a0e015abc5085
+  - cited by [t_c69786] "Chilcott印页242–243转引1803-11-19 Sarum郡会议命令，仍安排居民、牲畜撤移路线与给养。故Fortescue对10/31某版广泛方案‘abandoned’的记载不能外推为所…" (fact) — "the greater part of this county is highly favourable for the removal, not only of inhabitants, but …"
+  - cited as `doc:ad3fc15a73a7#p251` by [t_c69786] "Chilcott印页242–243转引1803-11-19 Sarum郡会议命令，仍安排居民、牲畜撤移路线与给养。故Fortescue对10/31某版广泛方案‘abandoned’的记载不能外推为所…" (fact) — "the greater part of this county is highly favourable for the removal, not only of inhabitants, but …"
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_local_evacuation_correction.md`
+- `sources/c11_fortescueV.txt` ← `downloads/c11_fortescueV.txt`
+  - "c11_fortescueV.txt"
+  - sha256 a6d48ed701112955995a65a583cb7f966e130f101a163734a6d936ec55356733
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_landing.md`
+- `sources/c15_heckscher1922.pdf` ← `downloads/c15_heckscher1922.pdf`
+  - "c15_heckscher1922.pdf"
+  - sha256 1baaae7f3185eb96c40c95891dcd3efbf6da2426bd782d06bc4a3b81e7149a5a
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_capacity.md`
+- `sources/c16_navickas2005.pdf` ← `downloads/c16_navickas2005.pdf`
+  - "c16_navickas2005.pdf"
+  - sha256 3c4c39c323295ceea4eeabc42c8894dfe67f8bb6b6e1973f083bf5ec841886ea
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+- `sources/pages/06ff00adf220.md` ← `downloads/pages/06ff00adf220.md`
+  - "Story of the Census" — https://www.ons.gov.uk/visualisations/storyofthecensus/
+  - sha256 06ff00adf220ca916efc5f0c9c14fc67fa9a2cf65e24fdc731670095c123c346
+  - cited as `https://www.ons.gov.uk/visualisations/storyofthecensus/` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.ons.gov.uk/visualisations/storyofthecensus/` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_administration_population.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_administration_population.md`
+- `sources/pages/0b0e283a3d34.md` ← `downloads/pages/0b0e283a3d34.md`
+  - "Men of Invention and Industry/Chapter VII - Wikisource, the free online library" — https://en.wikisource.org/wiki/Men_of_Invention_and_Industry/Chapter_VII
+  - sha256 0b0e283a3d341602963c0e4f6d7a797cfcb0d63b8c3a7a6ba1c68183edb06c68
+  - cited as `https://en.wikisource.org/wiki/Men_of_Invention_and_Industry/Chapter_VII` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://en.wikisource.org/wiki/Men_of_Invention_and_Industry/Chapter_VII` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_ireland_press.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_ireland_press.md`
+- `sources/pages/156d03703582.md` ← `downloads/pages/156d03703582.md`
+  - "SEPARATE CHARGES. (Hansard, 14 June 1815)" — https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges
+  - sha256 156d03703582cdcbbd9d85faef34060f6b7e654a7334cd7e9ee6d8b31b3983c2
+  - cited by [t_c69786] "1815财政大臣Vansittart公开提出法国若与大陆列强达成安排，可把当前陆军拨款改用于海军，证实大陆伙伴脱战后的陆转海为当时桌面选项；不证明它已执行或英国已承认法国欧洲秩序。" (fact) — "that expense now incurred for our armies would cease, and the supplies at present demanded for them…"
+  - cited by [t_c69786] "同场Tierney质疑欠款不会重生和开支估计；Vansittart也承认海员裁减因归航人员补领欠饷而增加当期现金支出。模型因此须保留清欠与转型滞后。" (fact) — "there seemed no reason to doubt that similar arrears would again accumulate"
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_budget1815.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_budget1815.md`
+- `sources/pages/18d0e5c351dd.md` ← `downloads/pages/18d0e5c351dd.md`
+  - "Histoire de la Campagne de Russie | The Napoleon Series" — https://www.napoleon-series.org/military-information/battles-and-campaigns/histoire-de-la-campagne-de-russie/
+  - sha256 18d0e5c351dda3b8a244a657e8d1f7e16c8f81f86a7d79cefc8ce3972b5b6bfb
+  - cited as `https://www.napoleon-series.org/military-information/battles-and-campaigns/histoire-de-la-campagne-de-russie/` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.napoleon-series.org/military-information/battles-and-campaigns/histoire-de-la-campagne-de-russie/` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_1812_check.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_1812_check.md`
+- `sources/pages/19a912642825.md` ← `downloads/pages/19a912642825.md`
+  - "History of Parliament Online" — https://historyofparliamentonline.org/volume/1790-1820/parliament/1807
+  - sha256 19a9126428253bfd99de6ab9666b2e191100c720a9be1605509f411ddfb81ad1
+  - cited as `https://historyofparliamentonline.org/volume/1790-1820/parliament/1807` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://historyofparliamentonline.org/volume/1790-1820/parliament/1807` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions 2.md`
+  - cited as `https://historyofparliamentonline.org/volume/1790-1820/parliament/1807` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+- `sources/pages/219f06b950cc.md` ← `downloads/pages/219f06b950cc.md`
+  - "The 'New Opposition', 1801-4 | History of Parliament Online" — https://www.historyofparliamentonline.org/periods/hanoverians/new-opposition-1801-4
+  - sha256 219f06b950ccc2a3f5d48182c19089eb494b25c3bee0dc5d94782eaa8934ae2b
+  - cited as `https://www.historyofparliamentonline.org/periods/hanoverians/new-opposition-1801-4` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.historyofparliamentonline.org/periods/hanoverians/new-opposition-1801-4` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions 2.md`
+  - cited as `https://www.historyofparliamentonline.org/periods/hanoverians/new-opposition-1801-4` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+- `sources/pages/24084fc70707.md` ← `downloads/pages/24084fc70707.md`
+  - "British anti-invasion preparations of 1803–05" — https://en.wikipedia.org/wiki/British_anti-invasion_preparations_of_1803%E2%80%9305
+  - sha256 24084fc70707d572f724d614c899e1c3897f4b4910fe7b3fb47167de84fba241
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_landing.md`
+- `sources/pages/39348d986bea.md` ← `downloads/pages/39348d986bea.md`
+  - "Cobbett’s Weekly Political Register. London, Saturday, 30th July, 1803." — https://doi.org/10.4324/9781003192756-4
+  - sha256 39348d986beae5fde02aa14ca6939e805d3dea34ca9258787eb7c3988209a06a
+  - cited as `https://doi.org/10.4324/9781003192756-4` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://doi.org/10.4324/9781003192756-4` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_ireland_press.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_ireland_press.md`
+- `sources/pages/3ba1fc65757f.md` ← `downloads/pages/3ba1fc65757f.md`
+  - "PAPER MONEY, THE NATION, AND THE SUSPENSION OF CASH PAYMENTS IN 1797* | The Historical Journal | Cambridge Core" — https://www.cambridge.org/core/journals/historical-journal/article/paper-money-the-nation-and-the-suspension-of-cash-payments-in-1797/1035B94E7519E13F94C3506264B81454
+  - sha256 3ba1fc65757f82ac6f0a794af073fa98a12d4436e76373f6352451dbc68c6e00
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.cambridge.org/core/journals/historical-journal/article/paper-money-the-nation-and-the-suspension-of-cash-payments-in-1797/1035B94E7519E13F94C3506264B81454` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_landing.md`
+- `sources/pages/3dbf2623d42f.md` ← `downloads/pages/3dbf2623d42f.md`
+  - "COMMUNICATIONS WITH FRANCE AND SPAIN RELATING TO THE SPANISH AMERICAN PROVINCES. (Hansard, 4 March 1824)" — https://api.parliament.uk/historic-hansard/commons/1824/mar/04/communications-with-france-and-spain-1
+  - sha256 3dbf2623d42f010d61526fb9d392be22960a74d65c5d68aef575591ff5c118c7
+  - cited by [t_c69786] "1823 Canning–Polignac备忘录把外国武力介入西属美洲视为新的问题，并将立即承认分离国家作为可能反应；支持以贸易、承认和海军构成蓝水战略的机制，而非自动复制史实拉美独立时程。" (fact) — "it would consider any foreign interference, by force or by menace, in the dispute between Spain and…"
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1824/mar/04/communications-with-france-and-spain-1` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1824/mar/04/communications-with-france-and-spain-1` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_postwar.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_postwar.md`
+- `sources/pages/3fee8d23eab4.md` ← `downloads/pages/3fee8d23eab4.md`
+  - "The Reform Act 1832 -" — https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseofcommons/reformacts/overview/reformact1832/
+  - sha256 3fee8d23eab4d2bfc0e8f6a530b181ae764d23f421fabc4317f1c162f01a6ef4
+  - cited as `https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseofcommons/reformacts/overview/reformact1832/` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseofcommons/reformacts/overview/reformact1832/` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_reform.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_reform.md`
+- `sources/pages/486fa35af2c9.md` ← `downloads/pages/486fa35af2c9.md`
+  - "King George's Declaration on the Breakdown of the Peace, 18 May 1803" — https://www.napoleon-series.org/research/government/diplomatic/c_george2.html
+  - sha256 486fa35af2c98cd7076ac56294b9109451e1245db0e8a50331db9855d45f0084
+  - cited as `https://www.napoleon-series.org/research/government/diplomatic/c_george2.html` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.napoleon-series.org/research/government/diplomatic/c_george2.html` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_constitution_1803_1811.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_constitution_1803_1811.md`
+- `sources/pages/5550fd06ab38.md` ← `downloads/pages/5550fd06ab38.md`
+  - "Napoleon and the Invasion in England - PDF Free Download" — https://epdf.tips/napoleon-and-the-invasion-in-england.html
+  - sha256 5550fd06ab3855fd108cb6d228e1197ebba61567509b05e3671a6b6116eeb602
+  - cited as `https://epdf.tips/napoleon-and-the-invasion-in-england.html` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_landing.md`
+  - cited as `https://epdf.tips/napoleon-and-the-invasion-in-england.html` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_landing.md`
+- `sources/pages/63ae275f32de.md` ← `downloads/pages/63ae275f32de.md`
+  - "1812now: April 17 1812: Napoleon's Peace Offer" — http://1812now.blogspot.com/2012/04/april-17-1812-napoleons-peace-offer.html
+  - sha256 63ae275f32de43858dfb22c41845ae41557db6987a0d263fc0b12887cc4bb82c
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_ireland_press.md`
+- `sources/pages/6e996221a1d1.md` ← `downloads/pages/6e996221a1d1.md`
+  - "NEGOCIATION WITH FRANCE. (Hansard, 30 December 1806)" — https://api.parliament.uk/historic-hansard/commons/1806/dec/30/negociation-with-france
+  - sha256 6e996221a1d15966b6a45396aa12a93bfc82e47ac90fc7c47f75558967747049
+  - cited by [t_c69786] "1806年12月30日c250 Yarmouth叙述Talleyrand口头实际占有＋等价交换基础；同场c248承认没有可提交的法方正式承认文件。两者共同约束反事实，不支持完整保证包早已存在。" (fact) — "there were certainly no papers that could be produced in which the uti possidetis was recognized fo…"
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1806/dec/30/negociation-with-france` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1806/dec/30/negociation-with-france` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_french_terms_navy.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_french_terms_navy.md`
+- `sources/pages/7f93512d05f7.md` ← `downloads/pages/7f93512d05f7.md`
+  - "The Royal Navy 1793-1815 - PDF Free Download" — https://epdf.tips/the-royal-navy-1793-1815.html
+  - sha256 7f93512d05f7f8a4ab63996be7ba94c49876829622b752f46a63ab954a2afa10
+  - cited by [t_c69786] "海军驻区继承未执行命令与非泰晤士基地，支持短期失联仍可组织行动；依赖合法指挥、基地交通、供应商信任和支付，不能推出首都失守后无限续战。" (inference) — "the new commander inherited the standing or unexecuted orders of his predecessor"
+  - cited as `https://epdf.tips/the-royal-navy-1793-1815.html` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://epdf.tips/the-royal-navy-1793-1815.html` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_french_terms_navy.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_french_terms_navy.md`
+- `sources/pages/809d3495176a.md` ← `downloads/pages/809d3495176a.md`
+  - "Treaty of Amiens, March 25, 1802 - Official text" — https://www.napoleon-empire.org/en/official-texts/treaty-of-amiens.php
+  - sha256 809d3495176a8dc3fb6df3ea9c7860403bd056f92010e10c66e029569ca13640
+  - cited by [t_c69786] "亚眠XIII–XIV确有财产保护、解除双方资金收益债权扣押与个人债权司法救济，不能遗漏；但不等于法国保证战败英国全部公债偿付、议会不受干预或不夺舰。" (fact) — "All the sequestrations laid on either side on funds, revenues, and credits, of what nature soever t…"
+  - cited as `https://www.napoleon-empire.org/en/official-texts/treaty-of-amiens.php` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.napoleon-empire.org/en/official-texts/treaty-of-amiens.php` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_amiens_orders.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_amiens_orders.md`
+- `sources/pages/83caafca03de.md` ← `downloads/pages/83caafca03de.md`
+  - "Full text of "The Peace Tactics of Napoleon 1806-1808"" — https://archive.org/stream/peacetacticsofna0000hbut/peacetacticsofna0000hbut_djvu.txt
+  - sha256 83caafca03de052bad36ecb0bce9c5ad66c39bc2dd2f1a63ef3f5efc707941f2
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_negotiations.md`
+- `sources/pages/85d915a3148f.md` ← `downloads/pages/85d915a3148f.md`
+  - "NEGOCIATION WITH FRANCE. (Hansard, 2 January 1807)" — https://api.parliament.uk/historic-hansard/lords/1807/jan/02/negociation-with-france
+  - sha256 85d915a3148fb773ac750222b0c6e32970828a67a63c3163fe03183a8e0eaa54
+  - cited as `https://api.parliament.uk/historic-hansard/lords/1807/jan/02/negociation-with-france` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_negotiations.md`
+  - cited as `https://api.parliament.uk/historic-hansard/lords/1807/jan/02/negociation-with-france` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_negotiations.md`
+- `sources/pages/8f32cf6e5188.md` ← `downloads/pages/8f32cf6e5188.md`
+  - "VOTE OF CREDIT. (Hansard, 5 June 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/jun/05/vote-of-credit
+  - sha256 8f32cf6e5188af7603155deddd23cd510151aa76cc1dfe0dd35d8e16d91e9c4e
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_constitution_1803_1811.md`
+- `sources/pages/9e5e88f140a4.md` ← `downloads/pages/9e5e88f140a4.md`
+  - "Metropolitan Police - UK Parliament" — https://www.parliament.uk/about/living-heritage/transformingsociety/laworder/policeprisons/overview/metropolitanpolice/
+  - sha256 9e5e88f140a427ada967277501e72aa57ced9a63e3d00186279bd62bc672e570
+  - cited as `https://www.parliament.uk/about/living-heritage/transformingsociety/laworder/policeprisons/overview/metropolitanpolice/` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.parliament.uk/about/living-heritage/transformingsociety/laworder/policeprisons/overview/metropolitanpolice/` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_administration_population.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_administration_population.md`
+- `sources/pages/9fc696fc8978.md` ← `downloads/pages/9fc696fc8978.md`
+  - "Avalon Project - Blackstone's Commentaries on the Laws of England - Book the First : Chapter the Seventh : Of the King'…" — https://avalon.law.yale.edu/18th_century/blackstone_bk1ch7.asp
+  - sha256 9fc696fc89787b0500bf8df5a5a8711fbfbb16792afe39042e23b7c1e3c0242b
+  - cited as `https://avalon.law.yale.edu/18th_century/blackstone_bk1ch7.asp` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://avalon.law.yale.edu/18th_century/blackstone_bk1ch7.asp` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_constitution_1803_1811.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_constitution_1803_1811.md`
+- `sources/pages/a7582cb284e4.md` ← `downloads/pages/a7582cb284e4.md`
+  - "1797: Suspension of cash payments by the Bank of England | The Statutes Project" — https://statutes.org.uk/site/the-statutes/privy-council-orders/1797-suspension-of-cash-payments-by-the-bank-of-england/
+  - sha256 a7582cb284e4cdeab3b969d9be01be29e097bace807564d22b3fc7f90d7ed814
+  - cited as `https://statutes.org.uk/site/the-statutes/privy-council-orders/1797-suspension-of-cash-payments-by-the-bank-of-england/` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://statutes.org.uk/site/the-statutes/privy-council-orders/1797-suspension-of-cash-payments-by-the-bank-of-england/` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_landing.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_landing.md`
+- `sources/pages/ac60ac018ef2.md` ← `downloads/pages/ac60ac018ef2.md`
+  - "KING'S SPEECH.— (Hansard, 22 November 1803)" — https://api.parliament.uk/historic-hansard/commons/1803/nov/22/kings-speech
+  - sha256 ac60ac018ef203c603586d13e8a281ddcad4e14c62dac26ea7a4e86a1baa15f8
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1803/nov/22/kings-speech` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1803/nov/22/kings-speech` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_constitution_1803_1811.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_constitution_1803_1811.md`
+- `sources/pages/b382c307bdac.md` ← `downloads/pages/b382c307bdac.md`
+  - "Petitions and the Corn Laws" — https://committees.parliament.uk/committee/326/petitions-committee/news/99040/petitions-and-the-corn-laws
+  - sha256 b382c307bdaceb4c36d4b8f1ee6d96f774abe46c31730668d642113c29da0cd1
+  - cited as `https://committees.parliament.uk/committee/326/petitions-committee/news/99040/petitions-and-the-corn-laws` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://committees.parliament.uk/committee/326/petitions-committee/news/99040/petitions-and-the-corn-laws` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_postwar.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_postwar.md`
+- `sources/pages/cfd2c9f1cdc0.md` ← `downloads/pages/cfd2c9f1cdc0.md`
+  - "The London Gazette" — https://www.thegazette.co.uk/London/issue/16100/data.pdf
+  - sha256 cfd2c9f1cdc0bba5e4a643b7bd50e06e2d90b776ffc90a058aa206bb342ff390
+  - cited as `https://www.thegazette.co.uk/London/issue/16100/data.pdf` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+- `sources/pages/d01fe4f39a0e.md` ← `downloads/pages/d01fe4f39a0e.md`
+  - "An Act for the Union of Great Britain and Ireland - UK Parliament" — https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliamentandireland/collections/ireland/act-of-union-1800/
+  - sha256 d01fe4f39a0e962509f97901a666959a9221e39c7cd083fca348e57fd7cd1676
+  - cited as `https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliamentandireland/collections/ireland/act-of-union-1800/` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliamentandireland/collections/ireland/act-of-union-1800/` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_ireland_press.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_ireland_press.md`
+- `sources/pages/d9d4b8071970.md` ← `downloads/pages/d9d4b8071970.md`
+  - "THE FRIENDS OF PEACE" — https://doi.org/10.1017/cbo9780511896422.001
+  - sha256 d9d4b8071970c061cc3fb72eca85ac2a692f1e0edaec3dcf72d34ac4e0247b12
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+- `sources/pages/e5b32951df65.md` ← `downloads/pages/e5b32951df65.md`
+  - "Crouzet (François). L'économie britannique et le blocus continental (1806- 1813). - Persée" — https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2
+  - sha256 e5b32951df65af85fa89a555ec74437a5be6a7cc2c23e01905f838c7f6a71116
+  - cited as `https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_competing_accounts.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_competing_accounts.md`
+- `sources/pages/eed9d8bd2a73.md` ← `downloads/pages/eed9d8bd2a73.md`
+  - "The Chartist petition of 1842" — https://committees.parliament.uk/committee/326/petitions-committee/news/99148/the-chartist-petition-of-1842/
+  - sha256 eed9d8bd2a73aae3707b45a6c430237c227998784b46f557362707056d1b793d
+  - cited as `https://committees.parliament.uk/committee/326/petitions-committee/news/99148/the-chartist-petition-of-1842/` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://committees.parliament.uk/committee/326/petitions-committee/news/99148/the-chartist-petition-of-1842/` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_postwar.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_postwar.md`
+- `sources/pages/ef0538cb3aa9.md` ← `downloads/pages/ef0538cb3aa9.md`
+  - "DECLARATION OF THE COURT OF GREAT BRITAIN RESPECTING THE ORDERS IN COUNCIL. (Hansard, 24 April 1812)" — https://api.parliament.uk/historic-hansard/lords/1812/apr/24/declaration-of-the-court-of-great
+  - sha256 ef0538cb3aa973c9a49c07b27434d967195a24e69afa328849a37571e7a8b062
+  - cited by [t_c69786] "1812年6月23日枢密令只对美国船舶及美国财产货物撤销指定命令，并保留合理通知后恢复权，不等于英国全面放弃海权或对法战争。" (fact) — "so far as may regard American vessels, and their cargoes being American property, from the 1st of A…"
+  - cited as `https://api.parliament.uk/historic-hansard/lords/1812/apr/24/declaration-of-the-court-of-great` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://api.parliament.uk/historic-hansard/lords/1812/apr/24/declaration-of-the-court-of-great` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_amiens_orders.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_amiens_orders.md`
+- `sources/pages/f05f29e8e29a.md` ← `downloads/pages/f05f29e8e29a.md`
+  - "THE PRINCE REGENT'S SPEECH ON OPENING THE SESSION. (Hansard, 30 November 1812)" — https://api.parliament.uk/historic-hansard/commons/1812/nov/30/the-prince-regents-speech-on-opening-the
+  - sha256 f05f29e8e29adfe8176047b65ab84e11ca57ff87381f24a1dce11a5eebe0bd60
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1812/nov/30/the-prince-regents-speech-on-opening-the` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+- `sources/pages/f0fc864b4685.md` ← `downloads/pages/f0fc864b4685.md`
+  - "1806 | History of Parliament Online" — https://www.historyofparliamentonline.org/volume/1790-1820/parliament/1806
+  - sha256 f0fc864b46851f9a84c5b9f847921a312340fcafafa8ee75b7ce7df97b5db337
+  - cited by [t_c69786] "1806 Talents获得选举多数仍因国王要求对天主教问题作终身不再提出的保证而倒阁，表明和平派多数与可持续执政不是同一门槛。" (fact) — "When the king demanded a pledge that the ministers, some of whom wished to make further concessions…"
+  - cited as `https://www.historyofparliamentonline.org/volume/1790-1820/parliament/1806` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.historyofparliamentonline.org/volume/1790-1820/parliament/1806` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+- `sources/pages/f8a4fd8bfe1b.md` ← `downloads/pages/f8a4fd8bfe1b.md`
+  - "Chronologie de la Correspondance générale de Napoléon Bonaparte, tome 12 : La campagne de Russie. 1812 - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/chronologies/chronologie-de-la-correspondance-generale-de-napoleon-bonaparte-tome-12-la-campagne-de-russie-1812/
+  - sha256 f8a4fd8bfe1bd76337662c9079dd8ec17a003bda1bac1a8ceb9834e0c79b11ab
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/chronologies/chronologie-de-la-correspondance-generale-de-napoleon-bonaparte-tome-12-la-campagne-de-russie-1812/` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/chronologies/chronologie-de-la-correspondance-generale-de-napoleon-bonaparte-tome-12-la-campagne-de-russie-1812/` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_1812_check.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_1812_check.md`
+- `sources/pages/fcdc56f810a6.md` ← `downloads/pages/fcdc56f810a6.md`
+  - "Emancipation - UK Parliament" — https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/religion/overview/emancipation/
+  - sha256 fcdc56f810a6cc41eba9b949f3a1f9dac54f37c767dec872889c3f64c7803f6c
+  - cited as `https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/religion/overview/emancipation/` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/religion/overview/emancipation/` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_ireland_press.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_ireland_press.md`
+- `sources/t_044211/B2_britain_fiscal.md` ← `nodes/r_5b1357a9c6/cards/t_044211/B2_britain_fiscal.md`
+  - "[t_c69786] nodes/r_5b1357a9c6/cards/t_044211/B2_britain_fiscal.md"
+  - sha256 258c4b9b3d88429e5b9ddb8ef8b006572579441f48df4f78332dc921d37ea161
+  - cited by [t_c69786] "采用B2较新模型：政府/账簿/税网保全时数周至两季度清算危机、6–18月重建。B1之1–3月是持续军事压力、无迅速恢复路径和有限条款汇合的政治议价区间；若可信支付/基地仍在，则3–6月首战季续战与之…" (inference)
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_capacity_update.md`
+- `sources/t_044211/B2_series.csv` ← `nodes/r_5b1357a9c6/cards/t_044211/B2_series.csv`
+  - "[t_044211] nodes/r_5b1357a9c6/cards/t_044211/B2_series.csv"
+  - sha256 9471f96d88da8acc8e549255a93725001efdfedadb4df5777e70b9a402feec30
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+- `sources/t_998052/model_assumptions.md` ← `nodes/r_5b1357a9c6/cards/t_998052/model_assumptions.md`
+  - "[t_998052] nodes/r_5b1357a9c6/cards/t_998052/model_assumptions.md"
+  - sha256 f67b835b4c942b49a74a93da25c34bc1c68ef767448551c623d02b940933c5d6
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_capacity_update.md`
+- `sources/t_b9e29c/notes_Chilcott_2006.md` ← `nodes/r_5b1357a9c6/cards/t_b9e29c/notes_Chilcott_2006.md`
+  - "[t_b9e29c] nodes/r_5b1357a9c6/cards/t_b9e29c/notes_Chilcott_2006.md"
+  - sha256 1e2cb5bb44226b768e8da4913642e71cf73beb4153b273b97a8a55311de0ac73
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+- `sources/t_2c338c/britdef.md` ← `nodes/r_b55f2c1cf5/cards/t_2c338c/britdef.md`
+  - "[t_2c338c] nodes/r_b55f2c1cf5/cards/t_2c338c/britdef.md"
+  - sha256 77484c7b39cb5017056764fed2cc0b1db65b5b65480fadee3b4617fff168e82c
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_landing.md`
+- `sources/t_2c338c/hurd_letter.md` ← `nodes/r_b55f2c1cf5/cards/t_2c338c/hurd_letter.md`
+  - "[t_2c338c] nodes/r_b55f2c1cf5/cards/t_2c338c/hurd_letter.md"
+  - sha256 2c823f19dd3b2328e3041a6174da2e9e73bf4040ef84d0bbe46c650ad8dabe95
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_landing.md`
+- `sources/t_3dc3c2/peace_evidence.md` ← `nodes/r_b55f2c1cf5/cards/t_3dc3c2/peace_evidence.md`
+  - "[t_3dc3c2] nodes/r_b55f2c1cf5/cards/t_3dc3c2/peace_evidence.md"
+  - sha256 39048d19cdae176280f853a0cfb8429eee7b949efb47c4937fbb0fb365e65795
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_capacity_update.md`
+- `sources/t_75e9a5/peace_evidence.md` ← `nodes/r_b55f2c1cf5/cards/t_75e9a5/peace_evidence.md`
+  - "[t_75e9a5] nodes/r_b55f2c1cf5/cards/t_75e9a5/peace_evidence.md"
+  - sha256 f1c01ef90988d7b1dab20a00a60959948e4c4d5b75535b8ea76aedea5d837039
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_negotiations.md`
+- `sources/t_b7b7b1/c16_britain_under_defeat.md` ← `nodes/r_b55f2c1cf5/cards/t_b7b7b1/c16_britain_under_defeat.md`
+  - "[t_b7b7b1] nodes/r_b55f2c1cf5/cards/t_b7b7b1/c16_britain_under_defeat.md"
+  - sha256 7fa245e072a070eac90185ab23eaa0ac0449c42b198997ede02d11166646f30e
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+- `sources/t_b7b7b1/evacuation_evidence.md` ← `nodes/r_b55f2c1cf5/cards/t_b7b7b1/evacuation_evidence.md`
+  - "[t_b7b7b1] nodes/r_b55f2c1cf5/cards/t_b7b7b1/evacuation_evidence.md"
+  - sha256 8b506e4538b1264aa1eb69e026e61fb77be17e586cd93614dd19e881d06fdf21
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_landing.md`
+- `sources/t_b7b7b1/trade_evidence.md` ← `nodes/r_b55f2c1cf5/cards/t_b7b7b1/trade_evidence.md`
+  - "[t_b7b7b1] nodes/r_b55f2c1cf5/cards/t_b7b7b1/trade_evidence.md"
+  - sha256 cad6a0e3fa098a3813cf2071dc75332a81029e39d516c6d1381befb3991a1cf1
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+
+## Cited, already in this folder
+
+- `B1a_landing_decision.md`
+  - cited by [t_c69786] "政府内迁与媾和并不互斥：在保存合法授权后进行条件议价，比伦敦失守即降或永久续战更符合目前证据包络；1–3个月只是持续军事压力且有限要价下的模型时间窗。" (inference)
+- `B1b_acceptance_equilibrium.md`
+  - cited by [t_c69786] "在位保守政府也可媾和，和平网络不自动转化执政多数；稳固和平需要王冠认可、盟友处置、海军安全及真实商业开放的组合。" (inference)
+  - cited by [t_c69786] "英国接受法国大陆优势的较可行方式是保留独立海权、王朝议会、公债与可执行商业准入的有条件和平；无盟友S2中心签约窗口为1811–14，不要求Whitbread独立执政。" (inference)
+- `B1c_1815_1848.md`
+  - cited by [t_c69786] "最大行省化可以得到英国短期默认，但若同时永久排除贸易、集中沿海战争能力并威胁英国主权，稳定跨继承的英国中立较不可能；重新联盟须同时具备威胁、可战伙伴及国内供款。" (inference)
+- `notes_1812_check.md`
+  - cited by [t_c69786] "1812年对西班牙Joseph王朝的接受障碍足以否定‘只保葡萄牙和西西里就能和平’的低底价模型，但未证英国要求法国全面退至1792边界。" (inference)
+
+## Consulted but not cited (left where they are)
+
+- `downloads/B2_BoE_balance_sheet.xlsx` — "B2_BoE_balance_sheet.xlsx"
+- `downloads/B2_Bordo_White_WP3517.pdf` — "B2_Bordo_White_WP3517.pdf"
+- `downloads/B4_Cary_itinerary_edition_unverified.txt` — "B4_Cary_itinerary_edition_unverified.txt"
+- `downloads/B4_Cary_itinerary_scan.pdf` — "B4_Cary_itinerary_scan.pdf"
+- `downloads/B4_Fortescue_CountyLieutenancies1909.pdf` — "B4_Fortescue_CountyLieutenancies1909.pdf"
+- `downloads/B4_Fortescue_CountyLieutenancies1909.txt` — "B4_Fortescue_CountyLieutenancies1909.txt"
+- `downloads/B4_Linch_recruitment_1807_1815.pdf` — "B4_Linch_recruitment_1807_1815.pdf"
+- `downloads/James_1837_v3_ETH.pdf` — "James_1837_v3_ETH.pdf"
+- `downloads/c11_desbriere_02.txt` — "c11_desbriere_02.txt"
+- `downloads/c11_desbriere_p399.png`
+- `downloads/c11_desbriere_verified_p444.png`
+- `downloads/c11_desbriere_verified_p445.png`
+- `downloads/f2_oman_vol4.txt` — "f2_oman_vol4.txt"
+- `downloads/pages/004521d1e27f.md` — "The Financial Crisis of 1825 and the Restructuring of the British Financial System" — https://doi.org/10.20955/r.80.53-76
+- `downloads/pages/0055bf372201.md` — "NAVY ESTIMATES. (Hansard, 13 May 1814)" — https://api.parliament.uk/historic-hansard/commons/1814/may/13/navy-estimates
+- `downloads/pages/00a2dabd2063.md` — "Naval history of Great Britain by William James - Abstract No 17 - 1809" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_17.html
+- `downloads/pages/05ae2a02c794.md` — "1812 - State of the British Navy, Russia declares war against France" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/P_040.html
+- `downloads/pages/07fe5b14e4c3.md` — "The Apotheosis of the Rentier: How Napoleonic War Finance Kick-Started the Industrial Revolution | Cato Institute" — https://www.cato.org/cato-journal/fall-2018/apotheosis-rentier-how-napoleonic-war-finance-kick-started-industrial
+- `downloads/pages/0955a786ba40.md` — "Cary's New Itinerary 1802, page 1" — https://lakesguides.co.uk/html/LakesTxt/cy38p001.htm
+- `downloads/pages/0d6cf343de4a.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_19.html
+- `downloads/pages/1170b6cb87a9.md` — "THE BUDGET (Hansard, 12 May 1809)" — https://api.parliament.uk/historic-hansard/commons/1809/may/12/the-budget
+- `downloads/pages/146cbc594a66.md` — "1803 - Abstract" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_III/Abstract_No_11.html
+- `downloads/pages/1b22dbe49e2a.md` — "Research guide M2: Press gangs and impressment | Royal Museums Greenwich" — https://www.rmg.co.uk/collections/research-guides/research-guide-m2-press-gangs-and-impressment
+- `downloads/pages/1f6907a51a1d.md` — "Naval history of Great Britain - Vol. VI by William James - Appendix No. 9" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/P_500.html
+- `downloads/pages/1fe8a9e1b008.md` — "Naval history of Great Britain - Vol. VI by William James - Abstract 22 - 1814" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_22.html
+- `downloads/pages/276ed0fdfed4.md` — "Counter-Theatre during the 1797 Fleet Mutinies | International Review of Social History | Cambridge Core" — https://www.cambridge.org/core/journals/international-review-of-social-history/article/countertheatre-during-the-1797-fleet-mutinies/DC7DBC56EA6E95005C816BF1EBBCF9C8
+- `downloads/pages/28eb94df2d9e.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_22.html
+- `downloads/pages/29727e560586.md` — "STATE OF THE PUBLIC FINANCES. (Hansard, 9 July 1817)" — https://api.parliament.uk/historic-hansard/commons/1817/jul/09/state-of-the-public-finances
+- `downloads/pages/29931d6389d2.md` — "ISSUE OF EXCHEQUER BILLS FOR PURPOSES OF LOCAL AND TEMPORARY RELIEF. (Hansard, 28 April 1817)" — https://api.parliament.uk/historic-hansard/commons/1817/apr/28/issue-of-exchequer-bills-for-purposes-of
+- `downloads/pages/2af7f0b9da42.md` — "Sandhurst, officers and the role of history | National Army Museum" — https://www.nam.ac.uk/explore/sandhurst-officers-and-role-history
+- `downloads/pages/2d8d72a79507.md` — "Research guide B8: The Spithead and Nore mutinies of 1797 | Royal Museums Greenwich" — https://www.rmg.co.uk/collections/research-guides/research-guide-b8-spithead-nore-mutinies-1797
+- `downloads/pages/2f4fc6ec5d53.md` — https://researchonline.lse.ac.uk/id/eprint/126278/1/The_Economic_History_Review_-_2025_-_Sissoko_-_Preventing_financial_ruin_How_the_West_India_trade_fostered_creativity_in.pdf
+- `downloads/pages/30d764790849.md` — "Naval history of Great Britain - Vol. VI by William James - Contents" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Contents.html
+- `downloads/pages/326b19e197a6.md` — "Napoléon et la " descente " en Angleterre. 1re partie : Les multiples projets de 1778 à 1803 - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/napoleon-et-la-descente-en-angleterre-1re-partie-les-multiples-projets-de-1778-a-1803/
+- `downloads/pages/378a0b9459dc.md` — "The Keith Papers: Smith to Keith" — https://www.historyofwar.org/sources/napoleonic/nrs1955/1_1_020.html
+- `downloads/pages/37f8d3b81593.md` — "Walcheren 1809: a medical catastrophe - PMC" — https://pmc.ncbi.nlm.nih.gov/articles/PMC1127097/
+- `downloads/pages/391f1c758def.md` — "1817 to 1820 - Sir Robert Sepping's improvements, &c." — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/P_417.html
+- `downloads/pages/3ac3b1dd88bf.md` — "“Money is a good soldier, sir, and will on” – The Bank of England in the Peninsular War, 1807 – 1814" — https://mcgill.scholaris.ca/bitstreams/6dcd38c6-a91e-4474-a50b-c89b1d8116c9/download
+- `downloads/pages/3b214d7b54fb.md` — "COMMITTEE OF SUPPLY. (Hansard, 10 November 1813)" — https://api.parliament.uk/historic-hansard/commons/1813/nov/10/committee-of-supply
+- `downloads/pages/3b8b8e348c6d.md` — "COMMERCIAL CREDIT. (Hansard, 11 March 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/mar/11/commercial-credit
+- `downloads/pages/3bc4a0c8484d.md` — "Wars with France 1793 to 1815 - History of Romney Marsh" — https://romneymarshhistory.co.uk/frenchwars
+- `downloads/pages/4089ecf1b4ed.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_23.html
+- `downloads/pages/4527c0ed78cb.md` — "Peninsular War | National Army Museum" — https://www.nam.ac.uk/explore/peninsular-war
+- `downloads/pages/46ca470fcc48.md` — "Naval history of Great Britain by William James" — https://sites.rootsweb.com/~pbtyc/Naval_History/Reports/Budgets/Budgets.htm
+- `downloads/pages/49dac96fedbe.md` — "DEFENCE OF THE COUNTRY. (Hansard, 21 February 1805)" — https://api.parliament.uk/historic-hansard/commons/1805/feb/21/defence-of-the-country
+- `downloads/pages/4da6ae842ec8.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_20.html
+- `downloads/pages/523f4560156c.md` — "Key documents in the history of gold, 1:" — https://www.gold.org/sites/default/files/documents/1810jun8.pdf
+- `downloads/pages/597653e3e3aa.md` — "NAVY ESTIMATES. (Hansard, 1 March 1830)" — https://api.parliament.uk/historic-hansard/commons/1830/mar/01/navy-estimates
+- `downloads/pages/5a55e6aeac33.md` — "QB 1967 Q2 pp159-163 - also see appendix" — https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/1967/boe-liabilities-and-assets-1696-onwards.pdf
+- `downloads/pages/5b7b985b0f78.md` — "Supplying War: Logistics From Wallenstein To Patton [PDF] [28jjb479976g]" — https://vdoc.pub/documents/supplying-war-logistics-from-wallenstein-to-patton-28jjb479976g
+- `downloads/pages/60408e3ad1af.md` — "IRISH MILITIA OFFER BILL.— (Hansard, 28 March 1804)" — https://api.parliament.uk/historic-hansard/commons/1804/mar/28/irish-militia-offer-bill
+- `downloads/pages/64f0529893a0.md` — "State of the British Army in 1805" — https://www.napoleon-series.org/military-info/organization/c_strengths.html
+- `downloads/pages/682e933f431c.md` — "Naval history of Great Britain - Vol. VI by William James - Abstract 20 - 1812" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_20.html
+- `downloads/pages/6864746209f3.md` — "Correspondance de Napoléon Ier - Juillet 1811 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1811/
+- `downloads/pages/6e15ba731186.md` — "Naval history of Great Britain by William James" — https://sites.rootsweb.com/~pbtyc/Naval_History/Reports/Index.html
+- `downloads/pages/6e6f2ee5c7e3.md` — "Abstract of British historical statistics / by B.R. Mitchell. With the collaboration of Phyllis Deane. - : Mitchell, B.…" — https://archive.org/details/abstractofbritis0000mitc
+- `downloads/pages/70b17e18323a.md` — https://shs.cairn.info/article/E_NAPO_081_0006/pdf?lang=en
+- `downloads/pages/70cc6a857e5f.md` — "Carnegie Endowment for International Peace" — https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/327/0142_Bk.pdf
+- `downloads/pages/71106f9334bc.md` — "A Global Forum for Naval Historical Scholarship" — https://www.ijnhonline.org/wp-content/uploads/2012/01/Bjerg.pdf
+- `downloads/pages/7409d7aca2ed.md` — "300 years of UK public finance data" — https://obr.uk/docs/dlm_uploads/300-Years-of-public-finances-Accessible-PDF.pdf
+- `downloads/pages/756e36589a7f.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_18.html
+- `downloads/pages/769e05da23c9.md` — "The Napoleonic Wars: A Watershed in Spanish History?" — https://www.econstor.eu/bitstream/10419/247060/1/ehes-wp130.pdf
+- `downloads/pages/775d373548f6.md` — "Research guide B6: The Royal Navy: Administrative records | Royal Museums Greenwich" — https://www.rmg.co.uk/collections/research-guides/research-guide-b6-royal-navy-administrative-records
+- `downloads/pages/7f67f7021f02.md` — "Cary's New Itinerary 1802, index, direct roads" — https://lakesguides.co.uk/html/LakesTxt/cy38nx01.htm
+- `downloads/pages/82a063e7e022.md` — "Correspondance de Napoléon Ier - Juillet 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1810/
+- `downloads/pages/83c66266952e.md` — "1807 - Abstract" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_IV/Abstract_No_15.html
+- `downloads/pages/888cf5f7c5f9.md` — "Naval history of Great Britain - Vol. VI by William James - Abstract Index" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_Index.html
+- `downloads/pages/8a72a0c14aa6.md` — "ARMY ESTIMATES. (Hansard, 4 March 1822)" — https://api.parliament.uk/historic-hansard/commons/1822/mar/04/army-estimates
+- `downloads/pages/9223262f58a4.md` — "Online Collection" — https://collection.nam.ac.uk/detail.php?acc=1966-02-25-1
+- `downloads/pages/95e1bd14b0d8.md` — https://www.ibiblio.org/pha/USN/Navy/navalhistoryofgr06jameuoft.pdf
+- `downloads/pages/95e29ff1c015.md` — "ECONOMY AND RETRENCHMENT. (Hansard, 27 June 1821)" — https://api.parliament.uk/historic-hansard/commons/1821/jun/27/economy-and-retrenchment
+- `downloads/pages/995bd30de2bb.md` — "NEW PLAN OF FINANCE. (Hansard, 29 January 1807)" — https://api.parliament.uk/historic-hansard/commons/1807/jan/29/new-plan-of-finance
+- `downloads/pages/a2034fc310ff.md` — "Danger to the Old Lady of Threadneedle Street? The Bank Restriction Act and the regime shift to paper money, 1797-1821" — https://ehes.org/wp/EHES_100.pdf
+- `downloads/pages/aa5c5df8d6e3.md` — "The Effective Strength of the British Army" — https://www.napoleon-series.org/research/abstract/military/army/britain/strength/c_strength.html
+- `downloads/pages/b5b76ec14c26.md` — "Naval history of Great Britain by William James - Abstract No 19 - 1811" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_19.html
+- `downloads/pages/b71a637044ed.md` — "H.M. Steam sloops Rattler and Alecto towing stern to stern, for the purpose of testing the relative powers of the Screw…" — https://www.rmg.co.uk/collections/objects/rmgc-object-140870
+- `downloads/pages/b92bac3d423e.md` — "War, Naval Logistics and the British State" — https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf
+- `downloads/pages/b94d05580380.md` — "John Moore: Alone with his glory | National Army Museum" — https://www.nam.ac.uk/explore/john-moore
+- `downloads/pages/bb07a813031b.md` — "The Political Economy of British Taxation, 1660-1815" — http://slantchev.ucsd.edu/courses/ps143a/readings/O'Brien%20-%20Political%20Economy%20of%20British%20Taxation,%201660-1815.pdf
+- `downloads/pages/bd9fbfa5c4e0.md` — "Research datasets | Bank of England – the UK's central bank" — https://www.bankofengland.co.uk/statistics/research-datasets
+- `downloads/pages/bff7e2ccf088.md` — "THE BUDGET. (Hansard, 20 May 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/may/20/the-budget
+- `downloads/pages/c2105af935e9.md` — "Naval history of Great Britain - Vol. VI by William James - Abstract 23 - 1815" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_23.html
+- `downloads/pages/c2fda522376a.md` — "REPORT OF THE BULLION COMMITTEE—ADJOURNED DEBATE. (Hansard, 7 May 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/may/07/report-of-the-bullion-committee
+- `downloads/pages/c80f5e01723c.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_21.html
+- `downloads/pages/c8f3fb7e8d62.md` — "1813 - On building ships of war" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/P_152.html
+- `downloads/pages/cf02c798c3f0.md` — "Monetary and Fiscal Policy in England during the French Wars (1793-1821)" — https://people.bu.edu/chamley/Ec365-17/UKFR.pdf
+- `downloads/pages/cf2c01bdf7ff.md` — "Naval History by William James - Appendix 1" — https://sites.rootsweb.com/~pbtyc/Naval_History/Index.html
+- `downloads/pages/d34063b29aef.md` — "WAYS AND MEANS. (Hansard, 28 March 1806)" — https://api.parliament.uk/historic-hansard/commons/1806/mar/28/ways-and-means-1
+- `downloads/pages/d39fd55b29e2.md` — "Naval history of Great Britain by William James - Abstract No 16 - 1808" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_16.html
+- `downloads/pages/d6e755fb0b5d.md` — https://www.ibiblio.org/hyperwar/NHC/NewPDFs/UK/UK,%20Naval%20History%20of%20Great%20Britain%204.pdf
+- `downloads/pages/d79be65764b5.md` — "FINANCE RESOLUTIONS. (Hansard, 20 June 1809)" — https://api.parliament.uk/historic-hansard/commons/1809/jun/20/finance-resolutions
+- `downloads/pages/dc631b5476f4.md` — "The failure of the first income tax: a tale of commercial tax evaders?" — https://eprints.whiterose.ac.uk/id/eprint/129898/19/The%20Failure%20of%20the%20First%20Income%20Tax-A%20Tale%20of%20Commercial%20Tax%20Evaders_.pdf
+- `downloads/pages/dc6c3ac4195b.md` — "Naval history of Great Britain by William James" — https://sites.rootsweb.com/~pbtyc/Naval_History/Reports/Budgets/Officer_Nos.html
+- `downloads/pages/ddccd80edb3a.md` — "Naval history of Great Britain by William James - Abstract No 18 - 1810" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_18.html
+- `downloads/pages/de17c8036944.md` — "REPORT OF THE BULLION COMMITTEE. (Hansard, 9 May 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/may/09/report-of-the-bullion-committee
+- `downloads/pages/e0f217155fea.md` — "[PDF] Britain at Bay by Richard Glover | 9781032037578, 9781000408676" — https://www.perlego.com/book/2567530/britain-at-bay-defence-against-bonaparte-180314-pdf
+- `downloads/pages/e32902a0a3c8.md` — "Portrait bust of HRH Frederick, Duke of York and Albany, 1820 (c). | Online Collection | National Army Museum, London" — https://collection.nam.ac.uk/detail.php?acc=2002-03-163-1
+- `downloads/pages/e462d0348921.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_17.html
+- `downloads/pages/e47ab045c32f.md` — "The Defence of British Trade with the Baltic, 1808-1813" — https://www.reenactor.ru/ARH/PDF/Defence.pdf
+- `downloads/pages/e62d2b040709.md` — "Naval history of Great Britain - Vol. VI by William James - Abstract 21 - 1813" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_21.html
+- `downloads/pages/ea9175ba3158.md` — "STUDIES IN THE HISTORY OF TAX LAW" — https://api.pageplace.de/preview/DT0400.9781847313461_A24074261/preview-9781847313461_A24074261.pdf
+- `downloads/pages/ee9e07ba451b.md` — "1806 - Abstract" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_IV/Abstract_No_14.html
+- `downloads/pages/f0bc4536ba86.md` — "An ‘Unpleasant Dilemma’: The Portsmouth Volunteers and the limits of loyalism, 1803-1805" — https://eprints.whiterose.ac.uk/id/eprint/104015/3/The%20Portsmouth%20Volunteers%201803-1805%20article%20v2.pdf
+- `downloads/pages/f15e3b0f2224.md` — "Royal Military Canal, Warehorne Bridge to Ham Street Bridge, Orlestone - 1005126 | Historic England" — https://historicengland.org.uk/listing/the-list/list-entry/1005126
+- `downloads/pages/f27bcba14de3.md` — "History of Dymchurch Martello Tower | English Heritage" — https://www.english-heritage.org.uk/visit/places/dymchurch-martello-tower/history/
+- `downloads/pages/f42cec953d4b.md` — "NAVY ESTIMATES. (Hansard, 22 February 1812)" — https://api.parliament.uk/historic-hansard/commons/1812/feb/22/navy-estimates
+- `downloads/pages/f9c908249692.md` — "Full text of " Forests And Sea Power "" — https://archive.org/stream/ForestsAndSeaPower/Forests%20and%20Sea%20Power_djvu.txt
+- `downloads/pages/fee0e3a5a5da.md` — "State of the Army (Hansard, 28 June 1805)" — https://api.parliament.uk/historic-hansard/commons/1805/jun/28/state-of-the-army
+
+## Unresolved locators
+
+- `https://researchspace.bathspa.ac.uk/1461/1/Christopher%20Chilcott%20-%202006.pdf` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`)
+- `https://www.napoleon-series.org/wp-content/uploads/2022/07/History-of-the-Campaign-of-Russia-Part-14.pdf` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`)
+- `http://1812now.blogspot.com/2012/04/april-17-1812-napoleons-peace-offer.html` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`)
+- `https://api.parliament.uk/historic-hansard/commons/1811/jun/05/vote-of-credit` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`)
+- `https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-the-uk.xlsx` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`)
+- `https://www.napoleon-series.org/wp-content/uploads/2022/07/History-of-the-Campaign-of-Russia-Part-14.pdf` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c69786/notes_1812_check.md`)
+- `https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-the-uk.xlsx` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c69786/notes_capacity.md`)
+- `downloads/pages/6e996221a1d1.md）：c248政府承认无可提交的法方正式承认uti` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_c69786/notes_capacity_update.md`)
+- `https://api.parliament.uk/historic-hansard/commons/1811/jun/05/vote-of-credit` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c69786/notes_constitution_1803_1811.md`)
+- `http://1812now.blogspot.com/2012/04/april-17-1812-napoleons-peace-offer.html` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c69786/notes_ireland_press.md`)
+- `https://researchspace.bathspa.ac.uk/1461/1/Christopher%20Chilcott%20-%202006.pdf` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c69786/notes_local_evacuation_correction.md`)

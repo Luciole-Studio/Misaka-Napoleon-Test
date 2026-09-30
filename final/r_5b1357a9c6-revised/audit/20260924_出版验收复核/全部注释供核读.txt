@@ -1,0 +1,417 @@
+00_导论.md:43 [导1] 拿破仑致勒布伦，1810年7月9日，原文：“Mon intention est de gouverner moi-même le pays.” 同信下文分别规定观察、报告与执行的职责。见《拿破仑一世通信集》1810年7月文书，[公开转录](https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1810/)。本书以这封同时代信件说明权力安排，不以圣赫勒拿回忆替代当时的制度。
+
+01_法国的能力与代价.md:239 [法1] Émile Dard，*Napoléon et Talleyrand*，1926年版，转录塔列朗1805年10月17日斯特拉斯堡备忘录及12月5日意见。书中转录为所据版本，未把档案原件视为另行亲阅。
+
+01_法国的能力与代价.md:241 [法2] Armand de Caulaincourt，*With Napoleon in Russia*，1935年英译本，卷首关于1811年6月5日谈话。事后回忆，适合作为当事人的决策见闻，逐字措辞不作现场记录。
+
+01_法国的能力与代价.md:243 [法3] Alain Pigeard，“La conscription sous le Premier Empire”，*Revue du Souvenir Napoléonien*，第420期，1998年，Fondation Napoléon公开版；统计对象为征召令，具体分项与聚合口径须分开。
+
+01_法国的能力与代价.md:245 [法4] Alexander Grab，*Napoleon and the Transformation of Europe*，项目所存2013年版，第118页，转引Michael V. Leggiere，*The Fall of Napoleon*，2007年，第69页。Leggiere原页未据此冒称独立核验。
+
+01_法国的能力与代价.md:247 [法5] Michael Rowe，*From Reich to State: The Rhineland in the Revolutionary Age, 1780–1830*，Cambridge University Press，2003年，第94—108、143—146、167—182页，特别是第168页表1、第179页表3。本文直接复核数字表与相关页；书中表1的人口分母属于当时征兵行政使用的估值，不宜替代现代地区人口估计。
+
+01_法国的能力与代价.md:249 [法6] 本书的兵员计算为条件性复算，制度参照包括1818年3月10日军队征募法、John R. Elting，*Swords Around a Throne*，及马里翁第322—323页。固定役期式为：年度补充＝在册人数×退出率÷〔进入服役比例×（1－e的“负役期乘退出率”次方）〕。数字仅用于比较役期与费用，不作历史概率。
+
+01_法国的能力与代价.md:251 [法7] Charles Oman，*A History of the Peninsular War*，第三卷，1810年1月15日法国各军兵力表。境内总数、在伍数与不同时点统计分列。
+
+01_法国的能力与代价.md:253 [法8] Jean-François Brun，“Des armes et de la poudre…”，Fondation Napoléon，2025年4月刊载，其中“Les usines d’armement”与火药生产各节，[作者文章](https://www.napoleon.org/histoire-des-2-empires/articles/des-armes-et-de-la-poudre/)。原研究已经保存正文，本书恢复其库存、产出与验收差异，未以工厂档案目录代替产量。
+
+01_法国的能力与代价.md:255 [法9] Ken Alder，“Innovation and Amnesia: Engineering Rationality and the Fate of Interchangeable Parts Manufacturing in France”，*Technology and Culture*，38(2)，1997，[DOI](https://doi.org/10.1353/tech.1997.0104)；Jean-Louis Peaucelle，“Du concept d’interchangeabilité à sa réalisation : Le fusil des XVIIIe et XIXe siècles”，*Gérer et comprendre*，第80期，2005年，第58—76页，[全文](https://annales.org/edit/gc/2005/gc80/058-076peaucelle.pdf)。1805年装配试验与1808年报告的档号经该文转引，未冒称亲阅原档。
+
+01_法国的能力与代价.md:257 [法10] Elting，前引书，军马与运输相关章；Paul L. Dawson，2013年关于1813年法国骑兵重建的研究。原始研究记录中的采购、配马、死亡与退出为不同统计对象。
+
+01_法国的能力与代价.md:259 [法11] Pierre Branda，“Did the War Pay for the War? An Assessment of Napoleon’s Attempts to Make His Campaigns Self-Financing”，*Napoleonica. La Revue*，2008/3，第2—15页，特别是各附表，[期刊入口](https://doi.org/10.3917/napo.083.0001a)。本书所述明细来自项目已保存全文；本次另核期刊入口和新研究的引用，正文与附表差额不静默调平。
+
+01_法国的能力与代价.md:261 [法12] Mark Edward Hay，“Making War Pay for War: Napoleon and the Dutch War Subsidy, 1795–1806”，*TSEG*，17(2)，2020年，第55—82页，特别是第78页表2—3、第80页表5，[大学开放全文](https://repub.eur.nl/pub/131184/1102-2139-1-PB.pdf)。本次补取并核读相关表；修订口径与布兰达原表并列，不据此声称全部境外收入已核完。
+
+01_法国的能力与代价.md:263 [法13] Marcel Marion，*Histoire financière de la France depuis 1715*，第四卷，1925年，第302—306、317—324、419页。第321页扫描原图本次复核；其中12次并入地区的总额与八个举例之间，原文明确保留“等等”。
+
+01_法国的能力与代价.md:265 [法14] Alan Forrest，*Conscripts and Deserters: The Army and French Society during the Revolution and Empire*，Oxford University Press，1989年，第70—72、91—92页；Jacques Houdaille，“Pertes de l’armée de terre sous le premier Empire, d’après les registres matricules”，*Population*，27(1)，1972年，第27—50页，[原刊](https://www.persee.fr/doc/pop_0032-4663_1972_num_27_1_15097)。Houdaille正文以法国军籍中的法国人与外国人作统计，区别于全部盟国军队；其约87万与约89万是返乡修正的两种处理，不是一个统计置信区间。
+
+01_法国的能力与代价.md:267 [法15] 马莱政变的伪元老院令、1813年2月5日摄政元老院决议及1815年4月22日《帝国宪法附加法》。摄政法据[法文条文转录](https://www.verfassungen.eu/f/fverf13-3.htm)，核对第1、5、10、19—27条；网页标题及前导日期有复制错误，德译亦有误，采用落款1813年2月5日的法文正文，不采用错误标题或德译。底源题录为*Bulletin des lois*，1813，第四系列，第474号，页141起；尚未据此宣称原刊影像核验。马莱伪令不当作合法决议。
+
+01_法国的能力与代价.md:269 [法16] Monika Senkowska-Gluck，“Les donataires de Napoléon”，*Revue d’histoire moderne et contemporaine*，17(3)，1970，第680—693页，尤其第689—690、693页，[原刊全文](https://www.persee.fr/doc/rhmc_0048-8003_1970_num_17_3_2102)。本次重核保存的刊文段落；1810年法令原刊《Bulletin des lois》相关页未直接取得，故以研究者引录为依据。
+
+01_法国的能力与代价.md:271 [法17] 拿破仑1810年7月22、25、26日有关罗马与荷兰财政的指示，见[1810年七月通信转录](https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1810/)，并参见Marion，*Histoire financière*，第四卷，页321。人口分摊是文书中的政策要求，不作为罗马已实现财政净贡献。
+
+02a_英国海权与和平_国家财政与社会.md:313 [英政1] 英国下院 1811 年 6 月 5 日《信用拨款》，vol.20, cc.445–455，尤 Whitbread c.450、Baring c.455：[议会记录](https://api.parliament.uk/historic-hansard/commons/1811/jun/05/vote-of-credit)。关于 1807 年内阁危机，本项目采用英国议会史研究及原研究所列乔治三世—大臣交涉材料；未将内阁倒台简化为一次议会信任投票。
+
+02a_英国海权与和平_国家财政与社会.md:314 [英政2] Herbert Butterfield, *The Peace Tactics of Napoleon, 1806–1808*，第 32—41 页；并参见 [英国上院 1807 年 1 月 2 日对法谈判辩论](https://api.parliament.uk/historic-hansard/lords/1807/jan/02/negociation-with-france)。私人信件与公开声明用于相互校验，不互相替代。
+
+02a_英国海权与和平_国家财政与社会.md:315 [英政3] Bassano 致 Castlereagh，1812 年 4 月 17 日；Castlereagh 复信，4 月 23 日；同期转载于 *Java Government Gazette*, 13 March 1813, p.8：[公报影印本](https://upload.wikimedia.org/wikipedia/commons/e/eb/Java_government_gazette_13-03-1813_%28IA_ddd_010250909_mpeg21%29.pdf)。本次核对的是完整刊印文本及版面，不是外交部签署原件。
+
+02a_英国海权与和平_国家财政与社会.md:316 [英政4] 1802 年《亚眠和约》，尤第 VI、X、XIII、XIV 条；1814 年《巴黎和约》有关安特卫普条款；两者所处军事力量对比不同。西班牙与美洲问题另见 Canning—Polignac 1823 年 10 月 9 日会谈备忘录，刊于 [1824 年 3 月 4 日下院记录](https://api.parliament.uk/historic-hansard/commons/1824/mar/04/communications-with-france-and-spain-1)。
+
+02a_英国海权与和平_国家财政与社会.md:317 [英政5] 英国议会 [1832 年改革法历史说明](https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseofcommons/reformacts/overview/reformact1832/) 及宪章派请愿的历史资料；本项目以取消、削减和增设选区数说明有限改革，并未把改革后的资格选举写成普选。
+
+02a_英国海权与和平_国家财政与社会.md:318 [英财1] Bank of England, *A Millennium of Macroeconomic Data for the UK*, version 3.1，工作表 A27、A31、M10：[数据文件](https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-the-uk.xlsx)。各年名义值、年平均收益率和月末资料在正文分别标注。
+
+02a_英国海权与和平_国家财政与社会.md:319 [英财2] Michael D. Bordo and Eugene N. White, “A Tale of Two Currencies: British and French Finance During the Napoleonic Wars,” NBER Working Paper 3517，表 2，印刷第 51 页；另参见 Pamfili Antipa and Christophe Chamley, [*Monetary and Fiscal Policy in England during the French Wars*](https://people.bu.edu/chamley/Ec365-17/UKFR.pdf)。
+
+02a_英国海权与和平_国家财政与社会.md:320 [英财3] [英国下院 1811 年 5 月 20 日《预算》](https://api.parliament.uk/historic-hansard/commons/1811/may/20/the-budget)，证券组合与现金票息据当日条款复算。
+
+02a_英国海权与和平_国家财政与社会.md:321 [英财4] Bank of England, “Bank of England Liabilities and Assets, 1696 onwards,” *Quarterly Bulletin*, 1967 Q2, pp.159–163 及附表：[原表](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/1967/boe-liabilities-and-assets-1696-onwards.pdf)。
+
+02a_英国海权与和平_国家财政与社会.md:322 [英财5] 1810 年 6 月 8 日金块委员会报告：[文本](https://www.gold.org/sites/default/files/documents/1810jun8.pdf)；及 [1811 年 5 月 7 日下院辩论](https://api.parliament.uk/historic-hansard/commons/1811/may/07/report-of-the-bullion-committee)。
+
+02a_英国海权与和平_国家财政与社会.md:323 [英财6] John F. Avery Jones, “The Special Commissioners from Trafalgar to Waterloo,” in John Tiley (ed.), *Studies in the History of Tax Law*, vol.2 (2007)，注 21—25；Cousins, “The Failure of the First Income Tax” (2018)，接受稿 §III.1、注 121—128。另参见 [1806 年 3 月 28 日筹款辩论](https://api.parliament.uk/historic-hansard/commons/1806/mar/28/ways-and-means-1)。
+
+02a_英国海权与和平_国家财政与社会.md:324 [英财7] [英国下院 1811 年 3 月 11 日《商业信用》](https://api.parliament.uk/historic-hansard/commons/1811/mar/11/commercial-credit)；[1817 年 4 月 28 日回顾性辩论](https://api.parliament.uk/historic-hansard/commons/1817/apr/28/issue-of-exchequer-bills-for-purposes-of)。批准额度、申请额与实拨额分别处理。
+
+02a_英国海权与和平_国家财政与社会.md:325 [英财8] [英国下院 1811 年 5 月 6 日《国库券》](https://api.parliament.uk/historic-hansard/commons/1811/may/06/exchequer-bills)。
+
+02a_英国海权与和平_国家财政与社会.md:326 [英财9] [英国下院 1815 年 6 月 14 日《单列费用》](https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges)。
+
+02a_英国海权与和平_国家财政与社会.md:327 [英贸1] John Marshall, *A Digest of All the Accounts Relating to the Population, Productions, Revenues, Financial Operations, Manufactures, Shipping, Colonies, Commerce, &c. &c. of the United Kingdom of Great Britain and Ireland*, 1833, p.74：[影印本](https://archive.org/download/b22297042/b22297042.pdf)，PDF 第 88 页。1811 年原表数字经版面复核。
+
+02a_英国海权与和平_国家财政与社会.md:328 [英贸2] Ralph Davis 历史贸易序列，收入英格兰银行工作表 A41。这里使用三年均值与目的地区域，不将殖民地、洲别与政治控制范围混为一谈。
+
+02a_英国海权与和平_国家财政与社会.md:329 [英贸3] Eli F. Heckscher, *The Continental System: An Economic Interpretation*, 1922，尤第 245 页及商业危机章节：[公开本](https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/327/0142_Bk.pdf)。
+
+02a_英国海权与和平_国家财政与社会.md:330 [英贸4] 同书申报出口表及马歇尔官方估价表；各项替代比例为原研究依相同基期、相同口径复算。拉美市场开放的边界亦参照 Canning—Polignac 1823 年备忘录，见 [英政4]。
+
+02a_英国海权与和平_国家财政与社会.md:331 [英贸5] Stephen Broadberry 等历史产出重建及工资、价格序列，收入英格兰银行历史工作簿；工业、煤、铁、纺织均重新归一为 1803 年＝100。人口序列若采用大不列颠加北爱尔兰范围，不能冒充含整个爱尔兰的联合王国人口。
+
+02a_英国海权与和平_国家财政与社会.md:332 [英贸6] François Jarrige 关于卢德运动与劳动史的研究，转引 François Crouzet 的曼彻斯特就业资料；本项目另保留 W. H. Chaloner 1960 年书评第 526 页对 Crouzet 原书第 855 页的引介。上述传递关系不是两份独立原始统计。
+
+02a_英国海权与和平_国家财政与社会.md:333 [英贸7] 1811—1812 年下院枢密院敕令、制造业请愿和商业困境辩论；地方请愿的签名及投票数字仅说明对应活动，不扩展为全国民意调查。
+
+02a_英国海权与和平_国家财政与社会.md:334 [英贸8] Kevin H. O’Rourke, “The Worldwide Economic Impact of the French Revolutionary and Napoleonic Wars, 1793–1815,” *Journal of Global History* 1.1 (2006), pp.123–149，福利损失与长期产出增长分开解释。
+
+02a_英国海权与和平_国家财政与社会.md:335 [英市1] Larry Neal 月末公债序列，BoE M10；Eric Monnet 法国历史利率资料，[公开数据文件](https://didomena.ehess.fr/downloads/2227mq56p?locale=fr)。月度窗口与价格代理为原研究复算，不是新发现的日度交易记录。
+
+02a_英国海权与和平_国家财政与社会.md:336 [英市2] Pamfili Antipa, “How Fiscal Policy Affects Prices: Britain’s First Experience with Paper Money,” *The Journal of Economic History* 76.4 (2016), pp.1044–1077：[论文](https://www.cambridge.org/core/journals/journal-of-economic-history/article/how-fiscal-policy-affects-prices-britains-first-experience-with-paper-money/4EB0EEBFB77E80F4C03734D27EFB4407)。
+
+02a_英国海权与和平_国家财政与社会.md:337 [英市3] Frederick A. Talbot, *Ships and Shipping*, 第 16 章，录 1813 年拿破仑死亡或被俘保险合同：[公开文本](https://kellscraft.com/ShipsandShipping/ShipsandShippingCh16.html)。本研究未把孤立合同当作一个流动性充分的政治预测市场。
+
+02a_英国海权与和平_国家财政与社会.md:339 [英政6] William Blackstone, *Commentaries on the Laws of England*, Book I, ch.VII, pp.249–250：[耶鲁 Avalon 文本](https://avalon.law.yale.edu/18th_century/blackstone_bk1ch7.asp)。规范性法权与实际议会政治分别解释。
+
+02a_英国海权与和平_国家财政与社会.md:340 [英政7] [1803 年 11 月 22 日御座演说辩论](https://api.parliament.uk/historic-hansard/commons/1803/nov/22/kings-speech)，cc.21–25；David R. Fisher, [“The New Opposition, 1801–4”](https://www.historyofparliamentonline.org/periods/hanoverians/new-opposition-1801-4)；History of Parliament, [“1807”](https://historyofparliamentonline.org/volume/1790-1820/parliament/1807)。
+
+02a_英国海权与和平_国家财政与社会.md:341 [英政8] 英国议会 [“Metropolitan Police”](https://www.parliament.uk/about/living-heritage/transformingsociety/laworder/policeprisons/overview/metropolitanpolice/)；ONS, [“Story of the Census”](https://www.ons.gov.uk/visualisations/storyofthecensus/)。1801 年约 890 万系英格兰和威尔士口径，未被当作整个联合王国人口。
+
+02a_英国海权与和平_国家财政与社会.md:342 [英财10] [1809 年 5 月 12 日预算](https://api.parliament.uk/historic-hansard/commons/1809/may/12/the-budget)，cc.536–537、541–542；Heckscher, *The Continental System*, pp.353–355；Leandro Prados de la Escosura and Carlos Santiago-Caballero, [“The Napoleonic Wars: A Watershed in Spanish History?”](https://www.econstor.eu/bitstream/10419/247060/1/ehes-wp130.pdf)，转引 John M. Sherwig, *Guineas and Gunpowder*, pp.362–368。
+
+02a_英国海权与和平_国家财政与社会.md:343 [英贸9] 葡萄牙王室 1808 年 1 月 28 日敕函，*Coleção de Leis do Brasil de 1808*, vol.1, p.1：[巴西众议院法律库转录](https://www2.camara.leg.br/legin/fed/carreg_sn/anterioresa1824/cartaregia-35757-28-janeiro-1808-539177-publicacaooriginal-37144-pe.html)。
+
+02a_英国海权与和平_国家财政与社会.md:345 [英政9] 1812 年 6 月 23 日枢密令，历史 Hansard 页面所收文本：[文件](https://api.parliament.uk/historic-hansard/lords/1812/apr/24/declaration-of-the-court-of-great)。网页标题日期与插入文书日期不一致，正文以文书明载六月日期为准。
+
+02a_英国海权与和平_国家财政与社会.md:346 [英贸10] 英国议会 [“The 1833 Factory Act”](https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/)，公共历史说明，并非本次亲查全部检查员工作档案。
+
+02a_英国海权与和平_国家财政与社会.md:348 [补1] Carolyn Sissoko and Mina Ishizu, “Preventing financial ruin: How the West India trade fostered creativity in crisis lending by the Bank of England,” *Economic History Review* 79(1), 2026, pp.57–88；本次所读仓储在线版自身页码 pp.14–18，尤其 p.15 及注 82。公开全文：[LSE 仓储](https://researchonline.lse.ac.uk/id/eprint/126278/1/The_Economic_History_Review_-_2025_-_Sissoko_-_Preventing_financial_ruin_How_the_West_India_trade_fostered_creativity_in.pdf)。在线版页码 1–32 与正式卷期页码 57–88 不混记。史实来自作者对英格兰银行董事会记录的研究；本文未亲核这些原始银行档案。末两句是反事实判断。
+
+02a_英国海权与和平_国家财政与社会.md:350 [补2] Sissoko and Ishizu，同上，在线版 pp.23–24，§IV；作者所引董事会记录为 1811 年 2 月 28 日，pp.521–522。该研究也明确指出，部分贷款在 1816 年仍在催收，材料不足以把新政策说成已经实现零坏账。当前新稿的 1811 年政府救助叙述应保留，不由此替换。
+
+02b_英国海权与和平_舰队海峡与帝国.md:602 [海1] William James, *The Naval History of Great Britain*，1837 版各年海军状态表；本次主要通过 Paul Benyon 的公开转录及既有影印摘页核对，参见 [1803 年表](https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_III/Abstract_No_11.html)、[1808 年表](https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_16.html)；本项目采用 1803—1815 年在役、储备、港口、在建等原分类。詹姆斯的吨位和舰种分类未强行转换为现代术语。
+
+02b_英国海权与和平_舰队海峡与帝国.md:603 [海2] 英国下院 [1812 年 2 月 22 日海军预算](https://api.parliament.uk/historic-hansard/commons/1812/feb/22/navy-estimates)，cc.885–893；[1830 年 3 月 1 日海军预算](https://api.parliament.uk/historic-hansard/commons/1830/mar/01/navy-estimates)，及 1817、1820、1826 年各次员额表；Gregory Fremont-Barnes, *The Royal Navy 1793–1815* (2007), p.44，用于补充，员额、实际到员、全年平均和拨款期间分别处理。
+
+02b_英国海权与和平_舰队海峡与帝国.md:604 [海3] Gregory Fremont-Barnes, *The Royal Navy 1793–1815* (Osprey, 2007), pp.41–50，特别是 pp.47–50 的王家、私人船厂与建造周期汇总；行政机构另参见 [格林尼治博物馆档案指南 B6](https://www.rmg.co.uk/collections/research-guides/research-guide-b6-royal-navy-administrative-records)。这里保留该期间，而未把它改为拿破仑帝国单独统治期。
+
+02b_英国海权与和平_舰队海峡与帝国.md:605 [海4] A. N. Ryan, “The Defence of British Trade with the Baltic, 1808–1813,” *English Historical Review* 74, no.292 (1959), pp.443–466，本项目直接读到的材料重点为 pp.443–454；James Davey, *War, Naval Logistics and the British State*, 博士论文 (2009)，相关波罗的海供应章节：[全文](https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf)。并未声称已复核全部英国海军采购档案。
+
+02b_英国海权与和平_舰队海峡与帝国.md:606 [海5] Robert G. Albion, *Forests and Sea Power: The Timber Problem of the Royal Navy, 1652–1862* (1926), pp.356、368；北美桅材、橡木与印度柚木／孟买造舰分别计算。
+
+02b_英国海权与和平_舰队海峡与帝国.md:607 [海6] Royal Museums Greenwich, [“The Spithead and Nore Mutinies of 1797”](https://www.rmg.co.uk/collections/research-guides/research-guide-b8-spithead-nore-mutinies-1797)、[“Press Gangs and Impressment”](https://www.rmg.co.uk/collections/research-guides/research-guide-m2-press-gangs-and-impressment)；事件分别解释为谈判、纪律和政治危机，不从哗变推出整个舰队支持法国。
+
+02b_英国海权与和平_舰队海峡与帝国.md:608 [海7] Hans Christian Bjerg 关于 1807 年丹麦舰队的研究：[公开论文](https://www.ijnhonline.org/wp-content/uploads/2012/01/Bjerg.pdf)。俘获舰种、运输队列与实际服役分开。
+
+02b_英国海权与和平_舰队海峡与帝国.md:609 [法海1] Nicola Peter Todorov, “Le redressement naval de 1810–1813 napoléonien et la géographie maritime de l’Europe,” *Cahiers du Centre d’études d’histoire de la défense* 36 (2008)，尤 PDF 第 15—18、24 页：[公开论文](https://shs.hal.science/halshs-01241363/document)。舰体表本次再次核对版面；作者对俄国责任等解释并未直接采纳为本报告立场。
+
+02b_英国海权与和平_舰队海峡与帝国.md:610 [法海2] Jean-Baptiste Muracciole, “Napoléon et les arsenaux de la Marine,” *Revue historique des armées* 1 (1974), pp.83–98, DOI 10.3406/rharm.1974.7813：[全文](https://www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813)。
+
+02b_英国海权与和平_舰队海峡与帝国.md:611 [法海3] *Correspondance de Napoléon Ier*，1810 年 7 月 13 日，1811 年 3 月 5 日、7 月 31 日、10 月 2—3 日等函。公开转录可参见 [1811 年 3 月通信](https://napoleon-histoire.com/correspondance-de-napoleon-ier-mars-1811/)；使用时区分皇帝指令与执行报告。
+
+02b_英国海权与和平_舰队海峡与帝国.md:612 [法海4] Nicola Peter Todorov, 2014 年法国帝国舰材供应与运输研究，DOI 10.4000/geohist.4373：[全文](https://journals.openedition.org/geohist/4373)。木材库存、计划耗用和已经运达的具体批次分别处理。
+
+02b_英国海权与和平_舰队海峡与帝国.md:613 [法海5] Patrick Villiers、Michel Culerrier，1982 年海事登记研究：[公开全文](https://www.persee.fr/doc/rharm_0035-3299_1982_num_147_2_7111)。
+
+02b_英国海权与和平_舰队海峡与帝国.md:614 [法海6] 拿破仑时期私掠与海员损失研究，收入索邦历史论文集：[公开章节](https://books.openedition.org/psorbonne/91295)。累计捕获、许可和被俘人员不是舰队净存量。
+
+02b_英国海权与和平_舰队海峡与帝国.md:615 [海技1] Henri-Joseph Paixhans, *Nouvelle force maritime* (1822), pp.287–288、346–347。原研究核对的是原书论证，不把倡议数字视为已经部署的战力。
+
+02b_英国海权与和平_舰队海峡与帝国.md:616 [海技2] 法国国家海军博物馆，[“Machine à vapeur de la corvette à roues le Sphinx”](https://www.musee-marine.fr/nos-musees/paris/collections/oeuvres-phares/machine-a-vapeur-de-la-corvette-a-roues-le-sphinx.html)，及卢克索方尖碑运输展览说明；机器制造者 W. Fawcett、160 马力与 1829 年舰体日期据馆方资料。机器进口实例的适用范围限于该舰。
+
+02b_英国海权与和平_舰队海峡与帝国.md:617 [海技3] Royal Museums Greenwich, “H.M. Steamship Rattler and Alecto…”：[藏品与事件说明](https://www.rmg.co.uk/collections/objects/rmgc-object-140870)，1845 年 4 月 3 日试验。
+
+02b_英国海权与和平_舰队海峡与帝国.md:618 [陆海1] 拿破仑致 Latouche-Tréville，1804 年 7 月 2 日；Édouard Desbrière, *Projets et tentatives de débarquement aux îles Britanniques*，1803—1805 年文书汇编。皇帝名句与甘托姆意见分别置于原时点。
+
+02b_英国海权与和平_舰队海峡与帝国.md:619 [陆海2] Desbrière，同书，第 IV 卷 pp.398–400、442–445，圣奥昂 1805 年 8 月 3 日报告、蒙特勒伊 1805 年 3 月 30 日装载文件；并对照 Richard Glover 关于布洛涅运输的研究。引述指原文书经后出汇编刊印，并非本次亲查军方原件。
+
+02b_英国海权与和平_舰队海峡与帝国.md:620 [陆海3] J. W. Fortescue, *A History of the British Army*, vol.V，及 *The County Lieutenancies and the Army, 1803–1814* (1909)，入侵准备与年度兵力附表；英国议会关于正规军、民兵和志愿军员额的同期报告。各表时期、地域与军种差异已在正文保留。
+
+02b_英国海权与和平_舰队海峡与帝国.md:621 [陆海4] Kevin Linch 关于 1807—1815 年英国陆军招募、国内驻军与可派遣兵力的研究。病员、民兵转籍与实际可抽调营的差异，是比总编制更接近战役问题的证据。
+
+02b_英国海权与和平_舰队海峡与帝国.md:622 [陆海5] Christopher Chilcott, *Maintaining the British Army, 1793 to 1820*, 博士论文 (2006)，尤 pp.242–244：[全文](https://researchspace.bathspa.ac.uk/1461/1/Christopher%20Chilcott%20-%202006.pdf)；John Cary, 1815 年道路书。道路距离作为 1805 年代理，而非同年实测。
+
+02b_英国海权与和平_舰队海峡与帝国.md:623 [陆海6] Martin van Creveld, *Supplying War*，食物消耗量级与运输问题；本报告马匹比例、饲料和卸载时间均为另行明示的模型条件，不冒充该书给定的布洛涅方案。
+
+02b_英国海权与和平_舰队海峡与帝国.md:624 [陆海7] 乔治三世致主教 Hurd，1803 年 11 月 30 日，及 Fortescue，第 V 卷 p.265；王室疏散意向与完整政府预案不作同等证据处理。
+
+02b_英国海权与和平_舰队海峡与帝国.md:625 [陆海8] Robert Fulton 1804 年 7 月 17 日英国合同及当年试验文书；*London Gazette*, no.15742, 6 October 1804, pp.1237–1238。爆炸船效果以同期报告为限，不以设计者愿景代替实绩。
+
+02b_英国海权与和平_舰队海峡与帝国.md:626 [爱1] Allan Blackstock, “A Forgotten Army: The Irish Yeomanry,” *History Ireland*：[文章](https://historyireland.com/a-forgotten-army-the-irish-yeomanry/)。地方招募机制与宗派排斥支持社会分析，不等于所有新教人口的一致政治态度。
+
+02b_英国海权与和平_舰队海峡与帝国.md:627 [爱2] Desbrière 所收爱尔兰远征与军团材料；Wheeler and Broadley, *Napoleon and the Invasion of England* (1908)；Kleinman 2005 年关于爱尔兰流亡者与法国交涉的研究。Wheeler—Broadley 与其他后出叙述部分同源于 Desbrière，不能算三份独立证据；埃米特起义日期应为 1803 年 7 月 23 日，而非个别转述中的 6 月 23 日。
+
+02b_英国海权与和平_舰队海峡与帝国.md:628 [爱3] Gillian Boazman, “Ballincollig Royal Gunpowder Mills: the vaulted magazine,” *Journal of the Cork Historical and Archaeological Society* 112 (2007), pp.54–75，尤 pp.54–55：[全文](https://corkhist.ie/wp-content/uploads/jfiles/2007/b2007-008.pdf)。其引用的 1806 年建筑清单为英国国家档案馆 WO 55/2285，本次未亲查该档案原件。
+
+02b_英国海权与和平_舰队海峡与帝国.md:629 [爱4] “The First Chapter of 1798? Restoring a Military Perspective to the Irish Militia Riots of 1793,” *Irish Historical Studies*，注 82：[论文及注释页面](https://www.cambridge.org/core/journals/irish-historical-studies/article/abs/first-chapter-of-1798-restoring-a-military-perspective-to-the-irish-militia-riots-of-1793/D36A1C94E3F789FE03298756F48DAF4D)。本文仅使用可见注释明确的统计范围，未宣称复核全文全部论证。
+
+02b_英国海权与和平_舰队海峡与帝国.md:630 [爱5] James Deery, “The Irish Soldier in the British Army during the Napoleonic Wars 1808–1815,” *British Journal for Military History* 9.2 (2023), pp.162–169, DOI 10.25602/GOLD.bjmh.v9i2.1716：[全文](https://journals.gold.ac.uk/index.php/bjmh/article/download/1716/1843/2129)。该文据总体比例推算的爱尔兰军人妻子数，不作为直接点名统计收入正文。
+
+02b_英国海权与和平_舰队海峡与帝国.md:631 [爱6] “Proclamation of the Provisional Government,” 1803：[宣言文本](https://en.wikisource.org/wiki/Proclamation_of_Provisional_Government)。土地冻结、继续交租、废什一税与教产国有须一起阅读。
+
+02b_英国海权与和平_舰队海峡与帝国.md:632 [爱7] James S. Donnelly Jr., “Captain Rock: Ideology and Organization,” DOI 10.1353/eir.2007.0030；*Rockites and Whitefeet* 学位论文：[研究库](https://eprints.soton.ac.uk/460381)。天主教群众组织另参见爱尔兰虚拟档案馆 1824 年 3 月 10 日 O’Connell 致 Laffan 信，VRTI-CATH-1-1824-03-10。
+
+02b_英国海权与和平_舰队海峡与帝国.md:633 [爱8] “Two Centuries of Irish Agriculture,” [都柏林三一学院研究库](http://hdl.handle.net/2262/3927)；原研究爱尔兰财政、英爱债务合并与税收资料。英镑／爱尔兰镑、barrel／quarter／cwt 均保留各自单位。
+
+02b_英国海权与和平_舰队海峡与帝国.md:634 [爱9] Cormac Ó Gráda, “Ireland’s Great Famine: An Overview”；Boyle and Ó Gráda 人口重建，DOI 10.2307/2061350；Eric Vanhaute、Richard Paping、Cormac Ó Gráda, *The European Subsistence Crisis of 1845–1850*，表 1.3。真实历史的疫病与人口值不自动复制为每个替代情景。
+
+02b_英国海权与和平_舰队海峡与帝国.md:635 [爱10] Cormac Ó Gráda, “Migration as Disaster Relief: Lessons from the Great Irish Famine”；使用其迁移机制，不制造反事实死亡人数。
+
+02b_英国海权与和平_舰队海峡与帝国.md:636 [帝1] 英国下院 [1823 年 2 月 25 日殖民收支辩论](https://api.parliament.uk/historic-hansard/commons/1823/feb/25/colonial-revenue-and-expenditure)，cc.248–254，列 1820 年军需账；[1830 年 5 月 10 日辩论](https://api.parliament.uk/historic-hansard/commons/1830/may/10/supply)，cc.509–513，宣读 1827 年财政部信件。汇总与逐行和的微小差额保持公开，累计亏空不改写为年支出。
+
+02b_英国海权与和平_舰队海峡与帝国.md:637 [帝2] [英国下院 1848 年 7 月 25 日《殖民地政府》辩论](https://api.parliament.uk/historic-hansard/commons/1848/jul/25/colonial-government)。莫尔斯沃思估算及政府对海军成本归属的回应一起阅读。
+
+02b_英国海权与和平_舰队海峡与帝国.md:638 [帝3] Roger N. Buckley, “The British Army’s African Recruitment Policy, 1790–1807,” *Contributions in Black Studies* 5 (1981), article 2, [DOI 10.7275/6931](https://doi.org/10.7275/6931)，转引其 *Slaves in Red Coats* (1979), pp.55–56；英国陆军 1817—1836 年驻军死亡率资料。奴役购买为累计流量、部队人数为存量，两者不混同。
+
+02b_英国海权与和平_舰队海峡与帝国.md:639 [帝4] Seymour Drescher, “Le « déclin » du système esclavagiste britannique et l’abolition de la traite,” *Annales ESC* 31.2 (1976), pp.414–435：[全文](https://www.persee.fr/doc/ahess_0395-2649_1976_num_31_2_293724)；*Slavery Abolition Act 1833*, 3 & 4 Will. IV c.73，尤第 LXIV—LXV 条。法律通过、主要生效、学徒制结束与地域例外分别标注。
+
+02b_英国海权与和平_舰队海峡与帝国.md:640 [帝5] 英国议会与殖民地贸易统计，加拿大木材、新南威尔士羊毛各自年度表；[加拿大责任政府专题资料](https://www.biographi.ca/fr/theme_government.html)。不将贸易单位 loads 解释为统一现代吨位。
+
+02b_英国海权与和平_舰队海峡与帝国.md:641 [帝6] 《亚眠和约》第 VI、X 条；英国地中海基地、岛屿占领与 Cotton 1811 年通信研究。基地使用权、占领与最终主权是不同法律层次。
+
+02b_英国海权与和平_舰队海峡与帝国.md:642 [帝7] 新加坡国家文物局关于 1819 年协定与贸易站成立的资料；新西兰政府有关《怀唐伊条约》两种文本和治理发展的资料。区域统治者权利与当地实际控制未被欧洲条约名称抹去。
+
+02b_英国海权与和平_舰队海峡与帝国.md:643 [帝8] Canning—Polignac 1823 年 10 月 9 日会谈备忘录，刊于 [英国下院 1824 年 3 月 4 日记录，cc.708–719](https://api.parliament.uk/historic-hansard/commons/1824/mar/04/communications-with-france-and-spain-1)。它是较晚政策利益的证据，不是 1807 年既定政策的直接证明。
+
+02b_英国海权与和平_舰队海峡与帝国.md:645 [法海7] 后出逐舰资料主要由法国战列舰总表、各舰级表及 Three Decks 威尼斯船厂记录组成，上游多引 Rif Winfield、Stephen S. Roberts、Roche、Demerliac，原专著未逐页复核；[法国战列舰总表](https://en.wikipedia.org/wiki/List_of_ships_of_the_line_of_France)、[威尼斯记录](https://threedecks.org/index.php?display_type=show_shipyard&id=281)。BnF 关于“查理大帝”号 1807 年 4 月 8 日下水的 [版画目录](https://gallica.bnf.fr/ark:/12148/btv1b69469265) 提供一舰的独立佐证，不被扩展为整表档案认证。
+
+02b_英国海权与和平_舰队海峡与帝国.md:646 [帝9] 加拿大政府关于 [1812 年战争中原住民贡献](https://www.cirnac.gc.ca/eng/1338906996435/1607905615872) 的历史说明；澳大利亚国家博物馆 [美利奴羊引入史](https://www.nma.gov.au/defining-moments/resources/merino-sheep-introduced) 与 [羊毛、工业革命及原住民土地](https://digital-classroom.nma.gov.au/learning-modules/industrial-revolution-defining-moments-1750-1914/13-australia-and-wool)。纪念性材料中的个别战斗人数未用于精密战役模型。
+
+02b_英国海权与和平_舰队海峡与帝国.md:648 [法海8] J. C. A. Stagg, “The Political Essays of William Shaler” (2002)，总篇注 33／Essay II 注 2，转述 *Weekly Register*, 19 and 26 October 1811：[研究文本](https://oieahc.wm.edu/wp-content/uploads/stagg.pdf)。Richard Glover, “The French Fleet, 1807–1814; Britain’s Problem; and Madison’s Opportunity,” *The Journal of Modern History* 39.3 (1967), pp.233–252，DOI 10.1086/240080，原研究未取得全文，本报告也未把它作为直接核读数字来源。
+
+02b_英国海权与和平_舰队海峡与帝国.md:649 [陆海9] “Walcheren 1809: A Medical Catastrophe,” [公开医学史论文](https://pmc.ncbi.nlm.nih.gov/articles/PMC1127097/)。使用其疾病对有效兵力的机制，不以一个灾难案例估计全部远征的固定死亡率。
+
+02b_英国海权与和平_舰队海峡与帝国.md:650 [爱11] History of Parliament, 1820–1832, Survey IV: Ireland；1829 年爱尔兰议会选举法及其研究。约 216,000→37,000 与 215,000→40,000 是不同汇总口径，本报告保留范围，不制作虚构的精确统一序列。
+
+02b_英国海权与和平_舰队海峡与帝国.md:652 [补3] James Davey, *War, Naval Logistics and the British State: Supplying the Baltic Fleet 1808–1812*, University of Greenwich 博士论文，2009，pp.235–237、附录 4，pp.279–280；[论文全文](https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf)。上述三个均值可分别由表内四、五、四个已列日数复算。最后两句为明确的反事实政策推演，并非法国实际执行记录。
+
+02b_英国海权与和平_舰队海峡与帝国.md:654 [补4] Davey，同上，pp.237–240，尤其 p.239 表 26；原表档案来源 TNA, ADM 102/241。该表另列 1808 年 8 月至 1809 年 12 月各月记录，正文仅使用两项可直观比较的时点。法国未来变化属于条件推演。
+
+02b_英国海权与和平_舰队海峡与帝国.md:656 [补7] Hamish Graham, “A Matter of the King’s Service: Supplying Ship Timbers for the French Navy in the Eighteenth Century,” *Drassana* 30，刊期标示 2022、文章于 2023 年接受，pp.80–100，尤其 pp.90–91；[DOI](https://doi.org/10.51829/Drassana.30.691)。本次核读原 PDF 的相关页与脚注；不将其中英国船厂材料退货比例泛化为法国整支舰队的损耗。
+
+02b_英国海权与和平_舰队海峡与帝国.md:658 [海补1] Martin Wilcox, “'These peaceable times are the devil': Royal Navy officers in the post-war slump, 1815–1825,” *International Journal of Maritime History* 26.3 (2014)，页471—488，[出版方摘要](https://journals.sagepub.com/doi/10.1177/0843871414543445)。本段两项数量依据开放摘要，未将文章全文或其所引军官档案标作已核；半薪制度对再动员的意义是据此作出的有限推论。
+
+03_大陆诸国.md:378 [欧1] Adam Jerzy Czartoryski，*Memoirs of Prince Adam Czartoryski and His Correspondence with Alexander I*，1888年英译版，卷一及卷二附录，亚历山大1810年12月25日、1811年1月31日、1812年4月1日书信；Albert Vandal，*Napoléon et Alexandre Ier*，卷一、卷三。书信日期沿刊本，俄历与公历不另擅自转换；回忆叙事与同时代信件分开使用。
+
+03_大陆诸国.md:380 [欧2] Alfred W. Crosby，*America, Russia, Hemp, and Napoleon*，1965，页28、33、145、209—213；项目保存全文已作相应段落核对。N. N. Troshin，“Россия в континентальной блокаде: экономические последствия”，*Национальная безопасность*，6 (41)，2015，页851以下，尤其856，DOI：[10.7256/2073-8560.2015.6.12430](https://doi.org/10.7256/2073-8560.2015.6.12430)：指数是价格比，不是贸易量。
+
+03_大陆诸国.md:382 [欧3] James Davey，*The Transformation of British Naval Strategy: Seapower and Supply in Northern Europe, 1808–1812*所依据的2009年博士论文，页23及表29，印页263；表29大麻目的地合计为100，亚麻和脂油存在缺项或口径问题，未补零。
+
+03_大陆诸国.md:384 [欧4] 涅谢尔罗迭1811年十月报告，刊于Vandal，卷三，附录三；原档未在本次核验，正文以刊本文书而非已缔结条约使用。
+
+03_大陆诸国.md:386 [欧5] Dominic Lieven，*Russia Against Napoleon*，第2—4、7—10章；Richard K. Riehn，*1812: Napoleon’s Russian Campaign*，页85—90、153—154及附录。里恩与利文的一线兵力口径分开，不拼接求总。
+
+03_大陆诸国.md:388 [欧6] John L. H. Keep，*Soldiers of the Tsar*，页145—147、286、296—299。军事殖民地的暴力数字为作者所引行政记录与研究，不声称本次重查俄国原档。
+
+03_大陆诸国.md:390 [欧7] 1807年7月22日《华沙公国宪法》第4条；1807年12月21日农民敕令；Jarosław Czubaty，“Księstwo Warszawskie — pierwsze nowoczesne państwo polskie?”，*Kwartalnik Historyczny*，125:2，2018，页365—401，DOI：[10.12775/KH.2018.125.2.04](https://doi.org/10.12775/KH.2018.125.2.04)；Alexander Grab，*Napoleon and the Transformation of Europe*，波兰章，页176—192。
+
+03_大陆诸国.md:392 [欧8] Dominika Rychel-Mantur，[“Jean-Charles Serra wobec stanu finansów Księstwa Warszawskiego w 1808 r.”](https://doi.org/10.35765/rfi.2025.3103.15)，2025，转引1808年预算文书AE，CP 324、343；Zbigniew Filipiak，“Kwaterunek wojskowy w domach prywatnych Księstwa Warszawskiego. Regulacje prawne”，*Studia Iuridica Toruniensia*，卷IX，页216—217；Wacław Tokarz，*Armja Królestwa Polskiego (1815–1830)*，1917，关于1813—1815年占领供养及会议王国军费的章节。库基耶尔军额仍经后出文献转引，不冒充原卷逐页复核。
+
+03_大陆诸国.md:394 [欧9] [1809年10月14日申布伦和约及秘密条款](https://www.napoleon.org/histoire-des-2-empires/articles/document-traite-de-paix-de-vienne-14-octobre-1809/)，尤其秘密条款II、V；1812年3月14日法奥同盟，公开条款IV、VI及秘密条款II、IV—VI。日期与内容以项目已存转录核对；现代转录不是原签本。
+
+03_大陆诸国.md:396 [欧10] Roland Axtmann，*Geopolitics and Internal Power Structures*，LSE博士论文，1991，财政附录页259—265；[奥地利国家银行：1816—1818年机构史](https://www.oenb.at/Ueber-Uns/unternehmensgeschichte/1816-1818.html)；[维也纳历史知识库：1811年国家破产](https://www.geschichtewiki.wien.gv.at/Staatsbankrott_1811)；[多瑙河蒸汽船公司](https://www.geschichtewiki.wien.gv.at/Donaudampfschiffahrtsgesellschaft)。
+
+03_大陆诸国.md:398 [欧11] 拿破仑1809年5月15日致匈牙利人宣言、9月4日致尚帕尼信及照会；Ágoston Nagy，[“Patriotism, Nation, and Masculinity … Hungarian Insurrectio”](https://hunghist.org/83-articles/774-2022-1-nagy)，*Hungarian Historical Review*，11:1，2022；梅特涅文集法文第三版，1881，卷一，页93—98。
+
+03_大陆诸国.md:400 [欧12] 1808年9月8日巴黎公约、1812年2月24日法普同盟及军事协定；Christopher Clark，*Iron Kingdom*，改革与1813年章节；Steffen Murau，*Sovereign Debt Issuance and Transformation of the Monetary Architecture in Prussia and the German Empire, 1740–1914*，2023，印页7—15。柏林动员材料依项目所存相关研究摘录，未冒称完整地方名册复核。
+
+03_大陆诸国.md:402 [欧13] Grab，前引书，德意志章，页88—110；Karl Beck，*Zur Verfassungsgeschichte des Rheinbunds*，1890，已核开篇引文而非全文；Helmut Berding，*Napoleonische Herrschafts- und Gesellschaftspolitik*，1973，以及〈Das Königreich Westphalen als napoleonischer Modell- und Satellitenstaat (1807–1813)〉，LWL所刊讲稿选段。
+
+03_大陆诸国.md:404 [欧14] Wolfgang Keller、Carol H. Shiue，2014，*Journal of Economic History*，74:4，页1168—1174及后续计量部分，DOI：[10.1017/S0022050714000898](https://doi.org/10.1017/S0022050714000898)。
+
+03_大陆诸国.md:406 [欧15] 1808年巴伐利亚宪法，第I篇及组织条款；Katharina Weigand，[〈Konstitution des Königreichs Bayern (1808)〉](https://www.historisches-lexikon-bayerns.de/Lexikon/Konstitution_des_K%C3%B6nigreichs_Bayern_(1808))，*Historisches Lexikon Bayerns*；1813年10月8日里德条约，公开第4—5条、秘密第5条；Eberhard Weis，1983年巴伐利亚世俗化财政研究。
+
+03_大陆诸国.md:408 [欧16] Michael Kopsidis、Daniel W. Bromley，“The French Revolution and German Industrialization: Dubious Models and Doubtful Causality”，*Journal of Institutional Economics*，12:1，2016，页161—190；其制度测量批评与法国治理收益的全部因果效果分开看待。
+
+03_大陆诸国.md:410 [欧17] Heckscher，*The Continental System*，英译本，页296—314；Grab，页97—101；科隆商会1810年9月16日致Ladoucette信，Schmidt，1905年，附录E转录，底源AN F12 549—550。
+
+03_大陆诸国.md:412 [欧18] 汉堡历史教育网站〈Franzosenzeit〉相关摘录，1813年摊派及银行征用数字依保存转录，不声称复核银行原账；Marcel Marion，*Histoire financière de la France*，卷四，1925，页321。城市惩罚与三省税额只作量级比较。
+
+03_大陆诸国.md:414 [欧19] Marion，卷四，页325；拿破仑1810年7月19日、25日致莫利安及同月致勒布伦书信。
+
+03_大陆诸国.md:416 [欧20] Johan Joor，“A Very Rebellious Disposition: Dutch Experience and Popular Protest under the Napoleonic Regime (1806–1813)”，收入*Soldiers, Citizens and Civilians*，2009，页181—197。事件类别、起义定义与地域覆盖沿作者口径。
+
+03_大陆诸国.md:418 [欧21] 1803年2月19日《调停法》；1803年9月27日法瑞军事协约，第18—19、24—25条；拿破仑1810年七月、十一月瓦莱通信与兼并敕令。
+
+03_大陆诸国.md:420 [欧22] H. Arnold Barton，*Scandinavia in the Revolutionary Era, 1760–1815*，1986，页294—318、330—355；Rasmus Glenthøj、Morten Nordhagen Ottosen，*Experiences of War and Nationality in Denmark and Norway, 1807–1815*；1814年基尔条约第4、6条；1809年波尔沃保证书。挪威粮食危机用当时预警与研究判断，不把预警当死亡实数。
+
+03_大陆诸国.md:422 [欧23] M. M. Speransky，〈呈亚历山大一世的1810年政务报告〉，1811年2月11日，初刊*Сборник Русского исторического общества*，卷21，1877，页447—462；[报告转录](http://dugward.ru/library/speranskiy_m/speranskiy_otchet_v_delah_1810.html)。作者的预算与自辩同实收、独立审计分别看待。
+
+03_大陆诸国.md:424 [欧24] Sergei Antonov，*Bankrupts and Usurers of Imperial Russia: Debt, Property, and the Law in the Age of Dostoevsky and Tolstoy*，Harvard University Press，2016，页28—32；Patricia Herlihy，*Odessa: A History, 1794–1914*，1986，页37—44、64—70、96—101；[俄国总统图书馆：皇村铁路开通](https://www.prlib.ru/history/619711)。安东诺夫与赫利希采用项目保存的OCR选段，未全书逐页校影。
+
+03_大陆诸国.md:426 [欧25] 1803年6月3日苏林根专约第10、13、15条；1803年7月5日阿特伦堡专约；汉诺威转让与对英谈判参见Julian S. Corbett，*The Campaign of Trafalgar*，相关外交章节。国王德意志军团本次未逐名复核兵籍，因此不提供可与解散人数直接相减的迁出总数。
+
+04_西班牙与意大利.md:407 [南1] Emilio La Parra López，*Manuel Godoy: La aventura del poder*，2002；*Fernando VII: Un rey deseado y detestado*，2018，关于1807—1808年宫廷危机的章节及1807年10月11日、11月13日、11月18日、1808年1月10日信件。电子本无稳定印页，按事件日期定位，不伪造页码。1807年10月27日《枫丹白露条约》及附属军事约定，参见Toreno，*Historia del levantamiento, guerra y revolución de España*的文书转录。旧稿曾涉及的1808年3月29日“劝缪拉谨慎”信，不作同期证据。
+
+04_西班牙与意大利.md:409 [南2] 西班牙国家统计局，[《1797年戈多伊人口普查》说明与总数](https://www.ine.es/censo2001/godoy.htm)；[原刊第一卷影像](https://ine.es/prodyser/pubweb/censo_godoy/Censo_Godoy_T1.pdf)，总表第XLIV号，电子文件第49页。表的分类与卡拉汉调整口径分别说明。
+
+04_西班牙与意大利.md:411 [南3] Richard Herr，*Rural Change and Royal Finances in Spain at the End of the Old Regime*，University of California Press，1989，页137—148，附录C页766—767及附录D。所据1808年账目原藏法国国家档案馆AF IV 1608B；本次使用作者刊出的数据，未声称亲查原档。
+
+04_西班牙与意大利.md:413 [南4] Carlos Marichal，*Bankruptcy of Empire: Mexican Silver and the Wars between Spain, Britain and France, 1760–1810*，Cambridge University Press，2007，页149—151及关于Consolidación与霍普融资的章节。比索、里亚尔、法郎、荷兰盾不在缺乏同日汇率的情况下混加。
+
+04_西班牙与意大利.md:415 [南5] William J. Callahan，*Church, Politics, and Society in Spain, 1750–1874*，Harvard University Press，1984，页8—9及教产处置相关章节。本次直接复核书中相应段落；148,409为作者调整数，不冒充对原始登记逐人清点。
+
+04_西班牙与意大利.md:417 [南6] Ronald Fraser，*Napoleon’s Cursed War: Spanish Popular Resistance in the Peninsular War, 1808–1814*，Verso，2008，地方洪塔、五月起义及人口影响各章。电子版按主题章节定位；人口样本不当作全国总伤亡。
+
+04_西班牙与意大利.md:419 [南7] John Lawrence Tone，*The Fatal Knot: The Guerrilla War in Navarre and the Defeat of Napoleon in Spain*，University of North Carolina Press，1994，纳瓦拉社会结构、征发及志愿者样本各章。Charles Esdaile，*Fighting Napoleon: Guerrillas, Bandits and Adventurers in Spain, 1808–1814*，2004；*The Peninsular War: A New History*，2002，作为抵抗内部差异与正规军作用的对照。
+
+04_西班牙与意大利.md:421 [南8] Josep Fontana，*La quiebra de la monarquía absoluta, 1814–1820*，财政危机及1820年军队章节；Mark Lawrence，*The First Carlist War in Spain, 1833–1840*，关于地方、王朝与社会联盟的分析。后二十年的史实作机制参照，不把具体继承婚配原样移入反事实。
+
+04_西班牙与意大利.md:423 [南9] Alexander Grab，*Napoleon and the Transformation of Europe*，2003，葡萄牙章，页144—151；Alan K. Manchester，*British Preeminence in Brazil: Its Rise and Decline*，1933，关于1807年撤离与1810年条约的章节；斯特朗福德报告，[*London Gazette Extraordinary*，第16100号，1807年12月22日](https://www.thegazette.co.uk/London/issue/16100/data.pdf)。
+
+04_西班牙与意大利.md:425 [南10] Jorge M. Pedreira，“From Growth to Collapse: Portugal, Brazil, and the Breakdown of the Old Colonial System, 1760–1830”，*Hispanic American Historical Review*，80:4，2000，页839—864，尤其850—852；Kenneth Maxwell，“Why Was Brazil Different?”，收入*Naked Tropics*，页145—165；Kirsten Schultz，*Tropical Versailles: Empire, Monarchy, and the Portuguese Royal Court in Rio de Janeiro, 1808–1821*，2001。各作者因果解释不视作彼此完全独立的原始数据。
+
+04_西班牙与意大利.md:427 [南11] Charles Oman，*A History of the Peninsular War*，卷三、四，葡萄牙军队及英葡军饷章节；Esdaile，*The Peninsular War*，葡萄牙重建段落。编制、实有和威灵顿麾下人数分别列示。
+
+04_西班牙与意大利.md:429 [南12] Grab，前引书，意大利章，页156—175；法属意大利各区域与达尔马提亚改革段落。极盛疆域不能当作1807年主线既有疆域。
+
+04_西班牙与意大利.md:431 [南13] Stefano Levati，“Prina, Giuseppe”，*Dizionario Biografico degli Italiani*，2016；欧仁、梅尔齐等相关传记及1814年米兰危机材料。部门裁员与贴现银行提议按传记限定，提议不计作已实施。
+
+04_西班牙与意大利.md:433 [南14] Eli F. Heckscher，*The Continental System: An Economic Interpretation*，1922年英译版，页296—301；1810年8月23日政策讨论。半数贸易份额与商业限制用以说明相互依赖不等于平等。
+
+04_西班牙与意大利.md:435 [南15] [1805年3月17日意大利宪制章程](https://fr.wikisource.org/wiki/Statut_constitutionnel_du_17_mars_1805)，尤其第2—4条；[1806年2月16日宪制章程](https://fr.wikisource.org/wiki/Statut_constitutionnel_du_16_février_1806)；1806年3月30日那不勒斯授封法令，见[《拿破仑著作集》第四卷，1821年刊本](https://www.gutenberg.org/cache/epub/13192/pg13192-images.html)。原工程所存1805年法令影像亦已核正文；现代转录与原签本不等同。
+
+04_西班牙与意大利.md:437 [南16] 拿破仑1810年1月3日致阿尔迪尼信、2月17日元老院法令、3月1日致元老院咨文；项目保存的*Correspondance de Napoléon Ier – Janvier-Février-Mars 1810*现代转录。正文区分原文规定与继承格局的解释，不把封产自动写成法定废权。
+
+04_西班牙与意大利.md:439 [南17] 拿破仑1811年11月27日致欧仁信，*Correspondance générale*，编号29210；1811年7月6日致克拉克信，关于格勒尼耶与驻那不勒斯法军的指挥关系。
+
+04_西班牙与意大利.md:441 [南18] *Correspondance de Napoléon Ier*，卷三十，*Six notes sur l’ouvrage intitulé Les Quatre Concordats*，第四节，印页549；Las Cases，*Mémorial de Sainte-Hélène*，1816年11月11日谈话。前者“1811年宗教会议”是所论事件，后者是流亡回忆，均不标成同期已执行统一计划。
+
+04_西班牙与意大利.md:443 [南19] John A. Davis，*Naples and Napoleon: Southern Italy and the European Revolutions, 1780–1860*，Oxford University Press，2006，页143；日期纠正参见[拿破仑基金会《通信全集》第八卷1808年年表](https://www.napoleon.org/histoire-des-2-empires/chronologies/chronologie-de-la-correspondance-generale-de-napoleon-bonaparte-tome-8-1808-expansions-meridionales-et-resistances/)及Jean Tonnelé，[“Joachim Murat, roi de Naples”](https://www.persee.fr/doc/rharm_0035-3299_1968_num_24_2_8415)，*Revue historique des Armées*，24:2，1968，页93—112。
+
+04_西班牙与意大利.md:445 [南20] Davis，前引书，封建制度废除、土地与王国财政各章；Jacques Rambaud，*Joseph Bonaparte en Italie, 1806–1808*，关于1808年财政表的章节；R. M. Johnston，*The Napoleonic Empire in Southern Italy and the Rise of the Secret Societies*，1904，卷一。债务范围不同不合并；法国补助与对法支付并列看待。
+
+04_西班牙与意大利.md:447 [南21] Davis，页144—160，尤其152—159；引莫斯堡1812年11月14日报告、蒂尼1813年1月30日报告、缪拉1811年10月21日信。档案出处由作者提供，正文不把刊本转引冒充此次阅档。
+
+04_西班牙与意大利.md:449 [南22] Davis，卡拉布里亚镇压与地方土地关系各章；本项目先前估算的成本区间只作为明确列假定的比较工具。1807年四十五万杜卡特为两省土地税实收，不是全部税收；5421人为多种处置结果合计。
+
+04_西班牙与意大利.md:451 [南23] Desmond Gregory，*Sicily: The Insecure Base. A History of the British Occupation of Sicily, 1806–1815*，1988；John Rosselli，*Lord William Bentinck and the British Occupation of Sicily, 1811–1814*，1956，关于补贴、1812年宪法与英军防务的章节。
+
+04_西班牙与意大利.md:453 [南24] Davis，1820年革命与西西里各章。1816年商约中的部分关税优惠及于英国、法国与西班牙，不写成英国独占；地方派别不归并为全岛一致分离运动。
+
+04_西班牙与意大利.md:455 [南25] 1801年7月15日政教协定，尤其第1、4—5、13—14条；1802年《组织条款》；1806年《帝国教理》。宗教群体分别讨论，不把法律平等与全部实际待遇混同。
+
+04_西班牙与意大利.md:457 [南26] 1808年教廷有关港口与同盟的往来；庇护七世1809年6月10日《Quum memoranda》；Ercole Consalvi与Bartolomeo Pacca回忆材料；Grab关于宗教政策、比利时及意大利社会反应的章节。
+
+04_西班牙与意大利.md:459 [南27] 1813年1月25日枫丹白露条文、2月13日公布及3月24日教皇撤回文书；Bartolomeo Pacca，1833年法文回忆录关于受胁迫承诺与帕斯加二世先例的段落。教廷当事人的辩护与独立事实分开使用。
+
+04_西班牙与意大利.md:461 [南28] [1808年7月6日《巴约讷宪章》](https://www.cervantesvirtual.com/obra-visor/constitucion-de-bayona-6-de-julio-1808/html/437fe325-fb92-48b7-a963-a36d6a8fd6af_2.html)，所引条款均按条号定位；Juan López Tabar，*El fracaso de la tercera vía. José I y los afrancesados, 1808–1813*，页35—45；Gérard Dufour，“Los afrancesados o una cuestión política: los límites del despotismo ilustrado”，*Cuadernos de Historia Moderna. Anejos*，VI，2007，页269—277。数字是作者人物名录，不是社会支持率。
+
+04_西班牙与意大利.md:463 [南29] 缪拉，1815年3月30日《里米尼宣言》；[意大利文宣言转录](https://it.wikisource.org/wiki/Proclama_di_Rimini)，与1806年3月30日那不勒斯授封及1808年7月15日巴约讷条约分别使用，不混淆三个“三十日”。
+
+05_大西洋与美洲.md:497 [补5] Rory Muir，*Wellington: The Path to Victory* 配套学术注释，第 14 章，“AW, Miranda and plans for expeditions to Latin America”“British reaction to events at Aranjuez”及“AW’s instructions”；[公开注释全文](https://lifeofwellington.co.uk/commentary/chapter-fourteen-dublin-and-westminster-october-1807-july-1808/)。注释引威尔斯利 1808 年 2 月 8 日备忘录，*Supplementary Despatches*, vol.6, pp.61–66；波特兰与国王 4 月 21—22 日往来，*Later Correspondence of George III*, vol.5, pp.67–69；卡斯尔雷 6 月 30 日私人信，Southampton, Wellington Papers, WP 1/205。本次读到的是穆尔转引和说明，不冒充亲读手稿。
+
+05_大西洋与美洲.md:499 [补6] Muir，同上，“AW’s constitutional ideas”及“AW, Miranda and plans for expeditions to Latin America”；所引威尔斯利 1808 年 2 月 8 日备忘录，*Supplementary Despatches*, vol.6, pp.61–66。最后两句是从实际政策讨论推出的大胆条件方案，不宣称这些国家后来必然采用该宪制。
+
+05_大西洋与美洲.md:503 [美补1] 1795年7月22日法西巴塞尔和约有关圣多明各条款；1802年3月27日亚眠和约第3条；1814年5月30日巴黎和约第8—9条，[巴黎和约转录](https://www.napoleon-empire.org/texte-officiel/traite-de-paris-1814.php)。本文用条约确认欧洲缔约者的权利处分，不把条约本身当作当地居民接受安排的证据。
+
+05_大西洋与美洲.md:505 [美补2] Fredrik Thomasson，“Entre rêves coloniaux et réalités politiques : la Guadeloupe suédoise (1813–1814) et ses conséquences”，载*Les occupations anglaises de la Guadeloupe*，页105—122，尤其页115—117，[全文](https://www.erudit.org/en/books/hors-collection/les-occupations-anglaises-guadeloupe-978-2-900339-41-1/004489co.pdf)。该文所引1813年3月3日斯德哥尔摩条约与1814年8月13日伦敦专约，分别处理让岛与补偿；缔约日、实际付款日、国家与王室的受益归属须分开。
+
+05_大西洋与美洲.md:507 [美补3] Luis Alfonso Escolano Giménez，“La guerra de la Reconquista en Santo Domingo (1808–1809): una lucha por la continuidad histórica”，*Boletín del Archivo General de la Nación*，XXXIV/125，2009，页635起，[多米尼加国家总档案馆刊本](https://agn.gob.do/phocadownload/BAGN/BAGN_2009_No_125.pdf)，关于起义、本地利益及外援；John A. Davis，*Naples and Napoleon: Southern Italy and the European Revolutions, 1780–1860*，Oxford University Press，2006，关于1799年革命、法属时期地方社会及王国；并与本书第五章那不勒斯、卡拉布里亚与缪拉条约的证据互校。比较是机制推论，不给三例附上未经校准的生存概率。
+
+07_行省化的边界.md:240 [省1] Michael Rowe, *From Reich to State: The Rhineland in the Revolutionary Age, 1780–1830*, Cambridge University Press, 2003，尤其第4、6章，页90—113、179—190。本文使用其地方任官、司法程序、征兵及政治参与材料；原档引文经Rowe转引，并非本次逐件核档。
+
+07_行省化的边界.md:242 [省2] Stuart Woolf, *Napoleon’s Integration of Europe*, Routledge, 1991，页72—81及有关显贵归附的论述；Alexander Grab, *Napoleon and the Transformation of Europe*, Palgrave Macmillan, 2003，比利时、德意志、意大利各章。省长“人次”“人数”“国籍”和“出生地”的统计定义不宜互换。
+
+07_行省化的边界.md:244 [省3] Rowe，前引书，页167—168、179。第168页表1及表前说明已重新核对原书文本：人口偏低是作者明确讨论的问题，不是本书推测；第179页表3的征兵与逃亡口径保持独立。
+
+07_行省化的边界.md:246 [省4] Francesco Frasca，“La conscription dans les départements piémontais de l’Empire français (1800–1810)”，*Mélanges de l’École française de Rome. Italie et Méditerranée*，102(1)，1990，第211—221页，[原刊](https://www.persee.fr/doc/mefr_1123-9891_1990_num_102_1_4089)；Roger Darquenne，“La situation conscriptionnelle en 1806 dans six départements belges”，*Revue belge de philologie et d’histoire*，47(2)，1969，第488—501页，[原刊](https://www.persee.fr/doc/rbph_0035-0818_1969_num_47_2_2773)。比利时全期累计数通过Frasca第221页及注41所引Fred Stevens词条与Darquenne取得，区别于Darquenne1969文的1806年横断面；未据此声称各累计事件已去重。
+
+07_行省化的边界.md:248 [省5] Gildas Lepetit, “Les hommes de la gendarmerie d’Espagne (1809–1814),” *Force publique*, 1, 2006，页31—44；Thierry Lentz, “La gendarmerie du Consulat et de l’Empire”；历史宪兵学会《La Révolution et l’Empire》。[Lepetit全文](https://www.napoleon.org/histoire-des-2-empires/articles/les-hommes-de-la-gendarmerie-despagne-1809-1814/)；[Lentz全文](https://www.napoleon.org/histoire-des-2-empires/articles/la-gendarmerie-du-consulat-et-de-lempire/)。
+
+07_行省化的边界.md:250 [省6] Aurélien Lignereux，“Accommodation et arrangements dans les départements réunis : l’éclairage paradoxal des rébellions (1800–1813)”，收于Jean-François Chanet、Annie Crépin、Christian Windler编，*Le Temps des hommes doubles. Les arrangements face à l’occupation, de la Révolution française à la guerre de 1870*，Rennes：Presses universitaires de Rennes，2013，第107—126页，[全文](https://books.openedition.org/pur/134235)。本次取得并核读研究全文；事件口径为至少三人参与、针对宪兵的集体暴力，警察记录覆盖不均，不能扩大为全部反抗行为或全部居民的政治态度。
+
+07_行省化的边界.md:252 [省7] Johan Joor关于1806—1813年荷兰反抗与骚动的研究；Katherine B. Aaslestad关于汉萨城市与大陆体系的研究；Marcel Marion, *Histoire financière de la France depuis 1715*, t. IV, 1925，页321—325。荷兰与汉堡的具体贸易、债务和暴动材料，另见本书英国海权、大陆诸国及经济编。
+
+07_行省化的边界.md:254 [省8] Grab，前引书，意大利及伊利里亚部分；Louis Madelin, *La Rome de Napoléon*, Plon, 1906，罗马征兵与行政诸章；本书保留其报告的个别队列，不把它们推广为全区恒定参数。
+
+07_行省化的边界.md:256 [省9] Charles Esdaile关于半岛战争与约瑟夫王国的研究；Grab，西班牙章；1810年军事政府与1812年加泰罗尼亚行政划分文书。法理地位、军事占领与民政实际分别判断。
+
+07_行省化的边界.md:258 [省10] 本研究依据前述军队、财政与地方治理文献建立的比较模型。全部人口、军价、可用率、盟军留用、税余和驻防假设均属情景输入；表格不是历史统计。账目修正已剔除既有并合税收的重复计入，并保留使较大方案转正的联合有利反例。原始数据与计算结果随独立研究审计保留。
+
+08_新秩序的经济与社会.md:429 [经1] Eli F. Heckscher, *The Continental System: An Economic Interpretation*, 1922，尤其产业与大陆内部贸易诸章；拿破仑1810年8月23日致欧仁信，经该书页297转引。引语仅用于说明政策优先次序，不代表所有年份和所有部门都按同一方式执行。
+
+08_新秩序的经济与社会.md:431 [经2] Geoffrey Ellis, *Napoleon’s Continental Blockade: The Case of Alsace*, Clarendon Press, 1981，附录D、G、I、J，页281—290。本次直接核对第285—286、288—290页图像；其他意大利地区1806年为20.172而非旧摘录20.52，1815年脚注中撒丁数值为12.279而非39.28。详细表及更正见资料附编。
+
+08_新秩序的经济与社会.md:433 [经3] Heckscher，前引书；Katherine B. Aaslestad与Johan Joor主编，*Revisiting Napoleon’s Continental System: Local, Regional and European Experiences*, 2015，各地贸易、执法和抵抗研究。保险数字属于不同路线与时段，不按单一欧洲税率使用。
+
+08_新秩序的经济与社会.md:435 [经4] M. G. Buist, *At Spes Non Fracta: Hope & Co. 1770–1815*, Martinus Nijhoff, 1974，尤其页297—331，关于法西财政危机、Account X、Parish业务与汇兑的讨论。本文区分账面债权、实物白银、汇票与国库可用现金。
+
+08_新秩序的经济与社会.md:437 [经5] Giovanni Assereto, “La Casa di San Giorgio: il potere del credito,” 2004年热那亚会议论文，页173—177；Marion, *Histoire financière*, t. IV；有关Monte Napoleone的意大利公共档案机构说明。汉堡银行数字来自有关银行史转录；储备没收不能推广为全欧洲银行制度的普遍状态。
+
+08_新秩序的经济与社会.md:439 [经6] Niall Ferguson, *The House of Rothschild*, vol. I, *Money’s Prophets, 1798–1848*, 1998，关于1814—1818年汇兑、补贴、公债和资本协议诸节。本工程使用电子本；与Buist处理同一法西白银业务时，两者不按完全独立证据计算。
+
+08_新秩序的经济与社会.md:441 [经7] Nicholas Crafts, “Steam as a General Purpose Technology: A Growth Accounting Perspective,” *Economic Journal*, 114, 2004；John Kanefsky与John Robey关于英国早期蒸汽机的研究；NBER法国工业蒸汽动力历史系列；David H. Pinkney, “Paris, capitale du coton sous le Premier Empire,” *Annales*, 5(1), 1950，页56—60。英国棉纺锭数保留为文献量级，不声称已重建英方全部底册。
+
+08_新秩序的经济与社会.md:443 [经8] Heckscher，前引书；Rainer Fremdling关于英国冶铁技术在大陆转移与适应的研究及其法、比统计表；Mitchell历史统计系列的相关转录。科克里尔的后续投资依赖史实荷兰及比利时制度，不被自动移入法国胜利主线。
+
+08_新秩序的经济与社会.md:445 [经9] Jean-Antoine Chaptal, *De l’industrie françoise*, t. II, 1819，页203—204及制造业各节。利润份额、资本回报率、毛产值和增加值在本文严格分开。
+
+08_新秩序的经济与社会.md:447 [经10] 1803年法国币制、1806年意大利王国里拉安排；Luca Einaudi关于拉丁货币同盟的研究；1867年法国外交照会转录。[美国国务院历史文献转录](https://history.state.gov/historicaldocuments/frus1867p1/d291)。1865年制度仅作后来的类比，不作为1815年自动发生的事实。
+
+08_新秩序的经济与社会.md:449 [经11] René Descombes，“Recherches sur le Magistrat du Rhin”，*Revue d’Alsace*，138，2012，第83—112页，[全文](https://doi.org/10.4000/alsace.1615)；1811年道路分类法令及Jean-Luc Arnaud的历史地图研究；瑞士辛普朗历史交通遗产资料、圣康坦运河地方遗产说明、安特卫普港池文物清册。节点建成、配套完成和全网络畅通分别判断。
+
+08_新秩序的经济与社会.md:451 [经12] 比利时1834年铁路立法与铁路博物馆历史资料；法国1842年大干线法；C. Lavollée, “Les Chemins de fer français en 1866 et leur influence sur la propriété du pays,” *Revue des Deux Mondes*, 2e période, t. 61, 1866，页5—40，第一节，[同期回顾转录](https://fr.wikisource.org/wiki/Les_Chemins_de_fer_fran%C3%A7ais_en_1866_et_leur_influence_sur_la_propri%C3%A9t%C3%A9_du_pays)。Lavollée列1841年底569公里，旧摘录319及其他资料566—573公里须进一步按线路与截止日统一；本书采用约570公里，不以不同口径拼接精确增长曲线。
+
+08_新秩序的经济与社会.md:453 [经13] 普鲁士1811年调整敕令、1816年声明，见German History in Documents and Images文书；Grab，*Napoleon and the Transformation of Europe*；德意志农奴制与私法转型研究。人身、租赋、产权与补偿制度分别讨论。
+
+08_新秩序的经济与社会.md:455 [经14] Ute Planert, *Der Mythos vom Befreiungskrieg*, 2007；本工程主要通过学术书评和既有研究摘录使用其论点，未声称通读该书。Johann Gottlieb Fichte, *Reden an die deutsche Nation*, 1808；有关接受史、普鲁士美德同盟和1813年动员的研究。
+
+08_新秩序的经济与社会.md:457 [经15] Grab，前引书，法国教育与法律诸节；帝国时期出版审查研究；Benjamin Constant, *De l’esprit de conquête et de l’usurpation*, 1814，第12—13章，以及1815年《附加法》相关文书。
+
+08_新秩序的经济与社会.md:459 [经16] Black Sea Project，敖德萨进出口工作表与编制说明，[项目资料](https://cities.blacksea.gr/en/odessa/5-7/)。公吨是后设换算，部分单位说明有待回查原俄文统计；本书只使用约数与明确非空单元。
+
+08_新秩序的经济与社会.md:461 [经17] Paul L. Dawson，“Napoleon’s Equine Strategy in 1813”，*The Napoleon Series*，2013年9月，[文章](https://www.napoleon-series.org/military-info/organization/France/Cavalry/Remounts/c_remounts1813.html)；Chaptal关于森林、原料与工业的统计；法国海军木材和造船研究。Dawson使用档案的论述在本文属研究转引，不称本次直接核过所有军马原册。
+
+08_新秩序的经济与社会.md:463 [经18] Jürg Luterbacher、Christian Pfister，“The Year without a Summer”，*Nature Geoscience*，8，2015，第246—248页，[DOI](https://doi.org/10.1038/ngeo2404)；Rudolf Brázdil、Ladislava Řezníčková、Hubert Valášek、Lukáš Dolák、Oldřich Kotyza，“Climatic Effects and Impacts of the 1815 Eruption of Mount Tambora in the Czech Lands”，*Climate of the Past*，12，2016，第1361—1374页，尤其第1368页，[DOI](https://doi.org/10.5194/cp-12-1361-2016)；Andrew P. Schurer等，“Disentangling the Causes of the 1816 European Year without a Summer”，*Environmental Research Letters*，14，2019，094019，[DOI](https://doi.org/10.1088/1748-9326/ab3a10)。疫病参见Friedrich Prinzing，*Epidemics Resulting from Wars*，Oxford：Clarendon Press，1916，第115—121、134—139页；Iwona Janicka，“The Register of the Dead from Cholera in Vilnius Pohulanka Hospital in 1831 as a Source for Demographic and Social Studies”，*Przeszłość Demograficzna Polski*，42，2020，第75—94页，[DOI](https://doi.org/10.18276/pdp.2020.42-03)。气候模拟、地方粮价、病院病例病死率和人口超额死亡分别处理。
+
+08_新秩序的经济与社会.md:465 [经19] Daron Acemoglu、Davide Cantoni、Simon Johnson、James A. Robinson，“The Consequences of Radical Reform: The French Revolution”，*American Economic Review*，101(7)，2011，第3286—3307页，[DOI](https://doi.org/10.1257/aer.101.7.3286)；Michael Kopsidis、Daniel W. Bromley，“The French Revolution and German Industrialization: Dubious Models and Doubtful Causality”，*Journal of Institutional Economics*，12(1)，2016，第161—190页，尤其表2、表4，[DOI](https://doi.org/10.1017/S1744137415000223)；Réka Juhász，“Temporary Protection and Technology Adoption: Evidence from the Napoleonic Blockade”，*American Economic Review*，108(11)，2018，第3339—3376页，[DOI](https://doi.org/10.1257/aer.20151730)。本书Juhász的具体数字与表号据2018年4月2日作者稿，尤其第42、45页，未将作者稿页码冒充刊本页码。Wolfgang Keller、Carol H. Shiue，“Endogenous Formation of Free Trade Agreements: Evidence from the Zollverein’s Impact on Market Integration”，*The Journal of Economic History*，74(4)，2014，第1168—1204页，尤其第1192—1194页及表3，[DOI](https://doi.org/10.1017/S0022050714000898)。封锁福利估计采用Kevin H. O’Rourke，“The Worldwide Economic Impact of the Revolutionary and Napoleonic Wars”，NBER Working Paper 11344，2005年5月，表3—4，[工作论文](https://www.nber.org/papers/w11344)；实际使用2005年稿，不以2006年期刊版本代称。识别对象、时间窗口与估计不确定性见资料附编。
+
+08_新秩序的经济与社会.md:467 [经20] Silvia Marzagalli，“Port Cities in the French Wars: The Responses of Merchants in Bordeaux, Hamburg and Livorno to Napoleon’s Continental Blockade, 1806–1813”，*The Northern Mariner / Le Marin du nord*，6(4)，1996，第65—73页，尤其第68—70页。本次核对本工程保存原刊PDF相关文字；商人与海关行为依作者档案研究，不冒称逐件核过其商会原档。
+
+08_新秩序的经济与社会.md:469 [经21] 拿破仑1810年5月5日致莫利安信，安特卫普，[通信集五月文书转录](https://napoleon-histoire.com/correspondance-de-napoleon-ier-mai-1810/)。本书核读保存的信件正文；信中目标、批评与执行成效分别处理。
+
+08_新秩序的经济与社会.md:471 [经22] Heckscher，*The Continental System*，1922，页178—179、236；Alexander Grab，“The Kingdom of Italy and the Continental Blockade”，载Aaslestad与Joor主编，*Revisiting Napoleon’s Continental System*，2015，页103；Tito Benady，*The Maritime Trade of Gibraltar 1805–1819*，[马耳他大学所存工作稿](https://www.um.edu.mt/__data/assets/pdf_file/0016/91501/benady1.pdf)，页3—5。Benady工作稿正文与附表船数不一致；本书保留差异而不据它计算精确增长率，详见资料附编。
+
+08_新秩序的经济与社会.md:473 [经23] Heckscher，前引书，页224，转录1810年9月28日致达武信；Michael Rowe，“Economic Warfare, Organized Crime and the Collapse of Napoleon’s Empire”，载Aaslestad与Joor主编，前引书，页187—204，尤其页187、191、193—195。每千公里人力、间接费用倍率与十万人军费均属按这些费用和组织尺度所作的情景外推，不冒称原书直接统计结果。
+
+08_新秩序的经济与社会.md:475 [经24] Rüdiger Glaser、Iris Himmelsbach、Annette Bösmeier，“Climate of Migration? How Climate Triggered Migration from Southwest Germany to North America during the 19th Century”，*Climate of the Past*，13，2017，页1573—1592，关于1816—1817年危机一节，[全文](https://doi.org/10.5194/cp-13-1573-2017)。年度出境登记、天气与行政应对分别使用，不将观察相关写成单一气候原因。
+
+09_另一条十九世纪.md:296 [终1] 本书导论及法国、英国诸编所引1801—1807年条约、海军和战争资料。1803年和平分支与1807年后整固分支，分别保留其真实前提，不借用被移除战争的成果。
+
+09_另一条十九世纪.md:298 [终2] 本书大陆诸国编所引塔列朗1805年意见、普雷斯堡与提尔西特安排、奥地利和普鲁士财政军备材料。有限战争及条约复审为本书推演，不是未发生的协议原文。
+
+09_另一条十九世纪.md:300 [终3] 1810年波兰公约草案、拿破仑未批准的后续过程、俄法外交往来及涅谢尔罗迭1811年备忘录，见大陆诸国编。内部备忘录不等于已获批准并交付法方的正式提议。
+
+09_另一条十九世纪.md:302 [终4] Bassano于1812年4月17日的建议与Castlereagh于4月23日的答复，同期转载于1813年3月13日*Java Government Gazette*，本书英国编已核对原报图像与全文。其条件用于判断西班牙合法性在谈判中的分量，不证明改变一项条件便必然缔约。
+
+09_另一条十九世纪.md:304 [终5] 1815年11月20日四国同盟，尤其有关会议、波拿巴与军事安排的条款；1804年莱茵共同航行及工程协调安排。法国主导的争端委员会、限期复核与共同担保，是根据这些同时代制度构件提出的反事实方案。
+
+10_资料附编.md:423 [资1] Pierre Branda, “Did the War Pay for the War?”, *Napoleonica. La Revue*, 2008/3，页2—15，附录I—IV，[出版方全文及原表](https://shs.cairn.info/journal-napoleonica-la-revue-2008-3-page-2?lang=en)。驻军、普通贡赋、非常领域和1815年赔款各表均核对出版方原始图像，区别于网页自动生成的表格识别文字；图像可确认格位与源内错算，不等于上游国库底账已逐项重建。
+
+10_资料附编.md:425 [资2] Mark Edward Hay, “Making War Pay for War: Napoleon and the Dutch War Subsidy, 1795–1806,” *TSEG*, 17(2), 2020，页55—82，表2—5，[开放全文](https://repub.eur.nl/pub/131184/1102-2139-1-PB.pdf)。
+
+10_资料附编.md:427 [资3] Geoffrey Ellis, *Napoleon’s Continental Blockade: The Case of Alsace*, 1981，附录G、I、J，页285—290。原始上游为法国官方统计、部务表和后来的编纂；本书直接复核Ellis原书图像，不冒称已逐件查看全部法国国家档案。
+
+10_资料附编.md:429 [资4] 各研究完整名称见经济编〔经19〕。具体效应量沿本工程所存原论文及复核笔记的指定规格，不跨规格合成。
+
+10_资料附编.md:431 [资5] Paul Bairoch，“International Industrialization Levels from 1750 to 1980”，*The Journal of European Economic History*，11(2)，1982，第269—333页，表9，[原刊题录](https://www.jeeh.it/articolo?ev=1&urn=urn%3Aabi%3Aabi%3ARIV.JOU%3A1982%3B2.269)。本书工业化指数通过Richard E. Baldwin、Philippe Martin，“Two Waves of Globalisation: Superficial Similarities, Fundamental Differences”，NBER Working Paper 6904，1999年1月，表2转引，未据此声称直接复核Bairoch原表。人均GDP采用Jutta Bolt、Jan Luiten van Zanden，*Maddison Project Database, version 2020*，并参见二人“Maddison Style Estimates of the Evolution of the World Economy: A New 2020 Update”，[数据库及说明](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2020)。英国1700—1870年数据的上游文献为Stephen Broadberry、Bruce M. S. Campbell、Alexander Klein、Mark Overton、Bas van Leeuwen，*British Economic Growth, 1270–1870*，Cambridge University Press，2015。历史疆界、后设地区聚合和国民账户重建，不等于同时代官方普查。
+
+10_资料附编.md:433 [资6] 本研究军事对弈与省化模型的源代码、输入和生成表。本次对普鲁士参数、固定役期公式及队列饱和时点作源级核对；不把局部算术修正伪装为整个政治模型已经重新验证。
+
+10_资料附编.md:435 [资7] Tito Benady，*The Maritime Trade of Gibraltar 1805–1819*，马耳他大学所存“Work in Progress”工作稿，尤其页3—5，[全文](https://www.um.edu.mt/__data/assets/pdf_file/0016/91501/benady1.pdf)。另有同题期刊题录：*Journal of Mediterranean Studies*，19(2)，2010，页187—200；本书核对的是大学库工作稿，不将其页码或表内错误自动归给未经复核的期刊版。
+
+10_资料附编.md:437 [资8] 汉萨与荷兰部分分别见Aaslestad、Joor的区域研究及Woolf、Grab对帝国行政整合的讨论。此段数量来自研究摘录，未逐项回核其原始统计表，证据等级低于本书直接核过的贸易与财政表；保留是为公开所据的比较思路，不用于计算城市损失率或确定行政建设时限。

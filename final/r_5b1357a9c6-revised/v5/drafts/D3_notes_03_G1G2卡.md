@@ -1,0 +1,51 @@
+# D3 笔记 03：G1、G2 研究卡要点（写作用）
+
+## G1（t_f55d87/G1_south_german_states.md）独有细节
+- 四条件（:11–16）：担保独占（HdBG人质领土原句：领土所得主要取自哈布斯堡=拿破仑有意为之，使巴伐利亚永久绑定法国；法国战运一转，巴伐利亚即暴露于奥地利复仇——downloads/pages/6fc5e566ba0b.md）；血税上限；主权底线；经济通道。
+- 1809年法国胜负未卜时三邦均出兵（巴军对奥主力辅助、符军镇压蒂罗尔—福拉尔贝格、平原无起义——Grab p.108）。
+- 巴伐利亚：Max IV./I. Joseph 1799即位选侯，1806-01-01称王；Montgelas 1796 Ansbach备忘录"自上而下的革命以免自下而上的革命"（HLB/Weigand 5df7f181c2a5.md）；1808-05-01/25宪法；15个Kreis；国民代表机关从未召集，Montgelas到1818/19仍认为巴伐利亚人"不够成熟"；王储路德维希不满。正统性：普雷斯堡"de la plénitude de la souveraineté"；宪法§1把邦联成员资格写成根本法第一条。
+- 符腾堡：1797即位；设警察部与最高书刊检查署；面积翻倍、9帝国城市+教产；1802-05-20巴黎条约保障公国存续；新领土编三Landvogteien、以关税壁垒与旧符腾堡隔开；1800被法军逐出本土→"教会他与强邻妥协"；Mergentheim 1809抗征兵死刑与Hohenasperg监禁镇压；1813富尔达条约（1813-11-02）才转；1815-03-15召集等级会议提钦定宪法被拒（"das gute alte Recht"）；1817-06-02再拒威廉草案；1819-09-25契约宪法（卡尔斯巴德压力下加速）；1815年等级会议构成：31陪臣诸侯伯爵、19骑士、4教会大学、71城市与Oberamt代表。
+- 巴登：Karl Friedrich 1811卒；嫡孙Karl 1811–18；Hochberg旁支继承悬念至1817 Hausgesetz；Reitzenstein 1796单独媾和、1797–1803驻巴黎、1805/06与1809/10两任内阁大臣、1809-11 Organisationsedikte（十Kreis）；Bignon 1810-12倒Reitzenstein与Marschall；拿破仑1806-09-11致首席亲王"Les affaires intérieures de chaque état ne nous regardent pas"（t_7da32d rhine_notes §2.2）；领土所得=损失七倍以上（HLB世俗化）；Reitzenstein 1813说服大公在莱比锡之后转向；1818 Nebenius宪法；1832–42第三度主政、决策建铁路、加入关税同盟（巴登1835-05-12加入）。
+- 法典：巴登1808决定、1809-02-03引入敕令（"Zusäze"；拒治安法官"weil diese Anstalt in die hierländische Rechts-Erwartungen der Unterthanen nicht einpaßt"——downloads/pages/e7645400387a.md）；Behaghel印页13：原定1809-07-01，经1809-06-22公告与12-22第二敕令改1810-01-01生效；原符腾堡地区1812分期扩展（ce92415172f5.md）；沿用至1900 BGB（Grab p.104；Buggle p.10）；Buggle引ACJR"防御性现代化"；巴伐利亚贵族阻止法典（Grab p.105），走自主法典化（1813 Feuerbach刑法典）；符腾堡法制统一但未采法典。
+- 财政：1804年国债约1.07亿fl→1811年1.18亿fl，国家资产估值仅略超2亿fl（Weis讲稿p.54）；拜罗伊特23M法郎（HdBG）vs Weis "ab 1808 an Napoleon 20 Millionen fl."——冲突并列；"法国不但不补贴盟邦，还向盟邦出售领土收现金"。
+- 经济：蒂罗尔1806–08"经济危机横扫全区…主要由于大陆封锁"（napoleon.org引Sévillia）；符腾堡国营铁工业因军需"虚假繁荣"；南德在法国体系内最优位置=农产品、木材、牲畜、过境服务供应商。
+- 军事：1809蒂罗尔：4月巴军被逐、5月Wrede/Lefebvre夺回、8月再失、秋季法巴萨联军20,000+意军10,000再征服；Ried公开Art.5"不得拆散"是对拿破仑拆散邦联分队做法的否定性总结。
+- 社会：巴伐利亚贵族<1%人口；陪臣贵族巴登约1/3领土；农民经济依附至1848（Grab p.105）；世俗化后约1,200名修道司铎1/3转堂区学校；Planert（经Brophy）"the idea of the nation" exerted little influence on everyday life in southern Germany。
+- 蒂罗尔：约25,000km²、618,000人≈王国人口1/6；1511 Landlibell；1809-01 Hofer与约翰大公、Stadion密谈；04-09战争爆发；至04-12巴军死伤俘3,000；Innsbruck三度易手；08-15 Hofer以皇帝名义任摄政两个月；拿破仑07-20指令"不要讲道理，要严厉…"（Corr.15559）；1810-01-05 Hofer被出卖（Raffl得1,500古尔登）；1810-02-20曼图亚枪决；弗朗茨几乎未干预；1810-02-28分割；1810-03恢复征兵；蒂罗尔起义后巴伐利亚"更谨慎行事，在缩小后的蒂罗尔收回若干改革"（HLB/Hamm 4161d873abee.md）；王储路德维希任蒂罗尔与萨尔茨堡总督。
+- 移民禁令宪法§8。
+- 1816/17坦博拉：G1未锚定，只登记为高概率外生冲击。
+- 关税：1820-05-19预约（巴、符、巴登、黑森-达姆施塔特、拿骚、图林根诸邦）；1820–23维也纳/达姆施塔特谈判失败；1824/25败于巴登—巴伐利亚领土争端、外税税率、收入分配；1825-02-16斯图加特草案；1827-04-12慕尼黑预约；1828-01-18巴符同盟（1828-07-01生效，先定3年，外部边界征税，收入按人口分，每年5月1日慕尼黑总代表大会）；1833-03-22合并→1834-01-01德意志关税同盟；萨克森1833-03-30加入。
+- S6剧本见A1；专题C"第三德意志化"：诸侯欢迎领土头衔、抵制超邦机构；可行整合形态=功能性机构（军事配额、关税协调、法典示范、联姻）；最优治理密度恰是史实密度，与F1"胜利和约后18个月内启动新单边行动概率≈0.7"冲突。
+- 专题D宪政线：南德立宪动力内生；法国胜利下"无1815年邦联条例第13条式外部立宪指令"，立宪更慢更钦定化；符腾堡1819契约宪法难产；两种情况下南德都会有宪法。
+- 年表32条：见文件:150–192。S2-5 1809若无西班牙溃疡→蒂罗尔起义不爆发（中高）；S2-6 1810–12无俄征巴符军完整（高）；S2-7 1813–15无转向触发器（高）；S5-20…26；S6-27…32。
+- ⑮能力上限表：野战动员、财政、行政、汲取、正统性、人口。
+
+## G2（t_cbaee3/G2_north_german_states.md）独有细节
+- 子单位表（:15–23）：法兰克福1810-02-10升格；汉诺威约100万（ACJR 1750权重1,090千）；奥尔登堡1808-10-14入盟；梅克伦堡1808-02/03。
+- Grab p.94："A central diet, which was supposed to regulate relations among members and negotiate with Napoleon, never met."
+- 萨克森ADB（Flathe, ADB Bd.7 1878 S.786–789，downloads/pages/af4f870b8ddf.md）："bis zur Pedanterie getriebene Ordnung und Pünktlichkeit"；"der Gerechte"源于"unerschütterlicher Rechtssinn"；不许兄弟、宠臣Marcolini、母亲染指；1768亲政：财政整理、削军、中立主义；1791"behutsam"以三邻国一致同意婉拒；1614 Erbeinigung"jede Unterordnung unter Preußen abzuwehren"；1778拒以上劳西茨换地"不能割让对他忠诚的臣民"；对拿破仑"seinen Besieger als ein Wesen höherer Art zu fürchten und zugleich als seinen Wohlthäter zu verehren"；1813：Gersdorf使团先于威胁信回摆；莱比锡士兵请求离法，国王答以职责（"die Bitte derselben sich von den Franzosen trennen zu dürfen, beantwortete er mit dem einfachen Hinweis auf ihre Pflicht"）；波森和约后"确认既有宪法，只改动不可回避的最低限度"。
+- 萨克森财政：父债清偿；蒂申赔款600万弗罗林不入私囊反赎回汉诺威抵押领地；作为华沙公爵从未取civil list分文，垫付华沙3,000万fl（ADB"30 Mill. Fl."），1828俄国450,800塔勒象征补偿；"niemals wirkliche Regentenrechte geübt"。
+- 威国：1807-11-15宪法第45条法典1808-01-01生效；第53条征兵根本法；第2条皇帝保留诸侯半数allodial领地赏军官；第5条12,500法军由威国出饷；100人等级会议地主70/工商15/学者15；热罗姆只召集两次（Grab p.99"this legislature proved to be a farce"）；两封信"Soyez roi constitutionnel"与"prudence et circonspection"；1808-01犹太人完全解放（德国首次，Grab p.100）；赠地领豁免于领主制改革——"拿破仑本人抵触了拿破仑法典"（Grab p.100）；Berding：赠地"实质性地促成了国家的财政毁灭"；Grab p.101"没有一个国家比威斯特法利亚王国更深受赠地政策之害"；1812年累计债务140–200百万法郎（Grab p.101）；应对：出售国有产、强制借款、对债权人停付；F4：1810年赠产收入>1,800万、4,035人受赠；"同一笔钱在法国是赠产收入，在威国是税基失血"；法国禁止威国货物输往荷兰、瑞士、意大利（Grab p.101）；Grimm兄弟为威国宫廷图书馆员（Grab p.99）；Berding手稿LWL（downloads/pages/cf0509d983d0.md）土地贵族主导，领主制"im Wesentlichen unangetastet"。
+- 贝格：1806-03贝格+克莱沃合并，缪拉；1809拿破仑立4岁侄儿路易·拿破仑、自任摄政——Schmidt"l'administration directe par Napoléon"；Beugnot 1808–10实际首席，贝格由"十五个主权者的旧省"拼成（Beugnot 1809-03报告）；1812-05 14人国务会议；法典1810-01生效；封建废除敕令1808-12/1809-01要求农民赎买（Grab p.97"a modest reform…the seigneurial structure changed little"）；Murat废贵族免税；公共收入到1813增至三倍；1807-01贝格曾获对法输入豁免、同年12月即撤销（Heckscher p.298）；Heckscher判语"Berg, on the whole, suffered nothing but injury from the Continental System"；Nesselrode 1810-10请拨10万法郎、Cronenberg 800户赤贫、请求以修路吸收失业以防暴动（Schmidt p.381注2，G2_schmidt txt 行18150段）。
+- Remscheid市长Diederichs呈文（Schmidt p.384）：产能分项＋"八万工人、供养十万家庭"——"如今只剩骨架"；钢匠语"union avec la France这个词是能还我们生命的护身符"。
+- 科隆商会1810-09-16致Roer省长Ladoucette答问书：贝格并入将使左岸新建工业"retomberaient dans le néant"；Ladoucette转呈请保护1,300家工场。
+- Rœderer为贝格辩护"徒劳"（Schmidt："Il lui fit «savoir» peu après, mais inutilement"）。
+- Beugnot 1810-06 Wupper河谷巡视（RHMC V 1903）。
+- 埃尔伯费尔德1810-11-14陈情书："自特里亚农税则实施以来，与未实施该税则的萨克森竞争已不可能"（Schmidt p.383）。
+- Bacher报告1810-10-02（Schmidt附录F，txt行23667–23700；Heckscher pp.231–232英译）：萨王"曾花费极巨款项扶植…细洋纱、印花布、印度布与各类棉织工厂"；强迫把海关警戒线从维滕贝格延伸到波希米亚边界+原棉税→厄尔士赤贫、只富奥地利；棉纺工人移民去英国人经营的奥地利工厂。
+- 萨克森Heckscher四条件（pp.302–306）：远离法国、拿破仑信任的本土君主；莱比锡集市自由是法国出口利益（法国出口直接联系很少延伸到莱比锡以东）；区位；机械纺纱封锁前已扎根（1780年代珍妮机数以千计；1801开姆尼茨两厂：Crompton骡机、Arkwright水力机；mule twist 70支、water twist 36支）；1807秋汉萨—荷尔斯泰因封锁使英棉纱价涨逾150%；1810米迦勒集市殖民货储值6,550万（仅1/6留城）；1811夏起英货"实际中止"；"维也纳获得了此前属于莱比锡的大陆贸易中心地位的很大部分"（pp.253–255）；萨克森服从封锁的"良好意愿"高于他邦（p.230）；封锁期几乎无蒸汽纺纱厂；滚筒印花未引入；1817英国3–4年内压倒萨克森印花；1820转机器印花（p.306）；Kopsidis-Bromley：萨克森、莱茵兰、马克三大早期工业化；1815–50萨克森人口年增1.5%；Zwickau煤矿。
+- 汉萨：1806前汉堡英货大陆总分销；1807年咖啡价一度比莱比锡高20%、货物反向从莱比锡运汉堡（Heckscher p.170）；1807上半年Brune治下1,475船59万吨货无阻入港（p.166）；1812汉堡焚英货55.5万法郎（Grab p.94）；Aaslestad/Dwyer：并入后本地精英部分留任"既为生计也为保护城市利益"；1811上半年数百法国官员空降、7月完成全面法制化（Dwyer转述Aaslestad p.246）；1813-02海关暴动（Rist，Heckscher pp.256–257）；3-18 Tettenborn哥萨克入城；5-30法军复占；1820年代重返繁荣（Aaslestad p.307）；Marzagalli汉堡以许可证、丹麦线、走私求生；Bourrienne在汉堡收贿又为法军采购英国呢料制服（Heckscher p.166）；1807上半年汉堡参议会与商会花约150万法郎换易北河贸易宽纵（旧稿08章）。
+- 汉诺威：苏林根1803-06-03（his-data PDF）：第X条骑兵重新配马、选侯国负担法军饷服食；第XIII条"Tous les revenus du pays…seront à la disposition du gouvernement français"；第XV条统帅可按军需任意征贡；拿破仑拒批；1803-07-05阿特伦堡约17,000人选侯军解散武器移交；君主缺位=无投降主体也无叛乱核心；KGL【转引待核】；Corbett（t_7ee3b0 c11_corbett.txt）"the cynical step of offering Hanover to Prussia as the price of deserting the cause of Europe"；"Hanover was her Naboth's vineyard"；ACJR汉诺威1850指数14.25（1815后回滚："Brunswick, Hanover, and Hesse-Kassel, where the old rulers returned after 1815, tried to roll back the Napoleonic reforms" ACJR p.3293）。
+- 梅克伦堡：1755 LGGEV骑士团税收否决；1808-03-22什未林入盟；1808-09-01罗斯托克邦会"Souveräner Herzog"；等级会议9-08答文卑辞感谢入盟、仅对侵削特权"预作声明"；持久后果：骑士份地失免税、Landes-Rezeptur-Kasse；农奴制1820废；1755宪法延续至1918；Kopsidis：梅克伦堡早期农业繁荣"主要由对英出口驱动"；Heckscher p.185梅克伦堡与瑞典、普鲁士同列"以一切可想的方式规避"的波罗的海通道；ACJR 7.5（农奴制1820、土地改革1862、行会1869）。
+- 奥尔登堡：提尔西特第12条（vandal行18492–18494）；1809叶卡捷琳娜嫁格奥尔格（Vandal t.I行17464）；Nesselrode五要价（c12_vandal3_full.txt 20965–21287）；Grab p.197、p.91地图。
+- 法兰克福：Grab pp.88–89,102；Theobald Bacher控制其政策；议会只开一次；1811/12犹太人"付费的平等"。
+- 汲取表（:139–148）：萨克森1809对奥出兵、1812 VII军团约2万入俄；威国1809–13征7万+志愿3万；贝格累计入俄约5,000（未核）；汉萨征兵大规模逃亡（Grab p.94）；梅克伦堡1812供1,700；北德藩属动员上限0.8–1.0%/年仅在法军可信在场时有效；北德藩属军占大军<8%，价值在治安替代；达武第三军1810–12以汉堡为基地两个师"唯一任务是阻止走私"（Heckscher pp.224–225）。
+- 抵抗：Dörnberg 1809-04-22/23：Homberg集结约千余（Felsberg约800、Homberg约1,500），Knallhütte被威国炮兵一击而溃；两连猎兵被同僚击败（《Westphälischer Moniteur》1809-05-04；Bickert ZHG 114, 2009）；Dörnberg 4-29缺席判死、经Fulda逃布拉格；Emmerich 7-18卡塞尔枪决；热罗姆赦免参与农民；Schill 5-31死于施特拉尔松；1813-01/02贝格武装暴动，17人处决（Grab p.108）；1813-05德累斯顿暴动；触发器排序：征兵>失业饥饿>关税执法>民族观念。
+- Grab p.106–107：普王告人民书在邦联冷漠；Stein第三德意志无民众起义，盟国与诸侯强烈反对。
+- 三轴表（:260–269）逐项理由（已在A1笔记）；梅克伦堡"曾被当作可向俄支付的筹码——PR卡核Vandal 1807-11-12训令"。
+- Fundamentalstatut：Eberstein 1822年将巴黎之行（1807–08）报告与Fundamental-Statut存入美因茨市图书馆；Beck博论（Gießen，美因茨Prickarts 1890，48页）；Bockenheimer 1870讲演《C. Th. von Dalbergs Aufenthalt in Paris 1807–1808》；Kotulla：宪制未定→保护人随时可介入；窄版置信：中低（0.2–0.35）至1815前；若接受互惠关税升中（0.35–0.5）。
+- S5：1815–25"半制度化邦联"（常设使节会议+仲裁庭+军事配额师，无共同关税无共同公民权）=法国霸权的行政外包（中）；1830–40代可能演化为"史实德意志邦联的法保护版"（中高）。
+- 年表31条（:301–341）。
+- 1815–48北德格局：政治地图（威国含汉诺威南部、贝格、法兰克福存续；汉萨与沿海为法国省；萨克森—华沙东部支柱；残普压在勃兰登堡—东普；梅克伦堡旧制）；"法制西北vs旧制东北"；铁路干线几何"巴黎—布鲁塞尔—科隆主轴+莱比锡东向支线"（推演）；1848当量。
+- 改判E1–E5（:383–387）。
+- 冲突登记：法兰克福近7,000 vs 2,800；梅克伦堡1,700 vs 1,900+400；威国入盟日期1807-04-11存疑。

@@ -1,0 +1,19 @@
+{
+  "audit_date": "2026-09-24",
+  "decision": "未通过出版验收；本轮缺陷登记，不是穷尽认证",
+  "conclusion_candidates_read": 364,
+  "conclusion_defects": 40,
+  "linked_candidate_passages": 85,
+  "severity": {
+    "高": 20,
+    "中": 20
+  },
+  "formal_notes_read": 209,
+  "citation_defects": 47,
+  "citation_formal_note_instances": 42,
+  "citation_inline_instances": 5,
+  "material_omission_groups": 7,
+  "structural_findings": 5,
+  "scope": "12章机器扫描、364处结论候选判读、209注形式审查、440研究文本机器筛查与定向原段复核；未完成全部原文语义回源",
+  "unchanged_files_verified": 37
+}

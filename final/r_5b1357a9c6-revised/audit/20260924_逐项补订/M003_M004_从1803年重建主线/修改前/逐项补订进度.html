@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN" xml:lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>逐项补订进度</title>
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      white-space: pre-wrap;
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #1a1a1a;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <style>
+  :root{--paper:#fffdf8;--ink:#242a2d;--muted:#65716f;--accent:#285c59;--line:#d9dfd8;--nav:280px}*{box-sizing:border-box}html{scroll-behavior:auto;scroll-padding-top:35px}body{margin:0;max-width:none;width:auto;background:var(--paper);color:var(--ink);font-family:"Songti SC","Noto Serif CJK SC","Source Han Serif SC",Georgia,serif;font-size:18px;line-height:1.85;overflow-wrap:break-word;padding:58px max(40px,calc((100vw - var(--nav) - 940px)/2)) 100px calc(var(--nav) + max(40px,calc((100vw - var(--nav) - 940px)/2)))}body>header,body>section,body>h1{max-width:900px;margin-left:auto;margin-right:auto}header#title-block-header{text-align:left;padding:50px 0 60px;border-top:5px solid var(--accent);border-bottom:1px solid var(--line);margin-bottom:55px}h1.title{font-size:54px;letter-spacing:.03em;border:0;padding:0;margin:.4em 0;color:#163e3d;line-height:1.35}.subtitle{font-size:24px;letter-spacing:.05em;margin:.6em 0}.date{font:14px/1.8 system-ui,sans-serif;letter-spacing:.15em;color:var(--muted);margin-top:26px}h1{font-size:34px;line-height:1.5;margin:90px 0 36px;border-top:3px solid var(--accent);padding-top:30px;letter-spacing:.02em}h2{font-size:26px;line-height:1.6;margin:54px 0 22px;color:#174c49}h3{font-size:21px;line-height:1.6;margin:36px 0 15px}p{margin:0 0 1.25em}strong{font-weight:700;color:#173e3c}a{color:#286560;text-decoration:none;text-underline-offset:.2em}a:hover{text-decoration:underline}blockquote{margin:1.6em 0;padding:.3em 1.2em;border-left:3px solid #8aa39b;color:#384c47;background:#f1f4ed}hr{border:0;border-top:1px solid var(--line);margin:3em 0}.table-scroll{overflow-x:auto;max-width:100%;margin:24px 0 30px;border-top:2px solid var(--accent);border-bottom:1px solid var(--line)}table{border-collapse:collapse;width:100%;font-size:15px;line-height:1.65;font-family:"PingFang SC",system-ui,sans-serif;font-variant-numeric:tabular-nums;margin:0}th{background:#edf2eb;color:#1d4945;padding:11px 12px;text-align:left;font-weight:600;border-bottom:1px solid #b7c9bf}td{padding:10px 12px;border-bottom:1px solid #e3e7e0;vertical-align:top;min-width:68px}td:first-child{min-width:100px}tr:nth-child(even){background:#f7f8f3}table caption{font-weight:600;padding:10px}.footnote-ref{font:12px/1 system-ui,sans-serif;white-space:nowrap;padding:0 2px}.footnotes{font-size:15px;line-height:1.85;border-top:0;margin-top:28px}.footnotes li{margin:0 0 1.5em;padding-left:5px}.footnotes p{margin:0 0 .5em}.footnote-back{padding-left:.5em}#TOC{position:fixed;top:0;left:0;bottom:0;width:var(--nav);background:#f0f2ec;border-right:1px solid var(--line);padding:26px 20px 45px;overflow-y:auto;font:14px/1.6 "PingFang SC",system-ui,sans-serif;z-index:10}#TOC h2{font:600 17px/1.5 system-ui,sans-serif;letter-spacing:.12em;margin:0 0 22px;color:var(--accent)}#TOC ul{list-style:none;margin:0;padding:0}#TOC>ul>li{margin-bottom:16px}#TOC>ul>li>a{font-weight:650;color:#24433e}#TOC ul ul{padding:7px 0 0 12px;border-left:1px solid #c9d4ca;margin-top:5px}#TOC ul ul li{margin-bottom:7px}#TOC li.current>a{color:#0b7567;background:#dfeae1}#TOC .toc-tools{font-size:12px;color:#66766d;margin:10px 0 22px}#TOC details{margin:0 0 16px}#TOC summary{cursor:pointer;font-weight:650;color:#24433e}#progress{position:fixed;top:0;left:var(--nav);height:3px;background:#3b8477;z-index:100;width:0}#top-link{position:fixed;right:22px;bottom:22px;background:#e7eee5;border:1px solid #c4d4c8;border-radius:4px;padding:7px 13px;font:13px/1.5 system-ui,sans-serif;z-index:9}.print-only{display:none}code{font-size:.85em;background:#eef1eb;padding:.1em .3em}li{margin-bottom:.5em}:target{scroll-margin-top:35px}.footnotes li:target{background:#f0f1d9;padding:12px;border-radius:4px}::selection{background:#d3e4d6}
+  @media(max-width:1050px){:root{--nav:240px}body{font-size:17px;padding-right:28px;padding-left:calc(var(--nav) + 28px)}h1.title{font-size:43px}h1{font-size:29px}h2{font-size:24px}}
+  @media(max-width:760px){body{padding:25px 22px 65px;font-size:17px}#TOC{position:relative;width:auto;max-height:470px;border:1px solid var(--line);margin:0 0 35px;padding:20px}header#title-block-header{padding:25px 0 32px;margin-bottom:30px}h1.title{font-size:38px}.subtitle{font-size:20px}h1{margin-top:60px;font-size:27px}h2{font-size:23px}h3{font-size:20px}#progress{left:0}#top-link{right:10px;bottom:10px}td,th{padding:8px 10px}table{font-size:14px}.table-scroll table.wide-table{min-width:680px;display:table}}
+  @media print{body{padding:0;background:white;color:#000;font-size:10.5pt;line-height:1.6}#TOC{position:static;width:auto;height:auto;overflow:visible;background:white;border:0;padding:0;page-break-after:always;font-size:10pt}#TOC details{display:block}#TOC ul ul{display:block!important}#progress,#top-link,.toc-tools{display:none}h1{page-break-before:always;border-top:0;font-size:25pt}h2{font-size:16pt}h3{font-size:13pt}h1,h2,h3{break-after:avoid}table{font-size:7.5pt;table-layout:fixed;width:100%}th,td{min-width:0!important;padding:6px 5px;overflow-wrap:anywhere}td:first-child{min-width:0!important}.table-scroll table.wide-table{min-width:0!important;max-width:100%}.table-scroll{overflow:visible;break-inside:auto}tr{break-inside:avoid}thead{display:table-header-group}a{color:inherit}header#title-block-header{padding-top:100px;page-break-after:always;border-top:0}.footnotes{font-size:9pt}p{orphans:3;widows:3}@page{size:A4;margin:20mm 18mm}}
+  </style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">逐项补订进度</h1>
+</header>
+<h1 id="逐项补订进度">逐项补订进度</h1>
+<p><strong>已经进入正文修订；整书尚未通过验收。</strong>历史审计报告保留原状，最新状态以此页与工作账为准。补订不只改措辞，还须回到材料、补出推理，并同步更新阅读版。</p>
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr>
+<th>顺序</th>
+<th>问题</th>
+<th>已写入正文</th>
+<th>尚待完成</th>
+<th>状态</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>M001：条件方案被写成已经能够运作</td>
+<td>导论与末章结论分层；十项缺口逐一说明不利结果如何改判；任务取舍与预算限制</td>
+<td>具体疆域、年度税兵、舰队预算与外交安排的联合验证</td>
+<td>部分修复，未关闭</td>
+</tr>
+<tr>
+<td>2</td>
+<td>M002：应当自限与实际会自限混同</td>
+<td>四类行动者、实际筹码、改革次序；短期行为与长期存续的分别排序；1811—1815三组材料；导论及后段联动</td>
+<td>本项论证要求已补齐；反事实排序仍是作者判断</td>
+<td>已订正并复核</td>
+</tr>
+<tr>
+<td>2a</td>
+<td>L004：审查政策变动未入文</td>
+<td>数字与机关冲突嵌入M002；原刊校正后段禁稿1→11</td>
+<td>底层AF IV仍是论文转引，不冒称亲阅</td>
+<td>本组材料缺口已补</td>
+</tr>
+<tr>
+<td>2b</td>
+<td>M035：经济增长被径直推向立宪</td>
+<td>补利益分化，撤去产业核心必然限制皇权的句子</td>
+<td>具体税债冲突、地主与军官站队、威权工业化/有限立宪对称比较</td>
+<td>关联部分修复</td>
+</tr>
+<tr>
+<td>3</td>
+<td>M003：1803选择被1807已获胜条件取代</td>
+<td>本轮尚未进入正文订正</td>
+<td>补1803决策关口，各步行动、代价、失败退路与分支比较</td>
+<td>下一项</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><a
+href="M001_结论强度与缺口分层/本项补订说明.md">M001详细说明</a></li>
+<li><a
+href="M002_谁能推动皇帝接受约束/本项补订说明.md">M002详细说明</a></li>
+<li><a
+href="M002_谁能推动皇帝接受约束/回源校勘记录.md">L004回源校勘</a></li>
+<li><a href="当前缺陷工作账.csv">当前全部缺陷工作账</a></li>
+</ul>
+<h2 id="整书叙事与论证验收">整书叙事与论证验收</h2>
+<p><strong>本轮复核结论：尚未达到可确认的严肃专著成稿要求。</strong>M002的局部补齐不等于全书通过验收。新记录九组叙事与因果接口问题，定位22处段落，与原缺陷交叉，不作为九个独立新增错误累加。本轮未改正文，下一项仍为M003。</p>
+<p><a href="叙事结构与因果链复核/复核意见.html">阅读完整结构复核</a> ·
+<a href="叙事结构与因果链复核/逐处证据.csv">逐处证据</a></p>
+<h2 id="当前计数">当前计数</h2>
+<p>39项原有结论/论证问题中，1项完成本项订正（M002），2项部分处理（M001、M035），36项尚待逐项修复。M011维持已撤回，不重新计入。10组材料吸收缺口中，L004已补，其余9组仍保留。原100处引注缺口、5项结构问题、1项术语误译未因新加注释而自动注销。各类别交叉，不求和为独立错误数。</p>
+<p>本轮另登记来源待考SRC001：Coffin原刊周报总份数在注1记159，表内合计158。书稿已披露且未用此分母推导新结论；来源差异仍留待原档清单核查。这与已经解决的后段禁稿11误录为1是两回事。</p>
+<h2 id="当前保全状态">当前保全状态</h2>
+<p>12个章文件，62张表，213条注释、394处引用。原报告23文件未变；各次修订均保留修改前备份与差异。数量和哈希说明保全与结构检查，不证明全部材料已被吸收，也不等于整书通过学术验收。本轮未做书稿逐屏视觉检查。</p>
+</body>
+</html>

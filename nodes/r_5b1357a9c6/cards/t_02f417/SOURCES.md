@@ -1,0 +1,493 @@
+# Sources — nodes/r_5b1357a9c6/cards/t_02f417 — [t_02f417] 生态、人口与资源储量：欧洲能养多少军队与舰队
+
+Written by misaka when the products here were settled and rebuilt from scratch each time, so edit nothing in this file or under the sources folder. Each file there is a hard link to where it already lives in the project (a copy only where a hard link was not possible); the originals never move. Cite original project files, not this bundle's disposable sources paths.
+
+## Products
+
+- `E1_ecology_population_resources.md` — [t_02f417] E1_ecology_population_resources.md (task_output)
+- `E1_partA.md` — [t_02f417] E1_partA.md (task_output)
+- `E1_partB.md` — [t_02f417] E1_partB.md (task_output)
+- `E1_partC.md` — [t_02f417] E1_partC.md (task_output)
+- `E1_resources.csv` — [t_02f417] E1_resources.csv (task_output)
+- `E1_scenario_stress.csv` — [t_02f417] E1_scenario_stress.csv (task_output)
+- `__pycache__/build_e1_resources.cpython-311.pyc` — [t_02f417] build_e1_resources.cpython-311.pyc (task_output)
+- `__pycache__/build_e1_stress.cpython-311.pyc` — [t_02f417] build_e1_stress.cpython-311.pyc (task_output)
+- `build_e1_resources.py` — [t_02f417] build_e1_resources.py (task_output)
+- `notes_blacksea_grain.md` — [t_02f417] notes_blacksea_grain.md (task_output)
+- `notes_colbert_forests.md` — [t_02f417] notes_colbert_forests.md (task_output)
+- `notes_materials_02.md` — [t_02f417] notes_materials_02.md (task_output)
+
+## Cited sources (under `sources/`)
+
+- `sources/E1_BlackSea_Odessa_exports_imports.xlsx` ← `downloads/E1_BlackSea_Odessa_exports_imports.xlsx`
+  - "E1_BlackSea_Odessa_exports_imports.xlsx"
+  - sha256 8227e6756d32151cad286737f3ef573b6adb958840542b4467f78602e23138b6
+  - cited by [t_02f417] "敖德萨小麦单港1815出口171,708公吨、1816 188,259公吨；网站将缺失表格单元渲为零，不可当观测零" (fact) — "Φύλλο1!C9=171707.827956336, C10=188258.842...; C7 empty"
+  - cited by [t_02f417] "敖德萨原表1813缺小麦量、1815=171707.827956336、1816=188258.836580136公吨后设折算" (fact) — "Φύλλο1!C7=blank; C9=171707.827956336; C10=188258.836580136"
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_blacksea_grain.md`
+- `sources/E1_BlackSea_statistics_sources.docx` ← `downloads/E1_BlackSea_statistics_sources.docx`
+  - "E1_BlackSea_statistics_sources.docx"
+  - sha256 351792e302a558d6410a2172b247a67808ec3a268fdd6e1184ccf1971cfcbb65
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_blacksea_grain.md`
+- `sources/E1_Chaptal1819_industrie_v2.txt` ← `downloads/E1_Chaptal1819_industrie_v2.txt`
+  - "E1_Chaptal1819_industrie_v2.txt"
+  - sha256 a77b035c9087f4c1701979e8d7d73c37bf8ee181cca5265e1b24f4cb894924f9
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_materials_02.md`
+- `sources/E1_Graham2023_FrenchNavalTimber.pdf` ← `downloads/E1_Graham2023_FrenchNavalTimber.pdf`
+  - "E1_Graham2023_FrenchNavalTimber.pdf"
+  - sha256 313c1f64bc403314b3227da79bea26334634ebc7a64d111ba61537d03c7172c9
+  - cited as `doc:313c1f64bc40#p9` by [t_02f417] "1669法国森林令对公社/教会林划保留四分之一，法国18世纪私林按不同申报逻辑操作；1775 Clérans 15–20k株仅228株被检查认为适舰" (fact) — "Between 15,000 and 20,000 trees ... only 228 trees ... considered suitable for their purposes."
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_colbert_forests.md`
+- `sources/E1_Porter_ProgressOfNation_1847.txt` ← `downloads/E1_Porter_ProgressOfNation_1847.txt`
+  - "E1_Porter_ProgressOfNation_1847.txt"
+  - sha256 68daef23399c3b484185f55ea89a1ede989abd8cd2a96c0d8bc5ea616d497625
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_materials_02.md`
+- `sources/F3_Todorov_redressement_1810_1813.pdf` ← `downloads/F3_Todorov_redressement_1810_1813.pdf`
+  - "F3_Todorov_redressement_1810_1813.pdf"
+  - sha256 0fd6bd047f2aa202443997ee7c29b0f138defb401fcd99d4ae3f37d0a3a13fc5
+  - cited as `doc:0fd6bd047f2a#p8` by [t_02f417] "法国1805橡木丰富与局部船港稀缺可并存；安特卫普流域拥有普查大橡木近62%，Caffarelli供给估算含主观折损且英国封锁出海" (inference) — "Le seul bassin d'Anvers concentre presque 62% de l'ensemble des arbres de chêne d'au moins 5 pieds …"
+  - cited as `doc:0fd6bd047f2a#p15` by [t_b1a536] "Todorov的帝国控制口径表从1810年夏50艘升至1812年72艘、1814年4月74艘；1814分42旧法国港、21安特卫普、9荷兰、2热那亚/威尼斯/科孚。不是已配员可战数。" (fact) — "Été 1810 ... 50; 1812 ... 72; Avril 1814 ... 74"
+  - cited as `doc:0fd6bd047f2a#p14` by [t_b1a536] "1811年2月27日海军部报告称此前不进口外国铁，铜已有储备，法国及意大利大麻足用；此为Todorov转引的当期部门报告，而非永久无约束的现代审计。" (fact) — "les produits de la France et de l'Italie suffisent aux besoins du service"
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/R2_Davey2009.pdf` ← `downloads/R2_Davey2009.pdf`
+  - "R2_Davey2009.pdf"
+  - sha256 9cdc057c893a9cf2e323fad499747b3c76cfe86cabb7b0959b86d5486136dafa
+  - cited as `doc:9cdc057c893a#p23` by [t_02f417] "1762–82英国进口大麻俄占约95.9%，不是拿破仑时期皇家海军需求率" (fact) — "between 1762 and 1782, from a total of 19,172 tons of hemp imported by Britain, 18,392 came from Ru…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_materials_02.md`
+- `sources/pages/04c2ed9cef98.md` ← `downloads/pages/04c2ed9cef98.md`
+  - "Machine à vapeur de la corvette à roues le Sphinx | Musée national de la Marine de Paris" — https://www.musee-marine.fr/nos-musees/paris/collections/oeuvres-phares/machine-a-vapeur-de-la-corvette-a-roues-le-sphinx.html
+  - sha256 04c2ed9cef9868199c492d20d649ea1ca57cdccc5e615158f2e99344f270669c
+  - cited by [t_b1a536] "1829年Sphinx的160马力蒸汽机由利物浦Fawcett制造，表明蒸汽不是法国在封锁下无代价的赶超捷径。" (inference) — "sa machine à vapeur fut construite par une entreprise de Liverpool, W. Fawcett"
+  - cited as `https://www.musee-marine.fr/nos-musees/paris/collections/oeuvres-phares/machine-a-vapeur-de-la-corvette-a-roues-le-sphinx.html` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_quote_ledger.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/06f099bfa047.md` ← `downloads/pages/06f099bfa047.md`
+  - "Bucentaure-class ship of the line" — https://en.wikipedia.org/wiki/Bucentaure-class_ship_of_the_line
+  - sha256 06f099bfa0479a728bce69efa66edfd5ff2fc9432d0ca8a3fb8e9251717704bd
+  - cited as `https://en.wikipedia.org/wiki/Bucentaure-class_ship_of_the_line` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://en.wikipedia.org/wiki/Bucentaure-class_ship_of_the_line` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited as `https://en.wikipedia.org/wiki/Bucentaure-class_ship_of_the_line` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/07268e71e6e2.md` ← `downloads/pages/07268e71e6e2.md`
+  - "Téméraire-class ship of the line" — https://en.wikipedia.org/wiki/T%C3%A9m%C3%A9raire-class_ship_of_the_line
+  - sha256 07268e71e6e28e267be377404ce38b2b3b26299d29a3dfecad018402d4185326
+  - cited as `https://en.wikipedia.org/wiki/T%C3%A9m%C3%A9raire-class_ship_of_the_line` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://en.wikipedia.org/wiki/T%C3%A9m%C3%A9raire-class_ship_of_the_line` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited as `https://en.wikipedia.org/wiki/T%C3%A9m%C3%A9raire-class_ship_of_the_line` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/171e7ef70128.md` ← `downloads/pages/171e7ef70128.md`
+  - "La géographie des ressources forestières et les ambitions navales de Napoléon après Trafalgar : l’exemple du bois de ch…" — https://journals.openedition.org/geohist/4373
+  - sha256 171e7ef701287d212c19896e1bd423f764122a11b95fe68366885f6900cf902a
+  - cited by [t_b1a536] "Todorov所用1805橡木调查中安特卫普补给流域集中了约62%的合规格大橡木；资源与出港/训练地理错位，不能把欧洲森林总数直接换成布雷斯特产量。" (inference) — "Le seul bassin d’Anvers concentre presque 62 %"
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_quote_ledger.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/18f278bfa698.md` ← `downloads/pages/18f278bfa698.md`
+  - "Where did France build up its fleet in 1805-1814?" — https://history.stackexchange.com/questions/70435/where-did-france-build-up-its-fleet-in-1805-1814
+  - sha256 18f278bfa698dc8ccc18fcab6a5d52602834c19a74d49c3bdf7c534eea680ad2
+  - cited as `https://history.stackexchange.com/questions/70435/where-did-france-build-up-its-fleet-in-1805-1814` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+- `sources/pages/21ae17eda88c.md` ← `downloads/pages/21ae17eda88c.md`
+  - "Napoléon et les arsenaux de la Marine - Persée" — https://www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813
+  - sha256 21ae17eda88cda27c061d93e6aa1e1ce3fe833030b294540de765658eef3761c
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_quote_ledger.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/350599d00ab2.md` ← `downloads/pages/350599d00ab2.md`
+  - "The French Fleet, 1807-1814; Britain's Problem; and Madison's Opportunity | The Journal of Modern History: Vol 39, No 3" — https://www.journals.uchicago.edu/doi/pdf/10.1086/240080
+  - sha256 350599d00ab281d76a0fef643b5c9efc7f0b53dca74c1429fe7f8e7c67edb02e
+  - cited as `https://www.journals.uchicago.edu/doi/pdf/10.1086/240080` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+- `sources/pages/360e2a6cb9f5.md` ← `downloads/pages/360e2a6cb9f5.md`
+  - "Internet History Sourcebooks: Modern History" — https://sourcebooks.web.fordham.edu/mod/indrevtabs1.asp
+  - sha256 360e2a6cb9f5f8f852b006dde5fffce21e43a48fb27cad2891def7133d665f4a
+  - cited as `https://sourcebooks.web.fordham.edu/mod/indrevtabs1.asp` in `nodes/r_5b1357a9c6/cards/t_02f417/notes_materials_02.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_materials_02.md`
+- `sources/pages/3762a4f8f4e3.md` ← `downloads/pages/3762a4f8f4e3.md`
+  - "Swords Around a Throne: Napoleon's Army | PDF | Cavalry | Infantry" — https://www.scribd.com/document/741223309/John-R-Elting-Swords-Around-a-Throne-Da-Capo-Press-1997
+  - sha256 3762a4f8f4e33e2083e712e0c6f48337d09bc5c28c61eb63d15c11dbe784749b
+  - cited as `https://www.scribd.com/document/741223309/John-R-Elting-Swords-Around-a-Throne-Da-Capo-Press-1997` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+- `sources/pages/3c0d8aaa1316.md` ← `downloads/pages/3c0d8aaa1316.md`
+  - "Le vaisseau de la guerre d'Amérique : le « 74 canons » | lhistoire.fr" — https://www.lhistoire.fr/le-vaisseau-de-la-guerre-dam%C3%A9rique-le-%C2%AB-74-canons-%C2%BB
+  - sha256 3c0d8aaa13167a1d697a764d7039ce9673dd1c4d0612718a972db03dfabe6295
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+- `sources/pages/5153da72f949.md` ← `downloads/pages/5153da72f949.md`
+  - "The role of grain exports in external commerce of Bessarabia (1812-1830) :: Journal „Tyragetia" :: Publications :: Nati…" — https://www.nationalmuseum.md/en/press_releases/journal_tyragetia/the_role_of_grain_exports_in_external_commerce_of_bessarabia_1812_1830/
+  - sha256 5153da72f949e330ddcf0d5abd6db3ce86411d013bd5d79963735b8903d4f60a
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_blacksea_grain.md`
+- `sources/pages/550652301685.md` ← `downloads/pages/550652301685.md`
+  - "Correspondance de Napoléon Ier - Octobre 1811 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-octobre-1811/
+  - sha256 55065230168580550b10c01d8917fe57562582c88a43e79339acb0055fa4de98
+  - cited by [t_b1a536] "年6增8命令仅安特卫普：1811年3月5日18船台、舰留3年；10月2日因可再分配荷兰和布洛涅舰员而拟增至8。不能与全国满负荷20混比。" (fact) — "construire chaque année huit vaisseaux au lieu de six"
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-octobre-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_quote_ledger.md`
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-octobre-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-octobre-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-octobre-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/56707f7ed50c.md` ← `downloads/pages/56707f7ed50c.md`
+  - "The British-French Naval Rivalry in the Ionian and Adriatic Basins 1807-1814 from an insular perspective" — https://hrcak.srce.hr/file/469145
+  - sha256 56707f7ed50c0db0a6585371a0653321a86d6337bf373c6320a7f80f3b14c49d
+  - cited as `https://hrcak.srce.hr/file/469145` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited as `https://hrcak.srce.hr/file/469145` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_source_excerpts.md`
+- `sources/pages/5af51159c185.md` ← `downloads/pages/5af51159c185.md`
+  - "French ship Tilsitt (1810)" — https://en.wikipedia.org/wiki/French_ship_Tilsitt_(1810)
+  - sha256 5af51159c1856cf14aa485c5f9ed6d1a33d5ad1e50938ea247432232aab22740
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/5f4f001104e6.md` ← `downloads/pages/5f4f001104e6.md`
+  - "The Political Essays of William Shaler" — https://oieahc.wm.edu/wp-content/uploads/stagg.pdf
+  - sha256 5f4f001104e6b0410b8a0a4c2aa33063fe560df2d4018fa35550dfab2586bfeb
+  - cited as `https://oieahc.wm.edu/wp-content/uploads/stagg.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://oieahc.wm.edu/wp-content/uploads/stagg.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited as `https://oieahc.wm.edu/wp-content/uploads/stagg.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_source_excerpts.md`
+  - cited as `https://oieahc.wm.edu/wp-content/uploads/stagg.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_glover.md`
+- `sources/pages/6864746209f3.md` ← `downloads/pages/6864746209f3.md`
+  - "Correspondance de Napoléon Ier - Juillet 1811 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1811/
+  - sha256 6864746209f39aee6fe88239fe954df1d57a7d5537d4faa2fea23c6fd9869f07
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/6dcc42091ede.md` ← `downloads/pages/6dcc42091ede.md`
+  - "Client Challenge" — https://www.jstor.org/stable/pdf/1876579.pdf
+  - sha256 6dcc42091ede21cea3d48f8cdf06a93562731b86adc2a8f6562dd0ac4dfd0b45
+  - cited as `https://www.jstor.org/stable/pdf/1876579.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+- `sources/pages/71106f9334bc.md` ← `downloads/pages/71106f9334bc.md`
+  - "A Global Forum for Naval Historical Scholarship" — https://www.ijnhonline.org/wp-content/uploads/2012/01/Bjerg.pdf
+  - sha256 71106f9334bc0074cf079de22bd2f1c0541db5ae1e6b13f7c8f2f17b7dbf149e
+  - cited as `https://www.ijnhonline.org/wp-content/uploads/2012/01/Bjerg.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://www.ijnhonline.org/wp-content/uploads/2012/01/Bjerg.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/73353c56af91.md` ← `downloads/pages/73353c56af91.md`
+  - https://utoronto.scholaris.ca/bitstreams/bda99cfd-9fc5-4a50-89c7-89b96aa97bd4/download
+  - sha256 73353c56af914f7b233374bf6783c2c0d723aef35d9df24ec92a507330ce8d9a
+  - cited as `https://utoronto.scholaris.ca/bitstreams/bda99cfd-9fc5-4a50-89c7-89b96aa97bd4/download` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited as `https://utoronto.scholaris.ca/bitstreams/bda99cfd-9fc5-4a50-89c7-89b96aa97bd4/download` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_source_excerpts.md`
+- `sources/pages/733699a79d7c.md` ← `downloads/pages/733699a79d7c.md`
+  - "La frégate USS Constitution à Cherbourg (1811) – Trois-Ponts!" — https://troisponts.net/2011/08/24/la-fregate-uss-constitution-a-cherbourg-1811/
+  - sha256 733699a79d7c06f6a086cb215a302649d47de752fe4c45e63115e71425ae457f
+  - cited as `https://troisponts.net/2011/08/24/la-fregate-uss-constitution-a-cherbourg-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://troisponts.net/2011/08/24/la-fregate-uss-constitution-a-cherbourg-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/775f980f1a64.md` ← `downloads/pages/775f980f1a64.md`
+  - "Correspondance de Napoléon Ier - Novembre 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-novembre-1810/
+  - sha256 775f980f1a64a757eba4a9d7ad54134612c5810f065ee2216434adcf823bf321
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-novembre-1810/` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-novembre-1810/` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/7811dedbfc48.md` ← `downloads/pages/7811dedbfc48.md`
+  - "Vaisseaux de 118" — http://dossiersmarine.free.fr/v_118.htm
+  - sha256 7811dedbfc48975305dfb4f1072650e1244322e1b524ad0814f4d01ed5ba55d2
+  - cited as `http://dossiersmarine.free.fr/v_118.htm` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+- `sources/pages/78508d75464b.md` ← `downloads/pages/78508d75464b.md`
+  - "Piraterie, flibuste et autres guerres de course dans les conflits européens de l’époque moderne" — https://books.openedition.org/psorbonne/91295?lang=en
+  - sha256 78508d75464b1708122f9d1342deaf514a5d42a49d1ad45b0e8ff905728a76fe
+  - cited as `https://books.openedition.org/psorbonne/91295` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_quote_ledger.md`
+  - cited as `https://books.openedition.org/psorbonne/91295` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/795736a33638.md` ← `downloads/pages/795736a33638.md`
+  - "Vaisseaux de 80" — http://dossiersmarine.free.fr/v_80.htm
+  - sha256 795736a3363883be4cfb7c978c37e91302cab2b389c838a9875bcde4fd0f1ee6
+  - cited as `http://dossiersmarine.free.fr/v_80.htm` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+- `sources/pages/82a063e7e022.md` ← `downloads/pages/82a063e7e022.md`
+  - "Correspondance de Napoléon Ier - Juillet 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1810/
+  - sha256 82a063e7e0221d78d69d1eaa4e348fe3782bcaf8797b246e69bf3f68c17ae89b
+  - cited by [t_b1a536] "1810年7月13日命令提出小艇到战列舰的技能转移，并以66,000名海员服务50战列舰、30巡防舰、400艇为规划；可以据此为模型中的非战列舰人力预留设置量级，不能当实到人数。" (fact) — "un corps de 66,000 matelots ... 50 vaisseaux de ligne et 30 frégates"
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1810/` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_quote_ledger.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/898ecb4eeeb6.md` ← `downloads/pages/898ecb4eeeb6.md`
+  - "List of ships of the line of France" — https://en.wikipedia.org/wiki/List_of_ships_of_the_line_of_France
+  - sha256 898ecb4eeeb62e8c79a142a49ee281f61ba1a02b728baa5500cce715a7357c1e
+  - cited as `https://en.wikipedia.org/wiki/List_of_ships_of_the_line_of_France` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://en.wikipedia.org/wiki/List_of_ships_of_the_line_of_France` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited as `https://en.wikipedia.org/wiki/List_of_ships_of_the_line_of_France` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/8e0fd0e7f9bd.md` ← `downloads/pages/8e0fd0e7f9bd.md`
+  - "Essay II “No. 2. Essay on the Revolution in So. America”" — https://oieahc.wm.edu/wp-content/uploads/stagg_essay2.pdf
+  - sha256 8e0fd0e7f9bd46ae1ca6968210e6670feb27e93408cc6b5869b5e8f3d3232683
+  - cited as `https://oieahc.wm.edu/wp-content/uploads/stagg_essay2.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://oieahc.wm.edu/wp-content/uploads/stagg_essay2.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited as `https://oieahc.wm.edu/wp-content/uploads/stagg_essay2.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_source_excerpts.md`
+  - cited as `https://oieahc.wm.edu/wp-content/uploads/stagg_essay2.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_glover.md`
+- `sources/pages/94b41b5822a4.md` ← `downloads/pages/94b41b5822a4.md`
+  - "The French Crash Program for Saltpeter Production, 1776-94" — https://doi.org/10.2307/3102523
+  - sha256 94b41b5822a43417520427d964e3379a723f58048f7810300de919817e051353
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_materials_02.md`
+- `sources/pages/a128e79a8fcc.md` ← `downloads/pages/a128e79a8fcc.md`
+  - https://doi.org/10.4000/geohist.4373
+  - sha256 a128e79a8fccc8d205f644a7005b9321885d9ee5b25d40c5cb05d5acd81df636
+  - cited as `https://doi.org/10.4000/geohist.4373` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+- `sources/pages/a29ef989aeb1.md` ← `downloads/pages/a29ef989aeb1.md`
+  - "6- Nouveautés dans l'artillerie de la Marine" — https://www.artillerie.asso.fr/basart/article.php3?id_article=1972
+  - sha256 a29ef989aeb1d37fb1c52bfa09702fad1238f5e49d3dc4077aadc4a895df2784
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/a2aa12b57d10.md` ← `downloads/pages/a2aa12b57d10.md`
+  - "Odessa - BlackSea Research Project" — https://cities.blacksea.gr/en/odessa/5-7/
+  - sha256 a2aa12b57d108c268cd1b817b7b7f7387ea31ac6642b5ffb4370cda3a701a9a5
+  - cited as `https://cities.blacksea.gr/en/odessa/5-7/` in `nodes/r_5b1357a9c6/cards/t_02f417/notes_blacksea_grain.md`
+- `sources/pages/a33ec60b83be.md` ← `downloads/pages/a33ec60b83be.md`
+  - "Océan-class ship of the line" — https://en.wikipedia.org/wiki/Oc%C3%A9an-class_ship_of_the_line
+  - sha256 a33ec60b83be01c15c516b0ab509281bbe5d5dd3ff1622ccca64e120a847e18a
+  - cited as `https://en.wikipedia.org/wiki/Oc%C3%A9an-class_ship_of_the_line` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://en.wikipedia.org/wiki/Oc%C3%A9an-class_ship_of_the_line` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited as `https://en.wikipedia.org/wiki/Oc%C3%A9an-class_ship_of_the_line` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/a6a9708fe694.md` ← `downloads/pages/a6a9708fe694.md`
+  - "Premier vaisseau de ligne, le Charlemagne de 74 lancé au milieu de l'Escaut, Anvers le 8 avril 1807 : [estampe]" — https://gallica.bnf.fr/ark:/12148/btv1b69469265
+  - sha256 a6a9708fe694bf142e860a9806e9d65fff3d65f0843d745912cc6f3731487458
+  - cited as `https://gallica.bnf.fr/ark:/12148/btv1b69469265` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://gallica.bnf.fr/ark:/12148/btv1b69469265` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited as `https://gallica.bnf.fr/ark:/12148/btv1b69469265` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/a8db4b456088.md` ← `downloads/pages/a8db4b456088.md`
+  - "The French Navy After 1815 Part I - WarHistory.org" — https://warhistory.org/article/the-french-navy-after-1815-part-i
+  - sha256 a8db4b4560880d02cf572202306efea4b946a9aa9dd18b3c7280d932a753e922
+  - cited as `https://warhistory.org/article/the-french-navy-after-1815-part-i` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://warhistory.org/article/the-french-navy-after-1815-part-i` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/a926b7531016.md` ← `downloads/pages/a926b7531016.md`
+  - "French ship Polonais (1808)" — https://en.wikipedia.org/wiki/French_ship_Polonais_(1808)
+  - sha256 a926b75310166fa04f28689eaf359a942f3f076498aa97461669aa8a4cb03e1c
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/acacc4f22128.md` ← `downloads/pages/acacc4f22128.md`
+  - "Venice" — https://threedecks.org/index.php?display_type=show_shipyard&id=281
+  - sha256 acacc4f221284dfb76e57cc14b7a315bfb813609a7ebef8b2f5459eeb094fe94
+  - cited as `https://threedecks.org/index.php?display_type=show_shipyard&id=281` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://threedecks.org/index.php?display_type=show_shipyard&id=281` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited as `https://threedecks.org/index.php?display_type=show_shipyard&id=281` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/b63d35ce3cb6.md` ← `downloads/pages/b63d35ce3cb6.md`
+  - "La réduction du nombre de nos vaisseaux (1814-1819) – Trois-Ponts!" — https://troisponts.net/2014/03/26/reduction-du-nombre-de-nos-vaisseaux-1814-1819/
+  - sha256 b63d35ce3cb68b87dbc70219f5364dad22ed6c785539128a8578e55cacb4a843
+  - cited as `https://troisponts.net/2014/03/26/reduction-du-nombre-de-nos-vaisseaux-1814-1819/` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_quote_ledger.md`
+  - cited as `https://troisponts.net/2014/03/26/reduction-du-nombre-de-nos-vaisseaux-1814-1819/` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/bcf22d70f791.md` ← `downloads/pages/bcf22d70f791.md`
+  - "La Marine sous l’Empire" — https://www.marins-traditions.fr/_files/ugd/c3f5ca_e33d085ac71744eaa6165b42ebdca588.pdf
+  - sha256 bcf22d70f791463622e16d882b6c020ade1e0c017ecd2076a2bf78b981ec149c
+  - cited as `https://www.marins-traditions.fr/_files/ugd/c3f5ca_e33d085ac71744eaa6165b42ebdca588.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+- `sources/pages/d82150b0f2eb.md` ← `downloads/pages/d82150b0f2eb.md`
+  - "La grande Histoire des forêts (#Episode 4) - L'ordonnance de Colbert en 1669 : la gestion forestière en forêt de Tronça…" — https://www.onf.fr/onf/%2B/ff6::la-grande-histoire-des-forets-episode-ordonnance-de-colbert-en-1669-la-gestion-forestiere-en-foret-de-troncais.html
+  - sha256 d82150b0f2eb6f55843b0b47c2c43adc031fd3899aec3f4f68f6b68df0884eb6
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_colbert_forests.md`
+- `sources/pages/dc7df5fbd91a.md` ← `downloads/pages/dc7df5fbd91a.md`
+  - "French ship Mont Saint-Bernard (1811)" — https://en.wikipedia.org/wiki/French_ship_Mont_Saint-Bernard_(1811)
+  - sha256 dc7df5fbd91a28a5cf91a6e00d4b976c0c591b900ec7f8fe92cb798cde4a5668
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/e4de2569510d.md` ← `downloads/pages/e4de2569510d.md`
+  - "Vaisseaux de 74" — http://dossiersmarine.free.fr/v_74.htm
+  - sha256 e4de2569510dcaee734ed3c5294145b7627fd8d08405467d1d6948dca3db2b25
+  - cited as `http://dossiersmarine.free.fr/v_74.htm` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `http://dossiersmarine.free.fr/v_74.htm` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/ecb1c103e4af.md` ← `downloads/pages/ecb1c103e4af.md`
+  - "The French Fleet, 1807-1814; Britain's Problem; and Madison's Opportunity" — https://www.journals.uchicago.edu/doi/10.1086/240080
+  - sha256 ecb1c103e4af86cfd81158843732f2e7989dc204a5c8ae29a9a6889c258ec881
+  - cited as `https://www.journals.uchicago.edu/doi/10.1086/240080` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+- `sources/pages/f042c1f13d31.md` ← `downloads/pages/f042c1f13d31.md`
+  - "Correspondance de Napoléon Ier - Mars 1811 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-mars-1811/
+  - sha256 f042c1f13d3107b636ebcb03be52cca1921f041a75b7953ee2ceea21232bd252
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-mars-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_quote_ledger.md`
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-mars-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-mars-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-mars-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/f2fd5147bb31.md` ← `downloads/pages/f2fd5147bb31.md`
+  - "French ship Ulm (1809)" — https://en.wikipedia.org/wiki/French_ship_Ulm_(1809)
+  - sha256 f2fd5147bb31fdb10a4f25f9a5498262cd9fcd8a2de5e4e86a4fb5b5ecc945b7
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/f9f391a5effc.md` ← `downloads/pages/f9f391a5effc.md`
+  - "Du système des classes à l'inscription maritime - Persée" — https://www.persee.fr/doc/rharm_0035-3299_1982_num_147_2_7111
+  - sha256 f9f391a5effcd3e8976e4699d580003e8ca58e2b971d36a99bba83007f2576ce
+  - cited by [t_b1a536] "法国1825年海事登记94,611人，其中73,053为军士、水手、见习水手及少年；此数是登记职业池，不是海军在役或全熟练池。" (fact) — "94 611 inscrits dont 73 053 officiers mariniers, matelots novices et mousses"
+  - cited as `https://www.persee.fr/doc/rharm_0035-3299_1982_num_147_2_7111` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_quote_ledger.md`
+  - cited as `https://www.persee.fr/doc/rharm_0035-3299_1982_num_147_2_7111` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/t_b1a536/F3_capacity.csv` ← `nodes/r_5b1357a9c6/cards/t_b1a536/F3_capacity.csv`
+  - "[t_b1a536] nodes/r_5b1357a9c6/cards/t_b1a536/F3_capacity.csv"
+  - sha256 72b3f967067613e3cabac14bad2431d3dc0e87454e3e79ccf237e3d83c21dc98
+  - cited by [t_b1a536] "持续海战W与1815后海上停战P的1830十二月动员战列舰条件包络分别53–124（主84）、84–140（主111）；常备在役主73/61。总人力和合格子集、非战列预留及维修均分列；这不是历史观察…" (inference)
+- `sources/t_b1a536/F3_french_navy_capacity.md` ← `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - "[t_b1a536] nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md"
+  - sha256 db2b45eb8f83aa801c4c0a8d9993dd7d74080bb5f0a3fbdddbae1e733434e920
+  - cited by [t_b1a536] "强制最大沿海兼并并非最优海权方案：资源控制的收益必须扣掉陆军驻防、商航萎缩和征募抵抗；较低压的荷意合作、对俄原料贸易和海上和平有利于长期成军。" (interpretation)
+- `sources/t_b1a536/F3_sensitivity.csv` ← `nodes/r_5b1357a9c6/cards/t_b1a536/F3_sensitivity.csv`
+  - "[t_b1a536] nodes/r_5b1357a9c6/cards/t_b1a536/F3_sensitivity.csv"
+  - sha256 22e8a3eb563fdfb7022685915bd6b1e5d5751bbdb00b7c535297d29532cb97e1
+  - cited by [t_b1a536] "1830主线对持续流入敏感：新下水减30%降至60/83舰，总员与技能流入减30%降至57/69舰；放弃安特起始12舰且此后年少3舰的压力测试为50/71。财政减30%不能直接等同流量减30%。" (inference)
+- `sources/t_b1a536/build_F3_model.py` ← `nodes/r_5b1357a9c6/cards/t_b1a536/build_F3_model.py`
+  - sha256 cc40d7f90dcf83b0671d69a5f364b648f9530494c58dd20b2b728e47dc0ecacb
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/part_03_policies_timeline.md`
+- `sources/t_b1a536/notes_yards.md` ← `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+  - "[t_b1a536] nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md"
+  - sha256 1df4b54371dabae33af44ddc50d980c6f258f1dbb25ce3e5271d0c65b2d0f784
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_materials_02.md`
+- `sources/t_b1a536/yards_launches_1807_1813.csv` ← `nodes/r_5b1357a9c6/cards/t_b1a536/yards_launches_1807_1813.csv`
+  - "[t_b1a536] nodes/r_5b1357a9c6/cards/t_b1a536/yards_launches_1807_1813.csv"
+  - sha256 06e1806bb970d65d77e51a39f62075406fcd7c6340e49a75146813a7a489e13c
+  - cited by [t_b1a536] "计入安特卫普与意厂后，1807–1813指定七组船厂至少50个不同战列舰体下水；舰名改名和俘获转籍已去重。逐舰网页正文多经Winfield–Roberts/Roche转引，原书未阅，若干日期异文保留。" (fact)
+- `sources/t_104134/c2_naval_econ_data.md` ← `nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md`
+  - "[t_104134] nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md"
+  - sha256 575754e7ae242ab8e4cde3a48c7d3433649a3605cf46e8bfae51a1e4d4463b03
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+- `sources/t_7ee3b0/c3_naval_race_model.md` ← `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+  - "[t_7ee3b0] nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md"
+  - sha256 8e376ab79d2b87bdad2486771486b37e0c571a8b1654479fe28035a374a0d614
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+- `sources/t_7ee3b0/rebuild_feedback_evidence.md` ← `nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md`
+  - "[t_7ee3b0] nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md"
+  - sha256 9b965798cb1e374d9cb589f688442a22b3a177d9ca75836ee6c34045a3ccf391
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+
+## Consulted but not cited (left where they are)
+
+- `downloads/B2_Bordo_White_WP3517.pdf` — "B2_Bordo_White_WP3517.pdf"
+- `downloads/E1_Brazdil2016_TamboraCzech.pdf` — "E1_Brazdil2016_TamboraCzech.pdf"
+- `downloads/E1_Chaptal1819_industrie_v1.txt` — "E1_Chaptal1819_industrie_v1.txt"
+- `downloads/E1_Flueckiger2017_TamboraCrop.pdf` — "E1_Flueckiger2017_TamboraCrop.pdf"
+- `downloads/E1_LuterbacherPfister2015_Tambora.pdf` — "E1_LuterbacherPfister2015_Tambora.pdf"
+- `downloads/E1_MaddisonProject_2020.xlsx` — "E1_MaddisonProject_2020.xlsx"
+- `downloads/E1_MaddisonProject_2023_GitHubMirror.xlsx`
+- `downloads/E1_NunnQian2009_potato_w15157.pdf` — "E1_NunnQian2009_potato_w15157.pdf"
+- `downloads/E1_OWID_Gapminder_population_1800_1850.csv` — "E1_OWID_Gapminder_population_1800_1850.csv"
+- `downloads/E1_Prinzing1916_epidemics.html` — "The Project Gutenberg eBook of Epidemics Resulting from Wars, by Dr. Friedrich Prinzing"
+- `downloads/E1_Schurer2019_TamboraAttribution.pdf` — "E1_Schurer2019_TamboraAttribution.pdf"
+- `downloads/E1_Tooke_HistoryOfPrices_v1.txt` — "E1_Tooke_HistoryOfPrices_v1.txt"
+- `downloads/E1_Vilnius1831_cholera_hospital.pdf` — "E1_Vilnius1831_cholera_hospital.pdf"
+- `downloads/E1_WardeKander2009_draught_animals.pdf` — "E1_WardeKander2009_draught_animals.pdf"
+- `downloads/F4_Juglar1868_budgets.pdf` — "F4_Juglar1868_budgets.pdf"
+- `downloads/F4_Marion_IV_1925.pdf` — "F4_Marion_IV_1925.pdf"
+- `downloads/F4_Marion_IV_1925.txt` — "F4_Marion_IV_1925.txt"
+- `downloads/F4_Oosterlinck2013.pdf` — "F4_Oosterlinck2013.pdf"
+- `downloads/HT_Geggus1979_YellowFever.pdf` — "HT_Geggus1979_YellowFever.pdf"
+- `downloads/IN1_milburn_v2.txt` — "[t_0bb54c] downloads/IN1_milburn_v2.txt"
+- `downloads/c11_desbriere_p398.png`
+- `downloads/pages/0d6f34e8b0a9.md` — "Project MUSE -- Verification required!" — https://doi.org/10.1353/tech.1971.a893953
+- `downloads/pages/11768f58f5af.md` — "La Dette publique de la France - Wikisource" — https://fr.wikisource.org/wiki/La_Dette_publique_de_la_France,_l%27origine_et_le_d%C3%A9veloppement_de_la_dette,_les_moyens_de_l%27att%C3%A9nuer
+- `downloads/pages/158497425582.md` — "Note sur le compte des finances de l'exercice An XIV et 1806 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/note-sur-le-compte-des-finances-de-lexercice-an-xiv-et-1806/
+- `downloads/pages/1cd7e7d06126.md` — "Correspondance de Napoléon Ier - Juin 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-juin-1810/
+- `downloads/pages/22fe9f35feb4.md` — "Le Sénat de Napoléon : de la complicité à la « trahison » - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/le-senat-de-napoleon-de-la-complicite-a-la-trahison/
+- `downloads/pages/25240612f417.md` — "Correspondance de Napoléon Ier - Mai 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-mai-1810/
+- `downloads/pages/254e6c723b4c.md` — "Les crises économiques sous l’Empire. A propos de la crise dite « de 1805 » - Persée" — https://www.persee.fr/doc/ahrf_0003-4436_1970_num_199_1_3895
+- `downloads/pages/2ad693d5ac13.md` — "Napoleon and the Transformation of Europe (European History in Perspective)" — https://ndl.ethernet.edu.et/bitstream/123456789/44567/1/2.Alexander%20Grab.pdf
+- `downloads/pages/326b19e197a6.md` — "Napoléon et la " descente " en Angleterre. 1re partie : Les multiples projets de 1778 à 1803 - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/napoleon-et-la-descente-en-angleterre-1re-partie-les-multiples-projets-de-1778-a-1803/
+- `downloads/pages/3f388420b5a0.md` — "Napoléon et les arsenaux de la Marine - Persée" — https://www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813
+- `downloads/pages/414d9ffcebd4.md` — "1812, l'année de tous les défis - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/1812-lannee-de-tous-les-defis/
+- `downloads/pages/43de964a9bae.md` — "La construction d’un système fiscal et administratif dans la Révolution et l’Empire, 1789-1815 - Persée" — https://www.persee.fr/doc/etudo_1241-3496_2000_num_10_1_1343
+- `downloads/pages/54a70cc2111c.md` — "La Banque de France, fille du coup d’État de Brumaire et institution majeure des "masses de granit" napoléoniennes - na…" — https://www.napoleon.org/histoire-des-2-empires/articles/la-banque-de-france-une-des-grandes-institutions-napoleoniennes/
+- `downloads/pages/70cc6a857e5f.md` — "Carnegie Endowment for International Peace" — https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/327/0142_Bk.pdf
+- `downloads/pages/73417730c1cf.md` — "Complementarities and Competition in Microstructures" — http://www.parisschoolofeconomics.com/hautcoeur-pierre-cyrille/PCHAR_EHR.pdf
+- `downloads/pages/737e42cc7d81.md` — "Una qüestió de servei al rei: El subministrament de fusta per a la marina francesa en el segle XVIII | Drassana" — https://doi.org/10.51829/drassana.30.691
+- `downloads/pages/7b2c2d367960.md` — "| Drassana" — https://revistadrassana.cat/index.php/Drassana/article/view/691/830
+- `downloads/pages/82073d12ec88.md` — "Waterloo: a Godsend for French Public Finances?" — https://ideas.repec.org/p/hes/wpaper/0041.html
+- `downloads/pages/83ad07a570c6.md` — "Bergeron (Louis) et Chaussinand-Nogaret (Guy). Les « masses de granit ». Cent mille notables du Premier Empire - Persée" — https://www.persee.fr/doc/rbph_0035-0818_1982_num_60_4_5880_t1_1048_0000_2
+- `downloads/pages/8fe472aaf5a4.md` — "GitHub - mattsclancy/growth-acceleration: Is the Industrial Revolution an existence proof for 10x AI growth? Analysis u…" — https://github.com/mattsclancy/growth-acceleration
+- `downloads/pages/906d4b3f363b.md` — "Napoleon's War Financing Strategies | PDF | First French Empire | Napoleon" — https://www.scribd.com/document/903628600/Napoleons-Attempts-to-Make-His-Campaigns-Self-Financing
+- `downloads/pages/9af05ae4687f.md` — "Situation financière de la France, 1843 - Wikisource" — https://fr.wikisource.org/wiki/Situation_financi%C3%A8re_de_la_France,_1843
+- `downloads/pages/a6fc0bf52bf4.md` — "France: Income and Expenditures in An 12" — https://www.napoleon-series.org/research/abstract/government/budget/france/an12/c_an12.html
+- `downloads/pages/ab1d70897763.md` — "Waterloo: a Godsend for French Public Finances?" — https://ideas.repec.org/p/hes/wpaper/0041.html
+- `downloads/pages/bfe5e416b5e6.md` — "Législation sur les Majorats (1808-1905)" — https://heraldica.org/topics/france/majoratstexts.htm
+- `downloads/pages/c17387e0e297.md` — "Histoire contemporaine" — https://www.mediterranee-antique.fr/Pages_accueil/Accueil_Contemporain.htm
+- `downloads/pages/c97fa30208bf.md` — "IN THE EPICENTER OF THE STORM? THE EFFECTS OF THE REVOLUTION AND WARFARE ON THE FRENCH ECONOMY, 1789-1815" — http://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-06.pdf
+- `downloads/pages/dd0ed0a68f18.md` — https://journals.openedition.org/geohist/4373
+- `downloads/pages/de8da74a2316.md` — "Les donataires de Napoléon - Persée" — https://www.persee.fr/doc/rhmc_0048-8003_1970_num_17_3_2102
+- `downloads/pages/df27e5314cf3.md` — "Correspondance de Napoléon Ier - Janvier-Février-Mars 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-janvier-fevrier-mars-1810/
+- `downloads/pages/e4f61139af7d.md` — "Le financement des guerres napoléoniennes et la conjoncture du Premier Empire - Persée" — https://www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987
+- `downloads/pages/e772cb60e0df.md` — "Le financement des guerres napoléoniennes et la conjoncture du Premier Empire - Persée" — https://www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987
+- `downloads/pages/f1644e0dd8a2.md` — "Comparaison décennale des budgets de dépenses et de recettes en France depuis 1836" — https://www.numdam.org/item/JSFS_1868__9__306_0.pdf
+- `downloads/pages/f3c3e5561ee4.md` — "Napoleon’s Equine Strategy in 1813" — https://www.napoleon-series.org/military-info/organization/France/Cavalry/Remounts/c_remounts1813.html
+- `downloads/pages/f8b5b8268f1c.md` — "Climate of migration? How climate triggered migration from southwest Germany to North America during the 19th century" — https://doi.org/10.5194/cp-13-1573-2017
+- `downloads/pages/fcbe932bee44.md` — "Napoléon et la finance - Le Consulat et le premier empire" — https://napoleon-histoire.com/la-politique-financiere-sous-le-consulat-et-lempire/
+
+## Unresolved locators
+
+- `https://blacksea.gr/download.php?fen=statistics/statistics_0014_7653.xlsx；编制说明` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_02f417/notes_blacksea_grain.md`)
+- `https://blacksea.gr/download.php?fen=statistics_sources.docx；学术负责人` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_02f417/notes_blacksea_grain.md`)
+- `https://www.nationalmuseum.md/en/press_releases/journal_tyragetia/the_role_of_grain_exports_in_external_commerce_of_bessarabia_1812_1830/；本地` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_02f417/notes_blacksea_grain.md`)
+- `https://doi.org/10.51829/Drassana.30.691` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_02f417/notes_colbert_forests.md`)
+- `https://www.onf.fr/onf/%2B/ff6::la-grande-histoire-des-forets-episode-ordonnance-de-colbert-en-1669-la-gestion-forestiere-en-foret-de-troncais.html，网页缓存` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_02f417/notes_colbert_forests.md`)
+- `https://shs.hal.science/halshs-01241363/document` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `https://journals.openedition.org/geohist/4373` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `https://doi.org/10.3406/rharm.1974.7813` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `https://www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `https://doi.org/10.4000/books.psorbonne.91295` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `https://www.artillerie.asso.fr/basart/article.php3?id_article=1972` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/consulta/registro.do?id=523703` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `downloads/pages/898ecb4eeeb6.md|` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `downloads/pages/07268e71e6e2.md|` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `downloads/pages/06f099bfa047.md|` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `downloads/pages/a33ec60b83be.md|` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Ulm_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `downloads/pages/f2fd5147bb31.md|` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Mont_Saint-Bernard_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `downloads/pages/dc7df5fbd91a.md|` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Polonais_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `downloads/pages/a926b7531016.md|` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Tilsitt_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `downloads/pages/5af51159c185.md|` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `downloads/pages/acacc4f22128.md|` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `downloads/pages/a6a9708fe694.md|` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `nodes/r_5b1357a9c6/cards/t_b1a536/validate_F3.py（先用build_F3_model.py与build_F3_sensitivity.py生成CSV）。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/VALIDATION.md`)
+- `https://jmss.org/article/download/58328/pdf_1/159033` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`)
+- `https://www.usmcu.edu/Outreach/Marine-Corps-University-Press/MCU-Journal/JAMS-vol-11-no-2/The-Unity-of-the-Operational-Art/` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`)
+- `https://doi.org/10.22586/pp.v43i67.32824` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_source_excerpts.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Ulm_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Mont_Saint-Bernard_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Polonais_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Tilsitt_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`)
+- `https://www.academia.edu/2606837/_Le_redressement_naval_de_Napol%C3%A9on_de_1810_%C3%A0_1813_et_la_g%C3%A9ographie_maritime_de_lEurope_p_137_170` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`)
+- `https://www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`)
+- `https://shs.hal.science/halshs-01241363/document` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`)
+- `https://journals.openedition.org/geohist/4373` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`)
+- `https://www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`)
+- `https://www.artillerie.asso.fr/basart/article.php3?id_article=1972` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Ulm_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Mont_Saint-Bernard_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Polonais_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Tilsitt_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`)
+- `https://www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`)
+- `nodes/r_5b1357a9c6/cards/t_9f10b6/F4_french_finance_ruling_class.md` — source changed since its registered sha256; original evidence is unresolved

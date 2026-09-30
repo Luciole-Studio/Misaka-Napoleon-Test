@@ -1,0 +1,66 @@
+{
+  "unit": "million francs; army cost francs per person-year; author scenarios, not historical revenue observations",
+  "budgets": [
+    {
+      "revenue": 650.0,
+      "civil_debt_court": 280.0,
+      "army": 245.0,
+      "navy": 90.0,
+      "new_obligations": 15.0,
+      "transport_capital": 0.0,
+      "reserve": 20.0,
+      "balance": 0.0,
+      "army_roster_at_700": 350000.0,
+      "army_roster_at_900": 272222.22222222225
+    },
+    {
+      "revenue": 750.0,
+      "civil_debt_court": 280.0,
+      "army": 280.0,
+      "navy": 145.0,
+      "new_obligations": 25.0,
+      "transport_capital": 0.0,
+      "reserve": 20.0,
+      "balance": 0.0,
+      "army_roster_at_700": 400000.0,
+      "army_roster_at_900": 311111.1111111111
+    },
+    {
+      "revenue": 850.0,
+      "civil_debt_court": 300.0,
+      "army": 300.0,
+      "navy": 165.0,
+      "new_obligations": 25.0,
+      "transport_capital": 40.0,
+      "reserve": 20.0,
+      "balance": 0.0,
+      "army_roster_at_700": 428571.4285714286,
+      "army_roster_at_900": 333333.3333333333
+    }
+  ],
+  "province_example_gross": {
+    "retained": 169.5,
+    "excluded": 144.291,
+    "unallocated": 28.469043999999997
+  },
+  "common_fund_spendable": {
+    "base_5m_5pct": 3.0,
+    "5m_7pct": 2.5999999999999996,
+    "3m_7pct": 0.5999999999999999
+  },
+  "rail_1500km_cost_mfr": [
+    375.0,
+    600.0
+  ],
+  "annual_rail_15years_mfr": [
+    25.0,
+    40.0
+  ],
+  "navy_extra_195_vs_165": 30,
+  "navy_extra_share_rail_40": 0.75,
+  "rouanet_piano_source_mismatch": {
+    "2812_over_10499": 0.2678350319078007,
+    "3256_over_10499": 0.3101247737879798
+  },
+  "annualized_3144_nine_month_letters": 4192.0
+}

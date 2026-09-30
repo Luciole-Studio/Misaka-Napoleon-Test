@@ -1,0 +1,62 @@
+{
+  "revision": "20260924_整书统稿",
+  "whole_book_accepted": false,
+  "counts": {
+    "conclusion": {
+      "active": 39,
+      "this_scope_closed": 33,
+      "partially_repaired": 6,
+      "untreated": 0,
+      "withdrawn": [
+        "M011"
+      ]
+    },
+    "citation": {
+      "instances": 100,
+      "this_scope_closed": 10,
+      "partial": 3,
+      "untreated": 87
+    },
+    "material_groups": {
+      "total": 10,
+      "incorporation_closed": 8,
+      "partial": 2
+    },
+    "structure": {
+      "total": 5,
+      "closed": 2,
+      "partial": 1,
+      "open": 2
+    },
+    "term": {
+      "total": 1,
+      "closed": 1
+    }
+  },
+  "corpus_registration": {
+    "paths": 7246,
+    "unique_sha256": 2195,
+    "exhaustive_reading_verified": false
+  },
+  "current_revision": {
+    "characters_without_metadata": 325755,
+    "han_characters": 202835,
+    "chapters_including_introduction_appendix": 12,
+    "tables": 69,
+    "source_note_definitions": 238,
+    "source_note_calls": 454,
+    "missing_notes": [],
+    "duplicate_note_definitions": [],
+    "unused_note_definitions": [],
+    "table_column_errors": [],
+    "original_report_unchanged": true,
+    "html_sha256": "fcffe877fd8e85d6f1b269df16c1f818e0edc5ca411651e8abb68627fdb43570",
+    "markdown_sha256": "9f31a9ebd0efa601224af9bd78210358ff5f6ef6fda7858b4cee4b61d9d03bae",
+    "limits": "Counts and static checks are not a claim of exhaustive archive reading, causal model validation, or whole-book PDF visual proof."
+  },
+  "original_report_files_unchanged": 23,
+  "whole_book_visual_verified": false,
+  "reading_scope": "12章结构与关键论证、各章新增段及被替换段定向复读；不宣称全书每句及全部原材料穷尽核读",
+  "ledger": "当前缺陷工作账.csv",
+  "note": "本项关闭指已识别的表达/遗漏/题录缺口，并非反事实结局已证明；90处引注实例仍部分或未修。"
+}

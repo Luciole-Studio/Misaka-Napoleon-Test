@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN" xml:lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>叙事结构与因果链复核</title>
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      white-space: pre-wrap;
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #1a1a1a;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <style>
+  :root{--paper:#fffdf8;--ink:#242a2d;--muted:#65716f;--accent:#285c59;--line:#d9dfd8;--nav:280px}*{box-sizing:border-box}html{scroll-behavior:auto;scroll-padding-top:35px}body{margin:0;max-width:none;width:auto;background:var(--paper);color:var(--ink);font-family:"Songti SC","Noto Serif CJK SC","Source Han Serif SC",Georgia,serif;font-size:18px;line-height:1.85;overflow-wrap:break-word;padding:58px max(40px,calc((100vw - var(--nav) - 940px)/2)) 100px calc(var(--nav) + max(40px,calc((100vw - var(--nav) - 940px)/2)))}body>header,body>section,body>h1{max-width:900px;margin-left:auto;margin-right:auto}header#title-block-header{text-align:left;padding:50px 0 60px;border-top:5px solid var(--accent);border-bottom:1px solid var(--line);margin-bottom:55px}h1.title{font-size:54px;letter-spacing:.03em;border:0;padding:0;margin:.4em 0;color:#163e3d;line-height:1.35}.subtitle{font-size:24px;letter-spacing:.05em;margin:.6em 0}.date{font:14px/1.8 system-ui,sans-serif;letter-spacing:.15em;color:var(--muted);margin-top:26px}h1{font-size:34px;line-height:1.5;margin:90px 0 36px;border-top:3px solid var(--accent);padding-top:30px;letter-spacing:.02em}h2{font-size:26px;line-height:1.6;margin:54px 0 22px;color:#174c49}h3{font-size:21px;line-height:1.6;margin:36px 0 15px}p{margin:0 0 1.25em}strong{font-weight:700;color:#173e3c}a{color:#286560;text-decoration:none;text-underline-offset:.2em}a:hover{text-decoration:underline}blockquote{margin:1.6em 0;padding:.3em 1.2em;border-left:3px solid #8aa39b;color:#384c47;background:#f1f4ed}hr{border:0;border-top:1px solid var(--line);margin:3em 0}.table-scroll{overflow-x:auto;max-width:100%;margin:24px 0 30px;border-top:2px solid var(--accent);border-bottom:1px solid var(--line)}table{border-collapse:collapse;width:100%;font-size:15px;line-height:1.65;font-family:"PingFang SC",system-ui,sans-serif;font-variant-numeric:tabular-nums;margin:0}th{background:#edf2eb;color:#1d4945;padding:11px 12px;text-align:left;font-weight:600;border-bottom:1px solid #b7c9bf}td{padding:10px 12px;border-bottom:1px solid #e3e7e0;vertical-align:top;min-width:68px}td:first-child{min-width:100px}tr:nth-child(even){background:#f7f8f3}table caption{font-weight:600;padding:10px}.footnote-ref{font:12px/1 system-ui,sans-serif;white-space:nowrap;padding:0 2px}.footnotes{font-size:15px;line-height:1.85;border-top:0;margin-top:28px}.footnotes li{margin:0 0 1.5em;padding-left:5px}.footnotes p{margin:0 0 .5em}.footnote-back{padding-left:.5em}#TOC{position:fixed;top:0;left:0;bottom:0;width:var(--nav);background:#f0f2ec;border-right:1px solid var(--line);padding:26px 20px 45px;overflow-y:auto;font:14px/1.6 "PingFang SC",system-ui,sans-serif;z-index:10}#TOC h2{font:600 17px/1.5 system-ui,sans-serif;letter-spacing:.12em;margin:0 0 22px;color:var(--accent)}#TOC ul{list-style:none;margin:0;padding:0}#TOC>ul>li{margin-bottom:16px}#TOC>ul>li>a{font-weight:650;color:#24433e}#TOC ul ul{padding:7px 0 0 12px;border-left:1px solid #c9d4ca;margin-top:5px}#TOC ul ul li{margin-bottom:7px}#TOC li.current>a{color:#0b7567;background:#dfeae1}#TOC .toc-tools{font-size:12px;color:#66766d;margin:10px 0 22px}#TOC details{margin:0 0 16px}#TOC summary{cursor:pointer;font-weight:650;color:#24433e}#progress{position:fixed;top:0;left:var(--nav);height:3px;background:#3b8477;z-index:100;width:0}#top-link{position:fixed;right:22px;bottom:22px;background:#e7eee5;border:1px solid #c4d4c8;border-radius:4px;padding:7px 13px;font:13px/1.5 system-ui,sans-serif;z-index:9}.print-only{display:none}code{font-size:.85em;background:#eef1eb;padding:.1em .3em}li{margin-bottom:.5em}:target{scroll-margin-top:35px}.footnotes li:target{background:#f0f1d9;padding:12px;border-radius:4px}::selection{background:#d3e4d6}
+  @media(max-width:1050px){:root{--nav:240px}body{font-size:17px;padding-right:28px;padding-left:calc(var(--nav) + 28px)}h1.title{font-size:43px}h1{font-size:29px}h2{font-size:24px}}
+  @media(max-width:760px){body{padding:25px 22px 65px;font-size:17px}#TOC{position:relative;width:auto;max-height:470px;border:1px solid var(--line);margin:0 0 35px;padding:20px}header#title-block-header{padding:25px 0 32px;margin-bottom:30px}h1.title{font-size:38px}.subtitle{font-size:20px}h1{margin-top:60px;font-size:27px}h2{font-size:23px}h3{font-size:20px}#progress{left:0}#top-link{right:10px;bottom:10px}td,th{padding:8px 10px}table{font-size:14px}.table-scroll table.wide-table{min-width:680px;display:table}}
+  @media print{body{padding:0;background:white;color:#000;font-size:10.5pt;line-height:1.6}#TOC{position:static;width:auto;height:auto;overflow:visible;background:white;border:0;padding:0;page-break-after:always;font-size:10pt}#TOC details{display:block}#TOC ul ul{display:block!important}#progress,#top-link,.toc-tools{display:none}h1{page-break-before:always;border-top:0;font-size:25pt}h2{font-size:16pt}h3{font-size:13pt}h1,h2,h3{break-after:avoid}table{font-size:7.5pt;table-layout:fixed;width:100%}th,td{min-width:0!important;padding:6px 5px;overflow-wrap:anywhere}td:first-child{min-width:0!important}.table-scroll table.wide-table{min-width:0!important;max-width:100%}.table-scroll{overflow:visible;break-inside:auto}tr{break-inside:avoid}thead{display:table-header-group}a{color:inherit}header#title-block-header{padding-top:100px;page-break-after:always;border-top:0}.footnotes{font-size:9pt}p{orphans:3;widows:3}@page{size:A4;margin:20mm 18mm}}
+  </style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">叙事结构与因果链复核</h1>
+</header>
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a href="#叙事结构与因果链复核尚未达到可确认的严肃专著成稿要求"
+id="toc-叙事结构与因果链复核尚未达到可确认的严肃专著成稿要求">叙事结构与因果链复核：尚未达到可确认的严肃专著成稿要求</a>
+<ul>
+<li><a href="#一本轮究竟检查了什么"
+id="toc-一本轮究竟检查了什么">一、本轮究竟检查了什么</a></li>
+<li><a href="#二九组仍需处理的问题"
+id="toc-二九组仍需处理的问题">二、九组仍需处理的问题</a></li>
+<li><a href="#三怎样重排才不会越补越像资料汇编"
+id="toc-三怎样重排才不会越补越像资料汇编">三、怎样重排，才不会越补越像资料汇编</a></li>
+<li><a href="#四后续补订的先后"
+id="toc-四后续补订的先后">四、后续补订的先后</a></li>
+</ul></li>
+</ul>
+</nav>
+<h1
+id="叙事结构与因果链复核尚未达到可确认的严肃专著成稿要求">叙事结构与因果链复核：尚未达到可确认的严肃专著成稿要求</h1>
+<p><strong>结论：未通过整书层面的叙事与论证验收。</strong>现稿已有大量有效材料、若干严谨的局部辨析，以及一条可讨论的核心判断；但它目前更接近一部经过扩充的专题研究稿，尚未充分成为由同一组前提推动、各地区相互反馈、结论逐层产生的历史专著。</p>
+<p>这不是因其属于反事实史而降低评价，也不是要求每个未发生事件都得到实证证明。允许作者大胆选择一条道路，仍须使读者看清：改变了什么，当事人当时掌握什么，谁接受或反对，代价由谁支付，下一步为何由此发生，以及哪一项变化足以推翻结论。</p>
+<h2 id="一本轮究竟检查了什么">一、本轮究竟检查了什么</h2>
+<p>核对12个章文件的全部一级至三级标题，定向复读起点、财政与舰队、行省化、制度建构、海外干预、继承和总括之间的关键接口；并核对当前缺陷工作账。正文位置和原句收于<a
+href="逐处证据.csv">逐处证据</a>，文件指纹及阅读边界见<a
+href="复核范围与指纹.json">核验范围</a>。</p>
+<p>本轮没有逐句重新审阅全书，没有重新核实全部外部引文，没有重读exam全部原材料，也没有进行阅读版逐屏检查。因此，下列九组是足以否定“已经达到成稿要求”的已定位问题，不宣称穷尽所有缺陷。它们与既有M、S条目交叉，不再相加为九个独立新错误。本轮仅记录复核意见，未改正文或撤销既有修复。</p>
+<h2 id="二九组仍需处理的问题">二、九组仍需处理的问题</h2>
+<h3
+id="n01-1803年的问题仍主要由1807年的既得胜利回答">N01　1803年的问题，仍主要由1807年的既得胜利回答</h3>
+<p><strong>位置：导论23—27行；末章3—17行。关联M003，优先处理。</strong></p>
+<p>导论明说把乌尔姆、奥斯特里茨、耶拿—奥尔施泰特、弗里德兰保留下来，末章则直接写“主线从1807年7月出发”。这比隐瞒前提好，却尚未回答从1803年出发的法国如何选择、承担哪些失利风险、为什么不是先保亚眠和平。</p>
+<p>问题不是年代写错，而是把“已经赢到提尔西特之后怎样不输”当作最充分展开的答案。1803和平、1807整固、1808止损三条路尚未获得可比较的行动与代价叙述。</p>
+<p><strong>修订落点：先补1803—1807的决策链。</strong>保留哪些史实、改变哪些决定、谁能推动改变、失利后退到何种目标，都应明确。沿用真实胜利可以是情景前提，但不等于证明1803年的决策者能够保证取得这些胜利。</p>
+<h3
+id="n02-各章的有利方案还没有成为同一个法国">N02　各章的有利方案，还没有成为同一个法国</h3>
+<p><strong>位置：第一章160—183行；第三章193—225行；第八章173—200行。关联M001、M005—M012。</strong></p>
+<p>第一章比较多套收入、陆军、海军和盟约现金；第三章以特定造舰与人员流入条件给出接近九成舰体吨位的分支；第八章又使用不同疆域、军费分配和自养盟军组合。正文多次正确提醒这些假设有条件，却尚未选出一套跨章一致的主线。</p>
+<p>这是“知道有冲突，但尚未解决冲突”，不是所有计算都错误。英国保持更高准备程度和撤去安特卫普优势的敏感性已经存在，也不应再次指控书稿没有计算英国反应。</p>
+<p><strong>修订落点：让同一时期的疆域、税源、盟军义务、舰队预算和英法海上状态一起成立。</strong>其余方案保留为反例或竞争分支。少一些目的并行，可以是结论；把不同方案的最好结果连在一起则不是一条历史。</p>
+<h3
+id="n03-补出了政治机制尚未写成发生这些转向的历史过程">N03　补出了政治机制，尚未写成发生这些转向的历史过程</h3>
+<p><strong>位置：末章53—61、162—190行。关联M003、M035、M038。</strong></p>
+<p>M002现在清楚地区分了1807年的行为默认与长期存续路径，并补出四类行动者及改判条件；这些修复成立。但“既有税源足够时拒改”“共同筹码形成时让步”的机制，还需要进入主线：哪场财政争执或继承交涉使谁联合，谁阻挠，皇帝付出何种可辨认的让步，失败者如何应对。</p>
+<p>这不要求捏造会议日期或未存世的讲话。可以采用制度事件和阶段叙述，而非精确日历。<strong>关键是给出从前一状态走到后一状态的桥梁，而不是每过十年重新列一组‘如果’。</strong></p>
+<p>M002关闭的是原登记的局部论证缺口，不是全书政治转型叙事的验收；本轮不把二者混为一谈。</p>
+<h3
+id="n04-区域结论需要彼此改变而不只是并排成立">N04　区域结论需要彼此改变，而不只是并排成立</h3>
+<p><strong>位置：第六章429—435行；第七章473—494行；末章218—232行。关联M007、M024、M028、M030、M039。</strong></p>
+<p>美洲章已经区分外交、军械人员、有限海军行动与大规模平叛，东方章也主张有限而稳定的援助；缺口是主线究竟选择哪一级、两个方向怎样分配同一批舰船、军官、信贷和外交信誉。</p>
+<p>末章同时提出英国将注意力更多转向印度洋，以及法国为东方伙伴扩大自主空间。两者并非天然矛盾，却会相互抵消。若英国把欧洲省下的资源投向亚洲，法国的有限援助是否仍足够？若增加援助，欧洲近海追赶或其他伙伴会损失什么？目前尚未贯通。</p>
+<p><strong>修订落点：沿一次选择追踪跨地区后果。</strong>例如贸易妥协怎样改变荷西俄合作、英国支出与海外部署，再怎样反过来改变法国的舰队和援助分配。这里提出的是待核的联动链，不是已经证明每个箭头都成立。</p>
+<h3
+id="n05-有同时代制度构件尚未推出成员国退出不起">N05　“有同时代制度构件”尚未推出“成员国退出不起”</h3>
+<p><strong>位置：末章138—156行。关联M034。</strong></p>
+<p>定期会议、仲裁、河运合作和共同债务，是有用的制度参照。可是第150行直接提出建立“各国都退出不起的共同财政”，此时尚未说明共同税源如何征收、法国承担多少担保、成员违约后谁付款、退出时如何清算、法国是否也受裁判约束。</p>
+<p>因此，可以论证合作的入口已经存在；不可把它直接当作共同财政不可逆、乃至中央主权逐步形成的充分机制。</p>
+<p><strong>修订落点：先写一套规模有限且有退出规则的财政合作。</strong>它在哪场争执中被维持、扩展或拆散，才是后续叙事。中央集权应当是经过新条件形成的结果，不是提前借来的终点。</p>
+<h3
+id="n06-到1830与1848年主线的权力主体和若干地区终局仍漂浮">N06　到1830与1848年，主线的权力主体和若干地区终局仍漂浮</h3>
+<p><strong>位置：末章168—190行；第六章481—491行。关联M004、M016—M022、M025—M030、M036、M038。</strong></p>
+<p>避免虚构皇帝死亡日期是正确做法。但主线仍须交代此阶段由哪种机构决定军费和条约：在位皇帝、摄政会、成年继承君主，还是更受代表机关制约的内阁。现在多个分支反复并列，长期政治的执行者并不稳定。</p>
+<p>美洲汇总中的墨西哥仍是“较长的波旁连续性”，一些地区仍以保王、自治、独立并列收束；巴西表格又回到“取决于宫廷是否迁都”。这些表达说明可能性，尚未充分确定本书选择的1848年世界。</p>
+<p><strong>修订落点：为主线选定制度阶段与首选终局，为其余结果保留清楚的转入条件。</strong>不虚构精确日期，不妨碍给出明确的权力结构和政治地位判断。</p>
+<h3
+id="n07-结语的确定性仍高于中段完成的论证">N07　结语的确定性，仍高于中段完成的论证</h3>
+<p><strong>位置：导论15—19行；末章101—105、196—200、316—324行。关联M001、M009。</strong></p>
+<p>导论已承认路径未成为持续至1848年的完整验证方案；末章中段选择武装共存为底线，正式和约是较好分支。结语却又把“更大的法国—法国主导的大陆—英法和平—逐渐改变形态的帝国”连成一幅“确实存在于当时的能力和选择之中”的图景。</p>
+<p>这句话可以理解为作者提出一种可能世界，但在全书终点容易读成：上述好处已被证明能够同时实现。前文的未决条件没有在最后一句保持同样强度。“英法和平”也应说明是有协议的共存还是正式和约。</p>
+<p><strong>修订落点：结语概括已经论证的范围，不替未完成的联动验证提前报捷。</strong>这里是上一轮M001未完全修复的具体残留，理应承认，而非以已新增预算提醒抵销。</p>
+<h3
+id="n08-部分段落仍像校订记录补得更多也可能读得更散">N08　部分段落仍像校订记录，补得更多也可能读得更散</h3>
+<p><strong>位置：第一章140—158行；末章35—43、138—154行。关联S002、S003。</strong></p>
+<p>第一章相邻两节重复共和十三年172,763,591与149,627,795的案例，又重复高丹的新增收入与辛普朗案例。第二次增加了口径解释，却还可以把完整信息集中到第一次，第二次只推进推论。高丹、戈丹也尚未统一。</p>
+<p>上一轮新加的末章第37行，把网页把11误作1的修订过程写进正文；同一细节已经在终9注完整说明。严肃史料校勘有价值，但此处正文应让数据服务“选择性放宽”这一解释，将传播错误与核读过程保留在注释和校勘记录即可。</p>
+<p>1807年标题下的1811—1815史实参照并非时序错误；问题在于长插节同时容纳统计、条文和四类行动者，再回到1808—1812主线，阅读推进被打断。末章又承担制度设计、分年代推演、全球后果、原问题重答和风险目录，部分结果被反复宣布，关键制度却太晚才开始论证。</p>
+<p><strong>修订落点：明确史实参照插节，移动而非丢弃材料；把制度机制放到需要它的主线关口。</strong>专题结构本身没有问题，缺的是章节间的承接和相同结论的去重。</p>
+<h3
+id="n09-引注保全材料覆盖与学术引证仍是三个不同层次">N09　引注保全、材料覆盖与学术引证仍是三个不同层次</h3>
+<p><strong>依据：当前工作账的S001、S004、S005及未关闭引注记录；本轮未逐条重核全部引文。</strong></p>
+<p>213条注释与394处调用无缺失，只能证明引用结构完整，不证明每条都支持邻近主张，也不证明exam全部有用材料已入文。一个作者稿、书评、网页镜像与研究卡可能仍出自同一来源。</p>
+<p>正文若使用“相关章节”“本书某编所引”等短引，读者还需要唯一而明确的回指。现有未关闭的100处引注缺口是先前登记的实例，不是本轮重新发现100个错误，也不等于100部作品有问题。</p>
+<p><strong>修订落点：保全继续做，同时逐条完成证据—主张的对应、版本和页码定位、转引链及实际使用书目。</strong>反证、没有采用的方案和被纠正的数据应保留解释，不靠重复抄录来制造材料充分的印象。</p>
+<h2
+id="三怎样重排才不会越补越像资料汇编">三、怎样重排，才不会越补越像资料汇编</h2>
+<p>不必把全书改成单纯编年史，也不必删掉区域章节。较小而有效的结构调整是：</p>
+<ol type="1">
+<li><strong>开篇先建立1803年的决策场景。</strong>交代法国目标、可用资源、已发生事件与尚可改变之处；比较和平、继续战争后整固和晚期止损，而非把选择推迟到末章。</li>
+<li><strong>欧洲章节共同形成一套可执行的安排。</strong>法国财政与继承、英国海上反应、俄奥普与盟国、伊比利亚及意大利，都应改变同一套主线，而不是分别选择最有利条件。</li>
+<li><strong>保留美洲和东方的完整区域叙事。</strong>把当地行动者置于中心，同时说明欧洲安排怎样改变其资源与选择，以及海外后果如何反过来约束巴黎和伦敦。</li>
+<li><strong>再检验行省化及长期制度。</strong>比较并合与联盟的收益、成本、反例和退路。共同财政、仲裁与代表权须在这里获得具体机制，不等到结语突然成为答案。</li>
+<li><strong>末章只承担真正的综合推进。</strong>沿1815、1830、1848三个观察阶段写主线如何遭遇危机、调整并形成各地终局；竞争分支在转折处出现。最后一次回应原初问题，不再连续数轮重复结论。</li>
+</ol>
+<p>长表、校勘和模型细项可留在附编与注释，正文保留决定推论的数字、引文及反证。<strong>保存材料，不等于每条材料都以同一篇幅在正文和附编各讲一次；有机结合，是让每条被采用的材料承担可说明的论证任务。</strong></p>
+<h2 id="四后续补订的先后">四、后续补订的先后</h2>
+<p>仍从M003开始，但验收单位应由“这一段补了什么”扩大到“这项改变影响了哪些章”。随后优先处理M004的胜利标准及M005—M012的共同约束，再处理制度、继承与区域终局。每项完成时回读导论、相关章末与结语，防止中段已经收紧、总括仍继续放大。</p>
+<p>最终应分别回答三件事：文字是否顺；各章证据是否充分；同一条历史能否从这些章之间走过去。现稿第一项在不少局部已做到，第二项部分做到，第三项仍有上述承重缺口。因此，本轮不出具“达到严肃专著成稿要求”的结论。</p>
+</body>
+</html>

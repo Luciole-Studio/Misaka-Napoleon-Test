@@ -1,0 +1,290 @@
+Title: 2129
+
+URL Source: https://journals.gold.ac.uk/index.php/bjmh/article/download/1716/1843/2129
+
+Number of Pages: 9
+
+Markdown Content:
+# British Journal for Military History 
+
+## Volume 9, Issue 2, July 2023 
+
+The Irish Soldier in the British Army during the Napoleonic Wars 1808-1815 
+
+James Deery ISSN: 2057-0422 
+
+Date of Publication: 31 July 2023 
+
+Citation: James Deery, ‘The Irish Soldier in the British Army during the Napoleonic Wars 1808-1815’, British Journal for Military History , 9.2 (2023), pp. 162-169. www.bjmh.org.uk 
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. 
+
+The BJMH is produced with the support of British Journal for Military History, Volume 9, Issue 2, July 2023 
+
+www.bjmh.org.uk 162 
+
+# The Irish soldier in the British army during the Napoleonic Wars, 1808-1815 
+
+JAMES DEERY *
+
+Maynooth University, Ireland 
+
+Email:  jim.deery.2017@mumail.ie 
+
+ABSTRACT 
+
+Consideration by historians of Irish soldiers’ service in the regular British army during 
+
+the Napoleonic Wars has been primarily through the perspective of the Irish regiments and the Irish enlisted man. This note presents new perspectives by demonstrating that Irish service was more widespread due to the presence of Irish officers and enlisted men across all regiments of the regular army. Important aspects of Irish service such as promotion, discipline, and the presence of Irish families are highlighted with the intention of facilitating a new perspective on the relationship between the regular British army and Irish society. 
+
+Introduction 
+
+Historians of the British army during the Napoleonic Wars have generally viewed the Irish soldier within the context of the Irish regiments and particularly those that served with Wellington during the Peninsula and Waterloo campaigns. 1 However, three times more Irish men served in English and Scottish regiments than in the Irish regiments. 2
+
+In addition, a third of all regimental officers who served in the Peninsula and Waterloo 
+
+> *
+
+James (Jim) Deery is a John and Pat Hume PhD scholar studying in the Centre for Military History and Strategic Studies, Maynooth University, Ireland. A former officer in the Irish Defence Forces, Jim currently works for the National Treasury Management Agency, Dublin. 
+
+DOI: 10.25602/GOLD.bjmh.v9i2.1716 
+
+> 1
+
+The 4 th (Royal Irish) Dragoon Guards, 6 th (Inniskilling) Dragoons, 18 th (King’s Irish) 
+
+Hussars, 27 th (Inniskilling) Regiment of Foot), 87 th (Prince of Wales’s Own Irish) 
+
+Regiment of Foot, and the 88 th (Connaught Rangers) Regiment of Foot. 
+
+> 2
+
+UK National Archives, (hereinafter TNA) WO27/91, WO27/92, WO27/98, WO27/99, WO27/102, WO27/105, WO27/106, WO27/113, WO27/116, WO27/117, WO27/126, WO27/127, WO27/133, WO27/134, Inspection Returns, 1807 to 1815 and Regimental Description Books, WO25/329 6 th Foot 1804 - 1812 and WO25/382, 1/42 nd Foot, 1807-1811, hereafter referred to as the Regimental demographics database. THE IRISH SOLDIER IN THE BRITISH ARMY DURING THE NAPOLEONIC WARS 
+
+163 www.bjmh.org.uk 
+
+campaigns were Irish. 3 This has resulted in a narrow focus of historical analysis with an under appreciation of the extent of Irish manpower mobilised by the British state for the defeat of Napoleonic France. Furthermore, it has unintentionally limited research into the wider economic and social impacts of the war on Ireland and its relationship with Great Britain. This research note presents preliminary PhD research findings examining Irish military service across all regiments of the regular British army between 1808 and 1815. The research methodology employed differs from other studies of the Irish soldier during this period as it is based on the statistical analysis of data from the military records. Three databases were constructed using biographical and military service details from War Office records, predominately regimental description books and inspection returns. 4 A database of 1,913 randomly selected Irish enlisted men from 54 cavalry and infantry regiments provides unique insights into these 
+
+men’s social -economic backgrounds and their experiences of life in the regular British army. 5 A second database contains data relating to the country of birth (England, Scotland, Ireland and Foreign) of 7,173 British army officers from the Peninsula and Waterloo campaigns. 6 This database facilitates comparative analysis of the regimental experiences of Irish born officers against their English and Scottish colleagues. The third database allows for the analysis of the country of birth (England, Scotland, Ireland and Foreign) of 141,731 enlisted men of the regular British army by regiment and rank. 7
+
+The findings presented in this research note are preliminary and any observations or alternate points of view are welcomed by the author. 
+
+> 3
+
+TNA WO27/89, WO27/90, WO27/91, WO27/92, WO27/96, WO27/98, WO27/99, WO27/100, WO27/101, WO27/102, WO27/106, WO27/107, WO27/111, WO27112, WO27/116, WO27/117, WO27/126, WO27/127, WO27/133, WO27/134, WO27/135, WO27/138 and WO27/139, Inspection Returns, 1805 to 
+
+1816, hereafter referred to as the British Army Officers‘ database. 
+
+> 4
+
+WO/25 series of regimental description books and WO27 series of regimental inspection returns. 
+
+> 5
+
+TNA, WO25/ 276 to WO25/299 – Regimental Description Books for various cavalry regiments from 3 rd Dragoons to 23 rd Light Dragoons 1802 to 1824, and WO25/ 314 to WO25/541 – Regimental Description Books for various infantry regiments from 1 st 
+
+Foot Guards to the 97 th Regiment of Foot 1776 to 1829. hereafter referred to as the 
+
+Irish enlisted men’s database. 
+
+> 6
+
+British army officers’ database. 
+
+> 7
+
+Regimental demographics database. The military records of the period only identified 
+
+the country of birth as ‘English’, ‘Scottish’, ‘Irish’ or ‘Foreign’. Welch born officers and 
+
+enlisted men were recorded as English. In a limited number of regimental records, such as the the 23 rd (Royal Welch Fusiliers) Regiment of Foot, the country of birth of Welch enlisted men was recorded, however, this was not consistently applied across all regiments, prohibiting any accurate analysis of Welch born soldiers or officers. British Journal for Military History, Volume 9, Issue 2, July 2023 
+
+www.bjmh.org.uk 164 
+
+Which were the Irish regiments? 
+
+By 1808 the regular British army consisted of 202,177 enlisted men serving in 204 cavalry and infantry regiments. 8 Of these, 13 bore an Irish regimental title. 9 However, analysis across the other regiments of the regular army found that over the period 1808 to 1815 a total of 54 cavalry and infantry regiments were predominately Irish in their demographical composition i.e. Ireland as the country of birth exceeded that for enlisted men born in England or Scotland. 10 Regiments such as the 11 th (North Devonshire) Regiment of Foot, the 44 th (East Essex) Regiment of Foot and the 67 th 
+
+(South Hampshire) Regiment of Foot had battalions with 94%, 91% and 88% Irish representation respectively. 11 32% of all enlisted men across the 204 cavalry and infantry regiments/battalions analysed were Irish, with English and Scottish representation at 53% and 14% respectively. 12 A revised understanding of what constituted an Irish regiment during this period is required. Such an understanding would provide a starting point in appreciating the wider impact of the Irish contribution to the regular army, and the impact of that contribution on Irish society. 
+
+The reason why the regular army became so Irish during this period was due to two interrelated factors. Since 1793 the war with France had created an unprecedented demand for manpower as Great Britain expanded its military forces. In 1793 the strength of the regular army was 38,945; by 1813 it had increased to 220,469, not including men in the militia and other auxiliary forces. 13 Lord Liverpool, Home Secretary in 1805, estimated that one in five British men were in uniform. 14 Secondly, the legislative framework supporting recruitment resulted in the poorest of English, 
+
+> 8
+
+U.K. Parliamentary Papers Archive, Return of effective strength of the British Army 1807-1813, H.C. 1813-14, (16) xi, 269. 
+
+> 9
+
+These regiments were 4th (Royal Irish) Dragoon Guards, 5 th (Royal Irish) Dragoons, 6th (Inniskilling) Dragoons, 8 th (King’s Roy al Irish) Light Dragoons, 18 th (King’s Irish) 
+
+Hussars, 18 th (Royal Irish) Regiment of Foot, 27 th (Inniskilling) Regiment of Foot, 86 th 
+
+(Royal County Down) Regiment of Foot, 87 th (Prince of Wales’s Own Irish) Regiment of Foot, 88 th (Connaught Rangers) Regiment of Foot, 99 th (Prince of Wales’s Tipperary) 
+
+Regiment of Foot, 100 th (Prince Regent’s County of Dublin) Regiment of Foot, and 101 st (Duke of York’s Irish) Regiment of Foot. 
+
+> 10
+
+Regimental demographics database. 
+
+> 11
+
+TNA WO27/106, WO27/92, and WO27/99, Inspection Returns, May 1812, May 1808 and 1810. 
+
+> 12
+
+Regimental demographics database. 
+
+> 13
+
+U.K. Parliamentary Papers Archive, Effective men in the British Army 1793 –1801, H.C. 1806 (173) x, 397 and Return of effective strength of the British Army 1807-1813, H.C. 1813-14, (16) xi, 269 
+
+> 14
+
+John Keith Bartlett, ‘The development of the British Army during the wars with 
+
+France, 1793-1815’, (PhD thesis, Durham University, 1997), p. 107. THE IRISH SOLDIER IN THE BRITISH ARMY DURING THE NAPOLEONIC WARS 
+
+165 www.bjmh.org.uk 
+
+Scottish and Irish societies being enlisted into the regular army. These men were mainly from the labouring classes. Unemployed weavers, who had suffered the combined effects of industrialisation and the closure of European markets as a result 
+
+of Napoleon’s economic blockade of British trade, also provided a ready so urce of manpower. While economic conditions for these men and their families were difficult, the situation was worse in Ireland where no poor law system was in operation. Analysis by former occupation confirmed that the majority (73%) of Irish enlisted men were former labourers and unemployed weavers. 15 Former labourers and weavers were also predominant among English and Scottish enlisted men. 16 
+
+Why did they serve? 
+
+Regimental life in the regular British army of the period has been portrayed in historical novels as one of unremitting hardship, draconian discipline, and the ever-present threat of death or serious injury. However, the regular army underwent a period of reform, primarily at the instigation of the Duke of York as commander-in-chief (1798-1809), during the wars with France. Improved conditions and terms of service, the provision of educational opportunities and prospects for promotion provided means by which soldiers could aspire to make a career within the army. Promotion within the non-commissioned officer (NCO) ranks, and in rarer instances as commissioned officers, provided a form of social mobility. Irish born men were represented at all ranks of the army: commissioned, and non-commissioned. Over the period 1807 to 1815, thirty percent of all NCOs were Irish, which was proportionate to their overall demographic of 32% across the enlisted men ranks. 17 Irish men accounted for 29% of the more senior NCO ranks of sergeant, colour sergeant and sergeant major in comparison to 51% for English men and 19% for Scottish men. 18 These statistical findings are important as they indicate that Irish men were considered to be of a character and disposition for promotion within English and Scottish regiments by the military authorities. 
+
+Irish officers 
+
+While Irish officers such as Wellington, Beresford and Lowry are well known to military historians of the period, what is probably less appreciated was the extent of 
+
+Irish officers across all regiments of the regular army. Among Wellington’s Peninsula 
+
+and Waterloo regiments, Irish born officers accounted for 33% of the officer corps. 19 
+
+These men were represented across the various regimental appointments –
+
+> 15
+
+Irish enlisted men’s database. 
+
+> 16
+
+Edward Coss. All for the King’s shilling the British soldi er under Wellington, 1808 – 1814, 
+
+(Oklahoma: University of Oklahoma Press, 2010), p. 69. 
+
+> 17
+
+Regimental demographics database. 
+
+> 18
+
+Ibid. 
+
+> 19
+
+British army officers’ database. British Journal for Military History, Volume 9, Issue 2, July 2023 
+
+www.bjmh.org.uk 166 
+
+commanding officers, company commanders, adjutants, and quartermasters, necessary for the effective and efficient functioning of their regiments. Analysis shows that Irish officers predominately served in the cavalry (23%), and infantry (36%) regiments, with fewer Irish born officers in the technical branches of the Royal Artillery (14%), and the Royal Engineers (9%). 20 The reason for this may be related to the requirement to attend the academy at Woolwich, which involved young gentlemen cadets having to remain in England for two years when they could have been advancing their careers within an infantry or cavalry regiment. 
+
+Discipline 
+
+The perception of Irish enlisted men during the Napoleonic period as portrayed in subsequent accounts and memoirs was one of ill-disciplined soldiers who were prone to excessive consumption of alcohol and theft. Such accounts may have been influenced by negative stereotypes that arose in response to Irish emigration to English cities in the decades following the war. Social unrest and political agitation in Ireland through-out the 1820s as the demand for Catholic Emancipation intensified may have further contributed to the negative stereotyping of Irish Catholics. Applying an empirical based analysis of the discipline of predominately Irish regiments and comparing them against English and Scottish regiments provides a more accurate understanding of discipline across the regular British army, and specifically the Irish 
+
+soldier’s relationship with military authority. Preliminary research was conducted on 
+
+regimental court martials from eight regiments during the six-month period from May 1812 to January 1813. 21 The eight regiments selected for analysis were chosen to determine if country of birth was a determinate of the court martial rate and the findings are presented in the table below. 22 
+
+> 20
+
+Ibid. 
+
+> 21
+
+TNA WO27/111 and WO 27/112, Inspection Reports May 1812 to January 1813. The regiments selected for analysis were the English 2/35 th (Sussex) Regiment of Foot, the Scottish 2/42 nd (Highland) Regiment of Foot, Anglo/Irish 2/43 rd (Monmouthshire) Regiment of Foot, the Anglo/Irish 1/45 th (Nottinghamshire) Regiment of Foot, the Scottish 1/72nd (Highland) Regiment of Foot the Irish/Scottish 74 th Regiment of Foot, the Irish 1/87 th (Prince of Wales’s Own Irish) Regiment of Foot and the Irish 1/88 th 
+
+(Connaught Rangers) Regiment of Foot. 
+
+> 22
+
+The courts martial data contained in the WO27 series of inspection reports does 
+
+not identify an individual soldier’s nationality. The returns only contain the total 
+
+number of enlisted men in each regiment by country of birth (English, Scottish Irish and Foreign). This was used as the basis to calculate the predominate country of birth for each regiment. THE IRISH SOLDIER IN THE BRITISH ARMY DURING THE NAPOLEONIC WARS 
+
+167 www.bjmh.org.uk 
+
+Table 1- Analysis of regimental courts martial May 1812 to January 1813. 23 
+
+The average court martial rate across the eight regiments was 2.8% or 3 men out of every hundred men were found guilty of various crimes by a regimental court martial during that six-month period. Analysis found that the predominately Irish regiments -1/87 th (Prince of Wales’s Own Irish) Regiment of Foot and the 1/88 th (Connaught Rangers) Regiment of Foot, had court martial rates that were at, or below, the average rate, while the Anglo/Irish regiments had rates below the average for the period. While the number of regiments and the time period sampled was limited, these preliminary findings contradict the perceptions articulated in some memoirs and subsequent histories of discipline of Irish enlisted men during the period. It can be concluded from this limited analysis that the perception that country of birth was a determinant of discipline was questionable, and that other factors may have impacted discipline within a regiment. When cross-referenced with the findings for the rates of representation of Irish at the NCO ranks, it is evident that more empirical research is required on this important aspect of Irish military service in the regular British army. 
+
+Irish families in the regular army 
+
+An under-researched area for historians of the period has been the presence of women and children within regular British army regiments. The research conducted to date has been focused on British women and children with limited analysis within a purely Irish context. Furthermore, no figure is available as to the total number of women and children who accompanied their husbands and fathers into the regular army. Analysis of military records across 114 regiments has found that in 1814 the marriage rate for Irish enlisted men was 11% compared with 12% across the army. 24 
+
+With 7,497 women and their children present in the 114 regiments analysed for this 
+
+> 23
+
+Source TNA WO27/111 and WO 27/112, Inspection Returns May 1812 to January 1813. 
+
+> 24
+
+TNA WO27/126 and WO27/127, Inspection Returns, 1814. 
+
+Regiment  2/35 th  2/42 nd  2/43 rd  1/45 th  1/72 nd  74th  1/87th  1/88 th  Total 
+
+Pre-dominate country of birth 
+
+Eng-lish 
+
+Scot-tish 
+
+Ang-lo/ Irish 
+
+Ang-lo/ Irish 
+
+Scot-tish 
+
+Irish/ Scot-tish 
+
+Irish  Irish 
+
+Court martials  25  20  2 16  10  54  26  34  187 
+
+Enlisted men  630  365  439  935  1035  892  933  1342  6571 
+
+Crime rate  4%  5.5%  0.5%  1.7%  1%  6.1%  2.8%  2.5%  2.8% British Journal for Military History, Volume 9, Issue 2, July 2023 
+
+www.bjmh.org.uk 168 
+
+research, and Irish enlisted men representing 32% of all men, this equates to a minimum of 2,399 wives of Irish soldiers, and a similar number of children under the age of 16 years, present in regular army regiments during 1814. 25 This figure was probably greater as records were only available for 114 regiments. 
+
+Analysis then focused on why did these women opt for a life with an army regiment and why were British army regiments prepared to allow families within the regimental structure? The answers again were related to the socio-economic situation many Irish, English and Scottish families found themselves in during the period, and the manpower needs of the British army. An illustrative example was provided by the Cunningham family from Castlepollard, County Westmeath, Ireland.  Michael Cunningham volunteered for the 67 th (South Hampshire) Regiment of Foot in 1812. 26 Michael, a 28-year-old victualer, was already married with a family when he enlisted. His wife Abigail was recorded as having two children: a one-year-old infant boy, and a four-year-old girl. However, the regimental documents recorded that the couple had two older sons serving as drummers in the regiment. Whatever situation the Cunningham family found themselves in prior to enlistment, the British army was considered a viable alternative by the family. Such evidence of families who accompanied men into the regular British army is suggestive of the economic difficulties that many Irish families found themselves in during the period. The case of the Cunningham family also provides an understanding as to why the British army was prepared to enlist married men and provide for their families. This single Irish family unit provided three soldiers - one adult male and two boys - in exchange for providing accommodation and food for one wife and two infant children. The history of Irish, English, and Scottish families present with regular army regiments during the Napoleonic Wars deserves more attention. While research into women in the First and Second World Wars is well advanced, the Napoleonic era has received less attention, despite the presence of data within the military records. 
+
+Conclusion 
+
+Irish contribution to the defeat of Napoleonic France has been viewed by military historians through a limited number of Irish born officers and regiments. However, as this research note has presented, Irish manpower, in terms of its numerical contribution, was critical to the operation of the British army and its defeat of Napoleonic France. Military service resulted in men from every parish, town and city in Ireland enlisting in the regular army. 27 Irish wives and children accompanied their 
+
+> 25
+
+TNA WO27/126 and WO27/127 Inspection Returns, 1814. 
+
+> 26
+
+TNA WO25/453, Regimental Description Book, 67th Foot, 1806-1817. 
+
+> 27
+
+Jim Deery, ‘Wellington’s Irish – a socio-economic study of Irish enlisted men in the British Army, 1808-1815’, Retrospect, Journal of the Irish History Students’ Association, 
+
+2021 Edition , (2022), pp, 1-26. THE IRISH SOLDIER IN THE BRITISH ARMY DURING THE NAPOLEONIC WARS 
+
+169 www.bjmh.org.uk 
+
+menfolk and were a presence across all regiments of the regular army. While discipline and promotion among Irish enlisted men has been considered in this research note, other important aspects of Irish military service such as religion, welfare and education have not been addressed. Military service in the regular British army impacted Ireland and Irish society in ways that have yet to be fully understood by military, social or cultural historians. The complete story of the Irish soldier in the British army during this turning point in Irish, British, and European history has yet to be told. Addressing this topic in a more comprehensive manner utilising empirical based analysis is the focus of this current research. It is intended that this will facilitate a new perspective of the relationship between the regular British army and Irish society during this period.

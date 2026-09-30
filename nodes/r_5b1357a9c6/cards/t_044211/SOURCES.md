@@ -1,0 +1,192 @@
+# Sources — nodes/r_5b1357a9c6/cards/t_044211 — [t_044211] 英国财政与信用：税、债、银行限制期、补贴与耐力年份
+
+Written by misaka when the products here were settled and rebuilt from scratch each time, so edit nothing in this file or under the sources folder. Each file there is a hard link to where it already lives in the project (a copy only where a hard link was not possible); the originals never move. Cite original project files, not this bundle's disposable sources paths.
+
+## Products
+
+- `B2_britain_fiscal.md` — [t_044211] B2_britain_fiscal.md (task_output)
+- `B2_consol_monthly_1809_1812.csv` — [t_044211] B2_consol_monthly_1809_1812.csv (task_output)
+- `B2_independent_audit.md` — [t_044211] B2_independent_audit.md (task_output)
+- `B2_model.py` — [t_044211] B2_model.py (task_output)
+- `B2_model_assumptions.json` — [t_044211] B2_model_assumptions.json (task_output)
+- `B2_model_paths.csv` — [t_044211] B2_model_paths.csv (task_output)
+- `B2_reproduction.log` — [t_044211] B2_reproduction.log (task_output)
+- `B2_series.csv` — [t_044211] B2_series.csv (task_output)
+- `B2_validation.txt` — [t_044211] B2_validation.txt (task_output)
+- `BW_table2.png` — [t_044211] BW_table2.png (task_output)
+- `BW_table2_right.png` — [t_044211] BW_table2_right.png (task_output)
+- `BW_table3.png` — [t_044211] BW_table3.png (task_output)
+- `BW_table3_1810.png` — [t_044211] BW_table3_1810.png (task_output)
+- `BW_table3_1810_1811.png` — [t_044211] BW_table3_1810_1811.png (task_output)
+- `BW_table3_right.png` — [t_044211] BW_table3_right.png (task_output)
+- `BoE_provenance.json` — [t_044211] BoE_provenance.json (task_output)
+- `BoE_selected_cached_values.xlsx` — [t_044211] BoE_selected_cached_values.xlsx (task_output)
+- `build_B2_series.py` — [t_044211] build_B2_series.py (task_output)
+- `evidence_bank.md` — [t_044211] evidence_bank.md (task_output)
+- `evidence_tax_subsidy.md` — [t_044211] evidence_tax_subsidy.md (task_output)
+- `extract_boe.py` — [t_044211] extract_boe.py (task_output)
+- `verify_B2.py` — [t_044211] verify_B2.py (task_output)
+
+## Cited sources (under `sources/`)
+
+- `sources/B2_BoE_balance_sheet.xlsx` ← `downloads/B2_BoE_balance_sheet.xlsx`
+  - "B2_BoE_balance_sheet.xlsx"
+  - sha256 86121aeb2c91bcf8f6b277f1c80b1d6ffb7b5947b353d9a8b467dd435dc50589
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+- `sources/B2_Bordo_White_WP3517.pdf` ← `downloads/B2_Bordo_White_WP3517.pdf`
+  - "B2_Bordo_White_WP3517.pdf"
+  - sha256 ed2c1913a953d70e4ac436da4aea5a895a7c80fc0aaa0d714d12b086920d2800
+  - cited as `doc:ed2c1913a953#p53` by [t_044211] "Bordo–White NBER WP3517(1990)表2印刷p51：1810、1811净收入约68.39m、66.53m，债务负担23.40m、23.86m；数据来源Gayer–Rostow–…" (fact)
+  - cited as `doc:ed2c1913a953#p22` by [t_044211] "该稿pp19–20强调铸币税规模较小而银行支持赋予短期融资和债务管理关键灵活性；其表3转引Mitchell&Deane(1962)p442，是本次对校所得层级，不等于已亲阅Mitchell原表。" (interpretation)
+  - cited as `doc:ed2c1913a953#p54` by [t_044211] "Bordo–White工作稿表3的1810纸币先前22.32精确抄值有邻年错位风险，已撤回为约22–23m；未入主CSV，其与BoE严格2月底20.120486m的时点差仍待Mitchell–Dea…" (fact)
+- `sources/pages/1170b6cb87a9.md` ← `downloads/pages/1170b6cb87a9.md`
+  - "THE BUDGET (Hansard, 12 May 1809)" — https://api.parliament.uk/historic-hansard/commons/1809/may/12/the-budget
+  - sha256 1170b6cb87a9970dd9536a078b3f02754ce99f3fdf31abe837af2d63b213961e
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/156d03703582.md` ← `downloads/pages/156d03703582.md`
+  - "SEPARATE CHARGES. (Hansard, 14 June 1815)" — https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges
+  - sha256 156d03703582cdcbbd9d85faef34060f6b7e654a7334cd7e9ee6d8b31b3983c2
+  - cited by [t_044211] "1815年Vansittart明确提出法国与大陆列强达安排时，将当前陆军经费转用于海军；对英“无盟友必破产”的静态假设应改为政策反馈。" (fact) — "that expense now incurred for our armies would cease, and the supplies at present demanded for them…"
+  - cited by [t_044211] "1815年财政大臣承认大陆和局成立后可将当前陆军支出转向海军，构成本卡无盟友时的可证政策选项，但不证明净节约已经确定。" (fact) — "that expense now incurred for our armies would cease, and the supplies at present demanded for them…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/1e04060345f8.md` ← `downloads/pages/1e04060345f8.md`
+  - "Cambridge University Press 978-1-107-64033-7 - Income Tax in the Napoleonic Wars Arthur Hope-Jones Excerpt More informa…" — https://assets.cambridge.org/97811076/40337/excerpt/9781107640337_excerpt.pdf
+  - sha256 1e04060345f8d4c1ef24aba2abf0aea31d7a3b288c33956b100f8ce16c619803
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/29931d6389d2.md` ← `downloads/pages/29931d6389d2.md`
+  - "ISSUE OF EXCHEQUER BILLS FOR PURPOSES OF LOCAL AND TEMPORARY RELIEF. (Hansard, 28 April 1817)" — https://api.parliament.uk/historic-hansard/commons/1817/apr/28/issue-of-exchequer-bills-for-purposes-of
+  - sha256 29931d6389d2a95e3fe300c7440a1b4a592e28a9ca22772420e5e2b370c93b3b
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1817/apr/28/issue-of-exchequer-bills-for-purposes-of` in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+- `sources/pages/2f4fc6ec5d53.md` ← `downloads/pages/2f4fc6ec5d53.md`
+  - https://researchonline.lse.ac.uk/id/eprint/126278/1/The_Economic_History_Review_-_2025_-_Sissoko_-_Preventing_financial_ruin_How_the_West_India_trade_fostered_creativity_in.pdf
+  - sha256 2f4fc6ec5d5337e6da224c7803cbb5c360753c344475b9103cbc8db45402b8f1
+  - cited as `https://researchonline.lse.ac.uk/id/eprint/126278/1/The_Economic_History_Review_-_2025_-_Sissoko_-_Preventing_financial_ruin_How_the_West_India_trade_fostered_creativity_in.pdf` in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+- `sources/pages/3ac3b1dd88bf.md` ← `downloads/pages/3ac3b1dd88bf.md`
+  - "“Money is a good soldier, sir, and will on” – The Bank of England in the Peninsular War, 1807 – 1814" — https://mcgill.scholaris.ca/bitstreams/6dcd38c6-a91e-4474-a50b-c89b1d8116c9/download
+  - sha256 3ac3b1dd88bfedcb3cc0e5bd709b4cdcc0a8bd74fd4869d84e9497cfc0cf1059
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/3b8b8e348c6d.md` ← `downloads/pages/3b8b8e348c6d.md`
+  - "COMMERCIAL CREDIT. (Hansard, 11 March 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/mar/11/commercial-credit
+  - sha256 3b8b8e348c6dd9af10bd461366e62efd0f6d96eb2e05fe10cce3f9582c40ba69
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1811/mar/11/commercial-credit` in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+- `sources/pages/523f4560156c.md` ← `downloads/pages/523f4560156c.md`
+  - "Key documents in the history of gold, 1:" — https://www.gold.org/sites/default/files/documents/1810jun8.pdf
+  - sha256 523f4560156c55e6d11df72f32d12965ebd790405c15f54e97f751a58cd40d26
+  - cited as `https://www.gold.org/sites/default/files/documents/1810jun8.pdf` in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+- `sources/pages/5a55e6aeac33.md` ← `downloads/pages/5a55e6aeac33.md`
+  - "QB 1967 Q2 pp159-163 - also see appendix" — https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/1967/boe-liabilities-and-assets-1696-onwards.pdf
+  - sha256 5a55e6aeac33077fd9fa624412805987453f97d0e94426d8fbe8e6db7381ca07
+  - cited as `https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/1967/boe-liabilities-and-assets-1696-onwards.pdf` in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+- `sources/pages/70cc6a857e5f.md` ← `downloads/pages/70cc6a857e5f.md`
+  - "Carnegie Endowment for International Peace" — https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/327/0142_Bk.pdf
+  - sha256 70cc6a857e5f3c1617deab203e0e6115719e6d3e6ec4380ed81969691d5a08a2
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/769e05da23c9.md` ← `downloads/pages/769e05da23c9.md`
+  - "The Napoleonic Wars: A Watershed in Spanish History?" — https://www.econstor.eu/bitstream/10419/247060/1/ehes-wp130.pdf
+  - sha256 769e05da23c91b2b3e3a9c8897eba48260ebfb1c3feda703734a68cfc72e8f0f
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/995bd30de2bb.md` ← `downloads/pages/995bd30de2bb.md`
+  - "NEW PLAN OF FINANCE. (Hansard, 29 January 1807)" — https://api.parliament.uk/historic-hansard/commons/1807/jan/29/new-plan-of-finance
+  - sha256 995bd30de2bba71ec8eb16dbc5474847110b97cac036fa4eba331d5808557680
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/a2034fc310ff.md` ← `downloads/pages/a2034fc310ff.md`
+  - "Danger to the Old Lady of Threadneedle Street? The Bank Restriction Act and the regime shift to paper money, 1797-1821" — https://ehes.org/wp/EHES_100.pdf
+  - sha256 a2034fc310ff21d98c7e034bd0e13459c54988f024cf99d33310336bb8bff9cc
+  - cited as `https://ehes.org/wp/EHES_100.pdf` in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+- `sources/pages/afa9eb650bc6.md` ← `downloads/pages/afa9eb650bc6.md`
+  - "Rear Guard Action: Guineas and Gunpowder. British foreign policy in the Napoleonic Wars" — http://jurrga.blogspot.com/2014/11/guineas-and-gunpowder-british-foreign.html
+  - sha256 afa9eb650bc6fdabcaf90916309c82c05e73beabc2c6191fd7eecc4acb237ddf
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/bff7e2ccf088.md` ← `downloads/pages/bff7e2ccf088.md`
+  - "THE BUDGET. (Hansard, 20 May 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/may/20/the-budget
+  - sha256 bff7e2ccf088b5a39a2e060390aadfecf2a4f4cc11d8d568c4f6a01f845ae21b
+  - cited by [t_044211] "1811年5月20日预算比较3%类借款：上年每£100利息£4 4s 2d，本年£4 14s 11d；加重约0.5375个百分点，融资仍成功。" (fact) — "Last year the interest was 4l. 4s. 2d. per cent.; this year it was 4l. 14s. 11d."
+  - cited by [t_044211] "1811预算的特定新增贷款现金票息由1810的4.208333%增至4.745833%，上升53.75bp；不是全部公债价格或存量票息重定价，且不含分期缴款的完整IRR。" (fact) — "Last year the interest was 4l. 4s. 2d. per cent.; this year it was 4l. 14s. 11d."
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/c2fda522376a.md` ← `downloads/pages/c2fda522376a.md`
+  - "REPORT OF THE BULLION COMMITTEE—ADJOURNED DEBATE. (Hansard, 7 May 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/may/07/report-of-the-bullion-committee
+  - sha256 c2fda522376a25102e5e18cddfb6fb604ea6750449448e3f1015ddc89f6a64fb
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1811/may/07/report-of-the-bullion-committee` in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+- `sources/pages/cf02c798c3f0.md` ← `downloads/pages/cf02c798c3f0.md`
+  - "Monetary and Fiscal Policy in England during the French Wars (1793-1821)" — https://people.bu.edu/chamley/Ec365-17/UKFR.pdf
+  - sha256 cf02c798c3f018a8d6e11b788ef049041775be2dcd26fd260297bc9612e50ffa
+  - cited as `https://people.bu.edu/chamley/Ec365-17/UKFR.pdf` in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+- `sources/pages/d34063b29aef.md` ← `downloads/pages/d34063b29aef.md`
+  - "WAYS AND MEANS. (Hansard, 28 March 1806)" — https://api.parliament.uk/historic-hansard/commons/1806/mar/28/ways-and-means-1
+  - sha256 d34063b29aefbc4fc226a6016d45f6858ccf97a7d95c1d4def55670cab47cf2e
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/d79be65764b5.md` ← `downloads/pages/d79be65764b5.md`
+  - "FINANCE RESOLUTIONS. (Hansard, 20 June 1809)" — https://api.parliament.uk/historic-hansard/commons/1809/jun/20/finance-resolutions
+  - sha256 d79be65764b55f77b4d8403d1a9b686a19784133ca8edc92774b2c9cfcde215b
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/dc631b5476f4.md` ← `downloads/pages/dc631b5476f4.md`
+  - "The failure of the first income tax: a tale of commercial tax evaders?" — https://eprints.whiterose.ac.uk/id/eprint/129898/19/The%20Failure%20of%20the%20First%20Income%20Tax-A%20Tale%20of%20Commercial%20Tax%20Evaders_.pdf
+  - sha256 dc631b5476f43b17198ecc23d5743bdf937330277bddbbf95d6b6970be292807
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/de17c8036944.md` ← `downloads/pages/de17c8036944.md`
+  - "REPORT OF THE BULLION COMMITTEE. (Hansard, 9 May 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/may/09/report-of-the-bullion-committee
+  - sha256 de17c80369449e2d3eb32a30af5e7f84ad70896e36269ec1ee4cd6f402632d29
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1811/may/09/report-of-the-bullion-committee` in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+- `sources/pages/ea9175ba3158.md` ← `downloads/pages/ea9175ba3158.md`
+  - "STUDIES IN THE HISTORY OF TAX LAW" — https://api.pageplace.de/preview/DT0400.9781847313461_A24074261/preview-9781847313461_A24074261.pdf
+  - sha256 ea9175ba3158fdee0167fc5644a821fdf65b27e850155012b407b9af4683c203
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/eff6555b7abe.md` ← `downloads/pages/eff6555b7abe.md`
+  - "ARMY ESTIMATES. (Hansard, 4 March 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/mar/04/army-estimates
+  - sha256 eff6555b7abe7fb2869e9b8a519ff0d355b5c55eac91c2c04398b3b6fd96da83
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/f4388af7a51c.md` ← `downloads/pages/f4388af7a51c.md`
+  - "Guineas and Gunpowder" — https://doi.org/10.4159/harvard.9780674433366
+  - sha256 f4388af7a51c258537871872ae9d7225936593e04f4e4f3923175f2aec981a43
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/fiscal/war_taxes_1804_1809.csv` ← `nodes/r_b55f2c1cf5/cards/t_104134/fiscal/war_taxes_1804_1809.csv`
+  - "[t_104134] nodes/r_b55f2c1cf5/cards/t_104134/fiscal/war_taxes_1804_1809.csv"
+  - sha256 c379aa12ffd446d7e654a3a9cd309ce907540c1c5983a69724601aa84c72fe5e
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+
+## Cited, already in this folder
+
+- `B2_britain_fiscal.md`
+  - cited by [t_044211] "S3适应封锁基准立即调整至G39时1848债息/收入51.6%；首年仍沿历史G57.2、1–2年度阶梯减支后，60%探针在1847/1844触及。该修正影响1840年代续战压力，不把阈值当违约。" (inference)
+  - cited by [t_044211] "严格封锁须叠加税收持续55–60m、非息支出48–50m、新贷6–7%、零税基增长，才在本卡模型产生1817–27的强调整压力窗；不是违约或必然媾和日期。" (inference)
+- `B2_model.py`
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/B2_britain_fiscal.md`
+- `B2_model_assumptions.json`
+  - cited by [t_044211] "在1810基线票息24.4m、持续收入55–60m、非息支出48–50m、新借成本6–7%且零名义税基增长的模型中，债息/收入60%探针在1817–1823触及，70%探针在1820–1827触及；…" (inference)
+  - cited by [t_044211] "含1–2年减支过渡的S2模型在1830给债务代理约690–902m、1848约645–1080m；截至1848均不越60%债息/收入探针，但债务不保证比史实更低。" (inference)
+- `BW_table2.png`
+  - cited by [t_044211] "Bordo–White NBER WP3517(1990)表2印刷p51：1810、1811净收入约68.39m、66.53m，债务负担23.40m、23.86m；数据来源Gayer–Rostow–…" (fact)
+- `BW_table3_1810.png`
+  - cited by [t_044211] "Bordo–White工作稿表3的1810纸币先前22.32精确抄值有邻年错位风险，已撤回为约22–23m；未入主CSV，其与BoE严格2月底20.120486m的时点差仍待Mitchell–Dea…" (fact)
+- `BoE_selected_cached_values.xlsx`
+  - cited by [t_044211] "BoE A31年平均consol收益率：1810为4.40854%，1811为4.67417%；1797、1798为5.90660%、5.93145%。1811融资恶化存在但低于1797–98已历危…" (fact) — "A31. Interest rates & asset ps !T117:T118; T130:T131"
+  - cited by [t_044211] "BoE A27英国1801后UK中央政府总收入1810 £73.0m、1811 £71.0m，利息24.4m、24.6m；年度系列并未出现收入断崖或债息挤满总收入。" (fact) — "A27. Central govt borrowing !H134:H135,N134:N135"
+- `build_B2_series.py`
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/B2_britain_fiscal.md`
+
+## Consulted but not cited (left where they are)
+
+- `downloads/B2_BoE_millennium_v31.xlsx`
+- `downloads/pages/004521d1e27f.md` — "The Financial Crisis of 1825 and the Restructuring of the British Financial System" — https://doi.org/10.20955/r.80.53-76
+- `downloads/pages/07fe5b14e4c3.md` — "The Apotheosis of the Rentier: How Napoleonic War Finance Kick-Started the Industrial Revolution | Cato Institute" — https://www.cato.org/cato-journal/fall-2018/apotheosis-rentier-how-napoleonic-war-finance-kick-started-industrial
+- `downloads/pages/29727e560586.md` — "STATE OF THE PUBLIC FINANCES. (Hansard, 9 July 1817)" — https://api.parliament.uk/historic-hansard/commons/1817/jul/09/state-of-the-public-finances
+- `downloads/pages/6e6f2ee5c7e3.md` — "Abstract of British historical statistics / by B.R. Mitchell. With the collaboration of Phyllis Deane. - : Mitchell, B.…" — https://archive.org/details/abstractofbritis0000mitc
+- `downloads/pages/7409d7aca2ed.md` — "300 years of UK public finance data" — https://obr.uk/docs/dlm_uploads/300-Years-of-public-finances-Accessible-PDF.pdf
+- `downloads/pages/7f93512d05f7.md` — "The Royal Navy 1793-1815 - PDF Free Download" — https://epdf.tips/the-royal-navy-1793-1815.html
+- `downloads/pages/95e29ff1c015.md` — "ECONOMY AND RETRENCHMENT. (Hansard, 27 June 1821)" — https://api.parliament.uk/historic-hansard/commons/1821/jun/27/economy-and-retrenchment
+- `downloads/pages/bb07a813031b.md` — "The Political Economy of British Taxation, 1660-1815" — http://slantchev.ucsd.edu/courses/ps143a/readings/O'Brien%20-%20Political%20Economy%20of%20British%20Taxation,%201660-1815.pdf
+- `downloads/pages/bd9fbfa5c4e0.md` — "Research datasets | Bank of England – the UK's central bank" — https://www.bankofengland.co.uk/statistics/research-datasets
+- `downloads/pages/e5b32951df65.md` — "Crouzet (François). L'économie britannique et le blocus continental (1806- 1813). - Persée" — https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2
+
+## Unresolved locators
+
+- (none)

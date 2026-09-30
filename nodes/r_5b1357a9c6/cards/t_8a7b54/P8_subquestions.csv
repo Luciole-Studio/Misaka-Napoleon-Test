@@ -1,0 +1,20 @@
+event_id,denominator,conditional_low,conditional_high,branch_contribution_1803_low,branch_contribution_1803_high,source_or_model,warning
+Q1_A_core_regular_1835,C1815,0.5500000,0.7500000,0.00207900,0.05454000,P2 + analyst timing,conditional feasibility not statistical rate
+Q1_A_mid_56_676m_1848,O1848,0.0012000,0.0252000,0.00000201,0.00111968,P2 optimistic corner + analyst 4-stage stress,Rare corner; not P2 estimate; sacrifices B-level allies
+Q2_order_lasts_1848,C1815,0.4440000,0.6110000,0.00167832,0.04443192,P6 impulse grid §§6.1–6.2,Same C and D; first two rates already included
+Q2_French_preferential_market_1848,C1815,0.3500000,0.4500000,0.00132300,0.03272400,X2 §16.3,"X2 A assumes Napoleon still setting policy; problematic by 1848, read as policy inherited not life prediction"
+Q2_limited_customs_union_1848,C1815,0.2500000,0.3500000,0.00094500,0.02545200,X2 §16.3,X2 bands are marginal and not normalized; S5 conditional only
+Q3_naval_E_proxy_ge_0_74_1830,C1815,0.1174500,0.4158000,0.00044396,0.03023698,P4 P/W envelope + P6 treaty impulse + P8 fiscal stress,"Threshold is E proxy, not battle win rate; P4 P minimum .747 / W max .644"
+Q4_Spain_Bourbon_constitutional,O1848+B4b,0.3000000,0.4500000,0.00050350,0.01999436,SP1 §18 / P6 §6.3,Marginal intervals; combinations must normalize with other monarchic
+Q4_Spain_Bourbon_ministerial,O1848+B4b,0.4000000,0.5500000,0.00067133,0.02443756,SP1 §18 / P6 §6.3,Marginal intervals; combinations must normalize with other monarchic
+Q4_Spain_Bonapartist,O1848+B4b,0.0500000,0.1500000,0.00008392,0.00666479,SP1 §18 / P6 §6.3,Marginal intervals; combinations must normalize with other monarchic
+Q4_Spain_republic,O1848+B4b,0.0000000,0.0200000,0.00000000,0.00088864,SP1 §18 / P6 §6.3,Marginal intervals; combinations must normalize with other monarchic
+Q5_Italy_Rome_King_north_middle_union,O1848+succession,0.3500000,0.4500000,0.00058741,0.01999436,IT1 / P6 §6.3,Not already Naples and Papal states
+Q5_Italy_Rome_King_plus_Naples,O1848+succession,0.0350000,0.1575000,0.00005874,0.00699803,IT1/IT2 + P8 analyst extension,Naples joining has no same-period French commitment
+Q6_Austria_stronger_than_Prussia,O1848,0.7000000,0.9000000,0.00117482,0.03998873,A/PR/G2 + analyst probability,Military-dynastic ranking; no 1834 Zollverein shortcut
+Q7_South_America_loose_federation,O1848,0.3500000,0.5000000,0.00058741,0.02221596,SA §316–325,SA table overreaches on Mexico
+Q7_Mexico_independent,O1848,0.9000000,1.0000000,0.00151049,0.04443192,"MX §0, §372",Can coexist with South America federation
+Q7_all_Hispanic_America_sovereign_Madrid,O1848,0.0000000,0.1000000,0.00000000,0.00444319,logical upper bound from Mexico >=0.90,SA conflict; upper ≤0.1 no calibrated positive lower
+Q7_Cuba_still_Spanish,O1848+B4b,0.5500000,0.7000000,0.00092308,0.03110234,MX §466–469,Bourbon legal-government branch; overall MX .40–.55
+Q8_French_trading_posts_unfortified,O1848,0.3500000,0.6500000,0.00058741,0.02888075,IN1 §⑬ B8 + analyst execution chance,Treaty-return clause vs Wellesley refusal; commercial enclave not India conquest
+Q8_Bengal_conquest_sustained,O1848,0.0000000,0.0100000,0.00000000,0.00044432,IN1/IN2/P6 redline + analyst stress cap,Incompatible with lasting UK accord unless treaty collapses

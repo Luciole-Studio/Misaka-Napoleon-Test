@@ -1,0 +1,141 @@
+L1 [34c] tokens=0 hit=0 miss=0 :: ## 第二十三章　意大利王国：欧仁、米兰精英、意大利军与"第二法国"
+L3 [19c] tokens=0 hit=0 miss=0 :: ### 一、王冠已在文书中腾出给亲生子
+L5 [420c] tokens=2 hit=1 miss=1 :: 【锚】1810年1月3日拿破仑致阿尔迪尼："Par le statut du royaume, je l'ai appelé au trône en cas que je n'ai
+   HIT : 549@03:428,04:261,04:469,06:447
+   MISS: Venise
+L7 [16c] tokens=0 hit=0 miss=0 :: ### 二、汲取实绩与两个崩溃点
+L9 [412c] tokens=11 hit=7 miss=4 :: 【锚】Grab（2003，第十章）："the government drafted 155,000 men between 1802 and 1814, and expanded 
+   HIT : 2003@01:285,02b:644,04:451,06:291 | 27000@02b:183,03:85,08:419 | 1000@01:79,01:81,01:125,01:144 | 25000@02b:468,03:218,03:278,06:15 | 670@02b:286,04:193,07:83,08:305 | Italian@04:459 | Prina@04:459
+   MISS: 155000 | 70000 | 89600 | under the influence of the revolt, Prina
+L11 [317c] tokens=3 hit=0 miss=3 :: 第二个崩溃点是1814年4月20日米兰的"雨伞日"：普里纳被私刑，"abilmente alimentato da quanti – in prevalenza ex nobili
+   MISS: Eugenio | Beauharnais | Stato
+L13 [267c] tokens=7 hit=6 miss=1 :: 【锚】经济附庸化（Heckscher pp.296–301）：1810年三重规定——羊毛禁入、过境禁令、生丝只准出口里昂；"la France avant tout"信（1810年
+   HIT : 296@02b:488,03:406,03:428,04:461 | 301@01:249,04:461,06:432,10:192 | la France avant tout@04:215,08:11 | Heckscher@02a:349,02a:362,03:428,04:461 | France@00:133,00:135,00:137,01:293 | French@01:303,02a:339,02a:354,02b:663
+   MISS: proselytes of the gate
+L15 [9c] tokens=0 hit=0 miss=0 :: ### 三、三分支
+L17 [18c] tokens=0 hit=0 miss=0 :: | 分支 | 在位期 | 继承后 |
+L18 [13c] tokens=0 hit=0 miss=0 :: |---|---|---|
+L19 [59c] tokens=4 hit=4 miss=0 :: | C 分治藩属（北意王国＋那不勒斯＋法国并合区） | **0.55–0.65（主线）** | 0.30–0.40 |
+   HIT : 0.55@02b:221 | 0.65@01:57,02b:219,10:410 | 0.30@02a:91,02b:422,10:416 | 0.40@02b:627,02b:629,08:483,10:286
+L20 [86c] tokens=6 hit=6 miss=0 :: | B 罗马王／次子统一王国（北＋中意先行，那不勒斯条件性并入） | 0.20–0.30 | **0.35–0.45（升为主线）**；含那不勒斯全统一0.10–0.18 |
+   HIT : 0.20@02a:287,03:398,10:326 | 0.30@02a:91,02b:422,10:416 | 0.35@03:410,05:363,10:484 | 0.45@02b:422 | 0.10@02a:88,02b:644,02b:663,03:422 | 0.18@02b:446,08:497
+L21 [39c] tokens=3 hit=3 miss=0 :: | A 行省化"第二法国" | 0.10–0.20 | 0.10–0.15 |
+   HIT : 0.10@02a:88,02b:644,02b:663,03:422 | 0.20@02a:287,03:398,10:326 | 0.15@10:416
+L23 [372c] tokens=8 hit=3 miss=5 :: C是全部同期文书指向的唯一稳态，断点是继承时刻藩属王冠的再分配；B的通道是1805年法令第3条分冠的自动执行＋皇子1829年成年（拿破仑活到该日≈0.50–0.65）；A是惩罚态非
+   HIT : 0.50@10:233 | 0.65@01:57,02b:219,10:410 | 15000@02b:665,03:153,03:312,05:279
+   MISS: Lombard | Venetian | Austria | Sondhaus | Hilleprandt
+L25 [187c] tokens=5 hit=3 miss=2 :: **红队修正**：这些概率以史实王国（含威尼托1806、马尔凯1808、特伦蒂诺1810）为对象；1805年分冠条款的触发条件是"外军撤出那不勒斯／马耳他／科孚"。第六十五章按两条
+   HIT : 155@02b:593,10:116,10:351 | 200@00:27,00:127,00:129,00:131 | 144@01:31,02a:186,02a:363,02b:286
+   MISS: 1941 | Casse
+L27 [3c] tokens=0 hit=0 miss=0 :: ---
+L29 [31c] tokens=0 hit=0 miss=0 :: ## 第二十四章　那不勒斯与西西里：缪拉、卡拉布里亚与英国的岛
+L31 [15c] tokens=0 hit=0 miss=0 :: ### 一、藩属的压力测试极限
+L33 [711c] tokens=22 hit=15 miss=7 :: 【锚】拜永条约（1808年3月30日）对缪拉的义务："obliged the king of Naples in time of war to contribute 18,000 
+   HIT : 18000@01:81,05:138,07:165 | 3000@01:83,01:160,02a:213,02b:39 | 252@02b:173,02b:448,02b:663,04:123 | 16000@02b:665,03:318,03:320,06:275 | 2500@02a:213,02b:468,03:121,03:131 | 29000@02b:39 | 35000@03:85,03:141,05:223,06:211 | 5000@01:209,02a:159,02b:35,02b:37 | 17000@02b:69 | Naples@04:471,05:549,10:484 | France@00:133,00:135,00:137,01:293 | Davis@02a:348,04:471,04:473,04:475 | French@01:303,02a:339,02a:354,02b:663 | October@02b:640,02b:663 | Johnston@04:473
+   MISS: 57000000 | 61000000 | 73000000 | 46000 | （Davis；同书p.252另作16,000／2,500／20，两处并列）；代养 | Neapolitan | Castellano
+L35 [416c] tokens=10 hit=7 miss=3 :: 【锚】下卡拉布里亚一省："between November 1806 and March 1811... 5,421 bandits had surrendered or been
+   HIT : 5421@04:319,04:477 | 900@01:79,01:164,01:181,01:183 | 3.0@01:129,01:133,01:297,02a:87 | 4.5@02a:96,02b:585,03:172,05:513 | 0.45@02b:422 | November@02b:644 | March@00:125,02a:335
+   MISS: Lower | Calabria | Manhès
+L37 [10c] tokens=0 hit=0 miss=0 :: ### 二、英国的岛
+L39 [717c] tokens=20 hit=11 miss=9 :: 【锚】英国对西西里补贴：1805年密约£170,000一次性＋年£150,000（参战升£300,000）；"to pay a subsidy of £300,000 annual
+   HIT : 150000@03:153,10:269 | 300000@10:269,10:273 | 400000@10:267 | 7300@02a:101,04:295,04:337,08:185 | 15000@02b:665,03:153,03:312,05:279 | Gregory@02b:618,02b:619,04:479 | Bentinck@04:479 | Sicily@04:479 | Great@02a:347,02b:617,02b:649,02b:650 | Britain@02a:347,02a:356,02b:617,02b:663 | Rosselli@04:479
+   MISS: 170000 | to pay a subsidy of £300,000 annually, b | Sogno filosofico | measures which would have in fact render | September | Moore | Drummond | Howick | Sogno
+L41 [16c] tokens=0 hit=0 miss=0 :: ### 三、1820–21三定理
+L43 [255c] tokens=3 hit=1 miss=2 :: 烧炭党：1810年那不勒斯首个会所，1813年卡拉布里亚首个会所几可肯定由省督Briot创建；1815年估≥30,000（纯属猜测），1816年保王将军Nunziante称仅卡拉布
+   HIT : 30000@02b:39,03:141,08:419,10:269
+   MISS: Briot | Nunziante
+L45 [172c] tokens=5 hit=3 miss=2 :: **主线**：南意在法国霸权工程中唯一可持续的位置是B层法典化藩属＋海军义务承包＋封锁豁免区；其史实失败是需索强度的失败而非制度设计的失败；对帝国净贡献≈0，价值在位置与否决权。未
+   HIT : 1994@02b:604,04:301,04:447 | Davis@02a:348,04:471,04:473,04:475 | Johnston@04:473
+   MISS: Finley | Brethon
+L47 [3c] tokens=0 hit=0 miss=0 :: ---
+L49 [27c] tokens=0 hit=0 miss=0 :: ## 第二十五章　教廷与欧洲诸教会：正统性的跨国否决者
+L51 [12c] tokens=0 hit=0 miss=0 :: ### 一、否决权的三层
+L53 [352c] tokens=3 hit=2 miss=1 :: 【锚】1813年枫丹白露专约签署数周后，教皇撤回："nous regardons comme nuls les deux écrits, tant celui qui a été 
+   HIT : 1111@04:383 | Pacca@04:485,04:487
+   MISS: Savone
+L55 [207c] tokens=3 hit=2 miss=1 :: 【锚】拿破仑亲述的备选方案：1801年谈判破裂时当面威胁以亨利八世方式改宗——"Si Henri VIII, qui n'avait pas la vingtième partie
+   HIT : Henri@02b:630,06:265 | Consalvi@04:485
+   MISS: Religion
+L57 [163c] tokens=1 hit=0 miss=1 :: 【锚】1808年春教廷已正式书面提出："s'est déjà déclarée prête à fermer, dans la guerre actuelle, ses ports
+   MISS: Anglais
+L59 [20c] tokens=0 hit=0 miss=0 :: ### 二、比利时的双实证与西班牙的反转
+L61 [538c] tokens=7 hit=4 miss=3 :: 比利时是专约和解可行性与脆弱性的双实证：1801–09年八年有效（多数教士宣誓、征兵合规改善）；1809年绝罚＋囚教皇后逆转——"a growing segment of the 
+   HIT : Esdaile@04:447,04:455,07:280 | Consolidación@04:441 | Godoy@04:435,04:437 | Church@04:443
+   MISS: most of the guerrilla bands that were fo | Godoy also alienated the Church by selli | Catalonia
+L63 [14c] tokens=0 hit=0 miss=0 :: ### 三、S5／S6三形态
+L65 [629c] tokens=19 hit=11 miss=8 :: 7.1"第二个1801"和解均衡（中高）——构件全部历史存在过：教廷1808年已书面愿意事实关港；1813年撤回函的公开可让渡域；枫丹白露第5–9条含给教皇实权补偿条款。7.2武装
+   HIT : 7.1@01:45,02a:189,02b:312,02b:583 | 7.2@01:205,02a:213,03:35,03:41 | 7.3@02a:90,02a:92,02a:186,02a:203 | 2002@00:127,00:129,02b:663,04:435 | 2021@05:363 | 403@05:44,06:354,06:358,06:427 | 2019@02b:657,05:98,05:162,05:186 | 14.8@04:83 | Mirari@04:393 | Pacca@04:485,04:487 | Consalvi@04:485
+   MISS: VII's | Chadwick | Hales | Latreille | Schwarzfuchs | Broers | Caiani | Haussonville
+L67 [3c] tokens=0 hit=0 miss=0 :: ---
+L69 [41c] tokens=0 hit=0 miss=0 :: ## 第二十六章　西班牙（一）宫廷与国家：1807–08桌面上的全部选项与政体终局
+L71 [15c] tokens=0 hit=0 miss=0 :: ### 一、三重超载的旧制机器
+L73 [572c] tokens=21 hit=16 miss=5 :: 【锚】财政硬数（Herr，Rural Change and Royal Finances）："Vales in existence in May 1808 … 1,893,422,
+   HIT : 1893422682@04:67 | 1608@04:439 | 505@02b:296,02b:601,04:43,04:45 | 605@04:39,05:361,08:31,08:302 | 800@00:135,01:79,01:81,01:83 | 193@01:279,02a:188,02b:237,02b:581 | 1300@03:141,05:66,08:419,10:269 | 1650@05:127,10:506 | 15.4@05:94 | 1000@01:79,01:81,01:125,01:144 | Rural@04:439 | Change@04:439 | Royal@02a:45,02b:618,02b:619,02b:621 | Finances@04:439 | Consolidación@04:441 | Marichal@04:441,05:70,05:208,05:216
+   MISS: 18.93 | Vales in existence in May 1808 … 1,893,4 | Vales | Ouvrard | Americas
+L75 [22c] tokens=0 hit=0 miss=0 :: ### 二、1807–08桌面上的十六项选项
+L77 [314c] tokens=10 hit=4 miss=6 :: 【锚】枫丹白露条约（1807年10月27日＋29日军事附约）：葡萄牙三分——"el sur, el «Principado de los Algarves», comprensiv
+   HIT : 25000@02b:468,03:218,03:278,06:15 | 3000@01:83,01:160,02a:213,02b:39 | Godoy@04:435,04:437 | Parra@04:435
+   MISS: el sur, el «Principado de los Algarves | príncipe de los Algarves | （La Parra，戈多伊传）；北部予埃特鲁里亚太后，中部留置可与英换直布罗陀／ | Principado | Algarves | Alentejo
+L79 [393c] tokens=3 hit=1 miss=2 :: 【锚】联姻回应链（La Parra，费尔南多七世传）：费尔南多1807年10月11日亲笔求婚信→拿破仑11月4日收信无评论→11月13日致卡洛斯四世否认收信（ignoro si e
+   HIT : Parra@04:435
+   MISS: Consiento | Declaración
+L81 [430c] tokens=1 hit=0 miss=1 :: 【锚】cuestiones proponibles（十八条，杜罗克／塔列朗口授伊斯基耶多，1808年3月5日达马德里）：占领边境诸省至总和平后一年→以葡萄牙全境换比利牛斯–埃布罗间
+   MISS: Constitución
+L83 [15c] tokens=0 hit=0 miss=0 :: ### 三、军事价值是二值函数
+L85 [106c] tokens=1 hit=1 miss=0 :: 【推·中高】同盟态＝25,000远征军＋港口＋船厂＋补贴净流入；占领态＝−29至36万驻军（Oman两切片，第二章）；二值之间无中间态——1808–13年约瑟夫的半合法态收获两头最
+   HIT : 25000@02b:468,03:218,03:278,06:15
+L87 [19c] tokens=0 hit=0 miss=0 :: ### 四、终局概率带（1848视点）
+L89 [33c] tokens=0 hit=0 miss=0 :: | 终局 | S2／S5（法胜＋B4b） | 法在半岛军事全胜 |
+L90 [13c] tokens=0 hit=0 miss=0 :: |---|---|---|
+L91 [48c] tokens=2 hit=2 miss=0 :: | 波旁绝对主义-大臣改革制（1815–30型延长） | **0.40–0.55** | — |
+   HIT : 0.40@02b:627,02b:629,08:483,10:286 | 0.55@02b:221
+L92 [56c] tokens=3 hit=2 miss=1 :: | 波旁立宪（钦定宪章／复召Cortes） | 0.30–0.45 | 波旁复辟（含立宪）0.30–0.45 |
+   HIT : 0.30@02a:91,02b:422,10:416 | 0.45@02b:422
+   MISS: Cortes
+L93 [43c] tokens=4 hit=4 miss=0 :: | 波拿巴替换／波拿巴立宪 | 0.05–0.15 | **0.35–0.55** |
+   HIT : 0.05@02b:587,03:42,08:49,10:229 | 0.15@10:416 | 0.35@03:410,05:363,10:484 | 0.55@02b:221
+L94 [27c] tokens=3 hit=1 miss=2 :: | 共和国 | ≤0.02 | 0.03–0.08 |
+   HIT : 0.02@10:225,10:400
+   MISS: 0.03 | 0.08
+L95 [25c] tokens=2 hit=2 miss=0 :: | 割据长期化 | — | 0.10–0.20 |
+   HIT : 0.10@02a:88,02b:644,02b:663,03:422 | 0.20@02a:287,03:398,10:326
+L97 [233c] tokens=3 hit=0 miss=3 :: 共和硬上界≤0.08：需三条件合取（双王朝失信＋无王朝焦点的战争延长＋美洲共和样板回传），史实1868–73才凑齐；1848年前任何情景至多凑两项——这是迟发共和，不是不可能的共和
+   MISS: 0.08 | PARES | Fugier
+L99 [3c] tokens=0 hit=0 miss=0 :: ---
+L101 [35c] tokens=0 hit=0 miss=0 :: ## 第二十七章　西班牙（二）社会与抵抗：游击、洪塔、加的斯与政治文化
+L103 [12c] tokens=0 hit=0 miss=0 :: ### 一、总起义有开关
+L105 [572c] tokens=7 hit=6 miss=1 :: 【锚】"The Spanish uprising drew its character from the decapitation of political authority b
+   HIT : 56000@10:270 | 35000@03:85,03:141,05:223,06:211 | 1.3@02a:94,02a:215,02b:464,02b:581 | Spanish@02a:362,04:445 | French@01:303,02a:339,02a:354,02b:663 | Lawrence@04:447,04:449
+   MISS: Napoleon's
+L107 [223c] tokens=0 hit=0 miss=0 :: **反应函数总律**：西班牙社会对法国政策的敏感轴只有三根——王朝符号、税与征发、教会；三轴齐触（B4a）则总起义，触一轴（B4c、S3）则区域／阶层化抵抗，不触（B4b及B2／B
+L109 [22c] tokens=0 hit=0 miss=0 :: ### 二、纳瓦拉：在最贵的地方买最少的服从
+L111 [539c] tokens=11 hit=9 miss=2 :: 【锚】Tone（The Fatal Knot，转Joseba de la Torre）："the French regime collected over 152 million 
+   HIT : 152@01:41,03:320,04:475,05:43 | 8000@00:135,01:79,01:81,01:183 | 13000@03:141,05:66,08:419,10:269 | 4.5@02a:96,02b:585,03:172,05:513 | 1.5@01:53,01:97,02a:293,02a:296 | 2.5@01:57,01:97,01:117,01:134 | Fatal@04:447 | Torre@05:263,05:307,05:427 | French@01:303,02a:339,02a:354,02b:663
+   MISS: Joseba | Navarre's
+L113 [510c] tokens=29 hit=24 miss=5 :: 【锚】初始洪塔的社会构成（Fraser）："SPAIN: 29 juntas, 585 members... Municipal authorities 140 (23.9)...
+   HIT : 585@03:55,04:91,05:408,06:359 | 140@01:160,02b:37,02b:632,02b:644 | 23.9@04:91,10:135 | 138@01:45,04:91,08:483,10:385 | 23.6@04:91 | 107@02a:356,02b:23,02b:592,04:91 | 18.3@04:91 | 14.7@03:55,10:232 | 3.2@01:45,02a:88,02a:175,02a:189 | 2.2@01:69,01:139,02a:93,02a:211 | 350000@03:85,05:223 | 4.0@02a:211,02b:592,10:232 | 5.8@04:289,04:291,05:385,07:198 | 215000@02b:665 | 2.4@02a:87,02a:101,02a:186,02b:448 | 4.2@02a:86,02a:107,02a:175,02b:582 | 6.5@01:130,01:136,01:162,02a:95 | 4.3@02b:592,04:107,04:289,05:225 | 12.9@04:107 | 14.1@01:121,04:107,10:106 | 8.6@02b:584,04:107,07:181,10:223 | Fraser@04:445 | Military@02b:644,02b:645 | Esdaile@04:447,04:455,07:280
+   MISS: 510000 | 375000 | SPAIN | Municipal | Clergy
+L115 [150c] tokens=1 hit=1 miss=0 :: 游击史学的两极（Tone结构说vs Esdaile人造说）在反事实关键点上收敛：游击不是西班牙人的固有属性，而是占领＋国家解体＋榨取的函数；Esdaile：除纳瓦拉、巴斯克外多数p
+   HIT : Esdaile@04:447,04:455,07:280
+L117 [12c] tokens=0 hit=0 miss=0 :: ### 三、无占领的宪政
+L119 [594c] tokens=10 hit=7 miss=3 :: 加的斯式激进单院宪法以王位空缺为成立条件；但财政破产（岁入350M vs 支出850M＋、债11,000M reales）、臃肿军官团、美洲战争厌战三项结构压力在无占领世界仍存其二
+   HIT : 350@01:179,02a:213,02b:649,03:85 | 850@01:160,01:193,01:203,02b:649 | 11000@01:79 | 18000@01:81,05:138,07:165 | Spain@02a:350,04:439,04:441,04:443 | Carlos@02a:362,04:441,05:70,05:335 | Lawrence@04:447,04:449
+   MISS: Cortes | Extremadura | Andalucía
+L121 [3c] tokens=0 hit=0 miss=0 :: ---
+L123 [32c] tokens=0 hit=0 miss=0 :: ## 第二十八章　葡萄牙与巴西宫廷：英国的港口、布拉干萨的大西洋
+L125 [15c] tokens=0 hit=0 miss=0 :: ### 一、占得住壳，拿不到瓤
+L127 [740c] tokens=12 hit=7 miss=5 :: 【锚】1807年10月22日英葡秘密公约："England pledged an escort in case the royal family fled to Brazil, a
+   HIT : 8000@00:135,01:79,01:81,01:183 | 15000@02b:665,03:153,03:312,05:279 | England@02a:338,02a:339,02a:341,02a:359 | Brazil@04:451,04:453,05:501 | Portugal@04:453,05:501 | Manchester@04:451,05:501,05:509,05:515 | Canning@02a:336,02a:350,02b:658
+   MISS: Bragança | Strangford | Smith | Copenhagen | Lisbon
+L129 [746c] tokens=23 hit=14 miss=9 :: 【锚】1810年商约："the obligations and conditions expressed or implied in it shall be perpetual a
+   HIT : 2000@00:27,01:97,01:144,02a:221 | 22.4@04:179,05:503,07:182 | 11.6@04:179,05:503,10:231 | Royal@02a:45,02b:618,02b:619,02b:621 | Highness@02a:45 | Prince@03:396 | Portugal@04:453,05:501 | Portuguese@04:453,05:491,10:492 | Monarchy@04:453,05:491,10:492 | European@02b:649,04:471,05:549,06:335 | Pedreira@04:453,05:501 | Brazil@04:451,04:453,05:501 | Europe@01:283,02b:624,02b:649,03:400 | Maxwell@04:453,05:491,05:505,05:515
+   MISS: ——英货15%低于葡船1808年的16%，宗主国待遇不如外邦，直到1810年10 | ；1825–30再出口跌至战前17%。Maxwell： | Regent | Heirs | Successors | Dominions | Crown | Reexports | Brazilian
+L131 [258c] tokens=10 hit=5 miss=5 :: 【锚】卡洛塔的拉普拉塔主张：英国内阁是否决人（坎宁两道训令）、西德尼·史密斯是越权推手、若昂借壳谋取拉普拉塔；布宜诺斯艾利斯存在真实的Carlotismo秘密会社——"A secr
+   HIT : Manuel@04:435 | Martin@02b:638,02b:673,08:469,10:471 | Mariano@05:263,05:393 | Moreno@05:393 | Spain@02a:350,04:439,04:441,04:443
+   MISS: Carlotismo | Belgrano | Pueyrredon | Carlota | Joaquina
+L133 [21c] tokens=0 hit=0 miss=0 :: ### 二、里斯本军港的价值是制海权的函数
+L135 [536c] tokens=14 hit=8 miss=6 :: 【锚】1808–09年塞尼亚文的俄国分舰队：法国占领里斯本九个月仍无法使用港内友军舰队；朱诺1808年7月3日函请合作被拒；最终俄英公约把舰队交英国存押——"The ships o
+   HIT : 56000@10:270 | 42000@03:97,03:208,04:453 | 33000@03:242,05:130 | Russia@01:279,03:398,03:404,03:442 | Charles@01:289,03:410,04:447,04:455 | Cotton@02b:656 | England@02a:338,02a:339,02a:341,02a:359 | Portuguese@04:453,05:491,10:492
+   MISS: 。制海权不在手时，里斯本军港的价值≈零。Beresford葡军： | Emperor | Tagus | Admiral | Beresford | September
+L137 [425c] tokens=2 hit=2 miss=0 :: **主线**：葡萄牙是拿破仑体系里"占得住壳拿不到瓤"的极端案例——帝国的瓤（王朝、舰队、八千万克鲁扎多、巴西、贸易网）1807年11月29日一日出海；法国最优是维持1803–06
+   HIT : Sherwig@02a:362 | Manchester@04:451,05:501,05:509,05:515

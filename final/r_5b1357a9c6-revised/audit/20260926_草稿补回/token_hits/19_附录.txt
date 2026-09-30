@@ -1,0 +1,685 @@
+L1 [4c] tokens=0 hit=0 miss=0 :: # 附录
+L3 [11c] tokens=0 hit=0 miss=0 :: ## 附录一　材料总目
+L5 [194c] tokens=1 hit=1 miss=0 :: 本目只列正文实际援引的著作与文书，按访问状态分四类：**亲读**（本轮在下载件或页图上读到所引段落）；**页图核**（据扫描页图核对表格或原文）；**转引**（经另一著作或书评取得
+   HIT : 696@01:237,02a:341,07:149
+L7 [11c] tokens=0 hit=0 miss=0 :: ### 一手文书与刊本
+L9 [27c] tokens=0 hit=0 miss=0 :: | 文书 | 出处／版本 | 状态 | 主要使用章 |
+L10 [17c] tokens=0 hit=0 miss=0 :: |---|---|---|---|
+L11 [177c] tokens=5 hit=0 miss=5 :: | 1814年5月30日巴黎和约第XV条（"Antwerp shall for the future be solely a commercial port"／"Dorénavan
+   MISS: Antwerp shall for the future be solely a | Dorénavant le port d'Anvers sera uniquem | Antwerp | Dorénavant | Anvers
+L12 [47c] tokens=0 hit=0 miss=0 :: | 1802年亚眠条约第VI、X、XIII–XIV条 | 英文刊本 | 亲读 | 六、十一 |
+L13 [87c] tokens=0 hit=0 miss=0 :: | 1805年3月17日意大利王国第一宪制法令art.1、3、4；1810年2月17日元老院法令art.7、10 | 法文刊本页；意文重排本 | 亲读 | 二十三、六十五 |
+L14 [38c] tokens=0 hit=0 miss=0 :: | 1805年意大利王国财政总法第13条 | 刊本 | 亲读 | 三十八 |
+L15 [47c] tokens=0 hit=0 miss=0 :: | 1803年9月27日法瑞军事协约；1803年调停法 | 法文刊本 | 亲读 | 二十一 |
+L16 [53c] tokens=0 hit=0 miss=0 :: | 1806年7月12日莱茵邦联条约；1808年5月巴伐利亚宪法§1 | 德文刊本 | 亲读 | 十九 |
+L17 [49c] tokens=1 hit=1 miss=0 :: | 1807年10月27日枫丹白露条约（La Parra转录） | 转引 | 转引 | 二十六 |
+   HIT : Parra@04:435
+L18 [64c] tokens=1 hit=1 miss=0 :: | 1808年3月5日cuestiones proponibles（十八条） | La Parra转录 | 转引 | 二十六 |
+   HIT : Parra@04:435
+L19 [79c] tokens=3 hit=1 miss=2 :: | 1808年1月10日拿破仑致卡洛斯四世（"Consiento de buen grado…"） | La Parra转录 | 转引 | 二十六、五十一 |
+   HIT : Parra@04:435
+   MISS: Consiento de buen grado… | Consiento
+L20 [43c] tokens=1 hit=1 miss=0 :: | 1808年3月30日拜永条约（缪拉） | Davis转述 | 转引 | 二十四 |
+   HIT : Davis@02a:348,04:471,04:473,04:475
+L21 [69c] tokens=0 hit=0 miss=0 :: | 1808年9月8日法普巴黎公约正约第VII、VIII、XIII条与分立条款 | 法文／德文刊本 | 亲读（两版冲突并列） | 十八 |
+L22 [47c] tokens=0 hit=0 miss=0 :: | 1809年10月14日申布伦条约秘密条款II、第V条 | 法文刊本 | 亲读 | 十七 |
+L23 [40c] tokens=0 hit=0 miss=0 :: | 1809年9月4日奥方照会（波希米亚三圈） | 刊本 | 亲读 | 十七 |
+L24 [43c] tokens=0 hit=0 miss=0 :: | 1812年2月24日法普秘密军事协定第II条 | 德文刊本 | 亲读 | 十八 |
+L25 [34c] tokens=0 hit=0 miss=0 :: | 1812年3月法奥同盟第六条 | 刊本 | 亲读 | 二十九 |
+L26 [47c] tokens=0 hit=0 miss=0 :: | 1807年5月芬肯施泰因条约第3–4、12–14条 | 法文刊本 | 亲读 | 三十一 |
+L27 [52c] tokens=1 hit=1 miss=0 :: | 1808年10月12日埃尔福特公约第8、12、16条 | Vandal转录 | 转引 | 二十九 |
+   HIT : Vandal@03:396,03:402,06:35
+L28 [64c] tokens=1 hit=0 miss=1 :: | 1809年阿姆利则、喀布尔、信德三条约；1809年波斯预备约第3条 | Aitchison卷VII | 亲读 | 三十一 |
+   MISS: Aitchison
+L29 [46c] tokens=0 hit=0 miss=0 :: | 1813年10月8日里德条约公开第4条与秘密第5条 | 德文刊本 | 亲读 | 十九 |
+L30 [42c] tokens=0 hit=0 miss=0 :: | 1814年1月14日基尔条约第4、6条 | 丹麦文刊本 | 亲读 | 二十二 |
+L31 [60c] tokens=1 hit=1 miss=0 :: | 1807年10月22日英葡秘密公约；1810年英葡商约 | Manchester转录FO档 | 转引 | 二十八 |
+   HIT : Manchester@04:451,05:501,05:509,05:515
+L32 [73c] tokens=0 hit=0 miss=0 :: | 1811年9月14日普鲁士调整敕令§9、12、37、41、53；1816年5月29日声明第4–5条 | GHDI英译 | 亲读 | 五十九 |
+L33 [81c] tokens=1 hit=1 miss=0 :: | 1804年8月15日莱茵河航行octroi公约第2、5条；1808年10月27日Magistrat du Rhin敕令 | 法文刊本 | 亲读 | 五十九 |
+   HIT : Magistrat@08:483
+L34 [71c] tokens=4 hit=3 miss=1 :: | 1811年12月16日第7644号道路分级法令 | Bulletin des lois 418 | 转引（Arnaud章） | 五十九 |
+   HIT : 418@01:45,05:353,07:60,10:66 | Bulletin@01:305,01:307,02a:341 | Arnaud@08:483
+   MISS: 7644
+L35 [69c] tokens=3 hit=2 miss=1 :: | 1839年比荷条约第9条；1863年斯海尔德赎买条约 | London Gazette 1863-08-04 | 亲读 | 五十九 |
+   HIT : London@00:125,02b:637,02b:640,04:451 | Gazette@02a:335,02b:640,04:451,09:364
+   MISS: 1863年8月4日
+L36 [55c] tokens=1 hit=1 miss=0 :: | 1865年12月23日四国货币公约；FRUS 1867 doc.291 | 刊本 | 亲读 | 五十九 |
+   HIT : 291@01:119,01:195,02b:583,05:194
+L37 [70c] tokens=3 hit=3 miss=0 :: | 1813年2月5日摄政法 | 刊本（Bulletin des lois第474／490号原刊未亲验） | 亲读（转录） | 五、六十 |
+   HIT : 474@01:305,02a:186,06:433,07:105 | 490@03:320 | Bulletin@01:305,01:307,02a:341
+L38 [35c] tokens=0 hit=0 miss=0 :: | 1814年4月6日元老院宪法第6条 | 刊本 | 亲读 | 五 |
+L39 [47c] tokens=1 hit=0 miss=1 :: | 1812年马莱伪元老院令 | SHD dossier Malet转录 | 转引 | 五 |
+   MISS: Malet
+L40 [36c] tokens=0 hit=0 miss=0 :: | 1803年爱尔兰临时政府宣言第2条 | 刊本 | 亲读 | 十二 |
+L41 [45c] tokens=0 hit=0 miss=0 :: | 1805年海地帝制宪法总则第12条、第50–52条 | 刊本 | 亲读 | 三十五 |
+L42 [67c] tokens=2 hit=2 miss=0 :: | 1813年莫雷洛斯《Sentimientos de la Nación》第1、9、16、20条 | 刊本 | 亲读 | 三十六 |
+   HIT : Sentimientos@05:275 | Nación@05:275,05:549
+L43 [53c] tokens=2 hit=2 miss=0 :: | 1812年6月23日枢密令（对美撤销） | Historical Hansard | 亲读 | 六 |
+   HIT : Historical@02b:620,02b:643,02b:644,03:416 | Hansard@00:135,02a:365
+L44 [37c] tokens=0 hit=0 miss=0 :: | 1833年废奴法第LXIV–LXV条 | 刊本 | 亲读 | 十一 |
+L45 [51c] tokens=0 hit=0 miss=0 :: | 1823年12月门罗咨文；1823年坎宁–波利尼亚克备忘录 | 刊本 | 亲读 | 六、三十四 |
+L46 [212c] tokens=6 hit=2 miss=4 :: | 拿破仑《通信集》：1810年1月3日致阿尔迪尼；1810年7月9日致勒布伦；1810年7月25日致莫利安；1810年9月17日致德克雷；1810年11月3日瓦莱信；1811年1
+   HIT : 549@03:428,04:261,04:469,06:447 | Gutenberg@09:372
+   MISS: 17579 | 8279 | 13877 | 14078
+L47 [71c] tokens=1 hit=1 miss=0 :: | 1811年2月27日海军部报告；1810年7月13日与1811年3月5日、10月2日海军命令 | Todorov转录 | 转引 | 三 |
+   HIT : Todorov@02b:624,02b:627
+L48 [64c] tokens=0 hit=0 miss=0 :: | 1806年fédératif训令；1808年致路易法币统一信；尚帕尼1810年12月8日报告 | 刊本 | 亲读 | 一 |
+L49 [88c] tokens=0 hit=0 miss=0 :: | 1810年12月25日、1811年1月31日、1812年4月1日亚历山大致恰尔托雷斯基三信；1813年1月13日信 | 恰尔托雷斯基回忆录附录 | 亲读 | 十三、十六 |
+L50 [82c] tokens=1 hit=1 miss=0 :: | 1811年10月涅谢尔罗迭报告；1811年6月5日科兰古召对 | Vandal卷三转录；科兰古回忆录 | 亲读（Vandal）／回溯性 | 十三、十五、十八 |
+   HIT : Vandal@03:396,03:402,06:35
+L51 [35c] tokens=0 hit=0 miss=0 :: | 斯佩兰斯基1811年财政报告 | 俄文刊本 | 亲读 | 十四 |
+L52 [53c] tokens=2 hit=2 miss=0 :: | 1808年1月华沙公国预算草案（AE CP 324, 343） | 波兰文转引 | 转引 | 十六 |
+   HIT : 324@01:65,01:301,02a:215,03:410 | 343@02b:300,03:298,03:410,05:38
+L53 [74c] tokens=5 hit=5 miss=0 :: | 1810年9月16日科隆商会致Ladoucette书（AN F12 549–550） | Schmidt 1905附录E | 转引 | 二十 |
+   HIT : 549@03:428,04:261,04:469,06:447 | 550@01:144,02a:159,03:141,03:428 | 1905@03:428 | Ladoucette@03:428 | Schmidt@03:428
+L54 [46c] tokens=2 hit=1 miss=1 :: | 1810年10月2日Bacher报告 | Heckscher转述 | 转引 | 二十 |
+   HIT : Heckscher@02a:349,02a:362,03:428,04:461
+   MISS: Bacher
+L55 [52c] tokens=1 hit=1 miss=0 :: | 1812年11月10日斯特拉斯堡商会统计表第10号 | Ellis附录D | 页图核 | 五十九 |
+   HIT : Ellis@08:17,08:465,10:144,10:186
+L56 [127c] tokens=2 hit=2 miss=0 :: | 1811年5月20日预算辩论；1813年11月海军辩论；1815年6月14日万西塔特发言；1823年、1830年、1854年下院发言；1842年、1848年宪章请愿点验 | H
+   HIT : Historical@02b:620,02b:643,02b:644,03:416 | Hansard@00:135,02a:365
+L57 [66c] tokens=1 hit=0 miss=1 :: | 东印度公司1812年董事会函、1813年请愿书、Cartwright 1812年3月4日总账 | 刊本 | 亲读 | 三十二 |
+   MISS: Cartwright
+L58 [97c] tokens=2 hit=2 miss=0 :: | 卡斯尔雷1807年5月1日内阁备忘录；波帕姆1803年备忘录；科克伦–米兰达1806年条款 | Castlereagh Correspondence vol.VII | 亲读 
+   HIT : Castlereagh@02a:335,05:311,05:447,09:364 | Correspondence@03:396,05:447,05:539
+L59 [55c] tokens=0 hit=0 miss=0 :: | 明托1807年函；1809年11月12日陆军部长宪兵报告 | 刊本／转录 | 亲读 | 三十二、五十七 |
+L60 [41c] tokens=1 hit=1 miss=0 :: | 1806年12月30日雅茅斯勋爵叙述 | Hansard | 亲读 | 六 |
+   HIT : Hansard@00:135,02a:365
+L61 [57c] tokens=1 hit=1 miss=0 :: | 教皇1813年撤回函；1808年春教廷关港声明 | Pacca回忆录1833年法文版 | 亲读 | 二十五 |
+   HIT : Pacca@04:485,04:487
+L62 [35c] tokens=1 hit=1 miss=0 :: | 《Mirari Vos》 | 刊本 | 亲读 | 二十五、六十 |
+   HIT : Mirari@04:393
+L63 [50c] tokens=0 hit=0 miss=0 :: | 塔列朗1805年10月17日斯特拉斯堡备忘录 | Dard转录 | 亲读（Dard） | 一 |
+L64 [44c] tokens=0 hit=0 miss=0 :: | 梅特涅1829年追述德累斯顿谈话 | 梅特涅回忆录卷一 | 回溯性 | 一、六十 |
+L66 [19c] tokens=0 hit=0 miss=0 :: ### 二手著作（含回忆录与统计汇编）
+L68 [24c] tokens=0 hit=0 miss=0 :: | 作者 | 著作 | 状态 | 主要使用章 |
+L69 [17c] tokens=0 hit=0 miss=0 :: |---|---|---|---|
+L70 [137c] tokens=8 hit=6 miss=2 :: | Aaslestad, K. & Joor, J. (eds.) | Revisiting Napoleon's Continental System (2015)，含Rowe、
+   HIT : 2015@03:398,06:408,08:467,08:497 | 212@02b:645,05:356,05:365,08:419 | Aaslestad@07:276,08:467,08:505,08:507 | Revisiting@08:467,08:505 | Continental@02a:349,02a:362,03:428,04:461 | System@02a:349,02a:362,03:428,04:453
+   MISS: Napoleon's | Spaulding
+L71 [52c] tokens=2 hit=2 miss=0 :: | Aksan, V. | Ottoman Wars 1700–1870 | 亲读 | 二十九、三十 |
+   HIT : Aksan@06:25,06:41,06:47,06:51 | Ottoman@06:15,06:19,06:25
+L72 [69c] tokens=6 hit=6 miss=0 :: | Albion, R. G. | Forests and Sea Power (1926) | 亲读（pp.356、368） | 八 |
+   HIT : 1926@01:277,02b:621 | 356@01:117,02b:621,05:363,06:15 | 368@02a:362,02b:587,02b:621,06:348 | Albion@02b:621 | Forests@02b:621 | Power@02b:621,03:414,06:191,10:496
+L73 [52c] tokens=3 hit=3 miss=0 :: | Alder, K. | Engineering the Revolution | 亲读 | 四十 |
+   HIT : Alder@01:293 | Engineering@01:293 | Revolution@01:285,01:303,02a:354,03:426
+L74 [138c] tokens=14 hit=13 miss=1 :: | Antipa, P. | "How Fiscal Policy Affects Prices: Britain's First Experience with Paper Mo
+   HIT : 2016@02a:356,02b:644,03:426,03:442 | 2017@08:509,10:329,10:514 | How Fiscal Policy Affects Prices: Britai@02a:356 | Antipa@02a:339,02a:356 | Fiscal@02a:339,02a:356,05:413,10:506 | Policy@02a:339,02a:356,02b:653 | Affects@02a:356 | Prices@02a:356 | First@02a:343,02a:356,02b:644,04:449 | Experience@02a:356,03:434,03:438,08:467 | Paper@00:135,02a:339,02a:356,05:48 | Money@02a:356,08:473 | Chamley@02a:339
+   MISS: Britain's
+L75 [54c] tokens=2 hit=2 miss=0 :: | Axtmann, R. | 1991年奥地利财政文（附录转Beer 1877） | 页图核 | 十七 |
+   HIT : 1991@03:168,03:414,07:266,10:490 | Axtmann@03:168,03:414
+L76 [67c] tokens=3 hit=3 miss=0 :: | Barton, H. A. | Scandinavia in the Revolutionary Era | 亲读 | 二十二 |
+   HIT : Barton@03:438 | Scandinavia@03:438 | Revolutionary@01:285,02a:354,03:438,07:264
+L77 [53c] tokens=1 hit=0 miss=1 :: | Beck, K. | 1890年据Eberstein遗档论邦联宪法 | 亲读（开篇长段） | 二十 |
+   MISS: Eberstein
+L78 [109c] tokens=6 hit=5 miss=1 :: | Berding, H. | Napoleonische Herrschafts- und Gesellschaftspolitik im Königreich Westfale
+   HIT : Berding@03:420 | Napoleonische@03:420 | Herrschafts-@03:420 | Gesellschaftspolitik@03:420 | Königreich@03:252,03:420,03:424
+   MISS: Westfalen
+L79 [60c] tokens=4 hit=4 miss=0 :: | Bordo, M. & White, E. | NBER WP 3517 (1990) | 亲读（表2） | 七 |
+   HIT : 3517@02a:339 | 1990@02b:607,07:270 | Bordo@02a:339 | White@02a:339,02b:647
+L80 [50c] tokens=2 hit=2 miss=0 :: | Brading, D. & Cross, H. | 论殖民地白银与水银 | 转引 | 三十六 |
+   HIT : Brading@05:202,05:251 | Cross@05:202,05:251
+L81 [79c] tokens=2 hit=2 miss=0 :: | Branda, P. | 战争融资附表（缓存页逐格）；Le prix de la gloire (2007) | 页图核（附表）／未获（专著） | 四 |
+   HIT : 2007@01:283,02a:343,02b:618,02b:619 | Branda@01:297,10:463
+L82 [87c] tokens=7 hit=5 miss=2 :: | Broers, M. | The Politics of Religion in Napoleonic Italy | 亲读（pp.179–182） | 四十一、六十 |
+   HIT : 179@01:109,01:125,01:249,01:285 | 182@01:263,01:285,02a:95,02a:159 | Politics@04:443 | Napoleonic@01:297,02a:339,02a:354,02a:362 | Italy@04:471,04:473,05:549,08:505
+   MISS: Broers | Religion
+L83 [52c] tokens=0 hit=0 miss=0 :: | Brun, J.-F. | Des armes et de la poudre | 亲读 | 二 |
+L84 [89c] tokens=3 hit=3 miss=0 :: | Buist, M. G. | At Spes Non Fracta: Hope & Co. 1770–1815 (1974) | 亲读（全文） | 三十四、三十六、三十八 |
+   HIT : 1974@02b:625,08:469,10:502 | Buist@08:133,08:469,08:473,10:502 | Fracta@08:469,10:502
+L85 [68c] tokens=1 hit=1 miss=0 :: | Chaptal, J.-A. | De l'industrie françoise (1819) | 亲读（OCR） | 五十九 |
+   HIT : Chaptal@08:254,08:479,08:495
+L86 [55c] tokens=4 hit=4 miss=0 :: | Chilcott, T. | 2006年英国本土防御研究 | 亲读（pp.242–244） | 六、九 |
+   HIT : 2006@00:131,02a:354,02b:637,04:471 | 242@02b:637,05:331,05:332,07:93 | 244@02a:101,02a:157,02b:637,04:81 | Chilcott@02b:637
+L87 [45c] tokens=2 hit=1 miss=1 :: | Consalvi, E. | Mémoires (1866) | 亲读 | 二十五 |
+   HIT : Consalvi@04:485
+   MISS: Mémoires
+L88 [49c] tokens=3 hit=3 miss=0 :: | Crafts, N. | 2004年蒸汽动力文（Kanefsky系列） | 转引 | 四十 |
+   HIT : 2004@04:447,08:471,08:475,09:372 | Crafts@08:475 | Kanefsky@08:475
+L89 [76c] tokens=5 hit=5 miss=0 :: | Crosby, A. W. | America, Russia, Hemp, and Napoleon (1965) | 亲读（全文） | 十四 |
+   HIT : 1965@03:398 | Crosby@03:398 | America@03:398,04:453,05:202,05:413 | Russia@01:279,03:398,03:404,03:442 | Napoleon@00:127,00:129,01:279,01:283
+L90 [50c] tokens=2 hit=2 miss=0 :: | Czartoryski, A. | Memoirs (含附录信件) | 亲读 | 十三、十六 |
+   HIT : Czartoryski@03:396 | Memoirs@03:396
+L91 [46c] tokens=2 hit=2 miss=0 :: | Dard, É. | Napoléon et Talleyrand | 亲读 | 一 |
+   HIT : Napoléon@00:131,01:277,01:281,01:291 | Talleyrand@01:277
+L92 [53c] tokens=2 hit=2 miss=0 :: | Davey, J. | 2009年博士论文（波罗的海给养） | 亲读（全文） | 八、十四、二十二 |
+   HIT : 2009@02b:237,02b:620,02b:667,03:400 | Davey@02b:620,02b:667,02b:669,03:400
+L93 [49c] tokens=3 hit=3 miss=0 :: | Davis, J. A. | Naples and Napoleon | 亲读 | 二十四 |
+   HIT : Davis@02a:348,04:471,04:473,04:475 | Naples@04:471,05:549,10:484 | Napoleon@00:127,00:129,01:279,01:283
+L94 [87c] tokens=4 hit=4 miss=0 :: | Desbrière, É. | Projets et tentatives de débarquement | 亲读（pp.442–444） | 九、十二（转引路径） |
+   HIT : 442@01:195,02a:211,02b:69,02b:634 | 444@02b:69,02b:448,02b:590,10:343 | Desbrière@02b:633,02b:634,02b:642 | Projets@02b:633
+L95 [104c] tokens=5 hit=5 miss=0 :: | Driault, É. | La politique orientale de Napoléon (1904)；Mohamed Aly et Napoléon (1925) |
+   HIT : 1904@04:473,06:151,06:215 | 1925@01:301,03:430,06:73,06:103 | Driault@06:73,06:79,06:87,06:103 | Napoléon@00:131,01:277,01:281,01:291 | Mohamed@06:73
+L96 [66c] tokens=5 hit=4 miss=1 :: | Dutt, R. | Economic History of India (1906) 第XXIII章 | 转引 | 三十二 |
+   HIT : 1906@06:382,07:278 | Economic@02a:349,02a:354,02a:356,02a:368 | History@01:289,02a:343,02a:354,02a:356 | India@02a:368,05:299,06:253,06:255
+   MISS: XXIII
+L97 [51c] tokens=3 hit=2 miss=1 :: | Einaudi, L. | ifo DICE Report 2018/3 | 亲读 | 五十九 |
+   HIT : 2018@02a:343,03:408,04:435,05:62 | Einaudi@08:481
+   MISS: Report
+L98 [111c] tokens=8 hit=7 miss=1 :: | Ellis, G. | Napoleon's Continental Blockade: The Case of Alsace (1981) | 亲读（附录D、G、I、J；印p
+   HIT : 1981@02b:653,08:465,10:467 | 202@00:125,00:127,00:129,00:131 | 286@03:406,05:112,06:161,06:374 | Ellis@08:17,08:465,10:144,10:186 | Continental@02a:349,02a:362,03:428,04:461 | Blockade@08:465,08:499,08:501,08:505 | Alsace@08:465,08:483,10:467
+   MISS: Napoleon's
+L99 [72c] tokens=4 hit=4 miss=0 :: | Elphinstone, M. | Account of the Kingdom of Caubul (1815) | 亲读 | 三十一 |
+   HIT : Elphinstone@06:177 | Account@02a:347,06:157,06:177,08:469 | Kingdom@02a:347,03:418,06:177,08:505 | Caubul@06:177
+L100 [53c] tokens=4 hit=4 miss=0 :: | Elting, J. | Swords Around a Throne | 亲读（第三章） | 二 |
+   HIT : Elting@01:287,01:295 | Swords@01:287,01:295 | Around@01:287,01:295 | Throne@01:287,01:295
+L101 [70c] tokens=4 hit=4 miss=0 :: | Esdaile, C. | Popular Resistance in the French Wars | 亲读 | 二十五、二十七 |
+   HIT : Esdaile@04:447,04:455,07:280 | Popular@03:434,04:445 | Resistance@04:445 | French@01:303,02a:339,02a:354,02b:663
+L102 [45c] tokens=2 hit=1 miss=1 :: | Fahmy, K. | All the Pasha's Men | 亲读 | 三十 |
+   HIT : Fahmy@06:99,06:103,06:109,06:113
+   MISS: Pasha's
+L103 [53c] tokens=3 hit=3 miss=0 :: | Ferguson, N. | The House of Rothschild | 亲读 | 三十八 |
+   HIT : Ferguson@08:193,08:473 | House@08:473 | Rothschild@08:473
+L104 [61c] tokens=3 hit=3 miss=0 :: | Forrest, A. | Conscripts and Deserters | 亲读（pp.91–92） | 五 |
+   HIT : Forrest@01:303 | Conscripts@01:303 | Deserters@01:303
+L105 [72c] tokens=3 hit=3 miss=0 :: | Fortescue, J. | County Lieutenancies and the Army 1803–1814 | 亲读 | 九 |
+   HIT : Fortescue@02b:635,02b:639 | County@02b:635 | Lieutenancies@02b:635
+L106 [49c] tokens=3 hit=2 miss=1 :: | Fraser, R. | Napoleon's Cursed War | 亲读 | 二十七 |
+   HIT : Fraser@04:445 | Cursed@04:445
+   MISS: Napoleon's
+L107 [37c] tokens=2 hit=2 miss=0 :: | Geggus, D. | 1979年黄热病文 | 亲读 | 三十五 |
+   HIT : 1979@02b:653,05:90 | Geggus@05:90
+L108 [119c] tokens=8 hit=8 miss=0 :: | Glenthøj, R. & Ottosen, M. N. | Experiences of War and Nationality in Denmark and Norway
+   HIT : 186@01:45,02b:294,02b:448,02b:621 | 190@02a:173,02b:39,02b:448,02b:635 | Glenthøj@03:438 | Ottosen@03:438 | Experiences@03:438,08:467 | Nationality@03:438 | Denmark@03:438 | Norway@03:438
+L109 [40c] tokens=2 hit=2 miss=0 :: | Gordon, S. | The Marathas | 亲读 | 三十三 |
+   HIT : Gordon@06:289 | Marathas@06:289
+L110 [102c] tokens=5 hit=5 miss=0 :: | Grab, A. | Napoleon and the Transformation of Europe (2003)；2013年征兵文 | 亲读 | 二、十六、十八、二十、二
+   HIT : 2003@01:285,02b:644,04:451,06:291 | 2013@01:283,01:295,07:274,08:495 | Napoleon@00:127,00:129,01:279,01:283 | Transformation@01:283,03:400,03:408,03:418 | Europe@01:283,02b:624,02b:649,03:400
+L111 [54c] tokens=3 hit=3 miss=0 :: | Gregory, D. | Sicily: The Insecure Base | 亲读 | 二十四 |
+   HIT : Gregory@02b:618,02b:619,04:479 | Sicily@04:479 | Insecure@04:479
+L112 [41c] tokens=2 hit=2 miss=0 :: | Hamnett, B. | IEP 2000（秘鲁） | 亲读 | 三十七 |
+   HIT : 2000@00:27,01:97,01:144,02a:221 | Hamnett@05:319,05:323,05:367
+L113 [100c] tokens=11 hit=11 miss=0 :: | Heckscher, E. | The Continental System | 亲读（印pp.210、214、227、244–245、293、295–306） | 二十、三十
+   HIT : 210@01:307,02b:605,03:121,04:467 | 214@02b:644,02b:660,06:350,06:358 | 227@02a:355,02b:181,03:83,06:97 | 244@02a:101,02a:157,02b:637,04:81 | 245@01:201,02a:349,05:56 | 293@02b:654,03:121,04:47,05:449 | 295@02b:458,02b:629,05:41,06:390 | 306@01:301,02b:173,06:275,06:429 | Heckscher@02a:349,02a:362,03:428,04:461 | Continental@02a:349,02a:362,03:428,04:461 | System@02a:349,02a:362,03:428,04:453
+L114 [66c] tokens=5 hit=5 miss=0 :: | Herr, R. | Rural Change and Royal Finances in Spain | 亲读 | 二十六 |
+   HIT : Rural@04:439 | Change@04:439 | Royal@02a:45,02b:618,02b:619,02b:621 | Finances@04:439 | Spain@02a:350,04:439,04:441,04:443
+L115 [34c] tokens=1 hit=1 miss=0 :: | Hicks, P. | 论教廷–帝国升级链 | 亲读 | 五 |
+   HIT : Hicks@00:131
+L116 [44c] tokens=1 hit=1 miss=0 :: | Houdaille, J. | 帝国陆军来源统计 | 亲读（印p.49） | 二 |
+   HIT : Houdaille@01:51,01:303
+L117 [87c] tokens=3 hit=3 miss=0 :: | Humboldt, A. von | Essai politique sur le royaume de la Nouvelle-Espagne | 亲读 | 三十六 |
+   HIT : Humboldt@05:202,05:204,05:251 | Essai@05:202 | Nouvelle-Espagne@05:202
+L118 [43c] tokens=1 hit=0 miss=1 :: | INED / Bonneuil | 1806年法国生命表重建 | 亲读 | 五 |
+   MISS: Bonneuil
+L119 [42c] tokens=2 hit=0 miss=2 :: | INEHRM | Yermo研究（印pp.54–59） | 亲读 | 三十六 |
+   MISS: INEHRM | Yermo
+L120 [63c] tokens=4 hit=4 miss=0 :: | James, W. | Naval History, Abstract 17–23 | 转录（未逐年影像对校） | 八 |
+   HIT : James@02b:617,02b:620,02b:645,02b:647 | Naval@02b:617,02b:620,02b:667,03:400 | History@01:289,02a:343,02a:354,02a:356 | Abstract@02b:617
+L121 [43c] tokens=1 hit=1 miss=0 :: | Jarrige, F. | 卢德运动研究（pp.1–3） | 亲读 | 四十一 |
+   HIT : Jarrige@02a:352
+L122 [39c] tokens=2 hit=1 miss=1 :: | Jeremy, D. | 1977年英国技术封锁文 | 亲读 | 四十 |
+   HIT : 1977@02b:294
+   MISS: Jeremy
+L123 [72c] tokens=5 hit=5 miss=0 :: | Johnston, R. M. | The Napoleonic Empire in Southern Italy | 亲读 | 二十四 |
+   HIT : Johnston@04:473 | Napoleonic@01:297,02a:339,02a:354,02a:362 | Empire@01:281,01:303,02b:628,03:418 | Southern@04:471,04:473,05:549 | Italy@04:471,04:473,05:549,08:505
+L124 [77c] tokens=5 hit=5 miss=0 :: | Joor, J. | Soldiers, Citizens, Civilians (2009) | 亲读（全文；印p.202） | 二十一、四十五 |
+   HIT : 2009@02b:237,02b:620,02b:667,03:400 | 202@00:125,00:127,00:129,00:131 | Soldiers@03:406,03:434 | Citizens@03:434 | Civilians@03:434
+L125 [41c] tokens=1 hit=0 miss=1 :: | Kaye, J. | Life of Malcolm | 亲读 | 三十一 |
+   MISS: Malcolm
+L126 [49c] tokens=1 hit=1 miss=0 :: | Keep, J. | Soldiers of the Tsar | 亲读（摘录） | 十五 |
+   HIT : Soldiers@03:406,03:434
+L127 [50c] tokens=3 hit=3 miss=0 :: | Keller, W. & Shiue, C. | 2014年关税同盟文 | 亲读 | 五十九 |
+   HIT : 2014@02b:627,02b:673,03:422,06:193 | Keller@03:422,08:445,08:499,10:289 | Shiue@03:422,08:445,08:499,10:289
+L128 [58c] tokens=3 hit=3 miss=0 :: | Kopsidis, M. & Bromley, D. | 2016年南德领主制文 | 亲读 | 十九、五十九 |
+   HIT : 2016@02a:356,02b:644,03:426,03:442 | Kopsidis@03:426,08:445,08:499,10:287 | Bromley@03:426,08:445,08:499,10:287
+L129 [41c] tokens=2 hit=0 miss=2 :: | Kukiel, M. | Wojna 1812 | 未获（转引） | 十六 |
+   MISS: Kukiel | Wojna
+L130 [42c] tokens=1 hit=1 miss=0 :: | La Parra, E. | 戈多伊传；费尔南多七世传 | 亲读 | 二十六 |
+   HIT : Parra@04:435
+L131 [41c] tokens=1 hit=1 miss=0 :: | Lawrence, M. | 论1823与卡洛斯战争 | 亲读 | 二十七 |
+   HIT : Lawrence@04:447,04:449
+L132 [54c] tokens=2 hit=2 miss=0 :: | Lentz, T. | Correspondance générale T11导言 | 转引 | 一 |
+   HIT : Lentz@07:272,10:480 | Correspondance@02b:626,04:465,04:467,04:469
+L133 [62c] tokens=4 hit=4 miss=0 :: | Lieven, D. | Russia Against Napoleon | 亲读（部分）／书评转引 | 十三、十五 |
+   HIT : Lieven@03:404 | Russia@01:279,03:398,03:404,03:442 | Against@03:404 | Napoleon@00:127,00:129,01:279,01:283
+L134 [88c] tokens=2 hit=2 miss=0 :: | Lignereux, A. | 旺代1815；宪兵研究书评；PUR 2013并合省rébellions专题 | 亲读（书评）／未获（PUR专题） | 五、四十五、五十七 |
+   HIT : 2013@01:283,01:295,07:274,08:495 | Lignereux@07:121,07:274
+L135 [54c] tokens=3 hit=2 miss=1 :: | Linch, K. | Britain and Wellington's Army | 亲读 | 九 |
+   HIT : Linch@02b:636 | Britain@02a:347,02a:356,02b:617,02b:663
+   MISS: Wellington's
+L136 [43c] tokens=2 hit=1 miss=1 :: | Lugli, A. et al. | 2007年拿破仑死因文 | 亲读 | 一 |
+   HIT : 2007@01:283,02a:343,02b:618,02b:619
+   MISS: Lugli
+L137 [85c] tokens=5 hit=5 miss=0 :: | Madelin, L. | La Rome de Napoléon (1906) | 亲读（印p.375；脚注引AN AF IV 1509为转引谱系） | 四十四 |
+   HIT : 1906@06:382,07:278 | 375@01:195,02a:246,02b:602,03:278 | 1509@01:303 | Madelin@07:278 | Napoléon@00:131,01:277,01:281,01:291
+L138 [68c] tokens=4 hit=3 miss=1 :: | Manchester, A. K. | British Preëminence in Brazil | 亲读（全文） | 二十八 |
+   HIT : Manchester@04:451,05:501,05:509,05:515 | British@02a:339,02b:620,02b:635,02b:636 | Brazil@04:451,04:453,05:501
+   MISS: Preëminence
+L139 [58c] tokens=3 hit=3 miss=0 :: | Marichal, C. | Bankruptcy of Empire | 亲读 | 二十六、三十四、三十六 |
+   HIT : Marichal@04:441,05:70,05:208,05:216 | Bankruptcy@04:441,05:70,05:208,05:225 | Empire@01:281,01:303,02b:628,03:418
+L140 [93c] tokens=7 hit=7 miss=0 :: | Marion, M. | Histoire financière de la France IV (1925) | 页图核（pp.321、325、419） | 四、二十一、四十
+   HIT : 1925@01:301,03:430,06:73,06:103 | 321@01:301,01:309,03:430,05:42 | 325@02a:248,03:432,04:489,05:66 | 419@01:301,02a:96,02a:362,02b:590 | Marion@01:301,01:309,03:430,03:432 | Histoire@01:301,01:309,03:430,07:276 | France@00:133,00:135,00:137,01:293
+L141 [64c] tokens=4 hit=4 miss=0 :: | Marsot, A. L. | Egypt in the Reign of Muhammad Ali | 亲读 | 三十 |
+   HIT : Marsot@06:81,06:87,06:93,06:97 | Egypt@06:81,06:99,06:113 | Reign@06:81 | Muhammad@06:81
+L142 [68c] tokens=3 hit=3 miss=0 :: | Marshall, J. | Digest of All the Accounts (1833) | 亲读（印p.74） | 十 |
+   HIT : Marshall@02a:347 | Digest@02a:347 | Accounts@02a:347
+L143 [47c] tokens=2 hit=2 miss=0 :: | Marzagalli, S. | 论汉堡走私 | 转引（1999全书未获） | 三十九 |
+   HIT : 1999@10:471 | Marzagalli@08:501
+L144 [60c] tokens=2 hit=1 miss=1 :: | Melchior-Bonnet, B. | Napoléon et le Pape | 转引（p.87） | 五 |
+   HIT : Napoléon@00:131,01:277,01:281,01:291
+   MISS: Melchior-Bonnet
+L145 [40c] tokens=1 hit=0 miss=1 :: | Mercader Riba, J. | 论加泰法治 | 转引 | 四十四 |
+   MISS: Mercader
+L146 [46c] tokens=3 hit=3 miss=0 :: | Milburn, W. | Oriental Commerce | 亲读 | 三十二 |
+   HIT : Milburn@06:408,06:416,06:435,06:455 | Oriental@06:408,06:435 | Commerce@02a:347,05:25,06:408,06:435
+L147 [37c] tokens=2 hit=2 miss=0 :: | Murau, S. | 2023年普鲁士国债文 | 亲读 | 十八 |
+   HIT : 2023@02b:276,02b:645,02b:657,02b:671 | Murau@03:418
+L148 [44c] tokens=2 hit=1 miss=1 :: | Murray/Prinsep | 1831–33年锡克研究 | 亲读 | 三十一 |
+   HIT : Prinsep@06:191,06:193,10:496
+   MISS: Murray
+L149 [102c] tokens=3 hit=3 miss=0 :: | Oman, C. | History of the Peninsular War III附录VII、IV附录XVIII | 亲读（downloads/f2_oman_vol3／
+   HIT : History@01:289,02a:343,02a:354,02a:356 | Peninsular@01:289,04:445,04:447,04:455 | XVIII@01:293
+L150 [46c] tokens=2 hit=1 miss=1 :: | Pacca, B. | Mémoires (1833年法文版) | 亲读 | 二十五 |
+   HIT : Pacca@04:485,04:487
+   MISS: Mémoires
+L151 [39c] tokens=2 hit=2 miss=0 :: | Pedreira, J. | HAHR 2000 | 亲读 | 二十八 |
+   HIT : 2000@00:27,01:97,01:144,02a:221 | Pedreira@04:453,05:501
+L152 [51c] tokens=3 hit=3 miss=0 :: | Perkins, B. | Prologue to War (1961) | 亲读 | 三十四 |
+   HIT : 1961@05:29,08:305 | Perkins@05:29,05:54,05:60 | Prologue@05:29,05:54
+L153 [38c] tokens=1 hit=0 miss=1 :: | Petiteau, N. | 显贵跨政权研究 | 转引 | 五、六十 |
+   MISS: Petiteau
+L154 [87c] tokens=6 hit=6 miss=0 :: | Pigeard, A. | "La conscription sous le Premier Empire" (RSN 420, 1998) | 亲读（网页） | 二 |
+   HIT : 420@01:281,02a:189,03:97,03:129 | 1998@01:281,08:473 | La conscription sous le Premier Empire@01:281 | Pigeard@01:281 | Premier@01:281,08:475 | Empire@01:281,01:303,02b:628,03:418
+L155 [51c] tokens=2 hit=2 miss=0 :: | Pitkin, T. | Statistical View (1835) | 亲读 | 三十四 |
+   HIT : Pitkin@05:25,05:46,05:60,05:62 | Statistical@05:25,05:46
+L156 [72c] tokens=4 hit=4 miss=0 :: | Planert, U. | Der Mythos vom Befreiungskrieg (2007) | 转引（两篇书评） | 四十一 |
+   HIT : 2007@01:283,02a:343,02b:618,02b:619 | Planert@08:375,08:489 | Mythos@08:489 | Befreiungskrieg@08:489
+L157 [41c] tokens=2 hit=2 miss=0 :: | Ploeckl, F. | 2010年关税同盟博弈文 | 亲读 | 五十九 |
+   HIT : 2010@10:328,10:329,10:475,10:508 | Ploeckl@09:130,10:328,10:335,10:508
+L158 [53c] tokens=3 hit=2 miss=1 :: | Porter, G. R. | Progress of the Nation | 亲读 | 四十二 |
+   HIT : Progress@10:475 | Nation@02b:657,03:416,03:438,08:489
+   MISS: Porter
+L159 [59c] tokens=4 hit=3 miss=1 :: | Riehn, R. | 1812: Napoleon's Russian Campaign | 亲读 | 十五 |
+   HIT : Riehn@03:404 | Russian@03:404 | Campaign@01:297,03:404,03:444,06:291
+   MISS: Napoleon's
+L160 [88c] tokens=6 hit=6 miss=0 :: | Rosselli, J. | Lord William Bentinck and the British Occupation of Sicily | 亲读 | 二十四 |
+   HIT : Rosselli@04:479 | William@00:129,02a:359,02b:617,02b:663 | Bentinck@04:479 | British@02a:339,02b:620,02b:635,02b:636 | Occupation@04:479 | Sicily@04:479
+L161 [55c] tokens=3 hit=3 miss=0 :: | Rouanet & Piano | 2023年逃役反事实文 | 亲读（正文与附录冲突并列） | 四十六 |
+   HIT : 2023@02b:276,02b:645,02b:657,02b:671 | Rouanet@07:85,10:341,10:512 | Piano@07:85,10:341,10:512
+L162 [76c] tokens=3 hit=3 miss=0 :: | Rowe, M. | From Reich to State | 页图核（表3印p.179；印pp.87、90） | 二、四十三、四十五、四十六 |
+   HIT : 179@01:109,01:125,01:249,01:285 | Reich@01:285,07:264 | State@01:285,02b:620,02b:667,05:25
+L163 [51c] tokens=2 hit=2 miss=0 :: | Sen, S. P. | The French in India | 亲读（全文） | 三十三 |
+   HIT : French@01:303,02a:339,02a:354,02b:663 | India@02a:368,05:299,06:253,06:255
+L164 [45c] tokens=1 hit=1 miss=0 :: | Shaw, S. | Between Old and New | 亲读 | 二十九 |
+   HIT : Between@06:15
+L165 [41c] tokens=1 hit=0 miss=1 :: | Sondhaus, L. | 论伦-威籍奥军 | 亲读 | 二十三、六十五 |
+   MISS: Sondhaus
+L166 [42c] tokens=2 hit=2 miss=0 :: | Tokarz, W. | 1917年华沙公国被占负担研究 | 亲读 | 十六 |
+   HIT : 1917@03:410,08:491,09:374 | Tokarz@03:410
+L167 [49c] tokens=1 hit=1 miss=0 :: | Todorov, N. | 法国海军舰体研究 | 亲读（PDF p.15） | 三、六十三 |
+   HIT : Todorov@02b:624,02b:627
+L168 [57c] tokens=2 hit=2 miss=0 :: | Tone, J. L. | The Fatal Knot | 亲读（转de la Torre） | 二十七 |
+   HIT : Fatal@04:447 | Torre@05:263,05:307,05:427
+L169 [80c] tokens=2 hit=2 miss=0 :: | Torrente, M. | Historia de la revolución hispano-americana (1829) | 亲读 | 三十七 |
+   HIT : Torrente@05:263,05:307,05:427 | Historia@04:435,04:489,05:263,05:273
+L170 [39c] tokens=2 hit=2 miss=0 :: | Troshin, N. | 2015年俄贸易条件文 | 亲读 | 十四 |
+   HIT : 2015@03:398,06:408,08:467,08:497 | Troshin@03:398
+L171 [46c] tokens=1 hit=0 miss=1 :: | Ullmann, H.-P. | 法兰克福资本市场研究 | 亲读（全文） | 三十八 |
+   MISS: Ullmann
+L172 [51c] tokens=2 hit=2 miss=0 :: | van Creveld, M. | Supplying War | 亲读（印p.64） | 二 |
+   HIT : Creveld@02b:638 | Supplying@02b:638,02b:667,02b:671
+L173 [72c] tokens=4 hit=4 miss=0 :: | Vandal, A. | Napoléon et Alexandre Ier三卷 | 亲读（Gutenberg） | 十三、十八、二十九 |
+   HIT : Vandal@03:396,03:402,06:35 | Napoléon@00:131,01:277,01:281,01:291 | Alexandre@00:133,03:396,06:35 | Gutenberg@09:372
+L174 [38c] tokens=1 hit=1 miss=0 :: | Weis, E. | 1983年巴伐利亚世俗化文 | 亲读 | 十九 |
+   HIT : 1983@03:424
+L175 [57c] tokens=3 hit=2 miss=1 :: | Wilson, W. J. | History of the Madras Army | 亲读 | 三十二 |
+   HIT : Wilson@06:303,06:307 | History@01:289,02a:343,02a:354,02a:356
+   MISS: Madras
+L176 [84c] tokens=8 hit=7 miss=1 :: | Woolf, S. | Napoleon's Integration of Europe | 亲读（印pp.203、232、243、245） | 四十三、四十五 |
+   HIT : 203@02b:610,03:27,03:178,03:320 | 232@01:117,02a:248,02b:276,07:74 | 243@02b:280,02b:448,02b:609,03:398 | 245@01:201,02a:349,05:56 | Woolf@07:23,07:47,07:266,10:477 | Integration@07:266,08:499,10:469,10:490 | Europe@01:283,02b:624,02b:649,03:400
+   MISS: Napoleon's
+L177 [50c] tokens=4 hit=2 miss=2 :: | Ziegler, P. | The Sixth Great Power | 亲读 | 三十八 |
+   HIT : Great@02a:347,02b:617,02b:649,02b:650 | Power@02b:621,03:414,06:191,10:496
+   MISS: Ziegler | Sixth
+L178 [69c] tokens=2 hit=0 miss=2 :: | ADB（Flathe等条目）；HdBG；HLB；DBI；Iranica | 传记辞典条目 | 亲读 | 十八–二十、二十三、三十一 |
+   MISS: Flathe | Iranica
+L179 [90c] tokens=4 hit=4 miss=0 :: | Bank of England | A Millennium of Macroeconomic Data v3.1（A27、A31、A40表） | 亲读 | 七、十、四十七 |
+   HIT : 3.1@01:195,02a:117,02a:317,02a:319 | England@02a:338,02a:339,02a:341,02a:359 | Millennium@02a:338 | Macroeconomic@02a:338
+L180 [56c] tokens=3 hit=3 miss=0 :: | Bairoch, P. | 1982年人均工业化指数 | 转引（NBER WP6904转录） | 五十九 |
+   HIT : 1982@02b:237,02b:628,02b:647,10:471 | 6904@01:125,10:471 | Bairoch@10:355,10:471
+L181 [44c] tokens=3 hit=3 miss=0 :: | Maddison Project 2020 | 人均GDP | 亲读 | 五十九 |
+   HIT : 2020@01:299,02b:620,02b:629,02b:637 | Maddison@10:370,10:471 | Project@06:255,08:493,09:372,10:370
+L183 [17c] tokens=0 hit=0 miss=0 :: ### 未获而应获（改判证据所在）
+L185 [898c] tokens=89 hit=25 miss=64 :: Branda 2007逐年表；Gaudin回忆录附录；各年Compte général；Mitchell & Deane 1962 p.442；Sherwig补贴表；Danson 
+   HIT : 2007@01:283,02a:343,02b:618,02b:619 | 442@01:195,02a:211,02b:69,02b:634 | 1967@02a:341,02b:663,06:398 | 1994@02b:604,04:301,04:447 | 2013@01:283,01:295,07:274,08:495 | 1999@10:471 | 2002@00:127,00:129,02b:663,04:435 | 2021@05:363 | 1984@04:443,06:81 | 1123@07:270 | Branda@01:297,10:463 | Mitchell@08:477 | Sherwig@02a:362 | Crouzet@02a:352 | Glover@02b:634,02b:663 | Winfield@02b:660 | Roberts@02b:660 | Lignereux@07:121,07:274 | Marzagalli@08:501 | Planert@08:375,08:489 | Girard@05:82,05:84 | Drescher@02b:654 | Régent@05:98 | Papers@00:135,05:447,05:539,06:335 | Hamburg@08:501
+   MISS: 1962 | 1941 | Gaudin | Compte | Deane | Danson | Casse | Finley | Fugier | Kukiel | Wojna | Dundulis | Pivec-Stelè | Bundy | Mercader | Dufraisse | Tarlé | Hagemann | Chadwick | Hales | Latreille | Schwarzfuchs | Broers | Caiani | Lynch | Halperín | Donghi | Adelman | Street | Dubois | Blackburn | Ferrer | Popkin | Bowen | Peers | Philips | Webster | Amini | Atkin | Ingram
+L187 [3c] tokens=0 hit=0 miss=0 :: ---
+L189 [12c] tokens=0 hit=0 miss=0 :: ## 附录二　口径冲突表
+L191 [22c] tokens=0 hit=0 miss=0 :: | # | 冲突 | 两方 | 本书处置 |
+L192 [17c] tokens=0 hit=0 miss=0 :: |---|---|---|---|
+L193 [62c] tokens=5 hit=3 miss=2 :: | 1 | Branda"Savings"352 vs 383 | 正文352／附表A＋B可复算383 | 采383并注 |
+   HIT : 352@05:126,06:392,07:93 | 383@02b:607,10:21,10:66,10:230 | Branda@01:297,10:463
+   MISS: Savings | Savings
+L194 [58c] tokens=2 hit=2 miss=0 :: | 2 | Branda西班牙行"350 350 0"第四格 | 空白或丢失 | 不写"两列皆0"，实质结论不变 |
+   HIT : 350@01:179,02a:213,02b:649,03:85 | Branda@01:297,10:463
+L195 [56c] tokens=3 hit=2 miss=1 :: | 3 | Marion 1812并合地税 | 预期毛342.26／净226.39 | 一律标"预期非实收" |
+   HIT : 342.26@01:139 | Marion@01:301,01:309,03:430,03:432
+   MISS: 226.39
+L196 [62c] tokens=5 hit=5 miss=0 :: | 4 | F4经常收入T | 650／750／800 | 中心750；按路径疆域重基714–739（第五十四章第五节） |
+   HIT : 650@01:193,01:201,01:207,05:127 | 750@01:97,01:176,01:195,01:202 | 800@00:135,01:79,01:81,01:83 | 714@02a:363,02b:673,03:422,08:499 | 739@02b:91,10:194
+L197 [52c] tokens=3 hit=3 miss=0 :: | 5 | 陆300＋海195闭合 | 高收入＋盟约案 vs 中心案缺120m | 两案分列，不互冒 |
+   HIT : 300@01:83,01:152,01:160,01:176 | 195@01:176,01:178,01:179,02b:602 | 120@01:160,02a:133,02a:161,02a:221
+L198 [84c] tokens=9 hit=9 miss=0 :: | 6 | P4预算层级 | 195m→111 A12→.902/.876；165→84→.769/.747；220–260高档 | 红队纠正后口径；高档不在平衡案 |
+   HIT : 195@01:176,01:178,01:179,02b:602 | 111@02a:92,02a:248,02b:15,02b:197 | 902@02a:187,02b:213,02b:215,06:370 | 876@02b:221,02b:229,02b:610,05:299 | 165@01:203,02b:621,04:453,05:127 | 769@02b:157,02b:221,10:166 | 747@02b:221,03:129,05:365 | 220@02a:131,02a:161,02b:286,03:294 | 260@01:125,01:139,01:152,01:195
+L199 [58c] tokens=2 hit=2 miss=0 :: | 7 | 失安特卫普 | P4 .444/.267为W基线单一冲击 | P基线比例近似≈.58/.56，标近似 |
+   HIT : 444@02b:69,02b:448,02b:590,10:343 | 267@06:93,06:394,06:429,08:419
+L200 [70c] tokens=3 hit=3 miss=0 :: | 8 | SA白银400–800万 vs MX 90–330万 | 毛流量 vs 法国净得 | 以MX四因子为承重，SA为参照，不相加 |
+   HIT : 400@01:160,01:181,01:183,02a:87 | 800@00:135,01:79,01:81,01:83 | 330@01:195,02a:262,03:95,03:242
+L201 [65c] tokens=6 hit=6 miss=0 :: | 9 | 甜菜糖1813 | 展望350万kg／334厂 vs 实产110万kg／158厂 | 用实产；1.2%而非3.7% |
+   HIT : 350@01:179,02a:213,02b:649,03:85 | 334@02a:175,03:127,05:332,08:218 | 110@01:69,01:79,01:160,01:249 | 158@02b:644,02b:661,03:242,05:62 | 1.2@01:103,01:119,02a:217,02a:238 | 3.7@01:137,02a:107,02a:185,02a:292
+L202 [55c] tokens=0 hit=0 miss=0 :: | 10 | HT死亡率 | 6%低年／13%全期均值含疫年／17–30%疫年 | 不合成；13%已含疫年 |
+L203 [63c] tokens=6 hit=4 miss=2 :: | 11 | HT在场5,000–8,000 | 在场非在册；q_C 0.65–0.80 | 在册6,250–12,308 |
+   HIT : 5000@01:209,02a:159,02b:35,02b:37 | 8000@00:135,01:79,01:81,01:183 | 0.65@01:57,02b:219,10:410 | 0.80@02a:163,02b:209,10:214,10:238
+   MISS: 6250 | 12308
+L204 [38c] tokens=0 hit=0 miss=0 :: | 12 | P7 MAN-01 | 需求／供给标签互换 | 已改正读法 |
+L205 [68c] tokens=2 hit=2 miss=0 :: | 13 | 外籍兵员 | Grab 1812战役比例／Elting 1807战区比例／Houdaille累计来源 | 三口径不互加 |
+   HIT : Elting@01:287,01:295 | Houdaille@01:51,01:303
+L206 [59c] tokens=2 hit=2 miss=0 :: | 14 | Rowe表3 | 征前逃避33.65%（分母在册）vs 入伍后逃亡3.00%（分母到营） | 不相乘 |
+   HIT : 33.65@01:45 | 3.00@01:129,01:133,01:297,02a:87
+L207 [42c] tokens=1 hit=0 miss=1 :: | 15 | 1813年10月到营56.71% | 单批截止日 | 不当全国全年 |
+   MISS: 56.71
+L208 [66c] tokens=2 hit=2 miss=0 :: | 16 | 粮秣 | F2 2,000吨／日（12.5万马）vs E1 1,750（10万马） | 差额由马群解释；均为说明案 |
+   HIT : 2000@00:27,01:97,01:144,02a:221 | 12.5@01:97,02a:313,02b:209,05:356
+L209 [65c] tokens=3 hit=2 miss=1 :: | 17 | van Creveld p.64 | "Even if"算例非莫斯科实发；吨制未明 | 1.5kg为公吨近似输入 |
+   HIT : 1.5@01:53,01:97,02a:293,02a:296 | Creveld@02b:638
+   MISS: Even if
+L210 [61c] tokens=4 hit=4 miss=0 :: | 18 | 巴黎公约对奥援军 | 法文10,000／德文16,000 | 并列；数据表只用42,000与12,000 |
+   HIT : 10000@01:81,05:186,10:266,10:268 | 16000@02b:665,03:318,03:320,06:275 | 42000@03:97,03:208,04:453 | 12000@02a:221,05:307,06:163,06:325
+L211 [74c] tokens=3 hit=3 miss=0 :: | 19 | 普鲁士国债 | Murau 1806 53.5m／1820 180m vs 克拉克转载1806 35m／1810 66m | 并列 |
+   HIT : 53.5@02a:246,10:222 | 180@00:3,00:11,00:15,00:21 | Murau@03:418
+L212 [48c] tokens=0 hit=0 miss=0 :: | 20 | 拜伦特购价 | Weis 20m fl. vs HdBG 23m法郎 | 并列 |
+L213 [59c] tokens=4 hit=4 miss=0 :: | 21 | 拜永条约缪拉出兵 | 18,000／3,000／25 vs 16,000／2,500／20 | 并列 |
+   HIT : 18000@01:81,05:138,07:165 | 3000@01:83,01:160,02a:213,02b:39 | 16000@02b:665,03:318,03:320,06:275 | 2500@02a:213,02b:468,03:121,03:131
+L214 [66c] tokens=5 hit=4 miss=1 :: | 22 | 缪拉军1815 | Johnston 35,000＋5,000 vs Castellano 17,000 | 并列 |
+   HIT : 35000@03:85,03:141,05:223,06:211 | 5000@01:209,02a:159,02b:35,02b:37 | 17000@02b:69 | Johnston@04:473
+   MISS: Castellano
+L215 [39c] tokens=1 hit=1 miss=0 :: | 23 | 西班牙教士总量 | 20万 vs 14.8–17万 | 并列 |
+   HIT : 14.8@04:83
+L216 [70c] tokens=6 hit=6 miss=0 :: | 24 | 西班牙人口损失 | Fraser 350–510k战前／215–375k战时 vs Esdaile"可能超百万" | 并列 |
+   HIT : 350@01:179,02a:213,02b:649,03:85 | 510@02b:139 | 215@02b:665,10:327 | 375@01:195,02a:246,02b:602,03:278 | Fraser@04:445 | Esdaile@04:447,04:455,07:280
+L217 [29c] tokens=0 hit=0 miss=0 :: | 25 | 巴约讷洪塔首会 | 65／75 | 并列 |
+L218 [78c] tokens=3 hit=2 miss=1 :: | 26 | 卡杜达尔行刑日；莱内表决；三次"八万令"；公投反对票 | 6-25/6-28；223:31/223:51；5,657/5,740 | 备案 |
+   HIT : 223@02b:602,08:499,10:469 | 5657@02b:488
+   MISS: 5740
+L219 [81c] tokens=7 hit=7 miss=0 :: | 27 | 俄军1812 | Lieven一线242k／Riehn 190k／488k／428k；茹拉夫斯基131.8万满编 | 禁互填；茹拉夫斯基禁入总装 |
+   HIT : 242@02b:637,05:331,05:332,07:93 | 190@02a:173,02b:39,02b:448,02b:635 | 488@02b:673,06:193,07:270,10:38 | 428@05:331,10:25 | 131.8@10:216 | Lieven@03:404 | Riehn@03:404
+L220 [44c] tokens=2 hit=2 miss=0 :: | 28 | Troshin 0.74 | 价格贸易条件指数 | 非出口量或收入恢复 |
+   HIT : 0.74@02b:212,02b:221,03:29 | Troshin@03:398
+L221 [42c] tokens=3 hit=1 miss=2 :: | 29 | 戴维表29 | 加总79.88／99.28≠100 | 缺格不当零 |
+   HIT : 100@01:69,01:79,01:81,01:125
+   MISS: 79.88 | 99.28
+L222 [36c] tokens=0 hit=0 miss=0 :: | 30 | 基尔"一百万" | 军团补贴 vs 秘密补偿 | 并列 |
+L223 [36c] tokens=0 hit=0 miss=0 :: | 31 | 丹麦炮艇47艘 | 丹麦炮艇 vs 挪威双桅 | 并列 |
+L224 [48c] tokens=4 hit=4 miss=0 :: | 32 | 瑞士团入俄 | 7,000–10,000／生还700–1,300三源 | 并列 |
+   HIT : 7000@02b:69,02b:183,02b:665,03:85 | 10000@01:81,05:186,10:266,10:268 | 700@01:144,01:160,01:164,01:181 | 1300@03:141,05:66,08:419,10:269
+L225 [53c] tokens=1 hit=0 miss=1 :: | 33 | 华沙军费占比 | Grab预算三分之二 vs Kowalczyk九成 | 无决算系列不裁 |
+   MISS: Kowalczyk
+L226 [83c] tokens=5 hit=0 miss=5 :: | 34 | 印度Cartwright总账 | OCR 38,614,174 vs 还原28,614,174 | 按51,182,127−22,567,953还原 |
+   MISS: 38614174 | 28614174 | 51182127 | 22567953 | Cartwright
+L227 [42c] tokens=3 hit=3 miss=0 :: | 35 | 毛里求斯远征 | 6,848／11,306／16,000 | 并列 |
+   HIT : 6848@06:275 | 11306@06:275 | 16000@02b:665,03:318,03:320,06:275
+L228 [25c] tokens=0 hit=0 miss=0 :: | 36 | 三舰派遣日期 | 两说 | 并列 |
+L229 [38c] tokens=2 hit=2 miss=0 :: | 37 | 强征美国水手 | 门罗6,257／联邦党<800 | 并列 |
+   HIT : 6257@05:54 | 800@00:135,01:79,01:81,01:83
+L230 [56c] tokens=3 hit=1 miss=2 :: | 38 | 半岛人口新西班牙 | 7,906 vs 70,000–80,000 | 并列（决定统治层厚度） |
+   HIT : 80000@01:79,03:218,06:453,10:266
+   MISS: 7906 | 70000
+L231 [43c] tokens=1 hit=1 miss=0 :: | 39 | Torrente秘鲁栏 | 十年合计标为年产 | 不作1806年产量 |
+   HIT : Torrente@05:263,05:307,05:427
+L232 [52c] tokens=3 hit=2 miss=1 :: | 40 | 卡斯尔雷"Old Spain"段页眉 | "180M"属1807或1808 | 待确认 |
+   HIT : 180@00:3,00:11,00:15,00:21 | Spain@02a:350,04:439,04:441,04:443
+   MISS: Old Spain
+L233 [50c] tokens=4 hit=4 miss=0 :: | 41 | Rouanet–Piano | 正文3,256 vs 附录2,812 | 保留冲突 |
+   HIT : 3256@05:66,10:343 | 2812@10:343 | Rouanet@07:85,10:341,10:512 | Piano@07:85,10:341,10:512
+L234 [35c] tokens=2 hit=1 miss=1 :: | 42 | 比利时被征率 | 7.135%非6.12% | 已改 |
+   HIT : 6.12@03:398
+   MISS: 7.135
+L235 [78c] tokens=6 hit=5 miss=1 :: | 43 | Fichte销量、Tugendbund人数、烧炭党三口径 | 600册／620–700人／24–30k、50–60k、200k＋ | 并列 |
+   HIT : 600@01:117,01:125,01:152,01:195 | 620@00:131,01:65,03:228,03:306 | 700@01:144,01:160,01:164,01:181 | 200@00:27,00:127,00:129,00:131 | Fichte@08:489
+   MISS: Tugendbund
+L236 [69c] tokens=3 hit=2 miss=1 :: | 44 | 法国关税收入三套 | Heckscher／Marion／AHAD 1807＝77、1812＝109.5 | 量级不合并列 |
+   HIT : Heckscher@02a:349,02a:362,03:428,04:461 | Marion@01:301,01:309,03:430,03:432
+   MISS: 109.5
+L237 [59c] tokens=5 hit=5 miss=0 :: | 45 | P5旧摘录455／465、365／377 | gen4采Ellis下行465／377 | 采gen4 |
+   HIT : 455@02a:333,05:62,08:26,10:165 | 465@02a:89,02b:603,06:348,06:446 | 365@01:83,02a:339,03:408,05:323 | 377@06:398,08:29,10:203,10:248 | Ellis@08:17,08:465,10:144,10:186
+L238 [39c] tokens=0 hit=0 miss=0 :: | 46 | 1806年断点CI印成1805 | M1原文错误 | 不擅改 |
+L239 [57c] tokens=4 hit=4 miss=0 :: | 47 | C1先验 | P6 0.45–0.60 vs F1 0.05–0.15 | 只属路径B；分歧保留 |
+   HIT : 0.45@02b:422 | 0.60@02a:289,10:230 | 0.05@02b:587,03:42,08:49,10:229 | 0.15@10:416
+L240 [57c] tokens=6 hit=6 miss=0 :: | 48 | C9先验 | P6 0.35–0.55 vs F1 0.10–0.30 | 取0.20–0.45 |
+   HIT : 0.35@03:410,05:363,10:484 | 0.55@02b:221 | 0.10@02a:88,02b:644,02b:663,03:422 | 0.30@02a:91,02b:422,10:416 | 0.20@02a:287,03:398,10:326 | 0.45@02b:422
+L241 [58c] tokens=3 hit=3 miss=0 :: | 49 | M-B3 | P6 0.45–0.60 vs 本书0.40–0.60（1805受辱） | 取本书带 |
+   HIT : 0.45@02b:422 | 0.60@02a:289,10:230 | 0.40@02b:627,02b:629,08:483,10:286
+L242 [71c] tokens=3 hit=3 miss=0 :: | 50 | 引擎delta_prussia_takeover_mid | 6.0 vs 注释4.5–7.5万 | 未定案，只影响B3v2 |
+   HIT : 6.0@01:135,10:234,10:237,10:422 | 4.5@02a:96,02b:585,03:172,05:513 | 7.5@01:132,01:162,02a:107,02a:185
+L243 [32c] tokens=0 hit=0 miss=0 :: | 51 | 1813年汉堡法军撤出日期 | 两说 | 并列 |
+L244 [35c] tokens=2 hit=2 miss=0 :: | 52 | 意大利征兵 | 155k vs 200k＋ | 并列 |
+   HIT : 155@02b:593,10:116,10:351 | 200@00:27,00:127,00:129,00:131
+L245 [28c] tokens=0 hit=0 miss=0 :: | 53 | 磨坊税 | 撤销 vs 减半 | 并列 |
+L246 [40c] tokens=0 hit=0 miss=0 :: | 54 | 英国人口序列 | GB／UK边界断点 | 不直接用GBR长序列 |
+L247 [34c] tokens=0 hit=0 miss=0 :: | 55 | 敖德萨1813 | 网站缺值渲为零 | 不当观测零 |
+L249 [3c] tokens=0 hit=0 miss=0 :: ---
+L251 [14c] tokens=0 hit=0 miss=0 :: ## 附录三　红队意见处置表
+L253 [21c] tokens=0 hit=0 miss=0 :: 十项实质异议的处置见导论第四节。局部修正：
+L255 [17c] tokens=0 hit=0 miss=0 :: | 项 | 红队意见 | 处置 |
+L256 [13c] tokens=0 hit=0 miss=0 :: |---|---|---|
+L257 [44c] tokens=3 hit=3 miss=0 :: | P4数字误读 | 195m与.902/.876本身匹配 | 已纠正（第六十三章） |
+   HIT : 195@01:176,01:178,01:179,02b:602 | 902@02a:187,02b:213,02b:215,06:370 | 876@02b:221,02b:229,02b:610,05:299
+L258 [55c] tokens=3 hit=3 miss=0 :: | 白银两口径 | SA 400–800万 vs MX 90–330万未调和 | 分列不相加（第六十七章） |
+   HIT : 400@01:160,01:181,01:183,02a:87 | 800@00:135,01:79,01:81,01:83 | 330@01:195,02a:262,03:95,03:242
+L259 [35c] tokens=1 hit=1 miss=0 :: | Branda精度 | "两列皆0"过度精确 | 已改（第四章） |
+   HIT : Branda@01:297,10:463
+L260 [23c] tokens=0 hit=0 miss=0 :: | MAN-01 | 标签互换 | 已改读 |
+L261 [78c] tokens=2 hit=2 miss=0 :: | 独立束数 | R1／R2同国；US／MX／X1共用白银材料；Ellis／Heckscher转引 | T1定理改为"各至少两束独立支撑"（第四十八章） |
+   HIT : Ellis@08:17,08:465,10:144,10:186 | Heckscher@02a:349,02a:362,03:428,04:461
+L262 [36c] tokens=1 hit=0 miss=1 :: | "普遍准入" | 非当时法方提案 | 标MODEL（第五十一章） |
+   MISS: MODEL
+L263 [37c] tokens=0 hit=0 miss=0 :: | K3手填 | 引擎无签约状态 | 标手填，给可核代理（第五十二章） |
+L264 [21c] tokens=0 hit=0 miss=0 :: | 引文抽核8处 | 全部命中 | — |
+L265 [48c] tokens=0 hit=0 miss=0 :: | 复算P2／P8／P4、F2／B2 | 相符 | 复算正确不消除世界线问题（本书全盘接受） |
+L266 [67c] tokens=1 hit=1 miss=0 :: | 未复跑P7三脚本、未回源D2／Q1／X2、未运行E | — | E由本书作者运行；P7未重跑（本书以骨架年表替代338条装配） |
+   HIT : 338@02b:661,10:514
+L268 [3c] tokens=0 hit=0 miss=0 :: ---
+L270 [11c] tokens=0 hit=0 miss=0 :: ## 附录四　数字总表
+L272 [22c] tokens=0 hit=0 miss=0 :: | 项目 | 数值 | 性质 | 出处章 |
+L273 [17c] tokens=0 hit=0 miss=0 :: |---|---|---|---|
+L274 [35c] tokens=3 hit=3 miss=0 :: | 法军在册 | 400–550k（中心450） | 包络 | 二 |
+   HIT : 400@01:160,01:181,01:183,02a:87 | 550@01:144,02a:159,03:141,03:428 | 450@02a:333,02b:35,02b:37,02b:43
+L275 [35c] tokens=3 hit=3 miss=0 :: | 盟军在册 | 150–250k（中心200） | 包络 | 二 |
+   HIT : 150@01:160,01:303,02a:139,02a:217 | 250@01:97,01:144,02a:213,02a:335 | 200@00:27,00:127,00:129,00:131
+L276 [23c] tokens=1 hit=1 miss=0 :: | 在场率 | 0.85 | 参数 | 二 |
+   HIT : 0.85@05:351
+L277 [88c] tokens=5 hit=2 miss=3 :: | 姿态需求（千在场） | S2 540／S5 490／S6-lite 566.25／S6-max 922.25／S6-full 1,102.25 | 模型 | 二、四十八 |
+   HIT : 540@02b:460,04:69,05:222,05:360 | 490@03:320
+   MISS: 566.25 | 922.25 | 1102.25
+L278 [85c] tokens=4 hit=0 miss=4 :: | 筛查余额（千） | S2 +55／S5 +147.5／S6-lite +28.75／S6-max −122.25／S6-full −302.25 | 模型 | 二 |
+   MISS: 147.5 | 28.75 | 122.25 | 302.25
+L279 [36c] tokens=0 hit=0 miss=0 :: | 西班牙占领 | 29–36万（Oman两切片） | 史实 | 二 |
+L280 [30c] tokens=2 hit=2 miss=0 :: | 年抽人上限 | 9.8–12.7万 | 包络 | 二 |
+   HIT : 9.8@02b:593,03:172,07:184,10:248 | 12.7@02b:582
+L281 [30c] tokens=0 hit=0 miss=0 :: | 和平年征容忍 | ≤8–10万 | 裁量阈值 | 五 |
+L282 [47c] tokens=2 hit=1 miss=1 :: | 1812–13征召 | 1,527,000／十五月 | 史实（Pigeard） | 二 |
+   HIT : Pigeard@01:281
+   MISS: 1527000
+L283 [55c] tokens=4 hit=3 miss=1 :: | 1813-10-09一批到营 | 72,265/127,433＝56.71% | 史实（单批） | 二 |
+   HIT : 72265@01:43 | 127433@01:43 | 1813年10月9日@01:43
+   MISS: 56.71
+L284 [50c] tokens=2 hit=2 miss=0 :: | Rowe莱茵1806–10 | 征前逃避33.65%／入伍后逃亡3.00% | 史实 | 二 |
+   HIT : 33.65@01:45 | 3.00@01:129,01:133,01:297,02a:87
+L285 [57c] tokens=2 hit=0 miss=2 :: | 新省净供兵 | hazard6 +0.790‰／五年含训练 −0.463‰ | 制度敏感性 | 二、五十四 |
+   MISS: 0.790 | 0.463
+L286 [33c] tokens=3 hit=3 miss=0 :: | 经常收入T | 750（650／800） | 构造 | 四 |
+   HIT : 750@01:97,01:176,01:195,01:202 | 650@01:193,01:201,01:207,05:127 | 800@00:135,01:79,01:81,01:83
+L287 [46c] tokens=3 hit=3 miss=0 :: | 路径疆域重基T | S2本义724–739／路径B 714 | 本书重算 | 五十四 |
+   HIT : 724@02b:145,02b:607,02b:654,05:25 | 739@02b:91,10:194 | 714@02a:363,02b:673,03:422,08:499
+L288 [58c] tokens=6 hit=2 miss=4 :: | 战争附加成本 | 372.5m／年＝156.4＋161.7＋43.7＋10.7 | Branda复算 | 四 |
+   HIT : 10.7@02b:653,03:398,10:214 | Branda@01:297,10:463
+   MISS: 372.5 | 156.4 | 161.7 | 43.7
+L289 [38c] tokens=2 hit=1 miss=1 :: | 贡赋现金依赖 | 16.4%（剔西班牙12.4%） | 复算 | 四 |
+   HIT : 16.4@10:219
+   MISS: 12.4
+L290 [28c] tokens=1 hit=0 miss=1 :: | 和平释放 | 216.1m／年 | 复算 | 四 |
+   MISS: 216.1
+L291 [63c] tokens=8 hit=8 miss=0 :: | 陆海恒等式 | 750−300−25＝425；海195→陆230；50万×700＝350→缺120 | 恒等式 | 四 |
+   HIT : 750@01:97,01:176,01:195,01:202 | 300@01:83,01:152,01:160,01:176 | 425@10:131 | 195@01:176,01:178,01:179,02b:602 | 230@02b:39,02b:606,02b:649,03:248 | 700@01:144,01:160,01:164,01:181 | 350@01:179,02a:213,02b:649,03:85 | 120@01:160,02a:133,02a:161,02a:221
+L292 [47c] tokens=3 hit=2 miss=1 :: | Marion 1812并合地 | 预期毛342.26／净226.39 | 预期 | 四 |
+   HIT : 342.26@01:139 | Marion@01:301,01:309,03:430,03:432
+   MISS: 226.39
+L293 [28c] tokens=0 hit=0 miss=0 :: | 荷兰年金 | 78→26m | 史实 | 二十一 |
+L294 [56c] tokens=3 hit=1 miss=2 :: | 汉堡罚金 | 4,800万法郎；银行7,506,956 Mark Banco | 史实 | 二十、三十八 |
+   HIT : 4800@00:135,02a:159,03:97,03:298
+   MISS: 7506956 | Banco
+L295 [36c] tokens=1 hit=1 miss=0 :: | 承包商年净动员上限 | 6,000万–1亿 | 实测 | 三十八 |
+   HIT : 6000@02a:159,02a:165,02b:39,02b:43
+L296 [53c] tokens=2 hit=1 miss=1 :: | 白银摩擦 | ≤23.5%（1806-05）／≤62.5%（1807下半年） | 实测 | 三十八 |
+   HIT : 23.5@10:230
+   MISS: 62.5
+L297 [34c] tokens=1 hit=1 miss=0 :: | Hope合约价 | 3.75法郎／比索 | 实测 | 三十六 |
+   HIT : 3.75@02a:107,08:337
+L298 [67c] tokens=0 hit=0 miss=0 :: | 走私保费 | 莱茵1800 6%→1806–08 26%→1809 30%→1809末–1811 50% | 史实 | 三十九 |
+L299 [34c] tokens=1 hit=1 miss=0 :: | 海关人员 | 1812峰值35,000 | 史实 | 三十九 |
+   HIT : 35000@03:85,03:141,05:223,06:211
+L300 [68c] tokens=2 hit=1 miss=1 :: | 关税 | 严格15–35／执行28–38.5／税基−60至−110；保护60–90／执行14–24 | 模型 | 三十九、四十八 |
+   HIT : 110@01:69,01:79,01:160,01:249
+   MISS: 38.5
+L301 [66c] tokens=4 hit=2 miss=2 :: | 法国出口体系内比重 | 1806 58.0%／1810 74.6%／1817 33.8% | 史实（Ellis） | 五十九 |
+   HIT : 33.8@02b:135,05:323,10:130,10:131 | Ellis@08:17,08:465,10:144,10:186
+   MISS: 58.0 | 74.6
+L302 [55c] tokens=3 hit=2 miss=1 :: | Chaptal 1819 | 毛1,820m；利润10.00%；工资46.37% | 史实 | 五十九 |
+   HIT : 10.00@10:288 | Chaptal@08:254,08:479,08:495
+   MISS: 46.37
+L303 [90c] tokens=9 hit=6 miss=3 :: | 1848大陆／英工业总量比 | S0 1.17／S2 1.55–1.67／S3 1.59–1.74／S5 1.37–1.51／S6 1.22–1.27 | 包络 | 五十九 |
+   HIT : 1.17@02b:582,10:223 | 1.55@10:229 | 1.74@02b:587,10:23 | 1.37@02b:581 | 1.22@02b:588,10:300 | 1.27@10:394
+   MISS: 1.67 | 1.59 | 1.51
+L304 [45c] tokens=3 hit=3 miss=0 :: | 铁路1848 | 2,500–5,000km（中3,500） | 包络 | 五十九 |
+   HIT : 2500@02a:213,02b:468,03:121,03:131 | 5000@01:209,02a:159,02b:35,02b:37 | 3500@02a:213,03:85,03:141,03:222
+L305 [52c] tokens=1 hit=1 miss=0 :: | 战列舰体 | 1810 50／1812 72／1814 74 | 史实（Todorov） | 三 |
+   HIT : Todorov@02b:624,02b:627
+L306 [38c] tokens=0 hit=0 miss=0 :: | 1807–13下水 | ≥50艘（安特卫普18） | 逐舰表 | 三 |
+L307 [47c] tokens=1 hit=1 miss=0 :: | 1830法A12 | W84／P111；失安特卫普50／71 | 模型 | 三、六十三 |
+   HIT : 111@02a:92,02a:248,02b:15,02b:197
+L308 [90c] tokens=8 hit=8 miss=0 :: | 1830比值 | W .742/.449；P .902/.876；法P英W .902/.731；165m .769/.747；α≈.58/.56 | 模型／近似 | 六十三 |
+   HIT : 742@02a:113,02b:212,02b:640,05:382 | 449@02b:221,05:309 | 902@02a:187,02b:213,02b:215,06:370 | 876@02b:221,02b:229,02b:610,05:299 | 731@02b:229,02b:386,10:155 | 165@01:203,02b:621,04:453,05:127 | 769@02b:157,02b:221,10:166 | 747@02b:221,03:129,05:365
+L309 [44c] tokens=4 hit=4 miss=0 :: | 英A12 1830 | W 115–145／P 100–140 | 包络 | 八 |
+   HIT : 115@02b:16,02b:207,02b:448,02b:590 | 145@01:202,02a:87,02b:35,02b:37 | 100@01:69,01:79,01:81,01:125 | 140@01:160,02b:37,02b:632,02b:644
+L310 [42c] tokens=2 hit=2 miss=0 :: | 英1811 consol | 4.67%（+26.6bp） | 史实 | 七 |
+   HIT : 4.67@02a:90,02a:113,10:237,10:239 | 26.6@02a:113,08:50,10:229
+L311 [43c] tokens=2 hit=2 miss=0 :: | 英债息／收入 | 1810 33.4%／1811 34.6% | 史实 | 七 |
+   HIT : 33.4@03:41,10:288 | 34.6@02a:91,02a:101
+L312 [37c] tokens=0 hit=0 miss=0 :: | 60%探针 | 1817–23（S3零增长模型） | 模型 | 七 |
+L313 [56c] tokens=2 hit=2 miss=0 :: | 英1848工业 | S2 79–100%／S3 54–79%／S5 88–109%史实 | 包络 | 十 |
+   HIT : 100@01:69,01:79,01:81,01:125 | 109@02a:237,02b:27,05:42,05:379
+L314 [40c] tokens=1 hit=1 miss=0 :: | 爱尔兰 | 法占需33–66k；汲取≤£5–5.5m | 模型 | 十二 |
+   HIT : 5.5@02a:165,02b:590,03:55,04:205
+L315 [56c] tokens=4 hit=4 miss=0 :: | 俄军1812 | 在册~60万／一线24.2万／Riehn 488k总、428k入战 | 史实 | 十五 |
+   HIT : 24.2@03:79 | 488@02b:673,06:193,07:270,10:38 | 428@05:331,10:25 | Riehn@03:404
+L316 [40c] tokens=2 hit=2 miss=0 :: | 俄庄园损失 | S2中心5.3%／S3中心22.8% | 模型 | 十四 |
+   HIT : 5.3@02b:587,03:35,03:43,03:410 | 22.8@03:35,03:43,08:50,10:236
+L317 [41c] tokens=0 hit=0 miss=0 :: | 冷和平半衰期 | 4年（史实）→8–12年（关税容忍） | 裁量 | 十三 |
+L318 [70c] tokens=4 hit=3 miss=1 :: | 华沙 | 1812 74,722（部长会议）／108k（Kukiel全口径）；被占1813–15提取2.5亿zł | 史实 | 十六 |
+   HIT : 74722@03:129 | 108@01:285,02b:22,02b:212,02b:225 | 2.5@01:57,01:97,01:117,01:134
+   MISS: Kukiel
+L319 [51c] tokens=3 hit=3 miss=0 :: | 奥1809财政 | 收入31.1／支出86.3／军费66.8（百万CM盾） | 页图 | 十七 |
+   HIT : 31.1@01:205,03:165 | 86.3@03:165 | 66.8@03:165
+L320 [34c] tokens=1 hit=1 miss=0 :: | 申布伦限军 | 150,000（非五万） | 史实 | 十七 |
+   HIT : 150000@03:153,10:269
+L321 [41c] tokens=2 hit=2 miss=0 :: | 普限军 | 42,000十年期；三要塞法军10,000 | 史实 | 十八 |
+   HIT : 42000@03:97,03:208,04:453 | 10000@01:81,05:186,10:266,10:268
+L322 [43c] tokens=4 hit=4 miss=0 :: | 残普1848 | 620–810万人；常备5.6–9.7万 | 算术 | 十八 |
+   HIT : 620@00:131,01:65,03:228,03:306 | 810@00:7,00:123,01:9,01:45 | 5.6@02a:94,02a:119,02a:187,02a:189 | 9.7@02a:203,02b:237,03:228,10:296
+L323 [50c] tokens=0 hit=0 miss=0 :: | 完整普鲁士1848（路径B） | 常备8–12万／动员16–24万 | 本书裁量 | 六十六 |
+L324 [49c] tokens=4 hit=4 miss=0 :: | 奥强于普 | S2本义0.70–0.85／路径B 0.45–0.60 | 裁量 | 六十六 |
+   HIT : 0.70@02a:87,02b:587,10:234 | 0.85@05:351 | 0.45@02b:422 | 0.60@02a:289,10:230
+L325 [47c] tokens=3 hit=3 miss=0 :: | 南德 | 1812入俄巴33,000／符15,800（生还300） | 史实 | 十九 |
+   HIT : 33000@03:242,05:130 | 15800@03:242 | 300@01:83,01:152,01:160,01:176
+L326 [49c] tokens=2 hit=2 miss=0 :: | 荷兰骚动 | 580＋起、80＋起义、法军均15,000 | 史实（Joor） | 二十一 |
+   HIT : 580@03:242,03:310,05:325,05:333 | 15000@02b:665,03:153,03:312,05:279
+L327 [63c] tokens=4 hit=2 miss=2 :: | 意大利王国 | 征兵155,000／军70,000／俄役27,000生还~1,000 | 史实（Grab） | 二十三 |
+   HIT : 27000@02b:183,03:85,08:419 | 1000@01:79,01:81,01:125,01:144
+   MISS: 155000 | 70000
+L328 [76c] tokens=7 hit=7 miss=0 :: | 意大利分支 | C 0.55–0.65／B 0.35–0.45（S2本义）0.20–0.30（B）／A 0.10–0.20 | 裁量 | 六十五 |
+   HIT : 0.55@02b:221 | 0.65@01:57,02b:219,10:410 | 0.35@03:410,05:363,10:484 | 0.45@02b:422 | 0.20@02a:287,03:398,10:326 | 0.30@02a:91,02b:422,10:416 | 0.10@02a:88,02b:644,02b:663,03:422
+L329 [53c] tokens=1 hit=1 miss=0 :: | 那不勒斯 | 税57→73m里拉；1812军费80%；卡拉布里亚5,421匪 | 史实 | 二十四 |
+   HIT : 5421@04:319,04:477
+L330 [40c] tokens=1 hit=0 miss=1 :: | 西班牙vales | 18.93亿rv；贴水63% | 史实 | 二十六 |
+   MISS: 18.93
+L331 [58c] tokens=7 hit=7 miss=0 :: | 西班牙终局 | 0.40–0.55／0.30–0.45／0.05–0.15／≤0.02 | 裁量 | 六十四 |
+   HIT : 0.40@02b:627,02b:629,08:483,10:286 | 0.55@02b:221 | 0.30@02a:91,02b:422,10:416 | 0.45@02b:422 | 0.05@02b:587,03:42,08:49,10:229 | 0.15@10:416 | 0.02@10:225,10:400
+L332 [45c] tokens=1 hit=1 miss=0 :: | 纳瓦拉 | 榨取1.52亿rv＝五年产出40%＋ | 史实（Tone） | 二十七 |
+   HIT : 1.52@02a:293,04:99
+L333 [58c] tokens=5 hit=5 miss=0 :: | 洪塔构成 | 585人：市政23.9%／教士23.6%／军官18.3% | 史实（Fraser） | 二十七 |
+   HIT : 585@03:55,04:91,05:408,06:359 | 23.9@04:91,10:135 | 23.6@04:91 | 18.3@04:91 | Fraser@04:445
+L334 [45c] tokens=2 hit=2 miss=0 :: | 布拉干萨出海 | 8,000–15,000人、八千万克鲁扎多 | 史实 | 二十八 |
+   HIT : 8000@00:135,01:79,01:81,01:183 | 15000@02b:665,03:153,03:312,05:279
+L335 [41c] tokens=2 hit=2 miss=0 :: | 奥斯曼新军 | 22,685＋1,590（1806） | 史实 | 二十九 |
+   HIT : 22685@06:23 | 1590@01:79,02b:603,06:23
+L336 [41c] tokens=2 hit=2 miss=0 :: | 埃及征兵 | 1830年代130,000 | 史实（Fahmy） | 三十 |
+   HIT : 130000@03:141,08:419,10:269 | Fahmy@06:99,06:103,06:109,06:113
+L337 [58c] tokens=3 hit=1 miss=2 :: | 波斯军1808 | 骑144,000／步60,000／炮兵实际不存在 | 史实（Gardane） | 三十一 |
+   HIT : 60000@02b:43,10:264,10:265,10:270
+   MISS: 144000 | Gardane
+L338 [47c] tokens=2 hit=2 miss=0 :: | 英对波斯 | 200,000 tomans≈£150,000／年 | 史实 | 三十一 |
+   HIT : 200000@10:265,10:271,10:274 | 150000@03:153,10:269
+L339 [52c] tokens=1 hit=0 miss=1 :: | EIC | 贸易利润1793–1812累计£6.29m；债£8m→£32m | 史实 | 三十二 |
+   MISS: 6.29
+L340 [55c] tokens=3 hit=3 miss=0 :: | 印度远征方案 | 1808-06-10：56舰、19,600兵、10,600水手 | 史实 | 三十三 |
+   HIT : 19600@06:261 | 10600@06:261 | 1808年6月10日@06:261
+L341 [47c] tokens=2 hit=0 miss=2 :: | 美国转口 | 1806 $60.28m→1808 $12.99m | 史实 | 三十四 |
+   MISS: 60.28 | 12.99
+L342 [62c] tokens=6 hit=6 miss=0 :: | 英美战争概率 | S1 0.05–0.12／S2 0.30–0.45／S3 0.55–0.75 | 裁量 | 三十四 |
+   HIT : 0.05@02b:587,03:42,08:49,10:229 | 0.12@03:408,08:499,10:331,10:469 | 0.30@02a:91,02b:422,10:416 | 0.45@02b:422 | 0.55@02b:221 | 0.75@02b:219,05:354
+L343 [50c] tokens=2 hit=2 miss=0 :: | 墨西哥白银法国实得 | 90–330万pesos／年（中枢190万） | 四因子 | 三十六 |
+   HIT : 330@01:195,02a:262,03:95,03:242 | 190@02a:173,02b:39,02b:448,02b:635
+L344 [43c] tokens=2 hit=1 miss=1 :: | 补贴条约要求 | 960–1,920万pesos／年 | 史实换算 | 三十六 |
+   HIT : 960@02a:352,05:62,05:393,06:261
+   MISS: 1920
+L345 [49c] tokens=4 hit=2 miss=2 :: | 加勒比在场 | 5,000–8,000；在册6,250–12,308 | 模型 | 三十五 |
+   HIT : 5000@01:209,02a:159,02b:35,02b:37 | 8000@00:135,01:79,01:81,01:183
+   MISS: 6250 | 12308
+L346 [42c] tokens=2 hit=1 miss=1 :: | 甜菜糖1813 | 实产1,100,000kg／158厂 | 史实 | 四十 |
+   HIT : 158@02b:644,02b:661,03:242,05:62
+   MISS: 1100000
+L347 [47c] tokens=2 hit=1 miss=1 :: | 蒸汽 | 英1830 160,000hp；法1839 33,000 | 史实 | 四十 |
+   HIT : 33000@03:242,05:130
+   MISS: 160000
+L348 [39c] tokens=3 hit=3 miss=0 :: | 纱锭 | 帝国≈133万 vs 英460–500万 | 史实 | 四十 |
+   HIT : 133@02b:601,02b:661,03:95,04:83 | 460@02a:101,02b:590,02b:647,05:361 | 500@01:130,01:132,01:134,01:136
+L349 [42c] tokens=3 hit=2 miss=1 :: | Tugendbund | ≤700；1809名录620 | 史实 | 四十一 |
+   HIT : 700@01:144,01:160,01:164,01:181 | 620@00:131,01:65,03:228,03:306
+   MISS: Tugendbund
+L350 [47c] tokens=2 hit=1 miss=1 :: | 宪章请愿 | 1842近350万；1848点验1,975,496 | 史实 | 四十一 |
+   HIT : 350@01:179,02a:213,02b:649,03:85
+   MISS: 1975496
+L351 [53c] tokens=3 hit=3 miss=0 :: | 斯特拉斯堡河运 | 1809–11年2.4–2.7万公吨 | 史实（Ellis附录D） | 五十九 |
+   HIT : 2.4@02a:87,02a:101,02a:186,02b:448 | 2.7@01:41,02a:86,02a:185,02a:186 | Ellis@08:17,08:465,10:144,10:186
+L352 [50c] tokens=2 hit=0 miss=2 :: | 敖德萨小麦 | 1815 171,708／1816 188,259公吨 | 史实 | 四十二 |
+   MISS: 171708 | 188259
+L353 [36c] tokens=0 hit=0 miss=0 :: | 内圈整合 | 7–12年机器期；认同不交割 | 判定 | 四十三 |
+L354 [44c] tokens=0 hit=0 miss=0 :: | Q1 | 22/35大起义；5/35持续抵抗（全部R∧O） | 编码 | 四十五 |
+L355 [75c] tokens=6 hit=1 miss=5 :: | Q2净兵 | L −0.04至+5.32k／M −7.10至+2.19k／H −26.73至−6.03k每百万人第10年 | 模型 | 四十六 |
+   HIT : 0.04@02a:295,10:325,10:326,10:331
+   MISS: 5.32 | 7.10 | 2.19 | 26.73 | 6.03
+L356 [40c] tokens=2 hit=2 miss=0 :: | 提尔西特债价 | 法+12.38%／英−2.15% | 描述 | 四十七 |
+   HIT : 12.38@02a:288 | 2.15@02a:288,02a:305
+L357 [89c] tokens=8 hit=8 miss=0 :: | P2联合账 | 甲+50.4k／8.5m；乙含贝格+33.7k／20.9m；乙四地＋外圈−116.7k／174.2m；丙−479.8k／532.6m | 模型 | 五十四 |
+   HIT : 50.4@07:179 | 8.5@01:103,02b:464,03:163,04:141 | 33.7@07:181 | 20.9@07:181 | 116.7@07:183 | 174.2@07:183 | 479.8@07:184 | 532.6@07:184
+L358 [52c] tokens=3 hit=0 miss=3 :: | P2乙乐观反例 | 需求571,650；余23,598；军费余19.23m | 模型 | 五十六 |
+   MISS: 571650 | 23598 | 19.23
+L359 [40c] tokens=2 hit=0 miss=2 :: | P2闭合案 | 434,286在册；余17,093 | 模型 | 五十四 |
+   MISS: 434286 | 17093
+L360 [53c] tokens=1 hit=1 miss=0 :: | 路径E引擎 | 1806–07财政−；1808后可得551；1812余3m | 本书补算 | 五十 |
+   HIT : 551@02b:601,05:146,06:416,07:180
+L361 [56c] tokens=3 hit=3 miss=0 :: | C类节点乘积 | E 9.6e-5–3.0e-3／B 2.9e-6–2.9e-4 | 序数比较 | 五十 |
+   HIT : 9.6@02a:189,02a:313,02b:586,03:41 | 3.0@01:129,01:133,01:297,02a:87 | 2.9@01:205,02a:88,02a:94,02b:312
+L362 [51c] tokens=4 hit=2 miss=2 :: | 条件成功 | P6 0.30–0.50／P8 J 0.063–0.404 | 裁量 | 五十三 |
+   HIT : 0.30@02a:91,02b:422,10:416 | 0.50@10:233
+   MISS: 0.063 | 0.404
+L363 [54c] tokens=4 hit=0 miss=4 :: | 无条件成功 | P6 0.018–0.090／P8 0.0038–0.0727 | 裁量 | 五十三 |
+   MISS: 0.018 | 0.090 | 0.0038 | 0.0727
+L364 [61c] tokens=5 hit=4 miss=1 :: | O1848 | P8 0.17–4.44%（中1.27%）；D\|C 0.444–0.611 | 裁量 | 六十二 |
+   HIT : 0.17@08:465,10:229,10:329,10:394 | 4.44@10:394 | 1.27@10:394 | 0.444@02b:590
+   MISS: 0.611
+L365 [40c] tokens=0 hit=0 miss=0 :: | 王朝存续1848 | 40–55%；行政国家≥70% | 裁量 | 六十 |
+L366 [78c] tokens=2 hit=2 miss=0 :: | 拿破仑寿限 | 1820s死40–50%／1830s 30–35%／1840s＋15–25%；活到1829≈0.50–0.65 | 裁量 | 一、五 |
+   HIT : 0.50@10:233 | 0.65@01:57,02b:219,10:410

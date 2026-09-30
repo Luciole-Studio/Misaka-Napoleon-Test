@@ -1,0 +1,1 @@
+F3 replication (French stock-flow, exogenous F3 launch schedule, no budget, no UK): 156 rows compared, worst |dH|=4.9e-04 (rounding), A12 exact; PASS

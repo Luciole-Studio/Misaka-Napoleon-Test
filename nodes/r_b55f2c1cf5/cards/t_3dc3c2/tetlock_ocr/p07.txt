@@ -1,0 +1,94 @@
+8 P. E. TETLOCK AND A. BELKIN
+
+of the Cuban missile crisis. A more fruitful way to proceed is to ask what
+could have worked out differently if we introduce easily imagined variations
+into the causal matrix of history. Might the murderous tyranny of Stalin
+have been averted if Trotsky had not gone duck hunting, caught a cold, and
+missed a key politburo meeting or if Bukharin had been a savvier politician?
+Might World War IL have been nipped in the bud if British opponents of
+appeasement had had one or two additional cabinet seats during the Munich
+crisis? And might World War III have been triggered in October 1962 if
+Kennedy had followed the advice of his more hawkish advisors and imme-
+diately ordered air strikes against Soviet missile sites in Cuba?
+
+‘These idiographic counterfactuals are not idle exercises in social-science
+fiction; they are a useful corrective to simple deterministic forms of theory.
+They compel us either to abandon determinism by acknowledging the role of
+chance or to abandon simplicity by acknowledging that factors outside the
+purview of our deterministic models—viruses, skillful or inept leadershi
+group dynamics, a well-timed or ill-timed persuasive argument—can de-
+cisively alter the course of events.
+
+Beyond their heuristic contribution to social science theory, idiographic
+counterfactuals are an integral part of the process of passing moral judgment
+on individual leaders and even entire political systems such as Marxism-
+Leninism. We rely on them in attributing responsibility (Hart 1961). Would
+‘a reasonable person, confronted by these circumstances, have acted differ-
+ently? Should a particular leader be praised for performance above the norm
+(spectacular prescience or courage) or condemned for performance below
+the norm (stubborn refusal to recognize trends apparent to others or cow-
+ardly failure to protest immoral conduct)? Neville Chamberlain, John Ken-
+nedy, Nikita Khrushchev, and Lyndon Johnson are all, in a sense, in the
+docket with their reputations as wise leaders hanging in the balance on coun-
+terfactual judgments of what they could or should have done at certain junc~
+tures in history.
+
+2. Nomothetic Theory-Testing
+
+Whereas idiographic investigators are interested in conceivable causes that
+they can readily imagine taking on different values within a specific histori-
+cal context, nomothetic investigators usually show little or no concern for
+the plausibility of switching the hypothesized counterfactual antecedent on
+or off in any given context. From this perspective, counterfactuals are the
+inevitable logical by-products of applying the hypothetico-deductive method
+to an historical (nonexperimental) discipline such as world politics. When-
+ever we combine a well-defined Hempelian covering law (say, relating
+‘money supply to inflation) with well-defined antecedent conditions (the Rus-
+
+COUNTERFACTUAL THOUGHT EXPERIMENTS 9
+
+sian economy in January 1992), we can deduce specific counterfactual con-
+clusions (e.g., if the Russian central bank had adopted this or that monetary
+policy, then, ceteris paribus, inflation would have taken on this or that
+value). Note that these counterfactuals are in no way constrained by the
+historical plausibility of the Russian central bank adopting one or another
+policy. The counterfactual “predictions” follow from the context-free logic
+‘of macroeconomic theory, not from the context-bounded logic of what was
+psychologically or politically possible at that juncture in Russian history.
+Adopting Fearon’s (Chapter 2) terminology, these nomothetic counterfac-
+tuals invoke miracle causes. Even if our theory requires us to posit an ex-
+‘tremely implausible hypothetical world, we do what our theory tells us to
+do, The goal is not historical understanding; rather, itis to pursue the logical
+implications of a theoretical framework. For instance, Kiser and Levi (Chap-
+ter 8) note that influential sociological theories of revolution imply that if
+there had been a large, educated middle class in the France of 1789 or in the
+Russia of 1917, revolution would not have occurred, Russett’s (Chapter 7)
+democratic-peace hypothesis implies that if all states in the twentieth century
+had been democracies, war would have been less frequent. Keohane’s
+(1984) theoretical work on regimes claims that if international regimes did
+not exist, there would be markedly less international cooperation. Waltz’s
+(1979) structural neorealism implies that if we transformed a multipolar state
+system (e.g., pre-World War I Europe) into a bipolar one, the stability of
+the system would have increased
+
+What makes these counterfactuals anything more than dogmatic reasser-
+tions of faith in a theory that stipulates “cause x facilitates outcome y and, in
+the absence of cause x and all other things being equal, the likelihood of y
+diminishes by some amount”? A fuller answer to this question emerges in
+our later discussion of the statistical and projectability tests of counterfac-
+tuals. For now, it must suffice to note the root difficulty: namely, history is a
+terrible teacher. Key events occur only once, whereas for purposes of valid
+causal inference we would like to rerun history many times and to examine
+the resulting distribution of outcomes in contingency tables that reveal how
+strongly causes and effects covary. But time-machine experimentation of
+this sort is impossible, so we are stuck with the covariation data available in
+the real world (a world in which the numbers of democratic states and wars
+are both constants). We then have to rely on the imperfect statistical means
+at our disposal to estimate the degree to which democracy inhibits war,
+controlling as best we can for confounding variables. From the Dawesian
+perspective (Commentary 3), the democratic-peace counterfactual can be
+only as true as the covariation data in the real-world contingency tables
+permit. In King, Keohane, and Verba’s (1994) framework, there is addi-
+tional latitude for learning about the truth-status of counterfactuals (see also
+Chapter 7, Russett). As good theorists, it is incumbent upon us to go beyond
+

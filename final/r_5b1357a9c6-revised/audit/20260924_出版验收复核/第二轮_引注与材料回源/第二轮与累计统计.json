@@ -1,0 +1,26 @@
+{
+  "decision": "仍未通过全部验收；本轮审计登记，未修改书稿",
+  "active_conclusion_findings": 39,
+  "withdrawn_conclusion_findings": [
+    "M011"
+  ],
+  "previous_citation_instances": 47,
+  "new_inline_citation_instances": 53,
+  "new_citation_source_groups": 35,
+  "current_citation_instances": 100,
+  "formal_note_instances": 42,
+  "inline_instances": 58,
+  "inline_candidates_read": 112,
+  "inline_previously_recorded": 5,
+  "inline_not_newly_confirmed": 54,
+  "long_quotation_candidates_read": 89,
+  "quotation_or_legal_literal_contexts": 9,
+  "quotation_cases_linked_to_citation_defects": 3,
+  "material_groups": 10,
+  "new_material_groups": 3,
+  "structural_findings": 5,
+  "new_terminology_findings": 1,
+  "semantic_exhaustiveness": false,
+  "limits": "未逐一读完所有下载原著/缓存、未完成526数字段与1787数字候选及702未完事项的全部人工判读；未把物理覆盖当语义覆盖。",
+  "count_rule": "不同类别与来源组存在交叉，不相加为独立错误总数或错误率；100是记录处数，不是100篇错误文献。"
+}

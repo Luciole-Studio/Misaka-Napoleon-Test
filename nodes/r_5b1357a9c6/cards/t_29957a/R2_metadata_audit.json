@@ -1,0 +1,16 @@
+{
+  "present": {
+    "units": "per-row in R2_series.csv; unknown currency explicitly segregated",
+    "frequency": "annual or declared intervals",
+    "seasonal_adjustment": "NSA / not applicable",
+    "real_or_nominal": "per-row price_basis; never aggregate unknown currency",
+    "base_year": "per-row;1807 terms of trade;none for nominal money;conditional no-blockade=100",
+    "source": "SOURCES.md plus explicitly hypothetical MODEL rows",
+    "source_url": "per-source SOURCES.md",
+    "retrieved_at": "2026-09-23",
+    "vintage": "frozen captured versions; read ranges in notes"
+  },
+  "missing": {},
+  "GATE": "✅ 口径元数据齐全",
+  "note": "宏观数据口径不透明是审稿前看不出、审稿后被毙的错误来源。季调/名义实际/基期/vintage 是四大致命项。"
+}

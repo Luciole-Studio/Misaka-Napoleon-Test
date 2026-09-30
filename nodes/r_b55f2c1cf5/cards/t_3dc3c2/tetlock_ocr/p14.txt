@@ -1,0 +1,97 @@
+2 P. E. TRTLOCK AND A. BELKIN
+
+the Cuban missile crisis, Lebow and Stein (Chapter 5) note that liberal “revi-
+sionists . . . provide no compelling justification for their expectation that
+had Kennedy made a secret overture to Khrushchev before choosing the
+blockade, Khrushchev would have responded positively.” It is just as plaus-
+ible that he would have stood firm and accelerated the construction of the
+missile sites—as the Soviet military in Cuba did initially in response to the
+blockade. Although some liberal revisionists do advance the connecting-
+principle rationale that it would have been easier for Khrushchev to back
+down in the absence of a public confrontation, they cannot rebut the coun-
+terargument that Khrushchev needed a serious confrontation to justify a
+withdrawal to hard-liners in the politburo. They cannot do so because they
+lack a sound basis for specifying when the Soviet political leadership would
+hhave responded in an accommodative or confrontational fashion.
+
+‘Conservative revisionists have similar problems. They are fond of coun-
+terfactuals in which a president who displayed greater resolve prevented the
+missile crisis of 1962. In this view, Khrushchev doubted Kennedy's resolve
+for two reasons: the presidents poor performance, and Khrushchev’s view
+‘of Americans as “too soft, to0 liberal, and too rich to fight.” The counterfac~
+tual hypothesizes that Khrushchev would not have sent missiles to Cuba if
+Kennedy had displayed greater resolve at the Bay of Pigs, at the Vienna
+summit, and in Berlin. It does not specify, however, how presidential dis-
+plays of resolve would have altered Khrushchev’s view of the American
+people. Although Khrushchev might have revised his alleged estimate of the
+‘American public had it enthusiastically supported a hard-line strategy, it is
+also plausible that had Kennedy committed American forces to the Bay of
+Pigs, he might have embroiled his administration in a politically divisive and
+militarily costly quagmire that only reinforced Khruschchev's view of Amer-
+icans. Here again, no compelling political logic connects antecedent to con-
+sequent.
+
+The complexity of the connecting principles underlying counterfactual ar-
+‘guments creates plenty of opportunities for running afoul of the cotenability
+standard (Goodman 1983; Elster 1978). Consider, for example, one part of
+Jon Elster’s (1978) critique of Robert Fogel’s (1964) classic counterfactual
+that “if the railroads had not existed, the American economy in the nine-
+teenth century would have grown only slightly more slowly than it actually
+did.” Elster argues that itis nonsensical to postulate as a supportive connect
+ing principle that the internal combustion engine would have been invented
+carlier in the America without railroads because the postulate presupposes a
+theory of technical innovation that undercuts the original antecedent. If we
+have a theory of innovation that requires the invention of cars fifty years
+carlier, why does it not also require the invention of railroads? (Of course,
+Fogel’s core counterfactual claim concerning the limited economic impact of
+railroads may still be correct even without speeding up the invention of
+automobiles. It rests on complex comparisons of the actual world with an
+
+COUNTERFACTUAL THOUGHT EXPERIMENTS. 2B
+
+elaborate counterfactual model of  nineteenth-century American economy
+that relied on waterways instead of railroads.)
+
+In a similar spirit, Lars-Erik Cederman (Chapter 11) criticizes John
+Mueller’s (1989) claim concerning the “irrelevance” of nuclear weapons.
+Mueller constructs a counterfactual non-nuclear scenario to demonstrate that
+nuclear weapons did not contribute to the postwar peace. Cederman notes
+that “the problem with Mueller’s account is that he explicitly traces postwar
+history as it actually happened, including the Cuban missile crisis, while
+merely subtracting nuclear technology.” This procedure illustrates the perils
+of superficially rewriting history. It is not at all clear that cotenability ob-
+tains between the counterfactual antecedent of a non-nuclear world and any
+connecting principle that posits the occurrence of the Cuban missile crisis in
+1962. Why would the Soviets go to all the trouble of placing conventionally
+armed intermediate-range missiles in Cuba? Why take so large a risk for so
+small an advantage? There is something odd about the hypothetical world
+that Mueller created,
+
+‘The two standards considered so far—logical clarity and cotenability—
+are helpful for screening out ambiguous and oxymoronic counterfactuals;
+purely formal (content-free) standards are not helpful, however, for screen-
+ing out counterfactuals that invoke bizarre antecedents or connecting princi-
+ples. What, for example, should we make of the suggestion that “if Napo-
+Jeon had possessed a Stealth bomber, he would have won the Battle of
+Waterloo,” or that “if Oswald did not shoot Kennedy, then someone else
+would have done so, because Kennedy was astrologically fated to die by
+assassination”? An adequate normative theory of counterfactual inference
+should give us principled grounds for rejecting conjectures of this sort. We
+see four ways of preempting such nonsense and we take up each in turn,
+
+3. Consistency with Well-Established Historical Facts
+
+Several scholars have proposed a “minimal-rewrite-of-history” rule designed
+to eliminate far-fetched counterfactuals that radically transform the temporal
+landscape (cf. Hawthorn 1991, 158; Weber 1949). They propose that, in
+Principle, possible worlds should: (a) start with the real world as it was
+otherwise known before asserting the counterfactual; (b) not require us to
+‘unwind the past and rewrite long stretches of history; (c) not unduly disturb
+what we otherwise know about the original actors and their beliefs and
+goals. As noted earlier, these guidelines represent ground rules for assessing
+historical “possibility-hood.” Operationally, investigators might agree to
+constrain conterfactual speculation in a host of more specif
+sidering as antecedents only those policy options that participants themselves
+considered and (ideally) almost accepted, by giving extra weight to counter-
+factual antecedents that “undo” unusual events that appear to have made the
+

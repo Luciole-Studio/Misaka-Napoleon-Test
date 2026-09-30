@@ -1,0 +1,42 @@
+[
+  {
+    "script": "t_c98c24/p2_joint_model.py",
+    "exit_code": 0,
+    "changed_existing_csv": [],
+    "new_csv": [],
+    "stdout": "A_inner_1810 population_m 38.25 civil 17600.0 gend 13840 demand 544600 phys_bal 50400 budget_gap_Mfr 8.5\nB_select_no_Berg_1825 population_m 39.476 civil 18240.0 gend 14631 demand 551100 phys_bal 43900 budget_gap_Mfr 13.8\nB_select_Berg_1825 population_m 40.476 civil 18880.0 gend 15181 demand 558600 phys_bal 33700 budget_gap_Mfr 20.9\nB_full_four_1815 population_m 51.35 civil 25600.0 gend 24110 demand 622350 phys_bal -70014 budget_gap_Mfr 135.7\nB_full_historical_outer_1815 population_m 56.676 civil 28480.0 gend 29031 demand 662250 phys_bal -116714 budget_gap_Mfr 174.2\nC_province_pressure_1830 population_m 77.317 civil 39680.0 gend 64533 demand 990352 phys_bal -479746 budget_gap_Mfr 532.6\nhistorical_direct_1812_scale_only population_m 43.576 civil 20480.0 gend 18761 demand 584500 phys_bal 3700 budget_gap_Mfr 47.0\n",
+    "stderr": ""
+  },
+  {
+    "script": "t_1f7db4/analyze_q2.py",
+    "exit_code": 0,
+    "changed_existing_csv": [],
+    "new_csv": [],
+    "stdout": "ls_min': 900.0, 'annual_arrivals_max': 2250.0, 'deployable_stock_min': 2231.7, 'deployable_stock_max': 6190.2, 'security_frontier_requirement_min': 4000, 'security_frontier_requirement_max': 9333.3, 'net_stock_min': -7101.6, 'net_stock_max': 2190.2}\n{'profile': 'M', 'year_since_annexation': 20, 'annual_arrivals_min': 975.0, 'annual_arrivals_max': 2250.0, 'deployable_stock_min': 2682.4, 'deployable_stock_max': 6190.2, 'security_frontier_requirement_min': 4000, 'security_frontier_requirement_max': 8000, 'net_stock_min': -5317.6, 'net_stock_max': 2190.2}\n{'profile': 'H', 'year_since_annexation': 5, 'annual_arrivals_min': 225.0, 'annual_arrivals_max': 1210.0, 'deployable_stock_min': 482.2, 'deployable_stock_max': 2755.5, 'security_frontier_requirement_min': 15000.0, 'security_frontier_requirement_max': 31250.0, 'net_stock_min': -30767.8, 'net_stock_max': -12244.5}\n{'profile': 'H', 'year_since_annexation': 10, 'annual_arrivals_min': 330.0, 'annual_arrivals_max': 1650.0, 'deployable_stock_min': 771.0, 'deployable_stock_max': 3966.0, 'security_frontier_requirement_min': 10000.0, 'security_frontier_requirement_max': 27500.0, 'net_stock_min': -26729.0, 'net_stock_max': -6034.0}\n{'profile': 'H', 'year_since_annexation': 20, 'annual_arrivals_min': 540.0, 'annual_arrivals_max': 1650.0, 'deployable_stock_min': 1348.8, 'deployable_stock_max': 4539.5, 'security_frontier_requirement_min': 10000, 'security_frontier_requirement_max': 20000, 'net_stock_min': -18651.2, 'net_stock_max': -5460.5}\n",
+    "stderr": ""
+  },
+  {
+    "script": "t_24b942/build_p4.py",
+    "exit_code": 0,
+    "changed_existing_csv": [],
+    "new_csv": [],
+    "stdout": "annual rows 96 snapshots 24 stress 18 all identity checks pass\nW 1815 H 86.86 127.5 A12 65 115.0 T 0.6623 E 0.3572\nW 1820 H 101.144 135.0 A12 78 122.5 T 0.7284 E 0.4161\nW 1825 H 105.409 142.5 A12 81 130.0 T 0.7192 E 0.4201\nW 1830 H 108.71 142.5 A12 84 130.0 T 0.7417 E 0.4487\nP 1815 H 86.86 127.5 A12 65 115.0 T 0.6623 E 0.3572\nP 1820 H 111.903 135.0 A12 84 112.5 T 0.8059 E 0.5475\nP 1825 H 123.091 142.5 A12 96 120.0 T 0.8398 E 0.6705\nP 1830 H 132.213 142.5 A12 111 120.0 T 0.902 E 0.8756\n",
+    "stderr": ""
+  },
+  {
+    "script": "t_c87512/p6_wargame.py",
+    "exit_code": 0,
+    "changed_existing_csv": [],
+    "new_csv": [],
+    "stdout": "{\n \"rows\": 37,\n \"conflicts\": 4,\n \"miracles\": 14,\n \"choice_joint_low\": 2.930238281249999e-06,\n \"choice_joint_high\": 0.00029198812500000007,\n \"scores\": [\n  {\n   \"path\": \"S0_史实对照线\",\n   \"required_events\": 0,\n   \"miracles_le_0_25\": 0,\n   \"miracles_le_0_30\": 0,\n   \"miracle_ids\": \"\",\n   \"joint_if_independent\": \"1.0000–1.0000\",\n   \"falsifier\": \"奇迹≤1→存在论在该路径上成立\"\n  },\n  {\n   \"path\": \"A_S1入侵线\",\n   \"required_events\": 4,\n   \"miracles_le_0_25\": 2,\n   \"miracles_le_0_30\": 3,\n   \"miracle_ids\": \"M-A1|M-A2\",\n   \"joint_if_independent\": \"0.0004–0.0068\",\n   \"falsifier\": \"介于两者之间；宽判据(≤0.30)下达到3件，主线资格在判据敏感区\"\n  },\n  {\n   \"path\": \"B_S2最优构造线\",\n   \"required_events\": 3,\n   \"miracles_le_0_25\": 0,\n   \"miracles_le_0_30\": 0,\n   \"miracle_ids\": \"\",\n   \"joint_if_independent\": \"0.0630–0.1800\",\n   \"falsifier\": \"奇迹≤1→存在论在该路径上成立\"\n  },\n  {\n   \"path\": \"C_S3封锁绞杀\",\n   \"required_events\": 4,\n   \"miracles_le_0_25\": 4,\n   \"miracles_le_0_30\": 4,\n   \"miracle_ids\": \"M-C1|M-C2|M-C3|M-C4\",\n   \"joint_if_independent\": \"0.0000–0.0007\",\n   \"falsifier\": \"≥3独立低概率事件→该路径不能作主线\"\n  },\n  {\n   \"path\": \"D_S4东方转向\",\n   \"required_events\": 3,\n   \"miracles_le_0_25\": 3,\n   \"miracles_le_0_30\": 3,\n   \"miracle_ids\": \"M-D1|M-D2|M-D3\",\n   \"joint_if_independent\": \"0.0003–0.0056\",\n   \"falsifier\": \"≥3独立低概率事件→该路径不能作主线\"\n  }\n ]\n}\n",
+    "stderr": ""
+  },
+  {
+    "script": "t_c87512/p6_endgame.py",
+    "exit_code": 0,
+    "changed_existing_csv": [],
+    "new_csv": [],
+    "stdout": "{\"joint_independent\": \"0.0038–0.0324\", \"joint_commoncause\": \"0.0180–0.0900\", \"conditional_on_frame\": \"0.30–0.50\", \"x_order_1848_uncond\": \"0.0081–0.0585\", \"x_dynasty_1848_uncond\": \"0.0063–0.0450\", \"x_order_1848_cond\": \"0.1350–0.3250\", \"rows\": {\"control\": 7, \"dur\": 9, \"extent\": 20}}\n",
+    "stderr": ""
+  }
+]

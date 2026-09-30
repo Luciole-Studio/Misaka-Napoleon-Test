@@ -1,0 +1,171 @@
+# Sources — nodes/r_b55f2c1cf5/cards/t_26cd47 — [t_26cd47] 俄国问题深潜：1807–1812 法俄共治裂解机理与'避免或打赢 1812'的全部桌面选项
+
+Written by misaka when the products here were settled and rebuilt from scratch each time, so edit nothing in this file or under the sources folder. Each file there is a hard link to where it already lives in the project (a copy only where a hard link was not possible); the originals never move. Cite original project files, not this bundle's disposable sources paths.
+
+## Products
+
+- `c12_russia_problem.md` — [t_26cd47] c12_russia_problem.md (task_output)
+- `limited_war_evidence.md` — [t_26cd47] limited_war_evidence.md (task_output)
+- `polish_evidence.md` — [t_26cd47] polish_evidence.md (task_output)
+- `russian_evidence.md` — [t_26cd47] russian_evidence.md (task_output)
+
+## Cited sources (under `sources/`)
+
+- `sources/c12_makarov2024.pdf` ← `downloads/c12_makarov2024.pdf`
+  - "c12_makarov2024.pdf"
+  - sha256 81a9135182a0665b68e514fa939d9773b69f1a8658fb170b13a3589e58516fee
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+- `sources/c12_troshin2015.pdf` ← `downloads/c12_troshin2015.pdf`
+  - "c12_troshin2015.pdf"
+  - sha256 c17e7379cc37ae262251f8a19bbd3ace942ebecdd27bd2168db40265f1ef2b51
+  - cited as `doc:c17e7379cc37#p6` by [t_26cd47] "【资料质量】Troshin正文估计1808、1809、1810–1811贸易条件0.43、0.69、0.74，只作作者估算；印刷表年份错误禁作冻结系列。作者题页为Н. Н.，报告已更正为N. N. …" (fact)
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+- `sources/c12_vandal3_full.txt` ← `downloads/c12_vandal3_full.txt`
+  - "c12_vandal3_full.txt"
+  - sha256 6811043f3fa7668e827ca8e42ea5080005646306fe436a3dcaa25eb76a8d4f83
+  - cited by [t_26cd47] "1811年10月Nesselrode备忘录明确提出Oldenburg、边境互惠减军、华沙、普鲁士、贸易五项及奥地利保证；不复国空泛声明被其评为低价值，普鲁士政治生存被称最关键。" (fact) — "Je regarde comme beaucoup plus important et même comme l'objet le plus essentiel de l'arrangement u…"
+  - cited by [t_26cd47] "备忘录期待和平使俄奥恢复财政军力并重建均势，而非持久承认法国支配；因此‘可避免1812’与‘法国可控制俄国’并非同命题。" (inference) — "Pendant l'époque de paix plus ou moins raffermie qui suivrait un arrangement pareil, la Russie et l…"
+  - cited by [t_26cd47] "【文献推断】Nesselrode1811年10月五项谈判建议与奥地利担保旨在争取喘息、恢复俄奥力量，不能用作俄国接受法国排他霸权的证据。" (inference) — "rétablir leurs finances et"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+- `sources/pages/289211c6dcdf.md` ← `downloads/pages/289211c6dcdf.md`
+  - "Причины Отечественной войны 1812 года." — https://litobr.ru/History_Bogdanovich_isotia_voiny_1812_goda/1-2_Prichiny_voiny_1812_goda.htm
+  - sha256 289211c6dcdf60c135686c483ffb217751a59137631f47dacd66c5918c2b5239
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://litobr.ru/History_Bogdanovich_isotia_voiny_1812_goda/1-2_Prichiny_voiny_1812_goda.htm` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://litobr.ru/History_Bogdanovich_isotia_voiny_1812_goda/1-2_Prichiny_voiny_1812_goda.htm` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/35dcb892b38d.md` ← `downloads/pages/35dcb892b38d.md`
+  - "The Project Gutenberg eBook of Napoléon et Alexandre Ier, par Albert Vandal" — https://www.gutenberg.org/files/31260/31260-h/31260-h.htm
+  - sha256 35dcb892b38dbf0f6bd94ffc0e5ad2ff91ba8be12406bdc227b5a72b15b916ea
+  - cited by [t_26cd47] "1810-01-04公约首条为波兰王国永不重建；拿破仑2月反提案改为本国不提供复国援助，区别是保证结果与约束本国行为。" (fact) — "L'empereur Napoléon s'engage à ne jamais donner aucun secours ni assistance"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://www.gutenberg.org/files/31260/31260-h/31260-h.htm` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+- `sources/pages/45dd82f748a7.md` ← `downloads/pages/45dd82f748a7.md`
+  - "BUCHAREST DURING the PEACE of 1812 Ana-Maria Lepăr* Abstract - DocsLib" — https://docslib.org/doc/8863344/bucharest-during-the-peace-of-1812-ana-maria-lep%C4%83r-abstract
+  - sha256 45dd82f748a70957c47e4dfc4819a1f56e3e702ede347683ba97d05f53a2bbb3
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://docslib.org/doc/8863344/bucharest-during-the-peace-of-1812-ana-maria-lep%C4%83r-abstract` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://docslib.org/doc/8863344/bucharest-during-the-peace-of-1812-ana-maria-lep%C4%83r-abstract` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/4ba9714f9fde.md` ← `downloads/pages/4ba9714f9fde.md`
+  - "Oeuvres de Napoléon Bonaparte" — https://www.gutenberg.org/cache/epub/13475/pg13475-images.html
+  - sha256 4ba9714f9fdefef01c879facc92a73e30dfee045b2b3956594ce0217706eac61
+  - cited by [t_26cd47] "【事实／公开自辩】拿破仑1812年12月20日表示拒绝以农奴解放武装俄国人口；其所谓大量村庄请求与动员能力尚无独立验证。不是圣赫勒拿语录。" (fact) — "je me suis refusé à cette mesure"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://www.gutenberg.org/cache/epub/13475/pg13475-images.html` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://www.gutenberg.org/cache/epub/13475/pg13475-images.html` in `nodes/r_b55f2c1cf5/cards/t_26cd47/polish_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/polish_evidence.md`
+- `sources/pages/56a23915a69c.md` ← `downloads/pages/56a23915a69c.md`
+  - "М.М. Сперанский. Отчет в делах 1810 г., представленный императору Александру I" — http://dugward.ru/library/speranskiy_m/speranskiy_otchet_v_delah_1810.html
+  - sha256 56a23915a69c3f335d08b28d3815ef6e2776d9e32cf5cb9b1c0b935ef4fec9e8
+  - cited as `http://dugward.ru/library/speranskiy_m/speranskiy_otchet_v_delah_1810.html` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/583fdf517a90.md` ← `downloads/pages/583fdf517a90.md`
+  - "1812 год. Министр полиции России генерал А. Д. Балашов в ставке Наполеона – тема научной статьи по истории и археологии…" — https://cyberleninka.ru/article/n/1812-god-ministr-politsii-rossii-general-a-d-balashov-v-stavke-napoleona
+  - sha256 583fdf517a90cc50f56850b63e03562468061a42cfc2bcf54ea230b6b232a8ca
+  - cited as `https://cyberleninka.ru/article/n/1812-god-ministr-politsii-rossii-general-a-d-balashov-v-stavke-napoleona` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/5b7b985b0f78.md` ← `downloads/pages/5b7b985b0f78.md`
+  - "Supplying War: Logistics From Wallenstein To Patton [PDF] [28jjb479976g]" — https://vdoc.pub/documents/supplying-war-logistics-from-wallenstein-to-patton-28jjb479976g
+  - sha256 5b7b985b0f78abb03a374f0d2747db2384d871504dab98c112ab51c7022deb69
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://vdoc.pub/documents/supplying-war-logistics-from-wallenstein-to-patton-28jjb479976g` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://vdoc.pub/documents/supplying-war-logistics-from-wallenstein-to-patton-28jjb479976g` in `nodes/r_b55f2c1cf5/cards/t_26cd47/limited_war_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/limited_war_evidence.md`
+- `sources/pages/5e89d50c1e0b.md` ← `downloads/pages/5e89d50c1e0b.md`
+  - "Russian Campaign, French Campaign" — https://ehne.fr/en/node/12209/printable/pdf
+  - sha256 5e89d50c1e0bbd598cfd7cae7d2322f2b8c6bf97d41e3b2a527e2fa138582fff
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://ehne.fr/en/node/12209/printable/pdf` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://ehne.fr/en/node/12209/printable/pdf` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/6635f608e21d.md` ← `downloads/pages/6635f608e21d.md`
+  - "The Campaign of 1812 in Russia" — https://clausewitzstudies.org/readings/1812/Clausewitz-CampaignOf1812inRussia-EllesmereTranslation.pdf
+  - sha256 6635f608e21d89611d1d3d9736e0dee898f795071d6f720876a952b6f5e5e076
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://clausewitzstudies.org/readings/1812/Clausewitz-CampaignOf1812inRussia-EllesmereTranslation.pdf` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://clausewitzstudies.org/readings/1812/Clausewitz-CampaignOf1812inRussia-EllesmereTranslation.pdf` in `nodes/r_b55f2c1cf5/cards/t_26cd47/limited_war_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/limited_war_evidence.md`
+- `sources/pages/83fff8e6b841.md` ← `downloads/pages/83fff8e6b841.md`
+  - "Geoffrey Hosking · Peasants in Arms: Russia v. Napoleon" — https://www.lrb.co.uk/the-paper/v31/n23/geoffrey-hosking/peasants-in-arms
+  - sha256 83fff8e6b84128927b0c61b8ea074903bbb1b1095fb80a8f26d82d7693ce8e21
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://www.lrb.co.uk/the-paper/v31/n23/geoffrey-hosking/peasants-in-arms` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://www.lrb.co.uk/the-paper/v31/n23/geoffrey-hosking/peasants-in-arms` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/8803bb4aae82.md` ← `downloads/pages/8803bb4aae82.md`
+  - "Lire Oeuvres de Napoléon Bonaparte, Tome V. de Napoléon Bonaparte en ligne gratuitement - Сhapitre 52" — https://www.ffdsp.com/lire-oeuvres-de-napoleon-bonaparte-tome-v-gratuit-chapitre-52
+  - sha256 8803bb4aae829487c95d027138c65923e69bbbfcacff47afd906a411b6247c4a
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/polish_evidence.md`
+  - cited as `https://www.ffdsp.com/lire-oeuvres-de-napoleon-bonaparte-tome-v-gratuit-chapitre-52` in `nodes/r_b55f2c1cf5/cards/t_26cd47/polish_evidence.md`
+- `sources/pages/8f2c112edf2d.md` ← `downloads/pages/8f2c112edf2d.md`
+  - "Подготовка к войне 1812 года." — https://litobr.ru/History_Bogdanovich_isotia_voiny_1812_goda/1-3_Prigotovlenia_k_voine.htm
+  - sha256 8f2c112edf2df88f8218887447010f60a076e18e15eac3f2e6fa1ee12b4d154e
+  - cited as `https://litobr.ru/History_Bogdanovich_isotia_voiny_1812_goda/1-3_Prigotovlenia_k_voine.htm` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/9af33326aacf.md` ← `downloads/pages/9af33326aacf.md`
+  - https://academic-journals.eu/pl/download?path=%2Fuploads%2FZm9sZGVycHVibWVkaWE%3D%2Fdocuments%2Fstudia_i_materialy_viii_nawrot_komitet_wojskowy_na_litwie_w_1812.pdf
+  - sha256 9af33326aacf0872cb784e676822d473e9e1a88b4f4615d20aff8f3c182b9a6b
+  - cited by [t_26cd47] "【事实／转引Nawrot】立陶宛12月1日五步兵团四骑兵团约12,500人；两万以上含其他组织，不可两数相加或倒算成夏季可战兵力。" (fact) — "około 12,5 tys. ludzi, na dzień 1 grudnia 1812 r."
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://academic-journals.eu/pl/download?path=%2Fuploads%2FZm9sZGVycHVibWVkaWE%3D%2Fdocuments%2Fstudia_i_materialy_viii_nawrot_komitet_wojskowy_na_litwie_w_1812.pdf` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://academic-journals.eu/pl/download?path=%2Fuploads%2FZm9sZGVycHVibWVkaWE%3D%2Fdocuments%2Fstudia_i_materialy_viii_nawrot_komitet_wojskowy_na_litwie_w_1812.pdf` in `nodes/r_b55f2c1cf5/cards/t_26cd47/polish_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/polish_evidence.md`
+- `sources/pages/a5b15e70c82c.md` ← `downloads/pages/a5b15e70c82c.md`
+  - "Literary Review - Charles Esdaile on Russia Against Napoleon by Dominic Lieven" — https://web.archive.org/web/20130605171204/http:/www.literaryreview.co.uk/esdaile_10_09.html
+  - sha256 a5b15e70c82c9f6760a1d89756fb293a95cd408672d70c00bf67d3d8f362469d
+  - cited by [t_26cd47] "Esdaile评Lieven明确区分敌意与战争，称亚历山大1811放弃进攻而等待受攻；仅为书评转引，不冒充读Lieven专著。" (inference) — "Hostility to France, however, did not necessarily mean war"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://web.archive.org/web/20130605171204/http:/www.literaryreview.co.uk/esdaile_10_09.html` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://web.archive.org/web/20130605171204/http:/www.literaryreview.co.uk/esdaile_10_09.html` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/b1d3de43f219.md` ← `downloads/pages/b1d3de43f219.md`
+  - "Абоский Договор » Международная военно-историческая ассоциация" — https://imha.ru/1144538697-aboskiy-dogovor.html
+  - sha256 b1d3de43f219cd011b7c4287c319320fcfc6ae5d78a9a5794151819b8617d847
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://imha.ru/1144538697-aboskiy-dogovor.html` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://imha.ru/1144538697-aboskiy-dogovor.html` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/b24d31cb67be.md` ← `downloads/pages/b24d31cb67be.md`
+  - "Е. В. Тарле. Наполеон(20)" — https://www.booksite.ru/localtxt/tar/le/tarle/nap/ole/napoleon/20.htm
+  - sha256 b24d31cb67be2a5331c36c7fd79ba7e53a60042be1689adc702f2807a9afbb9a
+  - cited as `https://www.booksite.ru/localtxt/tar/le/tarle/nap/ole/napoleon/20.htm` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/cd494198d45d.md` ← `downloads/pages/cd494198d45d.md`
+  - "The Project Gutenberg eBook of Napoléon et Alexandre Ier (3/3), par Albert Vandal" — https://www.gutenberg.org/cache/epub/32621/pg32621-images.html
+  - sha256 cd494198d45da4decf3ca984d171223370226f5d6622f7692358e41b93c80a59
+  - cited by [t_26cd47] "Vandal所引1811俄方进攻意向是有条件计划：华沙不合作则留在防御，并明说可能延续现状；不能据计划存在推出任何让步下都必战。" (inference) — "Alors les choses continueront à rester sur le pied sur lequel elles se trouvent maintenant"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://www.gutenberg.org/cache/epub/32621/pg32621-images.html` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+- `sources/pages/ce13bc8c21a9.md` ← `downloads/pages/ce13bc8c21a9.md`
+  - "„KRÓLESTWO POLSKIE PRZYWRÓCONE” – OCZEKIWANIA WSPÓŁCZESNYCH WOBEC KONFEDERACJI GENERALNEJ KRÓLESTWA POLSKIEGO 1812–1813" — https://bibliotekanauki.pl/articles/540558.pdf
+  - sha256 ce13bc8c21a9a69f7f956120d6ed16941de22895437611d47e0ad17380163419
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://bibliotekanauki.pl/articles/540558.pdf` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://bibliotekanauki.pl/articles/540558.pdf` in `nodes/r_b55f2c1cf5/cards/t_26cd47/polish_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/polish_evidence.md`
+- `sources/pages/d8df3ea3f40b.md` ← `downloads/pages/d8df3ea3f40b.md`
+  - "Финансовая составляющая войны россиипротив наполеоновского нашествия в 1812–1815 годы – тема научной статьи по истории …" — https://cyberleninka.ru/article/n/finansovaya-sostavlyayuschaya-voyny-rossiiprotiv-napoleonovskogo-nashestviya-v-1812-1815-gody
+  - sha256 d8df3ea3f40b85cf7b7df1966e25f9de956fc065570dce07e2d57f040e154a00
+  - cited as `https://cyberleninka.ru/article/n/finansovaya-sostavlyayuschaya-voyny-rossiiprotiv-napoleonovskogo-nashestviya-v-1812-1815-gody` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/e19174f0f234.md` ← `downloads/pages/e19174f0f234.md`
+  - "Clow.ru: История России. Пособие для школьников и абитуриентов. Статьи по истории и исследования. Россия на рубеже веко…" — https://history.clow.ru/29.htm
+  - sha256 e19174f0f234f1146110efddc197bdc4816ce22085b85210d5cad80377108ff3
+  - cited as `https://history.clow.ru/29.htm` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+- `sources/pages/eed9ab647f9a.md` ← `downloads/pages/eed9ab647f9a.md`
+  - "Full text of "With Napoleon In Russia The Memoirs Of General De Caulaincourt Duke Of Vicenza"" — https://archive.org/stream/in.ernet.dli.2015.58850/2015.58850.With-Napoleon-In-Russia-The-Memoirs-Of-General-De-Caulaincourt-Duke-Of-Vicenza_djvu.txt
+  - sha256 eed9ab647f9adcadd66f4085f5c96ac71646dbc836b7d273f3b3b1bb1c83f2dd
+  - cited by [t_26cd47] "Caulaincourt英文节编本p75确记停驻整顿、总部回维捷布斯克及武装波兰，但仍保留之后进军莫斯科或彼得堡；这是回溯性亲历记录，不是已核同期作战令。" (fact) — "I will establish my headquarters at Witepsk. I will raise Poland in arms, and later on I will choos…"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://archive.org/stream/in.ernet.dli.2015.58850/2015.58850.With-Napoleon-In-Russia-The-Memoirs-Of-General-De-Caulaincourt-Duke-Of-Vicenza_djvu.txt` in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`
+  - cited as `https://archive.org/stream/in.ernet.dli.2015.58850/2015.58850.With-Napoleon-In-Russia-The-Memoirs-Of-General-De-Caulaincourt-Duke-Of-Vicenza_djvu.txt` in `nodes/r_b55f2c1cf5/cards/t_26cd47/limited_war_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_26cd47/limited_war_evidence.md`
+- `sources/pages/f19270d24c25.md` ← `downloads/pages/f19270d24c25.md`
+  - "III. ДОКЛАДНАЯ ЗАПИСКА ГРАФА НЕССЕЛЬРОДЕ ИМПЕРАТОРУ АЛЕКСАНДРУ I-му. (ОКТЯБРЬ 1811 г.)[678]. Разрыв франко-русского сою…" — https://history.wikireading.ru/288188
+  - sha256 f19270d24c2514c06f8b122e0e98345ad2a8bc16e8adf97fb1b1890dfdb85853
+  - cited as `https://history.wikireading.ru/288188` in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+
+## Consulted but not cited (left where they are)
+
+- `downloads/pages/aab94e1f905a.md` — "THE STATE OF RUSSIAN FOREIGN TRADE AT THE END OF 1808–1809 (ACCORDING TO A. B. KURAKIN’S DISPATCHES) - Вестник МГПУ «Ис…" — https://vestnik-historicalsciences.mgpu.ru/2025/01/14/the-state-of-russian-foreign-trade-at-the-end-of-1808-1809-according-to-a-b-kurakins-dispatches/?lang=en
+- `downloads/pages/ce24c4f90149.md` — "Troshin N.N. Russia in the Continental Blockade: economic consequences" — https://en.nbpublish.com/library_read_article.php?id=67239
+
+## Unresolved locators
+
+- `https://www.gutenberg.org/cache/epub/32621/pg32621.txt` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`)
+- `https://en.nbpublish.com/library_get_pdf.php?id=35678` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`)
+- `https://vestnik-historicalsciences.mgpu.ru/wp-content/uploads/sites/2/2025/01/makarov-n-a.pdf` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`)
+- `downloads/pages/eed9ab647f9a.md；现存下载目录检索有返回上限，去重并非穷尽。直接curl下载Clausewitz` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_26cd47/limited_war_evidence.md`)
+- `https://zlib.pub/book/1812-napoleons-russian-campaign-auhpdungnp60` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_26cd47/limited_war_evidence.md`)
+- `https://eprints.lse.ac.uk/25288/` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`)
+- `https://archive.org/details/alexanderithetsa0000reym` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`)

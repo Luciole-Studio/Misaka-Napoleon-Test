@@ -1,0 +1,117 @@
+[
+  {
+    "path": "downloads/R2_Crosby1965.pdf",
+    "sha256": "7e3293167a7c4cde0a992e85df1a46d30072bb545b5a7a7ac19aadecfefd49fa",
+    "bytes": 17769257
+  },
+  {
+    "path": "downloads/R2_Davey2009.pdf",
+    "sha256": "9cdc057c893a9cf2e323fad499747b3c76cfe86cabb7b0959b86d5486136dafa",
+    "bytes": 25945221
+  },
+  {
+    "path": "downloads/c12_makarov2024.pdf",
+    "sha256": "81a9135182a0665b68e514fa939d9773b69f1a8658fb170b13a3589e58516fee",
+    "bytes": 307027
+  },
+  {
+    "path": "downloads/c12_troshin2015.pdf",
+    "sha256": "c17e7379cc37ae262251f8a19bbd3ace942ebecdd27bd2168db40265f1ef2b51",
+    "bytes": 159663
+  },
+  {
+    "path": "downloads/c12_vandal3_full.txt",
+    "sha256": "6811043f3fa7668e827ca8e42ea5080005646306fe436a3dcaa25eb76a8d4f83",
+    "bytes": 1388462
+  },
+  {
+    "path": "downloads/c15_heckscher1922.pdf",
+    "sha256": "1baaae7f3185eb96c40c95891dcd3efbf6da2426bd782d06bc4a3b81e7149a5a",
+    "bytes": 24703212
+  },
+  {
+    "path": "downloads/pages/010052ac67de.md",
+    "sha256": "010052ac67dea1619c5a93aaa0219e60e937da7ad0b7144c80a4b9cb89b91631",
+    "bytes": 24533
+  },
+  {
+    "path": "downloads/pages/05a0209a543e.md",
+    "sha256": "05a0209a543e20ae234ceb4782355e16048e175a8b40b30ef87adf5d5211233c",
+    "bytes": 979764
+  },
+  {
+    "path": "downloads/pages/1b6165aee016.md",
+    "sha256": "1b6165aee01638d4db948f36a600365cbe0035df56e6ffb550ff372b76b0a64f",
+    "bytes": 19885
+  },
+  {
+    "path": "downloads/pages/4253618e6095.md",
+    "sha256": "4253618e6095ded675dcb2717cf6dadc2b23f4b62fdfaf66f4247ccac3f3796e",
+    "bytes": 41181
+  },
+  {
+    "path": "downloads/pages/454e935e9868.md",
+    "sha256": "454e935e986867ca94090cbeddf9b19dbb85d5d3bd715eb1908d72e7c6d562d5",
+    "bytes": 18387
+  },
+  {
+    "path": "downloads/pages/4b0b3e27f01f.md",
+    "sha256": "4b0b3e27f01f8e189e578c4b2f1433aa57229b7b5d6174b8620c2362ea004e06",
+    "bytes": 131269
+  },
+  {
+    "path": "downloads/pages/56a23915a69c.md",
+    "sha256": "56a23915a69c3f335d08b28d3815ef6e2776d9e32cf5cb9b1c0b935ef4fec9e8",
+    "bytes": 61808
+  },
+  {
+    "path": "downloads/pages/5f01778e4d6f.md",
+    "sha256": "5f01778e4d6f5656fe6b9d0c3fd23b7ba9481521bc7f3f463a1e3b560908fdf7",
+    "bytes": 125555
+  },
+  {
+    "path": "downloads/pages/61ed76741f61.md",
+    "sha256": "61ed76741f61096ee1c6d6b5b2d48c132e93647c7c81dfa0d8bbb44bb9d96c73",
+    "bytes": 8312
+  },
+  {
+    "path": "downloads/pages/76e0f720bdd9.md",
+    "sha256": "76e0f720bdd998a240888b0d3bc5a85e7de82997d729002c8c81eab0283029c8",
+    "bytes": 15978
+  },
+  {
+    "path": "downloads/pages/83d83211926c.md",
+    "sha256": "83d83211926cb669c170e8de58cc8182b6969531cba560669dca9f9f78fbc847",
+    "bytes": 483353
+  },
+  {
+    "path": "downloads/pages/a6702a368d37.md",
+    "sha256": "a6702a368d37e32f8211d6bef7d07a4fd8f339f343fb8846d78ae3f17b179bfe",
+    "bytes": 88239
+  },
+  {
+    "path": "downloads/pages/b410f00b28b3.md",
+    "sha256": "b410f00b28b307206c631286c9d7c70de16fb7b4186121ee49ec7874ffc813db",
+    "bytes": 2973
+  },
+  {
+    "path": "downloads/pages/b71024f74504.md",
+    "sha256": "b71024f74504e037fedba2c2f481db0041944981a06094a94b21ea1b646a7cc4",
+    "bytes": 29419
+  },
+  {
+    "path": "downloads/pages/f4d2943372ac.md",
+    "sha256": "f4d2943372ac24f414069d5142b7f72782b222b79fdbecdeccf01773c32b602f",
+    "bytes": 25837
+  },
+  {
+    "path": "downloads/pages/f70462842c06.md",
+    "sha256": "f70462842c06a3eff4f38b46bc19152185fa61628424062890963739a26272ce",
+    "bytes": 7035
+  },
+  {
+    "path": "downloads/pages/f95185d0f2c6.md",
+    "sha256": "f95185d0f2c607e212ba174d9e8fea54c6ba4168f5e43fbcf661eebbf5333beb",
+    "bytes": 12816
+  }
+]

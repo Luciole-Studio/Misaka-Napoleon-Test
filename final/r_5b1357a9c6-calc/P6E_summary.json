@@ -1,0 +1,27 @@
+{
+ "path_E_choice_nodes": [
+  "C4",
+  "C5",
+  "C6",
+  "C7",
+  "C8",
+  "C9",
+  "C10"
+ ],
+ "path_E_joint_indep": [
+  9.6e-05,
+  0.002995
+ ],
+ "path_B_joint_indep": [
+  2.9e-06,
+  0.000292
+ ],
+ "ratio_E_over_B_low": 32.92,
+ "ratio_E_over_B_high": 10.26,
+ "miracles_required": [
+  "M-B1",
+  "M-B2",
+  "M-B3"
+ ],
+ "miracles_le_0_25": 0
+}

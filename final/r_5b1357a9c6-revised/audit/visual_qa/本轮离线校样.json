@@ -1,0 +1,33 @@
+{
+  "sections": [
+    "陆军与海军必须从同一笔钱中付款",
+    "四个港口四条重新长出的商路",
+    "盟国供养法国驻军恢复逐年数也保留原刊的错误",
+    "条约许诺了多少实际又付了多少",
+    "直布罗陀到港表总船数与中转活动分开看"
+  ],
+  "pages": 7,
+  "images": [
+    "/Users/makiko/Documents/exam/final/r_5b1357a9c6-revised/audit/visual_qa/本轮离线校样-01.png",
+    "/Users/makiko/Documents/exam/final/r_5b1357a9c6-revised/audit/visual_qa/本轮离线校样-02.png",
+    "/Users/makiko/Documents/exam/final/r_5b1357a9c6-revised/audit/visual_qa/本轮离线校样-03.png",
+    "/Users/makiko/Documents/exam/final/r_5b1357a9c6-revised/audit/visual_qa/本轮离线校样-04.png",
+    "/Users/makiko/Documents/exam/final/r_5b1357a9c6-revised/audit/visual_qa/本轮离线校样-05.png",
+    "/Users/makiko/Documents/exam/final/r_5b1357a9c6-revised/audit/visual_qa/本轮离线校样-06.png",
+    "/Users/makiko/Documents/exam/final/r_5b1357a9c6-revised/audit/visual_qa/本轮离线校样-07.png"
+  ],
+  "report_html_sha256": "b6f76948697d0b8c94d7889f9a1922761a8d999a15e03c1118070495145f78f3",
+  "method": "WeasyPrint offline static A4 print-style proof of five newly added sections; external fetch disabled. Not browser desktop/mobile verification.",
+  "visual_review": "Reviewed all seven pages after print-width fix; Chinese text, numerical cells, row alignment and page edges checked. Five selected sections only.",
+  "print_fix": "Reset cell minimum widths and fixed table layout for print; nine-column budget no longer crosses page edge.",
+  "browser_review": "No new browser QA: local file URL rejected by browser policy. Earlier desktop/mobile screenshots are historical.",
+  "images_sha256": {
+    "本轮离线校样-01.png": "ad7f3909734f80ebb30ac4ca54e733a14a99b53314d7ea29f2e25376d84bc890",
+    "本轮离线校样-02.png": "1e5dc9a59401ca08764f4403cc6835b6bd26e61e7d07a1d81981ccc2c102b4ba",
+    "本轮离线校样-03.png": "b93102b2b776fcd12ab88fca48ae5547124876c21b808bd95a87549af5d5c1a1",
+    "本轮离线校样-04.png": "07f9d47f97f86547fe1a86b66df3988356309aa26b9f4bf6ecd201d7c9623316",
+    "本轮离线校样-05.png": "c6031aaa0826434ae0c821b20cdf731aeab3941e66bae693224a04bc98e8b113",
+    "本轮离线校样-06.png": "231bbf90b1fcf5c20d1efbed264097a20f1fd6a072cdebf16cf6e2db34119843",
+    "本轮离线校样-07.png": "39eb25bb034e13e9751eed31d8f1fb20964222cf04cad0a07373b9e87dee88e2"
+  }
+}

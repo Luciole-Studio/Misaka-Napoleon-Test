@@ -1,0 +1,4107 @@
+# Sources — nodes/r_5b1357a9c6/cards/t_8a7b54 — [t_8a7b54] 情景树概率带聚合与敏感性：翻转假设与承重薄弱点
+
+Written by misaka when the products here were settled and rebuilt from scratch each time, so edit nothing in this file or under the sources folder. Each file there is a hard link to where it already lives in the project (a copy only where a hard link was not possible); the originals never move. Cite original project files, not this bundle's disposable sources paths.
+
+## Products
+
+- `P8_audit.json` — [t_8a7b54] P8_audit.json (task_output)
+- `P8_probability_bands.md` — [t_8a7b54] P8_probability_bands.md (task_output)
+- `P8_probability_tree.md` — [t_8a7b54] P8_probability_tree.md (task_output)
+- `P8_school_and_core.csv` — [t_8a7b54] P8_school_and_core.csv (task_output)
+- `P8_subquestions.csv` — [t_8a7b54] P8_subquestions.csv (task_output)
+- `P8_tornado.csv` — [t_8a7b54] P8_tornado.csv (task_output)
+- `notes_inputs_01.md` — [t_8a7b54] notes_inputs_01.md (task_output)
+- `notes_inputs_02.md` — [t_8a7b54] notes_inputs_02.md (task_output)
+- `notes_outcomes_04.md` — [t_8a7b54] notes_outcomes_04.md (task_output)
+- `notes_schools_03.md` — [t_8a7b54] notes_schools_03.md (task_output)
+- `p8_assumptions.json` — [t_8a7b54] p8_assumptions.json (task_output)
+- `p8_tree.py` — [t_8a7b54] p8_tree.py (task_output)
+
+## Cited sources (under `sources/`)
+
+- `sources/A_Axtmann1991_Austria_Ireland.pdf` ← `downloads/A_Axtmann1991_Austria_Ireland.pdf`
+  - "A_Axtmann1991_Austria_Ireland.pdf"
+  - sha256 404e0e6ff4178381e6628dca11bf23797b185d58bc77a063870990d45949d016
+  - cited by [t_f4bb81] "Axtmann1991财政附录转Beer1877：1809财政收入31.1、支出86.3、军费66.8；1810分别25.0/76.1/52.2百万银值盾CM。总支出不含偿还本金及纸券回收。" (fact)
+  - cited as `doc:404e0e6ff417#p262` by [t_f4bb81] "Axtmann1991财政附录转Beer1877：1809财政收入31.1、支出86.3、军费66.8；1810分别25.0/76.1/52.2百万银值盾CM。总支出不含偿还本金及纸券回收。" (fact)
+- `sources/B1_chambray1812_part14.pdf` ← `downloads/B1_chambray1812_part14.pdf`
+  - "B1_chambray1812_part14.pdf"
+  - sha256 c2c708a552dc94a8266e9a0c9c80b07a580f7e6a42f88efce72af1aa280fa229
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_1812_check.md`
+- `sources/B2_BoE_balance_sheet.xlsx` ← `downloads/B2_BoE_balance_sheet.xlsx`
+  - "B2_BoE_balance_sheet.xlsx"
+  - sha256 86121aeb2c91bcf8f6b277f1c80b1d6ffb7b5947b353d9a8b467dd435dc50589
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+- `sources/B2_BoE_millennium_v31.xlsx` ← `downloads/B2_BoE_millennium_v31.xlsx`
+  - sha256 4c23dd392a498691eac92659aec283fb43f28118bd80511dc87fc595974195eb
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_01.md`
+- `sources/B2_Bordo_White_WP3517.pdf` ← `downloads/B2_Bordo_White_WP3517.pdf`
+  - "B2_Bordo_White_WP3517.pdf"
+  - sha256 ed2c1913a953d70e4ac436da4aea5a895a7c80fc0aaa0d714d12b086920d2800
+  - cited as `doc:ed2c1913a953#p53` by [t_044211] "Bordo–White NBER WP3517(1990)表2印刷p51：1810、1811净收入约68.39m、66.53m，债务负担23.40m、23.86m；数据来源Gayer–Rostow–…" (fact)
+  - cited as `doc:ed2c1913a953#p22` by [t_044211] "该稿pp19–20强调铸币税规模较小而银行支持赋予短期融资和债务管理关键灵活性；其表3转引Mitchell&Deane(1962)p442，是本次对校所得层级，不等于已亲阅Mitchell原表。" (interpretation)
+  - cited as `doc:ed2c1913a953#p54` by [t_044211] "Bordo–White工作稿表3的1810纸币先前22.32精确抄值有邻年错位风险，已撤回为约22–23m；未入主CSV，其与BoE严格2月底20.120486m的时点差仍待Mitchell–Dea…" (fact)
+- `sources/B4_Cary_itinerary_edition_unverified.txt` ← `downloads/B4_Cary_itinerary_edition_unverified.txt`
+  - "B4_Cary_itinerary_edition_unverified.txt"
+  - sha256 ae0f04b46b24e43a9a6d8d90ff5f4935ca6a106aebdb4d35424b64d7edb24e46
+  - cited in `nodes/r_5b1357a9c6/cards/t_b9e29c/notes_Cary_roads.md`
+- `sources/B4_Cary_itinerary_scan.pdf` ← `downloads/B4_Cary_itinerary_scan.pdf`
+  - "B4_Cary_itinerary_scan.pdf"
+  - sha256 dce337aeb229c225b769b987e8d9011e52ad14f2245df4b0a290902a72d089af
+  - cited in `nodes/r_5b1357a9c6/cards/t_b9e29c/notes_Cary_roads.md`
+- `sources/B4_Chilcott_Maintaining_British_Army_2006.pdf` ← `downloads/B4_Chilcott_Maintaining_British_Army_2006.pdf`
+  - "B4_Chilcott_Maintaining_British_Army_2006.pdf"
+  - sha256 ad3fc15a73a7a20c5655647ecdac5e25659bee8408a4eab32b5a0e015abc5085
+  - cited by [t_c69786] "Chilcott印页242–243转引1803-11-19 Sarum郡会议命令，仍安排居民、牲畜撤移路线与给养。故Fortescue对10/31某版广泛方案‘abandoned’的记载不能外推为所…" (fact) — "the greater part of this county is highly favourable for the removal, not only of inhabitants, but …"
+  - cited as `doc:ad3fc15a73a7#p251` by [t_c69786] "Chilcott印页242–243转引1803-11-19 Sarum郡会议命令，仍安排居民、牲畜撤移路线与给养。故Fortescue对10/31某版广泛方案‘abandoned’的记载不能外推为所…" (fact) — "the greater part of this county is highly favourable for the removal, not only of inhabitants, but …"
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited by [t_b9e29c] "Chilcott2006 p165图19列1805年4月Royal Wagon Train：Chelmsford四中队、Canterbury三中队、Bexhill一中队、Croydon总部和四个较小…" (fact)
+  - cited as `doc:ad3fc15a73a7#p174` by [t_b9e29c] "Chilcott2006 p165图19列1805年4月Royal Wagon Train：Chelmsford四中队、Canterbury三中队、Bexhill一中队、Croydon总部和四个较小…" (fact)
+  - cited as `doc:ad3fc15a73a7#p252` by [t_b9e29c] "Chilcott p244引WO30/141 p16的征用供给车辆须24小时内备好、计划日行25–30英里；作者认为可能乐观。它与40英里载兵规划不同口径，两者均非4万正规军48h实绩。" (fact) — "The wagons allocated for the transport of supplies were to be ready to move at twenty fours notice."
+  - cited as `doc:ad3fc15a73a7#p250` by [t_b9e29c] "对早先撤粮令被放弃声明新增限定：Chilcott p242–243引1803-11-19 Sarum地方会议仍安排迁人畜，不能把Fortescue所称10/31某版方案放弃扩大为全国各层级计划终止。" (inference)
+  - cited by [t_b9e29c] "Chilcott所刊RWT返回表中的1805年4月驻地是Canterbury三troops、Chelmsford四troops、Bexhill一troop、Croydon总部与四个较小Depot T…" (fact) — "four troops were present at Croydon in 1805 but these were smaller Depot Troops"
+  - cited as `doc:ad3fc15a73a7#p174` by [t_b9e29c] "Chilcott所刊RWT返回表中的1805年4月驻地是Canterbury三troops、Chelmsford四troops、Bexhill一troop、Croydon总部与四个较小Depot T…" (fact) — "four troops were present at Croydon in 1805 but these were smaller Depot Troops"
+  - cited by [t_b9e29c] "限定早先对撤粮放弃的叙述：Fortescue的某版方案放弃，不能外推为全国地方准备终止；Chilcott引Sarum1803年11月19日命令仍部署居民牲畜迁移。这只是计划，未验证入侵下执行。" (inference) — "Orders, General Meeting of the Lieutenancy, Sarum, 19th November 1803"
+  - cited as `doc:ad3fc15a73a7#p250` by [t_b9e29c] "限定早先对撤粮放弃的叙述：Fortescue的某版方案放弃，不能外推为全国地方准备终止；Chilcott引Sarum1803年11月19日命令仍部署居民牲畜迁移。这只是计划，未验证入侵下执行。" (inference) — "Orders, General Meeting of the Lieutenancy, Sarum, 19th November 1803"
+  - cited in `nodes/r_5b1357a9c6/cards/t_b9e29c/notes_Chilcott_2006.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_local_evacuation_correction.md`
+- `sources/B4_Fortescue_CountyLieutenancies1909.pdf` ← `downloads/B4_Fortescue_CountyLieutenancies1909.pdf`
+  - "B4_Fortescue_CountyLieutenancies1909.pdf"
+  - sha256 abd412ff468f09c46f280d9d57e170e6a0c982e58e9981a574be3b5981f8ce92
+  - cited as `doc:abd412ff468f#p316` by [t_b9e29c] "Fortescue附表显示1803至1813不完整终年普通征募共134316人、民兵转募99755人；此处民兵转募是来源重分配，不能再加入本土总兵力。1804增援法1658经原书图核纠正网页转录26…" (fact)
+  - cited as `doc:abd412ff468f#p318` by [t_b9e29c] "1804年1月GB志愿兵380258是全军衔，骑28943/步341011/炮10304；1805下降为360814。原表已看图，不能把它计作38万机动正规军。" (fact)
+  - cited as `doc:abd412ff468f#p161` by [t_b9e29c] "1804车运计划估计每日40英里连续三天，目的为向伦敦集结；未证实1804南岸48小时4万正规军演练。" (fact) — "It was reckoned that the waggons would carry the troops forty miles a day for three days"
+- `sources/B4_Fortescue_CountyLieutenancies1909.txt` ← `downloads/B4_Fortescue_CountyLieutenancies1909.txt`
+  - "B4_Fortescue_CountyLieutenancies1909.txt"
+  - sha256 f39a790d8d60ad83e30452a902e57d80f50979f19f3112f33c061bb02aae9379
+  - cited in `nodes/r_5b1357a9c6/cards/t_c8b161/notes_ie.md`
+- `sources/B4_Linch_recruitment_1807_1815.pdf` ← `downloads/B4_Linch_recruitment_1807_1815.pdf`
+  - "B4_Linch_recruitment_1807_1815.pdf"
+  - sha256 929ccc1481316bc732a8939819b96178417ea58b750b77f52db9f621d7421fa2
+  - cited as `doc:929ccc148131#p27` by [t_b9e29c] "Linch估计1810年英格兰39个线列营有24764人，其中7677病员，实际17087 fit for duty；1811年UK名册55938人仅五营可增援Wellington，显示单位骨架与体…" (fact) — "leaving only 17,087 men fit for duty"
+- `sources/B5_Jarrige_Luddisme2010.pdf` ← `downloads/B5_Jarrige_Luddisme2010.pdf`
+  - "B5_Jarrige_Luddisme2010.pdf"
+  - sha256 4e8fe2aef6895a9745d11533cbccbcf83ee9e619213ce6f8d8cb2e833fd02577
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited by [t_b702da] "卢德运动三因结构（Jarrige pp.1–3亲读）：封锁+枢密令市场崩溃（1811-06曼城9,000纺纱工仅3,000全职）×1809废除保护性旧规×1799–1800结社法入地——其中市场崩溃…" (fact) — "sur 9000 ouvriers des filatures, 3000 seulement étaient employés"
+- `sources/B5_Marshall_statistical_display1833.pdf` ← `downloads/B5_Marshall_statistical_display1833.pdf`
+  - "B5_Marshall_statistical_display1833.pdf"
+  - sha256 6732fd554ca206d55ce2060d31852f46686eaf853b0b621a7f802abbf027e2e7
+  - cited by [t_87ba37] "Marshall美国1811官方出口1,431,829英镑，加加拿大1,909,689为3,341,518；BoE A40相应美国11.432m/北美13.342m比原表约多10m。" (fact) — "3,046,819 1,431,829 1,909,689 6,388,337"
+  - cited as `doc:6732fd554ca2#p88` by [t_87ba37] "Marshall美国1811官方出口1,431,829英镑，加加拿大1,909,689为3,341,518；BoE A40相应美国11.432m/北美13.342m比原表约多10m。" (fact) — "3,046,819 1,431,829 1,909,689 6,388,337"
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/B6_SlaveryAbolition1833.pdf` ← `downloads/B6_SlaveryAbolition1833.pdf`
+  - "B6_SlaveryAbolition1833.pdf"
+  - sha256 8a4da9da4e4702e9f9915d986460e4630d401b8f866ea9bd0a0ad2c451a63b99
+  - cited by [t_0fed70] "1833奴隶制废除法LXIV明确排除EIC领地、Ceylon、St Helena；LXV开普时点延4月，毛里求斯延6月。现代议会介绍仅强调EIC例外不完整。" (fact) — "or to the Island of Ceylon, or to the Island of Saint Helena."
+  - cited as `doc:8a4da9da4e47#p27` by [t_0fed70] "1833奴隶制废除法LXIV明确排除EIC领地、Ceylon、St Helena；LXV开普时点延4月，毛里求斯延6月。现代议会介绍仅强调EIC例外不完整。" (fact) — "or to the Island of Ceylon, or to the Island of Saint Helena."
+- `sources/Barton_Scandinavia_Revolutionary_Era__96ed5e3f65eb.pdf` ← `downloads/Barton_Scandinavia_Revolutionary_Era__96ed5e3f65eb.pdf`
+  - "Barton_Scandinavia_Revolutionary_Era__96ed5e3f65eb.pdf"
+  - sha256 b3f85256d33fc74d78e4c2ff56c8e2d449009d1f30fede5f6055e6cfeedd278d
+  - cited by [t_8b4a3e] "瑞典的可购买性有文书基础：1811年2月卡尔·约翰向拿破仑秘密求购（结盟换补贴与挪威）被断然拒绝；1812年3月拿破仑改售芬兰只帮其抬价——法国买瑞典必卖丹麦的结构性互斥无法用钱解开" (inference) — "Karl Johan entered into secret negotiations with Napoleon for an alliance in return for subsidies a…"
+  - cited by [t_8b4a3e] "falsifier裁定："1808–12英瑞哥德堡贸易已使封锁名存实亡"成立——1810年瑞典自英进口≈700万riksdaler，美旗船入俄峰值1811年约225艘；S3北欧环节应编码为漏斗而非闸…" (interpretation) — "Swedish imports from Britain thus amounted in 1810 to nearly 7,000,000 riksdaler in value"
+  - cited by [t_8b4a3e] "芬兰模式（波尔沃保证+精英赎买+零汲取）是北欧存在的真实招抚模板，但与法国并合省汲取型模式财政不兼容：S6"波罗的海芬兰化"路径存在但法国从无财政余裕走" (interpretation) — "to give this people a political existence in such a way that it does not regard itself as conquered…"
+- `sources/CH_Acte_de_mediation_1803.pdf` ← `downloads/CH_Acte_de_mediation_1803.pdf`
+  - "CH_Acte_de_mediation_1803.pdf"
+  - sha256 07baf82fd23c070101c673697e483c80dbbc844f1c9299c1cba3c4c35ec04f56
+  - cited by [t_ccdcc8] "调停法联邦层极小化设计：联邦兵额15,203（伯尔尼2,292、苏黎世1,929…）、联邦经费仅490,507瑞郎/年、每邦常备≤200人、会期≤1月；新邦兵额占总额50.9%（本卡计算）；属地废除…" (fact) — "Sur 15.203 hommes, le contingent de Berne sera de 2292"
+  - cited in `nodes/r_5b1357a9c6/cards/t_ccdcc8/NL_netherlands_switzerland.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_ccdcc8/notes_swiss_docs.md`
+- `sources/CH_capitulation_militaire_1803.pdf` ← `downloads/CH_capitulation_militaire_1803.pdf`
+  - "CH_capitulation_militaire_1803.pdf"
+  - sha256 1af6e608fe0da76601fc2f06d631ad9a6bd9a65cf0c3eb196e50c21f34c92d66
+  - cited by [t_ccdcc8] "1803-09-27法瑞军事协约条款：16,000人自愿制、4团×4,000+每团1,000补充营、限欧陆使用（Art.18）、瑞士本族军事司法（Art.19）、法国十日内回防承诺（Art.24）、…" (fact) — "La République Française entretiendra a son Service seize mille hommes de Troupes Suisses... enrôlés…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_ccdcc8/NL_netherlands_switzerland.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_ccdcc8/notes_swiss_docs.md`
+- `sources/D1_Broers_Politics_Religion_Napoleonic_Italy__4c3bc326766c.pdf` ← `downloads/D1_Broers_Politics_Religion_Napoleonic_Italy__4c3bc326766c.pdf`
+  - "D1_Broers_Politics_Religion_Napoleonic_Italy__4c3bc326766c.pdf"
+  - sha256 5afb7e8091c40ed24643b09b809920554fa1e35fe1954ca70a97019180fca1bb
+  - cited as `doc:5afb7e8091c4#p196` by [t_b702da] "Broers直读（印pp.179–182）：拿破仑改革在意大利“教化群众”目标彻底失败，民众虔诚反因迫害强化；经拿破仑时代，教会不再可能从属俗权且“比其自由派对手更能自我重塑”——S5若维持教俗决裂…" (fact) — "emerged, if anything, strengthened by Napoleonic persecution"
+  - cited as `doc:5afb7e8091c4#p56` by [t_40198e] "教会维度倒U形：1801–08专约红利（比利时1803多数教士宣誓、讲坛劝征兵；莱茵三教区隶梅赫伦、Berdolet赢得信任）→1809绝罚后系统性拉断（根特/图尔奈司铎集体拒认新主教、亚琛继任主教…" (interpretation)
+- `sources/D1_Rowe_From_Reich_to_State__49f41cfc7013.pdf` ← `downloads/D1_Rowe_From_Reich_to_State__49f41cfc7013.pdf`
+  - "D1_Rowe_From_Reich_to_State__49f41cfc7013.pdf"
+  - sha256 efa2c87c4afbe40941e3d5e552166593f11c4ffa1b7c6e8509029b1f120bcd69
+  - cited as `doc:efa2c87c4afb#p193` by [t_40198e] "莱茵征兵结构：insoumission 30%（an IX–XIII）→34%（1806–10），始终高于帝国均值（21%→31%）且为阿尔萨斯（8%→17%）约两倍；而desertion 13%→…" (fact) — "Draft dodgers and deserters, Year IX (1800/1) to 1810"
+  - cited as `doc:efa2c87c4afb#p215` by [t_40198e] "1812年并合地预计毛额（Marion IV p.321引AF IV 1072，经F4图核）：比利时83M（人均24.8fr）、莱茵37.5M（20.8）、皮埃蒙特33M（17.7）、利古里亚16M…" (fact)
+  - cited by [t_1f7db4] "Rowe Table3显示莱茵1806–10逃征约34%而阿尔萨斯17%，但入伍后逃兵约3%对13%；同一地区是否“整合成功”随结果变量而反转。" (fact)
+  - cited as `doc:efa2c87c4afb#p193` by [t_1f7db4] "Rowe Table3显示莱茵1806–10逃征约34%而阿尔萨斯17%，但入伍后逃兵约3%对13%；同一地区是否“整合成功”随结果变量而反转。" (fact)
+  - cited by [t_1f7db4] "Roer1803税额为作者转引备忘录的paid11138406法郎，与旧制估6250000可算名义差，不能证明净财政贡献为正；作者明言无净流量数字。" (fact)
+  - cited as `doc:efa2c87c4afb#p216` by [t_1f7db4] "Roer1803税额为作者转引备忘录的paid11138406法郎，与旧制估6250000可算名义差，不能证明净财政贡献为正；作者明言无净流量数字。" (fact)
+  - cited as `doc:efa2c87c4afb#p193` by [t_1f7db4] "同源两期比较出现指标反转：1806–10莱茵征前逃避33.65%高于阿尔萨斯17.12%，入伍后逃亡3.00%却低于13.23%；单一整合指数会掩盖选择、替身与阶段差异。" (fact)
+- `sources/D1_Woolf_Napoleon_Integration_Europe__35001edb4643.pdf` ← `downloads/D1_Woolf_Napoleon_Integration_Europe__35001edb4643.pdf`
+  - "D1_Woolf_Napoleon_Integration_Europe__35001edb4643.pdf"
+  - sha256 46acd720f176ecf9d72cc780b735fbde1fab62b35f75a0ce9eb18c89131e282d
+  - cited as `doc:46acd720f176#p87` by [t_40198e] "省长法籍化梯度：萨伏依+日内瓦7任全法籍；莱茵16任中15法籍（唯一例外比利时人Boucqueau）；比利时28任中仅1比利时人+2意大利人；皮埃蒙特22任中9意大利人且1802年首任六省全部本地人…" (fact) — "None of the eighteen prefects who served in the Rhenish departments originated locally"
+  - cited as `doc:46acd720f176#p186` by [t_40198e] "显贵归附曲线2–9年：科隆1800拒市长职→1803–04旧Bürgermeister三人接受任命；皮埃蒙特106名炮兵军官1798整建制转法军、1810年'三十最高纳税人'150人中114旧贵族；…" (fact)
+  - cited as `doc:46acd720f176#p203` by [t_40198e] "整合判定（主线·中高置信）：国家机器层（行政≤3年、治安3–8年、征兵照额8–11年、司法即时-高接受、税制形式≤3年）在7–12年内全部达标；社会契约层（显贵+教会）达标但可逆；认同层除莱芒外无一…" (interpretation) — "the policy of ralliement was successful...the French regime had won acceptance—at least as long as …"
+  - cited as `doc:46acd720f176#p243` by [t_afeae6] "Woolf原书独立支持外援条件：「Apart from Spain, only two revolts seriously challenged French authority: the ende…" (fact) — "Both were dependent on outside support from a major power."
+  - cited as `doc:46acd720f176#p245` by [t_afeae6] "推翻「天主教＝抵抗」的假说：Woolf明确西班牙「both episcopate and secular clergy preached obedience to Joseph's governme…" (fact) — "both episcopate and secular clergy preached obedience to Joseph's government"
+  - cited as `doc:46acd720f176#p243` by [t_afeae6] "征兵冲击是时间递减变量而非静态属性：Woolf印p.232「conscription seems to have been accepted increasingly with resignatio…" (inference)
+- `sources/D2_Madelin_Rome_de_Napoleon.txt` ← `downloads/D2_Madelin_Rome_de_Napoleon.txt`
+  - "D2_Madelin_Rome_de_Napoleon.txt"
+  - sha256 78ac3c3029f76b03104857cfe47bd3f618c2b315f829dfd43b64100e7926656b
+  - cited as `doc:78ac3c3029f7` by [t_e0038f] "罗马两省1810年首次征兵（和平期、强驻军条件下）：征前三分之一拒征（réfractaires）、征后一半开小差；官方仍评价"比预期顺利"。Madelin脚注引AN AF IV 1509警务公报18…" (fact) — "un tiers de réfractaires avant, une moitié de déserteurs après"
+  - cited as `doc:78ac3c3029f7` by [t_e0038f] "1811年级罗马征兵质量：Trasimène 536名征兵三倍押送下仍逃80人；罗马60名补入17e线列者军医汰除27名重病（54%）；1812年教士宁烧洗礼登记册不交名单、Trasimène诸ca…" (fact) — "sur 536 conscrits du Trasimène, 80 seulement parviennent à s'échapper"
+  - cited as `doc:78ac3c3029f7#p375` by [t_afeae6] "罗马负例有保质期：1809–12可作「强制并合而无大规模起义」的观测点，但到1813年法国档案自陈农村匪患已具「un caractère insurrectionnel grave」。外圈负例不可外…" (fact) — "un caractère insurrectionnel grave"
+- `sources/E1_BlackSea_Odessa_exports_imports.xlsx` ← `downloads/E1_BlackSea_Odessa_exports_imports.xlsx`
+  - "E1_BlackSea_Odessa_exports_imports.xlsx"
+  - sha256 8227e6756d32151cad286737f3ef573b6adb958840542b4467f78602e23138b6
+  - cited by [t_02f417] "敖德萨小麦单港1815出口171,708公吨、1816 188,259公吨；网站将缺失表格单元渲为零，不可当观测零" (fact) — "Φύλλο1!C9=171707.827956336, C10=188258.842...; C7 empty"
+  - cited by [t_02f417] "敖德萨原表1813缺小麦量、1815=171707.827956336、1816=188258.836580136公吨后设折算" (fact) — "Φύλλο1!C7=blank; C9=171707.827956336; C10=188258.836580136"
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_blacksea_grain.md`
+- `sources/E1_BlackSea_statistics_sources.docx` ← `downloads/E1_BlackSea_statistics_sources.docx`
+  - "E1_BlackSea_statistics_sources.docx"
+  - sha256 351792e302a558d6410a2172b247a67808ec3a268fdd6e1184ccf1971cfcbb65
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_blacksea_grain.md`
+- `sources/E1_Chaptal1819_industrie_v2.txt` ← `downloads/E1_Chaptal1819_industrie_v2.txt`
+  - "E1_Chaptal1819_industrie_v2.txt"
+  - sha256 a77b035c9087f4c1701979e8d7d73c37bf8ee181cca5265e1b24f4cb894924f9
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_materials_02.md`
+- `sources/E1_Graham2023_FrenchNavalTimber.pdf` ← `downloads/E1_Graham2023_FrenchNavalTimber.pdf`
+  - "E1_Graham2023_FrenchNavalTimber.pdf"
+  - sha256 313c1f64bc403314b3227da79bea26334634ebc7a64d111ba61537d03c7172c9
+  - cited as `doc:313c1f64bc40#p9` by [t_02f417] "1669法国森林令对公社/教会林划保留四分之一，法国18世纪私林按不同申报逻辑操作；1775 Clérans 15–20k株仅228株被检查认为适舰" (fact) — "Between 15,000 and 20,000 trees ... only 228 trees ... considered suitable for their purposes."
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_colbert_forests.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_race_1815_1830.md`
+- `sources/E1_Porter_ProgressOfNation_1847.txt` ← `downloads/E1_Porter_ProgressOfNation_1847.txt`
+  - "E1_Porter_ProgressOfNation_1847.txt"
+  - sha256 68daef23399c3b484185f55ea89a1ede989abd8cd2a96c0d8bc5ea616d497625
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_materials_02.md`
+- `sources/EG_Driault_MohamedAly_1925.txt` ← `downloads/EG_Driault_MohamedAly_1925.txt`
+  - "EG_Driault_MohamedAly_1925.txt"
+  - sha256 20706b5becd14573f9b80d382342ded2bf67d35738646ba3a0443845fb447740
+  - cited by [t_ca3e8d] "阿里1810年拒英国“代办独立”提议并更愿与法国达成政治协约，但拿破仑只筹划军事远征；Driault明文指认此为错失：“une entente politique sans doute eût mi…" (fact) — "Il eût préféré s'entendre là-dessus avec la France… Napoléon ne songeait en ce sens qu'à une expédi…"
+  - cited by [t_ca3e8d] "拿破仑1810–12持续筹划埃及远征：1810-09-17问Decrès何时能运40,000人赴埃及并称“c'est là mon plan de campagne pour 1812”；1811-…" (fact) — "Quand aurai-je les moyens de porter en Égypte… total 40.000 hommes… C'est à mon plan de campagne po…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_ca3e8d/notes_driault.md`
+- `sources/EG_Driault_PolitiqueOrientale_1904.txt` ← `downloads/EG_Driault_PolitiqueOrientale_1904.txt`
+  - "EG_Driault_PolitiqueOrientale_1904.txt"
+  - sha256 98d213945e0f7cbe0ae6b9739e3197140c2f99ac2eeee6c0f6fbf5845b8937fc
+  - cited by [t_ca3e8d] "Sébastiani 1802使命与1803-01-30 Moniteur报告（“Six mille Français suffiraient aujourd'hui pour conquérir …" (fact) — "Six mille Français suffiraient aujourd'hui pour conquérir l'Égypte"
+- `sources/EG_Fahmy_AllPashasMen.txt` ← `downloads/EG_Fahmy_AllPashasMen.txt`
+  - "[t_ca3e8d] downloads/EG_Fahmy_AllPashasMen.txt"
+  - sha256 e1e04dc3df85a4b1c347c86e72d52996b49862f6d973ec580472bebd85d9f215
+  - cited by [t_ca3e8d] "1828–30法国提议阿里代取的黎波里、突尼斯、阿尔及尔，阿里经反复外交后以“代价过高且分散对叙利亚目标”拒绝；法国既而1830自征。埃及作为法国工具的天花板在阿里目标函数（独立>叙利亚>舰材基地>…" (fact) — "he was approached by the French to undertake an expedition to capture the Barbary states of Tripoli…"
+  - cited by [t_ca3e8d] "埃军规模三口径并存不得互填：Fahmy档案口径mid-1830s征兵累计130,000（人口约500万的2.6%）；Scott 1837实地口径：额定90,550、实额≤80,000埃籍正规，叙募+…" (fact) — "by the mid-1830s the number of conscripts had already reached 130,000"
+  - cited by [t_ca3e8d] "阿里Navarino前致Najib Efendi信自评海军差距：“我们虽是战争之人，于此艺尚在字母表（alif ba）阶段，而欧洲人早已理论付诸实践”；Scott 1837判埃海军“not powe…" (fact) — "although we are men of war (ehlli harbdan), yet we are still in the A B of that art (alif ba), wher…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_ca3e8d/notes_fahmy.md`
+- `sources/EG_Scott_Rambles_v2_1837.txt` ← `downloads/EG_Scott_Rambles_v2_1837.txt`
+  - "EG_Scott_Rambles_v2_1837.txt"
+  - sha256 4e4ee90b427eea1acc14e53a3de32b5b27ce87fc899e2382642cd29b5e828cc9
+  - cited in `nodes/r_5b1357a9c6/cards/t_ca3e8d/notes_aksan_scott.md`
+- `sources/F3_Todorov_redressement_1810_1813.pdf` ← `downloads/F3_Todorov_redressement_1810_1813.pdf`
+  - "F3_Todorov_redressement_1810_1813.pdf"
+  - sha256 0fd6bd047f2aa202443997ee7c29b0f138defb401fcd99d4ae3f37d0a3a13fc5
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`
+  - cited as `doc:0fd6bd047f2a#p15` by [t_b1a536] "Todorov的帝国控制口径表从1810年夏50艘升至1812年72艘、1814年4月74艘；1814分42旧法国港、21安特卫普、9荷兰、2热那亚/威尼斯/科孚。不是已配员可战数。" (fact) — "Été 1810 ... 50; 1812 ... 72; Avril 1814 ... 74"
+  - cited as `doc:0fd6bd047f2a#p14` by [t_b1a536] "1811年2月27日海军部报告称此前不进口外国铁，铜已有储备，法国及意大利大麻足用；此为Todorov转引的当期部门报告，而非永久无约束的现代审计。" (fact) — "les produits de la France et de l'Italie suffisent aux besoins du service"
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+  - cited as `doc:0fd6bd047f2a#p8` by [t_02f417] "法国1805橡木丰富与局部船港稀缺可并存；安特卫普流域拥有普查大橡木近62%，Caffarelli供给估算含主观折损且英国封锁出海" (inference) — "Le seul bassin d'Anvers concentre presque 62% de l'ensemble des arbres de chêne d'au moins 5 pieds …"
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_race_1815_1830.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/notes_sources.md`
+- `sources/F4_Marion_IV_1925.pdf` ← `downloads/F4_Marion_IV_1925.pdf`
+  - "F4_Marion_IV_1925.pdf"
+  - sha256 1f18be55f219f6abe4058a30ce58fab14d1f202daa0b4724634cecb004c41ed5
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_financial_addendum.md`
+- `sources/F4_Marion_IV_1925.txt` ← `downloads/F4_Marion_IV_1925.txt`
+  - "F4_Marion_IV_1925.txt"
+  - sha256 ecd835dcb3e05a946ec7b7f6cc208a5ac135485828cc6affbb99af3ff0dbfa12
+  - cited by [t_ccdcc8] "荷兰债务三分之一化的精确口径：全债年金78m法郎被否定三分之二，保留26m入法国国库负担（年息非本金）；法国自身同期永久年金仅62m——兼并荷兰使法国公债名目负担增四成" (fact) — "la dette considérable, 78 millions, fut répudiée pour les deux tiers mais inscrite pour un tiers à …"
+  - cited in `nodes/r_5b1357a9c6/cards/t_ccdcc8/NL_netherlands_switzerland.md`
+- `sources/F4_Oosterlinck2013.pdf` ← `downloads/F4_Oosterlinck2013.pdf`
+  - "F4_Oosterlinck2013.pdf"
+  - sha256 1d550bd519981c56f224d41eb2d252da19a1caec2e1e610b6a1cfdcfdf66d2de
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_01.md`
+- `sources/G1_Weis_Saekularisation_bayerische_Kloester.pdf` ← `downloads/G1_Weis_Saekularisation_bayerische_Kloester.pdf`
+  - "G1_Weis_Saekularisation_bayerische_Kloester.pdf"
+  - sha256 0144348752ebaffcb2b57ad3a56365091e10013b89736b0e6311650f22a57b24
+  - cited by [t_f55d87] "Weis(1983)：巴伐利亚世俗化的财政净收益微小——1825年终账净得约370万fl（含托钵僧残项不过约500万）；经常性收支扣除养老金、堂区再拨与承接修道院债务后为赤字；唯一大额收益是1812…" (fact) — "Die Gesamt-Nettoeinnahme des bayerischen Staates durch die Säkularisation betrug 3,7 Millionen fl."
+- `sources/G2_schmidt_berg_1905.txt` ← `downloads/G2_schmidt_berg_1905.txt`
+  - "[t_cbaee3] downloads/G2_schmidt_berg_1905.txt"
+  - sha256 75f4f23b7cf2e763f53f734b0968d59701d56f1a2131280295f96526845ae10e
+  - cited by [t_cbaee3] "贝格是北德唯一主动请求并入法国的单位（为得市场准入），被拒；否决力量含法国左岸保护主义利益集团（1810-09-16科隆商会致Ladoucette书，AN F12 549-550转录于Schmidt…" (fact) — "nous sommes persuadés que tous regarderont la réunion du grand-duché de Berg comme une des plus gra…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_cbaee3/G2_north_german_states.md`
+- `sources/Glenthoj_Ottosen_Experiences_of_War__6956a6cfa8f7.pdf` ← `downloads/Glenthoj_Ottosen_Experiences_of_War__6956a6cfa8f7.pdf`
+  - "Glenthoj_Ottosen_Experiences_of_War__6956a6cfa8f7.pdf"
+  - sha256 91379137ef81ec02caa68a2fa36b2296b37d90f2445f43b1839d1a8a4bd0f260
+  - cited by [t_8b4a3e] "挪威粮食杠杆倒挂：平年1/4口粮靠进口；1812–13饥荒按欧洲标准仅马德里1811–12可比，副总督警报1/4人口将亡；瑞典战争党明文把饥荒当促统武器（Adlersparre 1811）——S3越…" (inference) — "a quarter of the population would probably perish if things did not improve rapidly"
+  - cited as `doc:91379137ef81#p187` by [t_b702da] "挪威案例（Glenthøj & Ottosen pp.186–190亲读）：英国封锁+1812饥荒+哥本哈根调度失灵→事实自治（1807政府委员会）+差异化受苦→分离主义萌芽，无需任何“解放战争”或…" (inference) — "the mood in Norway is such that the conclusion of peace with Britain is regarded as the only means …"
+- `sources/IN1_appx_commerce_1831.txt` ← `downloads/IN1_appx_commerce_1831.txt`
+  - sha256 dd5f593fd09d8125062cc8ef679d6e1e7a40f1276290ad3c53e39851517f2810
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+- `sources/IN1_cardew_bengal_army.txt` ← `downloads/IN1_cardew_bengal_army.txt`
+  - sha256 a5455715ea825eec8bc654f333f53ad1e279cf5e1f87e2918ff45d65256544d4
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+- `sources/IN1_dutt_econ_hist_early.txt` ← `downloads/IN1_dutt_econ_hist_early.txt`
+  - sha256 cb8f05e6a65aff649e2ab860e5a7b1e927cef3abaa74ce547b5beb03a70c8c89
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+- `sources/IN1_eic_finance_report_1830.txt` ← `downloads/IN1_eic_finance_report_1830.txt`
+  - sha256 7ba2d716f7a83fd66f9083685a767a3ecefab935adda60a7dbdf68c85ef71c8a
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+- `sources/IN1_genappendix_1833.txt` ← `downloads/IN1_genappendix_1833.txt`
+  - sha256 66b865ed1c8a0b85b71748f6d65fa6b1ac591eb4c550c9feaacb43da8ef241a4
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+- `sources/IN1_malcolm_military_expenditure_1831.txt` ← `downloads/IN1_malcolm_military_expenditure_1831.txt`
+  - sha256 a5f3097e1f17366a067da0ad88bf32be000862e435c2827be584a524dec8a203
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+- `sources/IN1_malcolm_polhist_v2.txt` ← `downloads/IN1_malcolm_polhist_v2.txt`
+  - sha256 1439f4a72e38651f0bf7435341dace9936e6115f8dc45f3d473c77b37196a495
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_05cc22/notes_states_sikh_burma_nepal_hyd_gulf.md`
+- `sources/IN1_milburn_v1.txt` ← `downloads/IN1_milburn_v1.txt`
+  - "[t_0bb54c] downloads/IN1_milburn_v1.txt"
+  - sha256 0e7a5988e678a7ef30f697f798598b816d09ded713846c90431ff61cc5242721
+  - cited by [t_0bb54c] "公司保留孟买至广州船位的三分之二，余位拍卖但要求运费与货款入广州库房、换取对伦敦的汇票——这构成不依赖任何欧洲港口的汇款机器；孟买对华棉花出口峰年达8万包约3,000万磅。" (fact) — "They reserve to themselves two thirds of the chartered tonnage of their ships destined from Bombay …"
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/notes_trade.md`
+- `sources/IN1_milburn_v2.txt` ← `downloads/IN1_milburn_v2.txt`
+  - "[t_0bb54c] downloads/IN1_milburn_v2.txt"
+  - sha256 4b2b1a11601cb35061d9fb01387844b129b30b47fde28d6ab553dcaf67e606fd
+  - cited by [t_0bb54c] "英国国库从茶－中国贸易获得的关税与消费税（1792-3至1808-9共三17年）合计£32,290,599（年均约£1.9m）；Milburn的宽口径"对国家的有益总额"为£63,029,807（年…" (fact) — "forming a total of £32,290,599, which, added to the above £30,739,208, forms a beneficial total to …"
+  - cited by [t_0bb54c] "孟加拉鸦片对华输出值1795-6仅Sicca Rs 2,51,450，1805-6已达Sicca Rs 32,94,570；鸦片专卖收入1804-5为£725,895、1807-8为£801,467…" (fact) — "1807-8_ 801,467"
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/notes_trade.md`
+- `sources/IN1_mill_wilson_v7.txt` ← `downloads/IN1_mill_wilson_v7.txt`
+  - sha256 c0f6b51e621e7262cfb4c3183eb21e5cc0660eb97e8c3abde55244be6fb98b7c
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+- `sources/IN1_minto_in_india.txt` ← `downloads/IN1_minto_in_india.txt`
+  - "[t_0bb54c] downloads/IN1_minto_in_india.txt"
+  - sha256 580bcd19ed4c6a6c1f933462ced8cdcdb9cdd14dd1a1b4333b19efe7d3669e2a
+  - cited by [t_0bb54c] "明托1807年致控制委员会主席的威胁评估：两万法军不能征服英属印度，但会造成"巨大的当下灾难"；他甚至不愿看到一半于此数目的部队在印度登陆。运载瓶颈不在船（阿拉伯与波斯湾商船吨位充足）而在逐次集结与…" (fact) — "20,000 French troops commanded by French officers, supplied with all the means which attend such ar…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/notes_politics.md`
+- `sources/IN1_papers_eia_1812.txt` ← `downloads/IN1_papers_eia_1812.txt`
+  - sha256 4820cdd8b603180e91017fee8dfa77509fc3dcaad36ea017a1581e37bd67d7bd
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+- `sources/IN1_papers_general_revenues_1813.txt` ← `downloads/IN1_papers_general_revenues_1813.txt`
+  - sha256 4413cc184d51e8aa04cbba4e428e76cd59aef549f1811f74af9ff444a301d0ea
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+- `sources/IN1_papers_negociation_1812.txt` ← `downloads/IN1_papers_negociation_1812.txt`
+  - "[t_0bb54c] downloads/IN1_papers_negociation_1812.txt"
+  - sha256 54ec11883f64a0668bcb56fda3adf7394b043c0b7250de750fffac48b9468a7e
+  - cited by [t_0bb54c] "东印度公司董事会1812年正式函件自述：印度债务由1793年的800万英镑升至"约三千二百万"（thirty-two millions），并归因于与本土诸邦的反复战争（Wellesley战争）。此为…" (fact) — "wars with the Native Powers have been repeatedly carried on, to the vast accumulation of the Indian…"
+  - cited by [t_0bb54c] "公司1812年官方立场（对法威胁反应函数的核心锚点）：法国以大军陆路入侵印度属"欧洲战争、欧洲目标"，即使印度岁入不负债务也"very inadequate"，应由英国国库（national fun…" (fact) — "from the avowed design of France to invade our Indian possessions with great armies by land, it may…"
+  - cited by [t_0bb54c] "公司会计总长Cartwright 1812-03-04签署之总账（印度账截至1810-04-30、本土账截至1811-03-01）：经营所需资本总额£51,182,137；股本£7,780,000、…" (fact) — "Sum total of capital neceffary to carry on the concern ... 51,182,137"
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/notes_finance.md`
+- `sources/IN1_sel_cttee_reports_1808_12.txt` ← `downloads/IN1_sel_cttee_reports_1808_12.txt`
+  - "[t_0bb54c] downloads/IN1_sel_cttee_reports_1808_12.txt"
+  - sha256 5c8e7d03ce2cadedf7989910e53ebf744b7274fb460aa987c5fded0fd2889f9b
+  - cited by [t_0bb54c] "1796→1808公司自有欧籍步兵由6团降至3团，而土著步兵26团增至59团、土著骑兵8团增至16团；欧籍骨干缺口由国王军团填补（1812年董事会称在印王军"above twenty thousan…" (fact) — "the European infantry, before confifting of 12 battalions, was converted into fix regiments; the na…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/notes_military.md`
+- `sources/IN1_wilson_madras_army_v3.txt` ← `downloads/IN1_wilson_madras_army_v3.txt`
+  - "[t_0bb54c] downloads/IN1_wilson_madras_army_v3.txt"
+  - sha256 3bc446ea3c253cf20afec7b9d6f4fa4092853b770e11307c9dc06099092bd208
+  - cited by [t_0bb54c] "1809年马德拉斯军官哗变的结构性原因包括"王军军官近来占据不成比例的指挥职位"与津贴被削（1807-07集市税津贴、1808-05帐篷承包），近因是巴洛未经审判的停职。→ 任何因法国威胁而增派王军…" (fact) — "the higher allowances granted to the officers of the Bengal army, and the undue proportion of comma…"
+  - cited by [t_0bb54c] "1806年韦洛尔兵变：守军为HM第69团4个连（返表330列兵）⬕50公司土著步兵；蒙兰开城门夺回后"About 850 sepoys were killed"（Wilson引1806-09-16总…" (fact) — "About 850 sepoys were killed, the rest escaped by the sally-port on the southern face"
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/notes_military.md`
+- `sources/IN2_compton_adventurers.txt` ← `downloads/IN2_compton_adventurers.txt`
+  - sha256 9676929cff57f7a3426cb02c7c9522cdcc66a21189e8f44556b34e0f26c664c3
+  - cited in `nodes/r_5b1357a9c6/cards/t_05cc22/notes_states_sikh_burma_nepal_hyd_gulf.md`
+- `sources/IN2_gordon_marathas.txt` ← `downloads/IN2_gordon_marathas.txt`
+  - "[t_05cc22] downloads/IN2_gordon_marathas.txt"
+  - sha256 47263908e0303b03f848748e23c79889ba63cc2f446d145b110ae0ecb88b65d1
+  - cited by [t_05cc22] "马拉塔政体无可签约集体主体：非帝国非联邦，核心圈每代更换、失败者被碾碎；法国只能与单家双边缔约且其对手自动倒英（1802–05实况）" (interpretation) — "it was characteristic of the Maratha polity that the inner circle of power changed with each genera…"
+  - cited by [t_05cc22] "1803年12月诸约禁止欧洲人在任何马拉塔军队服役，法国军官通道被法律封死；Scindia欧洲军官（主要法籍）叛离解散部队是北线英胜主因" (fact) — "largely because Shinde's European officers (mainly French) deserted and disbanded their troops... T…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_05cc22/notes_gordon_cooper.md`
+- `sources/IN2_mill_wilson_v7_real.txt` ← `downloads/IN2_mill_wilson_v7_real.txt`
+  - sha256 a52228984a2b970fb669c4beae92c63bbc74cc216d539dcc330b8ab6d5f2b224
+  - cited in `nodes/r_5b1357a9c6/cards/t_05cc22/notes_wilson_v7_travancore_vellore.md`
+- `sources/IN2_parkinson_eastern_seas.txt` ← `downloads/IN2_parkinson_eastern_seas.txt`
+  - "[t_05cc22] downloads/IN2_parkinson_eastern_seas.txt"
+  - sha256 ee2465ca603bbf51982ca863b1180d1845141fe5eb890bcff6d537e06c5f360d
+  - cited by [t_05cc22] "法国印度洋投送四窗口（1803/1805/1808/1810）均被欧洲事件关闭而非印度洋不可达；实际十年送达≈1,200人+5巡航舰。英方同期完成两次同量级跨洋远征（1810毛里求斯6,848–11…" (inference)
+  - cited in `nodes/r_5b1357a9c6/cards/t_05cc22/notes_parkinson.md`
+- `sources/IN2_pemble_nepal.txt` ← `downloads/IN2_pemble_nepal.txt`
+  - sha256 b2ef02ef054c2076ca1f892b8201a4735a47ba2b45c347cc5dbb94ba41db78af
+  - cited in `nodes/r_5b1357a9c6/cards/t_05cc22/notes_states_sikh_burma_nepal_hyd_gulf.md`
+- `sources/IN2_sen_french_india.txt` ← `downloads/IN2_sen_french_india.txt`
+  - "[t_05cc22] downloads/IN2_sen_french_india.txt"
+  - sha256 07b2dcfdf17a019a179284be1ea45445eacb5579f7ce0c8fe3bd0600d682460d
+  - cited by [t_05cc22] "Binot在本地治里投降前数日接待Scindia派来的婆罗门使者，请法军在孟买-果阿间马拉巴海岸登陆并允诺马拉塔协助；Decaen 1803年11月派Courson/Durhène携致Perron、…" (fact) — "he also received a Brahmin agent from Sindhia, who came to solicit the French to land an expedition…"
+  - cited by [t_05cc22] "拿破仑对马拉塔盟友的真实态度：1804年9月向Decaen特使Lefebvre细问少量兵力能否成功，并对马拉塔人的诚意表示严重怀疑" (fact) — "Napoleon questioned him closely about the chances of success in India with so few men as asked for …"
+  - cited by [t_05cc22] "法国印度洋投送的四个计划窗口均有档案锚点：1803 Decaen自请6战列舰+3000步兵+500骑；1805-01-16致Decrès信（Corr. X 8279）三分舰队20,000法军+3,0…" (fact) — "On the 10th June Napoleon gave precise instructions: 12 ships were to start from Nantes, 13 from Lo…"
+  - cited by [t_05cc22] "1810年法兰西岛防御实力：陆军约900+陆战队炮兵300+国民自卫队800≈两千人（含忠诚不可恃的爱尔兰战俘），对英登降军11,306战斗员；1809年8月征奴入伍公告因欧洲居民恐惧奴隶总起义而被…" (fact) — "Decaen issued a proclamation in August 1809, calling upon slave-holders to place a certain number o…"
+  - cited by [t_05cc22] "1808-06-10拿破仑精确令：Nantes 12+Lorient 13+Brest 31=56舰载19,600兵+10,600水手赴印度洋，西班牙起义后永久放弃——本单位最大单点改判杆在B4（伊…" (fact) — "On the 10th June Napoleon gave precise instructions: 12 ships were to start from Nantes, 13 from Lo…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_05cc22/notes_sen_french_india.md`
+- `sources/IT2_Davis_Naples_and_Napoleon__56c91cc713a7.pdf` ← `downloads/IT2_Davis_Naples_and_Napoleon__56c91cc713a7.pdf`
+  - "[t_8f2668] downloads/IT2_Davis_Naples_and_Napoleon__56c91cc713a7.pdf"
+  - sha256 b481584c1b7988313561f363adef3a049cc055758d95cef721b83e25014828ac
+  - cited by [t_8f2668] "拜永条约1808-03-30对缪拉的义务：战时供法养18,000步+3,000骑+25炮（费用全由那国库承担）；代养驻境内法军；造并6艘战列舰；执行对英封锁；秘密条款以缪拉在法全部财产作担保" (fact) — "obliged the king of Naples in time of war to contribute 18,000 infantry, 3,000 cavalry, and a train…"
+  - cited by [t_8f2668] "那不勒斯税收57m(1808)→61m(1809)→72m里拉(1812)；1812年军费占总预算80%；1813战争预算57m里拉≈1806全部岁入；已无领地可卖" (fact) — "The increase in tax revenues over the previous four years had been considerable: from 57,000,000 li…"
+  - cited by [t_8f2668] "下卡拉布里亚一省1806-11至1811-03共有5,421名盗匪投降/被俘/被杀/被处决（王家宪兵队1812年报告）；Manhès自报1810-11冬杀/处决900人" (fact) — "between November 1806 and March 1811... 5,421 bandits had surrendered or been captured, killed, or …"
+  - cited by [t_8f2668] "烧炭党：1810那不勒斯首个会所（1813卡拉布里亚首个会所几可肯定由省督Briot创建）；1815估≥30,000人(纯属猜测)；1816保王将军Nunziante称仅卡拉布里亚就有>50,000…" (fact)
+  - cited in `nodes/r_5b1357a9c6/cards/t_8f2668/notes_davis.md`
+- `sources/IT2_Esdaile_Popular_Resistance__5769805d6a10.txt` ← `downloads/IT2_Esdaile_Popular_Resistance__5769805d6a10.txt`
+  - "[t_5b1d64] downloads/IT2_Esdaile_Popular_Resistance__5769805d6a10.txt"
+  - sha256 d2706e8e8f1de02b5e1c63e7f1f2ac2299c9ca20176e29577f3eb58d5cb47679
+  - cited by [t_5b1d64] "西班牙教会动员双重口径：Grab称教士在起义与洪塔中骨干；Esdaile反证加泰罗尼亚游击队多为世俗、教士任指挥官罕见。教会角色在合法性供给而非军事指挥。" (fact) — "most of the guerrilla bands that were formed in Catalonia were wholly secular"
+  - cited as `doc:d2706e8e8f1d#p90` by [t_afeae6] "异常案例莱茵1796–99：落在最高风险配置却无大规模起义，同期驻法军136,000–187,000人，约占人口十分之一。Rowe据此反问西班牙若面对同等比例约130万驻军是否仍能反抗——这是比较论…" (fact) — "Armed resistance was out of the question, given French military power."
+- `sources/IT2_Gregory_Sicily_Insecure_Base__c5e2c8e4567c.pdf` ← `downloads/IT2_Gregory_Sicily_Insecure_Base__c5e2c8e4567c.pdf`
+  - "[t_8f2668] downloads/IT2_Gregory_Sicily_Insecure_Base__c5e2c8e4567c.pdf"
+  - sha256 59975399ed8d3e708cda9e84e148993f4b91eacccdc09f5928743d03513b41a1
+  - cited by [t_8f2668] "英国对西西里补贴：1805密约£170,000一次性+年£150,000（参战升£300,000）；1807-03-23条约年£300,000；后增至£400,000/年；实际流向流亡者年金与王后间…" (fact) — "to pay a subsidy of £300,000 annually, backdated to September 1805"
+  - cited by [t_8f2668] "1812西西里宪法：两院制、议会独占立法、司法独立、陪审制、废封建权利与限嗣继承（有补偿）；选民限识字者约15,000/150万人口；西西里宣布独立、王不得离岛" (fact) — "only the literate had the right to vote and the right to sit in parliament (which meant about 15,00…"
+- `sources/IT2_Johnston_v1.txt` ← `downloads/IT2_Johnston_v1.txt`
+  - "[t_8f2668] downloads/IT2_Johnston_v1.txt"
+  - sha256 d440d015ea0c7f1e11c64d4951d51c67ae986835b3fbc639c45c37a869046f9e
+  - cited by [t_8f2668] "缪拉军（不含境内法军）：1812-07=29,000→1812-10=35,000→1813-10=46,000；1815实际野战军约35,000人+5,000骑+60炮（御前会议自称80,000）…" (fact) — "From 29,000 men, exclusive of French troops in the kingdom, which it numbered in July 1812, it had …"
+- `sources/IT2_Rosselli_Bentinck_Sicily__c2d83f774574.pdf` ← `downloads/IT2_Rosselli_Bentinck_Sicily__c2d83f774574.pdf`
+  - "[t_8f2668] downloads/IT2_Rosselli_Bentinck_Sicily__c2d83f774574.pdf"
+  - sha256 47b2c3b525e12101a3b08acd0233af671b9a3c32f7ce1a118bf7f11fc97b5043
+  - cited by [t_8f2668] "英国吞并西西里选项：代理人层反复提出（Moore 1807、Drummond 1806、Howick 1807未发训令、Bentinck 1814 Sogno filosofico）、内阁层每次否决…" (fact) — "measures which would have in fact rendered Sicily a province of Great Britain"
+- `sources/IT3_Consalvi_memoires_v1_1866.txt` ← `downloads/IT3_Consalvi_memoires_v1_1866.txt`
+  - "IT3_Consalvi_memoires_v1_1866.txt"
+  - sha256 681099ce8111eaf19df12ecb06079971d207f59f6b04f7d9d68de87bd50c7c56
+  - cited by [t_5b1d64] "拿破仑亲述备选方案：1801谈判破裂时当面威胁以亨利八世方式改宗并输出全欧（En changeant la Religion en France, je la changerai dans pres…" (fact) — "Si Henri VIII, qui n'avait pas la vingtième partie de ma puissance, a su changer la Religion de son…"
+- `sources/IT3_Pacca_memoires_v2_fr_1833.txt` ← `downloads/IT3_Pacca_memoires_v2_fr_1833.txt`
+  - "IT3_Pacca_memoires_v2_fr_1833.txt"
+  - sha256 496f6034a116e82108aec7a1a5571b67fcb563f70659cacfa7c7f426b5a325d2
+  - cited by [t_5b1d64] "1813枫丹白露falsifier拆解：教皇个人可被隔离+疲劳战术压弯（1811萨沃纳笔记、1813-01-25两次实证），但黑衣枢机网络两次均于数周内促成撤回；撤回动力是教会法先例逻辑（防各国宫廷…" (inference) — "nous regardons comme nuls les deux écrits, tant celui qui a été fait à Savone que celui du 25 janvi…"
+  - cited by [t_5b1d64] "1808春教廷已正式书面提出本次战争内关闭对英港口+武装守海岸的让步，但拒绝加入进攻性联盟。冲突可谈判空间：封锁事实执行可换，盟约形式与世俗主权不可换。" (fact) — "s'est déjà déclarée prête à fermer, dans la guerre actuelle, ses ports aux Anglais"
+- `sources/Lieven_Russia_Against_Napoleon__eb0222af5482.epub` ← `downloads/Lieven_Russia_Against_Napoleon__eb0222af5482.epub`
+  - sha256 b3ffe18600523bb22d310707d6e9a03bce7408cd8b20bc047ee17a330a34b0cf
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/notes_schools_03.md`
+- `sources/M1_Antipa2014_fiscal_sustainability.pdf` ← `downloads/M1_Antipa2014_fiscal_sustainability.pdf`
+  - "M1_Antipa2014_fiscal_sustainability.pdf"
+  - sha256 27a81e006bc26be17118cdbc2fd9739a81eb27ddcca9d203fd383096a2182975
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+- `sources/M1_Antipa2016_JEH.pdf` ← `downloads/M1_Antipa2016_JEH.pdf`
+  - "M1_Antipa2016_JEH.pdf"
+  - sha256 52a1e16a8dad04198c5b7ea6d97b7a6ac78de5023adf7b9cca58d23e2c3e5ea1
+  - cited by [t_0a8308] "Antipa 2016英国3% consol日度收益率1805–08断点：特拉法加已于11月6日传伦敦，11月14日断点后收益率区制均值5.10→4.95%，不是单日变化。" (fact)
+  - cited as `doc:52a1e16a8dad#p28` by [t_0a8308] "Antipa 2016英国3% consol日度收益率1805–08断点：特拉法加已于11月6日传伦敦，11月14日断点后收益率区制均值5.10→4.95%，不是单日变化。" (fact)
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+- `sources/M1_Antipa_Chamley2017_UKFR.pdf` ← `downloads/M1_Antipa_Chamley2017_UKFR.pdf`
+  - "M1_Antipa_Chamley2017_UKFR.pdf"
+  - sha256 21ef3d917a4a4c4b8b1e1e40ae84c6d5db8cbbd16cce4dc4d7813781a214ff7c
+  - cited by [t_0a8308] "英国纸镑兑汉堡2.5月期远期票据约34 schillings/£维持至1808年底，之后渐贬，论文归因伊比利亚战费、盟友补贴，但价格并不唯一识别主权终局。" (fact) — "the exchange rate fluctuated around 34 schillings (Flemish banco) per pound until the end of 1808"
+  - cited as `doc:21ef3d917a4a#p35` by [t_0a8308] "英国纸镑兑汉堡2.5月期远期票据约34 schillings/£维持至1808年底，之后渐贬，论文归因伊比利亚战费、盟友补贴，但价格并不唯一识别主权终局。" (fact) — "the exchange rate fluctuated around 34 schillings (Flemish banco) per pound until the end of 1808"
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_04.md`
+- `sources/M1_Leonard_marine_insurance.pdf` ← `downloads/M1_Leonard_marine_insurance.pdf`
+  - "M1_Leonard_marine_insurance.pdf"
+  - sha256 7074ba31cdb3f354b0615bed6f347959b0b6ca4e5c6ad802aed0d14b84ee8c75
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_03.md`
+- `sources/M1_LevyGarboua_Monnet2016.pdf` ← `downloads/M1_LevyGarboua_Monnet2016.pdf`
+  - "M1_LevyGarboua_Monnet2016.pdf"
+  - sha256 ceab86f88d13e20b71a250f6017bb03280d2ba8077cd6038bb6ffbfd24f0da37
+  - cited by [t_0a8308] "法国1803–1815月度长期收益率为市场5%永续rente（该论文定义），Monnet数据 C 列已核读。" (fact) — "Jusqu’à la Seconde Guerre mondiale, nous prenons le taux de marché de la rente perpétuelle émise pa…"
+  - cited as `doc:ceab86f88d13#p4` by [t_0a8308] "法国1803–1815月度长期收益率为市场5%永续rente（该论文定义），Monnet数据 C 列已核读。" (fact) — "Jusqu’à la Seconde Guerre mondiale, nous prenons le taux de marché de la rente perpétuelle émise pa…"
+  - cited by [t_0a8308] "Monnet法5% rente月度序列是 Vaslin、Courtois、Le Bris 的采集，经 Le Bris 博士论文与 Monnet/Levy-Garboua 二次编表。" (fact) — "Ces taux ont été recueillis par Jacques-Marie Vaslin, Alphonse Courtois et David Le Bris, et compil…"
+  - cited as `doc:ceab86f88d13#p22` by [t_0a8308] "Monnet法5% rente月度序列是 Vaslin、Courtois、Le Bris 的采集，经 Le Bris 博士论文与 Monnet/Levy-Garboua 二次编表。" (fact) — "Ces taux ont été recueillis par Jacques-Marie Vaslin, Alphonse Courtois et David Le Bris, et compil…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+- `sources/M1_LlorcaJana_marine_insurance.pdf` ← `downloads/M1_LlorcaJana_marine_insurance.pdf`
+  - "M1_LlorcaJana_marine_insurance.pdf"
+  - sha256 30ac696b05c2650adfc176c19a78a05f46b70d6468905cfd9a8045e8822b59ea
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_03.md`
+- `sources/M1_tauxFrance1800_2015.xlsx` ← `downloads/M1_tauxFrance1800_2015.xlsx`
+  - "M1_tauxFrance1800_2015.xlsx"
+  - sha256 827092b8dd98f922e3901bb4b682a091829bacf595cfa109dc2a0b0171648ebb
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+- `sources/MX_Hidalgo_Riano_Granaditas_1810.pdf` ← `downloads/MX_Hidalgo_Riano_Granaditas_1810.pdf`
+  - "MX_Hidalgo_Riano_Granaditas_1810.pdf"
+  - sha256 46ec015b0dc69494d33642f698e6b486b5f68658640645627464b5d7d0f62ab4
+  - cited in `nodes/r_5b1357a9c6/cards/t_9bd988/notes_politics_society.md`
+- `sources/MX_Humboldt_Essai_t3_fr.txt` ← `downloads/MX_Humboldt_Essai_t3_fr.txt`
+  - "MX_Humboldt_Essai_t3_fr.txt"
+  - sha256 5fb2fc70f96026bd8db91cc7a7a2096c3cb3f996f4e82b488977613a873c58ed
+  - cited by [t_9bd988] "水银是白银产出的硬约束而非软约束：Humboldt 1802年亲见瓜纳华托因缺汞而汞齐法受阻、矿井积压矿石、矿价下跌；Brading&Cross记载17世纪水银运量腰斩后约五年白银产出随之崩落。反事…" (fact) — "les produits se vendoient à des prix très-bas, parce que le manque de mercure entravoit l'amalgamat…"
+  - cited by [t_9bd988] "新西班牙农业总产值（约2,900万piastres）大于金银产值约三分之一（Humboldt据什一税推算）。把新西班牙当作纯白银单位是结构性误判。" (fact) — "la valeur de l'or et de l'argent des mines du Mexique est presque d'un quart plus petite que la val…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_9bd988/notes_humboldt_mining.md`
+- `sources/MX_INEHRM_Iturrigaray_1808.pdf` ← `downloads/MX_INEHRM_Iturrigaray_1808.pdf`
+  - "MX_INEHRM_Iturrigaray_1808.pdf"
+  - sha256 41309a4dc88adc71a727721235b0518edf339a5296aecb58baec1ffb80cb0d4b
+  - cited as `doc:41309a4dc88a#p31` by [t_9bd988] "1808年九月政变的领袖Gabriel de Yermo在政变当日的法律身份是一名Consolidación债务人：负债200,000 pesos（1806-01-13被要求先缴131,200），至…" (fact) — "El 13 de enero de 1806, solamente se le exigieron 131,200. Al negarse a pagar, vino la orden de emb…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_9bd988/notes_politics_society.md`
+- `sources/MX_INEHRM_Sentimientos_de_la_Nacion.pdf` ← `downloads/MX_INEHRM_Sentimientos_de_la_Nacion.pdf`
+  - "MX_INEHRM_Sentimientos_de_la_Nacion.pdf"
+  - sha256 ea594452c3eff813c7681ec45e3eec04382c139f656ce6d701ef904703cdbfb4
+  - cited in `nodes/r_5b1357a9c6/cards/t_9bd988/MX_new_spain_cuba.md`
+- `sources/MX_TwoIslands_Java_Cuba_NWIG.pdf` ← `downloads/MX_TwoIslands_Java_Cuba_NWIG.pdf`
+  - "MX_TwoIslands_Java_Cuba_NWIG.pdf"
+  - sha256 a6a2c8acc763c7777d92bf4b4023f45a506ecabdcb34036fac06e75dc29b6c2c
+  - cited in `nodes/r_5b1357a9c6/cards/t_9bd988/notes_politics_society.md`
+- `sources/MX_Valladolid1809_Lecturas.pdf` ← `downloads/MX_Valladolid1809_Lecturas.pdf`
+  - "MX_Valladolid1809_Lecturas.pdf"
+  - sha256 fa8b93c9f3416538053cb8b1641f883c107e6a1b5cf25371c3b398c86fda0a04
+  - cited in `nodes/r_5b1357a9c6/cards/t_9bd988/MX_new_spain_cuba.md`
+- `sources/MX_Vazquez_Proclamas_Cuba_1808.pdf` ← `downloads/MX_Vazquez_Proclamas_Cuba_1808.pdf`
+  - "MX_Vazquez_Proclamas_Cuba_1808.pdf"
+  - sha256 90b0ffc8ef9ee57b3f6b9a2c8b93afa3f204d0aa524bca4457930f092d2bcc47
+  - cited as `doc:90b0ffc8ef9e#p3` by [t_9bd988] "杰攄2佛逊禁运提供了“大陆体系式贸易断绝施于加勒比种植园经济”的唯一实测：一个收获季内对美贸易腻斩、进口物价三倍、三分之二的1808年糖收成滞销。" (fact) — "descendió a la mitad el comercio con Norteamérica, lo que triplicó los precios de los productos de …"
+  - cited in `nodes/r_5b1357a9c6/cards/t_9bd988/notes_politics_society.md`
+- `sources/Marsot Egypt Muhammad Ali__10b6fc7c9ca2.pdf` ← `downloads/Marsot Egypt Muhammad Ali__10b6fc7c9ca2.pdf`
+  - "Marsot Egypt Muhammad Ali__10b6fc7c9ca2.pdf"
+  - sha256 dc88b651e8263fe690c8b81f68a69b66327cc97c6e317a5b2ce23f19a3ac04ae
+  - cited by [t_ca3e8d] "1810–13埃及粮食经马耳他comptoir卖往西班牙与葡萄牙，实质喂养英国地中海-半岛战争体系；法国领事Drovetti逐月记录赴马耳他粮船并估粮贸利润45–50m pts。S3封锁越严此线越值…" (fact) — "the wali decided to open a warehouse or comptoir in Malta which would sell grain in Spain and Portu…"
+  - cited by [t_ca3e8d] "红海舰队能力天花板：1809–11年建的红海分舰队为18艘100–150吨小船，在开罗Bulaq造好后拆件驼运至苏伊士装配，另向马斯喀特苏丹租船——苏伊士无舰材无大厂，S4经埃及的军团级海运不成立。" (fact) — "eighteen ships varying in weight between 100 and 150 tons were built in the Bulaq arsenal and carri…"
+- `sources/NL_Joor_SoldiersCitizensCivilians2009.pdf` ← `downloads/NL_Joor_SoldiersCitizensCivilians2009.pdf`
+  - "NL_Joor_SoldiersCitizensCivilians2009.pdf"
+  - sha256 caa0e8d86884a95747fadf799bca0b02617a75f139a99ea23d815dd26caff000
+  - cited by [t_ccdcc8] "Joor骚乱定量：1806–13年>580起unrest、其中>80起revolt（≥20人暴力对抗）；动因：军事/征兕35%、财税+封锁26%、反政杕24%、宗教仅4%；revolt的2/3发生在…" (fact) — "the research identified over 580 collective actions in the category of 'unrest'... included more th…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_ccdcc8/NL_netherlands_switzerland.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_ccdcc8/notes_joor.md`
+  - cited as `doc:caa0e8d86884#p191` by [t_e0038f] "荷兰抵抗总量（Joor档案系统研究）：1806–13年unrest类集体行动580+，其中20人以上暴力对抗当局的revolts超80次；revolts的67%发生在并合后（1810–1813）；动…" (fact) — "the research identified over 580 collective actions in the category of 'unrest'"
+  - cited as `doc:caa0e8d86884#p123` by [t_e0038f] "汉堡走私与贸易崩溃硬数字：柏林敕令后6个月1,475船无阻入港、59万吨英货公开售卖；汉堡付150万法郎贿款；Altona路线日坆6,000–10,000人次走私、法方没收≤5%；并合后：435家糖…" (fact) — "1475 vessels arrived in Hamburg without impediment. British goods estimated at 590,000 tons were so…"
+  - cited as `doc:caa0e8d86884#p126` by [t_e0038f] "汉萨并合的补偿缺失：商人初期希望以帝国成员身份平等进入法国市场，结果关税壁垒依旧、许可证制度偏袒法国港口——并合连"市场准入"这一第一补偿都没给。这是外圈与内圈整合结果分岔的关键机制变量。" (fact) — "To their bitter disappointment, tariff barriers remained... Napoleon's licence system privileged Fr…"
+  - cited as `doc:caa0e8d86884#p202` by [t_afeae6] "荷兰档案分类独立佐证同一点：1806–13抗争动因中军事义务35%、财税与封锁26%、直接反政权24%，宗教仅约4%，却仍发生大规模抗争。" (fact) — "only 4 per cent can be considered religious in origin."
+- `sources/NL_Verheijen_Nederland_onder_Napoleon.pdf` ← `downloads/NL_Verheijen_Nederland_onder_Napoleon.pdf`
+  - "NL_Verheijen_Nederland_onder_Napoleon.pdf"
+  - sha256 495d00bad787e67a021815a85828239f0021664b1f915e47b96f9a211f7a2f2c
+  - cited in `nodes/r_5b1357a9c6/cards/t_ccdcc8/NL_netherlands_switzerland.md`
+- `sources/OT_Aksan_text.txt` ← `downloads/OT_Aksan_text.txt`
+  - "[t_66ee8d] downloads/OT_Aksan_text.txt"
+  - sha256 d2bcc278ce58aa4f5eba059383d0125f9f2d1601c4e309d7d957c4bc90f81ac0
+  - cited by [t_66ee8d] "1812年3月拿破仑请马哈茂德二世率80,000人入波兰的邀盟（随法奥同盟+保证奥斯曼完整消息一同抵京）被奥斯曼方面实质无视：提尔西特背叛记忆主导决策；Galib立场为若必须结盟宁法勿俄，但中立优先。" (fact) — "Mahmud II and his grand vizier still recalled what was generally perceived as the treachery of Tils…"
+  - cited by [t_66ee8d] "耶尼切里规模三层账：1826年名册13.5–14.5万张esame，伊斯坦布尔实际在勤不足1万；1809年出征实测：点名4,000人但坚持领14,000份饷。esame已证券化、全社会持有——废除耶…" (fact) — "some 135,000–145,000 names were on the rolls, while not more than 10,000 were on duty in Istanbul"
+  - cited by [t_66ee8d] "B7反直觉发现：法国对俄威胁越大，奥斯曼和约条款越好。俄因对法备战1811–12年从要求全部两公国退到Seret线再退到Prut线，并放弃两个秘密条款与同盟要求（奥斯曼从未批准，俄最终撤回）。若B7…" (inference) — "The idea of an alliance, and the two secret articles, never ratified by the Ottomans, were dropped …"
+  - cited by [t_ca3e8d] "Konya 1832-12-21：奥斯曼50,000对埃军15,000，奥方奤92炮、伤亡3,000、被俘10,000（含大维齐尔Reşid），埃方仅262死530伤；Marmont评若即刻进军可在…" (fact) — "The Ottoman forces lost 92 cannons, 3,000 casualties and 10,000 prisoners. The Egyptians, by contra…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_ca3e8d/notes_aksan_scott.md`
+- `sources/OT_Shaw_text.txt` ← `downloads/OT_Shaw_text.txt`
+  - "[t_66ee8d] downloads/OT_Shaw_text.txt"
+  - sha256 14e517b1897514d52398a2ec84aeb232435704c8372569ef2ad47a06ded81c76
+  - cited by [t_66ee8d] "奥斯曼新军（Nizam-ı Cedid）1806年底实册22,685兵+1,590官，约半驻安纳托利亚；在鲁米利亚（欧洲省份）复制征兵完全失败，欧洲部分军力几乎完全依赖独立地方显贵——这是1806年…" (fact) — "22,685 men and 1,590 officers enrolled in the Nizam-i Jedid army, of whom approximately half were s…"
+  - cited by [t_66ee8d] "S4大军过境不可行的新增实证：1807年春奥斯曼同盟期内，波斯尼亚穆斯林贝伊两度拒绝25,000法军借道去多瑙前线（只允少量军官），Bayraktar本人也反对法军到多瑙；即盟友体系内部存在对大规模…" (fact) — "the governor informed him that neither he nor the beys would ever permit the French to march across…"
+- `sources/P4_Glete_review_Fontenoy_1996.pdf` ← `downloads/P4_Glete_review_Fontenoy_1996.pdf`
+  - "P4_Glete_review_Fontenoy_1996.pdf"
+  - sha256 b75effed1b780273af736f6f22687027769636d790e04f0ac90c79cf1803e1f3
+  - cited as `doc:b75effed1b78#p3` by [t_24b942] "Fontenoy评论Glete：本国国内利益聚合可能比外部威胁更决定海军耐久，构成“英国会自动持续战时投入”的竞争解释；此为转引Glete而非其原书亲阅。" (interpretation) — "aggregation of domestic interests behind policy ... generally outweighs that of external threats"
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_race_1815_1830.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/notes_added_20260923.md`
+- `sources/P4_Paixhans_1822_Nouvelle_force_maritime.pdf` ← `downloads/P4_Paixhans_1822_Nouvelle_force_maritime.pdf`
+  - "P4_Paixhans_1822_Nouvelle_force_maritime.pdf"
+  - sha256 6019ca4672f7d7d23dc8dff76e875aeee59b72410559ff0d51c8979c1e43ffca
+  - cited as `doc:6019ca4672f7#p63` by [t_24b942] "Paixhans将以炮弹炮和蒸汽小舰冲击英国旧舰视为暂时优势，不是已实现技术效能记录。" (interpretation) — "quels seront les avantages seulement transitoires, de cette nouvelle marine"
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_race_1815_1830.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/notes_sources.md`
+- `sources/P8_OBrien_napoleonic_warfare_industrial_revolution.pdf` ← `downloads/P8_OBrien_napoleonic_warfare_industrial_revolution.pdf`
+  - "P8_OBrien_napoleonic_warfare_industrial_revolution.pdf"
+  - sha256 20dbac7c25004006c40bb08503684ab3eda128c92f7c69c4b75a602d9fbb31bb
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_bands.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_tree.md`
+- `sources/PR_HGIS_Preussen.pdf` ← `downloads/PR_HGIS_Preussen.pdf`
+  - "PR_HGIS_Preussen.pdf"
+  - sha256 1cb1940bb2b6d2b3b8a77f40414be4edbe02b40363fecc35acf14fc11401a0b3
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_hgis.md`
+- `sources/PR_Murau_Debt2023.pdf` ← `downloads/PR_Murau_Debt2023.pdf`
+  - "PR_Murau_Debt2023.pdf"
+  - sha256 714b36cac7e707b29f337047b8eb1b6e51e089e878933de68971ccb93b025b12
+  - cited as `doc:714b36cac7e7#p12` by [t_3ee1b0] "普鲁士1806年国债口径存在未调和冲突：Murau(2023)报1806年末53.5百万塔勒并给1820年合计217.2百万（=180有息+11.2纸币+25.9省债，占4.25年财政收入），而本卡…" (fact) — "At the end of 1806, the Prussian debt had been 53.5 million thaler. By 1820, it amounted to 180 mil…"
+  - cited as `doc:714b36cac7e7#p15` by [t_3ee1b0] "财政危机不必然产出代议制：1820年Hardenberg敕令名义上规定新债须经等级会议同意（事实上的债务刹车），但同一敕令给Seehandlung独立发债例外，此后1820年代的彩票债、1822年伦…" (interpretation) — "the Seehandlung extensively used the loophole that had been created and provided off-balance-sheet …"
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_financial_addendum.md`
+- `sources/PR_Takaoka_Landwehr.pdf` ← `downloads/PR_Takaoka_Landwehr.pdf`
+  - "PR_Takaoka_Landwehr.pdf"
+  - sha256 d289b6a22d2a639d13f2d7fc38c2b6703e6164c8ed38486d83ceb43b0643d804
+  - cited as `doc:d289b6a22d2a#p6` by [t_3ee1b0] "1813年柏林国民军的组织与筹款证据不支持"自发全民起义"读法：柏林摊派4,000步兵与576骑兵，志愿者按议会与委员会记录仅约13%，6月底仍缺800人，市长请求减额被国王拒绝；至7月基金支出12…" (fact) — "volunteers made up only a small part of the Berliner Landwehr, about 13% according to the records o…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_mobilization.md`
+- `sources/PS_aitchison_vol7_1865_sind_persia.txt` ← `downloads/PS_aitchison_vol7_1865_sind_persia.txt`
+  - "PS_aitchison_vol7_1865_sind_persia.txt"
+  - sha256 acd3157fd069c50ec47aa8848c92c484df7a5f42db9786dc3cec6241be25a888
+  - cited by [t_611e2b] "1809年英国三条约栅栏全文已核：阿姆利则4-25（英不干预萨特莱杰河以北/兰吉特限河左岸驻军）、喀布尔6-17（阻法波过境、英付费义务限法波联合入侵、禁法国人入境）、信德8-22（第四条：不允't…" (fact) — "The government of Sindh will not allow the establishment of the tribe of the French in Sindh"
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/PS_persia_afghanistan_punjab.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/sec2_afghan_punjab_sind.md`
+- `sources/PS_aitchison_vol9_1892.txt` ← `downloads/PS_aitchison_vol9_1892.txt`
+  - "PS_aitchison_vol9_1892.txt"
+  - sha256 bf5e0c038b38a7e0e442aab761a2568bdbb5f4517a22c3b4e2e13f0b282677ef
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/notes_afghan_punjab.md`
+- `sources/PS_driault1904_sebastiani_gardane.txt` ← `downloads/PS_driault1904_sebastiani_gardane.txt`
+  - "PS_driault1904_sebastiani_gardane.txt"
+  - sha256 40dc0ee9ee5cc3395726428b459f41ff15f76a1c95c385914806b432c2aa2ecd
+  - cited by [t_611e2b] "Gardane使团参谋勘测分工有名有实：Bianchi d'Adda（Scutari–德黑兰）、Trézel（巴格达–伊斯法罕–设拉子–波斯湾）、Fabvier（德黑兰–伊斯法罕）、Truilhie…" (fact) — "il faudra toujours un cheval ou une autre bête de somme pour deux hommes... Il faudra beaucoup de p…"
+  - cited by [t_611e2b] "Gardane 1808-01-26对波斯军评估：骑兵144,000（纪律差但骑术佳）、步兒60,000（无价值）、炮手2,500而炮兵实际不存在（旧炮牛拖、炮弹出膛即炸）；1808年秋实测：二三百…" (fact) — "2 ou 3oo cavaliers russes ont suffi à chasser tous les Persans de la rive gauche de l'Araxe"
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/PS_persia_afghanistan_punjab.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/notes_expedition.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/sec3_envelope_reactions.md`
+- `sources/PS_elphinstone1815_caubul.txt` ← `downloads/PS_elphinstone1815_caubul.txt`
+  - "PS_elphinstone1815_caubul.txt"
+  - sha256 e5a611649f38e418deda81fd7b215c0861067ce886dbf1ae65910276171803c6
+  - cited by [t_611e2b] "杜兰尼财政三层口径（Elphinstone 1815）：名义岁入近3 crore卢比、实收远低于2 crore（约半为teool采邑）、王室现金仅0.9 crore；常备Gholaum Khaune…" (fact) — "Shauh-Shuja had only five [guns] when he took the field at Peshawer in 1809"
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/PS_persia_afghanistan_punjab.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/notes_afghan_punjab.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/sec2_afghan_punjab_sind.md`
+- `sources/PS_kaye1851_afghanistan_v1.txt` ← `downloads/PS_kaye1851_afghanistan_v1.txt`
+  - "PS_kaye1851_afghanistan_v1.txt"
+  - sha256 395a8b7cab277e006d5b8fc247001031158b776e84803a02055862bf246e93c6
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/PS_persia_afghanistan_punjab.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/notes_afghan_punjab.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/sec2_afghan_punjab_sind.md`
+- `sources/PS_kaye1851_v1_real.txt` ← `downloads/PS_kaye1851_v1_real.txt`
+  - "PS_kaye1851_v1_real.txt"
+  - sha256 2ed6a04b89341c27d3a107ba4f6b4e6acba038aa1fcacafbdddaec06b8ced087
+  - cited by [t_611e2b] "卡扎尔中央财政现金层极薄：沙对Jones 1809年自述省入不超省支、贡品为实物、现钱仅够养兵与宫廷、珠宝无法变现；英国价格序列：1809预备约£100k/年+训练1.6万步兵，1812-03-14…" (fact) — "in the definitive treaty the amount was fixed at 200,000 tomauns (or about 150,000l.)"
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/PS_persia_afghanistan_punjab.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/notes_afghan_punjab.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/sec1_head_persia.md`
+- `sources/PS_prinsep1834_ranjit.txt` ← `downloads/PS_prinsep1834_ranjit.txt`
+  - "PS_prinsep1834_ranjit.txt"
+  - sha256 d17a60fd43e1beacfed69ae167536f77f87eb09e679069048aa8033d84f01e3c
+  - cited by [t_611e2b] "锡克国家量化底座（Murray/Prinsep 1831–33）：Khalsa岁入Rs 1,48,81,500，Govindgarh窖藏≥10 crore（£10m），总兵力82,014（正规27,…" (fact) — "Making a total Khalsa Revenue of 1,48,81,500... not less than ten crores of rupees"
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/PS_persia_afghanistan_punjab.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/notes_afghan_punjab.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/sec2_afghan_punjab_sind.md`
+- `sources/PT_Manchester_British_Preeminence__43d2035d8837.pdf` ← `downloads/PT_Manchester_British_Preeminence__43d2035d8837.pdf`
+  - sha256 ab534b2bdf9c06022e53c8060b775fa92237be2f5d546673b73f1106d18007b9
+  - cited in `nodes/r_5b1357a9c6/cards/t_219822/notes_manchester.md`
+- `sources/PT_Manchester_full.txt` ← `downloads/PT_Manchester_full.txt`
+  - "[t_219822] downloads/PT_Manchester_full.txt"
+  - sha256 2f32de5c9c30aa15a19a1a1590d36b6eeaf829f7061aa3b3f74ead49b7cac9fb
+  - cited by [t_219822] "1807-10-22英葡秘密公约：英国获权占马德拉；摄政王承诺舰队不落法手；英国护航赴巴西并永不承认非布拉干萨系为葡王；它在法军入境前五周已把葡萄牙帝国的海洋部分预先划入英国保护圈" (fact) — "England pledged an escort in case the royal family fled to Brazil, and guaranteed never to recogniz…"
+  - cited by [t_219822] "Canning 1807-11-07训令：若摄政王不赴巴西，Strangford与Smith获授权在里斯本重演哥本哈根事件（夺取或摧毁葡舰队）——葡舰队在任何分支下都不会完整落入法国之手" (fact) — "In case the prince regent failed to go to Brazil, Strangford and Smith were empowered to repeat the…"
+  - cited by [t_219822] "出走规模：8,000–15,000人、36舵、流通货币之半、8千万克鲁扎多金银、八战列舰；起锚若迟两小时风向已转、舰队困于港内——法国夺取王室与舰队的窗口真实存在但仅差数日至数小时" (fact) — "A delay of two hours in weighing anchor would have resulted in the detention of the fleet within th…"
+  - cited by [t_219822] "1810商约永久条款：条约无限期、永久不变，即使王室返回欧洲亦然；英货15%低于葡舱1808年的16%——宗主国待遇不如外邦，直到1810-10-18才拉平" (fact) — "the obligations and conditions expressed or implied in it shall be perpetual and immutable; and the…"
+  - cited by [t_219822] "卡洛塔拉普拉塔主张的三角结构：英国内阃是否决人（Canning两道训令）、Sidney Smith是越权推手（宣言为其所拟）、João借壳谋取拉普拉塔；布宜诺斯艾利斯存在真实Carlotismo秘密…" (fact) — "A secret society counting such illustrious names as Manuel Belgrano, Martin Pueyrredon, and Mariano…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_219822/notes_manchester.md`
+- `sources/PT_Maxwell_Naked_Tropics__0c4146ccfcd0.pdf` ← `downloads/PT_Maxwell_Naked_Tropics__0c4146ccfcd0.pdf`
+  - sha256 ff9c846b1d6d71c53251e056365678f263b0c7f30830559df5506066ecc027a8
+  - cited in `nodes/r_5b1357a9c6/cards/t_219822/notes_brazil.md`
+- `sources/PT_Maxwell_full.txt` ← `downloads/PT_Maxwell_full.txt`
+  - "[t_219822] downloads/PT_Maxwell_full.txt"
+  - sha256 c7c610322ea297a952fa52b00248023fbe1474677e63d88dd7700f738692e4b2
+  - cited by [t_219822] "18世纪大部分时间葡萄牙国家岁入60%来自巴西（Maxwell）——失去巴西即失去财政基座，法国占领葡本土所得远小于葡帝国总资源的一半" (fact) — "for most of that century 60 percent of the state's revenues derived from Brazil"
+- `sources/PT_Pedreira_HAHR2000.txt` ← `downloads/PT_Pedreira_HAHR2000.txt`
+  - "[t_219822] downloads/PT_Pedreira_HAHR2000.txt"
+  - sha256 8dc8d4b80628e6c484f86ca56d572f89372c3e764688cb9b04f269f20d6a31aa
+  - cited by [t_219822] "葡萄牙商业帝国在拿破仑战争中的塑方：1808–13年对巴西国货出口仅为1796–1806均值的22.4%，巴西货对欧再出口仅11.6%，欧洲货海外转运仅10%；1825–30再出口跌至战前17%" (fact) — "In 1808–1813, exports of national commodities to Brazil had declined to 22.4 percent of the value r…"
+- `sources/PT_Schultz_full.txt` ← `downloads/PT_Schultz_full.txt`
+  - sha256 601f48dc04b7f378597f23f84eb66cb483dde924d9525111599975007d409bd5
+  - cited in `nodes/r_5b1357a9c6/cards/t_219822/notes_brazil.md`
+- `sources/Panzac Barbary Corsairs__2ce1d89915b3.pdf` ← `downloads/Panzac Barbary Corsairs__2ce1d89915b3.pdf`
+  - "Panzac Barbary Corsairs__2ce1d89915b3.pdf"
+  - sha256 49530b587d5dbcabdf7f498060afe4f522ec0be44936eac73a53e92303b653b5
+  - cited by [t_ca3e8d] "巴尔巴里量级祛魅：阿尔及尔在册奴隶峰值仅1,645（1813）；突尼斯私掠收益占beylik岁兖15.7%（活动高峰年）；马赛自马格里布年到港船148→28（1793–99）。私掠曲线是法国海权真空…" (inference)
+- `sources/Q2_Rouanet_Piano_2023_appendix-1.pdf` ← `downloads/Q2_Rouanet_Piano_2023_appendix-1.pdf`
+  - sha256 37023fec7edebbad1b96936d302292c8fb23b2a289f680581fd4a1d8d095130c
+  - cited by [t_1f7db4] "RP23正文p1092逃役反事实增量3256与附录p61的2812不同，27%/49%更接近2812的分母计算；本卡保留冲突，不把精确净增兵数当已验证事实。" (fact)
+- `sources/Q2_Rouanet_Piano_2023_appendix.pdf` ← `downloads/Q2_Rouanet_Piano_2023_appendix.pdf`
+  - "Q2_Rouanet_Piano_2023_appendix.pdf"
+  - sha256 37023fec7edebbad1b96936d302292c8fb23b2a289f680581fd4a1d8d095130c
+  - cited as `doc:37023fec7ede#p61` by [t_1f7db4] "RP23正文p1092逃役反事实增量3256与附录p61的2812不同，27%/49%更接近2812的分母计算；本卡保留冲突，不把精确净增兵数当已验证事实。" (fact)
+- `sources/R1_czartoryski_memoirs_v1.txt` ← `downloads/R1_czartoryski_memoirs_v1.txt`
+  - "R1_czartoryski_memoirs_v1.txt"
+  - sha256 2a01b5a430fcafe4587b899357fbddf04b80860e9599d033c55c19773a3eb483
+  - cited by [t_91cbee] "1801年弑君约束的贸易基座：Zubov在政变前夜晚宴演说中明列“与英国断交这一疯狂行为违背俄国民族根本利益、枯竭其财富之源”为废黜保罗的理由之一；政变以亚历山大同意废黜（非谋杀）为前提，同意经“极…" (fact) — "the insane act of a rupture with England was contrary to the essential interests of the Russian nat…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_91cbee/R1_russia_court.md`
+- `sources/R1_czartoryski_memoirs_v2_real.txt` ← `downloads/R1_czartoryski_memoirs_v2_real.txt`
+  - "R1_czartoryski_memoirs_v2_real.txt"
+  - sha256 989b9b023bf307d91ab1acae44cc8973882930206b8d7f52720bf90e56e6fb27
+  - cited by [t_91cbee] "亚历山大自己的1810-12-25密信向Czartoryski提出俄版波兰复国方案（八问+兵力表230,000对155,000），称“此时机仅现一次”并以“拿破仑不能长生”为论据；1811-01-3…" (fact) — "Such a moment presents itself only once... The support on which the Poles can rely is limited to th…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_91cbee/R1_russia_court.md`
+  - cited by [t_b5dab4] "亚历山大1811-01-31亲笔开价（Czartoryski回忆录附录，亲读英译）：复国=旧波兰全部含俄占省份（白俄除外）至德维纳—别列津纳—第聂伯线，波兰族官员军队，自由宪法；sine qua n…" (fact) — "the kingdom of Poland shall for ever be united to Russia, whose Emperor shall in future bear the ti…"
+  - cited by [t_b5dab4] "缓冲净收益：正——且有同期直接实测：亚历山大自述1812-04-01'Your previous letters had left me too little hope of success to …" (interpretation) — "Your previous letters had left me too little hope of success to authorise me to act"
+  - cited in `nodes/r_5b1357a9c6/cards/t_b5dab4/PL_poland_lithuania 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b5dab4/PL_poland_lithuania.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b5dab4/notes_czartoryski.md`
+- `sources/R1_vandal1_full.txt` ← `downloads/R1_vandal1_full.txt`
+  - "R1_vandal1_full.txt"
+  - sha256 a10dfd33132e7f4350c74c207593984fb27a0bfc9c26587da58a9f9736ab143a
+  - cited by [t_91cbee] "皇太后对女儿婚姻持法定veto：保罗一世遗诏以庄严ukase形式存莫斯科圣母安息大教堂，授予其处置女儿婚配全权；亚历山大虽可以君主意志压倒但“对母亲以主上口吻说话于他不可忍受”——这是俄婚让步包必须…" (fact) — "conférait un véritable droit de veto dont elle ne manquerait pas d'user"
+  - cited in `nodes/r_5b1357a9c6/cards/t_91cbee/R1_russia_court.md`
+  - cited by [t_3ee1b0] "Vandal刊述1807-11-12给Caulaincourt训令：以俄取多瑙两公国交换法国处置西里西亚；1808-02-17报告谓索柏林或比索西里西亚更少令俄惊惧，因俄怕后者强化华沙。" (fact) — "La demande de Berlin effaroucherait peut-être moins"
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_treaties_diplomacy.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_cbaee3/G2_north_german_states.md`
+- `sources/R2_Crosby1965.pdf` ← `downloads/R2_Crosby1965.pdf`
+  - "R2_Crosby1965.pdf"
+  - sha256 7e3293167a7c4cde0a992e85df1a46d30072bb545b5a7a7ac19aadecfefd49fa
+  - cited by [t_29957a] "Crosby pp209–213记1811俄港殖民货过剩、麻价上升，美商俄绳货在美国/巴西亦滞销，反驳封锁期贸易持续瘫痪。" (fact)
+  - cited as `doc:7e3293167a7c#p221` by [t_29957a] "Crosby pp209–213记1811俄港殖民货过剩、麻价上升，美商俄绳货在美国/巴西亦滞销，反驳封锁期贸易持续瘫痪。" (fact)
+  - cited by [t_29957a] "Crosby p33称莫斯科至波罗的海雪橇运费低于等距海运；需区分季节性国内联运与向法国另辟整条陆路。" (fact)
+  - cited as `doc:7e3293167a7c#p45` by [t_29957a] "Crosby p33称莫斯科至波罗的海雪橇运费低于等距海运；需区分季节性国内联运与向法国另辟整条陆路。" (fact)
+  - cited by [t_29957a] "Crosby记1809彼堡/喀琅施塔得376艘对1808的60艘，故经济减压不是只始于1811；不能把1807–1810当连续无恢复的严格封锁区间。" (fact) — "In 1809, 376 vessels arrived at Kronstadt and St. Petersburg as compared to sixty for 1808."
+  - cited as `doc:7e3293167a7c#p157` by [t_29957a] "Crosby记1809彼堡/喀琅施塔得376艘对1808的60艘，故经济减压不是只始于1811；不能把1807–1810当连续无恢复的严格封锁区间。" (fact) — "In 1809, 376 vessels arrived at Kronstadt and St. Petersburg as compared to sixty for 1808."
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/notes_crosby_davey.md`
+- `sources/R2_Davey2009.pdf` ← `downloads/R2_Davey2009.pdf`
+  - "R2_Davey2009.pdf"
+  - sha256 9cdc057c893a9cf2e323fad499747b3c76cfe86cabb7b0959b86d5486136dafa
+  - cited as `doc:9cdc057c893a#p23` by [t_02f417] "1762–82英国进口大麻俄占约95.9%，不是拿破仑时期皇家海军需求率" (fact) — "between 1762 and 1782, from a total of 19,172 tons of hemp imported by Britain, 18,392 came from Ru…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_materials_02.md`
+  - cited by [t_29957a] "Davey表29的1806脂油目的地列加总79.88而印100，亚麻99.28而印100；已看原PDF表格，不能将缺格当零或直接作完整权重。" (fact)
+  - cited as `doc:9cdc057c893a#p274` by [t_29957a] "Davey表29的1806脂油目的地列加总79.88而印100，亚麻99.28而印100；已看原PDF表格，不能将缺格当零或直接作完整权重。" (fact)
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited by [t_8b4a3e] "瑞典1810-11-17对英宣战后的"假战争"是国家授权双面政策：1811-05-23 Saumarez向海军部报告瑞军总司令Tawast在Victory号密谈，瑞典承诺不行任何敌对行动并在Hanö…" (fact) — "the appearance of any hostile measures was only intended for Demonstration, and in order to elude t…"
+  - cited by [t_8b4a3e] "波罗的海封锁流量基线：1805年过海峡11,537艘商船、半数赴英；护航单队400+艘；Hanö集结约500艘再启航——相对于丹挪炮艇单次最大截获47艘，拦截率上限在个位数百分比" (fact) — "In 1805, 11,537 merchant ships passed through the Sound, over half going to Britain."
+- `sources/R3_lieven_full.txt` ← `downloads/R3_lieven_full.txt`
+  - sha256 822a995cd239359ced7ef751e7853856f77b77401af2df06ffd9fd2978a0946b
+  - cited in `nodes/r_5b1357a9c6/cards/t_2c3192/R3_russian_army.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_2c3192/notes_lieven.md`
+- `sources/SA_Castlereagh_vol7.txt` ← `downloads/SA_Castlereagh_vol7.txt`
+  - "SA_Castlereagh_vol7.txt"
+  - sha256 3e6a25b879d40a5adbac0fdbcdc74339a9d43e06eea288c428222fe1c20bbfe8
+  - cited by [t_f314c4] "英国内阁 1807-05-01 的南美政策文书明确把军事征服判为不可行，并提出以"辅助者与保护者"身份、用当地武装促成独立；其自我设定的收益仅两项：剥夺敌人资源、为英国制造品打开市场。" (fact) — "relieve us from the hopeless task of conquering this extensive country, against the temper of its p…"
+  - cited by [t_f314c4] "英国扶植独立方案的首选政体不是共和国而是波旁系王子的立宪君主国（理由：宗教相同、距法国王位继承较远），并考虑以奥尔良公爵为人选、由米兰达与迪穆里埃随行。" (fact) — "it ought to be our policy to support the pretensions of some member of the Bourbon family, as natur…"
+  - cited by [t_f314c4] "Popham 1803 备忘录自承：若法国或西班牙能抢先以让步换取当地人好感，英国的南美计划将遭遇最大困难——这是同期文书对"法国以自治/贸易让步先发制人"可行性的直接支持。" (fact) — "if the enemy, either from France or Spain, is able to land a European force on the coast, and by an…"
+  - cited by [t_f314c4] "1806 年布宜诺斯艾利斯的翻脸机制由西班牙方内部报告独立证实：本地商人因预期英国宣布独立而邀请英军，Beresford 宣布英王主权后同一批人即组织驱逐。" (fact) — "The English had been invited under the persuasion that they would declare the independence of Bueno…"
+  - cited by [t_f314c4] "英国 1807 年自设的南美兵力上限为 13,200 人（若对美战争之虑消失可再抽 3,000），而 Auchmuty 认为仅有效占领拉普拉塔一区即需 15,000；扶植方案的物资核心是 3 万人份…" (fact) — "A stand of arms for 20,000 infantry and 10,000 cavalry, so that a native force might be immediately…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_f314c4/SA_south_america.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_f314c4/notes_castlereagh_vol7.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_f314c4/notes_castlereagh_vol7_b.md`
+- `sources/SA_Depons_TerreFerme_v2.txt` ← `downloads/SA_Depons_TerreFerme_v2.txt`
+  - "SA_Depons_TerreFerme_v2.txt"
+  - sha256 674c7962ecbfef893ed7847a0b7716cabcbf7d4f0c93e9d3d15ca4cfe97dd531
+  - cited in `nodes/r_5b1357a9c6/cards/t_f314c4/SA_south_america.md`
+- `sources/SA_Echeverri_Popayan_realismo_popular.pdf` ← `downloads/SA_Echeverri_Popayan_realismo_popular.pdf`
+  - "SA_Echeverri_Popayan_realismo_popular.pdf"
+  - sha256 9200044bb940590a99e5805b12db182c7f88e98f41420858422a1de894280b6a
+  - cited in `nodes/r_5b1357a9c6/cards/t_f314c4/SA_south_america.md`
+- `sources/SA_Moran_Yarango_CajaLima_Abascal.pdf` ← `downloads/SA_Moran_Yarango_CajaLima_Abascal.pdf`
+  - "SA_Moran_Yarango_CajaLima_Abascal.pdf"
+  - sha256 64056f5d4305a11707f91786af4418c51a6567953f5acd6f563e9226051c7d78
+  - cited in `nodes/r_5b1357a9c6/cards/t_f314c4/SA_south_america.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_f314c4/notes_peru_abascal.md`
+- `sources/SA_Torrente_HistRevHispanoAmericana.txt` ← `downloads/SA_Torrente_HistRevHispanoAmericana.txt`
+  - "SA_Torrente_HistRevHispanoAmericana.txt"
+  - sha256 08e087849c8bc012cb8a65f1f9deeb328231fff92a49192acb796dc0671965a9
+  - cited by [t_f314c4] "1808-07-15 一艘英国战舰与一艘携带两名专使的法国双桅船同日抵加拉加斯；当地最高法院与显贵当场议决宣誓效忠费尔南多七世、蔽弃篡位者命令。" (fact) — "por un bergantín francés que traía á su bordo dos Comisionados con instrucciones para hacer reconoc…"
+  - cited by [t_f314c4] "拿破仑使者 Sassenay 1808-08-13 抵达蒙得维的亚，反而使对费尔南多七世的宣誓仪式提前完成；利涅尔斯的法国血统与推迟宣誓成为 Elio 与蒙得维的亚组织保王洛塔的理由。" (fact) — "la llegada en el día 13 de Mr. Sassenay, emisario de Napoleón para hacer reconocer por Rei de Españ…"
+  - cited by [t_f314c4] "西属美洲保王军主要由美洲本地 castas 组成：Boves 曾集结 12,000 人而其中欧洲人不足 200；阿巴斯卡尔、佩苏埃拉、拉塞尔纳三任副王掌握 1.5–2 万兵力时半岛人有时不足千人。" (fact) — "Hubo época en que el Comandante Boves reunió 12.000 de ellos, entre los cuales habría apenas 200 eu…"
+  - cited by [t_f314c4] "米兰达 1806 年远征在科罗被一支主要由印第安人组成的临时部队驱逐，证伪了英方情报中"印第安人是政府天敌"的假设。" (fact) — "reunió una fuerza igual á la de los espedicionarios, compuesta la mayor parte de Indios"
+  - cited in `nodes/r_5b1357a9c6/cards/t_f314c4/SA_south_america.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_f314c4/notes_torrente_venezuela_plata.md`
+- `sources/SP1_Esdaile_PeninsularWar.txt` ← `downloads/SP1_Esdaile_PeninsularWar.txt`
+  - sha256 4a2207425d0d10d20c1cc608fcdfcaff30ca36ad8e878aa96d2eaad8a5323fa9
+  - cited in `nodes/r_5b1357a9c6/cards/t_3282da/notes_army_church_society.md`
+- `sources/SP1_Herr_RuralChange__79cc5388323f.pdf` ← `downloads/SP1_Herr_RuralChange__79cc5388323f.pdf`
+  - "SP1_Herr_RuralChange__79cc5388323f.pdf"
+  - sha256 aaf893a34d20dcb4cd08ef97d60f60094acbf5cdd8373e81818766c6392374cb
+  - cited by [t_3282da] "财政硬数：vales reales 1808年5月存量1,893,422,682 rv（Consolidación基金报告，ANP AF IV 1608B，即法方自审数），贴水1808-03为63%…" (fact) — "Vales in existence in May 1808 … 1,893,422,682"
+- `sources/SP1_LaParra_FernandoVII.txt` ← `downloads/SP1_LaParra_FernandoVII.txt`
+  - "[t_3282da] downloads/SP1_LaParra_FernandoVII.txt"
+  - sha256 6046b031badbc93f1987a7114f2153d8c3469560ea8229ea6fabd3e2a3813f9f
+  - cited by [t_3282da] "联姻请求回应链（falsifier 2裁决）：费尔南多1807-10-11亲笔求婚信（Escoiquiz译，Beauharnais/Champagny引导）→拿破仑11-04收信无评论→11-13致…" (fact) — "Consiento de buen grado a este enlace. Pero V.M. debe comprender que ningún hombre de honor querría…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_3282da/notes_court.md`
+- `sources/SP1_LaParra_Godoy.txt` ← `downloads/SP1_LaParra_Godoy.txt`
+  - "[t_3282da] downloads/SP1_LaParra_Godoy.txt"
+  - sha256 a38098b8474f1180b1141eea752f4978e6b073dafcae0f824039b27e93770f48
+  - cited by [t_3282da] "枫丹白露条约（1807-10-27+10-29军事附约）：葡萄牙三分（北部予埃特鲁里亚太后、中部留置可与英换直布罗陀/特立尼达、南部Algarve+Alentejo予Godoy称principe d…" (fact) — "el sur, el «Principado de los Algarves», comprensivo de esta provincia y del Alentejo, quedaría baj…"
+  - cited by [t_3282da] "cuestiones proponibles（18条，Duroc/Talleyrand口授Izquierdo，1808-03-05达马德里）：占领边境诸省至总和平后一年→以葡萄牙全境换比利牛斯-埃布…" (fact) — "anarquistas, cuyos designios se alargaban hasta el extremo de aspirar a una reforma capital de la m…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_3282da/notes_court.md`
+- `sources/SP1_Marichal_Bankruptcy__92639196261c.pdf` ← `downloads/SP1_Marichal_Bankruptcy__92639196261c.pdf`
+  - "SP1_Marichal_Bankruptcy__92639196261c.pdf"
+  - sha256 f137a3c2e0fac06a3384a80d433cb9889c6aed4cad5ee7b5d2cc0a281d86eb2c
+  - cited as `doc:f137a3c2e0fa#p189` by [t_9bd988] "1804-08-02至1808-02-08马德里对美洲皇家国库开出的汇票总额约2,000万pesos（4亿reales），仅新西班牙一地；相当部分并未运抵西班牙，而是在荷兰付给王室银行家或法国国库官…" (fact) — "The functionaries later calculated that they had obtained approximately 20 million pesos (400 milli…"
+  - cited as `doc:f137a3c2e0fa#p187` by [t_9bd988] "Hope 持有约1,000万pesos的Consolidación汇票，须按面值75%向法国国库交付，再扣运费与佣金——这是把'墨西哥白银面值'换算成'法国实得'的唯一可用折扣率锚点。" (fact) — "It can be estimated that Hope had around ten million pesos in bills of exchange in their power (pre…"
+  - cited as `doc:f137a3c2e0fa#p226` by [t_9bd988] "1806-12至1808-08英国海军军舰六次为Gordon & Murphy自韦拉克鲁斯运走8,651,641 pesos，另有Hope合约的Diana一船3,829,835 pesos——战时敌…" (fact) — "British war frigates arrived in Veracruz on six opportunities on behalf of the Gordon & Murphy firm…"
+  - cited as `doc:f137a3c2e0fa#p250` by [t_9bd988] "1809–1811年加的斯爱国政府收入六成来自美洲；1812–1814降至不足5%。此比例是'新西班牙白银是否决定西班牙抵抗能力'的承重数据。" (fact) — "in 1809–1811, total income was 1,000 million reales, of which 60% came from the Americas; while in …"
+  - cited by [t_3282da] "白银依赖实测：1808-10至1811-02官方汇入加的斯29,408,015 pesos（Canga Argüelles表，英舰参与护运）；爱国政府1809-11岁入1,000M rv中60%来自…" (fact) — "in 1809–1811, total income was 1,000 million reales, of which 60% came from the Americas"
+  - cited as `doc:f137a3c2e0fa#p181` by [t_b0f045] "1805–08年墨西哥白银运往欧洲（含法国账户）的物理载体是美国中立商船：Hope&Co雇David Parish组织船队，节点为费城（Parish/Craig）、巴尔的摩（Robert Olive…" (fact) — "they were also authorized to cash the drafts issued by the Consolidation Fund on the royal treasuri…"
+  - cited as `doc:f137a3c2e0fa#p251` by [t_b0f045] "1808-10至1811-02西属美洲官方运银抵加的斯合计29,408,015 pesos（其中墨西哥2,400万，约为总铸币量一半），多批由英国军舰承运。→ 同一条白银管道在1808年后换旗与换受…" (fact) — "total 29,408,015"
+- `sources/SP2_Fraser_Cursed_War__9ee10514803d.epub` ← `downloads/SP2_Fraser_Cursed_War__9ee10514803d.epub`
+  - "[t_27c409] downloads/SP2_Fraser_Cursed_War__9ee10514803d.epub"
+  - sha256 62fc088da9c4652c11ecb88af73dce95c70349a4f33214f4bb610c99c7ba0fc0
+  - cited by [t_27c409] "初始洪塔社会构成（29个juntas、585成员）：市政当局23.9%、教士23.6%、军官18.3%、王室地方当局14.7%；有衔贵族仅3.2%、商人2.2%、劳动阶层3.2%——洪塔=旧制度中层…" (fact) — "SPAIN: 29 juntas, 585 members... Municipal authorities 140 (23.9)... Clergy 138 (23.6)... Military …"
+  - cited by [t_27c409] "人口账（Fraser九地区30万人样本加权）：战前1800–07灾难（饥荒/黄热病）损失35–51万＞战争1808–14损契21.5–37.5万；游击腹地（纳瓦拉+6.5%、巴斯克+4.3%、加利西…" (fact) — "pre-war 350,000 to 510,000 people (4.0 to 5.8 percent...) can be estimated as missing compared to 2…"
+- `sources/SP2_Lawrence_First_Carlist_War__fe68c4ce7f6e.pdf` ← `downloads/SP2_Lawrence_First_Carlist_War__fe68c4ce7f6e.pdf`
+  - "[t_27c409] downloads/SP2_Lawrence_First_Carlist_War__fe68c4ce7f6e.pdf"
+  - sha256 27f50a458500f59e989f9c152539570331c8f18db505497d0d8126bf51ad4f49
+  - cited by [t_27c409] "1823年反向自然实验：法军56,000+西班牙保王军约35,000入境几乎未遇民众抵抗；1808年动员民众的精英网络1823年不能或不愿再动员；自由派国家的军队与militia也几无持续抵抗，尽管…" (fact) — "unlike Napoleon's invasion in 1808, the French met virtually no popular resistance. The networks of…"
+  - cited by [t_27c409] "卡洛斯战争作为大众保王主义证据：北方三区（巴斯克-纳瓦拉/Maestrazgo/加泰腹地）可养万人级反自由派军队数年；政府需>20万军队+约18,000外国志愿者才能压平；但动员强制多于志愿，最穷的…" (fact) — "The poorest areas of Spain, which were in Extremadura and Andalucía, were lost causes for Don Carlos"
+- `sources/SP2_Tone_Fatal_Knot__01cd60c2f24c.epub` ← `downloads/SP2_Tone_Fatal_Knot__01cd60c2f24c.epub`
+  - "[t_27c409] downloads/SP2_Tone_Fatal_Knot__01cd60c2f24c.epub"
+  - sha256 68fd671dd897266495d25ebc0dcf034d40254edd82a9ab214c6718214edce80f
+  - cited by [t_27c409] "纳瓦拉榨取-抵抗参数（转Joseba de la Torre）：法国1808–14共征超过1.52亿reales=该省正常五年农工产出40%+；成熟游击下征收崩溃（1811–12实收<29%，181…" (fact) — "the French regime collected over 152 million reales in taxes and requisitions during the period 180…"
+- `sources/US_Perkins_PrologueToWar_1961.txt` ← `downloads/US_Perkins_PrologueToWar_1961.txt`
+  - "US_Perkins_PrologueToWar_1961.txt"
+  - sha256 19700ca9d810131732ebc58420671833283ae2184a227154b88bd7669216e7eb
+  - cited by [t_b0f045] "美国转口货几乎不进入英帝国市场，故英国对美敌意有物质基础，且该贸易实为法国殖民地体系唯一规模化出口通道。" (fact) — "Britain scarcely benefited at all, for less than 5 per cent of all reexported commodities went to E…"
+  - cited by [t_b0f045] "falsifier（1810–12对法扣船怨恨足以触发对法战争）部分成立但推论错误：1812-06-15参议院以两票之差否决Leib的"对英法同时发私掠许可"动议；麦迪逊反对双重宣战的自述理由是党派…" (inference) — "by the narrow margin of two votes, defeated Michael Leib's proposal to issue letters of marque and …"
+  - cited by [t_b0f045] "美国军事潜力被政体封顶而非资源封顶：1812-01-27众议院以62:59否决12战列舰＋20巡航舰案；盐税先以57:60被否；1—5月正规军招兵"few more than 1,000 men"。…" (fact) — "the House rejected naval building on January 27 by a vote of sixty-two to fifty-nine"
+  - cited in `nodes/r_5b1357a9c6/cards/t_b0f045/notes_perkins.md`
+- `sources/US_Pitkin_StatisticalView_1835.txt` ← `downloads/US_Pitkin_StatisticalView_1835.txt`
+  - "US_Pitkin_StatisticalView_1835.txt"
+  - sha256 020d2ce88978b0ca1b445fff5e22786f6e499826f4048b8632ec5e11f9c0298f
+  - cited by [t_b0f045] "1806年美国转口贸易达60,283,234美元、1807年本国产品出口48,699,592美元；1808禁运年分别塌落至12,997,414与9,433,546（＝1807年的21.8%与19.4…" (fact) — "Val. of exp. of dom. origin. / Val. of exp. of for. origin. … 48,699,592 … 9,433,546 … 59,643,558 ……"
+  - cited by [t_b0f045] "美国人口曲线（1810年7,239,903→1820年9,638,131→1830年12,866,020，十年+33%、约24年翻番）是西半球领土结局的外生驱动项；法国即使欧洲全胜也无法给西班牙或其…" (inference) — "1810 .... 7,239,903 | 1820 9,638,131 | 1830 .... 12,866,020"
+  - cited by [t_b0f045] "1833年广州贸易付款结构已从银转为伦敦汇票（进口中英国汇票$4,772,516 vs 银元与银块$682,519），同年美国本国棉织品出口$2,532,567中>90万销墨西哥——美国对拉美的作用…" (fact) — "Bills on England, £1,013,988, . . . $4,772,516 | Dollars and bullion, . . . 682,519"
+- `sources/X1_Buist.txt` ← `downloads/X1_Buist.txt`
+  - "[t_656a10] downloads/X1_Buist.txt"
+  - sha256 b6cafae903b1a7938520e7b522b106765ba99ac4884b6d5ee7d72ce62c85e1a6
+  - cited by [t_656a10] "1805–08白银链的物理实态：经Parish代理自Vera Cruz出口约645万比索，而Hope分类账显示直运欧洲仅两批兡60,000比索；主渠道是以比索向北美商行预付运欧货款、商行再加年息6%…" (fact) — "as a general rule Hamburg was preferred for remittances to the Continent because it was on the exch…"
+  - cited by [t_656a10] "封锁的极限效果可量化：跨阵营白银转移的摩擦成本在1806年5月的宽松期约≤23.5%（Vera Cruz税费11%＋保隙12½%），在1807下半年的加严期约≤62.5%（税费33%＋保隙12½%＋…" (inference) — "The total percentage of dues gradually increased, from 11 % in May 1806 to 33 % in the second half …"
+  - cited by [t_656a10] "法国承包商体系的年净动员上限被1804–05实测为约6,000万–1亿法郎：1804-04对西3,200万汇票＋1804-06的1.5亿要求（先扣4,800万欠货款）→ 1805年9月底法兰西银行仅…" (inference) — "At the end of September a mere 1,200,000 francs remained."
+- `sources/X1_Ferguson.txt` ← `downloads/X1_Ferguson.txt`
+  - "[t_656a10] downloads/X1_Ferguson.txt"
+  - sha256 c8a80fcbcd6f82bcce69235426236ccca62d613d133444d32c1fbb0f5fe28418
+  - cited by [t_656a10] "罗斯柴尔德与Baring资本对比（Ferguson据家族账簿）：1815年罗斯柴尔德法兰克福＋伦敦合并资本至多£50万 vs Baring £374,365；1818£1,772,000 vs £4…" (fact) — "In 1815 the combined capital of the Rothschild houses in Frankfurt and London was at most £500,000.…"
+- `sources/X1_Ouvrard_memoires_A.txt` ← `downloads/X1_Ouvrard_memoires_A.txt`
+  - sha256 ff4903a808a2856989890e8126bda58b11a41340af2689886bfff2a4bdd6b106
+  - cited in `nodes/r_5b1357a9c6/cards/t_656a10/X1_finance_houses.md`
+- `sources/X1_Wolff.txt` ← `downloads/X1_Wolff.txt`
+  - sha256 f60c4b0ec4e5feb39a80290d25c87ae5c0d0efae26b5d6229094737cb970ecd8
+  - cited in `nodes/r_5b1357a9c6/cards/t_656a10/X1_finance_houses.md`
+- `sources/X1_Ziegler.txt` ← `downloads/X1_Ziegler.txt`
+  - "[t_656a10] downloads/X1_Ziegler.txt"
+  - sha256 80be7251afac0ce5ae97d5dd2fa558855ae626f7bff4befa0149bf8996031afd
+  - cited by [t_656a10] "1818年Aix会议修约的政治经济学发现：Barings把1818-05-30的2.65亿法郎贷款定价抬至76，9月8日已折价、报价跌至71；救援之所以成功，是因为当时在Aix开会的Metterni…" (interpretation) — "the principals among them - Metternich, Nesselrode and Hardenberg - had all participated personally…"
+- `sources/X2_AaslestadJoor2015_Revisiting__fa6d9fd68f7f.pdf` ← `downloads/X2_AaslestadJoor2015_Revisiting__fa6d9fd68f7f.pdf`
+  - "X2_AaslestadJoor2015_Revisiting__fa6d9fd68f7f.pdf"
+  - sha256 80ab649eb823007f0c5488f3369728103a5af48fd6965cb9017e6e4bbdd7fb76
+  - cited as `doc:80ab649eb823#p212` by [t_6f3beb] "莱茵边界走私保险费率的完整时间序列（1798-12=6%、1800=6%、1801–02=10%、执政府期10/15/20%、1806-10至1808-06=26%、1809-07≈30%、1809…" (fact) — "The rate for crossing the Rhine frontier, in contrast, ran at about 30 per cent in July 1809, and w…"
+  - cited as `doc:80ab649eb823#p204` by [t_6f3beb] "执行机器的真实规模：1812年帝国海关人员峰值≈万五千人※订正：35,000人，其中内勤4,000、边境旅30,750；莱茵并合四省3,200人＝每十万人口241人（相当于今日英格兰威尔士警察密度）…" (fact) — "in 1812 the total number of customs agents in the French Empire peaked at approximately 35,000, inc…"
+  - cited as `doc:80ab649eb823#p212` by [t_6f3beb] "执行失败→兼并的自动螺旋有完整史实链（1795默茨河线→莱茵商人求并→1798得偿→“无法在不控制右岸的情况下守住新边界”→呼吁干涉右岸；Kehl 1808、荷兰与汉薨1810、提契诺占领1810）…" (interpretation) — "the problems of policing the new frontier without controlling the right bank beyond provoked calls …"
+- `sources/X2_Ellis1981_Alsace__abac15ab1852.pdf` ← `downloads/X2_Ellis1981_Alsace__abac15ab1852.pdf`
+  - "X2_Ellis1981_Alsace__abac15ab1852.pdf"
+  - sha256 00c8af37e5cf64a830f8bc7e7d0431611d0f171c816fc39448dcaaed3e14d030
+  - cited as `doc:00c8af37e5cf#p286` by [t_6f3beb] "Ellis 1981的总判直接否定"大陆体系＝关税同盟前身"：拿破仑设想的不是互惠牺牲的Continental Zollverein，而是"服务法国利益的巨型非共同市场"。这是本卡S5关税同盟化判断…" (fact) — "What was envisaged was not a Continental Zollverein in which all the resources of the Empire, of th…"
+  - cited as `doc:00c8af37e5cf#p286` by [t_6f3beb] "S5关税同盟化判定：Ellis两次明文否定拿破仑设想过Zollverein（“Uncommon Market geared to French interests”），但Heckscher印p.22…" (inference) — "What was envisaged was not a Continental Zollverein ... but rather a vast 'Uncommon Market' geared …"
+- `sources/X4_Carbonari_Memoirs_1821.txt` ← `downloads/X4_Carbonari_Memoirs_1821.txt`
+  - "X4_Carbonari_Memoirs_1821.txt"
+  - sha256 8598003bfadd3c0b6e47c18c2e945f1b37cf0a5060d2c800921b0ef4068dd113
+  - cited by [t_b702da] "烧炭党人数三口径（同时代估计，非名册）：建立初期24,000–30,000；卡拉布里亚一地50,000–60,000（Nunziante军方估）；1820前后全王国传闻200,000+。士兵服从会社…" (fact) — "They amounted to from twenty-four to thirty thousand from the very beginning of their establishment"
+- `sources/c10_kopsidis_bromley2016.pdf` ← `downloads/c10_kopsidis_bromley2016.pdf`
+  - "c10_kopsidis_bromley2016.pdf"
+  - sha256 40e4b5895015bcd84b1c1f2cb047d2870ca600514a08a270d4327759b679f037
+  - cited by [t_f55d87] "Kopsidis-Bromley 2016(转引Fehrenbach 1983/Berding 1973)：拿破仑本人为满足新旧贵族而推动'领主制反革命'，把领主特权重定义为私产并入民法典，使西南德…" (fact) — "it was Napoleon himself who pushed the 'seigniorial counter revolution' which preserved the seignio…"
+- `sources/c11_desbriere_02.txt` ← `downloads/c11_desbriere_02.txt`
+  - "c11_desbriere_02.txt"
+  - sha256 cae18d72beab5775ca532f0256299b5f46ae7367b0ad7a195aab28dd63b8ecd2
+  - cited by [t_b9e29c] "Desbrière p442所刊战争部长致Ney函署1805-03-30；pp443–444另将parc de l’armée的107辆车、456匹挽马列为待另配备用马厩份额。因此原1,616需求/…" (fact) — "Les 456 chevaux de trait pour les 107 voitures attachées au parc de l’armée"
+  - cited in `nodes/r_5b1357a9c6/cards/t_b9e29c/notes_interface_french.md`
+- `sources/c11_desbriere_IV3.pdf` ← `downloads/c11_desbriere_IV3.pdf`
+  - sha256 2dc359ae7cbd28e6a228a54ef7a4cc7000e875c04dab364477116d4f26044a4b
+  - cited in `nodes/r_5b1357a9c6/cards/t_b9e29c/notes_interface_french.md`
+- `sources/c11_desbriere_p399.png` ← `downloads/c11_desbriere_p399.png`
+  - sha256 35346febf218994ca2006d09a35413165a4ac79ab3df785f01ffd2d804d3862f
+  - cited in `nodes/r_5b1357a9c6/cards/t_b9e29c/notes_interface_french.md`
+- `sources/c11_fortescueV.txt` ← `downloads/c11_fortescueV.txt`
+  - "c11_fortescueV.txt"
+  - sha256 a6d48ed701112955995a65a583cb7f966e130f101a163734a6d936ec55356733
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited by [t_b9e29c] "Fortescue叙述1804年已把登记车辆编入部队运输，并设志愿步兵连轻车和供较远地区士兵机动的座椅大车；这支持集中机制，不构成48小时4万正规军的演练实绩。" (fact) — "waggons should likewise be marked, set apart, and provided with seats to convey the men from the re…"
+  - cited by [t_b9e29c] "Fortescue把1803年10月31日撤牲畜与粮食命令随后遭Moore和Richmond反对并放弃；故全面坚壁清野不能作为1804–05自动执行的既定假设。" (fact) — "so strongly opposed by such capable authorities as Sir John Moore and the Duke of Richmond that it …"
+  - cited by [t_b9e29c] "Fortescue的1803年底38万口径含大不列颠志愿兵与自耕农骑兵全军衔；其34万为自报effective rank and file；不是38万正规军，也不是同一滩头可集中兵力。" (fact)
+  - cited in `nodes/r_5b1357a9c6/cards/t_b9e29c/notes_interface_british.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_landing.md`
+- `sources/c12_makarov2024.pdf` ← `downloads/c12_makarov2024.pdf`
+  - "c12_makarov2024.pdf"
+  - sha256 81a9135182a0665b68e514fa939d9773b69f1a8658fb170b13a3589e58516fee
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/notes_trade.md`
+- `sources/c12_troshin2015.pdf` ← `downloads/c12_troshin2015.pdf`
+  - "c12_troshin2015.pdf"
+  - sha256 c17e7379cc37ae262251f8a19bbd3ace942ebecdd27bd2168db40265f1ef2b51
+  - cited by [t_29957a] "Troshin给彼得堡有限商品样本贸易条件指数1808=.43、1809=.69、1810=.74、1811近同；这不是出口量或贵族净收入的七成恢复。" (fact)
+  - cited as `doc:c17e7379cc37#p6` by [t_29957a] "Troshin给彼得堡有限商品样本贸易条件指数1808=.43、1809=.69、1810=.74、1811近同；这不是出口量或贵族净收入的七成恢复。" (fact)
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/notes_trade.md`
+- `sources/c12_vandal3_full.txt` ← `downloads/c12_vandal3_full.txt`
+  - "c12_vandal3_full.txt"
+  - sha256 6811043f3fa7668e827ca8e42ea5080005646306fe436a3dcaa25eb76a8d4f83
+  - cited by [t_91cbee] "不媤和决心在1811年5月已成型：亚历山大经Caulaincourt逐字传述的告别宣言含西班牙类比、空间+保存建制军、气候代战与“宁退堪察加也不在被征服首都签休战式和约”；1812-06入侵后又经B…" (fact) — "Je ne tirerai pas l'épée le premier, mais je ne la remettrai que le dernier au fourreau. Je me reti…"
+  - cited by [t_91cbee] "奥尔登堡是可交易的面子/法理议题而非真实安全核心：1812年2月亚历山大向瑞典特使Löwenhielm指图愿以奥尔登堡补偿丹麦丢失挪威之损，“尽管有亲属关系也甩得”。瑞典王国档案Löwenhielm…" (fact) — "qu'il sacrifierait volontiers malgré la parenté"
+  - cited by [t_91cbee] "Speransky 1812-03-17之夜的流放是向贵族与舆论交出的“抵押（gage）”：阴谋由Armfeldt为首，联合警察大臣Balashov与Arakcheev；亚历山大事后对Novosil…" (fact) — "c'était une première victoire sur les Français"
+  - cited in `nodes/r_5b1357a9c6/cards/t_91cbee/R1_russia_court.md`
+  - cited by [t_29957a] "1811年10月涅谢尔罗迭和平建议仍以俄奥恢复财政与军队、制衡法国为目的；不应只引和平语句当作永久接受法国霸权的承诺。" (interpretation) — "celui qu'au fond de leur pensée elles regardent comme leur seul ennemi."
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited by [t_3ee1b0] "俄方对进一步处置普鲁士的否决点是随时间硬化的利益性条款，而非恒定的私人友谊：1808年1月塔列朗回忆录记亚历山大对西里西亚试探答以"Ceci est réellement une affaire d…" (inference) — "Je regarde comme beaucoup plus important et même comme l'objet le plus essentiel de l'arrangement u…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_treaties_diplomacy.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_cbaee3/G2_north_german_states.md`
+- `sources/c15_heckscher1922.pdf` ← `downloads/c15_heckscher1922.pdf`
+  - "c15_heckscher1922.pdf"
+  - sha256 1baaae7f3185eb96c40c95891dcd3efbf6da2426bd782d06bc4a3b81e7149a5a
+  - cited as `doc:1baaae7f3185#p210` by [t_6f3beb] "走私成本＝执行强度的可观测价格：1809年通过法国边界的走私"费用"通常30%，斯特拉斯堡承保人头档佣金40–50%，而新设的Rees–Bremen海关线只需6–8%，荷尔斯泰因入汉堡同价。→ 同一…" (fact) — "In Strassburg there were 'insurers' of different grades, the chief of which charged a commission of…"
+  - cited as `doc:1baaae7f3185#p214` by [t_6f3beb] "特里亚农体系的官方经济学是"把走私成本国有化"：海关总监Collin de Sussy与Montalivet提议国家与走私者竞争，关税率"精确对应此前走私业所需成本"，进货量不变而利润归国家。这使关…" (fact) — "the importation of the hitherto forbidden goods was to be permitted, but only on payment of a duty …"
+  - cited in `nodes/r_5b1357a9c6/cards/t_6f3beb/notes_heckscher_enforcement.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited by [t_0fed70] "Heckscher印245的地中海列含Gibraltar/Malta/Sicily/Levant，Rest of America不是英国殖民地。报告按北欧、北欧+西葡、再加混合地中海分别核算，禁止声…" (fact)
+  - cited as `doc:1baaae7f3185#p261` by [t_0fed70] "Heckscher印245的地中海列含Gibraltar/Malta/Sicily/Levant，Rest of America不是英国殖民地。报告按北欧、北欧+西葡、再加混合地中海分别核算，禁止声…" (fact)
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/c16_navickas2005.pdf` ← `downloads/c16_navickas2005.pdf`
+  - "c16_navickas2005.pdf"
+  - sha256 3c4c39c323295ceea4eeabc42c8894dfe67f8bb6b6e1973f083bf5ec841886ea
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/c18_czubaty2018.pdf` ← `downloads/c18_czubaty2018.pdf`
+  - "c18_czubaty2018.pdf"
+  - sha256 c60ccb20b50e336170aaf08bf858c35600f449462fb486aab4417896e4e0179b
+  - cited in `nodes/r_5b1357a9c6/cards/t_b5dab4/notes_czubaty.md`
+- `sources/c6_1805_italian_statute.pdf` ← `downloads/c6_1805_italian_statute.pdf`
+  - "c6_1805_italian_statute.pdf"
+  - sha256 0c6c074f6973d46f54df29c80d88f409e2faca37cdbd95ea07ecad3c9f1054ee
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_eaa841/raw_yeartables.md`
+- `sources/c6_correspondance30.pdf` ← `downloads/c6_correspondance30.pdf`
+  - "c6_correspondance30.pdf"
+  - sha256 a6f170345306e3e77431da90dde8cf78a28ff53cb71bf879c26f78aef3e8ceda
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/notes_dbi_biografie_1814.md`
+- `sources/f1_lavalette_memoirs_en.txt` ← `downloads/f1_lavalette_memoirs_en.txt`
+  - "f1_lavalette_memoirs_en.txt"
+  - sha256 4f847e37bf9011d9078b1de2969a0f415070d923db0c67085df2d7cf9a1cf124
+  - cited in `nodes/r_5b1357a9c6/cards/t_08b9e7/F1_napoleon_center.md`
+- `sources/f1_metternich_memoires_t1.txt` ← `downloads/f1_metternich_memoires_t1.txt`
+  - "f1_metternich_memoires_t1.txt"
+  - sha256 b7a6ca84dc9a9fabe481660f30f113dfea3f37f8fbb048d2844529aa196054bc
+  - cited by [t_08b9e7] "1813年6月26日德累斯顿，拿破仑对梅特涅（梅特涅1829年追述）：'你们生于王座的君主可以战败二十次仍回到首都；我不能，因为我是一个靠自己爬上来的军人。我的统治在我不再强大、因而不再被畏惧之日即…" (fact) — "Vos Souverains, nés sur le trône, peuvent se laisser battre vingt fois et rentrer toujours dans leu…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_08b9e7/F1_napoleon_center.md`
+- `sources/f1_mollien_memoires_t3.txt` ← `downloads/f1_mollien_memoires_t3.txt`
+  - "f1_mollien_memoires_t3.txt"
+  - sha256 43cf13cc131919bf0fb9a0f6b4e5b067cb28b7d0abf4bd5ae3691aa3d6251d63
+  - cited in `nodes/r_5b1357a9c6/cards/t_08b9e7/F1_napoleon_center.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_eaa841/raw_yeartables.md`
+- `sources/f2_censo_godoy1797.pdf` ← `downloads/f2_censo_godoy1797.pdf`
+  - "f2_censo_godoy1797.pdf"
+  - sha256 a51f8174831e8f9fab7258d7a1d9b31b9fc651f68c4708586605f3b868a4b9b8
+  - cited in `nodes/r_5b1357a9c6/cards/t_27c409/SP2_part3.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_27c409/SP2_spain_society.md`
+- `sources/f2_oman_vol3.txt` ← `downloads/f2_oman_vol3.txt`
+  - "f2_oman_vol3.txt"
+  - sha256 8e5a80a90ef673e3dfc8cb05664ca5a12c8ddb8f2fbe4d46d747889eb6c76ef2
+  - cited in `nodes/r_5b1357a9c6/cards/t_27c409/SP2_part2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_27c409/SP2_part3.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_27c409/SP2_spain_society.md`
+  - cited by [t_219822] "Beresford葡军：编制56,000，1809-09实有42,000；1812初33,000正规军支撑威灵顿；英国直接承饨其半（12线列团+3猎兵营），补贴定为维持3万人之费；即便如此摄政委员会…" (fact) — "The field-strength of the Portuguese regular forces should have been, according to its establishmen…"
+- `sources/f2_oman_vol4.txt` ← `downloads/f2_oman_vol4.txt`
+  - "f2_oman_vol4.txt"
+  - sha256 7277722ba85462826b0a4c55589c744cdde61e6c02df9d295a9c1289117e9eef
+  - cited in `nodes/r_5b1357a9c6/cards/t_27c409/SP2_part3.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_27c409/SP2_spain_society.md`
+- `sources/pages/00bd118bdd34.md` ← `downloads/pages/00bd118bdd34.md`
+  - https://brittlebooks.library.illinois.edu/brittlebooks_closed/Books2009-09/wrigch0001hisllo/wrigch0001hisllo_ocr.txt
+  - sha256 00bd118bdd34c1b74f23c86c3be33ef1d201cde391507e5eb194eee23735bee3
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+  - cited as `https://brittlebooks.library.illinois.edu/brittlebooks_closed/Books2009-09/wrigch0001hisllo/wrigch0001hisllo_ocr.txt` in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+- `sources/pages/00ca352688de.md` ← `downloads/pages/00ca352688de.md`
+  - "18120224-001:allianzvertrag - EPOCHE NAPOLEON" — https://www.epoche-napoleon.net/quellen/1812/02/24/allianzvertrag.html
+  - sha256 00ca352688de422acacdf9d6ca241c8ce1731204e2e2929a3d7de3168e056fe9
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_treaties_diplomacy.md`
+- `sources/pages/00d5209cab8f.md` ← `downloads/pages/00d5209cab8f.md`
+  - "Pologne, Constitution de 1815, Digithèque MJP" — https://mjp.univ-perp.fr/constit/pl1815.htm
+  - sha256 00d5209cab8f622afe08dce6fdd45e9211252518278d52c9cd1d740c19361cb2
+  - cited in `nodes/r_5b1357a9c6/cards/t_91cbee/R1_russia_court.md`
+- `sources/pages/010052ac67de.md` ← `downloads/pages/010052ac67de.md`
+  - "Russian Empire - Autocracy, Reforms, Nicholas I | Britannica" — https://www.britannica.com/place/Russian-Empire/Nicholas-I
+  - sha256 010052ac67dea1619c5a93aaa0219e60e937da7ad0b7144c80a4b9cb89b91631
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/0165ca641153.md` ← `downloads/pages/0165ca641153.md`
+  - "Protest and democracy 1818 to 1820, part 2 - The National Archives" — https://www.nationalarchives.gov.uk/education/resources/protest-democracy-1818-1820/
+  - sha256 0165ca6411538f41e112c7f14f3adc5c8071d99be11a1fe09ed81fd70f33060a
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/01f3adc0ec2a.md` ← `downloads/pages/01f3adc0ec2a.md`
+  - "De l’esprit de conquête et de l’usurpation dans leur rapports avec la civilisation européenne/13 - Wikisource" — https://fr.wikisource.org/wiki/De_l%E2%80%99esprit_de_conqu%C3%AAte_et_de_l%E2%80%99usurpation_dans_leur_rapports_avec_la_civilisation_europ%C3%A9enne/13
+  - sha256 01f3adc0ec2a7820e9420e2e9511fbd47b3cb222cc05c47825f4db33c0698e15
+  - cited in `nodes/r_5b1357a9c6/cards/t_b702da/X4_ideas_nationalism_movements.md`
+- `sources/pages/02c1f081e6e3.md` ← `downloads/pages/02c1f081e6e3.md`
+  - "COLONIAL REVENUE AND EXPENDITURE.— (Hansard, 25 February 1823)" — https://api.parliament.uk/historic-hansard/commons/1823/feb/25/colonial-revenue-and-expenditure
+  - sha256 02c1f081e6e3aa1570564d6b592a1ed73809faf7a0dd291f30deacb9c77f2582
+  - cited by [t_0fed70] "1823下院转述1820海外军需官英国供款表约£1.629m；锡兰1817地方收入£378,812而支出£450,816。1830下院宣读1827财政部信：五个新殖民地异期十年以上累计赤字£2.52…" (fact) — "after nearly the whole of it had been laid out there, they required large remittances from this cou…"
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1823/feb/25/colonial-revenue-and-expenditure` in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_fiscal.md`
+- `sources/pages/04307a1973c7.md` ← `downloads/pages/04307a1973c7.md`
+  - "Correspondance générale de Napoléon Bonaparte, Tome 11 : bruits de bottes. Avril-décembre 1811. Introduction au volume …" — https://www.napoleon.org/histoire-des-2-empires/articles/correspondance-generale-de-napoleon-bonaparte-tome-11-bruits-de-bottes-avril-decembre-1811-introduction-au-volume/
+  - sha256 04307a1973c7960c43dd2c0e381fbde7dd3dede9202cefaabb2d8fc724eb3257
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/notes_correspondence_heckscher.md`
+- `sources/pages/04c2ed9cef98.md` ← `downloads/pages/04c2ed9cef98.md`
+  - "Machine à vapeur de la corvette à roues le Sphinx | Musée national de la Marine de Paris" — https://www.musee-marine.fr/nos-musees/paris/collections/oeuvres-phares/machine-a-vapeur-de-la-corvette-a-roues-le-sphinx.html
+  - sha256 04c2ed9cef9868199c492d20d649ea1ca57cdccc5e615158f2e99344f270669c
+  - cited by [t_b1a536] "1829年Sphinx的160马力蒸汽机由利物浦Fawcett制造，表明蒸汽不是法国在封锁下无代价的赶超捷径。" (inference) — "sa machine à vapeur fut construite par une entreprise de Liverpool, W. Fawcett"
+  - cited as `https://www.musee-marine.fr/nos-musees/paris/collections/oeuvres-phares/machine-a-vapeur-de-la-corvette-a-roues-le-sphinx.html` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_quote_ledger.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_race_1815_1830.md`
+  - cited as `https://www.musee-marine.fr/nos-musees/paris/collections/oeuvres-phares/machine-a-vapeur-de-la-corvette-a-roues-le-sphinx.html` in `nodes/r_5b1357a9c6/cards/t_24b942/notes_sources.md`
+- `sources/pages/056d83ccd7e8.md` ← `downloads/pages/056d83ccd7e8.md`
+  - "Chouans et Vendéens contre l’Empire, 1815 — recensio.net" — https://www.recensio.net/rezensionen/zeitschriften/rh19/2016/53/chouans-et-vendeens-contre-l2019empire-1815
+  - sha256 056d83ccd7e887c182c4daf6f29438ca7b9bf1585ce0ffb20870f70fe3b7728d
+  - cited by [t_7c3954] "保王派能力包络实测：无外军入境则非生存威胁。1804年Cadoudal网络需英国运载资助；1815年旺代第四次起事名义约5万，被约2万正规军六周击溃（Lignereux：“远非民众保王主义”），但在…" (inference)
+- `sources/pages/05a0209a543e.md` ← `downloads/pages/05a0209a543e.md`
+  - "Bankrupts and Usurers of Imperial Russia: Debt, Property, and the Law in the Age of Dostoevsky and Tolstoy 978067497259…" — https://ebin.pub/bankrupts-and-usurers-of-imperial-russia-debt-property-and-the-law-in-the-age-of-dostoevsky-and-tolstoy-9780674972599.html
+  - sha256 05a0209a543e20ae234ceb4782355e16048e175a8b40b30ef87adf5d5211233c
+  - cited as `https://ebin.pub/bankrupts-and-usurers-of-imperial-russia-debt-property-and-the-law-in-the-age-of-dostoevsky-and-tolstoy-9780674972599.html` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited as `https://ebin.pub/bankrupts-and-usurers-of-imperial-russia-debt-property-and-the-law-in-the-age-of-dostoevsky-and-tolstoy-9780674972599.html` in `nodes/r_5b1357a9c6/cards/t_29957a/notes_credit_ports.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/source_antonov_credit_excerpt.txt`
+  - cited as `https://ebin.pub/bankrupts-and-usurers-of-imperial-russia-debt-property-and-the-law-in-the-age-of-dostoevsky-and-tolstoy-9780674972599.html` in `nodes/r_5b1357a9c6/cards/t_29957a/source_antonov_credit_excerpt.txt`
+- `sources/pages/064046ec6241.md` ← `downloads/pages/064046ec6241.md`
+  - "Correspondance de Napoléon Ier - Septembre 1809 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-septembre-1809/
+  - sha256 064046ec62415a050e6cf0f5c92b92b44c21a5dbfee457512aa6e84827e1eb8f
+  - cited by [t_f4bb81] "1809-09-04真实照会要求波希米亚Leitmeritz、Saatz、Elnbogen三圈割萨克森；这是谈判领土筹码而非波希米亚独立方案。" (fact) — "cède à la Saxe les cercles de Leitmeritz, de Saatz et d’Elnbogen"
+- `sources/pages/06e7744d9118.md` ← `downloads/pages/06e7744d9118.md`
+  - "Representación de los hacendados. 1809. – ADHILAC www.adhilac.com.ar" — https://adhilac.com.ar/?p=206
+  - sha256 06e7744d911899154aef0e984835df44f265cc8e4ce078153234d7a0a5a075e5
+  - cited by [t_f314c4] "1807 年后禁令的实测效果：四百万 pesos 英货仍然入境，关税实收仅 96,000 而应收 150 万（执行率 6.4%）；同期蒙得维的亚洪塔开放贸易后以 20 笔生意入帐逾 70 万 pes…" (fact) — "más de cuatro millones fueron introducidos, y entre confiscaciones y derechos apenas recogió la adu…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_f314c4/SA_south_america.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_f314c4/notes_plata_economy.md`
+- `sources/pages/06f099bfa047.md` ← `downloads/pages/06f099bfa047.md`
+  - "Bucentaure-class ship of the line" — https://en.wikipedia.org/wiki/Bucentaure-class_ship_of_the_line
+  - sha256 06f099bfa0479a728bce69efa66edfd5ff2fc9432d0ca8a3fb8e9251717704bd
+  - cited as `https://en.wikipedia.org/wiki/Bucentaure-class_ship_of_the_line` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://en.wikipedia.org/wiki/Bucentaure-class_ship_of_the_line` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited as `https://en.wikipedia.org/wiki/Bucentaure-class_ship_of_the_line` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/06ff00adf220.md` ← `downloads/pages/06ff00adf220.md`
+  - "Story of the Census" — https://www.ons.gov.uk/visualisations/storyofthecensus/
+  - sha256 06ff00adf220ca916efc5f0c9c14fc67fa9a2cf65e24fdc731670095c123c346
+  - cited as `https://www.ons.gov.uk/visualisations/storyofthecensus/` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.ons.gov.uk/visualisations/storyofthecensus/` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_administration_population.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_administration_population.md`
+- `sources/pages/07268e71e6e2.md` ← `downloads/pages/07268e71e6e2.md`
+  - "Téméraire-class ship of the line" — https://en.wikipedia.org/wiki/T%C3%A9m%C3%A9raire-class_ship_of_the_line
+  - sha256 07268e71e6e28e267be377404ce38b2b3b26299d29a3dfecad018402d4185326
+  - cited as `https://en.wikipedia.org/wiki/T%C3%A9m%C3%A9raire-class_ship_of_the_line` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://en.wikipedia.org/wiki/T%C3%A9m%C3%A9raire-class_ship_of_the_line` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited as `https://en.wikipedia.org/wiki/T%C3%A9m%C3%A9raire-class_ship_of_the_line` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/0964a00115c5.md` ← `downloads/pages/0964a00115c5.md`
+  - "Traité entre la France et la Prusse pour le règlement des contributions de guerre, l'occupation de trois places fortes …" — https://napoleon-histoire.com/traite-entre-la-france-et-la-prusse-pour-le-reglement-des-contributions-de-guerre-loccupation-de-trois-places-fortes-et-la-reconnaissance-des-rois-despagne-et-de-naples/
+  - sha256 0964a00115c512b8a7b6a5cbfd41c84224033342ad1403da6d76a3224ab7da28
+  - cited by [t_3ee1b0] "1808-09-08巴黎条约分立条款的对奥援军兵力存在未解口径冲突：法文转录作"une division de 10,000 hommes"，德文百科转录作"eine Division von 16…" (fact) — "une division de 10,000 hommes, tant infanterie, que cavalerie et artillerie"
+  - cited by [t_3ee1b0] "1808年巴黎条约正约VII规定三要塞法军驻军Glogau 3,300、Custrin 2,800、Stettin 3,900，合计10,000；VIII规定饷由法方出，但住宿、口粮、草料、燃料灯火…" (fact) — "Total des trois garnisons 10.000 hommes."
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_economy_society.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_treaties_diplomacy.md`
+- `sources/pages/0b0e283a3d34.md` ← `downloads/pages/0b0e283a3d34.md`
+  - "Men of Invention and Industry/Chapter VII - Wikisource, the free online library" — https://en.wikisource.org/wiki/Men_of_Invention_and_Industry/Chapter_VII
+  - sha256 0b0e283a3d341602963c0e4f6d7a797cfcb0d63b8c3a7a6ba1c68183edb06c68
+  - cited as `https://en.wikisource.org/wiki/Men_of_Invention_and_Industry/Chapter_VII` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://en.wikisource.org/wiki/Men_of_Invention_and_Industry/Chapter_VII` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_ireland_press.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_ireland_press.md`
+- `sources/pages/0b986a1a0af8.md` ← `downloads/pages/0b986a1a0af8.md`
+  - "SUPPLY. (Hansard, 10 May 1830)" — https://api.parliament.uk/historic-hansard/commons/1830/may/10/supply
+  - sha256 0b986a1a0af8a0380a5d9020b6de9f4ba99c94b9fd0ad0e78cf3654426826a5a
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1830/may/10/supply` in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_fiscal.md`
+- `sources/pages/0ca37004256f.md` ← `downloads/pages/0ca37004256f.md`
+  - "Forum 28 on The Importance of Paul Schroeder’s Scholarship to the Fields of International Relations and Diplomatic Hist…" — https://issforum.org/forums/28
+  - sha256 0ca37004256f4d2f0f2ccf083e9f2d1cbd93f379b4f78a8ffe681b6e6a08c998
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_bands.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_tree.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/notes_schools_03.md`
+- `sources/pages/0cb883e1dd4e.md` ← `downloads/pages/0cb883e1dd4e.md`
+  - "Traité d'alliance signé à Paris le 14 mars 1812 entre la France et l’Autriche" — https://napoleon-histoire.com/traite-dalliance-signe-a-paris-le-14-mars-1812-entre-la-france-et-lautriche/
+  - sha256 0cb883e1dd4e47835a8a353f7e473914501f73913dcb85518e7151d52e3729fd
+  - cited by [t_f4bb81] "1812法奥盟约担保奥斯曼欧洲领土，故S5奥国东南转向主线应是多瑙交通、通商与政治斡旋，而非无条件吞并巴尔干。" (inference)
+- `sources/pages/0cd45211a68f.md` ← `downloads/pages/0cd45211a68f.md`
+  - "Use | DFIH" — https://dfih.fr/use
+  - sha256 0cd45211a68fe5cce86929314fe245eb3bbed012607b98788b26edb2c814de54
+  - cited as `https://dfih.fr/use` in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+- `sources/pages/0cf6ab7705f7.md` ← `downloads/pages/0cf6ab7705f7.md`
+  - "PETITION FROM SHEFFIELD AGAINST THE ORDERS IN COUNCIL. (Hansard, 17 April 1812)" — https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-sheffield-against-the
+  - sha256 0cf6ab7705f7b53edaeda9853c70daa673cb88fa178ad607ae9fd58cd2c16d4e
+  - cited by [t_87ba37] "1812-04-17谢菲尔德请愿明确愿为英国独立承压，同时要求废Orders；不能把反贸易管制等同接受法国霸权。" (fact) — "if they regarded those Orders as necessary for supporting ... the just rights and independence of t…"
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-sheffield-against-the` in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/0cfeffeb04dc.md` ← `downloads/pages/0cfeffeb04dc.md`
+  - "Napoleon Et Talleyrand - Dard, Emile - PDFCOFFEE.COM" — https://pdfcoffee.com/napoleon-et-talleyrand-dard-emile-pdf-free.html
+  - sha256 0cfeffeb04dcb1c4bbf06f73b0982e8bae1673627cfb3b4eb1811c9a66807f2c
+  - cited by [t_08b9e7] "1805年10月17日Talleyrand斯特拉斯堡备忘录（Dard转录）：主张不粉碎奥地利、以东方补偿换奥法同盟、法国回归自然疆界、放弃意大利王冠。12月5日重申，未被采纳。奥斯特里茨后拿破仑对其…" (fact) — "Votre Majesté peut maintenant briser la monarchie autrichienne ou la relever. Une fois brisée, il n…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_b702da/X4_ideas_nationalism_movements.md`
+- `sources/pages/0dae11bc01f3.md` ← `downloads/pages/0dae11bc01f3.md`
+  - "The Project Gutenberg eBook of Oeuvres de Napoléon Bonaparte, Tome IV" — https://www.gutenberg.org/files/13192/13192-h/13192-h.htm
+  - sha256 0dae11bc01f3fa32412de3ac9909079e38900ea8914039dd424fba65b36c5241
+  - cited in `nodes/r_5b1357a9c6/cards/t_3282da/SP1_spain_state.md`
+- `sources/pages/0e5a385b8bba.md` ← `downloads/pages/0e5a385b8bba.md`
+  - "God’s March through History - Iron Kingdom: The Rise and Downfall of Prussia, 1600-1947" — https://erenow.org/modern/iron-kingdom/14.php
+  - sha256 0e5a385b8bba95036c845e378364e71caed524757fb1a07dbb3acd62488a16dd
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_economy_society.md`
+- `sources/pages/1131eb224b3d.md` ← `downloads/pages/1131eb224b3d.md`
+  - "‘These peaceable times are the devil’: Royal Navy officers in the post-war slump, 1815–1825" — https://journals.sagepub.com/doi/10.1177/0843871414543445
+  - sha256 1131eb224b3d88d4c15535853cfb79c14fa1669e01381a98b5f13ad86bcd8a1a
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_race_1815_1830.md`
+  - cited as `https://journals.sagepub.com/doi/10.1177/0843871414543445` in `nodes/r_5b1357a9c6/cards/t_24b942/notes_added_20260923.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/notes_added_20260923.md`
+- `sources/pages/1170b6cb87a9.md` ← `downloads/pages/1170b6cb87a9.md`
+  - "THE BUDGET (Hansard, 12 May 1809)" — https://api.parliament.uk/historic-hansard/commons/1809/may/12/the-budget
+  - sha256 1170b6cb87a9970dd9536a078b3f02754ce99f3fdf31abe837af2d63b213961e
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/12d7830a524e.md` ← `downloads/pages/12d7830a524e.md`
+  - "Jean-Charles Serra wobec stanu finansów Księstwa Warszawskiego w 1808 r." — https://doi.org/10.35765/rfi.2025.3103.15
+  - sha256 12d7830a524e676748a3d868967e7e27fcc9e8eed3fd8b1e1ae3cafdb7dee5ef
+  - cited by [t_b5dab4] "公国财政承重锚点：1808-01国王预算草案收入21,997,700złp/支出43,027,098（军费22,850,770）/赤字21,029,398（AE CP 324,343转引）；1809…" (fact) — "Dokument wskazywał 21 029 398 zł deficytu. Przy przewidywanych dochodach na poziomie 21 997 700 zł …"
+  - cited in `nodes/r_5b1357a9c6/cards/t_b5dab4/notes_fiscal_army_1831.md`
+- `sources/pages/13f4af98385b.md` ← `downloads/pages/13f4af98385b.md`
+  - "The Project Gutenberg eBook of Napoléon et Alexandre Ier, par Albert Vandal" — https://www.gutenberg.org/cache/epub/28254/pg28254-images.html
+  - sha256 13f4af98385bd9ea9834f4d87f045a32cef63fc5784670c4f57019f08a1f6b79
+  - cited by [t_66ee8d] "1808年3月圣彼得堡瓜分谈判在达达尼尔海峡归属上死锁：俄方（Rumiantsev/亚历山大）坚持君士坦丁堡与达达尼尔皆归俄，法方君堡可议但达达尼尔绝不让（Caulaincourt按训令提出双锁分持…" (fact) — "Mon opinion est que nous ne pouvons céder ni Constantinople ni les Dardanelles."
+  - cited by [t_66ee8d] "埃尔福特公约（1808-10-12）未完成瓜分：只托9–12月间认两公国归俄（第8条俄方改稿），第16条“维持奥斯曼其余领土完整”被Vandal定性为共管扣押（mise sous séquestre…" (fact) — "Les hautes parties contractantes s'engagent d'ailleurs, disait l'article 16, à maintenir l'intégrit…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/PS_persia_afghanistan_punjab.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/notes_local_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/sec3_envelope_reactions.md`
+- `sources/pages/156d03703582.md` ← `downloads/pages/156d03703582.md`
+  - "SEPARATE CHARGES. (Hansard, 14 June 1815)" — https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges
+  - sha256 156d03703582cdcbbd9d85faef34060f6b7e654a7334cd7e9ee6d8b31b3983c2
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges` in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`
+  - cited by [t_044211] "1815年Vansittart明确提出法国与大陆列强达安排时，将当前陆军经费转用于海军；对英“无盟友必破产”的静态假设应改为政策反馈。" (fact) — "that expense now incurred for our armies would cease, and the supplies at present demanded for them…"
+  - cited by [t_044211] "1815年财政大臣承认大陆和局成立后可将当前陆军支出转向海军，构成本卡无盟友时的可证政策选项，但不证明净节约已经确定。" (fact) — "that expense now incurred for our armies would cease, and the supplies at present demanded for them…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges` in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_race_1815_1830.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_race_1815_1830.md`
+  - cited by [t_c69786] "1815财政大臣Vansittart公开提出法国若与大陆列强达成安排，可把当前陆军拨款改用于海军，证实大陆伙伴脱战后的陆转海为当时桌面选项；不证明它已执行或英国已承认法国欧洲秩序。" (fact) — "that expense now incurred for our armies would cease, and the supplies at present demanded for them…"
+  - cited by [t_c69786] "同场Tierney质疑欠款不会重生和开支估计；Vansittart也承认海员裁减因归航人员补领欠饷而增加当期现金支出。模型因此须保留清欠与转型滞后。" (fact) — "there seemed no reason to doubt that similar arrears would again accumulate"
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited by [t_998052] "Vansittart在1815-06-14明确提出法国与大陆和解时将陆战资源转海军；同场Tierney质疑支出下降假设。" (fact) — "that expense now incurred for our armies would cease, and the supplies at present demanded for them…"
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_budget1815.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_budget1815.md`
+- `sources/pages/171e7ef70128.md` ← `downloads/pages/171e7ef70128.md`
+  - "La géographie des ressources forestières et les ambitions navales de Napoléon après Trafalgar : l’exemple du bois de ch…" — https://journals.openedition.org/geohist/4373
+  - sha256 171e7ef701287d212c19896e1bd423f764122a11b95fe68366885f6900cf902a
+  - cited by [t_b1a536] "Todorov所用1805橡木调查中安特卫普补给流域集中了约62%的合规格大橡木；资源与出港/训练地理错位，不能把欧洲森林总数直接换成布雷斯特产量。" (inference) — "Le seul bassin d’Anvers concentre presque 62 %"
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_quote_ledger.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/1834e51c1dbd.md` ← `downloads/pages/1834e51c1dbd.md`
+  - "ʿABBĀS MĪRZĀ QAJAR - Encyclopaedia Iranica" — https://www.iranicaonline.org/articles/abbas-mirza
+  - sha256 1834e51c1dbd1d0212ffe76054947fa928932d8a129333585a8c179fd0876987
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/PS_persia_afghanistan_punjab.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/notes_persia.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/sec1_head_persia.md`
+- `sources/pages/18966578d993.md` ← `downloads/pages/18966578d993.md`
+  - "ARMY ESTIMATES. (Hansard, 8 March 1813)" — https://api.parliament.uk/historic-hansard/commons/1813/mar/08/army-estimates
+  - sha256 18966578d993404deeeb1d3230ffb73e799d43e0d7096aeeb7e29046225f35a4
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+- `sources/pages/18d0e5c351dd.md` ← `downloads/pages/18d0e5c351dd.md`
+  - "Histoire de la Campagne de Russie | The Napoleon Series" — https://www.napoleon-series.org/military-information/battles-and-campaigns/histoire-de-la-campagne-de-russie/
+  - sha256 18d0e5c351dda3b8a244a657e8d1f7e16c8f81f86a7d79cefc8ce3972b5b6bfb
+  - cited as `https://www.napoleon-series.org/military-information/battles-and-campaigns/histoire-de-la-campagne-de-russie/` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.napoleon-series.org/military-information/battles-and-campaigns/histoire-de-la-campagne-de-russie/` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_1812_check.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_1812_check.md`
+- `sources/pages/18f278bfa698.md` ← `downloads/pages/18f278bfa698.md`
+  - "Where did France build up its fleet in 1805-1814?" — https://history.stackexchange.com/questions/70435/where-did-france-build-up-its-fleet-in-1805-1814
+  - sha256 18f278bfa698dc8ccc18fcab6a5d52602834c19a74d49c3bdf7c534eea680ad2
+  - cited as `https://history.stackexchange.com/questions/70435/where-did-france-build-up-its-fleet-in-1805-1814` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+- `sources/pages/19a912642825.md` ← `downloads/pages/19a912642825.md`
+  - "History of Parliament Online" — https://historyofparliamentonline.org/volume/1790-1820/parliament/1807
+  - sha256 19a9126428253bfd99de6ab9666b2e191100c720a9be1605509f411ddfb81ad1
+  - cited as `https://historyofparliamentonline.org/volume/1790-1820/parliament/1807` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://historyofparliamentonline.org/volume/1790-1820/parliament/1807` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions 2.md`
+  - cited as `https://historyofparliamentonline.org/volume/1790-1820/parliament/1807` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+- `sources/pages/19f8ac6acdbd.md` ← `downloads/pages/19f8ac6acdbd.md`
+  - "MELZI D'ERIL, Francesco - Enciclopedia - Treccani" — https://www.treccani.it/enciclopedia/francesco-melzi-d-eril_(Enciclopedia-Italiana)/
+  - sha256 19f8ac6acdbd1adc0c91fb2ab2102990bc1ad169a813be236433a79459dc1422
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/notes_dbi_biografie_1814.md`
+- `sources/pages/19fadd546928.md` ← `downloads/pages/19fadd546928.md`
+  - "FATḤ-ʿALĪ SHAH QĀJĀR - Encyclopaedia Iranica" — https://www.iranicaonline.org/articles/fath-ali-shah-qajar
+  - sha256 19fadd546928b16c4df082891876478149a654b1768e516f1e093a0fd42cb620
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/PS_persia_afghanistan_punjab.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/notes_persia.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/sec1_head_persia.md`
+- `sources/pages/1a445a082118.md` ← `downloads/pages/1a445a082118.md`
+  - "Avalon Project - Amendments to the Constitution Proposed by the Hartford Convention : 1814" — https://avalon.law.yale.edu/19th_century/hartconv.asp
+  - sha256 1a445a08211806c971f6918951c25b6a56896ebc79588ddd78625844446c235f
+  - cited in `nodes/r_5b1357a9c6/cards/t_b0f045/US_united_states.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_eaa841/raw_yeartables.md`
+- `sources/pages/1b22dbe49e2a.md` ← `downloads/pages/1b22dbe49e2a.md`
+  - "Research guide M2: Press gangs and impressment | Royal Museums Greenwich" — https://www.rmg.co.uk/collections/research-guides/research-guide-m2-press-gangs-and-impressment
+  - sha256 1b22dbe49e2a2c14c8d7a1876023d9cb7b547bdc0796cf8011e67dc283189d49
+  - cited in `nodes/r_5b1357a9c6/cards/t_998052/notes_late_checks.md`
+- `sources/pages/1b329de6f5e8.md` ← `downloads/pages/1b329de6f5e8.md`
+  - "A Time of Iron - Iron Kingdom: The Rise and Downfall of Prussia, 1600-1947" — https://erenow.org/modern/iron-kingdom/13.php
+  - sha256 1b329de6f5e8dcd9389287328a7b9473aab289ef95b2e401a1e72c62997c9fee
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_economy_society.md`
+- `sources/pages/1b6165aee016.md` ← `downloads/pages/1b6165aee016.md`
+  - "Foreign Enterprise in Russian and Soviet Industry: A Long Term Perspective" — https://www.cambridge.org/core/journals/business-history-review/article/abs/foreign-enterprise-in-russian-and-soviet-industry-a-long-term-perspective/AD950A0CB6F5A87F277A0C4DBF9D9BC6
+  - sha256 1b6165aee01638d4db948f36a600365cbe0035df56e6ffb550ff372b76b0a64f
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/1e04060345f8.md` ← `downloads/pages/1e04060345f8.md`
+  - "Cambridge University Press 978-1-107-64033-7 - Income Tax in the Napoleonic Wars Arthur Hope-Jones Excerpt More informa…" — https://assets.cambridge.org/97811076/40337/excerpt/9781107640337_excerpt.pdf
+  - sha256 1e04060345f8d4c1ef24aba2abf0aea31d7a3b288c33956b100f8ce16c619803
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/1ee80b7507ce.md` ← `downloads/pages/1ee80b7507ce.md`
+  - "Andreas Hofer and the insurrection in the Tyrol, 1809 - napoleon.org" — https://www.napoleon.org/en/history-of-the-two-empires/articles/andreas-hofer-and-the-insurrection-in-the-tyrol-1809/
+  - sha256 1ee80b7507cecf8ee4a57fde8c1e1e032a803b1422b990ba41975530df3a7df9
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_bavaria.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_wurtt_baden_tyrol.md`
+- `sources/pages/1f3ae80c4f16.md` ← `downloads/pages/1f3ae80c4f16.md`
+  - "PRINA, Giuseppe - Enciclopedia - Treccani" — https://www.treccani.it/enciclopedia/giuseppe-prina_(Dizionario-Biografico)/
+  - sha256 1f3ae80c4f16a31aabc38f1ae8426c115c980a7887d81230a64ff740f44494cc
+  - cited by [t_be9258] "1814-04-20米兰"雨伞日"：Prina私刑由以旧贵族为主、意在使欧仁登基新独立国候选破产者刻意煽动；财政部档案与Prina私人档案全毁；而同期行政机器在库空+战败下仍效忠到底（Grab）——…" (fact) — "abilmente alimentato da quanti – in prevalenza ex nobili – miravano a far naufragare la candidatura…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/notes_dbi_biografie_1814.md`
+- `sources/pages/1f500788134e.md` ← `downloads/pages/1f500788134e.md`
+  - "INDIA BUDGET. (Hansard, 10 July 1806)" — https://api.parliament.uk/historic-hansard/commons/1806/jul/10/india-budget
+  - sha256 1f500788134ee3c71a8cfe309f32cc329e06af3c8d62af92d728d11b302a302b
+  - cited by [t_0bb54c] "印度领地账在1803–06连续赤字：1803-04实绩岁入£13,273,044、支出£13,214,114、债息£1,534,758，扣明古连补给与进口货销售后净缺口£1,124,403；1805…" (fact) — "Shews the Amount in which, in the year 1803-4, the Resources from Revenue and Sales of Imports were…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/notes_finance.md`
+- `sources/pages/1ff459f0bfec.md` ← `downloads/pages/1ff459f0bfec.md`
+  - "Napoléon et le livre - Chapitre II. La censure de 1810 à 1814 - Presses universitaires de Rennes" — https://books.openedition.org/pur/264988?lang=en
+  - sha256 1ff459f0bfecf010941f4c583631526b954374e142fca0cda2fc99411892a5b0
+  - cited in `nodes/r_5b1357a9c6/cards/t_b702da/X4_ideas_nationalism_movements.md`
+- `sources/pages/2117b6d948bd.md` ← `downloads/pages/2117b6d948bd.md`
+  - "Informal Empire" — https://www.britishempire.co.uk/article/informalempireappendices.htm
+  - sha256 2117b6d948bdf20e9ac00485725ff237faf29a074929c316c8cb7ca46fac1d86
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/219f06b950cc.md` ← `downloads/pages/219f06b950cc.md`
+  - "The 'New Opposition', 1801-4 | History of Parliament Online" — https://www.historyofparliamentonline.org/periods/hanoverians/new-opposition-1801-4
+  - sha256 219f06b950ccc2a3f5d48182c19089eb494b25c3bee0dc5d94782eaa8934ae2b
+  - cited as `https://www.historyofparliamentonline.org/periods/hanoverians/new-opposition-1801-4` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.historyofparliamentonline.org/periods/hanoverians/new-opposition-1801-4` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions 2.md`
+  - cited as `https://www.historyofparliamentonline.org/periods/hanoverians/new-opposition-1801-4` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+- `sources/pages/21ae17eda88c.md` ← `downloads/pages/21ae17eda88c.md`
+  - "Napoléon et les arsenaux de la Marine - Persée" — https://www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813
+  - sha256 21ae17eda88cda27c061d93e6aa1e1ce3fe833030b294540de765658eef3761c
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_quote_ledger.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_race_1815_1830.md`
+- `sources/pages/21f2ec59e7fc.md` ← `downloads/pages/21f2ec59e7fc.md`
+  - "Affaire Malet : le faux Sénatus-consulte du 22 octobre 1812 - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/affaire-malet-le-faux-senatus-consulte-du-22-octobre-1812/
+  - sha256 21f2ec59e7fc809b6f98cda9e152db20099d2ca94c8cbe881668b3308a8410db
+  - cited by [t_7c3954] "Malet 1812伪元老院令纲领（SHD dossier Malet转录）：废帝制、立即媾和、终结西班牙灾难、恢复荷兰与意大利独立、对逃兵全面大赦、迎教皇入巴黎、恢复出版自由——是1812年反对派…" (fact) — "de traiter immédiatement de la paix avec les Puissances belligérantes, de faire cesser les malheurs…"
+- `sources/pages/227f1cf6004e.md` ← `downloads/pages/227f1cf6004e.md`
+  - "Rheinbunds-Akte 1806" — https://www.koeblergerhard.de/Fontes/Rheinbunds-Akte1806.htm
+  - sha256 227f1cf6004e159ee85e5129fc3b630e29b2d9f54a4a4c34d72a41819651a644
+  - cited in `nodes/r_5b1357a9c6/cards/t_cbaee3/G2_north_german_states.md`
+- `sources/pages/24084fc70707.md` ← `downloads/pages/24084fc70707.md`
+  - "British anti-invasion preparations of 1803–05" — https://en.wikipedia.org/wiki/British_anti-invasion_preparations_of_1803%E2%80%9305
+  - sha256 24084fc70707d572f724d614c899e1c3897f4b4910fe7b3fb47167de84fba241
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_landing.md`
+- `sources/pages/254d31b40981.md` ← `downloads/pages/254d31b40981.md`
+  - "ENS LSH - Colloque - Pour une histoire critique et citoyenne, le cas de l’histoire franco-algérienne" — http://colloque-algerie.ens-lyon.fr/communication.php3?id_article=236
+  - sha256 254d31b40981bf5f9130556e4a6c13b88ebe5f6fec663ac16fafa97d6e8d4d65
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+- `sources/pages/26c8c80b061c.md` ← `downloads/pages/26c8c80b061c.md`
+  - "Full text of " A statistical display of the finances, navigation and commerce of the United Kingdom of Great Britain an…" — https://archive.org/stream/b22297042/b22297042_djvu.txt
+  - sha256 26c8c80b061c45c8ae76853b6f755750b12cf595f366f9d581d98a05b422df8a
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/2853653e1cb6.md` ← `downloads/pages/2853653e1cb6.md`
+  - "Fredstraktat imellem Danmark og Sverige sluttet i Kiel den 14. januar 1814 – Danmarkshistorien | Lex" — https://danmarkshistorien.lex.dk/Fredstraktat_imellem_Danmark_og_Sverige_sluttet_i_Kiel_den_14._januar_1814
+  - sha256 2853653e1cb6f27f4e640940da0bf6b585f2e7e1620ec6feac7bdda69d49ff37
+  - cited by [t_8b4a3e] "基尔条约Art.4以"与瑞典联合的王国"而非行省形式转让挪威，格陵兰/法罗/冰岛明文除外；Art.6国债按人口与收入比例分担" (fact) — "Grønland, Færøerne og Island ikke deri indbegrebne"
+- `sources/pages/29931d6389d2.md` ← `downloads/pages/29931d6389d2.md`
+  - "ISSUE OF EXCHEQUER BILLS FOR PURPOSES OF LOCAL AND TEMPORARY RELIEF. (Hansard, 28 April 1817)" — https://api.parliament.uk/historic-hansard/commons/1817/apr/28/issue-of-exchequer-bills-for-purposes-of
+  - sha256 29931d6389d2a95e3fe300c7440a1b4a592e28a9ca22772420e5e2b370c93b3b
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1817/apr/28/issue-of-exchequer-bills-for-purposes-of` in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+- `sources/pages/2ad693d5ac13.md` ← `downloads/pages/2ad693d5ac13.md`
+  - "Napoleon and the Transformation of Europe (European History in Perspective)" — https://ndl.ethernet.edu.et/bitstream/123456789/44567/1/2.Alexander%20Grab.pdf
+  - sha256 2ad693d5ac13c9d65f6046695de9b91e2c511c522d0a94dfd9842d4701ba3214
+  - cited in `nodes/r_5b1357a9c6/cards/t_b5dab4/notes_prior_round.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_bavaria.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_ccdcc8/NL_netherlands_switzerland.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_ccdcc8/notes_grab.md`
+  - cited by [t_be9258] "意大利王国汲取实绩（Grab 2003 ch.10）：1802–14征兵155,000人，1812年常备军70,000；俄役27,000人仅约1,000生还；驻王国25,000法军维持费+意军开支通…" (fact) — "the government drafted 155,000 men between 1802 and 1814, and expanded the Italian army to 70,000 m…"
+  - cited by [t_be9258] "1809双起义：威尼托（奥侵背景+恢复威尼斯共和国诉求，数千农民威胁Vicenza/Treviso）与艾米利亚-罗马涅（反新磨坊税，盗匪与逃兵领导，一度威胁博洛尼亚）；镇压后Prina决定撤销磨坊税…" (fact) — "under the influence of the revolt, Prina decided to revoke the milling tax"
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/notes_grab_transformation.md`
+  - cited by [t_5b1d64] "比利时是专约和解可行性与脆弱性双实证：1801–09八年有效（多数教士宣誓、征兵合规改善）；1809绞罚+囚教皇后逆转（拒为皇帝祈祷、根特/图尔奈司铎集体拒认新主教、数百司铎被捕）。专约体制忠诚是转…" (inference) — "a growing segment of the clergy refused to pray for him following the papal excommunication"
+  - cited by [t_5b1d64] "S6判定：教会是A层（并合省）可扩性的第一证伪器——罗马两省1809–14试点：行政存在、忠诚为零、全谱系消极抵抗无起义。S6下教会不是引爆器而是腐蚀剂：不推翻帝国但使天主教抵抗区驻军账永久上浮。最…" (inference) — "They obeyed Pius VII's orders to refrain from swearing allegiance to the new ruler"
+  - cited by [t_5b1d64] "B4反应函数反转判定（中高）：保留波旁+联姻版下西班牙教会可挤压可合作——教会已在波旁治下接受Consolidación卖教产（1798–1808教皇简函合作）；无王朝真空则无洪塔，无洪塔则教士无合…" (inference) — "Godoy also alienated the Church by selling extensive ecclesiastical properties"
+  - cited in `nodes/r_5b1357a9c6/cards/t_219822/PT_portugal_brazil.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_219822/notes_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b702da/X4_ideas_nationalism_movements.md`
+  - cited by [t_e0038f] "伊利里亚征兵实得：1810-11令征18,000，此后三年每年实得仅约3,000；反征兵骚乱多处、数百逃兵入匪帮；封锁无法执行、"走私成国民工业"（Bundy语经Grab）；1812支出13.5m其…" (fact) — "In November 1810, the Emperor ordered the conscription of 18,000 soldiers, but during the next thre…"
+  - cited as `doc:2ad693d5ac13#p83` by [t_afeae6] "比利时必须按时段分列：1798为正例（数百拒誓教士被捕、35人流放圭亚那、1798年9月引入征兵后10月起义、Thousands of rebels、12月初镇压）；1800–13为有积极出处的负例…" (fact) — "Except for the peasant revolt in 1798, Belgium never challenged the French rule in any significant …"
+  - cited as `doc:2ad693d5ac13#p118` by [t_afeae6] "异常案例苏黎世1804 Bockenkrieg：在「保精英＋保自治」的调停制下仍发生农民起义，且非反法起义。含义是安抚精英与安抚民众可能互相冲突——恢复旧精英的地租什一税赎金正是点火原因。" (interpretation)
+- `sources/pages/2c591936a232.md` ← `downloads/pages/2c591936a232.md`
+  - "Avalon Project - Treaty of Paris 1763" — https://avalon.law.yale.edu/18th_century/paris763.asp
+  - sha256 2c591936a232f88da7c74aea787f7598a0ac9cf4ecb2bc8d325999513b4132a1
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+- `sources/pages/2cae8e7be9d4.md` ← `downloads/pages/2cae8e7be9d4.md`
+  - "The Continental System: An Economic Interpretation - Econlib" — https://www.econlib.org/library/YPDBooks/Heckscher/hksrCS15.html
+  - sha256 2cae8e7be9d4d7530b766476c70ea0e7b81f5f3eb8083d64c7ef11050644c779
+  - cited in `nodes/r_5b1357a9c6/cards/t_b702da/X4_ideas_nationalism_movements.md`
+- `sources/pages/2d8d72a79507.md` ← `downloads/pages/2d8d72a79507.md`
+  - "Research guide B8: The Spithead and Nore mutinies of 1797 | Royal Museums Greenwich" — https://www.rmg.co.uk/collections/research-guides/research-guide-b8-spithead-nore-mutinies-1797
+  - sha256 2d8d72a79507b10eddcad44cce706043868e5bdbfbc9232ab78ed7bff1bdc822
+  - cited by [t_998052] "斯皮特黑德1797年16艘战列舰拒航，主要诉求为薪酬、给养及待遇；诺尔诉求扩大并封锁泰晤士后遭镇压。" (fact)
+- `sources/pages/2e0619dd75ba.md` ← `downloads/pages/2e0619dd75ba.md`
+  - "October 2020, Revised July 2026" — https://www.nber.org/system/files/working_papers/w27904/w27904.pdf
+  - sha256 2e0619dd75ba61ea090bef9f2804a5edbfa8ffc7cb1a3268f31397ca7c7994cd
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/2f4fc6ec5d53.md` ← `downloads/pages/2f4fc6ec5d53.md`
+  - https://researchonline.lse.ac.uk/id/eprint/126278/1/The_Economic_History_Review_-_2025_-_Sissoko_-_Preventing_financial_ruin_How_the_West_India_trade_fostered_creativity_in.pdf
+  - sha256 2f4fc6ec5d5337e6da224c7803cbb5c360753c344475b9103cbc8db45402b8f1
+  - cited as `https://researchonline.lse.ac.uk/id/eprint/126278/1/The_Economic_History_Review_-_2025_-_Sissoko_-_Preventing_financial_ruin_How_the_West_India_trade_fostered_creativity_in.pdf` in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+- `sources/pages/2f8f4416ec15.md` ← `downloads/pages/2f8f4416ec15.md`
+  - "Württembergische Landstände" — https://de.wikipedia.org/wiki/W%C3%BCrttembergische_Landst%C3%A4nde
+  - sha256 2f8f4416ec157cf8da347b52f403b322dc61ddac16b2e76decd480d59e090840
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/G1_south_german_states.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_wurtt_baden_tyrol.md`
+- `sources/pages/32a25c5f3dca.md` ← `downloads/pages/32a25c5f3dca.md`
+  - "1301.0 - Year Book Australia, 2003" — https://www.abs.gov.au/Ausstats/abs@.nsf/46d1bc47ac9d0c7bca256c470025ff87/1476d522ebe22464ca256cae0015bad4!OpenDocument
+  - sha256 32a25c5f3dcab299f049b52d3deb71fbb35fa124dd10531dad39e321fb3106c0
+  - cited as `https://www.abs.gov.au/Ausstats/abs@.nsf/46d1bc47ac9d0c7bca256c470025ff87/1476d522ebe22464ca256cae0015bad4!OpenDocument` in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_addenda.md`
+- `sources/pages/350599d00ab2.md` ← `downloads/pages/350599d00ab2.md`
+  - "The French Fleet, 1807-1814; Britain's Problem; and Madison's Opportunity | The Journal of Modern History: Vol 39, No 3" — https://www.journals.uchicago.edu/doi/pdf/10.1086/240080
+  - sha256 350599d00ab281d76a0fef643b5c9efc7f0b53dca74c1429fe7f8e7c67edb02e
+  - cited as `https://www.journals.uchicago.edu/doi/pdf/10.1086/240080` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+- `sources/pages/35dcb892b38d.md` ← `downloads/pages/35dcb892b38d.md`
+  - "The Project Gutenberg eBook of Napoléon et Alexandre Ier, par Albert Vandal" — https://www.gutenberg.org/files/31260/31260-h/31260-h.htm
+  - sha256 35dcb892b38dbf0f6bd94ffc0e5ad2ff91ba8be12406bdc227b5a72b15b916ea
+  - cited by [t_08b9e7] "1810年春存在幅度最大的真实缓和窗口：莱茵境内撤军至两个师、加速对普财政了结、中止荷兰兼并、重启对英试探（"la paix ne peut venir qu'en faisant d'abord …" (fact) — "Il rappelait ses troupes d'Allemagne et les faisait refluer derrière le Rhin; ... suspendait l'anne…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_08b9e7/F1_napoleon_center.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_91cbee/R1_russia_court.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b5dab4/notes_prior_round.md`
+- `sources/pages/360e2a6cb9f5.md` ← `downloads/pages/360e2a6cb9f5.md`
+  - "Internet History Sourcebooks: Modern History" — https://sourcebooks.web.fordham.edu/mod/indrevtabs1.asp
+  - sha256 360e2a6cb9f5f8f852b006dde5fffce21e43a48fb27cad2891def7133d665f4a
+  - cited as `https://sourcebooks.web.fordham.edu/mod/indrevtabs1.asp` in `nodes/r_5b1357a9c6/cards/t_02f417/notes_materials_02.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_materials_02.md`
+- `sources/pages/3762a4f8f4e3.md` ← `downloads/pages/3762a4f8f4e3.md`
+  - "Swords Around a Throne: Napoleon's Army | PDF | Cavalry | Infantry" — https://www.scribd.com/document/741223309/John-R-Elting-Swords-Around-a-Throne-Da-Capo-Press-1997
+  - sha256 3762a4f8f4e33e2083e712e0c6f48337d09bc5c28c61eb63d15c11dbe784749b
+  - cited as `https://www.scribd.com/document/741223309/John-R-Elting-Swords-Around-a-Throne-Da-Capo-Press-1997` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_08b9e7/F1_napoleon_center.md`
+- `sources/pages/379bed301061.md` ← `downloads/pages/379bed301061.md`
+  - "Monroe Doctrine (1823) | National Archives" — https://www.archives.gov/milestone-documents/monroe-doctrine
+  - sha256 379bed301061dac5e8f22c398f10a73169d49572b76fe1cb1ce5e66a507f628e
+  - cited by [t_b0f045] "S5下门罗式原则必然出现且改向法国：1823年文本同时包含"不干涉现有殖民地"与"不得把其体系扩展到本半球"两条，意味着只要法国不帮西班牙重建统治，美国就不介入；但宣言无执行能力，故S5下美国三分支…" (inference) — "we should consider any attempt on their part to extend their system to any portion of this hemisphe…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_b0f045/US_united_states.md`
+- `sources/pages/39348d986bea.md` ← `downloads/pages/39348d986bea.md`
+  - "Cobbett’s Weekly Political Register. London, Saturday, 30th July, 1803." — https://doi.org/10.4324/9781003192756-4
+  - sha256 39348d986beae5fde02aa14ca6939e805d3dea34ca9258787eb7c3988209a06a
+  - cited as `https://doi.org/10.4324/9781003192756-4` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://doi.org/10.4324/9781003192756-4` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_ireland_press.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_ireland_press.md`
+- `sources/pages/3a7af6a78c72.md` ← `downloads/pages/3a7af6a78c72.md`
+  - "Les hommes de la gendarmerie d'Espagne (1809-1814) - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/les-hommes-de-la-gendarmerie-despagne-1809-1814/
+  - sha256 3a7af6a78c72a19d0c046eb5d6332c7f62071cb909dca5d9f1e5f82fa19b7475
+  - cited by [t_c98c24] "1809-11-12陆军部长报告宪兵总人数15,474；西班牙4000宪兵一半从内地、一半从正规军仓底招募，作者认为国内不能承受4000全额抽出。" (fact) — "À l’aune de ce document, l’Arme est forte de 15 474 hommes ... Jamais les brigades n’auraient pu su…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_c98c24/notes_primary_2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c98c24/phase_design.md`
+- `sources/pages/3ac3b1dd88bf.md` ← `downloads/pages/3ac3b1dd88bf.md`
+  - "“Money is a good soldier, sir, and will on” – The Bank of England in the Peninsular War, 1807 – 1814" — https://mcgill.scholaris.ca/bitstreams/6dcd38c6-a91e-4474-a50b-c89b1d8116c9/download
+  - sha256 3ac3b1dd88bfedcb3cc0e5bd709b4cdcc0a8bd74fd4869d84e9497cfc0cf1059
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/3b214d7b54fb.md` ← `downloads/pages/3b214d7b54fb.md`
+  - "COMMITTEE OF SUPPLY. (Hansard, 10 November 1813)" — https://api.parliament.uk/historic-hansard/commons/1813/nov/10/committee-of-supply
+  - sha256 3b214d7b54fb6e97568f0b25d22dbbc7459a2f92e18392088c84bd1ac4d756c1
+  - cited by [t_998052] "1813年11月议会政府方以法国扩舰、美国与波罗的海任务压力及海员难以召回为由拒绝提前裁军；反对方则主张把海军资源转陆战。" (fact) — "If we suddenly disbanded, it would not be so easy a task, on an emergency, to recal our seamen"
+- `sources/pages/3b8b8e348c6d.md` ← `downloads/pages/3b8b8e348c6d.md`
+  - "COMMERCIAL CREDIT. (Hansard, 11 March 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/mar/11/commercial-credit
+  - sha256 3b8b8e348c6dd9af10bd461366e62efd0f6d96eb2e05fe10cce3f9582c40ba69
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1811/mar/11/commercial-credit` in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+  - cited by [t_87ba37] "1811年议会救济辩论直接质疑发货额可代表繁荣：货物可滞留南美两三年；大陆对回运殖民品的封锁会反过来削弱海外客户支付能力。" (fact) — "Exports were not trade"
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1811/mar/11/commercial-credit` in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/3b9ceec747c6.md` ← `downloads/pages/3b9ceec747c6.md`
+  - "THE COMMAND OF THE OCEAN" — http://download.e-bookshelf.de/download/0002/5863/98/L-X-0002586398-0006544349.XHTML/index.xhtml
+  - sha256 3b9ceec747c6871fd6d93d6edd747d698f2da63fe019ba5dedfa3b2ae111731b
+  - cited as `http://download.e-bookshelf.de/download/0002/5863/98/L-X-0002586398-0006544349.XHTML/index.xhtml` in `nodes/r_5b1357a9c6/cards/t_24b942/notes_added_20260923.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/notes_added_20260923.md`
+- `sources/pages/3ba1fc65757f.md` ← `downloads/pages/3ba1fc65757f.md`
+  - "PAPER MONEY, THE NATION, AND THE SUSPENSION OF CASH PAYMENTS IN 1797* | The Historical Journal | Cambridge Core" — https://www.cambridge.org/core/journals/historical-journal/article/paper-money-the-nation-and-the-suspension-of-cash-payments-in-1797/1035B94E7519E13F94C3506264B81454
+  - sha256 3ba1fc65757f82ac6f0a794af073fa98a12d4436e76373f6352451dbc68c6e00
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.cambridge.org/core/journals/historical-journal/article/paper-money-the-nation-and-the-suspension-of-cash-payments-in-1797/1035B94E7519E13F94C3506264B81454` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_landing.md`
+- `sources/pages/3c0d8aaa1316.md` ← `downloads/pages/3c0d8aaa1316.md`
+  - "Le vaisseau de la guerre d'Amérique : le « 74 canons » | lhistoire.fr" — https://www.lhistoire.fr/le-vaisseau-de-la-guerre-dam%C3%A9rique-le-%C2%AB-74-canons-%C2%BB
+  - sha256 3c0d8aaa13167a1d697a764d7039ce9673dd1c4d0612718a972db03dfabe6295
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+- `sources/pages/3c65df716c09.md` ← `downloads/pages/3c65df716c09.md`
+  - "Gathering warclouds - napoleon.org" — https://www.napoleon.org/en/history-of-the-two-empires/articles/gathering-warclouds/
+  - sha256 3c65df716c095e2edba182eb23645e3960db5539f36eed59ecaf0cb3de0a2e76
+  - cited by [t_08b9e7] "中枢容量：1811.4–12九个月3144封（Clarke一人1149封=36%，军务占60%），而西班牙国王约瑟夫仅获1封——同年宗教/经济/备战三线危机下出现结构性放弃（半岛授权Clarke/B…" (inference) — "Clarke, War Minister, alone received 1,149 letters (36 % of the total)... Joseph received only one …"
+- `sources/pages/3dbf2623d42f.md` ← `downloads/pages/3dbf2623d42f.md`
+  - "COMMUNICATIONS WITH FRANCE AND SPAIN RELATING TO THE SPANISH AMERICAN PROVINCES. (Hansard, 4 March 1824)" — https://api.parliament.uk/historic-hansard/commons/1824/mar/04/communications-with-france-and-spain-1
+  - sha256 3dbf2623d42f010d61526fb9d392be22960a74d65c5d68aef575591ff5c118c7
+  - cited by [t_c69786] "1823 Canning–Polignac备忘录把外国武力介入西属美洲视为新的问题，并将立即承认分离国家作为可能反应；支持以贸易、承认和海军构成蓝水战略的机制，而非自动复制史实拉美独立时程。" (fact) — "it would consider any foreign interference, by force or by menace, in the dispute between Spain and…"
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1824/mar/04/communications-with-france-and-spain-1` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1824/mar/04/communications-with-france-and-spain-1` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_postwar.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_postwar.md`
+- `sources/pages/3eaf193bd527.md` ← `downloads/pages/3eaf193bd527.md`
+  - "EAST INDIA COMPANY'S REVENUE ACCOUNTS. (Hansard, 8 August 1854)" — https://api.parliament.uk/historic-hansard/commons/1854/aug/08/east-india-companys-revenue-accounts
+  - sha256 3eaf193bd52745c9908a08560dc29fe8714f259b3602ccc1d6e335f58c9aeb86
+  - cited by [t_0bb54c] "1806年后至1854年下院未再提交年度印度预算（Vernon Smith 1854-08-08："距上次印度预算提交下院只差两年就是半个世纪"）——议会年度财政辩论式监督中断四十八年，这是公司得以…" (fact) — "though it is now only two years short of half a century since an Indian budget was last presented t…"
+  - cited by [t_0bb54c] "1851-52年印度登记债利息£1,967,359、在英国支付的印度领地开支£2,506,377，两项后余£531,265。对照1813年公司自述的在英政治开支£0.91m与债息£1.6m，说明ho…" (fact) — "the Charges defrayed in England on account of the Indian Territory in the same period amounted to 2…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company.md`
+- `sources/pages/3f6d498365c6.md` ← `downloads/pages/3f6d498365c6.md`
+  - "Nobilität im Sittlich-Wissenschaftlichen Verein 1808-1809" — https://adelsquellen.de/adelsforschung/tugend.htm
+  - sha256 3f6d498365c65dc504a5d89b67803458cef290901a13b809f03b0a4d7b50d9b6
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_economy_society.md`
+  - cited by [t_b702da] "Tugendbund实测规模：1809年现存名录23个分会、在册约620人（lwl口径“至多700”），全部在城镇且与占领/围城经历地理相关，乡村零分会；1809年底被普王正式解散；法奥警探高估其重…" (fact) — "die maximal 700 Mitglieder besaß und Ende 1809 vom preußischen König förmlich aufgehoben wurde"
+  - cited in `nodes/r_5b1357a9c6/cards/t_b702da/X4_ideas_nationalism_movements.md`
+- `sources/pages/3fee8d23eab4.md` ← `downloads/pages/3fee8d23eab4.md`
+  - "The Reform Act 1832 -" — https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseofcommons/reformacts/overview/reformact1832/
+  - sha256 3fee8d23eab4d2bfc0e8f6a530b181ae764d23f421fabc4317f1c162f01a6ef4
+  - cited as `https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseofcommons/reformacts/overview/reformact1832/` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseofcommons/reformacts/overview/reformact1832/` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_reform.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_reform.md`
+- `sources/pages/3ff04f44110f.md` ← `downloads/pages/3ff04f44110f.md`
+  - "historion.net • History Online • Rise of the New West, 1819-1829 • CHAPTER XII. THE MONROE DOCTRINE (1821-1823)" — https://historion.net/rise-new-west-1819-1829/chapter-xii-monroe-doctrine-1821-1823?quicktabs_2=0
+  - sha256 3ff04f44110f6a0c9c5d7333ac8fa4cd0c3b55e5bfa9534584f886cd53e5105f
+  - cited in `nodes/r_5b1357a9c6/cards/t_9bd988/MX_new_spain_cuba.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_9bd988/notes_politics_society.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_eaa841/raw_yeartables.md`
+- `sources/pages/4100be3f04c1.md` ← `downloads/pages/4100be3f04c1.md`
+  - "1814 : Déchoir et effacer les traces de l’Empire | Sénat" — https://www.senat.fr/connaitre-le-senat/lhistoire-du-senat/dossiers-dhistoire/le-palais-du-luxembourg-sous-les-deux-empires/le-coeur-du-palais/1814-dechoir-et-effacer-les-traces-de-lempire.html
+  - sha256 4100be3f04c1e561b67cd33085e330e873bb18bff337fe4bb1ef2a0f7f15e302
+  - cited by [t_7c3954] "1814年元老院废位机制：塔列朗非法召集，在册90名元老64人到会，66票通过废位；4月6日宪法第6条元老自保佸禄与sénatoreries；路易十八后给3.6万法郎年金、84人入贵族院。" (fact) — "les sénateurs actuels…sont maintenus…La dotation actuelle du Sénat et des sénatoreries leur apparti…"
+- `sources/pages/4161d873abee.md` ← `downloads/pages/4161d873abee.md`
+  - "Bayerische Herrschaft in Tirol (1806-1813/14) – Historisches Lexikon Bayerns" — https://www.historisches-lexikon-bayerns.de/Lexikon/Bayerische_Herrschaft_in_Tirol_(1806-1813/14)
+  - sha256 4161d873abee9a860770602bb7eaf38c4555706fe64b0a3ef5a72fa2cd0c00c4
+  - cited by [t_f55d87] "蒂罗尔＝汲取-整合捆绑失败的界碑案例：1806–08税负+20%、1808宪法废其特别地位并适用征兵、反教会措施→1809年四月全区起义（至04-12巴军死伤俘3,000）；三夺Innsbruck；…" (interpretation) — "Es kam zum Tiroler Aufstand des Jahres 1809, der mithilfe französischer Truppen niedergeschlagen we…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_zollverein_wirtschaft.md`
+- `sources/pages/4253618e6095.md` ← `downloads/pages/4253618e6095.md`
+  - "КОНТИНЕНТАЛЬНАЯ БЛОКАДА И ПОЛОЖЕНИЕ О НЕЙТРАЛЬНОЙ ТОРГОВЛЕ НА 1811 ГОД – тема научной статьи по истории и археологии чи…" — https://cyberleninka.ru/article/n/kontinentalnaya-blokada-i-polozhenie-o-neytralnoy-torgovle-na-1811-god
+  - sha256 4253618e6095ded675dcb2717cf6dadc2b23f4b62fdfaf66f4247ccac3f3796e
+  - cited as `https://cyberleninka.ru/article/n/kontinentalnaya-blokada-i-polozhenie-o-neytralnoy-torgovle-na-1811-god` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/453f975faa96.md` ← `downloads/pages/453f975faa96.md`
+  - "HMS Lightning (1823); Fighting vessel; Gunboat | Royal Museums Greenwich" — https://www.rmg.co.uk/collections/objects/rmgc-object-66670
+  - sha256 453f975faa967afcaaf64df3a96c024ffa9108ac21419320da22005f7777413d
+  - cited as `https://www.rmg.co.uk/collections/objects/rmgc-object-66670` in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`
+  - cited as `https://www.rmg.co.uk/collections/objects/rmgc-object-66670` in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_race_1815_1830.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_race_1815_1830.md`
+  - cited as `https://www.rmg.co.uk/collections/objects/rmgc-object-66670` in `nodes/r_5b1357a9c6/cards/t_24b942/notes_sources.md`
+- `sources/pages/454e935e9868.md` ← `downloads/pages/454e935e9868.md`
+  - "Крестьянская реформа 1861 года | Президентская библиотека имени Б.Н. Ельцина" — https://www.prlib.ru/collections/467127
+  - sha256 454e935e986867ca94090cbeddf9b19dbb85d5d3bd715eb1908d72e7c6d562d5
+  - cited as `https://www.prlib.ru/collections/467127` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/46ca2b09a0f9.md` ← `downloads/pages/46ca2b09a0f9.md`
+  - "Fichier | tauxFrance1800_2015.xlsx | ID: 2227mq56p | Didόmena" — https://didomena.ehess.fr/concern/file_sets/2227mq56p?locale=fr
+  - sha256 46ca2b09a0f954f0ffece0fb917ad780febdd7daf6f7f697b3a097a76041f6a2
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_01.md`
+- `sources/pages/46ca470fcc48.md` ← `downloads/pages/46ca470fcc48.md`
+  - "Naval history of Great Britain by William James" — https://sites.rootsweb.com/~pbtyc/Naval_History/Reports/Budgets/Budgets.htm
+  - sha256 46ca470fcc481d5abc0feddabc4fd69704a067f73623105865e5f954df7667df
+  - cited by [t_998052] "1812年145,000为票定seamen与marines合计，其中seamen113,600、marines31,400，不能称145,000熟练海员。" (fact)
+- `sources/pages/486fa35af2c9.md` ← `downloads/pages/486fa35af2c9.md`
+  - "King George's Declaration on the Breakdown of the Peace, 18 May 1803" — https://www.napoleon-series.org/research/government/diplomatic/c_george2.html
+  - sha256 486fa35af2c98cd7076ac56294b9109451e1245db0e8a50331db9855d45f0084
+  - cited as `https://www.napoleon-series.org/research/government/diplomatic/c_george2.html` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.napoleon-series.org/research/government/diplomatic/c_george2.html` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_constitution_1803_1811.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_constitution_1803_1811.md`
+- `sources/pages/4b0b3e27f01f.md` ← `downloads/pages/4b0b3e27f01f.md`
+  - "Ассигнационный рубль — Википедия" — https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D1%83%D0%B1%D0%BB%D1%8C
+  - sha256 4b0b3e27f01f8e189e578c4b2f1433aa57229b7b5d6174b8620c2362ea004e06
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/4b40ca3af7f7.md` ← `downloads/pages/4b40ca3af7f7.md`
+  - "Treaty between Prussia and France, Tilsit, 9 July, 1807 - napoleon.org" — https://www.napoleon.org/en/history-of-the-two-empires/articles/treaty-between-prussia-and-france-tilsit-9-july-1807/
+  - sha256 4b40ca3af7f78be3bff4b0f23d9b4e716a41cba018f09d0143d991fdd344ac71
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_core.md`
+- `sources/pages/4ba9714f9fde.md` ← `downloads/pages/4ba9714f9fde.md`
+  - "Oeuvres de Napoléon Bonaparte" — https://www.gutenberg.org/cache/epub/13475/pg13475-images.html
+  - sha256 4ba9714f9fdefef01c879facc92a73e30dfee045b2b3956594ce0217706eac61
+  - cited in `nodes/r_5b1357a9c6/cards/t_b5dab4/notes_prior_round.md`
+- `sources/pages/4e950a03a636.md` ← `downloads/pages/4e950a03a636.md`
+  - "Württemberg Friedrich II-I Herzog - Kurfürst - König - Detailseite - LEO-BW" — https://www.leo-bw.de/detail/-/Detail/details/PERSON/ubt_hauswuerttemberg/118703218/W%C3%BCrttemberg+Friedrich+II-I+Herzog+-+Kurf%C3%BCrst+-+K%C3%B6nig
+  - sha256 4e950a03a636cd4b51ed344e79a82114344333d5ddaaa4df02822c38f4749c39
+  - cited by [t_f55d87] "血税实绩：巴伐利亚1812年约33,000人参加俄国远征（HdBG/Grab一致）；符腾堡15,800人出征俄国仅300人返回（Siemann/LEO-BW）；符腾堡直到莱比锡会战仍在法方作战，18…" (fact) — "an dem Feldzug gegen Rußland 1812/13, aus dem von 15.800 Württembergern nur 300 zurückkehrten, bis …"
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/G1_south_german_states.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_wurtt_baden_tyrol.md`
+- `sources/pages/4f3dc9c66f31.md` ← `downloads/pages/4f3dc9c66f31.md`
+  - "Le plébiscite de l’an VIII ou le coup d’État du 18 pluviôse an VIII (suite) - Persée" — https://www.persee.fr/doc/ahrf_0003-4436_1972_num_208_1_4643
+  - sha256 4f3dc9c66f312585f96ee5c442a8afdeb8844b13c76cf56cc3da8965ef7d8ed6
+  - cited by [t_7c3954] "公投系列：an VIII官方3,011,007系Lucien最后时刻伪造（真实赞成少于1793年约35万，军队未投票）；1815附加法仅1,552,942赞成/5,740反对，参与率约20%（an …" (fact) — "Leur nombre est de 3 011 007"
+- `sources/pages/4f6861c63c7b.md` ← `downloads/pages/4f6861c63c7b.md`
+  - "Napoléon, père des nations d'Europe ? (11 novembre 1816) - Clio Texte" — https://clio-texte.clionautes.org/napoleon-pere-des-nations-deurope-11-novembre-1816.html
+  - sha256 4f6861c63c7b44a19a69a427459dfd5f7eb5aa98864ed421c6ae586ef5fa6645
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/notes_dbi_biografie_1814.md`
+- `sources/pages/50491bf9c17b.md` ← `downloads/pages/50491bf9c17b.md`
+  - "From Shot to Shell: General Paixhans’ Revolutionary Artillery | Naval History - December 2024, Volume 38, Number 6" — https://www.usni.org/magazines/naval-history/2024/december/shot-shell-general-paixhans-revolutionary-artillery
+  - sha256 50491bf9c17b4db2f6259065092d5bf35526e6065696f1c9407949d644f0ed3a
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_race_1815_1830.md`
+  - cited as `https://www.usni.org/magazines/naval-history/2024/december/shot-shell-general-paixhans-revolutionary-artillery` in `nodes/r_5b1357a9c6/cards/t_24b942/notes_sources.md`
+- `sources/pages/5153da72f949.md` ← `downloads/pages/5153da72f949.md`
+  - "The role of grain exports in external commerce of Bessarabia (1812-1830) :: Journal „Tyragetia" :: Publications :: Nati…" — https://www.nationalmuseum.md/en/press_releases/journal_tyragetia/the_role_of_grain_exports_in_external_commerce_of_bessarabia_1812_1830/
+  - sha256 5153da72f949e330ddcf0d5abd6db3ce86411d013bd5d79963735b8903d4f60a
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_blacksea_grain.md`
+- `sources/pages/523d0f5541c4.md` ← `downloads/pages/523d0f5541c4.md`
+  - "Statut constitutionnel du 17 mars 1805 - Wikisource" — https://fr.wikisource.org/wiki/Statut_constitutionnel_du_17_mars_1805
+  - sha256 523d0f5541c4c786a9e1748322d925fa7ee70cbd99b33b5e9ebd81c58e456ff4
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_8f2668/notes_johnston_rambaud_primary.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_eaa841/raw_yeartables.md`
+- `sources/pages/523f4560156c.md` ← `downloads/pages/523f4560156c.md`
+  - "Key documents in the history of gold, 1:" — https://www.gold.org/sites/default/files/documents/1810jun8.pdf
+  - sha256 523f4560156c55e6d11df72f32d12965ebd790405c15f54e97f751a58cd40d26
+  - cited as `https://www.gold.org/sites/default/files/documents/1810jun8.pdf` in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+- `sources/pages/53f263fd3a10.md` ← `downloads/pages/53f263fd3a10.md`
+  - "THE CHARTIST PETITION—MESSRS. O'CONNOR AND CRIPPS. (Hansard, 13 April 1848)" — https://api.parliament.uk/historic-hansard/commons/1848/apr/13/the-chartist-petition-messrs-oconnor-and
+  - sha256 53f263fd3a10b92222b42560ec722a587da95ae376d5e9bc7090ee1cf9e93cfe
+  - cited by [t_b702da] "宪章请愿量级（Hansard亲读）：1842年“very nearly 3,500,000”签名；1848年委员会13名文书员17小时点验得确数1,975,496（宣称5,706,000）。百万级群…" (fact) — "the number of signatures has been ascertained to be 1,975,496"
+- `sources/pages/54fd0efdaf3a.md` ← `downloads/pages/54fd0efdaf3a.md`
+  - "Internet-Portal "Westfälische Geschichte"" — https://www.lwl.org/westfaelische-geschichte/portal/Internet/input_felder/langDatensatz_ebene4.php?url_tabelle=tab_websegmente&urlID=714
+  - sha256 54fd0efdaf3a5e25c9df586f7d3a493955be914d2c495ef36c9b842658441717
+  - cited by [t_3ee1b0] "Stein曾同意以30–40k普军供法使用换减赔款和撤军的使节提案：有当时可选的客户国交易，不需假想全欧宪法。" (fact) — "ein Truppenkorps von 30.000 bis 40.000 Mann Napoleon zur freien Verfügung zu stellen"
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_economy_society.md`
+- `sources/pages/550652301685.md` ← `downloads/pages/550652301685.md`
+  - "Correspondance de Napoléon Ier - Octobre 1811 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-octobre-1811/
+  - sha256 55065230168580550b10c01d8917fe57562582c88a43e79339acb0055fa4de98
+  - cited by [t_b1a536] "年6增8命令仅安特卫普：1811年3月5日18船台、舰留3年；10月2日因可再分配荷兰和布洛涅舰员而拟增至8。不能与全国满负荷20混比。" (fact) — "construire chaque année huit vaisseaux au lieu de six"
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-octobre-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_quote_ledger.md`
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-octobre-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-octobre-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-octobre-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/554b3ef083a5.md` ← `downloads/pages/554b3ef083a5.md`
+  - "The British Army's African Recruitment Policy, 1790-1807" — https://doi.org/10.7275/6931
+  - sha256 554b3ef083a525bf8b06055c46f2ac490ba6a90ae1069ff0393b3aa86dd7d52d
+  - cited as `https://doi.org/10.7275/6931` in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`
+- `sources/pages/5550fd06ab38.md` ← `downloads/pages/5550fd06ab38.md`
+  - "Napoleon and the Invasion in England - PDF Free Download" — https://epdf.tips/napoleon-and-the-invasion-in-england.html
+  - sha256 5550fd06ab3855fd108cb6d228e1197ebba61567509b05e3671a6b6116eeb602
+  - cited as `https://epdf.tips/napoleon-and-the-invasion-in-england.html` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_landing.md`
+  - cited as `https://epdf.tips/napoleon-and-the-invasion-in-england.html` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_landing.md`
+  - cited by [t_c8b161] "拿破仑1803年8月8日对Decrès提出向巴黎的联合爱尔兰人代理提供25,000人与40,000支枪（含炮兵弹药），**条件是登陆时20,000名爱尔兰人加入法军**，并愿以承认爱尔兰独立为对英媾…" (fact) — "Decres was told to offer to the agents of the United Irishmen then in Paris 25,000 men and 40,000 m…"
+  - cited by [t_c8b161] "1803年12月，应构成入侵军主体的法国爱尔兰军团实际只有49名军官、13名士兵（与Carles所记1804-01-20组织时43官、1士官互证）。法方在爱尔兰项目上的组织执行能力与其方案野心严重脱…" (fact) — "the Irish Legion in France, who were to constitute the major part of the army of invasion, consiste…"
+  - cited by [t_c8b161] "falsifier检验结果（解释）：“1803–05法方情报判可动员≤万人且缺武装→第二战场降级”部分成立但结论需重写：法方并未因此降级，反而升级方案（1803-08盿2.5万人；1804-09盿1…" (interpretation)
+  - cited in `nodes/r_5b1357a9c6/cards/t_c8b161/notes_ie.md`
+- `sources/pages/561bc56ff575.md` ← `downloads/pages/561bc56ff575.md`
+  - "BANQUE DE FRANCE | Issuers | DFIH" — https://dfih.fr/issuers/104/securities
+  - sha256 561bc56ff575fdb100e415e806c498691dacc4ba9613309666ac6f974d46a2f4
+  - cited as `https://dfih.fr/issuers/104/securities` in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+- `sources/pages/56707f7ed50c.md` ← `downloads/pages/56707f7ed50c.md`
+  - "The British-French Naval Rivalry in the Ionian and Adriatic Basins 1807-1814 from an insular perspective" — https://hrcak.srce.hr/file/469145
+  - sha256 56707f7ed50c0db0a6585371a0653321a86d6337bf373c6320a7f80f3b14c49d
+  - cited as `https://hrcak.srce.hr/file/469145` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited as `https://hrcak.srce.hr/file/469145` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_source_excerpts.md`
+- `sources/pages/567748874d93.md` ← `downloads/pages/567748874d93.md`
+  - "Proclama di Rimini - Wikisource" — https://it.wikisource.org/wiki/Proclama_di_Rimini
+  - sha256 567748874d937c8ea99ddd6a294ccad99792cc126f86c36a553a642f05e4eb32
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+- `sources/pages/56a23915a69c.md` ← `downloads/pages/56a23915a69c.md`
+  - "М.М. Сперанский. Отчет в делах 1810 г., представленный императору Александру I" — http://dugward.ru/library/speranskiy_m/speranskiy_otchet_v_delah_1810.html
+  - sha256 56a23915a69c3f335d08b28d3815ef6e2776d9e32cf5cb9b1c0b935ef4fec9e8
+  - cited in `nodes/r_5b1357a9c6/cards/t_91cbee/R1_russia_court.md`
+  - cited by [t_29957a] "斯佩兰斯基1811报告称1810已宣布停止发行，但实际停发自1811年初开始，且荷兰/汉堡信用受法方行动冲击。" (fact) — "прекращение выпуска ассигнаций возвещено 2 февраля 1810 г., а восприяло начало свое только 1 генвар…"
+  - cited as `http://dugward.ru/library/speranskiy_m/speranskiy_otchet_v_delah_1810.html` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/57df14bfaeee.md` ← `downloads/pages/57df14bfaeee.md`
+  - "Industrial Revolution Defining Moments, 1750–1914 | 1.3 Australia and wool | Australia’s Defining Moments Digital Class…" — https://digital-classroom.nma.gov.au/learning-modules/industrial-revolution-defining-moments-1750-1914/13-australia-and-wool
+  - sha256 57df14bfaeee09cf9c36a7bbbb446aa340987480b40a58fb2c966b62b1057fa8
+  - cited as `https://digital-classroom.nma.gov.au/learning-modules/industrial-revolution-defining-moments-1750-1914/13-australia-and-wool` in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`
+- `sources/pages/5a55e6aeac33.md` ← `downloads/pages/5a55e6aeac33.md`
+  - "QB 1967 Q2 pp159-163 - also see appendix" — https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/1967/boe-liabilities-and-assets-1696-onwards.pdf
+  - sha256 5a55e6aeac33077fd9fa624412805987453f97d0e94426d8fbe8e6db7381ca07
+  - cited as `https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/1967/boe-liabilities-and-assets-1696-onwards.pdf` in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+- `sources/pages/5af51159c185.md` ← `downloads/pages/5af51159c185.md`
+  - "French ship Tilsitt (1810)" — https://en.wikipedia.org/wiki/French_ship_Tilsitt_(1810)
+  - sha256 5af51159c1856cf14aa485c5f9ed6d1a33d5ad1e50938ea247432232aab22740
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/5b085cf6826c.md` ← `downloads/pages/5b085cf6826c.md`
+  - "Verfassung des Königreichs Bayern (1808)" — https://www.verfassungen.de/by/verf08.htm
+  - sha256 5b085cf6826c901ecf8d9ff148e2d14c91cb617d56f164240771051c1d8b3ed7
+  - cited by [t_f55d87] "1808-05巴伐利亚宪法第一条把莱茵邦联成员资格写入宪法（Das Königreich Bayern bildet einen Theil der rheinischen Föderation）；…" (fact) — "§. 1. Das Königreich Bayern bildet einen Theil der rheinischen Föderation."
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/G1_south_german_states.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_bavaria.md`
+- `sources/pages/5b7b985b0f78.md` ← `downloads/pages/5b7b985b0f78.md`
+  - "Supplying War: Logistics From Wallenstein To Patton [PDF] [28jjb479976g]" — https://vdoc.pub/documents/supplying-war-logistics-from-wallenstein-to-patton-28jjb479976g
+  - sha256 5b7b985b0f78abb03a374f0d2747db2384d871504dab98c112ab51c7022deb69
+  - cited in `nodes/r_5b1357a9c6/cards/t_b9e29c/notes_interface_french.md`
+  - cited as `https://vdoc.pub/documents/supplying-war-logistics-from-wallenstein-to-patton-28jjb479976g` in `nodes/r_5b1357a9c6/cards/t_b9e29c/notes_interface_french.md`
+- `sources/pages/5d3c7adfae7e.md` ← `downloads/pages/5d3c7adfae7e.md`
+  - "Project MUSE - <i>Servir Napoléon. Policiers et gendarmes dans les départements annexés, 1796-1814</i> by Aurélien Lign…" — https://muse.jhu.edu/article/555308/summary
+  - sha256 5d3c7adfae7eaf073adccebd93f1cb8917fbd0d8b0800ab2ccffa29091bfd745
+  - cited by [t_c98c24] "Lignereux书评（非原书）指出其累计研究7571名原并省宪兵、620名警察专员；前者多数原法国出身，后者大多本地。不能当1811同日人员库存；我们的本地宪兵比例≤0.5仍属有利假设。" (fact) — "Ouverte aux indigènes sans atteindre les quotas fixés, la gendarmerie recrute majoritairement parmi…"
+- `sources/pages/5dea3a848dc0.md` ← `downloads/pages/5dea3a848dc0.md`
+  - "The Spanish Army in the Peninsular War 0719025389, 9780719025389 - DOKUMEN.PUB" — https://dokumen.pub/the-spanish-army-in-the-peninsular-war-0719025389-9780719025389.html
+  - sha256 5dea3a848dc02ac66ec9b296b67e55eb4c6bfb114ce3f3fd09946d2ffa392d3a
+  - cited by [t_27c409] "1808年全国起义的触发开关是王室被劫持+二日屠杀，而非法军在场本身：1808年2月法军夺庞普洛纳/圣塞巴斯蒂安/菲格拉斯/巴塞罗那四塑后并无总起义；起义性格源于拿破仑对西班牙君主的sequestr…" (fact) — "The Spanish uprising drew its character from the decapitation of political authority brought about …"
+  - cited as `https://dokumen.pub/the-spanish-army-in-the-peninsular-war-0719025389-9780719025389.html` in `nodes/r_5b1357a9c6/cards/t_27c409/esdaile_spanisharmy_folded.txt`
+- `sources/pages/5df7f181c2a5.md` ← `downloads/pages/5df7f181c2a5.md`
+  - "Konstitution des Königreichs Bayern (1808) – Historisches Lexikon Bayerns" — https://www.historisches-lexikon-bayerns.de/Lexikon/Konstitution_des_K%C3%B6nigreichs_Bayern_(1808)
+  - sha256 5df7f181c2a5b644536e055df7d1eb62df7004c29fb1e90aae0742b4b43c9972
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/G1_south_german_states.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_bavaria.md`
+- `sources/pages/5f01778e4d6f.md` ← `downloads/pages/5f01778e4d6f.md`
+  - "Глава 1. Динамика общей численности населения России за 1811-1913 гг. | Проект «Исторические Материалы»" — https://istmat.org/node/72
+  - sha256 5f01778e4d6f5656fe6b9d0c3fd23b7ba9481521bc7f3f463a1e3b560908fdf7
+  - cited as `https://istmat.org/node/72` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/5f4f001104e6.md` ← `downloads/pages/5f4f001104e6.md`
+  - "The Political Essays of William Shaler" — https://oieahc.wm.edu/wp-content/uploads/stagg.pdf
+  - sha256 5f4f001104e6b0410b8a0a4c2aa33063fe560df2d4018fa35550dfab2586bfeb
+  - cited as `https://oieahc.wm.edu/wp-content/uploads/stagg.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://oieahc.wm.edu/wp-content/uploads/stagg.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited as `https://oieahc.wm.edu/wp-content/uploads/stagg.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_source_excerpts.md`
+  - cited as `https://oieahc.wm.edu/wp-content/uploads/stagg.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_glover.md`
+- `sources/pages/603b19b5b0f9.md` ← `downloads/pages/603b19b5b0f9.md`
+  - "Document > Traité de paix de Vienne (14 octobre 1809) - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/document-traite-de-paix-de-vienne-14-octobre-1809/
+  - sha256 603b19b5b0f9ee408a7a8157d33fca45187721d32e5d3787d77ac897c90ca3eb
+  - cited by [t_f4bb81] "1809秘密军额150,000；8500万法郎是一次和约结算/赔款，不是年贡。" (fact) — "ne s’élève pas au-dessus de 150 000 hommes pendant la durée de la guerre maritime"
+- `sources/pages/61ed76741f61.md` ← `downloads/pages/61ed76741f61.md`
+  - "Состоялось официальное открытие первой в России казённой железной дороги | Президентская библиотека имени Б.Н. Ельцина" — https://www.prlib.ru/history/619715
+  - sha256 61ed76741f61096ee1c6d6b5b2d48c132e93647c7c81dfa0d8bbb44bb9d96c73
+  - cited as `https://www.prlib.ru/history/619715` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/6305bcbe013e.md` ← `downloads/pages/6305bcbe013e.md`
+  - "LIVERPOOL PETITION RESPECTING THE ORDERS IN COUNCIL BILL. (Hansard, 3 March 1808)" — https://api.parliament.uk/historic-hansard/commons/1808/mar/03/liverpool-petition-respecting-the-orders
+  - sha256 6305bcbe013ec9a74fea49bc65b59523a54a7242bda0907815657fe1851d1b88
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1808/mar/03/liverpool-petition-respecting-the-orders` in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/635d3fc23a42.md` ← `downloads/pages/635d3fc23a42.md`
+  - "Innovatives System" — https://www.ibf-frankfurt.de/components/getdata.php?file=1500751347_SFupLD_boersenzeitung210_ullmann_01nov2011.pdf
+  - sha256 635d3fc23a4276099938c0a28b81b212b7dd95c46c20370469c641a861804393
+  - cited by [t_656a10] "1801–06年法兰克福资本市场的边际买盘是黑森选帝侯的英国补贴回流（年新投近100万fl.＋再投近150万fl.）。由此：①B2的「补贴总额£4,200万」同时是欧陆资本市场的流动性来源；②S1（…" (inference) — "Mit jährlichen Neuinvestitionen von knapp 1 Mill. fl. sowie der Wiederanlage zurückgezahlter Kapita…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_656a10/X1_finance_houses.md`
+- `sources/pages/63ae275f32de.md` ← `downloads/pages/63ae275f32de.md`
+  - "1812now: April 17 1812: Napoleon's Peace Offer" — http://1812now.blogspot.com/2012/04/april-17-1812-napoleons-peace-offer.html
+  - sha256 63ae275f32de43858dfb22c41845ae41557db6987a0d263fc0b12887cc4bb82c
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_ireland_press.md`
+- `sources/pages/649e54bf4408.md` ← `downloads/pages/649e54bf4408.md`
+  - "The Project Gutenberg eBook of Oeuvres de Napoléon Bonaparte, Tome IV" — https://www.gutenberg.org/cache/epub/13192/pg13192-images.html
+  - sha256 649e54bf440838c0e5b3c4b1900edc2edeeec356b7730fd76579427561e83080
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_eaa841/raw_yeartables.md`
+- `sources/pages/6584f2f8b4f1.md` ← `downloads/pages/6584f2f8b4f1.md`
+  - "Protest and Democracy 1816 to 1818, part 1 - The National Archives" — https://www.nationalarchives.gov.uk/education/resources/protest-and-democracy-1816-to-1818/
+  - sha256 6584f2f8b4f1d87cb44f1f3b064d9b963600036b6da63519e21a5165b53a2365
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/664bfb9d9703.md` ← `downloads/pages/664bfb9d9703.md`
+  - "Merino sheep introduced | National Museum of Australia" — https://www.nma.gov.au/defining-moments/resources/merino-sheep-introduced
+  - sha256 664bfb9d9703ee9a37c8838336faff5b4a65c6c06a257b1c2344f077cff857b2
+  - cited as `https://www.nma.gov.au/defining-moments/resources/merino-sheep-introduced` in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`
+- `sources/pages/6864746209f3.md` ← `downloads/pages/6864746209f3.md`
+  - "Correspondance de Napoléon Ier - Juillet 1811 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1811/
+  - sha256 6864746209f39aee6fe88239fe954df1d57a7d5537d4faa2fea23c6fd9869f07
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_8f2668/IT2_naples_sicily.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_8f2668/notes_johnston_rambaud_primary.md`
+- `sources/pages/6a6576cb716b.md` ← `downloads/pages/6a6576cb716b.md`
+  - "The Canning Mission to Burma of 1809/10" — https://www.cambridge.org/core/journals/journal-of-southeast-asian-studies/article/abs/canning-mission-to-burma-of-180910/A331E3435612B8A40CECB278D144CCBF
+  - sha256 6a6576cb716b5276f5b29cf1fa45ca4a51d4ad898265e3fc72a6b91158e8d20c
+  - cited by [t_05cc22] "缅甸轴线实证：1809年爪哇Daendels遣de la Houssaye中校赴缅谈判反英同盟，抵达前被英截获（Bengal Secret and Separate Consultations 18…" (fact) — "establishing an alliance with the Burmese Government for the subversion of the British Empire in In…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_05cc22/notes_states_sikh_burma_nepal_hyd_gulf.md`
+- `sources/pages/6b8e02cd7248.md` ← `downloads/pages/6b8e02cd7248.md`
+  - "The Transatlantic Slave Trade - Heritage Collections UK Parliament" — https://heritagecollections.parliament.uk/stories/the-transatlantic-slave-trade/
+  - sha256 6b8e02cd7248f2bf06dac9369a35fc7743e5dbb306a6aa575be4b017032c7dfe
+  - cited as `https://heritagecollections.parliament.uk/stories/the-transatlantic-slave-trade/` in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`
+- `sources/pages/6bc1e5201866.md` ← `downloads/pages/6bc1e5201866.md`
+  - "Traité d'alliance entre la France et la Perse - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/traite-dalliance-entre-la-france-et-la-perse/
+  - sha256 6bc1e52018665bc7854d8e1d023fbc3549642343b7a75c53cee962d5b45adf2d
+  - cited by [t_611e2b] "芬肯施泰因Art.12规定法军过境须另订专约（路线/给养/运输/辅助军），Art.13一切供应按本国人同价由法军自付，Art.14通行权不得扩及英俄——法俄联军过波斯需重新谈判；商约Kharg岛让与…" (fact) — "elles ne pourront être étendues, par des traités postérieurs, ni à l'Angleterre, ni à la Russie"
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/notes_local_core.md`
+- `sources/pages/6d14b89ddb86.md` ← `downloads/pages/6d14b89ddb86.md`
+  - "18120224-004:geheimtaktat04 - EPOCHE NAPOLEON" — https://www.epoche-napoleon.net/quellen/1812/02/24/geheimtaktat04.html
+  - sha256 6d14b89ddb86cb14cc84ca31a3aab25643a901d191ca337c235f2c2a7734269c
+  - cited by [t_3ee1b0] "1812-02-24法普秘密军事协定第II条要求普军20,000人（步14,000/骑4,000/炮2,000、60炮）；第XI条禁未经同意的征兵集中，第XIII条仅泛称领土补偿。" (fact) — "Se. Majestät der König von Preußen wird ein Kontingent von 20.000 Mann stellen"
+- `sources/pages/6dcc42091ede.md` ← `downloads/pages/6dcc42091ede.md`
+  - "Client Challenge" — https://www.jstor.org/stable/pdf/1876579.pdf
+  - sha256 6dcc42091ede21cea3d48f8cdf06a93562731b86adc2a8f6562dd0ac4dfd0b45
+  - cited as `https://www.jstor.org/stable/pdf/1876579.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+- `sources/pages/6e996221a1d1.md` ← `downloads/pages/6e996221a1d1.md`
+  - "NEGOCIATION WITH FRANCE. (Hansard, 30 December 1806)" — https://api.parliament.uk/historic-hansard/commons/1806/dec/30/negociation-with-france
+  - sha256 6e996221a1d15966b6a45396aa12a93bfc82e47ac90fc7c47f75558967747049
+  - cited by [t_c69786] "1806年12月30日c250 Yarmouth叙述Talleyrand口头实际占有＋等价交换基础；同场c248承认没有可提交的法方正式承认文件。两者共同约束反事实，不支持完整保证包早已存在。" (fact) — "there were certainly no papers that could be produced in which the uti possidetis was recognized fo…"
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1806/dec/30/negociation-with-france` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1806/dec/30/negociation-with-france` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_french_terms_navy.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_french_terms_navy.md`
+- `sources/pages/6fc5e566ba0b.md` ← `downloads/pages/6fc5e566ba0b.md`
+  - "Portal Königreich Bayern: Objekte" — https://portale.hdbg.de/koenigreich-bayern/objekte/objekt/390
+  - sha256 6fc5e566ba0b5c4c711c3a2f5344d15f72b54d58a7a9e38f22295ae7c7fea930
+  - cited by [t_f55d87] "人质领土机制（HdBG明示）：拿破仑有意让巴伐利亚的领土所得主要取自哈布斯堡，使其永久绑定法国；法国战运一转，巴伐利亚即暴露于奥地利复仇。这是南德忠诚的结构基础，也解释Ried为何在奥地利愿意担保现…" (inference)
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/G1_south_german_states.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_bavaria.md`
+- `sources/pages/6fe177bf2d7a.md` ← `downloads/pages/6fe177bf2d7a.md`
+  - "The Project Gutenberg eBook of Reden an die deutsche Nation, by Johann Gottlieb Fichte." — https://www.gutenberg.org/files/48340/48340-h/48340-h.htm
+  - sha256 6fe177bf2d7a934bb5b22228755965b756a23999ef81ae2298613c188ba03d89
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_economy_society.md`
+  - cited by [t_b702da] "Fichte《Reden》接受史：首月售出近600册；1813–14解放战争语境中其名与文本“很少被援引”；1824年再版被普鲁士审查官拒绝；1862年百年诞辰才被Treitschke封为民族先驱。…" (fact) — "Nearly six hundred copies of the Addresses were sold within a month"
+  - cited in `nodes/r_5b1357a9c6/cards/t_b702da/X4_ideas_nationalism_movements.md`
+- `sources/pages/7027396ad89a.md` ← `downloads/pages/7027396ad89a.md`
+  - "Order of Battle in Northern Italy" — https://www.austro-hungarian-army.co.uk/oobmar48.htm
+  - sha256 7027396ad89a2d3374c10446dc7d97e5c320527399642fa7e321fc1cec05b127
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+- `sources/pages/70cc6a857e5f.md` ← `downloads/pages/70cc6a857e5f.md`
+  - "Carnegie Endowment for International Peace" — https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/327/0142_Bk.pdf
+  - sha256 70cc6a857e5f3c1617deab203e0e6115719e6d3e6ec4380ed81969691d5a08a2
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+  - cited by [t_cbaee3] "萨克森为大陆体系最大工业受益邦（Heckscher pp.302-306）；帝国驻邦联公使Bacher 1810-10-02报告本身已论证：强迫萨克森入关税警戒线+征原棉税将使厄尔士山区赤贫化、工人…" (fact) — "Of all manufacturing countries on the Continent there is scarcely one which developed so powerfully…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_cbaee3/G2_north_german_states.md`
+  - cited by [t_be9258] "经济附庸化与行省化的经济反证（Heckscher pp.296–301）：1810三重规定（羊毛禁入/过境禁令/生丝只准出口里昂）；"la France avant tout"信（1810-08-2…" (fact) — "they were to be left without participation in the advantages of the French market"
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/notes_correspondence_heckscher.md`
+- `sources/pages/71106f9334bc.md` ← `downloads/pages/71106f9334bc.md`
+  - "A Global Forum for Naval Historical Scholarship" — https://www.ijnhonline.org/wp-content/uploads/2012/01/Bjerg.pdf
+  - sha256 71106f9334bc0074cf079de22bd2f1c0541db5ae1e6b13f7c8f2f17b7dbf149e
+  - cited as `https://www.ijnhonline.org/wp-content/uploads/2012/01/Bjerg.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://www.ijnhonline.org/wp-content/uploads/2012/01/Bjerg.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/717b149d2bb0.md` ← `downloads/pages/717b149d2bb0.md`
+  - "The French Fleet, 1807-1814; Britain's Problem; and Madison's Opportunity on JSTOR" — https://www.jstor.org/stable/1876579
+  - sha256 717b149d2bb0e2e86a1ce9756c3f84e92d49dd4960c5601e551e58a3a7994be3
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_race_1815_1830.md`
+  - cited as `https://www.jstor.org/stable/1876579` in `nodes/r_5b1357a9c6/cards/t_24b942/notes_added_20260923.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/notes_added_20260923.md`
+- `sources/pages/719fb33fecec.md` ← `downloads/pages/719fb33fecec.md`
+  - "Układ w Bayonne - Muzeum Historii Polski w WarszawieZobacz naszą stronę na YouTubieZobacz naszą stronę na YouTubie" — https://muzhp.pl/kalendarium/uklad-w-bayonne
+  - sha256 719fb33fecec49a80ceec8d88db2fc6785ef2a2ef55c689652ed61d4f9bf185d
+  - cited in `nodes/r_5b1357a9c6/cards/t_b5dab4/notes_prior_round.md`
+- `sources/pages/72f263dafad6.md` ← `downloads/pages/72f263dafad6.md`
+  - "Combination Acts | Combination Laws, Trade Unions & Strikes | Britannica Money" — https://www.britannica.com/money/Combination-Acts
+  - sha256 72f263dafad6fb8c6c1f5eb5bede7eea0d23e01400f8e1650b91844999e1f7ca
+  - cited as `https://www.britannica.com/money/Combination-Acts` in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/73353c56af91.md` ← `downloads/pages/73353c56af91.md`
+  - https://utoronto.scholaris.ca/bitstreams/bda99cfd-9fc5-4a50-89c7-89b96aa97bd4/download
+  - sha256 73353c56af914f7b233374bf6783c2c0d723aef35d9df24ec92a507330ce8d9a
+  - cited as `https://utoronto.scholaris.ca/bitstreams/bda99cfd-9fc5-4a50-89c7-89b96aa97bd4/download` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited as `https://utoronto.scholaris.ca/bitstreams/bda99cfd-9fc5-4a50-89c7-89b96aa97bd4/download` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_source_excerpts.md`
+- `sources/pages/733699a79d7c.md` ← `downloads/pages/733699a79d7c.md`
+  - "La frégate USS Constitution à Cherbourg (1811) – Trois-Ponts!" — https://troisponts.net/2011/08/24/la-fregate-uss-constitution-a-cherbourg-1811/
+  - sha256 733699a79d7c06f6a086cb215a302649d47de752fe4c45e63115e71425ae457f
+  - cited as `https://troisponts.net/2011/08/24/la-fregate-uss-constitution-a-cherbourg-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://troisponts.net/2011/08/24/la-fregate-uss-constitution-a-cherbourg-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/7378b53aa48e.md` ← `downloads/pages/7378b53aa48e.md`
+  - https://repertorium.at/qu/1811_oestabgb.html
+  - sha256 7378b53aa48ec76cfd71a0d456785f27fe6ffefd026ea33b2b64443f5f1dd8b6
+  - cited by [t_f4bb81] "1811 ABGB可兼承认天赋人权、禁人身奴役与保留特别财政法规、分层土地权；不需法国占领才能法典化，亦非一次废除所有领主权。" (interpretation)
+- `sources/pages/744b4a53336f.md` ← `downloads/pages/744b4a53336f.md`
+  - "[PDF] Europe Under Napoleon by Michael Broers | 9781784530617, 9780857735683" — https://www.perlego.com/book/919640/europe-under-napoleon-pdf
+  - sha256 744b4a53336f48ea754ffc359cc0476b2e2f966c4ac95f8e291a55a9ebb6ec1d
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_bands.md`
+  - cited as `https://www.perlego.com/book/919640/europe-under-napoleon-pdf` in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_bands.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_tree.md`
+  - cited as `https://www.perlego.com/book/919640/europe-under-napoleon-pdf` in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_tree.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/notes_schools_03.md`
+- `sources/pages/769e05da23c9.md` ← `downloads/pages/769e05da23c9.md`
+  - "The Napoleonic Wars: A Watershed in Spanish History?" — https://www.econstor.eu/bitstream/10419/247060/1/ehes-wp130.pdf
+  - sha256 769e05da23c91b2b3e3a9c8897eba48260ebfb1c3feda703734a68cfc72e8f0f
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/76e0f720bdd9.md` ← `downloads/pages/76e0f720bdd9.md`
+  - "Справка о банкнотном обращении в России | Банк России" — https://cbr.ru/cash_circulation/spravka-o-banknotnom-obraschenii-v-rossii/
+  - sha256 76e0f720bdd998a240888b0d3bc5a85e7de82997d729002c8c81eab0283029c8
+  - cited as `https://cbr.ru/cash_circulation/spravka-o-banknotnom-obraschenii-v-rossii/` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/775d373548f6.md` ← `downloads/pages/775d373548f6.md`
+  - "Research guide B6: The Royal Navy: Administrative records | Royal Museums Greenwich" — https://www.rmg.co.uk/collections/research-guides/research-guide-b6-royal-navy-administrative-records
+  - sha256 775d373548f6f69480cfdd3420f58206ee29daa37773e0715a3d1e596c3c5e48
+  - cited in `nodes/r_5b1357a9c6/cards/t_998052/notes_late_checks.md`
+- `sources/pages/775f980f1a64.md` ← `downloads/pages/775f980f1a64.md`
+  - "Correspondance de Napoléon Ier - Novembre 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-novembre-1810/
+  - sha256 775f980f1a64a757eba4a9d7ad54134612c5810f065ee2216434adcf823bf321
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-novembre-1810/` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-novembre-1810/` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/7811dedbfc48.md` ← `downloads/pages/7811dedbfc48.md`
+  - "Vaisseaux de 118" — http://dossiersmarine.free.fr/v_118.htm
+  - sha256 7811dedbfc48975305dfb4f1072650e1244322e1b524ad0814f4d01ed5ba55d2
+  - cited as `http://dossiersmarine.free.fr/v_118.htm` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+- `sources/pages/7838a9756a45.md` ← `downloads/pages/7838a9756a45.md`
+  - "Diseases and Medicine" — https://westindiacommittee.org/historyheritageculture/wp-content/uploads/2021/04/WIS-Disease.pdf
+  - sha256 7838a9756a455a358afebd49f818938d3286c43bee13031de10f15a54f2ff825
+  - cited as `https://westindiacommittee.org/historyheritageculture/wp-content/uploads/2021/04/WIS-Disease.pdf` in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`
+- `sources/pages/78508d75464b.md` ← `downloads/pages/78508d75464b.md`
+  - "Piraterie, flibuste et autres guerres de course dans les conflits européens de l’époque moderne" — https://books.openedition.org/psorbonne/91295?lang=en
+  - sha256 78508d75464b1708122f9d1342deaf514a5d42a49d1ad45b0e8ff905728a76fe
+  - cited as `https://books.openedition.org/psorbonne/91295` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_quote_ledger.md`
+  - cited as `https://books.openedition.org/psorbonne/91295` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/795736a33638.md` ← `downloads/pages/795736a33638.md`
+  - "Vaisseaux de 80" — http://dossiersmarine.free.fr/v_80.htm
+  - sha256 795736a3363883be4cfb7c978c37e91302cab2b389c838a9875bcde4fd0f1ee6
+  - cited as `http://dossiersmarine.free.fr/v_80.htm` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+- `sources/pages/79cc75c4db73.md` ← `downloads/pages/79cc75c4db73.md`
+  - "At Spes non Fracta: Hope & Co. 1770–1815 | Springer Nature Link" — https://link.springer.com/book/10.1007/978-94-011-8858-6
+  - sha256 79cc75c4db7335f0168d065c4af86b8ea7bbfaee6f1b8603202b49a286eb8544
+  - cited in `nodes/r_5b1357a9c6/cards/t_ccdcc8/NL_netherlands_switzerland.md`
+- `sources/pages/7abf9a5379e3.md` ← `downloads/pages/7abf9a5379e3.md`
+  - "Freiwillige Jäger - Zeno.org" — http://www.zeno.org/Meyers-1905/A/Freiwillige+J%C3%A4ger
+  - sha256 7abf9a5379e3c3403e75232e88c5054fbd588173de1e6e5a845124f06505d773
+  - cited by [t_b702da] "1813普鲁士动员构成：freiwillige Jäger至5月底约1万（步7k+骑3k，Meyers 1905）；总动员280,720（Hagemann转引）≈男性人口3%（Klöffler）——…" (fact) — "Ende Mai waren 7000 f. I. zu Fuß und 3000 zu Pferd aufgestellt"
+  - cited in `nodes/r_5b1357a9c6/cards/t_b702da/X4_ideas_nationalism_movements.md`
+- `sources/pages/7ace9e1b1b47.md` ← `downloads/pages/7ace9e1b1b47.md`
+  - "Creating a Buffer Zone (Chapter 3) - Defending British India against Napoleon" — https://www.cambridge.org/core/books/defending-british-india-against-napoleon/creating-a-buffer-zone/3899B503863F420D92C3E81F3D29EC95
+  - sha256 7ace9e1b1b47301a34534a3b7825e014cbc267bbd6f225bb1ebfe00172dce2f0
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/notes_local_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+- `sources/pages/7f6b50171ff1.md` ← `downloads/pages/7f6b50171ff1.md`
+  - "Military Service" — https://doi.org/10.1017/cbo9781139030861.016
+  - sha256 7f6b50171ff16048fa131dcbaf01e918ff8fcb9e9a32c07d930650c83ace4a43
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_mobilization.md`
+- `sources/pages/7f93512d05f7.md` ← `downloads/pages/7f93512d05f7.md`
+  - "The Royal Navy 1793-1815 - PDF Free Download" — https://epdf.tips/the-royal-navy-1793-1815.html
+  - sha256 7f93512d05f7f8a4ab63996be7ba94c49876829622b752f46a63ab954a2afa10
+  - cited by [t_c69786] "海军驻区继承未执行命令与非泰晤士基地，支持短期失联仍可组织行动；依赖合法指挥、基地交通、供应商信任和支付，不能推出首都失守后无限续战。" (inference) — "the new commander inherited the standing or unexecuted orders of his predecessor"
+  - cited by [t_998052] "长期扩舰的第一反应应设为保留舰员、整修预备舰及调整任务，再在2–3年以上造舰时滞后体现新增舰；不是法国每造一艘英国立即多一艘。" (inference)
+  - cited as `https://epdf.tips/the-royal-navy-1793-1815.html` in `nodes/r_5b1357a9c6/cards/t_998052/notes_synthesis_anchors.md`
+  - cited as `https://epdf.tips/the-royal-navy-1793-1815.html` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://epdf.tips/the-royal-navy-1793-1815.html` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_french_terms_navy.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_french_terms_navy.md`
+- `sources/pages/809d3495176a.md` ← `downloads/pages/809d3495176a.md`
+  - "Treaty of Amiens, March 25, 1802 - Official text" — https://www.napoleon-empire.org/en/official-texts/treaty-of-amiens.php
+  - sha256 809d3495176a8dc3fb6df3ea9c7860403bd056f92010e10c66e029569ca13640
+  - cited by [t_c69786] "亚眠XIII–XIV确有财产保护、解除双方资金收益债权扣押与个人债权司法救济，不能遗漏；但不等于法国保证战败英国全部公债偿付、议会不受干预或不夺舰。" (fact) — "All the sequestrations laid on either side on funds, revenues, and credits, of what nature soever t…"
+  - cited as `https://www.napoleon-empire.org/en/official-texts/treaty-of-amiens.php` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.napoleon-empire.org/en/official-texts/treaty-of-amiens.php` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_amiens_orders.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_amiens_orders.md`
+  - cited by [t_0fed70] "亚眠条约VI明确开普巴达维亚主权但各缔约国同税补给；X列马耳他中立、多国保证及接防条件，给B8真实当时工具锚点。殖民主权与港口准入可分开交易。" (fact)
+- `sources/pages/81f2084d72ce.md` ← `downloads/pages/81f2084d72ce.md`
+  - https://rodrigomorenog.files.wordpress.com/2019/01/forrest-conscripts-and-deserters_-the-army-and-french-society-during-the-revolution-and-empire-oxford-1989.pdf
+  - sha256 81f2084d72ce5b67c804bc6f1a84dea78970e42224125701e7b699e7685832be
+  - cited by [t_7c3954] "征兵抵制率序列：réfractaires均值共和九年至十三年约27%，1806–10降至6%，1813起回升2–10%；1810年官方在册déserteurs+réfractaires存量164,7…" (fact) — "le nombre de deserteurs et de refractaires s'est accru avec une rapidite et dans une proportion inc…"
+  - cited by [t_7c3954] "Forrest pp.91–92：1793/共和七年公开抗命的村庄到1810–11年以最低限度抗议缴足兵额，动机是恐惧而非爱国；1810–11是例外好年份（经济危机把穷人推向军队），1813–14合…" (fact) — "villages that had openly defied the government's commands in 1793 or Year VII were by 1810 and 1811…"
+- `sources/pages/82a063e7e022.md` ← `downloads/pages/82a063e7e022.md`
+  - "Correspondance de Napoléon Ier - Juillet 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1810/
+  - sha256 82a063e7e0221d78d69d1eaa4e348fe3782bcaf8797b246e69bf3f68c17ae89b
+  - cited by [t_b1a536] "1810年7月13日命令提出小艇到战列舰的技能转移，并以66,000名海员服务50战列舰、30巡防舰、400艇为规划；可以据此为模型中的非战列舰人力预留设置量级，不能当实到人数。" (fact) — "un corps de 66,000 matelots ... 50 vaisseaux de ligne et 30 frégates"
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1810/` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_quote_ledger.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited by [t_08b9e7] "(c)判定：行政性分权当时存在且可运转（副王欧仁、总督Elisa/达武/勒布伦/博尔盖塞/贝特朗）；政治性分权零当时提案（Sieyès 1799方案被本人爓杀于起点）且与成文意志冲突：1810-07…" (inference) — "Mon intention est de gouverner moi-même le pays. Mon lieutenant général sera là pour tout voir, pre…"
+  - cited by [t_ccdcc8] "拿破仑对兼并后荷兰的年度撷取目标线：偿债三分之一28m法郎+陆军10m弗罗林+海军6m弗罗林（≈32m法郎）≈共60m法郎/年（目标非实收）；同信P.S.当晚召见Gogel——帝国需荷兰技术官僚消化…" (fact) — "10 millions de florins pour la guerre et 6 millions de florins pour la marine... la Hollande me ren…"
+  - cited by [t_ccdcc8] "拿破仑亲认荷兰行政比法国省钱（1810-07致Lebrun）——兼并的行政理由不成立，兼并动机纯为封锁/兵源/债务处置" (fact) — "désirant conserver l'administration hollandaise, qui est plus économique que la nôtre"
+  - cited by [t_ccdcc8] "瓦莱兼并链条：1810-11-03动机信（辛普隆公路花费15m法郎不能为小国牺牲）→11-12敕令→11-14 Berthier入锡永→税额定6万法郎≈每居民1法郎→拿破仑自认此省无钱可取；1813…" (fact) — "mon intention est de réunir le Valais à la France"
+  - cited in `nodes/r_5b1357a9c6/cards/t_ccdcc8/NL_netherlands_switzerland.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_5b1d64/IT3_papacy_churches.md`
+- `sources/pages/8382c0deb72f.md` ← `downloads/pages/8382c0deb72f.md`
+  - "(PDF) Paul's Great Game" — https://www.academia.edu/52554683/Pauls_Great_Game
+  - sha256 8382c0deb72f0cdf9a94c92b176672fcd53f6eeb7ea288430210dbd5f39092d0
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/notes_local_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/notes_logistics.md`
+- `sources/pages/83caafca03de.md` ← `downloads/pages/83caafca03de.md`
+  - "Full text of "The Peace Tactics of Napoleon 1806-1808"" — https://archive.org/stream/peacetacticsofna0000hbut/peacetacticsofna0000hbut_djvu.txt
+  - sha256 83caafca03de052bad36ecb0bce9c5ad66c39bc2dd2f1a63ef3f5efc707941f2
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_negotiations.md`
+- `sources/pages/83d83211926c.md` ← `downloads/pages/83d83211926c.md`
+  - "Odessa: A History, 1794-1914 0916458431, 9780916458430 - EBIN.PUB" — https://ebin.pub/odessa-a-history-1794-1914-0916458431-9780916458430.html
+  - sha256 83d83211926cb669c170e8de58cc8182b6969531cba560669dca9f9f78fbc847
+  - cited as `https://ebin.pub/odessa-a-history-1794-1914-0916458431-9780916458430.html` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/source_herlihy_37_42.txt`
+  - cited as `https://ebin.pub/odessa-a-history-1794-1914-0916458431-9780916458430.html` in `nodes/r_5b1357a9c6/cards/t_29957a/source_herlihy_37_42.txt`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/source_herlihy_trade.txt`
+  - cited as `https://ebin.pub/odessa-a-history-1794-1914-0916458431-9780916458430.html` in `nodes/r_5b1357a9c6/cards/t_29957a/source_herlihy_trade.txt`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/source_herlihy_transport.txt`
+  - cited as `https://ebin.pub/odessa-a-history-1794-1914-0916458431-9780916458430.html` in `nodes/r_5b1357a9c6/cards/t_29957a/source_herlihy_transport.txt`
+- `sources/pages/848ad5b3b9ea.md` ← `downloads/pages/848ad5b3b9ea.md`
+  - "The Austrian Army in the War of the Sixth Coalition: A Reassessment" — https://doi.org/10.12794/metadc1752349
+  - sha256 848ad5b3b9ea1d07cf585bdb919c83f2ed28e64786e5f86bece67f0f351b13b2
+  - cited by [t_f4bb81] "1810裁军保留军官、技术兵、休假兵与团骨架，1813可扩至约29.8万动员编组/24.5万野战；财政破产约束再战成本和窗口而非永久剥夺能力。" (inference)
+- `sources/pages/85d915a3148f.md` ← `downloads/pages/85d915a3148f.md`
+  - "NEGOCIATION WITH FRANCE. (Hansard, 2 January 1807)" — https://api.parliament.uk/historic-hansard/lords/1807/jan/02/negociation-with-france
+  - sha256 85d915a3148fb773ac750222b0c6e32970828a67a63c3163fe03183a8e0eaa54
+  - cited as `https://api.parliament.uk/historic-hansard/lords/1807/jan/02/negociation-with-france` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_negotiations.md`
+  - cited as `https://api.parliament.uk/historic-hansard/lords/1807/jan/02/negociation-with-france` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_negotiations.md`
+- `sources/pages/86905b266a2b.md` ← `downloads/pages/86905b266a2b.md`
+  - "British Naval Involvement in Brazil, 1807-1815" — https://www.bhsportugal.org/uploads/fotos_artigos/files/British_Naval_Involvement_in_Brazil.pdf
+  - sha256 86905b266a2b1bb7c26cf1ba816fbf349320ce3391a85a48b1db11b3653333c4
+  - cited in `nodes/r_5b1357a9c6/cards/t_219822/notes_core.md`
+- `sources/pages/88cf9e4d6f47.md` ← `downloads/pages/88cf9e4d6f47.md`
+  - http://doc.ukdataservice.ac.uk/doc/3211/mrdoc/UKDA/UKDA_Study_3211_Information.htm
+  - sha256 88cf9e4d6f47d2e4c3126d893141b2ef26c9da26ff2d490de3a8768a4bf88d2d
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_01.md`
+- `sources/pages/898ecb4eeeb6.md` ← `downloads/pages/898ecb4eeeb6.md`
+  - "List of ships of the line of France" — https://en.wikipedia.org/wiki/List_of_ships_of_the_line_of_France
+  - sha256 898ecb4eeeb62e8c79a142a49ee281f61ba1a02b728baa5500cce715a7357c1e
+  - cited as `https://en.wikipedia.org/wiki/List_of_ships_of_the_line_of_France` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://en.wikipedia.org/wiki/List_of_ships_of_the_line_of_France` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited as `https://en.wikipedia.org/wiki/List_of_ships_of_the_line_of_France` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/8a72a0c14aa6.md` ← `downloads/pages/8a72a0c14aa6.md`
+  - "ARMY ESTIMATES. (Hansard, 4 March 1822)" — https://api.parliament.uk/historic-hansard/commons/1822/mar/04/army-estimates
+  - sha256 8a72a0c14aa6b77d49d6504f63fdbeabd9edc2905a8c5ea5cab41f3f13ed74b9
+  - cited by [t_b9e29c] "S5军队规模将分和平/武装共存/再战三种预算条件，不把史实1822裁军自动复制到法胜欧洲。1822年68802投票额不包括东印度公司领地的王家军团，也不等于整个帝国全军。" (inference) — "exclusive of the men belonging to the regiments employed in the territorial possessions of the East…"
+- `sources/pages/8a7cea21ca39.md` ← `downloads/pages/8a7cea21ca39.md`
+  - "Māori and English texts | Waitangi Tribunal" — https://waitangitribunal.govt.nz/en/about/the-treaty/maori-and-english-versions
+  - sha256 8a7cea21ca39fc7dd3cc6f32b78aef329fc12758f83a37ba2c92774704cdef8b
+  - cited as `https://waitangitribunal.govt.nz/en/about/the-treaty/maori-and-english-versions` in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_addenda.md`
+- `sources/pages/8e0fd0e7f9bd.md` ← `downloads/pages/8e0fd0e7f9bd.md`
+  - "Essay II “No. 2. Essay on the Revolution in So. America”" — https://oieahc.wm.edu/wp-content/uploads/stagg_essay2.pdf
+  - sha256 8e0fd0e7f9bd46ae1ca6968210e6670feb27e93408cc6b5869b5e8f3d3232683
+  - cited as `https://oieahc.wm.edu/wp-content/uploads/stagg_essay2.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://oieahc.wm.edu/wp-content/uploads/stagg_essay2.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited as `https://oieahc.wm.edu/wp-content/uploads/stagg_essay2.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_source_excerpts.md`
+  - cited as `https://oieahc.wm.edu/wp-content/uploads/stagg_essay2.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_glover.md`
+- `sources/pages/8ed7ad29d98d.md` ← `downloads/pages/8ed7ad29d98d.md`
+  - "Catalog Record: Our next war, in its commercial aspect; with... | HathiTrust Digital Library" — https://catalog.hathitrust.org/Record/100475511
+  - sha256 8ed7ad29d98dfef623551be8d4b66b11e31200bb92b14a134765a3bb8a518c13
+  - cited as `https://catalog.hathitrust.org/Record/100475511` in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_03.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_03.md`
+- `sources/pages/8f32cf6e5188.md` ← `downloads/pages/8f32cf6e5188.md`
+  - "VOTE OF CREDIT. (Hansard, 5 June 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/jun/05/vote-of-credit
+  - sha256 8f32cf6e5188af7603155deddd23cd510151aa76cc1dfe0dd35d8e16d91e9c4e
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_constitution_1803_1811.md`
+- `sources/pages/8f561f7ea950.md` ← `downloads/pages/8f561f7ea950.md`
+  - "Indigenous Contributions to the War of 1812: Theatres of War Map" — https://www.cirnac.gc.ca/eng/1338906996435/1607905615872?wbdisable=true
+  - sha256 8f561f7ea9507a894819433474107ad4a26cc2af3d1d881a57aaca62a2606b4b
+  - cited as `https://www.cirnac.gc.ca/eng/1338906996435/1607905615872` in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`
+- `sources/pages/9058a83137c2.md` ← `downloads/pages/9058a83137c2.md`
+  - "Ships and Shipping: Chapter 16" — https://kellscraft.com/ShipsandShipping/ShipsandShippingCh16.html
+  - sha256 9058a83137c2a5fc3201b976aaa8fb14416b68fe01b373d3bcf4865be92b2e6d
+  - cited as `https://kellscraft.com/ShipsandShipping/ShipsandShippingCh16.html` in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_03.md`
+- `sources/pages/92274137edfc.md` ← `downloads/pages/92274137edfc.md`
+  - "PETITION FROM BIRMINGHAM AGAINST THE ORDERS IN COUNCIL. (Hansard, 17 April 1812)" — https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the
+  - sha256 92274137edfcd208ae77408bf1ea52de69994241d50c96a17a76c26f4066a9aa
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/92f15cedf046.md` ← `downloads/pages/92f15cedf046.md`
+  - "Proclamation of Provisional Government - Wikisource, the free online library" — https://en.wikisource.org/wiki/Proclamation_of_Provisional_Government
+  - sha256 92f15cedf0468c1a1b4516a303f64f1517e6ccc652891db989e01f8be4253958
+  - cited by [t_c8b161] "1803年爱尔兰临时政府《宣言》法令：废除什一税、教产归国有，但**明文禁止土地转移并要求佃户照常交租**，并声明“不向财产开战”。这在革命派自己的文件层面切断了“法国胜利→爱尔兰土地革命→无饥荒”…" (fact) — "2. From the same date, all transfers of landed property are prohibited, each person, holding what h…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_c8b161/IE_ireland.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c8b161/notes_ie.md`
+- `sources/pages/939c6d71a3cd.md` ← `downloads/pages/939c6d71a3cd.md`
+  - "Colonial Silver Mining: Mexico and Peru | Hispanic American Historical Review | Duke University Press" — https://read.dukeupress.edu/hahr/article/52/4/545/152147/Colonial-Silver-Mining-Mexico-and-Peru
+  - sha256 939c6d71a3cdf0fdbdb6a645081487d88518111d1a21251628870b2cbec771b6
+  - cited in `nodes/r_5b1357a9c6/cards/t_9bd988/notes_humboldt_mining.md`
+- `sources/pages/93c84a41168f.md` ← `downloads/pages/93c84a41168f.md`
+  - "Paris, capitale du coton sous le Premier Empire - Persée" — https://www.persee.fr/doc/ahess_0395-2649_1950_num_5_1_1792
+  - sha256 93c84a41168f63d581e162d751cf2b8e8d5f513bb0174e114979064b19b67bc0
+  - cited by [t_86b684] "帝国棉纺存量：1812年帝国总纱锭≈133万（Montalivet 1813-02-25 Exposé pp.68–73：Seine 133,448=10%）；根特Escaut省134,000锭=全…" (fact) — "le département de la Seine comptait 133 448 broches en activité … 10 p. 100 du nombre total de broc…"
+- `sources/pages/94b41b5822a4.md` ← `downloads/pages/94b41b5822a4.md`
+  - "The French Crash Program for Saltpeter Production, 1776-94" — https://doi.org/10.2307/3102523
+  - sha256 94b41b5822a43417520427d964e3379a723f58048f7810300de919817e051353
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_materials_02.md`
+- `sources/pages/964e681bbff7.md` ← `downloads/pages/964e681bbff7.md`
+  - "„Konstitution des Königreichs Bayern”, erlassen von König Maximilian I., mitunterzeichnet von den Ministern Montgelas, …" — https://germanhistorydocs.org/de/das-heilige-roemische-reich-1648-1815/konstitution-des-koenigreichs-bayern-erlassen-von-koenig-maximilian-i-mitunterzeichnet-von-den-ministern-montgelas-hompesch-und-morawitzky-25-mai-1808
+  - sha256 964e681bbff77f63f04c2e2536202a6f9e27e8554ce60428b980d276baa875a1
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_bavaria.md`
+- `sources/pages/977ad00e38d7.md` ← `downloads/pages/977ad00e38d7.md`
+  - "Italians in Austrian Army" — https://people.ohio.edu/chastain/ip/italaam.htm
+  - sha256 977ad00e38d733b8afcf95b5379b5f40544ee3148032a8752f2190e02db11d3b
+  - cited by [t_be9258] "1815–48类比校准器：奥治伦巴第-威尼西亚="被行省化的前意大利王国"实征运行版：三轮起义（1821/1831/1848）+但1848年30–35k伦-威籍奥军过半仍忠（约15,000开小差）+…" (inference) — "In all, well over one-half of the Lombard and Venetian troops remained loyal to Austria"
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+- `sources/pages/982acebc0715.md` ← `downloads/pages/982acebc0715.md`
+  - "Manuel-04" — https://www.force-publique.net/sources/Livres/Manuel/Manuel-04.html
+  - sha256 982acebc07158abf558e92e920c989df13418fa9abd45bfa73a525252d4b8043
+  - cited by [t_c98c24] "1811制度条令26,000宪兵非实际在场人数，严禁称1812实额。" (fact) — "Encore ne s’agit-il ici que de chiffres prévus par les différents règlements, le nombre de gendarme…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_c98c24/notes_primary_2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c98c24/phase_design.md`
+- `sources/pages/98f3132e9a36.md` ← `downloads/pages/98f3132e9a36.md`
+  - "The 1833 Factory Act - UK Parliament" — https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/
+  - sha256 98f3132e9a364bdb7420ae551da3aae86f04bf93afe0417569d505ddc1cf1940
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/995bd30de2bb.md` ← `downloads/pages/995bd30de2bb.md`
+  - "NEW PLAN OF FINANCE. (Hansard, 29 January 1807)" — https://api.parliament.uk/historic-hansard/commons/1807/jan/29/new-plan-of-finance
+  - sha256 995bd30de2bba71ec8eb16dbc5474847110b97cac036fa4eba331d5808557680
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/9a69563ae505.md` ← `downloads/pages/9a69563ae505.md`
+  - "Resistance in the ‘holy land’ of Tyrol: a Tyrolean Taliban? | Die Welt der Habsburger" — https://www.habsburger.net/en/chapter/resistance-holy-land-tyrol-tyrolean-taliban
+  - sha256 9a69563ae505c2d028ea0a2fa5dfd35a8329abf809c008d84b58c4c7f8d46980
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_bavaria.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_wurtt_baden_tyrol.md`
+- `sources/pages/9af33326aacf.md` ← `downloads/pages/9af33326aacf.md`
+  - https://academic-journals.eu/pl/download?path=%2Fuploads%2FZm9sZGVycHVibWVkaWE%3D%2Fdocuments%2Fstudia_i_materialy_viii_nawrot_komitet_wojskowy_na_litwie_w_1812.pdf
+  - sha256 9af33326aacf0872cb784e676822d473e9e1a88b4f4615d20aff8f3c182b9a6b
+  - cited in `nodes/r_5b1357a9c6/cards/t_b5dab4/notes_prior_round.md`
+- `sources/pages/9e5e88f140a4.md` ← `downloads/pages/9e5e88f140a4.md`
+  - "Metropolitan Police - UK Parliament" — https://www.parliament.uk/about/living-heritage/transformingsociety/laworder/policeprisons/overview/metropolitanpolice/
+  - sha256 9e5e88f140a427ada967277501e72aa57ced9a63e3d00186279bd62bc672e570
+  - cited as `https://www.parliament.uk/about/living-heritage/transformingsociety/laworder/policeprisons/overview/metropolitanpolice/` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.parliament.uk/about/living-heritage/transformingsociety/laworder/policeprisons/overview/metropolitanpolice/` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_administration_population.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_administration_population.md`
+- `sources/pages/9ea19769f461.md` ← `downloads/pages/9ea19769f461.md`
+  - "PETITION OF THE EAST INDIA COMPANY. (Hansard, 26 April 1808)" — https://api.parliament.uk/historic-hansard/commons/1808/apr/26/petition-of-the-east-india-company
+  - sha256 9ea19769f461599c7c7f01be69f3b08a57b6a273421440155339893db5aad504
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/notes_politics.md`
+- `sources/pages/9f08012c5301.md` ← `downloads/pages/9f08012c5301.md`
+  - "Senatsbeschluß über die Ausübung der Funktionen der Deputirten des gesetzgebenden Körpers der IV. Serie während der am …" — https://www.verfassungen.eu/f/fverf13-3.htm
+  - sha256 9f08012c5301e0d6e0b517c0411972f929bf570a69f81253b606dcabbe8640e0
+  - cited by [t_f4bb81] "1813摄政决议修正1804禁女性摄政条款，母后在未另安排时可摄政；若新君非其子，其摄政结束，奥国对外孙的亲缘利益不能自动转到法国旁支。" (fact) — "l'Impératrice mère réunit de droit à la garde de son fils mineur, la régence de l'Empire."
+- `sources/pages/9fc696fc8978.md` ← `downloads/pages/9fc696fc8978.md`
+  - "Avalon Project - Blackstone's Commentaries on the Laws of England - Book the First : Chapter the Seventh : Of the King'…" — https://avalon.law.yale.edu/18th_century/blackstone_bk1ch7.asp
+  - sha256 9fc696fc89787b0500bf8df5a5a8711fbfbb16792afe39042e23b7c1e3c0242b
+  - cited as `https://avalon.law.yale.edu/18th_century/blackstone_bk1ch7.asp` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://avalon.law.yale.edu/18th_century/blackstone_bk1ch7.asp` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_constitution_1803_1811.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_constitution_1803_1811.md`
+- `sources/pages/a01b8afccf5d.md` ← `downloads/pages/a01b8afccf5d.md`
+  - "Coping with Poverty in Rural Brandenburg: The Role of Lords and State in the Late Eighteenth Century" — https://doi.org/10.1525/luminos.63.g
+  - sha256 a01b8afccf5dbb6fd2c529d16f18d29d62f67c1617843ba6c2b4c478b15c49df
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_economy_society.md`
+- `sources/pages/a0a178c08a7e.md` ← `downloads/pages/a0a178c08a7e.md`
+  - "Edikt über die Finanzen des Staats und die neuen Einrichtungen wegen der Abgaben (1810)" — https://www.verfassungen.de/preussen/gesetze/finanzverfassung10.htm
+  - sha256 a0a178c08a7e5397520382b5f4282a4b30c3c39a54c87c5dd83679d368338593
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_economy_society.md`
+- `sources/pages/a128e79a8fcc.md` ← `downloads/pages/a128e79a8fcc.md`
+  - https://doi.org/10.4000/geohist.4373
+  - sha256 a128e79a8fccc8d205f644a7005b9321885d9ee5b25d40c5cb05d5acd81df636
+  - cited as `https://doi.org/10.4000/geohist.4373` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+- `sources/pages/a2034fc310ff.md` ← `downloads/pages/a2034fc310ff.md`
+  - "Danger to the Old Lady of Threadneedle Street? The Bank Restriction Act and the regime shift to paper money, 1797-1821" — https://ehes.org/wp/EHES_100.pdf
+  - sha256 a2034fc310ff21d98c7e034bd0e13459c54988f024cf99d33310336bb8bff9cc
+  - cited as `https://ehes.org/wp/EHES_100.pdf` in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+- `sources/pages/a21397d83d22.md` ← `downloads/pages/a21397d83d22.md`
+  - "GUERRA DE LA INDEPENDENCIA. HISTORIA DEL LEVANTAMIENTO, GUERRA Y REVOLUCIÓN DE ESPAÑA.CAPITULO XVIII. Exigencias de Nap…" — https://cristoraul.org/SPANISH/sala-de-lectura/Historia-general-de-Espana/GUERRA-DE-LA-INDEPENDENCIA/introduccion-capitulo-18.html
+  - sha256 a21397d83d227f7db3e5bbfd60c82f927c7664595c8e051a56e4ee8e23919a8f
+  - cited in `nodes/r_5b1357a9c6/cards/t_219822/notes_core.md`
+- `sources/pages/a29ef989aeb1.md` ← `downloads/pages/a29ef989aeb1.md`
+  - "6- Nouveautés dans l'artillerie de la Marine" — https://www.artillerie.asso.fr/basart/article.php3?id_article=1972
+  - sha256 a29ef989aeb1d37fb1c52bfa09702fad1238f5e49d3dc4077aadc4a895df2784
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/a2aa12b57d10.md` ← `downloads/pages/a2aa12b57d10.md`
+  - "Odessa - BlackSea Research Project" — https://cities.blacksea.gr/en/odessa/5-7/
+  - sha256 a2aa12b57d108c268cd1b817b7b7f7387ea31ac6642b5ffb4370cda3a701a9a5
+  - cited as `https://cities.blacksea.gr/en/odessa/5-7/` in `nodes/r_5b1357a9c6/cards/t_02f417/notes_blacksea_grain.md`
+- `sources/pages/a33ec60b83be.md` ← `downloads/pages/a33ec60b83be.md`
+  - "Océan-class ship of the line" — https://en.wikipedia.org/wiki/Oc%C3%A9an-class_ship_of_the_line
+  - sha256 a33ec60b83be01c15c516b0ab509281bbe5d5dd3ff1622ccca64e120a847e18a
+  - cited as `https://en.wikipedia.org/wiki/Oc%C3%A9an-class_ship_of_the_line` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://en.wikipedia.org/wiki/Oc%C3%A9an-class_ship_of_the_line` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited as `https://en.wikipedia.org/wiki/Oc%C3%A9an-class_ship_of_the_line` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/a4244268fcb9.md` ← `downloads/pages/a4244268fcb9.md`
+  - "The taking of the Isle of France (Mauritius), 2 December 1810 | Online Collection | National Army Museum, London" — https://collection.nam.ac.uk/detail.php?acc=1971-02-33-252-1
+  - sha256 a4244268fcb99dc37d3f411f3a41e7c31731796a1d8c34b6bcf7f421556d0913
+  - cited as `https://collection.nam.ac.uk/detail.php?acc=1971-02-33-252-1` in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_addenda.md`
+- `sources/pages/a6702a368d37.md` ← `downloads/pages/a6702a368d37.md`
+  - "Александр I, Император Всероссийский." — http://www.brocgaus.ru/text/002/923.htm
+  - sha256 a6702a368d37e32f8211d6bef7d07a4fd8f339f343fb8846d78ae3f17b179bfe
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/a6a9708fe694.md` ← `downloads/pages/a6a9708fe694.md`
+  - "Premier vaisseau de ligne, le Charlemagne de 74 lancé au milieu de l'Escaut, Anvers le 8 avril 1807 : [estampe]" — https://gallica.bnf.fr/ark:/12148/btv1b69469265
+  - sha256 a6a9708fe694bf142e860a9806e9d65fff3d65f0843d745912cc6f3731487458
+  - cited as `https://gallica.bnf.fr/ark:/12148/btv1b69469265` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://gallica.bnf.fr/ark:/12148/btv1b69469265` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited as `https://gallica.bnf.fr/ark:/12148/btv1b69469265` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/a7582cb284e4.md` ← `downloads/pages/a7582cb284e4.md`
+  - "1797: Suspension of cash payments by the Bank of England | The Statutes Project" — https://statutes.org.uk/site/the-statutes/privy-council-orders/1797-suspension-of-cash-payments-by-the-bank-of-england/
+  - sha256 a7582cb284e4cdeab3b969d9be01be29e097bace807564d22b3fc7f90d7ed814
+  - cited as `https://statutes.org.uk/site/the-statutes/privy-council-orders/1797-suspension-of-cash-payments-by-the-bank-of-england/` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://statutes.org.uk/site/the-statutes/privy-council-orders/1797-suspension-of-cash-payments-by-the-bank-of-england/` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_landing.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_landing.md`
+- `sources/pages/a8db4b456088.md` ← `downloads/pages/a8db4b456088.md`
+  - "The French Navy After 1815 Part I - WarHistory.org" — https://warhistory.org/article/the-french-navy-after-1815-part-i
+  - sha256 a8db4b4560880d02cf572202306efea4b946a9aa9dd18b3c7280d932a753e922
+  - cited as `https://warhistory.org/article/the-french-navy-after-1815-part-i` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://warhistory.org/article/the-french-navy-after-1815-part-i` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/a926b7531016.md` ← `downloads/pages/a926b7531016.md`
+  - "French ship Polonais (1808)" — https://en.wikipedia.org/wiki/French_ship_Polonais_(1808)
+  - sha256 a926b75310166fa04f28689eaf359a942f3f076498aa97461669aa8a4cb03e1c
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/a9c217630acd.md` ← `downloads/pages/a9c217630acd.md`
+  - "H-Net Reviews" — https://www.h-net.org/reviews/showrev.php?id=24357
+  - sha256 a9c217630acd09c0854bab1d22b1ce3c42f2e447ec3cf3b4228e967fb530209c
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_zollverein_wirtschaft.md`
+  - cited by [t_b702da] "Planert 2007核心结论（经两篇专业书评亲读转引）：“民族观念”对南德日常生活几无影响（p.659）；1813年“全德民族起义”在普鲁士之外不成立（p.489）；“德意志民族战争”是事后建构…" (fact) — ""inherited loyalties, localisms, and confessional attitudes determined the world view and actions o…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_b702da/X4_ideas_nationalism_movements.md`
+- `sources/pages/ab500dfb9351.md` ← `downloads/pages/ab500dfb9351.md`
+  - "The French public debt in the nineteenth century - Federal Reserve Bank of Chicago" — https://www.chicagofed.org/publications/economic-perspectives/2024/2
+  - sha256 ab500dfb93515260ea2329de75497ad34ac854253c753a3185de4816b192a178
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_01.md`
+- `sources/pages/ab7407c7b446.md` ← `downloads/pages/ab7407c7b446.md`
+  - "Banca d'Italia - Cronologia" — https://www.bancaditalia.it/servizi-cittadino/mostre-ed-eventi/mostra-moneta/esplora/stanza-a/cronologia/index.html
+  - sha256 ab7407c7b4468f812217117bac113cde3ac5ecc138345623c9ebfb037fd42e2f
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+- `sources/pages/ac60ac018ef2.md` ← `downloads/pages/ac60ac018ef2.md`
+  - "KING'S SPEECH.— (Hansard, 22 November 1803)" — https://api.parliament.uk/historic-hansard/commons/1803/nov/22/kings-speech
+  - sha256 ac60ac018ef203c603586d13e8a281ddcad4e14c62dac26ea7a4e86a1baa15f8
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1803/nov/22/kings-speech` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1803/nov/22/kings-speech` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_constitution_1803_1811.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_constitution_1803_1811.md`
+- `sources/pages/ac63387858e7.md` ← `downloads/pages/ac63387858e7.md`
+  - "Memoria Política de México" — https://www.memoriapoliticademexico.org/Efemerides/11/10111799-CM.html
+  - sha256 ac63387858e74f5c2386d9c8d091efd32d12151e4fbef8dd72a486a904c694c5
+  - cited by [t_9bd988] "卡片falsifier（“1808前克里奥尔已有独立纲领文书→王位危机触发论下调”）经正面检验后分裂裁决：1799弯刀阴谋确为独立纲领且总督Azanza 1799-11-30密报自认“欧洲人与克里奥…" (interpretation) — "existe en esta América una antigua división y arraigada enemistad entre europeos y criollos, enemis…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_9bd988/MX_new_spain_cuba.md`
+- `sources/pages/acacc4f22128.md` ← `downloads/pages/acacc4f22128.md`
+  - "Venice" — https://threedecks.org/index.php?display_type=show_shipyard&id=281
+  - sha256 acacc4f221284dfb76e57cc14b7a315bfb813609a7ebef8b2f5459eeb094fe94
+  - cited as `https://threedecks.org/index.php?display_type=show_shipyard&id=281` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `https://threedecks.org/index.php?display_type=show_shipyard&id=281` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited as `https://threedecks.org/index.php?display_type=show_shipyard&id=281` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/af4f870b8ddf.md` ← `downloads/pages/af4f870b8ddf.md`
+  - "ADB:Friedrich August I. (König von Sachsen) – Wikisource" — https://de.wikisource.org/wiki/ADB:Friedrich_August_I._(K%C3%B6nig_von_Sachsen)
+  - sha256 af4f870b8ddf30be49d55dc3120590df55398f4c5ffa535ccd305f4b05307479
+  - cited by [t_3ee1b0] "接收王朝的显示偏好：萨克森的弗里德里希·奥古斯特在1778年拒绝普鲁士提出的“以两劳西茨换上德领土”案，理由是不能割让忠诚臣民去调换；其华沙大公任内从未取当地civil list、反从私库垫付3,0…" (fact) — "von seiner dortigen Civilliste nie etwas bezogen, sondern aus seiner eigenen Casse dem warschauer S…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/PR_prussia.md`
+  - cited by [t_cbaee3] "萨克森国王弗里德里希·奥古斯特的反应函数（ADB Flathe）：合法主义+风险极小化；1813年即使在体系最弱时刻也只走到对奥秘约（4-20）+托尔高中立令，吕岭一胜即在收到威胁信前主动回摆；莱比…" (fact) — "sondern aus seiner eigenen Casse dem warschauer Staatsschatze nach und nach 30 Mill. Fl. vorgeschos…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_cbaee3/G2_north_german_states.md`
+- `sources/pages/afa9eb650bc6.md` ← `downloads/pages/afa9eb650bc6.md`
+  - "Rear Guard Action: Guineas and Gunpowder. British foreign policy in the Napoleonic Wars" — http://jurrga.blogspot.com/2014/11/guineas-and-gunpowder-british-foreign.html
+  - sha256 afa9eb650bc6fdabcaf90916309c82c05e73beabc2c6191fd7eecc4acb237ddf
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/b0cf11d23f51.md` ← `downloads/pages/b0cf11d23f51.md`
+  - "Princes’ Wars, Wars of the People, or Total War? Mass Armies and the Question of a Military Revolution in Germany, 1792…" — https://journals.sagepub.com/doi/10.1177/0968344513483071
+  - sha256 b0cf11d23f51b69955c0c0f25df0c2dbf8e6528ff3b0ef94abeb8cba03eb40ff
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_mobilization.md`
+- `sources/pages/b1812133dadc.md` ← `downloads/pages/b1812133dadc.md`
+  - "Altered Pasts: Counterfactuals in History" — https://brandeisuniversitypress.com/title/altered-pasts-counterfactuals-in-history/
+  - sha256 b1812133dadc526a29ae024959ae4b501066c1eb80b1020bfbd8b347da6ff00e
+  - cited as `https://brandeisuniversitypress.com/title/altered-pasts-counterfactuals-in-history/` in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_bands.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_bands.md`
+  - cited as `https://brandeisuniversitypress.com/title/altered-pasts-counterfactuals-in-history/` in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_tree.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_tree.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/notes_schools_03.md`
+- `sources/pages/b382c307bdac.md` ← `downloads/pages/b382c307bdac.md`
+  - "Petitions and the Corn Laws" — https://committees.parliament.uk/committee/326/petitions-committee/news/99040/petitions-and-the-corn-laws
+  - sha256 b382c307bdaceb4c36d4b8f1ee6d96f774abe46c31730668d642113c29da0cd1
+  - cited as `https://committees.parliament.uk/committee/326/petitions-committee/news/99040/petitions-and-the-corn-laws` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://committees.parliament.uk/committee/326/petitions-committee/news/99040/petitions-and-the-corn-laws` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_postwar.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_postwar.md`
+- `sources/pages/b410f00b28b3.md` ← `downloads/pages/b410f00b28b3.md`
+  - "Espoirs et déceptions d’Odessa dans le premier quart du XIXe siècle - Persée" — https://www.persee.fr/doc/casla_1283-3878_2016_num_14_1_1138
+  - sha256 b410f00b28b307206c631286c9d7c70de16fb7b4186121ee49ec7874ffc813db
+  - cited as `https://www.persee.fr/doc/casla_1283-3878_2016_num_14_1_1138` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/b63d35ce3cb6.md` ← `downloads/pages/b63d35ce3cb6.md`
+  - "La réduction du nombre de nos vaisseaux (1814-1819) – Trois-Ponts!" — https://troisponts.net/2014/03/26/reduction-du-nombre-de-nos-vaisseaux-1814-1819/
+  - sha256 b63d35ce3cb68b87dbc70219f5364dad22ed6c785539128a8578e55cacb4a843
+  - cited as `https://troisponts.net/2014/03/26/reduction-du-nombre-de-nos-vaisseaux-1814-1819/` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_quote_ledger.md`
+  - cited as `https://troisponts.net/2014/03/26/reduction-du-nombre-de-nos-vaisseaux-1814-1819/` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/b71024f74504.md` ← `downloads/pages/b71024f74504.md`
+  - "Россия, разд. Финансовое хозяйство России (первая половина XIX века)" — http://rulex.ru/01273021.htm
+  - sha256 b71024f74504e037fedba2c2f481db0041944981a06094a94b21ea1b646a7cc4
+  - cited as `http://rulex.ru/01273021.htm` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/b92bac3d423e.md` ← `downloads/pages/b92bac3d423e.md`
+  - "War, Naval Logistics and the British State" — https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf
+  - sha256 b92bac3d423e354551736d05fce5d1b982541c26928437aaac019fbb4e77121f
+  - cited as `https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/b9eaa7cabeae.md` ← `downloads/pages/b9eaa7cabeae.md`
+  - "L'entrevue d'Erfurt racontée par Talleyrand - Le Consulat et le Premier empire" — https://napoleon-histoire.com/1808-l-entrevue-d-erfurt-racontee-talleyrand/
+  - sha256 b9eaa7cabeaedf973cdec0d17c9c7fdd0f7b052aa1e5d689f2d255d32b820cee
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_treaties_diplomacy.md`
+- `sources/pages/ba2ab29e8259.md` ← `downloads/pages/ba2ab29e8259.md`
+  - "PETITION FROM THE HALLAMSHIRE CUTLERS, RESPECTING THE RENEWAL OF THE EAST INDIA COMPANY'S CHARTER. (Hansard, 17 April 1…" — https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-the-hallamshire-cutlers
+  - sha256 ba2ab29e8259234d4f48180f6bd04e08b1666d1e257a1b8421f1c0a8a74b0223
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-the-hallamshire-cutlers` in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+- `sources/pages/ba4cd1cfd439.md` ← `downloads/pages/ba4cd1cfd439.md`
+  - "Endogenous Formation of Free Trade Agreements: Evidence from the Zollverein’s Impact on Market Integration" — https://spot.colorado.edu/~shiue/Zoll.pdf
+  - sha256 ba4cd1cfd4396b9eb168142beaac56479706aba4540398681c67eadec2596cab
+  - cited by [t_3ee1b0] "残普经济改革可能延续，但1834式普领导关税同盟依赖1815西部领土与1831黑森加入形成的通海关税屏障，不能自动搬进法国胜利世界。" (inference)
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_treaties_diplomacy.md`
+- `sources/pages/bcec6e864569.md` ← `downloads/pages/bcec6e864569.md`
+  - "Statsbankerotten 1813 – Danmarkshistorien | Lex" — https://danmarkshistorien.lex.dk/Statsbankerotten_1813
+  - sha256 bcec6e864569c7230332d08536dd7405da6279f52b40364cf1ad3c0071e88d2d
+  - cited by [t_8b4a3e] "丹麦财政寿命表：1807参战→1812券量1.27亿（五倍）→1813-01-05敎令六比一重组（Rigsbank、4600万上限、6%不动产银税）；银基金被继续战争与补偿失挪耗尽" (fact) — "kurantdalerens kurs var faldet til kun 6 % af dens pålydende værdi i sølv"
+- `sources/pages/bcf22d70f791.md` ← `downloads/pages/bcf22d70f791.md`
+  - "La Marine sous l’Empire" — https://www.marins-traditions.fr/_files/ugd/c3f5ca_e33d085ac71744eaa6165b42ebdca588.pdf
+  - sha256 bcf22d70f791463622e16d882b6c020ade1e0c017ecd2076a2bf78b981ec149c
+  - cited as `https://www.marins-traditions.fr/_files/ugd/c3f5ca_e33d085ac71744eaa6165b42ebdca588.pdf` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+- `sources/pages/bff7e2ccf088.md` ← `downloads/pages/bff7e2ccf088.md`
+  - "THE BUDGET. (Hansard, 20 May 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/may/20/the-budget
+  - sha256 bff7e2ccf088b5a39a2e060390aadfecf2a4f4cc11d8d568c4f6a01f845ae21b
+  - cited by [t_044211] "1811年5月20日预算比较3%类借款：上年每£100利息£4 4s 2d，本年£4 14s 11d；加重约0.5375个百分点，融资仍成功。" (fact) — "Last year the interest was 4l. 4s. 2d. per cent.; this year it was 4l. 14s. 11d."
+  - cited by [t_044211] "1811预算的特定新增贷款现金票息由1810的4.208333%增至4.745833%，上升53.75bp；不是全部公债价格或存量票息重定价，且不含分期缴款的完整IRR。" (fact) — "Last year the interest was 4l. 4s. 2d. per cent.; this year it was 4l. 14s. 11d."
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/c027085d7e92.md` ← `downloads/pages/c027085d7e92.md`
+  - "Making sure you're not a bot!" — http://nbn-resolving.de/urn:nbn:de:hbz:061:1-316685
+  - sha256 c027085d7e92f1171e38fea06eb0eb2938cf8f8092de304a99e6acf21ad4ce41
+  - cited by [t_cbaee3] "邦联宪法（Fundamentalstatut）流产主因裁决：巴伐利亚/符腾堡主权否决为主因，拿破仑因依赖其主力供兵而迁就；法国角色是“不强制”非“否决”。本卡falsifier（流产主因法国否决→制…" (interpretation) — "dass aber diese Bemühungen weniger an dem bösen Willen Napoleons scheiterten... sondern vor allem a…"
+- `sources/pages/c14f5ba7251f.md` ← `downloads/pages/c14f5ba7251f.md`
+  - "Memoria Política de México" — https://www.memoriapoliticademexico.org/Textos/1Independencia/1813SDN.html
+  - sha256 c14f5ba7251ff38c92cac9322cd385335f55e499952379e0e7d7e881fb06910d
+  - cited by [t_9bd988] "莫雷洛斯1813年《Sentimientos de la Nación》第1条要求独立于西班牙“及任何其他国家、政府或君主国”，第20条禁止外国军队登陆（援军也不得驻于最高机构所在地），第9条官职只…" (fact) — "1o. Que la América es libre e independiente de España y de toda otra Nación, Gobierno o Monarquía… …"
+  - cited in `nodes/r_5b1357a9c6/cards/t_9bd988/MX_new_spain_cuba.md`
+- `sources/pages/c2fda522376a.md` ← `downloads/pages/c2fda522376a.md`
+  - "REPORT OF THE BULLION COMMITTEE—ADJOURNED DEBATE. (Hansard, 7 May 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/may/07/report-of-the-bullion-committee
+  - sha256 c2fda522376a25102e5e18cddfb6fb604ea6750449448e3f1015ddc89f6a64fb
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1811/may/07/report-of-the-bullion-committee` in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+- `sources/pages/c674c509988f.md` ← `downloads/pages/c674c509988f.md`
+  - "Le gouvernement responsable – Dictionnaire biographique du Canada" — https://www.biographi.ca/fr/theme_government.html?p=1&project_id=75
+  - sha256 c674c509988f50b8f544b6ff0c20e959d914962daa3449f7ecfcdbaa2e08952b
+  - cited as `https://www.biographi.ca/fr/theme_government.html` in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_addenda.md`
+- `sources/pages/c68f606dbf1f.md` ← `downloads/pages/c68f606dbf1f.md`
+  - "Segunda parte del segundo capitulo de La revolucion del Cura Miguel Hidalgo, hasta la muerte de este y sus compañeros, …" — http://www.antorcha.net/biblioteca_virtual/historia/revolucion_hidalgo/2_2.html
+  - sha256 c68f606dbf1fbc674f4696860866c499b80fb9bcce2df5fe50e662e75c775e77
+  - cited in `nodes/r_5b1357a9c6/cards/t_9bd988/MX_new_spain_cuba.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_9bd988/notes_politics_society.md`
+- `sources/pages/c7337a608bc3.md` ← `downloads/pages/c7337a608bc3.md`
+  - "COLONIAL GOVERNMENT. (Hansard, 25 July 1848)" — https://api.parliament.uk/historic-hansard/commons/1848/jul/25/colonial-government
+  - sha256 c7337a608bc3b25a8232658426a79d9d863d6963ea97dc0e8325aaf2f3b6e728
+  - cited by [t_0fed70] "殖民政府反驳Molesworth军海支出分摊：无殖民地仍需舰队和邮船；少数白人自治可能进一步压迫西印度黑人多数。故£4m不能直接当可避免成本，也不能把殖民自治写成普遍自由。" (interpretation)
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1848/jul/25/colonial-government` in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_addenda.md`
+- `sources/pages/c7e7b21e85be.md` ← `downloads/pages/c7e7b21e85be.md`
+  - "Rieder-Vertrag vom 8. October 1813 – Wikisource" — https://de.wikisource.org/wiki/Rieder-Vertrag_vom_8._October_1813
+  - sha256 c7e7b21e85be9812923149ce2e475ca85cc530d2abb73d998d17f81e3d3417cc
+  - cited by [t_f55d87] "Ried条约(1813-10-08)公开Art.4：奥皇以自己及盟国名义担保巴伐利亚开战前全部领地的自由占有与完全主权；秘密Art.5：巴伐利亚承诺野战至少36,000人（奥地利150,000）；A…" (fact) — "Art. 4. Seine Majestät der Kaiser von Österreich garantirt sowohl in Seinem Namen als im Namen Sein…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_bavaria.md`
+- `sources/pages/c829da0ae0b4.md` ← `downloads/pages/c829da0ae0b4.md`
+  - "La grande douane impériale – Association pour l’Histoire de l’Administration des Douanes" — https://histoire-de-la-douane.org/la-grande-douane-imperiale/
+  - sha256 c829da0ae0b475ce30a846b25cb271a68035b9ebd90af6d0ebe2500f70363271
+  - cited in `nodes/r_5b1357a9c6/cards/t_6f3beb/X2_continental_system_machine.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_6f3beb/notes_enforcement_machine.md`
+- `sources/pages/cd205de92b28.md` ← `downloads/pages/cd205de92b28.md`
+  - "The Chartist movement - UK Parliament" — https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/overview/chartistmovement/
+  - sha256 cd205de92b285b64377fed583742387a8b05d6f059392fa5e0ab70b6f95837d6
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/cd494198d45d.md` ← `downloads/pages/cd494198d45d.md`
+  - "The Project Gutenberg eBook of Napoléon et Alexandre Ier (3/3), par Albert Vandal" — https://www.gutenberg.org/cache/epub/32621/pg32621-images.html
+  - sha256 cd494198d45da4decf3ca984d171223370226f5d6622f7692358e41b93c80a59
+  - cited in `nodes/r_5b1357a9c6/cards/t_b5dab4/notes_prior_round.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b702da/X4_ideas_nationalism_movements.md`
+- `sources/pages/cd7489b20593.md` ← `downloads/pages/cd7489b20593.md`
+  - "Correspondance de Napoléon Ier - Décembre 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-decembre-1810/
+  - sha256 cd7489b20593a30b5a91604b0390df42a087dde163db278a19a1f4867d7852e6
+  - cited in `nodes/r_5b1357a9c6/cards/t_08b9e7/F1_napoleon_center.md`
+- `sources/pages/cdb0562e50e9.md` ← `downloads/pages/cdb0562e50e9.md`
+  - "War and Politics in Spain, 1808–1814 | The Historical Journal | Cambridge Core" — https://www.cambridge.org/core/journals/historical-journal/article/abs/war-and-politics-in-spain-18081814/C836CD5E04C632567CE587B18828597B
+  - sha256 cdb0562e50e9c3c8f979e20feef9cb488b494a0ce175c75895d8f6e77dd2423a
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_bands.md`
+  - cited as `https://www.cambridge.org/core/journals/historical-journal/article/abs/war-and-politics-in-spain-18081814/C836CD5E04C632567CE587B18828597B` in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_bands.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_tree.md`
+  - cited as `https://www.cambridge.org/core/journals/historical-journal/article/abs/war-and-politics-in-spain-18081814/C836CD5E04C632567CE587B18828597B` in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_tree.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/notes_schools_03.md`
+- `sources/pages/cde736773ad3.md` ← `downloads/pages/cde736773ad3.md`
+  - "Liste der Mitgliedstaaten im Rheinbund – Wikipedia" — https://de.wikipedia.org/wiki/Liste_der_Mitgliedstaaten_im_Rheinbund
+  - sha256 cde736773ad3b1fbc7dd18a8e0358ab642d9251ebbfcd89b7062790b5000bcf3
+  - cited in `nodes/r_5b1357a9c6/cards/t_cbaee3/G2_north_german_states.md`
+- `sources/pages/ce13bc8c21a9.md` ← `downloads/pages/ce13bc8c21a9.md`
+  - "„KRÓLESTWO POLSKIE PRZYWRÓCONE” – OCZEKIWANIA WSPÓŁCZESNYCH WOBEC KONFEDERACJI GENERALNEJ KRÓLESTWA POLSKIEGO 1812–1813" — https://bibliotekanauki.pl/articles/540558.pdf
+  - sha256 ce13bc8c21a9a69f7f956120d6ed16941de22895437611d47e0ad17380163419
+  - cited in `nodes/r_5b1357a9c6/cards/t_b5dab4/notes_prior_round.md`
+- `sources/pages/ce5fba5d0919.md` ← `downloads/pages/ce5fba5d0919.md`
+  - "5% jouiss. du 22 sept. 1851 | Securities | DFIH" — https://dfih.fr/securities/65
+  - sha256 ce5fba5d0919c080fcee33d83b0773b4654f8192bfec234d6f17201577bd1f5f
+  - cited as `https://dfih.fr/securities/65` in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+- `sources/pages/ce92415172f5.md` ← `downloads/pages/ce92415172f5.md`
+  - "Behaghel, Wilhelm: ¬Das badische bürgerliche Recht und der Code Napoléon - Digital Libraries Connected" — https://dlc.mpg.de/fulltext/mpirg_sisis_103987/33/
+  - sha256 ce92415172f56a8dff84bb0648762f8fc10aa8220a4d75e1a24de69cded080bd
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_wurtt_baden_tyrol.md`
+- `sources/pages/ceba572cafc2.md` ← `downloads/pages/ceba572cafc2.md`
+  - "How Fiscal Policy Affects Prices: Britain's First Experience with Paper Money | The Journal of Economic History | Cambr…" — https://www.cambridge.org/core/journals/journal-of-economic-history/article/how-fiscal-policy-affects-prices-britains-first-experience-with-paper-money/4EB0EEBFB77E80F4C03734D27EFB4407
+  - sha256 ceba572cafc2429851929b5db014f5860c2aa475ba8f78ca292522fb74a1af7e
+  - cited by [t_0a8308] "Antipa 2016 确认英国agio 1805–08图形不变来自缺失报价，而非市场无冲击。" (fact) — "For the period spanning the years from 1805 to 1808 the agio's stability simply reflects the lack o…"
+  - cited by [t_0a8308] "Antipa 2016基于《Course of the Exchange》及Wettenhall称英国黄金agio 1808后超过10%，1813年中峰值45%，反映英镑对黄金实际贬值而非政治征服赔…" (fact) — "it rose above 10 percent after 1808 and reached a peak of 45 percent mid-1813"
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+  - cited as `https://www.cambridge.org/core/journals/journal-of-economic-history/article/how-fiscal-policy-affects-prices-britains-first-experience-with-paper-money/4EB0EEBFB77E80F4C03734D27EFB4407` in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+- `sources/pages/cf02c798c3f0.md` ← `downloads/pages/cf02c798c3f0.md`
+  - "Monetary and Fiscal Policy in England during the French Wars (1793-1821)" — https://people.bu.edu/chamley/Ec365-17/UKFR.pdf
+  - sha256 cf02c798c3f018a8d6e11b788ef049041775be2dcd26fd260297bc9612e50ffa
+  - cited as `https://people.bu.edu/chamley/Ec365-17/UKFR.pdf` in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+- `sources/pages/cf0509d983d0.md` ← `downloads/pages/cf0509d983d0.md`
+  - "LWL - Kultur - Ausz�ge aus Berding" — https://lwl.org/aufbruch-in-die-moderne/LWL/Kultur/Aufbruch/popups/politik/verfassung/abschaffung_privilegien/berding/index2_html.html
+  - sha256 cf0509d983d0ec968d26f6e9e46a611466abf7e72ea3e24e1f16f3d1724ef46d
+  - cited by [t_3ee1b0] "行政延续与社会改革在拿破仑式接管中结构性互斥：Berding记拿破仑取得威国领地一半的所有权与处分权连同领主权利转赠法国元帅将军，造成财政毁灭，而由巴黎控制的帝国领地管理阻断一切触及受赠者领主性收入…" (fact) — "Das Königreich Westphalen verlor durch die Abtretung der Dotationsdomänen wichtige Einnahmequellen,…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/PR_prussia.md`
+  - cited by [t_cbaee3] "威斯特法利亚财政破产的结构性成因：拿破仑拿走半数领地赠法国将帅，收益流向法国且巴黎管理的赠地阻断改革（Berding本人手稿长段，LWL转载）；债1812年达1.4-2亿法郎（Grab p.101）…" (fact) — "Das Königreich Westphalen verlor durch die Abtretung der Dotationsdomänen wichtige Einnahmequellen,…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_cbaee3/G2_north_german_states.md`
+- `sources/pages/cf1db95a4ffe.md` ← `downloads/pages/cf1db95a4ffe.md`
+  - "GOVERNMENT OF INDIA—ADJOURNED DEBATE. (Hansard, 9 June 1853)" — https://api.parliament.uk/historic-hansard/commons/1853/jun/09/government-of-india-adjourned-debate
+  - sha256 cf1db95a4ffea8862a3a1e4e7cc11debfe9c68ade9b3021f8fffd60e8b2d4156
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+- `sources/pages/cf938653fa92.md` ← `downloads/pages/cf938653fa92.md`
+  - "1808 : Expansions méridionales et résistances - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/1808-expansions-meridionales-et-resistances/
+  - sha256 cf938653fa9233a653599cb16cb42f59fefea249eda65c996ed104d15653ada9
+  - cited by [t_08b9e7] "信息系统判定：采集层欧洲一流（警务日报/黑室/29使馆/军事情报），失真在整合层：单节点整合无红队、激励失真（1808西班牙：CG T8编者判定大使逢迎/密探盲目/Murat野心污染，且中枢反向注入…" (interpretation)
+- `sources/pages/cfca2389fab7.md` ← `downloads/pages/cfca2389fab7.md`
+  - "H-Net Reviews" — https://www.h-net.org/reviews/showrev.php?id=12179
+  - sha256 cfca2389fab7245965c01cfe207e9b92a95762a56c38abdc6216bc9e917a50bb
+  - cited in `nodes/r_5b1357a9c6/cards/t_cbaee3/G2_north_german_states.md`
+- `sources/pages/cfd2c9f1cdc0.md` ← `downloads/pages/cfd2c9f1cdc0.md`
+  - "The London Gazette" — https://www.thegazette.co.uk/London/issue/16100/data.pdf
+  - sha256 cfd2c9f1cdc0bba5e4a643b7bd50e06e2d90b776ffc90a058aa206bb342ff390
+  - cited as `https://www.thegazette.co.uk/London/issue/16100/data.pdf` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+  - cited by [t_219822] "1808–09塞尼亚文俄国分舰队案例：法国占领里斯本9个月仍无法使用港内友军舰队；Junot 1808-07-03函请合作被拒；最终俄英公约把舰队交英国存押——制海权不在手时里斯本军港价值≈零" (inference) — "The ships of war of the Emperor of Russia, now in the Tagus … shall be delivered up to Admiral Sir …"
+  - cited in `nodes/r_5b1357a9c6/cards/t_219822/PT_portugal_brazil.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_219822/notes_core.md`
+- `sources/pages/d01fe4f39a0e.md` ← `downloads/pages/d01fe4f39a0e.md`
+  - "An Act for the Union of Great Britain and Ireland - UK Parliament" — https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliamentandireland/collections/ireland/act-of-union-1800/
+  - sha256 d01fe4f39a0e962509f97901a666959a9221e39c7cd083fca348e57fd7cd1676
+  - cited as `https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliamentandireland/collections/ireland/act-of-union-1800/` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliamentandireland/collections/ireland/act-of-union-1800/` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_ireland_press.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_ireland_press.md`
+- `sources/pages/d34063b29aef.md` ← `downloads/pages/d34063b29aef.md`
+  - "WAYS AND MEANS. (Hansard, 28 March 1806)" — https://api.parliament.uk/historic-hansard/commons/1806/mar/28/ways-and-means-1
+  - sha256 d34063b29aefbc4fc226a6016d45f6858ccf97a7d95c1d4def55670cab47cf2e
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/d39fd55b29e2.md` ← `downloads/pages/d39fd55b29e2.md`
+  - "Naval history of Great Britain by William James - Abstract No 16 - 1808" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_16.html
+  - sha256 d39fd55b29e231004219074aa3422e2380ed62dafbec1d69a3de02e0a0c2f313
+  - cited by [t_998052] "1808年初英国战列舰海勤现役113、海勤预备13、合计126；港勤现役19、港勤预备44、在建或已订购48；账面大合计237不等于可用舰队。" (fact) — "Line 113 197350 13 25089 126 222439"
+- `sources/pages/d50bbff185e1.md` ← `downloads/pages/d50bbff185e1.md`
+  - "PETITIONS FROM PAISLEY, SWANSEA AND BIRMINGHAM RESPECTING THE RENEWAL OF THE EAST INDIA COMPANY'S CHARTER. (Hansard, 8 …" — https://api.parliament.uk/historic-hansard/commons/1812/apr/08/petitions-from-paisley-swansea-and
+  - sha256 d50bbff185e109aa35dda5c5bffae44fa1cd5d5b0b308413b654b4b2bd52fa5e
+  - cited by [t_0bb54c] "1812年4月8日帕斯利、斯旺西、伯明翰三地请愿书把"开放对印贸易"直接论证为对大陆封锁的对冲：斯旺西称"目下几乎被阻绝于与欧洲大陆的任何贸易"，帕斯利与伯明翰称开放印度贸易将使英国"更不依赖与欧洲…" (fact) — "the Petitioners feel, at this time, when they are nearly precluded from any trade with the continen…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+- `sources/pages/d6224d1eedd9.md` ← `downloads/pages/d6224d1eedd9.md`
+  - "Armja Królestwa Polskiego : (1815-1830)" — http://obc.opole.pl/Content/9656
+  - sha256 d6224d1eedd91c9e8ed4c41ff5fc26a7a2d18322ae8687f2b11dd827bc924e59
+  - cited by [t_b5dab4] "1813–15被占负担实测：俄军给养1813+1814头4月=157,928,176złp、1814-05至1815-05=89,942,911złp（Tokarz 1917）——同一土地在'被占领…" (fact) — "dostawy dla żołnierza rosyjskiego w ciągu roku 1813 i czterech pierwszych miesięcy 1814 roku wynios…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_b5dab4/notes_fiscal_army_1831.md`
+- `sources/pages/d6627652fe2a.md` ← `downloads/pages/d6627652fe2a.md`
+  - "Tratado de Fontainebleau (27 de octubre de 1807)" — http://www.altorres.synology.me/guerras/1808_independencia/documentos/1807_10_27_fontainebleau.htm
+  - sha256 d6627652fe2a916d3c257f4406d462d32a1357cff68a1a1d063f256e89c655aa
+  - cited in `nodes/r_5b1357a9c6/cards/t_219822/notes_core.md`
+- `sources/pages/d79be65764b5.md` ← `downloads/pages/d79be65764b5.md`
+  - "FINANCE RESOLUTIONS. (Hansard, 20 June 1809)" — https://api.parliament.uk/historic-hansard/commons/1809/jun/20/finance-resolutions
+  - sha256 d79be65764b55f77b4d8403d1a9b686a19784133ca8edc92774b2c9cfcde215b
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/d82150b0f2eb.md` ← `downloads/pages/d82150b0f2eb.md`
+  - "La grande Histoire des forêts (#Episode 4) - L'ordonnance de Colbert en 1669 : la gestion forestière en forêt de Tronça…" — https://www.onf.fr/onf/%2B/ff6::la-grande-histoire-des-forets-episode-ordonnance-de-colbert-en-1669-la-gestion-forestiere-en-foret-de-troncais.html
+  - sha256 d82150b0f2eb6f55843b0b47c2c43adc031fd3899aec3f4f68f6b68df0884eb6
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_colbert_forests.md`
+- `sources/pages/d9d4b8071970.md` ← `downloads/pages/d9d4b8071970.md`
+  - "THE FRIENDS OF PEACE" — https://doi.org/10.1017/cbo9780511896422.001
+  - sha256 d9d4b8071970c061cc3fb72eca85ac2a692f1e0edaec3dcf72d34ac4e0247b12
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+- `sources/pages/db711396db6a.md` ← `downloads/pages/db711396db6a.md`
+  - "PETITION OF THE EAST INDIA COMPANY FOR THE RENEWAL OF THEIR CHARTER. (Hansard, 22 February 1813)" — https://api.parliament.uk/historic-hansard/commons/1813/feb/22/petition-of-the-east-india-company-for
+  - sha256 db711396db6ac0c3c4c766bc52ea9a99a046dcbcc95e88ea1f06c623feb65d19
+  - cited by [t_0bb54c] "【本卡最重要的定量发现】公司1793–1812累计贸易利润£6,289,405（明言已扣商业费用、伦敦债券利息与股息），年均仅约£0.32m；同期领地账年缺口£1.1–2.7m。→"贸易养帝国"不成…" (inference) — "all such sums of money, together with the said sum of 6,289,405l., which has arisen from the surplu…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0bb54c/notes_finance.md`
+- `sources/pages/dc631b5476f4.md` ← `downloads/pages/dc631b5476f4.md`
+  - "The failure of the first income tax: a tale of commercial tax evaders?" — https://eprints.whiterose.ac.uk/id/eprint/129898/19/The%20Failure%20of%20the%20First%20Income%20Tax-A%20Tale%20of%20Commercial%20Tax%20Evaders_.pdf
+  - sha256 dc631b5476f43b17198ecc23d5743bdf937330277bddbbf95d6b6970be292807
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/dc7df5fbd91a.md` ← `downloads/pages/dc7df5fbd91a.md`
+  - "French ship Mont Saint-Bernard (1811)" — https://en.wikipedia.org/wiki/French_ship_Mont_Saint-Bernard_(1811)
+  - sha256 dc7df5fbd91a28a5cf91a6e00d4b976c0c591b900ec7f8fe92cb798cde4a5668
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/dda4372be1f5.md` ← `downloads/pages/dda4372be1f5.md`
+  - "The worldwide economic impact of the Revolutionary and Napoleonic Wars" — https://www.tcd.ie/Economics/TEP/2005_papers/TEP9.pdf
+  - sha256 dda4372be1f53d85e871d6385b57e4a1300cb8d4c632e606a2294517cc66e077
+  - cited as `https://www.tcd.ie/Economics/TEP/2005_papers/TEP9.pdf` in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/de17c8036944.md` ← `downloads/pages/de17c8036944.md`
+  - "REPORT OF THE BULLION COMMITTEE. (Hansard, 9 May 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/may/09/report-of-the-bullion-committee
+  - sha256 de17c80369449e2d3eb32a30af5e7f84ad70896e36269ec1ee4cd6f402632d29
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1811/may/09/report-of-the-bullion-committee` in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_bank.md`
+- `sources/pages/df27e5314cf3.md` ← `downloads/pages/df27e5314cf3.md`
+  - "Correspondance de Napoléon Ier - Janvier-Février-Mars 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-janvier-fevrier-mars-1810/
+  - sha256 df27e5314cf3e9d5dc634cbc9fa9e056665b790021c65866b3a483a07fd0efb9
+  - cited by [t_be9258] "1810-01-03拿破仑致Aldini：欧仁由无子时继承人改设为带apanage的"威尼斯亲王支"；1810-02-17元老院法令罗马并入法国、art.7皇太子称罗马王、art.10皇帝十年内罗马…" (fact) — "Par le statut du royaume, je l'ai appelé au trône en cas que je n'aie point d'enfant; mais, comme p…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/notes_1810_succession_docs.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/notes_correspondence_heckscher.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_eaa841/raw_yeartables.md`
+- `sources/pages/df8591563743.md` ← `downloads/pages/df8591563743.md`
+  - "The World the Bureaucrats Made - Iron Kingdom: The Rise and Downfall of Prussia, 1600-1947" — https://erenow.org/modern/iron-kingdom/12.php
+  - sha256 df859156374311879495dc3f6a646c84dd598b2d9cc2ea462bba1566c0c90f7e
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_core.md`
+- `sources/pages/e00651d91906.md` ← `downloads/pages/e00651d91906.md`
+  - "Polen – ERIH" — https://www.erih.de/wie-alles-begann/industriegeschichte-europaeischer-laender/polen
+  - sha256 e00651d919065594e0010d9f825eb0003966fa78a5f885053ba56fa363eb33da
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_economy_society.md`
+- `sources/pages/e0f217155fea.md` ← `downloads/pages/e0f217155fea.md`
+  - "[PDF] Britain at Bay by Richard Glover | 9781032037578, 9781000408676" — https://www.perlego.com/book/2567530/britain-at-bay-defence-against-bonaparte-180314-pdf
+  - sha256 e0f217155feaf0426578759c0abeb0439ccb3dd2c536ef52e2a41d1f4d487ef3
+  - cited in `nodes/r_5b1357a9c6/cards/t_b9e29c/notes_interface_british.md`
+- `sources/pages/e34ce1ee7054.md` ← `downloads/pages/e34ce1ee7054.md`
+  - "5% CONS. jouiss. du 22 mars | Securities | DFIH" — https://dfih.fr/securities/68
+  - sha256 e34ce1ee70542b88dd1649b9c0214c369edcf4bde2a736807bc87a5abf6a256d
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+- `sources/pages/e4de2569510d.md` ← `downloads/pages/e4de2569510d.md`
+  - "Vaisseaux de 74" — http://dossiersmarine.free.fr/v_74.htm
+  - sha256 e4de2569510dcaee734ed3c5294145b7627fd8d08405467d1d6948dca3db2b25
+  - cited as `http://dossiersmarine.free.fr/v_74.htm` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited as `http://dossiersmarine.free.fr/v_74.htm` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/e4e61b27e2fb.md` ← `downloads/pages/e4e61b27e2fb.md`
+  - "RENTES FRANÇAISES | Issuers | DFIH" — https://dfih.fr/issuers/100/securities?date=1805
+  - sha256 e4e61b27e2fbd5ed126caa251fb89c9bc1357eba79965a656c3a5228f5291c03
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+- `sources/pages/e5b32951df65.md` ← `downloads/pages/e5b32951df65.md`
+  - "Crouzet (François). L'économie britannique et le blocus continental (1806- 1813). - Persée" — https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2
+  - sha256 e5b32951df65af85fa89a555ec74437a5be6a7cc2c23e01905f838c7f6a71116
+  - cited as `https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_competing_accounts.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_competing_accounts.md`
+  - cited as `https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2` in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/e5db571883ca.md` ← `downloads/pages/e5db571883ca.md`
+  - "Bois, taxes sur le | l'Encyclopédie Canadienne" — https://thecanadianencyclopedia.ca/fr/article/bois-taxes-sur-le
+  - sha256 e5db571883ca21f095e0cc3c12ee09056e5c4f5aa10dc56227e666c761ed862b
+  - cited as `https://thecanadianencyclopedia.ca/fr/article/bois-taxes-sur-le` in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`
+- `sources/pages/e6f361323912.md` ← `downloads/pages/e6f361323912.md`
+  - "Full text of "Expeditions Overseas"" — https://archive.org/stream/ExpeditionsOverseas/Expeditions%20Overseas_djvu.txt
+  - sha256 e6f361323912718eeac7364266f998ff4bd9062ea537e2b5972eaa58ee367a1a
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/PS_persia_afghanistan_punjab.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/notes_local_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/notes_logistics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/sec3_envelope_reactions.md`
+- `sources/pages/e6fecc9325ac.md` ← `downloads/pages/e6fecc9325ac.md`
+  - "Convention franco-russe d'Erfurt, 12 octobre 1808 - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/convention-franco-russe-derfurt-12-octobre-1808/
+  - sha256 e6fecc9325acadf7a9b3b3cc62998b82f2228c5cc27e58ab5d17dda4323c3ef9
+  - cited in `nodes/r_5b1357a9c6/cards/t_91cbee/R1_russia_court.md`
+- `sources/pages/e7645400387a.md` ← `downloads/pages/e7645400387a.md`
+  - "Badisches Landrecht 1810 (Code Napoleon 1804)" — https://www.koeblergerhard.de/Fontes/BadischesLandrecht1810.htm
+  - sha256 e7645400387a248152a9d2b6ba1d383a1bdf0837464700ade00395217f192bb2
+  - cited in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_wurtt_baden_tyrol.md`
+- `sources/pages/e8dd4f1e586c.md` ← `downloads/pages/e8dd4f1e586c.md`
+  - "La conscription dans les départements piémontais de l'Empire français (1800-1810) - Persée" — https://www.persee.fr/doc/mefr_1123-9891_1990_num_102_1_4089
+  - sha256 e8dd4f1e586cfb7fd42830557a9a226dd27f22a321533fe670f8d1769bec1557
+  - cited by [t_40198e] "皮埃蒙特征兵全序列（an VII–1810十一个年级）：在册166,556、réformés 53,740（≈1/3）、实得38,242（=在册23%）；an XI仅500/4,000出发且拿破仑亲…" (fact)
+- `sources/pages/ea9175ba3158.md` ← `downloads/pages/ea9175ba3158.md`
+  - "STUDIES IN THE HISTORY OF TAX LAW" — https://api.pageplace.de/preview/DT0400.9781847313461_A24074261/preview-9781847313461_A24074261.pdf
+  - sha256 ea9175ba3158fdee0167fc5644a821fdf65b27e850155012b407b9af4683c203
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/ead7fbfac794.md` ← `downloads/pages/ead7fbfac794.md`
+  - "Portal da Câmara dos DeputadosCARTA RÉGIA DE 28 DE JANEIRO DE 1808 - Publicação Original - Portal Câmara dos Deputados" — https://www2.camara.leg.br/legin/fed/carreg_sn/anterioresa1824/cartaregia-35757-28-janeiro-1808-539177-publicacaooriginal-37144-pe.html
+  - sha256 ead7fbfac79470ca2485d6eff97d8471e954fcc8ffd8862247124d4c49ad9bd2
+  - cited as `https://www2.camara.leg.br/legin/fed/carreg_sn/anterioresa1824/cartaregia-35757-28-janeiro-1808-539177-publicacaooriginal-37144-pe.html` in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/ecb1c103e4af.md` ← `downloads/pages/ecb1c103e4af.md`
+  - "The French Fleet, 1807-1814; Britain's Problem; and Madison's Opportunity" — https://www.journals.uchicago.edu/doi/10.1086/240080
+  - sha256 ecb1c103e4af86cfd81158843732f2e7989dc204a5c8ae29a9a6889c258ec881
+  - cited as `https://www.journals.uchicago.edu/doi/10.1086/240080` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+  - cited as `https://www.journals.uchicago.edu/doi/10.1086/240080` in `nodes/r_5b1357a9c6/cards/t_24b942/notes_added_20260923.md`
+- `sources/pages/ece470da756a.md` ← `downloads/pages/ece470da756a.md`
+  - "Henri Prentout, L'Ile de France sous Decaen , 1803-1810. Essai sur la Politique coloniale du Premier Empire et la rival…" — https://www.persee.fr/doc/rhmc_0996-2743_1901_num_3_1_4388_t1_0064_0000_3
+  - sha256 ece470da756a6dc7d100cad43b35c863ac56c0f459b215fc87a8cc2bace52cd4
+  - cited in `nodes/r_5b1357a9c6/cards/t_05cc22/notes_prentout_via_kaeppelin.md`
+- `sources/pages/eed9ab647f9a.md` ← `downloads/pages/eed9ab647f9a.md`
+  - "Full text of "With Napoleon In Russia The Memoirs Of General De Caulaincourt Duke Of Vicenza"" — https://archive.org/stream/in.ernet.dli.2015.58850/2015.58850.With-Napoleon-In-Russia-The-Memoirs-Of-General-De-Caulaincourt-Duke-Of-Vicenza_djvu.txt
+  - sha256 eed9ab647f9adcadd66f4085f5c96ac71646dbc836b7d273f3b3b1bb1c83f2dd
+  - cited by [t_08b9e7] "1811年6月5日（圣克卢）Caulaincourt向拿破仑当面复述亚历山大原话：西班牙人屡败而未屈服；俄国有空间与气候；宁退堪察加不签城下之盟；'奇迹只在皇帝亲临处发生，而他不能年复一年离开巴黎'…" (fact) — "If the fighting went against me, I should retire to Kamchatka rather than cede provinces and sign, …"
+  - cited by [t_08b9e7] "1812年10月莫斯科：巴黎至莫斯科信使14-15天，每日约14时抵达；'法国被治理，德意志和波兰感受他思想的推动，如同他在杜伊勒里宫'。单节点治理半径2800公里、决策环路约一个月。" (fact) — "The despatch-case for the Emperor and his headquarters arrived regularly every day from Paris in fi…"
+- `sources/pages/eed9d8bd2a73.md` ← `downloads/pages/eed9d8bd2a73.md`
+  - "The Chartist petition of 1842" — https://committees.parliament.uk/committee/326/petitions-committee/news/99148/the-chartist-petition-of-1842/
+  - sha256 eed9d8bd2a73aae3707b45a6c430237c227998784b46f557362707056d1b793d
+  - cited as `https://committees.parliament.uk/committee/326/petitions-committee/news/99148/the-chartist-petition-of-1842/` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://committees.parliament.uk/committee/326/petitions-committee/news/99148/the-chartist-petition-of-1842/` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_postwar.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_postwar.md`
+- `sources/pages/ef0538cb3aa9.md` ← `downloads/pages/ef0538cb3aa9.md`
+  - "DECLARATION OF THE COURT OF GREAT BRITAIN RESPECTING THE ORDERS IN COUNCIL. (Hansard, 24 April 1812)" — https://api.parliament.uk/historic-hansard/lords/1812/apr/24/declaration-of-the-court-of-great
+  - sha256 ef0538cb3aa973c9a49c07b27434d967195a24e69afa328849a37571e7a8b062
+  - cited by [t_c69786] "1812年6月23日枢密令只对美国船舶及美国财产货物撤销指定命令，并保留合理通知后恢复权，不等于英国全面放弃海权或对法战争。" (fact) — "so far as may regard American vessels, and their cargoes being American property, from the 1st of A…"
+  - cited as `https://api.parliament.uk/historic-hansard/lords/1812/apr/24/declaration-of-the-court-of-great` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://api.parliament.uk/historic-hansard/lords/1812/apr/24/declaration-of-the-court-of-great` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_amiens_orders.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_amiens_orders.md`
+- `sources/pages/ef0a274dde3a.md` ← `downloads/pages/ef0a274dde3a.md`
+  - https://e-archivo.uc3m.es/bitstreams/59818d76-9b1b-435d-80c8-857d7d7efafc/download
+  - sha256 ef0a274dde3ad72db4e000864bd4053eda085ef37df476bdb9ed56e79b3b928c
+  - cited as `https://e-archivo.uc3m.es/bitstreams/59818d76-9b1b-435d-80c8-857d7d7efafc/download` in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/ef6378c5d947.md` ← `downloads/pages/ef6378c5d947.md`
+  - https://repositories.lib.utexas.edu/server/api/core/bitstreams/6929ceec-9158-49b5-a586-eb8c2d2e68b6/content
+  - sha256 ef6378c5d94770ab91fddc8f7cbb072217e80f89c0d15d7e34d68c5e32a934a8
+  - cited in `nodes/r_5b1357a9c6/cards/t_f314c4/SA_south_america.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_f314c4/notes_peru_abascal.md`
+- `sources/pages/efa0bb62bc3b.md` ← `downloads/pages/efa0bb62bc3b.md`
+  - "Napoleon and the Pope: from the Concordat to the Excommunication - napoleon.org" — https://www.napoleon.org/en/history-of-the-two-empires/articles/napoleon-and-the-pope-from-the-concordat-to-the-excommunication/
+  - sha256 efa0bb62bc3b2f1e7378ad6a526df4b46a284fc776531b68543cc684211dc3ba
+  - cited by [t_7c3954] "拿破仑1806年自认教士是当年征兵顺利的主因：教会合作是征兵合规的放大器（转引Melchior-Bonnet, Napoléon et le Pape, p.87）。" (fact) — "Les prêtres catholiques sont d'un grand secours ; ils ont été cause que la conscription de cette an…"
+  - cited by [t_7c3954] "教俗关系是S5政策变量而非结构死结：1809–13升级链条全部由罗马兼并这一政策选择触发（Hicks逐环）；若维持专约均衡，教会回到征兵合规放大器位置（1806引语）；若教皇被囚持续，继承时刻现成正…" (interpretation)
+- `sources/pages/eff6555b7abe.md` ← `downloads/pages/eff6555b7abe.md`
+  - "ARMY ESTIMATES. (Hansard, 4 March 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/mar/04/army-estimates
+  - sha256 eff6555b7abe7fb2869e9b8a519ff0d355b5c55eac91c2c04398b3b6fd96da83
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/f042c1f13d31.md` ← `downloads/pages/f042c1f13d31.md`
+  - "Correspondance de Napoléon Ier - Mars 1811 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-mars-1811/
+  - sha256 f042c1f13d3107b636ebcb03be52cca1921f041a75b7953ee2ceea21232bd252
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-mars-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_quote_ledger.md`
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-mars-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-mars-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-mars-1811/` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/f05f29e8e29a.md` ← `downloads/pages/f05f29e8e29a.md`
+  - "THE PRINCE REGENT'S SPEECH ON OPENING THE SESSION. (Hansard, 30 November 1812)" — https://api.parliament.uk/historic-hansard/commons/1812/nov/30/the-prince-regents-speech-on-opening-the
+  - sha256 f05f29e8e29adfe8176047b65ab84e11ca57ff87381f24a1dce11a5eebe0bd60
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1812/nov/30/the-prince-regents-speech-on-opening-the` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+- `sources/pages/f0bc4536ba86.md` ← `downloads/pages/f0bc4536ba86.md`
+  - "An ‘Unpleasant Dilemma’: The Portsmouth Volunteers and the limits of loyalism, 1803-1805" — https://eprints.whiterose.ac.uk/id/eprint/104015/3/The%20Portsmouth%20Volunteers%201803-1805%20article%20v2.pdf
+  - sha256 f0bc4536ba8607077152dbe33a695e931cedb930011bb02ff3e7b28916a68ba9
+  - cited by [t_b9e29c] "英国在1803–05保持地区保卫、多类服役条件与国外常备部队的制度；征募竞争可挤占正规军兵源，志愿兵接防守备却也能释放正规军，两机制同时成立。" (inference) — "will liberate a very important portion of the regular force"
+  - cited in `nodes/r_5b1357a9c6/cards/t_b9e29c/notes_interface_british.md`
+- `sources/pages/f0fc864b4685.md` ← `downloads/pages/f0fc864b4685.md`
+  - "1806 | History of Parliament Online" — https://www.historyofparliamentonline.org/volume/1790-1820/parliament/1806
+  - sha256 f0fc864b46851f9a84c5b9f847921a312340fcafafa8ee75b7ce7df97b5db337
+  - cited by [t_c69786] "1806 Talents获得选举多数仍因国王要求对天主教问题作终身不再提出的保证而倒阁，表明和平派多数与可持续执政不是同一门槛。" (fact) — "When the king demanded a pledge that the ministers, some of whom wished to make further concessions…"
+  - cited as `https://www.historyofparliamentonline.org/volume/1790-1820/parliament/1806` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.historyofparliamentonline.org/volume/1790-1820/parliament/1806` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+- `sources/pages/f15921073a36.md` ← `downloads/pages/f15921073a36.md`
+  - "L’esprit public dans le Sud-Ouest et l’entrée des Anglais à Bordeaux (1814) - Persée" — https://www.persee.fr/doc/rhbg_0242-6838_1914_num_7_4_2946
+  - sha256 f15921073a3673709bc295527963441d3a483d0b44ebb05a09fd72e3b9fcff98
+  - cited by [t_7c3954] "波尔多1814-03-12：市长Lynch串通王党秘密网络，在Beresford仅6,000人（部分葡军）抵近时撕5勋章升白旗；国民卫队无首未抗；Soult判词‘使全体人口蒙羞’；Wellingto…" (fact) — "C'est contre mon avis et ma manière de voir…que certaines personnes de la ville de Bordeaux ont jug…"
+- `sources/pages/f1e37b9d69b9.md` ← `downloads/pages/f1e37b9d69b9.md`
+  - "La conscription sous le Premier Empire - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/la-conscription-sous-le-premier-empire/
+  - sha256 f1e37b9d69b955719d9dddbd1dcade830ab5f86d15b5d2c2f0aae25063404712
+  - cited by [t_7c3954] "1812-09-01至1813-11-20十五个月内法国征召1,527,000人；1813年五道元老院令合计约114万；帝国全期表列征召总额2,432,335。" (fact) — "Du 1er septembre 1812 au 20 novembre 1813, 1 527 000 hommes avaient été appelés en quinze mois."
+- `sources/pages/f27bcba14de3.md` ← `downloads/pages/f27bcba14de3.md`
+  - "History of Dymchurch Martello Tower | English Heritage" — https://www.english-heritage.org.uk/visit/places/dymchurch-martello-tower/history/
+  - sha256 f27bcba14de3484d4a011dd1fba76c0dfc0c9668b81eebddb35cbe47585c4739
+  - cited by [t_b9e29c] "英格兰南岸74座Martello塔主要1805–1808建成，东岸29座为1809–1812；1803–04不能赋予成熟塔链的阻滞能力。" (fact) — "Work on the south coast towers began early in 1805"
+- `sources/pages/f2fd5147bb31.md` ← `downloads/pages/f2fd5147bb31.md`
+  - "French ship Ulm (1809)" — https://en.wikipedia.org/wiki/French_ship_Ulm_(1809)
+  - sha256 f2fd5147bb31fdb10a4f25f9a5498262cd9fcd8a2de5e4e86a4fb5b5ecc945b7
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+- `sources/pages/f2ff213786db.md` ← `downloads/pages/f2ff213786db.md`
+  - "Jeu de données | Taux d'intérêt en France 1800-2015 | ID: 1v53jx639 | Didόmena" — https://didomena.ehess.fr/concern/data_sets/1v53jx639?locale=fr
+  - sha256 f2ff213786db376a2d4182aef76210edb988d3bd93594361439c61402250ef53
+  - cited as `https://didomena.ehess.fr/concern/data_sets/1v53jx639?locale=fr` in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+- `sources/pages/f4388af7a51c.md` ← `downloads/pages/f4388af7a51c.md`
+  - "Guineas and Gunpowder" — https://doi.org/10.4159/harvard.9780674433366
+  - sha256 f4388af7a51c258537871872ae9d7225936593e04f4e4f3923175f2aec981a43
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/pages/f4d2943372ac.md` ← `downloads/pages/f4d2943372ac.md`
+  - "The Costs of “Westernization” in Russia: The Gentry and the Economy in the Eighteenth Century | Slavic Review | Cambrid…" — https://www.cambridge.org/core/journals/slavic-review/article/abs/costs-of-westernization-in-russia-the-gentry-and-the-economy-in-the-eighteenth-century/84A8326FA5F558B3CBEF5C8DDF48F137
+  - sha256 f4d2943372ac24f414069d5142b7f72782b222b79fdbecdeccf01773c32b602f
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/f5489f0cfd06.md` ← `downloads/pages/f5489f0cfd06.md`
+  - "L’Acte additionnel aux constitutions de l’Empire. Héritage et cadeau empoisonné de la Restauration - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/lacte-additionnel-aux-constitutions-de-lempire-heritage-et-cadeau-empoisonne-de-la-restauration/
+  - sha256 f5489f0cfd061449faab2318591864b3f29c451b65dd37d0ddd37c94ff44c57b
+  - cited by [t_7c3954] "1814年4月4日元帅逼宫（Ney、Lefebvre、Macdonald、Moncey）与4–5日Marmont第六军倒戈：后者使有条件退位（传子+摄政）的谈判筹码消失，‘不会再有摄政也不会再有帝国…" (fact) — "Il n'y aurait ni régence, ni succession impériale"
+- `sources/pages/f5a0d0005f56.md` ← `downloads/pages/f5a0d0005f56.md`
+  - "Prices | 5% CONS. jouiss. du 22 mars | Securities | DFIH" — https://dfih.fr/securities/68/prices
+  - sha256 f5a0d0005f563834278b5944328f711a415a714f2a0360a9942c7fe1c8675407
+  - cited as `https://dfih.fr/securities/68/prices` in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`
+- `sources/pages/f64010c80a00.md` ← `downloads/pages/f64010c80a00.md`
+  - "Surrender of the Dutch Fleet to Vice Admiral Sir Andrew Mitchell K.B. this Plate representing his taking Possession of …" — https://www.rmg.co.uk/collections/objects/rmgc-object-156352
+  - sha256 f64010c80a001a1cdd5496bce89f173fff698917e2f81a4560fd24d0231d0204
+  - cited in `nodes/r_5b1357a9c6/cards/t_ccdcc8/NL_netherlands_switzerland.md`
+- `sources/pages/f70462842c06.md` ← `downloads/pages/f70462842c06.md`
+  - "Издан указ об обязанных крестьянах | Президентская библиотека имени Б.Н. Ельцина" — https://www.prlib.ru/history/1874457
+  - sha256 f70462842c06a3eff4f38b46bc19152185fa61628424062890963739a26272ce
+  - cited as `https://www.prlib.ru/history/1874457` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/f81b516f33c4.md` ← `downloads/pages/f81b516f33c4.md`
+  - "Mes souvenirs sur Napoléon/Texte entier - Wikisource" — https://fr.wikisource.org/wiki/Mes_souvenirs_sur_Napol%C3%A9on/Texte_entier
+  - sha256 f81b516f33c472bf2439a7780583ce9f3fae564ef9641c7818b4c028f7042c0a
+  - cited in `nodes/r_5b1357a9c6/cards/t_08b9e7/F1_napoleon_center.md`
+- `sources/pages/f8a4fd8bfe1b.md` ← `downloads/pages/f8a4fd8bfe1b.md`
+  - "Chronologie de la Correspondance générale de Napoléon Bonaparte, tome 12 : La campagne de Russie. 1812 - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/chronologies/chronologie-de-la-correspondance-generale-de-napoleon-bonaparte-tome-12-la-campagne-de-russie-1812/
+  - sha256 f8a4fd8bfe1bd76337662c9079dd8ec17a003bda1bac1a8ceb9834e0c79b11ab
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/chronologies/chronologie-de-la-correspondance-generale-de-napoleon-bonaparte-tome-12-la-campagne-de-russie-1812/` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/chronologies/chronologie-de-la-correspondance-generale-de-napoleon-bonaparte-tome-12-la-campagne-de-russie-1812/` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_1812_check.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_1812_check.md`
+- `sources/pages/f8bbb3026c57.md` ← `downloads/pages/f8bbb3026c57.md`
+  - "Le blocus continental – Association pour l’Histoire de l’Administration des Douanes" — https://histoire-de-la-douane.org/le-blocus-continental/
+  - sha256 f8bbb3026c57abaad8280fc97527c6c30599c3a17278c49e65e9a209b05e0f3d
+  - cited in `nodes/r_5b1357a9c6/cards/t_6f3beb/X2_continental_system_machine.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_6f3beb/notes_enforcement_machine.md`
+- `sources/pages/f95185d0f2c6.md` ← `downloads/pages/f95185d0f2c6.md`
+  - "В России открыта Царскосельская железная дорога | Президентская библиотека имени Б.Н. Ельцина" — https://www.prlib.ru/history/619711
+  - sha256 f95185d0f2c607e212ba174d9e8fea54c6ba4168f5e43fbcf661eebbf5333beb
+  - cited as `https://www.prlib.ru/history/619711` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/f9cd3d2a363a.md` ← `downloads/pages/f9cd3d2a363a.md`
+  - "Statut constitutionnel du 16 février 1806 - Wikisource" — https://fr.wikisource.org/wiki/Statut_constitutionnel_du_16_f%C3%A9vrier_1806
+  - sha256 f9cd3d2a363a98bf3826038f60a9a93c61edc862ba286ba271092688f7222497
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_eaa841/raw_yeartables.md`
+- `sources/pages/f9f391a5effc.md` ← `downloads/pages/f9f391a5effc.md`
+  - "Du système des classes à l'inscription maritime - Persée" — https://www.persee.fr/doc/rharm_0035-3299_1982_num_147_2_7111
+  - sha256 f9f391a5effcd3e8976e4699d580003e8ca58e2b971d36a99bba83007f2576ce
+  - cited by [t_b1a536] "法国1825年海事登记94,611人，其中73,053为军士、水手、见习水手及少年；此数是登记职业池，不是海军在役或全熟练池。" (fact) — "94 611 inscrits dont 73 053 officiers mariniers, matelots novices et mousses"
+  - cited as `https://www.persee.fr/doc/rharm_0035-3299_1982_num_147_2_7111` in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_quote_ledger.md`
+  - cited as `https://www.persee.fr/doc/rharm_0035-3299_1982_num_147_2_7111` in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`
+- `sources/pages/f9fa0ab15c1b.md` ← `downloads/pages/f9fa0ab15c1b.md`
+  - "Le « déclin » du système esclavagiste britannique et l'abolition de la traite - Persée" — https://www.persee.fr/doc/ahess_0395-2649_1976_num_31_2_293724
+  - sha256 f9fa0ab15c1bfb2c334ca1c7eeae28d6bb8b5f0b9664b162d40190e03489d9d9
+  - cited as `https://www.persee.fr/doc/ahess_0395-2649_1976_num_31_2_293724` in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`
+- `sources/pages/fcdc56f810a6.md` ← `downloads/pages/fcdc56f810a6.md`
+  - "Emancipation - UK Parliament" — https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/religion/overview/emancipation/
+  - sha256 fcdc56f810a6cc41eba9b949f3a1f9dac54f37c767dec872889c3f64c7803f6c
+  - cited as `https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/religion/overview/emancipation/` in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited as `https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/religion/overview/emancipation/` in `nodes/r_5b1357a9c6/cards/t_c69786/notes_ireland_press.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_ireland_press.md`
+- `sources/pages/fcff28bd1292.md` ← `downloads/pages/fcff28bd1292.md`
+  - "GARDANE MISSION - Encyclopaedia Iranica" — https://www.iranicaonline.org/articles/gardane-mission/
+  - sha256 fcff28bd12922b7178c578129a438d867196d08b128f62ad954574a78070e425
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/PS_persia_afghanistan_punjab.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/notes_local_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/sec3_envelope_reactions.md`
+- `sources/pages/fd9e8c2c044d.md` ← `downloads/pages/fd9e8c2c044d.md`
+  - "Grands traités politiques" — https://mjp.univ-perp.fr/traites/1815sainte.htm
+  - sha256 fd9e8c2c044d1b35d4ff60ef81bca3ac9a39911eb92ef310e4535b7a0ebf86e8
+  - cited in `nodes/r_5b1357a9c6/cards/t_91cbee/R1_russia_court.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_eaa841/raw_yeartables.md`
+- `sources/pages/fdd97c5429ee.md` ← `downloads/pages/fdd97c5429ee.md`
+  - "GOLESTĀN TREATY - Encyclopaedia Iranica" — https://www.iranicaonline.org/articles/golestan-treaty
+  - sha256 fdd97c5429eebb4df1824f6691ef456ab369411dbf36e6f98fa0dfdaac15fa5a
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/PS_persia_afghanistan_punjab.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/notes_persia.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/sec1_head_persia.md`
+- `sources/pages/fece444af077.md` ← `downloads/pages/fece444af077.md`
+  - "La gendarmerie du Consulat et de l’Empire - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/la-gendarmerie-du-consulat-et-de-lempire/
+  - sha256 fece444af077cb587d0a577db18c09323b6f48f9531bcfd5d6486048545304a2
+  - cited by [t_c98c24] "1813合计30,600包括领土宪兵、军中宪兵、海事、精锐、巴黎、西班牙等专种，不能拿来作为1812新省治安可自由拨付库。" (fact) — "À côté de cette force « territoriale » ou prévôtale ... plusieurs forces spécialisées ... Les effec…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_c98c24/notes_primary_2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c98c24/phase_design.md`
+- `sources/pages/ff15a0e6a320.md` ← `downloads/pages/ff15a0e6a320.md`
+  - "Treaty of Friendship and Alliance" — https://www.roots.gov.sg/en/stories-landing/stories/the-singapore-story-through-60-objects/colonial/treaty-of-friendship-and-alliance/story
+  - sha256 ff15a0e6a320a1adc9b588be791a27cd5342885d0eaeb50eff6c707521ef1531
+  - cited as `https://www.roots.gov.sg/en/stories-landing/stories/the-singapore-story-through-60-objects/colonial/treaty-of-friendship-and-alliance/story` in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_addenda.md`
+- `sources/pages/ff744d3eea74.md` ← `downloads/pages/ff744d3eea74.md`
+  - "Treaty between France and Russia, Tilsit, 7 July, 1807 - napoleon.org" — https://www.napoleon.org/en/history-of-the-two-empires/articles/treaty-between-france-and-russia-tilsit-7-july-1807/
+  - sha256 ff744d3eea741f3a216aa05d860e7f8aed99177d336ef0633b636bc115aaee71
+  - cited in `nodes/r_5b1357a9c6/cards/t_91cbee/R1_russia_court.md`
+- `sources/t_02f417/E1_ecology_population_resources.md` ← `nodes/r_5b1357a9c6/cards/t_02f417/E1_ecology_population_resources.md`
+  - "[t_02f417] nodes/r_5b1357a9c6/cards/t_02f417/E1_ecology_population_resources.md"
+  - sha256 a4559a04ea753fcd6573262463979d27e66b707cfd8263d88eca76027f37da32
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_race_1815_1830.md`
+- `sources/t_044211/B2_britain_fiscal.md` ← `nodes/r_5b1357a9c6/cards/t_044211/B2_britain_fiscal.md`
+  - "[t_c69786] nodes/r_5b1357a9c6/cards/t_044211/B2_britain_fiscal.md"
+  - sha256 258c4b9b3d88429e5b9ddb8ef8b006572579441f48df4f78332dc921d37ea161
+  - cited by [t_044211] "S3适应封锁基准立即调整至G39时1848债息/收入51.6%；首年仍沿历史G57.2、1–2年度阶梯减支后，60%探针在1847/1844触及。该修正影响1840年代续战压力，不把阈值当违约。" (inference)
+  - cited by [t_044211] "严格封锁须叠加税收持续55–60m、非息支出48–50m、新贷6–7%、零税基增长，才在本卡模型产生1817–27的强调整压力窗；不是违约或必然媾和日期。" (inference)
+  - cited by [t_c69786] "采用B2较新模型：政府/账簿/税网保全时数周至两季度清算危机、6–18月重建。B1之1–3月是持续军事压力、无迅速恢复路径和有限条款汇合的政治议价区间；若可信支付/基地仍在，则3–6月首战季续战与之…" (inference)
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_capacity_update.md`
+- `sources/t_044211/B2_model.py` ← `nodes/r_5b1357a9c6/cards/t_044211/B2_model.py`
+  - sha256 55b8ec8705b21595b0b5a1ddcd100f7dbc2fbb42cbb75528215ccc94944f944c
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/B2_britain_fiscal.md`
+- `sources/t_044211/B2_model_assumptions.json` ← `nodes/r_5b1357a9c6/cards/t_044211/B2_model_assumptions.json`
+  - "[t_044211] nodes/r_5b1357a9c6/cards/t_044211/B2_model_assumptions.json"
+  - sha256 875f6a83791fb65ea7c663bdc35396a8094f88616f38bd0f4e10ecde96790ffb
+  - cited by [t_044211] "在1810基线票息24.4m、持续收入55–60m、非息支出48–50m、新借成本6–7%且零名义税基增长的模型中，债息/收入60%探针在1817–1823触及，70%探针在1820–1827触及；…" (inference)
+  - cited by [t_044211] "含1–2年减支过渡的S2模型在1830给债务代理约690–902m、1848约645–1080m；截至1848均不越60%债息/收入探针，但债务不保证比史实更低。" (inference)
+- `sources/t_044211/B2_series.csv` ← `nodes/r_5b1357a9c6/cards/t_044211/B2_series.csv`
+  - "[t_044211] nodes/r_5b1357a9c6/cards/t_044211/B2_series.csv"
+  - sha256 9471f96d88da8acc8e549255a93725001efdfedadb4df5777e70b9a402feec30
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+- `sources/t_044211/BW_table2.png` ← `nodes/r_5b1357a9c6/cards/t_044211/BW_table2.png`
+  - sha256 dc8f47b0bb6e3cab6bba4faf134aaa249c9194395b8996490e648ce5565b5467
+  - cited by [t_044211] "Bordo–White NBER WP3517(1990)表2印刷p51：1810、1811净收入约68.39m、66.53m，债务负担23.40m、23.86m；数据来源Gayer–Rostow–…" (fact)
+- `sources/t_044211/BW_table3_1810.png` ← `nodes/r_5b1357a9c6/cards/t_044211/BW_table3_1810.png`
+  - sha256 b8ac13e680bab3aaedab79a015bcb62360096ee5b38feec492e76e3c32e272e9
+  - cited by [t_044211] "Bordo–White工作稿表3的1810纸币先前22.32精确抄值有邻年错位风险，已撤回为约22–23m；未入主CSV，其与BoE严格2月底20.120486m的时点差仍待Mitchell–Dea…" (fact)
+- `sources/t_044211/BoE_selected_cached_values.xlsx` ← `nodes/r_5b1357a9c6/cards/t_044211/BoE_selected_cached_values.xlsx`
+  - "[t_044211] nodes/r_5b1357a9c6/cards/t_044211/BoE_selected_cached_values.xlsx"
+  - sha256 7d4c0cab00b73a7511bf930eeea46a99940a06f3511abdca4d514f419459fab1
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`
+  - cited by [t_044211] "BoE A31年平均consol收益率：1810为4.40854%，1811为4.67417%；1797、1798为5.90660%、5.93145%。1811融资恶化存在但低于1797–98已历危…" (fact) — "A31. Interest rates & asset ps !T117:T118; T130:T131"
+  - cited by [t_044211] "BoE A27英国1801后UK中央政府总收入1810 £73.0m、1811 £71.0m，利息24.4m、24.6m；年度系列并未出现收入断崖或债息挤满总收入。" (fact) — "A27. Central govt borrowing !H134:H135,N134:N135"
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_race_1815_1830.md`
+- `sources/t_044211/build_B2_series.py` ← `nodes/r_5b1357a9c6/cards/t_044211/build_B2_series.py`
+  - sha256 acea148b0d116eb2ea3ec715dd89241905791824947665ad758a7e4b05f563c4
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/B2_britain_fiscal.md`
+- `sources/t_05cc22/IN2_indian_states_french_indian_ocean.md` ← `nodes/r_5b1357a9c6/cards/t_05cc22/IN2_indian_states_french_indian_ocean.md`
+  - "[t_05cc22] nodes/r_5b1357a9c6/cards/t_05cc22/IN2_indian_states_french_indian_ocean.md"
+  - sha256 7a6d362ceb3b50d3cbb1daa8af0075fd20d5601d035f5f9f7e3b6cb12f17c65f
+  - cited by [t_05cc22] "结论：印度对法国霸权的最优用法是威胁在场+商站法权+军官输出国家化而非夺取；夺印四闸门（出港×中继×季风窗×岁入基地）1803–15从未同开；收回商站终局谱系：非武装归还（1814/15实局）→武装…" (interpretation)
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_bands.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_tree.md`
+- `sources/t_05cc22/notes_states_sikh_burma_nepal_hyd_gulf.md` ← `nodes/r_5b1357a9c6/cards/t_05cc22/notes_states_sikh_burma_nepal_hyd_gulf.md`
+  - "[t_05cc22] nodes/r_5b1357a9c6/cards/t_05cc22/notes_states_sikh_burma_nepal_hyd_gulf.md"
+  - sha256 4cb3b9d4bf70008af11e53cd3bf6fefe913d262b462b2b4fed050dcf952b1394
+  - cited by [t_05cc22] "路径C（军官-军械输出）机制已被历史验证：拿破仑老兵Allard/Ventura 1822年经波斯入拉合尔建Fauj-i-Khas（1825年5–6千人，法语口令、三色旗配鹰徽）；英国反制实例：以对…" (fact)
+- `sources/t_08b9e7/F1_napoleon_center.md` ← `nodes/r_5b1357a9c6/cards/t_08b9e7/F1_napoleon_center.md`
+  - "[t_08b9e7] nodes/r_5b1357a9c6/cards/t_08b9e7/F1_napoleon_center.md"
+  - sha256 7f76c38bc21a32215129e386cbcac82fa1714252bc09a7d403bc4ae1652d7291
+  - cited by [t_08b9e7] "克制先验的结构性结论：1801专约/1802亚眠/1810许可证/1810奥婚四个可变实例共享三特征——工具性、单边裁量保留（组织条款/停战化用法/亲签可废/不改备战）、不承认对等约束；凡克制意味交…" (inference)
+  - cited by [t_08b9e7] "健康寿限带（胜利情景）：死因重建为散发型胃癌≥T3N1M0（H. pylori慢性溃疡路径，非显性家族遗传倾向）；家族长寿（母85、四兄弟65–76）托高非胃癌基线；中位死亡1826–1835，P(…" (interpretation) — "Napoleon's main risk factor might have been Helicobacter pylori infection rather than a familial pr…"
+- `sources/t_0a8308/M1_conditional_probability_stress.csv` ← `nodes/r_5b1357a9c6/cards/t_0a8308/M1_conditional_probability_stress.csv`
+  - "[t_0a8308] nodes/r_5b1357a9c6/cards/t_0a8308/M1_conditional_probability_stress.csv"
+  - sha256 3c8db742141f3bcb1445a1f833976cd73814fb0e27f12f10752107cb25dfb22f
+  - cited by [t_0a8308] "完成有条件概率压力而否定伪精度：Tilsit英坏状态二态后验10.9–40.8%仅在主观先验10–30%、支付差20–60%、事件归因25–100%的显式模型下；莱比锡法公债减损20.5–92.9%…" (inference) — "binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified"
+- `sources/t_0a8308/M1_event_windows.csv` ← `nodes/r_5b1357a9c6/cards/t_0a8308/M1_event_windows.csv`
+  - "[t_0a8308] nodes/r_5b1357a9c6/cards/t_0a8308/M1_event_windows.csv"
+  - sha256 840486f8c48a460746605b7720c932af4dd08b4d55879e3738fee5038648dc46
+  - cited by [t_0a8308] "BoE/Neal月末英国3% consol与Vaslin→Monnet月度法国5% rente，在统一1803–15宽两月窗，1807提尔西特英proxy价−2.15%、法+12.38%，1808埃…" (inference)
+  - cited by [t_0a8308] "1807-06→08英债理论价−2.1526%、法债+12.3782%；英国相对安慰剂绝对值第47.4百分位，法约95.9，支持大陆胜利大幅改善法国债估值而未迫英国即时信用崩溃。" (inference) — "tilsit,1807-07"
+  - cited by [t_0a8308] "1812-05→07侵俄粗窗英国债理论价跌7.551%，绝对变动在未预设事件对照约94.8百分位，且美英战争及英国军费冲击并发，不能单归俄战也不能断言英债对大陆危机均钝感。" (inference) — "russian_invasion,1812-06"
+- `sources/t_0a8308/M1_market_expectations.md` ← `nodes/r_5b1357a9c6/cards/t_0a8308/M1_market_expectations.md`
+  - "[t_0a8308] nodes/r_5b1357a9c6/cards/t_0a8308/M1_market_expectations.md"
+  - sha256 8b8228772a2ad5c3f380183af3a3ad9eecaa0d42d4a45d20506c37991ceae96e
+  - cited by [t_0a8308] "1814-03→05英国consol理论价+7.5697%、法国rente+17.7145%；拿破仑退位之际法国国家债券涨价，直接削弱债价为王朝存续赔率的强映射。" (inference) — "巴黎陷落/退位，1814年3→5月 | **+7.57**（−33.64bp；英95百分位） | **+17.71**（−149.64bp"
+- `sources/t_0bb54c/IN1_east_india_company.md` ← `nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company.md`
+  - "[t_0bb54c] nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company.md"
+  - sha256 ebcc69916d260a349ac2c835080a6805b3339d7b7ad490a4e9e67715d529124d
+  - cited by [t_0bb54c] "双侧脆弱性定理（本卡提炼的机制）：英属印度军队的政治稳定受两个相反方向的力量夹击——增派国王军团则公司欧籍军官晋升空间被挤压（1809实测），减少欧籍骨干而扩编土著兵则土著兵变风险上升（1806实测…" (interpretation)
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_bands.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_tree.md`
+- `sources/t_0fed70/B6_british_overseas_empire.md` ← `nodes/r_5b1357a9c6/cards/t_0fed70/B6_british_overseas_empire.md`
+  - "[t_0fed70] nodes/r_5b1357a9c6/cards/t_0fed70/B6_british_overseas_empire.md"
+  - sha256 ce387ed86942e53ac684557833fd8917191dc4afc674bd2d7fb353fd1053d014
+  - cited by [t_0fed70] "主线取法国欧洲霸权与英国港链帝国并存；S2比持续绞杀更可能诱使英国减少大陆干预。帝国经济收益、中央净财政和战略节点价值三者不应互相替代。" (inference)
+  - cited by [t_0fed70] "最终主线是本土支付与海军存续条件下，英国保核心港链、差异化正式帝国及外国市场；法国大陆优势与英国海外续存可并存。亚眠型逐项交换、港权与主权分离，比逼英国同时交舰/交殖地/弃市场更利长期秩序。" (inference)
+- `sources/t_0fed70/baseline_sensitivity.csv` ← `nodes/r_5b1357a9c6/cards/t_0fed70/baseline_sensitivity.csv`
+  - "[t_0fed70] nodes/r_5b1357a9c6/cards/t_0fed70/baseline_sensitivity.csv"
+  - sha256 a3200799ddc1ba318b06075fe36f312eefa671158e6b0c0ef0ca75da8cf1fca8
+  - cited by [t_0fed70] "以1805为基年，1808–10三年其余美洲本產出口增量连续超过北欧及北欧加西葡的下降。原宽反证触发，蓝水韧性上调；正式殖民地分项和货款未知限制的是更强的闭合自足命题，不撤销宽反证。" (inference)
+- `sources/t_0fed70/calculate_bounds.py` ← `nodes/r_5b1357a9c6/cards/t_0fed70/calculate_bounds.py`
+  - sha256 429b3f6d287d878b27ce8e2f2556d6fb1c697174140454afc723306e11571f13
+  - cited in `nodes/r_5b1357a9c6/cards/t_0fed70/VALIDATION.md`
+- `sources/t_0fed70/notes_fiscal.md` ← `nodes/r_5b1357a9c6/cards/t_0fed70/notes_fiscal.md`
+  - "[t_0fed70] nodes/r_5b1357a9c6/cards/t_0fed70/notes_fiscal.md"
+  - sha256 166bf869ef1cfcc41b013b4584c15cafa0160e4e92ebc82a1d571340985b915a
+  - cited by [t_0fed70] "蓝水转向能保存国家、贸易与海上威慑，但殖民扩张短期更可能增加补贴和军费需求，不能单凭占领港口推断债务偿付能力增强。" (inference)
+- `sources/t_0fed70/scenario_ranges.csv` ← `nodes/r_5b1357a9c6/cards/t_0fed70/scenario_ranges.csv`
+  - "[t_0fed70] nodes/r_5b1357a9c6/cards/t_0fed70/scenario_ranges.csv"
+  - sha256 6fcf9e6a9307f1398b7123df5caf92222325af05f8593167aef3628c8404328a
+  - cited by [t_0fed70] "主线S2→S5的1848非印度驻军35–50k、殖民中央支出3.4–5.4m/年为围绕1848演说参照的裁量包络，不是数据估计；支出含海军分摊，与B2/B3不可再相加。" (inference)
+- `sources/t_0fed70/trade_bounds.csv` ← `nodes/r_5b1357a9c6/cards/t_0fed70/trade_bounds.csv`
+  - "[t_0fed70] nodes/r_5b1357a9c6/cards/t_0fed70/trade_bounds.csv"
+  - sha256 9cd9c2cd0278381cc344fe5c165625980dee27a3182cf8b8ccbd4bc9aeab9a54
+  - cited by [t_0fed70] "以1806申报值为基年，1808其余美洲本产出口增5.71m，北欧含法降5.41m，抵补1.055；对北欧加西葡降5.85m抵补0.976；1811其余美洲仅增1.06m对北欧降6.07m，美国另降…" (fact)
+- `sources/t_0fed70/trade_sensitivity.csv` ← `nodes/r_5b1357a9c6/cards/t_0fed70/trade_sensitivity.csv`
+  - "[t_0fed70] nodes/r_5b1357a9c6/cards/t_0fed70/trade_sensitivity.csv"
+  - sha256 9bb7c2d5892e3b7b7996d04890cb2eda660359e2fd583d1a3fb057f5687b4bc0
+  - cited by [t_0fed70] "正式殖民地的抵补份额未知，不能将其余美洲直接同名；1808若要由该增量的正式帝国部分覆盖北欧损失，至少需94.7%增量属正式帝国；加入西葡则需102.5%，在其他成分非负的份额假设下不成立。该份额约…" (inference)
+- `sources/t_1f7db4/Q2_calculations.csv` ← `nodes/r_5b1357a9c6/cards/t_1f7db4/Q2_calculations.csv`
+  - "[t_1f7db4] nodes/r_5b1357a9c6/cards/t_1f7db4/Q2_calculations.csv"
+  - sha256 21cdd5e0a664c98d23625598ebb3fef20dc7b0a3f0b9cafec3ad59a880e2404d
+  - cited by [t_1f7db4] "同源复算：莱茵逃兵下降10.25pp、阿尔萨斯下降9.66pp，两者变化差仅−0.59pp；不可把共同下降全归兼并整合。" (inference)
+- `sources/t_1f7db4/Q2_integration_panel.md` ← `nodes/r_5b1357a9c6/cards/t_1f7db4/Q2_integration_panel.md`
+  - "[t_1f7db4] nodes/r_5b1357a9c6/cards/t_1f7db4/Q2_integration_panel.md"
+  - sha256 d8db9ea032053d53915985176222949c77f839f9d4d2d5ae797d404d5aabc9cd
+  - cited by [t_1f7db4] "主线为有限直接核心加藩属军政分担；并省收益必须相对于既有藩属贡献作增量比较，并同时扣除新增驻军和承接财政义务。" (inference)
+- `sources/t_1f7db4/Q2_model_summary.csv` ← `nodes/r_5b1357a9c6/cards/t_1f7db4/Q2_model_summary.csv`
+  - "[t_1f7db4] nodes/r_5b1357a9c6/cards/t_1f7db4/Q2_model_summary.csv"
+  - sha256 11bd804d18e3988894938f9303054522387ecaf20fe43a1dc085487bccdf0fc2
+  - cited by [t_1f7db4] "给定五年含训练、年留存0.90、可部署率0.80，每百万人第10年净可用兵模型L−38至5318、M−7102至2190、H−26729至−6034；参数包络不是统计预测或概率。" (inference)
+  - cited by [t_1f7db4] "五年总役期含一年训练的条件模型，第10年每百万人净兵为L −0.04至+5.32千、M −7.10至+2.19千、H −26.73至−6.03千；仅是参数包络，不能读作国家预测或成功概率。" (inference)
+- `sources/t_1f7db4/Q2_run_log.txt` ← `nodes/r_5b1357a9c6/cards/t_1f7db4/Q2_run_log.txt`
+  - "[t_1f7db4] nodes/r_5b1357a9c6/cards/t_1f7db4/Q2_run_log.txt"
+  - sha256 ed81fbb57a3319b2cca4c939aa51fcfc02a682487554f52dd9bc85ee220505ac
+  - cited in `nodes/r_5b1357a9c6/cards/t_1f7db4/Q2_integration_panel.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_1f7db4/report_part2.md`
+- `sources/t_1f7db4/analyze_q2.py` ← `nodes/r_5b1357a9c6/cards/t_1f7db4/analyze_q2.py`
+  - sha256 298e21a014fbf7fa53e09137ef4f9da50989ab25041ff65f7fd2c4c2d60a3e6b
+  - cited in `nodes/r_5b1357a9c6/cards/t_1f7db4/Q2_integration_panel.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_1f7db4/report_part2.md`
+- `sources/t_1f7db4/build_panel.py` ← `nodes/r_5b1357a9c6/cards/t_1f7db4/build_panel.py`
+  - sha256 2ed0833d4ac708dc1e618e2813f166ce008f5e3c3e92722203c03efaa899d24e
+  - cited in `nodes/r_5b1357a9c6/cards/t_1f7db4/Q2_integration_panel.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_1f7db4/report_part2.md`
+- `sources/t_1f7db4/finalize_q2.py` ← `nodes/r_5b1357a9c6/cards/t_1f7db4/finalize_q2.py`
+  - sha256 7dd33170e869beed5e860799d66322281d2ef80523c2746f92a25511293de1dc
+  - cited in `nodes/r_5b1357a9c6/cards/t_1f7db4/Q2_integration_panel.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_1f7db4/report_part2.md`
+- `sources/t_1f7db4/notes_rowe_grab.md` ← `nodes/r_5b1357a9c6/cards/t_1f7db4/notes_rowe_grab.md`
+  - "[t_1f7db4] nodes/r_5b1357a9c6/cards/t_1f7db4/notes_rowe_grab.md"
+  - sha256 7d81ee67d4715312c909859fa417cf344af19398ee622ccdf9e784e633a1eb14
+  - cited by [t_1f7db4] "同源两期比较出现指标反转：1806–10莱茵征前逃避33.65%高于阿尔萨斯17.12%，入伍后逃亡3.00%却低于13.23%；单一整合指数会掩盖选择、替身与阶段差异。" (fact)
+- `sources/t_1f7db4/report_part2.md` ← `nodes/r_5b1357a9c6/cards/t_1f7db4/report_part2.md`
+  - "[t_1f7db4] nodes/r_5b1357a9c6/cards/t_1f7db4/report_part2.md"
+  - sha256 4aa69610b32282c19e80049fee1b20f8bb42e08af4a9cfb3bc76ed907ef61995
+  - cited by [t_1f7db4] "主线为保留B层贡献并选择性并合；A层资源收益须减去原来B层已提供的兵和钱，不能重复计入。" (inference)
+- `sources/t_219822/PT_portugal_brazil.md` ← `nodes/r_5b1357a9c6/cards/t_219822/PT_portugal_brazil.md`
+  - "[t_219822] nodes/r_5b1357a9c6/cards/t_219822/PT_portugal_brazil.md"
+  - sha256 4b8b7c534e730d8ca3803e0e1d5c235e1dc0de51221d394d078c8012beeac481
+  - cited by [t_219822] "主线判定：葡萄牙是拿破仑体系里占得住壳拿不到瓤的极端案例；帝国的瓤（王朝、舰队、8千万克鲁扎多、巴西、贸易网）1807-11-29一日出海；法国最优策略是维持1803–06付费中立而非入侵——半岛战…" (interpretation)
+  - cited by [t_219822] "枫丹白露可执行性：地面四周内可执行（三支西班牙师实占指定区）、目标不可达（标的物提前48小时出海）、结构自败（法国自己三个月后单方废约改索埃布罗以北）；对P2的结构教训：领土瓜分对首都可搬到另一半球…" (interpretation)
+  - cited by [t_219822] "S5下巴西走向：里约帝国入英圈成美洲第二大国，葡本土成法制西端不稳藩属，葡语世界永久分流；法制里斯本的"1820"更像1817 Gomes Freire放大版而非成功立宪革命，因革命者失去"合法且可…" (inference)
+  - cited in `nodes/r_5b1357a9c6/cards/t_eaa841/raw_yeartables.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_f314c4/SA_south_america.md`
+- `sources/t_24b942/P4_annual.csv` ← `nodes/r_5b1357a9c6/cards/t_24b942/P4_annual.csv`
+  - "[t_24b942] nodes/r_5b1357a9c6/cards/t_24b942/P4_annual.csv"
+  - sha256 e8f1b5cb580b0de5bbf1ee0f5916c3b23ee7b1a68c48b1e4a75399ed6cd92cbb
+  - cited by [t_24b942] "反事实和平分支1830中档英国常备约74.1千、法129千，但法195mƒ仅模型承诺底数，P扩编资源可行性须由F4帐与造修实费检验。" (inference)
+- `sources/t_24b942/P4_four_snapshots.csv` ← `nodes/r_5b1357a9c6/cards/t_24b942/P4_four_snapshots.csv`
+  - "[t_24b942] nodes/r_5b1357a9c6/cards/t_24b942/P4_four_snapshots.csv"
+  - sha256 aba234ee578be081e0b3dfa6c2d1855c4ad9f6b10c8405389e07213f21f7a6f9
+  - cited by [t_24b942] "1830 W模型中档FR/UK战列舰总吨位代理0.7417、A12×技能效能0.4487；P中档分别0.9020、0.8756，前者和后者均为研究者有条件设值，非测得概率。" (inference)
+  - cited by [t_24b942] "法国/英国1830战列舰排水吨W条件包络.552–.926、P.769–1.012；有效动员排水吨W.282–.644、P.747–.974；均为成组研究假设，不是概率或观测。" (inference)
+- `sources/t_24b942/P4_naval_gap_projection.md` ← `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`
+  - "[t_24b942] nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md"
+  - sha256 98090f70f789432fb7faabc54ff1d10ed09853b1f31ede4469471b3fd5e1c77f
+  - cited by [t_8a7b54] "英国武装和平舰比不能作为英法军事胜率；英国增配由法国出海威胁内生触发。" (fact) — "若法国舰队逼英国重保战时编制，1830法国P中档同一舰队的效能比从0.876降至0.731。"
+- `sources/t_24b942/build_p4.py` ← `nodes/r_5b1357a9c6/cards/t_24b942/build_p4.py`
+  - sha256 7a557371e5a38a75e5f6a685f12f9dfdc90c68f8f5ac445292648c289398630c
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_race_1815_1830.md`
+- `sources/t_24b942/verify_p4.py` ← `nodes/r_5b1357a9c6/cards/t_24b942/verify_p4.py`
+  - sha256 261b9956f01ec9ba1e64c29954ba2ed259ceab5264b2106fa0e762d03df14c45
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_race_1815_1830.md`
+- `sources/t_27c409/SP2_spain_society.md` ← `nodes/r_5b1357a9c6/cards/t_27c409/SP2_spain_society.md`
+  - "[t_27c409] nodes/r_5b1357a9c6/cards/t_27c409/SP2_spain_society.md"
+  - sha256 d8825f9cac03d17bfd2c183e3f8b832c469884255b983405256851fcd3583619
+  - cited by [t_27c409] "无占领宪政终判：宪政会出现但晚到（1815–30窗口替代1810–12）、温和化（传统Cortes/两院宪章形态优先，1812式单院激进宪法低置信）、更血腿内战化（缺反法黏合剂，自由派与保王大众直接…" (interpretation)
+  - cited by [t_27c409] "B4c兼并至埃布罗成本带（MODEL供P2/F2/P8）：常驻镇压+边防兵力4.5–8万（纳瓦拉1.5–2.5万/巴斯克1–1.5万/加泰2–4万）；兼并区财政净贡献第一个十年为负；转正条件=一代人…" (inference)
+  - cited by [t_27c409] "法胜世界1815–48西班牙社会三断层恒在：土地/señorío清算（1813反封建暴动已点燃，1814瓦伦西亚贵族因此投向政变）、教会财产与修会（1798先例→1834 matanza结构条件）、…" (interpretation)
+  - cited by [t_27c409] "反应函数总律：西班牙社会对法国政策的敏感轴只有三根——王朝符号/税与征发/教会；三轴齐触(B4a)则总起义，触一轴(B4c、S3)则区域/阶层化抵抗，不触(B4b及B2/B3/B5等)则无感；二日事…" (inference)
+- `sources/t_27c409/notes_esdaile_fighting_napoleon.md` ← `nodes/r_5b1357a9c6/cards/t_27c409/notes_esdaile_fighting_napoleon.md`
+  - "[t_27c409] nodes/r_5b1357a9c6/cards/t_27c409/notes_esdaile_fighting_napoleon.md"
+  - sha256 c85dd1a41fbf0de38498d961d0abcb305213a11b6d0be9d6c6bf7c36ae58b0a9
+  - cited by [t_27c409] "游击史学两极（Tone结构说vs Esdaile人造说）在反事实关键点上收敛：游击不是西班牙人固有属性而是占领+国家解体+榨取的函数；Esdaile：除纳瓦拉/巴斯克外多数partida士兵系枪口强…" (interpretation)
+- `sources/t_27c409/notes_esdaile_spanisharmy.md` ← `nodes/r_5b1357a9c6/cards/t_27c409/notes_esdaile_spanisharmy.md`
+  - "[t_27c409] nodes/r_5b1357a9c6/cards/t_27c409/notes_esdaile_spanisharmy.md"
+  - sha256 2341848c3e57b751a2fa24fcfcdf54630db0d598184b0645d42f577f4110b9fa
+  - cited by [t_27c409] "无占领情形下宪政问题：加的斯式激进单院宪法以王位空缺为成立条件（上轮t_c2dbca已证）；但财政破产（岁入350M vs 支出850M+、傪11,000M reales）+臃肿军官团+美洲战争厌战…" (interpretation)
+- `sources/t_27c409/notes_fontana_lawrence.md` ← `nodes/r_5b1357a9c6/cards/t_27c409/notes_fontana_lawrence.md`
+  - "[t_27c409] nodes/r_5b1357a9c6/cards/t_27c409/notes_fontana_lawrence.md"
+  - sha256 c785499df02de4137a76fc6ad0866f65f29347cd03702e274028c5851e65bfa6
+  - cited by [t_27c409] "B4宽和版falsifier判负（中高置信）：保留波旁情形下不存在同等起义触发条件。1796–1808法西同盟十二年（含Trafalgar、月贡600万法郎、La Romana 1.3万人赴丹麦）无…" (inference)
+- `sources/t_27c409/notes_tone_fatal_knot.md` ← `nodes/r_5b1357a9c6/cards/t_27c409/notes_tone_fatal_knot.md`
+  - "[t_27c409] nodes/r_5b1357a9c6/cards/t_27c409/notes_tone_fatal_knot.md"
+  - sha256 22df5ecdd005642d25a09191ea0eca7ca81819e90439887fc695108860fc82dd
+  - cited by [t_27c409] "B4兼并至埃布罗版：兼并带（纳瓦拉/巴斯克/加泰）恰是抵抗结构最强区——小农+分散聚落+村社民主+走私枪支+foral动员机器；1717–22关税线北推已失败一次；Azanza 1810专程赴巴黎警…" (inference)
+- `sources/t_29957a/R2_model.py` ← `nodes/r_5b1357a9c6/cards/t_29957a/R2_model.py`
+  - sha256 78f399e371267ab126f47a7d99bf5f696c28d7d6c1beb9eb234bd0cbff089129
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/t_29957a/R2_model_results.json` ← `nodes/r_5b1357a9c6/cards/t_29957a/R2_model_results.json`
+  - "[t_29957a] nodes/r_5b1357a9c6/cards/t_29957a/R2_model_results.json"
+  - sha256 6556d5b61f51bd6b108620b097cc4a2dcf4fc117e0f8db8b335005a40b714b30
+  - cited by [t_29957a] "S2出口庄园现金毛收入损失条件带0.5–16.7%，S3真实加严为7.2–41.3%；模型e、b、n、r、p、d均公开，非样本均值与统计置信区间。" (inference)
+  - cited by [t_29957a] "以世纪交6万作者吨麻出口与1806目的地份额交叉作尺度，替代全英份额需法国直接吸收约26.4倍或广义大陆约3.41倍；这不是观测1806吨数，后者含对英转口中介故偏宽。" (inference)
+  - cited by [t_29957a] "S2许可/中立分支出口庄园直接毛现金损失条件带0.5–16.7%，S3真实加严7.2–41.3%；完全合法直贸的隔离贸易损失可为零。参数端点不代表历史均值、置信区间或胜率。" (inference)
+- `sources/t_29957a/R2_russia_economy_nobility.md` ← `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - "[t_29957a] nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md"
+  - sha256 32357dd54ee174513fcf58d2380345e1db575dca50c38881390f48ab9a79ed3c
+  - cited by [t_29957a] "主线是自主俄国的有条件合作：贸易和信用让步能为武装共存提供物质基础，但不能单独买到俄国永久服从或行省化。" (inference)
+- `sources/t_29957a/report_part2.md` ← `nodes/r_5b1357a9c6/cards/t_29957a/report_part2.md`
+  - "[t_29957a] nodes/r_5b1357a9c6/cards/t_29957a/report_part2.md"
+  - sha256 d809de384956dbd9fc9c3ba86a8b0db6cd716f6c7226dea120addbfff3ce48dd
+  - cited by [t_29957a] "S2的最强交换包是中立贸易/关税自主、汉萨信用、Oldenburg/普鲁士和互撤兵担保的组合；经济利益能支持合作，却不能单独购买俄国永久服从。" (inference)
+  - cited by [t_29957a] "法国全替英国的麻吸收倍数是条件尺度和异年合成，不是证明当时法欧极限产能；定向替代可行性的主张保留待采购付款/入库账验证。" (inference)
+- `sources/t_2c3192/R3_russian_army.md` ← `nodes/r_5b1357a9c6/cards/t_2c3192/R3_russian_army.md`
+  - "[t_2c3192] nodes/r_5b1357a9c6/cards/t_2c3192/R3_russian_army.md"
+  - sha256 b2719d24ed28d722fa9e7621d52e6597029018b4768dbea6be5caa4c9eaafd22
+  - cited by [t_2c3192] "B7有限战争四分支裁定：A主线（中高）俄军不接受停线、逐年再生消耗；B（中）冬季有限反攻撞未受损法军为俄最坏枝；C（中低）接受割波兰和约——唯一杠杆是宫廷政变，法军无法军事制造；D（低）体系崩溃需四…" (inference)
+  - cited by [t_2c3192] "S5宣兵判定：俄军纸面80万/缺额20%，区域可畏（对奧斯曼/波斯/邻境镇压）、全欧不可持续（枪械+外汇+2000km行军三重约束）；S5稳定形态是欧洲两分而非俄国被约束；S5末期技术代差积累使俄军…" (interpretation)
+- `sources/t_2c3192/notes_keep.md` ← `nodes/r_5b1357a9c6/cards/t_2c3192/notes_keep.md`
+  - "[t_2c3192] nodes/r_5b1357a9c6/cards/t_2c3192/notes_keep.md"
+  - sha256 8499e1c360829ff209cf70ccd4f360ba80bce5909d92a71702099c501db3ad85
+  - cited by [t_2c3192] "征兵制天花板：1705–1825共90次levy；1801前累计227万，Alexander朝再征近200万；被征占登记男丁比例彼得朝3.6%→18世纪末7%→19世纪初8%；1812年三次levy…" (fact) — "The greatest drain occurred in 1812, during Napoleon's invasion, when three levies were called, whi…"
+  - cited by [t_2c3192] "军事殖民地（1825）：16万兵≈全军实力三分之一+37.4万农民≈共75万人；抵抗序列（Bug 1817、Chuguyev 1819二千人被捕/275判死/52夹鞭25死、诺夫哥罗德1831）'e…" (fact) — "the Separate Corps of Military Settlements, reportedly controlled 160,000 soldiers (including nearl…"
+- `sources/t_2c3192/notes_lieven.md` ← `nodes/r_5b1357a9c6/cards/t_2c3192/notes_lieven.md`
+  - "[t_2c3192] nodes/r_5b1357a9c6/cards/t_2c3192/notes_lieven.md"
+  - sha256 037bed85d9935473532e902046e8412ddb0362dd0bd0d83192277c2e8fea8d84
+  - cited by [t_2c3192] "俄军追击也遭冬季重损：Kutuzov 1812-12-19自报Tarutino出发时9.7万、至Vilna在列仅4.2万（4.8万住院）；但干部核心存活、1813夏完全恢复——冬季是双刃，不能只算法…" (fact) — "Of the 97,000 men whom Kutuzov had commanded at Tarutino before the beginning of the campaign, 48,0…"
+  - cited by [t_2c3192] "复国波兰与停线胁迫在B7内互斥：停线利于淡化'侵略'定性以削弱俄本土轨融资，但1,500万人口波兰国直接激活俄精英生存威胁认知（Bennigsen文书）并闭合主和空间" (interpretation) — "it was in Napoleon's power to re-establish a Polish state of 15 million people on Russia's borders …"
+  - cited by [t_2c3192] "俄国战争财政双轨制：本土轨（纸币+实物捐输约1亿卢布+常平仓）弹性大但不可携带；境外轨依赖英援（1813年£4.6m≈德意志战役全部预计支出）。1812年Alexander未请英国补贴，1813年出…" (inference) — "In 1812 Alexander had not requested a British subsidy... fighting on his own territory he could fin…"
+- `sources/t_2c3192/notes_misc.md` ← `nodes/r_5b1357a9c6/cards/t_2c3192/notes_misc.md`
+  - "[t_2c3192] nodes/r_5b1357a9c6/cards/t_2c3192/notes_misc.md"
+  - sha256 fee24fe247a7de24d3a34f99528e5c0b1bdb5142181cdf2f20d876094d0270c2
+  - cited by [t_2c3192] "Kutuzov均势派证词（对Wilson）：彻底摧毁拿破仑的遗产'不会落到俄国或任何大陆强权手里，而会落到统治海洋的那一位'——俄军最高指挥层存在不愿为英国火中取栗的流派，B7谈判分支的人事基础" (fact) — "his succession would not fall to Russia or any other continental power, but to that which commands …"
+- `sources/t_2c3192/notes_riehn.md` ← `nodes/r_5b1357a9c6/cards/t_2c3192/notes_riehn.md`
+  - "[t_2c3192] nodes/r_5b1357a9c6/cards/t_2c3192/notes_riehn.md"
+  - sha256 f2910896edbb0f4c37c49a2a5468122a9c07b115cb427fc7e6c7dbe693c75f3e
+  - cited by [t_2c3192] "1812年6月俄军四层口径：在册近60万（Lieven）/编刖48万+1600炮（Bogdanovich）；一线三西方面军含哥萨克仅24.2万；Riehn三线总账48.8万、全战役逐次投入约42.8…" (fact) — "the grand total of all the forces in the first, second, and third lines was 488,000 men, of which a…"
+  - cited by [t_2c3192] "B7 falsifier初步裁定：不靠焦土与严冬，俄军仅正规军一二三线可归集≈33–35万，加多瑑59万/芬兰军可抄集群；俄军在1812年底前保持≥20万野战军无需焦土或严冬——Clausewitz…" (inference)
+- `sources/t_3282da/SP1_spain_state.md` ← `nodes/r_5b1357a9c6/cards/t_3282da/SP1_spain_state.md`
+  - "[t_3282da] nodes/r_5b1357a9c6/cards/t_3282da/SP1_spain_state.md"
+  - sha256 23a08b8d716e7d08610a9c0ae1f47f2b8abc58b9f8a31bf9786ef74c4430b24f
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_bands.md`
+  - cited by [t_3282da] "推断（中高置信）：西班牙军事价值对法国是二值函数——同盟态+25,000远征军/港口/船厂，占领态-29至36万驻军（Oman两切片，Ledger F2冻结值）；二值之间无中间态（1808-13约瑟…" (inference)
+  - cited by [t_3282da] "终局概率带（解释性判断，条件化口径）：S2/S5（法胜+B4b保王联姻）下波旁绝对主义-改革制0.40-0.55、波旁立宪0.30-0.45、波拿巴替换0.05-0.15、共和≤0.02；法在半岛军…" (interpretation)
+  - cited by [t_3282da] "falsifier 1裁决：1808前本土自由派共和文书——本轮与上一轮均未发现；拿破仑方情报所称"美宪派"系二手归类，实指宪政限权派（后来加的斯自由派前身）；共和分支维持低置信、1820s后载体（…" (interpretation)
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_tree.md`
+- `sources/t_3ee1b0/PR_calculations.csv` ← `nodes/r_5b1357a9c6/cards/t_3ee1b0/PR_calculations.csv`
+  - "[t_3ee1b0] nodes/r_5b1357a9c6/cards/t_3ee1b0/PR_calculations.csv"
+  - sha256 fc2bc1b12bf42d685f3e8fdfd9e5ece5fbb7afd874e9a2cc2d573514f9775166
+  - cited by [t_3ee1b0] "本卡数量推演（S5残普1848人口约620–810万；常备5.6–9.7万、危机总动员12.4–21.8万、各战区野战合计8.0–15.2万；取消后中摩擦初期接管4.5–7.5万，较保留残普的1.5…" (inference)
+- `sources/t_3ee1b0/PR_prussia.md` ← `nodes/r_5b1357a9c6/cards/t_3ee1b0/PR_prussia.md`
+  - "[t_3ee1b0] nodes/r_5b1357a9c6/cards/t_3ee1b0/PR_prussia.md"
+  - sha256 c29505eee292675426106f7f9a072c158993d288b38512b0bfd354e89d06c992
+  - cited by [t_3ee1b0] "修正声明：本卡原先将“承债才可能行政延续”列为纯推演（见⑥取消四笔账第3条）；现据亲读的Grab/Berding/ADB升为带同时代实例的机制锚点，并新增三项限定（客户国可成净负债、行政延续与改革互…" (inference)
+- `sources/t_3ee1b0/notes_treaties_diplomacy.md` ← `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_treaties_diplomacy.md`
+  - "[t_3ee1b0] nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_treaties_diplomacy.md"
+  - sha256 9922168c62a3fc683df75884e044f5ff63934af857e18b04e30a2ee6b7e63427
+  - cited by [t_3ee1b0] "比较模型应区分取消普鲁士王朝、将其领土并入德/波客户国与直接法省三件事；第一项并不自动节省后两者的驻军与行政成本。" (inference)
+- `sources/t_40198e/D1_annexed_inner.md` ← `nodes/r_5b1357a9c6/cards/t_40198e/D1_annexed_inner.md`
+  - "[t_40198e] nodes/r_5b1357a9c6/cards/t_40198e/D1_annexed_inner.md"
+  - sha256 fd6054e55d21bea392cf2e634153f465693c78035a804017383ccb8ca78d54d9
+  - cited by [t_40198e] "falsifier裁决：'莱茵/比利时征兵税收5年内趋同本土'——征兵维不成立（比利时前5年恰为最坏窗口；莱茵并入后5年insoumission不降反升30%→34%；真实收敛8–11年且仅dese…" (inference)
+  - cited by [t_40198e] "S6吞吐量推演（中置信）：每并合500万人需12–15省长+40–60副省长+成建制双语司法财税中层（auditeur管道1813年仅452人）、常年宪兵370–470/百万人+窗口期数千野战军机动…" (inference)
+- `sources/t_5b1d64/IT3_papacy_churches.md` ← `nodes/r_5b1357a9c6/cards/t_5b1d64/IT3_papacy_churches.md`
+  - "[t_5b1d64] nodes/r_5b1357a9c6/cards/t_5b1d64/IT3_papacy_churches.md"
+  - sha256 1d12539ef16528710cc25c4fa0b5c61caa03135ebce04023d94fa6c2a43ef97c
+  - cited by [t_5b1d64] "主线（中高）：教廷是拿破仑体系内唯一无法用兵/钱/联姻收编的单位；其力量是使强制解决丧失终局性。否决权三层：教皇个人可压服＜枢机-教会法机构不可压服＜信众约束弱且需与征兵/占领合取。对法国霸权收益最…" (interpretation)
+  - cited by [t_5b1d64] "不确定项：（a）7.1和解窗口能否被抓住取决于拿破仑人身克制（F1先验0.05–0.25），本卡只能给条件价；（b）7.2武装加利刚线的衰减速率参数（神学院招生/地下圣事市场份额）无面板数据，待Br…" (interpretation)
+- `sources/t_611e2b/PS_persia_afghanistan_punjab.md` ← `nodes/r_5b1357a9c6/cards/t_611e2b/PS_persia_afghanistan_punjab.md`
+  - "[t_611e2b] nodes/r_5b1357a9c6/cards/t_611e2b/PS_persia_afghanistan_punjab.md"
+  - sha256 198782a77cd863477b0420f84171623927b701262753022c919fc9d27aa8a7f7
+  - cited by [t_611e2b] "走廊四政权均为明码标价的安全采购者（波斯→格鲁吉亚交付；阿富汗诸派→内战胜利；兰吉特→两河间霸权承认；信德→双重挤压豁免）；法国1807–09对四者主要威胁均无交付能力；法国东方压力最确凿产出是英属…" (interpretation)
+  - cited by [t_611e2b] "S4下1815–48主线：法国理性形态是'永久的Gardane'（常设军事使团+对俄担保+白银津贴）而非远征；均衡产出：法得波斯C层盟国与牵制筹码，英得提前二十年的前沿帝国；赫拉特是S4从威胁升级为…" (interpretation)
+- `sources/t_611e2b/notes_logistics.md` ← `nodes/r_5b1357a9c6/cards/t_611e2b/notes_logistics.md`
+  - "[t_611e2b] nodes/r_5b1357a9c6/cards/t_611e2b/notes_logistics.md"
+  - sha256 d6de1344ae64973165bd691212e855a1262aee2ba51a5c25bdc5dbc413662680
+  - cited by [t_611e2b] "远征后勤包络裁定：单季无预置无里海航运的≥2万法军波斯段行军关闭（高置信；实测锚：Baird数千人分队过120英里即頀5,000骆驼；英印1838孟加拉纵限9,500战兵配30,000骆驼）；分梯队…" (inference)
+- `sources/t_656a10/X1_finance_houses.md` ← `nodes/r_5b1357a9c6/cards/t_656a10/X1_finance_houses.md`
+  - "[t_656a10] nodes/r_5b1357a9c6/cards/t_656a10/X1_finance_houses.md"
+  - sha256 e6732fe7865b67351926a10cf4b4b5ee1759ff33ec6a545d98fdbd27a8e64d4a
+  - cited by [t_656a10] "【Falsifier裁定】卡片falsifier（1810–13法国无法在阿姆斯特丹/汉堡以可比利率融资）**结果成立但因果须反转**：法国在两地一笔未借，因为它选择没收而摧毁了市场（兼并荷兰＋ti…" (inference) — "Laffitte：La France ne trouverait pas un petit écu à emprunter sur aucune place de l'Europe."
+- `sources/t_6f3beb/X2_continental_system_machine.md` ← `nodes/r_5b1357a9c6/cards/t_6f3beb/X2_continental_system_machine.md`
+  - "[t_6f3beb] nodes/r_5b1357a9c6/cards/t_6f3beb/X2_continental_system_machine.md"
+  - sha256 c71c63d123028cca2561152f5918056ea2b39d15cf487d8478c4c1e3286130be
+  - cited by [t_c87512] "【事实·转引】X2引Ellis 1981印p.202：'the efficacy of the Blockade stood in inverse ratio to the extent of Na…" (fact) — "the efficacy of the Blockade stood in inverse ratio to the extent of Napoleon's military involvemen…"
+  - cited by [t_6f3beb] "【核心结论】封锁执行机器的能力上限是可量化的：它能把走私的从价成本推到AVE 50–62%（硬上限55±8%），足以排除有大陆替代者的英国工业品（成本劣势估计35–60%），远不足以排除无替代者的殖…" (inference) — "A lower threshold for judging the intended 'success' of Napoleon's Continental System will do; insu…"
+  - cited by [t_6f3beb] "租金分配（五类得利者）：①国库与皇帝私库（1810–11一次性池约307百万法郎：关税105.9＋拍卖≈150＋荷尔斯泰42.5＋法兰克福9）；②许可证持有人（波尔多独得ancien système…" (inference)
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_bands.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_tree.md`
+- `sources/t_6f3beb/X2_enforcement_model.csv` ← `nodes/r_5b1357a9c6/cards/t_6f3beb/X2_enforcement_model.csv`
+  - "[t_6f3beb] nodes/r_5b1357a9c6/cards/t_6f3beb/X2_enforcement_model.csv"
+  - sha256 7b79ae513d14644a1d7f5934f0d0b8cd547c17e1d21e33ef3a803ee46debd33e
+  - cited by [t_6f3beb] "财政自毁命题（MODEL，可复算）：1809年法国关税净收11.6百万法郎，而同年27,200名海关人员仅按最低级préposé年薪500法郎计的纯工资即为13.6百万，工资/关税＝117%。限定：…" (inference) — "cost_to_revenue_1809_agents27200 = 117.0 %"
+- `sources/t_6f3beb/notes_enforcement_machine.md` ← `nodes/r_5b1357a9c6/cards/t_6f3beb/notes_enforcement_machine.md`
+  - "[t_6f3beb] nodes/r_5b1357a9c6/cards/t_6f3beb/notes_enforcement_machine.md"
+  - sha256 ad0ab4d8db08f1d1d13209ed82933ee9d820c2ba78aebb54facf7e9197773a69
+  - cited by [t_6f3beb] "缉获率的两个不相容锚点：Rist述汉堡海关"每三四个背货人抓一个"（人次口径，且被抓者多为诱饵）；Marzagalli据档案称1810年8月汉堡—阿尔托纳门查获9,300公斤殖民品"至多为走私量的5…" (inference) — "In August 1810, customs agents seized 9300 kilograms of colonial goods at the gate between Hamburg …"
+- `sources/t_7c3954/F5_french_society_succession.md` ← `nodes/r_5b1357a9c6/cards/t_7c3954/F5_french_society_succession.md`
+  - "[t_7c3954] nodes/r_5b1357a9c6/cards/t_7c3954/F5_french_society_succession.md"
+  - sha256 b6e22db4a2ec54b916d494735cc52c6566e279a4c190fe9080df1d08766e0483
+  - cited by [t_7c3954] "和平常备军社会容忍上限（模型推演，中高置信）：年征≤8–10万（占人口≤0.3%）+和平死亡率+役期兑现+教会合作→常备军55–70万（含外籍）可无限期维持；年征>20万或追征已豁免年级→12–18…" (inference)
+  - cited by [t_7c3954] "1814年精英倒戈=五必要条件合取（外军占首都、可信替代王朝、军事灾难、皇帝不在场、中枢家族撤离）；S5和平继承时刻前三条件不成立。故卡片falsifier（“1813–14文书显示精英已备另立秩序…" (interpretation)
+  - cited by [t_7c3954] "继承情景概率带（裁量，S5前提）：皇帝1820s死（幼主摄政）交接平稳65–80%、存续至184830–45%；1830s死（成年新君）交接80–90%、存续45–60%；1840s死交接≥85%、…" (interpretation)
+- `sources/t_86b684/X3_technology_industry.md` ← `nodes/r_5b1357a9c6/cards/t_86b684/X3_technology_industry.md`
+  - "[t_86b684] nodes/r_5b1357a9c6/cards/t_86b684/X3_technology_industry.md"
+  - sha256 c6ecda91e76693d17bfd6991832813be69031ca9c72c2e6c87caf0eec3ea44ca
+  - cited by [t_86b684] "卡片falsifier裁决：不成立。1806–15大陆（法+萨+瑞+比）蒸汽机年增量至多为英国的5–10%，远低于30%阈值（萨克森棉纺几无蒸汽、瑞士走水力、Cockerill 1817才造蒸汽机）…" (inference)
+  - cited by [t_86b684] "1848技术前沿位置区间（分情景）：发明前沿（蒸汽/机床/铁路/廉价铁）一切情景留英国（高置信）；法国持化学/丝机/光报/爆破弹舰炮四利基前沿；采用差距S5收窄（法达史实1.1–1.4倍）、S3双输…" (interpretation)
+- `sources/t_86b684/notes_chem_metal.md` ← `nodes/r_5b1357a9c6/cards/t_86b684/notes_chem_metal.md`
+  - "[t_86b684] nodes/r_5b1357a9c6/cards/t_86b684/notes_chem_metal.md"
+  - sha256 9118253ea32e33d952e9eda62864d28a5108b9df60dc44ef82b56293725a7a11
+  - cited by [t_86b684] "比利时–莱茵–萨克森工业带：地质-产业带真实存在（Mons–Liège–Aachen煤铁+根特棉+Verviers毛+萨克森棉）但被帝国关税几何主动切割：贝格出口6000万→1100万法郎、工业家求…" (fact)
+- `sources/t_86b684/notes_heckscher.md` ← `nodes/r_5b1357a9c6/cards/t_86b684/notes_heckscher.md`
+  - "[t_86b684] nodes/r_5b1357a9c6/cards/t_86b684/notes_heckscher.md"
+  - sha256 336d1cca4c68e07c2a31e281bedd374d6347207dd99dac4651577833a0d1352b
+  - cited by [t_86b684] "Heckscher机制（封锁=发明之乳母非之母）操作化：封锁加速配方型技术（Leblanc碱价80–100→10法郎/100kg；染料Koechlin 1810–11超英），冻结载体型技术（动力织机…" (interpretation) — "necessity is the nurse of invention"
+  - cited by [t_86b684] "口径警告（供总装）：HT卡'1813甜菜糖3,500吨'为展望值（公开预期≈350万kg/334厂）；内政部后报实产110万kg、334许可证仅158份实用（Heckscher p.293，上轮t_…" (fact) — "they had only got 1,100,000 kgs. of sugar"
+- `sources/t_86b684/notes_institutions.md` ← `nodes/r_5b1357a9c6/cards/t_86b684/notes_institutions.md`
+  - "[t_86b684] nodes/r_5b1357a9c6/cards/t_86b684/notes_institutions.md"
+  - sha256 9d65807033cdf038e7a4f8d7cbe18e1f0fa3ab61d5b3ba3c63c4fcf3be27592c
+  - cited by [t_86b684] "英国技术封锁时间轴（Jeremy 1977）：禁技工移民1719起、禁机器出口1750起；清单不含蒸汽机与机床；1824废移民禁、1825机器出口改许可、1843-08全废；贸易委员会1819自认对…" (fact)
+- `sources/t_86b684/notes_military_tech.md` ← `nodes/r_5b1357a9c6/cards/t_86b684/notes_military_tech.md`
+  - "[t_86b684] nodes/r_5b1357a9c6/cards/t_86b684/notes_military_tech.md"
+  - sha256 7bbc2422c6fcfb7fde680e7f94b3b492bc4f191f03094bff4e2f3ea34a014315
+  - cited by [t_86b684] "互换性制造的发明与遗忘（Alder）：Blanc 1790-11-20荣军院演示互换枪机（Vincennes造约1,000件）；Vandermonde工场1794–95；帝国回归工匟分散生产；至18…" (fact) — "the French military had never heard of the method—let alone of Honoré Blanc"
+  - cited by [t_86b684] "Chappe电报网：1794 Paris–Lille 190km/18站；1802年波拿巴因财政关闭全网、1803-01-28以彩票财源重开；1810年已达阿姆斯特丹、威尼斯（Paris–Venic…" (fact)
+- `sources/t_86b684/notes_railways.md` ← `nodes/r_5b1357a9c6/cards/t_86b684/notes_railways.md`
+  - "[t_86b684] nodes/r_5b1357a9c6/cards/t_86b684/notes_railways.md"
+  - sha256 10011887e4945ac638401009c9f9721057548fcbd088b87fa8c804a5a52db32e
+  - cited by [t_86b684] "铁路由谁建（S5裁定）：帝国版'比利时模式'（国家干线+桥路/矿务团执行+特许营运+战略线优先）比史实法国1832–42议会十年争吵更可能（帝国无强议会否决点+军事牵引+现成国家工程机器）；但资本瓶…" (inference)
+- `sources/t_86b684/notes_steam_textiles.md` ← `nodes/r_5b1357a9c6/cards/t_86b684/notes_steam_textiles.md`
+  - "[t_86b684] nodes/r_5b1357a9c6/cards/t_86b684/notes_steam_textiles.md"
+  - sha256 d2f55db7b66cd34b35cb6207c71070005a35ffa14c983bd7e1f998b42cfcee52
+  - cited by [t_86b684] "蒸汽动力差距核账：英国1800年35,000hp、1830年160,000hp（Kanefsky系列经Crafts 2004表3）；18世纪已建2,000+台（Kanefsky-Robey 1980…" (fact) — "En 1815 la France redécouvrit l'industrie anglaise et s'aperçut alors qu'en matière de machines à v…"
+- `sources/t_87ba37/B5_british_industry_trade.md` ← `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - "[t_87ba37] nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md"
+  - sha256 651409bb1094364e2279a3206316f7caef22052ac66614a291eda48c14c5af3d
+  - cited by [t_87ba37] "主线：持续欧洲排除不会可靠地消灭英国工业或迫其交出政治独立；1910年代危机机制是销量、回款、原料、粮价与阶级治理叠加。更稳定的法国霸权需给英国可兑现贸易，而非永久最大伤害。" (inference)
+  - cited by [t_87ba37] "修正上一条发现的年代：1810年代危机由销量、回款、原料、粮价与阶级治理压力叠加，不能写作1910年代。" (inference)
+- `sources/t_87ba37/B5_growth_paths.csv` ← `nodes/r_5b1357a9c6/cards/t_87ba37/B5_growth_paths.csv`
+  - "[t_87ba37] nodes/r_5b1357a9c6/cards/t_87ba37/B5_growth_paths.csv"
+  - sha256 4c6a59497577a137cd50e498e5ad8055628658e18b3f76d83e269f5b2f8a0466
+  - cited by [t_87ba37] "条件工业包络1848/S0：S2 79–100%，S3 54–79%，S5商业和平88–109%；均为公开a与年增长楔子假设，非估计置信区间；S3低沿仍约1803工业1.95倍。" (inference)
+  - cited by [t_87ba37] "S3条件下，1815–1840排除25年工业为同年史实59–81%，仍约1803的1.72–2.36倍；若延续至1848为54–79%。S2/S5 1848分别79–100%/88–109%。这些是…" (inference)
+- `sources/t_87ba37/B5_replacement_diagnostics.csv` ← `nodes/r_5b1357a9c6/cards/t_87ba37/B5_replacement_diagnostics.csv`
+  - "[t_87ba37] nodes/r_5b1357a9c6/cards/t_87ba37/B5_replacement_diagnostics.csv"
+  - sha256 b21048b4c4a7230722e6d8b191b3e835b849f5b24f53d118e43cd6763e1ca75a
+  - cited by [t_87ba37] "以1804–06平均为基期，旧官方价拉美+亚洲总货物增量/北欧缺口在1811为21.7%，1808–12净额合计87.3%；纯拉美本产回款口径仍缺，因此证据同时支持有效替代与危机年替代不足。" (inference)
+- `sources/t_87ba37/build_B5_tables.py` ← `nodes/r_5b1357a9c6/cards/t_87ba37/build_B5_tables.py`
+  - sha256 bc536d6409c838ecfab4d44d0208d5dfba08c959664a11f1e88f05d34cc8fb2b
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/report_03_model_conclusion.md`
+- `sources/t_8f2668/IT2_naples_sicily.md` ← `nodes/r_5b1357a9c6/cards/t_8f2668/IT2_naples_sicily.md`
+  - "[t_8f2668] nodes/r_5b1357a9c6/cards/t_8f2668/IT2_naples_sicily.md"
+  - sha256 05c6c1bdac97eaae095057b3765a8c174910653835ac5519058beae87d1e1f1f
+  - cited by [t_8f2668] "主线结论：南意在法国霸权工程中唯一可持续位置是B层法典化藩属+海军义务承包+封锁豁免区；其史实失败是需索强度失败而非制度设计失败；对帝国净贡献≈0，价值在位置与否决权" (interpretation)
+  - cited by [t_8f2668] "1820-21类比三定理（供S5推演）：藩属立宪周期律（法式行政国家+过大军官团+财政紧缩→霸权松动即政变，周期5-7年）；外军平叛依赖律（法国将扮演1821年奥地利角色）；西西里分离律（大陆每次立…" (inference)
+- `sources/t_8f2668/notes_falsifier.md` ← `nodes/r_5b1357a9c6/cards/t_8f2668/notes_falsifier.md`
+  - "[t_8f2668] nodes/r_5b1357a9c6/cards/t_8f2668/notes_falsifier.md"
+  - sha256 171ef2f292e7fb88cb36049cb08bea7c781c7c8aae378060885da97bc6d2fd46
+  - cited by [t_8f2668] "falsifier严格版不成立：卡拉布里亚镇压峰值成本≈3.0-4.5m ducats/年，约为王国税收(≈13m ducats)的23-35%，未超100%；修订版成立：卡拉布里亚两省实收≤0.4…" (inference)
+- `sources/t_91cbee/R1_russia_court.md` ← `nodes/r_5b1357a9c6/cards/t_91cbee/R1_russia_court.md`
+  - "[t_91cbee] nodes/r_5b1357a9c6/cards/t_91cbee/R1_russia_court.md"
+  - sha256 4a28a459bcbed5a7788f354e85090e2e747d864113369f2ca6a3fee389dc80ce
+  - cited by [t_91cbee] "让步包×精英矩阵的总读法：六个让步包（波兰保证/奥尔登堡补偿/关税容忍/多瑙公国与君士坦丁堡/共同印度远征/联姻）中，唯一能同时打动沙皇、Rumiantsev、Speransky、皇太后党、英派贸易…" (inference)
+  - cited by [t_91cbee] "主线结论：俄国对法国霸权工程的可达上限是C层（被胁迫同盟）且半衰期约四年；不存在使俄国长期从属的已证路径，存在的是有文书锚点的“有条件冷和平”（Nesselrode 1811方案），代价是放弃排他封…" (interpretation)
+  - cited by [t_91cbee] "卡面falsifier裁定：（1）“贵族反提尔西特主因贸易”成立但需限定——贸易是敌意的放大器与政治化通道而非唯一源（沙龙敌意含当吉恩案等文化成分，且无封锁的1803–05俄廷已反法）；关税容忍买到…" (interpretation)
+  - cited by [t_91cbee] "S5推演：法胜世界里神圣同盟无法作为欧洲秩序出现（其生成条件=击败拿破仑），亚历山大的弥赛亚气质将倒装为以俄为中心的东方正统集团+末世论色彩的官方民族性提前版；波兰宪政实验（1815宪法+1818华…" (interpretation)
+- `sources/t_998052/B3_capacity.csv` ← `nodes/r_5b1357a9c6/cards/t_998052/B3_capacity.csv`
+  - "[t_998052] nodes/r_5b1357a9c6/cards/t_998052/B3_capacity.csv"
+  - sha256 ca93504158d6d5dfdae387a956322aca63fe871d5ba5d1b346beace5571a30a1
+  - cited by [t_998052] "1803–14英国Built毛建成74艘战列舰，1808–12五年46艘；不是净舰队增量。" (fact)
+- `sources/t_998052/B3_response.csv` ← `nodes/r_5b1357a9c6/cards/t_998052/B3_response.csv`
+  - "[t_998052] nodes/r_5b1357a9c6/cards/t_998052/B3_response.csv"
+  - sha256 edace629a0be5c7dbd6be6624cad97edbd4fafa110c7f64dccdf44c06685de02
+  - cited by [t_998052] "反事实英国1830可规划H130–155，W A12115–145/I105–125，P A12100–140/I45–70；端点是配对假设包、非史实或概率带，最高动员须削全球其他任务。" (inference)
+- `sources/t_998052/assemble_validate_B3.py` ← `nodes/r_5b1357a9c6/cards/t_998052/assemble_validate_B3.py`
+  - sha256 ae03f4d35a915842fcc360ebae72ede8268c7ad4ebfe8fc096177375135896f5
+  - cited in `nodes/r_5b1357a9c6/cards/t_998052/VALIDATION.md`
+- `sources/t_998052/model_assumptions.md` ← `nodes/r_5b1357a9c6/cards/t_998052/model_assumptions.md`
+  - "[t_998052] nodes/r_5b1357a9c6/cards/t_998052/model_assumptions.md"
+  - sha256 f67b835b4c942b49a74a93da25c34bc1c68ef767448551c623d02b940933c5d6
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited by [t_998052] "海军对法荷意持续监视可至1825–30为条件中置信推演，不是按库存算出的耗尽年。" (inference)
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_capacity_update.md`
+- `sources/t_9bd988/MX_new_spain_cuba.md` ← `nodes/r_5b1357a9c6/cards/t_9bd988/MX_new_spain_cuba.md`
+  - "[t_9bd988] nodes/r_5b1357a9c6/cards/t_9bd988/MX_new_spain_cuba.md"
+  - sha256 fbfb332c298a59430f07883269a0e407553d4d642bc72936096c2c641901f5bf
+  - cited by [t_8a7b54] "SA之S2/S5西属南美联邦化概率带与MX之1848墨西哥事实独立≥.90冲突于“新西班牙仍马德里主权”的外延，故全西属美洲保留≤.10是逻辑上界；南美与墨西哥分开。" (inference)
+  - cited by [t_9bd988] "法国从墨西哥白银中的实得最大值出现在它对西班牙控制最弱的那一条路径上（波旁续任，130–400万pesos/年），最小值出现在控制最强的那一条（藩属化，0–30万）。即便最顺的情形，对1803年补贴…" (inference)
+  - cited by [t_9bd988] "古巴的“永远忠诚”是三重否决的均衡：军官团否决自治（1808-07-27 Montalvo拍桌）、奴隶主恐惧圣多明各重演、糖商需要合法旗号保住美国市场。后两重对法国政策高度敏感（法国是1802奴隶制…" (inference)
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_bands.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_tree.md`
+- `sources/t_9bd988/MX_silver_ranges.csv` ← `nodes/r_5b1357a9c6/cards/t_9bd988/MX_silver_ranges.csv`
+  - "[t_9bd988] nodes/r_5b1357a9c6/cards/t_9bd988/MX_silver_ranges.csv"
+  - sha256 1c03da07e327b827e90ba6c65fe93b7a31e641f6e4ab29e8be83416495581a9c
+  - cited by [t_9bd988] "水银是新西班牙白银产出的硬物理上限：年产250万marcs需水银17,000–25,000 quintales（按100–125 marks/quintal），而阿尔马登峰值仅约18,000–20,…" (inference) — "MERC,新西班牙年需水银,thousand quintales,17,21,25 / MERC,Almadén年产峰值,thousand quintales,18,19,20.5"
+  - cited by [t_9bd988] "修正前报：S-A情形下法国实得量为90–330万pesos/年（中枢190万，按汲取额×送达率×法国分成×交付折扣四因子连乘），即450–1,650万法郎，占F4法国中央陆军预算的1.3–5.5%。…" (inference) — "SCEN,S-A 法国实得年额(四因子连乘),million pesos/yr,0.896,1.922,3.339"
+- `sources/t_9bd988/notes_marichal.md` ← `nodes/r_5b1357a9c6/cards/t_9bd988/notes_marichal.md`
+  - "[t_9bd988] nodes/r_5b1357a9c6/cards/t_9bd988/notes_marichal.md"
+  - sha256 729a5c5228951f1ac7c98cfaa8a98f0832995a09735e327b01b584b3c3802a0d
+  - cited in `nodes/r_5b1357a9c6/cards/t_f314c4/SA_south_america.md`
+- `sources/t_afeae6/Q1_analysis_output.json` ← `nodes/r_5b1357a9c6/cards/t_afeae6/Q1_analysis_output.json`
+  - "[t_afeae6] nodes/r_5b1357a9c6/cards/t_afeae6/Q1_analysis_output.json"
+  - sha256 487ae043be6314ac8ea0f6745044019c027facb1a0378f917c455f1582a6a701
+  - cited by [t_afeae6] "样本内5个跨季持续武装抵抗正例（威尼托1809、那不勒斯1799、卡拉布里亚1806、蒂罗尔1809、西班牙1808）全部同时具备宗教政策冲突与外部军事机会；精英吸纳仅1/5出现，地形4/5（威尼托…" (inference)
+- `sources/t_afeae6/Q1_analysis_output.md` ← `nodes/r_5b1357a9c6/cards/t_afeae6/Q1_analysis_output.md`
+  - "[t_afeae6] nodes/r_5b1357a9c6/cards/t_afeae6/Q1_analysis_output.md"
+  - sha256 088819e2a31be428bef87f8f50b01096038a3bc9f051d23a7e13352bf2d68fcc
+  - cited by [t_afeae6] "契约反证未通过，已按约降级为定性比较。失败模式是弃权而非判错：13个先行冻结规格中模型从未把比利时判成正例或西班牙判成负例；BE1798为配置奇点（T0R1E0O0全样本仅此一例），BE1802落在…" (fact)
+- `sources/t_afeae6/Q1_policy_profiles.json` ← `nodes/r_5b1357a9c6/cards/t_afeae6/Q1_policy_profiles.json`
+  - "[t_afeae6] nodes/r_5b1357a9c6/cards/t_afeae6/Q1_policy_profiles.json"
+  - sha256 1a761ded85443f44f432385a1c883183892a9d5076ec410a337565c45f1ddd9c
+  - cited by [t_afeae6] "外部军事机会O=0时，无论政策挑衅计数为0/1/2/3，本样本持续抵抗率均为0；O=1且挑衅≥2项时13个单元全部发生大规模起义。推论：行省化A层的地理边界是英/奥/俄军事投送边界，而非语言或文化边…" (inference)
+- `sources/t_afeae6/notes_nonenglish.md` ← `nodes/r_5b1357a9c6/cards/t_afeae6/notes_nonenglish.md`
+  - "[t_afeae6] nodes/r_5b1357a9c6/cards/t_afeae6/notes_nonenglish.md"
+  - sha256 120167972964264664372d109f7d9c55ef978d4c16501dd30d4ba05eb3fa3323
+  - cited by [t_afeae6] "异常案例苏黎世1804 Bockenkrieg：在「保精英＋保自治」的调停制下仍发生农民起义，且非反法起义。含义是安抚精英与安抚民众可能互相冲突——恢复旧精英的地租什一税赎金正是点火原因。" (interpretation)
+- `sources/t_afeae6/q1_analysis.py` ← `nodes/r_5b1357a9c6/cards/t_afeae6/q1_analysis.py`
+  - sha256 e13b0eb24ea73a239b6c2787c60aa1107b5299aee29e5f89c7ab06ce3a3e0a75
+  - cited by [t_afeae6] "检验脚本自我更正：初版把「比利时1798应为正例」同时施加于两个结局，而BE1798在sustained上按来源编码本就是0。现版以各案来源编码真值为判准，另设防作弊断言确保BE1798的mass仍…" (fact)
+- `sources/t_b1a536/F3_capacity.csv` ← `nodes/r_5b1357a9c6/cards/t_b1a536/F3_capacity.csv`
+  - "[t_b1a536] nodes/r_5b1357a9c6/cards/t_b1a536/F3_capacity.csv"
+  - sha256 72b3f967067613e3cabac14bad2431d3dc0e87454e3e79ccf237e3d83c21dc98
+  - cited by [t_b1a536] "持续海战W与1815后海上停战P的1830十二月动员战列舰条件包络分别53–124（主84）、84–140（主111）；常备在役主73/61。总人力和合格子集、非战列预留及维修均分列；这不是历史观察…" (inference)
+- `sources/t_b1a536/F3_french_navy_capacity.md` ← `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - "[t_b1a536] nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md"
+  - sha256 db2b45eb8f83aa801c4c0a8d9993dd7d74080bb5f0a3fbdddbae1e733434e920
+  - cited by [t_b1a536] "强制最大沿海兼并并非最优海权方案：资源控制的收益必须扣掉陆军驻防、商航萎缩和征募抵抗；较低压的荷意合作、对俄原料贸易和海上和平有利于长期成军。" (interpretation)
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/notes_sources.md`
+- `sources/t_b1a536/F3_quote_ledger.md` ← `nodes/r_5b1357a9c6/cards/t_b1a536/F3_quote_ledger.md`
+  - "[t_b1a536] nodes/r_5b1357a9c6/cards/t_b1a536/F3_quote_ledger.md"
+  - sha256 7d492465586816e3018c1e20ca2c785fd840909bbd98ab19ad608780b172543f
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_race_1815_1830.md`
+- `sources/t_b1a536/F3_sensitivity.csv` ← `nodes/r_5b1357a9c6/cards/t_b1a536/F3_sensitivity.csv`
+  - "[t_b1a536] nodes/r_5b1357a9c6/cards/t_b1a536/F3_sensitivity.csv"
+  - sha256 22e8a3eb563fdfb7022685915bd6b1e5d5751bbdb00b7c535297d29532cb97e1
+  - cited by [t_b1a536] "1830主线对持续流入敏感：新下水减30%降至60/83舰，总员与技能流入减30%降至57/69舰；放弃安特起始12舰且此后年少3舰的压力测试为50/71。财政减30%不能直接等同流量减30%。" (inference)
+- `sources/t_b1a536/build_F3_model.py` ← `nodes/r_5b1357a9c6/cards/t_b1a536/build_F3_model.py`
+  - sha256 cc40d7f90dcf83b0671d69a5f364b648f9530494c58dd20b2b728e47dc0ecacb
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/part_03_policies_timeline.md`
+- `sources/t_b1a536/notes_yards.md` ← `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`
+  - "[t_b1a536] nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md"
+  - sha256 1df4b54371dabae33af44ddc50d980c6f258f1dbb25ce3e5271d0c65b2d0f784
+  - cited in `nodes/r_5b1357a9c6/cards/t_02f417/notes_materials_02.md`
+- `sources/t_b1a536/yards_launches_1807_1813.csv` ← `nodes/r_5b1357a9c6/cards/t_b1a536/yards_launches_1807_1813.csv`
+  - "[t_b1a536] nodes/r_5b1357a9c6/cards/t_b1a536/yards_launches_1807_1813.csv"
+  - sha256 06e1806bb970d65d77e51a39f62075406fcd7c6340e49a75146813a7a489e13c
+  - cited by [t_b1a536] "计入安特卫普与意厂后，1807–1813指定七组船厂至少50个不同战列舰体下水；舰名改名和俘获转籍已去重。逐舰网页正文多经Winfield–Roberts/Roche转引，原书未阅，若干日期异文保留。" (fact)
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+- `sources/t_b5dab4/PL_poland_lithuania.md` ← `nodes/r_5b1357a9c6/cards/t_b5dab4/PL_poland_lithuania.md`
+  - "[t_b5dab4] nodes/r_5b1357a9c6/cards/t_b5dab4/PL_poland_lithuania.md"
+  - sha256 6ee11f471a4c548c944fe5cbf5324006bcd367bccfad48eeb3366287b79a5337
+  - cited by [t_b5dab4] "B3总判：1807年'取消普鲁士＋复国波兰'不可一步到位——提尔西特的对俄和解目的与复国目的互斥（拿破仑自己在维尔纽斯答Wybicki中确认了镜像命题：对奥保证即不能全面复国）。可行形态为两段式：1…" (interpretation)
+  - cited by [t_b5dab4] "动员上限包络（模型，参数全注）：B3-lite（3.2–4.5m人）常吤35–55k/冲刺90–130k；B3-max（+加利西亚，5.5–6m）45–65k/130–165k；胜俄后（+立陶宛，6…" (inference)
+  - cited by [t_b5dab4] "S5可持续性：会议王国镜像实验证明'经济整合成功≠政治稳定'（Lubecki盈余与1830起义并行）。断裂四环：宪法空洞化/军队屈辱/外部革命行情/外派威胁。S5善治版（宪制+贸易+不外派）可过拿破…" (interpretation)
+  - cited by [t_b5dab4] "结构性发现（交P2/P6/P8）：波兰忠诚是'双备函数'——复国期票可信度×贸易现金流两变量皆备时忠诚近乎无价（1812年108k），皆失时归零（1813春），非线性跳变非渐变；缓冲功能（要求军事化…" (interpretation)
+- `sources/t_b5dab4/notes_fiscal_army_1831.md` ← `nodes/r_5b1357a9c6/cards/t_b5dab4/notes_fiscal_army_1831.md`
+  - "[t_b5dab4] nodes/r_5b1357a9c6/cards/t_b5dab4/notes_fiscal_army_1831.md"
+  - sha256 874e7e8c9c73b1f9fd4ec5b2da2a84393afc3d662284d994ed21bffe0f6d0300
+  - cited by [t_b5dab4] "Falsifier初判：公国1808–12未获法国经常性现金补贴；法国的让步形式是免除对法债务（1810放弃印花4.35m fr、盐款减1.65m、炮款减0.5m）、承担8千波军军饷（巴约讷军事条款…" (inference)
+  - cited by [t_b5dab4] "动员上限锚点组：公国宪法定额30k→1810–11纸面59,200（人口4.2–4.3m）→1812部长会议报74,722、Kukiel全口径108k（含法饷与国卫）；立陶宛编制17k基本填满、潜力…" (inference)
+  - cited by [t_b5dab4] "犹太人政策双轨实测：1807宪法与1808-05-09征兵令名义普遍平等→1808-09/10/11三敕令中止公民权10年并禁购地产→1812-01-29以年缴700,000złp赎全体兵役、11-…" (fact)
+- `sources/t_b702da/X4_ideas_nationalism_movements.md` ← `nodes/r_5b1357a9c6/cards/t_b702da/X4_ideas_nationalism_movements.md`
+  - "[t_b702da] nodes/r_5b1357a9c6/cards/t_b702da/X4_ideas_nationalism_movements.md"
+  - sha256 50e8bb5ddedae262d63d47366b7ccd019e57a7c3610c099eba6a74f8edef29a3
+  - cited by [t_b702da] "X4主线判决（中高）：无1813年，德意志政治民族主义降档慢行15–25年（文化民族主义不减速），载体从战争记忆换为关税-征兵申诉；群众化在任何情景都需国家级动员事件点火。法制欧洲意识形态死穴排序：…" (interpretation)
+  - cited by [t_b702da] "1848推演：S5下体系级复合危机落在1845–52窗口概率≈0.6–0.8（生存危机外生恒在，承E1）；取欧陆同步革命波形态≈0.35–0.55；主形态=巴黎辐射型立宪-面包-继承复合危机，诉求语…" (inference)
+  - cited by [t_b702da] "falsifier裁决：“1806–12占领区民族话语已达1813水平”不成立（600册/620人/1809无响应）；但祛魅双向：1813基准本身被同源证据削低（志愿者1/10、普外无起义、战后建构…" (interpretation)
+- `sources/t_b9e29c/B4_british_army_home_defence.md` ← `nodes/r_5b1357a9c6/cards/t_b9e29c/B4_british_army_home_defence.md`
+  - "[t_b9e29c] nodes/r_5b1357a9c6/cards/t_b9e29c/B4_british_army_home_defence.md"
+  - sha256 937fadb936ca6db3ffcdc4e2bfa80db5b181ef3311fb559e817a8e3da4327ed5
+  - cited by [t_b9e29c] "在D+2完整合成军已上岸、英海军D+2–7封断后援的基准下，2万多为遏制/争夺、4万为预警铰链、8万/12万较可能有初期局部优势；这不证明大规模卸载可达，也不是全国迫和概率。" (inference)
+  - cited by [t_b9e29c] "取消半岛战争不可只给法国节省陆军而继续把同一英国远征军从英国本土扣除；英国驻军分配与征募内生改变。" (inference)
+  - cited by [t_b9e29c] "S5低/中/高威胁常设陆军模型包络6.5–9/10–15/16–22万是接近1822投票范围的all ranks口径（排驻印、公司军、海军陆战队及另列炮工/辅助），数值低置信，须B2财政/IE驻军联…" (inference)
+- `sources/t_b9e29c/B4_capacity_food_sensitivity.csv` ← `nodes/r_5b1357a9c6/cards/t_b9e29c/B4_capacity_food_sensitivity.csv`
+  - "[t_b9e29c] nodes/r_5b1357a9c6/cards/t_b9e29c/B4_capacity_food_sensitivity.csv"
+  - sha256 34c1d16ea5b4f1a03eaf7c01d28ac9fc50eb0be16db4fe4ae50dfefad93f5dfa
+  - cited by [t_b9e29c] "四组蒙特耶尔运载样板提供80,928战斗席但只有5,564马位；与80k人数的10%马率假设相差2,436马位。该数字是两组假设的资源冲突，不是史实全军缺额。" (inference)
+- `sources/t_b9e29c/B4_transport_warning_supplement.md` ← `nodes/r_5b1357a9c6/cards/t_b9e29c/B4_transport_warning_supplement.md`
+  - "[t_b9e29c] nodes/r_5b1357a9c6/cards/t_b9e29c/B4_transport_warning_supplement.md"
+  - sha256 3094311e0ff3fe15c5d61b20b53e5c2f0f04b5e3911d93198bd08466a6d49f73
+  - cited by [t_b9e29c] "80k肯特两潮/六潮约2–4日或4.5–6日是串行时间压力测试，装载和卸载量未校准，不等于已核天气窗口或需连续同长制海权。原80k局部优势仅在完整到岸条件下保留。" (inference)
+  - cited by [t_b9e29c] "F3与B3回传未使80k完整登陆或72h准确预警变成已证能力；B4运输预算和预警分档继续是条件假设。" (inference)
+- `sources/t_b9e29c/notes_Chilcott_2006.md` ← `nodes/r_5b1357a9c6/cards/t_b9e29c/notes_Chilcott_2006.md`
+  - "[t_b9e29c] nodes/r_5b1357a9c6/cards/t_b9e29c/notes_Chilcott_2006.md"
+  - sha256 1e2cb5bb44226b768e8da4913642e71cf73beb4153b273b97a8a55311de0ac73
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+- `sources/t_be9258/IT1_kingdom_of_italy.md` ← `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+  - "[t_be9258] nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md"
+  - sha256 ac8257f376eaca550266fef78f2b002135300329e838adad9009f11edaaf5197
+  - cited by [t_be9258] "本卡falsifier（"1810–13文书示皇子成年后合并意/那→统一上调"）部分成立：意大利王冠指向皇子有同期文书（1810文书群+1805 art.3自动分冠条款）；那不勒斯合并无同期文书，仅…" (inference)
+  - cited by [t_be9258] "三分支条件概率（法胜S2/S5前提）：分治藩属C在位期主线0.55–0.65（全部同期文书支撑的唯一稳态）；罗马王/皇子统一王国B继承后上调为主线0.35–0.45（通道=1805 art.3自动分…" (interpretation)
+- `sources/t_c69786/B1a_landing_decision.md` ← `nodes/r_5b1357a9c6/cards/t_c69786/B1a_landing_decision.md`
+  - "[t_c69786] nodes/r_5b1357a9c6/cards/t_c69786/B1a_landing_decision.md"
+  - sha256 f54a117c70553d0d10232665895616c3d5c91775fbeee23717e61e146571533b
+  - cited by [t_c69786] "政府内迁与媾和并不互斥：在保存合法授权后进行条件议价，比伦敦失守即降或永久续战更符合目前证据包络；1–3个月只是持续军事压力且有限要价下的模型时间窗。" (inference)
+- `sources/t_c69786/B1b_acceptance_equilibrium.md` ← `nodes/r_5b1357a9c6/cards/t_c69786/B1b_acceptance_equilibrium.md`
+  - "[t_c69786] nodes/r_5b1357a9c6/cards/t_c69786/B1b_acceptance_equilibrium.md"
+  - sha256 9f31495fdedeb69f4580b8d9276d514b93be0ff8deb8fc03e81f05fe32e12d9d
+  - cited by [t_c69786] "在位保守政府也可媾和，和平网络不自动转化执政多数；稳固和平需要王冠认可、盟友处置、海军安全及真实商业开放的组合。" (inference)
+  - cited by [t_c69786] "英国接受法国大陆优势的较可行方式是保留独立海权、王朝议会、公债与可执行商业准入的有条件和平；无盟友S2中心签约窗口为1811–14，不要求Whitbread独立执政。" (inference)
+- `sources/t_c69786/B1c_1815_1848.md` ← `nodes/r_5b1357a9c6/cards/t_c69786/B1c_1815_1848.md`
+  - "[t_c69786] nodes/r_5b1357a9c6/cards/t_c69786/B1c_1815_1848.md"
+  - sha256 3cba0d7d5efe6119a2f6cf0fd0844499c2344cbf4291c32590a40383c27aac4b
+  - cited by [t_c69786] "最大行省化可以得到英国短期默认，但若同时永久排除贸易、集中沿海战争能力并威胁英国主权，稳定跨继承的英国中立较不可能；重新联盟须同时具备威胁、可战伙伴及国内供款。" (inference)
+- `sources/t_c69786/notes_1812_check.md` ← `nodes/r_5b1357a9c6/cards/t_c69786/notes_1812_check.md`
+  - "[t_c69786] nodes/r_5b1357a9c6/cards/t_c69786/notes_1812_check.md"
+  - sha256 17cc0f7bd2078a0ff4841c11e5fd646a1092a519d826862bae9c201ccb257fbc
+  - cited by [t_c69786] "1812年对西班牙Joseph王朝的接受障碍足以否定‘只保葡萄牙和西西里就能和平’的低底价模型，但未证英国要求法国全面退至1792边界。" (inference)
+- `sources/t_c87512/P6_impulse_risk.csv` ← `nodes/r_5b1357a9c6/cards/t_c87512/P6_impulse_risk.csv`
+  - "[t_c87512] nodes/r_5b1357a9c6/cards/t_c87512/P6_impulse_risk.csv"
+  - sha256 2ada43075e184ec0327cd5e495e0f25a63d4448ac9df3e5f41f6c384dade4a45
+  - cited by [t_c87512] "【推断·中】长久性的第一威胁不是继承而是F1的'0.7/18月单边冲动'：把它拆为'启动行动'与'行动落在英国红线'两步后，若红线份额0.30则英法和约至1848存续仅0.077；降至0.10–0.…" (inference)
+- `sources/t_c87512/P6_max_extent.csv` ← `nodes/r_5b1357a9c6/cards/t_c87512/P6_max_extent.csv`
+  - "[t_c87512] nodes/r_5b1357a9c6/cards/t_c87512/P6_max_extent.csv"
+  - sha256 dac834940e85ec8590013da559da8b50d7d27bc053d949d6f530709f0f4b92ed
+  - cited by [t_c87512] "【解释·中高】最大版图：A层已核上限≈旧法国本土（约2,900万，OWID口径警告）＋内圈五区785万（D1）＋托斯卡纳/帕尔马型＋条件性贝格型；其余每一公里为负资产。限制不是吞吐速度而是低摩擦候选…" (interpretation)
+- `sources/t_c87512/P6_path_scores.csv` ← `nodes/r_5b1357a9c6/cards/t_c87512/P6_path_scores.csv`
+  - "[t_c87512] nodes/r_5b1357a9c6/cards/t_c87512/P6_path_scores.csv"
+  - sha256 85115b3db72fb14547089bca9c15a8459c5242b1904de28fee5c0f93bcd07eb4
+  - cited by [t_c87512] "奇迹计数结果：S3封锁绞杀线需4件独立低概率外生事件（≤0.25）、S4东方转向线需3件，二者均触发本卡falsifier'≥3件→不能作主线'；S1入侵线严判据下2件、宽判据（≤0.30）下3件，…" (inference)
+- `sources/t_c87512/P6_paths_annual.csv` ← `nodes/r_5b1357a9c6/cards/t_c87512/P6_paths_annual.csv`
+  - "[t_c87512] nodes/r_5b1357a9c6/cards/t_c87512/P6_paths_annual.csv"
+  - sha256 7d14fc4fb5711c88f56299703b1bb6d7fffbacb686855b51df9698c94ed0df30
+  - cited by [t_c87512] "对弈引擎以史实政策向量（S0对照线）运行时，人力账自1808年西班牙废立起转为NEGATIVE并在1812达到需求112.8–119.8万对供给38.75–56万，且当年触发'同一机动军不得两处'硬…" (inference)
+  - cited by [t_c87512] "引擎强制暴露的取舍：路径B若在1813年后仍维持S2姿态（在场需求54万），则陆军费378m+海军195m=573m超出F4高收入+盟约案可得（495m+关税净56m≈551m），逐年缺7–22m；…" (inference)
+- `sources/t_c87512/P6_realization.csv` ← `nodes/r_5b1357a9c6/cards/t_c87512/P6_realization.csv`
+  - "[t_c87512] nodes/r_5b1357a9c6/cards/t_c87512/P6_realization.csv"
+  - sha256 79d044966a018fdc06a32f9ffc147200e98acc14dec15c7092b235703521fdd2
+  - cited by [t_c87512] "【推断·中】存在论成立但须分栏：路径B（S2′）所需的三项外生事件均为各单位卡判定的中等概率反应（英国签约0.40–0.60、俄国十年不战0.35–0.50、奥地利不再入场0.45–0.60），无一…" (inference)
+- `sources/t_c87512/P6_victory_paths_wargame.md` ← `nodes/r_5b1357a9c6/cards/t_c87512/P6_victory_paths_wargame.md`
+  - "[t_c87512] nodes/r_5b1357a9c6/cards/t_c87512/P6_victory_paths_wargame.md"
+  - sha256 4a408721623ed7bf538c7aff4a3cb1db654cc73a55147d827812d2ee08c8c637
+  - cited by [t_8a7b54] "P6提出的P(英国签约∩俄国不战∩奥不再入场|法有界自限)=0.30–0.50，需在给定英.40–.60/俄.35–.50/奥.45–.60的边际下高度正相依；把法国政策共同原因先条件化再作为额外相…" (inference) — "共因模型下的联合：三国默许由同一个潜变量（法国可信自限）驱动且正相关"
+  - cited by [t_c87512] "【不确定·最大单点未验证假设】保护性财政关税版的英国反应函数没有任何一张卡直接检验过：X2自标保护版为MODEL且'英方枢密令反应未校准'，B1/B5只给了史实封锁与完全开放两端的反应。若英方对中率…" (inference)
+- `sources/t_c87512/notes_inputs_core.md` ← `nodes/r_5b1357a9c6/cards/t_c87512/notes_inputs_core.md`
+  - "[t_c87512] nodes/r_5b1357a9c6/cards/t_c87512/notes_inputs_core.md"
+  - sha256 58f7ba644ca643ca09beb7d6eb5ee9c5b990a02ec19d7d93571b82322fdb7e2c
+  - cited by [t_c87512] "【推断·中高】本卡的最大综合发现：两个制度开关各自同时满足六七个互不相关单位的反应函数。开关一（大陆体系改保护性财政关税）同时满足X2的最优策、R1的唯一六列同击让步（关税容忍）、SC的'少要求'、…" (inference)
+- `sources/t_c8b161/IE_ireland.md` ← `nodes/r_5b1357a9c6/cards/t_c8b161/IE_ireland.md`
+  - "[t_c8b161] nodes/r_5b1357a9c6/cards/t_c8b161/IE_ireland.md"
+  - sha256 eea6734c61fcb6cbce55e8f605280eb6db9709e90071467980b32d64074b8c76
+  - cited by [t_c8b161] "推演：法国若占领爱尔兰，按F2已冻结的占领密度参数分区测算（南三省3–6‰、阿尔斯特东北18–30‰），需长期驻军**33,000–66,000人（中值约4.5万）**；而爱尔兰本土财政汲取上限约£…" (inference)
+  - cited by [t_c8b161] "推演（中置信）：动员上限四档——无法军：300–3,000；1,000–2,000法军：3,000–8,000；5,000–8,000法军：10,000–25,000；18,000–25,000法军…" (inference)
+  - cited by [t_c8b161] "机制发现（解释）：爱尔兰内部结构不是“天主教多数 vs 英国”而是三方（天主教多数／8万武装新教义勇派／英国国家）。法军登陆只移除第三项，第二项会退守阿尔斯特东北并得皇家海军支持。最接近的史实类比是…" (interpretation)
+- `sources/t_c98c24/P2_budget.csv` ← `nodes/r_5b1357a9c6/cards/t_c98c24/P2_budget.csv`
+  - "[t_c98c24] nodes/r_5b1357a9c6/cards/t_c98c24/P2_budget.csv"
+  - sha256 77b02fc7feb3be7bda0a5a40c39d254929265cf149d479c172f943e5e12caf40
+  - cited by [t_c98c24] "有限行省化可以在明确海军让步和盟军兑现条件下闭合，但不应把50万法国物理供兵上限当作已支付军队；四地全并含外圈在中心条件仍缺11.67万在场、174.2m年军费。" (inference)
+- `sources/t_c98c24/P2_joint_optimistic.csv` ← `nodes/r_5b1357a9c6/cards/t_c98c24/P2_joint_optimistic.csv`
+  - "[t_c98c24] nodes/r_5b1357a9c6/cards/t_c98c24/P2_joint_optimistic.csv"
+  - sha256 5bc49ff0e4c356392e7b822981fa2bc4a40d8964215edc1b9ab7bb5cb9632d01
+  - cited by [t_c98c24] "技术可行与政治兑现必须分叉：保留原有军队建制不必然保留王朝主权，不能通过把一切成功转隶重新定义成B来排除A方案；但北意分冠、加泰主权、地方自养与低驻军同时实现的证据不足。" (inference)
+  - cited by [t_8a7b54] "P2乙案联合乐观资源角可闭合，账面余在场兵23,597.608、军费19.229m法郎；丙案仍缺215,514.338人和174.980m，不能说乙全并算术不可能，也不能将乙技术闭合当政治精英合法转…" (fact)
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_bands.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_tree.md`
+- `sources/t_c98c24/P2_provincialization_verdict.md` ← `nodes/r_5b1357a9c6/cards/t_c98c24/P2_provincialization_verdict.md`
+  - "[t_c98c24] nodes/r_5b1357a9c6/cards/t_c98c24/P2_provincialization_verdict.md"
+  - sha256 47b0a504c94efc865768eb386a18f344dc79ca209505d5f9322c6aa98c4064b3
+  - cited by [t_8a7b54] "乙56.676m“技术不可能”受到联合乐观算术反例，需分开技术/政治条件概率；同案丙77.317m仍负。" (fact) — "乙四地＋外圈需求57.165万，物理供给余2.36万、军费余19.23百万；故乙全并不能以纯技术不可能结案。 同案丙仍短21.55万在场和174.98百万军费。"
+- `sources/t_c98c24/p2_joint_model.py` ← `nodes/r_5b1357a9c6/cards/t_c98c24/p2_joint_model.py`
+  - sha256 73c4054caabaab350ff7b08c67cd206fc04953980420c19e856b71322bdecd08
+  - cited in `nodes/r_5b1357a9c6/cards/t_c98c24/P2_provincialization_verdict.md`
+- `sources/t_c98c24/scenario_summary.csv` ← `nodes/r_5b1357a9c6/cards/t_c98c24/scenario_summary.csv`
+  - sha256 77b02fc7feb3be7bda0a5a40c39d254929265cf149d479c172f943e5e12caf40
+  - cited by [t_c98c24] "有本轮可复算模型的中心假设下，保王朝藩属与有限并省足以节约军人，而四地强并且保持1812外圈较早暴露盟军消失与驻防增加的时间差，10年后尚缺约11.67万在场兵；需至少一年财政增量174.2m以维持…" (inference)
+- `sources/t_ca3e8d/EG_egypt_red_sea.md` ← `nodes/r_5b1357a9c6/cards/t_ca3e8d/EG_egypt_red_sea.md`
+  - "[t_ca3e8d] nodes/r_5b1357a9c6/cards/t_ca3e8d/EG_egypt_red_sea.md"
+  - sha256 3c8246e261902fd80c52bc0a9fac02f3d96bdccfd7df50ea820a8bb3ef310f05
+  - cited by [t_ca3e8d] "证伪线判定：「1805–15阿里对法英等距」成立但结构是“商业向英、技术向法、政治两拒”；「拒开红海」半成立（他重启红海商路但拒绝任何他国军事化）；红海运兵分支关闭的充分原因在法国侧（制海+运力+只…" (interpretation)
+- `sources/t_cbaee3/G2_north_german_states.md` ← `nodes/r_5b1357a9c6/cards/t_cbaee3/G2_north_german_states.md`
+  - "[t_cbaee3] nodes/r_5b1357a9c6/cards/t_cbaee3/G2_north_german_states.md"
+  - sha256 edc552b896894fd98bc6c8e08423f8c813359077593b5675f7bc67d4828c24df
+  - cited by [t_cbaee3] "S6兼并承受度排序（总判）：法兰克福≈奥尔登堡≈梅克伦堡（政治可并/净值≈零或负/奥件有俄国外部成本实测）<汉诺威（可并但兵源泄英）<贝格（唯一并入优于藩属的单位，但被法国保护主义否决）<汉萨（可并…" (inference)
+- `sources/t_ccdcc8/NL_netherlands_switzerland.md` ← `nodes/r_5b1357a9c6/cards/t_ccdcc8/NL_netherlands_switzerland.md`
+  - "[t_ccdcc8] nodes/r_5b1357a9c6/cards/t_ccdcc8/NL_netherlands_switzerland.md"
+  - sha256 f0c3901ce66bbab250c396c7b4bde39428fdc75922ea09fd7f42ea3595c8234b
+  - cited by [t_ccdcc8] "falsifier终判：“骚乱主因征兵”成立（最大单项动因35%，三大起义全由征兵触发，无国族维度）；但“兼并可行性上调”仅在“兼并退化为藩属（不征兵不削债软海关）”情形成立——而那恰好取消兼并的全…" (interpretation)
+  - cited by [t_ccdcc8] "总判：荷兰=可兼并不可消化（镇压永远可行、净收益永远为负、1813实测三周蒸发）；瑞士=不必并也不能并（调停模式零成本换十年顺从+16,000条约兵，兼并即同时销毁产出并激活山地起义链）；行省化A层…" (interpretation)
+- `sources/t_e0038f/D2_annexed_outer.md` ← `nodes/r_5b1357a9c6/cards/t_e0038f/D2_annexed_outer.md`
+  - "[t_e0038f] nodes/r_5b1357a9c6/cards/t_e0038f/D2_annexed_outer.md"
+  - sha256 a55a6b364106342ec61a6c0bd1157b4f337357efed17fa72c3b030a8060561bc
+  - cited by [t_e0038f] "falsifier裁决："罗马/荷兰/汉萨兼并后3年无系统性抵抗→外圈上调"不成立：三地均有系统性抵抗（罗马征兵崩坏+誓词罢工+1812起事苗头；荷兰80+revolts的67%；汉萨1813-02…" (interpretation)
+  - cited by [t_e0038f] "S6外推主线（中高置信）：北意=技术可行但净值为负（没收自治溢价、征兵实得向罗马折扣滑动）；德西=分叉于关税墙（贝格型工业区在"并合+真准入"下可内圈化，海岸带必重演汉萨自败）；全西班牙=试点已证伪…" (interpretation)
+- `sources/t_e0038f/D2_breakpoints.csv` ← `nodes/r_5b1357a9c6/cards/t_e0038f/D2_breakpoints.csv`
+  - "[t_e0038f] nodes/r_5b1357a9c6/cards/t_e0038f/D2_breakpoints.csv"
+  - sha256 a68f10f04c430278d400218074d0ee6fd6d29b60fc2aefc7d1034458b5f6fc8b
+  - cited by [t_e0038f] "外圈六型失败模式（渐进磨损/先行榨取/合法性罢工/城市暴动反复/滞后爆发/战争吞噬+荒地治理）互不相同→S6扩张不存在单一修补方案；断裂点=G3（封锁伤害）×G4（精英补偿）交点，外圈失败是政策组合…" (interpretation)
+- `sources/t_e0038f/notes_catalonia.md` ← `nodes/r_5b1357a9c6/cards/t_e0038f/notes_catalonia.md`
+  - "[t_e0038f] nodes/r_5b1357a9c6/cards/t_e0038f/notes_catalonia.md"
+  - sha256 995c156babd7f87761f802bc2442fa59c31eebeb1bbec4a521da015a91a81653
+  - cited by [t_e0038f] "加泰罗尼亚法理自供状：1812-01-26四省敕令从未刊入帝国法律公报、无元老院令追认（=事实并合而不敢法律并合）；1813-03-15下加泰民政撤销复归军政=行政自认失败；征兵从未实施。三网页源互…" (fact)
+  - cited by [t_e0038f] "加泰语言让步实验的同时代失败评估：Augereau 1810年3月使加泰语官方化（市政记录+双语官报），9月即逆转；1812-04 Chauvelin咨询的Audiència golillas委员会…" (fact) — "la insurrecció no s'afeblí pas gens amb això"
+- `sources/t_e0038f/notes_valais.md` ← `nodes/r_5b1357a9c6/cards/t_e0038f/notes_valais.md`
+  - "[t_e0038f] nodes/r_5b1357a9c6/cards/t_e0038f/notes_valais.md"
+  - sha256 1b57a2f9974e6138bf99157aad975bddd801c50862af1547d0ad7d3373440a54
+  - cited by [t_e0038f] "瓦莱=外圈唯一零抵抗单位：1810-11-26要员与教会宣誓后驻军即降至约1,000人；两副省长皆本地要人（上瓦莱Sépibus/下瓦莱Dufour）；但财政净负（税不抵行政费，Gaudin经F4）…" (inference)
+- `sources/t_eaa841/P7_consistency.csv` ← `nodes/r_5b1357a9c6/cards/t_eaa841/P7_consistency.csv`
+  - "[t_eaa841] nodes/r_5b1357a9c6/cards/t_eaa841/P7_consistency.csv"
+  - sha256 d7592810aaf33ca78793a1cbda4fbd65fcd4235a4c09d3c9c74742916eb7f771
+  - cited by [t_eaa841] "卡面falsifier检验结果：四账（人力/财政/海军/官员）在主线上无一不闭合。人力：1803–12需467.5–680k/供540k（TIGHT非负）、1813后余1.71万（P2财政约束口径）…" (inference)
+  - cited by [t_eaa841] "14项前提冲突裁定（PRE-01至14）：单位卡S2/S5年表多以史实1805–13事件为前提，与路径B冲突处逐项裁定。最重要五项：①P6文本"残普"为措辞瑕疵，本线普鲁士完整——普奥消长答案数量差…" (interpretation)
+- `sources/t_eaa841/P7_world_chronicle_1803_1848.md` ← `nodes/r_5b1357a9c6/cards/t_eaa841/P7_world_chronicle_1803_1848.md`
+  - "[t_eaa841] nodes/r_5b1357a9c6/cards/t_eaa841/P7_world_chronicle_1803_1848.md"
+  - sha256 85b2cc4304bbe9273d55180c463806f14ce321addea79b7a2af5e275728d7dcb
+  - cited by [t_eaa841] "P7年表交付：以P6路径B（S2′→S5，0奇迹线）为骨架、44单位卡⑭年表为血肉，装配1803–1848逐年四栏年表338条，184/184年×栏格全覆盖，每条带锚点/机制引/置信/来源卡；八分问…" (fact)
+  - cited by [t_eaa841] "装配层发现"无提尔西特级联"：移除1805–07三场战争后十项史实结构整体消失——无华沙公国（波兰维持1795瓜分线全期）、丹麦保舰队与挪威、芬兰留瑞典且瓦萨延续（贝尔纳多特永不入斯德哥尔摩）、18…" (interpretation) — "这些不是本卡新推演，而是各单位卡反应函数在移除战争引信后的一致输出"
+  - cited by [t_eaa841] "八分问表定稿（1848视点）：①行省化三层答（字面版不存在/边界版≈40M存在/控制版存在0奇迹）；②秩序=分层准入体系+三内生时钟，存续0.45–0.65；③海军差距P档1830吨0.902效0.…" (inference)
+- `sources/t_ec2248/notes_postsubmission_declarations.md` ← `nodes/r_5b1357a9c6/cards/t_ec2248/notes_postsubmission_declarations.md`
+  - "[t_8a7b54] nodes/r_5b1357a9c6/cards/t_ec2248/notes_postsubmission_declarations.md"
+  - sha256 dbf88560ed8dfd2eb0c486e0e63a8a1a2530f222958cec72459007342fb4a1b0
+  - cited by [t_8a7b54] "Ellis附录I对应G下行A.N. F12 251部务表（经Heils转录）；1806/1810/1813十五地目的地合计对应总出口覆盖100.0/99.8/99.9%，1817仅69.5%；P8不…" (fact) — "附录 I 十五个目的地 1817 年合计 322.4，仅为附录 G 同年出口总额 464 的 69.5%；1806／1810／1813 三年则为 100.0%／99.8%／99.9%"
+- `sources/t_f314c4/SA_south_america.md` ← `nodes/r_5b1357a9c6/cards/t_f314c4/SA_south_america.md`
+  - "[t_f314c4] nodes/r_5b1357a9c6/cards/t_f314c4/SA_south_america.md"
+  - sha256 11586d60d622f6fbaba6fef62160c304d551313ed6f18397d605b59f90143522
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_bands.md`
+  - cited by [t_f314c4] "主线（中高）：南美的分合由"是否存在被承认的合法国王"与"出海通道是否开放"两变量决定；法国只能操作第一个（借西班牙王位名义），英国只能操作第二个（航运与同盟资格），二者都无法以武力占领任何总督区。" (inference)
+  - cited by [t_f314c4] "S6（最大行省化，含吞并西班牙）在美洲的代价是确定的：西班牙被吞并＝美洲合法性归零＝白银与市场同时丧失。P2 的行省化净收益计算必须扣除美洲白银与市场的全部现值。" (inference)
+  - cited by [t_f314c4] "1848 地图概率带：S2 下南美主权实体数中位 4（3–7）且"帝国存续但联邦化"0.40–0.55；S6 下中位 10（9–12）且法国收益为零；跨情景不变量：巴西不回欧洲法制秩序、上秘鲁归属恒…" (inference)
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_tree.md`
+- `sources/t_f4bb81/A_assemble_validate.py` ← `nodes/r_5b1357a9c6/cards/t_f4bb81/A_assemble_validate.py`
+  - sha256 9040da277dd09f7a8c42430b0513a7f3d546ebbf6170c2ef6a82098aad883362
+  - cited in `nodes/r_5b1357a9c6/cards/t_f4bb81/VALIDATION.md`
+- `sources/t_f4bb81/A_calculations.py` ← `nodes/r_5b1357a9c6/cards/t_f4bb81/A_calculations.py`
+  - sha256 69fbd03ba61b132bb81028a67fd7d7335f466a894bb75c7f9dc7b828ad315477
+  - cited in `nodes/r_5b1357a9c6/cards/t_f4bb81/VALIDATION.md`
+- `sources/t_f4bb81/A_scenario_bounds.csv` ← `nodes/r_5b1357a9c6/cards/t_f4bb81/A_scenario_bounds.csv`
+  - "[t_f4bb81] nodes/r_5b1357a9c6/cards/t_f4bb81/A_scenario_bounds.csv"
+  - sha256 c03c7aa9bfbedcf0adcb38a0f89ca1652dd8de3313315c8719c5e35311da73e8
+  - cited by [t_3ee1b0] "普奥比较的差距位置需修正描述：A卡印1815—30奥国单一主战区危机野战9—14万，与本卡S5残普各战区野战合计8.0—15.2万在单一战线上重叠；因此“奥强于残普”的实质不在单场会战兵力，而在多战…" (inference) — "S2/S5,one_main_theatre,crisis_1815-1830,90000,140000,persons,counterfactual,"M13 May-August1813""
+  - cited by [t_3ee1b0] "A卡未冻结可比疆界的奥国绝对人口，仅给出1810同疆指数100→1848约121—146（假设净增0.5—1.0%/年×38年）。因此PR卡不得计算普奥人口比值，1848排序只由军额、财政与疆界条件…" (fact) — "economic_population_index,1848,121,146,1810_same_borders_index,counterfactual,"G11;E16","assumed ne…"
+- `sources/t_f4bb81/part_02_policy.md` ← `nodes/r_5b1357a9c6/cards/t_f4bb81/part_02_policy.md`
+  - "[t_f4bb81] nodes/r_5b1357a9c6/cards/t_f4bb81/part_02_policy.md"
+  - sha256 bffb263c741722c9d2eaa241c2ad1378486d2c8fa0c081441e274c0e6f7988ee
+  - cited by [t_f4bb81] "主线为保王朝/核心军队、有限援军、海口/商业通达与明确边界的受约束法奥同盟；早期克制可避免1809毁损，晚修复则以1812盟约条款为当时可用工具。" (inference)
+  - cited by [t_f4bb81] "全哈布斯堡行省化不是联合满足英国中立、长期财政与一次继承的合理主线；不能以地方官留用直接否认并省，需检验他们是否接受巴黎最终税兵任命权。" (inference)
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_financial_addendum.md`
+- `sources/t_f55d87/G1_south_german_states.md` ← `nodes/r_5b1357a9c6/cards/t_f55d87/G1_south_german_states.md`
+  - "[t_f55d87] nodes/r_5b1357a9c6/cards/t_f55d87/G1_south_german_states.md"
+  - sha256 10e65e849df339f65072210a17371adff2b434813a8e02f3566bcf8f4dacfd88
+  - cited by [t_f55d87] "总判（中高置信）：第三德意志能成为法国霸权支柱，且是体系内成本效益最高的一层（自带行政/自征税/自供兵、零法国驻军成本）。支柱持久四条件：担保独占（奥地利不得成为替代担保人）、血税≤阈值（年动员≈1…" (interpretation)
+  - cited by [t_f55d87] "falsifier裁定：“1809/1813忠诚只系于法军胜利”部分成立但不完整。胜利概率是必要输入，但1813实际触发器是“替代担保人出现（奥地利参战并愿担保Ried Art.4）＋血税超限（18…" (inference)
+  - cited by [t_f55d87] "1815–48替代形态：南德立宪与关税自组织是内生行动线（锚：1808宪法、1815弗里德里希主动召集等级会议、1828巴符关税同盟均非外力强加）；法国胜利只改变其形态不消除其动力。若法国关税墙不降…" (inference)
+- `sources/r_5b1357a9c6/plan.json` ← `nodes/r_5b1357a9c6/plan.json`
+  - sha256 8cbdbfa46aacc0758d0a1f9f636c4a6a66a6725689396d58c4002133a7fd13a2
+  - cited in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_design.md`
+- `sources/t_104134/c2_naval_econ_data.md` ← `nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md`
+  - "[t_104134] nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md"
+  - sha256 575754e7ae242ab8e4cde3a48c7d3433649a3605cf46e8bfae51a1e4d4463b03
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+- `sources/fiscal/war_taxes_1804_1809.csv` ← `nodes/r_b55f2c1cf5/cards/t_104134/fiscal/war_taxes_1804_1809.csv`
+  - "[t_104134] nodes/r_b55f2c1cf5/cards/t_104134/fiscal/war_taxes_1804_1809.csv"
+  - sha256 c379aa12ffd446d7e654a3a9cd309ce907540c1c5983a69724601aa84c72fe5e
+  - cited in `nodes/r_5b1357a9c6/cards/t_044211/evidence_tax_subsidy.md`
+- `sources/t_208a11/conscription_occupation_evidence.md` ← `nodes/r_b55f2c1cf5/cards/t_208a11/conscription_occupation_evidence.md`
+  - "[t_208a11] nodes/r_b55f2c1cf5/cards/t_208a11/conscription_occupation_evidence.md"
+  - sha256 d4948d2bf64d20a248bd1bdabcd5409bc31f15aa8827a6a759262647567e5ad5
+  - cited in `nodes/r_5b1357a9c6/cards/t_1f7db4/notes_final_validation.md`
+- `sources/pages/2ad693d5ac13-64180639.md` ← `nodes/r_b55f2c1cf5/cards/t_208a11/sources/pages/2ad693d5ac13.md`
+  - sha256 2ad693d5ac13c9d65f6046695de9b91e2c511c522d0a94dfd9842d4701ba3214
+  - cited by [t_3ee1b0] "威斯特法利亚提供了“法国消灭一个德意志国家并把其领土交给客户王国”的同时代实例：接收国承接旧统治者的巨额债务（1812年累计估1.4亿—2亿法郎），同时须养本国25,000人并支付驻境的12,500…" (fact) — "Servicing the huge debt inherited from the former rulers of this region and maintaining Jerome's ex…"
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/PR_prussia.md`
+  - cited by [t_cbaee3] "1806-10-16邦联会议筹备会因巴伐利亚与符腾堡使节缺席而流产，此后再未集会；邦联中央议事会从未开会（Grab p.94：“A central diet...never met”）。" (fact) — "A central diet, which was supposed to regulate relations among members and negotiate with Napoleon,…"
+- `sources/t_26cd47/russian_evidence.md` ← `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+  - "[t_26cd47] nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md"
+  - sha256 df352666272582e7825e8f074363bbde58db3d5d72aeb11ea00f436b32135d06
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/notes_speransky.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_2c3192/notes_misc.md`
+- `sources/t_2c338c/britdef.md` ← `nodes/r_b55f2c1cf5/cards/t_2c338c/britdef.md`
+  - "[t_2c338c] nodes/r_b55f2c1cf5/cards/t_2c338c/britdef.md"
+  - sha256 77484c7b39cb5017056764fed2cc0b1db65b5b65480fadee3b4617fff168e82c
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_landing.md`
+- `sources/t_2c338c/hurd_letter.md` ← `nodes/r_b55f2c1cf5/cards/t_2c338c/hurd_letter.md`
+  - "[t_2c338c] nodes/r_b55f2c1cf5/cards/t_2c338c/hurd_letter.md"
+  - sha256 2c823f19dd3b2328e3041a6174da2e9e73bf4040ef84d0bbe46c650ad8dabe95
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_landing.md`
+- `sources/t_2c338c/irish_fulton.md` ← `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+  - "[t_2c338c] nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md"
+  - sha256 c672a7bac82ad21cb9f8680462bcce146920d1410b8faafbb3f8349622bfb2a7
+  - cited in `nodes/r_5b1357a9c6/cards/t_c8b161/notes_ie.md`
+- `sources/t_3dc3c2/peace_evidence.md` ← `nodes/r_b55f2c1cf5/cards/t_3dc3c2/peace_evidence.md`
+  - "[t_3dc3c2] nodes/r_b55f2c1cf5/cards/t_3dc3c2/peace_evidence.md"
+  - sha256 39048d19cdae176280f853a0cfb8429eee7b949efb47c4937fbb0fb365e65795
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_capacity_update.md`
+- `sources/t_75e9a5/peace_evidence.md` ← `nodes/r_b55f2c1cf5/cards/t_75e9a5/peace_evidence.md`
+  - "[t_75e9a5] nodes/r_b55f2c1cf5/cards/t_75e9a5/peace_evidence.md"
+  - sha256 f1c01ef90988d7b1dab20a00a60959948e4c4d5b75535b8ea76aedea5d837039
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_negotiations.md`
+- `sources/t_7da32d/c6_italy_germany.md` ← `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`
+  - "[t_7da32d] nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md"
+  - sha256 5a6564bdd527eac6a4b298c205932f9e3b806271da95d10b4eed57d8a2d609e2
+  - cited in `nodes/r_5b1357a9c6/cards/t_be9258/IT1_kingdom_of_italy.md`
+- `sources/t_7da32d/prussia_austria_notes.md` ← `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+  - "[t_7da32d] nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md"
+  - sha256 1ef0737fd0082ee514562814a968e16c5d2a96fa79342f9a2221661babc57091
+  - cited in `nodes/r_5b1357a9c6/cards/t_3ee1b0/notes_core.md`
+- `sources/t_7da32d/rhine_notes.md` ← `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+  - "[t_7da32d] nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md"
+  - sha256 77977f816fa1a7891c75e63a44701decda0aee88681607a1b952bb81f645d582
+  - cited in `nodes/r_5b1357a9c6/cards/t_cbaee3/G2_north_german_states.md`
+- `sources/t_7ee3b0/c3_naval_race_model.md` ← `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`
+  - "[t_7ee3b0] nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md"
+  - sha256 8e376ab79d2b87bdad2486771486b37e0c571a8b1654479fe28035a374a0d614
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`
+- `sources/t_7ee3b0/c3_scenarios.csv` ← `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_scenarios.csv`
+  - "[t_7ee3b0] nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_scenarios.csv"
+  - sha256 c5fc830ea7c869fd785d557aa280da50a233fa676f949c5890ed9ed2e7108d80
+  - cited in `nodes/r_5b1357a9c6/cards/t_24b942/notes_sources.md`
+- `sources/t_7ee3b0/rebuild_feedback_evidence.md` ← `nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md`
+  - "[t_7ee3b0] nodes/r_b55f2c1cf5/cards/t_7ee3b0/rebuild_feedback_evidence.md"
+  - sha256 9b965798cb1e374d9cb589f688442a22b3a177d9ca75836ee6c34045a3ccf391
+  - cited in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`
+- `sources/sources/c11_corbett.txt` ← `nodes/r_b55f2c1cf5/cards/t_7ee3b0/sources/c11_corbett.txt`
+  - sha256 4ab49819b13448b04316d8e2754e54e80965c710395e2fd891e0ecea1d576a83
+  - cited in `nodes/r_5b1357a9c6/cards/t_cbaee3/G2_north_german_states.md`
+- `sources/t_b09c54/c8_cases_sources.md` ← `nodes/r_b55f2c1cf5/cards/t_b09c54/c8_cases_sources.md`
+  - "[t_b09c54] nodes/r_b55f2c1cf5/cards/t_b09c54/c8_cases_sources.md"
+  - sha256 7d515b6fc1986e8a86b9aa58ec5dfac2697c22238d4e0d938eb040de66f7807f
+  - cited in `nodes/r_5b1357a9c6/cards/t_ccdcc8/NL_netherlands_switzerland.md`
+- `sources/t_b7b7b1/c16_britain_under_defeat.md` ← `nodes/r_b55f2c1cf5/cards/t_b7b7b1/c16_britain_under_defeat.md`
+  - "[t_b7b7b1] nodes/r_b55f2c1cf5/cards/t_b7b7b1/c16_britain_under_defeat.md"
+  - sha256 7fa245e072a070eac90185ab23eaa0ac0449c42b198997ede02d11166646f30e
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_factions.md`
+- `sources/t_b7b7b1/evacuation_evidence.md` ← `nodes/r_b55f2c1cf5/cards/t_b7b7b1/evacuation_evidence.md`
+  - "[t_b7b7b1] nodes/r_b55f2c1cf5/cards/t_b7b7b1/evacuation_evidence.md"
+  - sha256 8b506e4538b1264aa1eb69e026e61fb77be17e586cd93614dd19e881d06fdf21
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/notes_landing.md`
+- `sources/t_b7b7b1/trade_evidence.md` ← `nodes/r_b55f2c1cf5/cards/t_b7b7b1/trade_evidence.md`
+  - "[t_b7b7b1] nodes/r_b55f2c1cf5/cards/t_b7b7b1/trade_evidence.md"
+  - sha256 cad6a0e3fa098a3813cf2071dc75332a81029e39d516c6d1381befb3991a1cf1
+  - cited in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_reuse.md`
+- `sources/t_c17367/c7_orient_india.md` ← `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+  - "[t_c17367] nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md"
+  - sha256 15bbebaa7cec239010358cc4970063802ddbc31a9e4da0f4d3e22cf5712c9388
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/notes_local_core.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_611e2b/notes_logistics.md`
+- `sources/t_c2dbca/c5_iberia_americas.md` ← `nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md`
+  - "[t_c2dbca] nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md"
+  - sha256 d35962a15e069889c423c11cb5bca9da8f2c77551e4f28408520958ec583211a
+  - cited in `nodes/r_5b1357a9c6/cards/t_9bd988/MX_new_spain_cuba.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_f314c4/SA_south_america.md`
+- `sources/t_d604cd/c18_eastern_frontier.md` ← `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`
+  - "[t_d604cd] nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md"
+  - sha256 1a60e9eac30b560952db40fb88d93077bd47fa0bdcb47c1be1d747da0e2c8aa1
+  - cited in `nodes/r_5b1357a9c6/cards/t_b5dab4/PL_poland_lithuania 2.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_b5dab4/PL_poland_lithuania.md`
+- `sources/t_d604cd/ottoman_evidence.md` ← `nodes/r_b55f2c1cf5/cards/t_d604cd/ottoman_evidence.md`
+  - "[t_d604cd] nodes/r_b55f2c1cf5/cards/t_d604cd/ottoman_evidence.md"
+  - sha256 e7e90d09b7548a436440455bf4b5177cbc0e2dd3b7fb280866f891e911199622
+  - cited in `nodes/r_5b1357a9c6/cards/t_66ee8d/OT_ottoman.md`
+- `sources/t_f3c44f/c10_causal_evidence.md` ← `nodes/r_b55f2c1cf5/cards/t_f3c44f/c10_causal_evidence.md`
+  - "[t_f3c44f] nodes/r_b55f2c1cf5/cards/t_f3c44f/c10_causal_evidence.md"
+  - sha256 6281923c07438a8a15ae675318cb39c23d9fea22f31fb88627e83c922bfc7f5c
+  - cited in `nodes/r_5b1357a9c6/cards/t_86b684/notes_reuse.md`
+- `sources/t_f81a6f/c15_continental_economy.md` ← `nodes/r_b55f2c1cf5/cards/t_f81a6f/c15_continental_economy.md`
+  - "[t_f81a6f] nodes/r_b55f2c1cf5/cards/t_f81a6f/c15_continental_economy.md"
+  - sha256 37b3e2efa7f58d62313ec5391565ed4677282f02ebdee99d7e2654f656b7d04e
+  - cited in `nodes/r_5b1357a9c6/cards/t_86b684/notes_reuse.md`
+
+## Cited, already in this folder
+
+- `p8_tree.py`
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_bands.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_tree.md`
+
+## Consulted but not cited (left where they are)
+
+- `downloads/A_Jobst_Kernbauer2016_excerpt.pdf` — "A_Jobst_Kernbauer2016_excerpt.pdf"
+- `downloads/A_Kaps2015_trade_statistics.pdf` — "A_Kaps2015_trade_statistics.pdf"
+- `downloads/B6_Gregory1998_Mediterranean.pdf` — "B6_Gregory1998_Mediterranean.pdf"
+- `downloads/B6_Wilson2018_AngloDutch.pdf` — "B6_Wilson2018_AngloDutch.pdf"
+- `downloads/E1_Brazdil2016_TamboraCzech.pdf` — "E1_Brazdil2016_TamboraCzech.pdf"
+- `downloads/E1_Chaptal1819_industrie_v1.txt` — "E1_Chaptal1819_industrie_v1.txt"
+- `downloads/E1_Flueckiger2017_TamboraCrop.pdf` — "E1_Flueckiger2017_TamboraCrop.pdf"
+- `downloads/E1_LuterbacherPfister2015_Tambora.pdf` — "E1_LuterbacherPfister2015_Tambora.pdf"
+- `downloads/E1_MaddisonProject_2020.xlsx` — "E1_MaddisonProject_2020.xlsx"
+- `downloads/E1_MaddisonProject_2023_GitHubMirror.xlsx`
+- `downloads/E1_NunnQian2009_potato_w15157.pdf` — "E1_NunnQian2009_potato_w15157.pdf"
+- `downloads/E1_OWID_Gapminder_population_1800_1850.csv` — "E1_OWID_Gapminder_population_1800_1850.csv"
+- `downloads/E1_Prinzing1916_epidemics.html` — "The Project Gutenberg eBook of Epidemics Resulting from Wars, by Dr. Friedrich Prinzing"
+- `downloads/E1_Schurer2019_TamboraAttribution.pdf` — "E1_Schurer2019_TamboraAttribution.pdf"
+- `downloads/E1_Tooke_HistoryOfPrices_v1.txt` — "E1_Tooke_HistoryOfPrices_v1.txt"
+- `downloads/E1_Vilnius1831_cholera_hospital.pdf` — "E1_Vilnius1831_cholera_hospital.pdf"
+- `downloads/E1_WardeKander2009_draught_animals.pdf` — "E1_WardeKander2009_draught_animals.pdf"
+- `downloads/EG_Driault_Crise1839_41.txt` — "EG_Driault_Crise1839_41.txt"
+- `downloads/F4_Juglar1868_budgets.pdf` — "F4_Juglar1868_budgets.pdf"
+- `downloads/HT_Geggus1979_YellowFever.pdf` — "HT_Geggus1979_YellowFever.pdf"
+- `downloads/HT_Mackenzie1830_NotesOnHaiti_v2.txt` — "HT_Mackenzie1830_NotesOnHaiti_v2.txt"
+- `downloads/IN2_Cooper_AngloMaratha__de8266419722.pdf` — "IN2_Cooper_AngloMaratha__de8266419722.pdf"
+- `downloads/IN2_alavi_sepoys.txt`
+- `downloads/IN2_malleson_final_french.txt`
+- `downloads/IT3_Consalvi_memoires_v2_1864.txt` — "IT3_Consalvi_memoires_v2_1864.txt"
+- `downloads/IT3_Haussonville_Eglise_romaine_v5.txt` — "IT3_Haussonville_Eglise_romaine_v5.txt"
+- `downloads/IT3_Tama_Sanhedrin_transactions_1807.txt` — "IT3_Tama_Sanhedrin_transactions_1807.txt"
+- `downloads/James_1837_v3_ETH.pdf` — "James_1837_v3_ETH.pdf"
+- `downloads/Keep_Soldiers_of_the_Tsar__1956f5924f00.pdf` — "Keep_Soldiers_of_the_Tsar__1956f5924f00.pdf"
+- `downloads/OT_Driault_politique_orientale.txt`
+- `downloads/OT_Puryear_text.txt`
+- `downloads/OT_Yaycioglu_text.txt`
+- `downloads/PL_umk_wojsko_skarb.pdf` — "PL_umk_wojsko_skarb.pdf"
+- `downloads/Q2_Rouanet_Piano_2023.pdf` — "Q2_Rouanet_Piano_2023.pdf"
+- `downloads/Riehn_1812__3d31d582bae3.pdf` — "Riehn_1812__3d31d582bae3.pdf"
+- `downloads/SA_Sassenay_1892_Liniers.html` — "Gallica | Vérification de sécurité"
+- `downloads/US_Irwin_embargo_welfare_NBER8692.pdf` — "US_Irwin_embargo_welfare_NBER8692.pdf"
+- `downloads/X1_Assereto_CasaSanGiorgio_potere_del_credito.pdf` — "X1_Assereto_CasaSanGiorgio_potere_del_credito.pdf"
+- `downloads/c10_acjr2011.pdf` — "c10_acjr2011.pdf"
+- `downloads/c10_buggle2013.pdf` — "c10_buggle2013.pdf"
+- `downloads/c11_desbriere_p398.png`
+- `downloads/c11_desbriere_verified_p444.png`
+- `downloads/c11_desbriere_verified_p445.png`
+- `downloads/c15_marzagalli1996.pdf` — "c15_marzagalli1996.pdf"
+- `downloads/f1_gouverner_naples_hal.pdf` — "f1_gouverner_naples_hal.pdf"
+- `downloads/f1_lentz_napoleon_diplomate_extrait.pdf` — "f1_lentz_napoleon_diplomate_extrait.pdf"
+- `downloads/f1_roederer_oeuvres_v3guess.txt` — "f1_roederer_oeuvres_v3guess.txt"
+- `downloads/f1_roederer_oeuvres_vA.txt` — "f1_roederer_oeuvres_vA.txt"
+- `downloads/f1_roederer_oeuvres_vB.txt` — "f1_roederer_oeuvres_vB.txt"
+- `downloads/f1_roederer_oeuvres_vC.txt` — "f1_roederer_oeuvres_vC.txt"
+- `downloads/f1_roederer_oeuvres_vD.txt` — "f1_roederer_oeuvres_vD.txt"
+- `downloads/f5_senat_palais_luxembourg_empires.pdf` — "f5_senat_palais_luxembourg_empires.pdf"
+- `downloads/pages/004521d1e27f.md` — "The Financial Crisis of 1825 and the Restructuring of the British Financial System" — https://doi.org/10.20955/r.80.53-76
+- `downloads/pages/0055bf372201.md` — "NAVY ESTIMATES. (Hansard, 13 May 1814)" — https://api.parliament.uk/historic-hansard/commons/1814/may/13/navy-estimates
+- `downloads/pages/00a2dabd2063.md` — "Naval history of Great Britain by William James - Abstract No 17 - 1809" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_17.html
+- `downloads/pages/01abff002529.md` — https://archive.org/metadata/driault-la-politique-orientale-de-napoleon
+- `downloads/pages/02935a70559b.md` — "Säkularisation – Historisches Lexikon Bayerns" — https://www.historisches-lexikon-bayerns.de/Lexikon/S%C3%A4kularisation
+- `downloads/pages/05ae2a02c794.md` — "1812 - State of the British Navy, Russia declares war against France" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/P_040.html
+- `downloads/pages/06755e525667.md` — "Russia - Russia from 1801 to 1917 | Britannica" — https://www.britannica.com/place/Russia/Russia-from-1801-to-1917
+- `downloads/pages/075f89817e85.md` — https://archive.org/metadata/dli.ernet.29532
+- `downloads/pages/07fe5b14e4c3.md` — "The Apotheosis of the Rentier: How Napoleonic War Finance Kick-Started the Industrial Revolution | Cato Institute" — https://www.cato.org/cato-journal/fall-2018/apotheosis-rentier-how-napoleonic-war-finance-kick-started-industrial
+- `downloads/pages/08dbd5566e75.md` — "Prices | 5% cons. J. du 22 Sept. 1818. | Securities | DFIH" — https://dfih.fr/securities/13009/prices
+- `downloads/pages/0955a786ba40.md` — "Cary's New Itinerary 1802, page 1" — https://lakesguides.co.uk/html/LakesTxt/cy38p001.htm
+- `downloads/pages/0a2abbafcb10.md` — "Hubris and Nemesis: 1789–1806 - Iron Kingdom: The Rise and Downfall of Prussia, 1600-1947" — https://erenow.org/modern/iron-kingdom/11.php
+- `downloads/pages/0b66242e946b.md` — "Le Roi de Rome - Henri Welschinger" — http://www.mediterranee-antique.fr/Auteurs/Fichiers/WXYZ/Welschinger/R_Rome/R_R_01.htm
+- `downloads/pages/0bb22c2907e0.md` — "Freden i Kiel 14. januar 1814 – Danmarkshistorien | Lex" — https://danmarkshistorien.lex.dk/Freden_i_Kiel_14._januar_1814
+- `downloads/pages/0d383d6bec2d.md` — "Études sur les travaux publics. — La machine à vapeur - Wikisource" — https://fr.wikisource.org/wiki/%C3%89tudes_sur_les_travaux_publics._%E2%80%94_La_machine_%C3%A0_vapeur
+- `downloads/pages/0d6cf343de4a.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_19.html
+- `downloads/pages/0d6f34e8b0a9.md` — "Project MUSE -- Verification required!" — https://doi.org/10.1353/tech.1971.a893953
+- `downloads/pages/0de0290f3625.md` — "ICPSR Representative Quick Guide | ICPSR" — https://www.icpsr.umich.edu/sites/icpsr/membership/manage-membership/rep-guide
+- `downloads/pages/10bcb06de4c5.md` — https://archive.org/metadata/gri_000333125011213903
+- `downloads/pages/11768f58f5af.md` — "La Dette publique de la France - Wikisource" — https://fr.wikisource.org/wiki/La_Dette_publique_de_la_France,_l%27origine_et_le_d%C3%A9veloppement_de_la_dette,_les_moyens_de_l%27att%C3%A9nuer
+- `downloads/pages/132109ff15eb.md` — "Concordat de 1801 - Wikisource" — https://fr.wikisource.org/wiki/Concordat_de_1801
+- `downloads/pages/13c5a4f9495f.md` — "Napoleonic" — https://people.bu.edu/burtond/resources/Research/toscaspGrab.pdf
+- `downloads/pages/146cbc594a66.md` — "1803 - Abstract" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_III/Abstract_No_11.html
+- `downloads/pages/15068fc40b9b.md` — "MELZI D’ERIL, Francesco - Enciclopedia - Treccani" — https://www.treccani.it/enciclopedia/francesco-melzi-d-eril_(Dizionario-Biografico)/
+- `downloads/pages/15259ae08bb4.md` — "Napoleon Series Reviews: The British Army in the West Indies: Society and the Military in the Revolutionary Age" — https://www.napoleon-series.org/reviews/military/c_buckley.html
+- `downloads/pages/158497425582.md` — "Note sur le compte des finances de l'exercice An XIV et 1806 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/note-sur-le-compte-des-finances-de-lexercice-an-xiv-et-1806/
+- `downloads/pages/15d715a151a0.md` — "Unternehmensgeschichte - Oesterreichische Nationalbank (OeNB)" — https://www.oenb.at/Ueber-Uns/unternehmensgeschichte/1816-1818.html
+- `downloads/pages/1644c920602c.md` — https://archive.org/advancedsearch.php?q=driault+politique+orientale+napoleon&fl%5B%5D=identifier&fl%5B%5D=title&rows=10&output=json
+- `downloads/pages/169fdc59341b.md` — "Spotlight On: Baptist War - The National Archives" — https://www.nationalarchives.gov.uk/education/students/videos/spotlight-on/spotlight-on-baptist-war/
+- `downloads/pages/17447f15be10.md` — "2016_1_Hörcher" — https://hunghist.org/84-abstract/351-2016-1-horcher
+- `downloads/pages/180220d9fb15.md` — "The establishment and consolidation of the plantation economy in Sri Lanka" — https://doi.org/10.1080/14672715.1982.10412654
+- `downloads/pages/1cd7e7d06126.md` — "Correspondance de Napoléon Ier - Juin 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-juin-1810/
+- `downloads/pages/1d17e1060770.md` — "Reconn. de liquid. ech. 1824 | Securities | DFIH" — https://dfih.fr/securities/100?lang=en
+- `downloads/pages/1f6907a51a1d.md` — "Naval history of Great Britain - Vol. VI by William James - Appendix No. 9" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/P_500.html
+- `downloads/pages/1fe8a9e1b008.md` — "Naval history of Great Britain - Vol. VI by William James - Abstract 22 - 1814" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_22.html
+- `downloads/pages/20f93b3b3965.md` — "Der Aufstands-Dörnberg" — https://www.vhghessen.de/inhalt/zhg/ZHG_114/10_Bickert_Doernberg.pdf
+- `downloads/pages/2226957c29b6.md` — "Staatsbankrott 1811 – Wien Geschichte Wiki" — https://www.geschichtewiki.wien.gv.at/Staatsbankrott_1811
+- `downloads/pages/22fe9f35feb4.md` — "Le Sénat de Napoléon : de la complicité à la « trahison » - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/le-senat-de-napoleon-de-la-complicite-a-la-trahison/
+- `downloads/pages/24b5e0b0e091.md` — "Monte Napoleone - Wikipedia" — https://it.wikipedia.org/wiki/Monte_Napoleone
+- `downloads/pages/25101e384c5e.md` — "Recherches récentes" — https://droit.cairn.info/revue-francaise-de-droit-constitutionnel-2008-4-page-703?lang=fr
+- `downloads/pages/25240612f417.md` — "Correspondance de Napoléon Ier - Mai 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-mai-1810/
+- `downloads/pages/254e6c723b4c.md` — "Les crises économiques sous l’Empire. A propos de la crise dite « de 1805 » - Persée" — https://www.persee.fr/doc/ahrf_0003-4436_1970_num_199_1_3895
+- `downloads/pages/26d8892840a9.md` — "Des armes et de la poudre… - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/des-armes-et-de-la-poudre/
+- `downloads/pages/276ed0fdfed4.md` — "Counter-Theatre during the 1797 Fleet Mutinies | International Review of Social History | Cambridge Core" — https://www.cambridge.org/core/journals/international-review-of-social-history/article/countertheatre-during-the-1797-fleet-mutinies/DC7DBC56EA6E95005C816BF1EBBCF9C8
+- `downloads/pages/28673b2d1174.md` — "Cadoudal et « le coup essentiel » - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/cadoudal-et-le-coup-essentiel/
+- `downloads/pages/28eb94df2d9e.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_22.html
+- `downloads/pages/29727e560586.md` — "STATE OF THE PUBLIC FINANCES. (Hansard, 9 July 1817)" — https://api.parliament.uk/historic-hansard/commons/1817/jul/09/state-of-the-public-finances
+- `downloads/pages/2af7f0b9da42.md` — "Sandhurst, officers and the role of history | National Army Museum" — https://www.nam.ac.uk/explore/sandhurst-officers-and-role-history
+- `downloads/pages/2c1a774dc889.md` — "Mähren - Zeno.org" — http://www.zeno.org/Brockhaus-1809/B/M%C3%A4hren
+- `downloads/pages/2c86b127592b.md` — "LeMO Zeitstrahl - Vormärz und Revolution - Alltagsleben - Die Hungersnot 1816/17" — https://www.dhm.de/lemo/kapitel/vormaerz-und-revolution/alltagsleben/die-hungersnot-1816/17
+- `downloads/pages/2d54f8227b97.md` — "Russian Empire - Autocracy, Reforms, Nicholas I | Britannica" — https://www.britannica.com/place/Russian-Empire/Nicholas-I
+- `downloads/pages/2db1b3d107b9.md` — "Constitution de l'An XII - Empire - 28 floréal An XII | Conseil constitutionnel" — https://www.conseil-constitutionnel.fr/les-constitutions-dans-l-histoire/constitution-de-l-an-xii-empire-28-floreal-an-xii
+- `downloads/pages/2fb5337e5443.md` — "Servir Napoléon. Policiers et gendarmes dans les départements annexés 1796-1814 - napoleon.org" — https://www.napoleon.org/magazine/livres/servir-napoleon-policiers-et-gendarmes-dans-les-departements-annexes-1796-1814/
+- `downloads/pages/30d764790849.md` — "Naval history of Great Britain - Vol. VI by William James - Contents" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Contents.html
+- `downloads/pages/322976e60d96.md` — https://archive.org/advancedsearch.php?q=Prinsep+%22Runjeet+Singh%22&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=15&output=json
+- `downloads/pages/326b19e197a6.md` — "Napoléon et la " descente " en Angleterre. 1re partie : Les multiples projets de 1778 à 1803 - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/napoleon-et-la-descente-en-angleterre-1re-partie-les-multiples-projets-de-1778-a-1803/
+- `downloads/pages/378a0b9459dc.md` — "The Keith Papers: Smith to Keith" — https://www.historyofwar.org/sources/napoleonic/nrs1955/1_1_020.html
+- `downloads/pages/3793ef9c4cb3.md` — "Sprzysiężenie podchorążych i noc listopadowa. - XIX wiek - Bryk.pl" — https://www.bryk.pl/wypracowania/historia/xix-wiek/8909-sprzysiezenie-podchorazych-i-noc-listopadowa.html
+- `downloads/pages/37f8d3b81593.md` — "Walcheren 1809: a medical catastrophe - PMC" — https://pmc.ncbi.nlm.nih.gov/articles/PMC1127097/
+- `downloads/pages/38e086c611f0.md` — "The Solemn Assurance of the Sovereign given by the Emperor Alexander I 1809" — https://histdoc.net/history/alex1.html
+- `downloads/pages/391f1c758def.md` — "1817 to 1820 - Sir Robert Sepping's improvements, &c." — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/P_417.html
+- `downloads/pages/3927ed2318fb.md` — "Decreto de Abertura dos Portos (1808) - Apaixonados por História" — https://apaixonadosporhistoria.com.br/fonte-primaria/21/decreto-de-abertura-dos-portos-1808
+- `downloads/pages/3a419bf742fa.md` — "18120224-003:geheimtaktat02 - EPOCHE NAPOLEON" — https://www.epoche-napoleon.net/quellen/1812/02/24/geheimtaktat02.html
+- `downloads/pages/3a69b112a875.md` — "The Anglo-Dutch Imperial Meridian in the Indian Ocean World, 1795-1820" — https://www.repository.cam.ac.uk/items/d9e8ef92-6f8f-434d-80e9-9065fe055699
+- `downloads/pages/3bc4a0c8484d.md` — "Wars with France 1793 to 1815 - History of Romney Marsh" — https://romneymarshhistory.co.uk/frenchwars
+- `downloads/pages/3c2f7d961ae9.md` — "Drafting the Great Army: The political economy of conscription in Napoleonic France | JEH" — https://www.openicpsr.org/openicpsr/project/175583/version/V1/view?path=/openicpsr/175583/fcr:versions/V1
+- `downloads/pages/3d47ead7a795.md` — https://www.icpsr.umich.edu/sites/jeh/view/studies/175583/versions/V1.0
+- `downloads/pages/3e7fb25f7a64.md` — "134235" — https://books.openedition.org/pur/134235
+- `downloads/pages/3f388420b5a0.md` — "Napoléon et les arsenaux de la Marine - Persée" — https://www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813
+- `downloads/pages/3f4aaa790362.md` — "Domokos Rosáry, Napoléon et la Hongrie. - Persée" — https://www.persee.fr/doc/rhmc_0048-8003_1981_num_28_3_1162_t1_0530_0000_1
+- `downloads/pages/4089ecf1b4ed.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_23.html
+- `downloads/pages/414c1bc55e2f.md` — "Death, Disease and Medicine on Jamaican Slave Plantations; the Example of Worthy Park," — https://hssh.journals.yorku.ca/index.php/hssh/article/download/40881/37064/51326
+- `downloads/pages/414d9ffcebd4.md` — "1812, l'année de tous les défis - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/1812-lannee-de-tous-les-defis/
+- `downloads/pages/424fa59e6154.md` — https://archive.org/advancedsearch.php?q=title%3A%28egypt+candia%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=20&output=json
+- `downloads/pages/43d671845240.md` — "La situation conscriptionnelle en 1806 dans six départements belges - Persée" — https://www.persee.fr/doc/rbph_0035-0818_1969_num_47_2_2773
+- `downloads/pages/43dacbcb242e.md` — "Council of State's Recommendation to Napoleon on Conscription in 1811" — https://www.napoleon-series.org/military-info/organization/France/Conscription/1811/c_conscripts1811.html
+- `downloads/pages/43de964a9bae.md` — "La construction d’un système fiscal et administratif dans la Révolution et l’Empire, 1789-1815 - Persée" — https://www.persee.fr/doc/etudo_1241-3496_2000_num_10_1_1343
+- `downloads/pages/4527c0ed78cb.md` — "Peninsular War | National Army Museum" — https://www.nam.ac.uk/explore/peninsular-war
+- `downloads/pages/49dac96fedbe.md` — "DEFENCE OF THE COUNTRY. (Hansard, 21 February 1805)" — https://api.parliament.uk/historic-hansard/commons/1805/feb/21/defence-of-the-country
+- `downloads/pages/4da6ae842ec8.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_20.html
+- `downloads/pages/509e05c01d8a.md` — "Documents upon the Overthrow of the Spanish Monarchy 1807" — https://www.napoleon-series.org/research/government/diplomatic/c_spain.html
+- `downloads/pages/52f7e77ab074.md` — https://gallica.bnf.fr/SRU?operation=searchRetrieve&version=1.2&query=gallica%20all%20%22Sassenay%20Napol%C3%A9on%20argentine%22&maximumRecords=5
+- `downloads/pages/5321f7d7f88b.md` — https://archive.org/advancedsearch.php?q=driault&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=50&output=json
+- `downloads/pages/5428a73c3a12.md` — "La vente des biens nationaux : essai de synthèse - Persée" — https://www.persee.fr/doc/ahrf_0003-4436_1999_num_315_1_2219?pageId=T1_10
+- `downloads/pages/54a70cc2111c.md` — "La Banque de France, fille du coup d’État de Brumaire et institution majeure des "masses de granit" napoléoniennes - na…" — https://www.napoleon.org/histoire-des-2-empires/articles/la-banque-de-france-une-des-grandes-institutions-napoleoniennes/
+- `downloads/pages/56350497ff74.md` — "Droit sous Napoléon Ier > Qu’est ce qu’un sénatus-consulte ? - napoleon.org" — https://www.napoleon.org/enseignants/documents/droit-sous-napoleon-ier-quest-ce-quun-senatus-consulte/
+- `downloads/pages/564fdec6591d.md` — "Karl August Baron von Hardenberg, “On the Reorganization of the Prussian State” (September 12, 1807) | German History i…" — https://germanhistorydocs.org/en/the-holy-roman-empire-1648-1815/karl-august-baron-von-hardenberg-on-the-reorganization-of-the-prussian-state-september-12-1807
+- `downloads/pages/597653e3e3aa.md` — "NAVY ESTIMATES. (Hansard, 1 March 1830)" — https://api.parliament.uk/historic-hansard/commons/1830/mar/01/navy-estimates
+- `downloads/pages/5f1e86c351d1.md` — "Ungarn - Zeno.org" — http://www.zeno.org/Brockhaus-1809/B/Ungarn
+- `downloads/pages/5f2b3a332680.md` — https://archive.org/advancedsearch.php?q=title%3A%28%22terre+ferme%22%29+AND+creator%3A%28Depons%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=10&output=json
+- `downloads/pages/60408e3ad1af.md` — "IRISH MILITIA OFFER BILL.— (Hansard, 28 March 1804)" — https://api.parliament.uk/historic-hansard/commons/1804/mar/28/irish-militia-offer-bill
+- `downloads/pages/63870d6f50b8.md` — "Andreas Hofer | Die Welt der Habsburger" — https://www.habsburger.net/en/persons/person/andreas-hofer
+- `downloads/pages/644c60931e6e.md` — "La situation conscriptionnelle en 1806 dans six départements belges - Persée" — https://www.persee.fr/doc/rbph_0035-0818_1969_num_47_2_2773
+- `downloads/pages/6453d22b6fd6.md` — https://archive.org/advancedsearch.php?q=Aitchison+treaties+Sind+Baluchistan&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=15&output=json
+- `downloads/pages/64f0529893a0.md` — "State of the British Army in 1805" — https://www.napoleon-series.org/military-info/organization/c_strengths.html
+- `downloads/pages/664a7ecc0984.md` — "Oestreich - Zeno.org" — http://www.zeno.org/Brockhaus-1809/B/Oestreich
+- `downloads/pages/682e933f431c.md` — "Naval history of Great Britain - Vol. VI by William James - Abstract 20 - 1812" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_20.html
+- `downloads/pages/6a70f356e610.md` — "Franz II (I) and the Metternich System | Die Welt der Habsburger" — https://www.habsburger.net/en/chapter/franz-ii-i-and-metternich-system
+- `downloads/pages/6b907925f3ee.md` — https://books.openedition.org/pur/134235
+- `downloads/pages/6c50590d5ddd.md` — "Données actuelles sur Napoléon II (1811-1832) et ses dents - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/donnees-actuelles-sur-napoleon-ii-1811-1832-et-ses-dents/
+- `downloads/pages/6e15ba731186.md` — "Naval history of Great Britain by William James" — https://sites.rootsweb.com/~pbtyc/Naval_History/Reports/Index.html
+- `downloads/pages/6e6f2ee5c7e3.md` — "Abstract of British historical statistics / by B.R. Mitchell. With the collaboration of Phyllis Deane. - : Mitchell, B.…" — https://archive.org/details/abstractofbritis0000mitc
+- `downloads/pages/6e927305e1e3.md` — "France" — https://www.concordatwatch.eu/showtopic.php?org_id=867&kb_header_id=826
+- `downloads/pages/6f0156abb741.md` — "Manufacture nationale d'armes" — https://archives.saint-etienne.fr/histoires-stephanoises-1/tranches-dhistoire/guerre-et-batiments-militaires/manufacture-nationale-darmes
+- `downloads/pages/70b17e18323a.md` — https://shs.cairn.info/article/E_NAPO_081_0006/pdf?lang=en
+- `downloads/pages/70f0bcc9bf3f.md` — "Pariser Konvention (1808)" — https://de.wikipedia.org/wiki/Pariser_Konvention_(1808)
+- `downloads/pages/73417730c1cf.md` — "Complementarities and Competition in Microstructures" — http://www.parisschoolofeconomics.com/hautcoeur-pierre-cyrille/PCHAR_EHR.pdf
+- `downloads/pages/737e42cc7d81.md` — "Una qüestió de servei al rei: El subministrament de fusta per a la marina francesa en el segle XVIII | Drassana" — https://doi.org/10.51829/drassana.30.691
+- `downloads/pages/7409d7aca2ed.md` — "300 years of UK public finance data" — https://obr.uk/docs/dlm_uploads/300-Years-of-public-finances-Accessible-PDF.pdf
+- `downloads/pages/74609288614d.md` — https://archive.org/metadata/memoirscorrespon07castuoft/files
+- `downloads/pages/756e36589a7f.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_18.html
+- `downloads/pages/7b11d8a7dad4.md` — "Foreign trade and early industrialisation in the Habsburg Monarchy and the United Kingdom — Two extremes in comparison …" — https://pmc.ncbi.nlm.nih.gov/articles/PMC3092985/
+- `downloads/pages/7b2c2d367960.md` — "| Drassana" — https://revistadrassana.cat/index.php/Drassana/article/view/691/830
+- `downloads/pages/7b3ecc9629e8.md` — "Krümper" — https://de.wikipedia.org/wiki/Kr%C3%BCmper
+- `downloads/pages/7e5166c3be17.md` — "Read online “Iron Kingdom : The Rise and Downfall of Prussia, 1600-1947” |FREE BOOK| – Read Online Books" — https://read-online-books.com/book/read-online-iron-kingdom-the-rise-and-downfall-of-prussia-1600-1947-free/page-62
+- `downloads/pages/7f67f7021f02.md` — "Cary's New Itinerary 1802, index, direct roads" — https://lakesguides.co.uk/html/LakesTxt/cy38nx01.htm
+- `downloads/pages/804553ad8887.md` — "Seite:Die Gartenlaube (1875) 858.jpg – Wikisource" — https://de.wikisource.org/wiki/Seite:Die_Gartenlaube_(1875)_858.jpg
+- `downloads/pages/82073d12ec88.md` — "Waterloo: a Godsend for French Public Finances?" — https://ideas.repec.org/p/hes/wpaper/0041.html
+- `downloads/pages/83a2e2f929d5.md` — "Mirari Vos - Papal Encyclicals" — https://www.papalencyclicals.net/greg16/g16mirar.htm
+- `downloads/pages/83ad07a570c6.md` — "Bergeron (Louis) et Chaussinand-Nogaret (Guy). Les « masses de granit ». Cent mille notables du Premier Empire - Persée" — https://www.persee.fr/doc/rbph_0035-0818_1982_num_60_4_5880_t1_1048_0000_2
+- `downloads/pages/83c66266952e.md` — "1807 - Abstract" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_IV/Abstract_No_15.html
+- `downloads/pages/85e4897967eb.md` — "Heraldry in Pre-Unification Italy" — https://www.heraldica.org/topics/national/italy2.htm
+- `downloads/pages/86b2fc3fc26a.md` — "Donaudampfschiffahrtsgesellschaft – Wien Geschichte Wiki" — https://www.geschichtewiki.wien.gv.at/Donaudampfschiffahrtsgesellschaft
+- `downloads/pages/888cf5f7c5f9.md` — "Naval history of Great Britain - Vol. VI by William James - Abstract Index" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_Index.html
+- `downloads/pages/88e18d3695f5.md` — https://archive.org/advancedsearch.php?q=Kaye+%22history+of+the+war+in+Afghanistan%22&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=20&output=json
+- `downloads/pages/899384be0eda.md` — "Alexander Grab: Conscription and Desertion in France and Italy Under - DocsLib" — https://docslib.org/doc/2175792/alexander-grab-conscription-and-desertion-in-france-and-italy-under
+- `downloads/pages/8c697d345cad.md` — https://archive.org/advancedsearch.php?q=Elphinstone+kingdom+of+Caubul&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=30&output=json
+- `downloads/pages/8cb7a7a33f3f.md` — "History | Early Engine Database" — https://industrial-archaeology.org/EarlyEngines/history.php
+- `downloads/pages/8dce0b0d022d.md` — https://archive.org/metadata/driault-mohamed-aly-et-napoleon-1807-1814
+- `downloads/pages/8ee645b54213.md` — https://archive.org/advancedsearch.php?q=lavalette+memoires+souvenirs&fl%5B%5D=identifier&fl%5B%5D=title&rows=10&output=json
+- `downloads/pages/8f0da5cc5576.md` — https://archive.org/advancedsearch.php?q=mollien+tresor+public&fl%5B%5D=identifier&fl%5B%5D=title&rows=20&output=json
+- `downloads/pages/8fe472aaf5a4.md` — "GitHub - mattsclancy/growth-acceleration: Is the Industrial Revolution an existence proof for 10x AI growth? Analysis u…" — https://github.com/mattsclancy/growth-acceleration
+- `downloads/pages/906d4b3f363b.md` — "Napoleon's War Financing Strategies | PDF | First French Empire | Napoleon" — https://www.scribd.com/document/903628600/Napoleons-Attempts-to-Make-His-Campaigns-Self-Financing
+- `downloads/pages/90e66489ab34.md` — "Les effets de l’indépendance d’Haïti sur la société esclavagiste martiniquaise sous le Consulat et l’Empire (1802-1809)" — https://journals.openedition.org/lrf/2923
+- `downloads/pages/9119b63406f2.md` — "Política, Memória e escrita da História: problematizando as interpretações e os significados da Abertura dos Portos (18…" — https://www.encontro2016.sp.anpuh.org/resources/anais/48/1475257905_ARQUIVO_Renato_de_Mattos.pdf
+- `downloads/pages/914e3418f267.md` — "Der regierungsunfähige Kaiser: Ferdinand I. | Die Welt der Habsburger" — https://www.habsburger.net/de/kapitel/der-regierungsunfaehige-kaiser-ferdinand-i
+- `downloads/pages/9218005107fe.md` — https://archive.org/advancedsearch.php?q=Aitchison+%22treaties%2C+engagements%22+Punjab&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=20&output=json
+- `downloads/pages/9223262f58a4.md` — "Online Collection" — https://collection.nam.ac.uk/detail.php?acc=1966-02-25-1
+- `downloads/pages/9490b43bdf3b.md` — "RENTES FRANÇAISES | Issuers | DFIH" — https://dfih.fr/issuers/100
+- `downloads/pages/95e1bd14b0d8.md` — https://www.ibiblio.org/pha/USN/Navy/navalhistoryofgr06jameuoft.pdf
+- `downloads/pages/95e29ff1c015.md` — "ECONOMY AND RETRENCHMENT. (Hansard, 27 June 1821)" — https://api.parliament.uk/historic-hansard/commons/1821/jun/27/economy-and-retrenchment
+- `downloads/pages/96646a83b813.md` — https://archive.org/metadata/collectionoftrea07aitcuoft
+- `downloads/pages/968b2b9b2b09.md` — "Internet History Sourcebooks: Modern History" — https://sourcebooks.fordham.edu/mod/1806catechism-napoleon.asp
+- `downloads/pages/970141843d69.md` — "Drafting the Great Army: The political economy of conscription in Napoleonic France | JEH" — https://www.icpsr.umich.edu/sites/jeh/view/studies/175583/versions/V1.0
+- `downloads/pages/97294cdeb4b6.md` — "Conscription 1808" — https://www.napoleon-series.org/research/government/legislation/c_conscription.html
+- `downloads/pages/9a1cf80c64d6.md` — "Our next war, in its commercial aspect; with some account of the premiums paid at "Lloyd's" from 1805 to 1816 ..., by J…" — https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=ha100475511
+- `downloads/pages/9a8e1d55620d.md` — "1811. évi országgyűlés. Devalváczió. | Borovszky Samu: Magyarország vármegyéi és városai | Kézikönyvtár" — https://www.arcanum.com/hu/online-kiadvanyok/Borovszky-borovszky-samu-magyarorszag-varmegyei-es-varosai-1/somogy-varmegye-153D7/somogy-varmegye-tortenete-irta-reiszig-ede-dr-15DBA/ii-a-mohacsi-vesztol-a-kiegyezesig-16088/2-a-xviii-szazad-es-a-franczia-haboruk-kora-1624A/1811-evi-orszaggyules-devalvaczio-16380/
+- `downloads/pages/9af05ae4687f.md` — "Situation financière de la France, 1843 - Wikisource" — https://fr.wikisource.org/wiki/Situation_financi%C3%A8re_de_la_France,_1843
+- `downloads/pages/9b8878d51d19.md` — https://archive.org/metadata/india.history.resource.116919
+- `downloads/pages/9cc62ddca08d.md` — "La fabrication des poudres de guerre à Essonnes eBook" — https://readzis.co.uk/960997/la-fabrication-des-poudres-de-guerre-a-essonnes.ebook
+- `downloads/pages/9cdf68d9bb9b.md` — "Rapport à S. M. l'Empereur et Roi - 8 décembre 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/rapport-a-s-m-lempereur-et-roi-8-decembre-1810/
+- `downloads/pages/9d5c73371364.md` — "1805 | Haiti and the Atlantic World" — https://haitidoi.com/constitutions/1805-2/
+- `downloads/pages/9d823edb213c.md` — "Drafting the Great Army: The Political Economy of Conscription in Napoleonic France | The Journal of Economic History |…" — https://www.cambridge.org/core/journals/journal-of-economic-history/article/drafting-the-great-army-the-political-economy-of-conscription-in-napoleonic-france/FDBA5D70BC85C24186EF7C9767D249BF
+- `downloads/pages/a0f246407c7d.md` — "FRANCE iii. RELATIONS WITH PERSIA 1789-1918 - Encyclopaedia Iranica" — https://www.iranicaonline.org/articles/france-iii-relations-with-persia-1789-1918/
+- `downloads/pages/a19ef3dd7086.md` — "Kapitulationen efter Københavns bombardement 7. september 1807 – Danmarkshistorien | Lex" — https://danmarkshistorien.lex.dk/Kapitulationen_efter_K%C3%B8benhavns_bombardement_7._september_1807
+- `downloads/pages/a21d8807b909.md` — "L'Echo de la Fabrique - Variétés." — http://echo-fabrique.ens-lyon.fr/document.php?format=search&id=2542
+- `downloads/pages/a505ea54ea46.md` — "November Insurrection | Polish Rebellion of 1830-1831 | Britannica" — https://www.britannica.com/event/November-Insurrection
+- `downloads/pages/a6d694654e00.md` — https://archive.org/advancedsearch.php?q=creator%3A%28Torrente%29+AND+title%3A%28revolucion+hispano-americana%29&fl%5B%5D=identifier&fl%5B%5D=title&rows=8&output=json
+- `downloads/pages/a6fc0bf52bf4.md` — "France: Income and Expenditures in An 12" — https://www.napoleon-series.org/research/abstract/government/budget/france/an12/c_an12.html
+- `downloads/pages/a74cfc40d08a.md` — https://archive.org/advancedsearch.php?q=%22politique+orientale+de+Napol%C3%A9on%22+Gardane&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=30&output=json
+- `downloads/pages/a75fb284017e.md` — https://archive.org/advancedsearch.php?q=Sassenay+AND+%28%22Republique+Argentine%22+OR+%22Napoleon+Ier%22%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=10&output=json
+- `downloads/pages/a8959e842dc5.md` — https://archive.org/advancedsearch.php?q=creator%3A%28ghorbal%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=20&output=json
+- `downloads/pages/a947acecb6dc.md` — "mai_03" — http://www.histoire-empire.org/correspondance_de_napoleon/1809/mai_03.htm
+- `downloads/pages/aa5c5df8d6e3.md` — "The Effective Strength of the British Army" — https://www.napoleon-series.org/research/abstract/military/army/britain/strength/c_strength.html
+- `downloads/pages/ab1d70897763.md` — "Waterloo: a Godsend for French Public Finances?" — https://ideas.repec.org/p/hes/wpaper/0041.html
+- `downloads/pages/ab23412e72be.md` — "Correspondance générale de Napoléon Bonaparte. Tome 10 : Un grand empire. mars 1810-mars 1811. Introduction au volume -…" — https://www.napoleon.org/histoire-des-2-empires/articles/correspondance-generale-de-napoleon-bonaparte-tome-10-un-grand-empire-mars-1810-mars-1811-introduction-au-volume/
+- `downloads/pages/ab6a44ffb405.md` — "Les Européens face à la conscription : de l'insoumission à la rébellion (1800-1813)" — https://shs.hal.science/halshs-00807705
+- `downloads/pages/ac72d0b07b30.md` — "Relations internationales et classe politique en Haïti (1784-1814) - Persée" — https://www.persee.fr/doc/outre_1631-0438_2003_num_90_340_4050
+- `downloads/pages/aee76684456e.md` — "The Ugly Duckling: The French Navy and the Saint-Domingue Expedition,1801-1803 – International Journal of Naval History" — https://ijnh.seahistory.org/the-ugly-duckling-the-french-navy-and-the-saint-domingue-expedition1801-1803/
+- `downloads/pages/b064437dd1d2.md` — "Concordat de Fontainebleau de janvier 1813, dénoncé en mars" — https://www.napoleon-empire.org/texte-officiel/concordat-1813.php
+- `downloads/pages/b4545cf266ff.md` — "Aurélien Lignereux, Servir Napoléon. Policiers et gendarmes dans les départements annexés (1796-1814)" — https://doi.org/10.3917/ahrf.377.0209
+- `downloads/pages/b4cf5e9825fc.md` — "Pertes de l'armée de terre sous le premier Empire, d'après les registres matricules. - Persée" — https://www.persee.fr/doc/pop_0032-4663_1972_num_27_1_15097
+- `downloads/pages/b57436760b6a.md` — ""Ripe Fruit" Theory | 4score.org" — https://4score.org/historical-documents/ripe-fruit-theory
+- `downloads/pages/b5b6f3cf2c2b.md` — https://archive.org/advancedsearch.php?q=bowring+AND+candia&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=20&output=json
+- `downloads/pages/b5b76ec14c26.md` — "Naval history of Great Britain by William James - Abstract No 19 - 1811" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_19.html
+- `downloads/pages/b67a84406849.md` — https://archive.org/advancedsearch.php?q=%22Popham%22+AND+%22court+martial%22+AND+date%3A%5B1806-01-01+TO+1810-01-01%5D&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=15&page=1&output=json
+- `downloads/pages/b71a637044ed.md` — "H.M. Steam sloops Rattler and Alecto towing stern to stern, for the purpose of testing the relative powers of the Screw…" — https://www.rmg.co.uk/collections/objects/rmgc-object-140870
+- `downloads/pages/b774a39e237e.md` — "PETITION FROM BIRMINGHAM AGAINST THE ORDERS IN COUNCIL. (Hansard, 17 April 1812)" — https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the
+- `downloads/pages/b94d05580380.md` — "John Moore: Alone with his glory | National Army Museum" — https://www.nam.ac.uk/explore/john-moore
+- `downloads/pages/b9b84fcb2920.md` — "6- Nouveautés dans l'artillerie de la Marine" — https://www.artillerie.asso.fr/basart/article.php3?id_article=1972
+- `downloads/pages/bb07a813031b.md` — "The Political Economy of British Taxation, 1660-1815" — http://slantchev.ucsd.edu/courses/ps143a/readings/O'Brien%20-%20Political%20Economy%20of%20British%20Taxation,%201660-1815.pdf
+- `downloads/pages/bc249a28e29b.md` — https://archive.org/advancedsearch.php?q=roederer+oeuvres&fl%5B%5D=identifier&fl%5B%5D=title&rows=20&output=json
+- `downloads/pages/bd9fbfa5c4e0.md` — "Research datasets | Bank of England – the UK's central bank" — https://www.bankofengland.co.uk/statistics/research-datasets
+- `downloads/pages/bea2d85b8283.md` — https://archive.org/advancedsearch.php?q=%22treaties%2C+engagements%2C+and+sunnuds%22+Sinde&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=10&output=json
+- `downloads/pages/bfe5e416b5e6.md` — "Législation sur les Majorats (1808-1905)" — https://heraldica.org/topics/france/majoratstexts.htm
+- `downloads/pages/c00d6b260179.md` — "Monetary and Fiscal Policy in England during the French Wars (1793-1821) | Publications" — https://publications.banque-france.fr/en/monetary-and-fiscal-policy-england-during-french-wars-1793-1821
+- `downloads/pages/c17387e0e297.md` — "Histoire contemporaine" — https://www.mediterranee-antique.fr/Pages_accueil/Accueil_Contemporain.htm
+- `downloads/pages/c2105af935e9.md` — "Naval history of Great Britain - Vol. VI by William James - Abstract 23 - 1815" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_23.html
+- `downloads/pages/c2547505e406.md` — https://archive.org/advancedsearch.php?q=title%3A%28%22republique+argentine%22%29+AND+date%3A%5B1890-01-01+TO+1895-12-31%5D&fl%5B%5D=identifier&fl%5B%5D=title&rows=8&output=json
+- `downloads/pages/c41d03e2f9a8.md` — "SEHEPUNKTE - Rezension von: Der Mythos vom Befreiungskrieg - Ausgabe 9 (2009), Nr. 9" — https://www.sehepunkte.de/2009/09/11263.html
+- `downloads/pages/c4615e9a2a2b.md` — "„Jezt seye es einmal Zeit, die Freyheit und Gleichheit zu erfechten und den lezten Blutstropfen für dieselbe sprüzen zu…" — https://doi.org/10.5167/uzh-78425
+- `downloads/pages/c479ac42abbb.md` — "ESSONNES, industrie. - Poudreries d' Essonnes : coupures de journaux évoquant l'incendie des poudreries en 1788, 1 affi…" — https://archives.essonne.fr/ark:/28047/9ln5x74p2fb6
+- `downloads/pages/c5194d3db60c.md` — "Vormärz – Wien Geschichte Wiki" — https://www.geschichtewiki.wien.gv.at/Vorm%C3%A4rz
+- `downloads/pages/c5740df3413a.md` — "Correspondance générale de Napoléon Bonaparte. Tome 6 : 1806 - Vers le Grand Empire. Introduction - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/correspondance-generale-de-napoleon-bonaparte-tome-6-1806-vers-le-grand-empire-introduction/
+- `downloads/pages/c779450e397c.md` — https://www.openicpsr.org/openicpsr/project/175583/version/V1/view
+- `downloads/pages/c7cd9ef65032.md` — "Histoire du commerce du bois | l'Encyclopédie Canadienne" — https://thecanadianencyclopedia.ca/fr/article/histoire-du-commerce-du-bois-1
+- `downloads/pages/c7f7c214af3a.md` — "Fredsfördraget i Fredrikshamn / Haminan rauhansopimus 17.9.1809" — https://histdoc.net/historia/se/frhamn.html
+- `downloads/pages/c80f5e01723c.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_21.html
+- `downloads/pages/c8f3fb7e8d62.md` — "1813 - On building ships of war" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/P_152.html
+- `downloads/pages/c97cc028bbf1.md` — "Outre-mers, tome 90, n°340-341, 2e semestre 2003. Haïti Première République Noire. - Persée" — https://www.persee.fr/issue/outre_1631-0438_2003_num_90_340
+- `downloads/pages/c97fa30208bf.md` — "IN THE EPICENTER OF THE STORM? THE EFFECTS OF THE REVOLUTION AND WARFARE ON THE FRENCH ECONOMY, 1789-1815" — http://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-06.pdf
+- `downloads/pages/ca69d49d69c7.md` — "GR 4 W (2)" — https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/notices_files/GR4W.pdf
+- `downloads/pages/cbe738fd35f6.md` — "La vente des biens nationaux : essai de synthèse - Persée" — https://www.persee.fr/doc/ahrf_0003-4436_1999_num_315_1_2219
+- `downloads/pages/ce033e3932d6.md` — "Resistance and Rebellion in the Caribbean" — https://cdn.nationalarchives.gov.uk/documents/education/resistance-and-rebellion.pdf
+- `downloads/pages/ce0b4d346986.md` — "Correspondance de Napoléon – Avril 1813" — https://napoleon-histoire.com/correspondance-de-napoleon-avril-1813/
+- `downloads/pages/ceac076a093d.md` — "Snakes in Paradise | J.H. Elliott | The New York Review of Books" — https://www.nybooks.com/articles/2003/11/20/snakes-in-paradise/
+- `downloads/pages/ceff3e4a5b39.md` — "Les grands notables de l'Empire : Bergeron (Louis) et Chaussinand-Nogaret (Guy), Grands notables du Premier Empire ; t.…" — https://www.persee.fr/doc/anami_0003-4398_1981_num_93_151_1951_t1_0106_0000_2
+- `downloads/pages/cf2c01bdf7ff.md` — "Naval History by William James - Appendix 1" — https://sites.rootsweb.com/~pbtyc/Naval_History/Index.html
+- `downloads/pages/cfc17491b6c4.md` — "001 .ditorial" — https://annales.org/edit/gc/2005/gc80/058-076peaucelle.pdf
+- `downloads/pages/d16ce60cffc3.md` — "Sitting of 17 April 1812 (Hansard)" — https://api.parliament.uk/historic-hansard/sittings/1812/apr/17
+- `downloads/pages/d1a7f41f429f.md` — https://archive.org/advancedsearch.php?q=creator%3A%28Azara%29+AND+title%3A%28%22Amerique+meridionale%22%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=10&output=json
+- `downloads/pages/d370d71557ae.md` — "Les premières troupes supplétives en Algérie" — https://doi.org/10.3917/rha.255.0061
+- `downloads/pages/d3da94a75442.md` — "Joseph Laîné (28 décembre 1813) - Assemblée nationale" — https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/grands-discours-parlementaires/joseph-laine-28-decembre-1813
+- `downloads/pages/d4b41dee9730.md` — "DAM" — https://digital.library.unt.edu/ark:/67531/metadc1752349/
+- `downloads/pages/d5c627631093.md` — "The Austrian Army in the War of the Sixth Coalition: A Reassessment - UNT Digital Library" — https://digital.library.unt.edu/ark:/67531/metadc1752349/
+- `downloads/pages/d6e755fb0b5d.md` — https://www.ibiblio.org/hyperwar/NHC/NewPDFs/UK/UK,%20Naval%20History%20of%20Great%20Britain%204.pdf
+- `downloads/pages/d827ad3207c2.md` — "THE NATIONAL PETITION — THE CHARTER. (Hansard, 3 May 1842)" — https://api.parliament.uk/historic-hansard/commons/1842/may/03/the-national-petition-the-charter
+- `downloads/pages/d983cfd56cb8.md` — "Den dansk-norske skilsmisse i 1814 – Danmarkshistorien | Lex" — https://danmarkshistorien.lex.dk/Den_dansk-norske_skilsmisse_i_1814
+- `downloads/pages/da8b385366d2.md` — "Grands traités politiques" — https://mjp.univ-perp.fr/traites/1814paris.htm
+- `downloads/pages/dc6c3ac4195b.md` — "Naval history of Great Britain by William James" — https://sites.rootsweb.com/~pbtyc/Naval_History/Reports/Budgets/Officer_Nos.html
+- `downloads/pages/dd0ed0a68f18.md` — https://journals.openedition.org/geohist/4373
+- `downloads/pages/ddccd80edb3a.md` — "Naval history of Great Britain by William James - Abstract No 18 - 1810" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_18.html
+- `downloads/pages/de8da74a2316.md` — "Les donataires de Napoléon - Persée" — https://www.persee.fr/doc/rhmc_0048-8003_1970_num_17_3_2102
+- `downloads/pages/e07f5916248e.md` — https://archives.somme.fr/document/r1_rep_militaire
+- `downloads/pages/e1226f919ddf.md` — "Les relations entre les Petites Antilles françaises et Haïti, de la politique du refoulement à la résignation, 1804-182…" — https://www.persee.fr/doc/outre_1631-0438_2003_num_90_340_4051
+- `downloads/pages/e28f4a67e54f.md` — "Volume 01: Production and resources of the northern and western districts of New South Wales, 1854 [ca. 1850-1857] - Pa…" — https://transcripts.sl.nsw.gov.au/page/volume-01-production-and-resources-northern-and-western-districts-new-south-wales-1854-ca-620
+- `downloads/pages/e32902a0a3c8.md` — "Portrait bust of HRH Frederick, Duke of York and Albany, 1820 (c). | Online Collection | National Army Museum, London" — https://collection.nam.ac.uk/detail.php?acc=2002-03-163-1
+- `downloads/pages/e462d0348921.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_17.html
+- `downloads/pages/e47ab045c32f.md` — "The Defence of British Trade with the Baltic, 1808-1813" — https://www.reenactor.ru/ARH/PDF/Defence.pdf
+- `downloads/pages/e4f61139af7d.md` — "Le financement des guerres napoléoniennes et la conjoncture du Premier Empire - Persée" — https://www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987
+- `downloads/pages/e5f95a4792cd.md` — "e-journal of Portuguese History" — https://brown.edu/Departments/Portuguese_Brazilian_Studies/ejph/html/issue27/html/v14n1a05.html
+- `downloads/pages/e61729b71f9b.md` — "Unia polsko-rosyjska z 1815 r. na tle unii lubelskiej i projektów unii Rzeczypospolitej i Rosji z XVI i XVII w." — https://doi.org/10.14746/spp.2017.1.17.6
+- `downloads/pages/e62d2b040709.md` — "Naval history of Great Britain - Vol. VI by William James - Abstract 21 - 1813" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_21.html
+- `downloads/pages/e772cb60e0df.md` — "Le financement des guerres napoléoniennes et la conjoncture du Premier Empire - Persée" — https://www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987
+- `downloads/pages/ee71889de366.md` — "Drafting the Great Army: The Political Economy of Conscription in Napoleonic France | The Journal of Economic History |…" — https://www.cambridge.org/core/journals/journal-of-economic-history/article/drafting-the-great-army-the-political-economy-of-conscription-in-napoleonic-france/FDBA5D70BC85C24186EF7C9767D249BF
+- `downloads/pages/ee9e07ba451b.md` — "1806 - Abstract" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_IV/Abstract_No_14.html
+- `downloads/pages/ef06d5628e76.md` — "2022_1_Nagy" — https://hunghist.org/83-articles/774-2022-1-nagy
+- `downloads/pages/f12aed68b23e.md` — "Estimates" — https://legacy-aws.slavevoyages.org/assessment/estimates
+- `downloads/pages/f15e3b0f2224.md` — "Royal Military Canal, Warehorne Bridge to Ham Street Bridge, Orlestone - 1005126 | Historic England" — https://historicengland.org.uk/listing/the-list/list-entry/1005126
+- `downloads/pages/f1644e0dd8a2.md` — "Comparaison décennale des budgets de dépenses et de recettes en France depuis 1836" — https://www.numdam.org/item/JSFS_1868__9__306_0.pdf
+- `downloads/pages/f1914ca3ba03.md` — "RENTES FRANÇAISES | Issuers | DFIH" — https://dfih.fr/issuers/100/securities
+- `downloads/pages/f20a6abe848b.md` — "Imperial Meridian: The British Empire and the World 1780-1830 - 1st Ed" — https://www.routledge.com/Imperial-Meridian-The-British-Empire-and-the-World-1780-1830/Bayly/p/book/9780582494381
+- `downloads/pages/f3c3e5561ee4.md` — "Napoleon’s Equine Strategy in 1813" — https://www.napoleon-series.org/military-info/organization/France/Cavalry/Remounts/c_remounts1813.html
+- `downloads/pages/f4245de1d8af.md` — "Econocide" — https://uncpress.org/9780807899595/econocide/
+- `downloads/pages/f42cec953d4b.md` — "NAVY ESTIMATES. (Hansard, 22 February 1812)" — https://api.parliament.uk/historic-hansard/commons/1812/feb/22/navy-estimates
+- `downloads/pages/f56f440eec96.md` — "Nordbahn – Wien Geschichte Wiki" — https://www.geschichtewiki.wien.gv.at/Kaiser-Ferdinands-Nordbahn
+- `downloads/pages/f8b40ad4b4e2.md` — "Louis Rouanet - Louis Rouanet" — https://louisrouanet.com
+- `downloads/pages/f8b5b8268f1c.md` — "Climate of migration? How climate triggered migration from southwest Germany to North America during the 19th century" — https://doi.org/10.5194/cp-13-1573-2017
+- `downloads/pages/f9c908249692.md` — "Full text of " Forests And Sea Power "" — https://archive.org/stream/ForestsAndSeaPower/Forests%20and%20Sea%20Power_djvu.txt
+- `downloads/pages/fb00e45c56a7.md` — "Histoire de France contemporaine - E. Lavisse" — http://www.mediterranee-antique.fr/Auteurs/Fichiers/JKL/Lavisse/Histoire_contemporaine/T3/T3_41.htm
+- `downloads/pages/fb8093480da8.md` — "1812 - la campagne de Russie, préface de Marie-Pierre Rey au vol. 12 de la Correspondance générale de Napoléon Bonapart…" — https://www.napoleon.org/histoire-des-2-empires/articles/1812-la-campagne-de-russie-preface-de-mp-rey-au-tome-12-de-la-correspondance-generale-de-napoleon-bonaparte/
+- `downloads/pages/fc4c533d40d3.md` — "Das Digitalisat wird Ihnen von perspectivia.net, der Online-Publikationsplattform der Max Weber Stiftung – Deutsche Gei…" — https://perspectivia.net/servlets/MCRFileNodeServlet/pnet_derivate_00002421/Grab_Conscription.pdf
+- `downloads/pages/fcbe932bee44.md` — "Napoléon et la finance - Le Consulat et le premier empire" — https://napoleon-histoire.com/la-politique-financiere-sous-le-consulat-et-lempire/
+- `downloads/pages/fee0e3a5a5da.md` — "State of the Army (Hansard, 28 June 1805)" — https://api.parliament.uk/historic-hansard/commons/1805/jun/28/state-of-the-army
+
+## Unresolved locators
+
+- `https://www.napoleon.org/histoire-des-2-empires/articles/les-hommes-de-la-gendarmerie-despagne-1809-1814/。引1809-11-12陆军部长奏报，SHD-DAT` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c98c24/notes_primary_2.md`)
+- `https://www.napoleon.org/histoire-des-2-empires/articles/la-gendarmerie-du-consulat-et-de-lempire/。开头明列省内领土、军中prévôtale、西班牙、海事、精锐、巴黎等专门部队之后写“les` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c98c24/notes_primary_2.md`)
+- `https://www.force-publique.net/sources/Livres/Manuel/Manuel-04.html。§B.3写1801` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c98c24/notes_primary_2.md`)
+- `nodes/r_5b1357a9c6/cards/t_998052/sources/postwar/read_evidence_and_notes.md` — no such file in this project (by [t_24b942] "英国实史大裁军是有条件参照，1830辩论明确海军规模随其他国家力量改变。" (fact) — "our naval force must partly depend upon that of other powers")
+- `nodes/r_5b1357a9c6/cards/t_998052/sources/postwar/read_evidence_and_notes.md` — no such file in this project (by [t_24b942] "英国议会1821裁船厂工的支持论点本身以持久和平预期为条件；1830政府反称海军力量部分取决于别国力量。实际战后裁军是情景机制，不能固定投射到法胜后英国。" (fact) — "our naval force must partly depend upon that of other powers")
+- `https://shs.hal.science/halshs-01241363/document` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `https://journals.openedition.org/geohist/4373` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `https://doi.org/10.3406/rharm.1974.7813` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `https://www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `https://doi.org/10.4000/books.psorbonne.91295` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `https://www.artillerie.asso.fr/basart/article.php3?id_article=1972` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/consulta/registro.do?id=523703` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `downloads/pages/898ecb4eeeb6.md|` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `downloads/pages/07268e71e6e2.md|` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `downloads/pages/06f099bfa047.md|` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `downloads/pages/a33ec60b83be.md|` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Ulm_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `downloads/pages/f2fd5147bb31.md|` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Mont_Saint-Bernard_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `downloads/pages/dc7df5fbd91a.md|` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Polonais_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `downloads/pages/a926b7531016.md|` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Tilsitt_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `downloads/pages/5af51159c185.md|` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `downloads/pages/acacc4f22128.md|` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `downloads/pages/a6a9708fe694.md|` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/F3_french_navy_capacity.md`)
+- `nodes/r_5b1357a9c6/cards/t_b1a536/validate_F3.py（先用build_F3_model.py与build_F3_sensitivity.py生成CSV）。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b1a536/VALIDATION.md`)
+- `https://jmss.org/article/download/58328/pdf_1/159033` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`)
+- `https://www.usmcu.edu/Outreach/Marine-Corps-University-Press/MCU-Journal/JAMS-vol-11-no-2/The-Unity-of-the-Operational-Art/` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_evidence.md`)
+- `https://doi.org/10.22586/pp.v43i67.32824` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/glover_source_excerpts.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Ulm_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Mont_Saint-Bernard_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Polonais_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Tilsitt_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`)
+- `https://www.academia.edu/2606837/_Le_redressement_naval_de_Napol%C3%A9on_de_1810_%C3%A0_1813_et_la_g%C3%A9ographie_maritime_de_lEurope_p_137_170` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`)
+- `https://www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/evidence/yard_evidence.md`)
+- `https://shs.hal.science/halshs-01241363/document` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`)
+- `https://journals.openedition.org/geohist/4373` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`)
+- `https://www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`)
+- `https://www.artillerie.asso.fr/basart/article.php3?id_article=1972` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_core.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Ulm_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Mont_Saint-Bernard_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Polonais_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`)
+- `https://en.wikipedia.org/wiki/French_ship_Tilsitt_` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`)
+- `https://www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b1a536/notes_yards.md`)
+- `nodes/r_5b1357a9c6/cards/t_998052/sources/annual/annual_1809_1815.csv` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`)
+- `nodes/r_5b1357a9c6/cards/t_998052/sources/postwar/read_evidence_and_notes.md` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_gap_projection.md`)
+- `https://blacksea.gr/download.php?fen=statistics/statistics_0014_7653.xlsx；编制说明` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_02f417/notes_blacksea_grain.md`)
+- `https://blacksea.gr/download.php?fen=statistics_sources.docx；学术负责人` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_02f417/notes_blacksea_grain.md`)
+- `https://www.nationalmuseum.md/en/press_releases/journal_tyragetia/the_role_of_grain_exports_in_external_commerce_of_bessarabia_1812_1830/；本地` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_02f417/notes_blacksea_grain.md`)
+- `https://doi.org/10.51829/Drassana.30.691` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_02f417/notes_colbert_forests.md`)
+- `https://www.onf.fr/onf/%2B/ff6::la-grande-histoire-des-forets-episode-ordonnance-de-colbert-en-1669-la-gestion-forestiere-en-foret-de-troncais.html，网页缓存` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_02f417/notes_colbert_forests.md`)
+- `nodes/r_5b1357a9c6/cards/t_998052/sources/annual/annual_1809_1815.csv` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_race_1815_1830.md`)
+- `nodes/r_5b1357a9c6/cards/t_998052/sources/postwar/read_evidence_and_notes.md` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_24b942/P4_naval_race_1815_1830.md`)
+- `nodes/r_5b1357a9c6/cards/t_998052/sources/postwar/read_evidence_and_notes.md` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_24b942/notes_sources.md`)
+- `downloads/pages/156d03703582.md）。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_24b942/notes_sources.md`)
+- `nodes/r_5b1357a9c6/coordination_ledger.md（Last` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_c87512/notes_inputs_core.md`)
+- `downloads/SP1_Marichal_Bankruptcy__92639196261c.pdf，338` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_9bd988/notes_marichal.md`)
+- `downloads/SP1_LaParra_Godoy.txt）；〔LP-F` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_3282da/SP1_spain_state.md`)
+- `downloads/SP1_LaParra_FernandoVII.txt）；〔Herr` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_3282da/SP1_spain_state.md`)
+- `downloads/SP1_Esdaile_PeninsularWar.txt）；〔C5〕=上一轮` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_3282da/SP1_spain_state.md`)
+- `nodes/r_b55f2c1cf5/cards/t_c2dbca/*（已核锚点复用注路径）；〔C1警报〕=nodes/r_b55f2c1cf5/cards/t_3dc3c2/bayonne_source_warning.md；〔NS-509e〕=downloads/pages/509e05c01d8a.md（Napoleon` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_3282da/SP1_spain_state.md`)
+- `nodes/r_5b1357a9c6/coordination_ledger.md。詳細摘录见本卡目录` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_3282da/SP1_spain_state.md`)
+- `downloads/f2_censo_godoy1797.pdf在库）；教士15-17万、贵族约40万（含巴斯克普遍贵族，通行口径，普查表未逐核——标待核）；农民占绝对多数，安达卢西亚雇工制/卡斯蒂利亚小农/加泰emphyteusis租佃/北部自耕。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_3282da/SP1_spain_state.md`)
+- `downloads/f2_censo_godoy1797.pdf）未逐页核表——本卡用通行口径并标注。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_3282da/SP1_spain_state.md`)
+- `downloads/f2_censo_godoy1797.pdf全卷在库）：总人口10.54M（上一轮F2已用）。教士与贵族数取普查卷内表——本卡未逐页核表，标` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_3282da/notes_army_church_society.md`)
+- `nodes/r_b55f2c1cf5/cards/t_c2dbca/*；〔C1警报〕=` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_3282da/notes_court.md`)
+- `nodes/r_b55f2c1cf5/cards/t_3dc3c2/bayonne_source_warning.md。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_3282da/notes_court.md`)
+- `downloads/pages/fb8093480da8.md。）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_08b9e7/F1_napoleon_center.md`)
+- `downloads/pages/eed9ab647f9a.md；回忆录性质，但与CG` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_08b9e7/F1_napoleon_center.md`)
+- `downloads/pages/3c65df716c09.md；回忆录，回溯性）。Lentz本人的判断：1810年他对经济下行、德意志骚动、西班牙困局、俄国敌意` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_08b9e7/F1_napoleon_center.md`)
+- `downloads/pages/ab23412e72be.md。）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_08b9e7/F1_napoleon_center.md`)
+- `downloads/pages/cf938653fa92.md）；同卷显示拿破仑3月23日以` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_08b9e7/F1_napoleon_center.md`)
+- `downloads/pages/2939d79f08d0.md；C8已作制度分析，此处并入信息系统面）。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_08b9e7/F1_napoleon_center.md`)
+- `nodes/r_5b1357a9c6/cards/t_08b9e7/SOURCES.md` — source changed since its registered sha256; original evidence is unresolved (in `nodes/r_5b1357a9c6/cards/t_08b9e7/SOURCES.md`)
+- `nodes/r_5b1357a9c6/cards/t_7c3954/sources/ined_bonneuil_france_1806.txt` — no such file in this project (by [t_7c3954] "寿限基线（INED-Bonneuil 1806法国表，已存sources/ined_bonneuil_france_1806.txt）：1803年34岁男性活到1821年概率79.5%，中位死亡年龄…" (fact))
+- `https://researchspace.bathspa.ac.uk/1461/1/Christopher%20Chilcott%20-%202006.pdf` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`)
+- `https://archive.org/details/carysnewitinerar00cary` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b9e29c/notes_Cary_roads.md`)
+- `https://researchspace.bathspa.ac.uk/1461/1/Christopher%20Chilcott%20-%202006.pdf` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b9e29c/notes_Chilcott_2006.md`)
+- `https://archive.org/details/projetsettentat02histgoog` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_b9e29c/notes_interface_french.md`)
+- `https://www.napoleon-series.org/wp-content/uploads/2022/07/History-of-the-Campaign-of-Russia-Part-14.pdf` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`)
+- `http://1812now.blogspot.com/2012/04/april-17-1812-napoleons-peace-offer.html` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`)
+- `https://api.parliament.uk/historic-hansard/commons/1811/jun/05/vote-of-credit` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`)
+- `https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-the-uk.xlsx` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c69786/B1_britain_politics.md`)
+- `nodes/r_5b1357a9c6/cards/t_998052/sources/stores/B3_stores_evidence.md` — no such file in this project (by [t_998052] "Albion报告北美大桅1807–08输出由4,442增16,729；1810/11橡木超过17,000/24,000 loads，反对把波罗的海木材断供写成舰队必瘫。" (fact) — "the exports from British North America jumped from 4,442 to 16,729 in a single year")
+- `nodes/r_5b1357a9c6/cards/t_998052/sources/annual/evidence.md` — no such file in this project (by [t_998052] "新取得James Abstract17–23现代转录：1809–15海勤现役113、108、107、102、102、99、47；海勤总127、124、124、120、124、118、109，全部分栏…" (fact))
+- `https://www.rmg.co.uk/collections/objects/rmgc-object-140870，缓存downloads/pages/b71a637044ed.md，已读完整实体说明。题名记1845-04-03` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_998052/notes_late_checks.md`)
+- `https://api.parliament.uk/historic-hansard/commons/1812/feb/22/navy-estimates；缓存downloads/pages/f42cec953d4b.md。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_998052/notes_synthesis_anchors.md`)
+- `https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges；缓存downloads/pages/156d03703582.md。本轮读cc806–807及Tierney反驳cc809–817、财政答辩cc818–820。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_998052/notes_synthesis_anchors.md`)
+- `downloads/pages/7f93512d05f7.md。页码按所显示书页。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_998052/notes_synthesis_anchors.md`)
+- `https://www.rmg.co.uk/collections/research-guides/research-guide-b8-spithead-nore-mutinies-1797；downloads/pages/2d8d72a79507.md` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_998052/notes_synthesis_anchors.md`)
+- `https://www.reenactor.ru/ARH/PDF/Defence.pdf；downloads/pages/e47ab045c32f.md。已读开头pp443–444、pp450–451及p453（OCR误作455）。作者需书目确认，未补造。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_998052/notes_synthesis_anchors.md`)
+- `downloads/pages/326b19e197a6.md。阅读主体：不接受其“上岸后无人可挡”等无条件论断；用其归纳的1804后渡海需主力舰队/布洛涅港潮汐瓶颈、1801英军小艇攻击失败作对照。回忆录/圣赫勒拿材料均为作者转引的回溯性辩解，未作为意图硬证据。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_998052/notes_synthesis_anchors.md`)
+- `https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1811/；downloads/pages/6864746209f3.md` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_998052/notes_synthesis_anchors.md`)
+- `https://www.napoleon-series.org/wp-content/uploads/2022/07/History-of-the-Campaign-of-Russia-Part-14.pdf` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c69786/notes_1812_check.md`)
+- `https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-the-uk.xlsx` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c69786/notes_capacity.md`)
+- `downloads/pages/6e996221a1d1.md）：c248政府承认无可提交的法方正式承认uti` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_c69786/notes_capacity_update.md`)
+- `https://api.parliament.uk/historic-hansard/commons/1811/jun/05/vote-of-credit` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c69786/notes_constitution_1803_1811.md`)
+- `http://1812now.blogspot.com/2012/04/april-17-1812-napoleons-peace-offer.html` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c69786/notes_ireland_press.md`)
+- `https://researchspace.bathspa.ac.uk/1461/1/Christopher%20Chilcott%20-%202006.pdf` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_c69786/notes_local_evacuation_correction.md`)
+- `https://www.bankofengland.co.uk/statistics/research-datasets；精确xlsx：https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-the-uk.xlsx；复用B2在2026-09-23取得` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`)
+- `https://archive.org/download/b22297042/b22297042.pdf；转至https://ia601903.us.archive.org/15/items/b22297042/b22297042.pdf。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`)
+- `https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`)
+- `https://www.snes.edu/IMG/pdf/BLOIS_-_Justice_et_luttes_sociales_-_Luddisme_-_Jarrige_1_.pdf` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`)
+- `https://www.nationalarchives.gov.uk/education/resources/protest-and-democracy-1816-to-1818/；` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`)
+- `https://www.nationalarchives.gov.uk/education/resources/protest-democracy-1818-1820/；` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`)
+- `https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/；` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`)
+- `https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/overview/chartistmovement/；` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`)
+- `http://www.cambridge.org/gb/academic/subjects/history/economic-history/british-economic-growth-12701870?format=PB` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/boe_headers.txt`)
+- `http://gpih.ucdavis.edu/#` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/boe_headers.txt`)
+- `https://e-archivo.uc3m.es/bitstreams/59818d76-9b1b-435d-80c8-857d7d7efafc/download；downloads/pages/ef0a274dde3a.md，实读pp14–23及首部；不声称亲读刊本。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_cuenca_discovery.md`)
+- `downloads/pages/2117b6d948bd.md，实读全文。转引Rory` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_cuenca_discovery.md`)
+- `downloads/pages/2e0619dd75ba.md。检索指向公开数据davidjacks.org/british-trade-data/。论文是十年间隔1700–1899，不满足1803–15逐年问题；只读摘要/数据描述，不使用其全球份额填年度。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_cuenca_discovery.md`)
+- `https://api.parliament.uk/historic-hansard/commons/1811/mar/11/commercial-credit；既有全文` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_hansard_1811.md`)
+- `downloads/pages/3b8b8e348c6d.md（本次已读cc327–348）；复用上一轮t_95ef51定位，但以下独立重读。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_hansard_1811.md`)
+- `downloads/c15_heckscher1922.pdf，doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_heckscher_orourke.md`)
+- `https://www.tcd.ie/Economics/TEP/2005_papers/TEP9.pdf；既有downloads/pages/dda4372be1f5.md。本卡实读引言、贸易测量、模型和结论相关段（L20–169、370–450）。不是亲读2006刊本。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_heckscher_orourke.md`)
+- `https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2；本次全文读downloads/pages/e5b32951df65.md。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_heckscher_orourke.md`)
+- `https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-sheffield-against-the；downloads/pages/0cf6ab7705f7.md。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_labour_petitions.md`)
+- `https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-the-hallamshire-cutlers；downloads/pages/ba2ab29e8259.md。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_labour_petitions.md`)
+- `https://www.nationalarchives.gov.uk/education/resources/protest-and-democracy-1816-to-1818/（downloads/pages/6584f2f8b4f1.md）及/protest-democracy-1818-1820/（0165ca641153.md），均全文读。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_labour_petitions.md`)
+- `https://www.britannica.com/money/Combination-Acts；downloads/pages/72f263dafad6.md，仅捕获首段（结尾T截断）。1799/1800法律惩罚工人联合争取工资/工时，三月监禁或两月苦役、两治安官裁决；正文称对雇主条款未有已记录执行。只作制度概述，不由这个截断页引用1824/25后续。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_labour_petitions.md`)
+- `https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/；downloads/pages/98f3132e9a36.md，本卡读正文全（1833不是1803制度）。1831限18岁下12小时尚缺执行；1833扩大到毛纺；设4名检查员管约4000厂，作者直称widely` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_longrun.md`)
+- `https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/overview/chartistmovement/；downloads/pages/cd205de92b28.md，正文全读。1832改革未向无产者普遍扩票；1838宪章六要求，1839/1842/1848请愿遭拒；1848预想骚乱未发生。数字仅概览（1839` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_longrun.md`)
+- `downloads/B5_Marshall_statistical_display1833.pdf，doc6732fd554ca2；SHA6732fd554ca206d55ce2060d31852f46686eaf853b0b621a7f802abbf027e2e7。读/看印p74=PDF88。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_marshall_correction.md`)
+- `downloads/B5_Jarrige_Luddisme2010.pdf，doc4e8fe2aef689，实读pp2–6，https://www.snes.edu/IMG/pdf/BLOIS_-_Justice_et_luttes_sociales_-_Luddisme_-_Jarrige_1_.pdf。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_nonenglish.md`)
+- `https://www2.camara.leg.br/legin/fed/carreg_sn/anterioresa1824/cartaregia-35757-28-janeiro-1808-539177-publicacaooriginal-37144-pe.html，downloads/pages/ead7fbfac794.md。已读正文全。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_nonenglish.md`)
+- `downloads/pages/6305bcbe013e.md，全文已读。Gascoyne呈递，议长及财政大臣援税案规则拒受，最后赞成接受80、反对128。Tarleton愿支持接受但称其1461支持选民无人签字；城市商人不等于全体城市统一政治意志。Tierney` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_nonenglish.md`)
+- `downloads/pages/c7337a608bc3.md，已读cc816–837、政府回应cc860–872；未读整场。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_addenda.md`)
+- `downloads/pages/c674c509988f.md。已读全文。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_addenda.md`)
+- `downloads/pages/180220d9fb15.md。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_addenda.md`)
+- `downloads/pages/414c1bc55e2f.md；正文初段/脚注11定点读，非全文。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_addenda.md`)
+- `downloads/pages/da8b385366d2.md，全文未读，只采7–13条：Malta英有；French1792殖地归还但Tobago/StLucia/Isle` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_addenda.md`)
+- `downloads/pages/ff15a0e6a320.md全文读：1819-02-06` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_addenda.md`)
+- `downloads/pages/8a7cea21ca39.md，全文已读。1840-02-06，英文本sovereignty，毛利第一条kawanatanga、第二条tino` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_addenda.md`)
+- `downloads/pages/a4244268fcb9.md全文读。岛为法私掠基地，英军与印度军1810攻取。因此除印度模型不得把该海外远征兵力当凭空自产。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_addenda.md`)
+- `downloads/pages/32a25c5f3dca.md历史概览已读。其1848数5657吨/£683623限定NSW` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_addenda.md`)
+- `downloads/pages/554b3ef083a5.md，已读正文与多数脚注（行20–约140）。引用用文章页标及段落起句。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`)
+- `downloads/pages/7838a9756a45.md；已读首尾，未读中段，采用首段明确内容：1799-12至1803-01疾病死亡+病退速度要求向风背风群岛驻军每六年更换等规模；不是每六年人人死亡。30年代Marshall/Tulloch二十余年资料显示黑人士兵总体病亡低，但呼吸系统疾病更高，不能写生物种族免疫。高地基地超过2000–2500英尺较有益是后期调查，不倒填1803万能医学。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`)
+- `downloads/B6_Gregory1998_Mediterranean.pdf，doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`)
+- `downloads/B6_Wilson2018_AngloDutch.pdf，doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`)
+- `https://doi.org/10.17863/CAM.38350` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`)
+- `downloads/pages/f9fa0ab15c1b.md。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`)
+- `downloads/pages/664bfb9d9703.md，已读关键全文。1797从开普运美利奴，1807首包出售，1813第一商业船货按前价估£8,000，1820年代再引5000。首批贵价不能当整个羊毛业利润。麦克阿瑟牧场有囚犯劳动，Elizabeth经营能力被英雄男性叙事遮蔽。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`)
+- `downloads/pages/57df14bfaeee.md，已读E/F/G/H。1848羊毛出口` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`)
+- `downloads/pages/8f561f7ea950.md已读全文。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`)
+- `nodes/r_5b1357a9c6/cards/t_998052/sources/stores/B3_stores_evidence.md` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`)
+- `downloads/pages/e5db571883ca.md已读全文：1803–11特惠税提高，1820/21减差但保海运后优势，1842后两年特惠减半，1830年代高特惠推高英木价。木材作为国家海权投入是补贴进口而非财政免费礼物。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`)
+- `downloads/pages/c7cd9ef65032.md），增长数待定点读。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`)
+- `downloads/pages/6b8e02cd7248.md，前后已读，1807/1833中段待补。1833法官版PDF已获doc8a4da9da4e47，禁止将1833=1807或补偿给奴隶。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_empire.md`)
+- `downloads/pages/02c1f081e6e3.md；已读全文。系议会发言转述报表，不是独立审计原账，抽取丢了发言者名，不擅补。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_fiscal.md`)
+- `downloads/pages/0b986a1a0af8.md；已读cc506–513与尾段，未读与本题无关中段。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_fiscal.md`)
+- `downloads/pages/f20a6abe848b.md），仅题录、章题与简介；chapter7` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_fiscal.md`)
+- `downloads/c15_heckscher1922.pdf）：报关地GB不含Ireland，D=UK` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_0fed70/notes_reuse.md`)
+- `https://www.cambridge.org/core/journals/irish-historical-studies/article/abs/first-chapter-of-1798-restoring-a-military-perspective-to-the-irish-militia-riots-of-1793/D36A1C94E3F789FE03298756F48DAF4D` — no saved copy under downloads/ (by [t_c8b161] "1796–1798年驻爱尔兰部队中正规兵只占**5–6%**（1793年68%、1801–02年20%）；其余为民兵、fencibles与义勇军。这意味着法国最佳登陆窗口并非“英国弱”的笼统判断，而…" (fact) — "The percentage of regular soldiers on the Irish establishment in the period 1793-1802 was as follow…")
+- `https://historyireland.com/a-forgotten-army-the-irish-yeomanry/` — no saved copy under downloads/ (by [t_c8b161] "1803年续战使爱尔兰义勇军由**63,000增至约80,000**；Emmet起义正值扩编，使新教徒得以强化其垄断；Hardwicke拟设天主教连队遭阻（Wickham称其“unsafe”）。因此…" (fact) — "The continuance of war in 1803 meant a large increase in the Yeomanry from 63,000 to around 80,000.")
+- `https://journals.gold.ac.uk/index.php/bjmh/article/download/1716/1843/2129` — no saved copy under downloads/ (by [t_c8b161] "1808–1815年英军204个骑步兵团的14万余名士兵样本中，**爱尔兰出生者占32%**（英格兰53%、苏格兰14%）；1807–15年士官中30%为爱尔兰人；半岛与滑铁卢诸团军官中33%。爱尔…" (fact) — "32% of all enlisted men across the 204 cavalry and infantry regiments/battalions analysed were Iris…")
+- `https://doi.org/10.1111/1750-0206.12267` — no saved copy under downloads/ (by [t_c8b161] "推演（中置信）0.60–0.75：S2／S5下天主教解放提前到1806–1813年，且**不伴随40先令自由持有人的选举权剥夺**（史实1829年使郡选民由约216,000降至约37,000）。后果…" (inference))
+- `https://doi.org/10.1017/s1361491697000026` — no saved copy under downloads/ (by [t_c8b161] "推演（低—中置信）：1845–49饥荒在所有情景中都会发生（疫病外生），死亡区间：S0=1.0–1.1M；法系爱尔兰＋大陆式征用管制＋开放外迁=0.3–0.7M；法系＋战时封锁（外迁受阻）=0.9–…" (inference))
+- `http://hdl.handle.net/2262/3927` — no saved copy under downloads/ (by [t_c8b161] "未用潜力（推演·高置信）：最低成本最高回报的法国爱尔兰政策不是登陆，而是（i）维持可见的远征准备以锁住英国兵力并阻止英方1811年英爱民兵互换法的启用；（ii）把爱尔兰军团扩成3,000–5,000…" (inference))
+- `downloads/R1_vandal1_full.txt，Gutenberg` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_91cbee/notes_vandal1.md`)
+- `downloads/c12_vandal3_full.txt，Gutenberg` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_91cbee/notes_vandal3.md`)
+- `downloads/c12_vandal3_full.txt）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_91cbee/notes_vandal3_part2.md`)
+- `https://kb.osu.edu/bitstreams/5ab611a9-4c5e-5295-ac80-d0a032d7ca39/download` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`)
+- `https://doi.org/10.7256/2073-8560.2015.6.12430` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`)
+- `https://doi.org/10.24412/2076-9105-2024-456-15-24` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`)
+- `https://www.gutenberg.org/ebooks/32621` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`)
+- `https://doi.org/10.2307/2492650` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`)
+- `https://ru.wikipedia.org/w/index.php?title=Ассигнационный_рубль&oldid=154904333` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`)
+- `https://doi.org/10.2307/3112952` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`)
+- `https://www.britannica.com/place/Russian-Empire/Nicholas-I` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`)
+- `http://www.brocgaus.ru/text/002/923.htm，保存` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`)
+- `downloads/pages/05a0209a543e.md；有界选段source_antonov_credit_excerpt.txt。URL` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_credit_ports.md`)
+- `downloads/pages/83d83211926c.md，实际版权页与pp.37–44、64–70；URL` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_credit_ports.md`)
+- `https://ebin.pub/odessa-a-history-1794-1914-0916458431-9780916458430.html。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_credit_ports.md`)
+- `http://rulex.ru/01273021.htm，downloads/pages/b71024f74504.md。实际读全文；年代/债务内部有1723明显错字，预算序列不作主冻结。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_credit_ports.md`)
+- `https://ru.wikipedia.org/wiki/Ассигнационный_рубль?oldid=154904333；缓存downloads/pages/4b0b3e27f01f.md。表引2018金融素养教科书（1786–1811据1854统计集、1812–1843据Storch1868）；底表未见。为可追踪连续辅助系列，不伪称原册复核。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_credit_ports.md`)
+- `downloads/pages/1b6165aee016.md。注8：1800俄生铁162000公吨/英156000，转引Strumilin` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_credit_ports.md`)
+- `https://kb.osu.edu/bitstreams/5ab611a9-4c5e-5295-ac80-d0a032d7ca39/download（重定向OSU` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_crosby_davey.md`)
+- `https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf；downloads/R2_Davey2009.pdf` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_crosby_davey.md`)
+- `downloads/c12_vandal3_full.txt，实读L21010–21249；复用旧卡路径。转引文书，不亲阅档案。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_crosby_davey.md`)
+- `https://www.prlib.ru/history/1874457；downloads/pages/f70462842c06.md。已读全文。1803允许自愿赎地、1842自愿人身自由保留土地使用义务，贵族不广泛支持；1837–41国有农民改革/1847清册。引用«земля` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_crosby_davey.md`)
+- `https://www.persee.fr/doc/casla_1283-3878_2016_num_14_1_1138；downloads/pages/b410f00b28b3.md。其首段指出‘奇迹城市’叙事由创立者与圈子推广，Richelieu1813自述世界无比（转引SRIO54` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_crosby_davey.md`)
+- `https://istmat.org/node/72；downloads/pages/5f01778e4d6f.md。只读章首人口统计批判及表6–10/相邻解释，非全书。原书常见出版1956未在本文显示版权，不作为已经本轮核验出版信息。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_longrun.md`)
+- `https://www.britannica.com/place/Russian-Empire/Nicholas-I，完整抓取downloads/pages/010052ac67de.md。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_longrun.md`)
+- `https://cbr.ru/cash_circulation/spravka-o-banknotnom-obraschenii-v-rossii/；downloads/pages/76e0f720bdd9.md；页面更新2022-04-05。第2历史段：1839–43改革纸币改为银卢布信用券。该机构简史的‘撤出流通’与终结兑换1849可并存，不作某一日全民换完。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_longrun.md`)
+- `https://www.prlib.ru/history/619711；downloads/pages/f95185d0f2c6.md；实读全文。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_longrun.md`)
+- `https://www.prlib.ru/history/619715；downloads/pages/61ed76741f61.md。实读全文，1842-02-01` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_longrun.md`)
+- `http://dugward.ru/library/speranskiy_m/speranskiy_otchet_v_delah_1810.html；缓存` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_speransky.md`)
+- `downloads/pages/56a23915a69c.md，实读L30–269。旧卡索引` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_speransky.md`)
+- `downloads/B1_chambray1812_part14.pdf在库未及读，挂账）。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_2c3192/R3_russian_army.md`)
+- `downloads/pages/8f2c112edf2d.md，2021年LitObr加工本，1859年帝国军事史——护皇立场需批判）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_2c3192/notes_misc.md`)
+- `downloads/pages/6635f608e21d.md）：pp.256–259德维纳-第聂伯停线批判：B1` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_2c3192/notes_misc.md`)
+- `downloads/pages/eed9ab647f9a.md）：pp.4–7` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_2c3192/notes_misc.md`)
+- `downloads/c18_czubaty2018.pdf，doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b5dab4/PL_poland_lithuania 2.md`)
+- `downloads/pages/12d7830a524e.md）；Filipiak（军事供宿研究，doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b5dab4/PL_poland_lithuania 2.md`)
+- `downloads/pages/d6224d1eedd9.md）；1807宪法与1808–12犹太人法令文本（Wikiźródła与statusprawnyzydow.historia.uw.edu.pl转录）；公国证券史汇编（historycznepapiery.pl）；1831起义军队与财政专文。Kukiel兵力数与部长会议1812-11-17报告经napoleon.org.pl论坛转引，**未亲核原页**，全程标转引。Żółtowski` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b5dab4/PL_poland_lithuania 2.md`)
+- `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md）；《Dziennik` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b5dab4/PL_poland_lithuania 2.md`)
+- `downloads/c18_czubaty2018.pdf，doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b5dab4/PL_poland_lithuania.md`)
+- `downloads/pages/12d7830a524e.md）；Filipiak（军事供宿研究，doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b5dab4/PL_poland_lithuania.md`)
+- `downloads/pages/d6224d1eedd9.md）；1807宪法与1808–12犹太人法令文本（Wikiźródła与statusprawnyzydow.historia.uw.edu.pl转录）；公国证券史汇编（historycznepapiery.pl）；1831起义军队与财政专文。Kukiel兵力数与部长会议1812-11-17报告经napoleon.org.pl论坛转引，**未亲核原页**，全程标转引。Żółtowski` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b5dab4/PL_poland_lithuania.md`)
+- `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md）；《Dziennik` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b5dab4/PL_poland_lithuania.md`)
+- `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md（已验收）、nodes/r_b55f2c1cf5/cards/t_26cd47/polish_evidence.md。以下为复用摘录＋原出处链，正文引用时注原路径。其` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b5dab4/notes_prior_round.md`)
+- `https://digital.library.unt.edu/ark:/67531/metadc1752349/（直接fetch遇DAM验证，Exa提取元数据成功：downloads/pages/d5c627631093.md）；正文经DOI读取https://doi.org/10.12794/metadc1752349，本地downloads/pages/848ad5b3b9ea.md。实际读导论末及MOBILIZATION章前半（L80–130），非全篇。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_army_monetary.md`)
+- `https://repertorium.at/qu/1811_oestabgb.html；downloads/pages/7378b53aa48e.md。读颁行敕令、§§15–19；全典已下载未通读。底本为Augsburg馆藏标1811的未定年原样重印，不冒称1811首印。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_economy_law_society.md`)
+- `downloads/A_Kaps2015_trade_statistics.pdf，doc1d0307c721e1。实际读pp.253–255、258–260（PDF1–3、6–8）。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_economy_law_society.md`)
+- `https://pmc.ncbi.nlm.nih.gov/articles/PMC3092985/；downloads/pages/7b11d8a7dad4.md。实际读§§2–3、Table1–2、结尾脚注，结果各曲线未抄数。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_economy_law_society.md`)
+- `https://www.arcanum.com/hu/online-kiadvanyok/Borovszky-borovszky-samu-magyarorszag-varmegyei-es-varosai-1/somogy-varmegye-153D7/somogy-varmegye-tortenete-irta-reiszig-ede-dr-15DBA/ii-a-mohacsi-vesztol-a-kiegyezesig-16088/2-a-xviii-szazad-es-a-franczia-haboruk-kora-1624A/1811-evi-orszaggyules-devalvaczio-16380/；downloads/pages/9a8e1d55620d.md；全文读。地方旧史，不代表所有郡立场。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_economy_law_society.md`)
+- `https://hunghist.org/84-abstract/351-2016-1-horcher；downloads/pages/17447f15be10.md；读导言、Preliminary` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_economy_law_society.md`)
+- `https://www.geschichtewiki.wien.gv.at/Kaiser-Ferdinands-Nordbahn；downloads/pages/f56f440eec96.md；读1835–48段。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_economy_law_society.md`)
+- `https://www.habsburger.net/en/chapter/resistance-holy-land-tyrol-tyrolean-taliban；downloads/pages/9a69563ae505.md；实读全文。政治类比Taliban失之粗糙，本卡不采。事实采用：特权/宗教传统威胁与奥国支持同动，1809战败弗朗茨无法兑现永不割Tyrol承诺；1810-02-20Hofer处决。反叛机制为社区制度而非自动德意志民族主义。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_economy_law_society.md`)
+- `https://www.dhm.de/lemo/kapitel/vormaerz-und-revolution/alltagsleben/die-hungersnot-1816/17；downloads/pages/2c86b127592b.md；全文读。资料地区主要德意志，作为相邻地区天气与粮禁的机制，不直接照搬奥地利减产率/死亡率。战争削储粮与畜力使危机恶化；各地粮禁反而截断省际贸易；减战可缓冲却不消天气。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_economy_law_society.md`)
+- `http://www.zeno.org/Brockhaus-1809/B/Oestreich；downloads/pages/664a7ecc0984.md；全文读。页163。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_economy_law_society.md`)
+- `https://researchonline.lse.ac.uk/id/eprint/132265/1/U062406.pdf；downloads/A_Axtmann1991_Austria_Ireland.pdf，SHA256` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_fiscal_table.md`)
+- `downloads/pages/86b2fc3fc26a.md，URL` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_fiscal_table.md`)
+- `https://www.geschichtewiki.wien.gv.at/Donaudampfschiffahrtsgesellschaft。读1828–46创设/早期船队部分。1828英船匠Andrews与Prichard获奥国特许；1830首航Pest、1831常班；1834` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_fiscal_table.md`)
+- `https://hunghist.org/83-articles/774-2022-1-nagy；本地` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_hungary_finance.md`)
+- `downloads/pages/ef06d5628e76.md。本卡读导言、Military` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_hungary_finance.md`)
+- `https://www.geschichtewiki.wien.gv.at/Staatsbankrott_1811；downloads/pages/2226957c29b6.md` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_hungary_finance.md`)
+- `https://www.oenb.at/Ueber-Uns/unternehmensgeschichte/1816-1818.html；downloads/pages/15d715a151a0.md` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_hungary_finance.md`)
+- `https://napoleon-histoire.com/correspondance-de-napoleon-ier-septembre-1809/；downloads/pages/064046ec6241.md` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_partition_dynasty.md`)
+- `http://www.histoire-empire.org/correspondance_de_napoleon/1809/mai_03.htm；downloads/pages/a947acecb6dc.md，独立宣言位于L253–269；已单段阅读全文。原句“Réunissez-vous` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_partition_dynasty.md`)
+- `https://www.persee.fr/doc/rhmc_0048-8003_1981_num_28_3_1162_t1_0530_0000_1；downloads/pages/3f4aaa790362.md，全文核读。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_partition_dynasty.md`)
+- `downloads/pages/c5194d3db60c.md，Wien` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_partition_dynasty.md`)
+- `downloads/pages/6a70f356e610.md，Stephan` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_partition_dynasty.md`)
+- `https://www.conseil-constitutionnel.fr/les-constitutions-dans-l-histoire/constitution-de-l-an-xii-empire-28-floreal-an-xii；downloads/pages/2db1b3d107b9.md。读第3–7、17–31条。18岁成年、原18条排女性摄政、30条母亲监护。此原规1813已改，不能只引用1804来排斥玛丽路易丝摄政。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_succession_resources.md`)
+- `https://www.verfassungen.eu/f/fverf13-3.htm；downloads/pages/9f08012c5301.md。读法文1–19条；网页标题、前导1812日期明显复制错误，德译15条甚至反转“有继承弟弟”的原意，故不采德译/网页尾部关于03-30的概括。正文落款与底源Bulletin` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_succession_resources.md`)
+- `downloads/pages/25101e384c5e.md；读该段及两注，不自称全文精读。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_succession_resources.md`)
+- `https://www.napoleon.org/histoire-des-2-empires/articles/donnees-actuelles-sur-napoleon-ii-1811-1832-et-ses-dents/；downloads/pages/6c50590d5ddd.md。仅采导言：生1811-03-20，史实1832-07-22死于结核、无婚无嗣。原页面称在位15天为名义政治声明，不写实际执政。疾病不能当反事实免死或确定同年死；设活过1832主分支与早夭压力分支，不给伪医学概率。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_succession_resources.md`)
+- `http://www.zeno.org/Brockhaus-1809/B/M%C3%A4hren，downloads/pages/2c1a774dc889.md` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_succession_resources.md`)
+- `http://www.zeno.org/Brockhaus-1809/B/Ungarn，downloads/pages/5f1e86c351d1.md` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_succession_resources.md`)
+- `downloads/pages/603b19b5b0f9.md；Fondation` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_treaties.md`)
+- `downloads/pages/0cb883e1dd4e.md，Napoleon-Histoire` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_f4bb81/notes_treaties.md`)
+- `https://www.deutsche-biographie.de/sfz76155.html` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_wurtt_baden_tyrol.md`)
+- `https://stadtlexikon2.karlsruhe.de/index.php/De:Lexikon:bio-0783` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_wurtt_baden_tyrol.md`)
+- `https://portale.hdbg.de/koenigreich-bayern/objekte/objekt/339` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_zollverein_wirtschaft.md`)
+- `https://www.hgisg-ekompendium.ieg-mainz.de/Dokumentation_Datensaetze/Multimedia/Staatenwelten/Bayerisch-Wuerttembergischer_Zollverein.pdf` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_zollverein_wirtschaft.md`)
+- `https://www.verfassungen.de/de06-66/zollverein33.htm` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f55d87/notes_zollverein_wirtschaft.md`)
+- `downloads/G2_north_german_states.md前身材料：vhghessen.de ZHG114 Bickert PDF（搜索返回段）` — no such file in this project (by [t_cbaee3] "1809年Dörnberg起义目标是复辟选侯旧制（旗帜为旧帝国黑双头鹰）而非全德民族目标；威国自有军队（含Dörnberg本部两连猎兵）拒绝叛变并一击镇压之。北德抵抗定理：只要法军/藩属正规军在场且…" (interpretation) — "Die von Caroline von Baumbach überreichte Fahne trug die Aufschrift: „Sieg oder Tod im Kampf für da…")
+- `downloads/pages/cf0509d983d0.md同批抓取；geschichtsbuch.hamburg.de Franzosenzeit（搜索返回段）` — no such file in this project (by [t_cbaee3] "汉堡1813：罚金4800万法郎（≈2500万班科马克）、1813-06-08帝国敕令宣布汉堡“法外”三月、30富商为质、1813-11-05查封汉堡银行库存白银7,489,343马克·班科、年底逐…" (fact) — "Hamburg wurde von den Franzosen mit einer Zwangskontribution über 48 Millionen Françs (=25 Millione…")
+- `https://www.his-data.de/objekt/5/3/8/4/sulingen,konv,1803.pdf` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_cbaee3/G2_north_german_states.md`)
+- `downloads/pages/82a063e7e022.md，napoleon-histoire.com转录《Correspondance` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_ccdcc8/notes_primary_finance.md`)
+- `downloads/F4_Marion_IV_1925.txt（OCR）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_ccdcc8/notes_primary_finance.md`)
+- `downloads/pages/a19ef3dd7086.md）；1812-09-19外相Rosenkrantz谏言弃法投盟，国王以` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/SC_part1.md`)
+- `downloads/pages/38e086c611f0.md）：` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/SC_part1.md`)
+- `downloads/pages/bcec6e864569.md）。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/SC_part2.md`)
+- `downloads/pages/2853653e1cb6.md）。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/SC_part2.md`)
+- `downloads/pages/2853653e1cb6.md）、公国约60万；瑞典本部约240万（1800）、芬兰约86–90万（1810）。除挪威90万外，其余为权重知识，本轮未独立核对普查原表——红队可查Statistiska` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/SC_part2.md`)
+- `downloads/pages/a19ef3dd7086.md）；英军8-16登陆3万人、9-2至9-5轰城（约6,000弹，数百死）（lex.dk/danmarkshistorien条目）。丹麦舰队此前**封存以示不挑衅**（1807.dk` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/SC_part3.md`)
+- `downloads/pages/38e086c611f0.md）；Barton` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/SC_part4.md`)
+- `downloads/pages/a19ef3dd7086.md）；1812-09-19外相Rosenkrantz谏言弃法投盟，国王以` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/SC_scandinavia.md`)
+- `downloads/pages/38e086c611f0.md）：` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/SC_scandinavia.md`)
+- `downloads/pages/bcec6e864569.md）。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/SC_scandinavia.md`)
+- `downloads/pages/2853653e1cb6.md）。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/SC_scandinavia.md`)
+- `downloads/pages/2853653e1cb6.md）、公国约60万；瑞典本部约240万（1800）、芬兰约86–90万（1810）。除挪威90万外，其余为权重知识，本轮未独立核对普查原表——红队可查Statistiska` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/SC_scandinavia.md`)
+- `downloads/pages/a19ef3dd7086.md）；英军8-16登陆3万人、9-2至9-5轰城（约6,000弹，数百死）（lex.dk/danmarkshistorien条目）。丹麦舰队此前**封存以示不挑衅**（1807.dk` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/SC_scandinavia.md`)
+- `downloads/pages/38e086c611f0.md）；Barton` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/SC_scandinavia.md`)
+- `downloads/R2_Davey2009.pdf，doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/notes_blockade.md`)
+- `downloads/R2_Crosby1965.pdf，doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/notes_blockade.md`)
+- `downloads/pages/a19ef3dd7086.md）；Københavns` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/notes_denmark.md`)
+- `downloads/pages/bcec6e864569.md）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/notes_denmark.md`)
+- `downloads/pages/0bb22c2907e0.md）；Fredstraktat...14` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/notes_denmark.md`)
+- `downloads/pages/2853653e1cb6.md）；Den` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/notes_denmark.md`)
+- `downloads/pages/d983cfd56cb8.md）。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/notes_denmark.md`)
+- `downloads/Glenthoj_Ottosen_Experiences_of_War__6956a6cfa8f7.pdf，doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/notes_glenthoj.md`)
+- `downloads/Barton_Scandinavia_Revolutionary_Era__96ed5e3f65eb.pdf，doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/notes_sweden.md`)
+- `downloads/pages/38e086c611f0.md，译文出Fisher` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/notes_sweden2_finland.md`)
+- `downloads/pages/c7f7c214af3a.md）：割让条款列名Kymmenegårds、Nylands` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8b4a3e/notes_sweden2_finland.md`)
+- `downloads/pages/649e54bf4408.md，复用t_7da32d已核锚点）；1811年帝国全权公使Durant的训令则把话挑明：王国与法国的关系由` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8f2668/IT2_naples_sicily.md`)
+- `downloads/pages/567748874d93.md）——响应寥寥（` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8f2668/IT2_naples_sicily.md`)
+- `downloads/IT2_Davis_Naples_and_Napoleon__56c91cc713a7.pdf（PDF页=书页+9）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8f2668/notes_davis_2.md`)
+- `downloads/IT2_Davis_Naples_and_Napoleon__56c91cc713a7.pdf（PDF页=书页+9）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8f2668/notes_davis_3.md`)
+- `downloads/IT2_Davis_Naples_and_Napoleon__56c91cc713a7.pdf（PDF页=书页+9）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8f2668/notes_davis_4.md`)
+- `downloads/IT2_Davis_Naples_and_Napoleon__56c91cc713a7.pdf（PDF页=书页+9）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8f2668/notes_davis_5_calabria.md`)
+- `downloads/IT2_Davis_Naples_and_Napoleon__56c91cc713a7.pdf（PDF页=书页+9）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8f2668/notes_davis_6.md`)
+- `downloads/IT2_Davis_Naples_and_Napoleon__56c91cc713a7.pdf（PDF页=书页+9）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8f2668/notes_davis_7_1820.md`)
+- `downloads/相应txt文件行号` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8f2668/notes_johnston_rambaud_primary.md`)
+- `downloads/IT2_Johnston_v1.txt（=archive.org/details/napoleonicempire01john）；IT2_Johnston_v2.txt（=napoleonicempire02john）；另有无OCR的AA本IT2_Johnston_Napoleonic_Southern_Italy__13a72796ecd0.pdf` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8f2668/notes_johnston_rambaud_primary.md`)
+- `downloads/IT2_Rambaud_Naples_Joseph.txt（=archive.org` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8f2668/notes_johnston_rambaud_primary.md`)
+- `downloads/pages/649e54bf4408.md。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8f2668/notes_johnston_rambaud_primary.md`)
+- `downloads/pages/567748874d93.md。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8f2668/notes_johnston_rambaud_primary.md`)
+- `downloads/c6_1805_italian_statute.pdf。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8f2668/notes_johnston_rambaud_primary.md`)
+- `downloads/IT2_Gregory_Sicily_Insecure_Base__c5e2c8e4567c.pdf/.txt（引PDF页）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8f2668/notes_sicily.md`)
+- `downloads/B6_Gregory1998_Mediterranean.pdf（Gregory` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_8f2668/notes_sicily.md`)
+- `downloads/pages/efa0bb62bc3b.md，上一轮t_b09c54已核）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_5b1d64/notes_cached_secondary.md`)
+- `downloads/pages/282993960dad.md，上一轮已核）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_5b1d64/notes_cached_secondary.md`)
+- `downloads/pages/e6ebb5ba44b2.md，上一轮已核）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_5b1d64/notes_cached_secondary.md`)
+- `downloads/pages/2ad693d5ac13.md）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_5b1d64/notes_cached_secondary.md`)
+- `nodes/r_b55f2c1cf5/cards/t_b09c54/c8_order_model.md）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_5b1d64/notes_cached_secondary.md`)
+- `downloads/pages/1ee80b7507ce.md）：巴伐利亚征兵宪制＋反教权改革（1806废子夜弥撒、关卖修院产、逐主教）＋既有地方权利被削——` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_5b1d64/notes_cached_secondary.md`)
+- `downloads/IT3_Consalvi_memoires_v1_1866.txt（doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_5b1d64/notes_consalvi_papalstate.md`)
+- `downloads/pages/132109ff15eb.md）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_5b1d64/notes_legal_texts.md`)
+- `downloads/pages/6e927305e1e3.md）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_5b1d64/notes_legal_texts.md`)
+- `downloads/pages/b064437dd1d2.md）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_5b1d64/notes_legal_texts.md`)
+- `downloads/IT3_Pacca_memoires_v2_fr_1833.txt（doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_5b1d64/notes_pacca_fontainebleau.md`)
+- `downloads/f2_censo_godoy1797.pdf在库未逐表核）；20万或含依附人员——**两口径并列不互填**。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_5b1d64/notes_resistance_protestant_revival.md`)
+- `nodes/r_b55f2c1cf5/cards/t_c2dbca/{c5_iberia_americas.md,spain_evidence.md,SOURCES.md}` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_27c409/SP2_part3.md`)
+- `nodes/r_b55f2c1cf5/cards/t_c2dbca/{c5_iberia_americas.md,spain_evidence.md,SOURCES.md}` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_27c409/SP2_spain_society.md`)
+- `downloads/SP2_Callahan_Church__abea90f07578.pdf（AA` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_27c409/notes_callahan_church.md`)
+- `downloads/SP2_Esdaile_Fighting_Napoleon__0ce763fec93d.pdf（AA` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_27c409/notes_esdaile_fighting_napoleon.md`)
+- `downloads/SP2_Esdaile_Peninsular_War__d271505b095f.epub（AA` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_27c409/notes_esdaile_peninsular_war.md`)
+- `downloads/pages/5dea3a848dc0.md（dokumen.pub全文抓取，text_sha256` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_27c409/notes_esdaile_spanisharmy.md`)
+- `downloads/SP2_Fontana_Quiebra__324203e0811f.pdf、SP2_Lawrence_First_Carlist_War__fe68c4ce7f6e.pdf（均AA` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_27c409/notes_fontana_lawrence.md`)
+- `downloads/SP2_Fraser_Cursed_War__9ee10514803d.epub（AA` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_27c409/notes_fraser_cursed_war.md`)
+- `downloads/SP2_Tone_Fatal_Knot__01cd60c2f24c.epub（AA` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_27c409/notes_tone_fatal_knot.md`)
+- `https://archive.org/details/fightingnapoleon0000esda` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_27c409/texts/esdaile_fighting_napoleon.txt`)
+- `http://amnis.revues.org/1449` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_27c409/texts/lawrence_carlist.txt`)
+- `downloads/pages/a21397d83d22.md、d6627652fe2a.md）：北区（恩特雷杜罗-米尼奥+波尔图）予埃特鲁里亚王，称` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_219822/PT_portugal_brazil.md`)
+- `downloads/Pedreira` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_219822/notes_brazil.md`)
+- `downloads/pages/a21397d83d22.md；d6627652fe2a.md〕` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_219822/notes_military_fiscal.md`)
+- `downloads/pages/0cb883e1dd4e.md第6、9条（A卡已独立核本约第VI条；该页签字行年份有版本瘅，另见口径表）。但注意：奥斯曼对1812年这一保证的真实反应是**不为所动**（` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_66ee8d/OT_ottoman.md`)
+- `downloads/pages/0cb883e1dd4e.md；A卡独立核过本约VI）。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_66ee8d/OT_ottoman.md`)
+- `downloads/pages/0cb883e1dd4e.md（公开签字行写1813、秘条写1812——C18已警报）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_66ee8d/OT_ottoman.md`)
+- `downloads/OT_Aksan_Ottoman_Wars__49bb06ce31ac.epub（MD5` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_66ee8d/notes_aksan.md`)
+- `downloads/OT_Aksan_text.txt（EPUB→纯文本，行号=提取文本行，无印刷页码——**引用时标` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_66ee8d/notes_aksan.md`)
+- `downloads/OT_Puryear_Napoleon_and_the_Dardanelles__f56832a97e1c.pdf（MD5` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_66ee8d/notes_puryear_vandal.md`)
+- `downloads/pages/13f4af98385b.md）——1808瓜分谈判与埃尔福特公约` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_66ee8d/notes_puryear_vandal.md`)
+- `downloads/OT_Shaw_Between_Old_and_New__69e5ff1aa9b7.pdf（MD5` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_66ee8d/notes_shaw.md`)
+- `downloads/OT_Shaw_text.txt（pdftotext` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_66ee8d/notes_shaw.md`)
+- `downloads/OT_Yaycioglu_Partners_of_the_Empire__2947dc3b6395.pdf（MD5` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_66ee8d/notes_yaycioglu.md`)
+- `downloads/OT_Yaycioglu_text.txt（pdftotext，txt行号；印刷页码在文中可见处注出）。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_66ee8d/notes_yaycioglu.md`)
+- `downloads/pages/e6f361323912.md）；苏伊士造舰=驼运拆件100–150吨级（Marsot` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_ca3e8d/EG_egypt_red_sea.md`)
+- `downloads/pages/254d31b40981.md）**。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_ca3e8d/EG_egypt_red_sea.md`)
+- `downloads/pages/8294c46ce151.md）。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_ca3e8d/EG_egypt_red_sea.md`)
+- `downloads/All` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_ca3e8d/notes_fahmy.md`)
+- `downloads/Marsot` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_ca3e8d/notes_marsot.md`)
+- `downloads/Panzac` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_ca3e8d/notes_panzac_barbary.md`)
+- `downloads/pages/1a445a082118.md】1814` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b0f045/US_united_states.md`)
+- `downloads/US_Pitkin_StatisticalView_1835.txt，doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b0f045/notes_capacity.md`)
+- `downloads/US_Irwin_embargo_welfare_NBER8692.pdf，doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b0f045/notes_capacity.md`)
+- `downloads/SP1_Marichal_Bankruptcy__92639196261c.pdf（doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_b0f045/notes_silver.md`)
+- `downloads/B5_Jarrige_Luddisme2010.pdf，doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_86b684/X3_technology_industry.md`)
+- `downloads/pages/70cc6a857e5f.md（doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_86b684/notes_heckscher.md`)
+- `downloads/c15_heckscher1922.pdf）。印刷页≈PDF页−16。上一轮t_f81a6f已核该文本若干页图；本卡引用行号为缓存md行号。所有当时文书均为Heckscher转引。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_86b684/notes_heckscher.md`)
+- `downloads/pages/26d8892840a9.md，F2已核）：1812-04枪械库存811,000；常态月产8,000–10,000支；1813肩射月产难过18,000；火药≈3,000吨/年。→旧工匠体制的动员上限；互换性体制的假想收益=维修率与战场混装兼容性，非峰值月产。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_86b684/notes_military_tech.md`)
+- `downloads/pages/70cc6a857e5f.md（doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_86b684/notes_reuse.md`)
+- `downloads/c10_juhasz2018draft.pdf（doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_86b684/notes_reuse.md`)
+- `downloads/pages/dda4372be1f5.md。法国1807–14年福利损失2.6–3.8%/年（模型敏感性范围）。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_86b684/notes_reuse.md`)
+- `downloads/pages/2ad693d5ac13.md。贝格出口6000万→1100万法郎（1811）；伊利里亚pp.194–195。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_86b684/notes_reuse.md`)
+- `downloads/c15_marzagalli1996.pdf（doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_86b684/notes_reuse.md`)
+- `downloads/pages/26d8892840a9.md，Brun《Des` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_86b684/notes_reuse.md`)
+- `downloads/D1_Broers_Politics_Religion_Napoleonic_Italy（doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_e0038f/D2_annexed_outer.md`)
+- `downloads/SP1_Esdaile_PeninsularWar.txt，引行号）。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_e0038f/notes_catalonia.md`)
+- `downloads/IT2_Esdaile_Popular_Resistance__5769805d6a10.txt，doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_afeae6/notes_catalonia.md`)
+- `downloads/IT2_Esdaile_Popular_Resistance__5769805d6a10.txt；doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_afeae6/notes_esdaile_rowe.md`)
+- `https://www.vhghessen.de/inhalt/zhg/ZHG_114/10_Bickert_Doernberg.pdf；提取downloads/pages/20f93b3b3965.md。亲读印pp.177–179、181–183及185局部（快照L155–317）。p.179负担/征兵/惩逃与奥法战争窗口；pp.181–182本地贵族和官员密谋，Dörnberg计划军变+农民辅助，而军队效忠Jérôme；22日Felsberg约800、Homberg约1500，作者强调总数更高而未知，故不把2300当总兵数。p.183炮骑一击而溃：“Der` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_afeae6/notes_nonenglish.md`)
+- `downloads/D1_Woolf_Napoleon_Integration_Europe__35001edb4643.pdf，doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_afeae6/notes_woolf.md`)
+- `https://www.persee.fr/doc/mefr_1123-9891_1990_num_102_1_4089；本地downloads/pages/e8dd4f1e586c.md，Exa提取；本卡亲读211–215、215–221及相关脚注，不宣称PDF图表已图核。两幅图像中的数值未提取，不用猜测补齐。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_1f7db4/notes_frasca.md`)
+- `https://perspectivia.net/servlets/MCRFileNodeServlet/pnet_derivate_00002421/Grab_Conscription.pdf。PDF原字节下载收到HTML被删除；Exa页面提取可读，故只声称读提取文本。DocsLib预览仅开头三页，不作完整源。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_1f7db4/notes_rowe_grab.md`)
+- `downloads/pages/ee71889de366.md。原始档案AN` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_1f7db4/notes_rp23.md`)
+- `downloads/Q2_Rouanet_Piano_2023_appendix-1.pdf；p61已页图核对（新下载与已有同内容文件重复，不当独立来源）。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_1f7db4/notes_rp23.md`)
+- `https://www.chicagofed.org/publications/economic-perspectives/2024/2，网页全文` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_01.md`)
+- `https://dfih.fr/` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_01.md`)
+- `https://didomena.ehess.fr/downloads/2227mq56p?locale=fr，文件尚未取得核读。若年率只作年窗旁证。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_01.md`)
+- `https://didomena.ehess.fr/downloads/2227mq56p?locale=fr；SHA256` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`)
+- `https://dfih.fr/issuers/100/securities` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_02.md`)
+- `https://people.bu.edu/chamley/Ec365-17/UKFR.pdf；全文` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_0a8308/notes_sources_04.md`)
+- `downloads/pages/0cb883e1dd4e.md；A卡独立核过本约VI）。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_eaa841/raw_yeartables.md`)
+- `downloads/pages/0cb883e1dd4e.md（公开签字行写1813、秘条写1812——C18已警报）` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_eaa841/raw_yeartables.md`)
+- `https://historiaregional.org/ojs/index.php/historiaregional/article/download/721/1313` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_f314c4/SA_south_america.md`)
+- `https://issforum.org/forums/28` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_bands.md`)
+- `https://issforum.org/forums/28` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_8a7b54/P8_probability_tree.md`)
+- `https://issforum.org/forums/28：Jervis转述称他认为诸国能够在法国占优秩序内生存，倘拿破仑不继续试图压碎它们；也警告硬实力不是系统稳定的充分条件。**此是学术转述，不是假装亲读Schroeder；不可概括为“Schroeder认为大国必然反法均衡”**。模型受影响的是法国愿受限制F先验和按条约安抚三国时的响应，不是战场上的固定败率。原章Springer` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_8a7b54/notes_schools_03.md`)
+- `nodes/r_5b1357a9c6/cards/t_9f10b6/F4_french_finance_ruling_class.md` — source changed since its registered sha256; original evidence is unresolved
+- `nodes/r_5b1357a9c6/cards/t_c87512/SOURCES.md` — source changed since its registered sha256; original evidence is unresolved
+- `nodes/r_5b1357a9c6/coordination_ledger.md` — source changed since its registered sha256; original evidence is unresolved
+- `nodes/r_5b1357a9c6/cards/t_7c3954/SOURCES.md` — source changed since its registered sha256; original evidence is unresolved
+- `nodes/r_5b1357a9c6/cards/t_f55d87/SOURCES.md` — source changed since its registered sha256; original evidence is unresolved
+- `nodes/r_5b1357a9c6/cards/t_be9258/SOURCES.md` — source changed since its registered sha256; original evidence is unresolved
+- `nodes/r_5b1357a9c6/cards/t_8f2668/SOURCES.md` — source changed since its registered sha256; original evidence is unresolved
+- `nodes/r_5b1357a9c6/cards/t_219822/SOURCES.md` — source changed since its registered sha256; original evidence is unresolved
+- `nodes/r_5b1357a9c6/cards/t_66ee8d/SOURCES.md` — source changed since its registered sha256; original evidence is unresolved
+- `nodes/r_5b1357a9c6/cards/t_ca3e8d/SOURCES.md` — source changed since its registered sha256; original evidence is unresolved

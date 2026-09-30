@@ -1,0 +1,94 @@
+6 P. E. TETLOCK AND A. BELKIN
+
+Normative Issues in Evaluating Counterfactual Claims
+
+Our contributors generally agree that counterfactual reasoning is unavoidable
+in any field in which researchers want to draw cause-effect conclusions but
+cannot perform controlled experiments in which they randomly assign “sub-
+Jects” to treatment conditions that differ only in the presence or absence of
+the hypothesized cause. Try though we do to control statistically for con-
+founding variables in large-N multivariate studies or to find matching cases
+in comparative designs or to search for the signature of hypothesized causes
+in process-tracing studies, the potential causes are simply too numerous and
+too interrelated in world politics to permit complete escape from counterfac-
+tual inference. Researchers must ultimately justify claims that a given cause
+produced a given effect by invoking counterfactual arguments about what
+would have happened in some hypothetical world in which the postulated
+‘cause took on some value different from the one it assumed in the actual
+world (Fogel 1964; Fearon 1991),
+
+The consensus among our contributors, however, begins to unravel be-
+yond this point. They emphasize distinctive, albeit largely complementary,
+functions of counterfactual reasoning. ‘The arguments they present have per-
+suaded us to adopt a stance of epistemic pluralism that acknowledges the
+variety of ways in which counterfactual arguments can prove enlightening
+and the need for different standards in judging counterfactuals that serve
+different scholarly goals. We organize these distinct styles of counterfactual
+argumentation into five ideal types:
+
+1. Idiographic case-study counterfactuals that highlight points of indeterminacy
+at particular junctures in history (reminding us of how things could easily have
+worked out differently and of how difficult it is to apply abstract hypothetico-
+deductive laws to concrete cases);
+
+2. Nomothetic counterfactuals that apply well-defined theoretical or empirical
+generalizations to well-defined antecedent conditions (reminding us that determin-
+istic laws may have been at work that were invisible (o the original historical
+actors as well as to contemporary scholars who insist on a radically idiographic
+focus on the particular);
+
+3. Joint idiographic-nomothetic counterfactuals that combine the historian’s in-
+terest in what was possible in particular cases with the theorists interest in identi-
+fying lawful regularities across cases, thereby producing theory-informed history;
+
+4. Computer-simulation counterfactuals that reveal hitherto latent logical con-
+tradictions and gaps in formal theoretical arguments by rerunning “history” in
+artificial worlds that “capture” key functional properties of the actual world;
+
+5. Mental-simularion counterfactuals that reveal hitherto latent psychological
+contradictions and gaps in belief systems by encouraging people to imagine possi-
+
+COUNTERFACTUAL THOUGHT EXPERIMENTS 7
+
+ble worlds in which causes they supposed irrelevant seem to make a difference, or
+possible worlds in which causes they supposed consequential seem to be irrele-
+vant,
+
+Five Styles of Counterfactual Argumentation
+1. Idiographic
+
+Several authors use counterfactuals to explore “possibility-hood”—whether
+history had to unfold as it did. For instance, Breslauer (Chapter 3) explores
+the several junctures in the history of the Soviet Union that have sparked the
+most intense counterfactual debate within the expert community: Was the
+Bolshevik revolution inevitable given the Russian defeat in World War 1?
+‘Was Stalinism inevitable given the vanguard-party legacy of Leninism? Was
+Gorbachevism inevitable given the repressive stagnation of Brezhnevism?
+And was the disintegration of the Soviet Union inevitable given the liberal
+reforms of Gorbachevism? Khong (Chapter 4) attempts to assess whether
+any conceivable British prime minister would have adopted a policy of ap-
+peasement toward Nazi Germany, at least up to March 1939, Herrmann and
+Fischerkeller (Chapter 6) examine several counterfactual controversies in
+which the positions taken by policy makers on “what would have hap-
+pened?” shaped American policy toward Iran during the Cold War. Lebow
+and Stein (Chapter 5) construct an exhaustive inventory of the counterfactual
+beliefs that apparently guided American and Soviet policy during the Cuban
+missile crisis—the crisis during which, it is often asserted, the world “came
+closer” than ever before or since to nuclear war.
+
+These diverse applications all use counterfactuals to focus on “concei
+able” causes that could have easily redirected the path-dependent logic of
+events (cf. Hawthom 1991; Chapter 2, Fearon). In cach case, the investiga-
+tors want to know what was historically possible or impossible within
+‘circumscribed period of time and set of relations among political entities. To
+make this determination, they draw upon combinations of: (a) in-depth case-
+ic knowledge of the key players, their beliefs and motives, and the
+political-economic constraints under which they worked; and (b) general
+knowledge (nomothetic propositions) concerning cause-effect relations in
+human behavior and political-economic systems. Moreover, our case-study
+authors seem to agree that counterfactual speculation should be constrained
+by some form of “minimal-rewrite-of-history” rule that instructs us to avoid
+counterfactuals that require “undoing” many events—counterfactuals that,
+for instance, ask us to imagine a democratic Soviet Union at the end of
+World War II or Soviet possession of strategic nuclear superiority at the time
+

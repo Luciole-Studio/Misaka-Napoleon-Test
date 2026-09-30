@@ -1,0 +1,12 @@
+{
+ "seq": 1,
+ "path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_0bb54c/SOURCES.md",
+ "ops": [
+  {
+   "replace_text": {
+    "find": "| P11 | *Reports from the Select Committee",
+    "replace": "| P10b | Hansard, **EAST INDIA COMPANY'S REVENUE ACCOUNTS**, HC Deb 8 August 1854 vol 135 cc1436–77 | `downloads/pages/3eaf193bd527.md` | 同上 /1854/aug/08/east-india-companys-revenue-accounts | 3eaf193bd527… | \"it is now only two years short of half a century since an Indian budget was last presented to the House of Commons\"（＝上一次为 1806）；决议第 7 项 1851-52 债息 £1,967,359、在英支付的领地开支 £2,506,377、余 £531,265 |\n| P11 | *Reports from the Select Committee"
+   }
+  }
+ ]
+}

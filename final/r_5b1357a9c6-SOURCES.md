@@ -1,0 +1,678 @@
+# Sources — final/ — run r_5b1357a9c6
+
+Written by misaka when the products here were settled and rebuilt from scratch each time, so edit nothing in this file or under the sources folder. Each file there is a hard link to where it already lives in the project (a copy only where a hard link was not possible); the originals never move. Cite original project files, not this bundle's disposable sources paths.
+
+## Products
+
+- `r_5b1357a9c6-question.md` — Original research question (question)
+- `r_5b1357a9c6-partial.md` — Incomplete research run (partial)
+- `r_5b1357a9c6-workspace-index.json` — Project / PageIndex workspace index (workspace_index_json)
+- `r_5b1357a9c6-workspace-index.md` — Project / PageIndex workspace index (workspace_index)
+
+## Cited sources (under `r_5b1357a9c6-sources/`)
+
+- `r_5b1357a9c6-sources/r_5b1357a9c6/plan.json` ← `nodes/r_5b1357a9c6/plan.json`
+  - sha256 8cbdbfa46aacc0758d0a1f9f636c4a6a66a6725689396d58c4002133a7fd13a2
+  - cited in `final/r_5b1357a9c6-partial.md`
+- `r_5b1357a9c6-sources/r_5b1357a9c6/plan.md` ← `nodes/r_5b1357a9c6/plan.md`
+  - sha256 a39ca7d0cc633673ec525d17b89bde1ca28f4f24981fed5be7227ba3c746aaf4
+  - cited in `final/r_5b1357a9c6-partial.md`
+
+## Cited, already in this folder
+
+- `r_5b1357a9c6-question.md`
+  - cited in `final/r_5b1357a9c6-partial.md`
+
+## Consulted but not cited (left where they are)
+
+- `downloads/A_Axtmann1991_Austria_Ireland.pdf` — "A_Axtmann1991_Austria_Ireland.pdf"
+- `downloads/A_Jobst_Kernbauer2016_excerpt.pdf` — "A_Jobst_Kernbauer2016_excerpt.pdf"
+- `downloads/A_Kaps2015_trade_statistics.pdf` — "A_Kaps2015_trade_statistics.pdf"
+- `downloads/B1_chambray1812_part14.pdf` — "B1_chambray1812_part14.pdf"
+- `downloads/B2_BoE_balance_sheet.xlsx` — "B2_BoE_balance_sheet.xlsx"
+- `downloads/B2_BoE_millennium_v31.xlsx`
+- `downloads/B2_Bordo_White_WP3517.pdf` — "B2_Bordo_White_WP3517.pdf"
+- `downloads/B4_Cary_itinerary_edition_unverified.txt` — "B4_Cary_itinerary_edition_unverified.txt"
+- `downloads/B4_Cary_itinerary_scan.pdf` — "B4_Cary_itinerary_scan.pdf"
+- `downloads/B4_Chilcott_Maintaining_British_Army_2006.pdf` — "B4_Chilcott_Maintaining_British_Army_2006.pdf"
+- `downloads/B4_Fortescue_CountyLieutenancies1909.pdf` — "B4_Fortescue_CountyLieutenancies1909.pdf"
+- `downloads/B4_Fortescue_CountyLieutenancies1909.txt` — "B4_Fortescue_CountyLieutenancies1909.txt"
+- `downloads/B4_Linch_recruitment_1807_1815.pdf` — "B4_Linch_recruitment_1807_1815.pdf"
+- `downloads/B5_Jarrige_Luddisme2010.pdf` — "B5_Jarrige_Luddisme2010.pdf"
+- `downloads/B5_Marshall_statistical_display1833.pdf` — "B5_Marshall_statistical_display1833.pdf"
+- `downloads/B6_Gregory1998_Mediterranean.pdf` — "B6_Gregory1998_Mediterranean.pdf"
+- `downloads/B6_SlaveryAbolition1833.pdf` — "B6_SlaveryAbolition1833.pdf"
+- `downloads/B6_Wilson2018_AngloDutch.pdf` — "B6_Wilson2018_AngloDutch.pdf"
+- `downloads/Barton_Scandinavia_Revolutionary_Era__96ed5e3f65eb.pdf` — "Barton_Scandinavia_Revolutionary_Era__96ed5e3f65eb.pdf"
+- `downloads/CH_Acte_de_mediation_1803.pdf` — "CH_Acte_de_mediation_1803.pdf"
+- `downloads/CH_capitulation_militaire_1803.pdf` — "CH_capitulation_militaire_1803.pdf"
+- `downloads/D1_Broers_Politics_Religion_Napoleonic_Italy__4c3bc326766c.pdf` — "D1_Broers_Politics_Religion_Napoleonic_Italy__4c3bc326766c.pdf"
+- `downloads/D1_Rowe_From_Reich_to_State__49f41cfc7013.pdf` — "D1_Rowe_From_Reich_to_State__49f41cfc7013.pdf"
+- `downloads/D1_Woolf_Napoleon_Integration_Europe__35001edb4643.pdf` — "D1_Woolf_Napoleon_Integration_Europe__35001edb4643.pdf"
+- `downloads/D2_Madelin_Rome_de_Napoleon.txt` — "D2_Madelin_Rome_de_Napoleon.txt"
+- `downloads/E1_Brazdil2016_TamboraCzech.pdf` — "E1_Brazdil2016_TamboraCzech.pdf"
+- `downloads/E1_Chaptal1819_industrie_v1.txt` — "E1_Chaptal1819_industrie_v1.txt"
+- `downloads/E1_Chaptal1819_industrie_v2.txt` — "E1_Chaptal1819_industrie_v2.txt"
+- `downloads/E1_Flueckiger2017_TamboraCrop.pdf` — "E1_Flueckiger2017_TamboraCrop.pdf"
+- `downloads/E1_LuterbacherPfister2015_Tambora.pdf` — "E1_LuterbacherPfister2015_Tambora.pdf"
+- `downloads/E1_MaddisonProject_2020.xlsx` — "E1_MaddisonProject_2020.xlsx"
+- `downloads/E1_MaddisonProject_2023_GitHubMirror.xlsx`
+- `downloads/E1_NunnQian2009_potato_w15157.pdf` — "E1_NunnQian2009_potato_w15157.pdf"
+- `downloads/E1_OWID_Gapminder_population_1800_1850.csv` — "E1_OWID_Gapminder_population_1800_1850.csv"
+- `downloads/E1_Porter_ProgressOfNation_1847.txt` — "E1_Porter_ProgressOfNation_1847.txt"
+- `downloads/E1_Prinzing1916_epidemics.html` — "The Project Gutenberg eBook of Epidemics Resulting from Wars, by Dr. Friedrich Prinzing"
+- `downloads/E1_Schurer2019_TamboraAttribution.pdf` — "E1_Schurer2019_TamboraAttribution.pdf"
+- `downloads/E1_Tooke_HistoryOfPrices_v1.txt` — "E1_Tooke_HistoryOfPrices_v1.txt"
+- `downloads/E1_Vilnius1831_cholera_hospital.pdf` — "E1_Vilnius1831_cholera_hospital.pdf"
+- `downloads/E1_WardeKander2009_draught_animals.pdf` — "E1_WardeKander2009_draught_animals.pdf"
+- `downloads/EG_Driault_Crise1839_41.txt` — "EG_Driault_Crise1839_41.txt"
+- `downloads/EG_Driault_MohamedAly_1925.txt` — "EG_Driault_MohamedAly_1925.txt"
+- `downloads/EG_Driault_PolitiqueOrientale_1904.txt` — "EG_Driault_PolitiqueOrientale_1904.txt"
+- `downloads/EG_Fahmy_AllPashasMen.txt` — "[t_ca3e8d] downloads/EG_Fahmy_AllPashasMen.txt"
+- `downloads/EG_Scott_Rambles_v2_1837.txt` — "EG_Scott_Rambles_v2_1837.txt"
+- `downloads/F3_Todorov_redressement_1810_1813.pdf` — "F3_Todorov_redressement_1810_1813.pdf"
+- `downloads/F4_Juglar1868_budgets.pdf` — "F4_Juglar1868_budgets.pdf"
+- `downloads/F4_Marion_IV_1925.pdf` — "F4_Marion_IV_1925.pdf"
+- `downloads/F4_Marion_IV_1925.txt` — "F4_Marion_IV_1925.txt"
+- `downloads/F4_Oosterlinck2013.pdf` — "F4_Oosterlinck2013.pdf"
+- `downloads/G1_Weis_Saekularisation_bayerische_Kloester.pdf` — "G1_Weis_Saekularisation_bayerische_Kloester.pdf"
+- `downloads/G2_schmidt_berg_1905.txt` — "[t_cbaee3] downloads/G2_schmidt_berg_1905.txt"
+- `downloads/Glenthoj_Ottosen_Experiences_of_War__6956a6cfa8f7.pdf` — "Glenthoj_Ottosen_Experiences_of_War__6956a6cfa8f7.pdf"
+- `downloads/HT_Geggus1979_YellowFever.pdf` — "HT_Geggus1979_YellowFever.pdf"
+- `downloads/HT_Mackenzie1830_NotesOnHaiti_v2.txt` — "HT_Mackenzie1830_NotesOnHaiti_v2.txt"
+- `downloads/IN1_dutt_econ_hist_early.txt`
+- `downloads/IN1_malcolm_polhist_v2.txt`
+- `downloads/IN1_milburn_v1.txt` — "[t_0bb54c] downloads/IN1_milburn_v1.txt"
+- `downloads/IN1_milburn_v2.txt` — "[t_0bb54c] downloads/IN1_milburn_v2.txt"
+- `downloads/IN1_minto_in_india.txt` — "[t_0bb54c] downloads/IN1_minto_in_india.txt"
+- `downloads/IN1_papers_general_revenues_1813.txt`
+- `downloads/IN1_papers_negociation_1812.txt` — "[t_0bb54c] downloads/IN1_papers_negociation_1812.txt"
+- `downloads/IN1_sel_cttee_reports_1808_12.txt` — "[t_0bb54c] downloads/IN1_sel_cttee_reports_1808_12.txt"
+- `downloads/IN1_wilson_madras_army_v3.txt` — "[t_0bb54c] downloads/IN1_wilson_madras_army_v3.txt"
+- `downloads/IN2_Cooper_AngloMaratha__de8266419722.pdf` — "IN2_Cooper_AngloMaratha__de8266419722.pdf"
+- `downloads/IN2_alavi_sepoys.txt`
+- `downloads/IN2_compton_adventurers.txt`
+- `downloads/IN2_gordon_marathas.txt` — "[t_05cc22] downloads/IN2_gordon_marathas.txt"
+- `downloads/IN2_malleson_final_french.txt`
+- `downloads/IN2_mill_wilson_v7_real.txt`
+- `downloads/IN2_parkinson_eastern_seas.txt` — "[t_05cc22] downloads/IN2_parkinson_eastern_seas.txt"
+- `downloads/IN2_pemble_nepal.txt`
+- `downloads/IN2_sen_french_india.txt` — "[t_05cc22] downloads/IN2_sen_french_india.txt"
+- `downloads/IT2_Davis_Naples_and_Napoleon__56c91cc713a7.pdf` — "[t_8f2668] downloads/IT2_Davis_Naples_and_Napoleon__56c91cc713a7.pdf"
+- `downloads/IT2_Esdaile_Popular_Resistance__5769805d6a10.txt` — "[t_5b1d64] downloads/IT2_Esdaile_Popular_Resistance__5769805d6a10.txt"
+- `downloads/IT2_Gregory_Sicily_Insecure_Base__c5e2c8e4567c.pdf` — "[t_8f2668] downloads/IT2_Gregory_Sicily_Insecure_Base__c5e2c8e4567c.pdf"
+- `downloads/IT2_Johnston_v1.txt` — "[t_8f2668] downloads/IT2_Johnston_v1.txt"
+- `downloads/IT2_Rosselli_Bentinck_Sicily__c2d83f774574.pdf` — "[t_8f2668] downloads/IT2_Rosselli_Bentinck_Sicily__c2d83f774574.pdf"
+- `downloads/IT3_Consalvi_memoires_v1_1866.txt` — "IT3_Consalvi_memoires_v1_1866.txt"
+- `downloads/IT3_Consalvi_memoires_v2_1864.txt` — "IT3_Consalvi_memoires_v2_1864.txt"
+- `downloads/IT3_Haussonville_Eglise_romaine_v5.txt` — "IT3_Haussonville_Eglise_romaine_v5.txt"
+- `downloads/IT3_Pacca_memoires_v2_fr_1833.txt` — "IT3_Pacca_memoires_v2_fr_1833.txt"
+- `downloads/IT3_Tama_Sanhedrin_transactions_1807.txt` — "IT3_Tama_Sanhedrin_transactions_1807.txt"
+- `downloads/James_1837_v3_ETH.pdf` — "James_1837_v3_ETH.pdf"
+- `downloads/Keep_Soldiers_of_the_Tsar__1956f5924f00.pdf` — "Keep_Soldiers_of_the_Tsar__1956f5924f00.pdf"
+- `downloads/MX_Hidalgo_Riano_Granaditas_1810.pdf` — "MX_Hidalgo_Riano_Granaditas_1810.pdf"
+- `downloads/MX_Humboldt_Essai_t3_fr.txt` — "MX_Humboldt_Essai_t3_fr.txt"
+- `downloads/MX_INEHRM_Iturrigaray_1808.pdf` — "MX_INEHRM_Iturrigaray_1808.pdf"
+- `downloads/MX_INEHRM_Sentimientos_de_la_Nacion.pdf` — "MX_INEHRM_Sentimientos_de_la_Nacion.pdf"
+- `downloads/MX_TwoIslands_Java_Cuba_NWIG.pdf` — "MX_TwoIslands_Java_Cuba_NWIG.pdf"
+- `downloads/MX_Valladolid1809_Lecturas.pdf` — "MX_Valladolid1809_Lecturas.pdf"
+- `downloads/MX_Vazquez_Proclamas_Cuba_1808.pdf` — "MX_Vazquez_Proclamas_Cuba_1808.pdf"
+- `downloads/Marsot Egypt Muhammad Ali__10b6fc7c9ca2.pdf` — "Marsot Egypt Muhammad Ali__10b6fc7c9ca2.pdf"
+- `downloads/NL_Joor_SoldiersCitizensCivilians2009.pdf` — "NL_Joor_SoldiersCitizensCivilians2009.pdf"
+- `downloads/NL_Verheijen_Nederland_onder_Napoleon.pdf` — "NL_Verheijen_Nederland_onder_Napoleon.pdf"
+- `downloads/OT_Aksan_text.txt` — "[t_66ee8d] downloads/OT_Aksan_text.txt"
+- `downloads/OT_Driault_politique_orientale.txt`
+- `downloads/OT_Puryear_text.txt`
+- `downloads/OT_Shaw_text.txt` — "[t_66ee8d] downloads/OT_Shaw_text.txt"
+- `downloads/OT_Yaycioglu_text.txt`
+- `downloads/PL_umk_wojsko_skarb.pdf` — "PL_umk_wojsko_skarb.pdf"
+- `downloads/PR_HGIS_Preussen.pdf` — "PR_HGIS_Preussen.pdf"
+- `downloads/PR_Murau_Debt2023.pdf` — "PR_Murau_Debt2023.pdf"
+- `downloads/PR_Takaoka_Landwehr.pdf` — "PR_Takaoka_Landwehr.pdf"
+- `downloads/PS_aitchison_vol7_1865_sind_persia.txt` — "PS_aitchison_vol7_1865_sind_persia.txt"
+- `downloads/PS_aitchison_vol9_1892.txt` — "PS_aitchison_vol9_1892.txt"
+- `downloads/PS_driault1904_sebastiani_gardane.txt` — "PS_driault1904_sebastiani_gardane.txt"
+- `downloads/PS_elphinstone1815_caubul.txt` — "PS_elphinstone1815_caubul.txt"
+- `downloads/PS_kaye1851_afghanistan_v1.txt` — "PS_kaye1851_afghanistan_v1.txt"
+- `downloads/PS_kaye1851_v1_real.txt` — "PS_kaye1851_v1_real.txt"
+- `downloads/PS_prinsep1834_ranjit.txt` — "PS_prinsep1834_ranjit.txt"
+- `downloads/PT_Manchester_full.txt` — "[t_219822] downloads/PT_Manchester_full.txt"
+- `downloads/PT_Maxwell_full.txt` — "[t_219822] downloads/PT_Maxwell_full.txt"
+- `downloads/PT_Pedreira_HAHR2000.txt` — "[t_219822] downloads/PT_Pedreira_HAHR2000.txt"
+- `downloads/Panzac Barbary Corsairs__2ce1d89915b3.pdf` — "Panzac Barbary Corsairs__2ce1d89915b3.pdf"
+- `downloads/R1_czartoryski_memoirs_v1.txt` — "R1_czartoryski_memoirs_v1.txt"
+- `downloads/R1_czartoryski_memoirs_v2_real.txt` — "R1_czartoryski_memoirs_v2_real.txt"
+- `downloads/R1_vandal1_full.txt` — "R1_vandal1_full.txt"
+- `downloads/R2_Crosby1965.pdf` — "R2_Crosby1965.pdf"
+- `downloads/R2_Davey2009.pdf` — "R2_Davey2009.pdf"
+- `downloads/R3_lieven_full.txt`
+- `downloads/Riehn_1812__3d31d582bae3.pdf` — "Riehn_1812__3d31d582bae3.pdf"
+- `downloads/SA_Castlereagh_vol7.txt` — "SA_Castlereagh_vol7.txt"
+- `downloads/SA_Depons_TerreFerme_v2.txt` — "SA_Depons_TerreFerme_v2.txt"
+- `downloads/SA_Echeverri_Popayan_realismo_popular.pdf` — "SA_Echeverri_Popayan_realismo_popular.pdf"
+- `downloads/SA_Moran_Yarango_CajaLima_Abascal.pdf` — "SA_Moran_Yarango_CajaLima_Abascal.pdf"
+- `downloads/SA_Sassenay_1892_Liniers.html` — "Gallica | Vérification de sécurité"
+- `downloads/SA_Torrente_HistRevHispanoAmericana.txt` — "SA_Torrente_HistRevHispanoAmericana.txt"
+- `downloads/SP1_Herr_RuralChange__79cc5388323f.pdf` — "SP1_Herr_RuralChange__79cc5388323f.pdf"
+- `downloads/SP1_LaParra_FernandoVII.txt` — "[t_3282da] downloads/SP1_LaParra_FernandoVII.txt"
+- `downloads/SP1_LaParra_Godoy.txt` — "[t_3282da] downloads/SP1_LaParra_Godoy.txt"
+- `downloads/SP1_Marichal_Bankruptcy__92639196261c.pdf` — "SP1_Marichal_Bankruptcy__92639196261c.pdf"
+- `downloads/SP2_Fraser_Cursed_War__9ee10514803d.epub` — "[t_27c409] downloads/SP2_Fraser_Cursed_War__9ee10514803d.epub"
+- `downloads/SP2_Lawrence_First_Carlist_War__fe68c4ce7f6e.pdf` — "[t_27c409] downloads/SP2_Lawrence_First_Carlist_War__fe68c4ce7f6e.pdf"
+- `downloads/SP2_Tone_Fatal_Knot__01cd60c2f24c.epub` — "[t_27c409] downloads/SP2_Tone_Fatal_Knot__01cd60c2f24c.epub"
+- `downloads/US_Irwin_embargo_welfare_NBER8692.pdf` — "US_Irwin_embargo_welfare_NBER8692.pdf"
+- `downloads/US_Perkins_PrologueToWar_1961.txt` — "US_Perkins_PrologueToWar_1961.txt"
+- `downloads/US_Pitkin_StatisticalView_1835.txt` — "US_Pitkin_StatisticalView_1835.txt"
+- `downloads/X1_Assereto_CasaSanGiorgio_potere_del_credito.pdf` — "X1_Assereto_CasaSanGiorgio_potere_del_credito.pdf"
+- `downloads/X1_Buist.txt`
+- `downloads/X2_AaslestadJoor2015_Revisiting__fa6d9fd68f7f.pdf` — "X2_AaslestadJoor2015_Revisiting__fa6d9fd68f7f.pdf"
+- `downloads/X2_Ellis1981_Alsace__abac15ab1852.pdf` — "X2_Ellis1981_Alsace__abac15ab1852.pdf"
+- `downloads/X4_Carbonari_Memoirs_1821.txt` — "X4_Carbonari_Memoirs_1821.txt"
+- `downloads/c10_acjr2011.pdf` — "c10_acjr2011.pdf"
+- `downloads/c10_buggle2013.pdf` — "c10_buggle2013.pdf"
+- `downloads/c10_kopsidis_bromley2016.pdf` — "c10_kopsidis_bromley2016.pdf"
+- `downloads/c11_desbriere_02.txt` — "c11_desbriere_02.txt"
+- `downloads/c11_desbriere_p398.png`
+- `downloads/c11_desbriere_p399.png`
+- `downloads/c11_desbriere_verified_p444.png`
+- `downloads/c11_desbriere_verified_p445.png`
+- `downloads/c11_fortescueV.txt` — "c11_fortescueV.txt"
+- `downloads/c12_makarov2024.pdf` — "c12_makarov2024.pdf"
+- `downloads/c12_troshin2015.pdf` — "c12_troshin2015.pdf"
+- `downloads/c12_vandal3_full.txt` — "c12_vandal3_full.txt"
+- `downloads/c15_heckscher1922.pdf` — "c15_heckscher1922.pdf"
+- `downloads/c15_marzagalli1996.pdf` — "c15_marzagalli1996.pdf"
+- `downloads/c16_navickas2005.pdf` — "c16_navickas2005.pdf"
+- `downloads/c18_czubaty2018.pdf` — "c18_czubaty2018.pdf"
+- `downloads/c6_1805_italian_statute.pdf` — "c6_1805_italian_statute.pdf"
+- `downloads/f1_gouverner_naples_hal.pdf` — "f1_gouverner_naples_hal.pdf"
+- `downloads/f1_lavalette_memoirs_en.txt` — "f1_lavalette_memoirs_en.txt"
+- `downloads/f1_lentz_napoleon_diplomate_extrait.pdf` — "f1_lentz_napoleon_diplomate_extrait.pdf"
+- `downloads/f1_metternich_memoires_t1.txt` — "f1_metternich_memoires_t1.txt"
+- `downloads/f1_mollien_memoires_t3.txt` — "f1_mollien_memoires_t3.txt"
+- `downloads/f1_roederer_oeuvres_v3guess.txt` — "f1_roederer_oeuvres_v3guess.txt"
+- `downloads/f1_roederer_oeuvres_vA.txt` — "f1_roederer_oeuvres_vA.txt"
+- `downloads/f1_roederer_oeuvres_vB.txt` — "f1_roederer_oeuvres_vB.txt"
+- `downloads/f1_roederer_oeuvres_vC.txt` — "f1_roederer_oeuvres_vC.txt"
+- `downloads/f1_roederer_oeuvres_vD.txt` — "f1_roederer_oeuvres_vD.txt"
+- `downloads/f2_censo_godoy1797.pdf` — "f2_censo_godoy1797.pdf"
+- `downloads/f2_oman_vol3.txt` — "f2_oman_vol3.txt"
+- `downloads/f2_oman_vol4.txt` — "f2_oman_vol4.txt"
+- `downloads/f5_senat_palais_luxembourg_empires.pdf` — "f5_senat_palais_luxembourg_empires.pdf"
+- `downloads/pages/004521d1e27f.md` — "The Financial Crisis of 1825 and the Restructuring of the British Financial System" — https://doi.org/10.20955/r.80.53-76
+- `downloads/pages/0055bf372201.md` — "NAVY ESTIMATES. (Hansard, 13 May 1814)" — https://api.parliament.uk/historic-hansard/commons/1814/may/13/navy-estimates
+- `downloads/pages/00a2dabd2063.md` — "Naval history of Great Britain by William James - Abstract No 17 - 1809" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_17.html
+- `downloads/pages/00ca352688de.md` — "18120224-001:allianzvertrag - EPOCHE NAPOLEON" — https://www.epoche-napoleon.net/quellen/1812/02/24/allianzvertrag.html
+- `downloads/pages/00d5209cab8f.md` — "Pologne, Constitution de 1815, Digithèque MJP" — https://mjp.univ-perp.fr/constit/pl1815.htm
+- `downloads/pages/010052ac67de.md` — "Russian Empire - Autocracy, Reforms, Nicholas I | Britannica" — https://www.britannica.com/place/Russian-Empire/Nicholas-I
+- `downloads/pages/0165ca641153.md` — "Protest and democracy 1818 to 1820, part 2 - The National Archives" — https://www.nationalarchives.gov.uk/education/resources/protest-democracy-1818-1820/
+- `downloads/pages/01abff002529.md` — https://archive.org/metadata/driault-la-politique-orientale-de-napoleon
+- `downloads/pages/01f3adc0ec2a.md` — "De l’esprit de conquête et de l’usurpation dans leur rapports avec la civilisation européenne/13 - Wikisource" — https://fr.wikisource.org/wiki/De_l%E2%80%99esprit_de_conqu%C3%AAte_et_de_l%E2%80%99usurpation_dans_leur_rapports_avec_la_civilisation_europ%C3%A9enne/13
+- `downloads/pages/02935a70559b.md` — "Säkularisation – Historisches Lexikon Bayerns" — https://www.historisches-lexikon-bayerns.de/Lexikon/S%C3%A4kularisation
+- `downloads/pages/02c1f081e6e3.md` — "COLONIAL REVENUE AND EXPENDITURE.— (Hansard, 25 February 1823)" — https://api.parliament.uk/historic-hansard/commons/1823/feb/25/colonial-revenue-and-expenditure
+- `downloads/pages/04307a1973c7.md` — "Correspondance générale de Napoléon Bonaparte, Tome 11 : bruits de bottes. Avril-décembre 1811. Introduction au volume …" — https://www.napoleon.org/histoire-des-2-empires/articles/correspondance-generale-de-napoleon-bonaparte-tome-11-bruits-de-bottes-avril-decembre-1811-introduction-au-volume/
+- `downloads/pages/04c2ed9cef98.md` — "Machine à vapeur de la corvette à roues le Sphinx | Musée national de la Marine de Paris" — https://www.musee-marine.fr/nos-musees/paris/collections/oeuvres-phares/machine-a-vapeur-de-la-corvette-a-roues-le-sphinx.html
+- `downloads/pages/056d83ccd7e8.md` — "Chouans et Vendéens contre l’Empire, 1815 — recensio.net" — https://www.recensio.net/rezensionen/zeitschriften/rh19/2016/53/chouans-et-vendeens-contre-l2019empire-1815
+- `downloads/pages/05a0209a543e.md` — "Bankrupts and Usurers of Imperial Russia: Debt, Property, and the Law in the Age of Dostoevsky and Tolstoy 978067497259…" — https://ebin.pub/bankrupts-and-usurers-of-imperial-russia-debt-property-and-the-law-in-the-age-of-dostoevsky-and-tolstoy-9780674972599.html
+- `downloads/pages/05ae2a02c794.md` — "1812 - State of the British Navy, Russia declares war against France" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/P_040.html
+- `downloads/pages/064046ec6241.md` — "Correspondance de Napoléon Ier - Septembre 1809 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-septembre-1809/
+- `downloads/pages/06755e525667.md` — "Russia - Russia from 1801 to 1917 | Britannica" — https://www.britannica.com/place/Russia/Russia-from-1801-to-1917
+- `downloads/pages/06e7744d9118.md` — "Representación de los hacendados. 1809. – ADHILAC www.adhilac.com.ar" — https://adhilac.com.ar/?p=206
+- `downloads/pages/06ff00adf220.md` — "Story of the Census" — https://www.ons.gov.uk/visualisations/storyofthecensus/
+- `downloads/pages/075f89817e85.md` — https://archive.org/metadata/dli.ernet.29532
+- `downloads/pages/07fe5b14e4c3.md` — "The Apotheosis of the Rentier: How Napoleonic War Finance Kick-Started the Industrial Revolution | Cato Institute" — https://www.cato.org/cato-journal/fall-2018/apotheosis-rentier-how-napoleonic-war-finance-kick-started-industrial
+- `downloads/pages/0955a786ba40.md` — "Cary's New Itinerary 1802, page 1" — https://lakesguides.co.uk/html/LakesTxt/cy38p001.htm
+- `downloads/pages/0964a00115c5.md` — "Traité entre la France et la Prusse pour le règlement des contributions de guerre, l'occupation de trois places fortes …" — https://napoleon-histoire.com/traite-entre-la-france-et-la-prusse-pour-le-reglement-des-contributions-de-guerre-loccupation-de-trois-places-fortes-et-la-reconnaissance-des-rois-despagne-et-de-naples/
+- `downloads/pages/0a2abbafcb10.md` — "Hubris and Nemesis: 1789–1806 - Iron Kingdom: The Rise and Downfall of Prussia, 1600-1947" — https://erenow.org/modern/iron-kingdom/11.php
+- `downloads/pages/0b0e283a3d34.md` — "Men of Invention and Industry/Chapter VII - Wikisource, the free online library" — https://en.wikisource.org/wiki/Men_of_Invention_and_Industry/Chapter_VII
+- `downloads/pages/0b66242e946b.md` — "Le Roi de Rome - Henri Welschinger" — http://www.mediterranee-antique.fr/Auteurs/Fichiers/WXYZ/Welschinger/R_Rome/R_R_01.htm
+- `downloads/pages/0b986a1a0af8.md` — "SUPPLY. (Hansard, 10 May 1830)" — https://api.parliament.uk/historic-hansard/commons/1830/may/10/supply
+- `downloads/pages/0bb22c2907e0.md` — "Freden i Kiel 14. januar 1814 – Danmarkshistorien | Lex" — https://danmarkshistorien.lex.dk/Freden_i_Kiel_14._januar_1814
+- `downloads/pages/0cb883e1dd4e.md` — "Traité d'alliance signé à Paris le 14 mars 1812 entre la France et l’Autriche" — https://napoleon-histoire.com/traite-dalliance-signe-a-paris-le-14-mars-1812-entre-la-france-et-lautriche/
+- `downloads/pages/0cf6ab7705f7.md` — "PETITION FROM SHEFFIELD AGAINST THE ORDERS IN COUNCIL. (Hansard, 17 April 1812)" — https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-sheffield-against-the
+- `downloads/pages/0cfeffeb04dc.md` — "Napoleon Et Talleyrand - Dard, Emile - PDFCOFFEE.COM" — https://pdfcoffee.com/napoleon-et-talleyrand-dard-emile-pdf-free.html
+- `downloads/pages/0d383d6bec2d.md` — "Études sur les travaux publics. — La machine à vapeur - Wikisource" — https://fr.wikisource.org/wiki/%C3%89tudes_sur_les_travaux_publics._%E2%80%94_La_machine_%C3%A0_vapeur
+- `downloads/pages/0d6cf343de4a.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_19.html
+- `downloads/pages/0d6f34e8b0a9.md` — "Project MUSE -- Verification required!" — https://doi.org/10.1353/tech.1971.a893953
+- `downloads/pages/0e5a385b8bba.md` — "God’s March through History - Iron Kingdom: The Rise and Downfall of Prussia, 1600-1947" — https://erenow.org/modern/iron-kingdom/14.php
+- `downloads/pages/10bcb06de4c5.md` — https://archive.org/metadata/gri_000333125011213903
+- `downloads/pages/1170b6cb87a9.md` — "THE BUDGET (Hansard, 12 May 1809)" — https://api.parliament.uk/historic-hansard/commons/1809/may/12/the-budget
+- `downloads/pages/11768f58f5af.md` — "La Dette publique de la France - Wikisource" — https://fr.wikisource.org/wiki/La_Dette_publique_de_la_France,_l%27origine_et_le_d%C3%A9veloppement_de_la_dette,_les_moyens_de_l%27att%C3%A9nuer
+- `downloads/pages/12d7830a524e.md` — "Jean-Charles Serra wobec stanu finansów Księstwa Warszawskiego w 1808 r." — https://doi.org/10.35765/rfi.2025.3103.15
+- `downloads/pages/132109ff15eb.md` — "Concordat de 1801 - Wikisource" — https://fr.wikisource.org/wiki/Concordat_de_1801
+- `downloads/pages/13c5a4f9495f.md` — "Napoleonic" — https://people.bu.edu/burtond/resources/Research/toscaspGrab.pdf
+- `downloads/pages/13f4af98385b.md` — "The Project Gutenberg eBook of Napoléon et Alexandre Ier, par Albert Vandal" — https://www.gutenberg.org/cache/epub/28254/pg28254-images.html
+- `downloads/pages/146cbc594a66.md` — "1803 - Abstract" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_III/Abstract_No_11.html
+- `downloads/pages/15068fc40b9b.md` — "MELZI D’ERIL, Francesco - Enciclopedia - Treccani" — https://www.treccani.it/enciclopedia/francesco-melzi-d-eril_(Dizionario-Biografico)/
+- `downloads/pages/15259ae08bb4.md` — "Napoleon Series Reviews: The British Army in the West Indies: Society and the Military in the Revolutionary Age" — https://www.napoleon-series.org/reviews/military/c_buckley.html
+- `downloads/pages/156d03703582.md` — "SEPARATE CHARGES. (Hansard, 14 June 1815)" — https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges
+- `downloads/pages/158497425582.md` — "Note sur le compte des finances de l'exercice An XIV et 1806 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/note-sur-le-compte-des-finances-de-lexercice-an-xiv-et-1806/
+- `downloads/pages/15d715a151a0.md` — "Unternehmensgeschichte - Oesterreichische Nationalbank (OeNB)" — https://www.oenb.at/Ueber-Uns/unternehmensgeschichte/1816-1818.html
+- `downloads/pages/1644c920602c.md` — https://archive.org/advancedsearch.php?q=driault+politique+orientale+napoleon&fl%5B%5D=identifier&fl%5B%5D=title&rows=10&output=json
+- `downloads/pages/169fdc59341b.md` — "Spotlight On: Baptist War - The National Archives" — https://www.nationalarchives.gov.uk/education/students/videos/spotlight-on/spotlight-on-baptist-war/
+- `downloads/pages/171e7ef70128.md` — "La géographie des ressources forestières et les ambitions navales de Napoléon après Trafalgar : l’exemple du bois de ch…" — https://journals.openedition.org/geohist/4373
+- `downloads/pages/17447f15be10.md` — "2016_1_Hörcher" — https://hunghist.org/84-abstract/351-2016-1-horcher
+- `downloads/pages/180220d9fb15.md` — "The establishment and consolidation of the plantation economy in Sri Lanka" — https://doi.org/10.1080/14672715.1982.10412654
+- `downloads/pages/1834e51c1dbd.md` — "ʿABBĀS MĪRZĀ QAJAR - Encyclopaedia Iranica" — https://www.iranicaonline.org/articles/abbas-mirza
+- `downloads/pages/18966578d993.md` — "ARMY ESTIMATES. (Hansard, 8 March 1813)" — https://api.parliament.uk/historic-hansard/commons/1813/mar/08/army-estimates
+- `downloads/pages/18d0e5c351dd.md` — "Histoire de la Campagne de Russie | The Napoleon Series" — https://www.napoleon-series.org/military-information/battles-and-campaigns/histoire-de-la-campagne-de-russie/
+- `downloads/pages/19a912642825.md` — "History of Parliament Online" — https://historyofparliamentonline.org/volume/1790-1820/parliament/1807
+- `downloads/pages/19f8ac6acdbd.md` — "MELZI D'ERIL, Francesco - Enciclopedia - Treccani" — https://www.treccani.it/enciclopedia/francesco-melzi-d-eril_(Enciclopedia-Italiana)/
+- `downloads/pages/19fadd546928.md` — "FATḤ-ʿALĪ SHAH QĀJĀR - Encyclopaedia Iranica" — https://www.iranicaonline.org/articles/fath-ali-shah-qajar
+- `downloads/pages/1a445a082118.md` — "Avalon Project - Amendments to the Constitution Proposed by the Hartford Convention : 1814" — https://avalon.law.yale.edu/19th_century/hartconv.asp
+- `downloads/pages/1b22dbe49e2a.md` — "Research guide M2: Press gangs and impressment | Royal Museums Greenwich" — https://www.rmg.co.uk/collections/research-guides/research-guide-m2-press-gangs-and-impressment
+- `downloads/pages/1b329de6f5e8.md` — "A Time of Iron - Iron Kingdom: The Rise and Downfall of Prussia, 1600-1947" — https://erenow.org/modern/iron-kingdom/13.php
+- `downloads/pages/1b6165aee016.md` — "Foreign Enterprise in Russian and Soviet Industry: A Long Term Perspective" — https://www.cambridge.org/core/journals/business-history-review/article/abs/foreign-enterprise-in-russian-and-soviet-industry-a-long-term-perspective/AD950A0CB6F5A87F277A0C4DBF9D9BC6
+- `downloads/pages/1cd7e7d06126.md` — "Correspondance de Napoléon Ier - Juin 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-juin-1810/
+- `downloads/pages/1ee80b7507ce.md` — "Andreas Hofer and the insurrection in the Tyrol, 1809 - napoleon.org" — https://www.napoleon.org/en/history-of-the-two-empires/articles/andreas-hofer-and-the-insurrection-in-the-tyrol-1809/
+- `downloads/pages/1f3ae80c4f16.md` — "PRINA, Giuseppe - Enciclopedia - Treccani" — https://www.treccani.it/enciclopedia/giuseppe-prina_(Dizionario-Biografico)/
+- `downloads/pages/1f500788134e.md` — "INDIA BUDGET. (Hansard, 10 July 1806)" — https://api.parliament.uk/historic-hansard/commons/1806/jul/10/india-budget
+- `downloads/pages/1f6907a51a1d.md` — "Naval history of Great Britain - Vol. VI by William James - Appendix No. 9" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/P_500.html
+- `downloads/pages/1fe8a9e1b008.md` — "Naval history of Great Britain - Vol. VI by William James - Abstract 22 - 1814" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_22.html
+- `downloads/pages/2117b6d948bd.md` — "Informal Empire" — https://www.britishempire.co.uk/article/informalempireappendices.htm
+- `downloads/pages/219f06b950cc.md` — "The 'New Opposition', 1801-4 | History of Parliament Online" — https://www.historyofparliamentonline.org/periods/hanoverians/new-opposition-1801-4
+- `downloads/pages/21ae17eda88c.md` — "Napoléon et les arsenaux de la Marine - Persée" — https://www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813
+- `downloads/pages/21f2ec59e7fc.md` — "Affaire Malet : le faux Sénatus-consulte du 22 octobre 1812 - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/affaire-malet-le-faux-senatus-consulte-du-22-octobre-1812/
+- `downloads/pages/2226957c29b6.md` — "Staatsbankrott 1811 – Wien Geschichte Wiki" — https://www.geschichtewiki.wien.gv.at/Staatsbankrott_1811
+- `downloads/pages/22fe9f35feb4.md` — "Le Sénat de Napoléon : de la complicité à la « trahison » - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/le-senat-de-napoleon-de-la-complicite-a-la-trahison/
+- `downloads/pages/24b5e0b0e091.md` — "Monte Napoleone - Wikipedia" — https://it.wikipedia.org/wiki/Monte_Napoleone
+- `downloads/pages/25101e384c5e.md` — "Recherches récentes" — https://droit.cairn.info/revue-francaise-de-droit-constitutionnel-2008-4-page-703?lang=fr
+- `downloads/pages/25240612f417.md` — "Correspondance de Napoléon Ier - Mai 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-mai-1810/
+- `downloads/pages/254d31b40981.md` — "ENS LSH - Colloque - Pour une histoire critique et citoyenne, le cas de l’histoire franco-algérienne" — http://colloque-algerie.ens-lyon.fr/communication.php3?id_article=236
+- `downloads/pages/254e6c723b4c.md` — "Les crises économiques sous l’Empire. A propos de la crise dite « de 1805 » - Persée" — https://www.persee.fr/doc/ahrf_0003-4436_1970_num_199_1_3895
+- `downloads/pages/26c8c80b061c.md` — "Full text of " A statistical display of the finances, navigation and commerce of the United Kingdom of Great Britain an…" — https://archive.org/stream/b22297042/b22297042_djvu.txt
+- `downloads/pages/26d8892840a9.md` — "Des armes et de la poudre… - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/des-armes-et-de-la-poudre/
+- `downloads/pages/276ed0fdfed4.md` — "Counter-Theatre during the 1797 Fleet Mutinies | International Review of Social History | Cambridge Core" — https://www.cambridge.org/core/journals/international-review-of-social-history/article/countertheatre-during-the-1797-fleet-mutinies/DC7DBC56EA6E95005C816BF1EBBCF9C8
+- `downloads/pages/2853653e1cb6.md` — "Fredstraktat imellem Danmark og Sverige sluttet i Kiel den 14. januar 1814 – Danmarkshistorien | Lex" — https://danmarkshistorien.lex.dk/Fredstraktat_imellem_Danmark_og_Sverige_sluttet_i_Kiel_den_14._januar_1814
+- `downloads/pages/28673b2d1174.md` — "Cadoudal et « le coup essentiel » - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/cadoudal-et-le-coup-essentiel/
+- `downloads/pages/28eb94df2d9e.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_22.html
+- `downloads/pages/29727e560586.md` — "STATE OF THE PUBLIC FINANCES. (Hansard, 9 July 1817)" — https://api.parliament.uk/historic-hansard/commons/1817/jul/09/state-of-the-public-finances
+- `downloads/pages/29931d6389d2.md` — "ISSUE OF EXCHEQUER BILLS FOR PURPOSES OF LOCAL AND TEMPORARY RELIEF. (Hansard, 28 April 1817)" — https://api.parliament.uk/historic-hansard/commons/1817/apr/28/issue-of-exchequer-bills-for-purposes-of
+- `downloads/pages/2ad693d5ac13.md` — "Napoleon and the Transformation of Europe (European History in Perspective)" — https://ndl.ethernet.edu.et/bitstream/123456789/44567/1/2.Alexander%20Grab.pdf
+- `downloads/pages/2af7f0b9da42.md` — "Sandhurst, officers and the role of history | National Army Museum" — https://www.nam.ac.uk/explore/sandhurst-officers-and-role-history
+- `downloads/pages/2c1a774dc889.md` — "Mähren - Zeno.org" — http://www.zeno.org/Brockhaus-1809/B/M%C3%A4hren
+- `downloads/pages/2c86b127592b.md` — "LeMO Zeitstrahl - Vormärz und Revolution - Alltagsleben - Die Hungersnot 1816/17" — https://www.dhm.de/lemo/kapitel/vormaerz-und-revolution/alltagsleben/die-hungersnot-1816/17
+- `downloads/pages/2d54f8227b97.md` — "Russian Empire - Autocracy, Reforms, Nicholas I | Britannica" — https://www.britannica.com/place/Russian-Empire/Nicholas-I
+- `downloads/pages/2d8d72a79507.md` — "Research guide B8: The Spithead and Nore mutinies of 1797 | Royal Museums Greenwich" — https://www.rmg.co.uk/collections/research-guides/research-guide-b8-spithead-nore-mutinies-1797
+- `downloads/pages/2db1b3d107b9.md` — "Constitution de l'An XII - Empire - 28 floréal An XII | Conseil constitutionnel" — https://www.conseil-constitutionnel.fr/les-constitutions-dans-l-histoire/constitution-de-l-an-xii-empire-28-floreal-an-xii
+- `downloads/pages/2e0619dd75ba.md` — "October 2020, Revised July 2026" — https://www.nber.org/system/files/working_papers/w27904/w27904.pdf
+- `downloads/pages/2f4fc6ec5d53.md` — https://researchonline.lse.ac.uk/id/eprint/126278/1/The_Economic_History_Review_-_2025_-_Sissoko_-_Preventing_financial_ruin_How_the_West_India_trade_fostered_creativity_in.pdf
+- `downloads/pages/2f8f4416ec15.md` — "Württembergische Landstände" — https://de.wikipedia.org/wiki/W%C3%BCrttembergische_Landst%C3%A4nde
+- `downloads/pages/30d764790849.md` — "Naval history of Great Britain - Vol. VI by William James - Contents" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Contents.html
+- `downloads/pages/322976e60d96.md` — https://archive.org/advancedsearch.php?q=Prinsep+%22Runjeet+Singh%22&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=15&output=json
+- `downloads/pages/326b19e197a6.md` — "Napoléon et la " descente " en Angleterre. 1re partie : Les multiples projets de 1778 à 1803 - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/napoleon-et-la-descente-en-angleterre-1re-partie-les-multiples-projets-de-1778-a-1803/
+- `downloads/pages/32a25c5f3dca.md` — "1301.0 - Year Book Australia, 2003" — https://www.abs.gov.au/Ausstats/abs@.nsf/46d1bc47ac9d0c7bca256c470025ff87/1476d522ebe22464ca256cae0015bad4!OpenDocument
+- `downloads/pages/35dcb892b38d.md` — "The Project Gutenberg eBook of Napoléon et Alexandre Ier, par Albert Vandal" — https://www.gutenberg.org/files/31260/31260-h/31260-h.htm
+- `downloads/pages/360e2a6cb9f5.md` — "Internet History Sourcebooks: Modern History" — https://sourcebooks.web.fordham.edu/mod/indrevtabs1.asp
+- `downloads/pages/3762a4f8f4e3.md` — "Swords Around a Throne: Napoleon's Army | PDF | Cavalry | Infantry" — https://www.scribd.com/document/741223309/John-R-Elting-Swords-Around-a-Throne-Da-Capo-Press-1997
+- `downloads/pages/378a0b9459dc.md` — "The Keith Papers: Smith to Keith" — https://www.historyofwar.org/sources/napoleonic/nrs1955/1_1_020.html
+- `downloads/pages/3793ef9c4cb3.md` — "Sprzysiężenie podchorążych i noc listopadowa. - XIX wiek - Bryk.pl" — https://www.bryk.pl/wypracowania/historia/xix-wiek/8909-sprzysiezenie-podchorazych-i-noc-listopadowa.html
+- `downloads/pages/379bed301061.md` — "Monroe Doctrine (1823) | National Archives" — https://www.archives.gov/milestone-documents/monroe-doctrine
+- `downloads/pages/37f8d3b81593.md` — "Walcheren 1809: a medical catastrophe - PMC" — https://pmc.ncbi.nlm.nih.gov/articles/PMC1127097/
+- `downloads/pages/38e086c611f0.md` — "The Solemn Assurance of the Sovereign given by the Emperor Alexander I 1809" — https://histdoc.net/history/alex1.html
+- `downloads/pages/391f1c758def.md` — "1817 to 1820 - Sir Robert Sepping's improvements, &c." — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/P_417.html
+- `downloads/pages/3927ed2318fb.md` — "Decreto de Abertura dos Portos (1808) - Apaixonados por História" — https://apaixonadosporhistoria.com.br/fonte-primaria/21/decreto-de-abertura-dos-portos-1808
+- `downloads/pages/39348d986bea.md` — "Cobbett’s Weekly Political Register. London, Saturday, 30th July, 1803." — https://doi.org/10.4324/9781003192756-4
+- `downloads/pages/3a419bf742fa.md` — "18120224-003:geheimtaktat02 - EPOCHE NAPOLEON" — https://www.epoche-napoleon.net/quellen/1812/02/24/geheimtaktat02.html
+- `downloads/pages/3a69b112a875.md` — "The Anglo-Dutch Imperial Meridian in the Indian Ocean World, 1795-1820" — https://www.repository.cam.ac.uk/items/d9e8ef92-6f8f-434d-80e9-9065fe055699
+- `downloads/pages/3ac3b1dd88bf.md` — "“Money is a good soldier, sir, and will on” – The Bank of England in the Peninsular War, 1807 – 1814" — https://mcgill.scholaris.ca/bitstreams/6dcd38c6-a91e-4474-a50b-c89b1d8116c9/download
+- `downloads/pages/3b214d7b54fb.md` — "COMMITTEE OF SUPPLY. (Hansard, 10 November 1813)" — https://api.parliament.uk/historic-hansard/commons/1813/nov/10/committee-of-supply
+- `downloads/pages/3b8b8e348c6d.md` — "COMMERCIAL CREDIT. (Hansard, 11 March 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/mar/11/commercial-credit
+- `downloads/pages/3ba1fc65757f.md` — "PAPER MONEY, THE NATION, AND THE SUSPENSION OF CASH PAYMENTS IN 1797* | The Historical Journal | Cambridge Core" — https://www.cambridge.org/core/journals/historical-journal/article/paper-money-the-nation-and-the-suspension-of-cash-payments-in-1797/1035B94E7519E13F94C3506264B81454
+- `downloads/pages/3bc4a0c8484d.md` — "Wars with France 1793 to 1815 - History of Romney Marsh" — https://romneymarshhistory.co.uk/frenchwars
+- `downloads/pages/3c0d8aaa1316.md` — "Le vaisseau de la guerre d'Amérique : le « 74 canons » | lhistoire.fr" — https://www.lhistoire.fr/le-vaisseau-de-la-guerre-dam%C3%A9rique-le-%C2%AB-74-canons-%C2%BB
+- `downloads/pages/3c65df716c09.md` — "Gathering warclouds - napoleon.org" — https://www.napoleon.org/en/history-of-the-two-empires/articles/gathering-warclouds/
+- `downloads/pages/3dbf2623d42f.md` — "COMMUNICATIONS WITH FRANCE AND SPAIN RELATING TO THE SPANISH AMERICAN PROVINCES. (Hansard, 4 March 1824)" — https://api.parliament.uk/historic-hansard/commons/1824/mar/04/communications-with-france-and-spain-1
+- `downloads/pages/3eaf193bd527.md` — "EAST INDIA COMPANY'S REVENUE ACCOUNTS. (Hansard, 8 August 1854)" — https://api.parliament.uk/historic-hansard/commons/1854/aug/08/east-india-companys-revenue-accounts
+- `downloads/pages/3f388420b5a0.md` — "Napoléon et les arsenaux de la Marine - Persée" — https://www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813
+- `downloads/pages/3f4aaa790362.md` — "Domokos Rosáry, Napoléon et la Hongrie. - Persée" — https://www.persee.fr/doc/rhmc_0048-8003_1981_num_28_3_1162_t1_0530_0000_1
+- `downloads/pages/3f6d498365c6.md` — "Nobilität im Sittlich-Wissenschaftlichen Verein 1808-1809" — https://adelsquellen.de/adelsforschung/tugend.htm
+- `downloads/pages/3fee8d23eab4.md` — "The Reform Act 1832 -" — https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseofcommons/reformacts/overview/reformact1832/
+- `downloads/pages/3ff04f44110f.md` — "historion.net • History Online • Rise of the New West, 1819-1829 • CHAPTER XII. THE MONROE DOCTRINE (1821-1823)" — https://historion.net/rise-new-west-1819-1829/chapter-xii-monroe-doctrine-1821-1823?quicktabs_2=0
+- `downloads/pages/4089ecf1b4ed.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_23.html
+- `downloads/pages/4100be3f04c1.md` — "1814 : Déchoir et effacer les traces de l’Empire | Sénat" — https://www.senat.fr/connaitre-le-senat/lhistoire-du-senat/dossiers-dhistoire/le-palais-du-luxembourg-sous-les-deux-empires/le-coeur-du-palais/1814-dechoir-et-effacer-les-traces-de-lempire.html
+- `downloads/pages/414c1bc55e2f.md` — "Death, Disease and Medicine on Jamaican Slave Plantations; the Example of Worthy Park," — https://hssh.journals.yorku.ca/index.php/hssh/article/download/40881/37064/51326
+- `downloads/pages/414d9ffcebd4.md` — "1812, l'année de tous les défis - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/1812-lannee-de-tous-les-defis/
+- `downloads/pages/4161d873abee.md` — "Bayerische Herrschaft in Tirol (1806-1813/14) – Historisches Lexikon Bayerns" — https://www.historisches-lexikon-bayerns.de/Lexikon/Bayerische_Herrschaft_in_Tirol_(1806-1813/14)
+- `downloads/pages/424fa59e6154.md` — https://archive.org/advancedsearch.php?q=title%3A%28egypt+candia%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=20&output=json
+- `downloads/pages/4253618e6095.md` — "КОНТИНЕНТАЛЬНАЯ БЛОКАДА И ПОЛОЖЕНИЕ О НЕЙТРАЛЬНОЙ ТОРГОВЛЕ НА 1811 ГОД – тема научной статьи по истории и археологии чи…" — https://cyberleninka.ru/article/n/kontinentalnaya-blokada-i-polozhenie-o-neytralnoy-torgovle-na-1811-god
+- `downloads/pages/43d671845240.md` — "La situation conscriptionnelle en 1806 dans six départements belges - Persée" — https://www.persee.fr/doc/rbph_0035-0818_1969_num_47_2_2773
+- `downloads/pages/43dacbcb242e.md` — "Council of State's Recommendation to Napoleon on Conscription in 1811" — https://www.napoleon-series.org/military-info/organization/France/Conscription/1811/c_conscripts1811.html
+- `downloads/pages/43de964a9bae.md` — "La construction d’un système fiscal et administratif dans la Révolution et l’Empire, 1789-1815 - Persée" — https://www.persee.fr/doc/etudo_1241-3496_2000_num_10_1_1343
+- `downloads/pages/4527c0ed78cb.md` — "Peninsular War | National Army Museum" — https://www.nam.ac.uk/explore/peninsular-war
+- `downloads/pages/454e935e9868.md` — "Крестьянская реформа 1861 года | Президентская библиотека имени Б.Н. Ельцина" — https://www.prlib.ru/collections/467127
+- `downloads/pages/46ca470fcc48.md` — "Naval history of Great Britain by William James" — https://sites.rootsweb.com/~pbtyc/Naval_History/Reports/Budgets/Budgets.htm
+- `downloads/pages/486fa35af2c9.md` — "King George's Declaration on the Breakdown of the Peace, 18 May 1803" — https://www.napoleon-series.org/research/government/diplomatic/c_george2.html
+- `downloads/pages/49dac96fedbe.md` — "DEFENCE OF THE COUNTRY. (Hansard, 21 February 1805)" — https://api.parliament.uk/historic-hansard/commons/1805/feb/21/defence-of-the-country
+- `downloads/pages/4b0b3e27f01f.md` — "Ассигнационный рубль — Википедия" — https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D1%83%D0%B1%D0%BB%D1%8C
+- `downloads/pages/4b40ca3af7f7.md` — "Treaty between Prussia and France, Tilsit, 9 July, 1807 - napoleon.org" — https://www.napoleon.org/en/history-of-the-two-empires/articles/treaty-between-prussia-and-france-tilsit-9-july-1807/
+- `downloads/pages/4da6ae842ec8.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_20.html
+- `downloads/pages/4e950a03a636.md` — "Württemberg Friedrich II-I Herzog - Kurfürst - König - Detailseite - LEO-BW" — https://www.leo-bw.de/detail/-/Detail/details/PERSON/ubt_hauswuerttemberg/118703218/W%C3%BCrttemberg+Friedrich+II-I+Herzog+-+Kurf%C3%BCrst+-+K%C3%B6nig
+- `downloads/pages/4f3dc9c66f31.md` — "Le plébiscite de l’an VIII ou le coup d’État du 18 pluviôse an VIII (suite) - Persée" — https://www.persee.fr/doc/ahrf_0003-4436_1972_num_208_1_4643
+- `downloads/pages/509e05c01d8a.md` — "Documents upon the Overthrow of the Spanish Monarchy 1807" — https://www.napoleon-series.org/research/government/diplomatic/c_spain.html
+- `downloads/pages/5153da72f949.md` — "The role of grain exports in external commerce of Bessarabia (1812-1830) :: Journal „Tyragetia" :: Publications :: Nati…" — https://www.nationalmuseum.md/en/press_releases/journal_tyragetia/the_role_of_grain_exports_in_external_commerce_of_bessarabia_1812_1830/
+- `downloads/pages/523f4560156c.md` — "Key documents in the history of gold, 1:" — https://www.gold.org/sites/default/files/documents/1810jun8.pdf
+- `downloads/pages/52f7e77ab074.md` — https://gallica.bnf.fr/SRU?operation=searchRetrieve&version=1.2&query=gallica%20all%20%22Sassenay%20Napol%C3%A9on%20argentine%22&maximumRecords=5
+- `downloads/pages/5321f7d7f88b.md` — https://archive.org/advancedsearch.php?q=driault&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=50&output=json
+- `downloads/pages/53f263fd3a10.md` — "THE CHARTIST PETITION—MESSRS. O'CONNOR AND CRIPPS. (Hansard, 13 April 1848)" — https://api.parliament.uk/historic-hansard/commons/1848/apr/13/the-chartist-petition-messrs-oconnor-and
+- `downloads/pages/5428a73c3a12.md` — "La vente des biens nationaux : essai de synthèse - Persée" — https://www.persee.fr/doc/ahrf_0003-4436_1999_num_315_1_2219?pageId=T1_10
+- `downloads/pages/54a70cc2111c.md` — "La Banque de France, fille du coup d’État de Brumaire et institution majeure des "masses de granit" napoléoniennes - na…" — https://www.napoleon.org/histoire-des-2-empires/articles/la-banque-de-france-une-des-grandes-institutions-napoleoniennes/
+- `downloads/pages/54fd0efdaf3a.md` — "Internet-Portal "Westfälische Geschichte"" — https://www.lwl.org/westfaelische-geschichte/portal/Internet/input_felder/langDatensatz_ebene4.php?url_tabelle=tab_websegmente&urlID=714
+- `downloads/pages/550652301685.md` — "Correspondance de Napoléon Ier - Octobre 1811 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-octobre-1811/
+- `downloads/pages/554b3ef083a5.md` — "The British Army's African Recruitment Policy, 1790-1807" — https://doi.org/10.7275/6931
+- `downloads/pages/5550fd06ab38.md` — "Napoleon and the Invasion in England - PDF Free Download" — https://epdf.tips/napoleon-and-the-invasion-in-england.html
+- `downloads/pages/56350497ff74.md` — "Droit sous Napoléon Ier > Qu’est ce qu’un sénatus-consulte ? - napoleon.org" — https://www.napoleon.org/enseignants/documents/droit-sous-napoleon-ier-quest-ce-quun-senatus-consulte/
+- `downloads/pages/564fdec6591d.md` — "Karl August Baron von Hardenberg, “On the Reorganization of the Prussian State” (September 12, 1807) | German History i…" — https://germanhistorydocs.org/en/the-holy-roman-empire-1648-1815/karl-august-baron-von-hardenberg-on-the-reorganization-of-the-prussian-state-september-12-1807
+- `downloads/pages/56a23915a69c.md` — "М.М. Сперанский. Отчет в делах 1810 г., представленный императору Александру I" — http://dugward.ru/library/speranskiy_m/speranskiy_otchet_v_delah_1810.html
+- `downloads/pages/57df14bfaeee.md` — "Industrial Revolution Defining Moments, 1750–1914 | 1.3 Australia and wool | Australia’s Defining Moments Digital Class…" — https://digital-classroom.nma.gov.au/learning-modules/industrial-revolution-defining-moments-1750-1914/13-australia-and-wool
+- `downloads/pages/597653e3e3aa.md` — "NAVY ESTIMATES. (Hansard, 1 March 1830)" — https://api.parliament.uk/historic-hansard/commons/1830/mar/01/navy-estimates
+- `downloads/pages/5a55e6aeac33.md` — "QB 1967 Q2 pp159-163 - also see appendix" — https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/1967/boe-liabilities-and-assets-1696-onwards.pdf
+- `downloads/pages/5b085cf6826c.md` — "Verfassung des Königreichs Bayern (1808)" — https://www.verfassungen.de/by/verf08.htm
+- `downloads/pages/5b7b985b0f78.md` — "Supplying War: Logistics From Wallenstein To Patton [PDF] [28jjb479976g]" — https://vdoc.pub/documents/supplying-war-logistics-from-wallenstein-to-patton-28jjb479976g
+- `downloads/pages/5dea3a848dc0.md` — "The Spanish Army in the Peninsular War 0719025389, 9780719025389 - DOKUMEN.PUB" — https://dokumen.pub/the-spanish-army-in-the-peninsular-war-0719025389-9780719025389.html
+- `downloads/pages/5df7f181c2a5.md` — "Konstitution des Königreichs Bayern (1808) – Historisches Lexikon Bayerns" — https://www.historisches-lexikon-bayerns.de/Lexikon/Konstitution_des_K%C3%B6nigreichs_Bayern_(1808)
+- `downloads/pages/5f01778e4d6f.md` — "Глава 1. Динамика общей численности населения России за 1811-1913 гг. | Проект «Исторические Материалы»" — https://istmat.org/node/72
+- `downloads/pages/5f1e86c351d1.md` — "Ungarn - Zeno.org" — http://www.zeno.org/Brockhaus-1809/B/Ungarn
+- `downloads/pages/5f2b3a332680.md` — https://archive.org/advancedsearch.php?q=title%3A%28%22terre+ferme%22%29+AND+creator%3A%28Depons%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=10&output=json
+- `downloads/pages/603b19b5b0f9.md` — "Document > Traité de paix de Vienne (14 octobre 1809) - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/document-traite-de-paix-de-vienne-14-octobre-1809/
+- `downloads/pages/60408e3ad1af.md` — "IRISH MILITIA OFFER BILL.— (Hansard, 28 March 1804)" — https://api.parliament.uk/historic-hansard/commons/1804/mar/28/irish-militia-offer-bill
+- `downloads/pages/61ed76741f61.md` — "Состоялось официальное открытие первой в России казённой железной дороги | Президентская библиотека имени Б.Н. Ельцина" — https://www.prlib.ru/history/619715
+- `downloads/pages/6305bcbe013e.md` — "LIVERPOOL PETITION RESPECTING THE ORDERS IN COUNCIL BILL. (Hansard, 3 March 1808)" — https://api.parliament.uk/historic-hansard/commons/1808/mar/03/liverpool-petition-respecting-the-orders
+- `downloads/pages/635d3fc23a42.md` — "Innovatives System" — https://www.ibf-frankfurt.de/components/getdata.php?file=1500751347_SFupLD_boersenzeitung210_ullmann_01nov2011.pdf
+- `downloads/pages/63870d6f50b8.md` — "Andreas Hofer | Die Welt der Habsburger" — https://www.habsburger.net/en/persons/person/andreas-hofer
+- `downloads/pages/63ae275f32de.md` — "1812now: April 17 1812: Napoleon's Peace Offer" — http://1812now.blogspot.com/2012/04/april-17-1812-napoleons-peace-offer.html
+- `downloads/pages/644c60931e6e.md` — "La situation conscriptionnelle en 1806 dans six départements belges - Persée" — https://www.persee.fr/doc/rbph_0035-0818_1969_num_47_2_2773
+- `downloads/pages/6453d22b6fd6.md` — https://archive.org/advancedsearch.php?q=Aitchison+treaties+Sind+Baluchistan&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=15&output=json
+- `downloads/pages/64f0529893a0.md` — "State of the British Army in 1805" — https://www.napoleon-series.org/military-info/organization/c_strengths.html
+- `downloads/pages/6584f2f8b4f1.md` — "Protest and Democracy 1816 to 1818, part 1 - The National Archives" — https://www.nationalarchives.gov.uk/education/resources/protest-and-democracy-1816-to-1818/
+- `downloads/pages/664a7ecc0984.md` — "Oestreich - Zeno.org" — http://www.zeno.org/Brockhaus-1809/B/Oestreich
+- `downloads/pages/664bfb9d9703.md` — "Merino sheep introduced | National Museum of Australia" — https://www.nma.gov.au/defining-moments/resources/merino-sheep-introduced
+- `downloads/pages/682e933f431c.md` — "Naval history of Great Britain - Vol. VI by William James - Abstract 20 - 1812" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_20.html
+- `downloads/pages/6864746209f3.md` — "Correspondance de Napoléon Ier - Juillet 1811 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1811/
+- `downloads/pages/6a6576cb716b.md` — "The Canning Mission to Burma of 1809/10" — https://www.cambridge.org/core/journals/journal-of-southeast-asian-studies/article/abs/canning-mission-to-burma-of-180910/A331E3435612B8A40CECB278D144CCBF
+- `downloads/pages/6a70f356e610.md` — "Franz II (I) and the Metternich System | Die Welt der Habsburger" — https://www.habsburger.net/en/chapter/franz-ii-i-and-metternich-system
+- `downloads/pages/6b8e02cd7248.md` — "The Transatlantic Slave Trade - Heritage Collections UK Parliament" — https://heritagecollections.parliament.uk/stories/the-transatlantic-slave-trade/
+- `downloads/pages/6bc1e5201866.md` — "Traité d'alliance entre la France et la Perse - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/traite-dalliance-entre-la-france-et-la-perse/
+- `downloads/pages/6c50590d5ddd.md` — "Données actuelles sur Napoléon II (1811-1832) et ses dents - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/donnees-actuelles-sur-napoleon-ii-1811-1832-et-ses-dents/
+- `downloads/pages/6d14b89ddb86.md` — "18120224-004:geheimtaktat04 - EPOCHE NAPOLEON" — https://www.epoche-napoleon.net/quellen/1812/02/24/geheimtaktat04.html
+- `downloads/pages/6e15ba731186.md` — "Naval history of Great Britain by William James" — https://sites.rootsweb.com/~pbtyc/Naval_History/Reports/Index.html
+- `downloads/pages/6e6f2ee5c7e3.md` — "Abstract of British historical statistics / by B.R. Mitchell. With the collaboration of Phyllis Deane. - : Mitchell, B.…" — https://archive.org/details/abstractofbritis0000mitc
+- `downloads/pages/6e927305e1e3.md` — "France" — https://www.concordatwatch.eu/showtopic.php?org_id=867&kb_header_id=826
+- `downloads/pages/6e996221a1d1.md` — "NEGOCIATION WITH FRANCE. (Hansard, 30 December 1806)" — https://api.parliament.uk/historic-hansard/commons/1806/dec/30/negociation-with-france
+- `downloads/pages/6f0156abb741.md` — "Manufacture nationale d'armes" — https://archives.saint-etienne.fr/histoires-stephanoises-1/tranches-dhistoire/guerre-et-batiments-militaires/manufacture-nationale-darmes
+- `downloads/pages/6fc5e566ba0b.md` — "Portal Königreich Bayern: Objekte" — https://portale.hdbg.de/koenigreich-bayern/objekte/objekt/390
+- `downloads/pages/6fe177bf2d7a.md` — "The Project Gutenberg eBook of Reden an die deutsche Nation, by Johann Gottlieb Fichte." — https://www.gutenberg.org/files/48340/48340-h/48340-h.htm
+- `downloads/pages/7027396ad89a.md` — "Order of Battle in Northern Italy" — https://www.austro-hungarian-army.co.uk/oobmar48.htm
+- `downloads/pages/70b17e18323a.md` — https://shs.cairn.info/article/E_NAPO_081_0006/pdf?lang=en
+- `downloads/pages/70cc6a857e5f.md` — "Carnegie Endowment for International Peace" — https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/327/0142_Bk.pdf
+- `downloads/pages/70f0bcc9bf3f.md` — "Pariser Konvention (1808)" — https://de.wikipedia.org/wiki/Pariser_Konvention_(1808)
+- `downloads/pages/71106f9334bc.md` — "A Global Forum for Naval Historical Scholarship" — https://www.ijnhonline.org/wp-content/uploads/2012/01/Bjerg.pdf
+- `downloads/pages/72f263dafad6.md` — "Combination Acts | Combination Laws, Trade Unions & Strikes | Britannica Money" — https://www.britannica.com/money/Combination-Acts
+- `downloads/pages/733699a79d7c.md` — "La frégate USS Constitution à Cherbourg (1811) – Trois-Ponts!" — https://troisponts.net/2011/08/24/la-fregate-uss-constitution-a-cherbourg-1811/
+- `downloads/pages/73417730c1cf.md` — "Complementarities and Competition in Microstructures" — http://www.parisschoolofeconomics.com/hautcoeur-pierre-cyrille/PCHAR_EHR.pdf
+- `downloads/pages/7378b53aa48e.md` — https://repertorium.at/qu/1811_oestabgb.html
+- `downloads/pages/7409d7aca2ed.md` — "300 years of UK public finance data" — https://obr.uk/docs/dlm_uploads/300-Years-of-public-finances-Accessible-PDF.pdf
+- `downloads/pages/74609288614d.md` — https://archive.org/metadata/memoirscorrespon07castuoft/files
+- `downloads/pages/756e36589a7f.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_18.html
+- `downloads/pages/769e05da23c9.md` — "The Napoleonic Wars: A Watershed in Spanish History?" — https://www.econstor.eu/bitstream/10419/247060/1/ehes-wp130.pdf
+- `downloads/pages/76e0f720bdd9.md` — "Справка о банкнотном обращении в России | Банк России" — https://cbr.ru/cash_circulation/spravka-o-banknotnom-obraschenii-v-rossii/
+- `downloads/pages/775d373548f6.md` — "Research guide B6: The Royal Navy: Administrative records | Royal Museums Greenwich" — https://www.rmg.co.uk/collections/research-guides/research-guide-b6-royal-navy-administrative-records
+- `downloads/pages/775f980f1a64.md` — "Correspondance de Napoléon Ier - Novembre 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-novembre-1810/
+- `downloads/pages/7811dedbfc48.md` — "Vaisseaux de 118" — http://dossiersmarine.free.fr/v_118.htm
+- `downloads/pages/7838a9756a45.md` — "Diseases and Medicine" — https://westindiacommittee.org/historyheritageculture/wp-content/uploads/2021/04/WIS-Disease.pdf
+- `downloads/pages/78508d75464b.md` — "Piraterie, flibuste et autres guerres de course dans les conflits européens de l’époque moderne" — https://books.openedition.org/psorbonne/91295?lang=en
+- `downloads/pages/795736a33638.md` — "Vaisseaux de 80" — http://dossiersmarine.free.fr/v_80.htm
+- `downloads/pages/79cc75c4db73.md` — "At Spes non Fracta: Hope & Co. 1770–1815 | Springer Nature Link" — https://link.springer.com/book/10.1007/978-94-011-8858-6
+- `downloads/pages/7abf9a5379e3.md` — "Freiwillige Jäger - Zeno.org" — http://www.zeno.org/Meyers-1905/A/Freiwillige+J%C3%A4ger
+- `downloads/pages/7b11d8a7dad4.md` — "Foreign trade and early industrialisation in the Habsburg Monarchy and the United Kingdom — Two extremes in comparison …" — https://pmc.ncbi.nlm.nih.gov/articles/PMC3092985/
+- `downloads/pages/7b3ecc9629e8.md` — "Krümper" — https://de.wikipedia.org/wiki/Kr%C3%BCmper
+- `downloads/pages/7e5166c3be17.md` — "Read online “Iron Kingdom : The Rise and Downfall of Prussia, 1600-1947” |FREE BOOK| – Read Online Books" — https://read-online-books.com/book/read-online-iron-kingdom-the-rise-and-downfall-of-prussia-1600-1947-free/page-62
+- `downloads/pages/7f67f7021f02.md` — "Cary's New Itinerary 1802, index, direct roads" — https://lakesguides.co.uk/html/LakesTxt/cy38nx01.htm
+- `downloads/pages/7f6b50171ff1.md` — "Military Service" — https://doi.org/10.1017/cbo9781139030861.016
+- `downloads/pages/7f93512d05f7.md` — "The Royal Navy 1793-1815 - PDF Free Download" — https://epdf.tips/the-royal-navy-1793-1815.html
+- `downloads/pages/804553ad8887.md` — "Seite:Die Gartenlaube (1875) 858.jpg – Wikisource" — https://de.wikisource.org/wiki/Seite:Die_Gartenlaube_(1875)_858.jpg
+- `downloads/pages/809d3495176a.md` — "Treaty of Amiens, March 25, 1802 - Official text" — https://www.napoleon-empire.org/en/official-texts/treaty-of-amiens.php
+- `downloads/pages/81f2084d72ce.md` — https://rodrigomorenog.files.wordpress.com/2019/01/forrest-conscripts-and-deserters_-the-army-and-french-society-during-the-revolution-and-empire-oxford-1989.pdf
+- `downloads/pages/82073d12ec88.md` — "Waterloo: a Godsend for French Public Finances?" — https://ideas.repec.org/p/hes/wpaper/0041.html
+- `downloads/pages/82a063e7e022.md` — "Correspondance de Napoléon Ier - Juillet 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1810/
+- `downloads/pages/83a2e2f929d5.md` — "Mirari Vos - Papal Encyclicals" — https://www.papalencyclicals.net/greg16/g16mirar.htm
+- `downloads/pages/83ad07a570c6.md` — "Bergeron (Louis) et Chaussinand-Nogaret (Guy). Les « masses de granit ». Cent mille notables du Premier Empire - Persée" — https://www.persee.fr/doc/rbph_0035-0818_1982_num_60_4_5880_t1_1048_0000_2
+- `downloads/pages/83c66266952e.md` — "1807 - Abstract" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_IV/Abstract_No_15.html
+- `downloads/pages/83d83211926c.md` — "Odessa: A History, 1794-1914 0916458431, 9780916458430 - EBIN.PUB" — https://ebin.pub/odessa-a-history-1794-1914-0916458431-9780916458430.html
+- `downloads/pages/848ad5b3b9ea.md` — "The Austrian Army in the War of the Sixth Coalition: A Reassessment" — https://doi.org/10.12794/metadc1752349
+- `downloads/pages/85d915a3148f.md` — "NEGOCIATION WITH FRANCE. (Hansard, 2 January 1807)" — https://api.parliament.uk/historic-hansard/lords/1807/jan/02/negociation-with-france
+- `downloads/pages/85e4897967eb.md` — "Heraldry in Pre-Unification Italy" — https://www.heraldica.org/topics/national/italy2.htm
+- `downloads/pages/86905b266a2b.md` — "British Naval Involvement in Brazil, 1807-1815" — https://www.bhsportugal.org/uploads/fotos_artigos/files/British_Naval_Involvement_in_Brazil.pdf
+- `downloads/pages/86b2fc3fc26a.md` — "Donaudampfschiffahrtsgesellschaft – Wien Geschichte Wiki" — https://www.geschichtewiki.wien.gv.at/Donaudampfschiffahrtsgesellschaft
+- `downloads/pages/888cf5f7c5f9.md` — "Naval history of Great Britain - Vol. VI by William James - Abstract Index" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_Index.html
+- `downloads/pages/88e18d3695f5.md` — https://archive.org/advancedsearch.php?q=Kaye+%22history+of+the+war+in+Afghanistan%22&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=20&output=json
+- `downloads/pages/8a72a0c14aa6.md` — "ARMY ESTIMATES. (Hansard, 4 March 1822)" — https://api.parliament.uk/historic-hansard/commons/1822/mar/04/army-estimates
+- `downloads/pages/8a7cea21ca39.md` — "Māori and English texts | Waitangi Tribunal" — https://waitangitribunal.govt.nz/en/about/the-treaty/maori-and-english-versions
+- `downloads/pages/8c697d345cad.md` — https://archive.org/advancedsearch.php?q=Elphinstone+kingdom+of+Caubul&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=30&output=json
+- `downloads/pages/8cb7a7a33f3f.md` — "History | Early Engine Database" — https://industrial-archaeology.org/EarlyEngines/history.php
+- `downloads/pages/8dce0b0d022d.md` — https://archive.org/metadata/driault-mohamed-aly-et-napoleon-1807-1814
+- `downloads/pages/8ee645b54213.md` — https://archive.org/advancedsearch.php?q=lavalette+memoires+souvenirs&fl%5B%5D=identifier&fl%5B%5D=title&rows=10&output=json
+- `downloads/pages/8f0da5cc5576.md` — https://archive.org/advancedsearch.php?q=mollien+tresor+public&fl%5B%5D=identifier&fl%5B%5D=title&rows=20&output=json
+- `downloads/pages/8f32cf6e5188.md` — "VOTE OF CREDIT. (Hansard, 5 June 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/jun/05/vote-of-credit
+- `downloads/pages/8f561f7ea950.md` — "Indigenous Contributions to the War of 1812: Theatres of War Map" — https://www.cirnac.gc.ca/eng/1338906996435/1607905615872?wbdisable=true
+- `downloads/pages/8fe472aaf5a4.md` — "GitHub - mattsclancy/growth-acceleration: Is the Industrial Revolution an existence proof for 10x AI growth? Analysis u…" — https://github.com/mattsclancy/growth-acceleration
+- `downloads/pages/906d4b3f363b.md` — "Napoleon's War Financing Strategies | PDF | First French Empire | Napoleon" — https://www.scribd.com/document/903628600/Napoleons-Attempts-to-Make-His-Campaigns-Self-Financing
+- `downloads/pages/90e66489ab34.md` — "Les effets de l’indépendance d’Haïti sur la société esclavagiste martiniquaise sous le Consulat et l’Empire (1802-1809)" — https://journals.openedition.org/lrf/2923
+- `downloads/pages/9119b63406f2.md` — "Política, Memória e escrita da História: problematizando as interpretações e os significados da Abertura dos Portos (18…" — https://www.encontro2016.sp.anpuh.org/resources/anais/48/1475257905_ARQUIVO_Renato_de_Mattos.pdf
+- `downloads/pages/914e3418f267.md` — "Der regierungsunfähige Kaiser: Ferdinand I. | Die Welt der Habsburger" — https://www.habsburger.net/de/kapitel/der-regierungsunfaehige-kaiser-ferdinand-i
+- `downloads/pages/9218005107fe.md` — https://archive.org/advancedsearch.php?q=Aitchison+%22treaties%2C+engagements%22+Punjab&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=20&output=json
+- `downloads/pages/9223262f58a4.md` — "Online Collection" — https://collection.nam.ac.uk/detail.php?acc=1966-02-25-1
+- `downloads/pages/92274137edfc.md` — "PETITION FROM BIRMINGHAM AGAINST THE ORDERS IN COUNCIL. (Hansard, 17 April 1812)" — https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the
+- `downloads/pages/92f15cedf046.md` — "Proclamation of Provisional Government - Wikisource, the free online library" — https://en.wikisource.org/wiki/Proclamation_of_Provisional_Government
+- `downloads/pages/939c6d71a3cd.md` — "Colonial Silver Mining: Mexico and Peru | Hispanic American Historical Review | Duke University Press" — https://read.dukeupress.edu/hahr/article/52/4/545/152147/Colonial-Silver-Mining-Mexico-and-Peru
+- `downloads/pages/93c84a41168f.md` — "Paris, capitale du coton sous le Premier Empire - Persée" — https://www.persee.fr/doc/ahess_0395-2649_1950_num_5_1_1792
+- `downloads/pages/94b41b5822a4.md` — "The French Crash Program for Saltpeter Production, 1776-94" — https://doi.org/10.2307/3102523
+- `downloads/pages/95e1bd14b0d8.md` — https://www.ibiblio.org/pha/USN/Navy/navalhistoryofgr06jameuoft.pdf
+- `downloads/pages/95e29ff1c015.md` — "ECONOMY AND RETRENCHMENT. (Hansard, 27 June 1821)" — https://api.parliament.uk/historic-hansard/commons/1821/jun/27/economy-and-retrenchment
+- `downloads/pages/964e681bbff7.md` — "„Konstitution des Königreichs Bayern”, erlassen von König Maximilian I., mitunterzeichnet von den Ministern Montgelas, …" — https://germanhistorydocs.org/de/das-heilige-roemische-reich-1648-1815/konstitution-des-koenigreichs-bayern-erlassen-von-koenig-maximilian-i-mitunterzeichnet-von-den-ministern-montgelas-hompesch-und-morawitzky-25-mai-1808
+- `downloads/pages/96646a83b813.md` — https://archive.org/metadata/collectionoftrea07aitcuoft
+- `downloads/pages/968b2b9b2b09.md` — "Internet History Sourcebooks: Modern History" — https://sourcebooks.fordham.edu/mod/1806catechism-napoleon.asp
+- `downloads/pages/97294cdeb4b6.md` — "Conscription 1808" — https://www.napoleon-series.org/research/government/legislation/c_conscription.html
+- `downloads/pages/977ad00e38d7.md` — "Italians in Austrian Army" — https://people.ohio.edu/chastain/ip/italaam.htm
+- `downloads/pages/98f3132e9a36.md` — "The 1833 Factory Act - UK Parliament" — https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/
+- `downloads/pages/995bd30de2bb.md` — "NEW PLAN OF FINANCE. (Hansard, 29 January 1807)" — https://api.parliament.uk/historic-hansard/commons/1807/jan/29/new-plan-of-finance
+- `downloads/pages/9a69563ae505.md` — "Resistance in the ‘holy land’ of Tyrol: a Tyrolean Taliban? | Die Welt der Habsburger" — https://www.habsburger.net/en/chapter/resistance-holy-land-tyrol-tyrolean-taliban
+- `downloads/pages/9a8e1d55620d.md` — "1811. évi országgyűlés. Devalváczió. | Borovszky Samu: Magyarország vármegyéi és városai | Kézikönyvtár" — https://www.arcanum.com/hu/online-kiadvanyok/Borovszky-borovszky-samu-magyarorszag-varmegyei-es-varosai-1/somogy-varmegye-153D7/somogy-varmegye-tortenete-irta-reiszig-ede-dr-15DBA/ii-a-mohacsi-vesztol-a-kiegyezesig-16088/2-a-xviii-szazad-es-a-franczia-haboruk-kora-1624A/1811-evi-orszaggyules-devalvaczio-16380/
+- `downloads/pages/9af05ae4687f.md` — "Situation financière de la France, 1843 - Wikisource" — https://fr.wikisource.org/wiki/Situation_financi%C3%A8re_de_la_France,_1843
+- `downloads/pages/9b8878d51d19.md` — https://archive.org/metadata/india.history.resource.116919
+- `downloads/pages/9cc62ddca08d.md` — "La fabrication des poudres de guerre à Essonnes eBook" — https://readzis.co.uk/960997/la-fabrication-des-poudres-de-guerre-a-essonnes.ebook
+- `downloads/pages/9cdf68d9bb9b.md` — "Rapport à S. M. l'Empereur et Roi - 8 décembre 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/rapport-a-s-m-lempereur-et-roi-8-decembre-1810/
+- `downloads/pages/9d5c73371364.md` — "1805 | Haiti and the Atlantic World" — https://haitidoi.com/constitutions/1805-2/
+- `downloads/pages/9e5e88f140a4.md` — "Metropolitan Police - UK Parliament" — https://www.parliament.uk/about/living-heritage/transformingsociety/laworder/policeprisons/overview/metropolitanpolice/
+- `downloads/pages/9ea19769f461.md` — "PETITION OF THE EAST INDIA COMPANY. (Hansard, 26 April 1808)" — https://api.parliament.uk/historic-hansard/commons/1808/apr/26/petition-of-the-east-india-company
+- `downloads/pages/9f08012c5301.md` — "Senatsbeschluß über die Ausübung der Funktionen der Deputirten des gesetzgebenden Körpers der IV. Serie während der am …" — https://www.verfassungen.eu/f/fverf13-3.htm
+- `downloads/pages/9fc696fc8978.md` — "Avalon Project - Blackstone's Commentaries on the Laws of England - Book the First : Chapter the Seventh : Of the King'…" — https://avalon.law.yale.edu/18th_century/blackstone_bk1ch7.asp
+- `downloads/pages/a01b8afccf5d.md` — "Coping with Poverty in Rural Brandenburg: The Role of Lords and State in the Late Eighteenth Century" — https://doi.org/10.1525/luminos.63.g
+- `downloads/pages/a0a178c08a7e.md` — "Edikt über die Finanzen des Staats und die neuen Einrichtungen wegen der Abgaben (1810)" — https://www.verfassungen.de/preussen/gesetze/finanzverfassung10.htm
+- `downloads/pages/a0f246407c7d.md` — "FRANCE iii. RELATIONS WITH PERSIA 1789-1918 - Encyclopaedia Iranica" — https://www.iranicaonline.org/articles/france-iii-relations-with-persia-1789-1918/
+- `downloads/pages/a19ef3dd7086.md` — "Kapitulationen efter Københavns bombardement 7. september 1807 – Danmarkshistorien | Lex" — https://danmarkshistorien.lex.dk/Kapitulationen_efter_K%C3%B8benhavns_bombardement_7._september_1807
+- `downloads/pages/a2034fc310ff.md` — "Danger to the Old Lady of Threadneedle Street? The Bank Restriction Act and the regime shift to paper money, 1797-1821" — https://ehes.org/wp/EHES_100.pdf
+- `downloads/pages/a21397d83d22.md` — "GUERRA DE LA INDEPENDENCIA. HISTORIA DEL LEVANTAMIENTO, GUERRA Y REVOLUCIÓN DE ESPAÑA.CAPITULO XVIII. Exigencias de Nap…" — https://cristoraul.org/SPANISH/sala-de-lectura/Historia-general-de-Espana/GUERRA-DE-LA-INDEPENDENCIA/introduccion-capitulo-18.html
+- `downloads/pages/a21d8807b909.md` — "L'Echo de la Fabrique - Variétés." — http://echo-fabrique.ens-lyon.fr/document.php?format=search&id=2542
+- `downloads/pages/a29ef989aeb1.md` — "6- Nouveautés dans l'artillerie de la Marine" — https://www.artillerie.asso.fr/basart/article.php3?id_article=1972
+- `downloads/pages/a2aa12b57d10.md` — "Odessa - BlackSea Research Project" — https://cities.blacksea.gr/en/odessa/5-7/
+- `downloads/pages/a4244268fcb9.md` — "The taking of the Isle of France (Mauritius), 2 December 1810 | Online Collection | National Army Museum, London" — https://collection.nam.ac.uk/detail.php?acc=1971-02-33-252-1
+- `downloads/pages/a505ea54ea46.md` — "November Insurrection | Polish Rebellion of 1830-1831 | Britannica" — https://www.britannica.com/event/November-Insurrection
+- `downloads/pages/a6702a368d37.md` — "Александр I, Император Всероссийский." — http://www.brocgaus.ru/text/002/923.htm
+- `downloads/pages/a6d694654e00.md` — https://archive.org/advancedsearch.php?q=creator%3A%28Torrente%29+AND+title%3A%28revolucion+hispano-americana%29&fl%5B%5D=identifier&fl%5B%5D=title&rows=8&output=json
+- `downloads/pages/a6fc0bf52bf4.md` — "France: Income and Expenditures in An 12" — https://www.napoleon-series.org/research/abstract/government/budget/france/an12/c_an12.html
+- `downloads/pages/a74cfc40d08a.md` — https://archive.org/advancedsearch.php?q=%22politique+orientale+de+Napol%C3%A9on%22+Gardane&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=30&output=json
+- `downloads/pages/a7582cb284e4.md` — "1797: Suspension of cash payments by the Bank of England | The Statutes Project" — https://statutes.org.uk/site/the-statutes/privy-council-orders/1797-suspension-of-cash-payments-by-the-bank-of-england/
+- `downloads/pages/a75fb284017e.md` — https://archive.org/advancedsearch.php?q=Sassenay+AND+%28%22Republique+Argentine%22+OR+%22Napoleon+Ier%22%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=10&output=json
+- `downloads/pages/a8959e842dc5.md` — https://archive.org/advancedsearch.php?q=creator%3A%28ghorbal%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=20&output=json
+- `downloads/pages/a8db4b456088.md` — "The French Navy After 1815 Part I - WarHistory.org" — https://warhistory.org/article/the-french-navy-after-1815-part-i
+- `downloads/pages/a947acecb6dc.md` — "mai_03" — http://www.histoire-empire.org/correspondance_de_napoleon/1809/mai_03.htm
+- `downloads/pages/a9c217630acd.md` — "H-Net Reviews" — https://www.h-net.org/reviews/showrev.php?id=24357
+- `downloads/pages/aa5c5df8d6e3.md` — "The Effective Strength of the British Army" — https://www.napoleon-series.org/research/abstract/military/army/britain/strength/c_strength.html
+- `downloads/pages/ab1d70897763.md` — "Waterloo: a Godsend for French Public Finances?" — https://ideas.repec.org/p/hes/wpaper/0041.html
+- `downloads/pages/ab23412e72be.md` — "Correspondance générale de Napoléon Bonaparte. Tome 10 : Un grand empire. mars 1810-mars 1811. Introduction au volume -…" — https://www.napoleon.org/histoire-des-2-empires/articles/correspondance-generale-de-napoleon-bonaparte-tome-10-un-grand-empire-mars-1810-mars-1811-introduction-au-volume/
+- `downloads/pages/ab7407c7b446.md` — "Banca d'Italia - Cronologia" — https://www.bancaditalia.it/servizi-cittadino/mostre-ed-eventi/mostra-moneta/esplora/stanza-a/cronologia/index.html
+- `downloads/pages/ac60ac018ef2.md` — "KING'S SPEECH.— (Hansard, 22 November 1803)" — https://api.parliament.uk/historic-hansard/commons/1803/nov/22/kings-speech
+- `downloads/pages/ac63387858e7.md` — "Memoria Política de México" — https://www.memoriapoliticademexico.org/Efemerides/11/10111799-CM.html
+- `downloads/pages/ac72d0b07b30.md` — "Relations internationales et classe politique en Haïti (1784-1814) - Persée" — https://www.persee.fr/doc/outre_1631-0438_2003_num_90_340_4050
+- `downloads/pages/aee76684456e.md` — "The Ugly Duckling: The French Navy and the Saint-Domingue Expedition,1801-1803 – International Journal of Naval History" — https://ijnh.seahistory.org/the-ugly-duckling-the-french-navy-and-the-saint-domingue-expedition1801-1803/
+- `downloads/pages/af4f870b8ddf.md` — "ADB:Friedrich August I. (König von Sachsen) – Wikisource" — https://de.wikisource.org/wiki/ADB:Friedrich_August_I._(K%C3%B6nig_von_Sachsen)
+- `downloads/pages/b064437dd1d2.md` — "Concordat de Fontainebleau de janvier 1813, dénoncé en mars" — https://www.napoleon-empire.org/texte-officiel/concordat-1813.php
+- `downloads/pages/b0cf11d23f51.md` — "Princes’ Wars, Wars of the People, or Total War? Mass Armies and the Question of a Military Revolution in Germany, 1792…" — https://journals.sagepub.com/doi/10.1177/0968344513483071
+- `downloads/pages/b382c307bdac.md` — "Petitions and the Corn Laws" — https://committees.parliament.uk/committee/326/petitions-committee/news/99040/petitions-and-the-corn-laws
+- `downloads/pages/b410f00b28b3.md` — "Espoirs et déceptions d’Odessa dans le premier quart du XIXe siècle - Persée" — https://www.persee.fr/doc/casla_1283-3878_2016_num_14_1_1138
+- `downloads/pages/b4cf5e9825fc.md` — "Pertes de l'armée de terre sous le premier Empire, d'après les registres matricules. - Persée" — https://www.persee.fr/doc/pop_0032-4663_1972_num_27_1_15097
+- `downloads/pages/b57436760b6a.md` — ""Ripe Fruit" Theory | 4score.org" — https://4score.org/historical-documents/ripe-fruit-theory
+- `downloads/pages/b5b6f3cf2c2b.md` — https://archive.org/advancedsearch.php?q=bowring+AND+candia&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=20&output=json
+- `downloads/pages/b5b76ec14c26.md` — "Naval history of Great Britain by William James - Abstract No 19 - 1811" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_19.html
+- `downloads/pages/b63d35ce3cb6.md` — "La réduction du nombre de nos vaisseaux (1814-1819) – Trois-Ponts!" — https://troisponts.net/2014/03/26/reduction-du-nombre-de-nos-vaisseaux-1814-1819/
+- `downloads/pages/b67a84406849.md` — https://archive.org/advancedsearch.php?q=%22Popham%22+AND+%22court+martial%22+AND+date%3A%5B1806-01-01+TO+1810-01-01%5D&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=15&page=1&output=json
+- `downloads/pages/b71024f74504.md` — "Россия, разд. Финансовое хозяйство России (первая половина XIX века)" — http://rulex.ru/01273021.htm
+- `downloads/pages/b71a637044ed.md` — "H.M. Steam sloops Rattler and Alecto towing stern to stern, for the purpose of testing the relative powers of the Screw…" — https://www.rmg.co.uk/collections/objects/rmgc-object-140870
+- `downloads/pages/b774a39e237e.md` — "PETITION FROM BIRMINGHAM AGAINST THE ORDERS IN COUNCIL. (Hansard, 17 April 1812)" — https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the
+- `downloads/pages/b92bac3d423e.md` — "War, Naval Logistics and the British State" — https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf
+- `downloads/pages/b94d05580380.md` — "John Moore: Alone with his glory | National Army Museum" — https://www.nam.ac.uk/explore/john-moore
+- `downloads/pages/b9eaa7cabeae.md` — "L'entrevue d'Erfurt racontée par Talleyrand - Le Consulat et le Premier empire" — https://napoleon-histoire.com/1808-l-entrevue-d-erfurt-racontee-talleyrand/
+- `downloads/pages/ba2ab29e8259.md` — "PETITION FROM THE HALLAMSHIRE CUTLERS, RESPECTING THE RENEWAL OF THE EAST INDIA COMPANY'S CHARTER. (Hansard, 17 April 1…" — https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-the-hallamshire-cutlers
+- `downloads/pages/ba4cd1cfd439.md` — "Endogenous Formation of Free Trade Agreements: Evidence from the Zollverein’s Impact on Market Integration" — https://spot.colorado.edu/~shiue/Zoll.pdf
+- `downloads/pages/bb07a813031b.md` — "The Political Economy of British Taxation, 1660-1815" — http://slantchev.ucsd.edu/courses/ps143a/readings/O'Brien%20-%20Political%20Economy%20of%20British%20Taxation,%201660-1815.pdf
+- `downloads/pages/bc249a28e29b.md` — https://archive.org/advancedsearch.php?q=roederer+oeuvres&fl%5B%5D=identifier&fl%5B%5D=title&rows=20&output=json
+- `downloads/pages/bcec6e864569.md` — "Statsbankerotten 1813 – Danmarkshistorien | Lex" — https://danmarkshistorien.lex.dk/Statsbankerotten_1813
+- `downloads/pages/bd9fbfa5c4e0.md` — "Research datasets | Bank of England – the UK's central bank" — https://www.bankofengland.co.uk/statistics/research-datasets
+- `downloads/pages/bea2d85b8283.md` — https://archive.org/advancedsearch.php?q=%22treaties%2C+engagements%2C+and+sunnuds%22+Sinde&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=10&output=json
+- `downloads/pages/bfe5e416b5e6.md` — "Législation sur les Majorats (1808-1905)" — https://heraldica.org/topics/france/majoratstexts.htm
+- `downloads/pages/bff7e2ccf088.md` — "THE BUDGET. (Hansard, 20 May 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/may/20/the-budget
+- `downloads/pages/c027085d7e92.md` — "Making sure you're not a bot!" — http://nbn-resolving.de/urn:nbn:de:hbz:061:1-316685
+- `downloads/pages/c14f5ba7251f.md` — "Memoria Política de México" — https://www.memoriapoliticademexico.org/Textos/1Independencia/1813SDN.html
+- `downloads/pages/c17387e0e297.md` — "Histoire contemporaine" — https://www.mediterranee-antique.fr/Pages_accueil/Accueil_Contemporain.htm
+- `downloads/pages/c2105af935e9.md` — "Naval history of Great Britain - Vol. VI by William James - Abstract 23 - 1815" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_23.html
+- `downloads/pages/c2547505e406.md` — https://archive.org/advancedsearch.php?q=title%3A%28%22republique+argentine%22%29+AND+date%3A%5B1890-01-01+TO+1895-12-31%5D&fl%5B%5D=identifier&fl%5B%5D=title&rows=8&output=json
+- `downloads/pages/c2fda522376a.md` — "REPORT OF THE BULLION COMMITTEE—ADJOURNED DEBATE. (Hansard, 7 May 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/may/07/report-of-the-bullion-committee
+- `downloads/pages/c41d03e2f9a8.md` — "SEHEPUNKTE - Rezension von: Der Mythos vom Befreiungskrieg - Ausgabe 9 (2009), Nr. 9" — https://www.sehepunkte.de/2009/09/11263.html
+- `downloads/pages/c479ac42abbb.md` — "ESSONNES, industrie. - Poudreries d' Essonnes : coupures de journaux évoquant l'incendie des poudreries en 1788, 1 affi…" — https://archives.essonne.fr/ark:/28047/9ln5x74p2fb6
+- `downloads/pages/c5194d3db60c.md` — "Vormärz – Wien Geschichte Wiki" — https://www.geschichtewiki.wien.gv.at/Vorm%C3%A4rz
+- `downloads/pages/c5740df3413a.md` — "Correspondance générale de Napoléon Bonaparte. Tome 6 : 1806 - Vers le Grand Empire. Introduction - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/correspondance-generale-de-napoleon-bonaparte-tome-6-1806-vers-le-grand-empire-introduction/
+- `downloads/pages/c674c509988f.md` — "Le gouvernement responsable – Dictionnaire biographique du Canada" — https://www.biographi.ca/fr/theme_government.html?p=1&project_id=75
+- `downloads/pages/c68f606dbf1f.md` — "Segunda parte del segundo capitulo de La revolucion del Cura Miguel Hidalgo, hasta la muerte de este y sus compañeros, …" — http://www.antorcha.net/biblioteca_virtual/historia/revolucion_hidalgo/2_2.html
+- `downloads/pages/c7337a608bc3.md` — "COLONIAL GOVERNMENT. (Hansard, 25 July 1848)" — https://api.parliament.uk/historic-hansard/commons/1848/jul/25/colonial-government
+- `downloads/pages/c7cd9ef65032.md` — "Histoire du commerce du bois | l'Encyclopédie Canadienne" — https://thecanadianencyclopedia.ca/fr/article/histoire-du-commerce-du-bois-1
+- `downloads/pages/c7e7b21e85be.md` — "Rieder-Vertrag vom 8. October 1813 – Wikisource" — https://de.wikisource.org/wiki/Rieder-Vertrag_vom_8._October_1813
+- `downloads/pages/c7f7c214af3a.md` — "Fredsfördraget i Fredrikshamn / Haminan rauhansopimus 17.9.1809" — https://histdoc.net/historia/se/frhamn.html
+- `downloads/pages/c80f5e01723c.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_21.html
+- `downloads/pages/c829da0ae0b4.md` — "La grande douane impériale – Association pour l’Histoire de l’Administration des Douanes" — https://histoire-de-la-douane.org/la-grande-douane-imperiale/
+- `downloads/pages/c8f3fb7e8d62.md` — "1813 - On building ships of war" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/P_152.html
+- `downloads/pages/c97cc028bbf1.md` — "Outre-mers, tome 90, n°340-341, 2e semestre 2003. Haïti Première République Noire. - Persée" — https://www.persee.fr/issue/outre_1631-0438_2003_num_90_340
+- `downloads/pages/c97fa30208bf.md` — "IN THE EPICENTER OF THE STORM? THE EFFECTS OF THE REVOLUTION AND WARFARE ON THE FRENCH ECONOMY, 1789-1815" — http://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-06.pdf
+- `downloads/pages/ca69d49d69c7.md` — "GR 4 W (2)" — https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/notices_files/GR4W.pdf
+- `downloads/pages/cbe738fd35f6.md` — "La vente des biens nationaux : essai de synthèse - Persée" — https://www.persee.fr/doc/ahrf_0003-4436_1999_num_315_1_2219
+- `downloads/pages/cd205de92b28.md` — "The Chartist movement - UK Parliament" — https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/overview/chartistmovement/
+- `downloads/pages/cd7489b20593.md` — "Correspondance de Napoléon Ier - Décembre 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-decembre-1810/
+- `downloads/pages/cde736773ad3.md` — "Liste der Mitgliedstaaten im Rheinbund – Wikipedia" — https://de.wikipedia.org/wiki/Liste_der_Mitgliedstaaten_im_Rheinbund
+- `downloads/pages/ce033e3932d6.md` — "Resistance and Rebellion in the Caribbean" — https://cdn.nationalarchives.gov.uk/documents/education/resistance-and-rebellion.pdf
+- `downloads/pages/ce0b4d346986.md` — "Correspondance de Napoléon – Avril 1813" — https://napoleon-histoire.com/correspondance-de-napoleon-avril-1813/
+- `downloads/pages/ceac076a093d.md` — "Snakes in Paradise | J.H. Elliott | The New York Review of Books" — https://www.nybooks.com/articles/2003/11/20/snakes-in-paradise/
+- `downloads/pages/ceff3e4a5b39.md` — "Les grands notables de l'Empire : Bergeron (Louis) et Chaussinand-Nogaret (Guy), Grands notables du Premier Empire ; t.…" — https://www.persee.fr/doc/anami_0003-4398_1981_num_93_151_1951_t1_0106_0000_2
+- `downloads/pages/cf02c798c3f0.md` — "Monetary and Fiscal Policy in England during the French Wars (1793-1821)" — https://people.bu.edu/chamley/Ec365-17/UKFR.pdf
+- `downloads/pages/cf0509d983d0.md` — "LWL - Kultur - Ausz�ge aus Berding" — https://lwl.org/aufbruch-in-die-moderne/LWL/Kultur/Aufbruch/popups/politik/verfassung/abschaffung_privilegien/berding/index2_html.html
+- `downloads/pages/cf1db95a4ffe.md` — "GOVERNMENT OF INDIA—ADJOURNED DEBATE. (Hansard, 9 June 1853)" — https://api.parliament.uk/historic-hansard/commons/1853/jun/09/government-of-india-adjourned-debate
+- `downloads/pages/cf2c01bdf7ff.md` — "Naval History by William James - Appendix 1" — https://sites.rootsweb.com/~pbtyc/Naval_History/Index.html
+- `downloads/pages/cf938653fa92.md` — "1808 : Expansions méridionales et résistances - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/1808-expansions-meridionales-et-resistances/
+- `downloads/pages/cfc17491b6c4.md` — "001 .ditorial" — https://annales.org/edit/gc/2005/gc80/058-076peaucelle.pdf
+- `downloads/pages/cfca2389fab7.md` — "H-Net Reviews" — https://www.h-net.org/reviews/showrev.php?id=12179
+- `downloads/pages/cfd2c9f1cdc0.md` — "The London Gazette" — https://www.thegazette.co.uk/London/issue/16100/data.pdf
+- `downloads/pages/d01fe4f39a0e.md` — "An Act for the Union of Great Britain and Ireland - UK Parliament" — https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliamentandireland/collections/ireland/act-of-union-1800/
+- `downloads/pages/d16ce60cffc3.md` — "Sitting of 17 April 1812 (Hansard)" — https://api.parliament.uk/historic-hansard/sittings/1812/apr/17
+- `downloads/pages/d1a7f41f429f.md` — https://archive.org/advancedsearch.php?q=creator%3A%28Azara%29+AND+title%3A%28%22Amerique+meridionale%22%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=10&output=json
+- `downloads/pages/d34063b29aef.md` — "WAYS AND MEANS. (Hansard, 28 March 1806)" — https://api.parliament.uk/historic-hansard/commons/1806/mar/28/ways-and-means-1
+- `downloads/pages/d370d71557ae.md` — "Les premières troupes supplétives en Algérie" — https://doi.org/10.3917/rha.255.0061
+- `downloads/pages/d39fd55b29e2.md` — "Naval history of Great Britain by William James - Abstract No 16 - 1808" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_16.html
+- `downloads/pages/d3da94a75442.md` — "Joseph Laîné (28 décembre 1813) - Assemblée nationale" — https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/grands-discours-parlementaires/joseph-laine-28-decembre-1813
+- `downloads/pages/d4b41dee9730.md` — "DAM" — https://digital.library.unt.edu/ark:/67531/metadc1752349/
+- `downloads/pages/d50bbff185e1.md` — "PETITIONS FROM PAISLEY, SWANSEA AND BIRMINGHAM RESPECTING THE RENEWAL OF THE EAST INDIA COMPANY'S CHARTER. (Hansard, 8 …" — https://api.parliament.uk/historic-hansard/commons/1812/apr/08/petitions-from-paisley-swansea-and
+- `downloads/pages/d5c627631093.md` — "The Austrian Army in the War of the Sixth Coalition: A Reassessment - UNT Digital Library" — https://digital.library.unt.edu/ark:/67531/metadc1752349/
+- `downloads/pages/d6224d1eedd9.md` — "Armja Królestwa Polskiego : (1815-1830)" — http://obc.opole.pl/Content/9656
+- `downloads/pages/d6627652fe2a.md` — "Tratado de Fontainebleau (27 de octubre de 1807)" — http://www.altorres.synology.me/guerras/1808_independencia/documentos/1807_10_27_fontainebleau.htm
+- `downloads/pages/d6e755fb0b5d.md` — https://www.ibiblio.org/hyperwar/NHC/NewPDFs/UK/UK,%20Naval%20History%20of%20Great%20Britain%204.pdf
+- `downloads/pages/d79be65764b5.md` — "FINANCE RESOLUTIONS. (Hansard, 20 June 1809)" — https://api.parliament.uk/historic-hansard/commons/1809/jun/20/finance-resolutions
+- `downloads/pages/d827ad3207c2.md` — "THE NATIONAL PETITION — THE CHARTER. (Hansard, 3 May 1842)" — https://api.parliament.uk/historic-hansard/commons/1842/may/03/the-national-petition-the-charter
+- `downloads/pages/d983cfd56cb8.md` — "Den dansk-norske skilsmisse i 1814 – Danmarkshistorien | Lex" — https://danmarkshistorien.lex.dk/Den_dansk-norske_skilsmisse_i_1814
+- `downloads/pages/da8b385366d2.md` — "Grands traités politiques" — https://mjp.univ-perp.fr/traites/1814paris.htm
+- `downloads/pages/db711396db6a.md` — "PETITION OF THE EAST INDIA COMPANY FOR THE RENEWAL OF THEIR CHARTER. (Hansard, 22 February 1813)" — https://api.parliament.uk/historic-hansard/commons/1813/feb/22/petition-of-the-east-india-company-for
+- `downloads/pages/dc631b5476f4.md` — "The failure of the first income tax: a tale of commercial tax evaders?" — https://eprints.whiterose.ac.uk/id/eprint/129898/19/The%20Failure%20of%20the%20First%20Income%20Tax-A%20Tale%20of%20Commercial%20Tax%20Evaders_.pdf
+- `downloads/pages/dc6c3ac4195b.md` — "Naval history of Great Britain by William James" — https://sites.rootsweb.com/~pbtyc/Naval_History/Reports/Budgets/Officer_Nos.html
+- `downloads/pages/dd0ed0a68f18.md` — https://journals.openedition.org/geohist/4373
+- `downloads/pages/dda4372be1f5.md` — "The worldwide economic impact of the Revolutionary and Napoleonic Wars" — https://www.tcd.ie/Economics/TEP/2005_papers/TEP9.pdf
+- `downloads/pages/ddccd80edb3a.md` — "Naval history of Great Britain by William James - Abstract No 18 - 1810" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_18.html
+- `downloads/pages/de17c8036944.md` — "REPORT OF THE BULLION COMMITTEE. (Hansard, 9 May 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/may/09/report-of-the-bullion-committee
+- `downloads/pages/de8da74a2316.md` — "Les donataires de Napoléon - Persée" — https://www.persee.fr/doc/rhmc_0048-8003_1970_num_17_3_2102
+- `downloads/pages/df27e5314cf3.md` — "Correspondance de Napoléon Ier - Janvier-Février-Mars 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-janvier-fevrier-mars-1810/
+- `downloads/pages/df8591563743.md` — "The World the Bureaucrats Made - Iron Kingdom: The Rise and Downfall of Prussia, 1600-1947" — https://erenow.org/modern/iron-kingdom/12.php
+- `downloads/pages/e00651d91906.md` — "Polen – ERIH" — https://www.erih.de/wie-alles-begann/industriegeschichte-europaeischer-laender/polen
+- `downloads/pages/e07f5916248e.md` — https://archives.somme.fr/document/r1_rep_militaire
+- `downloads/pages/e0f217155fea.md` — "[PDF] Britain at Bay by Richard Glover | 9781032037578, 9781000408676" — https://www.perlego.com/book/2567530/britain-at-bay-defence-against-bonaparte-180314-pdf
+- `downloads/pages/e1226f919ddf.md` — "Les relations entre les Petites Antilles françaises et Haïti, de la politique du refoulement à la résignation, 1804-182…" — https://www.persee.fr/doc/outre_1631-0438_2003_num_90_340_4051
+- `downloads/pages/e28f4a67e54f.md` — "Volume 01: Production and resources of the northern and western districts of New South Wales, 1854 [ca. 1850-1857] - Pa…" — https://transcripts.sl.nsw.gov.au/page/volume-01-production-and-resources-northern-and-western-districts-new-south-wales-1854-ca-620
+- `downloads/pages/e32902a0a3c8.md` — "Portrait bust of HRH Frederick, Duke of York and Albany, 1820 (c). | Online Collection | National Army Museum, London" — https://collection.nam.ac.uk/detail.php?acc=2002-03-163-1
+- `downloads/pages/e462d0348921.md` — "Naval History" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_17.html
+- `downloads/pages/e47ab045c32f.md` — "The Defence of British Trade with the Baltic, 1808-1813" — https://www.reenactor.ru/ARH/PDF/Defence.pdf
+- `downloads/pages/e4de2569510d.md` — "Vaisseaux de 74" — http://dossiersmarine.free.fr/v_74.htm
+- `downloads/pages/e4f61139af7d.md` — "Le financement des guerres napoléoniennes et la conjoncture du Premier Empire - Persée" — https://www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987
+- `downloads/pages/e5b32951df65.md` — "Crouzet (François). L'économie britannique et le blocus continental (1806- 1813). - Persée" — https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2
+- `downloads/pages/e5db571883ca.md` — "Bois, taxes sur le | l'Encyclopédie Canadienne" — https://thecanadianencyclopedia.ca/fr/article/bois-taxes-sur-le
+- `downloads/pages/e5f95a4792cd.md` — "e-journal of Portuguese History" — https://brown.edu/Departments/Portuguese_Brazilian_Studies/ejph/html/issue27/html/v14n1a05.html
+- `downloads/pages/e61729b71f9b.md` — "Unia polsko-rosyjska z 1815 r. na tle unii lubelskiej i projektów unii Rzeczypospolitej i Rosji z XVI i XVII w." — https://doi.org/10.14746/spp.2017.1.17.6
+- `downloads/pages/e62d2b040709.md` — "Naval history of Great Britain - Vol. VI by William James - Abstract 21 - 1813" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_21.html
+- `downloads/pages/e6f361323912.md` — "Full text of "Expeditions Overseas"" — https://archive.org/stream/ExpeditionsOverseas/Expeditions%20Overseas_djvu.txt
+- `downloads/pages/e6fecc9325ac.md` — "Convention franco-russe d'Erfurt, 12 octobre 1808 - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/convention-franco-russe-derfurt-12-octobre-1808/
+- `downloads/pages/e772cb60e0df.md` — "Le financement des guerres napoléoniennes et la conjoncture du Premier Empire - Persée" — https://www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987
+- `downloads/pages/e8dd4f1e586c.md` — "La conscription dans les départements piémontais de l'Empire français (1800-1810) - Persée" — https://www.persee.fr/doc/mefr_1123-9891_1990_num_102_1_4089
+- `downloads/pages/ea9175ba3158.md` — "STUDIES IN THE HISTORY OF TAX LAW" — https://api.pageplace.de/preview/DT0400.9781847313461_A24074261/preview-9781847313461_A24074261.pdf
+- `downloads/pages/ead7fbfac794.md` — "Portal da Câmara dos DeputadosCARTA RÉGIA DE 28 DE JANEIRO DE 1808 - Publicação Original - Portal Câmara dos Deputados" — https://www2.camara.leg.br/legin/fed/carreg_sn/anterioresa1824/cartaregia-35757-28-janeiro-1808-539177-publicacaooriginal-37144-pe.html
+- `downloads/pages/ece470da756a.md` — "Henri Prentout, L'Ile de France sous Decaen , 1803-1810. Essai sur la Politique coloniale du Premier Empire et la rival…" — https://www.persee.fr/doc/rhmc_0996-2743_1901_num_3_1_4388_t1_0064_0000_3
+- `downloads/pages/ee71889de366.md` — "Drafting the Great Army: The Political Economy of Conscription in Napoleonic France | The Journal of Economic History |…" — https://www.cambridge.org/core/journals/journal-of-economic-history/article/drafting-the-great-army-the-political-economy-of-conscription-in-napoleonic-france/FDBA5D70BC85C24186EF7C9767D249BF
+- `downloads/pages/ee9e07ba451b.md` — "1806 - Abstract" — https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_IV/Abstract_No_14.html
+- `downloads/pages/eed9ab647f9a.md` — "Full text of "With Napoleon In Russia The Memoirs Of General De Caulaincourt Duke Of Vicenza"" — https://archive.org/stream/in.ernet.dli.2015.58850/2015.58850.With-Napoleon-In-Russia-The-Memoirs-Of-General-De-Caulaincourt-Duke-Of-Vicenza_djvu.txt
+- `downloads/pages/eed9d8bd2a73.md` — "The Chartist petition of 1842" — https://committees.parliament.uk/committee/326/petitions-committee/news/99148/the-chartist-petition-of-1842/
+- `downloads/pages/ef0538cb3aa9.md` — "DECLARATION OF THE COURT OF GREAT BRITAIN RESPECTING THE ORDERS IN COUNCIL. (Hansard, 24 April 1812)" — https://api.parliament.uk/historic-hansard/lords/1812/apr/24/declaration-of-the-court-of-great
+- `downloads/pages/ef06d5628e76.md` — "2022_1_Nagy" — https://hunghist.org/83-articles/774-2022-1-nagy
+- `downloads/pages/ef0a274dde3a.md` — https://e-archivo.uc3m.es/bitstreams/59818d76-9b1b-435d-80c8-857d7d7efafc/download
+- `downloads/pages/ef6378c5d947.md` — https://repositories.lib.utexas.edu/server/api/core/bitstreams/6929ceec-9158-49b5-a586-eb8c2d2e68b6/content
+- `downloads/pages/efa0bb62bc3b.md` — "Napoleon and the Pope: from the Concordat to the Excommunication - napoleon.org" — https://www.napoleon.org/en/history-of-the-two-empires/articles/napoleon-and-the-pope-from-the-concordat-to-the-excommunication/
+- `downloads/pages/f042c1f13d31.md` — "Correspondance de Napoléon Ier - Mars 1811 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-mars-1811/
+- `downloads/pages/f0bc4536ba86.md` — "An ‘Unpleasant Dilemma’: The Portsmouth Volunteers and the limits of loyalism, 1803-1805" — https://eprints.whiterose.ac.uk/id/eprint/104015/3/The%20Portsmouth%20Volunteers%201803-1805%20article%20v2.pdf
+- `downloads/pages/f0fc864b4685.md` — "1806 | History of Parliament Online" — https://www.historyofparliamentonline.org/volume/1790-1820/parliament/1806
+- `downloads/pages/f12aed68b23e.md` — "Estimates" — https://legacy-aws.slavevoyages.org/assessment/estimates
+- `downloads/pages/f15921073a36.md` — "L’esprit public dans le Sud-Ouest et l’entrée des Anglais à Bordeaux (1814) - Persée" — https://www.persee.fr/doc/rhbg_0242-6838_1914_num_7_4_2946
+- `downloads/pages/f15e3b0f2224.md` — "Royal Military Canal, Warehorne Bridge to Ham Street Bridge, Orlestone - 1005126 | Historic England" — https://historicengland.org.uk/listing/the-list/list-entry/1005126
+- `downloads/pages/f1644e0dd8a2.md` — "Comparaison décennale des budgets de dépenses et de recettes en France depuis 1836" — https://www.numdam.org/item/JSFS_1868__9__306_0.pdf
+- `downloads/pages/f1e37b9d69b9.md` — "La conscription sous le Premier Empire - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/la-conscription-sous-le-premier-empire/
+- `downloads/pages/f20a6abe848b.md` — "Imperial Meridian: The British Empire and the World 1780-1830 - 1st Ed" — https://www.routledge.com/Imperial-Meridian-The-British-Empire-and-the-World-1780-1830/Bayly/p/book/9780582494381
+- `downloads/pages/f27bcba14de3.md` — "History of Dymchurch Martello Tower | English Heritage" — https://www.english-heritage.org.uk/visit/places/dymchurch-martello-tower/history/
+- `downloads/pages/f3c3e5561ee4.md` — "Napoleon’s Equine Strategy in 1813" — https://www.napoleon-series.org/military-info/organization/France/Cavalry/Remounts/c_remounts1813.html
+- `downloads/pages/f4245de1d8af.md` — "Econocide" — https://uncpress.org/9780807899595/econocide/
+- `downloads/pages/f42cec953d4b.md` — "NAVY ESTIMATES. (Hansard, 22 February 1812)" — https://api.parliament.uk/historic-hansard/commons/1812/feb/22/navy-estimates
+- `downloads/pages/f4d2943372ac.md` — "The Costs of “Westernization” in Russia: The Gentry and the Economy in the Eighteenth Century | Slavic Review | Cambrid…" — https://www.cambridge.org/core/journals/slavic-review/article/abs/costs-of-westernization-in-russia-the-gentry-and-the-economy-in-the-eighteenth-century/84A8326FA5F558B3CBEF5C8DDF48F137
+- `downloads/pages/f5489f0cfd06.md` — "L’Acte additionnel aux constitutions de l’Empire. Héritage et cadeau empoisonné de la Restauration - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/lacte-additionnel-aux-constitutions-de-lempire-heritage-et-cadeau-empoisonne-de-la-restauration/
+- `downloads/pages/f56f440eec96.md` — "Nordbahn – Wien Geschichte Wiki" — https://www.geschichtewiki.wien.gv.at/Kaiser-Ferdinands-Nordbahn
+- `downloads/pages/f70462842c06.md` — "Издан указ об обязанных крестьянах | Президентская библиотека имени Б.Н. Ельцина" — https://www.prlib.ru/history/1874457
+- `downloads/pages/f81b516f33c4.md` — "Mes souvenirs sur Napoléon/Texte entier - Wikisource" — https://fr.wikisource.org/wiki/Mes_souvenirs_sur_Napol%C3%A9on/Texte_entier
+- `downloads/pages/f8a4fd8bfe1b.md` — "Chronologie de la Correspondance générale de Napoléon Bonaparte, tome 12 : La campagne de Russie. 1812 - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/chronologies/chronologie-de-la-correspondance-generale-de-napoleon-bonaparte-tome-12-la-campagne-de-russie-1812/
+- `downloads/pages/f8bbb3026c57.md` — "Le blocus continental – Association pour l’Histoire de l’Administration des Douanes" — https://histoire-de-la-douane.org/le-blocus-continental/
+- `downloads/pages/f95185d0f2c6.md` — "В России открыта Царскосельская железная дорога | Президентская библиотека имени Б.Н. Ельцина" — https://www.prlib.ru/history/619711
+- `downloads/pages/f9c908249692.md` — "Full text of " Forests And Sea Power "" — https://archive.org/stream/ForestsAndSeaPower/Forests%20and%20Sea%20Power_djvu.txt
+- `downloads/pages/f9f391a5effc.md` — "Du système des classes à l'inscription maritime - Persée" — https://www.persee.fr/doc/rharm_0035-3299_1982_num_147_2_7111
+- `downloads/pages/f9fa0ab15c1b.md` — "Le « déclin » du système esclavagiste britannique et l'abolition de la traite - Persée" — https://www.persee.fr/doc/ahess_0395-2649_1976_num_31_2_293724
+- `downloads/pages/fb00e45c56a7.md` — "Histoire de France contemporaine - E. Lavisse" — http://www.mediterranee-antique.fr/Auteurs/Fichiers/JKL/Lavisse/Histoire_contemporaine/T3/T3_41.htm
+- `downloads/pages/fb8093480da8.md` — "1812 - la campagne de Russie, préface de Marie-Pierre Rey au vol. 12 de la Correspondance générale de Napoléon Bonapart…" — https://www.napoleon.org/histoire-des-2-empires/articles/1812-la-campagne-de-russie-preface-de-mp-rey-au-tome-12-de-la-correspondance-generale-de-napoleon-bonaparte/
+- `downloads/pages/fc4c533d40d3.md` — "Das Digitalisat wird Ihnen von perspectivia.net, der Online-Publikationsplattform der Max Weber Stiftung – Deutsche Gei…" — https://perspectivia.net/servlets/MCRFileNodeServlet/pnet_derivate_00002421/Grab_Conscription.pdf
+- `downloads/pages/fcbe932bee44.md` — "Napoléon et la finance - Le Consulat et le premier empire" — https://napoleon-histoire.com/la-politique-financiere-sous-le-consulat-et-lempire/
+- `downloads/pages/fcdc56f810a6.md` — "Emancipation - UK Parliament" — https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/religion/overview/emancipation/
+- `downloads/pages/fcff28bd1292.md` — "GARDANE MISSION - Encyclopaedia Iranica" — https://www.iranicaonline.org/articles/gardane-mission/
+- `downloads/pages/fd9e8c2c044d.md` — "Grands traités politiques" — https://mjp.univ-perp.fr/traites/1815sainte.htm
+- `downloads/pages/fdd97c5429ee.md` — "GOLESTĀN TREATY - Encyclopaedia Iranica" — https://www.iranicaonline.org/articles/golestan-treaty
+- `downloads/pages/fee0e3a5a5da.md` — "State of the Army (Hansard, 28 June 1805)" — https://api.parliament.uk/historic-hansard/commons/1805/jun/28/state-of-the-army
+- `downloads/pages/ff15a0e6a320.md` — "Treaty of Friendship and Alliance" — https://www.roots.gov.sg/en/stories-landing/stories/the-singapore-story-through-60-objects/colonial/treaty-of-friendship-and-alliance/story
+
+## Unresolved locators
+
+- (none)

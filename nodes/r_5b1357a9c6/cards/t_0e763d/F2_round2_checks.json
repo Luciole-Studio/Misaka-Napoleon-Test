@@ -1,0 +1,13 @@
+{
+  "regional_rows": 6,
+  "levy_batch_rows": 1,
+  "service_rows": 5,
+  "food_rows": 2,
+  "levy_deadline_ratio": 0.5670823099197225,
+  "hazard_net_per1000": 0.7895652173913046,
+  "fixed_total5_net_per1000": -0.4634193437500005,
+  "fixed_total5_calls_per1000_threshold": 2.262071977875593,
+  "fixed_total5_rho_threshold": 0.6786215933626779,
+  "food_difference_metric_t_day": 250.0,
+  "warning": "Arithmetic checks are not historical calibration."
+}

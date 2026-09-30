@@ -1,0 +1,11 @@
+{
+  "initial_registered_files": 7246,
+  "initial_unique_sha256": 2195,
+  "extra_registered_files": 479,
+  "combined_registered_files": 7725,
+  "combined_unique_sha256": 2612,
+  "root_top_level_files": 251,
+  "saved_new_evidence_files": 19,
+  "excluded": "Git objects, .misaka runtime DB, .office-intent metadata, PageIndex metadata, current revision output",
+  "not_a_read_count": true
+}

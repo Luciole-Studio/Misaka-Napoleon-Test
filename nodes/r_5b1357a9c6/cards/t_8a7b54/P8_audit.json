@@ -1,0 +1,35 @@
+{
+  "upstream_P6_independent_joint": [
+    0.063,
+    0.18
+  ],
+  "upstream_P6_common_factor_joint": [
+    0.3,
+    0.5
+  ],
+  "P8_copula_J": [
+    0.063,
+    0.40399999999999997
+  ],
+  "P8_core_C1815": [
+    0.00378,
+    0.07271999999999999
+  ],
+  "P8_order_O1848": [
+    0.0016783199999999999,
+    0.04443191999999999
+  ],
+  "P8_center_J": 0.221265625,
+  "P8_center_O1848": 0.012700093710937497,
+  "P6_direct_common_order_1848": [
+    0.0081,
+    0.0585
+  ],
+  "P8_mid_in_p6_joint_band": false,
+  "P6_treaty_1848_share_minmax": [
+    0.08,
+    0.3
+  ],
+  "all_conditional_outcomes_between_0_1": true,
+  "notes": "The last global escape cap for A_full is outside the budget-closed model; see text. No data-estimated statistical CI."
+}

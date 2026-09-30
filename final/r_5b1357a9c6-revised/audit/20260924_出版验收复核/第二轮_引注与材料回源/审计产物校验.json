@@ -1,0 +1,31 @@
+{
+  "第二轮复核报告.html": {
+    "ids": 32,
+    "duplicate_ids": 0,
+    "links": 21,
+    "missing_local_targets": [],
+    "visual_verified": false
+  },
+  "当前全部缺陷_逐项证据.html": {
+    "ids": 187,
+    "duplicate_ids": 0,
+    "links": 30,
+    "missing_local_targets": [],
+    "visual_verified": false
+  },
+  "112处正文括注_逐条核定.csv": {
+    "rows": 112
+  },
+  "89处长引号段_逐条核定.csv": {
+    "rows": 89
+  },
+  "新增53处引注缺陷.csv": {
+    "rows": 53
+  },
+  "新增3组材料遗漏.csv": {
+    "rows": 3
+  },
+  "book_unchanged": 37,
+  "current_records_including_withdrawn": 156,
+  "all_corpus_semantically_verified": false
+}

@@ -1,0 +1,387 @@
+# Sources — nodes/r_b55f2c1cf5/cards/t_95ef51 — [t_95ef51] 财政-经济耐力对抗：英国财政极限、法国贡赋帝国极限与封锁经济学
+
+Written by misaka when the products here were settled and rebuilt from scratch each time, so edit nothing in this file or under the sources folder. Each file there is a hard link to where it already lives in the project (a copy only where a hard link was not possible); the originals never move. Cite original project files, not this bundle's disposable sources paths.
+
+## Products
+
+- `build_sensitivity.py` — [t_95ef51] build_sensitivity.py (task_output)
+- `c4_annual_status.csv` — [t_95ef51] c4_annual_status.csv (task_output)
+- `c4_endurance_scenarios.md` — [t_95ef51] c4_endurance_scenarios.md (task_output)
+- `c4_transition_sensitivity.csv` — [t_95ef51] c4_transition_sensitivity.csv (task_output)
+- `c4_unit_sensitivity.csv` — [t_95ef51] c4_unit_sensitivity.csv (task_output)
+- `fr_crisis_checks.md` — [t_95ef51] fr_crisis_checks.md (task_output)
+- `uk_fiscal_checks.md` — [t_95ef51] uk_fiscal_checks.md (task_output)
+
+## Cited sources (under `sources/`)
+
+- `sources/c15_heckscher1922.pdf` ← `downloads/c15_heckscher1922.pdf`
+  - "c15_heckscher1922.pdf"
+  - sha256 1baaae7f3185eb96c40c95891dcd3efbf6da2426bd782d06bc4a3b81e7149a5a
+  - cited as `doc:1baaae7f3185#p379` by [t_95ef51] "Heckscher把危机分为拉美投机回款与信用传导、1811美国贸易限制、大陆口岸关闭等共同机制；其p363明确区分国家信用未崩溃与商人破产。" (interpretation) — "As regards the credit of the state, nothing of the kind occurred."
+- `sources/c15_marzagalli1996.pdf` ← `downloads/c15_marzagalli1996.pdf`
+  - "c15_marzagalli1996.pdf"
+  - sha256 6772f035b6ed208e8b8a1381989e07f85d233963ca30d3bd3022844e2d6c5527
+  - cited as `doc:6772f035b6ed#p6` by [t_95ef51] "Marzagalli转引1810年10月26日报告：利沃诺海关员月薪40法郎，却被提出收200—300法郎放行半小时；这是局部代理激励证据，非全欧走私弹性。" (fact)
+- `sources/c5_sanchez_republicanismo.pdf` ← `downloads/c5_sanchez_republicanismo.pdf`
+  - "c5_sanchez_republicanismo.pdf"
+  - sha256 a803f4e22d9c4bb2d10a8f70f5104fb65c0526fd9ced45bdd6191ffd42e576c7
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c2dbca/spain_evidence.md`
+- `sources/c9_cretet1806.pdf` ← `downloads/c9_cretet1806.pdf`
+  - "c9_cretet1806.pdf"
+  - sha256 748d34adda0c50a0d245b5d1bb1f155bb78d22b835ba4d56b8ffe4ae1a5118a9
+  - cited as `doc:748d34adda0c#p9` by [t_bef693] "Crétet在1806年5月13日演说同时维护股东所有权、国家监督，并称银行不向政府直接贷款但接纳以税收回收为基础的可靠票据。此为公开制度承诺，不自动证明实际独立性。" (fact) — "La Banque par son institution ne sera jamais sollicitée"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+- `sources/pages/004521d1e27f.md` ← `downloads/pages/004521d1e27f.md`
+  - "The Financial Crisis of 1825 and the Restructuring of the British Financial System" — https://doi.org/10.20955/r.80.53-76
+  - sha256 004521d1e27f97f91300965d679e84cd2994c245ba25e1b06e039b33f33643d6
+  - cited by [t_bef693] "英国1816年所得税1460万英镑、近毛收入20%，到1818几乎消失；Neal据此解释战后债息约束上升。20%不是债息/收入比。" (fact) — "nearly 20 percent of its total gross income in 1816 (£14.6 million)"
+  - cited as `https://doi.org/10.20955/r.80.53-76` in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited as `https://doi.org/10.20955/r.80.53-76` in `nodes/r_b55f2c1cf5/cards/t_bef693/uk_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/uk_evidence.md`
+- `sources/pages/01c0c0eb46a8.md` ← `downloads/pages/01c0c0eb46a8.md`
+  - "Britain against Napoleon, by Roger Knight" — https://www.ft.com/content/09dfe7f0-6738-11e3-a5f9-00144feabdc0
+  - sha256 01c0c0eb46a851932dce031152f74936c8cc3eae12cb49276fe65179d1c948ab
+  - cited as `https://www.ft.com/content/09dfe7f0-6738-11e3-a5f9-00144feabdc0` in `nodes/r_b55f2c1cf5/cards/t_95ef51/c4_endurance_scenarios.md`
+  - cited as `https://www.ft.com/content/09dfe7f0-6738-11e3-a5f9-00144feabdc0` in `nodes/r_b55f2c1cf5/cards/t_95ef51/uk_fiscal_checks.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_95ef51/uk_fiscal_checks.md`
+- `sources/pages/0dae11bc01f3.md` ← `downloads/pages/0dae11bc01f3.md`
+  - "The Project Gutenberg eBook of Oeuvres de Napoléon Bonaparte, Tome IV" — https://www.gutenberg.org/files/13192/13192-h/13192-h.htm
+  - sha256 0dae11bc01f3fa32412de3ac9909079e38900ea8914039dd424fba65b36c5241
+  - cited as `https://www.gutenberg.org/files/13192/13192-h/13192-h.htm` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c2dbca/spain_evidence.md`
+  - cited as `https://www.gutenberg.org/files/13192/13192-h/13192-h.htm` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/spain_evidence.md`
+- `sources/pages/25240612f417.md` ← `downloads/pages/25240612f417.md`
+  - "Correspondance de Napoléon Ier - Mai 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-mai-1810/
+  - sha256 25240612f41744297ac2da9e1b1909f0851e49b50ca5e2e54bd9b8c63a0093ef
+  - cited by [t_bef693] "1810年5月9日拿破仑要求把偿债基金票据流通提高到约2000万法郎、适应需要时3000万，7%以上则回收；数值是政策指令，不是已发行观测。" (fact) — "je veux accoutumer la place à connaître les bons"
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-mai-1810/` in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/extraction_evidence.md`
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-mai-1810/` in `nodes/r_b55f2c1cf5/cards/t_bef693/extraction_evidence.md`
+- `sources/pages/254e6c723b4c.md` ← `downloads/pages/254e6c723b4c.md`
+  - "Les crises économiques sous l’Empire. A propos de la crise dite « de 1805 » - Persée" — https://www.persee.fr/doc/ahrf_0003-4436_1970_num_199_1_3895
+  - sha256 254e6c723b4cd87f0891dc71bceef72a5f7a4016f864289b990ea36e4a8364cc
+  - cited as `https://www.persee.fr/doc/ahrf_0003-4436_1970_num_199_1_3895` in `nodes/r_b55f2c1cf5/cards/t_95ef51/c4_endurance_scenarios.md`
+  - cited as `https://www.persee.fr/doc/ahrf_0003-4436_1970_num_199_1_3895` in `nodes/r_b55f2c1cf5/cards/t_95ef51/fr_crisis_checks.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_95ef51/fr_crisis_checks.md`
+- `sources/pages/29727e560586.md` ← `downloads/pages/29727e560586.md`
+  - "STATE OF THE PUBLIC FINANCES. (Hansard, 9 July 1817)" — https://api.parliament.uk/historic-hansard/commons/1817/jul/09/state-of-the-public-finances
+  - sha256 29727e5605863dc8aefdc21e85f59c162e99853d60df5c9f7237392ac9d94744
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1817/jul/09/state-of-the-public-finances` in `nodes/r_b55f2c1cf5/cards/t_95ef51/c4_endurance_scenarios.md`
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1817/jul/09/state-of-the-public-finances` in `nodes/r_b55f2c1cf5/cards/t_95ef51/uk_fiscal_checks.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_95ef51/uk_fiscal_checks.md`
+- `sources/pages/2ad693d5ac13.md` ← `downloads/pages/2ad693d5ac13.md`
+  - "Napoleon and the Transformation of Europe (European History in Perspective)" — https://ndl.ethernet.edu.et/bitstream/123456789/44567/1/2.Alexander%20Grab.pdf
+  - sha256 2ad693d5ac13c9d65f6046695de9b91e2c511c522d0a94dfd9842d4701ba3214
+  - cited by [t_95ef51] "1804—1814被征服地区承担约一半军事费用是Grab的混合负担估计，不是一半法国国库现金收入。定位订正为印pp.26–27 Financial impositions。" (interpretation) — "It is estimated that between 1804 and 1814 the conquered territories paid half of Napoleon’s milita…"
+  - cited by [t_bef693] "Grab的意大利预算约50%用于驻意法军加意大利本国军队，不能当对法上缴率；威斯特伐利亚1812债务140–200百万含继承债务。" (fact)
+  - cited as `https://ndl.ethernet.edu.et/bitstream/123456789/44567/1/2.Alexander%20Grab.pdf` in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited as `https://ndl.ethernet.edu.et/bitstream/123456789/44567/1/2.Alexander%20Grab.pdf` in `nodes/r_b55f2c1cf5/cards/t_bef693/extraction_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/extraction_evidence.md`
+- `sources/pages/2c14f1e0292d.md` ← `downloads/pages/2c14f1e0292d.md`
+  - "El fracaso de la tercera vía. José I y los afrancesados (1808-1813)" — https://www.cervantesvirtual.com/descargaPdf/el-fracaso-de-la-tercera-via-jose-i-y-los-afrancesados-1808-1813-1055902/
+  - sha256 2c14f1e0292d40cbdce5c772a151421c0425f0494940575208193456ca974d79
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c2dbca/spain_evidence.md`
+  - cited as `https://www.cervantesvirtual.com/descargaPdf/el-fracaso-de-la-tercera-via-jose-i-y-los-afrancesados-1808-1813-1055902/` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/spain_evidence.md`
+- `sources/pages/2e17b555b294.md` ← `downloads/pages/2e17b555b294.md`
+  - "Did the war pay for the war? An assessment of napoleon's attempts to make his campaigns self-financing" — https://doi.org/10.3917/napo.083.0001a
+  - sha256 2e17b555b29430c21db6059f973f3a80c409af136528f46b6df0be85ff276ded
+  - cited as `https://doi.org/10.3917/napo.083.0001a` in `nodes/r_b55f2c1cf5/cards/t_95ef51/c4_endurance_scenarios.md`
+  - cited as `https://doi.org/10.3917/napo.083.0001a` in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited as `https://doi.org/10.3917/napo.083.0001a` in `nodes/r_b55f2c1cf5/cards/t_bef693/extraction_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/extraction_evidence.md`
+- `sources/pages/2f4fc6ec5d53.md` ← `downloads/pages/2f4fc6ec5d53.md`
+  - https://researchonline.lse.ac.uk/id/eprint/126278/1/The_Economic_History_Review_-_2025_-_Sissoko_-_Preventing_financial_ruin_How_the_West_India_trade_fostered_creativity_in.pdf
+  - sha256 2f4fc6ec5d5337e6da224c7803cbb5c360753c344475b9103cbc8db45402b8f1
+  - cited in `nodes/r_b55f2c1cf5/cards/t_95ef51/uk_fiscal_checks.md`
+- `sources/pages/3a99c93d0002.md` ← `downloads/pages/3a99c93d0002.md`
+  - "Bicentenaire de l'abolition de la traite négrière" — https://www.archives71.fr/decouvrir/apprendre-et-se-divertir/zooms/zooms-archives/bicentenaire-de-labolition-de-la-traite-negriere
+  - sha256 3a99c93d0002c080e2d743c6aebd50230dbd067146ab263737db2ffe74b23204
+  - cited as `https://www.archives71.fr/decouvrir/apprendre-et-se-divertir/zooms/zooms-archives/bicentenaire-de-labolition-de-la-traite-negriere` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/americas_haiti.md`
+  - cited as `https://www.archives71.fr/decouvrir/apprendre-et-se-divertir/zooms/zooms-archives/bicentenaire-de-labolition-de-la-traite-negriere` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md`
+- `sources/pages/3b8b8e348c6d.md` ← `downloads/pages/3b8b8e348c6d.md`
+  - "COMMERCIAL CREDIT. (Hansard, 11 March 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/mar/11/commercial-credit
+  - sha256 3b8b8e348c6dd9af10bd461366e62efd0f6d96eb2e05fe10cce3f9582c40ba69
+  - cited by [t_95ef51] "1811年商业救助的£6m为提议授权上限，不是已核实际放款；同段£2.2m实放指1793年。" (fact) — "not with the supposition that that sum would be required"
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1811/mar/11/commercial-credit` in `nodes/r_b55f2c1cf5/cards/t_95ef51/c4_endurance_scenarios.md`
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1811/mar/11/commercial-credit` in `nodes/r_b55f2c1cf5/cards/t_95ef51/uk_fiscal_checks.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_95ef51/uk_fiscal_checks.md`
+- `sources/pages/414d9ffcebd4.md` ← `downloads/pages/414d9ffcebd4.md`
+  - "1812, l'année de tous les défis - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/1812-lannee-de-tous-les-defis/
+  - sha256 414d9ffcebd47de8dff85588671225a4c85d3b233c96fda9bda318581992ed83
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/articles/1812-lannee-de-tous-les-defis/` in `nodes/r_b55f2c1cf5/cards/t_95ef51/c4_endurance_scenarios.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_95ef51/fr_crisis_checks.md`
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/articles/1812-lannee-de-tous-les-defis/` in `nodes/r_b55f2c1cf5/cards/t_95ef51/fr_crisis_checks.md`
+- `sources/pages/4ecf038a8410.md` ← `downloads/pages/4ecf038a8410.md`
+  - "Los afrancesados o una cuestión política: los límites del despotismo ilustrado /" — https://www.cervantesvirtual.com/descargaPdf/los-afrancesados-o-una-cuestion-politica-los-limites-del-despotismo-ilustrado-931299/
+  - sha256 4ecf038a841067953d59d3bbc02c20e0c808b2f90cd1e2c811a821efbd580ab1
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c2dbca/spain_evidence.md`
+  - cited as `https://www.cervantesvirtual.com/descargaPdf/los-afrancesados-o-una-cuestion-politica-los-limites-del-despotismo-ilustrado-931299/` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/spain_evidence.md`
+- `sources/pages/50084310930d.md` ← `downloads/pages/50084310930d.md`
+  - "Document > Loi relative à la traite des Noirs et au régime des Colonies, 20 mai 1802/30 floréal an X - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/document-loi-relative-a-la-traite-des-noirs-et-au-regime-des-colonies-20-mai-1802-30-floreal-an-x/
+  - sha256 50084310930d78080b69ab94f816c7ff8d96801c8665197e954a6d80c1151f9f
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/articles/document-loi-relative-a-la-traite-des-noirs-et-au-regime-des-colonies-20-mai-1802-30-floreal-an-x/` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/americas_haiti.md`
+- `sources/pages/523f4560156c.md` ← `downloads/pages/523f4560156c.md`
+  - "Key documents in the history of gold, 1:" — https://www.gold.org/sites/default/files/documents/1810jun8.pdf
+  - sha256 523f4560156c55e6d11df72f32d12965ebd790405c15f54e97f751a58cd40d26
+  - cited as `https://www.gold.org/sites/default/files/documents/1810jun8.pdf` in `nodes/r_b55f2c1cf5/cards/t_95ef51/c4_endurance_scenarios.md`
+  - cited as `https://www.gold.org/sites/default/files/documents/1810jun8.pdf` in `nodes/r_b55f2c1cf5/cards/t_95ef51/uk_fiscal_checks.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_95ef51/uk_fiscal_checks.md`
+- `sources/pages/54a70cc2111c.md` ← `downloads/pages/54a70cc2111c.md`
+  - "La Banque de France, fille du coup d’État de Brumaire et institution majeure des "masses de granit" napoléoniennes - na…" — https://www.napoleon.org/histoire-des-2-empires/articles/la-banque-de-france-une-des-grandes-institutions-napoleoniennes/
+  - sha256 54a70cc2111c87c66190ee40d449d3a0008bdb2042f095b023ec948c9a84eb7e
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/articles/la-banque-de-france-une-des-grandes-institutions-napoleoniennes/` in `nodes/r_b55f2c1cf5/cards/t_95ef51/c4_endurance_scenarios.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_95ef51/fr_crisis_checks.md`
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/articles/la-banque-de-france-une-des-grandes-institutions-napoleoniennes/` in `nodes/r_b55f2c1cf5/cards/t_95ef51/fr_crisis_checks.md`
+- `sources/pages/5ab65f0d1e5e.md` ← `downloads/pages/5ab65f0d1e5e.md`
+  - "Commons Chamber - Hansard - UK Parliament" — https://hansard.parliament.uk/html/Commons/1809-01-20/CommonsChamber
+  - sha256 5ab65f0d1e5e915c6b2cc3305dd4c51a99fb7d111452204d1195d57370da2c88
+  - cited as `https://hansard.parliament.uk/html/Commons/1809-01-20/CommonsChamber` in `nodes/r_b55f2c1cf5/cards/t_95ef51/c4_endurance_scenarios.md`
+- `sources/pages/5feaa9142411.md` ← `downloads/pages/5feaa9142411.md`
+  - "H-France Review Volume 19 (2019) Page 1" — https://h-france.net/vol19reviews/vol19no37todorov.pdf
+  - sha256 5feaa91424110f7bc540b6d1b2667f1669ece17c024e260c80579cc199ff4fbd
+  - cited by [t_bef693] "Todorov认为威斯特伐利亚行政在军事威胁下继续工作，终局系莱比锡后正规军占领；财政压力不能直接等号为自发政治崩溃。" (interpretation) — "Westphalia was simply occupied by the regular forces of the Sixth Coalition victorious at Leipzig."
+  - cited as `https://h-france.net/vol19reviews/vol19no37todorov.pdf` in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+- `sources/pages/63d42a1442bd.md` ← `downloads/pages/63d42a1442bd.md`
+  - "Hemos visto con sumo dolor y espanto las Reales Gracias que se concedieron a la Caxa de Consolidación de Vales Reales y…" — https://carlosmarichal.colmex.mx/finanzas-coloniales/Comercio%20neutral%202000.pdf
+  - sha256 63d42a1442bd9913e34a39543afccadaa5da58a08f108e0e81f1c796679562b2
+  - cited by [t_c2dbca] "Marichal的Hope–Baring机制依赖中立船运、本地商人和财政付款凭证，不能将商品收益或出口总银等同法国财政净收入。" (fact)
+  - cited as `https://carlosmarichal.colmex.mx/finanzas-coloniales/Comercio%20neutral%202000.pdf` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/britain_silver.md`
+  - cited as `https://carlosmarichal.colmex.mx/finanzas-coloniales/Comercio%20neutral%202000.pdf` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+- `sources/pages/660eeecd2885.md` ← `downloads/pages/660eeecd2885.md`
+  - "Working Papers" — https://www.nber.org/system/files/working_papers/w3517/w3517.pdf
+  - sha256 660eeecd28858b0fb33b84b83a7afdd57d4db77b6afb3fb4a8f9b08e5a81512a
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/uk_evidence.md`
+- `sources/pages/70cc6a857e5f.md` ← `downloads/pages/70cc6a857e5f.md`
+  - "Carnegie Endowment for International Peace" — https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/327/0142_Bk.pdf
+  - sha256 70cc6a857e5f3c1617deab203e0e6115719e6d3e6ec4380ed81969691d5a08a2
+  - cited as `https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/327/0142_Bk.pdf` in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+- `sources/pages/7409d7aca2ed.md` ← `downloads/pages/7409d7aca2ed.md`
+  - "300 years of UK public finance data" — https://obr.uk/docs/dlm_uploads/300-Years-of-public-finances-Accessible-PDF.pdf
+  - sha256 7409d7aca2ed75f74ac50ec203c87b4d4ac7f5b7ce36c70a1e86c0f775b3357d
+  - cited in `nodes/r_b55f2c1cf5/cards/t_95ef51/uk_fiscal_checks.md`
+- `sources/pages/747bf6067487.md` ← `downloads/pages/747bf6067487.md`
+  - "Document commenté > Lettre du 23 mars 1808 de Napoléon à Murat (Vol.8 de la Correspondance de Napoléon) - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/lettre-du-23-mars-1808-de-napoleon-a-murat-commentee-par-gabriel-madec-vol-8-de-la-correspondance-de-napoleon/
+  - sha256 747bf6067487d17c826534ac2b7597c0553e0e1e94ee10c1b22bd96f653a28c5
+  - cited by [t_c2dbca] "Madec在CG8 n°17462评注中指出3月29日信为伪造；3月23日真信允许宫廷暂留，但不承诺王朝保全。" (fact) — "la première partie de cette lettre détruit à elle seule la fabrique de celle du 29 mars"
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/articles/lettre-du-23-mars-1808-de-napoleon-a-murat-commentee-par-gabriel-madec-vol-8-de-la-correspondance-de-napoleon/` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c2dbca/spain_evidence.md`
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/articles/lettre-du-23-mars-1808-de-napoleon-a-murat-commentee-par-gabriel-madec-vol-8-de-la-correspondance-de-napoleon/` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/spain_evidence.md`
+- `sources/pages/79cc75c4db73.md` ← `downloads/pages/79cc75c4db73.md`
+  - "At Spes non Fracta: Hope & Co. 1770–1815 | Springer Nature Link" — https://link.springer.com/book/10.1007/978-94-011-8858-6
+  - sha256 79cc75c4db7335f0168d065c4af86b8ea7bbfaee6f1b8603202b49a286eb8544
+  - cited as `https://link.springer.com/book/10.1007/978-94-011-8858-6` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/britain_silver.md`
+- `sources/pages/82a063e7e022.md` ← `downloads/pages/82a063e7e022.md`
+  - "Correspondance de Napoléon Ier - Juillet 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1810/
+  - sha256 82a063e7e0221d78d69d1eaa4e348fe3782bcaf8797b246e69bf3f68c17ae89b
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1810/` in `nodes/r_b55f2c1cf5/cards/t_95ef51/c4_endurance_scenarios.md`
+- `sources/pages/89b34afbf59a.md` ← `downloads/pages/89b34afbf59a.md`
+  - "Wellington: The Path to Victory 1769-1814; Waterloo and the Fortunes of Peace 1814–1852 » Chapter 14 : Dublin and Westm…" — https://lifeofwellington.co.uk/commentary/chapter-fourteen-dublin-and-westminster-october-1807-july-1808/
+  - sha256 89b34afbf59a479989671d6c51ca3c646a76a5c3077bb241b1732744a4451a3c
+  - cited by [t_c2dbca] "1808英国美洲远征先欧洲优先、美洲后备，再6月30日暂扣美洲指令；阿兰胡埃斯本身也促进美洲方案批准，因此无半岛战争的净影响不确定。" (fact) — "for the present to withhold any Instructions about S. America"
+  - cited as `https://lifeofwellington.co.uk/commentary/chapter-fourteen-dublin-and-westminster-october-1807-july-1808/` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/britain_silver.md`
+  - cited as `https://lifeofwellington.co.uk/commentary/chapter-fourteen-dublin-and-westminster-october-1807-july-1808/` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md`
+- `sources/pages/8fc405d01860.md` ← `downloads/pages/8fc405d01860.md`
+  - "Gallica | Vérification de sécurité" — https://gallica.bnf.fr/ark:/12148/bpt6k445364n/f179.texteBrut
+  - sha256 8fc405d01860e653b19dcc8caeaa682c8078a0612f112e1fa2955d586781ab9d
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+- `sources/pages/906d4b3f363b.md` ← `downloads/pages/906d4b3f363b.md`
+  - "Napoleon's War Financing Strategies | PDF | First French Empire | Napoleon" — https://www.scribd.com/document/903628600/Napoleons-Attempts-to-Make-His-Campaigns-Self-Financing
+  - sha256 906d4b3f363bb4e1929e8bcffbe95d6c61e54333f8d47dc14155c411b25622f6
+  - cited by [t_bef693] "Branda总表中战争自筹1799/4284百万法郎约42%，分母为1803–1814战争额外融资；并非全部军费，也非外国现金净汇入。源内807/809及352/383等差异未获影像对校。" (fact)
+  - cited as `https://www.scribd.com/document/903628600/Napoleons-Attempts-to-Make-His-Campaigns-Self-Financing` in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited as `https://www.scribd.com/document/903628600/Napoleons-Attempts-to-Make-His-Campaigns-Self-Financing` in `nodes/r_b55f2c1cf5/cards/t_bef693/extraction_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/extraction_evidence.md`
+- `sources/pages/930b69bc0c92.md` ← `downloads/pages/930b69bc0c92.md`
+  - "LA IMAGEN DE LA INDEPENDENCIA DE MÉXICO EN FRANCIA. VIAJES, INTERESES CIENTÍFICOS Y ECONÓMICOS" — https://dialnet.unirioja.es/descarga/articulo/3851032.pdf
+  - sha256 930b69bc0c92dcc92ec983fcfd2a6c492e8aada1cd1252899ac8d83cc43982de
+  - cited as `https://dialnet.unirioja.es/descarga/articulo/3851032.pdf` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/americas_haiti.md`
+  - cited as `https://dialnet.unirioja.es/descarga/articulo/3851032.pdf` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md`
+- `sources/pages/95e29ff1c015.md` ← `downloads/pages/95e29ff1c015.md`
+  - "ECONOMY AND RETRENCHMENT. (Hansard, 27 June 1821)" — https://api.parliament.uk/historic-hansard/commons/1821/jun/27/economy-and-retrenchment
+  - sha256 95e29ff1c015469cc23d6aab6c8fbadcaef82c5a24885fc99f3062ce01a2ff65
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1821/jun/27/economy-and-retrenchment` in `nodes/r_b55f2c1cf5/cards/t_95ef51/c4_endurance_scenarios.md`
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1821/jun/27/economy-and-retrenchment` in `nodes/r_b55f2c1cf5/cards/t_95ef51/uk_fiscal_checks.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_95ef51/uk_fiscal_checks.md`
+- `sources/pages/96c955fe0f59.md` ← `downloads/pages/96c955fe0f59.md`
+  - "THE INDEPENDENCE OF SPANISH AMERICA" — https://api.pageplace.de/preview/DT0400.9781316047620_A25932791/preview-9781316047620_A25932791.pdf
+  - sha256 96c955fe0f5910aa1e2eee40163f9c7b14ddb307e810db5733054cf2194e0e69
+  - cited as `https://api.pageplace.de/preview/DT0400.9781316047620_A25932791/preview-9781316047620_A25932791.pdf` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/americas_haiti.md`
+- `sources/pages/9bf50fa4aabd.md` ← `downloads/pages/9bf50fa4aabd.md`
+  - "France and Latin-American independence. -- : Robertson, William Spence, 1872- : Free Download, Borrow, and Streaming : …" — https://archive.org/details/francelatinameri0000robe
+  - sha256 9bf50fa4aabdf67312684eb105ef25b2d9a3d90a7b6c955265c149cd5ea05212
+  - cited as `https://archive.org/details/francelatinameri0000robe` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/americas_haiti.md`
+- `sources/pages/a1727377ccf1.md` ← `downloads/pages/a1727377ccf1.md`
+  - "Décret impérial abolissant la traite des Noirs" — https://fr.wikipedia.org/wiki/D%C3%A9cret_imp%C3%A9rial_abolissant_la_traite_des_Noirs
+  - sha256 a1727377ccf10f9f8f67ab9d91933bf1fdb4ce48f4db97c051daa4736c78e842
+  - cited as `https://fr.wikipedia.org/wiki/D%C3%A9cret_imp%C3%A9rial_abolissant_la_traite_des_Noirs` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/americas_haiti.md`
+  - cited as `https://fr.wikipedia.org/wiki/D%C3%A9cret_imp%C3%A9rial_abolissant_la_traite_des_Noirs` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md`
+- `sources/pages/a2034fc310ff.md` ← `downloads/pages/a2034fc310ff.md`
+  - "Danger to the Old Lady of Threadneedle Street? The Bank Restriction Act and the regime shift to paper money, 1797-1821" — https://ehes.org/wp/EHES_100.pdf
+  - sha256 a2034fc310ff21d98c7e034bd0e13459c54988f024cf99d33310336bb8bff9cc
+  - cited as `https://ehes.org/wp/EHES_100.pdf` in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited as `https://ehes.org/wp/EHES_100.pdf` in `nodes/r_b55f2c1cf5/cards/t_bef693/uk_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/uk_evidence.md`
+- `sources/pages/bb07a813031b.md` ← `downloads/pages/bb07a813031b.md`
+  - "The Political Economy of British Taxation, 1660-1815" — http://slantchev.ucsd.edu/courses/ps143a/readings/O'Brien%20-%20Political%20Economy%20of%20British%20Taxation,%201660-1815.pdf
+  - sha256 bb07a813031b00d19bf2cd12f1b6555ef5bc2d788829abd93f26db5b8591ad5d
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/uk_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_95ef51/uk_fiscal_checks.md`
+- `sources/pages/bd468bca9f3d.md` ← `downloads/pages/bd468bca9f3d.md`
+  - "Ressources - Dossier Napoléon et le rétablissement de l'esclavage | Fondation pour la memoire de l'esclavage" — https://memoire-esclavage.org/napoleon-et-le-retablissement-de-lesclavage/ressources-dossier-napoleon-et-le-retablissement-de
+  - sha256 bd468bca9f3d9d0cdf6f6e1679e56615a86fe95d4c03353ed4ba94a54a2de218
+  - cited by [t_c2dbca] "1802年6月14日秘密指示明确圣多明各复奴意图；1815年3月29日禁贩令不是废除奴隶身份，例外条款仍待官刊影像对校。" (fact) — "les faire rentrer dans leur condition originelle"
+  - cited as `https://memoire-esclavage.org/napoleon-et-le-retablissement-de-lesclavage/ressources-dossier-napoleon-et-le-retablissement-de` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/americas_haiti.md`
+  - cited as `https://memoire-esclavage.org/napoleon-et-le-retablissement-de-lesclavage/ressources-dossier-napoleon-et-le-retablissement-de` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md`
+- `sources/pages/bfe5e416b5e6.md` ← `downloads/pages/bfe5e416b5e6.md`
+  - "Législation sur les Majorats (1808-1905)" — https://heraldica.org/topics/france/majoratstexts.htm
+  - sha256 bfe5e416b5e6a63fed5fd75aa4401ca5cb455ca5dd5b673b80a408c2f6524802
+  - cited as `https://heraldica.org/topics/france/majoratstexts.htm` in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+- `sources/pages/bff7e2ccf088.md` ← `downloads/pages/bff7e2ccf088.md`
+  - "THE BUDGET. (Hansard, 20 May 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/may/20/the-budget
+  - sha256 bff7e2ccf088b5a39a2e060390aadfecf2a4f4cc11d8d568c4f6a01f845ae21b
+  - cited by [t_95ef51] "1811年5月20日英国预算辩论记录£7.5m新贷款及利息/偿债基金/管理费，商业危机并未在该时点消灭政府融资渠道。" (fact) — "By the loan of 7,500,000l. for which he had that morning contracted"
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1811/may/20/the-budget` in `nodes/r_b55f2c1cf5/cards/t_95ef51/c4_endurance_scenarios.md`
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1811/may/20/the-budget` in `nodes/r_b55f2c1cf5/cards/t_95ef51/uk_fiscal_checks.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_95ef51/uk_fiscal_checks.md`
+- `sources/pages/c312aa1f7e07.md` ← `downloads/pages/c312aa1f7e07.md`
+  - "François-Xavier Guerra" — https://cristoraul.org/SPANISH/sala-de-lectura/BIBLIOTECATERCERMILENIO/HISTORIA-MODERNA/pdf/GFX-Modernidad-e-independencias.pdf
+  - sha256 c312aa1f7e07854c71cce3441d96c076883cf2730dacb68f4a225881f11d84f0
+  - cited as `https://cristoraul.org/SPANISH/sala-de-lectura/BIBLIOTECATERCERMILENIO/HISTORIA-MODERNA/pdf/GFX-Modernidad-e-independencias.pdf` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/americas_haiti.md`
+- `sources/pages/c4958dabd602.md` ← `downloads/pages/c4958dabd602.md`
+  - "Estatuto de Bayona de 1808" — https://www.ugr.es/~rorza/1808.htm
+  - sha256 c4958dabd6024b5d0f8058bf0fbcca1c5b703e93925b4415ab094db517011cf4
+  - cited as `https://www.ugr.es/~rorza/1808.htm` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c2dbca/spain_evidence.md`
+  - cited as `https://www.ugr.es/~rorza/1808.htm` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/spain_evidence.md`
+- `sources/pages/cf02c798c3f0.md` ← `downloads/pages/cf02c798c3f0.md`
+  - "Monetary and Fiscal Policy in England during the French Wars (1793-1821)" — https://people.bu.edu/chamley/Ec365-17/UKFR.pdf
+  - sha256 cf02c798c3f018a8d6e11b788ef049041775be2dcd26fd260297bc9612e50ffa
+  - cited as `https://people.bu.edu/chamley/Ec365-17/UKFR.pdf` in `nodes/r_b55f2c1cf5/cards/t_95ef51/c4_endurance_scenarios.md`
+  - cited as `https://people.bu.edu/chamley/Ec365-17/UKFR.pdf` in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited as `https://people.bu.edu/chamley/Ec365-17/UKFR.pdf` in `nodes/r_b55f2c1cf5/cards/t_bef693/uk_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/uk_evidence.md`
+- `sources/pages/cfd2c9f1cdc0.md` ← `downloads/pages/cfd2c9f1cdc0.md`
+  - "The London Gazette" — https://www.thegazette.co.uk/London/issue/16100/data.pdf
+  - sha256 cfd2c9f1cdc0bba5e4a643b7bd50e06e2d90b776ffc90a058aa206bb342ff390
+  - cited as `https://www.thegazette.co.uk/London/issue/16100/data.pdf` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/britain_silver.md`
+  - cited as `https://www.thegazette.co.uk/London/issue/16100/data.pdf` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md`
+- `sources/pages/d202853ddf21.md` ← `downloads/pages/d202853ddf21.md`
+  - "A Tale of Two Currencies: British and French Finance During the Napoleonic Wars | The Journal of Economic History | Cam…" — https://www.cambridge.org/core/journals/journal-of-economic-history/article/abs/tale-of-two-currencies-british-and-french-finance-during-the-napoleonic-wars/624B6F6E3DE532ECBF957E716A749BEE
+  - sha256 d202853ddf216a2deb73815e2352177e511b8a73ffcc1117062395ee3db06172
+  - cited as `https://www.cambridge.org/core/journals/journal-of-economic-history/article/abs/tale-of-two-currencies-british-and-french-finance-during-the-napoleonic-wars/624B6F6E3DE532ECBF957E716A749BEE` in `nodes/r_b55f2c1cf5/cards/t_bef693/uk_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/uk_evidence.md`
+- `sources/pages/d9e5073e7c97.md` ← `downloads/pages/d9e5073e7c97.md`
+  - "Constitución de Bayona de 6 de julio de 1808 | Biblioteca Virtual Miguel de Cervantes" — https://www.cervantesvirtual.com/obra-visor/constitucion-de-bayona-6-de-julio-1808/html/437fe325-fb92-48b7-a963-a36d6a8fd6af_2.html
+  - sha256 d9e5073e7c977bdb27f5bb1ebd64a7a85cabb97c93719e6f6c14af5a4c617adf
+  - cited by [t_c2dbca] "1808宪章第145条将出版自由置于宪章全面实施后两年，第45条排除报刊于保护程序之外。" (fact) — "Los papeles periódicos no se comprenderán en la disposición de este artículo."
+  - cited as `https://www.cervantesvirtual.com/obra-visor/constitucion-de-bayona-6-de-julio-1808/html/437fe325-fb92-48b7-a963-a36d6a8fd6af_2.html` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c2dbca/spain_evidence.md`
+  - cited as `https://www.cervantesvirtual.com/obra-visor/constitucion-de-bayona-6-de-julio-1808/html/437fe325-fb92-48b7-a963-a36d6a8fd6af_2.html` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/spain_evidence.md`
+- `sources/pages/de8da74a2316.md` ← `downloads/pages/de8da74a2316.md`
+  - "Les donataires de Napoléon - Persée" — https://www.persee.fr/doc/rhmc_0048-8003_1970_num_17_3_2102
+  - sha256 de8da74a23168ba0b3488953b989ed2c192ca5df2181c3447a535c1f9d4cdacf
+  - cited by [t_bef693] "Senkowska-Gluck记录1810年3月3日法令要求境外封赏地产尽早出售，半数20年内、余半随后20年内，所得投入帝国内地产或rentes。" (fact) — "la moitié des biens dans un délai de vingt ans et l'autre moitié dans les vingt années suivantes"
+  - cited by [t_bef693] "Senkowska-Gluck p.690住宅购置扣留收入条款未生效；该叙述不得扩大为境外资产转换全部未执行。p.693称整个赠产体系未完成、未充分发展即崩溃。" (fact) — "s’est écroulé avant d’avoir été parachevé, avant d’avoir atteint son plein développement"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+- `sources/pages/df27e5314cf3.md` ← `downloads/pages/df27e5314cf3.md`
+  - "Correspondance de Napoléon Ier - Janvier-Février-Mars 1810 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-janvier-fevrier-mars-1810/
+  - sha256 df27e5314cf3e9d5dc634cbc9fa9e056665b790021c65866b3a483a07fd0efb9
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-janvier-fevrier-mars-1810/` in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+- `sources/pages/df8591563743.md` ← `downloads/pages/df8591563743.md`
+  - "The World the Bureaucrats Made - Iron Kingdom: The Rise and Downfall of Prussia, 1600-1947" — https://erenow.org/modern/iron-kingdom/12.php
+  - sha256 df859156374311879495dc3f6a646c84dd598b2d9cc2ea462bba1566c0c90f7e
+  - cited as `https://erenow.org/modern/iron-kingdom/12.php` in `nodes/r_b55f2c1cf5/cards/t_bef693/extraction_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/extraction_evidence.md`
+- `sources/pages/e4f61139af7d.md` ← `downloads/pages/e4f61139af7d.md`
+  - "Le financement des guerres napoléoniennes et la conjoncture du Premier Empire - Persée" — https://www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987
+  - sha256 e4f61139af7de193a3c1f2f614a94b75e82cb203b0a9dadf43d96421335778d2
+  - cited as `https://www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987` in `nodes/r_b55f2c1cf5/cards/t_95ef51/c4_endurance_scenarios.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_95ef51/fr_crisis_checks.md`
+  - cited as `https://www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987` in `nodes/r_b55f2c1cf5/cards/t_95ef51/fr_crisis_checks.md`
+  - cited as `https://www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987` in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - cited as `https://www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987` in `nodes/r_b55f2c1cf5/cards/t_bef693/extraction_evidence.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/extraction_evidence.md`
+- `sources/pages/e5b32951df65.md` ← `downloads/pages/e5b32951df65.md`
+  - "Crouzet (François). L'économie britannique et le blocus continental (1806- 1813). - Persée" — https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2
+  - sha256 e5b32951df65af85fa89a555ec74437a5be6a7cc2c23e01905f838c7f6a71116
+  - cited as `https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2` in `nodes/r_b55f2c1cf5/cards/t_95ef51/c4_endurance_scenarios.md`
+  - cited as `https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2` in `nodes/r_b55f2c1cf5/cards/t_95ef51/uk_fiscal_checks.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_95ef51/uk_fiscal_checks.md`
+- `sources/pages/eb1b1261f698.md` ← `downloads/pages/eb1b1261f698.md`
+  - "Una visión global sobre el republicanismo en Asturias durante el siglo XIX | Historia Contemporánea" — https://doi.org/10.1387/hc.2736
+  - sha256 eb1b1261f698309027b8dc105268be19cd7132f5b6871283cc012f828a0bf948
+  - cited as `https://doi.org/10.1387/hc.2736` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md`
+  - cited as `https://doi.org/10.1387/hc.2736` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/spain_evidence.md`
+- `sources/pages/ef23236c1624.md` ← `downloads/pages/ef23236c1624.md`
+  - "Guerre et commerce : l'activité du port de Bordeaux sous le régime des licences, 1808-1815 - Persée" — https://www.persee.fr/doc/rhmc_0048-8003_1972_num_19_1_2186
+  - sha256 ef23236c1624eb908202df9173bf3dc2a8ae8f2a4f2793ae0ef1d7218116948b
+  - cited as `https://www.persee.fr/doc/rhmc_0048-8003_1972_num_19_1_2186` in `nodes/r_b55f2c1cf5/cards/t_95ef51/c4_endurance_scenarios.md`
+- `sources/pages/f7bb507dd0d0.md` ← `downloads/pages/f7bb507dd0d0.md`
+  - "Constituci�n de 1812" — https://www.ugr.es/~rorza/1812.htm
+  - sha256 f7bb507dd0d0e28d5afb55d9f50f890bc7cf254d077389cf6c737cdbd3f885bc
+  - cited as `https://www.ugr.es/~rorza/1812.htm` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_c2dbca/spain_evidence.md`
+  - cited as `https://www.ugr.es/~rorza/1812.htm` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/spain_evidence.md`
+- `sources/pages/faaeb1cd5084.md` ← `downloads/pages/faaeb1cd5084.md`
+  - "An Age of Imperial Revolutions" — https://academic.oup.com/ahr/article-pdf/113/2/319/44896/113-2-319.pdf
+  - sha256 faaeb1cd5084fdffe92473c8290eadac2a149d65f809701d6eb5d5806c657f60
+  - cited as `https://academic.oup.com/ahr/article-pdf/113/2/319/44896/113-2-319.pdf` in `nodes/r_b55f2c1cf5/cards/t_c2dbca/americas_haiti.md`
+- `sources/t_bef693/c9_war_finance.md` ← `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+  - "[t_bef693] nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md"
+  - sha256 2a28f78dbb676353ba21768bf6816d7a719c53f74fee154661740c358c96da92
+  - cited in `nodes/r_b55f2c1cf5/cards/t_95ef51/fr_crisis_checks.md`
+  - cited by [t_bef693] "和平同时削减外部战争资源和军费；因而贡赋下降不能单独证明法国和平破产。现有文书显示局部转型工具但不足证实一揽子和平预算。" (inference)
+- `sources/t_bef693/uk_evidence.md` ← `nodes/r_b55f2c1cf5/cards/t_bef693/uk_evidence.md`
+  - "[t_bef693] nodes/r_b55f2c1cf5/cards/t_bef693/uk_evidence.md"
+  - sha256 0f7869a52ee92f693a5836a6fb06ad53a53d15ec800cff906cda22d8f37b0286
+  - cited in `nodes/r_b55f2c1cf5/cards/t_95ef51/uk_fiscal_checks.md`
+- `sources/t_c2dbca/britain_silver.md` ← `nodes/r_b55f2c1cf5/cards/t_c2dbca/britain_silver.md`
+  - "[t_c2dbca] nodes/r_b55f2c1cf5/cards/t_c2dbca/britain_silver.md"
+  - sha256 24f575ca58670d759ff593c64fca0921ccc66bdf5eb6fb299ef51b6b334b02dc
+  - cited in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`
+- `sources/t_c2dbca/c5_iberia_americas.md` ← `nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md`
+  - "[t_c2dbca] nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md"
+  - sha256 d35962a15e069889c423c11cb5bca9da8f2c77551e4f28408520958ec583211a
+  - cited by [t_c2dbca] "不废立须操作化为国王自由有效执政及授权可信，不能仅保留王号；Rodríguez O./Guerra/Adelman并非政治偶然论与经济必然论两极。" (interpretation)
+
+## Cited, already in this folder
+
+- `c4_endurance_scenarios.md`
+  - cited by [t_95ef51] "和平使法国同时失去外部收入并节省部分支出；局部会计敏感性无法替代未知的净贡赋、缩编和融资参数，不能输出谁先崩溃年。" (inference)
+
+## Consulted but not cited (left where they are)
+
+- `downloads/pages/4a561b849898.md` — "Gallica | Vérification de sécurité" — https://gallica.bnf.fr/ark:/12148/bpt6k5403901d.texteBrut
+- `downloads/pages/770bd4b6c5cb.md` — "Les donataires de Napoléon - Persée" — https://www.persee.fr/doc/rhmc_0048-8003_1970_num_17_3_2102
+- `downloads/pages/8f32cf6e5188.md` — "VOTE OF CREDIT. (Hansard, 5 June 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/jun/05/vote-of-credit
+- `downloads/pages/eb764a6bc71a.md` — "Correspondance de Napoléon – Janvier 1812" — https://napoleon-histoire.com/correspondance-de-napoleon-janvier-1812/
+- `downloads/pages/f9d07ee28c63.md` — "Pierre Branda : Napoléon et l'argent (2007) - napoleon.org" — https://www.napoleon.org/magazine/interviews/pierre-branda-napoleon-et-largent-2007/
+
+## Unresolved locators
+
+- `https://api.parliament.uk/historic-hansard/commons/1811/jun/05/vote-of-credit` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_95ef51/c4_endurance_scenarios.md`)
+- `https://gallica.bnf.fr/ark:/12148/bpt6k445364n` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`)
+- `https://doi.org/10.2307/978836` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_c2dbca/americas_haiti.md`)
+- `https://recherche-anom.culture.gouv.fr/ark:/61561/ni258bvzzc` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_c2dbca/americas_haiti.md`)
+- `downloads/c5_sanchez_republicanismo.pdf，doc` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md`)
+- `https://doi.org/10.2307/978836` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md`)
+- `https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1994&context=ypfs-documents2` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`)
+- `https://www.persee.fr/doc/rhmc_0048-8003_1970_num_17_3_2102` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`)
+- `http://slantchev.ucsd.edu/courses/ps143a/readings/O` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`)
+- `https://shs.cairn.info/revue-napoleonica-la-revue-2008-3-page-1a?lang=en` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_bef693/extraction_evidence.md`)
+- `http://slantchev.ucsd.edu/courses/ps143a/readings/O` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_bef693/uk_evidence.md`)
+- `http://slantchev.ucsd.edu/courses/ps143a/readings/O` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_95ef51/uk_fiscal_checks.md`)

@@ -1,0 +1,72 @@
+---
+source_url: "https://danmarkshistorien.lex.dk/Statsbankerotten_1813"
+final_url: "https://danmarkshistorien.lex.dk/Statsbankerotten_1813"
+provider: "exa"
+text_sha256: "9c9ac62d86bcc842f18b38dfe4bd1d4b42b6959fb4e9a8182c6ba19578162f37"
+title: "Statsbankerotten 1813 \u2013 Danmarkshistorien | Lex"
+content_kind: "page_text"
+---
+
+Statsbankerotten 1813 – Danmarkshistorien | Lex
+
+## Skrevet af 
+
+- Steen Busck 
+
+ 
+
+ Nødpengesedler fra Tønder, 1812. Statsbankerotten 1813 Af Ukendt/Rigsarkivet . Licens: Begrænset anvendelse 
+
+Den danske stat gennemførte i januar 1813 en pengereform, som blandt liberalister siden blev kaldt 'statsbankerotten', selvom der faktisk ikke var tale om en erklæret fallit med standsning af alle betalinger og eliminering af kreditorernes fordringer.
+
+## Faktaboks
+
+ Tidsafgrænsning 
+
+ 1807 -1818 
+
+## Optakt 
+
+Under krigen mod England (1807-14), der var del af Napoleonskrigene, lod staten fra 1807 seddelpressen køre for at skaffe midler til krigsførelsen, hvad der førte til en ukontrollabel inflation. Datidens mønt var rigsdaleren, og sedlerne var de såkaldte kurantdalere, som udstedtes af landets eneste bank, den statsejede kurantbank. I 1813 var seddelmængden blevet alt for stor, og kurantdalerens kurs var faldet til kun 6 % af dens pålydende værdi i sølv. Situationen var uholdbar.
+
+## Pengereformen 
+
+ 
+
+ Fotografi af en hovedbog for inddrivelse af den såkaldte seksprocentsskat - her for Svendborg købsstad 1812. Skatten skulle finansiere indførelsen af den nye rigsbankdaler i 1813. Statsbankerotten 1813 Af Ukendt/Rigsarkivet . Licens: Begrænset anvendelse 
+
+Pengereformen, som skulle genoprette tilliden til pengene, bestod i, at staten oprettede en ny bank, Rigsbanken, der udstedte en ny valuta, rigsbankdaleren, som over en årrække skulle erstatte kurantdaleren, idet samtlige verserende kurantdalersedler skulle opkøbes i forholdet 6 for 1 rigsbankdaler. Der måtte aldrig udstedes mere end sammenlagt 46 millioner rigsbankdalere, og disse skulle for eftertiden altid kunne indløses i sølv. Til dette formål skulle Rigsbanken forsynes med en stor sølvbeholdning, som blev tilvejebragt ved en skat på 6 % af værdien af al fast ejendom, som skulle betales i sølv enten straks eller stå som en første prioritet i ejendommen mod en forrentning på 6½ pro anno.
+
+## Reformens konsekvenser 
+
+ 
+
+ Fotografi af en 50-Rigsbankdaler gyldig i Danmark-Norge. Pengesedlen er fra 1814. Statsbankerotten 1813 Af Ukendt/Den Danske og Norske Speciebank, Filiale Christiania. Licens: Materialet er fri af ophavsret 
+
+Reformen virkede ikke straks efter hensigten. Staten brugte af sølvfonden til den fortsatte krigsførelse og efter krigens afslutning i 1814 til kompensation for indtægterne af Norge, som gik tabt ved freden i Kiel. Rigsbanken kunne derfor ikke leve op til indløseligheden, hvorfor også rigsbankdalerens kurs dalede. Ikke desto mindre fastholdtes reformens vigtigste principper frem til oprettelsen af Nationalbanken i 1818, rigets første moderne private centralbank. Pengereformen 1813 har været vurderet højst forskelligt af eftertiden.
+
+## Videre læsning 
+
+- Feldbæk, Ole: Danmarks økonomiske historie 1500-1840 (1993).
+- Svendsen, Knud Erik m.fl.: Dansk Pengehistorie bd.1 (1968).
+
+ Skrevet af: 
+: - Steen Busck
+ Artiklen indeholder tekst fra: 
+: - Danmarkshistorien
+ Senest ændret: 
+: 4. september 2025, se alle ændringer
+ VILKÅR FOR GENBRUG: 
+: begrænset genbrug
+
+## Kommentarer 
+
+ Kommentarer til artiklen bliver synlige for alle. Undlad at skrive følsomme oplysninger, for eksempel sundhedsoplysninger. Fagansvarlig eller redaktør svarer, når de kan. 
+
+## Adresse og kontakt
+
+Wildersgade 41A 1408 København K
+
+Tel +45 20203620
+
+info@lex.dk

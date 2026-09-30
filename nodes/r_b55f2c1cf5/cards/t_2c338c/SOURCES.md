@@ -1,0 +1,208 @@
+# Sources — nodes/r_b55f2c1cf5/cards/t_2c338c — [t_2c338c] 入侵英国作战案 1803–1805 深潜：布洛涅体系、海峡制海权组合与登陆后战局
+
+Written by misaka when the products here were settled and rebuilt from scratch each time, so edit nothing in this file or under the sources folder. Each file there is a hard link to where it already lives in the project (a copy only where a hard link was not possible); the originals never move. Cite original project files, not this bundle's disposable sources paths.
+
+## Products
+
+- `britdef.md` — [t_2c338c] britdef.md (task_output)
+- `c11_invasion_england.md` — [t_2c338c] c11_invasion_england.md (task_output)
+- `fleetplans.md` — [t_2c338c] fleetplans.md (task_output)
+- `hurd_letter.md` — [t_2c338c] hurd_letter.md (task_output)
+- `irish_fulton.md` — [t_2c338c] irish_fulton.md (task_output)
+
+## Cited sources (under `sources/`)
+
+- `sources/c11_corbett.txt` ← `downloads/c11_corbett.txt`
+  - "c11_corbett.txt"
+  - sha256 4ab49819b13448b04316d8e2754e54e80965c710395e2fd891e0ecea1d576a83
+  - cited by [t_2c338c] "Corbett认为Cornwallis分兵风险合理，强调互援距离、补给及全战区任务；与Mahan视为违反集中原则的判断冲突，不以计票裁决。" (interpretation) — "well within fair risk of war"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/fleetplans.md`
+- `sources/c11_desbriere_01.txt` ← `downloads/c11_desbriere_01.txt`
+  - "c11_desbriere_01.txt"
+  - sha256 a86fdcc495c047f12b65076b576324406d95f44fa27c8d8da3b033a0ca56e7ed
+  - cited by [t_2c338c] "Desbrière IV I-II印刷pp107–110并列Soult 22日估约50死、Lafond 23日12船29死；作者以船况表推13船并指出Etaples另10死。不是可直接冻结的最终总计。" (fact)
+  - cited by [t_2c338c] "7月3日拿破仑致Bruix仍在询问能否两潮出港；信中1800余艘为组织方案，7月11日四港现有船清单显著少于该目标。" (fact) — "Ces bâtiments peuvent-ils sortir en deux marées de ces ports ?"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/fleetplans.md`
+- `sources/c11_desbriere_02.txt` ← `downloads/c11_desbriere_02.txt`
+  - "c11_desbriere_02.txt"
+  - sha256 cae18d72beab5775ca532f0256299b5f46ae7367b0ad7a195aab28dd63b8ecd2
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+- `sources/c11_desbriere_p399.png` ← `downloads/c11_desbriere_p399.png`
+  - sha256 35346febf218994ca2006d09a35413165a4ac79ab3df785f01ffd2d804d3862f
+  - cited by [t_2c338c] "Saint-Haouen 1805-08-03提案承认布洛涅单潮无法放出全部或一半船队，并提出两潮方案；不能将其‘不到一小时起航’截为全船队装载出港时间。" (fact) — "dans deux marées, tous les bâtiments de la flottille"
+  - cited by [t_2c338c] "Saint-Haouen两潮出港方案明确承认单潮不能出半数；一小时仅指前置分批出港完成后的总起航。" (fact) — "Dans moins d’une heure toute la flottille est sous voiles"
+- `sources/c11_desbriere_verified_p444.png` ← `downloads/c11_desbriere_verified_p444.png`
+  - sha256 a74f7af8cf27adbf9874da6bf0b62b165cdf4183b47bb9cbe63039f754a9afa1
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+- `sources/c11_desbriere_verified_p445.png` ← `downloads/c11_desbriere_verified_p445.png`
+  - sha256 7c862736ec3a6b2241281a62fd0671c4d4438428d1c216529a3c6cbd3c8e4749
+  - cited by [t_2c338c] "Desbrière IV p.445所刊Montreuil编配：216军用艇、20232战斗员船位，对24853计划战斗员缺4621；另有126运输艇。不得外推为全军缺口或实际装载人数。" (fact)
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+- `sources/c11_fortescueV.txt` ← `downloads/c11_fortescueV.txt`
+  - "c11_fortescueV.txt"
+  - sha256 a6d48ed701112955995a65a583cb7f966e130f101a163734a6d936ec55356733
+  - cited by [t_2c338c] "Fortescue V pp231–232称1803年10月31日撤牲畜与粮草令遭Moore/Richmond反对而放弃。" (fact) — "so strongly opposed ... that it was abandoned"
+  - cited by [t_2c338c] "Fortescue明确认为未给登陆人数、地点、时间与预警量便不能裁决登陆后的成功；其紧接的英国必不降与法军不能撤走是作者反事实判断。" (interpretation) — "Without details as to the number of men disembarked, the place of landing, the time of disembarkati…"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+- `sources/pages/1f9afa18aab9.md` ← `downloads/pages/1f9afa18aab9.md`
+  - "The Catamaran Expeditions | Proceedings - February 1944 Vol. 70/2/492" — https://www.usni.org/magazines/proceedings/1944/february/catamaran-expeditions
+  - sha256 1f9afa18aab98eb877d5833f55b61342f444977aa1e759ff9cee7088d64faa8a
+  - cited as `https://www.usni.org/magazines/proceedings/1944/february/catamaran-expeditions` in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+- `sources/pages/2a3664a3c30c.md` ← `downloads/pages/2a3664a3c30c.md`
+  - "Full text of "A history of the British army"" — https://archive.org/stream/historyofbritisharm05fort/historyofbritisharm05fort_djvu.txt
+  - sha256 2a3664a3c30c6aac4595912640f21b3fe008922beaadf381d6d7f530bfd632fc
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/britdef.md`
+- `sources/pages/314c96ca5bf7.md` ← `downloads/pages/314c96ca5bf7.md`
+  - "British anti-invasion preparations of 1803–1805" — https://en.wikipedia.org/wiki/British_anti-invasion_preparations_of_1803%E2%80%931805
+  - sha256 314c96ca5bf7c0b2374eb643e900667616d362880b90f045dc6f125a341dd445
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/britdef.md`
+- `sources/pages/32497b1ca4b8.md` ← `downloads/pages/32497b1ca4b8.md`
+  - "ftut&orttjn" — https://www.thegazette.co.uk/London/issue/15742/page/1237/data.pdf
+  - sha256 32497b1ca4b8666dd32951ca463a063cf016a374abceac42487226c02ab7461d
+  - cited as `https://www.thegazette.co.uk/London/issue/15742/page/1237/data.pdf` in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+  - cited as `https://www.thegazette.co.uk/London/issue/15742/page/1237/data.pdf` in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+- `sources/pages/378a0b9459dc.md` ← `downloads/pages/378a0b9459dc.md`
+  - "The Keith Papers: Smith to Keith" — https://www.historyofwar.org/sources/napoleonic/nrs1955/1_1_020.html
+  - sha256 378a0b9459dc9de3d56275de536a481aa9f492326c2f04d67498b01c6bc58407
+  - cited as `https://www.historyofwar.org/sources/napoleonic/nrs1955/1_1_020.html` in `nodes/r_b55f2c1cf5/cards/t_2c338c/britdef.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/britdef.md`
+  - cited as `https://www.historyofwar.org/sources/napoleonic/nrs1955/1_1_020.html` in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+- `sources/pages/4c05b3e278f4.md` ← `downloads/pages/4c05b3e278f4.md`
+  - "The Project Gutenberg eBook of The Influence of Sea Power Upon the French Revolution and Empire, 1793-1812, by Captain …" — https://www.gutenberg.org/files/52589/52589-h/52589-h.htm
+  - sha256 4c05b3e278f4b8bdccaaf6650f97a344f79990e087922624e350a4b539ca299a
+  - cited as `https://www.gutenberg.org/files/52589/52589-h/52589-h.htm` in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+  - cited as `https://www.gutenberg.org/files/52589/52589-h/52589-h.htm` in `nodes/r_b55f2c1cf5/cards/t_2c338c/fleetplans.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/fleetplans.md`
+- `sources/pages/5550fd06ab38.md` ← `downloads/pages/5550fd06ab38.md`
+  - "Napoleon and the Invasion in England - PDF Free Download" — https://epdf.tips/napoleon-and-the-invasion-in-england.html
+  - sha256 5550fd06ab3855fd108cb6d228e1197ebba61567509b05e3671a6b6116eeb602
+  - cited as `https://epdf.tips/napoleon-and-the-invasion-in-england.html` in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+  - cited as `https://epdf.tips/napoleon-and-the-invasion-in-england.html` in `nodes/r_b55f2c1cf5/cards/t_2c338c/hurd_letter.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/hurd_letter.md`
+- `sources/pages/635f200bfaf6.md` ← `downloads/pages/635f200bfaf6.md`
+  - "Fulton’s torpedoes used in the attack on Boulogne, 1804 – The Navy Records Society" — https://www.navyrecords.org.uk/magazine_posts/fultons-torpedoes-used-in-the-attack-on-boulogne-1804/
+  - sha256 635f200bfaf62e7499aadd988708a46080b2ffd2afd0c680aeab407c5c82f619
+  - cited as `https://www.navyrecords.org.uk/magazine_posts/fultons-torpedoes-used-in-the-attack-on-boulogne-1804/` in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+- `sources/pages/68000e2037a4.md` ← `downloads/pages/68000e2037a4.md`
+  - "The Rising of 1803 in Dublin" — https://historyireland.com/the-rising-of-1803-in-dublin/
+  - sha256 68000e2037a4d5c22052689eafcafee6f1d4d4d4e99e7a5a532ea69f547ba0c3
+  - cited as `https://historyireland.com/the-rising-of-1803-in-dublin/` in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+- `sources/pages/68fdc2145ce9.md` ← `downloads/pages/68fdc2145ce9.md`
+  - "The campaign of Trafalgar : Corbett, Julian Stafford, Sir, 1854-1922 : Free Download, Borrow, and Streaming : Internet …" — https://archive.org/stream/campaignoftrafal00corb?ui=embed&view=theater
+  - sha256 68fdc2145ce9556578594ff3d92ac57f35e0bcdab7bc51d9e0ec693752cff146
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/fleetplans.md`
+- `sources/pages/70b17e18323a.md` ← `downloads/pages/70b17e18323a.md`
+  - https://shs.cairn.info/article/E_NAPO_081_0006/pdf?lang=en
+  - sha256 70b17e18323a8d56398ef2caf0e0b9754ce5f339fce82915e5c67096d3c2887e
+  - cited as `https://shs.cairn.info/article/E_NAPO_081_0006/pdf?lang=en` in `nodes/r_b55f2c1cf5/cards/t_2c338c/britdef.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/britdef.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+- `sources/pages/7889a20afee2.md` ← `downloads/pages/7889a20afee2.md`
+  - "Historiques - Légion irlandaise - Le Consulat et le Premier empire" — https://napoleon-histoire.com/historiques-legion-irlandaise-le-consulat-et-le-premier-empire/
+  - sha256 7889a20afee23f5753500bb0727d61a0b422e1062fa97ad70fcb5f8902ca08d2
+  - cited as `https://napoleon-histoire.com/historiques-legion-irlandaise-le-consulat-et-le-premier-empire/` in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+- `sources/pages/7a0851924501.md` ← `downloads/pages/7a0851924501.md`
+  - "Campaignoftrafal00Corb Djvu" — https://archive.org/download/campaignoftrafal00corb/campaignoftrafal00corb_djvu.txt
+  - sha256 7a08519245012891e9ed5eaac76ccddcdd89826d5e29418a472831a739805970
+  - cited as `https://archive.org/download/campaignoftrafal00corb/campaignoftrafal00corb_djvu.txt` in `nodes/r_b55f2c1cf5/cards/t_2c338c/fleetplans.md`
+- `sources/pages/92f15cedf046.md` ← `downloads/pages/92f15cedf046.md`
+  - "Proclamation of Provisional Government - Wikisource, the free online library" — https://en.wikisource.org/wiki/Proclamation_of_Provisional_Government
+  - sha256 92f15cedf0468c1a1b4516a303f64f1517e6ccc652891db989e01f8be4253958
+  - cited as `https://en.wikisource.org/wiki/Proclamation_of_Provisional_Government` in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+- `sources/pages/af472c3dfa49.md` ← `downloads/pages/af472c3dfa49.md`
+  - "The Project Gutenberg eBook of Robert Fulton and the Submarine, by Wm. Barclay Parsons" — https://www.gutenberg.org/cache/epub/63351/pg63351-images.html
+  - sha256 af472c3dfa49f35442e9544813d98eecd70efa2584b195f65f898e016dcd66e1
+  - cited as `https://www.gutenberg.org/cache/epub/63351/pg63351-images.html` in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+  - cited as `https://www.gutenberg.org/cache/epub/63351/pg63351-images.html` in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+- `sources/pages/babfe7fc830f.md` ← `downloads/pages/babfe7fc830f.md`
+  - "The Project Gutenberg eBook of Torpedo War, and Submarine Explosions, by Robert Fulton" — https://www.gutenberg.org/files/51748/51748-h/51748-h.htm
+  - sha256 babfe7fc830f68912ecf144553bc68feeafffa4bcba9e42760fc1a0ce17e9177
+  - cited as `https://www.gutenberg.org/files/51748/51748-h/51748-h.htm` in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+- `sources/pages/d0e2150b50b9.md` ← `downloads/pages/d0e2150b50b9.md`
+  - "PDF Document" — https://doras.dcu.ie/17994/1/Sylvie_Kleinman.pdf
+  - sha256 d0e2150b50b90fe180b9404504e57b99906e0e7b27ddaf5a791b845832264fa2
+  - cited as `https://doras.dcu.ie/17994/1/Sylvie_Kleinman.pdf` in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+  - cited as `https://doras.dcu.ie/17994/1/Sylvie_Kleinman.pdf` in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+- `sources/pages/e0f217155fea.md` ← `downloads/pages/e0f217155fea.md`
+  - "[PDF] Britain at Bay by Richard Glover | 9781032037578, 9781000408676" — https://www.perlego.com/book/2567530/britain-at-bay-defence-against-bonaparte-180314-pdf
+  - sha256 e0f217155feaf0426578759c0abeb0439ccb3dd2c536ef52e2a41d1f4d487ef3
+  - cited by [t_2c338c] "Glover以六潮出港及援兵行军时间反驳军队未齐即虚张声势；其时间模型与Saint-Haouen两潮提案不是同口径实测，不宜平均或选其有利值。" (interpretation) — "the Boulogne flotilla was so large that it needed six tides, or three days, to get to sea."
+  - cited as `https://www.perlego.com/book/2567530/britain-at-bay-defence-against-bonaparte-180314-pdf` in `nodes/r_b55f2c1cf5/cards/t_2c338c/britdef.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/britdef.md`
+  - cited as `https://www.perlego.com/book/2567530/britain-at-bay-defence-against-bonaparte-180314-pdf` in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+- `sources/pages/e30807055e5f.md` ← `downloads/pages/e30807055e5f.md`
+  - "Le corps irlandais au service de la France sous le Consulat et l’Empire - Persée" — https://www.persee.fr/doc/rharm_0035-3299_1976_num_3_2_7891
+  - sha256 e30807055e5f14c61f681a9af28ab05bf319d75f2b64804cac667a9c84214af5
+  - cited as `https://www.persee.fr/doc/rharm_0035-3299_1976_num_3_2_7891` in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+  - cited as `https://www.persee.fr/doc/rharm_0035-3299_1976_num_3_2_7891` in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+- `sources/pages/eb97ce6847bc.md` ← `downloads/pages/eb97ce6847bc.md`
+  - "[ 123*/ ]" — https://www.thegazette.co.uk/London/issue/15742/page/1238/data.pdf
+  - sha256 eb97ce6847bcba1ce33e2333cb674fb1bde06ccd21aa38a6cc17e12340473165
+  - cited as `https://www.thegazette.co.uk/London/issue/15742/page/1238/data.pdf` in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+- `sources/pages/ef41b9a6875d.md` ← `downloads/pages/ef41b9a6875d.md`
+  - "Weather & Warfare Bantry 1796 revisited" — https://historyireland.com/weather-warfare-bantry-1796-revisited/
+  - sha256 ef41b9a6875d7df6e6d4955ee24e6c146504c2d4aff78b7bacda797b292b7c17
+  - cited as `https://historyireland.com/weather-warfare-bantry-1796-revisited/` in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+  - cited as `https://historyireland.com/weather-warfare-bantry-1796-revisited/` in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+- `sources/pages/f0bc4536ba86.md` ← `downloads/pages/f0bc4536ba86.md`
+  - "An ‘Unpleasant Dilemma’: The Portsmouth Volunteers and the limits of loyalism, 1803-1805" — https://eprints.whiterose.ac.uk/id/eprint/104015/3/The%20Portsmouth%20Volunteers%201803-1805%20article%20v2.pdf
+  - sha256 f0bc4536ba8607077152dbe33a695e931cedb930011bb02ff3e7b28916a68ba9
+  - cited as `https://eprints.whiterose.ac.uk/id/eprint/104015/3/The%20Portsmouth%20Volunteers%201803-1805%20article%20v2.pdf` in `nodes/r_b55f2c1cf5/cards/t_2c338c/britdef.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/britdef.md`
+  - cited as `https://eprints.whiterose.ac.uk/id/eprint/104015/3/The%20Portsmouth%20Volunteers%201803-1805%20article%20v2.pdf` in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`
+- `sources/pages/f3ea84be89c3.md` ← `downloads/pages/f3ea84be89c3.md`
+  - "Robert Emmet, the 1803 Proclamation of Independence and the ghost of 1798 – The Irish Story" — https://www.theirishstory.com/2014/02/27/robert-emmet-the-1803-proclamation-of-independence-and-the-ghost-of-1798/
+  - sha256 f3ea84be89c3b07b8af7c960f0fcd483d8dae95267c75742e037ee1baff12a8f
+  - cited as `https://www.theirishstory.com/2014/02/27/robert-emmet-the-1803-proclamation-of-independence-and-the-ghost-of-1798/` in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_2c338c/irish_fulton.md`
+
+## Cited, already in this folder
+
+- `c11_invasion_england.md`
+  - cited by [t_2c338c] "S1须通过舰队集中掩护、港口海况同步、完整登陆并取得陆战优势、政治迫和至少四个粗粒度门槛；这些是关联条件，不是统计独立概率。" (inference)
+
+## Consulted but not cited (left where they are)
+
+- `downloads/c11_check_p121.png`
+- `downloads/c11_desbriere_00.txt` — "c11_desbriere_00.txt"
+- `downloads/c11_desbriere_03.txt` — "c11_desbriere_03.txt"
+- `downloads/c11_desbriere_04.txt` — "c11_desbriere_04.txt"
+- `downloads/c11_desbriere_IV12.pdf`
+- `downloads/c11_desbriere_IV3.pdf`
+- `downloads/c11_desbriere_p398.png`
+- `downloads/c11_desbriere_p445.png`
+- `downloads/c11_desbriere_printed_110.png`
+- `downloads/c11_iv3_page51.png`
+- `downloads/pages/92473b8c9392.md` — "1793-1805. Projets et tentatives de débarquement aux Iles Britanniques, par le Commt Edouard Desbrière. Tome IV, 1902 -…" — https://www.persee.fr/doc/rhmc_0996-2743_1902_num_4_3_4209_t1_0203_0000_2
+
+## Unresolved locators
+
+- `https://archive.org/details/historyofbritisharm05fort` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_2c338c/britdef.md`)
+- `https://archive.org/details/projetsettentat01histgoog` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`)
+- `https://archive.org/details/projetsettentat02histgoog` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`)
+- `https://archive.org/details/campaignoftrafal00corb` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`)
+- `https://archive.org/details/historyofbritisharm05fort` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_2c338c/c11_invasion_england.md`)

@@ -1,0 +1,11 @@
+{
+ "seq": 1,
+ "path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_finance.csv",
+ "ops": [
+  {
+   "append": {
+    "content": "1851-52,interest_registered_debt_india,GBP,1967359,\"截至1852-04-30年度\",HC Deb 1854-08-08 Resolution 7,downloads/pages/3eaf193bd527.md,已核\n1851-52,charges_defrayed_in_england,GBP,2506377,\"在英国支付的印度领地开支(home charges同口径)\",HC Deb 1854-08-08 Resolution 7,downloads/pages/3eaf193bd527.md,已核\n1851-52,surplus_after_interest_and_home_charges,GBP,531265,\"扣上两项后的印度岁入盈余\",HC Deb 1854-08-08 Resolution 7,downloads/pages/3eaf193bd527.md,已核\n"
+   }
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "seq": 2,
+ "path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_afeae6/notes_grab.md",
+ "ops": [
+  {
+   "append": {
+    "content": "\n## G04 葡萄牙（印pp.145–147，L3525–3625实读）\n1807王储赴巴西前令摄政与法合作；1808-02 Junot废摄政和布拉干萨、解军/民兵。1808-06 Oporto主教/军官起义并立洪塔，扩及北部和Algarve，8月英军登陆。先有起义后有英登陆；Junot8月撤，不能将六月至八月计为必然≥90日。Ymass=1，Ysustain=[0,1]（期后有1809/1810再入侵，样本此窗只1807–08）。本地精英先合作后分裂为动态，不声称无人合作。\n\n## G05 意大利1796–99（印pp.154–156，L3760–3831）\n- 1796-05 Pavia/Binasco起义，迅速血腥镇压；1797 Verona另次，本数据只取Pavia1796不重复拿北意全境作样本。\n- 1798–99 Piedmont废王+旧财政危机/征发，Monferrato起事被镇压，1799联军至后许多农民参奥军；大规模=1、跨季持续界限不详[0,1]。\n- Tuscany1799 Arezzo Viva Maria跨城运动并伴Siena反犹屠杀，外部联军支持；禁止以反法=普遍解放省略受害群。\n- Naples1799 Ruffo从二月率数千农民、六月入城，法军先撤；晚废封建+征发→农村不满。跨季武装=1。\n\n## G06 北意王国与并省（印pp.160–164、168–170，L3910–4164）\n- 王国52府长30贵族22资产阶级；税收/征兵高但广泛本地任官。p.164：“Yet the Napoleonic regime never faced the kind of massive popular revolt that broke out in southern Italy.” 不能读成无大规模起义：紧接夏1809 Veneto/Emilia-Romagna起义、数千农民威胁Vicenza/Treviso，年底方复秩序；磨粉税触发Emilia，财政部长Prina因此撤税。\n- 并省总体p.168 “Napoleon faced no major revolts here”需受p.170 Parma1806反例修正；不凭该总论覆盖所有时期。皮埃蒙特“by 1809”恢复秩序→负例限定1809–13，不将1802–08强填0。利古里亚1805–13、托斯卡纳1808–13以pp.168–170总体+章节作较弱负例，敏感性剔除。\n- Parma/Piacenza山谷1806征兵税收起义，几周内平：Ymass1/Ysustain0。\n- 1809王国零例不纳全北意，Veneto和Emilia单列但同一地区簇（ItalyKingdom）防伪独立。\n\n## G07 卡拉布里亚（印pp.165–168，L4070–4140）\n1806征发/掠夺先触发抵抗，7月Maida英胜后扩大；1808-02复控制，仍三年才平匪。持续起义=1。废封建既吸纳有产者也损失部分公地，农民不必支持；王国精英部分合作≠Calabria控制成功。本表E给0/1敏感性而非以结果反推0。\n\n## G08 伊利里亚（印pp.190–195，L4508–4571）\n1810–12地税不均/新税、征兵骚乱、攻击警察、逃入匪帮；规模和持续性无精确数，不自动称无起义→Ymass[0,1]。1813-08奥军入侵明确激起Croatia等起义，公务员逃岗；给Ymass1而Yexit1，不把政权崩塌前的短期窗口外推和平。\n\n## G09 西班牙（印pp.132–137，L3314–3408）\n“While the French occupied most of the country, they never pacified it.” 地形、英葡援助、多个权力中心相互强化；法国将领与Joseph竞争、随意征税破坏合作。afrancesados不等于整个精英已被有效吸纳；Mina等既游击又征税/行政。本书38,520 guerrillas数字为作者转引，未作为本卡规模绝对数，只用“数万级”与多年作分档。\n\n## G10 荷兰1799／波兰（印pp.63、179–183）\n荷兰英俄登陆时“A sympathetic revolt failed to materialize”，积极负例而非推断；与1809英军入侵激起荷兰西南起义（Joor）对照，外援本身不充分。\n华沙全部本地行政、贵族主导，军费约2/3；这是负担高而合作可能的机制证据。但已读章没有明确全域无农民起义清单，Ymass保留NA，不用贵族效忠替所有农民背书；没有反法跨季起义的综述证据只用于较弱Ysustain0并作剔除敏感性。\n"
+   }
+  }
+ ]
+}

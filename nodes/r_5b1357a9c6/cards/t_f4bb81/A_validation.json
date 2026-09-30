@@ -1,0 +1,122 @@
+{
+  "scope": "MECHANICAL_SELF_CHECK_NOT_REDTEAM",
+  "assembled_chars": 23813,
+  "all_sixteen_headings": true,
+  "timeline_rows": 31,
+  "policy_rows": 8,
+  "source_paths_checked": 33,
+  "missing_source_paths": [],
+  "quote_checks": [
+    {
+      "label": "T09-army",
+      "path": "downloads/pages/603b19b5b0f9.md",
+      "quote": "150 000 hommes pendant la durée de la guerre maritime",
+      "literal": true,
+      "whitespace_apostrophe_normalized": true
+    },
+    {
+      "label": "T09-payment",
+      "path": "downloads/pages/603b19b5b0f9.md",
+      "quote": "85 millions de francs",
+      "literal": true,
+      "whitespace_apostrophe_normalized": true
+    },
+    {
+      "label": "T12-corps",
+      "path": "downloads/pages/0cb883e1dd4e.md",
+      "quote": "Il ne pourra toutefois être divisé",
+      "literal": true,
+      "whitespace_apostrophe_normalized": true
+    },
+    {
+      "label": "T12-Porte",
+      "path": "downloads/pages/0cb883e1dd4e.md",
+      "quote": "garantissent l’intégrité du territoire do la Porte Ottomane en Europe",
+      "literal": true,
+      "whitespace_apostrophe_normalized": true
+    },
+    {
+      "label": "N0904",
+      "path": "downloads/pages/064046ec6241.md",
+      "quote": "En demandant la Bohême",
+      "literal": true,
+      "whitespace_apostrophe_normalized": true
+    },
+    {
+      "label": "N0515",
+      "path": "downloads/pages/a947acecb6dc.md",
+      "quote": "Ayez un roi de votre choix",
+      "literal": true,
+      "whitespace_apostrophe_normalized": true
+    },
+    {
+      "label": "H09",
+      "path": "downloads/pages/ef06d5628e76.md",
+      "quote": "no permanent officer staff, no magazines",
+      "literal": true,
+      "whitespace_apostrophe_normalized": true
+    },
+    {
+      "label": "M13-rolls",
+      "path": "downloads/pages/848ad5b3b9ea.md",
+      "quote": "259,000 men remained on the army’s rolls",
+      "literal": false,
+      "whitespace_apostrophe_normalized": true
+    },
+    {
+      "label": "M13-mobilized",
+      "path": "downloads/pages/848ad5b3b9ea.md",
+      "quote": "298,000 men in fully mobilized formations",
+      "literal": true,
+      "whitespace_apostrophe_normalized": true
+    },
+    {
+      "label": "CB16",
+      "path": "downloads/pages/15d715a151a0.md",
+      "quote": "942 Millionen",
+      "literal": true,
+      "whitespace_apostrophe_normalized": true
+    },
+    {
+      "label": "HU11",
+      "path": "downloads/pages/9a8e1d55620d.md",
+      "quote": "törvénytelennek nyilvánítván",
+      "literal": true,
+      "whitespace_apostrophe_normalized": true
+    },
+    {
+      "label": "AB",
+      "path": "downloads/pages/7378b53aa48e.md",
+      "quote": "Jeder Mensch hat angeborne",
+      "literal": true,
+      "whitespace_apostrophe_normalized": true
+    },
+    {
+      "label": "FR13",
+      "path": "downloads/pages/9f08012c5301.md",
+      "quote": "la régence de l’Empire",
+      "literal": false,
+      "whitespace_apostrophe_normalized": true
+    },
+    {
+      "label": "Z08",
+      "path": "downloads/pages/25101e384c5e.md",
+      "quote": "l’attribution de la régence à une femme",
+      "literal": true,
+      "whitespace_apostrophe_normalized": true
+    },
+    {
+      "label": "NII",
+      "path": "downloads/pages/6c50590d5ddd.md",
+      "quote": "22 juillet 1832",
+      "literal": true,
+      "whitespace_apostrophe_normalized": true
+    }
+  ],
+  "notes": [
+    "Normalization affects whitespace and apostrophe glyph only",
+    "Financial tables separately visually checked on PDF262/265/267",
+    "Quotes locate text, not prove causal claims",
+    "No independent review asserted"
+  ]
+}

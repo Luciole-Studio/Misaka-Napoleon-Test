@@ -1,0 +1,8 @@
+check,expected,computed,relative_error,status
+UK_1803_reaggregation,172,172,0,arithmetic_only_not_model_validation
+UK_1804_reaggregation,172,172,0,arithmetic_only_not_model_validation
+UK_1805_reaggregation,181,181,0,arithmetic_only_not_model_validation
+FR_launches_1807_1814,NA,NA,NA,not_executable_missing_inputs
+FR_national_stock_1814,NA,NA,NA,not_executable_missing_inputs
+UK_same_scope_stock_1807_1814,NA,NA,NA,not_executable_missing_inputs
+crew_training_proxy_1807_1814,NA,NA,NA,not_executable_missing_inputs

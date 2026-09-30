@@ -1,0 +1,193 @@
+# Sources — nodes/r_5b1357a9c6/cards/t_87ba37 — [t_87ba37] 英国工业、商业与劳工：被排除25年能否存活
+
+Written by misaka when the products here were settled and rebuilt from scratch each time, so edit nothing in this file or under the sources folder. Each file there is a hard link to where it already lives in the project (a copy only where a hard link was not possible); the originals never move. Cite original project files, not this bundle's disposable sources paths.
+
+## Products
+
+- `B5_annual_exports_1803_1815.csv` — [t_87ba37] B5_annual_exports_1803_1815.csv (task_output)
+- `B5_boe_cells.csv` — [t_87ba37] B5_boe_cells.csv (task_output)
+- `B5_boe_manifest.json` — [t_87ba37] B5_boe_manifest.json (task_output)
+- `B5_boe_selected.xlsx` — [t_87ba37] B5_boe_selected.xlsx (task_output)
+- `B5_british_industry_trade.md` — [t_87ba37] B5_british_industry_trade.md (task_output)
+- `B5_checks.json` — [t_87ba37] B5_checks.json (task_output)
+- `B5_data_metadata.json` — [t_87ba37] B5_data_metadata.json (task_output)
+- `B5_delivery_manifest.json` — [t_87ba37] B5_delivery_manifest.json (task_output)
+- `B5_export_substitution.md` — [t_87ba37] B5_export_substitution.md (task_output)
+- `B5_exports_declared_1805_1811.csv` — [t_87ba37] B5_exports_declared_1805_1811.csv (task_output)
+- `B5_growth_paths.csv` — [t_87ba37] B5_growth_paths.csv (task_output)
+- `B5_industry_wages_1803_1848.csv` — [t_87ba37] B5_industry_wages_1803_1848.csv (task_output)
+- `B5_market_benchmarks.csv` — [t_87ba37] B5_market_benchmarks.csv (task_output)
+- `B5_market_scenarios.csv` — [t_87ba37] B5_market_scenarios.csv (task_output)
+- `B5_provenance_audit.json` — [t_87ba37] B5_provenance_audit.json (task_output)
+- `B5_replacement_diagnostics.csv` — [t_87ba37] B5_replacement_diagnostics.csv (task_output)
+- `B5_scenario_parameters.json` — [t_87ba37] B5_scenario_parameters.json (task_output)
+- `B5_validation.json` — [t_87ba37] B5_validation.json (task_output)
+- `assemble_validate_B5.py` — [t_87ba37] assemble_validate_B5.py (task_output)
+- `boe_headers.txt` — [t_87ba37] boe_headers.txt (task_output)
+- `build_B5_tables.py` — [t_87ba37] build_B5_tables.py (task_output)
+- `extract_boe.py` — [t_87ba37] extract_boe.py (task_output)
+- `heckscher_p245_rotated.png` — [t_87ba37] heckscher_p245_rotated.png (task_output)
+- `notes_boe_scope.md` — [t_87ba37] notes_boe_scope.md (task_output)
+- `notes_cuenca_discovery.md` — [t_87ba37] notes_cuenca_discovery.md (task_output)
+- `notes_hansard_1811.md` — [t_87ba37] notes_hansard_1811.md (task_output)
+- `notes_heckscher_orourke.md` — [t_87ba37] notes_heckscher_orourke.md (task_output)
+- `notes_labour_petitions.md` — [t_87ba37] notes_labour_petitions.md (task_output)
+- `notes_longrun.md` — [t_87ba37] notes_longrun.md (task_output)
+- `notes_marshall_correction.md` — [t_87ba37] notes_marshall_correction.md (task_output)
+- `notes_nonenglish.md` — [t_87ba37] notes_nonenglish.md (task_output)
+- `report_01_capacity.md` — [t_87ba37] report_01_capacity.md (task_output)
+- `report_02_reactions.md` — [t_87ba37] report_02_reactions.md (task_output)
+- `report_03_model_conclusion.md` — [t_87ba37] report_03_model_conclusion.md (task_output)
+
+## Cited sources (under `sources/`)
+
+- `sources/B2_BoE_millennium_v31.xlsx` ← `downloads/B2_BoE_millennium_v31.xlsx`
+  - sha256 4c23dd392a498691eac92659aec283fb43f28118bd80511dc87fc595974195eb
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/B5_Jarrige_Luddisme2010.pdf` ← `downloads/B5_Jarrige_Luddisme2010.pdf`
+  - "B5_Jarrige_Luddisme2010.pdf"
+  - sha256 4e8fe2aef6895a9745d11533cbccbcf83ee9e619213ce6f8d8cb2e833fd02577
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/B5_Marshall_statistical_display1833.pdf` ← `downloads/B5_Marshall_statistical_display1833.pdf`
+  - "B5_Marshall_statistical_display1833.pdf"
+  - sha256 6732fd554ca206d55ce2060d31852f46686eaf853b0b621a7f802abbf027e2e7
+  - cited by [t_87ba37] "Marshall美国1811官方出口1,431,829英镑，加加拿大1,909,689为3,341,518；BoE A40相应美国11.432m/北美13.342m比原表约多10m。" (fact) — "3,046,819 1,431,829 1,909,689 6,388,337"
+  - cited as `doc:6732fd554ca2#p88` by [t_87ba37] "Marshall美国1811官方出口1,431,829英镑，加加拿大1,909,689为3,341,518；BoE A40相应美国11.432m/北美13.342m比原表约多10m。" (fact) — "3,046,819 1,431,829 1,909,689 6,388,337"
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/c15_heckscher1922.pdf` ← `downloads/c15_heckscher1922.pdf`
+  - "c15_heckscher1922.pdf"
+  - sha256 1baaae7f3185eb96c40c95891dcd3efbf6da2426bd782d06bc4a3b81e7149a5a
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/c16_navickas2005.pdf` ← `downloads/c16_navickas2005.pdf`
+  - "c16_navickas2005.pdf"
+  - sha256 3c4c39c323295ceea4eeabc42c8894dfe67f8bb6b6e1973f083bf5ec841886ea
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/0165ca641153.md` ← `downloads/pages/0165ca641153.md`
+  - "Protest and democracy 1818 to 1820, part 2 - The National Archives" — https://www.nationalarchives.gov.uk/education/resources/protest-democracy-1818-1820/
+  - sha256 0165ca6411538f41e112c7f14f3adc5c8071d99be11a1fe09ed81fd70f33060a
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/0cf6ab7705f7.md` ← `downloads/pages/0cf6ab7705f7.md`
+  - "PETITION FROM SHEFFIELD AGAINST THE ORDERS IN COUNCIL. (Hansard, 17 April 1812)" — https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-sheffield-against-the
+  - sha256 0cf6ab7705f7b53edaeda9853c70daa673cb88fa178ad607ae9fd58cd2c16d4e
+  - cited by [t_87ba37] "1812-04-17谢菲尔德请愿明确愿为英国独立承压，同时要求废Orders；不能把反贸易管制等同接受法国霸权。" (fact) — "if they regarded those Orders as necessary for supporting ... the just rights and independence of t…"
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-sheffield-against-the` in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/2117b6d948bd.md` ← `downloads/pages/2117b6d948bd.md`
+  - "Informal Empire" — https://www.britishempire.co.uk/article/informalempireappendices.htm
+  - sha256 2117b6d948bdf20e9ac00485725ff237faf29a074929c316c8cb7ca46fac1d86
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/26c8c80b061c.md` ← `downloads/pages/26c8c80b061c.md`
+  - "Full text of " A statistical display of the finances, navigation and commerce of the United Kingdom of Great Britain an…" — https://archive.org/stream/b22297042/b22297042_djvu.txt
+  - sha256 26c8c80b061c45c8ae76853b6f755750b12cf595f366f9d581d98a05b422df8a
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/2e0619dd75ba.md` ← `downloads/pages/2e0619dd75ba.md`
+  - "October 2020, Revised July 2026" — https://www.nber.org/system/files/working_papers/w27904/w27904.pdf
+  - sha256 2e0619dd75ba61ea090bef9f2804a5edbfa8ffc7cb1a3268f31397ca7c7994cd
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/3b8b8e348c6d.md` ← `downloads/pages/3b8b8e348c6d.md`
+  - "COMMERCIAL CREDIT. (Hansard, 11 March 1811)" — https://api.parliament.uk/historic-hansard/commons/1811/mar/11/commercial-credit
+  - sha256 3b8b8e348c6dd9af10bd461366e62efd0f6d96eb2e05fe10cce3f9582c40ba69
+  - cited by [t_87ba37] "1811年议会救济辩论直接质疑发货额可代表繁荣：货物可滞留南美两三年；大陆对回运殖民品的封锁会反过来削弱海外客户支付能力。" (fact) — "Exports were not trade"
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1811/mar/11/commercial-credit` in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/6305bcbe013e.md` ← `downloads/pages/6305bcbe013e.md`
+  - "LIVERPOOL PETITION RESPECTING THE ORDERS IN COUNCIL BILL. (Hansard, 3 March 1808)" — https://api.parliament.uk/historic-hansard/commons/1808/mar/03/liverpool-petition-respecting-the-orders
+  - sha256 6305bcbe013ec9a74fea49bc65b59523a54a7242bda0907815657fe1851d1b88
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1808/mar/03/liverpool-petition-respecting-the-orders` in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/6584f2f8b4f1.md` ← `downloads/pages/6584f2f8b4f1.md`
+  - "Protest and Democracy 1816 to 1818, part 1 - The National Archives" — https://www.nationalarchives.gov.uk/education/resources/protest-and-democracy-1816-to-1818/
+  - sha256 6584f2f8b4f1d87cb44f1f3b064d9b963600036b6da63519e21a5165b53a2365
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/72f263dafad6.md` ← `downloads/pages/72f263dafad6.md`
+  - "Combination Acts | Combination Laws, Trade Unions & Strikes | Britannica Money" — https://www.britannica.com/money/Combination-Acts
+  - sha256 72f263dafad6fb8c6c1f5eb5bede7eea0d23e01400f8e1650b91844999e1f7ca
+  - cited as `https://www.britannica.com/money/Combination-Acts` in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/92274137edfc.md` ← `downloads/pages/92274137edfc.md`
+  - "PETITION FROM BIRMINGHAM AGAINST THE ORDERS IN COUNCIL. (Hansard, 17 April 1812)" — https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the
+  - sha256 92274137edfcd208ae77408bf1ea52de69994241d50c96a17a76c26f4066a9aa
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/98f3132e9a36.md` ← `downloads/pages/98f3132e9a36.md`
+  - "The 1833 Factory Act - UK Parliament" — https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/
+  - sha256 98f3132e9a364bdb7420ae551da3aae86f04bf93afe0417569d505ddc1cf1940
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/ba2ab29e8259.md` ← `downloads/pages/ba2ab29e8259.md`
+  - "PETITION FROM THE HALLAMSHIRE CUTLERS, RESPECTING THE RENEWAL OF THE EAST INDIA COMPANY'S CHARTER. (Hansard, 17 April 1…" — https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-the-hallamshire-cutlers
+  - sha256 ba2ab29e8259234d4f48180f6bd04e08b1666d1e257a1b8421f1c0a8a74b0223
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-the-hallamshire-cutlers` in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/cd205de92b28.md` ← `downloads/pages/cd205de92b28.md`
+  - "The Chartist movement - UK Parliament" — https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/overview/chartistmovement/
+  - sha256 cd205de92b285b64377fed583742387a8b05d6f059392fa5e0ab70b6f95837d6
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/dda4372be1f5.md` ← `downloads/pages/dda4372be1f5.md`
+  - "The worldwide economic impact of the Revolutionary and Napoleonic Wars" — https://www.tcd.ie/Economics/TEP/2005_papers/TEP9.pdf
+  - sha256 dda4372be1f53d85e871d6385b57e4a1300cb8d4c632e606a2294517cc66e077
+  - cited as `https://www.tcd.ie/Economics/TEP/2005_papers/TEP9.pdf` in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/e5b32951df65.md` ← `downloads/pages/e5b32951df65.md`
+  - "Crouzet (François). L'économie britannique et le blocus continental (1806- 1813). - Persée" — https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2
+  - sha256 e5b32951df65af85fa89a555ec74437a5be6a7cc2c23e01905f838c7f6a71116
+  - cited as `https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2` in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/ead7fbfac794.md` ← `downloads/pages/ead7fbfac794.md`
+  - "Portal da Câmara dos DeputadosCARTA RÉGIA DE 28 DE JANEIRO DE 1808 - Publicação Original - Portal Câmara dos Deputados" — https://www2.camara.leg.br/legin/fed/carreg_sn/anterioresa1824/cartaregia-35757-28-janeiro-1808-539177-publicacaooriginal-37144-pe.html
+  - sha256 ead7fbfac79470ca2485d6eff97d8471e954fcc8ffd8862247124d4c49ad9bd2
+  - cited as `https://www2.camara.leg.br/legin/fed/carreg_sn/anterioresa1824/cartaregia-35757-28-janeiro-1808-539177-publicacaooriginal-37144-pe.html` in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+- `sources/pages/ef0a274dde3a.md` ← `downloads/pages/ef0a274dde3a.md`
+  - https://e-archivo.uc3m.es/bitstreams/59818d76-9b1b-435d-80c8-857d7d7efafc/download
+  - sha256 ef0a274dde3ad72db4e000864bd4053eda085ef37df476bdb9ed56e79b3b928c
+  - cited as `https://e-archivo.uc3m.es/bitstreams/59818d76-9b1b-435d-80c8-857d7d7efafc/download` in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+
+## Cited, already in this folder
+
+- `B5_british_industry_trade.md`
+  - cited by [t_87ba37] "主线：持续欧洲排除不会可靠地消灭英国工业或迫其交出政治独立；1910年代危机机制是销量、回款、原料、粮价与阶级治理叠加。更稳定的法国霸权需给英国可兑现贸易，而非永久最大伤害。" (inference)
+  - cited by [t_87ba37] "修正上一条发现的年代：1810年代危机由销量、回款、原料、粮价与阶级治理压力叠加，不能写作1910年代。" (inference)
+- `B5_growth_paths.csv`
+  - cited by [t_87ba37] "条件工业包络1848/S0：S2 79–100%，S3 54–79%，S5商业和平88–109%；均为公开a与年增长楔子假设，非估计置信区间；S3低沿仍约1803工业1.95倍。" (inference)
+  - cited by [t_87ba37] "S3条件下，1815–1840排除25年工业为同年史实59–81%，仍约1803的1.72–2.36倍；若延续至1848为54–79%。S2/S5 1848分别79–100%/88–109%。这些是…" (inference)
+- `B5_replacement_diagnostics.csv`
+  - cited by [t_87ba37] "以1804–06平均为基期，旧官方价拉美+亚洲总货物增量/北欧缺口在1811为21.7%，1808–12净额合计87.3%；纯拉美本产回款口径仍缺，因此证据同时支持有效替代与危机年替代不足。" (inference)
+- `build_B5_tables.py`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_87ba37/report_03_model_conclusion.md`
+
+## Consulted but not cited (left where they are)
+
+- `downloads/pages/b774a39e237e.md` — "PETITION FROM BIRMINGHAM AGAINST THE ORDERS IN COUNCIL. (Hansard, 17 April 1812)" — https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the
+- `downloads/pages/d16ce60cffc3.md` — "Sitting of 17 April 1812 (Hansard)" — https://api.parliament.uk/historic-hansard/sittings/1812/apr/17
+
+## Unresolved locators
+
+- `https://www.bankofengland.co.uk/statistics/research-datasets；精确xlsx：https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-the-uk.xlsx；复用B2在2026-09-23取得` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`)
+- `https://archive.org/download/b22297042/b22297042.pdf；转至https://ia601903.us.archive.org/15/items/b22297042/b22297042.pdf。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`)
+- `https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`)
+- `https://www.snes.edu/IMG/pdf/BLOIS_-_Justice_et_luttes_sociales_-_Luddisme_-_Jarrige_1_.pdf` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`)
+- `https://www.nationalarchives.gov.uk/education/resources/protest-and-democracy-1816-to-1818/；` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`)
+- `https://www.nationalarchives.gov.uk/education/resources/protest-democracy-1818-1820/；` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`)
+- `https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/；` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`)
+- `https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/overview/chartistmovement/；` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/B5_british_industry_trade.md`)
+- `http://www.cambridge.org/gb/academic/subjects/history/economic-history/british-economic-growth-12701870?format=PB` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/boe_headers.txt`)
+- `http://gpih.ucdavis.edu/#` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/boe_headers.txt`)
+- `https://e-archivo.uc3m.es/bitstreams/59818d76-9b1b-435d-80c8-857d7d7efafc/download；downloads/pages/ef0a274dde3a.md，实读pp14–23及首部；不声称亲读刊本。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_cuenca_discovery.md`)
+- `downloads/pages/2117b6d948bd.md，实读全文。转引Rory` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_cuenca_discovery.md`)
+- `downloads/pages/2e0619dd75ba.md。检索指向公开数据davidjacks.org/british-trade-data/。论文是十年间隔1700–1899，不满足1803–15逐年问题；只读摘要/数据描述，不使用其全球份额填年度。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_cuenca_discovery.md`)
+- `https://api.parliament.uk/historic-hansard/commons/1811/mar/11/commercial-credit；既有全文` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_hansard_1811.md`)
+- `downloads/pages/3b8b8e348c6d.md（本次已读cc327–348）；复用上一轮t_95ef51定位，但以下独立重读。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_hansard_1811.md`)
+- `downloads/c15_heckscher1922.pdf，doc` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_heckscher_orourke.md`)
+- `https://www.tcd.ie/Economics/TEP/2005_papers/TEP9.pdf；既有downloads/pages/dda4372be1f5.md。本卡实读引言、贸易测量、模型和结论相关段（L20–169、370–450）。不是亲读2006刊本。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_heckscher_orourke.md`)
+- `https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2；本次全文读downloads/pages/e5b32951df65.md。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_heckscher_orourke.md`)
+- `https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-sheffield-against-the；downloads/pages/0cf6ab7705f7.md。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_labour_petitions.md`)
+- `https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-the-hallamshire-cutlers；downloads/pages/ba2ab29e8259.md。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_labour_petitions.md`)
+- `https://www.nationalarchives.gov.uk/education/resources/protest-and-democracy-1816-to-1818/（downloads/pages/6584f2f8b4f1.md）及/protest-democracy-1818-1820/（0165ca641153.md），均全文读。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_labour_petitions.md`)
+- `https://www.britannica.com/money/Combination-Acts；downloads/pages/72f263dafad6.md，仅捕获首段（结尾T截断）。1799/1800法律惩罚工人联合争取工资/工时，三月监禁或两月苦役、两治安官裁决；正文称对雇主条款未有已记录执行。只作制度概述，不由这个截断页引用1824/25后续。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_labour_petitions.md`)
+- `https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/；downloads/pages/98f3132e9a36.md，本卡读正文全（1833不是1803制度）。1831限18岁下12小时尚缺执行；1833扩大到毛纺；设4名检查员管约4000厂，作者直称widely` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_longrun.md`)
+- `https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/overview/chartistmovement/；downloads/pages/cd205de92b28.md，正文全读。1832改革未向无产者普遍扩票；1838宪章六要求，1839/1842/1848请愿遭拒；1848预想骚乱未发生。数字仅概览（1839` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_longrun.md`)
+- `downloads/B5_Marshall_statistical_display1833.pdf，doc6732fd554ca2；SHA6732fd554ca206d55ce2060d31852f46686eaf853b0b621a7f802abbf027e2e7。读/看印p74=PDF88。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_marshall_correction.md`)
+- `downloads/B5_Jarrige_Luddisme2010.pdf，doc4e8fe2aef689，实读pp2–6，https://www.snes.edu/IMG/pdf/BLOIS_-_Justice_et_luttes_sociales_-_Luddisme_-_Jarrige_1_.pdf。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_nonenglish.md`)
+- `https://www2.camara.leg.br/legin/fed/carreg_sn/anterioresa1824/cartaregia-35757-28-janeiro-1808-539177-publicacaooriginal-37144-pe.html，downloads/pages/ead7fbfac794.md。已读正文全。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_nonenglish.md`)
+- `downloads/pages/6305bcbe013e.md，全文已读。Gascoyne呈递，议长及财政大臣援税案规则拒受，最后赞成接受80、反对128。Tarleton愿支持接受但称其1461支持选民无人签字；城市商人不等于全体城市统一政治意志。Tierney` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_87ba37/notes_nonenglish.md`)

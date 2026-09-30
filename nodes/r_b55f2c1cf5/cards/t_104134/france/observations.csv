@@ -1,0 +1,9 @@
+year,time_scope,place,metric,low,high,unit,source,locator,caveat
+1811,late_summer,Scheldt_mouth,line_ships_at_anchor,15,15,ships,James1837_vol5,p328,single_source_not_national_total
+1811,around_late_summer,Antwerp_Terneuse_Flushing,line_ships_on_stocks,12,15,ships,James1837_vol5,p328,author_range_not_statistical_interval
+1811,around_late_summer,Antwerp_Terneuse_Flushing,advanced_on_stocks_subset,5,6,ships,James1837_vol5,p328,subset_do_not_add
+1811,around_late_summer,Antwerp,line_ships_recently_transferred_repairing,3,3,ships,James1837_vol5,p328,not_new_construction
+1814,February,Toulon,line_ships_afloat,23,23,ships,James1902_vol6,p119,James_cites_French_papers_not_independently_checked
+1814,February,Toulon,two_deckers_on_stocks,2,3,ships,James1902_vol6,p119,single_source_range
+1814,capture_of_Genoa,Genoa,Brilliant_ready_for_launching,1,1,ships,James1902_vol6,p119,not_yet_afloat
+1814,capture_of_Genoa,Genoa,other_74_in_frame,1,1,ships,James1902_vol6,p119,not_yet_afloat

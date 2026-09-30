@@ -1,0 +1,22 @@
+one-at-a-time stress 1830 (base parameter set):
+W base 84 hull_readiness
+W lower_launches_30pct 60 hull_readiness
+W lower_recruitment_30pct 57 personnel
+W lower_skill_addition_30pct 69 qualified_personnel
+W higher_hull_exit_2pp 69 hull_readiness
+W ready_minus_10pp 73 hull_readiness
+W crew_900_skill_550 82 personnel
+W no_Antwerp_initial12_and_launch3 50 hull_readiness
+W initial_personnel_minus10k 84 hull_readiness
+W war_loss_3_per_year 64 hull_readiness
+P base 111 personnel
+P lower_launches_30pct 83 hull_readiness
+P lower_recruitment_30pct 69 personnel
+P lower_skill_addition_30pct 106 qualified_personnel
+P higher_hull_exit_2pp 92 hull_readiness
+P ready_minus_10pp 99 hull_readiness
+P crew_900_skill_550 98 personnel
+P no_Antwerp_initial12_and_launch3 71 hull_readiness
+P initial_personnel_minus10k 107 personnel
+P war_loss_3_per_year 107 hull_readiness
+Material rows= 24 Sensitivity rows= 80

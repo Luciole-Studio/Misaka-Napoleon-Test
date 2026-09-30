@@ -1,0 +1,10 @@
+# P8学派前提核对｜来源层与解释风险
+
+1. Schroeder《Napoleon’s Foreign Policy: A Criminal Enterprise》原章未得。H-Diplo/ISSF论坛28 (2021), Jervis篇，网页实际读取 `downloads/pages/0ca37004256f.md`，源 https://issforum.org/forums/28：Jervis转述称他认为诸国能够在法国占优秩序内生存，倘拿破仑不继续试图压碎它们；也警告硬实力不是系统稳定的充分条件。**此是学术转述，不是假装亲读Schroeder；不可概括为“Schroeder认为大国必然反法均衡”**。模型受影响的是法国愿受限制F先验和按条约安抚三国时的响应，不是战场上的固定败率。原章Springer PDF重定向失败。
+2. Esdaile《War and Politics in Spain, 1808–1814》，Historical Journal 31(2), 1988，Cambridge网页仅Extract，`downloads/pages/cdb0562e50e9.md`。自署Extract：葡、西抵抗钉住法军，英国Wellington不能单靠己力在西班牙推进；作者亦说如无俄国战役转军，1810–11西班牙抵抗基础或被法毁，并承认此反事实。另Leggiere对Esdaile《Napoleon’s Wars》书评（搜索摘要，非原文）说他重拿破仑扩张个体、同时承认波/奥帝国/英殖竞争结构与他国自主。故“Esdaile赌徒论”数值应只扰动F纪律/西班牙，不把俄军与英海军固定不反应。
+3. Lieven《Russia Against Napoleon》项目下载 EPUB `downloads/Lieven_Russia_Against_Napoleon__eb0222af5482.epub`，R3全文转文本（本卡未直读）；2021 Oxford Handbook《Imperial Defence》公开摘要搜索转述、原书评论（Hosking LRB）提出1812–14俄国行政、野战军再生与外交从最弱处制衡法国，并非仅靠冬天。R1/R2台账原始证据保护性关税下“俄国免战”只在法放波兰加压、容俄贸易减压时；到1848不得把俄国当藩属。
+4. Crouzet《L'économie britannique et le blocus continental》原书未取；Chaloner 1960书评经Persée搜索转述其认为英国在1810–12因封锁经历实质工贸震荡；O'Rourke等论文摘录指出Heckscher重走私而Crouzet重局部有效期；不能把Crouzet立场误读成英国不可抵抗/必降。Patrick K. O'Brien LSE WP150/11 原PDF已下载+索引 doc `20dbac7c2500`，p.3摘要称战时动员成本、海军战后优势与工业化共存，p.13–16税收层占国民收入1812–15达18.2%、战费年增约5%而GDP仅约1.5%；*草稿扉页Not to be cited without permission*，P8正式报告不逐字引，用项目已引B2/B5/O'Brien 1988刊文支撑。
+5. Broers《Europe Under Napoleon》，Perlego页面只开放第1章全文片段 `downloads/pages/744b4a53336f.md`：1799法国只是区域强国；1801–05拿破仑重视限度，选择瑞士调停（得到16,000人）而不硬并；英国在1802和约时为调整军队/商网可停战。其余内容仅目录，另1997 H-Net书评可据此标二手：行政现代化亦产生抵抗、本地阶级宗教异质。模型应增内圈A吸收能力但不能自动扩大外圈政治可行或给全欧A高胜率。
+6. Evans《Altered Pasts》出版者页面 `downloads/pages/b1812133dadc.md` 是简介而非正文，指出方法风险是“一个时间节点变化→不同结局”的隐含议程；Tetlock/Belkin Princeton出版页只证有判准，不提供具体验真标准；U. Turku研究博客公开列六项清晰/逻辑相容/最小改写/理论/统计/可投射，但为二手转述。P8不冒充读完方法著作。事件树每一条反事实变更须写条件，不能将已条件在F的政策共因再叠正相关。
+
+与学校条件概率相关的**关键反证**：Schroeder被简化成“结构反法宿命”会反置结论，Broers被简化成“制度现代化可无限兼并”也错误。五组学校参数是本卡解读与压力测试，不属于这些作者认可的概率；引用必须注明原文/转引。

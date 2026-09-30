@@ -1,0 +1,11 @@
+{
+ "seq": 2,
+ "path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_b0f045/notes_silver.md",
+ "ops": [
+  {
+   "append": {
+    "content": "\n## C. 美国商人网络的具体规模（第5章，Figure 5.2及印刷pp.177–180）\n- 四个美国港口节点（Figure 5.2 “Operations of the Hope/Baring Consortium with Mexico, 1805–1808”）：**D. Parish 费城、R. Oliver 巴尔的摩、A. Gracie 纽约、V. Nolte 新奥尔良**；对端为 Villanueva（韦拉克鲁斯）→Hope（阿姆斯特丹）、Baring（伦敦）、Paris 商人公司→**French Treasury**。\n- Parish 1806-01抵费城，两周内与 John Craig（费城）与 Robert Oliver（巴尔的摩）签约；Craig 是 Consolidación 基金驻美代表 Sarmiento 的岳父，又是 Oliver 的连襟。\n- 量级：“This house [Oliver] was to be in charge of sending **at least thirty-eight expeditions to Veracruz between 1806 and 1808**.”（印刷p.179）\n- 新奥尔良：“Between mid-1805 and the end of 1806, **approximately twenty ships left from New Orleans for Veracruz** on Nolte's account and a similar number in the following two years.”\n- 单航次白银载量（注84，印刷p.177）：“With each shipment sent from Veracruz in the hired neutral vessels, Villanueva would include quantities of silver that fluctuated between **50,000 and 100,000 pesos**, the result of cashing in bills of exchange of the Consolidation account.”\n- 作者自限（注89）：AGN Marina 各卷有缺口，“making it premature to attempt a definitive calculation”→**不得用 38×(5–7.5万) 相乘当作已知总额**；只能给区间与机制。\n- Parish 与 Talleyrand 的情报-投机交换（注82，转引 Nolte 回忆与 Walters 1944）：回溯性材料，仅作旁证。\n\n【可算区间（模型·非观测）】若 1806–08 仅 Oliver 的38航次每航载银5–7.5万 pesos，则仅此一家为 190–285 万 pesos；加新奥尔良约40航次与纽约/费城未计数航次，1805–08 经美旗输出的银在 **400–800 万 pesos** 量级（与 10 张汇票面额 848 万同阶）——作为压力尺度，不作实测。\n"
+   }
+  }
+ ]
+}

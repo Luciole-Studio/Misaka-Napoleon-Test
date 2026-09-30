@@ -1,0 +1,95 @@
+L1 [20c] tokens=0 hit=0 miss=0 :: # 回到1803：拿破仑帝国的可能性边界
+L2 [22c] tokens=0 hit=0 miss=0 :: ## 一部反事实的欧洲史，1803–1848
+L4 [48c] tokens=3 hit=2 miss=1 :: **终审报告 · 运行 r_5b1357a9c6（v4，53卡）· Last Order 撰**
+   HIT : 453@04:291,07:121,10:20,10:239 | Order@06:19
+   MISS: 1357
+L5 [39c] tokens=2 hit=1 miss=1 :: （红队 10043 审查后由 Last Order 亲自修订；不再派发子节点）
+   HIT : Order@06:19
+   MISS: 10043
+L7 [3c] tokens=0 hit=0 miss=0 :: ---
+L9 [6c] tokens=0 hit=0 miss=0 :: ### 凡例
+L11 [288c] tokens=0 hit=0 miss=0 :: 1. **三段式标签。** 全书每一处推演都区分：【锚】＝史料或文书（附作者、书名、页码或原文）；【机】＝史实类比或理论机制（附适用条件）；【推】＝在情景下的具体演变，标高／中／低
+L12 [237c] tokens=0 hit=0 miss=0 :: 2. **情景代号。** S0史实；S1不列颠中立化（含入侵线）；S2大陆整固（不废西王、不打俄、对英武装共存——以提尔西特后处境为前提）；S3封锁绞杀；S4东方转向；S5秩序固化
+L13 [127c] tokens=0 hit=0 miss=0 :: 3. **"行省化"三层。** A＝并合省（法国省制直辖）；B＝法典化藩属（保有本国军政机器、行法国法典）；C＝强制同盟（条约约束）。本书区分"字面版"（A层覆盖大陆）、"边界版"
+L14 [75c] tokens=0 hit=0 miss=0 :: 4. **概率。** 全书概率均为研究者裁量的**条件判断带**，不是历史频率、统计置信区间或市场赔率；不得相乘。凡引用模型输出，注明"模型非观测"。
+L15 [80c] tokens=0 hit=0 miss=0 :: 5. **引用诚信。** 只引读到的版本；转引标"转引"；圣赫勒拿与回忆录标"回溯性"；档案系列名只作谱系不假装亲阅；索引库查无≠文献不存在。引文保留原文语言。
+L16 [116c] tokens=1 hit=1 miss=0 :: 6. **单位与货币。** 法郎（m＝百万）、英镑（£）、比索（pesos）、里拉、盾（fl.）、塔勒、卢布按原文；人数"在册"≠"在场"（在场≈在册×0.85）；战列舰分H（舰体
+   HIT : 0.85@05:351
+L18 [3c] tokens=0 hit=0 miss=0 :: ---
+L20 [6c] tokens=0 hit=0 miss=0 :: ### 目录
+L22 [36c] tokens=0 hit=0 miss=0 :: **导论**　问题、方法、上一轮的三病、本轮的修正、红队的十项异议与处置
+L24 [31c] tokens=0 hit=0 miss=0 :: **第一部　起点：1803年的世界与每一个行动者的能力包络**
+L25 [29c] tokens=0 hit=0 miss=0 :: - 第一章　法国（一）决策中枢：拿破仑本人、大臣与秩序蓝图
+L26 [31c] tokens=0 hit=0 miss=0 :: - 第二章　法国（二）陆军：兵员、马匹、军械、后勤与占领军上限
+L27 [18c] tokens=0 hit=0 miss=0 :: - 第三章　法国（三）海军与海事经济
+L28 [21c] tokens=0 hit=0 miss=0 :: - 第四章　法国（四）财政、银行与统治阶级
+L29 [33c] tokens=0 hit=0 miss=0 :: - 第五章　法国（五）社会与政权存续：征兵容忍、教会、保王派、继承
+L30 [34c] tokens=0 hit=0 miss=0 :: - 第六章　不列颠（一）政治：内阁、议会、王室、和平党与登陆后的决策
+L31 [17c] tokens=0 hit=0 miss=0 :: - 第七章　不列颠（二）财政与信用
+L32 [20c] tokens=0 hit=0 miss=0 :: - 第八章　不列颠（三）皇家海军与海军部
+L33 [19c] tokens=0 hit=0 miss=0 :: - 第九章　不列颠（四）陆军与本土防御
+L34 [20c] tokens=0 hit=0 miss=0 :: - 第十章　不列颠（五）工业、商业与劳工
+L35 [17c] tokens=0 hit=0 miss=0 :: - 第十一章　不列颠（六）海外帝国
+L36 [10c] tokens=0 hit=0 miss=0 :: - 第十二章　爱尔兰
+L37 [19c] tokens=0 hit=0 miss=0 :: - 第十三章　俄国（一）宫廷与外交精英
+L38 [22c] tokens=0 hit=0 miss=0 :: - 第十四章　俄国（二）贵族、农奴经济与财政
+L39 [19c] tokens=0 hit=0 miss=0 :: - 第十五章　俄国（三）军队与多线战争
+L40 [13c] tokens=0 hit=0 miss=0 :: - 第十六章　波兰-立陶宛
+L41 [10c] tokens=0 hit=0 miss=0 :: - 第十七章　奥地利
+L42 [10c] tokens=0 hit=0 miss=0 :: - 第十八章　普鲁士
+L43 [11c] tokens=0 hit=0 miss=0 :: - 第十九章　南德诸邦
+L44 [12c] tokens=0 hit=0 miss=0 :: - 第二十章　北中德意志
+L45 [13c] tokens=0 hit=0 miss=0 :: - 第二十一章　荷兰与瑞士
+L46 [16c] tokens=0 hit=0 miss=0 :: - 第二十二章　丹麦-挪威与瑞典
+L47 [13c] tokens=0 hit=0 miss=0 :: - 第二十三章　意大利王国
+L48 [16c] tokens=0 hit=0 miss=0 :: - 第二十四章　那不勒斯与西西里
+L49 [16c] tokens=0 hit=0 miss=0 :: - 第二十五章　教廷与欧洲诸教会
+L50 [19c] tokens=0 hit=0 miss=0 :: - 第二十六章　西班牙（一）宫廷与国家
+L51 [19c] tokens=0 hit=0 miss=0 :: - 第二十七章　西班牙（二）社会与抵抗
+L52 [14c] tokens=0 hit=0 miss=0 :: - 第二十八章　葡萄牙与巴西
+L53 [13c] tokens=0 hit=0 miss=0 :: - 第二十九章　奥斯曼帝国
+L54 [20c] tokens=0 hit=0 miss=0 :: - 第三十章　埃及、穆罕默德·阿里与红海
+L55 [18c] tokens=0 hit=0 miss=0 :: - 第三十一章　波斯、阿富汗与旁遮普
+L56 [13c] tokens=0 hit=0 miss=0 :: - 第三十二章　东印度公司
+L57 [18c] tokens=0 hit=0 miss=0 :: - 第三十三章　印度诸邦与法属印度洋
+L58 [10c] tokens=0 hit=0 miss=0 :: - 第三十四章　美国
+L59 [14c] tokens=0 hit=0 miss=0 :: - 第三十五章　海地与加勒比
+L60 [15c] tokens=0 hit=0 miss=0 :: - 第三十六章　新西班牙与古巴
+L61 [10c] tokens=0 hit=0 miss=0 :: - 第三十七章　南美
+L62 [13c] tokens=0 hit=0 miss=0 :: - 第三十八章　国际金融家
+L63 [18c] tokens=0 hit=0 miss=0 :: - 第三十九章　大陆体系作为执行机器
+L64 [14c] tokens=0 hit=0 miss=0 :: - 第四十章　科技与工业能力
+L65 [25c] tokens=0 hit=0 miss=0 :: - 第四十一章　思潮、民族主义、宗教复兴与社会运动
+L66 [18c] tokens=0 hit=0 miss=0 :: - 第四十二章　生态、人口与资源储量
+L67 [18c] tokens=0 hit=0 miss=0 :: - 第四十三章　并合省内圈的整合实绩
+L68 [17c] tokens=0 hit=0 miss=0 :: - 第四十四章　并合省外圈的断裂点
+L69 [28c] tokens=0 hit=0 miss=0 :: - 第四十五章　反抗的决定因素：三十五个地区—时段的比较
+L70 [14c] tokens=0 hit=0 miss=0 :: - 第四十六章　整合绩效面板
+L71 [22c] tokens=0 hit=0 miss=0 :: - 第四十七章　市场的证词：公债、汇率与保费
+L73 [17c] tokens=0 hit=0 miss=0 :: **第二部　如何赢：路径的对弈**
+L74 [25c] tokens=0 hit=0 miss=0 :: - 第四十八章　对弈规则、奇迹的计价与三条互斥定理
+L75 [24c] tokens=0 hit=0 miss=0 :: - 第四十九章　被否决的三条路：入侵、绞杀、东方
+L76 [45c] tokens=0 hit=0 miss=0 :: - 第五十章　主线的重构：S2本义（史实至提尔西特＋两个开关）与路径B（1803年即切换）
+L77 [15c] tokens=0 hit=0 miss=0 :: - 第五十一章　两个开关的解剖
+L78 [30c] tokens=0 hit=0 miss=0 :: - 第五十二章　英国如何"不败而接受"：条件、窗口、安特卫普
+L79 [27c] tokens=0 hit=0 miss=0 :: - 第五十三章　概率：从1803年出发，这条路有多现实
+L81 [18c] tokens=0 hit=0 miss=0 :: **第三部　行省化：最重要的问题**
+L82 [16c] tokens=0 hit=0 miss=0 :: - 第五十四章　三层回答与五本账
+L83 [15c] tokens=0 hit=0 miss=0 :: - 第五十五章　为什么外圈必断
+L84 [21c] tokens=0 hit=0 miss=0 :: - 第五十六章　乙层：技术可闭合、政治未证
+L85 [19c] tokens=0 hit=0 miss=0 :: - 第五十七章　官员、宪兵、语言与教会
+L87 [25c] tokens=0 hit=0 miss=0 :: **第四部　法胜欧洲的运作，1815–1848**
+L88 [17c] tokens=0 hit=0 miss=0 :: - 第五十八章　骨架年表（修正后）
+L89 [12c] tokens=0 hit=0 miss=0 :: - 第五十九章　经济秩序
+L90 [18c] tokens=0 hit=0 miss=0 :: - 第六十章　社会、思想、教会与继承
+L91 [17c] tokens=0 hit=0 miss=0 :: - 第六十一章　各国在秩序中的位置
+L92 [12c] tokens=0 hit=0 miss=0 :: - 第六十二章　1848
+L94 [10c] tokens=0 hit=0 miss=0 :: **第五部　分问**
+L95 [14c] tokens=0 hit=0 miss=0 :: - 第六十三章　英法海军差距
+L96 [14c] tokens=0 hit=0 miss=0 :: - 第六十四章　西班牙的终局
+L97 [15c] tokens=0 hit=0 miss=0 :: - 第六十五章　罗马王与意大利
+L98 [15c] tokens=0 hit=0 miss=0 :: - 第六十六章　普鲁士与奥地利
+L99 [10c] tokens=0 hit=0 miss=0 :: - 第六十七章　美洲
+L100 [10c] tokens=0 hit=0 miss=0 :: - 第六十八章　印度
+L102 [28c] tokens=0 hit=0 miss=0 :: **结论**　主线、备选结论群、置信、改判证据、未决问题
+L103 [48c] tokens=0 hit=0 miss=0 :: **附录**　一、材料总目（已读／转引／未获）；二、口径冲突表；三、红队意见处置表；四、数字总表

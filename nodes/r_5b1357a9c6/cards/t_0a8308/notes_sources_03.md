@@ -1,0 +1,12 @@
+# M1来源核读摘录3：海险与潜在升级线索
+
+## 亲读二手出版物，非亲阅合同
+
+- A.B. Leonard, ‘The Pricing Revolution in Marine Insurance’, 24页独立文章/working paper，`downloads/M1_Leonard_marine_insurance.pdf`, doc 7074ba31cdb3，印p.22／PDF p22原句：‘The Napoleonic Wars brought, in 1809, one of the highest prices recorded (and seen on two occasions): 60% for the cost of insuring cargoes on this route.’ 上文定位伦敦—加的斯；PDF p22影像亦核。是两次极端航线报价，**非Lloyd平均、非欧洲海险指标**；未见其1809合同或作者数据表，须标二手和年月缺。
+- Manuel Llorca-Jaña, ‘The Marine Insurance Market for British Textile Exports to the Southern Cone, c. 1780–1850’, in *The Development of International Insurance*，`downloads/M1_LlorcaJana_marine_insurance.pdf`, doc 30ac696b05c2，印p.30／PDF p6载“insurance rates as high as between 6 and 12 per cent ... during periods of warfare”; 关键脚注26印p.193／PDF p14：‘In 1812, during the Napoleonic Wars, premiums from British ports to Buenos Aires were quoted at 12.5–18.8 per cent. Lupton & Co., Leeds, to McNeile & Co., Buenos Aires, 7 November 1812, WLP, vol. 9.’ 作者亲阅档案，但本卡转引，不是本卡亲阅。
+- 同文脚注32印p.194／PDF p15：‘during the Napoleonic Wars, marine insurance premiums for cargoes from Britain to Buenos Aires were as high as 9.6 per cent (e.g. in 1813). In contrast, in 1816 the premium had been reduced to 2.28 per cent. Danson, Our Next War, pp. 90–1.’ 1813→1816对照**同航线不同年份，但未控季节/船期/船舶质量/承保条款/承保人**，不能全差归因战争；二手引Danson，不能等同独立合约。脚注3印p.192／PDF p13提供Danson全题：J. T. Danson, *Our Next War in its Commercial Aspect, with Some Account of the Premiums Paid at ‘Lloyd’s’ from 1805 to 1816*, London: Blades, East & Blades, 1894。Hathi目录 https://catalog.hathitrust.org/Record/100475511 本地 `downloads/pages/8ed7ad29d98d.md` 标Harvard full view ID hvd.hb0uqh，但babel正文HTTP403，**仅查目录未读原书**；需要外部可读扫描或图书馆凭证解锁。
+- 同文印pp.29–30／PDF pp.5–6及注28–32列出同航线保险价严重依赖包装、船况、船长、船季、航线、货物、船龄及承保额度；不能把海险费无风险溢价地转换为英国战败概率。1810议会海险委员会的Lloyd结构见印p.27/PDF p3（转引）。
+- 1813拿破仑死亡/被俘合同全文转录见 `downloads/pages/9058a83137c2.md` 行72–101；‘In consideration of three guineas per one hundred pounds ... without any abatement whatsoever, in case Napoleon Bonaparte shall cease to exist, or be taken prisoner on or before the 21st June, 1813. London, 21st May, 1813. £100 R. Heath. £150 Anthony Finn Kemp. £150 B. I. Mitchell.’ 与 Wright & Fayle 1928目录描述同一底层保单，不得当两份独立验证。可用3.15%毛价灵敏度，细则需说明。
+
+## 链源的独立性及可补缺口
+上述Llorca 1813数据与Danson不是独立观察；Leonard伦敦—加的斯据另一来源的具体底本未查。直接接触Lupton & Co (University Leeds Brotherton WLP vol.9)、Danson印pp.90–91及附表可提升海险价源等级；获取失败不证明不存在。莱茵走私贿赂保费X2不是海险。汉堡贵金属agio不能与Antipa英国纸币黄金agio混淆。

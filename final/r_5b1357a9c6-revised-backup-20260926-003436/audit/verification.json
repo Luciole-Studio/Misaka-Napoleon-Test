@@ -1,0 +1,133 @@
+{
+  "characters_without_metadata": 325755,
+  "han_characters": 202835,
+  "chapters_including_introduction_appendix": 12,
+  "tables": 69,
+  "source_note_definitions": 238,
+  "source_note_calls": 454,
+  "missing_notes": [],
+  "duplicate_note_definitions": [],
+  "unused_note_definitions": [],
+  "table_column_errors": [],
+  "original_report_files": [
+    {
+      "path": "final/r_5b1357a9c6-report/00_目录与凡例.md",
+      "unchanged": true,
+      "sha256": "ddcbd2a04e732c2f72a9e846f9164ee7533aa74de7f339c4c6619e573c56ed85"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/01_导论.md",
+      "unchanged": true,
+      "sha256": "8a3a0eaa7ead5afa022a02e38d7baba89aaca7ffc1ff1f9a299f816df50c010c"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/02_第一部_法国_中枢与陆军.md",
+      "unchanged": true,
+      "sha256": "950c4187e2ab87288f7a371f041fcf7ed824f3f78da0875888166e6a4ce9fd15"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/03_第一部_法国_海军财政社会.md",
+      "unchanged": true,
+      "sha256": "896a923f26dd56dcbaca4beac27a823a4622d14088fe00359d6f325b907bf632"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/04_第一部_不列颠.md",
+      "unchanged": true,
+      "sha256": "0867fb99226d8dc78f6558707ff4719dc3462c22775c61c45f6b2e0e91c64cc4"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/05_第一部_俄国波兰.md",
+      "unchanged": true,
+      "sha256": "c7656b75a608765ebcc05e09b5dc58656aefa896fd8df024f857525cc6179e75"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/06_第一部_中欧北欧.md",
+      "unchanged": true,
+      "sha256": "1631f7038e0f8a27051491c54fc099bc586f781cde33c5b44bb295a09260b634"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/07_第一部_意大利伊比利亚.md",
+      "unchanged": true,
+      "sha256": "de094e3e11d85ac91fd835117904e04eefcb9668518c8457171de65189cafd73"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/08_第一部_东方.md",
+      "unchanged": true,
+      "sha256": "42ffb7d5ca0afd32929115ccd1094925821c874b830fd455e6a6e8366f422468"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/09_第一部_美洲.md",
+      "unchanged": true,
+      "sha256": "d28439be64bb2ee5dce4a62de78bea0c43293f7aa8c4332e60802462e708d0f1"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/10_第一部_跨国机器.md",
+      "unchanged": true,
+      "sha256": "163a0ceae620cbd1530e672e9ce3a90dd379bba5d92175fd88f8c7cdd40ee948"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/11_第一部_并合省实绩.md",
+      "unchanged": true,
+      "sha256": "8c04c755591e58a3ad68e736415bdc7095a467cc22048405231fed2188b2ed9b"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/12_第二部_对弈规则与被否决的路.md",
+      "unchanged": true,
+      "sha256": "874633522bb484c5cb0640a619bdb30d3ac5763d47888ae714b2868d49a44089"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/13_第二部_主线重构与开关.md",
+      "unchanged": true,
+      "sha256": "00f1f6f857ab896a7e1bfe14ef90dc7aad73baf90ac512bc8b796b97093eb767"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/14_第三部_行省化.md",
+      "unchanged": true,
+      "sha256": "55cb17158d3fc58e9e80a52ac489d3367e11053533a7efae679bbfa0685c611f"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/15_第四部_年表与经济秩序.md",
+      "unchanged": true,
+      "sha256": "e4a30065b7364cd8cf4073076d5f1ee6eadc5e4f5cb44cf1c3f39022e63d51e0"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/16_第四部_社会继承各国1848.md",
+      "unchanged": true,
+      "sha256": "5f63df27a98f488b54ef67285649c91d80ad387b6bda568e1b788a071cd3d883"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/17_第五部_分问.md",
+      "unchanged": true,
+      "sha256": "76e492245d03510920ae3ee546c86425c8509f0ce94379aeca56c1b8d48c974e"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/18_结论.md",
+      "unchanged": true,
+      "sha256": "38dedccb2dc73584afdfee6c456446d7293af1531f55b4f5734ec175c3c23bfb"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/19_附录.md",
+      "unchanged": true,
+      "sha256": "ba34e6e01686e019735e604bcb8f04959614d0a42353d9eb4b4230362fe8fa85"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/20_第六部_上一轮成果与改判.md",
+      "unchanged": true,
+      "sha256": "6efdc474234ee4cee01d78f8e43a1c5d6bb6c0a324b815cc3cea874c8377540d"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/21_第七十四章_补遗.md",
+      "unchanged": true,
+      "sha256": "e7ed4be55607596325dbf8fd56a3f2f8622166848f8b6b2297171d26f38ed2d2"
+    },
+    {
+      "path": "final/r_5b1357a9c6-report/附录一_材料总目_工作区文件.csv",
+      "unchanged": true,
+      "sha256": "4cd67ffc3b8c14e2283c82de92ba0eb162054b49d5dd2a70423a39cf1b9d30de"
+    }
+  ],
+  "original_report_unchanged": true,
+  "html_sha256": "fcffe877fd8e85d6f1b269df16c1f818e0edc5ca411651e8abb68627fdb43570",
+  "markdown_sha256": "9f31a9ebd0efa601224af9bd78210358ff5f6ef6fda7858b4cee4b61d9d03bae",
+  "limits": "Counts and static checks are not a claim of exhaustive archive reading, causal model validation, or whole-book PDF visual proof."
+}

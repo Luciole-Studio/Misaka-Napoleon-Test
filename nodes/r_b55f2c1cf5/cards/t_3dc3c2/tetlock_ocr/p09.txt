@@ -1,0 +1,90 @@
+2 P. E. TETLOCK AND A. BELKIN
+
+motivational perversity), players stray from an equilibrium to a non-
+equilibrium path so that one or both are worse off than they otherwise could
+be, the counterfactual is suspect. These ground rules for judging the permis-
+sibility of possible worlds are commendably precise, albeit rather procrus-
+tean. There is no guarantee that history is efficient in the sense of quickly
+identifying equilibrium solutions; history may be better viewed as a “path-
+dependent meander” (March and Olson 1995) in which accidents, fortuitous
+opportunities, and miscalculations often lead us into culs-de-sac from which
+it is difficult, even impossible, to extricate ourselves.
+
+4. Pure Thought Experiments: Logical Proofs and Computer Simulations
+
+‘Our contributors often use counterfactuals to reinforce a causal argument (be
+it an idiographic one concerning the impact of a particular belief, person, or
+policy, or a nomothetic one concerning causal processes that theoretically
+transcend context). But they also sometimes use counterfactuals to reveal
+previously hidden contradictions or ambiguities in the logical structure of the
+causal arguments that others have advanced.
+
+Using counterfactuals to probe the logical completeness and internal co-
+herence of claims is commonplace in mathematics, the physical sciences,
+and economics. A prototype is Euclid’s elegant proof that the number of
+prime numbers must be infinite because if we take the counterproposal seri-
+ously, we are compelled to make contradictory claims. For example, if and
+only if the number of prime numbers were finite, then there would exist
+nonprime number x such that x equals the product of all primes plus 1 (x
+(Pip2 . . - p,») + 1). But if this were true, x as a nonprime number must by
+definition be directly factorable into either nonprimes or primes and, if fac-
+torable into nonprimes, those nonprimes must eventually be factorable into
+primes. But this is impossible given the method of constructing x, so the
+number of primes must be infinite and the antecedent must be false.
+
+We know of no comparable reductio ad absurdum in world polities or
+indeed of thought experiments that are as decisive in shaking theoretical
+convictions as those of Galileo and Einstein in physical science or of
+Ricardo, Coase, and Arrow in economic theory. But we do see some inter-
+sting parallels with the computer simulations of complex adaptive systems
+that Cederman and Fearon discuss in their respective chapters. One inter-
+pretation of these simulations is that they highlight logical lacunae in cur-
+rently influential approaches to world politics. The qualification “one inter-
+pretation” is critical; one is not obliged to accept this interpretation for the
+simple reason that the simulation-based counterfactuals lack the “if and only
+if” delivering power of rigorous mathematical proofs in well-defined axi-
+
+COUNTERFACTUAL THOUGHT EXPERIMENTS. B
+
+omatic systems. For example, one could argue that if balancing were inevi-
+table in anarchic international systems, then global hegemons would not
+emerge in simulated worlds which, according to Cederman (Chapter 11),
+capture the key functional attributes of anarchy within a neorealist frame-
+work. But because hegemons do emerge, and emerge especially frequently
+when defense-dominance prevails (an additional unwelcome surprise for
+some theorists), this neorealist prediction may (not must) be wrong. Ceder-
+‘man’s simulations of artificial histories suggest that we may have just been
+lucky that an Alexander or Hitler or Napoleon has not yet conquered the
+world! Or, shifting to Fearon’s chapter, one could argue that if long-term
+forecasting were possible in complex interdependent systems, then we could
+predict the long-term consequences of minor variations in initial settings for
+cellular automata. But because we cannot make accurate long-term predic~
+tions even in these simple, well-understood systems, perhaps long-term pre~
+dictability also breaks down in the much more complex and poorly under-
+stood domain of world politics. These simulation-driven counterfactuals are
+not deductively decisive but they are intellectually seductive. They nudge us
+gently toward the conclusion that something is awry with key assumptions
+that serve as starting points for influential analyses of security is
+
+5. Mental Simulations of Counterfactual Worlds
+
+Not all counterfactual simulations of possible worlds need run through the
+logical structures of computer programs; some run through the psychological
+structures of the human mind. The classic thought experiments of physicists
+and economists illustrate the point in the abstract, but it is possible to make
+the same point with examples more directly relevant to world politics. Ask-
+ing people to imagine and work through the detailed implications of hypo-
+thetical worlds is a powerful educational and rhetorical tool. Like their for-
+mal epistemological kin (logical proofs and computer simulations), mental
+simulations can highlight contradictions and ambiguities in one’s
+‘own and others intellectual positions (see also Tumer's notion of spotlight
+counterfactuals in Commentary 1). As Kahneman (1995) points out, mental
+simulations derive their persuasive force and power to surprise by revealing
+previously unnoticed tensions between explicit, conscious beliefs and im-
+plicit, unconscious ones. In this sense, people discover aspects of them-
+selves in mental simulations that would otherwise have gone undiscovered.
+We find it useful to distinguish three specific ways in which mental simula~
+tions can yield insights into our own thought processes: by revealing double
+standards in moral judgment, contradictory causal beliefs, and the influence
+of unwanted biases such as certainty of hindsight,
+

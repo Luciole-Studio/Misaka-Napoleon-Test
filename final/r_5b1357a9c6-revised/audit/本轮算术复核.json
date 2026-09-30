@@ -1,0 +1,112 @@
+[
+  {
+    "item": "法国陆海民政共同预算",
+    "balances_mfr": [
+      "-90",
+      "10",
+      "0",
+      "-50"
+    ],
+    "pass": true
+  },
+  {
+    "item": "驻军原表非空格加总",
+    "country_mfr": [
+      "22.7",
+      "22.0",
+      "36.1",
+      "48.33"
+    ],
+    "total_mfr": "129.13",
+    "original_total_mfr": "129.1 rounded",
+    "pass": true
+  },
+  {
+    "item": "条约贡赋三栏",
+    "row_sums_mfr": [
+      "436",
+      "136",
+      "300"
+    ],
+    "original_total_row": [
+      "414",
+      "136",
+      "278"
+    ],
+    "pass": true,
+    "interpretation": "Source inconsistency preserved, not silently repaired."
+  },
+  {
+    "item": "普通征发四栏",
+    "row_sums_mfr": [
+      "807",
+      "736",
+      "75",
+      "17"
+    ],
+    "original_army_total": "734",
+    "pass": true
+  },
+  {
+    "item": "1815败后负担",
+    "sum_mfr": 1412,
+    "pass": true
+  },
+  {
+    "item": "Ellis已列出口目的地覆盖",
+    "years": [
+      {
+        "year": "共和十四年—1806",
+        "sum": "464.559",
+        "coverage": "99.9%"
+      },
+      {
+        "year": "1810",
+        "sum": "376.104",
+        "coverage": "99.8%"
+      },
+      {
+        "year": "1813",
+        "sum": "353.648",
+        "coverage": "99.9%"
+      },
+      {
+        "year": "1817",
+        "sum": "322.364",
+        "coverage": "69.5%"
+      }
+    ],
+    "pass": true
+  },
+  {
+    "item": "Marion账期现金比",
+    "percent": "86.60840755503860764274111436",
+    "pass": true
+  },
+  {
+    "item": "殖民补偿比较",
+    "ratio": "6.25",
+    "interpretation": "Arithmetic only, not a universal asset-price ratio",
+    "pass": true
+  },
+  {
+    "item": "直布罗陀到港分类加总",
+    "calculated": [
+      "411",
+      "701",
+      "1074",
+      "779",
+      "1041",
+      "1177"
+    ],
+    "original": [
+      "411",
+      "701",
+      "1071",
+      "789",
+      "1021",
+      "1177"
+    ],
+    "pass": true
+  }
+]

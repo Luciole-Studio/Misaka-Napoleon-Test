@@ -1,0 +1,11 @@
+{
+ "seq": 1,
+ "path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_c69786/notes_capacity.md",
+ "ops": [
+  {
+   "append": {
+    "content": "\n### K1/K2补核（避免口径滑移）\n- 已读B2 `BoE_provenance.json`：源URL https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-the-uk.xlsx ，v3.1更新至2016，2026-09-23下载，sha256 4c23dd392a498691eac92659aec283fb43f28118bd80511dc87fc595974195eb；B2用openpyxl data_only读取缓存而非重算公式。\n- 已读旧C16 `trade_evidence.md` 第一至三节：Heckscher p.244解释real是declared、不是不变价；**报关地域仅Great Britain不含Ireland**，UK produce只是产品类别。因此本卡数值写‘大不列颠报关的联合王国产品’。p.245全球该类毛出口1810 £49.98m、1811 £34.92m；美国1810 £10.92m、1811 £1.84m；美国以外美洲含West Indies £15.64m→£11.94m。源系Heckscher转引Hansard XXII appendix1 cols.lxi–lxii，非本卡亲读海关账。\n- Heckscher p.240：“exporters could not get payment from their South American buyers”；p.241回款往往为殖民地产物。装船额不等于售出/收款，不设海外能无限接盘。\n"
+   }
+  }
+ ]
+}

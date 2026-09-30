@@ -1,0 +1,19 @@
+test,year,france_A12,france_hulls,baseline_UK_A12,tonnage_ratio_FR_over_UK,effectiveness_ratio_FR_over_UK,warning,uk_branch
+lower_launches_30pct,1815,56,72.592,115.0,0.5535,0.3077,single shock only; UK response held at W base,
+lower_recruitment_30pct,1815,49,86.86,115.0,0.6623,0.2693,single shock only; UK response held at W base,
+ready_minus_10pp,1815,58,86.86,115.0,0.6623,0.3187,single shock only; UK response held at W base,
+no_Antwerp_initial12_and_launch3,1815,48,62.019,115.0,0.4729,0.2638,single shock only; UK response held at W base,
+lower_launches_30pct,1820,60,78.566,122.5,0.5658,0.3201,single shock only; UK response held at W base,
+lower_recruitment_30pct,1820,53,101.144,122.5,0.7284,0.2827,single shock only; UK response held at W base,
+ready_minus_10pp,1820,68,101.144,122.5,0.7284,0.3627,single shock only; UK response held at W base,
+no_Antwerp_initial12_and_launch3,1820,52,68.349,122.5,0.4922,0.2774,single shock only; UK response held at W base,
+lower_launches_30pct,1825,60,78.438,130.0,0.5352,0.3112,single shock only; UK response held at W base,
+lower_recruitment_30pct,1825,55,105.409,130.0,0.7192,0.2853,single shock only; UK response held at W base,
+ready_minus_10pp,1825,71,105.409,130.0,0.7192,0.3683,single shock only; UK response held at W base,
+no_Antwerp_initial12_and_launch3,1825,51,66.46,130.0,0.4534,0.2645,single shock only; UK response held at W base,
+lower_launches_30pct,1830,60,78.339,130.0,0.5345,0.3205,single shock only; UK response held at W base,
+lower_recruitment_30pct,1830,57,108.71,130.0,0.7417,0.3045,single shock only; UK response held at W base,
+ready_minus_10pp,1830,73,108.71,130.0,0.7417,0.39,single shock only; UK response held at W base,
+no_Antwerp_initial12_and_launch3,1830,50,64.999,130.0,0.4435,0.2671,single shock only; UK response held at W base,
+UK_holds_W_instead_of_P_in_1830,1830,111,,120.0,0.902,0.8756,cross-policy stress; French P unchanged but UK choice endogenous to threat,P
+UK_holds_W_instead_of_P_in_1830,1830,111,,130.0,0.902,0.7313,cross-policy stress; French P unchanged but UK choice endogenous to threat,W

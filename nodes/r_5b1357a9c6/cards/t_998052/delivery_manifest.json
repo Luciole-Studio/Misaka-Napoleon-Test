@@ -1,0 +1,52 @@
+[
+  {
+    "kind": "B3_deliverable",
+    "path": "nodes/r_5b1357a9c6/cards/t_998052/B3_royal_navy.md",
+    "sha256": "3a3e300242ad46999ca01ac0b2eb833ce0adaddf77d187859fe8e6a0d533c439"
+  },
+  {
+    "kind": "B3_deliverable",
+    "path": "nodes/r_5b1357a9c6/cards/t_998052/B3_capacity.csv",
+    "sha256": "ca93504158d6d5dfdae387a956322aca63fe871d5ba5d1b346beace5571a30a1"
+  },
+  {
+    "kind": "B3_deliverable",
+    "path": "nodes/r_5b1357a9c6/cards/t_998052/B3_response.csv",
+    "sha256": "edace629a0be5c7dbd6be6624cad97edbd4fafa110c7f64dccdf44c06685de02"
+  },
+  {
+    "kind": "B3_deliverable",
+    "path": "nodes/r_5b1357a9c6/cards/t_998052/model_assumptions.md",
+    "sha256": "f67b835b4c942b49a74a93da25c34bc1c68ef767448551c623d02b940933c5d6"
+  },
+  {
+    "kind": "B3_deliverable",
+    "path": "nodes/r_5b1357a9c6/cards/t_998052/SOURCES.md",
+    "sha256": "2ac415b5c051086daf5c4a02a0dff3895f7d98dc1831291d9109b9033444e386"
+  },
+  {
+    "kind": "B3_deliverable",
+    "path": "nodes/r_5b1357a9c6/cards/t_998052/build_B3.py",
+    "sha256": "c963d6a77bd7b73f3bfca2e719977b38918d0ff7a3cc47d758af7f16a069a1ae"
+  },
+  {
+    "kind": "B3_deliverable",
+    "path": "nodes/r_5b1357a9c6/cards/t_998052/B3_calculations.json",
+    "sha256": "e2d3a4fde2529ca6b3dee60d8de8780c6abeb9be6a04385482fc0b4a593c0284"
+  },
+  {
+    "kind": "B3_deliverable",
+    "path": "nodes/r_5b1357a9c6/cards/t_998052/sources/annual/annual_1809_1815.csv",
+    "sha256": "be17643a67fb6a98c9c8238f8743887412fb04e5ca6a90876a573ae44ba38832"
+  },
+  {
+    "kind": "F3_input_model_not_observation",
+    "path": "nodes/r_5b1357a9c6/cards/t_b1a536/F3_capacity.csv",
+    "sha256": "72b3f967067613e3cabac14bad2431d3dc0e87454e3e79ccf237e3d83c21dc98"
+  },
+  {
+    "kind": "F3_input_model_not_observation",
+    "path": "nodes/r_5b1357a9c6/cards/t_b1a536/F3_model_parameters.json",
+    "sha256": "f2fc3184cb29d90f734b7db58cdce710e82c2befffad674a51187ae43dbfc0ba"
+  }
+]

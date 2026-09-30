@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "id": "M001",
+      "state": "部分修复，尚未关闭",
+      "implemented": [
+        "导论与末章统一为有明确排序的条件主线",
+        "增加防务、偿付、区域海权、盟国合作的取舍顺序",
+        "附编十项缺口逐项区分规模、时点、可行性和情景选择，并写入不利结果的改判",
+        "新增终6注，明确预算与舰队敏感性为书内试算，未将模型当史料"
+      ],
+      "not_claimed": [
+        "未完成统一疆域、年度税兵预算与外交安排的持续性检验",
+        "未关闭M005–M012、M034、M038等关联缺陷",
+        "未修复本轮未处理的引注与材料遗漏"
+      ],
+      "next_id": "M002",
+      "next_topic": "区分政策首选与拿破仑实际行为；为主动改革、危机迫改及拒改排序"
+    },
+    {
+      "id": "M002",
+      "state": "已订正并复核：论证缺口关闭",
+      "implemented": [
+        "区分1807行为默认与长期存续路径，分别给三种结局排序",
+        "补入大臣、军队、债权人与商人、皇室的利益与阻力",
+        "补交易顺序、组织和法律保证，以及排序反转条件",
+        "纳入莱内报告和1815具体法条、税种/解散例外",
+        "联动补齐L004，回源原刊校正1812后段禁稿1为11"
+      ],
+      "related_partial": [
+        "M035：反向利益已写入，税债冲突与政治联盟的对称比较待独立补订"
+      ],
+      "new_source_issue": "SRC001：原刊周报总数159/158差异，已披露且不用于计算",
+      "not_claimed": [
+        "未将反事实行为排序包装成实证概率",
+        "未宣称所有引注或全部材料已完成",
+        "书稿未作本轮逐屏视觉验收"
+      ],
+      "next_id": "M003",
+      "next_topic": "1803决策关口与1807整固路径的行动、代价及失败退路比较"
+    },
+    {
+      "id": "M003",
+      "state": "已订正并复核：决策路径缺口关闭",
+      "implemented": [
+        "1803—1808五个决策关口及行动/代价/失败退路",
+        "事前1803首选与1807条件主线明确分开",
+        "旧推演分支串线不再采纳",
+        "英国与印度章节采用1806同一外交交易",
+        "末章同步前提，皇权插论移入制度部分"
+      ],
+      "not_claimed": [
+        "不将战役结果或和约签署写成必然",
+        "未证明统一疆域与年度预算",
+        "未声称exam全部材料读完"
+      ],
+      "next_id": "M005",
+      "next_topic": "把疆域、人口、收入、盟国资源放入同一时间线"
+    },
+    {
+      "id": "M004",
+      "state": "已订正并复核：统一判准缺口关闭",
+      "implemented": [
+        "三观察点重复检查五关系",
+        "区分王朝失败/国家幸存/局部霸权/大陆主导/全欧行省化",
+        "行省章与末章同步裁定尺度"
+      ],
+      "not_claimed": [
+        "M038阶段终局并未随判准完成而关闭"
+      ]
+    }
+  ],
+  "whole_book_accepted": false,
+  "conclusion_defects": {
+    "original_active": 39,
+    "closed": 3,
+    "partially_repaired": 2,
+    "not_yet_repaired": 34
+  },
+  "material_groups": {
+    "original": 10,
+    "closed": 1,
+    "remaining": 9
+  },
+  "narrative_review": {
+    "date": "2026-09-24",
+    "accepted": false,
+    "report": "叙事结构与因果链复核/复核意见.md",
+    "scope": "全部章级标题、关键因果接口定向复读；非逐句全文及全部原始材料复核",
+    "findings_groups": 9,
+    "independent_new_defect_count": false,
+    "manuscript_changed": false,
+    "next_id_unchanged": "M003",
+    "status_note": "该复核记录针对修订前书稿；本轮已处理N01及N07残留、N08部分，并建立N06所需判准；其余现行状态见逐项工作账，原审计不覆写。"
+  },
+  "structure_defects": {
+    "original": 5,
+    "closed": [
+      "S002"
+    ],
+    "partially_repaired": [
+      "S003"
+    ],
+    "not_yet_repaired": [
+      "S001",
+      "S004",
+      "S005"
+    ]
+  },
+  "source_issues": [
+    "SRC001：159/158周报数差异",
+    "SRC002：条约网页误标与传播链待全核"
+  ],
+  "current_revision": {
+    "directory": "M003_M004_从1803年重建主线",
+    "chapters_changed": 6,
+    "new_notes": 7,
+    "current_notes": 220,
+    "current_note_calls": 411,
+    "current_tables": 63,
+    "original_report_files_unchanged": 23,
+    "whole_book_visual_verified": false
+  }
+}

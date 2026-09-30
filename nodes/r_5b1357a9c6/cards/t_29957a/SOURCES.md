@@ -1,0 +1,227 @@
+# Sources — nodes/r_5b1357a9c6/cards/t_29957a — [t_29957a] 俄国贵族、农奴经济与财政：大陆体系伤了谁
+
+Written by misaka when the products here were settled and rebuilt from scratch each time, so edit nothing in this file or under the sources folder. Each file there is a hard link to where it already lives in the project (a copy only where a hard link was not possible); the originals never move. Cite original project files, not this bundle's disposable sources paths.
+
+## Products
+
+- `R2_arithmetic_audit.json` — [t_29957a] R2_arithmetic_audit.json (task_output)
+- `R2_audit.py` — [t_29957a] R2_audit.py (task_output)
+- `R2_crosby_snapshot.json` — [t_29957a] R2_crosby_snapshot.json (task_output)
+- `R2_evidence_audit.md` — [t_29957a] R2_evidence_audit.md (task_output)
+- `R2_inputs.csv` — [t_29957a] R2_inputs.csv (task_output)
+- `R2_loss_grid.csv` — [t_29957a] R2_loss_grid.csv (task_output)
+- `R2_metadata.json` — [t_29957a] R2_metadata.json (task_output)
+- `R2_metadata_audit.json` — [t_29957a] R2_metadata_audit.json (task_output)
+- `R2_model.py` — [t_29957a] R2_model.py (task_output)
+- `R2_model_results.json` — [t_29957a] R2_model_results.json (task_output)
+- `R2_model_run.log` — [t_29957a] R2_model_run.log (task_output)
+- `R2_parameters.csv` — [t_29957a] R2_parameters.csv (task_output)
+- `R2_russia_economy_nobility.md` — [t_29957a] R2_russia_economy_nobility.md (task_output)
+- `R2_series.csv` — [t_29957a] R2_series.csv (task_output)
+- `R2_source_hashes.json` — [t_29957a] R2_source_hashes.json (task_output)
+- `__pycache__/R2_model.cpython-311.pyc` — [t_29957a] R2_model.cpython-311.pyc (task_output)
+- `model_protocol.md` — [t_29957a] model_protocol.md (task_output)
+- `notes_credit_ports.md` — [t_29957a] notes_credit_ports.md (task_output)
+- `notes_crosby_davey.md` — [t_29957a] notes_crosby_davey.md (task_output)
+- `notes_longrun.md` — [t_29957a] notes_longrun.md (task_output)
+- `notes_postsubmission_R1.md` — [t_29957a] notes_postsubmission_R1.md (task_output)
+- `notes_speransky.md` — [t_29957a] notes_speransky.md (task_output)
+- `notes_tariff_appendix.md` — [t_29957a] notes_tariff_appendix.md (task_output)
+- `notes_trade.md` — [t_29957a] notes_trade.md (task_output)
+- `report_conclusion.md` — [t_29957a] report_conclusion.md (task_output)
+- `report_part1.md` — [t_29957a] report_part1.md (task_output)
+- `report_part2.md` — [t_29957a] report_part2.md (task_output)
+- `report_timeline.md` — [t_29957a] report_timeline.md (task_output)
+- `source_antonov_credit_excerpt.txt` — [t_29957a] source_antonov_credit_excerpt.txt (task_output)
+- `source_herlihy_37_42.txt` — [t_29957a] source_herlihy_37_42.txt (task_output)
+- `source_herlihy_trade.txt` — [t_29957a] source_herlihy_trade.txt (task_output)
+- `source_herlihy_transport.txt` — [t_29957a] source_herlihy_transport.txt (task_output)
+
+## Cited sources (under `sources/`)
+
+- `sources/R2_Crosby1965.pdf` ← `downloads/R2_Crosby1965.pdf`
+  - "R2_Crosby1965.pdf"
+  - sha256 7e3293167a7c4cde0a992e85df1a46d30072bb545b5a7a7ac19aadecfefd49fa
+  - cited by [t_29957a] "Crosby pp209–213记1811俄港殖民货过剩、麻价上升，美商俄绳货在美国/巴西亦滞销，反驳封锁期贸易持续瘫痪。" (fact)
+  - cited as `doc:7e3293167a7c#p221` by [t_29957a] "Crosby pp209–213记1811俄港殖民货过剩、麻价上升，美商俄绳货在美国/巴西亦滞销，反驳封锁期贸易持续瘫痪。" (fact)
+  - cited by [t_29957a] "Crosby p33称莫斯科至波罗的海雪橇运费低于等距海运；需区分季节性国内联运与向法国另辟整条陆路。" (fact)
+  - cited as `doc:7e3293167a7c#p45` by [t_29957a] "Crosby p33称莫斯科至波罗的海雪橇运费低于等距海运；需区分季节性国内联运与向法国另辟整条陆路。" (fact)
+  - cited by [t_29957a] "Crosby记1809彼堡/喀琅施塔得376艘对1808的60艘，故经济减压不是只始于1811；不能把1807–1810当连续无恢复的严格封锁区间。" (fact) — "In 1809, 376 vessels arrived at Kronstadt and St. Petersburg as compared to sixty for 1808."
+  - cited as `doc:7e3293167a7c#p157` by [t_29957a] "Crosby记1809彼堡/喀琅施塔得376艘对1808的60艘，故经济减压不是只始于1811；不能把1807–1810当连续无恢复的严格封锁区间。" (fact) — "In 1809, 376 vessels arrived at Kronstadt and St. Petersburg as compared to sixty for 1808."
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/notes_crosby_davey.md`
+- `sources/R2_Davey2009.pdf` ← `downloads/R2_Davey2009.pdf`
+  - "R2_Davey2009.pdf"
+  - sha256 9cdc057c893a9cf2e323fad499747b3c76cfe86cabb7b0959b86d5486136dafa
+  - cited by [t_29957a] "Davey表29的1806脂油目的地列加总79.88而印100，亚麻99.28而印100；已看原PDF表格，不能将缺格当零或直接作完整权重。" (fact)
+  - cited as `doc:9cdc057c893a#p274` by [t_29957a] "Davey表29的1806脂油目的地列加总79.88而印100，亚麻99.28而印100；已看原PDF表格，不能将缺格当零或直接作完整权重。" (fact)
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/c12_makarov2024.pdf` ← `downloads/c12_makarov2024.pdf`
+  - "c12_makarov2024.pdf"
+  - sha256 81a9135182a0665b68e514fa939d9773b69f1a8658fb170b13a3589e58516fee
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/notes_trade.md`
+- `sources/c12_troshin2015.pdf` ← `downloads/c12_troshin2015.pdf`
+  - "c12_troshin2015.pdf"
+  - sha256 c17e7379cc37ae262251f8a19bbd3ace942ebecdd27bd2168db40265f1ef2b51
+  - cited by [t_29957a] "Troshin给彼得堡有限商品样本贸易条件指数1808=.43、1809=.69、1810=.74、1811近同；这不是出口量或贵族净收入的七成恢复。" (fact)
+  - cited as `doc:c17e7379cc37#p6` by [t_29957a] "Troshin给彼得堡有限商品样本贸易条件指数1808=.43、1809=.69、1810=.74、1811近同；这不是出口量或贵族净收入的七成恢复。" (fact)
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/notes_trade.md`
+- `sources/c12_vandal3_full.txt` ← `downloads/c12_vandal3_full.txt`
+  - "c12_vandal3_full.txt"
+  - sha256 6811043f3fa7668e827ca8e42ea5080005646306fe436a3dcaa25eb76a8d4f83
+  - cited by [t_29957a] "1811年10月涅谢尔罗迭和平建议仍以俄奥恢复财政与军队、制衡法国为目的；不应只引和平语句当作永久接受法国霸权的承诺。" (interpretation) — "celui qu'au fond de leur pensée elles regardent comme leur seul ennemi."
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/c15_heckscher1922.pdf` ← `downloads/c15_heckscher1922.pdf`
+  - "c15_heckscher1922.pdf"
+  - sha256 1baaae7f3185eb96c40c95891dcd3efbf6da2426bd782d06bc4a3b81e7149a5a
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/010052ac67de.md` ← `downloads/pages/010052ac67de.md`
+  - "Russian Empire - Autocracy, Reforms, Nicholas I | Britannica" — https://www.britannica.com/place/Russian-Empire/Nicholas-I
+  - sha256 010052ac67dea1619c5a93aaa0219e60e937da7ad0b7144c80a4b9cb89b91631
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/05a0209a543e.md` ← `downloads/pages/05a0209a543e.md`
+  - "Bankrupts and Usurers of Imperial Russia: Debt, Property, and the Law in the Age of Dostoevsky and Tolstoy 978067497259…" — https://ebin.pub/bankrupts-and-usurers-of-imperial-russia-debt-property-and-the-law-in-the-age-of-dostoevsky-and-tolstoy-9780674972599.html
+  - sha256 05a0209a543e20ae234ceb4782355e16048e175a8b40b30ef87adf5d5211233c
+  - cited as `https://ebin.pub/bankrupts-and-usurers-of-imperial-russia-debt-property-and-the-law-in-the-age-of-dostoevsky-and-tolstoy-9780674972599.html` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited as `https://ebin.pub/bankrupts-and-usurers-of-imperial-russia-debt-property-and-the-law-in-the-age-of-dostoevsky-and-tolstoy-9780674972599.html` in `nodes/r_5b1357a9c6/cards/t_29957a/notes_credit_ports.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/source_antonov_credit_excerpt.txt`
+  - cited as `https://ebin.pub/bankrupts-and-usurers-of-imperial-russia-debt-property-and-the-law-in-the-age-of-dostoevsky-and-tolstoy-9780674972599.html` in `nodes/r_5b1357a9c6/cards/t_29957a/source_antonov_credit_excerpt.txt`
+- `sources/pages/1b6165aee016.md` ← `downloads/pages/1b6165aee016.md`
+  - "Foreign Enterprise in Russian and Soviet Industry: A Long Term Perspective" — https://www.cambridge.org/core/journals/business-history-review/article/abs/foreign-enterprise-in-russian-and-soviet-industry-a-long-term-perspective/AD950A0CB6F5A87F277A0C4DBF9D9BC6
+  - sha256 1b6165aee01638d4db948f36a600365cbe0035df56e6ffb550ff372b76b0a64f
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/4253618e6095.md` ← `downloads/pages/4253618e6095.md`
+  - "КОНТИНЕНТАЛЬНАЯ БЛОКАДА И ПОЛОЖЕНИЕ О НЕЙТРАЛЬНОЙ ТОРГОВЛЕ НА 1811 ГОД – тема научной статьи по истории и археологии чи…" — https://cyberleninka.ru/article/n/kontinentalnaya-blokada-i-polozhenie-o-neytralnoy-torgovle-na-1811-god
+  - sha256 4253618e6095ded675dcb2717cf6dadc2b23f4b62fdfaf66f4247ccac3f3796e
+  - cited as `https://cyberleninka.ru/article/n/kontinentalnaya-blokada-i-polozhenie-o-neytralnoy-torgovle-na-1811-god` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/454e935e9868.md` ← `downloads/pages/454e935e9868.md`
+  - "Крестьянская реформа 1861 года | Президентская библиотека имени Б.Н. Ельцина" — https://www.prlib.ru/collections/467127
+  - sha256 454e935e986867ca94090cbeddf9b19dbb85d5d3bd715eb1908d72e7c6d562d5
+  - cited as `https://www.prlib.ru/collections/467127` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/4b0b3e27f01f.md` ← `downloads/pages/4b0b3e27f01f.md`
+  - "Ассигнационный рубль — Википедия" — https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D1%83%D0%B1%D0%BB%D1%8C
+  - sha256 4b0b3e27f01f8e189e578c4b2f1433aa57229b7b5d6174b8620c2362ea004e06
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/56a23915a69c.md` ← `downloads/pages/56a23915a69c.md`
+  - "М.М. Сперанский. Отчет в делах 1810 г., представленный императору Александру I" — http://dugward.ru/library/speranskiy_m/speranskiy_otchet_v_delah_1810.html
+  - sha256 56a23915a69c3f335d08b28d3815ef6e2776d9e32cf5cb9b1c0b935ef4fec9e8
+  - cited by [t_29957a] "斯佩兰斯基1811报告称1810已宣布停止发行，但实际停发自1811年初开始，且荷兰/汉堡信用受法方行动冲击。" (fact) — "прекращение выпуска ассигнаций возвещено 2 февраля 1810 г., а восприяло начало свое только 1 генвар…"
+  - cited as `http://dugward.ru/library/speranskiy_m/speranskiy_otchet_v_delah_1810.html` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/5f01778e4d6f.md` ← `downloads/pages/5f01778e4d6f.md`
+  - "Глава 1. Динамика общей численности населения России за 1811-1913 гг. | Проект «Исторические Материалы»" — https://istmat.org/node/72
+  - sha256 5f01778e4d6f5656fe6b9d0c3fd23b7ba9481521bc7f3f463a1e3b560908fdf7
+  - cited as `https://istmat.org/node/72` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/61ed76741f61.md` ← `downloads/pages/61ed76741f61.md`
+  - "Состоялось официальное открытие первой в России казённой железной дороги | Президентская библиотека имени Б.Н. Ельцина" — https://www.prlib.ru/history/619715
+  - sha256 61ed76741f61096ee1c6d6b5b2d48c132e93647c7c81dfa0d8bbb44bb9d96c73
+  - cited as `https://www.prlib.ru/history/619715` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/76e0f720bdd9.md` ← `downloads/pages/76e0f720bdd9.md`
+  - "Справка о банкнотном обращении в России | Банк России" — https://cbr.ru/cash_circulation/spravka-o-banknotnom-obraschenii-v-rossii/
+  - sha256 76e0f720bdd998a240888b0d3bc5a85e7de82997d729002c8c81eab0283029c8
+  - cited as `https://cbr.ru/cash_circulation/spravka-o-banknotnom-obraschenii-v-rossii/` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/83d83211926c.md` ← `downloads/pages/83d83211926c.md`
+  - "Odessa: A History, 1794-1914 0916458431, 9780916458430 - EBIN.PUB" — https://ebin.pub/odessa-a-history-1794-1914-0916458431-9780916458430.html
+  - sha256 83d83211926cb669c170e8de58cc8182b6969531cba560669dca9f9f78fbc847
+  - cited as `https://ebin.pub/odessa-a-history-1794-1914-0916458431-9780916458430.html` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/source_herlihy_37_42.txt`
+  - cited as `https://ebin.pub/odessa-a-history-1794-1914-0916458431-9780916458430.html` in `nodes/r_5b1357a9c6/cards/t_29957a/source_herlihy_37_42.txt`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/source_herlihy_trade.txt`
+  - cited as `https://ebin.pub/odessa-a-history-1794-1914-0916458431-9780916458430.html` in `nodes/r_5b1357a9c6/cards/t_29957a/source_herlihy_trade.txt`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/source_herlihy_transport.txt`
+  - cited as `https://ebin.pub/odessa-a-history-1794-1914-0916458431-9780916458430.html` in `nodes/r_5b1357a9c6/cards/t_29957a/source_herlihy_transport.txt`
+- `sources/pages/a6702a368d37.md` ← `downloads/pages/a6702a368d37.md`
+  - "Александр I, Император Всероссийский." — http://www.brocgaus.ru/text/002/923.htm
+  - sha256 a6702a368d37e32f8211d6bef7d07a4fd8f339f343fb8846d78ae3f17b179bfe
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/b410f00b28b3.md` ← `downloads/pages/b410f00b28b3.md`
+  - "Espoirs et déceptions d’Odessa dans le premier quart du XIXe siècle - Persée" — https://www.persee.fr/doc/casla_1283-3878_2016_num_14_1_1138
+  - sha256 b410f00b28b307206c631286c9d7c70de16fb7b4186121ee49ec7874ffc813db
+  - cited as `https://www.persee.fr/doc/casla_1283-3878_2016_num_14_1_1138` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/b71024f74504.md` ← `downloads/pages/b71024f74504.md`
+  - "Россия, разд. Финансовое хозяйство России (первая половина XIX века)" — http://rulex.ru/01273021.htm
+  - sha256 b71024f74504e037fedba2c2f481db0041944981a06094a94b21ea1b646a7cc4
+  - cited as `http://rulex.ru/01273021.htm` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/b92bac3d423e.md` ← `downloads/pages/b92bac3d423e.md`
+  - "War, Naval Logistics and the British State" — https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf
+  - sha256 b92bac3d423e354551736d05fce5d1b982541c26928437aaac019fbb4e77121f
+  - cited as `https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/f4d2943372ac.md` ← `downloads/pages/f4d2943372ac.md`
+  - "The Costs of “Westernization” in Russia: The Gentry and the Economy in the Eighteenth Century | Slavic Review | Cambrid…" — https://www.cambridge.org/core/journals/slavic-review/article/abs/costs-of-westernization-in-russia-the-gentry-and-the-economy-in-the-eighteenth-century/84A8326FA5F558B3CBEF5C8DDF48F137
+  - sha256 f4d2943372ac24f414069d5142b7f72782b222b79fdbecdeccf01773c32b602f
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/f70462842c06.md` ← `downloads/pages/f70462842c06.md`
+  - "Издан указ об обязанных крестьянах | Президентская библиотека имени Б.Н. Ельцина" — https://www.prlib.ru/history/1874457
+  - sha256 f70462842c06a3eff4f38b46bc19152185fa61628424062890963739a26272ce
+  - cited as `https://www.prlib.ru/history/1874457` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/pages/f95185d0f2c6.md` ← `downloads/pages/f95185d0f2c6.md`
+  - "В России открыта Царскосельская железная дорога | Президентская библиотека имени Б.Н. Ельцина" — https://www.prlib.ru/history/619711
+  - sha256 f95185d0f2c607e212ba174d9e8fea54c6ba4168f5e43fbcf661eebbf5333beb
+  - cited as `https://www.prlib.ru/history/619711` in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `sources/t_26cd47/russian_evidence.md` ← `nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`
+  - "[t_26cd47] nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md"
+  - sha256 df352666272582e7825e8f074363bbde58db3d5d72aeb11ea00f436b32135d06
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/notes_speransky.md`
+
+## Cited, already in this folder
+
+- `R2_model.py`
+  - cited in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`
+- `R2_model_results.json`
+  - cited by [t_29957a] "S2出口庄园现金毛收入损失条件带0.5–16.7%，S3真实加严为7.2–41.3%；模型e、b、n、r、p、d均公开，非样本均值与统计置信区间。" (inference)
+  - cited by [t_29957a] "以世纪交6万作者吨麻出口与1806目的地份额交叉作尺度，替代全英份额需法国直接吸收约26.4倍或广义大陆约3.41倍；这不是观测1806吨数，后者含对英转口中介故偏宽。" (inference)
+  - cited by [t_29957a] "S2许可/中立分支出口庄园直接毛现金损失条件带0.5–16.7%，S3真实加严7.2–41.3%；完全合法直贸的隔离贸易损失可为零。参数端点不代表历史均值、置信区间或胜率。" (inference)
+- `R2_russia_economy_nobility.md`
+  - cited by [t_29957a] "主线是自主俄国的有条件合作：贸易和信用让步能为武装共存提供物质基础，但不能单独买到俄国永久服从或行省化。" (inference)
+- `report_part2.md`
+  - cited by [t_29957a] "S2的最强交换包是中立贸易/关税自主、汉萨信用、Oldenburg/普鲁士和互撤兵担保的组合；经济利益能支持合作，却不能单独购买俄国永久服从。" (inference)
+  - cited by [t_29957a] "法国全替英国的麻吸收倍数是条件尺度和异年合成，不是证明当时法欧极限产能；定向替代可行性的主张保留待采购付款/入库账验证。" (inference)
+
+## Consulted but not cited (left where they are)
+
+- `downloads/pages/06755e525667.md` — "Russia - Russia from 1801 to 1917 | Britannica" — https://www.britannica.com/place/Russia/Russia-from-1801-to-1917
+- `downloads/pages/2d54f8227b97.md` — "Russian Empire - Autocracy, Reforms, Nicholas I | Britannica" — https://www.britannica.com/place/Russian-Empire/Nicholas-I
+
+## Unresolved locators
+
+- `https://kb.osu.edu/bitstreams/5ab611a9-4c5e-5295-ac80-d0a032d7ca39/download` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`)
+- `https://doi.org/10.7256/2073-8560.2015.6.12430` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`)
+- `https://doi.org/10.24412/2076-9105-2024-456-15-24` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`)
+- `https://www.gutenberg.org/ebooks/32621` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`)
+- `https://doi.org/10.2307/2492650` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`)
+- `https://ru.wikipedia.org/w/index.php?title=Ассигнационный_рубль&oldid=154904333` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`)
+- `https://doi.org/10.2307/3112952` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`)
+- `https://www.britannica.com/place/Russian-Empire/Nicholas-I` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`)
+- `http://www.brocgaus.ru/text/002/923.htm，保存` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/R2_russia_economy_nobility.md`)
+- `downloads/pages/05a0209a543e.md；有界选段source_antonov_credit_excerpt.txt。URL` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_credit_ports.md`)
+- `downloads/pages/83d83211926c.md，实际版权页与pp.37–44、64–70；URL` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_credit_ports.md`)
+- `https://ebin.pub/odessa-a-history-1794-1914-0916458431-9780916458430.html。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_credit_ports.md`)
+- `http://rulex.ru/01273021.htm，downloads/pages/b71024f74504.md。实际读全文；年代/债务内部有1723明显错字，预算序列不作主冻结。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_credit_ports.md`)
+- `https://ru.wikipedia.org/wiki/Ассигнационный_рубль?oldid=154904333；缓存downloads/pages/4b0b3e27f01f.md。表引2018金融素养教科书（1786–1811据1854统计集、1812–1843据Storch1868）；底表未见。为可追踪连续辅助系列，不伪称原册复核。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_credit_ports.md`)
+- `downloads/pages/1b6165aee016.md。注8：1800俄生铁162000公吨/英156000，转引Strumilin` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_credit_ports.md`)
+- `https://kb.osu.edu/bitstreams/5ab611a9-4c5e-5295-ac80-d0a032d7ca39/download（重定向OSU` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_crosby_davey.md`)
+- `https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf；downloads/R2_Davey2009.pdf` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_crosby_davey.md`)
+- `downloads/c12_vandal3_full.txt，实读L21010–21249；复用旧卡路径。转引文书，不亲阅档案。` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_crosby_davey.md`)
+- `https://www.prlib.ru/history/1874457；downloads/pages/f70462842c06.md。已读全文。1803允许自愿赎地、1842自愿人身自由保留土地使用义务，贵族不广泛支持；1837–41国有农民改革/1847清册。引用«земля` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_crosby_davey.md`)
+- `https://www.persee.fr/doc/casla_1283-3878_2016_num_14_1_1138；downloads/pages/b410f00b28b3.md。其首段指出‘奇迹城市’叙事由创立者与圈子推广，Richelieu1813自述世界无比（转引SRIO54` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_crosby_davey.md`)
+- `https://istmat.org/node/72；downloads/pages/5f01778e4d6f.md。只读章首人口统计批判及表6–10/相邻解释，非全书。原书常见出版1956未在本文显示版权，不作为已经本轮核验出版信息。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_longrun.md`)
+- `https://www.britannica.com/place/Russian-Empire/Nicholas-I，完整抓取downloads/pages/010052ac67de.md。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_longrun.md`)
+- `https://cbr.ru/cash_circulation/spravka-o-banknotnom-obraschenii-v-rossii/；downloads/pages/76e0f720bdd9.md；页面更新2022-04-05。第2历史段：1839–43改革纸币改为银卢布信用券。该机构简史的‘撤出流通’与终结兑换1849可并存，不作某一日全民换完。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_longrun.md`)
+- `https://www.prlib.ru/history/619711；downloads/pages/f95185d0f2c6.md；实读全文。` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_longrun.md`)
+- `https://www.prlib.ru/history/619715；downloads/pages/61ed76741f61.md。实读全文，1842-02-01` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_longrun.md`)
+- `http://dugward.ru/library/speranskiy_m/speranskiy_otchet_v_delah_1810.html；缓存` — no saved copy under downloads/ (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_speransky.md`)
+- `downloads/pages/56a23915a69c.md，实读L30–269。旧卡索引` — no such file in this project (in `nodes/r_5b1357a9c6/cards/t_29957a/notes_speransky.md`)

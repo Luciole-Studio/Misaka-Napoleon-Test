@@ -1,0 +1,11 @@
+{
+ "seq": 1,
+ "path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_0fed70/SOURCES.md",
+ "ops": [
+  {
+   "append": {
+    "content": "\n## 定稿追加来源（S21–S25）\n- **S21** Kennie Ting,2019,“Record of the1819Treaty of Friendship and Alliance…”,NationalHeritageBoard，https://www.roots.gov.sg/en/stories-landing/stories/the-singapore-story-through-60-objects/colonial/treaty-of-friendship-and-alliance/story ；`downloads/pages/ff15a0e6a320.md`。全文已读；1819商站共同管治、站外马来主权未让；1819不是全岛英国行省。EIC军税由IN1卡，B6地图接口不双计。\n- **S22** WaitangiTribunal,“Māori and English texts”，https://waitangitribunal.govt.nz/en/about/the-treaty/maori-and-english-versions ；`downloads/pages/8a7cea21ca39.md`。英文本、毛利文及Kawharu现代英译全文已读；依据后者理解，不自称独立毛利语语文学核验。1840-02-06、政府权/酋权土地保障的不同表述用于控制层次，不当实际控制全岛证据；网页译本书名年代题记可能有误不采用。\n- **S23** NationalArmyMuseum藏品NAM1971-02-33-252-1，“The taking of the Isle of France(Mauritius),2December1810”，https://collection.nam.ac.uk/detail.php?acc=1971-02-33-252-1 ；`downloads/pages/a4244268fcb9.md`。全文读，解释1810英军与印度军攻法国私掠基地；馆藏图标题不作兵力底账。\n- **S24** ABS,*YearBookAustralia2003*,“The wool industry—looking back and forward”，https://www.abs.gov.au/Ausstats/abs@.nsf/46d1bc47ac9d0c7bca256c470025ff87/1476d522ebe22464ca256cae0015bad4!OpenDocument ；`downloads/pages/32a25c5f3dca.md`，读Historicaloverview。5,657吨/£683,623明确限定1848NSW输英，修正S10b教学页概括。NSW图书馆1854文献p250众包转录`downloads/pages/e28f4a67e54f.md`列1848总出口22,969,711 lbs，但状态Readyforreview，未核原图，**不采为确定数**；地域/目的地/重量差需核底表，不用它“校正”ABS。故5.657千吨只作带出处的局部参照，不作全澳精确约束。\n- **S25a** TheNationalArchives,“SpotlightOn:BaptistWar”，https://www.nationalarchives.gov.uk/education/students/videos/spotlight-on/spotlight-on-baptist-war/ ；`downloads/pages/169fdc59341b.md`。读网页导论及Document1转录：CO137/181,WilloughbyCotton,1832-01-02“TO THE REBELLIOUS SLAVES”，反驳英王已自由承诺并威胁处死抵抗者。原档影像/Document2没核，不冒整卷亲阅。\n- **S25b** 同档案馆EducationService,*Resistance and Rebellion in the Caribbean*,p4，https://cdn.nationalarchives.gov.uk/documents/education/resistance-and-rebellion.pdf ；`downloads/pages/ce033e3932d6.md`。读背景全文：1816Barbados、1823Demerara、1831–32Jamaica与解放预期受挫有关；其余展示档案未逐图核。S25a当时镇压文书可证明官方回应，不能单凭它知道全部起义者动机；S25b是现代解释。\n\nS08另补读印p23/PDF31：开普1803–6巴达维亚、1806再英占、1814并合，及锡兰早期税改反抗—荷兰税制接续。来源经Wilson转引，非新原档链。\n基年敏感性另见`baseline_sensitivity.csv`（1805/1806/1807三基年）；正式帝国增量α模型假定混合组内新增均非负，只是分配敏感性，允许负增量时α不能解释为固定份额。\n"
+   }
+  }
+ ]
+}

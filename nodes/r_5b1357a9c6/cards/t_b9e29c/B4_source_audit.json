@@ -1,0 +1,126 @@
+{
+  "facts": 7,
+  "counts": {
+    "SINGLE_SOURCE": 3,
+    "SINGLE_SOURCE_SECONDARY": 4
+  },
+  "lone_evidence": [
+    {
+      "fact_id": "SUP01",
+      "fact": "蒙特耶尔计划216军用艇提供20232战斗员船位，低于24853人的要求"
+    },
+    {
+      "fact_id": "SUP02",
+      "fact": "Saint-Haouen提出分两潮出港，前置换泊装载不可省略"
+    },
+    {
+      "fact_id": "SUP03",
+      "fact": "van Creveld假设20万人到莫斯科时日需300tons，不是实际驻军或配给返回"
+    },
+    {
+      "fact_id": "SUP04",
+      "fact": "1805年4月Royal Wagon Train驻点含Canterbury3、Chelmsford4、Bexhill1个troop及Croydon总部Depot"
+    },
+    {
+      "fact_id": "SUP05",
+      "fact": "征用供应车辆计划24小时备好、日行25至30英里，Chilcott认为或过乐观"
+    },
+    {
+      "fact_id": "SUP06",
+      "fact": "Sarum1803年11月19日地方会议命令仍筹划撤离居民牲畜"
+    },
+    {
+      "fact_id": "SUP07",
+      "fact": "Cary1815道路表给出伦敦桥至Hythe67英里等路程"
+    }
+  ],
+  "tertiary_only": [],
+  "structure_problems": [],
+  "verdicts": [
+    {
+      "fact_id": "SUP01",
+      "fact": "蒙特耶尔计划216军用艇提供20232战斗员船位，低于24853人的要求",
+      "level": "SINGLE_SOURCE",
+      "independent_groups": 1,
+      "source_types": [
+        "primary"
+      ],
+      "sources": [
+        "Desbrière, Projets et tentatives IV-3(primary,组Montreuil_allocation_edited_Desbriere)"
+      ]
+    },
+    {
+      "fact_id": "SUP02",
+      "fact": "Saint-Haouen提出分两潮出港，前置换泊装载不可省略",
+      "level": "SINGLE_SOURCE",
+      "independent_groups": 1,
+      "source_types": [
+        "primary"
+      ],
+      "sources": [
+        "Desbrière, Projets et tentatives IV-3(primary,组Saint_Haouen_proposal_edited_Desbriere)"
+      ]
+    },
+    {
+      "fact_id": "SUP03",
+      "fact": "van Creveld假设20万人到莫斯科时日需300tons，不是实际驻军或配给返回",
+      "level": "SINGLE_SOURCE_SECONDARY",
+      "independent_groups": 1,
+      "source_types": [
+        "secondary"
+      ],
+      "sources": [
+        "van Creveld, Supplying War(secondary,组van_Creveld_hypothetical_food_calculation)"
+      ]
+    },
+    {
+      "fact_id": "SUP04",
+      "fact": "1805年4月Royal Wagon Train驻点含Canterbury3、Chelmsford4、Bexhill1个troop及Croydon总部Depot",
+      "level": "SINGLE_SOURCE_SECONDARY",
+      "independent_groups": 1,
+      "source_types": [
+        "secondary"
+      ],
+      "sources": [
+        "Chilcott, Maintaining the British Army(secondary,组Chilcott_WO17_returns)"
+      ]
+    },
+    {
+      "fact_id": "SUP05",
+      "fact": "征用供应车辆计划24小时备好、日行25至30英里，Chilcott认为或过乐观",
+      "level": "SINGLE_SOURCE_SECONDARY",
+      "independent_groups": 1,
+      "source_types": [
+        "secondary"
+      ],
+      "sources": [
+        "Chilcott, Maintaining the British Army(secondary,组Chilcott_WO30_141)"
+      ]
+    },
+    {
+      "fact_id": "SUP06",
+      "fact": "Sarum1803年11月19日地方会议命令仍筹划撤离居民牲畜",
+      "level": "SINGLE_SOURCE_SECONDARY",
+      "independent_groups": 1,
+      "source_types": [
+        "secondary"
+      ],
+      "sources": [
+        "Chilcott, Maintaining the British Army(secondary,组Chilcott_WSRO1719_30)"
+      ]
+    },
+    {
+      "fact_id": "SUP07",
+      "fact": "Cary1815道路表给出伦敦桥至Hythe67英里等路程",
+      "level": "SINGLE_SOURCE",
+      "independent_groups": 1,
+      "source_types": [
+        "primary"
+      ],
+      "sources": [
+        "Cary, New Itinerary, 6th edition(primary,组Cary1815_geography)"
+      ]
+    }
+  ],
+  "discipline": "SINGLE_SOURCE 写作时必须标'孤证'并降级措辞(不得作全称结论支点); TERTIARY_ONLY 不得作为事实支点, 回 MSS 步骤5/6 补独立来源; 互证只数 independence_group——转载/同源传抄不算第二证。"
+}

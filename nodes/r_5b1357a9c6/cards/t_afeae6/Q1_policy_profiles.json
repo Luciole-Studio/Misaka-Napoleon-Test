@@ -1,0 +1,331 @@
+{
+ "note": "post-hoc descriptive; small non-random sample; counts not probabilities",
+ "policy_bundles": [
+  {
+   "S": 0,
+   "R": 0,
+   "D": 0,
+   "E": 1,
+   "n": 6,
+   "mass_lo": 2,
+   "mass_rate": 0.33,
+   "sustained_lo": 0,
+   "sustained_rate": 0.0,
+   "cases": [
+    "BE1802",
+    "RH1802",
+    "PI1809",
+    "ZH1804",
+    "CH1805",
+    "NL1809"
+   ]
+  },
+  {
+   "S": 0,
+   "R": 0,
+   "D": 1,
+   "E": 1,
+   "n": 3,
+   "mass_lo": 1,
+   "mass_rate": 0.33,
+   "sustained_lo": 0,
+   "sustained_rate": 0.0,
+   "cases": [
+    "BG1813",
+    "BA1813",
+    "PL1807"
+   ]
+  },
+  {
+   "S": 0,
+   "R": 1,
+   "D": 1,
+   "E": 1,
+   "n": 2,
+   "mass_lo": 2,
+   "mass_rate": 1.0,
+   "sustained_lo": 1,
+   "sustained_rate": 0.5,
+   "cases": [
+    "VE1809",
+    "EM1809"
+   ]
+  },
+  {
+   "S": 1,
+   "R": 0,
+   "D": 0,
+   "E": 1,
+   "n": 1,
+   "mass_lo": 0,
+   "mass_rate": 0.0,
+   "sustained_lo": 0,
+   "sustained_rate": 0.0,
+   "cases": [
+    "NL1799"
+   ]
+  },
+  {
+   "S": 1,
+   "R": 0,
+   "D": 1,
+   "E": 0,
+   "n": 2,
+   "mass_lo": 2,
+   "mass_rate": 1.0,
+   "sustained_lo": 0,
+   "sustained_rate": 0.0,
+   "cases": [
+    "PA1806",
+    "HH1813"
+   ]
+  },
+  {
+   "S": 1,
+   "R": 0,
+   "D": 1,
+   "E": 1,
+   "n": 6,
+   "mass_lo": 3,
+   "mass_rate": 0.5,
+   "sustained_lo": 0,
+   "sustained_rate": 0.0,
+   "cases": [
+    "LI1805",
+    "TU1808",
+    "NL1811",
+    "NL1813",
+    "HH1806",
+    "WE1809"
+   ]
+  },
+  {
+   "S": 1,
+   "R": 1,
+   "D": 0,
+   "E": 0,
+   "n": 8,
+   "mass_lo": 8,
+   "mass_rate": 1.0,
+   "sustained_lo": 2,
+   "sustained_rate": 0.25,
+   "cases": [
+    "PI1798",
+    "TU1799",
+    "PV1796",
+    "NA1799",
+    "CH1798",
+    "CH1802",
+    "ES1808",
+    "PT1807"
+   ]
+  },
+  {
+   "S": 1,
+   "R": 1,
+   "D": 1,
+   "E": 0,
+   "n": 6,
+   "mass_lo": 4,
+   "mass_rate": 0.67,
+   "sustained_lo": 2,
+   "sustained_rate": 0.33,
+   "cases": [
+    "BE1798",
+    "RH1796",
+    "CA1806",
+    "TY1809",
+    "IL1810",
+    "IL1813"
+   ]
+  },
+  {
+   "S": 1,
+   "R": 1,
+   "D": 1,
+   "E": 1,
+   "n": 1,
+   "mass_lo": 0,
+   "mass_rate": 0.0,
+   "sustained_lo": 0,
+   "sustained_rate": 0.0,
+   "cases": [
+    "RM1809"
+   ]
+  }
+ ],
+ "provocation_x_opportunity": {
+  "provocations=0,O=0": {
+   "n": 5,
+   "mass_rate": 0.2,
+   "sustained_rate": 0.0,
+   "cases": [
+    "BE1802",
+    "RH1802",
+    "PI1809",
+    "ZH1804",
+    "CH1805"
+   ]
+  },
+  "provocations=0,O=1": {
+   "n": 1,
+   "mass_rate": 1.0,
+   "sustained_rate": 0.0,
+   "cases": [
+    "NL1809"
+   ]
+  },
+  "provocations=1,O=0": {
+   "n": 1,
+   "mass_rate": 0.0,
+   "sustained_rate": 0.0,
+   "cases": [
+    "PL1807"
+   ]
+  },
+  "provocations=1,O=1": {
+   "n": 3,
+   "mass_rate": 0.33,
+   "sustained_rate": 0.0,
+   "cases": [
+    "NL1799",
+    "BG1813",
+    "BA1813"
+   ]
+  },
+  "provocations=2,O=0": {
+   "n": 5,
+   "mass_rate": 0.4,
+   "sustained_rate": 0.0,
+   "cases": [
+    "LI1805",
+    "TU1808",
+    "CH1798",
+    "NL1811",
+    "HH1806"
+   ]
+  },
+  "provocations=2,O=1": {
+   "n": 13,
+   "mass_rate": 1.0,
+   "sustained_rate": 0.23,
+   "cases": [
+    "PI1798",
+    "TU1799",
+    "PA1806",
+    "PV1796",
+    "VE1809",
+    "EM1809",
+    "NA1799",
+    "CH1802",
+    "NL1813",
+    "HH1813",
+    "WE1809",
+    "ES1808",
+    "PT1807"
+   ]
+  },
+  "provocations=3,O=0": {
+   "n": 3,
+   "mass_rate": 0.33,
+   "sustained_rate": 0.0,
+   "cases": [
+    "BE1798",
+    "RM1809",
+    "IL1810"
+   ]
+  },
+  "provocations=3,O=1": {
+   "n": 4,
+   "mass_rate": 0.75,
+   "sustained_rate": 0.5,
+   "cases": [
+    "RH1796",
+    "CA1806",
+    "TY1809",
+    "IL1813"
+   ]
+  }
+ },
+ "deviant_high_risk_quiet": [
+  {
+   "case_id": "RH1796",
+   "config": "1101",
+   "covariate_basis": "前线重兵;征发反教会;官员留任但旧帝国忠诚冲突;外部联军邻近"
+  }
+ ],
+ "deviant_low_risk_revolt": [
+  {
+   "case_id": "ZH1804",
+   "config": "1010",
+   "covariate_basis": "城市旧精英恢复赎金;民主平等乡村抵抗;联邦派政府吸纳"
+  }
+ ],
+ "belgium_indeterminacy": {
+  "BE1798": {
+   "config": "0100",
+   "other_cases_in_cell": [],
+   "their_mass_lo": []
+  },
+  "BE1802": {
+   "config": "0010",
+   "other_cases_in_cell": [
+    "NL1811",
+    "HH1806",
+    "PL1807"
+   ],
+   "their_mass_lo": [
+    1,
+    0,
+    0
+   ]
+  }
+ },
+ "outcome_distribution": {
+  "mass_lo": 22,
+  "mass_hi": 24,
+  "sustained_lo": 5,
+  "sustained_hi": 15,
+  "exit_context": 5,
+  "n": 35
+ },
+ "sustained_cases": [
+  {
+   "case_id": "VE1809",
+   "config": "0111",
+   "scale": 3
+  },
+  {
+   "case_id": "NA1799",
+   "config": "1101",
+   "scale": 4
+  },
+  {
+   "case_id": "CA1806",
+   "config": "1101",
+   "scale": 3
+  },
+  {
+   "case_id": "TY1809",
+   "config": "1101",
+   "scale": 3
+  },
+  {
+   "case_id": "ES1808",
+   "config": "1101",
+   "scale": 4
+  }
+ ],
+ "sustained_necessity_within_sample": {
+  "T": 4,
+  "R": 5,
+  "E": 1,
+  "O": 5,
+  "S": 4,
+  "D": 3,
+  "coast_access": 4,
+  "dynasty_exile": 4,
+  "brigand_tradition": 4
+ },
+ "sustained_n": 5
+}

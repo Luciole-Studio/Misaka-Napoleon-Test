@@ -1,0 +1,45 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-sheffield-against-the"
+final_url: "https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-sheffield-against-the"
+sha256: "24762c04826fd6857f5e4b2b6491c55185a4236a53ae78bbb49ccd1cedbf73b4"
+text_sha256: "973b9f78db20996e4b4743808a048580506b2c77eb680b10dbb35846f43c2c3a"
+title: "PETITION FROM SHEFFIELD AGAINST THE ORDERS IN COUNCIL. (Hansard, 17 April 1812)"
+---
+
+Title: PETITION FROM SHEFFIELD AGAINST THE ORDERS IN COUNCIL. (Hansard, 17 April 1812)
+
+[Search Help](https://api.parliament.uk/historic-hansard/search)
+
+[HANSARD 1803–2005](https://api.parliament.uk/historic-hansard/index.html)
+→
+[1810s](https://api.parliament.uk/historic-hansard/sittings/1810s)
+→
+[1812](https://api.parliament.uk/historic-hansard/sittings/1812/)
+→
+[April 1812](https://api.parliament.uk/historic-hansard/sittings/1812/apr/)
+→
+[17 April 1812](https://api.parliament.uk/historic-hansard/sittings/1812/apr/17)
+
+→
+[Commons Sitting](https://api.parliament.uk/historic-hansard/sittings/1812/apr/17#commons)
+
+# PETITION FROM SHEFFIELD AGAINST THE ORDERS IN COUNCIL.
+
+HC Deb 17 April 1812 vol 22 cc424-5 [424](https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-sheffield-against-the#column_424)
+
+[§](https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-sheffield-against-the#S1V0022P0_18120417_HOC_8) [Mr. Wilberforce](https://api.parliament.uk/historic-hansard/people/mr-william-wilberforce-1)
+
+presented a Petition from several merchants manufacturers and others the loyal inhabitants of the populous town of Sheffield, in the county of York, and its vicinity, setting forth,
+
+"That no inconsiderable portion of the wealth of the United Kingdom is derived from commerce and manufactures, and the town and vicinity of Sheffield are particularly indebted to these for the means of support; and that of all foreign markets yet discovered for the sale of our manufactures the United Stales of America has" been the roost important; and that the Orders in Council to counteract the Berlin and Milan decrees of the enemy have for a long period deprived the Petitioners of this most valuable market, in consequence of which many of their towns-people and neighbours are unemployed, and their families dependent on the poor rates for subsistence; and they solemnly assure the House, that if they regarded those Orders as necessary for supporting the honour and dignity, the just rights and independence
+
+[425](https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-sheffield-against-the#column_425)
+of the United Kingdom, they would willingly bear the pressure without a murmur; but, they are persuaded that they are unnecessary for these desirable ends, that they have proved most disastrous to those, whom they were intended to benefit, and most advantageous to the enemy, whom they were intended to distress; instead of retaliating upon France the evils which her unjust and atrocious Decrees were framed to inflict, they have rendered those Decrees effectual against ourselves, and have done that injury to our commerce and manufactures which all the measures of our enemy had vainly attempted to produce; and the Petitioners are further of opinion, that such is the predominant influence of France over a vast portion of the European continent, that she can command the supply of every necessary article without possessing a single flag on the ocean, while the exclusion of other nations from her ports, caused partly by her own, but more effectually by our regulations, has encouraged within her dominions manufactures which would not otherwise have arisen; and that the Orders in Council, by producing an amazing extension of the licence system, have not only deprived this country of a considerable amount of bullion, but also enabled France to trade unmolested on our own coasts, and create a navy which may, in time, become truly formidable; and that by allowing the intervention of neutrals, we exclude ourselves from the only chance of carrying on a profitable trade with the enemy, and are in imminent danger of seeing our friends arrayed against us under the banners of France; and that should the Petitioners' hopes of preserving peace with America be disappointed, and that most valuable mart for their languishing manufactures be totally destroyed, they fear that the consequences would be ruinous to themselves, and extensively hurtful to the country; and praying the House to recommend to his royal highness the Prince Regent to rescind those Orders in Council, which, in the opinion of the Petitioner", have failed to produce the beneficial effects intended, and while they have enriched the enemy, have deeply injured our friends."
+
+Back to
+[PETITION FROM THE HALLAMSHIRE CUTLERS, RESPECTING THE RENEWAL OF THE EAST INDIA COMPANY'S CHARTER.](https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-the-hallamshire-cutlers)
+
+Forward to
+[PETITION FROM BIRMINGHAM AGAINST THE ORDERS IN COUNCIL.](https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the)
+
+[Noticed a typo?](https://api.parliament.uk/historic-hansard/typos) | Report other issues | [© UK Parliament](https://www.parliament.uk/site-information/copyright/)

@@ -1,0 +1,23 @@
+Title: EXCHEQUER BILLS. (Hansard, 6 May 1811)
+
+URL Source: https://api.parliament.uk/historic-hansard/commons/1811/may/06/exchequer-bills
+
+Markdown Content:
+[Search Help](https://api.parliament.uk/historic-hansard/search)
+
+[HANSARD 1803–2005](https://api.parliament.uk/historic-hansard/index.html) → [1810s](https://api.parliament.uk/historic-hansard/sittings/1810s) → [1811](https://api.parliament.uk/historic-hansard/sittings/1811/) → [May 1811](https://api.parliament.uk/historic-hansard/sittings/1811/may/) → [6 May 1811](https://api.parliament.uk/historic-hansard/sittings/1811/may/06) → [Commons Sitting](https://api.parliament.uk/historic-hansard/sittings/1811/may/06#commons)
+
+# EXCHEQUER BILLS.
+
+HC Deb 06 May 1811 vol 19 cc797-8[797](https://api.parliament.uk/historic-hansard/commons/1811/may/06/exchequer-bills#column_797 "Col. 797 — HC Deb 06 May 1811 vol 19 c797")
+[§](https://api.parliament.uk/historic-hansard/commons/1811/may/06/exchequer-bills#S1V0019P0_18110506_HOC_8 "Link to this contribution") The House having resolved itself info a Committee of Ways and Means;
+
+[](https://api.parliament.uk/historic-hansard/commons/1811/may/06/exchequer-bills)
+> The Chancellor of the Exchequer
+> rose, and observed, that having some time ago stated his reasons for funding 12 millions of Exchequer Bills, and of that sum not more than 7,800,000 l. having been subscribed for, he had, in furtherance of the idea which he then entertained and stated to the House, thought it his duty to enter into a contract for supplying the deficiency upon the terms which he then proposed, namely, to fund the whole in the 5 per cent. stock. It was desirable that the gentlemen who had then subscribed should have the same advantage with the present subscribers. He therefore proposed to give to those gentlemen, the' option of having for every 70 l. subscribed, 72 l. 12 s. in the 5 percents and also for prompt payment, 4 per cent. discount. The permanent charge to the public would be the same in both cases; and it would be seen, that he had not given more advantage to the new subscribers than he had given to the old, for it was but equitable that both should be on a par. In breaking the loan therefore, no injury would arise to the public interest, though, previous to that time, an idea had prevailed, that great disadvantage would accrue and that stocks would be depressed. Stocks, however, instead of feeling a great depression, had [798](https://api.parliament.uk/historic-hansard/commons/1811/may/06/exchequer-bills#column_798 "Col. 798 — HC Deb 06 May 1811 vol 19 c798") since progressively improved; and, under the idea then held out, he judged it proper to propose the same terms as had been originally proposed. Having so done, and this day being the last for receiving the proposals in answer, and for closing, he had to state, that the gentlemen on the list who had offered, had closed with them. The amount to be funded in order to make up the deficiency, was 4,981,000 l. leaving a fraction of some what about 60,000 l. of the 12,000,000 l. At three o'clock on that day, the gentlemen had closed, taking the sum of 4,700,000 l. upon the proposed terms, which the Committee would see left about 200,000 l. unsubscribed for; but that sum Messrs. Baring and Angerstein had agreed to take. The right hon. gent. then moved, "That a Sum not exceeding 4,981,000 l. be raised by Loan on Annuities," &c. which Resolution was agreed to.
+
+Back to [SOUTHWARK BRIDGE BILL.](https://api.parliament.uk/historic-hansard/commons/1811/may/06/southwark-bridge-bill)
+
+Forward to [REPORT OF THE BULLION COMMITTEE—MR. HORNER'S RESOLUTIONS.](https://api.parliament.uk/historic-hansard/commons/1811/may/06/report-of-the-bullion-committee-mr)
+
+[Noticed a typo?](https://api.parliament.uk/historic-hansard/typos) | [Report other issues](mailto:data@parliament.uk "Opens a new page") | [© UK Parliament](https://www.parliament.uk/site-information/copyright/)

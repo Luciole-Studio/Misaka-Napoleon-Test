@@ -1,0 +1,93 @@
+{
+  "status": "all_checks_passed",
+  "checked_file_sha256": {
+    "F2_french_army_capacity.md": "c108004fae7ebaf3ae6af0c833f87078af620909fcfe28f70f5f225669bec6a9",
+    "F2_refinement.md": "ad767d781f1f0d422564b93feecb6a3b3792add761e7209597f169b3e99689b0",
+    "SOURCES.md": "9bcc5519ab2ccb19501b703ff56975e272afa024eb853dabc2d88c1d6fd09fe5",
+    "F2_capacity.csv": "a77325ba54133dd2483ce2bc906f570bf68c7ede6eae570114ee34e0b1e1af53",
+    "F2_s6_scenarios.csv": "ee85a51029f3b60358489e6283a354aa6b9f698fab7117dc9e69c325800258b6",
+    "F2_joint_budget_manpower.csv": "1021d5d3baeb7e1f54fa99e1f277ccaefdbe5514f19e200a5b4d9f8ebd973521",
+    "F2_regional_recruitment_evidence.csv": "7ab4dc6aa640376da6d471b8b40bf0e0f281b72bef700d751ff902a8b90d557d",
+    "F2_levy_batch_evidence.csv": "3af2cf97839357335460880311fec4a40a001e440fda435684dbd6e4fb2885c4",
+    "F2_service_definition_bridge.csv": "82e8453abc8b9dd413d21d12f011f1513c2ae961cdbded1cc8871ea0c2820c90",
+    "F2_food_scope_bridge.csv": "233bede6b9ecac1299267fc1a0730779fc003d6693b6beb03328d397a307e559",
+    "F2_round2_checks.json": "756e2ddd9a6f0e67f4ac0c932f5215d714b5026c4864df7ae6ec421fdd8e2201",
+    "F2_model.py": "da2a2faa1ee82ff23860ebb34f591094a6f5b8b717c8ca5794b8815bbd17d2f4",
+    "F2_build_capacity.py": "cace7a86620675feddc46ae6b30c1ca41e0ce8607a625af5b54f2e63266bb449",
+    "F2_integration_model.py": "7ef7b671e0f7a579a34f1eed0967d7a4b0f7be615f2e828a48ee0d142947bd22",
+    "F2_round2_interfaces.py": "641e5ea335a99978d57fc7f7e654ca71852dac046552dfc7e5b2bafa2f5b0d06",
+    "validate_f2.py": "d9f5c05ce119689c4080dc4193ba0cde84221abbcbc5456d31f3ed773a19d33f",
+    "notes_round2_sources.md": "b2eb5eb3e655f79e44afa03ff8ed9592a3480746d5d4372267e10025dc34d315",
+    "F2_round2_changes.md": "42245c269e49a5a8c02ea35bf0e4ea341bf978869c1b0c11d3c43e3ed0ebba16",
+    "VALIDATION.md": "1f83b6d5a25ecc93201a2a0b1ec5f611aa4d67c6988c69c186a0ce4cdf3e12f4"
+  },
+  "annual_evidence_rows": 12,
+  "narrative_timeline_rows": 36,
+  "S6_region_rows": 37,
+  "maturation_rows": 26,
+  "service_rows": 15,
+  "joint_budget_rows": 27,
+  "peace_model_rows": 82,
+  "round2_regional_rows": 6,
+  "round2_levy_batch_rows": 1,
+  "round2_service_bridge_rows": 5,
+  "round2_food_bridge_rows": 2,
+  "literal_checks": [
+    {
+      "source": "O10",
+      "file": "downloads/f2_oman_vol3.txt",
+      "quote": "Of whom 324,996 are actually in Spain, and of these 262,051 are ‘Present under arms’ with the colours."
+    },
+    {
+      "source": "P11",
+      "file": "downloads/pages/43dacbcb242e.md",
+      "quote": "quatre-vingt mille seront mis en activité ; le reste formera la réserve."
+    },
+    {
+      "source": "P10",
+      "file": "downloads/pages/df27e5314cf3.md",
+      "quote": "Le budget de l’armée d’Italie ne doit pas dépasser 30 millions."
+    },
+    {
+      "source": "P10J",
+      "file": "downloads/pages/82a063e7e022.md",
+      "quote": "Guerre et administration de la guerre. . . . 350,000,000"
+    },
+    {
+      "source": "R33",
+      "file": "downloads/pages/a21d8807b909.md",
+      "quote": "Au 1 er janvier 1833, l’armée présentait un effectif de 421,494 hommes et 82,057 chevaux."
+    },
+    {
+      "source": "G03",
+      "file": "downloads/pages/2ad693d5ac13.md",
+      "quote": "where over half of his 600,000 troops were non-French."
+    },
+    {
+      "source": "SON04",
+      "file": "downloads/pages/977ad00e38d7.md",
+      "quote": "In all, well over one-half of the Lombard and Venetian troops remained loyal to Austria"
+    },
+    {
+      "source": "BR25",
+      "file": "downloads/pages/26d8892840a9.md",
+      "quote": "Au 1er avril 1812, les magasins abritaient 811 000 fusils."
+    },
+    {
+      "source": "G13",
+      "file": "downloads/pages/fc4c533d40d3.md",
+      "quote": "a decree of 9 October 1813 ordered the draft of 127.433 French recruits from the classes of 1808–1814, yet only 72.265 men reached their units"
+    },
+    {
+      "source": "M71_quantity",
+      "file": "downloads/pages/94b41b5822a4.md",
+      "quote": "During the year following December 4, 1793, 6,000 private and communal saltpeter works had produced 8,170,000 kgm"
+    },
+    {
+      "source": "M71_scope",
+      "file": "downloads/pages/94b41b5822a4.md",
+      "quote": "The 6,000 works mentioned were shops for the leaching of naturally-saltpeterish earths"
+    }
+  ],
+  "warning": "Passes establish arithmetic/structure/literal presence only, not causal validity or archival authentication."
+}

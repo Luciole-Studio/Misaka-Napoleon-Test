@@ -1,0 +1,193 @@
+# Sources — nodes/r_b55f2c1cf5/cards/t_3dc3c2 — [t_3dc3c2] 分岔点与战役替代方案全景档案：1803–1812 每个战略节点上真实存在过的选项（地图卡）
+
+Written by misaka when the products here were settled and rebuilt from scratch each time, so edit nothing in this file or under the sources folder. Each file there is a hard link to where it already lives in the project (a copy only where a hard link was not possible); the originals never move. Cite original project files, not this bundle's disposable sources paths.
+
+## Products
+
+- `bayonne_source_warning.md` — [t_3dc3c2] bayonne_source_warning.md (task_output)
+- `c1_pod_dossier.md` — [t_3dc3c2] c1_pod_dossier.md (task_output)
+- `early_evidence.md` — [t_3dc3c2] early_evidence.md (task_output)
+- `late_evidence.md` — [t_3dc3c2] late_evidence.md (task_output)
+- `method_baseline.md` — [t_3dc3c2] method_baseline.md (task_output)
+- `peace_evidence.md` — [t_3dc3c2] peace_evidence.md (task_output)
+- `tetlock_ocr/p01.png` — [t_3dc3c2] p01.png (task_output)
+- `tetlock_ocr/p01.txt` — [t_3dc3c2] p01.txt (task_output)
+- `tetlock_ocr/p02.png` — [t_3dc3c2] p02.png (task_output)
+- `tetlock_ocr/p02.txt` — [t_3dc3c2] p02.txt (task_output)
+- `tetlock_ocr/p03.png` — [t_3dc3c2] p03.png (task_output)
+- `tetlock_ocr/p03.txt` — [t_3dc3c2] p03.txt (task_output)
+- `tetlock_ocr/p04.png` — [t_3dc3c2] p04.png (task_output)
+- `tetlock_ocr/p04.txt` — [t_3dc3c2] p04.txt (task_output)
+- `tetlock_ocr/p05.png` — [t_3dc3c2] p05.png (task_output)
+- `tetlock_ocr/p05.txt` — [t_3dc3c2] p05.txt (task_output)
+- `tetlock_ocr/p06.png` — [t_3dc3c2] p06.png (task_output)
+- `tetlock_ocr/p06.txt` — [t_3dc3c2] p06.txt (task_output)
+- `tetlock_ocr/p07.png` — [t_3dc3c2] p07.png (task_output)
+- `tetlock_ocr/p07.txt` — [t_3dc3c2] p07.txt (task_output)
+- `tetlock_ocr/p08.png` — [t_3dc3c2] p08.png (task_output)
+- `tetlock_ocr/p08.txt` — [t_3dc3c2] p08.txt (task_output)
+- `tetlock_ocr/p09.png` — [t_3dc3c2] p09.png (task_output)
+- `tetlock_ocr/p09.txt` — [t_3dc3c2] p09.txt (task_output)
+- `tetlock_ocr/p10.png` — [t_3dc3c2] p10.png (task_output)
+- `tetlock_ocr/p10.txt` — [t_3dc3c2] p10.txt (task_output)
+- `tetlock_ocr/p11.png` — [t_3dc3c2] p11.png (task_output)
+- `tetlock_ocr/p11.txt` — [t_3dc3c2] p11.txt (task_output)
+- `tetlock_ocr/p12.png` — [t_3dc3c2] p12.png (task_output)
+- `tetlock_ocr/p12.txt` — [t_3dc3c2] p12.txt (task_output)
+- `tetlock_ocr/p13.png` — [t_3dc3c2] p13.png (task_output)
+- `tetlock_ocr/p13.txt` — [t_3dc3c2] p13.txt (task_output)
+- `tetlock_ocr/p14.png` — [t_3dc3c2] p14.png (task_output)
+- `tetlock_ocr/p14.txt` — [t_3dc3c2] p14.txt (task_output)
+- `tetlock_ocr/p15.png` — [t_3dc3c2] p15.png (task_output)
+- `tetlock_ocr/p15.txt` — [t_3dc3c2] p15.txt (task_output)
+- `tetlock_ocr/p16.png` — [t_3dc3c2] p16.png (task_output)
+- `tetlock_ocr/p16.txt` — [t_3dc3c2] p16.txt (task_output)
+- `tetlock_ocr/p17.png` — [t_3dc3c2] p17.png (task_output)
+- `tetlock_ocr/p17.txt` — [t_3dc3c2] p17.txt (task_output)
+- `tetlock_ocr/p18.png` — [t_3dc3c2] p18.png (task_output)
+- `tetlock_ocr/p18.txt` — [t_3dc3c2] p18.txt (task_output)
+- `tetlock_ocr/p19.png` — [t_3dc3c2] p19.png (task_output)
+- `tetlock_ocr/p19.txt` — [t_3dc3c2] p19.txt (task_output)
+- `tetlock_ocr/p20.png` — [t_3dc3c2] p20.png (task_output)
+- `tetlock_ocr/p20.txt` — [t_3dc3c2] p20.txt (task_output)
+- `tetlock_ocr/p21.png` — [t_3dc3c2] p21.png (task_output)
+- `tetlock_ocr/p21.txt` — [t_3dc3c2] p21.txt (task_output)
+- `tetlock_ocr/p22.png` — [t_3dc3c2] p22.png (task_output)
+- `tetlock_ocr/p22.txt` — [t_3dc3c2] p22.txt (task_output)
+
+## Cited sources (under `sources/`)
+
+- `sources/pages/005f5fc2651f.md` ← `downloads/pages/005f5fc2651f.md`
+  - "The Napoleon Options - Jonathan North" — https://www.jpnorth.co.uk/jonathan-norths-publications/books-napoleonic-and-french-revolution/the-napoleon-options/
+  - sha256 005f5fc2651f85b9376efec500ce22196af73088ab90b47f7d54c5163f72cf12
+  - cited as `https://www.jpnorth.co.uk/jonathan-norths-publications/books-napoleonic-and-french-revolution/the-napoleon-options/` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/method_baseline.md`
+- `sources/pages/1d07d5d7738f.md` ← `downloads/pages/1d07d5d7738f.md`
+  - "NEGOCIATION WITH FRANCE. (Hansard, 5 January 1807)" — https://api.parliament.uk/historic-hansard/commons/1807/jan/05/negociation-with-france
+  - sha256 1d07d5d7738fc347a4d3070072c5abcb2efeeefb75f224b80c3a68b2475cd73e
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1807/jan/05/negociation-with-france` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/peace_evidence.md`
+- `sources/pages/1ed92ae66cab.md` ← `downloads/pages/1ed92ae66cab.md`
+  - "Commons Sitting of 20 January 1809 (Hansard)" — https://api.parliament.uk/historic-hansard/commons/1809/jan/20
+  - sha256 1ed92ae66cab590fafac4f0b3389b511029bec674b5e721a0208d0a63e1b5f30
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1809/jan/20` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/peace_evidence.md`
+- `sources/pages/326b19e197a6.md` ← `downloads/pages/326b19e197a6.md`
+  - "Napoléon et la " descente " en Angleterre. 1re partie : Les multiples projets de 1778 à 1803 - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/napoleon-et-la-descente-en-angleterre-1re-partie-les-multiples-projets-de-1778-a-1803/
+  - sha256 326b19e197a6a7aeff6a92dab3522bdd28b2cae49d0635d98f8cf8fbe0b46ef1
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/articles/napoleon-et-la-descente-en-angleterre-1re-partie-les-multiples-projets-de-1778-a-1803/` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/early_evidence.md`
+- `sources/pages/35dcb892b38d.md` ← `downloads/pages/35dcb892b38d.md`
+  - "The Project Gutenberg eBook of Napoléon et Alexandre Ier, par Albert Vandal" — https://www.gutenberg.org/files/31260/31260-h/31260-h.htm
+  - sha256 35dcb892b38dbf0f6bd94ffc0e5ad2ff91ba8be12406bdc227b5a72b15b916ea
+  - cited as `https://www.gutenberg.org/files/31260/31260-h/31260-h.htm` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/late_evidence.md`
+- `sources/pages/36c4ed168eb4.md` ← `downloads/pages/36c4ed168eb4.md`
+  - "Letter to Marshal Berthier – Cartlann" — https://cartlann.org/authors/napoleon/letter-to-marshal-berthier/
+  - sha256 36c4ed168eb4289ad515fff8e6d6108faffcf0f5bf447d062ef5f55446ba3338
+  - cited as `https://cartlann.org/authors/napoleon/letter-to-marshal-berthier/` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/early_evidence.md`
+- `sources/pages/4b8f2a2c5183.md` ← `downloads/pages/4b8f2a2c5183.md`
+  - "New Page 1" — https://www.histoire-empire.org/correspondance_de_napoleon/1804/septembre_02.htm
+  - sha256 4b8f2a2c518395b47e2e153cad83ccd6f72b90e16edef910da0aeba54deec635
+  - cited as `https://www.histoire-empire.org/correspondance_de_napoleon/1804/septembre_02.htm` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/early_evidence.md`
+- `sources/pages/4dd061a66f88.md` ← `downloads/pages/4dd061a66f88.md`
+  - "Correspondance de Napoléon – Juillet 1804" — https://napoleon-histoire.com/correspondance-de-napoleon-juillet-1804/
+  - sha256 4dd061a66f8862973dae0e6d4b2b4fb76b9ac98f82ae5ab58fa2443d6a766981
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-juillet-1804/` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/early_evidence.md`
+- `sources/pages/509e05c01d8a.md` ← `downloads/pages/509e05c01d8a.md`
+  - "Documents upon the Overthrow of the Spanish Monarchy 1807" — https://www.napoleon-series.org/research/government/diplomatic/c_spain.html
+  - sha256 509e05c01d8af2a2e112232ab4a9bba76abf0b8509e23150de20fbf5eaa36c1c
+  - cited as `https://www.napoleon-series.org/research/government/diplomatic/c_spain.html` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/bayonne_source_warning.md`
+- `sources/pages/635f200bfaf6.md` ← `downloads/pages/635f200bfaf6.md`
+  - "Fulton’s torpedoes used in the attack on Boulogne, 1804 – The Navy Records Society" — https://www.navyrecords.org.uk/magazine_posts/fultons-torpedoes-used-in-the-attack-on-boulogne-1804/
+  - sha256 635f200bfaf62e7499aadd988708a46080b2ffd2afd0c680aeab407c5c82f619
+  - cited as `https://www.navyrecords.org.uk/magazine_posts/fultons-torpedoes-used-in-the-attack-on-boulogne-1804/` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/early_evidence.md`
+- `sources/pages/6e996221a1d1.md` ← `downloads/pages/6e996221a1d1.md`
+  - "NEGOCIATION WITH FRANCE. (Hansard, 30 December 1806)" — https://api.parliament.uk/historic-hansard/commons/1806/dec/30/negociation-with-france
+  - sha256 6e996221a1d15966b6a45396aa12a93bfc82e47ac90fc7c47f75558967747049
+  - cited as `https://api.parliament.uk/historic-hansard/commons/1806/dec/30/negociation-with-france` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/peace_evidence.md`
+- `sources/pages/82f57f150af4.md` ← `downloads/pages/82f57f150af4.md`
+  - "Napoleon I | letter signed, to Admiral Villeneuve, ordering the invasion of England, 22 August 1805 | Collection of a C…" — https://www.sothebys.com/buy/49414b88-73ed-4002-9a65-9cf0b6e8ec3e/lots/2566b423-a3ab-4452-8619-fc560a9bcc6a
+  - sha256 82f57f150af408d5dc83dd7ce6c67c52ef96ce438b7d70452e98a48b0b6cb76d
+  - cited as `https://www.sothebys.com/buy/49414b88-73ed-4002-9a65-9cf0b6e8ec3e/lots/2566b423-a3ab-4452-8619-fc560a9bcc6a` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/early_evidence.md`
+- `sources/pages/85d915a3148f.md` ← `downloads/pages/85d915a3148f.md`
+  - "NEGOCIATION WITH FRANCE. (Hansard, 2 January 1807)" — https://api.parliament.uk/historic-hansard/lords/1807/jan/02/negociation-with-france
+  - sha256 85d915a3148fb773ac750222b0c6e32970828a67a63c3163fe03183a8e0eaa54
+  - cited as `https://api.parliament.uk/historic-hansard/lords/1807/jan/02/negociation-with-france` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/peace_evidence.md`
+- `sources/pages/af472c3dfa49.md` ← `downloads/pages/af472c3dfa49.md`
+  - "The Project Gutenberg eBook of Robert Fulton and the Submarine, by Wm. Barclay Parsons" — https://www.gutenberg.org/cache/epub/63351/pg63351-images.html
+  - sha256 af472c3dfa49f35442e9544813d98eecd70efa2584b195f65f898e016dcd66e1
+  - cited as `https://www.gutenberg.org/cache/epub/63351/pg63351-images.html` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/early_evidence.md`
+- `sources/pages/b4cbeb6047c6.md` ← `downloads/pages/b4cbeb6047c6.md`
+  - "Contents _________________" — https://aaronbelkin.org/pdfs/Counterfactual%20Thought%20Experiments%20in%20World%20Politics%20-%201st%20chpt.pdf
+  - sha256 b4cbeb6047c66c647335ced2664db3c4457d90af8a19f07b5e05ff58b734c44b
+  - cited as `https://aaronbelkin.org/pdfs/Counterfactual%20Thought%20Experiments%20in%20World%20Politics%20-%201st%20chpt.pdf` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/method_baseline.md`
+- `sources/pages/babfe7fc830f.md` ← `downloads/pages/babfe7fc830f.md`
+  - "The Project Gutenberg eBook of Torpedo War, and Submarine Explosions, by Robert Fulton" — https://www.gutenberg.org/files/51748/51748-h/51748-h.htm
+  - sha256 babfe7fc830f68912ecf144553bc68feeafffa4bcba9e42760fc1a0ce17e9177
+  - cited as `https://www.gutenberg.org/files/51748/51748-h/51748-h.htm` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/early_evidence.md`
+- `sources/pages/c0e5e2069d0d.md` ← `downloads/pages/c0e5e2069d0d.md`
+  - "The "Berlin Decree" of November 21 1806 - napoleon.org" — https://www.napoleon.org/en/history-of-the-two-empires/articles/the-berlin-decree-of-november-21-1806/
+  - sha256 c0e5e2069d0d55c8ce14d6dff725988cce1d08340565055bbe3dd583a370ca0d
+  - cited as `https://www.napoleon.org/en/history-of-the-two-empires/articles/the-berlin-decree-of-november-21-1806/` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/c1_pod_dossier.md`
+- `sources/pages/cd494198d45d.md` ← `downloads/pages/cd494198d45d.md`
+  - "The Project Gutenberg eBook of Napoléon et Alexandre Ier (3/3), par Albert Vandal" — https://www.gutenberg.org/cache/epub/32621/pg32621-images.html
+  - sha256 cd494198d45da4decf3ca984d171223370226f5d6622f7692358e41b93c80a59
+  - cited as `https://www.gutenberg.org/cache/epub/32621/pg32621-images.html` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/late_evidence.md`
+- `sources/pages/d250f548ac2d.md` ← `downloads/pages/d250f548ac2d.md`
+  - "[Which] Speech from the Dock?" — https://historyireland.com/which-speech-from-the-dock/
+  - sha256 d250f548ac2d834dc1e8d561d4d7056beaffc9ae2e78441825b153a90e6f7f0a
+  - cited as `https://historyireland.com/which-speech-from-the-dock/` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/early_evidence.md`
+- `sources/pages/d43b97ff4449.md` ← `downloads/pages/d43b97ff4449.md`
+  - "Potential outcomes, causal inference, and virtual history | Statistical Modeling, Causal Inference, and Social Science" — https://statmodeling.stat.columbia.edu/2005/03/28/potential_outco/
+  - sha256 d43b97ff44498e7f0d65872a1408f5b60fe73d2d7a1b50ee70294d39da41d93d
+  - cited as `https://statmodeling.stat.columbia.edu/2005/03/28/potential_outco/` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/method_baseline.md`
+- `sources/pages/ddef576b0be2.md` ← `downloads/pages/ddef576b0be2.md`
+  - "The wars of the 'Fourth Coalition': part one, the Polish Campaign - napoleon.org" — https://www.napoleon.org/en/history-of-the-two-empires/articles/the-wars-of-the-fourth-coalition-part-one-the-polish-campaign/
+  - sha256 ddef576b0be2ae127197d1f19ab8ae8138f985da9e88b5b0dd44fa4e57caad72
+  - cited by [t_3dc3c2] "1806年11月16日夏洛滕堡停战已由全权代表签署却未获普王批准；同期普方备忘录与书信提供“接受停战而非继续战争”的明确选项链。" (fact) — "This truce of Charlottenburg, dated 16 November, was finally signed by Prussian plenipotentiaries, …"
+  - cited as `https://www.napoleon.org/en/history-of-the-two-empires/articles/the-wars-of-the-fourth-coalition-part-one-the-polish-campaign/` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/c1_pod_dossier.md`
+- `sources/pages/e5dd2552be6d.md` ← `downloads/pages/e5dd2552be6d.md`
+  - "Correspondance de Napoléon - Mars 1805" — https://napoleon-histoire.com/correspondance-de-napoleon-mars-1805/
+  - sha256 e5dd2552be6d33c22fd5a7e91dcf26ad8a3d622eb4bd576b97059a0e10684383
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-mars-1805/` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/early_evidence.md`
+- `sources/pages/e6fecc9325ac.md` ← `downloads/pages/e6fecc9325ac.md`
+  - "Convention franco-russe d'Erfurt, 12 octobre 1808 - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/convention-franco-russe-derfurt-12-octobre-1808/
+  - sha256 e6fecc9325acadf7a9b3b3cc62998b82f2228c5cc27e58ab5d17dda4323c3ef9
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/articles/convention-franco-russe-derfurt-12-octobre-1808/` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/peace_evidence.md`
+- `sources/pages/f4f70390c6ff.md` ← `downloads/pages/f4f70390c6ff.md`
+  - "'What if' is a waste of time | History books | The Guardian" — https://www.theguardian.com/books/2014/mar/13/counterfactual-history-what-if-waste-of-time
+  - sha256 f4f70390c6ff4c5f0c3007e688225b854863c7de922912bd2d71e647e8cdfac9
+  - cited as `https://www.theguardian.com/books/2014/mar/13/counterfactual-history-what-if-waste-of-time` in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/method_baseline.md`
+
+## Cited, already in this folder
+
+- `early_evidence.md`
+  - cited by [t_3dc3c2] "1803年12月Ganteaume明确提出舰队突入掩护作为小艇独渡替代；选项存在不证明作战成功。" (fact) — "je regarde l’expédition de la flottille, sinon comme impossible, mais comme extrêmement chanceuse"
+  - cited by [t_3dc3c2] "Fulton法国1803后重新立项缺直接锚点；英国合同只能证明英国采购及同期制度类比。" (interpretation)
+- `late_evidence.md`
+  - cited by [t_3dc3c2] "1810反波兰公约批准与不援助反提案是两个不同分岔，不能把签署当生效。" (interpretation)
+- `peace_evidence.md`
+  - cited by [t_3dc3c2] "1806议会记录必须并列法国正式书面认可缺位与Yarmouth口头基础证言，不足证明接近达成和平。" (interpretation)
+
+## Consulted but not cited (left where they are)
+
+- `downloads/pages/0dae11bc01f3.md` — "The Project Gutenberg eBook of Oeuvres de Napoléon Bonaparte, Tome IV" — https://www.gutenberg.org/files/13192/13192-h/13192-h.htm
+- `downloads/pages/747bf6067487.md` — "Document commenté > Lettre du 23 mars 1808 de Napoléon à Murat (Vol.8 de la Correspondance de Napoléon) - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/lettre-du-23-mars-1808-de-napoleon-a-murat-commentee-par-gabriel-madec-vol-8-de-la-correspondance-de-napoleon/
+- `downloads/pages/931817cc1efe.md` — "Altered Pasts: Counterfactuals in History | Richard J Evans" — https://www.richardjevans.com/publications/altered-pasts-counterfactuals-history/
+- `downloads/pages/b8bc84d9143a.md` — "The twin battles of Jena and Auerstedt, 14 October, 1806 - napoleon.org" — https://www.napoleon.org/en/history-of-the-two-empires/timelines/the-twin-battles-of-jena-and-auerstedt-14-october-1806/
+- `downloads/pages/ff744d3eea74.md` — "Treaty between France and Russia, Tilsit, 7 July, 1807 - napoleon.org" — https://www.napoleon.org/en/history-of-the-two-empires/articles/treaty-between-france-and-russia-tilsit-7-july-1807/
+- `downloads/tetlock-belkin-ch1.pdf`
+
+## Unresolved locators
+
+- `downloads/pages/747bf6067487.md，行116–164）；因此“Madec否定3月29日信”的依据不再仅为协作来报。但CG8的Lentz附录仍未亲读，圣赫勒拿具体制作过程也未凭本篇独立核实。Madec的政治意图判断与3月23日文书字面应分开：前者认为废立目标已定；后者确实只命暂不扰宫廷。附注7所引Champagny《Souvenirs》p.97为回溯性转引，记最初拟换掉Godoy并通过自己选择的大臣执政；不能冒充1808同期备忘录。` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/bayonne_source_warning.md`)
+- `downloads/pages/0dae11bc01f3.md行10795起：https://www.gutenberg.org/files/13192/13192-h/13192-h.htm` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/bayonne_source_warning.md`)
+- `downloads/pages/35dcb892b38d.md。` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/late_evidence.md`)
+- `downloads/pages/cd494198d45d.md。` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/late_evidence.md`)
+- `downloads/tetlock-belkin-ch1.pdf；扫描及OCR在本目录tetlock_ocr/p11与p12。仅上述页码已经核读，不宣称整章精读。` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/method_baseline.md`)
+- `downloads/pages/d43b97ff4449.md）。同源转载不得计作独立互证。` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/method_baseline.md`)
+- `downloads/pages/f4f70390c6ff.md）。` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/method_baseline.md`)
+- `downloads/pages/005f5fc2651f.md）。` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/method_baseline.md`)
+- `downloads/pages/85d915a3148f.md。` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/peace_evidence.md`)
+- `downloads/pages/6e996221a1d1.md。代理读到返回的连续正文。` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/peace_evidence.md`)
+- `https://api.parliament.uk/historic-hansard/commons/1806/dec/22/papers` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/peace_evidence.md`)
+- `downloads/pages/86b3fa9906e6.md、632f5bd25919.md、f6fd34e73fd5.md、437e716ed0c6.md（后列文件均同目录）。多次仅摘录，未逐件核日期、作者、编号、栏号。` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/peace_evidence.md`)
+- `https://api.parliament.uk/historic-hansard/commons/1809/jan/20/correspondence-with-the-russian-and` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/peace_evidence.md`)
+- `https://api.parliament.uk/historic-hansard/commons/1809/jan/20/count-nicolas-de-romanzoff` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/peace_evidence.md`)
+- `https://www.cambridge.org/core/journals/historical-journal/article/abs/an-odd-question-enough-charles-james-fox-the-crown-and-british-policy-during-the-hanoverian-crisis-of-1806/DA234C37EB853325D8B9C08F7BE34CCA` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_3dc3c2/peace_evidence.md`)

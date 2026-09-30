@@ -1,0 +1,13 @@
+contract,gross_premium_per_100,assumed_loading_fraction_of_limit,assumed_net_claim_payout_fraction,implied_death_OR_capture_probability,implied_no_death_AND_no_capture_probability,note
+Napoleon_death_or_capture_1813-05-21_to_1813-06-21,0.0315,0,1,0.031500,0.968500,illustrative actuary no discount; not political survival nor Lloyds maritime premium
+Napoleon_death_or_capture_1813-05-21_to_1813-06-21,0.0315,0,0.9,0.035000,0.965000,illustrative actuary no discount; not political survival nor Lloyds maritime premium
+Napoleon_death_or_capture_1813-05-21_to_1813-06-21,0.0315,0,0.8,0.039375,0.960625,illustrative actuary no discount; not political survival nor Lloyds maritime premium
+Napoleon_death_or_capture_1813-05-21_to_1813-06-21,0.0315,0.01,1,0.021500,0.978500,illustrative actuary no discount; not political survival nor Lloyds maritime premium
+Napoleon_death_or_capture_1813-05-21_to_1813-06-21,0.0315,0.01,0.9,0.023889,0.976111,illustrative actuary no discount; not political survival nor Lloyds maritime premium
+Napoleon_death_or_capture_1813-05-21_to_1813-06-21,0.0315,0.01,0.8,0.026875,0.973125,illustrative actuary no discount; not political survival nor Lloyds maritime premium
+Napoleon_death_or_capture_1813-05-21_to_1813-06-21,0.0315,0.02,1,0.011500,0.988500,illustrative actuary no discount; not political survival nor Lloyds maritime premium
+Napoleon_death_or_capture_1813-05-21_to_1813-06-21,0.0315,0.02,0.9,0.012778,0.987222,illustrative actuary no discount; not political survival nor Lloyds maritime premium
+Napoleon_death_or_capture_1813-05-21_to_1813-06-21,0.0315,0.02,0.8,0.014375,0.985625,illustrative actuary no discount; not political survival nor Lloyds maritime premium
+Napoleon_death_or_capture_1813-05-21_to_1813-06-21,0.0315,0.0315,1,0.000000,1.000000,illustrative actuary no discount; not political survival nor Lloyds maritime premium
+Napoleon_death_or_capture_1813-05-21_to_1813-06-21,0.0315,0.0315,0.9,0.000000,1.000000,illustrative actuary no discount; not political survival nor Lloyds maritime premium
+Napoleon_death_or_capture_1813-05-21_to_1813-06-21,0.0315,0.0315,0.8,0.000000,1.000000,illustrative actuary no discount; not political survival nor Lloyds maritime premium

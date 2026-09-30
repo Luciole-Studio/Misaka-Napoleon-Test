@@ -1,0 +1,17 @@
+{
+  "characters_without_metadata": 259549,
+  "han_characters": 161917,
+  "chapters_including_introduction_appendix": 12,
+  "tables": 53,
+  "source_note_definitions": 199,
+  "source_note_calls": 355,
+  "missing_notes": [],
+  "duplicate_note_definitions": [],
+  "unused_note_definitions": [],
+  "table_column_errors": [],
+  "original_report_unchanged": true,
+  "html_sha256": "9448f73ab15606d72210c2a3a3cf76b03a5523bd42b48bc22fa784a11cbfa462",
+  "markdown_sha256": "6365f4acec7d89110142a6541289ffb38ad50aa92ce70e55806530d54209637b",
+  "limits": "Counts and static checks are not a claim of exhaustive archive reading, causal model validation, or whole-book PDF visual proof.",
+  "status": "上一轮历史构建快照；本轮以verification.json为准"
+}

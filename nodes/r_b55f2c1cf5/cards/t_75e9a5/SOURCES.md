@@ -1,0 +1,341 @@
+# Sources — nodes/r_b55f2c1cf5/cards/t_75e9a5 — [t_75e9a5] 和约设计与联盟管理：拿破仑式霸权为何锁不住，当时存在过的替代外交架构是什么
+
+Written by misaka when the products here were settled and rebuilt from scratch each time, so edit nothing in this file or under the sources folder. Each file there is a hard link to where it already lives in the project (a copy only where a hard link was not possible); the originals never move. Cite original project files, not this bundle's disposable sources paths.
+
+## Products
+
+- `anna_bertrand_details.json` — [t_75e9a5] anna_bertrand_details.json (task_output)
+- `anna_bertrand_metadata.json` — [t_75e9a5] anna_bertrand_metadata.json (task_output)
+- `anna_bertrand_search.json` — [t_75e9a5] anna_bertrand_search.json (task_output)
+- `c13_settlement_design.md` — [t_75e9a5] c13_settlement_design.md (task_output)
+- `peace_evidence.md` — [t_75e9a5] peace_evidence.md (task_output)
+- `treaties_evidence.md` — [t_75e9a5] treaties_evidence.md (task_output)
+
+## Cited sources (under `sources/`)
+
+- `sources/pages/00ca352688de.md` ← `downloads/pages/00ca352688de.md`
+  - "18120224-001:allianzvertrag - EPOCHE NAPOLEON" — https://www.epoche-napoleon.net/quellen/1812/02/24/allianzvertrag.html
+  - sha256 00ca352688de422acacdf9d6ca241c8ce1731204e2e2929a3d7de3168e056fe9
+  - cited as `https://www.epoche-napoleon.net/quellen/1812/02/24/allianzvertrag.html` in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+- `sources/pages/0964a00115c5.md` ← `downloads/pages/0964a00115c5.md`
+  - "Traité entre la France et la Prusse pour le règlement des contributions de guerre, l'occupation de trois places fortes …" — https://napoleon-histoire.com/traite-entre-la-france-et-la-prusse-pour-le-reglement-des-contributions-de-guerre-loccupation-de-trois-places-fortes-et-la-reconnaissance-des-rois-despagne-et-de-naples/
+  - sha256 0964a00115c512b8a7b6a5cbfd41c84224033342ad1403da6d76a3224ab7da28
+  - cited by [t_75e9a5] "1808巴黎协定第1条数额是1.4亿法郎；1.2亿是编者脚注所称后减免，不能倒填正文。" (fact) — "est fixé à 140 millions de francs"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited as `https://napoleon-histoire.com/traite-entre-la-france-et-la-prusse-pour-le-reglement-des-contributions-de-guerre-loccupation-de-trois-places-fortes-et-la-reconnaissance-des-rois-despagne-et-de-naples/` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`
+  - cited as `https://napoleon-histoire.com/traite-entre-la-france-et-la-prusse-pour-le-reglement-des-contributions-de-guerre-loccupation-de-trois-places-fortes-et-la-reconnaissance-des-rois-despagne-et-de-naples/` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`
+- `sources/pages/0b66242e946b.md` ← `downloads/pages/0b66242e946b.md`
+  - "Le Roi de Rome - Henri Welschinger" — http://www.mediterranee-antique.fr/Auteurs/Fichiers/WXYZ/Welschinger/R_Rome/R_R_01.htm
+  - sha256 0b66242e946b198eb1209b4b643eb7cf87a37860c8471f7a7d20afdba813e861
+  - cited as `http://www.mediterranee-antique.fr/Auteurs/Fichiers/WXYZ/Welschinger/R_Rome/R_R_01.htm` in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`
+- `sources/pages/0cb883e1dd4e.md` ← `downloads/pages/0cb883e1dd4e.md`
+  - "Traité d'alliance signé à Paris le 14 mars 1812 entre la France et l’Autriche" — https://napoleon-histoire.com/traite-dalliance-signe-a-paris-le-14-mars-1812-entre-la-france-et-lautriche/
+  - sha256 0cb883e1dd4e47835a8a353f7e473914501f73913dcb85518e7151d52e3729fd
+  - cited as `https://napoleon-histoire.com/traite-dalliance-signe-a-paris-le-14-mars-1812-entre-la-france-et-lautriche/` in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`
+  - cited as `https://napoleon-histoire.com/traite-dalliance-signe-a-paris-le-14-mars-1812-entre-la-france-et-lautriche/` in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+- `sources/pages/0cfeffeb04dc.md` ← `downloads/pages/0cfeffeb04dc.md`
+  - "Napoleon Et Talleyrand - Dard, Emile - PDFCOFFEE.COM" — https://pdfcoffee.com/napoleon-et-talleyrand-dard-emile-pdf-free.html
+  - sha256 0cfeffeb04dcb1c4bbf06f73b0982e8bae1673627cfb3b4eb1811c9a66807f2c
+  - cited by [t_75e9a5] "Dard转引1805草约第2条限制以购置、交换、赠与、合并继续扩张，第3条要求批准后立即分冠；这不是无成本的全面霸权方案。" (fact) — "Immédiatement après les ratifications les couronnes de France et de l’Italie seront séparées à perp…"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited as `https://pdfcoffee.com/napoleon-et-talleyrand-dard-emile-pdf-free.html` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+- `sources/pages/1d18408afeda.md` ← `downloads/pages/1d18408afeda.md`
+  - "Traité franco-autrichien de Schoenbrunn du 14 octobre 1809" — https://www.napoleon-empire.org/texte-officiel/traite-schoenbrunn.php
+  - sha256 1d18408afedaa8d0a8d4c9f25ee822b1054c959d9fe9aa0e7dbc7e0454cc1e43
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`
+  - cited as `https://www.napoleon-empire.org/texte-officiel/traite-schoenbrunn.php` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`
+- `sources/pages/21267bb11d06.md` ← `downloads/pages/21267bb11d06.md`
+  - "1812 La Campagne de Russie : 1 : De la diplomatie au passage du Niémen - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/chronologies/1812-la-campagne-de-russie-1-de-la-diplomatie-au-passage-du-niemen/
+  - sha256 21267bb11d0628eda711951fbdfab08f9958a5825824779478e287f89a196bbc
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/chronologies/1812-la-campagne-de-russie-1-de-la-diplomatie-au-passage-du-niemen/` in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+- `sources/pages/227f1cf6004e.md` ← `downloads/pages/227f1cf6004e.md`
+  - "Rheinbunds-Akte 1806" — https://www.koeblergerhard.de/Fontes/Rheinbunds-Akte1806.htm
+  - sha256 227f1cf6004e159ee85e5129fc3b630e29b2d9f54a4a4c34d72a41819651a644
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited as `https://www.koeblergerhard.de/Fontes/Rheinbunds-Akte1806.htm` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited as `https://www.koeblergerhard.de/Fontes/Rheinbunds-Akte1806.htm` in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+- `sources/pages/22b6c0607a18.md` ← `downloads/pages/22b6c0607a18.md`
+  - "Talleyrand raconte sa campagne de 1805" — https://napoleon-histoire.com/talleyrand-raconte-sa-campagne-de-1805/
+  - sha256 22b6c0607a18ef6839db02f0b7855223dee77f02531ae6300b49c510777eaec9
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited as `https://napoleon-histoire.com/talleyrand-raconte-sa-campagne-de-1805/` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+- `sources/pages/22f118f554d9.md` ← `downloads/pages/22f118f554d9.md`
+  - "01.01.02.03 Krieg 1812, 1812-1855" — https://archivdatenbank.gsta.spk-berlin.de/midosasearch-gsta/MidosaSEARCH/iii_ha_mda/xml/inhalt/GStA_iii_ha_mda_1_1_2_3.htm
+  - sha256 22f118f554d9028d0dc4c91b35254cba8e16c37cad6929527f237094dae4d388
+  - cited as `https://archivdatenbank.gsta.spk-berlin.de/midosasearch-gsta/MidosaSEARCH/iii_ha_mda/xml/inhalt/GStA_iii_ha_mda_1_1_2_3.htm` in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+- `sources/pages/2ee39327ef43.md` ← `downloads/pages/2ee39327ef43.md`
+  - "Napoléon et la transformation des institutions en Allemagne - Persée" — https://www.persee.fr/doc/rhmc_0048-8003_1970_num_17_3_2120
+  - sha256 2ee39327ef43c03f823ff171439d6bc25e598e46042c4b0727d9eeb96da24071
+  - cited as `https://www.persee.fr/doc/rhmc_0048-8003_1970_num_17_3_2120` in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+- `sources/pages/33c8ed93eabf.md` ← `downloads/pages/33c8ed93eabf.md`
+  - "Correspondance de Napoléon Ier; publiée par ordre de l'empereur Napoléon III : Napoleon I, Emperor of the French, 1769-…" — https://archive.org/details/correspondancede30napouoft
+  - sha256 33c8ed93eabf1c4880a7a2b7966adfc4def85eb91442140366dc778f4d782755
+  - cited as `https://archive.org/details/correspondancede30napouoft` in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`
+- `sources/pages/34f4bd8f6f1b.md` ← `downloads/pages/34f4bd8f6f1b.md`
+  - "Correspondance de Napoléon - Novembre 1807" — https://www.histoire-empire.org/correspondance_de_napoleon/1807/novembre_02.htm
+  - sha256 34f4bd8f6f1b452f4ef6608f227e73305f8a9b1b326460740051d9a6a8787475
+  - cited as `https://www.histoire-empire.org/correspondance_de_napoleon/1807/novembre_02.htm` in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+- `sources/pages/3a419bf742fa.md` ← `downloads/pages/3a419bf742fa.md`
+  - "18120224-003:geheimtaktat02 - EPOCHE NAPOLEON" — https://www.epoche-napoleon.net/quellen/1812/02/24/geheimtaktat02.html
+  - sha256 3a419bf742fa3a85dab1584807bd4b9355f6cc8eec2429b6558ebcb042749a22
+  - cited as `https://www.epoche-napoleon.net/quellen/1812/02/24/geheimtaktat02.html` in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+- `sources/pages/45df93c6e187.md` ← `downloads/pages/45df93c6e187.md`
+  - "Grands traités politiques" — https://mjp.univ-perp.fr/traites/1805presbourg.htm
+  - sha256 45df93c6e187943cadc631413fe17c040744663c08435927f5b024d988cc2e12
+  - cited as `https://mjp.univ-perp.fr/traites/1805presbourg.htm` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`
+  - cited as `https://mjp.univ-perp.fr/traites/1805presbourg.htm` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`
+- `sources/pages/477ba54e881b.md` ← `downloads/pages/477ba54e881b.md`
+  - "Document > Le traité de paix de Presbourg, 26 décembre 1805 - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/le-traite-de-paix-de-presbourg-26-decembre-1805/
+  - sha256 477ba54e881b4cce55bdb35552deea5dbdd481df6d767792a625bc7356ce4392
+  - cited by [t_75e9a5] "普雷斯堡第5条保留条件满足后法意王冠永不合一；Dard转引1805-10-17草约第3条改为批准后立即永久分离。" (fact) — "aussitôt que les puissances nommées dans cette déclaration auront rempli les conditions"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/articles/le-traite-de-paix-de-presbourg-26-decembre-1805/` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/articles/le-traite-de-paix-de-presbourg-26-decembre-1805/` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`
+- `sources/pages/4b40ca3af7f7.md` ← `downloads/pages/4b40ca3af7f7.md`
+  - "Treaty between Prussia and France, Tilsit, 9 July, 1807 - napoleon.org" — https://www.napoleon.org/en/history-of-the-two-empires/articles/treaty-between-prussia-and-france-tilsit-9-july-1807/
+  - sha256 4b40ca3af7f78be3bff4b0f23d9b4e716a41cba018f09d0143d991fdd344ac71
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited as `https://www.napoleon.org/en/history-of-the-two-empires/articles/treaty-between-prussia-and-france-tilsit-9-july-1807/` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited as `https://www.napoleon.org/en/history-of-the-two-empires/articles/treaty-between-prussia-and-france-tilsit-9-july-1807/` in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`
+  - cited as `https://www.napoleon.org/en/history-of-the-two-empires/articles/treaty-between-prussia-and-france-tilsit-9-july-1807/` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`
+- `sources/pages/4fa9933e2508.md` ← `downloads/pages/4fa9933e2508.md`
+  - "Code civil für das Großherzogtum Berg - Deutsche Digitale Bibliothek" — https://www.deutsche-digitale-bibliothek.de/item/2W4JIPWELOA6HU663BEESLJT7DOGA2K3
+  - sha256 4fa9933e250850e3cc8e3f71f71895320f150e08ecdbff9e82fb66cfef26cf97
+  - cited as `https://www.deutsche-digitale-bibliothek.de/item/2W4JIPWELOA6HU663BEESLJT7DOGA2K3` in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+- `sources/pages/523d0f5541c4.md` ← `downloads/pages/523d0f5541c4.md`
+  - "Statut constitutionnel du 17 mars 1805 - Wikisource" — https://fr.wikisource.org/wiki/Statut_constitutionnel_du_17_mars_1805
+  - sha256 523d0f5541c4c786a9e1748322d925fa7ee70cbd99b33b5e9ebd81c58e456ff4
+  - cited as `https://fr.wikisource.org/wiki/Statut_constitutionnel_du_17_mars_1805` in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`
+- `sources/pages/567748874d93.md` ← `downloads/pages/567748874d93.md`
+  - "Proclama di Rimini - Wikisource" — https://it.wikisource.org/wiki/Proclama_di_Rimini
+  - sha256 567748874d937c8ea99ddd6a294ccad99792cc126f86c36a553a642f05e4eb32
+  - cited as `https://it.wikisource.org/wiki/Proclama_di_Rimini` in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`
+- `sources/pages/5ab65f0d1e5e.md` ← `downloads/pages/5ab65f0d1e5e.md`
+  - "Commons Chamber - Hansard - UK Parliament" — https://hansard.parliament.uk/html/Commons/1809-01-20/CommonsChamber
+  - sha256 5ab65f0d1e5e915c6b2cc3305dd4c51a99fb7d111452204d1195d57370da2c88
+  - cited by [t_75e9a5] "1808年11月28日法方外交照会接受英国其他盟友但拒绝西班牙反抗政府，12月9日英方明确坚持中央最高政府代表资格。" (fact) — "the Central and Supreme Government, acting in the name of his Catholic Majesty Ferdinand VII."
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited as `https://hansard.parliament.uk/html/Commons/1809-01-20/CommonsChamber` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/peace_evidence.md`
+  - cited as `https://hansard.parliament.uk/html/Commons/1809-01-20/CommonsChamber` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/peace_evidence.md`
+- `sources/pages/5d550d2e45a1.md` ← `downloads/pages/5d550d2e45a1.md`
+  - "Full text of "Napoléon et l'Angleterre 1803-1813. D'après des documents inédits des Archives des affaires étrangères, d…" — https://archive.org/stream/napolonetlangl00coqu/napolonetlangl00coqu_djvu.txt
+  - sha256 5d550d2e45a1c64f39fe0e0523d64f33e88b767e60256d8b7b86a9a6101ef440
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/peace_evidence.md`
+- `sources/pages/5dc51974bd26.md` ← `downloads/pages/5dc51974bd26.md`
+  - "Geschichte Deutschlands im neunzehnten Jahrhundert" — https://www.e-rara.ch/download/pdf/31787144.pdf
+  - sha256 5dc51974bd26c6e543861dc7dce734f396a3435a61f2e09bde85b9c6832c55a9
+  - cited as `https://www.e-rara.ch/download/pdf/31787144.pdf` in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+- `sources/pages/603b19b5b0f9.md` ← `downloads/pages/603b19b5b0f9.md`
+  - "Document > Traité de paix de Vienne (14 octobre 1809) - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/document-traite-de-paix-de-vienne-14-octobre-1809/
+  - sha256 603b19b5b0f9ee408a7a8157d33fca45187721d32e5d3787d77ac897c90ca3eb
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/articles/document-traite-de-paix-de-vienne-14-octobre-1809/` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/articles/document-traite-de-paix-de-vienne-14-octobre-1809/` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`
+- `sources/pages/649e54bf4408.md` ← `downloads/pages/649e54bf4408.md`
+  - "The Project Gutenberg eBook of Oeuvres de Napoléon Bonaparte, Tome IV" — https://www.gutenberg.org/cache/epub/13192/pg13192-images.html
+  - sha256 649e54bf440838c0e5b3c4b1900edc2edeeec356b7730fd76579427561e83080
+  - cited by [t_7da32d] "1806-03-30设约瑟夫为那不勒斯王法令禁止法国、意大利、那不勒斯及西西里诸冠集于同一人。" (fact) — "les couronnes, soit de France, soit d'Italie, soit de Naples et de Sicile, ne puissent jamais être …"
+  - cited as `https://www.gutenberg.org/cache/epub/13192/pg13192-images.html` in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+- `sources/pages/6864746209f3.md` ← `downloads/pages/6864746209f3.md`
+  - "Correspondance de Napoléon Ier - Juillet 1811 - Histoire du Consulat et du Premier empire" — https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1811/
+  - sha256 6864746209f39aee6fe88239fe954df1d57a7d5537d4faa2fea23c6fd9869f07
+  - cited as `https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1811/` in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`
+- `sources/pages/6d14b89ddb86.md` ← `downloads/pages/6d14b89ddb86.md`
+  - "18120224-004:geheimtaktat04 - EPOCHE NAPOLEON" — https://www.epoche-napoleon.net/quellen/1812/02/24/geheimtaktat04.html
+  - sha256 6d14b89ddb86cb14cc84ca31a3aab25643a901d191ca337c235f2c2a7734269c
+  - cited as `https://www.epoche-napoleon.net/quellen/1812/02/24/geheimtaktat04.html` in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+- `sources/pages/748b696ca1ca.md` ← `downloads/pages/748b696ca1ca.md`
+  - "Institutions. Les départements réunis et les gouverneurs généraux sous le Consulat et l’Empire - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/institutions-les-departements-reunis-et-les-gouverneurs-generaux-sous-le-consulat-et-lempire/
+  - sha256 748b696ca1cad314a6fd8a1b79da1901e1e2a1f9029ace66c2fe73cd9ef5e196
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/articles/institutions-les-departements-reunis-et-les-gouverneurs-generaux-sous-le-consulat-et-lempire/` in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`
+- `sources/pages/7525b413170b.md` ← `downloads/pages/7525b413170b.md`
+  - "Napoléon et la paix en 1813, à propos du dernier volume d'Albert Sorel - Persée" — https://www.persee.fr/doc/rhmc_0996-2743_1906_num_8_3_4505
+  - sha256 7525b413170b8b9839c87ca7d8db71003e15356ec1e18fb0d6757f451e8a762f
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited as `https://www.persee.fr/doc/rhmc_0996-2743_1906_num_8_3_4505` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+- `sources/pages/7e5166c3be17.md` ← `downloads/pages/7e5166c3be17.md`
+  - "Read online “Iron Kingdom : The Rise and Downfall of Prussia, 1600-1947” |FREE BOOK| – Read Online Books" — https://read-online-books.com/book/read-online-iron-kingdom-the-rise-and-downfall-of-prussia-1600-1947-free/page-62
+  - sha256 7e5166c3be17ae01a7e8c65b321f4ec8d72198b19d2bcd7565ab4186bea9c6b5
+  - cited as `https://read-online-books.com/book/read-online-iron-kingdom-the-rise-and-downfall-of-prussia-1600-1947-free/page-62` in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+- `sources/pages/83caafca03de.md` ← `downloads/pages/83caafca03de.md`
+  - "Full text of "The Peace Tactics of Napoleon 1806-1808"" — https://archive.org/stream/peacetacticsofna0000hbut/peacetacticsofna0000hbut_djvu.txt
+  - sha256 83caafca03de052bad36ecb0bce9c5ad66c39bc2dd2f1a63ef3f5efc707941f2
+  - cited by [t_75e9a5] "Butterfield转引Lauderdale 1806-09-26私信承认有意使破裂表现为俄国议题以加强英俄结合。公开破裂理由不能直接作全部原因。" (fact) — "I have given the negotiations as much as possible the appearance of going off on Russian objects"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited as `https://archive.org/stream/peacetacticsofna0000hbut/peacetacticsofna0000hbut_djvu.txt` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/peace_evidence.md`
+  - cited as `https://archive.org/stream/peacetacticsofna0000hbut/peacetacticsofna0000hbut_djvu.txt` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/peace_evidence.md`
+- `sources/pages/85d915a3148f.md` ← `downloads/pages/85d915a3148f.md`
+  - "NEGOCIATION WITH FRANCE. (Hansard, 2 January 1807)" — https://api.parliament.uk/historic-hansard/lords/1807/jan/02/negociation-with-france
+  - sha256 85d915a3148fb773ac750222b0c6e32970828a67a63c3163fe03183a8e0eaa54
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited as `https://api.parliament.uk/historic-hansard/lords/1807/jan/02/negociation-with-france` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/peace_evidence.md`
+  - cited as `https://api.parliament.uk/historic-hansard/lords/1807/jan/02/negociation-with-france` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/peace_evidence.md`
+- `sources/pages/8780b368d565.md` ← `downloads/pages/8780b368d565.md`
+  - "Grands traités politiques" — https://mjp.univ-perp.fr/traites/1815paris.htm
+  - sha256 8780b368d565a3be3090f551e512ad7eafe7c422f8b585a210a249c809f87f42
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited as `https://mjp.univ-perp.fr/traites/1815paris.htm` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`
+  - cited as `https://mjp.univ-perp.fr/traites/1815paris.htm` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`
+- `sources/pages/92b28bd48ca8.md` ← `downloads/pages/92b28bd48ca8.md`
+  - "Conföderations-Acte der rheinischen Bundes-Staaten vom 12. Juli 1806 – Wikisource" — https://de.wikisource.org/wiki/Conf%C3%B6derations-Acte_der_rheinischen_Bundes-Staaten_vom_12._Juli_1806
+  - sha256 92b28bd48ca84d8e13cee18023b1cb6b378310d9cea83b1141f2bdb0b9571a49
+  - cited as `https://de.wikisource.org/wiki/Conf%C3%B6derations-Acte_der_rheinischen_Bundes-Staaten_vom_12._Juli_1806` in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+- `sources/pages/a973c8fab9ef.md` ← `downloads/pages/a973c8fab9ef.md`
+  - "Forum 28 on The Importance of Paul Schroeder’s Scholarship to the Fields of International Relations and Diplomatic Hist…" — https://issforum.org/forums/28
+  - sha256 a973c8fab9ef7ed39f8238b788b5da96f2b1a80f3922dd9368ea7ca3434e3b98
+  - cited by [t_75e9a5] "Jervis转述Schroeder明确允许尊重他国利益的法国主导体系；据此纠正将其标签化为任何法国霸权结构不可能的项目假设。" (interpretation) — "the other great powers would have been willing to live with a system dominated by France had Napole…"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited as `https://issforum.org/forums/28` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+- `sources/pages/a9c217630acd.md` ← `downloads/pages/a9c217630acd.md`
+  - "H-Net Reviews" — https://www.h-net.org/reviews/showrev.php?id=24357
+  - sha256 a9c217630acd09c0854bab1d22b1ce3c42f2e447ec3cf3b4228e967fb530209c
+  - cited as `https://www.h-net.org/reviews/showrev.php?id=24357` in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+- `sources/pages/b9eaa7cabeae.md` ← `downloads/pages/b9eaa7cabeae.md`
+  - "L'entrevue d'Erfurt racontée par Talleyrand - Le Consulat et le Premier empire" — https://napoleon-histoire.com/1808-l-entrevue-d-erfurt-racontee-talleyrand/
+  - sha256 b9eaa7cabeaedf973cdec0d17c9c7fdd0f7b052aa1e5d689f2d255d32b820cee
+  - cited by [t_75e9a5] "回溯性塔列朗叙述的早期增补条款以奥地利引起法国忧虑为触发；最终文本收窄至开战。其自述不能独自证明谈判因果归属。" (inference) — "dans le cas où l’Au­triche donnerait des inquiétudes à la France"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited as `https://napoleon-histoire.com/1808-l-entrevue-d-erfurt-racontee-talleyrand/` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+- `sources/pages/bfa7029b08dc.md` ← `downloads/pages/bfa7029b08dc.md`
+  - "Franco-Russian Diplomacy, 1810-1812" — https://www.napoleon-series.org/research/government/diplomatic/c_rufrdip3.html
+  - sha256 bfa7029b08dc2fdd42808924dd533c6b77046d751c342f3ec3add79604845973
+  - cited as `https://www.napoleon-series.org/research/government/diplomatic/c_rufrdip3.html` in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+- `sources/pages/c3b21fffef66.md` ← `downloads/pages/c3b21fffef66.md`
+  - "Grands Traités de paix" — https://mjp.univ-perp.fr/traites/1815vienne2.htm
+  - sha256 c3b21fffef664f048157087d563f21cc380b3f60dd8fb1047e537d6b6a305231
+  - cited as `https://mjp.univ-perp.fr/traites/1815vienne2.htm` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`
+  - cited as `https://mjp.univ-perp.fr/traites/1815vienne2.htm` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`
+- `sources/pages/c541a4c902d7.md` ← `downloads/pages/c541a4c902d7.md`
+  - "CONSTITUTION DU ROYAUME DE WESTPHALIE (15. 11. 1807)" — http://www.dircost.unito.it/cs/pdf/18071115_germaniaRegnoVestfalia_fra.pdf
+  - sha256 c541a4c902d72040f045ba3ed5706813fd08547c03e8a3716ea40028bc6fac23
+  - cited as `http://www.dircost.unito.it/cs/pdf/18071115_germaniaRegnoVestfalia_fra.pdf` in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+- `sources/pages/cbcbbfdbb3b2.md` ← `downloads/pages/cbcbbfdbb3b2.md`
+  - "Page:Taine - Les Origines de la France contemporaine, t. 11, 1904.djvu/43 - Wikisource" — https://fr.wikisource.org/wiki/Page:Taine_-_Les_Origines_de_la_France_contemporaine,_t._11,_1904.djvu/43
+  - sha256 cbcbbfdbb3b20c8553fb7e4b34f602ca8c8cfe8c3b74d3a277fd9c897ec7ef86
+  - cited as `https://fr.wikisource.org/wiki/Page:Taine_-_Les_Origines_de_la_France_contemporaine,_t._11,_1904.djvu/43` in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`
+- `sources/pages/ce92415172f5.md` ← `downloads/pages/ce92415172f5.md`
+  - "Behaghel, Wilhelm: ¬Das badische bürgerliche Recht und der Code Napoléon - Digital Libraries Connected" — https://dlc.mpg.de/fulltext/mpirg_sisis_103987/33/
+  - sha256 ce92415172f56a8dff84bb0648762f8fc10aa8220a4d75e1a24de69cded080bd
+  - cited as `https://dlc.mpg.de/fulltext/mpirg_sisis_103987/33/` in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+- `sources/pages/cfca2389fab7.md` ← `downloads/pages/cfca2389fab7.md`
+  - "H-Net Reviews" — https://www.h-net.org/reviews/showrev.php?id=12179
+  - sha256 cfca2389fab7245965c01cfe207e9b92a95762a56c38abdc6216bc9e917a50bb
+  - cited as `https://www.h-net.org/reviews/showrev.php?id=12179` in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+- `sources/pages/e1e7391aae89.md` ← `downloads/pages/e1e7391aae89.md`
+  - "18120224-002:geheimtaktat01 - EPOCHE NAPOLEON" — https://www.epoche-napoleon.net/quellen/1812/02/24/geheimtaktat01.html
+  - sha256 e1e7391aae897d62dd3d2b60336b5699f9f154e1eb7ffcce4fc02735ad6bf82e
+  - cited as `https://www.epoche-napoleon.net/quellen/1812/02/24/geheimtaktat01.html` in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+- `sources/pages/e5074feabef0.md` ← `downloads/pages/e5074feabef0.md`
+  - "THE TREATY OF VIENNA, 14 OCTOBER, 1809 - napoleon.org" — https://www.napoleon.org/en/history-of-the-two-empires/articles/39720/
+  - sha256 e5074feabef046d260dc9b136bb4c2ebae1acdcb4b0b18389375bd8cd1b3757b
+  - cited as `https://www.napoleon.org/en/history-of-the-two-empires/articles/39720/` in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`
+  - cited as `https://www.napoleon.org/en/history-of-the-two-empires/articles/39720/` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`
+- `sources/pages/e6fecc9325ac.md` ← `downloads/pages/e6fecc9325ac.md`
+  - "Convention franco-russe d'Erfurt, 12 octobre 1808 - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/articles/convention-franco-russe-derfurt-12-octobre-1808/
+  - sha256 e6fecc9325acadf7a9b3b3cc62998b82f2228c5cc27e58ab5d17dda4323c3ef9
+  - cited by [t_75e9a5] "1808-10-12埃尔福特第10条：如奥地利对法开战，俄国须对奥宣战并与法国共同作战；不能写成担保全删。" (fact) — "Dans le cas où l'Autriche se mettrait en guerre contre la France, l'Empereur de Russie s'engage à s…"
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/articles/convention-franco-russe-derfurt-12-octobre-1808/` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/c13_settlement_design.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/peace_evidence.md`
+  - cited as `https://www.napoleon.org/histoire-des-2-empires/articles/convention-franco-russe-derfurt-12-octobre-1808/` in `nodes/r_b55f2c1cf5/cards/t_75e9a5/peace_evidence.md`
+- `sources/pages/e7645400387a.md` ← `downloads/pages/e7645400387a.md`
+  - "Badisches Landrecht 1810 (Code Napoleon 1804)" — https://www.koeblergerhard.de/Fontes/BadischesLandrecht1810.htm
+  - sha256 e7645400387a248152a9d2b6ba1d383a1bdf0837464700ade00395217f192bb2
+  - cited as `https://www.koeblergerhard.de/Fontes/BadischesLandrecht1810.htm` in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+  - cited in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+- `sources/pages/f087a936c6fb.md` ← `downloads/pages/f087a936c6fb.md`
+  - "Réunion des états de Rome à l'Empire français : extrait du Moniteur du 18 février 1810" — https://archives68.alsace.eu/ark:/46858/flcz8gr4m2bp
+  - sha256 f087a936c6fb2c437d2b986b8578880fe6316b4ded5ad088f3365fd352c086b4
+  - cited as `https://archives68.alsace.eu/ark:/46858/flcz8gr4m2bp` in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`
+- `sources/t_7da32d/c6_italy_germany.md` ← `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`
+  - "[t_7da32d] nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md"
+  - sha256 5a6564bdd527eac6a4b298c205932f9e3b806271da95d10b4eed57d8a2d609e2
+  - cited by [t_7da32d] "罗马王头衔不能推出统一意大利；1805/1806法律证明条件性分冠与继承安排。流放期second fils句已直接核扫描卷XXX印页549，而非548；同页熔炉比喻属于统一者自辩。" (interpretation)
+- `sources/t_7da32d/prussia_austria_notes.md` ← `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`
+  - "[t_7da32d] nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md"
+  - sha256 1ef0737fd0082ee514562814a968e16c5d2a96fa79342f9a2221661babc57091
+  - cited in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`
+  - cited by [t_7da32d] "法奥1812军团不可拆分，法普仅尽可能集中；加利西亚换伊利里亚为奥皇认为合适时的条件选项。法国胜利不支持普鲁士必然超奥，进一步瓜分只是未充分核实的条件风险。" (inference)
+- `sources/t_7da32d/rhine_notes.md` ← `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`
+  - "[t_7da32d] nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md"
+  - sha256 77977f816fa1a7891c75e63a44701decda0aee88681607a1b952bb81f645d582
+  - cited by [t_7da32d] "邦联初创德意志成员63000为条文战时责任；威斯特伐利亚改革与驻军供养同在制度中，巴登实行有地方适配。Planert/Aaslestad只经完整书评转引，不声称亲读专著。" (fact)
+
+## Cited, already in this folder
+
+- `c13_settlement_design.md`
+  - cited by [t_75e9a5] "持续自限与无限制控制欧洲有冲突；只留下塔列朗或签一项领土保证不足形成执行约束。" (inference)
+
+## Consulted but not cited (left where they are)
+
+- `downloads/c6_1805_italian_statute.pdf` — "c6_1805_italian_statute.pdf"
+- `downloads/c6_correspondance30.pdf` — "c6_correspondance30.pdf"
+- `downloads/c6_correspondance30_ocr.txt` — "c6_correspondance30_ocr.txt"
+- `downloads/pages/0041bf50b077.md` — "Talleyrand (RDDM) - Wikisource" — https://fr.wikisource.org/wiki/Talleyrand_(RDDM)
+- `downloads/pages/0425dd27bde8.md` — "Gallica | Vérification de sécurité" — https://gallica.bnf.fr/ark:/12148/bpt6k63097553.texteBrut
+- `downloads/pages/1c6e151ee810.md` — "Chapitre 22. La question constitutionnelle et unitaire entre parti napolitain et parti français durant le règne de Murat" — https://books.openedition.org/septentrion/26724
+- `downloads/pages/21dbf807b4d4.md` — "Gallica | Vérification de sécurité" — https://gallica.bnf.fr/ark:/12148/bpt6k63097553.texteBrut
+- `downloads/pages/4c4e18c1999c.md` — "Le Mémorial de Sainte-Hélène d'Emmanuel de Las Cases - napoleon.org" — https://www.napoleon.org/histoire-des-2-empires/dossiers-thematiques/le-memorial-de-sainte-helene-demmanuel-de-las-cases/
+- `downloads/pages/4e0524482f50.md` — "Napoleon's Foreign Policy: A Criminal Enterprise" — https://doi.org/10.2307/1986040
+- `downloads/pages/4f6861c63c7b.md` — "Napoléon, père des nations d'Europe ? (11 novembre 1816) - Clio Texte" — https://clio-texte.clionautes.org/napoleon-pere-des-nations-deurope-11-novembre-1816.html
+- `downloads/pages/aa1f6ada988e.md` — https://books.openedition.org/septentrion/26724
+- `downloads/pages/c2f4cb155b04.md` — "Systems, Stability, and Statecraft: Essays on the International History of Modern Europe | Springer Nature Link" — https://link.springer.com/content/pdf/10.1007/978-1-137-06138-6.pdf
+- `downloads/pages/d95f216d7fd1.md` — "Full text of "talleyrand lettres a napoleon"" — https://archive.org/stream/talleyrandlettre0000unse/talleyrandlettre0000unse_djvu.txt
+- `downloads/pages/f9cd3d2a363a.md` — "Statut constitutionnel du 16 février 1806 - Wikisource" — https://fr.wikisource.org/wiki/Statut_constitutionnel_du_16_f%C3%A9vrier_1806
+
+## Unresolved locators
+
+- `https://archive.org/stream/napolonetlangl00coqu/napolonetlangl00coqu_djvu.txt` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_75e9a5/peace_evidence.md`)
+- `downloads/pages/523d0f5541c4.md; downloads/pages/f9cd3d2a363a.md` — no such file in this project (by [t_7da32d] "1805意大利宪制第3–4条将分冠置于那不勒斯、爱奥尼亚群岛、马耳他外国军撤离条件下；1806欧仁继承仅在缺乏拿破仑合法亲生男性后裔时启动。" (fact))
+- `downloads/pages/523d0f5541c4.md；意大利文现代重排PDF《Statuto` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`)
+- `downloads/c6_1805_italian_statute.pdf。后者第4页出现“25` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`)
+- `https://fr.wikisource.org/wiki/Statut_constitutionnel_du_16_février_1806` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`)
+- `downloads/pages/f9cd3d2a363a.md，正文已核读。` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`)
+- `downloads/pages/649e54bf4408.md。此处指法律限制，不意味着拿破仑不能以后修法。` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`)
+- `downloads/pages/0b66242e946b.md（字符编码有损）。` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`)
+- `downloads/pages/f087a936c6fb.md。不得把馆藏题名冒充全文核验。` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`)
+- `downloads/pages/6864746209f3.md，第542–548行，已阅读全文段。未对校通信原版编号。` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`)
+- `downloads/pages/cbcbbfdbb3b2.md。后续已关闭转引层级：直接下载Robarts藏旧版《Correspondance》卷XXX扫描本（Internet` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`)
+- `downloads/pages/748b696ca1ca.md：` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`)
+- `downloads/pages/567748874d93.md，已读全文；该页无纸本对照。` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`)
+- `https://www.penguin.de/content/edition/excerpts/1064451.pdf` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`)
+- `https://doi.org/10.3931/e-rara-146874` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`)
+- `https://www.epoche-napoleon.net/quellen/1806/07/12/rheinbundakte.html` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`)
+- `https://www.gutenberg.org/ebooks/13192` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`)
+- `https://pressto.amu.edu.pl/index.php/cph/article/view/52055` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`)
+- `https://doi.org/10.14746/cph.1976.28.1.21` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`)
+- `downloads/pages/*.md` — no such file in this project (in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`)
+- `http://resolver.staatsbibliothek-berlin.de/SBB00014AA800000000` — no saved copy under downloads/ (in `nodes/r_b55f2c1cf5/cards/t_75e9a5/treaties_evidence.md`)

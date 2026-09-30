@@ -1,0 +1,16 @@
+{
+  "headings": 416,
+  "tables": 53,
+  "renderedFootnotes": 199,
+  "wrappedTables": 53,
+  "missingInternalAnchors": [],
+  "duplicateIds": [],
+  "bodyWidth": 1440,
+  "viewport": 1440,
+  "readingWidth": 900,
+  "mobile": {
+    "bodyWidth": 430,
+    "viewport": 430,
+    "wideTables": 15
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "rows": 156,
+  "rows_each": {
+    "S1": 52,
+    "S2": 52,
+    "S3": 52
+  },
+  "numeric_cash_and_effectives": "ALL_NA",
+  "status_counts": {
+    "BASELINE_CONTEXT_NOT_CAPACITY_TEST": 45,
+    "CONDITIONAL_AVOIDANCE_ONLY": 1,
+    "CONDITIONAL_NOT_CLOSED": 28,
+    "LOW_BRANCH_UNVERIFIED": 1,
+    "MAINTENANCE_UNVERIFIED": 16,
+    "POLICY_CONFLICT_REQUIRES_FORK": 21,
+    "PRE_WINDOW": 3,
+    "UNRESOLVED_AFTER_DIVERGENCE": 41
+  },
+  "date_differences_exclude_start": {
+    "1805-08-26_to_1805-10-07": 42,
+    "1805-08-26_to_1805-10-20": 55,
+    "1805-08-22_to_1805-10-07": 46,
+    "1805-08-22_to_1805-10-20": 59,
+    "1806-09-25_to_1806-10-14": 19,
+    "1807-06-14_to_1807-07-07": 23
+  },
+  "validation_scope": "Schema, complete grid, NA discipline, branch invalidation and calendar subtraction only; NOT historical feasibility certification."
+}

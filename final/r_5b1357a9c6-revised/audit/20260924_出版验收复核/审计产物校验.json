@@ -1,0 +1,10 @@
+{
+  "html_ids": 239,
+  "duplicate_ids": [],
+  "broken_internal_links": [],
+  "missing_local_links": [],
+  "defect_quote_location_errors": [],
+  "changed_chapters": [],
+  "visual_render_check": "未进行逐屏视觉验收；已作HTML结构、锚点、本地链接及引句行号检验",
+  "audit_is_exhaustive_source_read": false
+}

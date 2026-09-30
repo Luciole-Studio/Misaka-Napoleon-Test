@@ -1,0 +1,11 @@
+{
+ "seq": 1,
+ "path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_9f10b6/SOURCES.md",
+ "ops": [
+  {
+   "append": {
+    "content": "\n## 提交后补订新增来源（仅用于补订章节）\n\n### LZ — Thierry Lentz，拿破仑元老院（网页）\n\nThierry Lentz, 《Le Sénat de Napoléon》相关网页文本，保存`downloads/pages/22fe9f35feb4.md`（由F5 t_7c3954取得并转来，本卡实读其正文与附录2）。\n\n- 实读句：元老年俸「Outre leurs 25 000 francs annuels」；1814年「une pension de 36 000 francs annuelle leur fut accordée et quatre-vingt quatre sénateurs furent intégrés à la nouvelle chambre des Pairs」。\n- 附录2：sénatoreries「d'abord au nombre de trente et un, puis, en plusieurs vagues (1806,1808, 1810) de trente-six」，每处「Moyennant 20 à 25 000 francs de revenus annuels」。\n- 网页正文误把14 nivôse an IX写作「(4 janvier 1803)」，共和年与公历不合；本卡只用其数目与金额，不冻结该日期。\n- 属二手网页转述，原元老院档案未阅；用作精英补偿的量级对照，不作预算实支。\n\n### SEN — senat.fr 官方史述\n\n保存`downloads/pages/4100be3f04c1.md`与`downloads/f5_senat_palais_luxembourg_empires.pdf`（doc `191158cc416f`，由F5取得）。本卡只读到1814年4月元老院废位程序段落，用于「未经法律征税」指控的存在性，未逐条核废位令全文。\n\n### BCN — Bergeron & Chaussinand-Nogaret 书评\n\nPersée书评页，保存`downloads/pages/83ad07a570c6.md`。评者概述《Les « masses de granit ». Cent mille notables du Premier Empire》(Paris, Touzot, 1979)：「Il semble y avoir un tassement vers le bas : 75% des revenus se situent entre 500 et 5000 francs.」\n\n- 这是**书评转述**，不是原书统计表；Bergeron原著正文本卡仍未取得（OpenEdition只得验证页）。\n- 仅用于说明显贵收入主体远低于赠产顶层，不用于任何税负分布计算。\n\n### 跨卡口径（非文献）\n\n- F3 `t_b1a536`：170–220m为其主线需求量级；1830高档（舰体143–156、A12 121–140）量级220–260m；1830条件主线A12已更新为84(W)/111(P)。\n- F2 `t_0e763d`：350m为1810年军两部基准的中心预算，300–400m为目标预算敏感性，不是40–55万人的成本估计。\n"
+   }
+  }
+ ]
+}

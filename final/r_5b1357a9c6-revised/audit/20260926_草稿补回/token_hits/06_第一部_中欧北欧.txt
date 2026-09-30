@@ -1,0 +1,118 @@
+L1 [30c] tokens=0 hit=0 miss=0 :: ## 第十七章　奥地利：宫廷、财政破产、多民族结构与东南转向
+L3 [16c] tokens=0 hit=0 miss=0 :: ### 一、被证伪的"财政锁死"
+L5 [415c] tokens=16 hit=13 miss=3 :: 【锚】1809年申布伦秘密条款II："ne s'élève pas au-dessus de 150 000 hommes pendant la durée de la guerr
+   HIT : 150@01:160,01:303,02a:139,02a:217 | 000@00:27,00:135,01:79,01:81 | 1991@03:168,03:414,07:266,10:490 | 31.1@01:205,03:165 | 86.3@03:165 | 66.8@03:165 | 25.0@03:166 | 76.1@03:159,03:166,10:248 | 52.2@03:163,03:166 | 29.8@03:172 | 24.5@03:172,10:220 | 250@01:97,01:144,02a:213,02a:335 | Axtmann@03:168,03:414
+   MISS: 250m→47m florins | Messman | Rothenberg
+L7 [182c] tokens=4 hit=0 miss=4 :: 【锚】1809年9月4日的真实照会要求波希米亚三圈割萨克森："cède à la Saxe les cercles de Leitmeritz, de Saatz et d'Eln
+   MISS: cède à la Saxe les cercles de Leitmeritz | Leitmeritz | Saatz | Elnbogen
+L9 [152c] tokens=0 hit=0 miss=0 :: 【锚】1811年《普通民法典》（ABGB）可兼承认天赋人权、禁人身奴役与保留特别财政法规、分层土地权——不需法国占领才能法典化，也不是一次废除所有领主权。1812年法奥盟约第六条担
+L11 [17c] tokens=0 hit=0 miss=0 :: ### 二、跨一次继承的不平等伙伴
+L13 [232c] tokens=0 hit=0 miss=0 :: 【推·中高】主线：保王朝核心、有限援军、商业海口与明确边界，可使奥国成为跨一次继承的不平等合作伙伴；全哈布斯堡的A层并省不是联合满足英国中立、长期财政与一次继承的合理主线。但"留旧
+L15 [190c] tokens=2 hit=1 miss=1 :: 【锚】1813年摄政决议修正1804年禁女性摄政条款："l'Impératrice mère réunit de droit à la garde de son fils mine
+   HIT : Empire@01:281,01:303,02b:628,03:418
+   MISS: Impératrice
+L17 [220c] tokens=4 hit=3 miss=1 :: **红队修正**：A卡对奥地利的"不平等"来自史实的1805与1809失败。在没有普雷斯堡的世界里（路径B），法国对奥地利的"三项保证"是法国给奥地利的担保，不是约束奥地利的条约；
+   HIT : 100@01:69,01:79,01:81,01:125 | 121@02a:343,02b:247,02b:464,02b:636 | 146@00:133,01:285,02b:637,05:204
+   MISS: 28.511
+L19 [3c] tokens=0 hit=0 miss=0 :: ---
+L21 [30c] tokens=0 hit=0 miss=0 :: ## 第十八章　普鲁士：残存国家、改革派与取消普鲁士的可行性
+L23 [15c] tokens=0 hit=0 miss=0 :: ### 一、条约口径的三处纠正
+L25 [519c] tokens=20 hit=11 miss=9 :: 【锚】1808年9月8日巴黎条约：分立条款的42,000限军**有十年期限**（1809年1月1日起，期满"rentrer dans le droit commun"），不得延至1
+   HIT : 42000@03:97,03:208,04:453 | 3300@01:195,03:242,05:130,05:358 | 2800@03:280,06:193,06:428 | 3900@02a:165 | 10000@01:81,05:186,10:266,10:268 | 16.000@01:135 | 12000@02a:221,05:307,06:163,06:325 | 14000@02b:644,03:422,06:25,06:299 | 4000@01:181,01:183,02b:41,02b:69 | 2000@00:27,01:97,01:144,02a:221 | König@03:252,03:420,03:424
+   MISS: 10.000 | 20.000 | rentrer dans le droit commun | Total des trois garnisons 10.000 hommes. | Total | Division | Majestät | Preußen | Kontingent
+L27 [24c] tokens=0 hit=0 miss=0 :: ### 二、取消普鲁士：对俄有价，价格随时间上升
+L29 [593c] tokens=10 hit=4 miss=6 :: 【锚】Vandal刊述1807年11月12日给科兰古的训令：以俄取多瑙两公国交换法国处置西里西亚；1808年2月17日报告："La demande de Berlin effaro
+   HIT : Vandal@03:396,03:402,06:35 | Berlin@10:504 | Prusse@00:131,00:137 | Napoleon@00:127,00:129,01:279,01:283
+   MISS: 30.000 | 40.000 | La demande de Berlin effaroucherait peut | Ceci est réellement une affaire d'honneu | Truppenkorps | Verfügung
+L31 [222c] tokens=8 hit=7 miss=1 :: **判定**：取消普鲁士不是不可能，而是在1807夏–1808年2月有可谈价格，1811年后几近等同选择对俄战争；先决条件是俄方缓冲得到满足且不同时推进大复波兰。取消王朝、将其领土
+   HIT : 1.5@01:53,01:97,02a:293,02a:296 | 2.5@01:57,01:97,01:117,01:134 | 4.5@02a:96,02b:585,03:172,05:513 | 7.5@01:132,01:162,02a:107,02a:185 | 600@01:117,01:125,01:152,01:195 | 900@01:79,01:164,01:181,01:183 | Marion@01:301,01:309,03:430,03:432
+   MISS: 5400
+L33 [785c] tokens=21 hit=7 miss=14 :: 【锚】接收国账：威斯特法利亚"Servicing the huge debt inherited from the former rulers of this region and
+   HIT : 101@02b:173,02b:208,02b:298,02b:644 | 1.4@01:195,02a:95,02a:97,02a:287 | 25000@02b:468,03:218,03:278,06:15 | 12500@03:131,03:212,03:278,06:221 | Königreich@03:252,03:420,03:424 | Westphalen@03:420 | Berding@03:420
+   MISS: 450800 | （Grab p.101）——1812年债务估1.4–2亿法郎，须养本国25,00 | （Berding手稿）。行政延续与社会改革结构性互斥：留用容克与旧官降低接管成本 | Servicing | Jerome's | Westphalia's | Abtretung | Dotationsdomänen | Einnahmequellen | Landes | Civilliste | Casse | Staatsschatze | Rußland
+L35 [20c] tokens=0 hit=0 miss=0 :: ### 三、改革能力与1813年动员分离
+L37 [675c] tokens=20 hit=14 miss=6 :: 【锚】哈登贝格1807年纲领中的45,000步／25,000骑／80,000后备是建议非实有；柏林国民军："volunteers made up only a small part
+   HIT : 45000@02b:35,02b:37,02b:43,03:218 | 25000@02b:468,03:218,03:278,06:15 | 80000@01:79,03:218,06:453,10:266 | 4000@01:181,01:183,02b:41,02b:69 | 576@02b:91,02b:294,02b:448,03:220 | 800@00:135,01:79,01:81,01:83 | 127374@03:220 | 40570@03:220,05:40 | 2023@02b:276,02b:645,02b:657,02b:671 | 53.5@02a:246,10:222 | 180@00:3,00:11,00:15,00:21 | 11.2@02b:588 | 4.25@10:296 | Murau@03:418
+   MISS: 217.2 | 25.9 | Berliner | Landwehr | Prussian | Seehandlung
+L39 [20c] tokens=0 hit=0 miss=0 :: ### 四、S5终局（史实前提下的残普）
+L41 [261c] tokens=8 hit=6 miss=2 :: 残普（提尔西特疆界＋西里西亚完整，无1815年西扩）1848年约620–810万人口，常备5.6–9.7万、危机总动员12.4–21.8万、各战区野战合计8.0–15.2万（显式假
+   HIT : 620@00:131,01:65,03:228,03:306 | 810@00:7,00:123,01:9,01:45 | 5.6@02a:94,02a:119,02a:187,02a:189 | 9.7@02a:203,02b:237,03:228,10:296 | 21.8@02a:85 | 8.0@03:160,10:57,10:239
+   MISS: 12.4 | 15.2
+L43 [3c] tokens=0 hit=0 miss=0 :: ---
+L45 [31c] tokens=0 hit=0 miss=0 :: ## 第十九章　南德诸邦：巴伐利亚、符腾堡、巴登——忠诚的价格
+L47 [27c] tokens=0 hit=0 miss=0 :: ### 一、里德机制：忠诚变量是"谁担保我的吞并所得"
+L49 [486c] tokens=20 hit=4 miss=16 :: 【锚】里德条约（1813年10月8日）公开第4条："Seine Majestät der Kaiser von Österreich garantirt sowohl in Sei
+   HIT : 36000@06:53 | 150000@03:153,10:269 | Bayern@03:252,03:424 | Souveränetät@03:244
+   MISS: Seine | Majestät | Kaiser | Seinem | Namen | Seines | Alliirten | Seiner | Könige | Besitz | Staaten | Städte | Domainen | Festungen | Anfange | Feindseligkeiten
+L51 [180c] tokens=7 hit=5 miss=2 :: 【锚】1808年5月巴伐利亚宪法第一条把邦联成员资格写进宪法："§. 1. Das Königreich Bayern bildet einen Theil der rheinis
+   HIT : Königreich@03:252,03:420,03:424 | Bayern@03:252,03:424 | Theil@03:252 | Föderation@03:252 | Weigand@03:424
+   MISS: §. 1. Das Königreich Bayern bildet einen | Fundamentalstatut
+L53 [342c] tokens=16 hit=6 miss=10 :: 血税实绩：巴伐利亚1812年约33,000人参加俄国远征（HdBG／Grab，可能同源）；符腾堡"an dem Feldzug gegen Rußland 1812/13, aus
+   HIT : 33000@03:242,05:130 | 300@01:83,01:152,01:160,01:176 | 30000@02b:39,03:141,08:419,10:269 | 12000@02a:221,05:307,06:163,06:325 | 8000@00:135,01:79,01:81,01:183 | Friedrich@08:497
+   MISS: 15.800 | Feldzug | Rußland | Württembergern | Leipziger | Völkerschlacht | Oktober | Vertrag | Fulda | Alliierten
+L55 [444c] tokens=9 hit=3 miss=6 :: 【锚】Weis（1983）："Die Gesamt-Nettoeinnahme des bayerischen Staates durch die Säkularisation b
+   HIT : 1983@03:424 | 1.07@03:256 | 1.18@03:256
+   MISS: 23000000 | 20 Millionen fl. | Gesamt-Nettoeinnahme | Staates | Säkularisation | Millionen
+L57 [332c] tokens=10 hit=8 miss=2 :: 【锚】Kopsidis–Bromley（2016，转引Fehrenbach 1983／Berding 1973）："it was Napoleon himself who push
+   HIT : 2016@02a:356,02b:644,03:426,03:442 | 1983@03:424 | 1973@03:420 | Kopsidis@03:426,08:445,08:499,10:287 | Bromley@03:426,08:445,08:499,10:287 | Berding@03:420 | Napoleon@00:127,00:129,01:279,01:283 | Germany@08:509,10:504
+   MISS: Fehrenbach | Basis
+L59 [12c] tokens=0 hit=0 miss=0 :: ### 二、总判与四条件
+L61 [335c] tokens=0 hit=0 miss=0 :: 【推·中高】第三德意志是法国霸权体系内成本效益最高的支柱：自带行政、自征税、自供兵，零法国驻军成本。持久的四个合取条件：担保独占（奥地利不得成为替代担保人）、血税≤阈值（年动员≈1
+L63 [169c] tokens=0 hit=0 miss=0 :: 1815–48：南德立宪与关税自组织是内生行动线（1808宪法、1815年弗里德里希主动召集等级会议、1828年巴符关税同盟均非外力强加）；法国胜利只改变其形态。若法国关税墙不降（
+L65 [78c] tokens=0 hit=0 miss=0 :: **红队修正**：G1"担保独占／所得取自哈布斯堡"的条件在无普雷斯堡的路径B下只剩1803年教产部分；在S2本义下（普雷斯堡成立）直接适用。第五十章处理。
+L67 [3c] tokens=0 hit=0 miss=0 :: ---
+L69 [39c] tokens=0 hit=0 miss=0 :: ## 第二十章　北中德意志：萨克森、威斯特法利亚、贝格、达尔贝格、汉萨与汉诺威
+L71 [22c] tokens=0 hit=0 miss=0 :: ### 一、邦联宪法流产的主因是南德主权否决
+L73 [643c] tokens=16 hit=3 miss=13 :: 【锚】Karl Beck（1890，据Eberstein遗档；本轮只得开篇长段）："dass aber diese Bemühungen weniger an dem bösen 
+   HIT : Rheinbunds@03:420 | Bayern@03:252,03:424 | Napoleon@00:127,00:129,01:279,01:283
+   MISS: （Grab p.94）。法国的角色是 | Eberstein | Bemühungen | Willen | Napoleons | Gegenbestrebungen | Fürsten | Könige | Würtemberg | Rücksicht | Haupt-Kontingent | Heeren | Fundamentalstatut
+L75 [14c] tokens=0 hit=0 miss=0 :: ### 二、并合承受度的排序
+L77 [307c] tokens=5 hit=5 miss=0 :: 【锚】贝格是北德唯一主动请求并入法国的单位（为得市场准入），被拒；否决力量含法国左岸保护主义利益集团——1810年9月16日科隆商会致Ladoucette书（AN F12 549–
+   HIT : 549@03:428,04:261,04:469,06:447 | 550@01:144,02a:159,03:141,03:428 | 1905@03:428 | Ladoucette@03:428 | Schmidt@03:428
+L79 [325c] tokens=9 hit=6 miss=3 :: 【锚】萨克森是大陆体系最大的工业赢家（Heckscher pp.302–306："Of all manufacturing countries on the Continent t
+   HIT : 302@01:301,02a:215,02b:592,03:121 | 306@01:301,02b:173,06:275,06:429 | Heckscher@02a:349,02a:362,03:428,04:461 | Continent@02a:349,02a:362,03:428,04:461 | Continental@02a:349,02a:362,03:428,04:461 | System@02a:349,02a:362,03:428,04:453
+   MISS: 65.5 | Saxony | Bacher
+L81 [367c] tokens=15 hit=11 miss=4 :: 威斯特法利亚破产是结构性的（赠地半数领地＋养法军12,500＋债1.4–2亿；六年征兵七万＋志愿三万／二百万人口为藩属人均之冠；入俄2.2万生还约1,500）。汉堡1813："Ha
+   HIT : 12500@03:131,03:212,03:278,06:221 | 1.4@01:195,02a:95,02a:97,02a:287 | 2.2@01:69,01:139,02a:93,02a:211 | 1500@02b:665,03:121,03:125,03:153 | 7489343@03:298 | 321@01:301,01:309,03:430,05:42 | 38.791@01:131 | 1.3@02a:94,02a:215,02b:464,02b:581 | Hamburg@08:501 | Franzosen@03:430 | Marion@01:301,01:309,03:430,03:432
+   MISS: Zwangskontribution | Millionen | Françs | Bancomark
+L83 [299c] tokens=4 hit=0 miss=4 :: 【锚】1809年多恩贝格起义的旗帜是旧帝国黑双头鹰（"Sieg oder Tod im Kampf für das Vaterland"），目标是复辟选侯旧制而非民族目标；威斯特法
+   MISS: Sieg oder Tod im Kampf für das Vaterland | Kampf | Vaterland | Flathe
+L85 [228c] tokens=0 hit=0 miss=0 :: **排序**：法兰克福≈奥尔登堡≈梅克伦堡（政治可并、净值≈零或负、奥尔登堡有俄国外部成本实测）＜汉诺威（可并但兵源泄英）＜贝格（唯一并入优于藩属的单位，但被法国保护主义否决）＜汉
+L87 [3c] tokens=0 hit=0 miss=0 :: ---
+L89 [30c] tokens=0 hit=0 miss=0 :: ## 第二十一章　荷兰与瑞士：金融、殖民地、征兵与调停制样板
+L91 [17c] tokens=0 hit=0 miss=0 :: ### 一、荷兰：可兼并，不可消化
+L93 [683c] tokens=4 hit=2 miss=2 :: 【锚】Marion（IV，p.325，本轮亲核）："la dette considérable, 78 millions, fut répudiée pour les deux t
+   HIT : 325@02a:248,03:432,04:489,05:66 | Marion@01:301,01:309,03:430,03:432
+   MISS: Trésor | Hollande
+L95 [477c] tokens=8 hit=7 miss=1 :: 【锚】Joor（Soldiers, Citizens, Civilians，2009，本轮全文）："the research identified over 580 collect
+   HIT : 2009@02b:237,02b:620,02b:667,03:400 | 580@03:242,03:310,05:325,05:333 | 15000@02b:665,03:153,03:312,05:279 | 3.3@01:150,01:164,01:181,01:205 | Soldiers@03:406,03:434 | Citizens@03:434 | Civilians@03:434
+   MISS: Emperor
+L97 [17c] tokens=0 hit=0 miss=0 :: ### 二、瑞士：不必并，也不能并
+L99 [428c] tokens=15 hit=6 miss=9 :: 【锚】1803年9月27日法瑞军事协约："La République Française entretiendra a son Service seize mille hommes
+   HIT : 4000@01:181,01:183,02b:41,02b:69 | 1000@01:79,01:81,01:125,01:144 | 15203@03:320 | 490507@03:320 | 200@00:27,00:127,00:129,00:131 | Service@02b:671
+   MISS: 15.203 | 2292 | 50.9 | Sur 15.203 hommes, le contingent de Bern | République | Française | Troupes | Suisses | Berne
+L101 [272c] tokens=8 hit=5 miss=3 :: 【锚】瓦莱兼并链条：1810年11月3日动机信（辛普隆公路花费一千五百万法郎不能为小国牺牲）——"mon intention est de réunir le Valais à l
+   HIT : 7000@02b:69,02b:183,02b:665,03:85 | 10000@01:81,05:186,10:266,10:268 | 700@01:144,01:160,01:164,01:181 | 1300@03:141,05:66,08:419,10:269 | France@00:133,00:135,00:137,01:293
+   MISS: mon intention est de réunir le Valais à  | on ne tirerait point d'argent | Valais
+L103 [308c] tokens=4 hit=3 miss=1 :: **总判**：荷兰＝可兼并不可消化（镇压永远可行、净收益永远为负、1813实测三周蒸发）；瑞士＝不必并也不能并（兼并即同时销毁产出并激活山地起义链）。行省化A层在此两单位的边界：到
+   HIT : 340@02a:103,02b:294,02b:460,02b:468 | 200@00:27,00:127,00:129,00:131 | 510@02b:139
+   MISS: Sonderbund
+L105 [3c] tokens=0 hit=0 miss=0 :: ---
+L107 [29c] tokens=0 hit=0 miss=0 :: ## 第二十二章　丹麦-挪威与瑞典：波罗的海门户与挪威价码
+L109 [22c] tokens=0 hit=0 miss=0 :: ### 一、封锁的可执行上限是漏斗，不是闸门
+L111 [209c] tokens=5 hit=4 miss=1 :: 【锚】戴维："In 1805, 11,537 merchant ships passed through the Sound, over half going to Britain
+   HIT : 11537@03:330 | 400@01:160,01:181,01:183,02a:87 | 500@01:130,01:132,01:134,01:136 | Britain@02a:347,02a:356,02b:617,02b:663
+   MISS: Sound
+L113 [389c] tokens=11 hit=4 miss=7 :: 【锚】1811年5月23日索马雷兹向海军部报告瑞军总司令塔瓦斯特在胜利号上的密谈：瑞典承诺不行任何敌对行动，"the appearance of any hostile measu
+   HIT : 225@02b:91,02b:278,02b:588,06:211 | French@01:303,02a:339,02a:354,02b:663 | Barton@03:438 | Britain@02a:347,02a:356,02b:617,02b:663
+   MISS: 7000000 | 是国家授权的双面政策。巴顿（Barton）： | ；美旗船入俄峰值1811年约225艘。falsifier | Demonstration | Vigilance | Spies | Swedish
+L115 [20c] tokens=0 hit=0 miss=0 :: ### 二、S3的第一受害者是法国的盟友
+L117 [385c] tokens=6 hit=3 miss=3 :: 【锚】丹麦财政寿命表：1807年参战→1812年券量1.27亿（五倍）→1813年1月5日敕令六比一重组（Rigsbank、4,600万上限、6%不动产银税）——"kurantda
+   HIT : 1.27@10:394 | Glenthøj@03:438 | Ottosen@03:438
+   MISS: 4600 | kurantdalerens kurs var faldet til kun 6 | Rigsbank
+L119 [631c] tokens=9 hit=6 miss=3 :: 【锚】瑞典是可购买的，但价码在丹麦手里：1811年2月卡尔·约翰向拿破仑秘密求购——"Karl Johan entered into secret negotiations wit
+   HIT : Johan@03:434,07:276,08:467,08:489 | Napoleon@00:127,00:129,01:279,01:283 | Norway@03:438 | Barton@03:438 | Island@05:299 | Russia@01:279,03:398,03:404,03:442
+   MISS: （Barton）；1812年3月拿破仑改售芬兰只帮其抬价。法国买瑞典必卖丹麦的结 | Grønland | Færøerne
+L121 [197c] tokens=4 hit=2 miss=2 :: **总判**：北欧是法国政策的镜子；最优是"少要求"（名义封锁＋许可证常态＋不惩瑞典→丹麦可维系）；S5挪威归属主线＝留丹麦联合王国联邦化（中），备选法版基尔／独立缓冲／斯堪的纳维
+   HIT : Heckscher@02a:349,02a:362,03:428,04:461 | Papers@00:135,05:447,05:539,06:335
+   MISS: ；芬兰1809年安排在一切情景稳定（高）。未决：挪威分年超额死亡率、Hecksc | Saumarez

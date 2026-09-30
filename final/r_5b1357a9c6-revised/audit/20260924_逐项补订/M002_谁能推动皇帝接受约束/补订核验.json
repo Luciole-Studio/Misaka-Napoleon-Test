@@ -1,0 +1,58 @@
+{
+  "changed_chapters": [
+    "00_导论.md",
+    "01_法国的能力与代价.md",
+    "09_另一条十九世纪.md"
+  ],
+  "other_chapters_unchanged": 9,
+  "original_report_files_unchanged": 23,
+  "old_note_definitions_preserved": 210,
+  "new_notes": [
+    "终7",
+    "终8",
+    "终9"
+  ],
+  "current_note_definitions": 213,
+  "old_note_calls_preserved": 387,
+  "current_note_calls": 394,
+  "added_calls": {
+    "法1": 1,
+    "法16": 1,
+    "法15": 1,
+    "终9": 2,
+    "终7": 1,
+    "终8": 1
+  },
+  "tables_preserved_unchanged": 62,
+  "missing_internal_anchors": [],
+  "duplicate_html_ids": [],
+  "exact_quote_checked": "Laîné原文短引与保存转录一致",
+  "arithmetic_checks": [
+    "185+386=571",
+    "39+4=43",
+    "10+11=21",
+    "15+48+41+51+3=158"
+  ],
+  "source_image_verified": [
+    "Coffin原刊第289页",
+    "Coffin原刊第290页"
+  ],
+  "book_visual_verified": false,
+  "limits": "书稿为静态保全、注释、表列、内部链接核验；原刊图像核读不等于书稿逐屏视觉验收。行为排序为作者判断，不是已验证概率；全书其余缺陷仍按工作账保留。",
+  "current_hashes": {
+    "chapters/02a_英国海权与和平_国家财政与社会.md": "80bc04d82c9dfbe9ec5fa020f8c0b04454460d51884c7a7ac6b4bbfe51c147e8",
+    "chapters/00_导论.md": "9187427dfa3a88f1e5d224f9e96dd523f90474065a29f2c31d2a25ce8da77d67",
+    "chapters/08_新秩序的经济与社会.md": "89d194c13a915aba8ab301f34f2f2dbb257a1f0ed6300b7a624ade7f7ed02e20",
+    "chapters/07_行省化的边界.md": "1ec94aac316f992bb05c65b8456e05d5aae2798f980883fa8af1b71ea950cdde",
+    "chapters/09_另一条十九世纪.md": "e1f44c50d83243224e51d300765834ee06e86adca5bc01faeeed49ee71763c13",
+    "chapters/06_东方与印度.md": "17df5b3c2c47bafb65d7fc145750e651c839095970edbc4d5108433ed04b7724",
+    "chapters/10_资料附编.md": "bc9e3c1def662f09d3566b62d76af351e6d9f604a3ac9171c95405c8db73ddc5",
+    "chapters/01_法国的能力与代价.md": "28f3685be4da62333f8ce2df6f40e9fb07913f96ce657b351a8005dc1742be72",
+    "chapters/03_大陆诸国.md": "0ce3d7d61ec2f1c85e3c5489e3899948be597749ab2b8eef6ff8b1562f820f35",
+    "chapters/02b_英国海权与和平_舰队海峡与帝国.md": "a83caf10c68cdb4ec9989f39879ebc5b717a1ea38f276c4905a076364e5ef1bf",
+    "chapters/04_西班牙与意大利.md": "1730d1a4443d97096b59a58eaa40cf15d171dbfb5a8de6d9dda9b4bf6ad5749c",
+    "chapters/05_大西洋与美洲.md": "083c053f3cde59fd0037097faee11d00917f83fcd5a9fc3a85d014908637f198",
+    "胜利之后的欧洲_完整修订稿.md": "99ce9b46c47ea87d7b33dbee65f82ad3449edfb67586591ebfc7a6d4609df1d9",
+    "胜利之后的欧洲_阅读版.html": "124c9e96d3b9fbd9b351290faeb51364eb80dc8074ff8ae54dae61bd8d129a30"
+  }
+}
