@@ -1,0 +1,36 @@
+
+
+- 正文：https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2 。`downloads/pages/e5b32951df65.md`。
+- **实际读的是英文书评，非Crouzet法文两卷原著。**书评法语转引Crouzet p.855：“… le Blocus Continental fut à l’origine de la crise de 1810 … [et] des difficultés monétaires … qui gênèrent sérieusement son effort de guerre”。该段可证明Crouzet的解释内容，不单独证明全部因果。
+- 用途：补足英语传统低估封锁成本的反论；书评还保留Crouzet对工业活力和英国抵抗基础的强调，不能稻草人化成“主张英国马上破产”。
+
+### L8　Larry Neal, “The Financial Crisis of 1825 and the Restructuring of the British Financial System”, *Federal Reserve Bank of St. Louis Review*, May/June 1998, pp.53—76
+
+- DOI及正文：https://doi.org/10.20955/r.80.53-76 。`downloads/pages/004521d1e27f.md`。
+- 使用“The Shock: From Wartime to Peacetime Finance in 1821”、1825危机及重组各节；网页无稳定单页边界，给节名而非伪造单页。
+- 支持：所得税废除改变息收关系；货币紧缩与债务管理冲突；1825商业危机及之后银行/票据市场改革；1830重新贴现功能。
+- 作者称1816所得税14.6m且约gross income20%，本卡不把这20%误写成债息/收入；与D1财年1815/16年界保留对账缺口。
+
+### L9　Eli F. Heckscher, *The Continental System: An Economic Interpretation*, edited by Harald Westergaard, English text mainly translated by C.S. Fearenside, Oxford: Clarendon Press, 1922
+
+- 实际读英译本相关节：国际支付与补贴pp.350—357、相关前后论证；未称读瑞典语原版。URL：https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/327/0142_Bk.pdf 。`downloads/pages/70cc6a857e5f.md`。
+- p.353补贴约14.722m依Porter/Tooke，OCR英镑符号常转成美元形状，**只作约数和机制支持，尚未以原影像冻结末位**；p.67亚眠前约14.3m又含贷款，不能相加。
+- pp.354—355：以大陆开英财政部汇票与经Rothschild买现有当地资产的机制区别；Herries关于1813约0.7m票据采购**经Heckscher转引**；未亲阅Herries报告。
+- Rothschild“经法国送金”为多年后对Buxton的口述（书中引1849第三版回忆录），**回溯性**，不是可独立核账的同期付款清单。
+- 作者判断支付障碍主要为组织问题；本卡明确限制其外推，不认为真实资产/海运/汇率约束全部取消。
+
+### L10　Leandro Prados de la Escosura and Carlos Santiago-Caballero, *The Napoleonic Wars: A Watershed in Spanish History?*, EHES Working Paper No.130, 2018
+
+- URL：https://www.econstor.eu/bitstream/10419/247060/1/ehes-wp130.pdf ；永久入口https://hdl.handle.net/10419/247060 。`downloads/pages/769e05da23c9.md`。
+- 定位Finance小节、图12前；英援西班牙1808—15 7.8m，**转引Sherwig pp.362—368**，包括money, weapons, supplies；与1854 Parliamentary Papers另计5.2m并列，不混为现金、更不相加。
+- 这里只用援助口径，不将西班牙贸易或人口全部模型搬入英国。
+
+## 四、已阅辅助材料与未亲得原书
+
+### 已阅但不应误充主序列
+
+- **Patrick K. O’Brien**, “The Political Economy of British Taxation, 1660–1815”, *Economic History Review* 41(1), 1988, pp.1—32；https://www.jstor.org/stable/2597330 ，所读公开稿http://slantchev.ucsd.edu/courses/ps143a/readings/O'Brien%20-%20Political%20Economy%20of%20British%20Taxation,%201660-1815.pdf ，`downloads/pages/bb07a813031b.md`。已读表1—3与表注。**表2的1810=五年均值、1815=三年均值；不是单年58.25/62.67**。其税款为Exchequer净流入且疆界困难、国民收入代理另有范围差。用于口径防错，不作D1分母。
+- **Max E. Rossiter**, *“Money is a good soldier, sir, and will on” — The Bank of England in the Peninsular War, 1807–1814*, MA thesis, McGill University, August 2014；https://mcgill.scholaris.ca/bitstreams/6dcd38c6-a91e-4474-a50b-c89b1d8116c9/download ，`downloads/pages/3ac3b1dd88bf.md`。读导论注20—22附近，1794普鲁士硬币0.6及0.12m、荷兰0.4m贷款分别转引Sherwig pp.45—58、41；未冻结入主序列，不声称亲读Sherwig。
+- **Luke Lanskey and Conor O’Loughnan**, *300 years of UK public finance data*, Office for Budget Responsibility；https://obr.uk/docs/dlm_uploads/300-Years-of-public-finances-Accessible-PDF.pdf ，`downloads/pages/7409d7aca2ed.md`。只作长期统计框架和来源交叉参照，未把图中粗读数字列入年度数据。
+- **Gregory Fremont-Barnes**, *The Royal Navy 1793–1815*, p.44舰队拨款表，二手网页`downloads/pages/7f93512d05f7.md`，https://epdf.tips/the-royal-navy-1793-1815.html 。数字由B3卡回传：1810 18.975120、1811 19.822、1812 19.305759、1813 20.096709；**本卡按同伴提供标识、未逐表图独立核原书**，只与H1差额并列。获准拨款不等于净实支，含运输/俘虏项目。具体舰人木坞与海军预算由B3负责。
+- **Kim Oosterlinck、Loredana Ureche-Rangau、Jacques-Marie Vaslin**的滑铁卢后英法利差工作稿，由F4回传EHES No.41（2013）文件`downloads/F4_Oosterlinck2013.pdf`、doc `1d550bd51998`。本卡未独立核相关页，**未将其>400→约100bp数值放入主论证或直接与1811新贷票息相减**。

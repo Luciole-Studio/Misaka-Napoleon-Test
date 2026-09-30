@@ -1,0 +1,42 @@
+Environ. Res. Lett. 14 (2019) 094019
+
+
+
+
+   Figure 4. Return times plots for the climate of the summer in 1816. The points (coloured circles for experiments with Tambora
+   eruption, green crosses for experiments without) represent return times for events (a) with lower temperatures, (b) higher
+   precipitation and (c) with a lower SLP than the observed values for Central Europe, shown by the horizontal red dotted line. The
+   shading represents the 5%–95% uncertainty calculated by a non-parametric bootstrap analysis. The thin lines show a Gaussian ﬁt to
+   the data. Return time with 5%–95% uncertainty for the 1816 event in each model experiment, is shown by the coloured horizontal line
+   at the bottom (see methods). SLP return times are calculated for the region: 45° to 55 °N, 5 °W to 20 °E. Temperature and
+   precipitation for the region: 40° to 55 °N, 5 °W to 20 °E, as before. All anomalies are calculated relative to the long term mean of the
+   piControl simulations.
+
+
+
+too large to reach a ﬁrm conclusion regarding changes                   of 7). Thus, a very rare event without forcing
+in likelihood (ﬁgure 4(e) and table 1). So, although the                becomes one that is common in the aftermath of the
+Mount Tambora eruption may not have increased the                       eruption. It is clear from ﬁgure 4 that these results
+probability of the observed large-scale pressure pat-                   are sensitive to both the model used and the adopted
+tern over Europe and the North Atlantic there is some                   forcing estimate, as shown by the considerable
+evidence that it has increased the occurrence of the                    spread in the results in the different MPI-ESM1.2
+most important feature for extreme European rainfall,                   ensembles, again reﬂecting the key role of forcing
+namely very low SLP over Central Europe in at least                     strength on the change in probability of a very cold
+one of the models analysed here. This is consistent                     summer. Even though the increase in the likelihood
+with an atmospheric reanalysis study (Brohan et al                      of the observed wet summer is less than for temper-
+2016) which found that including volcanic aerosols                      ature (ﬁgures 4(c) and (d)) the volcanic eruption still
+improves the consistency, at European instrumental                      increases the chances of the event by a factor of about
+sites, of both temperature and SLP.                                     1.5–3, an increase that is signiﬁcant at the 5th per-
+     To address the question of how much more likely                    centile in the combined MPI ensembles and in
+the eruption of Mount Tambora made the extreme                          HadCM3 (table 1). Return times show some depen-
+weather experienced during the summer of 1816 in                        dency on the statistical distribution chosen to ﬁt to
+Central Europe we calculate return times with and                       the data (see supplementary ﬁgure S11), however the
+without the volcanic forcing (see method section).                      overall results are not particular sensitive and the
+As ﬁgure 4 and table 1 show, the eruption increases                     choice of distribution does not affect the main
+the likelihood of a temperature anomaly less than                       conclusions.
+−1.7 °C occurring by about 100 times in HadCM3                              There is a notable difference in the results from the
+and approximately 30 times in MPI-ESM1.2 simula-                        two climate models used, with the risk ratios calcu-
+tions (with the best forcing - with the lowest estimate                 lated for the HadCM3 model being in general larger
+(5th percentile of lowest MPI forcing) being a factor                   than those for the MPI-ESM1.2 model. There are
+
+                                                         7

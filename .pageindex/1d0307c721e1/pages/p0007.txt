@@ -1,0 +1,44 @@
+                  Habsburg Monarchy, eighteenth century-1918                 259
+
+
+information on traders or transporters of the goods and their places of
+origin and destination.
+   The information on trade flows was usually recorded in weight/
+volume/quantity and in money values. Prices were given in Austrian
+Florins (Gulden) and Kreuzer in the CM standard (CM = Conventions-
+münze, 1 Gulden = 60 Kreuzer, valid between 1753 and 1857).
+Hassinger (1964) states that Viennese prices were used from 1776 on,
+but the method of establishing commodity prices has not been studied
+so far. Scattered evidence suggests that prices were determined by the
+Accountancy Office. It seems that the latter tried to mitigate local
+prices with international prices. This is certainly an area in which in-
+depth studies are badly needed.
+   Quantities were predominantly given in hundredweights (Zentner)
+and pounds (Pfund), but, depending on the product registered, a wide
+range of quantity measures was used such as the bushel (Metzen,
+Scheffel), piece (Stück), pair (Paar), dozen (Dutzend), box (Kiste), bolt
+(Ballen), cask (Fassl, Fass), or bucket (Eimer). Weight was given in gross
+value (so called sporco).
+   From at least 1788 on, the classification had to be made according
+to a detailed instruction manual drawn up by the Central Customs
+Administration in German. This nomenclature listed all goods and
+their corresponding prices. The number of categories of products used
+in the statistics differed from year to year. The trade accounts for the
+Bohemian-Austrian customs union for 1783 and 1784 listed 265 indi-
+vidual goods, summing them up into 41 subgroups and 21 main
+groups. The statistics for Galicia for 1787, in turn, registered 864 prod-
+ucts, although this large number is in part due to different attributes of
+some products. Trading partners were registered starting in 1820, but
+the data mainly reflect the borders crossed by commodities leaving and
+entering the territory and therefore do not always identify the real
+trade partners.
+
+
+7. Availability
+    A detailed record of Habsburg trade statistics before 1831 does not
+exist in print form. While Kaltenstadler (1967, 1968), Erceg (1970), and
+Panjek (2003) give a partial compilation of commodity data in their
+works, they were more interested in the aggregate data on trade
+volume. Hassinger (1964) provides data for the Habsburg dominions as
+a whole, but he focuses on the aggregate level and calculates trade
+structures broken down into raw materials, foodstuffs, and manufac-

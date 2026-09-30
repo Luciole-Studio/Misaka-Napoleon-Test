@@ -1,0 +1,35 @@
+# notes_castlereagh_vol7.md — Castlereagh, *Correspondence, Despatches and Other Papers*, 2nd series (Military and Miscellaneous), vol. VII (London: Shoberl, 1851)
+
+本地全文：`downloads/SA_Castlereagh_vol7.txt`（archive.org `memoirscorrespon07castuoft` 的 djvu.txt，1,077,370 bytes，sha256 3e6a25b8…；doc 3e6a25b879d4）。
+行号 = 本地 txt 行号；印刷页码取自文内页眉。OCR 有噪声，引文按所见字面抄录，明显 OCR 讹误以 [sic] 或方括号说明。
+
+## 0. 本卷第 257–455 页是一整份"西属美洲档案"（目录，行 596–790）
+标题：**STATE OF THE SPANISH COLONIES IN AMERICA, 1779—1809**，印 pp. 257–455。文件清单（印页）：
+- p.260 1779 致 Loughborough 书信摘录；p.269 Abercromby《On the Liberation of South America from the Dominion of Spain》
+- p.273–284 1799 Miranda 致 Dundas，附 Gual 1799-07-12 信、Gual 1799-05-02 呈文（经 Picton 转交）、加拉加斯 Audiencia 1797-05-10/08-12 文件摘录
+- p.284 1799-10-03 Dundas 提交内阁的西属殖民地备忘录（附部分阁员意见）；p.287 1801-09 传阅照会
+- **p.288 1803-11-26 Popham 致 Yorke〈Secret Paper on South America〉**
+- p.293 1806-07-11 William Jacob《On the Attack of Mexico from the Eastern side》
+- **p.302 1806-08-01 Don Bernardo Velasquez（巴拉圭 Intendant）致陆军大臣〈Private Annotations〉论 Beresford 初占布宜诺斯艾利斯**
+- **p.314 1807-05-01 Castlereagh〈Memorandum for the Cabinet, relative to South America〉**
+- p.324 Wright《Memoir of the Mosquito Territory》；p.332 奥尔良公爵《Memoir on Spanish America, and the Viceroyalty of Mexico in particular》；p.345 Dumouriez《On the Establishment of Naval Stations…》
+- p.371 1807-06-02 Vansittart 转 Miranda 1807-03-09 函；p.373 1807-06-04 Dumouriez 提议奥尔良公爵赴西属美洲建王国；p.376 1807-06-12 Dumouriez 论墨西哥改君主国
+- **p.385 Castlereagh〈Memorandum relative to Spanish America〉（无日期，附可派兵力估算）**
+- p.390–391 1807-06-26/30 Dumouriez 论撤出亚历山大与"拉普拉塔诸省独立宣言"
+- **p.396 1807-07-12 Velasquez 论 Whitelocke 第二次进攻布宜诺斯艾利斯**
+- p.403–426 1808-01 Miranda 致 Castlereagh（附 Hislop、Cochrane Johnstone 函）、1808-01-10 Miranda 自述（附 1791-01-28 致 Pitt 照会、1805-06-13 致 Pitt 函、1806 Ogden/Smith/Cochrane 往来）、**p.422〈Information respecting the Provinces of the River la Plata, statement of their military force, and instructions for an attack on Buenos Ayres〉**
+- p.426–441 1808-01-26 Gordon 论墨西哥（含韦拉克鲁斯—墨西哥城军事描述）；p.441 1808-05-16 Miranda 催促
+- p.442 1808-06-08 Melville 致 Castlereagh 论西属殖民地；p.448 1808-08-19 Miranda 论南美事务；**p.451〈Memorandum of the produce of the Mines of Spanish America in 1806〉**
+- p.452–455 1809-02-07 / 08-02 / 08-07 Miranda–Wellesley–Vansittart 往来
+
+【事实】本目录本身即证明：**1806–09 英国政府手中同时握有"征服"与"扶植独立"两套方案的完整文书流**，且其南美档案在 1851 年由编者作为独立单元刊出。
+
+## 1. 1807-05-01 Castlereagh 内阁备忘录（印 pp.314–324；txt 行 14802–15200）
+
+### 1.1 政策回顾（对"征服 vs 解放"falsifier 的直接证据）
+- 【事实·亲读】"it does not appear that any original purpose prevailed in the Councils of the late Government, to commence operations in South America"（印 p.315，行 14818–14821）→ 1806 年的行动**不是**一项既定征服国策，而是 Popham 自行发动后被追认。
+- 【事实·亲读】Windham 训令的口径："any intention of countenancing an immediate change in the constitution of the Settlement is disclaimed; the purposes of the expedition are confined to **a mere military occupation**, and the assurances to be given to the inhabitants limited to a declaration that his Majesty would, upon a peace, be disposed to attend to their interests, as far as possible."（印 p.315）
+- 【事实·亲读】时间链：1806-06-24 收到 Popham 已进军的通知；7-10 下令准备一支分遣队；**逾三月未发增援或训令**；同期对西印度群岛司令部就 Miranda 远征"remain in total ignorance of their intentions"，结果是"just enough of co-operation on our part to mix us in the policy and failure of the effort"（印 p.315）。
+- 【事实·亲读】转折点是消息而非战略："The popularity of this acquisition, and the disposition of the commercial interest to take advantage of it, appears first to have determined the Government to follow up this object."（印 p.316）→ **驱动英国 1806 年南美政策的是商业利益集团与舆论，不是内阁的帝国设计。**
+- 【事实·亲读】三支部队口径：Auchmuty 1806-10-18 带 2,900 人赴拉普拉塔；Craufurd 11 月初带约 4,000 人赴智利"without any precise object of attack in view"；对墨西哥的方案是 8,000 人自牙买加登陆韦拉克鲁斯 + 8,000 人自印度在对岸登陆（Wellesley 指挥）（印 p.316）。
+- 【事实·亲读】1807 年 5 月预计 Whitelocke 手上"nearly 10,000 men"，另 Beresford 被俘部队 1,100 人；Auchmuty 认为**有效占领该国需 15,000 人**（印 pp.318–319）。

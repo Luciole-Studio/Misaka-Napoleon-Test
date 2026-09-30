@@ -1,0 +1,49 @@
+---
+source_url: "https://ideas.repec.org/p/hes/wpaper/0041.html"
+final_url: "https://ideas.repec.org/p/hes/wpaper/0041.html"
+provider: "exa"
+text_sha256: "feede9b94526e719789b76fb69911b61f201d84b3b0f509fbb0f3d68db871fa0"
+title: "Waterloo: a Godsend for French Public Finances?"
+content_kind: "page_text"
+---
+
+Waterloo: a Godsend for French Public Finances?
+
+## Author
+
+Listed: 
+
+- Kim Oosterlinck
+
+ (Université Libre de Bruxelles)
+- Loredana Ureche-Rangau
+
+ (Université de Picardie Jules Verne)
+- Jacques-Marie Vaslin
+
+ (Université de Picardie Jules Verne)
+
+Registered:
+
+- Kim Oosterlinck 
+
+## Abstract
+
+Following Waterloo, managing French public finances represented a daunting task. Defeated France had lost a substantial part of its population and territory. The country was partially occupied and France was to pay huge amounts as reparations to the victors. Furthermore, France’s reputation had been tarnished by several defaults on its debt in the preceding decades. Despite all these elements, in the ten years between 1815 and 1825, not only did France manage to place a huge amount of debt on the market (resulting in a threefold increase) but it did so with a spread, compared to the British consol, falling from more than 400 basis points to a meagre 100 basis point. Based on an econometric analysis of the yields of the French rentes, we show that the military threat of the Allied coupled to a significant improvement in French institutions explain the dramatic decrease in yields.
+
+## Suggested Citation
+
+ Kim Oosterlinck & Loredana Ureche-Rangau & Jacques-Marie Vaslin, 2013. " Waterloo: a Godsend for French Public Finances?," Working Papers 0041, European Historical Economics Society (EHES). Handle: RePEc:hes:wpaper:0041
+
+## Other versions of this item:
+
+- Kim Oosterlinck & Loredana Ureche-Rangau & Jacques-Marie Vaslin, 2013. " Waterloo: a Godsend for French Public Finances?," Working Papers CEB 13-028, ULB -- Universite Libre de Bruxelles. 
+
+## References listed on IDEAS
+
+1. Fishlow, Albert, 1985. " Lessons from the past: capital markets during the 19th century and the interwar period," International Organization, Cambridge University Press, vol. 39(3), pages 383-439, July. 
+2. Kris James Mitchener & Marc D. Weidenmier, 2004. " Empire, Public Goods, and the Roosevelt Corollary," NBER Working Papers 10729, National Bureau of Economic Research, Inc. 
+3. Bruno S. Frey & Daniel Waldenstrom, 2007. " Using Financial Markets to Analyze History: The Case of the Second World War," CREMA Working Paper Series 2007-19, Center for Research in Economics, Management and the Arts (CREMA). 
+
+- Bruno S. Frey & Daniel Waldenstrï¿½m, 2007. " Using Financial Markets to Analyze History: The Case of the Second World War," IEW - Working Papers 335, Institute for Empirical Research in Economics - University of Zurich. 
+4. Carmen M. Reinhart & Kenneth S. Rogoff & Miguel A. Savastano, 2003. " Debt Intolerance," Brookings Papers on Economic Activity, Economic Studies Program, The Brookings Institution, vol. 34(1), pages 1-74. 

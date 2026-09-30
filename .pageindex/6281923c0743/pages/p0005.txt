@@ -1,0 +1,26 @@
+
+
+### 供红队抽查的12条短引文（保留语境限制）
+
+|编号|原句与定位|能够支持的最窄主张|
+|---|---|---|
+|Q1|“the positive effects are significant only in some specifications.” [1]刊p.3304/PDF19|作者承认规格依赖，不是全部回归显著|
+|Q2|“this would not mean that they were ‘welfare enhancing’” [1]p.3304注19|增长不等于福利改善；上下文为战争、短中期成本与苦难|
+|Q3|“there was no (statistical or economic) effect” [1]p.3296，1850结果段|特定基准1850不显著，不是所有可能结果均无效|
+|Q4|“perhaps because of ‘defensive modernization’” [1]p.3302|控制地区也有改革，并非纯无处理反事实|
+|Q5|“Neither Model 2 nor Model 4 is significant” [2]p.176|批评者自己的替代趋势估计也有不显著项|
+|Q6|“monotonicity requires that higher values of the instrument” [2]p.176，后接必然更高/更低处理|确实存在该单调性论证；不代表本文认可其表述|
+|Q7|“more as suggestive rather than conclusive evidence” [3]p.31|作者对长期排除限制持保留|
+|Q8|“tariff and non-tariff trade barriers were put in place” [3]p.30|战争结束不等于英法完全自由贸易|
+|Q9|“from 1896 onwards, the coefficient is longer distinguishable statistically from zero.” [3]p.35，原文漏no，依上下文理解|工业增加值IV后期不显著，不能用OLS覆盖|
+|Q10|“Treatment in this historical experiment contains the adoption and continuation of the Code Civil.” [5]印p.15/PDF17|Buggle处理含后续保留|
+|Q11|“these can be considered ‘’bad” controls” [4]Baseline Estimates、表3前|作者承认部分控制可能为处理后结果|
+|Q12|“Democratic principles within a monarchical government”及“How do we avoid complete dependency?” [10]L120–136|自主改革与避免依赖是同时代真实问题；不证明拿破仑赞同|
+
+## 十、未解决事项与停止界限
+
+【事实】没有把未取得终版、提取错列或缺SE强行补齐；未实施再估计、现代少簇/前趋势敏感性或弱工具稳健区间。Buggle终版、Lecce原页、核心作者稿与刊本的逐格差异，是数字精确性缺口；57项改革的原始日期/实施程度，是历史测量缺口；ACJR批评交锋完整性，是文献覆盖缺口。
+
+【裁量】若继续最有价值的工作，应先取得复制数据和历史日期附录，比较占领简约式与不同改革编码，按正确处理时点检验趋势与少簇推断；不要把一个事后规范的回归当唯一裁判。Juhász需要地区/部门成本与跨区位溢出资料，才能从技术采用走向福利。永久帝国则需要军事、财政、市场制度联合模型，这不是再多引用一篇准实验即可解决。
+
+【裁量｜高置信】在这些缺口下仍可停止并交付的稳健结论是：**制度遗产可以有益，但无法据现有因果文献保证永久法国霸权有益、稳定或在1848前自我融资。**

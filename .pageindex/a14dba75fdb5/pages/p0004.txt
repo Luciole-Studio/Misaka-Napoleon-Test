@@ -1,0 +1,71 @@
+Environ. Res. Lett. 12 (2017) 074026
+
+
+Table 1. Stations, altitude above sea level (asl), Swiss coordinates, and variables used (I ¼ solar irradiance, P ¼ pressure, RR ¼ rain
+fall). Asterisks denote historical series.
+
+Station                             Abb                  Altitude (m asl)                Swiss Coordinates                Variables
+
+Aadorf/Tänikon                      TAE                  539                             710515/259821                    I, P
+Aarau                              AAR                  380                             645737/249126                    T, P
+Aigle                               AIG                  381                             560401/130713                    I
+Altdorf                             ALT                  438                             690174/193558                    I, P
+Basel/Binnningen                    BAS                  316                             610911/265601                    I, P
+Bern/Zollikofen                     BER                  552                             601930/204410                    I, P
+Beznau                              BEZ                  325                             659808/267694                    I
+Buchs/Aarau                         BUS                  386                             648389/248365                    I, P, T
+Bullet/La Frétaz                    FRE                  1205                            534221/188081                    I
+Chasseral                           CHA                  1599                            570847/220158                    I, P
+Chur                                CHU                  556                             759466/193153                    I
+Delémont/Delsberg                  DEM                  439                             593269/244543                    I, T, wind
+Fahy                                FAH                  596                             562458/252676                    I, P
+Genéve-Cointrin                    GVE                  420                             498905/122632                    I, P, T, RR, wind
+Glarus                              GLA                  516                             723752/210568                    I, P
+Gösgen                              GOE                  380                             640417/245937                    I
+Güttingen                           GUT                  440                             738420/273960                    I, P
+Hohenpeissenberg                   HPB                  977                                                              P, wind
+Interlaken                          INT                  577                             633019/169093                    I, P
+La Chaux-de-Fonds                   CDF                  1018                            550919/214861                    I, P
+Langnau i.e.                        LAG                  745                             628005/198792                    I
+Leibstadt                           LEI                  341                             656379/272111                    I
+Luzern                              LUZ                  454                             665540/209848                    I
+Neuchâtel                           NEU                  485                             563087/205560                    I, P
+Nyon/Changins                       CGI                  455                             506880/139573                    I
+Payerne                             PAY                  490                             562127/184612                    I, P
+Pilatus                             PIL                  2106                            661910/203410                    I
+Pully                               PUY                  455                             540811/151514                    I, P
+Schaffhausen                        SHA                  438                             688698/282796                    I, P
+St Gallen                           STG                  775                             747865/254588                    I
+Vaduz                               VAD                  457                             757719/221697                    I, P
+Wynau                               WYN                  422                             626400/233850                    I, P
+Zürich/Kloten                       KLO                  426                             682710/259339                    I, P
+
+
+
+
+    As a reference we used gridded daily data for                       (i.e. sufﬁciently large pool of analogues). The period
+Switzerland (MeteoSwiss 2013a, 2013b, Frei 2013),                       was set to 1982–2009, for which not only temperature
+encompassing daily minimum (Tmin) and maximum                           and precipitation, but also solar radiation data were
+(Tmax) temperature as well as precipitation on a 2 km                   available. The procedure consisted of three steps,
+grid from 1961 to present. For solar radiation, we                      which are described in the following.
+performed a weighted interpolation applying a k-
+nearest neighbour algorithm. We chose the nearest                       2.2.1. Deﬁnition of reference periods
+three stations from the Swiss meteorological network                    The procedure required expressing the weather data as
+(ﬁgure 1, table 1) according to Euclidian distance.                     anomalies relative to a reference climatology. We used
+                                                                        different reference climatologies for the historical and
+2.2. Weather reconstruction approach                                    present situations. For the former, we used 1800–1820
+The crop model requires daily ﬁelds of Tmin and Tmax,                   During this period, no changes occurred to the
+precipitation and solar radiation at a high spatial                     stations in Geneva and Hohenpeissenberg (Auchmann
+resolution. In order to reconstruct these ﬁelds 1816,                   et al 2012). Furthermore, we excluded the volcanically
+we used an analogue resampling approach of the 2 km                     perturbed years 1809–1811 and 1815–1817, as in
+gridded data. A schematic of the reconstruction is                      Auchmann et al (2012). Based on data availability (see
+given in ﬁgure S1 available at stacks.iop.org/ERL/12/                   above), we used 1982–2009 as a reference for the
+074026/mmedia. For each day, we sampled the daily                       present climate. Thus, the reference periods maximize
+ﬁelds from a present period according to their                          data availability and minimize inhomogeneity. The
+similarity with historical instrumental measurements,                   reference climate was then obtained from station and
+restricting the search to days of the same weather type                 gridded data by ﬁtting the ﬁrst two harmonics of the
+and of the same season. This procedure ensured                          annual cycle.
+physical consistency of the derived reconstruction,                         To obtain a distance metric, as well as for the
+although it required a sufﬁciently long training period                 weather type classiﬁcation, the variables (Tmin and
+
+                                                         3

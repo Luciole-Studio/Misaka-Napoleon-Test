@@ -1,0 +1,32 @@
+---
+source_url: "https://napoleon-histoire.com/correspondance-de-napoleon-ier-septembre-1809/"
+final_url: "https://napoleon-histoire.com/correspondance-de-napoleon-ier-septembre-1809/"
+provider: "exa"
+text_sha256: "56938e251c5b5a82e27843b3a9b477a8d454be4e9edc6f22ef01d80bc1bcd29d"
+title: "Correspondance de Napol\u00e9on Ier - Septembre 1809 - Histoire du Consulat et du Premier empire"
+content_kind: "page_text"
+---
+
+Correspondance de Napoléon Ier - Septembre 1809 - Histoire du Consulat et du Premier empire
+
+# Correspondance de Napoléon Ier – Septembre 1809
+
+ Robert 25 août 2019 
+
+Schönbrunn, 1er septembre 1809
+
+Au prince Cambacérès, archichancelier de l’Empire, à Paris
+
+Mon Cousin, je reçois votre lettre du 26 août. On a mal fait de faire voyager en poste les gardes nationales. On abuse de ce moyen, qui épuise les campagnes, fatigue les troupes et coûte un argent énorme. Faire marcher en poste des hommes sans armes qui ont besoin de temps pour s’organiser, c’est une véritable folie.
+
+Vous ne m’avez pas envoyé le nom des commandants de Paris; j’aurais désiré recevoir de vous des notes sur chacun d’eux, qui me les fissent connaître. Il me semble que tout cela a été mené avec trop de précipitation et de mouvement, et que, pour lever sur le tiers de la France les 30,000 gardes nationales que j’ai demandées, il ne fallait pas tant de tapage et d’effervescence. Je désirerais, dans les circonstances actuelles, recevoir de vous des dépêches plus détaillées.
+
+Il serait aussi convenable, d’appeler tous les grands dignitaires au conseil que vous tenez chaque jour; il me semble que c’est leur droit. Ils me sont comptables de leur opinion et de leurs observations dans cette circonstance importante.
+
+Schönbrunn, 2 septembre 1 809, quatre heures après midi.
+
+Au comte de Champagny, ministre des relations extérieures, à Altenburg
+
+Monsieur de Champagny, je vous ai envoyé hier un courrier de Russie. Il était porteur de lettres de mon consul à Königsberg et à Memel, que j’aurais ouvertes, si j’avais pu soupçonner les nouvelles dont vous ont régalé les plénipotentiaires autrichiens. Toutefois elles vous feront voir combien elles sont controuvées. M. Czernitchef arrive; il porte à l’empereur d’Autriche une lettre de l’empereur Alexandre. Je vous joins copie de la lettre de l’empereur d’Autriche et de la réponse de l’empereur de Russie pour votre gouverne; cela est pour vous seul, et si jamais les plénipotentiaires autrichiens voulaient tirer parti de cette communication. Je vous envoie la lettre de Caulaincourt, que vous me renverrez. Vous ferez connaître, aux plénipotentiaires autrichiens que l’empereur de Russie s’en rapporte à moi pour stipuler la paix, non seulement pour la France, mais encore pour la Russie. Vous ne devez pas manquer les occasions de les convaincre que nos relations avec la Russie sont plus intimes que jamais, et que le corps du prince de Galitzine serait sous mes ordres comme un corps français si jamais la guerre venait à recommencer.
+
+Mes nouvelles de Paris sont du 27. L’estafette a passé le 30 à Strasbourg. S’il y avait eu des nouvelles importantes d’Anvers du 29, le télégraphe de Strasbourg les aurait apprises et me les aurait fait connaître. Les moyens se préparent de ce côté, les troupes arrivent et tout s’organise convenablement. En Espagne, les affaires paraissent bien marcher.

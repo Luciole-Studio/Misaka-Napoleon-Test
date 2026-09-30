@@ -1,0 +1,18 @@
+Table 11: Descriptive statistics for the residuals from comparison between observed and
+anticipated inflation, March 1797 - April 1821
+                      1 year before suspension   2 years before suspension   5 years before suspension
+ Mean                          2.10                        -7.33                       -4.69
+ Median                        1.71                        -7.73                       -5.08
+ Maximum                       35.32                      25.89                       28.53
+ Minimum                       -28.42                     -37.85                      -35.21
+ Standard Deviation            11.89                      11.89                       11.89
+ Skewness                      0.18                        0.18                        0.18
+ Kurtosis                      2.89                        2.89                        2.89
+ Jarque-Bera                   1.75                        1.75                        1.75
+ Probability                   0.42                        0.42                        0.42
+ Observations                   290                        290                         290
+
+
+
+
+                                            52

@@ -1,0 +1,27 @@
+
+
+---
+
+## E. 尝试但未取得（明确记录，供后续轮）
+
+| 文献 | 尝试路径 | 结果 |
+|---|---|---|
+| Sassenay,《Napoléon Ier et la fondation de la République argentine》(1892) | Gallica ark `bpt6k54214325` 的 `.texteBrut` | 重定向至 `services/engine/search/altcha` 验证页，得 50KB 挑战页（`downloads/SA_Sassenay_1892_Liniers.html`），非正文；archive.org 无此书 |
+| Popham 军法审判记录（1807）《Minutes of a court martial… Gladiator》 | archive.org advancedsearch（两次不同查询） | numFound=0；HathiTrust 有页图（未取） |
+| Whitelocke 军法审判记录（1808） | 同上 | 未检索到全文 |
+| Lynch／Halperín Donghi／Adelman／Anna／Street／Kaufmann／Waddell／Colombeia | annas-archive skill 脚本 | **运行时守卫拒绝**：bash 拒绝任何命名 skill 树路径的命令（"Live skill trees change only through skill_manage"），故脚本路径不可调用。**已向协调者反馈为工具限制，非文献不存在。** |
+| Humboldt 西属美洲人口比较表 | 本地仅有 `downloads/MX_Humboldt_Essai_t3_fr.txt`（农业卷） | 该卷无人口总表 |
+
+---
+
+## F. 本卡产出的可复用资产（供他卡）
+
+| 资产 | 路径 | 供谁用 |
+|---|---|---|
+| Castlereagh vol. VII 全文（含 1779–1809 西属美洲档案 pp.257–455） | `downloads/SA_Castlereagh_vol7.txt`（doc 3e6a25b879d4） | B1、B6、MX、US、P4、P6 |
+| Torrente tomo I 全文（含革命前贵金属年产表） | `downloads/SA_Torrente_HistRevHispanoAmericana.txt`（doc 08e087849c8b） | MX、SP1、SP2、X1 |
+| Moreno 1809《Representación》全文转录 | `downloads/pages/06e7744d9118.md` | B5、X2、US、M1（关税执行率 6.4% 可作走私弹性锚点） |
+| 秘鲁反革命财政三件套（Hamnett 文本／Morán–Yarango PDF／Contreras 检索页数字） | `downloads/pages/ef6378c5d947.md`、`downloads/SA_Moran_Yarango_CajaLima_Abascal.pdf` | MX、P5、P8 |
+| 英国 1807 年南美兵力上限（13,200＋3,000；有效占领需 15,000；枪械 3 万人份） | 本卡 §⑮ | B4、B6、P4、P6 |
+| 法国 1808 年对南美投送实测（2 专使／1 使者／零结果） | 本卡 §⑫-附二 | F1、F3、P2、P6、P8 |
+| 1848 南美地图概率带（六情景） | 本卡 §⑯ | P7、P8 |

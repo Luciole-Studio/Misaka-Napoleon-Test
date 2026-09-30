@@ -1,0 +1,36 @@
+
+
+另有**里斯本**与**萨洛尼卡**两端：Heckscher记走私"from Gothenburg in the north-west around all the coasts of Europe to **Saloniki** in the south-east, without any great variation in the methods"（印p.191）；巴尔干段用不超过200公斤的小箱由驮畜经波斯尼亚、塞尔维亚、匈牙利运往维也纳。
+
+### 5.2 贸易的地理再排（【锚点】＋【机制】）
+
+Bacher（法国驻莱茵邦联公使）**1810-10-02**报告已把结果预言完毕：
+> "the **Danube will now take the place of the Rhine** as the channel through which the states of the Confederation of the Rhine will in future be able to provide themselves."
+并预言：即使萨克森王把关税警戒线从维滕贝格延到波希米亚边界并对原棉课税，"this painful sacrifice, which would reduce the whole of the mountainous part of Saxony [Erzgebirge] to the deepest misery, **would be no profit to France. It would only enrich the government and merchants of Austria**"；棉纺工人将"be compelled to emigrate from Saxony and Voigtland, and even from Bavaria, Baden, and Switzerland, in order to seek their livelihood in **the Austrian factories erected and managed by Englishmen**"（Heckscher 印pp.231–232，据Schmidt《Le Grand-duché de Berg》刊本）。
+
+史实兑现：维也纳取代莱比锡成为大陆贸易枢纽；货路两条同赴**加利西亚的 Brody**——北线经普俄波罗的海港绕华沙公国，南线先自敖德萨过黑海、法俄开战后改经君士坦丁堡与萨洛尼卡至伦贝格；再经**巴伐利亚免税过境**输往南德、瑞士并走私入法（Heckscher 印pp.232–233）。1811年夏起莱比锡集市上英货"practical cessation"、殖民品亦降至微量（印p.230）。
+
+**Heckscher对"为什么萨克森反而守法"的解释是本卡反应函数的关键机制**：萨克森有"a genuine good-will to obey the system"，因为其繁荣的纺织工业**受益于排斥英国竞争**，而法兰克福无此利益（印p.230）。→ **执行力最强处＝本地产业利益与禁令一致处**。这不是宪兵密度的函数，是产业结构的函数。
+
+### 5.3 价格与数量（【锚点】）
+
+**殖民品价格（涨）**
+- 莱比锡糖价"rose almost uninterruptedly until 1813, when it was approximately **three and one-half times** the amount it had been seven years earlier"；巴黎糖价1810年为 **4法郎/livre**、其后 **6法郎/livre**（Heckscher折为 **≈8与≈12法郎/公斤**）；1812年伦敦最优质糖仅 **1.35–2.00法郎/公斤**，即法国价为伦敦价的 **4–9倍**（Heckscher 印p.292）。
+- 靛蓝在莱比锡通常为原价 **2倍**，有时 **3、4乃至5倍**；胭脂虫、染木等通常翻倍（印pp.289–290，转引König）。
+
+**出口农产品价格（跌）**
+- 梅梅尔：木材大量烂在码头，**谷价1806→1810跌60–80%**（转引Hoeniger）；
+- 不来梅：殖民品价"increased many times"的同时，**小麦价1806→1811跌62%**，黑麦同（转引Schäfer表IX）（Heckscher 印p.319）。
+- 罗斯托克出港船：1809-08至1810-07为 **249艘**，而1808/09为55艘、1810/11为31艘（转引Stuhr）——**波罗的海的高峰由法瑞芬兰战争结束后的对瑞贸易造成，随后被许可证制度亲手掐死**（Heckscher 印p.319）。
+
+**MODEL｜双向贸易条件冲击**：以"糖涨3.5倍÷麦跌62%"计，大陆内地农业出口者的实物贸易条件恶化约 **9.2倍**；若用梅梅尔的−80%，恶化 **17.5倍**。这是一个**大陆内部的**、非跨境的剪刀差，**没有任何一笔法国关税收入能补偿它**。它也是Ellis所说"封锁末年波罗的海与地中海藩属国农产品价格蠕动式萧条 → 购买力下降 → 反过来减少对帝国出口品的需求"这一**自喷式需求回路**的定量表达（Ellis 2015 印p.37）。
+
+**运费即关税**（Tooke《History of Prices》I, pp.309–310注，转引自Heckscher 印p.233），1809–12 vs 1837：小麦每夸特 **50先令 vs 4先令6便士**；大麻每吨 **£30 vs £2 10s**；木材每load **£30 vs £1**；一艘一百余吨的船自加来至伦敦往返的**运费加法国许可证费可达£50,000**，折靛蓝每英磅运费4先令6便士（1837年为1便士，即**1/54**）；一艘总值£4,000的船自波尔多至伦敦往返毛运费 **£80,000**。
+
+**莱茵河上行通行税收入（Spaulding 2015 表7.1–7.4，法郎）**——本卡所见最好的数量序列：
+
+| 1806 | 1807 | 1808 | 1809 | 1810 | 1811 | 1812* | 1813 |
+|---|---|---|---|---|---|---|---|
+| 1,273,645 | 1,386,585 | 715,498 | 380,773 | 405,127 | 365,997 | 330,415* | 294,833 |
+
+（*1812为1811与1813之中点估计）**1811年仅为1807年的四分之一，1813年为五分之一。** 且衰减随距荷兰边界的距离而递减：1811占1807之比——埃默里希15%、韦瑟尔18%、科隆23%、杜塞尔多夫23%、科布伦茨33%、美因茨51%、曼海姆43%、诺伊堡78%；斯特拉斯堡上行到货1811年仍为1807年的53%。**下游崩掉四分之三，中游三分之二，上游不到一半。**

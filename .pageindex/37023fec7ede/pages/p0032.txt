@@ -1,0 +1,47 @@
+F.3.4    Communication infrastructure
+In this appendix, we include additional controls in our baseline specifications for two
+different measures for investment in infrastructure: the number of postal offices per
+km2 and kilometers of roads per km2 . As tables 18 and 19 show, our results are
+unchanged when these controls are included. Moreover, the coefficients for either are
+generally insignificant.
+
+   Table 18: Draft-dodging and ruggedness with alternative to “Military relays”.
+
+Note: This table displays the same regression as in Table 1, column (4) while replacing “Military
+relays” with either “Road density” or “Postal office density.” The first column is equivalent to
+column (4) in Table 1. We report robust standard errors in parenthesis and Conley standard errors
+(100km) in brackets.
+
+                Draft-dodging rate            (1)          (2)           (3)
+                Log of ruggedness           4.65358      5.16105       5.39163
+                                        (1.62817)*** (1.68323)*** (1.80888)***
+                                         [1.94372]**  [2.08742]**   [2.34040]**
+                Townships Density          -62.71338   -117.98476    -107.68265
+                                          (44.89035) (39.39172)*** (34.46292)***
+                                          [80.14154]  [71.24117]*   [62.11998]*
+                Distance from Paris         2.16670      1.73300       1.38421
+                                         (1.06161)**    (1.27352)     (1.17546)
+                                           [1.63886]    [1.89858]     [1.73569]
+                Border                    4.65163**      3.85636       3.56078
+                                           (2.34167)    (2.49167)     (2.55216)
+                                           [3.57922]    [3.84993]     [4.02741]
+                Military relays            -26.35774
+                                        (9.87579)***
+                                         [15.93356]*
+                Road density                             9.27484
+                                                       (31.60329)
+                                                       [44.81094]
+                Postal office density                                -281.20294
+                                                                    (517.78319)
+                                                                    [853.99754]
+
+                Same other controls
+                as in Table 1            X               X                X
+                Observations            365             365              365
+                R-squared             0.75273        0.74852           0.74866
+                                *** p<0.01, ** p<0.05, * p<0.1
+
+
+
+
+                                                32

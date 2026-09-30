@@ -1,0 +1,77 @@
+
+
+### 4.2 撤军、赔款、限军与保证的归属边界
+
+**【事实｜第XXVIII条，全文】**
+
+> “The necessary arrangements shall immediately be made to settle every point which relates to the manner and period of the surrender of the places which are to be restored to his Majesty the King of Prussia, and to the civil and military administration of the said countries.”
+
+正文把交还方式与期限、军民行政交给另外安排。**本条没有列完款日期或撤军日历。**
+
+**【事实｜已读I—XXX】** 无140m／120m赔款总额、无42,000人上限；本轮未识别到类似1808第15条的一般领土完整保证。第II条恢复领土、XIX条保护但泽不能与普国一般保证等同。
+
+**【事实｜第XXVII条】** 对英封锁不是全部藏在秘密附约：
+
+> “all the countries under the dominion of his Majesty the King of Prussia, without any exception whatsoever, shall be shut against the trade and navigation of the English.”
+
+期限至未来法英最终和约批准。
+
+**【缺口】** 1807其他执行协定本次未读；不以“7月9日正文没有”断言1807全部配套文书均无赔款或撤军条件。
+
+## 5. 巴黎补充协定，1808年9月8日
+
+P08是唯一已读完整转录，正文数字存在明显旁项疑误；以下可作定位证据，引用时必须保留其版本限制。
+
+### 5.1 正文第1条：140m，而非120m
+
+**【事实｜P08正文第1条】**
+
+> « Le montant des sommes dues par les Etats Prussiens à l’armée française, tant pour contribution extraordinaire que pour arriéré de revenus, est fixé à 140 millions de francs »
+
+> « toute prétention de la France sur la Prusse, à titre de contribution de guerre, se trouvera éteinte. »
+
+口径为特别贡献与收入欠款结算。批准交换后20日内交付：半数现金或已承兑汇票（每月600万偿付，由普国国库担保）；半数以王室地产优先抵押的土地票据，12—18个月偿付。不等于1.4亿现金20日付清。
+
+**【文献推断｜P08编者脚注2，非条约正文】**
+
+> « dans les arrangements conclus à Erfurt, au mois d’octobre 1808, une remise de 20 millions sur cette contribution fixée ici à 140 millions. »
+
+这是“减为120m”的二手支持；**本次搜索未取得减免文书的日期、条号与原句**。不把减免塞入9月8日第1条，也不未经核实归到10月12日法俄爱尔福特公约某条。减免原文为本次最主要未解项。
+
+### 5.2 撤军与占领抵押
+
+**【事实｜正文第5条，全文】**
+
+> « Les États de S. M. le Roi de Prusse seront évacués par les troupes françaises dans l’intervalle de trente à quarante jours après l’échange des ratifications, ou plus tôt si faire se peut. »
+
+**【事实｜正文第6条】**
+
+> « Les places de Glogau, Stettin et Custrin resteront au pouvoir de l’armée française jusqu’à l’entier acquittement des lettres de change et billets fonciers donnés en payement de la contribution énoncée au premier article. »
+
+> « Celle de Glogau sera remise lorsque la moitié de la somme totale aura été réalisée, les deux autres après l’extinction entière de cette dette. »
+
+一般撤军与三要塞保留必须并列；不能只摘第5条称无条件全面撤出。该条同时禁止占领期毁坏要塞工事。
+
+**【事实｜第7—13条】** 三驻军定额格洛高3,300、屈斯特林2,800、斯德丁3,900，共10,000；第8条法国负担军饷、普方供住房及口粮饲料等；第11条普王保留税收、司法，法国指挥官掌警察；第12条普军不得进入一日行程距离内；第13条列补员、换防等军事道路。关键第11条：
+
+> « l’administration des revenus et celle de la justice appartiendront au Roi de Prusse; mais la police sera entre les mains du commandant français. »
+
+### 5.3 领土修正与有条件保证
+
+**【事实｜正文第14条】** 以马格德堡城堡在易北河右岸为理由，修正此前边界，原文有：
+
+> « un territoire de 9,000 toises en dehors de ses ouvrages avancés. »
+
+**【裁量｜待复核】** `9,000 toises`仅原样登记，不据此换算面积或确定半径；未核印本及边界图。
+
+**【事实｜正文第15条，全文】**
+
+> « S. M. l’Empereur et Roi garantit à S. M. le Roi de Prusse l’intégrité de son territoire, moyennant que S. M. le Roi de Prusse reste le fidèle allié de la France. »
+
+这是以忠于法国同盟为条件的保证，不能删掉后半句。
+
+### 5.4 附条第1—3条：42,000与十年
+
+**【事实｜Articles séparés第1条】**
+
+> « pendant 10 ans, à compter du 1er janvier 1809 »

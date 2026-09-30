@@ -1,0 +1,155 @@
+
+
+English
+
+French
+
+French (from 1791)
+
+Dutch
+
+Spanish
+
+Lieutenant
+
+Lieutenant de Vaisseau
+
+[same]
+
+Luitenant ter Zee
+
+Teniente de Navío
+
+Commander
+
+Capitaine de Frégate 4 
+
+[same]
+
+Kapitein-Luitenant
+
+Capitan de Fragata
+
+Post-Captain
+
+Capitaine de Vaisseau
+
+[same]
+
+Kapitein
+
+Capitan de Navio
+
+Commodore
+
+[none]
+
+Chef de Division 5 
+
+Kommandeur
+
+Brigadier 6 
+
+Rear-Admiral
+
+Chef d’Escadre
+
+Contre-Amiral
+
+Schout-brj-Nacht
+
+Jefe de Escuadra
+
+Vice-Admiral
+
+Lieutenant-Général des Armées Navales
+
+Vice-Amiral
+
+Vice-Admiraal
+
+Teniente General
+
+Admiral
+
+Vice-Amiral
+
+[none]
+
+Luitenant-Admiraal
+
+Almirante
+
+MONEY VALUES
+
+Readers often ask for historical money values to be translated into modern values. This is a difficult, indeed impossible, task, because of what economists call the ‘index number problem’, the fact that both the prices and the economic significance of different things change at different rates, and in different directions, so that all attempts to relate prices over long periods are intrinsically misleading. In the sixty years from 1770, for example, the price of cotton fell by one-third, and that of iron by more than two-thirds, but the price of beer increased by 156 per cent. 7 Which, if any, of these commodities is more meaningful as the basis of a price index, and by what criteria could they be ‘weighted’ against one another? In practice even to attempt to answer such questions is frequently impossible, for few items have been traded continuously over long periods of history, and fewer still have left evidence allowing price series to be compiled. Most of those used by economic historians are based on the price of grain or the wages of artisans, neither perfectly relevant to naval history. But a naval shipbuilding price index running just from the eighteenth century to the twentieth would have to face the fact that the principal material of shipbuilding has changed in that time from oak to wrought iron and then mild steel, and that none of the three has been continuously traded in large volumes throughout the period, so that it is impossible to compare their prices. 8 
+
+The only component of naval power which has not essentially changed over time is people, and this indicates a crude solution to the problem. Certain officers’ ranks already existed in 1649, with established rates of pay, and still exist today. On the heroic assumption that a post-captain’s pay has retained broadly the same real value over 350 years, we may construct a simple naval price index: 9 
+
+1649
+
+=
+
+100
+
+1694
+
+200
+
+1700
+
+133
+
+1713 10 
+
+100
+
+1807
+
+200
+
+1815
+
+261
+
+1817
+
+321
+
+1844
+
+366
+
+1856
+
+412
+
+1862 11 
+
+418
+
+1864
+
+450
+
+1870
+
+459
+
+1918
+
+475
+
+1919
+
+1,086
+
+1955
+
+1,336
+
+2003
+
+58,254
+
+This suggests that for most of the seventeenth and eighteenth centuries the ratio of contemporary to current money values was about 600:1. It is obvious, however, that captains’ pay, like seamen’s, had declined in real value by the end of the eighteenth century, and then caught up after the Napoleonic War (which was in addition a period of falling retail prices). Taking the 1817 pay scale reduces the ratio to about 180:1. In any case the calculation is very crude, and greatly affected by underlying assumptions. Adding servants’ pay, which was arguably a normal part of a captain’s income, at least in wartime, and became an automatic addition in 1794, would reduce the ratio in 1817 to 145:1.

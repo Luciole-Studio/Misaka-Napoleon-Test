@@ -1,0 +1,15 @@
+
+
+## 复用接口及不重复计证
+- D1：`nodes/r_5b1357a9c6/cards/t_40198e/notes_conscription_tax.md`用于定位Rowe/Frasca；本卡之后亲读其原文，不能将两卡算两份独立史料。
+- F2：`nodes/r_5b1357a9c6/cards/t_0e763d/`的年度流量/可用库存/安全成本区分与既有“第10年净正”压力测试作接口。本文不将其3‰治安+1‰边防、60%可靠假设当实测。
+- F4：`nodes/r_5b1357a9c6/cards/t_9f10b6/notes_marion_model.md`帮助定位财政表，之后亲读Marion。预算净额≠最终对巴黎净贡献。
+
+## 未取得的关键材料（不当不存在）
+1. Rouanet–Piano复制包：ICPSR175583，`https://doi.org/10.3886/E175583V1`。网页元数据Public/CC BY4.0可读，文件未取；公开HTTP路由403，未证明原因。未用登录凭据或绕过限制。脚本`retrieve_icpsr.py`和`raw/icpsr_landing.html`仅访问日志，后者是错误页。
+2. Woloch1986原表、Grab1995原全文没有通过本卡渠道取得；已读相关后作转引，绝不写成两篇原文亲读。
+3. 1800–13省级财政实收/应征/地方成本、统一军役原簿；司法案件/匪患/官员密度省年序列。可追查Vallée编Hargenvilliers、AN AFIV1123/1124、F9系列、各省收税账及Bulletin des lois。系列名只是后续路线。
+4. 非英语要求：亲读法文Frasca、Marion两项；未取得第二种非英语语种的同口径实收/实到材料。德意档案和意文Della Peruta等主要经英法文转引，外推置信随之下调。
+
+## 工具限度
+ICPSR直取403；Monid未配置API key；Perspectivia原PDF下载收到HTML但正文提取成功。旧运行曾有上下文截断；本轮每次小段读取、随读写笔记。附件页图只核RP23 Table1、附录p61、Rowe Table3，不声称其余所有页图已目视核验。

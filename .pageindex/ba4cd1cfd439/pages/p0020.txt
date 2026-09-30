@@ -1,0 +1,17 @@
+
+
+SAMPLE ROBUSTNESS
+
+The remainder of Table 4 reports estimates for a number of sample restrictions. We begin by eliminating observations with a Bavarian city from the sample. Bavaria, the second largest German state, was closest to being a serious rival for Prussia during the nineteenth century (after Austria-Hungary). Moreover, Bavaria is also highly represented in the VDPSOH ,QWKLVUHVWULFWHGVDPSOHWKHFXVWRPVOLEHUDOL]DWLRQHIIHFWLVHVWL mated somewhat higher than before (column 3). Further, the city states of Bremen, Frankfurt, Hamburg, and Luebeck had quite different character istics than the area states in the sample, and one might be concerned that WKLV PLJKW LQFOXGH WKHLU UHVSRQVH WR FXVWRPV OLEHUDOL]DWLRQ ,W WXUQV RXW that dropping observations from city states does not change the results by much, see column 4 of Table 4. We have also systematically eliminated WKHREVHUYDWLRQVWKDWKDYHWKHPRVWLQÀXHQFHRQRXUHVWLPDWH DVMXGJHG E\&RRN¶V'LVWDQFH ,QÀXHQWLDOREVHUYDWLRQVGRQRWDSSHDUWRGULYHRXU results, see the estimates in column 5. Finally, we have explored the role of the unbalanced sample for these results. A focus on those city-pairs where price information is available for the majority of years during the VDPSOHSHULRGOHDGVWRDVLPLODUFXVWRPVOLEHUDOL]DWLRQHVWLPDWHDVIRUWKH sample as a whole, see column 6 of Table 4.
+
+OTHER FACTORS
+
+:HKDYHDOVRH[SORUHGWKHLQÀXHQFHRIWKHIDFWRUVQRWHG LQWKHUHGXFHG form analysis reported in Table 2. Results are given in Table A of the DSSHQGL[ 7KH ¿UVW FROXPQ LQ 7DEOH $ JLYHV UHVXOWV IRU WKH VXEVDPSOH from which observations with relatively low Border-to-Area ratios are eliminated. 37 Analogously, in column 2 we drop observations with low Railway Costs while in column 3 observations with low Population are eliminated, and so forth for Latitude and Remoteness. 38 These results VKRZWKDWWKH HVWLPDWLRQUHVXOWVIRUWKH FXVWRPVOLEHUDOL]DWLRQHIIHFWDUH for the most part close to the baseline in column 1. 39 Further, we have asked whether these results based on wheat prices carry over to other
+
+376SHFL¿FDOO\ WKH¿UVWTXDUWLOHRIWKHVDPSOHLQWHUPVRI%RUGHUWR $UHDUDWLRLVGURSSHG 38 The results for Longitude are similar and available from the authors upon request. 39 The exception to this is Border-to-Area, where it appears that the customs estimate is relatively large for high border-to-area observations, compared to the average city-pair in the sample. To the extent that the high Border-to-Area observations are city state observations, though, we have seen in Table 4 that eliminating city state observations does not lead to a very different customs OLEHUDOL]DWLRQHVWLPDWH
+
+APPENDIX TABLE A THE INFLUENCE OF OTHER FACTORS
+
+| | (1) (2) (3) (4) (5) (6) Border-to Railway Area Costs Population Protestant Latitude Remoteness |
+| --- | --- |
+| Second Stage &XVWRPV /LEHUDOL]DWLRQ First Stage Rel. Distance to Coast F-statistic Number of Observations City-pairs | –0.093 –0.042 –0.061 –0.068 –0.065 –0.042 [0.001] [0.079] [0.001] [0.049] [0.024] [0.005] 1.307 1.871 1.796 1.072 1.215 2.191 [0.000] [0.000] [0.000] [0.000] [0.000] [0.000] 41.16 25.08 55.21 32.09 40.83 53.97 [0.000] [0.000] [0.000] [0.000] [0.000] [0.000] 2,679 2,679 2,709 2,751 2,742 2,680 533 607 516 489 450 480 |

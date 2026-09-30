@@ -1,0 +1,62 @@
+measures manually using the FAO’s finer grid-cell level GIS raster data. For each city, we define the
+
+relevant agricultural region to be a circle with a 100 km radius originating from the city. Suitability
+
+for the city is then the fraction of land within the circular region that is suitable.21
+
+
+B. Outcome Variables
+
+The historic populations of individuals living on land that today is a modern country are from
+
+McEvedy and Jones (1978). In our analysis, we examine the level of population in the following
+
+years: 1000, 1400, 1500, 1600, 1700, 1800, and 1900. We do not use the years 1100, 1200, and
+
+1300. This is because the population fluctuations due to the Black Death cause these data to be
+
+particularly unreliable.
+
+   We also examine the average annual population growth rate between each time period. This is
+
+calculated in the standard manner:
+
+                                                    ln(Populationit ) − ln(Populationit−n )
+                      Population growthit =
+                                                                       n
+
+where n is 100 years, except when t = 1400; then n = 400.
+
+   We examine the effects of potatoes on the growth of population not because we believe the
+
+introduction of the potato had permanent growth effects. Instead, our interest is in testing whether
+
+the introduction of potatoes increased the carrying capacity of land, thereby increasing the pop-
+
+ulation that could be supported on it. Because the transition to the higher population may occur
+
+over centuries, the introduction of potatoes may have affected the growth rate of population in
+
+the centuries following its introduction. Therefore, we view our population growth estimates as
+
+alternative robustness estimates to our population level estimates.
+
+   We also examine the effect of potatoes on urbanization. Data on the populations of urban centers
+
+are from Chandler (1987), Bairoch (1988), and Modelski (2003). We measure a country’s total
+
+urban population to be the number of people living in cities with more than 20,000 inhabitants.
+
+We construct each country’s urbanization rate by dividing its total urban population by its total
+
+population taken from McEvedy and Jones (1978). We measure the urbanization rate in percentage
+
+terms; it therefore ranges from zero to 100.
+  21 We have also tried other distances from a city in our analysis. The results are robust to the use of either 200 or 500
+
+kilometer radii.
+
+
+
+
+                                                            17

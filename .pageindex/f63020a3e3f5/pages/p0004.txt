@@ -1,0 +1,54 @@
+
+
+### GR — Alexander Grab
+
+Alexander Grab, *Napoleon and the Transformation of Europe*, Basingstoke: Palgrave Macmillan, 2003。
+
+- 实读PDF文字捕获：<https://ndl.ethernet.edu.et/bitstream/123456789/44567/1/2.Alexander%20Grab.pdf>；保存`downloads/pages/2ad693d5ac13.md`。
+- 重点pp.52–54法国财政地籍，pp.188–191伊利里亚；本轮重复使用旧C15已读区域材料，不称全书新通读。
+- p.191：“Illyria’s revenues never sufficed for the expenses of the General Government”——Grab转引，原档未阅。
+- 伊利里亚13.5预算中9.9军海，为1812；150万人为地区量级，不能精确标为1812普查。
+
+## 同时代文书：实读网络转录，未核手稿
+
+### C-JUN — 1810年6月6日财政会议
+
+Napoléon Ier, « Notes dictées en Conseil d’administration des finances », Saint-Cloud, 6 juin 1810；并读同日给财政/国库大臣的印行账目要求。
+
+- <https://napoleon-histoire.com/correspondance-de-napoleon-ier-juin-1810/>；保存`downloads/pages/1cd7e7d06126.md`，定位Saint-Cloud 6 juin、§§1–12。
+- 原句§7：“Si les seules contributions ordinaires doivent porter le budget de 1810 à 710 millions”。
+- §11：“doivent porter ce revenu ordinaire à 720 millions”——拟定，非本卡认定实际净额。
+- 同日印账要求：“Ces comptes seront lus au Conseil d’État et imprimés”。可作披露技术锚点，不可因此否定BW关于总体预算不透明的相对判断。
+
+### C-JUL — 1810年7月财政会议及信件
+
+- <https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1810/>；保存`downloads/pages/82a063e7e022.md`。早期消息误写“juillet-aout-septembre”整季入口，最终以文件头实际URL为准。
+- 7月5日特别关税概算；7月22日罗马预算毛额；7月25日致Mollien荷兰；7月26日罗马财政会议。
+- 荷兰短引：“Quel doit être le montant des impositions que doit payer la Hollande pour payer le tiers de sa dette”——这是测算问题，不是实收报告。随后一问网页OCR损坏，未引用；完整金额段见缓存约L1927。
+- 罗马主权費分摊见L1974以后，原文给14m/每百万人，算术496.5/37约13.42。地方债务、养老金用地产专户处理，不能理解成无成本注销。
+- 文书是皇帝指令/问题，不能当账目已经执行。
+
+### C-Q1 — 1810年1月30日与3月20日
+
+- <https://napoleon-histoire.com/correspondance-de-napoleon-ier-janvier-fevrier-mars-1810/>；保存`downloads/pages/df27e5314cf3.md`。
+- 1月30日战争行政会议：缩驻、当地收入当地消费；网页`1.7`依加总53与上下文校读17m，但未核纸本，主文不依这一确数计算。
+- 3月20日致Champagny/Cadore汉诺威赠产：“j’entends que les donataires en Hanovre ne soient soumis à aucune imposition pendant dix ans, et n’éprouvant aucune diminution de revenus.” 网页措辞如此，主文释义。
+- 这里保留境外特权证据，不能以majorat国内法一概抹掉。
+
+### MA — 1808年3月1日majorat法令
+
+« Décret du 1er mars 1808 concernant les majorats »，实读Heraldica转录，页面含后续法令和19世纪判例注，不将全部注释当1808原文。
+
+- <https://heraldica.org/topics/france/majoratstexts.htm>；保存`downloads/pages/bfe5e416b5e6.md`。
+- 读arts.54–74及相关定义。第73条：“soit en rentes sur l’État, soit en actions de la Banque”。
+- 第74条：“ils supporteront les contributions personnelles, mobilières, immobilières, directes et indirectes, dans la même proportion que les autres citoyens.”
+- *Bulletin des lois*, IV, 1808, texte3207仅依SG书目转引；原刊未阅。
+
+### T — Nicola Peter Todorov，海军预算计划与大陆约束
+
+Nicola Peter Todorov, « Le redressement naval de 1810–1813 napoléonien et la géographie maritime de l’Europe », *Cahiers du Centre d’études d’histoire de la défense*, no.36, 2008；实读25页电子稿。
+
+- HAL作者稿入口：<https://shs.hal.science/halshs-01241363/document>；保存`downloads/F3_Todorov_redressement_1810_1813.pdf`，doc `0fd6bd047f2a`，由本项目F3取得；本卡复读首页、pp.24–25及相关资源段，不冒称重新下载。
+- p.24注116：1810计划约200m/年；1812评估223.4049、1813 255.7461、1814仅维护145.9194；随后1812预算削至190。都是计划/评估，不是实支。
+- p.25：“Ce n’est pas le temps qui manquait, c’est l’argent, les conscrits, les troupes de débarquement.”
+- 不接受作者“所有大陆战争都被强加”作为已证前提；本卡仅使用明确军种竞争与预算文书。此处是对Todorov乐观物质能力论的财政约束，而非以其判断直接证明法国必胜。

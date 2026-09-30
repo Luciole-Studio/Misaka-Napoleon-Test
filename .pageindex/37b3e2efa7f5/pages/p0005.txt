@@ -1,0 +1,20 @@
+
+
+## 来源、独立性与核验索引
+
+**页码规则：H引用印刷页，PDF页通常相差16；如遇OCR页首错误以页图或连续内容定位。M印刷65—73对应PDF1—9。网页无页码时使用章节名，不造页码。**
+
+- **H**：Eli F. Heckscher, *The Continental System: An Economic Interpretation*, Oxford, 1922英译本。已下载 `downloads/c15_heckscher1922.pdf`，文档 `1baaae7f3185`；正文缓存 `downloads/pages/70cc6a857e5f.md`。[扫描本](https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/327/0142_Bk.pdf)。实用段落pp.200–203、288–301。所引信件与法令为转引；不是原档查阅。
+- **G**：Alexander Grab, *Napoleon and the Transformation of Europe*, 2003；`downloads/pages/2ad693d5ac13.md`，使用pp.97–100、194–195等。概论及其转引不能全部视作独立于Heckscher的证据。
+- **M**：Silvia Marzagalli, “Port Cities in the French Wars: The Responses of Merchants in Bordeaux, Hamburg and Livorno to Napoleon’s Continental Blockade, 1806–1813,” *The Northern Mariner* VI(4), 1996, pp.65–73。[PDF](https://cnrs-scrn.org/northern_mariner/vol06/tnm_6_4_65-73.pdf)；`downloads/c15_marzagalli1996.pdf`，文档 `6772f035b6ed`。引用其档案研究，不声称直接读取AN F7 8847, dossier 4184等原档。
+- **J**：Réka Juhász, *Temporary Protection and Technology Adoption: Evidence from the Napoleonic Blockade*, 2018-04-02作者稿，`downloads/c10_juhasz2018draft.pdf`，文档 `60e75d8026ea`；本文使用pp.5–6，不声称最终刊本系数比对完成。
+- **JA**：同作者同日在线附录，A.2.4 pp.11–12，`downloads/pages/ff5e48416b93.md`。[来源](https://www.rjuhasz.com/research/napoleonic_blockade_onlineappendix.pdf)。Crouzet p.573为其转引页码。
+- **E**：Geoffrey Ellis, “The Continental System Revisited,” in Katherine Aaslestad and Johan Joor, eds., *Revisiting Napoleon’s Continental System*, 2014；公开章节预览，`downloads/pages/2315e9456493.md`。[预览](https://www.perlego.com/book/3486690/revisiting-napoleons-continental-system-local-regional-and-european-experiences-pdf)。实读章首及“Continental Blockade and Continental System”部分，非全书。
+- **Crouzet（未得全文）**：François Crouzet, “Wars, Blockade, and Economic Change in Europe, 1792–1815,” *JEH* 24(4), 1964, pp.567–588，DOI `10.1017/S0022050700061271`。经E/JA/O转引。同一原文的多个转引不是三次独立验证。
+- **O**：Kevin H. O’Rourke, *The worldwide economic impact of the Revolutionary and Napoleonic Wars*, May 2005工作论文；[TCD全文](https://www.tcd.ie/Economics/TEP/2005_papers/TEP9.pdf)，缓存 `downloads/pages/dda4372be1f5.md`；NBER WP11344镜像 `downloads/pages/7539dbb3657c.md`。使用开篇、福利节、表4；文本提取丢失部分页脚，按节/表定位。两个仓储不是独立研究。2006 JGH版DOI `10.1017/S1740022806000076`仅题录核对。
+- **B1/B2**：意大利银行[货币博物馆](https://www.bancaditalia.it/servizi-cittadino/musei-e-visite/museo-moneta/monete-oro/index.html)、[年表](https://www.bancaditalia.it/servizi-cittadino/mostre-ed-eventi/mostra-moneta/esplora/stanza-a/cronologia/index.html)，缓存 `adb47a132644.md`、`ab7407c7b446.md`（均在 `downloads/pages/`）。同机构叙述，非两个独立原法令核验。
+- **W**：LWL，“Einheitliche Münzbewertung”，缓存 `downloads/pages/96b7a40e8d99.md`；[页面](https://lwl.org/aufbruch-in-die-moderne/LWL/Kultur/Aufbruch/themen_start/politik/nation/vereinheitlichungen/waehrung/probleme/index2_html.html)。原Gesetz-Bulletin未查。
+- **R**：Jean-Luc Arnaud, *La carte de France*, 2022，F1811公开稿pp.1–2；[HAL](https://shs.hal.science/halshs-03688062v1/document)，缓存 `27c3f908ae6f.md`。Bulletin des lois原法令及AN F14 954、AF IV 1054仅出处线索，未直接查阅。
+- **S**：瑞士联邦IVS VS 1.4，1992；[PDF](https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/VS00010400.pdf)，缓存 `451ae0f54efe.md`。AEG A78及Céard文书/回忆为转引，回忆文本属回溯性，本文未用作未执行计划的成果证明。
+- **Q**：Cambrai/Saint-Quentin官方遗产手册 *Le canal de Saint-Quentin*；[PDF](https://www.destination-cambresis.fr/app/uploads/2025/11/Le-canal-de-Saint-Quentin.pdf)，缓存 `c46f8263a841.md`。Pugin地方学会文章对照见补稿，原刊保存 `9f930fd6b766.md`。
+- **A**：Agentschap Onroerend Erfgoed, “Bonapartedok en Willemdok,” inventory10708，1992正文；[页面](https://inventaris.onroerenderfgoed.be/erfgoedobjecten/10708)，缓存 `9ef667a78a6e.md`。Boistard 1822为该页转引，未直接读取。

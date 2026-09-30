@@ -1,0 +1,43 @@
+---
+source_url: "https://www.persee.fr/doc/hes_0752-5702_1998_num_17_2_1985"
+final_url: "https://www.persee.fr/doc/hes_0752-5702_1998_num_17_2_1985"
+provider: "exa"
+text_sha256: "c6f57b52d8049f5726839a4d71e9746053e3c485b0162013704f3ba3e9266344"
+title: "Prosopographie et noblesse imp\u00e9riale : de l'histoire d'une \u00e9lite \u00e0 l'histoire sociale - Pers\u00e9e"
+content_kind: "page_text"
+---
+
+Prosopographie et noblesse impériale : de l'histoire d'une élite à l'histoire sociale - Persée
+
+#### [article]
+
+ Natalie Petiteau 
+
+ Histoire, économie & société Année 1998 17-2 pp. 277-285 
+
+ Petiteau Natalie. Prosopographie et noblesse impériale : de l'histoire d'une élite à l'histoire sociale. In: Histoire, économie et société, 1998, 17ᵉ année, n°2. pp. 277-285.
+
+ www.persee.fr/doc/hes_0752-5702_1998_num_17_2_1985
+
+### Résumé (fre)
+
+ Résumé L'étude des élites ne peut se faire uniquement par le recours à l'histoire quantitative : mais une approche qualitative invite à constituer des échantillons qui autorisent une mise en œuvre des pratiques de la prosopographie. Appliquée à la noblesse impériale créée par Napoléon en 1808, cette méthode éclaire les réponses apportées par l'Empire à la crise des élites en même temps qu'elle montre les processus de mobilité sociale, tant ascendante que descendante. Elle offre les moyens d'une tentative de définition de la notion de groupe social des élites tout en conduisant à repérer les traits particulièrement modernes de l'aristocratie napoléonienne, qui se définit du reste comme une noblesse mobile et nationale. 
+
+### Résumé (eng)
+
+ Abstract The studies of aristocraties can 't be founded only on quantitative methods : a qualitative history should have recourse to patterns in order to practise the prosopographie. applied to the nobility of Napoléon, created in 1808, this method throws light on the respons offered by the Empire to the « élites » crise and shows the process of social mobility. It's also a way to know a definition of a social group, to discover the fondamental function of the networks in « élites » society and the modern characteristics of the napoleonic aristocraty. 
+
+### Plan
+
+1. De l'étude sérielle à la micro-histoire : les tentatives de definition d'un groupe social [link]
+2. Généalogies sociales et. circulation des élites : de l'individualisme aux réseaux identitaires [link]
+3. Une aristocratie moderne [link]
+4. Une noblesse mobile et nationale [link]
+
+### Texte intégral
+
+ PROSOPOGRAPHIE ET NOBLESSE IMPERIALE : DE L'HISTOIRE D'UNE ÉLITE À L'HISTOIRE SOCIALE
+
+ par Natalie PETITEAU
+
+ Face à la difficulté de constituer l'histoire sociale en une histoire globale, les historiens empruntent de nouvelles voies qui passent par la micro-histoire et qui ambitionnent de conduire à une meilleure compréhension de la vie des hommes en société l. La pertinence d'une telle démarche tient dès lors au choix du terrain d'enquête : celui-ci apporte d'autant plus d'enseignements qu'il occupe une position-clef dans la société étudiée. Celle de l'Empire et du XIXe siècle donne précisément matière à de nouvelles interrogations depuis que l'antinomie entre la noblesse et la bourgeoisie a été placée au centre des

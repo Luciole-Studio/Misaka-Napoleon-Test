@@ -1,0 +1,40 @@
+# notes｜封锁执行机器：人员、租金、缉获率、区域受益（Marzagalli／AHAD／Ellis）
+
+## A. Marzagalli 1996（doc 6772f035b6ed，*The Northern Mariner/Le Marin du nord* VI:4, pp.65–73）
+
+本文是Marzagalli博论《Les boulevards de la fraude》（Septentrion, 1999）的英文预告，所引均为其档案（波尔多、汉堡、利沃诺商会与海关档案）。
+
+**执法资源侧**
+- p.70：利沃诺警察局长上呈：海关人员月薪**40法郎**"just enough to survive"，走私者出**200–300法郎**求其"闭眼半小时"，问他如何防止；**海关总监估计其部下三分之二受贿**，且人数本就不足。
+- p.70：1811年利沃诺警察为省薪资裁至**22人**。
+- p.69：外法国地区"only a handful were delegated to enforce laws against trade"。
+- p.70：枫丹白露敕令对武装走私者处死刑"hardly able to deter the real organizers of smuggling. If some smugglers were arrested, the bulk remained at liberty. And the merchants who stood behind all these activities were **almost never arrested**."
+- p.70：陪审团不愿起诉富商（常为亲属），尤见波尔多与利沃诺（市政由托斯卡纳人掌握）；**汉堡例外**——要职全给法国官员，"proceeded energetically against local interests"。
+
+**缉获率的唯一定量锚点**
+- p.69：1810年8月，海关在**汉堡—阿尔托纳城门**查获**9,300公斤**殖民品；"Moreover, this quantity seems to have represented **at most five percent** of the quantity smuggled."（注23）
+  → 若5%为上界，则当月经该门走私量≥186,000公斤（≈186吨）。与Heckscher转Rist的"每三四个背货人抓一个"（印p.190）在**口径上冲突**：前者按重量、后者按人次；可并存的解释是被抓者多为小额诱饵（"some heavily armed persons in the van were sacrificed"）。本卡据此取**按价值计的缉获率区间5%–25%**，主线10%–15%。
+
+**腐败即定价**
+- p.69：1807年上半年法军占汉堡，市参议会与商会花**约150万法郎**买通当局对易北河贸易睁眼闭眼（注17）。
+- p.69：美国驻汉堡领事转述法国同行："the secret of this, as of most of their measures, is that the austerity of the agents must be softened by pecuniary motives."
+- p.69：布里安（Bourrienne）受贿调查显示，1807–1810年他签发的通行证每年放行**约1亿法郎**货值的进口（注24）。
+- p.69：法国驻汉堡海关总监称，1810年汉堡**约每六个居民中有一人靠这项舞弊为生**（注25）。"At a time when port activity was heavily reduced, deceit permitted much of the population to survive. **The main profits, however, went to the merchants who organised these exchanges.**"
+
+**许可证的分配（租金地理）**
+- p.68：1809–10年"ancien système"许可证，**波尔多独得三分之一以上**，成为帝国最受优待港；利沃诺（1808已并入帝国）**一张未得**。1810年后的欧洲贸易许可证：波尔多是利沃诺的2倍、汉堡的4倍。1810年恢复对美贸易的**航行许可**：**波尔多620、汉堡5、利沃诺1**（注14）。
+- p.68：Clamageran商行1813年申报葡萄酒**数量三倍、价值七倍**于实货（因许可证要求进出等值）；"Apparently Clamageran risked little, as police and custom controls in Bordeaux were rather weak."（注15）
+- p.68：商人抱怨许可证数量不足、审批迟缓、允许的贸易与真实市场条件不符。
+
+**替代通道**
+- p.69：1807年约**1,500艘小船**自通宁（Tönning）载殖民品与英国制品进入汉堡（注19）；1807-03-11至06-06有**281艘**船离伦敦赴通宁；**1807年英国再出口的30%运往丹麦**（注20）。
+- p.69：汉堡出身的英裔商人Robert Sloman（1803年第一次易北河封锁时移居通宁）1807年**净利润£45,000**（注21）。
+- p.69：1808–1810年利沃诺是**自由港**（免税存货），汉堡距丹麦属阿尔托纳**步行15分钟**；两地"thousands of people crossed the customs line daily"。
+- p.69–70：1810年底两地此类欺诈终止（利沃诺自由港资格取消、汉堡执法骤严）→ 走私转入"more discreet"形态，并向**西班牙、那不勒斯、波罗的海诸国**等"relatively open"的陆上边界转移。
+- p.68：1807年波尔多入港船43%为外籍，**1808年仅2%**（注12）。
+
+**结论（p.70–71）**：拿破仑体制不能匹敌商人的资源与机巧，海关人员太少且薪低不可靠；这种无力"n'est pas une défaillance locale, occasionnelle ... mais plutôt une donnée **structurelle**"（博论摘要语，见 Septentrion/EUI 书目页）。
+
+## B. 法国海关行政自身的数字（AHAD＝Association pour l'Histoire de l'Administration des Douanes）
+
+⚠️ 来源层级：协会网站转载 Raphaël Schneider《La douane française au combat》(2020) 与《Cahiers d'histoire des douanes et droits indirects》N°24（2001），后者又本于 Jean Clinquart《L'Administration des douanes en France sous le Consulat et l'Empire (1800–1815)》。**属二/三手，未见原始编制表**；与Heckscher/Marion的关税收入数存在口径冲突（见下）。

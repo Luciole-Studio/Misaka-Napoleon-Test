@@ -1,0 +1,64 @@
+                                                     Table 12 about here
+
+
+
+                                   4.4     The Impact on Shooting Associations
+
+To test empirically if the Napoleonic treatment in the Rhineland resulted in a higher number of shooting
+
+clubs founded per year compared to Westphalia, I use the foundation dates of shooting clubs available
+
+in a panel of 128 districts and an annual time period from 1700 to 1900. I aggregate the data on the
+
+district level into four different periods composed of 50 years, i.e. 1700 – 1750, 1750 – 1800, 1800 –
+
+1850 and 1850 – 1900.36 I run a set of binary regressions - equivalent to simple t-tests - comparing the
+
+mean number of clubs founded per province per period. Results are shown in Table 13 .
+
+                                                     Table 13 about here
+
+The results indicate that both provinces did not differ significantly in the average number of clubs founded
+
+during the period from 1700 to 1750. However, starting from the second period I find a significant
+
+differences between the two provinces. From 1750 to 1800 on average an addition of 0.3 shooting clubs
+
+per district were founded in Westphalia. The negative difference aggravates in the period between 1800
+
+and 1850. Only from 1850 onwards, a the sign of the mean difference changes and gets positive. From
+
+1850, more clubs were founded in the Rhineland using the Code Civil then in the neighboring province
+
+of Westphalia.37 The same pattern shows up when the lagged cumulative number of clubs per district
+
+is controlled for in Panel B. On the one hand should be cautious generalizing those results, as the type
+
+of association is particular. An explanation for the spike in the number of clubs founded in Westphalia
+
+in the years from 1800 to 1850 could, for example, be the high number of veterans returning from the
+
+Napoleonic wars. On the other hand, the evidence shows roughly the expected pattern. While before
+
+1800 there was no or even a negative different in associations in the Rhineland vs Westphalia, this trend
+
+turns during the 19th century.
+
+
+
+                     4.5     Summary: Trade and Associations in 19th century Prussia
+
+This section using historical social capital supports the findings described in section 3. Although each
+
+regression by itself might have drawbacks, as they do not account for unobserved heterogeneity on the
+   36 The reason for aggregating the data rather than running a panel regression comes from the concern that in a panel re-
+
+gression, serial and spatial correlation potentially bias the estimation results. With only two cross-sectional units for which the
+treatment varies, and thus only two potentially cluster, clustering is in this case not a feasible option to account for this. See
+also Bertrand, Duflo, and Mullainathan (2003).
+    37 Running regressions with panel data produces the same results.
+
+
+
+
+                                                               27

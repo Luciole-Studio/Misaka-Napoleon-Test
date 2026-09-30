@@ -1,0 +1,24 @@
+
+
+##### Others
+
+[BONS DE LIQUIDATION 3%(ÉMISS. 1874 ET 1875) REMB. Á 500FR Bons de Liquidation Bons de liquidation Prices from 1875-01-15 to 1890-12-01](https://dfih.fr/securities/1965)[CERTIFICATS NÉGOCIABLES (DROIT À SOUSCRIPTION À UN CAPITAL NOMINAL DE 100 FRANCS DES OBLIG. DU TRÉSOR 3,5 % 1936 CATÉGORIE A) (V. AVIS N° 17321) Rights (Droits) Droit de souscription Prices from 1936-12-21 to 1936-12-31](https://dfih.fr/securities/101537)[5% 1920 RUBRIQUE SPÉCIALE. SOUSCIPTION Droits de souscription Droit de souscription Prices from 1920-09-15 to 1920-11-30](https://dfih.fr/securities/22133)[4% 1917 RUBRIQUE SPÉCIALE. SOUSCIPTION Droits de souscription Droit de souscription Prices from 1920-09-15 to 1920-11-30](https://dfih.fr/securities/22132)[5% 1915-1916 RUBRIQUE SPÉCIALE. SOUSCIPTION Droits de souscription Droit de souscription Prices from 1920-09-15 to 1920-11-30](https://dfih.fr/securities/22131)[3,5% 1952-1958 OPTIONS Option](https://dfih.fr/securities/22253)[EMPRUNT 4,50% 1973 OPTIONS Option](https://dfih.fr/securities/21358)[EMPRUNT 4,50% 1973 OPTIONS Option](https://dfih.fr/securities/21278)[3,50% 1952-1958 OPTIONS Option](https://dfih.fr/securities/21275)[3,50% 1952-1958 OPTIONS Option](https://dfih.fr/securities/21212)
+
+Report an issue on this page
+
+How to:
+
+[Cite the DFIH project](https://dfih.fr/cite)
+—
+[Use the data or the software](https://dfih.fr/use)
+—
+[Contribute to project](https://dfih.fr/contribute)
+
+Text & data:
+
+Copyright © 2010-2018 École d’économie de Paris (PSE)
+
+Software:
+
+Copyright © 2018 École d’économie de Paris (PSE) —
+[Source code](https://gitlab.huma-num.fr/eurhisfirm/dfih-ui)

@@ -1,0 +1,38 @@
+variable with: a) the natural logarithm of the a department’s average slope; b) a Box-
+Cox transformation of a department’s average terrain ruggedness; c) average terrain
+ruggedness; and d) a department’s average slope.
+
+Table 5: Conscription rate and geography using alternative measures of ruggedness.
+ Conscription rate          (1)             (2)            (3)           (4)         (5)
+                                                      Log of slope
+ Log of slope             -0.82309        -1.39353      -0.84083      -2.30203    -2.33678
+                        (0.14016)***   (0.27522)*** (0.29716)*** (0.47317)*** (0.50813)***
+                        [0.25532]***   [0.39176]*** [0.36827]** [0.45060]*** [0.48918]***
+ Observations                555             535           535           365         365
+ R-squared                 0.14019        0.68178        0.69403       0.74369     0.74372
+                                         Zero-skewness Box-Cox transformation
+ Ruggedness (Box-Cox)     -0.78669        -1.38140      -0.85846      -2.27219    -2.27052
+                        (0.13831)***   (0.26791)*** (0.28663)*** (0.46010)*** (0.48473)***
+                        [0.25508]***   [0.37779]*** [0.35246]** [0.44376]*** [0.47384]***
+ Observations                555             535           535           365         365
+ R-squared                 0.13774        0.68195        0.69455       0.74397     0.74397
+                                                      Ruggedness
+ Ruggedness               -0.71301        -0.70598      -0.12941      -0.90225    -0.99963
+                        (0.10637)***   (0.21191)***    (0.22429)    (0.38445)** (0.57212)*
+                        [0.17767]***    [0.31186]**    [0.26605]     [0.52589]*  [0.64317]
+ Observations                555             535           535           365         365
+ R-squared                 0.15372        0.67050        0.68874       0.73068     0.73073
+                                                          Slope
+ Slope                    -22.93019      -22.13465      -3.59244     -27.56246   -29.60171
+                        (3.39834)***   (6.72673)***    (7.11496)   (12.25263)** (18.34899)
+                        [5.66534]***    [9.91908]**    [8.45820]     [16.92565] [20.71725]
+ Observations                555             535           535           365         365
+ R-squared                 0.15377        0.67027        0.68868       0.73032     0.73034
+ Same Controls
+ as in Table 1               X               X             X          X            X
+                                 *** p<0.01, ** p<0.05, * p<0.1
+
+
+
+
+                                              17

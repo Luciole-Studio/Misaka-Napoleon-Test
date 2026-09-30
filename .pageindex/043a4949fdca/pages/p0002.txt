@@ -1,0 +1,28 @@
+## Sheet: R2_inputs.csv (continued)
+year,scenario,series,value,unit,price_basis,base_year,kind,quality,source_id,locator,note
+1810,S0,customs_receipts_paper,11.185,million_paper_rubles,nominal,none,observation_secondary,provisional_transcitation,S10,customs_series_MinFin1902,nominal
+1811,S0,customs_receipts_paper,15.828,million_paper_rubles,nominal,none,observation_secondary,provisional_transcitation,S10,customs_series_MinFin1902,nominal
+1812,S0,customs_receipts_paper,19.315,million_paper_rubles,nominal,none,observation_secondary,provisional_transcitation,S10,customs_series_MinFin1902,nominal
+1810,S0,speransky_starting_revenue_budget,125,million_account_rubles,nominal_account,none,observation_secondary,contemporary_report,S05,II_V_opening,not audited outturn
+1810,S0,speransky_starting_expenditure_budget,225,million_account_rubles,nominal_account,none,observation_secondary,contemporary_report,S05,II_V_opening,not audited outturn
+1810,S0,speransky_reported_paper_debt,577,million_paper_rubles,nominal,none,observation_secondary,contemporary_report,S05,II_V_opening,report opening stock chronology differs from S11
+1810,S0,speransky_reported_additional_issue,43,million_paper_rubles,nominal,none,observation_secondary,contemporary_report,S05,II_V_1,author narrative; not same as stock difference
+1811,S0,speransky_revenue_budget,275,million_account_rubles,nominal_account,none,observation_secondary,contemporary_report,S05,II_V_2,not real resources doubled
+1806,S0,uk_share_hemp_exports,61,percent,share,1806,observation_secondary,table_image_checked,S02,p263_table29,Oddy via Davey
+1806,S0,france_share_hemp_exports,2.4,percent,share,1806,observation_secondary,table_image_checked,S02,p263_table29,Oddy via Davey
+1806,S0,iberia_share_hemp_exports,7,percent,share,1806,observation_secondary,table_image_checked,S02,p263_table29,includes Portugal
+1806,S0,holland_germany_other_share_hemp_exports,15.9,percent,share,1806,observation_secondary,table_image_checked,S02,p263_table29,includes British reexport intermediaries
+1806,S0,america_share_hemp_exports,13.7,percent,share,1806,observation_secondary,table_image_checked,S02,p263_table29,not all cargo ultimate destination certain
+1806,S0,uk_share_flax_exports,91.26,percent,share,1806,observation_secondary,table_incomplete,S02,p263_table29,flax column sum99.28 not100
+1806,S0,uk_share_tallow_exports,76,percent,share,1806,observation_secondary,table_incomplete,S02,p263_table29,tallow column sum79.88 not100
+1806,S0,uk_share_iron_exports,75,percent,share,1806,observation_secondary,table_image_checked,S02,p263_table29,not pig iron domestic output
+1800,S0,hemp_annual_export_scale,60000,tons_author,physical,none,estimate_author,approx_circa1800,S01,p28_and_p39n22,not exact1806 and tons convention unspecified
+1800,S0,iron_annual_baltic_white_sea_export_scale,40000,tons_author,physical,none,estimate_author,approx_circa1800,S01,p31,not pig iron domestic output
+1803,S0,flax_export_scale,15000,tons_author,physical,none,estimate_author,approximate,S01,p39n22,about; British near10000
+1803,S0,uk_flax_import_scale,10000,tons_author,physical,none,estimate_author,approximate,S01,p39n22,nearly; differs from1806 distribution
+1800,S0,pig_iron_production,162000,metric_tonnes,physical,none,observation_secondary,footnote_only,S13,note8,Strumilin via McKay
+1811,S0,population_excl_poland_finland,43.785,million_people,physical,none,estimate_author,retrospective_geography,S15,table6,statistical comparison area; not exact contemporaneous borders
+1838,S0,european_russia_population_49_provinces,48.8254,million_people,physical,none,estimate_author,retrospective_geography,S15,table10,table7 calls50; table10 calls49
+1851,S0,european_russia_population_49_provinces,52.8645,million_people,physical,none,estimate_author,retrospective_geography,S15,table10,anchor beyond forecast endpoint
+1811,S0,european_russia_population_49_provinces,41.8056,million_people,physical,none,estimate_author,retrospective_geography,S15,table10,not all empire
+1837,S0,tsarskoe_selo_railway_final_route_length,27,km,physical,none,observation_secondary,institutional_history,S17,route_length_paragraph,after extension; not national network

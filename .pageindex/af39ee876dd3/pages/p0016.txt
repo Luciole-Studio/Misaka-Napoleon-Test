@@ -1,0 +1,34 @@
+1072                              Rouanet and Piano
+
+
+
+
+                                      Figure 3
+                             RUGGEDNESS IN HAUTE-VIENNE
+
+Source: Nunn and Puga (2012).
+
+we include military division fixed effects to mitigate any potential bias
+due to division-specific characteristics.
+   The use of ruggedness in this context comes with a significant draw-
+back. Specifically, the Alpine departments of France have high ruggedness
+values due to the presence of tall mountains with large glaciers. Yet, they
+are unlikely to provide good shelter for fugitives like draft dodgers. Above a
+certain altitude, fugitives’ survival is compromised by the very low temper-
+atures and the lack of sources of nourishment. The bottom panel in Figure 4
+shows how a handful of observations introduce skewness in the data. The top
+panel shows that the use of the natural logarithm of Ruggedness mitigates
+the potential bias introduced by the inclusion of the Alpine departments.30
+   Table 1 reports the results of six OLS specifications on the effect of
+geographical characteristics on draft dodging rates across French depart-
+ments. The coefficients of our main explanatory variable (“Log of rugged-
+ness”) are large, positive, statistically significant across all specifications,
+  30
+     In Online Appendix F.1.2, we adopt two strategies to deal with rugged areas that are unlikely
+to be relevant to a conscript’s draft evasion choice. First, we recalculate the mean of terrain
+ruggedness for each department while excluding all land more than 2 km above sea level. Second,
+we exclude land covered by glaciers and mountainous rocks without any vegetation. We then
+reproduce the results in Table 1. The results are consistent with those using the natural logarithm
+of ruggedness and confirm that the inclusion of observations with very high altitudes introduces
+bias in the analysis, thus further justifying our choice to use the natural log of ruggedness as our
+main independent variable.

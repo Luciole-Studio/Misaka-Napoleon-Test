@@ -1,0 +1,65 @@
+{
+  "report_bytes": 69789,
+  "chronology_nodes": 30,
+  "policy_menu_rows": 8,
+  "all_16_sections_present": true,
+  "literal_quote_checks": [
+    {
+      "source": "downloads/pages/3b8b8e348c6d.md",
+      "quote": "Exports were not trade",
+      "normalized_literal_match": true
+    },
+    {
+      "source": "downloads/pages/3b8b8e348c6d.md",
+      "quote": "we ought to have returns",
+      "normalized_literal_match": true
+    },
+    {
+      "source": "downloads/pages/0cf6ab7705f7.md",
+      "quote": "they would willingly bear the pressure without a murmur",
+      "normalized_literal_match": true
+    },
+    {
+      "source": "downloads/pages/ba2ab29e8259.md",
+      "quote": "counterbalance, in some measure",
+      "normalized_literal_match": true
+    },
+    {
+      "source": "downloads/pages/92274137edfc.md",
+      "quote": "invaluable constitution",
+      "normalized_literal_match": true
+    },
+    {
+      "source": "downloads/pages/e5b32951df65.md",
+      "quote": "ce véritable ouragan qui secoua toute l’économie britannique",
+      "normalized_literal_match": true
+    },
+    {
+      "source": "downloads/pages/ead7fbfac794.md",
+      "quote": "interina e provisoriamente",
+      "normalized_literal_match": true
+    },
+    {
+      "source": "downloads/pages/cd205de92b28.md",
+      "quote": "the anticipated unrest did not happen",
+      "normalized_literal_match": true
+    },
+    {
+      "source": "downloads/pages/98f3132e9a36.md",
+      "quote": "widely evaded",
+      "normalized_literal_match": true
+    }
+  ],
+  "all_literal_checks_pass": true,
+  "market_identity_rows_checked": 12,
+  "annual_missing_1813_retained": true,
+  "BoE1811_raw_and_corrected_retained": true,
+  "bounds_are_subjective_not_CI": true,
+  "visual_verification": "Heckscher p175/242/245 and Marshall p74 image checks; Markdown layout not rendered",
+  "limitations": [
+    "Literal matching is not contextual support",
+    "No pure Latin America domestic cash series",
+    "No general-equilibrium or regression identification",
+    "Book and official-series copying share source lineages"
+  ]
+}

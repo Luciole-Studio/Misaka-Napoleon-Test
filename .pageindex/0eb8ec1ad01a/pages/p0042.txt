@@ -1,0 +1,57 @@
+Pandey, S.K., and S.K. Kaushik, “Origin, Evolution, History and Spread of Potato,” in S.M. Paul
+  Khurana, J.S. Minhas, and S.K. Pandey, eds., The Potato: Production and Utilization in Sub-Tropics
+  (Mehta, New Delhi, 2003).
+
+Parker, Geoffrey, Cambridge Illustrated History of Warfare (Cambridge University Press, London,
+  2000).
+
+Preston, Samuel H., “The Changing Relation Between Mortality and Level of Economic Develop-
+  ment,” Population Studies, 29 (1975), 231–248.
+
+———, “Causes and Consequences of Mortality Declines in Less Developed Countries during
+ the 20th Century,” in Richard A. Easterlin, ed., Population and Economic Change in Developing
+ Countries (University of Chicago Press, Chicago, 1980), 289–360.
+
+———, “American Longevity: Past, Present, and Future,” (1996), mimeo, Syracuse University.
+
+Reader, John, Propitious Esculent: The Potato in World History (William Heinemann, London, 2008).
+
+Russell, J.C., British Medieval Population (University of New Mexico, Albuquerque, 1948).
+
+Salaman, Redcliffe, The History and Social Influence of the Potato (Cambridge University Press,
+  Cambridge, 1949).
+
+Stearns, Peter, The Industrial Revolution in World History, Third Edition (Westview Press, Boulder,
+  Colorado, 2007).
+
+Tiffin, Richard, and Xavier Irz, “Is Agriculture the Engine of Growth?” Agricultural Economics, 35
+  (2006), 79–89.
+
+Timmer, Peter, “The Turnip, the New Husbandry, and the English Agricultural Revolution,” Quar-
+  terly Journal of Economics, 83 (1969), 375–395.
+
+U.S. Department of Agriculture, USDA National Nutrient Database for Standard Reference, Release 20
+  (U.S. Department of Agriculture, Agricultural Research Service, Washington, D.C., 2007).
+
+Voigtländer, Nico, and Hans-Joachim Voth, “Why England? Demographic Factors, Structural
+  Change and Physical Capital Accumulation during the Industrial Revolution,” Journal of Eco-
+  nomic Growth, 11 (2006), 319–361.
+
+Wrigley, E.A., R.S. Davies, J.E. Oeppen, and R.S. Schofield, English Population History from Family
+ Reconstitution, 1580–1837 (Cambridge University Press, Cambridge, 1997).
+
+Young, Arthur, The Farmer’s Tour through the East of England, Volume 4 (W. Strahan, London, 1771).
+
+
+
+A. Data Appendix
+
+Crop suitability measures
+
+Data on the suitability of climates for growing different crops are from the FAO’s Global Agro-
+
+Ecological Zones (GAEZ) 2000 database (http://fao.org/Ag/AGL/agll/gaez/index.htm). We use
+
+the country level measures that have constructed by the FAO for our country-level regressions.
+
+                                                40

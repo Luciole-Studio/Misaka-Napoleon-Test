@@ -1,0 +1,33 @@
+1066                             Rouanet and Piano
+
+
+
+
+                                    Figure 1
+                  THE FALL OF DRAFT-DODGING RATES OVER TIME
+
+Sources: Archives Nationales, AF/IV/1124, n. 1 and n. 9.
+
+
+the Archives Nationales (hereafter AN) in Paris.13 The information was
+originally collected by Jean-Gérard Lacuée, Napoléon’s minister of war.
+Part of Lacuée’s responsibilities was to gather data on the administration
+of conscription across France. This novel dataset contains information
+about draft-dodging rates, conscription rates, and the number of draftees
+deemed unfit to serve. Measures for these variables refer to France’s 110
+departments (plus the island of Elba) for each year between 1806 and
+1810.14 These include departments from territories France annexed from
+neighboring Italy, Switzerland, Germany, and Belgium.15
+   During the Napoleonic wars, the French government kept detailed
+records of each conscript’s history in the Registres Militaires, which
+are still accessible in most departmental archives. If they joined the
+  13
+      AN, AF/IV/1124. See Rouanet and Piano (2022) to access the data and code in this paper.
+  14
+      The unit of observation, the departments, “were purely administrative divisions, determined
+for largely political reasons in 1790 by revolutionaries determined to break down the old
+provincial loyalties of the Ancien Régime. They did not represent any common tradition or
+political experience, nor did they necessarily present any geographical or economic coherence”
+(Forrest 1989, p. 72).
+   15
+      See Online Appendix D for a detailed discussion of all our variables.

@@ -1,0 +1,59 @@
+---
+source_url: "https://fr.wikisource.org/wiki/D%C3%A9cret_portant_organisation_de_l%E2%80%99Universit%C3%A9"
+final_url: "https://fr.wikisource.org/wiki/D%C3%A9cret_portant_organisation_de_l%E2%80%99Universit%C3%A9"
+provider: "exa"
+text_sha256: "d7eaef24377ff90b4a40cd7a97835be6b309fe19b9a9bacc63b9f47306d0edf7"
+title: "D\u00e9cret portant organisation de l\u2019Universit\u00e9 - Wikisource"
+content_kind: "page_text"
+---
+
+Décret portant organisation de l’Université - Wikisource
+
+Décret impérial portant organisation de l’Université
+
+Imprimerie impériale, 1808 (p. 168-194).
+
+bookDécret impérial portant organisation de l’Université Napoléon Ier Imprimerie impériale1808ParisCDécret portant organisation de l’UniversitéBulletin des lois de la République Française, série 4, tome 8, premier semestre 1808, n° 174 à 196.djvuBulletin des lois de la République Française, série 4, tome 8, premier semestre 1808, n° 174 à 196.djvu/1168-194
+
+Au palais des Tuileries, le 17 mars 1808.
+
+NAPOLÉON, par la grâce de Dieu et les constitutions, empereur des Français, roi d’Italie, et protecteur de la Confédération du Rhin,
+
+Vu la loi du 10 mai 1806, portant création d’un corps enseignant,
+
+Notre Conseil d’État entendu,
+
+Nous avons décrété et décrétons ce qui suit :
+
+## Titre Ier : organisation générale de l’Université
+
+#### Article premier
+
+L’enseignement public, dans tout l’Empire, est confié exclusivement à l’Université.
+
+#### Article 2
+
+Aucune école, aucun établissement quelconque d’instruction ne peut être formé hors de l’Université impériale, et sans l’autorisation de son chef.
+
+#### Article 3
+
+Nul ne peut ouvrir d’école, ni enseigner publiquement, sans être membre de l’Université impériale, et gradué par l’une de ses facultés. Néanmoins, l’instruction dans les séminaires dépend des archevêques et évêques, chacun dans son diocèse. Ils en nommeront et révoqueront les directeurs et professeurs. Ils sont seulement tenus de se conformer aux règlements pour les séminaires, par nous approuvés.
+
+#### Article 4
+
+L’Université impériale sera composée d’autant d’académies qu’il y a de cours d’appel.
+
+#### Article 5
+
+Les écoles appartenant à chaque académie, seront placées dans l’ordre suivant :
+
+1. Les facultés, pour les sciences approfondies, et la collation des grades ;
+2. Les lycées, pour les langues anciennes, l’histoire, la rhétorique, la logique, et les éléments des sciences mathématiques et physiques ;
+3. les collèges, écoles secondaires communales, pour les éléments des langues anciennes et les premiers principes de l’histoire et des sciences ;
+4. les institutions, écoles tenues par des instituteurs particuliers, où l’enseignement se rapproche de celui des collèges ;
+5. les pensions, pensionnats, appartenant à des maîtres particuliers, et consacrés à des études moins fortes que celles des institutions ;
+6. les petites écoles, écoles primaires, où l’on apprend à lire, à écrire, et les premières notions de calcul.
+
+## Titre II : de la composition des facultés
+
+#### Article 6

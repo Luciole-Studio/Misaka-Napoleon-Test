@@ -1,0 +1,52 @@
+GRP : revues JOB : num121⊕xml DIV : 10⊕LevyGarbouaMonnet p. 11 folio : 45 --- 5/4/016 --- 16H4
+
+
+
+
+                              LES TAUX D’INTÉRÊT EN FRANCE : UNE PERSPECTIVE HISTORIQUE
+
+
+
+                Le graphique 10, qui élimine une partie du bruit des variations de
+             court terme en présentant les moyennes mobiles sur dix ans du taux
+             réel, fait bien ressortir ces évolutions et cette périodisation. À partir
+             de 1959, la valeur en moyenne mobile – qui peut représenter les
+             gains espérés sur l’ensemble de la maturité de l’investissement si les
+             anticipations sont rationnelles – est systématiquement positive, en
+             dépit des fluctuations inflationnistes que nous avons précédemment
+             décrites et d’un taux réel de la banque centrale rarement positif avant
+             1982. La période qui s’ouvre au début des années 1980 a ensuite
+             entraîné un retour à des niveaux de rendement réel proches de ceux
+             du XIXe siècle.
+
+                                                        Graphique 10
+                                               Taux d’intérêt réel, 1809-2015
+                                                 (moyenne mobile sur dix ans)
+
+
+
+
+                                                                                                                 45
+
+
+
+
+                            ère
+             Sources : cf. 1 partie de l’article intitulée « Présentation des données » ; calculs des auteurs.
+
+
+
+
+                                                     Taux réels et inflation
+                Le graphique 11 (infra) superpose à cette courbe lissée des taux réels
+             la courbe de l’inflation (lissée) et met en évidence l’opposition de
+             phase entre les deux courbes : le taux d’intérêt réel apparaît comme
+             la figure inversée de l’inflation sur presque toute la période. Ce qui
+             ressort en outre, c’est la spécificité de la période récente, à partir de
+             1995-2000 : la corrélation négative subsiste, mais n’est plus aussi
+             nette. La baisse de l’inflation moyenne depuis le milieu des années
+             1990 n’a pas entraîné de hausse des rendements, mais s’est au
+             contraire accompagnée d’une baisse de ces derniers. Cette période
+             apparaît donc comme exceptionnelle avec des taux réels bas en raison
+             de taux nominaux bas et d’une inflation basse, deux phénomènes non
+             observés dans le passé.

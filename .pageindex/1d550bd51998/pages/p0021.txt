@@ -1,0 +1,41 @@
+    Both methods perform poorly when markets only gradually integrate news. This would for
+example be the case for institutions’ credibility. Therefore, if anything, finding positive results for
+such variables should be interpreted as a minimum impact as their effect could be even higher if
+the analysis was based on an alternative method. With those caveats in mind, we apply these two
+methodologies on our sample of French yields. Results are presented and discussed in the next
+section.
+
+
+    VI.     Empirical evidence
+
+
+    We aim at studying the presence of potential structural changes in the evolution of the
+French bond yields over a time period of ten years, between 1815 and 1825 as well as the impact
+of several identified events on the same yield. More specifically, we analyze to what extent the
+newly created institutions following the Waterloo defeat along with the different decisions meant
+to enhance their credibility, but also the occupation of the French territory by the enemy, could
+explain the observed decline in the French debt yields.
+
+    We start by reporting some descriptive statistics for both the French and British yields, i.e.
+5% French rente and 3% British consol. Table 2 shows that the yields of the French rente are, on
+average, higher than those of the British consol (by almost 2.5%), while also being more volatile
+(e.g. higher standard deviation). The French yield culminates at almost 10%, which is twice as
+much as the maximum British yield. Both yields are non-Gaussian, more specifically leptokurtic
+and positively skewed (significantly in the case of the French one).
+
+                                                Insert Table 2 about here
+
+    We also check for the presence of potential unit roots in our two series, by performing the
+Augmented Dickey-Fuller test. Our results, as reported in Table 3, show evidence that while for
+the British consol we cannot reject the presence of a unit root, the French rente is stationary when
+we take into account an intercept and a trend.
+
+                                                Insert Table 3 about here
+
+    We then apply the structural break approach in order to check for the presence of potential
+major changing points in the evolution of the French yields. More specifically, we estimate the
+following version of the general model presented in (2), namely
+
+                yt   1, j   2, j t j   3, j yt 1  ut     t  T j 1  1,..., T j j  1,..., m  1   (5)
+
+                                                                                                                   20

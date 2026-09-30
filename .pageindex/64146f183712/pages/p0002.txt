@@ -1,0 +1,21 @@
+
+
+## B. 亲读的转引/摘录层（非全文）
+21. Breazeale编者导论（Fichte's Addresses to the German Nation Reconsidered, SUNY 2016）——经asau.ru镜像PDF检索摘录读取（两次下载超时未存全文）：600册/首月、1813"seldom invoked"（转Gregory Moore）、1824普鲁士审查拒绝再版、1862 Treitschke封圣、法占当局无动作、Varnhagen回忆。
+22. Moore译本导论（Cambridge, 2008）预览摘录：1807-12-13开讲、听众"small and unrepresentative"。对照：Wikisource 1922 Jones&Turnbull导论（亲读）："crowded audiences"、Stein评语、死因（妻护理1813伤兵染疫）。两说并存已在正文注明。
+23. Hagemann, Revisiting Prussia's Wars against Napoleon (2015)：目录（Cambridge页亲读）＋书评摘录（Minsky GSR 2017；Academia书评：280,720动员数）。转引层级已标。
+24. Klöffler, Materialien zu den Aushebungen der preußischen Landwehr 1813-15（napoleon-online PDF检索摘录）：3%男性人口、Landwehr编成、禁代役、FJ条例引文。
+25. Field, "The social composition of English Methodism to 1830" (BJRL 76/1)（manchesterhive PDF检索摘录）：1830英格兰会员≈232,000、会众倍数2–6（中位3–4）、女性57.7%；Wesley Hist. Soc. Proceedings摘录：1809–10增5,911=4.5%。
+26. Walter书评转述（H-Nets 2007）："Hagemann für den Süden"定位语。
+
+## C. 复用已验收卡（注路径，不重复论证）
+- t_b09c54（上一轮C8）：帝国大学1808令第38条效忠条款[S10]；Coffin审查研究[S13]；Maras科学/Arcueil[S12]；Zacharie加冕-公投[S3]。`nodes/r_b55f2c1cf5/cards/t_b09c54/c8_order_model.md`
+- t_f3c44f（上一轮C10）：制度移植因果证据（ACJR/Kopsidis-Bromley/Juhász/Buggle/Lecce-Ogliari）：收益时滞、文化接近性调节。`nodes/r_b55f2c1cf5/cards/t_f3c44f/c10_causal_evidence.md`
+- 本运行已验收卡：F1（寿限带、克制先验）、F5（继承概率、教会横切−5–10pp、Lainé事件）、IT1/IT2/IT3（意大利三判）、SP1/SP2（西班牙开关与pronunciamiento窗）、PL、R1/R2/R3、A、PR、G1、G2、NL、SC、IE、B1/B4/B5/B6、US、HT、MX、SA、EG、OT、PS、IN1——均经协调台账与验收摘要引用，正文注卡号。
+- E1接口：Tambora 1816–17、1845–47歉收外生恒在（该卡多源已核）。
+
+## D. 权重记忆（正文已逐处标注【权重记忆】并给通行出处名；未亲核）
+巴黎政治报1811年压至4家（1811-09敕令；Cabanis, La presse sous le Consulat et l'Empire）；Journal de l'Empire≈32,000订户；Times≈5,000（1815）；Cobbett 2d Register 4–6万/周（Thompson）；Rheinischer Merkur≈3,000与1816查禁（"第五大国"评语标传闻层）；Maggiolo签名率（Furet & Ozouf）；Schofield英格兰签名率；Eulenburg德大学生数；Hroch相位框架；Institut 1803-01改组撤销道德政治科学部；Cambacérès与帝国共济会；Saint-Simon/Fourier/Owen/Buonarroti书目系年；Koenig/Robert-Fourdrinier/Senefelder技术史；décret infâme 1808十年期限1818失效；Marx家改宗史实；List 1819请愿；卢德镇压兵力≈12,000（Darvall/Thomis）；Peterloo死数15–18（Poole 2019）；1839请愿≈1.28m。——以上任一被后续核验推翻即触发对应段落重校（交付§17-E5同理）。
+
+## E. 未获全文（可裁事项见交付§19）
+Planert 2007原书；Hagemann 2015原书；Rath AHR 1964；Thompson 1963；Chase 2007；Hobsbawm；Vick；Sheehan。Anna's Archive脚本本运行被bash守卫拒绝（多卡同报，台账在案）；Breazeale PDF镜像两次下载超时。以上列后续轮"X4-sup"候选。

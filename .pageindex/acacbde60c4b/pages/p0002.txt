@@ -1,0 +1,53 @@
+
+
+## 三、附表C：An XI(1803)–1814 非常融资来源全表（百万法郎）
+
+页眉 p.13末–14。表题 "Origin of amounts used to finance the additional cost of the war in millions of francs"。
+
+| 来源 | 金额 | 所列% |
+|---|---:|---:|
+| **国库支付** | | |
+| Indirect contributions（间接税） | 1,272 | 29.69% |
+| Sale of property and deductions（卖产与扣减） | 224 | 5.23% |
+| Special customs duties（特别关税） | 137 | 3.20% |
+| Additional centimes（加征生丁） | 62 | 1.45% |
+| Deposits（公职保证金） | 69 | 1.61% |
+| Loans from Napoleon's civil list（民事清单贷款） | 95 | 2.22% |
+| **国库小计** | **1,859** | **43.39%** |
+| **由战争支付** | | |
+| 'Ordinary contributions' 及敌国没收财产 | 809 | 18.88% |
+| Loans from the Domaine extraordinaire | 154 | 3.59% |
+| External revenue stemming from the treaties（条约外部收入） | 453 | 10.57% |
+| Savings（盟军特遣队＋盟国供养的驻屯法军） | 383 | 8.94% |
+| **战争小计** | **1,799** | **41.99%** |
+| Unpaid expenditure – Total deficit（未付支出/赤字） | 503 | 11.74% |
+| Loans from private institutions (Banque de France) | 123 | 2.87% |
+| **总计** | **4,284** | **100.00%** |
+
+**本卡复算（全部通过）**：1272+224+137+62+69+95＝1,859 ✓；809+154+453+383＝1,799 ✓；1859+1799+503+123＝4,284 ✓；1272/4284＝29.692% ✓；1859/4284＝43.393% ✓；1799/4284＝41.993% ✓；503/4284＝11.741% ✓；123/4284＝2.871% ✓。**该表内部完全自洽。**
+
+### 关键复算发现：383 的构成被验证，而正文的 352 无法复现
+253,748,180 法郎（附表A）＋129.1m（附表B）＝**382.85m ≈ 表列 383**。
+但 Branda **正文**（页眉p.7段）写：「– 352 million francs in savings achieved through the use of allied conscripts and the sending of French troops to be stationed abroad」，又在同段前写「savings totalling over 380 million francs」。
+→ **同一篇文章的正文在两处自相矛盾（352 vs 380+），而附表383可由其两张明细表精确复算。** 本卡采 **383**，并记录 352 为**不可复现的正文数字**。（上一代次只记了"352/383并存不予调和"，本次给出了判定依据。）
+
+### 其他正文／附表差异（保留不调和）
+| 项 | 正文 | 附表C | 差 |
+|---|---:|---:|---:|
+| 加征税 | 80 | 62 | 18 |
+| 卖产 | 232 | 224 | 8 |
+| 公职保证金 | 59 | 69 | −10 |
+| 间接税 | "over 1.2 billion"（酒与烟草） | 1,272 | 口径描述不同 |
+
+## 四、非常贡赋的索取与实收（附表D，页眉p.11）
+
+表题 "List of the Treaties where the financial clauses directly benefited the Domaine Extraordinaire"，三列为 计划额／1814年未付／实收。
+- 合计行：**Total 414 136 278**（复算 414−136＝278 ✓）。
+- 分项可见：Pressburg 1805-12-26 **40**（全额）；Saxony 1806-10-15 法令 **25**；German states 1806-10-15 法令 **25**；Vienna 1809-10-14 **85 / 12 / 73**（85−12＝73 ✓）；Saxony 1810-02-03 公约 **17 / 17 / 0**；Hanover 割予威斯特法利亚 1810-01-14 **15 / 15 / 0**；Danzig 市公约 1810-07-23 **17 / 17 / 0**。
+- **正文另称**：「Europe as a whole, apart from Italy, had to pay 'extraordinary contributions' worth about 414 million francs between 1805 and 1813… **only 276 million was actually paid** into the coffers of the 'extraordinary domain'」。
+→ **276（正文）vs 278（附表）** 再一处小差，保留。
+→ 且正文称「extraordinary contributions brought in over 600 million (454 paid directly and 154 borrowed)」，而附表C条约外部收入为 **453**。**454/453 差异保留**；更要紧的是 **414（不含意大利的条约计划额）与 453（条约外部收入）口径不同，不得互换**。
+
+**普鲁士（正文注11）**：Daru 1807-08-29 估普鲁士欠款 154.5m（非常贡赋97＋普通贡赋57.5）；至该日已付非常33、普通11；1808 埃尔福特又加约24。合计非常贡赋154m（提尔西特前付33＋埃尔福特后索121）。正文并引 Kerautret：该贡赋问题「**to poison** (and the term is not excessive) Franco-Prussian relations」，占领持续近七年直至付清。
+
+**Domaine Extraordinaire 资产（注12）**：持萨克森贷款7.355m、对威斯特法利亚贷款1m、意大利股份3.97m。来源标注为 *Inventaire du Domaine Extraordinaire au 18 juin 1815*, **private collection**（私人收藏，**本卡无从核对**）。

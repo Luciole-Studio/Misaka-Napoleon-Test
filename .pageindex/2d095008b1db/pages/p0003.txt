@@ -1,0 +1,49 @@
+
+
+5个 `sustained` 正例：VE1809（威尼托）、NA1799（那不勒斯）、CA1806（卡拉布里亚）、TY1809（蒂罗尔）、ES1808（西班牙）。
+
+| 条件 | 出现于5个正例中的几个 |
+|---|---|
+| **R 宗教政策冲突** | **5 / 5** |
+| **O 外部军事机会** | **5 / 5** |
+| S 主权破坏 | 4 / 5 |
+| T 地形庇护 | **4 / 5**（威尼托1809是平原反例） |
+| coast_access | 4 / 5 |
+| dynasty_exile 流亡正统王朝 | 4 / 5 |
+| brigand_tradition | 4 / 5 |
+| **E 精英吸纳** | **1 / 5**（仅威尼托） |
+
+这是**样本内的一致性模式，不是总体必要性证明**（n=5，且样本为目的抽样）。但它与一条独立提出的假说吻合：Woolf直言"Apart from Spain, only two revolts seriously challenged French authority: the endemic war in Calabria and the Tyrol rising. **Both were dependent on outside support from a major power**"，并说明西西里的Sidney Smith持续付钱给卡拉布里亚匪帮，"as otherwise they would have dissolved"；蒂罗尔则是"Without the Austrian propagandist Hormayr and the military support of Archduke John, it is doubtful whether Andreas Hofer could ever have succeeded"（Woolf, 印pp.232–233）。西班牙同理："The inability of the French generals, divided by personal rivalries, to destroy the British army decisively was an essential precondition of the Spanish resistance"（Woolf, 印p.234）。
+
+**独立性警告**：Grab印p.25的"只有三处持续起义（Calabria 1806–8, Iberia 1808–13, Tyrol 1809）"与Esdaile印p.205对该判断的转述，与Woolf出自同一谱系，**不计为三条独立互证**。
+
+### 4.3 政策束：法国自己能拧的旋钮
+
+按 S（主权破坏）× R（宗教冲突）× D（征兵冲击）× E（精英吸纳）分组：
+
+| S | R | D | E | n | 大规模起义率 | 持续率 | 案例 |
+|---|---|---|---|---|---|---|---|
+| 1 | 1 | 0 | 0 | 8 | **1.00** | 0.25 | PI1798, TU1799, PV1796, NA1799, CH1798, CH1802, ES1808, PT1807 |
+| 1 | 1 | 1 | 0 | 6 | 0.67 | 0.33 | BE1798, RH1796, CA1806, TY1809, IL1810, IL1813 |
+| 0 | 1 | 1 | 1 | 2 | 1.00 | 0.50 | VE1809, EM1809 |
+| 1 | 0 | 1 | 1 | 6 | 0.50 | 0.00 | LI1805, TU1808, NL1811, NL1813, HH1806, WE1809 |
+| 1 | 0 | 1 | 0 | 2 | 1.00 | 0.00 | PA1806, HH1813 |
+| 0 | 0 | 1 | 1 | 3 | 0.33 | 0.00 | BG1813, BA1813, PL1807 |
+| **0** | **0** | **0** | **1** | 6 | **0.33** | **0.00** | BE1802, RH1802, PI1809, ZH1804, CH1805, NL1809 |
+
+再按"挑衅计数"（S+R+D之和）× 外部机会 O 交叉：
+
+| 挑衅计数 | O=0 | O=1 |
+|---|---|---|
+| 0 | n=5，mass 0.20，sust 0.00 | n=1，mass 1.00，sust 0.00 |
+| 1 | n=1，mass 0.00，sust 0.00 | n=3，mass 0.33，sust 0.00 |
+| 2 | n=5，mass 0.40，sust 0.00 | **n=13，mass 1.00，sust 0.23** |
+| 3 | n=3，mass 0.33，sust 0.00 | n=4，mass 0.75，**sust 0.50** |
+
+**读法（推断，非估计）**：`O=0` 那一列，无论挑衅几项，持续抵抗率全部为0；大规模起义率在0.00–0.40之间波动。`O=1` 且挑衅≥2项时，13个单元**全部**发生大规模起义。这就是本卡对推演最有用的一条：**在英/奥/俄的军事可达范围之外，法国即使把政策旋钮拧到底，得到的也是"短暂而剧烈的骚乱"而非"西班牙溃疡"；而在其军事可达范围之内，两项挑衅即足以保证大规模起义。**
+
+### 4.4 两个异常案例：最有信息量的行
+
+**莱茵1796–99（配置1101却无大规模起义）**。这是唯一落在高风险配置却零值的案例。Rowe记录1794–97年莱茵驻法军 **136,000–187,000人，"about one-in-ten of the population"**，并直言"Armed resistance was out of the question, given French military power"（Rowe, "Resistance, Collaboration or Third Way?", in Esdaile ed. 2005, 印pp.72–73）。Rowe本人提出的反事实比较值得原样引用：若西班牙面对同等比例约130万驻军，是否还能同样反抗？——这是**比较论证，不是识别出的阈值或驻军因果效应**。它给推演的是一个上限概念：军事密度可以替代政治让步，但代价是同期的征发强度与长期怨恨。
+
+**苏黎世1804 Bocken战争（配置1010却发生起义）**。这是"保精英＋保自治"负例组中的唯一正例，而且它**不是反法起义**（`anti_french_explicit=0`）。Grab记录1804年3月苏黎世恢复地租与什一税赎金引发农民起义，由伯尔尼、弗里堡及中央军镇压（Grab, 印p.118）。德语专题研究给出细节：起义者由左岸湖区与Knonauer Amt乡镇组成，在Horgen上方击退苏黎世部队，需联邦增援才镇压，1804年4月25日三名主要领袖被处决；其话语是"自由与平等"，矛头指向恢复旧权利的地方政府（Rolf Graber, "Zur 'sozialen Logik' des Volksaufstandes von 1804 auf der Zürcher Landschaft", DOI 10.5167/uzh-78425）。

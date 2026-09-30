@@ -1,0 +1,40 @@
+---
+source_url: "https://fr.wikisource.org/wiki/Situation_financi%C3%A8re_de_la_France,_1843"
+final_url: "https://fr.wikisource.org/wiki/Situation_financi%C3%A8re_de_la_France,_1843"
+provider: "exa"
+text_sha256: "6e729a07931a3ad66daaa70c6d0addda85e855c4a68ce6a928a08d98f6e41891"
+title: "Situation financi\u00e8re de la France, 1843 - Wikisource"
+content_kind: "page_text"
+---
+
+Situation financière de la France, 1843 - Wikisource
+
+Situation financière de la France
+
+Revue des Deux Mondes, période initiale, tome 1, 1843 (p. 1017-1053).
+
+journalpériode initialeSituation financière de la France Léon Faucher Bureau de la Revue des Deux Mondes 1843ParisT tome 1 Situation financière de la FranceRevue des Deux Mondes - 1843 - tome 1.djvuRevue des Deux Mondes - 1843 - tome 1.djvu/91017-1053
+
+SITUATION FINANCIÈRE
+
+DE LA FRANCE.
+
+---
+
+I. PROJET DE LOI POUR LA FIXATION DES RECETTESET DES DÉPENSES DE L’EXERCICE 1844.
+
+II. COMPARAISON DES BUDGETS GÉNÉRAUX DE RECETTESET DE DÉPENSES DE 1843 ET DE 1830.
+
+III. COMPTE GÉNÉRAL DE L’ADMINISTRATIONDES FINANCES POUR L’ANNÉE 1841.
+
+IV. RAPPORT AU ROI SUR L’ADMINISTRATIONDES FINANCES, 1830.
+
+V. COMPTE-RENDU AU NOM DU CONSEIL-GÉNÉRALDE LA BANQUE DE FRANCE (26 janvier 1843).
+
+---
+
+À la fin de l’année 1840, et après les évènemens qui avaient changé ou plutôt dévoilé la situation de la France vis-à-vis de l’Europe, le ministère qui s’était formé au milieu de la tempête et qui s’était donné la mission de l’apaiser, déposa devant les chambres le bilan de notre situation financière, bilan de perspective, et dont, par un artifice peu digne du pouvoir en toute circonstance, il avait à dessein chargé le tableau.
+
+Le projet de loi sur les crédits supplémentaires et extraordinaires, présenté le 7 décembre 1840, évaluait le découvert probable du trésor, pour les années 1840, 1841 et 1842, à 839 millions. Un mois plus tard, le 18 janvier 1841, le ministre des finances proposait d’ouvrir, par la loi des travaux extraordinaires, un crédit de 534 millions, qui se confondait, jusqu’à concurrence de 146 millions, avec les estimations précédentes, et qui devait porter par conséquent le découvert du trésor à 1230 millions environ. Pour rendre ces calculs plausibles, le ministère avait fait figurer, au budget de la guerre, un effectif de 493,000 hommes, bien que l’armée n’en eût compté, à aucune époque, plus de 426,000 dans ses rangs. Par un effet de la même tactique, les budgets de 1841 et 1842 comprenaient un fonds de 36 millions, destiné à pourvoir aux intérêts et à l’amortissement d’un emprunt qui n’était pas encore contracté.
+
+Pendant que l’on entassait ainsi les chiffres sur les chiffres, afin d’élever à une hauteur chimérique la montagne du déficit, on nous signifiait en même temps qu’il n’y avait aucun soulagement à attendre de l’accroissement éventuel du revenu. La majorité de la chambre partageait sur ce point le désenchantement réel ou simulé du ministère ; car M. Thiers, ayant démontré un jour que les recettes du trésor s’augmentaient régulièrement en moyenne de 20 millions par année, fut interrompu par des murmures d’incrédulité. Et pourtant le revenu de 1840 offrait déjà une plus-value de 36 millions.

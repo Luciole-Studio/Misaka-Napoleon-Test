@@ -1,0 +1,64 @@
+Environ. Res. Lett. 14 (2019) 094019
+
+
+
+Fasullo et al 2017). In addition large volcanic eruptions     order polynomial ﬁtted to Central Euopean mean
+have been shown to lead to a reduction in global pre-         temperature (ﬁgure S1).
+cipitation (Iles et al 2013), a shift of the Inter Tropical        Sea-level pressure (SLP) gridded datasets are taken
+Convergence Zone away from the hemisphere of max-             from Küttel et al (2010). The gridded product uses sta-
+imum forcing (which can have a considerable effect on         tion SLP data and wind direction and wind strength
+monsoon rainfall; Stevenson et al 2016) and can wetten        derived from ship logbooks and constructs 5° × 5°
+some dry regions (Iles and Hegerl 2015). They also            gridded information from a multivariate principal
+induce dynamic changes in the large-scale circulation of      component regression using the dataset HadSLP2
+both ocean and atmosphere (Zanchettin 2017). The              (Allan and Ansell (2006)) as a target. In the early 19th
+eruption of Mount Tambora is therefore very likely to         century reconstruction skill is highest for winter. For
+have had a profound impact on a global scale (Raible          summer (the season of interest in this work) skill is
+et al 2016), causing widespread extreme climate ﬂuctua-       much higher over continental Europe than over the
+tions throughout the world in its aftermath and the fol-      Atlantic. And for the Atlantic skill is higher (and con-
+lowing years.                                                 sistently better than climatology) in the northern part
+     A link between the Mount Tambora eruption and            (50°–70 °N) than the south (20°–45 °N) where the
+the year without a summer was made as early as 1913           reconstruction has no more skill than climatology.
+by Humphreys (1913) and the 1816 year without a                    All climate reconstruction results are shown as
+summer is now typically attributed to the eruption of         anomalies from the mean of the period 1781–2000
+Mount Tambora (see Raible et al 2016 and references
+therein). However, in addition to the volcanic effects        2.2. Atmosphere-ocean general circulation
+other studies have also suggested a major role for            model data
+internal climate variability, not linked to the volcanic      2.2.1. MPI-ESM1.2
+activity (Auchmann et al 2012, Brö nnimann and               We use version1.2 of the Max Planck Institute for
+Krämer 2016) as well as a possible contribution from a       Meteorology Earth System Model (MPI-ESM1.2,
+period of low solar variability, the Dalton minimum           Mauritsen et al 2019), as developed for use in the
+(Anet et al 2014). Event attribution analyses are used to     Coupled Model Intercomparison Project 6 (Eyring
+estimate how much human inﬂuences have affected               et al 2016). All simulations have been performed with
+the probability for recent extreme events (see e.g.           the low resolution version of the MPI-ESM1.2 with a
+National Academies of Sciences, Engineering and               horizontal resolution of T63 (∼200 km) and 47
+Medicine (2016), Stott et al 2016). Here we use early         vertical layers in the atmosphere and a horizontal
+instrumental data (Casty et al 2007, Küttel et al 2010)       resolution of GR15 (∼150 km) and 40 vertical levels in
+combined with new climate simulations from two dif-           the ocean. We make use of a 1300 year long-time
+ferent models to conduct, for the ﬁrst time, an event         piControl run (constant forcing at year 1850 pre-
+attribution analysis in order to determine if and by          industrial levels) and have performed a series of early
+how much the volcanic forcing has affected the prob-          19th century simulations starting from different initial
+ability of cold and wet conditions in this ‘year without      dates from the piControl simulation with different
+a summer’. We choose to focus our analysis on Central         volcanic only forcing estimates (as described in
+Europe (here and throughout the paper deﬁned as lati-         Zanchettin et al 2019). These are based on the evolv2k
+tude 40° to 55 °N; longitude 5 °W to 20 °E) where the         forcing reconstructions (Toohey and Sigl 2017) and
+most extreme climate anomalies occurred.                      have been compiled with the Easy Volcanic Aerosol
+                                                              (EVA) forcing generator (Toohey et al 2016). We use
+2. Data                                                       three forcing volcanic time series: a central (Best),
+                                                              high-end and low-end estimate, corresponding to the
+2.1. Climate reconstruction data                              central estimate plus/minus 2 times the 1σ sulfur
+Surface air temperature and precipitation are taken           emission uncertainty (hereafter High and Low). 90
+from the gridded datasets of Casty et al (2007), which        ensemble members are available in total for the
+have a resolution of 0.5°×0.5°. These datasets are          summer of 1816, 30 for each forcing estimate. We
+calculated using Principal Component regression               focus in the paper on results using the best forcing
+using transfer functions calculated during periods            estimate, but report all results in some ﬁgures and in
+where information is available from both station data         the supplementary information. The aerosol optical
+and the gridded climate information used for calibra-         depth for the three volcanic forcings is shown in the
+tion (Mitchell and Jones 2005). For the early 19th            supplementary information (ﬁgure S3).
+century, more stations are available from central
+Europe (see ﬁgure S2(b) and (c) available online at           2.2.2. HadCM3
+stacks.iop.org/ERL/14/094019/mmedia) leading to               We use model simulations from the coupled atmos-
+better reconstructions in this area. To remove the            phere–ocean model HadCM3 (Gordon et al 2000,
+effects of anthropogenic warming in the datasets we           Pope et al 2000). The atmosphere has a horizontal
+detrend the temperature observations using a second           resolution of 3.75°×2.5° in longitude and latitude
+
+                                                 2

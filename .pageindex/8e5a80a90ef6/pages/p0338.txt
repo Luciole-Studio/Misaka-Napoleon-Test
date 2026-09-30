@@ -1,0 +1,67 @@
+
+
+  5th Division, General LEITH:
+    Barnes’s Brigade:
+      1st Foot, 3rd batt.                  35        733   }
+      9th   ”   1st   ”                    30        585   }  1,879
+      38th  ”   2nd   ”                    29        467   }
+    Spry’s Portuguese Brigade:
+      3rd Line (two batts.)                --      1,134   }
+      15th    ”       ”                    --        905   }  2,619[652]
+      Thomar Militia (attached)            --        580   }
+    Lusitanian Legion (three batts.),
+        Baron Eben[653]                    --      1,646   }  2,807[652]
+    8th Line (two batts.), Colonel Douglas --      1,161   }
+                                         ----     ------     ------
+                 Total of 5th Division     94      7,211      7,305
+
+  Light Division, Brigadier-General CRAUFURD:
+    Beckwith’s Brigade:
+      43rd Foot, 1st batt.                 40        804   }
+      95th   ”      ”    (four companies)  12        384   }  1,896[652]
+      3rd Portuguese Caçadores             --        656   }
+    Barclay’s Brigade:
+      52nd Foot, 1st batt.                 29        946   }
+      95th   ”      ”    (four companies)  12        358   }  1,891[652]
+      1st Portuguese Caçadores             --        546   }
+                                         ----     ------     ------
+                Total of Light Division    93      3,694      3,787
+
+  Independent Brigades of Portuguese Infantry:
+    1st Brigade, Brig.-Gen. D. Pack:
+      1st Line Regiment (two batts.)       --      1,089   }
+      16th ”      ”          ”             --      1,130   }  2,769
+      4th batt. Caçadores                  --        550   }
+    5th Brigade, Brig.-Gen. A. Campbell:
+      6th Line Regiment (two batts.)       --      1,317   }
+      18th ”      ”          ”             --      1,386   }  3,249
+      6th batt. Caçadores                  --        546   }
+    6th Brigade, Brig.-Gen. Coleman:
+      7th Line Regiment (two batts.)       --        815   }
+      19th ”      ”          ”             --      1,124   }  2,345
+      2nd batt. Caçadores                  --        406   }
+                                                             ------
+                Total of Independent Portuguese Brigades      8,363
+
+  [652] In the Portuguese regiments the officers are counted in
+  with the men.
+
+  [653] Leith in his report (Wellington, _Supplementary
+  Dispatches_, vi. 636) gives the above brigading. The Portuguese
+  official list of troops present (given by Soriano da Luz, iii)
+  puts Eben as commanding an imperfect brigade, consisting of the
+  8th Line only, while the Lusitanian legion is given as a separate
+  force under Lieut.-Col. Grant.
+
+CAVALRY
+
+  4th Dragoons (two squadrons)             15        195
+
+ARTILLERY
+
+          { Horse                          18        314
+  British { Field                          37        663
+  K.G.L. Field                             19        299
+  Portuguese                               --[654]   880[655]
+                                         ----     ------     ------
+                        Total Artillery    74      2,156      2,230

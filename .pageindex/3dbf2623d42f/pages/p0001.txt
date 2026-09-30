@@ -1,0 +1,30 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/commons/1824/mar/04/communications-with-france-and-spain-1"
+final_url: "https://api.parliament.uk/historic-hansard/commons/1824/mar/04/communications-with-france-and-spain-1"
+provider: "exa"
+text_sha256: "ee3e4d775164b5076333e019ed95f8c8d1ead423c0c36d3e8b62febe934c5d0d"
+title: "COMMUNICATIONS WITH FRANCE AND SPAIN RELATING TO THE SPANISH AMERICAN PROVINCES. (Hansard, 4 March 1824)"
+content_kind: "page_text"
+---
+
+COMMUNICATIONS WITH FRANCE AND SPAIN RELATING TO THE SPANISH AMERICAN PROVINCES. (Hansard, 4 March 1824)
+
+# COMMUNICATIONS WITH FRANCE AND SPAIN RELATING TO THE SPANISH AMERICAN PROVINCES.
+
+HC Deb 04 March 1824 vol 10 cc708-19 708
+
+§ No. 1.—Extract of a Memorandum, of a Conference between the Prince De Polignac and Mr. Canning, held Oct. 9th, 1823.
+
+§ The prince de Polignac having announced to Mr. Canning, that his excellency was now prepared to enter with Mr. Canning into a frank explanation of the views of his government respecting the question of Spanish America, in return for a similar communication which Mr. Canning had previously offered to make to the prince de Polignac on the part of the British cabinet, Mr. Canning stated—
+
+§ That the British cabinet had no disguise or reservation on that subject; that their opinions and intentions were substantially the same as were announced to the French government, by the despatch of Mr. Canning to sir Charles, Stuart of the 31st of March; which despatch that ambassador communicated to M. de Chateaubriand, and which had since been published to the world.
+
+§ That the near approach of a crisis, in which the affairs of Spanish America must naturally occupy a great share of the attention of both powers, made it desirable that there should be no misunderstanding between them on any part of a subject so important.
+
+§ That the British government were of 709 opinion, that any attempt to bring Spanish America again under its ancient submission to Spain must be utterly hopeless; that all negotiation for that purpose would be unsuccessful; and that the prolongation or renewal of war for the same object would be only a waste of human life, and an infliction of calamity on both parties, to no end.
+
+§ That the British government would, however, not only abstain from interposing any obstacle on their part to any attempt at negotiation which Spain might think proper to make, but would aid and countenance such negotiation, provided it were founded upon a basis which appeared to them to be practicable; and that they would, in any case, remain strictly neutral in a war between Spain and the colonies, if war should be unhappily prolonged.
+
+§ But that the junction of any foreign power, in an enterprise of Spain against the colonies, would be viewed by them as constituting an entirely new question; and one Upon which they must take Such decision as the interests Of Great Britain might require.
+
+§ That the British government absolutely disclaimed, not only any desire of appropriating to itself any portion of the Spanish colonies, but any intention of forming any political connexion with them, beyond that of amity and commercial intercourse.

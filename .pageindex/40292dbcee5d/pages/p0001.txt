@@ -1,0 +1,274 @@
+{
+  "status": "ok",
+  "query": "Napoleon Great Adversaries Rothenberg",
+  "domain": "annas-archive.gl",
+  "count": 49,
+  "results": [
+    {
+      "title": "Napoleon's great adversaries : the Archduke Charles and the Austrian army, 1792-1814",
+      "authors": "Gunther Erich Rothenberg; B. T. Batsford",
+      "publisher": "Indiana Univ Pr, London, England, 1982",
+      "language": "English",
+      "format": "PDF",
+      "size": "16.3MB",
+      "hash": "9fd6cdcf87c0b190c68ae863fb7ab426",
+      "url": "https://annas-archive.gl/md5/9fd6cdcf87c0b190c68ae863fb7ab426"
+    },
+    {
+      "title": "The Terror Before Trafalgar : Nelson, Napoleon, and the Secret War",
+      "authors": "Tom Pocock",
+      "publisher": "Annapolis, Md.: Naval Institute Press, Softcover, 2005",
+      "language": "English",
+      "format": "PDF",
+      "size": "15.7MB",
+      "hash": "4e2b2f433d6a92745f9562bc0d27967a",
+      "url": "https://annas-archive.gl/md5/4e2b2f433d6a92745f9562bc0d27967a"
+    },
+    {
+      "title": "Napoleon`s Adversaries",
+      "authors": "",
+      "publisher": "Uniformology, 2002",
+      "language": "English",
+      "format": "PDF",
+      "size": "56.4MB",
+      "hash": "96c6297e36955f1599b818a96ec82559",
+      "url": "https://annas-archive.gl/md5/96c6297e36955f1599b818a96ec82559"
+    },
+    {
+      "title": "The Terror Before Trafalgar : Nelson, Napoleon, and the Secret War",
+      "authors": "Pocock, Tom",
+      "publisher": "Annapolis, Md. : Naval Institute Press, 1st Naval Institute Press ed., Annapolis, Md, Maryland, 2005",
+      "language": "English",
+      "format": "PDF",
+      "size": "17.4MB",
+      "hash": "da8d5172e60016e791556cf878bdc076",
+      "url": "https://annas-archive.gl/md5/da8d5172e60016e791556cf878bdc076"
+    },
+    {
+      "title": "The terror before Trafalgar : Nelson, Napoleon, and the secret war",
+      "authors": "Pocock, Tom",
+      "publisher": "New York : W.W. Norton, 1st American ed., New York, New York State, 2003",
+      "language": "English",
+      "format": "PDF",
+      "size": "16.8MB",
+      "hash": "ff71fa45bb20cd7b5c913873ebbccda9",
+      "url": "https://annas-archive.gl/md5/ff71fa45bb20cd7b5c913873ebbccda9"
+    },
+    {
+      "title": "Rifleman: Elite Soldiers of the Wars against Napoleon (Classic Soldiers Series)",
+      "authors": "Philipp J. C. Elliot-Wright",
+      "publisher": "Pub. News Ltd. : Military Illustrated, 1st UK edition,, 2000",
+      "language": "English",
+      "format": "PDF",
+      "size": "27.0MB",
+      "hash": "4a21d3284105bf27dd1c1ca18688ad19",
+      "url": "https://annas-archive.gl/md5/4a21d3284105bf27dd1c1ca18688ad19"
+    },
+    {
+      "title": "The terror before Trafalgar : Nelson, Napoleon, and the secret war",
+      "authors": "Tom Pocock",
+      "publisher": "W. W. Norton & Company, Incorporated, 1st American ed., New York, New York State, 2003",
+      "language": "English",
+      "format": "PDF",
+      "size": "25.3MB",
+      "hash": "5dd5f882774b19d0857d1d5acad42774",
+      "url": "https://annas-archive.gl/md5/5dd5f882774b19d0857d1d5acad42774"
+    },
+    {
+      "title": "RESISTING NAPOLEON: THE BRITISH RESPONSE TO THE THREAT OF INVASION, 1797-1815; ED. BY MARK PHILP",
+      "authors": "Mark Philp (ed.)",
+      "publisher": "Ashgate / Routledge, Taylor & Francis (Unlimited), Abingdon, Oxon, 2016",
+      "language": "English",
+      "format": "PDF",
+      "size": "7.1MB",
+      "hash": "67de764fe8c18e8f73e14e1a70e4e277",
+      "url": "https://annas-archive.gl/md5/67de764fe8c18e8f73e14e1a70e4e277"
+    },
+    {
+      "title": "Reminiscences of a naval officer : a quarter-deck view of the war against Napoleon",
+      "authors": "Crawford, Abraham, 1788-1869, Pocock, Tom",
+      "publisher": "London : Chatham, Sailor's tales, London, England, 1999",
+      "language": "English",
+      "format": "PDF",
+      "size": "18.6MB",
+      "hash": "e0019c26949ecdbde107aae41a5f0fa3",
+      "url": "https://annas-archive.gl/md5/e0019c26949ecdbde107aae41a5f0fa3"
+    },
+    {
+      "title": "Nelson's navy : English fighting ships, 1793-1815",
+      "authors": "Davies, David Tudor, 1920-",
+      "publisher": "Mechanicsburg, PA : Stackpole Books, 1st Stackpole Books ed, Mechanicsburg, PA, 1997",
+      "language": "English",
+      "format": "PDF",
+      "size": "12.5MB",
+      "hash": "d40e3a7eb7ce4b3aae2defd5effa8184",
+      "url": "https://annas-archive.gl/md5/d40e3a7eb7ce4b3aae2defd5effa8184"
+    },
+    {
+      "title": "Beware of heroes : Admiral Sir Sidney Smith's war against Napoleon",
+      "authors": "Shankland, Peter",
+      "publisher": "London : W. Kimber, illustrated edition, US, 1975",
+      "language": "English",
+      "format": "PDF",
+      "size": "16.6MB",
+      "hash": "62635b732deb0301117a5cd22bb80ae4",
+      "url": "https://annas-archive.gl/md5/62635b732deb0301117a5cd22bb80ae4"
+    },
+    {
+      "title": "The emperor's last victory : Napoleon and the Battle of Wagram",
+      "authors": "Gunther E. Rothenberg, Gunther Erich Rothenberg, Rothenberg, Gunther Erich",
+      "publisher": "George Weidenfeld & Nicholson;Orion; Cassell, Cassell Military Paperbacks, 2013",
+      "language": "English",
+      "format": "EPUB",
+      "size": "0.8MB",
+      "hash": "766fc39b67d978026bedebc073c26878",
+      "url": "https://annas-archive.gl/md5/766fc39b67d978026bedebc073c26878"
+    },
+    {
+      "title": "The Emperor's Last Victory: Napoleon and the Battle of Wagram (Cassell)",
+      "authors": "Rothenberg, Gunther E.",
+      "publisher": "Orion, 2013",
+      "language": "English",
+      "format": "EPUB",
+      "size": "0.8MB",
+      "hash": "91528f91bb692f7bd6bc8214ccdb948b",
+      "url": "https://annas-archive.gl/md5/91528f91bb692f7bd6bc8214ccdb948b"
+    },
+    {
+      "title": "L'anti-napoléon : Ecrits Inédits Et Papiers De Noël-antoine Apuril Du Pontreau, Chanoine De La Congrégation De France",
+      "authors": "Noël-Antoine Apuril du Pontreau; Gilles Avril",
+      "publisher": "Nouveau monde éd. : Fondation Napoléon, 2011",
+      "language": "French",
+      "format": "MOBI",
+      "size": "3.4MB",
+      "hash": "daec74f7fe6587aa121110105487227d",
+      "url": "https://annas-archive.gl/md5/daec74f7fe6587aa121110105487227d"
+    },
+    {
+      "title": "The Navy That Beat Napoleon (Cambridge Topic Book)",
+      "authors": "Brownlee, W. D. (Walter D.), 1930-",
+      "publisher": "Minneapolis : Published in cooperation with Cambridge University Press [by] Lerner Publications Co., A Cambridge topic book, Minneapolis, Minnesota, 1982",
+      "language": "English",
+      "format": "PDF",
+      "size": "3.9MB",
+      "hash": "507fb1b786e0fbe0b44ce8d796b0fa3f",
+      "url": "https://annas-archive.gl/md5/507fb1b786e0fbe0b44ce8d796b0fa3f"
+    },
+    {
+      "title": "The man who broke Napoleon's codes : the story of George Scovell",
+      "authors": "Urban, Mark, 1961-",
+      "publisher": "London : Faber and Faber, London, England, 2001",
+      "language": "English",
+      "format": "PDF",
+      "size": "21.3MB",
+      "hash": "67f6d10f665cbb8e4e94ffc4d9a2aa6d",
+      "url": "https://annas-archive.gl/md5/67f6d10f665cbb8e4e94ffc4d9a2aa6d"
+    },
+    {
+      "title": "The man who broke Napoleon's codes : the story of George Scovell",
+      "authors": "Mark L. Urban",
+      "publisher": "Faber And Faber, London, England, 2001",
+      "language": "English",
+      "format": "MOBI",
+      "size": "2.0MB",
+      "hash": "4fbc40c93a338ba99756d634a35a78cb",
+      "url": "https://annas-archive.gl/md5/4fbc40c93a338ba99756d634a35a78cb"
+    },
+    {
+      "title": "Alexander of Russia: Napoleon's Conqueror (Grove Great Lives Series)",
+      "authors": "Troyat, Henri, 1911-2007",
+      "publisher": "New York : Grove Press, 1st Grove press ed., New York, New York State, 2002",
+      "language": "English",
+      "format": "PDF",
+      "size": "21.2MB",
+      "hash": "ecd21ccde4d965c0b218c693f2601db6",
+      "url": "https://annas-archive.gl/md5/ecd21ccde4d965c0b218c693f2601db6"
+    },
+    {
+      "title": "Nelson Against Napoleon: From the Nile to Copenhagen 1798-1801 (Caxton Pictorial Histories) (Caxton Pictorial Histories)",
+      "authors": "Robert Gardiner; National Maritime Museum (Great Britain)",
+      "publisher": "Caxton Editions in association with the National Maritime Museum, Hardcover, 2001",
+      "language": "English",
+      "format": "PDF",
+      "size": "27.8MB",
+      "hash": "dd4ec5f8e838498eee6b6b0f81825975",
+      "url": "https://annas-archive.gl/md5/dd4ec5f8e838498eee6b6b0f81825975"
+    },
+    {
+      "title": "The emperor's last victory : Napoleon and the Battle of Wagram",
+      "authors": "Rothenberg, Gunther E., 1923-2004",
+      "publisher": "London : Weidenfeld & Nicolson, London, England, 2004",
+      "language": "English",
+      "format": "PDF",
+      "size": "15.0MB",
+      "hash": "457e8ea51372a6f6d98a6b1e1426025e",
+      "url": "https://annas-archive.gl/md5/457e8ea51372a6f6d98a6b1e1426025e"
+    },
+    {
+      "title": "Imperial sunset :  the  fall of Napoleon, 1813-14",
+      "authors": "Delderfield, R. F. (Ronald Frederick), 1912-1972",
+      "publisher": "New York : Stein and Day, New York, New York State, 1984",
+      "language": "English",
+      "format": "PDF",
+      "size": "17.2MB",
+      "hash": "c6a06cf3bd01e6d233cc1fb24240ec3a",
+      "url": "https://annas-archive.gl/md5/c6a06cf3bd01e6d233cc1fb24240ec3a"
+    },
+    {
+      "title": "Napoleon's nemesis; the life of Baron Stein",
+      "authors": "Grunwald, Constantin de, Atkinson, Charles Francis, 1880-",
+      "publisher": "New York, C. Scribner's sons, New York, New York State, 1936",
+      "language": "English",
+      "format": "PDF",
+      "size": "11.5MB",
+      "hash": "cf4448211d8665adef8e7a00dbf4400b",
+      "url": "https://annas-archive.gl/md5/cf4448211d8665adef8e7a00dbf4400b"
+    },
+    {
+      "title": "Andreas Hofer: Zwischen Napoleon Und Kaiser Franz (german Edition)",
+      "authors": "Magenschab, Hans, 1939-",
+      "publisher": "Graz : Verlag Styria, Graz, Austria, 1984",
+      "language": "German",
+      "format": "PDF",
+      "size": "19.3MB",
+      "hash": "bbff0c43c0959cd20d58f56d5927bd84",
+      "url": "https://annas-archive.gl/md5/bbff0c43c0959cd20d58f56d5927bd84"
+    },
+    {
+      "title": "Wordsworth's dirge and promise; Napoleon, Wellington, and the Convention of Cintra. --",
+      "authors": "Thomas, Gordon Kent, 1935-",
+      "publisher": "Lincoln : University of Nebraska Press, [1971]., Lincoln, Nebraska, 1971",
+      "language": "English",
+      "format": "PDF",
+      "size": "6.4MB",
+      "hash": "ce5ea44cfd085eb7413afce74c2f80fa",
+      "url": "https://annas-archive.gl/md5/ce5ea44cfd085eb7413afce74c2f80fa"
+    },
+    {
+      "title": "Imperial sunset :  the  fall of Napoleon, 1813-14",
+      "authors": "Delderfield, R. F. (Ronald Frederick), 1912-1972",
+      "publisher": "New York : Stein and Day, New York, New York State, 1984",
+      "language": "English",
+      "format": "PDF",
+      "size": "26.4MB",
+      "hash": "231c405640183ae196bb28794a4b4174",
+      "url": "https://annas-archive.gl/md5/231c405640183ae196bb28794a4b4174"
+    },
+    {
+      "title": "Imperial sunset; the fall of Napoleon, 1813-14",
+      "authors": "Delderfield, R. F. (Ronald Frederick), 1912-1972",
+      "publisher": "Philadelphia, Chilton, [1st ed.], Philadelphia, Pennsylvania, 1968",
+      "language": "English",
+      "format": "PDF",
+      "size": "24.8MB",
+      "hash": "d39a27f1b4a4fc8550314a41c547b623",
+      "url": "https://annas-archive.gl/md5/d39a27f1b4a4fc8550314a41c547b623"
+    },
+    {
+      "title": "Wellington At Waterloo (Greenhill Military Paperbacks)",
+      "authors": "Weller, Jac",
+      "publisher": "London : Greenhill Books ; Pennsylvania : Stackpole Books, Greenhill military paperbacks, London, Pennsylvania, England, 1998",
+      "language": "English",
+      "format": "PDF",
+      "size": "17.8MB",
+      "hash": "c12c44a031addfb0aa2d3123c901545e",

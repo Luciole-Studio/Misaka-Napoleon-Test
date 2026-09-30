@@ -1,0 +1,44 @@
+
+
+- Tom Doan, 2025.
+"[BAIPERRON: RATS procedure to perform Bai-Perron Test for Multiple Structural Changes](https://ideas.repec.org/c/boc/bocode/rts00013.html),"
+[Statistical Software Components](https://ideas.repec.org/s/boc/bocode.html)
+RTS00013, Boston College Department of Economics.
+
+- Asaf Zussman & Noam Zussman & Morten Ørregaard Nielsen, 2008.
+"[Asset Market Perspectives on the Israeli–Palestinian Conflict](https://ideas.repec.org/a/bla/econom/v75y2008i297p84-115.html),"
+[Economica](https://ideas.repec.org/s/bla/econom.html), London School of Economics and Political Science, vol. 75(297), pages 84-115, February.
+
+- Asaf Zussman & Noam Zussman & Morten Nielsen, 2006.
+"[Asset Market Perspectives on the Israeli-Palestinian Conflict](https://ideas.repec.org/p/boi/wpaper/2006.02.html),"
+[Bank of Israel Working Papers](https://ideas.repec.org/s/boi/wpaper.html)
+2006.02, Bank of Israel.
+
+- Mitchener, Kris James & Weidenmier, Marc, 2005.
+"[Empire, Public Goods, and the Roosevelt Corollary](https://ideas.repec.org/a/cup/jechis/v65y2005i03p658-692_00.html),"
+[The Journal of Economic History](https://ideas.repec.org/s/cup/jechis.html), Cambridge University Press, vol. 65(3), pages 658-692, September.
+
+- Eugene N. White & Filippo Occhino & Kim Oosterlinck, 2007.
+"[How Occupied France Financed Its Own Exploitation in World War II](https://ideas.repec.org/a/aea/aecrev/v97y2007i2p295-299.html),"
+[American Economic Review](https://ideas.repec.org/s/aea/aecrev.html), American Economic Association, vol. 97(2), pages 295-299, May.
+
+- Filippo Occhino & Kim Oosterlinck & Eugene N. White, 2006.
+"[How Occupied France Financed Its Own Exploitation in World War II](https://ideas.repec.org/p/nbr/nberwo/12137.html),"
+[NBER Working Papers](https://ideas.repec.org/s/nbr/nberwo.html)
+12137, National Bureau of Economic Research, Inc.
+
+- Filippo Occhino & Kim Oosterlinck & Eugene Nelson White, 2007.
+"[How occupied france financed its own exploitation in world war II](https://ideas.repec.org/p/ulb/ulbeco/2013-142694.html),"
+[ULB Institutional Repository](https://ideas.repec.org/s/ulb/ulbeco.html)
+2013/142694, ULB -- Universite Libre de Bruxelles.
+
+- Ferguson, Niall & Schularick, Moritz, 2006.
+"[The Empire Effect: The Determinants of Country Risk in the First Age of Globalization, 1880–1913](https://ideas.repec.org/a/cup/jechis/v66y2006i02p283-312_00.html),"
+[The Journal of Economic History](https://ideas.repec.org/s/cup/jechis.html), Cambridge University Press, vol. 66(2), pages 283-312, June.
+
+- Niall Ferguson & Moritz Schularick, 2004.
+"[The Empire Effect: The Determinants of Country Risk in the First Age of Globalization, 1880-1913](https://ideas.repec.org/p/ste/nystbu/04-03.html),"
+[Working Papers](https://ideas.repec.org/s/ste/nystbu.html)
+04-03, New York University, Leonard N. Stern School of Business, Department of Economics.
+
+[Full references](http://citec.repec.org/cgi-bin/get_data.pl?h=RePEc:hes:wpaper:0041&o=all) (including those not matched with items on IDEAS)

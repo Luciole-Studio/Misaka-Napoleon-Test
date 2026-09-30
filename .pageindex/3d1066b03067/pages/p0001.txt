@@ -1,0 +1,25 @@
+# IN1 财政笔记（随读随写，正文由此装配）
+
+约定：每条 = 【出处（本地路径+行号）】+【原文摘录】+【我方读数/口径】。OCR 错字用〔〕标注还原。
+
+---
+
+## S1. 1812《Papers respecting the negociation ... renewal of the East-India Company's exclusive privileges》
+本地：`downloads/IN1_papers_negociation_1812.txt`（archive.org id `papersrespecting00east`，1812，HC印行）
+sha256 见 SOURCES.md。OCR 为 18 世纪长 s（f/s 混），数字多处需还原。
+
+### S1.1 董事会（Court of Directors）1812 年自述：印度债务由 800 万涨到约 3,200 万
+行 359–366：
+> "The situation of the Company is, at this time, very different from what it was at the last renewal of the Charter, in 1793. European war, with hardly any inter〔m〕ission, through the whole of the period that has since elapsed, has exceedingly encreased the expenses, and reduced the profits of the Company at home; and has likewise enlarged the scale of expenses abroad; where, moreover, wars with the Native Powers have been repeatedly carried on, to the vast accumulation of the Indian debt, now advanced from eight million sterling, at which it stood in 1793, to about thirty-two millions."
+
+读数：**印度债务 1793 ≈ £8m → 1812 ≈ £32m**（董事会官方口径，非独立审计）。为 Wellesley 战争债务的总量级锚点。注意：这是"Indian debt"（在印度发行的 registered/bond debt），不含伦敦的 bond debt（见 S1.3）。
+
+### S1.2 董事会 1812 年官方立场：法国陆路入侵印度属"欧洲战争、欧洲目标"，应由英国国库负担
+行 396–414（同函第 5 点）：
+> "To apportion duly between the Public and the Company the milita〔r〕y expenses of the Indian empire, is another measure now become unavoidable. For wars growing out of the Indian system, or out of sources purely Indian, the revenues and other means of the Company were long made to suffice, including even the charges of occasional attacks upon the Indian settlements of Euro〔p〕ean nations; but the influence of European war has, in the present protracted period of hostility, extended itself more and more to India, occasioning the expense of various distant expeditions, and the encrease of the military establishment, particularly in the European troops of his Majesty, which, from being twenty years ago only a very few regiments, now amount to above twenty thousand* men, and those of the most expensive description of troops composing the military force of British India: nor is at all improbable, that from the avowed design of France to invade our Indian possessions with great armies by land, it may be necessary still largely to augment our European force in that quarter. For a war of this description the Indian revenues, if unincumbered with debt, would be very inadequate. It would be an European war for European objects; a struggle between Great Britain and France, on the soil of India, for the maintenance and support of their power in Europe. For such an object, to which the national funds only are commensurate, the national funds undoubtedly ought to provide"
+
+读数（**本卡最重要的反应函数锚点**）：
+1. 公司官方承认 King's 欧洲兵在印已 **>20,000 人**（1812），且是"最昂贵的兵种"；
+2. 公司官方承认：若发生法国陆路大军入侵，**即使债务全清，印度岁入也"very inadequate"**；
+3. 公司据此要求把该类战费划归 **national funds（英国国库）**。
+→ 卡片 falsifier（"1805–12公司已无法自付驻军→承压能力下调"）在 1812 年由公司自己的文件**部分证成**：不是不能付常规驻军，而是**不能付"欧洲级"战争**。区分必须保留。

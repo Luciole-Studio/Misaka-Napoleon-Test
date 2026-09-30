@@ -1,0 +1,46 @@
+
+
+### CA｜Encyclopaedia Britannica，“Combination Acts”
+- https://www.britannica.com/money/Combination-Acts
+- `downloads/pages/72f263dafad6.md`，捕获首段，末尾截断；不是原法令。
+- 使用1799/1800禁联合、3个月监禁/2个月苦役、两名治安官及对雇主执行不对称的概述。1824/25条目后文未获，本卡相应论证使用J，不偷引搜索摘要。
+
+### T16/T19｜Robert Poole为英国国家档案馆撰写的两篇导读
+- “Protest and Democracy 1816 to 1818, part 1”：https://www.nationalarchives.gov.uk/education/resources/protest-and-democracy-1816-to-1818/；`downloads/pages/6584f2f8b4f1.md`。
+- “Protest and democracy 1818 to 1820, part 2”：https://www.nationalarchives.gov.uk/education/resources/protest-democracy-1818-1820/；`downloads/pages/0165ca641153.md`。
+- 两篇Introduction正文全读。T16：复员/行业收缩/1816冷夏与粮法、1817请愿；T19：1818复苏—1819萧条，Peterloo（16 August 1819）、1820军人支持女王及guards哗变迹象。
+- 导读所列60,000集会及退伍规模为作者综合，本卡未亲查原名册。某些地方标签/因果说法本身需另审；主报告只用一般机制和已定位事件，不伪称亲阅全部内政部档案。
+
+### BR｜*Carta Régia de 28 de Janeiro de 1808*
+- 葡萄牙文同时代王室敕函，巴西众议院法律库转录，Coleção de Leis do Brasil de 1808 vol1 p1。
+- https://www2.camara.leg.br/legin/fed/carreg_sn/anterioresa1824/cartaregia-35757-28-janeiro-1808-539177-publicacaooriginal-37144-pe.html
+- `downloads/pages/ead7fbfac794.md`，正文全读。关键语“interina e provisoriamente”、“em razão das criticas e publicas circumstancias da Europa”；友好/和平国家及本国船进口税24%；多数货物可自由择港出口，巴西木及专卖品例外。
+- 不是1808即自由贸易零关税，也不是所有国家无条件准入。网站声明转录不替原刊，未假装核过原手稿。
+
+### CE｜Javier Cuenca Esteban, “India’s contribution to the British balance of payments, 1757–1812”
+- Carlos III WP06-03，封面March2006，正文October2005；**不是后来刊本**。
+- https://e-archivo.uc3m.es/bitstreams/59818d76-9b1b-435d-80c8-857d7d7efafc/download
+- `downloads/pages/ef0a274dde3a.md`；实读首部及pp14–23。
+- pp14–16财政/公司/私人流量；pp17–20称估计“conjectural”；转口利润率5%、进口替代成本80%等假设明确；pp21–23市场与贸易价格。支持印度资源转移≠英制品订单，以及欧洲不买印度转口品会削弱英国兑现。
+- 作者认为印度流入可为战争国际支付作重要贡献，不据此推定工业出口市场充足。未拿英制品、印度税收、转口利润重复加总。`notes_cuenca_discovery.md`。
+
+### O｜Kevin H. O’Rourke, “The worldwide economic impact of the Revolutionary and Napoleonic Wars”
+- TEP9/2005，May2005工作稿；**不是声称亲读2006刊本**。
+- https://www.tcd.ie/Economics/TEP/2005_papers/TEP9.pdf
+- `downloads/pages/dda4372be1f5.md`。实读引言/测量/模型及结论有关段L20–169、370–450（部分其他段未读）。
+- 表4英国1.7–1.8%年福利损失是单要素简化贸易模型，非GDP、失业或投资损失；脚注18承认不计失业可低估。
+- 结论讨论1815粮法、1786Eden条约及战后自由贸易路径；Crouzet1964的法国纺织保护论为本稿转引，没有写成直接阅读。
+- 理论模型的结果不是又一套独立海关数据；参数和历史表有共同来源。
+
+### C｜W. H. Chaloner对Crouzet专著的书评
+- *Revue belge de Philologie et d’Histoire* 38-2（1960）, pp525–526。
+- https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2
+- `downloads/pages/e5b32951df65.md`，全文已读。
+- 书评介绍François Crouzet, *L’économie britannique et le blocus continental (1806–1813)*，PUF1958，二卷949页。转引p855：“Nous pensons avoir démontré également que le Blocus Continental fut à l'origine de la crise de 1810, ce véritable ouragan qui secoua toute l'économie britannique ...”。
+- 保留强反论：走私成本高且有限、扣船/保险损失、1810–12社会危机与战争能力削弱。书評“revolutionary situation ... without revolutionaries”是解释不是普遍革命组织观测。未获得Crouzet1958/1987原书，不假报原书全读。
+
+### KF/KC｜英国议会公共历史页
+- KF “The 1833 Factory Act”：https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/；`downloads/pages/98f3132e9a36.md`，正文全读。
+- 关键原文：a small, four-man “inspectorate of factories”；4,000 mills；“widely evaded”。用于正式规制/执行落差，不当1833原法条亲阅。
+- KC “The Chartist movement”：https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/overview/chartistmovement/；`downloads/pages/cd205de92b28.md`，正文全读。
+- 1832财产门槛、1838六点宪章、1839/42/48请愿；1848“the anticipated unrest did not happen”。不把申请者声称签名数当认证人数。两者是后世机构概述，不是独立原始调查。

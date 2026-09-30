@@ -1,0 +1,66 @@
+relative to medicine or sanitation. Instead, our goal is to causally identify the importance of
+
+nutrition by estimating the effect of one positive shock to nutrition on subsequent population
+
+growth. Because this shock occurred more than two centuries before improvements in modern
+
+sanitation and medicine, the results can be plausibly interpreted as reflecting the benefits of
+
+improved nutrition only.
+
+   We also estimate the effect of the introduction of potatoes on the share of population living in
+
+cities. The estimates provide evidence of the importance of agricultural productivity in spurring
+
+the transition from rural agriculture to urban manufacturing. A productivity shock in agriculture
+
+could have two potentially offsetting effects on urbanization. On the one hand, it may delay
+
+urbanization as workers become more attracted to the agricultural sector. On the other hand, the
+
+increased agricultural productivity means more workers can be freed from agriculture, allowing
+
+them to migrate to the cities and work in industry. Our estimates of the effect of the introduction
+
+of potatoes on urbanization provide historic evidence of the net effect of a significant positive
+
+agricultural productivity shock on the movement of labor from the countryside into cities.6
+
+   Any study attempting to estimate the causal effects of improved nutrition faces two main
+
+empirical difficulties, both of which arise because of the endogeneity of nutritional improvements.
+
+The first is the problem of reverse causality. For example, Cullen (1968) argues that in Ireland,
+
+population expansion led to the adoption of the potato, and not the other way around as many
+
+others have argued.7 In this case, the correlation between improved nutrition and population may
+
+reflect the reverse-causal effect of population on nutrition. The second problem arises from the
+
+existence of potentially omitted variables. Population growth and improved nutrition may both
+
+be outcomes of an unobserved factor, such as political stability.
+
+   The principal contribution of our study is to provide a strategy that helps resolve these prob-
+
+lems. Our estimation exploits the introduction of the potato to the Old World following the dis-
+
+covery of the Americas. This event, together with geographic and climatic variation in a country’s
+
+ability to cultivate and adopt the new food crop, provides a source of variation in nutrition that is
+
+plausibly exogenous to other factors that affect population growth. Because potatoes are superior
+
+to existing crops in terms of both calories and nutrition, we proxy for access to improved nutrition
+   6 The existing empirical literature has found it very difficult to establish causality when looking at the relationship
+
+between agriculture and development. The best macro-level studies attempt to infer the effect of agriculture on
+economic development by examining panel data and employing lags and Granger causality tests (Tiffin and Irz, 2006).
+   7 For others arguing reverse causality see Salaman (1949) and Connell (1962). Also, see the empirical evidence from
+
+Mokyr (1981).
+
+
+
+                                                            3

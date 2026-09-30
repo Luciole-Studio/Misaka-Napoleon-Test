@@ -1,0 +1,209 @@
+      "hash": "4ab7d5bb32af0289cd00b5cfa88e35b0",
+      "url": "https://annas-archive.gl/md5/4ab7d5bb32af0289cd00b5cfa88e35b0"
+    },
+    {
+      "title": "Dernières lettres inédites de Napoléon Ier, collationnées sur les textes et publiées par Léonee de Brotonne.",
+      "authors": "Napoleon I, Emperor of the French, 1769-1821",
+      "publisher": "H. Champion, 1903., France, 1903",
+      "language": "French",
+      "format": "",
+      "size": "0.5MB",
+      "hash": "a776d7e223c196b2d6a051996d33956e",
+      "url": "https://annas-archive.gl/md5/a776d7e223c196b2d6a051996d33956e"
+    },
+    {
+      "title": "Dernières lettres inédites de Napoléon Ier, collationnées sur les textes et publiées par Léonee de Brotonne.",
+      "authors": "Napoleon I, Emperor of the French, 1769-1821",
+      "publisher": "H. Champion, 1903., France, 1903",
+      "language": "French",
+      "format": "",
+      "size": "0.5MB",
+      "hash": "e89d18d29b53d0790ab3a88b4744cdc8",
+      "url": "https://annas-archive.gl/md5/e89d18d29b53d0790ab3a88b4744cdc8"
+    },
+    {
+      "title": "Lettres aux Montchal: Inedites(1886-1890)",
+      "authors": "Joseph Bollery",
+      "publisher": "None",
+      "language": "French",
+      "format": "PDF",
+      "size": "10.4MB",
+      "hash": "a02f26bc5a0b0701526c1b446fde1826",
+      "url": "https://annas-archive.gl/md5/a02f26bc5a0b0701526c1b446fde1826"
+    },
+    {
+      "title": "Marie-Antoinette - Lettres inédites",
+      "authors": "Marie-Antoinette, Catriona Seth [Seth, Catriona]",
+      "publisher": "Ipomée-Albin Michel, 1, 20191002",
+      "language": "French",
+      "format": "EPUB",
+      "size": "1.6MB",
+      "hash": "c276a0ac370100b968498c8008a53b90",
+      "url": "https://annas-archive.gl/md5/c276a0ac370100b968498c8008a53b90"
+    },
+    {
+      "title": "Etude historique et critique des Burgraves de Victor Hugo, avec variantes medites et lettres inedites. --",
+      "authors": "Russell, Olga Wester",
+      "publisher": "Paris : A.G. Nizet, 1962",
+      "language": "English",
+      "format": "PDF",
+      "size": "12.8MB",
+      "hash": "c7e55af0316c0bbfd53838ce0869292c",
+      "url": "https://annas-archive.gl/md5/c7e55af0316c0bbfd53838ce0869292c"
+    },
+    {
+      "title": "Dernières lettres inédites de Napoléon Ier, collationnées sur les textes et publiées par Léonee de Brotonne.",
+      "authors": "Napoleon I, Emperor of the French, 1769-1821",
+      "publisher": "H. Champion, 1903., France, 1903",
+      "language": "French",
+      "format": "",
+      "size": "0.5MB",
+      "hash": "d82031cb4baa15afd4bd6d2b802ceb25",
+      "url": "https://annas-archive.gl/md5/d82031cb4baa15afd4bd6d2b802ceb25"
+    },
+    {
+      "title": "Trois lettres inédites (French Edition)",
+      "authors": "Pierre-Joseph Proudhon",
+      "publisher": "Cargo de nuit, 2022",
+      "language": "French",
+      "format": "PDF",
+      "size": "0.3MB",
+      "hash": "6342d93316d388129091c0f5a3092aaf",
+      "url": "https://annas-archive.gl/md5/6342d93316d388129091c0f5a3092aaf"
+    },
+    {
+      "title": "Lettres inédites de la Princesse Palatine",
+      "authors": "Bavière, Charlotte Elisabeth de",
+      "publisher": "BnF-Partenariats, BnF Partenariats (BnF P), [N.p.], 2016",
+      "language": "French",
+      "format": "EPUB",
+      "size": "1.2MB",
+      "hash": "865c92ab2259d4e98eb0a29364453bf6",
+      "url": "https://annas-archive.gl/md5/865c92ab2259d4e98eb0a29364453bf6"
+    },
+    {
+      "title": "Souvenirs d'égotisme / autobiographie et lettres inédites publiées par Casimir Stryienski",
+      "authors": "Stendhal",
+      "publisher": "2015",
+      "language": "French",
+      "format": "EPUB",
+      "size": "0.3MB",
+      "hash": "d160b061c3259d3fb783ffb5c88d4105",
+      "url": "https://annas-archive.gl/md5/d160b061c3259d3fb783ffb5c88d4105"
+    },
+    {
+      "title": "Lettres inédites à divers correspondants (French Edition)",
+      "authors": "Paul Verlaine",
+      "publisher": "Librairie Droz, 1976",
+      "language": "French",
+      "format": "EPUB",
+      "size": "6.0MB",
+      "hash": "e06bf0873a062eaee8048cbedb3dacc9",
+      "url": "https://annas-archive.gl/md5/e06bf0873a062eaee8048cbedb3dacc9"
+    },
+    {
+      "title": "Lettres inédites à Sainte-Beuve - 1841-1848",
+      "authors": "Allart de Méritens, Hortense",
+      "publisher": "BnF-Partenariats, BnF Partenariats (BnF P), [N.p.], 2016",
+      "language": "French",
+      "format": "EPUB",
+      "size": "1.1MB",
+      "hash": "44e92213463f7c69b424a4b996f08ff2",
+      "url": "https://annas-archive.gl/md5/44e92213463f7c69b424a4b996f08ff2"
+    },
+    {
+      "title": "Talleyrand: Le maître de Napoléon (A.M. HISTOIRE) (French Edition)",
+      "authors": "Lawday, David",
+      "publisher": "Ipomée-Albin Michel, Paris, imp. 2015",
+      "language": "French",
+      "format": "EPUB",
+      "size": "0.7MB",
+      "hash": "5ee65991d1abe67f6da5eb9122c447a1",
+      "url": "https://annas-archive.gl/md5/5ee65991d1abe67f6da5eb9122c447a1"
+    },
+    {
+      "title": "Madame de Chateaubriand: lettres inédites à M. Clausel de Coussergues",
+      "authors": "Céleste Buisson de La Vigne Vicomtesse de Chateaubriand & Gabriel Pailhès",
+      "publisher": "Feret et fils, 1888",
+      "language": "French",
+      "format": "EPUB",
+      "size": "1.7MB",
+      "hash": "a01a0d61df40ec27884745612ada5b28",
+      "url": "https://annas-archive.gl/md5/a01a0d61df40ec27884745612ada5b28"
+    },
+    {
+      "title": "Ernest Renan en Italie. Sa mission scientifique et litteraire. (Juillet 1849-Juillet 1850). D'apres sa correspondance, et vingt lettres inedites.",
+      "authors": "Author Unknown",
+      "publisher": "None",
+      "language": "French",
+      "format": "PDF",
+      "size": "9.3MB",
+      "hash": "8edd73197e1759c0ed7f07279297332a",
+      "url": "https://annas-archive.gl/md5/8edd73197e1759c0ed7f07279297332a"
+    },
+    {
+      "title": "Devenir Céline. Lettres inédites de Louis Destouches et de quelques autres (1912-1919)",
+      "authors": "Louis-Ferdinand Céline",
+      "publisher": "Editions Gallimard, 2014",
+      "language": "French",
+      "format": "PDF",
+      "size": "1.1MB",
+      "hash": "12f123a0e83fd9bed236913829f4e96e",
+      "url": "https://annas-archive.gl/md5/12f123a0e83fd9bed236913829f4e96e"
+    },
+    {
+      "title": "Talleyrand: Le maître de Napoléon (A.M. HISTOIRE) (French Edition)",
+      "authors": "Lawday, David",
+      "publisher": "Albin Michel (Éditions), Paris, imp. 2015",
+      "language": "French",
+      "format": "EPUB",
+      "size": "0.7MB",
+      "hash": "0d7be392d5fe8bcae09cf775939f1bf5",
+      "url": "https://annas-archive.gl/md5/0d7be392d5fe8bcae09cf775939f1bf5"
+    },
+    {
+      "title": "Lettres inédites à Joseph Morlent",
+      "authors": "Delavigne, Casimir & Janin, Jules & Ancelot, Jacques-Arsène-François-Polycarpe & Fournier, Louis",
+      "publisher": "BnF-Partenariats, BnF Partenariats (BnF P), [N.p.], 2016",
+      "language": "French",
+      "format": "EPUB",
+      "size": "1.0MB",
+      "hash": "0fc543919c4a1d46a2ff9bae4830b02f",
+      "url": "https://annas-archive.gl/md5/0fc543919c4a1d46a2ff9bae4830b02f"
+    },
+    {
+      "title": "Lettres de Napoléon à Joséphine",
+      "authors": "Bonaparte",
+      "publisher": "0",
+      "language": "French",
+      "format": "",
+      "size": "0.1MB",
+      "hash": "089ff84787aec64045c4460c3e4ebbe6",
+      "url": "https://annas-archive.gl/md5/089ff84787aec64045c4460c3e4ebbe6"
+    },
+    {
+      "title": "Lettres inédites au général Laperrine",
+      "authors": "Charles de Foucauld",
+      "publisher": "La Colombe, 1954",
+      "language": "French",
+      "format": "PDF",
+      "size": "7.9MB",
+      "hash": "f90ef36df64a466bbe6c084de5d38a8e",
+      "url": "https://annas-archive.gl/md5/f90ef36df64a466bbe6c084de5d38a8e"
+    },
+    {
+      "title": "Tintinologie - Plume - n50 oct-dec 2009 (objectif herge - lettres inedites).cbz",
+      "authors": "Herge",
+      "publisher": "Tintinologie: Plume, 2009 oct",
+      "language": "CBZ",
+      "format": "",
+      "size": "21.8MB",
+      "hash": "2a9f5728a70b6cbdc01c1227926b117f",
+      "url": "https://annas-archive.gl/md5/2a9f5728a70b6cbdc01c1227926b117f"
+    }
+  ],
+  "source_url": "https://annas-archive.gl/search?q=Lettres+in%C3%A9dites+Talleyrand+Napol%C3%A9on&content=book_nonfiction&content=book_fiction&content=book_unknown",
+  "transport": "http",
+  "scope": "current_page_only",
+  "complete": false
+}

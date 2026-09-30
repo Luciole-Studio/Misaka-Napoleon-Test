@@ -1,0 +1,36 @@
+# B3来源与口径清单
+
+本卡写作日期2026-09-23。只列实际使用版本；“已读”包括本卡子任务实际读原文并写入逐条摘录、主笔复核的范围，不等于通读专著。URL为来源、路径为复查入口，**路径不能替代作者与文本内容**。网页转录与PDF/OCR均不冒充亲阅档案。主报告分项以以下键引用。
+
+## 1. J：William James年度舰表
+
+William James, *The Naval History of Great Britain*，1837版年度附表体系，Paul Benyon现代HTML转录；网页标2002更新。索引：https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_Index.html 。本轮读到表头“An ABSTRACT ... at the commencement of the year ...”，即年初；四态为Sea-service in commission／in ordinary、Harbour-service两类，另有Building or ordered。Built的King's／Merchants' yards位于上年度增减区，不是当年库存新增。
+
+|键／表年|所读位置与URL|本地版本／核读方式|
+|---|---|---|
+|J3，J11／1803|III, Abstract11；https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_III/Abstract_No_11.html|旧ETH影本PDF395页；James1837_p395.png；网页146cbc594a66.md作比较|
+|J3，J12／1804|III, Abstract12；https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_III/Abstract_No_12.html|旧ETH影本PDF396页；James1837_p396.png|
+|J3，J13／1805|III, Abstract13；https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_III/Abstract_No_13.html|旧ETH影本PDF397页；James1837_p397.png|
+|J14／1806|IV, Abstract14；https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_IV/Abstract_No_14.html|downloads/pages/ee9e07ba451b.md，Line/Cruisers及注a–f|
+|J15／1807|IV, Abstract15；https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_IV/Abstract_No_15.html|downloads/pages/83c66266952e.md，Line/Cruisers及fir舰注|
+|J16／1808|V, Abstract16；https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_16.html|downloads/pages/d39fd55b29e2.md；Line原行首113/197350/13/25089/126/222439|
+|J17／1809|V, Abstract17；https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_17.html|downloads/pages/00a2dabd2063.md|
+|J18／1810|V, Abstract18；https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_18.html|downloads/pages/ddccd80edb3a.md|
+|J19／1811|V, Abstract19；https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_V/Abstract_19.html|downloads/pages/b5b76ec14c26.md|
+|J20／1812|VI, Abstract20；https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_20.html|downloads/pages/682e933f431c.md|
+|J21／1813|VI, Abstract21；https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_21.html|downloads/pages/e62d2b040709.md|
+|J22／1814|VI, Abstract22；https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_22.html|downloads/pages/1fe8a9e1b008.md|
+|J23／1815|VI, Abstract23；https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/Abstract_23.html|downloads/pages/c2105af935e9.md|
+
+1803–05影图全路径前缀`nodes/r_b55f2c1cf5/cards/t_104134/naval/`，相应CSV为`UK_1803_1805.csv`。原文档`downloads/James_1837_v3_ETH.pdf`，doc_id `a178739fd84c`；PDF398–400页读取附表说明，对应印刷373–375附近，不能以PDF页称原书印页。说明称Sea-service涵盖“every ship fitted or about to be fitted for sea-service”；港勤ordinary不自动等于可动员储备。1803 Cruisers总吨原图356400，HTML356399，一吨差保留。
+
+新七张表：`sources/annual/evidence.md`列每行40数原序列、映射、完整捕获文本SHA256；`extract_captured_tables.py`提取及加法检查；`checks.json`28项残差均0。**零残差不证明原数据正确；现代转录尚未逐影对七张原表。**初次子代理未获工具，曾生成全空接口；本轮主笔已获取全文并重写，生成脚本以七行所有关键字段非空才报告annual_source_loaded=true。直接HTTP失败的`fetch_annual.py`只是过程记录，不作为复算数据源。
+
+其他已读James内容：
+
+- **J-VI40**：VI p40，https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/P_040.html ，`downloads/pages/05ae2a02c794.md`。关键句：“seamen and marines, voted ...145,000”；军官数为名册存量。正文不独立证明票数等于实员。
+- **J-VI152**：VI p152，https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/P_152.html ，`c8f3fb7e8d62.md`。1813人员票与造舰讨论，仅作补充。
+- **J-VI417**：VI p417起，https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/P_417.html ，`391f1c758def.md`。Seppings斜撑用于试验、维修、重建及新造的先后，不从颂扬词句反推可用率百分比。
+- **J-App9**：VI Appendix9，https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_VI/P_500.html ，`1f6907a51a1d.md`。1814前7阴历月86,000海员＋31,400陆战队、后6月74,000＋16,000；交通、战俘、造修等费用各列。
+- **J1814text**：1902 Macmillan新版本VI p116（实际读过版权页及正文），https://www.ibiblio.org/pha/USN/Navy/navalhistoryofgr06jameuoft.pdf ，`95e1bd14b0d8.md`。正文称前7阴历月140,000、后6月90,000。与Appendix9前期总117,400有版本／正文与表格冲突，未定谁误。**不混称1837影本亲读。**
+- **J1886-IV390**：1886 Richard Bentley版IV p390（相邻p391可定位），https://www.ibiblio.org/hyperwar/NHC/NewPDFs/UK/UK,%20Naval%20History%20of%20Great%20Britain%204.pdf ，`d6e755fb0b5d.md` L5900附近。原句称westerly gales使Gambier离Ushant站位，Willaumez于1809-02-21出航；证明局部天气窗口，非长期突破概率。

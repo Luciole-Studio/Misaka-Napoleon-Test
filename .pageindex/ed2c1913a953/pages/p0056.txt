@@ -1,0 +1,26 @@
+Table §
+
+Tax Smoothing in Great Britain
+
+(T/Y), = By + BiTime + BT/Y) n+ 28s TY eee TY eh + Ut
+
+Dependent _
+Variable Period By 8, 8, R DW
+
+Taxes/
+Commodity Output 1718-1815 ~§1,3 0.03 0.93 ・89 1.96
+(2.3) (2.3) (16.2)
+
+Dickey~Fuller Test = ~0.948
+
+Taxes/
+National Income 1700-1815 ~48,07 0.02 0.95 85 1.91
+(-1.7) (1.8) (13,2)
+
+Dickey-Fuller Test = ~0.942
+
+Note: The t-statistics are in parentheses.
+The critical value for the Dickey~Fuller test at the
+0.05 level is -3.45.
+
+54

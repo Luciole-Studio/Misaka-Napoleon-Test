@@ -1,0 +1,17 @@
+{
+  "doc_id": "d0bc3e5672be",
+  "title": "[t_104134] nodes/r_b55f2c1cf5/cards/t_104134/c2_gaps.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_b55f2c1cf5/cards/t_104134/c2_gaps.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_b55f2c1cf5/cards/t_104134/c2_gaps.csv"
+  ],
+  "sha256": "d0bc3e5672beb70301aaad5bc07c4b46098ef15c79fb0fc723eeea4e0484f66c",
+  "pages": 1,
+  "task_id": "t_104134",
+  "task_ids": [
+    "t_104134",
+    "t_7ee3b0"
+  ],
+  "added_at": 1789883145,
+  "office_format": "csv"
+}

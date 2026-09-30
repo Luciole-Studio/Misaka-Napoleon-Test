@@ -1,0 +1,54 @@
+
+
+David S. Jacks 
+National University of Singapore 
+Department of Economics 
+and CEPR 
+dsjacks@gmail.com 
+
+Kevin Hjortshøj O'Rourke Sciences Po Department of Economics kevin.orourke@sciencespo.fr
+
+Alan M. Taylor Columbia University and CEPR and also NBER amt2314@columbia.edu
+
+Yoto V. Yotov 
+Drexel University 
+School of Economics 
+Department of Economics 
+and International Business 
+and ERI-BAS 
+yotov@drexel.edu 
+
+#### 1 Introduction
+
+International trade has long been a central theme in British economic history, featuring in key debates about the roles of mercantilism in early modern growth and foreign markets during the Industrial Revolution (e.g., Findlay 1982; O’Brien and Engerman, 1991; Temin, 1997; Harley and Crafts, 2000; Allen, 2003). In the decades before World War I, contemporaries pointed to trade statistics as evidence that Britain was falling behind its competitors, and the argument that slowing exports might have caused sluggish British growth was subsequently investigated by a cliometric literature on late Victorian failure (Meyer, 1955; McCloskey, 1970). In this paper, we present a new publicly available database that speaks to these and many other issues, capturing the universe of British exports and providing information on commodity-level flows to 86 consistently-defined destinations between 1700 and 1899.1
+
+Our data make it possible for the first time to quantify the impact of empire and distance – two very important determinants of bilateral trade costs – on British exports during the 18th and 19th centuries, and in particular to show how these impacts varied across sectors and over time. Mercantilism linked empire and trade closely in the 18th century: Allen (2003, p. 414) goes so far as to say that trade was "an exogenous measure of imperial advantage". But how quantitatively significant was this link and how does it compare with the impact of imperial ties in the post-mercantilist 19th century? Our data can help us distinguish between the impact on British exports of mercantilism on the one hand and free trade imperialism on the other, as well as allow us to determine when the transition between the two regimes began. There is a large literature on the impact of empires on trade. For instance, Mitchener and Weidenmier (2008) use gravity methods to
+
+1We use the term “British” for convenience although it is slightly inaccurate. England and Wales were united with Scotland in 1707, forming the new state of Great Britain. In 1801 Britain and Ireland merged to form the United Kingdom. The issue is further discussed in Section 3.1 below.
+
+explore these effects between 1870 and 1913. Eichengreen and Irwin (1995), Gowa and 
+Hicks (2013), de Bromhead et al. (2019), and Jacks and Novy (2020) examine imperial ties 
+during the trade bust of the interwar period, while Head, Mayer, and Ries (2010) study the 
+erosion of colonial trade relationships post-independence. In contrast, we are able to push 
+the analysis of empire and trade all the way back to 1700, the heyday of mercantilism. 
+Another literature has emerged over the past two decades which uses contemporary 
+data to document and explain the “distance puzzle” whereby the negative impact of 
+distance on trade first increased and then failed to decline in the post-1950 period (Coe, 
+Subramanian, and Tamirisa, 2007; Yotov, 2012). López-Córdova and Meissner (2003), 
+Mitchener and Weidenmier (2008), Jacks, Meissner, and Novy (2011) and others use gravity 
+methods to estimate distance coefficients in the late 19th century. Such efforts allowed 
+Disdier and Head (2008) to go as far back as 1870 in their meta-analysis of distance effects: 
+they document that the distance coefficient was smaller in the late 19th century than it is 
+today. But was it even smaller in the 18th century? Or has there been a U-shaped pattern 
+of 18th and 19th-century decline followed by a 20th century increase? 
+Answers to such questions can potentially speak to debates about the development 
+of maritime shipping and freight rates over the course of the past 300 years: when did 
+transport costs decline and did they fall because of institutional factors or technological 
+change (North, 1958, 1968)? If the latter was more important, then was this largely a 
+19th century phenomenon sparked by the introduction of new technologies related to the 
+Industrial Revolution (Harley, 1988)? Or did earlier technological progress, documented 
+by a more recent literature and due largely to the coppering of ships, which increased both 
+their longevity and speed, also have an impact (Solar and Rönnbäck, 2015)? Studying the 
+changing impact of distance on British exports over time can provide further evidence to 
+illuminate this issue. 
+We also ask whether these impacts varied across sectors. Much of the gravity literature 

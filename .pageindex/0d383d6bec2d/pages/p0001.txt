@@ -1,0 +1,38 @@
+---
+source_url: "https://fr.wikisource.org/wiki/%C3%89tudes_sur_les_travaux_publics._%E2%80%94_La_machine_%C3%A0_vapeur"
+final_url: "https://fr.wikisource.org/wiki/%C3%89tudes_sur_les_travaux_publics._%E2%80%94_La_machine_%C3%A0_vapeur"
+provider: "exa"
+text_sha256: "22c79bdc38ce15b49a52a3487cd037205de9173658cdb9afd727ab9672a6c6c4"
+title: "\u00c9tudes sur les travaux publics. \u2014 La machine \u00e0 vapeur - Wikisource"
+content_kind: "page_text"
+---
+
+Études sur les travaux publics. — La machine à vapeur - Wikisource
+
+Études sur les travaux publics. — La machine à vapeur
+
+Revue des Deux Mondes, 2e période, tome 100, 1872 (p. 541-564).
+
+journal2e périodeÉtudes sur les travaux publics. — La machine à vapeur Henri Blerzy Bureau de la Revue des Deux Mondes 1872ParisC tome 100 Revue des Deux Mondes - 1872 - tome 100.djvuRevue des Deux Mondes - 1872 - tome 100.djvu/9541-564
+
+ETUDES
+
+SUR
+
+LES TRAVAUX PUBLICS
+
+---
+
+LA MACHINE A VAPEUR
+
+---
+
+Des Machines à vapeur, par M. F. Jacqmin, directeur de l’exploitation des chemins de fer de l’Est ; 2 vol. in-8o.
+
+---
+
+Quot servi, tot hostes, disait-on à Rome. Nous n’avons plus d’esclaves, et pourtant nous avons encore des ennemis domestiques, qui sont les forces vives de la nature que nous avons réduites en servitude. Dans le nombre de ces serviteurs inconsciens et quelquefois rebelles, le plus redoutable ou, pour mieux dire, le plus redouté est sans contredit la machine à vapeur. On aurait vite fait de compter les personnes qui ne tremblent pas devant cet énergique instrument. On le soumet à la surveillance comme un malfaiteur incorrigible, on l’éloigne des habitations comme un pestiféré, et cependant vit-on jamais serviteur plus docile ? Lorsqu’on se trouve en présence de ces engins gigantesques qui roulent, se balancent, vont et viennent sans bruit, sans choc et sans repos, la première impression d’effroi surmontée, l’esprit se sent satisfait. Il ne reste plus que le sentiment d’un immense travail accompli sans que personne en ait la fatigue. Il était pénible jadis de voir l’homme s’user dans un travail purement musculaire, on s’apitoie même quelquefois au spectacle d’animaux domestiques qui tournent machinalement dans un manège ou s’épuisent en efforts sur un attelage embourbé ; la vue d’une machine qui accomplit un acte de force brutale et ne laisse à l’ouvrier qu’une œuvre de surveillance intelligente nous fait éprouver une certaine quiétude. Grâce à la vapeur, le rôle de l’homme est devenu dans nos manufactures plus noble. À ce point de vue, la machine à vapeur est un prodigieux instrument de progrès et de civilisation. Il vaut la peine de l’étudier sous ce rapport ; nous voudrions montrer quelle place elle tient dans l’industrie moderne, quels perfectionnemens elle a reçus en ces derniers temps, et aussi dissiper cette frayeur exagérée qu’elle inspire encore en montrant qu’elle est devenue un outil souple et obéissant.
+
+I
+
+Pour bien saisir le rôle des machines à vapeur dans l’industrie, il faut d’abord savoir combien il y en a, et quelle force elles représentent. En 1800, il existait en France 6 machines d’une force totale de 169 chevaux ; en 1830, on en comptait 616 ; en 1850, 6,832, et en 1864 plus de 25,000. C’est à cette dernière année que s’arrêtent les documens statistiques cités par M. Jacqmin. Comme le nombre s’en accroissait alors de 1,500 à 1,800 par an, on peut admettre qu’il y en a maintenant bien près de 40,000. La force des machines s’évalue, on le sait, au moyen d’une unité factice, le cheval-vapeur, qui correspond à peu près au travail de trois chevaux de trait ou de sept hommes de peine. Les 25,000 machines à vapeur de 1864 représentaient une force motrice d’environ 675,000 chevaux-vapeur ; elles étaient donc l’équivalent de 2 millions de chevaux de trait ou de 5 millions d’hommes. Il est certain que tous les chevaux de trait et toute la population ouvrière de la France appliqués au seul travail moteur des usines, si pareille chose se pouvait concevoir, arriveraient bien juste à remplacer la vapeur. D’ailleurs ces évaluations ne sont qu’arbitraires, M. Jacqmin l’observe avec raison. La vapeur agit d’une manière continue et, s’il le faut, avec une vitesse considérable, ce que ne peuvent faire les moteurs animés. Elle peut accumuler en un seul point une puissance prodigieuse. Il est permis de dire qu’une petite machine, vaut autant que 3 chevaux ou que 7 hommes ; mais cette machine marche au besoin vingt-quatre heures par jour sans arrêt, tandis que bêtes et gens devraient se reposer les deux tiers plu temps. Et puis conçoit-on des chevaux traînant un train express avec une vitesse de 60 kilomètres à l’heure ou des hommes faisant tourner l’arbre d’hélice d’un navire transatlantique de 4,000 tonnes ? En réalité, la vapeur est une force nouvelle qui a grandi d’une façon inappréciable la capacité industrielle des pays civilisés. En l’état actuel de nos connaissances, rien ne saurait remplacer les 20,000 machines fixes, les 4,000 locomotives et les 1,000 machines de bateau que la France possédait en 1864.

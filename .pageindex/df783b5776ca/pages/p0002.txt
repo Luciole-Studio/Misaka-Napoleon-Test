@@ -1,0 +1,17 @@
+
+
+## Rambaud《Naples sous Joseph Bonaparte 1806-1808》(1911)
+文件：downloads/IT2_Rambaud_Naples_Joseph.txt（=archive.org rambaud-naples-sous-joseph-bonaparte-1806-1808）
+- L23780-23800(印p.324): fondiaria定额700万ducats+每ducat加5 grani减灾基金；那不勒斯人斥为"苛暴"；**Zurlo估全国土地净收入仅约40,000,000 ducats、认为500万已重；Roederer估55,000,000**。
+- L23920-23945: 旧制度遗留巨额欠税；新政权武力催缴；**1807年fondiaria实收仅5,500,000（额定700万），其中至少100万是实物供应券或耗于地方开支；两卡拉布里亚省额定700,000 ducats实收仅450,000**；至1808-07-31 Roederer交权时当年经常税只收到2,422,839 ducats。"叛乱、盗匪、封锁须与这些结果并观。"
+- L26090-26110: 流动债务1808-01-01=9,258,176 ducats；+1808年荷兰借款担保1,796,487+并合女修院与银行4,823,016；**Bianchini估1806年债务总额（含未清算）达430,000,000 ducats**[口径为一切债权毛额，与Davis引Ermice约105,000,000、Johnston引Bianchini 130,000,000并列存异]。
+- L26262-26270: Roederer卸任时：Grand-Livre登记700万ducats；已偿cedole 10,323,000；流通中7,503,000；**永久债务1808-04-30降至50,426,018 ducats（约减半）**。
+- L26580-26600(脚注): 1808上半年各部预算（"王朝运转最正常期"）：**战争4,534,000 ducats（约750,000/月；1807-04曾达800,000/月）**；王室600,000；海军590,000；内政531,500；财政387,172；司法158,000；外交191,000；警务90,000；教务12,632。约瑟夫从巴约讷把7月预算定为1,127,000 ducats/月。
+- L26580-26600: 薪俸表：大臣10,000 ducats/年（兼国务会议8,000可并领）；省督2,400+2,400津贴；副省督840+720；卡拉布里亚民政专员8,400；治安官(giudice di pace)150(?)。
+- L7678(脚注): [西西里对照]1810年西西里预算升至800,000 onze，为1790年的两倍[转引BIANCO]。
+
+## 复用上一轮t_7da32d已核一手锚点（原文见各downloads/pages/*.md）
+- **1806-03-30约瑟夫受封令**（Panckoucke编《Œuvres de Napoléon》IV, 1821, Gutenberg 13192）："les couronnes, soit de France, soit d'Italie, soit de Naples et de Sicile, ne puissent jamais être réunies sur la même tête"——法、意、那不勒斯-西西里三冠永不集于一人。downloads/pages/649e54bf4408.md。
+- **1811-07-06拿破仑致Clarke**（napoleon-histoire.com现代转载）：命Grenier不顾那不勒斯王反对集中法军控制Gaète，宣布Grenier"n'est plus sous les ordres du roi de Naples"；同时称在那不勒斯的法国人仍是法国人、依大帝国法为那不勒斯公民。downloads/pages/6864746209f3.md L542-548。[与Davis ch.8所记7-06敕令同一危机链]
+- **1815-03-30缪拉里米尼宣言**（it.wikisource转录）："sgombri dal suolo italico ogni dominio straniero!"；要求"un governo di vostra scelta, una rappresentanza veramente nazionale, una Costituzione"；并赞英国为立宪典范。自报八万兵力无独立核验。downloads/pages/567748874d93.md。
+- 1805-03-17意大利王国宪制令第3-4条（那不勒斯、爱奥尼亚、马耳他撤军后分冠条款）：downloads/pages/523d0f5541c4.md + downloads/c6_1805_italian_statute.pdf。

@@ -1,0 +1,63 @@
+# C4 英国战争财政：8项有界证据核查
+
+## 交付状态与口径
+
+这是补证备忘，不是总报告或财政模型。复用旧卡 `nodes/r_b55f2c1cf5/cards/t_bef693/uk_evidence.md` 及既有缓存，新增材料由网页工具提取。以下引文核到正文转录层，**未完成原版影印逐页对校**；正文有OCR错误，不把缓存行号当印刷页。
+
+**仍未完成：1810–15连续年度债务/债息/税收表、1811商业救助实际发放总额、Knight原著财政页。** 下列战后邻近日期不能冒充1815年末。金额均按所引材料的名义英镑口径，未自行换币或拼接比率。
+
+## 1. 债务存量：目前可确证的是1816年初，而非1810–15完整系列
+
+【事实：议会所通过决议记载】1816年2月1日联合王国未赎回funded debt为 **£810,046,036**；1817年同日为£790,050,980。这是账面债务额，不是市场价值。
+
+短引： “the total amount of the funded debt, of the United Kingdom, unredeemed”。
+
+来源：*State of the Public Finances*, HC Deb 9 July 1817, vol.36, cc1336–65，文末 **Mr. Grant’s Resolutions，第1项**。正文明确说这些决议被通过。
+- URL：https://api.parliament.uk/historic-hansard/commons/1817/jul/09/state-of-the-public-finances
+- 缓存：`downloads/pages/29727e560586.md`，149–161行。
+
+同处第2项称1816年1月5日Exchequer bills £41,441,900、Irish treasury bills £2,497,803，所列合计£43,939,708。**两分项相加与所列合计相差£5，须对校；且与funded debt相隔近一个月，不能直接相加标作1815总债务。** 本项只冻结funded debt数字，短债表保留待校。1810–15逐年存量未得。
+
+## 2. 1815债息：终于取得分项，但尚无同口径税收分母
+
+【事实：Hume议会表，转引年度财政账】1815年截至12月的联合王国：
+
+| 项目 | £ |
+|---|---:|
+| Funded debt付给公众的利息 | 27,176,930 |
+| 管理费 | 259,970 |
+| Exchequer及Irish Treasury bills利息 | 3,014,003 |
+| 原表债务总负担，含管理费、不含偿债基金 | 30,450,903 |
+
+短引表头：“ending December in each Year (exclusive of the Sinking Fund)”。
+
+来源：*Economy and Retrenchment*, HC Deb 27 June 1821, vol.5, cc1345–1442，**c.1351附近，No.3表**；表注“Vide Annual Finance Accounts for these Years”。
+- URL：https://api.parliament.uk/historic-hansard/commons/1821/jun/27/economy-and-retrenchment
+- 缓存：`downloads/pages/95e29ff1c015.md`。
+
+【限制】这是Hume提出、注明财政账来源的表，不宣称亲读财政账原表。£30.451m不是纯利息，更非偿债本金。不可除以O’Brien的1815三年均值税收，制造“1815债息/税收”。1810–14同口径债息未得。
+
+## 3. O’Brien税收表：58.25与62.67百万都不是单年值
+
+【事实：作者表2】“1810”对应入库税收 **£58.25m**，是以该年为中心的五年均值；“1815”对应 **£62.67m**，是例外的三年均值。不是gross collection，也不是含爱尔兰全部税收的统一UK口径。
+
+短引：“They are five year averages centering on the year cited—except for 1815 which is a three year average.”（连字符、数字按正常字形整理。）
+
+来源：Patrick K. O’Brien, “The Political Economy of British Taxation, 1660–1815,” *Economic History Review* 41(1), 1988, pp.1–32，**Table 2及注a**。
+- 原文链接：http://slantchev.ucsd.edu/courses/ps143a/readings/O'Brien%20-%20Political%20Economy%20of%20British%20Taxation,%201660-1815.pdf
+- 缓存：`downloads/pages/bb07a813031b.md`，约88–135行。
+- 上游：*Accounts of the public income and expenditure 1688–1869*, PP 1868–9, XXXV（Chisholm）；P.R.O. Customs 17/10–30；均为作者引证，未亲读档案。
+
+【文献推断：O’Brien】税收能力是funding system的前提；他的表3将1793–1815新增战争财源中税收贡献估为58%，基于“若无战争，战前入库税水平持续”的作者假设，**不是全部战争支出58%由税收支付的直接观察值**。
+
+短引：“the prerequisite for Britain’s ‘funding system’”。其和平间歇债息吸收40–50%收入的概述，以及表1战争期利息占三类拨付30%，都不可替代1810–15债息/税收系列。表2印刷页尚未可靠恢复。
+
+## 4. 所得税：1811预算明确区分评定、已收与旧欠
+
+【事实：预算发言记载】截至1811年4月5日年度Property Tax的净评定收益估计 **£11.8m**；发言时该项已收 **£4,864,267**，余款列£6,935,732。1804–10旧欠£2,246,644；扣除预计退免或无法收回约四分之一后，预算预计可收旧欠£1,686,644。
+
+短引：“of the estimated produce of the duty … 4,864,267l. had been received”。
+
+来源：*The Budget*, HC Deb 20 May 1811, vol.20, **cc213–214**。
+- URL：https://api.parliament.uk/historic-hansard/commons/1811/may/20/the-budget
+- 缓存：`downloads/pages/bff7e2ccf088.md`。

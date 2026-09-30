@@ -1,0 +1,32 @@
+
+
+Your personal data is also shared with the University of Nottingham who contact you on our behalf to confirm your interest in this panel.
+
+We use a third party provider, WorldAPP Inc, based in the United States, to provide the KeySurvey online tool. WorldAPP Inc participates in, and has certified its compliance with, a recognised EUU.S. privacy framework. For more information about WorldAPP Inc’s security practices and privacy policy visit [keysurvey.com/privacy-policy/](https://www.keysurvey.com/privacy-policy/).
+
+Individual responses are confidential, however, and will not be published.
+
+We will keep your personal data for 5 years from your last interaction with us. You can request that we no longer use your personal data, by writing to us.
+
+Your rights
+
+You have a number of rights under data protection laws (for example, you have the right to ask us for a copy of the personal data the Bank holds about you. This is known as a ‘Subject Access Request’. You can ask us to change how we process or deal with your personal data, and you may also have the right in some circumstances to have your personal data amended or deleted.
+
+To find out more about those rights, to make a complaint, or to contact our Data Protection Officer, please see our website at [bankofengland.co.uk/privacy](https://www.bankofengland.co.uk/legal/privacy).
+
+You can read more about the Decision Maker Panel in the following Quarterly Bulletin article:
+
+[Evidence from the Decision Maker Panel - Tracking the views of British businesses](https://www.bankofengland.co.uk/quarterly-bulletin/2017/q2/tracking-the-views-of-british-businesses-evidence-from-the-dmp)
+
+- [Decision Maker Panel data](https://www.bankofengland.co.uk/news?NewsTypes=ce90163e489841e0b66d06243d35d5cb&Taxonomies=d846d3f90abd4381b332a7eb79c6020c&InfiniteScrolling=False&Direction=Latest)
+- [Agents' summary of business conditions - September 2019](https://www.bankofengland.co.uk/agents-summary/2019/2019-q3)
+
+### Further information on the Decision Maker Panel
+
+If you would like to know more, please see [Decision Maker Panel website](https://decisionmakerpanel.co.uk), email Philip.Bunn@bankofengland.co.uk or call +44 (0) 203 461 3096
+
+## BoC-BoE Sovereign Debt Default Database
+
+### Database description
+
+Until recently, few efforts have been made to systematically measure and aggregate the nominal value of the different types of sovereign government debt in default. To help fill this gap, in 2014 the Bank of Canada (BoC) developed a comprehensive [database](https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/boc-boe-database.xlsx) of sovereign defaults that is updated annually in partnership with the Bank of England (BoE). The database draws on previously published datasets compiled by various public and private sector sources. It combines elements of these, together with new information, to develop comprehensive estimates of stocks of government obligations in default. These include bonds and other marketable securities, bank loans and official loans, valued in US dollars, for the years 1960 to 2023 on both a country-by-country and a global basis. This update of the BoC-BoE database, and future updates, are useful to researchers analysing the economic and financial effects of individual sovereign defaults and, importantly, the impact on global financial stability of episodes involving multiple sovereign defaults.

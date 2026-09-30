@@ -1,0 +1,31 @@
+---
+source_url: "https://industrial-archaeology.org/EarlyEngines/history.php"
+final_url: "https://industrial-archaeology.org/EarlyEngines/history.php"
+sha256: "5ee644e25b053c129912cf832e89d13816d2054f4aea70972d32cb7e6af38a25"
+text_sha256: "6fb0d8cdbb14e33914d48a28d8ac939d41b8bd6dcd568bf473ec3b92c38bd490"
+title: "History | Early Engine Database"
+---
+
+Title: History | Early Engine Database
+
+In Partnership with:
+
+[# EARLY ENGINE DATABASE](https://industrial-archaeology.org/EarlyEngines/index.php)
+
+[Search](https://industrial-archaeology.org/EarlyEngines/index.php) [History](https://industrial-archaeology.org/EarlyEngines/history.php) [Changes](https://forms.gle/D4csNyj7b4363duF6) [Acknowledgements](https://industrial-archaeology.org/EarlyEngines/thanks.php) [Explanation](https://industrial-archaeology.org/EarlyEngines/help.php) Contact Us
+
+### Steam Engine Building in the Eighteenth Century
+
+### History and Context
+
+note by Dr John Kanefsky
+
+#### Origins
+
+This database had its origins in my research for a PhD at Exeter University on the diffusion of power technology in Britain. John Robey of Moorland Publishing, author and publisher of many books on mining and local history, had been compiling a card index of individual steam engines built by 1800, to meet the challenge set by John Harris in his tentative assessment published in History in 1967, which had suggested that a possible total of 1,330 might be conservative. We were put in touch and agreed to collaborate, since we both believed that it was possible to generate a statistical or factual base from which to assess the extent to which steam power was taken up by the 18th-century economy
+
+John had other calls on his time so I took on this work, combining and extending John's card index with my own literature search and entering all the details on 80 character IBM punch cards. This was at the time the best information technology available, and it made feasible the cross-referencing, checking and verifying the data and analysing the numbers according to various traits and criteria. We were able to log over 2,000 engines over the century and publish the results in an article in Technology and Culture in 1980; I also included a copy of the full computer printout in my 1979 PhD.
+
+There the matter stood for many years, as we both had other pressures on our time. John bowed out of further involvement, but I did try to keep track of the main publications which identified further additional engines or enabled double counting and other mistakes to be corrected, especially the work of Jennifer Tann on the Boulton and Watt archives, but also many monographs and articles with a more local focus.
+
+Nowadays powerful database and spreadsheet software, beyond the wildest dreams of the 1970s, is commonplace, so it was possible to scan the prinouts of the 70s database into an Excel spreadsheet (for which my thanks to Alessandro Nuvolari), following which I turned the number pair codes into text so it was more easily analysed, and added detailed references, which had previously had to be written longhand onto the back of the cards because of the limits of the punch card system, and did some limited editing - correcting spellings, location details etc.

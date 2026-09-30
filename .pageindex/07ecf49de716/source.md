@@ -1,0 +1,41 @@
+# notes_fahmy.md — Khaled Fahmy, *All the Pasha's Men: Mehmed Ali, his Army and the Making of Modern Egypt* (AUC Press ed. 2002, ©1997)
+来源文件：`downloads/All the Pashas Men__3974eae00dfb.epub`（MD5核验3974eae00dfbf6eafafeb96d3e70ab06）；抽文本`downloads/EG_Fahmy_AllPashasMen.txt`（行号=该txt行）。Fahmy底本=埃及国家档案(Awamir lil-Jihadiyya、S/1/48等系列)+Sāmī《Taqwīm al-Nīl》+Rustum。引文皆英译原书。
+
+## A. 军队的诞生与结构（ch2–3）
+1. 【L4327–4334】Sève（Süleyman Pasha）1820年受雇（fn：更可能1819年抵埃、原衔上尉而非上校【L5315】），最终位居军中第二仅次Ibrahim；Boyer军事使团=阿里请Drovetti推荐（Boyer曾随拿破仑远征埃及）。
+2. 【L4370–4380】1822年Sève+Osman Nureddin+Ahmed Muhendis起草的建军方案被阿里否决，理由="盲抄拿破仑军制"："这方案妙极，但拿破仑用它带的是数千人老兵之军，我们的军是新创的"；两周后勒令按Selim III的nizam-i cedid奥斯曼军制重拟。→ 埃军=奥斯曼-法国混合体，非"海外法军"。
+3. 【L4546–4560】苏丹奴隶兵路线失败：1821-08首批1,900人抵Isna；Aswan兵营接收；沿途大量死亡（"像烂疫之羊般死去"）；2,400人抵Aswan仅1,245人活着到开罗【L4579】；阿里雇美国医生治"此族"。
+4. 【L4597–4606】1822-02-18致Jirja总督Ahmed Pasha Tahir令=首份征埃及农民令：上埃及征约4,000人，初定3年役期给证放归（后成无限期）；动机=替换不耐苏丹气候的土耳其兵，非levée en masse。
+5. 【L4610–4615】军官团=马穆鲁克学校：Aswan（阿里的mamluks，Douin记300–400人；al-Rāf'ī记学员共约1,000【L5573】）+Farshūṭ（Ibrahim的）；Sève任首席教官【L4620】。
+6. 【L4713–4719】<1年内Banī 'Adī新营已训30,000人；Aswan/Farshūṭ先成10营×800人。
+7. 【L4736–4750】1823-11 Banī 'Adī大校阅：Drovetti："精确到为负责训练的法国军官增光"；Salt（英）："Pride, pomp and circumstances of glorious war…astonishing the figure they make"——法英领事同台观礼=阿里的平衡展示。
+8. 【L4755】1823 'Asīr平叛：2,500新军步兵击败十倍瓦哈比军。
+9. 【L4770–4800】1824-03-22城堡火药库爆炸死4,000+（疑旧军阿尔巴尼亚人/马穆鲁克纵火）；新军一营控场。1824-04上埃及大起义：30,000+男女，Shaykh Raḍwān自称mahdi、斥阿里为异教徒；曾传700士兵倒戈、45军官被当众枪决；Osman Bey以500骑+3,000新军步兵两周平定，死4,000+。→新军对本乡本族开枪不手软（军士杀父获升中尉【L4820】）。
+10. 【L4801–4806】由此放开征兵闸门："conscription waves frantically followed each other so that by the mid-1830s the number of conscripts had already reached 130,000"；人口约500万→军队=人口2.6%。
+11. 【L2938】海军峰值旁证：阿里Navarino前信自估全歼代价"30–40 thousand men"（舰队人员规模级）。
+
+## B. 供养机器与极限（ch4–5）
+1. 【L9158–9175】"Sustaining an army of around 130,000 men on a more or less constant war footing was no easy task"：更高税率、跨数百英里征发粮食、军服工厂、驱动工厂的马骡牛、邮驿、现代医疗体系——"经济-官僚结构"是军队的另一半。
+2. 【L9180–9200】薪饷长欠：塞浦路斯戍军欠15个月（Hijaz期）+15–20个月（苏丹期）；Morea/克里特同欠；叙利亚战役中Ibrahim报"asker bu gurbette parasız kaldı"（兵在异乡无钱）；军医教官欠6个月。
+3. 【L12930–12938】逃兵总账：叙役六年后报告：陆军失踪60,000+海军20,000；"army could not have been larger than 130,000, this means that for every two conscripts, one soldier managed to desert"；点名缺员10–25%。Fahmy解读=民众以脚投票反抗此政权（其反民族主义叙事核心）。
+4. 【L4703】阿里自知国家强度："埃及人不像欧洲人那样习惯兵役，我们的政府也不如他们的强……只能一步一步来"。
+
+## C. 1827断裂与1828–33转向（ch1）
+1. 【L2870–2885】1827夏：阿里知欧洲列强合力促希腊独立，自陈（对Salt）若谈判破裂，愿以"英法联合舰队来亚历山大武力示威"为台阶立即撤军撤子——主动向英领事要"被强制"的剧本！
+2. 【L2890–2935】大维齐尔斥欧洲舰队为"ayağı patırdıları"（喧嚣噪音）；阿里Navarino前致驻京代理Najib Efendi信（全引）："若欧洲人不是虚张……我们必须承认无法与之对抗，唯一结局是全舰队沉没、三四万人丧命……我们虽是战争之人(ehl-i harb)，于此艺尚在字母表(alif ba)阶段，而欧洲人早已理论付诸实践……两害相权取其轻：希腊独立+奥地利调停"。→ 埃及统治者对欧陆海军差距的自我认知=能力上限的第一手陈述。
+3. 【L2917】1827-10-20 Navarino：<3小时全奥斯曼舰队覆灭，埃舰多数沉/焚；【L2924】战后Porte仍拒Ibrahim撤军、令烧村；阿里自与列强签撤军协定（1828-08 El-Arish式独立外交）；素丹只赏克里特不赏叙利亚。
+4. 【L2946–2950】1828–30法国提议阿里代取的黎波里+突尼斯+阿尔及尔（Drovetti–Polignac方案）："After some consideration and a lot of diplomatic exchange…the expedition was too costly to merit taking the risks involved and that it would divert him from the provinces he strongly desired [Syria]"。→ 巴尔巴里换叙利亚不换：阿里拒当法国北非代理人。
+5. 【L2950–2955】Navarino后决意自建舰队：法工程师Cerisy 1829-06起建亚历山大arsenal。
+6. 【L2960–2975】1831夏备战叙利亚：征兵潮加剧、船厂昼夜赶工、军工厂取消周五休。
+
+## D. 终局参数（intro/ch7）
+1. 【L1030–1040】1838 Balta Liman商约（针对阿里垄断制）+1841 firman：剥夺二十年所获领土、平时军限18,000人（"only a small fraction of its original size"）；随之工厂失军需市场+失关税保护而衰。
+2. 【L1040–1045】此后外国商人放贷→债务螺旋→三十年后财政危机→1882英占（Fahmy长线叙）。
+3. 【L3612】Navarino后重建舰队开销见FO档（英领事系列）。
+4. 国旗：红底五角星（奥斯曼六角）【L15185】——名义臣属之下的自我标识。
+
+## E. 本卡用法
+- A/B组=⑤撷取动员上限、⑥军事的骨架数据：130k陆军峰值/人口500万口径（Fahmy取值；Marsot/McCarthy人口口径另记）→征拔率2.6%+逃兵1/3~1/2、欠饷15–20个月=上限已越过可持续线。
+- C组=对法反应函数：法国给钱给船请他打阿尔及尔他都不去（1829–30），因为目标序=叙利亚>红海/北非；"法国东方工具"的天花板在阿里的目标函数，不在法国的支付能力。
+- C2=海军差距自评（alif ba）→P4接口：埃舰队不构成对英海权变量，只构成地中海东段的运输/护航补充。
+- D=1841天花板的制度化：欧洲协调（而非单一英国）才能压死他；反推：若欧洲分裂（法胜情景），无人能给他上18,000人的锁。

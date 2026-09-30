@@ -1,0 +1,45 @@
+
+
+### J2｜1812方案博客：仅辅助追版本
+- FAASouza，1812now，“April 17 1812: Napoleon’s Peace Offer”，2012。
+- http://1812now.blogspot.com/2012/04/april-17-1812-napoleons-peace-offer.html ；`downloads/pages/63ae275f32de.md`，行19–26实读。
+- 转录Bassano片段并链接Google Books gHgdAQAAMAAJ p.74；未核该书标题/原页，故不以博客的“纯政治伎俩”作结论。
+
+### C4｜1811 Whitbread、政府与Baring
+- HC Deb 5 June 1811，vol.20，cc445–455，“Vote of Credit”。
+- https://api.parliament.uk/historic-hansard/commons/1811/jun/05/vote-of-credit ；`downloads/pages/8f32cf6e5188.md`，本轮实读承重全文。
+- c.450 Whitbread：“peace on terms that were not honourable”亦不会接受；c.455 Baring谓撤令将令Bonaparte“greatly mortified”；同日£3m信用拨款最后“put and agreed to”。
+- c.448商人用美国船实测法令方案是Whitbread报告，未当成方案实际执行后的结果。
+
+### O1｜1812-06-23枢密令
+- 历史Hansard转录URL标题为HL Deb 24 April 1812 vol.22 cc853–857，正文却明载23 June 1812。**公开保留日期错配，不称四月已撤令。**
+- https://api.parliament.uk/historic-hansard/lords/1812/apr/24/declaration-of-the-court-of-great ；`downloads/pages/ef0538cb3aa9.md`，实读行14–48。
+- 限“American vessels, and their cargoes being American property”，8月1日起；要求美方撤歧视、保留合理通知后恢复权。
+
+## 三、派系、爱尔兰与传播
+
+### P1｜History of Parliament，“1807”
+- *House of Commons 1790–1820*，网页议会届期概述。
+- https://historyofparliamentonline.org/volume/1790-1820/parliament/1807 ；`downloads/pages/19a912642825.md`，Long description连续段实读。
+- 1807政府384、反对218、独立28、存疑16、中立12；1812-05-21组阁动议174:170；摄政不请辉格；Grenvillite与Foxite对战争和改革分歧。
+- 二手派系分类，不是和平立场表，不逐名重核；不能把票数加为当前反事实预定多数。
+
+### P2｜地方和平与社会运动（本轮经旧C16转引）
+- 复用`nodes/r_b55f2c1cf5/cards/t_b7b7b1/c16_britain_under_defeat.md`相关节。
+- J. E. Cookson, *The Friends of Peace: Anti-war Liberalism in England, 1793–1815*, CUP, 1982，仅“The Friends of Peace”“Yorkshire and Lancashire”“Christian Petitions”公开摘要；DOI 10.1017/CBO9780511896422.001、.008、.010；`downloads/pages/d9d4b8071970.md`、`d2355a2cc858.md`、`dffade892ace.md`。三章是一个作者/书，不作三源互证。
+- Katrina Navickas, “The search for ‘General Ludd’: the mythology of Luddism”, *Social History* 30(3), 2005, pp.281–295，承重282–283；`downloads/c16_navickas2005.pdf`，旧doc 3c4c39c32329；不冒称本轮重读全篇。
+- HC Deb 30 Nov.1812 vol.24 cc99–111：Whitbread综合修正案、Ponsonby警惕公开以困苦逼和抬高法国要价；`downloads/pages/f05f29e8e29a.md`，https://api.parliament.uk/historic-hansard/commons/1812/nov/30/the-prince-regents-speech-on-opening-the 。无点名票数不能计算和平党。
+
+### P4｜David R. Fisher，“The ‘New Opposition’, 1801–4”
+- https://www.historyofparliamentonline.org/periods/hanoverians/new-opposition-1801-4 ；`downloads/pages/219f06b950cc.md`，本轮实读相关全文段。
+- “The king’s veto of Fox dashed hopes of a broad coalition ministry”；Rose1804估Fox79、Grenville23。反亚眠者后来与Fox结盟，防止把派系恒定化。
+
+### P5｜History of Parliament，“1806”
+- https://www.historyofparliamentonline.org/volume/1790-1820/parliament/1806 ；`downloads/pages/f0fc864b4685.md`，行62–67实读。
+- Talents选举增优势但因国王要求终身不再提出天主教救济之保证而倒阁：“Grenville and his pro-Catholic colleagues refused”。
+- P1/P4/P5同一议会史研究体系，主题不相同，但不当完全独立三个机构。
+
+### I1｜联合后的爱尔兰代表
+- UK Parliament，“An Act for the Union of Great Britain and Ireland”。
+- https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliamentandireland/collections/ireland/act-of-union-1800/ ；`downloads/pages/d01fe4f39a0e.md`。
+- 100下院议席、28终身代表贵族、4轮值主教；馆藏展示号HL/PO/PU/1/1800/39&40G3n241。读的是网页说明，不是羊皮纸原法视觉对校。

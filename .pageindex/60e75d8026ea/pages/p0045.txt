@@ -1,0 +1,34 @@
+                       Table 4: Persistence in the location of cotton spinning activity, 1840-1887 - OLS and 2SLS
+                                                                                              Dependent variable: Spindles per thousand inhabitants
+
+                                                                              OLS                                                                                            2SLS
+
+                                    (1)        (2)         (3)          (4)          (5)      (6)         (7)          (8)         (9)       (10)        (11)         (12)        (13)      (14)        (15)         (16)
+      DepVar measured in           1840       1840        1840         1840         1887     1887        1887         1887        1840       1840        1840         1840        1887      1887        1887         1887
+
+      Spindles 1812                2.23        3.04      1.95           2.47      3.43        4.75       3.49         5.06        2.49        2.12       3.41           2.68      5.17       4.72       6.24          4.85
+                                  (0.78)     (0.99)     (0.85)        (0.93)     (1.24)     (1.54)      (1.31)       (1.71)      (1.13)     (1.27)      (1.05)        (0.93)     (1.22)    (1.26)      (1.93)        (1.39)
+                                  {0.81}     {0.99}     {0.86}       {0.93}      {1.29}     {1.57}      {1.37}                   {1.11}     {1.27}      {1.06}       {0.94}      {1.28}    {1.29}      {2.15}
+      Spindles 1803                           -2.95                    -1.55                 -4.69                     -4.86                 -1.61                     -1.85                -4.64                     -4.57
+                                             (1.53)                   (1.01)                (2.17)                    (2.42)                (1.56)                    (1.04)               (1.68)                    (1.84)
+      Literacy                                          119.93        71.18                             114.36        -16.63                              55.75        60.98                            -44.49        -4.29
+                                                        (60.19)      (55.35)                            (91.42)      (92.54)                            (74.68)      (55.34)                          (150.41)      (95.46)
+45    Market potential                                   31.39          2.67                              45.42       -33.57                            -131.66       -15.75                           -239.48       -16.38
+                                                       (101.65)     (109.61)                           (150.51)     (132.55)                           (161.27)     (104.61)                          (242.47)     (129.33)
+      Knowledge access                                  -155.58      -141.21                            -183.81      -159.55                            -163.82      -140.59                           -219.59      -159.00
+                                                        (80.52)      (83.05)                           (119.19)     (108.88)                            (86.21)      (78.31)                          (119.44)     (101.80)
+      Coal                                               -39.01       -27.19                             -19.14        12.23                             -55.88       -27.43                            -56.09       12.76
+                                                        (25.30)      (20.57)                            (45.69)      (44.00)                            (42.29)      (18.84)                           (81.23)      (41.19)
+      Streams                                             -8.16       -11.19                             -16.34       -16.85                              -3.93       -10.45                             -9.22       -17.54
+                                                         (7.28)       (5.80)                            (14.88)      (10.08)                             (8.93)       (4.86)                           (14.32)       (8.34)
+
+      Observations                  75         70          68           63           72        67         66           61          75         70          68           63           72        67          66           61
+      Adjusted R-squared           0.32       0.39        0.54         0.61         0.49      0.61       0.47         0.61
+      KP F-stat                                                                                                                   7.404      12.78      3.247        10.35       8.281      15.21       3.169        10.15
+      Num. clusters (gen)           34         34          31           30          33         33          30          29           34        34         31           30           33        33           30          29
+      Dependent variable: Spindles per thousand inhabitants for the respective year denoted at the top of each column. Departmental population held fixed at its 1811 level across all variables measured in per capita
+     terms. Regressor of interest: Spindles per thousand inhabitants in 1812. The instrument is the trade cost shock. Controls: Spindles per thousand inhabitants in 1803, Literacy measured as the proportion of men
+     able to sign their wedding certificate in 1786; Coal is the inverse of log distance to the closest coalfield; Streams is defined as the natural logarithm of mean streamflow (m3/s); Knowledge access is defined as market
+     access to universities in 1802; Market potential is defined as distance to urban population in 1800. All variables measured at their pre-blockade values. The number of observations differ across columns as controls
+     are missing for some departments, while territorial losses to Germany in 1871 account for the difference in observations across the years 1840 and 1887. For further details on the data, see Appendix A.3. Robust
+     standard errors in parentheses, standard errors clustered by généralités in curly brackets. The latter is not reported in cases where the number of généralités is less than 30.

@@ -1,0 +1,450 @@
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W4313888999",
+      "doi": "10.1561/0300000100",
+      "title": "Entrepreneurship in the Long-Run: Empirical Evidence and Historical Mechanisms",
+      "year": 2023,
+      "type": "article",
+      "venue": "Foundations and Trends® in Entrepreneurship",
+      "venue_issn": "1551-3114",
+      "authors": [
+        {
+          "name": "Michael Fritsch",
+          "id": "https://openalex.org/A5025843455",
+          "institutions": [
+            "Halle Institute for Economic Research",
+            "Schiller International University"
+          ]
+        },
+        {
+          "name": "Michael Wyrwich",
+          "id": "https://openalex.org/A5067130480",
+          "institutions": [
+            "University of Groningen",
+            "Schiller International University"
+          ]
+        }
+      ],
+      "cited_by_count": 28,
+      "is_oa": true,
+      "oa_pdf": "https://research.rug.nl/en/publications/a385ae14-f039-4629-ac6e-6fb5cce89e83",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 293,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W103402104",
+      "doi": "10.5860/choice.39-2295",
+      "title": "A history of the European economy, 1000-2000",
+      "year": 2001,
+      "type": "book-review",
+      "venue": "Choice Reviews Online",
+      "venue_issn": "0009-4978",
+      "authors": [],
+      "cited_by_count": 26,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W628026217",
+      "doi": "10.13109/9783666357169",
+      "title": "Allgemeine Gewerbefreiheit",
+      "year": 1983,
+      "type": "book",
+      "venue": "Vandenhoeck & Ruprecht eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Barbara Vogel",
+          "id": "https://openalex.org/A5024156056",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 26,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2013437646",
+      "doi": "10.1111/j.1468-0289.2009.00469.x",
+      "title": "Club goods and inefficient institutions: why Danzig and Lübeck failed in the early modern period",
+      "year": 2009,
+      "type": "article",
+      "venue": "The Economic History Review",
+      "venue_issn": "0013-0117",
+      "authors": [
+        {
+          "name": "Erik Lindberg",
+          "id": "https://openalex.org/A5057236711",
+          "institutions": [
+            "Uppsala University"
+          ]
+        }
+      ],
+      "cited_by_count": 25,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 41,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W1508702013",
+      "doi": "10.13109/9783666359644",
+      "title": "Traditionale Gesellschaft und revolutionäres Recht",
+      "year": 1983,
+      "type": "book",
+      "venue": "Vandenhoeck & Ruprecht eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Elisabeth Fehrenbach",
+          "id": "https://openalex.org/A5003798006",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 24,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 2,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W1595402105",
+      "doi": null,
+      "title": "Vom Zollverein zum Industriestaat : die wirtschaftlich-soziale Entwicklung Deutschlands, 1834 bis 1914",
+      "year": 1990,
+      "type": "article",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Richard Tilly",
+          "id": "https://openalex.org/A5085917889",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 24,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2010074115",
+      "doi": "10.2307/1863846",
+      "title": "Reform and Revolution in Mainz, 1743-1803",
+      "year": 1976,
+      "type": "article",
+      "venue": "The American Historical Review",
+      "venue_issn": "0002-8762",
+      "authors": [
+        {
+          "name": "John F. Flynn",
+          "id": "https://openalex.org/A5059277341",
+          "institutions": []
+        },
+        {
+          "name": "T. C. W. Blanning",
+          "id": "https://openalex.org/A5036598281",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 24,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W644114096",
+      "doi": "10.4324/9780429451034",
+      "title": "The Wars of Napoleon",
+      "year": 2014,
+      "type": "book",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Charles J. Esdaile",
+          "id": "https://openalex.org/A5055865810",
+          "institutions": [
+            "University of Liverpool"
+          ]
+        }
+      ],
+      "cited_by_count": 23,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W1539248009",
+      "doi": null,
+      "title": "Revolutionary Europe, 1783-1815",
+      "year": 1967,
+      "type": "book",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "George Rudé",
+          "id": "https://openalex.org/A5019243947",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 22,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2609212932",
+      "doi": "10.3390/w9040300",
+      "title": "The Paradox of Water Management Projects in Central Asia: An Institutionalist Perspective",
+      "year": 2017,
+      "type": "article",
+      "venue": "Water",
+      "venue_issn": "2073-4441",
+      "authors": [
+        {
+          "name": "Lioudmila Chatalova",
+          "id": "https://openalex.org/A5055816123",
+          "institutions": [
+            "Leibniz Institute of Agricultural Development in Transition Economies"
+          ]
+        },
+        {
+          "name": "Nodir Djanibekov",
+          "id": "https://openalex.org/A5046822848",
+          "institutions": [
+            "Leibniz Institute of Agricultural Development in Transition Economies"
+          ]
+        },
+        {
+          "name": "Taras Gagalyuk",
+          "id": "https://openalex.org/A5059300028",
+          "institutions": [
+            "Leibniz Institute of Agricultural Development in Transition Economies"
+          ]
+        },
+        {
+          "name": "Vladislav Valentinov",
+          "id": "https://openalex.org/A5045118897",
+          "institutions": [
+            "Leibniz Institute of Agricultural Development in Transition Economies"
+          ]
+        }
+      ],
+      "cited_by_count": 22,
+      "is_oa": true,
+      "oa_pdf": "https://www.mdpi.com/2073-4441/9/4/300/pdf?version=1493031723",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 53,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W1508980369",
+      "doi": null,
+      "title": "Vulnerable People, Vulnerable States: Redefining the Development Challenge",
+      "year": 2012,
+      "type": "article",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Daniel W. Bromley",
+          "id": "https://openalex.org/A5073835856",
+          "institutions": []
+        },
+        {
+          "name": "G. D. Anderson",
+          "id": "https://openalex.org/A5060097020",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 21,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2316976747",
+      "doi": "10.2307/1860225",
+      "title": "Die Bauernbefreiung in Deutschland, 1790-1850",
+      "year": 1981,
+      "type": "article",
+      "venue": "The American Historical Review",
+      "venue_issn": "0002-8762",
+      "authors": [
+        {
+          "name": "J. J. Breuilly",
+          "id": "https://openalex.org/A5001299619",
+          "institutions": []
+        },
+        {
+          "name": "Christof Dipper",
+          "id": "https://openalex.org/A5024227169",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 21,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W3095978402",
+      "doi": "10.1093/ereh/heaa021",
+      "title": "Institutions and literacy rates: the legacy of Napoleonic reforms in Italy",
+      "year": 2020,
+      "type": "article",
+      "venue": "European Review of Economic History",
+      "venue_issn": "1361-4916",
+      "authors": [
+        {
+          "name": "Michele Postigliola",
+          "id": "https://openalex.org/A5073702911",
+          "institutions": [
+            "Sapienza University of Rome"
+          ]
+        },
+        {
+          "name": "Mauro Rota",
+          "id": "https://openalex.org/A5082212210",
+          "institutions": [
+            "Sapienza University of Rome"
+          ]
+        }
+      ],
+      "cited_by_count": 21,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 40,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2615908039",
+      "doi": null,
+      "title": "Population growth economic development and social change in Bavaria 1750-1850",
+      "year": 1977,
+      "type": "book",
+      "venue": "Medical Entomology and Zoology",
+      "venue_issn": "0424-7086",
+      "authors": [
+        {
+          "name": "Lee Wr",
+          "id": "https://openalex.org/A5110494054",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 20,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2798935357",
+      "doi": "10.4324/9781315063768",
+      "title": "The French Revolutionary Wars",
+      "year": 2013,

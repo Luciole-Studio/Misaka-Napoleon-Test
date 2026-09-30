@@ -1,0 +1,73 @@
+## Sheet: F4_fiscal.csv (continued)
+id,record_type,scenario,period,territory,series,value,low,high,unit,basis,source_id,locator,formula,notes
+F4-361,模型,S5,1840,固定1810年6月税收核心；不含后续外圈及藩属,S5_net_recurring_capacity,,792.957,1091.354,百万法郎,1815净经常700-800；年增长0.5%-1.25%；不是实测平减数据,MODEL;C-JUN;M;OUV,报告§S5,700*1.005^25;800*1.0125^25,无新征服赔款；不自动含盟国转移；低高为规划边界而非概率区间
+F4-362,模型,S5,1840,固定1810年6月税收核心；不含后续外圈及藩属,S5_central_joint_army_navy_ceiling,575.208,,,百万法郎,中心T750年增1%;非军300年增0.75%;新补偿25;无永久新借款,MODEL;M;SG,报告§S5,750*1.01^25-300*1.0075^25-25,尚须减储备积累/过渡借款服务；非军含原债息养老金。
+F4-363,模型,S5,1848,固定1810年6月税收核心；不含后续外圈及藩属,S5_net_recurring_capacity,,825.236,1205.386,百万法郎,1815净经常700-800；年增长0.5%-1.25%；不是实测平减数据,MODEL;C-JUN;M;OUV,报告§S5,700*1.005^33;800*1.0125^33,无新征服赔款；不自动含盟国转移；低高为规划边界而非概率区间
+F4-364,模型,S5,1848,固定1810年6月税收核心；不含后续外圈及藩属,S5_central_joint_army_navy_ceiling,632.626,,,百万法郎,中心T750年增1%;非军300年增0.75%;新补偿25;无永久新借款,MODEL;M;SG,报告§S5,750*1.01^33-300*1.0075^33-25,尚须减储备积累/过渡借款服务；非军含原债息养老金。
+F4-365,模型,S5,1815-1820,固定核心+明确盟约转移,S5_maintenance_net_recurring_T,750,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-366,模型,S5,1815-1820,固定核心+明确盟约转移,S5_maintenance_allied_cash_A,0,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-367,模型,S5,1815-1820,固定核心+明确盟约转移,S5_maintenance_nonmilitary_existing_debt_N,280,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-368,模型,S5,1815-1820,固定核心+明确盟约转移,S5_maintenance_new_compensation_K,20,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-369,模型,S5,1815-1820,固定核心+明确盟约转移,S5_maintenance_army_test_L,300,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-370,模型,S5,1815-1820,固定核心+明确盟约转移,S5_maintenance_navy_test_V,140,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-371,模型,S5,1815-1820,固定核心+明确盟约转移,S5_maintenance_reserve_accumulation_Q,10,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-372,模型,S5,1815-1820,固定核心+明确盟约转移,S5_maintenance_annual_balance,0,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,T+A-N-K-L-V-Q,A不包括已替法国付军费的实物；不得重复减L。
+F4-373,模型,S5,1815-1820,固定核心+明确盟约转移,S5_naval_compromise_net_recurring_T,800,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-374,模型,S5,1815-1820,固定核心+明确盟约转移,S5_naval_compromise_allied_cash_A,40,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-375,模型,S5,1815-1820,固定核心+明确盟约转移,S5_naval_compromise_nonmilitary_existing_debt_N,300,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-376,模型,S5,1815-1820,固定核心+明确盟约转移,S5_naval_compromise_new_compensation_K,25,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-377,模型,S5,1815-1820,固定核心+明确盟约转移,S5_naval_compromise_army_test_L,300,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-378,模型,S5,1815-1820,固定核心+明确盟约转移,S5_naval_compromise_navy_test_V,195,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-379,模型,S5,1815-1820,固定核心+明确盟约转移,S5_naval_compromise_reserve_accumulation_Q,20,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-380,模型,S5,1815-1820,固定核心+明确盟约转移,S5_naval_compromise_annual_balance,0,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,T+A-N-K-L-V-Q,A不包括已替法国付军费的实物；不得重复减L。
+F4-381,模型,S5,1815-1820,固定核心+明确盟约转移,S5_land_heavy_net_recurring_T,800,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-382,模型,S5,1815-1820,固定核心+明确盟约转移,S5_land_heavy_allied_cash_A,40,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-383,模型,S5,1815-1820,固定核心+明确盟约转移,S5_land_heavy_nonmilitary_existing_debt_N,300,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-384,模型,S5,1815-1820,固定核心+明确盟约转移,S5_land_heavy_new_compensation_K,25,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-385,模型,S5,1815-1820,固定核心+明确盟约转移,S5_land_heavy_army_test_L,350,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-386,模型,S5,1815-1820,固定核心+明确盟约转移,S5_land_heavy_navy_test_V,170,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-387,模型,S5,1815-1820,固定核心+明确盟约转移,S5_land_heavy_reserve_accumulation_Q,20,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-388,模型,S5,1815-1820,固定核心+明确盟约转移,S5_land_heavy_annual_balance,-25,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,T+A-N-K-L-V-Q,A不包括已替法国付军费的实物；不得重复减L。
+F4-389,模型,S3,1815-1820,固定核心+明确盟约转移,S3_high_mobilisation_net_recurring_T,750,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-390,模型,S3,1815-1820,固定核心+明确盟约转移,S3_high_mobilisation_allied_cash_A,40,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-391,模型,S3,1815-1820,固定核心+明确盟约转移,S3_high_mobilisation_nonmilitary_existing_debt_N,330,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-392,模型,S3,1815-1820,固定核心+明确盟约转移,S3_high_mobilisation_new_compensation_K,30,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-393,模型,S3,1815-1820,固定核心+明确盟约转移,S3_high_mobilisation_army_test_L,390,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-394,模型,S3,1815-1820,固定核心+明确盟约转移,S3_high_mobilisation_navy_test_V,220,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-395,模型,S3,1815-1820,固定核心+明确盟约转移,S3_high_mobilisation_reserve_accumulation_Q,20,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,,A不包括已替法国付军费的实物；不得重复减L。
+F4-396,模型,S3,1815-1820,固定核心+明确盟约转移,S3_high_mobilisation_annual_balance,-200,,,百万法郎,联立测试；不是历史数；军费以F2人力包络和Mollien单位费用作条件校验，非实际军费,MODEL;M;C-JUL;T;SG,报告§S5,T+A-N-K-L-V-Q,A不包括已替法国付军费的实物；不得重复减L。
+F4-397,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,low_friction_net_tax_T,24,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,,
+F4-398,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,low_friction_local_civil_C,6,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,,
+F4-399,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,low_friction_inherited_debt_D,1,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,,
+F4-400,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,low_friction_military_security_G,4,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,,
+F4-401,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,low_friction_integration_investment_I,2,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,,
+F4-402,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,low_friction_resistance_loss_R,0,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,,
+F4-403,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,low_friction_net_central_N,11,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,T-C-D-G-I-R,
+F4-404,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,intermediate_net_tax_T,20,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,,
+F4-405,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,intermediate_local_civil_C,7,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,,
+F4-406,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,intermediate_inherited_debt_D,2,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,,
+F4-407,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,intermediate_military_security_G,5,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,,
+F4-408,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,intermediate_integration_investment_I,3,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,,
+F4-409,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,intermediate_resistance_loss_R,1,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,,
+F4-410,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,intermediate_net_central_N,2,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,T-C-D-G-I-R,
+F4-411,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,hostile_frontier_net_tax_T,12,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,,
+F4-412,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,hostile_frontier_local_civil_C,6,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,,
+F4-413,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,hostile_frontier_inherited_debt_D,2,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,,
+F4-414,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,hostile_frontier_military_security_G,9,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,,
+F4-415,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,hostile_frontier_integration_investment_I,3,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,,
+F4-416,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,hostile_frontier_resistance_loss_R,3,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,,
+F4-417,模型,S6,并合后年度,抽象边际单元；由D1/D2置换,hostile_frontier_net_central_N,-11,,,百万法郎/百万人,每100万人阈值测试；不是该地区实测估计,MODEL;C-JUL;M;GR,报告§S6,T-C-D-G-I-R,
+F4-418,模型,S6,每新增100万人,抽象新增百万人地区；非历史法国总债,S6_inherited_debt_interest,0.0,,,百万法郎/年,本金L×6%规划利率；把旧债转入的边际代价,MODEL;M,报告§S6,0*0.06,非历史借款报价
+F4-419,模型,S6,每新增100万人,抽象新增百万人地区；非历史法国总债,S6_inherited_debt_interest,3.0,,,百万法郎/年,本金L×6%规划利率；把旧债转入的边际代价,MODEL;M,报告§S6,50*0.06,非历史借款报价
+F4-420,模型,S6,每新增100万人,抽象新增百万人地区；非历史法国总债,S6_inherited_debt_interest,6.0,,,百万法郎/年,本金L×6%规划利率；把旧债转入的边际代价,MODEL;M,报告§S6,100*0.06,非历史借款报价
+F4-421,模型,S6,每新增100万人,抽象新增百万人地区；非历史法国总债,S6_inherited_debt_interest,9.0,,,百万法郎/年,本金L×6%规划利率；把旧债转入的边际代价,MODEL;M,报告§S6,150*0.06,非历史借款报价
+F4-422,模型,S6,每新增100万人,抽象新增百万人地区；非历史法国总债,S6_inherited_debt_interest,12.0,,,百万法郎/年,本金L×6%规划利率；把旧债转入的边际代价,MODEL;M,报告§S6,200*0.06,非历史借款报价
+F4-423,文献转录,S0,1803-1814,Italy,allied_quartering_paid_Italy,22.7,,,百万法郎,盟国为其境内法军驻屯支付的金额；对法国是避免成本，不是汇入巴黎的现金,BR,p13附表 Sums paid by the allied countries for the quartering of French troops,,国别合计经本卡复算与总计129.1一致；逐年分配因缓存OCR丢格致列对齐破坏，不可恢复，禁止构造补差数
+F4-424,文献转录,S0,1803-1814,Hanover,allied_quartering_paid_Hanover,22.0,,,百万法郎,盟国为其境内法军驻屯支付的金额；对法国是避免成本，不是汇入巴黎的现金,BR,p13附表 Sums paid by the allied countries for the quartering of French troops,,国别合计经本卡复算与总计129.1一致；逐年分配因缓存OCR丢格致列对齐破坏，不可恢复，禁止构造补差数
+F4-425,文献转录,S0,1803-1814,Naples,allied_quartering_paid_Naples,36.1,,,百万法郎,盟国为其境内法军驻屯支付的金额；对法国是避免成本，不是汇入巴黎的现金,BR,p13附表 Sums paid by the allied countries for the quartering of French troops,,国别合计经本卡复算与总计129.1一致；逐年分配因缓存OCR丢格致列对齐破坏，不可恢复，禁止构造补差数
+F4-426,文献转录,S0,1803-1814,Westphalia,allied_quartering_paid_Westphalia,48.3,,,百万法郎,盟国为其境内法军驻屯支付的金额；对法国是避免成本，不是汇入巴黎的现金,BR,p13附表 Sums paid by the allied countries for the quartering of French troops,,国别合计经本卡复算与总计129.1一致；逐年分配因缓存OCR丢格致列对齐破坏，不可恢复，禁止构造补差数
+F4-427,文献转录,S0,1803-1814,法国当时疆域；逐年变化,allied_quartering_paid_total,129.1,,,百万法郎,四国合计,BR,p13附表,22.7+22.0+36.1+48.3,注16称取自国库总账，惟那不勒斯用Ilari(USSME 2004)研究；故该行非单一来源
+F4-428,算术,S0,1803-1814,法国当时疆域；逐年变化,savings_line_383_reconstruction,382.84817999999996,,,百万法郎,"附表A盟军兵日节省总额(253,748,180法郎)＋附表B驻屯总计129.1m，用以复核附表C“Savings 383”行",BR,p12/p13/p14三表,253.74818+129.1,结果382.85≈383，附表自洽；而Branda正文同段写352又写“over 380”，352无法由其自身附表复现。本卡采383并记352为不可复现正文数字
+F4-429,文献转录,S0,1805-1813,法国当时疆域；逐年变化,treaty_extraordinary_planned,414,,,百万法郎,财务条款直接惠及Domaine Extraordinaire的条约清单；作者明言不含意大利,BR,p11附表,,正文另称实收“only 276 million”，与附表278差2，保留不调和；与附表C“条约外部收入453”口径不同，不得互换
+F4-430,文献转录,S0,1805-1813,法国当时疆域；逐年变化,treaty_extraordinary_unpaid_1814,136,,,百万法郎,财务条款直接惠及Domaine Extraordinaire的条约清单；作者明言不含意大利,BR,p11附表,,正文另称实收“only 276 million”，与附表278差2，保留不调和；与附表C“条约外部收入453”口径不同，不得互换
+F4-431,文献转录,S0,1805-1813,法国当时疆域；逐年变化,treaty_extraordinary_received,278,,,百万法郎,财务条款直接惠及Domaine Extraordinaire的条约清单；作者明言不含意大利,BR,p11附表,414-136=278,正文另称实收“only 276 million”，与附表278差2，保留不调和；与附表C“条约外部收入453”口径不同，不得互换

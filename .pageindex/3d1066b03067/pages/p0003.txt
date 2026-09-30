@@ -1,0 +1,47 @@
+
+
+### S2.2 1804–05 预算估计
+岁入 13,558,509（孟8,167,792／马4,659,326／孟买731,391）；支出 13,250,170（5,956,208／5,420,029／1,873,933）；净岁入 308,339；减明古连 287,680 → 20,659；减利息 1,754,843（含付偿债基金166,454）→ **超支 1,734,184**；减进口销售估 602,993 → **1,131,191**。
+
+### S2.3 1805–06 预算估计（Budget 1805 附加账）
+岁入：孟加拉 〔8〕,763,220〔OCR印3,763,220；按合计倒推为8,763,2xx〕／马德拉斯 4,774,296／孟买 742,017 → **合计 14,279,538**
+支出：孟加拉 7,415,370／马德拉斯 5,650,182／孟买 1,580,292 → **合计 14,645,844**
+三管区净支出 366,311；加明古连/槟榔屿补给 266,800 → 633,111；加利息 1,823,040＋偿债基金利息 195,788＝2,018,828 → **1805–06 支出超岁入 2,651,939**（另有未入发票的商业费用 199,806）。
+
+**读数**：1803–06 三年，公司领地账**连续赤字**，赤字来源=马德拉斯与孟买的军事支出（马德拉斯1803–04支出6.14m>岁入4.65m）＋利息（1.5–2.0m/年）。孟加拉是唯一的财政发动机。
+
+### S2.4 印度债务序列（Hansard 1806 表，单位£）
+| 日期 | 债务总额 | 减偿债基金持有 | 净额 |
+|---|---|---|---|
+| 1803-04-30 | 21,881,571 | 2,012,348 | 19,869,223 |
+| 1804-04-30 | 25,336,263 | 2,800,056 | 22,536,207 |
+| 1805-04-30（孟加拉为1805-01） | 〔28,197,50x〕〔Hansard印23,197,499，与减项及净额不自洽〕 | 3,151,065 | 25,046,436 |
+计息债务：1803-04-30 净 17,026,016；1804-04-30 净 19,031,934〔同页另处印19,051,934〕；1805-04-30 净 21,604,967。
+应付利息：1803 净 1,447,651；1804 净 1,588,389；1805 净 1,821,576。
+印度资产（现金货物库存）：1803-04-30 净 12,618,623；1804-04-30 净 14,452,343。
+本土债务：1804-03-01 £4,788,865 → 1805-03-01 £6,012,196（增 1,223,331）；本土资产 19,168,736 → 20,412,659。
+→ Morpeth 结论："the deficiency or excess of charge could not be taken at less than 3 millions"。
+→ Charles Grant 同月18日：按扣除偿债基金购回后，**1806-04-30 债务应估为 3,000 万英镑**。Alderman Prinsep 当场宣称公司处于 "a state of absolute insolvency"。
+
+### S2.5 Wellesley 方（Sir Arthur Wellesley 在同一辩论）的辩护数字
+- "The total increase of revenues during lord Wellesley's administration, in different parts of India, is 6,608,239 l.; the revenues having been, in 1798, 8,059,880 l.; and those estimated by me for the future, 14,668,119 l."
+- 孟加拉旧省税目 1798 → 1803–04（Sicca Rs）：地税 29,825,983→31,805,421；盐 10,302,783→15,374,223；**鸦片 2,084,184→3,989,200**；关税 1,251,469→3,228,865；印花 92,416→547,137；邮政 140,398→248,127 → 旧孟加拉岁入增 Sicca Rs 10,794,652 ＝ £1,349,331。
+- 关键贸易机制自述："the commerce of India is now able to supply the China market so effectually, as nearly to preclude the necessity of sending bullion to China; and large sums in specie are now imported into India from that country."
+→ **读数**：1803–06 印度对华出口（棉花＋鸦片）已能替代白银流出并倒转为白银流入印度。这是"印度能否自养"与"公司能否在英国被逐出欧洲后存活"的关键结构事实。
+
+---
+
+## S3. 1813-02-22 公司请愿（特许状续期）HC Deb vol 24 cc659–76
+本地：`downloads/pages/db711396db6a.md`
+
+### S3.1 财务自述（公司官方口径，1813年初）
+> "at that time [1793] the capital stock of the petitioners amounted to the sum of 5,000,000l.; since that period ... the capital stock has been encreased by the sum of 1,000,000l. contributed by the subscribers at the rate of 200l. per cent."
+> "sundry debts incurred in the defence and protection of the British possessions in India, bearing interest, were then due and owing by the petitioners, amounting to 7,000,000l. sterling, or thereabouts; since that period the said debt has been very much increased for the same purpose ... the petitioners have been obliged to provide out of their funds and credit at home, the means of paying bills of exchange drawn upon them since the year 1807, to the amount of 10,902,924l. sterling, in discharge of Indian debt, and the debt contracted for political purposes, now remaining due in India, according to the latest advices from thence, amounts to the sum of 26,000,000l. or thereabouts, over and besides the sum of 3,000,000l. reduced 3 per cent. annuities, and the sum of 1,400,000l. consolidated 3 per cent. annuities, on which the sum of 2,500,000l. sterling was raised ... and also over and besides the sum of 2,202,000l. or thereabouts, now owing by the petitioners upon bills of exchange not yet due, but payable in London"
+> "the revenues of the territorial acquisitions in India ... in the year 1793 amounted to the annual sum of 8,000,000l. or thereabouts, and by the latest account and estimates ... amounts to the annual sum of 16,000,000l. or thereabouts, but the civil and military expenses of the government have proportionably increased"
+> "the profits of the trade carried on by the petitioners since the year 1793 ... have amounted to the sum of 6,289,405l., over and above the commercial charges ... and beyond the payment of interest on their bond debt in England, and besides the dividends"
+> "in 1793, the bond debt in England of the petitioners amounted to the sum of 3,200,000l. ... their bond debt in England now amounts to the sum of 5,409,325l., but the petitioners are entitled by law to issue bonds to the amount of 7,000,000l."
+> "the annual interest upon the present amount of the Indian debt now amounts to the sum of 1,600,000l. ... the petitioners estimate that the annual sum of 1,500,000l. or thereabouts, will be necessary to be provided annually in London for the payment of such interest"
+> 另：1812年法案筹措之 £2.5m 年金的利息与偿债基金合计 **£242,820/年**，法定由印度岁入承担但须在英格兰银行支付。
+> 政治性开支在英国支付者（含对卡纳蒂克已故纳瓦布债权人付款）估 **£910,000/年**。
+> 自1807年以来印度汇票总额 **£13,104,924**（已清 10,902,924，余 2,202,000，1814年3月前大部到期）——见同日另一请愿 cc676–9。
+> 公司称公方欠其 **£2,294,426**（已扣其欠公方的 £1.5m 国库券）。

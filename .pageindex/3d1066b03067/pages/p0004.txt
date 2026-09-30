@@ -1,0 +1,11 @@
+
+
+### S3.2 **公司自述的"自养"判断（对本卡最关键的一句）**
+> "as, from the best estimates which can be made, there appears but little reason to expect (without a considerable reduction of the military expences of the petitioners in India) that there should be any sufficient surplus revenue to be remitted for those purposes, the petitioners apprehend that the punctual discharge of the pecuniary obligations of the petitioners ... will depend most essentially upon the trade to be carried on by the petitioners"
+
+读数（**falsifier 的直接证据**）：1813年初公司自己认定——**在不大幅削减印度军费的前提下，印度岁入不会产生足以汇回伦敦的盈余；伦敦端义务的履行"最根本地依赖贸易"**。即：领地财政不能自养其伦敦义务（利息£1.5m＋政治开支£0.91m＋年金£0.24m≈£2.65m/年），只能靠茶叶等商业利润填补。
+
+### S3.3 主权与"无国库负担"的自我宣称
+> "the British dominions in India, without a rival, or any enemy, now consist of a very large proportion of the peninsula, besides very extensive provinces in the north of Hindostan, and contain, as it is supposed, above fifty millions of inhabitants, and have been acquired wholly at the expence and risk of the petitioners, without any charge whatever to the British exchequer, for, though land forces belonging to his majesty have been employed ... yet the whole of the expence of such forces of his majesty, whilst they have been employed in such service, as well as for their passage out and home, and in recruiting, has been defrayed"（by the petitioners）
+
+读数：与 S1.2（1812 董事会要求把对法战争划归国库）并置，可见公司在**同一年**用两套论述：对内要钱时说"这是欧洲战争该由国库付"，对外辩护特许权时说"我们从未花过国库一分钱"。这是理解公司反应函数的关键——它的政治资产是"不花国库钱"，它的财政现实是"已花不起"。

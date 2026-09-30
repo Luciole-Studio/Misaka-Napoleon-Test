@@ -1,0 +1,36 @@
+---
+source_url: "https://www.napoleon.org/histoire-des-2-empires/articles/le-traite-de-paix-de-presbourg-26-decembre-1805/"
+final_url: "https://www.napoleon.org/histoire-des-2-empires/articles/le-traite-de-paix-de-presbourg-26-decembre-1805/"
+provider: "exa"
+text_sha256: "98664b71f6b94d150c4f957ad4b4bcc7caf5b33d03d2a30fcb0610414dc8b304"
+title: "Document > Le trait\u00e9 de paix de Presbourg, 26 d\u00e9cembre 1805 - napoleon.org"
+content_kind: "page_text"
+---
+
+Document > Le traité de paix de Presbourg, 26 décembre 1805 - napoleon.org
+
+# Document > Le traité de paix de Presbourg, 26 décembre 1805
+
+S.M. l’Empereur des Français, Roi d’Italie, S.M. l’Empereur d’Allemagne et d’Autriche, également animés du désir de mettre fin aux calamités de la guerre, ont résolu de procéder, sans délai, à la conclusion d’un traité de paix définitif, et ont, en conséquence, nommé pour plénipotentiaires, savoir :
+
+S.M. l’Empereur des Français, Roi d’Italie, M. Charles- Maurice Talleyrand-Périgord, grand chambellan, ministre des Relations Extérieures de Sadite Majesté l’Empereur des Français et Roi d’Italie, grand cordon de la Légion d’Honneur,chevalier des ordres de l’Aigle Rouge et Noir de Prusse ; Et S.M. l’Empereur d’Allemagne et d’Autriche, le Prince Jean de Liechtenstein, prince du Saint Empire Romain, grand-croix de l’ordre militaire de Marie-Thérèse, chambellan, lieutenant général de Sadite Majesté l’Empereur d’Allemagne et d’Autriche, et propriétaire d’un régiment de housards ; et M. le Comte Ignace de Gyulai, commandant de l’ordre militaire, chambellan de Sadite majesté l’Empereur d’Allemagne et d’Autriche, lieutenant général de ses armées, et propriétaire d’un régiment d’infanterie ; Lesquels après avoir échangé leurs pleins pouvoirs sont convenus des articles suivants :
+
+Article 1er
+
+Il y aura à compter de ce jour, paix et amitié entre S.M. l’Empereur d’Allemagne et d’Autriche, et S.M. l’Empereur des Français, Roi d’Italie, leur héritier et successeurs, leurs Etats respectifs à perpétuité.
+
+Article 2
+
+La France continuera de posséder, en toute propriété et souveraineté, les duchés, principautés, seigneuries et territoires au-delà des Alpes, qui étaient antérieurement au présent traité réunis ou incorporés à l’Empire Français, ou régis par les lois ou les administrations françaises.
+
+Article 3
+
+S.M. l’Empereur d’Allemagne et d’Autriche, pour lui, ses héritiers et successeurs, reconnaît les dispositions faites par S.M. l’Empereur des Français, Roi d’Italie, relativement aux principautés de Lucques et de Piombino.
+
+Article 4
+
+S.M. l’Empereur d’Allemagne et d’Autriche renonce tant pour lui que pour ses héritiers et successeurs, à la parties des Etats de la République de Venise, à lui cédée par les traités de Campoformio et de Lunéville, laquelle sera réunie à perpétuité au royaume d’Italie.
+
+Article 5
+
+S.M. l’Empereur d’Allemagne et d’Autriche reconnaît S.M. l’Empereur comme Roi d’Italie. Mais il est convenu que, conformément à la déclaration faite par S.M. l’Empereur des Français, au moment où il a pris la couronne d’Italie, aussitôt que les puissances nommées dans cette déclaration auront rempli les conditions qui s’y trouvent exprimées, les couronnes de France et d’Italie seront séparées à perpétuité, et ne pourront plus, dans aucun cas, être réunies sur la même tête. S.M. l’Empereur d’Allemagne et d’Autriche s’engage à reconnaître lors de la séparation, le successeur que S.M. l’Empereur des Français se sera donné comme Roi d’Italie.

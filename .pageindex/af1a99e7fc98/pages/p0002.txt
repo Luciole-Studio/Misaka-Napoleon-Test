@@ -1,0 +1,28 @@
+## Sheet: IN1_finance 2.csv (continued)
+year,series,unit,value,scope_note,source,locator,caliber_flag
+1813-02,bond_debt_england,GBP,5409325,"法定上限7,000,000",EIC petition 22 Feb 1813,downloads/pages/db711396db6a.md,"公司自述"
+1813-02,annuities_raised_1812,GBP,2500000,"以3,000,000 reduced 3% + 1,400,000 consol 3%筹得",EIC petition 22 Feb 1813,downloads/pages/db711396db6a.md,已核
+1813-02,annual_charge_of_annuities,GBP,242820,"利息+偿债基金,法定由印度岁入承担但须在英格兰银行支付",EIC petition 22 Feb 1813,downloads/pages/db711396db6a.md,已核
+1813-02,bills_drawn_on_london_since_1807,GBP,13104924,"其中已清10,902,924,余2,202,000",EIC petition on account with public 22 Feb 1813,api.parliament.uk/historic-hansard/commons/1813/feb/22/petition-from-the-east-india-company,"公司自述"
+1813-02,interest_on_indian_debt_pa,GBP,1600000,"年利息",EIC petition 22 Feb 1813,downloads/pages/db711396db6a.md,"公司自述"
+1813-02,interest_to_be_provided_in_london_pa,GBP,1500000,"须在伦敦筹措的部分",EIC petition 22 Feb 1813,downloads/pages/db711396db6a.md,"公司自述"
+1813-02,political_charges_in_england_pa,GBP,910000,"含卡纳蒂克已故纳瓦布债权人付款",EIC petition 22 Feb 1813,downloads/pages/db711396db6a.md,"公司自述"
+1813-02,territorial_revenue,GBP,16000000,"'或如此'",EIC petition 22 Feb 1813,downloads/pages/db711396db6a.md,"公司自述,约数"
+1793-1812,trade_profits_cumulative,GBP,6289405,"扣商业费用、伦敦债券利息与股息后的累计贸易利润",EIC petition 22 Feb 1813,downloads/pages/db711396db6a.md,"公司自述"
+1813-02,claim_on_public,GBP,2294426,"公司主张公方欠款(已扣1.5m国库券)",EIC petition 22 Feb 1813,downloads/pages/db711396db6a.md,"公司主张"
+1792-93_1808-09,china_trade_sales_london,GBP,57896274,"17年公司对华货物在伦敦销售总额(茶55,160,230)",Milburn Oriental Commerce II,downloads/IN1_milburn_v2.txt line 71795-71812,已核
+1792-93_1808-09,customs_excise_on_china_trade,GBP,32290599,"17年英国关税消费税(硬国库收入)",Milburn II,downloads/IN1_milburn_v2.txt line 71812,已核
+1792-93_1808-09,benefit_to_nation_pa,GBP,3707636,"Milburn宽口径年均(含公司利润与运费,非全为国库收入)",Milburn II,downloads/IN1_milburn_v2.txt line 71814,"宽口径,慎用"
+1810s,tea_benefit_to_revenue_pa,GBP,5000000,"含糖税归因的宽口径估计",Milburn II,downloads/IN1_milburn_v2.txt line 82462,"作者估计"
+1793,expenditure_total_india,GBP,7000000,"康沃利斯离任时总支出'under seven millions',盈余约1.5m",R. C. Dutt 1906 ch.XXIII,downloads/IN1_dutt_econ_hist_early.txt line 20355-20360,"二手叙述,近似"
+1805,expenditure_total_india,GBP,15000000,"韦尔斯利十二年后支出升至1500万,赤字逾200万",R. C. Dutt 1906,downloads/IN1_dutt_econ_hist_early.txt line 20360-20365,"二手叙述,近似"
+1810-1814,expenditure_total_india,GBP,13000000,"降至一千三百余万,年盈余200–400万",R. C. Dutt 1906,downloads/IN1_dutt_econ_hist_early.txt line 20372-20376,"二手叙述,近似"
+1818,fiscal_balance,GBP,0,"末次马拉塔战争结束时再现赤字(未给数)",R. C. Dutt 1906,downloads/IN1_dutt_econ_hist_early.txt line 20378,"仅定性"
+1822,surplus,GBP,2000000,"黑斯廷斯以200万盈余平息董事会",R. C. Dutt 1906,downloads/IN1_dutt_econ_hist_early.txt line 20380,"二手叙述"
+1824-1827,fiscal_balance,GBP,-1000000,"缅甸战争致连续赤字;岁入约2200万,支出2300–2400万",R. C. Dutt 1906,downloads/IN1_dutt_econ_hist_early.txt line 20390-20396,"区间叙述"
+1828,expenditure_total_india,GBP,24000000,"本廷克到任时支出2400万,赤字逾100万",R. C. Dutt 1906,downloads/IN1_dutt_econ_hist_early.txt line 20404-20408,"二手叙述"
+1835,expenditure_total_india,GBP,16000000,"本廷克离任时支出1600万,盈余400万",R. C. Dutt 1906,downloads/IN1_dutt_econ_hist_early.txt line 20408-20410,"二手叙述"
+1825-1831,land_revenue_india,GBP,11500000,"地税由1300万降至1150万",R. C. Dutt 1906,downloads/IN1_dutt_econ_hist_early.txt line 20402-20404,"二手叙述"
+1837-38,gross_revenue_india,GBP,20858820,"孟9,081,014+西北4,369,351+马4,819,890+孟买2,588,565",R. C. Dutt 1906 转引HC Return 22 Jun 1855,downloads/IN1_dutt_econ_hist_early.txt line 20310-20320,"OCR表,已逐项核加"
+1837-38,land_revenue_india,GBP,12671743,"同上表",R. C. Dutt 1906,downloads/IN1_dutt_econ_hist_early.txt line 20310-20320,"OCR表"
+1837-38,expenditure_india,GBP,17553525,"同上表",R. C. Dutt 1906,downloads/IN1_dutt_econ_hist_early.txt line 20310-20320,"OCR表"

@@ -1,0 +1,259 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+Saint Pierre and Miquelon,SPM,1982,6163
+Saint Pierre and Miquelon,SPM,1983,6208
+Saint Pierre and Miquelon,SPM,1984,6259
+Saint Pierre and Miquelon,SPM,1985,6301
+Saint Pierre and Miquelon,SPM,1986,6338
+Saint Pierre and Miquelon,SPM,1987,6368
+Saint Pierre and Miquelon,SPM,1988,6381
+Saint Pierre and Miquelon,SPM,1989,6372
+Saint Pierre and Miquelon,SPM,1990,6377
+Saint Pierre and Miquelon,SPM,1991,6400
+Saint Pierre and Miquelon,SPM,1992,6428
+Saint Pierre and Miquelon,SPM,1993,6440
+Saint Pierre and Miquelon,SPM,1994,6455
+Saint Pierre and Miquelon,SPM,1995,6459
+Saint Pierre and Miquelon,SPM,1996,6451
+Saint Pierre and Miquelon,SPM,1997,6438
+Saint Pierre and Miquelon,SPM,1998,6392
+Saint Pierre and Miquelon,SPM,1999,6338
+Saint Pierre and Miquelon,SPM,2000,6317
+Saint Pierre and Miquelon,SPM,2001,6299
+Saint Pierre and Miquelon,SPM,2002,6273
+Saint Pierre and Miquelon,SPM,2003,6234
+Saint Pierre and Miquelon,SPM,2004,6191
+Saint Pierre and Miquelon,SPM,2005,6139
+Saint Pierre and Miquelon,SPM,2006,6094
+Saint Pierre and Miquelon,SPM,2007,6074
+Saint Pierre and Miquelon,SPM,2008,6063
+Saint Pierre and Miquelon,SPM,2009,6054
+Saint Pierre and Miquelon,SPM,2010,6047
+Saint Pierre and Miquelon,SPM,2011,6036
+Saint Pierre and Miquelon,SPM,2012,6019
+Saint Pierre and Miquelon,SPM,2013,5999
+Saint Pierre and Miquelon,SPM,2014,5984
+Saint Pierre and Miquelon,SPM,2015,5971
+Saint Pierre and Miquelon,SPM,2016,5957
+Saint Pierre and Miquelon,SPM,2017,5946
+Saint Pierre and Miquelon,SPM,2018,5932
+Saint Pierre and Miquelon,SPM,2019,5899
+Saint Pierre and Miquelon,SPM,2020,5852
+Saint Pierre and Miquelon,SPM,2021,5802
+Saint Pierre and Miquelon,SPM,2022,5760
+Saint Pierre and Miquelon,SPM,2023,5707
+Saint Vincent and the Grenadines,VCT,300,1
+Saint Vincent and the Grenadines,VCT,400,2
+Saint Vincent and the Grenadines,VCT,500,4
+Saint Vincent and the Grenadines,VCT,600,9
+Saint Vincent and the Grenadines,VCT,700,18
+Saint Vincent and the Grenadines,VCT,800,36
+Saint Vincent and the Grenadines,VCT,900,72
+Saint Vincent and the Grenadines,VCT,1000,144
+Saint Vincent and the Grenadines,VCT,1100,288
+Saint Vincent and the Grenadines,VCT,1200,577
+Saint Vincent and the Grenadines,VCT,1300,1155
+Saint Vincent and the Grenadines,VCT,1400,2311
+Saint Vincent and the Grenadines,VCT,1500,4622
+Saint Vincent and the Grenadines,VCT,1600,9244
+Saint Vincent and the Grenadines,VCT,1700,18488
+Saint Vincent and the Grenadines,VCT,1710,20004
+Saint Vincent and the Grenadines,VCT,1720,21643
+Saint Vincent and the Grenadines,VCT,1730,23417
+Saint Vincent and the Grenadines,VCT,1740,25337
+Saint Vincent and the Grenadines,VCT,1750,27414
+Saint Vincent and the Grenadines,VCT,1760,29661
+Saint Vincent and the Grenadines,VCT,1770,32092
+Saint Vincent and the Grenadines,VCT,1780,34723
+Saint Vincent and the Grenadines,VCT,1790,37569
+Saint Vincent and the Grenadines,VCT,1800,25781
+Saint Vincent and the Grenadines,VCT,1801,25781
+Saint Vincent and the Grenadines,VCT,1802,25781
+Saint Vincent and the Grenadines,VCT,1803,25781
+Saint Vincent and the Grenadines,VCT,1804,25781
+Saint Vincent and the Grenadines,VCT,1805,25781
+Saint Vincent and the Grenadines,VCT,1806,25781
+Saint Vincent and the Grenadines,VCT,1807,25781
+Saint Vincent and the Grenadines,VCT,1808,25781
+Saint Vincent and the Grenadines,VCT,1809,25781
+Saint Vincent and the Grenadines,VCT,1810,25781
+Saint Vincent and the Grenadines,VCT,1811,25781
+Saint Vincent and the Grenadines,VCT,1812,25781
+Saint Vincent and the Grenadines,VCT,1813,25781
+Saint Vincent and the Grenadines,VCT,1814,25781
+Saint Vincent and the Grenadines,VCT,1815,25781
+Saint Vincent and the Grenadines,VCT,1816,25781
+Saint Vincent and the Grenadines,VCT,1817,25781
+Saint Vincent and the Grenadines,VCT,1818,25781
+Saint Vincent and the Grenadines,VCT,1819,25807
+Saint Vincent and the Grenadines,VCT,1820,25859
+Saint Vincent and the Grenadines,VCT,1821,25938
+Saint Vincent and the Grenadines,VCT,1822,26043
+Saint Vincent and the Grenadines,VCT,1823,26175
+Saint Vincent and the Grenadines,VCT,1824,26308
+Saint Vincent and the Grenadines,VCT,1825,26441
+Saint Vincent and the Grenadines,VCT,1826,26575
+Saint Vincent and the Grenadines,VCT,1827,26710
+Saint Vincent and the Grenadines,VCT,1828,26845
+Saint Vincent and the Grenadines,VCT,1829,26981
+Saint Vincent and the Grenadines,VCT,1830,27118
+Saint Vincent and the Grenadines,VCT,1831,27255
+Saint Vincent and the Grenadines,VCT,1832,27393
+Saint Vincent and the Grenadines,VCT,1833,27532
+Saint Vincent and the Grenadines,VCT,1834,27671
+Saint Vincent and the Grenadines,VCT,1835,27811
+Saint Vincent and the Grenadines,VCT,1836,27952
+Saint Vincent and the Grenadines,VCT,1837,28094
+Saint Vincent and the Grenadines,VCT,1838,28236
+Saint Vincent and the Grenadines,VCT,1839,28379
+Saint Vincent and the Grenadines,VCT,1840,28523
+Saint Vincent and the Grenadines,VCT,1841,28667
+Saint Vincent and the Grenadines,VCT,1842,28812
+Saint Vincent and the Grenadines,VCT,1843,28958
+Saint Vincent and the Grenadines,VCT,1844,29105
+Saint Vincent and the Grenadines,VCT,1845,29252
+Saint Vincent and the Grenadines,VCT,1846,29401
+Saint Vincent and the Grenadines,VCT,1847,29550
+Saint Vincent and the Grenadines,VCT,1848,29699
+Saint Vincent and the Grenadines,VCT,1849,29858
+Saint Vincent and the Grenadines,VCT,1850,30026
+Saint Vincent and the Grenadines,VCT,1851,30167
+Saint Vincent and the Grenadines,VCT,1852,30317
+Saint Vincent and the Grenadines,VCT,1853,30476
+Saint Vincent and the Grenadines,VCT,1854,30636
+Saint Vincent and the Grenadines,VCT,1855,30797
+Saint Vincent and the Grenadines,VCT,1856,30959
+Saint Vincent and the Grenadines,VCT,1857,31121
+Saint Vincent and the Grenadines,VCT,1858,31284
+Saint Vincent and the Grenadines,VCT,1859,31482
+Saint Vincent and the Grenadines,VCT,1860,31716
+Saint Vincent and the Grenadines,VCT,1861,31985
+Saint Vincent and the Grenadines,VCT,1862,32290
+Saint Vincent and the Grenadines,VCT,1863,32633
+Saint Vincent and the Grenadines,VCT,1864,32979
+Saint Vincent and the Grenadines,VCT,1865,33328
+Saint Vincent and the Grenadines,VCT,1866,33682
+Saint Vincent and the Grenadines,VCT,1867,34038
+Saint Vincent and the Grenadines,VCT,1868,34399
+Saint Vincent and the Grenadines,VCT,1869,34772
+Saint Vincent and the Grenadines,VCT,1870,35158
+Saint Vincent and the Grenadines,VCT,1871,35557
+Saint Vincent and the Grenadines,VCT,1872,35969
+Saint Vincent and the Grenadines,VCT,1873,36394
+Saint Vincent and the Grenadines,VCT,1874,36825
+Saint Vincent and the Grenadines,VCT,1875,37260
+Saint Vincent and the Grenadines,VCT,1876,37701
+Saint Vincent and the Grenadines,VCT,1877,38146
+Saint Vincent and the Grenadines,VCT,1878,38597
+Saint Vincent and the Grenadines,VCT,1879,38950
+Saint Vincent and the Grenadines,VCT,1880,39203
+Saint Vincent and the Grenadines,VCT,1881,39357
+Saint Vincent and the Grenadines,VCT,1882,39409
+Saint Vincent and the Grenadines,VCT,1883,39359
+Saint Vincent and the Grenadines,VCT,1884,39309
+Saint Vincent and the Grenadines,VCT,1885,39260
+Saint Vincent and the Grenadines,VCT,1886,39210
+Saint Vincent and the Grenadines,VCT,1887,39160
+Saint Vincent and the Grenadines,VCT,1888,39110
+Saint Vincent and the Grenadines,VCT,1889,39185
+Saint Vincent and the Grenadines,VCT,1890,39385
+Saint Vincent and the Grenadines,VCT,1891,39712
+Saint Vincent and the Grenadines,VCT,1892,40168
+Saint Vincent and the Grenadines,VCT,1893,40754
+Saint Vincent and the Grenadines,VCT,1894,41348
+Saint Vincent and the Grenadines,VCT,1895,41951
+Saint Vincent and the Grenadines,VCT,1896,42563
+Saint Vincent and the Grenadines,VCT,1897,43184
+Saint Vincent and the Grenadines,VCT,1898,43814
+Saint Vincent and the Grenadines,VCT,1899,44189
+Saint Vincent and the Grenadines,VCT,1900,44311
+Saint Vincent and the Grenadines,VCT,1901,44180
+Saint Vincent and the Grenadines,VCT,1902,43796
+Saint Vincent and the Grenadines,VCT,1903,43159
+Saint Vincent and the Grenadines,VCT,1904,42531
+Saint Vincent and the Grenadines,VCT,1905,41912
+Saint Vincent and the Grenadines,VCT,1906,41303
+Saint Vincent and the Grenadines,VCT,1907,40702
+Saint Vincent and the Grenadines,VCT,1908,40110
+Saint Vincent and the Grenadines,VCT,1909,39666
+Saint Vincent and the Grenadines,VCT,1910,39368
+Saint Vincent and the Grenadines,VCT,1911,39216
+Saint Vincent and the Grenadines,VCT,1912,39206
+Saint Vincent and the Grenadines,VCT,1913,39337
+Saint Vincent and the Grenadines,VCT,1914,39468
+Saint Vincent and the Grenadines,VCT,1915,39600
+Saint Vincent and the Grenadines,VCT,1916,39733
+Saint Vincent and the Grenadines,VCT,1917,39865
+Saint Vincent and the Grenadines,VCT,1918,40051
+Saint Vincent and the Grenadines,VCT,1919,40271
+Saint Vincent and the Grenadines,VCT,1920,40525
+Saint Vincent and the Grenadines,VCT,1921,40814
+Saint Vincent and the Grenadines,VCT,1922,41137
+Saint Vincent and the Grenadines,VCT,1923,41497
+Saint Vincent and the Grenadines,VCT,1924,41860
+Saint Vincent and the Grenadines,VCT,1925,42225
+Saint Vincent and the Grenadines,VCT,1926,42594
+Saint Vincent and the Grenadines,VCT,1927,42967
+Saint Vincent and the Grenadines,VCT,1928,43342
+Saint Vincent and the Grenadines,VCT,1929,43872
+Saint Vincent and the Grenadines,VCT,1930,44563
+Saint Vincent and the Grenadines,VCT,1931,45419
+Saint Vincent and the Grenadines,VCT,1932,46446
+Saint Vincent and the Grenadines,VCT,1933,47650
+Saint Vincent and the Grenadines,VCT,1934,48885
+Saint Vincent and the Grenadines,VCT,1935,50153
+Saint Vincent and the Grenadines,VCT,1936,51453
+Saint Vincent and the Grenadines,VCT,1937,52787
+Saint Vincent and the Grenadines,VCT,1938,54155
+Saint Vincent and the Grenadines,VCT,1939,55343
+Saint Vincent and the Grenadines,VCT,1940,56344
+Saint Vincent and the Grenadines,VCT,1941,57152
+Saint Vincent and the Grenadines,VCT,1942,57760
+Saint Vincent and the Grenadines,VCT,1943,58162
+Saint Vincent and the Grenadines,VCT,1944,58567
+Saint Vincent and the Grenadines,VCT,1945,58975
+Saint Vincent and the Grenadines,VCT,1946,59385
+Saint Vincent and the Grenadines,VCT,1947,59798
+Saint Vincent and the Grenadines,VCT,1948,60214
+Saint Vincent and the Grenadines,VCT,1949,60793
+Saint Vincent and the Grenadines,VCT,1950,61686
+Saint Vincent and the Grenadines,VCT,1951,63372
+Saint Vincent and the Grenadines,VCT,1952,65205
+Saint Vincent and the Grenadines,VCT,1953,67182
+Saint Vincent and the Grenadines,VCT,1954,69321
+Saint Vincent and the Grenadines,VCT,1955,71630
+Saint Vincent and the Grenadines,VCT,1956,74076
+Saint Vincent and the Grenadines,VCT,1957,76639
+Saint Vincent and the Grenadines,VCT,1958,79333
+Saint Vincent and the Grenadines,VCT,1959,82169
+Saint Vincent and the Grenadines,VCT,1960,84409
+Saint Vincent and the Grenadines,VCT,1961,85886
+Saint Vincent and the Grenadines,VCT,1962,87260
+Saint Vincent and the Grenadines,VCT,1963,88542
+Saint Vincent and the Grenadines,VCT,1964,89772
+Saint Vincent and the Grenadines,VCT,1965,90947
+Saint Vincent and the Grenadines,VCT,1966,92071
+Saint Vincent and the Grenadines,VCT,1967,93141
+Saint Vincent and the Grenadines,VCT,1968,94139
+Saint Vincent and the Grenadines,VCT,1969,95074
+Saint Vincent and the Grenadines,VCT,1970,95977
+Saint Vincent and the Grenadines,VCT,1971,96892
+Saint Vincent and the Grenadines,VCT,1972,97805
+Saint Vincent and the Grenadines,VCT,1973,98704
+Saint Vincent and the Grenadines,VCT,1974,99577
+Saint Vincent and the Grenadines,VCT,1975,100404
+Saint Vincent and the Grenadines,VCT,1976,101218
+Saint Vincent and the Grenadines,VCT,1977,102013
+Saint Vincent and the Grenadines,VCT,1978,102785
+Saint Vincent and the Grenadines,VCT,1979,103496
+Saint Vincent and the Grenadines,VCT,1980,104229
+Saint Vincent and the Grenadines,VCT,1981,105092
+Saint Vincent and the Grenadines,VCT,1982,105986
+Saint Vincent and the Grenadines,VCT,1983,106858
+Saint Vincent and the Grenadines,VCT,1984,107706
+Saint Vincent and the Grenadines,VCT,1985,108526
+Saint Vincent and the Grenadines,VCT,1986,109302
+Saint Vincent and the Grenadines,VCT,1987,110018
+Saint Vincent and the Grenadines,VCT,1988,110678
+Saint Vincent and the Grenadines,VCT,1989,111290
+Saint Vincent and the Grenadines,VCT,1990,111825

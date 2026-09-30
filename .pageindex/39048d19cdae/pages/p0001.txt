@@ -1,0 +1,64 @@
+# C1和平方案证据索引：1806与1808
+
+状态：据代理a93e19d37b167bdcb完整回传压缩整理，主卡尚未逐段复核；非全部原始文书核验完毕的验收稿。档案、专著与正文实读范围如下，不以缓存存在冒充全文阅读。
+
+## A｜1806英法谈判
+
+### A1 实际占有原则
+【事实·政府公开解释】1807-01-02上院，NEGOCIATION WITH FRANCE，HL Deb vol.8 cc259–300，格伦维尔主要在cc261–263：
+> the only basis upon which we ought to treat with France, was that of actual possession.
+> We had made several valuable conquests by means of our maritime superiority, whilst France had made great and extensive conquests on the continent.
+并保留a discussion of equivalents。
+https://api.parliament.uk/historic-hansard/lords/1807/jan/02/negociation-with-france
+缓存：downloads/pages/85d915a3148f.md。
+【限制】这是1807年政府为1806外交辩护的发言，不是1806训令，不是中立裁决。代理已读开头、末段，中段未全读。发言人由同页后文回指识别。
+
+### A2 具体条件（同页cc264–268）
+【事实·格伦维尔陈述】英国考虑那不勒斯本土恢复但认为可提供代价不足，转向补偿；c265：
+> it was not for us to traffic with Sicily, and barter it away for any equivalent, without the consent of its sovereign.
+汉诺威恢复被列作先决事项，他称法国同意，谈判非因此破裂。俄国条件概括为：
+> the guarantee of Sicily to the king of Naples, and the evacuation of Dalmatia by the French troops.
+【限制】达尔马提亚是撤军，不能改成割让俄国。同段Malta、Cape of Good Hope、India、Tobago为发言所述条件，非已批准条约清单。
+【模型推演】1806和平须解决西西里、俄国同意、达尔马提亚、汉诺威；不能仅假设Fox多活几个月就消除冲突。
+
+### A3 法国承认范围的同期争论
+【事实】同页cc271–273的批评者认为« Vous l’avez, nous ne vous la demandons pas »语境只及西西里，不足证明正式承认总体uti possidetis；cc298–300 Lauderdale援引Yarmouth报告及自己的会谈经验反驳。
+【裁量】部长口头试探、使者理解、正式书面承认、双方共同基础须分开。不得写成双方已正式确定现状和平，也不得写成从无方案。
+
+### A4 1806-12-30下院质询
+HC Deb vol.8 cc241–250，NEGOCIATION WITH FRANCE。
+https://api.parliament.uk/historic-hansard/commons/1806/dec/30/negociation-with-france
+缓存：downloads/pages/6e996221a1d1.md。代理读到返回的连续正文。
+【事实·议会记录】4/1 Talleyrand致Fox信存在英法刊本争议，质询称an extraordinary interpolation；Howick否认英国收到相关段落。3/5信有删节，政府称为无关私人通信，但研究者未核删节内容。
+【事实·Howick说明】Yarmouth5/23离巴黎、6/4抵达、6/7或8口头报告后成文。本页把初次通信写作13th of July，1/2 Lauderdale称13th of June，日期须核，不默改。
+【事实·转引】c242引8/6 Lauderdale致Clarke照会：intervening circumstances, which it was unnecessary to detail, had enabled his majesty to enter into a separate treaty。Howick将之联系7/20 Oubril单独条约；未读照会全文，不把政府法律解释当无争议结论。
+c248政府承认：
+> there were certainly no papers that could be produced in which the uti possidetis was recognized formally by the French government.
+c250 Yarmouth：
+> the actual state of possession, subject to subsequent exchanges upon equivalents, was the basis of the negociation.
+【裁量】正式书面证据缺口与参与者口头基础证词必须同时保留。
+
+### A5 尚未充分读取的文书组
+1806-12-22 PAPERS：
+https://api.parliament.uk/historic-hansard/commons/1806/dec/22/papers
+缓存：downloads/pages/86b3fa9906e6.md、632f5bd25919.md、f6fd34e73fd5.md、437e716ed0c6.md（后列文件均同目录）。多次仅摘录，未逐件核日期、作者、编号、栏号。
+1807-01-05 HC Deb vol.8 cc305–417：
+https://api.parliament.uk/historic-hansard/commons/1807/jan/05/negociation-with-france
+缓存downloads/pages/1d07d5d7738f.md。只读部分，不以中段未读内容证明低地条款。
+
+## B｜1808埃尔福特
+
+### B1 法俄秘密协定，1808-10-12
+【事实·现代法文转录】Fondation Napoléon网页14条及签署行代理连续读到，签署Champagny、Romanzoff；未对原签件或de Clercq。
+https://www.napoleon.org/histoire-des-2-empires/articles/convention-franco-russe-derfurt-12-octobre-1808/
+缓存downloads/pages/e6fecc9325ac.md。
+第4条：
+> La base du traité avec l’Angleterre sera l’ulti possidetis.
+网页拼作ulti，照录不暗改。
+第5条：
+> Les H. P. C. s’engagent à regarder comme condition absolue de la paix avec l’Angleterre qu’elle reconnaîtra la Finlande, la Valachie et la Moldavie comme faisant partie de l’Empire de Russie.
+第6条：
+> Elles s’engagent à regarder comme condition absolue de la paix que l’Angleterre reconnaisse le nouvel ordre de choses établi par la France en Espagne.
+【限制】是法俄共同要求英国承认，不证明英国接受，也不证明三块俄国要求领土已获最终承认。内部秘密条件不能当成同时全部公开递交伦敦。
+第1条共同谈判；第2条在英国指定大陆城市会谈；第12条失败后会商；第14条保密至少十年。
+【模型推演】不改第6条却让反法国安排的西班牙政府代表参会，需另解代表资格及政权承认冲突。英国回复未核全，不断言唯一失败原因。

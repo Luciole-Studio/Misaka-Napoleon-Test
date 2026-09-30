@@ -1,0 +1,14 @@
+## 复用上一轮资产（注路径，已在正文标）
+- t_7da32d：`nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md`（R1–R11来源登记与63,000配额算术、威宪逐条、两信、巴登敕令）。
+- t_f81a6f：`nodes/r_b55f2c1cf5/cards/t_f81a6f/c15_continental_economy.md`（Heckscher制度章、Beugnot/Bacher关税同盟倡议出处审计、贝格准入、O'Rourke/Juhász框架）。
+- t_759180：Nesselrode 1811-10备忘录（奥尔登堡补偿第一要价），`downloads/c12_vandal3_full.txt` 行20965–21287。
+- t_75e9a5：提尔西特条约证据笔记（"under the protection of…King of Saxony"等）。
+- F4（t_9f10b6）：Marion p.321 1812并合地预期税表（汉萨38.791M）；S6阈值表"目标非实收"。
+- F1（t_08b9e7）：克制先验表；中枢容量与S6治理密度倍数。
+- F2（t_0e763d）：S2/S5/S6兵力供需；并合兵389k单列口径。
+- PR（t_3ee1b0）：Vandal 1807-11-12训令"两公国"处置方案。
+- A（t_f4bb81）：1809-09-04照会（割萨克森三圈予奥的筹码性）。
+- B4/B1/B3：英方汉诺威-KGL与海岸反应接口。
+
+## 独立性声明
+汉堡1813罚没数字（S27三条）同出一个城市史实事框架，非三重独立验证；其档案底座（Pehmöller/Abendroth/Amsinck）已列谱系未亲阅。邦联会议流产的叙事三源（Beck开篇、维基Bundestag条、Fehrenbach转引）中Beck与Bockenheimer同用Eberstein遗档（同源），Fehrenbach为独立学术传统——合计约两个独立证据簇。萨克森经济地位判断Heckscher与Schmidt/Bacher部分同源（Heckscher引Schmidt），但Bacher原件与König研究（Heckscher另引）构成独立支撑。ADB传记为单一十九世纪来源，其1813行为序列与Grab/条约文书互印，其数字（3,000万fl垫款）无第二来源——已在正文标注。

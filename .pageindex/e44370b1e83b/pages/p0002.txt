@@ -1,0 +1,67 @@
+
+
+|舰体识别名|下水日期|来源|
+|---|---|---|
+|Donawerth (80)|1808-07-04|L/B|
+|Austerlitz (118)|1808-08-15|L/O|
+|Danube (74)|1808-12-21|L/T|
+|Ulm (74)|1809-05-25|L及单舰U为土伦；T舰级表错列或异列罗什福尔，见下|
+|Wagram (118)|1810-07-01|L/O；原Monarque不另计|
+|Sceptre (80)|1810-08-15|L/B|
+|Trident (74)|1811-06-09|L/T|
+|Impérial (118)|1811-12-01|L/O；后Royal Louis；不是1806年损失的同名舰|
+|Romulus (74)|1812-05-31|L/T|
+|Ville de Marseille (74)|1812-08-15|L/T；网页拆解年份互异，不采入本表|
+|Montebello (118)|1812-12-06|L/O；不是威尼斯1815年的同名74炮舰|
+|Héros (118)|1813-08-15|L/O；1814-01才完工，仍计1813下水|
+|Colosse (74)|1813-12-05|L/T；后Pallas不另计|
+
+### 热那亚3艘、威尼斯5艘
+
+|厂|舰体识别名|下水日期|来源与冲突|
+|---|---|---|---|
+|热那亚|Breslaw (74)|1808-05-03|L/T；原Superbe|
+|热那亚|Agamemnon (74)|1812-02-23|L/T；后Amphitrite|
+|热那亚|Scipion (74)|1813-09-05|L/T|
+|威尼斯|Rivoli (74)|1810-09-06|L/T/V；V另列英国1812-02-22“launched”实为该舰被俘后的身份记录，明确去重|
+|威尼斯|Mont Saint-Bernard (74；V列80)|1811-06-09〔L写1809-06-09〕|T/M/V支持1811；炮数亦异，不影响战列舰分类及七年计1|
+|威尼斯|Régénérateur／Rigeneratore (74)|1811-07-07〔L只到月〕|V转引Ilari；L为1811-07|
+|威尼斯|Castiglione (74)|1812-08-02|L/V，T为1812|
+|威尼斯|Royal Italien／Real Italiano (74)|1812-08-15|L/V，T为1812|
+
+### 七组之外的本土补列2艘
+
+【事实：L/B/T】瑟堡Zélandais (80)，1813-10-12；Duguay-Trouin (74)，1813-11-10。Zélandais后改Duquesne，不与俄国转入的Saint Pierre／Duquesne计为一舰，也不当作第二次下水。
+
+## 4. 开工／下水／完工不能互换
+
+【事实：B、O、T网页分栏】以下只展示已有明确分栏的例子；未补齐全部50舰开工及完工日期，不以空白=同日。
+
+|舰|开工|下水|完工|统计含义|
+|---|---|---|---|---|
+|Commerce de Lyon|1803-11|1807-04-09|1808-03|计1807，不计1808|
+|Friedland|1807-07|1810-05-02|1811-05|不把1811完工当1811下水|
+|Auguste|1807-10|1811-04-25|1811-07|三事件分离|
+|Pacificateur|1807-09|1811-05-22|1811-08|三事件分离|
+|Diadème|1807-11|1811-12-01|1812-03|计1811|
+|Héros|1812-04|1813-08-15|1814-01|计1813；O还称未commissioned，不能推为即时战力|
+
+【事实：排除项】Robuste、Commerce de Paris均1806下水，不因1807完工进入本表（前者见B、后者见L）。Magnifique于1814、Superbe于1814、威尼斯Montebello于1815、热那亚Brillant／HMS Genoa于1815下水，均排除。Royal Hollandais的船架由弗利辛恩运英国，1812于Woolwich以HMS Chatham下水，不计法国船厂实绩。安特卫普Hymen、Monarque/Wagram、Neptune、Terrible等开工未下水舰不计。
+
+【冲突处理】
+1. Ulm：T舰级表列Rochefort，但U的“Construction and career”明确写“laid down ... at the Arsenal de Toulon and launched on 25 May 1809”，并脚注Winfield–Roberts p.94（这里只是转引，原页未阅）。故暂归土伦，原书裁决前保留冲突；若改归罗什福尔只移动1艘，不改总数。
+2. Mont Saint-Bernard：L总表1809与T/M/V的1811抵触，暂用1811；M信息框与正文的开工年份也不一，故不把其开工日期冻结。
+3. Polonais、Tilsitt：只在同年同月的日数上冲突，表中双列；Polonais单舰网页导言竟称1805完成，明显与本页下水叙述矛盾，未采用导言。不要把百科页面互引当充分校勘。
+4. 阿姆斯特丹Couronne及鹿特丹Piet Hein的L/T年份互异，本次不计入50或52；旧荷兰舰转入法国不等于1807—1813新造。
+
+## 5. 实际读到的来源、位置、短引与独立性
+
+### 逐舰资料（B/C级）
+
+**L** — *List of ships of the line of France*：
+https://en.wikipedia.org/wiki/List_of_ships_of_the_line_of_France
+位置：First Empire (1804 to 1815) → 118-gun、80-gun、74-gun各节，逐舰条目；缓存`downloads/pages/898ecb4eeeb6.md`行1029—1176。短引：`“Charlemagne 74 (launched 8 April 1807 at Antwerp)”`。页末书目列Roche、Demerliac及Winfield & Roberts (2015)。**不是这些书的原文版本；没有逐行出处页码。**
+
+**T** — *Téméraire-class ship of the line*：
+https://en.wikipedia.org/wiki/T%C3%A9m%C3%A9raire-class_ship_of_the_line
+位置：Duquesne group的D’Hautpoul；Danube Group；Small Variant (Pluton group)表，列头Ordered / Laid down / Launched / Completed。短引：Commerce de Lyon行`“November 1803 | 9 April 1807 | March 1808”`。缓存`downloads/pages/07268e71e6e2.md`。与L大部同源，不独立。

@@ -1,0 +1,41 @@
+try a significant first-mover advantage which made emulation for follower countries difficult.
+Moreover, Crouzet (1964) has claimed that countries which received more protection from
+British competition during the Continental Blockade, such as France, adopted mechanized
+cotton spinning technology early in the nineteenth century. On the other hand, Heckscher
+(1922) argued that these events were nothing more than the short-run “hothouse” develop-
+ment of an industry subject to artificial protection. Using the data assembled for this paper,
+it has been possible to test this question for the case of France by exploiting within-country
+variation in trade protection.
+    The paper is organized as follows. The next section discusses mechanization of cotton
+spinning and its effects on France. Section 2 describes the way in which the Napoleonic
+Wars drove exogenous changes in trade protection from Britain. Section 3 describes the
+main sources of data, while Sections 4-5 contain the short and long-term empirical analysis,
+respectively. The final section concludes.
+
+
+1       The cotton industry in Britain and France
+Britain’s dominance of the 19th century cotton textile industry is a widely known fact. It
+may thus be somewhat surprising that as late as the mid-18th century, the cotton textile
+industry in Britain and France were actually remarkably similar (Riello, 2013). In both
+countries, cotton textile manufacturing was a new and small industry relative to traditional
+European textiles such as wool, linen and silk.5 Moreover, the cotton industry was marginal
+not only in relation to other domestic textiles, but also relative to world output, which was
+dominated by Indian cotton cloth.6
+
+
+1.1     Mechanization in Britain and diffusion of technology to France
+A series of inventions mechanized the spinning of cotton yarn in Britain in the second half
+of the 18th century. Traditionally, spinners had spun one thread at a time using a simple
+wheel. Mechanization increased output per worker as machines were able to spin multiple
+rovings simultaneously. The new machines diffused rapidly across the British countryside
+    5
+     For example, Chabert (1945) estimates the size of the industries for France in 1788, before the French
+Revolution, and in 1812, towards the end of the Napoleonic Wars, as follows (in millions of francs); 1788:
+Linen and hemp: 235, Wool: 225, Silk: 130.8, Cotton: no number given. 1812: Linen and hemp: 242.8,
+Wool: 315.1, Silk: 107.5, Cotton: 191.6.
+   6
+     It has been estimated that about 3 million pounds of cotton yarn a year were spun in both Britain and
+France, which compares modestly to Bengal’s 85 million pounds of yearly output (Allen, 2009).
+
+
+                                                    7

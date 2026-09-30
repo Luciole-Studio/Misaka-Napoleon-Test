@@ -1,0 +1,47 @@
+F       Robustness
+F.1      Alternatives to ruggedness
+F.1.1     Box-Cox transformation, non-logged variables and slope
+In this section, we provide evidence of the robustness of our main results on the re-
+lationship between geographic characteristics, draft-dodging, and conscription under
+Napoléon. Table 4 reproduces the results of the specifications from Table 1 in the
+main text when we replace the natural logarithm of terrain ruggedness as the main
+independent variable with: a) the natural logarithm of the a department’s average
+slope; b) a Box-Cox transformation of a department’s average terrain ruggedness; c)
+average terrain ruggedness; and d) a department’s average slope.
+
+ Table 4: Draft-dodging and geography using alternative measures of ruggedness.
+ Draft-dodging rate        (1)           (2)             (3)          (4)         (5)        (6)
+                                                   Log of slope
+ Log of slope             3.13931       2.77877        3.83798      4.56168     6.11596    5.68394
+                       (0.57161)*** (0.90629)*** (1.04251)*** (1.62084)*** (1.65712)*** (1.72743)***
+                        [1.32347]**  [1.30918]** [1.31420]*** [1.90446]** [2.16425]*** [2.15511]***
+ Observations                554          534            534          365         292        292
+ R-squared                 0.12498      0.64031        0.64391      0.75260     0.78817    0.78844
+                                      Zero-skewness Box-Cox transformation
+ Ruggedness (Box-Cox)     3.08420       2.77994        3.75120      4.52568     6.02773    5.57696
+                       (0.56566)*** (0.90096)*** (1.02207)*** (1.58360)*** (1.60961)*** (1.65515)***
+                        [1.31872]**  [1.28974]** [1.29215]*** [1.89738]** [2.14425]*** [2.13873]***
+ Observations                554          534            534          365         292        292
+ R-squared                 0.12447      0.64049        0.64392      0.75274     0.78828    0.78869
+                                                   Ruggedness
+ Ruggedness                1.91376      0.92732        1.54222      1.98656     2.96812    1.35407
+                       (0.45205)***    (0.63365)    (0.73597)**   (1.16078)* (1.28115)**  (1.98635)
+                         [1.01442]*    [1.04219]      [1.17456]    [1.82899]   [1.97488]  [2.96058]
+ Observations                554          534            534          365         292        292
+ R-squared                 0.10800      0.63431        0.63633      0.74288     0.77853    0.77946
+                                                       Slope
+ Slope                    60.88337     29.84526       49.64838     61.01269    92.50443   38.09600
+                      (14.48994)*** (19.99714) (23.28698)** (36.75198)* (40.60019)** (63.79691)
+                        [32.51215]*   [32.95193]     [37.28309]   [57.81974]  [62.49260] [95.26667]
+ Observations                554          534            534          365         292        292
+ R-squared                 0.10731      0.63435        0.63640      0.74275     0.77837    0.77938
+ Same Controls
+ as in Table 1                X            X              X            X           X          X
+                                    *** p<0.01, ** p<0.05, * p<0.1
+
+
+   Table 5 reproduces the results of the specifications from Table 3 in the main text
+when we replace the natural logarithm of terrain ruggedness as the main independent
+
+
+                                                16

@@ -1,0 +1,32 @@
+   Table 11: Conscription rate and ruggedness excluding influential observations
+
+Note: This table display the same specifications as in Table 3 while excluding potentially influential
+observations and outliers.
+
+  Conscription rate         (1)          (2)             (3)            (4)         (5)
+                                    Excluding the 10 least rugged departments:
+  Log of ruggedness      -0.95964     -1.70262        -0.93622       -1.88672    -2.29931
+                       (0.18253)*** (0.38904)*** (0.41295)** (0.70761)*** (0.81660)***
+                       [0.33035]*** [0.58835]***     [0.51302]*    [0.77791]** [0.94576]**
+  Observations              505          485             485            315         315
+  R-squared               0.13312      0.68887         0.70050        0.75710     0.75779
+                                    Excluding the 10 most rugged departments:
+  Log of ruggedness      -0.61813     -1.54284        -1.06788       -2.91807    -2.04548
+                       (0.18412)*** (0.29157)*** (0.30956)*** (0.53642)*** (0.57719)***
+                        [0.34550]*  [0.38105]*** [0.36852]*** [0.63429]*** [0.62092]***
+  Observations              505          485             485            315         315
+  R-squared               0.11284      0.68391         0.69837       √0.76487     0.77001
+                                           Omit if |DF BET A| > 2/ N
+  Log of ruggedness      -0.56359     -1.48578        -1.08788       -1.74266    -1.94977
+                       (0.11718)*** (0.24458)*** (0.26731)*** (0.37851)*** (0.43752)***
+                       [0.21235]*** [0.32763]*** [0.32822]*** [0.45640]*** [0.53776]***
+  Observations              533          501             504            345         345
+  R-squared               0.14758      0.72247         0.72761        0.78836     0.78293
+  Same Controls
+  as in Table 3              X             X              X                  X              X
+                                  *** p<0.01, ** p<0.05, * p<0.1
+
+
+
+
+                                                 25

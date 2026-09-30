@@ -1,0 +1,23 @@
+# HT 卡来源清单（t_68821f · Sister 10038）
+
+> **❗ 卡目录文件唯一性声明**：交付物只有 `HT_haiti_caribbean.md`（含 §0–§25）。同目录下的 `HT_haiti_caribbean 2.md`（停在 §22）与 `HT_haiti_caribbean 3.md`（停在 §23）是追写过程中由写入工具生成的**中间副本，已作废**，综合与红队**不得引用**。（同类现象已见于本运行台账中 F5 与 F4 两卡的 “… 2.md” 旧副本。）
+>
+> **第二份应采信文件**：`notes_postsubmission_declarations.md` —— §23–§25 的声明因 `misaka_card_note` 三次返回 `Card ownership changed` 而未能入卡，已全数落盘于该文件，**请与卡上声明同等采信**。
+
+分级：**[R]** ＝已读正文并直接引用；**[S]** ＝只读到检索快照／题录，作为文献线索，未据以立论；**[C]** ＝转引（标明中介）；**[W]** ＝权重知识标注，**待核一手**。
+本地缓存路径均在 `/Users/makiko/Documents/exam/downloads/` 下；`downloads/pages/*.md` 为网页抓取缓存，卡系统自动记录。
+
+## 一、一手文书与法令
+
+1. **[R] 《海地帝国宪法》1805-05-20 全文**。Duke University "Haiti and the Atlantic World" 数字馆转录，据 *Constitution d'Haïti*, s.l.: s.n., [1805]。https://haitidoi.com/constitutions/1805-2/ ；缓存 `downloads/pages/9d5c73371364.md`。引用：预2、预12、预13、预14、帝15–17、帝23、帝26、帝30–36、帝38–41、帝47–48、帝50–52、总3、总12、总22–28。交叉：两份独立 scribd 转录（Linstant Pradine 汇编体系）条文一致。**非影像本。**
+2. **[R] 查理十世1825-04-17敕令**。三处独立转录一致（Persée *Outre-Mers* 90:340–341 附录 p.249；Haïti-Référence；法国国民议会2025年第1267号提案说明）。**口径冲突**：Persée 转录第2条作「cent millions」，其余两处作「cent cinquante millions」；国民议会提案引文亦作150,000,000。本卡采150,000,000并记录冲突。首期到期日 Persée/提案作12-31，Haïti-Référence 作12-01，**冲突保留**。
+3. **[R] 1814-05-30《巴黎和约》第8、9、10、11、14条**。法文本 napoleon-empire.org 转录；英译 Wikisource。两本一致。核心引用：第8条除外条款与"la partie de Saint-Domingue…rétrocède à S.M.C."。
+4. **[R] 1813-03-03 英瑞《斯德哥尔摩条约》第5、6条及分立条款**（含瑞典须禁止向瓜德罗普输入非洲奴隶、引"la Capitulation de la dite île, en date du cinq Février mil huit cent et dix"）；**1814-08-13 英瑞伦敦专约**（英付瑞典2,400万法郎）。来源：*A Complete Collection of the Treaties and Conventions…between Great Britain and Foreign Powers*（al.regeneratedidentities.org 扫描 PDF）。
+5. **[R] 多克西翁-拉韦斯1814-11-09 致佩蒂翁函全文**（"agent principal de S. E. le ministre de la marine et des colonies…pour la restauration de la colonie française dans l'île d'Haïti"；要求"reconnaître et proclamer la souveraineté du monarque français"；以马卢埃人格担保）。haitianaute.com 2021-05-21 转录。**转录本，未见影像。**
+6. **[C] 拿破仑1802-07-13 致Decrès**：「La première de toutes [des mesures] d'établir l'esclavage à la Guadeloupe comme il l'était à la Martinique, en ayant soin de garder le plus grand secret sur cette mesure.」经 *La Guadeloupe de 1803 à 1816: de l'Empire à la Restauration*（Érudit doi 10.7202/1035305ar）转引。
+7. **[C] Decrès 1802-06-14 致Leclerc密令**（"une discipline tout à la fois rurale et militaire"…"les faire rentrer dans leur condition originelle"）。经 Paul Roussier 编《Lettres du général Leclerc》(1937) pp.284–285 → 法国奴隶制记忆基金会(FME)网页转录 → **上一轮 t_c2dbca 已复读**，路径 `nodes/r_b55f2c1cf5/cards/t_c2dbca/americas_haiti.md` 与 `downloads/pages/bd468bca9f3d.md`。本卡复用，不假装亲阅原版。
+8. **[C] 1802-05-20法律（30 floréal an X）四条**；**1802-07-16执政府令（27 messidor an X）**；**Richepance 1802-07-17（28 messidor）地方令**。前者上一轮已核（`downloads/pages/50084310930d.md`）；后二者经 Dubois 2003 与 Niort & Richard（*Bull. Soc. Hist. Guadeloupe* n°152, 2009）转录与讨论。
+9. **[C] 1815-03-29拿破仑废贩奴法令五条**。上一轮据 fr.wikipedia 转录已核（`downloads/pages/a1727377ccf1.md`），**官方影像仍未对校**。
+10. **[R] 1811-03-25 与 1812-01-15 甜菜糖法令内容**（100万法郎信贷、32,000公顷、五所制糖学校、100名学生每人1,000法郎、100,000公制阿尔庞、500张执照、兰布依埃王室厂）。来源：《Histoire centennale de la fabrication du sucre de betteraves (1812-1912)》hdl 1908/3693（Université Lille 1 数字化）；**日期口径冲突**：《La guerre des sucres》(hdl 2042/31788) 作03-28。
+11. **[C] 拿破仑1811年口授论甜菜糖成本**（「Il est prouvé que le sucre de betterave coûtera toujours le double ou le triple…」）。经 Roger Vaultier「Histoire du sucre」转引于《La guerre des sucres》。
+12. **[R] 《海地独立宣言》1804-01-01**：题录与页码（Persée *Outre-Mers* 90:340–341, 247–248）。**[S] 正文未取。**

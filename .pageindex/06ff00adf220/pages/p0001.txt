@@ -1,0 +1,52 @@
+---
+source_url: "https://www.ons.gov.uk/visualisations/storyofthecensus/"
+final_url: "https://www.ons.gov.uk/visualisations/storyofthecensus/"
+provider: "exa"
+text_sha256: "ff3511351d78095e02b1b2fb2d01085806b328d438c13cc0b5b0a71b18be68a4"
+title: "Story of the Census"
+content_kind: "page_text"
+---
+
+Story of the Census
+
+# Story of the Census
+
+20 June 2022
+
+From a suffragette hiding in a broom cupboard to the first official records of ethnicity and religion, the census is the story of all our lives.
+
+This is an account of how we counted people, from 1801 to 2021, and how the concerns of the day entered into record.
+
+## Bread, burials and baptisms
+
+In the years up to 1800, the harvests were disastrous. Bread imports were being blocked in the war with France. Parliament was worried there was not enough bread to feed the population, but no one knew how many people there were to be fed. Population estimates based on bread production, taxes, and church registers of burials and baptisms were vague.
+
+There were fears the population might be growing faster than food production, leading to future famine, but it was impossible to know if the population was increasing or not.
+
+So, the Census Act was made law by royal assent on 31 December 1800, the day before the UK was officially formed by the union of Great Britain and Ireland.
+
+## John Rickman – ‘father of the census’
+
+The first four decennial censuses in Great Britain in 1801, 1811, 1821 and 1831 were run by John Rickman.
+
+Rickman’s first census in 1801 found the population of England and Wales was 8.9 million, not counting those at sea, in the military, or prisoners.
+
+That’s roughly what the population of London was in 2020.
+
+## What do you do for work?
+
+The 1801 Census asked if people worked in one of three types of job: agriculture; a ‘trade, manufacture or handicraft’; or ‘other’.
+
+This caused some confusion as in the 1800s people largely worked as family units, rather than thinking of work as an individual’s job. Some households would list a wife and children as working in agriculture or a trade with the head of household, some would list them as ‘other’. In 1811, the census asked about work by family instead to make sure the question was better understood.
+
+Over the next few decades, the occupations list was expanded. In 1821, the census counted retail traders, those employed in manufacturing, labourers, those employing others, and professionals such as bankers ‘and other educated men’.
+
+By 1841, the census revealed that the most popular occupation was ‘domestic servant’ and almost a quarter of a million people worked in cotton manufacture. There were also 571 ‘fork-makers’, 74 ‘leech bleeders’ and five ‘ice-dealers’.
+
+## How old are you?
+
+The 1821 Census showed that almost half the population was under 20 years old, compared with around a quarter today.
+
+Despite its usefulness, asking how old people were proved surprisingly difficult.
+
+Indeed, the 1881 Census report found a great deal of ‘wilful misstatement of age’ by girls and women, mostly depending on whether they were married.

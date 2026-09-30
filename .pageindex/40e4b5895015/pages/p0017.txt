@@ -1,0 +1,52 @@
+176    MICHAEL KOPSIDIS AND DANIEL W. BROMLEY
+
+
+
+Table 2. Four models of years of French presence and years of reform
+
+                                       ACJR Vintages          Corrected Vintages
+
+Dependent variable: yearsreform      (1)          (2)       (3)          (4)
+
+D0 t = 0 years                       0.735∗∗∗               1.000∗∗∗
+D3 t = 3 years                       0.655∗∗∗               1.000∗∗∗
+D6 t = 6 years                       0.717∗∗∗               1.000∗∗∗
+D19 t = 19 years                     1.000∗∗∗               0.954∗∗∗
+D(q>0) t = all years > 0                          0.045                  −0.01,168
+
+∗ , ∗∗ , ∗∗∗ indicates significance at the 10%, 5%, and 1% levels, respectively. All regressions include time
+
+and polity dummy variables. For the four models see Table 2a–2d in the on-line Appendix.
+
+
+larger than for the occupied polity of Hanover [yearsref orm |fpresence =
+ 0 > yearsref orm| fpresence = 3], while the opposite holds for the other 3
+unoccupied polities. A comparison of unoccupied polities and polities with 6
+years of occupation shows a similar lack of consistency.12
+    Now consider Models 3 and 4 depicting identical regressions using our
+corrected vintages from Table 1. Notice that Model 3 has identical trends
+(coefficients) for fpresence = 0, 3, and 6 years, but now the coefficient (trend)
+for fpresence = 19 years is lower than it is for the other 3 groups. The
+results for Model 4 still show the coefficient for ‘occupied vs. unoccupied’
+being insignificant, but the sign has switched to negative. With the corrected
+vintages, fpresence >0 is associated with lower trends for years of reform. Neither
+Model 2 nor Model 4 is significant so we should not make too much of these
+differences. But the results suggest that the ACJR econometric model – even with
+our corrected vintages – yields inconsistent results.
+    These inconsistencies are obviously problematic for the ACJR identification
+strategy. The results are problematic because Xit is an ordered treatment intensity
+variable and therefore the instrument for Xit must meet several requirements if β
+is to be given a causal interpretation. One obvious requirement is monotonicity.
+That is, if Zit > Zj s , then (a) Xit > Xj s or (b) Xit < Xj s ∀i, j , s, t (Angrist and
+Krueger, 1999). This implies that in order to identify the causal impact of
+treatment intensity (duration of institutional change, or years of reform) without
+additional conditions, monotonicity requires that higher values of the instrument
+– years of French presence – will always result in either higher or lower values
+of the treatment variable (years of reform). Notice that in the absence of this
+restriction, the potential presence of polities for whom the instrument (French
+presence) is associated with both increased and decreased treatment (reform
+index), respectively – for a given value of Zit – means that the impact of the
+treatment cannot be identified. This lack of consistency – causal coherence
+
+    12 We point out that ‘occupied’ means that the polity received the ‘French treatment’ while the absence
+of the ‘French treatment’ meant that the polity was ‘unoccupied’.

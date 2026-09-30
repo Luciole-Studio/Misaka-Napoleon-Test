@@ -1,0 +1,71 @@
+
+
+In the 1970s the federal government introduced a minimum reserve price scheme that subsidised the industry. By 1990 it was apparent the scheme was economically unviable and, when it was discontinued, the industry stalled.
+
+Slowly the wool industry rebuilt itself. In 2020, although accounting for less than 10 per cent of the world’s sheep population, Australia dominated the global fine wool market, producing more than 50 per cent of the world’s merino wool.
+
+Places
+
+- NSW
+
+Curriculum subjects
+
+- geography
+- australian history
+
+Year levels
+
+- 9
+- 5
+
+In our collection
+
+Wool sample box Glass-fronted wooden box, displaying a wool sample. Painted on a wooden banner at the top of the box: "A. LUCIAN FAITHFULL. SPRINGFIELD.". Handwritten on a piece of card below this is: "ENTERPRISE / SAMPLE 195".
+
+--
+
+Explore Defining Moments
+
+America’s Cup win
+
+Blue Mountains crossing
+
+Soldier settlement
+
+Introduction of cane toads
+
+Defining moment Extinction of thylacine
+
+--
+
+You may also like
+
+World record sheep fleece
+
+Daily, free Great Southern Land
+
+Trevor Kennedy Collection
+
+Start of whaling
+
+Springfield–Faithfull family collection
+
+### References
+
+Year Book Australia, 2003: ‘The wool industry – looking back and forward’ Australian Bureau of Statistics
+
+G Day and J Jessup (eds), The History of the Australian Merino, Heinemann, Melbourne, 1984.
+
+Robert Ellis, Sheep and Shearing: Their Evolution and Contribution to Australia, Robert Ellis, Molong, NSW, 2010.
+
+Brian Evesson, ‘The foundation of Australia’s fine wool industry’ in History, June 2000.
+
+Charles Massey, Breaking the Sheep’s Back: The Shocking True Story of the Decline and Fall of the Australian Wool Industry, University of Queensland Press, St Lucia, Queensland, 2011.
+
+Russell Moor, ‘The Marsden legacy’ in History, June 2000.
+
+Updated: 6 February 2025
+
+Top
+
+var mobile = false; function googleTranslateElementInit() { new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'de,en,es,fr,it,ja,ko,ms', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element'); //new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'de,en,es,fr,it,ja,ko,ms,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element'); setTimeout(function(){ if ($(window).width() = 768 && mobile == true){ mobile = false; $('.goog-te-gadget').detach().appendTo('#google_translate_element'); } }); --

@@ -1,0 +1,83 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: P4_annual.csv
+
+```meta
+▸ table "P4_annual.csv" (96 data rows)
+▸ columns
+    record_type: str, 1 uniq: ['CONDITIONAL_MODEL_NOT_OBSERVATION']
+    branch: str, 2 uniq: ['P', 'W']
+    mapped_S: str, 2 uniq: ['S1/S2-truce/S5', 'S2/S3']
+    bound: str, 3 uniq: ['base', 'high', 'low']
+    year: num, min=1815, max=1830
+    time_note: str, 2 uniq: ['annual_planning_year', 'common_pre_truce_1815']
+    france_line_hulls: num, min=72.145, max=161.023
+    france_line_launches: num, min=6, max=12
+    france_line_natural_exit: num, min=1.38063, max=5.82819
+    france_line_war_loss: num, min=0, max=1.5
+    france_A12: num, min=46, max=140
+    france_commissioned_line: num, min=20, max=117
+    france_frst: num, min=38.962, max=85.499
+    france_smst: num, min=41.701, max=118.706
+    france_fr_launches: num, min=2, max=6
+    france_sm_launches: num, min=4, max=8
+    france_fr_exit: num, min=2.062, max=3.052
+    france_sm_exit: num, min=3.098, max=5.827
+    france_fr_commissioned: num, min=15.98, max=59.4
+    france_sm_commissioned: num, min=16.25, max=65.29
+    france_total_personnel: num, min=68190, max=152408
+    france_qualified_personnel: num, min=41738, max=109725
+    france_sea_training_days_assumed: num, min=30, max=150
+    france_officers_8yr_share_ASSUMED: num, min=0.35, max=0.85
+    france_budget_planning_floor_million_francs_ASSUMED: num, min=165, max=245
+    britain_line_hulls: num, min=120, max=155
+    britain_line_launches: num, min=6, max=8
+    britain_line_exit_implied: num, min=5, max=8
+    britain_A12: num, min=91, max=145
+    britain_commissioned_line: num, min=45, max=125
+    britain_frst: num, min=120, max=155
+    britain_smst: num, min=220, max=285
+    britain_fr_launches: num, min=5, max=8
+    britain_sm_launches: num, min=16, max=22
+    britain_fr_exit_implied: num, min=3, max=7
+    britain_sm_exit_implied: num, min=15, max=20
+    britain_fr_commissioned: num, min=50, max=115
+    britain_sm_commissioned: num, min=60, max=230
+    britain_total_personnel: num, min=59850, max=147250
+    britain_sea_training_days_ASSUMED: num, min=100, max=210
+    britain_officers_8yr_share_ASSUMED: num, min=0.72, max=0.93
+    britain_budget_min_million_GBP_at_1812_level: num, min=9.087, max=16.516
+    britain_budget_max_million_GBP_at_1812_level: num, min=12.284, max=21.461
+    france_line_displacement_tonnes_ASSUMED: num, min=230863, max=611886
+    britain_line_displacement_tonnes_ASSUMED: num, min=408000, max=604500
+    tonnage_ratio_FR_over_UK: num, min=0.5521, max=1.0122
+    france_effective_A12_tonnes_ASSUMED: num, min=83904, max=532000
+    britain_effective_A12_tonnes_ASSUMED: num, min=292899, max=622050
+    effectiveness_ratio_FR_over_UK: num, min=0.2595, max=0.9744
+    uk_skill_factor_ASSUMED: num, min=0.9, max=1.1
+    fr_skill_factor_ASSUMED: num, min=0.55, max=1
+```
+record_type,branch,mapped_S,bound,year,time_note,france_line_hulls,france_line_launches,france_line_natural_exit,france_line_war_loss,france_A12,france_commissioned_line,france_frst,france_smst,france_fr_launches,france_sm_launches,france_fr_exit,france_sm_exit,france_fr_commissioned,france_sm_commissioned,france_total_personnel,france_qualified_personnel,france_sea_training_days_assumed,france_officers_8yr_share_ASSUMED,france_budget_planning_floor_million_francs_ASSUMED,britain_line_hulls,britain_line_launches,britain_line_exit_implied,britain_A12,britain_commissioned_line,britain_frst,britain_smst,britain_fr_launches,britain_sm_launches,britain_fr_exit_implied,britain_sm_exit_implied,britain_fr_commissioned,britain_sm_commissioned,britain_total_personnel,britain_sea_training_days_ASSUMED,britain_officers_8yr_share_ASSUMED,britain_budget_min_million_GBP_at_1812_level,britain_budget_max_million_GBP_at_1812_level,france_line_displacement_tonnes_ASSUMED,britain_line_displacement_tonnes_ASSUMED,tonnage_ratio_FR_over_UK,france_effective_A12_tonnes_ASSUMED,britain_effective_A12_tonnes_ASSUMED,effectiveness_ratio_FR_over_UK,uk_skill_factor_ASSUMED,fr_skill_factor_ASSUMED
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,low,1815,common_pre_truce_1815,72.145,8.0,2.380895,1.5,50,40,44.711,43.538,4.0,4.0,2.232,4.24,31.3,30.48,68190,41738,30.0,0.35,165,120.0,6,6.8,105.0,100.0,120.0,220.0,5,16,3.0,15.0,100.0,200.0,130000,140,0.78,15.05,19.65,230862.963,408000.0,0.5658,88000.0,339150.0,0.2595,0.95,0.55
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,low,1816,annual_planning_year,73.316,7.0,4.328681,1.5,51,40,44.175,43.319,2.0,4.0,2.536,4.218,30.92,30.32,69371,42817,30.0,0.365,165,121.0,6,5.0,106.0,100.0,121.0,221.0,5,16,4.0,15.0,100.0,200.0,130000,140,0.783,15.05,19.65,234611.187,411400.0,0.5703,90848.054,343581.333,0.2644,0.9533,0.556667
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,low,1817,annual_planning_year,74.417,7.0,4.39896,1.5,52,41,43.667,43.121,2.0,4.0,2.509,4.199,30.57,30.18,70434,43819,30.0,0.381,165,122.0,6,5.0,107.0,100.0,122.0,222.0,5,16,4.0,15.0,100.0,200.0,130000,140,0.787,15.05,19.65,238134.515,414800.0,0.5741,93738.611,348035.333,0.2693,0.9567,0.563333
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,low,1818,annual_planning_year,75.452,7.0,4.465022,1.5,52,41,43.183,42.94,2.0,4.0,2.483,4.181,30.23,30.06,71391,44752,30.0,0.396,165,123.0,6,5.0,108.0,100.0,123.0,223.0,5,16,4.0,15.0,100.0,200.0,130000,140,0.79,15.05,19.65,241446.445,418200.0,0.5773,94848.0,352512.0,0.2691,0.96,0.57
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,low,1819,annual_planning_year,76.425,7.0,4.527121,1.5,53,42,42.724,42.775,2.0,4.0,2.459,4.165,29.91,29.94,72252,45619,30.0,0.411,165,124.0,6,5.0,109.0,100.0,124.0,224.0,5,16,4.0,15.0,100.0,200.0,130000,140,0.793,15.05,19.65,244559.658,421600.0,0.5801,97802.723,357011.333,0.2739,0.9633,0.576667
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,low,1820,annual_planning_year,77.339,7.0,4.585494,1.5,54,43,42.288,42.626,2.0,4.0,2.436,4.15,29.6,29.84,73026,46426,30.0,0.427,165,125.0,6,5.0,110.0,100.0,125.0,225.0,5,16,4.0,15.0,100.0,200.0,130000,140,0.797,15.05,19.65,247486.077,425000.0,0.5823,100799.942,361533.333,0.2788,0.9667,0.583333
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,low,1821,annual_planning_year,77.199,6.0,4.640364,1.5,54,43,41.873,42.489,2.0,4.0,2.414,4.136,29.31,29.74,73724,47176,30.0,0.442,165,126.0,6,5.0,111.0,101.0,126.0,226.0,5,16,4.0,15.0,100.0,200.0,130650,140,0.8,15.105,19.718,247036.912,428400.0,0.5767,101952.0,366078.0,0.2785,0.97,0.59
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,low,1822,annual_planning_year,77.067,6.0,4.631942,1.5,53,42,41.48,42.365,2.0,4.0,2.394,4.124,29.04,29.66,74351,47874,30.0,0.457,165,127.0,6,5.0,112.0,102.0,127.0,227.0,5,16,4.0,15.0,100.0,200.0,131300,140,0.803,15.161,19.787,246614.698,431800.0,0.5711,101194.723,370645.333,0.273,0.9733,0.596667
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,low,1823,annual_planning_year,76.943,6.0,4.624026,1.5,53,42,41.106,42.252,2.0,4.0,2.374,4.113,28.77,29.58,74916,48523,30.0,0.473,165,128.0,6,5.0,113.0,103.0,128.0,228.0,5,16,4.0,15.0,100.0,200.0,131950,140,0.807,15.216,19.855,246217.818,435200.0,0.5658,102325.277,375235.333,0.2727,0.9767,0.603333
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,low,1824,annual_planning_year,76.826,6.0,4.616584,1.5,53,42,40.75,42.15,2.0,4.0,2.355,4.103,28.53,29.5,75425,49126,30.0,0.488,165,129.0,6,5.0,114.0,104.0,129.0,229.0,5,16,4.0,15.0,100.0,200.0,132600,140,0.81,15.271,19.923,245844.749,438600.0,0.5605,103456.0,379848.0,0.2724,0.98,0.61
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,low,1825,annual_planning_year,76.717,6.0,4.609589,1.5,53,42,40.413,42.056,2.0,4.0,2.338,4.093,28.29,29.44,75882,49687,30.0,0.503,165,130.0,6,5.0,115.0,105.0,130.0,230.0,5,16,4.0,15.0,100.0,200.0,133250,140,0.813,15.326,19.991,245494.064,442000.0,0.5554,104586.723,384483.333,0.272,0.9833,0.616667
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,low,1826,annual_planning_year,76.614,6.0,4.603014,1.5,53,42,40.092,41.971,2.0,4.0,2.321,4.085,28.06,29.38,76294,50209,30.0,0.519,165,130.0,6,6.0,115.0,105.0,130.4,231.0,5,16,4.6,15.0,100.0,200.0,133250,140,0.817,15.326,19.991,245164.419,442000.0,0.5547,105717.277,385786.667,0.274,0.9867,0.623333
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,low,1827,annual_planning_year,76.517,6.0,4.596833,1.5,53,42,39.788,41.894,2.0,4.0,2.305,4.077,27.85,29.33,76665,50695,30.0,0.534,165,130.0,6,6.0,115.0,105.0,130.8,232.0,5,16,4.6,15.0,100.0,200.0,133250,140,0.82,15.326,19.991,244854.554,442000.0,0.554,106848.0,387090.0,0.276,0.99,0.63
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,low,1828,annual_planning_year,76.426,6.0,4.591023,1.5,53,42,39.498,41.823,2.0,4.0,2.289,4.07,27.65,29.28,76998,51146,30.0,0.549,165,130.0,6,6.0,115.0,105.0,131.2,233.0,5,16,4.6,15.0,100.0,200.0,133250,140,0.823,15.326,19.991,244563.28,442000.0,0.5533,107978.723,388393.333,0.278,0.9933,0.636667
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,low,1829,annual_planning_year,76.34,6.0,4.585562,1.5,53,42,39.223,41.759,2.0,4.0,2.275,4.064,27.46,29.23,77298,51566,30.0,0.565,165,130.0,6,6.0,115.0,105.0,131.6,234.0,5,16,4.6,15.0,100.0,200.0,133250,140,0.827,15.326,19.991,244289.485,442000.0,0.5527,109109.277,389696.667,0.28,0.9967,0.643333
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,low,1830,annual_planning_year,76.26,6.0,4.580428,1.5,53,42,38.962,41.701,2.0,4.0,2.261,4.058,27.27,29.19,77568,51956,30.0,0.58,165,130.0,6,6.0,115.0,105.0,132.0,235.0,5,16,4.6,15.0,100.0,200.0,133250,140,0.83,15.326,19.991,244032.115,442000.0,0.5521,110240.0,391000.0,0.2819,1.0,0.65
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,base,1815,common_pre_truce_1815,86.86,10.0,1.996419,1.0,65,56,54.77,56.705,5.0,5.0,2.282,4.713,41.08,42.53,82336,49313,55.0,0.45,195,127.5,7,6.3,115.0,107.5,127.5,237.5,6.5,19.0,4.0,17.5,107.5,215.0,138625,175,0.83,15.783,20.556,304011.173,459000.0,0.6623,147875.0,414000.0,0.3572,1.0,0.65
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,base,1816,annual_planning_year,90.017,8.5,4.343017,1.0,68,59,54.606,56.968,2.5,5.0,2.665,4.736,40.95,42.73,84926,50855,55.0,0.465,195,129.0,7,5.5,116.5,108.0,129.0,239.0,6.5,19.0,5.0,17.5,106.0,212.0,138200,175,0.833,15.747,20.511,315060.613,464400.0,0.6784,156286.746,420798.0,0.3714,1.0033,0.656667
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,base,1817,annual_planning_year,93.016,8.5,4.500866,1.0,71,62,54.448,57.211,2.5,5.0,2.657,4.757,40.84,42.91,87283,52303,55.0,0.479,195,130.5,7,5.5,118.0,108.5,130.5,240.5,6.5,19.0,5.0,17.5,104.5,209.0,137775,175,0.837,15.711,20.466,325557.582,469800.0,0.693,164838.25,427632.0,0.3855,1.0067,0.663333
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,base,1818,annual_planning_year,95.866,8.5,4.650823,1.0,74,64,54.298,57.434,2.5,5.0,2.65,4.777,40.72,43.08,89427,53665,55.0,0.494,195,132.0,7,5.5,119.5,109.0,132.0,242.0,6.5,19.0,5.0,17.5,103.0,206.0,137350,175,0.84,15.675,20.422,335529.705,475200.0,0.7061,173530.0,434502.0,0.3994,1.01,0.67
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,base,1819,annual_planning_year,98.572,8.5,4.793281,1.0,76,66,54.155,57.639,2.5,5.0,2.643,4.795,40.62,43.23,91379,54945,55.0,0.509,195,133.5,7,5.5,121.0,109.5,133.5,243.5,6.5,19.0,5.0,17.5,101.5,203.0,136925,175,0.843,15.639,20.377,345003.218,480600.0,0.7179,179993.422,441408.0,0.4078,1.0133,0.676667
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,base,1820,annual_planning_year,101.144,8.5,4.928617,1.0,78,68,54.018,57.828,2.5,5.0,2.637,4.811,40.51,43.37,93155,56148,55.0,0.523,195,135.0,7,5.5,122.5,110.0,135.0,245.0,6.5,19.0,5.0,17.5,100.0,200.0,136500,175,0.847,15.602,20.332,354003.058,486000.0,0.7284,186549.909,448350.0,0.4161,1.0167,0.683333
+CONDITIONAL_MODEL_NOT_OBSERVATION,W,S2/S3,base,1821,annual_planning_year,102.087,7.0,5.057187,1.0,79,69,53.887,58.002,2.5,5.0,2.631,4.826,40.42,43.5,94771,57280,55.0,0.538,195,136.5,7,5.5,124.0,111.0,136.0,246.5,6.5,19.0,5.5,17.5,100.0,200.0,137150,175,0.85,15.658,20.401,357302.904,491400.0,0.7271,190785.0,455328.0,0.419,1.02,0.69

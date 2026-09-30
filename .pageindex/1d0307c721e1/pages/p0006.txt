@@ -1,0 +1,44 @@
+258                                   Klemens Kaps
+
+
+      1804 and their sharp decline in 1811 – both movements seem to have
+      been influenced by price changes. More information about the admin-
+      istrative setting of prices is needed to construct a satisfactory time
+      series, hence the Banco-Hofbuchhaltung’s administration files need to
+      be systematically researched.
+          To correct these distortions, one should take into account both the
+      temporal discontinuity of price adaptations and its selective scope. The
+      first issue is quite difficult to address since no price series exists for a
+      wide range of products, a fact that has prevented the calculation of
+      inflation rates for the eighteenth century. The only price index avail-
+      able starts in 1800 and runs to 1913 for a few Austrian cities (Vienna,
+      Innsbruck, Linz, Salzburg, Graz) (Mühlpeck et al. 1979). Sources for the
+      eighteenth century are scarce because the official price statistics only
+      list grain prices starting with five-year averages in 1775 and yearly
+      values from 1796. Price series for other foodstuffs were only registered
+      from 1828 on. Series of prices for the cities of Vienna (Pribram 1938),
+      Cracow (Górkiewicz 1950), and L’viv (Hoszowski 1934) with a wider
+      temporal coverage were published, but they list the prices for a limited
+      range of products only.
+         The construction of a complete series of prices would have to
+      address two different issues. First, the prices for the products, whose
+      prices were fixed may be adjusted by calculating an individual price
+      increase index and applying it to them. Second, for products which are
+      registered in official price series or in the source editions just
+      mentioned (Hoszowski 1934; Pribram 1938), these price indexes may
+      be used. However, additional information is probably necessary, e.g. in
+      international price statistics from border regions and states. Thus, the
+      bias apparent in the official trade statistics could only be corrected by a
+      very time-intensive approach.
+         Further shortcomings of the statistics such as the omission of
+      trading partners and transit trade should be mentioned here, although
+      they do not question the reliability of the quantitative material, but
+      limit the scope of analysis.
+
+
+      6. Information
+         The accounts register all commodities, classifying external and
+      internal trade flows separately and summing them up in 21 main
+      groups of commodities (capi). As mentioned before, these categories
+      were stable up to the reorganization of the trade statistic in 1827/28.
+      Only the sporadically available customs extracts give more detailed

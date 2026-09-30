@@ -1,0 +1,46 @@
+    Table 19: Conscription and ruggedness with alternative to “Military relays”.
+
+Note: This table displays the same regression as in Table 3, column (4) while replacing “Military
+relays” with either “Road density” or “Postal office density.” The first column is equivalent to
+column (4) in Table 3. We report robust standard errors in parenthesis and Conley standard errors
+(100km) in brackets.
+
+                Conscription rate              (1)            (2)            (3)
+                Log of ruggedness           -2.33772       -2.38696       -2.46050
+                                        (0.47519)***   (0.46906)***   (0.48479)***
+                                        [0.45585]***   [0.48642]***   [0.49542]***
+                Exemption rate              -0.33988       -0.33933       -0.33354
+                                        (0.01977)***   (0.01982)***   (0.01951)***
+                                        [0.02102]***   [0.02143]***   [0.02035]***
+                Townships Density           -6.78714      12.45535         8.12456
+                                          (10.36324)     (9.12026)       (9.35739)
+                                          [11.93277]     [11.57298]     [11.79192]
+                Distance from Paris          0.54143        0.36739       0.62756
+                                           (0.38626)      (0.46417)     (0.41572)
+                                           [0.48476]      [0.62313]      [0.56003]
+                Border                      -1.69050       -1.40977       -1.53622
+                                         (0.69502)**    (0.69164)**    (0.70429)**
+                                         [0.69252]**     [0.76972]*    [0.77805]**
+                Military relays              6.43879
+                                         (2.99431)**
+                                          [3.58888]*
+                Road density                            -21.33953*
+                                                        (12.25513)
+                                                        [15.44490]
+                Postal office density                                  -65.47770
+                                                                      (157.30827)
+                                                                      [229.84444]
+
+                Same other controls
+                as in Table 3            X              X                  X
+                Observations            365            365                365
+                R-squared             0.74391        0.74307            0.74075
+                               *** p<0.01, ** p<0.05, * p<0.1
+
+
+F.4     Choice of enforcement technology
+Given the results of our empirical test on the relationship between geographic charac-
+teristics and the prevalence of draft-dodging, it would be reasonable to assume that
+
+
+                                                33

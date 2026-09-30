@@ -1,0 +1,26 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/commons/1811/jun/14/french-prisoners-of-war"
+final_url: "https://api.parliament.uk/historic-hansard/commons/1811/jun/14/french-prisoners-of-war"
+provider: "exa"
+text_sha256: "c117553933bd56d3166921c7c99a0bcdd8f3f13c08261e3c268cc85a203f17ff"
+title: "FRENCH PRISONERS OF WAR. (Hansard, 14 June 1811)"
+content_kind: "page_text"
+---
+
+FRENCH PRISONERS OF WAR. (Hansard, 14 June 1811)
+
+Search Help
+
+# FRENCH PRISONERS OF WAR.
+
+HC Deb 14 June 1811 vol 20 cc634-9 634
+
+§ An Account of the number of French Prisoners of War in England being presented to the House,
+
+took occasion to observe, that it would appear from these documents that the total number of French Prisoners remaining in England amounted to 45,933, and that the returns of the sick were 321. The number on parole were 2,710, and the sick 165. This statement he conceived would be a sufficient answer to the imputations of negligence upon the part of this government which had been thrown out by a noble lord.
+
+§
+
+rose and said: Sir; I do not know whether it is perfectly regular to make any observations on the production of these papers; but reproached as I am at this moment by the pointed ad-dress of the right hon. gent., and goaded as I have been by his repeated assertions, that I am unable to prove facts which I have stated to this House, it is incumbent upon me to justify my conduct, in having given notice of a motion relative to the prison in Dartmoor, but in which I did not persevere, for reasons very different from those assigned by the right hon. gent., namely, "an inability to prove facts." Sir, if facilities are afforded to investigate truth, that right hon. gent. will find, that neither within or out of this House have I ever asserted that which I am unable to establish. The time that has elapsed will sufficiently evidence my reluctance to bring this matter to the knowledge of the public, fearing that a disclosure might add to the misfortunes of our countrymen in France. However, the defence of my character now compels me to say a few words in relation to it, and the right hon. gent. and his colleagues have themselves alone to blame.
+
+Having received many letters, stating the condition of the Prisoners of War at Dart-moor to be truly deplorable, I deter-mined to investigate the subject; and having had occasion to go to Exeter, I proceeded to Launceston, and other depots, whence I obtained the intelligence, and 635 being satisfied that the complaints had some foundation, I went to Dart-moor, not doubting but that every facility would have been afforded to disprove the com-plaints, and invalidate the heavy charges made; but, to my great astonishment, I was refused admittance, even in my capacity as a member of Parliament. [A great laugh.] Yes! I say in my capacity as a member of Parliament! which, what-ever respect or consideration it merits in the opinion of the hon. gentlemen who indulge themselves in laughing, it ought to entitle the members of this House to ad-mission there, or into any prison in the kingdom.

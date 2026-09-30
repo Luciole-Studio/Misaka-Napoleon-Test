@@ -1,0 +1,21 @@
+
+
+**跨情景不变量（高置信）**：①巴西不回欧洲法制秩序；②上秘鲁归属在任何情景下都是争端；③蒙得维的亚与布宜诺斯艾利斯的港口之争在任何情景下持续；④巴拉圭在任何情景下都趋于孤立自治。
+
+## 改判证据（本卡自列，≥2）
+- **E1**：若能取得 1806–1808 年英国内阁**会议记录**（非 Castlereagh 个人备忘录），显示多数阁员主张征服而 Castlereagh 为少数派，则 §V2 与 falsifier 裁决须回调。本卡只读到 Castlereagh 一方的文书与其对"late Government"的复盘。
+- **E2**：若 Sassenay 使命的**法方训令原件**（Gallica bpt6k54214325 所据档案；本轮因站点验证拦截未取得）显示拿破仑为美洲准备了实质资源（舰队、资金、对美洲精英的具体让步），则"法国投送能力≈0"须上调为"意愿存在但被海权阻断"。
+- **E3**：若 Díaz Venteo《Las campañas militares del virrey Abascal》(1948) 或 Abascal《Memoria de gobierno》(1944) 原书显示上秘鲁军的**实际受薪兵力**远低于 8,000，则 §⑮ 的"单一副王区正规军上限"须下调，并连带下调"保王派可自给"的判断。
+- **E4**：若 1809–1812 年西属美洲**关税与贸易量的系列数据**显示开港的财政效果远小于蒙得维的亚个案（70 万 pesos），则"开港＝发饷＝稳定"的机制链须弱化，S2 的帝国存续概率下调 10–15 个百分点。
+- **E5**：若有证据显示 1808–1810 年间美洲精英对**约瑟夫政权**存在实质接洽（而非一律拒绝），则"法国名义在美洲是负资产"须由高置信下调为中置信。本卡只检索到否决记录（加拉加斯、蒙得维的亚），未检索到接洽记录，**且"索引库查无 ≠ 文献不存在"**。
+
+---
+
+# ⑰ 材料缺口与未决问题（诚实清单）
+
+1. **未获**：Sassenay《Napoléon Ier et la fondation de la République argentine》(1892)，Gallica ark bpt6k54214325，`texteBrut` 被站点验证页拦截（下载得到 50KB 的 altcha 挑战页，非正文）。此书是法方使命的唯一专著。
+2. **未获**：Abascal《Memoria de gobierno》(Sevilla 1944)、Díaz Venteo《Las campañas militares del virrey Abascal》(1948)、Anna《The Fall of the Royal Government in Peru》(1978)、Lynch《The Spanish American Revolutions》、Halperín Donghi《Politics, Economics and Society in Argentina》、Adelman《Sovereignty and Revolution in the Iberian Atlantic》、Street《Gran Bretaña y la independencia del Río de la Plata》、Kaufmann《British Policy and the Independence of Latin America》、Waddell、Colombeia（米兰达档案 24 卷）。本轮工具链对影子图书馆脚本的调用被运行时守卫拒绝（bash 拒绝任何指向 skill 树的命令），故未能按 source_strategy 取得这批专著。**这是本卡最大的单一缺口**：它影响的是二手解释的细度，不影响本卡赖以推演的同期文书锚点。
+3. **仅读检索页文本、未取全文**：Galarza 关于 1800–1810 拉普拉塔财政转移的 LARR 论文；Contreras《La reforma fiscal de 1815》；Morán 等关于捐输与官报的 *Historia Regional* 论文。相关数字已全部标注为"检索页文本"。
+4. **未核**：Castlereagh vol. VII 中"while the territory of Old Spain is, in fact, a French province"一句所在页的页眉 OCR 为"180M"，本卡按 1807 读；若该段实为编者并入的 1808 年文件，则 §V2 的时间线须微调（不影响结论方向）。
+5. **未解的口径冲突**：英方 1806 年矿产表把秘鲁 1780–89 年十年合计标为年产（编者仅注"So in MS."）；Torrente 的年产表与之量级不符。本卡按"十年合计被误标"处理，并以此作为英国对南美情报质量的证据。
+6. **未做**：南美各区 1803–1848 年的人口序列（Humboldt 的比较表本轮未取得对应卷）。本卡的人口数据仅有布宜诺斯艾利斯、蒙得维的亚、马尔多纳多与波帕扬比例。

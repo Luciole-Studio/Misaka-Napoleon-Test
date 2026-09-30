@@ -1,0 +1,68 @@
+
+
+## 8. 英国接受和平的条件集（接C16）
+
+【事实】1811-06-05 Whitbread以制造商困苦促成合理和平讨论，财政大臣仍维护海权政策；结尾记载“The Resolution was then put and agreed to”。£3m Vote of Credit并未因此受阻。[U2 cc445–455] 1812年反对派言论与卢德运动不是同一组织目标，不能把所有不满相加成和平多数。[C16：Navickas pp.282–283；Cookson公开摘要，非全书]
+
+【事实】1808-10-28英国外交文书要求西班牙政府作为谈判方；12月9日重申以Ferdinand VII名义行动的政府资格。12月15日声明说接触“have not led to Negotiation”。[P1 No.VIII–IX、XIX及声明，cc97–105；原日期1808，议会刊载1809]
+
+【模型推演】不废西王可以移除这一具体承认冲突，却不自动移除葡萄牙、西西里、汉诺威、海权及未来法国再扩张的风险。较有根据的条件集是：
+1. 国内政府、议会与摄政政治允许谈判；反贸易限制动员能否转换为支持特定和平条件须另证。
+2. 商业让步带来可见收益，且英国不认为必须以牺牲海上生存条件交换。[U2]
+3. 盟友和王朝安排互相兼容，不是法国把同一块领土分别许给多方。[P1；C13]
+4. 法国承诺具有可观察的自限、执行与违约代价；否则和平节省可能仅让对方为下一战积累力量。[模型条件，非已发现条约条款]
+
+【裁量｜中高】贸易政策松绑、开启谈判、有条件和约、不再资助大陆联盟、永久放弃干预是五种不同结果。材料主要支持前三种条件，不能从经济苦痛直接跳到后两种。1812年11月论战又受俄国战局影响，不能当作纯封锁实验。[C16，U2，P1]
+
+## 9. 史学分歧、缺口及可推翻结论的材料
+
+### 9.1 不伪造三方论战
+
+- **【文献推断｜Crouzet，经Chaloner转引】**其原著p.855强调封锁造成1810危机及长期货币困难，“qui gênèrent sérieusement son effort de guerre”。只读到书评p.526，不冒称亲读原书。[H2]
+- **【文献推断｜Heckscher】**承认商业损害，却强调多因机制和主权信用未崩溃。[H1] 与Crouzet存在重要权重分歧，当前不足量化各原因贡献。
+- **【文献推断｜O’Brien】**长期征税能力是funding system前提，不等于否认封锁打击。[H3] 财政结构分析与商业周期分析可同时成立。
+- **【转引｜Freedman评Knight】**“he puts the organisation of war at centre stage”，突出行政与公私协调。[H5] 未取得Knight财政原页；书评中1811年£43m／£35m／£85m等数字口径不明，排除出数量输入。
+- **【文献推断分歧｜法国】**Gabillard的战役预融资、拖欠与货币解释，同Bouvier的跨国结算网络、Plessis的银行信用、Branda的投机及供给解释并列；不是以一位作者覆盖另几位。[F1–F3,F6]
+
+### 9.2 缺口登记与下游影响
+
+|缺口|会决定什么|本轮处理／补查位置|
+|---|---|---|
+|英1810—15同口径税、债、息、补贴及偿债基金；法国固定疆域净收支|偿付余量、国家轨迹与交叉年|NA；C2 c2_gaps.csv fiscal行、Annual Finance Accounts、Mitchell/Deane、Branda/Marion原表|
+|海军预算与实支，木材／桅材／麻的年度数量价格|和平能否资助追舰及资源机会成本|C2明确阻塞C3/C4；不从本卡推出海军追平年|
+|法国净贡赋、可动用储备、附庸同期收入与驻军净成本|和平转型δG及盟国税负可承受性|只保留混合口径截面；Grab/Berding/Connelly原页与财政账待补|
+|1811救助实放与坏账|公共信用干预净财政成本|只有£6m提议额度，不用1793实放代替|
+|走私流量、执法投入、法庭与许可证实收连续资料|ε及严格封锁的净边际收益|个案机制不能校准；Hamburg/Livorno/Bordeaux地方海关、警察、商会账|
+|Crouzet p.855、Knight财政页、Bordo–White完整表格|史家数量分歧、主权融资对商业冲击弹性|层级明确；Bordo–White 1990/1991版本不混用；未核数字不用|
+|Note 18431原刊、Gotteri p.355、Brotonne p.400|贸易备选条款与粮食政策执行核验|同时代内容均注明经二手转引；不假称档案原折已阅|
+|美国／拉美细分、回款、净法国银元结算|缓冲持久性与外部现金可靠性|对接C5/C16；不设无限殖民银，也不计算50%替代率|
+|和平税制、驻军缩编及继承期承诺可执行性|S5长期霸权财政稳健性|已有财政基础，但霸权的可持续预算未证，须回馈C8/C9|
+
+【裁量｜中高】由此对C8/C9的反馈不是“法国没有税收国家”，而是“已有财政设施不等于足以维持长久泛欧军事霸权；减战、减贡、还欠、缩编与利益补偿必须作为一组约束核算”。税制转型的承重环节仍脆弱，不能预支1848年的制度红利。
+
+## 10. 来源台账与核验层级
+
+缓存均在项目根目录`downloads/pages/`；原URL保存在缓存frontmatter。网页／OCR可追溯，不等于原版影印核验。项目卡是协作索引，不算新增独立史料。来源代号如下：
+
+- **U1** Hansard, *The Budget*, HC Deb 20 May 1811, vol.20 cc210–223，重点cc213–216；`bff7e2ccf088.md`；https://api.parliament.uk/historic-hansard/commons/1811/may/20/the-budget 。
+- **U2** Hansard, *Vote of Credit*, HC Deb 5 June 1811, vol.20 cc445–455；`8f32cf6e5188.md`；https://api.parliament.uk/historic-hansard/commons/1811/jun/05/vote-of-credit 。
+- **U3** Hansard, *Commercial Credit*, HC Deb 11 March 1811, vol.19 cc327–350，重点cc332–333；`3b8b8e348c6d.md`；https://api.parliament.uk/historic-hansard/commons/1811/mar/11/commercial-credit 。
+- **U4** Hansard, *State of the Public Finances*, HC Deb 9 July 1817, vol.36 cc1336–1365，Grant决议；`29727e560586.md`；https://api.parliament.uk/historic-hansard/commons/1817/jul/09/state-of-the-public-finances 。
+- **U5** Hansard, *Economy and Retrenchment*, HC Deb 27 June 1821, vol.5 cc1345–1442，c.1351 No.3表；`95e29ff1c015.md`；https://api.parliament.uk/historic-hansard/commons/1821/jun/27/economy-and-retrenchment 。表转引Annual Finance Accounts，原账未亲阅。
+- **U6** 8 June 1810 Bullion Report，引言／结论节录；`523f4560156c.md`；https://www.gold.org/sites/default/files/documents/1810jun8.pdf 。非完整证言附表。
+- **H1** Eli F. Heckscher, *The Continental System: An Economic Interpretation*, 1922英译本，印pp.238–252、362–363；`doc_id=1baaae7f3185`，PDF页比这些印页多16。金属输出OCR损坏值未采用。
+- **H2** W. H. Chaloner评Crouzet, *Revue belge de philologie et d’histoire* 38-2 (1960),525–526；`e5b32951df65.md`；https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2 。Crouzet 1958两卷本p.855仅转引。
+- **H3** Patrick K. O’Brien, “The Political Economy of British Taxation, 1660–1815,” *Economic History Review* 41(1),1988,1–32，Tables 1–3及注；`bb07a813031b.md`，表2原印页未可靠恢复，以表号定位。其Chisholm与Customs原账未亲阅。
+- **H4** Pamfili Antipa & Christophe Chamley, *Monetary and Fiscal Policy in England during the French Wars (1793–1821)*，October 2017版，p.19、§3.4；`cf02c798c3f0.md`；https://people.bu.edu/chamley/Ec365-17/UKFR.pdf 。
+- **H5** Lawrence Freedman评Roger Knight, *Britain against Napoleon: The Organisation of Victory, 1793–1815*，FT书评；`01c0c0eb46a8.md`；https://www.ft.com/content/09dfe7f0-6738-11e3-a5f9-00144feabdc0 。非Knight本人原页。
+- **F1** Jean Gabillard, “Le financement des guerres napoléoniennes et la conjoncture du Premier Empire,” *Revue économique* 4(4),1953,548–572；`e4f61139af7d.md`；https://www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987 。Mollien／Gaudin／圣赫勒拿材料一律回溯性；不把其叙述当原账。
+- **F2** Alain Plessis, 法兰西银行研究，*Revue du Souvenir Napoléonien* 430,2000,35–43，网页“Napoléon et sa Banque”节及注17–22bis；`54a70cc2111c.md`；https://www.napoleon.org/histoire-des-2-empires/articles/la-banque-de-france-une-des-grandes-institutions-napoleoniennes/ 。Ramon原书与原信未亲阅。
+- **F3** Jean Bouvier, “Les crises économiques sous l’Empire. A propos de la crise dite « de 1805 »,” *AHRF* 199,1970,100–109；`254e6c723b4c.md`；https://www.persee.fr/doc/ahrf_0003-4436_1970_num_199_1_3895 。与Gabillard有引述依赖，不能重复计票。
+- **F4** Alexander Grab, *Napoleon and the Transformation of Europe*,2003，印pp.26–27（Financial impositions）、101、161及相关注；`2ad693d5ac13.md`／同ID索引。Connelly、Berding只按其转引层级，不称本卡亲读。
+- **F5** Pierre Branda，2008战争融资文章，DOI https://doi.org/10.3917/napo.083.0001a ；`2e17b555b294.md`及同文英文转录`906d4b3f363b.md`，附录II／末汇总表。两个载体不是两个独立来源；索引的自动分页含平台推荐内容，不与原文印刷页机械对应。
+- **F6** Pierre Branda, “1812, l’année de tous les défis,” *RSN* 492,2012,26–33，网页分节及注8、17；`414d9ffcebd4.md`；https://www.napoleon.org/histoire-des-2-empires/articles/1812-lannee-de-tous-les-defis/ 。网页无逐段印页映射；Brotonne/Gotteri皆为转引。
+- **B1** Silvia Marzagalli, “Port Cities in the French Wars: The Responses of Merchants in Bordeaux, Hamburg and Livorno to Napoleon’s Continental Blockade, 1806–1813,” *The Northern Mariner*，1996，重点pp.68–70；`doc_id=6772f035b6ed`。当地报告与账册通过作者进入，未独立读原折。
+- **B2** Paul Butel, “Guerre et commerce : l’activité du port de Bordeaux sous le régime des licences, 1808–1815,” *RHMC* 19(1),1972,128–149，重点136–138；`ef23236c1624.md`；https://www.persee.fr/doc/rhmc_0048-8003_1972_num_19_1_2186 。
+- **B3** 拿破仑1810-07-09给Lebrun的Instructions，网页通信转录；`82a063e7e022.md`；https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1810/ 。不是亲核原信。
+- **B4** 1812-01-13 Note，转引自H1印pp.248–252，旧版Correspondance no.18431，原刊未亲核。
+- **P1** “Papers relating to the overtures…”：1808年10—12月外交文书，HC Deb 20 January 1809,vol.12 cc93–105，No.VIII–IX、XIX及声明；`5ab65f0d1e5e.md`；https://hansard.parliament.uk/html/Commons/1809-01-20/CommonsChamber 。

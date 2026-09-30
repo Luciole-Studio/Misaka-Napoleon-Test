@@ -1,0 +1,41 @@
+treatment effect of having one more spindle in 1812 for industrial value added per capita is
+positive and significant in 1860. The point estimate decreases in size over time and from
+1896 onwards, the coefficient is longer distinguishable statistically from zero.
+    The results are robust to the addition of departmental controls and to calculating indus-
+trial value added per capita in terms of contemporaneous population (Tables A.12 and A.14
+in Appendix A.4). I find no statistically significant effect across all years on value added
+in agriculture or services (Tables A.16 and A.18 in Appendix A.4). Taking these results
+together, temporary protection enabled regions to adopt and develop an industry which was
+highly innovative throughout the 19th century. Not only did the specific industry develop
+in the long-term, but the results point to higher aggregate industrial economic activity in
+these regions, though this dissipated over time. Rather than diverting resources from their
+most productive use, it seems to be the case that trade protection enabled regions in France
+to enter a sector which was key to 19th century development.
+
+
+5.2     Exporting outcomes
+I now turn to examining exporting outcomes. The presence of tariff and non-tariff barriers
+implies that the within country results are not sufficient for showing that some regions of
+France had become competitive at international prices. Panels A-C in Figure A.13 show
+exporting outcomes. In particular, I plot the level of exports, net exports and exports of
+cotton manufactures relative to the same in Britain until 1830.50 As the figures make clear,
+the French cotton industry underwent a radical transformation during the period I examine.
+Prior to the Napoleonic Wars, France was a net importer of cotton manufactures. By the
+end of the blockade, they had become net exporters.51 Exports increased dynamically after
+the end of the Napoleonic Wars. By 1828, 7.5% of French exports were in cotton textiles.
+France had not only become competitive in export markets, but according to all the available
+evidence, the sector became important for the overall economy. Exports increased not only
+in levels, but also relative to British exports of the same, suggesting some convergence to
+Britain.
+    Was the adoption of mechanized cotton spinning and the emergence of a competitive
+cotton sector simply a matter of time for Continental follower countries? Figure A.14 shows
+evidence to the contrary. As late as 1850, France and Belgium – both part of the French
+  50
+     The data do not differentiate between exports and re-exports until the 1820s. I have omitted re-exports
+once they are separately entered.
+  51
+     It is difficult to interpret net exports for the period of the blockade, as smuggling meant that much of
+the import data is presumably not reported in the official statistics.
+
+
+                                                     35

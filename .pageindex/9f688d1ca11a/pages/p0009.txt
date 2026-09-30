@@ -1,0 +1,82 @@
+Environ. Res. Lett. 14 (2019) 094019
+
+
+
+and this is by construction independent of the inclusion     References
+of any other forcing.
+                                                             Alexander L V and Jones P D 2000 Updated precipitation series for
+    We therefore conclude that the eruption of Mount                the UK and discussion of recent extremes Atmos. Sci. Lett. 1
+Tambora has, with high statistical conﬁdence, played a              142–50
+dominant role in causing the observed cold conditions        Allan R and Ansell T 2006 A new globally complete monthly
+and probably also contributed to the anomalously wet                historical gridded mean sea level pressure dataset (HadSLP2):
+                                                                    1850–2004 J. Clim. 19 5816–42
+conditions. Without volcanic forcing, it is less likely to   Anchukaitis K J et al 2017 Last millennium Northern Hemisphere
+have been as wet and highly unlikely to have been as                summer temperatures from tree rings: II. Spatially resolved
+cold. This study demonstrates how linking regional                  reconstructions Quat. Sci. Rev. 163 1–22
+climate anomalies to large-scale circulation is neces-       Anet J G et al 2014 Impact of solar versus volcanic activity variations
+                                                                    on tropospheric temperatures and precipitation during the
+sary to quantitatively interpret and attribute post-                Dalton Minimum Clim. Past 10 921–38
+eruption climate variability.                                Auchmann R, Brönnimann S, Breda L, Bühler M, Spadin R and
+                                                                    Stickler A 2012 Extreme climate, not extreme weather: the
+                                                                    summer of 1816 in Geneva, Switzerland Clim. Past 8
+6. Data availability statement                                      325–35
+                                                             Brohan P, Allan R, Freeman E, Wheeler D, Wilkinson C and
+The volcanically forced HadCM3 model data is available              Williamson F 2012 Constraining the temperature history of
+from the University of Edinburgh’s DataShare: https://              the past millennium using early instrumental observations
+                                                                    Climate of the Past 8 1551–63
+doi.org/10.7488/ds/2601. The HadCM3 control simula-          Brohan P, Compo G P, Brönnimann S, Allan R J, Auchmann R,
+tion is available from the Natural Environment Research             Brugnara Y, Sardeshmukh P D and Whitaker J S 2016 The
+Council’s Data Repository for Atmospheric Science and               1816 ‘year without a summer’ in an atmospheric reanalysis
+Earth      Observation:       http://data.ceda.ac.uk/badc/          Clim. Past Discuss. 1–11
+                                                             Brö nnimann S and Krämer D 2016 Tambora and the ‘Year without a
+euroclim500/data/DRIFT. The gridded climate recon-                  summer’ of 1816 : A Perspective on Earth and Human Systems
+struction data is available from the World Data Center for          Science Geographica Bernensia, Geographisches Institut der
+Paleoclimatology: https://www.ncdc.noaa.gov/paleo.                  Universität Bern 48 pp
+                                                             Brugnara Y et al 2015 A collection of sub-daily pressure and
+                                                                    temperature observations for the early instrumental period
+Acknowledgments                                                     with a focus on the ‘year without a summer’; 1816 Clim. Past
+                                                                    11 1027–47
+The work was supported by NERC under the grant               Casty C, Raible C C, Stocker T F, Wanner H and Luterbacher J 2007
+                                                                    A European pattern climatology 1766–2000 Clim. Dyn. 29
+PacMedy (NE/P0067521/1) and the ERC-funded                          791–805
+project TITAN (EC-320691). C Timmreck acknowl-               Crowley T J and Unterman M B 2012 Technical details concerning
+edges support from the German federal Ministry of                   development of a 1200-yr proxy index for global volcanism
+Education (BMBF), research programmes ‘MiK-                         Earth Syst. Sci. Data Discuss. 5 1–28
+                                                             Crowley T J, Obrochta S P and Liu J 2014 Recent global temperature
+lip’(FKZ:01LP1517B), and the European Union project
+                                                                    ‘plateau’ in the context of a new proxy reconstruction Earth’s
+StratoClim (FP7-ENV.2013.6.1–2). DZ acknowledges                    Futur. 2 281–94
+support by the DAIS‐IRIDE project (VolClim). SB              Driscoll S, Bozzo A, Gray L J, Robock A and Stenchikov G 2012
+acknowledges funding from the Swiss National Science                Coupled Model Intercomparison Project 5 (CMIP5)
+                                                                    simulations of climate following volcanic eruptions
+Foundation (162668) and from the European Research
+                                                                    J. Geophys. Res. Atmos. 117 D17105
+Council under H2020 (Grant PALAEO-RA, 787574).               Eyring V, Bony S, Meehl G A, Senior C A, Stevens B, Stouffer R J and
+MPI-ESM simulations were performed at the German                    Taylor K E 2016 Overview of the coupled model
+Climate Computer Center (DKRZ).                                     intercomparison project phase 6 (CMIP6) experimental
+                                                                    design and organization Geosci. Model Dev. 9 1937–58
+                                                             Fasullo J T, Tomas R, Stevenson S, Otto-Bliesner B, Brady E and
+ORCID iDs                                                           Wahl E 2017 The amplifying inﬂuence of increased ocean
+                                                                    stratiﬁcation on a future year without a summer Nat.
+                                                                    Commun. 8 1236
+Andrew P Schurer https://orcid.org/0000-0002-                Fischer E M, Luterbacher J, Zorita E, Tett S F B, Casty C and
+9176-3622                                                           Wanner H 2007 European climate response to tropical
+Gabriele C Hegerl https://orcid.org/0000-0002-                      volcanic eruptions over the last half millennium Geophys. Res.
+4159-1295                                                           Lett. 34 L05707
+                                                             Franke J, Brönnimann S, Bhend J and Brugnara Y 2017 A monthly
+Jürg Luterbacher https://orcid.org/0000-0002-                       global paleo-reanalysis of the atmosphere from 1600 to 2005
+8569-0973                                                           for studying past climatic variations Sci. Data 4 170076
+Stefan Brönnimann https://orcid.org/0000-0001-               Gordon C, Cooper C, Senior C A, Banks H, Gregory J M, Johns T C,
+9502-7991                                                           Mitchell J F B and Wood R A 2000 The simulation of SST, sea
+                                                                    ice extents and ocean heat transports in a version of the
+Tim Cowan https://orcid.org/0000-0002-8376-4879                     Hadley Centre coupled model without ﬂux adjustments
+Simon F B Tett https://orcid.org/0000-0001-                         Clim. Dyn. 16 147–68
+7526-560X                                                    Humphreys W J 1913 Volcanic dust and other factors in the
+Davide Zanchettin https://orcid.org/0000-0001-                      production of climatic changes, and their possible relation to
+                                                                    ice ages J. Franklin Inst. 176 131–60
+5929-6983                                                    Iles C E and Hegerl G C 2015 Systematic change in global patterns of
+Claudia Timmreck https://orcid.org/0000-0001-                       streamﬂow following volcanic eruptions Nat. Geosci. 8
+5355-0426                                                           838–42
+
+
+                                                9

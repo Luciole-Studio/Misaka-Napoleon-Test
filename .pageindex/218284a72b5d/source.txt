@@ -1,0 +1,98 @@
+Sergei Antonov, Bankrupts and Usurers (2016), Introduction pp.28ff, selected excerpt from downloads/pages/05a0209a543e.md.
+URL https://ebin.pub/bankrupts-and-usurers-of-imperial-russia-debt-property-and-the-law-in-the-age-of-dostoevsky-and-tolstoy-9780674972599.html
+
+The second major set of policies designed to shape imperial Russia’s credit relations established a succession of government-owned banks
+offering much cheaper loans than the private market. The first such bank appeared in 1754 as a way to assist and in effect bribe the
+serfowning nobility. It was of limited effectiveness because most of its sums were issued to a small group of courtiers close to Peter
+Shuvalov, Elizabeth’s favorite. The volume of the bank’s business remained small into the early nineteenth century.90 Under Catherine II,
+financial support for the gentry was placed on a firmer basis when several institutions were established that provided cash loans secured by
+serf “souls” at the low legally sanctioned five or six percent annual rate. The most important ones were the Moscow and St. Petersburg
+Orphan­ ages; by the mid-nineteenth century, they accounted for about ninety percent of all government loans to the nobility. Each of them
+ran a “Safekeeping Treasury” (Sokhrannaya kazna) through its Board of Trustees (Opekunskii Sovet).91 Board loans issued from 1775 onward
+were originally limited to 5,000 rubles (admittedly, a hefty sum for all but the wealthiest nobles) and payable within five years, which
+ensured the Boards’ solvency and prevented the highest aristocracy from leaching their funds. In the first half of the nineteenth century,
+the loan terms were gradually liberalized: the repayment term was extended to twelve years in 1819, to twenty-four years in 1824, and
+finally to twenty-six and thirty-seven years in 1830.92 Unpopulated lands and houses could also be mortgaged for smaller sums. State-run
+credit institutions reached their apogee during the reign of Nicholas I (1825–1855), when they started to accept unlimited deposits, which
+paid a generous four percent interest rate that could be compounded. Max­ imum loan amounts were greatly increased from the original 10
+rubles per serf “soul” to 150–200 rubles, depending on the value of the estate. Table 0.3 lists the total amounts of serf-secured mortgages
+issued by the Moscow Board of Trustees in the 1850s, before such loans were discontinued in 1859. In terms of overall loan portfolios, in
+1855 the Moscow Board held loans worth 192.2 million rubles, accounting for nearly half of the government’s credit operations. St.
+Petersburg Board loans were worth 133.4 million, and the Loan Bank in St. Petersburg that serviced the highest court aristocracy held
+another 30.1 million. All the provincial Offices of Public Welfare held loans worth 42.4 million. By 1859, when a banking crisis induced the
+Introduction 29 Table 0.3 Moscow Board of Trustees Loans to Serfowners, in Silver Rubles Year 1852 1854 1856 1858 Amount 14,566,216.64
+9,716,892 8,597,904 16,719,290 Data sources: TsIAM 424.1.2081 (1852), 2083 (1854), 2085 (1856), and 2087 (1858). government to stop making
+these loans, the accumulated gentry debt amounted to 425.5 million rubles, secured by sixty-six percent of all privately owned serfs. (The
+total amount for 1855 was 398.2 million.)93 The average loan amounts issued annually are difficult to estimate, but the average annual
+increase of gentry debt to the state in 1823–1859 was 9.3 million rubles.94 This average increase was smaller than the new loan numbers for
+the 1850s for the Moscow Board alone, suggesting that gentry borrowing did not taper off once most of the eligible serfs had been mortgaged
+but rather that it continued until the 1859 closure of government banks, with serfowners paying off some of their loans and then
+remortgaging their estates. The financial success of the government banks was enhanced by their ­privileged legal status. Their loans had
+priority over all other debts and obligations. Even when a loan was not in delinquency, the Board retained considerable control over the
+mortgaged property. Borrowers were required to mortgage entire estates with resale value as opposed to a few serfs at a time. Police and the
+courts could not enforce any acts with respect to mortgaged property without the Board’s approval, including moving peasants to another
+estate. If a delinquent estate was sold, and there were fewer serfs or less land than originally declared, the Board collected the
+difference from the borrower, and if he was insolvent, from the officials and government institutions that had permitted the situation to
+occur. It was virtually impossible to take the Board to court or dispute its proceedings.95 Success was also ensured by efficient
+administration. Nineteenth-century government banks were very strict about requiring regular payments, even if they could allow a
+“remortgage”—that is, issue a new loan secured by that portion of an estate that was “cleared” through repayment. Moreover, instead of
+selling delinquent properties, state banks preferred to inventory the estates, appoint a trustee, and collect the income until the debt was
+paid.96 For example, in Simbirsk province, in 1856, out of 800 mortgaged estates, 33 were inventoried, 14 actually seized from their owners,
+and only 1 sold; in 1860, out of 897 mortgaged estates, 119 were inventoried, 109 taken over, and 2 sold.97 30 Introduction In Riazan
+province in 1857, out of 2,554 mortgaged estates, 194 were inventoried, taken over, or sold.98 These statistics do not indicate how many of
+the mortgaged estates were actually delinquent. No doubt landowners with appropriate connections could influence the Board to fudge the
+rules, but for typical landowners, all evidence points otherwise. Moreover, it appears that the small numbers of auction sales were due not
+to any difficulty of collection but to the difficulty of finding buyers for bankrupt properties. As discussed below, at least the Moscow
+Board of Trustees turned a healthy profit on its mortgage loans. A public sale was a last-resort measure, which explains its rare
+occurrence. Court cases illustrate the circumstances that resulted in a sale by the Board. The estate of Collegiate Secretary Petr
+Zubov—approximately 3,000 serfs in Arzamas and Makariev Counties of Nizhnii Novgorod province— had been in extreme financial disarray for
+several generations, yet the Board was content for many years with appointing a trustee but keeping Zubov as the legal owner.99 Andrei
+Chikhachev, a middling landowner from Vladimir province, wrote an article for the Agricultural Gazette lamenting the indebtedness of
+provincial serfowners, noting that estates were being taken under trusteeship, but did not mention any actual sales at auction. Aleksei
+Galakhov in his memoirs recalled the panic experienced by indebted provincial landowners when reading their weekly mail, although he also
+noted that most of them managed to negotiate with the government or find private loans to keep their estates.100 Thus, by the middle of the
+nineteenth century, the government banks— the four largest ones being the Loan Bank, the Commercial Bank, and the St. Petersburg and Moscow
+Boards—accumulated nearly 1 billion rubles in deposits—an astronomical amount at the time, enough to fill the empire’s budget for several
+years.101 As Soviet historian Iosif Gindin has suggested, these funds could have been used more productively to finance the development of
+Russia’s economy. Instead, the larger portion of the amount was used to cover budget deficits, and a relatively small proportion was
+invested in additional loans to serfowning nobles. But Gindin did not want to exaggerate the claim of Russia’s lagging behind: whereas large
+joint stock depository banks appeared in the United States and Britain in the 1830s, in France, Austria, Germany, and Italy such banks began
+to appear only in the late 1840s and early 1850s—that is, approximately ten years before they appeared in Russia.102 Ivan Pushechnikov, a
+conservative landowner and memoirist from Oryol province, thought the Board of Trustees had been “a most beneficent Introduction 31 mediator
+between depositors and borrowers,” in addition to carrying out its philanthropic work.103 This is in contrast to the late-imperial and
+Soviet Marxist view that the government’s policies in effect enserfed capital and that the banks were essentially “feudal” institutions.104
+It is true that the mortgage banks mostly assisted the nobility, but it is not at all clear why we should consider as deviant or backward
+the fact that elites enjoyed financial and other economic benefits. For the majority of Russia’s property-owning classes, who owned
+relatively few serfs or none at all, the state banks could not be of much help.105 However, the benefits that they provided extended much
+further than other historians have acknowledged: indeed, the very distinction between government and private lending was not completely
+clear-cut. The funds loaned to serfowners were often then transferred into the network of private credit by being reissued to other
+individuals at higher interest rates. Even more interestingly, some serfowners deposited their loans back in the same government banks at
+four percent interest and then used their deposit receipts— which circulated like cash—to issue private loans and collect additional
+interest.106 Moreover, the Commercial Bank, despite its reluctance to make risky loans to entrepreneurs, did support economic development by
+purchasing ­commercial debt documents and thereby supporting the system of commercial credit. In 1859, the state banking system was shut
+down. Technically, this happened because after the Crimean War there was too much cash in circulation without enough potential borrowers;
+servicing the swelling volume of deposits became expensive, inducing the state to reduce the interest rate. This led to a run on the banks
+and to their financial collapse, as recounted by Stephen Hoch.107 Memoirists remembered the event with bitterness. Pushechnikov thought it
+was “not only a reckless affair, but a blasphemous one, and even the most ardent enemy of Russia would not dare to commit such barbarity.”
+In his view, the government held such valuable collateral that it could easily borrow money in Europe to deal with the crisis.108 It was
+also hinted that the bank fiasco was a subtle way to wrestle serfowners into acquiescing to the impending emancipation.109 As Seymour Becker
+has noted, government-issued mortgage banks for the nobility were successfully revived toward the end of the nineteenth century, even though
+they made far riskier investments.110 Government banks were established to make private credit cheaper for privileged property owners,
+especially serfowners but also merchants. The 32 Introduction banks were also unique sites where public and private credit and finances
+intersected—although this aspect of their activity is still poorly understood. Despite all of their unprecedented authority to collect their
+debt and discipline their debtors, largely in circumvention of the court system, the banks and government policy in general left a
+surprising amount of decision-making to private individuals. For instance, there were no restrictions on what the borrower could do with the
+money borrowed from a government bank. Compared to the state-run credit system, private lending was even less restrictive; most importantly,
+there were no requirements, such as licensing or registration, on who could act as a lender, making the world of “usurers” a financial free-
+for-all. Part I T h e C u lt u r e of Deb t Figure 1.1. V. G. Astrakhov, At the Market. Playing Checkers (1857) Source: State Historical
+Museum (Moscow) chapt e r 1 Usurers’ Tales She was a tiny shriveled old thing, around sixty, with sharp and mean little eyes, with a small
+sharp nose and uncovered head. Her flaxen-­ blond hair—barely touched by gray—was thickly smeared with oil. Her thin and long neck, rather
+like a chicken leg, was wrapped in some kind of flannel rag, and on her shoulders, despite the heat, was flapping a tattered and yellowed
+fur jacket. The old thing was constantly coughing and wheezing.1 This of coursedescribes Aliona Ivanovna, the fictional pawnbroker from
+Crime and Punishment. The university students and young army officers who were her clients said that she was “able to hand out five thousand
+all at once, while never snubbing a ruble’s pawn.”2 The most striking element of the cultural stereotype captured by Dostoevsky is not
+simply Aliona Ivanovna’s pathetic appearance or viciousness but also her social margin­ alization, which is exaggerated to the point of
+caricature. Her only known social interaction is to bite her ­half-sister Lizaveta, her clients appear as ­parasitical as herself, and her
+wealth would remain lost to society even after her death by being bequeathed to a remote monastery.3 Consider also Grushenka, the femme
+fatale of Dostoevsky’s last great novel, The Brothers Karamazov: It was also known that the young woman, especially during the past year,
+embarked upon what is known as “gesheft,” and that in this respect 35 36 The Culture of Debt she turned out to ha

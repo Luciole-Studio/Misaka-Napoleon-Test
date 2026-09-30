@@ -1,0 +1,23 @@
+
+
+【裁量】解释框架应并列：①Munch-Petersen的中小国安全与力量分配解释；②仍有芬兰复仇期待的国内舆论与王朝政治；③Nielsen的挪威主体性；④Davey的后勤适应能力与Albion式短缺约束（后者本次仅经Davey转述，不能假称独立读过两学派全文）。这些框架互有补充，不应伪造正面学派对决。
+
+## 六、8项关键来源及复核定位
+
+1. **S1 瑞典议会，Successionsordning (1810:0926)**。现行官方合并文本，保留1810序言；仅取当选与制法记载。https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/successionsordning-18100926_sfs-1810-0926/ 。捕获：`downloads/pages/f07e59139e29.md`。
+2. **S2 Thomas Munch-Petersen, “The Policy of 1812: Swedish foreign policy from the Congress of Vienna to the outbreak of the Crimean War,” Northern Studies 31 (1996), 37–56**。实际核读前部1810–14政策段及结论。网页抽取未保留每页页码，故上文采用唯一段首+短引定位，不虚报精确单页。https://www.ssns.org.uk/wp-content/uploads/2019/09/Munch-Pedersen_1996_Vol_31_pp_37_56.pdf 。捕获：`downloads/pages/bef69773295d.md`。
+3. **S3 Jens Petter Nielsen, “The Russian-Swedish Union Treaty of 1812 and Norway’s Role” (2012), 40–48**。承重页40–41、47注2–5。条约原文出处仅转引：V. V. Dubin等编，*Rossiya i Shvetsiya. Dokumenty i materialy 1809–1818*（莫斯科，1985），123–131，第5款定位124。https://vestnikgum.ru/upload/iblock/726/bti76lt9l8y2cj3yigyudezg3a7y0k0w/40_48.pdf 。捕获：`downloads/pages/d95cb3adbf11.md`。
+4. **S4 Norgeshistorie, “Danmark-Norges utenrikspolitikk 1797–1807”**，2015发表、2023更新。大学历史公共知识平台，不是原始档案；本次捕获未显示作者，故不补造。https://www.norgeshistorie.no/grunnlov-og-ny-union/1374-danmark-norges-utenrikspolitikk-1797-1807.html 。捕获：`downloads/pages/be739b1529d1.md`。
+5. **S5 Morten Nordhagen Ottosen, “Barkebrødstider 1807–1814,” Norgeshistorie**，2015发表、2024更新。https://www.norgeshistorie.no/grunnlov-og-ny-union/1346-barkebrodstider-1807-1814.html 。捕获：`downloads/pages/3dcc8f5c674b.md`。
+6. **S6 Finn Erhard Johannessen, “Fra gyldne tider til nød og konkurs,” Norgeshistorie**，2015发表、2024更新。https://www.norgeshistorie.no/grunnlov-og-ny-union/1306-fra-gyldne-tider-til-nod-og-konkurs.html 。捕获：`downloads/pages/d0bb605e0940.md`。
+7. **S7 James Davey, *War, Naval Logistics and the British State: Supplying the Baltic Fleet 1808–1812***，University of Greenwich博士论文，2009；摘要页v，导论页4注13、注43–52。https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf 。捕获：`downloads/pages/b92bac3d423e.md`。与C2 `manpower/late_supply_addendum.md`同源。
+8. **S8 A. N. Ryan, “The Defence of British Trade with the Baltic, 1808–1813,” English Historical Review (1959)**，本次实际核读443–448及454–455页的抽取文本；镜像末尾截断，不假称阅读全文。https://www.reenactor.ru/ARH/PDF/Defence.pdf 。捕获：`downloads/pages/e47ab045c32f.md`。镜像OCR页序有错位，上文采用正文可识别的印刷页眉，并结合信件日期定位。
+
+## 七、明确缺口与操作回报
+
+- **条约原件闸未过**：1812年4月条约有专业史家指明条款与文献集页码，Åbo补约仅核读专业论文对其作用的概述。若最终C18要求每个分支有“直接读过同时代文书”，此处仍待补，不能把本札记标成全面验收完成。
+- **Voelcker**：定向检索定位到*Admiral Saumarez Versus Napoleon—The Baltic, 1807–12*，只见出版简介，未取得章节正文，故不作为第9项证据。优先补其瑞典宣战、Carlshamn货物与von Rosen书信章节；不把宣传简介的强因果判断当作研究结论。
+- **Munch-Petersen的1807专著**未核读，本次只读其1996论文；哥本哈根的英国情报与真实法国意图未完成独立验证。
+- **粮运与护航序列缺口**：尚无按月粮食到港、许可量、挪威分区价格/死亡、英国各类舰材库存与消耗序列，不能量化“封锁几个月便降多少战力”。
+- **工具状况**：终端组合命令及直接下载被工作区安全审批阻断；未绕过审批，改用会话网页抽取取得可读文本。因未能下载PDF逐页看图，Munch-Petersen使用段首定位、Davey部分使用注号与本地行号，明确低于影像逐页对校等级。
+- 本文件为支援札记；未调用card_complete，未扩展研究其他北欧时期或对C18主卡作完成声明。

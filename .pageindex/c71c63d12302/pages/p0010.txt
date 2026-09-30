@@ -1,0 +1,37 @@
+
+
+---
+
+## §12（⑪）生态、人口与资源
+
+【锚点】Heckscher的总体判断（印pp.320–321）：与1914–18年的封锁相比，大陆体系对“人民需要的满足”的影响要小得多：纯消费品短缺“was little else than coffee and sugar, and, to some extent, tobacco”；其余短缺是工业原料（棉、染料，并及羊毛、亚麻、大麻、生丝），其后果是**失业而非缺衣少食**。Heckscher的术语是“continuous **dislocation**”而非生活水平持续下降。
+【推演·中高】**这对反事实推演有两个强含义**：（a）大陆体系不会造成饥荒式的政权崩溃，所以它可以长期运行；（b）正因为不致命，它也不会自动产生“忍一忍就能赢”的厉害关系：受损者不会造反，但也不会服从。**它不是一个高张力的危机，而是一个低强度的、无终点的消耗战——而在消耗战中，输的是支付常设执行成本的那一方。**
+【锚点】资源侧的反向例证：俄国对英贸易的结构性依赖——1804年彼得堡**35%的进口与63%的出口**掌在英商手中，**最大的三家（均为英商）单独占首都出口贸易的四分之一以上**（Oddy，转引自Heckscher 印p.318）；Savary 1807年7月报告称英人“took over all the timber from the nobility and thereby provided them with their safest source of income”。1807年11月拿破仑令Caulaincourt提议**法国政府为其船厂购买数百万法郎的桓材与海军物料**——“It is uncertain, however, whether this plan was ever carried out.”（印p.318）
+【推演·中高，接R2卡】这条未执行的采购提议是**S2下最便宜的对俄政策工具**：它同时解决了（i）俄国贵族现金流、（ii）法国船厂材料（接F3卡木材约束）、（iii）大陆体系的政治信誉。R2卡已算出法国要替英国吸纳俄麻需扩市场≈**26倍**（直接）或**3.4倍**（广义大陆市场）——全面替代不可预支，**但定向合同可行**；本卡补上机制侧的理由：定向采购是**唯一不需要执行机器就能产生合作的工具**。
+
+---
+
+## §13（⑫）交流与流动：网络、情报、人员
+
+【锚点】**走私业的情报优势强于国家**：利沃诺商人在1810-10-01（巴黎决定后**一周**）即得知自由港地位将被取消，而官方公告一个月后才发，商人因此有数周时间预先处置（Marzagalli p.69，据利沃诺商会议事录1810-10-01与10-31两次会议）。
+【锚点】**人员流动即贸易路线**：汉堡商人大量现身于阿尔托纳、波罗的海各港与哥德堡；波尔多商人1806–13年申领护照的目的地分布“follow the new trade routes”：1809–10为波罗的海（当时皇家海军护送数百艘美英船入内），1807年12月禁运前与1810至1812年6月为美国（Marzagalli p.69）。
+【锚点】**伪造业的产业化**：Brougham在下院宣读的利物浦商号通函：“we have established ourselves in this town, for the sole purpose of making **simulated papers** ... not only being in possession of the original documents of the ships' papers, and clearances to various ports… **Of any changes that may occur in the different places on the continent, in the various custom house and other offices, which may render a change of signatures necessary, we are careful to have the earliest information**”，附约二十个可伪造港口的清单（Heckscher 印p.213）。
+【锚点】**走私者同时是情报商**：Boucher de Perthes（1811–12年布洛涅海关副监察）定义“smogglers”为“contrabandists of their (the British) nation, **who are attached to our police** and who at the same time carry on a traffic in **prisoners of war and guineas**… besides acting as **spies for both sides**”（Heckscher 印p.192）。
+【推演·中高】**执行机器永远处于信息劣势**：它的对手是一个跨国的、按利润组织的、与它自己的官员和将军有契约关系的信息网络。加大执法强度只会提高该网络的**价格**，不会降低其**覆盖**——这是命题１（边际产出在≈50%处饱和）的微观基础。
+
+---
+
+## §14（⑬）对政策菜单 B1–B8 的反应函数
+
+读法：“决策集合”是这台机器（及其寄生的反向产业）在该政策下物理上可做的事；“最可能选择”带置信；“机制类比”给史实锚点。
+
+| 政策 | 决策集合 | 最可能选择（置信）| 理由与机制类比 |
+|---|---|---|---|
+| **B1 入侵英国** | 全力支持港口封锁／向登陆军输出人力／维持常规缉私 | **机器被派生任务掠夺（中高）**：海关员被抽去做船舶征用与岸勤，走私保费下降10–20pp | Ellis法则（印p.202）：皇帝出征时监管必弛；1809年奥地利战役期即实测 |
+| **B2 对奥普宽严** | 严：索取关税一致／宽：容忍其变通 | **宽则失效、严则逆反（高）**：普鲁士以贬值国债面值缴税、再发完税证放行；奥地利从未整体实施特里亚农 | Heckscher 印pp.225、227；普证明1811年春夏被否 |
+| **B3 提尔西特三版** | 取消普鲁士则莱茵—奥德线全归法系／宽俄则波罗的海不封 | **宽俄版使机器失去北方半壁江山（中高）**；取消普版可把关线东推至奥德，但该线无天然障碍 → 重蹈Rees–Bremen覆辙 | Rowe 印p.195：可守性判据；哥德堡与黑尔戈兰实例 |
+| **B4 伊比利亚三版** | 史实（占领）／保波旁联姻／兼并至埃布罗 | **保波旁版是机器的最优选择（中高）**：不占领则无须守比利牛斯—地中海—大西洋三重线，直布罗陀的漏率由西班牙自己承担 | 1808后西班牙“relatively open”成为主漏口（Marzagalli p.70）；Juhász：西班牙起义使英国获得对法帝国的**陆路直通** |
+| **B5 奥地利肢解／婚姻** | 剥亚得里亚海岸（伊利里亚）／留给奥国 | **剥岸只把执法责任从奥国转到自己头上（中高）**：伊利里亚建省后英国改占Lussin(1809)与Lissa(1812)，“failed, however, to deter British activity in the Adriatic” | Grab 2015 印p.103；F4卡：伊利里亚1812支出1,350万中军海990万、收入长期不敞 |
+| **B6 1810兼并＋封锁加严 vs 许可证自由化** | 两端及中间方案 | **两者不可同时最大化（高）**：加严使关税基消失（1808–09实测），自由化使封锁目的消失（Heckscher印p.198）。机器在两者之间只能选一个相位 | 本卡命题3；1809年工资＞关税净收 |
+| **B7 对俄三版** | 开战／有限战争／接受1810俄关税 | **接受1810关税是机器的最优选择（中高）**：开战同时摧毁（i）执法人力、（ii）受保护产业的东部市场、（iii）南线货路的政治基础 | Ellis法则；1812后南线改经君士坦丁堡—萨洛尼卡（Heckscher印p.233） |
+| **B8 秩序建构（只采当时提过的方案）** | Beugnot／Bacher 的莱茵邦联关税同盟动议；“一次完税后自由流通”原则；Eichhoff 的科隆—美因茨自由港方案 | **机器自身会支持它们（中）**：因为一次性征税降低成本、消除重复征税的内陆走私动机；**阻力不在机器而在巴黎的“la France avant tout”** | Heckscher印pp.295–296（Beugnot/Bacher）与印p.227（消费税化）；Ellis 2015 印p.35 |

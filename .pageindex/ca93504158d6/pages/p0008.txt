@@ -1,0 +1,9 @@
+## Sheet: B3_capacity.csv (continued)
+section,scenario,year,metric,value_low,value_high,unit,source,locator,note
+model,P_high,1825,built_previous_5years,40,40,ships,B3_assumption,model_assumptions.md:paired_endpoints,Scenario endpoint not observation; simultaneous global maxima forbidden
+model,P_high,1825,implied_exit_previous_5years,30,30,ships,B3_assumption,model_assumptions.md:paired_endpoints,Scenario endpoint not observation; simultaneous global maxima forbidden
+model,P_high,1830,sea_line_hulls,155,155,ships,B3_assumption,model_assumptions.md:paired_endpoints,Scenario endpoint not observation; simultaneous global maxima forbidden
+model,P_high,1830,mobilizable_line_within_12months,140,140,ships,B3_assumption,model_assumptions.md:paired_endpoints,Scenario endpoint not observation; simultaneous global maxima forbidden
+model,P_high,1830,commissioned_line,70,70,ships,B3_assumption,model_assumptions.md:paired_endpoints,Scenario endpoint not observation; simultaneous global maxima forbidden
+model,P_high,1830,built_previous_5years,40,40,ships,B3_assumption,model_assumptions.md:paired_endpoints,Scenario endpoint not observation; simultaneous global maxima forbidden
+model,P_high,1830,implied_exit_previous_5years,40,40,ships,B3_assumption,model_assumptions.md:paired_endpoints,Scenario endpoint not observation; simultaneous global maxima forbidden

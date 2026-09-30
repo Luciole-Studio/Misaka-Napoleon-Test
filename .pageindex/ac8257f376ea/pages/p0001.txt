@@ -1,0 +1,45 @@
+# IT1 · 意大利王国（Repubblica Italiana 1802–05 / Regno d'Italia 1805–14）——单位国情与三分支推演
+
+**卡**：t_be9258 ｜ **Sister 10032** ｜ 运行 r_5b1357a9c6 ｜ 交付：单位模板①–⑯全量＋三分支概率＋SOURCES.md
+**三段式标签**：【锚点】=史实/文书（带来源）；【机制】=史实类比或理论机制（带来源与适用条件）；【推演】=情景下的具体演变（标高/中/低置信）。**回溯性材料**（圣赫勒拿层）一律标〔回溯〕。
+**复用上一轮资产**：t_7da32d（`nodes/r_b55f2c1cf5/cards/t_7da32d/c6_italy_germany.md`）已验证的1805/1806/1810宪制文书锚点全部注路径复用；其"未识别"结论不继承。
+
+---
+
+## 0. 结论先行（⑯摘要；详版见§18）
+
+**总判（中高置信）**：意大利王国是拿破仑体系内**汲取效率最高、精英合流最深、但王朝身份最悬置**的藩属单位。它证明了"法典化藩属"（B级整合）可以在十二年内把五个旧邦锻造成一个统一税收-征兵国家（岁入近翻倍、征兵15.5万、行政至终局仍效忠）；同时它的两处断裂——1809年反磨坊税起义与1814年4月20日Prina被私刑——标出了这部机器的两个崩溃点：**农村税负-征兵复合冲击**与**继承时刻的精英协调失败**。法国胜利世界里的意大利终局不取决于"意大利民族主义成熟与否"，而取决于巴黎在三个王朝方案之间的选择及其时点。
+
+**三分支条件概率**（条件：法国在S2/S5意义上赢得战争并维持大陆优势至拿破仑死；F1寿限带：中位死年1826–35，P(活到罗马王18岁即1829-03-20)≈0.50–0.65，路径`coordination_ledger.md`F1条）：
+
+| 分支 | 拿破仑在世期 | 一次继承后（至1848） | 主要通道与断点 |
+|---|---|---|---|
+| C 分治藩属（现状延续：北意王国+那不勒斯+法国并合区） | **0.55–0.65（主线）** | 0.30–0.40 | 全部同期文书指向此态；断点=继承时刻藩属王冠的再分配 |
+| B 罗马王/次子统一王国（北+中意先行，那不勒斯条件性并入） | 0.20–0.30 | **0.35–0.45（继承后上调为主线）** | 通道=1805分冠条款的自动执行+皇子成年；那不勒斯并入需Murat线被移除（+0.10–0.18内含） |
+| A 行省化"第二法国"（王国并入法帝国） | 0.10–0.20 | 0.10–0.15 | 仅在大规模叛乱被镇压后或继承危机中被巴黎接管时出现；与1805承诺及全部并合先例的经济逻辑相悖 |
+
+**改判证据（自列，详版§18）**：E1 若取得1810–13同期文书明示"皇子成年后意大利与那不勒斯合并"→B在位期上调至0.35+；E2 若Du Casse/AN档案证实1813–14拿破仑曾正式许诺欧仁世袭意大利王冠→C的欧仁子分支上调、B下调；E3 若L-V财政档案证明奥治税负≥拿破仑期而未触发1820年代总起义→"税负-叛乱"机制权重下调、A分支上调；E4 若威尼斯船厂1813–14实际产能档案低于F3表→B1反应函数中海军贡献下调；E5 若Q1/Q2面板显示并合省征兵实得显著优于藩属→A的"征兵红利"论据上调。
+
+---
+
+## 1. 单位识别与疆域沿革
+
+【锚点】1802年1月里昂会议（Consulta straordinaria）选波拿巴为意大利共和国总统，Melzi d'Eril任副总统；1805年3月共和国改建为意大利王国，拿破仑自任国王（Grab, *Napoleon and the Transformation of Europe*, 2003, ch.10 p.158，全文`downloads/pages/2ad693d5ac13.md` L3878起；下引"Grab"）。
+【锚点】疆域四轮扩张：初始=伦巴第+诺瓦拉+艾米利亚-罗马涅大部；1806并威尼托与伊斯特里亚（普雷斯堡和约）；1808年5月并马尔凯四省（Urbino/Ancona/Macerata/Camerino，"aiming to close the Adriatic Sea to British shipping"）；1810并特伦蒂诺-南蒂罗尔。**峰值89,600 km²、670万人口，约占半岛三分之一**（Grab p.158）。
+【锚点】达尔马提亚1806–09由王国管辖（文职总监Dandolo），1809年12月转入伊利里亚省（DBI "Dandolo, Vincenzo"搜索快照，见`notes_dbi_biografie_1814.md`§4）。
+【锚点】卫星国三义务："they paid for the upkeep of French troops on their territory, they provided Napoleon with soldiers, and they abided by the Continental Blockade"（Grab pp.158–159）。
+
+## 2. ①决策结构与政治制度
+
+【锚点】行政极权结构：拿破仑+副总统（后副王）对内政有最终决定权；七部长（战争/财政/国库/内政/宗教/司法/外交）对其负责；立法三机构（Consulta、Consiglio legislativo、Corpo legislativo）权力极小，选举团=possidenti/commercianti/dotti三院——"political participation was reserved for the propertied and educated classes"（Grab p.159）。
+【锚点】1805年6月5日欧仁任副王（第三宪制法令）；Melzi改任掌玺大臣（cancelliere guardasigilli），1807-12-20封洛迪公爵（ArchiVista档案志`lombardiarchivi.servizirl.it/creators/2663`；`notes_dbi_biografie_1814.md`§2）。
+【锚点】副王自主权为零的制度证词：1805年7月拿破仑令欧仁——**"Even if Milan is in flames, you must ask for orders to extinguish it; you must let Milan burn and wait for orders."**（Grab p.159）
+【锚点】1805年7月立法团因反对登记税被解散，代之以Council of State，后设Senato consulente；"Neither body posed any challenge to Napoleon"（Grab pp.159–160）。
+【锚点】1811-11-27拿破仑致欧仁（Correspondance générale n°29210）：**"Il n'appartient qu'à moi de décider la politique de mon Royaume d'Italie"**；1811年4–12月卷欧仁收信72封为诸君主之最（napoleon.org CG T11卷首导言，`downloads/pages/04307a1973c7.md`）。
+【锚点】王朝-继承结构（全部复用t_7da32d直核+本卡新增）：
+- 1805-03-17第一宪制法令：art.1拿破仑为意大利王；art.3外军撤出那不勒斯/爱奥尼亚/马耳他后王冠移交合法男嗣（亲生或收养）；art.4自该时起**法意两冠永不集于一人**、继承人须常住意大利（`downloads/pages/523d0f5541c4.md`；意文重排本`downloads/c6_1805_italian_statute.pdf` doc 0c6c074f6973 p.5）。
+- 1806-02-16收养法令：欧仁仅在拿破仑无合法亲生男嗣时继承意大利王冠，且不得觊觎法国王冠（`downloads/pages/f9cd3d2a363a.md`）。
+- 1806-03-30那不勒斯封授：法/意/那不勒斯-西西里诸冠"ne puissent jamais être réunies sur la même tête"（`downloads/pages/649e54bf4408.md`）。
+- **1810年1–3月继承重排文书群（本卡新增直核）**：1810-01-03致Aldini——为欧仁作为"prince italien"设永久apanage（"la branche du prince de Venise"，domaines百万+villa Bonaparte），明言"Par le statut du royaume, je l'ai appelé au trône en cas que je n'aie point d'enfant"（`downloads/pages/df27e5314cf3.md` L413）；1810-02-17元老院法令：罗马并入**法国**（art.1）、罗马为帝国第二城（art.6）、**皇太子称罗马王（art.7）**、皇帝须十年内在罗马圣彼得加冕（art.10）（同文件L2856–2890）；1810-03-01致元老院咨文：**法兰克福大公国身后归欧仁世袭**，"Élevé au grand-duché de Francfort, nos peuples d'Italie ne seront pas pour cela privés de ses soins et de son administration"（同文件L3306–3320）。
+【解释（中高置信）】1810年文书群构成继承格局的同期重排：意大利王冠腾出（预期归亲生子），欧仁被永久安置为"威尼斯亲王支+法兰克福"。这是本卡falsifier（"1810–13文书示皇子成年后合并意/那不勒斯→统一上调"）的**部分成立**：意大利王冠指向皇子有同期文书；**那不勒斯并入无同期文书**，只有〔回溯〕层的"second fils"方案（Correspondance XXX印页549：待第二子出生、赴罗马加冕为意大利王、欧仁摄政——t_7da32d已直核扫描`downloads/c6_correspondance30.pdf` PDF页559，标回溯性）。
+【锚点】政治制度的宪政终点：Senato consulente存续至1814-04-20被米兰暴动解散（Grab p.172；it.wiki"Eugenio di Beauharnais"转引Giuntella DBI，三级来源标注，见`notes_dbi_biografie_1814.md`§3）。

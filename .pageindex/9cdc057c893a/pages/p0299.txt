@@ -1,0 +1,40 @@
+[Total Sent                                                              1699992
+
+
+
+    April 1812 - March 1813
+
+    Month                       No. Men                        No. Rations
+
+  April 1812                    *
+  May 1812                      *
+  June 1812                     *
+  July 1812                     *
+  August 1812                   *
+  September 1812                *
+  October 1812                  9327                           144589
+  November 1812                 9327                           139905
+  December 1812                 9327                           144568
+  January 1813                  1884                           29202
+  February 1813                 1884                           16376
+; ~larch 1813                   1884                           29202
+I
+    Total Needed                                               513822
+
+
+
+    Delivery        Gallons Spirits    Pints of spirits   Gallons wine       Equivalent to x
+                                                                             pints of wine
+
+    Shipment 1       23333             186664             23333              93332
+    Shipment 2       14000             112000             28000              112000
+    Shipment 3       40425             323400             11500              46000
+
+                                       622064                                251332
+
+    Total Sent                                                               873396
+
+
+
+
+                                                                                         288

@@ -1,0 +1,22 @@
+
+
+## ② 法律、司法与行政渗透
+
+【锚·Pitkin 1835，行52820–52830】"The revenues of the United States have been derived, principally, from duties on imports and tonnage, and from the sales of public lands. Internal taxes have occasionally been imposed, but were continued only for short periods. Prior to 1802, internal duties were laid on manufactured snuff, refined sugar, sales at auction, licenses to retail wines and distilled spirits, stamped paper, and on carriages … but these were all repealed in that year. During the late war … duties on most of these articles were renewed … But, soon after the return of peace, all these internal taxes were repealed."
+【机】这是"**只有海关的国家**"：行政渗透集中在海关与土地局两条线；一旦对外贸易停摆，国家同时失去收入与其主要在地行政能力。
+【演·高】禁运执行必然走向**例外化与暴力化**（海岸缉私、陆路走私、州法院对抗），且执行成本随时间上升；任何要求美国长期封闭自己的政策（S3 的镜像）都在 12–18 个月内触及执行崩溃点。
+
+## ③ 财政、货币与金融
+
+【锚·Pitkin 1835，行52975–53035（双栏交错，年份 OCR 有 1607/1611 式误植，值逐字照录）】海关净收入（美元）：1805 12,936,487；1806 14,667,698；1807 15,845,521；**1808 16,363,550**（系对 1807 年进口征得，故禁运年反而最高）；**1809 7,296,020；1810 8,583,309**；1811 13,313,222；1812 8,958,777；其后 1827–1833：19,712,263／23,205,523／22,681,965／21,922,391／24,224,441／28,465,237／29,032,506。
+【锚·Pitkin 行54096】"Interest, on $11,250,000" —— 1803 年路易斯安那购地款中以 6% 公债形式交付的 1,125 万美元。
+【机】关税收入 = f(进口额)，而进口额 = f(出口与转口所得)。**美国财政与英法海上政策之间是直接的一阶导数关系**：1809 年海关收入仅为 1808 年的 44.6%。
+【演·中高】① 美国无法靠自有财政支撑一场需要海军的战争：1812–15 年战费主要靠借款（同期舆论明言"the main costs of war would be met through loans"，Perkins 行17595 附近），而借款依赖的正是波士顿-费城-巴尔的摩的商业资本，即最反战的群体；② S5 下 1827–33 年海关收入达到 2,000–2,900 万美元量级，**是 1810 年的 2.5–3.4 倍**——美国的财政能力要到 1820 年代后期才够买一支可观海军；③ 故"美国自建海军以执行门罗类比"在 1830 年代之前不具备财政基础（改判见⑯ E3）。
+
+## ④ 经济：出口结构、转口与运输
+
+【锚·Pitkin 1835，行2820–2885（双栏"Val. of exp. of dom. origin／Val. of exp. of for. origin"）】
+本国产品出口／外国产品（转口）出口，美元：1803 42,205,961／13,594,073；1804 41,46?,477／36,231,597；1805 42,387,002／53,179,019；1806 41,253,727／**60,283,234**；1807 **48,699,592**／59,643,558；1808 **9,433,546／12,997,414**；1809 31,405,702／20,797,531；1810 42,366,675／24,391,295；1811 45,29?,043／16,022,790；1812 30,032,109／8,495,127；1813 25,008,152／2,847,845；1814 **6,782,272／0,145,169**；1815 45,974,403／6,583,350；1816 64,7?1,896／17,138,555。1807 年总出口 108,343,150（行2792）。
+【锚·Perkins 行1690–1725】"in 1806 the United States exported $20 million worth of her own goods to Britain and only $2.7 million worth to France"；"The reexport trade expanded … from an infinitesimal amount in 1791 to $60 million in 1806. In 1806, 47 million pounds of coffee, more than 146 million pounds of sugar, and nearly 2 million pounds of cotton … were reexported to Europe"；政府以退税（drawbacks）几乎全额返还原进口关税；"This trade permitted goods from French and Spanish colonies in the Caribbean, as well as the Ile de France and Bourbon, to reach the home country. It cast the protection of a neutral flag over supplies Napoleon woefully needed"；"Britain scarcely benefited at all, for less than 5 per cent of all reexported commodities went to England and her colonies."
+【机·两个独立渠道一致】Pitkin（同时代官方统计汇编）与 Perkins（1961 年据英美档案的研究）在 1806 年转口额约 6,000 万、1807 年本国出口近 4,900 万上互证。
+【演·高】**美国转口贸易是大陆体系最大的单一漏斗，也是法国殖民地经济唯一的现实出口通道**；其规模（5,300–6,000 万美元／年）与法国全部并合地 1812 年预期毛收入（3.42 亿法郎 ≈ 6,400 万美元量级，按 5.3 法郎/美元粗折，F4 卡 Marion p.321）同阶。对法国而言，**允许这条通道运转所带来的殖民地产品变现，远大于把它关掉所能给英国造成的伤害**。

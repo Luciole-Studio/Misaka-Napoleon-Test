@@ -1,0 +1,79 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: F3_capacity.csv
+
+```meta
+▸ table "F3_capacity.csv" (156 data rows)
+▸ columns
+    record_type: str, 1 uniq: ['model_not_observation']
+    scenario: str, 2 uniq: ['P', 'W']
+    bound: str, 3 uniq: ['base', 'high', 'low']
+    year: num, min=1810, max=1835
+    hulls: num, min=50, max=172.045
+    launches: num, min=0, max=12
+    natural_retirement: num, min=0, max=6.13685
+    war_loss: num, min=0, max=1.5
+    hull_exit_rate: num, min=0.015, max=0.06
+    personnel_total_1000: num, min=60, max=163.174
+    qualified_personnel_1000: num, min=35, max=122.478
+    nonline_personnel_reserved_1000: num, min=25, max=40
+    nonline_qualified_reserved_1000: num, min=15, max=23
+    ready_fraction: num, min=0.7, max=0.9
+    mobilizable_continuous: num, min=35, max=153.967
+    mobilizable_integer: num, min=35, max=153
+    binding: str, 2 uniq: ['hull_readiness', 'personnel']
+    commissioned_model_I: num, min=20, max=124
+    reserve_ready_within_12m: num, min=3, max=54
+    hulls_not_mobilizable_within12m: num, min=8, max=34.5703
+    hull_physical_readiness_ceiling: num, min=35, max=154.84
+    displacement_hulls_t: num, min=160000, max=653770
+    displacement_mobilizable_t: num, min=112000, max=581400
+    fleet_training_factor_assumed: num, min=0.55, max=1
+    trained_ship_equivalents_diagnostic: num, min=19.25, max=153
+    sea_training_days_assumed: num, min=30, max=150
+    evidence_ids: str, 1 uniq: ['S01;S04;S05;S06;S07;S08;S11']
+    assumptions: str, 1 uniq: ['F3_model_parameters.json']
+```
+record_type,scenario,bound,year,hulls,launches,natural_retirement,war_loss,hull_exit_rate,personnel_total_1000,qualified_personnel_1000,nonline_personnel_reserved_1000,nonline_qualified_reserved_1000,ready_fraction,mobilizable_continuous,mobilizable_integer,binding,commissioned_model_I,reserve_ready_within_12m,hulls_not_mobilizable_within12m,hull_physical_readiness_ceiling,displacement_hulls_t,displacement_mobilizable_t,fleet_training_factor_assumed,trained_ship_equivalents_diagnostic,sea_training_days_assumed,evidence_ids,assumptions
+model_not_observation,W,low,1810,50,0,0,0,0.035,60,35,25,15,0.7,35.0,35,hull_readiness,28,7,15,35.0,160000,112000,0.55,19.25,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1811,54.75,8,1.75,1.5,0.035,62.0,36.55,25,15,0.7,38.325,38,hull_readiness,30,8,16.75,38.325,175200.0,121600,0.55,20.9,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1812,59.33375,8,1.91625,1.5,0.035,63.8,37.9915,25,15,0.7,41.533625,41,hull_readiness,32,9,18.33375,41.533625,189868.0,131200,0.55,22.55,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1813,63.757069,8,2.076681,1.5,0.035,65.42,39.332095,25,15,0.7,44.629948,44,hull_readiness,35,9,19.757069,44.629948,204022.62,140800,0.55,24.2,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1814,68.025571,8,2.231497,1.5,0.035,66.878,40.578848,25,15,0.7,47.6179,47,hull_readiness,37,10,21.025571,47.6179,217681.83,150400,0.55,25.85,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1815,72.144676,8,2.380895,1.5,0.035,68.1902,41.738329,25,15,0.7,50.501273,50,hull_readiness,40,10,22.144676,50.501273,230862.96,160000,0.55,27.5,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1816,73.315996,7,4.328681,1.5,0.06,69.37118,42.816646,25,15,0.7,51.321197,51,hull_readiness,40,11,22.315996,51.321197,234611.19,163200,0.556667,28.39,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1817,74.417036,7,4.39896,1.5,0.06,70.434062,43.819481,25,15,0.7,52.091925,52,hull_readiness,41,11,22.417036,52.091925,238134.52,166400,0.563333,29.2933,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1818,75.452014,7,4.465022,1.5,0.06,71.390656,44.752117,25,15,0.7,52.81641,52,hull_readiness,41,11,23.452014,52.81641,241446.44,166400,0.57,29.64,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1819,76.424893,7,4.527121,1.5,0.06,72.25159,45.619469,25,15,0.7,53.497425,53,hull_readiness,42,11,23.424893,53.497425,244559.66,169600,0.576667,30.5633,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1820,77.339399,7,4.585494,1.5,0.06,73.026431,46.426106,25,15,0.7,54.13758,54,hull_readiness,43,11,23.339399,54.13758,247486.08,172800,0.583333,31.5,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1821,77.199035,6,4.640364,1.5,0.06,73.723788,47.176279,25,15,0.7,54.039325,54,hull_readiness,43,11,23.199035,54.039325,247036.91,172800,0.59,31.86,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1822,77.067093,6,4.631942,1.5,0.06,74.351409,47.873939,25,15,0.7,53.946965,53,hull_readiness,42,11,24.067093,53.946965,246614.7,169600,0.596667,31.6233,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1823,76.943068,6,4.624026,1.5,0.06,74.916268,48.522763,25,15,0.7,53.860147,53,hull_readiness,42,11,23.943068,53.860147,246217.82,169600,0.603333,31.9767,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1824,76.826484,6,4.616584,1.5,0.06,75.424642,49.12617,25,15,0.7,53.778539,53,hull_readiness,42,11,23.826484,53.778539,245844.75,169600,0.61,32.33,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1825,76.716895,6,4.609589,1.5,0.06,75.882177,49.687338,25,15,0.7,53.701826,53,hull_readiness,42,11,23.716895,53.701826,245494.06,169600,0.616667,32.6833,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1826,76.613881,6,4.603014,1.5,0.06,76.29396,50.209224,25,15,0.7,53.629717,53,hull_readiness,42,11,23.613881,53.629717,245164.42,169600,0.623333,33.0367,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1827,76.517048,6,4.596833,1.5,0.06,76.664564,50.694579,25,15,0.7,53.561934,53,hull_readiness,42,11,23.517048,53.561934,244854.55,169600,0.63,33.39,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1828,76.426025,6,4.591023,1.5,0.06,76.998107,51.145958,25,15,0.7,53.498218,53,hull_readiness,42,11,23.426025,53.498218,244563.28,169600,0.636667,33.7433,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1829,76.340464,6,4.585562,1.5,0.06,77.298297,51.565741,25,15,0.7,53.438325,53,hull_readiness,42,11,23.340464,53.438325,244289.48,169600,0.643333,34.0967,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1830,76.260036,6,4.580428,1.5,0.06,77.568467,51.956139,25,15,0.7,53.382025,53,hull_readiness,42,11,23.260036,53.382025,244032.11,169600,0.65,34.45,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1831,76.184434,6,4.575602,1.5,0.06,77.81162,52.319209,25,15,0.7,53.329104,53,hull_readiness,42,11,23.184434,53.329104,243790.19,169600,0.65,34.45,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1832,76.113368,6,4.571066,1.5,0.06,78.030458,52.656865,25,15,0.7,53.279357,53,hull_readiness,42,11,23.113368,53.279357,243562.78,169600,0.65,34.45,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1833,76.046566,6,4.566802,1.5,0.06,78.227412,52.970884,25,15,0.7,53.232596,53,hull_readiness,42,11,23.046566,53.232596,243349.01,169600,0.65,34.45,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1834,75.983772,6,4.562794,1.5,0.06,78.404671,53.262922,25,15,0.7,53.18864,53,hull_readiness,42,11,22.983772,53.18864,243148.07,169600,0.65,34.45,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,low,1835,75.924745,6,4.559026,1.5,0.06,78.564204,53.534518,25,15,0.7,53.147322,53,hull_readiness,42,11,22.924745,53.147322,242959.19,169600,0.65,34.45,30,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,base,1810,50,0,0,0,0.025,65,40,30,17.5,0.775,38.75,38,hull_readiness,33,5,12,38.75,175000,133000,0.65,24.7,55,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,base,1811,57.75,10,1.25,1,0.025,69.15,42.1,30,17.5,0.775,44.75625,44,hull_readiness,38,6,13.75,44.75625,202125.0,154000,0.65,28.6,55,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,base,1812,65.30625,10,1.44375,1,0.025,72.9265,44.074,30,17.5,0.775,50.612344,50,hull_readiness,43,7,15.30625,50.612344,228571.88,175000,0.65,32.5,55,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,base,1813,72.673594,10,1.632656,1,0.025,76.363115,45.92956,30,17.5,0.775,56.322035,56,hull_readiness,49,7,16.673594,56.322035,254357.58,196000,0.65,36.4,55,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,base,1814,79.856754,10,1.81684,1,0.025,79.490435,47.673786,30,17.5,0.775,61.863043,61,personnel,53,8,18.856754,61.888984,279498.64,213500,0.65,39.65,55,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,base,1815,86.860335,10,1.996419,1,0.025,82.336296,49.313359,30,17.5,0.775,65.420369,65,personnel,56,9,21.860335,67.31676,304011.17,227500,0.65,42.25,55,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,base,1816,90.017318,8.5,4.343017,1,0.05,84.926029,50.854558,30,17.5,0.775,68.657536,68,personnel,59,9,22.017318,69.763422,315060.61,238000,0.656667,44.6533,55,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,base,1817,93.016452,8.5,4.500866,1,0.05,87.282686,52.303284,30,17.5,0.775,71.603358,71,personnel,62,9,22.016452,72.087751,325557.58,248500,0.663333,47.0967,55,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,base,1818,95.86563,8.5,4.650823,1,0.05,89.427245,53.665087,30,17.5,0.775,74.284056,74,personnel,64,10,21.86563,74.295863,335529.7,259000,0.67,49.58,55,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,base,1819,98.572348,8.5,4.793281,1,0.05,91.378793,54.945182,30,17.5,0.775,76.39357,76,hull_readiness,66,10,22.572348,76.39357,345003.22,266000,0.676667,51.4267,55,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,base,1820,101.143731,8.5,4.928617,1,0.05,93.154701,56.148471,30,17.5,0.775,78.386391,78,hull_readiness,68,10,23.143731,78.386391,354003.06,273000,0.683333,53.3,55,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,base,1821,102.086544,7,5.057187,1,0.05,94.770778,57.279563,30,17.5,0.775,79.117072,79,hull_readiness,69,10,23.086544,79.117072,357302.91,276500,0.69,54.51,55,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,base,1822,102.982217,7,5.104327,1,0.05,96.241408,58.342789,30,17.5,0.775,79.811218,79,hull_readiness,69,10,23.982217,79.811218,360437.76,276500,0.696667,55.0367,55,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,base,1823,103.833106,7,5.149111,1,0.05,97.579681,59.342222,30,17.5,0.775,80.470657,80,hull_readiness,70,10,23.833106,80.470657,363415.87,280000,0.703333,56.2667,55,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,base,1824,104.641451,7,5.191655,1,0.05,98.79751,60.281688,30,17.5,0.775,81.097124,81,hull_readiness,70,11,23.641451,81.097124,366245.08,283500,0.71,57.51,55,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json
+model_not_observation,W,base,1825,105.409378,7,5.232073,1,0.05,99.905734,61.164787,30,17.5,0.775,81.692268,81,hull_readiness,70,11,24.409378,81.692268,368932.82,283500,0.716667,58.05,55,S01;S04;S05;S06;S07;S08;S11,F3_model_parameters.json

@@ -1,0 +1,45 @@
+260                                 Klemens Kaps
+
+
+      tures. Complete accounts have only been published for Bohemia in
+      1720 and 1723 (Pribram 1898) and Hungary for the second half of the
+      eighteenth century (Wellmann 1984, using already published sources).
+      In turn, Otruba’s compilation of foreign trade statistics for the whole
+      Monarchy, covering the period 1790–1839, gives the values of trade for
+      the 21 groups of commodities recorded by the Habsburg administra-
+      tion, aggregate values by single provinces and, from 1820 on, for single
+      external trading partners. The statistics of the Customs Union between
+      1776 and 1789 have not been published at all and they have not been
+      digitized either. For single years, I have collected data for the Customs
+      Union (1783, 1784), Galicia (1783, 1787), and the whole Monarchy
+      (1791, 1800, 1807) in Excel files. However, for an in-depth analysis
+      original accounts still have to be accessed in order to recompile data.
+      The scattered character of the statistics before 1775 and 1790 respec-
+      tively means that this task implies accessing a broad range of sources in
+      different archives. For regional statistics, this means making use not
+      only of the Financial and Court Chamber Archive (Finanz- und
+      Hofkammerarchiv, FHKA) section within the Austrian State Archives
+      (Österreichisches Staatsarchiv, ÖStA) in Vienna, for accessing the
+      statistics for Bohemia. A range of regional archives such as the archives
+      of the Austrian provinces (Landesarchive) have to be accessed in order
+      to collect complementary information. For Bohemia, Czech archives
+      will have to be accessed, while the data for Trieste are stored in the
+      Trieste State Archive (Archivio di Stato di Trieste, ASTr) for the years
+      1752–1770 and the Austrian State Archive, where the much used
+      source for 1760–65 is stored, published in particular by Erceg (1970).
+
+          In turn, for the years after 1775 sources are mainly stored in the
+      Finance and Court Chamber section of the Austrian State Archives, in
+      particular the series from 1790 is accessible in a homogeneous collec-
+      tion of sources, albeit with gaps for some years. The Hungarian
+      statistics are stored in the Austrian State Archives in Vienna. The
+      accounts from 1831 have been published in print and are accessible in
+      the Library of Austria’s Central Office of Statistics, currently named
+      Statistik Austria.
+
+
+      8. Research questions
+         So far studies have used either aggregate data or numbers of single
+      commodities to investigate the structural dimensions of the Habsburg
+      Monarchy’s trade. Thus, most research has been dedicated to grouping
+      the traded items in order to construct a structural balance of imports

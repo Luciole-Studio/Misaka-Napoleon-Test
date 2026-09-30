@@ -1,0 +1,38 @@
+
+
+What we call the past was once the future; and the people of the past no more knew what their future would be than we can know our own. All they could do was consider the likely future, the plausible outcome. . . . Now, if all history is the history of (recorded) thought, surely we must attach equal significance to all
+
+the outcomes thought about. The historian who allows his knowledge as to which of these outcomes subsequently happened to obliteratre the other outcomes people regarded as plausible cannot hope to recapture the past ‘as it actually was’. . .
+
+Thus, to the best of their abilities, Ferguson et al. are not just telling stories; they are going through the documents and considering the possible other courses of action that had been considered during the historical events being considered. In addition to being cool, this is a rediscovery and extension of statistical ideas of causal inference to a new field of inquiry.
+
+I don’t know how much this aspect of Virtual History has been followed up since the book’s publication. My impression is that these are treated as purely speculative games (as in the What If? book) without a sense of the constraints of considering options that were considered at the time.
+
+P.S. I looked up Niall Ferguson on the web and he seems to simultaneously be a professor at NYU and Harvard, a senior fellow” at the Hooover Institution (Stanford), and a visiting professor at Oxford. Perhaps he is living some virtual history himself with these 4 jobs!
+
+P.P.S. [More here](https://statmodeling.stat.columbia.edu/2005/04/07/more_on_potenti/): a discussion with Don Rubin about the relation of the idea of “virtual history” to causal inference in statistics.
+
+This entry was posted in [Causal Inference](https://statmodeling.stat.columbia.edu/category/causal-inference/) by [Andrew](https://statmodeling.stat.columbia.edu/author/andrew/). Bookmark the [permalink](https://statmodeling.stat.columbia.edu/2005/03/28/potential_outco/).
+
+- [Art](https://statmodeling.stat.columbia.edu/category/art/)
+- [Artificial Intelligence](https://statmodeling.stat.columbia.edu/category/ai/)
+- [Bayesian Statistics](https://statmodeling.stat.columbia.edu/category/bayesian-statistics/)
+- [Causal Inference](https://statmodeling.stat.columbia.edu/category/causal-inference/)
+- [Decision Analysis](https://statmodeling.stat.columbia.edu/category/decision-theory/)
+- [Economics](https://statmodeling.stat.columbia.edu/category/economics/)
+- [Jobs](https://statmodeling.stat.columbia.edu/category/jobs/)
+- [Literature](https://statmodeling.stat.columbia.edu/category/literature/)
+- [Miscellaneous Science](https://statmodeling.stat.columbia.edu/category/miscellaneous-science/)
+- [Miscellaneous Statistics](https://statmodeling.stat.columbia.edu/category/miscellaneous-statistics/)
+- [Multilevel Modeling](https://statmodeling.stat.columbia.edu/category/multilevel-modeling/)
+- [Obituaries](https://statmodeling.stat.columbia.edu/category/obituaries/)
+- [Papers](https://statmodeling.stat.columbia.edu/category/papers/)
+- [Political Science](https://statmodeling.stat.columbia.edu/category/political-science/)
+- [Public Health](https://statmodeling.stat.columbia.edu/category/public-health/)
+- [Sociology](https://statmodeling.stat.columbia.edu/category/sociology/)
+- [Sports](https://statmodeling.stat.columbia.edu/category/sports/)
+- [Stan](https://statmodeling.stat.columbia.edu/category/stan/)
+- [Statistical Computing](https://statmodeling.stat.columbia.edu/category/statistical-computing/)
+- [Statistical Graphics](https://statmodeling.stat.columbia.edu/category/statistical-graphics/)
+- [Teaching](https://statmodeling.stat.columbia.edu/category/teaching/)
+- [Zombies](https://statmodeling.stat.columbia.edu/category/zombies/)

@@ -1,0 +1,46 @@
+1080                              Rouanet and Piano
+
+   Figure 5 plots the cantons’ terrain ruggedness and draft dodging/deser-
+tion rates before and after a draftee has left the Haute-Vienne department.
+Table 2 reports the results once we replicate our econometric tests using
+canton-level data from the Haute-Vienne department.42 These results give
+further credence to the validity of our previous findings.
+   As shown in Columns (1) through (4), a canton’s average terrain
+ruggedness is positively correlated with higher draft dodging rates. This
+relationship is statistically significant whenever our specifications include
+canton-specific controls. Also consistent with our hypothesis, the results
+in Columns (5) to (8) show that a canton’s terrain ruggedness does not
+predict desertion away from home. The coefficients on Ruggedness are
+always statistically indistinguishable from zero, and their magnitude and
+sign are inconsistent across specifications.43
+
+                               NAPOLÉON’S RESPONSE
+
+Discriminatory Conscription Enforcement
+
+   The Napoleonic regime’s response to these circumstances was twofold.
+In the short run, hard-pressed by the immediate need for soldiers, it adopted
+a strategy of “discriminatory conscription enforcement.” Theoretically,
+the burden of military conscription was to be proportional to a depart-
+ment’s population. However, “as the government became more and more
+desperate in its quest for able-bodied men for the battalions, it showed
+less concern for equity and geographical spread” (Forrest 1989, p. 40).
+In Eventually, some departments came to bear a much larger share of the
+burden, relative to their population, than others (Woolf 2002, p. 160). For
+example, in 1808, when the country drafted close to one percent of its
+population, departments like Yonne, only one hundred miles from Paris,
+were supplying twice as many soldiers per capita than other departments
+like the Rhône in Eastern France and the Hautes-Pyrénées in the south.
+   These short-run efforts were accompanied by a long-term strategy
+aimed at reducing draft evasion rates throughout the country and occu-
+pied territories. In pursuit of this goal, the Napoleonic regime introduced
+a series of reforms to the administration of military conscription. Over the
+  42
+     Since there are no extreme values of ruggedness in Haute-Vienne, we preferred using
+ruggedness instead of the log of ruggedness as our independent variable. Using the log of
+ruggedness changes neither the sign nor the significance of our results, except for the first
+specification in Table 2, where the log of ruggedness is statistically insignificant.
+  43
+     Since these results rely on a small number of observations, we performed a sensitivity
+analysis using a “leave one observation out” routine for the specification in Table 2, Column (3).
+All coefficients produced with this method are positive and significant at the 1 percent threshold.

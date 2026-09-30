@@ -1,0 +1,149 @@
+
+
+EMBED <iframe src="https://archive.org/embed/correspondancede30napouoft" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+EMBED (for Archive.org item Description fields) [archiveorg correspondancede30napouoft width=560 height=384 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true]
+
+Want more?
+[Advanced embedding details, examples, and help](https://archive.org/help/audio.php?identifier=correspondancede30napouoft)!
+
+Favorite
+
+Share
+
+Flag
+
+# Flag this item for
+
+- [Graphic Violence](https://archive.org/login?referer=https%3A%2F%2Farchive.org%2Fdetails%2Fcorrespondancede30napouoft)
+- [Explicit Sexual Content](https://archive.org/login?referer=https%3A%2F%2Farchive.org%2Fdetails%2Fcorrespondancede30napouoft)
+- [Hate Speech](https://archive.org/login?referer=https%3A%2F%2Farchive.org%2Fdetails%2Fcorrespondancede30napouoft)
+- [Misinformation/Disinformation](https://archive.org/login?referer=https%3A%2F%2Farchive.org%2Fdetails%2Fcorrespondancede30napouoft)
+- [Marketing/Phishing/Advertising](https://archive.org/login?referer=https%3A%2F%2Farchive.org%2Fdetails%2Fcorrespondancede30napouoft)
+- [Misleading/Inaccurate/Missing Metadata](https://archive.org/login?referer=https%3A%2F%2Farchive.org%2Fdetails%2Fcorrespondancede30napouoft)
+
+texts
+
+# Correspondance de Napoléon Ier; publiée par ordre de l'empereur Napoléon III
+
+by
+
+[Napoleon I, Emperor of the French, 1769-1821](https://archive.org/search.php?query=creator%3A%22Napoleon+I%2C+Emperor+of+the+French%2C+1769-1821%22)
+
+Publication date
+
+[1858-70](https://archive.org/search.php?query=date:1858-70)
+
+Publisher
+
+Paris H. Plon, J. Dumaine
+
+Collection
+
+[robarts](https://archive.org/details/robarts); [toronto](https://archive.org/details/toronto); [university_of_toronto](https://archive.org/details/university_of_toronto)
+
+Contributor
+
+[Robarts - University of Toronto](https://archive.org/details/university_of_toronto)
+
+Language
+
+[French](https://archive.org/search.php?query=%28language%3Afre+OR+language%3A%22French%22%29)
+
+Volume
+
+30
+
+Item Size
+
+1.1G
+
+26
+
+Addeddate
+
+2008-06-12 18:47:30
+
+Call number
+
+AGH-6121
+
+Camera
+
+1Ds
+
+Copyright-evidence
+
+Evidence reported by andrea@archive.org for item correspondancede30napouoft on June 12, 2008: no visible notice of copyright; stated date is 1870.
+
+Copyright-evidence-date
+
+20080612184724
+
+Copyright-evidence-operator
+
+andrea@archive.org
+
+Copyright-region
+
+US
+
+Curatestate
+
+approved
+
+External-identifier
+
+[urn:oclc:record:1042389347](https://archive.org/search.php?query=external-identifier%3A%22urn%3Aoclc%3Arecord%3A1042389347%22)
+
+Foldoutcount
+
+0
+
+Identifier
+
+correspondancede30napouoft
+
+Identifier-ark
+
+ark:/13960/t00007z83
+
+Lcamid
+
+330835
+
+Ocr_converted
+
+abbyy-to-hocr 1.1.11
+
+Ocr_module_version
+
+0.0.14
+
+Page_number_confidence
+
+99
+
+Page_number_module_version
+
+1.0.5
+
+Pages
+
+596
+
+Pdf_degraded
+
+invalid-jp2-headers
+
+Pdf_module_version
+
+0.0.25
+
+Possible copyright status
+
+NOT_IN_COPYRIGHT
+
+Ppi
+
+500

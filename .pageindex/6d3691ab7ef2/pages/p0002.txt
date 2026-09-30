@@ -1,0 +1,85 @@
+
+
+**文献层级**：事件为后出叙事；动机与密令为James推测。本次不将附近1805年拿破仑论Jérôme晋升的信，挪作1806年保护命令的证据。
+
+### 4. 1806风暴打散双方；法国受损严重，但也保有修复与战斗能力
+
+**定位**：pp.114–117；材料F。
+
+> “a gale or hurricane overtook the squadron, scattering the ships in every direction” — p.114
+>
+> “the Caesar and the other ships of their squadron, which had been separated by the gale” — p.116
+
+【事实｜据James】8月18日夜，法国分舰队被风暴打散且各舰受损。附近Strachan英国分舰队同样遭风暴并失散。因此“失散”本身不是法国专属质量指标。
+
+【事实｜据James】Foudroyant以替代舵和临时桅航向哈瓦那，9月15日与Anson交火，后者退出；Foudroyant维修后返布雷斯特，Cassard也返罗什福尔。其他舰受损、被毁或滞留美洲，不能因两舰返航而抹掉损耗。
+
+**支持**：【裁量｜中高】这是“灾害—失散—修复/中立港/再封锁—损失”的复合机制，不是单一战术质量试验。
+
+**反证/限度**：不能反过来证明两国抗风暴技能相同：未核对各舰风场暴露、索具状态、装载、操作和受损分布。Foudroyant为80炮舰，Anson为44炮舰（pp.114–115），也不能据此计算法国单舰优越系数。
+
+**文献层级**：James叙事，含其对英方Brenton夸大战果的批评；未独立读取两舰日志。
+
+### 5. 1809曾成功出港，会合失败有潮汐条件；4月指挥者已非Willaumez
+
+**定位**：pp.390–393、400；材料G、H。
+
+> “having driven Admiral Lord Gambier from his station off Ushant, afforded that opportunity” — p.390
+>
+> “owing to the state of the tide, had not a sufficient depth of water” — p.393
+
+【事实｜据James】封锁舰因西风风暴离站，Willaumez于**2月21日**率舰出布雷斯特。Lorient的Troude分队未能按时加入，James明确记载潮位不足；不是已经证实的“不敢出港”。
+
+【事实｜同时代公开文书转引】p.391的命令叙述以“So far the Moniteur”收束：命令已考虑潮水不适合会合时，主力直接前往Basque roads的分支。**转引自James；未见Moniteur原期，未核定刊期和全文。**
+
+【事实｜据James】Willaumez于3月16日降旗，Allemand于17日接任（p.400）。4月11日火船攻击不可无区分地记成“Willaumez临战指挥失败”。
+
+**支持**：封锁有间隙；多港协同有物理时间窗和条件命令。
+
+**反证/限度**：事实上的出港不等于完成战略任务；James亦叙述内部对未攻击Beresford小舰队的批评和召回。潮水解释只能用于相应会合环节，不能替全部决策免责。
+
+### 6. 巴斯克锚地并非毫无准备：防御计划与实际执行必须分开
+
+**定位**：pp.401–405；材料H。
+
+> “Some very excellent regulations were drawn up for the guidance of these boats” — p.402
+>
+> “owing to the strength of the wind and tide, were obliged to put back.” — p.405
+
+【事实｜据James】Allemand调整锚泊队形、设置拦阻索；73艘舰载艇编为五队，计划登上或拖走火船。James称看过落入英方手中的规章抄本，并评价其“very excellent”。但当晚到拦阻索执行任务的相关艇队多数受风潮所迫折返。
+
+**支持**：【文献推断｜据James】失败可包含“方案存在但天气使执行失效”；英方火船原拟四艘相联的办法也因风过强不能实行（p.404）。
+
+**反证/限度**：规章优良是James的评价，不是训练效果的测量；艇队未完成任务仍属实际防御失效，但无法在天气、训练和指挥之间定量分摊。
+
+**文献层级**：规章存在是James自述所见抄本，**不是本次实际取得的同时代文书全文**；实际艇队退回为其叙事。
+
+### 7. Océan军官来信：碰撞、避火、搁浅相连，且有积极损管
+
+**定位**：pp.407–408；材料I。
+
+> “This movement of the Regulus obliged us to cut our north-west cable.” — p.407
+>
+> “Our engines played upon and completely wetted the poop” — p.407
+
+【事实｜同时代舰员信件英译转引】一名Océan军官描述邻舰运动迫使本舰断缆、随后避火并搁浅；又描述以水泵湿润艉部、用撑杆与割断抓钩系索等办法抵抗火船，期间Tonnerre和Patriote撞来。
+
+**支持**：【文献推断｜据该信】局部相互干扰和地理约束可以迅速传递为舰队层面的失序；积极灭火与抢救又反驳“全员一遇危险即停止有效行动”的绝对命题。
+
+**反证/限度**：这是一艘旗舰上一名身份未注明军官的视角，可有自我辩护；不能代表全舰队。其“至少50人”溺死是信中估计，不当作核实伤亡统计。
+
+**文献层级**：James明言从“translated copies of several intercepted letters”摘录。**转引自James，原法文、军官姓名、原信日期、档号未核；不是本次直接读到的截获信原件。**
+
+### 8. 英方也有装备、导航和指挥争议；James及编者并非同一声音
+
+**定位**：pp.423–427；材料J。
+
+> “the admiral should have been more vigorous and decisive” — James，p.424
+>
+> “the court is of opinion that the charge has not been proved” — 判决转引，p.426
+
+【文献推断｜James】小型浅吃水舰艇及远射火力不足、舰只配置不当、海图/航道信息问题和Gambier未及时推进，限制了英方扩大战果。他批评英方，而非单向宣扬英国舰队永远协调无误。
+
+【事实｜审判文本转引】James转引审判指控及最终无罪判决，但公开质疑审判偏向被告；**指控不是已证事实，判决也不能替代对具体战术机会的复核**。
+
+【事实｜版本内意见分歧】p.423署“Ed.”的编者注直接批评James以陆上人的眼光主张白昼火船攻击，提出白昼法舰反可看清航标并安全撤离的反论。此为**后出解释之间的争论**，不是实际发生的另一场试验。

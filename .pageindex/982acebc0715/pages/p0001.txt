@@ -1,0 +1,52 @@
+---
+source_url: "https://www.force-publique.net/sources/Livres/Manuel/Manuel-04.html"
+final_url: "https://www.force-publique.net/sources/Livres/Manuel/Manuel-04.html"
+sha256: "59b4a0ff287625c19d22f3e3ea7c7a87e77ab885baec40536a660527491f4333"
+text_sha256: "1277554b5bae8eaec6172d2183812865a0609c54b02ea025f0e5fb1003546f1b"
+title: "Manuel-04"
+---
+
+Title: Manuel-04
+
+- [Sommaire](https://www.force-publique.net/sources/Livres/Manuel/Manuel-15.html)
+
+DEUXIÈME PARTIE
+
+DE LA RÉVOLUTION AU SECOND EMPIRE
+
+CHAPITRE I
+
+LA RÉVOLUTION ET L’EMPIRE
+
+À partir de la Révolution de 1789, la France connaît une période de troubles et de bouleversements qui transforment en profondeur les institutions et la société françaises. Alors que le maintien de l’ordre intérieur se révèle plus que jamais indispensable, le sort de la nouvelle Gendarmerie nationale apparaît comme un enjeu essentiel, d’autant que la guerre bientôt menée par la France contre de nombreux États d’Europe va conduire les gouvernements successifs à utiliser l’institution dans la défense du pays aux frontières. De cette crise, la gendarmerie sortira finalement glorieuse à la faveur du règne de Napoléon.
+
+14 juillet 1789 : prise de la Bastille.
+
+10 août 1792 : chute de la monarchie.
+
+28 juillet 1794 : exécution de Robespierre.
+
+9 novembre 1799 : coup d’État de Napoléon Bonaparte.
+
+2 août 1802 : Napoléon Bonaparte, consul à vie.
+
+2 décembre 1804 : sacre de Napoléon Ier.
+
+6 avril 1814 : première abdication de Napoléon.
+
+18 juin 1815 : défaite de Waterloo.
+
+22 juin 1815 : seconde abdication de Napoléon.
+
+A – La Révolution (1789-1799)
+
+1 – La loi du 16 février 1791
+
+Loi du 16 février 1791.
+
+Si la loi du 16 février 1791 crée une nouvelle institution, elle ne modifie pas sensiblement les missions déjà existantes, ni l’organisation adoptée dès la fin de l’année 1789. Les effectifs sont portés à 7 450 hommes, y compris l’ancienne compagnie de robe courte, dont les personnels sont autorisés à rejoindre directement la Gendarmerie nationale et vont former la compagnie de gendarmerie près des tribunaux. Le corps est organisé en divisions, regroupant chacune trois départements. Chaque département comprend deux compagnies, comportant elles-mêmes de douze à dix-huit brigades. Une des nouveautés est l’extension à l’ensemble du pays des brigades à pied comme il en existait dans la banlieue de Paris depuis les années 1780.
+
+Titre premier de la loi du 16 février 1791.
+
+Les conditions de recrutement et d’avancement des personnels ne sont pas modifiées. En revanche, l’article II du titre III intégrant la gendarmerie dans l’armée, les personnels prennent désormais des grades militaires : les divisions sont commandées par des colonels, les départements par des lieutenants-colonels et les compagnies par un capitaine et trois lieutenants. L’uniforme est conservé, les seules modifications concernant le port de la cocarde tricolore au chapeau, la suppression de l’aiguillette et l’ajout sur les boutons de l’inscription Force à la loi.
+

@@ -1,0 +1,63 @@
+   The notion that the introduction of the potato dramatically increased agricultural productivity,
+
+which resulted in increased population growth, has long been recognized by historians (e.g.,
+
+Langer, 1963, McNeill, 1948, 1999, Salaman, 1949). William Langer (1963, p. 14) argues that in
+
+Europe “the spread of the potato culture everywhere corresponded with the rapid increase of
+
+population”. Historians have, in fact, attributed even greater significance to the potato. McNeill
+
+(1999, p. 67), in an article title “How the Potato Changed World History”, argues that “potatoes,
+
+by feeding rapidly growing populations, permitted a handful of European nations to assert domi-
+
+nation over most of the world between 1750 and 1950”.
+
+   Our study contributes to the historical literature by providing empirical estimates of the effect
+
+of the potato on population and urbanization. Only one previous paper has empirically examined
+
+the effect of the introduction of the potato. This is the study by Joel Mokyr (1981), which estimates
+
+the relationship between potato cultivation and population growth across Irish counties in 1845.
+
+To address problems arising from the endogeneity of potato adoption, Mokyr estimates a system
+
+of two equations using 2SLS. He finds that potato cultivation resulted in a statistically significant
+
+increase in population growth. He also finds no evidence that the potato was adopted in response
+
+to rapid population growth.8
+
+   Our study differs from Mokyr’s (1981) in two important ways.                          First, our difference-in-
+
+differences estimation strategy is very different from Mokyr’s IV strategy. Our estimates are
+
+identified not by variation in the cross-section only, but from the interaction of regional variation
+
+in potato suitability together with time variation arising from the introduction of potatoes from
+
+the New World. Second, our study also examines the impact of potatoes beyond the Irish context
+
+and over a longer time horizon. Therefore, we are able to provide estimates of the full impact of
+
+potatoes on population and urbanization across the Old World during the 18th and 19th centuries.
+
+   The paper is organized as follows. Section 2 discusses the background on potatoes. Section 3
+
+describes the data, Section 4 presents the empirical strategy, and Section 5 discusses the results.
+
+Section 6 offers concluding remarks.
+   8 The only other piece of empirical evidence about the effects of the potato, although indirect, is from Baten and
+
+Murray (2000). The authors examined the determinants of the heights of 4,100 men and women that were incarcerated
+and sent to two prisons in Bavaria between 1856 and 1908. Included as a control variable in their analysis was the per
+capita production of potatoes in the prisoner’s region of birth. According to their estimates, men and women from
+regions with greater potato production were taller. This was also true for regions with greater milk production, but was
+not the case for the production of bread grains, which was negatively correlated with heights.
+
+
+
+
+                                                           5

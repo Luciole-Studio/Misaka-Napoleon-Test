@@ -1,0 +1,45 @@
+# C14 损耗与动员：来源审计
+
+## 已读来源
+
+- H72：Jacques Houdaille, “Pertes de l’armée de terre sous le premier Empire, d’après les registres matricules”, Population 27-1 (1972), pp.27–50。全文捕获 `downloads/pages/b4cf5e9825fc.md`，源 https://www.persee.fr/doc/pop_0032-4663_1972_num_27_1_15097 。网页正文已读；PDF下载403，表格大多仅保留标题，未把缺失表格数字自行复原。
+- H70：同作者，“Le problème des pertes de guerre”, RHMC 17-3 (1970), pp.411–423。全文 `downloads/pages/b4a33e0e429e.md`，https://www.persee.fr/doc/rhmc_0048-8003_1970_num_17_3_2082 。同一抽样项目早版，不独立。
+- RP23：Louis Rouanet & Ennio E. Piano, “Drafting the Great Army”, JEH 83-4 (2023), pp.1057–1100，doi:10.1017/S0022050723000360，全文 `downloads/pages/ee71889de366.md`。本卡读了数据、机制、事件研究及结论相关段，未复现回归；若采用系数，须写作者估计。
+- G03：Alexander Grab, Napoleon and the Transformation of Europe (2003)，全书捕获 `downloads/pages/2ad693d5ac13.md`，本文实际核读pp.25–27、50–53；不是全书精读。
+
+## 损耗对照——三源要求不可转化为伪三角测量
+
+【文献推断】H72 pp.29–30转述Meynier：其1930文以Martinien的15000死亡军官、官兵28.5倍及死亡风险修正，得到约400000。未归战俘等后来补入，改为1800–15约1000000、1805–15约900000。H70 p.412明确此再版为1932。这里全部标为“转引Houdaille”，未亲读Meynier原文。
+
+【文献推断】H72 p.42计算：1145000（an XII—1814死亡及失踪士兵、士官）+30000（百日）+15000军官−320000未记回返＝870000死亡；同页脚注据p.39追加校正为300000回返、890000死亡。p.50结论约900000。不是870000–890000的统计置信区间。H70 p.419早版916000依极小Boulay样本校正回返，是研究演进，不与H72并列作为独立票数。
+
+【事实：范围】H72 p.42总计进入随后“与Bourgeois-Pichat比较”的法国人口分析；不能把它当所有盟邦军队的总损失。p.46另说明盟军登记册不在Vincennes范围内。军队中出生于并合地区者和独立盟国部队也不能混为一类。海员及宪兵镇压中被杀逃役者不包括在p.42总计。
+
+【文献推断】Bourgeois-Pichat 1951估计革命与帝国合计860000，由人口回推；仅转引H72 p.30、pp.42–45。其时期不同，净移民与“平时本会死亡者”调整不同，不能当帝国损耗低界。H72 p.44–45用“平均军队500000、20–24岁五年死亡概率60‰”计算十年平时死亡60000；这两参数是Houdaille的比较假设，不是和平常备军实测值，更不是死亡率6%/年。
+
+【事实：Woloch接口】Woloch1986原PDF被JSTOR返回非PDF页，未取得。RP23正文“DRAFT EVASION…”转引其p.110：1800–1813征入军队或国民卫队超过240万；“Consequences of Reform”转引p.123：1806–1810逃役大幅下降及1811改善；p.127：1812后逆转。所见材料没有Woloch独立死亡估计。不得凑数称三源支持“40–90万”。
+
+**可用损耗敏感性：**87万、89万、91.6万只作同一Houdaille研究不同校正的测量敏感性，不称独立上下置信界；主文采用约90万数量级。不能除以任意军队存量，外推未来年度损耗率。
+
+## 逐条可复核锚点
+
+|ID|页码/段|短引与意义|
+|---|---|---|
+|L01|H72 p.31|“Nous avons fait un sondage au 1/500e dans tous les registres”——登记册抽样，不是完整普查。|
+|L02|H72 p.35|“les pertes certaines ... atteignent 390 000 hommes”——仅Vieux Français、确定死亡，不含未知命运。|
+|L03|H72 p.42注|“300.000 retours et 890.000 morts”——校正回返可改变总估计。|
+|L04|H72 p.46|“110 000 Français et étrangers”——西葡损耗，经假设战俘五分之一、注销者一半回返；不是驻军人数。|
+|L05|H72 p.46|“Admettons 270 000 Français et étrangers non revenus de Russie en 1813”——俄征未归估计，不能称270000全部确定死亡或全为法国本土生人。|
+|L06|H72 pp.47–48|“certains soldats désertèrent plusieurs fois”——177000追回/再编记录不可全当独立新兵。|
+|L07|H72 pp.48–49|“2 655 000 ... appelés ... 2 480 000 ... incorporés”——anVII至1813-11-15、1804疆域（含莱茵左岸及皮埃蒙特）。|
+|L08|H72 p.49|“2 150 000 ... 2 025 000 ... 125 000”——扣早期征兵并对疆域后的征募机关/陆军登记比较；125000可能是海军，作者亦提示志愿者口径不明。|
+|L09|H72 pp.49–50|1790–95出生群约1800000、服役约775000、死约370000，作者报42.5%和20.5%；775/1800实际约43.1%，原文取整不整齐，保留原数，不粉饰精确。|
+|L10|H72 p.50脚注|“Nous rectifions ici une erreur ... [1970] p.421”——1970年38%群体损耗不再使用。|
+|L11|G03 p.26|“over half of his 600,000 troops were non-French”——只描述1812俄征；不是1809以后每年所有法国驻军。|
+|L12|RP23 Data Description|“only ... individuals ... failed to show up ... before the deadline”——其逃役率不是前线逃兵率。|
+
+## 反证结果
+
+1. 【裁量｜高】“少征兵必然削弱霸权”不普遍成立：RP23机制表明对高执法成本地区减额可能减少逃役、释放执法资源，但不能无条件提高军队总数。
+2. 【裁量｜高】“内帝国边界=同意边界”不成立为直接测量命题；出生地、服役地、征额、地形、执法和实际认同需要分别识别。
+3. 【未验证】缺完整年别出入账，无法由累计征入减累计死亡恢复任一日现役：尚有退役、伤残、俘虏、逃兵回归、调动、重复记录。

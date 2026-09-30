@@ -1,0 +1,48 @@
+GRP : revues JOB : num121⊕xml DIV : 10⊕LevyGarbouaMonnet p. 21 folio : 55 --- 5/4/016 --- 16H5
+
+
+
+
+                              LES TAUX D’INTÉRÊT EN FRANCE : UNE PERSPECTIVE HISTORIQUE
+
+
+
+             MONNET E. (2014), « Monetary Policy without Interest Rates: Evidence from France’s Golden Age
+             (1948 to 1973) Using a Narrative Approach », American Economic Journal: Macroeconomics, vol 6, n° 4,
+             pp. 137-169.
+             MONNET E. (2015), « La politique de la Banque de France au sortir des Trente Glorieuses : un tournant
+             monétariste ? », Revue d’histoire moderne et contemporaine, n° 62-1, pp. 147-174.
+             RAJAN R. G. et ZINGALES L. (2003), « The Great Reversals: the Politics of Financial Development in the
+             Twentieth Century », Journal of Financial Economics, vol. 69, n° 1, pp. 5-50.
+             PIKETTY T. (2013), Le Capital au XXIe siècle, Seuil.
+             TAYLOR J. B. (1993), « Discretion versus Policy Rules in Practice », Canegie-Rochester Conference Series
+             on Public Policy, n° 39.
+
+
+
+
+                                                             ANNEXE
+                Ce schéma permet de préciser comment notre travail se situe par
+             rapport à cette démarche théorique.
+                                                    Schéma
+                                Taux d’intérêt observés et taux d’intérêt naturels
+
+
+                                                                                                                        55
+
+
+
+
+             Source : d’après les auteurs.
+
+                L’essentiel de notre contribution porte sur la construction et l’obser-
+             vation des séries statistiques relatives aux taux nominaux iC et iL
+             (les taux courts et longs) ainsi que du taux réel (long essentiellement) rL.
+             Nous ne nous intéressons pas au taux naturel (rN sur le schéma), ni ne
+             cherchons à construire un modèle reliant les différents taux monétaires
+             et les grandeurs macroéconomiques usuelles, comme le taux de crois-
+             sance g du PIB, le taux d’inflation observé ou anticipé (< ou <a) ou
+             d’autres. En revanche, nous observerons graphiquement ou statistique-
+             ment les corrélations dans le temps entre ces variables et les séries de
+             taux construites. Sur ce schéma, on s’intéresse à (1), (2), (4) et (5), mais
+             pas à (3), (6) et (7).

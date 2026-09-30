@@ -1,0 +1,44 @@
+# P2来源、参数与证据层级
+
+本卡只将实际读过的版本列作亲读。二手著作所引档案仍属转引；原档系列名只用于追索。英文与法文材料直接进入论证；德/意/西文史料主要经地区卡转引，本卡不冒称自行亲阅。非英语亲读至少包括Marion、Lepetit、Lentz及法语手册；不等于覆盖全部相关语言。
+
+## S：亲读著作与研究
+
+### S1 Stuart Woolf, *Napoleon’s Integration of Europe* (1991)
+- 工作区：`downloads/D1_Woolf_Napoleon_Integration_Europe__35001edb4643.pdf`；doc `46acd720f176`。PDF页比印页约多11。
+- 实读位置：印72–81（PDF83–92，专业并合人员与省长）、印158–161（PDF169–172，征兵）、印230–232（PDF241–243，反抗）。本轮跨页读取曾被截断，未宣称完整精读全书。
+- 引文Q1，印75：“Between 1800 and 1814 306 prefects were nominated; we have details of the careers of 281.” 用途：历任306不能当1812现员。
+- Q2，印76：“only 32 prefects, or 12 per cent, came from outside France's pre-1789 frontiers, although the 43 annexed departments constituted one-third of the total 130”。用途：高级人事法国来源集中；非全部基层公务员占比。
+- Q3，印74–75：“Local collaboration was essential for the functioning of the administration, from sub-prefects to judges, from financial agents to mayors.” 用途：地方替代不是可有可无。
+- 精确位置Q4，印81：并合省112次任命中37次有他省经验；印72–73：专业并合团队、年轻auditors及德语官员调度。用作训练机制，不量化未测培训产能。
+- 印160比利时征前、征后逃役观察窗口不同，未合并成一个队列完成率。auditeurs452未本轮独立核实，不入主模型。
+
+### S2 Michael Rowe, *From Reich to State: The Rhineland in the Revolutionary Age, 1780–1830* (2003)
+- `downloads/D1_Rowe_From_Reich_to_State__49f41cfc7013.pdf`；doc `efa2c87c4afb`。
+- 实读印168–173附近（PDF182–187）、印179–182（PDF193–196）。
+- Q5，印179 Table 3：莱茵1806–1810动员24,186、征前逃8,138、征后逃725；阿尔萨斯13,933、2,386、1,843。前者分别33.65%、3.00%，后者17.12%、13.23%。均为表内口径，非适龄人口完成率。
+- Q6，印181：“it totalled 15,500 men in the empire in 1809, with 527 stationed in the Rhineland after its introduction in 1798.” 用途：宪兵年份与地域边界。四分之一本地、法籍须懂德语见同段。
+- 印182：Dormagen34宪兵、五日235法郎另供工资与给养；Roer逃役数字由2,000降670。不能将此解释成全年净增兵1,330。
+- 人口表1,280,942与D1概述1.8m不一，未混成精确密度。
+
+### S3 Marcel Marion, *Histoire financière de la France depuis 1715*, tome IV (1925)
+- `downloads/F4_Marion_IV_1925.pdf`，doc `1f18be55f219`；另TXT doc `ecd835dcb3e0`。
+- 实读印321–323（PDF341–343）；相关上下文PDF340。
+- Q7，印321预算文字：“342.260.044 bruts. 226.389.345 nets”。年度1812，1792年以来并地总预算，非所有费用后巴黎净余。
+- Q8，同页辛普朗：“le produit de ses contributions ne couvrira même pas les frais de son administration”。用途：可有军事交通价值而无净税余。
+- Q9，同页综合判断：“ils finissaient par coûter au Trésor plus qu'ils ne lui rapportaient”。这是Marion的历史解释，未冒称逐省现金实账。
+- 印321分项比83、荷66.5、汉38.791、莱37.5、皮33、托22.5、利16、罗16.5百万法郎；并非完整分项和。
+- 印322转Mollien：600法郎/人年薪养，700加入军械补马；印323强调部队差别、外国分摊，称“Question insoluble”。本卡700是条件核算单价，不是假定真实所有军人同价。Mollien为回忆材料且经Marion转引，未直接亲读该处回忆录；AN AF IV 1072未亲阅。
+
+### S4 Johan Joor, “A Very Rebellious Disposition,” in *Soldiers, Citizens and Civilians: Experiences and Perceptions of the Revolutionary and Napoleonic Wars, 1790–1820* (2009)
+- `downloads/NL_Joor_SoldiersCitizensCivilians2009.pdf`；doc `caa0e8d86884`。
+- 印189–192（PDF200–203）。论文集不全由Joor撰写。
+- Q10，印189：王国期45%、261次骚乱，约三分一起义在并合前。不同时间长度与司法选择不能转换全体民众反对率。
+- Q11，印190：1811–1812至少20次征兵暴动；印191驻军原文片段“western part of Holland… averaging some 15,000 men”。是当局意图在西荷兰维持的军队平均量，不是全国和平宪兵密度。
+- 动因军事35%、财税封锁26%、反政权24%、宗教4%；未机械据此减去26%反抗。
+
+### S5 Gildas Lepetit, “Les hommes de la gendarmerie d’Espagne (1809–1814),” *Force publique* 1 (2006), pp.31–44
+- Fondation Napoléon重刊：https://www.napoleon.org/histoire-des-2-empires/articles/les-hommes-de-la-gendarmerie-despagne-1809-1814/
+- 保存 `downloads/pages/3a7af6a78c72.md`。页抓取大文件，按有关人数与来源段摘录，不称全站全文。
+- 定位：1809-11-12军部长奏报、SHD-DAT C8 33脚注；总15,474；20西班牙中队约4,000士兵，一半内地宪兵、一半线列军补充。含军官时为另一口径，不能混加。
+- 用途：抽调有真实机会成本、识字及经历筛选。通过Lepetit转引军档，不是本卡亲阅SHD。

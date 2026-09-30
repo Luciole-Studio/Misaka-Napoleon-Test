@@ -1,0 +1,25 @@
+# SOURCES — X4 · 欧洲思想与运动场（t_b702da）
+
+分层申报：A=本会话亲读（给路径/doc id与用途）；B=亲读的转引层（书评/摘录，注明层级）；C=复用本运行/上一轮已验收卡结论（注卡号）；D=权重记忆（给通行出处名，未亲核，正文已逐处标注）；E=未获全文（注可裁事项，见交付§19）。
+
+## A. 本会话亲读
+1. `downloads/X4_Carbonari_Memoirs_1821.txt`（doc 8598003bfadd）＝Memoirs of the Secret Societies of the South of Italy, particularly the Carbonari, London: John Murray, 1821（archive.org: memoirsofsecrets00bert）。用途：烧炭党起源叙事、教义Art.1–8、组织（Baracca/Vendita/Alta Vendita）、人数（L5083: 24–30k初期、Lanciano 1,200武装1814；L5622: 卡拉布里亚50–60k Nunziante估计；L5428: 全王国传闻200k+）、士兵服从会社（L5075段）。作者立场警示：反烧炭党的波旁-官方视角，人数皆同时代估计。
+2. `downloads/pages/6fe177bf2d7a.md`＝Fichte, Reden an die deutsche Nation（Gutenberg #48340, Reclam版全文，上一轮已抓）。另：Deutsches Textarchiv/textgrid 1808原版检索摘录（Vorrede"die Censur paßirten"句、第一讲、第十四讲）。
+3. `downloads/pages/01f3adc0ec2a.md`＝Constant, De l'esprit de conquête et de l'usurpation, ch.13 "De l'uniformité"全文（wikisource, Ficker 1914版）；ch.12经检索页全读（同版）。用途：反统一化机制批判（§0-J2、§15.4）。
+4. `downloads/pages/a9c217630acd.md`＝Brophy书评（H-German, 2009）on Planert 2007。用途：Planert p.659两处结论转引、Dufraisse乡村受害论。
+5. `downloads/pages/c41d03e2f9a8.md`＝Dörfler书评（sehepunkte 9/2009）on Planert 2007。用途：p.481/489/598/620/627论点结构转引。
+6. `downloads/pages/3f6d498365c6.md`（adelsquellen.de）＝Tugendbund会史与成员名录研究页：1808-04创立、23分会、在册≈620、城镇分布、Boyen/Schill会籍、Der Volksfreund。
+7. `downloads/pages/54fd0efdaf3a.md`（lwl.org威斯特法伦史门户Stein传）：占领军15万人+5万马匹就地供养；Tugendbund"至多700人"、1809年底解散、法奥警探高估。
+8. `downloads/pages/1ff459f0bfec.md`（books.openedition.org/pur/264988，拿破仑出版审查研究章）：1810-02-05敕令、Fouché→Savary、bureau de l'esprit public文人名单、De l'Allemagne审查全程（Nicolle合同13,000法郎、Pellenc/La Salle意见）。
+9. `downloads/pages/2ad693d5ac13.md`＝Grab, Napoleon and the Transformation of Europe全文OCR（上一轮已抓；行号引用：L209、L559、L604、L660、L821、L844、L1057、L1353–1382、L1489–1493）。
+10. `downloads/pages/53f263fd3a10.md`＝Hansard HC Deb 1848-04-13 vol 98 cc284-301（宪章请愿点验1,975,496 vs 宣称5,706,000）。
+11. `downloads/pages/d827ad3207c2.md`＝Hansard HC Deb 1842-05-03 vol 63 cc13-25（"very nearly 3,500,000"；1785/1789/1812请愿先例回顾）。
+12. `downloads/pages/0165ca641153.md`、`6584f2f8b4f1.md`（TNA教育专页1816–20）：Peterloo 60,000人集会、Home Office预言性信件、伤亡报道结构。
+13. `downloads/pages/7abf9a5379e3.md`＝Meyers 1905 "Freiwillige Jäger"条（1813-05底：步7,000+骑3,000）。
+14. doc 4e8fe2aef689＝`downloads/B5_Jarrige_Luddisme2010.pdf`，Jarrige, «Une armée de justiciers»? Justice et répression du luddisme en Angleterre (1811-1816)，pp.1–3亲读：三因结构（封锁市场崩溃/1809去管制/结社法）、曼城1811-06就业数（转Crouzet pp.770–781）、1812立法时序、Byron演说、数百人处决/流放/监禁合计。
+15. doc 91379137ef81＝Glenthøj & Ottosen, Experiences of War and Nationality in Denmark and Norway 1807–1815，pp.186–190亲读（"Dawning Separatism in Norway"）：分离主义机制、三任王储级代表的对英单独媾和建议、Peder Anker 1812引文、丹麦=最严封锁执行者、丹军击溃Schill（Stralsund 1809-10）。
+16. doc 5afb7e8091c4＝`downloads/D1_Broers_Politics_Religion_Napoleonic_Italy.pdf`，Broers, The Politics of Religion in Napoleonic Italy: The War against God, 1801–1814，ch.7节"Church and state in the nineteenth century"（印pp.179–182）亲读："改革教化失败"、"民众虔诚因迫害反强"、教会不再可能从属俗权（承Gramsci）、"教会比自由派对手更能自我重塑"、1902 Combes与第一帝国的谱系连线。
+17. `downloads/pages/0cfeffeb04dc.md`（法文Talleyrand研究页，上一轮已抓）：Savary称科佩"le foyer des frondeurs"。
+18. `downloads/pages/cd494198d45d.md`（法文著作波希米亚章，上一轮已抓）：1812–13波希米亚为Tugendbund密使走廊（法方警务视角）。
+19. `downloads/pages/1b329de6f5e8.md`、`0e5a385b8bba.md`＝Clark, Iron Kingdom节选（上一轮已抓）：Jahn 1811、Christlich-deutsche Tischgesellschaft 1811排除条款、Fichte性别论、黑格尔1818柏林教席与国家哲学。
+20. `downloads/pages/2cae8e7be9d4.md`、`70cc6a857e5f.md`＝Heckscher, The Continental System节选（上一轮已抓）：1810–12危机同时性、卢德时序。

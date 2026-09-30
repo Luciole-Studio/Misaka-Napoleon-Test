@@ -1,0 +1,57 @@
+---
+source_url: "https://www.persee.fr/doc/mefr_1123-9891_1990_num_102_1_4089"
+final_url: "https://www.persee.fr/doc/mefr_1123-9891_1990_num_102_1_4089"
+provider: "exa"
+text_sha256: "af1cb41462278a862dc37eb79961fdb07d5ec1a6c38d116bdf7a4480abfb8f43"
+title: "La conscription dans les d\u00e9partements pi\u00e9montais de l'Empire fran\u00e7ais (1800-1810) - Pers\u00e9e"
+content_kind: "page_text"
+---
+
+La conscription dans les départements piémontais de l'Empire français (1800-1810) - Persée Saut au contenu
+
+#### Figures
+
+## La conscription dans les départements piémontais de l'Empire français (1800-1810)
+
+#### [article]
+
+Mélanges de l'école française de Rome Année 1990 102-1 pp. 211-221
+
+- Référence bibliographique
+
+Frasca Francesco. La conscription dans les départements piémontais de l'Empire français (1800-1810). In: Mélanges de l'École française de Rome. Italie et Méditerranée, tome 102, n°1. 1990. pp. 211-221.
+
+### Résumé (fre)
+
+Francesco Frasca, La conscription dans les départements piémontais de l'Empire français (1800-1810), p. 211-221.
+
+Dans le cadre de la situation européenne, malgré les difficultés rencontrées dans la conscription, le Piémont est un cas qui tranche sur celui des pays annexés à l'Empire par l'importance de la conscription par rapport à sa population. Le Piémont apparaît ainsi comme un pays où l'esprit militaire a survécu au changement institutionnel, et a été réemployé par la France dans le cadre de sa politique d'expansion.
+
+### Liste des illustrations
+
+1. Analyse de la corrélation ente le nombre des conscrits recensés et le nombre des réformés 1800-1810 en temps de guerre[link]
+2. Importance de la conscription par rapport sa population[link]
+
+### Texte intégral
+
+---
+
+FRANCESCO FRASCA
+
+LA CONSCRIPTION DANS LES DÉPARTEMENTS PIÉMONTAIS DE L'EMPIRE FRANÇAIS (1800-1810)1
+
+Pourquoi la conscription dans les départements piémontais? Parce que déjà au XVIIe siècle le Piémont, où la volonté des souverains et la situation politique et militaire de cet État-frontière indépendant expliquent le rôle joué par l'armée, représente un cas intéressant et sans équivalent en Italie.
+
+Le Piémont est l'État italien le plus proche de la France par sa tradition militaire; sa situation de frontière le conduit à participer, dans un camp ou dans l'autre, à toute les guerres du XVIIIe siècle. Ses souverains essayent de susciter une vocation militaire chez leurs sujets par l'organisation de l'armée permanente - instrument du pouvoir monarchique (voir l'exemple de la Prusse) - et notamment, sur le modèle de la France, de la milice royale2 qui donne à cette armée une base «nationale» et lui sert de réserve permanente.
+
+Les armes cependant ne prennent pas une place considérable dans les préoccupations et la vie des populations comme c'est le cas en
+
+1
+
+MEFRIM - 102 - 1990 - 1, p. 211-221.
+
+---
+
+212 FRANCESCO FRASCA
+
+Prusse3. En 1796, le roi de Sardaigne est l'un des premiers à entrer dans la coalitioin contre la République, mais presque tous ses États sont rapidement conquis et annexés; le 10 décembre 1798, Charle-Emmanuel IV doit céder à la France tous ses droits sur le Piémont qui devient le 2 avril 1801 la 27e division militaire4. Le Piémont n'est pas le seul cas d'incorporation à la France, mais il présente de ce point de vue un intérêt singulier. On peut y voir soit un exemple transposable dans d'autres pays, la Hollande, soit un cas spécifique; les deux points de vue sont valables. Toutefois le Piémont se voit partagé entre ses régions situées en-deça et au-delà des Alpes, et la Sardaigne. Cette dernière, restée indépendante, fut l'asile d'une émigration dans le pays même, en recevant le roi et ses officiers. Cet «exil» du roi explique que les paysans, coupés de leur souverain, en font une sorte de figure mythique vers laquelle ils se tournent et y trouvent un motif de résistance d'autant plus âpre, que la conscription les touche plus cruellement qu'elle n'éprouve les citadins. Donc nous avons un État à tradition militaire qui a fait la guerre contre la France de la Révolution et qui se trouve annexé et transformé en départements, une émigration qui fait partir en Sardaigne une partie de ses officiers, mais pas tous, et le recrutement des soldats piémontais dans l'armée française avec référence régionale.

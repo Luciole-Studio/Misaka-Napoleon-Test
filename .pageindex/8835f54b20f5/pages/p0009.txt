@@ -1,0 +1,59 @@
+3294                                 THE AMERICAN ECONOMIC REVIEW                                DECEMBER 2011
+
+
+
+                                        Table 2—Descriptive Statistics
+
+                                              West of the Elbe                                 Whole sample
+
+                                              All        Control          Treated            Control      All
+                                              (1)         (2)               (3)               (4)         (5)
+Urbanization in 1700                          5.86         5.49             6.35             7.40         7.08
+                                             [4.22]       [2.89]           [5.93]           [5.75]       [5.61]
+Urbanization in 1750                          7.89         7.66             8.09             8.90         8.59
+                                             [4.12]       [4.19]           [4.4]            [4.91]       [4.61]
+Urbanization in 1800                         10.23         8.45            11.75            10.22        10.81
+                                             [4.37]       [3.47]           [4.71]           [5.16]       [4.92]
+Urbanization in 1850                         13.78        12.38            14.97            14.45        14.65
+                                             [6.01]       [5.42]           [6.65]           [7.9]        [7.26]
+Urbanization in 1875                         25.70        22.22            28.67            25.19        26.52
+                                            [10.7]        [9.15]          [11.69]          [11.2]       [11.21]
+Urbanization in 1900                         39.89        35.60            43.55            38.27        40.29
+                                            [13.92]      [12.12]          [15.2]           [14.4]       [14.54]
+Share Protestant                              0.579        0.532            0.618            0.677        0.654
+                                             [0.343]      [0.385]          [0.303]          [0.347]      [0.33]
+Latitude                                     50.43        49.28            51.41            50.97        51.14
+                                             [1.5]        [1.15]           [0.98]           [2.22]       [1.85]
+Longitude                                     9.89        10.89             9.03            12.78        11.34
+                                             [2.01]       [2.08]           [1.51]           [3.49]       [3.42]
+Distance to Paris                           592.4        631.8            558.7            808.9        712.9
+                                           [146.3]      [158]            [128.2]          [261.4]      [251]
+
+Note: Mean values (weighted by total population in 1750), standard deviations in brackets.
+
+
+
+                                        C. Descriptive Statistics
+
+   Table 2 records some basic descriptive statistics for our dataset, both in the sample
+of 13 polities west of the Elbe (five of them in the treatment area) and in the entire
+sample of 19 polities. Note that the treatment area (column 3) lies entirely west of
+the Elbe. Areas to the east of the Elbe had stronger feudal labor relations before the
+nineteenth century and may thus be less comparable to, and thus worse controls for,
+the Western polities occupied by the French. We thus take these 13 polities to be
+our baseline sample. Nevertheless, we believe that the areas east of the Elbe are still
+useful because they provide evidence against a related but different hypothesis that
+part of the effects of French occupation within Germany are partly (or largely) due
+to defensive modernization efforts of Prussia.
+   The first six rows of Table 2 describe urbanization rates in the six time periods
+considered; this evolution is also depicted in Figures 2A and 2B. We can see that
+there is little difference between the urbanization levels of treatment and control
+groups prior to 1789. Indeed, in 1750 urbanization is slightly greater in the control
+group when the whole sample is considered; in contrast, urbanization is slightly
+greater in the treatment area when only polities west of the Elbe are considered.11 In
+both cases, however, urbanization grows more rapidly in the treatment group after
+1800. West of the Elbe, for example, by 1900 urbanization is almost 8 percentage
+
+   11
+      The panel is not balanced, as urbanization rates are missing for the Rhineland, Westphalia, Brunswick, Baden,
+and Silesia in 1700.

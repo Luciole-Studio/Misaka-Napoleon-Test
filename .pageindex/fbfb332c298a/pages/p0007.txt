@@ -1,0 +1,29 @@
+
+
+【来源批判·必读】该组文书的传抄链是：Hidalgo 的使者 **Ignacio Camargo** 把原件交给 **José María Liceaga**，Liceaga 在《Adiciones y rectificaciones a la historia de México》中刊出并自述"copiados al pie de la letra de los originales… que tengo en mi poder"；Hernández y Dávalos 再收入文献集（UNAM 2007 重刊，doc 46ec015b0dc6 p.3 注 1）。**即：这是十九世纪中叶的一次单线转录，原件未见。**本卡据此使用其**论证结构**（谁向谁主张什么正统性），不把它当作逐字无误的档案。
+
+【机制·极重要】**1810 年的王党正统性已经不是"国王"而是"即将召开的加的斯议会"。**这是一条可直接用于反事实的铰链：**在一个法国全胜、没有加的斯议会的世界里，王党的第二条腿是断的。**它只剩下"总督府的命令"与"半岛商人的钱"，而总督府的合法性又已被 1808 年九月政变自毁。
+
+【推演·中高置信】把两份文书并读，得出新西班牙冲突的真实语法：
+- 起义方：**不反君主制，反"欧洲人"这一身份群体**；对该群体的处置是"俘虏＋财产暂充国用"。这意味着**任何把半岛人特权固化的安排（包括法国扶植的任何半岛人政权）都是在为这条纲领提供燃料**；
+- 王党方：**不靠国王靠代议机构**。这意味着**任何取消西班牙代议政治的安排（S-B、S-C 都取消）都在抽掉王党的论证**。
+- **结论：法国越是把西班牙变成自己的省或自己的王朝，新西班牙的两边就越快地把冲突转化为"美洲 vs 欧洲"。**这不是民族主义目的论，这是从两份 1810 年文书的论证结构推出的。
+
+【锚点】抵抗的地理与社会基础：起义的核心是**巴希奥**（瓜纳华托、巴利亚多利德），即印第安人占五分之三、矿业雇佣劳动集中、1785–86 与 1809–10 有粮荒的区域。瓜纳华托城内矿工与平民"se unió la masa del pueblo"（Alamán）。
+
+### 8.1 莫雷洛斯纲领（1813）：反事实推演的硬边界
+【锚点】**《Sentimientos de la Nación》**，莫雷洛斯 1813-09-14 于 Chilpancingo 国会开幕日由秘书 Rosaínz 宣读，共 23 点（本卡亲读文本：`downloads/pages/c14f5ba7251f.md`，源 Lemoine,*Morelos. Su vida revolucionaria…*, UNAM 1965, pp.370–373；另已入库 INEHRM 版本考述 `downloads/MX_INEHRM_Sentimientos_de_la_Nacion.pdf`，doc ea594452c3ef）。与本卡最相关的四条：
+> **1º** "Que la América es libre e independiente de España **y de toda otra Nación, Gobierno o Monarquía**, y que así se sancione dando al mundo las razones."
+> **9º** "Que **los empleos sólo los americanos los obtengan**."
+> **16º** "Que nuestros puertos se franqueen a las naciones extranjeras amigas, pero que éstas **no se internen al reino** por más amigas que sean, y sólo habrá puertos señalados para el efecto… señalando **el diez por ciento**."
+> **20º** "Que **las tropas extranjeras o de otro reino no pisen nuestro suelo**, y si fuere en ayuda, **no estarán donde la Suprema Junta**."
+> （另：15º 永久废除奴隶制与种姓区分；22º 以 5% 统一税取代 alcabala、estanco、tributo；12º 要求立法"moderen la opulencia y la indigencia"并提高穷人工资。文本有 1813-11-21 国会改定的"versión testada"差异，已登记。）
+
+【推演·中高置信】**这四条把“法国客户国式的墨西哥”在纲领层面先验地判了死刑。**第 1 条是"独立于西班牙**以及任何其他国家、政府或君主国**"；第 20 条明文禁止外国军队登陆，**连援军也不得驻于最高机构所在地**；第 9 条把官职锁给美洲人；第 16 条把外国贸易限在指定港口并收 10% 关税。换言之，**起义派的纲领既拒绝波旁、也拒绝波拿巴，并且拒绝大陆体系那种“同盟国市场排他性安排”。**法国在美洲可能的唯一作用，是在一个已经独立的墨西哥与英国之间做**第二购买者**，而不是做宗主国或保护人。
+
+### 8.2 卡片 falsifier 的正面检验：1808 前克里奥尔是否已有独立纲领文书？
+本卡合同指定的改判条件是："1808 前克里奥尔已有独立纲领文书 → 王位危机触发论下调"。**本卡主动去找了反证，结果是一个分裂的裁决。**
+
+- 【锚点·支持改判】**1799 年"弯刀阴谋"（conspiración de los machetes）确实是一份独立纲领。**登记员 Pedro de la Portilla 约十三至二十名贫寒克里奥尔人计划：先放囚、再夺总督官邸、**"proclamar la independencia de México, declarar la guerra a España y matar o expulsar a los españoles peninsulares o gachupines, haciéndose de sus caudales"**，以瓜达勒佩圣母牌为旗，胜利后由"人民决定政体"而参与者倾向于**类似美国的国会制**。实力：1,000 pesos 银、两支手枪、约五十把弯刀。（Alamán《Prolegómenos de la Independencia Mexicana》转引，经 Memoria Política de México 条目，`downloads/pages/ac63387858e7.md`，**二手转引，原档未见**）
+- 【锚点·更重要的一条】**总督 Azanza 1799-11-30 致国王密报自己证实了断层的存在**：这些阴谋者本不足惧，"pero como por una grande fatalidad, **existe en esta América una antigua división y arraigada enemistad entre europeos y criollos, enemistad capaz de producir las más funestas resultas**, y que siempre debe ser temible por ellas al gobierno, tuve por preciso mirar seriamente este asunto"；他并且刻意向民众隐瞒逮捕原因，以免"给欧洲人与克里奥尔人之间的怨恨添柴"。（同上转引）
+- 【锚点·反对改判】**1809 年巴利亚多利德阴谋不是独立纲领。**其目标是"instituir en Valladolid **una junta de gobierno que gobernará en nombre de Fernando VII**"（已入库：《Lecturas Históricas Mexicanas》第二卷文献 58，`downloads/MX_Valladolid1809_Lecturas.pdf`，doc fa8b93c9f341）；*Historia Mexicana* 的专题研究更明确："los conspiradores de Valladolid **no buscaban la independencia del reino respecto de la monarquía española**, ni crear una nueva nación… la ‘independencia’ de la que hablaban… era sólo con respecto a la Península mientras ésta continuara en poder de los franceses, mas no de la monarquía… **algo muy distinto a lo que planteará Hidalgo en septiembre de 1810**"（检索快照，未取全文）。

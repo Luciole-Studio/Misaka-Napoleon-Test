@@ -1,0 +1,255 @@
+## Sheet: Full data (continued)
+	A	B	C	D	E
+20657	USA	United States	1921	9,675	108,964
+20658	USA	United States	1922	10,010	110,484
+20659	USA	United States	1923	11,071	112,387
+20660	USA	United States	1924	11,127	114,558
+20661	USA	United States	1925	11,150	116,284
+20662	USA	United States	1926	11,648	117,857
+20663	USA	United States	1927	11,532	119,502
+20664	USA	United States	1928	11,451	120,971
+20665	USA	United States	1929	11,954	122,245
+20666	USA	United States	1930	10,695	123,668
+20667	USA	United States	1931	9,931	124,633
+20668	USA	United States	1932	8,381	125,436
+20669	USA	United States	1933	8,048	126,180
+20670	USA	United States	1934	8,667	126,978
+20671	USA	United States	1935	9,681	127,859
+20672	USA	United States	1936	10,568	128,681
+20673	USA	United States	1937	11,295	129,464
+20674	USA	United States	1938	10,526	130,476
+20675	USA	United States	1939	11,171	131,539
+20676	USA	United States	1940	12,005	132,637
+20677	USA	United States	1941	13,553	133,922
+20678	USA	United States	1942	14,870	135,386
+20679	USA	United States	1943	16,050	137,272
+20680	USA	United States	1944	16,999	138,937
+20681	USA	United States	1945	16,478	140,474
+20682	USA	United States	1946	14,822	141,940
+20683	USA	United States	1947	14,312	144,688
+20684	USA	United States	1948	14,734	147,203
+20685	USA	United States	1949	14,197	149,770
+20686	USA	United States	1950	15,240	152,271
+20687	USA	United States	1951	16,125	154,878
+20688	USA	United States	1952	16,444	157,553
+20689	USA	United States	1953	16,917	160,184
+20690	USA	United States	1954	16,512	163,026
+20691	USA	United States	1955	17,370	165,931
+20692	USA	United States	1956	17,397	168,903
+20693	USA	United States	1957	17,406	171,984
+20694	USA	United States	1958	16,946	174,882
+20695	USA	United States	1959	17,900	177,830
+20696	USA	United States	1960	18,057	180,671
+20697	USA	United States	1961	18,175	183,691
+20698	USA	United States	1962	18,976	186,538
+20699	USA	United States	1963	19,514	189,242
+20700	USA	United States	1964	20,360	191,889
+20701	USA	United States	1965	21,390	194,303
+20702	USA	United States	1966	22,529	196,560
+20703	USA	United States	1967	22,842	198,712
+20704	USA	United States	1968	23,691	200,706
+20705	USA	United States	1969	24,195	202,677
+20706	USA	United States	1970	23,958	205,052
+20707	USA	United States	1971	24,394	207,661
+20708	USA	United States	1972	25,414	209,896
+20709	USA	United States	1973	26,602	211,909
+20710	USA	United States	1974	26,286	213,854
+20711	USA	United States	1975	25,956	215,973
+20712	USA	United States	1976	27,058	218,035
+20713	USA	United States	1977	28,001	220,239
+20714	USA	United States	1978	29,286	222,585
+20715	USA	United States	1979	29,949	225,055
+20716	USA	United States	1980	29,611	227,726
+20717	USA	United States	1981	30,056	229,966
+20718	USA	United States	1982	29,210	232,188
+20719	USA	United States	1983	30,158	234,307
+20720	USA	United States	1984	32,076	236,348
+20721	USA	United States	1985	33,023	238,466
+20722	USA	United States	1986	33,850	240,651
+20723	USA	United States	1987	34,730	242,804
+20724	USA	United States	1988	35,863	245,021
+20725	USA	United States	1989	36,756	247,342
+20726	USA	United States	1990	36,982	250,132
+20727	USA	United States	1991	36,464	253,497
+20728	USA	United States	1992	37,240	257,037
+20729	USA	United States	1993	37,762	260,449
+20730	USA	United States	1994	38,807	263,662
+20731	USA	United States	1995	39,391	266,821
+20732	USA	United States	1996	40,413	269,944
+20733	USA	United States	1997	41,723	273,203
+20734	USA	United States	1998	43,073	276,417
+20735	USA	United States	1999	44,576	279,609
+20736	USA	United States	2000	45,886	282,738
+20737	USA	United States	2001	45,878	285,550
+20738	USA	United States	2002	46,266	288,212
+20739	USA	United States	2003	47,158	290,700
+20740	USA	United States	2004	48,493	293,402
+20741	USA	United States	2005	49,655	296,119
+20742	USA	United States	2006	50,490	298,988
+20743	USA	United States	2007	50,902	301,846
+20744	USA	United States	2008	50,276	304,714
+20745	USA	United States	2009	48,453	307,397
+20746	USA	United States	2010	49,267	309,957
+20747	USA	United States	2011	49,675	312,215
+20748	USA	United States	2012	50,394	314,514
+20749	USA	United States	2013	50,863	316,702
+20750	USA	United States	2014	51,664	319,036
+20751	USA	United States	2015	52,591	321,397
+20752	USA	United States	2016	53,015	323,730
+20753	USA	United States	2017	54,008	325,810
+20754	USA	United States	2018	55,335	327,835
+20755	UZB	Uzbekistan	1950		6,293
+20756	UZB	Uzbekistan	1951		6,490
+20757	UZB	Uzbekistan	1952		6,681
+20758	UZB	Uzbekistan	1953		6,886
+20759	UZB	Uzbekistan	1954		7,061
+20760	UZB	Uzbekistan	1955		7,232
+20761	UZB	Uzbekistan	1956		7,441
+20762	UZB	Uzbekistan	1957		7,694
+20763	UZB	Uzbekistan	1958		7,952
+20764	UZB	Uzbekistan	1959		8,223
+20765	UZB	Uzbekistan	1960		8,531
+20766	UZB	Uzbekistan	1961		8,868
+20767	UZB	Uzbekistan	1962		9,210
+20768	UZB	Uzbekistan	1963		9,547
+20769	UZB	Uzbekistan	1964		9,878
+20770	UZB	Uzbekistan	1965		10,206
+20771	UZB	Uzbekistan	1966		10,530
+20772	UZB	Uzbekistan	1967		10,864
+20773	UZB	Uzbekistan	1968		11,232
+20774	UZB	Uzbekistan	1969		11,591
+20775	UZB	Uzbekistan	1970		11,940
+20776	UZB	Uzbekistan	1971		12,334
+20777	UZB	Uzbekistan	1972		12,742
+20778	UZB	Uzbekistan	1973	8,125	13,148
+20779	UZB	Uzbekistan	1974		13,569
+20780	UZB	Uzbekistan	1975		13,988
+20781	UZB	Uzbekistan	1976		14,404
+20782	UZB	Uzbekistan	1977		14,809
+20783	UZB	Uzbekistan	1978		15,207
+20784	UZB	Uzbekistan	1979		15,605
+20785	UZB	Uzbekistan	1980	7,453	15,994
+20786	UZB	Uzbekistan	1981	7,527	16,400
+20787	UZB	Uzbekistan	1982	7,594	16,830
+20788	UZB	Uzbekistan	1983	7,672	17,171
+20789	UZB	Uzbekistan	1984	7,189	17,729
+20790	UZB	Uzbekistan	1985	7,181	18,215
+20791	UZB	Uzbekistan	1986	6,904	18,718
+20792	UZB	Uzbekistan	1987	6,680	19,219
+20793	UZB	Uzbekistan	1988	7,101	19,625
+20794	UZB	Uzbekistan	1989	7,093	20,033
+20795	UZB	Uzbekistan	1990	6,790	20,530
+20796	UZB	Uzbekistan	1991	6,486	21,059
+20797	UZB	Uzbekistan	1992	5,530	21,609
+20798	UZB	Uzbekistan	1993	5,193	22,127
+20799	UZB	Uzbekistan	1994	4,744	22,604
+20800	UZB	Uzbekistan	1995	4,535	23,067
+20801	UZB	Uzbekistan	1996	4,453	23,524
+20802	UZB	Uzbekistan	1997	4,529	23,952
+20803	UZB	Uzbekistan	1998	4,576	24,342
+20804	UZB	Uzbekistan	1999	4,631	24,701
+20805	UZB	Uzbekistan	2000	4,667	25,042
+20806	UZB	Uzbekistan	2001	4,725	25,372
+20807	UZB	Uzbekistan	2002	4,777	25,696
+20808	UZB	Uzbekistan	2003	4,845	25,992
+20809	UZB	Uzbekistan	2004	5,068	26,268
+20810	UZB	Uzbekistan	2005	5,284	26,540
+20811	UZB	Uzbekistan	2006	5,535	26,810
+20812	UZB	Uzbekistan	2007	5,908	27,079
+20813	UZB	Uzbekistan	2008	6,278	27,345
+20814	UZB	Uzbekistan	2009	6,618	27,606
+20815	UZB	Uzbekistan	2010	7,003	27,866
+20816	UZB	Uzbekistan	2011	7,396	28,128
+20817	UZB	Uzbekistan	2012	7,928	28,394
+20818	UZB	Uzbekistan	2013	8,482	28,661
+20819	UZB	Uzbekistan	2014	9,085	28,930
+20820	UZB	Uzbekistan	2015	9,720	29,200
+20821	UZB	Uzbekistan	2016	10,381	29,473
+20822	UZB	Uzbekistan	2017	10,744	29,749
+20823	UZB	Uzbekistan	2018	11,220	30,023
+20824	VEN	Venezuela (Bolivarian Republic of)	1800	1,073	
+20825	VEN	Venezuela (Bolivarian Republic of)	1820	968	718
+20826	VEN	Venezuela (Bolivarian Republic of)	1830	1,922	
+20827	VEN	Venezuela (Bolivarian Republic of)	1831	1,897	
+20828	VEN	Venezuela (Bolivarian Republic of)	1832	2,142	
+20829	VEN	Venezuela (Bolivarian Republic of)	1833	2,173	
+20830	VEN	Venezuela (Bolivarian Republic of)	1834	2,195	
+20831	VEN	Venezuela (Bolivarian Republic of)	1835	2,153	
+20832	VEN	Venezuela (Bolivarian Republic of)	1836	2,002	
+20833	VEN	Venezuela (Bolivarian Republic of)	1837	1,884	
+20834	VEN	Venezuela (Bolivarian Republic of)	1838	1,693	
+20835	VEN	Venezuela (Bolivarian Republic of)	1839	1,576	
+20836	VEN	Venezuela (Bolivarian Republic of)	1840	1,519	
+20837	VEN	Venezuela (Bolivarian Republic of)	1841	1,693	
+20838	VEN	Venezuela (Bolivarian Republic of)	1842	1,884	
+20839	VEN	Venezuela (Bolivarian Republic of)	1843	1,750	
+20840	VEN	Venezuela (Bolivarian Republic of)	1844	1,750	
+20841	VEN	Venezuela (Bolivarian Republic of)	1845	1,769	
+20842	VEN	Venezuela (Bolivarian Republic of)	1846	1,788	
+20843	VEN	Venezuela (Bolivarian Republic of)	1847	1,712	
+20844	VEN	Venezuela (Bolivarian Republic of)	1848	1,712	
+20845	VEN	Venezuela (Bolivarian Republic of)	1849	1,576	
+20846	VEN	Venezuela (Bolivarian Republic of)	1850	1,884	1,324
+20847	VEN	Venezuela (Bolivarian Republic of)	1851	1,808	
+20848	VEN	Venezuela (Bolivarian Republic of)	1852	1,884	
+20849	VEN	Venezuela (Bolivarian Republic of)	1853	2,000	
+20850	VEN	Venezuela (Bolivarian Republic of)	1854	2,039	
+20851	VEN	Venezuela (Bolivarian Republic of)	1855	2,115	
+20852	VEN	Venezuela (Bolivarian Republic of)	1856	1,635	
+20853	VEN	Venezuela (Bolivarian Republic of)	1857	1,884	
+20854	VEN	Venezuela (Bolivarian Republic of)	1858	1,846	
+20855	VEN	Venezuela (Bolivarian Republic of)	1859	1,865	
+20856	VEN	Venezuela (Bolivarian Republic of)	1860	1,981	
+20857	VEN	Venezuela (Bolivarian Republic of)	1861	2,134	
+20858	VEN	Venezuela (Bolivarian Republic of)	1862	1,884	
+20859	VEN	Venezuela (Bolivarian Republic of)	1863	1,731	
+20860	VEN	Venezuela (Bolivarian Republic of)	1864	1,693	
+20861	VEN	Venezuela (Bolivarian Republic of)	1865	1,788	
+20862	VEN	Venezuela (Bolivarian Republic of)	1866	1,769	
+20863	VEN	Venezuela (Bolivarian Republic of)	1867	1,596	
+20864	VEN	Venezuela (Bolivarian Republic of)	1868	1,615	
+20865	VEN	Venezuela (Bolivarian Republic of)	1869	1,788	
+20866	VEN	Venezuela (Bolivarian Republic of)	1870	1,769	1,653
+20867	VEN	Venezuela (Bolivarian Republic of)	1871	1,731	1,675
+20868	VEN	Venezuela (Bolivarian Republic of)	1872	1,750	1,699
+20869	VEN	Venezuela (Bolivarian Republic of)	1873	1,884	1,725
+20870	VEN	Venezuela (Bolivarian Republic of)	1874	2,077	1,753
+20871	VEN	Venezuela (Bolivarian Republic of)	1875	1,846	1,784
+20872	VEN	Venezuela (Bolivarian Republic of)	1876	1,924	1,816
+20873	VEN	Venezuela (Bolivarian Republic of)	1877	1,943	1,849
+20874	VEN	Venezuela (Bolivarian Republic of)	1878	2,077	1,883
+20875	VEN	Venezuela (Bolivarian Republic of)	1879	2,039	1,917
+20876	VEN	Venezuela (Bolivarian Republic of)	1880	2,153	1,952
+20877	VEN	Venezuela (Bolivarian Republic of)	1881	2,153	1,986
+20878	VEN	Venezuela (Bolivarian Republic of)	1882	2,115	2,019
+20879	VEN	Venezuela (Bolivarian Republic of)	1883	2,211	2,052
+20880	VEN	Venezuela (Bolivarian Republic of)	1884	2,346	2,083
+20881	VEN	Venezuela (Bolivarian Republic of)	1885	2,173	2,113
+20882	VEN	Venezuela (Bolivarian Republic of)	1886	2,308	2,129
+20883	VEN	Venezuela (Bolivarian Republic of)	1887	2,385	2,147
+20884	VEN	Venezuela (Bolivarian Republic of)	1888	2,385	2,173
+20885	VEN	Venezuela (Bolivarian Republic of)	1889	2,480	2,198
+20886	VEN	Venezuela (Bolivarian Republic of)	1890	2,673	2,224
+20887	VEN	Venezuela (Bolivarian Republic of)	1891	2,520	2,255
+20888	VEN	Venezuela (Bolivarian Republic of)	1892	2,270	2,285
+20889	VEN	Venezuela (Bolivarian Republic of)	1893	2,270	2,314
+20890	VEN	Venezuela (Bolivarian Republic of)	1894	2,232	2,346
+20891	VEN	Venezuela (Bolivarian Republic of)	1895	2,423	2,375
+20892	VEN	Venezuela (Bolivarian Republic of)	1896	2,134	2,408
+20893	VEN	Venezuela (Bolivarian Republic of)	1897	2,192	2,442
+20894	VEN	Venezuela (Bolivarian Republic of)	1898	2,134	2,475
+20895	VEN	Venezuela (Bolivarian Republic of)	1899	1,808	2,509
+20896	VEN	Venezuela (Bolivarian Republic of)	1900	1,846	2,542
+20897	VEN	Venezuela (Bolivarian Republic of)	1901	1,769	2,576
+20898	VEN	Venezuela (Bolivarian Republic of)	1902	1,655	2,609
+20899	VEN	Venezuela (Bolivarian Republic of)	1903	1,769	2,643
+20900	VEN	Venezuela (Bolivarian Republic of)	1904	1,788	2,690
+20901	VEN	Venezuela (Bolivarian Republic of)	1905	1,808	2,706
+20902	VEN	Venezuela (Bolivarian Republic of)	1906	1,788	2,720
+20903	VEN	Venezuela (Bolivarian Republic of)	1907	1,731	2,741
+20904	VEN	Venezuela (Bolivarian Republic of)	1908	1,693	2,761
+20905	VEN	Venezuela (Bolivarian Republic of)	1909	1,693	2,780
+20906	VEN	Venezuela (Bolivarian Republic of)	1910	1,674	2,805
+20907	VEN	Venezuela (Bolivarian Republic of)	1911	1,596	2,834
+20908	VEN	Venezuela (Bolivarian Republic of)	1912	1,712	2,856
+20909	VEN	Venezuela (Bolivarian Republic of)	1913	1,750	2,874

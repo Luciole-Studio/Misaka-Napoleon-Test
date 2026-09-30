@@ -1,0 +1,67 @@
+This geographical level is equivalent to the NUTS 3 level of the Statistical Units of the European Union
+
+and includes more than 400 regions.22 To control for other influences of social capital I will include sev-
+
+eral individual control variables, such as the respondent’s age and its square, dummy variables indicating
+
+the gender of the respondent and whether the respondent was unemployed in the last year or not, as well
+
+as the household income in the last month. To account for the legacy of the former Communist regime
+
+in Germany I add another dummy that takes on the value 1 if the respondent lived before 1990 in the
+
+former East of Germany. Education is controlled for using six different indicator variables for school-
+
+ing and distinguishes between having no school degree at all, having attended a 9 year middle school
+
+(Hauptschule), a 10 year middle school (Realschule), a 12 year secondary school (Fachhochschulreife)
+
+or having obtained the highest secondary school degree after 13 years of school (Abitur). Furthermore,
+
+I control for five categories of religious affiliation which are protestant, catholic, any other Christian
+
+religion, a different religion that is not Christian or none religious affiliation at all. Since my focus of
+
+attention lies on the intergenerational transfer of individuals’ beliefs from their ancestors that have lived
+
+in the particular historical territory many years ago, ideally I would like to consider only individuals for
+
+which I can identify the historical territory of their ancestors residence during the 19th century. Unfortu-
+
+nately, the SOEP data does not provide information about the location of ancestors. The second-best in
+
+order to reduce a possible bias caused by migration is to delete foreigners, that is non-German citizens as
+
+well as second generation immigrants, from the sample. These individuals most likely share a different
+
+culture, traditions and norms that are linked to their country of origin.23
+
+                                                      Table 1 about here
+
+The current location of each individual is matched with the 16 historical territories for which historical
+
+data is available, i.e. historical territories are matched to current districts. Historical borders match
+
+remarkably well with current district borders and cut only through very few districts. Current districts
+
+that straddle a historical border will be assigned to a historical region depending of the historical location
+
+of the districts current capital. As historical controls I include the territories urbanization rate in 1850
+
+to control for mere historical income differences across territories, the initial urbanization rate and the
+
+share of protestants in 1800, the longitude and latitude of the territories’ capital and its distance to Paris.
+
+The source for the historical data is Acemoglu et al. (2011).24 Table 1 provides summary statistics for
+   22 Because of the confidentiality requirements of the data on this detailed regional level it was accessed via a remote access.
+   23 Against the deletion of immigrants one could argue, that past institutions persisted and influenced beliefs and values of all
+
+citizens today. However, this is not the channel that is proposed here. In contrast, I argue that past institutions affected beliefs
+and values in the past, and these attitudes persisted until today. See also Algan and Cahuc (2010) for the correlation between
+trust of immigrants and trust in the home country.
+    24 Table B.1 in the Appendix gives the territories included in the sample and the treatment.
+
+
+
+
+                                                                12

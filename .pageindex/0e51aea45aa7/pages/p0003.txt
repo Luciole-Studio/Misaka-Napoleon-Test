@@ -1,0 +1,72 @@
+
+
+【裁量】三者不能靠多数投票裁决。Caulaincourt主要证明讨论与局部困难；Clausewitz评估敌我互动；van Creveld纠正供给机制的简单化。现缺地点—月份—库存—运力—马料—营舍闭合表，故本卡不计算可驻冬军数或节省损失，也不假装完成Riehn双重校准。
+
+### 5.2 立陶宛有实际动员，但有迟到与口径问题
+
+【事实｜转引Nawrot】Sapieha于1812年7月27日写：“Niemożliwe jest formowanie 14 regimentów, bo brak pieniędzy i środków”（无法组建14团，缺钱和物资）。该信经Nawrot p.282注3转引，未亲读Czartoryski档案。[P3]
+
+【事实｜研究所报】Nawrot p.295称多数征募委员会到8月下半月才开始征集；12月1日五步兵团、四骑兵团约12,500人，加志愿队、宪兵、国民卫队、民兵等为两万以上。**后者包含前者；两数不得相加，亦不是夏季已可投入主力战场的兵额。** Hogendorp 11月16日预计1813年1月1日可准备充分，是计划而非完成记录。[P3]
+
+【模型推演】延长战役确可能让地方组织成熟；但同一时间也让俄军加强，并要求占领军继续征粮、用车、驻营。所谓“用时间换波兰增兵”必须同时计入俄军增兵与地方经济耗竭，不能只记录有利一边。[P3、M2]
+
+## 六、Lieven反证、俄国韧性与宫廷政治
+
+【文献推断｜Esdaile转述Lieven】“Hostility to France, however, did not necessarily mean war”；其书评概括亚历山大在1811年放弃进攻、等待被攻。它与Vandal记录早期条件性进攻未必矛盾，可以反映政策变化。**本轮未读Lieven专著，不给该书伪造页码。**[R1]
+
+【文献推断｜Hosking讨论Lieven】俄国的动员不是只有空间与冬季，而有外交、行政、军官与补给组织；但资源征集迟缓，财政脆弱，民兵动员会触及农奴秩序。书评对英国补助重要性的判断针对向中欧和法国推进，不能倒算成1812本土抵抗必须预先得到同额补助。[R2]
+
+【文献推断｜Bogdanovich】1810–1812军制把战斗营与补充营分开；全国编制、西部集合与当日可战兵力不能混算。其网页表有明显合计错误，故本卡不将其总数输入C14／C17。[R3附卷I章III；详见russian_evidence.md E7]
+
+【事实／文献推断】布加勒斯特和平说明俄国能够用边界妥协争取南翼腾挪，但签约日不等于多瑙河军立即投入西线。Åbo协定是8月的俄瑞加强关系，条文中的35,000为俄国拟派往瑞典的辅助军，不是瑞典给俄国的增兵；研究条目还明确其军事部分未实施。[R4–R5]
+
+【文献推断｜Rey】1812秋沙皇拒绝谈判，年底又认为拿破仑会卷土重来，主张继续进攻。这与“1811任何条件下都决意推翻拿破仑”不是同一命题。[R6]
+
+【裁量】宫廷分裂不可概括为“亲法派能随意操纵沙皇”或“一个贵族政变就解决俄国”。Nesselrode文书证明政策讨论的多层次；Vandal对Rumyantsev、Speransky与反法派的解释仍需独立同期通信校验。政治压力真实存在的叙述，不是法国可控制俄国继承或政变的可执行证据。[D3、D5后接Speransky段]
+
+## 七、不打1812，冷和平可以维持多久？
+
+【裁量】不能给出有史料支撑的固定年数。最稳妥的是报告维持条件与危机触发器，而非承诺延续到1830或1848。
+
+### 短期：避免马上摊牌
+
+【模型推演｜条件】若法国停止向俄边境施压、给予贸易实质空间，俄国停止利用前沿集结创造进攻机会，谈判可使双方免于1812式全面入侵。其同期锚点是1811双方通融及Nesselrode备忘录。第三方担保、逐步互惠撤军、履约通报是从该文书发展出的执行机制，**其具体监察制度为本报告设计，不是已经拟好的历史附件**。[D3–D4]
+
+### 中期：和平既减压，也再造挑战者
+
+【事实｜文书自述】Nesselrode期待和平让俄奥“rétablir leurs finances et leurs armées”，并重建欧洲均势。[D3]
+
+【模型推演】因此冷和平不会冻结力量分配。法国获得免战收益，俄奥同样获得；法国若把对方恢复军力本身视为违约，就会重新制造预防战争压力。要维持和平，法国须区别“对方拥有独立军力”与“对方实际发动攻击”，放弃把一切制衡都当成应予消灭的敌意。
+
+### 长期：S2的真实边界
+
+【模型推演】稳定形态更接近法国主导西中欧、俄国保持自主、奥地利发挥担保／缓冲作用的竞争性秩序，而非法国支配全部欧洲。继承、波兰地位、普鲁士偿款撤军、海上贸易和奥斯曼利益都是重新议价节点；现有材料无法证明这些节点必然和平通过。[D3；区域外推留给C8/C13/C18]
+
+【裁量｜中等置信】条件性冷和平比要求沙皇在一次败仗后永久接受法国命令，更适合作为S2工作假设；但它**改变了“胜利”的定义**。若用户坚持“控制整个欧洲”包含俄罗斯的外交、贸易与军备从属，本卡没有找到具有充分证据与执行能力的路径。
+
+## 八、来源审计、引文与缺口
+
+### 8.1 承重来源（以下均实际读到相关正文）
+
+本地路径均相对项目根目录。数字转录未全部对校纸本影像；“转引”表示未见原档。各证据札记保留更详细段落。
+
+- **D1** Albert Vandal, *Napoléon et Alexandre Ier*, III，Gutenberg 32621，第一章，Alexander—Czartoryski条件性进攻段；`downloads/pages/cd494198d45d.md`行约240–246。原句：“Mais tout change de face si les Polonais veulent se joindre à moi.” https://www.gutenberg.org/cache/epub/32621/pg32621-images.html 。信件转引自Vandal，未亲阅原信。
+- **D2** Vandal，同书II，Plon第三版1894，Gutenberg 31260；波兰公约段行1464–1472、反提案段1830–1844，婚姻段1216附近；`downloads/pages/35dcb892b38d.md`。原句：“Le royaume de Pologne ne sera jamais rétabli.” https://www.gutenberg.org/files/31260/31260-h/31260-h.htm 。公约及通信为转引，非原折。
+- **D3** Vandal III，**附录III**，*Rapport du comte de Nesselrode à l’empereur Alexandre Ier (octobre 1811)*，注670标“Archives de Saint-Pétersbourg”；`downloads/c12_vandal3_full.txt`行20965–21287，完整报告已读。原句：“comme nulle idée d’agression, même dans un but purement défensif, n’entre dans ses vues”；“que l’Autriche soit invitée à le garantir”；“rétablir leurs finances et leurs armées”。https://www.gutenberg.org/cache/epub/32621/pg32621.txt 。更正早期日志所写附录II。俄文转录`e19174f0f234.md`不是独立来源。
+- **D4** Vandal III第二章IV，注121–124，`cd494198d45d.md`行564–590。法方指示：“Obtenez, Monsieur, … l’assurance secrète que ce brûlement ne sera pas exécuté sur les marchandises françaises.” 通商条件：“à la condition d’exporter une pareille valeur en bois, chanvre, fer, or et autres productions de la Russie.” 引注谱系：*Correspondance* 17366、AN AF IV 1699、AAE Russie 152，均转引。**该句未列粮食，故不把粮食出口特惠冒充已核条款。**
+- **D5** Vandal III，1812年4月8日俄方照会段，注456，完整TXT行12815–12880；引注AAE Russie 154。原句：“comme condition nécessaire et préalable … l’évacuation intégrale de la Prusse”。撤军先于实体谈判是作者转录／叙述；俄方故意激战的归因另属Vandal解释。
+- **E1** N. N. Troshin, “Россия в Континентальной блокаде: экономические последствия”, *Национальная безопасность* 6(41), 2015, pp.851–862, DOI 10.7256/2073-8560.2015.6.12430；`downloads/c12_troshin2015.pdf`，doc `c17e7379cc37`。p.856：“индекс условий торговли поднялся с 0,43 до 0,69”；随后记1810至0.74。https://en.nbpublish.com/library_get_pdf.php?id=35678 。表1不作冻结数据。
+- **E2** N. A. Makarov，*The State of Russian Foreign Trade at the End of 1808–1809 (According to A. B. Kurakin’s Dispatches)*，2024论文，网页于2025年发布，pp.15–24，实读相关pp.17–22；`downloads/c12_makarov2024.pdf`，doc `81a9135182a0`。https://vestnik-historicalsciences.mgpu.ru/wp-content/uploads/sites/2/2025/01/makarov-n-a.pdf 。АВПРИ Ф.133 Оп.468 Д.9000、9022等仅按作者转引，未阅原档。
+- **M1** Caulaincourt, *With Napoleon in Russia*, George Libaire英译节编，1935版权，Grosset & Dunlap重印年未定；pp.4–7、67、73、75–81；`downloads/pages/eed9ab647f9a.md`。原句p.75：“I will establish my headquarters at Witepsk. I will raise Poland in arms…”；p.73：“Only ten days had elapsed … ten or twelve leagues for fodder.” https://archive.org/stream/in.ernet.dli.2015.58850/2015.58850.With-Napoleon-In-Russia-The-Memoirs-Of-General-De-Caulaincourt-Duke-Of-Vicenza_djvu.txt 。**回溯性；不是法文卷I页码。**
+- **M2** Clausewitz, *The Campaign of 1812 in Russia*, London: John Murray, 1843英译，pp.256–259；`downloads/pages/6635f608e21d.md`行6046–6109。原句：“Extraordinary efforts on the part of the citizens of a state have their limits”。https://clausewitzstudies.org/readings/1812/Clausewitz-CampaignOf1812inRussia-EllesmereTranslation.pdf 。战后分析；p.258由257/259页眉夹定，待影像核。
+- **M3** Martin van Creveld, *Supplying War*, CUP 1977版，pp.65–70；`downloads/pages/5b7b985b0f78.md`，索引doc同名，虚拟页14。p.67：“the worst shortages were experienced during the first two weeks of the advance”；p.70仍列长交通线与距离约束。https://vdoc.pub/documents/supplying-war-logistics-from-wallenstein-to-patton-28jjb479976g 。第三方OCR，不假称原账核算。
+- **P1** Dawid Madziar，“„Królestwo Polskie przywrócone”…”, *Meritum* VIII (2016), pp.113–130；宣言讨论脚注24–27，`downloads/pages/ce13bc8c21a9.md`行163–199。原句：“Królestwo Polskie jest przywrócone, Naród Polski na nowo w jedno ciało złączone”。转引Kallas 1989议会记录p.149，底本未读。https://bibliotekanauki.pl/articles/540558.pdf 。
+- **P2** *Œuvres de Napoléon Bonaparte*, V, Livre septième，7月16日第七号战报所载答Wibicki，Gutenberg 13475，`downloads/pages/4ba9714f9fde.md`行335–348。原句：“j’ai garanti à l’empereur d’Autriche l’intégrité de ses états”。https://www.gutenberg.org/cache/epub/13475/pg13475-images.html 。接见的7月11日日期本轮未独立核，不与战报日期混同。
+- **P3** Dariusz Nawrot，“Komitet Wojskowy na Litwie w 1812 r.”，*Studia i Materiały* VIII, Warszawa 2018，pp.281–283、295–296；`downloads/pages/9af33326aacf.md`。p.295：“ponad 20-tysięczne siły zbrojne”；“około 12,5 tys. ludzi, na dzień 1 grudnia 1812 r.”。https://academic-journals.eu/pl/download?path=%2Fuploads%2FZm9sZGVycHVibWVkaWE%3D%2Fdocuments%2Fstudia_i_materialy_viii_nawrot_komitet_wojskowy_na_litwie_w_1812.pdf 。档号B Czart. ew.3225、RGADA f.12 b.262 cz.5、AN AF IV 1643 pl.2 nr46均转引。
+- **P4** *Œuvres* V，同P2，1812年12月20日“Au Sénat”；`4ba9714f9fde.md`行1076–1096。原句：“J’aurais pu armer … en proclamant la liberté des esclaves … je me suis refusé à cette mesure”。**同期发表但回顾战役的公开自辩**；其声称的村庄请求和动员能力未经独立证实。
+- **R1** Charles Esdaile，“The Bear Against The Cockrel”, *Literary Review* 2009，书评正文第三段；`downloads/pages/a5b15e70c82c.md`；https://web.archive.org/web/20130605171204/http:/www.literaryreview.co.uk/esdaile_10_09.html 。转述Lieven，不是Lieven原句。
+- **R2** Geoffrey Hosking，“Peasants in Arms”, *LRB* 31(23)，段首“One might then ask…”、“The war against Napoleon…”及“Organisational miracles…”；`downloads/pages/83fff8e6b841.md`。https://www.lrb.co.uk/the-paper/v31/n23/geoffrey-hosking/peasants-in-arms 。原句：“The huge distances also meant that the mobilisation of resources was slow and cumbersome.”
+- **R3** M. I. Bogdanovich，*История Отечественной войны 1812 года по достоверным источникам*, I，1859，章II“Протест императора Александра”／“Новый русский тариф”；LitObr 2021加工本，`downloads/pages/289211c6dcdf.md`。原句：“по 12 статье Тильзитского договора…”；贸易指示：“должна действовать самостоятельно”。https://litobr.ru/History_Bogdanovich_isotia_voiny_1812_goda/1-2_Prichiny_voiny_1812_goda.htm 。卷I章III缓存`8f2c112edf2d.md`，数字未冻结。**Vandal注79亦引Bogdanovich德译，对重叠叙述不可算独立双证。**
+- **R4** Ana-Maria Lepăr，“Bucharest during the Peace of 1812”, *Hiperboreea* 2(2), 2015, pp.122–132；已读pp.122–124相关段，`downloads/pages/45dd82f748a7.md`。p.124：“on 16th/28th of May 1812 … officially signed”。https://docslib.org/doc/8863344/bucharest-during-the-peace-of-1812-ana-maria-lep%C4%83r-abstract 。正式条约底本经其转引，未读。
+- **R5** G. I. Gerasimova，“Абоский Договор”，署名研究条目，2013，`downloads/pages/b1d3de43f219.md`。原句：“Хотя в своей военной части Абоский Договор остался нереализованным”。https://imha.ru/1144538697-aboskiy-dogovor.html 。条目引用*Внешняя политика России* VI (1962), doc.230, pp.545–550，未亲读。
+- **R6** Marie-Pierre Rey，“Russian Campaign, French Campaign, 1812–1814”, EHNE，`downloads/pages/5e89d50c1e0b.md`，小节“1812, the Russian campaign”。https://ehne.fr/en/node/12209/printable/pdf 。原句：“Faced with the czar’s refusal to open negotiations…”；作者短文不是其专著，其伤亡数字、火灾归责未纳入本卡冻结。

@@ -1,0 +1,69 @@
+## Sheet: B3_capacity.csv (continued)
+section,scenario,year,metric,value_low,value_high,unit,source,locator,note
+observation,S0,1821,Hume_gross_navy_estimate,6382786,6382786,nominal_GBP,H21,No28;1821-06-27,Quoted Annual Estimates; not including old-store deductions
+observation,S0,1826,Hansard_aggregate_estimate,6135004,6135004,nominal_GBP,HPOST,1826-02-21 vol14 cc678-689,Hume amendment; not outturn; network table string corrupt
+observation,S0,1830,Hansard_aggregate_estimate,5595000,5595000,nominal_GBP,HPOST,1830-03-01 vol22 cc1121-1143,Oral rounded total; not exact grant or outturn
+observation,S0,1815,Hume_voted_build_repair_wear_total,4499193,4499193,nominal_GBP,H21,No32;1821-06-27,Includes wear/repairs/stores; not new construction only;1820 wear differs3 from H1820
+observation,S0,1816,Hume_voted_build_repair_wear_total,3023270,3023270,nominal_GBP,H21,No32;1821-06-27,Includes wear/repairs/stores; not new construction only;1820 wear differs3 from H1820
+observation,S0,1817,Hume_voted_build_repair_wear_total,2034952,2034952,nominal_GBP,H21,No32;1821-06-27,Includes wear/repairs/stores; not new construction only;1820 wear differs3 from H1820
+observation,S0,1818,Hume_voted_build_repair_wear_total,2099990,2099990,nominal_GBP,H21,No32;1821-06-27,Includes wear/repairs/stores; not new construction only;1820 wear differs3 from H1820
+observation,S0,1819,Hume_voted_build_repair_wear_total,1988430,1988430,nominal_GBP,H21,No32;1821-06-27,Includes wear/repairs/stores; not new construction only;1820 wear differs3 from H1820
+observation,S0,1820,Hume_voted_build_repair_wear_total,2065533,2065533,nominal_GBP,H21,No32;1821-06-27,Includes wear/repairs/stores; not new construction only;1820 wear differs3 from H1820
+observation,S0,1821,Hume_voted_build_repair_wear_total,1990880,1990880,nominal_GBP,H21,No32;1821-06-27,Includes wear/repairs/stores; not new construction only;1820 wear differs3 from H1820
+model,P0,1815-1830,commissioned_line,15,15,ships,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,P0,1815-1830,commissioned_frigates,25,25,ships,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,P0,1815-1830,commissioned_small_cruisers,60,60,ships,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,P0,1815-1830,other_personnel,7000,7000,persons,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,P0,1815-1830,total_personnel,30350,30350,persons,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,P0,1815-1830,annual_planning_cost,6579750,9186750,GBP_at_1812_cost_level,B3_assumption,"K+[85,105]*M","K=[4m,6m]; one-anchor compatibility not parameter identification"
+model,A_low,1815-1830,commissioned_line,45,45,ships,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,A_low,1815-1830,commissioned_frigates,50,50,ships,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,A_low,1815-1830,commissioned_small_cruisers,60,60,ships,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,A_low,1815-1830,other_personnel,10000,10000,persons,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,A_low,1815-1830,total_personnel,59850,59850,persons,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,A_low,1815-1830,annual_planning_cost,9087250,12284250,GBP_at_1812_cost_level,B3_assumption,"K+[85,105]*M","K=[4m,6m]; one-anchor compatibility not parameter identification"
+model,A_high,1815-1830,commissioned_line,70,70,ships,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,A_high,1815-1830,commissioned_frigates,75,75,ships,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,A_high,1815-1830,commissioned_small_cruisers,90,90,ships,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,A_high,1815-1830,other_personnel,12000,12000,persons,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,A_high,1815-1830,total_personnel,88400,88400,persons,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,A_high,1815-1830,annual_planning_cost,11514000,15282000,GBP_at_1812_cost_level,B3_assumption,"K+[85,105]*M","K=[4m,6m]; one-anchor compatibility not parameter identification"
+model,W_low,1815-1830,commissioned_line,100,100,ships,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,W_low,1815-1830,commissioned_frigates,100,100,ships,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,W_low,1815-1830,commissioned_small_cruisers,200,200,ships,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,W_low,1815-1830,other_personnel,15000,15000,persons,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,W_low,1815-1830,total_personnel,130000,130000,persons,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,W_low,1815-1830,annual_planning_cost,15050000,19650000,GBP_at_1812_cost_level,B3_assumption,"K+[85,105]*M","K=[4m,6m]; one-anchor compatibility not parameter identification"
+model,W_high,1815-1830,commissioned_line,115,115,ships,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,W_high,1815-1830,commissioned_frigates,115,115,ships,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,W_high,1815-1830,commissioned_small_cruisers,230,230,ships,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,W_high,1815-1830,other_personnel,15000,15000,persons,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,W_high,1815-1830,total_personnel,147250,147250,persons,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,W_high,1815-1830,annual_planning_cost,16516250,21461250,GBP_at_1812_cost_level,B3_assumption,"K+[85,105]*M","K=[4m,6m]; one-anchor compatibility not parameter identification"
+model,E,1815-1830,commissioned_line,125,125,ships,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,E,1815-1830,commissioned_frigates,125,125,ships,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,E,1815-1830,commissioned_small_cruisers,260,260,ships,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,E,1815-1830,other_personnel,16000,16000,persons,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,E,1815-1830,total_personnel,160850,160850,persons,B3_assumption,model_assumptions.md:personnel,Not a historical establishment; correlated package; all onboard marines included
+model,E,1815-1830,annual_planning_cost,17672250,22889250,GBP_at_1812_cost_level,B3_assumption,"K+[85,105]*M","K=[4m,6m]; one-anchor compatibility not parameter identification"
+model,F_pressure_40,1815-1830,required_UK_sea_line_hulls,68,98,ships,B3_assumption,ceil((rF+g)/a),"F is hostile deployable pressure not ledger hulls; necessary not sufficient; r=[1.05,1.20],g=[15,25],a=[.75,.85]"
+model,F_pressure_40,1815-1830,required_UK_task_lines,57,73,ships,B3_assumption,ceil(rF+g),I must at least cover this need; peaceful French training not automatically hostile pressure
+model,F_pressure_60,1815-1830,required_UK_sea_line_hulls,92,130,ships,B3_assumption,ceil((rF+g)/a),"F is hostile deployable pressure not ledger hulls; necessary not sufficient; r=[1.05,1.20],g=[15,25],a=[.75,.85]"
+model,F_pressure_60,1815-1830,required_UK_task_lines,78,97,ships,B3_assumption,ceil(rF+g),I must at least cover this need; peaceful French training not automatically hostile pressure
+model,F_pressure_80,1815-1830,required_UK_sea_line_hulls,117,162,ships,B3_assumption,ceil((rF+g)/a),"F is hostile deployable pressure not ledger hulls; necessary not sufficient; r=[1.05,1.20],g=[15,25],a=[.75,.85]"
+model,F_pressure_80,1815-1830,required_UK_task_lines,99,121,ships,B3_assumption,ceil(rF+g),I must at least cover this need; peaceful French training not automatically hostile pressure
+model,F_pressure_100,1815-1830,required_UK_sea_line_hulls,142,194,ships,B3_assumption,ceil((rF+g)/a),"F is hostile deployable pressure not ledger hulls; necessary not sufficient; r=[1.05,1.20],g=[15,25],a=[.75,.85]"
+model,F_pressure_100,1815-1830,required_UK_task_lines,120,145,ships,B3_assumption,ceil(rF+g),I must at least cover this need; peaceful French training not automatically hostile pressure
+observation,S0,1809,line_sea_commission,113,113,ships,J17,Abstract17:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1809,line_sea_ordinary,14,14,ships,J17,Abstract17:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1809,line_sea_total,127,127,ships,J17,Abstract17:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1809,line_harbour_commission,28,28,ships,J17,Abstract17:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1809,line_harbour_ordinary,40,40,ships,J17,Abstract17:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1809,line_building_or_ordered,47,47,ships,J17,Abstract17:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1809,line_grand_total,242,242,ships,J17,Abstract17:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1809,line_sea_commission_tons,199712,199712,James_tons_burthen,J17,Abstract17:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1809,line_sea_ordinary_tons,26145,26145,James_tons_burthen,J17,Abstract17:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1809,line_sea_total_tons,225857,225857,James_tons_burthen,J17,Abstract17:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1809,all_cruisers_including_line_sea_commission,684,684,ships,J17,Abstract17:Cruisers,Includes Line
+observation,S0,1809,all_cruisers_including_line_sea_ordinary,44,44,ships,J17,Abstract17:Cruisers,Includes Line
+observation,S0,1809,all_cruisers_including_line_sea_total,728,728,ships,J17,Abstract17:Cruisers,Includes Line

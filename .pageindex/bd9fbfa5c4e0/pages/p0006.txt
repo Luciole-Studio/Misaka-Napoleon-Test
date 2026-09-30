@@ -1,0 +1,36 @@
+
+
+[Historic Agents' scores](https://www.bankofengland.co.uk/-/media/boe/files/agents-summary/historic-agents-scores.xlsx)
+
+## A millennium of macroeconomic data
+
+The dataset contains a broad set of macroeconomic and financial data for the UK stretching back in some cases to the C13th and with one or two benchmark estimates available for 1086, the year of the Domesday Book. The dataset was originally called the 'Three centuries of macroeconomic data' spreadsheet but has now been renamed given its broader coverage. Version 3.1 of the dataset has now been updated to 2016.
+
+[A millennium of macroeconomic data (28MB)](https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-the-uk.xlsx)
+The spreadsheet was originally constructed alongside a Quarterly Bulletin article in 2010 that contains a number of charts of the data.
+
+[The UK recession in context — what do three centuries of data tell us?](https://www.bankofengland.co.uk/quarterly-bulletin/2010/q4/the-uk-recession-in-context-what-do-three-centuries-of-data-tell-us)
+
+For more information, please email ryland.thomas@bankofengland.co.uk.
+
+## The Bank of England’s balance sheet
+
+Historical data on our balance sheet is available in three spreadsheets. The first includes annual data from 1696 to 2019. The second contains weekly data on the Banking and Issue Department balance sheets from 1844 to 2006. The third focuses on the Bank’s operations as a lender of last resort over the 1844 to 1914 period based on a recent [Staff Working Paper](https://www.bankofengland.co.uk/working-paper/2017/the-bank-of-england-as-lender-of-last-resort-new-historical-evidence-from-daily-transactional-data).
+
+[Annual data on the Bank of England's balance sheet, 1696 to 2019](https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/annual-data-on-the-boes-balance-sheet.xlsx)
+
+[Weekly data on the Bank of England's balance sheet, 1844 to 2006](https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/weekly-data-on-the-boes-balance-sheet-1844-to-2006.xlsx)
+
+[The Bank of England as Lender of Last Resort Historical dataset](https://www.bankofengland.co.uk/-/media/boe/files/research/the-bank-of-england-as-lender-of-last-resort-historical-dataset.xlsx)
+
+The weekly data can be used alongside our digitised [daily account books](https://www.bankofengland.co.uk/archive/daily-account-books), which provide even more detail on our balance sheet from 1851 to 1983.
+
+For more information, please email ryland.thomas@bankofengland.co.uk.
+
+## Quantitative easing data
+
+This dataset contains data on our [quantitative easing programme](https://www.bankofengland.co.uk/monetary-policy/quantitative-easing), known as the asset purchase facility (APF).
+
+[QE related data](https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/qe-related-data.xlsx)
+
+We also publish daily [yield curve estimates](https://www.bankofengland.co.uk/statistics/yield-curves), which may be useful for analysing the impact of quantitative easing.

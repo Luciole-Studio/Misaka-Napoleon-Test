@@ -1,0 +1,64 @@
+back of the complete sample regressions is the comparison of heterogenous regions that undertook very
+
+different paths of socio-economic development even before the treatment. To reduce heterogeneity in
+
+the sample, I then compare only regions located at a maximal distance of 50 km to a border. This border
+
+separates those regions that kept the code for about 90 years from those in which the Code was either
+
+never introduced or dismissed in 1815, after the Congress of Vienna. The results confirm the findings
+
+from the complete sample analysis: Treated regions exhibit higher levels of trust in the SOEP data. This
+
+is remarkable, as one would expect - in the absence of any treatment - spatially closely located individu-
+
+als to be relatively similar in their attitudes. Indeed, a falsification test confirms this presumption. When
+
+the border is moved artificially outwards to the North-East or inwards to the South-West and a placebo
+
+treatment constructed, individuals in placebo treated regions do not show significant differences in trust
+
+levels.
+
+I try to dismiss further doubts about the independence of the treatment with pre-treatment regional char-
+
+acteristics by comparing regional pre-treatment means of a set of variables identified by the literature
+
+as historical determinants of current levels of social trust. Treated and untreated regions turn out to not
+
+differ significantly with respect to those dimensions.
+
+Arguably, the period of Napoleonic occupation did not only alter the law. In addition, the administration,
+
+as well as the educational system were changed and old elites removed. My treatment variable, which
+
+acts like a regional fixed effect, might rather proxy for the legacy of those changes. While I cannot
+
+control quantitatively for all unobserved regional heterogeneity, those factors are likely of subordinate
+
+importance compared to the legacy of the Napoleonic Code Civil. This is for a simple reason: Unlike
+
+the other reforms Napoleon introduced, the Code Civil lasted even after the Napoleonic retreat in 1815
+
+for several decades. While possible, it is not very probable, that the short run-reforms were the main
+
+driver of the long-run change in beliefs. Historical evidence I will present supports this interpretation.
+
+Moreover, the results hold true even within a the formal borders of the Prussian kingdom, in other words
+
+holding kingdom characteristics constant.
+
+The second part of the paper aims at shedding light on a possible channel and the immediate effects of
+
+the Napoleonic institutions on cooperation in the 19th century. I first look at potential effects on eco-
+
+nomic cooperation, focusing on sectors in which people interact frequently in business relations and rely
+
+on trust and reciprocity, such as in trade, factory employment and craft. Indeed, treated regions show
+
+a higher fraction of the population working as traders, factory workers or as craftsmen. To further test,
+
+whether cooperation inside the work environment spilled over on cooperation outside the work-place, I
+
+
+                                                     4

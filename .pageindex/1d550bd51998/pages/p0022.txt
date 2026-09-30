@@ -1,0 +1,45 @@
+      The choice of this model was motivated by the results of the ADF tests performed on the
+French yields, where the inclusion of an intercept and a trend seems to correct for the presence
+of a unit root. Finally, our series of yields shows significant autocorrelation up to lags as high as
+thirty12; therefore we include the lagged dependent variable in the right side of the equation.
+
+      Results are provided in Table 4 for a trimming parameter of   0.10 and a maximum
+number of breaks equal to 8 which corresponds to segments with a minimum length13 equal to
+55.
+
+                                               Insert Table 4 about here
+
+      First of all, both the supF tests and the double maximum tests ( UDmax and WDmax ) of no
+break allow rejection of the null hypothesis at the 5% conventional risk level. Hence, there is at
+least one break point in our yield series. Regarding the exact number of breaks the three criteria
+(BIC, LWZ, and sequential procedure) select 4, 6 and 5 breaks respectively. Following Bai and
+Perron’s recommendations, namely in the presence of serial correlation, we choose to discuss the
+sequential estimates of the breaks, i.e. 5 breaks.
+
+      The first break falls on February 7, 1817 and has a confidence interval of one observation
+before and one after the exact location the observed break. Historically, this date corresponds to
+Baring and Hope & Company issuing the first tranche of a loan which made the payment of the
+indemnity possible and may therefore explain the descending pattern of the yields.
+
+      The loan was important in many respects. First, it allowed France to pay the due installment
+of the war indemnity. Second, this payment was also linked to the withdrawal of 30,000 troops
+from the occupied part of the country. Third, it showed that foreign investors were recognizing
+the improvement in French public finances and future prospects. The fact that foreign
+underwriters had agreed to take interest in the loan was regularly mentioned (Aglan, 2006). At the
+time, the Duke of Richelieu went as far as to say that Baring was one of the six main powers in
+Europe jointly with Britain, France, Austria-Hungary, Russia and Prussia (Ahamed, 2010). Baring
+was indeed one of the leading underwriters (Flandreau and Flores, 2010). Eventually, this issue
+
+
+
+12 For space reasons, we choose not to report the results of the Ljung-Box Q-statistics; they are however available
+
+upon request.
+13 The choice of these trimming parameters was dictated by Bai and Perron recommendations; as our sample is
+
+composed by 550 weekly observations we chose segments long enough to provide statistically significant evidence
+and avoid short lived noise being treated as a break. Meanwhile, the use of too long periods potentially leads to
+missing “true shifts” in the series. However, we performed our computation with several other values for the
+trimming parameters and the results are similar.
+
+                                                                                                                21

@@ -1,0 +1,46 @@
+174   MICHAEL KOPSIDIS AND DANIEL W. BROMLEY
+
+
+
+serfdom? When is official abolition of urban guilds really effective, and how does
+one separate those effects from other institutional reforms?11
+   These difficult empirical problems doom efforts such as those of ACJR to
+identify four separate institutional changes, and then to anchor those changes
+in a particular polity at a specific time. But more serious problems loom for
+both the ACJR theoretical model – imposed and then ‘defensive’ institutional
+change – and their econometric strategies predicated on that model. First, we
+have already shown that institutional changes in the 11 non-treated polities of
+Germany generally occurred at the same time – and thus had the same time to
+effect change – as was the case in the polities subjected to French occupation.
+Our corrected vintages in the two control regions have the effect of increasing the
+reform indices in the two control regions – and in several polities these reforms
+in the control region occurred before reforms in the treated region. To stress
+the point, some polities in the control regions show earlier and more durable
+institutional changes than do polities in the ‘treatment’ region. This result runs
+counter to the ACJR theoretical model.
+   The more serious flaw in the ACJR econometric model, however, concerns
+the very notion of implied causality between the vintage of a particular
+institutional change and altered behaviors capable of producing industrialization
+and urbanization nearly one-half century off into the future. Notice that it would
+make no difference to the ACJR econometric model if the events coded at specific
+times by us or by ACJR – rather than depicting particular institutional changes
+– had been the declaration of three new public holidays taking effect in each
+polity. On this view, it should be obvious that the ACJR model would be unable
+to distinguish between the sudden announcement of these particular holidays –
+or one of their three institutional reforms. Would it follow that the establishment
+of three public holidays at different dates in the 19 polities was implicated in
+boosting industrialization beginning in 1850? In the absence of a clear causal
+model, the ACJR claims of causality are illusory.
+
+
+4. Confronting the ACJR econometric model
+Consider now the econometric model at the heart of the ACJR theoretical
+approach. They deploy a standard two-stage least-squares model of the form:
+                                  Yit = αi + δt + βXit + εit                                     (1)
+where Yit is the dependent variable (urbrate), αi and δt are fixed effects and time
+effects, respectively, Xit is the treatment variable of interest (yearsref ), and εit
+is an error term. Given usual concerns of potential correlation between Xit and
+
+   11 Voigtlander and Voth (2012) document the difficulty in identifying ‘standardized’ institutional
+arrangements as distinct from ‘locally sanctioned’ institutional arrangements – in this case medieval
+anti-Semitism.

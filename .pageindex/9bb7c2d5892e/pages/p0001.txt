@@ -1,0 +1,77 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: trade_sensitivity.csv
+
+```meta
+▸ table "trade_sensitivity.csv" (60 data rows)
+▸ columns
+    year: num, min=1808, max=1811
+    Europe_proxy: str, 3 uniq: ['E_mixed', 'E_narrow', 'north_europe']
+    restAmerica_increment_GBPm: num, min=1.06, max=7.13
+    European_loss_GBPm: num, min=-3.58, max=6.07
+    assumed_formalEmpire_share_of_increment: num, min=0, max=1
+    allocated_increment_GBPm: num, min=0, max=7.13
+    offset_ratio_if_loss_positive: str, 30 uniq, first 20: ['0.0000', '0.0437', '0.0873', '0.1310', '0.1380', '0.1746', '0.2440', '0.2639', '0.2760', '0.4141', '0.4406', '0.4880', '0.5277', '0.5521', '0.7321', '0.7916', '0.8812', '0.9532', '0.9761', '1.0555']
+    alpha_needed_for_full_offset_if_loss_positive: str, 8 uniq: ['0.0589', '0.2623', '0.5674', '0.9475', '1.0245', '1.8113', '5.7264', 'NA']
+```
+year,Europe_proxy,restAmerica_increment_GBPm,European_loss_GBPm,assumed_formalEmpire_share_of_increment,allocated_increment_GBPm,offset_ratio_if_loss_positive,alpha_needed_for_full_offset_if_loss_positive
+1808,north_europe,5.71,5.41,0,0.00,0.0000,0.9475
+1808,north_europe,5.71,5.41,0.25,1.4275,0.2639,0.9475
+1808,north_europe,5.71,5.41,0.5,2.855,0.5277,0.9475
+1808,north_europe,5.71,5.41,0.75,4.2825,0.7916,0.9475
+1808,north_europe,5.71,5.41,1,5.71,1.0555,0.9475
+1808,E_narrow,5.71,5.85,0,0.00,0.0000,1.0245
+1808,E_narrow,5.71,5.85,0.25,1.4275,0.2440,1.0245
+1808,E_narrow,5.71,5.85,0.5,2.855,0.4880,1.0245
+1808,E_narrow,5.71,5.85,0.75,4.2825,0.7321,1.0245
+1808,E_narrow,5.71,5.85,1,5.71,0.9761,1.0245
+1808,E_mixed,5.71,3.24,0,0.00,0.0000,0.5674
+1808,E_mixed,5.71,3.24,0.25,1.4275,0.4406,0.5674
+1808,E_mixed,5.71,3.24,0.5,2.855,0.8812,0.5674
+1808,E_mixed,5.71,3.24,0.75,4.2825,1.3218,0.5674
+1808,E_mixed,5.71,3.24,1,5.71,1.7623,0.5674
+1809,north_europe,7.13,1.87,0,0.00,0.0000,0.2623
+1809,north_europe,7.13,1.87,0.25,1.7825,0.9532,0.2623
+1809,north_europe,7.13,1.87,0.5,3.565,1.9064,0.2623
+1809,north_europe,7.13,1.87,0.75,5.3475,2.8596,0.2623
+1809,north_europe,7.13,1.87,1,7.13,3.8128,0.2623
+1809,E_narrow,7.13,0.42,0,0.00,0.0000,0.0589
+1809,E_narrow,7.13,0.42,0.25,1.7825,4.2440,0.0589
+1809,E_narrow,7.13,0.42,0.5,3.565,8.4881,0.0589
+1809,E_narrow,7.13,0.42,0.75,5.3475,12.7321,0.0589
+1809,E_narrow,7.13,0.42,1,7.13,16.9762,0.0589
+1809,E_mixed,7.13,-3.58,0,0.00,NA_no_loss,NA
+1809,E_mixed,7.13,-3.58,0.25,1.7825,NA_no_loss,NA
+1809,E_mixed,7.13,-3.58,0.5,3.565,NA_no_loss,NA
+1809,E_mixed,7.13,-3.58,0.75,5.3475,NA_no_loss,NA
+1809,E_mixed,7.13,-3.58,1,7.13,NA_no_loss,NA
+1810,north_europe,4.76,-0.13,0,0.00,NA_no_loss,NA
+1810,north_europe,4.76,-0.13,0.25,1.1900,NA_no_loss,NA
+1810,north_europe,4.76,-0.13,0.5,2.380,NA_no_loss,NA
+1810,north_europe,4.76,-0.13,0.75,3.5700,NA_no_loss,NA
+1810,north_europe,4.76,-0.13,1,4.76,NA_no_loss,NA
+1810,E_narrow,4.76,-1.11,0,0.00,NA_no_loss,NA
+1810,E_narrow,4.76,-1.11,0.25,1.1900,NA_no_loss,NA
+1810,E_narrow,4.76,-1.11,0.5,2.380,NA_no_loss,NA
+1810,E_narrow,4.76,-1.11,0.75,3.5700,NA_no_loss,NA
+1810,E_narrow,4.76,-1.11,1,4.76,NA_no_loss,NA
+1810,E_mixed,4.76,-3.36,0,0.00,NA_no_loss,NA
+1810,E_mixed,4.76,-3.36,0.25,1.1900,NA_no_loss,NA
+1810,E_mixed,4.76,-3.36,0.5,2.380,NA_no_loss,NA
+1810,E_mixed,4.76,-3.36,0.75,3.5700,NA_no_loss,NA
+1810,E_mixed,4.76,-3.36,1,4.76,NA_no_loss,NA
+1811,north_europe,1.06,6.07,0,0.00,0.0000,5.7264
+1811,north_europe,1.06,6.07,0.25,0.2650,0.0437,5.7264
+1811,north_europe,1.06,6.07,0.5,0.530,0.0873,5.7264
+1811,north_europe,1.06,6.07,0.75,0.7950,0.1310,5.7264
+1811,north_europe,1.06,6.07,1,1.06,0.1746,5.7264
+1811,E_narrow,1.06,1.92,0,0.00,0.0000,1.8113
+1811,E_narrow,1.06,1.92,0.25,0.2650,0.1380,1.8113
+1811,E_narrow,1.06,1.92,0.5,0.530,0.2760,1.8113
+1811,E_narrow,1.06,1.92,0.75,0.7950,0.4141,1.8113
+1811,E_narrow,1.06,1.92,1,1.06,0.5521,1.8113
+1811,E_mixed,1.06,-0.57,0,0.00,NA_no_loss,NA
+1811,E_mixed,1.06,-0.57,0.25,0.2650,NA_no_loss,NA
+1811,E_mixed,1.06,-0.57,0.5,0.530,NA_no_loss,NA
+1811,E_mixed,1.06,-0.57,0.75,0.7950,NA_no_loss,NA
+1811,E_mixed,1.06,-0.57,1,1.06,NA_no_loss,NA

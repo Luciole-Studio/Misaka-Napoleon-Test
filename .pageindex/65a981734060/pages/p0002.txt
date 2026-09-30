@@ -1,0 +1,22 @@
+
+
+## 转引层（未读原书，经上列中介）
+
+- Simon Schama, *Patriots and Liberators* (1977) 及 "The Exigencies of War" (1975)——经Grab脚注（n.6,8,11-12,14,16-17,19-21,23-25,29-31,33）。卡片指定书目，未获全文（改判证据1所需）。
+- E.H. Kossmann, *The Low Countries 1780–1940*——经Grab n.13（债务760→1126m盾）与Hemstad。
+- Owen Connelly, *Napoleon's Satellite Kingdoms*——经Grab n.16,18,22。
+- Eli Heckscher, *The Continental System*——经Grab n.25（莱顿英货）。
+- Edouard Guillon, *Napoléon et la Suisse 1803–1815* (1910)——经Grab ch.7 n.2,8,17,19（3万失业等）。
+- E. Bonjour/Offler/Potter, *A Short History of Switzerland*；W. Oechsli；J. Dierauer；E. Gagliardi；J. Suratteau；L. Gossman——经Grab ch.7脚注。卡片指定的Bonjour未获原书。
+- Jonathan Helmreich, *Belgium and Europe*（比利时债务32m vs 荷兰20亿弗罗林）——经IIASA n.39。
+- M. Lok（2017）、J. Weijermars、Blom & Lamberts——经Hemstad。
+- Albert Maag, *Die Schicksale der Schweizerregimenter in Napoleons I. Feldzug nach Russland 1812* (Biel 1900)——书目条目（swisscollections）确认存在，未读；瑞士团在俄标准数来源，列为补核项。
+- Johan Joor, *De Adelaar en het Lam* (2000) 原书——经Verheijen n.23与Joor本人2009英文章节。
+- 卡片指定而完全未获层：A. Rufer（海尔维第研究）、J. Tulard《Le Grand Empire》、N.C.F. van Sas——其承担的论点（调停法研究、大帝国分层、荷兰1813政治文化）已由Grab/Monnier文献线、本卡一手文书与Hemstad-Verheijen覆盖，缺口在SOURCES正文与⑯已声明。
+
+## 上一轮与本轮复用
+
+- t_b09c54（r_b55f2c1cf5 C8）：荷兰1810退位/兼并文书链（`nodes/r_b55f2c1cf5/cards/t_b09c54/c8_cases_sources.md`）。
+- t_d604cd（r_b55f2c1cf5 C18）：查证为北欧/奥斯曼证据，本卡未实质复用（已在0b说明）。
+- F4 t_9f10b6（本轮）：Marion荷兰锚点与"目标非实收"口径、S6阈值表荷兰行（coordination_ledger）。
+- F2/F5/B3/F3（本轮，经coordination_ledger）：驻军类比参数、征额容忍带、海军口径——仅作接口引用，未改写其结论。

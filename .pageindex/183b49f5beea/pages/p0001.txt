@@ -1,0 +1,49 @@
+20 P. E. TETLOCK AND A. BELKIN
+
+don and Washington, it is not intuitively obvious that a tripolar world com-
+posed of the Soviet Union, the United States, and Britain would have been
+less stable than the actual bipolar world.
+
+(2) Shifting to economic history, Gould (1969) complains about the coun-
+terfactual, “If the Industrial Revolution had not occurred, the British stan-
+dard of living would have been lower than it was.” He observes:
+
+We cannot decide what we must subtract from the real past along with the Indus-
+trial Revolution. . . . In order to know what would have happened to income per
+head had the Industrial Revolution not occurred we need to know, amongst other
+things, what in such circumstances, would have happened to population, But to
+know what, in those same circumstances, would have happened to population we
+need to know, amongst other things, what would have happened to income per
+head.
+
+It is not clear that we can escape this “vicious circle.” At a minimum, we
+need to clarify the counterfactual antecedent by creating a “compound”
+(€.g., if the Industrial Revolution had not occurred and if British population
+‘grew at the same rate between 1750 and 1850, then . . . ) and by specifying
+what else would have to be different about this hypothetical Britain from
+which we have now “subtracted” two fundamental causal processes: indus-
+trial growth and rising population.
+
+These arguments are grist for the wholists mill. But in other cases, causal
+interconnectedness seems much thinner. Perhaps one reason why assassina-
+tions attract so much counterfactual attention is that it is so easy to imagine
+“getting away with” changing only a few causal antecedents and producing
+‘consequential result. It requires little rewriting of history to posit hypotheti-
+cal worlds in which Oswald missed his target or in which Kennedy chose to
+ride through Dallas in a car with a bulletproof roof. These possible worlds
+are only a muscle twitch or nightmare removed from the actual world.
+
+‘We run into similar conceptual problems on the consequent side of coun-
+terfactuals. Consider a variation of Pascal's conjecture on the causal impact
+of Cleopatra's nose on the course of Western history. Fearon (Chapter 2)
+concedes that “if Cleopatra had an unattractively large nose, World War I
+might not have occurred” but argues that the counterfactual hardly belongs
+in any reasonable explanatory account of World War I. If Cleopatra's nose
+were that consequential, the hypothetical world of 1914 is almost certainly
+not just a minor variant of the actual world of 1914, but rather a radically
+different world in which the nonoccurrence of World War I is but one of
+countless points of difference that go back 2,000 years. There might also be
+‘no Germany or Great Britain. Fearon proposes, as a pragmatic rule of evi-
+dence, that we seriously consider only those counterfactuals in which the
+antecedent seems likely to affect the specified consequent and very little
+else. This argument invokes a surgical-strike model of counterfactual infer-

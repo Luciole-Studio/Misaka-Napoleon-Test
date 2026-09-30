@@ -1,0 +1,50 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the"
+final_url: "https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the"
+provider: "parallel"
+text_sha256: "6b0171c6ed4881a3678f0e0cd6651f0a3d78c3520012cc179b994ce1e00ec46f"
+title: "PETITION FROM BIRMINGHAM AGAINST THE ORDERS IN COUNCIL. (Hansard, 17 April 1812)"
+content_kind: "excerpts"
+---
+
+# PETITION FROM BIRMINGHAM AGAINST THE ORDERS IN COUNCIL.
+HC Deb 17 April 1812 vol 22 cc425-40 [425](https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the "Col. 425 — HC Deb 17 April 1812 vol 22 c425")
+
+...
+
+Petition from several merchants, manufacturers, and other [426](https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the "Col.
+
+...
+
+the United Kingdom, and are decidedly of opinion that the Orders in Council, by closing their commercial intercourse with the United States of America, are a principal cause of the evils they deplore; and that they consider the system of licences as a virtual acknowledgment of the
+
+...
+
+Europe are closed, the commerce of the East, possessed by an exclusive monopoly, and the national expenditure unparalleled in the annals of the world, the Petitioners deem it incumbent upon them earnestly to recommend to the consideration of the House, the propriety of revoking those
+
+...
+
+England by the powerful affinities of common origin, similarity of language, laws and manners; and that, in the opinion of the Petitioners, the direct tendency of [427](https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the "Col.
+
+...
+
+Orders in Council; and that, if this destructive system be persisted in, thousands of laborious and respectable mechanics will inevitably be deprived of their present partial and precarious employment; and whilst the Petitioners deplore their distressed situation, aggravated by the
+advancing price of every necessary of life, their concern is greatly heightened by the consideration, that the capital of the merchants and manufacturers is rapidly absorbing in stock, constantly depreciating in value, their ability to participate in the increasing burdens of the
+
+...
+
+measures for obtaining a revocation of the Orders in Council."
+[§](https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the "Link to this contribution") On the motion that the Petition do lie on the table,
+
+...
+
+430 — HC Deb 17 April 1812 vol 22 c430") fitter time, when the necessary information was before them. The hon. gentleman had said, that for the value of 5 l .
+
+...
+
+[431](https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the "Col. 431 — HC Deb 17 April 1812 vol 22 c431") use of such a hard word as "starvation." Such an allegation ought not to go forth uncontradicted.
+
+...
+
+He had only further to notice, that the signers of this Petition were loyal men, who, if they were convinced that even their immediate privations were for the good of the country, would be content to retire from trade, and dig potatoes in their gardens.
+> [§](https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the "Link to this speech by Mr Samuel Whitbread") [Mr. Whitbread](https://api.parliament.uk/historic-hansard/people/mr-samuel-whitbread-2 "Mr Samuel Whitbread")conceded that the hon.

@@ -1,0 +1,44 @@
+
+
+### K5｜B2登陆清算与重建的条件模型
+- Sister10041，B2《英国财政》，`nodes/r_5b1357a9c6/cards/t_044211/B2_britain_fiscal.md`，执行摘要第4点、§15.2–15.3；本卡实际读三状态表及相邻机制（行255–279）。这是一项项目模型输入，不是一份独立历史原件。
+- 伦敦失守但政府/账簿/地方税网保全：数周至两季度清算危机、6–18个月替代清算重建；原报告明确时钟低置信、无1803–05撤离支付原件。中枢/承销/汇税俱失才推同战季政治交易或停付。
+- 机制：证券报价下跌→担保/承销缩水→商人清算困难→税款军需付款延迟。B1的1–3个月只在持续法军压力、有限条款与英方执行授权同时存在时成立，不由该模型直接算得。
+- 1803已在限制兑金时期，不能把1797暂停兑金当未使用的新工具。详`notes_capacity_update.md`。
+
+### K6｜B3舰队、人力与年度预算包络
+- Sister10040，本轮B3：`nodes/r_5b1357a9c6/cards/t_998052/model_assumptions.md`、`B3_calculations.json`全文已读；`B3_capacity.csv`已读字段与前段，未声称本卡复核全部279行。
+- 武装和平A_low/A_high包：战列舰45/70、巡防舰50/75、小巡航60/90、其他人员10,000/12,000；总人力59,850/88,400；成本£9.08725–15.282m/年（整个包络）。持续战争W_low/high：130,000/147,250人，成本£15.05–21.46125m/年。
+- 以上均为**1812成本水平的模型选择包**，不是未来名义英镑预测、统计识别或占领后即时能力。M=650L+280R+110C+O，K=£4–6m、v=£85–105/人年；单锚点不能分别识别K/v。
+- 有完整基地/信用/采购才可推多年监视；不用于声称Worcester迁移后能原样持续10–15年。原计算文件annual_source_loaded=false且自称metadata audit不是source validation，本卡不把它算独立史料认证。
+
+### K7｜Fremont-Barnes，海军指挥惯例与分散基地
+- Gregory Fremont-Barnes, *The Royal Navy 1793–1815*, Battle Orders 31, Osprey, 2007，pp.41–42、49–50。题页作者/年份已读OCR行65–73；承重组织段行1598–1669、基地段2325–2368。
+- https://epdf.tips/the-royal-navy-1793-1815.html ；`downloads/pages/7f93512d05f7.md`。由B3提示，本卡实读；无扫描视觉校验。
+- pp.41–42：“the new commander inherited the standing or unexecuted orders of his predecessor”；驻区司令可在非即时联系下供应、调舰、修理，但依赖内阁决定、议会拨款及承包商对最终付款的信任。
+- p.49：“Royal dockyards were situated at Portsmouth - the largest in the country - Plymouth and Chatham.”配套医院/军械设施不全在首都；Chatham并非脱离泰晤士风险的后方。p.50记Bermuda船坞1809才开始建设，不回填1804。
+- 证明组织/物质分散，不能证明已有1803撤离授权、迁都指令或无限供给。书关于印度疆域概述过简，本卡不采用该段地域判断。
+
+### H1｜Crouzet修正封锁轻描淡写论
+- W. H. Chaloner, review of François Crouzet, *L’économie britannique et le blocus continental (1806–1813)*，*Revue belge de philologie et d’histoire* 38(2), 1960, pp.525–526；本轮实读p.526文本。
+- https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2 ；`downloads/pages/e5b32951df65.md`，行39–58。
+- 原书p.855“ouragan ... toute l’économie britannique ... gênèrent sérieusement son effort de guerre”**转引此书评**，未得Crouzet专著正文。
+- 与Fortescue/1811部长抵抗叙述、Cookson地方动员、Butterfield外交博弈并列；本卡不以单个学派声望替代条件推理。
+
+## 五、1815–1848机制类比
+
+### W1｜Canning–Polignac，1823-10-09会谈备忘录
+- HC Deb 4 March 1824，vol.10，cc708–719，No.1承重cc708–712。
+- https://api.parliament.uk/historic-hansard/commons/1824/mar/04/communications-with-france-and-spain-1 ；`downloads/pages/3dbf2623d42f.md`；实际读文书起首与行28–67。
+- 对西班牙本国与殖民地战争可中立；外国参与是“an entirely new question”；武力/威胁可促“recognizing the latter without delay”；愿宗主国贸易优待、英国其后与列国同享最惠待遇。
+- 史实波旁复辟世界的公开文书，只作机制；不得自动制造无1808危机世界的相同独立国家和日期。
+
+### R1｜1832改革
+- UK Parliament，“The Reform Act 1832”；https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseofcommons/reformacts/overview/reformact1832/ ；`downloads/pages/3fee8d23eab4.md`，短页全文已读。
+- 中产财富、Grey政府、上院与增封贵族方案；改革仍排除多数劳动男性且正式规定男性资格。
+- 用来辨识政治联盟机制，不用“1832”强行钉住架空年月。
+
+### W2｜Malcolm Chase，1842宪章请愿
+- “The Chartist petition of 1842”，UK Parliament Petitions Committee，1 March 2016。
+- https://committees.parliament.uk/committee/326/petitions-committee/news/99148/the-chartist-petition-of-1842/ ；`downloads/pages/eed9d8bd2a73.md`；已读承重前段。
+- 1838 Charter、1839/1842/1848请愿；330万为该研究所报署名数，不等于已核独立人口。诉求涵工时、爱尔兰、宗教/政治自由与“class legislation”。

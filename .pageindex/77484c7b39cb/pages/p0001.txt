@@ -1,0 +1,37 @@
+# C11：英国登陆后防御与续战——证据笔记（部分取得，未达完整验收）
+
+## 交付状态与核心判断
+【事实：取得状态】先查 workspace downloads，未发现三部指定原书；原有 Fortescue 命中是卷VI题录及其他文章引用，不能充当卷V。此次取得并实读卷V的**零散OCR原文摘录**（不是连续相关页）、Glover《Britain at Bay》2021重印电子版第一章公开预览（无纸本页码）、Peter Hicks论文及Kevin Linch论文相关部分。**尚未满足“Fortescue相关页连续实读＋Glover/Cookson相关论述精确纸本页码”的完整要求。**以下不伪补页码。
+
+【裁量：高置信度】不能用全国登记人数代表登陆点可用野战兵；不能用伦敦失守直接推出投降。现有材料也不能证明政府曾安排赴加拿大续战。后一说法应从C11主干删除，除非另获当时预案。
+
+## 1. 已读可用证据
+
+### F：Fortescue，A History of the British Army, V, 1803–1807（Macmillan，1910）
+原书入口 https://archive.org/details/historyofbritisharm05fort 。IA题录统标1899，不应用作卷V出版年。抓取OCR正文有页眉，但提供商仅返回离散摘录，不能假装得到全书。
+
+- 【事实：文本所载】**纸本p.215**，可见页眉“ch.vii HISTORY OF THE ARMY 215”，讨论志愿兵武器不足引发服役豁免争议：原文“how it was possible for them to appear properly armed and accoutred when Government failed to supply arms and accoutrements.” 同页摘录记政府在1803年12月13日允许无武器操练计入豁免资格。证明登记/操练不等于已经配齐枪械，不提供缺枪总人数。
+- 【事实：定位而非读毕】原书目录将“Difficulty of Arming the Volunteers”列为pp.214–215，“Criticism of the Volunteer Force”列为pp.215–216；“Question of the Volunteers’ Right of Resignation”列为pp.213–214。摘录含1804年2月6日关于志愿兵自行辞役权的判定，但该段未与单页影像对校，暂只用页段定位。
+- 【文献推断：Fortescue；页码未定，不作正式引文】抓取到他用“half-armed, undisciplined rabble”评志愿兵的片段，且涉及一部出战、一部按服役条款留后的现象。语气是作者军事专业化立场，不能据此宣判所有志愿兵毫无用处。
+- 【事实：来源独立性】2014重排电子版保留作者序言：为节省篇幅，征募、兵力、民兵与志愿兵的一般资料出处移至其《The County Lieutenancies and the Army, 1803–1814》（1909）。所以两书是同一研究链，不算独立互证；现代重排版目录页码亦不得冒充1910纸本页码。
+
+保存：`downloads/pages/2a3664a3c30c.md`、`d234c679f667.md`、`3a3b4b535356.md`（摘录）；`867d22e67001.md`（Jina替代仍为摘录）；`0ce54ac10863.md`（2014版预览，主要为目录与印度章节）。
+
+### G：Richard Glover，Britain at Bay: Defence Against Bonaparte, 1803–14
+1973原版；本次实读2021 Routledge重印电子版第一章“Background”，小节“Dangers Confronting Britain”。公开预览 https://www.perlego.com/book/2567530/britain-at-bay-defence-against-bonaparte-180314-pdf 。保存 `downloads/pages/e0f217155fea.md`。
+
+- 【文献推断：Glover】明确反对“入侵威胁纯属虚张声势”及“特拉法加即永久终结入侵危险”。援引Keith在1803年10月给陆军总司令的警告（该书Doc.2）：法国舰队可能秘密离开Brest，在Downs或Margate Roads暂时压倒当地英舰，从而掩护登陆。**本次只见Glover引述，未见Doc.2全文，纸本页码缺。**
+- 【文献推断：Glover】第一章称直到1806年较晚时，Kent/Sussex海滩才有新的常设工事体系，此前主要依靠土筑炮位；因此不能把后来的Martello塔与运河成熟状态倒填进1803–05。具体竣工阶段仍需工程记录校验；Glover“1806完成可用”与通俗资料列运河1810完工之间，可能是投入使用与全部完工口径差，不擅自消解。
+- 【来源独立性】Glover在这里依托Keith通信并直接讨论Desbrière、Corbett，是另一论证链；但该预览**没有取得英国登陆后兵力表、伦敦决战/撤退部署及银行撤离章节**。不能声称Glover已核实这些项目。
+
+### H：Peter Hicks，The Militarisation of society in Georgian Britain and Napoleonic France
+Napoleonica. La Revue 2008/1，期刊题录pp.136–147，DOI 10.3917/napo.081.0006。实读PDF转换全文： https://shs.cairn.info/article/E_NAPO_081_0006/pdf?lang=en 。保存 `downloads/pages/70b17e18323a.md`。
+
+【文献推断：Cookson，转引自Hicks】Hicks PDF**自编号p.6、注6**引用Cookson（1997）**p.82**：“the volunteers starved the militia system, the militia starved the army and the army had negligible authority over the bulk of the country’s fighting men.” 这里只是可追溯转引，不算实读Cookson。
+
+同页Hicks报告1803年志愿兵约380,000人，并讨论小单位拒绝合并、拒绝出本地区、正规军指挥权不足及武器训练瓶颈。该数无明确同日统计口径，不能与其他书的350,000、480,000或全国总动员615,000直接相加/替换。Hicks是综述，相关论证依赖Cookson，不能把二者算两条独立证据。该文把后续志愿兵向民兵模式转变压缩处理，不用它确认具体解散日期。
+
+### L：Kevin Linch，An ‘Unpleasant Dilemma’: The Portsmouth Volunteers and the limits of loyalism, 1803–1805
+Journal for Eighteenth-Century Studies 40(3), 2017, pp.327–344；DOI 10.1111/1754-0208.12461。取得作者接受稿，实读“Portsmouth and its volunteers”与相关注释，**未读尽全文**。本次提取未保留逐页边界，不伪报刊本单页。定位用章节＋注号。
+https://eprints.whiterose.ac.uk/id/eprint/104015/3/The%20Portsmouth%20Volunteers%201803-1805%20article%20v2.pdf
+保存 `downloads/pages/f0bc4536ba86.md`。

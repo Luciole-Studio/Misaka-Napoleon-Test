@@ -1,0 +1,46 @@
+
+
+| | | | (1770s = 100) | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | Cloves | | | | Pepper | | | | Coffee | | | |
+| 1770s | | 100.0 | | | | | 100.0 | | | 100.0 | | | |
+| 1780s | | | NA | | | | 100.0 | | | 100.7 | | | |
+| 1790s | | | NA | | | | 82.2 | | | 100.0 | | | |
+| 1800s | | 131.6 | | | | | 153.4 | | | | 33.8 | | |
+| 1810s | | 131.6 | | | | | 134.4 | | | | 87.8 | | |
+| 1820s | | 266.5 | | | | | 118.8 | | | 143.2 | | | |
+
+Table 2. South East Asian silver prices, 1770s-1820s Source: Bulbeck et al. (1998), pp. 59, 84, 168.
+
+| | Pepper/wheat | | | | France | | | | | 66.53 | 216.36 | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | Britain | | | | -27.22 | | | -8.21 | |
+| | | | | | Holland | | | | | 1.41 | 119.46 | | |
+| | Pepper/textiles | | | | France | | | | | 19.10 | 109.82 | | |
+| | | | | | Britain | | | | -13.37 | | 29.74 | | |
+| | | | | | Holland | | | | | 15.13 | 167.37 | | |
+
+| | Sugar/wheat | | | | France | | | | | 63.31 | 195.03 | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | Britain | | | | | 16.31 | | -2.90 | |
+| | | | | | Holland | | | | | 17.87 | 165.10 | | |
+| | | | | | Germany | | | | | 2.43 | 143.09 | | |
+| | Raw cotton/wheat | | | | France | | | | | -6.46 | 114.28 | | |
+| | | | | | Britain | | | | -10.96 | | -26.17 | | |
+| | | | | | Holland | | | | | -9.47 | 11.45 | | |
+| | | | | | Germany | | | | -28.70 | | | 67.89 | |
+| | Sugar/textiles | | | | France | | | | | 26.70 | 125.59 | | |
+| | | | | | Britain | | | | | 38.44 | | 37.25 | |
+| | | | | | Holland | | | | | 25.27 | 214.64 | | |
+| | | | | | Germany | | | | | -4.04 | 129.95 | | |
+| | Raw cotton/textiles | | | | France | | | | -19.76 | | 78.81 | | |
+| | | | | | Britain | | | | | 6.43 | | 4.93 | |
+| | | | | | Holland | | | | | -2.31 | 31.23 | | |
+| | | | | | Germany | | | | -33.20 | | | 58.82 | |
+| | Textiles/Raw cotton | | | | USA | | | | 106.01 | | 182.51 | | |
+| | Wine/raw cotton | | | | USA | | | | | 28.59 | 137.05 | | |
+| | Rouen cloth/silver | | | Peru (Arequipa) | | | | | | 12.92 | | 91.58 | |
+| | Paper/silver | | | Peru (Arequipa) | | | | | | 53.19 | 120.79 | | |
+| | Paper/silver | | | Peru (Lima) | | | | | | 46.87 | 111.77 | | |
+
+Table 3. Price impact of Napoleonic Wars (percentage increase in relative price relative to peace-time counterfactual) Relative price Country War Blockade Panel A. Intra-European Wheat/textiles Britain 19.03 41.35 Textiles/wheat France 16.58 19.84 Textiles/wheat Germany 6.74 5.71 Panel B. Europe-Asia Pepper/wheat France 66.53 216.36 Britain -27.22 -8.21 Holland 1.41 119.46 Pepper/textiles France 19.10 109.82 Britain -13.37 29.74 Holland 15.13 167.37 Panel C. Europe-Americas Panel D. Africa-Europe/Americas Imports/slaves Africa -48.49 -32.37 a b Panel E. Asia-Europe/Americas Silver/cloves South East Asia 102.51 NA c Silver/pepper South East Asia -17.44 NA c Silver/coffee South East Asia 135.53 NA c Source: see Appendix 1 and text. S.E. Asian prices are taken from Table 2; African prices are from Lovejoy and Richardson (1995, Table 2, column 6, p.108). 1798-1814/1815-20 a 1808-14/1815-20 b 1801-20/1821-30. c

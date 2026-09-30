@@ -1,0 +1,49 @@
+
+
+## D. Michael Rowe, “Economic Warfare, Organized Crime and the Collapse of Napoleon’s Empire”，in Aaslestad & Joor (eds.) 2015, pp.187–204（PDF pp.204–221，doc 80ab649eb823）
+
+**本卡最重要的一章：它把“执行强度”直接写成可比价格序列。**
+
+### D1 执法人力的真实密度（印p.187／PDF204–205）
+> “in 1812 the total number of customs agents in the French Empire peaked at approximately **35,000**, including **four thousand agents de bureaux**, and **30,750 organized into ‘brigades’** that patrolled the frontiers. Of the latter **3200 deployed to the départements réunis bordering the Rhine**, covered by directions based in Mainz, Cologne and Wesel.”
+> “the total of 3200 ‘brigaded’ douaniers amounted to **241 per 100,000 of the population**, a level that matches almost exactly the relative number of police in present-day England and Wales – a staggering statistic that reflects Napoleon’s determination to police the frontier.”
+
+另：莱茵四省海关人员中仅约 **3%** 是本地人，**超过80%** 是“旧法国”人，余为比利时各省人。→ 执行机器是“外来占领式”而非“本地嵌入式”，成本高、情报差、合法性低。
+配套力量：Ellis（同书第1章印p.32）：帝国宪兵队 **1810年逾18,000官兵**。
+
+### D2 【核心数据】莱茵边界“走私保险费率”时间序列（印p.195／PDF212，注26–28；另印p.189／PDF205–206，注5–6）
+| 时期 | 越线保险费率（占货值） | 出处 |
+|---|---|---|
+| 1798年12月（莱茵关税线设立半年后，Wirion报告） | **6%** | Rowe印p.189注6 |
+| 1800 | **6%** | Rowe印p.195注27 |
+| 1801–1802 | **10%** | 同上 |
+| 执政府期（Eichhoff备忘录） | **10、15甚至20%** | Rowe印pp.188–189注5 |
+| 1806年10月–1808年6月（柏林敕令后） | **26%** | Rowe印p.195注27 |
+| 1809年7月 | **约30%** | 同上 |
+| 1809年底–至1811 | **约50%** | 同上 |
+| Rees–Bremen新关线（1809-07-18敕令设） | **6–8%** | Rowe印p.195注26；Heckscher印p.194独立载同数 |
+| 法国边界一般（1809） | **30%** | Heckscher印p.194 |
+| 斯特拉斯堡顶级承保人（1809） | **40–50%** | Heckscher印p.194 |
+| 自海岸至杜塞尔多夫／美因茨／法兰克福的保险＋运输总加价（1810-09警务简报） | **＋50%** | Rowe印pp.197–198注34 |
+
+**Rowe给出的成功判据**（印p.195）：
+> “A lower threshold for judging the intended ‘success’ of Napoleon’s Continental System will do; **insurance rates pushed to a level where non-French wares simply became uncompetitive.**”
+→ 本卡据此把“执行能力上限”重新定义为可计算的量：**执法能把越线保费推到多高，而非能否归零**。
+
+### D3 执法的司法产出与失败率
+- 科隆初审法院1803–1811：受审走私者**三分之二只处罚金**。（印p.192）
+- 南锡 cours prévôtal des douanes：来自莱茵四省的 **123案中仅2例处死**。（印p.192）
+- 科隆监狱成分：1806年6月100名囚犯中走私犯**5名**；1811年9月106名中**39名**为海关罪。（印p.192）
+- 克莱夫总监Turc任期12年缉获极少，**其手下400名海关人员中超过三分之一从未有过任何缉获**。（印p.191）
+- préposé 年薪仅 **500法郎**，虽有缉获分成权，但需与对抗走私者的人身危险权衡。（印p.191）
+- 1798-11 科隆约**1,200人**围攻查扣咖啡的海关员，市政当局与市民卫队旁观，事后不报上级并称“全是海关员的错”。（印p.192）
+- **七名将军**参与莱茵河走私；Georgeon将军娶入科隆谷物走私家族并用宪兵职权协助。（印pp.192–193）
+- 南锡法庭被审者阶级构成（Betrand 1950年代档案研究）：**68.5%为较贫困者**（临时工、贫困工匠），**商人仅 6.34%**，船夫／车夫／酒馆主合计略超 10%。→ **负刑事风险的人和得租金的人不是同一批人。**
+
+### D4 租金的成分与受益者
+- **烟草**（1810年帝国专卖后）：科阆1811-12-04特别警务委员报告估计经该城非法输入**年逾100万公斤**；左岸帝国烟草**3法郎／公斤**、右岸**16苏／公斤**，每公斤差额 **44苏＝2.20法郎**，全年潜在利润 **220万法郎**；同期农业雇工日薪约 **1.50法郎**。（印p.197）
+  → 一城一项商品的走私利润 ≈ **146万个农工日**（220万／1.50）。
+- **克雷菲尔德 von der Leyen 丝织厂**：受惠于1806年后的意大利特惠市场与对英保护，**1810年雇工3,000人、年营业额300万法郎，高于史上任何时期**。（印p.193）
+- **科隆首富银行家 Abraham Schaaffhausen** 大规模走私，所得部分用于投机国有财产(biens nationaux)；因非法出口小麦被罚**10万法郎**而“hardly appears to have dented his finances”。（印p.194）
+- 1811-01 科隆警务报告指控当地海关与 **Oppenheim、Schoeffen、Cassel** 三家金融家合谋从事货币投机。（印p.191）
+- **科隆合法贸易的坍塌**（Eichhoff统计）：1807→1809 进口跌 **38%**、出口跌 **63%**；对荷兰进口跌 **87%**、出口跌 **71%**。（印p.194）

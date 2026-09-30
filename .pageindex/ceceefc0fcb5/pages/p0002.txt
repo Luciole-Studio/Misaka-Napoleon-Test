@@ -1,0 +1,201 @@
+    {
+      "title": "Agente Administrativo - Prefeitura de Rio de Janeiro/RJ 2011 - Prefeitura de Rio de Janeiro/RJ",
+      "authors": "Prefeitura de Rio de Janeiro/RJ",
+      "publisher": "",
+      "language": "PDF",
+      "format": "",
+      "size": "0.4MB",
+      "hash": "66b51e930b168cf8c818f58581a49b86",
+      "url": "https://annas-archive.gl/md5/66b51e930b168cf8c818f58581a49b86"
+    },
+    {
+      "title": "Engenheiro Civil - Prefeitura de Rio de Janeiro/RJ 2011 - Prefeitura de Rio de Janeiro/RJ",
+      "authors": "Prefeitura de Rio de Janeiro/RJ",
+      "publisher": "",
+      "language": "PDF",
+      "format": "",
+      "size": "0.5MB",
+      "hash": "3a7eac7c94bcbc43a1ddebe1a74d4e81",
+      "url": "https://annas-archive.gl/md5/3a7eac7c94bcbc43a1ddebe1a74d4e81"
+    },
+    {
+      "title": "Music in imperial Rio de Janeiro : European culture in a tropical milieu",
+      "authors": "Cristina Magaldi",
+      "publisher": "The Scarecrow Press, Inc., Lanham ; Toronto ; Oxford, 2004",
+      "language": "English",
+      "format": "PDF",
+      "size": "15.2MB",
+      "hash": "763444ed6bd66180e0c3128a1c480456",
+      "url": "https://annas-archive.gl/md5/763444ed6bd66180e0c3128a1c480456"
+    },
+    {
+      "title": "O Rio de Janeiro Através dos Jornais",
+      "authors": "João Marcos Weguelin",
+      "publisher": "2000",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "1.5MB",
+      "hash": "cc8af50b2b02b27834242a2d76d85db7",
+      "url": "https://annas-archive.gl/md5/cc8af50b2b02b27834242a2d76d85db7"
+    },
+    {
+      "title": "Guarda Municipal - Prefeitura de Rio de Janeiro/RJ 2008 - FJG",
+      "authors": "Prefeitura de Rio de Janeiro/RJ",
+      "publisher": "",
+      "language": "PDF",
+      "format": "",
+      "size": "0.2MB",
+      "hash": "e665429df04b236406e3069e16963a3c",
+      "url": "https://annas-archive.gl/md5/e665429df04b236406e3069e16963a3c"
+    },
+    {
+      "title": "Un drame à Rio-de-Janeiro",
+      "authors": "Salmon, Paul",
+      "publisher": "Feedbooks, 1932",
+      "language": "French",
+      "format": "EPUB",
+      "size": "0.7MB",
+      "hash": "75cbe4f2b73c49e8fdef55c770b8980f",
+      "url": "https://annas-archive.gl/md5/75cbe4f2b73c49e8fdef55c770b8980f"
+    },
+    {
+      "title": "Anarchisme social et organisation",
+      "authors": "Federação Anarquista do Rio de Janeiro & Farj & Federação Anarquista do Rio de Janeiro",
+      "publisher": "2012",
+      "language": "French",
+      "format": "EPUB",
+      "size": "0.2MB",
+      "hash": "bcae953853723e46b4ee16700b3ed209",
+      "url": "https://annas-archive.gl/md5/bcae953853723e46b4ee16700b3ed209"
+    },
+    {
+      "title": "UN DRAME À RIO-DE-JANEIRO",
+      "authors": "Darcy, Paul",
+      "publisher": "Ebooks libres et gratuits, 2011",
+      "language": "French",
+      "format": "EPUB",
+      "size": "0.3MB",
+      "hash": "8c362053fe25ef0d71937c93e2b1404c",
+      "url": "https://annas-archive.gl/md5/8c362053fe25ef0d71937c93e2b1404c"
+    },
+    {
+      "title": "Auxiliar Administrativo - Prefeitura de Rio de Janeiro/RJ 2009 - SPDM",
+      "authors": "Prefeitura de Rio de Janeiro/RJ",
+      "publisher": "",
+      "language": "PDF",
+      "format": "",
+      "size": "0.1MB",
+      "hash": "bb2e24242ba8b7f00402b62410b3e6ca",
+      "url": "https://annas-archive.gl/md5/bb2e24242ba8b7f00402b62410b3e6ca"
+    },
+    {
+      "title": "Exposição histórica bio-bibliográfica.",
+      "authors": "International Congress on Tropical Medicine and Malaria 1963 : Rio de Janeiro)",
+      "publisher": "Biblioteca Nacional, [1963], Brazil, 1963",
+      "language": "Portuguese",
+      "format": "",
+      "size": "0.1MB",
+      "hash": "b0046c287b93dc684b2db4cb0603a0dd",
+      "url": "https://annas-archive.gl/md5/b0046c287b93dc684b2db4cb0603a0dd"
+    },
+    {
+      "title": "UN DRAME À RIO-DE-JANEIRO",
+      "authors": "Darcy, Paul",
+      "publisher": "Ebooks libres et gratuits, 2011",
+      "language": "French",
+      "format": "EPUB",
+      "size": "0.3MB",
+      "hash": "1aa82249042a537ca69c3934b4a9e753",
+      "url": "https://annas-archive.gl/md5/1aa82249042a537ca69c3934b4a9e753"
+    },
+    {
+      "title": "Physical exercise influences astrocytes in the striatum of a Parkinson's disease male mouse model.",
+      "authors": "Vitorino LC;Oliveira KF;da Silva WAB;de Andrade Gomes CAB;Romão LF;Allodi S;Correa CL(Programa de Pós-Graduação em Ciências Morfológicas, Instituto de Ciências Biomédicas, Universidade Federal do Rio de Janeiro, Av. Carlos Chagas Filho 373, Ilha do Fundão, 21941-902 Rio de Janeiro, RJ, Brazil; Laboratório de Neurobiologia Comparativa e do Desenvolvimento, Instituto de Biofísica Carlos Chagas Filho, Universidade Federal do Rio de Janeiro. Av. Carlos Chagas Filho 373, Ilha do Fundão, 21941-902 Rio de Janeiro, RJ, Brazil. ; Programa de Pós-Graduação em Ciências Biológicas - Fisiologia, Instituto de Biofísica Carlos Chagas Filho, Universidade Federal do Rio de Janeiro, Av. Carlos Chagas Filho 373, Ilha do Fundão, 21941-902 Rio de Janeiro, RJ, Brazil; Laboratório de Neurobiologia Comparativa e do Desenvolvimento, Instituto de Biofísica Carlos Chagas Filho, Universidade Federal do Rio de Janeiro. Av. Carlos Chagas Filho 373, Ilha do Fundão, 21941-902 Rio de Janeiro, RJ, Brazil. ; Programa de Pós-Graduação em Ciências Biológicas - Fisiologia, Instituto de Biofísica Carlos Chagas Filho, Universidade Federal do Rio de Janeiro, Av. Carlos Chagas Filho 373, Ilha do Fundão, 21941-902 Rio de Janeiro, RJ, Brazil; Laboratório de Neurobiologia Comparativa e do Desenvolvimento, Instituto de Biofísica Carlos Chagas Filho, Universidade Federal do Rio de Janeiro. Av. Carlos Chagas Filho 373, Ilha do Fundão, 21941-902 Rio de Janeiro, RJ, Brazil. ; Laboratório de Neurobiologia Comparativa e do Desenvolvimento, Instituto de Biofísica Carlos Chagas Filho, Universidade Federal do Rio de Janeiro. Av. Carlos Chagas Filho 373, Ilha do Fundão, 21941-902 Rio de Janeiro, RJ, Brazil; Programa de Pós-Graduação em Ciências Biológicas - Biofísica, Instituto de Biofísica Carlos Chagas Filho, Universidade Federal do Rio de Janeiro, Av. Carlos Chagas Filho 373, Ilha do Fundão, 21941-902 Rio de Janeiro, RJ, Brazil. ; Programa de Pós-Graduação em Ciências Morfológicas, Instituto de Ciências Biomédicas, Universidade Federal do Rio de Janeiro, Av. Carlos Chagas Filho 373, Ilha do Fundão, 21941-902 Rio de Janeiro, RJ, Brazil. ; Programa de Pós-Graduação em Ciências Morfológicas, Instituto de Ciências Biomédicas, Universidade Federal do Rio de Janeiro, Av. Carlos Chagas Filho 373, Ilha do Fundão, 21941-902 Rio de Janeiro, RJ, Brazil; Programa de Pós-Graduação em Ciências Biológicas - Fisiologia, Instituto de Biofísica Carlos Chagas Filho, Universidade Federal do Rio de Janeiro, Av. Carlos Chagas Filho 373, Ilha do Fundão, 21941-902 Rio de Janeiro, RJ, Brazil; Laboratório de Neurobiologia Comparativa e do Desenvolvimento, Instituto de Biofísica Carlos Chagas Filho, Universidade Federal do Rio de Janeiro. Av. Carlos Chagas Filho 373, Ilha do Fundão, 21941-902 Rio de Janeiro, RJ, Brazil; Programa de Pós-Graduação em Ciências Biológicas - Biofísica, Instituto de Biofísica Carlos Chagas Filho, Universidade Federal do Rio de Janeiro, Av. Carlos Chagas Filho 373, Ilha do Fundão, 21941-902 Rio de Janeiro, RJ, Brazil. ; Programa de Pós-Graduação em Ciências Biológicas - Fisiologia, Instituto de Biofísica Carlos Chagas Filho, Universidade Federal do Rio de Janeiro, Av. Carlos Chagas Filho 373, Ilha do Fundão, 21941-902 Rio de Janeiro, RJ, Brazil; Laboratório de Neurobiologia Comparativa e do Desenvolvimento, Instituto de Biofísica Carlos Chagas Filho, Universidade Federal do Rio de Janeiro. Av. Carlos Chagas Filho 373, Ilha do Fundão, 21941-902 Rio de Janeiro, RJ, Brazil; Programa de Pós-Graduação em Ciências Biológicas - Biofísica, Instituto de Biofísica Carlos Chagas Filho, Universidade Federal do Rio de Janeiro, Av. Carlos Chagas Filho 373, Ilha do Fundão, 21941-902 Rio de Janeiro, RJ, Brazil; Faculdade de Fisioterapia, Universidade Federal do Rio de Janeiro. R. Rodolpho Paulo Rocco 255 - HUCFF, Ilha do Fundão 21941-590 Rio de Janeiro, RJ, Brazil. Electronic address: clyntoncorrea@hucff.ufrj.br.;)",
+      "publisher": "Neuroscience letters, Suppl C, Vol.771",
+      "language": "English",
+      "format": "PDF",
+      "size": "12.8MB",
+      "hash": "dd464bfc15be843bc86a6281d10b3e6b",
+      "url": "https://annas-archive.gl/md5/dd464bfc15be843bc86a6281d10b3e6b"
+    },
+    {
+      "title": "UN DRAME À RIO-DE-JANEIRO",
+      "authors": "Darcy, Paul",
+      "publisher": "Ebooks libres et gratuits, 2011",
+      "language": "French",
+      "format": "EPUB",
+      "size": "0.3MB",
+      "hash": "4626358e017db300a7ac7869dbbd3337",
+      "url": "https://annas-archive.gl/md5/4626358e017db300a7ac7869dbbd3337"
+    },
+    {
+      "title": "A remissão do cativeiro: a dádiva da alforria e o governo dos escravos nos Campos dos Goitacases, c. 1750 – c. 1830",
+      "authors": "Soares, Marcio de Sousa",
+      "publisher": "Editora Apicuri, 1, 2009",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "2.0MB",
+      "hash": "74b0e9b0f352212f1da5047e8426e31c",
+      "url": "https://annas-archive.gl/md5/74b0e9b0f352212f1da5047e8426e31c"
+    },
+    {
+      "title": "A remissão do cativeiro: a dádiva da alforria e o governo dos escravos nos Campos dos Goitacases, c. 1750-c. 1830",
+      "authors": "Soares, Marcio de Sousa",
+      "publisher": "Editora Apicuri, 1, 1, 2009",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "6.0MB",
+      "hash": "1d75a2aaee58d98b58d96b664acef9f8",
+      "url": "https://annas-archive.gl/md5/1d75a2aaee58d98b58d96b664acef9f8"
+    },
+    {
+      "title": "Un drame à Rio-de-Janeiro",
+      "authors": "Darcy, Paul",
+      "publisher": "0",
+      "language": "French",
+      "format": "PDF",
+      "size": "0.5MB",
+      "hash": "701d5520a652099137739b6d6995a293",
+      "url": "https://annas-archive.gl/md5/701d5520a652099137739b6d6995a293"
+    },
+    {
+      "title": "Tia Ciata e a Pequena África no Rio de Janeiro",
+      "authors": "Roberto Moura",
+      "publisher": "Prefeitura Da Cidade Do Rio De Janeiro, Secretaria Municipal De Cultura, Departamento Geral De Documentação E Informação Cultural, Divisão De Editoração, Coleção Biblioteca Carioca, 32, 2a, 2022",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "6.4MB",
+      "hash": "18f41bd21edda719618f030d4a512e15",
+      "url": "https://annas-archive.gl/md5/18f41bd21edda719618f030d4a512e15"
+    },
+    {
+      "title": "Rio de Janeiro de Antanho",
+      "authors": "Affonso de  Taunay",
+      "publisher": "1942",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "4.3MB",
+      "hash": "f1e0fb1c0530428e266e501099174a42",
+      "url": "https://annas-archive.gl/md5/f1e0fb1c0530428e266e501099174a42"
+    },
+    {
+      "title": "Un drame à Rio-de-Janeiro",
+      "authors": "Paul Salmon",
+      "publisher": "",
+      "language": "French",
+      "format": "EPUB",
+      "size": "0.1MB",
+      "hash": "2857c08f98a35f3d85be80281d56c6a5",
+      "url": "https://annas-archive.gl/md5/2857c08f98a35f3d85be80281d56c6a5"
+    },
+    {
+      "title": "Functional analysis, holomorphy, and approximation theory : proceedings of the Seminário de Análise Funcional, Holomorfia e Teoria da Aproximação, Universidade Federal do Rio de Janeiro, Brazil, August 7-11, 1978",
+      "authors": "Seminário de Análise Funcional, Holomorfia e Teoria da Aproximação (1978 : Universidade Federal do Rio de Janeiro), Machado, Silvio",
+      "publisher": "Berlin ; New York : Springer-Verlag, Lecture notes in mathematics ;, 843, Lecture notes in mathematics (Springer-Verl, 1981",
+      "language": "English",
+      "format": "PDF",
+      "size": "13.6MB",
+      "hash": "0ef2fcd2d15c1edc8aa20b1261b855bc",
+      "url": "https://annas-archive.gl/md5/0ef2fcd2d15c1edc8aa20b1261b855bc"
+    },
+    {

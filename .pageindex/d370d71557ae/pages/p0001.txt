@@ -1,0 +1,34 @@
+---
+source_url: "https://doi.org/10.3917/rha.255.0061"
+final_url: "https://doi.org/10.3917/rha.255.0061"
+provider: "exa"
+text_sha256: "79a11870f71263c840d2b2f4252809df56fedfbdc803109f35fd2030dfe55b19"
+title: "Les premi\u00e8res troupes suppl\u00e9tives en Alg\u00e9rie"
+content_kind: "page_text"
+---
+
+# Les premières troupes supplétives en Algérie
+
+Revue Historique des Armées. Published: 2009-04-01. 1 citation.
+
+## Authors
+
+- Jacques Frémeaux: h-index 7; 211 citations; corresponding author
+
+## Topics
+
+- Multiculturalism, Politics, Migration, Gender
+- Historical Studies and Socio-cultural Analysis
+- European Political History Analysis
+
+---
+
+## NOTE DE L'AUTEUR
+
+Une version complète de cet article a paru sous le titre : « Aux origines des troupes supplétives. Le makhzen de la conquête », dans Guerre d'Algérie Magazine, n o 4, juilletaoût 2002, p. 12-17. Nous remercions l'éditeur d'avoir autorisé la publication de cette version remaniée.
+
+## Les origines 1
+
+Si l'expédition d'Alger fut loin d'être une improvisation, il n'en fut pas de même pour l'occupation du pays. Il apparut très vite que les troupes venues de métropole ne pouvaient y suffire. Leurs effectifs avaient été réduits à 17 000 hommes dès 1831, et ils ne retrouvèrent qu'en 1837 le chiffre de juillet 1830 (37 000 hommes). Même plus nombreux (80 000 hommes vers 1860), ils restèrent limités par les crédits que les gouvernements étaient prêts à consentir pour la conquête, autant que par les nécessités de la défense du territoire métropolitain. Par ailleurs, leur acclimatement demeura un souci constant. Sans rivaux au combat, les soldats français souffraient terriblement des marches épuisantes sous le soleil, du manque d'eau, des fièvres. Leurs exigences en nourriture étaient difficiles à satisfaire dans un pays accoutumé à une alimentation frugale. Leur ignorance des moeurs et de la langue du pays rendait impossible de recruter dans leurs rangs des informateurs ou des éclaireurs, aussi bien que des unités de police. Les chevaux venus de France souffraient autant que les hommes, et la cavalerie était peu capable de remplir efficacement les innombrables missions de raids et de reconnaissances indispensables dans un conflit qui avait pris, dès l'origine, l'aspect d'une guérilla.
+
+Le commandement français ressentit donc, dès le début, le besoin de recruter des hommes du pays, parlant ses langues, connaissant les terrains de parcours des tribus nomades, ou les sentiers qui reliaient les villages des montagnards, préparés à une guerre de surprise et de coups de main. Cette ambition n'était pas absurde. La disparition du pouvoir ottoman avait laissé désoeuvrés une partie des contingents locaux (les makhzens) sur lesquels s'étaient appuyés les gouverneurs turcs. Par ailleurs, les vocations militaires ne manquaient pas, dans une contrée où tout homme adulte était un guerrier, habitué dès l'enfance à manier le fusil et, très souvent, à monter à cheval. Le refus des Algériens de servir l'envahisseur était d'ailleurs loin d'être général. L'hostilité à l'envahisseur « chrétien » s'accompagnait fréquemment de la tentation de s'appuyer sur lui dans les nombreuses rivalités qui opposaient les clans ou les familles. De plus, le service des Français, dont nul ne mettait en doute les vertus militaires, apparaissait prestigieux, et, souvent, lucratif, l'attrait d'une solde en argent s'ajoutant à celui du pillage des vaincus.

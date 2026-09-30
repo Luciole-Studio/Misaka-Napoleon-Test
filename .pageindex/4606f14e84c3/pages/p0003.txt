@@ -1,0 +1,13 @@
+
+
+## E. 未取得的材料（改判所需）
+1. *Returns of the Gross Revenue, &c., in India since 1792*（HC ordered to be printed 22 June 1855）原件 — 1803–15 逐年序列。
+2. 1813 年特许状法案（53 Geo. III c.155）逐条原文。
+3. 1832 年特别委员会**军事附录**与逐兵年成本表。
+4. 现代专著：Bowen *The Business of Empire*；Peers *Between Mars and Mammon*；Philips *The East India Company 1784–1834*；Webster *The Twilight of the East India Company*；Marshall；Bayly；Callahan。本会话的 annas-archive 脚本因运行时守卫拒绝调用技能树内路径而不可用（错误信息：live skill trees 只能经 skill_manage 变更，bash 不得命名其路径）。**这是工具限制，不是文献不存在。**
+5. 印度本地借款利率逐年序列；孟加拉硝石产量；马尔瓦鸦片外流量。
+
+## F. 独立性说明
+- P01–P09 均为**公司或政府自己的口径**，彼此不独立：1812 谈判文书、1808/1813 请愿、1806 预算辩论共享同一套东印度大楼账册。本卡在引用时一律标为"公司自述"。
+- 唯一部分独立的核验来自 P02 内部的**反对派数字**（Johnstone、Prinsep、Creevey）与 P13 的 Rickards 评论——它们与官方口径冲突之处已在正文与 CSV 中并列保留。
+- H02（Wilson）与 P11（特别委员会）对 1809 年事件的叙述来源不同（马德拉斯军档 vs 伦敦委员会），构成弱独立互证。

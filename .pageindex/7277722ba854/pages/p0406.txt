@@ -1,0 +1,72 @@
+
+
+  ARTILLERY GÉNIE TRAIN:
+    Of 5th Corps                            18         590        1        19           3         72       --        --          95
+    Of other Units                          25         600                  No returns whatever.                                  ?
+  ÉTAT-MAJOR                                 ?           ?        5        --           8         --       --        --          13
+                                         -----    --------     ----     -----       -----    -------     ----     -----       -----
+        Total of Army                      920      23,340       60       827         171      3,610       21       875       5,936
+
+  Return of casualties is signed Mocquery, 19 Juillet 1811.
+
+  Total present, 24,260.      Total losses, 5,936.
+
+  [791] The 1/34th, 3/40th, 1/88th, 1/21st Léger, 3/100th were separated
+  from their regiments and garrisoned Badajoz.
+
+  [792] The 34th regiment returned, as is clear, all its missing as
+  killed.
+
+  [793] The 88th regiment returned, as is clear, all its killed as
+  missing.
+
+  [794] This assemblage of Grenadier companies can be identified, as to
+  its units, by the fact that in Martinien’s lists of killed and wounded,
+  we find names of officers of the 45th, 63rd, 95th, and 4th Poles, none
+  of which were present at Albuera. He accounts from these regiments for
+  4 officers killed and 9 wounded (45th 5 officers, 63rd 2 officers, 95th
+  1 officer, Poles 5 officers).
+
+N.B.--The losses cannot be quite complete. Not only is the return
+for artillery and engineers, &c., for all units except the 5th Corps
+missing, but Martinien’s lists, which are absolutely secure evidence,
+since they give the name and regiment of every officer hit, show much
+larger totals than this report, 362 casualties instead of 241. This
+enormous difference of 121 casualties among officers, reported in the
+regimental lists, but ignored by Soult, cannot be explained away by
+adding the 21 prisoners to his total of 241, granting that all the
+prisoners were wounded. This still leaves a balance of 100 unaccounted
+for. The details of difference and of total casualties are:--
+
+                _Soult._  _Martinien._
+  Staff            13          27
+  34th             17          15
+  40th             14          23
+  64th             23          26
+  88th             11          12
+  21st Léger       16          13
+  100th            14          20
+  28th Léger       18          30
+  103rd Ligne      17          18
+  12th Léger       18          29
+  55th             10          14
+  58th             23          24
+  16th Léger        9          17
+  Grenadiers       10          13
+  2nd Hussars       4           5
+  10th Hussars      5           7
+  21st Chasseurs    3           5
+  4th Dragoons      4          11
+  20th Dragoons     5          12
+  26th Dragoons     3           3
+  14th Dragoons     1           1
+  17th Dragoons     3           6
+  27th Dragoons     3           5
+  1st Lancers      11          14
+  27th Chasseurs    3           3
+  4th Spanish
+    Chasseurs      --           3
+  Artillery
+    Génie Train     4           6
+                  ---         ---
+                  660         899

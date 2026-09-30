@@ -1,0 +1,14 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: c3_thresholds.csv
+
+```meta
+▸ table "c3_thresholds.csv" (6 data rows)
+```
+UK_reference_year,UK_sea_category_hulls,target_fraction,minimum_French_same_scope_hulls,C2_physical_line,status
+1803,111,0.8,89,2,conditional_arithmetic_not_observed_French_strength
+1803,111,1.0,111,2,conditional_arithmetic_not_observed_French_strength
+1804,115,0.8,92,3,conditional_arithmetic_not_observed_French_strength
+1804,115,1.0,115,3,conditional_arithmetic_not_observed_French_strength
+1805,116,0.8,93,4,conditional_arithmetic_not_observed_French_strength
+1805,116,1.0,116,4,conditional_arithmetic_not_observed_French_strength

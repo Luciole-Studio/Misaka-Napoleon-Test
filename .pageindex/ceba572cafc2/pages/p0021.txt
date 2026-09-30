@@ -1,0 +1,37 @@
+
+
+15 The different pieces of legislation are summarized in the Report from the Secret Committee on the Expediency of the Bank Resuming Cash Payments of 1819.
+
+16 The Bank's holdings of public securities had increased by 40 percent between February 1816 and August 1818.
+
+17 Report from the Secret Committee on the Expediency of the Bank Resuming Cash Payments of 1819.
+
+18 59 Geo. III, c. 76.
+
+19 Since the publication of the Bullion Report in 1810, it had been broadly acknowledged that the resumption would have to be undertaken gradually over a period of at least two years (Cannan Reference Cannan1919). Earlier on—namely after the Peace of Amiens in 1802—the six months after the ratification of a definitive peace treaty were thought sufficient for resuming the gold standard (Geo. III, c1).
+
+20 Li (Reference Li1963) analyzes the evolutions in the agio before the suspension period and points out that the market value of gold exceeded the mint price between 1757 and 1773, that is, before the recoinage of 1774, by 1.75 percent on average due to the deterioration in coin quality.
+
+21 The absence of fluctuations in the agio between May 1802 and October 1808 is discussed in the section treating interest rates on public debt.
+
+22 In 1717, Newton fixed the pound sterling at a gold price of £ 3 17s 10.5d. This mint price lasted, with lapses, for the two restriction periods until 1931.
+
+23 Market efficiency entails that expected events would have been incorporated beforehand.
+
+24 Bank of England Archives, items 10A270/1 and 10A321/1.
+
+25 When no lagged variable is part of (xt , zt ), the conditions on the residuals allow for autocorrelation and heteroskedasticity.
+
+26 For the biweekly series, one such date in July 1813 was excluded from the list of breaks.
+
+27 Measuring the size of the agio's shifts this way carries the implicit and strong assumption that the agio would return to the same level after the resumption of the gold standard, but allows for a fixed reference point, rendering the size of shifts comparable over time. An alternative measure for the size of the agio's shifts would be to quantify the changes in the agio's level between break dates and the observation preceding them. Given changes in the anticipated mint ratio, the so-calculated changes would, however, not be comparable over time.
+
+28 It was the government that had urged parliament, on two occasions, to extend the act, until a new war would end discussions about resumption.
+
+29 The large confidence interval surrounding this break date is due to the absence of variation in the agio between May 1802 and October 1808 (see section treating interest rates on public debt).
+
+30 London Gazette, 11 July.
+
+31 London Gazette, 21 July.
+
+32 The large confidence interval surrounding this break date is due to the absence of variation in the agio afterward. Once resumption was definitively decided in May 1819, the agio returned to the level and volatility observed before the suspension of the gold standard.

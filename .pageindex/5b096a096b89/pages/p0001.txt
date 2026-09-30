@@ -1,0 +1,52 @@
+# B2英国财政：银行限制与危机救助证据备忘
+
+范围：1797、1810–11；仅读到的正文与表格，不冒充查阅原始账簿。五份指定材料均已读取相关正文，非复述旧卡。新增正文来源限四项（两次1811辩论、1817救助回顾、BoE统计说明）。
+
+## 一、数量锚点与口径
+
+### 1. 1797准备：必须称“硬币及金银”，不是纯黄金
+【事实】主卡提供的 `downloads/B2_BoE_balance_sheet.xlsx`，表 `A1. Bank of England B'Sheet`：A列年份、O列“Coin and bullion”、S列“Notes / In Circulation”；单位£mn。下表纸币按显示值四舍五入，1810另核原表精确值。
+
+|年份（均2月底）|硬币及金银£mn|流通纸币约£mn|行号|
+|---|---:|---:|---:|
+|1791|7.963894|10.74|101|
+|1796|2.558718|10.07|106|
+|1797|1.108533|9.19|107|
+|1798|5.831283|12.54|108|
+|1799|7.563708|12.35|109|
+|1808|7.855720|15.72|118|
+|1809|4.492933|17.62|119|
+|1810|3.501412|20.12|120|
+|1811|3.350945|22.23|121|
+
+【出处校验】BoE《Bank of England liabilities and assets: 1696 onwards》(1967)，段“The present series”：“1766–1844 … End-February balance sheet”；Table B给1810流通纸币 **£20,120,486**、硬币及金银 **£3,501,412**。URL：https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/1967/boe-liabilities-and-assets-1696-onwards.pdf ；本地 `downloads/pages/5a55e6aeac33.md`，日期说明及Table B（行82–118）。
+
+【限度】同文说明早期现金未区分硬币与纸币，采用Smee假设：现金中£9,000–10,000为硬币，其余为票据，1699–1806系列存在估算不确定性。因此不能因小数精确而称1797数为精确盘点的纯黄金，也不能把2月底值当挤兑开始前或全年均值。
+
+Antipa–Chamley，2017稿p.17原句：“leaving it with £1.3 million in cash and bullion, for a circulation of approximately £10 million.” 指2月26日危机会见，过去一周已流失近£1m。与月底£1.108533m日期不同，不应硬并成冲突。其叙述依靠Clapham等，非独立日账复核。
+
+### 2. 1810金价：金溢价不是同幅度纸币折价
+【事实】《Bullion Report》原报告pp.1–2，标准铸币价“£.3.17.10½. per ounce”；1810年前三个月金条价“from £.4.10. to £.4.12. per oz.”；报告称£4.10为铸币价以上约15½%。4月6日报价£4.6；5月18/22日葡萄牙金币£4.11，但币与条不能无条件串列。
+
+【计算解释】£4.10/£3.17.10½−1≈15.58%为金溢价；反向纸币相对黄金折价为1−£3.17.10½/£4.10≈13.48%，不能写纸币贬值15.58%。报告还注明可合法出口与不能宣誓出口金条差3–4先令/盎司；应保留法律及交易品种溢价。
+
+【口径】1810纸币£20,120,486为BoE自身2月底流通存量，不含地方银行纸币；也不能与全年金价区间机械解释为单一货币数量因果。
+
+## 二、制度反应及政治选择
+
+### 3. 1797不是单靠宣布“停止付金”
+O’Brien–Palma §1、§3.1及注36：【事实，转引】2月27日停止兑金，5月3日立法确认；2月27日数百名商人公开承诺接受银行券；3月2日法律准许发行低于£5的小额票。原句：“hundreds of leading merchants publicly agreed not to refuse Bank of England notes in payment”。
+
+【文献推断：O’Brien–Palma】成功依靠银行与财政长期信誉，不能仅从黄金短缺解释。Antipa–Chamley pp.17–19补充：暂停后3%公债报价由50½升至52½；后续增税维持财政信用。两文均部分依靠Clapham，不能算两套独立危机观察；前者“no effect”不宜翻成价格绝无变动，后者记录短线回升。
+
+### 4. 1811恢复兑付表决：纠正75∶151误配
+【事实】1810报告结尾pp.30–33：“cannot safely be removed at an earlier period than two years”；即使战争继续也建议两年后恢复，不是立即兑付。网页编辑导言“immediate”不能代替报告正文。
+
+1811年5月9日Hansard，vol.19 c.1169：“The Committee then divided on the first … Ayes 75—Noes 151”；“on the 16th, or last Resolution … Ayes 45, Noes 180”。故 **75∶151是第一项；最后一项为45∶180**。
+URL：https://api.parliament.uk/historic-hansard/commons/1811/may/09/report-of-the-bullion-committee ；本地 `downloads/pages/de17c8036944.md`，末段。
+
+5月7日辩论cc.919–920明确“The last Resolution is the substantial practical recommendation”；c.955说明“They propose it after the expiration of two years”。此为议会内部承重互证，但不算独立学派证据；本轮未取到第16项完整逐字议案。
+URL：https://api.parliament.uk/historic-hansard/commons/1811/may/07/report-of-the-bullion-committee ；本地 `downloads/pages/c2fda522376a.md`，开篇及行300附近。
+
+### 5. £6m商业救助：额度≠实发，关键缺口仍在
+【事实】1811年3月11日Hansard cc.332–333：“to grant relief to the extent of six millions, not with the supposition that that sum would be required”。机制是向专员发行Exchequer bills，凭足额偿还担保贷给商业申请者；建议分四季还款，首次约次年1月中旬。它是有偿贷款安排，不是£6m现金赠款。

@@ -1,0 +1,36 @@
+Environ. Res. Lett. 12 (2017) 074026
+
+
+
+
+  Figure 4. Reduction of harvested crop yields for the ﬁrst post-eruption year in the historical period (top) and as well as the ﬁrst and
+  second post-eruption year in the present period (middle and lower column) relative to the corresponding references. The top right
+  panel shows the increase in the prices of the major grains in several Swiss markets from January 1916 to early summer 1817 (from
+  Krämer 2015).
+
+
+towards eastern Switzerland, and to a declining                        4. Discussion and conclusions
+gradient in radiation. For barley, a weaker gradient
+exists compared to maize (not shown).                                  Despite limitations of the crop model simulations,
+    The stress factor approach allows assessing                        such as lack of effects due to pests and pathogens, our
+consequences of waterlogging in qualitative terms                      approach provides, for the ﬁrst time, a quantitative
+(ﬁgure 5). In the 1816 scenario, the number of days                    picture of crop yield losses following the YWAS of
+with 100% soil saturation is much higher than in the                   1816, starting from weather reconstructions and using
+reference (middle panel) or in the 1817 scenario.                      a process-based crop model. The weather reconstruc-
+Again, an east-west gradient appears with soil                         tion realistically depicts the daily weather of 1816 and
+saturation increasing towards the eastern regions.                     1817 and thus is a useful scenario to study possible
+The ‘stress day index’ (bottom panel) accounts not                     effects of such a massive volcanic eruption on
+only for days with 100% saturated soils but also other                 agricultural crop production under today’s conditions.
+days with a high soil water level. As a consequence, the                   Modelled crop yields for the years 1816/17
+1817 scenario, which was clearly less rainy than in                    following the Tambora eruption, as well as for a
+1816, also exhibits a high stress index. Assuming yield                similar scenario today, show substantial losses in the
+losses to be proportional to the stress index, additional              range of several tens of percent for currently cultivated
+substantial crop losses due to the effect of waterlogging              important crops. The delay in phenologial phases and
+are likely in both years, with higher losses in the                    yield losses agree well with documentary observations
+eastern compared to the western part of the Swiss                      both in 1816 and 1817. While crop development rate is
+Plateau. Note that precipitation and radiation are the                 mainly driven by temperature, potential yields are
+same in the 1816/1817 and the corresponding present-                   strongly inﬂuenced by intercepted radiation until
+day scenarios. Thus, the stress index is also very                     harvest. In 1816, low temperatures and low solar
+similar.                                                               irradiance decreased growth and yields, while negative
+
+                                                        8

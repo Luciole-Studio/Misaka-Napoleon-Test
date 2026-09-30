@@ -1,0 +1,36 @@
+---
+source_url: "https://napoleon-histoire.com/correspondance-de-napoleon-ier-decembre-1810/"
+final_url: "https://napoleon-histoire.com/correspondance-de-napoleon-ier-decembre-1810/"
+provider: "exa"
+text_sha256: "a99855464bfe0c68c31b6b4a9acd172867d2663b9e6098af03e3d76b5ff8b9fb"
+title: "Correspondance de Napol\u00e9on Ier - D\u00e9cembre 1810 - Histoire du Consulat et du Premier empire"
+content_kind: "page_text"
+---
+
+Correspondance de Napoléon Ier - Décembre 1810 - Histoire du Consulat et du Premier empire
+
+# Correspondance de Napoléon Ier – Décembre 1810
+
+ Robert 
+
+Paris, 1er décembre 1810.
+
+A M. de Champagny, duc de Cadore, ministre des relations extérieures, à Paris
+
+Monsieur le Doc de Cadore, j’ai reçu le recueil des pièces relatives aux négociations avec l’Angleterre depuis la paix de Tilsit. Envoyez-moi les pièces qui prouvent qu’on avait proposé à l’Angleterre de ne pas faire la guerre de Prusse si elle voulait admettre le traité fait avec lord Lauderdale; je ne croyais pas qu’elles eussent été imprimées. Je pense qu’il faut supprimer l’analyse, qui n’est pas dans l’esprit du mémoire et qui ne dit rien. Il faut mettre les noms des deux empe­reurs au bas de la lettre d’Erfurt. Dans les pièces de la négociation de Hollande, la lettre du Roi est importante à mettre. Il faut aussi mettre la lettre des ministres hollandais à lord Wellesley, et ne mettre qu’à la fin la lettre du sieur Labouchère.
+
+Paris, 2 décembre 1810
+
+A M. de Champagny, duc de Cadore, ministre des relations extérieures, à Paris
+
+Monsieur le Duc de Cadore, vous pouvez remettre la note ci-jointe au prince Kourakine.
+
+NOTE DU DUC DE CADORE AU PRINCE KOURAKINE.
+
+Paris, 2 décembre 1810.
+
+Monsieur l’Ambassadeur, j’ai mis sous les yeux de Sa Majesté l’Empereur et Roi la note que Votre Excellence m’a fait l’honneur de m’adresser le 29 octobre dernier. Sa Majesté a été très sensible aux assurances que cette note renferme.
+
+Depuis la réunion de la Hollande, depuis que les embouchures de l’Ems, du Weser, de l’Elbe et les ports du Mecklenburg sont occupés, depuis que la Prusse, franchement décidée à nuire au commerce anglais, a adopté toutes les mesures nécessaires pour atteindre ce but, l’Angleterre a donné des signes de détresse; les banqueroutes s’y sont multipliées; son change a perdu 25 pour 100; ses effets publics ont baissé; il ne lui a plus été possible de dissimuler les alarmes de ses manufactures et de ses comptoirs.
+
+De si heureux commencements présagent des résultats plus heu­reux encore; mais les brillantes espérances qu’ils donnent s’évanoui­raient si l’ouvrage commencé avec tant de succès ne se complétait pas. Si S. M. l’Empereur de Russie, ne veut fermer ses portes qu’au pavillon anglais, il n’atteindra pas le but qu’il a en vue, celui d’exclure le commerce et les marchandises anglaises. Les pavillons espa­gnols, portugais, américains et suédois, le pavillon français même, servent de masque aux Anglais. Tous les bâtiments sont anglais, lorsqu’ils sont chargés pour le commerce anglais et de marchandises anglaises.

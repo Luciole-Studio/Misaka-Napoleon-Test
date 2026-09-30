@@ -1,0 +1,43 @@
+
+
+表内缓存前缀均`downloads/pages/`。战后全文所读选段及逐项表完整保存在`sources/postwar/read_evidence_and_notes.md`与`rootsweb_crosscheck_addendum.md`，包括1800–55网络汇表的出处警告。Hume表是**议员转引报表**，未亲阅底层Annual Finance Accounts。
+
+## 4. 舰材、采购、给养与北方贸易
+
+### A｜Robert Greenhalgh Albion
+
+*Forests and Sea Power: The Timber Problem of the Royal Navy,1652–1862*, Harvard UP,1926。实际IA全文OCR相关页：https://archive.org/stream/ForestsAndSeaPower/Forests%20and%20Sea%20Power_djvu.txt ；`f9c908249692.md`。已用p355、356、361、367–368、导言ix。原句：
+
+> “the exports from British North America jumped from 4,442 to 16,729 in a single year” (p356)
+>
+> “Up to 1812, only one cargo of teak had reached England” (p368)
+
+前者是北美大桅贸易，不是海军领用；后者是原木运英而非只有一艘印度柚木军舰。加拿大橡木1810/11超过17,000/24,000 loads，作者load定义50立方英尺，但本卡未换重量。未用损坏的1810运费OCR；未用1811地区桅数微差做精确比例。作者引用海关／ADM底档属转引。
+
+### D｜James Davey
+
+*War, Naval Logistics and the British State: Supplying the Baltic Fleet1808–1812*, Greenwich PhD,September2009。https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf ；复用`b92bac3d423e.md`。
+
+摘要p.v原句：“By 1810 a fleet lying in the Baltic was as well supplied as one lying off Deptford”。注50：“Albion's tendency to exaggerate shortages should be noted however.” 另读注44–46附近Saumarez/Solly特别护航、表27及前文（p244以前）1809不足／1811改进。正文页映射部分丢失，只给注号与缓存行497/529/3260–3270，不伪造精确印页。Knight1986批Albion经Davey转引，未亲读Knight。
+
+### N｜Patricia K. Crimmin编选的同时代附件
+
+*The Naval Miscellany VII*, Navy Records Society vol153(2008)，学会2021-04-20公开片段 *The Supply of Timber for the Royal Navy,c.1803–c.1830*。https://www.navyrecords.org.uk/members_blog/the-supply-of-timber-for-the-royal-navy-c-1803-c-1830/ ；`01cf29aa1f98.md`。定位Melville致Wellesley1804-07-04附件条2–3：进口外橡木修旧舰，保英橡木新造，“we propose to repair ships upperworks with fir”。3,000 loads加拿大木是订约量非到货量。只读公开附件，不冒充通读NRS卷。
+
+### G｜Science Museum档案目录
+
+Robert Sharp编 *GOOD A: Papers ... Simon Goodrich ... c.1797–1847*。http://archives.sciencemuseumgroup.ac.uk/Documents/SCM/Finding%20Aids/Named%20Archives/GOOD%20A.pdf ；`c611b1f1059d.md`。
+
+仅目录，未读原信：GOOD/A/0205(1807-02-07)旧铜制新片，/0213(1807-05-06)昼夜开铜厂增十人，/0249(1808-07-21)首年产量信；/0232精炼困难。表明资料和命令存在，不提供未知吨数。待取最低成本原档：/0113、/0236、/0249、/0180、/0278。
+
+### M｜Roger Morriss
+
+*Science, Utility and British Naval Technology,1793–1815: Samuel Bentham and the Royal Dockyards*, Routledge,2020，Perlego公开预览“The Admiralty response”。https://www.perlego.com/book/1712747/science-utility-and-british-naval-technology-17931815-samuel-bentham-and-the-royal-dockyards-pdf ；`95d2152c26cf.md`。仅所见预览，无印页；1779–82铜包皮的效能由舰队指挥官报告，不能重复当1808技术新红利，未读第11章铜厂全文。
+
+### Ryan｜A. N. Ryan
+
+“The Defence of British Trade with the Baltic,1808–1813”, *English Historical Review* LXXIV(292),July1959,pp443–466，DOI10.1093/ehr/LXXIV.292.443。作者／刊卷元数据经出版商搜索记录补齐，DOI页面抓取403；**正文实际读的是开放转载** https://www.reenactor.ru/ARH/PDF/Defence.pdf ，`e47ab045c32f.md`。本卡只用读到的pp443–444、450–451及453段（缓存页眉OCR有455误写），不声称读完466页。
+
+俄麻占英国总消费>90%的说法由Ryan转引早期研究，不是皇家海军采购独立份额；pp450–451商人、Lloyd's、Saumarez护航协调，冬季冰冻及晚归风暴。1810挪威47商船被俘是孤立事件，未当平均风险。Drusena别名情报联系为网络机制例。
+
+### BJ｜Hans Christian Bjerg

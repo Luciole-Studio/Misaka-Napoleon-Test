@@ -1,0 +1,48 @@
+GRP : revues JOB : num121⊕xml DIV : 10⊕LevyGarbouaMonnet p. 17 folio : 51 --- 5/4/016 --- 16H4
+
+
+
+
+                              LES TAUX D’INTÉRÊT EN FRANCE : UNE PERSPECTIVE HISTORIQUE
+
+
+
+                Trois périodes apparaissent à nouveau sur ce graphique :
+                – de 1950 à 1968-1970, les taux de la banque centrale sont rigides
+             et sont maintenus autour de 3 % à 4 %. Les écarts avec une politique
+             monétaire « à la Taylor » sont considérables. Les taux sont très infé-
+             rieurs à ce qu’impliquerait une telle règle et aucune des fluctuations
+             n’est prise en compte. Pendant cette période – comme lors des crises
+             inflationnistes de 1952 et 1957-1958 –, la Banque de France combat
+             l’inflation en utilisant des outils quantitatifs de contrôle direct du
+             crédit, mais ne varie pas ses taux (Monnet, 2014) ;
+                – dans la période de la Grande Inflation (de 1968 à 1982), la
+             politique change radicalement : les taux d’intérêt montent et fluctuent
+             bien davantage que précédemment, mais ils restent systématiquement
+             et fortement en deçà de ce qu’aurait impliqué l’application d’une règle
+             de Taylor. Cette période correspond à la mise en place progressive des
+             interventions d’open market, à la perte du rôle dominant des opérations
+             d’escompte et du contrôle quantitatif du crédit, dans un contexte de
+             ciblage des agrégats monétaires (Monnet, 2015) ;
+                – à partir de 1982 et jusqu’à aujourd’hui, on est dans une ère où la
+             référence à la règle de Taylor est devenue globalement pertinente pour
+             comprendre les choix de politique monétaire.
+                                                                                                 51
+                                                             Les taux réels
+                Le graphique 17 (infra) montre que, comme énoncé dans la partie
+             précédente, la relation entre taux réels et taux d’inflation est devenue
+             positive depuis le milieu des années 1980, alors qu’elle était négative
+             auparavant. Le fait que la politique ait été plus clairement contracy-
+             clique, suivant la règle de Taylor, à partir des années 1980 et qu’elle ait
+             ainsi stabilisé l’inflation autour d’une cible explique en grande partie
+             cette corrélation positive. Une politique inflationniste systématique
+             aurait en effet diminué à nouveau le taux réel et une politique défla-
+             tionniste systématique l’aurait augmenté. Comme il est maintenant
+             bien connu, cette politique bute cependant aujourd’hui – depuis
+             2012 – sur le plancher zéro des taux.
+                Le graphique 18 (infra) précise, quant à lui, l’évolution du taux réel
+             de long terme : son taux de croissance diminue depuis 1984 et est
+             devenu négatif depuis 1995. La baisse actuelle des taux réels n’est
+             pas un phénomène inédit dû à la crise, mais la poursuite d’un
+             mouvement structurel. Le rythme de la baisse s’est en fait stabilisé
+             depuis la crise.

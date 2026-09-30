@@ -1,0 +1,180 @@
+## Appendix 5
+
+## Human Costs of War (and Peace)*
+
+As was observed earlier (Chapter 19) deaths alone are not the most appropiate measure of the war’s human ravages. They may indeed be misleading. It is difficult to distinguish between war-related deaths and deaths due to other causes; nor is it possible to estimate an ‘expected’ number of ‘normal’ deaths and then compare them to the actual number of deaths since there were hardly any ‘normal’ years between 1800 and 1814 upon which to base the estimate. But there is an even more pressing reason for rejecting a simple death count. Births – especially those which never occurred because of the conflict – are needed alongside deaths to assess the conflict’s full human cost.
+
+Before proceeding, a number of caveats must be entered about the author’s 1800–1817 regional population database sample on which all the other computations are based. Recording some 300,000 inhabitants, the sample formed just over three percent of the total of the nine principal regions covered, according to the last reliable census (Floridablanca, 1787) before the war. But for some regions the percentage was smaller, given the material impossibility of sampling each region proportionately to its population. The solution adopted – to weight the sample (Tables 5.1A and 5.2A)† – created another problem. Because weighting required reliable population figures, and the only ones extant were those of the 1787 (Floridablanca) census, in effect the basis of the weighted tables became not that of mid-1800/mid-1801 (the unweighted sample’s estimated base) but of 1787. It had therefore to be assumed, not unreasonably, that regional population distribution did not fundamentally change between the latter date and 1800.
+
+TABLE 5.1 SAMPLE: UNWEIGHTED POPULATION
+GROWTH PRE-WAR (1800–1807)
+
+REGION
+
+Mid-1800/mid-1801 estimated population
+
+Total Births (calendar years 1800–1807)
+
+Total Deaths (calendar years 1800–1807)
+
+Mid-1807/mid-1808 estimated population
+
+Net mid-1807/mid-1808 natural growth over mid-1800/mid-1801
+
+% mid-1807/mid-1808 natural growth over mid-1800/mid-1801
+
+Andalucía – southwest
+
+85,696
+
+24,586
+
+30,646
+
+79,636
+
+–6,060
+
+–7.1
+
+Basque country
+
+20,254
+
+5,814
+
+3,479
+
+22,589
+
+2,335
+
+11.5
+
+Castilla la Nueva
+
+74,740
+
+18,528
+
+23,962
+
+69,306
+
+–5,434
+
+–7.3
+
+Castilla la Vieja
+
+37,958
+
+9,320
+
+11,132
+
+36,146
+
+–1812
+
+–4.8
+
+Cataluña
+
+37,017
+
+10,528
+
+9,108
+
+38,437
+
+1420
+
+3.8
+
+Extremadura
+
+8,889
+
+2,325
+
+3,566
+
+7,648
+
+–1241
+
+–14.0
+
+Galicia
+
+9,594
+
+2,929
+
+1,495
+
+11,028
+
+1,434
+
+14.9
+
+Navarra
+
+10,048
+
+2,736
+
+1,346
+
+11,438
+
+1,390
+
+13.8
+
+Valencia
+
+12,870
+
+3,715
+
+3,456
+
+13,129
+
+259
+
+2.0
+
+TOTALS
+
+297,066
+
+80,481
+
+88,190
+
+289,357
+
+–7,709
+
+–2.6
+
+Source: Author, db/Demography: Regional Population Growth, 1800–1817
+
+TABLE 5.1A SAMPLE: WEIGHTED POPULATION
+GROWTH PRE-WAR (1800–1807)
+
+REGION
+
+Population 1787 census
+
+Mid-1800/mid-1801 sample population
+
+Proportion of region’s sample population to 1787 region’s population
+
+Sample births adjusted to regional size*
+

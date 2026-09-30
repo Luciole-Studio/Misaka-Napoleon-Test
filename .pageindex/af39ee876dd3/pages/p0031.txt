@@ -1,0 +1,45 @@
+Political Economy of Conscription in Napoleonic France 1087
+
+can mechanically reduce the overall number of draft dodgers in those
+regions. This fall in the number of draft dodgers leads to less conges-
+tion in the law enforcement system, thus increasing its effectiveness and
+reducing the national draft evasion rate.
+   In 1808/09, Lacuée, as minister of war, developed and implemented a
+plan to address the draft-dodging problem that embodied this very logic.
+Lacuée divided France’s departments into five categories. This classifica-
+tion was based on his experience with conscription enforcement in the
+years prior. Departments in category 1 had proven less averse to conscrip-
+tion than those in category 2, and so on, with category 5 departments being
+perceived as the most likely to defy the government’s conscription efforts.
+Lacuée suggested the use of the national conscription rate in combination
+with his new classification to calculate each department’s specific conscrip-
+tion rate. Category 1 departments were to contribute one-third more men
+per capita than the national rate. Category 2 ones were to contribute one-
+fourth more. Category 3 departments were assigned exactly the national
+rate, while departments in categories 4 and 5 had to contribute one-fourth
+and one-third fewer men per capita than the national rate, respectively.
+Although Lacuée explicitly allocated the burden of conscription for
+1809 on a discriminatory basis, discrimination for that year remained
+relatively mild.49 Conscription efforts in 1810, on the other hand, were
+characterized by a massive ramp-up of discriminatory conscription.50
+   The adoption of Lacuée’s reform constituted an explicit embrace of
+the principle of discriminatory conscription. The minister himself had
+argued that the practice of setting departmental conscription rates equal
+to the national rate had proven a failure. According to his reasoning,
+attempting to draft more men in departments with high draft-dodging
+rates would only lead to more of the same. By refusing to use discrimi-
+natory conscription, Lacuée (1808) told Napoléon, “we would multiply
+the number of [draft-dodgers], and we would thus come to ensure their
+impunity.” If our previous results on the relationship between geography
+and conscription are correct and if the Lacuée plan was effectively imple-
+mented, we expect the (negative) effect of ruggedness on a department’s
+conscription rate to have increased in its aftermath. To test this hypoth-
+esis, we estimate the following specification:
+
+       Ci,t = δt + di + Στ∈τ pre βτ × δτ × Ti + Στ∈τ post βτ × δτ × Ti + X′i,t + ϵi,t ,       (3)
+
+  49
+     The “best” departments saw an increase in their contingent size of 9 percent relative to their
+population, while the “worst” departments experienced a 9 percent decrease.
+  50
+     Lacuée’s report to Napoléon, 6 April 1809, Archives Nationales, AF/IV/1124.

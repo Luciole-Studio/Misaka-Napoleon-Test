@@ -1,0 +1,53 @@
+GRP : revues JOB : num121⊕xml DIV : 10⊕LevyGarbouaMonnet p. 3 folio : 37 --- 5/4/016 --- 16H4
+
+
+
+
+                              LES TAUX D’INTÉRÊT EN FRANCE : UNE PERSPECTIVE HISTORIQUE
+
+
+
+             d’autres titres d’État ou d’entreprises publiques. À partir de 1950, nous
+             utilisons donc le taux moyen de rendement des obligations du secteur
+             public. Ce taux est pratiquement identique à celui des obligations
+             d’État à dix ans, émises depuis les années 1960, mais il permet d’obtenir
+             une série plus longue. Il est également très proche du taux moyen de
+             rendement des obligations des sociétés privées, qui constitue le taux
+             plafond pour l’intérêt servi par les coopératives à leur capital et le taux
+             minimum de rémunération des accords de participation5.
+                Il n’a pas été possible de constituer une série de long terme de taux
+             des bons du Trésor à trois mois, puisque de tels titres n’ont pas été émis
+             de manière continue. Nous utilisons donc une série de taux interban-
+             caires pour les titres à trois mois. De 1869 à 1914, il s’agit d’une série
+             publiée par The Economist, mais qui était également utilisée en France
+             comme une référence pendant cette période. Elle correspond à un
+             marché interbancaire très restreint (premium) entre les grandes ban-
+             ques sur la place de Paris (Bazot et al., 2014). De 1925 à 1939, ce taux
+             a été publié par la Statistique générale de la France et concernait a priori
+             le même marché. De 1945 à 1998, nous utilisons le taux interbancaire
+             pour les effets à trois mois publié dans les rapports du Conseil national
+             du crédit, puis par la Banque de France (Pibor – Paris interbank offered
+             rate). À partir de 1999, il s’agit de l’Euribor (Euro interbank offered rate)
+                                                                                                37
+             à trois mois.
+                Enfin, nous avons collecté le taux de rémunération des dépôts pour
+             des livrets équivalents au livret A actuel. L’ancêtre du livret A fut le
+             livret de caisse d’épargne, créé dès 1818. Il se généralise au cours du
+             XIXe siècle, prenant modèle sur de nombreux exemples européens. À
+             partir de 1881, La Poste est dotée de la Caisse nationale d’épargne, qui
+             est autorisée à proposer ce produit d’épargne. En 1966, le livret A est
+             créé et les taux des caisses d’épargne et de la Caisse nationale d’épargne
+             sont unifiés. Pour établir une série de taux avant 1966, nous faisons la
+             moyenne entre les taux des différentes caisses d’épargne et celui de la
+             Caisse nationale d’épargne6.
+                Les séries françaises ainsi reconstruites peuvent être comparées à
+             celles disponibles pour d’autres pays. Pour les États-Unis, Robert
+             Shiller publie une série de taux d’obligations du Trésor à long terme7.
+             Pour l’Angleterre, les séries sont plus facilement disponibles et ont été
+             regroupées et publiées par la Banque d’Angleterre à partir de diverses
+             sources8. Le taux directeur de la banque centrale est le taux d’escompte
+             de la Banque d’Angleterre (1830 à 1972, et 2006 à 2009), le minimum
+             lending rate de 1972 à 81, le London clearing banks’ base rate de 1981
+             à 1997 et le repo rate de 1997 à 2006. Le taux du marché inter-
+             bancaire est le taux du marché londonien pour les effets commer-
+             ciaux. La Banque d’Angleterre publie également un taux moyen de la

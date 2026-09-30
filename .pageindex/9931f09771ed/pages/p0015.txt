@@ -1,0 +1,47 @@
+                                                - 13 -
+
+       Perhaps the most direct piece of evidence is from the Davis (2002) series on U.S.
+
+industrial production during this period. Davis’s overall industrial production index actually
+
+collapsed in 1808, falling 17 percent from 1807. However, the collapse was entirely due to the
+
+fall in production by commercial and trade-dependent industries (such as merchant shipbuilding,
+
+flour refining, fish curing, etc.) with virtually no change in the output of domestic infant
+
+industries competing against imports (such as cotton and wool cloth production, etc.).12
+
+Although this suggests that there was little immediate import substitution by domestic
+
+manufacturers, the index fails to capture any increase in output from small producers, such as
+
+local blacksmiths and glass blowers, household textile manufacturers, etc.
+
+       Thus, information on production substitution is incomplete and the existing evidence is
+
+mixed. In terms of calculating the value of production substitution, one extreme assumption is
+
+that the United States could replace one-for-one the quantity of the previously imported
+
+manufactured goods (i.e., imports subject to ad valorem duties) with domestic production of
+
+those goods at the higher autarky prices. We also assume that domestic producers would not be
+
+able to produce any imported goods subject to specific duties, including such commodities as
+
+sugar, coffee, tea, wine, etc. Symmetrically, domestic production of the exportable goods and
+
+shipping services would be assumed to fall one-for-one with the decline in the exports of those
+
+items. In this one-for-one replacement case, then (y1 - y0) = (m1 - m0) with the non-ad valorem
+
+imports zeroed out. Because m1 = (-9.4/0.73, -23.0/0.73, 16.0/1.33, 29.1/1.33), or (-12.9, -31.5,
+
+12.0, 21.9), then m1 - m0 = (35.8, 10.6, -22.0, -29.2) and therefore (y1 - y0) = (35.8, 10.6, -22.0,
+
+0). Then the net gain from the production shift is p1A(m1 - m0) = $4.7 million.
+
+
+       12
+            See Irwin (2002), Figure 5.

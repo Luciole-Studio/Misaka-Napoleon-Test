@@ -1,0 +1,25 @@
+
+
+---
+
+## D. 社会、经济、人口
+
+- 【事实·史家】人口：1800年约5,000,000 → 1820年约7,000,000 → 1845年约8,500,000（Boyle & Ó Gráda 推算前夕8,525,000）；1841年普查8,175,124；1851年6.55m。来源：Ó Gráda, "Ireland's Great Famine: An overview"（doi 10.1484/m.corn-eb.4.00018）；Boyle & Ó Gráda（doi 10.2307/2061350）。
+- 【事实·史家】马铃薯占爱尔兰耕地 **约32%**，人均日消费 **2.1公斤**（远高于比利时0.5–0.6、荷兰0.7、普鲁士1.0–1.1）；1845年减产约30%、1846年约88%，同年谷物减产约33%。来源：Vanhaute/Paping/Ó Gráda, *The European subsistence crisis of 1845–1850*，表1.3。
+- 【事实·史家】饥荒超额死亡 **约100万**（Mokyr 1980作约110万；Boyle & Ó Gráda 1986作约100万），另有约30万被阻止的出生；1841–51年净外迁约100–104万，1845–50年代初离境总数约150万。来源：同上二文；Ó Gráda, "Migration as disaster relief"（doi 10.1017/s1361491697000026），其省级表 Ireland：人口8,175,124、外迁1,040,816、死亡1,000,000。
+- 【事实·史家·关键对照】同一疫病下欧陆超额死亡：比利时40,000–50,000、荷兰约30,000、普鲁士约42,000、法国约30,000、瑞典＋丹麦约10,000；爱尔兰以外合计 **约20–30万**。Vanhaute：佛兰德未饿死的主因是本地制度与地方精英策略吸收了张力；编者结论"The impact of national policies … though much discussed seems to have been comparatively small"。来源：同书导论（econstor 519108086、ccc.ugent.be/file/121）与 Paping 讲演稿。
+- 【事实·史家】爱尔兰1784年Foster谷物法＋英国由出口国转入口国，使爱尔兰转为对英谷物供应地；1811年出口：小麦192,000桶、大麦76,000桶、燕麦756,000桶、面粉91,000 cwt、燕麦片57,000 cwt、黄油390,000 cwt、猪肉110,000桶、腌牛肉95,000桶、培根1,310,000扇。1845年谷物出口：小麦与面粉779,000夸特、大麦93,000、燕麦与燕麦片2,353,000夸特。来源：*Two centuries of Irish agriculture — a statistical retrospect 1672–1905*（hdl 2262/3927）。Cork是海军与半岛军的腌肉供应中心。
+- 【事实·史家】农村秘密社团世系：Whiteboys 1761–65、Rightboys 1785–88、Defenders 1790年代、**Threshers 1806–07（中部）**、Caravats/Shanavests、Ribbonmen（1810–40性质转变）、**Rockites 1821–24（Pastorini预言：1825年新教终结）**、Whitefeet、1830年代什一税战争。诉求集中于：conacre与租佃、工资与"外来工"、基本食品价格与 **阻止粮食运出本地**、什一税与估价员、反奥兰治会与"专一交易"、武器与警察。来源：Donnelly, "Captain Rock"（doi 10.1353/eir.2007.0030）与 UW Press 书介；Soton 学位论文 *Rockites and Whitefeet: Irish peasant secret societies, 1800–1845*（eprints.soton.ac.uk/460381）。
+- 【事实·联合爱尔兰人规模】阿尔斯特宣誓人数1796年10月38,567 → 1797年2月69,190 → 1797年5月117,917；1798年初全国宣誓约280,000（共和派自称300,000）。来源：encyclopedia.com "United Irish Societies from 1791 to 1803"；Society of United Irishmen 条目。
+
+---
+
+## E. 1803年临时政府《宣言》法令（土地与什一税，决定性约束）
+
+【事实·文本，缓存 `downloads/pages/92f15cedf046.md` 字符约17820–18100】
+> "1. From the date and promulgation hereof, tithes are for ever abolished, and church lands are the property of the nation. 2. From the same date, all transfers of landed property are prohibited, each person, holding what he now possesses, on paying his rent until the national government is established… 3. …all transfer of Bonds, debentures, and all public securities, are in like manner and form forbidden…"
+
+另：
+> "We war not against property – We war against no religious sect – We war not against past opinions or prejudices – We war against English dominion."
+
+【判读】革命纲领 **废什一税、教产国有**，但 **明文冻结土地转移并要求照旧交租**，并声明不向财产开战。→ 任何"法国胜利＝爱尔兰土地革命＝无饥荒"的推论，不能从1803年革命派自己的文件中取得支持；土地再分配若发生，其来源只能是 **对"英格兰党羽"的政治没收**（宣言第4条授权扣押人质、上一轮已录），即法国式 biens nationaux 类比，而非普遍性佃农赋权。

@@ -1,0 +1,44 @@
+    To investigate whether the relationships we identify between ruggedness, draft-
+dodging, and conscription hold when accounting for the demarcation the cultural
+differences between the Southern and Northern regions of France, we use a variable
+constructed by Le Bris (2019). This variable, named “Civil law,” is equal to 1 when
+a department had exclusively civil law institutions on its territory and 0 otherwise.
+Departments using a mix of “customary” and “civil” law institutions are assigned a
+value of 0.5.
+    Table 27 reproduces the specifications from table 1 while controlling for “Civil
+law” (Panel A), using only departments in which civil law was used as a sample
+(Panel B), and using only departments in which customary law was used (Panel C).
+    As one might expect, introducing “Civil law” as a control makes the results statis-
+tically weaker because our “Civil law” variable is highly correlated with ruggedness,9 .
+Despite this, our results have the right sign for “Log of ruggedness”—except for
+the univariate regression using civil law department only which is virtually equal
+to zero,10 and are generally statistically significant. The results are strongest for
+customary law departments—which is also the group with the most observations.
+    In addition, “Distance from Paris” is highly correlated with both the log of rugged-
+ness (0.64) and “Civil law” (0.83).11 The absence of statistical significance in some
+of the columns may therefore be the result of our data having too few observations
+to identify the independent effect of those 3 highly correlated variables. Once we
+exclude “Distance from Paris,” all regressions, using Conley standard errors, are sig-
+nificant at the 10% level and a majority are significant at the 5% level. As for Panel B
+and C, excluding “Distance from Paris” leads all of the ‘Log of ruggedness” coefficient
+to be significant at the 5% level in columns 2 to 5.
+    Finally, table 28 reproduces the specifications from Table 3 and show that its
+results are, here too, robust to accounting for legal origins. The relationship between
+the log of ruggedness and the rate of conscription, on the other hand, seems markedly
+more pronounced in “civil law” departments than in “customary law” ones.
+
+
+
+
+   9
+      The correlation coefficient between the log of ruggedness and “civil law” is equal to 0.64.
+  10
+      This is likely due to departments in the Alps with much higher ruggedness values than the
+rest of France. Note also that the regressions in Panel C rely on fewer than half observations as in
+Panel A.
+   11
+      The VIF score for the “Distance from Paris” variable is equal to 37.9 in Panel A, column 5. A
+VIF greater than 10 is said to indicate potential issues with multicollinearity.
+
+
+                                                48

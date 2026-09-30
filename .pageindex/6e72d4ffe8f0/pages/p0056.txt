@@ -1,0 +1,432 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+Iraq,IRQ,1931,3960556
+Iraq,IRQ,1932,3979174
+Iraq,IRQ,1933,3989537
+Iraq,IRQ,1934,3999928
+Iraq,IRQ,1935,4010346
+Iraq,IRQ,1936,4020791
+Iraq,IRQ,1937,4031263
+Iraq,IRQ,1938,4041762
+Iraq,IRQ,1939,4077709
+Iraq,IRQ,1940,4140032
+Iraq,IRQ,1941,4229689
+Iraq,IRQ,1942,4347673
+Iraq,IRQ,1943,4495010
+Iraq,IRQ,1944,4647340
+Iraq,IRQ,1945,4804832
+Iraq,IRQ,1946,4967661
+Iraq,IRQ,1947,5136009
+Iraq,IRQ,1948,5310061
+Iraq,IRQ,1949,5483614
+Iraq,IRQ,1950,5653357
+Iraq,IRQ,1951,5774132
+Iraq,IRQ,1952,5913013
+Iraq,IRQ,1953,6064249
+Iraq,IRQ,1954,6219477
+Iraq,IRQ,1955,6366279
+Iraq,IRQ,1956,6507499
+Iraq,IRQ,1957,6633379
+Iraq,IRQ,1958,6741679
+Iraq,IRQ,1959,6870386
+Iraq,IRQ,1960,7022057
+Iraq,IRQ,1961,7194561
+Iraq,IRQ,1962,7413876
+Iraq,IRQ,1963,7667932
+Iraq,IRQ,1964,7929572
+Iraq,IRQ,1965,8202145
+Iraq,IRQ,1966,8485103
+Iraq,IRQ,1967,8778876
+Iraq,IRQ,1968,9085016
+Iraq,IRQ,1969,9403356
+Iraq,IRQ,1970,9735611
+Iraq,IRQ,1971,10077818
+Iraq,IRQ,1972,10430169
+Iraq,IRQ,1973,10795872
+Iraq,IRQ,1974,11167770
+Iraq,IRQ,1975,11543643
+Iraq,IRQ,1976,11927652
+Iraq,IRQ,1977,12331051
+Iraq,IRQ,1978,12753355
+Iraq,IRQ,1979,13170372
+Iraq,IRQ,1980,13591996
+Iraq,IRQ,1981,14006379
+Iraq,IRQ,1982,14406082
+Iraq,IRQ,1983,14840558
+Iraq,IRQ,1984,15310729
+Iraq,IRQ,1985,15683431
+Iraq,IRQ,1986,16074146
+Iraq,IRQ,1987,16521051
+Iraq,IRQ,1988,16908823
+Iraq,IRQ,1989,17364553
+Iraq,IRQ,1990,17581208
+Iraq,IRQ,1991,17767257
+Iraq,IRQ,1992,18300849
+Iraq,IRQ,1993,19201195
+Iraq,IRQ,1994,20139818
+Iraq,IRQ,1995,20825859
+Iraq,IRQ,1996,21501321
+Iraq,IRQ,1997,22176604
+Iraq,IRQ,1998,22884402
+Iraq,IRQ,1999,23636530
+Iraq,IRQ,2000,24424060
+Iraq,IRQ,2001,25197842
+Iraq,IRQ,2002,26006558
+Iraq,IRQ,2003,26802660
+Iraq,IRQ,2004,27577876
+Iraq,IRQ,2005,28407450
+Iraq,IRQ,2006,28616518
+Iraq,IRQ,2007,28391606
+Iraq,IRQ,2008,28971042
+Iraq,IRQ,2009,30058207
+Iraq,IRQ,2010,31045367
+Iraq,IRQ,2011,32161425
+Iraq,IRQ,2012,33654843
+Iraq,IRQ,2013,35281987
+Iraq,IRQ,2014,36550058
+Iraq,IRQ,2015,37560535
+Iraq,IRQ,2016,38469628
+Iraq,IRQ,2017,39337358
+Iraq,IRQ,2018,40265629
+Iraq,IRQ,2019,41192172
+Iraq,IRQ,2020,42116602
+Iraq,IRQ,2021,43071208
+Iraq,IRQ,2022,44070556
+Iraq,IRQ,2023,45074055
+Ireland,IRL,1950,2912656
+Ireland,IRL,1951,2936865
+Ireland,IRL,1952,2941463
+Ireland,IRL,1953,2929083
+Ireland,IRL,1954,2915174
+Ireland,IRL,1955,2899545
+Ireland,IRL,1956,2883752
+Ireland,IRL,1957,2869103
+Ireland,IRL,1958,2854004
+Ireland,IRL,1959,2839216
+Ireland,IRL,1960,2827691
+Ireland,IRL,1961,2824696
+Ireland,IRL,1962,2831496
+Ireland,IRL,1963,2843035
+Ireland,IRL,1964,2857169
+Ireland,IRL,1965,2873157
+Ireland,IRL,1966,2888884
+Ireland,IRL,1967,2905420
+Ireland,IRL,1968,2922789
+Ireland,IRL,1969,2940759
+Ireland,IRL,1970,2961402
+Ireland,IRL,1971,2993119
+Ireland,IRL,1972,3037153
+Ireland,IRL,1973,3084436
+Ireland,IRL,1974,3132177
+Ireland,IRL,1975,3180119
+Ireland,IRL,1976,3228393
+Ireland,IRL,1977,3277756
+Ireland,IRL,1978,3329185
+Ireland,IRL,1979,3375806
+Ireland,IRL,1980,3415240
+Ireland,IRL,1981,3448825
+Ireland,IRL,1982,3475532
+Ireland,IRL,1983,3497614
+Ireland,IRL,1984,3515953
+Ireland,IRL,1985,3531275
+Ireland,IRL,1986,3541875
+Ireland,IRL,1987,3540382
+Ireland,IRL,1988,3525092
+Ireland,IRL,1989,3511070
+Ireland,IRL,1990,3514015
+Ireland,IRL,1991,3534258
+Ireland,IRL,1992,3558417
+Ireland,IRL,1993,3576118
+Ireland,IRL,1994,3590162
+Ireland,IRL,1995,3610695
+Ireland,IRL,1996,3638507
+Ireland,IRL,1997,3672287
+Ireland,IRL,1998,3711075
+Ireland,IRL,1999,3752938
+Ireland,IRL,2000,3802589
+Ireland,IRL,2001,3862981
+Ireland,IRL,2002,3928441
+Ireland,IRL,2003,3992935
+Ireland,IRL,2004,4066066
+Ireland,IRL,2005,4155283
+Ireland,IRL,2006,4268775
+Ireland,IRL,2007,4393518
+Ireland,IRL,2008,4485992
+Ireland,IRL,2009,4533750
+Ireland,IRL,2010,4559084
+Ireland,IRL,2011,4579603
+Ireland,IRL,2012,4600135
+Ireland,IRL,2013,4624686
+Ireland,IRL,2014,4658236
+Ireland,IRL,2015,4702497
+Ireland,IRL,2016,4753506
+Ireland,IRL,2017,4810258
+Ireland,IRL,2018,4872559
+Ireland,IRL,2019,4933493
+Ireland,IRL,2020,4982602
+Ireland,IRL,2021,5028428
+Ireland,IRL,2022,5110015
+Ireland,IRL,2023,5196629
+Ireland (whole island),,1800,5250000
+Ireland (whole island),,1801,5329879
+Ireland (whole island),,1802,5410972
+Ireland (whole island),,1803,5493300
+Ireland (whole island),,1804,5576881
+Ireland (whole island),,1805,5661733
+Ireland (whole island),,1806,5747876
+Ireland (whole island),,1807,5835329
+Ireland (whole island),,1808,5924114
+Ireland (whole island),,1809,6014249
+Ireland (whole island),,1810,6107148
+Ireland (whole island),,1811,6200068
+Ireland (whole island),,1812,6294402
+Ireland (whole island),,1813,6390171
+Ireland (whole island),,1814,6487397
+Ireland (whole island),,1815,6586102
+Ireland (whole island),,1816,6686310
+Ireland (whole island),,1817,6788042
+Ireland (whole island),,1818,6891322
+Ireland (whole island),,1819,6988457
+Ireland (whole island),,1820,7079278
+Ireland (whole island),,1821,7163614
+Ireland (whole island),,1822,7241288
+Ireland (whole island),,1823,7312122
+Ireland (whole island),,1824,7383648
+Ireland (whole island),,1825,7455874
+Ireland (whole island),,1826,7528807
+Ireland (whole island),,1827,7602453
+Ireland (whole island),,1828,7676819
+Ireland (whole island),,1829,7746740
+Ireland (whole island),,1830,7812138
+Ireland (whole island),,1831,7872935
+Ireland (whole island),,1832,7929052
+Ireland (whole island),,1833,7980409
+Ireland (whole island),,1834,8032100
+Ireland (whole island),,1835,8084125
+Ireland (whole island),,1836,8136487
+Ireland (whole island),,1837,8189188
+Ireland (whole island),,1838,8242230
+Ireland (whole island),,1839,8252749
+Ireland (whole island),,1840,8221292
+Ireland (whole island),,1841,8148395
+Ireland (whole island),,1842,8034579
+Ireland (whole island),,1843,7880357
+Ireland (whole island),,1844,7729095
+Ireland (whole island),,1845,7580737
+Ireland (whole island),,1846,7435227
+Ireland (whole island),,1847,7292509
+Ireland (whole island),,1848,7152531
+Ireland (whole island),,1849,7018882
+Ireland (whole island),,1850,6891380
+Ireland (whole island),,1851,6768203
+Ireland (whole island),,1852,6650879
+Ireland (whole island),,1853,6539235
+Ireland (whole island),,1854,6429466
+Ireland (whole island),,1855,6321538
+Ireland (whole island),,1856,6215422
+Ireland (whole island),,1857,6111087
+Ireland (whole island),,1858,6008503
+Ireland (whole island),,1859,5918580
+Ireland (whole island),,1860,5841021
+Ireland (whole island),,1861,5775536
+Ireland (whole island),,1862,5721842
+Ireland (whole island),,1863,5679657
+Ireland (whole island),,1864,5637784
+Ireland (whole island),,1865,5596218
+Ireland (whole island),,1866,5554959
+Ireland (whole island),,1867,5514004
+Ireland (whole island),,1868,5473350
+Ireland (whole island),,1869,5436309
+Ireland (whole island),,1870,5402839
+Ireland (whole island),,1871,5372898
+Ireland (whole island),,1872,5346446
+Ireland (whole island),,1873,5323442
+Ireland (whole island),,1874,5300537
+Ireland (whole island),,1875,5277730
+Ireland (whole island),,1876,5255021
+Ireland (whole island),,1877,5232409
+Ireland (whole island),,1878,5209894
+Ireland (whole island),,1879,5181609
+Ireland (whole island),,1880,5147638
+Ireland (whole island),,1881,5108066
+Ireland (whole island),,1882,5062975
+Ireland (whole island),,1883,5012447
+Ireland (whole island),,1884,4962424
+Ireland (whole island),,1885,4912899
+Ireland (whole island),,1886,4863868
+Ireland (whole island),,1887,4815326
+Ireland (whole island),,1888,4767268
+Ireland (whole island),,1889,4723737
+Ireland (whole island),,1890,4684663
+Ireland (whole island),,1891,4649978
+Ireland (whole island),,1892,4619615
+Ireland (whole island),,1893,4593507
+Ireland (whole island),,1894,4567547
+Ireland (whole island),,1895,4541732
+Ireland (whole island),,1896,4516064
+Ireland (whole island),,1897,4490540
+Ireland (whole island),,1898,4465160
+Ireland (whole island),,1899,4443025
+Ireland (whole island),,1900,4424108
+Ireland (whole island),,1901,4408385
+Ireland (whole island),,1902,4395829
+Ireland (whole island),,1903,4386416
+Ireland (whole island),,1904,4377023
+Ireland (whole island),,1905,4367650
+Ireland (whole island),,1906,4358296
+Ireland (whole island),,1907,4348962
+Ireland (whole island),,1908,4339648
+Ireland (whole island),,1909,4331518
+Ireland (whole island),,1910,4324569
+Ireland (whole island),,1911,4318796
+Ireland (whole island),,1912,4314196
+Ireland (whole island),,1913,4310765
+Ireland (whole island),,1914,4307336
+Ireland (whole island),,1915,4303910
+Ireland (whole island),,1916,4300487
+Ireland (whole island),,1917,4297066
+Ireland (whole island),,1918,4294708
+Ireland (whole island),,1919,4259285
+Ireland (whole island),,1920,4192107
+Isle of Man,IMN,1800,23530
+Isle of Man,IMN,1820,23530
+Isle of Man,IMN,1950,55115
+Isle of Man,IMN,1951,55090
+Isle of Man,IMN,1952,54666
+Isle of Man,IMN,1953,54095
+Isle of Man,IMN,1954,53469
+Isle of Man,IMN,1955,52801
+Isle of Man,IMN,1956,52086
+Isle of Man,IMN,1957,51329
+Isle of Man,IMN,1958,50547
+Isle of Man,IMN,1959,49739
+Isle of Man,IMN,1960,48887
+Isle of Man,IMN,1961,48473
+Isle of Man,IMN,1962,48713
+Isle of Man,IMN,1963,49170
+Isle of Man,IMN,1964,49650
+Isle of Man,IMN,1965,50113
+Isle of Man,IMN,1966,50775
+Isle of Man,IMN,1967,51764
+Isle of Man,IMN,1968,52916
+Isle of Man,IMN,1969,54094
+Isle of Man,IMN,1970,55323
+Isle of Man,IMN,1971,56452
+Isle of Man,IMN,1972,57393
+Isle of Man,IMN,1973,58280
+Isle of Man,IMN,1974,59165
+Isle of Man,IMN,1975,59986
+Isle of Man,IMN,1976,60773
+Isle of Man,IMN,1977,61595
+Isle of Man,IMN,1978,62424
+Isle of Man,IMN,1979,63261
+Isle of Man,IMN,1980,64103
+Isle of Man,IMN,1981,64622
+Isle of Man,IMN,1982,64710
+Isle of Man,IMN,1983,64656
+Isle of Man,IMN,1984,64552
+Isle of Man,IMN,1985,64426
+Isle of Man,IMN,1986,64723
+Isle of Man,IMN,1987,65624
+Isle of Man,IMN,1988,66703
+Isle of Man,IMN,1989,67811
+Isle of Man,IMN,1990,68943
+Isle of Man,IMN,1991,69835
+Isle of Man,IMN,1992,70378
+Isle of Man,IMN,1993,70797
+Isle of Man,IMN,1994,71187
+Isle of Man,IMN,1995,71531
+Isle of Man,IMN,1996,72066
+Isle of Man,IMN,1997,72925
+Isle of Man,IMN,1998,73880
+Isle of Man,IMN,1999,74808
+Isle of Man,IMN,2000,75679
+Isle of Man,IMN,2001,76498
+Isle of Man,IMN,2002,77294
+Isle of Man,IMN,2003,78066
+Isle of Man,IMN,2004,78807
+Isle of Man,IMN,2005,79535
+Isle of Man,IMN,2006,80310
+Isle of Man,IMN,2007,81163
+Isle of Man,IMN,2008,82045
+Isle of Man,IMN,2009,82954
+Isle of Man,IMN,2010,83884
+Isle of Man,IMN,2011,84398
+Isle of Man,IMN,2012,84354
+Isle of Man,IMN,2013,84158
+Isle of Man,IMN,2014,83912
+Isle of Man,IMN,2015,83612
+Isle of Man,IMN,2016,83484
+Isle of Man,IMN,2017,83625
+Isle of Man,IMN,2018,83812
+Isle of Man,IMN,2019,83975
+Isle of Man,IMN,2020,84078
+Isle of Man,IMN,2021,84121
+Isle of Man,IMN,2022,84148
+Isle of Man,IMN,2023,84182
+Israel,ISR,-10000,11936
+Israel,ISR,-9000,16911
+Israel,ISR,-8000,24043
+Israel,ISR,-7000,34298
+Israel,ISR,-6000,49092
+Israel,ISR,-5000,70499
+Israel,ISR,-4000,101562
+Israel,ISR,-3000,146762
+Israel,ISR,-2000,212700
+Israel,ISR,-1000,309127
+Israel,ISR,0,450460
+Israel,ISR,100,625117
+Israel,ISR,200,885980
+Israel,ISR,300,1276125
+Israel,ISR,400,982954
+Israel,ISR,500,762526
+Israel,ISR,600,596666
+Israel,ISR,700,471744
+Israel,ISR,800,377537
+Israel,ISR,900,352376
+Israel,ISR,1000,327262
+Israel,ISR,1100,332859
+Israel,ISR,1200,338500
+Israel,ISR,1300,344185
+Israel,ISR,1400,273245
+Israel,ISR,1500,317346
+Israel,ISR,1600,315487
+Israel,ISR,1700,267668
+Israel,ISR,1710,293408
+Israel,ISR,1720,320180
+Israel,ISR,1730,348100
+Israel,ISR,1740,377296
+Israel,ISR,1750,407908
+Israel,ISR,1760,440095
+Israel,ISR,1770,474031
+Israel,ISR,1780,509911
+Israel,ISR,1790,547950
+Israel,ISR,1800,209954
+Israel,ISR,1801,209954
+Israel,ISR,1802,209954
+Israel,ISR,1803,209954
+Israel,ISR,1804,209954
+Israel,ISR,1805,209954
+Israel,ISR,1806,209954
+Israel,ISR,1807,209954
+Israel,ISR,1808,209954
+Israel,ISR,1809,209954
+Israel,ISR,1810,209954
+Israel,ISR,1811,209954
+Israel,ISR,1812,209954
+Israel,ISR,1813,209954
+Israel,ISR,1814,209954
+Israel,ISR,1815,209954
+Israel,ISR,1816,209954
+Israel,ISR,1817,209954
+Israel,ISR,1818,209954
+Israel,ISR,1819,209954
+Israel,ISR,1820,209954
+Israel,ISR,1821,209954
+Israel,ISR,1822,209954
+Israel,ISR,1823,209954
+Israel,ISR,1824,209954
+Israel,ISR,1825,209954
+Israel,ISR,1826,209954
+Israel,ISR,1827,209954
+Israel,ISR,1828,209954

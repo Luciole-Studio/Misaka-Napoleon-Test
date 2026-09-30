@@ -1,0 +1,54 @@
+---
+source_url: "https://www.persee.fr/doc/rhmc_0048-8003_1970_num_17_3_2082"
+final_url: "https://www.persee.fr/doc/rhmc_0048-8003_1970_num_17_3_2082"
+provider: "exa"
+text_sha256: "c2de7156568bdcefa740bd412c0ed56439beef789f3553daf64e842a36f93b75"
+title: "Le probl\u00e8me des pertes de guerre - Pers\u00e9e"
+content_kind: "page_text"
+---
+
+Le problème des pertes de guerre - Persée Saut au contenu
+
+#### Plan
+
+#### Figures
+
+## Le problème des pertes de guerre
+
+#### [article]
+
+Revue d’Histoire Moderne & Contemporaine Année 1970 17-3 pp. 411-423
+
+Fait partie d’un numéro thématique : La France à l'époque napoléonienne
+
+- Référence bibliographique
+
+Houdaille Jacques. Le problème des pertes de guerre. In: Revue d’histoire moderne et contemporaine, tome 17 N°3, Juillet-septembre 1970. La France à l'époque napoléonienne. pp. 411-423.
+
+### Plan
+
+1. Annexe I[link]
+2. Annexe II[link]
+
+### Liste des illustrations
+
+1. Tableau 1 : Destin des soldats de l'Empire An VIII-1814[link]
+2. Tableau 2 : Destin par années — Français seulement (en milliers)[link]
+3. Pertes (en milliers)[link]
+4. Tableau de donnees - Sans titre[link]
+
+### Texte intégral
+
+---
+
+LE PROBLÈME DES PERTES DE GUERRE
+
+On s'intéressait à la statistique sous le Premier Empire. Pour s'en il suffit de feuilleter les dossiers de recrutement conservés aux Archives nationales sous la cote AF IV, 1116 à 1122. Ils sont remplis de tableaux visant à fixer le nombre de recrues et les effectifs de l'armée. Mais on y chercherait en vain des chiffres relatifs aux pertes ou même aux congés et aux retraites. Certes, de nombreux documents fournissent des états sur la désertion ; mais il semble, à première vue, difficile d'en tirer parti. Dans l'ensemble, ces volumineux dossiers donnent l'impression que le gouvernement impérial s'intéressait beaucoup plus aux entrées dans l'armée qu'aux soldats qui en sortaient par décès ou autrement.
+
+Les historiens du xixe siècle, cependant, se sont montrés curieux des pertes subies lors de certaines campagnes, celle de Russie en particulier. A notre connaissance, la première tentative pour évaluer les pertes militaires de la Révolution et de l'Empire date de 1842. Elle fut faite par un certain Pouillet, qui utilisa l'excédent féminin au recensement de 1836, pour les évaluer à 1 300 000 ou 1 400 000 hommes i. En 1859, Hippolyte Philibert Passy, dans une communication à l'Académie des Sciences, les fixa à
+
+1 700 000 hommes pour l'Empire 3. Ce chiffre devait être répété par bien des historiens, notamment par Taine dans he Régime Moderne (I, 42), puis par Lavisse et Rambaud ce qui lui assura une sorte de consécration officielle.
+
+D'autres auteurs cependant hasardaient d'autres chiffres. L'anthropologue Broca s'en tenait à un million, alors que Vacher de Lapouge 3 penchait pour
+
+2 600 000 hommes en France et 3 500 000 à l'étranger... Levasseur, dans La population française, s'est abstenu de toute affirmation sur cette question Il donne cependant les excédents, année par année, des décès sur les décès féminins. En admettant que cet excédent soit d'environ

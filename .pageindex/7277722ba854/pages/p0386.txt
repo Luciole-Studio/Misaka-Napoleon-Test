@@ -1,0 +1,68 @@
+
+
+  CAVALRY, 1st Dragoons       21    377    --    2     6    30     1    3        42
+  ARTILLERY, 2 batteries       8    161     1   16     3    31     1   --        52
+  ÉTAT-MAJOR                   ?     ?      2   --     2    --     1   --         5
+                             ---  -----    --  ---    --  ----    --  ---     -----
+            General Total    238  6,932    24  220    54 1,630    10  124     2,062
+
+  [781] These two battalions were formed of the fourteen grenadier
+  companies of the 1st and 2nd battalions of all the seven regiments of
+  Laval’s and Ruffin’s divisions, including those of the 16th Léger,
+  absent from the corps. The men are therefore all counted already in
+  their battalions, save those of the 16th Léger, which would probably
+  give 7 officers and 170 men to be added to the above total of 7,170.
+  That these companies of the 16th were present is shown by the fact that
+  two casualties of officers of the regiment are recorded in Martinien’s
+  lists at Barrosa.
+
+  [782] Losses of these six companies are included among those of the
+  other grenadiers in the return. They were little engaged, and probably
+  lost only 20 or 30 men.
+
+
+(2) TROOPS ENGAGED AGAINST THE SPANIARDS, IN THE COMBAT BY THE TORRE
+BERMEJA
+
+                            _Present._  _Killed._  _Wounded._  _Missing._ _Total._
+                         _Off._ _Men._  _O._ _M._  _O._  _M._  _O._ _M._
+
+  DIVISION VILLATTE:
+  1/27th and 3/27th Léger  43    982     1   20     7   150     2   21       201
+  1/94th Ligne             15    535     1    9     3    49    --   --        62
+  2/95th and 3/95th
+    Ligne                  30  1,026    --    1    --    32    --    1        34
+  CAVALRY, 2nd Dragoons    19    270    --    3    --    12    --    4        19
+  ARTILLERY, 1 battery      3     75    --   --    --   ---    --   --        --
+  ÉTAT-MAJOR                ?      ?    --   --     1   ---    --   --         1
+                          ---  -----    --   --    --   ---    --   --       ---
+                          110  2,881     2   33    11   243     2   26       317
+
+N.B.--There were absent from their divisions:
+
+(1) With Cassagne at Medina Sidonia--the 2/27th, 3/94th, 2/96th,
+1/95th, and a battalion of _voltigeur_ companies from the 3rd battalion
+of the 8th, 24th, 45th, 54th, 96th, and 6th Léger; also the 5th
+Chasseurs à Cheval.
+
+(2) Left in garrison in the Cadiz lines--the 1/9th Léger, 2/45th and
+2/94th Ligne.
+
+(3) Taken away by Soult--the 63rd Ligne and 16th Léger.
+
+
+
+
+VI
+
+BRITISH LOSSES DURING THE COMBATS
+11TH-15TH MARCH, 1811
+
+                     _Killed._      _Wounded._  _Missing._   _Total._
+                _Officers._ _Men._   _O._ _M._   _O._ _M._
+
+    POMBAL, March 11th:
+  1/95th Foot          --      1      1    4     --   --          6
+  3rd Caçadores        --     10      1   20     --   --         31
+                       --     --     --   --     --   --         --
+      Total            --     11      2   24     --   --         37

@@ -1,0 +1,45 @@
+P1: JZP
+9780521879644App1      CUNY1040/Marichal            0 521 87964 7                       August 23, 2007        10:38
+
+
+
+
+               270                                            Appendixes
+
+                       Table I.3. Silver Coin Mintage and Remittances by the Royal Treasuries of New Spain
+
+                                Remittances         Remittances             Total
+                                  to Castille       to Caribbean       Remittances             Mintage of New Spain
+               Years            (Silver Pesos)      (Silver Pesos)     (Silver Pesos)            Silver Production
+
+                                                                                           Silver (Marks)     Silver (Pesos)
+               1720–1729          6,294,270           7,584,116            13,878,386        9,873,198         83,922,183
+               1730–1739          9,479,649           8,853,629            18,333,278       10,650,545         90,529,633
+               1740–1749          6,222,867          15,872,470            22,095,337       12,067,202        102,571,217
+               1750–1759         12,174,996          15,905,103            28,080,099       14,793,893        125,748,091
+               1760–1769          6,338,091          24,905,563            31,243,654       13,280,859        112,887,302
+               1770–1779         14,350,622          34,538,802            48,889,424       19,361,189        164,570,107
+               1780–1789         16,556,050          61,705,650            78,261,700       22,050,436        187,428,706
+               1790–1799         43,174,534          47,485,230            90,659,764       26,021,253        221,180,651
+               Note: 1 mark = 8.5 pesos.
+               Source: John J. Tepaske. and Herbert S. Klein, Ingresos y egresos de la Real Hacienda de Nueva España, 2 vols.
+               (México: Instituto Nacional de Antropologı́a e Historia, Colección Fuentes, 1986–1988). Alexander
+               von Humboldt, Ensayo polı́tico sobre el reino de la Nueva España, Mexico, Ed. Porrúa, 1991. Richard Garner,
+               Economic History Data Desk, that can be consulted in http://home.comcast.net/∼richardgarner04/.
+
+
+
+
+                                                      Table I.4. Index Numbers a
+
+                                      Remittances             Remittances                 Total                   Mintage
+               Years                   to Castille            to Caribbean              Remittances            Silver (Pesos)
+               1720–1729                   100                       100                    100                     100
+               1730–1739                   117                       117                    117                     108
+               1740–1749                   115                       209                    158                     122
+               1750–1759                   169                       262                    212                     150
+               1760–1769                    88                       328                    198                     135
+               1770–1779                   199                       455                    317                     196
+               1780–1789                   263                       814                    515                     223
+               1790–1799                   600                       626                    612                     264
+               a These index numbers are based on date in Table 1.3.

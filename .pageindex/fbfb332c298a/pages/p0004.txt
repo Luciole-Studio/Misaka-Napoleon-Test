@@ -1,0 +1,29 @@
+
+
+【机制·可移植】**"殖民地债务"与"宗主国债务"的经济效果不同**：Marichal 的论证是，借来的钱没有花在墨西哥而是运走了，本息却要由本地国库偿付，"these colonial debts reduced capital assets in the economy and, at the same, increased the future tax burden of the inhabitants of New Spain"（p.256）。这与 F4 卡"并合省继承旧债 ＝ 每百万人每年 −6"的机制同构：**汲取型帝国的边际成本是本地信贷体系的容量，而不是本地的年产出。**
+
+【推演·中高置信】**新西班牙的可汲取上限是一条有肩的曲线**：
+- 常态（不触动信贷体系）：**约 800 万 pesos/年**，已由 1780–1810 年均值证实；
+- 加压（动用强制借贷与捐输）：再加 **100–200 万 pesos/年**，可维持 5–10 年；
+- 极限（动用 Consolidación 式的信贷体系抽干）：再加 **200–300 万 pesos/年**，但只能维持 3–5 年，且**代价是把矿主、商人、地主、教会同时推到对立面**——这正是 1805–1809 年发生的事。
+- **超过合计 1,100–1,300 万 pesos/年的任何要求，在任何政权下都不可能持续满足。**
+
+---
+
+## §4 ④经济：产出、贸易、资源、运输
+
+【锚点】**结构性反直觉**：Humboldt 据什一税推算，新西班牙年农业产值 ≈ **2,900 万 piastres**（地产 2,400 万＋免什一税的胭脂虫/香草/jalap/辣椒/菝葜 300 万＋只缴 4% 的糖与靛蓝 200 万），折 **1.45 亿法郎**；而"la valeur de l'or et de l'argent des mines du Mexique est **presque d'un quart plus petite que la valeur du produit territorial**"（印 p.285–286，亲读）。**矿业产值只有农业的四分之三左右。**
+
+【锚点】**白银产出的地理集中度极高**："ce n'est que d'un très-petit nombre de mines que sont tirés les **2,500,000 marcs d'argent** qui passent annuellement en Europe et en Asie par les ports de Vera-Cruz et d'Acapulco… **Un seul filon, celui de Guanaxuato, donne près du quart de tout l'argent mexicain, et la sixième partie du produit de l'Amérique entière**"（Humboldt 印 p.335–336）。Brading & Cross：铸币从 1706 年 600 万涨到 1798 年 **2,400 万 pesos**，墨西哥占全美洲 67%，**瓜纳华托一个矿区等于整个秘鲁总督区的铸币额**。
+
+【锚点·本卡最重要的物理约束】**水银**。Brading & Cross：殖民时代只有三处大汞矿——西班牙阿尔马登、奥皇的 Idria、秘鲁万卡韦利卡；"**Huancavelica generally supplied Peru and Almadén supplied New Spain. In both cases failure to produce sufficient mercury could have catastrophic effects upon the local silver mines** … It was this intimate connection which **bound the Mexican silver miner to Europe**."阿尔马登波旁时期年产"at times exceeded 18,000 quintales"（另处称 1760 年后峰值"over 20,000 hundredweight"）；1767、1776 两步把墨西哥官价从 82.5 pesos 腰斩到 **41 pesos**，"The great Mexican boom in silver production in great measure depended upon this twofold achievement"。转换率：平均 **每 quintal 水银产 100–125 marks 白银**。
+
+→ **推算（本卡，写入 CSV）**：年产 250 万 marcs 需水银 **17,000–25,000 quintales/年**，恰等于阿尔马登历史峰值的全部。**新西班牙白银产出的物理上限，就是阿尔马登的年产量加上跨大西洋运输的成功率。**
+
+【锚点·机制已被历史实测】
+- 1802 年，Humboldt 亲见："les produits se vendoient à des prix très-bas, **parce que le manque de mercure entravoit l'amalgamation, et que toutes les mines étoient encombrées de minerais**"（印 p.410）。瓜纳华托的碾矿机"broient, **lorsqu'il y a abondance de mercure**, onze mille trois cent soixante-dix quintaux de minerai par jour"（印 p.414）——产能是水银供给的函数。
+- 17 世纪先例：**"After 1630, quite suddenly, mercury shipments to Mexico dropped by a half. Within five years, when all remaining stocks were exhausted, silver production followed suit."**（Brading & Cross）→ **库存缓冲约五年。**
+- 缺汞时的替代：熔炼法可处理 13–30% 的矿石；Zacatecas 在 1685–1705 缺汞期近一半白银靠熔炼（Brading & Cross）。
+
+【锚点】**贸易**：韦拉克鲁斯是白银集散口，阿卡普尔科是对菲律宾-中国的口岸。1805–08 年"neutral commerce"因 Ouvrard 取得的许可证而激增（Marichal p.180）。1806–08 年有**约七十艘中立商船**自韦拉克鲁斯运银出港，每船随附 5–10 万 pesos（p.192、193 注 84）。
+

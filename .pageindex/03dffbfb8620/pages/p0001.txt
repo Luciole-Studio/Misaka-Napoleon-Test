@@ -1,0 +1,86 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: M1_sensitivity.csv
+
+```meta
+▸ table "M1_sensitivity.csv" (306 data rows)
+▸ columns
+    event_id: str, 17 uniq: ['america_war', 'austerlitz', 'commercial_crisis', 'elba_return', 'erfurt', 'gebora_badajoz', 'invasion_scare', 'leipzig', 'paris_abdication', 'paris_treaty', 'russia_retreat', 'russian_invasion', 'tilsit', 'trafalgar', 'wagram', 'war_resumption', 'waterloo']
+    market: str, 2 uniq: ['FR_rente_5pct', 'UK_consol_3pct']
+    start_month: str, 17 uniq: ['1803-04', '1803-07', '1805-10', '1805-11', '1807-06', '1808-09', '1809-06', '1810-10', '1811-02', '1812-05', '1812-07', '1812-11', '1813-09', '1814-03', '1814-05', '1815-02', '1815-05']
+    end_month: str, 17 uniq: ['1803-06', '1803-09', '1805-12', '1806-01', '1807-08', '1808-11', '1809-08', '1810-12', '1811-04', '1812-07', '1812-09', '1813-01', '1813-11', '1814-05', '1814-07', '1815-04', '1815-07']
+    proxy_price_return_pct: num, min=-25.1568, max=17.7145
+    assumed_good_bad_price_gap_pct: num, min=20, max=60
+    assumed_event_attributable_fraction: num, min=0.25, max=1
+    implied_change_in_good_state_probability_pp: num, min=-125.78, max=88.57
+    note: str, 1 uniq: ['scenario-only state gap; unconstrained probability change may be outside [-100,100]']
+```
+event_id,market,start_month,end_month,proxy_price_return_pct,assumed_good_bad_price_gap_pct,assumed_event_attributable_fraction,implied_change_in_good_state_probability_pp,note
+war_resumption,UK_consol_3pct,1803-04,1803-06,-9.3069,20,0.25,-11.63,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+war_resumption,UK_consol_3pct,1803-04,1803-06,-9.3069,20,0.5,-23.27,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+war_resumption,UK_consol_3pct,1803-04,1803-06,-9.3069,20,1.0,-46.53,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+war_resumption,UK_consol_3pct,1803-04,1803-06,-9.3069,40,0.25,-5.82,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+war_resumption,UK_consol_3pct,1803-04,1803-06,-9.3069,40,0.5,-11.63,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+war_resumption,UK_consol_3pct,1803-04,1803-06,-9.3069,40,1.0,-23.27,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+war_resumption,UK_consol_3pct,1803-04,1803-06,-9.3069,60,0.25,-3.88,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+war_resumption,UK_consol_3pct,1803-04,1803-06,-9.3069,60,0.5,-7.76,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+war_resumption,UK_consol_3pct,1803-04,1803-06,-9.3069,60,1.0,-15.51,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+war_resumption,FR_rente_5pct,1803-04,1803-06,-9.5204,20,0.25,-11.90,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+war_resumption,FR_rente_5pct,1803-04,1803-06,-9.5204,20,0.5,-23.80,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+war_resumption,FR_rente_5pct,1803-04,1803-06,-9.5204,20,1.0,-47.60,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+war_resumption,FR_rente_5pct,1803-04,1803-06,-9.5204,40,0.25,-5.95,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+war_resumption,FR_rente_5pct,1803-04,1803-06,-9.5204,40,0.5,-11.90,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+war_resumption,FR_rente_5pct,1803-04,1803-06,-9.5204,40,1.0,-23.80,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+war_resumption,FR_rente_5pct,1803-04,1803-06,-9.5204,60,0.25,-3.97,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+war_resumption,FR_rente_5pct,1803-04,1803-06,-9.5204,60,0.5,-7.93,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+war_resumption,FR_rente_5pct,1803-04,1803-06,-9.5204,60,1.0,-15.87,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+invasion_scare,UK_consol_3pct,1803-07,1803-09,0.7194,20,0.25,0.90,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+invasion_scare,UK_consol_3pct,1803-07,1803-09,0.7194,20,0.5,1.80,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+invasion_scare,UK_consol_3pct,1803-07,1803-09,0.7194,20,1.0,3.60,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+invasion_scare,UK_consol_3pct,1803-07,1803-09,0.7194,40,0.25,0.45,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+invasion_scare,UK_consol_3pct,1803-07,1803-09,0.7194,40,0.5,0.90,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+invasion_scare,UK_consol_3pct,1803-07,1803-09,0.7194,40,1.0,1.80,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+invasion_scare,UK_consol_3pct,1803-07,1803-09,0.7194,60,0.25,0.30,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+invasion_scare,UK_consol_3pct,1803-07,1803-09,0.7194,60,0.5,0.60,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+invasion_scare,UK_consol_3pct,1803-07,1803-09,0.7194,60,1.0,1.20,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+invasion_scare,FR_rente_5pct,1803-07,1803-09,0.1614,20,0.25,0.20,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+invasion_scare,FR_rente_5pct,1803-07,1803-09,0.1614,20,0.5,0.40,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+invasion_scare,FR_rente_5pct,1803-07,1803-09,0.1614,20,1.0,0.81,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+invasion_scare,FR_rente_5pct,1803-07,1803-09,0.1614,40,0.25,0.10,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+invasion_scare,FR_rente_5pct,1803-07,1803-09,0.1614,40,0.5,0.20,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+invasion_scare,FR_rente_5pct,1803-07,1803-09,0.1614,40,1.0,0.40,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+invasion_scare,FR_rente_5pct,1803-07,1803-09,0.1614,60,0.25,0.07,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+invasion_scare,FR_rente_5pct,1803-07,1803-09,0.1614,60,0.5,0.13,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+invasion_scare,FR_rente_5pct,1803-07,1803-09,0.1614,60,1.0,0.27,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+trafalgar,UK_consol_3pct,1805-10,1805-12,1.6878,20,0.25,2.11,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+trafalgar,UK_consol_3pct,1805-10,1805-12,1.6878,20,0.5,4.22,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+trafalgar,UK_consol_3pct,1805-10,1805-12,1.6878,20,1.0,8.44,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+trafalgar,UK_consol_3pct,1805-10,1805-12,1.6878,40,0.25,1.05,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+trafalgar,UK_consol_3pct,1805-10,1805-12,1.6878,40,0.5,2.11,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+trafalgar,UK_consol_3pct,1805-10,1805-12,1.6878,40,1.0,4.22,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+trafalgar,UK_consol_3pct,1805-10,1805-12,1.6878,60,0.25,0.70,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+trafalgar,UK_consol_3pct,1805-10,1805-12,1.6878,60,0.5,1.41,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+trafalgar,UK_consol_3pct,1805-10,1805-12,1.6878,60,1.0,2.81,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+trafalgar,FR_rente_5pct,1805-10,1805-12,8.1197,20,0.25,10.15,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+trafalgar,FR_rente_5pct,1805-10,1805-12,8.1197,20,0.5,20.30,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+trafalgar,FR_rente_5pct,1805-10,1805-12,8.1197,20,1.0,40.60,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+trafalgar,FR_rente_5pct,1805-10,1805-12,8.1197,40,0.25,5.07,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+trafalgar,FR_rente_5pct,1805-10,1805-12,8.1197,40,0.5,10.15,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+trafalgar,FR_rente_5pct,1805-10,1805-12,8.1197,40,1.0,20.30,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+trafalgar,FR_rente_5pct,1805-10,1805-12,8.1197,60,0.25,3.38,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+trafalgar,FR_rente_5pct,1805-10,1805-12,8.1197,60,0.5,6.77,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+trafalgar,FR_rente_5pct,1805-10,1805-12,8.1197,60,1.0,13.53,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+austerlitz,UK_consol_3pct,1805-11,1806-01,-0.2049,20,0.25,-0.26,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+austerlitz,UK_consol_3pct,1805-11,1806-01,-0.2049,20,0.5,-0.51,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+austerlitz,UK_consol_3pct,1805-11,1806-01,-0.2049,20,1.0,-1.02,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+austerlitz,UK_consol_3pct,1805-11,1806-01,-0.2049,40,0.25,-0.13,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+austerlitz,UK_consol_3pct,1805-11,1806-01,-0.2049,40,0.5,-0.26,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+austerlitz,UK_consol_3pct,1805-11,1806-01,-0.2049,40,1.0,-0.51,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+austerlitz,UK_consol_3pct,1805-11,1806-01,-0.2049,60,0.25,-0.09,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+austerlitz,UK_consol_3pct,1805-11,1806-01,-0.2049,60,0.5,-0.17,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+austerlitz,UK_consol_3pct,1805-11,1806-01,-0.2049,60,1.0,-0.34,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+austerlitz,FR_rente_5pct,1805-11,1806-01,-1.4628,20,0.25,-1.83,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+austerlitz,FR_rente_5pct,1805-11,1806-01,-1.4628,20,0.5,-3.66,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+austerlitz,FR_rente_5pct,1805-11,1806-01,-1.4628,20,1.0,-7.31,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+austerlitz,FR_rente_5pct,1805-11,1806-01,-1.4628,40,0.25,-0.91,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"
+austerlitz,FR_rente_5pct,1805-11,1806-01,-1.4628,40,0.5,-1.83,"scenario-only state gap; unconstrained probability change may be outside [-100,100]"

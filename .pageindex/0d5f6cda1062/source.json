@@ -1,0 +1,127 @@
+{
+  "trade_checks": [
+    {
+      "year": 1805,
+      "kind": "D",
+      "row_sum_minus_published_total_GBPm": "0.00",
+      "within_rounding_tolerance_0.05": true
+    },
+    {
+      "year": 1805,
+      "kind": "R",
+      "row_sum_minus_published_total_GBPm": "0.01",
+      "within_rounding_tolerance_0.05": true
+    },
+    {
+      "year": 1806,
+      "kind": "D",
+      "row_sum_minus_published_total_GBPm": "0.00",
+      "within_rounding_tolerance_0.05": true
+    },
+    {
+      "year": 1806,
+      "kind": "R",
+      "row_sum_minus_published_total_GBPm": "0.00",
+      "within_rounding_tolerance_0.05": true
+    },
+    {
+      "year": 1807,
+      "kind": "D",
+      "row_sum_minus_published_total_GBPm": "0.02",
+      "within_rounding_tolerance_0.05": true
+    },
+    {
+      "year": 1807,
+      "kind": "R",
+      "row_sum_minus_published_total_GBPm": "0.01",
+      "within_rounding_tolerance_0.05": true
+    },
+    {
+      "year": 1808,
+      "kind": "D",
+      "row_sum_minus_published_total_GBPm": "-0.01",
+      "within_rounding_tolerance_0.05": true
+    },
+    {
+      "year": 1808,
+      "kind": "R",
+      "row_sum_minus_published_total_GBPm": "0.00",
+      "within_rounding_tolerance_0.05": true
+    },
+    {
+      "year": 1809,
+      "kind": "D",
+      "row_sum_minus_published_total_GBPm": "-0.01",
+      "within_rounding_tolerance_0.05": true
+    },
+    {
+      "year": 1809,
+      "kind": "R",
+      "row_sum_minus_published_total_GBPm": "0.00",
+      "within_rounding_tolerance_0.05": true
+    },
+    {
+      "year": 1810,
+      "kind": "D",
+      "row_sum_minus_published_total_GBPm": "-0.01",
+      "within_rounding_tolerance_0.05": true
+    },
+    {
+      "year": 1810,
+      "kind": "R",
+      "row_sum_minus_published_total_GBPm": "0.00",
+      "within_rounding_tolerance_0.05": true
+    },
+    {
+      "year": 1811,
+      "kind": "D",
+      "row_sum_minus_published_total_GBPm": "-0.01",
+      "within_rounding_tolerance_0.05": true
+    },
+    {
+      "year": 1811,
+      "kind": "R",
+      "row_sum_minus_published_total_GBPm": "-0.01",
+      "within_rounding_tolerance_0.05": true
+    }
+  ],
+  "fiscal_1820": {
+    "computed_row_sum": {
+      "pounds": 1632298,
+      "shillings": 0,
+      "pence": 11
+    },
+    "published_total": {
+      "pounds": 1629298,
+      "shillings": 1,
+      "pence": 6
+    },
+    "row_sum_minus_published_pence": 719993,
+    "note": "Do not silently repair source discrepancy. Commissary payments are not total colonial cost."
+  },
+  "medical_sensitivity": {
+    "white_10000_deaths_per_year_sensitivity": [
+      785.0,
+      1213.0
+    ],
+    "black_5000_deaths_per_year_sensitivity": [
+      150.0,
+      200.0
+    ],
+    "excludes": "invaliding,combat,desertion; no claim of a causal racial effect"
+  },
+  "source_hashes": {
+    "trade_heckscher.csv": "11c6d7b5fcadf816328a870c39eea03d3656e1af8cf7002abc0f3d5b53f7934c",
+    "fiscal_1820.csv": "fc4a961b7189a08eb9106ee1ceb4f2579c76214280649fa88f524461aa55547b",
+    "scenario_assumptions.csv": "c7e1c3eae8e1a9aa33eaf13d54af6fc091a4210d056025d88d5961a59c8eafc4"
+  },
+  "limits": [
+    "Heckscher transfers Hansard; underlying custom books not checked",
+    "Geographic Europe mixed with Levant in one column",
+    "Rest of America is not British Empire",
+    "Asia excluded wholesale, not a clean non-India series",
+    "Exports are gross shipments, not receipts or fiscal surplus",
+    "1812-15 regional data not imputed",
+    "Scenario ranges are analyst-chosen multipliers, not estimated elasticities, around contested contemporary anchors"
+  ]
+}

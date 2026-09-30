@@ -1,0 +1,438 @@
+      "venue": "Journal of the European Economic Association",
+      "venue_issn": "1542-4766",
+      "authors": [
+        {
+          "name": "Guido Tabellini",
+          "id": "https://openalex.org/A5083259949",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 2282,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 95,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W1982108682",
+      "doi": "10.2307/2066368",
+      "title": "The Rise of the Western World: A New Economic History.",
+      "year": 1977,
+      "type": "article",
+      "venue": "Contemporary Sociology A Journal of Reviews",
+      "venue_issn": "0094-3061",
+      "authors": [
+        {
+          "name": "Michael S. Kimmel",
+          "id": "https://openalex.org/A5037227177",
+          "institutions": []
+        },
+        {
+          "name": "Walter L. Goldfrank",
+          "id": "https://openalex.org/A5055116044",
+          "institutions": []
+        },
+        {
+          "name": "Douglass C. North",
+          "id": "https://openalex.org/A5111418782",
+          "institutions": []
+        },
+        {
+          "name": "Robert Paul Thomas",
+          "id": "https://openalex.org/A5103542073",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 2102,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2085635751",
+      "doi": "10.5860/choice.35-5770",
+      "title": "The wealth and poverty of nations: why some are so rich and some so poor",
+      "year": 1998,
+      "type": "book-review",
+      "venue": "Choice Reviews Online",
+      "venue_issn": "0009-4978",
+      "authors": [
+        {
+          "name": "David S. Landes",
+          "id": "https://openalex.org/A5081275503",
+          "institutions": [
+            "York University"
+          ]
+        }
+      ],
+      "cited_by_count": 1941,
+      "is_oa": true,
+      "oa_pdf": "https://www.h-net.org/reviews/showpdf.php?id=1879",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W1483323320",
+      "doi": "10.1016/s1573-4463(99)03004-7",
+      "title": "Empirical Strategies in Labor Economics",
+      "year": 1999,
+      "type": "book-chapter",
+      "venue": "Handbook of labour economics",
+      "venue_issn": "1573-4463",
+      "authors": [
+        {
+          "name": "Joshua D. Angrist",
+          "id": "https://openalex.org/A5109581806",
+          "institutions": [
+            "Moscow Institute of Thermal Technology"
+          ]
+        },
+        {
+          "name": "Alan B. Krueger",
+          "id": "https://openalex.org/A5108453089",
+          "institutions": [
+            "Princeton University"
+          ]
+        }
+      ],
+      "cited_by_count": 1638,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 320,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2591654989",
+      "doi": "10.1257/jel.53.4.898",
+      "title": "Culture and Institutions",
+      "year": 2015,
+      "type": "article",
+      "venue": "Journal of Economic Literature",
+      "venue_issn": "0022-0515",
+      "authors": [
+        {
+          "name": "Alberto Alesina",
+          "id": "https://openalex.org/A5083494527",
+          "institutions": [
+            "Harvard University",
+            "Bocconi University"
+          ]
+        },
+        {
+          "name": "Paola Giuliano",
+          "id": "https://openalex.org/A5044204764",
+          "institutions": [
+            "University of California, Los Angeles",
+            "UCLA Health"
+          ]
+        }
+      ],
+      "cited_by_count": 1496,
+      "is_oa": true,
+      "oa_pdf": "https://www.aeaweb.org/articles/pdf/doi/10.1257/jel.53.4.898",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 219,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W1544556248",
+      "doi": "10.5860/choice.41-4407",
+      "title": "The world economy: historical statistics",
+      "year": 2004,
+      "type": "book-review",
+      "venue": "Choice Reviews Online",
+      "venue_issn": "0009-4978",
+      "authors": [],
+      "cited_by_count": 1466,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W3130932179",
+      "doi": "10.4324/9780203103814",
+      "title": "Law, Legislation and Liberty",
+      "year": 2012,
+      "type": "book",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Friedrich A. von Hayek",
+          "id": "https://openalex.org/A5010904858",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 1428,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W200426612",
+      "doi": "10.5860/choice.45-3902",
+      "title": "One economics, many recipes: globalization, institutions, and economic growth",
+      "year": 2008,
+      "type": "book-review",
+      "venue": "Choice Reviews Online",
+      "venue_issn": "0009-4978",
+      "authors": [],
+      "cited_by_count": 1415,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W3125033761",
+      "doi": "10.1257/aer.98.1.267",
+      "title": "Persistence of Power, Elites, and Institutions",
+      "year": 2008,
+      "type": "article",
+      "venue": "American Economic Review",
+      "venue_issn": "0002-8282",
+      "authors": [
+        {
+          "name": "Daron Acemoğlu",
+          "id": "https://openalex.org/A5012301204",
+          "institutions": [
+            "Moscow Institute of Thermal Technology",
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "name": "James A. Robinson",
+          "id": "https://openalex.org/A5014156593",
+          "institutions": [
+            "Harvard University Press"
+          ]
+        }
+      ],
+      "cited_by_count": 1259,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 152,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2142734210",
+      "doi": "10.2307/2548019",
+      "title": "Legal Foundations of Capitalism.",
+      "year": 1925,
+      "type": "article",
+      "venue": "Economica",
+      "venue_issn": "0013-0427",
+      "authors": [
+        {
+          "name": "R. H. Tawney",
+          "id": "https://openalex.org/A5063355456",
+          "institutions": []
+        },
+        {
+          "name": "John R. Commons",
+          "id": "https://openalex.org/A5026609439",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 1149,
+      "is_oa": true,
+      "oa_pdf": "http://hdl.handle.net/2027/mdp.39015002614215",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W3124391672",
+      "doi": "10.1016/s0014-2921(01)00196-9",
+      "title": "Economic development, legality, and the transplant effect",
+      "year": 2003,
+      "type": "article",
+      "venue": "European Economic Review",
+      "venue_issn": "0014-2921",
+      "authors": [
+        {
+          "name": "Daniel Berkowitz",
+          "id": "https://openalex.org/A5090153821",
+          "institutions": [
+            "Davidson College",
+            "University of Pittsburgh"
+          ]
+        },
+        {
+          "name": "Katharina Pistor",
+          "id": "https://openalex.org/A5051975319",
+          "institutions": [
+            "New York Law School"
+          ]
+        },
+        {
+          "name": "Jean‐François Richard",
+          "id": "https://openalex.org/A5072606491",
+          "institutions": [
+            "University of Pittsburgh"
+          ]
+        }
+      ],
+      "cited_by_count": 943,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 49,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2097480477",
+      "doi": "10.2298/pan0802135r",
+      "title": "Goodbye Washington Consensus, hello Washington confusion?: A review of the World Bank's 'Economic growth in the 1990s: Learning from a decade of reform'",
+      "year": 2008,
+      "type": "article",
+      "venue": "Panoeconomicus",
+      "venue_issn": "1452-595X",
+      "authors": [
+        {
+          "name": "Dani Rodrik",
+          "id": "https://openalex.org/A5113832316",
+          "institutions": [
+            "University of Novi Sad"
+          ]
+        }
+      ],
+      "cited_by_count": 938,
+      "is_oa": true,
+      "oa_pdf": "http://www.doiserbia.nb.rs/ft.aspx?id=1452-595X0802135R",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 61,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W3122295862",
+      "doi": "10.1515/9781503622500-013",
+      "title": "10. Factor Endowments, Institutions, and Differential Paths of Growth Among New World Economies: A View from Economic Historians of the United States",
+      "year": 1997,
+      "type": "book-chapter",
+      "venue": "Stanford University Press eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Stanley L. Engerman",
+          "id": "https://openalex.org/A5111381231",
+          "institutions": [
+            "National Bureau of Economic Research"
+          ]
+        },
+        {
+          "name": "Kenneth L. Sokoloff",
+          "id": "https://openalex.org/A5084285343",
+          "institutions": [
+            "National Bureau of Economic Research"
+          ]
+        }
+      ],
+      "cited_by_count": 877,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2568836623",
+      "doi": "10.1016/s0167-2681(00)00152-9",
+      "title": "Making sense of institutions as a factor shaping economic performance",
+      "year": 2001,
+      "type": "article",
+      "venue": "Journal of Economic Behavior & Organization",
+      "venue_issn": "0167-2681",
+      "authors": [
+        {
+          "name": "Richard R. Nelson",
+          "id": "https://openalex.org/A5109805326",
+          "institutions": [
+            "Columbia University"
+          ]
+        },
+        {
+          "name": "Bhaven N. Sampat",
+          "id": "https://openalex.org/A5067146570",
+          "institutions": [
+            "Columbia University"
+          ]
+        }
+      ],
+      "cited_by_count": 833,

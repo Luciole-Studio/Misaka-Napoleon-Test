@@ -1,0 +1,89 @@
+---
+source_url: "https://www.mediterranee-antique.fr/Pages_accueil/Accueil_Contemporain.htm"
+final_url: "https://www.mediterranee-antique.fr/Pages_accueil/Accueil_Contemporain.htm"
+sha256: "7c5c3c588a71e3644e1c5eb44793e50f6351ee584d36969d89441169d45c8a26"
+text_sha256: "553b9db5f6a657c7692b772caba188e0343453b06edcdf4c294338258017b10d"
+title: "Histoire contemporaine"
+---
+
+Title: Histoire contemporaine
+
+Auteur
+
+Titre
+
+Date
+
+Ferdinand FOCH
+
+[M�moires pour servir � l'histoire de la guerre de 1914-1918](https://www.mediterranee-antique.fr/Auteurs/Fichiers/DEF/Foch/Memoires/Mem_000.htm)
+
+01/05/2004
+
+Fran�ois-Auguste MIGNET
+
+[Histoire de la R�volution fran�aise](https://www.mediterranee-antique.fr/Auteurs/Fichiers/MNO/Mignet/Revolution_Francaise/RF_000.htm)
+
+21/05/2004
+
+Fran�ois GUIZOT
+
+M�moires pour servir �
+l'histoire de mon temps
+
+[Tome premier � 1807-1830](https://www.mediterranee-antique.fr/Auteurs/Fichiers/GHI/Guizot/Memoires/T1/Mem_1_00.htm)[.](https://www.mediterranee-antique.fr/Auteurs/Fichiers/GHI/Guizot/Memoires/T1/Mem_1_00.htm)
+
+[Tome deuxi�me � 1830-1832](https://www.mediterranee-antique.fr/Auteurs/Fichiers/GHI/Guizot/Memoires/T2/Mem_2_00.htm).
+
+[Tome troisi�me � 1832-1837](https://www.mediterranee-antique.fr/Auteurs/Fichiers/GHI/Guizot/Memoires/T3/Mem_3_00.htm).
+
+[Tome quatri�me � 1837-1840](https://www.mediterranee-antique.fr/Auteurs/Fichiers/GHI/Guizot/Memoires/T4/Mem_4_00.htm).
+
+[Tome cinqui�me � 1840](https://www.mediterranee-antique.fr/Auteurs/Fichiers/GHI/Guizot/Memoires/T5/Mem_5_00.htm).
+
+[Tome sixi�me � 1840-1842](https://www.mediterranee-antique.fr/Auteurs/Fichiers/GHI/Guizot/Memoires/T6/Mem_6_00.htm).
+
+[Tome septi�me � 1842-1847](https://www.mediterranee-antique.fr/Auteurs/Fichiers/GHI/Guizot/Memoires/T7/Mem_7_00.htm).
+
+[Tome huiti�me � 1847-1848](https://www.mediterranee-antique.fr/Auteurs/Fichiers/GHI/Guizot/Memoires/T8/Mem_8_00.htm).
+
+Cours d'Histoire moderne -
+[Premier cours - 1828](https://www.mediterranee-antique.fr/Auteurs/Fichiers/GHI/Guizot/Histoire_Moderne/1Cours/1C_00.htm)
+
+09/06/2010
+
+09/06/2010
+
+10/06/2010
+
+11/06/2010
+
+13/06/2010
+
+16/06/2010
+
+18/06/2010
+
+21/06/2010
+
+29/02/2004
+
+Jules MICHELET
+
+Histoire de la R�volution -
+[Tome I](https://www.mediterranee-antique.fr/Auteurs/Fichiers/MNO/Michelet/Revolution_Francaise/T1/T1_00.htm)
+
+Histoire de la R�volution -
+[Tome II](https://www.mediterranee-antique.fr/Auteurs/Fichiers/MNO/Michelet/Revolution_Francaise/T2/T2_000.htm)
+
+Histoire de la R�volution -
+[Tome III](https://www.mediterranee-antique.fr/Auteurs/Fichiers/MNO/Michelet/Revolution_Francaise/T3/T3_000.htm)
+
+Histoire de la R�volution -
+[Tome IV](https://www.mediterranee-antique.fr/Auteurs/Fichiers/MNO/Michelet/Revolution_Francaise/T4/T4_00.htm)
+
+Histoire de la R�volution -
+[Tome V](https://www.mediterranee-antique.fr/Auteurs/Fichiers/MNO/Michelet/Revolution_Francaise/T5/T5_000.htm)
+
+Histoire de la R�volution -
+[Tome VI](https://www.mediterranee-antique.fr/Auteurs/Fichiers/MNO/Michelet/Revolution_Francaise/T6/T6_00.htm)

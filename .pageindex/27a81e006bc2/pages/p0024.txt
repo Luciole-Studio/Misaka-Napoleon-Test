@@ -1,0 +1,43 @@
+Note that the variance of ut does not need to be constant. Breaks in the variance are
+permitted, provided they occur at the same dates as the breaks in the parameters of the
+regression.
+
+
+I define a break in the series as a change in the conditional mean of the series yt , i.e. I
+specify that the intercept can change (zt = 1). The focus is here on abrupt structural
+changes in the mean that reflect the advent of unexpected news affecting Britain’s war
+fate and, hence, public finances. For that reason, I also exclude past values of the en-
+dogenous yt . When lagged values are included, changes in the level of yt also depend on
+the auto-regressive dynamics of the series; thus, the change takes effect gradually.14 On
+the contrary, when specifying xt =              , all the dynamics are contained in the error term
+and the change is, hence, abrupt (Bai and Perron, 2003).15
+
+
+In the following, I first run the break point procedure on monthly data for the 1795-1823
+period. This data set is comparable to the ones used in earlier studies (Neal, 1990) and
+contains 340 observations. I then use the daily data, in order to detect more precise
+break dates. Due to data availability issues, I do only estimate daily break dates for the
+1811-1823 period. The daily data set encompasses 1350 data points.
+
+
+Increasing the number of observations included in the sample, also allows detecting more
+break dates, as the number of breaks depends on the possible size of segments, i.e. the
+number of observations between two adjacent breaks (Bai and Perron, 2003). A minimal
+segment size warrants that each segments contains sufficient observations to estimate
+parameters precisely.
+
+
+In the presence of autocorrelation and heteroskedasticity, as it the case here, each seg-
+ment should include at least 24 observations (Bai and Perron, 2003). Finally, a trimming
+parameter  links the minimal segment size, h, to the maximal number of breaks, k, al-
+lowed:  = Th . For a sample of T observations one obtains the maximal number of breaks,
+k:  = 0.05 ⇒ k = 10;  = 0.10 ⇒ k = 8;  = 0.15 ⇒ k = 5;  = 0.20 ⇒ k = 3;  =
+  14
+       The 1802-1807 period reflects data issues rather than persistence in the series.
+  15
+       When no lagged variable is part of (zt , xt ), the conditions on the residuals allow for autocorrelation
+and heteroskedasticity.
+
+
+
+                                                       22

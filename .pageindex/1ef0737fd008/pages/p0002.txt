@@ -1,0 +1,108 @@
+
+
+URL：  
+https://napoleon-histoire.com/traite-dalliance-signe-a-paris-le-14-mars-1812-entre-la-france-et-lautriche/
+
+本地抓取：  
+`downloads/pages/0cb883e1dd4e.md`
+
+### S7　Christopher Clark
+
+**作者与准确题名：** Christopher Clark，*Iron Kingdom: The Rise and Downfall of Prussia, 1600–1947*。  
+**实际读取载体：** 非官方英文转载网页，网站标为“62 page”。  
+**分类：** 现代二手著作的非官方转载，版本及授权状态未核。  
+**已读范围：** 该网页整个连续片段：从雅恩体操运动与爱国主义文化，经过普王的政治顾虑、1811年扩军与法国最后通牒、1812年同盟、征发，至1812年12月普廷内部政策备忘录。  
+**没有读到：** 正规版本对应页码、该段尾注全文、德译目标章节。**“62”不是纸本页码。**
+
+URL：  
+https://read-online-books.com/book/read-online-iron-kingdom-the-rise-and-downfall-of-prussia-1600-1947-free/page-62
+
+本地抓取：  
+`downloads/pages/7e5166c3be17.md`
+
+出版社德文试读线索：  
+https://www.penguin.de/content/edition/excerpts/1064451.pdf
+
+该试读在本轮仅作为已定位线索，**未实际读取，不以其证明1811—1812年的具体主张**。
+
+### S8　Berthold Volz：德语旧史
+
+**作者与准确题名：** Berthold Volz，*Geschichte Deutschlands im neunzehnten Jahrhundert*，Leipzig，1890。  
+**章题：** “Drittes Kapitel. Die Wandlungen des Jahres 1812.”  
+**馆藏／载体：** ETH-Bibliothek Zürich，e-rara。  
+**分类：** 十九世纪二手史著；不是1811年的原始文书。  
+**已读范围：** 所提取章节的题名信息、开头，以及相关印刷页231—235的OCR文本；没有通读全书，也没有把OCR逐字对照页图。  
+**限制：** OCR错序严重；民族国家与“解放战争”的价值框架明显。
+
+URL：  
+https://www.e-rara.ch/download/pdf/31787144.pdf
+
+永久标识：  
+https://doi.org/10.3931/e-rara-146874
+
+本地抓取：  
+`downloads/pages/5dc51974bd26.md`
+
+### S9　Fondation Napoléon现代年表
+
+**作者：** Hamish Davey-Wright；法译E. Papot、I. Delage。  
+**题名：** *1812 La Campagne de Russie : 1 : De la diplomatie au passage du Niémen*  
+**日期：** 2012年6月。  
+**分类：** 现代二手叙述，内含对Lieven及梅特涅文集的转引。  
+**已读范围：** 与本题相关的“Le contexte historique”“La participation autrichienne”“L’indécision prussienne”等小节；没有通读提取结果中被省略的全部中段。
+
+URL：  
+https://www.napoleon.org/histoire-des-2-empires/chronologies/1812-la-campagne-de-russie-1-de-la-diplomatie-au-passage-du-niemen/
+
+本地抓取：  
+`downloads/pages/21267bb11d06.md`
+
+### S10　普鲁士档案目录
+
+**机构与目录：** Geheimes Staatsarchiv Preußischer Kulturbesitz，III. HA MdA，“01.01.02.03 Krieg 1812, 1812–1855”。  
+**分类：** 档案目录，非档案全文。  
+**已读范围：** 返回的34个目录题名及编号列表。  
+**限制：** 抓取将题名与档号分开排列，未逐项核对对应关系，因此不冒认某一题名的精确档号。
+
+URL：  
+https://archivdatenbank.gsta.spk-berlin.de/midosasearch-gsta/MidosaSEARCH/iii_ha_mda/xml/inhalt/GStA_iii_ha_mda_1_1_2_3.htm
+
+本地抓取：  
+`downloads/pages/22f118f554d9.md`
+
+### S11　Napoleon Series外交叙述
+
+**题名：** *Franco-Russian Diplomacy, 1810–1812*, Chapter 3: “Allies and Spies”。  
+**分类：** 二手网络叙述。  
+**已读范围：** 返回全文，包括“French Alliances”“Allied Machinations”等部分。  
+**限制：** 返回本页未显示作者和对应逐项脚注；有强烈价值性措辞，不作为原始命令的替代。
+
+URL：  
+https://www.napoleon-series.org/research/government/diplomatic/c_rufrdip3.html
+
+本地抓取：  
+`downloads/pages/bfa7029b08dc.md`
+
+---
+
+## 三、1807年7月9日提尔西特对普和约
+
+以下【事实】限定为S1转录中的条文内容。英文引文不是法文签署原件。
+
+### 1．保留普鲁士，但重组其周边
+
+**【事实｜第II条】** 条文列明归还普王的领土，包括勃兰登堡、波美拉尼亚、西里西亚等，附详细例外与要塞名单。
+
+**【裁量】** 1807年的安排不是立即废除霍亨索伦国家。不过，“条约应归还”不等于“法军立即撤离”。
+
+**【事实｜第IV条】**
+
+> “acknowledges the Confederation of the Rhine”
+
+普王承认莱茵邦联、成员君主的领地状态与称号，以及后来加入者的有关地位。**这不是普鲁士自己加入莱茵邦联。**
+
+**【事实｜第VI—VIII条】**
+
+- 第VI条承认热罗姆为威斯特伐利亚国王。
+- 第VII条规定割让普王在战争开始时拥有的莱茵—易北河之间土地。
+- 第VIII条规定以普方割让土地及拿破仑控制的其他土地组成威斯特伐利亚王国。

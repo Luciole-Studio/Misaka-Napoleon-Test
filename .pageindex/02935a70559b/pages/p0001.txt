@@ -1,0 +1,39 @@
+---
+source_url: "https://www.historisches-lexikon-bayerns.de/Lexikon/S%C3%A4kularisation"
+final_url: "https://www.historisches-lexikon-bayerns.de/Lexikon/S%C3%A4kularisation"
+provider: "exa"
+text_sha256: "415a09e0a12b4cb8f3d0862d269a654bfa24416ccbec9206864ce552114f1be9"
+title: "S\u00e4kularisation \u2013 Historisches Lexikon Bayerns"
+content_kind: "page_text"
+---
+
+Säkularisation – Historisches Lexikon Bayerns
+
+### Aus Historisches Lexikon Bayerns
+
+von Winfried Müller (†) 
+
+Karikatur auf die Klostersäkularisation in Bayern. Mönche verschiedener Orden bringen das Klostervermögen einem Aufhebungskommissar. Der Reichsadler auf dem Sockel wird durch den bayerischen Löwen verdrängt. Federzeichnung um 1803. (Museen der Stadt Nürnberg, Kunstsammlungen)
+
+Der Begriff „Säkularisation“ hat sich in seinem Bedeutungsgehalt immer wieder verändert. Er zeigte zunächst an, dass ein Kleriker einen Statuswechsel vom Ordensgeistlichen zum Weltgeistlichen vollzog. Erst mit den Verhandlungen zum Westfälischen Frieden wurde der an sich personenrechtliche Begriff auf materielle Güter angewendet und erlebte somit eine Bedeutungserweiterung. Die Begriffe Herrschaftssäkularisation und Vermögenssäkularisation wurden erst im 20. Jahrhundert geprägt. Die Säkularisation in Bayern 1802/1803 deutete sich bereits in der zweiten Hälfte des 18. Jahrhunderts an. So hatte die bayerische Regierung 1773 erste Erfahrungen bei der Aufhebung geistlicher Institutionen gesammelt, als sie die bayerischen Niederlassungen des vom Papst aufgelösten Jesuitenordens abwickelte. Ebenso hatte der Staat immer mehr auf die Rechte der Kirche wie auf kirchliches Vermögen zugegriffen. Ziel war es dabei, die Kirche in den souveränen modernen Staat einzugliedern. Bereits 1802 wurden die Mendikantenklöster aufgehoben, die, anders als die Prälatenorden, nicht unter dem Schutz der landständischen Verfassung standen. Mit dem Frieden von Lunéville 1801 und dem Reichsdeputationshauptschluss vom 25. Februar 1803 erhielt Bayern die rechtlichen Grundlagen, um auch die landständischen Klöster in Bayern aufzuheben und diese als konkurrierende Herrschaftsträger im Kurfürstentum auszuschalten. Reichsrechtlich möglich wurde es zudem, die altbayerischen, fränkischen und schwäbischen Hochstifte und Reichsklöster zu annektieren und in deren Herrschafts- und Vermögensrechte einzutreten. 
+
+## Inhaltsverzeichnis
+
+- 1 Begriff
+- 2 Im Vorfeld der Säkularisation
+- 3 Die Aufhebung der Bettelorden 1802 und die Klöster der Oberpfalz
+- 4 Der Reichsdeputationshauptschluss vom 25. Februar 1803
+- 5 Herrschafts- und Vermögenssäkularisation
+- 6 Die Aufhebung der landständischen Klöster 1803
+- 7 Herrschaftssäkularisation
+- 8 Folgen der Säkularisation für die katholische Kirche
+- 9 Literatur
+- 10 Quellen
+- 11 Weiterführende Recherche
+- 12 Externe Links
+- 13 Verwandte Artikel
+- 14 Empfohlene Zitierweise
+
+## Begriff
+
+Der im historischen Bewusstsein vor allem mit den Vorgängen der Jahre 1802/03 verbundene Begriff der Säkularisation meinte zunächst im Kirchenrecht Statusveränderungen von Personen wie den Wechsel vom Ordensklerus in den Stand des Weltgeistlichen. In den zum Westfälischen Frieden führenden Verhandlungen wurde der personenrechtliche Begriff dann auch auf materielle Güter angewendet. Der französische Gesandte warf 1646 ein, dass geistliche Güter ohne päpstliche Zustimmung der katholischen Kirche entzogen, "secularisiret" worden seien. Dahinter verbarg sich ein diplomatischer Nadelstich gegenüber der evangelischen Partei, wurde damit doch indirekt angedeutet, beim Übergang in protestantische Hände würden " bona ecclesiastica" in " bona saecularia" umgewandelt und profaniert. Für die lutherischen und reformierten Landeskirchen war diese Interpretation unannehmbar. Deren Anspruch war es, selbst Kirche zu sein und das von der alten Kirche schlecht und missbräuchlich verwaltete Kirchengut wieder seiner ursprünglichen Bestimmung zugeführt zu haben. Die protestantische Kirchengeschichtsschreibung benutzte dafür den Begriff der Sequestration. Säkularisation war mithin pejorativ besetzt mit der Botschaft, dass der katholischen Kirche widerrechtlich und ohne päpstlichen Konsens Güter entzogen und zweckentfremdet würden. Einvernehmliche Umwidmungen waren hingegen keineswegs ungewöhnlich, auch katholische Fürsten – der Herzog von Bayern etwa bei der Fundierung des Jesuitenordens – griffen in der Epoche der Reformation und Gegenreformation auf verödete Klöster zurück. 

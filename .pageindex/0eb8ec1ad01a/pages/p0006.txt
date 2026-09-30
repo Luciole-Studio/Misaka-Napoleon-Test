@@ -1,0 +1,64 @@
+with the amount of land that is suitable for cultivating potatoes. Our empirical strategy is similar
+
+to a differences-in-differences (DD) estimation. We compare the levels and changes in Old World
+
+population and urbanization before and after the introduction of potatoes between regions that
+
+were suitable for cultivating potatoes and regions that were not suitable. Because our estimates
+
+are identified from the interaction between time (from the introduction of potatoes) and country
+
+characteristics (suitability for potato adoption), we are able to control for time-invariant country
+
+characteristics (country fixed effects), as well as country-invariant differences in the time periods
+
+being examined (time-period fixed effects).
+
+   Despite the existence of country fixed effects in our estimating equation, country characteristics
+
+may still bias our estimates if they affect population or urbanization differentially during the
+
+period after the adoption of potatoes as a field crop relative to before. We address this possibility
+
+by controlling for the interaction of potentially important country characteristics with an indicator
+
+variable for the post-adoption period. The set of controls in our baseline specifications include
+
+interactions with three alternative measures of agricultural suitability – the overall suitability of a
+
+country for growing any agricultural plant or crop, suitability for growing Old World staple crops
+
+(e.g., rice and wheat), and the suitability for growing New World staple crops (e.g., maize and
+
+sweet potatoes) – as well as interactions of geographic measures potentially correlated with potato
+
+suitability. Because potatoes were particularly suitable for cultivation on rugged terrain at high
+
+elevations, we also control for these two geographic characteristics in our estimates.
+
+   Our results show that Old World regions that were suitable for potato cultivation experienced
+
+disproportionately faster population and urbanization growth after the introduction of potatoes.
+
+The estimates are extremely robust to a variety of sensitivity checks, including the omission of
+
+outliers and influential observations, the omission of Western Europe, the inclusion of the countries
+
+north of Mezzo America, and the inclusion of a host of additional control variables.
+
+   The magnitudes of our estimates are also interesting. One way to measure the estimated effects
+
+is to ask how much of the average difference in population or urbanization levels (or their growth
+
+rates) between the pre-potato adoption period (1000–1700) and the post-adoption period (1700–
+
+1900) is explained by the introduction of the potato. Doing this calculation, our baseline estimates
+
+suggest that the potato accounts for 12% of the increase in population, 22% of the increase in
+
+population growth, 47% of the increase in urbanization, and 50% of the increase in urbanization
+
+growth.
+
+
+                                                  4

@@ -1,0 +1,58 @@
+                     BACKGROUND PAPER
+
+
+
+
+          1.      Introduction
+
+          Today’s macro-financial regime for the issuance and management of sovereign debt in Germany
+          and Europe is predicated on a fundamental conception of the correct relationship between
+          treasuries, central banks, and the private banking system: Sovereign debt issuance should not
+          happen with the central bank balance sheet as the direct counterparty as this would constitute
+          illicit “monetary financing”. Rather, sovereign debt issuance should be “disciplined” by market
+          forces as the politicians in charge of treasuries’ balance sheets are otherwise prone to over-issuing
+          sovereign debt. Hence, only private financial institutions should be the legitimate direct
+          counterparties for sovereign debt issuance.
+
+          This economic idea — most prominently codified in European Law, cf. Art. 123 (1) of the Treaty on
+          the Functioning of the European Union (TFEU), but also reproduced through lore for generations
+          — is purportedly a key lesson from Germany’s turbulent political, economic, and financial history.
+          Germany has indeed had an illustrious track-record of financial innovation, creative macro-fi-
+          nancial management, spiking debt issuance, and devastating sovereign defaults connected to two
+          lost world wars. Curiously enough, German sovereign bonds today have the status of the
+          European safe asset and the German government consequently counts as Europe’s most
+          trustworthy sovereign borrower, even though the German state had four sovereign defaults in 21
+          years, counting from the Weimar hyperinflation 1924 over the Dawes and Young Plan to the
+          dissolution of the German Empire in 1945 (Reiter 1967).
+
+          Even though today’s macro-financial regime is often said to be the result of Germany’s historical
+          experiences, it is doubtful whether there can be such a thing as an “objective history” which clearly
+          suggests that some conclusions are correct whereas others are obviously wrong. For instance,
+          there is a confirmed tendency of “misremembering Weimar”, i.e. having erroneous conclusions
+          about which economic turbulences led to the rise of fascism in 1933 (Haffert, Redeker, and
+          Rommel 2021). The 1924 hyperinflation in the early years of the Weimar Republic (Holtfrerich
+          1980) remains most prominent in the collective memory and is said to be the cause of the strong
+          anti-inflationary stance in both German policy circles and the German population. However, this is
+          an erroneous understanding in so far as in fact the deflationary tendencies during the Great
+          Depression (Kindleberger 1984) were the immediate reasons that brought the Nazis to power
+          (Straumann 2019).
+
+          While debates on historical learnings usually focus on the time of the world wars and the Weimar
+          Republic, this paper goes further back in time and revisits the German macro-financial experience
+          prior to World War I. It traces the evolution of German sovereign debt issuance practices from their
+          early origins in 18th century Prussia over the foundation of the German Empire in 1871 up until
+          1914 with the abrupt termination of the first era of globalization.
+
+          To this end, the paper adopts the Monetary Architecture framework (Murau 2020), which
+          conceptualizes the monetary and financial system as a web of institutions thought of as balance
+          sheets that have a hierarchical relationship with each other and interlock through different credit
+          instruments. The key institutions can be characterized according to different segments which they
+          belong to: central banking, commercial banking, non-bank financial institutions or shadow banks,
+          as well as a fiscal ecosystem which is made up of the state’s treasury and off-balance-sheet fiscal
+          agencies (OBFAs) — public-private entities whose operations comprise aspects of monetary and
+          fiscal policy. The actual setup of such a ‘monetary architecture’ is historically specific and subject to
+
+
+
+
+3 of 41

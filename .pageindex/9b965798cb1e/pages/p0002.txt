@@ -1,0 +1,71 @@
+
+
+【文献推断：Hans Christian Bjerg】“‘To Copenhagen a Fleet’: The British Pre-emptive Seizure of the Danish-Norwegian Navy, 1807,” *International Journal of Naval History*, 7(2), August 2008。
+
+文件：`downloads/pages/71106f9334bc.md`，重点265–330行；提取不保留PDF分页，**页码未核**。
+URL：https://www.ijnhonline.org/wp-content/uploads/2012/01/Bjerg.pdf
+
+原文：
+> “The British had no intentions to make use of all the confiscated ships and were never able to do so at that time due to lack of human resources.”
+
+作者转引Gambier于1807年9月5日致伦敦信：
+> “it will require the whole of the force now with me to equip and navigate them to England”
+
+信件仅**转引自Bjerg**；其注7指向英国国家档案馆 **WO1/187**，原档未阅。
+
+【文献推断：Bjerg】作者区分初始“暂存舰队”的要求与后来无条件接收的要求，并反对把提尔西特视为唯一原因；在其解释中，英国此前已有中立化丹麦海军的考虑。他又指出夺舰把丹麦推向法国，丹麦此后派出海员赴荷兰为法国舰船配员。
+
+【裁量】这一丹麦视角使“夺舰=英国有效舰队等量增长”的写法不可直接成立；同时提示海员转移可能产生反向效果。不能由哥本哈根单一案例断言英国可以同样夺取任意法国设防军港。本文有强烈立场性表述，部分旁论未独立核实；不把其全篇当作无争议事实。
+
+## 证据5：1813年英国议会——法国舰队构成保编理由，并非已证增建
+
+【事实】“Committee of Supply,” HC Deb, **10 November 1813, vol.27, cc.69–75**。
+文件：`downloads/pages/3b214d7b54fb.md`。
+URL：https://api.parliament.uk/historic-hansard/commons/1813/nov/10/committee-of-supply
+
+政府方论辩，c.72：
+> “He had, in fact, been accumulating his marine forces by rapid strides.”
+
+c.73：
+> “If we suddenly disbanded, it would not be so easy a task, on an emergency, to recal our seamen to the naval force of the country.”
+
+同页论辩明确将政策限于：
+> “to maintain our marine at the same rate as before, should it be necessary.”
+
+c.74又明确把新建及修理等支出留待随后预算：
+> “new buildings, repairs, and other items”
+
+【事实】这场论辩将法国港内舰队、对美战争、波罗的海任务与维持英国海军员额联系起来。反对方则怀疑法国舰队整备状态，主张考虑海军节省以支援陆战。来源不是无争议的整备审计。
+
+【限制】提取丢失部分发言人标题，因此这里引用“政府方论辩”，不强配全部人名。网页有明确栏码，但未对校纸本。开头海员／陆战队数字表述也不用于总量运算；不同发言的敌舰数字不可直接相加。材料支持**威胁→不裁军／保留配员与封锁能力**，不支持“已经因法国扩舰而新增某数量订单”。
+
+## 证据6：英国主动再配置的二手佐证
+
+【文献推断：Jeremy Black】“A British View of the Naval War of 1812,” *Naval History*, 22(4), August 2008，网页无页码。
+文件：`downloads/pages/8a34c915525c.md`，小节“Reasons for the British Defeats”及“Denying Access to the Sea”。
+URL：https://www.usni.org/magazines/naval-history-magazine/2008/august/british-view-naval-war-1812
+
+原文：
+> “the Admiralty both built up its Halifax-based squadron and issued an order”
+
+【文献推断：Black】作者说明英国遭美国巡防舰击败后增加当地兵力并调整交战指示；同文指出英国从其他站调舰，并继续承受法国重建舰队的封锁负担。
+
+【限制】**built up a squadron指加强该分舰队，不等于新造舰船。**该例可作为主动反应／跨战区调配的机制佐证，不能代替法国扩舰导致英国增建的直接证据。作者所引Croker命令及《The Naval War of 1812》卷II原书本轮未阅；涉及该命令只算转引。
+
+## 尚未解决、不得进入数量模型的事项
+
+1. **Glover全文**：须取得233–252页后才能分离造舰、修理、配员、财政和Madison动机各条论证；不以书目评论代替正文。
+2. **英国增建反馈**：需要具体下单日期、订单数、船型、完工／下水／服役日期，以及解释决策的同期文件。已有议会保编材料不能填补这一缺口。
+3. **Melville 1813年2月备忘录**：检索发现百科线索称其警惕法国利用荷意造舰资源匹敌英国；原件与可靠文本未取得，**未阅，不作为结论证据**。
+4. **官方条款影印核读**：公报p.1231的OCR应进一步对校；本报告不伪装为已核图像。
+5. **量化口径**：同盟舰不得无条件计入法军可支配舰队；俘获舰不得直接计入英国已配员舰队；在建不得当在役；总船舶吨位不得当战列舰数量。
+
+## 建议供主会话采用的表述
+
+【文献推断：Hickey转述Glover】“法国在特拉法尔加后重建舰队，仍能对英国造成战略牵制；Glover的数量接近论值得核查，但其正文及舰数口径尚未取得。”
+
+【模型推演：仅机制约束，不估参数】“法国扩大海军不会面对静止的英国：史料可支持保留海员、调整部署，以及夺取潜在敌方舰队等反应。增建的幅度、时滞和财政代价仍缺可靠输入；不计算追平年份。”
+
+## 获取故障说明
+
+前序命令行检索／mcporter调用受到审批限制，改用原生grep/read与web_search/web_extract继续；Glover两个PDF入口无正文返回；1811年3月15日海军预算页重复提取仍为空。故障不解释为文献不存在。网页缓存保留来源URL；未保存或核验原PDF字节，亦未运行数量模型。

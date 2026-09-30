@@ -1,0 +1,53 @@
+                                              188
+
+     Table 11: District of Enlistmentof Soldierscomparedto 1809RecruitingD
+                                                                                      1809
+                                                                                    Recruiting
+         District   25Va   2/6*   3 FG   3/11" 4/1"   7 LD    8h    Total
+                                                                                     District
+                                                                                      data
+        Durham       3      0      9      0     0      0      0       12     2%        1%
+        Carlisle                                                      0                1%,
+         Leeds       0      1      4      0      1     0      1       7      1%        4%
+       Manchester    22    52      15     0     4      0      3      96      12%      14%
+       Nottingham    0      0      12     0     0      0      0      12      2%        3%
+      Birmingham     31     5      13     1     3       1     3      57      7%        5%
+       Shrewsbury    0      1      0      0     0      0      0       1      (r/O      1%
+          Bury       1      10     5      0     0       1     0      17      2%        3%
+        Bedford      0      2      1      0     0      0      0       3      00/0      2%
+       Gloucester    11     2      12     0     13     2      2      42      5%        3%
+       Maidstone     0     60      3      1     2      0      1      67      8%        1%
+        London       2      2     33      0     10     4      3      54      7%        8%
+      Southampto     5      0      13     0     5      3      4      30      4%        2%
+          n
+        Wells        69     17     15     0     67     3      0      171     22%       3%
+       Edinburgh     0      2      10     0     0      0      0      12      2%        3%
+        Glasgow      0      0      5      0     0      0      0       5      1%        2%
+        Aberdeen     0      0      1      0     0      0      0       1      0%        2%
+        Inverness                                                     0                3%
+         Ireland     69    41      8      8     48     4      27     205     26%      39%
+          Total     213    195    159    10    153     18     44     792
+
+     Sources:WO25/3224,Return of Recruits, 19 October 1809; WO25/285,/287, /314, /316,
+     /329,/368; W067/l, n, /14, NAK 6806-43-32.
+
+       More can be gleanedfrom comparingthe district of birth of a soldier with his
+
+place of enlistment.UnfortimatelYthis data was not collected in a consistentmanner in
+
+the original returns.Not all of the 1,176 soldiers in the databaseeven have a place of
+
+enlistment, and twenty-three entries give obscure places of enlistment. For instance
+
+Patrick Brads from Mayo, enlistedinto the 3/1" at Westportin 1813,but there are three
+
+Westports, one in Argyll, one in Mayo - the most likely - and one in Somerset. There
+
+are six soldierswith no place of birth given but are listed at the place where they were
+
+          In
+recruited. such casesthese soldiers cannot form part of any comparison between
+
+birthplace and enlistment.Moreover, any soldier that was a militiaman or a volunteer
+
+from the Army of Reservehas been specifically removed from the data, as he would

@@ -1,0 +1,67 @@
+                       Table 5: Calculating the global effects of the introduction of potatoes.
+                                                                                                           Outcomes
+                                                                                                                 City population        Change in city
+                                                                           ln Population     Population growth        share            population share
+(1)    Pre-adoption average: 1000-1700                                          -0.52               0.14                2.10               0.00021
+(2)    Post-adoptoin average: 1800-1900                                         0.36                0.42                4.53               0.02193
+(3)    Difference between two periods: (2) -(1)                                 0.88                0.29                2.43               0.02171
+
+
+(4)    Estimated effect of being 100% suitable for potatoes                     1.364              0.804               14.605                0.140
+(5)    Average suitability for potatoes                                         0.078              0.078                0.078                0.078
+(6)    Average effect of potato suitability: (4) x (5)                          0.106              0.063                1.138                0.011
+
+
+(7) Percent of change explained by potatoes: (6)/(3) x 100                     12.07%              21.93%              46.82%                50.25%
+Notes : The first row of the table reports the average outcome for all countries in each time period between 1000 and 1700. The second row reports the
+same averages for the time periods after 1700 (i.e., 1800 and 1900). The difference between the two averages is reported in row 3. The fourth row
+reports the baseline regression coefficients, which is for the effect of having 100% of land suitabile for potatoes. The fifth row reports the average
+suitability across countries. The sixth row reports the impact from the introduction of the potato, the product of the fourth and fifth row. The final row
+reports the percentage of the total difference between the pre- and post-1700 periods that is explained by the introduction of potatoes. This is equal to
+row 6 divided by row 3 multiplied by 100.
+
+
+
+
+example our figure of 22% for population growth. This does not mean that 22% of the total increase
+
+in population growth between 1000 and 1900 is explained by potatoes. Nor does it mean that
+
+22% of the increase in population growth after 1700 is explained by potatoes. The statement is
+
+that after 1700 (i.e., 1700–1900), relative to the period before 1700 (i.e., 1000–1700), there was an
+
+increase in the average rate of population growth; it is 22% of this difference that is explained by
+
+the introduction of the potato.
+
+
+E. Heterogeneous Effects
+
+Until this point, we have been focused on the average effect of potatoes among Old World coun-
+
+tries. The final exercise of the paper is to consider heterogeneity, and examine whether the effects
+
+of the potato differ systematically depending on certain characteristics.
+
+      We first consider the possibility that global trade may have been an important factor that was
+
+complementary to potato adoption. We test this possibility by using a country’s average distance
+
+from an ice-free coast as a measure of its natural openness to overseas trade. We then include an in-
+
+teraction between this measure and Potatoi × ItPost in our baseline estimating equation.35 Estimates
+
+are reported Panel A of Table 6. The estimated effects are mixed. In the population regressions the
+
+triple interactions are positive and in the urbanization regressions they are negative. This indicates
+
+that potatoes had a smaller effect on population growth in naturally open countries, but a larger
+
+effect on urbanization in more open countries.
+ 35 We also control for the interaction of distance from the coast with the post-1700 indicator variable.
+
+
+
+
+                                                                           34

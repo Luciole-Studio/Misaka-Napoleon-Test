@@ -1,0 +1,70 @@
+---
+source_url: "https://books.openedition.org/psorbonne/91295?lang=en"
+final_url: "https://books.openedition.org/psorbonne/91295"
+provider: "exa"
+text_sha256: "13fe08b72d37b9b95a56ffb8cc8c89f27084230679da9c775f6e2896709f5412"
+title: "Piraterie, flibuste et autres guerres de course dans les conflits europ\u00e9ens de l\u2019\u00e9poque moderne"
+content_kind: "page_text"
+---
+
+La construction du militaire, Volume 3 -
+Piraterie, flibuste et autres guerres de course dans les conflits européens de l’époque moderne - Éditions de la Sorbonne
+OpenEdition Books
+**EnglishEN**
+* Français
+**Share
+* **Facebook
+* **X
+OpenEdition Search**All OpenEdition**
+OpenEdition Search**
+You will be redirected to OpenEdition Search
+Expression or keyword (tag)
+Where?
+In Éditions de la Sorbonne
+In all OpenEdition
+Search
+Éditions de la Sorbonne
+Éditions de la Sorbonne
+
+Cover information
+Search inside the book
+**
+Table of contentsCiteShare
+Links to the book**
+
+Cover information
+Search inside the book
+**
+Table of contentsCiteShare
+Reading formats**
+## La construction du militaire, Volume 3
+**
+This book is reviewed by
+Browse the book
+# Piraterie, flibuste et autres guerres de course dans les conflits européens de l’époque moderne
+Patrick Villiers
+p. 159-178
+## Abstract
+Difficile de séparer les premières formes de la guerre sur mer de la piraterie. Le navire pirate est alors un bâtiment, qui attaque n’importe quel autre navire, y compris ceux de sa propre nation et sans autorisation, pour la seule recherche du profit. Avec le renouveau maritime en Europe du Nord et le contrôle de la mer du Nord par la Hanse, « pirate » se restreint pour désigner plus spécifiquement un bandit qui pille les navires de commerce. La course naît au contraire d’une réaction contre le brigandage sur mer. Avec la guerre de Cent Ans apparaît la lettre de représailles, puis la lettre de marque. Le droit corsaire devient commun àtoute l’Europe. Le corsaire est un bâtiment marchand faisant une guerre que le suzerain est incapable d’entreprendre. Comme le montre l’exemple français, en tant qu’activité collective d’un port ou d’une île, elle permet de survivre en temps de guerre. Comme stratégie, elle permet àun État dont la marine est faible ou inexistante de ne pas laisser la suprématie maritime àson ennemi. Interdite par le traité de Paris, la course menée par les particuliers a disparu, mais non la stratégie corsaire qui vise àdétruire le commerce ennemi.
+Detailed outline**
+Full textCorsaire ou pirate : la naissance de la course moderne (1450-1560)Corsaires, « piratas » et flibustiers : course, piraterie et marines nationales (1560-1670)Apogée et déclin de la course d’État (1670-1815)FootnotesAuthor
+## Full text
+1Dans son remarquable*Vocabulaire des termes anglais et français de marine,*Paris, an VI, Daniel Lescallier écrit : « Il ne faut pas confondre corsaire avec forban ou pirate… Je ne sais pourquoi on trouve presque partout chez les auteurs qui ne sont pas instruits dans la Marine le mot corsaire défini comme synonyme de forban. » Il propose alors pour le mot « forban » la définition suivante :
+> Forban (a pirate or rover)
+> On appelle ainsi ceux qui courent les mers sans commission d’aucun souverain, et qui pillent indistinctement tous les bâtiments qu’ils rencontrent. Les forbans n’ont point de pavillon ; mais ils arborent tour àtour celui de toutes les nations, pour se déguiser et tromper les vaisseaux dont ils veulent s’emparer ; lorsqu’on les prend, ils sont traités comme des voleurs publics et des assassins, et sont pendus quelle que nation que ce soit qui s’en saisisse. On les appelle aussi quelquefois écumeurs de mer et pirates. Les forbans ont porté quelquefois des pavillons noirs et blancs avec des têtes de mort et des os de mort en sautoir, et des sabres, pour jeter de l’effroi, mais il est rare d’en voir lever ainsi le masque, ils cherchent plutôt l’impunité en se faisant passer pour des corsaires d’une nation ennemie de celle du bâtiment qu’ils saisissent. Il ne faut pas confondre les corsaires avec les forbans ; les premiers sont autorisés par une commission de leur souverain et ne courent que sur les ennemis de l’État ; les forbans, au contraire sont gens désavoués de toutes les nations
+> 1
+> .
+2Sa définition du mot « pirate » apporte un complément important àla précédente :
+> C’est celui qui court les mers, pour piller et enlever les bâtiments de toutes les nations indistinctement, sans autorisation, ni commission d’aucun souverain. Ce mot est synonyme de forban avec cette distinction que le forban est souvent un malfaiteur, traître àsa propre patrie et ennemi public, qui pille aussi bien ses compatriotes que les autres ; au lieu qu’il est des cantons ou régions tout entières dans certains pays mal gouvernés et mal policés qui infestent les mers de leur voisinage mais qui ne pillent que les bâtiments étrangers et venant de loin, et jamais ceux de leur propre nation, chez laquelle ils sont établis, où ils s’arment, où ils relâchent, s’approvisionnent et où ils sont comme avoués et reçus. Tels sont dans le Levant, les Arnaoutes et dans les mers de l’Inde, àla côte de Malabar, les pirates d’Angria, etc.
+> 2
+> .
+3Ces deux définitions sont d’autant plus intéressantes que l’*Encyclopédie méthodique. Marine*, publiée par Panckouke en 1783, habituellement si précise, indique simplement àl’entrée « Forban » :
+> C’est un voleur public sur la mer, il attaque, prend quand il peut, pille toutes les nations. Aussi est-il traité en justice comme un scélérat et un assassin parce qu’il ne peut guère prendre sans meurtre pour peu qu’on se défende ; c’est un vaisseau pirate
+> 3
+> .
+4Acquise àla fin duxviiiesiècle, la distinction entre pirate, corsaire et forban n’a pas toujours coulé de source. Historiquement, il est en effet bien difficile de séparer les premières formes de la guerre sur mer de la piraterie. Née vraisemblablement avec la navigation dès le IIemillénaire avant notre ère en Méditerranée, elle se confond alors bien souvent avec la guerre. Les frontières étaient en effet déjà floues entre la piraterie, l’économie de prédation développée par certains États et les opérations militaires de prédation destinées àaffaiblir l’économie d’un ennemi. Auivesiècle avant J.-C, la piraterie était ainsi apparue comme un recours pour les Crétois et les Étoliens victimes de la misère qui mettaient parfois leur puissance au service d’une cause étrangère4. Mais doit-on appeler pirate une lutte entre peuples pour le contrôle de la mer ? Doit-on appeler pirate un peuple, disposant d’une organisation politique, d’institutions et dont la prédation constitue l’une des activités ordinaires ? Car si, pour les moines duixesiècle, les Vikings sont indiscutablement des pirates, en droit les choses restent plus confuses jusqu’à la fin du Moyen Âge au moins. La période moderne apparaît ainsi d’abord comme celle durant laquelle la confusion originelle des mots et des pratiques s’estompe, pour laisser place aux figures concurrentes et si proches àla fois du corsaire et du pirate. La diversité des formes prises par la course et par la piraterie impose cependant parallèlement une diversification du vocabulaire pour les distinguer toutes. L’affirmation des États et la construction du droit international poussent en effet àla précision des termes et parfois même àla redéfinition de leur contenu sémantique ou de leur portée juridique. Pourquoi, comment et àquelles conditions cette distinction a pu s’opérer de la fin du Moyen Âge au début duxixesiècle ? Pourquoi en a-t-on alors même ressenti le besoin ? Comment la nécessité de codifier la guerre et l’essor du droit international ont-ils imposé la nécessité de distinguer les activités de prédations maritimes, de nommer les pratiques martiales et leurs acteurs ? Quels furent donc le rôle, mais aussi les limites et les contradictions auxquelles les États européens se heurtèrent dans cette entreprise de codification qui délimita les contours du statut de cet acteur incontournable de la guerre moderne, àmi-chemin entre le soldat au service de l’État et le brigand en quête de fortune et d’aventure que fut le corsaire ?
+# Corsaire ou pirate : la naissance de la course moderne (1450-1560)
+5Après l’épisode des raids vikings qui accompagnent le renouveau maritime du Moyen Âge central et son accélération après l’an mil, le développement du commerce en mer du Nord et en Atlantique excite ànouveau les convoitises. La circulation des marchandises de la mer Baltique, par Bruges et Lübeck, vers l’ouest et jusqu’aux côtes du Portugal, par les Pays-Bas, attise la piraterie. Les ports les plus puissants répliquent par l’organisation de convois, la rémunération d’escorteurs et la création de la Hanse. Celle-ci s’efforce de réprimer les*Vitalienbrüder*de la Baltique, cette organisation pirate née dans le Mecklembourg auxiiiesiècle. Au fur et àmesure que s’y instaure l’ordre hanséatique, la signification du terme « pirate » se restreint et en vient àdésigner plus spécifiquement ces bandits qui parcourent les mers pour piller des navires de commerce. Une même réprobation condamne alors sans nuance l’*ars piratica*que les langues vernaculaires de la Manche et de la mer du Nord traduisent en*robeur*,*robber*ou*seerauber*. Plus tard, les Anglais et les Français utiliseront le mot*pirate*, les Allemands*Pirat*, et les Espagnols et les Italiens*pirata*.
+6Comme aimait le rappeler le grand historien de la course dans l’océan Indien, Auguste Toussaint, la course ne dériva pourtant pas de la piraterie. Elle fut au contraire une réaction contre le brigandage sur mer. L’usage des mots latins*cursus*et*cursarius*apparut ainsi chez les nations maritimes atlantiques dès lexiiesiècle pour définir le statut juridique du corsaire et le distinguer du pirate. L’émergence des lettres de représailles, ancêtre de la lettre de marque, répond àcette exigence de réguler la piraterie et de distinguer les pratiques licites liées àl’état de guerre de la criminalité maritime. Lorsque le seigneur ou la cité se révélaient incapables d’assurer àun vassal le retour de ses biens, il était en effet autorisé àuser de représailles.
+7En matière maritime, l’armateur dont le bâtiment a été saisi par fait de guerre par une cité ou un État ennemi était, lui aussi, autorisé àse faire justice en s’emparant d’un de leur bâtiment au nom de ce même droit de représailles. Comme l’a montré Michel Mollat du Jourdain, cette*vendetta*maritime se codifie et se légalise peu àpeu dans le contexte de guerre permanente de l’Europe duxvesiècle5. Les différents États (royautés, principautés et villes) créent alors des cours de justice qui accordent aux capitaines lésés une « lettre de marque » appelée également « lettre de représailles ». Elle les autorisait àexercer ce droit en franchissant la « marque », ou « marche », c’est-à-dire la frontière. En France, la plus ancienne aurait été accordée le 25 mai 1206 par Philippe Auguste àEustache Le Moyne de Boulogne.
+8La guerre de Cent Ans est le théâtre de l’apparition de la première législation corsaire. Le droit royal s’impose alors progressivement sur le droit féodal àl’occasion des suspensions d’hostilités qui voient la formation de commissions de conservateurs de la paix, chargées de régler le contentieux des prises de guerre. En 1373, une ordonnance de Charles V donne une forme légale àleur mode de liquidation financière. Cette ordonnance constitue la base de toute la jurisprudence européenne en la matière. Une trentaine d’années plus tard, le 17 novembre 1400, Charles VI donne sa forme définitive au statut de la course française, en créant l’obligation de la lettre de marque :

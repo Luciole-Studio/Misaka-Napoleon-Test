@@ -1,0 +1,18 @@
+F.3     Alternative controls
+F.3.1   Distance from Paris
+In this appendix, we show that our results are unaffected when we use travel costs
+from Paris instead of a department’s distance from the capital as a control variable.
+The correlation coefficient between the cost of travelling to Paris and distance from
+Paris is 0.9803. Figure 8 shows the relationship between the cost of travelling to
+each department from Paris and geographic distance. Tables 12 and 13 provide the
+results of our original specifications when we substitute travel costs for geographic
+distance from Paris. The sign, magnitude, and significance of the coefficients for our
+variables of interest are unaffected by this change while the coefficients for travel
+costs are unstable and generally insignificant across our specifications.
+
+  Figure 8: Distance to Paris is highly correlated to the cost of traveling to Paris
+
+
+
+
+                                         26

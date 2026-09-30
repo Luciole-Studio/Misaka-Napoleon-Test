@@ -1,0 +1,193 @@
+{
+  "description": "Explicit assumption envelope. Not a confidence interval, historical series or probability estimate.",
+  "time": "annual mid-year stock; 1810 summer baseline; first full annual step labelled 1811; P maritime truce starts after mid-1815",
+  "extension": "1831-1835 holds the 1821-1830 parameters constant for a 25-year stock test, NOT a sail-only strategic forecast; 1830 training factor is capped",
+  "initial": {
+    "hulls": 50,
+    "total_personnel_thousands": [
+      60,
+      65,
+      70
+    ],
+    "qualified_personnel_thousands": [
+      35,
+      40,
+      45
+    ]
+  },
+  "bounds": [
+    "low",
+    "base",
+    "high"
+  ],
+  "W": {
+    "launches_1811_1815": [
+      8,
+      10,
+      12
+    ],
+    "launches_1816_1820": [
+      7,
+      8.5,
+      10
+    ],
+    "launches_1821_1830": [
+      6,
+      7,
+      8
+    ],
+    "hull_retirement_rate": [
+      0.06,
+      0.05,
+      0.04
+    ],
+    "annual_war_losses_ships": [
+      1.5,
+      1,
+      0.5
+    ],
+    "personnel_exit_rate": [
+      0.1,
+      0.09,
+      0.08
+    ],
+    "personnel_inflow_thousands": [
+      8,
+      10,
+      12
+    ],
+    "qualified_exit_rate": [
+      0.07,
+      0.06,
+      0.05
+    ],
+    "qualified_inflow_thousands": [
+      4,
+      4.5,
+      5
+    ],
+    "hull_ready_fraction": [
+      0.7,
+      0.775,
+      0.85
+    ],
+    "other_personnel_thousands": [
+      25,
+      30,
+      35
+    ],
+    "other_qualified_thousands": [
+      15,
+      17.5,
+      20
+    ],
+    "fleet_training_factor_1815": [
+      0.55,
+      0.65,
+      0.75
+    ],
+    "fleet_training_factor_1830": [
+      0.65,
+      0.75,
+      0.85
+    ],
+    "annual_sea_training_days_assumed": [
+      30,
+      55,
+      80
+    ],
+    "commissioned_share_of_mobilizable": [
+      0.8,
+      0.875,
+      0.95
+    ]
+  },
+  "P_after_1815": {
+    "launches_1816_1820": [
+      8,
+      9,
+      10
+    ],
+    "launches_1821_1830": [
+      6,
+      7,
+      8
+    ],
+    "hull_retirement_rate": [
+      0.045,
+      0.04,
+      0.035
+    ],
+    "annual_war_losses_ships": [
+      0.2,
+      0.1,
+      0
+    ],
+    "personnel_exit_rate": [
+      0.06,
+      0.055,
+      0.05
+    ],
+    "personnel_inflow_thousands": [
+      8,
+      9,
+      10
+    ],
+    "qualified_exit_rate": [
+      0.04,
+      0.035,
+      0.03
+    ],
+    "qualified_inflow_thousands": [
+      5,
+      5.5,
+      6
+    ],
+    "hull_ready_fraction": [
+      0.8,
+      0.85,
+      0.9
+    ],
+    "other_personnel_1816_1820_thousands": 35,
+    "other_personnel_1821_1830_thousands": 40,
+    "other_qualified_1816_1820_thousands": 20,
+    "other_qualified_1821_1830_thousands": 23,
+    "fleet_training_factor_1830": [
+      0.85,
+      0.925,
+      1.0
+    ],
+    "annual_sea_training_days_assumed": [
+      90,
+      120,
+      150
+    ],
+    "commissioned_share_of_mobilizable": [
+      0.45,
+      0.55,
+      0.65
+    ]
+  },
+  "crew_per_battle_ship_thousands": 0.8,
+  "qualified_crew_per_battle_ship_thousands": 0.45,
+  "mean_loaded_displacement_tonnes": [
+    3200,
+    3500,
+    3800
+  ],
+  "young_fleet_retirement_rate_1811_1815": [
+    0.035,
+    0.025,
+    0.015
+  ],
+  "provenance": {
+    "hulls": "S01 p15: 50 in summer 1810, including Netherlands; no new allied fleets added twice",
+    "personnel": "S01 p16 Ganteaume estimates 30k real French mariners plus limited allied access; S05 1810-07-13 proposed 66k all personnel. Initial 60-70k is assumption, NOT observed muster.",
+    "launches": "S01 p15 growth 50->72; S04 1811-03-05 Antwerp 18 slips/3 years/6 per year planned, S06 1811-10-02 8 planned; factual launches separately audited. Long-run schedule includes budget and repair competition.",
+    "retirement": "S08 Annales1820 quotation: 52 afloat, 10 condemned 1814-19 plus 2, average 14 years before refit; S01 p15 Antwerp radoub after 8 not10 years. Model geometric rates are NOT estimated hazards.",
+    "other_personnel": "S05 plan 66k for50 line +30 frigates +400 small craft; 50*0.8=40k implies order-of-magnitude 26k non-line personnel; reserved pool rises in P to support commerce escort/global tasks",
+    "crew_and_displacement": "S11 Clouet 74:705,80:811,118:~1000-1130; loaded displacements ~3080,3704-3875,4830-5095t. 800/450 crew and 3200-3800t averages are scenario assumptions.",
+    "training": "S01 pp19-23 actual practice reports, 1813 cruises mean2-3months with heavy losses; S07 institutional sea training; numerical factors/days are explicit sensitivity assumptions, not measured French/RN ratios.",
+    "recruitment": "S01 p18 20k coastal conscription levy for1811 is an order, not actual arrival. Model 8-12k entrants,4-6k qualified additions require time, retention and trade; no independent calibrated rates."
+  }
+}

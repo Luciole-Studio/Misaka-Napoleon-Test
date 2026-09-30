@@ -1,0 +1,54 @@
+
+
+33 London Times, 21 August and 4 September.
+
+34 London Times, 21 August and 4 September.
+
+35 London Times, 24 March.
+
+36 London Gazette, 22 and 24 March.
+
+37 London Times, 7 and 10 October.
+
+38 56 Geo. III, c.68.
+
+39 The most ardent proponents of maintaining the paper pound indefinitely could be found among industrialists in the north of Britain (Clapham Reference Clapham1944). Not only did the northern parts of the kingdom suffer economically, they were also lacking political representation. Manchester and Birmingham, for instance, had a population of 100,000 each, but were not represented by members of parliament at the national level.
+
+40 Hansard HC Deb, 26 May 1819, vol. 40, cc802-04.
+
+41 As such they were not subject to redemption or interest rate reductions: from 1752 up until to Goschen's conversion in 1888, the coupon rate on consols remained at 3 percent.
+
+42 London Gazette, 6 November; London Times, 7 November.
+
+43 London Times, 15 and 19 November.
+
+44 London Times, 17 June.
+
+45 London Times, 9 October.
+
+46 London Times, 27 October.
+
+47 Hansard HC Deb, 29 January 1807, vol. 8, cc564-93; London Times, 30 January 1807.
+
+48 London Times, 2 February 1807.
+
+49 London Times, 10 November; London Gazette, 14 December.
+
+50 London Times, 8 December 1806.
+
+51 Hansard HC Deb 11 April 1808 vol. 11, cc11-8; London Times 12 and 13 April 1808.
+
+52 The decision to resume the gold standard in May 1819 is an interesting exception. On the occasion, the agio declined instantaneously to its pre-suspension level while the yield on consols increased. In order to pay off Exchequer bills—as imposed by 59 Geo. III, c.76—large loans were issued (Hansard HC Deb 2 June 1819 vol. 40, cc840-5). This was part of a broader funding scheme, converting Exchequer bills into longer-dated securities (58 Geo III c.25). These operations substantially increased the supply of funded debt, yields, therefore, rose.
+
+## References
+
+####
+REFERENCES
+
+Acworth, Angus W. Financial Reconstruction in England 1815–1822. London: P.S. King and Son LTD, 1925.[Google Scholar](https://scholar.google.com/scholar_lookup?title=Financial+Reconstruction+in+England+1815%E2%80%931822&author=Acworth+Angus+W.&publication+year=1925)
+
+Bai, Jushan, and Perron, Pierre. “Estimating and Testing Linear Models with Multiple Structural Changes.” Econometrica 66, no. 1 1998 : 47–78.[Google Scholar](https://scholar.google.com/scholar_lookup?title=Estimating+and+Testing+Linear+Models+with+Multiple+Structural+Changes&author=Bai+Jushan&author=Perron+Pierre&publication+year=1998&journal=Econometrica&volume=66&pages=47-78)
+
+Acworth, Angus W. “Computation and Analysis of Multiple Structural Change Models.” Journal of Applied Econometrics 18, no. 1 2003 : 1–22.[Google Scholar](https://scholar.google.com/scholar_lookup?title=Computation+and+Analysis+of+Multiple+Structural+Change+Models&author=Acworth+Angus+W.&publication+year=2003&journal=Journal+of+Applied+Econometrics&volume=18&pages=1-22)
+
+Barro, Robert J. “Money and the Price Level under the Gold Standard.” The Economic Journal 89 1979 : 13–33.[Google Scholar](https://scholar.google.com/scholar_lookup?title=Money+and+the+Price+Level+under+the+Gold+Standard&author=Barro+Robert+J.&publication+year=1979&journal=The+Economic+Journal&volume=89&pages=13-33)

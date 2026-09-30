@@ -1,0 +1,55 @@
+
+
+## 4. 已核正文短引文（按Gutenberg所保留印刷页；扫描复核待办）
+
+以下均为英文原文短引；引文不等于作者判断已被其他史料证实。
+
+1. **Mahan II p.126，作者判断**：“The strength of the British strategy lay not in hermetically sealing any one port, but in effectually preventing a great combination from all the ports.”
+   - 用途：反驳逃出单港即消除英国海权约束。
+2. **p.130，拿破仑致Latouche引语，转引自Mahan**：“Let us … be masters of the Strait for six hours and we shall be masters of the world.”
+   - Mahan置于7月2日信叙述下，注134指旧《通信集》IX p.513。这里省略号去掉的是Mahan插语，非伪装连续原信。该句是政治军事愿望，**不是六小时已足够装载、渡海、卸载、补给的工程证明**。
+3. **p.131，作者判断Villeneuve**：“he saw the defects of the French navy with a clearness which absolutely sapped his power to take risks.”
+   - 用途：Mahan解释是对舰力缺陷的认识削弱冒险意志，不宜译成“天生怯懦”。
+4. **p.150，拿破仑指令，转引自Mahan**：“Have but one aim,—to fulfil your mission. Sail without fighting.”
+   - 注177：旧《通信集》X p.324。用途：检验“只换更勇敢的将领”是否足够；皇帝本人的不交战要求也是变量。
+5. **p.154，作者判断**：“a concentration in the Bay of Biscay, the great hive where swarmed the British navy.”
+   - 用途：Magon修订不是无代价更佳方案，而是Brest封锁迫使法国接受的新风险。
+6. **p.176，作者对Cornwallis分兵判断**：“transferred to Villeneuve all the advantage of central position and superior force”
+   - 用途：Mahan并非把英国行动写成全程无误；存在可利用窗口，但有时间与情报约束。
+7. **p.182，作者对成功概率的警戒**：“it would be folly to reply with a positive assertion.”
+   - 所指：涉及太多变量的入侵成功反事实；不支持自行给出精确成功百分比。
+8. **p.183，作者判断训练与封锁**：“the ships were ever on the drill ground,—nay, on the battle-field”
+   - 用途：持续在海上集群操舰带来效能优势；舰数不是等质单位。
+9. **pp.183–184，作者最终限定**：“there remained to Napoleon enough chances of success to forbid saying that his enterprise was hopeless.”
+   - 当前抓取在此段缺少单独`[Pg 184]`标，故保守保留跨页范围，不伪造单页。用途：不能把Mahan概括为入侵绝无可能论。
+
+## 5. Latouche若不死：允许与不允许推出什么
+
+【文献推断：Mahan，pp.129–133】Latouche死亡损失重要，Villeneuve继任导致角色与计划发生变化；作者认为Latouche是最有胆略的海军将领，Bruix亦有能力但已负责船队且健康不佳。**这是Mahan对人物能力的回顾评价，不是Latouche可必胜的同期证明。**
+
+【模型推演：显式假设】仅改Latouche生存并继续任职，可合理保留“更有可能积极执行土伦直接集中方案”的研究分支；不能自动移除下列门槛：
+1. 1804年夏船队尚未齐集与舰队装备延期，发生在其死亡以前；
+2. Brest封锁、Rochefort会合与敌方侦察通信仍然存在；
+3. 舰员操航能力、风向和出港条件不会因换将瞬间改变；
+4. 1805年3月不交战指令表明冒险阈值还受最高统帅决策约束；
+5. 局部海峡优势不等于登陆成功，更不等于英国政府投降。
+
+【裁量：中置信度】Latouche生存是“有史实人格与既定职责依据的可研究分岔”，不是已证明可单独逆转战争的最小改写。**其足以带来登陆成功：未验证；其足以带来英国媾和：没有本笔记证据。**
+
+【模型推演】更能直接锚定文书的替代，是调整Ganteaume的交战授权、或Villeneuve在8月继续北上；但两者都不能写成免费按钮。交战可能毁损集中所需舰队；继续北上要面对真实风向、舰队状态和对手反应。见p.150及pp.176–180。
+
+## 6. 史家分歧与因果警戒：尚未完成的比较
+
+- 【文献推断：Mahan，pp.183–185】海上内线、持续训练、英国人员优势，使胜算偏向英国；同时承认法国可在有利条件汇合下形成足够多舰，短期取得海峡优势。其“若不能击败英国则处处失败”的总命题，是作者关于海权与大陆体系的宏观解释，不能反过来当作每个具体环节必败的证据。
+- **Corbett立场暂不代填。** 待直接读其Cornwallis分兵、英国外交与联合战略、入侵窗口判断，才能判定其与Mahan在何处实质冲突，而非把两人做成教材式“集中决战/有限战争”二分。
+- 【事实：阅读所得】Mahan在注193明言修正自己早先对Nelson的判断：更细研究使其认为Nelson当时做法正确。这提醒不能用同一作者早先随笔判断代替本卷具体分析。
+- 【裁量：高置信度】对“计划版本—发令日—收令日—执行日—后见已知敌情”必须分别建列。当前最危险的反事实偷换是让法国在15日拥有17日英国实际分兵情报，同时令英国面对改变后的法国航向仍机械照原史行动。
+
+## 7. 未完成项与技术记录
+
+1. Corbett直接读本待取得；尚未达到“两史家及至少两学派”验收要求。
+2. 六条以上页码短引已提供，但仅Mahan；纸本扫描对校未做。
+3. 原令仍转引Mahan，未用协调者Desbrière OCR升级证据；本笔记提供旧《通信集》卷页供交叉核对，不伪称读过。
+4. Keith各时点舰队名单及block ships实际战斗效能未冻结，不能套入统一舰数总表。
+5. 本次网页工具成功取得Mahan连续正文；Corbett各入口反复只有excerpts或无内容。此前命令行下载受审批限制，未绕过权限。已请协调者代取指定Corbett OCR。
+6. 未改变卡片状态、未声称卡片完成。

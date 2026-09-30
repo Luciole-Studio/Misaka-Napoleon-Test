@@ -1,0 +1,37 @@
+
+
+【锚点】**跨殖民地精英通道**：1808 年 6 月，Someruelos 向海军要一艘军舰，派 **Francisco de Arango y Parreño 与 conde de O'Reilly（可能还有 Andrés de Jáuregui）赴韦拉克鲁斯**，探明 Iturrigaray 将如何抉择（Vázquez Cienfuegos，CSIC 快照，转引 Rafael de Villavicencio 报告）。
+
+【锚点】**商业-金融通道**：Hope/Baring 财团在费城（David Parish）、新奥尔良（Vincent Nolte）、韦拉克鲁斯（Gabriel Villanueva）设点，与费城 John Craig、巴尔的摩 Robert Oliver、纽约 A. Gracie 合作（Marichal 图 5.2，亲读）。**这是一张美英荷法西五国商人共用的网络**，其存在本身证明"封锁"在白银环节从来不是二元开关。
+
+【推演·高置信】**时滞 + 通道**两条合起来给出一条硬约束：**巴黎对美洲的任何指令，往返一次需要 5–7 个月，且必须借道它的敌人或中立国的船。**因此法国对新西班牙不可能实行"政策"，只能实行"结构"——即通过改变西班牙本土的制度（合法性、水银、许可证）间接作用。这与 F1 卡"中枢环路时延"的结论方向一致，量级更极端。
+
+---
+
+## §13 古巴分卷
+
+### 13.1 经济基座
+【锚点】"Cuba en el periodo comprendido entre 1799 y 1808 se encontraba en **la fase final de un ciclo económico expansivo** basado en la exportación de los productos derivados del cultivo de la caña de azúcar"，该周期始于 1791 年圣多明各奴隶起义使古巴顶替其世界最大糖出口国地位（doc 90b0ffc8ef9e p.275，亲读）。糖出口：1750 年 4,969 吨 → **1800 年 28,761 吨** → 1850 年 294,952 吨（NWIG 表 1，doc a6a2c8acc763，亲读）。
+
+【锚点·关键】**古巴经济在 1803 年已不是西班牙市场的函数**："La apertura del tráfico comercial de La Habana a potencias neutrales, que permitió el capitán general Someruelos, minimizó las consecuencias de este dominio británico, pero **sentó las bases para una dependencia casi exclusiva de los mercados de los Estados Unidos de América**"（doc 90b0ffc8ef9e p.275）。
+
+【锚点·实测冲击】杰斐逊禁运（1807 年底）："Con la entrada en vigor del Acta de Embargo Cuba quedó casi en situación de riguroso bloqueo, pues inicialmente **descendió a la mitad el comercio con Norteamérica**, lo que **triplicó los precios de los productos de importación** y **no pudieron venderse dos tercios de la cosecha de azúcar de 1808**"（同上）。
+
+→ **这是本卡手上关于"大陆体系式的贸易封锁施于加勒比种植园经济"的唯一一次实测：一个收获季内，三分之二的产品卖不出去，进口物价三倍。**
+
+### 13.2 社会与安全
+【锚点】人口约 50 万（1804 普查 432,000；1810 普查 600,000；作者自承插值"sin un valor riguroso"）；圣多明各法国难民 **2 万–3 万**（官方至 1804-12-31 计 18,213；Pérez de la Riva 约 2 万；Marrero 3.2 万）；**圣地亚哥 1808 年 33,881 人中 7,449 人是法国人，超过全城两成**（doc 90b0ffc8ef9e p.276 及注，亲读）。
+【锚点】奴隶：1790–1867 年输入约 **78 万**（NWIG）；1789–1833 年 462,965（eumed 快照）；1827 年全岛奴隶 286,900、1841 年 436,500（HAHR《Slave Prices in Cuba》快照）。
+【锚点】武装：1808 年因防英远征，Francisco Montalvo 被任野战部队总司令，全岛可集结"**más de 26.000 hombres de infantería y 3.200 de caballería**"（Someruelos 1809-08-26，AGI, Cuba, 1747, n.º 2.502，**经 Vázquez Cienfuegos 转引，本卡未阅原档**）。
+
+### 13.3 1808 年的政治实验及其失败
+【锚点】7-17 Someruelos 发布《Habitantes de la isla de Cuba》并公布塞维利亚洪塔文告；同日一部分精英已在起草本地洪塔方案；7-20 正式宣告费尔南多七世并对法宣战；**7-22 总督公文承认"el independiente derecho que tienen las distintas provincias de gobernarse por sí mismas"**；7-26 Arango 等正式呈请设 Junta Superior；**7-27 仅得 73 人签名（Arango 自认至少需 200），其中 46 人为半岛人，克里奥尔军官仅四名**；同日下午军方会议上旅长 Francisco Montalvo 拍桌宣称只要他活着佩剑，哈瓦那就不会有洪塔；计划当日撤回（Vázquez Cienfuegos 多篇，CSIC/AEA **检索快照，转引**）。
+
+【机制】Kuethe 的解释（经 Vázquez Cienfuegos 转引）：Arango 是彻底的现实主义者，他知道**法属圣多明各精英的分裂正是奴隶起义的入口**。
+
+【推演·高置信】**古巴的"永远忠诚"（Siempre Fiel）是一个被计算出来的均衡，不是一种情感。**三条支柱：
+1. **军官团**（Montalvo 及正规军）否决任何削弱统一指挥的安排；
+2. **奴隶主**（占人口三成以上的奴隶＋两成外来法国难民 in 圣地亚哥）恐惧任何权力真空；
+3. **糖商**需要一面合法旗号来保住美国市场与合法航运。
+**任何法国主导的安排同时打击第 2 与第 3 条**：法国是 1802 年奴隶制复辟者、圣多明各失败者，而其大陆体系的逻辑与"给古巴糖留美国出口"直接冲突。
+→ **因此：在 S-B 与 S-C 下，古巴不会倒向法国；它会先坚持"为被囚国王保管本岛"，然后在压力升高时向美国或英国寻求保护。**

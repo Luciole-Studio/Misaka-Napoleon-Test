@@ -1,0 +1,17 @@
+
+
+- **S14** 1803-01-15致Decrès、拟定印度总督特别训令，法文网络转录，https://napoleon-histoire.com/correspondance-de-napoleon-janvier-1803/ ；`downloads/pages/8294c46ce151.md`，行389–423。主研究者复读全文段落，未对校印本，未见“四年”条款。与S11属相近网络传播传统，不算相互独立现代研究。
+- **S15** 1807-05-04芬肯施泰因条约，全16条法文网络转录，https://napoleon-histoire.com/traite-dalliance-entre-la-france-et-la-perse/ ；`downloads/pages/6bc1e5201866.md`。已逐条读，签署件影像未得。Iranica给出的可补校书目为de Clercq II,pp.201–203；Hurewitz I,pp.184–185；Gardane,pp.71–80；这些印本本卡未读，不能当作直接出处。
+- **S16** Jean Calmard, “Gardane Mission,” *Encyclopaedia Iranica*,2000，更新2013。https://www.iranicaonline.org/articles/gardane-mission/ ；`downloads/pages/fcff28bd1292.md`，按段首“His credentials”“The mission was warmly received”“Gardane assured”“Gardane’s mission…was also hampered”定位。已读正文和书目。伊朗主体性及文书档案均**转引自此条目**。其中档案线索：AAE CP Perse vols.8–11,15；Turquie vols.205–209,212；SHAT Gardane个人档8Yd/841/GB2/S及MS1673；TNA FO60/1–3,FO248/1–18；IOR G/29 vols.20–31。Qajar材料包括Donbolī,*Maʾāṯer-e solṭānīya*及Hedāyat等；未亲读。
+- **S17** Florence Hellot-Bellier, “France iii. Relations with Persia 1789–1918,” *Encyclopaedia Iranica*,2000，更新2018。https://www.iranicaonline.org/articles/france-iii-relations-with-persia-1789-1918/ ；`downloads/pages/a0f246407c7d.md`，“1789 TO 1849”首段。已读；其据AMAE CP Perse vol.10、Hedāyat IX,pp.454–455说明法国迟延与伊朗转向。与S16存在底层来源重合。
+
+### 缺口与后续最有价值的核验
+
+1. Decaen后续升级命令及1803文本印本终校；芬肯施泰因签署件／刊布印本、Gardane行程原本与伊朗宫廷文书——决定文本精度与执行能力，不再把已落实的网络全文写成未得。
+2. Caulaincourt1808-03-16原档；*Correspondance* XVI,p.586与现代总通信本；Méneval原回忆录注11——决定文本传承与名言归属，不改变已读文本本身。
+3. 1808埃尔福特印度专门文书——决定提案是否真正延续，不可以检索未得推定不存在。
+4. Parkinson、Prentout及海军日志；SHD海军BB4、TNA ADM／India Office军事与政治记录——决定可持续远洋军事能力。这里只列应查系列，未冒充读取。
+5. Gardane、Jaubert行程和波斯地方供给资料；Amini、Ingram、Yapp、Aksan、Bayly相关章节——决定通道、奥斯曼自主性与殖民结构效应；均不得因列书名就计为证据。
+6. 缺少现代印度与伊朗本土研究形成的对照；本卡已有自主性警戒，但不能宣称消除了欧洲档案偏向。
+
+【交付边界】本报告可直接用于C17排除“提尔西特已定联合夺印”“保罗方案证明拿破仑已有成熟远征计划”“两万人物理上限”三种不可靠承重。可支持“真实东方威慑＋条件严苛的远征提案”，不能支持确定的法国印度帝国地图。

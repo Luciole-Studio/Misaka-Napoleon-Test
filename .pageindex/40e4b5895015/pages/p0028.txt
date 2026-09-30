@@ -1,0 +1,48 @@
+                            The French revolution and German industrialization 187
+
+their problematic econometric strategies, it is apparent that their theoretical and
+empirical analysis lacks credibility. Prescriptions about the beneficial effects of
+imposed institutional change, when predicated on flawed analysis, are deeply
+problematic.
+
+
+Acknowledgement
+We are indebted to Christopher Kanter for assistance with Stata and
+econometrics issues. Peter Temin, Ulrich Pfister, Clemens Zimmermann, and
+Joachim von Braun have offered several helpful suggestions. The comments of
+anonymous reviewers have been valuable in helping us to refine our argument.
+Daniel Bromley is grateful to the Alexander von Humboldt Foundation, and the
+Reimar Lüst Prize, for financial support.
+
+
+References
+Acemoglou, D., D. Cantoni, S. Johnson, and J. Robinson (2011), ‘The Consequences of
+      Radical Reform: The French Revolution’, American Economic Review, 101: 3286–
+      3307.
+Angrist, J. D. and A. Krueger (1999), ‘Empirical Strategies in Labor Economics’, in
+      O. Ashenfelter and D. Card (eds.), Handbook of Labor Economics, vol. 3 Part A,
+      Amsterdam: Elsevier, Chapter 23, pp. 1277–1366.
+Angrist, J. D. and J.-S. Pischke (2009), Mostly Harmless Econometrics, Princeton: Princeton
+      University Press.
+Berding, H. (1973), Napoleonische Herrschafts- und Gesellschaftspolitik im Königreich
+      Westphalen 1807–1813, Göttingen: Vandenhoeck & Ruprecht.
+Blanning, T. C. W. (1974), Reform and Revolution in Mainz 1743–1803, Cambridge:
+      Cambridge University Press.
+Blanning, T. C. W. (1983), The French Revolution in Germany. Occupation and Resistance
+      in the Rhineland 1792–1802, Oxford: Clarendon Press.
+Bromley, D. W. (1989), Economic Interests and Institutions: The Conceptual Foundations of
+      Public Policy, Oxford: Blackwell.
+Bromley, D. W. (2006), Sufficient Reason: Volitional Pragmatism and the Meaning of
+      Economic Institutions, Princeton: Princeton University Press.
+Bromley, D. W. and G. D. Anderson (2012), Vulnerable People, Vulnerable States: Redefining
+      the Development Challenge, London: Routledge.
+Bronny, H. M. and W. Dege (1990), ‘Raumpotential und Raumstruktur an der Schwelle zur
+      Industrialisierung’, in W. Köllmann, H. Korte, D. Petzina and W. Weber (eds.), Das
+      Ruhrgebiet im Industriezeitalter, vol. 1, Düsseldorf: Schwann, pp. 81–110.
+Commons, J. R. (1924), Legal Foundations of Capitalism, London: Macmillan.
+Dipper, C. (1980), Die Bauernbefreiung in Deutschland, Stuttgart: Kohlhammer.
+Dipper, C. (1996a), ‘Wirtschaftspolitische Grundsatzentscheidungen in Süddeutschland’, in
+      H.-P. Ullmann and C. Zimmermann (eds.), Restaurationssystem und Reformpolitik.
+      Süddeutschland und Preußen im Vergleich, München: Oldenbourg, pp. 129–161.
+Dipper, C. (1996b), ‘Übergangsgesellschaft. Die ländliche Sozialordnung in Mitteleuropa um
+      1800’, Zeitschrift für Historische Forschung, 23: 57–87.

@@ -1,0 +1,69 @@
+C     Descriptive statistics
+
+                                               Table 1: Summary statistics.
+    VARIABLES                                                     N       mean       sd         min     max      p25     p50       p75
+                                                                                                French Empire:
+    Agricultural sector                                           420 0.553         0.175    0.00223 0.809      0.465     0.589     0.682
+    Border                                                        555 0.189         0.392        0        1        0         0         0
+    Civil Law                                                     421 0.388         0.466        0         1      0         0         1
+    Group 4&5                                                     555 0.450         0.498        0         1      0          0         1
+    Conscription rate                                             555 29.59         4.230      11.96    42.89   26.75     29.49    32.40
+    Draft-dodging rate                                            554 14.95         14.03        0      66.24  3.556      10.92     21.69
+    Distance from Paris                                           555 3.873          1.991       0      9.218   2.466     3.558     5.543
+    Elevation                                                     555 326.8          317.4    7.779     1,477   98.57     238.4     431.4
+    Exemption rate                                                555 54.21          9.09      23.94    77.49   47.58     54.05    60.91
+    Germany                                                       555 35.18         30.63        0       100    2.391     34.93    55.36
+    German border                                                 555 0.0721         0.259       0        1        0         0         0
+    Height                                                        420   1.66         0.16      1.589     1.7     1.65      1.66     1.67
+    Identity                                                      430 2.246         0.321      1.405    2.910   2.065     2.262    2.445
+    Italian border                                                555 0.0541        0.226        0         1      0         0         0
+    Italy                                                         555 20.63         31.69        0      97.72     0         0      33.43
+    Literacy (1790)                                               386 43.42         24.06      3.240    92.18   23.96     33.02     66.97
+    Literacy                                                      381 50.98         22.14      13.35    96.28   33.22     46.15     69.05
+    Literacy (1831)                                               421   49.6         19.3      14.9      86.2    35.0      47.5     63.3
+    Log of ruggedness                                             555 -0.277         1.009    -2.921    1.822  -0.975    -0.416    0.438
+    Log of ruggedness (glaciers and mountainous rocks excluded)   555 -0.282        1.001     -2.921    1.790  -0.975    -0.416    0.438
+    Log of ruggedness (buffer)                                    555 -0.228        0.936     -2.415    1.701  -0.929    -0.365    0.472
+    Log of ruggedness (>2000m excluded)                           555 -0.301        0.972     -2.921    1.635  -0.975    -0.416    0.438
+    Log of slope                                                  555 -3.749        1.011     -6.455 -1.636 -4.447       -3.878    -3.052
+    Maritime                                                      555 0.261         0.440        0         1      0         0         1
+    Military relays                                               415 0.222         0.0859   0.0723 0.466      0.157      0.205     0.269
+    Mounted gendarmerie brigades (%)                              515 76.26         19.63      16.67    97.30  65.38      84.21     90.91
+    Oath                                                          405 55.81         23.01        9        94      39        61        75
+    Percentage Artillery                                          555 0.0201        0.0110       0     0.0487 0.0137    0.0205    0.0273
+    Percentage Cavalry                                            555 0.105         0.136        0      0.639 0.0195    0.0205      0.142
+    Percentage Infantry                                           555 0.712          0.143    0.195        1    0.674     0.742     0.812
+    Postal office density                                         415 0.00284      0.00233       0     0.0171 0.00137   0.00255   0.00370
+    Replacement rate                                              444   4.99         4.55        0      61.29    2.42      4.28      6.48
+    Road density                                                  415 0.0620       0.0220    0.00408 0.160 0.0504       0.0599     0.0730
+    Ruggedness                                                    555 1.253          1.356    0.0539 6.184      0.377     0.660     1.550
+    Ruggedness (buffer)                                           555   1.25         1.29      0.09      5.48   0.39       0.69      1.60
+    Ruggedness (glaciers and mountainous rocks excluded)          555 1.233          1.312    0.0539 5.988      0.377     0.660     1.550
+    Ruggedness (>2000m excluded)                                  555 1.166          1.169    0.0539 5.131      0.377     0.660     1.550
+    Spain                                                         555 39.30         30.33        0      99.45   13.72     35.15     54.88
+    Spanish border                                                555 0.0450        0.208        0        1        0        0          0
+    Tax per capita                                                540 8.879         3.203        1      17.32   7.035     8.562    10.61
+    Urbanization                                                  555 0.128         0.104        0      0.843 0.0686      0.105     0.156
+    Urbanization (towns>10,000)                                   555 0.0828        0.102        0      0.828 0.0232    0.0559      0.121
+    Townships density                                             535 0.0788       0.0350     0.0216 0.174 0.0497       0.0711      0.106
+    Travel cost to Paris                                          536 58.34         33.15        0      139.5  32.50      52.25     76.75
+    Wheat suitability                                             555 4.114         1.127      1.922       7    3.340     3.959     4.729
+    Year created                                                  555 1,792          4.067    1,790     1,808   1,790     1,790     1,790
+                                                                                                 Haute-Vienne:
+    Ruggedness                                                    26       0.651    0.208      0.368    1.235   0.526    0.637     0.685
+    Log of ruggedness                                             26      -0.472    0.291     -0.999    0.211  -0.642   -0.451    -0.378
+    Desertion rate (before leaving for unit)                      26      15.01     12.08        0      42.31      5     11.61    22.58
+    Desertion rate (after leaving for unit)                       26       15.81    9.239      3.448    36.36   6.667    16.33     20.69
+    Height                                                        26       1.623   0.0127      1.591    1.643   1.614    1.622    1.632
+    Agricultural sector                                           26       0.536    0.192      0.175    0.871   0.378   0.560     0.720
+    Construction workers                                          26       0.146    0.215        0      0.675     0     0.0416     0.258
+    Owner share                                                   26      0.0395   0.0497        0      0.208      0    0.0230    0.0667
+    Wheat suitability                                             26       4.344   0.733       2.500      6        4     4.500     4.667
+    Wood workers                                                  26      0.0477   0.0339        0      0.133 0.0250    0.0413    0.0690
+    Leather and textile workers                                   26      0.0405   0.0412        0      0.128     0     0.0396    0.0566
+    Glass and metal workers                                       26      0.0219   0.0235        0     0.0811      0    0.0204    0.0333
+
+
+
+
+                                                                      4

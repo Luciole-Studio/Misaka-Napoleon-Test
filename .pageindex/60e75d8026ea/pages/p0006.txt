@@ -1,0 +1,42 @@
+(Davis and Weinstein, 2002; Redding and Sturm, 2008; Kline and Moretti, 2014). In con-
+trast to other mechanisms which the literature has explored, this paper estimates the effect
+of trade protection on determining industry location and as such, informs the debate on
+whether infant industry mechanisms are empirically relevant.
+    The results of this paper raise the question of whether policy intervention may be welfare-
+maximizing in similar settings. Even setting aside the issue of how policymakers identify
+such industries, theoretically, this depends crucially on the source and size of agglomeration
+economies. These are difficult to distinguish and quantify. Krugman (1987), Lucas (1988),
+Matsuyama (1992) and Young (1991) model external-to-the-firm learning-by-doing, while
+Krugman and Elizondo (1996) and Puga and Venables (1999) model pecuniary externalities
+which arise from the interaction of internal to the firm increasing returns to scale, input-
+output linkages and transport costs. Both strands predict that trade policy may affect
+the long-term location of industries, though the effect on welfare is generally different. In
+particular, it is generally not the case that policy intervention is optimal in the latter type
+of models as Puga and Venables (1999) show. In contrast, intervention can be optimal if the
+region has a latent comparative advantage in the industry, and the size of the externalities
+is large in models which feature external economies of scale as discussed by Harrison and
+Rodríguez-Clare (2010).3
+    Data availability limits the extent to which I am able to differentiate between the two
+types of agglomeration economies in the empirical analysis. However, I present historical
+evidence consistent with learning-by-doing externalities. This suggestive evidence on external
+economies of scale does not imply a case for infant industry protection in similar settings.
+Instead, it serves to highlight the important challenges economies face to the extent that
+similar mechanisms are present in developing countries today.4
+    Finally, the paper contributes to the debate on why France was slow to adopt mech-
+anized cotton-spinning technology (Allen, 2009; Crafts, 1995; Landes, 2003). Most closely
+related to this paper’s mechanism is Crafts (1995), who argued that the historical accident of
+mechanized spinning technology being invented in Britain, and not France, gave that coun-
+   3
+     As is well known, tariff protection is generally not the most efficient form of intervention, as a production
+subsidy would not distort consumption choices. See Melitz (2005) for a discussion.
+   4
+     It should also be noted that even if the effect driving the results are external economies of scale, the
+welfare implications are ambiguous because of the static negative welfare losses stemming from the higher
+price paid by consumers of cotton yarn. This discussion also abstracts from the myriad of other (arguably
+overwhelmingly negative) effects of the blockade. The goal of this paper however is not to offer a welfare
+evaluation of the blockade but rather to use the setting to study the question of whether theoretical infant
+industry mecahnisms are empirically relevant.
+
+
+
+                                                        6

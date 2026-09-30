@@ -1,0 +1,21 @@
+# SOURCES.md — MX 卡（新西班牙＋古巴）材料表
+**规则**：只列本卡实际读到的版本；"亲读"＝本卡在本次会话中直接读取了该文本；"快照"＝只读了搜索引擎返回的摘录，未取全文；"转引"＝经他人著作引用而来，本卡未见原件。档案系列名只标谱系，不冒称调阅。
+
+---
+
+## A 已入库、本卡亲读（可复用资产）
+
+| 编号 | 文献 | 本地路径 / doc_id | 本卡实读范围 | 用途 |
+|---|---|---|---|---|
+| **M1** | Carlos Marichal, *Bankruptcy of Empire: The Mexican Silver Crisis and the Collapse of the Spanish Empire, 1780–1810*, Cambridge UP, 2007 | `downloads/SP1_Marichal_Bankruptcy__92639196261c.pdf`；**doc f137a3c2e0fa**（338 页扫描） | PDF p.52–57（situados）、p.94–97（帝国财政收益）、p.158–170（Consolidación 与表 4.2/4.3）、p.174–200（第五章 Ouvrard-Hope-Baring 全节）、p.224–229（表 6.2 英舰运银）、p.250–253（表 7.4 与总结）、p.255–258（1810 债务、表 8.1）、p.272–278（结论财政负担） | 本卡全部财政与白银数字的主干。**上一轮 t_c2dbca 只读到该作者 2000 年论文与本书导论，第五章未读；本轮已补足。** |
+| **M2** | A. v. Humboldt, *Essai politique sur le royaume de la Nouvelle-Espagne*, t. III, Paris: Schoell, 1811（Getty 扫描 OCR） | `downloads/MX_Humboldt_Essai_t3_fr.txt`；**doc 5fb2fc70f960**；sha256 5fb2fc70f96026bd…c58ed | 印 p.283–286（什一税与农业产值、教会资本 4,450 万）、p.335–336（250 万 marcs、瓜纳华托占四分之一）、p.372（Freiberg 对照）、p.410（1802 缺汞）、p.414（瓜纳华托 1803 年矿区统计） | 矿业、水银依赖、教会金融资本基数、农业 vs 矿业产值比 |
+| **M3** | D. A. Brading & Harry E. Cross, "Colonial Silver Mining: Mexico and Peru", *HAHR* 52:4 (1972), 545–579（Duke 开放获取） | `downloads/pages/939c6d71a3cd.md` | 全文抓取（首尾内联＋中段读盘）：技术、水银垄断、1767/1776 汞价腰斩、100–125 marks/quintal、1706→1798 铸币、1630 后水银腰斩五年后产出崩、partido 制在瓜纳华托被废 | 水银—白银转换率、汞禁运机制、矿工制度变迁 |
+| **M4** | Sigfrido Vázquez Cienfuegos, "Proclamas políticas en Cuba durante el agitado verano de 1808", *Araucaria* 22 (2009), 273–290 | `downloads/MX_Vazquez_Proclamas_Cuba_1808.pdf`；**doc 90b0ffc8ef9e** | 印 p.274–277（Someruelos 生平、糖周期、杰斐逊禁运冲击、法国难民、圣地亚哥人口） | 古巴经济基座与 1808 年政治 |
+| **M5** | Ulbe Bosma et al., "Two Islands, One Commodity"（*NWIG*），KNAW 存本 | `downloads/MX_TwoIslands_Java_Cuba_NWIG.pdf`；**doc a6a2c8acc763** | 表 1（爪哇/古巴糖、咖啡、烟草 1750–1900）、奴隶输入 78 万、1862 年奴隶分布 | 古巴糖与奴隶量级 |
+| **M6** | Juan E. Hernández y Dávalos 文献集 II-53：《Documentos intimando rendición al intendente Riaño, de Guanajuato》（PIM-UNAM 转录） | `downloads/MX_Hidalgo_Riano_Granaditas_1810.pdf`；**doc 46ec015b0dc6** | 全 6 页：Hidalgo 1810-09-28 公函与私信、Riaño 两复文、Riaño 致 Calleja 求援、Riaño 致市议会 | 1810 年冲突双方的正统性论证结构（本卡 §8 的承重文书） |
+| **M7** | Lucas Alamán, *La revolución del cura Miguel Hidalgo, hasta la muerte de éste y sus compañeros*, cap. II 2ª parte（Biblioteca Virtual Antorcha 转录） | `downloads/pages/c68f606dbf1f.md` | 攻城过程、兵力（两万步卒＋两千骑）、Chovell 与瓦伦西亚纳矿工、伤亡（105 西班牙人＋约 200 士兵；起义方 3,000 vs 极少两说） | Granaditas 的兵力与伤亡。**注意：Alamán 本人是当日在场的少年幸存者，其著作是回溯性当事人史著（1849–52），非同期文书。** |
+| **M8** | 《El virrey Iturrigaray y el Ayuntamiento de México en 1808》，INEHRM | `downloads/MX_INEHRM_Iturrigaray_1808.pdf`；**doc 41309a4dc88a**（101 页） | Yermo 与总督冲突的经济链（Consulado 选举、6,000 pesos 罚款、肉税与烧酒税、逮捕令）、Audiencia 结构与 Real Acuerdo 规则 | §1 决策结构与政变动因 |
+| **M9** | Frederick Jackson Turner, *Rise of the New West, 1819–1829*, ch. XII（historion.net 转录） | `downloads/pages/3ff04f44110f.md` | 1823-04-28 亚当斯训令要旨、坎宁 1822-11 备忘录、1822-09 古巴兼并请求 | §18 美国—英国—西班牙三方困境 |
+| **M10** | José María Morelos,《Sentimientos de la Nación》, Chilpancingo, 1813-09-14（文本源 Lemoine, *Morelos. Su vida revolucionaria…*, UNAM 1965, pp.370–373） | `downloads/pages/c14f5ba7251f.md`；考述与版本差异另见 `downloads/MX_INEHRM_Sentimientos_de_la_Nacion.pdf`（**doc ea594452c3ef**，158 页） | 23 点全文（亲读），重点第 1、9、12、15、16、20、22 点；另记 1813-11-21 “versión testada” 差异 | §8.1 反事实硬边界：起义纲领明文拒绝任何外国君主与外国驻军 |
+| **M11** | Ernesto de la Torre（编）《Lecturas Históricas Mexicanas》t.II 文献 58：《La conspiración de Valladolid》 | `downloads/MX_Valladolid1809_Lecturas.pdf`；**doc fa8b93c9f341** | 1809-12 巴利亚多利德阴谋的人员、目标（以费尔南多七世之名设洛塔）与 Lizana 1810-01-29 安抚文告 | §8.2 falsifier 检验 |
+| **M12** | Memoria Política de México 条目《1799 弯刀阴谋》（转引 Alamán《Prolegómenos》与总督 Azanza 1799-11-30 密报） | `downloads/pages/ac63387858e7.md` | Portilla 计划全文要旨、实力（一千 pesos、两枚手枪、五十把弯刀）、Azanza 关于“欧洲人与克里奥尔人古老敌意”的原句 | §8.2；**二手转引，原档未见** |

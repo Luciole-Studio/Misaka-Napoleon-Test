@@ -1,0 +1,20 @@
+{
+  "doc_id": "6811043f3fa7",
+  "title": "c12_vandal3_full.txt",
+  "orig_path": "/Users/makiko/Documents/exam/downloads/c12_vandal3_full.txt",
+  "paths": [
+    "/Users/makiko/Documents/exam/downloads/c12_vandal3_full.txt"
+  ],
+  "sha256": "6811043f3fa7668e827ca8e42ea5080005646306fe436a3dcaa25eb76a8d4f83",
+  "pages": 358,
+  "task_id": null,
+  "task_ids": [
+    "t_26cd47",
+    "t_a8401d",
+    "t_91cbee",
+    "t_29957a",
+    "t_3ee1b0"
+  ],
+  "added_at": 1789886537,
+  "encoding": "utf-8"
+}

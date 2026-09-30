@@ -1,0 +1,51 @@
+
+
+21For instance, Mitchener and Weidenmier (2008) obtain distance elasticities for 1870-1913 of -0.52 to -0.56, rising to -0.72 to -0.75 when country or country-year (but not country pair) fixed effects are included. 22An important difference between our results and those of Mitchener and Weidenmier (2008) is that while they are estimating a general empire effect, our data only allow us to estimate the impact of empire on British exports.
+
+results including destination-division fixed effects.
+
+##### 5.2 Evolution of the impact of distance and empire over time
+
+The results in Figure 6 below are obtained from the following version of Equation (4) which includes division-year fixed effects and allows for the estimated effects of distance and empire to vary over time:
+
+x k jt = exp[ψ k t +
+
+1899 X T =1700 α1T ln(DISTjT ) + 1899
+
+X T =1700 α2T EMP IREjT ] × exp[α3ln(GDPjt) + α4ln(DECGjt) + α5W ARjt] × ϵ k jt. (5)
+
+Given the fixed effects in our model and the fact that both distance and empire are time-varying, we are able to calculate the level of both coefficients in each year as opposed to deviations from a baseline value. These levels are plotted in Figure 6 below. They are thus comparable (and similar) to coefficients generated from a series of cross-sectional regressions as shown in Appendix E. The left-hand panel of Figure 6 reports the evolution of the distance effects while the right-hand panel reports the corresponding empire effects. Each of the two panels plots the coefficient point estimates and associated 95% confidence intervals.
+
+Figure 6: Evolution of Distance and Empire Effects on British Exports
+
+-1.5 -1 -.5
+
+0
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900 year Distance Estimate 95% Confidence Interval
+
+Evolution of the effects of Distance
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900 year Empire Estimate 95% Confidence Interval
+
+Evolution of the effects of Empire
+
+Notes: This figure reports estimates of the evolution over time of the effects of distance and empire. The estimator is PPML, and the dependent variable is bilateral exports at the SITC division level over 21 years during the period from 1700 to 1899. The left panel of the figure reports the evolution of the effects of distance, and the right panel of the figure reports the corresponding effects for empire. Each of the two panels includes the point estimates and associated 95% confidence intervals. The standard errors are clustered by
+
+destination-division.
+
+Two findings stand out from the distance estimates in the left panel of Figure 6. First, the distance estimates are all negative and statistically significant as expected. Second, our distance coefficients can be grouped into three eras. During the first period from 1700 to
+
+1780, the effects of distance are the largest, varying between roughly -0.7 and -1.0. During the second period from 1780 to 1820, the effect of distance is roughly -0.5. The negative distance effects are even lower (in absolute value) during the third period from 1820 to

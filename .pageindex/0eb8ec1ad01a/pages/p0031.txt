@@ -1,0 +1,65 @@
+   Next, we consider the fact that the spread of potatoes occurred during a period of increased
+
+globalization and overseas trade. Columns (5) and (11) show that our estimates are robust to
+
+controlling for an interaction between access to trade, which we proxy with a country’s average
+
+distance from an ice-free coast, interacted with the post-1700 indicator variable.32
+
+   Finally, we consider the large global trade in slaves from Africa. The slave trades reached their
+
+height in the 18th century, which is approximately the same time that potatoes were being adopted
+
+globally. If the countries that were least able to adopt potatoes are also African countries that
+
+were depopulated because of the slave trade, then this may explain part of the effect of potatoes
+
+on increased population growth and urbanization after 1700. To capture the potential effects of
+
+Africa’s slave trades, we include a country and time-period specific measure of the number of
+
+slaves taken during the 100 years prior to period t. The results are reported in columns (6) and
+
+(12). As shown, including this control has little effect on our estimated potato coefficients.
+
+   We next turn to the possibility that our baseline estimates are being driven by a few influential
+
+observations. Figure 5 shows the partial correlation plots between potato suitability and the out-
+
+comes of interest from the baseline estimates reported in columns (1) and (7) of Table 3. The eastern
+
+portion of the plots show that it is primarily the Eastern European countries such as Belarus (BLR),
+
+Latvia (LVA), Lithuania (LTU), and Poland (POL) that have the greatest leverage, or influence, on
+
+our estimates. The fact that the main beneficiaries from the introduction of potatoes are primarily
+
+Eastern European countries helps alleviate the concern that our estimates also capture benefits to
+
+population and urbanization from the industrial revolution or the rise in Atlantic trade. Eastern
+
+Europe did not participate in the Atlantic trade during this period. Nor did they experience
+
+the industrial revolution until the final decades of the 19th century (Stearns, 2007, pp. 90–94).
+
+Figure 5 also shows that Australia (AUS), New Zealand (NZL), Philippines (PHL), and Thailand
+
+(THA) are outliers, with either large positive or negative residuals. This is likely because these
+
+countries experienced large population changes, due to colonization, that were unrelated to potato
+
+cultivation.
+
+   To check that our results are not drive by these outliers, we re-estimate our baseline specification
+
+using a number of restricted samples that omit potential outlying observations. These are reported
+  32 The measure of a country’s average distance from an ice-free coast is taken from Nunn and Puga (2007). The results
+
+are also robust if we focus specifically on the lucrative Atlantic, which has been emphasized by Acemoglu et al. (2005).
+Our results are robust to controlling for an indicator variable that equals one if the country was an ‘Atlantic trader’, as
+defined by Acemoglu et al. (2005), interacted with a post-1700 indicator variable.
+
+
+
+
+                                                            29

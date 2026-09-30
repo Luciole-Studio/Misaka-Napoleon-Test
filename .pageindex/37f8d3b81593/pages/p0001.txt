@@ -1,0 +1,55 @@
+---
+source_url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC1127097/"
+final_url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC1127097/"
+provider: "exa"
+text_sha256: "43b1e92bc763355e1171e58839fc91d7633d897e960ed12644ee6ed86bde5566"
+title: "Walcheren 1809: a medical catastrophe - PMC"
+content_kind: "page_text"
+---
+
+Walcheren 1809: a medical catastrophe - PMC
+
+BMJ
+
+. 1999 Dec 18;319(7225):1642–1645. doi: 10.1136/bmj.319.7225.1642
+
+# Walcheren 1809: a medical catastrophe
+
+1
+
+- Author information
+- Copyright and License information
+
+1Wilberfoss, York Y041 5NN
+
+Marfoss@oxynet.co.uk
+
+#### Roles
+
+Martin R Howard: consultant haematologist
+
+Copyright © 1999, British Medical Journal
+
+PMCID: PMC1127097 PMID: 10600979
+
+---
+
+In July 1809 the largest British expeditionary force ever assembled weighed anchor off the Kent coast and sailed for the island of Walcheren in the Scheldt estuary.1,2 French naval activity at Antwerp had made the Dutch coast “a pistol held at the head of England,” and the government was keen to strike a decisive blow at Napoleon's ambitions. In the event, the preparation of the expedition was ponderous and its strategic aim was redundant before its execution. Napoleon had consolidated his grip on the continent by defeating the Austrians at Wagram earlier in the month.
+
+The potential success of the venture was also compromised by the appointment of senior military and naval staff who appear, almost 200 years later, like characters from a pantomime. The overall commander, Lord Chatham, was elder brother to the late Mr Pitt and was himself nicknamed “the late earl” because of his difficulty in rising from bed in the morning. He was accompanied to Walcheren by his pet turtles. Commodore Sir Home Popham was described by a fellow officer, perhaps unfairly, as being like a hippopotamus—“an amfiberous hanimal, wot cannot live on the land, and wot dies in the water.” His immediate naval superior, Rear-Admiral Sir Richard Strachan, was somewhat more competent but also out of his depth in the shallow waters of the Scheldt.3
+
+## Summary points
+
+In July 1809 the largest British expeditionary force ever assembled departed for the island of Walcheren in the Scheldt estuary
+
+The military objectives were soon overshadowed by an epidemic of disease that largely destroyed the army
+
+Review of contemporary sources suggests that Walcheren fever was due to a lethal combination of malaria, typhus, typhoid, and dysentery
+
+The conduct of the army's senior medical officers was severely criticised in a parliamentary inquiry
+
+Whatever the military bungling, an account of the Walcheren expedition is essentially a medical history. Within a few weeks, in an apparently innocuous area of the Netherlands, an army of 40 000 men was almost entirely destroyed by disease. The reasons for this disaster, and indeed the disease that caused it, remain open to speculation.
+
+## Onset of fever
+
+At first the expedition achieved its objectives. The army disembarked on the neighbouring islands of Walcheren and South Beveland, meeting little French resistance, and reduced the siege of the city of Flushing on the south coast of Walcheren. Attempts by the enemy to flood the islands by breaching the dykes were only partly successful, and an air of optimism prevailed. Both soldiers and doctors have left memoirs of their Walcheren experiences, and these reflect a sudden change of mood towards the end of August. Accounts of military achievement and of the local landscape and population are replaced by anguished and unbelieving descriptions of an appalling epidemic of disease. An epidemic which, although catastrophic, was not unpredictable.

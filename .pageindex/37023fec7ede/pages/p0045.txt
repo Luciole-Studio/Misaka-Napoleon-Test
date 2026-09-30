@@ -1,0 +1,39 @@
+G.3      Ideology
+Measuring directly the ideological profile of the local population unfeasible for early
+19th century France. However, we construct a proxy measure by using data collected
+by Tackett (1986) on the percentage of the French clergy who agreed to swear an
+oath to the Constitution in 1791 in each department. The 1790 Civil Constitution
+of the Clergy ordered clergymen to swear an oath of allegiance to the State “on
+a Sunday at the conclusion of the mass” (Decree on the clerical oath, 1790). As
+Tackett (1986, 4) writes, “the issue of the oath soon became a veritable obsession,
+unleashing emotional reactions and factional strife in parishes everywhere.” In 1791,
+in both Paris and provinces, the oath became “the central public event” and “the
+most discussed problem” Tackett (1986, p.5).
+     While anti-revolutionaries and the King himself championed a return to the
+Church of the Ancien Régime, revolutionaries wanted to ensure the loyalty of the
+clergy to the new constitution. The politicization of the oath became so intense
+that it “became a sort of indirect referendum for or against the religious politics of
+revolutionaries” (Langlois et al. 1996, 32) as clergymen who had been in parishes for
+several long periods of time could scarcely resist popular pressure (Forrest 1989, 77).8
+Hence we can use data about oath-taking to investigate whether ideology impacted
+conscripts’ choice to dodge the draft. An administrator in Saône-et-Loire during the
+end of the Directory (1795-1799), for instance, complained that in various cantons
+“fifteen to sixteen [refractory priests] go through the countryside” and “forbid the
+conscripts to leave [to the army].” (Waquet 1968, p.193).
+     If ideology matters, we should expect the “Oath” variable to have a negative im-
+pact on the draft-dodging rate and a positive one on the conscription rate, reflecting
+the higher adherence of the population to the revolutionary policies of the central
+government. Our results in table 25 and 26 suggest that neither the draft-dodging
+rate nor the conscription rate was significantly affected by our “Oath” variable while
+coefficients for the “Log of ruggedness” remain generally large and statistically sig-
+nificant throughout.
+
+
+
+
+   8
+    The data on the oath could also measure in part religiosity as suggested by Tackett (1986) and
+Blanc (2019). Forrest (1989) argues that religion may have been a factor the dynamics of desertion.
+
+
+                                                45

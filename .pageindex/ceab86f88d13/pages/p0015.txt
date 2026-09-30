@@ -1,0 +1,49 @@
+GRP : revues JOB : num121⊕xml DIV : 10⊕LevyGarbouaMonnet p. 13 folio : 47 --- 5/4/016 --- 16H4
+
+
+
+
+                              LES TAUX D’INTÉRÊT EN FRANCE : UNE PERSPECTIVE HISTORIQUE
+
+
+
+                                                    Taux réels et croissance
+                La théorie néoclassique de la croissance nous rappelle qu’en crois-
+             sance équilibrée, le taux d’intérêt réel (r) doit être égal au taux de
+             croissance (r = g). La relation entre r et g est d’autant plus importante
+             qu’elle conditionne les conditions de soutenabilité de la dette publique.
+             Elle a par ailleurs été mise en exergue dans les travaux récents de Piketty
+             (2013) et placée au centre du débat sur la répartition des richesses et le
+             mode de développement.
+                Le graphique 13 superpose cette fois taux d’intérêt et taux de
+             croissance sur une longue période.
+                                                 Graphique 13
+                          Taux d’intérêt réel et croissance du PIB réel, 1809-2015
+
+
+
+
+                                                                                                                                   47
+
+
+
+
+                            ère
+             Sources : cf. 1 partie de l’article intitulée « Présentation des données » pour les taux d’intérêt ; Piketty (2013)
+             et Insee pour l’inﬂation et le PIB ; calculs des auteurs.
+
+                Ce graphique fait clairement apparaître trois périodes :
+                – jusqu’en 1914, r a été supérieur à g, sans que les deux grandeurs
+             s’éloignent fortement l’une de l’autre ;
+                – depuis 1914 et jusqu’en 1985 environ, c’est l’inverse (r S g), sauf
+             lors de la période déflationniste de retour à l’étalon-or (1928-1936) où
+             les taux réels étaient remontés ;
+                – à partir de 1985, les taux réels deviennent nettement supérieurs au
+             taux de croissance. L’écart, d’abord croissant, se réduit ensuite continû-
+             ment à partir de la fin des années 1990 pour finalement s’approcher de
+             1 % dans les années récentes.
+                Ces trois périodes correspondent à des moments de l’histoire éco-
+             nomique bien identifiés par les historiens : le XIXe siècle avec sa
+             croissance relativement faible en moyenne et ses marchés financiers
+             développés garantissant un rendement important aux épargnants, le
+             « court XXe siècle » marqué par les deux guerres mondiales, la crise de

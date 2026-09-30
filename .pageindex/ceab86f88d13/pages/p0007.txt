@@ -1,0 +1,53 @@
+GRP : revues JOB : num121⊕xml DIV : 10⊕LevyGarbouaMonnet p. 5 folio : 39 --- 5/4/016 --- 16H4
+
+
+
+
+                              LES TAUX D’INTÉRÊT EN FRANCE : UNE PERSPECTIVE HISTORIQUE
+
+
+
+                Sur le taux directeur de la Banque de France, trois périodes sont mises
+             en évidence : de 1800 à 1971, pendant les périodes d’étalon métallique
+             (c’est-à-dire durant le régime bimétallique, le régime de l’étalon-or, puis
+             de l’étalon de change-or et du système de Bretton Woods), le taux est
+             remarquablement stable, autour de 4 %. Il y a bien des cycles de taux,
+             mais ils se situent à l’intérieur d’une fourchette de plus ou moins 2 %
+             autour de la moyenne (2 % à la fin du XIXe siècle et 6 % dans les périodes
+             de guerre). Après 1971, deux périodes se succèdent : jusqu’en 1980,
+             c’est-à-dire entre l’abandon de la convertibilité or du dollar et l’arrivée de
+             Paul Volcker à la Federal Reserve (Fed) américaine (ce que l’on a appelé
+             la période de la Grande Inflation), l’augmentation est impressionnante,
+             de 4 % à 16 %. Les années 1970 sont exceptionnelles du point de vue
+             historique et marquent une rupture pour la politique monétaire car les
+             précédentes périodes de forte inflation – essentiellement les années de
+             guerre et de reconstruction – n’avaient pas entraîné de hausse sensible
+             des taux nominaux (cf. graphique 2 ci-contre).
+                Depuis le début des années 1980, une fois la politique monétaire
+             déflationniste mise en œuvre, puis assouplie, la décrue est continue, de
+             16 % à 0 %. La corrélation forte entre taux nominaux et inflation,
+             même si elle semble évidente d’un point de vue théorique, est en réalité
+             récente. Elle est due, d’une part, à la nature de l’inflation qui n’est plus,
+                                                                                                39
+             depuis les années 1950-1960, principalement déterminée par des chocs
+             temporaires comme les guerres et, d’autre part, à la politique moné-
+             taire qui est devenue contracyclique. L’analyse de la règle de Taylor
+             (cf. quatrième partie) confirmera ce changement majeur de politique
+             monétaire, au tournant des années 1970.
+                La courbe des taux longs exhibe un profil assez proche, hormis les
+             niveaux très élevés observés lors des guerres napoléoniennes au début
+             du XIXe siècle. Comme pour le taux de la banque centrale, les pics
+             inflationnistes des deux guerres mondiales n’avaient pas entraîné de
+             hausse des taux nominaux à long terme. C’est seulement à partir de la
+             fin des années 1960 que les taux nominaux commencèrent à suivre les
+             valeurs élevées de l’inflation. L’une des raisons de l’absence de hausse
+             des taux au cours des guerres mondiales est que ces dernières furent
+             principalement financées par de la dette à court terme.
+                Le taux de rémunération du livret de la Caisse d’épargne est, quant
+             à lui, proche de ceux des autres taux à court terme (marché monétaire
+             et Banque de France) jusqu’à 1914, même s’il varie beaucoup moins.
+             Pendant les deux guerres mondiales, il se situe très nettement sous les
+             autres taux. Ce sera encore le cas à partir des années 1950 et jusqu’au
+             début des années 1990, notamment pendant la période de forte infla-
+             tion des années 1970. L’épargne du livret A est peu rémunérée pendant
+             cette période, avec des taux réels souvent négatifs sur plusieurs années.

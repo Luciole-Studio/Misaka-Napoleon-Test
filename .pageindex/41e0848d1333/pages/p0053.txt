@@ -1,0 +1,15 @@
+                           Figure 6: Border Movement
+
+
+
+
+Notes: This figure shows the centroids of the counties included in the sample when the
+border is moved and the original borderline in grey. Squares indicate counties included
+in the sample when the border is moved inwards. Points indicate regions included in the
+sample when the border is moved outwards. Treatment is defined as being on the left of the
+respective border, i.e. for the blue (dark) squares/points.
+
+
+
+
+                                          51

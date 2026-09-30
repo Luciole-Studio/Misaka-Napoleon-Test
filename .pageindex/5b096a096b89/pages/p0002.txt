@@ -1,0 +1,26 @@
+
+
+同段“did not actually issue more than two millions two hundred thousand pounds”明确指 **1793**，不得移植为1811实发。此次检索尚未核得1811实际发放、回收与损失总额。1817年4月28日回顾（vol.36 cc.27–48）只支持曾沿用1793/1811先例，未提供可用实发总数，不能据“无不便”推定全部收回。URL：https://api.parliament.uk/historic-hansard/commons/1817/apr/28/issue-of-exchequer-bills-for-purposes-of ；本地 `downloads/pages/29931d6389d2.md`，行38。
+
+【相反解释】3月11日Perceval强调库存冻结及制造商连带受困；Huskisson（cc.338–341）指出优质票据仍可贴现、BoE缺的是好票，救助可能延续过度投机；因此不能把危机全定义成流动性恐慌，也不能凭额度证明封锁失效。
+
+### 6. 与财政部方案分开：BoE特别贷款制度
+【事实，档案转引自Sissoko–Ishizu】该文网络先行版pp.23–24（正式刊2026，79(1):57–88）据董事会议事录1811年2月28日pp.521–522：针对资产暂时无法变现的有偿付能力企业，“not to enable Houses who have failed to compromise or settle with their creditors”。由Committee of Treasury审批；至少两名检查人核验账目、贷款是否足以恢复经营，并承担部分担保；全部贷款须有担保。检查人不得为银行董事，亦不得为申请人的债权人或债务人。
+
+【限度】作者注123明确贷款成效未定，1816年仍追收部分债务；不能写成普遍无损救助。其新档案链独立于上述宏观叙述，但本轮只读论文、未亲查会议记录。奴隶种植园贸易的信用网络与董事利益是制度演变因素，不能删成无差别“现代央行救市”。
+
+## 三、两个承重主张的裁决
+
+**暂停兑金是否等于国家违约？**【裁量，高置信】不等同于主权债券停止付息或削减名义本金。暂停改变BoE票据的即时兑换权；财政税收、债券付息与融资可继续。Antipa–Chamley p.27指出银行融资还用于“pay the dividends on long term debt”，是支付支持而非取消债权。但限制确实冻结兑换承诺；若用广义契约履行概念，可称兑换承诺中止，不能说毫无违约性质或债权人无损。Bullion Report直言贬值造成“injury … to … creditors … both private and public”。名义履约≠实际购买力保全。
+
+**London失守能否复用1797？**【模型推演；条件判断中置信】1797只证明政治/银行网络完整时可以切断兑金挤兑，不能证明首都被占后同样有效。O’Brien–Palma §2.3说明地方银行储备包括伦敦往来余额与可变现证券；若政府、账册、银行审批、税款汇解及地方接受网络能持续，纸币融资可作为续战工具。若伦敦结算中枢失灵、税基与担保品被夺，印票不能重建偿付能力，更不能自动购买海外物资。报告本身容许政治恐慌造成无法满足的现金需求时考虑新限制，但没有测试首都沦陷。且1803以后已处限制期，根本不存在“再暂停一次”所释放的同等新空间。结论：只能有条件复用信誉—税收—结算机制，不能把1797当作伦敦失守后的财政保险。
+
+## 指定材料定位表（以上简称的URL与本地位置）
+
+- O’Brien–Palma（2016工作稿），§§1、2.3、3.1：https://ehes.org/wp/EHES_100.pdf ；`downloads/pages/a2034fc310ff.md`。
+- Antipa–Chamley（2017稿），pp.17–19、25–27：https://people.bu.edu/chamley/Ec365-17/UKFR.pdf ；`downloads/pages/cf02c798c3f0.md`。
+- Bullion Report（1810，节录开头和结论，非全部证词）：https://www.gold.org/sites/default/files/documents/1810jun8.pdf ；`downloads/pages/523f4560156c.md`。
+- Commercial Credit（1811-03-11，议会辩论，非经审计发放账）：https://api.parliament.uk/historic-hansard/commons/1811/mar/11/commercial-credit ；`downloads/pages/3b8b8e348c6d.md`。
+- Sissoko–Ishizu，pp.23–24：https://researchonline.lse.ac.uk/id/eprint/126278/1/The_Economic_History_Review_-_2025_-_Sissoko_-_Preventing_financial_ruin_How_the_West_India_trade_fostered_creativity_in.pdf ；`downloads/pages/2f4fc6ec5d53.md`。
+
+工具备注：shell路线因权限被阻，未绕过；改用现有网页搜索/抽取。5月6日辩论URL未返回正文，未据此引用。未查得实发额不等于账簿不存在；后续应定向找1811商业贷款专员账目，而非年度政府Exchequer bills融资总额。

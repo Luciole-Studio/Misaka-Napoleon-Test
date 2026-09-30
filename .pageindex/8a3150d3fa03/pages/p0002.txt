@@ -1,0 +1,32 @@
+
+
+### E6｜Marie-Louises：不可把新兵标签当成怯懦或全军失能的证据
+
+【文献推断｜Elting】第XVI章在**1814战役**段使用：
+
+> “Dubbed the ‘Marie-Louises’ after their equally young Empress, these recruits went out to the battle.”
+
+同段描述这些新兵仍服从征召并作战。定位：索引p88末段，关键词“Courbevoie”“Marie-Louises”。
+
+【裁量｜中高置信度】这条只能确认Elting此处的使用语境；不能据此断言该名称只适用于1814，也不能把1813全军统称为同一年龄、同一训练水平的Marie-Louises。新兵体力、训练和干部不足须分别证明，不能用标签代替战斗表现证据。为避免精确页未核和样本外推，此处不采作者的Courbevoie逃亡率数字。
+
+## Dawson数据质量审查：不应整表直接入模型
+
+【事实｜原文内部不一致】网页Table 2正文称实际5,251匹，表尾却为5,051；本文不采该数。另将49匹死亡相对于3,439匹接收称5.6%，二者不能直接相除得到该比例；可能另有分母，原文未解释。脚注[37]将讨论1813的报告写成“25 April 1815”。总结段部分“每月”速率与其所列跨月区间亦不相称。表格提取存在空表头，尤其Table 10，不得凭列位置猜军种。
+
+【裁量】Dawson有具体档案引路价值，也能纠正“完全没有重建能力”的说法；但其全部精确总量不能因此获得自动认证。本备忘录将E2/E3保留为**待原档复核的作者报告值**。不要从新生幼驹数推出同年军用成熟马补充量。
+
+## 对C14／C17的限定用法
+
+【模型推演｜假设】若避免1812灾难，应计入的是保留下来的熟练人马组合、干部及补充系统余裕，而不仅是少采购若干匹马。若仍发生类似灾难，允许数量重建，但须给装备、训练、转送和养护留出时间；不能把年度累计采购直接放到春季战场。
+
+【裁量】当前证据支持“可重建但有质量和时间代价”，不支持“永远不可恢复”，也不支持“马匹总量大所以1813军事供给无约束”。以上主要是军事供给与组织史解释的内部对照，尚不构成两个完整对立史学学派的检验。
+
+## 原始页面与复核入口
+
+1. John R. Elting, *Swords Around a Throne*，网页所标Da Capo Press 1997版，第XVI章。实读OCR原始页面： https://www.scribd.com/document/741223309/John-R-Elting-Swords-Around-a-Throne-Da-Capo-Press-1997 。原始提取保存`downloads/pages/3762a4f8f4e3.md`。索引ID同文件名；p85–88是索引分段，不是书页。**未满足纸本精确页验收**，引文可供全文定位，勿将目录章起页误当引文页。
+2. Paul L. Dawson, “Napoleon’s Equine Strategy in 1813,” The Napoleon Series，September 2013： https://www.napoleon-series.org/military-info/organization/France/Cavalry/Remounts/c_remounts1813.html 。原始提取`downloads/pages/f3c3e5561ee4.md`；无纸本页码，按表号、段落起句、脚注号定位。档案号全部转引自Dawson，未亲阅。
+3. “Correspondance de Napoléon – Avril 1813”： https://napoleon-histoire.com/correspondance-de-napoleon-avril-1813/ 。原始提取`downloads/pages/ce0b4d346986.md`，1813-04-04致Bertrand；精确本地行号248–258。
+4. 补充而不承重：Michael V. Leggiere, *The Fall of Napoleon*, vol.1 (Cambridge, 2007)，预览提取`downloads/pages/36c57190d7e9.md`。未从中取得本题所需的骑兵重建分项数据，不宣称已读全书。
+
+【事实｜工具记录】此前本地长行读取及bash重排受限，本次改用文档索引读取Elting正文，未绕过审批；未调用任务完成接口，未新建卡。

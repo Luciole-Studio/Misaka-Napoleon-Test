@@ -1,0 +1,345 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+San Marino,SMR,1999,26485
+San Marino,SMR,2000,26823
+San Marino,SMR,2001,27173
+San Marino,SMR,2002,27515
+San Marino,SMR,2003,27871
+San Marino,SMR,2004,28230
+San Marino,SMR,2005,28600
+San Marino,SMR,2006,28966
+San Marino,SMR,2007,29334
+San Marino,SMR,2008,29721
+San Marino,SMR,2009,30115
+San Marino,SMR,2010,30648
+San Marino,SMR,2011,32194
+San Marino,SMR,2012,33494
+San Marino,SMR,2013,33641
+San Marino,SMR,2014,33753
+San Marino,SMR,2015,33927
+San Marino,SMR,2016,34188
+San Marino,SMR,2017,34405
+San Marino,SMR,2018,34557
+San Marino,SMR,2019,34674
+San Marino,SMR,2020,34796
+San Marino,SMR,2021,34599
+San Marino,SMR,2022,34113
+San Marino,SMR,2023,33761
+Sao Tome and Principe,STP,-10000,2
+Sao Tome and Principe,STP,-9000,3
+Sao Tome and Principe,STP,-8000,5
+Sao Tome and Principe,STP,-7000,8
+Sao Tome and Principe,STP,-6000,12
+Sao Tome and Principe,STP,-5000,19
+Sao Tome and Principe,STP,-4000,28
+Sao Tome and Principe,STP,-3000,42
+Sao Tome and Principe,STP,-2000,64
+Sao Tome and Principe,STP,-1000,96
+Sao Tome and Principe,STP,0,144
+Sao Tome and Principe,STP,100,180
+Sao Tome and Principe,STP,200,225
+Sao Tome and Principe,STP,300,282
+Sao Tome and Principe,STP,400,352
+Sao Tome and Principe,STP,500,440
+Sao Tome and Principe,STP,600,550
+Sao Tome and Principe,STP,700,688
+Sao Tome and Principe,STP,800,860
+Sao Tome and Principe,STP,900,1076
+Sao Tome and Principe,STP,1000,1345
+Sao Tome and Principe,STP,1100,1681
+Sao Tome and Principe,STP,1200,2101
+Sao Tome and Principe,STP,1300,2627
+Sao Tome and Principe,STP,1400,3283
+Sao Tome and Principe,STP,1500,4104
+Sao Tome and Principe,STP,1600,5131
+Sao Tome and Principe,STP,1700,6413
+Sao Tome and Principe,STP,1710,6973
+Sao Tome and Principe,STP,1720,7592
+Sao Tome and Principe,STP,1730,8274
+Sao Tome and Principe,STP,1740,9029
+Sao Tome and Principe,STP,1750,9863
+Sao Tome and Principe,STP,1760,10786
+Sao Tome and Principe,STP,1770,11806
+Sao Tome and Principe,STP,1780,12936
+Sao Tome and Principe,STP,1790,14186
+Sao Tome and Principe,STP,1800,22731
+Sao Tome and Principe,STP,1801,22731
+Sao Tome and Principe,STP,1802,22731
+Sao Tome and Principe,STP,1803,22731
+Sao Tome and Principe,STP,1804,22731
+Sao Tome and Principe,STP,1805,22731
+Sao Tome and Principe,STP,1806,22731
+Sao Tome and Principe,STP,1807,22731
+Sao Tome and Principe,STP,1808,22731
+Sao Tome and Principe,STP,1809,22731
+Sao Tome and Principe,STP,1810,22731
+Sao Tome and Principe,STP,1811,22731
+Sao Tome and Principe,STP,1812,22731
+Sao Tome and Principe,STP,1813,22731
+Sao Tome and Principe,STP,1814,22731
+Sao Tome and Principe,STP,1815,22731
+Sao Tome and Principe,STP,1816,22731
+Sao Tome and Principe,STP,1817,22731
+Sao Tome and Principe,STP,1818,22731
+Sao Tome and Principe,STP,1819,22763
+Sao Tome and Principe,STP,1820,22828
+Sao Tome and Principe,STP,1821,22925
+Sao Tome and Principe,STP,1822,23056
+Sao Tome and Principe,STP,1823,23219
+Sao Tome and Principe,STP,1824,23384
+Sao Tome and Principe,STP,1825,23549
+Sao Tome and Principe,STP,1826,23716
+Sao Tome and Principe,STP,1827,23885
+Sao Tome and Principe,STP,1828,24054
+Sao Tome and Principe,STP,1829,24224
+Sao Tome and Principe,STP,1830,24396
+Sao Tome and Principe,STP,1831,24569
+Sao Tome and Principe,STP,1832,24743
+Sao Tome and Principe,STP,1833,24919
+Sao Tome and Principe,STP,1834,25095
+Sao Tome and Principe,STP,1835,25273
+Sao Tome and Principe,STP,1836,25452
+Sao Tome and Principe,STP,1837,25633
+Sao Tome and Principe,STP,1838,25815
+Sao Tome and Principe,STP,1839,25998
+Sao Tome and Principe,STP,1840,26182
+Sao Tome and Principe,STP,1841,26367
+Sao Tome and Principe,STP,1842,26554
+Sao Tome and Principe,STP,1843,26743
+Sao Tome and Principe,STP,1844,26932
+Sao Tome and Principe,STP,1845,27123
+Sao Tome and Principe,STP,1846,27315
+Sao Tome and Principe,STP,1847,27509
+Sao Tome and Principe,STP,1848,27704
+Sao Tome and Principe,STP,1849,27901
+Sao Tome and Principe,STP,1850,28098
+Sao Tome and Principe,STP,1851,28304
+Sao Tome and Principe,STP,1852,28512
+Sao Tome and Principe,STP,1853,28721
+Sao Tome and Principe,STP,1854,28931
+Sao Tome and Principe,STP,1855,29143
+Sao Tome and Principe,STP,1856,29357
+Sao Tome and Principe,STP,1857,29572
+Sao Tome and Principe,STP,1858,29789
+Sao Tome and Principe,STP,1859,30007
+Sao Tome and Principe,STP,1860,30227
+Sao Tome and Principe,STP,1861,30448
+Sao Tome and Principe,STP,1862,30671
+Sao Tome and Principe,STP,1863,30896
+Sao Tome and Principe,STP,1864,31122
+Sao Tome and Principe,STP,1865,31351
+Sao Tome and Principe,STP,1866,31580
+Sao Tome and Principe,STP,1867,31812
+Sao Tome and Principe,STP,1868,32045
+Sao Tome and Principe,STP,1869,32280
+Sao Tome and Principe,STP,1870,32516
+Sao Tome and Principe,STP,1871,32754
+Sao Tome and Principe,STP,1872,32994
+Sao Tome and Principe,STP,1873,33236
+Sao Tome and Principe,STP,1874,33480
+Sao Tome and Principe,STP,1875,33725
+Sao Tome and Principe,STP,1876,33972
+Sao Tome and Principe,STP,1877,34221
+Sao Tome and Principe,STP,1878,34472
+Sao Tome and Principe,STP,1879,34724
+Sao Tome and Principe,STP,1880,34979
+Sao Tome and Principe,STP,1881,35235
+Sao Tome and Principe,STP,1882,35493
+Sao Tome and Principe,STP,1883,35753
+Sao Tome and Principe,STP,1884,36015
+Sao Tome and Principe,STP,1885,36279
+Sao Tome and Principe,STP,1886,36545
+Sao Tome and Principe,STP,1887,36812
+Sao Tome and Principe,STP,1888,37082
+Sao Tome and Principe,STP,1889,37354
+Sao Tome and Principe,STP,1890,37628
+Sao Tome and Principe,STP,1891,37903
+Sao Tome and Principe,STP,1892,38181
+Sao Tome and Principe,STP,1893,38461
+Sao Tome and Principe,STP,1894,38742
+Sao Tome and Principe,STP,1895,39026
+Sao Tome and Principe,STP,1896,39312
+Sao Tome and Principe,STP,1897,39600
+Sao Tome and Principe,STP,1898,39890
+Sao Tome and Principe,STP,1899,40446
+Sao Tome and Principe,STP,1900,41279
+Sao Tome and Principe,STP,1901,42404
+Sao Tome and Principe,STP,1902,43833
+Sao Tome and Principe,STP,1903,45581
+Sao Tome and Principe,STP,1904,47398
+Sao Tome and Principe,STP,1905,49288
+Sao Tome and Principe,STP,1906,51254
+Sao Tome and Principe,STP,1907,53297
+Sao Tome and Principe,STP,1908,55423
+Sao Tome and Principe,STP,1909,57096
+Sao Tome and Principe,STP,1910,58302
+Sao Tome and Principe,STP,1911,59025
+Sao Tome and Principe,STP,1912,59248
+Sao Tome and Principe,STP,1913,58954
+Sao Tome and Principe,STP,1914,58661
+Sao Tome and Principe,STP,1915,58369
+Sao Tome and Principe,STP,1916,58079
+Sao Tome and Principe,STP,1917,57790
+Sao Tome and Principe,STP,1918,57489
+Sao Tome and Principe,STP,1919,57328
+Sao Tome and Principe,STP,1920,57306
+Sao Tome and Principe,STP,1921,57425
+Sao Tome and Principe,STP,1922,57684
+Sao Tome and Principe,STP,1923,58083
+Sao Tome and Principe,STP,1924,58485
+Sao Tome and Principe,STP,1925,58890
+Sao Tome and Principe,STP,1926,59298
+Sao Tome and Principe,STP,1927,59708
+Sao Tome and Principe,STP,1928,60122
+Sao Tome and Principe,STP,1929,60474
+Sao Tome and Principe,STP,1930,60764
+Sao Tome and Principe,STP,1931,60992
+Sao Tome and Principe,STP,1932,61156
+Sao Tome and Principe,STP,1933,61257
+Sao Tome and Principe,STP,1934,61359
+Sao Tome and Principe,STP,1935,61460
+Sao Tome and Principe,STP,1936,61562
+Sao Tome and Principe,STP,1937,61664
+Sao Tome and Principe,STP,1938,61766
+Sao Tome and Principe,STP,1939,61821
+Sao Tome and Principe,STP,1940,61831
+Sao Tome and Principe,STP,1941,61794
+Sao Tome and Principe,STP,1942,61710
+Sao Tome and Principe,STP,1943,61580
+Sao Tome and Principe,STP,1944,61451
+Sao Tome and Principe,STP,1945,61322
+Sao Tome and Principe,STP,1946,61193
+Sao Tome and Principe,STP,1947,61064
+Sao Tome and Principe,STP,1948,60936
+Sao Tome and Principe,STP,1949,60906
+Sao Tome and Principe,STP,1950,60895
+Sao Tome and Principe,STP,1951,61783
+Sao Tome and Principe,STP,1952,62611
+Sao Tome and Principe,STP,1953,63348
+Sao Tome and Principe,STP,1954,64004
+Sao Tome and Principe,STP,1955,64618
+Sao Tome and Principe,STP,1956,65241
+Sao Tome and Principe,STP,1957,65886
+Sao Tome and Principe,STP,1958,66575
+Sao Tome and Principe,STP,1959,67306
+Sao Tome and Principe,STP,1960,68028
+Sao Tome and Principe,STP,1961,68724
+Sao Tome and Principe,STP,1962,69422
+Sao Tome and Principe,STP,1963,70133
+Sao Tome and Principe,STP,1964,70881
+Sao Tome and Principe,STP,1965,71691
+Sao Tome and Principe,STP,1966,72594
+Sao Tome and Principe,STP,1967,73610
+Sao Tome and Principe,STP,1968,74783
+Sao Tome and Principe,STP,1969,76096
+Sao Tome and Principe,STP,1970,77639
+Sao Tome and Principe,STP,1971,79351
+Sao Tome and Principe,STP,1972,81061
+Sao Tome and Principe,STP,1973,82816
+Sao Tome and Principe,STP,1974,84685
+Sao Tome and Principe,STP,1975,86722
+Sao Tome and Principe,STP,1976,88939
+Sao Tome and Principe,STP,1977,91316
+Sao Tome and Principe,STP,1978,93809
+Sao Tome and Principe,STP,1979,96266
+Sao Tome and Principe,STP,1980,98563
+Sao Tome and Principe,STP,1981,100629
+Sao Tome and Principe,STP,1982,102528
+Sao Tome and Principe,STP,1983,104397
+Sao Tome and Principe,STP,1984,106410
+Sao Tome and Principe,STP,1985,108669
+Sao Tome and Principe,STP,1986,111163
+Sao Tome and Principe,STP,1987,113934
+Sao Tome and Principe,STP,1988,116955
+Sao Tome and Principe,STP,1989,119990
+Sao Tome and Principe,STP,1990,122993
+Sao Tome and Principe,STP,1991,125711
+Sao Tome and Principe,STP,1992,128127
+Sao Tome and Principe,STP,1993,130478
+Sao Tome and Principe,STP,1994,132745
+Sao Tome and Principe,STP,1995,134905
+Sao Tome and Principe,STP,1996,136974
+Sao Tome and Principe,STP,1997,138935
+Sao Tome and Principe,STP,1998,140765
+Sao Tome and Principe,STP,1999,142459
+Sao Tome and Principe,STP,2000,144029
+Sao Tome and Principe,STP,2001,146386
+Sao Tome and Principe,STP,2002,149932
+Sao Tome and Principe,STP,2003,153824
+Sao Tome and Principe,STP,2004,157721
+Sao Tome and Principe,STP,2005,161650
+Sao Tome and Principe,STP,2006,165651
+Sao Tome and Principe,STP,2007,169709
+Sao Tome and Principe,STP,2008,173808
+Sao Tome and Principe,STP,2009,177866
+Sao Tome and Principe,STP,2010,181810
+Sao Tome and Principe,STP,2011,185665
+Sao Tome and Principe,STP,2012,189452
+Sao Tome and Principe,STP,2013,193158
+Sao Tome and Principe,STP,2014,196780
+Sao Tome and Principe,STP,2015,200308
+Sao Tome and Principe,STP,2016,203702
+Sao Tome and Principe,STP,2017,206986
+Sao Tome and Principe,STP,2018,210198
+Sao Tome and Principe,STP,2019,213405
+Sao Tome and Principe,STP,2020,217450
+Sao Tome and Principe,STP,2021,221975
+Sao Tome and Principe,STP,2022,226313
+Sao Tome and Principe,STP,2023,230882
+Saudi Arabia,SAU,-10000,17339
+Saudi Arabia,SAU,-9000,26009
+Saudi Arabia,SAU,-8000,39013
+Saudi Arabia,SAU,-7000,58520
+Saudi Arabia,SAU,-6000,87780
+Saudi Arabia,SAU,-5000,131671
+Saudi Arabia,SAU,-4000,197507
+Saudi Arabia,SAU,-3000,296260
+Saudi Arabia,SAU,-2000,444390
+Saudi Arabia,SAU,-1000,666586
+Saudi Arabia,SAU,0,999879
+Saudi Arabia,SAU,100,1164875
+Saudi Arabia,SAU,200,1357099
+Saudi Arabia,SAU,300,1581043
+Saudi Arabia,SAU,400,1841941
+Saudi Arabia,SAU,500,2145892
+Saudi Arabia,SAU,600,2500000
+Saudi Arabia,SAU,700,2450000
+Saudi Arabia,SAU,800,2400000
+Saudi Arabia,SAU,900,2200000
+Saudi Arabia,SAU,1000,2000000
+Saudi Arabia,SAU,1100,2073333
+Saudi Arabia,SAU,1200,2146666
+Saudi Arabia,SAU,1300,2220000
+Saudi Arabia,SAU,1400,1950000
+Saudi Arabia,SAU,1500,2000000
+Saudi Arabia,SAU,1600,2250000
+Saudi Arabia,SAU,1700,2000000
+Saudi Arabia,SAU,1710,2007583
+Saudi Arabia,SAU,1720,2015166
+Saudi Arabia,SAU,1730,2022750
+Saudi Arabia,SAU,1740,2030333
+Saudi Arabia,SAU,1750,2037916
+Saudi Arabia,SAU,1760,2045500
+Saudi Arabia,SAU,1770,2053083
+Saudi Arabia,SAU,1780,2060666
+Saudi Arabia,SAU,1790,2068250
+Saudi Arabia,SAU,1800,2000000
+Saudi Arabia,SAU,1801,2004454
+Saudi Arabia,SAU,1802,2008919
+Saudi Arabia,SAU,1803,2013393
+Saudi Arabia,SAU,1804,2017878
+Saudi Arabia,SAU,1805,2022372
+Saudi Arabia,SAU,1806,2026876
+Saudi Arabia,SAU,1807,2031390
+Saudi Arabia,SAU,1808,2035915
+Saudi Arabia,SAU,1809,2040449
+Saudi Arabia,SAU,1810,2045004
+Saudi Arabia,SAU,1811,2049559
+Saudi Arabia,SAU,1812,2054124
+Saudi Arabia,SAU,1813,2058699
+Saudi Arabia,SAU,1814,2063284
+Saudi Arabia,SAU,1815,2067879
+Saudi Arabia,SAU,1816,2072485
+Saudi Arabia,SAU,1817,2077101
+Saudi Arabia,SAU,1818,2081727
+Saudi Arabia,SAU,1819,2086367

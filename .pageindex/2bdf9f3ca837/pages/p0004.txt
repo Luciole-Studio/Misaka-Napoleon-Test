@@ -1,0 +1,438 @@
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 74,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W4248554038",
+      "doi": "10.1257/jel.44.4.973",
+      "title": "Goodbye Washington Consensus, Hello Washington Confusion? A Review of the World Bank's Economic Growth in the 1990s: Learning from a Decade of Reform",
+      "year": 2006,
+      "type": "article",
+      "venue": "Journal of Economic Literature",
+      "venue_issn": "0022-0515",
+      "authors": [
+        {
+          "name": "Dani Rodrik",
+          "id": "https://openalex.org/A5113832316",
+          "institutions": [
+            "Harvard University Press"
+          ]
+        }
+      ],
+      "cited_by_count": 808,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 14,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W4301446610",
+      "doi": "10.4324/9781315887685",
+      "title": "Law, Legislation and Liberty",
+      "year": 2013,
+      "type": "book",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "F.A. Hayek",
+          "id": "https://openalex.org/A5000359558",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 781,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2048294418",
+      "doi": "10.5860/choice.26-5772",
+      "title": "Cities and economic development: from the dawn of history to the present",
+      "year": 1989,
+      "type": "book-review",
+      "venue": "Choice Reviews Online",
+      "venue_issn": "0009-4978",
+      "authors": [],
+      "cited_by_count": 744,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2890919688",
+      "doi": "10.1093/qje/qjs019",
+      "title": "Persecution Perpetuated: The Medieval Origins of Anti-Semitic Violence in Nazi Germany*",
+      "year": 2012,
+      "type": "article",
+      "venue": "The Quarterly Journal of Economics",
+      "venue_issn": "0033-5533",
+      "authors": [
+        {
+          "name": "Nico Voigtländer",
+          "id": "https://openalex.org/A5031105273",
+          "institutions": [
+            "National Bureau of Economic Research",
+            "University of California, Los Angeles"
+          ]
+        },
+        {
+          "name": "Hans‐Joachim Voth",
+          "id": "https://openalex.org/A5064565742",
+          "institutions": [
+            "Institució Catalana de Recerca i Estudis Avançats",
+            "Universitat Pompeu Fabra"
+          ]
+        }
+      ],
+      "cited_by_count": 664,
+      "is_oa": true,
+      "oa_pdf": "https://academic.oup.com/qje/article-pdf/127/3/1339/30457402/qjs019.pdf",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 79,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2475552378",
+      "doi": "10.1007/978-1-349-13071-9",
+      "title": "International Historical Statistics",
+      "year": 1993,
+      "type": "book",
+      "venue": "Palgrave Macmillan UK eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "B. R. Mitchell",
+          "id": "https://openalex.org/A5015707312",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 634,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2157439430",
+      "doi": "10.1017/s0022050700021124",
+      "title": "Craft Guilds, Apprenticeship, and Technological Change in Preindustrial Europe",
+      "year": 1998,
+      "type": "article",
+      "venue": "The Journal of Economic History",
+      "venue_issn": "0022-0507",
+      "authors": [
+        {
+          "name": "Stephan Epstein",
+          "id": "https://openalex.org/A5109322607",
+          "institutions": [
+            "London School of Economics and Political Science"
+          ]
+        }
+      ],
+      "cited_by_count": 550,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 148,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2005565323",
+      "doi": "10.2307/1060651",
+      "title": "Economic Interests and Institutions: The Conceptual Foundations of Public Policy",
+      "year": 1990,
+      "type": "article",
+      "venue": "Southern Economic Journal",
+      "venue_issn": "0038-4038",
+      "authors": [
+        {
+          "name": "Warren J. Sameuls",
+          "id": "https://openalex.org/A5097032931",
+          "institutions": []
+        },
+        {
+          "name": "Daniel W. Bromley",
+          "id": "https://openalex.org/A5073835856",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 523,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2129506486",
+      "doi": "10.1111/ecoj.12220",
+      "title": "The Empire is Dead, Long Live the Empire! Long‐Run Persistence of Trust and Corruption in the Bureaucracy",
+      "year": 2014,
+      "type": "article",
+      "venue": "The Economic Journal",
+      "venue_issn": "0013-0133",
+      "authors": [
+        {
+          "name": "Sascha O. Becker",
+          "id": "https://openalex.org/A5086383420",
+          "institutions": [
+            "Ifo Institute for Economic Research",
+            "University of Warwick"
+          ]
+        },
+        {
+          "name": "Katrin Boeckh",
+          "id": "https://openalex.org/A5069093084",
+          "institutions": [
+            "Leibniz Institute for East and Southeast European Studies",
+            "Ludwig-Maximilians-Universität München"
+          ]
+        },
+        {
+          "name": "Christa Hainz",
+          "id": "https://openalex.org/A5058248108",
+          "institutions": [
+            "University of Augsburg",
+            "Leibniz Institute for East and Southeast European Studies"
+          ]
+        },
+        {
+          "name": "Ludger Woessmann",
+          "id": "https://openalex.org/A5013173265",
+          "institutions": [
+            "Ifo Institute for Economic Research",
+            "Ludwig-Maximilians-Universität München"
+          ]
+        }
+      ],
+      "cited_by_count": 509,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 140,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W1666707582",
+      "doi": "10.1086/686631",
+      "title": "The Political Legacy of American Slavery",
+      "year": 2016,
+      "type": "article",
+      "venue": "The Journal of Politics",
+      "venue_issn": "0022-3816",
+      "authors": [
+        {
+          "name": "Avidit Acharya",
+          "id": "https://openalex.org/A5077284285",
+          "institutions": [
+            "Stanford University"
+          ]
+        },
+        {
+          "name": "Matthew Blackwell",
+          "id": "https://openalex.org/A5071592869",
+          "institutions": [
+            "Harvard University Press"
+          ]
+        },
+        {
+          "name": "Maya Sen",
+          "id": "https://openalex.org/A5064978705",
+          "institutions": [
+            "Harvard University Press"
+          ]
+        }
+      ],
+      "cited_by_count": 451,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 116,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2122810022",
+      "doi": "10.4324/9780203716526",
+      "title": "European Urbanization, 1500-1800",
+      "year": 2013,
+      "type": "book",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Jan de Vries",
+          "id": "https://openalex.org/A5100670291",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 417,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2567252566",
+      "doi": "10.1016/j.eeh.2016.11.002",
+      "title": "States and economic growth: Capacity and constraints",
+      "year": 2016,
+      "type": "article",
+      "venue": "Explorations in Economic History",
+      "venue_issn": "0014-4983",
+      "authors": [
+        {
+          "name": "Noel D. Johnson",
+          "id": "https://openalex.org/A5045080620",
+          "institutions": [
+            "George Mason University"
+          ]
+        },
+        {
+          "name": "Mark Koyama",
+          "id": "https://openalex.org/A5001756990",
+          "institutions": [
+            "George Mason University"
+          ]
+        }
+      ],
+      "cited_by_count": 387,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 297,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2160460967",
+      "doi": "10.1162/jeea.2008.6.1.1",
+      "title": "Oligarchic Versus Democratic Societies",
+      "year": 2008,
+      "type": "article",
+      "venue": "Journal of the European Economic Association",
+      "venue_issn": "1542-4766",
+      "authors": [
+        {
+          "name": "Daron Acemoğlu",
+          "id": "https://openalex.org/A5012301204",
+          "institutions": [
+            "Moscow Institute of Thermal Technology"
+          ]
+        }
+      ],
+      "cited_by_count": 385,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 133,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2795047867",
+      "doi": "10.3386/w25904",
+      "title": "Two-way Fixed Effects Estimators with Heterogeneous Treatment Effects",
+      "year": 2019,
+      "type": "report",
+      "venue": "National Bureau of Economic Research",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Clément de Chaisemartin",
+          "id": "https://openalex.org/A5037977205",
+          "institutions": [
+            "National Bureau of Economic Research",
+            "University of California, Santa Barbara"
+          ]
+        },
+        {
+          "name": "Xavier D'Haultfoeuille",
+          "id": null,
+          "institutions": [
+            "National Bureau of Economic Research",
+            "University of California, Santa Barbara"
+          ]
+        }
+      ],
+      "cited_by_count": 370,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 51,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",

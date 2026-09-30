@@ -1,0 +1,26 @@
+Table 6
+Revenue Smoothing in Great Britain 1797-1815
+
+Ragression Equations (t-values)
+
+(1) Alog P, = -1.81 - 0.0008 (T/¥) + 0.001 (Time)
+(70.12) (1.27) (0,14)
+
+Rs0.016 SEE=0.119 DN-1.60 '=0.33
+(2) leg p, * -7.77 ~ 0.007 (1/¢0) + 0.004 (Time)
+(70.40) (#1.27) (0.42)
+RYx0、004 SEE™0.120  DWe1.56 アア =0.35
+(3) A? log p = 0.007 - 0.01 A (T/Y)
+(0.207)  (-1.87)
+RmO.121 SEE@0.137  OW=1.77
+(4) “A? log p, = 0.01 ~ 0.01 A (Tyco)
+(0.31) (~2,03)
+RYm0.148 SEEwm0.135 OWe1.74
+
+Notes: (T/Y) represents tax revenues divided by national income;
+(T/CO) represents tax revenues divided by commodity output
+
+" signifies statistically significant at the five percent level
+
+55
+

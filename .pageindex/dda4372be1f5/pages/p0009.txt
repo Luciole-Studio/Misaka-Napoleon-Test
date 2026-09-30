@@ -1,0 +1,34 @@
+
+
+In this and subsequent figures, all relative prices are indexed on 1820=100 (unless 11 otherwise stated). This compares with Hueckel’s estimate that over the period 1790-1815, wartime 12 disruption raised the relative price of agricultural commodities in Britain by 28% (Hueckel 1973, p. 389).
+
+Section 4. Relative price evidence Figure 3 explores the impact of war on the relative prices of importables in Britain. 11
+
+Six goods are chosen, two representing imports from Europe, two from Asia, and two from the New World. The European commodities chosen are wheat, which as the leading industrial nation Britain was already importing in the late 18 century, from neighbouring Ireland but th also from Northern Europe; and timber, another crucial import which at the end of the 18 th
+
+century still came predominantly from Northern Europe. Pepper and green tea are chosen as representative imports from Asia; while sugar and raw cotton are chosen as representative imports from the New World. Together, corn, timber, tea, spices, sugar and raw cotton accounted for almost two-fifths of total British imports in 1784-6 (Davis 1979, pp. 110-11). The prices of all six commodities are expressed relative to the price of textiles, which accounted for 45% of British exports during the same period (ibid., p. 94). The first graph in Figure 3 concerns the relative price of wheat. According to Thomas Tooke, it cost between 30 and 50 shillings per quarter to ship wheat from the Baltic to Britain in 1810, as compared with 4s/6d in 1837, while Glenn Hueckel has estimated that wartime freight, insurance and licence costs accounted for between 25% and 40% of British wheat prices in 1812 (Hueckel 1973, p. 369). It would thus be surprising if the relative price of wheat did not rise during the war, and Figure 3 confirms that indeed it did. The relative price of wheat was 57% higher during the war years (1793-1815) than in the 13 years previously, and it was 47% higher than during the succeeding 15 years. Comparing the Blockade period 12
+
+(1807-12, the shaded area in Figure 3), the effect was greater still: relative wheat prices 
+increased 77% relative to their pre-war average, and 66% relative to their post-war average. 
+The relative price of lumber seems also to have profoundly affected by war, although 
+in this case it is admittedly difficult to separate out the effects of trade disruption (which 
+would have lowered British supplies) from the increased naval demand for lumber which the 
+war gave rise to, and which would have led to its relative price increasing even if free trade 
+had been maintained throughout the conflict. As can be seen from the graph, the relative price 
+of lumber peaked during the Continental Blockade period, suggesting that demand-side 
+factors were not the only ones at work, and that trade disruption mattered also. Indeed, Gayer 
+et al. (1953), from whom the timber prices were extracted, were forced to use prices for 
+Yellow American timber after 1808, whereas they had previously used quotations for Memel 
+fir, since “(i)n 1808 the virtual closing off of the Baltic forced British importers to shift 
+rapidly to the American sources of supply. Memel timber in that year was virtually 
+unavailable, its price was astronomically high” (p. 851). Average wartime relative prices were 
+61% higher than prices during 1816-20; the relative price of lumber during 1807-12 was 
+121% higher than during 1816-20. 
+It seems clear that war impeded Britain’s ability to import goods from Continental 
+Europe, and raised British relative prices of ‘temperate zone’ agricultural commodities. But 
+what of Britain’s overseas trade with Asia and the Americas? Here, the picture is somewhat 
+more nuanced, as would be expected given the fact that Britain was dominant at sea. Take the 
+relative price of sugar, for example. Figure 3 shows that the relative price of sugar was indeed 
+much higher during the war than either before (43% higher) or after (66% higher). However, 
+the relative price of sugar had already been rising prior to 1793 (since 1789, in fact, perhaps 
+due to the influence of the French Revolution on Haitian sugar supplies). Not surprisingly, the 

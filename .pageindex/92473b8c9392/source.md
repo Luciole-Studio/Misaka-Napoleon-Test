@@ -1,0 +1,65 @@
+---
+source_url: "https://www.persee.fr/doc/rhmc_0996-2743_1902_num_4_3_4209_t1_0203_0000_2"
+final_url: "https://www.persee.fr/doc/rhmc_0996-2743_1902_num_4_3_4209_t1_0203_0000_2"
+sha256: "b80e9c401a37b5aa07b8c9934d4da3b5101edc087e12c407453aa00ecf1506f7"
+text_sha256: "003ab8612d608b3d4aae10af8d2bf86f778174ac90da20604920390205d4193a"
+title: "1793-1805. Projets et tentatives de d\u00e9barquement aux Iles Britanniques, par le Commt Edouard Desbri\u00e8re. Tome IV, 1902 - Pers\u00e9e"
+---
+
+Title: 1793-1805. Projets et tentatives de débarquement aux Iles Britanniques, par le Commt Edouard Desbrière. Tome IV, 1902 - Persée
+
+Saut au contenu
+
+fr[en](https://www.persee.fr?pRedirect=https://www.persee.fr/doc/rhmc_0996-2743_1902_num_4_3_4209_t1_0203_0000_2&pLang=en)
+
+[Persée](http://info.persee.fr) [Portail Persée](https://www.persee.fr) [Perséides](https://info.persee.fr/section/perseides/) [Data Persée](http://data.persee.fr)
+
+[Parcourir les collections](https://www.persee.fr/disciplines)
+
+## 1793-1805. Projets et tentatives de débarquement aux Iles Britanniques, par le Commt Edouard Desbrière. Tome IV, 1902
+
+#### [compte-rendu]
+
+[Caron Pierre](https://www.persee.fr/authority/5078)
+
+[Revue d’Histoire Moderne & Contemporaine](https://www.persee.fr/collection/rhmc) Année 1902 [4-3](https://www.persee.fr/issue/rhmc_0996-2743_1902_num_4_3?sectionId=rhmc_0996-2743_1902_num_4_3_4209_t1_0203_0000_2) pp. 203-205
+
+- Référence bibliographique
+
+Caron Pierre. 1793-1805. Projets et tentatives de débarquement aux Iles Britanniques, par le Commt Edouard Desbrière. Tome IV, 1902. In: Revue d'histoire moderne et contemporaine, tome 4 N°3,1902. pp. 203-205.
+
+[www.persee.fr/doc/rhmc_0996-2743_1902_num_4_3_4209_t1_0203_0000_2](https://www.persee.fr/doc/rhmc_0996-2743_1902_num_4_3_4209_t1_0203_0000_2)
+
+- [BibTex](https://www.persee.fr/docAsBibTex/rhmc_0996-2743_1902_num_4_3_4209_t1_0203_0000_2.bib)
+- [RefWorks](https://www.persee.fr/docAsRefworks/rhmc_0996-2743_1902_num_4_3_4209_t1_0203_0000_2.txt)
+- [RIS (ProCite, Endnote, …)](https://www.persee.fr/docAsRIS/rhmc_0996-2743_1902_num_4_3_4209_t1_0203_0000_2.ris)
+
+1793-1805. Projets et tentatives de débarquement aux Iles Britanniques,
+
+par le Comm4 Edouard Desbrière. Tome IV. Paris, Chapelot, 1902.
+
+2 vol. in-8, ire et 2e parties : p. 1-354 ; 3e partie : p. 355-834 (cartes).
+
+Avec ces deux volumes se termine le vaste travail du Comm1 Desbrière. Nous avons déjà parlé, à deux reprises, des sources auxquelles l'auteur a puisé, de sa méthode, de la forme extérieure qu'il a donnée à son livre1. Nous n'y revenons pas, et nous contentons de résumer très sommairement dans ce qui suit, cette dernière et très importante partie de l'ouvrage.
+
+Des documents publiés dans le tome III, il ressortait que, au début de l'année 1804, Napoléon avait imaginé d'assurer le passage de l'Armée des Côtes en Angleterre par le concours de la flotte de haut bord. En mai 1804, les lignes de ce plan nouveau se sont précisées dans son esprit, comme en témoignent des instructions envoyées à Latouche-Tréville, et pré¬ voyant la concentration progressive des escadres et unités détachées sur les côtes de France et d'Espagne en une flotte destinée à opérer dans la Manche, tandis que l'escadre de Brest retiendra dans les parages d'Oues-sant le gros de la « Channel Fleet ». A la même date, des ordres sont donnés pour que les éléments de la flottille soient tenus rassemblés dans les ports de la région boulonnaise. Mais l'adduction dans ces ports des fractions de la flottille stationnées dans les ports de l'Océan est empêchée par l'ennemi. De plus, des expériences réitérées à Boulogne pendant tout l'été montrent l'impossibilité de tenir en rade plus d'une centaine de bateaux, si l'on veut réussir à les faire rentrer lorsque survient le mauvais temps. En juillet et en août, Napoléon séjourne à Boulogne2. Il constate de visu qu'embosser 7 à 800 bâtiments dans la rade, c'est les exposer à la destruction totale par un coup de vent. Plusieurs escarmouches avec les Anglais prouvent également que la flottille est dénuée de valeur offensive. Quant à la flotte de haut bord, en dépit des efforts de Ganteaume à Brest,
+
+1. Voir la Revue, t. II, p. 403, et t. III, p. 521.
+
+2. M. D. détruit, chemin faisant, la légende du combat livré pendant la distribution des croix de la Légion d'honneur, le 16 août.
+
+### Informations
+
+[Au sujet de persee.fr](https://www.persee.fr/a-propos) [Votre collection sur persee.fr](https://www.persee.fr/votre-collection-sur-persee) [Nous contacter](https://www.persee.fr/nous-contacter)
+
+### Ressources
+
+[Interopérabilité](https://www.persee.fr/interoperabilite) [Modèles documentaires](https://www.persee.fr/modeles-documentaires) [Statistiques de consultation](https://www.persee.fr/statistiques-de-consultation) [Kit logos](https://www.persee.fr/kit-logos)
+
+### Suivez-nous
+
+### Légal
+
+[CGU](https://www.persee.fr/cgu) [Mentions légales](https://www.persee.fr/mentions-legales) [Crédits](https://www.persee.fr/credits)[Politique d'archivage pérenne](https://www.persee.fr/politique-d-archivage-perenne)
+
+[Persée](https://info.persee.fr) © 2005-2026

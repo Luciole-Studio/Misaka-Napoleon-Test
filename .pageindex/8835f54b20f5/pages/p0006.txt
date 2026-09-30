@@ -1,0 +1,51 @@
+VOL. 101 NO. 7          ACEMOGLU ET AL.: CONSEQUENCES OF RADICAL REFORM              3291
+
+
+
+(Prussia, Bavaria). Our main measure of economic prosperity across these polities
+is the urbanization rate of the area, defined as the fraction of the population living in
+cities with more than 5,000 inhabitants. Paul Bairoch (1988, ch. 1) and Jan de Vries
+(1984) argue that only areas with high agricultural productivity and a developed
+transportation network could support large urban populations. Acemoglu, Johnson,
+and Robinson (2002) present evidence that in both the time-series and the cross-sec-
+tion there is a close association between urbanization and income per capita before
+as well as after industrialization.
+   Urbanization rates at the level of preunitary German polities are computed
+based on city size data from Bairoch, Jean Batou, and Pierre Chevre (1988),
+and on historical reconstructions of total populations based on various sources.
+Details on the construction of these data are given in online Appendix B.
+Urbanization rates after 1850 are obtained from the official statistical compila-
+tions of the German Empire. In addition to urbanization, we also use data on
+the sectoral composition of employment for 64 German districts for the years
+1849, 1882, 1895, and 1907 (from Harald Frank 1994). The share of employ-
+ment in industry is a good proxy for industrialization and thus enables us to
+check whether the patterns we see in the urbanization rates are associated with
+changes in industrialization.
+
+                                  B. Other Variables
+
+   Our “treatment” is defined as the number of years between 1792 and 1815 that
+the polity in question was under French occupation. We consider years in which the
+French had direct control over these territories or installed republics and principali-
+ties directly dependent on French directives; we exclude years and months of pure
+military invasion and control, such as for example in the case of Prussia. Table 1
+lists all 19 polities considered in our dataset, sorted by their treatment status. To the
+extent that some of these areas implemented modernizing reforms under pressure
+from France (e.g., through the implicit or explicit threat of invasion), our treat-
+ment coding works against our hypothesis. Nevertheless, our two-stage least squares
+strategy will correct for this potential bias by instrumenting for our index of reform
+with the measure of French treatment.
+   We construct an index of reforms in Germany, both to show the impact of the
+French occupation on institutional reforms and as the right-hand-side variable in
+our instrumental-variables strategy. Historical sources (see online Appendix D for
+details) allow us to code the nature and timing of some of the reforms that took
+place. We focus on the enactment of the French civil code, the restructuring of agri-
+cultural relations and the abolition of guilds. We interpret these reforms as an index
+for the overall “package” of institutional reforms, which also includes changes in
+areas that are less easy to classify, such as the nature of state administration and
+tax collection, or the secularization of church lands (the latter was relevant only for
+Catholic territories). Table 1 reports the incidence of reforms in Germany, as repre-
+sented by the first date of implementation.
+   Column 2 shows the date at which the different polities introduced a written civil
+code that guaranteed equality before the law. The French civil code (Code Napoléon)
+falls under this category, but so do the Saxon civil code of 1863 and the German civil

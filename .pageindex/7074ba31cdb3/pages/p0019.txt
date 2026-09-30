@@ -1,0 +1,30 @@
+which insurers recorded the details of each underwriting deal they made. The earliest is that
+of Peter du Cane, dating from 1738 . Before that period, however, the details of insurance
+agreements can be draw only from rare extant policies, from buyers’ ledgers (which rarely
+record the rate paid), and from merchant correspondence. As a result, the number of data
+points available for the years before 1738 is much smaller than for later years, which
+frustrates both econometric analysis and the depiction of the marine insurance pricing
+revolution, which occurred primarily before this date. Nonetheless, a very early initial
+analysis of the data compiled so far, including scattered references to the cost of marine
+insurance during the period of the pricing revolution, paints a surprisingly consistent picture.
+Marine insurance in the late sixteenth, seventeenth, and early eighteenth centuries was more
+expensive than in later years, often much more expensive, but was declining steadily in price.
+
+
+
+
+Figure 2 shows the clear decline in rates for insuring vessels and/or cargoes for the voyage to
+or from Livorno and Genoa in the period 1582 to 1772. The rate – which is the cost of
+insurance expressed as a percentage of the policy limit, or the ‘sum insured’ – is shown on
+the y axis; the year on the x axis. At the beginning of the period, rates for the voyage from
+London to the Western Italian peninsula fluctuated between six and eight percent. By the
+1760s it had stabilised at a floor price of 1.5% in peacetime, a reduction of at least 75%.
+
+
+The effect of war on rates is clearly apparent in the periods of the Seven Years’ War (1756-
+1763) and the American Revolutionary War (1775–1783). In wartime prices rose
+
+                                               19
+
+	
+  

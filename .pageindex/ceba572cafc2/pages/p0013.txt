@@ -1,0 +1,25 @@
+
+
+Consider the following multiple linear regression model with m breaks and m+1 regimes:
+
+(1)
+
+for t = Tj–1 + 1, …, Tj and j=1,…,m+1. yt is the observed endogenous variable, xt (p × 1) and zt (q × 1) are vectors of co-variates and β and δj are the corresponding vectors of coefficients. ut is the disturbance at time t. Given the T observations of (yt, xt, zt ), I estimate the unknown regression coefficients β and δj and break dates. For the agio, I will posit that all coefficients are subject to change, obtaining a pure structural change model (p=0) of the following form:
+
+(2)
+
+Note that the variance of ut does not need to be constant. Breaks in the variance are permitted, provided they occur at the same dates as the breaks in the parameters of the regression.
+
+I define a break in the series as a change in the conditional mean of the series yt , that is, I specify that the intercept can change (zt = 1). The focus here is on abrupt structural changes in the mean that reflect the advent of unexpected news affecting Britain's war fate and, hence, public finances. For that reason, I exclude past values of the endogenous yt . When lagged variables are included, changes in the level of yt also depend on the auto-regressive dynamics of the series; thus, the change takes effect gradually. Conversely, when specifying xt = Ø, all the dynamics are contained in the error term and the change is abrupt (Bai and Perron 2003).Footnote 25
+
+I first run the break point procedure on monthly data for the 1795–1823 period. This data set is comparable to the ones used in earlier studies (Neal Reference Neal1990) and contains 340 observations. I then use biweekly data, in order to more precisely detect break dates. Due to data availability issues, I estimate biweekly break dates only for July 1810 to May 1823. The biweekly data set encompasses 1,350 observations.
+
+Increasing the number of observations included in the sample allows detecting more break dates, as the number of breaks depends on the size of segments (the number of observations between two adjacent breaks). A minimal segment size guarantees that each segment contains sufficient observations to estimate parameters precisely. Furthermore, I ignore break dates indicated as imprecisely estimated by a large confidence interval.Footnote 26
+
+In the presence of autocorrelation and heteroskedasticity, as is the case here, each segment should include at least 24 observations. A trimming parameter, ε, links the minimal segment size, h, to the maximal number of breaks, k, allowed: ε = h/T. For a sample of T observations one obtains the maximal number of breaks, k: ε = 0.05 → k = 10; ε = 0.10 → k = 8; ε = 0.15 → k = 5; ε = 0.20 → k = 3; ε = 0.25 → k = 2.
+
+## RESULTS
+
+### Monthly Results for the Agio
+
+The monthly break dates for the agio are displayed in Figure 5 and Table 3. The size of the agio's shifts is measured by the percentage change between the agio at the detected break date and the agio's reference value, scaled to 100 in January 1797.Footnote 27 This measure can be understood as the cumulative de-or appreciation of the pound in terms of gold at any given break date. The events that coincided with the detected break dates are outlined:

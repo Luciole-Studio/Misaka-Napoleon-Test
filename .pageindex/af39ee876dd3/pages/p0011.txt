@@ -1,0 +1,51 @@
+Political Economy of Conscription in Napoleonic France 1067
+
+army, the French government also kept track of each soldier’s where-
+abouts.16 During the conscription season, Lacuée regularly reported to
+Napoléon how many conscripts left their departments and arrived in their
+units.17 The abundant correspondence between Lacuée and each prefect
+testifies to his administration’s care in collecting statistics about the
+draft.18
+   Recall that during Napoléon’s rule, the French legal code distinguished
+between two categories of desertion. The first category included indi-
+viduals who failed to show up at the assigned battalion before the dead-
+line once they were drafted. The second category regarded individuals
+who abandoned their fellow soldiers after joining the assigned battalion.
+Lacuée’s data provides figures only for individuals from the former cate-
+gory, which were often referred to as draft dodgers. We define the draft
+dodging rate as the proportion of people effectively drafted who dodged
+the draft.
+   Lacuée’s data was the source for several other variables we employ in
+our econometric exercise: the conscription, exemption, and replacement
+rates. The conscription rate is the percentage of the age cohort eligible
+for conscription that is drafted. The exemption rate measures the portion
+of young men in each cohort declared unfit for military service by the
+French government.19 The replacement rate refers to the share of draftees
+who hired a substitute to serve in the country’s armed forces in their
+stead.20 Data on military replacement is available only for the years 1806
+through 1809.
+   We complement Lacuée’s data with data from other sources. For tax
+revenue per capita, we use data published by Peuchet (1805) for the years
+1802/03. To account for variation in human capital accumulation, we
+collect data about literacy rates between 1816 and 1820.21 Urbanization
+rates for each department are from Bairoch, Batou, and Chevre (1988).
+We define urban population as the number of people living in a city of
+5,000 inhabitants or more. Finally, we created a variable measuring the
+number of military relays per 10 km2 in 1795. As Arbellot, Lepetit, and
+   16
+      See, for instance, the archives of the Ministry of Armed Forces (hereafter MAF), GR/21/
+YC/1-963. Registres matricules des sous-officiers et hommes de troupe de l’infanterie de ligne
+(1802–1815).
+   17
+      See the documents in AN, AF/IV/1122.
+   18
+      This correspondence is available at the AN, boxes F/9/150 to 261.
+   19
+      More specifically, the body in charge of exempting citizens was called the “Council of
+recruitment.”
+   20
+      See Rouanet and Piano (2020) for an economic analysis of this peculiar feat of France’s
+military system.
+   21
+      We also collected two alternative measures of literacy. One in 1790 and one more directly
+related to men eligible for conscription in 1831. See Online Appendix D.

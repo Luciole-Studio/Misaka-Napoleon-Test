@@ -1,0 +1,54 @@
+                                   The French revolution and German industrialization 165
+
+Table 1. Correct data on relevant institutional reformsa
+
+                            French                                      Reform       Reform      Population
+                            control    Civil    Agrarian     Abolish    index as     index as    weights
+                            years      code     reform       guilds     of 1850      of 1900     (1750)
+(1)                         (2)        (3)      (4)          (5)        (6)          (7)         (8)
+
+Rhineland–Prussia           19         1802     1804         1795       49.7         99.7            1439
+Palatinate–Bavaria          19         1802     1804         1795       49.7         99.7             239
+Mark/Ruhr–Prussia           6          1810     1825         1809       35.3         85.3             150
+Westphalia–Prussia          6          1810     1825         1809       35.3         85.3             529
+Brunswick                   6          1832     1834         1821       21.0         71.0             155
+Prov Saxony–Prussia         6          1808     1808         1809       41.7         91.7             763
+Hessen–Kassel               6          1831     1832         1834       17.7         67.3             294
+Hanover                     3          1833     1833         1848       12.0         62.0           1,090
+Average                     9.98                                        32.8         82.8           4,659
+Control (Panel B)
+Baden                       0          1810     1820         1810       36.7         86.7             609
+Bavaria-Southern Half       0          1818     1826         1807       33.0         83.0           1,163
+Hessen–Darmstadt            0          1820     1816         1818       32.0         82.0             264
+Saxony                      0          1831     1832         1831       18.7         68.7           1,020
+Würtemberg                 0          1819     1836         1828       22.3         72.3             925
+Average                     0.00                                        28.5         78.5           3,981
+Control (Panel C)
+Brandenburg–Prussia         0          1807     1816         1810       39.0         89.0             797
+East Prussia–Prussia        0          1807     1816         1810       39.0         89.0             554
+Pomerania–Prussia           0          1807     1816         1810       39.0         89.0             342
+Silesia–Prussia             0          1807     1816         1810       39.0         89.0           1,053
+Mecklenburg–Schwerin        0          1848     1755         1848       19.7         69.7             217
+Schleswig–Holstein          0          1848     1805         1848       16.3         66.3             541
+Average                     0                                           32.0         82.0           3,504
+
+Shaded dates differ from those claimed by ACJR in Table 1.
+a See on-line Appendix (Supplemental Material) for elaboration of our construction of Table 1.
+
+
+
+
+Code;3 (2) abolition of serfdom; (3) agrarian reforms to abolish shared rights in
+land; and (4) abolition of the guilds.
+   The econometric strategy of ACJR is driven by their desire to show the
+profound impact of Napoleon in the occupied territories, and then the defensive
+institutional reforms – alleged horizontal transmission – undertaken in the two
+non-occupied regions of Germany. This approach is designed to support their
+hypothesis that ‘big-bang’ reforms in small areas of large territories can, over
+time, pay nice dividends.
+
+
+
+   3 Here, ‘privilege-based’ law refers to social position or status. The three classes were clergy, nobility,
+and commoners. The German ‘Stände’ corresponds to the French ‘estates’, where first estate = clergy,
+second estate = nobility, third estate = commoners.

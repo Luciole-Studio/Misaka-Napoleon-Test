@@ -1,0 +1,48 @@
+---
+source_url: "http://www.parisschoolofeconomics.com/hautcoeur-pierre-cyrille/PCHAR_EHR.pdf"
+final_url: "http://www.parisschoolofeconomics.com/hautcoeur-pierre-cyrille/PCHAR_EHR.pdf"
+provider: "exa"
+text_sha256: "787618332626f3a35217c6a6dbbb744ef1b72bacfaf3a9b43f64262e4ceaca6d"
+title: "Complementarities and Competition in Microstructures"
+content_kind: "page_text"
+---
+
+## The Paris Financial Market in the 19th Century:
+
+## Complementarities and Competition in Microstructures
+
+Pierre-Cyrille Hautcoeur 
+Paris School of Economics – EHESS 
+Angelo Riva 
+European Business School – Paris 
+
+October 2010
+
+Abstract 
+Financial history usually considers London as the only center of the late 19 th century’s financial 
+globalization, and explains this partly by the superior organization of the London Stock Exchange. Our paper 
+sets out to explain why the Paris Bourse was also highly successful in spite of the supposedly inefficient 
+monopoly and regulations that the State imposed on the official market, the Parquet. The literature argues that 
+the official monopoly was sidelined by a free, innovative market known as the Coulisse, but it fails to recognize 
+the value of the services provided by the Parquet (security, transparency and settlement-delivery) and its 
+complementarities with the Coulisse. In line with recent theoretical developments, we argue that this multi-polar 
+organization had important virtues for market participants, since it allowed the exchanges to specialize in 
+different investors and services and made the exchanges complementary to each other. We demonstrate our 
+claim by looking at both the formal rules and the actual functioning of the Parquet, drawing on its archives 
+which we have recently classified. 
+Résumé 
+L’histoire financière explique souvent le succès de Londres comme marché financier dominant au 19 e 
+siècle par les microstructures efficaces de la Bourse de Londres. Cette dernière se caractérise en particulier par 
+une faible régulation, l’entrée libre des opérateurs, ce qui permettrait de réduire les coûts de transaction, 
+d’accroître la liquidité et la diversification, attirant à la fois émetteurs et investisseurs. Nous montrons que les 
+microstructures londoniennes ne sont pas nécessairement optimales et que des microstructures très différentes 
+ont permis le succès de la Bourse de Paris, loin de l’idée reçue selon laquelle cette place aurait été victime d’un 
+interventionnisme inefficace ou d’un monopole hostile à toute innovation. Nous étudions en détail l’organisation 
+du Parquet parisien et ses complémentarités avec la Coulisse, le marché libre et les opérations des banques. Nous 
+montrons qu’une telle organisation multi-polaire était efficace car elle permettait une spécialisation des agents 
+(aussi bien intermédiaires qu’émetteurs et investisseurs) et des complémentarités qui permettaient au marché de 
+joindre développement et stabilité. 
+
+JEL: G14, G18, G24, G28, N 13, N23, N43
+
+Keywords: Paris Stock Exchange, microstructure, monopoly, regulation

@@ -1,0 +1,12 @@
+
+
+## 中间检索产物（archive.org元数据等）
+- `downloads/pages/a8959e842dc5.md`、`b5b6f3cf2c2b.md`、`5321f7d7f88b.md`、`424fa59e6154.md`、`8dce0b0d022d.md`、`01abff002529.md`（advancedsearch/metadata JSON）。
+
+## 未获/转引声明
+- al-Jabartī（未读原文/译本；经Aksan、通说转引，正文已标）；Ghorbal 1928（受限副本未取）；Douin诸卷、Mengin、Bowring 1840原卷、Rivlin、Dodwell、Cole（未读；引用处均经Fahmy/Marsot转引并标注）；1830阿尔及尔远征军规模37,000/舰船600+（通说待核）；圣赫勒拿材料（Driault 1925转印）一律标回溯性。
+- Sève生平细档（Vingtrinier传记）未读；其1819/20到埃与原衔上尉取Fahmy注。
+
+## 独立性说明
+- Driault三种＋Fahmy＋Marsot构成**法国领事档案（AAE）**与**埃及国家档案**两条独立档案系（Aksan为奥斯曼史学综合，部分依赖同一西方领事群，视为半独立）；Scott 1837为独立同时代观察者；Panzac底本为奥斯曼/马格里布与欧洲领事档案。同一事实两档系相符者（如1807 Fraser败退、1823–24叛乱、130k/80k军力）已在正文并列。
+- Fahmy fn102与Aksan L2347关于"法国邀阿里取北非"为两位学者各自转述（Fahmy引Douin文书系），计一个半独立源；正文置信按此。

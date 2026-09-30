@@ -1,0 +1,37 @@
+
+
+## 关键逐字摘录（方便抽核）
+1. S01,p244："the figures are for Great Britain only, not for Ireland."；"‘real’, that is to say, declared, values"。
+2. S01,p240："exporters could not get payment from their South American buyers."；p241："the payment for exports to South America, so far as there was any payment, was made in colonial goods"。采用前轮已核摘录，本轮危机上下文读到。
+3. S02,c249："after nearly the whole of it had been laid out there, they required large remittances from this country."
+4. S03,c510财政部信："the greater part has been incurred without any previous communication with my Lords"。
+5. S07,p82："The fleet in Toulon cannot be efficiently watched, or the blockade at all kept, without the advantage of this island"。Cotton→Gregory转引。
+6. S08,p6："alternative forms of forced labour came to replace slavery"。Wilson对Bayly的转述。
+7. S09,p425："les seuls marchés britanniques en expansion étaient donc ceux des principaux systèmes esclavagistes"。此是作者历史判断，未当完整正式帝国统计。
+8. S14,c870："if they had no colonies they would still be obliged to maintain a large fleet"。
+9. S15,LXIV："or to the Island of Ceylon, or to the Island of Saint Helena."。
+10. S16末段："Rien ne prédestinait ce qui deviendrait le Canada à mettre sur pied un gouvernement responsable."。
+
+## 复用、独立性与缺口
+- 前轮`nodes/r_b55f2c1cf5/cards/t_b7b7b1/trade_evidence.md`全读、`c16_britain_under_defeat.md`前200行，继承定位和核得事实、不继承其“不可识别”终局。Crouzet/Platt/Kaufmann等此前只转引/题录，未升级为亲读。
+- S01与S09的贸易解释可能共用英国海关/Crouzet链；S18与S06军医材料可能共用Tulloch链；S07几个基地专著是同一作者；S12两个条目同作者。不同页不是多个独立实验。
+- 法文已读四种实质文本：Drescher、Wynn、加拿大传记主题、条约；又读Waitangi英/毛利文本并依据Kawharu英译理解（S22）。非欧洲主体声音主要经英语学术转引；未独立核僧伽罗语/泰米尔语、原住民口述、毛利语语文学及奴隶个人档案，故其细部选择置信度降一档，不能假装资料完备。
+- Bayly全书、Drescher *Econocide*全书、EricWilliams *Capitalism and Slavery*全文、Duffy *Soldiers,Sugar,and Seapower*、Buckley1998专著、J.R.Ward有关改良论、Gregory1996 *Malta*未取得/未完成原页阅读，**不列为已读事实来源**。Drescher的批评不等于Williams最强论证已穷尽。Bayly经S08；Gregory用本次六页文章替代；Buckley用1981全文。
+- 1812–15同口径地域贸易、英国正式殖民地分项实收货款、逐基地完整预算/吞吐/新兵医疗档仍缺；不以缺口否定存在，结论以区间/改判条款承担。
+
+## 文件与复算
+`python3 nodes/r_5b1357a9c6/cards/t_0fed70/calculate_bounds.py`
+- 输入`trade_heckscher.csv`、`fiscal_1820.csv`为转录；`scenario_assumptions.csv`为作者设定，非历史数据。
+- 输出`trade_bounds.csv`、`trade_sensitivity.csv`、`scenario_ranges.csv`、`audit.json`。算法仅加减、比率、条件乘数，无计量因果识别。
+- 14项贸易行合计差在£0.05m取整容许带内；容许带只验抄录/算术，不验来源真值。
+- 1820原列总计£1,629,298 1s6d，逐项和£1,632,298 0s11d；差£2,999 19s5d；未修原数据。
+- 两个抄录错误（1806Portugal转口0.28→0.08m；1809Ireland组5.43→5.45m）已通过原图修正；1805Spain初抄0.55→0.05m亦已纠正。
+- 技能：已加载deep-research/agent-reach；检索路线实际Exa可用；经济数据整理技能的IO/日本引擎不适配本任务，未调用。只用本卡透明标准库算术。AA live-skill路径受安全闸阻，未执行下载；改公开大学库。CORE522、YorkPDF返回HTML、MJPfetch失败均已用合适提取路线补齐，不宣称原PDF都下载成功。
+
+## 定稿追加来源（S21–S25）
+- **S21** Kennie Ting,2019,“Record of the1819Treaty of Friendship and Alliance…”,NationalHeritageBoard，https://www.roots.gov.sg/en/stories-landing/stories/the-singapore-story-through-60-objects/colonial/treaty-of-friendship-and-alliance/story ；`downloads/pages/ff15a0e6a320.md`。全文已读；1819商站共同管治、站外马来主权未让；1819不是全岛英国行省。EIC军税由IN1卡，B6地图接口不双计。
+- **S22** WaitangiTribunal,“Māori and English texts”，https://waitangitribunal.govt.nz/en/about/the-treaty/maori-and-english-versions ；`downloads/pages/8a7cea21ca39.md`。英文本、毛利文及Kawharu现代英译全文已读；依据后者理解，不自称独立毛利语语文学核验。1840-02-06、政府权/酋权土地保障的不同表述用于控制层次，不当实际控制全岛证据；网页译本书名年代题记可能有误不采用。
+- **S23** NationalArmyMuseum藏品NAM1971-02-33-252-1，“The taking of the Isle of France(Mauritius),2December1810”，https://collection.nam.ac.uk/detail.php?acc=1971-02-33-252-1 ；`downloads/pages/a4244268fcb9.md`。全文读，解释1810英军与印度军攻法国私掠基地；馆藏图标题不作兵力底账。
+- **S24** ABS,*YearBookAustralia2003*,“The wool industry—looking back and forward”，https://www.abs.gov.au/Ausstats/abs@.nsf/46d1bc47ac9d0c7bca256c470025ff87/1476d522ebe22464ca256cae0015bad4!OpenDocument ；`downloads/pages/32a25c5f3dca.md`，读Historicaloverview。5,657吨/£683,623明确限定1848NSW输英，修正S10b教学页概括。NSW图书馆1854文献p250众包转录`downloads/pages/e28f4a67e54f.md`列1848总出口22,969,711 lbs，但状态Readyforreview，未核原图，**不采为确定数**；地域/目的地/重量差需核底表，不用它“校正”ABS。故5.657千吨只作带出处的局部参照，不作全澳精确约束。
+- **S25a** TheNationalArchives,“SpotlightOn:BaptistWar”，https://www.nationalarchives.gov.uk/education/students/videos/spotlight-on/spotlight-on-baptist-war/ ；`downloads/pages/169fdc59341b.md`。读网页导论及Document1转录：CO137/181,WilloughbyCotton,1832-01-02“TO THE REBELLIOUS SLAVES”，反驳英王已自由承诺并威胁处死抵抗者。原档影像/Document2没核，不冒整卷亲阅。
+- **S25b** 同档案馆EducationService,*Resistance and Rebellion in the Caribbean*,p4，https://cdn.nationalarchives.gov.uk/documents/education/resistance-and-rebellion.pdf ；`downloads/pages/ce033e3932d6.md`。读背景全文：1816Barbados、1823Demerara、1831–32Jamaica与解放预期受挫有关；其余展示档案未逐图核。S25a当时镇压文书可证明官方回应，不能单凭它知道全部起义者动机；S25b是现代解释。

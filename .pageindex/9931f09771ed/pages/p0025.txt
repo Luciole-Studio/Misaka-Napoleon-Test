@@ -1,0 +1,35 @@
+                                               - 23 -
+
+Table 2: Welfare Effects of the 1808 Trade Embargo
+
+Figures in millions of dollars. Negative numbers in parenthesis.
+
+ Component                      Central Estimate        Low Estimate         High Estimate
+                                      (1)                   (2)                   (3)
+
+
+ p1@m0                                (46.9)                (46.9)               (46.9)
+
+
+ (p1 - p1*)@m1                         7.7                   7.7                  7.7
+
+
+ B1                                    1.5                   1.5                  1.5
+
+
+ sP = p1@(y1 - y0)                     2.3                   4.7                   0
+
+
+ sC = p1@x0 - e(p1,u0)                 2.3                   4.7                   0
+
+
+ Total                                (33.1)                (28.3)               (37.7)
+
+
+ As Percent of GNP                    4.9%                  4.2%                 5.5%
+
+
+Source: See text for calculations. Nominal GNP in 1807 is assumed to be $680 million, from
+Gallman (2000), p. 7. The share of domestic exports and shipping earnings in GNP was 13.4
+percent in 1807; the share of imports for domestic consumption in GNP was 12.5 percent in that
+year.

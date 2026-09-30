@@ -1,0 +1,70 @@
+## Sheet: A2.Components scaled by NGDP (continued)
+	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U
+
+
+```meta
+▸ formulas
+    A334:A338 =R[-1]C+1
+    B15:B284 ='A1. Bank of England B''Sheet'!R[-9]C
+    B285:B338 ='A1. Bank of England B''Sheet'!R[-7]C
+    C15:C284 ='A1. Bank of England B''Sheet'!R[-9]C
+    C285:C338 ='A1. Bank of England B''Sheet'!R[-7]C
+    D15:D284 ='A1. Bank of England B''Sheet'!R[-9]C[3]+'A1. Bank of England B''Sheet'!R[-9]C[4]
+    D285:D327 ='A1. Bank of England B''Sheet'!R[-7]C[3]+'A1. Bank of England B''Sheet'!R[-7]C[4]
+    D328:D338 ='A1. Bank of England B''Sheet'!R[-7]C[3]+'A1. Bank of England B''Sheet'!R[-7]C[4]+'A3. APF and QE'!R[-323]C[14]
+    E15:E284 ='A1. Bank of England B''Sheet'!R[-9]C[5]
+    E285:E327 ='A1. Bank of England B''Sheet'!R[-7]C[5]
+    E328:E338 ='A1. Bank of England B''Sheet'!R[-7]C[5]-('A3. APF and QE'!R[-323]C[13])
+    F15:F284 ='A1. Bank of England B''Sheet'!R[-9]C[9]+'A1. Bank of England B''Sheet'!R[-9]C[11]
+    F285:F338 ='A1. Bank of England B''Sheet'!R[-7]C[9]+'A1. Bank of England B''Sheet'!R[-7]C[11]
+    G15:G284 ='A1. Bank of England B''Sheet'!R[-9]C[8]
+    G285:G338 ='A1. Bank of England B''Sheet'!R[-7]C[8]
+    H15:H284 ='A1. Bank of England B''Sheet'!R[-9]C[11]
+    H285:H338 ='A1. Bank of England B''Sheet'!R[-7]C[11]
+    M16:M83 =100*RC[-11]/R[-1]C[-3]
+    M84:R84 =AVERAGE(R[-1]C,R[1]C)
+    M85:M92 =100*RC[-11]/R[-1]C[-3]
+    M93:R93 =AVERAGE(R[-1]C,R[1]C)
+    M94:M338 =100*RC[-11]/R[-1]C[-3]
+    N16:N83 =100*RC[-11]/R[-1]C[-4]
+    N85:N92 =100*RC[-11]/R[-1]C[-4]
+    N94:N338 =100*RC[-11]/R[-1]C[-4]
+    O16:O83 =100*RC[-11]/R[-1]C10
+    O85:O92 =100*RC[-11]/R[-1]C10
+    O94:O338 =100*RC[-11]/R[-1]C10
+    P16:P83 =100*RC[-11]/R[-1]C10
+    P85:P92 =100*RC[-11]/R[-1]C10
+    P94:P338 =100*RC[-11]/R[-1]C10
+    Q16:Q83 =100*RC[-10]/R[-1]C10
+    Q85:Q92 =100*RC[-10]/R[-1]C10
+    Q94:Q338 =100*RC[-10]/R[-1]C10
+    R16:R83 =100*RC[-11]/R[-1]C10
+    R85:R92 =100*RC[-11]/R[-1]C10
+    R94:R338 =100*RC[-11]/R[-1]C10
+    S20:S338 =RC[-2]-RC[-1]
+    T20:T338 =100*RC[-17]/R[-1]C[-9]
+    U16:U338 =RC[-7]-RC[-6]-RC[-5]-RC[-3]
+▸ number-format
+    0.0 F15:H338
+    0.00 B2,B15:E338,J15:J337,M16:R338,U16:U338,K19:K337,S20:T338
+▸ merged
+    B4:H4 (value at B4)
+    J4:K4 (value at J4)
+    M4:R4 (value at M4)
+▸ styles
+    font-color: #FF0000 J15:J18,M84:R84,M93:R93
+    bold: B1,B4:B5,J4:J5,M4:M5,C5:H5,K5,N5:T5
+    underline: A1
+▸ extras
+    comment J15:"Thomas, Ryland: Projected backwards with English GDP"
+    comment J16:"Thomas, Ryland: Projected backwards with English GDP"
+    comment J17:"Thomas, Ryland: Projected backwards with English GDP"
+    comment J18:"Thomas, Ryland: Projected backwards with English GDP"
+▸ charts
+    line series='A2.Components scaled by NGDP'!$M$19:$M$338,'A2.Components scaled by NGDP'!$N$19:$N$338 cats='A2.Components scaled by NGDP'!$A$19:$A$338
+    bar+line series='A2.Components scaled by NGDP'!$O$16:$O$338,'A2.Components scaled by NGDP'!$P$16:$P$338,'A2.Components scaled by NGDP'!$R$16:$R$338,'A2.Components scaled by NGDP'!$N$16:$N$338,'A5. Capital and Government Debt'!$A$1 cats='A2.Components scaled by NGDP'!$A$16:$A$338
+    line series='A2.Components scaled by NGDP'!$N$19:$N$333,'A2.Components scaled by NGDP'!$T$19:$T$239 cats='A2.Components scaled by NGDP'!$A$19:$A$333
+    bar+line series='A2.Components scaled by NGDP'!$O$16:$O$338,'A2.Components scaled by NGDP'!$P$16:$P$338,'A2.Components scaled by NGDP'!$R$16:$R$338,'A2.Components scaled by NGDP'!$N$16:$N$338 cats='A2.Components scaled by NGDP'!$A$16:$A$338
+    line series='A2.Components scaled by NGDP'!$M$19:$M$338,'A2.Components scaled by NGDP'!$N$19:$N$338 cats='A2.Components scaled by NGDP'!$A$19:$A$338
+    line series='A2.Components scaled by NGDP'!$N$19:$N$333,'A2.Components scaled by NGDP'!$T$19:$T$239 cats='A2.Components scaled by NGDP'!$A$19:$A$333
+```

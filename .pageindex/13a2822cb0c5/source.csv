@@ -1,0 +1,8 @@
+parameter,input_low,input_high,O1848_at_input_low,O1848_at_input_high,swing_percentage_points,orientation
+residual_dependence_lambda,0.0,0.7,0.00640341,0.01899678,1.25934,higher_when_input_rises
+adopt,0.15,0.3,0.00846673,0.01693346,0.84667,higher_when_input_rises
+maintain_given_adopt,0.4,0.6,0.01016007,0.01524011,0.50800,higher_when_input_rises
+russia_given_framework,0.35,0.5,0.01045890,0.01494129,0.44824,higher_when_input_rises
+redline_share_of_impulse,0.08,0.2,0.01520925,0.01105222,0.41570,lower_when_input_rises
+uk_given_framework,0.4,0.6,0.01136542,0.01353254,0.21671,higher_when_input_rises
+austria_given_framework,0.45,0.6,0.01210549,0.01329470,0.11892,higher_when_input_rises

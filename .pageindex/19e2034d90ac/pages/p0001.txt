@@ -1,0 +1,17 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: A_fiscal_anchors.csv
+
+```meta
+▸ table "A_fiscal_anchors.csv" (9 data rows)
+```
+year,revenue_million_flCM,expenditure_million_flCM,military_million_flCM,source_id,source_locator,definition
+1802,70.4,87.3,45.4,AX91,"printed 259 Table VI.1 IV;262 VI.2 II;264 VI.3 IV","Beer annual average silver conversion via Axtmann; expenditure excludes principal repayment and note redemption"
+1803,76.1,75.4,35.9,AX91,"printed 259 Table VI.1 IV;262 VI.2 II;264 VI.3 IV","same"
+1804,78.0,78.3,34.4,AX91,"printed 259 Table VI.1 IV;262 VI.2 II;264 VI.3 IV","same"
+1805,78.1,102.7,64.8,AX91,"printed 259 Table VI.1 IV;262 VI.2 II;264 VI.3 IV","same"
+1806,51.2,97.5,57.5,AX91,"printed 259 Table VI.1 IV;262 VI.2 II;264 VI.3 IV","same"
+1807,67.1,98.5,52.2,AX91,"printed 259 Table VI.1 IV;262 VI.2 II;264 VI.3 IV","same"
+1808,66.9,78.7,45.2,AX91,"printed 259 Table VI.1 IV;262 VI.2 II;264 VI.3 IV","same"
+1809,31.1,86.3,66.8,AX91,"printed 259 Table VI.1 IV;262 VI.2 II;264 VI.3 IV","same"
+1810,25.0,76.1,52.2,AX91,"printed 259 Table VI.1 IV;262 VI.2 II;264 VI.3 IV","same"

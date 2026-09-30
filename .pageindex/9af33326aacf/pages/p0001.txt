@@ -1,0 +1,141 @@
+---
+source_url: "https://academic-journals.eu/pl/download?path=%2Fuploads%2FZm9sZGVycHVibWVkaWE%3D%2Fdocuments%2Fstudia_i_materialy_viii_nawrot_komitet_wojskowy_na_litwie_w_1812.pdf"
+final_url: "https://academic-journals.eu/pl/download"
+provider: "exa"
+text_sha256: "1bd5f5c52db93b4c5b75f75d7a50a9e4758922cf7b8d5645b626842d9b00095a"
+title: ""
+content_kind: "page_text"
+---
+
+„STUDIA I MATERIAŁY”, t. 8
+MIĘDZY OBOWIĄZKAMI, PRZYWILEJAMI
+A PRAWEM RZECZYPOSPOLITEJ XVI–XVIII WIEKU
+SPOŁECZEŃSTWO W OBRONIE PAŃSTWA POLSKO-LITEWSKIEGO
+Redakcja naukowa
+Anna Kalinowska, Adam Perłakowski, Dariusz Rolnik, Filip Wolański
+978-83-7022-250-5
+ARX REGIA® WYDAWNICTWO ZAMKU KRÓLEWSKIEGO W WARSZAWIE – MUZEUM
+ZAMEK KRÓLEWSKI W WARSZAWIE – MUZEUM 2018
+Słowa klucze:
+Napoleon, kampania 1812 r., Litwa, Komitet Wojskowy Komisji Rządu 
+Tymczasowego Litwy, wojsko litewskie, Aleksander Sapieha, 
+Dirk van Hogendrop, utrzymanie armii
+DARIUSZ NAWROT
+ORCiD: 0000-0001-9753-2414
+Military Committee
+in Lithuania in 1812
+Komitet Wojskowy
+na Litwie w 1812 r.
+Dariusz Nawrot (Katowice)
+Komitet Wojskowy 
+na Litwie w 1812 r.
+Kiedy 24 czerwca 1812 r. Napoleon wkroczył na Litwę, powszechnie sądzono, że siła zbrojna w tym kraju powstanie w wyniku pospolitego ruszenia, jak to stało się w Wielkopolsce w 1806 r. i co zapowiadało zawiązanie Konfederacji Generalnej oraz powierzenie regimentarstwa księciu 
+Józefowi Poniatowskiemu. Ale Napoleon, dysponujący półmilionową 
+armią, w swoich planach wobec Litwy z początku lipca 1812 r. wolał 
+mieć zapewnione kilkanaście tysięcy regularnego żołnierza. Brał też zapewne pod uwagę możliwości finansowe i ogólną sytuację gospodarczą 
+kraju. Określiwszy dość nisko stan sił zbrojnych Litwy, żywił nadzieję, że 
+pułki te zostaną dość szybko zorganizowane, a mała liczba wojsk regularnych pozwoli maksymalnie rozbudować żandarmerię i gwardię narodową 
+w formację powszechną. Przykładał do tego wagę, ponieważ uważał, że 
+gwardia i żandarmeria przejmą walkę z bandytyzmem oraz maruderami, zapewniając spokój na tyłach Wielkiej Armii, co pozwoli jej przeznaczyć większe siły do bezpośredniej walki z nieprzyjacielem. Napoleon konsekwentnie, także w pierwszych dniach pobytu w Wilnie, 
+wykluczał utworzenie litewskiej siły zbrojnej opartej na powołaniu oddziałów nieregularnych. Na wszelkie spontaniczne akcje powstańcze 
+Litwinów, które owocowały próbami organizacji oddziałów wojskowych, reagowano jednoznacznie, nakazując ich rozwiązanie i proponując wstępowanie ochotników do oddziałów regularnych1
+.
+1 lipca w Wilnie Napoleon powołał Komisję Rządu Tymczasowego Litwy i władze czterech departamentów. Cały wysiłek i aktywność tych władz 
+Napoleon kierował na zapewnienie Wielkiej Armii spokoju na tyłach, 
+1 D. Nawrot, Litwa i Napoleon w 1812 roku, Katowice 2008, s. 480–483; J. Iwaszkiewicz, 
+Litwa w roku 1812, Kraków–Warszawa 1912, s. 366.
+282 Dariusz Nawrot
+maksymalnego zaopatrzenia, a nawet uzupełnienia szeregów żołnierskich, 
+na zapleczu wielkich działań wojennych, podkreślając tym samym służebny w najistotniejszych kwestiach charakter utworzonej administracji 
+kraju. Odzwierciedlała to konstrukcja Komisji Rządu składająca się 
+z siedmiu komitetów (ministerstw). Organizacją siły zbrojnej miał się zająć Komitet Wojskowy Komisji Rządu, na którego czele stanął faktyczny 
+lider władz litewskich Aleksander Sapieha. Liczebność sił litewskich od 
+początku była ograniczona i nieprawdą były padające w literaturze 
+stwierdzenia, jakoby Aleksander Sapieha obiecywał Napoleonowi utworzenie 100-tysięcznej armii litewskiej, gotowej stanąć u boku Francuzów 
+do walki z Rosją. Wywiad francuski miał na tyle dobre rozeznanie w sytuacji demograficznej i gospodarczej Litwy przed wojną, by wykluczać 
+możliwość utworzenia tak licznej armii2
+. Sam Sapieha w liście z lipca 
+1812 r. ujawniał, że w rozważanych tuż przed wojną projektach powołania wojsk litewskich przewinęła się liczba maksymalnie 14 regimentów 
+piechoty i jazdy3
+. Byłaby to armia licząca do 30 tys. oficerów i żołnierzy. 
+Jej ostateczne zmniejszenie do dziewięciu regimentów liniowych – razem 
+około 15 tys. ludzi – wynikało z przerażającego wyniszczenia Litwy, które wykluczało możliwość sformowania większej liczby wojsk regularnych. Projekt takiego etatu wojsk litewskich Aleksander Sapieha opracował 10 lipca, a Komisja Rządu przedstawiła go do akceptacji Napoleona4
+. 
+Projekt ten wynikał z zamiarów Napoleona, który zrozumiał w tych 
+dniach, że załamał się jego plan uzyskania szybkiego rozstrzygnięcia 
+wojny w walnym starciu z armią Aleksandra na obszarze zachodnich 
+guberni Imperium Rosyjskiego i kiedy wyraźnie rysowała się konieczność pościgu za wycofującymi się oddziałami rosyjskimi. Początkowo 
+Napoleon zadecydował o utworzeniu 3. litewskiego pułku szwoleżerów 
+gwardii, co miało charakter symbolu. Zgodnie z nowym zamiarem cesarza, nowo powstałe regimenty litewskie, przede wszystkim piechoty, 
+miały uwolnić oddziały Wielkiej Armii z obowiązku zabezpieczenia 
+szlaków komunikacyjnych i zagwarantować spokój oraz bezpieczeństwo 
+na zapleczu działań wojennych, aby jak najszybciej pozwolić na uzupeł2 Od 1810 r. informatorzy Napoleona w Warszawie zapewniali, że ludność Litwy jest gotowa do 
+powstania, a pewna liczba magnatów deklaruje utworzenie własnym sumptem 6 regimentów. 
+Generał M. Sokolnicki zapewniał, że z wszystkich ziem zaboru rosyjskiego można było zyskać 
+siłę zbrojną liczącą około 50 tys. ludzi. Correspondance de Napoléon I-er, publiée par ordre de 
+l`Empereur Napoléon III, Paris 1857–1870, 18982; S. Askenazy, Z korespondencji Bignona, BW, 
+t. 1, 1896, s. 550; M. Handelsman, Instrukcje i depesze rezydentów francuskich w Warszawie 1807–
+–13, Warszawa 1914, t. 2, s. 7, 65, 89 i 97; e. Bignon do H. Mareta, 9 VI 1812 r., z Warszawy, AMAe, 
+Corr. Pologne 330, k. 177; Memoriał M. Sokolnickiego, AMAe, Mémoires Pologne 28, k. 188. 
+3 „Niemożliwe jest formowanie 14 regimentów, bo brak pieniędzy i środków”, A. Sapieha 
+do A. Sapieżyny, 27 VII 1812 r., B Czart., rkps, ew. 3225 (ADCz. 7043, t. 13).
+4 Sesja KRTWKL z 10 VII 1812 r., RGADA, f. 12, b. 262, cz. 5.
+Komitet Wojskowy na Litwie w 1812 r. 283
+nienie batalionami i szwadronami, pozostawionymi w garnizonach na 
+terenie Litwy, topniejących szeregów wojsk napoleońskich maszerujących 
+na wschód. Regimentom litewskim nie wyznaczano zadań, które wymagałyby dołączenia do walczących w pierwszej linii oddziałów Wielkiej 
+Armii. Powierzano im jedynie służbę garnizonową, której celem było zabezpieczenie terytorium Litwy przed rajdami oddziałów rosyjskich, 
+przede wszystkim kozaków, stanowiących zagrożenie francuskich linii 
+komunikacyjnych. Tak wąski zakres zadań zaważył na słabym wyposażeniu armii w ekwipunek niezbędny do działań w polu5
+.
+11 lipca 1812 r. świeżo ukonstytuowany Komitet Wojskowy otrzymał 
+polecenie przygotowania listy kandydatów do nominacji na pułkowników pięciu pułków piechoty i czterech pułków jazdy6
+. Od tej pory Komitet 
+Wojskowy pod przewodnictwem Aleksandra Sapiehy przejął kierownictwo organizacji armii litewskiej. Książę, jako główny doradca Napoleona 
+w sprawach litewskich, miał ambicje odegrania roli wodza Litwy. Obok 
+niego w skład Komitetu Wojskowego, po nominacjach z 5 lipca, weszli: 
+generał brygady Jan Konopka, pułkownik Ignacy Tyzenhauz, pułkownik 
+Aleksander Chodkiewicz, generał brygady Stefan Grabowski, generał 
+Józef Kossakowski, marszałek Antoni Łappa, Paweł Sapieha, pułkownik Józef Kosielski, dowódca gwardii narodowej w Wilnie, oraz pułkownik Antoni Chrapowicki, dowódca żandarmerii w departamencie wileńskim. 
+Następnych konsyliarzy mianowano 18, 22 i 27 lipca i byli to: generał dywizji książę Romuald Giedroyć, generał brygady Franciszek Ksawery Niesiołowski i Aleksander Pociej. Ze składu Komitetu odeszli: generał Józef 
+Kossakowski, który z Napoleonem wyruszył na wschód, Paweł Sapieha, 
+który objął funkcję w Witebsku, marszałek Łappa, a w końcu listopada 
+Aleksander Pociej, który został wybrany na posła na sejm skonfederowany7
+. Natomiast w końcu sierpnia i we wrześniu w skład Komitetu weszli: 
+generał major z 1794 r. Franciszek Wyszkowski, pułkownik Feliks Sobecki, oficer gwardii pieszej litewskiej i 7. regimentu, oraz świeżo mianowany 
+pułkownikiem Karol Lubecki, jeden z bohaterów powstania w Pińsku, 
+a w październiku jeszcze brygadier z 1794 r. – Józef Kopeć8
+. 
+Niewątpliwie fakt, że członkowie Komitetu Wojskowego wypełniali wiele innych funkcji wymagających często ich obecności, na przykład formowali poszczególne oddziały, źle musiał oddziaływać na działalność 
+5 Correspondance de Napoléon…, 18992, 19015, 19027, 19053, 19096, 19119, 19136, 19139, 
+19157, 19165, 19187, 19234, 19369, 19372.
+6 A. Chodkiewicz, Dzieje znakomitych wypadków, B Czart., MNK 760/31, k. 81. 
+7 Sesja KRTWKL z 6, 18, 22, 27 VII, 27 XI 1812 r., RGADA, f. 12, b. 262, cz. 5.
+8 Sesje KRTWKL z 30 VIII i 21 IX 1812 r., RGADA, f. 12, b. 262, cz. 5; KRTWKL do Komitetu 
+Skarbu z 20 X 1812 r., B Czart., 3184 V, k. 25.
+284 Dariusz Nawrot
+Komitetu jako całości. Również spory między Sapiehą a generałami Romualdem Giedroyciem i Franciszkiem Ksawerym Niesiołowskim nie poprawiały atmosfery pracy w Komitecie. Generałowie byli bohaterami insurekcji 
+w 1794 r. Giedroyć, mający opinię szczerego patrioty, przewidywany był na 
+wodza Litwy w próbach powstańczych po trzecim rozbiorze. Dobrze znał go 
+też Napoleon. W 1812 r. generał Giedroyć to siebie widział na czele powstającej armii litewskiej, a w ambicjach Aleksandra Sapiehy dostrzegał główne 
+zagrożenie własnych aspiracji. Stało się to zarzewiem konfliktu, ponieważ 
+Giedroycia nie satysfakcjonowało miejsce w Komitecie Wojskowym, niegwarantujące możliwości odgrywania pierwszoplanowej roli. List do Sapiehy z 11 sierpnia był powtórzeniem jednego ze starć, kiedy Giedroyć zarzucił 
+księciu złą dyslokację formowanych regimentów litewskich, niewłaściwe 
+prowadzenie rekrutacji kantonistów, powielające rosyjski system poboru, 
+oraz „miłość własną” przejawiającą się w jednoosobowym podejmowaniu 
+decyzji. Wywody te sprowadzały się do wniosku, że naubliżanie Sapieże nie 
+jest powodem, by książę odpowiadał, urągając generałowi i wysuwając 
+oskarżenia o intrygi i robienie z sesji Komitetu „kabaretu”, bo zarzuty pod 
+adresem Sapiehy były – według generała – jak najbardziej prawdziwe9
+. Początkowo starano się na Sapieże wymusić wyciszenie konfliktu przez mianowanie wiceprzewodniczącego Komitetu10. Ostatecznie spory miało zakończyć rozwiązanie, które zaproponował, nadzorujący władze na Litwie, 
+minister spraw zagranicznych Francji Hugues Maret – utworzenie generalnego inspektoratu armii litewskiej, na czele z ambitnym generałem11.
+Od końca lipca kolejnym źródłem konfliktów stał się, mianowany 
+przez Napoleona przed jego wyjazdem z Wilna, generalny gubernator 
+Litwy generał Dirk van Hogendorp, próbujący w walce z Sapiehą realizować swe kompetencje naczelnego dowódcy wszystkich sił zbrojnych 
+na terenie Litwy, w tym formującego się wojska litewskiego. Od początku swojego pobytu w Wilnie Hogendorp w listach do Napoleona i Berthiera oskarżał władze litewskie o opóźnienia w realizacji wyznaczonych przez cesarza zadań12. Generalny gubernator nie znał szczegółowo 
+9 R. Giedroyć do H. Mareta, 19 VII 1812 r., AN, AF. IV 1649, pl. 5 nr 12; R. Giedroyć do H. Mareta, 6 XI 1812 r. i R. Giedroyć do A. Sapiehy, 11 VIII 1812 r., Rossijskij Gosudarstwiennyj Vojenno-
+-Istoriczeskij Archiv, f. 846, op. 16, VUA 3856, k. 25, 28–29; H. Mościcki, Giedroyć Romuald Tadeusz, w: PSB, t. 7, Kraków 1948–1958, s. 433.
+10 Sesja KRTWKL z 17 VIII 1812 r., RGADA, f. 12, b. 262, cz. 5. 
+11 H. Maret do Napoleona, 9 VIII 1812 r., AN, AF IV 1647, pl. 2, nr 30.
+12 e. Bignon do H. Mareta z 3 VIII 1812 r., AN, AF IV 1650, pl. 3, nr 10; A. Potocki, Pamiętnik, AGAD, APPot., 284, k. 203, 231; A. ernouf, Maret, duc de Bassano, Paris 1884, s. 411; 
+G. Fabry, Campagne de Russie. Publié sous la Direction de la Section Historique de l`État-

@@ -1,0 +1,195 @@
+
+
+ Agrarian:
+ 20; 22.8
+
+     –Farmer
+ 15; 23.8
+
+     –Day labourer
+   1; 23
+
+     –Shepherd
+   4; 19.2
+
+ Artisan
+   3; 25.2
+
+ Outlaw
+   2; 39.0
+
+ Total & average age
+ 25; 24.4
+
+ PRIVILEGED CLASSES
+
+ Categories
+ Number & average age
+
+ Authority/Functionary
+   3; 35
+
+ Clergy
+   1; 39
+
+ Military
+ 10; 30.7
+
+ Persons of private means
+   2; 43
+
+ Professional
+   2; 40
+
+ Student
+   7; 18.1
+
+ Total & average age
+ 25; 29.7
+
+ TABLE 4.12 CIRCUMSTANCES OF JOINING THE GUERRILLA
+
+ For only 99 (12%) of the 751 db guerrilleros are former personal experiences recorded which could account for fighting in a guerrilla. Objective circumstances, the first listed in the following table, are obviously not devoid of
+subjective judgements; for example, a dispersed soldier might not return to the army because he disliked its rigorous discipline, hunger, uncertain pay and almost certain defeat in open battle. The second category, however,
+records what can be considered more subjective conditions.
+
+ OBJECTIVE CIRCUMSTANCES
+ Partisans
+ Privateers
+ Religious Crusades
+ Unrecorded category
+ Total number & % (of 99)
+
+ Convention War veteran
+   7
+
+   2
+   9 (9.1)
+
+ Regular army volunteer, 1808
+   2
+
+   1
+   3 (3.0)
+
+ Failure of regular Spanish armies’ strategy of fighting war
+   5
+
+   1
+   6 (6.1)
+
+ Dispersed soldier
+ 11
+
+   4
+ 15 (15.2)
+
+ Escaped prisoner of war in enemy-occupied zone
+
+   2
+
+   2 (2.0)
+
+ Escaped from prison in ‘self-defence’ against French
+   1
+
+   1 (1.0)
+
+ Escaped not to pay French exactions
+   1
+
+   1 (1.0)
+
+ Taken by force by a guerrilla party
+   1
+
+   3
+
+   4 (4.0)
+
+ Appointed by civilian authorities
+   9
+   2
+   1
+   1
+ 13 (13.1)
+
+ Appointed by military authorities
+   2
+   1
+
+   3 (3.0)
+
+ SUBJECTIVE CONDITIONS
+
+ Defense of home territory
+   8
+
+   6
+
+ 14 (14.1)
+
+ For Religion and Fatherland
+   1
+
+   1 (1.0)
+
+ Juvenile day dreams on hearing of guerrilla exploits
+   1
+
+   1 (1.0)
+
+ Personal violence by French *
+ 18
+
+   3
+
+ 21 (21.2)
+
+ Escape from hated friar’s condition
+   1
+
+   1 (1.0)
+
+ Asked and received civilian authorities’ permission to form a party
+   1
+
+   2
+
+   3 (3.0)
+
+ Other
+   1
+
+   1 (1.0)
+
+ Total
+ 70
+   5
+ 15
+   9
+ 99 (99.8)
+
+ * This category should be viewed with caution; many sources produced by Spanish historians during the nineteenth century Romantic period liked to insist on personal violence as the guiding motive for joining a party when a
+century later contemporary historians deduced more important reasons included in the table’s other categories, for instance those who had fought the French revolution in the Convention War, the dispersed soldier or those
+appointed by civilian and military authorities.
+
+ TABLE 4.13 GUERRILLA DEATHS NUMBER & CAUSES
+
+ The fate of 179 guerrilleros – 23.8% of the total db – was recorded.
+
+ Causes
+ Number of guerrilleros (179)
+ % (of 179)
+
+ Killed in combat or on being taken prisoner
+ 47
+ 26.3
+
+ Sentenced to death by extraordinary crimes Tribunal
+ 81 *
+ 45.2
+
+ Sentenced to death by French Military commission (drumhead court martials)
+   9
+   5.0

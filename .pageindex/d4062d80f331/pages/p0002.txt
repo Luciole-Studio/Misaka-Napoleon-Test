@@ -1,0 +1,23 @@
+
+
+### S5. Hartford Convention 决议与建议修宪（1814 年 12 月）
+- 缓存：`downloads/pages/1a445a082118.md`（Avalon Project，"Amendments to the Constitution Proposed by the Hartford Convention: 1814"）
+- Avalon 标注的底本：Paul Leicester Ford 编 *The Federalist*（New York: Henry Holt, 1898）所附文献。**这是 1898 年编本的转录，非 1815 年原件影本**；本卡引用其条文内容，不对排版细节作断言。
+
+### S6. 门罗总统 1823-12-02 年度咨文（门罗宣言）
+- 缓存：`downloads/pages/379bed301061.md`（美国国家档案馆 Milestone Documents 页面所载 transcript；档案引文：Presidential Messages of the 18th Congress, Record Group 46）
+- 引用：三段关键原则句（不再受殖民；不干涉欧洲内政；"extend their system to any portion of this hemisphere"；"With the existing colonies or dependencies of any European power we have not interfered and shall not interfere."）
+- 限度：该页为**转录本**（NARA 自述 transcript），非原件影像；本卡未作影像核对。
+
+### S7. 上一轮可复用产物
+- `nodes/r_b55f2c1cf5/cards/t_c2dbca/britain_silver.md`（C5 英国美洲方案与白银机制）：本卡沿用其**五层区分口径**（付款凭证／航次许可／销售所得／财政银／欧洲净结算）与"获取凭证≠法国收到现银"的警告；沿用其对 Nolte 数字与 Ouvrard 回忆的回溯性标注。
+- `nodes/r_5b1357a9c6/coordination_ledger.md`：采 B5 卡的 **A40 校订**（1811 年英国对美国出口 £1,432,000、对北美 £3,342,000，原 BoE millennium v3.1 A40 多约 £10m），故本卡不引用未校订的 A40 数值；采 R2 卡的 1808→1809 彼得堡到港 60→376 艘用于年表第 3 条机制说明。
+
+## 二、列名但未取得的来源（交 Last Order／其他 Sister 或后续轮）
+1. Bradford Perkins 之外的 1812 战争主干二手文献：Donald R. Hickey, *The War of 1812: A Forgotten Conflict*；J. C. A. Stagg, *Mr. Madison's War* 与 *The War of 1812: Conflict for a Continent*；Burton Spivak, *Jefferson's English Crisis*；Clifford L. Egan, *Neither Peace nor War: Franco-American Relations 1803–1812*；Robert W. Tucker & David C. Hendrickson, *Empire of Liberty*；Henry Adams, *History of the United States During the Administrations of Jefferson and Madison*（9 卷）。
+2. 一手文书集：*American State Papers*（Foreign Relations／Military Affairs／Naval Affairs／Commerce and Navigation）；*Annals of Congress* 12th Cong.（Perkins 已转引 pp.102、112–114 等，本卡未亲读）；Gallatin 年度财政报告；1831-07-04 法美赔偿公约（2,500 万法郎）与其分配档。
+3. 统计：*Historical Statistics of the United States*（系列 A 人口分种族、Q 吨位、Y 财政）；1810 年 *Aggregate Amount of Each Description of Persons*；1810 年 Coxe 制造业普查（*A Statement of the Arts and Manufactures of the United States for 1810*）。
+4. 档案谱系（仅列名，不假称亲阅）：AGN（México）Marina vols. 223–234、Reales Cédulas Originales vols. 195–197；Baring Brothers Archive；Hope & Co. 档案（Amsterdam）；NARA RG 59 Despatches from U.S. Ministers to France/Great Britain。
+
+## 三、非英语来源说明
+本卡主体对象为英语国家，直接引用以英语为主。非英语来源经两条渠道进入：①Marichal 2007（西班牙语学术传统的英文专著，其内注引 Canga Argüelles 1833 西文财政辞典与 AGN 西文档案）；②上一轮 `britain_silver.md` 所引 Marichal 2000 西文论文（`downloads/pages/63d42a1442bd.md`）。法语侧（Egan、法国外交部 AAE CP E-U 系列）仅经 Perkins 转引，**未亲读**，列为缺口。

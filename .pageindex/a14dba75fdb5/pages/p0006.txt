@@ -1,0 +1,72 @@
+Environ. Res. Lett. 12 (2017) 074026
+
+
+
+Table 2. Differences in seasonal mean temperature and                temperature are 0.68, 0.66, and 0.73 for Tmin, Tmax
+precipitation sum between the years 1816 and 1817 and
+the historical reference period in observations (Obs) and
+                                                                     and mean temperature. The lower correlation
+reconstructions (Rec). Also indicated is the standard deviation      compared with those with Geneva and Delémont
+(s.d.) and ﬁrst-order autocorrelation of daily temperature           can be explained by the lower reporting precision of
+anomalies and precipitation sums as well as the correlation
+between Obs and Rec. Pearson correlations are used for               the Aarau data (1° Réaumur, i.e. 1.25 °C), and the fact
+temperature, Spearman correlations for precipitation.                that the Aarau data are in raw format and thus
+                  Temperature (°C)            Precipitation (mm)
+                                                                     potentially affected by error. Nevertheless, the
+Season            Obs         Rec            Obs         Rec         agreement shows that the reconstructions capture
+                                                                     the most important features of variability. Further-
+JFM 1816          0.30        −0.53           −9             −32    more, the reconstruction approach guarantees that
+AMJ 1816          1.34        −2.28           71               89   precipitation and temperature ﬁelds of each day are
+JAS 1816          2.27        −1.98          109               96   mutually consistent.
+OND 1816          0.04        −0.69         −19              −62
+                                                                         Finally, the spatial patterns of the anomalies are
+JFM 1817           2.30         1.12           10             −15
+AMJ 1817          1.10        −2.22            8             −31
+                                                                     consistent with the expected climatic processes. Figure
+JAS 1817           0.26         0.46           33             −21    3 shows anomaly ﬁelds (relative to 1800–1820) of Tmin,
+OND 1817          0.51        −1.41         −83             −137    Tmax, precipitation, and radiation averaged over the
+s.d.               3.39         3.28         5.87             5.49   growing season. Tmax is reduced in most areas (more
+r1                 0.76         0.68         0.21             0.30   strongly north of the Alps), while Tmin is reduced less
+r(Obs)                          0.86                          0.67   strongly in those areas that are normally affected by
+                                                                     cold air drainage ﬂows. This is consistent with an
+                                                                     analysis of station data in Brönnimann and Krämer
+(1982), SD was deﬁned as the sum of soil water                       (2016) and is expected from the work of Auchmann
+content (in mm) above the 30 cm level. Values for CS                 et al (2012, 2013) who found that cloud cover was one
+were used according to Evans and Skaggs (1984): 0.16                 of the main inﬂuences on temperature anomalies at
+(crop establishment), 0.18 (early vegetative stage), 0.38            that time.
+(late vegetative stage), 0.21 (ﬂowering), 0.06 (yield                    The precipitation anomaly shows the imprint of
+formation).                                                          weather systems travelling across Switzerland from the
+                                                                     west or northwest and of orographically enhanced
+                                                                     rainfall along the northern slope of the Alps. This is
+3. Results                                                           also mirrored in the radiation reconstruction. Overall,
+                                                                     we conclude that the reconstruction is physically
+3.1. Weather data                                                    consistent, statistically appropriate and spatially
+The weather reconstruction was assessed with respect                 meaningful (showing changes in cold air drainage).
+to bias, autocorrelation, variability, and extremes. A
+comparison of the gridded reconstructions for 1816                   3.2. Crop phenology
+and 1817 with the original observations for Geneva                   Table 3 presents simulated shifts in phenological
+(table 2) shows that seasonal mean anomalies are well                phases for winter barley, potato and maize. Since the
+reproduced in the reconstruction approach. Overall,                  crop model could only be calibrated for current crops
+reconstructions are somewhat too cold, most pro-                     and cultivars in Klein et al (2012), the simulated
+nounced in spring of 1816. The same is found in the                  changes cannot be considered fully representative for
+series of Delémont (not shown).                                      crops and cultivars grown in the 19th century.
+    The time series for observed and reconstructed                   Emergence is clearly delayed in all modelled crops
+daily mean temperatures and precipitation sums in                    in the ﬁrst year after the eruption (yr 1) and is even
+Geneva are shown in ﬁgure 2 for the year 1816.                       more delayed in the following year (yr 2) because of an
+Correlations (table 2) are 0.86 for temperature                      exceptionally cold spring in 1817. Except for winter
+anomalies and 0.67 for precipitation, respectively.                  barley, the delay of the remaining phenological phases
+The agreement is excellent with respect to both the                  is smaller in yr 2 as compared to yr 1. For yr 1, the
+magnitude of the anomalies and the sequence and                      longest delay is found for maize (4–7 weeks), except
+length of the cold spells or wet spells. The variance of             for harvest date, which for this crop is ﬁxed in the
+the anomalies as well as the ﬁrst-order autocorrelation              simulations. The longest delay in harvest date of 3
+(table 2) also agree well between reconstructions and                weeks is obtained for potato.
+observations.                                                            It is important to note that modelled delays in
+    Data from Geneva and Delémont entered the                        phenological phases and their differences between
+reconstruction, so they are not independent. The                     seasons and years are largely consistent with patterns
+daily ﬁelds were also evaluated by comparing the                     in observed shifts (tables 3 and 4). Phenological dates
+reconstructed data with an independent series from                   are available from observations reported in historical
+Aarau, for the year 1816 (for this comparison, all                   documents for the Swiss Plateau (from EURO-
+series were deseasonalized by subtracting the ﬁrst two               CLIMHIST, Pﬁster 2015, http://www.euroclimhist.
+harmonics of the year 1816). Correlations for                        unibe.ch/en), though not for the same crops and the
+
+                                                       5

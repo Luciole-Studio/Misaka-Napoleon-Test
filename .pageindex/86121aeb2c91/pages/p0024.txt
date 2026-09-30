@@ -1,0 +1,101 @@
+## Sheet: A4. Note denominations (continued)
+	A	B	C	D	E	F	G	H	I	J	K	L	M	N
+
+
+```meta
+▸ formulas
+    A16:A34 =R[-1]C+1
+    N12:N36 =RC[-1]-SUM(RC[-12]:RC[-2])
+    N39 =M39-SUM(B39:L39)
+    N43:N119 =RC[-1]-SUM(RC[-12]:RC[-2])
+▸ number-format
+    "£"#,##0;[Red]\-"£"#,##0 D8:H8,I9:K9
+    #,##0 N12:N36,N39,N43:N119
+    0 A39:A42,M39,B43:D83,M43:M119,F71:F119,E76:E119,G76:G119,H82:H119,C84:D119
+    0.0 B12:I36,M12:M36,B39:H39,J39:L39,E43:H68,J43:L68,I60:I68,E69:G70,L69:L75,E71:E75,G71:G75
+    0.00 I39,I43:I59
+▸ merged
+    G69:K69 (value at G69)
+    G70:K70 (value at G70)
+    G71:K71 (value at G71)
+    G72:K72 (value at G72)
+    G73:K73 (value at G73)
+    G74:K74 (value at G74)
+    G75:K75 (value at G75)
+    G76:L76 (value at G76)
+    G77:L77 (value at G77)
+    G78:L78 (value at G78)
+    G79:L79 (value at G79)
+    G80:L80 (value at G80)
+    G81:L81 (value at G81)
+    H100:L100 (value at H100)
+    H101:L101 (value at H101)
+    H102:L102 (value at H102)
+    H103:L103 (value at H103)
+    H104:L104 (value at H104)
+    H105:L105 (value at H105)
+    H106:L106 (value at H106)
+    H107:L107 (value at H107)
+    H108:L108 (value at H108)
+    H109:L109 (value at H109)
+    H110:L110 (value at H110)
+    H111:L111 (value at H111)
+    H112:L112 (value at H112)
+    H113:L113 (value at H113)
+    H114:L114 (value at H114)
+    H115:L115 (value at H115)
+    H116:L116 (value at H116)
+    H117:L117 (value at H117)
+    H118:L118 (value at H118)
+    H119:L119 (value at H119)
+    H82:L82 (value at H82)
+    H83:L83 (value at H83)
+    H84:L84 (value at H84)
+    H85:L85 (value at H85)
+    H86:L86 (value at H86)
+    H87:L87 (value at H87)
+    H88:L88 (value at H88)
+    H89:L89 (value at H89)
+    H90:L90 (value at H90)
+    H91:L91 (value at H91)
+    H92:L92 (value at H92)
+    H93:L93 (value at H93)
+    H94:L94 (value at H94)
+    H95:L95 (value at H95)
+    H96:L96 (value at H96)
+    H97:L97 (value at H97)
+    H98:L98 (value at H98)
+    H99:L99 (value at H99)
+    I12:L12 (value at I12)
+    I13:L13 (value at I13)
+    I14:L14 (value at I14)
+    I15:L15 (value at I15)
+    I16:L16 (value at I16)
+    I17:L17 (value at I17)
+    I18:L18 (value at I18)
+    I19:L19 (value at I19)
+    I20:L20 (value at I20)
+    I21:L21 (value at I21)
+    I22:L22 (value at I22)
+    I23:L23 (value at I23)
+    I24:L24 (value at I24)
+    I25:L25 (value at I25)
+    I26:L26 (value at I26)
+    I27:L27 (value at I27)
+    I28:L28 (value at I28)
+    I29:L29 (value at I29)
+    I30:L30 (value at I30)
+    I31:L31 (value at I31)
+    I32:L32 (value at I32)
+    I33:L33 (value at I33)
+    I34:L34 (value at I34)
+    I35:L35 (value at I35)
+    I36:L36 (value at I36)
+    I8:L8 (value at I8)
+▸ styles
+    bold: B1:B3,B8:I8,I9:L9,B10,B38
+    underline: A1
+▸ extras
+    comment I8:"Thomas, Ryland: Notes over £100 mainly used as bankers' rese"
+```
+

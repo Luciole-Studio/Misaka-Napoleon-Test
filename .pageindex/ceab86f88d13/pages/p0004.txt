@@ -1,0 +1,51 @@
+GRP : revues JOB : num121⊕xml DIV : 10⊕LevyGarbouaMonnet p. 2 folio : 36 --- 5/4/016 --- 16H4
+
+
+
+
+                                                            REVUE D’ÉCONOMIE FINANCIÈRE
+
+
+
+                          L’essentiel de notre contribution porte sur la construction et
+                       l’observation des séries statistiques relatives aux taux nominaux (les
+                       taux courts et longs) ainsi que du taux réel (long essentiellement). Nous
+                       ne nous intéressons pas au taux naturel, ni ne cherchons à construire un
+                       modèle reliant les différents taux monétaires et les grandeurs macro-
+                       économiques usuelles, comme le taux de croissance du produit inté-
+                       rieur brut (PIB), le taux d’inflation observé ou anticipé. En revanche,
+                       l’observation graphique ou statistique des corrélations dans le temps
+                       entre ces variables et des séries de taux construites vise à susciter de
+                       nouveaux questionnements théoriques.
+                          La première partie décrit les données utilisées. Puis l’article se pour-
+                       suit par une analyse des taux nominaux (deuxième partie), avant celle
+                       des taux réels et de leurs relations avec l’inflation et la croissance
+                       (troisième partie). Un « zoom » est ensuite réalisé sur la période d’après-
+                       guerre, qui permet en particulier de tester et de caractériser plus
+                       précisément la politique monétaire et la révolution qu’elle a connue
+                       (quatrième partie). Enfin, la conclusion et la synthèse rassemblent les
+                       résultats de toutes ces observations et proposent les enseignements qui
+                       paraissent s’en dégager de manière suffisamment robuste.
+
+     36                                            PRÉSENTATION DES DONNÉES
+                          Les données rassemblées proviennent de diverses sources et permet-
+                       tent d’établir une série de taux à long terme pour un actif sûr (proche
+                       d’une obligation d’État), une série de taux à court terme (taux inter-
+                       bancaires des effets à trois mois), et de les comparer au taux directeur
+                       de la banque centrale et au taux de rémunération du livret de caisse
+                       d’épargne.
+                          Le taux directeur de la banque centrale est le taux d’escompte (titres
+                       à trois mois) de la Banque de France entre 1800 à 19803, puis le taux
+                       d’intervention au jour le jour sur le marché monétaire de la Banque de
+                       France jusqu’à 1999 et enfin le taux de prêt marginal au jour le jour de
+                       la Banque centrale européenne (BCE).
+                          Pour le taux à long terme, nous créons une série la plus homogène
+                       possible qui représente le rendement d’un actif sûr (typiquement une
+                       obligation d’État ou d’entreprise publique) avec une longue maturité.
+                       Comme les caractéristiques des titres émis par l’État ou les entreprises
+                       ont changé au cours du temps, il est impossible d’avoir un taux unique
+                       sur une longue période. Jusqu’à la Seconde Guerre mondiale, nous
+                       prenons le taux de marché de la rente perpétuelle émise par l’État
+                       français, à 5 % avant 1825 et à 3 % ensuite4. Après 1945, la rente
+                       perpétuelle tombe en désuétude, elle n’est plus le moyen privilégié de
+                       financement de la dette publique et les épargnants se tournent vers

@@ -1,0 +1,374 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+Bosnia and Herzegovina,BIH,1841,969107
+Bosnia and Herzegovina,BIH,1842,975077
+Bosnia and Herzegovina,BIH,1843,981084
+Bosnia and Herzegovina,BIH,1844,987128
+Bosnia and Herzegovina,BIH,1845,993210
+Bosnia and Herzegovina,BIH,1846,999329
+Bosnia and Herzegovina,BIH,1847,1005485
+Bosnia and Herzegovina,BIH,1848,1011680
+Bosnia and Herzegovina,BIH,1849,1017912
+Bosnia and Herzegovina,BIH,1850,1024184
+Bosnia and Herzegovina,BIH,1851,1030556
+Bosnia and Herzegovina,BIH,1852,1036968
+Bosnia and Herzegovina,BIH,1853,1043420
+Bosnia and Herzegovina,BIH,1854,1049911
+Bosnia and Herzegovina,BIH,1855,1056444
+Bosnia and Herzegovina,BIH,1856,1063017
+Bosnia and Herzegovina,BIH,1857,1069631
+Bosnia and Herzegovina,BIH,1858,1076286
+Bosnia and Herzegovina,BIH,1859,1082982
+Bosnia and Herzegovina,BIH,1860,1089720
+Bosnia and Herzegovina,BIH,1861,1096500
+Bosnia and Herzegovina,BIH,1862,1103322
+Bosnia and Herzegovina,BIH,1863,1110187
+Bosnia and Herzegovina,BIH,1864,1117094
+Bosnia and Herzegovina,BIH,1865,1124044
+Bosnia and Herzegovina,BIH,1866,1131038
+Bosnia and Herzegovina,BIH,1867,1138075
+Bosnia and Herzegovina,BIH,1868,1145156
+Bosnia and Herzegovina,BIH,1869,1154610
+Bosnia and Herzegovina,BIH,1870,1166492
+Bosnia and Herzegovina,BIH,1871,1180854
+Bosnia and Herzegovina,BIH,1872,1197751
+Bosnia and Herzegovina,BIH,1873,1217239
+Bosnia and Herzegovina,BIH,1874,1237044
+Bosnia and Herzegovina,BIH,1875,1257172
+Bosnia and Herzegovina,BIH,1876,1277627
+Bosnia and Herzegovina,BIH,1877,1298414
+Bosnia and Herzegovina,BIH,1878,1319540
+Bosnia and Herzegovina,BIH,1879,1340499
+Bosnia and Herzegovina,BIH,1880,1361280
+Bosnia and Herzegovina,BIH,1881,1381873
+Bosnia and Herzegovina,BIH,1882,1402268
+Bosnia and Herzegovina,BIH,1883,1422454
+Bosnia and Herzegovina,BIH,1884,1442930
+Bosnia and Herzegovina,BIH,1885,1463700
+Bosnia and Herzegovina,BIH,1886,1484770
+Bosnia and Herzegovina,BIH,1887,1506143
+Bosnia and Herzegovina,BIH,1888,1527824
+Bosnia and Herzegovina,BIH,1889,1548935
+Bosnia and Herzegovina,BIH,1890,1569458
+Bosnia and Herzegovina,BIH,1891,1589373
+Bosnia and Herzegovina,BIH,1892,1608663
+Bosnia and Herzegovina,BIH,1893,1627307
+Bosnia and Herzegovina,BIH,1894,1646166
+Bosnia and Herzegovina,BIH,1895,1665245
+Bosnia and Herzegovina,BIH,1896,1684544
+Bosnia and Herzegovina,BIH,1897,1704067
+Bosnia and Herzegovina,BIH,1898,1723817
+Bosnia and Herzegovina,BIH,1899,1743795
+Bosnia and Herzegovina,BIH,1900,1764005
+Bosnia and Herzegovina,BIH,1901,1784449
+Bosnia and Herzegovina,BIH,1902,1805130
+Bosnia and Herzegovina,BIH,1903,1826050
+Bosnia and Herzegovina,BIH,1904,1847213
+Bosnia and Herzegovina,BIH,1905,1868622
+Bosnia and Herzegovina,BIH,1906,1890278
+Bosnia and Herzegovina,BIH,1907,1912185
+Bosnia and Herzegovina,BIH,1908,1934347
+Bosnia and Herzegovina,BIH,1909,1955182
+Bosnia and Herzegovina,BIH,1910,1974663
+Bosnia and Herzegovina,BIH,1911,1992763
+Bosnia and Herzegovina,BIH,1912,2009453
+Bosnia and Herzegovina,BIH,1913,2024705
+Bosnia and Herzegovina,BIH,1914,2040072
+Bosnia and Herzegovina,BIH,1915,2055556
+Bosnia and Herzegovina,BIH,1916,2071157
+Bosnia and Herzegovina,BIH,1917,2086877
+Bosnia and Herzegovina,BIH,1918,2102589
+Bosnia and Herzegovina,BIH,1919,2118419
+Bosnia and Herzegovina,BIH,1920,2134369
+Bosnia and Herzegovina,BIH,1921,2150438
+Bosnia and Herzegovina,BIH,1922,2166629
+Bosnia and Herzegovina,BIH,1923,2182941
+Bosnia and Herzegovina,BIH,1924,2199376
+Bosnia and Herzegovina,BIH,1925,2215935
+Bosnia and Herzegovina,BIH,1926,2232619
+Bosnia and Herzegovina,BIH,1927,2249428
+Bosnia and Herzegovina,BIH,1928,2266364
+Bosnia and Herzegovina,BIH,1929,2283427
+Bosnia and Herzegovina,BIH,1930,2300619
+Bosnia and Herzegovina,BIH,1931,2317940
+Bosnia and Herzegovina,BIH,1932,2335392
+Bosnia and Herzegovina,BIH,1933,2352975
+Bosnia and Herzegovina,BIH,1934,2370690
+Bosnia and Herzegovina,BIH,1935,2388539
+Bosnia and Herzegovina,BIH,1936,2406522
+Bosnia and Herzegovina,BIH,1937,2424641
+Bosnia and Herzegovina,BIH,1938,2442896
+Bosnia and Herzegovina,BIH,1939,2461288
+Bosnia and Herzegovina,BIH,1940,2479819
+Bosnia and Herzegovina,BIH,1941,2498489
+Bosnia and Herzegovina,BIH,1942,2517300
+Bosnia and Herzegovina,BIH,1943,2536253
+Bosnia and Herzegovina,BIH,1944,2555348
+Bosnia and Herzegovina,BIH,1945,2574587
+Bosnia and Herzegovina,BIH,1946,2593971
+Bosnia and Herzegovina,BIH,1947,2613501
+Bosnia and Herzegovina,BIH,1948,2633178
+Bosnia and Herzegovina,BIH,1949,2659586
+Bosnia and Herzegovina,BIH,1950,2690407
+Bosnia and Herzegovina,BIH,1951,2730245
+Bosnia and Herzegovina,BIH,1952,2774688
+Bosnia and Herzegovina,BIH,1953,2829229
+Bosnia and Herzegovina,BIH,1954,2890205
+Bosnia and Herzegovina,BIH,1955,2952172
+Bosnia and Herzegovina,BIH,1956,3015555
+Bosnia and Herzegovina,BIH,1957,3079942
+Bosnia and Herzegovina,BIH,1958,3145429
+Bosnia and Herzegovina,BIH,1959,3212369
+Bosnia and Herzegovina,BIH,1960,3281387
+Bosnia and Herzegovina,BIH,1961,3348038
+Bosnia and Herzegovina,BIH,1962,3407536
+Bosnia and Herzegovina,BIH,1963,3461941
+Bosnia and Herzegovina,BIH,1964,3513443
+Bosnia and Herzegovina,BIH,1965,3562844
+Bosnia and Herzegovina,BIH,1966,3610570
+Bosnia and Herzegovina,BIH,1967,3656227
+Bosnia and Herzegovina,BIH,1968,3698804
+Bosnia and Herzegovina,BIH,1969,3737769
+Bosnia and Herzegovina,BIH,1970,3773248
+Bosnia and Herzegovina,BIH,1971,3809388
+Bosnia and Herzegovina,BIH,1972,3848278
+Bosnia and Herzegovina,BIH,1973,3887374
+Bosnia and Herzegovina,BIH,1974,3926471
+Bosnia and Herzegovina,BIH,1975,3965749
+Bosnia and Herzegovina,BIH,1976,4004560
+Bosnia and Herzegovina,BIH,1977,4042136
+Bosnia and Herzegovina,BIH,1978,4078246
+Bosnia and Herzegovina,BIH,1979,4113302
+Bosnia and Herzegovina,BIH,1980,4148427
+Bosnia and Herzegovina,BIH,1981,4184220
+Bosnia and Herzegovina,BIH,1982,4221104
+Bosnia and Herzegovina,BIH,1983,4258736
+Bosnia and Herzegovina,BIH,1984,4295538
+Bosnia and Herzegovina,BIH,1985,4330362
+Bosnia and Herzegovina,BIH,1986,4362114
+Bosnia and Herzegovina,BIH,1987,4390248
+Bosnia and Herzegovina,BIH,1988,4414409
+Bosnia and Herzegovina,BIH,1989,4433985
+Bosnia and Herzegovina,BIH,1990,4448658
+Bosnia and Herzegovina,BIH,1991,4458350
+Bosnia and Herzegovina,BIH,1992,4234620
+Bosnia and Herzegovina,BIH,1993,3904484
+Bosnia and Herzegovina,BIH,1994,3725412
+Bosnia and Herzegovina,BIH,1995,3715565
+Bosnia and Herzegovina,BIH,1996,3875246
+Bosnia and Herzegovina,BIH,1997,4018228
+Bosnia and Herzegovina,BIH,1998,4089357
+Bosnia and Herzegovina,BIH,1999,4130312
+Bosnia and Herzegovina,BIH,2000,4159785
+Bosnia and Herzegovina,BIH,2001,4179446
+Bosnia and Herzegovina,BIH,2002,4188006
+Bosnia and Herzegovina,BIH,2003,4178523
+Bosnia and Herzegovina,BIH,2004,4140990
+Bosnia and Herzegovina,BIH,2005,4096493
+Bosnia and Herzegovina,BIH,2006,4063269
+Bosnia and Herzegovina,BIH,2007,4013420
+Bosnia and Herzegovina,BIH,2008,3947545
+Bosnia and Herzegovina,BIH,2009,3879798
+Bosnia and Herzegovina,BIH,2010,3811480
+Bosnia and Herzegovina,BIH,2011,3741799
+Bosnia and Herzegovina,BIH,2012,3670109
+Bosnia and Herzegovina,BIH,2013,3610857
+Bosnia and Herzegovina,BIH,2014,3564831
+Bosnia and Herzegovina,BIH,2015,3518541
+Bosnia and Herzegovina,BIH,2016,3472997
+Bosnia and Herzegovina,BIH,2017,3428684
+Bosnia and Herzegovina,BIH,2018,3386999
+Bosnia and Herzegovina,BIH,2019,3345532
+Bosnia and Herzegovina,BIH,2020,3299352
+Bosnia and Herzegovina,BIH,2021,3244912
+Bosnia and Herzegovina,BIH,2022,3204802
+Bosnia and Herzegovina,BIH,2023,3185072
+Botswana,BWA,-10000,28
+Botswana,BWA,-9000,57
+Botswana,BWA,-8000,115
+Botswana,BWA,-7000,231
+Botswana,BWA,-6000,463
+Botswana,BWA,-5000,927
+Botswana,BWA,-4000,1854
+Botswana,BWA,-3000,3709
+Botswana,BWA,-2000,7419
+Botswana,BWA,-1000,14838
+Botswana,BWA,0,29676
+Botswana,BWA,100,31875
+Botswana,BWA,200,34236
+Botswana,BWA,300,36772
+Botswana,BWA,400,39496
+Botswana,BWA,500,42421
+Botswana,BWA,600,45564
+Botswana,BWA,700,48939
+Botswana,BWA,800,52564
+Botswana,BWA,900,56458
+Botswana,BWA,1000,60640
+Botswana,BWA,1100,65132
+Botswana,BWA,1200,69956
+Botswana,BWA,1300,75138
+Botswana,BWA,1400,80704
+Botswana,BWA,1500,86682
+Botswana,BWA,1600,93103
+Botswana,BWA,1700,100000
+Botswana,BWA,1710,102013
+Botswana,BWA,1720,103479
+Botswana,BWA,1730,105031
+Botswana,BWA,1740,106680
+Botswana,BWA,1750,108436
+Botswana,BWA,1760,110311
+Botswana,BWA,1770,112321
+Botswana,BWA,1780,114483
+Botswana,BWA,1790,116820
+Botswana,BWA,1800,121000
+Botswana,BWA,1801,120541
+Botswana,BWA,1802,120083
+Botswana,BWA,1803,119627
+Botswana,BWA,1804,119173
+Botswana,BWA,1805,118721
+Botswana,BWA,1806,118270
+Botswana,BWA,1807,117821
+Botswana,BWA,1808,117374
+Botswana,BWA,1809,116928
+Botswana,BWA,1810,116486
+Botswana,BWA,1811,116044
+Botswana,BWA,1812,115604
+Botswana,BWA,1813,115165
+Botswana,BWA,1814,114728
+Botswana,BWA,1815,114292
+Botswana,BWA,1816,113858
+Botswana,BWA,1817,113426
+Botswana,BWA,1818,112995
+Botswana,BWA,1819,112567
+Botswana,BWA,1820,112139
+Botswana,BWA,1821,111714
+Botswana,BWA,1822,111289
+Botswana,BWA,1823,110867
+Botswana,BWA,1824,110446
+Botswana,BWA,1825,110027
+Botswana,BWA,1826,109609
+Botswana,BWA,1827,109193
+Botswana,BWA,1828,108779
+Botswana,BWA,1829,108366
+Botswana,BWA,1830,107954
+Botswana,BWA,1831,107545
+Botswana,BWA,1832,107136
+Botswana,BWA,1833,106730
+Botswana,BWA,1834,106325
+Botswana,BWA,1835,105921
+Botswana,BWA,1836,105519
+Botswana,BWA,1837,105118
+Botswana,BWA,1838,104719
+Botswana,BWA,1839,104322
+Botswana,BWA,1840,103926
+Botswana,BWA,1841,103531
+Botswana,BWA,1842,103138
+Botswana,BWA,1843,102747
+Botswana,BWA,1844,102357
+Botswana,BWA,1845,101968
+Botswana,BWA,1846,101581
+Botswana,BWA,1847,101196
+Botswana,BWA,1848,100811
+Botswana,BWA,1849,100707
+Botswana,BWA,1850,100884
+Botswana,BWA,1851,101340
+Botswana,BWA,1852,102081
+Botswana,BWA,1853,103108
+Botswana,BWA,1854,104146
+Botswana,BWA,1855,105194
+Botswana,BWA,1856,106253
+Botswana,BWA,1857,107323
+Botswana,BWA,1858,108403
+Botswana,BWA,1859,109494
+Botswana,BWA,1860,110596
+Botswana,BWA,1861,111709
+Botswana,BWA,1862,112834
+Botswana,BWA,1863,113969
+Botswana,BWA,1864,115117
+Botswana,BWA,1865,116275
+Botswana,BWA,1866,117446
+Botswana,BWA,1867,118628
+Botswana,BWA,1868,119822
+Botswana,BWA,1869,121028
+Botswana,BWA,1870,122246
+Botswana,BWA,1871,123477
+Botswana,BWA,1872,124720
+Botswana,BWA,1873,125975
+Botswana,BWA,1874,127243
+Botswana,BWA,1875,128524
+Botswana,BWA,1876,129817
+Botswana,BWA,1877,131124
+Botswana,BWA,1878,132444
+Botswana,BWA,1879,133777
+Botswana,BWA,1880,135124
+Botswana,BWA,1881,136484
+Botswana,BWA,1882,137857
+Botswana,BWA,1883,139245
+Botswana,BWA,1884,140647
+Botswana,BWA,1885,142062
+Botswana,BWA,1886,143492
+Botswana,BWA,1887,144937
+Botswana,BWA,1888,146395
+Botswana,BWA,1889,147869
+Botswana,BWA,1890,149357
+Botswana,BWA,1891,150861
+Botswana,BWA,1892,152379
+Botswana,BWA,1893,153913
+Botswana,BWA,1894,155462
+Botswana,BWA,1895,157027
+Botswana,BWA,1896,158608
+Botswana,BWA,1897,160204
+Botswana,BWA,1898,161817
+Botswana,BWA,1899,163655
+Botswana,BWA,1900,165725
+Botswana,BWA,1901,168032
+Botswana,BWA,1902,170582
+Botswana,BWA,1903,173381
+Botswana,BWA,1904,176226
+Botswana,BWA,1905,179118
+Botswana,BWA,1906,182058
+Botswana,BWA,1907,185045
+Botswana,BWA,1908,188082
+Botswana,BWA,1909,191132
+Botswana,BWA,1910,194195
+Botswana,BWA,1911,197270
+Botswana,BWA,1912,200357
+Botswana,BWA,1913,203456
+Botswana,BWA,1914,206603
+Botswana,BWA,1915,209799
+Botswana,BWA,1916,213044
+Botswana,BWA,1917,216340
+Botswana,BWA,1918,219694
+Botswana,BWA,1919,223349
+Botswana,BWA,1920,227317
+Botswana,BWA,1921,231606
+Botswana,BWA,1922,236228
+Botswana,BWA,1923,241193
+Botswana,BWA,1924,246262
+Botswana,BWA,1925,251437
+Botswana,BWA,1926,256722
+Botswana,BWA,1927,262117
+Botswana,BWA,1928,267626
+Botswana,BWA,1929,273204
+Botswana,BWA,1930,278852
+Botswana,BWA,1931,284571
+Botswana,BWA,1932,290360
+Botswana,BWA,1933,296221
+Botswana,BWA,1934,302200
+Botswana,BWA,1935,308300
+Botswana,BWA,1936,314523
+Botswana,BWA,1937,320871
+Botswana,BWA,1938,327348
+Botswana,BWA,1939,333887
+Botswana,BWA,1940,340490
+Botswana,BWA,1941,347156
+Botswana,BWA,1942,353884
+Botswana,BWA,1943,360675
+Botswana,BWA,1944,367597
+Botswana,BWA,1945,374651
+Botswana,BWA,1946,381841
+Botswana,BWA,1947,389168
+Botswana,BWA,1948,396637
+Botswana,BWA,1949,404733
+Botswana,BWA,1950,413708
+Botswana,BWA,1951,423568

@@ -1,0 +1,137 @@
+
+
+Foldoutcount
+
+0
+
+Identifier
+
+abstractofbritis0000mitc
+
+Identifier-ark
+
+ark:/13960/t5t805q58
+
+Invoice
+
+1652
+
+Isbn
+
+0521057388
+
+Ocr
+
+ABBYY FineReader 11.0 (Extended OCR)
+
+Ocr_converted
+
+abbyy-to-hocr 1.1.7
+
+Ocr_module_version
+
+0.0.13
+
+Old_pallet
+
+IA13634
+
+Openlibrary_edition
+
+[OL22469321M](https://openlibrary.org/books/OL22469321M)
+
+Openlibrary_work
+
+[OL10500932W](https://openlibrary.org/works/OL10500932W)
+
+Page_number_confidence
+
+91
+
+Page_number_module_version
+
+1.0.5
+
+Pages
+
+538
+
+Ppi
+
+300
+
+Republisher_date
+
+20190710212716
+
+Republisher_operator
+
+associate-ronil-villaceran@archive.org
+
+Republisher_time
+
+810
+
+Scandate
+
+20190710114658
+
+Scanner
+
+station10.cebu.archive.org
+
+Scanningcenter
+
+cebu
+
+Scribe3_search_catalog
+
+trent
+
+Scribe3_search_id
+
+0116301909267
+
+Tts_version
+
+2.1-final-6-g58a4a27
+
+Show More
+
+Show Less
+
+Full catalog record
+
+[MARCXML](https://archive.org/download/abstractofbritis0000mitc/abstractofbritis0000mitc_archive_marc.xml)
+
+##
+
+plus-circle Add Review
+
+comment
+
+Reviews
+
+1,976
+
+Previews
+
+41 Favorites
+
+#
+DOWNLOAD OPTIONS
+
+No suitable files to display here.
+
+# IN COLLECTIONS
+
+[Trent University Library Donation](https://archive.org/details/trent_university) [Internet Archive Books](https://archive.org/details/internetarchivebooks)
+
+Uploaded by
+[station10.cebu](https://archive.org/details/@station10_cebu)
+
+on July 10, 2019
+
+# SIMILAR ITEMS (based on metadata)
+
+[Terms of Service (last updated 12/31/2014)](https://archive.org/about/terms)

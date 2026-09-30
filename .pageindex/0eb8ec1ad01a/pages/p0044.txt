@@ -1,0 +1,43 @@
+We then construct an indicator variable if there is evidence that any of the ethnic groups have
+
+domestic slavery, whether it is hereditary or otherwise. We also assign a value of one to the variable
+
+if there is evidence of serfdom in 1700. This information is from Ingram (1895).
+
+
+City-level variables
+
+Data on the populations of cities with more than 20,000 inhabitants are from Chandler (1987),
+
+Bairoch (1988) and Modelski (2003). The locations of cities were identified using the global
+
+gazetteer Geonames, which is accessible at: www.geonames.org.
+
+   Data on the suitability of the climate of a city for growing various crops are from the FAO’s
+
+Global Agro-Ecological Zones (GAEZ) 2002 database. The data are publicly available and can be
+
+downloaded from: http://www.iiasa.ac.at/Research/LUC/SAEZ/index.html. We use their un-
+
+derlying grid-cell data, which are available as GIS raster files. City level suitability is defined as
+
+the suitability of grid-cells within a 100 kilometer radius of the city.
+
+   The underlying data used to construct city-level measures of ruggedness are from the FAO’s
+
+Terrastat 2002 data compilation. The data are originally from the USGS GPOTO 30 elevation grid,
+
+which is the same source used by Nunn and Puga (2007) to construct a country-level measure
+
+of terrain ruggedness. Ruggedness is measured as the average uphill slope of land within a 100
+
+kilometer radius of the city. Data used to construct each city’s average elevation (measured in
+
+meters) is from Global Mapping International’s Seamless Digital Chart of the World Base Map
+
+(DCW), version 3.2.
+
+
+
+
+                                                   42

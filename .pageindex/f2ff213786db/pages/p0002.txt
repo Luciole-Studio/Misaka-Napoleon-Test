@@ -1,0 +1,85 @@
+
+
+Forme précise
+
+- [Historical time series, interest rates (anglais)](https://didomena.ehess.fr/catalog?f%5Badditional_resource_type_ssim%5D%5B%5D=historical+time+series%2C+interest+rates+%28anglais%29&locale=fr)
+
+Licence
+
+- [Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions (CC BY-NC-SA 3.0 FR)](https://didomena.ehess.fr/licenses#https://creativecommons.org/licenses/by-nc-sa/3.0/fr/)
+- [Attribution - Pas d’Utilisation Commerciale (CC BY-NC 3.0 FR)](https://didomena.ehess.fr/licenses#https://creativecommons.org/licenses/by-nc/3.0/fr/)
+
+### Relations
+
+### Contenu
+
+Miniature
+
+Titre
+
+Date de dépôt
+
+Visibilité
+
+actions
+
+[REF121_Levy-Garboua_Monnet.pdf](https://didomena.ehess.fr/concern/parent/1v53jx639/file_sets/tq57nr79r)
+
+2020-10-05
+
+Public
+
+Appuyez sur pour
+Sélectionnez une action
+
+- [Télécharger](https://didomena.ehess.fr/downloads/tq57nr79r?locale=fr)
+
+[tauxFrance1800_2015.xlsx](https://didomena.ehess.fr/concern/parent/1v53jx639/file_sets/2227mq56p)
+
+2020-10-05
+
+Public
+
+Appuyez sur pour
+Sélectionnez une action
+
+- [Télécharger](https://didomena.ehess.fr/downloads/2227mq56p?locale=fr)
+
+Si vous attribuez un DOI à ce jeu de données, vous ne pourrez plus le supprimer ni restreindre sa visibilité.
+Vous pourrez encore modifier les métadonnées, ajouter ou substituer des fichiers.
+
+Je veux réfléchir encore Je confirme ma demande de DOI
+
+Didόmena [Accueil](https://didomena.ehess.fr/?locale=fr)
+[À propos](https://didomena.ehess.fr/about?locale=fr)
+[Contact](https://didomena.ehess.fr/contact?locale=fr)
+[Conditions d'utilisation](https://didomena.ehess.fr/agreement?locale=fr)
+[Mentions légales](https://didomena.ehess.fr/terms?locale=fr)
+
+Services numériques de l'EHESS [Direction des systèmes d'information](http://services-numeriques.ehess.fr/)
+[Site web institutionnel](https://www.ehess.fr/)
+[Plateforme géomatique de l'EHESS](https://psigehess.hypotheses.org/)
+
+CONTACTEZ-NOUS EHESS (SIÈGE),
+
+54 boulevard
+Raspail,
+
+75006 Paris
+
+TÉL : 01 49 54 25 25
+
+[Paris](https://www.ehess.fr/fr/r%C3%A9-emm%C3%A9nagement-si%C3%A8ge-54) -
+[Lyon](https://www.ehess.fr/fr/p%C3%B4le-r%C3%A9gional-lyon)
+-
+[Toulouse](https://www.ehess.fr/fr/ehess-toulouse)
+-
+[Marseille](https://www.ehess.fr/fr/p%C3%B4le-r%C3%A9gional-marseille)
+
+Suivez-nous
+
+[](https://www.facebook.com/ehess.fr/) [](https://twitter.com/ehess_fr) [](https://fr.linkedin.com/edu/ehess---%C3%A9cole-des-hautes-%C3%A9tudes-en-sciences-sociales-21251)
+
+Powered by v3.0.0
+
+Copyright © 2018-2019 École des Hautes Études en Sciences Sociales

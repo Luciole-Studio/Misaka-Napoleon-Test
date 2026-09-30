@@ -1,0 +1,45 @@
+1060                            Rouanet and Piano
+
+conscription was easier (harder) to enforce were now asked to contribute
+more (fewer) men to the nation’s armed forces.
+   To provide evidence of the determinants and consequences of France’s
+discriminatory conscription policy, we introduce an original dataset
+that uses documents from the Archives Nationales in Paris. Our dataset
+contains yearly department-level data on draft dodging rates, conscription
+rates, enforcement efforts, and other military and administrative variables
+for the period between 1806 and 1810.5 We combine these with various
+measures of geographical characteristics, most prominently geocoded
+data on terrain ruggedness from Nunn and Puga (2012), distance from
+Paris, traveling costs from Paris, and whether a department shared a
+border with a foreign country.
+   We leverage these data in a series of empirical exercises. First, we
+show that the prevalence of draft dodging was a function of the govern-
+ment’s enforcement costs by investigating the relationship between
+terrain ruggedness and the draft-dodging rate across departments. We
+find that a one standard deviation increase in the natural logarithm of
+terrain ruggedness raised a department’s draft dodging rate by 2.9 to
+6.3 percentage points. We then perform a case study of Haute-Vienne, a
+department from the Nouvelle-Aquitaine region of France, for which we
+are able to access data at a smaller administrative (i.e., cantonal) level.
+The results of this case study show that a canton’s geographic character-
+istics predict draft-dodging rates at home but not desertion rates outside
+Haute-Vienne after soldiers have joined their unit. This is consistent with
+the view that geography affected the prevalence of draft dodging via its
+effect on the government’s ability to enforce the draft rather than via
+more indirect socio-economic channels.
+   Second, we provide evidence for the Napoleonic regime’s adoption
+of discriminatory conscription enforcement policy by showing a large,
+negative, and statistically significant relationship between a department’s
+ruggedness and its conscription rate. We find that a one standard deviation
+increase in the natural logarithm of terrain ruggedness predicts a conscrip-
+tion rate between 0.8 and 2.4 percentage points lower. We corroborate
+these results by way of an event study. In 1808/09, Napoléon’s minister
+of war, Jean-Gérard Lacuée, developed and then implemented a reform
+of France’s draft system. Our event study of Lacuée’s reform shows
+that it reduced the conscription rate in exactly those departments he had
+
+  5
+   Departments were Napoleonic France’s fundamental administrative unit below the national
+government. For the period under consideration, the borders of France extended over regions of
+Switzerland, Italy, Germany, and Belgium, which had recently been annexed over the previous
+decade.

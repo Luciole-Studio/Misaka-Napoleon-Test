@@ -1,0 +1,28 @@
+---
+source_url: "https://de.wikipedia.org/wiki/W%C3%BCrttembergische_Landst%C3%A4nde"
+final_url: "https://de.wikipedia.org/wiki/W%C3%BCrttembergische_Landst%C3%A4nde"
+provider: "exa"
+text_sha256: "3e7787714e8464f713a102aac473983651078a1fcead49918e1d5bbcd11456c6"
+title: "W\u00fcrttembergische Landst\u00e4nde"
+content_kind: "page_text"
+---
+
+Württembergische Landstände
+
+Blick auf die württembergischen Landtagsgebäude in der Stuttgarter Kronprinzstraße im 19. Jahrhundert. Links an der Ecke zur Kienestraße stand das Gebäude der Ersten Kammer (Kammer der Standesherren), ganz rechts das Gebäude der Zweiten Kammer (Kammer der Abgeordneten) mit dem Halbmondsaal.
+
+1957 erinnerte die Deutsche Bundespost mit einer Sonderbriefmarke an den 500. Jahrestag der ersten nachweisbaren württembergischen Landtage
+
+Die Württembergischen Landstände waren ein vom 15. bis zum Beginn des 20. Jahrhunderts existierendes Repräsentativorgan Württembergs und spielten eine wichtige historische Rolle. Die Geschichte dieser Landstände gliedert sich in zwei Perioden:
+
+Die erste und bei weitem längere beginnt mit den dokumentierten altwürttembergischen Landtagen des Jahres 1457 in Stuttgart und Leonberg. In Württemberg schied der Adelsstand mit der Reformation aus der Landschaft aus. [1] Die beiden verbliebenen Stände, die evangelische Geistlichkeit und das Bürgertum, versammelten sich in den Landtagssitzungen gemeinsam und nicht, wie in den anderen deutschen Territorien üblich, getrennt in die drei klassischen Stände Adel, Klerus und Bürgertum. Die Geistlichkeit und das Bürgertum verschmolzen im Laufe des 16. Jahrhunderts zu einem einzigen Stand, der württembergischen Ehrbarkeit. Das Fehlen des Adels verlieh der Landschaft ein stärker „demokratisches“ Element als andernorts. Im Jahre 1805, als Kurfürst Friedrich die altständische Verfassung des Herzogtums Württemberg aufhob, gab es bis zum Ende der Napoleonischen Kriege keine württembergischen Landtage.
+
+Die zweite Phase der Geschichte der württembergischen Landstände reicht vom Jahre 1815 bis zur Novemberrevolution. Der Landtag bestand von 1819 bis 1918 aus den beiden Kammern der Standesherren (Erste Kammer) und der Abgeordneten (Zweite Kammer). Die Altrechtler der Abgeordnetenkammer (Zweite Kammer) sahen sich in der Tradition der altwürttembergischen Landschaft. Die Zweite Kammer war zudem die Vorläuferin der württembergischen Volksvertretung, die in der Zeit der Weimarer Republik auf einer demokratischen Verfassung beruhte und nur noch aus einer Kammer bestand.
+
+## Die Landschaft Altwürttembergs
+
+Erste Seite des Münsinger Vertrags im Hauptstaatsarchiv Stuttgart
+
+### Die Entstehung
+
+Die Mitwirkung württembergischer Landstände bei politischen Entscheidungen hatte eine lange Tradition. Zum Abschluss des Friedensvertrages Graf Eberhards des Erlauchten mit der Reichsstadt Esslingen am 20. Dezember 1316 entsandten acht württembergische Städte ihre Vertreter aus der Landschaft. Die Landschaft spielte im 15. Jahrhundert eine zunehmend wichtigere Rolle, insbesondere nachdem die Grafschaft Württemberg im Nürtinger Vertrag von 25. Januar 1442 in die Linien Stuttgart und Urach aufgeteilt worden war. Für das Jahr 1457 sind erstmals zwei württembergische Landtage klar dokumentiert, wobei sich die Delegierten der Stuttgarter Landeshälfte vermutlich im Sommer im Herrenhaus am Stuttgarter Marktplatz versammelten und diejenigen der Uracher Landeshälfte im November das Gasthaus Schwarzer Adler in Leonberg gemäß unsicherer mündlicher Überlieferung als Versammlungsort wählten. Gegenstand der Beratungen in Stuttgart war der drohende Krieg mit der Kurpfalz, für den Graf Ulrich V. von Württemberg-Stuttgart die finanzielle Hilfe der Landstände suchte.

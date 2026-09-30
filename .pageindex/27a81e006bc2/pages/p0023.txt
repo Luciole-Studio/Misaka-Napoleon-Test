@@ -1,0 +1,45 @@
+My approach is, thus, freely inspired by Webb (1986) in that it allows detecting the
+events that influenced contemporaries’ perceptions in real time by combining ex-ante
+agnostic break tests and the reading of contemporary sources. The appendix (subsection
+A2) provides an example of how this methodology forestalls detecting events that suffer
+from ex post bias.
+
+
+Some Econometrics
+
+
+The procedure used to estimate the break dates is based on Bai and Perron (1998 and
+2003).13 It offers the advantage of allowing for a very wide range of specifications (serial
+correlation and heteroskedasticity in the errors, lagged dependent variables, trending
+regressors, as well as different distributions for the errors and the regressors across differ-
+ent segments). The procedure also encompasses a whole battery of different break point
+tests (sequential and global methods), increasing greatly the robustness of results.
+
+
+Consider the following multiple linear regression model with m breaks and m+1 regimes:
+
+
+
+
+                                                  0        0
+                                           yt = xt β + zt δj + ut                                      (1)
+
+for t = Tj−1 + 1, .., Tj and j = 1, .., m + 1. yt is the observed endogenous variable,
+xt (p × 1) and zt (q × 1) are vectors of co-variates and β and δj are the corresponding
+vectors of coefficients. ut is the disturbance at time t. Given the T observations of
+(yt , xt , zt ) I attempt to estimate the unknown regression coefficients β and δj and break
+dates. For the agio, I will posit that all coefficients are subject to change, obtaining a
+pure structural change model (p = 0) of the following form:
+
+
+
+
+                                                      0
+                                              yt = zt δj + ut                                          (2)
+  13
+       Various other studies in the field of economic history have used break point tests; a non-exhaustive
+list includes: Guinanne et al., 1996; Brown and Burdekin, 2000; Frey and Kucher, 2001; Oosterlinck,
+2003; Frey and Waldenström, 2008; Zussman et al., 2007; Flandreau and Oosterlinck, 2011.
+
+
+                                                      21

@@ -1,0 +1,13 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: F2_service_definition_bridge.csv
+
+```meta
+▸ table "F2_service_definition_bridge.csv" (5 data rows)
+```
+case,population_denominator,annual_calls_per1000,conversion_s,total_contract_years,training_years,deployable_cohorts,post_training_retention,hazard_retirement_parameter,stock_factor,availability_q,reliability_rho,security_present_per1000,trained_gross_per1000,reliable_present_per1000,net_present_per1000,calls_per1000_for_zero_balance,rho_for_zero_balance,status,warning
+F2_legacy_hazard6,1000,2.0,0.9,,1,,0.975,0.16666666666666666,5.217391304347826,0.85,0.6,4.0,9.391304347826088,4.789565217391305,0.7895652173913046,1.6702977487291215,0.5010893246187363,conditional_model_not_estimated;no_probability,Finite_term_includes_training;hazard6_is_not_same_contract;new_arm_does_not_rewrite_legacy_S6
+fixed_total5_includes_training1,1000,2.0,0.9,5,1,4,0.975,,3.852484375,0.85,0.6,4.0,6.934471875,3.5365806562499995,-0.4634193437500005,2.262071977875593,0.6786215933626779,conditional_model_not_estimated;no_probability,Finite_term_includes_training;hazard6_is_not_same_contract;new_arm_does_not_rewrite_legacy_S6
+fixed_total6_includes_training1,1000,2.0,0.9,6,1,5,0.975,,4.756172265625,0.85,0.6,4.0,8.561110078125,4.36616613984375,0.3661661398437497,1.8322710917927398,0.549681327537822,conditional_model_not_estimated;no_probability,Finite_term_includes_training;hazard6_is_not_same_contract;new_arm_does_not_rewrite_legacy_S6
+fixed_total7_includes_training1,1000,2.0,0.9,7,1,6,0.975,,5.637267958984374,0.85,0.6,4.0,10.147082326171875,5.1750119863476565,1.1750119863476565,1.5458901392122426,0.4637670417636727,conditional_model_not_estimated;no_probability,Finite_term_includes_training;hazard6_is_not_same_contract;new_arm_does_not_rewrite_legacy_S6
+fixed_total5_retention90_stress,1000,2.0,0.9,5,1,4,0.9,,3.439,0.85,0.6,4.0,6.1902,3.157002,-0.8429980000000001,2.5340497091861205,0.760214912755836,conditional_model_not_estimated;no_probability,Finite_term_includes_training;hazard6_is_not_same_contract;new_arm_does_not_rewrite_legacy_S6

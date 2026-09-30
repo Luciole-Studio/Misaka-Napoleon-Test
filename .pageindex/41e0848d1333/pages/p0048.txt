@@ -1,0 +1,29 @@
+                                                                            Table 14: Past and Contemporaneous Cooperation
+
+                                      (1)            (2)           (3)             (4)            (5)           (6)           (7)           (8)            (9)         ticolumn1c(10)          (11)          (12)
+                                     Trust          Trust         Trust           Trust          Trust         Trust         Trust         Trust          Trust              Trust             Trust         Trust
+
+
+        Trade p.c.                 3.557***                                                                                 1.640*
+                                    (0.889)                                                                                 (0.864)
+        Craft                                      0.467*                                                                                  0.257
+                                                   (0.208)                                                                                (0.228)
+        Factory                                                  0.179**                                                                                 0.175*
+                                                                 (0.0682)                                                                               (0.0804)
+        TrFaCr                                                                  0.199***                                                                                   0.173**
+                                                                                (0.0561)                                                                                   (0.0718)
+        Firemen p.c.                                                                             2.178                                                                                         -0.908
+                                                                                                (5.875)                                                                                       (5.704)
+        Member p.c.                                                                                            -0.820                                                                                        -1.920
+                                                                                                              (2.546)                                                                                       (2.729)
+46
+        Individual Controls           No             No            No              No             No            No            Yes           Yes           Yes                Yes                Yes           Yes
+        Fed. States FE                Yes            Yes           Yes             Yes            Yes           Yes           Yes           Yes           Yes                Yes                Yes           Yes
+
+        Observations                 6,311          6,311         6,311           6,311          6,311         6,311         6,311         6,311         6,311              6,311              6,311        6,311
+        R-squared                    0.025          0.025         0.026           0.025          0.025         0.025         0.073         0.073         0.074              0.074              0.073        0.074
+
+     Notes: OLS regressions. Dependent variables: Trust is the average of answers given to the following questions: “On the whole one cannot trust people”, “Nowadays one can’t rely on anyone” “If one is dealing with
+     strangers, it is better to be careful before one can trust them”.
+     Sources: German Socio-Economic Panel, wave 2003, Becker et al. (2012) and Second Statistical Yearbook of Germany Gymnast Clubs, Hirth, 1865. Heteroscedastic-robust standard errors in parentheses, clustered at
+     the Federal State. ∗ p < 0.10, ∗∗ p < 0.05, ∗∗∗ p < 0.01

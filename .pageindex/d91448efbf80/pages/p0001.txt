@@ -1,0 +1,29 @@
+# HT 笔记①｜Leclerc远征的投送账与黄热病生态陷阱
+
+来源A＝Philippe R. Girard, “The Ugly Duckling: The French Navy and the Saint-Domingue Expedition, 1801-1803,” *International Journal of Naval History*（在线全文，基于 SHD-DM BB4、AN CC9、BNA ADM/CO、Rochambeau Papers-UF 档案）。本地缓存 `downloads/pages/aee76684456e.md`（99,280字符，已读头29,917＋尾9,863，中段未读）。
+来源B＝David Geggus, “Yellow fever in the 1790s: the British army in occupied Saint Domingue,” *Medical History* 23:1 (1979) 38–58。本地 `downloads/HT_Geggus1979_YellowFever.pdf`（doc be75a912fa61，21页）。
+来源C＝Girard, *Toussaint Louverture: A Revolutionary Life*（Basic Books 2016）第19章，经网页盗版转录读到（bookreadfree.com），**转录来源不可靠，只作交叉参考不作独立锚点**。
+
+## A1 舰队规模＝法国海军的绝对主力
+【事实｜A正文】「No less than 32 vaisseaux and 22 frigates arrived in Saint-Domingue in the spring of 1802, **or two thirds of the French navy**.」注5。
+【事实｜A正文】「Sending reinforcements and protecting the coast of Saint-Domingue would keep **one third of the French Navy employed over the next eighteen months**, at a time when France was also readying expeditions to take over Guadeloupe, Louisiana, Réunion, Pondicherry, Mauritius, and Martinique.」注6。
+→ 这是本卡对 F3/P4 的第一条硬接口：1801–03年法国海军的机会成本不是抽象的，而是**三分之二舰队＋十八个月三分之一舰队**被锁在一个加勒比战区。
+
+## A2 首波兵力分港明细
+【事实｜A正文，注37】Brest 8,000；Rochefort 3,000；Lorient 1,200；Toulon 3,000；Cadiz 1,700；Le Havre 1,000；Vlissingen 1,600。可加总≈19,500（不含随后增援与水兵）。另注1：Brest出发时载「8,000 to 8,500 troops, 500 officers, as many civilians, and 8,000 French and 4,000 Spanish sailors」。
+【裁量】"20,000登陆"（Girard牛津百科摘要）与"35,000登陆（1802全年）"（来源C）口径不同：前者是首波，后者是全年累计上岸。本卡年表按两口径分列，不取单一数。
+
+## A3 死亡账
+【事实｜A结论段，注177】「an incomplete register lists at least **32,000 dead** (soldiers and sailors) in 1802-1803 and reliable accounts put the total death toll on the French side at **50 to 60,000**.」注177指 CAOM HOP82/HOP83 死亡登记簿＋Lacroix、Castonnet des Fosses、Lemonnier-Delafosse、Pluchon。
+【事实｜A，注178】「The navy alone lost 8,000 sailors; when taking into account normal death rates in the navy, the expedition **directly led to the loss of 6,000 sailors**.」（引 Monaque）
+【事实｜A，注179】「There were only **80,000 sailors in all of France** during that period, so the expedition diminished France's seafaring population by **up to ten percent** … (by comparison, French and Spanish losses at Trafalgar totaled 4,400).」
+【事实｜A，注178转引 Rodger, *Command of the Ocean*, 436】「The British Navy lost **19,000 to 24,000 sailors in the Caribbean** during the Revolutionary and Napoleonic Wars, though it had a larger pool of trained sailors and could more easily endure such losses.」
+→ **本卡核心机制一**：加勒比对法国海军是**人力**黑洞而非吨位黑洞。舰可补，熟练水兵不可补；法国水兵池仅8万，英国池大得多。F3"合格海员"约束的最大历史性损耗事件之一就在这里。
+
+## A4 运输死亡率
+【事实｜A，注55】最后一艘抵达的 L'Auguste（1803-06-24）「losing 102 of its 350 troops—a death rate of 29 percent that **topped that typically found on slave ships**」。
+【事实｜A，注54】第3波兰旅5月从里窝那出发，14艘170–400吨中立船，9月才到，「decimated within a month」。
+
+## A5 拿破仑自述舰队状态（1801秋，向英方）
+【事实｜A，注24，转引英方记录】法方称其舰队「ill armed and weakly manned, even for a peace establishment… and that, upon the whole, they were incapable of fighting, and must run away from a very small force.」
+→ 用于F3：1801年法国海军自评不能作战；把它送去加勒比是把一支本已虚弱的舰队投进疫区。

@@ -1,0 +1,19 @@
+
+
+1178 Keller and Shiue gives an overview of the data. Figure 5 gives the location of the cities. Starting from the average annual wheat price in a given city, we have computed the city’s percentage price gap to each of the other cities in the sample for every year where we have information on both cities’ prices. 7KH RYHUDOO VDPSOHSHULRGLV WR :H OHIW RXW WKH ¿UVW WZR decades of the nineteenth century because trade was strongly disrupted by wars, and the last two because by 1880 Germany had become politi FDOO\ XQL¿HG ZKLFK PD\ KDYH JHQHUDWHG D QHZ HQYLURQPHQW IRU WUDGH DOWRJHWKHU 7KHGDWDVHWLQFOXGHVRQO\HYHU\¿IWK\HDU HWF to reduce the impact of serial correlation on the results. Within the overall sample period of 1820 to 1880, the range of years for which wheat prices are available varies (as given in Table 1); that is, our data set is
+
+FIGURE 4 THE ZOLLVEREIN IN THE YEAR 1836 Source: “Deutscher Zollverein 1836” IEG-Maps (2013).
+
+TABLE 1
+
+SUMMARY STATISTICS
+
+Number City Name State Data Range
+
+Number of Observations
+
+Wheat Price Gap
+
+Distance to Coast (miles)
+
+Zollverein Accession (Year) 1 Aachen Prussia 1820–1860 252 0.178 185.4 1828 2 Augsburg Bavaria 1820–1855 153 0.161 382.7 1834 3 Karlsruhe Baden 1820–1840 155 0.261 281.1 1836 4 Bamberg Bavaria 1820–1855 153 0.154 277.3 1834 5 Bayreuth Bavaria 1820–1855 153 0.154 272.8 1834 6 Berlin Prussia 1820–1860 299 0.119 80.0 1828 7 %RL]HQEXUJ Mecklenburg 1820–1870 236 0.147 45.9 1867 8 Braunschweig Brunswick 1820–1850 226 0.128 119.1 1841 9 Bremen Free City 1840–1845 72 0.179 34.4 1888 10 Dresden Saxony 1835–1850 129 0.134 168.1 1834 11 Erding Bavaria 1820–1855 153 0.162 386.5 1834 12 Frankfurt Free City 1840–1845 72 0.106 237.6 1836 13 Goettingen Hanover 1820–1865 274 0.120 150.6 1854 14 Grabow Mecklenburg 1820–1870 236 0.133 42.3 1867 15 Hamburg Free City 1820–1880 299 0.141 0.0 1888 16 Hannover Hanover 1820–1850 219 0.128 94.6 1854 17 Kassel Hesse-Kassel 1825–1845 166 0.175 159.3 1831 18 Kempten Bavaria 1820–1855 153 0.147 429.0 1834 19 Cologne Prussia 1820–1880 281 0.120 167.9 1828 20 `Landshut Bavaria 1820–1855 153 0.185 371.3 1834 21 /HLS]LJ Saxony 1835–1880 202 0.130 170.6 1834 22 Lindau Bavaria 1820–1855 153 0.148 446.0 1834 23 Luebeck Free City 1840–1845 72 0.144 0.0 1867 24 0DLQ] Hesse-Darmstadt 1840–1845 72 0.224 245.5 1828 25 Memmingen Bavaria 1820–1855 153 0.151 411.9 1834 26 Munich Bavaria 1820–1880 195 0.124 397.8 1834 27 Muenster Prussia 1820–1860 252 0.146 98.7 1828 28 Noerdlingen Bavaria 1820–1855 153 0.193 350.6 1834 29 Nurnberg Bavaria 1820–1855 153 0.169 307.1 1834 30 Parchim Mecklenburg 1820–1870 236 0.141 36.0 1867 31 Regensburg Bavaria 1820–1855 153 0.218 338.1 1834 32 Rostock Mecklenburg 1820–1870 236 0.150 0.0 1867 33 Schwerin Mecklenburg 1820–1870 236 0.160 18.8 1867 34 Straubing Bavaria 1820–1855 153 0.243 349.2 1834 35 Stuttgart Wurttemberg 1850–1855 56 0.095 331.7 1834 36 Ulm Wurttemberg 1850–1855 56 0.088 361.5 1834 37 Wismar Mecklenburg 1820–1870 236 0.151 0.0 1867 38 :XHU]EXUJ Bavaria 1820–1855 153 0.134 290.5 1834 39 Zweibruecken Bavaria 1820–1855 257 0.158 302.2 1834 40 Zwickau Saxony 1835–1850 129 0.213 223.9 1834 Mean 0.155 214.2 1842.9 Standard Dev. 0.037 142.4 17.0 Sources: Appendix and author’s calculation.

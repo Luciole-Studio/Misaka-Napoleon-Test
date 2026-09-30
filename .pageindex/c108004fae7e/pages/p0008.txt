@@ -1,0 +1,5 @@
+
+
+复用并重新核读：旧卡`nodes/r_b55f2c1cf5/cards/t_208a11/`中的损耗、征兵和马匹审计及所指原始捕获；Houdaille、Forrest、Grab、Elting、van Creveld和1810/1811/1813文书相关原段。新取Oman卷III/IV全文、但仅核读指定返表，以及西班牙1797人口册；补Marion军费原段和奥地利/波兰/阿尔及利亚具名类比。未亲调AN或SHD原卷，未声称通读上述全部专著。新的模型及结论由本卡承担，不能追溯归给旧卡或原作者。
+
+第二轮新增：`F2_round2_interfaces.py`生成六行Rowe分期证据`F2_regional_recruitment_evidence.csv`、一行分批到营`F2_levy_batch_evidence.csv`、五行役期口径桥`F2_service_definition_bridge.csv`与两行粮秣范围桥`F2_food_scope_bridge.csv`；`notes_round2_sources.md`保留新增阅读与归属。主年度表新增partial_levy字段，不重写全年实到空值。原S2/S5/S6数值未因跨卡标题相似而静默更换；最终地区联合账引用P2，制度/生态条件见补充报告§七。

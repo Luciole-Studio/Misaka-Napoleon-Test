@@ -1,0 +1,17 @@
+{
+  "doc_id": "dac834940e85",
+  "title": "[t_c87512] nodes/r_5b1357a9c6/cards/t_c87512/P6_max_extent.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_c87512/P6_max_extent.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_c87512/P6_max_extent.csv"
+  ],
+  "sha256": "dac834940e85ec8590013da559da8b50d7d27bc053d949d6f530709f0f4b92ed",
+  "pages": 1,
+  "task_id": "t_c87512",
+  "task_ids": [
+    "t_c87512",
+    "t_20658d"
+  ],
+  "added_at": 1790179580,
+  "office_format": "csv"
+}

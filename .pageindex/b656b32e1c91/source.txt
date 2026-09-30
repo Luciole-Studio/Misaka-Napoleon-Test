@@ -1,0 +1,108 @@
+18 P. E. TETLOCK AND A. BELKIN
+
+1. Clarit
+
+Specify and circumscribe the independent and dependent variables
+
+(the hypothesized antecedent and consequent);
+
+2. Logical consistency or cotenability: Specify connecting principles that link
+the antecedent with the consequent and that are cotenable with each other and with
+the antecedent;
+
+3. Historical consistency (minimal-rewrite rule): Specify antecedents that re-
+
+quite altering as few “well-established” historical facts as possible;
+
+4. Theoretical consistency: Articulate connecting principles that are consistent
+with “well-established” theoretical generalizations relevant to the hypothesized an-
+tecedent-consequent link;
+
+5. Statistical consistency: Articulate connecting principles that are consistent
+‘with “well-established” statistical generalizations relevant to the antecedent-conse-
+«quent link;
+
+6. Projectability: Tease out testable implications of the connecting principles
+‘and determine whether those hypotheses are consistent with additional real-world
+“observations.”
+
+‘cross ideal types and are perhaps the best candidates for the status of universal minimum
+standards
+
+(Q) The third crterion—consistency with well-established historical fact (also known as the
+‘minimal-rewrite rule) —is carefully observed by most idiographic researchers (ideal type 1) but
+frequently ignored by many nomothetic researchers (ideal type 2);
+
+(G) The fourth, fifth, and sixth crteria—consistency with well-established theoretical and
+statistical generalizations and projectability—are more widely acknowledged among nomothetic
+than among idiographic researchers (although a significant contingent of idiographic researchers
+do apply these standards in their own work)
+
+* Some logicians (Stalnaker 1984; Lewis 1973) have proposed a seventh test—the semantics
+‘of possible worlds for judging the truth or falsehood of counterfactual claims. To testa propo-
+sition ofthe form “if p, then q,” possible-worlds semantics directs us to do three things: (1)
+identify the set of possible worlds {p} in which the counterfactual antecedent, p, is trie; (2)
+identify that possible world {p'} that is “closest” to the actual worl; (3) determine whether that
+possible word (p' falls in the intersection of the set of possible worlds in which p is tre, {p}.
+‘and the set of possible worlds in with qis te, {q}. We should judge “if p, then q” to be true if
+and only if the “closes” p falls in the intersection of (p} and {}. In other words, we should
+judge “if p, then q” to be true if and only ifthe closest world in which p is true is also a world
+in which ¢ is toe.
+
+‘This logical calculus provides an elegant framework for evaluating counterfactual claims. It
+assumes, however, a vastly more sophisticated knowledge of the causal workings ofthe world
+than socal scientists currently possess (or are likely to possess anytime in the next century). We
+‘need to partition the universe of possible works into overlapping sets, to locate the actual world
+in the universe of possible worlds, and to quantify the “distance” between the actual workd and
+each possible world. Not surprisingly, none of our contributors could implement this test. We
+ifr from Lebow and Stein (Chapter 5) in that we distinguish the Lewis-Stalnaker approach
+from the minimal-rewrite rule. Even if the antecedent p is an historically implausible miracle
+cause (Chapter 2, Fearon, the closest word in which p is tru could still be a world in which q
+is true, in which case the counterfactual violates the minimal-rewrite rule but passes the Lewis-
+‘Stalnaker test.
+
+COUNTERFACTUAL THOUGHT EXPERIMENTS. »
+1, Well-Specified Antecedents and Consequents
+
+ur first recommendation might strike readers as a tad obvious. Like actual
+experiments, thought experiments should manipulate one cause at a time,
+thereby isolating pathways of influence. Although excellent advice in princi
+ple, implementing it is often deeply problematic. There is no way to hold
+“all other things equal” when we perform thought experiments on social
+systems that are densely interconnected (cf. Jervis 1993; Commentary 4,
+Jervis). To invoke the terminology of experimental design, we cannot ma-
+nipulate the “independent” variable in interconnected systems without creat-
+ing ripple effects that alter the values taken on by other potential causes in
+the historical matrix, thereby creating “confounding” variables that render
+interpretation of the original thought experiment problematic.
+
+At this juncture, radical wholists take the systems-theory argument even
+further and insist that if we want to advance coherent and defensible coun-
+terfactuals, we will have to reconstruct an entirely new hypothetical world
+for each new counterfactual proposition—a new world that specifies all
+other things that would also have to change in order to accommodate the
+hypothesized antecedent (otherwise the counterfactual is underspecified)..
+This position strikes us as too extreme. Causal interconnectedness is a mat-
+ter of degree. In the words of one systems theorist: “Everything is connected
+but some things are more connected than others. The world is a large matrix
+of interactions in which most of the entries are very close to zero” (Pattee
+1973, 23). The analytical challenge then becomes estimating interconnected-
+ness and designing our counterfactual thought experiments with due consid-
+eration for the complexities created by interconnectedness. Sometimes we
+will discover that the wholists are right: the causal antecedent that we men-
+tally manipulated is so deeply embedded in a recursive network of causation
+that simply positing that “if cause x took on a different value, then y" is
+deeply uninformative. Consider two examples:
+
+(J) Cederman (Chapter 11) criticizes the structural-realist claim advanced
+by Mearsheimer (1990, 14) that “ceteris paribus, war is more likely in a
+multipolar system than a bipolar one.” In Cederman’s view, other things
+probably cannot be held equal in the post-World War II case, and Mear-
+sheimer glosses over the problem by failing to articulate what else would
+hhave had to be different in counterfactual post-World War I systems in
+which multipolarity prevailed. As soon as we try to specify the alternatives
+to a bipolar world more precisely, we begin to appreciate the need for do-
+mestic-political boundary conditions on the polarity counterfactual. For in-
+stance, the identity of the third power—be it Great Britain, France, ot
+China—might matter. Given the special historical relationship between Lon-
+

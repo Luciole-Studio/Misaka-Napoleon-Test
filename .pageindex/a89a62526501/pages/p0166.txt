@@ -1,0 +1,91 @@
+
+
+  cial (se suponía que la dirección general de rentas haría lo mismo res-       Se calcula su valor, por una parte; se estima la renta que deberían
+  pecto de los porcentajes de las diversas provincias).                         producir "según los usos del país", lo cual significa ~ue ~e aplica la
+      El "cuaderno general de la riqueza" está concebido de acuerdo con         evaluación incluso a las casas habitadas por sus propietanos, que no
+  una división en tres grandes ramos, cada uno de los cuales abarca una         producen renta alguna. D e esta renta hipotética se deduce el •:capital
+  serie de subdivisiones. E stos ramos y subdivisiones son: a) riqueza terri-   anticipado" (exclusivamente las reparaciones, que ya se ha dicho se
+ torial (que comprende agricultura, ganadería y edificios); b) riqueza          estimaban, según el modelo 2, en una vigésima parte de la renta anual
+ industrial (las fábricas, la pesca, las profesiones liberales y los oficios    sin tener para nada en cuenta la amortización del coste de construc-
+ y artes mecánicas, epígrafe en el que se incluye a los jornaleros);            ción). Así, una casa concreta se supone que vale 8.000 reales; su renta
+ e) riqueza comercial (comercio, navegación y arriería) . Todas las evalua-     ("estimada según lo que se estila en el país") es de 200 reale~; ~or
+ ciones se hacen en cinco columnas: una, independiente, en el margen            "reparos" se deduce la vigésima parte, esto es, 10 reales: el hqmdo
+ izquierdo, que denominaré A y que indica los productos en especie              sobre el que debe calcularse la cuota de contribución será, por tanto,
+ (fanegas de trigo, arrobas de lana, etc.), y cuatro a la derecha que dan       de 190 reales.
+ respectivamente: el valor de los capitales (precio que se considera                H asta aquí el sistema funciona de acuerdo con las previsiones gene-
+ valen las tierras, los edificios, etc.) de cada renglón (columna B); los       rales. Tiene graves inconvenientes, entre los que tal vez el mayor
+ productos totales, obtenidos multiplicando el producto en especie dado         sea el de cargar a las juntas de partido con la responsabilidad de cálcu-
+ en la columna A por los precios medios del partido, establecidos por la        los tan complejos (en realidad imposibles) como los de los costes de
+ junta correspondiente en el formulario n.º 1 (columna C); los "capitales       producción medios de todos los frutos, expresados en partes de su
+ productivos anticipados", calculados aplicando los promedios estable-          cosecha o rendimiento. Con todos sus defectos, que son muchos, puede
+ cidos por la junta de partido en el formulario n.º 2 a los valores de la       pensarse que fuese posible ponerlo en funcionamiento . Pero cuando
+ columna C (columna D), y finalmente, el líquido imponible, sobre el            abandonamos este terreno de la "riqueza territorial" en que las admi-
+ cual había de cargarse la contribución, obtenido a base de restar del          nistraciones del Antiguo régimen tienen cierta exp eriencia, para pasar
+ produc.:to total (columna C) los capitales anticipados (columna D). Un         a los de la industria y el comercio, donde no sucede lo mismo, se
+ ejemplo, tomado del modelo, lo aclarará. Un individuo ha cultivado             produce un cambio total de panorama. Para empezar, hay una modi-
+ el año anterior 120 fanegas de tierra de primera calidad, sembradas de         ficación de gran trascendencia y que, por increíble que pueda parecer,
+trigo, que han producido 600 fanegas de grano (columna A) . E l valor           no está indicada en ninguna de las disposiciones legales publicadas y no
+de esta tierra se indica en la columna B. A continuación se hace la             podría, por tanto, encontrarse en las colecciones de decretos ni en las
+valoración del producto: multiplicando las 600 fanegas de la columna A          guías de hacienda. La encontramos simplemente en unas "Notas para
+por el precio de 60 reales la fanega que se indica en el formulario 1 se        la mejor inteligencia de algunos puntos comprendidos en este modelo",
+obtiene un total de 36.000 reales. De acuerdo con la tarifa de las "partes      donde se nos indica, entre otras cosas, que, a diferencia de lo que
+alícuotas" del formulario 2, en este partido se calcula una cuarta parte        sucede con la riqueza territorial, en los apartados de riqueza comercial
+del producto del trigo en concepto de costes de producción, lo cual             e industrial el cálculo de los gastos anticipados no lo harán las juntas
+significa que en este caso se anotará una suma de 9.000 reales en la            de partido, sino las de los pueblos. Esto es, que se deja íntegramente
+columna D. Finalmente, en la última columna se anotará el resultado             a los pueblos la resolución de los cálculos y los problemas que puedan
+de restar del producto total los capitales anticipados, lo cual dará un         presentai:se en lo tocante a la tributación de la industria, el comercio,
+remanente de 27.000 reales como líquido en proporción al cual debe              la navegación, etc.
+cargarse la contribución. En los casos de cultivos de regadío se deducen             Sin entrar por ahora en más consideraciones, veamos cómo aparecen
+previamente los costes de riego (que, como corresponde a una economía           evaluados los otros dos ramos de riqueza. El apartado de riqueza
+agraria casi de subsistencia, no se indican en dinero, sino como parte          industrial comienza con las fábricas. Del producto total se deducen
+del producto de la cosecha), y en las tierras en arrendamiento, se le           previamente los jornales, la renta del edificio (aunque sea del propio
+deduce al cultivador el precio de la renta, que se cargará en el epígrafe       dueño de la fábrica, en cuyo caso se le calcula "la renta que tendría
+correspondiente al propietario, a fin de que cada uno (arrend::1.dor y          que pagar" y se le hace contribuir por ella en el apartado de edificios
+arrendatario) pague de acuerdo con la parte del producto de la tierra            de la riqueza territorial) y, finalmente, el "capital anticipado en la com,
+de que disfruta efectivamente.                                                  posición de oficinas y utensilios" que, como sucede en otros apartados,
+     La evaluación en lo que se refiere a los edificios es fácil de explicar.   se limita a las reparaciones. Como se ve, la concepción económica de
+ 378         QUIEBRA DE LA MONARQUÍA ABSOLUTA (APÉNDICE)                                        SISTEMA DE HACIENDA DE         30 DE J\IAYO DE 1817               379
+  Caray no puede ser más estática (más preindustrial). En ella se supone           empleados, etc. 50 E n la navegación se descuentan de la ganancia los
+  q ue la producción es algo estable y fijo, en que no cabe hacer previ-           gastos de tripulación, seguro y demás, 51 y en la arriería, los gastos de
+  siones por mejora de utillaje o ampliación de la producción, sino sólo           viaje y los salarios de criados.5 2
+  las necesarias para reparar y mantener en funcionamiento lo que ya                   Hemos llegado al final del cuaderno. Añ,adamos que éste era redac-
+  existe. Ni siquiera se piensa en la necesidad de amortizar las inversiones       tado por tres peritos nombrados por la junta de contribución local y
+  iniciales, para reponerlas en el momento en que las reparaciones no              que, una vez completado, se exponía al público para que hiciera las
+  basten para seguir haciendo andar los telares o las prensas.                     reclamaciones que creyera oportunas. Una vez atendidas las que se
+      También en la pesca se deducen las partes de los marineros, las              estimaban correctas, se hacía un resumen general (que no debe con-
+  carenas (una vez más: reparaciones) y otros gastos. Más divertido resulta        fundirse con el resumen de la riqueza del pueblo especificado en el
+  el cálculo de los ingresos de los miembros de las profesiones liberales.         formu lario n .º 3), donde para cada clase de riqueza se detallaba única-
+  A un médico, por ejemplo, se le supone que gana 10.000 reales al año,            mente el líquido que se había averiguado a cada vecino y la cuota de
+  y se le deducen 2.000 reales por manutención de una mula, lo que da              contribución que, de acuerdo con éste, le correspondía pagar, aplicando
+  un líquido de 8.000 reales. Siguen los oficios y artes mecánicas, que            a todos el mismo porcentaje.
+  abarcan desde el arrendador del molino hasta el carpintero (a quien                  Hasta aquí he hecho una mera exposición del sistema, aunque
+  se estiman 6.000 reales de ingreso y se le deducen 500 por "composi-             haya señalado de paso algunas de sus incongruencias más evidentes,
+  ción de herramientas") y hasta los jornaleros, a los que se les calculan         que pueden observarse en un simple análisis de los textos. Pero para
+  100 días de trabajo al año que, a 6 reales diarios, dan unos ingresos            apreciar en detalle sus defectos y comprobarlos en su aplicación real,
+ netos de 600 reales, de los cuales no se deduce esta vez nada en con-             abandonaré el examen de los textos legales para pasar al de los resul-
+ cepto de anticipaciones.                                                          tados concretos obtenidos con los mismos. Mostraré las dudas, los
+      No es posible pasar adelante sin detenerse a observar el juego de            errores y los problemas con que hubo de enfrentarse una junta de par-
+ absurdos y prejuicios que implica la consideración de que la mula del             tido cuya documentación se nos ha conservado casi íntegra.
+ médico requiere 2.000 reales al año para su manutención, que es más
+ de lo que se estima necesario para tres jornaleros y sus respectivas
+ familias. Y no es que se piense que estos jornaleros cultivan además un
+ pequeño pedazo de tierra. El examen del cuaderno excluye esta hipó-
+ tesis.49 ¿Es que de verdad se cree que una mula come más que tres
+ familias de jornaleros? ¿Es justo que se le deduzcan al médico de sus
+ impuestos los gastos de mantener su mula y que se haga pagar ínte-
+ gramente al peón por sus míseros jornales, sin tener en cuenta que él
+precisa mantener a su · familia, lo cual no deja de ser un gasto de
+ reproducción esencial? Hay en todo esto algo que traiciona una concep-
+ción de la sociedad muy alejada de cualquier preocupación por la
+ equidad, pero hay sobre todo - me resisto a considerarlo de otra mane-
+ra- un gran desconocimiento de la realidad: el mismo grado de
+arbitrariedad y error que se observa en tantos otros aspectos de la obra
+de Caray. Ya veremos que tras su caída hubo que rectificar radical,
+mente esta manera de enfocar el problema de la tributación de los
+jornaleros.
+· En el comercio se parte de lo que se estima que "ganó" el comer-                     50. Por ejemplo: Pedro Gómez t iene una tienda de quincalla : capital,
+ciante, deduciendo de ello los gastos de tienda, almacenes, salarios de            60 .000; producto total (beneficios menos el alquiler), 8.300; capital anticipado
+                                                                                   (salario de un mancebo y gastos de escritorio), 2.300; producto líquido, 6.000 .
+    49. Ninguno de los vecinos clasificados como jornaleros aparece represen-          51. H emeterio (sic) Berna!, un bergantín: capital, 150 .000; producto, 90 .000;
+tado en otros ramos de riqueza del cuaderno (no figuran ni como cultivadores       capital anticipado (tripulación, seguros, etc.), 60.000; líquido , 30 .000 .
+de tierra propia ni como arrendadores, por ejemplo), mientras que no es raro            52. Jacinto Cerezo, una carretería con 20 pares de bueyes: capital, 24 .000;

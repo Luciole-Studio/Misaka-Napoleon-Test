@@ -1,0 +1,71 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: R2_inputs.csv
+
+```meta
+▸ table "R2_inputs.csv" (76 data rows)
+▸ columns
+    year: num, min=1800, max=1851
+    scenario: str, 1 uniq: ['S0']
+    series: str, 31 uniq, first 20: ['america_share_hemp_exports', 'customs_receipts_paper', 'european_russia_population_49_provinces', 'flax_export_scale', 'france_share_hemp_exports', 'hemp_annual_export_scale', 'holland_germany_other_share_hemp_exports', 'iberia_share_hemp_exports', 'iron_annual_baltic_white_sea_export_scale', 'national_exports_silver', 'national_imports_silver', 'odessa_seaborne_exports', 'paper_kopecks_per_silver_ruble', 'paper_money_stock', 'petersburg_kronstadt_exports', 'petersburg_kronstadt_imports', 'petersburg_kronstadt_vessel_arrivals', 'petersburg_sample_terms_of_trade', 'pig_iron_production', 'population_excl_poland_finland']
+    value: num, min=0.336022, max=162000
+    unit: str, 12 uniq: ['index', 'km', 'metric_tonnes', 'million_account_rubles', 'million_paper_rubles', 'million_people', 'million_rubles_unspecified', 'million_silver_rubles', 'paper_kopecks_per_silver_ruble', 'percent', 'tons_author', 'vessels']
+    price_basis: str, 7 uniq: ['exchange_rate', 'nominal', 'nominal_account', 'nominal_unspecified_currency', 'physical', 'price_ratio', 'share']
+    base_year: str, 3 uniq: ['1806', '1807', 'none']
+    kind: str, 2 uniq: ['estimate_author', 'observation_secondary']
+    quality: str, 13 uniq: ['approx_circa1800', 'approximate', 'auxiliary', 'contemporary_report', 'currency_unresolved', 'footnote_only', 'institutional_history', 'limited_sample', 'provisional_transcitation', 'read_book', 'retrospective_geography', 'table_image_checked', 'table_incomplete']
+    source_id: str, 10 uniq: ['S01', 'S02', 'S03', 'S05', 'S07', 'S10', 'S11', 'S13', 'S15', 'S17']
+    locator: str, 18 uniq: ['II_V_1', 'II_V_2', 'II_V_opening', 'annual_exchange_table', 'customs_series_MinFin1902', 'money_stock_table', 'note8', 'p145', 'p263_table29', 'p28_and_p39n22', 'p31', 'p39_table2.1', 'p39n22', 'p856', 'paragraph_1810_1812_Zlotnikov132', 'route_length_paragraph', 'table10', 'table6']
+    note: str, 49 uniq, first 20: ['30-50pct trade coverage; not quantity', 'Oddy via Davey', 'Russo-Ottoman war confounder', 'Strumilin via McKay', 'about; British near10000', 'after extension; not national network', 'anchor beyond forecast endpoint', 'annual average', 'annual average; Rulex25.4 quote not labelled annual mean or exact date', 'author narrative; not same as stock difference', 'author says approximately unchanged', 'do not infer constant price fiscal increase', 'flax column sum99.28 not100', 'grain ban reversal and transit matter', 'includes British reexport intermediaries', 'includes Portugal', 'includes coverage uncertainty', 'includes coverage uncertainty; not quantity', 'nearly; differs from1806 distribution', 'no national aggregation permitted']
+```
+year,scenario,series,value,unit,price_basis,base_year,kind,quality,source_id,locator,note
+1803,S0,paper_kopecks_per_silver_ruble,125,paper_kopecks_per_silver_ruble,exchange_rate,none,observation_secondary,auxiliary,S11,annual_exchange_table,third-hand annual average; not end-year
+1804,S0,paper_kopecks_per_silver_ruble,126,paper_kopecks_per_silver_ruble,exchange_rate,none,observation_secondary,auxiliary,S11,annual_exchange_table,third-hand annual average
+1805,S0,paper_kopecks_per_silver_ruble,130,paper_kopecks_per_silver_ruble,exchange_rate,none,observation_secondary,auxiliary,S11,annual_exchange_table,third-hand annual average
+1806,S0,paper_kopecks_per_silver_ruble,137,paper_kopecks_per_silver_ruble,exchange_rate,none,observation_secondary,auxiliary,S11,annual_exchange_table,not Rulex end-year-like quote
+1807,S0,paper_kopecks_per_silver_ruble,148,paper_kopecks_per_silver_ruble,exchange_rate,none,observation_secondary,auxiliary,S11,annual_exchange_table,not Rulex end-year-like quote
+1808,S0,paper_kopecks_per_silver_ruble,186,paper_kopecks_per_silver_ruble,exchange_rate,none,observation_secondary,auxiliary,S11,annual_exchange_table,third-hand annual average
+1809,S0,paper_kopecks_per_silver_ruble,224,paper_kopecks_per_silver_ruble,exchange_rate,none,observation_secondary,auxiliary,S11,annual_exchange_table,third-hand annual average
+1810,S0,paper_kopecks_per_silver_ruble,300,paper_kopecks_per_silver_ruble,exchange_rate,none,observation_secondary,auxiliary,S11,annual_exchange_table,annual average; Rulex25.4 quote not labelled annual mean or exact date
+1811,S0,paper_kopecks_per_silver_ruble,394,paper_kopecks_per_silver_ruble,exchange_rate,none,observation_secondary,auxiliary,S11,annual_exchange_table,annual average
+1812,S0,paper_kopecks_per_silver_ruble,388,paper_kopecks_per_silver_ruble,exchange_rate,none,observation_secondary,auxiliary,S11,annual_exchange_table,source family switches to Storch1868
+1813,S0,paper_kopecks_per_silver_ruble,397,paper_kopecks_per_silver_ruble,exchange_rate,none,observation_secondary,auxiliary,S11,annual_exchange_table,annual average
+1814,S0,paper_kopecks_per_silver_ruble,396,paper_kopecks_per_silver_ruble,exchange_rate,none,observation_secondary,auxiliary,S11,annual_exchange_table,annual average
+1815,S0,paper_kopecks_per_silver_ruble,421,paper_kopecks_per_silver_ruble,exchange_rate,none,observation_secondary,auxiliary,S11,annual_exchange_table,annual average
+1805,S0,paper_money_stock,292.199110,million_paper_rubles,nominal,none,observation_secondary,auxiliary,S11,money_stock_table,year end per website notes; not total funded debt
+1806,S0,paper_money_stock,319.239960,million_paper_rubles,nominal,none,observation_secondary,auxiliary,S11,money_stock_table,year end
+1807,S0,paper_money_stock,382.329505,million_paper_rubles,nominal,none,observation_secondary,auxiliary,S11,money_stock_table,year end
+1808,S0,paper_money_stock,477.368580,million_paper_rubles,nominal,none,observation_secondary,auxiliary,S11,money_stock_table,year end
+1809,S0,paper_money_stock,533.201300,million_paper_rubles,nominal,none,observation_secondary,auxiliary,S11,money_stock_table,year end
+1810,S0,paper_money_stock,577.810900,million_paper_rubles,nominal,none,observation_secondary,auxiliary,S11,money_stock_table,year end; Speransky starting summary 577 has timing discrepancy
+1812,S0,paper_money_stock,645.894400,million_paper_rubles,nominal,none,observation_secondary,auxiliary,S11,money_stock_table,year end
+1815,S0,paper_money_stock,825,million_paper_rubles,nominal,none,observation_secondary,auxiliary,S11,money_stock_table,year end approximate
+1807,S0,petersburg_sample_terms_of_trade,1,index,price_ratio,1807,estimate_author,limited_sample,S03,p856,30-50pct trade coverage; not quantity
+1808,S0,petersburg_sample_terms_of_trade,0.43,index,price_ratio,1807,estimate_author,limited_sample,S03,p856,not quantity; use prose not misdated Table1
+1809,S0,petersburg_sample_terms_of_trade,0.69,index,price_ratio,1807,estimate_author,limited_sample,S03,p856,not quantity
+1810,S0,petersburg_sample_terms_of_trade,0.74,index,price_ratio,1807,estimate_author,limited_sample,S03,p856,not 74pct export volume recovery
+1811,S0,petersburg_sample_terms_of_trade,0.74,index,price_ratio,1807,estimate_author,limited_sample,S03,p856,author says approximately unchanged
+1808,S0,petersburg_kronstadt_vessel_arrivals,60,vessels,physical,none,observation_secondary,read_book,S01,p145,port group not all Baltic
+1809,S0,petersburg_kronstadt_vessel_arrivals,376,vessels,physical,none,observation_secondary,read_book,S01,p145,port group not all Baltic
+1808,S0,petersburg_kronstadt_exports,5.875896,million_rubles_unspecified,nominal_unspecified_currency,none,observation_secondary,currency_unresolved,S01,p145,no silver conversion permitted
+1809,S0,petersburg_kronstadt_exports,20.314406,million_rubles_unspecified,nominal_unspecified_currency,none,observation_secondary,currency_unresolved,S01,p145,no national aggregation permitted
+1808,S0,petersburg_kronstadt_imports,1.452233,million_rubles_unspecified,nominal_unspecified_currency,none,observation_secondary,currency_unresolved,S01,p145,no silver conversion permitted
+1809,S0,petersburg_kronstadt_imports,5.159798,million_rubles_unspecified,nominal_unspecified_currency,none,observation_secondary,currency_unresolved,S01,p145,no national aggregation permitted
+1804,S0,odessa_seaborne_exports,2.339509,million_rubles_unspecified,nominal_unspecified_currency,none,observation_secondary,currency_unresolved,S07,p39_table2.1,transcribed Morton1830p257; do not compare silver totals
+1805,S0,odessa_seaborne_exports,3.399291,million_rubles_unspecified,nominal_unspecified_currency,none,observation_secondary,currency_unresolved,S07,p39_table2.1,not all Russian exports
+1806,S0,odessa_seaborne_exports,0.822927,million_rubles_unspecified,nominal_unspecified_currency,none,observation_secondary,currency_unresolved,S07,p39_table2.1,Russo-Ottoman war confounder
+1807,S0,odessa_seaborne_exports,0.336022,million_rubles_unspecified,nominal_unspecified_currency,none,observation_secondary,currency_unresolved,S07,p39_table2.1,not British blockade only
+1808,S0,odessa_seaborne_exports,1.975013,million_rubles_unspecified,nominal_unspecified_currency,none,observation_secondary,currency_unresolved,S07,p39_table2.1,not all Russian exports
+1809,S0,odessa_seaborne_exports,1.776290,million_rubles_unspecified,nominal_unspecified_currency,none,observation_secondary,currency_unresolved,S07,p39_table2.1,not all Russian exports
+1810,S0,odessa_seaborne_exports,3.146994,million_rubles_unspecified,nominal_unspecified_currency,none,observation_secondary,currency_unresolved,S07,p39_table2.1,not all Russian exports
+1811,S0,odessa_seaborne_exports,7.747544,million_rubles_unspecified,nominal_unspecified_currency,none,observation_secondary,currency_unresolved,S07,p39_table2.1,grain ban reversal and transit matter
+1812,S0,odessa_seaborne_exports,5.855045,million_rubles_unspecified,nominal_unspecified_currency,none,observation_secondary,currency_unresolved,S07,p39_table2.1,plague confounder
+1813,S0,odessa_seaborne_exports,8.861956,million_rubles_unspecified,nominal_unspecified_currency,none,observation_secondary,currency_unresolved,S07,p39_table2.1,not all Russian exports
+1810,S0,national_exports_silver,34.2,million_silver_rubles,nominal,none,observation_secondary,provisional_transcitation,S10,paragraph_1810_1812_Zlotnikov132,includes coverage uncertainty; not quantity
+1811,S0,national_exports_silver,34.7,million_silver_rubles,nominal,none,observation_secondary,provisional_transcitation,S10,paragraph_1810_1812_Zlotnikov132,includes coverage uncertainty
+1812,S0,national_exports_silver,38.8,million_silver_rubles,nominal,none,observation_secondary,provisional_transcitation,S10,paragraph_1810_1812_Zlotnikov132,includes coverage uncertainty
+1810,S0,national_imports_silver,20.6,million_silver_rubles,nominal,none,observation_secondary,provisional_transcitation,S10,paragraph_1810_1812_Zlotnikov132,not verified against original book table
+1811,S0,national_imports_silver,23.1,million_silver_rubles,nominal,none,observation_secondary,provisional_transcitation,S10,paragraph_1810_1812_Zlotnikov132,not verified against original book table
+1812,S0,national_imports_silver,23.2,million_silver_rubles,nominal,none,observation_secondary,provisional_transcitation,S10,paragraph_1810_1812_Zlotnikov132,not verified against original book table
+1808,S0,customs_receipts_paper,5.523,million_paper_rubles,nominal,none,observation_secondary,provisional_transcitation,S10,customs_series_MinFin1902,do not infer constant price fiscal increase
+1809,S0,customs_receipts_paper,8.428,million_paper_rubles,nominal,none,observation_secondary,provisional_transcitation,S10,customs_series_MinFin1902,nominal

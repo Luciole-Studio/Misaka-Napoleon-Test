@@ -1,0 +1,98 @@
+30 P. E, TETLOCK AND A.
+
+IN
+
+those for evaluating an important category of counterfactual (our ideal type
+2, the nomothetic).
+
+Statistical tests of counterfactual plausibility also play a pivotal role in the
+chapters by game theorists. Weingast’s notion of comparative statistics re-
+minds us of the need to build appropriate time lags into our assessments of
+covariation. And Bueno de Mesquita’s work on medieval church-state rela-
+tions reminds us of the need for probabilistic tests of hypotheses concerning
+mixed-strategy equilibria
+
+Projectability
+
+‘Theory evaluation and counterfactual evaluation are inextricably entangled,
+Sound counterfactuals require sound theories that provide the lawlike gener-
+alizations that fill in the missing data points in our thought experiments.
+How can we judge, however, whether these lawlike generalizations are r0-
+bust enough to support counterfactual inferences? Here Nelson Goodman’s
+(1983) concept of projectability is helpful. Goodman draws a sharp distine-
+tion between coincidental generalizations that just happen to be true at a
+particular time and place (and are therefore unprojectable) and robustly law-
+like generalizations that hold up over a range of circumstances and permit
+projection into the past and future. An example of a merely coincidental
+generalization is “All the coins in my pocket yesterday were silver.” Noth-
+ing follows from this observation—certainly not “If this penny were in my
+pocket yesterday, it would be silver.” The counterfactual fails because “if
+this penny were in my pocket yesterday,” we would simply assume that the
+original generalization—“all the coins in my pocket yesterday were sil-
+ver”—was false. By contrast, a robustly lawlike generalization—such as
+that oxygen is a necessary but not sufficient condition for fire—inspires
+confidence when we move either backward in time (if there had been no
+oxygen, the Great Fire of London would not have occurred) or forward in
+time (if we cut off any future fire’s source of oxygen, the fire will expire)
+Most social-science generalizations, of course, qualify as neither merely
+coincidental nor robustly lawlike; they take the form of either contingent
+generalizations (under this set of boundary conditions, x causes y; under that
+set, x causes 2) or statistical generalizations (x increases or decreases the
+likelihood of y) or contingent statistical generalizations (cf. George and
+Smoke 1974; George 1993). From Goodman's perspective, however,
+whether the generalization is bounded or unbounded by moderator variables
+and whether the generalization is deterministic or probabilistic it is subject
+to the same acid test of scientific legitimacy: namely, its projectability or its
+ability to predict what will happen in new, hitherto unobserved cases. The
+same causal principles that allow us to retrodict the past should allow us to
+
+COUNTERFACTUAL THOUGHT EXPERIMENTS, 31
+
+predict the future. Indeed, the strong Popperian form of this argument as-
+serts that we should take counterfactual claims seriously if and only if the
+lawlike generalizations supporting the claims yield falsifiable forecasts, We
+see this classic philosophical argument resurfacing in the recent meth-
+odological advice of King, Keohane, and Verba (1994), who urge scholars
+to search aggressively for the observable implications of their causal con-
+structs by regularly asking themselves, “If my argument is correct, what else
+should be true?” Counterfactuals that are devoid of testable implications in
+the actual world leave us marooned in hypothetical worlds of our own sub-
+jective making. Projectability, from this vantage point, stands as the preemi-
+nent criterion for judging the value of counterfactual speculation,
+
+Perhaps not coincidentally, the most outspoken advocates of the pro-
+Jjectability standard in this volume tend to be the most nomothetic in their
+overall approach to social science. Bueno de Mesquita and Weingast are not
+content with post-hoc exercises in which they fit game-theoretic models to
+data; they derive testable implications from theit models and show how
+those predictions can be statistically or historically disconfirmed. In a similar
+vein, Russet is not satisfied with showing that the democratic-peace hypoth-
+is captures an intriguing regularity in the brief slice of history that we call
+moder; he seeks out alternative data sources—Greck city-states and tribal
+societies—into which we can project the hypothesis. In his computer sim-
+ulations, Cederman explores the replicability and robustness of his counter
+intuitive result that defense-dominance increases rather than decreases the
+likelihood of the emergence of hegemons. And in their critique of structural-
+ist theories of revolution, Kiser and Levi raise the suspicion that structuralist
+theories—with their emphasis on complex conjunctions of preconditions —
+are ultimately exercises in post-hoc data-fitting that will never pass the pro-
+jectability test.*
+
+“The strong version of the “projectability” argument teats backward and forward reasoning
+{in time as symmetical. There are good reasons, however, for suspecting that even when we can
+construct compelling explanations of the past, we will often do a terible job of explaining the
+future (Dawes 1993; Chapter 2, Fearon). When we look back into the past from the present, we
+‘occupy a privileged but also easily abused position, We know which one of the many futures
+that were once possible has actually occurred. With the benefit of this retrospective knowledge,
+itbecomes relatively easy to find antecedents that depict the consequence as the inevitable result
+‘of some “inexorable” causal process. Yet we risk capitalizing, indeed massively capitalizing, on
+chance. By contrast, when we look forward into the future, we cannot avoid the complexity and
+indeterminacy of possible relationships among antecedents and consequences. We can draw
+‘upon our knowledge of past causal relationships to anticipate the future, but are often disap-
+pointed by the results. The causes we identified retrospectively for a class of consequences
+prove to be anemic predictors of the same class in the future. Dawes (1993) illustrates this,
+lrgument with the crash ofa passenger airplane into a parked truck on a runway under repair at
+Mexico City aigport on October 31, 1979. The FAA fight investigators easly constructed &
+‘causal story for the outcome that invoked such plausible antecedents as poor weather. smog.
+pilot fatigue, radio malfunction, cryptic communication by traffic controllers, and stress. But
+

@@ -1,0 +1,431 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+Seychelles,SYC,1848,13812
+Seychelles,SYC,1849,13860
+Seychelles,SYC,1850,13909
+Seychelles,SYC,1851,13988
+Seychelles,SYC,1852,14067
+Seychelles,SYC,1853,14146
+Seychelles,SYC,1854,14226
+Seychelles,SYC,1855,14306
+Seychelles,SYC,1856,14387
+Seychelles,SYC,1857,14468
+Seychelles,SYC,1858,14549
+Seychelles,SYC,1859,14631
+Seychelles,SYC,1860,14713
+Seychelles,SYC,1861,14796
+Seychelles,SYC,1862,14879
+Seychelles,SYC,1863,14962
+Seychelles,SYC,1864,15046
+Seychelles,SYC,1865,15130
+Seychelles,SYC,1866,15215
+Seychelles,SYC,1867,15300
+Seychelles,SYC,1868,15385
+Seychelles,SYC,1869,15471
+Seychelles,SYC,1870,15557
+Seychelles,SYC,1871,15644
+Seychelles,SYC,1872,15731
+Seychelles,SYC,1873,15818
+Seychelles,SYC,1874,15906
+Seychelles,SYC,1875,15995
+Seychelles,SYC,1876,16083
+Seychelles,SYC,1877,16172
+Seychelles,SYC,1878,16262
+Seychelles,SYC,1879,16352
+Seychelles,SYC,1880,16442
+Seychelles,SYC,1881,16533
+Seychelles,SYC,1882,16625
+Seychelles,SYC,1883,16716
+Seychelles,SYC,1884,16809
+Seychelles,SYC,1885,16901
+Seychelles,SYC,1886,16994
+Seychelles,SYC,1887,17088
+Seychelles,SYC,1888,17182
+Seychelles,SYC,1889,17324
+Seychelles,SYC,1890,17516
+Seychelles,SYC,1891,17759
+Seychelles,SYC,1892,18055
+Seychelles,SYC,1893,18404
+Seychelles,SYC,1894,18759
+Seychelles,SYC,1895,19122
+Seychelles,SYC,1896,19491
+Seychelles,SYC,1897,19868
+Seychelles,SYC,1898,20252
+Seychelles,SYC,1899,20651
+Seychelles,SYC,1900,21066
+Seychelles,SYC,1901,21498
+Seychelles,SYC,1902,21947
+Seychelles,SYC,1903,22413
+Seychelles,SYC,1904,22890
+Seychelles,SYC,1905,23376
+Seychelles,SYC,1906,23872
+Seychelles,SYC,1907,24380
+Seychelles,SYC,1908,24897
+Seychelles,SYC,1909,25369
+Seychelles,SYC,1910,25794
+Seychelles,SYC,1911,26170
+Seychelles,SYC,1912,26495
+Seychelles,SYC,1913,26767
+Seychelles,SYC,1914,27042
+Seychelles,SYC,1915,27320
+Seychelles,SYC,1916,27600
+Seychelles,SYC,1917,27884
+Seychelles,SYC,1918,28117
+Seychelles,SYC,1919,28349
+Seychelles,SYC,1920,28579
+Seychelles,SYC,1921,28807
+Seychelles,SYC,1922,29033
+Seychelles,SYC,1923,29257
+Seychelles,SYC,1924,29483
+Seychelles,SYC,1925,29711
+Seychelles,SYC,1926,29941
+Seychelles,SYC,1927,30172
+Seychelles,SYC,1928,30405
+Seychelles,SYC,1929,30698
+Seychelles,SYC,1930,31053
+Seychelles,SYC,1931,31470
+Seychelles,SYC,1932,31951
+Seychelles,SYC,1933,32499
+Seychelles,SYC,1934,33056
+Seychelles,SYC,1935,33622
+Seychelles,SYC,1936,34198
+Seychelles,SYC,1937,34784
+Seychelles,SYC,1938,35380
+Seychelles,SYC,1939,35882
+Seychelles,SYC,1940,36286
+Seychelles,SYC,1941,36592
+Seychelles,SYC,1942,36797
+Seychelles,SYC,1943,36900
+Seychelles,SYC,1944,37002
+Seychelles,SYC,1945,37106
+Seychelles,SYC,1946,37209
+Seychelles,SYC,1947,37313
+Seychelles,SYC,1948,37417
+Seychelles,SYC,1949,37680
+Seychelles,SYC,1950,38306
+Seychelles,SYC,1951,38702
+Seychelles,SYC,1952,39010
+Seychelles,SYC,1953,39334
+Seychelles,SYC,1954,39703
+Seychelles,SYC,1955,40126
+Seychelles,SYC,1956,40617
+Seychelles,SYC,1957,41198
+Seychelles,SYC,1958,41823
+Seychelles,SYC,1959,42487
+Seychelles,SYC,1960,43249
+Seychelles,SYC,1961,44133
+Seychelles,SYC,1962,45088
+Seychelles,SYC,1963,46099
+Seychelles,SYC,1964,47164
+Seychelles,SYC,1965,48295
+Seychelles,SYC,1966,49476
+Seychelles,SYC,1967,50686
+Seychelles,SYC,1968,51904
+Seychelles,SYC,1969,53104
+Seychelles,SYC,1970,54276
+Seychelles,SYC,1971,55534
+Seychelles,SYC,1972,56913
+Seychelles,SYC,1973,58320
+Seychelles,SYC,1974,59765
+Seychelles,SYC,1975,61236
+Seychelles,SYC,1976,62762
+Seychelles,SYC,1977,64117
+Seychelles,SYC,1978,65008
+Seychelles,SYC,1979,65625
+Seychelles,SYC,1980,66281
+Seychelles,SYC,1981,66974
+Seychelles,SYC,1982,67666
+Seychelles,SYC,1983,68379
+Seychelles,SYC,1984,69103
+Seychelles,SYC,1985,69837
+Seychelles,SYC,1986,70582
+Seychelles,SYC,1987,71358
+Seychelles,SYC,1988,72229
+Seychelles,SYC,1989,73142
+Seychelles,SYC,1990,74000
+Seychelles,SYC,1991,74838
+Seychelles,SYC,1992,75630
+Seychelles,SYC,1993,76420
+Seychelles,SYC,1994,77279
+Seychelles,SYC,1995,78144
+Seychelles,SYC,1996,78901
+Seychelles,SYC,1997,79670
+Seychelles,SYC,1998,80738
+Seychelles,SYC,1999,82033
+Seychelles,SYC,2000,83339
+Seychelles,SYC,2001,84621
+Seychelles,SYC,2002,85878
+Seychelles,SYC,2003,87056
+Seychelles,SYC,2004,88175
+Seychelles,SYC,2005,89288
+Seychelles,SYC,2006,90391
+Seychelles,SYC,2007,91483
+Seychelles,SYC,2008,92563
+Seychelles,SYC,2009,93644
+Seychelles,SYC,2010,94993
+Seychelles,SYC,2011,97041
+Seychelles,SYC,2012,99565
+Seychelles,SYC,2013,102108
+Seychelles,SYC,2014,104663
+Seychelles,SYC,2015,107247
+Seychelles,SYC,2016,109836
+Seychelles,SYC,2017,112443
+Seychelles,SYC,2018,115053
+Seychelles,SYC,2019,117662
+Seychelles,SYC,2020,120299
+Seychelles,SYC,2021,123000
+Seychelles,SYC,2022,125533
+Seychelles,SYC,2023,127961
+Sierra Leone,SLE,-10000,77
+Sierra Leone,SLE,-9000,102
+Sierra Leone,SLE,-8000,136
+Sierra Leone,SLE,-7000,182
+Sierra Leone,SLE,-6000,243
+Sierra Leone,SLE,-5000,324
+Sierra Leone,SLE,-4000,432
+Sierra Leone,SLE,-3000,577
+Sierra Leone,SLE,-2000,769
+Sierra Leone,SLE,-1000,1026
+Sierra Leone,SLE,0,1368
+Sierra Leone,SLE,100,1520
+Sierra Leone,SLE,200,1688
+Sierra Leone,SLE,300,1876
+Sierra Leone,SLE,400,2085
+Sierra Leone,SLE,500,2316
+Sierra Leone,SLE,600,2574
+Sierra Leone,SLE,700,2860
+Sierra Leone,SLE,800,3178
+Sierra Leone,SLE,900,3531
+Sierra Leone,SLE,1000,3923
+Sierra Leone,SLE,1100,4359
+Sierra Leone,SLE,1200,4843
+Sierra Leone,SLE,1300,5382
+Sierra Leone,SLE,1400,5980
+Sierra Leone,SLE,1500,6644
+Sierra Leone,SLE,1600,7382
+Sierra Leone,SLE,1700,8203
+Sierra Leone,SLE,1710,9114
+Sierra Leone,SLE,1720,10127
+Sierra Leone,SLE,1730,11252
+Sierra Leone,SLE,1740,12502
+Sierra Leone,SLE,1750,13891
+Sierra Leone,SLE,1760,15435
+Sierra Leone,SLE,1770,17150
+Sierra Leone,SLE,1780,19056
+Sierra Leone,SLE,1790,21173
+Sierra Leone,SLE,1800,794264
+Sierra Leone,SLE,1801,794264
+Sierra Leone,SLE,1802,794264
+Sierra Leone,SLE,1803,794264
+Sierra Leone,SLE,1804,794264
+Sierra Leone,SLE,1805,794264
+Sierra Leone,SLE,1806,794264
+Sierra Leone,SLE,1807,794264
+Sierra Leone,SLE,1808,794264
+Sierra Leone,SLE,1809,794264
+Sierra Leone,SLE,1810,794264
+Sierra Leone,SLE,1811,794264
+Sierra Leone,SLE,1812,794264
+Sierra Leone,SLE,1813,794264
+Sierra Leone,SLE,1814,794264
+Sierra Leone,SLE,1815,794264
+Sierra Leone,SLE,1816,794264
+Sierra Leone,SLE,1817,794264
+Sierra Leone,SLE,1818,794264
+Sierra Leone,SLE,1819,794159
+Sierra Leone,SLE,1820,793950
+Sierra Leone,SLE,1821,793636
+Sierra Leone,SLE,1822,793218
+Sierra Leone,SLE,1823,792696
+Sierra Leone,SLE,1824,792174
+Sierra Leone,SLE,1825,791652
+Sierra Leone,SLE,1826,791130
+Sierra Leone,SLE,1827,790609
+Sierra Leone,SLE,1828,790088
+Sierra Leone,SLE,1829,789568
+Sierra Leone,SLE,1830,789048
+Sierra Leone,SLE,1831,788528
+Sierra Leone,SLE,1832,788008
+Sierra Leone,SLE,1833,787489
+Sierra Leone,SLE,1834,786971
+Sierra Leone,SLE,1835,786452
+Sierra Leone,SLE,1836,785934
+Sierra Leone,SLE,1837,785416
+Sierra Leone,SLE,1838,784899
+Sierra Leone,SLE,1839,784382
+Sierra Leone,SLE,1840,783865
+Sierra Leone,SLE,1841,783349
+Sierra Leone,SLE,1842,782833
+Sierra Leone,SLE,1843,782317
+Sierra Leone,SLE,1844,781802
+Sierra Leone,SLE,1845,781287
+Sierra Leone,SLE,1846,780772
+Sierra Leone,SLE,1847,780258
+Sierra Leone,SLE,1848,779744
+Sierra Leone,SLE,1849,780112
+Sierra Leone,SLE,1850,781365
+Sierra Leone,SLE,1851,783867
+Sierra Leone,SLE,1852,787265
+Sierra Leone,SLE,1853,791564
+Sierra Leone,SLE,1854,795887
+Sierra Leone,SLE,1855,800233
+Sierra Leone,SLE,1856,804603
+Sierra Leone,SLE,1857,808996
+Sierra Leone,SLE,1858,813413
+Sierra Leone,SLE,1859,818018
+Sierra Leone,SLE,1860,822814
+Sierra Leone,SLE,1861,827803
+Sierra Leone,SLE,1862,832986
+Sierra Leone,SLE,1863,838367
+Sierra Leone,SLE,1864,843782
+Sierra Leone,SLE,1865,849232
+Sierra Leone,SLE,1866,854717
+Sierra Leone,SLE,1867,860237
+Sierra Leone,SLE,1868,865793
+Sierra Leone,SLE,1869,871560
+Sierra Leone,SLE,1870,877540
+Sierra Leone,SLE,1871,883737
+Sierra Leone,SLE,1872,890154
+Sierra Leone,SLE,1873,896792
+Sierra Leone,SLE,1874,903480
+Sierra Leone,SLE,1875,910217
+Sierra Leone,SLE,1876,917005
+Sierra Leone,SLE,1877,923843
+Sierra Leone,SLE,1878,930732
+Sierra Leone,SLE,1879,937672
+Sierra Leone,SLE,1880,944663
+Sierra Leone,SLE,1881,951707
+Sierra Leone,SLE,1882,958803
+Sierra Leone,SLE,1883,965951
+Sierra Leone,SLE,1884,973153
+Sierra Leone,SLE,1885,980408
+Sierra Leone,SLE,1886,987717
+Sierra Leone,SLE,1887,995080
+Sierra Leone,SLE,1888,1002498
+Sierra Leone,SLE,1889,1009971
+Sierra Leone,SLE,1890,1017500
+Sierra Leone,SLE,1891,1025084
+Sierra Leone,SLE,1892,1032725
+Sierra Leone,SLE,1893,1040423
+Sierra Leone,SLE,1894,1048177
+Sierra Leone,SLE,1895,1055989
+Sierra Leone,SLE,1896,1063860
+Sierra Leone,SLE,1897,1071788
+Sierra Leone,SLE,1898,1079776
+Sierra Leone,SLE,1899,1087823
+Sierra Leone,SLE,1900,1095929
+Sierra Leone,SLE,1901,1104096
+Sierra Leone,SLE,1902,1112324
+Sierra Leone,SLE,1903,1120612
+Sierra Leone,SLE,1904,1128963
+Sierra Leone,SLE,1905,1137375
+Sierra Leone,SLE,1906,1145849
+Sierra Leone,SLE,1907,1154387
+Sierra Leone,SLE,1908,1162988
+Sierra Leone,SLE,1909,1171417
+Sierra Leone,SLE,1910,1179670
+Sierra Leone,SLE,1911,1187746
+Sierra Leone,SLE,1912,1195641
+Sierra Leone,SLE,1913,1203352
+Sierra Leone,SLE,1914,1211112
+Sierra Leone,SLE,1915,1218922
+Sierra Leone,SLE,1916,1226783
+Sierra Leone,SLE,1917,1234693
+Sierra Leone,SLE,1918,1242101
+Sierra Leone,SLE,1919,1251817
+Sierra Leone,SLE,1920,1263887
+Sierra Leone,SLE,1921,1278360
+Sierra Leone,SLE,1922,1295287
+Sierra Leone,SLE,1923,1314716
+Sierra Leone,SLE,1924,1334437
+Sierra Leone,SLE,1925,1354453
+Sierra Leone,SLE,1926,1374770
+Sierra Leone,SLE,1927,1395391
+Sierra Leone,SLE,1928,1416322
+Sierra Leone,SLE,1929,1437275
+Sierra Leone,SLE,1930,1458247
+Sierra Leone,SLE,1931,1479233
+Sierra Leone,SLE,1932,1500230
+Sierra Leone,SLE,1933,1521233
+Sierra Leone,SLE,1934,1542530
+Sierra Leone,SLE,1935,1564126
+Sierra Leone,SLE,1936,1586023
+Sierra Leone,SLE,1937,1608228
+Sierra Leone,SLE,1938,1630743
+Sierra Leone,SLE,1939,1654914
+Sierra Leone,SLE,1940,1680790
+Sierra Leone,SLE,1941,1708417
+Sierra Leone,SLE,1942,1737846
+Sierra Leone,SLE,1943,1769127
+Sierra Leone,SLE,1944,1800971
+Sierra Leone,SLE,1945,1833389
+Sierra Leone,SLE,1946,1866390
+Sierra Leone,SLE,1947,1899985
+Sierra Leone,SLE,1948,1934184
+Sierra Leone,SLE,1949,1967796
+Sierra Leone,SLE,1950,1999628
+Sierra Leone,SLE,1951,2023289
+Sierra Leone,SLE,1952,2047201
+Sierra Leone,SLE,1953,2070818
+Sierra Leone,SLE,1954,2095066
+Sierra Leone,SLE,1955,2120895
+Sierra Leone,SLE,1956,2147980
+Sierra Leone,SLE,1957,2176254
+Sierra Leone,SLE,1958,2204841
+Sierra Leone,SLE,1959,2235024
+Sierra Leone,SLE,1960,2268361
+Sierra Leone,SLE,1961,2304229
+Sierra Leone,SLE,1962,2342241
+Sierra Leone,SLE,1963,2382262
+Sierra Leone,SLE,1964,2424393
+Sierra Leone,SLE,1965,2468669
+Sierra Leone,SLE,1966,2514641
+Sierra Leone,SLE,1967,2562394
+Sierra Leone,SLE,1968,2611535
+Sierra Leone,SLE,1969,2661367
+Sierra Leone,SLE,1970,2712287
+Sierra Leone,SLE,1971,2763230
+Sierra Leone,SLE,1972,2814397
+Sierra Leone,SLE,1973,2866959
+Sierra Leone,SLE,1974,2920466
+Sierra Leone,SLE,1975,2974659
+Sierra Leone,SLE,1976,3028822
+Sierra Leone,SLE,1977,3085359
+Sierra Leone,SLE,1978,3145522
+Sierra Leone,SLE,1979,3207502
+Sierra Leone,SLE,1980,3272097
+Sierra Leone,SLE,1981,3338944
+Sierra Leone,SLE,1982,3408188
+Sierra Leone,SLE,1983,3481644
+Sierra Leone,SLE,1984,3558762
+Sierra Leone,SLE,1985,3638444
+Sierra Leone,SLE,1986,3728381
+Sierra Leone,SLE,1987,3829720
+Sierra Leone,SLE,1988,3934517
+Sierra Leone,SLE,1989,4034038
+Sierra Leone,SLE,1990,4196834
+Sierra Leone,SLE,1991,4246268
+Sierra Leone,SLE,1992,4166368
+Sierra Leone,SLE,1993,4157128
+Sierra Leone,SLE,1994,4173111
+Sierra Leone,SLE,1995,4179178
+Sierra Leone,SLE,1996,4199215
+Sierra Leone,SLE,1997,4253710
+Sierra Leone,SLE,1998,4295783
+Sierra Leone,SLE,1999,4318047
+Sierra Leone,SLE,2000,4423615
+Sierra Leone,SLE,2001,4692715
+Sierra Leone,SLE,2002,4971435
+Sierra Leone,SLE,2003,5177686
+Sierra Leone,SLE,2004,5355715
+Sierra Leone,SLE,2005,5501707
+Sierra Leone,SLE,2006,5624464
+Sierra Leone,SLE,2007,5749353
+Sierra Leone,SLE,2008,5894728
+Sierra Leone,SLE,2009,6055655
+Sierra Leone,SLE,2010,6222715
+Sierra Leone,SLE,2011,6387258
+Sierra Leone,SLE,2012,6551078
+Sierra Leone,SLE,2013,6714057
+Sierra Leone,SLE,2014,6876385
+Sierra Leone,SLE,2015,7037660

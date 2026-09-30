@@ -1,0 +1,44 @@
+Rural Change and Royal Finances in Spain
+
+       third statistic (Column C) is drawn from information on ecclesiastical ownership, since much land belonged to religious institutions and
+       foundations located outside the small places.
+
+
+                                                                                          ― 636 ―
+
+
+
+
+                                                                                          ― 637 ―
+       It represents an attempt to calculate the percentage of land in the hands of outside ecclesiastical owners. To obtain it, the share of land
+       owned in each zone by ecclesiastical institutions is multiplied by the share of all the land in the zone that was located in towns where the
+       hacendado mayor was an ecclesiastical institution. The final index is a simple mean of these three statistics. One should stress that the
+       index does not represent an estimate of the proportion of land owned by outsiders; its purpose is to permit a comparison among the
+       zones.
+             The index of sales made to outside buyers also had to be derived indirectly, for the Madrid notaries' deeds of deposit did not usually
+       state the residence of the buyers, although where it was given I noted it. A search of local notarial records unearthed the residence of
+       many of the largest buyers. In addition, unlocated persons who bought property in more than one town were considered residents of the
+       town where they made the most purchases and nonresidents elsewhere. Those persons with names preceded by don not identified as
+       priests, who bought in towns where the census of 1786 showed no hidalgos, were also considered nonresidents. (Not all laymen called
+       don were hidalgos, but hidalgos were probably the most numerous group among them.) [28] The purchases thus identified as made by
+       outsiders were totaled and divided by the total amount spent in the zone. The result, in Table 17.16, shows that the share of the sales in
+       each zone that appears to have gone to outsiders ranges from 9 to 82 percent.
+             When the index of prior absentee ownership is compared to that of nonresident buyers, the two give a surprisingly high coefficient
+       of correlation, r = .97. Figure 17.2 illustrates the close relationship between the two, r 2 = .94, implying that the amount of land that was
+       bought by outsiders was 94 percent determined by the amount owned by outsiders before the sales. [29]
+             Where the land was in nonresident hands (much of it ecclesiastical), potential outside buyers would know about the possibilities, the
+       channels of information were good. They could take over existing leases and tenants from the present ecclesiastical owner; the
+       transactions costs of the purchase were low. Furthermore, where local farmers owned little, they also were likely to have little capital. As
+       in La Mata and Villaverde, they might bid for small collections of arable plots but not for holdings
+
+       [28] See above, Chapter 15, section 4.
+
+       [29] The correlation coefficient in this case does not depend heavily on one outlying point.
+
+
+                                                                                          ― 638 ―
+
+
+
+
+http://publishing.cdlib.org/ucpressebooks/view?docId=ft4d5nb394;chunk.id=0;doc.view=print[1/22/2011 11:30:51 AM]

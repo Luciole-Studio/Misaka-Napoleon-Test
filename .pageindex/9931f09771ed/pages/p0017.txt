@@ -1,0 +1,48 @@
+                                               - 15 -
+
+equilibrium models. This gives us an upper bound estimate on consumption substitution. In this
+
+case, the change in relative prices brings about consumption substitution valued at $3.2 million.
+
+
+
+Other Components
+
+       The last two components of equation (4) are tariff revenue and net transfers in period 1.
+
+Tariff revenue -- expressed as (p1 - p1*)@m1 -- is not zero because some imports were allowed
+
+into the country in early 1808. The government reported tariff revenue to be $7.7 million in
+
+1808, as noted on Table 1.13 Net transfers (B1) is derived from the constraint in equation (2): p1
+
+(y1 - x1) + (p1 - p1*)@m1 + B1 = 0. Solving for B1 in the year 1808 yields the figure of $1.5
+
+million. This helps correct for any distortion of the magnitude of the previous calculations due
+
+to imbalanced trade.
+
+       Table 2 presents the combined estimates of these various components of the welfare cost.
+
+Column (1) presents the benchmark case using the figures calculated above. The components
+
+sum to $33 million dollars. This welfare cost may be more usefully expressed as a percent of
+
+GNP. Gallman (2000, p. 7) reports a figure of $680 million for nominal GNP in 1807, which is
+
+somewhat higher than other estimates but otherwise seems reasonable.14 Taking this figure as a
+
+rough benchmark, the welfare cost of the embargo was about 5 percent of GNP.
+
+
+
+
+       13
+           Recall as well that the customs figure for 1808 refer to October 1807 to September
+1808 and cover a period when there was no embargo and when imports were still allowed in
+despite the embargo. The figure for 1809 (October 1808 to September 1809) cover six months
+when the embargo was effective.
+       14
+          Berry (1988) estimates that nominal GNP was $561 million in 1807. Contemporaries
+put the number much lower, as Niles has a 1814 estimate of $642 for 1814 and Beaujour has an
+estimate of $197 to $350 million for the period 1800 to 1810.

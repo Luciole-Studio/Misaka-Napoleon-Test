@@ -1,0 +1,33 @@
+    Table 1: The evolution of public revenues and expenditures between 1816 and 1835
+
+                                                                    Interests on public debt as % of
+                Fiscal revenues       Budgetary deficit/surplus
+                                                                            public expenses
+          (millions of French francs) (millions of French francs)
+                                                                                  (%)
+ 1816                 729                         -19                            9.10%
+ 1817                 879                         81                            10.44%
+ 1818                 900                         -20                           13.54%
+ 1819                 938                         41                            18.66%
+ 1820                 895                         33                            18.44%
+ 1821                 933                         26                            18.64%
+ 1822                 928                          1                            18.86%
+ 1823                 933                         -75                           19.59%
+ 1824                 919                          3                            20.52%
+ 1825                 960                          -3                           20.12%
+ 1826                 979                          6                            19.84%
+ 1827                 983                         -38                           20.84%
+ 1828                 948                          5                            20.45%
+ 1829                 978                          7                            20.36%
+ 1830                 992                        -124                           21.01%
+ 1831                 971                        -270                           21.71%
+ 1832                 949                        -189                           21.62%
+ 1833                 985                        -144                           22.02%
+ 1834                 990                         -56                           18.25%
+ 1835                 1008                        -26                           18.12%
+Source : Mitchell (1980) and Vaslin (1999).
+
+
+
+
+                                                                                          41

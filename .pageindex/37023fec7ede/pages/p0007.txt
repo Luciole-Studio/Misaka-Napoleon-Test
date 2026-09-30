@@ -1,0 +1,28 @@
+    Distance from Paris    Wikipedia.                       We calculated the geographic distance between each
+                                                            department’s capital and Paris. We used Wikipedia to
+                                                            find the longitude and latitude of each city. The
+                                                            geographic distance, in 100’s of kilometers, was then
+                                                            calculated using st_distance in R.
+    Distance to depot      État des départements qui        We calculated the geographic distance between each
+                           doivent fournir les Conscripts   department’s capital and the military depots (barracks)
+                           de 1810. Archives nationales,    to which conscripts had been assigned. Cities were
+                           AF/IV/1124. Wikipedia.           georeferenced using the longitude and latitude
+                                                            information from Wikipedia. “Distance to depot”
+                                                            represents the average geographic distance (calculated
+                                                            with the “getdistance” function in Excel), in kilometers,
+                                                            that conscripts had to travel to join their units in 1810.
+7   Percentage cavalry     État des départements qui        This variable measures the percentage of conscripts
+                           doivent fournir les Conscripts   allocated to a cavalry unit in 1808 for the 30,000 of the
+                           de 1810. Archives Nationales,    1810 cohort drafted.
+                           AF/IV/1124.
+    Percentage Artillery   État des départements qui        This variable measures the percentage of conscripts
+                           doivent fournir les Conscripts   allocated to an artillery unit in 1808 for the 30,000 of the
+                           de 1810. Archives Nationales,    1810 cohort drafted.
+                           AF/IV/1124.
+    Height                 Archives Nationales, series      This variable measures the average height of men in the
+                           F/9, boxes 150 to 259.           1820 cohort eligible for conscription (in 1821).
+    Agricultural sector    Archives Nationales, series      This variable measures the percentage of men in the 1820
+                           F/9, boxes 150 to 259.           cohort eligible for conscription (in 1821) who worked in
+                                                            the agricultural sector.
+    Literacy (1790)        Ministère de l’instruction       Percentage of young men who signed their marriage
+                           publique (1880).                 certificate between 1786 and 1790.

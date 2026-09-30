@@ -1,0 +1,34 @@
+                   Table 7: Co integration of the French and British yields
+
+
+July 1815 - December 12, 1823
+                                                   ADF t-Statistic
+Integration diagnosis                                                    p-value
+                                                  (constant, trend)
+CONSOL                                                 -1.8247            0.6913
+RENTE                                                 -4.4381*            0.0021
+                                                          Trace       Max eigenvalue
+Johansen test for co-integrating vectors
+                                                      (p-value)          (p-value)
+                                                           9.41            4.95
+CONSOL & RENTE
+                                                          (0.147)         (0.484)
+
+December 19, 1823 - January 1826
+                                                   ADF t-Statistic
+Integration diagnosis                                                    p-value
+                                                  (constant, trend)
+CONSOL                                                    -1.9116         0.6417
+RENTE                                                     -2.5714         0.2942
+                                                          Trace       Max eigenvalue
+Johansen test for co-integrating vectors
+                                                      (p-value)          (p-value)
+                                                          15.92*          14.43*
+CONSOL & RENTE
+                                                          (0.012)         (0.013)
+       *denotes significance at the 5% confidence level
+
+
+
+
+                                                                                       45

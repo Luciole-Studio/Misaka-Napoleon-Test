@@ -1,0 +1,83 @@
+Rural Change and Royal Finances in Spain
+
+
+       not live in lay households. [9] A systematic comparison of this census with the later ones indicates that here indeed local authorities
+       reported lower figures than the real ones, probably out of suspicion of the royal intentions. Of course, not all authorities would have
+       cheated at the same rate. In Salamanca province, for instance, underreporting appears to have been much greater in towns under
+       seigneurial jurisdiction than in those under royal jurisdiction. Like the vecino-population coefficient, no correction for underreporting can
+       be more than an educated guess or represent all regions equally well. Finally the manuscript census has errors of addition, although it
+       would take a detailed addition of the individual town returns to determine how many.
+             Historians have made little use of this document. [10] Instead they have relied on a publication of the returns in this census by the
+       eighteenth-century economist Gerónimo de Uztáriz in his work Theorica y practica de comercio y de marina (1724). Uztáriz published the
+       vecino count province by province, with a total of 1,140,103 for the entire country. This total does not match the manuscript total for
+       various reasons. The most obvious is that Uztáriz added his estimates for the Basque provinces (he gave them the same figure as that of
+       Navarre in 1677–79!) and Mallorca, Ibiza, and the presidios of Africa. In addition, without informing his readers, he increased certain
+       provincial returns before he published his table. One might suppose that he had a census at hand that was different from the known
+       manuscripts, were it not that his figures represent additions in round numbers, usually thousands, to the manuscript figures, even when
+       the manuscript figures are erroneous totals of the individual town returns. Thus the manuscript gives totals of 14,974 vecinos for
+       Guadalajara province and 25,556 for León. Uztáriz's figures are 16,974 and 28,556 respectively, and the manuscript total for León is
+       incorrect in the first place.[11] The reasoning behind his corrections defies analysis. There is no obvious geographic pattern. In one-third
+       of the provinces, all in the northern half of the country, he preserved the original census count. In the rest, his additions ranged from 5
+       to 13 percent, except for Asturias (49 percent), Jaén (36 percent), Madrid city (23 percent), and Valencia (whose total he reduced
+       inexplicably by 6 percent).
+             Although Uztáriz did not inform his readers of these changes, he described attempts he had made to check the accuracy of the
+       returns in Madrid province and in Andalusia. They led him to conclude that a fair approximation was that
+
+       [8] Ibid., 98 n. 20.
+
+       [9] See Uztáriz, Theorica, 37–38.
+
+       [10] One who has studied it is Bustelo, "Algunas reflexiones." He has seen a second manuscript copy of it in the Biblioteca Menéndez
+       Pelayo, Santander.
+
+       [11] The total of the figures for the fifteen partidos of the province is 25,513.
+
+
+                                                                                          ― 758 ―
+       the census overall represented only 80 percent of the real count. His corrected figure is 1,425,000 households. He made further additions
+       to take into account the military forces and their dependents (whom he calculated to be 180,000 persons), clergy and their households
+       (250,000), foreigners resident in Spain (40,000), and 30,000 shepherds who he believed never got reported. His corrections conveniently
+       total 500,000 persons. Uztáriz estimated 5 persons per vecino, and on this basis reached a grand total of 7,625,000 people in Spain,
+       which he rounded off to 7.5 million to cover any "involuntary excess" in his calculations.[12]
+             Most historians have concluded that Uztáriz's figure is too high, either because underreporting would not have been as great as he
+       assumed or, what is more likely, given current knowledge of early modern households, because his coefficient for converting vecinos to
+       population was too large. José Canga Argüelles, an early nineteenth-century official of the ministry of hacienda, accepted his total number
+       of vecinos before any augmentation and multiplied it by 5 to get a figure of 5,700,515. [13] Canga Argüelles's figure gives a growth of 83
+       percent between 1717 and 1786, Uztáriz's, 39 percent. Recently Gonzalo Anes, after careful consideration, has considered a 50-percent
+       increase in the population reasonable.[14]
+              To avoid reliance on Uztáriz, Massimo Livi Bacci, an expert historian of Mediterranean populations, uses a different approach. He
+       calculates a probable life expectation in Spain in the eighteenth century of twenty-seven years by projecting backward the known trend in
+       life expectation of Spaniards for the late nineteenth and early twentieth centuries. On the basis of this figure and the age structure shown
+       in the census of 1768–69 (very similar to those of the censuses of 1786 and 1797), Livi Bacci calculates from model life tables that the
+       rate of growth would have been about 0.40 percent per year. [15] Using this rate and projecting backward from 1768–69, one obtains a
+       population in 1712 of 7.43 million, close to the estimate of Uztáriz. This figure gives a 40-percent increase in population between 1712
+       and 1786 for a mean rate of growth between these dates of 0.46 percent per year. This is very close to the rate of growth for England
+       and Wales between 1711 and 1786, 0.44 percent, based on the estimates of Wrigley and Schofield for these two dates, [16] much higher
+       than the best estimate for that of France, 0.27 percent,[17] and above that attributed to Italy, 0.38 percent.[18]
+              To compare the rate of growth in the periphery and the interior, one must
+
+       [12] Uztáriz, Theorica, 34–39.
+
+       [13] Canga Argüelles, Diccionario de hacienda, s.v. "Población que se regulaba a España en los años de 1700 a 1723."
+
+       [14] Anes, Crisis, 132–40.
+
+       [15] Livi Bacci, "Fertility and Nuptiality," 84–89. Livi Bacci reviews various twentieth-century estimates of the Spanish population in the
+       eighteenth century, which I pass over here.
+
+       [16] Wrigley and Schofield, Population History, 528–29, Table A3.1.
+
+       [17] The total population figures for France given in Morineau, Faux-Semblants, table on pp. 294–95, produce rates of 0.27 and 0.28
+       percent, for the period 1700 to 1780 and 1787.
+
+       [18] Livi Bacci, "Fertility and Nuptiality," 88.
+
+
+                                                                                          ― 759 ―
+       disaggregate the national figures. Livi Bacci does so for the totals of Uztáriz and the census of 1786, but no clear pattern emerges. [19]
+       Since, as we have seen, there is no apparent justification for Uztáriz's haphazard changes in the manuscript totals, we may more properly
+       take the original figures for calculating the population distribution about 1712. Furthermore, instead of using the total population in 1787
+
+
+
+http://publishing.cdlib.org/ucpressebooks/view?docId=ft4d5nb394;chunk.id=0;doc.view=print[1/22/2011 11:30:51 AM]

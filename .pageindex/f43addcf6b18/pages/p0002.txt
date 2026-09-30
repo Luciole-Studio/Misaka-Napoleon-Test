@@ -1,0 +1,80 @@
+## Sheet: F4_fiscal.csv (continued)
+id,record_type,scenario,period,territory,series,value,low,high,unit,basis,source_id,locator,formula,notes
+F4-050,文献转录,S0,An XII,法国当时疆域；逐年变化,direct_tax_principal_and_centimes_collected,371,,,百万法郎,作者称实收；含本金和附加税；非中央直接税预算同口径,M,p309/PDF329,,An XIV-1806为15个月；税制和疆域变化；禁止将各组自动相加。
+F4-051,缺测,S0,An XIII,法国当时疆域；逐年变化,direct_tax_principal_and_centimes_collected,,,,百万法郎,作者称实收；含本金和附加税；非中央直接税预算同口径,M,p309/PDF329,,An XIV-1806为15个月；税制和疆域变化；禁止将各组自动相加。
+F4-052,缺测,S0,An XIV-1806,法国当时疆域；逐年变化,direct_tax_principal_and_centimes_collected,,,,百万法郎,作者称实收；含本金和附加税；非中央直接税预算同口径,M,p309/PDF329,,An XIV-1806为15个月；税制和疆域变化；禁止将各组自动相加。
+F4-053,文献转录,S0,1807,法国当时疆域；逐年变化,direct_tax_principal_and_centimes_collected,372.48017,,,百万法郎,作者称实收；含本金和附加税；非中央直接税预算同口径,M,p309/PDF329,,An XIV-1806为15个月；税制和疆域变化；禁止将各组自动相加。
+F4-054,缺测,S0,1808,法国当时疆域；逐年变化,direct_tax_principal_and_centimes_collected,,,,百万法郎,作者称实收；含本金和附加税；非中央直接税预算同口径,M,p309/PDF329,,An XIV-1806为15个月；税制和疆域变化；禁止将各组自动相加。
+F4-055,文献转录,S0,1809,法国当时疆域；逐年变化,direct_tax_principal_and_centimes_collected,386.881472,,,百万法郎,作者称实收；含本金和附加税；非中央直接税预算同口径,M,p309/PDF329,,An XIV-1806为15个月；税制和疆域变化；禁止将各组自动相加。
+F4-056,文献转录,S0,1810,法国当时疆域；逐年变化,direct_tax_principal_and_centimes_collected,386,,,百万法郎,作者称实收；含本金和附加税；非中央直接税预算同口径,M,p309/PDF329,,An XIV-1806为15个月；税制和疆域变化；禁止将各组自动相加。
+F4-057,缺测,S0,1811,法国当时疆域；逐年变化,direct_tax_principal_and_centimes_collected,,,,百万法郎,作者称实收；含本金和附加税；非中央直接税预算同口径,M,p309/PDF329,,An XIV-1806为15个月；税制和疆域变化；禁止将各组自动相加。
+F4-058,缺测,S0,1812,法国当时疆域；逐年变化,direct_tax_principal_and_centimes_collected,,,,百万法郎,作者称实收；含本金和附加税；非中央直接税预算同口径,M,p309/PDF329,,An XIV-1806为15个月；税制和疆域变化；禁止将各组自动相加。
+F4-059,缺测,S0,1813,法国当时疆域；逐年变化,direct_tax_principal_and_centimes_collected,,,,百万法郎,作者称实收；含本金和附加税；非中央直接税预算同口径,M,p309/PDF329,,An XIV-1806为15个月；税制和疆域变化；禁止将各组自动相加。
+F4-060,缺测,S0,1814,法国当时疆域；逐年变化,direct_tax_principal_and_centimes_collected,,,,百万法郎,作者称实收；含本金和附加税；非中央直接税预算同口径,M,p309/PDF329,,An XIV-1806为15个月；税制和疆域变化；禁止将各组自动相加。
+F4-061,文献转录,S0,An XIII,法国当时疆域；逐年变化,droits_reunis_gross,53.490825,,,百万法郎,毛产品,M,p305/PDF325,,An XIII作者脚注疑53m应为33m，保留原值且不用作模型；1811为概数。
+F4-062,文献转录,S0,An XIV-1806,法国当时疆域；逐年变化,droits_reunis_gross,74,,,百万法郎,毛产品,M,p305/PDF325,,An XIII作者脚注疑53m应为33m，保留原值且不用作模型；1811为概数。
+F4-063,文献转录,S0,1807,法国当时疆域；逐年变化,droits_reunis_gross,107.5,,,百万法郎,毛产品,M,p305/PDF325,,An XIII作者脚注疑53m应为33m，保留原值且不用作模型；1811为概数。
+F4-064,文献转录,S0,1808,法国当时疆域；逐年变化,droits_reunis_gross,117,,,百万法郎,毛产品,M,p305/PDF325,,An XIII作者脚注疑53m应为33m，保留原值且不用作模型；1811为概数。
+F4-065,文献转录,S0,1809,法国当时疆域；逐年变化,droits_reunis_gross,144,,,百万法郎,毛产品,M,p305/PDF325,,An XIII作者脚注疑53m应为33m，保留原值且不用作模型；1811为概数。
+F4-066,文献转录,S0,1810,法国当时疆域；逐年变化,droits_reunis_gross,145,,,百万法郎,毛产品,M,p305/PDF325,,An XIII作者脚注疑53m应为33m，保留原值且不用作模型；1811为概数。
+F4-067,文献转录,S0,1811,法国当时疆域；逐年变化,droits_reunis_gross,168,,,百万法郎,毛产品,M,p305/PDF325,,An XIII作者脚注疑53m应为33m，保留原值且不用作模型；1811为概数。
+F4-068,文献转录,S0,An XIV-1806,法国当时疆域；逐年变化,drink_duties,34.233296,,,百万法郎,酒类税产出；属于droits reunis子项,M,pp300-301;305/PDF320-321;325,,不得与droits_reunis再加总
+F4-069,文献转录,S0,1807,法国当时疆域；逐年变化,drink_duties,71.08308,,,百万法郎,酒类税产出；属于droits reunis子项,M,pp300-301;305/PDF320-321;325,,不得与droits_reunis再加总
+F4-070,文献转录,S0,1808,法国当时疆域；逐年变化,drink_duties,75.59842,,,百万法郎,酒类税产出；属于droits reunis子项,M,pp300-301;305/PDF320-321;325,,不得与droits_reunis再加总
+F4-071,文献转录,S0,1809,法国当时疆域；逐年变化,drink_duties,97.4563,,,百万法郎,酒类税产出；属于droits reunis子项,M,pp300-301;305/PDF320-321;325,,不得与droits_reunis再加总
+F4-072,文献转录,S0,1811,法国当时疆域；逐年变化,drink_duties,105.5,,,百万法郎,酒类税产出；属于droits reunis子项,M,pp300-301;305/PDF320-321;325,,不得与droits_reunis再加总
+F4-073,文献转录,S0,1812,法国当时疆域；逐年变化,drink_duties,116.331,,,百万法郎,酒类税产出；属于droits reunis子项,M,pp300-301;305/PDF320-321;325,,不得与droits_reunis再加总
+F4-074,文献转录,S0,An XIV-1806,法国当时疆域；逐年变化,tobacco_duties_including_customs,24.258,,,百万法郎,烟草两类税合计；不含阿尔卑斯外,M,p302 n1/PDF322,,与制造零售系列为交叉范围，不加总；叙述与脚注进口税差额并非各年均4-5m。
+F4-075,文献转录,S0,1807,法国当时疆域；逐年变化,tobacco_duties_including_customs,21.579,,,百万法郎,烟草两类税合计；不含阿尔卑斯外,M,p302 n1/PDF322,,与制造零售系列为交叉范围，不加总；叙述与脚注进口税差额并非各年均4-5m。
+F4-076,文献转录,S0,1808,法国当时疆域；逐年变化,tobacco_duties_including_customs,19.365,,,百万法郎,烟草两类税合计；不含阿尔卑斯外,M,p302 n1/PDF322,,与制造零售系列为交叉范围，不加总；叙述与脚注进口税差额并非各年均4-5m。
+F4-077,文献转录,S0,1809,法国当时疆域；逐年变化,tobacco_duties_including_customs,20.489,,,百万法郎,烟草两类税合计；不含阿尔卑斯外,M,p302 n1/PDF322,,与制造零售系列为交叉范围，不加总；叙述与脚注进口税差额并非各年均4-5m。
+F4-078,文献转录,S0,1810,法国当时疆域；逐年变化,tobacco_duties_including_customs,25.454,,,百万法郎,烟草两类税合计；不含阿尔卑斯外,M,p302 n1/PDF322,,与制造零售系列为交叉范围，不加总；叙述与脚注进口税差额并非各年均4-5m。
+F4-079,文献转录,S0,1809,法国当时疆域；逐年变化,tobacco_transalpine,6.305375,,,百万法郎,阿尔卑斯外烟草另项,M,p302 n1/PDF322,,
+F4-080,文献转录,S0,1812,法国当时疆域；逐年变化,tobacco_monopoly_total,43,,,百万法郎,专卖总收益；作者另列费用26,M,p304 n1/PDF324,,不是净上缴43；口径已变
+F4-081,文献转录,S0,1812,法国当时疆域；逐年变化,tobacco_monopoly_costs,26,,,百万法郎,费用,M,p304 n1/PDF324,,
+F4-082,算术,S0,1812,法国当时疆域；逐年变化,tobacco_monopoly_net_arithmetic,17,,,百万法郎,43-26；由作者数计算，不是原表独立格,M,p304 n1/PDF324,43-26,
+F4-083,文献转录,S0,1810,法国当时疆域；逐年变化,customs_extraordinary,61.046,,,百万法郎,非常关税产品；包括库存重税/许可证/没收,M,p306/PDF326,,影像校核为61.046而非OCR61.040
+F4-084,文献转录,S0,1810-08至1812-01-01,法国当时疆域；逐年变化,customs_extraordinary_cumulative,105.927667,,,百万法郎,累计；不是1811年度经常收入,M,p306/PDF326,,
+F4-085,文献转录,S0,An XIII,法国当时疆域；逐年变化,registration_stamp_domains_net_rights,172.763591,,,百万法郎,净权利/账期（exercice）应收，不等于当年现金,M,p305 n1/PDF325,,图像核读：脚注区分par année与par exercice，两数同属An XIII，非年份混写
+F4-086,文献转录,S0,1808,法国当时疆域；逐年变化,registration_stamp_domains_net_rights,180.869,,,百万法郎,净权利/账期（exercice）应收，不等于当年现金,M,p305 n1/PDF325,,图像核读：脚注区分par année与par exercice，两数同属An XIII，非年份混写
+F4-087,文献转录,S0,1810,法国当时疆域；逐年变化,registration_stamp_domains_net_rights,192.635,,,百万法郎,净权利/账期（exercice）应收，不等于当年现金,M,p305 n1/PDF325,,图像核读：脚注区分par année与par exercice，两数同属An XIII，非年份混写
+F4-088,文献转录,S0,1810账期截至1811-04-01,法国当时疆域；逐年变化,registration_stamp_domains_cash,179.634,,,百万法郎,截至日期现金到账,M,p305 n1/PDF325,,
+F4-089,文献转录,S0,An XIII当年12个月,法国当时疆域；逐年变化,registration_stamp_domains_cash,149.627795,,,百万法郎,年度现金；不是账期应收,M,p305 n1/PDF325,,"原文：pour l’an XIII c’était 172.763.591 pour l’exercice, mais seulement 149.627.795 encaissés pendant les 12 mois"
+F4-090,算术,S0,An XIII,法国当时疆域；逐年变化,registration_cash_to_exercise_ratio,86.6084075550386,,,%,十二个月现金÷账期权利；账期长于十二个月，因此不等于欠缴率,M,p305 n1/PDF325,149.627795/172.763591*100,只证“账面收入≠当年可用现金”，不得移植到其他税种或年份
+F4-091,预算,S0,An XIII,法国当时疆域；逐年变化,budget_direct_taxes,301.5,,,百万法郎,预期预算；非实收,M,p322/PDF342 image checked,,An XIII直接税301.5m为原扫描；不用网页311m。0只指本预算行未列，不指无任何资产售卖。
+F4-092,预算,S0,1813,法国当时疆域；逐年变化,budget_direct_taxes,340.696,,,百万法郎,预期预算；非实收,M,p322/PDF342 image checked,,An XIII直接税301.5m为原扫描；不用网页311m。0只指本预算行未列，不指无任何资产售卖。
+F4-093,预算,S0,An XIII,法国当时疆域；逐年变化,budget_registration_domains_forests,185,,,百万法郎,预期预算；非实收,M,p322/PDF342 image checked,,An XIII直接税301.5m为原扫描；不用网页311m。0只指本预算行未列，不指无任何资产售卖。
+F4-094,预算,S0,1813,法国当时疆域；逐年变化,budget_registration_domains_forests,206,,,百万法郎,预期预算；非实收,M,p322/PDF342 image checked,,An XIII直接税301.5m为原扫描；不用网页311m。0只指本预算行未列，不指无任何资产售卖。
+F4-095,预算,S0,An XIII,法国当时疆域；逐年变化,budget_customs_and_salt,46,,,百万法郎,预期预算；非实收,M,p322/PDF342 image checked,,An XIII直接税301.5m为原扫描；不用网页311m。0只指本预算行未列，不指无任何资产售卖。
+F4-096,预算,S0,1813,法国当时疆域；逐年变化,budget_customs_and_salt,150,,,百万法郎,预期预算；非实收,M,p322/PDF342 image checked,,An XIII直接税301.5m为原扫描；不用网页311m。0只指本预算行未列，不指无任何资产售卖。
+F4-097,预算,S0,An XIII,法国当时疆域；逐年变化,budget_droits_reunis_and_tobacco,25,,,百万法郎,预期预算；非实收,M,p322/PDF342 image checked,,An XIII直接税301.5m为原扫描；不用网页311m。0只指本预算行未列，不指无任何资产售卖。
+F4-098,预算,S0,1813,法国当时疆域；逐年变化,budget_droits_reunis_and_tobacco,220,,,百万法郎,预期预算；非实收,M,p322/PDF342 image checked,,An XIII直接税301.5m为原扫描；不用网页311m。0只指本预算行未列，不指无任何资产售卖。
+F4-099,预算,S0,An XIII,法国当时疆域；逐年变化,budget_lottery,14,,,百万法郎,预期预算；非实收,M,p322/PDF342 image checked,,An XIII直接税301.5m为原扫描；不用网页311m。0只指本预算行未列，不指无任何资产售卖。
+F4-100,预算,S0,1813,法国当时疆域；逐年变化,budget_lottery,15,,,百万法郎,预期预算；非实收,M,p322/PDF342 image checked,,An XIII直接税301.5m为原扫描；不用网页311m。0只指本预算行未列，不指无任何资产售卖。
+F4-101,预算,S0,An XIII,法国当时疆域；逐年变化,budget_post,10,,,百万法郎,预期预算；非实收,M,p322/PDF342 image checked,,An XIII直接税301.5m为原扫描；不用网页311m。0只指本预算行未列，不指无任何资产售卖。
+F4-102,预算,S0,1813,法国当时疆域；逐年变化,budget_post,12,,,百万法郎,预期预算；非实收,M,p322/PDF342 image checked,,An XIII直接税301.5m为原扫描；不用网页311m。0只指本预算行未列，不指无任何资产售卖。
+F4-103,预算,S0,An XIII,法国当时疆域；逐年变化,budget_eastern_saltworks,3,,,百万法郎,预期预算；非实收,M,p322/PDF342 image checked,,An XIII直接税301.5m为原扫描；不用网页311m。0只指本预算行未列，不指无任何资产售卖。
+F4-104,预算,S0,1813,法国当时疆域；逐年变化,budget_eastern_saltworks,3,,,百万法郎,预期预算；非实收,M,p322/PDF342 image checked,,An XIII直接税301.5m为原扫描；不用网页311m。0只指本预算行未列，不指无任何资产售卖。
+F4-105,预算,S0,An XIII,法国当时疆域；逐年变化,budget_external_receipts,30,,,百万法郎,预期预算；非实收,M,p322/PDF342 image checked,,An XIII直接税301.5m为原扫描；不用网页311m。0只指本预算行未列，不指无任何资产售卖。
+F4-106,预算,S0,1813,法国当时疆域；逐年变化,budget_external_receipts,30,,,百万法郎,预期预算；非实收,M,p322/PDF342 image checked,,An XIII直接税301.5m为原扫描；不用网页311m。0只指本预算行未列，不指无任何资产售卖。
+F4-107,预算,S0,An XIII,法国当时疆域；逐年变化,budget_communal_asset_sales_levy,0,,,百万法郎,预期预算；非实收,M,p322/PDF342 image checked,,An XIII直接税301.5m为原扫描；不用网页311m。0只指本预算行未列，不指无任何资产售卖。
+F4-108,预算,S0,1813,法国当时疆域；逐年变化,budget_communal_asset_sales_levy,149,,,百万法郎,预期预算；非实收,M,p322/PDF342 image checked,,An XIII直接税301.5m为原扫描；不用网页311m。0只指本预算行未列，不指无任何资产售卖。
+F4-109,预算,S0,An XIII,法国当时疆域；逐年变化,budget_total_including_misc,684,,,百万法郎,预期预算；非实收,M,p322/PDF342 image checked,,An XIII直接税301.5m为原扫描；不用网页311m。0只指本预算行未列，不指无任何资产售卖。
+F4-110,预算,S0,1813,法国当时疆域；逐年变化,budget_total_including_misc,1150,,,百万法郎,预期预算；非实收,M,p322/PDF342 image checked,,An XIII直接税301.5m为原扫描；不用网页311m。0只指本预算行未列，不指无任何资产售卖。
+F4-111,预算,S0,1813,法国当时疆域；逐年变化,budget_detail_customs,100,,,百万法郎,1813-03-20预算,M,p362 n3/PDF382,,是上述合并项目拆分；不再次相加
+F4-112,预算,S0,1813,法国当时疆域；逐年变化,budget_detail_salt,50,,,百万法郎,1813-03-20预算,M,p362 n3/PDF382,,是上述合并项目拆分；不再次相加
+F4-113,预算,S0,1813,法国当时疆域；逐年变化,budget_detail_droits_reunis,150,,,百万法郎,1813-03-20预算,M,p362 n3/PDF382,,是上述合并项目拆分；不再次相加
+F4-114,预算,S0,1813,法国当时疆域；逐年变化,budget_detail_tobacco,70,,,百万法郎,1813-03-20预算,M,p362 n3/PDF382,,是上述合并项目拆分；不再次相加
+F4-115,文献转录,S0,1810,法国当时疆域；逐年变化,land_tax_principal_total,208.561472,,,百万法郎,应分摊本金,M,p307/PDF327,,
+F4-116,文献转录,S0,1810,法国当时疆域；逐年变化,land_tax_principal_new_france,35.648,,,百万法郎,新并合地区分摊本金,M,p307/PDF327,,
+F4-117,算术,S0,1810,法国当时疆域；逐年变化,land_tax_principal_old_france,172.913472,,,百万法郎,总额减新地区；非实际收款,M,p307/PDF327,208.561472-35.648,
+F4-118,预算或作者引述总额,S0,An XIII,法国当时疆域；逐年变化,published_revenue_total_mixed,684,,,百万法郎,Gaudin总额引述/1811以后预期；不等于固定疆域经常实收,M,pp320-322/PDF340-342,,An XIV-1806=15个月；不用于年度贡赋依赖比；页321影像修正OCR980→986、780→786
+F4-119,预算或作者引述总额,S0,An XIV-1806,法国当时疆域；逐年变化,published_revenue_total_mixed,986,,,百万法郎,Gaudin总额引述/1811以后预期；不等于固定疆域经常实收,M,pp320-322/PDF340-342,,An XIV-1806=15个月；不用于年度贡赋依赖比；页321影像修正OCR980→986、780→786
+F4-120,预算或作者引述总额,S0,1807,法国当时疆域；逐年变化,published_revenue_total_mixed,720,,,百万法郎,Gaudin总额引述/1811以后预期；不等于固定疆域经常实收,M,pp320-322/PDF340-342,,An XIV-1806=15个月；不用于年度贡赋依赖比；页321影像修正OCR980→986、780→786
+F4-121,预算或作者引述总额,S0,1808,法国当时疆域；逐年变化,published_revenue_total_mixed,772,,,百万法郎,Gaudin总额引述/1811以后预期；不等于固定疆域经常实收,M,pp320-322/PDF340-342,,An XIV-1806=15个月；不用于年度贡赋依赖比；页321影像修正OCR980→986、780→786
+F4-122,预算或作者引述总额,S0,1809,法国当时疆域；逐年变化,published_revenue_total_mixed,786,,,百万法郎,Gaudin总额引述/1811以后预期；不等于固定疆域经常实收,M,pp320-322/PDF340-342,,An XIV-1806=15个月；不用于年度贡赋依赖比；页321影像修正OCR980→986、780→786
+F4-123,预算或作者引述总额,S0,1810,法国当时疆域；逐年变化,published_revenue_total_mixed,795,,,百万法郎,Gaudin总额引述/1811以后预期；不等于固定疆域经常实收,M,pp320-322/PDF340-342,,An XIV-1806=15个月；不用于年度贡赋依赖比；页321影像修正OCR980→986、780→786
+F4-124,预算或作者引述总额,S0,1811,法国当时疆域；逐年变化,published_revenue_total_mixed,954,,,百万法郎,Gaudin总额引述/1811以后预期；不等于固定疆域经常实收,M,pp320-322/PDF340-342,,An XIV-1806=15个月；不用于年度贡赋依赖比；页321影像修正OCR980→986、780→786
+F4-125,预算或作者引述总额,S0,1812,法国当时疆域；逐年变化,published_revenue_total_mixed,1030,,,百万法郎,Gaudin总额引述/1811以后预期；不等于固定疆域经常实收,M,pp320-322/PDF340-342,,An XIV-1806=15个月；不用于年度贡赋依赖比；页321影像修正OCR980→986、780→786
+F4-126,预算或作者引述总额,S0,1813,法国当时疆域；逐年变化,published_revenue_total_mixed,1150,,,百万法郎,Gaudin总额引述/1811以后预期；不等于固定疆域经常实收,M,pp320-322/PDF340-342,,An XIV-1806=15个月；不用于年度贡赋依赖比；页321影像修正OCR980→986、780→786
+F4-127,缺测,S0,1804,法国当时疆域；逐年变化,comparable_annual_extraordinary_share_all_resources,,,,%,严格相同边界的年度全资源贡赋比未形成,BR;M,BR p14附表;M pp315-324,,缺失不等于0；共和历与15个月会计期不能强配公历年。

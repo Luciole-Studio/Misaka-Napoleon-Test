@@ -1,0 +1,42 @@
+GRP : revues JOB : num121⊕xml DIV : 10⊕LevyGarbouaMonnet p. 1 folio : 35 --- 5/4/016 --- 16H4
+
+
+
+
+                   LES TAUX D’INTÉRÊT EN FRANCE :
+                        UNE PERSPECTIVE HISTORIQUE
+                                                    VIVIEN LEVY-GARBOUA*
+                                                        ÉRIC MONNET**
+
+
+
+
+             L
+                     ’objectif de cet article est de décrire et d’interpréter l’évolution
+                     des taux d’intérêt en France dans une optique de long terme, du
+                     début du XIXe siècle à aujourd’hui. Il s’agit ainsi de caractériser la
+             période présente et de la mettre en perspective. Une première question
+             concerne le caractère exceptionnel (ou non) de la période actuelle :                                          35
+             existe-t-il des précédents historiques au plancher zéro des taux nomi-
+             naux (zero lower bound) ? Une deuxième question a trait au lien entre les
+             taux d’intérêt et les autres grandes variables macroéconomiques : la
+             relation actuelle entre les taux d’intérêt, l’inflation et le revenu est-elle
+             anormale dans une perspective de long terme ? Une troisième question
+             porte sur le lien entre la politique monétaire et la situation des taux
+             d’intérêt réels : la première est-elle la cause de la seconde ou sont-elles
+             (totalement ou partiellement) indépendantes dans leurs évolutions ?
+                Toutes ces questions ont suscité de nombreuses recherches depuis le
+             début de la crise financière et ont mis au centre de l’analyse le taux
+             d’intérêt naturel, c’est-à-dire le taux d’intérêt réel qui serait compatible
+             avec le plein-emploi (ou une variante moderne du plein-emploi) et une
+             croissance équilibrée1. Ces travaux cherchent à déterminer le taux
+             d’intérêt naturel de manière cohérente, puis à voir comment il a varié
+             dans le temps et, plus rarement, à comparer les taux observés au taux
+             ainsi calculé. Telle n’est pas ici notre approche2.
+
+             * Professeur, Sciences Po Paris. Contact : vlevygsyahoo.com.
+             ** Économiste chercheur senior, DGEI-DCPM-DIACONJ, Banque de France.
+             Contact : eric.monnetsgmail.com.
+             Nous remercions David Le Bris pour avoir partagé ses données sur le taux des rentes et pour ses
+             commentaires sur une première version de ce texte. Cet article reflète l’opinion de ses auteurs et n’engage
+             pas la Banque de France, ni l’Eurosystème.

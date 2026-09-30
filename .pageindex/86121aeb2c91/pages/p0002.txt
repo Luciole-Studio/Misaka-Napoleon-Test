@@ -1,0 +1,46 @@
+## Sheet: Front Page (continued)
+	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S
+
+
+```meta
+▸ number-format
+    #,##0 D44
+▸ styles
+    font-color: #0000FF D35
+    bold: D35,D44
+    underline: D35,D37:D42,D46:I46,D47:D52,E48:J49,K49:S49
+▸ extras
+    link D46→https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/1967/boe-liabilities-and-assets-1696-onwards.pdf
+    link E46→https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/1967/boe-liabilities-and-assets-1696-onwards.pdf
+    link F46→https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/1967/boe-liabilities-and-assets-1696-onwards.pdf
+    link G46→https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/1967/boe-liabilities-and-assets-1696-onwards.pdf
+    link H46→https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/1967/boe-liabilities-and-assets-1696-onwards.pdf
+    link I46→https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/1967/boe-liabilities-and-assets-1696-onwards.pdf
+    link D47→https://www.bankofengland.co.uk/quarterly-bulletin/1967/q2/bank-of-england-liabilities-and-assets---1696-to-1966-appendix-to-article
+    link D48→https://www.bankofengland.co.uk/-/media/boe/files/archive/statistical-abstract/number-1-1970.pdf
+    link E48→https://www.bankofengland.co.uk/-/media/boe/files/archive/statistical-abstract/number-1-1970.pdf
+    link F48→https://www.bankofengland.co.uk/-/media/boe/files/archive/statistical-abstract/number-1-1970.pdf
+    link G48→https://www.bankofengland.co.uk/-/media/boe/files/archive/statistical-abstract/number-1-1970.pdf
+    link H48→https://www.bankofengland.co.uk/-/media/boe/files/archive/statistical-abstract/number-1-1970.pdf
+    link I48→https://www.bankofengland.co.uk/-/media/boe/files/archive/statistical-abstract/number-1-1970.pdf
+    link J48→https://www.bankofengland.co.uk/-/media/boe/files/archive/statistical-abstract/number-1-1970.pdf
+    link D49→https://webarchive.nationalarchives.gov.uk/20100610220031/https:/www.bankofengland.co.uk/statistics/ms/articles/artjun06.pdf
+    link E49→https://webarchive.nationalarchives.gov.uk/20100610220031/https:/www.bankofengland.co.uk/statistics/ms/articles/artjun06.pdf
+    link F49→https://webarchive.nationalarchives.gov.uk/20100610220031/https:/www.bankofengland.co.uk/statistics/ms/articles/artjun06.pdf
+    link G49→https://webarchive.nationalarchives.gov.uk/20100610220031/https:/www.bankofengland.co.uk/statistics/ms/articles/artjun06.pdf
+    link H49→https://webarchive.nationalarchives.gov.uk/20100610220031/https:/www.bankofengland.co.uk/statistics/ms/articles/artjun06.pdf
+    link I49→https://webarchive.nationalarchives.gov.uk/20100610220031/https:/www.bankofengland.co.uk/statistics/ms/articles/artjun06.pdf
+    link J49→https://webarchive.nationalarchives.gov.uk/20100610220031/https:/www.bankofengland.co.uk/statistics/ms/articles/artjun06.pdf
+    link K49→https://webarchive.nationalarchives.gov.uk/20100610220031/https:/www.bankofengland.co.uk/statistics/ms/articles/artjun06.pdf
+    link L49→https://webarchive.nationalarchives.gov.uk/20100610220031/https:/www.bankofengland.co.uk/statistics/ms/articles/artjun06.pdf
+    link M49→https://webarchive.nationalarchives.gov.uk/20100610220031/https:/www.bankofengland.co.uk/statistics/ms/articles/artjun06.pdf
+    link N49→https://webarchive.nationalarchives.gov.uk/20100610220031/https:/www.bankofengland.co.uk/statistics/ms/articles/artjun06.pdf
+    link O49→https://webarchive.nationalarchives.gov.uk/20100610220031/https:/www.bankofengland.co.uk/statistics/ms/articles/artjun06.pdf
+    link P49→https://webarchive.nationalarchives.gov.uk/20100610220031/https:/www.bankofengland.co.uk/statistics/ms/articles/artjun06.pdf
+    link Q49→https://webarchive.nationalarchives.gov.uk/20100610220031/https:/www.bankofengland.co.uk/statistics/ms/articles/artjun06.pdf
+    link R49→https://webarchive.nationalarchives.gov.uk/20100610220031/https:/www.bankofengland.co.uk/statistics/ms/articles/artjun06.pdf
+    link S49→https://webarchive.nationalarchives.gov.uk/20100610220031/https:/www.bankofengland.co.uk/statistics/ms/articles/artjun06.pdf
+    link D50→https://www.bankofengland.co.uk/quarterly-bulletin/2014/q3/changes-to-the-banks-weekly-reporting-regime
+    link D51→https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/weekly-data-on-the-boes-balance-sheet-1844-to-2006.xlsx
+    link D52→https://www.bankofengland.co.uk/-/media/boe/files/research/the-bank-of-england-as-lender-of-last-resort-historical-dataset.xlsb?la=en&hash=5BC1800E6C6188AABEB79C8AEF6D5DFC5688B3B1
+```

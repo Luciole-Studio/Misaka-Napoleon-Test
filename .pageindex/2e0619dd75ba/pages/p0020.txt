@@ -1,0 +1,61 @@
+
+
+##### 5.3 Sectoral heterogeneity
+
+Trade theory suggests that the effects of commercial policy and other determinants of trade costs may be very different across industries. Thus, the structural gravity model of trade is separable and allows for heterogeneous trade elasticities across products. From an empirical perspective, it is natural to expect that the effects of trade costs may vary across commodity categories. Against this backdrop, we explore variation in the effects of distance and the empire along these lines. The results in Figure 8 are obtained from the following version of Equation (4) that includes section-year fixed effects and allows for the estimates of the effects of distance and empire to vary across the ten SITC one-digit sections in our data:
+
+x k jt = exp[ψ k
+
+## t +X
+
+10
+
+S=1
+
+α1S ln(DIST S jt) +X
+
+10
+
+S=1 α2SEMP IRE S jt] × exp[α3ln(GDPjt) + α4ln(DECGjt) + α5W ARjt] × ϵ k jt . (6)
+
+23As a reminder, we control for these wars in our regressions.
+
+Figure 8: Heterogeneity in Distance and Empire Effects on British Exports across Sectors
+
+-1 -.5
+
+0 .5
+
+0 1 2 3 4 5 6 7 8 9 Broad Sectors Distance Estimate 95% Confidence Interval
+
+Heterogeneity of the effects of Distance
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+0 1 2 3 4 5 6 7 8 9 Broad Sectors Empire Estimate 95% Confidence Interval
+
+Heterogeneity of the effects of Empire
+
+Notes: This figure reports estimates of the heterogeneous effects of distance and empire across the ten SITC sections in our sample. The estimator is PPML, and the dependent variable is bilateral exports at the one-digit (section) level over the period from 1700 to 1899. The left panel of the figure reports the heterogeneous effects of distance, and the right panel of the figure reports the corresponding estimates for empire. Each of the two panels includes the coefficient point estimates and associated 95% confidence intervals. The
+
+standard errors are clustered by destination-section.
+
+The left panel of Figure 8 depicts the disaggregated distance effects and the right panel reports the corresponding empire effects. Each of the two panels include the coefficient point estimates and associated 95% confidence intervals. The main results from the left panel of Figure 8 can be summarized as follows. First, all but one of the estimated distance effects are negative and statistically significant (the exception being that for (1)
+
+Beverages and tobacco). The rest of the distance estimates can be split in two groups.
+
+First, there are large distance effects for (0) Food and live animals chiefly for food; (2)
+
+Crude materials, inedible, except fuels; (3) Mineral fuels, lubricants and related; and (4)
+
+Animal and vegetable oils, fats, waxes. Second, there are small distance effects for (5)
+
+Chemicals and related products; (6) Goods classified chiefly by materials; (7) Machinery and transport equipment; (8) Miscellaneous manufactured articles; and (9) Commodities not classified elsewhere. Based on the fact that transportation costs are usually higher for sectors that are more resource oriented, we find the differences in the distance effects

@@ -1,0 +1,40 @@
+Environ. Res. Lett. 14 (2019) 094019
+
+
+
+
+   Figure 2. Observed and simulated spatial patterns for the summer of 1816: sea level pressure (left), temperature (middle) and
+   precipitation (right) relative to 1781–2000 mean. Top row, observed summer climate from Casty et al (2007) and Küttel et al (2010).
+   Second row, mean of 5 analogues from observations with long-term warming removed (see methods). Third row, mean of best 27
+   analogues from pre-industrial control simulations. Fourth row, mean of the best 2 analogues from simulations of summer 1816 which
+   include the Tambora eruption. Fifth and sixth row mean of all 50 HadCM3 and 30 MPI-ESM1.2 simulations of 1816 summer which
+   include the Tambora eruption for the summer of 1816. The stipples show 90% agreement of sign. Box in the left panels—region over
+   which analogues are calculated. Box in centre and right panels—area spatial means are calculated over.
+
+
+
+model simulations and observed variability in both                    cases are shown in the supplement; ﬁgure S4). The
+temperature and precipitation (ﬁgure 3(b)), which                     MPI-ESM2.1 simulations forced with the lower esti-
+increases conﬁdence that the climate simulations can                  mate of the Mount Tambora eruption exhibit con-
+adequately represent European summer climate.                         siderably less cooling than those with the high estimate
+     Simulations of 1816 using two climate models                     of the forcing (ﬁgure S4(c) and (e)) showing that sum-
+(MPI-ESM1.2 and HadCM3—see data section) that                         mer cooling is very dependent on the forcing
+include the Mount Tambora eruption show that the                      (Zanchettin et al 2019). The mean of the experiments
+volcanic forcing is likely to have caused considerable                with the ‘best’ estimate of the volcanic forcing is most
+cooling throughout Europe (ﬁgure 3(c)). Although                      consistent with the observations, although all ensem-
+there is a wide distribution of values for the summer of              bles encompass the observed value. Given that we have
+1816 (which reﬂects the large role that internal varia-               found a small contribution to the cooling in this
+bility plays in any speciﬁc year) there is a clear offset             region from atmospheric circulation (ﬁgure 2) which
+in the distribution with the change in regional                       is not included in the ensemble mean, it is possible that
+mean found to be highly signiﬁcant in both models                     the lower estimate of forcing would actually be the
+(p<0.001). The mean of all the HadCM3 ensemble                      most consistent, if this were included. Indeed, a better
+members shows slightly less cooling than observed in                  agreement between the simulations with the low for-
+1816 (ﬁgure S4f) but the ensemble spread is consistent                cing and reconstructions of summer temperatures was
+with the observed value. We use three ensembles with                  found previously by Zanchettin et al (2019) based on a
+MPI-ESM1.2 forced by a low, best and high estimate                    much wider European mean, for which the dynamical
+of what the forcing caused by the Mount Tambora                       contribution would be expected to be reduced.
+eruption could have been (see data section). We focus                     There is also a slight increase in average European
+largely on the central, best forcing estimate of the                  mean precipitation (which is signiﬁcant only in
+Mount Tambora eruption (but results for all three                     HadCM3). This is consistent with a number of other
+
+                                                       5

@@ -1,0 +1,51 @@
+
+
+注111（行9618）定位：AN AF IV 1123，1808年Hargenvilliers “Compte général sur la conscription depuis son établissement”。注104（行9790）定位1806年“État général des déserteurs”，其正文p.63附近警告：
+> “les mots déserteur et réfractaire se prennent ici dans le même sens”
+
+【未验证】未直接读到上述档案原件。Darquenne地方研究书目由Forrest注91提供：Roger Darquenne，“La conscription dans le Département de Jammapes, 1798–1813”，*Annales du Cercle archéologique de Mons*, 67 (1968–1970)。地方标题不能当全国年度表已获。
+
+- 本地：`downloads/pages/81f2084d72ce.md`（OCR；原句中的软断字符此处按词连接）
+- URL：https://rodrigomorenog.files.wordpress.com/2019/01/forrest-conscripts-and-deserters_-the-army-and-french-society-during-the-revolution-and-empire-oxford-1989.pdf
+
+### 4.2 JEH：1806—1810省级数据存在，但不能把平均逃避率乘总征额
+
+Louis Rouanet and Ennio E. Piano, “Drafting the Great Army: The Political Economy of Conscription in Napoleonic France”, *Journal of Economic History* 83(4), 2023, pp.1057–1100，DOI 10.1017/S0022050723000360。
+
+【事实：核读】“DATA DESCRIPTION”第1段：
+> “Measures for these variables refer to France’s 110 departments (plus the island of Elba) for each year between 1806 and 1810.”
+
+第2段：
+> “Lacuée regularly reported to Napoléon how many conscripts left their departments and arrived in their units.”
+
+第3段：
+> “Lacuée’s data provides figures only for individuals from the former category … draft dodgers.”
+
+【方法限制】其逃避征兵率不是部队服役后的全部逃亡率；省份未加权平均也不是全国按人数加权率。本文网页没有给本次所需的完整全国年度“授权/实到”表。注13指AN AF/IV/1124及Rouanet and Piano (2022)数据代码；注17明确离省/到队报告在AN AF/IV/1122。Figure 1来源为AF/IV/1124 n.1、n.9。数据包本次未下载、未求和，不能假称已经重建系列。
+
+- 本地：`downloads/pages/ee71889de366.md`，DATA DESCRIPTION、注13、17。
+- URL：https://www.cambridge.org/core/journals/journal-of-economic-history/article/drafting-the-great-army-the-political-economy-of-conscription-in-napoleonic-france/FDBA5D70BC85C24186EF7C9767D249BF
+
+### 4.3 Houdaille：累计征额与编入可冻结，仍非年度系列
+
+Jacques Houdaille, “Pertes de l’armée de terre sous le premier Empire, d’après les registres matricules”, *Population* 27(1), 1972, pp.27–50。
+
+【事实：转引自Houdaille pp.48—49】“Nombre d’hommes ayant servi sous l’Empire”：
+> “Au total, d’après ces documents, 2 655 000 conscrits auraient été appelés de l’an VII au 15 novembre 1813 et 2 480 000 auraient été incorporés ces chiffres se rapportant à la France dans ses frontières de 1804 (rive gauche du Rhin et Piémont).”
+> “retrancher environ 330 000 hommes incorporés de l’an VII à l’an XI ce qui laisse un total de 2 150 000 hommes”
+
+|时段|地域|appelés|incorporés|证据性质|
+|---|---|---:|---:|---|
+|共和VII年—1813-11-15|1804边界，含莱茵左岸及皮埃蒙特|2,655,000|2,480,000|Houdaille转述Darquenne分析征兵局资料；原文条件式|
+|扣除VII—XI年约330,000后|同上|—|约2,150,000|累计差额，不是逐年实到|
+|Houdaille军籍抽样扣重、扣除XII年前入伍者后|为与上述范围比较而整理|—|约2,025,000|作者估计；与行政统计不是同一数据过程|
+
+原文明确：
+> “nous ignorons si les volontaires figurent parmi les soldats incorporés”
+
+【文献推断：Houdaille】他把125,000差额解释为可能属于未在1813年转入陆军的舰队人员，措辞为“correspondrait”；不可冻结成已证实海军人数。pp.47—48亦警告重复逃亡/再编入，不能把所有记录条次当独立人数。
+
+- 本地：`downloads/pages/b4cf5e9825fc.md`，行515—557附近。
+- URL：https://www.persee.fr/doc/pop_0032-4663_1972_num_27_1_15097
+
+### 4.4 Woloch表：明确定位但未核得

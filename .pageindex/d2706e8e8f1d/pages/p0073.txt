@@ -1,0 +1,129 @@
+
+
+<<<PDFPAGE 146>>>
+128 
+The Anatomy of a Research Project 
+Appendix: fields contained in the database 
+1 
+3 
+4 
+n 
+16 
+17 
+18 
+Identity: name, surname and nickname. 
+Age in 1808. 
+Marital status: single, married, married with children, widowed, widowed 
+with children, ecclesiastic, unknown. 
+Origin: place of birth/residence. 
+Professional particulars: active, retired, unknown. 
+Occupation: lawyer; postal official; fiscal official; mason; mayor; archdeacon; 
+muleteer; barber; chemist; canon; chaplain; butcher; carpenter; clergyman; 
+merchant; coachman; smuggler; corregidor; leather worker; priest; priest with 
+benefice; priest without benefice; deacon; ecclesiastic; tobacconist; student; 
+baize manufacturer; corn factor; tailor’s assistant; public prosecutor; 
+friar; 
+Agustinian friar; Benedictine friar; Bernardine friar; Capuchin friar; Carmelite 
+friar; Carthusian 
+friar; Franciscan 
+friar; Mercenary friar; Trinitarian 
+friar; 
+customs 
+guard (tobacco 
+administration); 
+day labourer; 
+peasant; 
+doctor; 
+messenger; innkeeper; soldier; soldier (corporal); soldier (Guardia de Corps); 
+naval officer (first lieutenant); soldier (retired); soldier (captain); soldier (colonel); 
+soldier (private); naval officer (second lieutenant); notary; customs official; 
+gensdarme; municipal official; shepherd; teacher; rentier; gravedigger; bartender; 
+weaver; military accountant; clerk in minor orders; leather worker; shoemaker. 
+Professional group: agriculture; government; clergy; regular clergy; secular 
+clergy; commerce; construction; smuggler; army; education; functionary; 
+artisanate; navy; other occupations; free professions; rentier; transport. 
+Rating: apprentice; craftsman; master. 
+Social class: commoner; ecclesiastic; noble; soldier. 
+Economic class: tenant; large-property owner; medium-property owner; 
+small-property owner. 
+Cultural characteristics: illiterate; literate; university graduate. 
+Military particulars in 1808: serving soldier; retired soldier; civilian; ecclesiastic; 
+unknown. 
+Rank in 1808. 
+Unit in 1808. 
+Combat experience prior to 1808: War of the Oranges (1801); Revolu- 
+tionary War (1792-95); War against Britain (1796-1808); colonial campaigns 
+(America), etc. 
+Month and year of first appearance in the ‘little war’. 
+Reason for enlistment: commissioned by the civilian or military authorities; 
+dispersed; deserted; failure of the national army; revenge; unknown; granted 
+permission to form a band; granted permission to form a cruzada; home 
+defence; escaped French imprisonment; escaped from justice; juramentado 
+taken prisoner by the guerrillas; carried off by force; transferred to land service 
+for want of naval resources and/or objectives; requested permission to form 
+a band; ordered by the Patriot authorities to join the guerrillas; freed from 
+prison to fight the French; personal violence. 
+Initial status: commandant; second commandant; subaltern; unknown; 
+civilian collaborator. 
+
+<<<PDFPAGE 147>>>
+33 
+34 
+Charles J. Esdaile and Leonor Hernandez Enviz 
+129 
+Province and region in which activities began. 
+Family members serving with the guerrillas. 
+Military service, 1808-14 (by month). 
+Status, 1808-14: commandant; second commandant; subaltern; unknown; 
+civilian collaborator. 
+Category of combatant in 1808: bandit; gendarmerie (resguardo); insurgent; 
+local militia (alarma); local militia (cruzada); local militia (milicia honrada); local 
+militia (rising); local militia (somatén); regular army (migueletes); militar-ized 
+guerrilla band; unmilitarized guerrilla band; regular army (new regiment); 
+regular army (pre-1808); Royal Navy (Spanish); unknown. 
+Region/s of operation (by year). 
+Band/unit (by year). 
+Changes in status (by year). 
+Combats (by month). 
+Province or provinces of operation by month. 
+Strength of band/unit. 
+Political preferences: absolutist; liberal. 
+Career after 1814, date and place of death. 
+Fate (1808-14): garrotted by junta criminal; hung by French army; amnestied; 
+died in combat; died of wounds; went over to enemy; imprisoned by Patriot 
+authorities; captured by the French army; sent to France as prisoner of war; 
+retired to civil life; executed by other guerrillas; executed by the French 
+army; executed by the Patriot authorities; exiled to Portugal; exiled to 
+France; exiled to Britain; wounded in battle; band dissolved by the Patriot 
+authorities for misconduct; band dispersed by the French; captured by other 
+guerrillas; sentenced to death by junta criminal; sentenced to death by hanging 
+by junta criminal; imprisoned by junta criminal; surrendered to the French; 
+returned to the ranks of the regular army. 
+Fate (post-1814): stayed on in the army; fought against the absolutism of 
+Fernando VII; took part in the Carlist War; returned to civil life; emigrated 
+to Britain; fought against the liberals; participated in the Navarrese uprising 
+of 1814. 
+Sources: primary; secondary. 
+Rank 
+No. 
+% 
+Commandant 
+656 
+PNETh 
+Second commandant 
+39 
+ies) 
+Subaltern 
+2135 
+70.6 
+Collaborator 
+27 
+0.9 
+Unknown 
+167 
+Bye 
+Total 
+3024 
+100.0 
+Figure 7.1 
+Combatants in Ja guerrilla analyzed by status 

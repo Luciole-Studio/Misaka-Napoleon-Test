@@ -1,0 +1,39 @@
+persistence.” our results suggest that though specie payments
+were suspended the commitment to resume prevented the government
+from acting as it would under the pure fiat regime postulated by
+the theory. This suggests that though the British authorities may
+have used the inflation tax as a source of wartime finance, they
+
+did not follow an optimal policy of seigniorage smoothing.
+THE CONSULATE AND EMPIRE, 1799-1812
+Although Great Britain, in spite of suspension, was able to
+
+finance a considerable portion of its war effort by borrowing,
+
+France relied almost entirely on taxation while it attempted to
+
+5rndeed the inflation rate over the period 1797-1815 does not
+display any evidence of persistence as can be seen in the following
+autocorrections:
+
+Autocorrelations of inflation 1797-1815
+Lags Autocorrelations ,
+1-9 +24 ~.54 —.38 .15 .15 ~.16 .02 «15 ~,07
+10-18 二 ,25 «04 ~35 .13 -.19 ~.17 -.02 04 402
+Standard error of correlation = .23
+
+Q(18) = 16.4 is well below the critical value of 26.0 at
+the 10% level of significance.
+
+Alternatively based on the insignificant coefficient of
+the following first order autoregression, the inflation rate 1797-~
+1815 did not follow the martingale postulated by the theory of
+seigniorage smoothing.
+
+logP, = .003 + .209 logP, - 1 Re = .037 DW = 1.65
+(t-values) (.109) (0.804) SEE =.107
+
+However, these results should be viewed as suggestive owing to
+the limited number of observations.
+
+26

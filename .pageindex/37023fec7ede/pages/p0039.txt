@@ -1,0 +1,45 @@
+               Table 21: The allocation of soldiers and Lacuée’s classification.
+
+Note: This table displays regressions of Lacuée’s classification on the percentage of 30,000 conscripts
+from the 1810 cohort sent to different theaters of war in 1809. Conscripts were sent, broadly speak-
+ing, in 3 different regions: Germany (including Belgium), Italy (Including Illyria) and Spain. ‘First
+class’ represents the group of departments Lacuée considered the easiest to conscript from, ‘Second
+class’ the second easiest group of departments for conscription authorities and so on. ‘Fifth class’
+is omitted and is therefore the baseline group. Robust standard errors are reported in parenthesis.
+
+                             Germany                      Spain                        Italy
+                         (1)          (2)           (3)            (4)           (5)            (6)
+ First class        30.59125*** 27.49264***    -8.08779** -10.40361***     -31.69690*** -13.15878***
+                     (3.47537)    (3.55183)     (3.77916)      (3.83921)     (3.63043)       (2.71544)
+ Second class       29.99035*** 28.89392***    -8.10397** -10.41979***     -30.50490*** -11.35039***
+                     (3.37954)    (3.39001)     (3.70293)      (3.76406)     (3.82926)       (2.88135)
+ Third class          -1.05631     -2.19659      -6.07647     -8.39230**      -7.13106     12.04811***
+                     (3.48626)    (3.41586)     (4.05219)      (4.10873)     (5.01083)       (4.35060)
+ Fourth class        -6.04210*    -6.04210*      -3.54561       -4.99300                   18.93878***
+                     (3.27494)    (3.27792)     (4.18684)      (4.11968)                     (4.37295)
+ German border                   14.25358***
+                                  (5.07459)
+ Spanish border                                             -17.36869**
+                                                             (6.99629)
+ Italian border                                                                             -8.01319
+                                                                                           (6.53615)
+
+ Observations           555         555          555            555            555            555
+ R-squared            0.24929     0.26234      0.01129        0.02436        0.14094        0.14416
+                                 Robust standard errors in parentheses
+                                   *** p<0.01, ** p<0.05, * p<0.1
+
+
+   In table 22 we compare the results of Table 1 to the same specifications when
+we include the new controls. Overall, the inclusion of the latter leaves the former
+unaffected: the effect of ruggedness on the draft-dodging rate is robust to the in-
+troduction of controls with respect to the allocation of soldiers. Coefficients on the
+natural log of ruggedness variable are slightly bigger in half of the specifications
+and slightly smaller in the other half, once we account for the allocation of soldiers.
+This suggests that our original estimates were not significantly biased by a failure to
+account for the strategic allocation of soldiers.
+
+
+
+
+                                                  39

@@ -1,0 +1,16 @@
+{
+  "doc_id": "80a2a5c19f12",
+  "title": "[t_0bb54c] nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_finance.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_finance.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_finance.csv"
+  ],
+  "sha256": "80a2a5c19f12b3873fada19e3bb12e3a6fa7c86e8d04ee4fc904436eff48ca4c",
+  "pages": 2,
+  "task_id": "t_0bb54c",
+  "task_ids": [
+    "t_0bb54c"
+  ],
+  "added_at": 1790171066,
+  "office_format": "csv"
+}

@@ -1,0 +1,59 @@
+GRP : revues JOB : num121⊕xml DIV : 10⊕LevyGarbouaMonnet p. 20 folio : 54 --- 5/4/016 --- 16H4
+
+
+
+
+                                                            REVUE D’ÉCONOMIE FINANCIÈRE
+
+
+
+                                                                           NOTES
+                      1. Un exemple de ce type de démarche est Laubach et Williams (2015).
+                      2. L’annexe précise la démarche retenue.
+                      3. L’escompte de titres commerciaux à trois mois fut le principal moyen de refinancement des banques
+                      par la Banque de France jusqu’en 1971. À partir de cette date, les interventions sur le marché monétaire
+                      deviennent la norme, mais de nombreux outils de contrôle quantitatif demeurent (réserves obligatoires,
+                      encadrement du crédit) et le taux d’escompte reste le taux de référence jusqu’au début des années 1980
+                      (Monnet, 2014).
+                      4. Ces taux ont été recueillis par Jacques-Marie Vaslin, Alphonse Courtois et David Le Bris, et compilés
+                      dans la thèse de David Le Bris, disponible en ligne sur le site ftp://ftp.univ-orleans.fr/theses/david.lebris_
+                      2549.pdf. Voir également l’utilisation de cette série dans Le Bris et Hautcœur (2010).
+                      David Le Bris continue d’utiliser le taux de la rente après la Seconde Guerre mondiale, jusqu’en 1970.
+                      Toutefois, son taux était bien inférieur au taux d’obligation publique à long terme ou obligation d’État
+                      pendant cette période. Nous préférons donc prendre un autre taux long de référence après 1950. Cela
+                      n’est pas sans importance sur nos résultats et interprétations car le taux réel de la rente fut négatif ou nul
+                      au cours des années 1960 alors que le taux réel des obligations fut positif (cf. graphique 9).
+                      5. Sources : Insee et Caisse des dépôts pour la période 1950-1988 (Annuaire rétrospectif de la France,
+                      1948-1988) et Banque de France pour la période 1989-2015. Notons que ces taux (sociétés publiques
+                      comme sociétés privées) sont systématiquement supérieurs à ceux de la rente à 5 % qui survit dans les
+                      années 1950 et 1960.
+                      6. Les données sont issues de Constantin (1999).
+                      7. Voir le site : www.econ.yale.edu/~shiller/data.htm.
+                      8. Voir le site : www.bankofengland.co.uk/research/Pages/onebank/threecenturies.aspx.
+                      9. La baisse des taux mondiaux était un phénomène bien connu avant la crise. Caballero et al. (2008)
+     54               et Caballero et Fahri (2015) interprètent cette baisse comme la preuve d’un surplus de demande pour
+                      les actifs sûrs. Ils ne discutent pas, cependant, la compatibilité de leur théorie avec l’évolution des taux
+                      d’intérêt sur une plus longue période.
+
+
+
+
+                                                                  BIBLIOGRAPHIE
+                      BAZOT G., BORDO M. D. et MONNET E. (2014), « The Price of Stability: the Balance Sheet Policy of the
+                      Banque de France and the Gold Standard (1880-1914) », Banque de France, Working Paper, n° 510,
+                      octobre.
+                      BORDO M. D., EICHENGREEN B. et IRWIN D. A (1999), « Is Globalization Today Really Different than
+                      Globalization a Hundred Years Ago? », National Bureau of Economic Research, Working Paper, n° 7195,
+                      juin.
+                      CABALLERO R. J., FARHI E. et GOURINCHAS P.-O. (2008), « An Equilibrium Model of “Global Imba-
+                      lances” and Low Interest Rates », American Economic Review, vol. 98, n° 1, pp. 358-393.
+                      CABALLERO R. J. et FARHI E. (2015), « The Safety Trap », Harvard University, mimeo.
+                      CONSTANTIN G. (1999), Le Livret A : une histoire de l’épargne populaire, La Documentation française.
+                      LAUBACH T. et WILLIAMS J. C. (2015), « Measuring the Natural Rate of Interest Redux », Federal Reserve
+                      of San Francisco, Working Paper, n° 2015-16.
+                      LE BRIS D. (2011), Les actions françaises depuis 1854 : analyses et découvertes, thèse de doctorat en sciences
+                      de gestion, université d’Orléans, ftp://ftp.univ-orleans.fr/theses/david.lebris_2549.pdf.
+                      LE BRIS D. et HAUTCŒUR P.-C. (2010), « A Challenge to Triumphant Optimists? A Blue Chips Index
+                      for the Paris Stock Exchange, 1854-2007 », Financial History Review, vol. 17, n° 2, octobre, pp. 141-183.
+                      MIDDLETON R. (2010), « British Monetary and Fiscal Policy in the 1930s », Oxford Review of Economic
+                      Policy, vol. 26, n° 3, pp. 414-441.

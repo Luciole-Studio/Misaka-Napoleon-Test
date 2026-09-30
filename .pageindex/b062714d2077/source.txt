@@ -1,0 +1,23 @@
+Annual: 56 unique years, fiscal identities and interest ratios PASS
+Monthly: 48 unique observations PASS; no claim of causal identification
+Model: 40 paths; cash, face, coupon timing, thresholds, JSON checkpoints PASS
+Template: 8 policy rows and 32 timeline rows PASS
+Q1 literal PASS bff7e2ccf088.md
+Q2 literal PASS bff7e2ccf088.md
+Q3a literal PASS bff7e2ccf088.md
+Q3b literal PASS bff7e2ccf088.md
+Q4 literal PASS bff7e2ccf088.md
+Q5 literal PASS 156d03703582.md
+Q6 literal PASS 156d03703582.md
+Q7 literal PASS 3b8b8e348c6d.md
+Q8 literal PASS 3b8b8e348c6d.md
+Q9 literal PASS 995bd30de2bb.md
+Q10 literal PASS 1170b6cb87a9.md
+Q11 literal PASS 523f4560156c.md
+Q12a literal PASS de17c8036944.md
+Q12b literal PASS de17c8036944.md
+Q13 literal PASS 2f4fc6ec5d53.md
+Q14 literal PASS 523f4560156c.md
+Quote checks needing manual resolution: []
+Retained originals: three SHA256s PASS
+Limits: selected source passages read, not all originals independently audited; quotes checked after whitespace normalization; no visual/layout certification of Markdown required.

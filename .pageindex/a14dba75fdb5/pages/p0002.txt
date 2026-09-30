@@ -1,0 +1,74 @@
+                             Environ. Res. Lett. 12 (2017) 074026                                                     https://doi.org/10.1088/1748-9326/aa7246
+
+
+
+
+                             LETTER
+
+                             Simulating crop yield losses in Switzerland for historical and
+OPEN ACCESS
+                             present Tambora climate scenarios
+RECEIVED
+17 February 2017
+                             Simon Flückiger1,2, Stefan Brönnimann1,2,5, Annelie Holzkämper2,3, Jürg Fuhrer2,3, Daniel Krämer2,4,
+REVISED
+                             Christian Pﬁster2,4 and Christian Rohr2,4
+25 April 2017
+                             1
+                                 Institute of Geography, University of Bern, Bern, Switzerland
+ACCEPTED FOR PUBLICATION     2
+10 May 2017                      Oeschger Centre for Climate Change Research, University of Bern, Bern, Switzerland
+                             3
+                                 Agroscope, Zurich, Switzerland
+PUBLISHED                    4
+                                 Institute of History, University of Bern, Bern, Switzerland
+19 July 2017                 5
+                                 Author to whom any correspondence should be addressed.
+                             E-mail: stefan.broennimann@giub.unibe.ch
+Original content from
+this work may be used        Keywords: Tambora, weather reconstruction, crop model, year without a summer
+under the terms of the
+Creative Commons             Supplementary material for this article is available online
+Attribution 3.0 licence.
+Any further distribution
+of this work must
+maintain attribution to
+the author(s) and the
+                             Abstract
+title of the work, journal   Severe climatic anomalies in summer 1816, partly due to the eruption of Tambora in April 1815,
+citation and DOI.
+                             contributed to delayed growth and poor harvests of important crops in Central Europe.
+                             Coinciding with adverse socio-economic conditions, this event triggered the last subsistence crisis
+                             in the western World. Here, we model reductions in potential crop yields for 1816 and 1817 and
+                             address the question, what impact a similar climatic anomaly would have today. We
+                             reconstructed daily weather for Switzerland for 1816/17 on a 2 km grid using historical
+                             observations and an analogue resampling method. These data were used to simulate potential
+                             crop yields for potato, grain maize, and winter barley using the CropSyst model calibrated for
+                             current crop cultivars. We also simulated yields for the same weather anomalies, but referenced
+                             to a present-day baseline temperature. Results show that reduced temperature delayed growth and
+                             harvest considerably, and in combination with reduced solar irradiance led to a substantial
+                             reduction (20%–50%) in the potential yield of potato in 1816. Effects on winter barley were
+                             smaller. Signiﬁcant reductions were also modelled for 1817 and were mainly due to a cold late
+                             spring. Relative reductions for the present-day scenario for the two crops were almost
+                             indistinguishable from the historical ones. An even stronger response was found for maize, which
+                             was not yet common in 1816/17. Waterlogging, which we assessed using a stress-day approach,
+                             likely added to the simulated reductions. The documented, strong east-west gradient in
+                             malnutrition across Switzerland in 1817/18 could not be explained by biophysical yield
+                             limitations (though excess-water limitation might have contributed), but rather by economic,
+                             political and social factors. This highlights the importance of these factors for a societies’ ability
+                             to cope with extreme climate events. While the adaptive capacity of today’s society in Switzerland
+                             is much greater than in the early 19th century, our results emphasize the need for
+                             interdisciplinary approaches to climate change adaptation considering not only biophysical, but
+                             also social, economic and political aspects.
+
+
+
+                             1. Introduction                                                     1816 was very cold and wet in Central Europe, and
+                                                                                                 1816 became known as a ‘Year Without a Summer’
+                             The eruption of Tambora in April 1815 affected global               (YWAS). Average temperatures were 2 °C–3 °C below
+                             weather and climate (Oppenheimer 2003, Luterbacher                  that of the preceding two decades, and the frequency of
+                             and Pﬁster 2015, Raible et al 2016, Brönnimann and                  rainy days was strongly increased, although the
+                             Krämer 2016). Partly due to the volcanic eruption (but              climatic anomalies did not affect all parts of Europe
+                             also due to large random variability), the summer of                equally (Veale and Endﬁeld 2016, Brázdil et al 2016,
+
+                             © 2017 IOP Publishing Ltd

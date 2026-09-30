@@ -1,0 +1,24 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/commons/1839/mar/04/navy-estimates"
+final_url: "https://api.parliament.uk/historic-hansard/commons/1839/mar/04/navy-estimates"
+provider: "exa"
+text_sha256: "24426f15dd01d2cd6d25a0eb45e05cc98726c6604577d2b75fa5fcd594ddaca5"
+title: "NAVY ESTIMATES. (Hansard, 4 March 1839)"
+content_kind: "page_text"
+---
+
+NAVY ESTIMATES. (Hansard, 4 March 1839)
+
+Search Help
+
+# NAVY ESTIMATES.
+
+HC Deb 04 March 1839 vol 45 cc1212-53 1212
+
+§
+
+*—In former Sessions, Sir, when I have had the honour of moving in Committees of Supply, the estimates for the naval service of the country, I have always abstained from saying more than seemed to me to be necessary for explaining any differences which might have been made since the estimates of the preceding year. I have done so, not from any unwillingness to afford the fullest information on every subject connected with the department to which I belong, but because I have been unwilling to trespass unnecessarily upon the attention of hon. Gentlemen, and because I have always believed that, in saving the time, I was best consulting the wishes of the House. On the present occasion, however, I feel it to be necessary for me to pursue a different course. I need not remind hon. Gentlemen, that for the last six months, unceasing attacks have been made upon the naval administration, and statements in every shape which could teem from the press, have been put forth describing our navy as in a state of the utmost decrepitude. It is not to be supposed that we, whose characters were so *From a corrected report, published by Ridgeway. 1213 much affected by them, could be indifferent to these proceedings, or that we did not suffer from the circulation of these statements which we had no opportunity of contradicting; because I have always been of opinion, that in this House, and in this House alone, is it right for those who are connected with public departments to defend their conduct. We knew that the opportunity of doing so, must sooner or later be afforded us; and deeply as I feel at this moment, my incompetency to the duty which I have to perform, I have looked forward with no small impatience and anxiety to this moment, when I might endeavour to vindicate our character, and to remove from the mind of the public, those apprehensions to which the Member for East Kent referred the other day, and which have been not unnaturally entertained by a people jealous, and rightly jealous, of any thing that can affect their maritime power.
+
+I am afraid, Sir, that I must draw somewhat largely upon your patience and upon that of hon. Gentlemen around me, but in the situation in which we have been placed, I must throw myself upon the justice of the Committee: and this consolation at least I have, that the statements and arguments which form our vindication, are the self same which will tend to the far more important object, of dissipating any alarm as to the efficiency our navy.
+
+The charges under which we, for the last six months, have suffered, are certainly not those which have been brought forward by the hon. Member for Kilkenny this evening: we have been charged with gross neglect of the navy, with having been afraid to come to this House for the sums necessary for its efficient maintenance; with what some of the Tory papers designated as "the shameful reductions made in our navy by the present Government." My answer to this charge is simple, and short. We have made no reductions. On the contrary, in every head of expenditure, tending to the efficiency of the navy, we have made a large increase. We have been accused of reducing the strength of our navy. In the estimates for 1835, the last before we came into office, there were voted 17,500 men and boys; in 1836, in the first estimates which I had the honour of moving, there were voted 22,500 men and boys, exclusive of the ordinary. On the 1214 1st of January, 1835, there were eleven ships of the line in commission; on the 1st of January, 1837, there were twenty. We have been accused of reducing the work in our dockyards: the vote for wages in 1835 was 300,000l. in 1838 it was 384,000l.

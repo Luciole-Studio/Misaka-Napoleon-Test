@@ -1,0 +1,65 @@
+
+
+【限制】£11.8m是评定收益估计，不是当年度现金实收；已收加余款与整数估计有£1差异，保留原数不强行订正。发言还计算下一期可用税款，不能把跨年旧欠全部计作1811新增税收。1812–15逐年所得税现金收入仍未得；旧卡Neal的1816 £14.6m不能补此缺口。
+
+## 5. 1811借款：危机中的融资条件，而不是“无压力”
+
+【事实：预算发言记载】当日上午议定£7.5m借款；每认购£100配£100的3% reduced、£20的3% consols、£20的4% stock，另有长期年金。其年度利息 **£355,937 10s**，偿债基金£106,112，管理费£3,344，合计£465,403 10s。
+
+短引：“The amount of the interest on this last loan would be 355,937l. 10s.”
+
+来源：同上1811预算，**cc214–216**；缓存 `downloads/pages/bff7e2ccf088.md`。
+
+【事实：发言人的跨年比较】3%类借款给认购人的利率从上年£4 4s 2d/百镑升至£4 14s 11d/百镑。此处比较借款合约，不能当全部存量债务平均利率。认购本金、所创债券面额和国家含偿债基金的总年负担不是同一量。
+
+【裁量，高置信】这项记录支持“融资仍在进行且条件有所恶化”，不能仅凭财政大臣自称有利便判定英国财政没有压力，也不能由此推定将会破产。
+
+## 6. 1810 Bullion报告：两年过渡，不是立即强制兑付
+
+【事实：报告结论转录】委员会把高金价、低大陆汇率与过量纸币及停止兑付后的约束缺失联系，建议议会规定恢复现金兑付期限，让银行管理过渡。
+
+短引：“the restriction on Cash payments cannot safely be removed at an earlier period than two years from the present time”。随即主张在该两年期末终止限制。
+
+来源：8 June 1810, *Report … from the Select Committee on High Price of Gold Bullion*，World Gold Council网站所载**引言及结论节录**，结论段首“With this view, Your Committee would suggest”。
+- URL：https://www.gold.org/sites/default/files/documents/1810jun8.pdf
+- 缓存：`downloads/pages/523f4560156c.md`，140–167行。
+
+【限制】非完整证言及附表；无可靠原版页码。网页编者称bullionists主张“immediate”恢复，不能覆盖委员会原文的两年缓冲。报告甚至说明若立即和平，六个月内兑付仍会极危险且不可行。此为委员会分析及建议，不是已实现的政策效果；1811表决具体票数和议案尚未核定，不采用75–151数字。
+
+## 7. 1811商业救助：£6m只核到提议上限，实放仍未得
+
+【事实：当时议会记录】1811年3月11日提出以Exchequer bills向委员会提供最高 **£6m** 的有担保救助，首笔四分之一还款约次年1月中旬，其余按三个月间隔。发言明确不预期全部用尽。
+
+短引：“not with the supposition that that sum would be required”。
+
+来源：*Commercial Credit*, HC Deb 11 March 1811, vol.19, **cc332–333**。
+- URL：https://api.parliament.uk/historic-hansard/commons/1811/mar/11/commercial-credit
+- 缓存：`downloads/pages/3b8b8e348c6d.md`。
+
+**最重要排错：同一段的£2.2m实际发放属于1793，不属于1811。** 此处可称1811提议额度；最终法案条文尚未对校。没有取得1811委员会最终放款、回收及坏账总额，因此不填写“实际£2m”等候选值。
+
+【文献推断/争议】同场辩论对南美投机、欧洲市场关闭和延长信用究竟治标还是恶化投机有分歧；救助提案证明有人预期信用支持有用，不证明市场一定恢复。
+
+补查线索（不新增数量锚点）：Sissoko与Ishizu, “Preventing financial ruin”, DOI 10.1111/ehr.13407，缓存 `downloads/pages/2f4fc6ec5d53.md`，§IV讨论1811银行特殊贷款政策；这不是政府商业救助委员会的总账，不能以其中个别银行贷款冒充£6m计划实际规模。缓存为2025在线版1–32页，仓储元数据另列2026正式卷79(1),57–88；页码不得混用。
+
+## 8. Crouzet—O’Brien—Knight：证据层级不对称，不能假造三方论战
+
+### Crouzet：明确的二手引文
+【文献推断：Crouzet，经Chaloner转引】封锁导致1810危机，并造成1808年至战争终结期间严重妨碍战争努力的货币困难。
+
+短引：“qui gênèrent sérieusement son effort de guerre”。
+
+来源：W. H. Chaloner书评，*Revue belge de philologie et d’histoire* 38-2 (1960), **p.526**，明确引Crouzet原著**p.855**；未亲读原著p.855。
+- URL：https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2
+- 缓存：`downloads/pages/e5b32951df65.md`。
+
+### O’Brien：本人论文
+参见锚点3。其承重命题是税收支撑信用及战争动员，研究期1660–1815；不是对1810危机不存在的断言。不能把长时段财政能力与短时段封锁打击当作逻辑矛盾。
+
+### Knight：只读到Freedman书评正文
+【事实：阅读层级】Lawrence Freedman的FT书评已从缓存读到，不再仅是搜索摘要；**仍非Knight原著**。
+
+短引（Freedman）：“he puts the organisation of war at centre stage”。评论强调行政决策、公私协作使英国承受长时期贸易扰乱。
+- URL：https://www.ft.com/content/09dfe7f0-6738-11e3-a5f9-00144feabdc0
+- 缓存：`downloads/pages/01c0c0eb46a8.md`。
+- 所评书：Roger Knight, *Britain against Napoleon: The Organisation of Victory, 1793–1815*, Allen Lane。

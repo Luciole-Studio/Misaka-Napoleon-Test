@@ -1,0 +1,96 @@
+u P. E, TETLOCK AND A. BELKIN
+
+that deviate dramatically from the perceptual anchor of the actual world with
+which they are already so familiar (making it difficult to appreciate the arbi-
+trariness of the status quo); the availability heuristic could lead people to be
+too quick to embrace vivid, easily imaginable scenarios that link all the
+component events into a compelling story (even though the compound prob-
+ability of all the narrative’s components taken together is vanishingly small);
+the representativeness heuristic could lead people to be too slow to concede
+plausibility to counterfactuals that posit dramatic nonlinearities in cause-ef-
+fect relations (making it difficult to appreciate that small causes can some
+times produce big effects and vice versa).
+
+Perhaps the most lethal threat to the validity of counterfactual thought
+experiments comes, however, from theory-driven thinking. We have already
+noted that counterfactual reasoning will inevitably be theory-driven to some
+degree. Indeed, we treated “consistency with well-established theory” as a
+defining feature of sound counterfactual reasoning. But the cognitive per-
+spective leads us to be suspicious of people's capacity to apply standards of
+evidence and proof in an evenhanded fashion (Nisbett and Ross 1980; Fiske
+and Taylor 1991). People often succumb to the temptation of applying strong
+{ests to dissonant arguments and weak tests to consonant ones—a temptation
+that may be especially pronounced when the arguments invoke possible
+worlds that no one can ever enter and that can never be decisively discon-
+firmed. The perceived plausibility of a counterfactual hinges on how hard
+‘one looks for shortcomings. Few counterfactual arguments will not have
+points of vulnerability when we subject their antecedents and connecting
+principles to close scrutiny. As a result, we are much more likely to recog-
+nize the collapse of cotenability in our opponents arguments than in our
+‘own—a recurring theme in several chapters.
+
+‘The cognitive perspective also leads us to be suspicious of people’s capac-
+ity to transcend (avoid contamination by) outcome knowledge. As theory-
+driven thinkers, people automatically try to assimilate “what happened” to
+some prior knowledge structure or schema that specifies cause-effect rela-
+tionships for events of that type (Fischhoff 1975; Hawkins and Hastie 1990).
+‘The result is a deep, and arguably unjustifiable, asymmetry between back-
+ward and forward reasoning in time. On average, political experts see fewer
+possible pasts than they do possible futures (Tetlock 1994). When they look
+backward in time, they mobilize their finite mental resources to explain the
+fone outcome of the many possible outcomes that actually occurred, selec-
+tively recruiting the most plausible (theory-consistent) antecedents that will
+allow them to tell a good causal story for that outcome (Commentary 3,
+Dawes; Chapter 12, Weber). By contrast, when experts look forward into
+the future, they are typically unsure of what will happen. In part for contin-
+gency planning and in part to avoid the embarrassment of making blatantly
+wrong forecasts, experts often survey in a reasonably open-minded way the
+
+COUNTERFACTUAL THOUGHT EXPERIMENTS 38
+
+panoply of possibilities and conditions for their occurrence. This cognitive
+analysis helps us to explain an otherwise paradoxical pattern in expert judg-
+‘ment: bold counterfactuals and timid forecasts. Experts often assert that they
+know what would have happened in the past but modestly demur on what
+will happen in the future.
+
+Motivational Biases
+
+Thus far, we have focused on only cognitive sources of bias. People are not,
+of course, just information-processing devices; they are animated by wishes,
+hopes, and fears that shape their perceptions of what might or could or
+should have been (Commentary 2, Olson, Roese, and Deibert). These emo-
+tional needs can take many, sometimes conflicting forms (Tetlock and Levi
+182. Consider the following possibilities suggested by the psychological
+literature:
+
+(1) Needs for predictability and controllability: On the one hand, people
+might allow their desire to believe that the world is fundamentally predict-
+able to rule out butterfly-effect counterfactuals, which imply that, no matter
+how hard we try, itis in principle impossible to anticipate the future because
+so much hinges on small causes that are beyond our measurement grasp. On
+the other hand, people might allow their desire to believe that the world is
+controllable to rule out “inevitability” counterfactuals, which imply that, no
+matter what people do, our fates are ultimately under the sway of powerful
+geopolitical, macroeconomic, and technological forces beyond individual
+mastery. Indeed, this psychological need to believe in a “controllable world”
+‘may lie at the heart of Kissinger’s conversion from his belief as an academic
+observer in deterministic arguments that minimized policy makers’ latitude
+to influence events, to his world view as a policy maker which assigned
+much more prominent role to individual human beings who could be per-
+suaded—through the right combination of arguments and inducements—to
+‘change their minds (Chapter 3, Breslauer; Kissinger 1993).
+
+(2) Needs to avoid blame and to claim credit: On the one hand, people
+might allow their desire to avoid blame for bad outcomes to override their
+desires for predictability and control. In such cases, people will argue that
+they should not be blamed for having failed to foresee the unforeseeable or
+having failed to control the uncontrollable. On the other hand, people might
+allow the desire to claim credit for good outcomes to enhance the plau-
+sibility of counterfactuals that take the form “had it not been for my superior
+predictive ability and courageous willingness to act on the basis of that in-
+sight, this good outcome would never have occurred.”
+
+(3) Needs for consolation and inspiration: People might use “downward”
+counterfactuals to comfort and console themselves (“Things may not be
+

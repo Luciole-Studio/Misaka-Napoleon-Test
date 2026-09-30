@@ -1,0 +1,54 @@
+---
+source_url: "http://download.e-bookshelf.de/download/0002/5863/98/L-X-0002586398-0006544349.XHTML/index.xhtml"
+final_url: "http://download.e-bookshelf.de/download/0002/5863/98/L-X-0002586398-0006544349.XHTML/index.xhtml"
+provider: "exa"
+text_sha256: "2509f93821c5930ed273f7c9964fbde85039d89e6c914df556f4787ff6cacf55"
+title: "THE COMMAND OF THE OCEAN"
+content_kind: "page_text"
+---
+
+THE COMMAND OF THE OCEAN
+
+THE COMMAND OF THE OCEAN
+
+‘Monumental… Rodger is our finest naval historian’ Saul David, Daily Telegraph
+
+‘Exciting and original… Here is that rarest of all historians, the expert with the generalist’s approach’ Geoffrey Moorhouse, Guardian
+
+‘A great work of history… A truly satisfying book that one puts down with regret… Nothing written during the past century, perhaps ever, approaches N. A. M. Rodger’s ambitious and masterly three-volume Naval History of Britain… it is likely to be regarded as one of the great works of historical scholarship of our age’ Paul Kennedy, Sunday Times
+
+‘Riveting… lucid, challenging… highly original… the second volume of Rodger’s history can only elicit the chorus of praise that greeted the first’ Richard Ollard, Country Life
+
+‘Truly in a class of its own… at turns witty, provocative and incisive… you finish it wishing for more’ F. J. M. Scott, History Today
+
+‘Scholarly and erudite, but also a thrilling story, told with wit and verve’ Economist, Books of the Year
+
+‘Splendid… There is plenty of old-fashioned narrative in this encyclopedic blockbuster… the writing advances across the pages like a squadron of dreadnoughts’ John Parfitt, Spectator
+
+‘An enterprise of truly stupendous scope and erudition… Even the annotated bibliography, with its deadpan, often savage comments, is a pleasure to read’ Brendan Simms, Evening Standard
+
+‘N. A. M. Rodger is the doyen of naval scholars… This is an excellent book’ Frank McLynn, New Statesman
+
+ABOUT THE AUTHOR
+
+N. A. M. Rodger is Professor of Naval History at Exeter University and a Fellow of the British Academy; he was formerly Anderson Senior Research Fellow at the National Maritime Museum. He is the author of The Wooden World and The Admiralty as well as the highly acclaimed first volume of his naval history of Britain, The Safeguard of the Sea.
+
+# THE COMMAND OF THE OCEAN
+
+A Naval History of Britain 1649–1815
+
+N.A.M. RODGER
+
+NATIONAL MARITIME MUSEUM
+
+Penguin Group (USA) Inc., 375 Hudson Street, New York, New York 10014, USA
+
+Penguin Group (Canada), 90 Eglinton Avenue East, Suite 700, Toronto, Ontario, Canada M4P 2Y3 (a division of Pearson Penguin Canada Inc.)
+
+Penguin Ireland, 25 St Stephen’s Green, Dublin 2, Ireland (a division of Penguin Books Ltd)
+
+Penguin Group (Australia), 250 Camberwell Road, Camberwell, Victoria 3124, Australia (a division of Pearson Australia Group Pty Ltd)
+
+Penguin Books India Pvt Ltd, 11 Community Centre, Panchsheel Park, New Delhi – 110 017, India
+
+Penguin Group (NZ), cnr Airborne and Rosedale Roads, Albany, Auckland 1310, New Zealand (a division of Pearson New Zealand Ltd)

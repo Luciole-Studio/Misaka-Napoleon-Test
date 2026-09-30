@@ -1,0 +1,158 @@
+                        data-event-click-tracking="TopNav|MS-DOSGamesSoftware"><!--?lit$49386103$-->MS-DOS Games</a>
+                    </li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/historicalsoftware"
+                        data-event-click-tracking="TopNav|HistoricalSoftwareSoftware"><!--?lit$49386103$-->Historical
+                        Software</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/classicpcgames"
+                        data-event-click-tracking="TopNav|ClassicPCGamesSoftware"><!--?lit$49386103$-->Classic PC
+                        Games</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/softwarelibrary"
+                        data-event-click-tracking="TopNav|SoftwareLibrarySoftware"><!--?lit$49386103$-->Software
+                        Library</a></li>
+                    <!---->
+                    </ul>
+                    </div>
+                    <div class="links top style-scope media-subnav">
+                      <h4 class="style-scope media-subnav">Top</h4>
+                      <ul class="style-scope media-subnav">
+                        <!--?lit$49386103$--><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/kodi_archive"
+                        data-event-click-tracking="TopNav|KodiArchiveAndSupportFileSoftware"><!--?lit$49386103$-->Kodi
+                        Archive and Support File</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/vintagesoftware"
+                        data-event-click-tracking="TopNav|VintageSoftwareSoftware"><!--?lit$49386103$-->Vintage
+                        Software</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/apkarchive"
+                        data-event-click-tracking="TopNav|APKSoftware"><!--?lit$49386103$-->APK</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/softwarelibrary_msdos"
+                        data-event-click-tracking="TopNav|MS-DOSSoftware"><!--?lit$49386103$-->MS-DOS</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/cd-roms"
+                        data-event-click-tracking="TopNav|CD-ROMSoftwareSoftware"><!--?lit$49386103$-->CD-ROM
+                        Software</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/cdromsoftware"
+                        data-event-click-tracking="TopNav|CD-ROMSoftwareLibrarySoftware"><!--?lit$49386103$-->CD-ROM
+                        Software Library</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/softwaresites"
+                        data-event-click-tracking="TopNav|SoftwareSitesSoftware"><!--?lit$49386103$-->Software Sites</a>
+                    </li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/tucows"
+                        data-event-click-tracking="TopNav|TucowsSoftwareLibrarySoftware"><!--?lit$49386103$-->Tucows
+                        Software Library</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/cdbbsarchive"
+                        data-event-click-tracking="TopNav|SharewareCD-ROMsSoftware"><!--?lit$49386103$-->Shareware
+                        CD-ROMs</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/softwarecapsules"
+                        data-event-click-tracking="TopNav|SoftwareCapsulesCompilationSoftware"><!--?lit$49386103$-->Software
+                        Capsules Compilation</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/cdromimages"
+                        data-event-click-tracking="TopNav|CD-ROMImagesSoftware"><!--?lit$49386103$-->CD-ROM Images</a>
+                    </li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/softwarelibrary_zx_spectrum"
+                        data-event-click-tracking="TopNav|ZXSpectrumSoftware"><!--?lit$49386103$-->ZX Spectrum</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/doom-cds"
+                        data-event-click-tracking="TopNav|DOOMLevelCDSoftware"><!--?lit$49386103$-->DOOM Level CD</a>
+                    </li>
+                    <!---->
+                    </ul>
+                    </div>
+                    </media-subnav>
+              <media-subnav menu="texts" class="hidden style-scope media-slider x-scope media-subnav-1"><!---->
+                <h3 class="style-scope media-subnav"><!--?lit$49386103$-->Texts</h3>
+                <div class="icon-links style-scope media-subnav">
+                  <!--?lit$49386103$--><!---->
+                  <a class="style-scope media-subnav" href="https://openlibrary.org/"
+                    data-event-click-tracking="TopNav|OpenLibraryTexts"><img loading="lazy" class="style-scope media-subnav"
+                      src="/images/widgetOL.png"><!--?lit$49386103$-->Open Library</a>
+                  <!----><!---->
+                  <a class="style-scope media-subnav" href="/details/americana"
+                    data-event-click-tracking="TopNav|AmericanLibrariesTexts"><img loading="lazy" class="style-scope media-subnav"
+                      src="/services/img/americana"><!--?lit$49386103$-->American
+                    Libraries</a>
+                  <!---->
+                  </div>
+                  <div class="links featured style-scope media-subnav">
+                    <h4 class="style-scope media-subnav">Featured</h4>
+                    <ul class="style-scope media-subnav">
+                      <!--?lit$49386103$--><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/texts"
+                        data-event-click-tracking="TopNav|AllTextsTexts"><!--?lit$49386103$-->All Texts</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/smithsonian"
+                        data-event-click-tracking="TopNav|SmithsonianLibrariesTexts"><!--?lit$49386103$-->Smithsonian
+                        Libraries</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/fedlink"
+                        data-event-click-tracking="TopNav|FEDLINK(US)Texts"><!--?lit$49386103$-->FEDLINK (US)</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/genealogy"
+                        data-event-click-tracking="TopNav|GenealogyTexts"><!--?lit$49386103$-->Genealogy</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/lincolncollection"
+                        data-event-click-tracking="TopNav|LincolnCollectionTexts"><!--?lit$49386103$-->Lincoln
+                        Collection</a></li>
+                    <!---->
+                    </ul>
+                    </div>
+                    <div class="links top style-scope media-subnav">
+                      <h4 class="style-scope media-subnav">Top</h4>
+                      <ul class="style-scope media-subnav">
+                        <!--?lit$49386103$--><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/americana"
+                        data-event-click-tracking="TopNav|AmericanLibrariesTexts"><!--?lit$49386103$-->American
+                        Libraries</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/toronto"
+                        data-event-click-tracking="TopNav|CanadianLibrariesTexts"><!--?lit$49386103$-->Canadian
+                        Libraries</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/universallibrary"
+                        data-event-click-tracking="TopNav|UniversalLibraryTexts"><!--?lit$49386103$-->Universal
+                        Library</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/gutenberg"
+                        data-event-click-tracking="TopNav|ProjectGutenbergTexts"><!--?lit$49386103$-->Project
+                        Gutenberg</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/iacl"
+                        data-event-click-tracking="TopNav|Children'sLibraryTexts"><!--?lit$49386103$-->Children's
+                        Library</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/biodiversity"
+                        data-event-click-tracking="TopNav|BiodiversityHeritageLibraryTexts"><!--?lit$49386103$-->Biodiversity
+                        Heritage Library</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/booksbylanguage"
+                        data-event-click-tracking="TopNav|BooksByLanguageTexts"><!--?lit$49386103$-->Books by
+                        Language</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/folkscanomy"
+                      data-event-click-tracking="TopNav|FolkscanomyTexts"><!--?lit$49386103$-->Folkscanomy</a></li>
+                    <!----><!---->
+                    <li class="style-scope media-subnav"><a class="style-scope media-subnav" href="/details/government-documents"
+                      data-event-click-tracking="TopNav|GovernmentDocumentsTexts"><!--?lit$49386103$-->Government Documents</a></li>
+                    <!---->
+                    </ul>
+                    </div>
+                    </media-subnav>
+              <media-subnav menu="video" class="hidden style-scope media-slider x-scope media-subnav-1"><!---->
+                <h3 class="style-scope media-subnav"><!--?lit$49386103$-->Video</h3>
+                <div class="icon-links style-scope media-subnav">
+                  <!--?lit$49386103$--><!---->
+                  <a class="style-scope media-subnav" href="/details/tv" data-event-click-tracking="TopNav|TVNewsVideo"><img
+                      loading="lazy" class="style-scope media-subnav" src="/services/img/tv"><!--?lit$49386103$-->TV News</a>
+                  <!----><!---->

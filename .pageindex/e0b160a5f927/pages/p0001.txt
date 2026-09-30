@@ -1,0 +1,12 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: P6_resource_conflicts.csv
+
+```meta
+▸ table "P6_resource_conflicts.csv" (4 data rows)
+```
+path,year,theaters,note,decision
+S0_史实对照线,1812,伊比利亚+俄境,违反'同一军队不能两处'硬约束,史实：征俄（伊比利亚同时在战）
+C_S3封锁绞杀,1812,伊比利亚+俄境,违反'同一军队不能两处'硬约束,为封锁闭环征俄（Ellis法则自毁点）
+D_S4东方转向,1809,伊比利亚+东方,违反'同一军队不能两处'硬约束,波斯走廊远征＋伊比利亚未了
+D_S4东方转向,1810,伊比利亚+东方,违反'同一军队不能两处'硬约束,赫拉特方向；印度洋同时求援

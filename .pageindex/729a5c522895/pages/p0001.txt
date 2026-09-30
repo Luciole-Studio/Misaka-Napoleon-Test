@@ -1,0 +1,28 @@
+# notes_marichal.md — Carlos Marichal, *Bankruptcy of Empire: The Mexican Silver Crisis and the Collapse of the Spanish Empire, 1780–1810* (CUP 2007)
+doc_id f137a3c2e0fa（本地 PDF：downloads/SP1_Marichal_Bankruptcy__92639196261c.pdf，338 页扫描；PDF 页码与印刷页码不同，以下页码为 doc_read 返回的 PDF 页号，并附印刷页眉号）
+
+> 所有引文均来自本卡实际读取的段落。未读章节不冒充亲读。
+
+## A. 补贴条约与拿破仑为何要白银（PDF p174–176 / 印 158–160，节 "The Consequences of the Subsidy Treaty (1803)"）
+
+- 【事实·亲读】1803-10-19 签订补贴条约；拿破仑索要 **每月 1,600 万 reales（＝160 万 silver pesos/dollars）**，且追溯至 1803 年 3 月。
+  原文："The First Consul claimed payment of a monthly subsidy of 16 million reales (1.6 million silver pesos or dollars) from the Spanish government, retroactive to March 1803."（p176 / 印 160）
+  注 19："The Subsidy Treaty was signed on October 19, 1803 but Napoleon demanded the subsidy be paid retroactively from March of the same year."
+- 【事实·亲读】1804 初拿破仑称西班牙欠 **1.6 亿 reales**（＝1,000 万 pesos）为 1803 年十个月的补贴欠款。
+  "Furious, Napoleon insisted that Spain was in arrears and owed him 160 million reales for the subsidies which corresponded to ten months of the year 1803"（p176 / 印 160）
+- 【事实·亲读】法国财政两难：1797 年三分之二公债违约后不能再发长期债；靠 receveurs généraux 短期垫款，**年息平均 15%**，对比英国低得多。
+  "Bonaparte relied on short-term advances by syndicates of financiers and tax collectors (\"receveurs generaux\"), but they charged high interest rates, averaging 15 percent annually"（p175 / 印 159）
+- 【事实·亲读】"Customs duties, on the other hand, were a relatively small item in the Napoleonic budgets"（p175 / 印 159）——与 F4 卡 Marion 关税序列可对照（F4：1808 关税净 18.559m fr）。
+- 【事实·亲读】法国向属国征年度补贴的名单："annual subsidies paid to the French Treasury by the kingdoms of Holland, Piedmont, Naples, and Spain, as well as by the duchies of Parma and Modena and the Papal states."（p176 / 印 160）
+- 【事实·亲读】路易斯安那卖给美国 **8,000 万法郎**，用于军费。（p176 / 印 160）
+
+## B. Ouvrard–Consolidación–Hope/Baring 合约结构（PDF p180–183 / 印 164–167）
+
+- 【事实·亲读】Consolidación 基金与 Ouvrard 之间另有私约共同经营对西属美洲贸易：Ouvrard 拿到大批**进口许可证（进货入韦拉克鲁斯）与出口许可证（白银与土产以中立旗出口）**。"they prompted a surge in Veracruz's 'neutral commerce' between 1805 and 1808."（p180 / 印 164）
+- 【事实·亲读】Merino 语（Marichal 引）："Soler, the minister of finance and Espinosa, director of the Fund, appeared to have discovered with Ouvrard the key to the network of credit they were desperately trying to broaden. The idea would be to integrate America directly into the Spanish and European financial circuits."（p180 / 印 164）
+- 【事实·亲读】Hope 1805 新贷款以 **10 张 Consolidación 汇票、合计 8,484,375 pesos**、由墨西哥皇家国库兑付为担保。（p182 / 印 166，引 Buist p.284）
+- 【事实·亲读】Baring 有两重自利：Alexander Baring 是 **英格兰银行董事**（政府需银币付欧陆盟国补贴）；Sir Francis Baring 是 **东印度公司董事**（对印中贸易需白银）。（p182–183 / 印 166–167）
+- 【事实·亲读】Ouvrard 破产后，Hope 直接对法国国库交付：法方持有的汇票总额 **2,400 万法郎**；另有 **1,000 万 pesos 与 850 万法郎**的汇票退还 Consolidación。（p187 / 印 171 及注 61）
+- 【事实·亲读】估计 Hope 手上约 **1,000 万 pesos 汇票**，按**面值 75%** 交付法国国库，再扣运费与佣金。
+  注 62："It can be estimated that Hope had around ten million pesos in bills of exchange in their power (previously sent by Ouvrard) with the obligation to transfer to the French Treasury at 75% of their face value, discounting expenditures and commissions"（p187 / 印 171）
+  → **本卡关键换算锚点：法国实得 ≈ 面值 × 0.75 再减运费佣金。**

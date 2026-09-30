@@ -1,0 +1,18 @@
+
+
+## 已读来源及保存索引
+以下均保存为项目根目录下`downloads/pages/文件名.md`；网页按上述章节定位，无虚构页码。所存为网页或PDF正文的工具提取版本，**不是PDF原件或影印校对本**。
+
+- [G] Alexander Grab，*Napoleon and the Transformation of Europe*，Palgrave Macmillan，2003；复用`2ad693d5ac13`，页81、99–100、118、164。
+- [1] [意大利银行货币博物馆](https://www.bancaditalia.it/servizi-cittadino/musei-e-visite/museo-moneta/monete-oro/index.html)：`adb47a132644`。
+- [2] [意大利银行年表](https://www.bancaditalia.it/servizi-cittadino/mostre-ed-eventi/mostra-moneta/esplora/stanza-a/cronologia/index.html)：`ab7407c7b446`，1806、1808、1811节。
+- [3] [LWL统一币值展览](https://lwl.org/aufbruch-in-die-moderne/LWL/Kultur/Aufbruch/themen_start/politik/nation/vereinheitlichungen/waehrung/probleme/index2_html.html)：`96b7a40e8d99`。
+- [4] [Ahlers，威斯特伐利亚藏币](https://www.numismatik-in-hannover.de/einblicke/sammlungen/muenzen-des-koenigreichs-westphalen/)：`a5357a9d2c1c`。文末引Probszt，1911，页133–149，未直接读，不能视作已核原刊。
+- [5] [Arnaud，章F1811作者稿](https://shs.hal.science/halshs-03688062v1/document)：`27c3f908ae6f`，稿内页1–2；仓储与稿首纸本页码范围略异，故引稿页。
+- [6] [Goger／Emilien Arnaud地图说明](https://www.nakala.fr/10.34847/nkl.e54ben5d)：`3397c2a3449e`。AN F14 954、AF IV 1054仅为其转引的原始档案线索，未阅档案。
+- [7] [瑞士联邦IVS VS 1.4，1992](https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/VS00010400.pdf)：`451ae0f54efe`。Céard文书／回忆及日内瓦AEG A78均为清册转引，未阅原件。
+- [8] [两市官方遗产手册](https://www.destination-cambresis.fr/app/uploads/2025/11/Le-canal-de-Saint-Quentin.pdf)：`c46f8263a841`。
+- [9] [Michel Pugin，〈L’histoire du Canal de Saint-Quentin〉，地方学会联合会论文集卷27](https://www.histoireaisne.fr/memoires_numerises/chapitres/tome_27/Tome_027_page_043.pdf)：`9f930fd6b766`，页43–60，本次使用48–49。
+- [10] [Agentschap Onroerend Erfgoed，Bonapartedok en Willemdok](https://inventaris.onroerenderfgoed.be/erfgoedobjecten/10708)：`9ef667a78a6e`，1992年清册正文；Boistard 1822页136–162仅据该条转引。
+
+执行说明：没有编写或运行研究代码。agent-reach推荐的命令行检索因权限需审批未执行，改用内置网页检索与正文提取；未声称已核对原法令、原档或扫描图像。

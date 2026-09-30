@@ -1,0 +1,23 @@
+
+
+What makes these counterfactuals anything more than dogmatic reasser-
+tions of faith in a theory that stipulates “cause x facilitates outcome y and, in
+the absence of cause x and all other things being equal, the likelihood of y
+diminishes by some amount”? A fuller answer to this question emerges in
+our later discussion of the statistical and projectability tests of counterfac-
+tuals. For now, it must suffice to note the root difficulty: namely, history is a
+terrible teacher. Key events occur only once, whereas for purposes of valid
+causal inference we would like to rerun history many times and to examine
+the resulting distribution of outcomes in contingency tables that reveal how
+strongly causes and effects covary. But time-machine experimentation of
+this sort is impossible, so we are stuck with the covariation data available in
+the real world (a world in which the numbers of democratic states and wars
+are both constants). We then have to rely on the imperfect statistical means
+at our disposal to estimate the degree to which democracy inhibits war,
+controlling as best we can for confounding variables. From the Dawesian
+perspective (Commentary 3), the democratic-peace counterfactual can be
+only as true as the covariation data in the real-world contingency tables
+permit. In King, Keohane, and Verba’s (1994) framework, there is addi-
+tional latitude for learning about the truth-status of counterfactuals (see also
+Chapter 7, Russett). As good theorists, it is incumbent upon us to go beyond
+

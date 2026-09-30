@@ -1,0 +1,38 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: Q2_assumptions.csv
+
+```meta
+▸ table "Q2_assumptions.csv" (23 data rows)
+▸ columns
+    profile: str, 4 uniq: ['H', 'L', 'M', 'all']
+    parameter: str, 11 uniq: ['T', 'a0', 'a1', 'annual_retention', 'g0', 'g1', 'population', 'q', 'service_years', 'trained_deployable_fraction', 'training_lag']
+    lower: num, min=0.1, max=1e+06
+    upper: num, min=0.35, max=1e+06
+    status: str, 2 uniq: ['ANALYST_ASSUMPTION_NOT_ESTIMATED', 'FIXED_SCENARIO_ASSUMPTION']
+    ground: str, 2 uniq: ['Five-year peace term: F90p215; other values stress-test assumptions', 'See report sec6; source cases constrain direction not endpoints']
+```
+profile,parameter,lower,upper,status,ground
+L,q,1.8,2.8,ANALYST_ASSUMPTION_NOT_ESTIMATED,See report sec6; source cases constrain direction not endpoints
+L,a0,0.5,0.7,ANALYST_ASSUMPTION_NOT_ESTIMATED,See report sec6; source cases constrain direction not endpoints
+L,a1,0.8,0.95,ANALYST_ASSUMPTION_NOT_ESTIMATED,See report sec6; source cases constrain direction not endpoints
+L,T,3,6,ANALYST_ASSUMPTION_NOT_ESTIMATED,See report sec6; source cases constrain direction not endpoints
+L,g0,6,10,ANALYST_ASSUMPTION_NOT_ESTIMATED,See report sec6; source cases constrain direction not endpoints
+L,g1,2,4,ANALYST_ASSUMPTION_NOT_ESTIMATED,See report sec6; source cases constrain direction not endpoints
+M,q,1.5,2.5,ANALYST_ASSUMPTION_NOT_ESTIMATED,See report sec6; source cases constrain direction not endpoints
+M,a0,0.35,0.6,ANALYST_ASSUMPTION_NOT_ESTIMATED,See report sec6; source cases constrain direction not endpoints
+M,a1,0.65,0.9,ANALYST_ASSUMPTION_NOT_ESTIMATED,See report sec6; source cases constrain direction not endpoints
+M,T,6,12,ANALYST_ASSUMPTION_NOT_ESTIMATED,See report sec6; source cases constrain direction not endpoints
+M,g0,10,16,ANALYST_ASSUMPTION_NOT_ESTIMATED,See report sec6; source cases constrain direction not endpoints
+M,g1,4,8,ANALYST_ASSUMPTION_NOT_ESTIMATED,See report sec6; source cases constrain direction not endpoints
+H,q,1.2,2.2,ANALYST_ASSUMPTION_NOT_ESTIMATED,See report sec6; source cases constrain direction not endpoints
+H,a0,0.1,0.35,ANALYST_ASSUMPTION_NOT_ESTIMATED,See report sec6; source cases constrain direction not endpoints
+H,a1,0.45,0.75,ANALYST_ASSUMPTION_NOT_ESTIMATED,See report sec6; source cases constrain direction not endpoints
+H,T,10,20,ANALYST_ASSUMPTION_NOT_ESTIMATED,See report sec6; source cases constrain direction not endpoints
+H,g0,20,35,ANALYST_ASSUMPTION_NOT_ESTIMATED,See report sec6; source cases constrain direction not endpoints
+H,g1,10,20,ANALYST_ASSUMPTION_NOT_ESTIMATED,See report sec6; source cases constrain direction not endpoints
+all,population,1000000,1000000,FIXED_SCENARIO_ASSUMPTION,Five-year peace term: F90p215; other values stress-test assumptions
+all,service_years,5,5,FIXED_SCENARIO_ASSUMPTION,Five-year peace term: F90p215; other values stress-test assumptions
+all,training_lag,1,1,FIXED_SCENARIO_ASSUMPTION,Five-year peace term: F90p215; other values stress-test assumptions
+all,annual_retention,0.9,0.9,FIXED_SCENARIO_ASSUMPTION,Five-year peace term: F90p215; other values stress-test assumptions
+all,trained_deployable_fraction,0.8,0.8,FIXED_SCENARIO_ASSUMPTION,Five-year peace term: F90p215; other values stress-test assumptions

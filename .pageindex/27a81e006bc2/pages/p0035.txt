@@ -1,0 +1,54 @@
+     7%   Seven Years W ar                    Crim ean Wa r      Boer W ar   WWI      WW II
+                   American I ndependence
+
+
+     6%                          F rench W ars
+
+
+
+
+     5%
+
+
+
+     4%
+
+
+
+     3%
+
+
+
+     2%
+       1750       1775       1800           1825      1850    1875     1900        1925       1950
+
+
+
+
+  Figure 7: Market yields on consols, monthly data, January 1750 to December 1950
+
+Sources: Neal, 1990.
+
+
+inflation, π e , and the default premium, d.
+
+
+
+                                                e
+                                        rnom = rreal + πe + d                                        (3)
+
+Forecasting the (Stability) of Inflation
+
+
+In a first step, I check whether expected inflation, π e was stable during the suspension
+period (for a discussion see Bordo and Kydland, 1995; Rolnick and Weber, 1997). This
+amounts to testing whether the same rate of inflation was anticipated for the gold stan-
+dard and the suspension period alike. The exact process of expectation formation is
+beyond the scope of this article. I, therefore, posit that agents forecast inflation using
+information regarding its past evolutions. Besides the simplicity of this approach, simple
+back-ward looking forecasts of inflation are in practice hard to beat by more sophisti-
+cated ones (Faust and Wright, 2013).
+
+
+
+                                                      33

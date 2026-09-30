@@ -1,0 +1,37 @@
+# notes_humboldt_mining.md — 矿业、水银依赖与产出规模
+
+## 来源A：Alexander von Humboldt, *Essai politique sur le royaume de la Nouvelle-Espagne*, t.III（Paris: Schoell, 1811）
+本地文件 `downloads/MX_Humboldt_Essai_t3_fr.txt`（archive.org Getty 扫描 gri_000333125011213903 的 DjVuTXT，sha256 5fb2fc70…；doc 5fb2fc70f960）。**OCR 文本，数字有损**，凡引用皆注 OCR 状态并尽量用算术自洽交叉验证。
+
+- 【事实·亲读 印p.335–336】"ce n'est que d'un très-petit nombre de mines que sont tirés les **2,500,000 marcs d'argent** qui passent annuellement en Europe et en Asie par les ports de Vera-Cruz et d'Acapulco. Les trois districts … ceux de **Guanaxuato, Zacatecas et Catorce, fournissent plus de la moitié** de cette somme. **Un seul filon, celui de Guanaxuato, donne près du quart de tout l'argent mexicain, et la sixième partie du produit de l'Amérique entière.**"
+  → 换算：2,500,000 marcs × 8.5 pesos/marc ≈ 2,125 万 pesos 年外流（与 Marichal"铸币约 2,000–2,400 万 pesos"同量级）。**瓜纳华托一条矿脉 ≈ 全墨西哥白银的 1/4、全美洲的 1/6。**
+- 【事实·亲读 印p.414】1803 年瓜纳华托矿区：**5,000 名矿工与选炼工；1,896 台 arastres（碾矿机）；14,618 头骡**。"Les arastres de la ville de Guanaxuato broient, **lorsqu'il y a abondance de mercure**, onze mille trois cent soixante-dix quintaux de minerai par jour."（有水银充足时日碾 11,370 quintaux 矿石）"le produit en argent est annuellement de **cinq à six cent mille marcs**"（年产银 50–60 万 marcs）。
+  → **关键条件从句："lorsqu'il y a abondance de mercure"——碾矿能力是水银供给的函数，而不是矿石储量的函数。**
+- 【事实·亲读 印p.410】1802 年 Valenciana："les circonstances ont été singulièrement défavorables … les produits se vendoient à des prix très-bas, **parce que le manque de mercure entravoit l'amalgamation, et que toutes les mines étoient encombrées de minerais**."（1802 年水银短缺阻碍汞齐法，矿井被积压矿石塞满）近年股东年均净利 **640,000 piastres**；1802 年恶化，1805 年预期净利 50 万以上；Valenciana 每周售矿 27,000 piastres、成本 17,000。
+  → **反事实直接可用：在法西同盟对英战争条件下，1802 已实测出现"水银短缺压制白银产出"的机制，不是推测。**
+- 【事实·亲读 印pp.283–286】农业产值：什一税推算年地产 ≥ **2,400 万 piastres**；加不缴什一税的胭脂虫/香草/jalap/辣椒/菝葜 300 万、糖与靛蓝（只缴 4%）200 万 → **农业总产 ≈2,900 万 piastres（＝1.45 亿法郎）**；"la valeur de l'or et de l'argent des mines du Mexique est **presque d'un quart plus petite que la valeur du produit territorial**"（矿产价值比地产低近四分之一）。
+  → **本卡反直觉锚点：新西班牙不是"白银国"，农业产值大于矿业产值约三分之一。占领者若只盯白银，会误判该单位的实体经济结构。**
+- 【事实·亲读 印p.286】"Le clergé mexicain possède à peine des biens-fonds (bienes raices) pour la valeur de **deux à trois millions de piastres**; mais **les capitaux que les couvens, les chapitres, les confréries, les hospices et les hôpitaux ont placés sur des terres, s'élèvent à la somme de 44 millions et demi de piastres**"（教会不动产仅 200–300 万，但放贷/抵押在土地上的资本达 4,450 万 piastres）。
+  → **与 Marichal/Lavrin 的 Consolidación 实收 10,321,800 pesos 对照：约等于教会可动金融资本的 23%**（Humboldt 4,450 万 vs Alamán/Abad y Queipo 当代估计 4,000–5,000 万，两源互证同量级）。
+- 【事实·亲读 印p.372（对照组）】Freiberg 1789–99 年均 156,752 quintaux 矿石产 48,952 marcs 银。（用于说明墨西哥矿石品位低而规模大）
+
+## 来源B：D. A. Brading & Harry E. Cross, "Colonial Silver Mining: Mexico and Peru," *HAHR* 52:4 (1972), 545–579（开放获取；抓取文本 `downloads/pages/939c6d71a3cd.md`）
+- 【事实·亲读】"During the Bourbon epoch, New Spain emerged as the favored possession of the metropolis. **Mintage quadrupled from 6 million in 1706 to 24 million in 1798.** By then … **Mexico accounted for 67 per cent of the American total. The one camp of Guanajuato equalled the mintage of the entire viceroyalty of Peru, or that of La Plata.**"
+- 【事实·亲读】水银是 crown 第二大矿业收入来源；殖民时代只有三处大矿：西班牙 Almadén、Idria（奥皇所有）、秘鲁 Huancavelica。"**Huancavelica generally supplied Peru and Almadén supplied New Spain. In both cases failure to produce sufficient mercury could have catastrophic effects upon the local silver mines** … It was this intimate connection which **bound the Mexican silver miner to Europe**."
+- 【事实·亲读】"Under the Bourbons, Almadén took the lead … with an annual production which at times exceeded **18,000 quintales**… In two steps, in 1767 and 1776, the Mexican price was **cut by half, from 82½ pesos to 41 pesos**. The great Mexican boom in silver production in great measure depended upon this twofold achievement"；后文另称 1760 后 Almadén 峰值 "over **20,000 hundredweight**"。
+- 【事实·亲读】换算比率："a straightforward ratio existed between mercury consumption and silver production, a ratio which on average ranged between **100 and 125 marks of silver for every quintal** or hundredweight of mercury"；"The usual ratio was two to one, i.e., **a hundredweight of mercury produced one hundred marks (50 pounds) of silver**"；新西班牙各地课征比率 85 marks（Bolaños）起不等。
+  → **本卡可算：年产 250 万 marcs 需水银 20,000–25,000 quintales/年（按 100–125 marks/quintal）。这恰好等于 Almadén 历史峰值的全部产量。故"水银供给＝白银产出的硬上限"，任何切断跨大西洋水银运输的情景直接砍掉墨西哥白银。**
+- 【事实·亲读】冶炼损耗地理差异：Zacatecas 残渣中留下约 1/4 银，Atotonilco el Chico 超过 1/3，**Guanajuato 仅 12.65%**（矿石易处理）。
+- 【事实·亲读】17 世纪先例（机制类比，可直接移用于反事实）："In response to a passing setback at Huancavelica, the Spanish Crown diverted European mercury to Peru… **After 1630, quite suddenly, mercury shipments to Mexico dropped by a half. Within five years, when all remaining stocks were exhausted, silver production followed suit.**"
+  → **机制锚点（有史实实证）：水银供给腰斩 → 约五年后白银产出随之崩落（库存缓冲≈5年）。**
+- 【事实·亲读·劳工】18 世纪矿工是"labor aristocracy"，收入主要不是每日 4 reales 基本工资而是 **partido（分矿权）**；"Towards the end of the century, however, a change occurred, when **in Guanajuato this practice was replaced by the payment of higher [wages]**"。
+  → **1810 年 Bajío 起义的阶级前史：瓜纳华托恰是废除 partido、改纯工资的矿区。**（与 Brading《Miners and Merchants》主题一致；本卡仅用此 HAHR 文本作锚，未亲读专著。）
+
+## 本卡据此建立的量化桥（推演，标注假设）
+| 环节 | 参数 | 来源 | 假设 |
+|---|---|---|---|
+| 年产银 | 250 万 marcs ≈ 2,125 万 pesos | Humboldt p.335 | 1 marc ≈ 8.5 pesos（Brading：铸 69 reales/marc、还矿主 65 reales，即 8.125 pesos 归矿主、8.625 pesos 铸出） |
+| 铸币峰值 | 1798 年 2,400 万 pesos | Brading&Cross | — |
+| 水银需求 | 20,000–25,000 quintales/年 | 由上两项与 100–125 marks/quintal 推算 | 忽略熔炼法份额（若熔炼占 10–15%，需求降至 17,000–22,500） |
+| Almadén 峰值供给 | 18,000–20,000+ quintales/年 | Brading&Cross | — |
+| 库存缓冲 | ≈5 年（17 世纪实测） | Brading&Cross | 18 世纪末库存与消费比未知，缓冲可能更短 |

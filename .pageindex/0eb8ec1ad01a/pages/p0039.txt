@@ -1,0 +1,60 @@
+6. Conclusions
+
+We have estimated the effect of the introduction of the potato on Old World population growth and
+
+urbanization. The nutritional and caloric superiority of the potato, and its diffusion from the New
+
+World to the Old, allows us to estimate causal effects using a difference-in-differences estimation
+
+strategy. According to our most conservative estimates, the introduction of the potato explains
+
+22% of the observed post-1700 increase in population growth. These results show that food and
+
+nutrition matter. By increasing the nutritional carrying capacity of land they can have large effects
+
+on population.
+
+   To the extent that urbanization serves as a measure of the shift from rural agriculture to urban
+
+manufacturing, our estimates also provide historic evidence of the importance of agricultural
+
+productivity for economic development. According to our estimates, the introduction of the potato
+
+explains 47% of the post-1700 increase in the average urbanization rate. Our estimates suggest
+
+that increased agricultural productivity can play a significant part in promoting the rise of urban
+
+centers, industry, and economic development.
+
+
+
+References
+
+Acemoglu, Daron, Simon Johnson, and James A. Robinson, “Reversal of Fortune: Geography
+  and Institutions in the Making of the Modern World Income Distribution,” Quarterly Journal
+  of Economics, 117 (2002), 1231–1294.
+
+———, “The Rise of Europe: Atlantic Trade, Institutional Change and Economic Growth,” Ameri-
+ can Economic Review, 95 (2005), 546–579.
+
+Bairoch, Paul, Cities and Economic Development: From the Dawn of History to the Present (University
+  of Chicago Press, Chicago, 1988).
+
+Baten, Jörg, and John E. Murray, “Heights of Men and Women in 19th-Century Bavaria: Economic,
+  Nutritional, and Disease Influences,” Explorations in Economic History, 37 (2000), 351–369.
+
+Blayo, Yves, “La Mortalité en France de 1740 a 1829,” Population (French Edition), 30 (1975), 123–142.
+
+Burkill, I.H., A Dictionary of the Economic Products of the Malay Peninsula (Crown Agents for the
+  Colonies, London, 1935).
+
+Chandler, Tertius, Four Thousand Years of Urban Growth: An Historical Census (The Edwin Meller
+  Press, Lewiston, U.S.A., 1987).
+
+Connell, K.H., “The History of the Potato,” Economic History Review, 3 (1951), 388–395.
+
+———, “The Potato in Ireland,” Past and Present, 23 (1962), 57–71.
+
+Cullen, L.M., “Irish History Without the Potato,” Past and Present, 40 (1968), 72–83.
+
+                                                 37

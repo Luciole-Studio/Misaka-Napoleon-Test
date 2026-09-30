@@ -1,0 +1,9 @@
+
+
+### 缺口（命名+它能裁决什么）
+1. **Rath 1941《The Fall of the Napoleonic Kingdom of Italy》**（De Gruyter/HathiTrust付费墙）：1814年4月逐日政治史与各派组织度——能裁决"雨伞日"组织程度与Bentinck角色权重。【已以DBI Prina（Levati 2016）+Grab+三级来源交叉替代，主结论不依赖其未读部分】
+2. **Du Casse十卷（1858–60）**：欧仁-拿破仑全部往来——能裁决E2（1813–14王冠许诺有无）与1810年法兰克福安排的内部讨价。Wikisource有t.10扫描本（已定位，未逐页读）。
+3. **Melzi《Memorie-documenti e lettere inedite》（1865两卷）与《I carteggi di Francesco Melzi d'Eril》（现代校勘版多卷）**：Melzi纲领的第一手层——本轮仅经DBI/EI转引其两段原文。
+4. **Pecchio 1826、Zaghi 1986（pp.515–539）、Pillepich《Milan capitale》、Grab JMH 1995/JMIS 1998原文**：财政逐年表与征兵逐年表——能把本卡"近翻倍"细化为逐年曲线（供Q2/P8复算）。均已列名待取；索引库查无≠不存在。
+5. **Bullettino delle leggi del Regno d'Italia**（法令公报谱系）：本卡所引各法令（1802征兵法、1806法典施行、1805/1808宪制修正）均经二手/转录层，未亲阅公报原卷——不假装亲阅。
+6. **伦-威财政比较数据（Meriggi/Sked）**：E3的裁决材料。

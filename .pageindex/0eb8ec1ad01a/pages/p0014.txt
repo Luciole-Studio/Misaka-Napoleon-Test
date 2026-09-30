@@ -1,0 +1,53 @@
+crop and grid-cell (the growing period is, by definition, the period of time for which the minimum
+
+temperature and moisture requirements of the crop are satisfied).
+
+   At this stage, an initial classification of each grid-cell and crop pair was performed. If the
+
+minimum requirements for cultivation were not satisfied, then the grid-cell was determined to be
+
+unsuitable for cultivation of the crop.15 If the minimum requirements are met, then a second stage
+
+is performed where the actual potential yields are determined. For each crop, the “constraint-free
+
+crop yields” were determined, and the yield in each grid-cell was measured as a percentage of
+
+this benchmark. Next, the FAO identified additional constraints existing in each grid-cell for each
+
+crop. The procedure quantified the “agro-climatic” constraints (i.e., variability in water supply and
+
+existence of pests and weeds) as well as the “agro-edaphic” suitability (i.e., soil erosion) of each
+
+grid-cell.
+
+   The end product of the entire procedure is, for each crop, a GIS raster file with global coverage
+
+that contains information on the suitability of each grid-cell for the cultivation of the crop in
+
+question. The FAO also constructed a country level version of the database, which reports for
+
+each country and crop, the proportion of the country’s land that is classified under five mutually
+
+exclusive categories describing how suitable the environment is for growing the crop. The cate-
+
+gories are based on the calculated percentage of the maximum yield that can be attained in each
+
+grid-cell. The five categories, and their corresponding yields, are: (i) very suitable land (80–100%),
+
+(ii) suitable land (60–80%), (iii) moderately suitable land (40–60%), (iv) marginally suitable land
+
+(20–40%), and (v) not suitable land (0–20%). To approximate historical conditions as closely as
+
+possible, we use the variables constructed under the assumption that cultivation occurs under
+
+rain-fed conditions and under medium input intensity.
+
+
+
+
+  15 This is done by comparing each crop’s requirements with the grid-cell’s calculated (i) length of the growing period
+
+(LGP), (ii) temperature profile, (iii) and the accumulated temperature.
+
+
+                                                           12

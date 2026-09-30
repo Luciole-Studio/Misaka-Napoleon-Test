@@ -1,0 +1,15 @@
+year,category,north_europe_incl_france,spain,portugal,gibraltar_malta_sicily_levant,ireland_guernsey_etc,asia,africa,usa,rest_america,printed_total,unit,source
+1805,domestic,10.32,0.05,1.85,1.41,5,2.90,0.76,11.01,7.77,41.07,GBP_m_current_declared,Heckscher1922_print245_pdf261
+1806,domestic,7.57,0.03,1.70,2.96,4.51,2.94,1.16,12.39,10.88,44.14,GBP_m_current_declared,Heckscher1922_print245_pdf261
+1807,domestic,5.09,0.03,0.97,2.92,5.07,3.36,0.77,11.85,10.44,40.48,GBP_m_current_declared,Heckscher1922_print245_pdf261
+1808,domestic,2.16,0.86,0.43,5.57,5.87,3.52,0.63,5.24,16.59,40.88,GBP_m_current_declared,Heckscher1922_print245_pdf261
+1809,domestic,5.70,2.38,0.80,6.96,5.45,2.87,0.80,7.26,18.01,50.24,GBP_m_current_declared,Heckscher1922_print245_pdf261
+1810,domestic,7.70,1.40,1.31,5.21,4.21,2.98,0.60,10.92,15.64,49.98,GBP_m_current_declared,Heckscher1922_print245_pdf261
+1811,domestic,1.50,1.23,4.65,5.45,5.02,2.94,0.34,1.84,11.94,34.92,GBP_m_current_declared,Heckscher1922_print245_pdf261
+1805,reexport,6.33,0.14,0.18,0.16,1.40,0.21,0.40,0.44,0.79,10.04,GBP_m_current_declared,Heckscher1922_print245_pdf261
+1806,reexport,5.86,0.03,0.08,0.22,1.30,0.32,0.49,0.48,1.01,9.79,GBP_m_current_declared,Heckscher1922_print245_pdf261
+1807,reexport,5.73,0.08,0.20,0.41,1.97,0.20,0.26,0.25,0.91,10,GBP_m_current_declared,Heckscher1922_print245_pdf261
+1808,reexport,3.27,0.26,0.17,1.27,2.10,0.19,0.19,0.06,1.58,9.09,GBP_m_current_declared,Heckscher1922_print245_pdf261
+1809,reexport,8.87,0.66,0.32,1.49,2.12,0.12,0.17,0.20,1.82,15.77,GBP_m_current_declared,Heckscher1922_print245_pdf261
+1810,reexport,6.16,0.34,0.92,1.18,1.55,0.14,0.10,0.30,2.04,12.73,GBP_m_current_declared,Heckscher1922_print245_pdf261
+1811,reexport,1.98,0.27,1.51,1.94,2.19,0.12,0.07,0.03,0.90,9.02,GBP_m_current_declared,Heckscher1922_print245_pdf261

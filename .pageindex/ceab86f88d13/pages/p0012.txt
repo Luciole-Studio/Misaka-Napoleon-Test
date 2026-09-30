@@ -1,0 +1,40 @@
+GRP : revues JOB : num121⊕xml DIV : 10⊕LevyGarbouaMonnet p. 10 folio : 44 --- 5/4/016 --- 16H4
+
+
+
+
+                                                            REVUE D’ÉCONOMIE FINANCIÈRE
+
+
+
+                                                                 Graphique 9
+                                                       Taux d’intérêt réels, 1800-2015
+
+
+
+
+                                      ère
+                      Sources : cf. 1 partie de l’article intitulée « Présentation des données » ; calculs des auteurs.
+
+                         L’image des taux d’intérêt réels est assez différente de celle des taux
+                      nominaux : l’influence de l’inflation est très forte et introduit des
+                      fluctuations importantes de +30 % à –60 % ! Ces fluctuations sont
+                      largement dues aux périodes de guerre et à l’hyperinflation qui les
+                      accompagne souvent. Cette fois, trois périodes se distinguent nette-
+                      ment :
+     44                  – de 1800 à 1914, les taux réels fluctuent beaucoup, essentiellement
+                      en raison de la volatilité de l’inflation qui est mal mesurée pendant cette
+                      période (cette volatilité est donc un artefact statistique), mais autour
+                      d’une moyenne positive de 4 % ;
+                         – de 1914 à 1950 s’ouvre une période de variations plus amples,
+                      ponctuée par les deux guerres mondiales et la crise de 1929 ;
+                         – après 1950, le taux réel offre un profil beaucoup plus stable, avec
+                      des taux qui s’enroulent autour de zéro dans une première sous-période
+                      (1950-1980), puis qui sont continûment positifs jusqu’à aujourd’hui.
+                      Une chronologie plus précise est toutefois possible : pendant les Trente
+                      Glorieuses, ils fluctuèrent en raison des pics inflationnistes de 1950,
+                      1957 et 1958, mais restèrent positifs en moyenne autour de 2,5 %
+                      avant de stagner à zéro de 1972 à 1980 en raison de la Grande Inflation.
+                      Ils furent ensuite systématiquement égaux ou supérieurs à 4 % entre
+                      1982 à 2000, avant de chuter progressivement jusqu’à atteindre 1 % en
+                      2013 et 2014.

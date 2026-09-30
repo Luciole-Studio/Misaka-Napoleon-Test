@@ -1,0 +1,178 @@
+University Press, Cambridge.
+Sinha, J.C., 1927. Economic annals of Bengal. MacMillan, London.
+Third Report (1773). In: Reports from Committees of the House of Commons, 1715-1801 (15 vols.,
+1803), IV, pp. 37-91.
+Tripathi, A., 1979. Trade and finance in the Bengal Presidency, 1793-1833, new and revisededition.
+Oxford University Press, Calcutta.
+Webster, Anthony, 1990. "The Political Economy of trade liberalization: The East India Comapny
+Charter Act of 1813". Economic History Review, XLIII, 404-419.
+37
+Table 1:
+British net transfers from India excluding government flows, 1762-1812 (period averages
+of annual values in ,'000 at market prices)
+1762- 1776- 1783- 1793- 1803- 1808-
+1775 1782 1792 1802 1807 1812
+A. English East India Company trade with India:
+Imports "FOB India" from India into London 747 1135 1021 1372 934 1096
+-exports "CIF India" to India (goods) 323 314 272 378 547 610
+-ibid, "stores" (1 description excluded)[1] 37 39 48 82 118 220
+-exports to India (bullion) 16 11 87 213 832 40
+=Net transfers on Company account 371 770 613 697 -564 225
+B. "Privilege" trade with India by commanders & officers in Company ships:
+Imports "FOB India" from India into London 51 87 243 203 348 395
+-exports "CIF India" to India (goods) 131 125 132 109 140 171
+-exports to India (bullion) 139 135 139 124 152 172
+=Net transfers on "privilege" account -220 -174 -27 -30 55 52
+C. Private trade with India under the 1793 Act, largely in Company ships[2]:
+Imports "FOB India" from India into London 576 1183 521
+-exports "CIF India" to India (goods) 389 325 1086
+-exports to India (bullion) 36 90 15
+=Net transfers on private-trade account 151 768 -578
+D. Inter-Asian "country trade" in Company ships[3]:
+Company imports "FOB China"
+from China into London 476 435 1268 1749 1861 1772
+-Company exports "CIF China"
+to China (British goods) 115 126 363 748 1196 1097
+-Company exports to China (bullion) 158 48 397 148 233 0
+-Company exports of Indian goods to China 48 36 38 19 0 0
+=Net transfers on Company account 155 225 470 834 432 675
++"privilege" imports from China into London 29 31 68 131 125 420
+-"privilege" exports "CIF China"
+to China (goods) 35 37 98 136 178 177
+-"privilege" exports to China (bullion) 35 37 98 136 178 177
+=Total net transfers through "country trade" 114 181 341 694 200 740
+E. Transfers to Britain through foreign East
+India Companies & the United States 280 271 318 282 315 105
+TOTAL NET TRANSFERS TO BRITAIN (A+B+C+D+E) 546 1050 1246 1796 776 545
+__________________________________________________________________
+[1] "Stores not for sale" including "Stores for the factory", "Braziers' tin and ironmongers' wares", and "Pitch, tar, wines, deals,
+medicines". A fourth description is entered in Table 3, line 16.
+[2] Confusingly referred to by contemporaries as "privilege trade".
+[3] Transfers to Britain proxied here with British trade deficits with China (imports "FOB China" minus exports "CIF China"
+including bullion as indicated): see the text.
+Sources and procedures: Panels A, B, and C as in Appendix Tables 1-3. British trade with China (panel D) calculated in much the
+same way as that with India; Company exports of Indian goods to China in 1762-99 from Pritchard, 1936, p. 393: talers converted
+at 6s 8d. Panel E as in Table 2 below. Slight errors due to rounding.
+38
+Table 2:
+India transfers to Britain through foreign East India companies and neutral traders, 1757-1812 (period averages of annual values in
+,'000)
+1757- 1772- 1779- 1785- 1791- 1795- 1802-
+1771 1778 1784 1790 1794 1801 1812
+1. Dutch and French Companies 212 259 37 156* 0 0 0
+2. Danish Company 0 49 234 228 130 147 23
+3. United States ships 0 0 0 0 0 168 198
+4. Transfers to Britain 212 308 271 384 130 315 221
+________________________________________________________________
+* All non-British transfer channels to Britain except the Danish East India Company.
+Sources and procedures: Line 1: Marshall, 1976, pp. 241-43, 251-53: Bengal figures for 1757-84 times 1.3 to accountfor Madras
+and elsewhere (ratio in ibid, p. 253). Totals for 1785-90 in BL, OIOC, H/399, MSSpp. 1, 55: estimates of "English trade under
+foreign flags" with India, possibly for 1781-90 but more likely for 1785-90; given import and export figures adjusted here
+respectively to approximate "FOB India" and "CIF India" values at Indian ports, with similar procedures to those specified in
+Appendix Tables 1-3. Line 2: Feldbaeck, 1969, pp. 45, 72-73, 121, 150, 211, 229, 303, 310, 320-21, 327, 340, 345: givenfigures
+in current ruppees converted here to pounds sterling, and compounded with commissions of the Merchant Houses in Copenhagen
+with information supplied by Feldbaeck. Line 3: exports from Calcutta in United States ships as in Tripathi, 1979, pp. 70, 86, 89,
+90, 109, 122: transfers to Britain placed here at half the given annual figures in 1797-1803, a third in 1804-07, and a fourthin 1808-
+12; missing data for 1795-96 and 1801 conservatively estimated from given average for 1795-02.
+39
+Table 3:
+British net inflows from India including government flows, 1765-1812 (period averages of annual values in,'000 at marketprices)
+1765- 1776- 1783- 1793- 1808-
+1775 1782 1792 1807 1812
+1. Re-exports of Indian textiles FOB as in Table 5 1788 2351 1550 2045 967
+2. Re-exports of other Indian commodities FOB 5 16 136 1381 1384
+3. Freight & insurance earnings on lines 1+2 40 82 29 140 166
+4. Indian calicos embodied in domestic exports 25 47 47 87 0
+5. Other Indian goods embodied in domestic exports 14 25 61 162 364
+6. Mercantile profits (5% of lines 1+2+4+5) 92 121 90 183 135
+7. Retained imports of Indian goods (imputed value) 332 52 919 980 789
+8. Ibid in foreign ships (imputed value) 264 217 254 234 85
+9. Net transfers of China goods (imputed value) 100 145 272 423 592
+10. Exports "CIF India"
+to India (goods +stores +bullion) -645 -626 -678 -1624 -2315
+11. Net inflows from India excluding
+Government flows 2016 2432 2682 4015 2167
+12. Bullion transfers to India
+on Government account 0 0 0 -453 371
+13. Exports of "naval & garrison stores" -47 -87 -70 -208 -271
+14. Total net inflows from India 1969 2345 2612 3354 2268
+__________________________________________________________________
+Sources and procedures: Line 1: see Cuenca Esteban, 2001, p. 77. Line 2: Minimum estimates as indicated in the text from reexport quantities for 1791-1811 in MacGregor, 1843-50, vol. IV, pp. 416-19 (negligible values for earlier years roughly estimated
+from import data); in-bond prices (excluding customs duties) as in Cuenca Esteban, 2001, pp. 71-75 (prices of East Indiaor Ceylon
+cinnamon in Gayer and Tooke, usual dates). Line 3: with some adjustments as in Cuenca Esteban,2001, p. 79 (Indiancommodities
+only; re-export quantities as in line 2; freight rates on longer routes divided by 5 here). Line 4: Export yards of British cotton prints
+in 1764-1803 only (compiled from PRO, Customs 3, 14, 17) times the re-export prices of Indian calicos used in line 1, with falling
+decadal weights as indicated in the text; yards converted to Indian "pieces" as in Baines, 1835, p. 324. Line 5: respectively 10 and
+20 per cent of the retained imports of Indian indigo and Bengal raw silk (import minus re-export quantities as in line 2 and from
+PRO, Customs 3, 14, 17, 5, 10, 11: re-exports include unspecified quantities of raw silk fromChina, Italy, Turkey, and France;dutyadded prices from the relevant sources given in Cuenca Esteban, 2001, pp. 72-73). Line 7: See the text and notes to lines 1 and 2
+above. Four-fifths of Indian goods retained for home consumption (imports minus exports at British import prices). Line 8: See the
+text. Four-fifths of "Transfers to Britain through foreign East India Companies & the UnitedStates"in Table 1. Line 9: See the text.
+Four-fifths of "Total net transfers through 'country trade'" in Table 1. Line 10: Total of relevant entries in Table 1. The shares of
+British and foreign goods sent to India are hard to ascertain, but re-exports to India and China wereworthless than 5 per cent of total
+exports to Asia. Line 12: Philips, 1940, pp. 106, 124, 179. Line 13: see Appendix Table 1, note 11. Slight errors due to rounding.
+40
+Table 4:
+Selected components of the British balance of payments, 1764-1812
+1764 1775 1782 1792 1807 1812
+Accumulated balance of Britain's
+net external position in million ,[1] -25 -13 -11 -6 +47 +44
+1765- 1776- 1783- 1793- 1808-
+1775 1782 1792 1807 1812
+Period averages of annual values in ,'000:
+1. Net balance of trade & services[2] with China -380 -263 -233 -484 -1049
+2. Ibid with Ireland excluding lines 12 and 13 -659 -1005 -1090 -929 -1232
+3. Ibid with rest of Europe and Levant 163 -1556 -2139 -7499 -2879
+4. Ibid with the United States 903 188 2728 6681 2012
+5. Ibid with the rest of the world excluding India 312 1250 123 4074 7150
+6. Net inflows from the slave trade to 1807[3] 504 183 471 661 0
+7. Balance of trade & services excluding India 845 -1203 -140 2503 4001
+8. British war expenses abroad excluding India -14 -644 -96 -3513 -11657
+9. Balance of debt service[4] -548 -590 -513 475 2459
+10. Current account balance excluding lines 11-13 282 -2438 -750 -534 -5195
+11. Total net inflows from India as in Table 3 1969 2345 2612 3354 2268
+12. Profits on Irish exports to British America 213 247 352 385 202
+13. Irish rents (conjectural estimate)[5] 366 472 613 780 1000
+14. Current account balance (total of above) 2831 626 2828 3986 -1725
+__________________________________________________________________
+[1] Includes change in foreign reserves and capital outflows.
+[2] The net balances in lines 1-5 include British domestic exports, legal and illegal imports (all imports subtracted), re-exports of
+goods imported from the respective areas, net earnings on freight and insurance, mercantile profits, net ship sales, and emigrants'
+funds.
+[3] These balance of payments flows should not be confused with British profits on the slave trade. Detailed calculation in Cuenca
+Esteban, 2004, Table 2.4.
+[4] Britain's total debt service (-) or foreigners' debt service (+). In the absence of the "Total net inflows from India" in line 11,
+Britain's debt service might have reached ,4 million by 1808-12: see Cuenca Esteban, 2001, pp. 64-68.
+[5] One half of the Irish rents seemingly remitted to absentee landlords residing in Britain: annual series of total remittances
+constructed with contemporary estimates for 1779, 1783, 1797, and 1804 as in O'Brien, 1918, p. 62.
+Sources and procedures: Line 1 estimated as in Table 3 but with data on China (see notes to Appendix Tables 1-3). Line 11 as
+indicated. All other estimates with minor improvements as in Cuenca Esteban, 2004. Underlying sources, procedures, and
+independent benchmarks for Britain's external position in Cuenca Esteban, 2001. Slight errors due to rounding.
+41
+Table 5:
+British re-exports of Indian textiles, 1790-1812 (period averages from annual data by destination)
+1790-92 1801-1803 1807-12
+Unit Unit Unit
+Pieces value Pieces value Pieces value
+(000) d/piece (000) d/piece (000) d/piece
+CALICOS + COLOURED OR "PROHIBITED" PIECE GOODS:
+Worldwide 788 335 1755 270 986 219
+Northern & Western Europe 481 372 1347 269 157 193
+Southern Europe & Levant[1] 15 404 46 324 466 228
+of which Gibraltar 1 334 5 490 274 240
+Africa 259 270 275 280 79 230
+Foreign America except US 0.4 407 2 364 92 210
+British West Indies 4 365 58 221 125 212
+United States 14 396 7 331 34 233
+British Canada 6 403 18 314 32 220
+MUSLINS:
+Worldwide 247 516 211 486 24 367
+Northern & Western Europe 186 529 189 479 5 377
+Southern Europe & Levant[1] 34 503 19 584 15 404
+of which Gibraltar 0.1 851 2 577 2 478
+Africa 0.5 216 0.4 451 0.1 602
+Foreign America except US negl 981 negl 246 0.5 464
+British West Indies 12 402 0.3 464 1.4 297
+United States 11 572 1.5 510 3.4 236
+British Canada 3 548 0.2 326 0.1 363
+_____________________________________________________________
+[1] Portugal, Spain, Gibraltar, Italy, Malta, and Turkey & Egypt.

@@ -1,0 +1,120 @@
+
+
+===== FILE: OEBPS/Text/apendices.xhtml =====
+Apéndices
+
+ Apéndices
+
+===== FILE: OEBPS/Text/siglas.xhtml =====
+Siglas
+
+ SIGLAS UTILIZADAS
+
+ AAE: Archives des Affaires Étrangéres
+
+ AAEE.M: Archivo del Ministerio de Asuntos Exteriores (Madrid)
+
+ ACMJ: Archivo Central del Ministerio de Justicia (Madrid)
+
+ AGMS: Archivo General Militar (Segovia)
+
+ ADBR: Archives Departementales des Bouches-du-Rhóne
+
+ AGP: Archivo General de Palacio (Madrid)
+
+ AHP: Archivo Histórico de Protocolos (Madrid)
+
+ AHN: Archivo Histórico Nacional (Madrid)
+
+ Amáis: Archives Municipales d’Aix-en-Provence
+
+ AMM: Archives de la Ville de Marseille
+
+ AMO: Archivo Municipal de Olivenza
+
+ ANP: Archives Nationales (París)
+
+ ARCH. PARÍS: Archives de París
+
+ ASR: Archivio di Stato di Roma
+
+ MN: Archivo General de la Armada (El Viso del Marqués)
+
+===== FILE: OEBPS/Text/biblio.xhtml =====
+Datos
+
+ Fuentes y bibliografía
+
+ 1. Archivos
+
+ ARCHIVO HISTÓRICO NACIONAL. MADRID (AHN)
+
+ Estado: Legajos: 180, 240, 241, 583, 2821-34, 2836, 2849, 2856, 2881, 3008, 3136, 3449, 3452, 3946, 3963, 3969, 3985, 3990, 3998, 5202, 5205, 6686.
+
+ «Papeles de la Junta Central», legs. 22B, 72C, 78C.
+
+ Actas del Consejo de Estado, libros 6, 7, 8, 9, 10 y 11.
+
+ Pruebas de la Orden de Carlos III, expte. 564.
+
+ Consejos: legs. 17 806 y 1780.
+
+ Hacienda: legs. 755, 1867, 1982, 3580, 3581, 3752, 3825.
+
+ Diversos. Fondo Cabarrús: legs. 20, 36, 43.
+
+ ARCHIVO GENERAL DE PALACIO. MADRID (AGP)
+
+ Papeles reservados de Fernando VII: Tomos 1, 2, 95-106.
+
+ Expedientes personales: C.ª 436/9: Diego Godoy; C.ª 436/12: Manuel Godoy.
+
+ Casa de Carlos IV: legs. 14 y 184.
+
+ Fernando VII: C.ª 309 y C.ª 310.
+
+ Reales Sitios. San Lorenzo, leg. 1838.
+
+ Patrimonios: leg. 1.
+
+ ARCHIVO HISTÓRICO DE PROTOCOLOS. MADRID (AHP)
+
+ Protocolos número: 22 233, 22 256, 23 226, 22 258, 25 249, 25 567.
+
+ ARCHIVO DEL MINISTERIO DE ASUNTOS EXTERIORES. MADRID (AAEE.M)
+
+ Embajada española ante la Santa Sede, legs. 681, 690, 691, 696, 702, 703, 754, 758, 759.
+
+ ARCHIVO GENERAL MILITAR. SEGOVIA (AGMS)
+
+ Célebres-G, carpetas 2, 3, 4.
+
+ ARCHIVO CENTRAL DEL MINISTERIO DE JUSTICIA, MADRID (ACMj)
+
+ Sección Reservada, leg. 8.
+
+ Sección «Títulos»: «Príncipe de la Paz» y «Duque de la Alcudia».
+
+ ARCHIVO GENERAL DE LA ARMADA. ARCHIVO MUSEO «D. ÁLVARO DE BAZÁN». EL VISO DEL MARQUÉS (MN)
+
+ Manuscritos, n.º 1208.
+
+ Corso y presas, legs. 5229 y 5231.
+
+ ARCHIVO MUNICIPAL DE OLIVENZA (AMO)
+
+ Leg. 7, carpeta 3 (Documentos relativos a la guerra con Portugal, 1801).
+
+ Negociaçâo de Badajoz. Ano 1808 (copia mecanografiada del original, conservado en la «Casa do Alentejo», Lisboa, realizada por Ventura Abrantes).
+
+ ARCHIVES DES AFFAIRES ÉTRANGÈRES. PARS (AAE)
+
+ Correspondance politique. Espace: volúmenes 632, 635, 639, 640, 641, 645, 647, 649, 651, 653, 655, 673, 674, 678, 679, 680, 685, 688, 695.
+
+ Correspondance politique. Espagne. Supplément, números 18, 20, 26.
+
+ Mémoires et documents, Espagne, vol. 152, 209.
+
+ Mémoires et documents. France, Vol. 636, 1967.
+
+ ARCHIVES NATIONALES. PARS (ANP)

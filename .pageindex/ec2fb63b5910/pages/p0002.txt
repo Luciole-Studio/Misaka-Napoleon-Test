@@ -1,0 +1,33 @@
+
+
+**B2 · Jesús Yarango, Daniel Morán, Carlos Carcelén, "El costo de la contrarrevolución. La Caja Matriz de Lima y los gastos de la guerra en tiempos del Virrey Abascal (1806–1816)", _Revolución(es)_ 3(5), 2021, pp. 106–119. DOI 10.35622/j.rr.2021.05.008.**
+- 本地：`downloads/SA_Moran_Yarango_CajaLima_Abascal.pdf`（248,127 bytes；sha256 `64056f5d4305a11707f91786af4418c51a6567953f5acd6f563e9226051c7d78`；doc `64056f5d4305`）
+- 实读：pp.4–7（含表 1 逐年"战费"数列与其口径说明）。
+- 档案基础：Archivo General de la Nación (Perú), Sección Real Hacienda (H3), Libros mayores y manuales 1806–1816。
+- 本卡采用其**口径警告**：该科目不含军饷；且作者指出 TePaske–Klein 数据库在 1811、1812 两年与账簿不符。
+
+**B3 · Marcela Echeverri, "Abascal, Cádiz y el realismo popular en Popayán"（会议／论集稿，Yale History 站点 PDF）.**
+- 本地：`downloads/SA_Echeverri_Popayan_realismo_popular.pdf`（200,510 bytes；sha256 `9200044bb940590a99e5805b12db182c7f88e98f41420858422a1de894280b6a`；doc `9200044bb940`）
+- 实读：pp.4–6（含 1781 年普查比例、Tacón 武装印第安人与奴隶、矿奴保王的段落）。
+- 限定：PDF 文字层含大量 OCR 讹误（"Popayin"、"Peril"等），引文按可辨字面抄录。
+
+---
+
+## C. 仅读检索页文本／未取全文（一律如此标注，不作亲读引用）
+
+- **C1** · Sebastián Galarza（Cambridge Core 页面文本），"Fiscal Transfers between Buenos Aires and the Viceregal Interior at the End of the Colonial Period…(1800–1810)", _Latin American Research Review_。用于：Halperín Donghi 的汇款序列（1791–1805 年 860 万 → 1806–10 年 16.2 万 pesos）、内地库贡献（151,762 → 692,217）、5.4%／8.7% 两项比率。
+- **C2** · Galarza, "Centralización de recursos fiscales bajo el reformismo borbónico…1780–1800", DOI 10.35305/ac.v21i30.1650（检索页文本）。用于：situado 年均序列（1790s >1.2M；1800s ≈920k；1801–10 <750k；1803 年为零；1800 年 >2M）。
+- **C3** · Carlos Contreras, "La reforma fiscal de 1815: las finanzas peruanas en vísperas de la independencia", _Economía_ (PUCP)，DOI 10.18800/economia.200202.003（检索页文本）。用于：1800／1809／1812 秘鲁收支表、三 ramos 结构、1812 年 Abascal 的 5,375,000 需求与 situados 1,275,000。
+- **C4** · Daniel Morán 等（historiaregional.org 页面文本）。用于：利马《Gaceta del Gobierno》533 号、《Minerva Peruana》344 号、1808–1816 年捐输逐年额与地区占比。
+- **C5** · Juan Luis Orrego Penagos, "La contrarrevolución del virrey Abascal: Lima, 1806-1816", _Procesos_ 29 (2015): 93–112（仅见摘要与参考书目）。
+
+---
+
+## D. 复用本轮与上一轮卡的已核资产（注路径，不重复计为独立验证）
+
+- **D1** · MX 卡（t_9bd988）`nodes/r_5b1357a9c6/cards/t_9bd988/notes_marichal.md` —— Marichal《Bankruptcy of Empire》(CUP 2007, doc f137a3c2e0fa) 的亲读摘录：1803 补贴条约每月 1,600 万 reales；1804–08 马德里对美洲开票约 2,000 万 pesos（AGI Ultramar 833）；英舰自韦拉克鲁斯运银表 6.2（Gordon & Murphy 六船 8,651,641＋Hope/Diana 3,829,835）；1808-10→1811-02 汇加的斯 29,408,015 pesos；1809–11 爱国政府收入 60% 来自美洲、1812–14 "scarcely 5%"；Hope 交付法国国库按面值 75%。
+- **D2** · PT 卡（t_219822）`nodes/r_5b1357a9c6/cards/t_219822/PT_portugal_brazil.md` —— 巴西迁都为单向阀、1808 开港、英葡 1810 条约、Carlotismo 秘密会社名单。
+- **D3** · SP1 卡（t_3282da）`nodes/r_5b1357a9c6/cards/t_3282da/SP1_spain_state.md` —— B4b 为唯一不引爆机器自毁装置的接管协议；1808–11 加的斯收美洲银 29,408,015 pesos；Consolidación 美洲 15.4M pesos。
+- **D4** · SP2 卡（t_27c409）—— "二日机制"、1796–1808 同盟期零反法起义、1823 年 5.6 万法军几无抵抗入境。
+- **D5** · B5（t_87ba37）／B6（t_0fed70）—— 1811 年拉美＋亚洲发货仅填北欧缺口 21.7%（官方价口径）而 1808–12 五年净额填 87.3%；以 1805 为基年时"其余美洲"增量在 1808/09/10 连续三年超过北欧损失（比率 1.08/2.22/3.00，Heckscher 申报现价口径）。**两口径不可拼接**（见 `nodes/r_5b1357a9c6/coordination_ledger.md` B5/B6 对账条）。
+- **D6** · 上一轮 t_c2dbca `nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md` 与其 `SOURCES.md` —— 巴约讷宪章第 87／89／92／93 条（美洲同权与 22 席）；1808-06-30 Castlereagh"for the present to withhold any Instructions about S. America"（WP1/205，经 Muir 转引）；Guerra 所引 1808 年墨西哥城、加拉加斯、布宜诺斯艾利斯三市政文书（转引，原折未读）。

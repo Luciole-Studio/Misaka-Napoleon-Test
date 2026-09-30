@@ -1,0 +1,68 @@
+
+
+## 4. 其他命中及排除原因
+
+### 4.1 McTavish学位论文：实际读相关正文，但无逐数转引
+
+Michael McTavish, *Building a Warrior: Industry, Empire and the Royal Navy’s Iron Ships 1847–1860*, Nipissing University；当前题页未显示年份。
+
+https://utoronto.scholaris.ca/bitstreams/bda99cfd-9fc5-4a50-89c7-89b96aa97bd4/download
+
+实际读印刷p.12及前后段、注35—36。正文称最后十年英法有大规模战列舰建造／重建；注35引Glover，却把页码写为**229—35**，与原文起始233冲突。注36讨论未干燥木材，并未提供年度统计。**不作为数量证据，也不把错页码移植到Glover。**
+
+### 4.2 80／99／150网络链：仅检索线索，不录入
+
+https://history.stackexchange.com/questions/70435/where-did-france-build-up-its-fleet-in-1805-1814
+
+检索结果出现法国1814年80、英国在役99、计划150以及港口清单，并列Glover。但属于问答网站、没有精确Glover页码，本轮没有取得足以核口径的学术引用链。不得作为可信长转载或逐数学术转引。
+
+### 4.3 103艘与76艘：防同姓作者误接
+
+https://jmss.org/article/download/58328/pdf_1/159033
+
+检索命中1811年四年计划、1814年103艘主要战舰与76艘巡航舰，但同一检索结果明确出现**Michael Glover, Warfare**，不是Richard Glover 1967。该篇本轮未读取正文并核对该数字的脚注46，因而不采用、更不标成转引Richard Glover。
+
+### 4.4 出版物中的定性转引，仍非数字核查
+
+Marine Corps University的“The Unity of the Operational Art”检索结果注36引Glover p.236，称数量可能抵消英国航海技术优势，但误把刊名写成Journal of Military History。仅检索命中，未作为正文已阅证据；不能据此解释1814存量或船厂能力。
+
+https://www.usmcu.edu/Outreach/Marine-Corps-University-Press/MCU-Journal/JAMS-vol-11-no-2/The-Unity-of-the-Operational-Art/
+
+### 4.5 独立地域材料：仅保留定位，不扩大成全国反证
+
+Haris Dajč, “The British-French Naval Rivalry in the Ionian and Adriatic Basins 1807–1814 from an insular perspective,” *Povijesni prilozi* 67 (2024), 287–305, DOI 10.22586/pp.v43i67.32824。
+
+https://hrcak.srce.hr/file/469145
+
+已读提取文本的威尼斯造舰相关段、结论和返回书目。其注45引Sondhaus 1989 p.354，随后讨论造舰进度、航路受阻。**不是Glover逐数转引**，且地域性部署失败不能直接否定法国全国舰体重建。无独立Battesti/Monaque新增核读。本轮不把Dajč的其他数字加入项目。
+
+## 5. 五项核验的终态
+
+| 用户所需 | 本轮状态 |
+|---|---|
+| 1814存量 | 未核，80不可录入 |
+| 年度下水 | 未获可靠系列 |
+| 船厂能力 | 未获Glover正文或逐数学术转载 |
+| 船员 | 未获Glover正文或合格数字转引 |
+| 英国反应 | 未获足以区分保编／部署／新增订单的Glover原文证据 |
+
+新增的150只归入“同时代预期的二手报道”，不属于上表任何实绩项。
+
+## 6. 文件、工具故障与交接
+
+指定目录主动写入：
+- `glover_evidence.md`：本memo。
+- `glover_source_excerpts.md`：实际读到的相关短引、版本及定位。
+
+**工具故障**：mcporter/Exa命令和直接curl下载均被会话审批机制阻止，未执行成功；未借其他命令绕过。采用可用web_search/web_extract。后者自动缓存目录不可在调用参数更改，因此产生以下指定目录外缓存，这是工具副作用，已告知请求者；没有另行主动写到目录外。未尝试删除可能被共享引用的缓存。
+
+- `downloads/pages/6dcc42091ede.md`：JSTOR失败响应。
+- `downloads/pages/350599d00ab2.md`：Chicago页面壳。
+- `downloads/pages/73353c56af91.md`：McTavish提取文本。
+- `downloads/pages/8e0fd0e7f9bd.md`：Stagg Essay II提取文本。
+- `downloads/pages/5f4f001104e6.md`：Stagg总篇提取文本。
+- `downloads/pages/56707f7ed50c.md`：Dajč提取文本。
+
+这些是工具捕获文本而不是经校验的本地PDF。指定目录内摘录已提供来源URL和关键定位，可独立理解，不依赖把缓存文件名当引用。
+
+**下一项真正能关闭缺口的操作**：通过已有JSTOR／Chicago机构访问或馆际文献传递取得DOI对应20页，再按原文注释查1814舰表；当前会话不能把访问条件未满足冒充完成。此为交接建议，不是新增任务或完成卡。

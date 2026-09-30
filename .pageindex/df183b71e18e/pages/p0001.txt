@@ -1,0 +1,28 @@
+# B3 皇家海军木、麻、铜与给养：有界证据核查
+
+## 结论
+
+【裁量，中高置信度】应上调1808–1812年皇家海军维持封锁的能力，尤其1810年以后的给养保障；不能把理由写成“加拿大木、印度柚木和其他大麻已经充分替代波罗的海”。证据支持的实际机制是**加拿大大规模增供＋按用途替代木材＋继续争取波罗的海舰材与护航＋铜材再加工＋给养组织改进**。不同品类不可相互抵账。
+
+【文献推断】甚至强调危机的Albion也把加拿大供应写成成功应急；Davey既反对淡化波罗的海依赖，也反对以短缺推导败战。二者不是“危机/无危机”的简单对立。
+
+【边界】本次只做证据研究；未改主报告、未完成卡、未建立全舰队物量平衡或赋予可用率增幅。读取了指定naval目录、旧C2补充、Davey旧缓存；新检索遵循agent-reach搜索路由尝试mcporter，但执行被会话审批限制阻止，改用现有web_search/web_extract。网页全文抓取的工具自动缓存位于downloads/pages；本目录保存实际使用摘录、定位、解释及缓存索引，不冒充已下载PDF影像或原档。
+
+## 来源键（每条锚点以下列完整URL为出处）
+
+- **A** Robert Greenhalgh Albion, *Forests and Sea Power: The Timber Problem of the Royal Navy, 1652–1862*, Harvard University Press, 1926。已读Internet Archive全文OCR相关页，不是搜索片段。https://archive.org/stream/ForestsAndSeaPower/Forests%20and%20Sea%20Power_djvu.txt 。本轮缓存：downloads/pages/f9c908249692.md。页码依据OCR中保留的印刷页眉，未做逐页影像复核。
+- **D** James Davey, *War, Naval Logistics and the British State: Supplying the Baltic Fleet 1808–1812*, Greenwich PhD, September 2009。https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf 。复用downloads/pages/b92bac3d423e.md。摘要印刷页v可确认；部分正文页码抽取丢失，明确用注号与缓存行号，不冒造精确页码。
+- **N** Patricia K. Crimmin，收入 *The Naval Miscellany VII*, NRS vol.153 (2008) 的木材文书，由Navy Records Society于2021-04-20公开摘录。https://www.navyrecords.org.uk/members_blog/the-supply-of-timber-for-the-royal-navy-c-1803-c-1830/ 。网页无页码；定位为“Enclosure in Lord Melville’s letter to the Marquess Wellesley 4 July 1804”。缓存downloads/pages/01cf29aa1f98.md。
+- **J** William James, *Naval History of Great Britain*, IV, Abstract No.14，“at the commencement of the year 1806”，网络转录注a–f。https://sites.rootsweb.com/~pbtyc/Naval_History/Vol_IV/Abstract_No_14.html 。复用downloads/pages/ee9e07ba451b.md。实际读到行3293–3305；原书版次和页码未在本次核定。
+- **G** Science Museum Library and Archives, Robert Sharp编，*GOOD A: Papers … re the work of Simon Goodrich … c.1797–1847*，馆方档案目录。http://archives.sciencemuseumgroup.ac.uk/Documents/SCM/Finding%20Aids/Named%20Archives/GOOD%20A.pdf 。已读目录正文，非原信；用唯一档号定位，不把条目尾端“1p”等文件篇幅冒充目录页码。缓存downloads/pages/c611b1f1059d.md。
+- **M** Roger Morriss, *Science, Utility and British Naval Technology, 1793–1815: Samuel Bentham and the Royal Dockyards*, Routledge, 2020，公开电子书预览。https://www.perlego.com/book/1712747/science-utility-and-british-naval-technology-17931815-samuel-bentham-and-the-royal-dockyards-pdf 。读到“The Admiralty response”正文，未读第11章铜厂全文，预览无印刷页码。缓存downloads/pages/95d2152c26cf.md。
+
+## 十二条承重锚点
+
+### 1. 同时代政策已经明确：按用途替代，而非等待英国橡木恢复
+
+**原句**（N，1804-07-04附件，第2、3项）：
+> “To import as much foreign oak timber as can be procured from all parts of the world for the purpose of being used in repairs of all old ships so as to reserve the English oak entirely for the building of ships”
+> “we propose to repair ships upperworks with fir, and to substitute fir for oak in such parts of new ships as it may be applied to without injury to their strength and durability.”
+
+【事实：文书内容】海军委员会提出进口橡木修旧舰、保留英国橡木造新舰，以fir替代部分构件。同附件：“Of foreign oak timber we have already agreed for about 3000 loads for the present year from Upper Canada”。这是已议定合同量，不是到货量。网页无印刷页；以文书日期和条款精准定位。

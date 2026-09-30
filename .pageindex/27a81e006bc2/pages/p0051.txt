@@ -1,0 +1,37 @@
+A     Appendix
+
+A.1    Tables and figures
+
+
+           Table 6: Correlation coefficients between the agio and price indices
+                                      1750-1850     Restriction Period
+Monthly indices
+Gayer, Rostow and Schwartz (1953)
+Total goods                             0.72              0.72
+Domestic goods                          0.72              0.69
+Imported goods                          0.64              0.65
+Yearly indices
+Broadberry et al. (2012)                0.59              0.79
+Clark (2014)                            0.53              0.74
+Schumpeter (1938)                       0.66              0.69
+
+
+
+               Table 7: Descriptive statistics for the agio, monthly data
+                      Whole sample    Pre-restriction   Restriction Period   Post-restriction
+                        1718-1873       1718-1797           1797-1821          1821-1873
+Mean                         0.06          0.02                  0.35             -0.01
+Median                       0.00          0.01                  0.11             -0.01
+Maximum                      1.79          0.19                  1.79             0.01
+Minimum                     -0.04         -0.04                  -0.02            -0.02
+Standard Deviation           0.22          0.04                  0.45             0.00
+Skewness                     5.02          1.60                  1.54             -1.38
+Kurtosis                    30.48          5.33                  4.39             6.25
+Jarque-Bera                66681.45       618.78              137.89             477.76
+Probability                  0.00          0.00                  0.00             0.00
+Observations                1870           948                   291               631
+
+
+
+
+                                            49

@@ -1,0 +1,265 @@
+## Sheet: B5_boe_cells.csv (continued)
+source_sheet,source_cell,cached_value
+A47. Wages and prices,BX5,Capie and Collins (1983)
+A47. Wages and prices,BY5,Cost of living index originally from Ministry of Labour. Source: ONS retail prices 1919-1990
+A47. Wages and prices,BZ5,Source: ONS Retail prices 1919-1990
+A47. Wages and prices,CA5,"Source: O'Donoghue et al (2004), index derived from Table 2."
+A47. Wages and prices,CB5,Source: ONS website
+A47. Wages and prices,CC5,"Mitchell (1988) Chapter XIV Table 1, page 719 "
+A47. Wages and prices,CD5,"Mitchell (1988) Chapter XIV Table 1, page 719 "
+A47. Wages and prices,B6,£
+A47. Wages and prices,C6,1913=100
+A47. Wages and prices,D6,Spliced index 2015=100
+A47. Wages and prices,E6,annual inflation rate
+A47. Wages and prices,F6,Spliced index 2015=100
+A47. Wages and prices,G6,Spliced index 2015=100
+A47. Wages and prices,H6,Spliced index 2015=100
+A47. Wages and prices,I6,2010=100
+A47. Wages and prices,J6,"2013 = 100, based on composite value and volume measures"
+A47. Wages and prices,K6,"2013 = 100, based on composite value and volume measures"
+A47. Wages and prices,L6,"2013 = 100, based on composite value and volume measures"
+A47. Wages and prices,M6,"2013 = 100, based on composite value and volume measures"
+A47. Wages and prices,N6,"2013 = 100, based on composite value and volume measures"
+A47. Wages and prices,O6,"2013 = 100, based on GB+NI measure"
+A47. Wages and prices,P6,"2013 = 100, based on GB+NI measure"
+A47. Wages and prices,Q6,"2013 = 100, based on GB measure"
+A47. Wages and prices,R6,"2013 = 100, based on GB measure"
+A47. Wages and prices,S6,"1920 = 100, based on pre-1922 UK (GB+I) measure"
+A47. Wages and prices,T6,"2013 = 100, based on composite value and volume measures"
+A47. Wages and prices,U6,"2013 = 100, based on composite value and volume measures"
+A47. Wages and prices,V6,"$ per barrel; 1861-1944 US Average, 1945-1983 Arabian Light posted at Ras Tanura,1984-2009 Brent dated."
+A47. Wages and prices,W6,1982-1984=100
+A47. Wages and prices,X6,2009=100
+A47. Wages and prices,Z6,pence per day
+A47. Wages and prices,AA6,pence per day
+A47. Wages and prices,AB6,pence per day
+A47. Wages and prices,AC6,pence per day
+A47. Wages and prices,AE6,pence per day
+A47. Wages and prices,AF6,pence per day
+A47. Wages and prices,AG6,Pence/Day
+A47. Wages and prices,AH6,Pence/Day
+A47. Wages and prices,AI6,Pence/Day
+A47. Wages and prices,AJ6,Pence/Day
+A47. Wages and prices,AK6,Pence/Day
+A47. Wages and prices,AL6,Ratio
+A47. Wages and prices,AM6,Ratio
+A47. Wages and prices,AN6,Pence/Day
+A47. Wages and prices,AO6,Pence/Day
+A47. Wages and prices,AP6,1900=100
+A47. Wages and prices,AQ6,£ per year
+A47. Wages and prices,AR6,1778/82=100
+A47. Wages and prices,AS6,1906=100
+A47. Wages and prices,AT6,1892=100
+A47. Wages and prices,AV6,1835=100
+A47. Wages and prices,AW6,1835=100
+A47. Wages and prices,AX6,1835=100
+A47. Wages and prices,AY6,1785=100
+A47. Wages and prices,AZ6,1906=100
+A47. Wages and prices,BA6,£ per yr
+A47. Wages and prices,BB6,1778/82=100
+A47. Wages and prices,BC6,1911=100
+A47. Wages and prices,BD6,1913=100
+A47. Wages and prices,BE6, 2000=100
+A47. Wages and prices,BF6,£
+A47. Wages and prices,BG6," Cost of Living Index, 1860-9=100"
+A47. Wages and prices,BH6,pence per day required to buy respectable basket of necessities
+A47. Wages and prices,BI6,Schumpeter-Gilboy Consumer Price index
+A47. Wages and prices,BJ6,Cost of living 1900=100
+A47. Wages and prices,BK6,Cost of Living 1878/82=100
+A47. Wages and prices,BL6,Cost of Living 1860-69=100
+A47. Wages and prices,BP6,"Cost of Living for Ireland (1835=100), compromise index"
+A47. Wages and prices,BQ6,"1859 unadjusted weights, 1859=100"
+A47. Wages and prices,BR6,"1859 adjusted weights, 1859=100"
+A47. Wages and prices,BS6,"1904 unadjusted weights, 1859=100"
+A47. Wages and prices,BT6,"1904 adjusted weights, 1859=100"
+A47. Wages and prices,BU6,Average measure
+A47. Wages and prices,BV6,1914=100
+A47. Wages and prices,BW6,Cost of living 1900=100
+A47. Wages and prices,BX6,Cost of living 1924=100
+A47. Wages and prices,BZ6,"Retail price index, Jan 1987=100"
+A47. Wages and prices,A7,1209
+A47. Wages and prices,B7,0.03415385640724257
+A47. Wages and prices,D7,0.08239185211478409
+A47. Wages and prices,G7,0.0543283974828907
+A47. Wages and prices,Z7,1.3736468079853
+A47. Wages and prices,AB7,2.78392234287258
+A47. Wages and prices,AF7,2.088782549040318
+A47. Wages and prices,BG7,6.544197349118789
+A47. Wages and prices,A8,1210
+A47. Wages and prices,B8,0.0302048942906292
+A47. Wages and prices,D8,0.0845152933064964
+A47. Wages and prices,E8,2.577246581074604
+A47. Wages and prices,G8,0.05572857424957112
+A47. Wages and prices,AF8,1.847271808418531
+A47. Wages and prices,BG8,6.712857451557727
+A47. Wages and prices,A593,1795
+A47. Wages and prices,B593,0.4123101319236947
+A47. Wages and prices,C593,35.90887458412103
+A47. Wages and prices,D593,1.1473883466463648
+A47. Wages and prices,E593,15.70397111913357
+A47. Wages and prices,F593,1.2232049343368803
+A47. Wages and prices,G593,0.9241671311928789
+A47. Wages and prices,H593,0.9663731605945555
+A47. Wages and prices,I593,1.697912352875158
+A47. Wages and prices,O593,1.105885374920392
+A47. Wages and prices,P593,1.1673018701092142
+A47. Wages and prices,Q593,1.1133098116560944
+A47. Wages and prices,R593,1.1751131694222383
+A47. Wages and prices,T593,5.93811390581556
+A47. Wages and prices,U593,5.1050180156233225
+A47. Wages and prices,W593,12.17
+A47. Wages and prices,X593,5.96
+A47. Wages and prices,Z593,14.480893732174335
+A47. Wages and prices,AA593,18.71135896426924
+A47. Wages and prices,AB593,26.889417507579083
+A47. Wages and prices,AC593,17.83647211151954
+A47. Wages and prices,AD593,0.44
+A47. Wages and prices,AE593,22.49524222546162
+A47. Wages and prices,AF593,21.964291830772098
+A47. Wages and prices,AG593,32.5
+A47. Wages and prices,AH593,22
+A47. Wages and prices,AI593,17
+A47. Wages and prices,AJ593,40
+A47. Wages and prices,AK593,28
+A47. Wages and prices,AL593,1.2307692307692308
+A47. Wages and prices,AM593,1.2727272727272727
+A47. Wages and prices,AN593,36
+A47. Wages and prices,AO593,20
+A47. Wages and prices,AP593,43
+A47. Wages and prices,AQ593,25.702176426505485
+A47. Wages and prices,AR593,131.3
+A47. Wages and prices,AT593,40
+A47. Wages and prices,AU593,36
+A47. Wages and prices,AV593,86.95652173913044
+A47. Wages and prices,AW593,80.59236516886936
+A47. Wages and prices,AX593,83.77444345399991
+A47. Wages and prices,AY593,91.34329960614394
+A47. Wages and prices,BA593,22.67787289822493
+A47. Wages and prices,BB593,126.93171652189703
+A47. Wages and prices,BG593,97.87853903123107
+A47. Wages and prices,BH593,4.709184274523811
+A47. Wages and prices,BI593,147
+A47. Wages and prices,BJ593,143
+A47. Wages and prices,BK593,128.2
+A47. Wages and prices,BL593,94.9
+A47. Wages and prices,BP593,124.406535839136
+A47. Wages and prices,BZ593,3.7938826628499207
+A47. Wages and prices,CA593,185.189568276246
+A47. Wages and prices,A594,1796
+A47. Wages and prices,B594,0.43115141746476227
+A47. Wages and prices,C594,37.49047091290077
+A47. Wages and prices,D594,1.175133306666675
+A47. Wages and prices,E594,2.4180967238689703
+A47. Wages and prices,F594,1.3014900501344406
+A47. Wages and prices,G594,0.9833138275892231
+A47. Wages and prices,H594,0.9396237821843487
+A47. Wages and prices,I594,1.7161363740678128
+A47. Wages and prices,O594,1.1378867533884907
+A47. Wages and prices,P594,1.20189217390092
+A47. Wages and prices,Q594,1.145526033556686
+A47. Wages and prices,R594,1.2099349430874737
+A47. Wages and prices,T594,5.972020405040138
+A47. Wages and prices,U594,5.402961317321322
+A47. Wages and prices,W594,12.81
+A47. Wages and prices,X594,6.27
+A47. Wages and prices,Z594,15.69685081006418
+A47. Wages and prices,AA594,19.90791458882898
+A47. Wages and prices,AB594,27.726477082165204
+A47. Wages and prices,AC594,18.275682590652416
+A47. Wages and prices,AD594,0.44
+A47. Wages and prices,AE594,23.576941280052004
+A47. Wages and prices,AF594,23.003766057686168
+A47. Wages and prices,AG594,32.5
+A47. Wages and prices,AH594,22
+A47. Wages and prices,AI594,17
+A47. Wages and prices,AJ594,42
+A47. Wages and prices,AK594,30
+A47. Wages and prices,AL594,1.2923076923076924
+A47. Wages and prices,AM594,1.3636363636363635
+A47. Wages and prices,AN594,36
+A47. Wages and prices,AO594,20
+A47. Wages and prices,AP594,44
+A47. Wages and prices,AQ594,26.884161564686533
+A47. Wages and prices,AR594,137.3
+A47. Wages and prices,AT594,41
+A47. Wages and prices,AU594,36.99999999999999
+A47. Wages and prices,AV594,89.13043478260869
+A47. Wages and prices,AW594,81.49281165059227
+A47. Wages and prices,AX594,85.31162321660048
+A47. Wages and prices,AY594,88.95442125559022
+A47. Wages and prices,BA594,23.67671346161665
+A47. Wages and prices,BB594,132.52238844302477
+A47. Wages and prices,BG594,103.24281058108608
+A47. Wages and prices,BH594,4.946156074205416
+A47. Wages and prices,BI594,154
+A47. Wages and prices,BJ594,150
+A47. Wages and prices,BK594,131.3
+A47. Wages and prices,BL594,91.4
+A47. Wages and prices,BP594,120.96294112897601
+A47. Wages and prices,BZ594,4.036691153272316
+A47. Wages and prices,CA594,197.04170064592577
+A47. Wages and prices,A595,1797
+A47. Wages and prices,B595,0.43837391025550476
+A47. Wages and prices,C595,38.06234119524473
+A47. Wages and prices,D595,1.057888475613107
+A47. Wages and prices,E595,-9.977151561309995
+A47. Wages and prices,F595,1.1713410451209965
+A47. Wages and prices,G595,0.8849824448303009
+A47. Wages and prices,H595,0.8569850494517484
+A47. Wages and prices,I595,1.568866581186626
+A47. Wages and prices,O595,1.1489990106704773
+A47. Wages and prices,P595,1.1988110285233995
+A47. Wages and prices,Q595,1.1567128937342817
+A47. Wages and prices,R595,1.2068331794368339
+A47. Wages and prices,T595,6.031551835335457
+A47. Wages and prices,U595,5.333764619087198
+A47. Wages and prices,W595,12.33
+A47. Wages and prices,X595,6.04
+A47. Wages and prices,Z595,16.04393837479819
+A47. Wages and prices,AA595,19.887569149540347
+A47. Wages and prices,AB595,28.234081385694964
+A47. Wages and prices,AC595,19.757187634477926
+A47. Wages and prices,AD595,0.44
+A47. Wages and prices,AE595,24.414705728190363
+A47. Wages and prices,AF595,23.969861306083303
+A47. Wages and prices,AG595,36
+A47. Wages and prices,AH595,22
+A47. Wages and prices,AI595,17
+A47. Wages and prices,AJ595,46
+A47. Wages and prices,AK595,31
+A47. Wages and prices,AL595,1.2777777777777777
+A47. Wages and prices,AM595,1.4090909090909092
+A47. Wages and prices,AN595,36
+A47. Wages and prices,AO595,20
+A47. Wages and prices,AP595,45
+A47. Wages and prices,AQ595,27.34251559846637
+A47. Wages and prices,AR595,139.6
+A47. Wages and prices,AT595,42
+A47. Wages and prices,AU595,36.99999999999999
+A47. Wages and prices,AV595,91.30434782608695
+A47. Wages and prices,AW595,82.09666628212824
+A47. Wages and prices,AX595,86.70050705410759
+A47. Wages and prices,AY595,88.9131690111345
+A47. Wages and prices,BA595,24.0378721369432
+A47. Wages and prices,BB595,134.54385186694057
+A47. Wages and prices,BG595,93.39329513348903
+A47. Wages and prices,BH595,4.391541223886767
+A47. Wages and prices,BI595,148
+A47. Wages and prices,BJ595,130
+A47. Wages and prices,BK595,118.2
+A47. Wages and prices,BL595,87.4
+A47. Wages and prices,BP595,110.3244022243216
+A47. Wages and prices,BZ595,3.6330220379450844
+A47. Wages and prices,CA595,177.3375305813332
+A47. Wages and prices,A596,1798
+A47. Wages and prices,B596,0.4531329172626744
+A47. Wages and prices,C596,39.203884467085544
+A47. Wages and prices,D596,1.0722084549784283
+A47. Wages and prices,E596,1.3536379018612479
+A47. Wages and prices,F596,1.1455715421283346
+A47. Wages and prices,G596,0.8655128310440342
+A47. Wages and prices,H596,0.9480613765517842
+A47. Wages and prices,I596,1.5946018543573348
+A47. Wages and prices,O596,1.199837597603584
+A47. Wages and prices,P596,1.2303787047323438
+A47. Wages and prices,Q596,1.2078927889810507

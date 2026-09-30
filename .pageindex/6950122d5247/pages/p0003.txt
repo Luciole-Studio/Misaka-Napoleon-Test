@@ -1,0 +1,50 @@
+
+
+### GA — Jean Gabillard
+
+Jean Gabillard, « Le financement des guerres napoléoniennes et la conjoncture du Premier Empire », *Revue économique*, 4(4), 1953, pp.548–572；DOI 10.3406/reco.1953.406987。
+
+- <https://www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987>；保存`downloads/pages/e4f61139af7d.md`，新抓取`downloads/pages/e772cb60e0df.md`。
+- 实读正文；p.557图表未恢复，不据缺图重造税表。p.562的45m内部贷款、pp.566–572危机机制是本卡采用部分。
+- p.569原意：“il semble difficile d’induire des renseignements possédés qu’une inflation de crédit ait eu lieu entre 1807 et 1810”。捕获OCR缺重音/标点，主文用释义而不作精密逐字译。
+- 银行券85m(1807)→101m(1810)不是充分证明没有一切商业信用扩张；作者自己强调资料不足。所称1805–1807、1811/1812–1815通缩周期与本卡两次事件切片不混同。
+
+### PL — Alain Plessis
+
+Alain Plessis, « La Banque de France, fille du coup d’État de Brumaire et institution majeure des “masses de granit” napoléoniennes », *Revue du Souvenir Napoléonien*, no.430, août–septembre 2000, pp.35–43；网页题名如上。
+
+- <https://www.napoleon.org/histoire-des-2-empires/articles/la-banque-de-france-une-des-grandes-institutions-napoleoniennes/>；保存`downloads/pages/54a70cc2111c.md`。
+- 实读正文和尾注。网页未逐段对应单页，引用至章节/脚注。
+- 1805-08-24短引：“j’arrêterai, s’il le faut, la solde de mes troupes pour la soutenir”来自注21转Ramon(1929), pp.66–67；原信及Ramon未阅，不证明实际停军饷。
+- 1806改革、5%/4%贴现、省外分支、40m对国库贷款均由此二手研究转述。1805-08-09信的旧版卷页可能有误，本卡不依该卷页作原始定位。
+
+### B12 — Pierre Branda，1812复合危机
+
+Pierre Branda, « 1812, l’année de tous les défis », *Revue du Souvenir Napoléonien*, no.492 (2012), pp.26–33。
+
+- <https://www.napoleon.org/histoire-des-2-empires/articles/1812-lannee-de-tous-les-defis/>；保存`downloads/pages/414d9ffcebd4.md`。
+- 已读全文和尾注。采用产业/金融危机、企业破产及粮食政治；不把该篇约数军费与Marion不同比例强接。
+- 1812-05粮食清查报告：“on craint des déclarations inexactes car presque tous les maires sont des propriétaires et des cultivateurs.” 注12转Nicole Gotteri编警察报告，p.337，原编未阅；这是担忧，非普遍舞弊事实。
+- 122企业破产为后出二手数，原始破产账未核。
+
+### H — Eli F. Heckscher
+
+Eli F. Heckscher, *The Continental System: An Economic Interpretation*, Oxford: Clarendon Press, 1922，英译本。
+
+- 实读英语正文捕获，保留扫描供复核：<https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/327/0142_Bk.pdf>；`downloads/pages/70cc6a857e5f.md`；`downloads/c15_heckscher1922.pdf`。
+- 本卡读pp.272–282、313–315及其相关前后段；采用不同产业/地区利益，非全书再读。
+- p.278：“the insufficient supply of capital possessed by the industry and its consequent dependence on loans and bills of exchange.”
+- p.279：“had received liberal support in the form of loans from Napoleon during the crisis of 1810–11, which they had not been able to repay”——Richard-Lenoir和Bauwens；规范化OCR换行与姓名重音。
+- p.314科隆1811商会请愿：“the manufacturers of the Grand-Duchy, excluded from the markets of France, Italy, and North Germany, will find themselves reduced to the pressing necessity of moving their works to the left bank of the Rhine.” 经Zeyss及Schmidt转引，原请愿未阅。
+- 所引Mollien、Chaptal战后回忆/论著属于回溯性。作者对保护主义的批判不能替代实际利润与就业统计。
+
+### SG — Monika Senkowska-Gluck
+
+Monika Senkowska-Gluck, « Les donataires de Napoléon », *Revue d’histoire moderne et contemporaine*, 17(3), 1970, pp.680–693。
+
+- <https://www.persee.fr/doc/rhmc_0048-8003_1970_num_17_3_2102>；保存`downloads/pages/de8da74a2316.md`。
+- 已读正文至结论，重点pp.682–690。
+- p.683：“En janvier 1810 ce revenu s’élève déjà à plus de 18 millions et il est partagé par 4 035 donataires.”
+- p.683允许再投资形式：“des biens fonciers en France, des actions de la Banque de France ou la rente de 5 %, inscrite au Grand Livre de la Dette Publique.”
+- pp.689–690的1810-03-03法令分两段20年出售、转入境内地产或年金；不是命令发出即实现，也不是1810下半年危机触发。
+- 1814分层年收益相加24.73m为本卡算术，含作者“约600人”群体，故只写约数。法令原刊未由本卡核阅。

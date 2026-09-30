@@ -1,0 +1,39 @@
+
+
+【机制】**双侧脆弱性定理**：英属印度军队的政治稳定同时受制于两个相反方向的力量——
+- 增加欧籍骨干（国王军团）→ 财政成本↑、公司军官晋升空间↓ → **欧籍军官团哗变风险↑**（1809 实测）；
+- 减少欧籍骨干、扩编土著兵 → 单位欧籍监督密度↓、新募部队政治成色↓ → **土著兵变风险↑**（1806 实测）。
+【推演·中高】法国威胁的**真正军事效果不是战场失败，而是迫使英国在这两个风险之间移动**。任何"法国在印度洋建立可信威胁"的情景，都会把英国推向第一侧（增派王军），从而**重现 1809 年的引爆条件**，且这一次是在更大规模、更长时间上。
+【推演·中】1809 年哗变之所以没有酿成灾难，关键条件是：(a) 没有外敌在场；(b) 土著部队大体跟随建制而非自行行动；(c) 伦敦最终以大赦收场。**在有法国舰队与法国代理人在场的情景里，(a) 不成立**——这是本卡给 P6／P8 的最重要的非线性风险点。
+
+---
+
+## ⑦ 社会结构与阶层（公司自身的社会基座）
+
+范围声明：印度本土社会（柴明达尔、农民、种姓、部落、土邦贵族）属 IN2。本节只处理**公司这个装置自己的阶层基座**，因为它决定公司在伦敦政治中的抛接能力与内部否决点。
+
+1. **股东（Proprietors）**：1813 年股本面值 £6,000,000（1793 年 £5m，后按 200% 认购增 £1m，专金入账）〔**口径冲突**：1812-03-04 会计总长总账列"capital advanced by the Adventurers £7,780,000"，大于面值，差额应为溢价入账；两数并存，不平账〕；公司自述股息"only equivalent to the legal interest of money"（1812 谈判信）。【机制】股东的收益被法定封顶，因此他们的真实利益不在利润而在**人事推荐权（patronage）**——造就了一个"以官职为分红"的贵族化投资者群体。【推演·中高】因此，**公司在任何改革中最后让步的不是贸易垄断而是人事权**；1813 与 1833 两次都是先交出贸易、后交出行政，而人事权保留到 1853。
+2. **公司文职与军职服务层**：1796 改制的动机被特别委员会明言是解决军官晋升与退休（行 8140–8160），加价 £460,000/年。【机制】**服务层是一个有组织、有符号、有集体行动能力的阶层**（1809 实测）。
+3. **国人商人（country traders）与代理行（agency houses）**：他们的利润靠印度—广州贸易，其汇款靠公司开出的伦敦汇票（Milburn I 行 43072–43080）。【推演·中高】这个群体是**垄断的内部反对派**：他们既需要公司的汇票，又想要自由运输与自由对华贸易；他们在 1813 与 1833 两次都站在开放一方。
+4. **英国本土工商城市**：1812 年帕斯利、斯旺西、伯明翰请愿（见⑨）与 1812-04-17 谢菲尔德/Hallamshire 刀具商请愿（由 B5 卡核证，`downloads/pages/ba2ab29e8259.md`，该请愿明言**要求开放东印度公司垄断以补大陆与美国市场损失**）。
+5. **航运利益（shipping interest）**：1808 请愿自述 14 年多付运费与滞期 £7m——这笔钱正是伦敦包船业主的收入。【推演·中】航运利益是垄断的**最强盟友**，也是 1833 后它消失时叫得最响的一方（1833-07-26 下院辩论中已可见对"公司舱队将被拆散"的哀悼）。
+
+【推演·中高】**公司的社会基座在 1803–15 已经是少数派**：支持者是股东、服务层与伦敦航运业；反对者是外港城市、制造业、印度自由商人。因此，**在任何商业压力加大的情景中，垄断都会先倒**。
+
+---
+
+## ⑧ 社会运动与抵抗传统（体制内部的）
+
+本卡只处理**公司自身体制内的抵抗**；印度社会的抵抗（某拉塔战争、Polygar 起义、Pindari、部落）属 IN2。
+- 1806 韦洛尔（土著兵变）与 1809 马德拉斯（欧籍军官变）构成**同一体制的两次相反方向的抵抗**。
+- 1808–1813 的**议会压力**是另一种"抵抗"：1808-03-11 下院设立特别委员会调查公司财政（1808 设立、持续至 1812）；1811-05-23 辩论中 Creevey 称该委员会"had now sat for four years, and which during the present session had not in fact been occupied altogether more than four hours, or six at the utmost"。
+【推演·中】**监督的形式化是公司的存活条件之一**：1806 年后议会停止年度印度预算辩论直到 1854（见⑩），这使公司得以在不被持续追问的情况下展期赤字。在任何"英国国内危机加深"的情景里，**这层保护膜会被捷径穿透**——公司会被当作可掠夺的财政目标，而不是被保护的国家资产。
+
+---
+
+## ⑨ 思潮、宣传与舆论：大陆封锁如何杀死了垄断
+
+【锚点】HC Deb 08 April 1812 vol 22 cc235–9（`downloads/pages/d50bbff185e1.md`），三地请愿：
+- **斯旺西**："the Petitioners feel, at this time, **when they are nearly precluded from any trade with the continent of Europe**, that it becomes essentially necessary that the merchants and manufacturers of this kingdom should look to new sources for a vent for their respective commodities; and it appears to the Petitioners that no country holds out such an extensive market as India"
+- **帕斯利**：废除垄断将开启新市场，"**which will render this country more independent of all commercial relations with the continent of Europe**, and contribute to the increase of the financial resources of the empire"；并指控垄断的"singular and unaccountable peculiarity, that privileges are conceded to, and lucratively enjoyed by, **neutral nations**, which are absolutely denied to ... the merchants of the British empire"，并以**美国人的实绩**为证。
+- **伯明翰**：同样的"more independent of all commercial relations with the continent of Europe"，并加上"cannot fail materially to increase the **naval strength** and financial resources of the empire"。

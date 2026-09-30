@@ -1,0 +1,412 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+Angola,AGO,1945,4093293
+Angola,AGO,1946,4166972
+Angola,AGO,1947,4241977
+Angola,AGO,1948,4318333
+Angola,AGO,1949,4397048
+Angola,AGO,1950,4551869
+Angola,AGO,1951,4602567
+Angola,AGO,1952,4651693
+Angola,AGO,1953,4706357
+Angola,AGO,1954,4766716
+Angola,AGO,1955,4832775
+Angola,AGO,1956,4904275
+Angola,AGO,1957,4980650
+Angola,AGO,1958,5061137
+Angola,AGO,1959,5145107
+Angola,AGO,1960,5231664
+Angola,AGO,1961,5301584
+Angola,AGO,1962,5354315
+Angola,AGO,1963,5408334
+Angola,AGO,1964,5464186
+Angola,AGO,1965,5521982
+Angola,AGO,1966,5581391
+Angola,AGO,1967,5641810
+Angola,AGO,1968,5702706
+Angola,AGO,1969,5763693
+Angola,AGO,1970,5852790
+Angola,AGO,1971,5991114
+Angola,AGO,1972,6174269
+Angola,AGO,1973,6388534
+Angola,AGO,1974,6613368
+Angola,AGO,1975,6842952
+Angola,AGO,1976,7074668
+Angola,AGO,1977,7317837
+Angola,AGO,1978,7576742
+Angola,AGO,1979,7847207
+Angola,AGO,1980,8133867
+Angola,AGO,1981,8435605
+Angola,AGO,1982,8751653
+Angola,AGO,1983,9082985
+Angola,AGO,1984,9425921
+Angola,AGO,1985,9779125
+Angola,AGO,1986,10139459
+Angola,AGO,1987,10497863
+Angola,AGO,1988,10861299
+Angola,AGO,1989,11238562
+Angola,AGO,1990,11626361
+Angola,AGO,1991,12023532
+Angola,AGO,1992,12423717
+Angola,AGO,1993,12827136
+Angola,AGO,1994,13249763
+Angola,AGO,1995,13699780
+Angola,AGO,1996,14170973
+Angola,AGO,1997,14660419
+Angola,AGO,1998,15159378
+Angola,AGO,1999,15667235
+Angola,AGO,2000,16194873
+Angola,AGO,2001,16747204
+Angola,AGO,2002,17327701
+Angola,AGO,2003,17943718
+Angola,AGO,2004,18600426
+Angola,AGO,2005,19291160
+Angola,AGO,2006,20015281
+Angola,AGO,2007,20778570
+Angola,AGO,2008,21578656
+Angola,AGO,2009,22414775
+Angola,AGO,2010,23294822
+Angola,AGO,2011,24218358
+Angola,AGO,2012,25177398
+Angola,AGO,2013,26165616
+Angola,AGO,2014,27160767
+Angola,AGO,2015,28157802
+Angola,AGO,2016,29183072
+Angola,AGO,2017,30234836
+Angola,AGO,2018,31297160
+Angola,AGO,2019,32375633
+Angola,AGO,2020,33451139
+Angola,AGO,2021,34532427
+Angola,AGO,2022,35635028
+Angola,AGO,2023,36749909
+Anguilla,AIA,-7000,1
+Anguilla,AIA,-6000,3
+Anguilla,AIA,-5000,7
+Anguilla,AIA,-4000,14
+Anguilla,AIA,-3000,29
+Anguilla,AIA,-2000,58
+Anguilla,AIA,-1000,116
+Anguilla,AIA,0,233
+Anguilla,AIA,100,254
+Anguilla,AIA,200,278
+Anguilla,AIA,300,303
+Anguilla,AIA,400,330
+Anguilla,AIA,500,361
+Anguilla,AIA,600,393
+Anguilla,AIA,700,429
+Anguilla,AIA,800,468
+Anguilla,AIA,900,511
+Anguilla,AIA,1000,557
+Anguilla,AIA,1100,608
+Anguilla,AIA,1200,663
+Anguilla,AIA,1300,724
+Anguilla,AIA,1400,790
+Anguilla,AIA,1500,861
+Anguilla,AIA,1600,940
+Anguilla,AIA,1700,1025
+Anguilla,AIA,1710,1139
+Anguilla,AIA,1720,1266
+Anguilla,AIA,1730,1406
+Anguilla,AIA,1740,1585
+Anguilla,AIA,1750,1763
+Anguilla,AIA,1760,1941
+Anguilla,AIA,1770,2119
+Anguilla,AIA,1780,2298
+Anguilla,AIA,1790,2476
+Anguilla,AIA,1800,2654
+Anguilla,AIA,1810,2832
+Anguilla,AIA,1820,3010
+Anguilla,AIA,1830,3100
+Anguilla,AIA,1840,2950
+Anguilla,AIA,1850,3071
+Anguilla,AIA,1860,2965
+Anguilla,AIA,1870,2815
+Anguilla,AIA,1880,3160
+Anguilla,AIA,1890,3650
+Anguilla,AIA,1900,3980
+Anguilla,AIA,1910,4160
+Anguilla,AIA,1920,4187
+Anguilla,AIA,1930,4994
+Anguilla,AIA,1940,5533
+Anguilla,AIA,1950,5022
+Anguilla,AIA,1951,5229
+Anguilla,AIA,1952,5389
+Anguilla,AIA,1953,5522
+Anguilla,AIA,1954,5668
+Anguilla,AIA,1955,5763
+Anguilla,AIA,1956,5802
+Anguilla,AIA,1957,5823
+Anguilla,AIA,1958,5819
+Anguilla,AIA,1959,5800
+Anguilla,AIA,1960,5801
+Anguilla,AIA,1961,5846
+Anguilla,AIA,1962,5899
+Anguilla,AIA,1963,5943
+Anguilla,AIA,1964,5994
+Anguilla,AIA,1965,6040
+Anguilla,AIA,1966,6095
+Anguilla,AIA,1967,6150
+Anguilla,AIA,1968,6207
+Anguilla,AIA,1969,6257
+Anguilla,AIA,1970,6324
+Anguilla,AIA,1971,6376
+Anguilla,AIA,1972,6427
+Anguilla,AIA,1973,6466
+Anguilla,AIA,1974,6502
+Anguilla,AIA,1975,6519
+Anguilla,AIA,1976,6545
+Anguilla,AIA,1977,6567
+Anguilla,AIA,1978,6587
+Anguilla,AIA,1979,6602
+Anguilla,AIA,1980,6612
+Anguilla,AIA,1981,6628
+Anguilla,AIA,1982,6653
+Anguilla,AIA,1983,6672
+Anguilla,AIA,1984,6764
+Anguilla,AIA,1985,6978
+Anguilla,AIA,1986,7245
+Anguilla,AIA,1987,7519
+Anguilla,AIA,1988,7807
+Anguilla,AIA,1989,8116
+Anguilla,AIA,1990,8422
+Anguilla,AIA,1991,8728
+Anguilla,AIA,1992,9005
+Anguilla,AIA,1993,9252
+Anguilla,AIA,1994,9489
+Anguilla,AIA,1995,9738
+Anguilla,AIA,1996,10000
+Anguilla,AIA,1997,10278
+Anguilla,AIA,1998,10557
+Anguilla,AIA,1999,10864
+Anguilla,AIA,2000,11196
+Anguilla,AIA,2001,11497
+Anguilla,AIA,2002,11714
+Anguilla,AIA,2003,11903
+Anguilla,AIA,2004,12092
+Anguilla,AIA,2005,12290
+Anguilla,AIA,2006,12493
+Anguilla,AIA,2007,12697
+Anguilla,AIA,2008,12911
+Anguilla,AIA,2009,13138
+Anguilla,AIA,2010,13372
+Anguilla,AIA,2011,13593
+Anguilla,AIA,2012,13401
+Anguilla,AIA,2013,13272
+Anguilla,AIA,2014,13748
+Anguilla,AIA,2015,14235
+Anguilla,AIA,2016,14344
+Anguilla,AIA,2017,14450
+Anguilla,AIA,2018,14747
+Anguilla,AIA,2019,14845
+Anguilla,AIA,2020,14864
+Anguilla,AIA,2021,14503
+Anguilla,AIA,2022,14202
+Anguilla,AIA,2023,14435
+Antigua and Barbuda,ATG,-10000,1
+Antigua and Barbuda,ATG,-9000,3
+Antigua and Barbuda,ATG,-8000,7
+Antigua and Barbuda,ATG,-7000,14
+Antigua and Barbuda,ATG,-6000,29
+Antigua and Barbuda,ATG,-5000,58
+Antigua and Barbuda,ATG,-4000,117
+Antigua and Barbuda,ATG,-3000,235
+Antigua and Barbuda,ATG,-2000,471
+Antigua and Barbuda,ATG,-1000,943
+Antigua and Barbuda,ATG,0,1887
+Antigua and Barbuda,ATG,100,2059
+Antigua and Barbuda,ATG,200,2246
+Antigua and Barbuda,ATG,300,2451
+Antigua and Barbuda,ATG,400,2675
+Antigua and Barbuda,ATG,500,2920
+Antigua and Barbuda,ATG,600,3187
+Antigua and Barbuda,ATG,700,3478
+Antigua and Barbuda,ATG,800,3797
+Antigua and Barbuda,ATG,900,4145
+Antigua and Barbuda,ATG,1000,4525
+Antigua and Barbuda,ATG,1100,4941
+Antigua and Barbuda,ATG,1200,5396
+Antigua and Barbuda,ATG,1300,5894
+Antigua and Barbuda,ATG,1400,6438
+Antigua and Barbuda,ATG,1500,7035
+Antigua and Barbuda,ATG,1600,7688
+Antigua and Barbuda,ATG,1700,8404
+Antigua and Barbuda,ATG,1710,9335
+Antigua and Barbuda,ATG,1720,10369
+Antigua and Barbuda,ATG,1730,11518
+Antigua and Barbuda,ATG,1740,12794
+Antigua and Barbuda,ATG,1750,14212
+Antigua and Barbuda,ATG,1760,15787
+Antigua and Barbuda,ATG,1770,17537
+Antigua and Barbuda,ATG,1780,19480
+Antigua and Barbuda,ATG,1790,21640
+Antigua and Barbuda,ATG,1800,37000
+Antigua and Barbuda,ATG,1801,37000
+Antigua and Barbuda,ATG,1802,37000
+Antigua and Barbuda,ATG,1803,37000
+Antigua and Barbuda,ATG,1804,37000
+Antigua and Barbuda,ATG,1805,37000
+Antigua and Barbuda,ATG,1806,37000
+Antigua and Barbuda,ATG,1807,37000
+Antigua and Barbuda,ATG,1808,37000
+Antigua and Barbuda,ATG,1809,37000
+Antigua and Barbuda,ATG,1810,37000
+Antigua and Barbuda,ATG,1811,37000
+Antigua and Barbuda,ATG,1812,37000
+Antigua and Barbuda,ATG,1813,37000
+Antigua and Barbuda,ATG,1814,37000
+Antigua and Barbuda,ATG,1815,37000
+Antigua and Barbuda,ATG,1816,37000
+Antigua and Barbuda,ATG,1817,37000
+Antigua and Barbuda,ATG,1818,37000
+Antigua and Barbuda,ATG,1819,37000
+Antigua and Barbuda,ATG,1820,37000
+Antigua and Barbuda,ATG,1821,37000
+Antigua and Barbuda,ATG,1822,37000
+Antigua and Barbuda,ATG,1823,37000
+Antigua and Barbuda,ATG,1824,37000
+Antigua and Barbuda,ATG,1825,37000
+Antigua and Barbuda,ATG,1826,37000
+Antigua and Barbuda,ATG,1827,37000
+Antigua and Barbuda,ATG,1828,37000
+Antigua and Barbuda,ATG,1829,37000
+Antigua and Barbuda,ATG,1830,37000
+Antigua and Barbuda,ATG,1831,37000
+Antigua and Barbuda,ATG,1832,37000
+Antigua and Barbuda,ATG,1833,37000
+Antigua and Barbuda,ATG,1834,37000
+Antigua and Barbuda,ATG,1835,37000
+Antigua and Barbuda,ATG,1836,37000
+Antigua and Barbuda,ATG,1837,37000
+Antigua and Barbuda,ATG,1838,37000
+Antigua and Barbuda,ATG,1839,37000
+Antigua and Barbuda,ATG,1840,37000
+Antigua and Barbuda,ATG,1841,37000
+Antigua and Barbuda,ATG,1842,37000
+Antigua and Barbuda,ATG,1843,37000
+Antigua and Barbuda,ATG,1844,37000
+Antigua and Barbuda,ATG,1845,37000
+Antigua and Barbuda,ATG,1846,37000
+Antigua and Barbuda,ATG,1847,37000
+Antigua and Barbuda,ATG,1848,37000
+Antigua and Barbuda,ATG,1849,37000
+Antigua and Barbuda,ATG,1850,37000
+Antigua and Barbuda,ATG,1851,36992
+Antigua and Barbuda,ATG,1852,36985
+Antigua and Barbuda,ATG,1853,36977
+Antigua and Barbuda,ATG,1854,36970
+Antigua and Barbuda,ATG,1855,36962
+Antigua and Barbuda,ATG,1856,36955
+Antigua and Barbuda,ATG,1857,36947
+Antigua and Barbuda,ATG,1858,36940
+Antigua and Barbuda,ATG,1859,36891
+Antigua and Barbuda,ATG,1860,36802
+Antigua and Barbuda,ATG,1861,36673
+Antigua and Barbuda,ATG,1862,36503
+Antigua and Barbuda,ATG,1863,36293
+Antigua and Barbuda,ATG,1864,36085
+Antigua and Barbuda,ATG,1865,35877
+Antigua and Barbuda,ATG,1866,35671
+Antigua and Barbuda,ATG,1867,35466
+Antigua and Barbuda,ATG,1868,35263
+Antigua and Barbuda,ATG,1869,35099
+Antigua and Barbuda,ATG,1870,34974
+Antigua and Barbuda,ATG,1871,34889
+Antigua and Barbuda,ATG,1872,34843
+Antigua and Barbuda,ATG,1873,34836
+Antigua and Barbuda,ATG,1874,34829
+Antigua and Barbuda,ATG,1875,34822
+Antigua and Barbuda,ATG,1876,34815
+Antigua and Barbuda,ATG,1877,34808
+Antigua and Barbuda,ATG,1878,34801
+Antigua and Barbuda,ATG,1879,34832
+Antigua and Barbuda,ATG,1880,34903
+Antigua and Barbuda,ATG,1881,35013
+Antigua and Barbuda,ATG,1882,35162
+Antigua and Barbuda,ATG,1883,35351
+Antigua and Barbuda,ATG,1884,35540
+Antigua and Barbuda,ATG,1885,35731
+Antigua and Barbuda,ATG,1886,35923
+Antigua and Barbuda,ATG,1887,36116
+Antigua and Barbuda,ATG,1888,36309
+Antigua and Barbuda,ATG,1889,36423
+Antigua and Barbuda,ATG,1890,36455
+Antigua and Barbuda,ATG,1891,36408
+Antigua and Barbuda,ATG,1892,36280
+Antigua and Barbuda,ATG,1893,36071
+Antigua and Barbuda,ATG,1894,35864
+Antigua and Barbuda,ATG,1895,35658
+Antigua and Barbuda,ATG,1896,35453
+Antigua and Barbuda,ATG,1897,35249
+Antigua and Barbuda,ATG,1898,35047
+Antigua and Barbuda,ATG,1899,34822
+Antigua and Barbuda,ATG,1900,34575
+Antigua and Barbuda,ATG,1901,34307
+Antigua and Barbuda,ATG,1902,34017
+Antigua and Barbuda,ATG,1903,33707
+Antigua and Barbuda,ATG,1904,33399
+Antigua and Barbuda,ATG,1905,33095
+Antigua and Barbuda,ATG,1906,32793
+Antigua and Barbuda,ATG,1907,32493
+Antigua and Barbuda,ATG,1908,32197
+Antigua and Barbuda,ATG,1909,31919
+Antigua and Barbuda,ATG,1910,31659
+Antigua and Barbuda,ATG,1911,31417
+Antigua and Barbuda,ATG,1912,31193
+Antigua and Barbuda,ATG,1913,30985
+Antigua and Barbuda,ATG,1914,30780
+Antigua and Barbuda,ATG,1915,30575
+Antigua and Barbuda,ATG,1916,30373
+Antigua and Barbuda,ATG,1917,30171
+Antigua and Barbuda,ATG,1918,29977
+Antigua and Barbuda,ATG,1919,29841
+Antigua and Barbuda,ATG,1920,29765
+Antigua and Barbuda,ATG,1921,29746
+Antigua and Barbuda,ATG,1922,29786
+Antigua and Barbuda,ATG,1923,29884
+Antigua and Barbuda,ATG,1924,29982
+Antigua and Barbuda,ATG,1925,30081
+Antigua and Barbuda,ATG,1926,30179
+Antigua and Barbuda,ATG,1927,30279
+Antigua and Barbuda,ATG,1928,30378
+Antigua and Barbuda,ATG,1929,30646
+Antigua and Barbuda,ATG,1930,31089
+Antigua and Barbuda,ATG,1931,31712
+Antigua and Barbuda,ATG,1932,32522
+Antigua and Barbuda,ATG,1933,33525
+Antigua and Barbuda,ATG,1934,34559
+Antigua and Barbuda,ATG,1935,35624
+Antigua and Barbuda,ATG,1936,36723
+Antigua and Barbuda,ATG,1937,37855
+Antigua and Barbuda,ATG,1938,39022
+Antigua and Barbuda,ATG,1939,40042
+Antigua and Barbuda,ATG,1940,40909
+Antigua and Barbuda,ATG,1941,41617
+Antigua and Barbuda,ATG,1942,42158
+Antigua and Barbuda,ATG,1943,42526
+Antigua and Barbuda,ATG,1944,42897
+Antigua and Barbuda,ATG,1945,43272
+Antigua and Barbuda,ATG,1946,43650
+Antigua and Barbuda,ATG,1947,44031
+Antigua and Barbuda,ATG,1948,44416
+Antigua and Barbuda,ATG,1949,44883
+Antigua and Barbuda,ATG,1950,45462
+Antigua and Barbuda,ATG,1951,46444
+Antigua and Barbuda,ATG,1952,47416
+Antigua and Barbuda,ATG,1953,48400
+Antigua and Barbuda,ATG,1954,49392
+Antigua and Barbuda,ATG,1955,50395
+Antigua and Barbuda,ATG,1956,51400
+Antigua and Barbuda,ATG,1957,52426
+Antigua and Barbuda,ATG,1958,53473
+Antigua and Barbuda,ATG,1959,54549
+Antigua and Barbuda,ATG,1960,55621
+Antigua and Barbuda,ATG,1961,56554
+Antigua and Barbuda,ATG,1962,57351
+Antigua and Barbuda,ATG,1963,58157
+Antigua and Barbuda,ATG,1964,59035
+Antigua and Barbuda,ATG,1965,59987
+Antigua and Barbuda,ATG,1966,60911
+Antigua and Barbuda,ATG,1967,61857
+Antigua and Barbuda,ATG,1968,62832
+Antigua and Barbuda,ATG,1969,63832
+Antigua and Barbuda,ATG,1970,64549

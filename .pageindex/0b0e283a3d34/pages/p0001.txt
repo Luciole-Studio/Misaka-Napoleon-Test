@@ -1,0 +1,22 @@
+---
+source_url: "https://en.wikisource.org/wiki/Men_of_Invention_and_Industry/Chapter_VII"
+final_url: "https://en.wikisource.org/wiki/Men_of_Invention_and_Industry/Chapter_VII"
+provider: "exa"
+text_sha256: "b9c7ade996641eeeef0e440cb0b342bed0fc1ec998a9e02c6c3e8aad05e78939"
+title: "Men of Invention and Industry/Chapter VII - Wikisource, the free online library"
+content_kind: "page_text"
+---
+
+Men of Invention and Industry/Chapter VII - Wikisource, the free online library
+
+< Men of Invention and Industry
+
+"Intellect and industry are never incompatible. There is more wisdom, and will be more benefit, in combining them than scholars like to believe, or than the common world imagine. Life has time enough for both, and its happiness will be increased by the union." — SHARON TURNER.
+
+"I have beheld with most respect the man Who knew himself, and knew the ways before him, And from among them chose considerately, With a clear foresight, not a blindfold courage; And, having chosen, with a steadfast mind Pursued his purpose." HENRY TAYLOR — Philip van Artevelde.
+
+The late John Walter, who adopted Koenig's steam printing press in printing The Times, was virtually the inventor of the modern newspaper. The first John Walter, his father, learnt the art of printing in the office of Dodsley, the proprietor of the 'Annual Register.' He afterwards pursued the profession of an underwriter, but his fortunes were literally shipwrecked by the capture of a fleet of merchantmen by a French squadron. Compelled by this loss to return to his trade, he succeeded in obtaining the publication of 'Lloyd's List,' as well as the printing of the Board of Customs. He also established himself as a publisher and bookseller at No. 8, Charing Cross. But his principal achievement was in founding The Times newspaper.
+
+The Daily Universal Register was started on the 1st of January, 1785, and was described in the heading as "printed logographically." The type had still to be composed, letter by letter, each placed alongside of its predecessor by human fingers. Mr. Walter's invention consisted in using stereotyped words and parts of words instead of separate metal letters, by which a certain saving of time and labour was effected. The name of the 'Register' did not suit, there being many other publications bearing a similar title. Accordingly, it was re-named The Times, and the first number was issued from Printing House Square on the 1st of January, 1788.
+
+The Times was at first a very meagre publication. It was not much bigger than a number of the old 'Penny Magazine,' containing a single short leader on some current topic, without any pretensions to excellence; some driblets of news spread out in large type; half a column of foreign intelligence, with a column of facetious paragraphs under the heading of "The Cuckoo;" while the rest of each number consisted of advertisements. Notwithstanding the comparative innocence of the contents of the early numbers of the paper, certain passages which appeared in it on two occasions subjected the publisher to imprisonment in Newgate. The extent of the offence, on one occasion, consisted in the publication of a short paragraph intimating that their Royal Highnesses the Prince of Wales and the Duke of York had "so demeaned themselves as to incur the just disapprobation of his Majesty!" For such slight offences were printers sent to gaol in those days.

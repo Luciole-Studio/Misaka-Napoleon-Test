@@ -1,0 +1,24 @@
+
+
+A4. Ind Production 1270-1870
+B1=A4. English and GB Industrial Production 1270-1870 
+A2=Back to front page | B2=For a summary overview of the methodology and construction of this database, see:
+B3= Broadberry, Stephen, Bruce M.S. Campbell, Alexander Klein, Mark Overton and Bas van Leeuwen (2015), British Economic Growth, 1270-1870, Cambridge: Cambridge University Press
+B4=http://www.cambridge.org/gb/academic/subjects/history/economic-history/british-economic-growth-12701870?format=PB
+B5=When using this data, please cite this source.
+B6=Notes:  The data for Wool/Textiles in Table 4.02 in an earlier version of this spreadsheet have been corrected.
+B7=Table 4.02:  Output of key industries  | K7=Table 4.03: Output of key industrial sectors
+A8=Year | B8=Tin | C8=Iron | D8=Coal | E8=Wool/Textiles | F8=Leather | G8=Foodstuffs | H8=Construction | I8=Printed books | K8=Metals and Mining | L8=Textiles and Leather | M8=Other Industries | N8=Total Industry
+A9=1270 | E9=32.62135563781935 | F9=48.33314138599395 | G9=10.013850620698577 | H9=15.865096574622134 | J9=32.62135563781935 | L9=38.23812928692525 | M9=10.516234674696811 | N9=28.15184075443832
+A10=1271 | E10=30.933936689683883 | F10=47.685231038551656 | G10=9.924912804440305 | H10=15.887386973251516 | J10=30.933936689683883 | L10=36.92232210908588 | M10=10.465629739422896 | N10=27.38256137163947
+A11=1272 | E11=29.837948435972418 | F11=46.95800770430979 | G11=10.734521167908618 | H11=15.909712339615078 | J11=29.837948435972418 | L11=35.958162860402204 | M11=10.985354409412675 | N11=27.72286130070069
+A12=1273 | E12=30.612245807178486 | F12=46.92034457704222 | G12=9.563591921317077 | H12=15.932072728567936 | J12=30.612245807178486 | L12=36.44219415969016 | M12=10.248012001552294 | N12=26.856266563329793
+A13=1274 | E13=31.362163722013324 | F13=46.49050932216722 | G13=9.43581867578968 | H13=15.954468195051257 | J13=31.362163722013324 | L13=36.77036456458041 | M13=10.17278520176999 | N13=26.987480285871275
+A14=1275 | E14=31.94325493658691 | F14=46.50865515183617 | G14=12.009943456483096 | H14=15.97689879409241 | J14=31.94325493658691 | L14=37.1502096029079 | M14=11.812501910063324 | N14=29.76478897036763
+A15=1276 | E15=29.24611626871341 | F15=45.75694481083581 | G15=9.747065402214497 | H15=15.999364580805064 | J15=29.24611626871341 | L15=35.148538066380354 | M15=10.382111221086408 | N15=26.450132434624614
+A16=1277 | E16=27.557560392561616 | F16=46.855214835150655 | G16=11.14510571312851 | H16=16.02186561038937 | J16=27.557560392561616 | L16=34.456238792327746 | M16=11.275368340405402 | N16=27.27614759095143
+
+A40. Trade by region 1710-1822
+A1=Back to front page | B1=A40. Trade by regions 1710-1822 based on official values
+B2=Source: Moreau (1822) from Mitchell (1988).  England and Wales to 1754 (Imports)/1758(Exports), Great Britain thereafter.
+B3=These data are based on official values which were based on prices largely set and fixed at the end of the C17th.  So they do not accurately reflect the value of trade although this is unlikely to give a distortionary picture until the late C18th.  From 1784 the declared and computed values in the next sheet are to be preferred.

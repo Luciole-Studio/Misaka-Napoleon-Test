@@ -1,0 +1,604 @@
+          "capacity": {
+            "line_hulls": 122.550716
+          },
+          "total": 122.550716
+        },
+        {
+          "year": 10,
+          "capacity": {
+            "line_hulls": 127.148688
+          },
+          "total": 127.148688
+        },
+        {
+          "year": 11,
+          "capacity": {
+            "line_hulls": 129.56274
+          },
+          "total": 129.56274
+        },
+        {
+          "year": 12,
+          "capacity": {
+            "line_hulls": 131.88023
+          },
+          "total": 131.88023
+        },
+        {
+          "year": 13,
+          "capacity": {
+            "line_hulls": 134.105021
+          },
+          "total": 134.105021
+        },
+        {
+          "year": 14,
+          "capacity": {
+            "line_hulls": 136.24082
+          },
+          "total": 136.24082
+        },
+        {
+          "year": 15,
+          "capacity": {
+            "line_hulls": 138.291188
+          },
+          "total": 138.291188
+        },
+        {
+          "year": 16,
+          "capacity": {
+            "line_hulls": 140.25954
+          },
+          "total": 140.25954
+        },
+        {
+          "year": 17,
+          "capacity": {
+            "line_hulls": 142.149158
+          },
+          "total": 142.149158
+        },
+        {
+          "year": 18,
+          "capacity": {
+            "line_hulls": 143.963192
+          },
+          "total": 143.963192
+        },
+        {
+          "year": 19,
+          "capacity": {
+            "line_hulls": 145.704664
+          },
+          "total": 145.704664
+        },
+        {
+          "year": 20,
+          "capacity": {
+            "line_hulls": 147.376478
+          },
+          "total": 147.376478
+        },
+        {
+          "year": 21,
+          "capacity": {
+            "line_hulls": 148.981419
+          },
+          "total": 148.981419
+        },
+        {
+          "year": 22,
+          "capacity": {
+            "line_hulls": 150.522162
+          },
+          "total": 150.522162
+        },
+        {
+          "year": 23,
+          "capacity": {
+            "line_hulls": 152.001276
+          },
+          "total": 152.001276
+        },
+        {
+          "year": 24,
+          "capacity": {
+            "line_hulls": 153.421225
+          },
+          "total": 153.421225
+        },
+        {
+          "year": 25,
+          "capacity": {
+            "line_hulls": 154.784376
+          },
+          "total": 154.784376
+        }
+      ],
+      "net_flows": [
+        {
+          "year": 1,
+          "commissioning": 12.0,
+          "retirement": 1.25,
+          "net_change": 10.75
+        },
+        {
+          "year": 2,
+          "commissioning": 12.0,
+          "retirement": 1.41125,
+          "net_change": 10.58875
+        },
+        {
+          "year": 3,
+          "commissioning": 12.0,
+          "retirement": 1.570081,
+          "net_change": 10.429919
+        },
+        {
+          "year": 4,
+          "commissioning": 12.0,
+          "retirement": 1.72653,
+          "net_change": 10.27347
+        },
+        {
+          "year": 5,
+          "commissioning": 12.0,
+          "retirement": 1.880632,
+          "net_change": 10.119368
+        },
+        {
+          "year": 6,
+          "commissioning": 10.0,
+          "retirement": 4.58646,
+          "net_change": 5.41354
+        },
+        {
+          "year": 7,
+          "commissioning": 10.0,
+          "retirement": 4.803002,
+          "net_change": 5.196998
+        },
+        {
+          "year": 8,
+          "commissioning": 10.0,
+          "retirement": 5.010882,
+          "net_change": 4.989118
+        },
+        {
+          "year": 9,
+          "commissioning": 10.0,
+          "retirement": 5.210447,
+          "net_change": 4.789553
+        },
+        {
+          "year": 10,
+          "commissioning": 10.0,
+          "retirement": 5.402029,
+          "net_change": 4.597971
+        },
+        {
+          "year": 11,
+          "commissioning": 8.0,
+          "retirement": 5.585948,
+          "net_change": 2.414052
+        },
+        {
+          "year": 12,
+          "commissioning": 8.0,
+          "retirement": 5.68251,
+          "net_change": 2.31749
+        },
+        {
+          "year": 13,
+          "commissioning": 8.0,
+          "retirement": 5.775209,
+          "net_change": 2.224791
+        },
+        {
+          "year": 14,
+          "commissioning": 8.0,
+          "retirement": 5.864201,
+          "net_change": 2.135799
+        },
+        {
+          "year": 15,
+          "commissioning": 8.0,
+          "retirement": 5.949633,
+          "net_change": 2.050367
+        },
+        {
+          "year": 16,
+          "commissioning": 8.0,
+          "retirement": 6.031648,
+          "net_change": 1.968352
+        },
+        {
+          "year": 17,
+          "commissioning": 8.0,
+          "retirement": 6.110382,
+          "net_change": 1.889618
+        },
+        {
+          "year": 18,
+          "commissioning": 8.0,
+          "retirement": 6.185966,
+          "net_change": 1.814034
+        },
+        {
+          "year": 19,
+          "commissioning": 8.0,
+          "retirement": 6.258528,
+          "net_change": 1.741472
+        },
+        {
+          "year": 20,
+          "commissioning": 8.0,
+          "retirement": 6.328187,
+          "net_change": 1.671813
+        },
+        {
+          "year": 21,
+          "commissioning": 8.0,
+          "retirement": 6.395059,
+          "net_change": 1.604941
+        },
+        {
+          "year": 22,
+          "commissioning": 8.0,
+          "retirement": 6.459257,
+          "net_change": 1.540743
+        },
+        {
+          "year": 23,
+          "commissioning": 8.0,
+          "retirement": 6.520886,
+          "net_change": 1.479114
+        },
+        {
+          "year": 24,
+          "commissioning": 8.0,
+          "retirement": 6.580051,
+          "net_change": 1.419949
+        },
+        {
+          "year": 25,
+          "commissioning": 8.0,
+          "retirement": 6.636849,
+          "net_change": 1.363151
+        }
+      ],
+      "total_commissioned": 230.0,
+      "total_retired": 125.215624,
+      "capacity_final": {
+        "line_hulls": 154.784376
+      },
+      "negative_capacity_flags": [],
+      "feasible": true,
+      "interpretation": "产能存量流量恒等式 K_{t+1}=K_t+投产−退役, 分部门逐年推演。这是 Gosplan 产能平衡表的 ввод/выбытие 台账。某年产能变负=退役超过存量, 是不可能计划而非有效平衡 (negative_capacity_flags 标出)。产出计划必须逐年对齐这条轨迹, 否则纸上计划。"
+    },
+    "max_abs_replay_residual": 0.0
+  },
+  {
+    "scenario": "P",
+    "bound": "low",
+    "input": {
+      "K0": [
+        50
+      ],
+      "commissioning": [
+        [
+          8
+        ],
+        [
+          8
+        ],
+        [
+          8
+        ],
+        [
+          8
+        ],
+        [
+          8
+        ],
+        [
+          8
+        ],
+        [
+          8
+        ],
+        [
+          8
+        ],
+        [
+          8
+        ],
+        [
+          8
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ]
+      ],
+      "retirement": [
+        [
+          3.25
+        ],
+        [
+          3.4162500000000002
+        ],
+        [
+          3.5766812500000005
+        ],
+        [
+          3.7314974062500004
+        ],
+        [
+          3.8808949970312505
+        ],
+        [
+          3.446510435602344
+        ],
+        [
+          3.6514174660002383
+        ],
+        [
+          3.8471036800302274
+        ],
+        [
+          4.033984014428867
+        ],
+        [
+          4.212454733779568
+        ],
+        [
+          4.382894270759488
+        ],
+        [
+          4.455664028575311
+        ],
+        [
+          4.525159147289421
+        ],
+        [
+          4.591526985661397
+        ],
+        [
+          4.654908271306634
+        ],
+        [
+          4.715437399097835
+        ],
+        [
+          4.773242716138433
+        ],
+        [
+          4.828446793912202
+        ],
+        [
+          4.881166688186154
+        ],
+        [
+          4.931514187217776
+        ],
+        [
+          4.979596048792976
+        ],
+        [
+          5.025514226597291
+        ],
+        [
+          5.0693660864004135
+        ],
+        [
+          5.111244612512395
+        ],
+        [
+          5.151238604949337
+        ]
+      ],
+      "sectors": [
+        "line_hulls"
+      ]
+    },
+    "backend_output": {
+      "ok": true,
+      "command": "stock-flow",
+      "n_sectors": 1,
+      "n_years": 25,
+      "trajectory": [
+        {
+          "year": 0,
+          "capacity": {
+            "line_hulls": 50.0
+          },
+          "total": 50.0
+        },
+        {
+          "year": 1,
+          "capacity": {
+            "line_hulls": 54.75
+          },
+          "total": 54.75
+        },
+        {
+          "year": 2,
+          "capacity": {
+            "line_hulls": 59.33375
+          },
+          "total": 59.33375
+        },
+        {
+          "year": 3,
+          "capacity": {
+            "line_hulls": 63.757069
+          },
+          "total": 63.757069
+        },
+        {
+          "year": 4,
+          "capacity": {
+            "line_hulls": 68.025571
+          },
+          "total": 68.025571
+        },
+        {
+          "year": 5,
+          "capacity": {
+            "line_hulls": 72.144676
+          },
+          "total": 72.144676
+        },
+        {
+          "year": 6,
+          "capacity": {
+            "line_hulls": 76.698166
+          },
+          "total": 76.698166
+        },
+        {
+          "year": 7,
+          "capacity": {
+            "line_hulls": 81.046748
+          },
+          "total": 81.046748
+        },
+        {
+          "year": 8,
+          "capacity": {
+            "line_hulls": 85.199645
+          },
+          "total": 85.199645
+        },
+        {
+          "year": 9,
+          "capacity": {
+            "line_hulls": 89.165661
+          },
+          "total": 89.165661
+        },
+        {
+          "year": 10,
+          "capacity": {
+            "line_hulls": 92.953206
+          },
+          "total": 92.953206
+        },
+        {
+          "year": 11,
+          "capacity": {
+            "line_hulls": 94.570312
+          },
+          "total": 94.570312
+        },
+        {
+          "year": 12,
+          "capacity": {
+            "line_hulls": 96.114648
+          },
+          "total": 96.114648
+        },
+        {
+          "year": 13,
+          "capacity": {
+            "line_hulls": 97.589489
+          },
+          "total": 97.589489
+        },
+        {
+          "year": 14,
+          "capacity": {
+            "line_hulls": 98.997962
+          },
+          "total": 98.997962
+        },
+        {
+          "year": 15,
+          "capacity": {
+            "line_hulls": 100.343053
+          },
+          "total": 100.343053
+        },
+        {
+          "year": 16,
+          "capacity": {
+            "line_hulls": 101.627616
+          },
+          "total": 101.627616
+        },
+        {
+          "year": 17,
+          "capacity": {
+            "line_hulls": 102.854373
+          },
+          "total": 102.854373
+        },
+        {
+          "year": 18,
+          "capacity": {
+            "line_hulls": 104.025926
+          },
+          "total": 104.025926
+        },
+        {
+          "year": 19,
+          "capacity": {
+            "line_hulls": 105.14476
+          },
+          "total": 105.14476
+        },
+        {
+          "year": 20,
+          "capacity": {
+            "line_hulls": 106.213246
+          },
+          "total": 106.213246
+        },
+        {
+          "year": 21,
+          "capacity": {
+            "line_hulls": 107.233649
+          },

@@ -1,0 +1,27 @@
+
+
+[4] 10038/P5《法国胜利后的大陆经济》§0–§3及`P5_growth.csv`，`nodes/r_5b1357a9c6/cards/t_ec2248/`；P5依据Ellis 1981附录I/G与Chaptal 1819印pp.203–204。P5提交后`notes_postsubmission_declarations.md`声明1、2核对Ellis附录G上/下行与附录I同源部务表，确认分母用1806年465m、1810年377m，另1813年354m、1817年464m；目的地分解覆盖率分别100.0%、99.8%、99.9%、69.5%。**此为Ellis转录的同一组数据互核，并非三个独立史料源**；原A.N. F12 251及Heils 1958仍未亲阅，两套编制差具体成因未定。P8未拿出口份额直接拟合概率。P5与P6引同卡不独立。
+
+[5] P6东进D节经PS/EG/OT/IN1/IN2单位卡，具体事件区间见`P6_miracles.csv`。
+
+[6] Michael Broers, *Europe Under Napoleon* (2014 ed.), 第一章“Conquest, 1799–1807”在Perlego开放预览，实际网页捕获`downloads/pages/744b4a53336f.md`，https://www.perlego.com/book/919640/europe-under-napoleon-pdf 。仅阅读预览，非亲读全书。
+
+[7] Charles Esdaile, “War and Politics in Spain, 1808–1814,” *The Historical Journal* 31(2)(1988):295–317，DOI:10.1017/S0018246X00012899，网页开放**Extract**，`downloads/pages/cdb0562e50e9.md`，https://www.cambridge.org/core/journals/historical-journal/article/abs/war-and-politics-in-spain-18081814/C836CD5E04C632567CE587B18828597B 。未获得整篇正文。
+
+[8] X2《大陆体系执行机器》§16.3四制度形态概率带，`nodes/r_5b1357a9c6/cards/t_6f3beb/X2_continental_system_machine.md`，基于Ellis/Heckscher/Rowe等，X2自身注明地方海关档案不足。
+
+[9] SP1《西班牙宫廷国家》§0与§18，`nodes/r_5b1357a9c6/cards/t_3282da/SP1_spain_state.md`，直接引La Parra法西语档文书的摘录链及Esdaile，具体联姻变筹码的时点读上游正文；本卡没有另读原藏档。
+
+[10] IT1《意大利王国》与IT2《那不勒斯—西西里》，数值经P6 §6.3移交，属上游同源；相关中南A层负收益见P2。
+
+[11] A、PR、G2卡经P6 §4/§6.3转引普军和奥军区间；P8“.70–.90”是本卡对条件存续世界的**显式分析师概率**，不是三卡出具的总体概率。
+
+[12] SA《南美洲》§⑯ 1848地图表`nodes/r_5b1357a9c6/cards/t_f314c4/SA_south_america.md`；南美数字及“新西班牙”文字有内部外延冲突。[13] MX《新西班牙与古巴》§0、§372、§466–475，`nodes/r_5b1357a9c6/cards/t_9bd988/MX_new_spain_cuba.md`。两卡可能交叉引同一复国和贸易材料，不当独立互证。
+
+[14] IN1《东印度公司》§⑬ B8与§⑯，`nodes/r_5b1357a9c6/cards/t_0bb54c/IN1_east_india_company.md`，1763条约第XI条与1803拒交据点引其读本；[15] IN2《印度诸邦与法属印度洋》§⑭、§⑯，`nodes/r_5b1357a9c6/cards/t_05cc22/IN2_indian_states_french_indian_ocean.md`。法国夺孟加拉0–1%为P8压力容差非上游实证值。
+
+[16] Robert Jervis，〈Bringing Moderation, Morality, and Progress Back In〉，H-Diplo/ISSF论坛28（2021），其对Paul W. Schroeder的**转述**，https://issforum.org/forums/28 ，捕获`downloads/pages/0ca37004256f.md`。[17] R1/R3俄国源卡对Dominic Lieven *Russia Against Napoleon*（2009）的读取与口径，项目`nodes/r_5b1357a9c6/cards/t_91cbee/`、`t_2c3192/`；此处是从项目源卡继承，不是假装本卡亲核全书。[18] Patrick K. O’Brien，*The Contributions of Warfare with Revolutionary and Napoleonic France...*, LSE Economic History WP150/11，已阅读开放PDF p.3与pp.13–17，`downloads/P8_OBrien_napoleonic_warfare_industrial_revolution.pdf`，doc `20dbac7c2500`；稿面写未经许可不引用，故不作本报告承重引文。[19] Richard J. Evans, *Altered Pasts* 2014出版方简介（**非全书**），https://brandeisuniversitypress.com/title/altered-pasts-counterfactuals-in-history/ ，捕获`downloads/pages/b1812133dadc.md`。
+
+**语种与独立性声明**：本卡直接读到的新增史学全文/开放摘录主要是英语；SP1卡自读的西语La Parra、P5卡法语Chaptal及法英资料是**有路径可追溯的上游继承**，但P8没有独立亲核第二种非英语原典，不能声称本卡达到“两种非英语来源亲读”。Crouzet法语原书未得，学派数值随此缺口降权；各上游卡多次转用同一文书不构成重复样本。
+
+**复算命令**：在项目根运行`python3 nodes/r_5b1357a9c6/cards/t_8a7b54/p8_tree.py`。它会核对P6 CSV输入、给出七维全角点与结算恒等式。另由**不调用P8函数**的独立算术核查：`C_low=.15×.40×.40×.35×.45=.00378`；`C_high=.30×.60×[(1−.70)×.60×.50×.60+.70×.50]=.07272`；`O_high=.07272×(.35+.50×.522)=.04443192`，与输出一致。**未做**历史频率验证、年份间动态校准、任何史料可据以给出学派数字的拟合；P2财政与P4船坞联立留负关联待后续重开。

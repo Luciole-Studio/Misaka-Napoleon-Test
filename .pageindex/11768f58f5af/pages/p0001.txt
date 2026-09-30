@@ -1,0 +1,24 @@
+---
+source_url: "https://fr.wikisource.org/wiki/La_Dette_publique_de_la_France,_l%27origine_et_le_d%C3%A9veloppement_de_la_dette,_les_moyens_de_l%27att%C3%A9nuer"
+final_url: "https://fr.wikisource.org/wiki/La_Dette_publique_de_la_France,_l%27origine_et_le_d%C3%A9veloppement_de_la_dette,_les_moyens_de_l%27att%C3%A9nuer"
+provider: "exa"
+text_sha256: "2003dd8dcf88606d08882f5694f1c5f3e35e8ced455cbe7d1e1fc45df9756196"
+title: "La Dette publique de la France - Wikisource"
+content_kind: "page_text"
+---
+
+La Dette publique de la France - Wikisource
+
+# La Dette publique de la France
+
+(Redirigé depuis La Dette publique de la France, l'origine et le développement de la dette, les moyens de l'atténuer)
+
+Paul Leroy-Beaulieu
+
+La Dette publique de la France
+
+journal 3 e période La Dette publique de la France Paul Leroy-Beaulieu Bureau de la Revue des Deux Mondes 1874 Paris C tome 6 Revue des Deux Mondes - 1874 - tome 6.djvu Revue des Deux Mondes - 1874 - tome 6.djvu/9 815-849 
+
+ LES ORIGINES, LE DEVELOPPEMENT DE LA DETTE ET LES MOYENS DE L'ATTENUER
+
+Il y a peu d’études qui offrent un intérêt aussi saisissant que l’étude des dettes publiques des nations civilisées. Le phénomène des dettes nationales n’est sans doute pas nouveau, mais il a pris depuis cinquante ans un développement si prodigieux que l’esprit en est étonné et presque effrayé. Un économiste anglais de renom, M. R. Dudley-Baxter, qui a consacré à cet important sujet de laborieuses recherches, décrivait récemment la progression des engagemens des états, progress of indebtedness [1]. Dans tous les temps, il s’est trouvé que les peuples ou les souverains ont parfois anticipé sur les revenus futurs par des emprunts temporaires. Ce sont les républiques italiennes qui ont les premières réduit cette pratique en système et remplacé les emprunts occultes et à terme par des emprunts publics et perpétuels. La France et l’Espagne, qui se disputèrent si longtemps l’Italie, suivirent cet exemple. Les Hollandais à leur tour, d’abord sujets, puis ennemis des Espagnols, l’imitèrent. Après la révolution de 1688, l’Angleterre prit aussi cette coutume continentale. Tous les peuples de l’Europe se laissèrent gagner l’un après l’autre par cette contagion : les États-Unis et à leur suite toutes les républiques de l’Amérique du Sud recoururent pour leur affranchissement ou pour les travaux publics à cette facile ressource. Les pays musulmans, y compris Tunis et le Maroc, entrèrent avec ardeur dans la même voie. Aujourd’hui l’extrême Orientale, le Japon en tête, toutes les colonies anglaises depuis le Canada jusqu’aux diverses provinces australiennes, semblent croire qu’une dette publique est une partie essentielle d’une organisation administrative vraiment moderne. M. Dudley-Baxter, passant mélancoliquement en revue tous les pays réputés civilisés, n’en découvrait que trois qui n’eussent pas de dettes nationales, la Servie en Europe, la Bolivie en Amérique et la république de Libéria en Afrique : c’était faire assurément grand honneur au petit état de noirs émancipés que de le comprendre dans cette énumération ; mais, de ces trois exceptions que signalait l’économiste anglais, il y en a déjà une, la Bolivie, qui a disparu. 

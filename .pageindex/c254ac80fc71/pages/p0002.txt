@@ -1,0 +1,28 @@
+
+
+## D. 转引层级（未亲核原页，须标注使用）
+
+- **Kukiel, *Wojna 1812 roku*, t.I s.162（108k）、pp.389–395（立陶宛17k编制/50k潜力）**——经napoleon.org.pl/forum/viewtopic.php?f=19&t=172讨论帖转引；同帖含部长会议1812-11-17报告74,722、Bielecki/Zych/Kołaczkowski各口径。
+- Gembarzewski, *Wojsko polskie: Księstwo Warszawskie 1807–1814*（1905）——书目定位dbc.wroc.pl/dlibra/publication/10484，未亲读；Gaidis"20k立陶宛过员"经同帖转引。
+- Kieniewicz、Eile、Kowalczyk、Sobociński、Senkowska-Gluck、Grynwaser、Handelsman《Projekt zmiany konstytucji》《Rezydenci》、Żółtowski 1890–92——均经上列亲读文献引用进入，标【转引】。
+- 维基百科（pl.wikipedia Księstwo Warszawskie / Armia Księstwa Warszawskiego）与nauka.pap.pl、polska-zbrojna.pl——仅用于通说口径（100k、V军35–37k、生还24k），不承重独立结论。
+
+## E. 上一轮（r_b55f2c1cf5）复用资产
+
+- `nodes/r_b55f2c1cf5/cards/t_d604cd/c18_eastern_frontier.md`（已验收）：Grab公国章口径（军额30k→60k→100k+；累积200k；军费2/3；封赏2,000万fr；1809战役）；巴约讷双解（Grab地产说vs波兰历史博物馆债权说47,366,220——本轮P2/E1裁定债权-票据结构为主线，Grab异文保留）；1811改革委员会（1810-06-20任命/1811-01-19报告；农民产权；引文"ta część gruntów…stała się ich własnością"）；Zamoyski–Łubieński 1812宪制之争；1812宣言与维尔纽斯答复（"j'ai garanti à l'empereur d'Autriche…"）；1810-01-04公约草案；Nawrot立陶宛冻结口径（400万兹罗提初装/10,789,338概算/50万fr贷款8-24批9-13拨/12-01约12,500/广义逾20,000嵌套）。
+- `nodes/r_b55f2c1cf5/cards/t_26cd47/polish_evidence.md`：总联盟宣言转引链（Madziar注26→Kallas p.149）；1812-12-20拒绝农奴解放自述定位。
+- 原始缓存：`downloads/pages/2ad693d5ac13.md`（Grab）、`downloads/pages/719fb33fecec.md`（博物馆）、`downloads/pages/ce13bc8c21a9.md`（Madziar）、`downloads/pages/4ba9714f9fde.md`（Œuvres t.V）、`downloads/pages/9af33326aacf.md`（Nawrot）、`downloads/pages/35dcb892b38d.md`/`cd494198d45d.md`（Vandal t.II/III）。
+
+## F. 已知在而未取得（缺口声明）
+
+| 缺失材料 | 会裁定什么 |
+|---|---|
+| Żółtowski, *Die Finanzen des Herzogtums Warschau* 1890–92原卷；AGAD公国财政档 | 逐年决算系列→军费占比两口径（2/3 vs 90%）裁定；法国现金流精确账（falsifier终审） |
+| Kukiel *Wojna 1812* 原卷 | 108k口径的构成明细与去重方法 |
+| Grochulska *Handel zagraniczny Księstwa Warszawskiego* 1967 | 贸易量与财政的年度联动 |
+| Gembarzewski名册 | 1812兵力去重与团级实力 |
+| Handelsman *Instrukcje i depesze rezydentów* t.1–2原卷 | 法国驻华沙监督的逐年强度（S5兵营版细化） |
+| Dundulis, *Napoléon et la Lituanie en 1812*（1940） | 立陶宛章独立法语系统核验（现仅Nawrot波兰语系统+转引） |
+| 1812部长会议11-17报告原件 | 74,722的分类构成 |
+
+POLONA本轮检索未产出上列之外的独立文书，未列已用来源。

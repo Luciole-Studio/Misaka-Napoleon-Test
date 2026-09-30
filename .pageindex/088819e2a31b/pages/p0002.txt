@@ -1,0 +1,51 @@
+
+
+## main::sustained_lo
+- 基率 0.143；常数基准准确率 0.857
+- 留一行：覆盖 0.457，判定集准确率 1.0，全样本正确率 0.457
+- 留一地区簇：覆盖 0.314，判定集准确率 1.0，全样本正确率 0.314
+- 指定反证（留一簇）：未通过
+  - ES1808: {'coded_truth': 1, 'pred': None, 'train_n': 8, 'train_consistency': 0.375, 'decided': False, 'passed': False}
+  - TY1809: {'coded_truth': 1, 'pred': None, 'train_n': 9, 'train_consistency': 0.333, 'decided': False, 'passed': False}
+  - RH1802: {'coded_truth': 0, 'pred': 0, 'train_n': 5, 'train_consistency': 0.0, 'decided': True, 'passed': True}
+  - BE1802: {'coded_truth': 0, 'pred': 0, 'train_n': 3, 'train_consistency': 0.0, 'decided': True, 'passed': True}
+  - BE1798: {'coded_truth': 0, 'pred': None, 'train_n': 0, 'train_consistency': None, 'decided': False, 'passed': False}
+  - _guard_BE1798_mass_coded_1: True
+- 观测配置表 (T,R,E,O)：
+  - 0001 n=1 正例=0 一致性=0.0 thin :: HH1813
+  - 0010 n=4 正例=0 一致性=0.0 negative :: BE1802, NL1811, HH1806, PL1807
+  - 0011 n=3 正例=0 一致性=0.0 negative :: NL1799, NL1809, NL1813
+  - 0100 n=1 正例=0 一致性=0.0 thin :: BE1798
+  - 0101 n=1 正例=0 一致性=0.0 thin :: PV1796
+  - 0111 n=2 正例=1 一致性=0.5 contradictory :: VE1809, EM1809
+  - 1001 n=1 正例=0 一致性=0.0 thin :: PA1806
+  - 1010 n=6 正例=0 一致性=0.0 negative :: RH1802, PI1809, LI1805, TU1808, ZH1804, CH1805
+  - 1011 n=3 正例=0 一致性=0.0 negative :: WE1809, BG1813, BA1813
+  - 1100 n=2 正例=0 一致性=0.0 negative :: CH1798, IL1810
+  - 1101 n=10 正例=4 一致性=0.4 contradictory :: RH1796, PI1798, TU1799, NA1799, CA1806, TY1809, CH1802, ES1808, PT1807, IL1813
+  - 1110 n=1 正例=0 一致性=0.0 thin :: RM1809
+
+## main::sustained_hi
+- 基率 0.429；常数基准准确率 0.571
+- 留一行：覆盖 0.686，判定集准确率 0.917，全样本正确率 0.629
+- 留一地区簇：覆盖 0.6，判定集准确率 0.952，全样本正确率 0.571
+- 指定反证（留一簇）：未通过
+  - ES1808: {'coded_truth': 1, 'pred': 1, 'train_n': 8, 'train_consistency': 0.875, 'decided': True, 'passed': True}
+  - TY1809: {'coded_truth': 1, 'pred': 1, 'train_n': 9, 'train_consistency': 0.889, 'decided': True, 'passed': True}
+  - RH1802: {'coded_truth': 0, 'pred': 0, 'train_n': 5, 'train_consistency': 0.0, 'decided': True, 'passed': True}
+  - BE1802: {'coded_truth': 0, 'pred': 0, 'train_n': 3, 'train_consistency': 0.0, 'decided': True, 'passed': True}
+  - BE1798: {'coded_truth': 0, 'pred': None, 'train_n': 0, 'train_consistency': None, 'decided': False, 'passed': False}
+  - _guard_BE1798_mass_coded_1: True
+- 观测配置表 (T,R,E,O)：
+  - 0001 n=1 正例=1 一致性=1.0 thin :: HH1813
+  - 0010 n=4 正例=0 一致性=0.0 negative :: BE1802, NL1811, HH1806, PL1807
+  - 0011 n=3 正例=1 一致性=0.333 contradictory :: NL1799, NL1809, NL1813
+  - 0100 n=1 正例=0 一致性=0.0 thin :: BE1798
+  - 0101 n=1 正例=0 一致性=0.0 thin :: PV1796
+  - 0111 n=2 正例=2 一致性=1.0 positive :: VE1809, EM1809
+  - 1001 n=1 正例=0 一致性=0.0 thin :: PA1806
+  - 1010 n=6 正例=0 一致性=0.0 negative :: RH1802, PI1809, LI1805, TU1808, ZH1804, CH1805
+  - 1011 n=3 正例=0 一致性=0.0 negative :: WE1809, BG1813, BA1813
+  - 1100 n=2 正例=1 一致性=0.5 contradictory :: CH1798, IL1810
+  - 1101 n=10 正例=9 一致性=0.9 positive :: RH1796, PI1798, TU1799, NA1799, CA1806, TY1809, CH1802, ES1808, PT1807, IL1813
+  - 1110 n=1 正例=1 一致性=1.0 thin :: RM1809

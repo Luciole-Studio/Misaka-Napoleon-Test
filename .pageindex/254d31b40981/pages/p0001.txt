@@ -1,0 +1,31 @@
+---
+source_url: "http://colloque-algerie.ens-lyon.fr/communication.php3?id_article=236"
+final_url: "http://colloque-algerie.ens-lyon.fr/communication.php3"
+provider: "exa"
+text_sha256: "671086b775e5c63e350b193c58b5bd475a268dc6d118c67e57c9919072715a40"
+title: "ENS LSH - Colloque - Pour une histoire critique et citoyenne, le cas de l\u2019histoire franco-alg\u00e9rienne"
+content_kind: "page_text"
+---
+
+ENS LSH - Colloque - Pour une histoire critique et citoyenne, le cas de l’histoire franco-algérienne
+
+20, 21, 22 juin 2006
+
+Université Paris Sorbonne-Paris IV
+
+### Constantes militaires dans l’Algérie coloniale
+
+ Session thématique « Administrer, encadrer, réprimer » 
+
+ Mardi 20 juin 2006 - Matin - 9h45-11h45 - Salle F 08 
+
+- Vidéo en ligne
+- Résumé
+
+L’armée française est à l’origine de l’Algérie coloniale, dont les trente premières années pourraient se résumer à celles de la conquête. Elle est tout aussi présente lors de la disparition de celle-ci au profit d’une Algérie indépendante. Cela suffit pour tenter de saisir, sur un peu plus d’un siècle, le modèle de domination qu’elle construit et les méthodes à partir desquelles elle impose ou tente d’imposer la « paix française ». Ce faisant, on n’échappera pas aux schémas et aux simplifications, mais on espère contribuer à faire mieux comprendre la place de l’armée dans l’histoire de ce qu’il est convenu d’appeler l’« Algérie française »[1].
+
+La conquête
+
+Il est à peine besoin de souligner que l’Algérie des années 1830-1870 se trouve dans les conditions qui définissent les guerres coloniales. La guerre qui s’y mène ne correspond pas au schéma de la guerre moderne qui consiste à « chercher les armées ennemies, centre de la puissance adverse, les battre et les détruire, prendre pour cela la direction et la tactique qui y conduisent le plus sûrement »[2]. L’armée doit avant tout assurer la domination française non contre d’autres armées, mais contre un milieu à la fois physique et humain de refus : celui d’une nature et d’une société qui se hérissent d’obstacles multiples et quotidiens, sans cesse renouvelés. Climat, langue, mœurs, religion, dressent autant de barrières à la conquête, facilitent ou alimentent résistances et insurrections.
+
+Une conquête militaire était-elle indispensable ? Sans vouloir récrire l’histoire, on peut se demander ce qui se serait passé si le choix des dirigeants français, débattu dès 1827, s’était porté sur une attaque directe sur Alger, menée essentiellement par la Marine, appuyée par un corps de débarquement formé de détachements des équipages de la Flotte et de soldats des Troupes de marine. Probablement, en cas de succès, le souci traditionnel et naturel des amiraux de ne pas hasarder leurs forces au-delà de la portée des canons de leurs vaisseaux, et la faiblesse des unités à terre auraient-ils dicté une politique timide. Le pouvoir d’Abd el-Kader dans l’ouest, et celui du bey Ahmed dans l’est, auraient eu le temps de s’affermir. L’implication assez probable de la France sur la rive sud de la Méditerranée aurait sans doute pris, par la suite, l’aspect d’un ou plusieurs protectorats, à l’instar de ce qui eut lieu plus tard en Tunisie et au Maroc.

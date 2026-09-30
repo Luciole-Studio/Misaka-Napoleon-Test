@@ -1,0 +1,47 @@
+u P. E, TETLOCK AND A. BELKIN
+
+that deviate dramatically from the perceptual anchor of the actual world with
+which they are already so familiar (making it difficult to appreciate the arbi-
+trariness of the status quo); the availability heuristic could lead people to be
+too quick to embrace vivid, easily imaginable scenarios that link all the
+component events into a compelling story (even though the compound prob-
+ability of all the narrative’s components taken together is vanishingly small);
+the representativeness heuristic could lead people to be too slow to concede
+plausibility to counterfactuals that posit dramatic nonlinearities in cause-ef-
+fect relations (making it difficult to appreciate that small causes can some
+times produce big effects and vice versa).
+
+Perhaps the most lethal threat to the validity of counterfactual thought
+experiments comes, however, from theory-driven thinking. We have already
+noted that counterfactual reasoning will inevitably be theory-driven to some
+degree. Indeed, we treated “consistency with well-established theory” as a
+defining feature of sound counterfactual reasoning. But the cognitive per-
+spective leads us to be suspicious of people's capacity to apply standards of
+evidence and proof in an evenhanded fashion (Nisbett and Ross 1980; Fiske
+and Taylor 1991). People often succumb to the temptation of applying strong
+{ests to dissonant arguments and weak tests to consonant ones—a temptation
+that may be especially pronounced when the arguments invoke possible
+worlds that no one can ever enter and that can never be decisively discon-
+firmed. The perceived plausibility of a counterfactual hinges on how hard
+‘one looks for shortcomings. Few counterfactual arguments will not have
+points of vulnerability when we subject their antecedents and connecting
+principles to close scrutiny. As a result, we are much more likely to recog-
+nize the collapse of cotenability in our opponents arguments than in our
+‘own—a recurring theme in several chapters.
+
+‘The cognitive perspective also leads us to be suspicious of people’s capac-
+ity to transcend (avoid contamination by) outcome knowledge. As theory-
+driven thinkers, people automatically try to assimilate “what happened” to
+some prior knowledge structure or schema that specifies cause-effect rela-
+tionships for events of that type (Fischhoff 1975; Hawkins and Hastie 1990).
+‘The result is a deep, and arguably unjustifiable, asymmetry between back-
+ward and forward reasoning in time. On average, political experts see fewer
+possible pasts than they do possible futures (Tetlock 1994). When they look
+backward in time, they mobilize their finite mental resources to explain the
+fone outcome of the many possible outcomes that actually occurred, selec-
+tively recruiting the most plausible (theory-consistent) antecedents that will
+allow them to tell a good causal story for that outcome (Commentary 3,
+Dawes; Chapter 12, Weber). By contrast, when experts look forward into
+the future, they are typically unsure of what will happen. In part for contin-
+gency planning and in part to avoid the embarrassment of making blatantly
+wrong forecasts, experts often survey in a reasonably open-minded way the

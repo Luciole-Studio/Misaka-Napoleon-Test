@@ -1,0 +1,66 @@
+regions Rhineland, which kept the Code Civil, and Westphalia, which did not. One would expect a
+
+positive association between the Napoleonic institutions on the number of associations created.
+
+
+
+                                                4.1      Historical Data
+
+The detailed historical data sources and the variables constructed out of them are listed in the following.
+
+
+
+Trade Occupation, Income, Religion, Education, Population in 19th century Prussia The first set of
+
+data covers employment shares and controls to be used on the county level in 19th century Prussia.
+
+Starting in 1816, the Royal Prussian Statistical Office collected throughout the 19th century data on
+
+population, education, religious denomination, occupation, and tax income. Several different waves of
+
+the Prussian Statistics are used and combined. For measuring the development of the trade sector in 19th
+
+century, I use the data on occupation gathered in 1849. The data lists the number of people working
+
+in trade related jobs, such as wholesaler, mercer, spice-trader, or broker, and other occupations, such
+
+as civil servants or servants “for the convenience of the lordship”. My measure of trade occupations,
+
+Trade, divides the total number of people working in trade related jobs by the county’s population. I
+
+also use the per capita share of individuals employed in factories, except mills, in 1849 as a measure
+
+of industrialization, following Becker, Hornung, and Woessmann (2011b). I label this variable Factory.
+
+Furthermore, the variable Craft gives per capita share of employment in craft, and encompasses jobs as
+
+baker, tailor or music instrument maker. TrFaCr combines the previous three variables. Counterfactuals,
+
+on which no effects are expected, are the number of people working as civil servants as a share of the
+
+population, and the number of male servants per capita. Several controls taken from the 1864 dataset
+
+are included, such as the share of Protestant and Jewish population, the share of females, the number
+
+of elementary schools per capita. Following Becker and Woessmann (2009), the counties’ income tax
+
+per capita in 1878 will proxy for per capita economic prosperity. The source of the data is Becker et al.
+
+(2012), who compiled the data from the original Prussian statistics. Furthermore, I assign to every county
+
+its geographic location, that is a measure for longitude and latitude.33
+
+
+
+Gymnasts and Volunteer Fire Departments                The source for the gymnasts clubs and the fire departments
+
+is the Second Statistical Yearbook of German Gymnast Clubs (Zweites statistisches Jahrbuch Deutscher
+
+Turnvereine) from 1865 (Hirth, 1865).34 It lists all German gymnast clubs existing at that time and
+  33 Table B.2 in the Appendix lists the territories included in the sample and the treatment.
+  34 See Data Appendix for further information.
+
+
+
+
+                                                              24

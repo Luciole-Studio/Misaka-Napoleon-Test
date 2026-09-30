@@ -1,0 +1,44 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: F3_material_requirements.csv
+
+```meta
+▸ table "F3_material_requirements.csv" (24 data rows)
+▸ columns
+    scenario: str, 2 uniq: ['P', 'W']
+    bound: str, 3 uniq: ['base', 'high', 'low']
+    year: num, min=1815, max=1830
+    unit: str, 1 uniq: ['source_steres_equivalent_not_solid_m3']
+    line_new_required: num, min=18000, max=50400
+    line_repair_required: num, min=4328.68, max=38645.4
+    nonline_assumed_required: num, min=10000, max=20000
+    total_required_not_actual_transport: num, min=32575.6, max=94918.8
+    wood_coefficient_assumed: num, min=3000, max=4200
+    repair_interval_assumed_years: num, min=7, max=10
+    source_anchor: str, 1 uniq: ['S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions']
+```
+scenario,bound,year,unit,line_new_required,line_repair_required,nonline_assumed_required,total_required_not_actual_transport,wood_coefficient_assumed,repair_interval_assumed_years,source_anchor
+W,low,1815,source_steres_equivalent_not_solid_m3,24000,4328.68,10000,38328.68,3000,10,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+W,low,1820,source_steres_equivalent_not_solid_m3,21000,4640.36,10000,35640.36,3000,10,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+W,low,1825,source_steres_equivalent_not_solid_m3,18000,4603.01,10000,32603.01,3000,10,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+W,low,1830,source_steres_equivalent_not_solid_m3,18000,4575.6,10000,32575.6,3000,10,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+W,base,1815,source_steres_equivalent_not_solid_m3,35000,11400.42,15000,61400.42,3500,8,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+W,base,1820,source_steres_equivalent_not_solid_m3,29750.0,13275.11,15000,58025.11,3500,8,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+W,base,1825,source_steres_equivalent_not_solid_m3,24500,13834.98,15000,53334.98,3500,8,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+W,base,1830,source_steres_equivalent_not_solid_m3,24500,14268.19,15000,53768.19,3500,8,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+W,high,1815,source_steres_equivalent_not_solid_m3,50400,24518.76,20000,94918.76,4200,7,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+W,high,1820,source_steres_equivalent_not_solid_m3,42000,30515.69,20000,92515.69,4200,7,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+W,high,1825,source_steres_equivalent_not_solid_m3,33600,33189.89,20000,86789.89,4200,7,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+W,high,1830,source_steres_equivalent_not_solid_m3,33600,35370.35,20000,88970.35,4200,7,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+P,low,1815,source_steres_equivalent_not_solid_m3,24000,4328.68,10000,38328.68,3000,10,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+P,low,1820,source_steres_equivalent_not_solid_m3,24000,5577.19,10000,39577.19,3000,10,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+P,low,1825,source_steres_equivalent_not_solid_m3,18000,6020.58,10000,34020.58,3000,10,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+P,low,1830,source_steres_equivalent_not_solid_m3,18000,6372.79,10000,34372.79,3000,10,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+P,base,1815,source_steres_equivalent_not_solid_m3,35000,11400.42,15000,61400.42,3500,8,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+P,base,1820,source_steres_equivalent_not_solid_m3,31500,14687.28,15000,61187.28,3500,8,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+P,base,1825,source_steres_equivalent_not_solid_m3,24500,16155.69,15000,55655.69,3500,8,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+P,base,1830,source_steres_equivalent_not_solid_m3,24500,17352.98,15000,56852.98,3500,8,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+P,high,1815,source_steres_equivalent_not_solid_m3,50400,24518.76,20000,94918.76,4200,7,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+P,high,1820,source_steres_equivalent_not_solid_m3,42000,31706.89,20000,93706.89,4200,7,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+P,high,1825,source_steres_equivalent_not_solid_m3,33600,35484.35,20000,89084.35,4200,7,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions
+P,high,1830,source_steres_equivalent_not_solid_m3,33600,38645.43,20000,92245.43,4200,7,S02 paragraph3:3737stere per80gun;other coefficients explicit assumptions

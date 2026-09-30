@@ -1,0 +1,45 @@
+                                                - 14 -
+
+       This one-for-one replacement assumption is extreme for assuming that domestic
+
+production of manufactures could substitute perfectly for imports, and that domestic production
+
+of exportables would fall as much as exports declined. An alternative assumption is that
+
+domestic producers could only produce half of the quantity of goods previously imported, and
+
+were forced to reduce by half their production of goods previously exported. In this case, (y1 -
+
+y0) = 0.5A(m1 - m0) = (17.9, 0, 5.3, -20.2, 0), and the net gain from the production shift is p1A(m1 -
+
+m0) = $2.3 million. This case will be the central assumption, although the bounds on the welfare
+
+cost will be explored using both full replacement and zero (substitution) replacement.
+
+
+
+AB: sC = p1@x0 - e(p1,u0)
+
+       The absence of any consumption data make any estimate of the consumption substitution
+
+virtually impossible. The scope for consumption substitution was probably small: it is unlikely
+
+that domestic consumption of flour and tobacco would increase significantly because their prices
+
+had fallen – and the prices of manufactures increased – due to the embargo. It seems plausible to
+
+assume that the scope for substitution in consumption is less than the scope for substitution in
+
+production, which means that it would take a value of something less than $5 million. As an
+
+initial guess, we will take the value of $2.3 million, the same value as the substitution assumed to
+
+be achieved by domestic producers.
+
+       Alternatively, we can crudely simulate the value of consumption substitution with a
+
+simple Cobb-Douglas utility function in which consumption is assumed to be 80 percent of GNP
+
+and the expenditure share on imported manufactures is 30 percent. Under Cobb-Douglas, the
+
+elasticity of substitution is one, a higher value than is commonly used in computable general

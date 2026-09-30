@@ -1,0 +1,28 @@
+
+
+### FR06、FR09　法国阿尔及利亚军（法语）
+- Jacques Frémeaux,« Constantes militaires dans l’Algérie coloniale »,ENS Lyon2006会议/2007网页。http://colloque-algerie.ens-lyon.fr/communication.php3?id_article=236 ；`downloads/pages/254d31b40981.md`。实读征服/统治军额节及注5，不声称全文通读。
+- 作者序列：1830.7约37k，1840末近65k，1841–44>75k，1844–45>80k，1846/1847初近100k，1848–70多数约65k。转同代Tableaux de la situation des établissements français dans l’Algérie,19vols1838–68，原表未核。
+- FR09：同作者,« Les premières troupes supplétives en Algérie »,Revue historique des armées255(2009)，doi10.3917/rha.255.0061；`downloads/pages/d370d71557ae.md`。实读“Les origines”。原句：“Leurs effectifs avaient été réduits à17000 hommes dès1831…en1837…(37000 hommes).” 环境、语言情报、地方辅助兵机制，不把非洲人口密度直接复制欧洲。
+
+### WO17、BYK、EB30　会议王国的类比边界（波兰语/英语）
+- Jakub Wojas,« Unia polsko-rosyjska z1815r. na tle unii lubelskiej i projektów unii Rzeczypospolitej i Rosji zXVI iXVIIw. »,Studia Prawa Publicznego,1(17),2017（页面上线2018-06-13），doi10.14746/spp.2017.1.17.6；`downloads/pages/e61729b71f9b.md`。核王国形成/法律制度小节，人口3.3m、面积128.5k平方公里为初建量级，不是1830人口。
+- BYK：Bryk.pl,“Sprzysiężenie podchorążych i noc listopadowa”，https://www.bryk.pl/wypracowania/historia/xix-wiek/8909-sprzysiezenie-podchorazych-i-noc-listopadowa.html ；`downloads/pages/3793ef9c4cb3.md`全文短条。记华沙1830约10k波军、6500俄軍；教育网页非专业统计，低等级，只示首都切片，不能作全国驻军密度。
+- EB30：Encyclopaedia Britannica,“November Insurrection”，https://www.britannica.com/event/November-Insurrection ；`downloads/pages/a505ea54ea46.md`仅开头成功捕获。可核1830意图动用波军与军校起义，不能支持驻军数字或完整战争结局。本卡不装全文已获。
+
+## D．跨卡模型与复用资产
+
+- F4：`nodes/r_5b1357a9c6/cards/t_9f10b6/F4_french_finance_ruling_class.md`，已读军费及S5联合财政章节；`notes_marion_model.md`已读。T700–800m等、陆海联合495m方案是F4推演，不是历史实支。Marion成本原段另由F2核读（M25）。F4仍在执行，后续正式账优先，但改变费用须同步本卡人数/任务。
+- F3：`nodes/r_5b1357a9c6/cards/t_b1a536/part_01_unit.md`§兵源，已核其8k–12k年新增可拨海军事业人员是假设；含旧商渔人员/不同年龄，不全为同一20岁年级。若保守地全从陆軍参考级扣，才有另2.7–4.0百分点上限压力，不能称实测年龄结构。
+- 旧C14：`nodes/r_b55f2c1cf5/cards/t_208a11/{c14_army_sustainability.md,losses_source_audit.md,conscription_occupation_evidence.md,horse_cadre_evidence.md,c14_manpower.csv}`。复用来源路径与口径审计，不继承“未识别”的结论；旧切片不是完整全国年序列。
+- 当前笔记：`notes_core_evidence.md`、`notes_new_analogies.md`、`notes_oman1810_fiscal.md`；专题检索：`annual_levies_evidence.md`、`hardware_evidence.md`。两专题各8次外搜后停止；主卡另作新增类比及Oman核查，不把代理搜索上限冒称全卡上限。
+
+## E．明确未得材料与其判别用途
+
+1. Woloch,“Napoleonic Conscription: State Power and Civil Society”,Past&Present111(1986),101–129,doi10.1093/past/111.1.101，p110 Table1“The Napoleonic Levies”：仅书目和他文指引，未核原表；决定年度授权能否对齐。Hargenvilliers/Darquenne原表同未取，不伪称三源一致。
+2. AN AF IV1122（离省/到队）、1123（Hargenvilliers）、1124（省级征募）；SHD GR/21/YC军籍：只目录/转引，未阅原件。可关闭逐年实到、退出、疆域一致性缺口。
+3. 五厂1803–1814逐年验收产量未取得。SHD GR4W目录`downloads/pages/ca69d49d69c7.md`，4W465/466（Saint-Étienne/Charleville）、4W1/3（Douai/Strasbourg）；仅目录。馆方说明`downloads/pages/6f0156abb741.md`对应Saint-Étienne2H2和Dubessy1900书目；未读其产量正文。
+4. André Desfeuilles,La fabrication des poudres de guerre à Essonnes:1805–1814(1953,16页)：仅FeniXX/Readzis书目`downloads/pages/9cc62ddca08d.md`；Essonne79J23/7目录`downloads/pages/c479ac42abbb.md`。不以全国3000吨填Essonnes。
+5. Douai网页“200–250门/年”只见检索摘要、正文DNS失败，拒入模型。Robin回忆Essonnes视察是晚刊回溯性且纪年有冲突，`downloads/pages/5184b87a3f2a.md`只作线索，不支持增产已经实现。
+6. 全国军官年龄、按兵种军马同日存量、法国＋盟军逐年实际实员仍不完整。Q2/D1/D2省级实得序列未交，60%可靠与5–10年以上时滞皆未拟合；不以留白=0，更不以留白否定可作条件推演。
+7. Riehn、Blaufarb、Serman/Bertaud为任务指定潜在线索，本卡未取得足以引用的新正文；没有把作者名装成已核材料。

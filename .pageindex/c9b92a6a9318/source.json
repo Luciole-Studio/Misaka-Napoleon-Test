@@ -1,0 +1,101 @@
+{
+  "extra_checks": {
+    "H1811_north_gap_baseline1805_7": 6.16,
+    "H1811_rest_America_plus_Asia_increment": 2.1166666666666654,
+    "H1811_broad_proxy_ratio_1805_7": 0.3436147186147184,
+    "H1811_broad_proxy_ratio_1805": 0.47732426303854864,
+    "lateS3_needed_gross_extra": 20.66755555555556,
+    "lateS3_needed_relative_nonEurope": 0.5876640096549678,
+    "lateS3_unfilled_gross_extra": 9.53705555555556,
+    "growth_sensitivity_plus_0_3pp_33years": 0.10406629955888191,
+    "growth_sensitivity_minus_0_3pp_33years": -0.0942572919764515
+  },
+  "heckscher_sum_checks": [
+    {
+      "year": "1805",
+      "category": "domestic",
+      "component_sum_minus_printed": 0.0
+    },
+    {
+      "year": "1806",
+      "category": "domestic",
+      "component_sum_minus_printed": 0.0
+    },
+    {
+      "year": "1807",
+      "category": "domestic",
+      "component_sum_minus_printed": 0.02
+    },
+    {
+      "year": "1808",
+      "category": "domestic",
+      "component_sum_minus_printed": -0.01
+    },
+    {
+      "year": "1809",
+      "category": "domestic",
+      "component_sum_minus_printed": -0.01
+    },
+    {
+      "year": "1810",
+      "category": "domestic",
+      "component_sum_minus_printed": -0.01
+    },
+    {
+      "year": "1811",
+      "category": "domestic",
+      "component_sum_minus_printed": -0.01
+    },
+    {
+      "year": "1805",
+      "category": "reexport",
+      "component_sum_minus_printed": 0.01
+    },
+    {
+      "year": "1806",
+      "category": "reexport",
+      "component_sum_minus_printed": 0.0
+    },
+    {
+      "year": "1807",
+      "category": "reexport",
+      "component_sum_minus_printed": 0.01
+    },
+    {
+      "year": "1808",
+      "category": "reexport",
+      "component_sum_minus_printed": 0.0
+    },
+    {
+      "year": "1809",
+      "category": "reexport",
+      "component_sum_minus_printed": 0.0
+    },
+    {
+      "year": "1810",
+      "category": "reexport",
+      "component_sum_minus_printed": 0.0
+    },
+    {
+      "year": "1811",
+      "category": "reexport",
+      "component_sum_minus_printed": -0.01
+    }
+  ],
+  "davis_sum_max_error": 7.105427357601002e-15,
+  "official_proxy_five_year_net_ratio": 0.8726432853543398,
+  "official_proxy_1811": {
+    "year": 1811,
+    "north_europe_loss": 9.733666666666666,
+    "latin_plus_asia_increment": 2.1123333333333334,
+    "ratio": 0.21701311598917847,
+    "note": "all_goods_old_fixed_prices_not_domestic_not_cash"
+  },
+  "cautions": [
+    "No formal identification of pure-Latin domestic export falsifier",
+    "Neither quantities nor GDP can be recovered from declared export levels",
+    "Scenario envelopes are selected assumptions, not probability confidence intervals",
+    "A40_1811_corrected_raw_retained",
+    "1813_missing"
+  ]
+}

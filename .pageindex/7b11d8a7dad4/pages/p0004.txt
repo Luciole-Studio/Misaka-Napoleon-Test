@@ -1,0 +1,58 @@
+
+
+### Table 1.
+
+Structural data on the United Kingdom (UK) and the Habsburg Empire (HE)a.
+
+| UK 1830 | UK 1910 | HE 1830 | HE 1910 |
+| --- | --- | --- | --- |
+| Total population | 1000 cap | 23,814 | 44,915 | 28,511 | 49,066 |
+| Total area | km² | 313,183 | 313,183 | 667,251 | 624,865 |
+| Population density | cap/km² | 76 | 143 | 43 | 79 |
+| Agricultural population | % of total | 28 | 8 | 71b | 52 |
+| GDP | intl Geary-Khamis $/cap | 1773 | 4611 | 961 | 2172 |
+| Domestic Energy Consumption | GJ/cap/yr | 68 | 148 | 46 | 66 |
+| Share of biomass in DEC | % | 54 | 19 | 100 | 67 |
+
+Open in a new tab
+
+a
+
+Sources: see text. Data on GDP were derived from Maddison, 2003. For an estimate of the GDP in the Habsburg Empire, I used a weighted average of the values presented for Austria, Czechoslovakia and Hungary.
+
+b
+
+This value refers to Cisleithania in 1840. In the entire Monarchy in 1830, the share of agricultural population was very likely even higher.
+
+The Habsburg Empire on the other hand was a typical continental European economy in the 19th century (Milward and Saul, 1977). On the edge between centre and periphery, it experienced the shift from handicraft to industrial production comparatively late in the 19th century with large divergences between West and East (Komlos, 1983); in fact, some sectors were dominated by small-scale handicraft until the early 20th century (Good, 1984). In terms of energy use, the Habsburg Empire experienced the shift from biomass to coal only relatively late in the 19th century (Gross, 1971): In 1830, coal contributed less than 1% to total primary energy use, and by 1910, the share was still fairly low at 33% (sources: see Table 2). From an energetic perspective, the Habsburg Empire was thus far behind the United Kingdom on its way along the socio–ecological transition from an agrarian to an industrialised economy. Interestingly, the United Kingdom and the Habsburg Empire had quite similar population totals in the 19th century, see Table 1: increasing from around 24 mio. in 1830 (29 mio. in the Habsburg Empire) to 45 mio. in 1910 (49 mio. in the Habsburg Empire). Given that the Habsburg Empire was roughly twice the area of the United Kingdom, population density was almost two times higher in the United Kingdom, with implications in terms of urbanisation, transport and per-capita land availability.
+
+### Table 2.
+
+Sources for the analysis of material and energy flows in the Habsburg Empire.
+
+| Topic | Region | Years | Source |
+| --- | --- | --- | --- |
+| Foreign trade | Habsburg Empire | 1830–1865 | Anonymous (1830–1871) |
+| 1866–1881 | K.K. Statistische Central-Commission (1866–1884) |
+| 1882–1914 | K.K.Statistische Central-Commission (1882–1914) |
+| Domestic trade | Between Cisleithania and Transleithania | 1900–1914 | K.K. Statistische Central-Commission (1901–1914) |
+| Extraction of fossil fuels | Cisleithania | 1819–1874 | Komlos (1983) |
+| 1875–1915 | Hwaletz (2001) |
+| 1870–1889 | Kön. Ung. Statistisches Bureau (1871–1889) |
+| 1890–1914 | Kön. Ung. Statistisches Zentralamt (1895–1914) |
+| Extraction of anthracite and lignite | Transleithania | 1830–1914 | Komlos (1983) |
+| Extraction of crude oil | Transleithania | 1864–1867 | K.K.Statistische Central-Commission (1864–1867) |
+| Harvest of biomass | Cisleithania | 1830 | Sandgruber (1978) |
+| 1831–1865 | K.K. Finanz-Ministerium (1831–1865) |
+| 1866–1869 | K.K. Statistische Central-Commission (1866–1869) |
+| 1870–1917 | Sandgruber (1978) |
+| Harvest of biomass | Transleithania | 1830 | K.K. Finanz-Ministerium (1858) |
+| 1831–1865 | K.K. Finanz-Ministerium (1831–1865) |
+| 1866–1869 | K.K. Statistische Central-Commission (1866–1869) |
+| 1870–1914 | Komlos (1983) |
+| Population, agricultural population | Cisleithania | 1830–1865 | K.K. Finanz-Ministerium (1831-1871) |
+| 1866–1881 | K.K. Statistische Central-Commission (1866–1884) |
+| 1882–1914 | K.K.Statistische Central-Commission (1882–1914) |
+| Population, agricultural population | Transleithania | 1830–1869 | K.K. Finanz-Ministerium (1831-1871) |
+| 1870–1889 | Kön. Ung. Statistisches Bureau (1871–1889) |
+| 1890–1914 | Kön. Ung. Statistisches Zentralamt (1895–1914) |

@@ -1,0 +1,47 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: P4_four_snapshots.csv
+
+```meta
+▸ table "P4_four_snapshots.csv" (24 data rows)
+▸ columns
+    branch: str, 2 uniq: ['P', 'W']
+    bound: str, 3 uniq: ['base', 'high', 'low']
+    year: num, min=1815, max=1830
+    time_note: str, 2 uniq: ['annual_planning_year', 'common_pre_truce_1815']
+    france_line_hulls: num, min=72.145, max=161.023
+    britain_line_hulls: num, min=120, max=155
+    france_A12: num, min=50, max=140
+    britain_A12: num, min=95, max=145
+    france_line_displacement_tonnes_ASSUMED: num, min=230863, max=611886
+    britain_line_displacement_tonnes_ASSUMED: num, min=408000, max=604500
+    tonnage_ratio_FR_over_UK: num, min=0.5521, max=1.0122
+    effectiveness_ratio_FR_over_UK: num, min=0.2595, max=0.9744
+    fr_skill_factor_ASSUMED: num, min=0.55, max=1
+    uk_skill_factor_ASSUMED: num, min=0.9, max=1.1
+```
+branch,bound,year,time_note,france_line_hulls,britain_line_hulls,france_A12,britain_A12,france_line_displacement_tonnes_ASSUMED,britain_line_displacement_tonnes_ASSUMED,tonnage_ratio_FR_over_UK,effectiveness_ratio_FR_over_UK,fr_skill_factor_ASSUMED,uk_skill_factor_ASSUMED
+W,low,1815,common_pre_truce_1815,72.145,120.0,50,105.0,230862.963,408000.0,0.5658,0.2595,0.55,0.95
+W,low,1820,annual_planning_year,77.339,125.0,54,110.0,247486.077,425000.0,0.5823,0.2788,0.583333,0.9667
+W,low,1825,annual_planning_year,76.717,130.0,53,115.0,245494.064,442000.0,0.5554,0.272,0.616667,0.9833
+W,low,1830,annual_planning_year,76.26,130.0,53,115.0,244032.115,442000.0,0.5521,0.2819,0.65,1.0
+W,base,1815,common_pre_truce_1815,86.86,127.5,65,115.0,304011.173,459000.0,0.6623,0.3572,0.65,1.0
+W,base,1820,annual_planning_year,101.144,135.0,78,122.5,354003.058,486000.0,0.7284,0.4161,0.683333,1.0167
+W,base,1825,annual_planning_year,105.409,142.5,81,130.0,368932.823,513000.0,0.7192,0.4201,0.716667,1.0333
+W,base,1830,annual_planning_year,108.71,142.5,84,130.0,380485.193,513000.0,0.7417,0.4487,0.75,1.05
+W,high,1815,common_pre_truce_1815,102.162,135.0,77,125.0,388213.727,526500.0,0.7373,0.4287,0.75,1.05
+W,high,1820,annual_planning_year,127.149,145.0,100,135.0,483165.014,565500.0,0.8544,0.53,0.783333,1.0667
+W,high,1825,annual_planning_year,138.291,155.0,115,145.0,525506.514,604500.0,0.8693,0.5825,0.816667,1.0833
+W,high,1830,annual_planning_year,147.376,155.0,124,145.0,560030.616,604500.0,0.9264,0.6439,0.85,1.1
+P,low,1815,common_pre_truce_1815,72.145,120.0,50,105.0,230862.963,408000.0,0.5658,0.2595,0.55,0.95
+P,low,1820,annual_planning_year,92.953,125.0,63,95.0,297450.259,425000.0,0.6999,0.4347,0.65,0.9333
+P,low,1825,annual_planning_year,100.343,130.0,72,100.0,321097.77,442000.0,0.7265,0.5544,0.75,0.9167
+P,low,1830,annual_planning_year,106.213,130.0,84,100.0,339882.387,442000.0,0.769,0.7467,0.85,0.9
+P,base,1815,common_pre_truce_1815,86.86,127.5,65,115.0,304011.173,459000.0,0.6623,0.3572,0.65,1.0
+P,base,1820,annual_planning_year,111.903,135.0,84,112.5,391660.92,486000.0,0.8059,0.5475,0.741667,0.9833
+P,base,1825,annual_planning_year,123.091,142.5,96,120.0,430818.356,513000.0,0.8398,0.6705,0.833333,0.9667
+P,base,1830,annual_planning_year,132.213,142.5,111,120.0,462746.259,513000.0,0.902,0.8756,0.925,0.95
+P,high,1815,common_pre_truce_1815,102.162,135.0,77,125.0,388213.727,526500.0,0.7373,0.4287,0.75,1.05
+P,high,1820,annual_planning_year,132.112,145.0,106,130.0,502025.798,565500.0,0.8878,0.6407,0.833333,1.0333
+P,high,1825,annual_planning_year,147.851,155.0,123,140.0,561835.525,604500.0,0.9294,0.7718,0.916667,1.0167
+P,high,1830,annual_planning_year,161.023,155.0,140,140.0,611886.021,604500.0,1.0122,0.9744,1.0,1.0

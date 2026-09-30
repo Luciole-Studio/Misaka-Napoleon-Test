@@ -1,0 +1,88 @@
+Rural Change and Royal Finances in Spain
+
+       residence. Simancas also has a copy of the responses to the forty questions that formed the first part of each town survey, with data on
+       the number of vecinos, houses, people in various occupations, wages, prices, types of harvest, tithes, taxes, and similar matters
+       ("Respuestas generales" or "Interrogatorio general"). Even these questionnaires are not readily usable in extenso—they may run to fifty
+       folio sheets for one town—but their contents were extracted and tabulated in large volumes now in the Archivo Histórico Nacional. This
+       series normally has three volumes for each province, the first ("Estado seglar") devoted to the property and other income of laymen and
+       secular institutions (including the town council, that is, town property); the second ("Estado eclesiástico") for that of ecclesiastical
+       institutions, foundations, and funds; and the third ("Eclesiástico patrimonial") for that of individual clergymen. For purposes of the present
+       study, I have assembled these data, already quantified town by town, into totals for the zones within the province. Unfortunately, for
+       Jaén only the volume summarizing the information of the secular estate has survived. [2]
+             A number of eighteenth-century censuses have been preserved that give the population (vecinos or total inhabitants) of individual
+       towns. The "Vecindario general de España," located in the Biblioteca Nacional and already described in Chapter 1, gives the vecinos
+       around 1712. The number of vecinos at the time of the catastro (ca. 1752) can be obtained from the respuestas generales, question 21,
+       but it has also been tabu-
+
+       [2] For most towns the information is drawn from AHPJ, Catastro, maest. segl. The volumes with this information are missing for the
+       following towns, and I obtained it from the copy in AGS, Dirección General de Rentas, Única Contribución, libros 323–27: Albánchez,
+       Alcalá la Real, Cabra de Santo Cristo, Castillo de Locubín, Fuente del Rey, Higuera de Calatrava, Jabalquinto, La Guardia, Los Villares,
+       Lupión, Marmolejo, Tobaruela, Torre del Campo, and Torrequebradilla.
+
+
+                                                                                          ― 567 ―
+       lated from the towns of Salamanca province in a document in the Real Academia de la Historia.[3] The same place houses the original
+       individual town returns of the census taken in 1786 and published the next year. These record the number of each sex, single, married,
+       and widowed, in each of six age groups, as well as the number of individuals in various legal estates and occupations.[4] Finally, I have
+       made use of the number of vecinos and inhabitants recorded for each town in 1826 by the royal geographer Sebastían de Miñano.
+              The information on the sales has been described in the last chapter. It is now, however, broken down by zone, and within each
+       zone by level of buyers.[5] The level of each buyer is determined by his location on the Lorenz curve of the zone. [6] Thus in a zone where
+       purchases were priced low, a buyer who appeared in Level 3 or even 2 in the province may be placed in Level 4, and vice versa. Buyers
+       in Level 4, or any other level, do not spend equal amounts of money from zone to zone and are not equally wealthy. Table 16.1 gives a
+       sense of the difference among the zones in Jaén province in this respect. It shows the mean purchases of Level 1 and Level 4 buyers and
+       of all buyers in each zone. If one compares the mean amount spent by all buyers in each zone, as shown in this table, with the mean
+       town population in each zone (Table 16.2), one finds a rough, direct relationship (r = .52). One can deduce that, as a general rule, in
+       larger towns, the upper levels of society, those that furnished the buyers of disentailed properties, had more money than the
+       corresponding levels in smaller towns. The correspondence is far from exact, however, r2 = .275, meaning that only about one-fourth of
+       the variation in the amount spent can be attributed to the size of the towns in the zones.
+             By using the commercial market–local consumption spectrum that emerged from the global look at the two provinces, one may
+       distinguish the zones in Jaén province by the strength of the orientation of their agriculture toward a wider market, as revealed by the
+       nature of the prop-
+
+       [3] Real Academia de la Historia, leg. 9-30-3, 6258, no. 13. It is dated 30 Jan. 1760, but it comes from the returns of the catastro. Ibid.,
+       no. 14, is a later census of vecinos dated 14 Aug. 1772. I entered it in my analysis, but it proved of little use.
+
+       [4] Ibid., legajos 9-30-2, 6228 and 6240–42; 9-30-3, 6259.
+
+       [5] All sales but one (in an isolated town not included in any zone) could be assigned to zones. Where the location of the property was
+       not specified in the deed of deposit, I assigned the sale to the zone in which the religious institution that was the former owner was
+       located. No doubt some lay elsewhere, but not enough to invalidate the analysis. The number of sales in each zone is JA, 186; JB, 147;
+       JC, 22; JD, 28; JE, 179; JF, 283; JG, 911; JH, 289; JI, 263; JJ, 116; JK, 762; JL, 482; JM, 273; JN, 208; JO, 47; JP, 160; JQ, 59; JR,
+       146; JS, 80; Total 4,641.
+
+       [6] See Chapter 15, section 1, esp. Fig. 15.1.
+
+
+                                                                                          ― 568 ―
+
+
+                      Table 16.1.   Mean Amounts Spent by Buyers, Jaén Zones (000s reales)
+
+
+
+          Zone        Level 1      Level 4    All Buyers      Zone        Level 1      Level 4     All Buyers
+
+
+
+                        Rich Basin Zones                                    Rich Loma Zones
+
+
+
+            JA          3.4        490.3         36.6          JK           2.0         124.6         17.0
+
+
+
+            JB          2.1          78.9        15.0          JL           2.2         147.5         17.9
+
+
+
+            JE          1.6          60.6        12.1                       Poor Loma Zones
+
+
+
+                        Poor Basin Zones                       JM           1.0         52.6          7.2
+
+
+
+
+http://publishing.cdlib.org/ucpressebooks/view?docId=ft4d5nb394;chunk.id=0;doc.view=print[1/22/2011 11:30:51 AM]

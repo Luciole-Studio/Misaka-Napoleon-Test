@@ -1,0 +1,40 @@
+
+
+【推演·中高置信】对任何欧洲主人而言，新西班牙的军事意义是**净负值**：
+- 它不能向欧洲输出兵力（跨洋运输、疾病、无动机）；
+- 它需要外来驻军才能压住自身（1810–1821 年王党靠 Calleja 的野战军，兵力峰值数万，全部由本地税收供养）；
+- **它的镇压成本直接吃掉它的汲取价值**：1810 年后十年战争"caused the definitive bankruptcy of the viceroyalty"（Marichal p.255）。
+- 类比可用 IT2 卡的卡拉布里亚数：镇压峰值成本 ≈ 该省财政产出的 6–8 倍。新西班牙的"卡拉布里亚"是巴希奥（Bajío），而它同时是白银产地——**镇压区与产出区重合，这比那不勒斯的情况更坏。**
+
+---
+
+## §7 ⑦社会结构与阶层
+
+【锚点·人口】1793 年 Revillagigedo 普查 **4,483,569**（Humboldt 视为下限）；Humboldt 采 1804 年 **5,837,000**，并自估"**en 1808 la población de México fue superior a 6.500,000 almas**"（Antorcha 中译转录快照）。
+
+【锚点·本卡登记的最大口径冲突】**在册欧洲出生者（gachupines）的人数**：
+- Humboldt：**7 万–8 万**；
+- **Navarro y Noriega：仅 7,906**；
+- Alamán："he acabado por persuadirme que **es sumamente exagerado el de 70 000** que el barón de Humboldt supone existente en la Nueva España"；
+- Humboldt 自相矛盾处：首都"**no hay entre sus 135 000 habitantes 2 500 nacidos en Europa**"。
+（以上均转引 Victoria Lerner,《Consideraciones sobre la población de la Nueva España (1793-1810)》,*Historia Mexicana*，**检索快照，PDF 下载遭 403 拒绝，未取全文**。）
+
+→ **本卡处理：不取中值，分两档推演。**低档 8,000–15,000（占总人口 **0.12–0.25%**）；高档 7 万–8 万（占 **1.2–1.4%**）。**两档给出完全不同的统治社会学**：低档意味着帝国是由不到两万人在六百万人口上运转的人事网络，其脆弱性接近于"一场政变即可更换全部"；高档意味着存在一个可自我复制的移民阶层。1810 年后的事实（Hidalgo 檄文把"欧洲人"当作一个可被逮捕、其财产可被征用的、数得清的群体）更支持低档。
+
+【锚点】其余构成：印第安人 **>250 万**，"In general the Indians appear to form **two-fifths** of the whole population… In the four intendancies of Guanaxuato, Valladolid, Oaxaca, and la Puebla, this population amounts even to **three fifths**"；黑奴 **6,000–10,000**（Alamán 与 Navarro y Noriega 一致）；白人（含克里奥尔）约 110–120 万（Humboldt/Ward）。
+
+【锚点·对照古巴的关键句】Humboldt："The kingdom of New Spain has one decided advantage over the United States. **The number of slaves there either Africans or of mixed race, is almost nothing**; an advantage which the European colonists have only begun rightly to appreciate **since the tragical events of the revolution of St. Domingo**."（humboldt.unibe.ch 英译快照）
+
+【推演·高置信】**新西班牙与古巴在 1808–1848 年的行为分叉，第一因不是文化而是奴隶比例。**新西班牙几乎没有奴隶，因此**没有"分裂即奴隶起义"这条恐惧链**，精英可以承受政治分裂的风险；古巴有，因此不能。这一条同时解释：为什么 1808 年 7 月哈瓦那的洪塔计划只征到 73 个签名就被军方一句话压下，而同年 7–9 月墨西哥城的同类计划闹到要靠政变才能终止。
+
+【锚点】教会：见 §3。教会是最大的**信贷机构**而非最大的地主——这一点决定了 Consolidación 的社会打击面不是教士，而是**所有借过教会钱的矿主、商人、地主**。
+
+---
+
+## §8 ⑧社会运动与抵抗传统
+
+【锚点】1810-09-28 Hidalgo 致 Riaño 最后通牒原文（HYD II-53，doc 46ec015b0dc6，亲读）：
+> "El numeroso ejército que comando, me eligió por capitán general y protector de la nación en los campos de Celaya. La misma ciudad **a presencia de cincuenta mil hombres** ratificó esta elección… se reducen a **proclamar la independencia y libertad de la nación**; de consiguiente **yo no veo a los europeos como enemigos, sino solamente como a un obstáculo**, que embaraza el buen éxito de nuestra empresa… para que resuelvan si se declaran por enemigos, o convienen en **quedar en calidad de prisioneros**… quedando con derecho, a que se les restituyan los bienes de que por ahora, **para las urgencias de la nación, nos serviremos**."
+
+【锚点】Riaño 复文（同件，PDF p.3–4 原文）：
+> "No reconozco otra autoridad ni me consta que haya establecido, ni otro capitán general en el reino de la Nueva España, que el excelentísimo señor don Francisco Xavier de Venegas virrey de ella, **ni más legítimas reformas, que aquéllas que acuerde la nación entera en las Cortes generales, que van a verificarse**. Mi deber es pelear, como soldado, cuyo noble sentimiento anima a cuantos me rodean."

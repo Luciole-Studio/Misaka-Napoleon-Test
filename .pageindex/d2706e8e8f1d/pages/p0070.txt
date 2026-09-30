@@ -1,0 +1,93 @@
+
+
+<<<PDFPAGE 140>>>
+122 
+The Anatomy of a Research Project 
+caused the designers much debate. The first is the obvious one of 
+language. As it cannot be expected that all those who consult the database 
+will have access to Spanish, it was decided that it would have to be pre- 
+pared in duplicate, and, further, that in the English version all accents 
+and other language marks should be suppressed. The second 
+is a 
+somewhat less obvious question of geography in that there have been 
+repeated changes in Spain’s territorial organization since the Napoleonic 
+era, and in this respect it was eventually agreed that towns, villages and 
+such should be listed under their current affiliations. 
+In so far as the organization of the material is concerned, 
+it is 
+arranged so that it may be consulted under a number of headings. A full 
+list of these, together with the possible answers that may be returned in 
+response to each query, is appended as an appendix to this paper. Needless 
+to say, the number of permutations that enquiries may take is virtually 
+infinite. It is, for example, possible to ask the database to give details of 
+the number of ecclesiastics in the full list, the number of ecclesiastics 
+who commanded partidas, the number of ecclesiastics who held subaltern 
+rank, the number of ecclesiastics who fought as members of the rank 
+and file and the number of ecclesiastics who were killed in action or 
+executed by the invaders, and all this in connection with the whole war 
+or some period thereof, and the whole of Spain or some part thereof. 
+And, should it be wanted to go still further, the ecclesiastics could be 
+broken down into their different categories — seminarians, deacons, priests, 
+friars, archdeacons and so forth. 
+The sources used for this study have included both primary sources 
+and the published works of other historians. With regard to the former, 
+considerations of time have forced the designers to concentrate on 
+archival centres which contain large concentrations of material such as 
+the Archivo Histérico Nacional, the Archivo General Militar, the Archivo 
+General de Simancas, the Archivo de la Corona de Aragon, the Real 
+Academia de Historia and the Archivo Municipal de Zaragoza. Collections 
+consulted, meanwhile, include the 1007 volumes of pamphlets and 
+other printed material known as the Coleccion Documental del Fraile, 
+the papers of the Junta Central, the Junta Superior de Catalufia and the 
+Juntas Criminales Extraordinarias, and the papers of Generals Blake, 
+Castanos, Palafox and Copons y Navia. Where possible, material has 
+also been incorporated into the database from English-language sources, 
+the Wellington Papers and the extensive memoir material associated 
+with the Peninsular army both containing many references to la guerrilla. 
+With regard to secondary sources, meanwhile, the work of a wide range 
+of authors has been carefully ‘trawled’ to provide as much information 
+
+<<<PDFPAGE 141>>>
+Charles J. Esdaile and Leonor Hernandez Enviz 
+123 
+as posible, and the results checked against the original documents 
+(a process which has proved to be immensely time consuming: many 
+works on /a guerrilla are, at best, intensely hagiographic). 
+What, though, of the question of results? Given the huge obstacles 
+posed by the nature of the material, progress in amassing the data has 
+been much slower than the designers would have wished. At the time of 
+writing, the number of guerrillas entered in the database stands at 
+3024, of which 656 were commandants, 39 seconds-in-command, 2135 
+‘subalterns’ (by which is meant all officers other than commandants 
+and their seconds, all non-commmissioned officers and all members 
+of the rank and file), 167 unknown and 27 civilian collaborators 
+(Figure 7.1). Limited though these figures are, however, they have yet 
+produced a number of interesting points. Of these, the first is clearly the 
+fact that activity was not constant across the full length of the war. 
+On the contrary, from 1809 onwards there was was a steady fall in the 
+number of individuals active in any given year. Thus, in 1809, 628 of 
+the combatants on the list were active, whereas in 1811 the number 
+was 557 and in 1813 only 136 (Figure 7.2). Meanwhile, the guerrilla 
+bands seem to have become fewer in number: in 1809 commandants 
+constituted 42.4 per cent of the number of combatants, whereas by 1813 
+this figure had fallen to 19.1 per cent (Figure 7.3). This itself is very 
+interesting, confirming as it does the very considerable anecdotal 
+evidence that suggests that there was a steady decline in the popularity 
+of the war, and, by extension, the apathy of the civilian population. This 
+is, perhaps, most graphically expressed by Figure 7.4, which shows the 
+percentage of the survey known to have been in arms at any given time. 
+Given that it may be interrogated with regard to both the number of 
+partidas and the number of combatants operating in any given province, 
+interesting details may also be obtained from the database with regard 
+to the response of different regions of Spain to French occupation. In 
+brief, in certain areas the response appears to have been much more 
+enthusiastic than in others. Navarre, for example, accounts for 215 of 
+the 3024 combatants (7.1 per cent), whereas in 1808, at 221 728, its 
+population numbered only 2.1 per cent of that of Spain as a whole. Yet 
+Andalucia had 1 909 422 inhabitants (18.1 per cent) and could only 
+produce 290 combatants (9.6 per cent), whilst Galicia did still worse 
+with 1 142 630 inhabitants (10.8 per cent) and 66 fighters (2.2 per cent). 
+When it comes to the number of bands that have been traced, however, 
+these figures are more or less reversed in that, at 129 (19.7 per cent) and 
+38 (5.8 per cent) Andalucia and Galicia have a much larger share than 
+the number of men that they turned out would seem to warrant, and 

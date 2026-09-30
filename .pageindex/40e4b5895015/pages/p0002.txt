@@ -1,0 +1,53 @@
+Journal of Institutional Economics (2016), 12: 1, 161–190
+ Millennium Economics Ltd 2015 doi:10.1017/S1744137415000223
+ C
+First published online 2 July 2015
+
+
+
+
+The French revolution and German
+industrialization: dubious models and
+doubtful causality
+                                 ∗
+MICHAEL KOPSIDIS
+Leibniz Institute of Agricultural Development in Transition Economies (IAMO), Halle (Saale), Germany
+                                     ∗∗
+DANIEL W. BROMLEY
+Department of Agricultural and Applied Economics University of Wisconsin-Madison, Madison, WI, USA
+
+
+   Abstract. We challenge the ‘big-bang’ approach to economic history offered by
+   Acemoglu et al. (2011). The creation story in dispute is the French Revolution and
+   the subsequent French occupation of a very small portion of Germany. We show
+   that the four institutional reforms claimed to have spurred German
+   industrialization have been incorrectly dated. These corrections nullify any
+   explanatory power of the ACJR econometric model. Moreover, even with the
+   corrected vintages, their identification strategy is undermined by a flawed
+   ‘explanatory’ variable – ‘years of reform’. We show that this variable simply
+   enters their model as a year trend and explains nothing except the passage of time.
+   We develop a fixed-effects model to capture the overlooked role of coal
+   production that began in several regions shortly after 1840. This model offers a
+   credible account of German industrialization and urbanization. Most economic
+   change is, after all, continuous. Big-bang intrusions are of doubtful efficacy.
+
+
+1. Introduction
+
+Economic historians face the challenge of discerning plausible causal structures
+from a variety of empirical evidence collected from manifold sources. Over the
+recent past, some economists have taken an interest in the role of institutions as
+central to the quest for understanding the past. In the literature, these claimed
+causal factors take various forms – the rule of law, honest elections, strong
+property rights, colonial rule by ‘good’ countries versus ‘bad’ ones, and impartial
+judges. It has even been claimed that institutions can be turned on and off at will
+– at which point individual behaviors are assumed quickly to switch back and
+forth, depending.
+   Our immediate interest is a recent effort to re-write modern German
+history using several elaborate econometric specifications. The empirical work
+of interest is the paper by Acemoglu et al. (2011) (hereinafter ACJR) on
+∗ Email: kopsidis@iamo.de
+∗∗ Email: dbromley@wisc.edu
+
+
+                                                                                                       161

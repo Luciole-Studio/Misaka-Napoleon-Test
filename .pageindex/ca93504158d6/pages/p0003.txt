@@ -1,0 +1,76 @@
+## Sheet: B3_capacity.csv (continued)
+section,scenario,year,metric,value_low,value_high,unit,source,locator,note
+observation,S0,1803,voted_seamen,45600,45600,persons,JB,year1803:months4,4 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1803,voted_marines,14400,14400,persons,JB,year1803:months4,4 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1803,voted_total,60000,60000,persons,JB,year1803:months4,4 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1803,voted_seamen,77600,77600,persons,JB,year1803:months7,7 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1803,voted_marines,22400,22400,persons,JB,year1803:months7,7 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1803,voted_total,100000,100000,persons,JB,year1803:months7,7 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1804,voted_seamen,78000,78000,persons,JB,year1804:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1804,voted_marines,22000,22000,persons,JB,year1804:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1804,voted_total,100000,100000,persons,JB,year1804:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1805,voted_seamen,90000,90000,persons,JB,year1805:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1805,voted_marines,30000,30000,persons,JB,year1805:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1805,voted_total,120000,120000,persons,JB,year1805:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1806,voted_seamen,91000,91000,persons,JB,year1806:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1806,voted_marines,29000,29000,persons,JB,year1806:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1806,voted_total,120000,120000,persons,JB,year1806:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1807,voted_seamen,91000,91000,persons,JB,year1807:months1,1 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1807,voted_marines,29000,29000,persons,JB,year1807:months1,1 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1807,voted_total,120000,120000,persons,JB,year1807:months1,1 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1807,voted_seamen,98600,98600,persons,JB,year1807:months12,12 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1807,voted_marines,31400,31400,persons,JB,year1807:months12,12 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1807,voted_total,130000,130000,persons,JB,year1807:months12,12 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1808,voted_seamen,98600,98600,persons,JB,year1808:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1808,voted_marines,31400,31400,persons,JB,year1808:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1808,voted_total,130000,130000,persons,JB,year1808:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1809,voted_seamen,98600,98600,persons,JB,year1809:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1809,voted_marines,31400,31400,persons,JB,year1809:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1809,voted_total,130000,130000,persons,JB,year1809:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1810,voted_seamen,113600,113600,persons,JB,year1810:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1810,voted_marines,31400,31400,persons,JB,year1810:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1810,voted_total,145000,145000,persons,JB,year1810:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1811,voted_seamen,113600,113600,persons,JB,year1811:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1811,voted_marines,31400,31400,persons,JB,year1811:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1811,voted_total,145000,145000,persons,JB,year1811:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1812,voted_seamen,113600,113600,persons,JB,year1812:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1812,voted_marines,31400,31400,persons,JB,year1812:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1812,voted_total,145000,145000,persons,JB,year1812:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1813,voted_seamen,108600,108600,persons,JB,year1813:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1813,voted_marines,31400,31400,persons,JB,year1813:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1813,voted_total,140000,140000,persons,JB,year1813:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+source_conflict,S0,1814,voted_seamen,86000,86000,persons,JB,year1814:months7,7 lunar months in the specified vote; no dates invented; not actual borne; Appendix9 says86000+31400; James text says140000 total; do not reconcile silently
+source_conflict,S0,1814,voted_marines,31400,31400,persons,JB,year1814:months7,7 lunar months in the specified vote; no dates invented; not actual borne; Appendix9 says86000+31400; James text says140000 total; do not reconcile silently
+source_conflict,S0,1814,voted_total,117400,117400,persons,JB,year1814:months7,7 lunar months in the specified vote; no dates invented; not actual borne; Appendix9 says86000+31400; James text says140000 total; do not reconcile silently
+observation,S0,1814,voted_seamen,74000,74000,persons,JB,year1814:months6,6 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1814,voted_marines,16000,16000,persons,JB,year1814:months6,6 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1814,voted_total,90000,90000,persons,JB,year1814:months6,6 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1815,voted_seamen,55000,55000,persons,JB,year1815:months3,3 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1815,voted_marines,15000,15000,persons,JB,year1815:months3,3 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1815,voted_total,70000,70000,persons,JB,year1815:months3,3 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1815,voted_seamen,70000,70000,persons,JB,year1815:months10,10 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1815,voted_marines,20000,20000,persons,JB,year1815:months10,10 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1815,voted_total,90000,90000,persons,JB,year1815:months10,10 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1816,voted_seamen,24000,24000,persons,JB,year1816:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1816,voted_marines,9000,9000,persons,JB,year1816:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1816,voted_total,33000,33000,persons,JB,year1816:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1817,voted_seamen,13000,13000,persons,JB,year1817:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1817,voted_marines,6000,6000,persons,JB,year1817:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1817,voted_total,19000,19000,persons,JB,year1817:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1818,voted_seamen,14000,14000,persons,JB,year1818:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1818,voted_marines,6000,6000,persons,JB,year1818:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1818,voted_total,20000,20000,persons,JB,year1818:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1819,voted_seamen,14000,14000,persons,JB,year1819:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1819,voted_marines,6000,6000,persons,JB,year1819:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1819,voted_total,20000,20000,persons,JB,year1819:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1820,voted_seamen,15000,15000,persons,JB,year1820:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1820,voted_marines,8000,8000,persons,JB,year1820:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1820,voted_total,23000,23000,persons,JB,year1820:months13,13 lunar months in the specified vote; no dates invented; not actual borne
+source_conflict,S0,1814,voted_total_James_prose_7months,140000,140000,persons,J1814text,volVI1902 p116; edition title and text actually read,Conflicts with Appendix9; not independent source
+observation,S0,1821,voted_seamen_boys,14000,14000,persons,JB,year1821:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1821,voted_marines,8000,8000,persons,JB,year1821:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1821,voted_total,22000,22000,persons,JB,year1821:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1821,actually_borne,24937,24937,persons,JB,year1821:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1821,naval_supplies_granted_Benyon,6391902,6391902,nominal_GBP,JB,year1821:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1822,voted_seamen_boys,13000,13000,persons,JB,year1822:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1822,voted_marines,8000,8000,persons,JB,year1822:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check

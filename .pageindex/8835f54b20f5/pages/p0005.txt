@@ -1,0 +1,51 @@
+3290                        THE AMERICAN ECONOMIC REVIEW                DECEMBER 2011
+
+
+
+guilds were abolished (Blanning 1983), paving the way to a relatively free labor
+market. Equally important were the legal changes. For example, the French created
+a commercial court in Aachen in 1794 and followed with similar courts elsewhere in
+the Rhineland (Jeffry Diefendorf 1980), which were to play an important role in the
+creation of commercial and industrial businesses in the years to follow.
+   Although Napoleon was an Emperor seeking to solidify his control, ruthlessly
+when necessary, he nonetheless continued to implement the reforms initiated by the
+revolutionary armies (see Grab 2003; Owen Connelly 1965; J. Stuart Woolf 1991).
+Napoleon saw the imposition of the civil code (Code Napoléon) in the areas he con-
+trolled as his most important reform (Martyn Lyons 1994). Kisch emphasizes the
+economic importance of this (1989, p. 212): “When the many strands of commercial
+legislation were subsequently consolidated in the Code Napoléon, the Rhineland
+(on the left bank) was not only given a most up-to-date legal framework, but also
+a system of government in close harmony with the needs of a buoyantly industrial-
+izing society.” The Rhineland was transformed from an oligarchy-dominated area
+to one open to new businesses and new entrants. Similar reforms were also system-
+atically introduced into the German satellite kingdoms, such as the Kingdom of
+Westphalia, and the Grand Duchy of Berg.
+   In practice, Napoleon’s institutional legacy outside of France is complicated,
+especially since he was more inclined to compromise with local elites at some times.
+Nevertheless, in most places there was a genuine attempt to continue and deepen
+the reforms brought by the Revolution. The motivations for these reforms seem to
+have been several. First, Napoleon had been deeply involved with the reforms of the
+revolutionary period and shared the ideological commitment of the early reformers.
+Second, like them, he wished to build a series of buffer states around France. Finally,
+reforms such as abolishing the political control of the elite, feudal privileges, and
+introducing equality before the law undermined existing elites and made it easier for
+Napoleon to establish control over the areas he conquered.
+   After the final collapse of Napoleon in 1815 the institutional reforms implemented
+over the previous 25 years suffered various fates. In the Rhineland, whose largest part
+was assigned to Prussia as a consequence of the Congress of Vienna, the new local
+elites successfully fought to preserve French institutions, such as the civil and com-
+mercial codes. Prussia itself was inclined to continue on the path of reforms begun
+under French rule (see Herbert A. L. Fisher 1903). The presence of a new elite created
+by the reforms and determined to hang onto them was a key factor. In other places,
+where the old ruling dynasties returned to power, such as in Hanover, Brunswick,
+and Hesse-Kassel, most reforms were rolled back. A return to the status quo ante
+was functional to the rulers’ need to rely on ancien régime institutions to support
+their claim to power. In our econometric analysis in Section IV we specifically code
+reforms throughout the nineteenth century to examine this issue empirically.
+
+                                       II. Data
+
+                               A. Outcome Variables
+
+  We consider 19 distinct preunitary polities in Germany, which represent either
+independent states in nineteenth-century Germany, or provinces of larger states

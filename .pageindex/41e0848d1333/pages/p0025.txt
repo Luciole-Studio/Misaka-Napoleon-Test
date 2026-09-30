@@ -1,0 +1,66 @@
+Weingast (1990) emphasized the role of the medieval merchant courts for the evolution of interpersonal
+
+exchange, De Long and Shleifer (1993) those of constraints on the executive for city growth and more
+
+recently Cantoni and Yuchtman (2012) show that legal training in Universities and subsequent evolution
+
+of legal institutions was causing greater market activity in medieval Germany. Closest to this paper is
+
+of course Acemoglu et al. (2011), who established a relation between the Napoleonic institutions and
+
+urbanization rates. I use the share of people working in trade related jobs, such as goods or money
+
+trader, as a proxy for trade in mid-19th century Prussia. Trade, however, only measures the last step
+
+of the production chain and therefore underestimates economic cooperation. To capture broader effects
+
+on economic interaction, I include additionally employment in factories and craft. Trade, manufacturing
+
+and craft professions naturally require not only a high degree of cooperation and trust, but they also profit
+
+the most from a third party enforcement institutions.
+
+As work-related cooperation increases, cooperation outside the workplace should be affected, too.
+
+Outside-workplace cooperation basically includes all cooperative actions outside professional activities
+
+that do not have the aim of an (immediate) economic payoff. This includes the participation in associa-
+
+tions, or other forms of voluntary or political engagements characterizing an active civil society.32 Three
+
+main forms of associations existed in 19th century Prussia. Those were the singer clubs, the gymnasts,
+
+and the shooters (often jointly referred to as the “cloverleaf”) (Klenke, 1998, p. 20). Those clubs were
+
+engaged in all kinds of community life, especially important for organizing big folk festivals (Klenke,
+
+1998, p. 20). The markmen’s festival (Schützenfest), organized by the shooters were attracting some-
+
+times hundreds of people. Data is available for two of the three kinds of associations, used as a proxy
+
+for social capital in the 19th century. In particular, I look at the number of gymnast clubs in a cross-
+
+section of Prussian counties. Gymnast clubs have another interesting feature I will make use of. Besides
+
+being a sports association in which people where doing gymnastic exercises, they were also providing
+
+a public good, as volunteer gymnast fire departments (Turnfeuerwehren) were created out of them. As
+
+such they are the predecessors of contemporaneous volunteer fire departments. Since gymnasts were
+
+in good shape, they were best suited to do the demanding job of a firemen at that time, which required
+
+to run the hand-operated fire-engine and climbing into houses. Thus, many gymnast clubs created fire
+
+departments where members worked voluntarily as firemen. The second data set being used is listing
+
+the foundation of shooting associations from 1700 to 1900 for each county in the two Prussian provinces
+
+Rhineland and Westphalia. I will analyze the development of shooting associations in the neighboring
+
+   32 Associational membership has been used in several contributions to proxy for contemporaneous and historical levels of
+
+social capital. The idea that social capital can be measured by the degree of associational activity goes back to Putnam (1994)).
+
+
+                                                              23

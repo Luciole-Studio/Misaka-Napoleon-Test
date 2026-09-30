@@ -1,0 +1,62 @@
+m7 P. B. TETLOCK AND A. BELKIN
+
+‘COUNTERFACTUAL MORALITY TALES
+
+Mental simulations can compel people to acknowledge embarrassing or even
+shameful inconsistencies in theit application of moral rules. The paradig-
+matic example is the identity-substitution thought experiment that manipu-
+lates either the perpetrator or victim of a deed and asks the audience to
+contemplate whether they had the same emotional reaction to what actually
+happened as they would have had to various hypothetical events. For in-
+stance: “If Bosnians were bottlenosed dolphins [Rwandans white, Chech-
+nyans Lithuanians .. . ], we never would have tolerated the slaughter of
+innocents so long.” Insofar as the audience detects a discrepancy in their
+reactions to the two scenarios, and insofar as the audience firmly believes
+that the mentally manipulated cause should be irrelevant, the audience will
+deem the discovery of a differential emotional reaction to be a disturbing
+fact about themselves. Moreover, the thought experiment is easily translated
+into an actual experiment. For example, survey researchers often perform
+actual identity-substitution experiments to gauge the influence of “socially
+undesirable” causes of policy preferences that, it is assumed, people would
+not be willing to acknowledge if they were asked directly (Sniderman,
+Brody, and Tetlock 1991),
+
+COUNTERFACTUAL CONSISTENCY PROBES
+
+Here the mental simulation reveals contradictions between causal beliefs that
+may have previously coexisted peacefully within a belief system. The para-
+ddigmatic example is the syllogism that traces through the logical implica-
+tions of one set of beliefs to the point where the contradiction becomes
+undeniable. For example:
+
+If you really believe that there is so much indeterminacy at the micro level (bat-
+tles, firms, bureaucratic subunits of government), you cannot plausibly argue for
+so strongly deterministic a position at the aggregate or macro level (wars, econ-
+‘omies, government decision:
+
+If you commit yourself to an extreme structural-realist position that denies any
+significant causal role to domestic politics in shaping properties of the international
+system, then you would have to believe that even if the Soviet Union had been a
+democracy in 1945, the Cold War would still have occurred.
+
+‘The thinker then has the dissonance-reduction options of changing one or
+both sets of beliefs, introducing new cognitions that neutralize the contradic~
+tion, or disengaging from the simulation exercise by simply ignoring the
+contradiction (cf. Abelson 1959; Festinger 1957).
+
+It is important to be explicit about the likely long-term impact of repeated
+counterfactual-consistency probing of expert belief systems. Certain belief
+
+COUNTERFACTUAL THOUGHT EXPERIMENTS 15
+
+systems are much more vulnerable to this type of conceptual challenge: spe-
+cifically, belief systems organized around strongly deterministic claims (if x,
+then y must occur) and strongly exclusionary claims (x and only x influences
+y). The greater vulnerability can be traced to the greater ease of generating
+and justifying “could” versus “would” counterfactuals. A “could” counter
+factual merely requires showing that there is at least one plausible story
+about a possible world in which x did not automatically lead to y or in which
+some other cause, 2, also influenced y. By contrast, an unqualified “would”
+counterfactual requires showing that an outcome would have occurred in all
+possible worlds that pass some threshold of plausibility. ‘The burden of proof
+is obviously much higher in the latter case.

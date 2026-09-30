@@ -1,0 +1,93 @@
+
+
+<<<PDFPAGE 138>>>
+120 
+The Anatomy of a Research Project 
+come up with more names: it is impossible to establish exactly how 
+many guerrillas took the field against French, but estimates for the total 
+number in action have ranged up to 50 000, whilst a list of 22 partidas 
+that was published in various Spanish newspapers in 1812 claimed that 
+in October 1811 these alone amounted to 38 520 combatants.° In the 
+third place, it could not but be felt that the selection of the material was 
+random in the extreme: garnered in the pursuit of an entirely different 
+project, it was determined not by considerations that were germane to 
+itself, but by the dictates of what was required for the elaboration of 
+Guerrillas, Bandits and Adventurers (for this reason it would be absurd to 
+attempt to draw conclusions from it with regard to, say, the geographical 
+origins of the guerrillas). In the fourth place, there were many sources 
+which had of necessity been left untapped, a good example here being 
+Spain’s many municipal archives. And, last but not least, studying the 
+guerrillas suggested that there were many questions that might be 
+illuminated by a more extensive database: one possibility, for example, 
+would be to cross reference known guerrillas with the names of those 
+executed for banditry after 1815, whilst a second might be to compare 
+the social base of the guerrillas with that of the regular army. 
+To pursue these goals, however, would clearly be quite impossible 
+without the aid of dedicated research assistance, and to this end from 
+the autumn of 2000 onwards, application was made to a variety of 
+funding bodies in the hope of obtaining the necessary support. In May 
+2002 these efforts paid off, the Arts and Humanities Research Board 
+awarding the current author a grant of £51 000, of which the chief 
+purpose was the employment of a Spanish research assistant. Initially, 
+funding was sufficient only for one year, but a further grant of approxi- 
+mately £19 000 has since been obtained from the British Academy. 
+Work therefore continued until the summer of 2004, and the findings 
+of the project are shortly to be made available to the academic community 
+by means of the internet, all that remains to be said at this point in 
+proceedings being to thank both the Arts and Humanities Research 
+Board and the British Academy for their generosity, not to mention the 
+many scholars in both Britain and Spain who have given ‘Guerrillas and 
+Bandits’ their advice and support. 
+Let us now turn to the question of ‘nuts and bolts’. The starting point 
+for any database is that it should be accessible and easy to manipulate, 
+in which respect matters are greatly facilitated by the widespread avail- 
+ability of Access and Windows. Such is the dominance of these products 
+that there was no need to consider any other system, and the bulk of the 
+designers’ attention has therefore been directed more towards achieving 
+
+<<<PDFPAGE 139>>>
+Charles J. Esdaile and Leonor Hernandez Enviz 
+121 
+the greatest possible degree of coherence in the construction of the 
+database, in which respect particular attention was paid to, first, considering 
+the sort of information that might be gathered on the subject of the 
+Spanish guerrillas, and, second, rationalizing the headings under which 
+it would be entered. With this in mind, especial heed was also taken of 
+the likely purposes for which the database might be used by future 
+research projects. In the short term, meanwhile, it was agreed that the 
+basic questions which the database should address were essentially 
+two-fold. First of all, there was the issue of ‘quantity’. How many partidas 
+existed? How many men fought in them? How frequently were they to 
+be encountered? In what areas did they operate? Secondly, there was 
+that of ‘content’. Who joined the guerrillas? How old were they? What 
+were they? Were did they stand with regard to issues of politics? And, 
+finally, there was that of ‘activity’. For how long was each partida active? In 
+what actions did they fight the French? How many men could they 
+muster at various moments of their existence? In addressing these ques- 
+tions, however, it was obvious that many difficulties would have to be 
+faced. The documentation, for example, is extremely fragmentary, whilst 
+much of the information that is required is not usually recorded: indeed, 
+we generally only have full details only of a small number of very 
+prominent figures. Given these problems, it might have been thought 
+that one solution would have been to reduce the number of questions 
+to be asked in respect of each individual to a bare minimum, but this 
+temptation was resisted: as research continues, there is always the hope 
+that the gaps might gradually be filled as fresh information becomes 
+available or fresh archives are tapped, and it was therefore be judged to 
+be much better at least to create the option of adding such material 
+rather than to preclude all chance of doing so right at the beginning of 
+the project. It will further be noted, meanwhile, that the scope of the 
+database 
+is much wider than that of the primitive 
+‘pilot’ model 
+developed in the period 2000-02, the new model being designed so that 
+it can accommodate not just armed civilians, but also the militias, 
+home guards and regular troops who took part in /a guerrilla alongside 
+them, the object here being first to spread the net as wide as possible in 
+terms of information gathering and second to enable scholars to draw 
+sociological comparisons between different aspects of resistance to the 
+French. However, that said, it will further be noted that great care has 
+been taken to keep the ‘true’ guerrillas separate from other combatants 
+in the struggle. 
+Before moving on to a discussion of material that has been entered 
+into the database, it is worth highlighting two other issues that have 

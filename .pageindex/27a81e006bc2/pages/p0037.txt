@@ -1,0 +1,43 @@
+Not only is predictability of inflation under the gold standard restrained to long term
+evolutions.35 Forecasting inflation gets even thornier when the probability of resumption
+at the pre-war parity is not equal to one. To make things even worse, it is likely that
+the probability of resumption varies with the length of convertibility suspension and so
+induced inflation, since its deflationary counterpart comes at increasing economic and
+political costs.
+
+
+Thus, any meaningful forecast of inflation under the gold standard hinges on the probabil-
+ity of resuming convertibility at the pre-war parity. This, in turn, reflects the probability
+that average rates of inflation will equal zero at the time of resumption. The timing of
+resumption and the inflationary overhang, finally, allow forecasting the scale of deflation
+to come.
+
+
+It’s all about Anticipated Inflation
+
+
+In the following, I examine the yields’ variance under different monetary regimes (the
+gold standard and its suspension, i.e. a commodity and a fiat currency regime) and
+different states of the world (peace and war). In particular, the yield series is partitioned
+into four segments: peace under the gold standard, war under the gold standard, peace
+during the suspension and war during the suspension.36 To pin down the part in the
+variance of consols that is attributable to this segmentation or treatment, I conduct an
+analysis of variance (ANOVA). This procedure is in spirit and, under certain assump-
+tions on the residuals, in practice close to difference-in-difference estimation (Iversen and
+Norpoth, 1987).
+
+
+Mean yields for every segment are presented in table 3. The means are significantly
+different from each other.37 In the following, I test whether the differences in means
+are accounted for by the way the series is partitioned. To do so, the variation be-
+tween means can decomposed following equation 4. Here SStotal equals the total sum
+  35
+       Recall what Keynes said about this horizon.
+  36
+       The minimal segment size for this partitioning is of 49 observations, ensuring the validity of the test
+procedure.
+  37
+     These results are based on a host of tests, including those allowing for unequal sample variances.
+
+
+                                                      35

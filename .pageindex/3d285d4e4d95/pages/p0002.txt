@@ -1,0 +1,23 @@
+
+
+网页紧接原句：
+> Actual Money collected from the General and Special Funds was only: 763,191,462 francs.
+
+其前法文说明（网页抓取缺重音，照录）：
+> Les recettes faites pendant l'an 12, sur les exercices antrieurs l'an 10, sont trs-considrables; c'est parce qu'en l'an 12 seulement les acquits reprsentant les avances faites par l'administration de l'enregistrement pendant les annes 7, 8, et 9, pour frais de justice, dpenses des prisons, etc., ont t verss pour comptant au trsor, et rgulariss par les ordonnances des ministres comptens. Ainsi, sur le total des recettes provenant des fonds gnraux, sur tous les exercices, il fait dfalquer les recettes fictives indiques ci-dessus, et reprentes par des rcpisses du cassier des recettes; savoir:
+
+【毛净口径】说明称早年预付的司法、监狱等费用，到 An XII 才以凭据作为现金入账；须从一般收入中扣除这些虚记收款。这是对会计虚记款的调整，不能自动解释为扣除征税成本后的“税收净额”。本表还包括非税及非常收入。
+
+【核算及内部矛盾】
+- 811,040,466 + 44,142,072 = 855,182,538（与原网页相符）。
+- 855,182,538 + 33,333,456 = 888,515,994（与原网页相符）。
+- 30,209,532 + 17,639,472 = 47,849,004。
+- 811,040,466 − 47,849,004 = 763,191,462。因此网页所谓 General and Special Funds 的“实际收入”数字，算术上只对应一般收入扣除虚记款，并未包含44,142,072特别收入。
+- 如对一般与特别合计扣除同两项，结果为807,333,534；这是核算值，**不是史料明载数字，不得替换原句**。
+
+### 2.3 出处层级
+两网页将来源列为：Ferrire [网页如此拼写], Alexandre de, chef du bureau de statistique au ministre de l'Interieur, ed., Archives statistiques de la France: Juin/Juil. 1804–Dc. 1804/Janv. 1805, Paris: Archives Statistiques de la France, 1805。
+**本次仅实际读取 Napoleon Series 的网页转录，经其转引该书；未读取1805年原印本，网页未提供纸本页码。** 未查询或读取 Gaudin / Marion IV。
+
+## 可用边界
+可引用本次恢复的第二候选网页表，并同时保留校勘警告；不能用它填补 Gabillard p.557，也不能把 An XII 与 An XIII 混同。主缺口仍在：p.557 原图、行标签、两年逐格数字及准确毛净/疆域口径。

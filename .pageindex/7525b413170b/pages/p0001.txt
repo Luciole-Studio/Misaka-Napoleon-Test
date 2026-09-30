@@ -1,0 +1,30 @@
+---
+source_url: "https://www.persee.fr/doc/rhmc_0996-2743_1906_num_8_3_4505"
+final_url: "https://www.persee.fr/doc/rhmc_0996-2743_1906_num_8_3_4505"
+provider: "exa"
+text_sha256: "3447444c9a61da49365b2ba073b77f6db5fc69e0ad3c6c68c25fce3d53c0d48f"
+title: "Napol\u00e9on et la paix en 1813, \u00e0 propos du dernier volume d'Albert Sorel - Pers\u00e9e"
+content_kind: "page_text"
+---
+
+Napoléon et la paix en 1813, à propos du dernier volume d'Albert Sorel - Persée
+
+#### [article]
+
+ J.-E. Driault 
+
+ Driault J.-E. Napoléon et la paix en 1813, à propos du dernier volume d'Albert Sorel. In: Revue d'histoire moderne et contemporaine, tome 8 N°3,1906. pp. 177-199.
+
+### Texte intégral
+
+ Napoléon et: la paix en 1813, à propos du dernier volume d'Albert Sorel 1
+
+ La mort de M. Sorel est une grande perte pour l'histoire napoléo¬ nienne. Mais son oeuvre en prend, par une sorte d'éloignement, un carac¬ tère plus imposant, et la critique se tournerait volontiers en hommage à l'égard d'un des maîtres de notre école historique. Cependant, le devoir premier est d'apprécier cette œuvre en toute sincérité et en toute justice, d'autant plus que le dernier volume de L'Europe et la Révolution française, fidèle à toute la thèse de l'ouvrage, en souligne jusqu'à l'excès les résul¬ tats et en fait saillir les défauts.
+
+ On sait la thèse de M. Sorel2. Elle est toute dans la question des limites : le jour où la Convention conçut et réalisa la politique des fron¬ tières naturelles, elle souleva l'Europe contre la France ; les grandes puis¬ sances, et notamment l'Angleterre, ne voulurent jamais consentir à cette grandeur nouvelle ; la coalition européenne ne cessa pas réellement pen¬ dant vingt ans, et Napoléon fut obligé de se battre toujours pour sauver les limites de la France révolutionnaire; il fut jusqu'au bout en état de légitime défense, et l'Europe en état de continuelle agression. Cette thèse paraît triompher ici plus encore que dans les volumes précédents, et M. Sorel s'efforce d'établir qu'au lendemain de la retraite de Russie, «l'Europe » posa aussitôt la question des «anciennes limites », et que ce fut enfin pour elle le moment attendu depuis vingt ans. Là est le princi¬ pal intérêt de ce dernier volume. La question est d'importance capitale ; et, comme elle est le fond de tout l'ouvrage de M. Sorel, nous laisserons de côté les observations de détail que pourrait comporter l'étude critique de ce livre; nous ne reviendrons pas longuement, par exemple, sur l'an¬ cienne discussion du rôle de Talleyrand à Vienne ; nous voudrions seu¬ lement examiner encore une fois, comme à propos du tome VII, l'argu¬ mentation de M. Sorel qui, selon nous, n'est pas décisive.
+
+ Revue d'histoire moderne et contemporaine. — VIII, 12
+
+ J.-E. DRIAULT
+
+ M. Sorel s'appuie dès le début sur un rapport de Nesselrode au tsar Alexandre Ier, décembre 1812 (Société d'histoire de Russie, tome XXXI), où il est dit qu'il ne convient pas de traiter avec Napoléon sur la base du statu quo, que la Russie n'a pas remporté cette immense victoire pour s'arrêter là, que le maximum des vœux que peut former le gouvernement russe serait que la France fût refoulée dans ses limites naturelles, c'est-à-dire entre le-Rhin, l'Escaut, les Pyrénées et les Alpes. M. Sorel note, avec raison peut-être, que le terme «limites naturelles » doit s'entendre des limites renfermées entre les Alpes, les Pyrénées, le Rhin et l'Escaut, c'est-à-dire des anciennes limites, sauf en ce qui concerne la Savoie du côté des Alpes. On pourrait d'ailleurs aussi bien interpréter ce terme par les bouches de l'Escaut, en y englobant la Belgique. Mais il est surtout néces¬ saire d'observer dès maintenant que ce point de départ de l'argumenta¬ tion de M. Sorel est fort insuffisant, que le rapport de Nesselrode n'a que la valeur d'une indication, d'un conseil, non pas celle d'un document diplo¬ matique, que ces prétentions exorbitantes ont pu lui être inspirées par la victoire remportée, parla haine encore toute chaude contre l'envahisseur, qu'il voudriit «arracher à la domination de la France le plus de pays possible », que lui-même avoue du reste que c'es" là un maximum sans doute inaccessible, et qu'il est permis par conséquent dépenser queNapo-léon pouvait encore sauver les frontières naturelles de la France, garder la ligne du Rhin comme celle des Alpes : là est tout le point de la discus¬ sion.

@@ -1,0 +1,22 @@
+
+
+---
+
+## §1 ①决策结构与政治制度
+
+【锚点】新西班牙的最高权力是**四个互不统属的机构**：总督（virrey，兼总司令与皇家国库总监）、墨西哥高等法院（Real Audiencia，十名 oidores、五名 alcaldes del crimen、若干 fiscales，1776 年起设 regente）、大主教区、以及墨西哥城市议会（Ayuntamiento）与商人行会（Consulado）。总督与 Audiencia 合议称 **Real Acuerdo**，须总督、regente、全体 oidores 与一名有声无票的 fiscal 同时在场才有效（INEHRM《El virrey Iturrigaray y el Ayuntamiento de México en 1808》，doc 41309a4dc88a，亲读）。
+
+【锚点】**1808 年危机把这四个机构劈成两半**：Audiencia 由半岛人主导，Ayuntamiento 由克里奥尔人主导。1808-07-15 Real Acuerdo 判巴约讷退位无效、拒不执行贝尔格公爵命令；1808-07-19 Ayuntamiento 决议以**卡洛斯四世**名义保有王国，síndico Primo de Verdad 与 Azcárate 提出"国王缺位则主权回归 pueblo"；1808 年 8–9 月开了四次 juntas generales（08-09、08-30、09-01、09-09），第一次会议记录被总督方修改，其余三次根本没有成文记录（UCA《Testimonios de una crisis》与 SciELO《1808: Albores del constitucionalismo mexicano》检索快照，**未取全文，标转引**）。
+
+【锚点】**1808-09-15 夜**，Gabriel Joaquín de Yermo 率约三百名武装半岛商人夺宫，囚禁总督 Iturrigaray；凌晨二时 Real Acuerdo 与大主教 Lizana 追认，立八旬的 Pedro Garibay 为总督；Azcárate、Primo de Verdad、Talamantes 同时下狱。官方《Gaceta de México》第 98 期称"noble pueblo mexicano"所为、"sin efusión de sangre"，次日 Garibay 即下令收回该期重印（Lizarza《Vindicación del señor Iturrigaray》转录，PIM-UNAM HYD I-279 检索快照）。
+
+【锚点·亲读 doc 41309a4dc88a 印 pp.54–59】**政变首领 Yermo 在政变当日的法律身份是一名 Consolidación 债务人。**该文逐项记载：①Iturrigaray 无权干预 Consulado 巴斯克派与山地派的轮值改选并以 **6,000 pesos** 罚款相威胁，Consulado 上诉印度院，该院撤销其命令并申斥"que en lo sucesivo se abstenga de semejante procedimiento sin dar lugar a quejosos escándalos"；②1805 年 Yermo 家族因肉类供应不足被市政罚款，随后斗牛场宰牛获准上市，打破其专营；③总督为疏干谷地、开新路而开征**肉类销售税与每桶烧酒 6 pesos 税**——"dos de los principales negocios de Yermo"，Yermo 激烈抗议，总督下令逮捕他，靠友人斡旋才免；④**Consolidación 追索**：Yermo 以本人及担保人身份负债 **200,000 pesos**，1806-01-13 被要求先缴 **131,200 pesos**；拒缴后当局下令查封其最值钱的 Temixco 庄园；他改与总督主持的 Junta Subalterna 议和——当场缴 15,000 pesos、余额九年分期；**至 1808 年 9 月他已缴清 86,000 pesos，官司即将以对他不利告终**，此时大西洋彼岸的消息到了。
+
+【锚点·同页】该文还给出两项本卡认为极重要的数字与定性：Iturrigaray "ya en 1808 había logrado recaudar **12 millones de pesos**"（**与 Marichal/Lavrin 表 4.2 的 1805–09 年 10,321,800 pesos 冲突，本卡登记为口径冲突，见 §20**），并因此获得"poco más de **setenta y dos mil pesos** a manera de comisiones"，Carlos María de Bustamante 称此"despertó un odio mortal contra el virrey"；作者的定性是"la Consolidación **sustrajo al mismo tiempo capital productivo de la agricultura, la minería, el comercio y la industria**"。同页还记：因 Consolidación 失去 capellanías 的教士大批投入起义，Brading 语——独立运动"obra casi propia de los eclesiásticos"；Allende 家族的 Domingo Allende 因 Consolidación 债务被查封庄园，破产而死于起义爆发前夕。
+
+【机制】**否决点的真实分布不是族群，而是被财政创新伤害的既得利益。**把上面四条并读，1808 年九月政变的因果链是可以逐格填满的：*补贴条约（1803）→ Consolidación 推广到美洲（1804）→ 总督为完成配额而追索大商人与教会债权（1805–08）→ 被追索者在王位危机中夺权（1808-09-15）*。**这条链的第一环在巴黎，最后一环在墨西哥城，中间没有一环需要"民族感情"。**
+
+【推演·中高置信】任何情景下，新西班牙的**政治否决点都不在"要不要独立"，而在"谁来动我的税和我的垄断"**。这推出三条可操作命题：
+- **命题 A（对 B4 三版的直接回答）**：马德里政权的国籍不是新西班牙服从与否的第一变量；**它能否保持"合法委托人 + 不加税 + 不动垄断"三件事**才是。波旁续任（B4b）在这三件上天然占优；波拿巴国王（史实）在第一件上归零；藩属化（B4c 的美洲外推）在三件上同时归零。
+- **命题 B（中置信）**：**Iturrigaray 若不被推翻，1808 年 9 月的墨西哥会得到一个"以缺位国王名义、由总督与王国代表共治的临时政府"**——即 1808 年 7–9 月四次 juntas 实际讨论的东西。这不是独立，但它会在两到四年内把"王国自有主权"写成惯例。政变恰恰终止了这条渐进路径，把争论推给了 1810 年的武装群众。
+- **命题 C（中低置信）**：1808 年九月政变是**新西班牙统治阶级自己烧掉自己合法性的行动**。八十岁的 Garibay 由一群商人立起来，此后任何"合法性"论证都可被反问"你们的总督是谁立的"。Hidalgo 1810 年的檄文不必论证国王无效，只需论证**现政权是篡夺**。

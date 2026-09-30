@@ -1,0 +1,16 @@
+# notes_court.md — 宫廷、决策结构与1807–08选项（SP1）
+
+约定：〔LP-G L####〕= downloads/SP1_LaParra_Godoy.txt 行号（Emilio La Parra López, *Manuel Godoy*, Tusquets 2002, ePubLibre版）；〔LP-F L####〕= downloads/SP1_LaParra_FernandoVII.txt 行号（La Parra, *Fernando VII. Un rey deseado y detestado*, Tusquets 2018）。EPUB无印刷页码，行号对应本卡转换文本；引文皆西语原文核录。上一轮资产：〔C5〕= nodes/r_b55f2c1cf5/cards/t_c2dbca/*；〔C1警报〕= nodes/r_b55f2c1cf5/cards/t_3dc3c2/bayonne_source_warning.md。
+
+## 1. 枫丹白露条约（1807-10-27）与附加军事协定（10-29）
+【事实】瓜分葡萄牙三份：北部"Lusitania Septentrional"（Entre-Douro-e-Minho含Oporto）给埃特鲁里亚王（实为摄政太后María Luisa，其子幼）；中部（Beira, Trás-os-Montes, 葡属Extremadura）留置至欧洲总和平，可能以之与英国换回直布罗陀、特立尼达等；南部"Principado de los Algarves"（Algarve+Alentejo）归Godoy，称"príncipe de los Algarves"。三国承认西班牙国王为"protector"，未经其同意不得宣战媾和。Etruria割让给法国；承认西班牙国王为"emperador de las dos Américas"；拿破仑保证西班牙国王比利牛斯山以南欧陆领土。附加协定：两国各出兵25,000步+3,000骑；西班牙负担法军给养；联军统帅由法军将领任，除非西班牙国王或Godoy亲征。〔LP-G L1800〕；英译节录另见downloads/pages/509e05c01d8a.md（Napoleon Series转录de Clercq II 235-236，"Emperor of the Two Americas…at the general peace or at the latest within three years"）。
+【事实】提出者归属：条约由Godoy的代理人Eugenio Izquierdo与Duroc在巴黎谈判；Godoy-Izquierdo的葡萄牙分治计划早于1806年已有（"planes sobre Portugal de Godoy-Izquierdo"，可能被Talleyrand与法使F. Beauharnais泄露）〔LP-G L1758〕。Fugier假说：拿破仑签约时或已考虑以葡萄牙换西班牙北部诸省；1807年9-10月法外交部收集埃布罗以北语言与统计情报〔LP-G L1802〕。
+【机制】La Parra判定：条约是拿破仑的全胜——"pasillo militar entre Bayona y Lisboa"使西军无法敌对行动〔LP-G L1802〕。
+
+## 2. 埃斯科里亚尔阴谋（1807-03起，10-27暴露）
+【事实】起点：1807年3月初，因卡洛斯四世健康恶化+Godoy两月前（1807-01）获"gran almirante de España e Indias"衔，费尔南多请Escoiquiz谋划"救他脱离暴君[Godoy]的罗网"。Escoiquiz本人称此为阴谋之始，"一切都是费尔南多的主动"〔LP-F L2434〕。
+【事实】联姻是阴谋核心议题。María Antonia de Nápoles死（1806-05）后再婚候选：María Teresa de Braganza（Beira公主）、巴伐利亚Carolina、Godoy妻妹María Luisa de Borbón y Vallabriga；Godoy 1806-11致Izquierdo信："Está tratado con SS.MM. y el Príncipe de Asturias el enlace de mi cuñada con S.A."（戈多伊家族联姻方案，提出者Godoy＋两王默许）；费尔南多先允后经Escoiquiz劝而拒〔LP-F L2450〕。
+【事实】Beauharnais（法使）主动介入：1807-08起在El Retiro与Escoiquiz密会，读Champagny（法外长）指令：要求亲王书面委任Escoiquiz为专使、并请求皇帝允其求娶法国女子。费尔南多未经国王许可亲笔写两信（Escoiquiz译法文），署期El Escorial 1807-10-11〔LP-F L2478〕。
+【事实】致拿破仑信内容：颂拿破仑为"el héroe mayor que cuantos le han precedido…"；求"una princesa de su augusta familia"为妻；自称将为皇帝"el hijo más reconocido y afecto"；声明未经父王知晓、抵抗任何其他婚配"con invencible constancia"〔LP-F L2488〕。→ 联姻请求提出者：费尔南多（起草）＋Escoiquiz（策划翻译）＋Beauharnais/Champagny（法方引导）。
+【事实】10-27夜文件移交王后；10-28亲王被禁足，22名随从被捕；10-30王家敕令公告"反对君主个人的计划"；费尔南多供出Escoiquiz、Infantado，乞恕；11-05敕令赦免亲王〔LP-F L2532, 2538, 1727-1737〕。1808-01-25法官判Escoiquiz、Infantado等无罪开释〔LP-F L1737〕。
+【事实·联姻请求的回应（falsifier关键）】Masserano（西使）11-04在枫丹白露递交卡洛�N四世信，拿破仑无评论；11-11递交卡洛斯11-03第二信（点名Beauharnais阴谋、其子未经许可致函皇帝、"毒杀王后"指控），拿破仑"entró en cólera del modo más visible y violento"；但11-13拿破仑致卡洛斯四世信断然否认收到亲王任何信件："ni directa ni indirectamente he oído hablar de él, de modo que sería cierto si dijera que ignoro si existe"。Izquierdo同日在枫丹白露遍询Duroc、Talleyrand、Champagny、Murat："No he oído a nadie que el emperador haya dicho…que toma bajo su protección al Príncipe de Asturias"〔LP-F L2570-2576〕。→【推断】拿破仑对联姻请求的同期回应=公开否认+不承诺保护；联姻从未被作为真实政策接受，仅在1808-02/03"cuestiones proponibles"中作为换取埃布罗割让的条件性诱饵复现（见§4）。

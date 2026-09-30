@@ -1,0 +1,31 @@
+# Notes — DBI/Treccani 传记与1814终局、达尔马提亚、圣赫勒拿回溯
+
+## 1. Prina（DBI vol.85, 2016, Stefano Levati）
+来源：`downloads/pages/1f3ae80c4f16.md`（treccani.it 全文抓取）。
+- 生1766诺瓦拉，公证人之子，帕维亚大学法学1787；萨伏依财政官僚出身（1798财政第一官员、摄政顾问；1798.10卖光王家任命的修道院与骑士团产业约7,000万）。
+- 1802-02-28入三人财政总局（Melzi设）；**1802-04-20（波拿巴本人建议）任财政部长，连任12年直到1814-04-20被杀**——与外长Marescalchi并列为仅有的两位全期部长。
+- 机构改革：1802–05裁员420人、部预算省10%；"benevoli consigli e minacciate punizioni"。
+- Melzi 1805年3月底交权时致拿破仑《Nota sugli attuali funzionari》："C'est le seul des ministres qui ait su organiser avec force son Ministère; on s'en ressent sur tous les points de la République…"（引自I carteggi di Francesco Melzi d'Eril, VII, Milano 1964, p.441）
+- 财政路线：**主要靠间接税增收**（不得罪possidenti=新国家的稳定基础）；扩展特蕾莎地籍到新领土；引入registro（登记税）与macinato（磨坊税）；盐烟专卖；**提议但未建成国家贴现银行**（Bachi 1937；Roberti 1940）。
+- 荣衔：1808.10伯爵、1809.12参议员、铁冠骑士团大员、荣誉军团；拿破仑视其为意大利国家唯一"homme essentiel"。
+- 大陆封锁："che non aveva condiviso e che probabilmente non approvava"（未认同、可能不赞成）。
+- **1814-04-20"giornata degli ombrelli"（雨伞日）：民众对税收的恨意被"以旧贵族为主、意在使欧仁登基新独立国家候选破产者"刻意煽动**（"abilmente alimentato da quanti – in prevalenza ex nobili – miravano a far naufragare la candidatura di Eugenio di Beauharnais a sovrano di un nuovo Stato cisalpino indipendente"）；Prina被私刑数小时打死，其邸被毁；**私人档案与财政部档案在暴乱中全毁**。
+- 书目谱系（列名未亲读）：Pecchio, *Saggio storico sull'amministrazione finanziera dell'ex Regno d'Italia dal 1802 al 1814*, Londra 1826（"imprescindibile"）；Zaghi 1986 pp.515–539；Grab 1997（罗马会议论文集pp.37–113）；Cova 2006；Meriggi, "Aprile 1814: Prina, Milano e l'Europa" (2014)；Bouchard & Crivelli (eds.), *La chute du Royaume d'Italie (1814) et la culture du Risorgimento*, Paris 2014。
+
+## 2. Melzi d'Eril（Enciclopedia Italiana 1934；DBI vol.73全文付费墙仅得署名Carlo Capra）
+来源：`downloads/pages/19f8ac6acdbd.md`。
+- 米兰60名世袭decurioni之一（21岁入选），Verri/Beccaria圈；1776英法游历；1783–87西班牙（母系西班牙贵族，有西班牙领地）。
+- 1796 Lodi后率米兰代表团见波拿巴；被雅各宾派短暂下狱又流放；1797入财政委员会；Rastadt代表：试图阻止意大利"una triturazione di stati sotto la speciosa forma di una catena di repubbliche separate"（以链状分立共和国之名把意大利碾碎）。
+- **1799-11-16自萨拉戈萨致波拿巴著名信件（"chiarezza di visione politica e vigore d'italianità"）**；1801年4月巴黎会谈：Melzi反共和制，视被法军撑起的Cisalpina为"mostro incompatibile col sistema d'Europa"；**梦想"una bilancia di stati monarchici"通往fusione unitaria；要求阿尔卑斯至阿迪杰一体、在法奥间起平衡、由独立亲王统治——而非"infeudato al bene di Francia"的波拿巴——且自订法律**。
+- 1802-01-26任副总统（虽几乎全票应得正职）；施政：压制省域主义、"uccidere il germe federalista"；重建官僚（跨旧邦录用）；军事精神与国防；**曾推动波拿巴兼并帕尔马-皮亚琴察（未果）**；财政信用重建；修路；蚕桑；1803协约。
+- 1805年降为掌玺大臣（cancelliere guardasigilli）；1807-12-20敕令封洛迪公爵（ArchiVista档案志，`lombardiarchivi.servizirl.it/creators/2663`）；1816-01卒于Bellagio。
+- 评价："Fu accusato di soverchia docilità ai voleri del Bonaparte. Difese però sempre con fermezza gl'interessi d'Italia anche di fronte al Murat."
+- 文献：G. Melzi, *Memorie-Documenti su F. M. d'E.*, Milano 1865（侄辈编，两卷）——列名，本轮未取全文。
+
+## 3. 欧仁1813–14（意/西语维基条目，三级来源；其书目指向Giuntella, DBI vol.7, 1970与Caduta del Regno d'Italia词条）
+来源：web搜索快照（it.wikipedia "Eugenio di Beauharnais"；es.wikiital同条译版）。**三级来源警示：具体日期须与Du Casse/Rath对校后方可冻结；本卡按"转引"标注。**
+- 头衔序列：1805-06-05副王；**1807-12-20威尼斯亲王**；1810法兰克福世袭大公（1813-02-05至1813-11-04实任）；1817 Leuchtenberg公爵。
+- 1813：5月5日离德、18日抵米兰；重建军队（俄役几乎全灭）约5万人；Villach/Feistritz初胜；Hiller压迫、莱比锡后退至阿迪杰线（11月6日）；Caldiero胜后阿迪杰线稳定。
+- **巴伐利亚岳父劝降：允诺"意大利王位"换背弃拿破仑——欧仁拒绝**；1814年1月拿破仑令其弃意大利回法（"l'invitation de Napoléon, en janvier 1814, d'abandonner l'Italie"）未执行（部分将领由此责其"叛"）；**1814-02-08 Mincio会战胜Bellegarde**。
+- 1814-04-06/11拿破仑退位；**04-16 Schiarino-Rizzino停战**；欧仁数日内仍望保王国王位；**04-17 Melzi（大法官）在参议院动议为欧仁向巴黎战胜国代表团请命，被独立派与亲奥派修改而流产**；**04-20米兰暴动：Senato consulente被解散、Prina被私刑**；欧仁次日得讯、"深感意大利人行为之苦涩"；**04-23签曼图亚新约**；26日（es版：退位）27日离意赴巴伐利亚。
+- **Confalonieri="20日暴动的主谋之一"（"una delle menti dietro alla rivolta del 20 aprile"）**；数周后在巴黎与欧仁相遇，各自游说战胜国；维也纳会议均告失败。

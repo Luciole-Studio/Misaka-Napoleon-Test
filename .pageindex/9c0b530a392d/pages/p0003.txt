@@ -1,0 +1,44 @@
+
+
+### S08 — 地方忠诚不是无条件服从
+Kevin Linch, “An ‘Unpleasant Dilemma’: The Portsmouth Volunteers and the Limits of Loyalism, 1803–1805”, *Journal for Eighteenth-Century Studies* 40(3) (2017):327–344，DOI 10.1111/1754-0208.12461。
+- 实读White Rose接受稿（不是最终排版）：https://eprints.whiterose.ac.uk/id/eprint/104015/3/The%20Portsmouth%20Volunteers%201803-1805%20article%20v2.pdf
+- `downloads/pages/f0bc4536ba86.md`；Introduction及Conclusion，后者约360–396行；增补定点读“Portsmouth and its volunteers”及注31–32、54–55相应正文。
+- “not a straightforward obedience to the government and its policies”。法律、地方身份、军民权界与个人名誉是动员条件；Lord Lieutenant作为中介。三分之一集合率是地方个案，不作全国折扣。
+- 注31–32：约6,600驻军含militia，Bolton提议志愿兵“by taking upon emergency the duty of the Garrison and charge of the works under proper command will liberate a very important portion of the regular force”。不是6,600全可抽调。
+- 注54–55：1803-08-07 Wight敌情信号后Portsea志愿兵实际集结；1803-11-03志愿兵接守Portsmouth使正规军外出演习。证明地方警报响应和守备替换，不证明全国48h/40k集中。均经Linch转引相应记录，本卡未亲阅原报或档案。
+
+### S09 — Cookson的机制，明确转引
+Peter Hicks, “The Militarization of Society in Georgian Britain and Napoleonic France”, *Napoleonica. La Revue* 2008/1:136–147，DOI 10.3917/napo.081.0006。
+- https://shs.cairn.info/article/E_NAPO_081_0006/pdf?lang=en
+- `downloads/pages/70b17e18323a.md`，文章内部PDF p.6，约155–179行。
+- 转引Cookson1997 p.82：“the volunteers starved the militia system, the militia starved the army and the army had negligible authority over the bulk of the country’s fighting men.”
+- 只支持竞争性兵役机制；本卡未直接取得Cookson有关章节，不编造其数值征募上限。
+
+### S10 — Walcheren病员约束
+Martin R. Howard, “Walcheren 1809: a medical catastrophe”, *BMJ*319(7225) (1999):1642–1645，DOI 10.1136/bmj.319.7225.1642。
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC1127097/
+- `downloads/pages/37f8d3b81593.md`，Summary、Onset of fever、Aftermath。
+- 约40,000远征；8月初病员<700、9月3日住院>8,000；60军官与3,900士兵病死的终期统计，不能理解为40,000全部阵亡。其“almost entirely destroyed”是作战能力修辞。
+- 混合疟疾/斑疹伤寒/伤寒/痢疾是作者回溯性医学鉴别，非1809确诊。数值部分经McGuffie、Brett-James等转引；与Linch伤病数据不是完全独立的病人样本。
+
+### S11 — 葡萄牙远征概述
+National Army Museum, “Peninsular War”。
+- https://www.nam.ac.uk/explore/peninsular-war
+- `downloads/pages/4527c0ed78cb.md`，Intervention、Talavera、Torres Vedras、Salamanca各节。
+- 1808年8月Mondego登陆14,000；1812 Salamanca 48,600是盟军不是英国单一国籍兵。军事博物馆综合叙述不替代逐日卸载返回表，部分西班牙政治日期简化，不用来定王位危机日期。
+
+### S12 — Moore与选择性训练改革
+National Army Museum, “John Moore: Alone with his glory”。
+- https://www.nam.ac.uk/explore/john-moore
+- `downloads/pages/b94d05580380.md`，“Light infantry”。
+- “light infantry tactics were taught to selected units including the 43rd, 52nd and 95th Rifles”。选择性改革不等于全军立即同质化。该页对运河/民兵的个人英雄归因不采用，工程责任以S05/S06为准。
+
+### S13 — 和平财政下保留军队骨架的同时代争论
+HC Deb, 4 March 1822, vol.6 cc.895–914, “Army Estimates”。
+- https://api.parliament.uk/historic-hansard/commons/1822/mar/04/army-estimates
+- `downloads/pages/8a72a0c14aa6.md`。
+- Palmerston cc.895–897：裁12,304，选择减团内连队而非尽数撤团，避免破坏海外轮换；动议68,802 all ranks，明确排除东印度公司领地服役王家军团。
+- cc.902–903：waggon-train保留“a mere nucleus, on which to form an effective corps when necessary”。
+- Davies、Hume主张减更多团/军官，反对空骨架昂贵；双方是不同军制取舍，不是双方说法均已证实。
+- c.905将militia/volunteer/marines/artillery视为通常陆军数以外的添加项，故68,802不能写为包含一切兵种与驻印军的帝国总军力。

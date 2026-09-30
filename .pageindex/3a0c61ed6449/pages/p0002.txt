@@ -1,0 +1,19 @@
+
+
+---
+
+## 四、综述与工具（C，不单独承重）
+
+- encyclopedia.com："Military Forces from 1690 to 1800"（1798年前夕逾42,000、夏季近70,000、民兵30,000、义勇军20,000→50,000）；"United Irish Societies from 1791 to 1803"（阿尔斯特38,567→69,190→117,917；1798年宣称300,000）；"Origin of the Catholic Rent"。
+- Society of United Irishmen 条目（1798年初280,000宣誓）。
+- Clare Libraries Local Studies 与 1828 County Clare by-election 条目（2,057:982）。
+- rodwargaming 页（1802–15英军编制；提示爱尔兰编制档案多毁于都柏林城堡火灾）——仅作档案状况提示。
+
+---
+
+## 五、非英语来源与可复核性说明
+
+- 本卡直接使用的法语材料：Carles 1976（Persée，经D5缓存，上一轮已核）；拿破仑通信编号与法文原句经 A1／D1 转录，**未取得《Correspondance》原卷页面影像**。
+- 未取得爱尔兰语／盖尔语一手材料；农村秘密社团的口述与歌谣传统本轮未纳入，属自认缺口。
+- 未取得西班牙语／德语对照材料（本卡无需）。
+- **整体判断**：本卡的法方数字链条高度依赖 Desbrière 的两条转引路径（W&B 1908 与 Carles 1976），这是本卡最大的单点依赖；红队应优先抽核此处。爱尔兰社会与经济链条（Hansard／Ó Gráda／Vanhaute／Donnelly／History of Parliament）相互独立，稳健性较高。

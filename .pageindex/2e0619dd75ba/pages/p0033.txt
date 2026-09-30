@@ -1,0 +1,20 @@
+
+
+2. An indicator variable for external default (DEFAULTjt) from the Reinhart-Rogoff database (1800-1899) and from which we were able to match 539 observations in our dataset across destinations and years. Only nine of these observations are equal to one.
+
+3. An indicator variable for gold standard adoption (GOLD_ST RDjt) from the Meissner database (1850-1899) and from which we were able to match 474 observations in our
+
+A14
+
+dataset across destinations and years. While roughly one-third of the observations are equal to one, this variable is also highly correlated with the indicator variable for the British Empire. 4. The logged ratio of customs revenue-to-import values as a proxy for tariffs ln(T ARIFFjt) from the Williamson database (1869-1899) and from which we were able to match 87 observations in our dataset across destinations and years.
+
+Overall, there are fewer than 50 observations across destination-years where there are overlapping observations across all four control variables. Nevertheless, we merged these with our data on exports by SITC division and were able to obtain the estimates reported in Table A7. The results in column (1) of A7 are obtained with our main specification (PPML with division-year fixed effects) and all new control variables. Four things stand out. First, the number of observations for the new analysis is less than 2% of our full sample. Second, we cannot obtain estimates of the effects of war and external default for the simple reason that Britain was not at war in the period from 1869 to 1899 nor were there any episodes of external default in our sample. Third, the estimates of the original variables in our model have the expected signs with three of them being statistically significant (Empire is the exception). Finally, as expected, we obtain a positive and significant estimate for gold standard adherence and a negative but statistically insignificant estimate for financial crises. However, our estimate for tariffs is positive, albeit very small in value and statistically insignificant.
+
+The limited number of observations likely explains some of the (non)results in column (1) of Table A7. Therefore, in column (2) of this table, we only retain gold standard adherence as a control variable as this allows us to extend the analysis to a larger set of destinations and back to 1850. Accordingly, the number of observations in column (2) increases significantly, but it is still less than 25% of that of our full sample. Despite this limitation, all estimates in column (2) have the expected signs, plausible magnitudes, and statistical significance. To gauge the independent contribution of the gold standard, we use the same sample from column (2) but exclude the associated indicator to obtain the results in column (3) of Table A7. While we observe some small differences in the magnitudes of coefficient estimates between columns (2) and (3), they are not statistically different from each other.
+
+A15
+
+| EMP IREjt | 0.355 | | 0.796 | | | 0.931 | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | (0.280) | | (0.177)∗∗∗ | | | (0.161)∗∗∗ | | |
+| ln(GDPjt) | 0.585 | | 0.645 | | | 0.623 | | |

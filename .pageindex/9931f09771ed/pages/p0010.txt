@@ -1,0 +1,45 @@
+                                                  -8-
+
+p* is the vector of world prices, B is any net transfers or borrowing from foreigners, and ‘@’
+
+denotes the inner product. Equation (2) states that the value of consumption is equal to the value
+
+of production plus tariff revenue -- represented by (p1 - p1*)@m1 -- plus transfers. As Grinols and
+
+Wong show, the change in welfare can be rewritten as:
+
+(3)                     )W = (p1 - p1*)@(m1 - m0) + (p1* - p0*)@(- m0) + (B1 - B0) + sC + sP,
+
+where the terms sC and sP represent the substitution effects in consumption and production as a
+
+result of the change in relative prices. Specifically, sC = p1@x0 - e(p1, u0) and sP = p1@(y1 - y0), and
+
+these substitution effects are non-negative (sC $0, sP $0) if price-taking consumers optimize
+
+subject to a budget constraint and price-taking producers maximize profits. Equation (3) can
+
+also be rewritten in terms of domestic prices as:
+
+(4)                             )W = (p1 - p1*)@m1 + p1@(- m0) + B1 + sC + sP.
+
+        In the case where there are no international transfers and where the embargo is
+
+completely effective (such that m1 is zero and the country is in autarky), this expression
+
+simplifies to three terms: p1@(- m0), sC, and sP. Figure 5 illustrates these three components
+
+graphically. The free trade situation consists of production at the point where the initial relative
+
+price line p0 is tangent to the production possibility frontier, and consumption at the point where
+
+p0 is tangent to the indifference curve U0. If all trade is eliminated, domestic prices become p1,
+
+where the utility level U1 is tangent to the production possibility frontier. The compensating
+
+variation welfare cost of eliminating trade and moving to autarky is represented by the distance
+
+between the indifference curves U0 - U1, evaluated at domestic prices p1.
+
+        Thus, the change in welfare is equal to the distance BC, i.e., )W = BC. This can be
+
+decomposed as BC = AD - AB - CD, where AD represents the value p1@m0, AB is p1@x0 - e(p1, u0)

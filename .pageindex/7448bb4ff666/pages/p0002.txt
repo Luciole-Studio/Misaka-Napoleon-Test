@@ -1,0 +1,53 @@
+
+
+预算单位：当时英镑名义值。毛估算含ordinary salaries、half-pay、superannuation、造修、船坞改进、给养及运输部门、wages &c.；非单纯战斗舰队经费。人员：本表无逐年员额，不能据金额反推实员。
+
+【未验证/转录异常】1818年6,547,810−309,205应为6,238,605，而网页给6,138,605；不擅自改源表。No.4把1817海军写5,985,414，No.28为5,985,415；No.5的1820实际海军费用6,387,399与No.28的6,387,799差£400。冻结数据前须查扫描原表。估算年度与Annual Finance Accounts截至日期不能自动等同。
+
+## 5. 预算争论本身：旧物资、债务清偿、当年服务不能混并
+【事实：双方论证，非裁判其正确性】1822-02-27，HC Deb vol 6 cc783–800。
+https://api.parliament.uk/historic-hansard/commons/1822/feb/27/navy-estimates
+
+Hume：
+> In the 52nd page of that report it was thus entered:—"1817—Naval Estimates 5,985,415l."
+> The hon. secretary, not understanding the difference between the service of the year and the paying off of debts, had fallen into this error.
+
+Croker：
+> It had been ordered by an act of parliament that the old stores should be abated from the estimates, and taken as part of the ways and means of the year.
+> The hon. member, had omitted a paltry sum of 1,600,000l. granted within the year for the debt of the navy;
+
+预算口径：议会争论同时涉及毛额/抵扣旧物资、年度服务/旧债清偿，以及印刷估算索引与正文。不得挑一个£5.3m、£6m或£7.6m就声称是唯一海军支出。人员：无新员额；本条用于财务口径审计。
+
+## 6. 1815–21造修项目：不是新造舰支出
+【事实：转引Navy Estimates，No.32】1821-06-27，同第4条网址。
+
+> No. 32.—An Account of the SUMS Voted for the Wear and Tear of the NAVY, for the Ordinary Repairs, for Building, Rebuilding, and Repairing SHIPS of WAR, Hulls, Masts, Yards, Rigging, and Stores for His Majesty's Dock Yards, and also in Merchants' Yards, from 1815 to 1820 inclusive.—[Vide Navy Estimates.]
+
+|年|Wear and Tear|Ordinary Repairs|Building, Rebuilding, and Repairing…|Merchants' Yards, East Indies|合计|
+|---|---:|---:|---:|---:|---:|
+|1815|2,386,500|462,242|1,621,038|29,413|4,499,193|
+|1816|922,350|535,589|1,499,603|65,728|3,023,270|
+|1817|531,050|364,625|1,076,277|63,000|2,034,952|
+|1818|559,000|310,000|1,170,990|60,000|2,099,990|
+|1819|533,000|310,000|1,085,430|60,000|1,988,430|
+|1820|612,953|310,000|1,062,580|80,000|2,065,533|
+|1821（表后续列）|586,300|310,000|1,014,580|80,000|1,990,880|
+
+预算定义：voted sums，不是造修工程实际现金结算；包含修理、维护、材料，不能直接除以新舰成本算下水量。1815仍有战争，Hume所谓“seven years of peace”不能按字面当历史时期划分。1820 wear and tear此表为612,953，与当年5月决议612,950差£3，保留未决。人员：无船工或海员人数。
+
+## 7. 1821船坞资本承诺：当年拨款不等于全部完工成本
+【事实：转引Navy Estimates of 1821，No.35】1821-06-27，同第4条网址。
+
+> No. 35.—Estimates of SUMS wanted to complete WORKS carrying on in the different DOCK YARDS.—[Vide Navy Estimates of 1821.]
+> Total Estimate to complete Work. | Of which will be wanted in 1821
+> 1,679,545 | £.424,648
+> To be expended in future Years to complete the Works | 1,254,897
+
+预算口径：在建船坞工程完工所需估算£1,679,545，含当年£424,648，未来£1,254,897；不是额外三项可相加的三笔独立支出。Jamaica、Kingston Canada、Trincomalee完工成本写“Uncertain.”，但1821额度分别£15,000、£10,000、£20,000；故总表有未量化承诺。人员：无人数。Plymouth栏完工5,636却当年7,236，亦待影印核对。
+
+## 8. 复员后舰体保有不等于在役；保留技能的选择依赖预期
+【事实：Hume表与意见分别标记】1821-06-27，同第4条网址，No.31。
+
+> SHIPS of WAR in COMMISSION and in ORDINARY, in each of the following Years, as stated in Returns laid before Parliament.
+
+1821总行：in commission 119；in ordinary 582；合计701。第一、二、三级在役分别2、2、14，在ordinary分别23、22、97（皆按网页表，不把全部701艘说成战列舰）。

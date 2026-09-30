@@ -1,0 +1,36 @@
+      Number, Size and Energy Consumption of Draught Animals in
+                        European Agriculture
+
+                                  Working Paper, March 2009
+
+                             by Astrid Kander (University of Lund)
+                           and Paul Warde University of East Anglia)
+
+
+This paper provides information on the number of draught animals of various kinds that
+were used in agriculture in Europe during the nineteenth and early twentieth centuries, and
+the sources and assumptions we have used in making our estimates. Tables provide animal
+numbers in thousands for each country at benchmark dates.
+
+The aim of the paper is to provide a methodological approach to assessing the availability of
+draught power over time, and an explanation of how the available statistical information
+from various European countries can be employed to this end. This paper will be linked to a
+more detailed analysis of the role of draught power in raising agricultural output and factor
+productivity in European agriculture in the period 1800-1914.
+
+However, our main concern has not been to estimate draught power (although it would
+indeed be desirable to know this figure), but the energy consumption of draught livestock. In
+other words, we are interested at this stage in energy inputs into the animals, not the final
+consumption of energy used for useful work, or indeed the power output of the animals
+when working. The energy consumption of the animals is energy contained in the fodder
+that they consume. This is in turn a function of the animal’s size, the length of time spent
+working, and the intensity of their work. The last two figures could only be very roughly
+estimated on the aggregate level of the agricultural sector across nations, and we have not
+attempted to do this. We have however built a simple model of likely energy consumption
+levels based on estimates of the average size of animals at benchmark dates. This is the
+subject of the second part of the paper.
+
+The paper proceeds on a country-by-country basis. While the principles underlying the
+calculations made for each country are generally the same, the procedures followed by
+contemporary statisticians who assembled the data varied, as will be seen. This has required
+methods of estimation tailored to suit each individual country.

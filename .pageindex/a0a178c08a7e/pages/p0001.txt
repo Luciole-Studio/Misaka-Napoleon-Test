@@ -1,0 +1,22 @@
+---
+source_url: "https://www.verfassungen.de/preussen/gesetze/finanzverfassung10.htm"
+final_url: "https://www.verfassungen.de/preussen/gesetze/finanzverfassung10.htm"
+provider: "exa"
+text_sha256: "05ee15547897c6aa47d3e999c1027aac36df23764c81809d07abe4ed107274db"
+title: "Edikt \u00fcber die Finanzen des Staats und die neuen Einrichtungen wegen \n\tder Abgaben (1810)"
+content_kind: "page_text"
+---
+
+Edikt über die Finanzen des Staats und die neuen Einrichtungen wegen der Abgaben (1810) Edikt über die Finanzen des Staats und die neuen Einrichtungen wegen der Abgaben
+
+vom 27. Oktober 1810 - Auszug -
+
+geändert durch: Fernerweites Edikt über die Finanzen des Staats und das Abgaben-System vom 7. September 1811 (GS. S. 253), dieses geändert durch Deklaration des § 4 des Edikts, vom 16. Juni 1812 (GS. S. 95)
+
+aufgehoben durch Gesetz vom 30. Mai 1817 (GS. S. 134) und Gesetz vom 17. Januar 1820 (GS. S. 9).
+
+Wir Friedrich Wilhelm, von Gottes Gnaden, König von Preußen
+
+Haben Uns bisher unablässig damit beschäftigt, die besten Mittel ausfindig zu machen, um den durch den letzten Krieg gesunkenen Wohlstand Unsers Staats wieder herzustellen, den Kredit empor zu heben und die Verpflichtungen zu erfüllen, welche der Staat gegen seine Gläubiger auf sich hat; insbesondere haben Wir durch sehr große Anstrengungen, soviel als nur immer möglich war auf die an Se. Majestät den Kaiser der Franzosen zu entrichtende Kriegeskontribution von 120 Millionen Franken abgetragen, so daß solche mit dem Ende des jetzt laufenden Jahres zur Hälfte abbezahlet seyn wird. Mit Rührung haben Wir die Beweise von Anhänglichkeit aller Klassen Unserer getreuen Unterthanen an Unsere Person, Unser Haus und Unsere Regierung bemerkt, insonderheit auch die Hülfe erkannt, welche Uns bei der Sicherstellung der gedachten Kontribution und bei der Aufbringung der einstweilen nöthigen Fonds von Unsern getreuen Ständen und von dem Handelsstande mit größter Bereitwilligkeit geleistet worden ist. Die Schwierigkeiten, welche Wir noch zu überwinden haben, sind beträchtlich, und erfordern noch zu Unserer Bekümmerniß nicht geringe Opfer. Wir vertrauen aber auf die Vorsehung, die Unsere nur auf die Rettung des Staats und auf das Wohl Unserer Unterthanen gerichteten Bestrebungen segnen wird und auf die patriotischen Gesinnungen Unsers treuen Volks. In dieser festen Zuversicht wollen Wir sowohl demselben, als den Gläubigern des Staats hier die Beschlüsse bekannt machen, welche Wir gefaßt haben, um den Zweck zu erreichen[...]
+
+Wir sehen Uns genöthigt, von Unsern getreuen Unterthanen die Entrichtung erhöhter Abgaben, hauptsächlich von der Konsumtion und von Gegenständen des Luxus zu fordern, die aber vereinfacht, auf weniger Artikel zurückgebracht, mit Abstellung der Nachschüsse und der Thor-Accisen, so wie mehrerer einzelner lästigen Abgaben, verknüpft und von allen Klassen der Nation verhältnißmäßig gleich getragen, und gemindert werden sollen, sobald das damit zu bestreitende Bedürfniß aufhören wird. In den Gegenden, welche durch den Krieg ganz vorzüglich gelitten haben, besonders im Königreich Preußen, wollen wir Bedacht nehmen, durch außerordentliche Hülfsmittel die Last zu erleichtern, welche aus jenen neuen Konsumtionssteuern entsteht.

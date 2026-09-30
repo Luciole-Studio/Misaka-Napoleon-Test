@@ -1,0 +1,76 @@
+VOL. 101 NO. 7                                            ACEMOGLU ET AL.: CONSEQUENCES OF RADICAL REFORM               3295
+
+
+
+
+                                           40
+
+
+
+
+       Urbanization rate (in percent)
+                                                              Treatment             Control (west of the Elbe)
+                                           30                 Difference
+
+
+
+                                           20
+
+
+
+                                           10
+
+
+
+                                            0
+
+
+                                                1700            1750             1800                    1850    1900
+                                                                                 Year
+
+
+                                                       Figure 2A. Urbanization Rates, by Treatment Group
+
+
+
+
+                                           40             Treatment             Control (whole sample)
+
+
+
+
+          Urbanization rate (in percent)
+                                                          Difference
+
+                                           30
+
+
+                                           20
+
+
+                                           10
+
+
+                                            0
+
+
+                                        −10
+
+                                                1700            1750            1800                     1850    1900
+                                                                                Year
+
+                                                       Figure 2B. Urbanization Rates, by Treatment Group
+
+
+
+
+points higher in areas occupied by Napoleon. The remaining four rows give descrip-
+tive statistics of the control variables used in parts of our analysis. The treated poli-
+ties lie slightly more to the north and to the west of the control polities (and are thus
+closer to Paris). The share of Protestant population is also similar between treated
+and control polities.
+
+                                                                III. Reduced-Form Evidence
+
+  In this section we use ordinary least squares (OLS) regressions to investigate
+the reduced-form relationship between our three measures of treatment and the

@@ -1,0 +1,6 @@
+
+
+## §21 复用资产与交叉接口登记
+- 上轮 t_c2dbca：`nodes/r_b55f2c1cf5/cards/t_c2dbca/{c5_iberia_americas.md,spain_evidence.md,SOURCES.md}`（1808选项矩阵、巴约讷/1812宪法条文、afrancesado名录、白银管道、美洲机制）——本卡§15/§16直接引用其已核结论并注明。
+- F2 资产：`downloads/f2_oman_vol3.txt`（doc 8e5a80a90ef6）、`downloads/f2_oman_vol4.txt`（doc 7277722ba854）Oman法军在西返表两切片；`downloads/f2_censo_godoy1797.pdf` 1797普查。S6西班牙增量22.5万（coordination_ledger F2行）与本卡§15.3兼并区兵力带并用不冲突（口径：全西occupation vs 北带annexation）。
+- 供他卡：SP1（B4b宫廷内爆风险清单§15.2；1814复辟机制§16）；Q1（抵抗决定因素参数集§8.4、§14表）；P2（B4c成本带§15.3；三断层§18）；P6（1823对照实验；反应函数§13）；P8（falsifier判负及边界§15.4）；X4（大众保王主义与教士中介§9）；IT3（教会协约单点§18.1）；MX/SA（王在位下美洲机制，承上轮）。

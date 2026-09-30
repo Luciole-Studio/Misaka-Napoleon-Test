@@ -1,0 +1,20 @@
+
+
+## 二、转引层（经上述著作引用，本卡未亲阅）
+
+- **Colletta, Pietro, *Storia del reame di Napoli*（Cortese编1957）**：经Davis大量转引（Manhès战法ii.342为Colletta任Monteleone省督的亲历层；1820"五日革命"iii段）。本卡已下载英译本卷2（downloads/IT2_Colletta_v2_en.txt, archive.org: historykingdomn02collgoog）备查但未系统通读——标注为部分获取。
+- **Bianchini, Lodovico, *Della storia delle finanze del regno di Napoli* (1834/1839)**：三处关键数（1790岁入16.7m；1806债务105m/130m/430m三口径；复辟债务100m=五倍岁入）分别经Ermice/Davis、Johnston、Rambaud、Ostuni转引。原书archive.org有多版（bub_gb_*），未亲阅。
+- 档案系列（谱系名，未亲阅）：ANP Fonds Joseph Bonaparte 381 AP；ANP 31 AP（Murat papers）；ANP AFiv 1714；ASN Ministero Esteri f.5490/5545、Min. Interno、Archivio Tommasi；AAEP CP/CC Naples；BNP Fonds italiens 1124–1127（卡拉布里亚镇压报告群）；A de G C(5*)系列；PRO WO 1；BSPN Ms XXI B5。
+- Ermice(2005)、Villani(1964)、Cortese(1926)、Valente(1965)、Cutolo(1937)、Espitalier(1910–12)、Weil(1902–15)、Tulard(1983)、Ostuni(1992)、Castellano(2004)、Pilati(1978)、Martuscelli(1979)：均经Davis脚注转引。
+- Pasley(1810)、Leckie、Bunbury(1854)、Balsamo、Brydone(1770)：经Gregory/Rosselli转引。
+
+## 三、检索未获/未采
+- **Finley, Milton, *The Most Monstrous of Wars: The Napoleonic Guerrilla War in Southern Italy, 1806–1811* (LSU Press 1994)**：Anna's Archive当前检索未命中（search-book三种关键词组合，status=not found in current AA-indexed searches；不等于全网不存在）。其承重功能由Davis ch.11（同题材更新研究）+Johnston v1+BNP Fonds italiens转引层+王家宪兵1812年报数据替代。若后续获取，优先核对其对1806–07法军兵力与损耗的估计以校正falsifier区间。
+- Acton, *The Bourbons of Naples*（AA有5576ab53a786…，31.7MB）：未下载（Davis/Gregory已覆盖宫廷叙事；如红队需要可即时补取）。
+- Colletta意大利文原版与法译、Blanch全集、Cuoco全集：未获取，经Davis/Johnston转引。
+- 非英语来源合规说明：本卡直接使用法语（Rambaud、Le Brethon、napoleon-histoire转载文书）与意大利语（里米尼宣言、1805宪制令）来源≥2种；意大利语二手专著（Valente、Villani、Ermice、Scirocco、De Martino）经Davis脚注进入并标注。
+
+## 工具与获取路径记录
+- Anna's Archive skill：search-book+download-book五次（Davis/Gregory/Rosselli/Esdaile/Johnston-AA本），MD5校验全过。
+- archive.org直连：Johnston v1/v2、Rambaud、Colletta英译v2、Le Brethon v6–8 djvu.txt。
+- 上一轮资产复用：t_7da32d（四个一手锚点页）、B6卡（Gregory 1998）、F1卡（HAL论文）。

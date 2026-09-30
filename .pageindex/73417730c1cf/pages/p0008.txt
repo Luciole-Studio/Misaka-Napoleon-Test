@@ -1,0 +1,37 @@
+
+
+problems. It was used for the first time during the 1830-1831 crisis (see Section 3). Although 
+this was a move towards a more integrated organization of the CAC, it still took a while for 
+change to really take hold: in the 1823 crisis, three agents filed for bankruptcy without 
+receiving any help since the CAC was not in danger and it considered their behavior had been 
+excessively risky 38. 
+The CS was unable to lobby the government effectively enough to maximize monopoly 
+profits or simply rule out hostile decisions. For example, it was unable to prevent the decision 
+by the Royal Court of Paris in 1823, in a solemn hearing presided by the Justice Minister, to 
+reject the previous jurisprudence under which forward contracts were enforced (and then rule 
+the investors pay their debts in the event of losses). The Court upheld the ‘exception de jeu’ 
+(plea of gambling debts) whereby a debtor was not required to pay on the grounds that he 
+gambled. In doing so, it created huge uncertainty on the forward market. Another example of 
+jurisprudence to the agents’ disadvantage was the refusal by the commercial courts to 
+consider the Common Fund as the property of the CAC: when an agent defaulted, the courts 
+included his share in the Common Fund in his assets while refusing to include his debts owed 
+to other agents in his liabilities (see, for example, the Cléret bankruptcy in 1824). That 
+decision increased the counterparty risk. This demonstrates that the CAC was still unable to 
+impose its own rules on the stock market. 
+During that initial period, the CS was therefore unable to organize the CAC to take advantage 
+of the monopoly or to increase the security of transactions. In actual fact, agents continued to 
+cooperate with coulissiers, conducted illegal transactions (either trading on their own account 
+or on the forward market), and even disputed certain CS decisions in court. 
+The Parquet did not provide any clearly superior organizational features such as strong 
+guarantees, efficient settlement or a safe market. What then made it special? According to the 
+theoretical literature, two markets can diverge and coexist if both issuers and investors have 
+heterogeneous preferences about market quality 39. At the time, differences among issuers 
+were neither here nor there, since public debt was almost the only traded asset and the French 
+government clearly wrote into the legislation its preference for a transparent market. So at the 
+time, a single market was enough. Nevertheless, the increasing diversity of investors after 
+1820, with the spread of rentes ownership, justified the gradual differentiation among 
+operators: demand from new, uninformed investors led the agents de change to increasingly 
+38 To strengthen and step up control over defaulting brokers, the CS imposed common accounting on 
+agents de change in the aftermath of the 1823 crash (CS, 14/11/1823). 
+39 Schwartz, ed., Global Equity Markets; Seppi, ‘Liquidity Provision’; Coffee, ‘Racing towards the 
+Top?’; Gehrig, ‘Competing Markets’. 

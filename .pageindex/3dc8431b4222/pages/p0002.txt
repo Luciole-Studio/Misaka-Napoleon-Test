@@ -1,0 +1,26 @@
+
+
+## 二、回忆录与当事人材料（C；全部标注回溯性）
+
+18. **Caulaincourt, *With Napoleon in Russia*（Hanoteau底本英译）**。C+（自称基于当日笔记；1811-06-05五小时召对、亚历山大警告转达、莫斯科理政、estafette 14–15天、别列津纳）。全文缓存 `downloads/pages/eed9ab647f9a.md`（archive.org djvu文本）。法文Hanoteau三卷本未获；英译对1813–14无覆盖。
+19. **Metternich, *Mémoires, documents et écrits divers*, t.I (Plon 1881)**。C（1829年撰；德累斯顿1813-06-26会谈pp.148–152："soldat parvenu"、"pas un pouce de territoire"、"un million d'hommes"[真实性存争，其自注亦见]）。全文下载 `downloads/f1_metternich_memoires_t1.txt`（行6255–7230为该章）。**挂账：与Fain《Manuscrit de 1813》、Maret档对照未做**（红队优先项）。
+20. **Chaptal, *Mes souvenirs sur Napoléon* (1893刊，约1823–24撰)**。C（敌意证人：执政府会议至凌晨五点、"valets非conseillers/大臣=chefs de bureau"、面包-暴动恐惧、俄方许可证配额提议被拒[行1663，无独立同期佐证，标孤证]、"maître du monde"判断）。全文缓存 `downloads/pages/f81b516f33c4.md`（Wikisource全文）。
+21. **Mollien, *Mémoires d'un ministre du Trésor public*, t.III**。C（许可证机制与代理人暴富"en trompant le vœu du chef de l'État"；1811危机分析）。全文下载 `downloads/f1_mollien_memoires_t3.txt`（archive.org UofT本）。
+22. **Lavalette, *Memoirs*（英译1831）**。C（邮政总局长；1815截获实例；黑室系统性描述在法文卷II，本卡未获——黑室运作细节按通说+转引处理）。全文下载 `downloads/f1_lavalette_memoirs_en.txt`。
+23. **Roederer转引链**："Mon pouvoir tient à ma gloire…la conquête seule peut me maintenir"。C转引（通行引注Roederer *Œuvres* t.III；本卡下载并排查t.1/2/4/8确认不在（`downloads/f1_roederer_oeuvres_v*.txt`），t.III仅HathiTrust页图（Record 000410546），未核原页；措辞经多个独立汇编一致；日期1797/1804两说不定点）。**此条为全卡唯一措辞未见原卷的直接引语，红队请知悉。**
+24. **de Kock回忆**（"jaundiced, obese, bloated…I was expecting a God; I saw only a fat man"）。C转引（Mémoires de Ch.-P. de Kock, Dentu 1873, p.67，转引自Lentz T11导言注5）。
+25. **Decrès"皇帝疯了"语**。C二手（Marmont系回忆转述，仅作氛围证据，正文已声明不作事实）。
+26. **圣赫勒拿材料（Las Cases等"欧洲协会"追述；Sainte-Hélène口授对四专约的注释——T11注10）**：全部标回溯性，排除出意图证据集。
+
+## 三、现代研究（L）
+
+27. **Lentz, *Napoléon diplomate* (CNRS Éditions 2012)，导言与前matter（pp.9–20）**。L（决策集权化轨迹、1805转折、外长四任评估、宪制条款an VIII art.50/an X art.58、使领馆网8→29、Lannes信引文、精英共谋面p.18）。出版社预览PDF `downloads/f1_lentz_napoleon_diplomate_extrait.pdf`（doc 57ceda3ea65e）；第一章《Le «système fédératif» napoléonien》正文不在预览内（U）。
+28. **Correspondance générale（Fondation Napoléon/Fayard）各卷导言**：T6·Kerautret（2,685封/1806；收件人分布；d'Hauterive公报注3；Tulard编Cambacérès通信注4）缓存 `c5740df3413a.md`；T8·Madec（3,021封；马德里—巴黎5–6天；巴约讷千封；两大错误判定）缓存 `cf938653fa92.md`；T10·Jourdan（3,006封；1810反动转向；1812-03预定开战注32；Fouché案；Werbrouck案）缓存 `ab23412e72be.md`（另：基金会2014年报载3,214封，见检索捕获，未单独缓存——计数差异已在正文注明）；T11·Lentz法/英双版（3,144封；Clarke 36%；Joseph 1封；licences注20；Elisa注3）缓存 `04307a1973c7.md`、`3c65df716c09.md`；T12·Rey序（2,551封；"délègue peu"）缓存 `fb8093480da8.md`。T5/T7/T9/T13–15导言未取（U）——1805年数字系由T6"较上年+50%"回推，1807、1809–10.2年度通量缺口已在正文标注。
+29. **Lugli, Zlobec, Singer, Kopp Lugli, Terracciano, Genta, "Napoleon Bonaparte's gastric cancer: a clinicopathologic approach to staging, pathogenesis, and etiology", *Nat Clin Pract Gastroenterol Hepatol* 4(1) 2007: 52–57**。L（读PubMed 17203089摘要+Medscape分节转载之staging/etiology节，见检索捕获；全文PDF未获）。结论采用：≥T3N1M0、散发型H. pylori路径>家族遗传倾向、IIIA预后。
+30. **Dard, Émile, *Napoléon et Talleyrand***。L（斯特拉斯堡备忘录章、当甘案、瓦尔赫伦"conspiration des hypothèses"、1817–19文件赎买）。全文缓存 `downloads/pages/0cfeffeb04dc.md`（pdfcoffee抓取，页码不可用，以行号定位）。
+31. **Vandal, *Napoléon et Alexandre Ier* II/III**。L（1810婚议御前会议、1810缓和包、北方三国联防构想、1811–12节点——经C1框架复用）。缓存同条15。
+32. **Welschinger, *Le Roi de Rome* 摘录**。L。缓存 `downloads/pages/0b66242e946b.md`。
+33. **Lentz Malet案访谈（Fondation Napoléon 2012）**。L。缓存 `downloads/pages/2939d79f08d0.md`（C8复用）。
+34. **Elting, *Swords Around a Throne***（帝国大本营/内阁结构p.26；征兵机器叙述）。L（缓存 `downloads/pages/3762a4f8f4e3.md`，单行大文件，仅局部读取）。
+35. **Taine, *Les Origines de la France contemporaine*（Régime moderne章，RDDM/Wikisource版）**。L（"Je suis Charlemagne"语汇群、教皇巴黎安置工程预算与档案迁移、罗马第二城条款释述；19世纪文献，其转引的圣赫勒拿语已按回溯性处理）。见检索捕获（fr.wikisource《La Reconstruction de la France en 1800/06》），未单独缓存全文（U-）。
+36. **上一轮复用**：C1全套（`nodes/r_b55f2c1cf5/cards/t_3dc3c2/`：c1_pod_dossier.md、early/peace/late_evidence.md、bayonne_source_warning.md、method_baseline.md）；C8全套（`nodes/r_b55f2c1cf5/cards/t_b09c54/`：c8_order_model.md、c8_cases_sources.md）。其分级与警示随引用继承。

@@ -1,0 +1,25 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: territory_inputs.csv
+
+```meta
+▸ table "territory_inputs.csv" (17 data rows)
+```
+region,pop_m,departments,pop_source,depts_source,status_1812,baseline_B_fr_present,ally_roster_B,garrison_low_per1000,garrison_mid_per1000,garrison_high_per1000,gend_low_per1000,gend_mid_per1000,gend_high_per1000,gend_local_share,official_local_share,call_per1000,incorporation,reliable,surplus_low_Mfr,surplus_mid_Mfr,surplus_high_Mfr,evidence_or_assumption
+old_france,30,87,F2_H72_population_proxy,Woolf_43_annexed_of_130,core,70000,0,2,2.333333,2.666667,0.30,0.35,0.40,1,1,0,0,0,0,0,0,F2_30m_and_old_part_of_1812_prefects;gend_density_scenario
+D1_inner,7.85,22,D1_Indicators_mixed_year,Woolf_D1_departments,core,31400,0,3,4,5,0.35,0.40,0.50,0.25,0.65,0,0,0,0,0,0,D1_7.85m_and_22_departments;Rowe_Rhine527;PI_668;density_scenario
+Parma,0.4,1,D2_proxy,D2_Taro_1808,existing_direct,0,0,2,3,5,0.40,0.50,0.70,0.6,0.8,1.5,0.7,0.8,0,0,0,D2;existing_tax_in_F4_base_so_zero_increment
+Tuscany,1.1,3,D2_proxy,D2_three,existing_direct,0,0,3,5,7,0.50,0.65,0.80,0.4,0.75,1.5,0.75,0.8,-5,2,8,D2_Marion_1812_gross22.5M;surplus_new_scenario
+Valais,0.126,1,D2_record_126k,D2_Simplon,existing_direct,0,0,7.936508,7.936508,11.904762,0.40,0.60,0.80,0.4,0.85,0.8,0.55,0.7,-3,-1,0,D2_garrison1000_actual_Dec1810;Marion_tax_lt_admin;density_proxy
+Berg,1,4,G2_peak_proxy,G2_four_departments,ally,0,7000,5,7.5,10,0.40,0.55,0.75,0.4,0.8,1.8,0.75,0.7,-5,4,10,G2_1m_5000_to8180_treaty;tariff_equalization_required;scenario_surplus
+Westphalia,2,8,G2_proxy,G2_eight_departments,ally,12500,25000,5,7.5,10,0.45,0.65,0.85,0.4,0.75,1.5,0.7,0.65,-10,5,20,G2_2m_25k_treaty_and_12500_French_billet;scenario_surplus
+west_rest,1,4,F2_4m_west_minus_G2_Berg_West,scenario_dept_proxy,ally,0,8000,5,7.5,10,0.45,0.65,0.85,0.4,0.7,1.5,0.65,0.6,-6,3,10,Scenario_remainder_not_one_historical_state;must_resolve_actual_treaty_armies
+north_Italy,6.7,24,IT1_Grab_p158,IT1_Grab_p160,ally,25000,50000,5,7.5,10,0.45,0.60,0.75,0.5,0.75,2,0.75,0.8,-30,10,50,IT1_existing_25k_French_and_2000_Italian_gend;4.5to5.5万_peace_army;surplus_scenario_not_convert_lira
+Illyria,1.5,6,D2_Grab_proxy,D2_six_civil_provinces,occupation,10000,6000,8,12,16,0.70,1.00,1.40,0.2,0.6,1.2,0.35,0.5,-15,-3,5,D2_18k_goal_3k_actual_and_13.5M_cost_vs_10M_extra_tax;troops_scenario
+Catalonia,0.9,4,D2_proxy,D2_paper_four,war_control,0,0,20,30,40,1.5,2.5,3.5,0.1,0.4,1,0.2,0.4,-35,-15,0,D2_1813_civil_death_and_1814_four_abolished;population_low_certainty
+Holland,2,9,D2_1806_proxy,D2_nine,existing_direct,0,8000,6,7.5,10,0.70,1.00,1.40,0.4,0.8,1.8,0.65,0.7,-20,5,20,D2_Marion_gross66.5M_Joor_west_15k;ally8k_scenario_not_empirical
+Hanseatic,1.3,3,D2_proxy,D2_three,existing_direct,0,0,5,8,12,0.60,0.90,1.30,0.4,0.75,1.3,0.6,0.65,-18,2,12,D2_Marion_gross38.791M;population_proxy_and_surplus_scenario
+Rome,0.8,2,D2_budget_proxy,D2_two,existing_direct,0,0,5,10,15,0.80,1.20,1.70,0.3,0.65,1.2,0.35,0.5,-12,-4,3,D2_Marion_gross16.5M_expected_not_actual;recruits_rejection
+south_Germany,6,20,F2_scenario_proxy,scenario_dept_proxy,ally,0,50000,8,11,15,0.65,0.90,1.30,0.4,0.6,1.6,0.6,0.6,-30,8,30,G1_Bavaria30k_Wuerttemberg12k_Baden8k;6m_proxy
+Naples_mainland,5,15,IT2_5m,Davis_p164_188,ally,20000,16000,10,14,18,0.80,1.20,1.70,0.35,0.65,1.4,0.45,0.6,-40,-10,15,IT2_14_then15_departments;old_local_fr20k_scenario;scenario_surplus
+Spain_rest,9.641,35,F2_C1797_10.541m_less_Catalonia0.9m,scenario_dept_proxy,neutral_treaty,0,0,17,22,27,1.5,2.5,3.5,0.2,0.5,1.2,0.2,0.35,-100,-40,5,F2_Oman_1811_0.286to0.291m_present_all_missions;F2_density_scenario

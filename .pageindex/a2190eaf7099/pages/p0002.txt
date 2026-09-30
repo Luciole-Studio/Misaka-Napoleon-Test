@@ -1,0 +1,7 @@
+
+
+## 技术时间轴独立片段
+RMG HMS Lightning馆藏 https://www.rmg.co.uk/collections/objects/rmgc-object-66670 （缓存downloads/pages/453f975faa96.md）正文称1823明轮木质炮艇以测绘合适，但元数据写1829，保留冲突；法国国立海军博物馆 Le Sphinx https://www.musee-marine.fr/nos-musees/paris/collections/oeuvres-phares/machine-a-vapeur-de-la-corvette-a-roues-le-sphinx.html （F3缓存downloads/pages/04c2ed9cef98.md 行242–246）1829 Rochefort造、160hp发动机英国Liverpool Fawcett所造；该馆描述由F3亲核，我在此读F3 SOURCES及引文账，不冒称独立原文核验。1824 Paixhans实验西班牙目录仅线索、原报告未阅；1822建议≠1824测试≠正式大规模换装，1830前不把蒸汽/炮弹炮算为战列舰通用倍数。
+
+## 前轮旧C3
+`nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_scenarios.csv` 112行多数NA，是旧成果非新观测，不继承未识别结论；`c3_quality_thresholds.csv`只给船体/效能系数算术关系，无校准；Glover JMH 1967 39(3)233–252、DOI10.1086/240080旧卡只核元数据未读全文，Rodger/Glete/Lambert/Winfield & Roberts均未亲阅，不能列作本卡数字直接证据。

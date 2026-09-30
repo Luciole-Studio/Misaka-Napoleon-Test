@@ -1,0 +1,16 @@
+{
+  "doc_id": "8b234cd718df",
+  "title": "[t_104134] nodes/r_b55f2c1cf5/cards/t_104134/fiscal/cotton_1808_1812.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_b55f2c1cf5/cards/t_104134/fiscal/cotton_1808_1812.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_b55f2c1cf5/cards/t_104134/fiscal/cotton_1808_1812.csv"
+  ],
+  "sha256": "8b234cd718df9eed33a37a2277e497968b31cf5316931bca09f223b46127fdaa",
+  "pages": 1,
+  "task_id": "t_104134",
+  "task_ids": [
+    "t_104134"
+  ],
+  "added_at": 1789883145,
+  "office_format": "csv"
+}

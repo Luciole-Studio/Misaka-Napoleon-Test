@@ -1,0 +1,36 @@
+Table B.2 Fodder units per day in relation to size of the animal
+
+    Weight                    Ox per working day
+                                                                                   Horse per working day
+    270 kg                               3.8                                                4.2
+    300 kg                               4.2                                                   4.7
+    350 kg                               4.9                                                   5.4
+    375 kg                               5.2                                                   5.8
+    400 kg                               5.6                                                   6.2
+    450 kg                               6.3                                                   7.0
+    500 kg                               7.0                                                   7.8
+    550 kg                               7.7                                                   8.4
+    600 kg                                                                                      9
+    700 kg                                                                                     10.9
+    750 kg                                                                                     11.6
+    800 kg                                                                                     12.5
+
+
+It has not been possible to find much information on fodder for donkeys or mules. We have
+thus simply assumed that mules consume as much fodder as their relatives the horses in
+those countries, and that one donkey consumes three-quarters of the fodder for one horse in
+southern Europe.
+
+In order to estimate the actual amount of fodder units consumed by the draught animals of
+each country we need some information about the average size of the beasts and of the size
+development over time. We have not, however attempted to account for further influences,
+such as the maintenance of ‘training horses’ that were not fully employed in commercial
+agriculture until a relatively advanced age, or the lesser work performed by pregnant mares.35
+Below, we discuss the sources from each country that have formed the basis for our
+modelling of size development. These comprise a mixture of occasional estimates of weight
+of horses, statistical data on animal size collected by government surveys, and fodder inputs
+either described or recommended by agronomists, or recorded by some transport
+companies. It should be stressed that information is scarce and that our estimates must
+remain conjectural.
+
+35 Collins, ‘Power availability’, p.217; also Thaer, The principles of agriculture, pp.78-9.

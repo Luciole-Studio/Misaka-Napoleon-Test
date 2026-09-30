@@ -1,0 +1,18 @@
+
+
+## 本轮跨卡接口（复用注路径）
+21. ○ F4 t_9f10b6：Marion IV p.321（AF IV 1072）1812并合地预期毛/净与分项；Gaudin 1811-04-30增收上限五项；tiercement（Marion p.325）；罗马预算指令`downloads/pages/82a063e7e022.md` L1927/L2028–2133；S6阈值表与对冲曲线。（台账+F4卡目录）
+22. ○ F2 t_0e763d：S6分档缺口（lite余2.9万/max缺12.2万/full缺30.2万）；新省净供兵第10年转正；西班牙法军1810/1811两切片（Oman）；驻军类比纠偏。
+23. ○ G2 t_cbaee3：汉堡1813罚金48M fr≈汉萨年预期税1.3倍；北德"海岸带并入财政自败"。
+24. ○ IT3 t_5b1d64：教会冲突全谱系、1808春Gabrielli照会（教廷愿事实封锁合规）、教会动员上限。
+25. ○ PR t_3ee1b0：威斯特法利亚接收国账（Grab p.101引Berding：债1.4–2亿、"finanzieller Ruin"）。
+26. ○ 上一轮 t_f81a6f（C15）：贝格请愿（Grab pp.97–98）、许可证租金（Marzagalli p.68）、Beugnot/Bacher关税同盟倡议（Heckscher pp.295–296）、莱顿/奥斯纳布吕克通商请愿（H p.299）。路径`nodes/r_b55f2c1cf5/cards/t_f81a6f/c15_continental_economy.md`。
+27. ○ 上一轮 t_f3c44f（C10）：制度收益时间不匹配裁定（1850年前不得预支ACJR/Lecce-Ogliari收益）。路径`nodes/r_b55f2c1cf5/cards/t_f3c44f/c10_causal_evidence.md`。
+
+## 工作区在库未深读（供红队/后续）
+28. Woolf, *Napoleon's Integration of Europe*：`downloads/D1_Woolf_Napoleon_Integration_Europe__35001edb4643.pdf`（doc 46acd720f176）——D1卡在用；本卡经Grab/G-con引其框架（"cultural imperialism"、征兵综述pp.156–165转引）。
+29. Broers, *Politics and Religion in Napoleonic Italy*：`downloads/D1_Broers_Politics_Religion_Napoleonic_Italy__4c3bc326766c.pdf`（doc 5afb7e8091c4）——托斯卡纳教会-征兵细部补强首选。
+30. Verheijen, *Nederland onder Napoleon*（doc 495d00bad787，荷语314页）——荷语民族话语；本卡未深读。
+
+## 权重知识声明
+人口近似值（托/帕/汉萨/加泰）、托斯卡纳拒誓教士流放科西嘉/厄尔巴、汉萨三省实征量级、荷兰1812远征军荷籍约15,000等处标"权重知识待核"，正文均已逐处标注；不作为承重锚点。

@@ -1,0 +1,10 @@
+
+
+## 本卡据此建立的量化桥（推演，标注假设）
+| 环节 | 参数 | 来源 | 假设 |
+|---|---|---|---|
+| 年产银 | 250 万 marcs ≈ 2,125 万 pesos | Humboldt p.335 | 1 marc ≈ 8.5 pesos（Brading：铸 69 reales/marc、还矿主 65 reales，即 8.125 pesos 归矿主、8.625 pesos 铸出） |
+| 铸币峰值 | 1798 年 2,400 万 pesos | Brading&Cross | — |
+| 水银需求 | 20,000–25,000 quintales/年 | 由上两项与 100–125 marks/quintal 推算 | 忽略熔炼法份额（若熔炼占 10–15%，需求降至 17,000–22,500） |
+| Almadén 峰值供给 | 18,000–20,000+ quintales/年 | Brading&Cross | — |
+| 库存缓冲 | ≈5 年（17 世纪实测） | Brading&Cross | 18 世纪末库存与消费比未知，缓冲可能更短 |

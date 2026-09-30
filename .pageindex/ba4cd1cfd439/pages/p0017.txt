@@ -1,0 +1,41 @@
+
+
+Second Stage &XVWRPV/LEHUDOL]DWLRQ –0.055 –0.055 –0.055 –0.063 –0.050 [0.005] [0.002] [0.020] [0.001] [0.008]
+
+| | Rel. Distance to Coast | | 1.889 | | | | 1.889 | | 1.889 | | | | 1.667 | | | | 1.759 | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | [<.001] | | | | [<.001] | | [<.001] | | | | [<.001] | | | | [<.001] | | | | | |
+| | F-statistic | | 92.63 | | | | 54.84 | | 19.49 | | | | 53.09 | | | | 51.45 | | | | |
+| | | [<.001] | | | | [<.001] | | [<.001] | | | | [<.001] | | | | [<.001] | | | | | |
+| | Kleibergen-Paap F-stat | | 92.63 | | | | 54.84 | | 53.51 | | | | 53.09 | | | | 51.45 | | | | |
+
+First Stage 
+Rel. Distance to Coast 1.889 1.889 1.889 1.667 1.759 
+[<.001] [<.001] [<.001] [<.001] [<.001] 
+F-statistic 92.63 54.84 19.49 53.09 51.45 
+[<.001] [<.001] [<.001] [<.001] [<.001] 
+Kleibergen-Paap F-stat 92.63 54.84 53.51 53.09 51.45 
+OLS 
+&XVWRPV/LEHUDOL]DWLRQ –0.014 –0.014 –0.014 –0.012 –0.007 
+[0.069] [0.030] [0.212] [0.072] [0.319] 
+Endogeneity test 4.381 4.761 3.463 5.934 4.190 
+[0.036] [0.029] [0.063] [0.015] [0.041] 
+City-pair Fixed Effects Yes Yes Yes Yes Yes 
+Year Fixed Effects Yes Yes Yes Yes Yes 
+Number of Observations 3,570 3,570 3,570 3,570 3,245 
+City-pairs 642 642 642 642 596 
+No. of clusters 642 39 642 596 
+Notes: Dependent Variable: Absolute value of percentage price gap between cities; p-values in 
+parentheses. 
+6L]HZHLJKWV 2EVHUYDWLRQVDUHZHLJKWHG E\ORJDYHUDJHSRSXODWLRQRIFLWLHVj and k in year 1800; 
+No Prussia: Observation is dropped if city j is from Prussia. Columns (4) and (5) have p-values 
+based on city-pair clustering. 
+Source: Authors’ calculation. 
+
+in Keller and Shiue (2013). Moreover, as we noted above the mean price gap in the 1820s is around 0.18, which means that on average customs OLEHUDOL]DWLRQKDVEURXJKWSULFHJDSVE\DOLWWOHOHVVWKDQRQH WKLUG GXULQJ this period (0.05/0.18 equals 0.28). As noted above, the average tariff on DJULFXOWXUDO JRRGVZDVDURXQG SHUFHQWEHIRUHWKHFXVWRPVOLEHUDOL]D tions of the Zollverein ,QDGGLWLRQ WKHFXVWRPVOLEHUDOL]DWLRQVFRLQFLGHG with the abolition of non-tariff barriers such as multiple currencies and
+
+1194 Keller and Shiue different units. Our results may also pick up second-round effects, such as stronger cooperation between the different states as a consequence of FXVWRPVOLEHUDOL]DWLRQV IRUH[DPSOHLQWKHDUHDRIWUDQVSRUWDWLRQ *LYHQ these considerations, the magnitude of this estimate is reasonable. 33
+
+CLUSTERING, SIZE
+
+Table 3 also reports results for clustering at the city-pair level. Allowing for arbitrary heteroskedasticity and serial correlation between cross VHFWLRQDO REVHUYDWLRQV DFURVV SDQHOV PD\ EH LPSRUWDQW LI VSHFL¿F FLW\ pairs are affected by shocks over the nineteenth century. Looking at the results in column 2, however, we see that this clustering does not change the inferences. The third column of Table 3 shows results for clustering at WKHOHYHORIWKHFLW\ DVRSSRVHGWRWKHFLW\ SDLU *LYHQWKHELODWHUDO GH¿QL tion of the price gap variable, some dependence between observations at the city level must be present, because if a shock increases the price of wheat in city j, this will affect the price gap of city j with all other cities. Clustering at the city level reduces the precision of the estimates but the FXVWRPV OLEHUDOL]DWLRQ FRHI¿FLHQW UHPDLQV VLJQL¿FDQW DW EHWWHU WKDQ percent; more importantly, qualitatively the results are unchanged. 34 We have also considered state-pair clustering as well as clustering by state pair and year (two-dimensional clustering). Because the decision to join the Zollverein was a political decision made by each state, all cities of a state would typically be affected equally. 35 Doing so does not affect the TXDOLWDWLYH¿QGLQJVRI7DEOH Column 4 shows results from weighing each observation by city VL]H ZKLFK JLYHV PRUH ZHLJKW WR WKH UHODWLYHO\ ODUJH FLWLHV :KLOH WKH FXVWRPVOLEHUDOL]DWLRQHVWLPDWHLVVRPHZKDWODUJHU RYHUDOOWKHUHVXOWVDUH

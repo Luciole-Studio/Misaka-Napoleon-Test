@@ -1,0 +1,65 @@
+
+
+for all time-invariant, destination-specific determinants of British exports for k. In the 
+panel setting, they are the equivalent of the division-specific pair fixed effects (δ k ij) in 
+Equation 2. Obviously, papers estimating distance coefficients typically do not include pair 
+fixed effects. We are only able to include γjk because our distance variable is time varying 
+due to the opening of the Suez Canal in November 1869. This implies that the distance 
+variable will not be absorbed by such destination-specific fixed effects. Our distance 
+coefficients estimated without controlling for γjk are thus more comparable with the 
+existing literature. Finally, while Equation 3 suggests estimating division-specific distance 
+and empire coefficients, we initially prefer estimating coefficients that are common to all 
+divisions. This makes the exposition easier and facilitates comparisons with coefficients 
+estimated using aggregate trade data. We do, however, provide an assessment of potential 
+sectoral heterogeneity below. 
+Our inclusion of proxies for destination economic mass and the IMRs terms as well 
+as (in some specifications) destination-division fixed effects (γjk) potentially gets us 
+closer to what theory requires. It is, however, important to acknowledge that since we 
+cannot include time-varying destination-division fixed effects (γ k jt) we are only imperfectly 
+proxying for expenditure and the IMR terms in each destination. This could bias our 
+results. For example, we might expect that not adequately accounting for the IMR terms 
+might bias the estimate on distance upward in absolute value (Anderson and van Wincoop, 
+2003). The intuition is that, if the IMR terms are not accounted for, then the estimated 
+impact of distance might also capture the impact of multilateral remoteness. Similarly, 
+not accounting for the IMR terms could lead to upward bias in the estimate of the effect of 
+empire since, without the IMR terms, the model will not account for any trade-diversion 
+effects from third countries. Thus, our focus is more on changes over time in these 
+coefficients than on their absolute values.14 
+
+14Similarly, our real GDP proxy for destination expenditures is less than perfect. It is aggregate rather
+
+Summing up, the baseline estimating equation for our data is:
+
+x k jt = exp[ψ k t + γjk + α1ln(DISTjt) + α2EMP IREjt] × exp[α3ln(GDPjt) + α4ln(DECGjt) + α5W ARjt] × ϵ k jt. (4)
+
+x k 
+jt denotes British exports in two-digit SITC division k to country j in year t.15 As before, 
+ψ k 
+t are time-varying division fixed effects which control for all determinants of British 
+exports that vary across divisions, years, and divisions-by-year. These are very important 
+in the context of our data as UK exports were expressed in real terms until 1813 and in 
+nominal terms from 1813. These fixed effects then control for changes in division-specific 
+price levels and are therefore included in all of our main specifications. Below, we also 
+discuss the impact of including destination-division fixed effects (γjk.) 
+x k 
+jt is now expressed in levels as we estimate the model in multiplicative form via 
+Poisson Pseudo Maximum Likelihood (PPML). This estimator is the standard in the gravity 
+literature due to its ability to account for both heteroskedasticity and the presence of zeros 
+in trade data (Santos Silva and Tenreyro, 2006). Furthermore, PPML automatically eases 
+the “adding-up constraints” presented by reduced form approaches like ours (Fally, 2015). 
+Finally, we cluster standard errors at the destination-division level, ensuring that residuals 
+than division-specific, and the majority of observations are assigned a representative income per capita. It is, 
+however, less clear to us in which direction this biases the results. Another possible source of bias is reverse 
+causality. Two key sources of potential endogeneity in our estimates are: (i) the fact that high trade volumes 
+may lead to lower trade costs through scale effects which may impart a downward bias to the estimated 
+impact of distance; and (ii) the omitted trade costs between the UK and destinations in the British Empire 
+are potentially higher (or lower) than those between the UK and other destinations in the sample which 
+would impart downward (or upward) bias in the estimates of empire in our model. If incorporation into the 
+empire became more likely as trade flows increased, this would likewise bias the empire coefficient upwards. 
+But there are also some partially mitigating factors here: we use time-varying division fixed effects which 
+absorb some of the co-variation in the potentially endogenous variables and the error term; to proxy for 
+bilateral trade costs we use geographic distances which are exogenous; and we use pooled disaggregated 
+data which partially mitigates the possibility that trade flows within a particular division might impact 
+average (overall) trade costs or empire effects. 
+15In Appendix E, we demonstrate the robustness of our results to using total British exports to destination 
+j in year t. 

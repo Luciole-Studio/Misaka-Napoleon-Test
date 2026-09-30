@@ -1,0 +1,24 @@
+---
+source_url: "https://hssh.journals.yorku.ca/index.php/hssh/article/download/40881/37064/51326"
+final_url: "https://hssh.journals.yorku.ca/index.php/hssh/article/download/40881/37064/51326"
+provider: "exa"
+text_sha256: "b1505ca404b27cb387735fbe6157eae2510a738a2cf0574cf301812e599a1898"
+title: "Death, Disease and Medicine on Jamaican Slave Plantations; the Example of Worthy Park,"
+content_kind: "page_text"
+---
+
+## Death, Disease and Medicine on Jamaican Slave Plantations; the Example of Worthy Park,
+
+1767-1838. by Michael CRATON*
+
+Even while condemning the institution of slavery, many modern writers on the subject have echoed the early apologists of slavery in assuming that the health of plantation slaves can be positively correlat ed with the number of doctors and the amount of medicine used. 1 The motives of the slaveowners are usually acknowledged to have been eco nomic calculation rather than disinterested philanthropy, but the facts that there were more 'doctors' in Jamaica in 1800 than in 1900, that near ly all plantations had their own practitioners, and that medicines featured largely in any list of imported plantation supplies, are taken as evidence that slaves were relatively well cared for. Without such care, it is assumed, slave health conditions would have been far worse; perhaps even as bad as those in the notorious 'graveyard' of the West African coast. 2 More careful research, however, revises-even reverses-these views. Ignorance of the etiology of tropical diseases placed them largely beyond human control, and this situation was compounded by treatments based upon a purblind ignorance of human physiology, and an irrelevant pharmacopeia. Even at Worthy Park plantation in central Jamaica, which was serviced for 55 years by a doctor famous for his efficiency, slave med icine was a mixed blessing indeed. 3
+
+* Department of History, University of Waterloo. 1 Not excluding Michael CRATON, Sinews of Empire; A Short History of British Slavery, (New York: Doubleday, and London : Temple Smith, 1974), 192-4. The ideas in this paper largely stemmed from remarks concerning the dubious benefits of European medicine practised in West Africa, made by Philip D. Curtin while commenting on a paper on West Indian slave-doctors by Richard B. Sheridan at the M.S.S.B. comparative slavery conference at Rochester, New York, in March 1972. CuRnN's own article , " Epidemiology and the Slave Trade," Political Science Quarterly, LXXXIII , 2 (June 1968) : 190-216, was the pioneer work on this subject. See also Richard H. SttYROCK, " Medical Practice in the Old South," South Atlantic Quarterly , XXIX , 2 (April 1930), reprinted in Medicine in Ameri ca ; Historical Essays (Baltimore : Johns Hopkins Press, 1%6), 49-70. Much of the material here is to be included in a chapter in a forthcoming study of slaves, slave society and ex slaves, Searching for the Invisible Man , to be published by Harvard University Press, later in 1976.
+
+2 For an analysis of the mortality in West Africa, mainly white, which shaped 
+European views, see K.G. DAVIES, " The Living and the Dead: White Mortality in West 
+Africa , 1684-1732," in S. ENGERMAN and E. GENOVESE, eds., Race and Slavery in the West 
+ern Hemisphere; Quantitative Studies (Princeton University Press, 1975). 
+3 Hans Sloane's strictures against black doctors ( 1707) could indeed be turned 
+by modern commentators against such white practitioners as Sloane himself: "[ ... ] There 
+are many such Indian and Black Doctors, who pretend, and are supposed to understand, 

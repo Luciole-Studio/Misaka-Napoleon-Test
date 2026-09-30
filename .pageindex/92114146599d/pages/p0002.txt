@@ -1,0 +1,116 @@
+Indeed, my identification strategy requires the adoption of the Code Civil to be uncorrelated with initial social capital
+levels.
+3
+back of the complete sample regressions is the comparison of heterogenous regions that undertook very
+different paths of socio-economic development even before the treatment. To reduce heterogeneity in
+the sample, I then compare only regions located at a maximal distance of 50 km to a border. This border
+separates those regions that kept the code for about 90 years from those in which the Code was either
+never introduced or dismissed in 1815, after the Congress of Vienna. The results confirm the findings
+from the complete sample analysis: Treated regions exhibit higher levels of trust in the SOEP data. This
+is remarkable, as one would expect - in the absence of any treatment - spatially closely located individuals to be relatively similar in their attitudes. Indeed, a falsification test confirms this presumption. When
+the border is moved artificially outwards to the North-East or inwards to the South-West and a placebo
+treatment constructed, individuals in placebo treated regions do not show significant differences in trust
+levels.
+I try to dismiss further doubts about the independence of the treatment with pre-treatment regional characteristics by comparing regional pre-treatment means of a set of variables identified by the literature
+as historical determinants of current levels of social trust. Treated and untreated regions turn out to not
+differ significantly with respect to those dimensions.
+Arguably, the period of Napoleonic occupation did not only alter the law. In addition, the administration,
+as well as the educational system were changed and old elites removed. My treatment variable, which
+acts like a regional fixed effect, might rather proxy for the legacy of those changes. While I cannot
+control quantitatively for all unobserved regional heterogeneity, those factors are likely of subordinate
+importance compared to the legacy of the Napoleonic Code Civil. This is for a simple reason: Unlike
+the other reforms Napoleon introduced, the Code Civil lasted even after the Napoleonic retreat in 1815
+for several decades. While possible, it is not very probable, that the short run-reforms were the main
+driver of the long-run change in beliefs. Historical evidence I will present supports this interpretation.
+Moreover, the results hold true even within a the formal borders of the Prussian kingdom, in other words
+holding kingdom characteristics constant.
+The second part of the paper aims at shedding light on a possible channel and the immediate effects of
+the Napoleonic institutions on cooperation in the 19th century. I first look at potential effects on economic cooperation, focusing on sectors in which people interact frequently in business relations and rely
+on trust and reciprocity, such as in trade, factory employment and craft. Indeed, treated regions show
+a higher fraction of the population working as traders, factory workers or as craftsmen. To further test,
+whether cooperation inside the work environment spilled over on cooperation outside the work-place, I
+4
+gathered two different measures of 19th century social capital. First, I collected data on memberships
+in gymnast clubs (Turnvereine) and the per capita share of volunteer firemen in associated volunteer fire
+departments on the county level and find them to be positively associated with the treatment. Second,
+I make use of a panel dataset measuring the number of shooting associations (Schützenvereine), having
+been founded between 1700 and 1900 per county in the neighboring provinces Rhineland and Westphalia. The panel data allows me to run regression yielding, that the number of associations increased
+significantly faster in the second half of the 19th century in the treated province Rhineland compared
+to its neighbor Westphalia. As this paper is one of the rare papers using additionally social capital data
+from the 19th century, it allows to discuss briefly persistence in the last part of the paper.9
+This paper relates and contributes to several strands of the literature broadly researching the effects of
+institutions, culture and its interrelation. The first strand emphasizes the “deep-roots” of social capital
+levels we observe today. It goes back to Putnam (1994), who argued that differences in social capital
+between the North and South of Italy can be explained by the institutions associated with free and independent medieval city states in the northern part of Italy. This hypothesis is empirically tested and
+proven to be valid by Guiso, Sapienza, and Zingales (2008a). In the same spirit, Tabellini (2010) finds
+in a sample of 69 European regions that past institutions in the 18th century measured by the constraints
+on the executive are highly correlated with trust levels today. While those contributions characterize
+past institutions broadly as democracy, my approach departs from this definition as it considers a legal
+enforcement institution, and thus contains a precise mechanism for the observed positive relationship
+between past institutions and beliefs. The paper closest in its methodology is Becker et al. (2011a), who
+research the persistent impact of living in the Habsburg Empire, a kingdom characterized by its efficient
+administration. Focusing on individuals living in an area within 200 kilometers of the Empire’s former
+border, the authors find individuals living in its former territory today to show more trust in institutions.
+Apart from historical institutions, other historical shocks have been found to alter norms and beliefs of a
+societies’ inhabitants long-lastingly. Examples include the African slave trade, (Nunn and Wantchekon,
+2011) and the surveillance apparatus in the former Communist Germany (Jacob and Tyrell, 2010).10,11
+9Further evidence for the persistence of a particular cultural attitude, antisemitism, in Germany has been described by
+Voigtländer and Voth (2012)
+10Interesting in the context of this paper, Nunn and Wantchekon (2011) hypothesize, that the slave trade did not only
+deteriorate social capital, but also paved the way for expropriate governmental institutions and a lax rule of law. In particular,
+they identify the weak legal system to be an important factor of the persistence of mistrust in the affected regions. Unconstrained
+political leaders are not forced to act trustworthy, and people can misbehave without being held responsible. Hence societies
+are stuck in an equilibrium of distrust and bad institutions
+11Aghion et al. (2010) provide further evidence for a potentially detrimental role of the state for trust in the case of extensive
+regulation.
+5
+Several theoretical contributions have tried to explain the persistence of cultural norms that has been
+documented empirically. The seminal contribution was made by Bisin and Verdier (2001). In their model
+parents transmit cultural traits to their children taking into account their future expected payoff. Tabellini
+(2008) builds on this model, and studies the determinants of cooperation and the evolution of norms
+over time. In his model, an exogenous shock to the quality of the enforcement institution, that reduces
+the loss of being cheated in a prisoners dilemma game, increases the scope of cooperation. Tabellini
+further argues, that when individuals can choose institutions by participating in the political process,
+good institutions will be reinforced. Shocks to the quality of institutions in the past are amplified by their
+affect on culture. Not values, but beliefs are the dimension of social capital Guiso, Sapienza, and Zingales
+(2008b) model to be passed from parents to children in a framework of an overlapping generations model.
+The model gives a rationale why differences in social capital originating in history are still observable
+today.12
+My paper is also related to contributions researching the short-term effects of punishment and contract
+enforcement on cooperative behavior (see for example Fehr and Gächter (2000) for experimental evidence; Fisman and Miguel (2007) for evidence from a field experiment). Most recently Cassar, d’Adda,
+and Grosjean (2012) gathered interesting evidence for a causal link from institutions to norms of cooperations from experiments conducted in Italy and Kosovo.
+Finally, my findings add to the analysis of the economic consequences attributed to institutions in general (see for example Smith, 1776; Milgrom, North, and Weingast, 1990; De Long and Shleifer, 1993;
+Acemoglu, Johnson, and Robinson, 2001; La Porta, López-de-Silanes, and Shleifer, 2008; Cantoni and
+Yuchtman, 2012) and the Napoleonic institutions, as described in Acemoglu et al. (2011), in particular.13
+A shortcoming of this fascinating literature describing strong and persistent links between institutions
+and aggregated development is the lack of a detailed understanding of the channels going from institutions to economic outcomes. The results presented here do not only reinforce the interpretation of a
+positive impact on cooperation and trade, but potentially provide one of the channels through which (exogenously imposed) institutions can be favorable for economic growth: individual norms of cooperation.
+The paper is structured as follows. Section 2 gives a brief description of the historical context needed for
+the empirical part. Section 3 assesses the effects of the Napoleonic institutions on current social capital
+outcomes, both in a sample of complete Germany and in a border sample. Section 4 shows the effects
+12Empirical evidence of the intergenerational transfer of values can be found in Dohmen et al. (2012).
+13Another strand of the literature disputes the fundamental role of institutions for economic development. See for example
+Glaeser et al. (2004) for the debate on the importance of human capital versus institutions.
+6
+on trade, industrialization and social capital in 19th century Prussia. Section 5 concludes with a note on
+institutions, social capital and growth.
+2 HISTORICAL BACKGROUND: THE CODE CIVIL IN GERMANY
+2.1 French Occupation and Institutional Reform
+At the time of the French Revolution in 1789, Germany was fragmented into more than 300 states (Grab,
+2003, p. 85) and its social organization characterized by feudal institutions privileging the nobility and
+the clergy, (Grab, 2003, p. 86). The entry into professions and economic activities was to a large extent
+controlled by guilds restricting economic freedom. Germany’s legal system consisted of a plurality of
+legal norms that differed often from town to town even within the same political territory.14 Peasants
+did not enjoy equality before the law, as they were subject to different courts and laws then the nobility
+(Acemoglu et al., 2011). Written legal codes did not exist at the end of the 18th century, except for the
+Codex Maximilianeus Bavaricus Civilis in Bavaria and the Allgemeines Landrecht (ALR henceforth) in
+Prussia, both of which allowed and practiced commonly the Partimonialgerichtsbarkeit, the privilege of
+the landlords to administer the law.
+The French influence started with the occupation, and in 1798 the annexation, of the Rhineland, the entire
+German part west of the Rhine. To defend the French Empire against Prussia, Napoleon subsequently
+invaded large parts of the current German territory and by 1812 controlled directly or indirectly most of
+it, with the exception of Prussia and Austria.15
+With the French occupation the Code Civil was introduced in the Rhineland, the Bavarian Palatinate and
+the part of Hessen, left of the Rhine and remained from 1802 to 1900. In 1901, the first civil code for the
+entire unified Germany, the Bürgerliches Gesetzbuch, replaced it. In several other states that fell under
+direct control of the French Empire the Code was in place for only few years. This states include Westphalia (from 1810-1815), Brunswick (1808-18014), Province of Saxony (1808-1815), Hanover (1808-

@@ -1,0 +1,52 @@
+
+
+- Article
+- Figures
+- Supplementary materials
+- Metrics
+
+Article contents
+
+- Abstract
+- THE ONSET OF CONVERTIBILITY SUSPENSION AND THE BULLION REPORT
+- FISCAL PRESSURE AND INTERACTIONS BETWEEN THE BANK AND THE TREASURY
+- THE LONG PATH TO RESUMPTION
+- ECONOMETRIC METHODOLOGY
+- RESULTS
+- CONCLUDING REMARKS
+- Footnotes
+- References
+
+Save PDF
+
+[Save PDF (0.59 mb)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4EB0EEBFB77E80F4C03734D27EFB4407/S0022050716000978a.pdf/how-fiscal-policy-affects-prices-britains-first-experience-with-paper-money.pdf) [View PDF [Opens in a new window]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4EB0EEBFB77E80F4C03734D27EFB4407/S0022050716000978a.pdf/how-fiscal-policy-affects-prices-britains-first-experience-with-paper-money.pdf) Save to Dropbox Save to Google Drive Save to Kindle
+
+Share
+
+Cite [Rights & Permissions [Opens in a new window]](https://s100.copyright.com/AppDispatchServlet?publisherName=CUP&publication=JEH&title=How%20Fiscal%20Policy%20Affects%20Prices%3A%20Britain's%20First%20Experience%20with%20Paper%20Money&publicationDate=17%20November%202016&author=Pamfili%20M.%20Antipa&copyright=The%20Economic%20History%20Association%202016%C2%A0&contentID=10.1017%2FS0022050716000978&startPage=1044&endPage=1077&orderBeanReset=True&volumeNum=76&issueNum=4&oa=)
+
+## Abstract
+
+For almost 25 years between 1797 and 1821, the gold standard in Britain was suspended in order to finance the Napoleonic Wars, creating a paper pound or a fiat currency. Suspension was accompanied by substantial inflation and the accumulation of public debt. By identifying shifts in the spot exchange rate of paper pounds for gold, I document how contemporaries' expectations of how debt would be stabilized in the future shaped the pound's internal value. Thus, it is argued that during the “paper pound” period, fiscal prospects provided a third mechanism, beyond monetary and real factors, affecting the price level.
+
+## Information
+
+Type
+
+Articles
+
+Information
+
+[The Journal of Economic History](https://www.cambridge.org/core/journals/journal-of-economic-history)
+,
+[Volume 76](https://www.cambridge.org/core/journals/journal-of-economic-history/volume/A30059F47EC26BD682BEDAAA10AEDA57)
+,
+[Issue 4](https://www.cambridge.org/core/journals/journal-of-economic-history/issue/26790C547B8FFFE8287DDB488C6290AF) , December 2016 , pp. 1044 - 1077
+
+DOI: [https://doi.org/10.1017/S0022050716000978 [Opens in a new window]](https://doi.org/10.1017/S0022050716000978)
+
+Copyright
+
+Copyright © The Economic History Association 2016
+
+Between 1797 and 1821, in order to finance the Napoleonic Wars, Britain suspended convertibility of Bank of England notes into gold. Earlier suspensions, such as 1696/97, during the Great Recoinage and 1745 for the Jacobite rising, had been short-lived. Thus, in terms of monetary policy maintaining the suspension of the gold standard for such a long period of time was an innovation. However, funding of the wars with France meant that the suspension was accompanied by inflation and public debt accumulation. By the time of Napoleon's final defeat at Waterloo in 1815, the price level exceeded its 1797 level by 22.3 percent (Gayer, Rostow, and Schwartz Reference Gayer, Rostow and Schwartz1953) and the debt-to-GDP ratio climbed to 226 percent; as shown in Figure 1, only WWI would entail a larger increase in the debt-to-GDP ratio (Officer and Williamson Reference Officer and Williamson2013).

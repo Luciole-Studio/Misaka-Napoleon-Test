@@ -1,0 +1,26 @@
+
+
+### Z08　Clémence Zacharie，2008
+- *Napoléon et les règles de dévolution de la couronne. Contribution à l’étude du droit constitutionnel impérial*，*Revue française de droit constitutionnel*76(4)，703–731；DOI 10.3917/rfdc.076.0703。
+- URL：https://droit.cairn.info/revue-francaise-de-droit-constitutionnel-2008-4-page-703
+- 本地：`downloads/pages/25101e384c5e.md`；仅核段12和注14–15、相关制度段，不称全文精读。
+- 原句：“en admettant, contrairement à son article 18 ... l’attribution de la régence à une femme”。此为FR13对1804规则修订的学术互校。
+
+### NII　Xavier Riaud，《Données actuelles sur Napoléon II (1811–1832) et ses dents》
+- Fondation Napoléon网页，https://www.napoleon.org/histoire-des-2-empires/articles/donnees-actuelles-sur-napoleon-ii-1811-1832-et-ses-dents/
+- 本地：`downloads/pages/6c50590d5ddd.md`；只采实读导言生日1811-03-20、死亡1832-07-22、结核无婚无嗣。疾病治疗/病因余文不用于推演。
+- 不把名义宣告皇帝的15天当实际执政；不固定反事实死亡日，不给医学概率。
+
+## 五、未亲读或未采用的线索
+
+- Gunther E.Rothenberg, *Napoleon’s Great Adversaries: The Archduke Charles and the Austrian Army, 1792–1814*, 1982：Anna检索成功，MD5 `9fd6cdcf87c0b190c68ae863fb7ab426`，`anna_rothenberg_search.json`。未下载/亲读，本卡只通过M13明确转引。
+- Enno E.Kraehe, *Metternich’s German Policy*, vol.I；Wolfram Siemann梅特涅传；Langsam、Roider、Wandruszka及Beer原书：未完成原书核读，不纳入实读证据计数。Beer数表经AX91。
+- Victor Hofmann, *Die Devalvierung des österreichischen Papiergeldes im Jahre 1811*试读有用，但只有搜索片段，未用于主张。
+- 俄/波/捷克等档案系列与FHKA、ANNO、MDZ是进一步核验路线，不伪装本卡亲阅。
+- 网搜出现的Grokipedia与若干百科重复内容含“85m florins”等明显错项，未作为依据。
+
+## 六、检索、工具与验证说明
+
+先复用旧卡和下载，再查针对性缺口；没有派子代理。网页使用agent-reach所述Exa/现有提取路线；UNT直取遇验证页后经DOI取得文本，Arcanum普通fetch无文本后Exa成功。DDSG猜测地址404，检索改用现址。均为路线失败不是“文献不存在”。
+
+财政3页做图像复核；条约/信件据转录而非签署原件；长书按段读；每一来源随读记笔记。计算脚本只复算算术。正文与SOURCES读回做结构/代码匹配检查；Markdown不涉及Office排版与字体渲染。

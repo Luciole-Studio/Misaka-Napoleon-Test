@@ -1,0 +1,19 @@
+
+
+The efforts to curb draft dodging eventually culminated in a major reform of the conscription system. The reform was the brainchild of Jean-Gérard Lacuée, who, as Napoléon’s minister of war, had been in charge of enforcing the military draft. In 1808, Lacuée compiled a report on the status of conscription in France. In it, he classified departments on a scale of 1 to 5 according to their historical resistance to conscription efforts. He then advocated for the use of his classification in calculating each department’s contribution of men to the French military. The reform was implemented in 1809 as a short-term palliative to the country’s growing military needs.
+
+Simultaneously, the government was experimenting with a series of policies to solve the problem of draft dodging in the long term. These included such innovations as the centralization of conscription administration away from local officials and the use of the military against the country’s own citizens. Newly created army units were tasked with deterring, preventing, and punishing draft dodging. One particularly controversial strategy was to force the families of draft dodgers to provide food and shelter to the very troops entrusted with catching them. Other coercive and discretionary strategies involved the disarmament of entire communities and collective fines against townships with high draft evasion rates, among others.
+
+With its mix of administrative reforms and draconian policies, the Napoleonic regime successfully reduced draft dodging. According to French officials, draft dodging rates collapsed by over two-thirds in just five years (Woloch Reference Woloch1986). Figure 1 shows the pattern of draft dodging rates across France between 1806 and 1810 in the different groups of departments identified by Lacuée. The decline of draft evasion across France contributed to Napoléon’s and his army’s, the Grande Armée’s, decade-long strike of almost uninterrupted successes on the battlefield, at least until 1812.
+
+Figure 1
+
+THE FALL OF DRAFT-DODGING RATES OVER TIME
+
+Sources: Archives Nationales, AF/IV/1124, n. 1 and n. 9.
+
+## DATA DESCRIPTION
+
+To analyze the problem of draft dodging during the Napoleonic regime and the latter’s policy response, we leverage novel archival evidence from the Archives Nationales (hereafter AN) in Paris.Footnote 13 The information was originally collected by Jean-Gérard Lacuée, Napoléon’s minister of war. Part of Lacuée’s responsibilities was to gather data on the administration of conscription across France. This novel dataset contains information about draft-dodging rates, conscription rates, and the number of draftees deemed unfit to serve. Measures for these variables refer to France’s 110 departments (plus the island of Elba) for each year between 1806 and 1810. Footnote 14 These include departments from territories France annexed from neighboring Italy, Switzerland, Germany, and Belgium. Footnote 15
+
+During the Napoleonic wars, the French government kept detailed records of each conscript’s history in the Registres Militaires, which are still accessible in most departmental archives. If they joined the army, the French government also kept track of each soldier’s whereabouts.Footnote 16 During the conscription season, Lacuée regularly reported to Napoléon how many conscripts left their departments and arrived in their units.Footnote 17 The abundant correspondence between Lacuée and each prefect testifies to his administration’s care in collecting statistics about the draft.Footnote 18

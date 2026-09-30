@@ -1,0 +1,40 @@
+
+
+### 西西里、汉诺威与批准：三者不能混写
+
+**E06-SIC｜1807-01-02上院，cc264–265，格伦维尔公开辩护。**
+【事实·陈述内容】那不勒斯本土恢复可以牺牲来交换，但政府认为代价不足；西西里不同，仍在原君主及英国军队保卫之下：“it was not for us to traffic with Sicily, and barter it away for any equivalent, without the consent of its sovereign.”
+【裁量·高】按该辩护，问题不是抽象不准领土交换，而是英国不能未经受保护君主同意处置该岛。这不证明君主永远不可能同意补偿。法国最初不索西西里的口头表示与后来要求，仍须逐封原文核时间。
+
+**E06-HAN｜同日cc265–266。**
+【事实·陈述内容】汉诺威恢复被称为“an indispensable preliminary”；格伦维尔同时断言法方同意且“never afterwards became an object of dispute”，因此谈判不是因此破裂。
+【裁量·中高】足以否定不加归属地说“谈判最后因汉诺威破裂”；不足以证明法国有能力无代价落实，因为此处没有普鲁士同意书及执行安排。王朝利益与英国国家利益不可自动等同，格伦维尔本人恰在主动防御这一批评。
+
+**E06-RAT｜同日cc263、266–267；Butterfield pp.33–40。**
+【事实·陈述内容】格伦维尔援引英俄互不未经同意单独媾和的义务；称Oubril签署后法国提高条件，又因俄方不批准而转变。
+【裁量·高】须分四层：Oubril签署；俄皇批准；英国是否认为自己仍受盟约约束；英使能否代表俄方谈判。签署不是批准，英方训令不是俄皇授权。**本轮未核Oubril条约全文、俄皇拒绝批准的正式日期与文书编号，不把常见日期写成已核。** 先前索引记1806-07-20，仅作待原件复核日期。
+
+**E06-BASIS｜同日cc261–263、298–300。**
+【事实·陈述内容】格伦维尔主张actual possession同时容许equivalents；Lauderdale以Yarmouth 6月13日报告、7月1日报告及自己见证证明口头基础。
+【裁量·中高】此为参与者证言及事后议会辩护，不是法方签署的总括条款。旧卡12月30日政府“无正式书面承认”证据本轮只复用索引，未再读原段；与本轮内容并存，不可抹平。
+
+## 3. 1808：已连续核验的外交文件链
+
+全部据HC Deb 1809-01-20, vol.12；日期为文书日期。No.IX、XIII、XV为附件，自身未另列日期，按所附信登记而不假装有独立日期。
+
+|证据ID／日期、条号、栏号|短引与核验结论|
+|---|---|
+|E08-01：1808-09-30/10-12，Romanzoff No.I，c93；10-21收|“the Uti Possidetis, and every other basis founded upon the reciprocity and equality”；俄使先赴巴黎等回复，可再赴英国及其盟友指定的大陆城市。**公开邀请中确有实际占有原则**，无需借秘密协定补写。|
+|E08-02：10-12，联合君主信No.II及IV，cc93–95；10-21收|宣称大陆战争结束，“without the possibility of being renewed”，以商贸停滞解释诸国倾覆。两份签名次序相反；不是两个不同和平方案。前句是政治宣称，不能登记成未来事实。|
+|E08-03：10-12，Champagny No.III，c94；10-21收|“the Uti Possidetis, and any other basis founded upon justice”；邀请英国及盟友，未在此列要求英国承认西班牙新王的专项条款。|
+|E08-04：10-28，Canning No.VII，c96；No.VIII，cc96–97|俄方收信版本谈到未承认的称号；**两份共同实质条件**是法国立即保证接纳西班牙现政府：“the admission of the government of Spain as a party to the negotiation is understood and agreed to by France.” 英方尚待瑞典与西班牙意见，才讨论其他要点。|
+|E08-05：随10-28信，Official Note No.IX，cc97–98|承认“To Spain his Majesty is not yet bound by any formal Instrument”；但公开承担的义务不逊正式条约；参加者须为以Ferdinand VII名义行动的政府。另区分葡萄牙、西西里受保护，瑞典为正式盟友。|
+|E08-06：11-16/28，Romanzoff No.XII及附件XIII，cc99–100；12-06收|接纳英国盟国君主“不成困难”，但“by no means extends”至“Spanish Insurgents”；俄皇已经承认Joseph Napoleon。俄方反用“无正式约束”论证不必延缓会议，继续提出uti possidetis以及“respective power of the belligerent parties”。|
+|E08-07：11-28，Champagny No.XIV及附件XV，cc100–101；12-06收|拒纳“Spanish Insurgents”，以英国会否接纳爱尔兰天主教反叛者作类比；明确可纳在巴西、瑞典、西西里执政的国王，仍提uti possidetis。不是法方拒绝英国所有盟友，而是**争议谁算合法盟友／政府**。|
+|E08-08：12-09，Canning对俄No.XVII，cc101–102；对法No.XIX，cc102–103|前者反对以预先放弃西班牙为开会条件；后者点名不能排除“the Central and Supreme Government, acting in the name of his Catholic Majesty Ferdinand VII.”。这给“existing government”提供了明确指称，不能理解成Joseph政府。|
+|E08-09：12-01/13，俄No.XX；12-13，法No.XXI，c103；均12-17收|均确认收件并转呈，没有出现法国接受中央最高政府的逆转。注意英国12月15日公开声明早于这两封确认函在英国收讫，不能用确认函作为声明的先行依据。|
+|E08-10：12-15国王声明，cc103–105|“have not led to Negotiation”；公开归因法俄拒绝西班牙代表，并声称法方邀请意在动摇潜在反法国家。**前者是交涉阶段描述，后者是英国政府对敌方动机的判断**，不能直接升格为拿破仑真实意图。|
+
+### 秘密协定与公开交涉的对照
+
+【事实·复用，未本轮重校】旧卡已读1808-10-12埃尔福特协定第4条实际占有，第5条俄国领土要求，第6条英国承认法国在西班牙的新秩序；缓存 `downloads/pages/e6fecc9325ac.md`，https://www.napoleon.org/histoire-des-2-empires/articles/convention-franco-russe-derfurt-12-octobre-1808/ 。第14条保密。

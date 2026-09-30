@@ -1,0 +1,18 @@
+{
+  "doc_id": "40dc0ee9ee5c",
+  "title": "PS_driault1904_sebastiani_gardane.txt",
+  "orig_path": "/Users/makiko/Documents/exam/downloads/PS_driault1904_sebastiani_gardane.txt",
+  "paths": [
+    "/Users/makiko/Documents/exam/downloads/PS_driault1904_sebastiani_gardane.txt",
+    "/Users/makiko/Documents/exam/downloads/OT_Driault_politique_orientale.txt"
+  ],
+  "sha256": "40dc0ee9ee5cc3395726428b459f41ff15f76a1c95c385914806b432c2aa2ecd",
+  "pages": 304,
+  "task_id": null,
+  "task_ids": [
+    "t_611e2b",
+    "t_66ee8d"
+  ],
+  "added_at": 1790167525,
+  "encoding": "utf-8"
+}

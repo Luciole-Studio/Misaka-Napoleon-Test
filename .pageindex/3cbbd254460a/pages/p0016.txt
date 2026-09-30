@@ -1,0 +1,40 @@
+European counterparts that were not much used for draught power.30 These kinds of
+problem call for an attempt to modify our results by taking actual fodder inputs to oxen,
+horses, mules and donkeys into account, and furthermore accounting for change over time
+and variation in space.
+
+
+From the human perspective draught animals can be regarded as living machines that
+convert chemical energy into motive energy. The chemical energy is the energy of the fodder
+they consume.31 All fodder consumed by the animal, as well as the energy needed for rest, is
+from the human perspective a necessary cost for the draught work of the animal. The fodder
+consumed in a workday is dependent on the size of the animal and how hard they worked.
+Fodder requirements for a day at rest are simply dependent on the size of the animal. To
+calculate the primary energy of the fodder consumed by draught animals there is thus a need
+for information on the numbers of draught animals, how many days they worked during one
+year and how much they ate when they worked and when they rested. It is very difficult to
+find reliable information on the number of workdays, so we refrain from taking number of
+workdays into account. Instead we apply the simple formula for primary energy
+consumption by draught animals of equation (1):
+
+Ei = Htt* Hft + Ct * Cft + Dt* Dft
+
+Where:
+          (1)
+
+E t = primary energy of the fodder intake by draught animals (in year t)
+
+H = number of horses and mules
+
+C = number of cattle (oxen and sometimes also cows)
+
+D = number of donkeys
+
+Hf = average fodder intake by the horses
+
+Cf = average fodder intake by the oxen
+
+Df = average fodder intake by the donkeys
+
+30 Clutton-Brock, Horse, p 155.
+31 Malanima, Energia e crescita, pp.71-89.

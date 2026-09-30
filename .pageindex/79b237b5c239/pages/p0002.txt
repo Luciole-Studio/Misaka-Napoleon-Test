@@ -1,0 +1,54 @@
+
+
+【待核】78,304公斤金属究竟为净耗、某个类别或转录问题，网页不详；不据此建立每门炮金属定额。279与211可暂用作作者报告的制造／验收差异，并保留原档待复核标签。此例既不是1803–1814全期峰值，也不是两目标炮厂的替代数据。
+
+**A3，《Un élément indispensable : la poudre noire》，段首“Toutes ces « usines » présentent”**：
+
+> « Ainsi, en 1808, Le Ripault occupe 44 ouvriers, répartis entre la raffinerie, les quatre moulins susceptibles de fabriquer quotidiennement 800 kg de poudre […] »
+
+> « Quoiqu’il en soit, la production nationale annuelle s’établit aux alentours de 3 000 tonnes, ce qui suffit largement aux besoins civils et militaires de l’Empire, la demande accrue de l’année 1813 étant couverte sans problème majeur. »
+
+后半句“足以覆盖需求”是【文献推断：Brun】，不是本轮另行平衡供需后得到的结论。即使全国充足，也不能推出所有战区交付及时。
+
+**A4，《La prédominance de l’artisanat》，最后一段**：
+
+> « la fabrication mensuelle de 1 200 fusils modèle 1777 requiert 345 maîtres ou compagnons armuriers aidés, “pour les petits travaux”, de 26 garçons d’une dizaine d’année. »
+
+出处仅由Brun指向《L’Aide-mémoire à l’usage des officiers d’artillerie》，本轮未核该书原页。
+
+**A5，全文结尾，段首“Les conditions de production”**：
+
+> « la fabrication d’armes, au même titre que la réunion de chevaux, s’avère incapable de franchir certains seuils quantitatifs. Les phénomènes cumulatifs sur plusieurs années jouent donc un rôle essentiel et le recours aux stocks demeure la seule parade à une demande aussi brusque qu’importante, comme on peut le voir en 1813. »
+
+【文献推断：Brun】这里明确说枪械与马匹并列受限，不能用他来证明“枪械取代马匹成为唯一瓶颈”。文章开头还声明训练问题不在本文范围，故不能据此排除干部／训练约束。
+
+## 二、指定五厂：已知、未知、下一步最短证据路径
+
+### Saint-Étienne：单厂峰值缺失；生产组织与可查档案明确
+
+【事实：来源A记述】帝国时期此处是“manufacture dispersée”，周边工匠送零件或整枪到 Chavanelle 验收；统计单位应为该制造体系接受的整枪，不是后来集中厂房的机床产能，也不能将刺刀、军刀件数并入步枪。
+
+**来源B：Archives municipales de Saint-Étienne，《Manufacture nationale d’armes》**
+- URL：https://archives.saint-etienne.fr/histoires-stephanoises-1/tranches-dhistoire/guerre-et-batiments-militaires/manufacture-nationale-darmes
+- 保存：`downloads/pages/6f0156abb741.md`
+- 小节《Notice historique》原句：
+> « La Manufacture nationale d’armes est construite rue de Roanne de 1864 à 1868 […] »
+- 小节《A consulter aux Archives municipales / Documents d’archives / Pièces écrites》：
+> « 2 H 2 Manufacture nationale d’armes, ateliers et forges pour la fabrication des armes, fonctionnement de la Manufacture, correspondance, personnel, règlements, construction de la Manufacture rue de Roanne, acquisition de terrains, 1782-1870. »
+- 同页《Ouvrages》：Raymond Dubessy，*Historique de la Manufacture d’armes de guerre de Saint-Etienne*，Saint-Etienne，1900，658页，馆藏6 C 200 092。**只读馆方书目，未读此书。**
+
+【裁量】检索中出现的第二帝国时期高产量不能回填拿破仑一世时期；B提供了直接排除此错配的时间依据。
+
+### Charleville：本轮没有单厂产量锚点
+
+【事实】许多检索结果“Charleville”实际指枪型而非制造地，需逐项核厂名。未把各厂联合生产的某枪型总数或美国同型枪产量计入。
+
+**来源C：SHD《GR 4 W — Matériel》官方目录**
+- URL：https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/notices_files/GR4W.pdf
+- 保存：`downloads/pages/ca69d49d69c7.md`（抽取材料受100万字符保存上限影响；只声称核读所列条目，不声称读完目录或原档）。
+- 定位：**4 W 466，dossier 1**；本地3246行。
+> « note du général Marion (1808) ; compte-rendu d’inspection (Mézières, 10 février 1811) ; précis historique de la manufacture »
+- 此条前文明列Charleville。最短补证路径是1808笔记与1811巡视报告，不是枪型汇总表。
+- Saint-Étienne对应 **4 W 465，dossier 1**（本地3242行）：
+> « historique de la manufacture dont un écrit et signé par l’inspecteur d’artillerie Colomb (28 brumaire an XIII) »
+- **档案内容未阅**；已核的是目录存在性。

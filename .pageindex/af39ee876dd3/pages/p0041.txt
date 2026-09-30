@@ -1,0 +1,45 @@
+Political Economy of Conscription in Napoleonic France 1097
+
+                                 CONCLUSIONS
+
+   Political economists and economic historians have recently started
+paying attention to the relationship between military technology and
+practices on the one hand and institutional change and long-run economic
+performance on the other. Most such work has focused, in the European
+context, on the military revolution and political transformation in the
+Early Modern Era. In this paper, we explore a new and just as consequen-
+tial episode in European history and the development of modern political
+institutions: the Napoleonic regime in France. Under Napoléon’s leader-
+ship, France perfected a new way of war that relied on a national army.
+At its helm, Napoléon would (briefly) achieve his vision of French mili-
+tary hegemony over the European continent. However, to realize this
+vision, he had to overcome one fundamental obstacle: draft evasion. The
+new military system relied on the forcible conscription of young men for
+its recruitment. These young men were not always willing to comply and
+often opted to escape their military obligations instead.
+   Napoléon’s response to the problem of draft evasion was twofold.
+In the short run, the regime opted for the discriminatory enforcement
+of conscription across its regions. Using an original dataset based on
+archival evidence on draft dodging and conscription over this period,
+we show that a region’s geographical characteristics (a major determi-
+nant of conscription enforcement costs) predict its conscription rates as
+well as its draft dodging rates. We also provide qualitative evidence from
+historical sources that members of the Napoleonic regime were aware
+of the varying propensity of local populations to evade their military
+obligations. The sources confirm that this information influenced the
+decision-making process behind the administration of conscription in
+France.
+
+                                  REFERENCES
+
+Aghion, Philippe, Xavier Jaravel, Torsten Persson, and Dorothée Rouzet. “Education
+     and Military Rivalry.” Journal of the European Economic Association 17, no. 2
+     (2019): 376–412.
+Arbellot, Guy, Bernard Lepetit, and Jacques Bertrand. Atlas de la Révolution Française,
+     Vol. 1. Paris: Editions de l’EHESS, 1985.
+Bairoch, Paul, Jean Batou, and Pierre Chevre. The Population of European Cities
+     from 800 to 1850: Data Bank and Short Summary of Results. Geneve: Center of
+     International Economic History, 1988.
+Balla, Eliana, and Noel D. Johnson. “Fiscal Crisis and Institutional Change in the
+     Ottoman Empire and France.” Journal of Economic History 69, no. 3 (2009):
+     809–45.

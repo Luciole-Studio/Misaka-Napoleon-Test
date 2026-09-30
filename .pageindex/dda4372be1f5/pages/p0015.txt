@@ -1,0 +1,28 @@
+
+
+Section 5. Welfare losses: some simple estimates For a few countries, there are estimates of average export and import prices during this period, and hence of their aggregate terms of trade. Figure 11 graphs the price of imports, relative to the price of exports, for four such countries: the two main belligerents, Britain and France, as well as the United States and Sweden. The shaded area in the figures refers to the high-water mark of war-time trade restrictions, 1807-14. The figure indicates substantial increases in relative import prices during the conflict, consistent with the diplomatic and naval histories of the period. Sweden’s terms of trade suffered a sharp deterioration in 1810, when she was forced to join the Continental Blockade; while in France the terms of trade improved during the Peace of Amiens, before deteriorating dramatically during the period of the Blockade. The figure also bears out the impression given by the data on individual commodity prices, namely that Britain was less severely affected by these trade disputes than
+
+France, presumably as a result of the Royal Navy’s supremacy at sea: intra-European trade 
+disruption might have affected both of the main belligerents in a similar manner, and even 
+raised import prices to a greater extent in Britain than in France (as Panel A of Table 3 
+suggested); but the impact of the wars on the price of non-European imports was so much 
+greater on the Continent than in the British Isles that this swamped any other effects. Indeed, 
+the effect of war on aggregate British relative import prices seems to be smaller than that in 
+America as well: there were spikes in the relative price of imports in Britain in 1809 and 
+1814, but these were dwarfed by the enormous increase in the United States in 1814, when 
+the Royal Navy successfully blockaded much of the US coastline. It looks therefore, as if 
+Britain was the economic ‘victor’ in these trade disputes, emerging relatively unscathed while 
+her rivals did not. 
+In order to take account of the fact that there were long run trends in these series (for 
+example, rapid technological progress in key export industries such as textiles in Britain 
+implied a long run tendency during this period for Britain’s terms of trade to deteriorate: see 
+Imlah 1958, Cuenca Esteban 1997), I once again regressed the log of each country’s terms of 
+trade on time and time-squared, plus a dummy variable representing the blockade period; and 
+used the regression coefficients to infer how much lower relative import prices would have 
+been in the absence of the blockade. According to this procedure, Britain suffered a terms of 
+trade loss (i.e. higher relative import prices) of 11.9% during 1807-14 , as compared with 
+terms of trade losses of 8.6% in Sweden, 49.4% in the United States, and an impressive 
+61.2% in France. In the Swedish case, it makes sense to also look at the impact of the 
+blockade from 1810 onwards, since it was only then that Sweden was forced to become a part 
+of it: relative Swedish import prices were 21.0% higher during 1810-14 than during a no 
+blockade counterfactual. 

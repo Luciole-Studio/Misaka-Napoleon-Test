@@ -1,0 +1,63 @@
+   Figures 3 and 4 show that potato suitability had little effect between 1400 and 1700. But, begin-
+
+ning in 1700, countries more suitable for potato cultivation began to experience faster population
+
+growth and faster increases in urbanization. In contrast, the figures show that the correlation
+
+between agricultural suitability and the outcomes of interest did not change systematically over
+
+time. These patterns are similar for all four outcomes.
+
+   The figures also show that the effect on urbanization is delayed by roughly one century relative
+
+to the effect on population. This should be interpreted only as a rough approximation of the
+
+length of the delay because our data are at the century level. Hence, any effects on urbanization
+
+that occurred after the middle of the 18th century, for example, will show up in our results as
+
+a one century delay. In any case, the difference in timing between the effect on population and
+
+urbanization is consistent with potatoes having an immediate effect on population growth, but a
+
+delayed effect on the movement into cities.
+
+
+B. Preliminary Differences-in-Differences Population Estimates
+
+Given the historic and empirical evidence for 1700 being the key date of potato adoption, we now
+
+turn to our main estimating equation (2), which explicitly assumes that potatoes were adopted after
+
+this date. We begin by reporting preliminary estimates focusing on population as the outcome
+
+variable (i.e., ln population and population growth). The estimates are reported in columns (1)
+
+and (2) of Table 2. Recall that in addition to controlling for All Cropsi , equation (2) also controls for
+
+our measure of suitability for growing Old World staple crops, New World staple crops, and for
+
+average terrain ruggedness and elevation, each interacted with the post-1700 indicator variable.
+
+   Table 2 also reports a number of preliminary sensibility checks. We first address the quality of
+
+our historic country-level population data. We do this by reporting alternative estimates based on
+
+city-level population data. Although it is difficult at best to measure the ability of a city to adopt
+
+potatoes, the use of city-level data has the advantage that historic city populations are arguably
+
+more accurately known than historic country-level populations.26 Therefore, the alternative city-
+
+level estimates provide a check of the sensibility of our country-level results.
+  26 There is little information on the actual distances that potatoes traveled when moving from the countryside into
+
+cities, except statements that it generally was not very far. Salaman (1949) reports that potatoes consumed in cities were
+obtained from local gardens and nearby rural villages. In our analysis, have used different distances from each city
+when constructing our city-level suitability measures. The results are robust if, rather than using 100 kilometers, we use
+either a 200 or 500 kilometer radius.
+
+
+
+
+                                                           24

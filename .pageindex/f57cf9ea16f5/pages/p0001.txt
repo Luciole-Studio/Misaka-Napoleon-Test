@@ -1,0 +1,6 @@
+{
+  "source": "downloads/B2_BoE_millennium_v31.xlsx",
+  "sha256": "4c23dd392a498691eac92659aec283fb43f28118bd80511dc87fc595974195eb",
+  "method": "openpyxl read_only data_only; source coordinates preserved in selected workbook",
+  "warning": "cached source formulas not recalculated; mixed reconstructed and historical series"
+}

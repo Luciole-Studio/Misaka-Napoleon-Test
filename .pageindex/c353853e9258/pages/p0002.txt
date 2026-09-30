@@ -1,0 +1,73 @@
+
+
+【事实：限定原句】同节第二段末明确警告：
+
+> “L’effectif des levées ordonnées représentait moins le résultat réalisé que l’effort demandé.”
+
+同节第一段说明统计还须加1814年总动员、志愿者、续服者、军校军官及外国团/分遣队；并把帝国期2,403,000分为常规年级征召1,237,000、旧年级召回746,000、国民卫队动员370,000、海籍人员特别征召50,000。故它不是纯陆军首次入伍人数。
+
+**来源质量警报**：网页后文有“en 1803 … (24 septembre 1805)”自相矛盾年份，以及“en 1803 … classes 1804 à 1800”等需校勘表述。不能自行订正，更不能以此直接确定每令日期。其“征兵成效不断下降”叙述也不能替代JEH关于1806—1810逃避征兵率下降的实证。
+
+- URL：http://www.mediterranee-antique.fr/Auteurs/Fichiers/JKL/Lavisse/Histoire_contemporaine/T3/T3_41.htm
+- 本地：`downloads/pages/fb00e45c56a7.md`
+- 定位：Livre IV, chapitre premier, I，前三段。仅核读网页转录，未核纸本。
+
+### 按年级的另一组征额（不得与上表相加）
+
+【事实：来源陈述】上述第三段：
+
+> “60.000 pour les classes de 1801 à 1805, 80.000 pour celles de 1806 à 1809, 110.000 pour la classe 1810, 120.000 pour les classes 1811 et 1812, 137.000 pour la classe 1813, 150.000 pour la classe 1814, et 160.000 pour la classe 1815.”
+
+|年级|该文所载每级征额|实际编入|
+|---|---:|---|
+|1803、1804、1805|各60,000|—|
+|1806、1807、1808、1809|各80,000|—|
+|1810|110,000|—|
+|1811、1812|各120,000|—|
+|1813|137,000|—|
+|1814|150,000|—|
+|1815（1803—1814征令研究所涉及的提前征召）|160,000|—|
+
+这里的“各”是原文按classes分组表达的展开，不是累计总数的年均摊分。是否包含每级后续补征，须逐令校对。
+
+## 3. 两项可分解的同时代文书锚点
+
+### 3.1 1808征令／1809年级／80,000授权
+
+【事实：文书转录】Napoleon Series《Decree for raising Conscripts》，网页题日期January 23 1808，第1—2条：
+
+> “Eighty thousand conscripts of the conscription of the year 1809 are placed at the disposal of government.”
+> “They shall be taken from among the youths born between the 1st of Jan. 1789, and Jan. 1, 1790.”
+
+- 冻结字段：征令年1808；网页日期1月23日；年级1809；授权80,000；出生区间1789年1月1日—1790年1月1日（原文端点未细释）；实到—。
+- 这是网站转录《Annual Register … for the Year 1808》，未提供具体页码；只可标“同时期刊文书，转引自Napoleon Series”。
+- 与上节转录的1月21日有日期差异，本次不裁定是议决/公布日期差异还是转录错误。
+- URL：https://www.napoleon-series.org/research/government/legislation/c_conscription.html
+- 本地：`downloads/pages/97294cdeb4b6.md`，Decree条1—2及Bibliography。
+
+### 3.2 1810授权／1811年级／120,000，草案计划现役80,000
+
+【事实：草案转录】《Projets de Décrets Relatifs à la Conscription de 1811》，Section de la guerre，Dumas报告，2e rédaction，第1条：
+
+> “Sur les cent vingt mille conscrits de 1811, dont l’appel est autorisé par le sénatus-consulte du 13 décembre 1810, quatre-vingt mille seront mis en activité ; le reste formera la réserve.”
+
+第8条：
+> “Le premier détachement de chaque département sera mis en route le 1.er avril.”
+
+- 冻结字段：所引授权日1810-12-13；年级1811；授权120,000；草案现役目标80,000；草案预备40,000（120,000减80,000的算术）；计划首批启程4月1日；实际编入—。
+- **这是第二稿建议，不能写成80,000人已到队，亦未核得最终颁布版本。**第二条另有沿海县及荷兰地区海军征募规定，陆海军分配边界应保留。
+- URL：https://www.napoleon-series.org/military-info/organization/France/Conscription/1811/c_conscripts1811.html
+- 本地：`downloads/pages/43dacbcb242e.md`，条1—4、8。
+
+## 4. 指定本地材料核读：哪些能用，哪些不能
+
+### 4.1 Forrest：机制、警告与档案线索，不是已取得年度表
+
+Alan Forrest, *Conscripts and Deserters: The Army and French Society during the Revolution and Empire*, Oxford, 1989。
+
+【事实：核读】pp.35—36（本地行1470—1510附近）只给征募阶段描述：
+> “The needs of that state oscillated wildly from year to year…”
+> “Between 1806 and 1813 the government demanded levée after levée…”
+
+不能由此补齐各年数字。p.40附近（行1660起）讨论Hargenvilliers 1808年报告及前五个年级的省际不均，特别区分：
+> “the numbers of men incorporated, a much more real index of sacrifice”

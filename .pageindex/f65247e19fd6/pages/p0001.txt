@@ -1,0 +1,47 @@
+2 P. E. TETLOCK AND A. BELKIN
+
+Psychological Perspectives on Counterfactual Reasoning
+
+Up to this juncture, we have focused on normative perspectives on counter-
+factual reasoning—on the criteria that people should use to generate and
+judge counterfactual arguments. We now turn to psychological perspectives.
+There is a thriving research literature in both cognitive psychology (Com-
+mentary 2, Olson, Rocse, and Deibert) and linguistics (Commentary 1,
+Turner) on how people actually generate and judge counterfactual claims.
+‘These normative and psychological arguments should not, of course, be
+viewed as two self-contained, hermetically sealed domains of discourse. The
+psychological literature highlights a host of determinants of spontaneous
+counterfactual reasoning that raise serious questions about the reliability and
+validity of counterfactual thought experiments in world politics. Indeed,
+‘when the topic is thought experiments, it is hard to say at what point epis-
+temology and methodology end and psychology begins.
+
+From a broadly psychological perspective, itis difficult to imagine avoid-
+ing serious bias in thought experiments. Bias can ereep into every stage of
+this inherently subjective process, from the initial selection of antecedents
+(for “mental manipulation”) to the evaluation of connecting principles to the
+‘willingness to entertain counterarguments and alternative scenarios. Bias ap
+pears inevitable, in part because of the cognitive limitations and motiva-
+tional inclinations of the thinker in whose mind the thought experiment
+runs,” and in part because of the extraordinary complexity and ambiguity
+of the task. The population of past events from which one can draw counter
+factual antecedents is effectively infinite, from the flapping of butterfly
+‘wings to the “structural polarity” of the international system. And the task of
+assessing what would have happened in these hypothetical worlds (to which
+no one has access) is obviously highly subjective. Consider the potential for
+epistemic mischief.
+
+Cognitive Biases
+
+‘A useful starting point is the principle of bounded rationality (Simon 1957).
+People, it is now widely conceded, are limited-capacity information pro-
+
+‘he causal variables identified in that tory will probably not help FAA investigators to predict
+future crashes. For example, pilots are often tired, but rarely crash, and many crashes occur
+when pilots are well ested. This argument suggests that counterfactuals in world politics often
+Tail the projctabilty test not because the underlying claims are false, but rather because there
+are such complex interactions among causal variables and so much potential for randomly
+istributed small causes to be amplified into large effects (a point reminiscent of chaos theor).
+In this view, projectabilty is most likely o break down for explanations of low-lkelihood and
+row-frequency events (exactly the sorts of suprising evens tht, psychologists argue, are most
+likey to attract counterfactual speculation).

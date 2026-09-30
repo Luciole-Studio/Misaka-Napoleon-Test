@@ -1,0 +1,16 @@
+
+
+### 奥斯曼与调兵
+
+- **O1** Azmi Süslü, “Projets de partage de l’Empire Ottoman 1807–1812”, *Belleten* 47(187), 1983，pp.782–792、798–801；`downloads/pages/8304138e1ae4.md`；https://belleten.gov.tr/eng/full-text-pdf/1814/eng 。附录转印AAE CP Russie 144。其正文误将提尔西特秘密第8条称公开条约，已在札记中纠正；不照搬。
+- **O2** Fehmi İsmail, “Bükreş Andlaşmasının Müzakeresi 1811–1812”, *Belleten* 46(181), 1982, pp.73–120，DOI 10.37879/ttkbelleten.1137163；重点pp.84–95、113–119；`downloads/pages/30fef872bff7.md`；https://dergipark.org.tr/tr/download/article-file/2512679 。
+- **O3** 1812布加勒斯特和约俄文转录，所标底本Игнатий Яковенко, *Нынѣшнее состояніе турецкихъ княжествъ Молдавіи и Валахіи…*, СПб.,1828, pp.275–293；`downloads/pages/f5346ba53437.md`；https://russportal.ru/index.php?id=russia.traites_convention1812_05_16_01 。网站宣传不采作史料；未对校书页。
+- **O4** Dominic Lieven, *Russia Against Napoleon*, “Borodino and the Fall of Moscow”，齐恰戈夫段注12–20附近，网页传本；`downloads/pages/f38b37d5dbd1.md`；https://erenow.org/ww/russia-against-napoleon-the-true-story-of-the-campaigns/7.php 。无印刷页码，不补造，亦未宣称完整读过专著。
+
+### 档案系列与内部依赖（均不升级为亲阅）
+
+【追索】波兰：AGAD华沙公国财政、国务委员会档；BPAU-PANKr rkp.139《Raport deputacji》；B Czart.3184 V。立陶宛：RGADA f.12,b.262,part5；LVIA f.1532,a.1；AN AF IV 1646/1647/1650、674、685；SHD相关C/K系列，详P6脚注。外交：AAE CP Russie 144及CP Turquie；奥斯曼BOA旧编Cevdet Hariciye 4361、Hatt-ı Hümayun 14214（现行号待查）；俄方AVPRI/RGVIA；英国TNA ADM、FO78/77、FO78/79及Liston Papers。仅知道系列名不代表已看原折。
+
+【内部依赖】C12：`nodes/r_b55f2c1cf5/cards/t_26cd47/c12_russia_problem.md`；C7：`nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`。复用结论及缺口如正文；未取得的原件不会因跨卡引用自动变为已验证。
+
+【裁量｜中置信】**最终边界**：已形成有来源的约束性历史推演，而非欧洲东界的确定未来地图。最重要的发现不是多出一个“必胜盟友”，而是拿破仑若希望盟友维持到下一代，就必须减少把它们当作即时可支配资源的做法；这项制度性自我限制的政治可持续性，仍是整个法国霸权反事实的承重未决项。

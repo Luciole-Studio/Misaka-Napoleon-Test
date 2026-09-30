@@ -1,0 +1,29 @@
+---
+source_url: "https://de.wikipedia.org/wiki/Kr%C3%BCmper"
+final_url: "https://de.wikipedia.org/wiki/Kr%C3%BCmper"
+provider: "exa"
+text_sha256: "176efb068a5f1020efd6f73f70777a50e9cb52992a4f5981e4b7d5eb34274250"
+title: "Kr\u00fcmper"
+content_kind: "page_text"
+---
+
+Krümper
+
+Krümper hießen vor allem in der preußischen Armee die in den Jahren 1808 bis 1812/13 eingezogenen Soldaten, deren Ausbildungszeit gegenüber den bis 1807 geworbenen meistens vergleichsweise kurz war.
+
+## Herkunft der Bezeichnung
+
+Der Ausdruck Krümper war schon unter Friedrich II. von Preußen geläufig und bezeichnete diejenigen Urlauber, die die Regimenter in den Kantons zur Ergänzung unerwarteten Abgangs über den Etat bereithielten. [1] Nach Krebs soll der Ausdruck dem Sprachgebrauch der Tuchmacher entlehnt sein und einen nur kurzzeitig im Tuchmachergewerbe ausgebildeten Menschen bezeichnet haben. [2] [3] Nach Kluge wird das Wort ab 1808 zunächst scherzhaft, später offiziell zur Benennung nur kurzfristig ausgebildeter Soldaten verwendet und soll an „Krüppel“ angelehnt sein. [4] 
+
+Der „Transfeldt“ leitet das Wort von „krumpfen“ ab, das seit 1707 belegt sei und so viel wie „schrumpfen“ bedeute und den Abgang an Soldaten durch Krankheit, Fahnenflucht etc. bedeute, für deren Ersatz jede Kompanie einige sog. „Überkomplette“ mit ins Feld nahm. [5] 
+
+Auch der Große Generalstab widmet dem Begriff „Krümper“ und seiner Herleitung und ursprünglichen Bedeutung zwei Seiten: Er wiederholt die These von der Herkunft aus dem Tuchmachergewerbe, verweist darauf, dass in den diversen Rapporten über Truppenstärken bis zum Tode Friedrichs des Großen der Begriff häufiger vorkomme, aber nach dem Tode des großen Königs 1786 zunächst aus dem militärischen Sprachgebrauch verschwunden sei. [6] 
+
+Nach anderer Ansicht wurden solche Angehörigen der Armee als Krümper bezeichnet, die nur Aufgaben innehatten, die nicht zum unmittelbaren Waffendienst gehörten, oder die noch nicht in den Regimentslisten geführt wurden. Sie erhielten weder Sold noch Waffen, sondern wurden für ihren Dienst lediglich verpflegt. Die Bezeichnung „Krümper“ soll sich von „krumm“ (oberdeutsch: „krumb“) ableiten [7] 
+
+Zusammenfassend ist festzustellen: Die Bezeichnung „Krümper“ kam irgendwann in der Neuzeit auf und bezeichnet zunächst vermutlich einen alterskrummen und daher gebrechlichen, aber auch ungeschickten Menschen (ungeschickt häufig infolge mangelhafter Ausbildung), der bei der Truppe
+
+- entweder nichtmilitärische Aufgaben wahrnahm
+- oder als Überkompletter zum Ersatz von Ausfällen zur Verfügung stand
+- oder beide Aufgaben in seiner Person vereinte,
+- wobei genaue etymologische Herkunft und erstes Aufkommen des Wortes (und letztlich auch seine ursprüngliche Bedeutung) strittig sind. Die gegebenen Deutungsversuche widersprechen sich teilweise und führen zu unterschiedlichen Auffassungen, eine Untersuchung des Wortes unter Hinzuziehung heutiger sprachwissenschaftlicher Methoden fehlt, weil der Begriff mittlerweile quasi ausgestorben ist.

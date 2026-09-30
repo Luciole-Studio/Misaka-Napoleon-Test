@@ -1,0 +1,34 @@
+
+
+The estimates let F equal 0.7, and assume a discount rate of 5%, to make them 17 
+comparable with the Glick and Taylor results. The cumulative loss is simply the discounted 
+value, in 1807, of the annual welfare losses (given in the row headed ‘s=0.7') for each of the 
+years 1807-14; while the permanent flow loss is the per annum permanent loss which would 
+produce the same discounted cumulative loss. 
+Indeed, it could be argued that this model will understate the welfare effects of war 18 
+and blockades, at least in a country like Britain where unemployment became a problem 
+during 1808 and 1811-12 (as emphasised by Crouzet 1987). 
+29 
+
+the American welfare losses actually reached a peak in 1814. Welfare losses of 5 to 6% per annum over an eight year period were a substantial burden: the final two rows of Table 4 show that the cumulative welfare loss amounted to 36% in the United States, equivalent to a permanent flow loss of 1.8%. To put these losses in 17
+
+perspective, as already mentioned Glick and Taylor estimate that the permanent flow losses associated with the trade disruption of World War I amounted to 2.74% for belligerents, and 2.09% for neutrals. Strikingly, American losses associated with the trade disruption of the Napoleonic Wars were almost as big as the latter figure; and my estimates do not even take into account any losses incurred between 1793 and 1806 inclusive. Permanent flow losses were lower for the other countries considered here, a notable fact given that France and Britain were the two main belligerents during the conflict (they amounted to 1.12% p.a. in France, 0.6% in Britain and 0.42-0.65% p.a. in Sweden), but they were still very substantial. Furthermore, Table 3 suggests that welfare losses are also likely to have been high in the Netherlands and Latin America. 18
+
+Clearly, it is not the case that wartime trade disruption imposes equal penalties on all belligerents, or indeed on all neutrals; nor would one expect this to be the case. The average correlations that would have been revealed in a cross-sectional regression, had I had the data with which to perform it, would have masked important variations across countries. First,
+
+countries suffered different terms of trade shocks; and second, some were more open to trade, and thus more exposed to trade shocks, than others. The terms of trade shocks were larger in France than in any other country, but France was also much less open, implying that French welfare losses, while very considerable, were lower than in the United States. Crucially, terms of trade shocks were substantially lower in Britain (and Sweden), implying smaller welfare losses there, in spite of the relatively open nature of both economies. Having control of the seas, as was the case for Britain in the early 19 century, proved far more useful in terms of th waging economic warfare than did the land-based power of Napoleon (O’Brien 2003).
+
+Section 5. Conclusion 
+Clearly, the wars of 1793-1815 had important, world-wide, effects on trade and 
+economic welfare, which were particularly burdensome during the years of the Continental 
+Blockade and the disputes between Britain and the United States, culminating in the British 
+blockade of the US in 1814. The very large welfare costs imposed on the young United 
+States, which had started out as a neutral party to the conflict, are especially noteworthy. 
+Moreover, the wars’ effects continued to be felt in the trade policies of the main belligerents 
+long after the conflict had ended. For example, in Britain rents rose substantially towards the 
+end of the war: not surprisingly, landowners were reluctant to give up these gains. The result 
+was political lobbying that gave rise to the Corn Law of 1815, which meant in practice that 
+domestic markets were closed to foreign grain for most of the seven years following 1816. 
+While this law was gradually relaxed in the succeeding decades, it was only finally repealed 
+in 1846. 
+When Europe eventually moved towards freer trade in the late 19 century, this was th 

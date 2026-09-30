@@ -1,0 +1,19 @@
+
+
+## D 转引（标注于文内每一处）
+18. André Fugier, *Napoléon et l'Espagne 1799-1808*（1930）——经La Parra/Herr/Marichal三方引注（按一源计）。
+19. Escoiquiz《Idea sencilla》（1814）、Godoy《Memorias》（1836-42）、Cevallos《Exposición》（1808）、Toreno（1835-37）、Ouvrard《Mémoires》（1826-28）——回忆/自辩层，经La Parra与Marichal引注，逐处标回溯。
+20. Canga Argüelles《Diccionario de Hacienda》（1833-34）白银到港表——经Marichal表7.4。
+21. Lavrin/Liehr/von Wobeser美洲Consolidación分表——经Marichal表4.2/4.3。
+22. Muriel/Lafuente/Gómez de Arteche关于1801摄政遗嘱传闻——经La Parra。
+23. Buist, *At Spes Non Fracta*（Hope行史）——经Herr/Marichal（上一轮已标未读U1）。
+
+## E 在库未逐核
+24. downloads/f2_censo_godoy1797.pdf（1797普查全卷，上一轮F2取得）——人口总数已用，教士/贵族分栏未逐页核。
+25. downloads/f2_oman_vol3.txt / f2_oman_vol4.txt（Oman卷三卷四）——法军在西两切片经Ledger F2冻结值引用，未重读原表。
+
+## 口径冲突登记（供总装）
+- 补贴月额rv值：Marichal 16M rv vs Herr 24M rv（法郎-real换算差）；总装以6M法郎/月为准。
+- Junta de Bayona首会人数：65（UNAM）vs 75（dialnet/Sarasola概述）；91为末会签署数。
+- Consolidación本土总额：Marichal转Herr约1,300M rv vs Herr分年契据合计≈1,650M rv（含1805-09扩大令后600M=36%推回）；两口径并存。
+- vales发行累计：Hamilton口径（pesos）与ANP口径（reales）并列于Herr App.C，本卡引reales列。

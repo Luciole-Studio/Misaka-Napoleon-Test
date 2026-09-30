@@ -1,0 +1,29 @@
+                                                              Table 5
+                                    DISCRIMINATORY CONSCRIPTION, DRAFT EVASION, AND RUGGEDNESS
+
+                                                  Draft-Dodging Rate                                       Share of the Population Conscripted
+
+Dependent Variable                (1)             (2)              (3)             (4)             (5)             (6)             (7)              (8)
+Log of Ruggedness × 1806       –0.55003        –1.04507        –0.38133        –0.87709        –0.00004        –0.00002        –0.00003          –0.00002
+                               (1.24696)       (1.09420)       (1.19166)       (1.03545)       (0.00004)       (0.00004)       (0.00004)         (0.00004)
+
+Log of Ruggedness × 1807       –1.12784        –1.56472        –0.99040        –1.42770        –0.00001         0.00001        –0.00001           0.00001
+                               (1.22856)       (1.07592)       (1.18230)       (1.02307)       (0.00003)       (0.00002)       (0.00003)         (0.00002)
+
+Log of Ruggedness × 1808        0.58026         0.29599         0.64923         0.36508        –0.00004        –0.00002        –0.00003          –0.00002
+                               (0.60344)       (0.51282)       (0.59944)       (0.50633)       (0.00003)       (0.00003)       (0.00003)         (0.00003)
+
+Log of Ruggedness × 1810      –2.11867**     –2.23841***      –2.04206**      –2.16263***      –0.00005*       –0.00004*      –0.00005**         –0.00005**
+                               (0.87421)      (0.79373)        (0.87765)       (0.79229)       (0.00003)       (0.00003)       (0.00003)          (0.00002)
+Border × Date dummies                              ü                               ü                               ü                                 ü
+Maritime × Date dummies                                            ü               ü                                               ü                 ü
+Year fixed effects                 ü               ü               ü               ü               ü               ü               ü                 ü
+Department fixed effects           ü               ü               ü               ü               ü               ü               ü                 ü
+Observations                      555             555             555             555             554             554             554               554
+R-squared                       0.86378         0.86963         0.86597         0.87188         0.62908         0.64118         0.64789           0.65975
+***p < 0.01, **p< 0.05, *p < 0.1
+Sources: Draft-dodging rates are form the Archives Nationales AF/IV/1124, n. 1 and n. 9. The share of conscripts is from the Archives Nationales, AF/IV/1124,
+n. 1 and n. 9 and the Rapport a sa Majesté Impériale et Royale from 6 April 1809. Ruggedness is from Nunn and Puga (2012). Data on “Border” status is from
+Nussli (2012). Military relays are from Arbellot, Lepetit, and Bertrand (1985). Replacement rate is from the Archives Nationales, AF/IV/1124, pp. 198–215.
+Maritime status is calculated using information from Poirson (1808).
+                                                                                                                                                                Political Economy of Conscription in Napoleonic France 1091

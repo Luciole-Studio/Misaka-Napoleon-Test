@@ -1,0 +1,134 @@
+
+===== FILE: OEBPS/Text/cubierta.xhtml =====
+Cubierta
+
+===== FILE: OEBPS/Text/sinopsis.xhtml =====
+Sinopsis
+
+ Suele decirse que Manuel Godoy (1767-1851) fue uno de los gobernantes más funestos de la historia española, depravado y ambicioso, y responsable de los desvaríos de la Corona que dieron pie a la invasión napoleónica, una imagen poco acorde con la realidad, como demuestra Emilio La Parra.
+
+ Oscuro hidalgo provinciano, Godoy se enriqueció y subió en el escalafón de manera espectacular. Su relación personal con Carlos IV y María Luisa de Parma le permitió ejercer un poder omnímodo de 1792 a 1808, superando críticas y conspiraciones y osando enfrentarse a la aristocracia y la Iglesia españolas, a Inglaterra y a la Francia napoleónica. Sin embargo, le perdieron su ambición y sus deseos de prolongar en vano una idea de la monarquía condenada a la desaparición. Su caída, tan espectacular como su ascenso, le condenó a vivir la segunda mitad de su longeva existencia en el exilio.
+
+ La biografía más completa y equilibrada sobre Godoy, con nuevos puntos de vista y un buen número de datos inéditos sobre la génesis de la guerra de la Independencia.
+
+===== FILE: OEBPS/Text/titulo.xhtml =====
+Título
+
+ Emilio La Parra López
+
+ Manuel Godoy
+
+ La aventura del poder
+
+ ePub r1.0
+
+ Titivillus 26.04.2026
+
+===== FILE: OEBPS/Text/info.xhtml =====
+Créditos
+
+ Título original: Manuel Godoy
+
+ Emilio La Parra López, 2002
+
+ Editor digital: Titivillus
+
+ ePub base r2.1
+
+===== FILE: OEBPS/Text/portadilla.xhtml =====
+Portadilla
+
+ «Leer satisface una profunda necesidad psicológica»
+
+===== FILE: OEBPS/Text/TOC.xhtml =====
+Índice de contenido
+
+ Índice de contenido
+
+ Cubierta
+
+ Manuel Godoy
+
+ Prólogo
+
+ Introducción
+
+ 1. La fortuna de un hidalgo 
+
+ Una monarquía desbaratada
+
+ Los Godoy de Extremadura
+
+ La entrada en la corte
+
+ El vértigo del ascenso
+
+ 2. Aprendizaje de la política 
+
+ Un hombre nuevo
+
+ Guerra a la Revolución
+
+ La primera crisis
+
+ El tiempo de las conspiraciones
+
+ La alianza con la República francesa
+
+ 3. El gobierno del príncipe de la Paz 
+
+ El primer servidor del rey
+
+ La política pragmática
+
+ Por la vía de la Ilustración
+
+ El poder de la Iglesia y de la Inquisición
+
+ La crisis
+
+ 4. El primero después del rey 
+
+ Pugna por el poder
+
+ Generalísimo y gran almirante
+
+ El control de la monarquía
+
+ Patrimonio económico
+
+ Vida íntima
+
+ La corte del rey y la corte del príncipe
+
+ 5. Ante el dueño de Europa 
+
+ La guerra de Portugal
+
+ Entre el emperador e Inglaterra
+
+ Pulso con Napoleón
+
+ 6. La victoria de sus enemigos 
+
+ Los males de la monarquía y la soledad de Godoy
+
+ La conjura del «partido fernandino»
+
+ Los planes de Napoleón y la conspiración de El Escorial
+
+ La invasión de la península
+
+ Aranjuez
+
+ Prisionero de Fernando VII
+
+ 7. El exilio 
+
+ Bajo la mirada del emperador (la corte de Carlos IV en Francia)
+
+ La persecución de Fernando VII (Roma, 1812-1830)
+
+ El azar de los negocios (última etapa en París)
+
+ Apéndices 

@@ -1,0 +1,42 @@
+Table 5: Placebo for persistence in the location of mechanized cotton spinning
+                                           Dependent variable: Spindles per thousand inhabitants
+
+                                        OLS                   2SLS              First stage           Reduced form
+
+                                  (1)          (2)      (3)         (4)        (5)         (6)        (7)         (8)
+    DepVar measured in           1803         1803     1803        1803       1812        1812       1803        1803
+
+    Spindles 1812               0.28        0.31       0.03         -0.08
+                               (0.11)      (0.12)     (0.11)       (0.27)
+                               {0.13}     {0.14}      {0.13}      {0.32}
+    Literacy                               -17.19                   -1.25                24.22                   -3.27
+                                           (8.51)                 (10.07)               (21.71)                 (8.04)
+    Market potential                       -14.62                  29.29                 54.79                  24.72
+                                          (12.96)                 (34.77)               (42.93)                (20.50)
+    Knowledge access                        5.34                     8.31                40.16                    4.96
+                                           (7.77)                 (10.64)               (27.90)                (13.56)
+    Coal                                    4.38                     9.14                12.32                    8.11
+                                           (5.62)                 (11.91)               (14.65)                 (9.37)
+    Streams                                 1.36                     0.30                 -0.81                   0.37
+                                           (1.66)                  (1.43)                (2.66)                 (1.46)
+    Trade cost shock                                                         42.68       35.82       1.31        -2.99
+                                                                            (16.21)     (20.00)     (5.23)      (8.83)
+                                                                            {17.44}     {21.49}     {6.22}     {10.91}
+
+    Observations                  71           63       71           63        71          63         71          63
+    Adjusted R-squared           0.40         0.41                            0.15        0.22       -0.01       -0.01
+    KP F-stat                                         6.937       3.208
+    Num. clusters (gen)           34           30       34         30          34          30          34         30
+    Dependent variable: Spindles per thousand inhabitants by department for the respective year denoted at the top of
+   each column. Departmental population held fixed at its 1811 level across all variables measured in per capita terms.
+   Regressor of interest: Spindles per thousand inhabitants in 1812. The instrument is the trade cost shock. Controls:
+   Literacy measured as the proportion of men able to sign their wedding certificate in 1786; Coal is the inverse of log
+   distance to the closest coalfield; Streams is defined as the natural logarithm of mean streamflow (m3/s); Knowledge
+   access is defined as market access to universities in 1802; Market potential defined as distance to urban population in
+   1800. The number of observations differ across columns as controls are missing for some departments. Robust standard
+   errors in parentheses, standard errors clustered by généralités in curly brackets.
+
+
+
+
+                                                             46

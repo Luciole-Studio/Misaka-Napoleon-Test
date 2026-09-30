@@ -1,0 +1,288 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+Upper-middle-income countries,OWID_UMC,1852,529896663
+Upper-middle-income countries,OWID_UMC,1853,527371575
+Upper-middle-income countries,OWID_UMC,1854,524904952
+Upper-middle-income countries,OWID_UMC,1855,522496831
+Upper-middle-income countries,OWID_UMC,1856,520147251
+Upper-middle-income countries,OWID_UMC,1857,517856281
+Upper-middle-income countries,OWID_UMC,1858,515623997
+Upper-middle-income countries,OWID_UMC,1859,513727230
+Upper-middle-income countries,OWID_UMC,1860,512161557
+Upper-middle-income countries,OWID_UMC,1861,510931830
+Upper-middle-income countries,OWID_UMC,1862,510032729
+Upper-middle-income countries,OWID_UMC,1863,509455265
+Upper-middle-income countries,OWID_UMC,1864,508914640
+Upper-middle-income countries,OWID_UMC,1865,508403475
+Upper-middle-income countries,OWID_UMC,1866,507920398
+Upper-middle-income countries,OWID_UMC,1867,507472318
+Upper-middle-income countries,OWID_UMC,1868,507057307
+Upper-middle-income countries,OWID_UMC,1869,507214188
+Upper-middle-income countries,OWID_UMC,1870,507954239
+Upper-middle-income countries,OWID_UMC,1871,509256075
+Upper-middle-income countries,OWID_UMC,1872,511148488
+Upper-middle-income countries,OWID_UMC,1873,513600023
+Upper-middle-income countries,OWID_UMC,1874,516064745
+Upper-middle-income countries,OWID_UMC,1875,518569864
+Upper-middle-income countries,OWID_UMC,1876,521094684
+Upper-middle-income countries,OWID_UMC,1877,523608845
+Upper-middle-income countries,OWID_UMC,1878,526128203
+Upper-middle-income countries,OWID_UMC,1879,528687037
+Upper-middle-income countries,OWID_UMC,1880,531316852
+Upper-middle-income countries,OWID_UMC,1881,534031264
+Upper-middle-income countries,OWID_UMC,1882,536824402
+Upper-middle-income countries,OWID_UMC,1883,539680513
+Upper-middle-income countries,OWID_UMC,1884,542562062
+Upper-middle-income countries,OWID_UMC,1885,545522474
+Upper-middle-income countries,OWID_UMC,1886,548476948
+Upper-middle-income countries,OWID_UMC,1887,551470026
+Upper-middle-income countries,OWID_UMC,1888,554472178
+Upper-middle-income countries,OWID_UMC,1889,557682432
+Upper-middle-income countries,OWID_UMC,1890,561123833
+Upper-middle-income countries,OWID_UMC,1891,564756145
+Upper-middle-income countries,OWID_UMC,1892,568601509
+Upper-middle-income countries,OWID_UMC,1893,572672720
+Upper-middle-income countries,OWID_UMC,1894,576804073
+Upper-middle-income countries,OWID_UMC,1895,581007772
+Upper-middle-income countries,OWID_UMC,1896,585219440
+Upper-middle-income countries,OWID_UMC,1897,589497961
+Upper-middle-income countries,OWID_UMC,1898,593821354
+Upper-middle-income countries,OWID_UMC,1899,598412678
+Upper-middle-income countries,OWID_UMC,1900,603235885
+Upper-middle-income countries,OWID_UMC,1901,608283407
+Upper-middle-income countries,OWID_UMC,1902,613583527
+Upper-middle-income countries,OWID_UMC,1903,619127804
+Upper-middle-income countries,OWID_UMC,1904,624746290
+Upper-middle-income countries,OWID_UMC,1905,630441372
+Upper-middle-income countries,OWID_UMC,1906,636215699
+Upper-middle-income countries,OWID_UMC,1907,642088600
+Upper-middle-income countries,OWID_UMC,1908,648062461
+Upper-middle-income countries,OWID_UMC,1909,654199973
+Upper-middle-income countries,OWID_UMC,1910,660500434
+Upper-middle-income countries,OWID_UMC,1911,666940523
+Upper-middle-income countries,OWID_UMC,1912,673566542
+Upper-middle-income countries,OWID_UMC,1913,680350485
+Upper-middle-income countries,OWID_UMC,1914,687230763
+Upper-middle-income countries,OWID_UMC,1915,694211505
+Upper-middle-income countries,OWID_UMC,1916,701227497
+Upper-middle-income countries,OWID_UMC,1917,708240555
+Upper-middle-income countries,OWID_UMC,1918,715533684
+Upper-middle-income countries,OWID_UMC,1919,722546484
+Upper-middle-income countries,OWID_UMC,1920,729295379
+Upper-middle-income countries,OWID_UMC,1921,735647692
+Upper-middle-income countries,OWID_UMC,1922,741599961
+Upper-middle-income countries,OWID_UMC,1923,747164363
+Upper-middle-income countries,OWID_UMC,1924,752812583
+Upper-middle-income countries,OWID_UMC,1925,758545962
+Upper-middle-income countries,OWID_UMC,1926,764367043
+Upper-middle-income countries,OWID_UMC,1927,770276990
+Upper-middle-income countries,OWID_UMC,1928,776278426
+Upper-middle-income countries,OWID_UMC,1929,782596291
+Upper-middle-income countries,OWID_UMC,1930,789278202
+Upper-middle-income countries,OWID_UMC,1931,796322923
+Upper-middle-income countries,OWID_UMC,1932,803731509
+Upper-middle-income countries,OWID_UMC,1933,811461165
+Upper-middle-income countries,OWID_UMC,1934,819292287
+Upper-middle-income countries,OWID_UMC,1935,827228045
+Upper-middle-income countries,OWID_UMC,1936,835270467
+Upper-middle-income countries,OWID_UMC,1937,843420745
+Upper-middle-income countries,OWID_UMC,1938,851681255
+Upper-middle-income countries,OWID_UMC,1939,860246634
+Upper-middle-income countries,OWID_UMC,1940,869158256
+Upper-middle-income countries,OWID_UMC,1941,878430913
+Upper-middle-income countries,OWID_UMC,1942,887977474
+Upper-middle-income countries,OWID_UMC,1943,897606699
+Upper-middle-income countries,OWID_UMC,1944,906991482
+Upper-middle-income countries,OWID_UMC,1945,916533066
+Upper-middle-income countries,OWID_UMC,1946,926471028
+Upper-middle-income countries,OWID_UMC,1947,936989594
+Upper-middle-income countries,OWID_UMC,1948,947855014
+Upper-middle-income countries,OWID_UMC,1949,960950083
+Upper-middle-income countries,OWID_UMC,1950,974573354
+Upper-middle-income countries,OWID_UMC,1951,994488222
+Upper-middle-income countries,OWID_UMC,1952,1016557670
+Upper-middle-income countries,OWID_UMC,1953,1040172600
+Upper-middle-income countries,OWID_UMC,1954,1064400409
+Upper-middle-income countries,OWID_UMC,1955,1090021173
+Upper-middle-income countries,OWID_UMC,1956,1115768974
+Upper-middle-income countries,OWID_UMC,1957,1142887786
+Upper-middle-income countries,OWID_UMC,1958,1170548041
+Upper-middle-income countries,OWID_UMC,1959,1193309253
+Upper-middle-income countries,OWID_UMC,1960,1210013300
+Upper-middle-income countries,OWID_UMC,1961,1225798033
+Upper-middle-income countries,OWID_UMC,1962,1250297527
+Upper-middle-income countries,OWID_UMC,1963,1285431547
+Upper-middle-income countries,OWID_UMC,1964,1321643149
+Upper-middle-income countries,OWID_UMC,1965,1356036602
+Upper-middle-income countries,OWID_UMC,1966,1390854284
+Upper-middle-income countries,OWID_UMC,1967,1425825971
+Upper-middle-income countries,OWID_UMC,1968,1462417374
+Upper-middle-income countries,OWID_UMC,1969,1500346802
+Upper-middle-income countries,OWID_UMC,1970,1538314336
+Upper-middle-income countries,OWID_UMC,1971,1576038057
+Upper-middle-income countries,OWID_UMC,1972,1612885226
+Upper-middle-income countries,OWID_UMC,1973,1649189443
+Upper-middle-income countries,OWID_UMC,1974,1684470455
+Upper-middle-income countries,OWID_UMC,1975,1718245910
+Upper-middle-income countries,OWID_UMC,1976,1751110410
+Upper-middle-income countries,OWID_UMC,1977,1783273600
+Upper-middle-income countries,OWID_UMC,1978,1815168803
+Upper-middle-income countries,OWID_UMC,1979,1847597169
+Upper-middle-income countries,OWID_UMC,1980,1881133551
+Upper-middle-income countries,OWID_UMC,1981,1916523115
+Upper-middle-income countries,OWID_UMC,1982,1953563487
+Upper-middle-income countries,OWID_UMC,1983,1990121020
+Upper-middle-income countries,OWID_UMC,1984,2026296195
+Upper-middle-income countries,OWID_UMC,1985,2063538957
+Upper-middle-income countries,OWID_UMC,1986,2102138840
+Upper-middle-income countries,OWID_UMC,1987,2142257398
+Upper-middle-income countries,OWID_UMC,1988,2182290688
+Upper-middle-income countries,OWID_UMC,1989,2221836457
+Upper-middle-income countries,OWID_UMC,1990,2261820039
+Upper-middle-income countries,OWID_UMC,1991,2298844713
+Upper-middle-income countries,OWID_UMC,1992,2331783394
+Upper-middle-income countries,OWID_UMC,1993,2362713375
+Upper-middle-income countries,OWID_UMC,1994,2391747063
+Upper-middle-income countries,OWID_UMC,1995,2420230437
+Upper-middle-income countries,OWID_UMC,1996,2448504338
+Upper-middle-income countries,OWID_UMC,1997,2476023229
+Upper-middle-income countries,OWID_UMC,1998,2503023049
+Upper-middle-income countries,OWID_UMC,1999,2529456838
+Upper-middle-income countries,OWID_UMC,2000,2555702780
+Upper-middle-income countries,OWID_UMC,2001,2581301386
+Upper-middle-income countries,OWID_UMC,2002,2605109669
+Upper-middle-income countries,OWID_UMC,2003,2628458676
+Upper-middle-income countries,OWID_UMC,2004,2652271354
+Upper-middle-income countries,OWID_UMC,2005,2676427566
+Upper-middle-income countries,OWID_UMC,2006,2700688736
+Upper-middle-income countries,OWID_UMC,2007,2724523415
+Upper-middle-income countries,OWID_UMC,2008,2749165480
+Upper-middle-income countries,OWID_UMC,2009,2774944246
+Upper-middle-income countries,OWID_UMC,2010,2800920111
+Upper-middle-income countries,OWID_UMC,2011,2826529069
+Upper-middle-income countries,OWID_UMC,2012,2853513937
+Upper-middle-income countries,OWID_UMC,2013,2881781481
+Upper-middle-income countries,OWID_UMC,2014,2909623484
+Upper-middle-income countries,OWID_UMC,2015,2936592596
+Upper-middle-income countries,OWID_UMC,2016,2961887241
+Upper-middle-income countries,OWID_UMC,2017,2986941328
+Upper-middle-income countries,OWID_UMC,2018,3010524931
+Upper-middle-income countries,OWID_UMC,2019,3030827998
+Upper-middle-income countries,OWID_UMC,2020,3047355384
+Upper-middle-income countries,OWID_UMC,2021,3059569196
+Upper-middle-income countries,OWID_UMC,2022,3067365341
+Upper-middle-income countries,OWID_UMC,2023,3074336898
+Uruguay,URY,-10000,1705
+Uruguay,URY,-9000,1894
+Uruguay,URY,-8000,2105
+Uruguay,URY,-7000,2339
+Uruguay,URY,-6000,2598
+Uruguay,URY,-5000,2887
+Uruguay,URY,-4000,3208
+Uruguay,URY,-3000,3565
+Uruguay,URY,-2000,3961
+Uruguay,URY,-1000,4401
+Uruguay,URY,0,4890
+Uruguay,URY,100,5435
+Uruguay,URY,200,6040
+Uruguay,URY,300,6714
+Uruguay,URY,400,7463
+Uruguay,URY,500,8295
+Uruguay,URY,600,9221
+Uruguay,URY,700,10252
+Uruguay,URY,800,11397
+Uruguay,URY,900,12672
+Uruguay,URY,1000,14091
+Uruguay,URY,1100,15670
+Uruguay,URY,1200,17428
+Uruguay,URY,1300,19386
+Uruguay,URY,1400,21566
+Uruguay,URY,1500,23995
+Uruguay,URY,1600,26701
+Uruguay,URY,1700,29719
+Uruguay,URY,1710,31284
+Uruguay,URY,1720,32930
+Uruguay,URY,1730,34663
+Uruguay,URY,1740,36488
+Uruguay,URY,1750,38408
+Uruguay,URY,1760,40430
+Uruguay,URY,1770,42557
+Uruguay,URY,1780,44797
+Uruguay,URY,1790,47155
+Uruguay,URY,1800,55000
+Uruguay,URY,1801,55000
+Uruguay,URY,1802,55000
+Uruguay,URY,1803,55000
+Uruguay,URY,1804,55000
+Uruguay,URY,1805,55000
+Uruguay,URY,1806,55000
+Uruguay,URY,1807,55000
+Uruguay,URY,1808,55000
+Uruguay,URY,1809,55000
+Uruguay,URY,1810,55000
+Uruguay,URY,1811,55000
+Uruguay,URY,1812,55000
+Uruguay,URY,1813,55000
+Uruguay,URY,1814,55000
+Uruguay,URY,1815,55000
+Uruguay,URY,1816,55000
+Uruguay,URY,1817,55000
+Uruguay,URY,1818,55000
+Uruguay,URY,1819,55326
+Uruguay,URY,1820,55987
+Uruguay,URY,1821,56993
+Uruguay,URY,1822,58355
+Uruguay,URY,1823,60083
+Uruguay,URY,1824,61862
+Uruguay,URY,1825,63694
+Uruguay,URY,1826,65580
+Uruguay,URY,1827,67522
+Uruguay,URY,1828,69522
+Uruguay,URY,1829,71581
+Uruguay,URY,1830,73700
+Uruguay,URY,1831,75883
+Uruguay,URY,1832,78130
+Uruguay,URY,1833,80443
+Uruguay,URY,1834,82826
+Uruguay,URY,1835,85278
+Uruguay,URY,1836,87803
+Uruguay,URY,1837,90404
+Uruguay,URY,1838,93081
+Uruguay,URY,1839,95837
+Uruguay,URY,1840,98675
+Uruguay,URY,1841,101597
+Uruguay,URY,1842,104605
+Uruguay,URY,1843,107703
+Uruguay,URY,1844,110892
+Uruguay,URY,1845,114176
+Uruguay,URY,1846,117557
+Uruguay,URY,1847,121038
+Uruguay,URY,1848,124622
+Uruguay,URY,1849,128952
+Uruguay,URY,1850,134084
+Uruguay,URY,1851,140112
+Uruguay,URY,1852,147069
+Uruguay,URY,1853,155024
+Uruguay,URY,1854,163409
+Uruguay,URY,1855,172247
+Uruguay,URY,1856,181564
+Uruguay,URY,1857,191384
+Uruguay,URY,1858,201736
+Uruguay,URY,1859,212207
+Uruguay,URY,1860,222786
+Uruguay,URY,1861,233457
+Uruguay,URY,1862,244204
+Uruguay,URY,1863,255009
+Uruguay,URY,1864,266292
+Uruguay,URY,1865,278074
+Uruguay,URY,1866,290377
+Uruguay,URY,1867,303225
+Uruguay,URY,1868,316641
+Uruguay,URY,1869,329733
+Uruguay,URY,1870,342458
+Uruguay,URY,1871,354769
+Uruguay,URY,1872,366619
+Uruguay,URY,1873,377956
+Uruguay,URY,1874,389643
+Uruguay,URY,1875,401691
+Uruguay,URY,1876,414112

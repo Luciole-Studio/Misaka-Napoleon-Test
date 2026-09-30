@@ -1,0 +1,109 @@
+merchandizes, or any part thereof’). Over the longer term, this transformation from
+uncertainty to risk was one of the key developments which allowed prices to fall. As the
+perils of the ergodic future became understood well enough to be assessed, underwriters were
+able to find the ‘right price’. This made insurance affordable, and allowed the underwriters to
+achieve a long-term profit from underwriting risk, rather than gambling on uncertainties.
+
+
+The concrete distinction between risk and uncertainty was set out by Frank Knight in 1921,
+and yields striking practical implications for marine insurance. In principle, to render
+insurable an outcome – the manifestation of one of the perils specified (named) in an
+insurance policy – the characteristics of the uncertainties surrounding such an event must be
+known with sufficient confidence to transform them into risks. In other words, in principle,
+calculable risk can be transferred economically through conventional premium-based
+insurance, while uncertainty cannot. Knight stated that, in the case of risk,
+
+                                               the distribution of the outcome in a group of instances is known (either through
+                                               calculation a priori or from statistics of past experience), while in the case of
+                                               uncertainty this is not true, the reason being in general that it is impossible to form
+                                               a group of instances, because the situation dealt with is in a high degree unique ...
+                                               The application of the insurance principle, converting a large contingent loss into
+                                               a smaller fixed charge, depends upon the measurement of probability upon the
+                                               basis of a fairly accurate grouping into classes.14
+
+Writing at almost exactly the same time, and without adopting the nomenclature of risk and
+uncertainty, J. M. Keynes, in his A treatise on probability, made the same distinction in a
+slightly different way. It is not possible, Keynes showed, to assign a numerical value to every
+instance of probability.
+
+
+                                               Whether or not such a thing is theoretically conceivable, no exercise of the
+                                               practical judgement is possible, by which a numerical value can actually be given
+                                               to the probability of every argument. So far from our being able to measure them,
+                                               it is not even clear that we are always able to place them in order of magnitude.
+                                               Nor has any theoretical rule for their evaluation ever been suggested.15
+
+Keynes used legal and insurance-market examples to illustrate this point, and given the
+current topic, the latter is worth repeating. The ‘arbitrary element’ in some underwriting
+
+	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  
+14
+  Knight, Frank: Risk, uncertainty and profit, Boston: Houghton Mifflin, 1921, pp. 233-5.
+15
+  Keynes, J. M.: The collected writings of John Maynard Keynes, Vol. VIII: A treatise on probability.
+Cambridge: Royal Economic Society, 1973 (1921), p. 29.
+                                                                                                                                                                                                                                                       5
+
+	
+  

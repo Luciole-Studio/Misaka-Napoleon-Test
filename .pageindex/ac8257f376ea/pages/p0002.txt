@@ -1,0 +1,37 @@
+
+
+## 3. ②法律司法与行政渗透
+
+【锚点】Melzi 1802建12省（王国24省）统一官僚制；枢纽=省长；副省长管district，podestà/sindaci管comuni；王国期省长扩权、comuni失自治（Grab p.160）。
+【锚点】**官员本地化**：共和国与王国最高官员除一人外全为意大利公民；52名省长=30贵族+22资产阶级（amalgame实证）（Grab p.160）。
+【锚点】法典：法国诸法典译成意大利语，**1806年起为国法**；民法典带来法律平等、产权、民事婚姻（与离婚，见⑨教会冲突）；法院体系照搬法国（每canton治安法官、每省民刑庭、米兰Cassation、米兰/威尼斯/博洛尼亚/布雷西亚/安科纳上诉法院）（Grab p.160）。
+【锚点】警察：省长掌省警务+全国警察总监；**宪兵约2,000人**打击走私/逃兵/盗匪；人力因经费不足长期短缺（Grab pp.160–161）。
+【锚点】教育：1802规划每commune小学、每省中学；licei投入远超小学（1812才有小学组织计划）；**三大学Pavia/Bologna/Padova共1,172名学生**（Grab p.161）。
+【机制】行政渗透的深度条件：法治时长+精英合作+特蕾莎改革遗产——"Napoleon transformed the Republic and the Kingdom of Italy more deeply than any other part of the peninsula, possibly even of Europe"（Grab p.159）。适用条件：向外推广此模式须有同等的启蒙官僚底子（对照那不勒斯的失败，Grab pp.165–167）。
+【推演（中）】行省化分支A下，这套本地化官僚将被部分法籍化（对照罗马两省法籍省长、皮埃蒙特法籍省长，Grab pp.168–170），52省长中的意大利贵族约半数面临降格或转任——精英合流的第一支柱被抽走。
+
+## 4. ③财政货币金融（Prina机器）
+
+【锚点】Prina：1802-04-20（波拿巴亲自建议）任财政部长至1814-04-20被杀，十二年不倒，与外长Marescalchi并列全期仅有；拿破仑1805致欧仁："There is no person who is more essential than the finance minister"（Grab p.161）；Melzi 1805交权Nota："C'est le seul des ministres qui ait su organiser avec force son Ministère…"（转引I carteggi di Francesco Melzi d'Eril VII, p.441；DBI "Prina" 2016，`downloads/pages/1f3ae80c4f16.md`）。
+【锚点】税制策略：**地产税保持温和以稳possidenti，主要靠间接税增收**（盐、烟草、消费税、registro登记税、macinato磨坊税）+人头税；1807启动catasto清丈（特蕾莎地籍扩展到新领土，拿破仑倒台后才完成）；1804年3月收税官新规；机构裁员420人省10%部费（Grab pp.161–162；DBI Prina）。
+【锚点】**1802–1811岁入几乎翻倍**（"almost doubled state revenues"，Grab p.162）。〔权重记忆·待核〕具体量级通说为约8,200万→1.44亿里拉（应出自Grab JMIS 1998/Zaghi 1986 pp.515–539，本轮未直核该数，仅冻结"近翻倍"〕。
+【锚点】支出结构：**最大项=驻王国25,000法军维持费+扩张中的意大利军，通常占预算50%**；其余为道路水利、公债、行政（Grab p.161）。
+【锚点】公债：Monte Napoleone（1805，财政部下设，发行rendita债券）承接整合公债；两类债券（3.5%息券/可购国产券）（Grab p.161；Banca d'Italia货币史年表`downloads/pages/ab7407c7b446.md`）。
+【锚点】货币：1806-03-21法令n.143引入lira italiana（十进制、金银复本位1:15.50、与franc germinal同标准）；**里拉奉拿破仑之意在法国也有法定通货地位**；王国无重要纸币发行（Banca d'Italia年表，同上）。1811年里拉推广到那不勒斯"con forti resistenze"。
+【锚点】Prina曾提议建国家贴现银行（Banca nazionale/"Banca generale italiana" 1802–04），**未获实现**（DBI Prina引Bachi 1937、Roberti 1940）。
+【锚点】代价与终局：间接税使下层负担比例更重→"Prina became the Kingdom's most hated minister. He later paid with his life"；末年拿破仑加码→赤字上升；1813–14"the State's coffers were virtually empty"（Grab pp.162, 172）。
+【机制】"效率诅咒"：汲取效率越高、财政人格化程度越高（Prina=体制化身），社会怨恨越聚焦于单点；参照F5法国卡"继承时刻精英协调"命题（`coordination_ledger.md`F5条）：1814-04-20米兰=该命题的意大利版执行现场。
+【推演（中高）】S2/S5和平下Prina机器的常态化：战争特别账户退出后，军费占比可从50%降至30–35%，catasto完成（史实1853，此处可提前至1820年代）后地产税基扩大，**王国和平岁入天花板≈1.6–1.8亿里拉/年（1820年代，假设：人口增长0.5%/年+催征效率维持+无封锁损伤）**——低于同人口法国省份的汲取（对照F4罗马指令的"主权费"标尺，见§15分支A财政账）。置信中，改判条件：Q2面板给出并合省实征系数。
+
+## 5. ④经济
+
+【锚点】国内市场统一：废内部关税、统一商法典、单一货币、统一度量衡；辛普朗公路1805年通车；军需大部在王国内生产刺激本地工业（Grab p.163）。
+【锚点】帝国经济附庸化三重机制（Heckscher, *The Continental System*, 1918英译, pp.296–301，全文`downloads/pages/70cc6a857e5f.md` L6440–6520）：
+1. 1806法令排除波希米亚/萨克森/瑞士/巴伐利亚/贝格纺织品；
+2. 1808年"拿破仑以两国专制统治者身份与自己缔结"的法意通商条约；
+3. **1810三重规定：羊毛制品进口禁令（非法国货）+过境禁令+生丝只准出口里昂**。
+【锚点】1810-08-23致欧仁信：**"My fundamental principle is, France first and foremost (la France avant tout)…Italy has France to thank for so much that she really should not mind if France acquired some commercial advantages there."**（Heckscher p.297引，拿破仑本人强调体；Grab p.163同引此信）。
+【锚点】结果：法意贸易增长数倍，**王国对外贸易约一半对法国**；封锁瘫痪威尼斯与安科纳港、殖民地货短缺；但排除英国竞争使毛棉工业受益、资源转向农业，地主受益于大市场+粮/米/酒价上涨+教产出售（Grab pp.163–164；Heckscher p.300）。
+【锚点】**并合≠市场平权**（分支A的经济反证）："not even the territories incorporated with the empire…were thereby automatically placed on the same footing as 'the old departments'…they were to be left without participation in the advantages of the French market"——荷兰/汉萨并合省之货入法仍按外国货计，荷兰关税边界取消一再推迟"seems never to have been realized"（Heckscher p.299）。
+【机制】封锁的分配效应：港口-商业资本受损，内陆地产-农业资本受益→王国精英联盟（possidenti为主）承受力高于以商业城市为基座的社会（对照汉堡、荷兰）。适用条件：粮价上行周期；1811–12歉收年该缓冲失效。
+【推演（中）】S3封锁绞杀下：威尼斯/安科纳死港化持续，生丝-里昂单一通道使伦巴第蚕桑业成为法国工业政策的人质；1810年式许可证若开放（B6自由化版），威尼斯部分复活，精英怨恨显著下降。S5和平下：亚得里亚贸易恢复+法国市场仍半闭→王国工业在"被保护的半岛市场"内成长（毛棉纺+丝织回流），1848年北意工业量级介于史实与法国附庸最优之间（接P5卡口径）。

@@ -1,0 +1,18 @@
+## Sheet: A5. Capital and Government Debt (continued)
+	A	B	C	D	E	F	G
+
+
+```meta
+▸ number-format
+    #,##0 D7:G7,D9:G9,D12:G12,D13,D15:E17,F17:G17,D20:G20,F23:G23,D25:G25,G28,G30:G32,F31:F32,D32:E32,D34:G34,D37:E37,D39:G39,F41:G41,G44,E45
+    0 B7,B9,B16:B17,B20,B25,B27,B29,B31:B32,B34,B37,B39,B41,B43
+▸ merged
+    D4:E4 (value at D4)
+    F4:G4 (value at F4)
+▸ styles
+    bold: B1,B4:D4,F4,D45:F45
+    underline: A1,B3
+▸ extras
+    link B3→https://www.bankofengland.co.uk/-/media/boe/files/annual-report/1971/boe-accounts-1971.pdf?la=en&hash=99BE936D6D216474C4FCE0D609B762A2AC7BBF5C
+```
+

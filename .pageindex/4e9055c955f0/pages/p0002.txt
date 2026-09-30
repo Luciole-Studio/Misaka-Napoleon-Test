@@ -1,0 +1,54 @@
+
+
+### S6 Thierry Lentz, “La gendarmerie du Consulat et de l’Empire,” Fondation Napoléon
+- https://www.napoleon.org/histoire-des-2-empires/articles/la-gendarmerie-du-consulat-et-de-lempire/
+- 保存 `downloads/pages/fece444af077.md`。
+- 定位开头先列领土、军中、西班牙、海事、精锐、巴黎等宪兵后谈1813年30,600。用作类别警告，不作1812地方警务可用人力。
+
+### S7 《Manuel》章“La Révolution et l’Empire”，署A.B.，宪兵历史网站
+- https://www.force-publique.net/sources/Livres/Manuel/Manuel-04.html
+- 保存 `downloads/pages/982acebc0715.md`，§B.3。
+- 1801年15,689、骑乘11,179；1811年26,000是条令规定，作者提示实际低于规定。此数不替代1812实员。
+- 早期检索摘要曾以Ebel简称此手册；本卡按所读页署名A.B.列，不进一步猜定作者身份。
+
+## C：已读依赖卡，不作为新的独立互证
+
+目录统一前缀 `nodes/r_5b1357a9c6/cards/`。正文括号内C标签指该卡的论证及其明确来源，不冒充本卡亲阅卡内全部原书。
+
+| 标签 | 材料与精确入口 | 本卡采用与保留 |
+|---|---|---|
+| C1 | `t_40198e/D1_annexed_inner.md`、`D1_indicators.csv`、`notes_conscription_tax.md` | 22现存内圈省、人口约7.85m，行政与征兵年资区间；比利时累计率误差按协调账更正，未使用6.12% |
+| C2 | `t_e0038f/D2_annexed_outer.md`、`D2_indicators.csv`、`D2_breakpoints.csv`；`t_ccdcc8/NL_netherlands_switzerland.md` | 八外圈单位、法理与驻军；不将综合6–10万直接叠加F2基线，也不照搬“每公里负资产”的强措辞 |
+| C3 | `t_afeae6/Q1_resistance_determinants.md`、`Q1_cases_frozen.csv` | 35地区时段配置、5持续正例；目的抽样/单编码者，不作必要条件定理和概率拟合 |
+| C4 | `t_1f7db4/Q2_integration_panel.md`、`Q2_target_regions.csv` | 五年役期含训练年、净供兵条件门槛；无完整新面板回归。发表估计2,812/3,256内部冲突不用于本卡定额 |
+| C5 | `t_08b9e7/F1_napoleon_center.md` | 中枢吞吐、外交通讯、单方撤约及摄政约束；资源可行≠皇帝会选 |
+| C6 | `t_9f10b6/F4_french_finance_ruling_class.md`及联合财政表 | 800+40−300−25−20=495条件预算；600/700/900成本口径。高收入案非所有情景史实 |
+| C7 | `t_7c3954/F5_french_society_succession.md` | 40–45万法国在册和年约8.5–9.6万和平入伍；1829-03-20成年接口。不继承固定1821死亡假设 |
+| C8 | `t_0e763d/F2_french_army_capacity.md`、`F2_refinement.md`、`F2_garrison_disaggregated.csv`、`F2_joint_budget_manpower.csv` | 54万S2任务、50万法国＋20万盟军偏宽人力、在场0.85、任务去重；本卡地图不直接沿用lite未列外圈 |
+| C9 | `t_f55d87/G1_south_german_states.md`；`t_cbaee3/G2_north_german_states.md` | 南德条约兵、贝格请求并入和左岸商会抵制、威国军政机器 |
+| C10 | `t_be9258/IT1_kingdom_of_italy.md`；`t_8f2668/IT2_naples_sicily.md` | 北意6.7m、24省、4.5–5.5万和平军及1805分冠条款；那不勒斯本土5m与西西里分账 |
+| C11 | `t_5b1d64/IT3_papacy_churches.md` §0、①–② | 专约双钥匙、枢机撤回机制；不采用其治安倍数或继承概率修正作为本卡数字 |
+| C12 | `t_3282da/SP1_spain_state.md` §0–⑤；`t_27c409/SP2_spain_society.md` §0–⑦ | 保波旁窗口、村社fuero、1808/1823机制对照；不将1815史实战后财政移到无战反事实 |
+| C13 | `t_6f3beb/` X2主报告与协调账已验收条目 | 封锁—兼并—税基循环、边界可守性；本卡没有独立复算新增关线长度，不加未经去重海关总费 |
+| C14 | `t_86b684/` X3主报告与协调账已验收条目 | 有限核心工业互补、1830年代后交通技术；不预支铁路产出 |
+| C15 | `t_ec2248/P5_continental_economy_1815_1848.md`；协调账X1/X4验收条目 | 和平工业增长不自动迁移到强并情景，信用与地方宪政压力；仅机制补充，不将未重读原书数字输入 |
+
+F2、F4、F5分别约束任务/实物、支付、社会供兵，不能互相替代。C13–C15部分系协调账摘要层级，本卡没有重新审核其全部原始出处，故正文不借其量化工业/关税增量填平缺口。
+
+## 来源依赖与反证
+
+1. Woolf/Rowe及Rowe使用的Vallée，征兵表多追同一Hargenvilliers/AN AF IV 1124，不能算三条独立证据。
+2. D1/D2/F4税数经Marion追AN AF IV 1072，本卡亲读Marion提高可追溯性，不增加独立样本。
+3. Joor荷兰行为材料与税务预算独立，但不构成自动因果识别。
+4. Lentz、Lepetit、宪兵手册可能共享军档统计传统。三数差异首先是年份、编制/实员和组织边界，不以多数投票取均值。
+5. 书讯Lignereux《Servir Napoléon》网页已抓取（`downloads/pages/b4545cf266ff.md`），400 commissaires/6,000 gendarmes范围未据原书核清，**不用于主结论**。Napoleon Series almanac403未读；不能因此称资料不存在。
+
+## 反事实参数注册
+
+- 人口和省数：`territory_inputs.csv`逐行pop_source/depts_source/evidence_or_assumption。数量为混合年份/疆界代理，旧法30m非精确普查。
+- 驻军密度：常规内圈3–5‰、北意/德西5–10‰、伊利里亚8–16‰、加泰20–40‰、南德8–15‰、那不勒斯10–18‰、西班牙余部17–27‰；都是F2/D2类比约束下的压力参数，非各区实测长期平均。
+- 宪兵密度、地方招募比例、文官骨架每省100/160/220、其中高级10岗位：本卡情景定额，禁止冒充1812实点。
+- 五年新A兵役含一年训练；留存0.9、地区抵营率和可靠率均显式假设。模型成熟新兵存量=人口×年征额率×抵营×可靠×(1+0.9+0.9²+0.9³)。既有直辖区不给新增兵。
+- 税余各档是反事实经常净现金参数，不是未来观察；既有直辖现金增量强制为0。30/60m旧税损是敏感性，而非“归还荷兰会失去66.5m”的毛额误算。
+- 700法郎/在册军年、0.85在場、300/330m军费、20/25万盟军，见C6/C8及主报告。全保B军时同比保其税源和征募，不重复生成新A兵。
+- “三正常年审计”“一至两年语言见习”“1825–1835稳态”是综合政策判断，不是假称档案给出的硬法律。

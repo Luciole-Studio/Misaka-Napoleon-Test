@@ -1,0 +1,152 @@
+      "pred": 1,
+      "train_n": 8,
+      "train_consistency": 0.875,
+      "correct": 1
+     },
+     {
+      "case_id": "PT1807",
+      "cluster": "Iberia",
+      "config": "1101",
+      "truth": 1,
+      "pred": 1,
+      "train_n": 8,
+      "train_consistency": 0.875,
+      "correct": 1
+     },
+     {
+      "case_id": "PL1807",
+      "cluster": "Warsaw",
+      "config": "0010",
+      "truth": 0,
+      "pred": null,
+      "train_n": 2,
+      "train_consistency": 0.5,
+      "correct": null
+     },
+     {
+      "case_id": "IL1810",
+      "cluster": "Illyria",
+      "config": "1100",
+      "truth": 0,
+      "pred": null,
+      "train_n": 1,
+      "train_consistency": null,
+      "correct": null
+     },
+     {
+      "case_id": "IL1813",
+      "cluster": "Illyria",
+      "config": "1101",
+      "truth": 1,
+      "pred": 1,
+      "train_n": 9,
+      "train_consistency": 0.889,
+      "correct": 1
+     }
+    ]
+   }
+  }
+ ],
+ "marginals": {
+  "T=0": {
+   "n": 12,
+   "mass_lo_rate": 0.667,
+   "sustained_lo_rate": 0.083
+  },
+  "T=1": {
+   "n": 23,
+   "mass_lo_rate": 0.609,
+   "sustained_lo_rate": 0.174
+  },
+  "R=0": {
+   "n": 18,
+   "mass_lo_rate": 0.444,
+   "sustained_lo_rate": 0.0
+  },
+  "R=1": {
+   "n": 17,
+   "mass_lo_rate": 0.824,
+   "sustained_lo_rate": 0.294
+  },
+  "E=0": {
+   "n": 16,
+   "mass_lo_rate": 0.875,
+   "sustained_lo_rate": 0.25
+  },
+  "E=1": {
+   "n": 19,
+   "mass_lo_rate": 0.421,
+   "sustained_lo_rate": 0.053
+  },
+  "O=0": {
+   "n": 14,
+   "mass_lo_rate": 0.286,
+   "sustained_lo_rate": 0.0
+  },
+  "O=1": {
+   "n": 21,
+   "mass_lo_rate": 0.857,
+   "sustained_lo_rate": 0.238
+  },
+  "S=0": {
+   "n": 11,
+   "mass_lo_rate": 0.455,
+   "sustained_lo_rate": 0.091
+  },
+  "S=1": {
+   "n": 24,
+   "mass_lo_rate": 0.708,
+   "sustained_lo_rate": 0.167
+  },
+  "D=0": {
+   "n": 15,
+   "mass_lo_rate": 0.667,
+   "sustained_lo_rate": 0.133
+  },
+  "D=1": {
+   "n": 20,
+   "mass_lo_rate": 0.6,
+   "sustained_lo_rate": 0.15
+  },
+  "X=1": {
+   "n": 6,
+   "mass_lo_rate": 0.167,
+   "sustained_lo_rate": 0.0
+  },
+  "X=2": {
+   "n": 29,
+   "mass_lo_rate": 0.724,
+   "sustained_lo_rate": 0.172
+  },
+  "dynasty_exile=0": {
+   "n": 11,
+   "mass_lo_rate": 0.545,
+   "sustained_lo_rate": 0.091
+  },
+  "dynasty_exile=1": {
+   "n": 24,
+   "mass_lo_rate": 0.667,
+   "sustained_lo_rate": 0.167
+  },
+  "brigand_tradition=0": {
+   "n": 19,
+   "mass_lo_rate": 0.684,
+   "sustained_lo_rate": 0.053
+  },
+  "brigand_tradition=1": {
+   "n": 16,
+   "mass_lo_rate": 0.562,
+   "sustained_lo_rate": 0.25
+  },
+  "coast_access=0": {
+   "n": 15,
+   "mass_lo_rate": 0.6,
+   "sustained_lo_rate": 0.067
+  },
+  "coast_access=1": {
+   "n": 20,
+   "mass_lo_rate": 0.65,
+   "sustained_lo_rate": 0.2
+  }
+ }
+}

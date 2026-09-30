@@ -1,0 +1,87 @@
+                                                                          50                                                                                                                                          40
+
+
+
+
+                                                                          40                                                                                                                                          30
+
+
+
+
+                                                                          30                                                                                                                                          20
+
+
+
+
+                                                                          20                                                                                                                                          10
+
+
+
+
+                                                                          10                                                                                                                                            0
+                                                                                                                                                                                                                             1400     1500              1600          1700          1800    1900
+
+
+
+                                                                            0                                                                                                                                         -10
+                                                                                 1400     1500            1600             1700          1800    1900
+              Coefficients of Potato Suitability x Year Dummy Variables                                                                                 Coefficients of All Crop Suitability x Year Dummy Variables
+
+
+
+
+                                                                          -10                                                                                                                                         -20
+
+
+
+
+                                                                          -20                                                                                                                                         -30
+                                                                                                                 Year                                                                                                                                          Year
+
+                                                                                                                       j                                                                                                                                               j
+                                                                                                        (a) Potatoi × It                                                                                                                            (b) All Cropsi × It
+23
+                                                                          0.4                                                                                                                                         0.3
+
+
+
+
+                                                                          0.3                                                                                                                                         0.2
+
+
+
+
+                                                                          0.2                                                                                                                                         0.1
+
+
+
+
+                                                                          0.1                                                                                                                                           0
+                                                                                                                                                                                                                               1500          1600              1700          1800          1900
+
+
+
+                                                                            0                                                                                                                                         -0.1
+                                                                                   1500          1600            1700             1800          1900
+
+
+
+                                                                          -0.1                                                                                                                                        -0.2
+              Coefficients of Potato Suitability x Year Dummy Variables                                                                                 Coefficients of All Crop Suitability x Year Dummy Variables
+
+
+
+
+                                                                          -0.2                                                                                                                                        -0.3
+
+
+
+
+                                                                          -0.3                                                                                                                                        -0.4
+                                                                                                                 Year                                                                                                                                          Year
+
+                                                                                                                        j                                                                                                                                              j
+                                                                                                        (c) Potatoi × It                                                                                                                            (d) All Cropsi × It
+
+     Figure 4: Estimated coefficients of the interaction of cultivation suitability with time period fixed effects. The dependent variables are: (a-b)
+     city population share, and (c-d) change in city population share.

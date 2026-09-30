@@ -1,0 +1,46 @@
+7.2       How Monetary Regimes Shape Expectations
+
+The Object of Analysis: Interest Rates on Public Debt
+
+
+A more formal way to test the hypothesis that default will occur by inflation rather
+than in an outright manner is to examine interest rates on public debt, disentangling
+the premia for default and anticipated inflation. The series used for this exercise is the
+market yield on three percent consolidated annuities, so-called consols, which were the
+benchmark instrument of British debt management over the period (Ashton, 1959). At
+the monthly frequency, this series has so far not been exploited.32
+
+
+Consols formed the larger part of Britain’s funded debt before World War I and were the
+focal point of the yield curve. As such they were not subject to redemption or interest
+rate reductions.33 Unlike most other private debt instruments, neither were consols sub-
+ject to the usury laws, imposing a five percent interest rate ceiling. The interest rate on
+consols, thus, freely reflected conditions of demand and supply in the government debt
+market.
+
+
+Furthermore, consols were a perpetual bond, for which holders received an annual three
+percent coupon. The yield of a consol then equaled interest payments as a percentage
+of the market price. Yields, thus, reflected price movements on the secondary market
+that incorporated investors’ expectations of inflation and default risk (Chamley, 2011).
+Figure 7 displays the evolution of market yields between 1750 and 1950.
+
+
+With the above in mind, it is possible to decompose the nominal interest rate on consols,
+                                                                           e , expected
+rnom , into its expected real component, the marginal product of capital, rreal
+  32
+       Existing research, such as Barro (1987) relies on interest rate series at an annual frequency. These
+annual series are obtained by averaging monthly data, which entails potential problems of temporal
+aggregation, i.e. changes in the property of time series by averaging out observations (Christiano and
+Eichenbaum, 1987; Sims, 1971). As a matter of fact, annual consol yields are significantly different from
+observations for the first and last month of each year. Moreover, this phenomenon is exacerbated in
+years of high volatility. It is, thus, to be expected that my results differ from those found in earlier
+studies on the subject.
+  33
+     From 1752 up until to Goschen’s conversion in 1888, the coupon rate on consols remained indeed at
+three percent.
+
+
+
+                                                     32

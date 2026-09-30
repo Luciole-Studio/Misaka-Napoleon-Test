@@ -1,0 +1,25 @@
+# notes_1810_1848_web.md — 瓦莱/提契诺1810–13、瑞士团在俄、Sonderbund 1847、联合尼德兰王国1815–30（网络材料，均已读原页或权威转录）
+
+## A. 瓦莱兼并（1810）与辛普隆省
+来源1：verfassungen.ch/wallis/annexion10.htm（敕令与元老院令德法对照转录）；来源2：Albert Amy, «Napoléon 1er et le canton du Valais, partie III», Echos de Saint-Maurice（digi-archives.org ESM037042.pdf，瓦莱州刊）；来源3：HLS «Simplon (Departement)»（Renato Arnold, 2011版）；来源4：vs.ch州档案馆虚拟展; 来源5：archives.shvr.ch瓦莱编年（引Grenat 1904、Salamin 1978）。
+
+- **动机信**：1810-11-03枫丹白露致Champagny：«La route du Simplon me coûte quinze millions; je ne peux pas sacrifier l'intérêt de l'Italie et de la France pour cette chétive population»；并令报告中写明调停法时已知瓦莱独立与法意交通难以兼容、«cette République intermédiaire...ne peut subsister plus longtemps»（Amy转录）。另一信：«Cette chétive population rend presqu'inutile la route du Simplon; elle sépare l'Italie de la France à mon détriment»（vs.ch展览转录）。
+- 8月已召瓦莱代表团（主教+六要人，"四名最反法、两名较不反法"）赴巴黎；**代表团直到11-11才从外交部得知国家已亡**——军事行动11-08已发动（Amy）。
+- **1810-11-12帝国敕令**：Art.1瓦莱并入帝国；Art.2设**辛普隆省（département du Simplon）**；Art.3属第7军区；同日令César Berthier任接收总专员（verfassungen.ch；Bull.442）。**11-14 Berthier入锡永**（HLS）；11-15枫丹白露公告版敕令引"辛普隆公路耗资逾1,800万、瓦莱未履行开路时所立承诺"（Amy）；**元老院组织令1810-12-13**：辛普隆省设立法团议员1名（1811年任命）、司法隶里昂帝国法院（verfassungen.ch）。
+- 行政：省会锡永；3个区（布里格、锡永、圣莫里斯）13个"cantons"、市镇并为96个；1806年起驻锡永的法国代表Derville-Maléchard 1811-01-16任省长，1813-04 Rambuteau继任（HLS）。
+- **财政**：税额定6万法郎≈每居民1法郎；1810-11-30致内政大臣：«Il faudrait arranger les finances de manière à ce qu'elles suffisent à couvrir les dépenses de l'administration...Du reste, on ne tirerait point d'argent de ce pays»（Amy）——**与F4"Simplon税收不够行政费"互证：纯战略走廊型兼并，财政净负**。
+- 手法：Berthier"极为得体"，尊重教会、留用瓦莱政府头面人物与全部官员，只要求效忠宣誓；1810-12-01拿破仑令撤走大部分驻军（Amy）。1811年起瓦莱在拿破仑通信中几乎消失（Amy："这段时期没有历史"）。
+- 终局：**1813-12-26省长Rambuteau弃锡永出逃，12-29奥军入圣莫里斯**（HLS）；1815-08-04苏黎世签署入盟约，瓦莱为第20邦，出联邦兵1,280人、年缴9,600瑞郎（vs.ch）。
+
+## B. 提契诺占领1810–13
+来源：1911 Britannica "Ticino (canton)"（wikisource）；Ferri《La neutralità violata. Il Cantone Ticino e il Vallese negli anni napoleonici (1810-1813)》出版说明；Grab p.120。
+- 1803调停法把前属地（乌里属Leventina、十二邦共治Lugano/Locarno/Mendrisio/Valmaggia、Bellinzona等）合为提契诺邦。**1810–1813提契诺被（意大利王国）军队占领**（EB1911:"From 1810 to 1813 it was occupied by the troops of Napoleon"；Grab：1810拿破仑令欧仁占领，因走私猖獗）。
+- Ferri界定：1810年帝国反走私要求迫使瑞士修改海关组织；瓦莱被兼并，提契诺则被"米兰觊觎"、**三年"军事-海关保护国"悬置状态，等拿破仑决定其归属**；调停末期崩溃时有Giubiasco起义（"rivoluzione di Giubiasco"）遭镇压。
+- 【判读】瓦莱与提契诺是同一政策族的两个变体：走廊兼并（成省）vs 缉私占领（悬置）。意大利王国对提契诺的领土要求被拿破仑压着不批——帝国内部（法国vs意大利王国）的分赃冲突本身是瑞士得以保存的原因之一。
+
+## C. 瑞士团在俄国1812：数字带
+- Grab p.121（引Gagliardi）：9,000入俄，**700生还**。
+- 卢塞恩州档案馆展页：**7,000–9,000瑞士兵参加俄国远征，"约10–15%生还"**；1803协约16,000名义额，自由募兵"基本失败"，卢塞恩先加钱、后以威胁/诡计/酒精制造"自愿"，再后强制编入"生活方式可疑者"（夜游者、挥霍者、无业者、私生子之父）与无籍者——**征募社会学：底层清扫式**。
+- Weiach地方史刊（Ulrich Brandenberger编）：\"Von den 10'000 Schweizern in der grande armée kehrten nur 700 aus Russland zurück\"。
+- 专著锚（存在性）：Albert Maag《Die Schicksale der Schweizerregimenter in Napoleons I. Feldzug nach Russland 1812》(3. Aufl., Biel 1900, 413 S., 用联邦档案)——数字细核的标准来源，本卡未取全文。
+- 【口径】入俄7,000–10,000、生还约700–1,300（10–15%）；别列津纳1812-11-28四团断后为其军史巅峰。正文用区间并标注来源分歧。

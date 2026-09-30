@@ -1,0 +1,24 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/lords/1812/apr/24/declaration-of-the-court-of-great"
+final_url: "https://api.parliament.uk/historic-hansard/lords/1812/apr/24/declaration-of-the-court-of-great"
+provider: "exa"
+text_sha256: "dcc1f99cd07f3bbc1fd5063da37733c0192fa30f91fe5b17e6ae3f8dab12f646"
+title: "DECLARATION OF THE COURT OF GREAT BRITAIN RESPECTING THE ORDERS IN COUNCIL. (Hansard, 24 April 1812)"
+content_kind: "page_text"
+---
+
+DECLARATION OF THE COURT OF GREAT BRITAIN RESPECTING THE ORDERS IN COUNCIL. (Hansard, 24 April 1812)
+
+# DECLARATION OF THE COURT OF GREAT BRITAIN RESPECTING THE ORDERS IN COUNCIL.
+
+HL Deb 24 April 1812 vol 22 cc853-7 853
+
+§ At the Court at Carlton-house, the 23d of June, 1812, Present his Royal Highness the Prince Regent in Council.
+
+§ "Whereas his royal highness the Prince Regent was pleased to declare, in the name and on the behalf of his Majesty, on the 21st day of April, 1812, "That if 854 at any time hereafter the Berlin and Milan Decrees shall, by some authentic act of the French government, publicly promulgated, be absolutely and unconditionally repealed, then and from thenceforth the Order in Council of the 7th of January, 1807, and the Order in Council of the 26th of April, 1809, shall without any further Order, be, and the same are hereby declared from thenceforth to be, wholly and absolutely revoked:"
+
+§ "And whereas the Chargé des Affaires of the United States of America, resident at this Court, did, on the 20th day of May last, transmit to lord viscount Castlereagh, one of his Majesty's principal Secretaries of State, a copy of a certain instrument, then for the first time communicated to this Court, purporting to be a Decree passed by the government of France, on the 28th day of April, 1811, by which the Decrees of Berlin and Milan are declared to be definitively no longer in force, in regard to American vessels.
+
+§ "And whereas his royal highness the Prince Regent, although he cannot consider the tenor of the said instrument as satisfying the conditions set forth in the said Order of the 21st of April last, upon which the said Orders were to cease and determine; is nevertheless disposed on his part to take such measures as may tend to reestablish the intercourse between neutral and belligerent nations, upon its accustomed principles—his royal highness the Prince Regent, in the name and on the behalf of his Majesty, is therefore pleased by and with the advice of his Majesty's Privy Council, to order and declare, and it is hereby ordered and declared, that the Order in Council bearing date the 7th day of January, 1807, and the Order in Council bearing date the 26th day of April, 1809, be revoked, so far as may regard American vessels, and their cargoes being American property, from the 1st of August next.
+
+§ "But whereas by certain acts of the government of the United States of America, all British armed vessels are excluded from the harbours and waters of the said United States, the armed vessels of France being permitted to enter therein; and the commercial intercourse between Great Britain and the said United States is interdicted, the commercial intercourse between France and the said United States having been restored; his royal highness the Prince Regent is pleased hereby further to declare, in the name and on the behalf of his Majesty, that if the go- 855 vernment of the said United States shall not, as soon as may be, after this Order shall have been duly notified by his Majesty's minister in America to the said government, revoke, or cause to be revoked, the said acts, this present Order shall in that case, after due notice signified by his Majesty's minister in America to the said government, be thenceforth null and of no effect.

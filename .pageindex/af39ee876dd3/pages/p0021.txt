@@ -1,0 +1,48 @@
+Political Economy of Conscription in Napoleonic France 1077
+
+per 10 km2 within a department significantly predict lower draft dodging
+rates.
+   One potential concern concerning the validity of our results is that
+ruggedness may affect draft evasion indirectly through its effect on other,
+omitted variables. To address this issue, we use a wide range of controls
+collected from archival documents and primary sources. Hence Column
+(2) in Table 1 includes controls for a department’s wheat suitability
+and whether a department is adjacent to the seashore. Column (3) adds
+controls for economic outcomes, specifically a department’s urbaniza-
+tion rate and tax revenues per capita. In Column (4), we further include
+measures for a department’s literacy rate, the percentage of conscripts
+working in the agricultural sector, and the average height of able-
+bodied men of conscription age.33 Including these variables addresses
+the possibility that ruggedness affects draft dodging rates via its effect
+on a department’s overall productivity.34 Less productive departments
+may have lower educational attainment and nutrition levels, which may
+affect young men’s willingness to join the army or ability to pay for a
+replacement.35 Similarly, poorer departments may have lower levels
+of nutritional investment, which may affect the average height of their
+populations. Since Napoléonic France had a minimum height require-
+ment for its conscripts, lower average heights may reduce the need to
+evade the draft in the first place. Finally, Column (4) controls for the
+year a department was created, as this may proxy local administrative
+capacity.
+   In Column (5), we include one additional control: the number of mili-
+tary replacements hired within a department. The system of military
+replacement gave conscripts the ability to hire another man to serve in
+the army in their stead. This institution was made legal de facto on 16
+April 1799, and formalized in 1800 and 1802. It was, however, heavily
+regulated by the Napoleonic regime, especially from 1806 onward. For
+instance, conscripts could only be replaced by men from the same depart-
+ment; replacements had to meet stricter physical and moral requirements,
+
+  33
+     Note that the inclusion of these variables significantly reduces the number of observations
+available since these data were not available for the Belgian, German, and Italian departments.
+  34
+     For instance, collecting the 1,500 francs fine for draft dodging was virtually impossible in
+poor regions.
+  35
+      The prefect of Lozère notices that draft dodging is highest in mountainous parts of his
+department and parts “where the lights of education are the rarest” and mentions the difficulty
+of finding “intelligent” local officials (Mémoire sur la conscription dans le département de la
+Lozère, AN, F/9/209). In Online Appendix F.3.3, we use different literacy measures with no
+substantial effects on our results. For a broader discussion of the relationship between education
+and military recruitment, see Aghion et al. (2019).

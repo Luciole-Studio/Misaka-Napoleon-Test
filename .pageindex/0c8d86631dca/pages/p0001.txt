@@ -1,0 +1,65 @@
+---
+source_url: "https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Bajo%C5%84skie_sumy"
+final_url: "https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Bajo%C5%84skie_sumy"
+sha256: "a26bd0b82763acb2e123409e6e62cf46019d7ef2740df48781a9e81f138913c5"
+text_sha256: "eb14bdd6b4f655d7b3e2252f6d2ff7835522d48275bcdfb09f43cb06b709412b"
+title: "Encyklopedia staropolska/Bajo\u0144skie sumy - Wiki\u017ar\u00f3d\u0142a, wolna biblioteka"
+---
+
+Title: Encyklopedia staropolska/Bajońskie sumy - Wikiźródła, wolna biblioteka
+
+Przejdź do zawartości
+
+Menu główne
+
+Menu główne
+
+przypnij ukryj
+
+Nawigacja
+
+- [Strona główna](https://pl.wikisource.org/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Strona_g%C5%82%C3%B3wna)
+- [Indeks tekstów](https://pl.wikisource.org/wiki/Specjalna:Wszystkie_strony)
+- [Losowy tekst](https://pl.wikisource.org/wiki/Specjalna:Losowa_bez_podstron/Main)
+
+Dla skrybów
+
+- [Ostatnie zmiany](https://pl.wikisource.org/wiki/Specjalna:Ostatnie_zmiany)
+- [Losowy indeks](https://pl.wikisource.org/wiki/Specjalna:Losowa_bez_podstron/Indeks)
+- [Zasady](https://pl.wikisource.org/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Zasady_Wiki%C5%BAr%C3%B3de%C5%82)
+- [Pomoc](https://pl.wikisource.org/wiki/Pomoc:Spis_tre%C5%9Bci)
+- [Skryptorium](https://pl.wikisource.org/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Skryptorium)
+- [Ogłoszenia](https://pl.wikisource.org/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Tablica_og%C5%82osze%C5%84)
+- [Proofread](https://pl.wikisource.org/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Wikiprojekt_Proofread)
+
+[Szukaj](https://pl.wikisource.org/wiki/Specjalna:Szukaj)
+
+Szukaj
+
+Wygląd
+
+- [Przekaż darowiznę](https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=pl.wikisource.org&uselang=pl)
+- [Utwórz konto](https://pl.wikisource.org/w/index.php?title=Specjalna:Utw%C3%B3rz_konto&returnto=Encyklopedia+staropolska%2FBajo%C5%84skie+sumy)
+- [Zaloguj się](https://pl.wikisource.org/w/index.php?title=Specjalna:Zaloguj&returnto=Encyklopedia+staropolska%2FBajo%C5%84skie+sumy)
+
+Narzędzia osobiste
+
+- [Przekaż darowiznę](https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=pl.wikisource.org&uselang=pl)
+- [Utwórz konto](https://pl.wikisource.org/w/index.php?title=Specjalna:Utw%C3%B3rz_konto&returnto=Encyklopedia+staropolska%2FBajo%C5%84skie+sumy)
+- [Zaloguj się](https://pl.wikisource.org/w/index.php?title=Specjalna:Zaloguj&returnto=Encyklopedia+staropolska%2FBajo%C5%84skie+sumy)
+
+# Encyklopedia staropolska/Bajońskie sumy
+
+Dodaj języki
+
+[Dodaj linki](https://www.wikidata.org/wiki/Special:EntityPage/Q108943484#sitelinks-wikisource)
+
+- [Tekst](https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Bajo%C5%84skie_sumy)
+- [Źródło](https://pl.wikisource.org/wiki/Indeks:Encyklopedja_staropolska_ilustrowana_(Zygmunt_Gloger))
+- [Dyskusja](https://pl.wikisource.org/w/index.php?title=Dyskusja:Encyklopedia_staropolska/Bajo%C5%84skie_sumy&action=edit&redlink=1)
+
+polski
+
+- [Czytaj](https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Bajo%C5%84skie_sumy)
+- [Edytuj](https://pl.wikisource.org/w/index.php?title=Encyklopedia_staropolska/Bajo%C5%84skie_sumy&action=edit)
+- [Wyświetl historię](https://pl.wikisource.org/w/index.php?title=Encyklopedia_staropolska/Bajo%C5%84skie_sumy&action=history)

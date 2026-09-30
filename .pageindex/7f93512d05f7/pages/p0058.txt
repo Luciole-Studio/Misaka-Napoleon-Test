@@ -1,0 +1,65 @@
+
+
+Egmont Windsor Castle
+
+74 98
+
+Inconstant Meleager
+
+36 32
+
+Rear: Diadem St George
+
+64 98
+
+Terrible Fortitude Romulus Moselle Fox
+
+74 74 36 18 cutter
+
+Captain Samuel Reeve Captain Davidge Gould Captain Chev. Caraccioli Vice-Admiral Samuel Goodall Captain John Purvis Captain Horatio Nelson
+
+Captain Benjamin Hallowell Commander Ralph Miller Captain Charles Brisbane
+
+Captain Thomas Frederick Captain Augustus Montgomery Vice-Admiral William Hotham Captain John Holloway Captain John Sutton Rear-Admiral Robert Linzee Captain John Gore Captain Thomas Fremantle Captain George Cockburn
+
+Captain Charles Tyler Vice-Admiral Sir Hyde Parker Captain Thomas Foley Captain George Campell Captain William Young Captain George Hope Commander Charles Pater Lieutenant John Gibson
+
+Belle Isle, 17 June 1795
+
+78
+
+A running engagement fought north of Belle Isle in the Bay of Biscay, where a formidable French squadron of 12 ships of the line, two 50-gun ships and nine frigates under Admiral Villaret-Joyeuse pursued a retreating British force of five ships of the line and two frigates under Vice-Admiral William Cornwallis. The Mars, having fallen astern as a result of damaged rigging, narrowly avoided capture when Cornwallis interposed the Royal Sovereign and saved her. Meanwhile, believing that the main British fleet was at hand after the frigate Phaeton issued false signals as a ruse, the French broke off the action.
+
+Royal Sovereign Mars Triumph Brunswick Bellerophon Phaeton Pallas Kingfisher
+
+100 74 74 74 74 38 32 18
+
+Vice-Admiral Hon. William Cornwallis Captain John Whitby Captain Sir Charles Cotton Captain Sir Erasmus Gower Captain Lord Charles Fitzgerald Captain James, Lord Cranstoun Captain Hon. Robert Stopford Captain Hon. Henry Curzon Commander Thomas Gosselin
+
+lie de Groix, 23 June 1795 Lord Bridport, commander of the Channel Fleet with 14 ships of the line, sighted a French squadron of nine ships of the line under Admiral VillaretJoyeuse, which immediately retreated towards Lorient. A general engagement began when the British van overtook the French off Ile de Groix off the Breton coast. The French failed to maintain a cohesive formation and three of their ships surrendered. Bridport, content merely to claim these prizes, broke off action, enabling Villaret-Joyeuse to reach Lorient with his remaining force.
+
+Royal George
+
+100
+
+Queen Charlotte Queen
+
+100 98
+
+London
+
+98
+
+Prince of Wales
+
+98
+
+Prince Barfleur Prince George Sans Pareil
+
+98 98 98 80
+
+Valiant Orion Irresistible Russell Colossus Revolutionnaire Thalia Nymphe Aquilon Astroea Babet Megoera Incendiary Charon Argus Dolly
+
+74 74 74 74 74 44 36 36 32 32 20 14 14 44 14 14
+
+Admiral Lord Bridport Captain William Domett Captain Sir Andrew Douglas Vice-Admiral Alan Gardner Captain William Bedford Vice-Admiral John Colpoys Captain Edward Griffith Rear-Admiral Henry Harvey Captain John Bazely Captain Charles Hamilton Captain James Dacres Captain William Edge Rear-Admiral Lord Hugh Seymour Captain William Browell Captain Christopher Parker Captain Sir James Saumarez Captain Richard Grindall Captain Thomas Larcom Captain John Monkton Captain Francis Cole Captain Lord Henry Paulet Captain George Murray Robert Barlow Captain Richard Lane Captain Edward Codrington Hon. Henry Blackwood Captain John Draper Commander Walter Locke (hospital ship)

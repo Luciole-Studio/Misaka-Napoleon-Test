@@ -1,0 +1,20 @@
+
+
+## C. 经二手转引进入的同时代与档案材料（未亲阅，谱系明示）
+
+- Cevdet Pasha《Tarih》——经Aksan/Shaw转引（Alemdar事迹、1826檄文语境等）。
+- Mehmed Esad Efendi, *Üss-ü Zafer*（1827）——1826檄文文本经Reed英译、Aksan转载；定性=官方辩护书。
+- Juchereau de Saint-Denys, *Révolutions de Constantinople en 1807 et 1808*（1819）——İrad-ı Cedid收入数、Alemdar责任说经Aksan注转引；Juchereau本人1807年任达达尼尔防务顾问（Shaw正文），其书为参与者回忆，回溯性已标。
+- Avigdor Levy, "The Military Policy of Sultan Mahmud II, 1808–1839"（Harvard PhD 1968）与Howard Reed, "The Destruction of the Janissaries…"（Princeton PhD 1951）——1826年细节的底层来源，经Aksan转引。
+- Şevket Pamuk, "Prices in the Ottoman Empire, 1469–1914", *IJMES* 36 (2004) 463——通胀12–15倍与含银量-79%，经Aksan转引。
+- Yavuz Cezar, *Osmanlı maliyesinde bunalım ve değişim dönemi*——1784年14.7M guruş、1795/1804 timar数据，经Yaycioglu转引。
+- Thornton (1807)、Moltke、Macfarlane (1829)、Slade、Walsh、Canning目击记——经Aksan转引的旁观者证词。
+- BOA档案系列（Hatt-ı Hümayun 14214、14203、41388等；Cevdet Hariciye 4361）——经İsmail转引，现行目录待核（上一轮已列追索单）。
+- AAE CP Russie vol.144、CP Turquie诸卷；AN AF IV 1697（Champagny埃尔福特逐日报告）——经Vandal/Süslü/Puryear转引。
+- Testa, *Recueil des traités de la Porte ottomane*, t.I——经Driault转引（1802年法土和约等）。
+
+## D. 检索与获取记录（诚实边界）
+
+- Anna's Archive：Shaw/Aksan/Yaycioglu/Puryear四书经既有会员会话下载并MD5校验（详见各条）；工具=annas-archive skill的只读包装副本（tools/aa.py，含义见卡目录）。
+- Archive.org：Driault全文直取。
+- **未取得/未亲阅**：Karal《Osmanlı Tarihi》（土耳其语通史，源策略列为"转引"——本卡经Aksan/Shaw间接覆盖其叙事范围）；Zens论ayan的专文（Yaycioglu已覆盖同一问题域且更新）；Ranke《History of Servia》（塞尔维亚叙事由Aksan+Shaw承担）；Cezar原书全帙；Mitchell式奥斯曼财政年度序列（**不存在公开英语文献中1800–15逐年中央决算表——此为真实缺口**，E5改判证据指向于此）。这些缺口不改变本卡结论方向，已在⑯改判证据中列明其可改变的具体判断。

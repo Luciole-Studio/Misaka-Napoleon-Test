@@ -1,0 +1,41 @@
+           “The principal advantage of the English cotton trade arises from our machines
+        both for spinning and printing (...). It is impossible to say how soon foreign
+        countries may obtain these machines, but even then, the experience we have in
+        the use of them would give us such an advantage that I should not fear the
+        competition.” – Joseph Smith and Robert Peel (1786)1
+
+    A long-standing debate in economics is centered on the question of whether certain indus-
+tries can become competitive in the long-run if they are given temporary trade protection.
+The idea, widely known as the infant industry argument, has a long tradition in the history
+of economic thought, dating back to at least Alexander Hamilton and Friedrich List.2 As-
+sessing the empirical relevance of these predictions has proven difficult for two reasons. First,
+infant industry protection is generally granted by the policy-maker at the country-wide level.
+This implies that even if the industry becomes competitive in the long-run, it is difficult to
+answer the counterfactual question of whether the industry would have become competitive
+anyway. Second, in the case of a specific policy intervention, it is not possible to disentangle
+the effect of the economic mechanism at work from the efficacy of implementation and the
+inherent endogeneity of which industry the policy maker chooses to protect.
+    The principal contribution of this paper is to estimate the causal effect of temporary
+trade protection on the development of an infant industry and the economy more generally.
+I present a natural experiment which replicates infant industry protection without the direct
+involvement of the policy maker, making it possible to address both identification challenges.
+I study the effect of temporary trade protection on the mechanized cotton-spinning industry
+across regions of the French Empire during and after the Napoleonic Wars (1803-15).
+    Throughout these wars, the French Empire was exposed to a regionally differential, and
+arguably exogenous, shock to the cost of trading with Britain. In particular, the wars led to
+a unique historical episode whereby a blockade of Britain was implemented by attempting
+to stop British goods from entering Continental Europe. Ports were closed to ships carrying
+British goods, and the military was active in enforcing the blockade along the coastline. In
+practice however, holes in the system opened up almost immediately. Instead of achieving
+the original goal of stopping trade flows between Britain and the Continent, the blockade
+displaced trade to more circuitous, and hence more expensive routes. In the north of France,
+effective distance between a given region and London increased markedly, as trade was
+diverted either to unreliable indirect routes through German regions, or through Southern
+Europe. In the southern regions of France, effective distance to London changed to a far
+  1
+      Quoted in Edwards (1967, p.51).
+  2
+      Hamilton (1791) and List (1856).
+
+
+                                               2

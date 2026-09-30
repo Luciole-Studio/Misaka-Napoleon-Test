@@ -1,0 +1,91 @@
+Rural Change and Royal Finances in Spain
+
+                "Standard error"                     51.2                      21.3              26.4
+
+
+
+                         N                             4                        5                 5
+
+
+
+                   Houses (casas)c                    51.8                     68.9              48.9
+
+
+
+                         N                             1                        2                 1
+
+
+
+                SOURCE. Based on AHPM, deeds of deposit, and catastros of towns studied in Part 2.
+
+
+
+                                             a According to RC 16 Aug. 1801.
+
+
+
+                                                     b El Mirón only.
+
+
+
+                                                c Baños de la Encina only.
+
+
+
+             The two readings below 1.00 are obviously the effect of inadequate data (an augmentation over the base price in hard currency
+       would by definition be larger than no augmentation, and buyers would not pay more in hard currency than in vales). The reading 1.62 for
+       E+/E for arable is, on the other hand, too high. The greatest possible augmentation according to the law was 50 percent (where the
+       crown recognized a debt for the full assessment for a property that had been sold for two-thirds of the assessed value in efectivo). If one
+       averages the readings for E+/E and VR/E weighted by the number of sales on which each reading is based, one obtains the following
+       figures: [2]
+
+
+
+
+             Using these readings as the best possible approximations, one can calculate the ratios of selling price to cadastral value for sales
+       made for E, E+, and VR for each type of property that will match these readings and result in the smallest net change in the three ratios
+       provided by Table E.1. These are:
+
+       [2] One might expect the ratio VR/E to depend on the average discount of the vales over the period of the sales. This is not the case,
+       however, for there was not free interchange of the two types of currency in bidding for properties. Once a bid had been made in hard
+       currency, bids in vales were no longer accepted. In effect, a free interchange would have produced a reading VR/E of about 1.8.
+
+
+                                                                                          ― 776 ―
+
+
+                                      E          E+ (1.38E)       VR (1.30E )
+
+
+              Arable                 18.6            25.7               24.2
+
+
+          Olive groves               33.8            46.6               43.9
+
+
+            Meadows                  113.0          156.0               147.0
+
+
+             Houses                  47.1            65.0               61.2
+
+             All the corrected ratios are within one "standard error" of the original reading except one, E+ for meadows, and this fact gives us
+       confidence in our procedure.
+           We need next to know what proportion of the total value of the deeds of deposit were recorded under the different terms of
+       payment. For this purpose we have available again only the data on the provinces of Jaén and Salamanca (in percentages):
+
+
+                                Jaén            Salamanca               Mean
+
+
+               E                 20                  13                  17
+
+
+              E+                 35                  17                  26
+
+
+              VR                 45                  70                  57
+
+
+
+
+http://publishing.cdlib.org/ucpressebooks/view?docId=ft4d5nb394;chunk.id=0;doc.view=print[1/22/2011 11:30:51 AM]

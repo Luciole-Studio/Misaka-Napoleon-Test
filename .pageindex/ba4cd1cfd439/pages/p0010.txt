@@ -1,0 +1,59 @@
+
+
+2005). 26 For each market pair in our sample, we have established using 
+historical maps whether a direct trade route would have to cross any 
+customs borders. If the number of customs borders to be crossed is 
+greater than or equal to one, the variable CustLibjkt is coded as 0, other t - 
+wise it is 1, for each market pair jk and year t. 27 For example, the customs 
+variable CustLibjkt turns to 1 for the pair Berlin-Nurnberg in 1834 (when t 
+Bavaria joined the Zollverein), while it changes from 0 to 1 for Berlin and 
+Parchim in the year 1867, when Mecklenburg joined the Zollverein. The 
+variable also covers the non-Zollverein FXVWRPV OLEHUDOL]DWLRQV DPRQJ 
+German states (like the Southern German Union of 1828). 
+7RLOOXVWUDWHRXUDSSURDFK FRQVLGHUWKHFXVWRPVOLEHUDOL]DWLRQVRIWKH 
+year 1834. In the following analysis, we distinguish the city-pairs for 
+which tariffs were abolished in the year 1834 from the other observations 
+IRUZKLFKFXVWRPVZHUHOLEHUDOL]HGLQDQRWKHU\HDU RUQRWDWDOOGXULQJ 
+the sample period. In Figure 5 we show the average price gap for both of 
+WKHVHJURXSVGXULQJWKHWHQ\HDUVEHIRUHWKH OLEHUDOL]DWLRQ YHUVXV 
+WKHWHQ\HDUVDIWHUWKH OLEHUDOL]DWLRQ 28 
+7KH¿JXUHVKRZVWKDWEHIRUHWKH OLEHUDOL]DWLRQ WKHDYHUDJHSULFH 
+gap between cities that would reduce their customs barriers was around 
+0.22, somewhat higher than the value of 0.17 for the cities that would 
+QRWOLEHUDOL]HLQ $IWHUWKH OLEHUDOL]DWLRQ WKHW\SLFDOSULFHJDS 
+IRU WKH OLEHUDOL]HUV ZDV DURXQG GRZQ E\ ZKHUHDV WKH QRQ 
+OLEHUDOL]HUV¶SULFHJDSIHOORQO\ E\ WRDERXW RQDYHUDJH 7KXV 
+WKHVHGLIIHUHQFH LQ GLIIHUHQFHVUHVXOWVIRUWKH FXVWRPVOLEHUDOL]DWLRQ 
+DUHVXSSRUWLYHRIWKHLGHDWKDWFXVWRPVOLEHUDOL]DWLRQVKDGDVXEVWDQWLDO 
+effect on price convergence and trade in nineteenth century Germany. 
+The regression analysis below extends the analysis underlying Figure 5 
+in three important ways. 
+First, while the evidence shown in Figure 5 supports the thesis that 
+FXVWRPOLEHUDOL]DWLRQHIIHFWUHGXFHGSULFHJDSV WKHUHZHUHLQVWLWXWLRQDO 
+¿VFDO WHFKQRORJLFDO DQGRWKHUFKDQJHVDIIHFWLQJFLWLHVGLIIHUHQWO\RYHU 
+the nineteenth century that might account for part of the difference in 
+price convergence. In the regression analysis we can account for the major 
+alternative explanations (see in particular Table 2). Second, instead of 
+IRFXVLQJRQWKHFXVWRPVOLEHUDOL]DWLRQHYHQWRI ZHSRRODFURVVPDQ\ 
+
+26 These excluded observations are typically within-state market pairs. 27:KLOHWKLVGH¿QLWLRQPHDQVZHFRXOG EHPLVVLQJWKHFXPXODWLYHHIIHFWRIPXOWLSOHFXVWRPV ERUGHUV ZH KDYH H[SORUHG WKH LVVXH DQG IRXQG WKDW QR VLJQL¿FDQW GLIIHUHQFH LQ WKH FXVWRPV OLEHUDOL]DWLRQHIIHFWIRUVLQJOHYHUVXVPXOWLSOHFXVWRPVOLEHUDOL]DWLRQV 28 5HFDOO WKDW ZH HPSOR\ GDWD HYHU\ ¿YH \HDUV VR WKH SUH SHULRG \HDUV DUH DQG 1830, while the post-period years are 1835, 1840, and 1845.
+
+TABLE 2
+
+REDUCED-FORM RESULTS
+
+(1) Base
+
+(2) French rule
+
+(3) Railway costs
+
+(4) Protest antism
+
+(5) Remote ness
+
+(6) Shipping (7) Coast
+
+Rel. Distance to Coast –0.104 [0.000]
+
+–0.120 [0.000] –0.104 [0.000] –0.252 [0.000] –0.0851 [0.006] –0.228 [0.00] –0.162 [0.000]

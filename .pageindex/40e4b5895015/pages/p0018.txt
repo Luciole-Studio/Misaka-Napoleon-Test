@@ -1,0 +1,34 @@
+                          The French revolution and German industrialization 177
+
+Figure 1. Probability of suspended reforms, given French Presence.
+
+
+
+
+– in the effect of Zit onXit means that the estimate of β in the second stage
+regression cannot be reliably specified. In other words, there is no consistent
+connection of the instrument (French presence) to the treatment variable (years of
+reform).
+   The failure of monotonicity means that some polities experience more years
+of reform – they are early reformers – with longer French occupation, yet others,
+with the same French presence, are late reformers. Such contradictory results
+are not surprising. Intuitively, particular polities will react differently to foreign
+occupation depending on the specific circumstances.
+   We see yet another manifestation of inconsistency in the ACJR approach
+when we focus attention on the reversion of institutional change. In Figure 1,
+we show the probability of reform suspension conditioned on the number of
+years of occupation. Notice that polities with 0 or 19 years of occupation never
+suspend reforms, while polities with 3 or 6 years of occupation have a positive
+probability of suspending all types of reforms. Once again, the instrument
+(French presence) is not a consistent – reliable – indicator of the treatment
+(years of reform). As a result, the ACJR econometric model – even when the
+corrected reform vintages are incorporated – does not reflect the impact of French
+occupation on German industrialization and urbanization. Rather, the sort of
+vintage model on display here simply captures the random impact of common yet
+unobservable characteristics for polities sharing a given value of fpresence (the
+instrument).
+   The above econometric detail should be sufficient to alert historians and
+others interested in institutional economics that the ‘variety of different empirical
+strategies’ on offer by ACJR serve to obscure the dubious efficacy of the
+French in Germany. It is now time to offer a plausible explanation of German
+industrialization.

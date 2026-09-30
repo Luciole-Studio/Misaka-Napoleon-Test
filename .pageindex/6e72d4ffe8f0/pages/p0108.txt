@@ -1,0 +1,425 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+Solomon Islands,SLB,1801,56998
+Solomon Islands,SLB,1802,56998
+Solomon Islands,SLB,1803,56998
+Solomon Islands,SLB,1804,56998
+Solomon Islands,SLB,1805,56998
+Solomon Islands,SLB,1806,56998
+Solomon Islands,SLB,1807,56998
+Solomon Islands,SLB,1808,56998
+Solomon Islands,SLB,1809,56998
+Solomon Islands,SLB,1810,56998
+Solomon Islands,SLB,1811,56998
+Solomon Islands,SLB,1812,56998
+Solomon Islands,SLB,1813,56998
+Solomon Islands,SLB,1814,56998
+Solomon Islands,SLB,1815,56998
+Solomon Islands,SLB,1816,56998
+Solomon Islands,SLB,1817,56998
+Solomon Islands,SLB,1818,56998
+Solomon Islands,SLB,1819,57121
+Solomon Islands,SLB,1820,57369
+Solomon Islands,SLB,1821,57743
+Solomon Islands,SLB,1822,58244
+Solomon Islands,SLB,1823,58873
+Solomon Islands,SLB,1824,59510
+Solomon Islands,SLB,1825,60153
+Solomon Islands,SLB,1826,60803
+Solomon Islands,SLB,1827,61460
+Solomon Islands,SLB,1828,62125
+Solomon Islands,SLB,1829,62796
+Solomon Islands,SLB,1830,63475
+Solomon Islands,SLB,1831,64161
+Solomon Islands,SLB,1832,64855
+Solomon Islands,SLB,1833,65556
+Solomon Islands,SLB,1834,66264
+Solomon Islands,SLB,1835,66981
+Solomon Islands,SLB,1836,67705
+Solomon Islands,SLB,1837,68436
+Solomon Islands,SLB,1838,69176
+Solomon Islands,SLB,1839,69924
+Solomon Islands,SLB,1840,70680
+Solomon Islands,SLB,1841,71444
+Solomon Islands,SLB,1842,72216
+Solomon Islands,SLB,1843,72997
+Solomon Islands,SLB,1844,73786
+Solomon Islands,SLB,1845,74583
+Solomon Islands,SLB,1846,75389
+Solomon Islands,SLB,1847,76204
+Solomon Islands,SLB,1848,77028
+Solomon Islands,SLB,1849,77861
+Solomon Islands,SLB,1850,78702
+Solomon Islands,SLB,1851,79533
+Solomon Islands,SLB,1852,80372
+Solomon Islands,SLB,1853,81221
+Solomon Islands,SLB,1854,82078
+Solomon Islands,SLB,1855,82944
+Solomon Islands,SLB,1856,83820
+Solomon Islands,SLB,1857,84704
+Solomon Islands,SLB,1858,85598
+Solomon Islands,SLB,1859,86502
+Solomon Islands,SLB,1860,87415
+Solomon Islands,SLB,1861,88337
+Solomon Islands,SLB,1862,89270
+Solomon Islands,SLB,1863,90212
+Solomon Islands,SLB,1864,91164
+Solomon Islands,SLB,1865,92126
+Solomon Islands,SLB,1866,93098
+Solomon Islands,SLB,1867,94081
+Solomon Islands,SLB,1868,95074
+Solomon Islands,SLB,1869,96077
+Solomon Islands,SLB,1870,97091
+Solomon Islands,SLB,1871,98116
+Solomon Islands,SLB,1872,99151
+Solomon Islands,SLB,1873,100197
+Solomon Islands,SLB,1874,101255
+Solomon Islands,SLB,1875,102323
+Solomon Islands,SLB,1876,103403
+Solomon Islands,SLB,1877,104494
+Solomon Islands,SLB,1878,105597
+Solomon Islands,SLB,1879,106711
+Solomon Islands,SLB,1880,107838
+Solomon Islands,SLB,1881,108976
+Solomon Islands,SLB,1882,110126
+Solomon Islands,SLB,1883,111288
+Solomon Islands,SLB,1884,112462
+Solomon Islands,SLB,1885,113649
+Solomon Islands,SLB,1886,114848
+Solomon Islands,SLB,1887,116060
+Solomon Islands,SLB,1888,117285
+Solomon Islands,SLB,1889,118522
+Solomon Islands,SLB,1890,119773
+Solomon Islands,SLB,1891,121037
+Solomon Islands,SLB,1892,122314
+Solomon Islands,SLB,1893,123605
+Solomon Islands,SLB,1894,124909
+Solomon Islands,SLB,1895,126227
+Solomon Islands,SLB,1896,127559
+Solomon Islands,SLB,1897,128905
+Solomon Islands,SLB,1898,130265
+Solomon Islands,SLB,1899,131639
+Solomon Islands,SLB,1900,133028
+Solomon Islands,SLB,1901,134432
+Solomon Islands,SLB,1902,135851
+Solomon Islands,SLB,1903,137284
+Solomon Islands,SLB,1904,138733
+Solomon Islands,SLB,1905,140196
+Solomon Islands,SLB,1906,141676
+Solomon Islands,SLB,1907,143170
+Solomon Islands,SLB,1908,144681
+Solomon Islands,SLB,1909,145908
+Solomon Islands,SLB,1910,146847
+Solomon Islands,SLB,1911,147497
+Solomon Islands,SLB,1912,147854
+Solomon Islands,SLB,1913,147914
+Solomon Islands,SLB,1914,147975
+Solomon Islands,SLB,1915,148035
+Solomon Islands,SLB,1916,148096
+Solomon Islands,SLB,1917,148156
+Solomon Islands,SLB,1918,148255
+Solomon Islands,SLB,1919,146959
+Solomon Islands,SLB,1920,144333
+Solomon Islands,SLB,1921,140437
+Solomon Islands,SLB,1922,135329
+Solomon Islands,SLB,1923,129064
+Solomon Islands,SLB,1924,123089
+Solomon Islands,SLB,1925,117391
+Solomon Islands,SLB,1926,111957
+Solomon Islands,SLB,1927,106774
+Solomon Islands,SLB,1928,101831
+Solomon Islands,SLB,1929,97992
+Solomon Islands,SLB,1930,95207
+Solomon Islands,SLB,1931,93428
+Solomon Islands,SLB,1932,92610
+Solomon Islands,SLB,1933,92708
+Solomon Islands,SLB,1934,92806
+Solomon Islands,SLB,1935,92904
+Solomon Islands,SLB,1936,93002
+Solomon Islands,SLB,1937,93101
+Solomon Islands,SLB,1938,93199
+Solomon Islands,SLB,1939,93496
+Solomon Islands,SLB,1940,93992
+Solomon Islands,SLB,1941,94691
+Solomon Islands,SLB,1942,95595
+Solomon Islands,SLB,1943,96707
+Solomon Islands,SLB,1944,97832
+Solomon Islands,SLB,1945,98970
+Solomon Islands,SLB,1946,100121
+Solomon Islands,SLB,1947,101286
+Solomon Islands,SLB,1948,102464
+Solomon Islands,SLB,1949,103770
+Solomon Islands,SLB,1950,108650
+Solomon Islands,SLB,1951,110972
+Solomon Islands,SLB,1952,113501
+Solomon Islands,SLB,1953,116223
+Solomon Islands,SLB,1954,119126
+Solomon Islands,SLB,1955,122199
+Solomon Islands,SLB,1956,125357
+Solomon Islands,SLB,1957,128689
+Solomon Islands,SLB,1958,132320
+Solomon Islands,SLB,1959,136144
+Solomon Islands,SLB,1960,139698
+Solomon Islands,SLB,1961,142921
+Solomon Islands,SLB,1962,146210
+Solomon Islands,SLB,1963,149607
+Solomon Islands,SLB,1964,153098
+Solomon Islands,SLB,1965,156696
+Solomon Islands,SLB,1966,160403
+Solomon Islands,SLB,1967,164255
+Solomon Islands,SLB,1968,168297
+Solomon Islands,SLB,1969,172488
+Solomon Islands,SLB,1970,176590
+Solomon Islands,SLB,1971,180655
+Solomon Islands,SLB,1972,185005
+Solomon Islands,SLB,1973,189788
+Solomon Islands,SLB,1974,195056
+Solomon Islands,SLB,1975,200759
+Solomon Islands,SLB,1976,207210
+Solomon Islands,SLB,1977,214426
+Solomon Islands,SLB,1978,222040
+Solomon Islands,SLB,1979,229964
+Solomon Islands,SLB,1980,238149
+Solomon Islands,SLB,1981,246569
+Solomon Islands,SLB,1982,255213
+Solomon Islands,SLB,1983,264084
+Solomon Islands,SLB,1984,273176
+Solomon Islands,SLB,1985,282468
+Solomon Islands,SLB,1986,291855
+Solomon Islands,SLB,1987,301426
+Solomon Islands,SLB,1988,311278
+Solomon Islands,SLB,1989,321293
+Solomon Islands,SLB,1990,331448
+Solomon Islands,SLB,1991,341743
+Solomon Islands,SLB,1992,352215
+Solomon Islands,SLB,1993,362850
+Solomon Islands,SLB,1994,373685
+Solomon Islands,SLB,1995,384744
+Solomon Islands,SLB,1996,396017
+Solomon Islands,SLB,1997,407480
+Solomon Islands,SLB,1998,419078
+Solomon Islands,SLB,1999,430511
+Solomon Islands,SLB,2000,440481
+Solomon Islands,SLB,2001,449137
+Solomon Islands,SLB,2002,457676
+Solomon Islands,SLB,2003,466164
+Solomon Islands,SLB,2004,474618
+Solomon Islands,SLB,2005,483090
+Solomon Islands,SLB,2006,491602
+Solomon Islands,SLB,2007,500168
+Solomon Islands,SLB,2008,508802
+Solomon Islands,SLB,2009,518150
+Solomon Islands,SLB,2010,532976
+Solomon Islands,SLB,2011,552958
+Solomon Islands,SLB,2012,573623
+Solomon Islands,SLB,2013,594952
+Solomon Islands,SLB,2014,616915
+Solomon Islands,SLB,2015,639423
+Solomon Islands,SLB,2016,662387
+Solomon Islands,SLB,2017,685677
+Solomon Islands,SLB,2018,709109
+Solomon Islands,SLB,2019,728156
+Solomon Islands,SLB,2020,744505
+Solomon Islands,SLB,2021,762594
+Solomon Islands,SLB,2022,781075
+Solomon Islands,SLB,2023,800014
+Somalia,SOM,-10000,3470
+Somalia,SOM,-9000,5206
+Somalia,SOM,-8000,7809
+Somalia,SOM,-7000,11714
+Somalia,SOM,-6000,17571
+Somalia,SOM,-5000,26357
+Somalia,SOM,-4000,39535
+Somalia,SOM,-3000,59303
+Somalia,SOM,-2000,88955
+Somalia,SOM,-1000,133432
+Somalia,SOM,0,200149
+Somalia,SOM,100,214652
+Somalia,SOM,200,230207
+Somalia,SOM,300,246889
+Somalia,SOM,400,264779
+Somalia,SOM,500,283966
+Somalia,SOM,600,304544
+Somalia,SOM,700,326612
+Somalia,SOM,800,350280
+Somalia,SOM,900,369740
+Somalia,SOM,1000,389200
+Somalia,SOM,1100,467040
+Somalia,SOM,1200,544880
+Somalia,SOM,1300,622720
+Somalia,SOM,1400,700560
+Somalia,SOM,1500,778400
+Somalia,SOM,1600,827050
+Somalia,SOM,1700,875700
+Somalia,SOM,1710,886058
+Somalia,SOM,1720,896416
+Somalia,SOM,1730,906775
+Somalia,SOM,1740,917133
+Somalia,SOM,1750,927491
+Somalia,SOM,1760,937850
+Somalia,SOM,1770,948208
+Somalia,SOM,1780,958566
+Somalia,SOM,1790,968925
+Somalia,SOM,1800,988951
+Somalia,SOM,1801,989372
+Somalia,SOM,1802,989796
+Somalia,SOM,1803,990219
+Somalia,SOM,1804,990642
+Somalia,SOM,1805,991066
+Somalia,SOM,1806,991490
+Somalia,SOM,1807,991914
+Somalia,SOM,1808,992338
+Somalia,SOM,1809,992762
+Somalia,SOM,1810,993190
+Somalia,SOM,1811,993894
+Somalia,SOM,1812,994879
+Somalia,SOM,1813,996147
+Somalia,SOM,1814,997700
+Somalia,SOM,1815,999540
+Somalia,SOM,1816,1001670
+Somalia,SOM,1817,1004090
+Somalia,SOM,1818,1006802
+Somalia,SOM,1819,1009810
+Somalia,SOM,1820,1013114
+Somalia,SOM,1821,1019757
+Somalia,SOM,1822,1026458
+Somalia,SOM,1823,1039860
+Somalia,SOM,1824,1053438
+Somalia,SOM,1825,1067193
+Somalia,SOM,1826,1081128
+Somalia,SOM,1827,1095244
+Somalia,SOM,1828,1109545
+Somalia,SOM,1829,1124033
+Somalia,SOM,1830,1138709
+Somalia,SOM,1831,1153578
+Somalia,SOM,1832,1168640
+Somalia,SOM,1833,1183900
+Somalia,SOM,1834,1199358
+Somalia,SOM,1835,1215018
+Somalia,SOM,1836,1230883
+Somalia,SOM,1837,1246955
+Somalia,SOM,1838,1263237
+Somalia,SOM,1839,1279731
+Somalia,SOM,1840,1296441
+Somalia,SOM,1841,1313369
+Somalia,SOM,1842,1330518
+Somalia,SOM,1843,1347891
+Somalia,SOM,1844,1365491
+Somalia,SOM,1845,1383320
+Somalia,SOM,1846,1401383
+Somalia,SOM,1847,1419681
+Somalia,SOM,1848,1438218
+Somalia,SOM,1849,1453143
+Somalia,SOM,1850,1464409
+Somalia,SOM,1851,1471377
+Somalia,SOM,1852,1474586
+Somalia,SOM,1853,1473992
+Somalia,SOM,1854,1473398
+Somalia,SOM,1855,1472804
+Somalia,SOM,1856,1472211
+Somalia,SOM,1857,1471617
+Somalia,SOM,1858,1471023
+Somalia,SOM,1859,1470429
+Somalia,SOM,1860,1469836
+Somalia,SOM,1861,1469242
+Somalia,SOM,1862,1468648
+Somalia,SOM,1863,1468054
+Somalia,SOM,1864,1467461
+Somalia,SOM,1865,1466867
+Somalia,SOM,1866,1466273
+Somalia,SOM,1867,1465680
+Somalia,SOM,1868,1465086
+Somalia,SOM,1869,1464785
+Somalia,SOM,1870,1464777
+Somalia,SOM,1871,1465062
+Somalia,SOM,1872,1465639
+Somalia,SOM,1873,1466509
+Somalia,SOM,1874,1467380
+Somalia,SOM,1875,1468250
+Somalia,SOM,1876,1469121
+Somalia,SOM,1877,1469992
+Somalia,SOM,1878,1470864
+Somalia,SOM,1879,1471736
+Somalia,SOM,1880,1472608
+Somalia,SOM,1881,1473480
+Somalia,SOM,1882,1474352
+Somalia,SOM,1883,1475225
+Somalia,SOM,1884,1476098
+Somalia,SOM,1885,1476972
+Somalia,SOM,1886,1477845
+Somalia,SOM,1887,1478719
+Somalia,SOM,1888,1479594
+Somalia,SOM,1889,1481061
+Somalia,SOM,1890,1483123
+Somalia,SOM,1891,1485781
+Somalia,SOM,1892,1489037
+Somalia,SOM,1893,1492893
+Somalia,SOM,1894,1496759
+Somalia,SOM,1895,1500634
+Somalia,SOM,1896,1504520
+Somalia,SOM,1897,1508415
+Somalia,SOM,1898,1512319
+Somalia,SOM,1899,1516234
+Somalia,SOM,1900,1520159
+Somalia,SOM,1901,1524093
+Somalia,SOM,1902,1528038
+Somalia,SOM,1903,1531992
+Somalia,SOM,1904,1535956
+Somalia,SOM,1905,1539931
+Somalia,SOM,1906,1543915
+Somalia,SOM,1907,1547909
+Somalia,SOM,1908,1551914
+Somalia,SOM,1909,1555616
+Somalia,SOM,1910,1559015
+Somalia,SOM,1911,1562110
+Somalia,SOM,1912,1564900
+Somalia,SOM,1913,1567383
+Somalia,SOM,1914,1569869
+Somalia,SOM,1915,1572359
+Somalia,SOM,1916,1574853
+Somalia,SOM,1917,1577351
+Somalia,SOM,1918,1580505
+Somalia,SOM,1919,1586205
+Somalia,SOM,1920,1594481
+Somalia,SOM,1921,1605363
+Somalia,SOM,1922,1618883
+Somalia,SOM,1923,1635072
+Somalia,SOM,1924,1651422
+Somalia,SOM,1925,1667937
+Somalia,SOM,1926,1684616
+Somalia,SOM,1927,1701462
+Somalia,SOM,1928,1718477
+Somalia,SOM,1929,1734960
+Somalia,SOM,1930,1750902
+Somalia,SOM,1931,1766291
+Somalia,SOM,1932,1781115
+Somalia,SOM,1933,1795364
+Somalia,SOM,1934,1809727
+Somalia,SOM,1935,1824205
+Somalia,SOM,1936,1838799
+Somalia,SOM,1937,1853509
+Somalia,SOM,1938,1868337
+Somalia,SOM,1939,1885942
+Somalia,SOM,1940,1906384
+Somalia,SOM,1941,1929728
+Somalia,SOM,1942,1956037
+Somalia,SOM,1943,1985378
+Somalia,SOM,1944,2015159
+Somalia,SOM,1945,2045386
+Somalia,SOM,1946,2076067
+Somalia,SOM,1947,2107208
+Somalia,SOM,1948,2138816
+Somalia,SOM,1949,2174056
+Somalia,SOM,1950,2213139
+Somalia,SOM,1951,2276682
+Somalia,SOM,1952,2340259
+Somalia,SOM,1953,2403576
+Somalia,SOM,1954,2467314
+Somalia,SOM,1955,2532253
+Somalia,SOM,1956,2598371
+Somalia,SOM,1957,2665713
+Somalia,SOM,1958,2733407
+Somalia,SOM,1959,2803095
+Somalia,SOM,1960,2876333
+Somalia,SOM,1961,2952057
+Somalia,SOM,1962,3030096

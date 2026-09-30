@@ -1,0 +1,41 @@
+
+
+### G03　Grab：附庸与并合体制（英语）
+Alexander Grab, Napoleon and the Transformation of Europe, Palgrave Macmillan, 2003。
+- 实读pp.25–28、81–82、158–162、169–170、188–191；https://ndl.ethernet.edu.et/bitstream/123456789/44567/1/2.Alexander%20Grab.pdf ；`downloads/pages/2ad693d5ac13.md`，doc2ad693d5ac13。未声称全书通读。
+- p.26原句：“The multinational com position of Napoleon’s army was most evident during the Russian campaign, where over half of his 600,000 troops were non-French.” 抽取断词com position保留。 与1807普波约三分之一盟軍分母不同。累计外国兵720,000、莱茵邦联126,000承诺、瑞士12,000与那不勒斯16,000不能当同日实到相加。
+- pp.81–82比利时1798–1813累计216,111编入，征集渐趋顺畅；没有本卡已核逐年到营率。
+- pp.158–162王国峰值6.7百万人口；1802–1814累计155,000征兵、1812军额70,000；25,000驻法军与当地军队共用财政，勿双计净贡。
+- p.169转引：“there can be little doubt that the French had restored civil order in Piedmont by 1809, nor is it contestable that they made their rule effective.” 这是作者引注30的判断，不是征兵实得率。1802并合至1809的七年不推广为统一成熟律。
+- pp.188–191伊利里亚1.5百万人，1812军海9.9m/总预算13.5m、行政缺员与慢整合；不由此估出本卡12‰驻军。
+
+### V77　van Creveld：后勤条件（英语）
+Martin van Creveld, Supplying War: Logistics from Wallenstein to Patton, Cambridge University Press, 1977；按所读文本印页定位。
+- https://vdoc.pub/documents/supplying-war-logistics-from-wallenstein-to-patton-28jjb479976g ；`downloads/pages/5b7b985b0f78.md`，doc5b7b985b0f78。实读第二章49–65、71–74相关段，未通读全书。
+- p.64说明20万人日粮300吨、600英里按20英里/日往返60日，需求18,000吨运输；本卡复算。1.5kg/人日由此除算，不称统一配给标准；马料10kg/匹日是本卡另设。
+- 1807七运输营每营600车、1812扩26营；仓库、河运、地方购买征发并用。200英里独立运输尺度是战役例证，非全欧驻军地理定律。
+
+### D13　补马数量审计（英语，保留矛盾）
+Paul L. Dawson, “Napoleon’s Equine Strategy in 1813”, Napoleon Series, 2013。
+- https://www.napoleon-series.org/military-info/organization/France/Cavalry/Remounts/c_remounts1813.html ；`downloads/pages/f3c3e5561ee4.md`。核读采购表、归结与脚注，未查其AN/SHD原档。
+- 来源报65,418配马人员（56,918骑兵＋8,500驾驶），另报81,918采购马。日期/月均及部分汇总矛盾，故只作量级与组织证据，不入同日库存校准；全国3,500,011民马不是合格军马。
+
+## B．同期文书、军额切片与人口
+
+### O10　Oman卷III：1810-01-15
+Charles Oman, A History of the Peninsular War, vol.III, Oxford, Clarendon Press, 1908，Appendix VII, pp.532–539。
+- 下载https://www.gutenberg.org/ebooks/55231.txt.utf-8 → https://www.gutenberg.org/cache/epub/55231/pg55231.txt ；`downloads/f2_oman_vol3.txt`，doc8e5a80a90ef6。
+- 本卡核表头、汇总及非军团各项，未通读本卷。表头：“THE FRENCH ARMY OF SPAIN ON JAN. 15, 1810”；作者转AN返表，原档未核。
+- 尾注：“Of whom 324,996 are actually in Spain, and of these 262,051 are ‘Present under arms’ with the colours.” 采用作者明示境内小计，不称全国法国军。
+- Grand Total360,603包括Bayonne/在途/未起行后卫；全列相加360,573差30。保留打印数与算术差异，不静默修订，更不把全部总表当境内军。笔记`notes_oman1810_fiscal.md`。
+
+### O11　Oman卷IV：1811-07-15
+Charles Oman, A History of the Peninsular War, vol.IV, Oxford, Clarendon Press, 1911，Appendix XVIII, pp.638–642。
+- https://www.gutenberg.org/ebooks/56812 ；本地`downloads/f2_oman_vol4.txt`，doc7277722ba854。核六军返表、Bayonne后备及总计，未核AN原卷。
+- 原总计在册354,461、在伍291,414。Aragon细项43,783对总表48,783差5000，改用细表则总在伍286,414。保持两值，不把冲突说成抽样置信区间。
+- 表含野战、围城、驻防、交通线、地方盟军；Bayonne8,298另列。没有“纯治安驻军35万”结论。
+
+### C1797　西班牙人口册（西班牙语）
+Censo de la población de España de 1797，INE重刊第1卷。
+- https://ine.es/prodyser/pubweb/censo_godoy/Censo_Godoy_T1.pdf ；`downloads/f2_censo_godoy1797.pdf`，doca51f8174831e，52页。核PDF3页ADVERTENCIAS（图像）、统计表结构与末页勘误；总数10,541,221，序言承认担心税负造成不足。
+- 用作1810/1811的滞后总人口代理，含非全部法军实控地区，故密度不是严格受控人口率。1100万是另设近似分母，不冒称1811普查。

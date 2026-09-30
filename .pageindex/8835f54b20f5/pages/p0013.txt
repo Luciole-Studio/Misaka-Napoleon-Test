@@ -1,0 +1,55 @@
+3298                                 THE AMERICAN ECONOMIC REVIEW                               DECEMBER 2011
+
+
+
+  Overall, these results show no evidence of a negative effect of French occupation
+on German polities. On the contrary, the estimates, and particularly the joint signifi-
+cance tests of post-treatment years, suggest that polities occupied and reformed by
+the French experienced more rapid urbanization, especially after 1850. This is not
+surprising. French reforms were accompanied by the disruptions caused by inva-
+sion and war, and this often had quite destructive and exploitative aspects (see, for
+instance, Blanning 1983, Blanning 1986).16 Thus, the short-term impact of French
+invasion may well have been negative. But this is uninformative about the long-run
+economic impact of Revolution-imposed institutional changes. The most plausible
+hypothesis is that the major role of the reforms was in creating an environment con-
+ducive to innovation and entrepreneurial activity. This environment mattered most
+in the dissemination of the Industrial Revolution, which took place in Continental
+Europe in the second half of the nineteenth century.17 Our evidence of positive
+effects in the second half of the nineteenth century is consistent with this hypothesis.
+
+                                               B. Robustness
+
+   Table 4 investigates the robustness of our basic reduced-form results. In column 1,
+we drop the coal-producing region of the Ruhr (corresponding to the former County
+of Mark), since the presence of coal might have created a differential growth advan-
+tage in the second half of the nineteenth century. The results are very similar to the
+baseline estimates.
+   Columns 2–6 add a full set of interactions between each of our year dum-
+mies and various time-invariant characteristics that may have caused divergent
+development paths. In column 2, for example, we include interactions between
+the year dummies and fraction of the population of the area that is “Protestant”
+(i.e., ∑ τ ητ × Dτ × Protestantj ). Column 3 instead includes a full set of year inter-
+actions with latitude to check whether our results could be due to time-varying
+effects of geography. In both cases, the inclusion of the sets of covariates has little
+effect on the magnitudes of our estimates (though with the latitude controls, the
+effects are no longer jointly significant at 5 or 10 percent).
+   More importantly, columns 4 and 5 include a full set of year interactions with
+longitude and with the distance to Paris. Since areas further west and closer to
+Paris are more likely to have been occupied by French forces, these interactions are
+important to check whether our exclusion restriction—that years of French presence
+are uncorrelated with other potential determinants of differential growth during the
+nineteenth century—is valid. Reassuringly, the positive effects in 1875 and 1900 are
+now both larger and more precisely estimated. The time interactions with longitude
+and distance to Paris are themselves jointly significant at the 10 percent level or
+
+   16
+      Though it is possible that our urbanization measure fails to capture the short-run destructive effects of the
+French wars, the working paper version of our work (Acemoglu et al. 2009) reported cross-country evidence show-
+ing similar results with Maddison’s estimates of GDP per capita.
+   17
+      This argument is similar to that of Stanley L. Engerman and Kenneth L. Sokoloff (1997) and Acemoglu,
+Johnson, and Robinson (2002) who argue that the divergence of institutions in colonial societies, which took place
+between 1500 and 1800, had little economic impact until the age of industry. David Landes (1969 chs. 4–5) points
+out how the catch-up of continental Europe took place concurrently with the expansion of advanced industrial tech-
+niques to areas beyond textile manufacturing, in particular to railway construction, iron production, and chemical
+industry.

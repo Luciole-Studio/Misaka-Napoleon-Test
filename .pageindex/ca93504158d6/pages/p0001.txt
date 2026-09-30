@@ -1,0 +1,65 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: B3_capacity.csv
+
+```meta
+▸ table "B3_capacity.csv" (479 data rows)
+▸ columns
+    section: str, 4 uniq: ['model', 'observation', 'source_conflict', 'source_corrupt']
+    scenario: str, 13 uniq: ['A_high', 'A_low', 'E', 'F_pressure_100', 'F_pressure_40', 'F_pressure_60', 'F_pressure_80', 'P0', 'P_high', 'P_low', 'S0', 'W_high', 'W_low']
+    year: num, min=1802, max=1830
+    metric: str, 46 uniq, first 20: ['Hansard_aggregate_estimate', 'Hansard_voted_marines', 'Hansard_voted_total', 'Hume_gross_navy_estimate', 'Hume_reported_actual_navy_expenditure', 'Hume_voted_build_repair_wear_total', 'actually_borne', 'all_cruisers_including_line_building_or_ordered', 'all_cruisers_including_line_grand_total', 'all_cruisers_including_line_harbour_commission', 'all_cruisers_including_line_harbour_ordinary', 'all_cruisers_including_line_sea_commission', 'all_cruisers_including_line_sea_commission_tons', 'all_cruisers_including_line_sea_ordinary', 'all_cruisers_including_line_sea_total', 'annual_planning_cost', 'built_previous_5years', 'commissioned_frigates', 'commissioned_line', 'commissioned_small_cruisers']
+    value_low: num, min=0, max=2.00967e+07
+    value_high: num, min=0, max=2.28892e+07
+    unit: str, 5 uniq: ['GBP_at_1812_cost_level', 'James_tons_burthen', 'nominal_GBP', 'persons', 'ships']
+    source: str, 17 uniq: ['B3_assumption', 'FB', 'H21', 'HPOST', 'J14', 'J15', 'J16', 'J17', 'J18', 'J1814text', 'J19', 'J20', 'J21', 'J22', 'J23', 'J3', 'JB']
+    locator: str, 83 uniq, first 20: ['1817-02-17 vol35 cc408-409; six lunar months only', '1820-05-17 vol1 cc459-460;13 lunar months', '1826-02-21 vol14 cc678-689', '1830-03-01 vol22 cc1121-1143', '1830-03-01 vol22 cc1121-1143; planned annual average', 'Abstract11:Line Built', 'Abstract11_PDF395', 'Abstract12:Line Built', 'Abstract12_PDF396', 'Abstract13:Line Built', 'Abstract13_PDF397', 'Abstract14:Built', 'Abstract14:Cruisers', 'Abstract14:Line', 'Abstract15:Built', 'Abstract15:Cruisers', 'Abstract15:Line', 'Abstract16:Built', 'Abstract16:Cruisers', 'Abstract16:Line']
+    note: str, 35 uniq, first 20: ['1 lunar months in the specified vote; no dates invented; not actual borne', '10 lunar months in the specified vote; no dates invented; not actual borne', '12 lunar months in the specified vote; no dates invented; not actual borne', '13 lunar months in the specified vote; no dates invented; not actual borne', '1826 supplies raw string=6,7.35,004; not silently repaired', '2 lunar months in the specified vote; no dates invented; not actual borne', '3 lunar months in the specified vote; no dates invented; not actual borne', '4 lunar months in the specified vote; no dates invented; not actual borne', '6 lunar months in the specified vote; no dates invented; not actual borne', '7 lunar months in the specified vote; no dates invented; not actual borne', '7 lunar months in the specified vote; no dates invented; not actual borne; Appendix9 says86000+31400; James text says140000 total; do not reconcile silently', 'Built kings + merchants; previous year, not net growth', 'Conflicts with Appendix9; not independent source', 'F is hostile deployable pressure not ledger hulls; necessary not sufficient; r=[1.05,1.20],g=[15,25],a=[.75,.85]', 'Hume amendment; not outturn; network table string corrupt', 'I must at least cover this need; peaceful French training not automatically hostile pressure', 'Image read; sum kings + merchants; previous year', 'Included in total not additional', 'Includes Line', 'Includes Line; do not add']
+```
+section,scenario,year,metric,value_low,value_high,unit,source,locator,note
+observation,S0,1803,line_sea_commission,32,32,ships,J3,Abstract11_PDF395,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1803,line_sea_ordinary,79,79,ships,J3,Abstract11_PDF395,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1803,line_sea_total,111,111,ships,J3,Abstract11_PDF395,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1803,line_harbour_commission,0,0,ships,J3,Abstract11_PDF395,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1803,line_harbour_ordinary,39,39,ships,J3,Abstract11_PDF395,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1803,line_building_or_ordered,22,22,ships,J3,Abstract11_PDF395,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1803,line_grand_total,172,172,ships,J3,Abstract11_PDF395,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1803,line_sea_commission_tons,54800,54800,James_tons_burthen,J3,Abstract11_PDF395,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1804,line_sea_commission,75,75,ships,J3,Abstract12_PDF396,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1804,line_sea_ordinary,40,40,ships,J3,Abstract12_PDF396,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1804,line_sea_total,115,115,ships,J3,Abstract12_PDF396,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1804,line_harbour_commission,9,9,ships,J3,Abstract12_PDF396,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1804,line_harbour_ordinary,29,29,ships,J3,Abstract12_PDF396,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1804,line_building_or_ordered,19,19,ships,J3,Abstract12_PDF396,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1804,line_grand_total,172,172,ships,J3,Abstract12_PDF396,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1804,line_sea_commission_tons,135666,135666,James_tons_burthen,J3,Abstract12_PDF396,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1805,line_sea_commission,83,83,ships,J3,Abstract13_PDF397,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1805,line_sea_ordinary,33,33,ships,J3,Abstract13_PDF397,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1805,line_sea_total,116,116,ships,J3,Abstract13_PDF397,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1805,line_harbour_commission,11,11,ships,J3,Abstract13_PDF397,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1805,line_harbour_ordinary,28,28,ships,J3,Abstract13_PDF397,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1805,line_building_or_ordered,26,26,ships,J3,Abstract13_PDF397,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1805,line_grand_total,181,181,ships,J3,Abstract13_PDF397,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1805,line_sea_commission_tons,148929,148929,James_tons_burthen,J3,Abstract13_PDF397,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1803,all_cruisers_including_line_sea_commission,210,210,ships,J3,Abstract11_PDF395,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1803,all_cruisers_including_line_sea_ordinary,178,178,ships,J3,Abstract11_PDF395,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1803,all_cruisers_including_line_sea_total,388,388,ships,J3,Abstract11_PDF395,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1803,all_cruisers_including_line_harbour_commission,3,3,ships,J3,Abstract11_PDF395,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1803,all_cruisers_including_line_harbour_ordinary,102,102,ships,J3,Abstract11_PDF395,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1803,all_cruisers_including_line_building_or_ordered,53,53,ships,J3,Abstract11_PDF395,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1803,all_cruisers_including_line_grand_total,546,546,ships,J3,Abstract11_PDF395,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1803,all_cruisers_including_line_sea_commission_tons,158090,158090,James_tons_burthen,J3,Abstract11_PDF395,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1804,all_cruisers_including_line_sea_commission,356,356,ships,J3,Abstract12_PDF396,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1804,all_cruisers_including_line_sea_ordinary,67,67,ships,J3,Abstract12_PDF396,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1804,all_cruisers_including_line_sea_total,423,423,ships,J3,Abstract12_PDF396,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1804,all_cruisers_including_line_harbour_commission,27,27,ships,J3,Abstract12_PDF396,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1804,all_cruisers_including_line_harbour_ordinary,68,68,ships,J3,Abstract12_PDF396,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1804,all_cruisers_including_line_building_or_ordered,78,78,ships,J3,Abstract12_PDF396,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1804,all_cruisers_including_line_grand_total,596,596,ships,J3,Abstract12_PDF396,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1804,all_cruisers_including_line_sea_commission_tons,286555,286555,James_tons_burthen,J3,Abstract12_PDF396,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1805,all_cruisers_including_line_sea_commission,473,473,ships,J3,Abstract13_PDF397,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1805,all_cruisers_including_line_sea_ordinary,61,61,ships,J3,Abstract13_PDF397,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1805,all_cruisers_including_line_sea_total,534,534,ships,J3,Abstract13_PDF397,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1805,all_cruisers_including_line_harbour_commission,26,26,ships,J3,Abstract13_PDF397,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1805,all_cruisers_including_line_harbour_ordinary,73,73,ships,J3,Abstract13_PDF397,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1805,all_cruisers_including_line_building_or_ordered,80,80,ships,J3,Abstract13_PDF397,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair

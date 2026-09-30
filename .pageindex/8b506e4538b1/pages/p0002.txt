@@ -1,0 +1,59 @@
+
+
+## 三、机制类比：葡萄牙1807与荷兰1795/1799不能混用
+
+### A. 葡萄牙1807：有地点、命令、舰队清单与执行报告的迁廷
+
+【事实·同时代公报】*London Gazette Extraordinary*, no.16100，**1807年12月22日，pp.1725–1728**，刊Strangford致Canning（11月29日）与Sidney Smith致Wellesley Pole（12月1日、6日）报告。
+
+- **p.1726**，Strangford报告英国以解除封锁为条件，提出交舰或立即将摄政王与家族运往巴西；并记前日诏令计划赴里约至一般和平成立、在里斯本任命摄政机构。
+- **p.1727**，Smith的12月1日报告记11月29日舰队载王室出塔霍河，列8艘战列舰及4艘巡航舰；同页附留港舰只及舰况表，故不是“所有葡舰全撤”。
+- **pp.1727–1728**，12月6日报告明确派Moore率Marlborough、London、Monarch、Bedford护航至巴西。可复核短引（据抓取OCR，仅合并行与词间距）：
+  > “to attend the Portuguese Fleet to the Brazils.” （p.1728）
+  > “List of the Portuguese Ships that remained in Lisbon.” （p.1727）
+
+URL：https://www.thegazette.co.uk/London/issue/16100/data.pdf
+
+本地抓取：`downloads/pages/cfd2c9f1cdc0.md`（保留页界1726/1727/1728；OCR较差，长引不得直接照抄而不验图）。
+
+【史料批判】这是英国外交官/海军将领的同时代报告，有自我表功与英国保护者叙事。Strangford与Smith属同一行动链，不能当成完全独立的两票；但所述目的地、指定护航与舰况清单，比一般“可以逃海外”有更具体的操作证据。另须注意Smith叙述的brig数与附表不一致，札记不据此编精确总舰数。
+
+【模型推演·类比限度】迁廷说明“陆上王国受侵≠王朝与整个帝国立即消灭”在当时确有实例；它依赖英国海上保护、巴西接纳与行政转移。它**既不证明英国已有同类预案，也不单独证明迁廷政府能长期自筹对欧战争**。
+
+### B. 荷兰1795：统治者出逃，不等于舰队随之出逃
+
+【事实·二手，转引De Jonge】Napoleon Series, “French Cavalry Defeats Dutch Fleet?”：威廉五世1月18日赴英；Nieuwediep舰队未随之离境。文章转述Reyntjes在1月21日已收不抵抗法国命令，法国骑兵到来后舰队留在荷兰旗下，但出航须法国许可：
+
+> “not to sail the ships (which remained under the Dutch flag) without French authority”
+
+URL：https://www.napoleon-series.org/military-info/battles-campaigns/french-cavalry-defeats-dutch-fleet/
+
+本地：`downloads/pages/5c42ebbe4e31.md`；网页无页码，以宣誓段定位。其De Jonge书目为1869年第3版，本次未亲见原书页。文章中1846年Lahure致报纸信属**回溯性、且为转引**；不采用“骑兵冲锋击败战列舰”的传奇作为作战事实。
+
+【文献推断·De Jonge，经该文转述】结果须从政权更替、不抵抗命令及航行受限解释，不能只归结为冰封或法国骑兵战斗力。叙事与Jomini以来法国传统存在分歧，未以表面多数来源裁决。
+
+### C. 荷兰1799：舰队向英国投降，却没有自动复辟全国
+
+【事实·机构二手记载】荷兰文化遗产机构MaSS，“Vlieter Incident”，Surrender节：1799年8月30日Story舰队在不利锚位、军官反抗、船员骚动下不战投降。短引：
+
+> “Formally and legally seen, Samuel Story surrendered to the British.”
+
+Outcome节说明英俄陆军随后未能征服荷兰、巴达维亚共和国继续存在。
+
+URL：https://mass.cultureelerfgoed.nl/vlieter-incident
+
+本地：`downloads/pages/78e2bc2f87ff.md`。网页正文引De Jonge V p.461，末尾书目又列1862卷V p.238；**定位不一致，未经原版对校，不能把任一页当成已核页码**。网页也引用Wikipedia，不能当作完全独立的文献链。
+
+【事实·物证目录】Royal Museums Greenwich藏Robert Dodd版画，**PAI6412，1800年12月31日**，标题标1799年8月30日舰队向Mitchell投降。它证实近同时代的公开表现，**不证明舰员心理及密议过程**。
+
+URL：https://www.rmg.co.uk/collections/objects/rmgc-object-156352
+
+本地：`downloads/pages/f64010c80a00.md`。
+
+【模型推演·类比限度】1795是原统治者出逃而舰队受新政治权威约束；1799是部分舰队政治忠诚与纪律瓦解导致对英投降，国家政权却存续。两者共同警告：**王室、政府、舰队与殖民地的归属并不自动同步**。不能据1799假定英国舰队也必叛变；同样不能据海军在外便假定它无条件服从任何海外自称政府。
+
+## C16建议采用的安全表述
+
+【裁量·中】“英国在入侵威胁下确有境内保存政府与王室成员的应急安排记载；本次尚未核实1803–05年的加拿大迁廷或舰队海外续战专案。因此，登陆、占领伦敦、迫使政府媾和及控制皇家海军应分别设置条件。葡萄牙1807说明迁廷是时代内可能发生的机制，荷兰1795/1799则说明舰队命运取决于命令、政治忠诚与行动自由，不能预设。”
+
+【未解决】英国金库转运细则的原始命令；Hurd原信档号与住址问题；Glover海军文书全文；Fedorak pp.91–110及注释；本土崩溃情形下ADM命令是否存在。未解决项保留，不把检索空白改写成历史否定。

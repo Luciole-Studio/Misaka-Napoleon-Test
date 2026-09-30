@@ -1,0 +1,66 @@
+
+
+【推断】1807年后英国并非从零开始寻找替代；但替代受结构部位、强度与耐久条件限制。不能把1804年解决采购争议等同于解决后来全部短缺。
+
+### 2. 加拿大桅杆的快速替代，1808年已是实质反证
+
+**原句**（A，印刷p.356）：
+> “To offset this, the exports from British North America jumped from 4,442 to 16,729 in a single year, so that Tilsit left England unaffected in 1808 so far as masts were concerned.”
+
+【事实：Albion报告的海关系列】上下文口径为直径超过12英寸的桅杆、英国进口系列中的北美输出；1807→1808由4,442增至16,729根。不是皇家船厂实际领用，更不是全部适用尺寸和材质均等。
+
+【文献推断：Albion】“unaffected … so far as masts”是作者判断，不是仅凭数量就能确认的全舰队无影响。本条足以反驳“1808年北美替代尚无实质规模”。同页注1指附录D，原海关底表未复核。
+
+### 3. 加拿大橡木也在1810–1811年大幅增加
+
+**原句**（A，p.356）：
+> “The stimulus of the timber duties was visible in 1810, with the sudden jump from about 6000 loads to over 17,000, and again to over 24,000 in 1811, when Prussia sent less than 2,500 and the rest of the Baltic scarcely 50.”
+> “Like masts, this item of oak timber was of prime importance to the Navy, as most of it was imported for shipbuilding.”
+
+【事实：作者系列】橡木timber约6,000→超过17,000→超过24,000 loads；不得混入pine/fir或plank后再相加，也不得写成海军专用到货。Albion p.9定义load为50立方英尺，本次未按重量换算。
+
+【推断】到1811年木材断供导致全舰队无法维护的叙事须显著降权；熟化、尺寸、验收和使用部位仍需单独核算。
+
+### 4. 替代仍有运费和质量代价：数量增长不等于无约束
+
+**原句**（A，p.355）：
+> “The normal freight from Quebec was about £3 5s., three times as high as the Baltic”
+
+**原句**（A，p.361）：
+> “The Canadian supply was increasing rapidly in magnitude, but except in the case of great masts, the quality of the timber left much to be desired.”
+> “Skilled lumbermen were scarce, transportation was difficult and expensive, and after the trees were cut, and even after they were brought to England, the quality of the timber often required its rejection.”
+
+【事实/文献判断】第一句是Albion援引1820年议会材料的常态运费比较；后两句是其对1809年前后全球寻材的判断。不能直接将三倍运费等同三倍总舰材成本。
+
+【限制】本页1810运费的OCR把shillings识别损坏，未采其精确值。新产区存在劳动、运输、验收等约束，不能仅据森林存量判定供应可行。
+
+### 5. 印度柚木：印度造舰真实，1812年前大规模原木运英不成立
+
+**原句**（A，p.368）：
+> “Very little teak timber was sent to the English dockyards before 1812 because of the high freights on the return voyage from India.”
+> “Up to 1812, only one cargo of teak had reached England”
+
+同段写新造军舰回英国时运送另一艘类似舰的柚木船架，以缓解great and compass timber短缺。p.367又列孟买Minden 74于1810、Cornwallis 74于1813、Wellesley 74于1815下水。
+
+【事实：转述Albion】“一船”是作者的原木货运断言，不是“一艘柚木船”，也不包括已造好驶往各战区的柚木舰。
+
+【推断】印度应建模为有限的异地造舰渠道，不能在1808年就充当英国船厂大规模维修木材供应。本条有力反对“所有替代早已充分”。
+
+【来源警告】Albion该章部分印度地理、人名需另外核实；本次不采其“Prince of Wales Island on the Malabar Coast”等表述。其p.368脚注指议会文件、James、Low及旧ADM Digest，是研究者转引，不是本次读过这些底本。
+
+### 6. James实船记录独立限制“只有计划、没有替代”的说法
+
+**原句**（J，Abstract14注b、e；无核定印刷页）：
+> “The Salsette (named Pitt for a short time, then restored to her former name) built of teak at the East-India Company's yard at Bombay.”
+> “The Bermuda and Indian; built at the island of Bermuda, of the pencil-cedar”
+
+注a另为“Teak-built Indiamen.”，注c为“Teak-built; had been an Indiaman.”
+
+【事实：历史编纂记录】1806年初舰队抽象表已有柚木与百慕大雪松舰，故替代有已实现的实物基础。James为战后编纂、所读为现代网络转录，不应标作1805年原始海军公文。
+
+【推断】只证明存在、材质与建造地点，不证明舰龄、可用率、强度或成本等同英国橡木。与Albion的舰史资料可能有同源关系。
+
+### 7. 俄国大麻依赖的缓解不能由加拿大木材成功类推
+
+**原句**（D，缓存行497附近，注44–46；印刷页映射候选p.12，未影像核定）：
+> “affording protection to the Ships employed by him in obtaining Hemp for His Majesty's Service in this passage up and down the Baltic”

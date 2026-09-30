@@ -1,0 +1,65 @@
+
+
+### L2｜对照与批判
+
+Nicholas Dunne-Lynch，“La Légion Irlandaise au Service de la France, 1803–1815”，现代网页译文：
+https://napoleon-histoire.com/historiques-legion-irlandaise-le-consulat-et-le-premier-empire/
+本地 `downloads/pages/7889a20afee2.md`。本轮只复查部分匹配，不声称全文逐条核验。它列初期登记76人、其中70为有效记录等口径，属于**1803–06累计登记**，不能与上述某日检阅相加或视为矛盾。
+
+【来源批判】Carles在民族性解释中反复使用“turbulence naturelle”“impétuosité irlandaise”等概括，不应采为现代因果解释；纪律与指挥冲突须回到具体组织、薪饷、政治效忠和长期闲置机制。其正文也有明显需复核的历史日期与OCR问题。因此採其有出处的建制材料，并保留原件校验任务，不整体接受其价值判断。
+
+## 四、1796 Bantry：可证的机制先例，不是成功率
+
+### B1｜天气研究与同期日记引文
+
+John Tyrrell，“Weather & Warfare Bantry 1796 revisited”，History Ireland，网页无页码。
+https://historyireland.com/weather-warfare-bantry-1796-revisited/
+本地 `downloads/pages/ef41b9a6875d.md`（已读全文）。利用船日志、Tone日记、Armagh及英国数处气象观测重建1796年12月1日至1797年1月5日天气。
+
+【文献推断·Tyrrell】出港分裂与指挥舰失联、等待会合、短暂天气机会未利用、其后风暴、舰间通信受阻和口粮耗尽共同作用；不是只差一阵顺风便已确保征服爱尔兰。
+
+【事实·Tone日记转引，未对校日记版】文章“Events in Bantry Bay”节：
+> “We have been tacking ever since eight this morning, and I am sure we have not gained one hundred yards; the wind is right ahead and the fleet dispersed”.
+以及：
+> “notwithstanding all our blunders, it is the dreadful stormy weather and the easterly winds … that have ruined us”.
+
+后一句同时承认“our blunders”，不宜截成纯自然灾害解释。Tyrrell结论：
+> “It denied a landing to the French, but it also denied the British a convincing victory.”
+
+【模型推演·条件式】Bantry可支持“利用英国封锁的天气间隙”是已发生过的事件类型；但若1803方案借其为类比，必须同时支付编队离散、首长失联、登陆艇操作和等待消耗的风险。不能将1796冬季大舰远征的天气机制直接量化为布洛涅小艇夏季渡海成功率。
+
+【未获得】Tone权威日记对应原页及舰日志原折；搜索见到的6,500兵力和43/18帆等数字未作冻结采用。所谓“England lucky enemy”名句未核，不引用。
+
+## 五、Fulton：服务对象、合同和作战效果
+
+### F1｜英国合同提供最清楚的服务对象证据
+
+William Barclay Parsons, *Robert Fulton and the Submarine*，Columbia University Press，1922；实际读Gutenberg转录：
+https://www.gutenberg.org/cache/epub/63351/pg63351-images.html
+本地 `downloads/pages/af472c3dfa49.md`，重点行972–1017，对应文本页标pp.82–85（扫描未对校）。
+
+【事实·同期合同转录】合同双方是Pitt与Melville代表英国政府、Fulton为另一方；开头明确：
+> “Robert Fulton citizen of the United States of America and inventor of a plan of attacking fleets by submarine Bombs”
+
+条款包括每月£200、机械准备信用额度不超过£7,000、英国船厂和军械库供给，以及验证具有实际适用性等条件下的£40,000报酬。第四条目标明写：
+> “destroying the enemies fleet at Boulogne, Brest, or elsewhere”
+
+【日期差异已定位，非必须二选一】外封签写“20th July 1804”，正文署“Signed this Seventeenth day of July … 1804”。因此可准确写**正文7月17日署签，封签7月20日**，无需强行宣布一个日期错误；两者法律手续关系未核。
+
+【限制】这是Parsons刊布的合同副本转录，非本次查阅手稿。信用额度与成功奖金是合同规定，不是实际全部支出或已获得战果。
+
+### F2｜法国潜艇阶段与英国水雷阶段
+
+【事实·Parsons叙述及所录文书】1801年Nautilus在Brest试验，Monge、Laplace、Volney参与审查；法国支持未发展成可部署潜艇部队。Parsons相关章节述1802年拒绝及1804年英国接手；1801年报告经其他出版物重印，来源不完全独立。
+
+【未决】赴英日期存在4月28日回述与5月19日叙述差异，尚未核定；不能以“六月信称五周”独断。无证据证明拿破仑在1803年后重新资助其潜艇项目。
+
+【术语事实】Navy Records Society摘要明确历史“torpedoes”在现代术语是**水雷**，不是现代自航鱼雷：
+https://www.navyrecords.org.uk/magazine_posts/fultons-torpedoes-used-in-the-attack-on-boulogne-1804/
+本地 `downloads/pages/635f200bfaf6.md`；只读公开摘要，会员正文未读。潜艇、爆炸箱、水雷、火船与搭载/牵引它们的小艇不能合并成一件兵器。
+
+### F3｜Dorothea示范与1810年的自述
+
+Robert Fulton, *Torpedo War, and Submarine Explosions*（1810；所读电子版据1914重印）：
+https://www.gutenberg.org/files/51748/51748-h/51748-h.htm
+本地 `downloads/pages/babfe7fc830f.md`。已读有关1805年10月15日Dorothea爆破段；本文不冒认1810初版扫描。

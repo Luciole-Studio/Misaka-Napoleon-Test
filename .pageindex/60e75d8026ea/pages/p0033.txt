@@ -1,0 +1,45 @@
+mechanism under which slowly diffusing technology from Britain drives the results. In this
+case, we would expect more southern departments to expand over time as they acquire
+technology, which is the opposite of what I find.
+    Table 4 contains the estimation results that examine persistence in the location of mech-
+anized cotton spinning.44 Spinning capacity in 1840 and 1887 is measured as the number
+of mechanized spindles per thousand inhabitants, holding population unchanged at its 1811
+level. Unsurprisingly, the OLS estimates (Columns (1) - (8) point to a positive and signifi-
+cant correlation between spinning capacity in 1812 and subsequent years. The forces which
+rendered a particular department attractive for mechanized cotton spinning in 1812 showed
+a high degree of persistence across time. More interestingly, the 2SLS estimates (Columns
+(9) - (16)), which use only variation in post-blockade mechanized cotton spinning activity
+caused by uneven trade protection, are positive and significant. Across both OLS and 2SLS
+specifications, I estimate the coefficient without additional controls, and add lagged spin-
+ning capacity (measured in 1803) and additional controls measured prior to the blockade.
+The preferred specification includes lagged spinning capacity only as an additional control
+(Columns (10) and (14)), as it is possible that additional, predetermined controls affect
+outcomes through lagged spinning capacity and are thus already controlled for.
+    The local average treatment effect of one additional spindle in 1812 is about 2.1-3.4 spin-
+dles in 1840 and 4.7-6.2 spindles in 1887.45 Inclusion of pre-blockade spinning capacity as a
+control is suggestive of the extent to which the blockade caused a significant shift relative to
+pre-blockade mechanization patterns; across all specifications, pre-blockade spinning capac-
+ity enters with a negative sign and is generally statistically significant.46 Moreover, inclusion
+of lagged spinning capacity strengthens the first stage. For specifications that include this
+variable, the Kleibergen-Papp F-statistic for the first stage is consistently above 10, the
+rule of thumb suggested by Staiger and Stock (1997) when assessing whether a specification
+suffers from a weak instrument problem.47
+    In thinking about these effects, it is important to note that the size of the cotton industry
+grew dynamically throughout the 19th century.48 These results therefore suggest that even
+survive foreign and internal competition during the blockade, were outcompeted once domestic competition
+became tougher as regional markets became more integrated throughout the 19th century.
+   44
+      The first stage and reduced form are reported in Table A.10.
+   45
+      I have not been able to find data on departmental cotton spinning capacity for the 20th century, which
+is why the analysis ends in the late 19th century.
+   46
+      The raw correlation between spinning capacity in 1803 and 1812 is 0.66.
+   47
+      It should be noted that for specifications estimated for the 1840s data, the reduced forms are marginally
+not significant at conventional levels in some cases.
+   48
+      The number of spindles grew from about 1 million in 1812, to 3 million in 1840 and almost 5 million
+
+
+                                                      33

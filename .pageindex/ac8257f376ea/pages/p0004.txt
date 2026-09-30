@@ -1,0 +1,35 @@
+
+
+## 9. ⑧社会运动与抵抗传统
+
+【锚点】常态抵抗：逃役、逃亡、袭击征兵官、盗匪；"never faced the kind of massive popular revolt that broke out in southern Italy"（Grab p.164）。
+【锚点】1809双起义（见§6）；1806 Piacentino抗税抗征兵起义数周内被残酷镇压（并合区对照，Grab p.170）。
+【锚点】秘密结社谱系：北部adelfia（源于雅各宾与Society of the Rays，1802解散）；南部carbonari（军官、士兵、部分资产阶级为主，得英国支持）；"posed no concrete threat to the Napoleonic regime, however"（Grab pp.171–172）。
+【锚点】1814-04-20"雨伞日"：民众税恨+旧贵族煽动→Prina私刑数小时、邸宅被毁、财政部档案全毁（DBI Prina）；参议院被解散（Grab p.172）。
+【机制】"抵抗的三元组合"：税负冲击（macinato类）×征兵冲击×合法性缺口（教皇绝罚/战败/王冠悬置）——三者叠加才出系统性暴动；单项冲击只产生常态抵抗（锚点：1809与1814两案例；反例：1813空库+征兵未暴动，因行政与合法性未同时缺位）。
+【推演（中）】1815–48类比映射：奥治伦-威在1820–21（Carbonari/federati案；Confalonieri入狱Spielberg）、1831（中意起义波及）、1848（米兰五日）三轮起爆——每轮都对应"合法性缺口+汲取压力"叠加；**但1848年30–35k伦-威籍哈布斯堡兵过半仍忠**（Sondhaus：约15,000人开小差，"well over one-half…remained loyal"，`downloads/pages/977ad00e38d7.md`）→ 军队忠诚是条件函数不是民族常量——此为三分支军队反应的核心机制锚点。
+
+## 10. ⑨思潮·宗教·民族意识·舆论
+
+【锚点】1803-09意大利共和国Concordat：天主教国教+宗教自由+国家提名主教+教产既成事实确认；谈判艰难（Melzi主张国家高于教会 vs Pius VII）（Grab pp.162–163）。
+【锚点】拿破仑大体无视协约：继续没收出售教产、民事婚姻与离婚入法→教士敌意与不合作、部分煽动不服从（Grab p.163）；1808占罗马、1809-05并教皇国余部入法帝国→**绝罚→教皇被囚Savona/Fontainebleau**（Grab p.171）；1810-02-17法令强加高卢四条款于帝国全部教会（`downloads/pages/df27e5314cf3.md` L2874–2878）。
+【锚点】民族意识两源：军队（Grab p.162，见§7）；"Pure Italians"（italici puri）1814要求"独立国家+意大利统治者"（Grab p.172）。
+【锚点】Melzi的意大利纲领（意识形态背景）：1799-11-16萨拉戈萨致波拿巴信；1801年4月巴黎会谈要求"阿尔卑斯至阿迪杰一体、法奥间平衡、独立亲王、自订法律"，视链状小共和国为"把意大利碾碎"，梦想"una bilancia di stati monarchici"通往fusione unitaria（Enciclopedia Italiana 1934词条，`downloads/pages/19f8ac6acdbd.md`）。
+【锚点】Murat 1815里米尼宣言（王朝代理人转用民族话语的实证）："sgombri dal suolo italico ogni dominio straniero!"+立宪+民族代表制（`downloads/pages/567748874d93.md`；t_7da32d已核，"His appeal fell flat"per Grab p.172）。
+〔回溯〕圣赫勒拿层：1816-11-11《Mémorial》口述——"j'eusse voulu faire de chacun de ces peuples un seul et même corps de nation…Quant aux quinze millions d'Italiens, l'agglomération était déjà fort avancée…La réunion du Piémont…de Parme, de la Toscane, de Rome, n'avaient été que temporaires dans ma pensée"（`downloads/pages/4f6861c63c7b.md` L111–115）；Correspondance XXX"second fils"摄政方案（t_7da32d直核印页549）。**两件均为为征服重构目的的自辩叙事，只用于证明"统一"在拿破仑事后叙事中的位置，不作同期计划证据**（t_7da32d判语沿用）。
+〔权重记忆·待核〕舆论机器：官报Giornale Italiano（Cuoco曾主笔）、Foscolo/Monti的宫廷文学、Brera美术院与1809 Appiani《拿破仑神化》天顶画、米兰音乐学院1807——本轮未直核文献，仅列为⑨维的已知构件，红队可查Pillepich《Milan capitale》。
+
+## 11. ⑩科技与生产力
+
+【锚点】基建：辛普朗公路1805通车；"extensive construction of roads and waterways"；军需本地生产（Grab p.163）。
+【锚点】欧仁治下文化-科学机构：Brera画廊开馆、米兰音乐学院创立、学校与运河建设（it.wiki转引层，三级来源；`notes_dbi_biografie_1814.md`§3）；1808-01-16米兰证券交易所（Borsa di Milano）成立（Pusiano市政史页快照，同§3来源表）。
+【锚点】达尔马提亚实验室（1806–09 Dandolo）：司法/土改/税改/公路/公教育/morlacca宪兵/双语官报《Il Regio dalmata》/Spalato商会/马铃薯引种（DBI Dandolo搜索快照）。
+〔权重记忆·待核〕Volta（1801巴黎演示、后为王国参议员）、Oriani、Scarpa等帕维亚科学圈受政权供养——不作数字化论断。
+【推演（中低）】S5和平30年：王国科教体系（licei+三大学+Brera+军校）与法国内圈共享工程师市场，北意成为大陆体系内仅次于法比的机械-纺织二级中心（机制：被保护半岛市场+蚕丝资本积累；约束：X3卡技术前沿判定优先）。
+
+## 12. ⑪生态与人口
+
+【锚点】670万人口（峰值疆域）；波河平原=半岛粮仓；封锁使"decline in commerce helped to shift resources to the agrarian sector, thus encouraging agricultural expansion"（Grab pp.158, 163–164）。
+【锚点】王国承担25,000法军+自军给养（Grab p.161）→ 波河平原的军粮输出能力是法国东南战区的后勤基座（E1卡接口：1.5kg人日/10kg马日参数）。
+〔权重记忆·待核〕玉米单一化与糙皮病扩散、1811–12歉收、1816–17战后大饥荒（供E1/P5核）。
+【推演（低-中）】S6行省化下若按法国粮政统一调度，波河剩余粮流向法军仓储体系，1816–17级歉收年的本地赈济缺口将放大政治风险（机制：1809年"税负+生存冲击"组合）。

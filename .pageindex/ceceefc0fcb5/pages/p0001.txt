@@ -1,0 +1,186 @@
+{
+  "status": "ok",
+  "query": "Schultz Tropical Versailles empire monarchy Rio de Janeiro",
+  "domain": "annas-archive.gl",
+  "count": 47,
+  "results": [
+    {
+      "title": "Tropical Versailles: Empire, Monarchy, and the Portuguese Royal Court in Rio de Janeiro, 1808-1821 (New World in the Atlantic World (Paperback))",
+      "authors": "Kirsten Schultz",
+      "publisher": "Routledge, Taylor & Francis (Unlimited), New York, 2001",
+      "language": "English",
+      "format": "EPUB",
+      "size": "4.6MB",
+      "hash": "e4f3219eb9da7cfb4e663322e7033914",
+      "url": "https://annas-archive.gl/md5/e4f3219eb9da7cfb4e663322e7033914"
+    },
+    {
+      "title": "Tropical Versailles : Empire, Monarchy, and the Portuguese Royal Court in Rio De Janeiro, 1808-1821",
+      "authors": "Kirsten Schultz",
+      "publisher": "Routledge, New World in the Atlantic World, London, 2013",
+      "language": "English",
+      "format": "EPUB",
+      "size": "2.8MB",
+      "hash": "7b0591cf5608d885ada37180cefc73de",
+      "url": "https://annas-archive.gl/md5/7b0591cf5608d885ada37180cefc73de"
+    },
+    {
+      "title": "Tropical Versailles: Empire, Monarchy, and the Portuguese Royal Court in Rio de Janeiro, 1808-1821 (New World in the Atlantic World (Paperback))",
+      "authors": "Schultz, Kirsten",
+      "publisher": "New York : Routledge, Taylor & Francis (Unlimited), New York, 2001",
+      "language": "English",
+      "format": "PDF",
+      "size": "21.3MB",
+      "hash": "c3c42ad392e2e119ed798cf896e936d5",
+      "url": "https://annas-archive.gl/md5/c3c42ad392e2e119ed798cf896e936d5"
+    },
+    {
+      "title": "Pereira Passos: um Haussmann tropical: A renovação urbana da cidade do Rio de Janeiro no início do século XX",
+      "authors": "Jaime Larry Benchimol",
+      "publisher": "Secretaria Municipal de Cultura, Turismo e Esportes, Departamento Geral de Documentação e Informação Cultural, Divisão de Editoração, 1, 1992",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "18.7MB",
+      "hash": "c8a6d066abfa48d9b107438c3481818e",
+      "url": "https://annas-archive.gl/md5/c8a6d066abfa48d9b107438c3481818e"
+    },
+    {
+      "title": "Belle époque tropical: sociedade e cultura de elite no Rio de Janeiro na virada do século",
+      "authors": "Jeffrey D. Needell",
+      "publisher": "1993",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "77.2MB",
+      "hash": "38f9d207d6c29a5cb3f7eb03936bac02",
+      "url": "https://annas-archive.gl/md5/38f9d207d6c29a5cb3f7eb03936bac02"
+    },
+    {
+      "title": "Belle époque tropical: Sociedade e cultura de elite no Rio de Janeiro na virada do século",
+      "authors": "Jeffrey D. Needell",
+      "publisher": "Companhia das Letras, São Paulo, Cambridge, 1993, ©1987",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "70.0MB",
+      "hash": "5f6f536acae0f6fd95dcabf3b90ade7e",
+      "url": "https://annas-archive.gl/md5/5f6f536acae0f6fd95dcabf3b90ade7e"
+    },
+    {
+      "title": "A Tropical Belle Epoque: Elite Culture and Society in Turn-of-the-Century Rio de Janeiro (Cambridge Latin American Studies, Series Number 62)",
+      "authors": "Needell, Jeffrey D.",
+      "publisher": "Cambridge University Press (Virtual Publishing), Cambridge Latin American Studies, Series Number 62, 1987",
+      "language": "English",
+      "format": "PDF",
+      "size": "36.5MB",
+      "hash": "fc5227022b495a1db3b308c89880a6cd",
+      "url": "https://annas-archive.gl/md5/fc5227022b495a1db3b308c89880a6cd"
+    },
+    {
+      "title": "Miocene tropical storms: Carbonate framework approaches and geochemistry proxies in a reservoir model",
+      "authors": "Orangel Aguilera;Olga M.Oliveira de Araújo;Ricardo Tadeu Lopes;Marcelo Cohen;Dayana Alvarado Sierra;Beatriz Teixeira Guimarães;Ana Paula Linhares;Félix Rodriguez;Manuel Moreira;Rut Díaz;Hamilton Santos Gama Filho;Marcelino Jose Dos Anjos;Daniel Lima;Julianny dos Santos Silva;Marie Joelle Giraud-López;Vinicius Tavares Kütter(Fluminense Federal University, Paleoecology and Global Changes Laboratory, Rua Marcos Waldemar de Freitas Reis, S/no, Campus Gragoatá, Bloco M, Lab. 110, CEP, 24210-201, Niterói, Rio de Janeiro, Brazil;Federal University of Rio de Janeiro, Nuclear Instrumentation Laboratory, Nuclear Engineering Program/COPPE, Rio de Janeiro, Av. Horácio Macedo, Cidade Universitária, CEP, 21941-450, Brazil;Federal University of Pará, Geoscience Institute, CEP, 66075-110, Belém, Pará, Brazil;Museu Paraense Emilio Goeldi, Earth Sciences and Ecology Coordination, CEP, 66077-830, Belém, Pará, Brazil;Smithsonian Tropical Research Institute, Box 0843-03092, Balboa, Panama;Fluminense Federal University, Institute of Chemistry, Environmental Geochemistry Department, CEP, 24020-150, Niterói, Rio de Janeiro, Brazil;Rio de Janeiro State University, Instituto de Física Armando Dias Tavares, Department of Applied Physics and Thermodynamics, CEP 20550-013, Rio de Janeiro, Brazil;Museu de Paleontologia Plácido Cidade Nuvens, Universidade Regional Do Cariri, CEP, 63190-000, Santana Do Cariri, Ceará, Brazil;Universidad Pedagógica y Tecnológica de Colómbia, Sagamoso, Calle, 4A Sur, No. 15-134, Boyacá, Colombia)",
+      "publisher": "Marine and Petroleum Geology, Suppl C, Vol.154",
+      "language": "English",
+      "format": "PDF",
+      "size": "39.3MB",
+      "hash": "7e119b4e030448ee49e5ea2882af2757",
+      "url": "https://annas-archive.gl/md5/7e119b4e030448ee49e5ea2882af2757"
+    },
+    {
+      "title": "Tropical sol da liberdade [a história dos anos de repressão da juventude brasileira pós-64 na visão de uma mulher",
+      "authors": "Machado, Ana Maria , 1941-",
+      "publisher": "Rio de Janeiro, RJ : Editora Nova Fronteira, Ficção brasileira, Rio de Janeiro, RJ, ©1988",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "15.7MB",
+      "hash": "84333a7bfa9fa609492d3840b990a1d9",
+      "url": "https://annas-archive.gl/md5/84333a7bfa9fa609492d3840b990a1d9"
+    },
+    {
+      "title": "Music in imperial Rio de Janeiro : European culture in a tropical milieu",
+      "authors": "Cristina Magaldi",
+      "publisher": "The Scarecrow Press, Inc., Lanham ; Toronto ; Oxford, 2004",
+      "language": "English",
+      "format": "PDF",
+      "size": "178.7MB",
+      "hash": "68a790c206a7cdfe4bf1b08342bfe4d6",
+      "url": "https://annas-archive.gl/md5/68a790c206a7cdfe4bf1b08342bfe4d6"
+    },
+    {
+      "title": "A Tropical Belle Epoque: Elite Culture and Society in Turn-of-the-Century Rio de Janeiro (Cambridge Latin American Studies, Series Number 62)",
+      "authors": "Needell, Jeffrey D.",
+      "publisher": "Cambridge [Cambridgeshire] ; New York : Cambridge University Press, Cambridge Latin American studies ;, 62, Cambridge [Cambridgeshire], New York, England, 1987",
+      "language": "English",
+      "format": "PDF",
+      "size": "21.6MB",
+      "hash": "98f90b1f64f97a11835899f14b7c7bc4",
+      "url": "https://annas-archive.gl/md5/98f90b1f64f97a11835899f14b7c7bc4"
+    },
+    {
+      "title": "A Tropical Belle Epoque: Elite Culture and Society in Turn-of-the-Century Rio de Janeiro (Cambridge Latin American Studies, Series Number 62)",
+      "authors": "Needell, Jeffrey D.",
+      "publisher": "Cambridge [Cambridgeshire] ; New York : Cambridge University Press, Cambridge Latin American studies ;, 62, Cambridge [Cambridgeshire], New York, England, 1987",
+      "language": "English",
+      "format": "PDF",
+      "size": "21.2MB",
+      "hash": "bca157076ee03e0a608ee19fe8ddc6c0",
+      "url": "https://annas-archive.gl/md5/bca157076ee03e0a608ee19fe8ddc6c0"
+    },
+    {
+      "title": "The triple epidemics of arboviruses in Feira de Santana, Brazilian Northeast: Epidemiological characteristics and diffusion patterns",
+      "authors": "Lacita Menezes Skalinski, Ana Paula Razal Dalvi, Márcio Natividade, José Ueleres Braga, Maria da Conceição Nascimento Costa, Eloisa Bahia Santana, Neuza Santos de Jesus Silva, Jimmy Witworth, Maria Glória Teixeira(Affiliations  Universidade Estadual de Santa Cruz, Ilhéus, BA, Brazil; Instituto de Saúde Coletiva, Universidade Federal da Bahia, Salvador, BA, Brazil.  Instituto de Estudos em Saúde Coletiva, Universidade Federal do Rio de Janeiro, Rio de Janeiro, RJ, Brazil.  Instituto de Saúde Coletiva, Universidade Federal da Bahia, Salvador, BA, Brazil.  Instituto de Medicina Social, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, RJ, Brazil; Escola Nacional de Saúde Pública Sérgio Arouca, Fundação Oswaldo Cruz, Rio de Janeiro, RJ, Brazil.  Secretaria Municipal de Saúde de Feira de Santana, Feira de Santana, BA, Brazil.  London School of Hygiene and Tropical Medicine, London, United Kingdom.  Instituto de Saúde Coletiva, Universidade Federal da Bahia, Salvador, BA, Brazil. Electronic address: magloria@ufba.br.)",
+      "publisher": "Epidemics, Suppl C, Vol.38",
+      "language": "English",
+      "format": "PDF",
+      "size": "2.8MB",
+      "hash": "44666aea977baad3c2ed893275a1c77e",
+      "url": "https://annas-archive.gl/md5/44666aea977baad3c2ed893275a1c77e"
+    },
+    {
+      "title": "Temporal and spatial variation in the efficiency of a Floc & Sink technique for controlling cyanobacterial blooms in a tropical reservoir",
+      "authors": "Erick Drummond;Vivian Balthazar Gonçalves Leite;Natália Pessoa Noyma;Leonardo de Magalhães;Caio Graco-Roza;Vera Lúcia Huszar;Miquel Lürling;Marcelo Manzi Marinho(Laboratory of Ecology and Physiology of Phytoplankton, Department of Plant Biology, University of Rio de Janeiro State, Rio de Janeiro, RJ, Brazil;Department of Geosciences and Geography, P.O. Box 65, FI-00014 University of Helsinki, Helsinki, Finland;Museu Nacional, Federal University of Rio de Janeiro, Rio de Janeiro, RJ, Brazil;Aquatic Ecology & Water Quality Management Group, Department of Environmental Sciences, Wageningen University, Wageningen, The Netherlands;Department of Aquatic Ecology, Netherlands Institute of Ecology (NIOO-KNAW), Wageningen, The Netherlands)",
+      "publisher": "Harmful Algae, Suppl C, Vol.117",
+      "language": "English",
+      "format": "PDF",
+      "size": "2.6MB",
+      "hash": "28b482b8f033efd1e191222d94f7c04a",
+      "url": "https://annas-archive.gl/md5/28b482b8f033efd1e191222d94f7c04a"
+    },
+    {
+      "title": "Music in imperial Rio de Janeiro : European culture in a tropical milieu",
+      "authors": "Magaldi, Cristina",
+      "publisher": "Lanham, Md. : Scarecrow Press, Lanham ; Toronto ; Oxford, 2004",
+      "language": "English",
+      "format": "PDF",
+      "size": "15.2MB",
+      "hash": "adfcde4168b366872039f883add19ce8",
+      "url": "https://annas-archive.gl/md5/adfcde4168b366872039f883add19ce8"
+    },
+    {
+      "title": "História diplomática do Brazil : o reconhecimento do império",
+      "authors": "Manuel de Oliveira Lima",
+      "publisher": "H. Garnier, First edition, Rio de Janeiro, Brazil, Paris, France, Brazil, 1901",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "24.1MB",
+      "hash": "acc0fe8627af001f6e2be951c0ba8d27",
+      "url": "https://annas-archive.gl/md5/acc0fe8627af001f6e2be951c0ba8d27"
+    },
+    {
+      "title": "Der König und sein Richter · Ludwig XVI und Robespierre",
+      "authors": "Schultz, Uwe",
+      "publisher": "Beck, C.H. Verlag, München, Germany, 2006",
+      "language": "German",
+      "format": "EPUB",
+      "size": "4.3MB",
+      "hash": "12b9b297216e9cdb9d345d71edbb82dd",
+      "url": "https://annas-archive.gl/md5/12b9b297216e9cdb9d345d71edbb82dd"
+    },
+    {
+      "title": "The road from Versailles : Louis XVI, Marie Antoinette, and the fall of the French monarchy",
+      "authors": "Munro Price",
+      "publisher": "St. Martin’s Griffin, 1st St. Martin's Griffin. ed., New York, New York State, 2004",
+      "language": "English",
+      "format": "EPUB",
+      "size": "1.6MB",
+      "hash": "14e7364975a74b2e41fc682f4ff02bb5",
+      "url": "https://annas-archive.gl/md5/14e7364975a74b2e41fc682f4ff02bb5"
+    },

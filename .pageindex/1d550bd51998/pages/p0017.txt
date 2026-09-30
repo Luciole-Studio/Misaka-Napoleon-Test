@@ -1,0 +1,43 @@
+stock exchange to propose new securities to their customers in order to maintain their profits7.
+This successful portfolio rebalancing to include French rentes opened a new era for capital
+investment, also fueled by the significant financing needs of the newly created Latin American
+states following the collapse of the Spanish empire. Neal (1998) stresses that those Latin
+American bonds included higher risk premiums compared with the “now-seasoned and solid
+French government debt” (p. 63) and by the mid-1820s, the British holders of those foreign
+bonds experienced their first experience with sovereign bond defaults. Over that time period, the
+French public debt seems thus to have been a good investment opportunity in terms of risk and
+return.
+
+    The next section provides an empirical investigation of the impact that these substantial
+improvements had on the yield of the French rentes.
+
+
+
+    V.       Data and Methodology
+
+          Data
+
+    In order to perform our empirical analysis we built up a hand collected original database. It
+consists of the weekly (Friday closing price) bond market prices published by the Moniteur
+Universel for the 5% French rente and the 3% English consol on the time period stretching from
+July 7, 1815 to January 13, 1826. On bank holidays we generally use the last quoted price; for the
+coupon payment period, either the “reduced” consol price or the price obtained from a linear
+interpolation based on the prices of other consols is used.
+
+    In the French case, investors faced a conversion risk. The bonds providing the highest
+nominal rates were the most likely to be converted and therefore present the highest yields. To
+avoid potential bias, the consol with the lowest coupon, i.e. the 3% consol, was chosen. An
+additional advantage of this choice is that the 3% consol also happened to be the most traded
+sovereign bond on the London stock market, thus, a highly liquid asset. For the French market,
+the solution was less obvious as there was only one sovereign bond traded over the period under
+study, i.e. the 5% rente. To address the conversion issue, we computed an implied option price by
+using the Black and Scholes (1973) formula and derived the price of a non-convertible rente as the
+sum of the price of the convertible rente and the option price. Since the conversion was a new
+
+
+
+7
+  For a more detailed discussion of the role played by underwriters on the sovereign debt markets also refer to
+Flandreau et al. (2010).
+
+                                                                                                            16

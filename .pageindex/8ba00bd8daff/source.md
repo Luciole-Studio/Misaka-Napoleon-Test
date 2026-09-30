@@ -1,0 +1,24 @@
+# notes_primary_finance.md — 荷兰兼并财政与瓦莱兼并军事的一手锚点
+
+## A. 1810年7月拿破仑通信（downloads/pages/82a063e7e022.md，napoleon-histoire.com转录《Correspondance de Napoléon Ier》1810年7月卷；OCR有瑕疵，引用标行号）
+
+1. **兼并日期**（L220编者注）：«Le décret portant réunion de la Hollande à l'Empire est du 9 juillet 1810»——Rambouillet敕令1810-07-09；Grab书写"10 July"（其p.72），口径差一日（9日签署敕令）。
+2. **直接统治意图**（复用t_b09c54已核，L约300）：Lebrun训令«Mon intention est de gouverner moi-même le pays»；海关现金归法国海关。
+3. **荷兰行政更省钱**（L999，致Lebrun）：«Il ne doit enlever aucun des papiers de l'administration, désirant conserver l'administration hollandaise, qui est plus économique que la nôtre.»——拿破仑亲认荷兰行政比法国经济。
+4. **1810-07-19致Mollien**（L1349）：«je vous envoie un tableau de la dette publique de Hollande; faites-moi un rapport qui me fasse comprendre facilement ce que je dois.»
+5. **1810-07-25致Mollien（核心财政门槛信，L1927段）**：问荷兰须缴多少税以支付「le tiers de sa dette」＋文武养老金＋内政部/财政部/运河/司法（«puisque tout cela ne me rend rien»）＋防务与船厂：「10 millions de florins pour la guerre et 6 millions de florins pour la marine, ce qui fait 16 millions de florins, ou à peu près 32 millions de francs」＋偿债28 millions ⇒«ce qui ferait une soixantaine de millions»（≈60m法郎/年需求门槛，含此前已并入的两省）。**P.S.: «L'ancien ministre des finances de Hollande, Gogel, est arrivé; voyez-le et amenez-le-moi ce soir à Saint-Cloud»**——兼并后立即召用Gogel。
+6. **荷兰海军吸纳**（L266、L905、L1001、L1171-1173）：签兼并令当日即令勘察荷兰海军并重组（所有文武官员«employés à mon service»）；令鹿特丹/阿姆斯特丹开工5舰3巡防；1811年要求默兹泊地5舰+特塞尔9舰；舰队推算表：1812-01-01法舰66+荷兰20=86，1812年底目标110–115艘（含20荷兰舰）。荷兰兵团获法军线列番号+鹰旗（L430）。
+7. **爪哇通信线**（L460）：令经l'Île de France（毛里求斯）向Decaen→Daendels传兼并消息——巴黎→爪哇的帝国通信实际依赖印度洋孤岛中转。
+8. **瓦尔赫伦要塞化**（L799）：«La possession de la Hollande fait de nouveau sentir l'importance de l'île de Walcheren; il faut que la France la saisisse avec des mains de fer.»
+9. **1810-07-25致Clarke（瓦莱兼并军事部署）**（L约1960）：«mon intention est de réunir le Valais à la France»；部署：日内瓦集结宪兵连（16e/18e军区抽调）+1,200葡萄牙兵；23e轻步2营1,500人过圣伯纳德驻奥斯塔；1,200意大利步兵+50骑集结Domodossola备过辛普隆。——兼并一个约6–7万人口的山地共和国，预案动员约4,000–5,000人合围。
+
+## B. Marion《Histoire financière de la France》IV (1925)，downloads/F4_Marion_IV_1925.txt（OCR）
+
+1. **荷兰债务三分之一化**（印p.325，txt L17036-17046）：«la dette considérable, 78 millions, fut répudiée pour les deux tiers (1) mais inscrite pour un tiers à la charge du Trésor français, qui eut alors à payer outre 62 millions de rentes françaises 26 de rentes hollandaises.»——78m法郎**年金**削至26m（年息非本金）；法国国债总额（1811年预算法）：法国永久年金62.3m+终身年金16.3m+养老金38.9m，荷兰债另计。
+2. **Marion脚注（法方辩护口径）**（p.325 n.1，txt L17074）：«Ce n'était pas en somme changer beaucoup à la situation : la Hollande avait un déficit considérable et ne pouvait assurer le service de sa dette.»——法国财政史家的开脱性判断，与荷兰食利者实际损失（详见Schama口径）并列呈现，不采信其为中性事实。
+3. **1812年并合地预期收入表**（印p.321引AF IV 1072，txt L16844-16856）：12次兼并合计毛342.260044m/净226.389345m，其中**荷兰66.5m（毛）**；并注«les nouveaux départements...finissaient par coûter au Trésor plus qu'ils ne lui rapportaient»（Marion判断：新省行政与工程开销后净贡献为负）。7个荷兰省至1811年底保留独立财政管理。
+4. 帝国国债增幅（p.335段，txt L17558+）：除去保留的26m荷兰年金，帝国十年战争仅增18m法郎年金（an XII 45.18m→1814-04 63.3m consolidés）——反衬：荷兰是帝国境内唯一被大规模削债的成熟公债体。
+
+## C. 交叉核对
+- 28m（1810-07-25 Mollien信中的偿债需求）≈ 26m（Marion载tiercement后实际年金）+ 养老金零头——两口径接近，制度落点=1810-07-09兼并敕令后的债务处理与1810-08/1811年执行（F4口径已注明"目标非实收"）。
+- 78m法郎年金 ≈ 37–40m盾（1盾≈2.1法郎），与荷兰王国时期债息负担（见Grab/Schama：1803年债本11.26亿盾）量级吻合；即债息约占荷兰王国岁入（约50m盾等级）之七至八成——【推断】待Schama/van Zanden数字复核。

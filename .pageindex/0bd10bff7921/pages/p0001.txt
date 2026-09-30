@@ -1,0 +1,23 @@
+# IT3 SOURCES — t_5b1d64 教廷与诸教会
+
+体例：P=原始文书公开转录/译本（非亲验手稿）；S=现代研究；R=回溯性回忆/自辩。路径相对项目根 /Users/makiko/Documents/exam/。本轮亲取件均在 downloads/；上一轮复用件注明 t_b09c54。凡"权重知识"标注项不在此列，为待核通说。
+
+## 一手文书（P）
+
+1. **1801-07-15专约全文（17条）** — Wikisource转录，底本Hébrard《Les articles organiques devant l'histoire》(Lecoffre, 1870) pp.550–552。`downloads/pages/132109ff15eb.md`。本卡引Art.1,3–8,13–17。
+2. **1813-01-25枫丹白露专约（11条）** — napoleon-empire.org官文转录。`downloads/pages/b064437dd1d2.md`。全文引用。辅证：franco.wiki/Wikipedia《Concordat de Fontainebleau》条（撤回时序、77条附随、2-13入法、5-25执行令，转述d'Haussonville）；Loyola图书馆藏1813-01-25拿破仑致教皇亲笔信介绍页（bibliotheque.loyolaparis.fr，检索所得描述，未存独立抓取）。
+3. **《Quum memoranda》1809-06-10绝罚简函** — 梵蒂冈官网意大利文。`downloads/pages/282993960dad.md`（t_b09c54已核）。
+4. **帝国教理问答1806（Leçon VII）** — 英译Fordham/Robinson《Readings in European History》II, 509–510：`downloads/pages/968b2b9b2b09.md`；法文对照与1806-04-04敕令/Caprara 1806-05-30接受细节：education.persee.fr/doc/revpe_2021-4111_1883_num_2_1_1520（Revue pédagogique 1883重刊，检索获取正文，未存独立抓取——引用处已标）。concordatwatch导览页：`downloads/pages/6e927305e1e3.md`。
+5. **Tama, Transactions of the Parisian Sanhedrim**（tr. Kirwan, London 1807）— `downloads/IT3_Tama_Sanhedrin_transactions_1807.txt`（doc 280ebdaf8715）。引：十二问（L5905–）、"Even to death"（L5945）、答问一多妻/答问二休妻"law of the state is the supreme law"（L6590–6700）、答问六祖国（L7770–7800）、拉比职责六条（L12105–12130）。
+6. **Pacca, Mémoires…sur la captivité de Pie VII et le concordat de 1813**（法译第三版增补梵蒂冈存件，1833）— `downloads/IT3_Pacca_memoires_v2_fr_1833.txt`（doc 496f6034a116）。R类+其录文书。引：撤回密议与机制（L3480–3610）、撤回函文本（L3690–3830）、告枢机allocution（L3900–3975）、1808-04 Gabrielli中立照会两件（L10665–11295，附件Nos.X–XI）。
+7. **Consalvi, Mémoires**（Crétineau-Joly编，v1 1866、v2 1864）— `downloads/IT3_Consalvi_memoires_v1_1866.txt`（doc 681099ce8111）、`downloads/IT3_Consalvi_memoires_v2_1864.txt`（doc d64e9e569b56）。R类。引：威尼斯会议章（v1 TOC L17912–17960）、假专约与亨利八世威胁（v1 L14180–14280，含编者注引Mémorial de Sainte-Hélène II,114–115——回溯性已标）、13枢机与1810婚礼（v2 L7050–7460）。
+8. **Gregory XVI, Mirari Vos（1832-08-15）** — papalencyclicals.net英译全文。`downloads/pages/83a2e2f929d5.md`。引§13–15。
+9. **d'Haussonville, L'Église romaine et le Premier Empire, t.V**（1870）— `downloads/IT3_Haussonville_Eglise_romaine_v5.txt`（doc 5f2735bb1af7）。本轮下载备查，正文未逐节引用（Fontainebleau叙事已由Pacca+文书覆盖）；列为谱系与后续核对源。
+
+## 现代研究（S）
+
+10. **Grab, Napoleon and the Transformation of Europe**（2003）全文缓存 — `downloads/pages/2ad693d5ac13.md`。引：法国专约与组织条款（L1137–1225）、犹太政策（L1227）、比利时（L2010–2280）、德南三邦世俗化（L2807）、西班牙（L3147–3420）、意大利专约（L4036–4056）、教皇国与罗马两省（L4160–4200）、并省清单（L646）。
+11. **Caiani, "The Concile National of 1811"**, Journal of Ecclesiastical History 70(3), 2019 — `downloads/pages/e6ebb5ba44b2.md`（t_b09c54已核，引文Q-R5–R8沿用其锚定）。
+12. **Hicks, "Napoleon and the Pope: from the Concordat to the Excommunication"**, Fondation Napoléon — `downloads/pages/efa0bb62bc3b.md`（t_b09c54已核）。其引拿破仑/教皇语均转引Correspondance générale（Fayard 2009, nos.11268/11445/11450）与Melchior-Bonnet 1958（pp.87,122,126）——转引层级已在文中标注。
+13. **Esdaile, Popular Resistance in the French Wars**（2005）文集 — `downloads/IT2_Esdaile_Popular_Resistance__5769805d6a10.txt`（IT2卡资产复用）。引："mayors in black/prefects in purple"（L4474）、加泰罗尼亚世俗游击与教士指挥罕见（L5233–5245）。
+14. **Davey Wright, "Andreas Hofer and the insurrection in the Tyrol, 1809"**, Fondation Napoléon — `downloads/pages/1ee80b7507ce.md`（t_b09c54已核；其引拿破仑1809-07-20致Lefebvre信为转引英译no.15559）。

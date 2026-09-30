@@ -1,0 +1,76 @@
+
+
+**【事实｜附约第6条】**
+
+> « La présente convention aura la même force et valeur que si les articles en étaient insérés mot pour mot dans le traité patent de ce jour. »
+
+法律效力相同不等于文本位置相同。应引“1809和约附约第5条”，不能引“正文第5条”。
+
+## 7. 转录质量与必须保留的冲突清单
+
+1. **P05a漏地名整句：** 第8条漏蒂罗尔、布里克森、特伦托；P05b有，已列精确引句。两版第23条炮兵分离句亦不通顺（“la première”所指在当前句中不清），不据此冻结火炮产权细节。
+2. **T07编号：** XXIII后下一条误作“XIV”，按序应为XXIV；保留源文错误，不假称签署文本这样编号。地名多讹，不作精确GIS底稿。
+3. **P08编号：** 第15条后承认约瑟夫、缪拉的条款误标“Art. 10”，按序应第16条；引用需显式说明。
+4. **P08军队组织：** 附条第1条“8 régiments de cavalerie ou 82 escadrons”组合疑误；42,000总数与22,000+8,000+6,000+6,000相合，但不能因此保证各编制字样均正确。
+5. **P08辅助军：** 附条第5条通常义务写10,000，1809例外写“ne devra fournir ... qu’un contingent de 12,000”；“只需”却高于常规额，显示需要影像校对。**本次不擅改10,000为16,000或其他值。**
+6. **S09撤军：** XII法文15日／英文14日；法文列匈牙利，英文省略。
+7. **S09战俘：** XIII法文40日／英文14日，不在本次核心变量内，仍保留冲突，不擅统一。
+8. **S09贸易：** 法文两网站第7条有明显不完整句，英译写明英国货除外及过境税优惠；本件不以该法文残句重建正式原句。
+9. **S09两法文网页可能同源：** 都含部分相同重复和残句，不能当成独立互证票数；85m与150,000条文本身一致，但仍不是影印核验。
+10. **V15搜索摘要条号错误风险：** 抓取实际正文末条为121（批准与原件存放），第119是加入邀请，第120是语言保留。不得采纳搜索摘要将批准条简化成119的编号。
+
+## 8. 1815镜像：必须分开6月维也纳与11月巴黎
+
+### 8.1 1815年11月20日第二次巴黎和约
+
+以下【事实】均据P15，不依赖现代叙述。
+
+**正文第1条：边界基准附修正。**
+
+> « Les frontières de la France seront telles qu’elles étaient en 1790, sauf les modifications de par et d’autre qui se trouvent indiquées dans l’article présent. »
+
+必须保留“附下列修正”，不能只说机械恢复1790每一寸边界。条文依次列北界、萨尔地区、朗道、日内瓦交通、萨伏依等；第2条永久放弃所割要塞、地区的主权与产权，并将交割期限指向**军事专约第9条**。该专约本轮未读，不虚构其天数。
+
+**正文第3条：限工事不是全国限军。**
+
+> « faire démolir les fortifications d’Huningue »
+
+禁止恢复，并禁止在巴塞尔三里格内替建；瑞士中立覆盖另有领土扩展。不能据此推出法国全国军队被限至15万。
+
+**正文第4条：赔款总额在正文，偿付细节在专约。**
+
+> « est fixée à la somme de sept cents millions de francs. »
+
+> « Le mode, les termes et les garanties du payement de cette somme seront réglés par une convention particulière »
+
+**【裁量】** 7亿是条文“赔偿的货币部分”，并非本次战争全部财政负担。占领军维持费另见第5条，索赔专约另见第9条；不从7亿倒推法国总支出。
+
+**正文第5条：占领军上限、主权保留、终期与审查。**
+
+> « cette occupation ne portera aucun préjudice à la souveraineté de S.M.T.C., ni à l’état de possession »
+
+> « Le nombre de ces troupes ne dépassera pas cent cinquante mille hommes. »
+
+> « Le maximum de la durée de cette occupation militaire est fixé à cinq ans. »
+
+> « Elle peut finir avant ce terme, si, au bout de trois ans »
+
+条文规定三年时由盟国君主与法王审视局势、相互利益及恢复秩序进展，并须盟国同意理由已消失，才能提前结束。五年期满则无须另加延迟撤清。
+
+**【裁量】** 这是有明确上限和提前审查窗口的临时占领设计；不是“必占五年”，也不是“三年自动撤军”。本轮没有核1818执行文书，故不把实际撤军时间当作已核事项。
+
+法国承担占领军维持费，具体负担和军民关系由同效力特别协定安排。第6条要求非占领军的其他外国部队撤出，同样指向军事专约第9条。
+
+**正文第11条：与前约、维也纳总议定书的衔接。**
+
+> « Le Traité de Paris du 30 mai 1814, et l’Acte final du Congrès de Vienne, du 9 juin 1815, sont confirmés et seront maintenus dans toutes celles de leurs dispositions qui n’auraient pas été modifiées par les clauses du présent Traité. »
+
+证明三件文书不是一件：1814巴黎、1815年6月维也纳、1815年11月巴黎。第12条规定条约及所附协定以单一行为批准。
+
+**【事实｜签署结构】** P15所呈为法国—奥地利本，列Richelieu、Metternich、Wessenberg；随后注明同日同地与英、普、俄分别缔结同文及附件，并逐列双方代表。不得沿用网上“法国不是签署国”的说法，也不将四份双边文本误说成只有盟国签字的对法命令。
+
+### 8.2 1815年6月9日维也纳总议定书：本次仅查65—121
+
+**【事实｜V15第93条】** 恢复承认奥地利对一批此前割让并经战争收复领地的主权，明列：
+
+> « par les Traités de Campo-Formio de 1797, de Lunéville de 1801, de Presbourg de 1805, par la Convention additionnelle de Fontainebleau de 1807, et par le Traité de Vienne de 1809 »

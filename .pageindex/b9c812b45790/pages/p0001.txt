@@ -1,0 +1,259 @@
+{
+  "status": "ok",
+  "query": "Cookson Friends of Peace",
+  "domain": "annas-archive.gl",
+  "count": 47,
+  "results": [
+    {
+      "title": "The friends of peace : anti-war liberalism in England, 1793-1815",
+      "authors": "John Ernest Cookson",
+      "publisher": "Cambridge University Press (Virtual Publishing), Cambridge [Cambridgeshire], New York, England, 1982",
+      "language": "English",
+      "format": "PDF",
+      "size": "3.9MB",
+      "hash": "d8cbc6ad900dc29acaad439e2a2338ec",
+      "url": "https://annas-archive.gl/md5/d8cbc6ad900dc29acaad439e2a2338ec"
+    },
+    {
+      "title": "The friends of peace : anti-war liberalism in England, 1793-1815",
+      "authors": "Cookson, J. E.",
+      "publisher": "Cambridge [England] : Cambridge University Press, Cambridge [Cambridgeshire], New York, England, 1982",
+      "language": "English",
+      "format": "PDF",
+      "size": "20.1MB",
+      "hash": "815d017c27ee935109e2cb477789cf82",
+      "url": "https://annas-archive.gl/md5/815d017c27ee935109e2cb477789cf82"
+    },
+    {
+      "title": "The friends of peace : anti-war liberalism in England, 1793-1815",
+      "authors": "John Ernest Cookson",
+      "publisher": "Cambridge University Press (Virtual Publishing), 1, 1982",
+      "language": "English",
+      "format": "PDF",
+      "size": "18.2MB",
+      "hash": "94e5dfb677fae8351ed4c4fd3e6eb00d",
+      "url": "https://annas-archive.gl/md5/94e5dfb677fae8351ed4c4fd3e6eb00d"
+    },
+    {
+      "title": "The Fight for Peace",
+      "authors": "Birt, Autumn M",
+      "publisher": "Createspace, Friends of My Enemy 4, 2015",
+      "language": "English",
+      "format": "EPUB",
+      "size": "0.7MB",
+      "hash": "15268d2c2a68c2fdc52600c1a4d5cd84",
+      "url": "https://annas-archive.gl/md5/15268d2c2a68c2fdc52600c1a4d5cd84"
+    },
+    {
+      "title": "Nonalignment",
+      "authors": "Burton, John W. (John Wear), 1915- ed, London Yearly Meeting (Society of Friends). Friends Peace and International Relations Committee, London Yearly Meeting (Society of Friends). Friends Peace and International Relations Committee",
+      "publisher": "New York, J. H. Heineman, New York, New York State, 1966",
+      "language": "English",
+      "format": "PDF",
+      "size": "9.3MB",
+      "hash": "696c9840a1c6437f4adaf1dcdd7d9b98",
+      "url": "https://annas-archive.gl/md5/696c9840a1c6437f4adaf1dcdd7d9b98"
+    },
+    {
+      "title": "Friends of the Rice Farmer.pdf",
+      "authors": "Acrobat Capture Server 2.01",
+      "publisher": "",
+      "language": "PDF",
+      "format": "",
+      "size": "23.5MB",
+      "hash": "7cb739fae3a2efc14ca0f27213559d10",
+      "url": "https://annas-archive.gl/md5/7cb739fae3a2efc14ca0f27213559d10"
+    },
+    {
+      "title": "Looking toward the post-war world : statement of the Friends Conference on Peace and Reconstruction held at Wilmington, Ohio, August 31-September 4, 1942",
+      "authors": "Friends Conference on Peace and Reconstruction, American Friends Service Committee; Friends World Conference Committee",
+      "publisher": "Philadelphia, Pa.: The Peace section, American Friends Service Committee and American section, Friends World Committee, Philadelphia, Pa, Pennsylvania, 1942",
+      "language": "English",
+      "format": "PDF",
+      "size": "2.8MB",
+      "hash": "9fc4a0fe09eead9270f33dadcc93c5cd",
+      "url": "https://annas-archive.gl/md5/9fc4a0fe09eead9270f33dadcc93c5cd"
+    },
+    {
+      "title": "How Enemies Become Friends: The Sources of Stable Peace",
+      "authors": "Charles A. Kupchan",
+      "publisher": "PrincetonUP, 2010",
+      "language": "English",
+      "format": "PDF",
+      "size": "2.9MB",
+      "hash": "6475a92b8691911943e06ac2b51245c4",
+      "url": "https://annas-archive.gl/md5/6475a92b8691911943e06ac2b51245c4"
+    },
+    {
+      "title": "Where go the boats : navigation on the Peace, 1792-1952",
+      "authors": "Hansen, Evelyn, 1923-, Peace River Centennial Museum; Peace River Centennial Museum. Friends of the Museum",
+      "publisher": "Peace River, Alta. : Peace River Centennial Museum, Peace River, Alta, Alberta, 1977",
+      "language": "English",
+      "format": "PDF",
+      "size": "2.8MB",
+      "hash": "de2921dd3616704baae75ab6cadf80d2",
+      "url": "https://annas-archive.gl/md5/de2921dd3616704baae75ab6cadf80d2"
+    },
+    {
+      "title": "The Kurds: my friends in the north",
+      "authors": "John Cookson;",
+      "publisher": "Mint Associates Ltd, Mint Associates Ltd, [S.l.], 2021",
+      "language": "English",
+      "format": "EPUB",
+      "size": "3.5MB",
+      "hash": "19c610b04955de2d9a59ae9b22b1992b",
+      "url": "https://annas-archive.gl/md5/19c610b04955de2d9a59ae9b22b1992b"
+    },
+    {
+      "title": "Anatomy of anti-communism; a report prepared for the Peace Education Division of the American Friends Service Committee",
+      "authors": "American Friends Service Committee, American Friends Service Committee. Peace Education Division",
+      "publisher": "New York, Hill and Wang, New York, New York State, 1969",
+      "language": "English",
+      "format": "PDF",
+      "size": "6.6MB",
+      "hash": "3b90019555f62cfef3c812791a643f43",
+      "url": "https://annas-archive.gl/md5/3b90019555f62cfef3c812791a643f43"
+    },
+    {
+      "title": "My Heart, His Peace: A Friends to Lovers Romance",
+      "authors": "B., Erika",
+      "publisher": "B. Love Publications, 2024",
+      "language": "English",
+      "format": "EPUB",
+      "size": "0.7MB",
+      "hash": "4f1025e37233d19abf485a87ac961122",
+      "url": "https://annas-archive.gl/md5/4f1025e37233d19abf485a87ac961122"
+    },
+    {
+      "title": "Pacifist living -- today and tomorrow : a brief exploration of pacifism under conscription, in time of war, and post-war reconstruction",
+      "authors": "Wilson, E. Raymond (Edward Raymond), 1896-1987, writer of introduction; American Friends Service Committee. Peace Section, publisher; Pendle Hill (School : Wallingford, Pa.), publisher",
+      "publisher": "Philadelphia, Pennsylvania: Peace Section, American Friends Service Committee ; Wallingford, Pennsylvania: Pendle Hill, Philadelphia, Pennsylvania, 1941",
+      "language": "English",
+      "format": "PDF",
+      "size": "5.6MB",
+      "hash": "c19f76bde271712e37efa438105a93d8",
+      "url": "https://annas-archive.gl/md5/c19f76bde271712e37efa438105a93d8"
+    },
+    {
+      "title": "For You I'd Mend: A Small Town, Friends-to-Lovers Romance (Peace Falls Series Book 2)",
+      "authors": "Hannah Jordan",
+      "publisher": "anonymous, 2024",
+      "language": "English",
+      "format": "PDF",
+      "size": "1.5MB",
+      "hash": "c491e4be4e8c62d7014c54c0e2374f10",
+      "url": "https://annas-archive.gl/md5/c491e4be4e8c62d7014c54c0e2374f10"
+    },
+    {
+      "title": "For You I'd Mend: A Small Town, Friends-to-Lovers Romance (Peace Falls Series Book 2)",
+      "authors": "Hannah Jordan",
+      "publisher": "anonymous, 2024",
+      "language": "English",
+      "format": "MOBI",
+      "size": "0.5MB",
+      "hash": "295fb247efd48df83e543b4bf202886d",
+      "url": "https://annas-archive.gl/md5/295fb247efd48df83e543b4bf202886d"
+    },
+    {
+      "title": "For You I'd Mend: A Small Town, Friends-to-Lovers Romance (Peace Falls Series Book 2)",
+      "authors": "Hannah Jordan",
+      "publisher": "anonymous, 2024",
+      "language": "English",
+      "format": "PDF",
+      "size": "1.6MB",
+      "hash": "d8346792c18bdc3d46535041a012c4d4",
+      "url": "https://annas-archive.gl/md5/d8346792c18bdc3d46535041a012c4d4"
+    },
+    {
+      "title": "For You I'd Mend: A Small Town, Friends-to-Lovers Romance (Peace Falls Series Book 2)",
+      "authors": "Hannah Jordan",
+      "publisher": "anonymous, 2024",
+      "language": "English",
+      "format": "AZW3",
+      "size": "0.7MB",
+      "hash": "bdcde3da8734519cc181c24dbae8012c",
+      "url": "https://annas-archive.gl/md5/bdcde3da8734519cc181c24dbae8012c"
+    },
+    {
+      "title": "For You I'd Mend: A Small Town, Friends-to-Lovers Romance (Peace Falls Series Book 2)",
+      "authors": "Hannah Jordan",
+      "publisher": "anonymous, 2024",
+      "language": "English",
+      "format": "FB2",
+      "size": "0.7MB",
+      "hash": "d2306c97f777ba425486430dc26e7f17",
+      "url": "https://annas-archive.gl/md5/d2306c97f777ba425486430dc26e7f17"
+    },
+    {
+      "title": "For You I'd Mend: A Small Town, Friends-to-Lovers Romance (Peace Falls Series Book 2)",
+      "authors": "Hannah Jordan",
+      "publisher": "anonymous, 2024",
+      "language": "English",
+      "format": "MOBI",
+      "size": "0.5MB",
+      "hash": "83103bce5f5ab5c0b6c5ada3d7e7c6ee",
+      "url": "https://annas-archive.gl/md5/83103bce5f5ab5c0b6c5ada3d7e7c6ee"
+    },
+    {
+      "title": "For You I'd Mend: A Small Town, Friends-to-Lovers Romance (Peace Falls Series Book 2)",
+      "authors": "Hannah Jordan",
+      "publisher": "anonymous, 2024",
+      "language": "English",
+      "format": "FB2",
+      "size": "1.5MB",
+      "hash": "0e5c1eea30ee8e07c88d14571f3aaad1",
+      "url": "https://annas-archive.gl/md5/0e5c1eea30ee8e07c88d14571f3aaad1"
+    },
+    {
+      "title": "Address and declaration, of the friends of universal peace and liberty: held at the Thatched House Tavern, St. James's Street. August 20th. 1791. By Thomas Paine, ... Together with some verses, by the same author, ...",
+      "authors": "Thomas Paine",
+      "publisher": "Oxford Text Archive, Oxford University, 2011",
+      "language": "English",
+      "format": "MOBI",
+      "size": "0.2MB",
+      "hash": "d0edbe72cbe0ab614ead8c69a971b47c",
+      "url": "https://annas-archive.gl/md5/d0edbe72cbe0ab614ead8c69a971b47c"
+    },
+    {
+      "title": "For You I'd Mend: A Small Town, Friends-to-Lovers Romance (Peace Falls Series Book 2)",
+      "authors": "Hannah Jordan",
+      "publisher": "anonymous, 2024",
+      "language": "English",
+      "format": "EPUB",
+      "size": "0.5MB",
+      "hash": "bb4e3b0783b2d0e6a72a36a0aeaec83e",
+      "url": "https://annas-archive.gl/md5/bb4e3b0783b2d0e6a72a36a0aeaec83e"
+    },
+    {
+      "title": "Don't Forget World Peace: A Friends to Lovers Novelette",
+      "authors": "Stevens, Noel",
+      "publisher": "2022",
+      "language": "English",
+      "format": "EPUB",
+      "size": "0.4MB",
+      "hash": "85c2e4160b2eab549daaca65e453ea86",
+      "url": "https://annas-archive.gl/md5/85c2e4160b2eab549daaca65e453ea86"
+    },
+    {
+      "title": "Peace Pilgrim: Her Life and Works in Her Own Words",
+      "authors": "Friends of Peace Pilgrim",
+      "publisher": "Santa Fe, N.M.: Ocean Tree Books, 2nd ed., Santa Fe, N.M, New Mexico, 1994",
+      "language": "English",
+      "format": "PDF",
+      "size": "2.3MB",
+      "hash": "ca603374b664ef87dff4564b1b3b6f43",
+      "url": "https://annas-archive.gl/md5/ca603374b664ef87dff4564b1b3b6f43"
+    },
+    {
+      "title": "Peregrina de Paz: Su Vida y Obra en sus Propias Palabras",
+      "authors": "Peace Pilgrim",
+      "publisher": "Friends of Peace Pilgrim and Ocean Tree Books, 1982",
+      "language": "English",
+      "format": "PDF",
+      "size": "0.5MB",
+      "hash": "b99790f5e6feeb2b224297849da53ae3",
+      "url": "https://annas-archive.gl/md5/b99790f5e6feeb2b224297849da53ae3"
+    },
+    {
+      "title": "How to keep America out of war",
+      "authors": "Page, Kirby, 1890-1957, author; American Friends Service Committee. Peace Section, publisher; Fellowship of Reconciliation (U.S.), publisher; Methodist Episcopal Church. General Conference Commission on World Peace, publisher; Keep America Out of War Congress, publisher; National Council for Prevention of War (U.S.), publisher; War Resisters League, publisher; Women's International League for Peace and Freedom, publisher",

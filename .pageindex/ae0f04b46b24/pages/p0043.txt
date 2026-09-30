@@ -1,0 +1,718 @@
+
+
+(North) 
+Queen's  Ferry 
+
+(South) 
+Queenborough 
+Queen  hope 
+Quendon 
+
+R 
+
+Radfidd 
+Radford 
+Radlet 
+
+
+Comity 
+
+Dist. 
+
+M.D 
+
+Pa. 
+
+Bedf. 
+
+48  3 
+
+Sat. 
+
+372 
+
+Hants 
+
+9°  3 
+
+
+
+88 
+
+Lane. 
+
+235  5 
+
+Mo. 
+
+393 
+
+Wilts 
+
+83  2 
+
+
+
+172 
+
+Kent 
+
+16  3 
+
+17 
+
+Corn. 
+
+272  1 
+
+
+
+69 
+
+Beriv. 
+
+347  5 
+
+
+
+455 
+
+Lane. 
+
+19S  2 
+
+Tue. 
+
+304 
+
+Radn. 
+
+— 
+
+Sat. 
+
+— 
+
+*57  5 
+
+— 
+
+223 
+
+— 
+
+>5l  3 
+
+— 
+
+21 2 
+
+Kent 
+
+46  4 
+
+
+
+4 
+
+Sussex 
+
+52   1 
+
+40 
+
+Lane. 
+
+218   1 
+
+W.F 
+
+&S. 
+
+331 
+
+Som. 
+
+122  7 
+
+
+
+119 
+
+York. 
+
+177  6 
+
+
+
+506 
+
+Salop 
+
+166  0 
+
+
+
+272 
+
+York. 
+
+230  0 
+
+
+
+403 
+
+Salop 
+
+146  0 
+
+
+
+231 
+
+Essex 
+
+42   7 
+
+
+
+659 
+
+Corn. 
+
+262   f 
+
+
+
+93 
+
+Herts 
+
+26  6 
+
+
+
+444 
+
+Su  tsex 
+
+48  3 
+
+
+
+48 
+
+Hants 
+
+65  2 
+
+
+
+28 
+
+Essex 
+
+16   1 
+
+
+
+560 
+
+Berks 
+
+64  5 
+
+
+
+171 
+
+Surry 
+
+4  2 
+
+
+
+70 
+
+Surry 
+
+— 
+
+
+
+— 
+
+5  4 
+
+— 
+
+70 
+
+— 
+
+7  0 
+
+— 
+
+27 
+
+Glam. 
+
+183  7 
+
+163 
+
+Salop 
+
+'35  4 
+
+
+
+2*2 
+
+Som. 
+
+l*9  5 
+
+183 
+
+N.amp 
+
+— 
+
+. 
+
+— 
+
+64  4 
+
+— 
+
+322 
+
+— 
+
+65  0 
+
+— 
+
+280 
+
+Midd. 
+
+1  5 
+
+70 
+
+Fij7ih 
+
+403  c 
+
+
+
+456 
+
+Lin!. 
+
+40 !     O 
+
+
+
+456 
+
+Kent 
+
+44  6 
+
+MTh 
+
+9 
+
+Flint. 
+
+l95  5 
+
+
+
+256 
+
+Essex 
+
+36    ! 
+
+5i6 
+
+Kent 
+
+4i  5 
+
+
+
+4 
+
+\Warii. 
+
+88  3 
+
+
+
+308 
+
+\Herts  j   14   r 
+
+— — 
+
+276 
+
+Place. 
+Radnor  (New) 
+— by  Gloucester 
+— by  Worcester 
+Radstoke 
+Ragland 
+Rain  ford 
+Rain  ham 
+Rainham 
+Raisin  (Market) 
+Raisin 
+Rake 
+Raleigh 
+Ramsey 
+— by  liipton 
+— by  War  boys 
+Ramsey 
+Ramsgate 
+Ranndge(High) 
+Ran=kill 
+Ravcndale 
+—  by  Louth 
+—by    Market 
+Raisin 
+
+Ravenglass 
+— across  the  Lan- 
+caster Sands 
+— across  the  Le- 
+
+•ven  Sands 
+iRavenstone 
+
+Rawcliffe 
+
+Raynton  (East) 
+
+Reading 
+
+— by  Egham  and 
+thro'    Windso 
+Great  Park 
+
+— by  Egham  and 
+Oakingham 
+
+— by  Maidenhead 
+
+— by    Windsor 
+and  Binfeld 
+
+Red  Hill 
+
+Red  House 
+|Red  Marley 
+j  Red  bridge 
+JRedburn 
+
+Redgrave 
+
+Redmire 
+
+Redruth 
+
+— by  Bodmin 
+
+— by  Liskeard 
+
+Reepham 
+
+Relubbas 
+
+Rempston 
+
+Rctbourn 
+
+e  a 
+
+
+County 
+
+Radn. 
+
+
+Som. 
+
+Monm 
+
+Lane. 
+
+Kent 
+
+Essex 
+
+Line. 
+
+Line. 
+
+Sussex 
+
+Essex 
+
+Hunt. 
+
+
+Essex 
+
+Kent 
+
+Corn. 
+
+Nott. 
+
+Line. 
+
+
+Cumb. 
+
+
+Leic. 
+York. 
+Durh. 
+
+Berks 
+
+
+Nott. 
+
+York. 
+
+Wore. 
+
+Hants 
+
+Herts 
+
+Suff. 
+
+York. 
+
+Corn. 
+
+
+Norf. 
+Corn. 
+Nott. 
+Line. 
+
+
+Dist. 
+
+161  7 
+159  c 
+
+U3  2 
+
+139  c 
+
+c4  1 
+
+33  7 
+
+12  4 
+
+151  6 
+
+148  6 
+49  2 
+33  5 
+
+
+M.D 
+
+Th. 
+
+
+68  3 
+
+
+68  2 
+
+73  4 
+
+243  5 
+
+146  o 
+
+156  4 
+iS5   4 
+
+
+2S6  1 
+
+
+283  5 
+112  1 
+
+170  o 
+261  7 
+
+
+3  7 
+
+
+39 
+38  7 
+
+
+rh. 
+
+
+Sat. 
+
+
+w.s. 
+
+
+41 
+
+128 
+168 
+
+115 
+
+80 
+
+25 
+
+88 
+241  4 
+
+263  o 
+
+1  1  2. 
+
+277 
+1 14  1 
+
+'47 
+
+
+Sat. 
+
+
+T.  F 
+
+
+Pa. 
+
+216 
+212 
+
+'39 
+zio 
+
+425 
+
+4 
+
+560 
+
+500 
+
+500 
+28 
+
+55! 
+
+486 
+±86 
+646 
+to 
+118 
+480 
+
+49  i 
+499 
+
+
+421 
+
+422 
+367 
+
+527 
+5'i3 
+
+
+H3 
+
+149 
+
+132 
+
+144 
+
+383 
+35i 
+219 
+
+72 
+279 
+554 
+429 
+
+68 
+69 
+
+53^ 
+
+6( 
+
+398 
+
+488 
+
+
+Index  to  the  Direct  Roads  from  London. 
+
+Place. 
+
+County 
+
+Dist. 
+
+-;/.£> 
+
+Pa. 
+
+Place. 
+
+County 
+
+Dist. 
+
+M.D 
+
+Pa. 
+
+Retford  (East) 
+
+Nott. 
+
+140   5 
+
+Sat. 
+
+48  c 
+
+Rosley 
+

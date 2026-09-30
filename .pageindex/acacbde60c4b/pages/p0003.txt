@@ -1,0 +1,30 @@
+
+
+## 五、附表E：西班牙——榨取全部留在战区（页眉p.10–11）
+
+表 "'ordinary contributions'" 三列（缓存标题行残损，依可见数字与列名判读为：军队及英国货物之没收／付予法国国库／归入 Domaine Extraordinaire）：
+- Third coalition (Austria-Russia 1805)：**35　27　31　0**
+- Fifth coalition (Austria 1809)：**79　74　5**
+- **Spain 1808-1813：350　350　0**
+
+→ **西班牙1808–13的普通贡赋350m，整笔由军队就地取用，汇入法国国库与Domaine者为0。**
+（注：1805行出现四个数字而其余为三个，缓存列结构在该行不确定，故本卡只引**西班牙行**与奥地利1809行作结论，1805行仅作参考。）
+
+## 六、和平基准线（正文，页眉p.7）
+
+> 「Once the peace of Amiens had broken down, the **breakeven point of around 500 million francs, obtained in year X (1802)**, ceased to apply. Over three billion francs needed to be found.」
+
+→ 1802（共和十年）法国**和平状态下的收支平衡点约500m**。这是同时代的、由本文作者据国库总账给出的和平基准，**可与本卡S5的700–800m经常收入模型交叉检验**：S5的领土基盘远大于1802年法国，故700–800m收入与约500m（1802口径）基准之间的差额，正是并合省与新税种（droits réunis、烟草专卖）带来的增量。
+
+## 七、1814–18 战胜国对法国的反向榨取（正文表，页眉p.14）
+
+| 项 | 金额 |
+|---|---:|
+| 盟军至条约前索取的"普通贡赋" | 144 |
+| 条约规定的一次性赔款 | 700 |
+| 1815-11至1818-10占领军费用 | 328 |
+| 对帝国军队所夺款项的补偿 | 240 |
+| **法国支付总计** | **1,412** |
+
+**复算**：144+700+328+240＝1,412 ✓。正文并称这抵销了战争所得的近18亿：「the self-financing war turned out to be an advance that had to be repaid over future generations」。
+→ **S5/S6 的直接含义**：法国若不战败，这1,412m（约为1813年全年收入的1.2–1.8倍）是**净避免额**。此为反事实收益中**有明确史实数值支撑**的一项，不需假设。

@@ -1,0 +1,33 @@
+# 封锁与波罗的海通道笔记（SC卡）
+
+## 来源A：Davey 2009博士论文全文（downloads/R2_Davey2009.pdf，doc 9cdc057c893a）——本轮亲读页码以doc页计
+
+### A1 波罗的海对英国的双重价值（p13–17）
+- 【事实】柏林敕令1806/米兰敕令1807禁止一切对英贸易（p13）。
+- 【事实·转引Hall】"In 1805, 11,537 merchant ships passed through the Sound, over half going to Britain."（p17，注17=Hall, British Strategy, p.89）
+- 【事实·转引Boteler回忆】护航队一次超过400艘："at one time, with over 400 vessels, under charge of the Hero, ourselves, two frigates and a bomb, we never saw the head of the convoy from the time of leaving Wingoe Sound"（p17，注18=NRS 1942 Boteler回忆录p.10）——Wingo Sound=哥德堡外锚地。
+- 【事实·转引Mitchell&Deane】1797–1806英国对北欧出口官方价值恒为最大区域项（p16表1：1800=14,325千镑、1805=13,026千镑，对比美国7,886/7,147）。
+- 【事实·转引Oddy 1811】"the Exportation of Great Britain (till lately), of Colonial and British Produce & Manufactures to the North of Europe was more than double to all Europe put together"（p17–18，TNA FO 22/63/7-11）。
+- 【事实】"hemp and iron from Riga, pitch and tar from Stockholm, and oak and deals from Danzig and Pilau"；"Hemp in particular was vitally important, since there were virtually no other sources"（p15）。
+- 【事实·档案转引】1809-05-02 Hood致Saumarez：哥德堡总督请求放行Bror Almfelt五船（殖民货+瑞典准许出口货→挪威，回程焦油/木材/板材，抵哥德堡后编队护航赴英）（p15，TNA ADM 118/1297口径经OCR为"1181297"）——与上一轮t_d604cd E9同源。
+
+### A2 瑞典1810年名义参战与哥德堡枢纽（p18）
+- 【事实】"only Sweden in the Baltic region remained an ally of Britain and that country too would become an ally of Napoleon in November 1810"（p18）。
+- 【事实·档案】海军部1808-06-27给Saumarez训令："Their lordships consider the security of the trade from capture or annoyance as of the first importance"（p18，注20=Ryan编《Saumarez Papers》NRS vol.110, 1968, p.27）。
+- 【事实】"Despite the Continental Blockade Sweden remained open and Gothenburg became a vital centre for British exports, which continued their journey into the Baltic under the guise of neutral goods on neutral ships"（p18）。
+- 【判断·Davey】"Napoleon's attempt to control and prevent the British export trade through the Continental System was ultimately to fail: corrupt customs officials in the Baltic ports and the widespread use of 'neutral' (often disguised British) ships and papers created loopholes"（p18）。
+- 【事实·档案转引】1808-06-26 Paget报告北德海岸："they everywhere speak of the English in terms of praise, and peace is the universal cry"（p18，TNA ADM 1/6/352）。
+
+### A3 1810–12英瑞"假战争"与Hanö基地（p226–232）
+- 【事实·档案转引】1811-05-09 Foy致Smith：瑞典政府已令卡尔斯克鲁纳等地总督"grant every facility to the English that circumstances may allow"（p226，TNA FO 73/65；另FO 47/74）。
+- 【事实·档案】1811-05-23 Saumarez致海军部报告与哥德堡瑞军总司令Tawast在Victory号上的密谈：瑞典政府"not intended under any circumstances to commit any acts of hostility whatever; that the supplies of water and fresh provisions...should be facilitated both at Hano Bay and Gothenburg"；"the appearance of any hostile measures was only intended for Demonstration, and in order to elude the Vigilance of French Spies"（p226–227，TNA ADM 1/12/13-15）。
+- 【判断·Davey】"despite such inconveniences as declarations of war, the conflict between Sweden and Britain remained one of pretence."（p227）
+- 【事实】Carlshamn事件：英国账户的货船在卡尔斯港被瑞典政府扣押（Saumarez到任前），伦敦焦虑（p227注92，Ryan《Saumarez Papers》p.169）。
+- 【事实】Hanö岛补给基地：1810年6月Fenwick转Berridge建议设牛只仓库；当年落实。1810–11年大陆体系执行最严之时，Hanö湾已是返英护航队集结点；1810年最后一班护航队奉命10月15日启航（p227–228，SRO HA 93/6/1/1310）。
+- 【事实·回忆录】John Ross：商船在Hanö集结"about 500"艘才启航；"the tyrannical decrees of Buonaparte were thus rendered null and void on this part of the continent"（p228，Ross回忆录II p.196）。
+- 【事实·舰志】1810-07-07 St George号舰志"employed carpenters on shore Building a slaughterhouse"；07-18首次"sent the butchers on shore to slaughter bullocks"；1810-06-12至09-29 St George领牛肉36,081磅=738人编制12周定量（p228–229，TNA ADM 51/2345）。
+- 【事实】1811年5月瑞典当局下令禁止"strangers"接近Carlshamn周边，以对法隐瞒供应（p229）。【判断·Davey】"This was state-sanctioned supply, in direct contradiction of the terms of the Swedish-French alliance."（p229）
+- 【事实·档案】1811-05-15 Saumarez致海军部转瑞方口信：扣船"only a measure of Necessity and Demonstration...merely a demonstration to appear as having adopted the Continental System, but on no account to confiscate the Property"（p231，TNA ADM 1/12/7-8）。
+- 【事实·法方档案转引】Alquier投诉：Tawast在Victory上"promised him from five to six hundred oxen, of which fifty are already delivered [法文原注:六百头中已交一百五十]. Therefore the Sweden is feeding the enemies of France...The Swedish were also supplying the Island of Anholt"（p232，Coquelle 1909 p.226；英译文"fifty"与法文原文"cent cinquante"不一致——采法文150，标口径冲突）。
+- 【事实·私信】von Rosen没收10头牛并要求见报："so that I, poor sinner, may for once shine with continental fervour in the annals of Europe"，事先警告Saumarez"not to be cross"（p232，Von Rosen Letters Ep.E.10.11 f.120/123）。Saumarez亦象征性捕2艘瑞典沿岸船（1811年5月）。
+- 【推断·本卡】这组档案链证明：瑞典1810-11宣战后，对英供应是**国家授权的双面政策**（Bernadotte知情），法国大使知情但无执行手段。S3若要真封死北欧，需以军事占领瑞典南部海岸为前提，而非外交施压。

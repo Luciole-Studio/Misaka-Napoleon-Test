@@ -1,0 +1,16 @@
+
+
+## C. 法债/银行股证券元数据与不能取得的报价格
+
+8. DFIH `https://dfih.fr/issuers/100/securities` (`downloads/pages/e4e61b27e2fb.md`)，法国5%rente证68 `https://dfih.fr/securities/68` (`downloads/pages/e34ce1ee7054.md`)，现货1802-12-02–1817-09-01；证65 `https://dfih.fr/securities/65` (`downloads/pages/ce5fba5d0919.md`) 名为1851享息证券但列1798–1999，历史身份/折股未核，不用其全部长度当连续同券。巴黎银行股票证63 `https://dfih.fr/issuers/104/securities` (`downloads/pages/561bc56ff575.md`)报1801-10-26–1945-12-17，另1807 doubled shares权益有别。价格页 `downloads/pages/f5a0d0005f56.md`需认证，**未读实际报价、不能计算股票收益**；`https://dfih.fr/use` (`downloads/pages/0cd45211a68f.md`)说明开放元数据及账户功能。发行人100≠证券100，证券100 1821–24清算债不入本题。
+
+## D. 海险、人身保险及同源限制
+
+9. A. B. Leonard, “The Pricing Revolution in Marine Insurance,” https://www.histproj.org/completed/LEONARD_Marine%20insurance%20pricing%20revolution.pdf，`downloads/M1_Leonard_marine_insurance.pdf`, doc `7074ba31cdb3`, SHA256 `7074ba31cdb3f354b0615bed6f347959b0b6ca4e5c6ad802aed0d14b84ee8c75`，PDF p22：“The Napoleonic Wars brought, in 1809, one of the highest prices recorded (and seen on two occasions): 60% for the cost of insuring cargoes on this route.” 此处“route”在上句为London–Cadiz；**特定高尾两单**，非英国保险均价、未见合同原件。
+10. Manuel Llorca-Jaña, “The Marine Insurance Market for British Textile Exports to the Southern Cone,” in *The Development of International Insurance*, https://codexvirtual.com/hbancaria/wp-content/plugins/documentos/files/61_Manuel_Llorca-Jana_The_marine_insurance.pdf，`downloads/M1_LlorcaJana_marine_insurance.pdf`, doc `30ac696b05c2`, SHA256 `30ac696b05c2650adfc176c19a78a05f46b70d6468905cfd9a8045e8822b59ea`。印p.193注26／PDF p14转引 **1812-11-07 Lupton & Co.给McNeile & Co.信，WLP vol.9**：英国港至布宜诺斯艾利斯保险12.5–18.8%。印p.194注32／PDF p15转引Danson, *Our Next War* (1894) pp90–91：英国至布宜诺斯艾利斯1813最高9.6%，1816降至2.28%，航线类似但非同一合同。印p.30依赖航线、季节、包装、船舶、被保额。**以上非本卡亲阅档案或Danson**。Danson书Hathi元数据 `downloads/pages/8ed7ad29d98d.md`、https://catalog.hathitrust.org/Record/100475511 标Full view，实测Babel 403；目录不是书页。
+11. Wright & Fayle, *A History of Lloyd’s* (1928)，University of Illinois OCR `downloads/pages/00bd118bdd34.md`, https://brittlebooks.library.illinois.edu/brittlebooks_closed/Books2009-09/wrigch0001hisllo/wrigch0001hisllo_ocr.txt，图版说明“POLICY ON LIFE OF NAPOLEON, 1813”, issued 21 May，loss if “cease to exist or be taken Prisoner ... on or before ... 21st day of June, 1813”, premium three guineas per cent；图版未直接目验。同一保单转录见 *Ships and Shipping* ch.16 `downloads/pages/9058a83137c2.md`, https://kellscraft.com/ShipsandShipping/ShipsandShippingCh16.html，行72–101列William Dorrington及三个underwriter签订额£100/£150/£150。两出版物**同一底层合同不独立**；3 guineas = £3.15 per £100的毛保费不是王朝生存赔率，更非**海运**保费。
+12. 邻卡X2莱茵“走私保费”源 `nodes/r_5b1357a9c6/cards/t_6f3beb/X2_continental_system_machine.md`，与Lloyd海险不可混合；邻卡B2年均consol财政口径见 `nodes/r_5b1357a9c6/cards/t_044211/`，M1直接用BoE月末C列而非B2年均。前轮财政 `nodes/r_b55f2c1cf5/cards/t_95ef51/` 不是独立价格源。
+
+## E. 复算与剩余请求
+
+运行 `python3 nodes/r_5b1357a9c6/cards/t_0a8308/build_m1.py`（需要openpyxl），输出 `M1_series.csv`（336格，逐行源码定位）、`M1_event_windows.csv`（两市场×17事件×4粗窗=136）、`M1_placebos.csv`（34项）、`M1_sensitivity.csv`（306参数行）、`M1_conditional_probability_stress.csv`（918行）、`M1_policy_probability_sensitivity.csv`（12行）及log。全部衍生价格为理论100×息票/yield而非亲阅报价。月内来源不对齐、缺消息日未对齐的窗只描述性，不是识别事件效应。双状态假设及先验数值为人为压力测试、不是统计置信区间；全年安慰剂100窗含共同宏观冲击、非随机分配。

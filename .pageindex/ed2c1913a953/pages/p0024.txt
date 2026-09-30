@@ -1,0 +1,29 @@
+theory of tax smoothing. The theory of tax smoothing implies that
+an optimizing government will set tax rates over time so as to
+minimize deadweight losses (Barro, 1989). In a policy of tax
+smoothing, if future government expenditures are known with
+certainty, the current tax rate will be set to reflect those
+expenditures and will remain constant over time. In an uncertain
+world, taxes will follow a martingale as the government attempts to
+forecast expenditures rationally and set the current tax rate
+consistent with its forecast of the future so that only
+unpredictable events will produce changing tax rates. Thus, in the
+event of a war of unprecedented severity and duration, such as the
+Napoleonic Wars, tax rates will increase significantly during the
+war to reflect the new, higher present value of government
+expenditures. However, the wartime rise in taxes will not fully
+match the rise in expenditures since they would be expected to
+decline after the war (Kochin, Benjamin and Meader, (1985)).
+
+The theory of tax smoothing implies that average tax rates
+should follow a martingale process. In Table 5, we test for a
+martingale for Britain 1700-1815, using two measures of the average
+tax rate: the ratio of tax revenue to commodity output and the
+ratio of tax revenue to national income. In both cases, the
+Dickey-Fuller test (see Nelson and Plosser 1982) for the
+coefficient on the lagged average tax rate shows that the null
+hypothesis that the coefficient is equal to one cannot be rejected
+
+at the 1 per cent level. This evidence supports the hypothesis
+
+22

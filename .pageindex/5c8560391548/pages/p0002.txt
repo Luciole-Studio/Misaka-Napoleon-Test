@@ -1,0 +1,30 @@
+
+
+---
+
+## B. 英方在爱尔兰的镇压能力
+
+### B1｜兵力结构（逐年，口径分列）
+- 【事实·同期文书转引】1797年末Carhampton备忘录：爱尔兰军"rank and file effective"骑兵4,304、步兵10,688、民兵18,190，**合计33,182**；义勇军(yeomanry)"about 30,000 rank and file, 18,000 of which are cavalry"；全境73个步兵营，编制各异。来源：Virtual Treasury VRTI-CSP-1-2-1797。
+- 【事实·研究者】1793年开战时爱尔兰常备(Irish establishment)仅11,094正规兵（低于1769年定额15,000），随后因佛兰德斯/西印度用兵**降到不足4,000**；1794年1月Westmorland报民兵"about 10,000 strong … could not well be relied on against a disciplined enemy without the intermixture and aid of a body of regulars"。来源：Wildman（doi 10.26021/5125）。
+- 【事实·研究者】驻爱军中正规兵占比：1793年68%、1794年47%、1795年33%、1796–98年5–6%、1799年4.5%、1800年6%、1801–02年20%。来源：Irish Historical Studies 论文注82（Cambridge Core 摘要页所载注释），据 Ferguson 论文 p.149、Kilmainham papers、Rebellion papers 620/50/56。→ **1796–98爱尔兰的"英军"实质是民兵＋fencibles＋义勇军**。
+- 【事实·百科综合】1798年起义前夕全部武装力量 **逾42,000**，夏季自英国增援后 **近70,000**；民兵1798年约30,000；义勇军初募20,000，1798年5月增至50,000。来源：encyclopedia.com "Military Forces from 1690 to 1800"。
+- 【事实·史家】1802年《爱尔兰民兵法》定编 **15,000**（同期英格兰与威尔士51,489、苏格兰8,000）；募兵经费£40,000（足募19–20,000）；1803年4月法（43 Geo.3 c.33）把赏金加倍到4几尼，因应募不足。来源：Militia (Ireland) Act 1802 条目。1793年最初配额21,660；1809年法改为30,000、战时另加15,000。
+- 【事实·史家】义勇军因1803年续战由 **63,000增至约80,000**；Emmet起义正值扩编，使新教徒得以强化其对义勇军的垄断；Hardwicke曾考虑设纯天主教连队，被Louth议员Fortescue以弹劾相胁阻止，Wickham称天主教连队"unsafe"。来源：Blackstock, "A Forgotten Army: The Irish Yeomanry", History Ireland。
+- 【事实·史家】义勇军最终"exceeding 80,000"，是法定上限25,000的民兵的四倍余；民兵被降为驻防角色；结果是"the Irish establishment became a Protestant army of occupation"。来源：Wildman（同上）。
+- 【事实·法条】1811年51 Geo.III c.118：英爱民兵合并为"one Militia of the United Kingdom"，任一时点在爱尔兰的英国民兵不得超过其半数、在英格兰的爱尔兰民兵不得超过三分之一（叛乱或入侵除外）；自愿跨海服役赏金2几尼。来源：Fortescue, *The County Lieutenancies and the Army 1803–1814*(1909)，本地 `downloads/B4_Fortescue_CountyLieutenancies1909.txt` 行13178–13230。
+
+### B2｜爱尔兰对英军的人力贡献（"软肋"的反面）
+- 【事实·量化研究】1808–15年，204个骑步兵团14万余名士兵样本中，**爱尔兰出生者占32%**（英格兰53%、苏格兰14%）；1807–15年士官中30%为爱尔兰人；半岛与滑铁卢诸团军官中33%为爱尔兰出生（1813年团检阅回报估35%）。英军兵力1793年38,945 → 1813年220,469（另一处作230,469）。来源：British Journal for Military History 研究札记（journals.gold.ac.uk）；JMHDS 论文。
+- 【事实·综述】1793–1815年至少150,000名爱尔兰人入英军；当时爱尔兰人口约占联合王国三分之一。来源：BJMH 综述文。
+
+---
+
+## C. 联合王国内的爱尔兰：制度与财政
+
+- 【事实·同期议会辩论】1801年1月5日英国债£450,505,000（年息£17,720,000），爱尔兰债£28,550,000（年息£1,244,500）；至1817年1月5日英国债£734,522,100（息£28,238,400），爱尔兰债£112,704,800（息£4,104,500）——十六年间英国债务负担增60%，**爱尔兰增230%**。联合条款第七条规定两国国库在两债清偿或税负比达2:15前不合并；Castlereagh定爱尔兰承担帝国开支 **2/17**。促成联合的贿赂支出£3,000,000亦记在爱尔兰账上。来源：Hansard, Commons, 1849-07-13, "Fiscal Relations between Great Britain and Ireland", cc334–341。
+- 【事实·同期辩论】1807年爱尔兰岁入£4,378,241；1807–15年新税预期增收£3,370,000，而1821年岁入反比1807年少£533,000。（同上）→ **爱尔兰税基上限≈£5.5m量级**。
+- 【事实·史家】1817年合并时，爱尔兰单独负担£6.5m＋应摊£4.7m＝£11.2m，而当年岁入仅£5.56m，缺口£5.64m；合并后实际分摊比由7:1降至15:1。爱尔兰免征所得税、地税、住房税及多项消费税。来源：*History of the Commercial and Financial Relations between England and Ireland*（CELT E900040 text018）。
+- 【事实·史家】1829年《议会选举（爱尔兰）法》把郡选民资格由40先令自由持有提高到£10，郡选民 **由约216,000降至约37,000**（另一口径215,000→40,000）；1832年回升到约60,000。来源：Parliamentary Elections (Ireland) Act 1829 条目；*The Irish Reform Act of 1868*（doi 10.1111/1750-0206.12267）。
+- 【事实·史家】1815年登记的约208,400名郡自由持有人中，**约184,000人（88%）是40先令一级**。来源：History of Parliament Online, 1820–1832, Survey IV: Ireland。
+- 【事实·史家】天主教协会1823年5月成立；1824年2月4日O'Connell提议教区月捐"Catholic Rent"（每人每月不少于1便士、不多于2先令），2月14日报告，3月3日决议散发；委员会算：六百万天主教徒中若一百万人每周捐一法寻即足。1828年7月5日Clare补选 **O'Connell 2,057 : Vesey Fitzgerald 982**。来源：Virtual Treasury VRTI-CATH-1-1824-03-10；encyclopedia.com "Origin of the Catholic Rent"；Clare Libraries；1828 County Clare by-election。

@@ -1,0 +1,34 @@
+---
+source_url: "https://doi.org/10.3917/napo.092.0157"
+final_url: "https://doi.org/10.3917/napo.092.0157"
+provider: "exa"
+text_sha256: "fd81b34f427dd8b3d33bf193f42fea59618c9b0cbf9017d2fffe0f9d9583062b"
+title: "A Turner thesis for Europe? the frontier in Napoleonic Europe"
+content_kind: "page_text"
+---
+
+# A Turner thesis for Europe? the frontier in Napoleonic Europe
+
+Napoleonica La Revue. Published: 2009-01-01. 2 citations.
+
+## Authors
+
+- Michael Broers: h-index 11; 388 citations; corresponding author
+
+## Topics
+
+- Migration, Health, Geopolitics, Historical Geography
+- Historical Studies and Socio-cultural Analysis
+- Canadian Identity and History
+
+---
+
+# A Turner thesis for Europe? the frontier in Napoleonic Europe
+
+## Abstract
+
+This paper is a discussion of the frontiers of the Napoleonic empire. It maintains that these frontiers were more complex and more marked than the international boundaries which the French advance swept aside and that contemporary French imperial administrators saw them as such. It proposes that there was an 'outer' and an 'inner' empire, spheres defined less by the amount of time the French ruled them, than the degree to which they were pacified and, most importantly, than the degree to which their elites accepted French public institutions and acculturated to their public mores. This contention is then compared to the 'frontier theses' as expressed in essays on the American frontier by the historian Frederick Jackson Turner, namely, 'Contributions of the West to American Democracy', first published in 1903, and 'The Significance of the Frontier in American History', which appeared in 1893 (the year the American government declared the frontier officially closed), in which Turner stressed most directly, the ability of events on the frontier to mould and drive the political culture of the heartland.
+
+## A TURNER THESIS FOR EUROPE? THE FRONTIER IN NAPOLEONIC EUROPE By Michael BROERS *
+
+In May, 1808, Napoleon arrived at the Chateau de Serrant, in the heart of the Vendée-Militaire, the seat of the Vaubrun, a family of the sword nobility of formerly unimpeachable royalist, counterrevolutionary credentials. The visit was a tangible manifestation of the doctrine of ralliement, so important in the western departments even after the nominal pacification of the early years of the Consulate. 1 To honour the visit, on their part, the Vaubrun refurbished a suite of rooms in the imperial style of the times, to accommodate the Emperor, and they remain the glory of this otherwise modest chateau to this day. They are preserved in mint condition because Napoleon never stayed in them, for no sooner had he arrived than news reached him -in the drawing room of the Vaubrun -of the rising of the Dos Mayo against his brother Joseph, in Madrid. Accordingly, he hurried south to defend his new frontier. When the dust had barely settled on his first, deceptively successful Spanish campaign, Napoleon received news in Valladolid, of the passive -but still irksome -legal resistance of the feudal nobility of the Grand Duchy of Berg to his administrators' attempts to abolish seigniorial obligations.

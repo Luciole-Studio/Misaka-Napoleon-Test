@@ -1,0 +1,222 @@
+
+
+110  0 0 0 
+220  0 0 0 
+330  0 0 0 
+440  0 0 0 
+550  0 0 0 
+660  0 0 0 
+770  0 0 0 
+880  0 0 0 
+990  0 0 0 
+1100  0 0 0 
+2200  0 0 0 
+.3.300  0 0 0 
+4400  0 0 0 
+5500  0 0 0 
+6600  0 0 0 
+7700  0 0 0 
+8800  0 0 0 
+9900  0 0 0 
+11000  0 0 0 
+
+
+BOMBAY, 
+
+
+•i^n 
+
+
+WEIGHTS. 
+
+The  English  vreights  being  in  common  use  here,  and  at  all  the  other  Presidencies,  the  following  account 
+of  their  relative  proportions  may  be  found  useful. 
+
+The  two  principal  weights  established  in  Great  Britain  are  the  avoirdupois  and  troy  weight;  the 
+last  is  again  divided  into  diamond  and  money  weights;  the  grain  is  understood  to  be  a grain  of  wheat, 
+gathered  in  the  middle  of  the  ear: 
+
+
+AVOIRDUPOIS  WEIGHT. 
+
+
+3 Scruples 
+
+1 Dram. 
+
+16  Drams 
+
+1 Ounce. 
+
+16  Ounces 
+
+^make  • 
+
+1 Pound. 
+
+28  Founds 
+
+1 Quarter. 
+
+4 Quarters 
+
+1 Cwt. 
+
+20  Cwt. 
+
+. 1 Ton. 
+
+Comparison  between  troy  and  avoirdujiois. 
+
+
+176  Troy  lbs. 
+175  Troy  ounces 
+1 Troy  lb. 
+
+1 Avoir,  lb 
+1 Avoir.  oE. 
+
+1 Troy  on. 
+
+
+>make 
+
+
+'144.  Avoir.  lbs. 
+
+192  Avoir,  ounces. 
+5760  Grains. 
+
+7000  Grains. 
+
+437{  Grains. 
+
+.480  Grains. 
+
+
+the  avoir,  oz.  is  near  ^ less  than  the  troy  ounce. 
+
+
+TROY  WEIGHTS. 
+
+
+24  Grains  ^ I Penny  wt 
+
+20  Penny  wts.  ^make  -j  1 Ounces 
+
+12  Ounces.  ^ ^1  Pound. 
+
+
+Tlie  moneyers  have  a peculiar  subdivision  of  tlif 
+grain  troy  thus : 
+
+
+24  Blanks 
+20  Prnots 
+24  Droits. 
+20  Mites. 
+
+
+>make  < 
+
+
+1 ' Periot. 
+1 Droit. 
+1 Mite. 
+
+1 Grain. 
+
+
+DIAMOND  WEIGHTS 
+
+Are  carats,  each  carat  being  divided  into  4 grains 
+or  64  parts.  The  ounce  troy  contains  150  such 
+carats;  therefore  this  carat  is  3|  grains  troy;  hence 
+5 diamond  grains  are  equal  to  4 gold  grains. 
+
+
+ji  Table  shewing  the  Avoirdupois  Pounds  conjoined  in  any  given  Number  of  Troy  Pounds^  and  vice  versa 
+
+
+Avoirdupois  lbs. 
+ind  deciniuU  of  a lb. 
+
+.0,822867142 
+
+1,645714286’ 
+
+..2,468571428 
+
+1,291428571 
+
+.4,114285714 
+
+
+>,760000000 
+
+.6,582857141 
+
+.7,405714280 
+
+
+Avoirdupois 
+lbs. 
+
+
+Troy  lbs.  and 
+decimals  of  a lb. 
+
+.1,216277777 
+.2,430556555 
+.,,^,645833333 
+.4,861111111 
+
+5. ^6,076388888 
+
+6,, ,^7,291666666 
+
+R, .506944444 
+
+8  ,,,9,722222222 
+
+9  10,937500000 
+
+
+EXPLANATION. 
+
+For  tens  of  pounds  remove  the  decimal  point  one  place  fonvard,  for  hundreds  of  lbs.  two  places,  for 
+thousands  three  places,  an^  so  on,  as  in  the  following  examples; 
+
+
+In  175  troy  lbs.  how  many  avoirdupois  lbs? 
+
+KM  lbs.  troy  is  <«.^^v^%^voirdupois  lbs.  82,2857 
+
+67,6000 
+
+176  tpoy  lbs.  be-u-%j^%^avoirdupois  lbs.  144,0000 
+
+
+In  1441bs.  avoirdupois  how  many  troy  Ibs..^ 
+
+100  avoirdupois  Ibs.-^ww^e^troy  lbs.  121,528 
+
+. ditto  48,611 
+. ditto  4,861 
+
+
+144  avoirdupois  lbs.  ise^>%vk*^tr<)y  lbs.  175,000 
+
+
+Aa 
+
+
+178 
+
+
+BOMBAY. 
+
+
+The  Bombay  great  wights  are  pice,  seers,  maunds,  and  candies,  thus  divided : 
+
+lb.  02.  dri.  dec. 

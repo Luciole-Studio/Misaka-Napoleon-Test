@@ -1,0 +1,61 @@
+## Sheet: B3_capacity.csv (continued)
+section,scenario,year,metric,value_low,value_high,unit,source,locator,note
+observation,S0,1822,voted_total,21000,21000,persons,JB,year1822:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1822,actually_borne,23806,23806,persons,JB,year1822:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1822,naval_supplies_granted_Benyon,6480325,6480325,nominal_GBP,JB,year1822:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1823,voted_seamen_boys,16000,16000,persons,JB,year1823:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1823,voted_marines,8700,8700,persons,JB,year1823:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1823,voted_total,24700,24700,persons,JB,year1823:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1823,actually_borne,26314,26314,persons,JB,year1823:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1823,naval_supplies_granted_Benyon,5442540,5442540,nominal_GBP,JB,year1823:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1824,voted_seamen_boys,20000,20000,persons,JB,year1824:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1824,voted_marines,9000,9000,persons,JB,year1824:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1824,voted_total,29000,29000,persons,JB,year1824:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1824,actually_borne,30502,30502,persons,JB,year1824:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1824,naval_supplies_granted_Benyon,5762893,5762893,nominal_GBP,JB,year1824:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1825,voted_seamen_boys,20000,20000,persons,JB,year1825:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1825,voted_marines,9000,9000,persons,JB,year1825:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1825,voted_total,29000,29000,persons,JB,year1825:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1825,actually_borne,31456,31456,persons,JB,year1825:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1825,naval_supplies_granted_Benyon,5983126,5983126,nominal_GBP,JB,year1825:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1826,voted_seamen_boys,21000,21000,persons,JB,year1826:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1826,voted_marines,9000,9000,persons,JB,year1826:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1826,voted_total,30000,30000,persons,JB,year1826:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1826,actually_borne,32519,32519,persons,JB,year1826:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+source_corrupt,S0,1826,naval_supplies_granted_Benyon,,,nominal_GBP,JB,year1826:post1820_table,"1826 supplies raw string=6,7.35,004; not silently repaired"
+observation,S0,1827,voted_seamen_boys,21000,21000,persons,JB,year1827:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1827,voted_marines,9000,9000,persons,JB,year1827:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1827,voted_total,30000,30000,persons,JB,year1827:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1827,actually_borne,33106,33106,persons,JB,year1827:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1827,naval_supplies_granted_Benyon,6125850,6125850,nominal_GBP,JB,year1827:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1828,voted_seamen_boys,21000,21000,persons,JB,year1828:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1828,voted_marines,9000,9000,persons,JB,year1828:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1828,voted_total,30000,30000,persons,JB,year1828:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1828,actually_borne,31818,31818,persons,JB,year1828:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1828,naval_supplies_granted_Benyon,6395965,6395965,nominal_GBP,JB,year1828:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1829,voted_seamen_boys,21000,21000,persons,JB,year1829:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1829,voted_marines,9000,9000,persons,JB,year1829:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1829,voted_total,30000,30000,persons,JB,year1829:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1829,actually_borne,32458,32458,persons,JB,year1829:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1829,naval_supplies_granted_Benyon,5878794,5878794,nominal_GBP,JB,year1829:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1830,voted_seamen_boys,20000,20000,persons,JB,year1830:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1830,voted_marines,9000,9000,persons,JB,year1830:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1830,voted_total,29000,29000,persons,JB,year1830:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1830,actually_borne,31160,31160,persons,JB,year1830:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1830,naval_supplies_granted_Benyon,5594955,5594955,nominal_GBP,JB,year1830:post1820_table,Modern Benyon compilation; upstream official tables not fully established; not all attributable to James; no independent muster check
+observation,S0,1817,Hansard_voted_total,19000,19000,persons,HPOST,1817-02-17 vol35 cc408-409; six lunar months only,Includes marines; not borne
+observation,S0,1817,Hansard_voted_marines,6000,6000,persons,HPOST,1817-02-17 vol35 cc408-409; six lunar months only,Included in total not additional
+observation,S0,1820,Hansard_voted_total,23000,23000,persons,HPOST,1820-05-17 vol1 cc459-460;13 lunar months,Includes marines; not borne
+observation,S0,1820,Hansard_voted_marines,8000,8000,persons,HPOST,1820-05-17 vol1 cc459-460;13 lunar months,Included in total not additional
+observation,S0,1826,Hansard_voted_total,30000,30000,persons,HPOST,1826-02-21 vol14 cc678-689,Includes marines; not borne
+observation,S0,1826,Hansard_voted_marines,9000,9000,persons,HPOST,1826-02-21 vol14 cc678-689,Included in total not additional
+observation,S0,1830,Hansard_voted_total,29000,29000,persons,HPOST,1830-03-01 vol22 cc1121-1143; planned annual average,Includes marines; not borne
+observation,S0,1830,Hansard_voted_marines,9000,9000,persons,HPOST,1830-03-01 vol22 cc1121-1143; planned annual average,Included in total not additional
+observation,S0,1817,Hume_gross_navy_estimate,5985415,5985415,nominal_GBP,H21,No28;1821-06-27,Quoted Annual Estimates; not including old-store deductions
+observation,S0,1817,Hume_reported_actual_navy_expenditure,6473062,6473062,nominal_GBP,H21,No28;1821-06-27,Quoted Annual Finance Accounts; timing not harmonized;1820 No5 differs by400
+observation,S0,1818,Hume_gross_navy_estimate,6547810,6547810,nominal_GBP,H21,No28;1821-06-27,Quoted Annual Estimates; not including old-store deductions
+observation,S0,1818,Hume_reported_actual_navy_expenditure,6521714,6521714,nominal_GBP,H21,No28;1821-06-27,Quoted Annual Finance Accounts; timing not harmonized;1820 No5 differs by400
+observation,S0,1819,Hume_gross_navy_estimate,6527781,6527781,nominal_GBP,H21,No28;1821-06-27,Quoted Annual Estimates; not including old-store deductions
+observation,S0,1819,Hume_reported_actual_navy_expenditure,6393552,6393552,nominal_GBP,H21,No28;1821-06-27,Quoted Annual Finance Accounts; timing not harmonized;1820 No5 differs by400
+observation,S0,1820,Hume_gross_navy_estimate,6691345,6691345,nominal_GBP,H21,No28;1821-06-27,Quoted Annual Estimates; not including old-store deductions
+observation,S0,1820,Hume_reported_actual_navy_expenditure,6387799,6387799,nominal_GBP,H21,No28;1821-06-27,Quoted Annual Finance Accounts; timing not harmonized;1820 No5 differs by400

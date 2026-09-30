@@ -1,0 +1,20 @@
+
+
+## 四、按权重知识标注、待核一手的条目
+
+37. **[W]** 马提尼克1809年2月被英军占领的确切日期与投降条款。
+38. **[W]** 1816年 Fontanges/Esmangart 使团。
+39. **[W]** 1809年古巴驱逐圣多明各法裔难民（约三万人）转往新奥尔良的规模与法令。
+40. **[W]** 海地1860年与罗马签订政教协约（本卡仅用以说明1804–1860长期无正式教阶）。
+
+## 五、上一轮资产复用（注路径）
+
+- `nodes/r_b55f2c1cf5/cards/t_c2dbca/americas_haiti.md`：1802-05-20法律四条转录；Decrès 1802-06-14密令（FME转录）；1801-11-08 Leclerc 公告「vous êtes tous libres et égaux」；1802-07-16/17 瓜德罗普两令；1815-03-29法令五条。**本卡复用其已核事实并注明中介层级；不继承其"未识别"式结论。**
+- `downloads/pages/50084310930d.md`、`downloads/pages/bd468bca9f3d.md`、`downloads/pages/a1727377ccf1.md`（上一轮缓存）。
+- 协调台账 `nodes/r_5b1357a9c6/coordination_ledger.md` 中 B6 t_0fed70 的1833年废奴法第LXIV条排除条款与殖民财政数字，本卡在⑭第25条引用并注来源卡。
+
+## 六、工具限制（诚实记录）
+
+- **annas-archive 不可用**：脚本位于 live skill tree（`/Users/makiko/.misaka/skills/annas-archive/scripts/annas.py`），本会话 bash 对"命名 skill 路径的命令"一律拒绝；PATH 上无 `anna` 包装器。因此 Dubois、Geggus 文集、Girard 专著、Blackburn、Drescher、Ferrer、Régent、Popkin **均未取得电子本**。这不等于文献不存在，也不等于本卡结论无据——本卡改以档案基础深厚的期刊论文（13、14、15、20）、一手法令（1–12）与数据库（16）承重。
+- **Persée `docAsPDF` 返回403**，文章页仅呈现首页；故2003年海地专号（条目24）只得题录与检索快照。
+- **ijnh.seahistory.org 的 PDF 返回403**，改以同一文章的 HTML 全文抓取（条目13）。

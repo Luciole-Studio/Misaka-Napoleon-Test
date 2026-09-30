@@ -1,0 +1,39 @@
+
+
+**口径裁定**：Heckscher与Marion几乎同数、方向一致，**但极可能同源于法国官方海关账，不构成独立互证**；AHAD一列高出一个台阶，未给原表，**本卡列为"毛口径上界"不入计算**。
+
+另有一次性大额：
+- 特里亚农起至1811年底海关收入 **105.9百万法郎**（Heckscher 印p.221）；Marion记1810-08→1812-01非常关税累计 **105.927667百万**（F4卡）——**几乎同数但区间端点不同**，引用须标区间。
+- 1810年剩余月份**没收品拍卖现金≈150百万法郎**（Thiers，转引自Heckscher 印p.222）。
+- 荷尔斯泰因存货按特里亚农税率放入汉堡：**实物缴税19.7百万，合计42.5百万**（Heckscher 印p.226）。
+- 法兰克福1810年10月一役对法国国库产出 **9百万法郎**（Darmstädter，转引自Heckscher 印p.226）。
+- 1808年3月意大利王国把查获英货变卖后**向巴黎解送150万法郎**（Grab 2015 印p.102）。
+
+### 4.2 支出侧（【推演·MODEL】）
+
+- préposé 年薪 **500法郎**（Rowe 印p.191）；利沃诺海关人员**月薪40法郎**（Marzagalli p.70）——两数不矛盾（480 vs 500），互为旁证。
+- MODEL：35,000人×500法郎 ＝ **17.5百万法郎/年**（纯最低级工资）；计入军官、总监、办公、船艇、武器、诉讼与监狱的间接费乘数1.6／2.2，得 **28.0／38.5百万法郎/年**。
+- **关键比值**：1809年编制27,200人，纯工资 13.6百万 ÷ 当年关税净收 11.6百万 ＝ **117%**。若用1812年编制与同年AHAD毛收入109.5百万比，则降至16%——**这正是"严格版"与"许可证版"的财政分水岭**。
+- 限定：海关自1806-03-16起兼征盐税，故不可把全部人事费记在关税账上；但（a）盐税是内地税、其征收不需要30,750人的边境旅，（b）比值的方向与量级不因此逆转。
+
+### 4.3 货币与金融面（【锚点】）
+
+- 拿破仑1810-05-29致Gaudin：**"My intention is to favour the export of foodstuffs from France and the import of money from abroad ... I should be very much inclined to let the smugglers in only at Dunkirk"**（Heckscher 印pp.192–193）。→ 走私者被编入**贵金属回流政策**，敦刻尔克因此"exempt from the general crippling of economic life in the ports"。
+- 1811-01 科隆警务报告指控当地海关与 **Oppenheim、Schoeffen、Cassel** 三家金融号合谋从事**货币投机**（Rowe 印p.191）。
+- 普鲁士允许以**市价59.5%的政府债券按面值**缴纳特里亚农税，再用普鲁士完税证明放货过境；1811年春夏该证明被宣布无效并二次查抄（Heckscher 印p.227）。→ **执行机器同时成了藩属国债券的做市商**。
+- 皇帝把贿赂收归己有：柯尼斯堡领事 Clérembault 放行14艘英船（货值280万法郎），一案得80万、合计150–160万法郎；皇帝令其上缴外交部，并拟令 Bourrienne 缴200万、Lachevardière 缴50万给偿债基金；Clérembault 已先自付50万入皇帝私库(caisse de l'extraordinaire)。1811-01-01致Champagny信结语：**"You will see that I shall get the money for a really handsome palace which will cost me nothing."**（Heckscher 印pp.203–204）
+
+【推演·中高】**S3严格版的财政结构是自毁的**：取消许可证与特里亚农，则非常关税→0–15百万/年、总关税由1810年的≈97百万落到 **15–35百万/年**（F4卡补订②），而执行成本**不降反升**（越严格越需人力）。以本卡MODEL的28–38.5百万执行成本计，**S3严格版下海关系统在国库净账上为负**。这一点在1809年已经实测过一次。
+
+---
+
+## §5（④）它管制的贸易：结构、转口港与价格
+
+### 5.1 四大转口港（【锚点】）
+
+| 港 | 关键数字 | 来源 |
+|---|---|---|
+| **黑尔戈兰** | 1808年英国花 **£500,000** 在这个约150英亩的小岛上修港、筑垒、建仓；约 **200名**英商与商号代表迁入并组成专门商会，人称"Little London"；1808年8–11月三个半月内**近120艘船**卸货；英商自估年进口 **£8,000,000**≈1808年英国出口总额(£50,000,000)的近六分之一——**Heckscher明说"almost certainly too high"** | Heckscher Part III ch.II（econlib全文对照；本地PDF印pp.178–179）|
+| **哥德堡** | 1810-09 总督 von Rosen 记锚地 **19艘英国军舰＋1,124艘商船**，"such an appearance as it had never had since the Creation"；某日东风转向"several hundred vessels sailed away at the same time"。进口1807→1809翻两番，1810再增至五倍。**1810年原糖出口14,500,000磅（约为上年两倍）、咖啡4,500,000磅**（1808年为2,900,000磅与1,300,000磅）。11月给 von Rosen 的训令：对挂美旗等可接受旗的瑞典臣民货船，"His Majesty does not require you to recur to extremities of diligence, but on the contrary to **suppress facts and facilitate traffic**" | Heckscher 印p.236；1808数据见Part III ch.II |
+| **马耳他** | 英国对马耳他出口年均 **£95,000(1801–05) → £3,000,000(1808) → £5,000,000(1812)**；在马英商 **5(1802)→20(1807)→60(1812)**；**1812年运往欧洲的英货有25%经马耳他**；Crouzet另记"at one point, 8.8% of exports from Britain were taken into Europe via Malta" | Grab 2015 印p.103；Crouzet 1987 转引自 Juhász (AER 2018) |
+| **直布罗陀** | 1706年即为自由港，不受《航海条例》约束；1809年靠港船 **1,014艘＝1806年的三倍**，其中为本地市场载货者增至348艘；另有868艘以上西葡小船的周度记录（实际逾千）；1813年降至771艘 | Benady, um.edu.mt PDF（Gibraltar Chronicle 逐年统计）|

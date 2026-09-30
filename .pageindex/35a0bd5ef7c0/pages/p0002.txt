@@ -1,0 +1,10 @@
+
+
+## B. Morán & Yarango,《El costo de la contrarrevolución. La Caja Matriz de Lima y los gastos de la guerra en tiempos del Virrey Abascal (1806–1816)》，*Revolución(es)* 3(5), 2021, DOI 10.35622/j.rr.2021.05.008
+本地 PDF：`downloads/SA_Moran_Yarango_CajaLima_Abascal.pdf`（doc 64056f5d4305，14 页）。档案基础：AGN Perú, Sección Real Hacienda (H3), Libros mayores y manuales 1806–1816。
+（逐页核读见下一条笔记；此处先记搜索页所见的表 1 数列，待 doc_read 核对。）
+
+## C. 待核/缺口
+- Abascal《Memoria de Gobierno》(Sevilla 1944, 2 vols) 原书未获，凡引其页码者均为经 Hamnett／Contreras 转引。
+- Díaz Venteo《Las campañas militares del virrey Abascal》(1948) 未获——这是秘鲁保王军逐役兵力的权威来源，缺它则我方"上秘鲁军"编制数只能用二手区间。
+- TePaske–Klein 数据库与 AGN 账簿在 1811/1812 两年存在冲突（Morán–Yarango 指出），本卡凡用逐年战费须并列两版。

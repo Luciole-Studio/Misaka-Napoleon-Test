@@ -1,0 +1,50 @@
+
+
+contents itself with estimating mean effects, but as Larch, Shikher, and Yotov (2025) stress, 
+heterogeneity is frequently an important dimension of the data with elasticities not being 
+constant either across sectors or over time. The impact of a variable such as distance or 
+empire on trade depends on two elasticities: the elasticity of trade costs with respect to 
+the variable in question and the elasticity of trade with respect to trade costs (Disdier and 
+Head, 2008, p. 41). Both of these elasticities might be expected to vary across sectors and 
+time. 
+Take for example the argument of Magee and Thompson (2010) that empire mattered 
+for trade flows because of consumer preferences in colonies settled by British emigrants: if 
+this is true, then the elasticity of trade costs with respect to empire should be higher for 
+consumer products such as food and drink than for a commodity like iron ore. Turning to 
+the effects of distance, these should differ depending on the mode and cost of transportation 
+which might be different for fuels like coal than for light manufactured goods like cotton 
+textiles. As for the elasticity of trade flows with respect to trade costs, one might expect it 
+to be higher for homogenous goods than for differentiated products on both counts. 
+One would expect elasticities to vary not only across sectors but also over time, and 
+particularly so in our period, since it saw momentous and almost continuous change. 
+Shipping speeds rose from the 1780s, and the maritime shipping industry was transformed 
+in the 19th century with the application of new metallurgical and steam technologies. 
+Meanwhile, railway construction progressively linked ports to their hinterlands from the 
+1830s. As we will see in Section 2.1, late 18th century technological progress tended to 
+favour long-distance routes over shorter ones which should have reduced the elasticity of 
+trade costs with respect to distance. 
+Politically, the 18th century was the era of mercantilism, with constant warfare, a 
+web of regulations controlling trade between Britain and her colonies, and the East India 
+Company monopolizing British trade with China and India. This was succeeded by a 
+
+period of relative peace after 1815, the progressive dismantling of old trading monopolies, 
+and a transition around mid-century towards free trade and away from the mercantilist 
+restrictions of the previous century. Empire could still have boosted trade flows via 
+consumer preferences as in Magee and Thompson (2010) or via “trade-promoting capital 
+such as common institutions and business networks” (Head, Mayer and Ries, 2010, p. 9). 
+But it would not be surprising if such forces had a smaller impact on trade costs than the 
+mercantilist legislation of the 18th century. 
+With our new data in hand, we can for the very first time estimate the effects over the 
+very long run of these two important proxies for bilateral trade costs, that in turn have 
+been central to decades of applied work on the determinants of international trade. In sum, 
+we find that the impact of distance fell by roughly two-thirds between the 1780s and 1860s 
+but remained essentially flat in the late 19th century. Interestingly, the decline coincided 
+with the onset of coppering. Likewise, the impact of empire on British exports was very 
+large throughout, but 18th century mercantilism had a much bigger export-promoting 
+effect than did "liberal empire" in the late 19th century. Finally, we also establish that 
+there was significant heterogeneity across sectors in the impact of distance and empire on 
+British exports. 
+A brief account of some of the major technological and political changes affecting 
+international trade over the course of the 18th and 19th centuries is given in Section 2. 
+Section 3 introduces the new data underlying this paper. Section 4 discusses our empirical 
+specifications while Section 5 presents our results and Section 6 concludes. 

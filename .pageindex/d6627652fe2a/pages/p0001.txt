@@ -1,0 +1,43 @@
+---
+source_url: "http://www.altorres.synology.me/guerras/1808_independencia/documentos/1807_10_27_fontainebleau.htm"
+final_url: "http://www.altorres.synology.me/guerras/1808_independencia/documentos/1807_10_27_fontainebleau.htm"
+provider: "exa"
+text_sha256: "1d53b8415426441647b1d929f321edaa0c6bf4bc581c5218445b468426478d1f"
+title: "Tratado de Fontainebleau (27 de octubre de 1807)"
+content_kind: "page_text"
+---
+
+Tratado de Fontainebleau (27 de octubre de 1807)
+
+| HISTORIA MILITAR DE ESPA�A Campa�as |
+| --- |
+
+---
+
+GUERRA DE LA INDEPENDENCIA (1808 - 1814)
+
+---
+
+TRATADO DE FONTAINEBLEAU (27 de octubre de 1807)
+
+Tratado firmado el se�or Izquierdo, agente de Godoy en Francia, en representaci�n de Espa�a, por el que Francia y Espa�a se reparten el reino de Portugal. Fue el origen inmediato de la Guerra de la Independencia.
+
+1. La provincia de Entre-Duero-y-Mi�o con la ciudad de Oporto se dar� en toda propiedad y soberan�a a S.M. el Rey de Etruria con el t�tulo de Rey de la Lusitania Septentrional.
+
+2. La provincia de Alentejo y el Reino de los Algarbes se dar�n en toda propiedad y soberan�a al Pr�ncipe de la Paz para que las disfrute con el t�tulo de Pr�ncipe de los Algarbes.
+
+3. Las provincias de Beira, Tras-los-Montes y la Extremadura portuguesa quedar�n en dep�sito hasta la paz general, para disponer de ellas seg�n las circunstancias y conforme a lo que se convenga entre las dos altas partes contratantes.
+
+4. El Reino de la Lusitania Septentrional ser� pose�do por los descendientes de S.M. el Rey de Etruria, hereditariamente y siguiendo las leyes que est�n en uso en la familia reinante de S.M. el Rey de Espa�a.
+
+5. El principado de los Algarbes ser� pose�do por los descendientes del Pr�ncipe de la Paz hereditariamente y siguiendo las reglas del art�culo anterior.
+
+6. En defecto de descendientes o herederos leg�timos del Rey de la Lusitania Septentrional, o del Pr�ncipe de los Algarbes, estos paises se dar�n por investidura por S.M. el Rey de Espa�a, sin que jam�s puedan ser reunidos bajo una misma cabeza, o a la Corona de Espa�a.
+
+7. El Reino de la Lusitania Septentrional y el principado de los Algarbes reconocer�n por protector a S.M. el Rey de Espa�a y en ning�n caso los soberanos de estos pa�ses podr�n hacer ni la paz ni la guerra sin su consentimiento.
+
+8. En el caso de que las provincias de Beira, Tras-los-Montes y Extremadura portuguesa, tenidas en secuestro, fuesen devueltas a la paz general a la casa de Braganza, en cambio de Gibraltar, la Trinidad y otras colonias que los ingleses han conquistado sobre la Espa�a y sus aliados, el nuevo soberano de estas provincias tendr�a con respecto a S.M. el Rey de Espa�a los mismos v�nculos que el Rey de la Lusitania Septentrional y el Pr�ncipe de los Algarbes y ser�n pose�das por aquel bajo las mismas condiciones.
+
+9. S.M. el Rey de Etruria cede en toda propiedad y soberan�a el Reino de Etruria a S.M. el Emperador de los franceses.
+
+10. Cuando se efect�e la ocupaci�n definitiva de las provincias de Portugal, los diferentes Pr�ncipes que deben poseerlas nombrar�n de acuerdo comisarios para fijar sus l�mites naturales.

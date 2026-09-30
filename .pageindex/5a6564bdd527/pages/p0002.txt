@@ -1,0 +1,46 @@
+
+
+来源：https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1811/ ，保存 downloads/pages/6864746209f3.md，第542–548行，已阅读全文段。未对校通信原版编号。
+
+【模型推演】此案显示附属王朝本地化会触碰法国军事、人事控制边界。扩大一个意大利君主的领地，并不自动扩大其自主权；两者反可能冲突。
+
+## 三、罗马王符号与事后统一言论
+
+【事实｜回溯性、转引】Taine《Les Origines de la France contemporaine》，卷11，1904版，第20页，引用“Notes de Napoléon sur les Quatre Concordats de M. de Pradt”，标旧版《Correspondance》XXX，第548页，称拿破仑等待“第二个儿子”出生，拟带其赴罗马加冕为意大利王、由欧仁摄政：« Il attendait avec impatience la naissance de son second fils… sous la régence du prince Eugène. »
+
+实际读到版本：https://fr.wikisource.org/wiki/Page:Taine_-_Les_Origines_de_la_France_contemporaine,_t._11,_1904.djvu/43 ，保存 downloads/pages/cbcbbfdbb3b2.md。后续已关闭转引层级：直接下载Robarts藏旧版《Correspondance》卷XXX扫描本（Internet Archive馆目记1870），https://archive.org/details/correspondancede30napouoft ，保存downloads/c6_correspondance30.pdf，文档a6f170345306；已目视核对PDF第559页，即印本第549页，确作second fils及欧仁摄政。Taine引第548页为本段论证起页，目标句实际在次页，不能一律将目标句标为548。章节为《Six notes sur l’ouvrage intitulé Les Quatre Concordats》第IV节《Concile de 1811》，标题1811是讨论对象年份，不是写作日期。不能把此句直接归为Las Cases记录，也不能把second fils改写为罗马王。
+
+【解释｜回溯性偏差仍在】同页将吞并解释为如熔炉般消除地方认同、准备统一，宣称已无威尼斯人、皮埃蒙特人、托斯卡纳人而只有意大利人。这是为征服重构目的的自辩叙事，不是民意观察。次子一语虽反驳后世“罗马王统一意大利”的误读，却不反驳作者自身的统一者形象，故不能仅据此降低自辩风险。1805分冠、1806条件继承与此叙述相容，不足证明跨时期已经形成并执行同一方案：1806排除条件是有任何合法亲生男性后代，并非仅有次子；且摄政与继承是不同制度。
+
+【裁量｜高置信度】这段材料即使文字传承可靠，也至多支撑事后提出的另一子嗣—欧仁摄政构想；不能证明1811年出生的皇位继承人已有统一意大利任务。Taine同时使用民族性格本质主义解释，其“意大利净受益、法国净损失”判断不能直接充作财政或福利结论。
+
+### 实际并合与统一自辩的对勘
+
+【事实｜Thierry Lentz后出制度史文章，非逐件法令直核】已读Fondation Napoléon《Institutions. Les départements réunis et les gouverneurs généraux sous le Consulat et l’Empire》正文，https://www.napoleon.org/histoire-des-2-empires/articles/institutions-les-departements-reunis-et-les-gouverneurs-generaux-sous-le-consulat-et-lempire/ ，downloads/pages/748b696ca1ca.md：
+
+| 日期 | 法国直接行政的扩展 |
+|---|---|
+| 1802-09-11（PoD之前基线） | 皮埃蒙特并法、设六省 |
+| 1805-06-06 | 利古里亚并法，设Montenotte、Gênes、Apennins |
+| 1808-05-24 | 元老院决议并合埃特鲁里亚；帕尔马—皮亚琴察成为Taro省 |
+| 1810-02-17 | 原罗马国家组织为Rome/Tibre与Trasimène两省；此为组织节点，不抹去1809此前并合行动 |
+
+【来源批判】文章后文托斯卡纳总督区列Taro，与同篇前文Arno清单冲突；此处不采用其该项省份清单。完整逐件法令与全部边界仍未校齐。
+
+【文献推断】三层证据不能混成一条必然发展线：法令允许王朝分冠；并合行为扩大法国直接统治；流放文字把先前吞并重述为统一的熔炉。三者并存，最稳妥的解释是存在多种安排和控制方式，不能仅凭事后统一叙述取消实际分治的证据。
+
+## 四、三条意大利分支
+
+| 分支 | 同期锚点 | 成立条件与失败机制 | 相对判断 |
+|---|---|---|---|
+| 罗马王统一中南意大利 | 1810第7条仅证明称号；1805分冠条款构成约束，未找到正面的统一实施计划 | 须改写继承/分冠制度、处置南部王朝、处理法国直接并合地区；若包括西西里另须海权条件 | 【裁量】低；只能列假设分支，尚不满足正面计划证据门槛 |
+| 北意王国＋那不勒斯＋法国并合省并存 | 1805、1806继承及分冠文本；1811对那不勒斯命令 | 欧仁本人登基须解决亲生继承人优先权；各君主承担法国军务但要求地方自主，冲突可反复发生 | 【裁量】中高，为最小制度改写；不是认定现有王朝可稳定至1848 |
+| 法国并合/直接军事控制继续扩大 | 1811绕过缪拉的指挥命令为军事控制机制锚点，不等于全面并合命令 | 封锁、财政、人事争端触发进一步控制；行政成本与精英离心上升 | 【裁量】中；扩大控制有依据，吞并整个半岛无充分同期依据 |
+
+概率标签为条件性比较，不是频率估计。第二、第三分支可在不同地区并行。
+
+## 五、民族主义与藩属自主的意大利对照
+
+【事实｜同期宣言现代转录】缪拉《里米尼宣言》，1815-03-30：« sgombri dal suolo italico ogni dominio straniero! »；要求“un governo di vostra scelta”“una rappresentanza veramente nazionale”“una Costituzione”。宣言还赞英国为立宪政体典范。来源：https://it.wikisource.org/wiki/Proclama_di_Rimini ，downloads/pages/567748874d93.md，已读全文；该页无纸本对照。
+
+【解释】这是缪拉的公开动员，并非拿破仑统一计划。它说明王朝代理人可以转用民族、立宪与反外国统治话语；1811法国压制自主权的信件则提示胜利帝国未必容忍这种转向。宣言自报八万兵力没有独立核验，不用于军力计算。

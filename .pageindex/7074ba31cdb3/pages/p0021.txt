@@ -1,0 +1,14 @@
+Including early data points which are few in number but consistently higher than later prices
+serves to lengthen the price series and show the extent of the pricing decline in marine
+insurance over time. However, the steady decline in prices can be illustrated in data sets
+which begin later in time. Consider the revolution in pricing of marine insurance to Barbados
+from the mid-seventeenth century to the outset of the American Revolutionary War, shown in
+Figure 5.
+
+
+
+
+                                              21
+
+	
+  

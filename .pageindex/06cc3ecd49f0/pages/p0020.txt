@@ -1,0 +1,122 @@
+
+
+Issue: [July 1983, Volume 47 - Issue 187](https://belleten.gov.tr/eng/issue/171)
+
+Pages: 775-804
+
+DOI: 10.37879/belleten.1983.775
+
+Category: Research Article
+
+License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
+
+- [Previous Article](https://belleten.gov.tr/eng/full-text/1813/tur)
+- [Next Article](https://belleten.gov.tr/eng/full-text/1815/tur)
+- [Abstract (English)](https://belleten.gov.tr/eng/abstarct/1814/eng)
+- [Full Text](https://belleten.gov.tr/eng/full-text/1814/tur)
+- [PDF (English)](https://belleten.gov.tr/eng/full-text-pdf/1814/eng)
+- [Similar Articles](https://belleten.gov.tr/eng/similar-articles/1814)
+- Cite As
+
+- ARTICLE SECTIONS
+- Top
+- Makale İçeriği
+- Dipnotlar
+
+×
+
+### Cite As
+
+BibTex
+
+@article{
+belleten1814,
+doi = {10.37879/belleten.1983.775},
+author = {Azmi Süslü},
+title = {Projets de partage de l'Empire Ottoman 1807-1812},
+journal = {Belleten},
+year = {1983},
+volume = {47},
+number = {},
+pages = {775-804},
+publisher = {Türk Tarih Kurumu}
+}
+
+RIS
+
+TY - JOUR
+AU - Azmi Süslü PY - 1983 TI - Projets de partage de l'Empire Ottoman 1807-1812 SP - 775 EP - 804 JO - Belleten J2 - Belleten VL - 47 IS - PB -
+DO - 10.37879/belleten.1983.775 ER -
+
+EndNote
+
+%0 Journal Article
+%A Azmi Süslü %T Projets de partage de l'Empire Ottoman 1807-1812 %J Belleten %D 1983 %V 47 %N %P 775-804 %R 10.37879/belleten.1983.775
+
+APA
+
+Azmi Süslü (1983).
+Projets de partage de l'Empire Ottoman 1807-1812.
+Belleten, 47(),
+775-804.
+doi:10.37879/belleten.1983.775
+
+MLA
+
+Azmi Süslü.
+"Projets de partage de l'Empire Ottoman 1807-1812"
+Belleten,
+vol. 47,
+no. ,
+1983,
+pp. 775-804.
+doi:10.37879/belleten.1983.775.
+
+Chicago
+
+Azmi Süslü.
+"Projets de partage de l'Empire Ottoman 1807-1812"
+Belleten
+47,
+no. (1983):
+775-804.
+https://doi.org/10.37879/belleten.1983.775.
+
+AMA
+
+Azmi Süslü.
+Projets de partage de l'Empire Ottoman 1807-1812.
+Belleten.
+1983;
+47():
+775-804.
+doi:10.37879/belleten.1983.775.
+
+Vancouver
+
+Azmi Süslü.
+Projets de partage de l'Empire Ottoman 1807-1812.
+Belleten.
+1983;
+47():
+775-804.
+doi:10.37879/belleten.1983.775
+
+ISNAD
+
+Azmi Süslü.
+"Projets de partage de l'Empire Ottoman 1807-1812".
+Belleten 47/ (1983):
+775-804.
+https://doi.org/10.37879/belleten.1983.775.
+
+Close
+
+[Türk Tarih Kurumu](https://www.ttk.gov.tr). 2026
+
+Other Journals: [Belgeler](https://belgeler.gov.tr) ·
+[Höyük](https://hoyuk.gov.tr)
+
+Studies in this journal are licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.en).
+
+[Yazılım Parkı - Scientific Journal Publishing and Management System](https://yazilimparki.com)

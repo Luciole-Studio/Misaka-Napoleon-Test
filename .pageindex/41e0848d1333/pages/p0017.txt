@@ -1,0 +1,64 @@
+Confederation of the Rhine, and as such pushed by the French Emperor to adopt its institutions. As
+
+column (3) shows, Baden, the region that has actually adopted the Code Civil has significantly more trust
+
+today. The estimated coefficient in column (4) shows that there exists a positive relationship between
+
+the years of the Code Civil was in place and trust in a sample of regions that actually applied the Code
+
+Civil for at least some years. This indicates that it is not the pure adoption of the Code Civil, but the
+
+duration which matters for long-run changes in beliefs. Moreover, within a sample of regions that all
+
+were occupied by the French Army in column (5) I find the same positive relationship between having
+
+the duration of the Code Civil and trust today. While possibly all occupied regions experienced the same
+
+Napoleonic effects of the occupation, those in which the Code Civil was used after the Napoleonic retreat
+
+show higher trust today. Finally, within Prussia the positive association holds true (see column (6)), i.e.
+
+holding kingdom characteristics constant from 1815 on.
+
+
+
+                                           3.4    Identification
+
+Up to this point this section has established a robust positive association between the application of an
+
+impartial legal enforcement institution in 19th century German regions and trust in different samples.
+
+Two explanations can potentially account for this finding: First, treated regions were characterized by
+
+higher levels of social capital before the treatment took place. In other words, the treatment was not
+
+distributed independently of the initial culture. In that case, the results from the estimation only picks
+
+up path dependencies reflecting pre-treatment differences. Second, regions started out with comparable
+
+levels of social capital and the Napoleonic treatment influenced social capital levels positively, i.e. there
+
+existed a causal effect.
+
+In the following paragraphs I will show that the evidence from a border sample (3.5 and 3.6) and the
+
+comparison of pre-treatment characteristics (3.7) point overwhelmingly towards the second explanation,
+
+that is a true treatment effect. Treatment in this historical experiment contains the adoption and continu-
+
+ation of the Code Civil. The evaluation of the historical literature, as described above, suggests that the
+
+selection and occupation of the territories by the French Army was not driven by economic or cultural
+
+factors, but by geo-political motives. Equally important for the identification strategy is the question why
+
+regions that adopted the Code Civil did not continue its application after 1815. The historical sources
+
+give rise to the interpretation that the continuation largely depended on the outcome of the political bar-
+
+gain at the Congress of Vienna and the level of reform-mindedness of local autocratic rulers, most likely
+
+at conflict with the preferences and values of their citizens.
+
+
+                                                     15

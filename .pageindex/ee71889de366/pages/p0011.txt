@@ -1,0 +1,29 @@
+
+
+To further explore the relationship between ruggedness and draft evasion, we reproduce an econometric exercise with data from the department of Haute-Vienne. Footnote 27 The departmental archives of Haute-Vienne give access to the registers recording background information on each conscript for the year 1807. Footnote 28 Since these are individual-level data, we know height, place of origin, occupation, and desertion status for each cohort member, including whether they deserted before joining their units (“draft-dodgers”) or after (“deserters”). This makes the data collected for the Haute-Vienne much more detailed—but less comprehensive—than Lacuée’s data. The department of Haute-Vienne is an ideal candidate for a case study on the effect of geography as it contains both mountainous and non-mountainous regions (Texier-Olivier Reference Texier-Olivier1808, pp. 11–14). We organize the individual-level data at the cantonal level, with cantons (or justices de paix) being the second-smallest French administrative division after municipalities.Footnote 29 Figure 3 shows a map of terrain ruggedness across Haute-Vienne’s 26 cantons.
+
+Figure 3
+
+RUGGEDNESS IN HAUTE-VIENNE
+
+Source: Nunn and Puga (Reference Nunn and Puga2012).
+
+After analyzing variation in the capacity to enforce conscription and how Napoleon’s administration reacted by drafting less in regions where enforcement costs were highest, we provide evidence that discriminatory conscription worked. It reduced the draft evasion rate in regions most prone to draft dodging relative to regions with low draft dodging rates.
+
+## ECONOMETRIC ANALYSIS
+
+### Geography and Draft Evasion
+
+The relationship between geographical characteristics and the prevalence of draft evasion is confirmed by the results of a formal empirical test. Specifically, we estimate a baseline OLS specification of the form:
+
+(1) $${D_{i,t}} = \beta log\left( {Ruggedness} \right) + X_i^{'} + {\delta _t} + {\zeta _i} + {\unicode{x03F5}_{i,t}},$$
+
+where D i,t is the draft dodging rate for department i at time t. Our main independent variable is the natural logarithm of $Ruggednes{s_i};X_i^{'}$ is a vector for department-level geographic and economic variables we describe in the previous section. Finally, δt and ζi are year and military division fixed effects, respectively. Given their centrality to conscription enforcement, we include military division fixed effects to mitigate any potential bias due to division-specific characteristics.
+
+Figure 4
+
+SCATTERPLOTS OF DRAFT EVASION AND RUGGEDNESS (LOWER PANEL) OR LOG OF RUGGEDNESS (UPPER PANEL) FOR 1808
+
+Sources: Nunn and Puga (Reference Nunn and Puga2012) and Archives Nationales, AF/IV/1124, n. 1 and n. 9.
+
+The use of ruggedness in this context comes with a significant drawback. Specifically, the Alpine departments of France have high ruggedness values due to the presence of tall mountains with large glaciers. Yet, they are unlikely to provide good shelter for fugitives like draft dodgers. Above a certain altitude, fugitives’ survival is compromised by the very low temperatures and the lack of sources of nourishment. The bottom panel in Figure 4 shows how a handful of observations introduce skewness in the data. The top panel shows that the use of the natural logarithm of Ruggedness mitigates the potential bias introduced by the inclusion of the Alpine departments. Footnote 30

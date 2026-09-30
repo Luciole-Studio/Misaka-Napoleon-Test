@@ -1,0 +1,628 @@
+      "pred": null,
+      "train_n": 0,
+      "train_consistency": null,
+      "correct": null
+     },
+     {
+      "case_id": "VE1809",
+      "cluster": "NEItaly",
+      "config": "0111",
+      "truth": 1,
+      "pred": null,
+      "train_n": 0,
+      "train_consistency": null,
+      "correct": null
+     },
+     {
+      "case_id": "EM1809",
+      "cluster": "NEItaly",
+      "config": "0111",
+      "truth": 1,
+      "pred": null,
+      "train_n": 0,
+      "train_consistency": null,
+      "correct": null
+     },
+     {
+      "case_id": "NA1799",
+      "cluster": "Naples",
+      "config": "1101",
+      "truth": 1,
+      "pred": 1,
+      "train_n": 8,
+      "train_consistency": 0.875,
+      "correct": 1
+     },
+     {
+      "case_id": "CA1806",
+      "cluster": "Naples",
+      "config": "1101",
+      "truth": 1,
+      "pred": 1,
+      "train_n": 8,
+      "train_consistency": 0.875,
+      "correct": 1
+     },
+     {
+      "case_id": "TY1809",
+      "cluster": "Tyrol",
+      "config": "1101",
+      "truth": 1,
+      "pred": 1,
+      "train_n": 9,
+      "train_consistency": 0.889,
+      "correct": 1
+     },
+     {
+      "case_id": "CH1798",
+      "cluster": "Switzerland",
+      "config": "1100",
+      "truth": 1,
+      "pred": null,
+      "train_n": 1,
+      "train_consistency": null,
+      "correct": null
+     },
+     {
+      "case_id": "CH1802",
+      "cluster": "Switzerland",
+      "config": "1101",
+      "truth": 1,
+      "pred": 1,
+      "train_n": 9,
+      "train_consistency": 0.889,
+      "correct": 1
+     },
+     {
+      "case_id": "ZH1804",
+      "cluster": "Switzerland",
+      "config": "1010",
+      "truth": 1,
+      "pred": 0,
+      "train_n": 2,
+      "train_consistency": 0.0,
+      "correct": 0
+     },
+     {
+      "case_id": "NL1799",
+      "cluster": "Netherlands",
+      "config": "0011",
+      "truth": 0,
+      "pred": null,
+      "train_n": 0,
+      "train_consistency": null,
+      "correct": null
+     },
+     {
+      "case_id": "NL1809",
+      "cluster": "Netherlands",
+      "config": "0011",
+      "truth": 1,
+      "pred": null,
+      "train_n": 0,
+      "train_consistency": null,
+      "correct": null
+     },
+     {
+      "case_id": "NL1811",
+      "cluster": "Netherlands",
+      "config": "0010",
+      "truth": 1,
+      "pred": 0,
+      "train_n": 3,
+      "train_consistency": 0.0,
+      "correct": 0
+     },
+     {
+      "case_id": "NL1813",
+      "cluster": "Netherlands",
+      "config": "0011",
+      "truth": 1,
+      "pred": null,
+      "train_n": 0,
+      "train_consistency": null,
+      "correct": null
+     },
+     {
+      "case_id": "HH1806",
+      "cluster": "Hamburg",
+      "config": "0010",
+      "truth": 0,
+      "pred": null,
+      "train_n": 3,
+      "train_consistency": 0.333,
+      "correct": null
+     },
+     {
+      "case_id": "HH1813",
+      "cluster": "Hamburg",
+      "config": "0001",
+      "truth": 1,
+      "pred": null,
+      "train_n": 0,
+      "train_consistency": null,
+      "correct": null
+     },
+     {
+      "case_id": "WE1809",
+      "cluster": "NorthGermanClients",
+      "config": "1011",
+      "truth": 1,
+      "pred": null,
+      "train_n": 1,
+      "train_consistency": null,
+      "correct": null
+     },
+     {
+      "case_id": "BG1813",
+      "cluster": "NorthGermanClients",
+      "config": "1011",
+      "truth": 1,
+      "pred": null,
+      "train_n": 1,
+      "train_consistency": null,
+      "correct": null
+     },
+     {
+      "case_id": "BA1813",
+      "cluster": "Bavaria",
+      "config": "1011",
+      "truth": 0,
+      "pred": 1,
+      "train_n": 2,
+      "train_consistency": 1.0,
+      "correct": 0
+     },
+     {
+      "case_id": "ES1808",
+      "cluster": "Iberia",
+      "config": "1101",
+      "truth": 1,
+      "pred": 1,
+      "train_n": 8,
+      "train_consistency": 0.875,
+      "correct": 1
+     },
+     {
+      "case_id": "PT1807",
+      "cluster": "Iberia",
+      "config": "1101",
+      "truth": 1,
+      "pred": 1,
+      "train_n": 8,
+      "train_consistency": 0.875,
+      "correct": 1
+     },
+     {
+      "case_id": "PL1807",
+      "cluster": "Warsaw",
+      "config": "0010",
+      "truth": 0,
+      "pred": null,
+      "train_n": 3,
+      "train_consistency": 0.333,
+      "correct": null
+     },
+     {
+      "case_id": "IL1810",
+      "cluster": "Illyria",
+      "config": "1100",
+      "truth": 0,
+      "pred": null,
+      "train_n": 1,
+      "train_consistency": null,
+      "correct": null
+     },
+     {
+      "case_id": "IL1813",
+      "cluster": "Illyria",
+      "config": "1101",
+      "truth": 1,
+      "pred": 1,
+      "train_n": 9,
+      "train_consistency": 0.889,
+      "correct": 1
+     }
+    ]
+   }
+  },
+  {
+   "tag": "subsample::drop_exit_context (n=30)",
+   "outcome": "mass",
+   "bound": "lo",
+   "truth_table": [
+    {
+     "config": "0010",
+     "conditions": {
+      "T": 0,
+      "R": 0,
+      "E": 1,
+      "O": 0
+     },
+     "n": 4,
+     "positives": 1,
+     "consistency": 0.25,
+     "verdict": "contradictory",
+     "cases": [
+      "BE1802",
+      "NL1811",
+      "HH1806",
+      "PL1807"
+     ]
+    },
+    {
+     "config": "0011",
+     "conditions": {
+      "T": 0,
+      "R": 0,
+      "E": 1,
+      "O": 1
+     },
+     "n": 2,
+     "positives": 1,
+     "consistency": 0.5,
+     "verdict": "contradictory",
+     "cases": [
+      "NL1799",
+      "NL1809"
+     ]
+    },
+    {
+     "config": "0100",
+     "conditions": {
+      "T": 0,
+      "R": 1,
+      "E": 0,
+      "O": 0
+     },
+     "n": 1,
+     "positives": 1,
+     "consistency": 1.0,
+     "verdict": "thin",
+     "cases": [
+      "BE1798"
+     ]
+    },
+    {
+     "config": "0101",
+     "conditions": {
+      "T": 0,
+      "R": 1,
+      "E": 0,
+      "O": 1
+     },
+     "n": 1,
+     "positives": 1,
+     "consistency": 1.0,
+     "verdict": "thin",
+     "cases": [
+      "PV1796"
+     ]
+    },
+    {
+     "config": "0111",
+     "conditions": {
+      "T": 0,
+      "R": 1,
+      "E": 1,
+      "O": 1
+     },
+     "n": 2,
+     "positives": 2,
+     "consistency": 1.0,
+     "verdict": "positive",
+     "cases": [
+      "VE1809",
+      "EM1809"
+     ]
+    },
+    {
+     "config": "1001",
+     "conditions": {
+      "T": 1,
+      "R": 0,
+      "E": 0,
+      "O": 1
+     },
+     "n": 1,
+     "positives": 1,
+     "consistency": 1.0,
+     "verdict": "thin",
+     "cases": [
+      "PA1806"
+     ]
+    },
+    {
+     "config": "1010",
+     "conditions": {
+      "T": 1,
+      "R": 0,
+      "E": 1,
+      "O": 0
+     },
+     "n": 6,
+     "positives": 1,
+     "consistency": 0.167,
+     "verdict": "negative",
+     "cases": [
+      "RH1802",
+      "PI1809",
+      "LI1805",
+      "TU1808",
+      "ZH1804",
+      "CH1805"
+     ]
+    },
+    {
+     "config": "1011",
+     "conditions": {
+      "T": 1,
+      "R": 0,
+      "E": 1,
+      "O": 1
+     },
+     "n": 1,
+     "positives": 1,
+     "consistency": 1.0,
+     "verdict": "thin",
+     "cases": [
+      "WE1809"
+     ]
+    },
+    {
+     "config": "1100",
+     "conditions": {
+      "T": 1,
+      "R": 1,
+      "E": 0,
+      "O": 0
+     },
+     "n": 2,
+     "positives": 1,
+     "consistency": 0.5,
+     "verdict": "contradictory",
+     "cases": [
+      "CH1798",
+      "IL1810"
+     ]
+    },
+    {
+     "config": "1101",
+     "conditions": {
+      "T": 1,
+      "R": 1,
+      "E": 0,
+      "O": 1
+     },
+     "n": 9,
+     "positives": 8,
+     "consistency": 0.889,
+     "verdict": "positive",
+     "cases": [
+      "RH1796",
+      "PI1798",
+      "TU1799",
+      "NA1799",
+      "CA1806",
+      "TY1809",
+      "CH1802",
+      "ES1808",
+      "PT1807"
+     ]
+    },
+    {
+     "config": "1110",
+     "conditions": {
+      "T": 1,
+      "R": 1,
+      "E": 1,
+      "O": 0
+     },
+     "n": 1,
+     "positives": 0,
+     "consistency": 0.0,
+     "verdict": "thin",
+     "cases": [
+      "RM1809"
+     ]
+    }
+   ],
+   "loo_row": {
+    "summary": {
+     "n_cases": 30,
+     "base_rate": 0.6,
+     "constant_baseline_accuracy": 0.6,
+     "coverage": 0.533,
+     "accuracy_on_decided": 0.812,
+     "correct_over_all_cases": 0.433
+    },
+    "key_test": {
+     "passed": false,
+     "detail": {
+      "ES1808": {
+       "coded_truth": 1,
+       "pred": 1,
+       "train_n": 8,
+       "train_consistency": 0.875,
+       "decided": true,
+       "passed": true
+      },
+      "TY1809": {
+       "coded_truth": 1,
+       "pred": 1,
+       "train_n": 8,
+       "train_consistency": 0.875,
+       "decided": true,
+       "passed": true
+      },
+      "RH1802": {
+       "coded_truth": 0,
+       "pred": 0,
+       "train_n": 5,
+       "train_consistency": 0.2,
+       "decided": true,
+       "passed": true
+      },
+      "BE1802": {
+       "coded_truth": 0,
+       "pred": null,
+       "train_n": 3,
+       "train_consistency": 0.333,
+       "decided": false,
+       "passed": false
+      },
+      "BE1798": {
+       "coded_truth": 1,
+       "pred": null,
+       "train_n": 0,
+       "train_consistency": null,
+       "decided": false,
+       "passed": false
+      },
+      "_guard_BE1798_mass_coded_1": true
+     }
+    }
+   },
+   "logo_cluster": {
+    "summary": {
+     "n_cases": 30,
+     "base_rate": 0.6,
+     "constant_baseline_accuracy": 0.6,
+     "coverage": 0.467,
+     "accuracy_on_decided": 0.786,
+     "correct_over_all_cases": 0.367
+    },
+    "key_test": {
+     "passed": false,
+     "detail": {
+      "ES1808": {
+       "coded_truth": 1,
+       "pred": 1,
+       "train_n": 7,
+       "train_consistency": 0.857,
+       "decided": true,
+       "passed": true
+      },
+      "TY1809": {
+       "coded_truth": 1,
+       "pred": 1,
+       "train_n": 8,
+       "train_consistency": 0.875,
+       "decided": true,
+       "passed": true
+      },
+      "RH1802": {
+       "coded_truth": 0,
+       "pred": 0,
+       "train_n": 5,
+       "train_consistency": 0.2,
+       "decided": true,
+       "passed": true
+      },
+      "BE1802": {
+       "coded_truth": 0,
+       "pred": null,
+       "train_n": 3,
+       "train_consistency": 0.333,
+       "decided": false,
+       "passed": false
+      },
+      "BE1798": {
+       "coded_truth": 1,
+       "pred": null,
+       "train_n": 0,
+       "train_consistency": null,
+       "decided": false,
+       "passed": false
+      },
+      "_guard_BE1798_mass_coded_1": true
+     }
+    },
+    "predictions": [
+     {
+      "case_id": "BE1798",
+      "cluster": "Belgium",
+      "config": "0100",
+      "truth": 1,
+      "pred": null,
+      "train_n": 0,
+      "train_consistency": null,
+      "correct": null
+     },
+     {
+      "case_id": "BE1802",
+      "cluster": "Belgium",
+      "config": "0010",
+      "truth": 0,
+      "pred": null,
+      "train_n": 3,
+      "train_consistency": 0.333,
+      "correct": null
+     },
+     {
+      "case_id": "RH1796",
+      "cluster": "Rhineland",
+      "config": "1101",
+      "truth": 0,
+      "pred": 1,
+      "train_n": 8,
+      "train_consistency": 1.0,
+      "correct": 0
+     },
+     {
+      "case_id": "RH1802",
+      "cluster": "Rhineland",
+      "config": "1010",
+      "truth": 0,
+      "pred": 0,
+      "train_n": 5,
+      "train_consistency": 0.2,
+      "correct": 1
+     },
+     {
+      "case_id": "PI1798",
+      "cluster": "NWItaly",
+      "config": "1101",
+      "truth": 1,
+      "pred": 1,
+      "train_n": 8,
+      "train_consistency": 0.875,
+      "correct": 1
+     },
+     {
+      "case_id": "PI1809",
+      "cluster": "NWItaly",
+      "config": "1010",
+      "truth": 0,
+      "pred": null,
+      "train_n": 4,
+      "train_consistency": 0.25,
+      "correct": null
+     },
+     {
+      "case_id": "LI1805",
+      "cluster": "NWItaly",
+      "config": "1010",
+      "truth": 0,
+      "pred": null,
+      "train_n": 4,
+      "train_consistency": 0.25,
+      "correct": null
+     },
+     {
+      "case_id": "TU1799",
+      "cluster": "Tuscany",
+      "config": "1101",
+      "truth": 1,
+      "pred": 1,
+      "train_n": 8,
+      "train_consistency": 0.875,
+      "correct": 1
+     },
+     {
+      "case_id": "TU1808",
+      "cluster": "Tuscany",
+      "config": "1010",
+      "truth": 0,
+      "pred": 0,
+      "train_n": 5,

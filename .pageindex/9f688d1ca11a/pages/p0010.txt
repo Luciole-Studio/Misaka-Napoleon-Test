@@ -1,0 +1,55 @@
+Environ. Res. Lett. 14 (2019) 094019
+
+
+
+Iles C E, Hegerl G C, Schurer A P and Zhang X 2013 The effect of        Raible C C et al 2016 Tambora 1815 as a test case for high impact
+       volcanic eruptions on global precipitation J. Geophys. Res.             volcanic eruptions: Earth system effects Wiley Interdiscip. Rev.
+       Atmos. 118 8770–86                                                      Clim. Chang. 7 569–89
+Jézéquel A, Yiou P and Radanovics S 2018 Role of circulation in         Robock A 2000 Volcanic eruptions and climate Rev. Geophys. 38
+       European heatwaves using ﬂow analogues Clim. Dyn. 50                    191–219
+       1145–59                                                          Schurer A P, Tett S F B and Hegerl G C 2013 Small inﬂuence of solar
+Kandlbauer J, Hopcroft P O, Valdes P J and Sparks R S J 2013                   variability on climate over the past millennium Nat. Geosci. 7
+       Climate and carbon cycle response to the 1815 Tambora                   104–8
+       volcanic eruption J. Geophys. Res. Atmos. 118 12497–507          Stevenson S, Otto-Bliesner B, Fasullo J, Brady E, Stevenson S,
+Küttel M et al 2010 The importance of ship log data: reconstructing            Otto-Bliesner B, Fasullo J and Brady E 2016 ‘El Niño Like’
+       North Atlantic, European and Mediterranean sea level                    Hydroclimate responses to last millennium volcanic
+       pressure ﬁelds back to 1750 Clim. Dyn. 34 1115–28                       eruptions J. Clim. 29 2907–21
+Luterbacher J and Pﬁster C 2015 The year without a summer Nat.          Stevenson S, Fasullo J T, Otto-Bliesner B L, Tomas R A and Gao C
+       Geosci. 8 246–8                                                         2017 Role of eruption season in reconciling model and proxy
+Luterbacher J et al 2002 Reconstruction of sea level pressure ﬁelds            responses to tropical volcanism Proc. Natl Acad. Sci. USA 114
+       over the Eastern North Atlantic and Europe back to 1500                 1822–6
+       Clim. Dyn. 18 545–61                                             Stott P A et al 2016 Attribution of extreme weather and climate-
+Luterbacher J et al 2016 European summer temperatures since                    related events Wiley Interdiscip. Rev. Clim. Chang. 7 23–41
+       Roman times Environ. Res. Lett. 11 024001                        Toohey M and Sigl M 2017 Volcanic stratospheric sulfur injections
+Mauritsen T et al 2019 Developments in the MPI-M Earth System                  and aerosol optical depth from 500 BCE to 1900 CE Earth
+       Model version 1.2 (MPI-ESM 1.2) and its response to                     Syst. Sci. Data 9 809–31
+       increasing CO2 J. Adv. Model. Earth Syst. 11 998–1038            Toohey M, Stevens B, Schmidt H and Timmreck C 2016 Easy
+Mitchell T D and Jones P D 2005 An improved method of                          volcanic Aerosol (EVA v1.0): an idealized forcing
+       constructing a database of monthly climate observations and             generator for climate simulations Geosci. Model Dev. 9
+       associated high-resolution grids Int. J. Climatol. 25 693–712           4049–70
+National Academies of Sciences, Engineering and Medicine 2016           Wegmann M et al 2014 Volcanic inﬂuence on european summer
+       Attribution of Extreme Weather Events in the Context of                 precipitation through monsoons: possible cause for ‘years
+       Climate Change (Washington, D.C.: National Academies                    without summer’ J. Clim. 27 3683–91
+       Press) (https://doi.org/10.17226/21852)                          Wigley T M L, Lough J M and Jones P D 1984 Spatial patterns of
+Oppenheimer C 2003 Climatic, environmental and human                           precipitation in England and Wales and a revised,
+       consequences of the largest known historic eruption:                    homogeneous England and Wales precipitation series
+       tambora volcano (Indonesia) 1815 Prog. Phys. Geogr. Earth               J. Climatol. 4 1–25
+       Environ. 27 230–59                                               Yiou P 2014 AnaWEGE: a weather generator based on analogues of
+Parker D E, Legg T P and Folland C K 1992 A new daily central                  atmospheric circulation Geosci. Model Dev. 7 531–43
+       England temperature series, 1772–1991 Int. J. Climatol. 12       Zanchettin D 2017 Aerosol and solar irradiance effects on decadal
+       317–42                                                                  climate variability and predictability Curr. Clim. Chang.
+Pauling A, Luterbacher J, Casty C and Wanner H 2006 Five hundred               Reports 3 150–62
+       years of gridded high-resolution precipitation                   Zanchettin D et al 2016 The model intercomparison project on the
+       reconstructions over Europe and the connection to large-                climatic response to volcanic forcing (VolMIP): experimental
+       scale circulation Clim. Dyn. 26 387–405                                 design and forcing input data for CMIP6 Geosci. Model Dev. 9
+Pope V D, Gallani M L, Rowntree P R and Stratton R A 2000 The                  2701–19
+       impact of new physical parametrizations in the Hadley            Zanchettin D, Timmreck C, Toohey M, Jungclaus J H, Bittner M,
+       Centre climate model: HadAM3 Clim. Dyn. 16 123–46                       Lorenz S J and Rubino A 2019 Clarifying the relative role of
+Pyrina M, Wagner S and Zorita E 2017 Evaluation of CMIP5 models                forcing uncertainties and initial-condition unknowns in
+       over the northern North Atlantic in the context of forthcoming          spreading the climate response to volcanic eruptions
+       paleoclimatic reconstructions Clim. Dyn. 49 3673–91                     Geophys. Res. Lett. 46 1602–11
+
+
+
+
+                                                         10

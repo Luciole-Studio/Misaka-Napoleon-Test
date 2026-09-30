@@ -1,0 +1,38 @@
+covariates for firms, which I exploit in the empirical analysis.
+
+
+3.3    Long-run outcome variables
+I measure outcomes in the long-run along a number of dimensions. I examine persistence
+in mechanized spinning capacity using data on spindles for 1840 and 1887 compiled from
+industrial firm surveys and annual statistical reports. I impute spindle data for firms with
+missing spindles in 1840 using an identical predictive mean matching model to the one used
+in the short-run analysis. I observe value-added in agriculture, manufacturing and services
+at four points in time across the 19th and 20th century from Combes et al. (2011). Finally, to
+examine exporting outcomes, I digitized product level export data for the period 1787-1828
+from primary sources.
+
+
+4     Short-term Empirical Strategy and Results
+In this section, I first describe the evolution of mechanized cotton spinning during the
+Napoleonic Wars and then turn to estimating the short-run effect of trade protection.
+
+
+4.1    Mechanized spinning during the Napoleonic Wars
+Figure 3 shows the variation in spinning capacity which will be used to estimate the effect of
+trade protection on domestic production capacity. The figure shows the spatial distribution
+of spinning capacity across the French Empire in 1803, prior to the onset of the Napoleonic
+Wars, and in 1812, towards the end of the blockade.
+    In 1803, a number of departments across the French Empire reported some mechanized
+spinning activity. Notably, the department with the largest spinning capacity was located
+in the south of the empire around Lyon (Rhone). Between 1803 and 1812, spinning capacity
+in the French Empire increased by about 370 percent, from 380,000 to around 1.4 million
+spindles. A look at Figure 3 reveals the extent to which growth in spinning capacity was
+distributed unevenly. Particularly striking is the increase in spinning capacity along the
+English Channel, where the increase in the costs of trading with Britain was the largest. By
+1812, the largest spinning department in the French Empire was located along the English
+Channel (Seine-Maritime). In general, more southern regions of the Empire stagnated. In
+particular, south-eastern regions along the border with Spain saw outright decline in all
+departments. According to reports from the prefects, many modern firms in these areas
+
+
+                                              19

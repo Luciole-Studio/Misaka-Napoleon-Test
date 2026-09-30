@@ -1,0 +1,31 @@
+with distinct languages and customs, all have low “national identity” values, while
+the region around Paris has the highest levels of national identity.
+
+                   Figure 10: National identity across France in 1788.
+
+Note: Greener colors represents greater identification in the Cahiers by the Third Estate with either
+the ‘King’ or ‘France’ according to Hyslop (1934). Each grid point in the map was assigned a value
+based on the inverse-weighted distance of surrounding 12 cities that sent in Cahiers (exponent of
+distance used is 1).
+
+
+
+
+    The link between the sense of belonging to the French nationality and draft-
+dodging during the Napoleonic era was not as straightforward as one may think.
+Although politicians and generals did talk about patriotism, honor, etc. most con-
+scripts gave little attention to those considerations: they wished to be able to help
+their parents during the harvest season and found proving their patriotism on the
+battlefield too costly to their taste. Paradoxically, the new departments outside of
+France’s 1789 borders were not systematically more likely to have high draft-dodging
+rates. German departments, in particular, were among the most obedient for con-
+scription authorities (Hudemann-Simon 1987) (See figure 11). Yet, it is unlikely
+that conscripts speaking German, and in territories only recently annexed, deserted
+at lower rates because of their rabid nationalism. On the other hand, conscription
+may have been used to make “new French” into “old French.” As the Prefect of
+Meuse-Inférieure wrote to the Minister of the Interior in 1802:
+
+      [Local public officials] must constantly look to achieve rapprochement by
+      the best means, and as a result the identification of the new with the old
+
+                                                 42

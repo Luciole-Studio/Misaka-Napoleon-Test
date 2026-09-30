@@ -1,0 +1,49 @@
+
+
+COUNTERFACTUAL THOUGHT EXPERIMENTS, 7
+
+that they have hopelessly contaminated all counterfactual arguments ad-
+vanced thus far and will contaminate all counterfactuals advanced into the
+foreseeable future. The former response is too dismissive of the psychologi-
+cal literature; the latter takes it too literally. The appropriate response in our
+view is to acknowledge cognitive biases and to make good-faith efforts to
+hold each other accountable to standards of evidence (such as those sketched
+in this chapter) that check the most serious and pervasive of these biases
+(Tetlock 1992b). All research methods are subject to contamination and mis-
+interpretation; it is only prudent to beware of potential biases in the most
+subjective of all methods of inquiry, the counterfactual thought experiment.
+
+Conclusion
+
+‘There is something about the topic of counterfactual thought experiments in
+world politics that makes people feel a bit uneasy, even defensive. To be
+blunt, it feels like epistemological slumming. As social scientists, we are all
+too familiar with the prestige hierarchy for methods of drawing causal infer-
+ence. At the top of the scientific pecking order is experimentation in which
+‘we can manipulate hypothesized causes and then either hold everything else
+constant or randomize extraneous influences across treatment conditions.
+Experimental control of this sort is obviously out of the question for most
+questions in world politics. We cannot rerun the tape of history: splicing a
+Gorbachev in or out, delaying or accelerating key technological develop-
+ment, or tinkering with this or that aspect of macroeconomic policy.
+
+Social scientists often resort to statistical control when experimentation is
+ethically or practically problematic. But statistical arguments themselves of-
+ten rest on counterfactual assumptions (Fearon 1991) and are, in any case,
+extraordinarily difficult to make for many issues that loom large in security
+debates. For example, what kind of regression or time series analyses will
+allow us to estimate the causal contribution of nuclear weapons to the “long,
+peace” between the United States and Soviet Union between 1945 and 19917
+There are simply too many confounding variables—a problem we can alle-
+viate but not eliminate through judicious selection of comparison cases and
+meticulous process-tracing of decision-making protocols,
+
+So where does that leave us? Probably still feeling uneasy: we seem to be
+stuck with quite literally a third-rate method, counterfactual thought experi-
+mentation. The control groups exist—if indeed “exist” is the right word—in
+the imaginations of political analysts who are left with the daunting task of
+reconstructing how history would have unfolded if causal variables of the
+past had taken on different values from the ones they actually did. The
+whole exercise starts to look hopelessly subjective, circular, and nonfalsifia-
+ble. What is to stop us from simply inventing counterfactual outcomes that
+

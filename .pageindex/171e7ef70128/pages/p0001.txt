@@ -1,0 +1,50 @@
+---
+source_url: "https://journals.openedition.org/geohist/4373"
+final_url: "https://journals.openedition.org/geohist/4373"
+provider: "exa"
+text_sha256: "93103799fea9bfd8b4459fcf48ba0908c2243817adc92d75733406bb4239133c"
+title: "La g\u00e9ographie des ressources foresti\u00e8res et les ambitions navales de Napol\u00e9on apr\u00e8s Trafalgar\u00a0: l\u2019exemple du bois de ch\u00eane"
+content_kind: "page_text"
+---
+
+La géographie des ressources forestières et les ambitions navales de Napoléon après Trafalgar : l’exemple du bois de chêne
+
+Navigation – Plan du site
+
+# Revue de géographie historique
+
+Accueil Numéros 5 La géographie des ressources fore...
+
+Chercher
+
+Sommaire- Document précédent
+
+5 | 2014La géographie de l'époque napoléonienne
+
+# La géographie des ressources forestières et les ambitions navales de Napoléon après Trafalgar : l’exemple du bois de chêne
+
+Nicola Todorov
+
+https://doi.org/10.4000/geohist.4373
+
+Résumé | Index | Plan | Texte | Bibliographie | Notes | Citation | Auteur
+
+## Résumé
+
+L’approvisionnement en bois de chêne constituait dès l’Ancien Régime un défi pour la construction navale française. Loin de réduire ses ambitions maritimes après Trafalgar, Napoléon met en œuvre, à partir de 1810, un grand programme de construction navale qui incite les administrateurs de la marine à planifier l’approvisionnement des chantiers navals. Alors que l’on a souvent insisté sur l’importance accordée à Anvers, la géographie des chênes propres à la construction navale, recensés en 1805, et les statistiques rassemblées entre 1810 et 1813, fournissent une clé d’explication aux décisions stratégiques prises par Napoléon, mais permettent aussi de se faire une idée du prélèvement opéré par la marine impériale.
+
+Haut de page
+
+## Entrées d’index
+
+### Mots-clés :
+
+bois de marine, chênes, forêts, redressement naval, stratégie maritime napoléonienne
+
+Haut de page
+
+## Texte intégral
+
+PDF Partager par e-mail
+
+1L’effort de construction navale après Trafalgar est connu depuis longtemps (Acerra, 1992 ; Acerra, Meyer, 1988, 1994). Mais la chronologie précise de l’évolution des effectifs reste mal connue. En fait, jusqu’en 1810, toutes les constructions neuves sont dévorées par la guerre. En été 1810, entouré des membres du conseil de marine, Napoléon conçoit un programme ambitieux pour un redressement naval gigantesque, dont la réalisation est prévue dans un délai de deux ans (Todorov, 2008, 2006). Retardé puis ajourné par la guerre avec la Russie, ce programme a cependant abouti en deux ans à l’augmentation de l’effectif des vaisseaux de ligne contrôlés par Napoléon de plus de 40 %, effaçant, numériquement, les pertes de Trafalgar. Dressant le bilan maritime de l’Empire, les historiens de la marine ont souligné la préférence donnée aux bases navales à l’extérieur des frontières de la France de 1792, notamment à Anvers, au détriment des ports militaires créés sous l’Ancien Régime, notamment de Brest et de Rochefort (Acerra, Meyer, 1994, Antoine, Lefebvre 1999). En effet, le territoire de la France de 1810 n’est pas celui de 1789.

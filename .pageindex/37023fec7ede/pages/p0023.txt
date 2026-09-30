@@ -1,0 +1,39 @@
+                 Table 8: Draft-dodging and ruggedness with 30 km buffers.
+
+Note: This table displays the same results as in Table 1. We draw a buffer of 30 km around each
+department and assign the average terrain ruggedness to the department if it falls within either the
+department itself or the buffer.
+
+ Draft-dodging rate                (1)            (2)          (3)            (4)            (5)             (6)
+ Log of ruggedness (buffer)      3.37464        3.73357      5.13290        4.75651        6.67692         6.17293
+                              (0.60023)***   (1.16885)*** (1.33483)***   (1.81645)***   (1.79912)***    (1.95166)***
+                               [1.42213]**    [1.72627]** [1.75321]***    [2.08551]**   [2.42742]***     [2.49201]**
+ Same Controls
+ as in Table 1                     X             X             X              X               X              X
+ Observations                     554           534           534            365             292            292
+ R-squared                      0.12439      0.64132        0.64537        0.75164         0.78725        0.78747
+                                   *** p<0.01, ** p<0.05, * p<0.1
+
+
+
+
+                  Table 9: Geography and conscription with 30km buffers.
+
+Note: This table displays the same results as in Table 3. We draw a buffer of 30 km around each
+department and assign the average terrain ruggedness to the department if it falls within either the
+department itself or the buffer.
+
+      Conscription rate                  (1)            (2)            (3)            (4)            (5)
+      Log of ruggedness (buffer)      -0.76261       -1.90528       -1.30152       -2.41319       -2.46889
+                                    (0.14653)***   (0.33570)***   (0.36381)***   (0.56619)***   (0.62508)***
+                                    [0.26544]***   [0.44968]***   [0.45872]***   [0.56339]***   [0.64800]***
+      Same Controls
+      as in Table 3                       X            X             X                  X               X
+      Observations                       555          535           535                365             365
+      R-squared                        0.12992      0.68532       0.69692            0.74067         0.74071
+                                   *** p<0.01, ** p<0.05, * p<0.1
+
+
+
+
+                                                        23

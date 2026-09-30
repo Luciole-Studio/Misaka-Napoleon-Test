@@ -1,0 +1,46 @@
+                               The French revolution and German industrialization 179
+
+   By the early 1840s, things began to change. First, the advent of railroads
+created an immediate need for coal power. Then, the gradual emergence of steel
+production – obviously related to the emergence of the railroads – induced a long-
+lasting and stable need for coal. It is now well accepted that in order to reduce
+transport costs, both mining and smelting had to be concentrated in regions
+with easy access to coal (Krieger-Boden, 1995; Weber, 1922). Agglomeration
+economies explain the emergence of the Ruhr area into one of Europe’s major
+industrial belts – easy access to large coal deposits determined the regional
+pattern of German industrialization after 1840 (Fremdling, 1985; Holtfrerich,
+1973; Tilly, 1990, 1991). However, coal suitable for coking – a necessity for the
+emergence of a steel industry – was only available in deeper layers. Therefore, it
+was not until after 1830 – with English technical assistance – that a breakthrough
+beyond heavy clay into deeper coal seams became possible in Germany. This
+technical breakthrough, unattached to Napoleon, in turn fueled the mutually
+reinforcing expansion of both coal production and steel in the Ruhr basin
+(Fischer, 1972, p. 164).
+   These geological and technological aspects of early coal mining serve to
+minimize any possible endogeneity of coal mining and Napoleon. An additional
+deterrent arises in the realization that throughout Germany, as in the rest of
+Europe, all mineral deposits were owned by the state. Government mining
+authorities not only supervised coal mining, they actively controlled the sector.
+It was not until after 1850, with the introduction of a new Prussian mining law
+in 1865, that the strict control of coal mining was abolished. Similar reforms
+occurred all over Germany during that time (Fischer, 1972, pp. 139–178). In
+summary, there is no credible evidence that the date of the emergence of coal
+mining, and its subsequent development, might be endogenous in any model of
+urbanization brought about by industrialization.
+   Figure 2 reminds us that coal mining can only get started and prevail over time
+– regardless of prevailing institutional arrangements – where Mother Nature has
+randomly laid down thick veins of carbon residue.14 Only three polities would
+become, by 1900, major coal-producing polities – Mark, Rhineland, and Silesia,
+two of which were in the occupied polities.15
+
+Modeling economic change in Germany16
+The development of a more comprehensive model of economic change in
+Germany, of which heavy industry is but a localized part, requires that we
+move away from the three regions at the core of the ACJR model. Those specific
+
+    14 The map excludes the important coal fields in the far-east (Silesia).
+    15 The on-line Appendix Table 3 depicts metric tons of coal extraction 1850–1900. In addition to
+data on total coal production, on-line Appendix Table 4 shows the share of total employment, by polity,
+engaged in mining and smelting.
+    16 Data for the following analysis come from the two data sets used by ACJR, plus our own
+calculations.

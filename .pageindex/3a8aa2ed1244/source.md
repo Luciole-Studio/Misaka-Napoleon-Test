@@ -1,0 +1,102 @@
+# P6（t_c87512）SOURCES
+
+## 0. 本卡的证据层级声明
+
+本卡是**总装卡**：它的一手输入是本轮44张单位卡的交付物，不是原始史料。因此：
+
+- **S级（本卡亲读）**：下列单位卡文件与协调台账，均由本卡在本次会话中用 `read`/`grep` 直接读取，引文定位（行号）见 `notes_inputs_core.md`。
+- **T级（经单位卡转引的原始史料）**：本卡**未亲阅**，只按单位卡给出的定位转述，正文中均已随文标注来源卡。任何"本卡引用某档案"的读法都是错误的。
+- **M级（本卡自建模型件）**：引擎、参数与情景表，标 MODEL，不是观测。
+
+## 1. S级：本卡亲读的单位卡与台账
+
+| 文件 | 本卡读取方式 | 用于 |
+|---|---|---|
+| `nodes/r_5b1357a9c6/coordination_ledger.md`（全180行，分三段读毕） | read | 全部单位卡的Last Order验收摘要、口径冲突表、跨卡可复用资产 |
+| `cards/t_0e763d/F2_french_army_capacity.md` L9、L11、L245、L271–275 | grep+read | 人力包络、S2/S5/S6需求-供给表 |
+| `cards/t_08b9e7/F1_napoleon_center.md` L11、L15、L22–24、L35、L43–44、L55、L100、L128–143、L251、L265、L273 | grep+read | 克制先验、寿限带、0.7/18月冲动、调节器清除 |
+| `cards/t_c69786/B1a_landing_decision.md` L7、L9、L11、L30、L41、L51、L76–80、L89 | grep+read | 登陆后英国决策分支 |
+| `cards/t_c69786/B1b_acceptance_equilibrium.md` L9、L13、L43、L45、L64、L92–94、L98、L125–126 | grep+read | 英国接受法国优势的窗口与六条件 |
+| `cards/t_91cbee/R1_russia_court.md` L13、L22、L26、L62、L188、L209、L214、L285–288、L312–314 | grep+read | C层半衰期、关税容忍矩阵 |
+| `cards/t_6f3beb/X2_continental_system_machine.md` L21–22、L248–255、L379–385、L486、L520–521、L548、L570 | grep+read | Ellis法则、合取条件、保护版最优策 |
+| `cards/t_3282da/SP1_spain_state.md` L12、L14–15、L29、L65、L67、L82、L90、L125–127、L149、L165 | grep+read | B4b、二值函数、比利牛斯南界 |
+| `cards/t_27c409/SP2_spain_society.md` L11、L22、L58、L79、L108、L123–124、L129、L151、L169 | grep+read | 起义三开关、1823对照 |
+| `cards/t_e0038f/D2_annexed_outer.md` L18–19、L112、L198 | grep+read | 外圈可管不可省化、A层可行边界 |
+| `cards/t_afeae6/Q1_resistance_determinants.md` L8、L15、L50、L86–87、L126、L154、L161、L179、L268 | grep+read | O=0条件、抵抗配置 |
+| `cards/t_24b942/P4_four_snapshots.csv`（表头＋首两行） | read | 海军吨位/效能比（中期值） |
+| `cards/t_02f417/E1_resources.csv`（population分片） | grep | 人口分量与口径警告 |
+
+其余单位卡（F3、F4、F5、B2–B6、IE、R2、R3、PL、A、PR、G1、G2、NL、SC、IT1、IT2、IT3、PT、OT、EG、PS、IN1、IN2、US、HT、MX、SA、X1、X3、X4、D1、Q2、M1）的结论，本卡取自**任务卡交接摘要＋协调台账的验收记录**（二者均为本卡亲读文本），未逐卡打开正文。**这是本卡的一个自认限制**：对这些单位，本卡编码的是"卡片摘要中的结论"，不是"卡片正文中的论证"；红队若发现摘要与正文有出入，以正文为准并请回报本卡修正编码。
+
+## 2. T级：经单位卡转引、本卡未亲阅的原始史料（谱系，不假装亲阅）
+
+按正文出现顺序，仅列本卡正文实际引用其结论者：
+
+- Ellis, *Napoleon's Continental Blockade: The Case of Alsace* (1981), 印p.202、p.203 —— 经 X2（X2 有全文 `downloads/X2_Ellis1981_Alsace__abac15ab1852.pdf`）。
+- Heckscher, *The Continental System* —— 经 X2/B5/B6/IT1/G2（**同一来源被多卡使用，不构成独立互证**）。
+- Oman, *A History of the Peninsular War*, III App.VII / IV App.XVIII —— 经 F2/SP2。
+- Marion, *Histoire financière de la France* IV (1925), 印pp.304–306、p.321、pp.322–325 —— 经 F4/NL/F2（**同一来源多卡使用**）。
+- Fortescue, *A History of the British Army* V, pp.231–232；County Lieutenancies (1909) 附录II/III —— 经 B4。
+- Desbrière, *Projets et tentatives de débarquement aux îles Britanniques* —— 经 B4/IE（IE明言其数字链经W&B 1908与Carles 1976两条同源转引，**非独立互证**）。
+- Vandal, *Napoléon et Alexandre Ier* I/III —— 经 R1/PR/OT。
+- Czartoryski, *Mémoires* I —— 经 R1/PL。
+- Nesselrode 1811年备忘录 —— 经 R1/PR。
+- Riehn/Lieven/Keep（1812与俄军） —— 经 R3。
+- Grab, *Napoleon and the Transformation of Europe* —— 经 IT1/G2/D1/D2/F2（**多卡共用**）。
+- Davis, *Naples and Napoleon*；Gregory, *Sicily: The Insecure Base* —— 经 IT2。
+- Pacca, *Mémoires* (1833)；1801专约；1813枫丹白露条款与撤回函 —— 经 IT3。
+- La Parra, *Godoy* / *Fernando VII*；Esdaile, *The Spanish Army in the Peninsular War* 印pp.63–64、76–79；Lawrence, *The First Carlist War* p.35 —— 经 SP1/SP2。
+- Manchester, *British Preëminence in Brazil* —— 经 PT。
+- Shaw, *Between Old and New*；Aksan, *Ottoman Wars*；Puryear, *Napoleon and the Dardanelles* —— 经 OT。
+- Driault, *Mohamed Aly et Napoléon* / *La politique orientale de Napoléon* —— 经 EG/PS。
+- Elphinstone (1815)；Kaye (1851)；Aitchison vols. VII/IX —— 经 PS。
+- Minto 致控制委员会主席函（"2万法军…巨大当下灾难"）；Milburn, *Oriental Commerce* —— 经 IN1。
+- Sen, *The French in India*；Parkinson, *War in the Eastern Seas* —— 经 IN2。
+- Perkins, *Prologue to War* —— 经 US（US卡自陈其为单一研究传统）。
+- Marichal, *Bankruptcy of Empire*；Humboldt, *Essai politique* t.3 —— 经 MX。
+- Castlereagh, *Correspondence* vol. VII —— 经 SA。
+- Buist, *At Spes Non Fracta*；Ferguson, *The House of Rothschild* I；Ziegler, *The Sixth Great Power* —— 经 X1。
+- Rowe, *From Reich to State* 印pp.72–73、187、189、195–196；Woolf, *Napoleon's Integration of Europe* 印pp.156–165、232、234 —— 经 D1/Q1/Q2/X2（**多卡共用**）。
+- Joor, *Soldiers, Citizens and Civilians*（荷兰骚动编码） —— 经 NL/Q1/D2。
+- Barton, *Scandinavia in the Revolutionary Era*；Glenthøj & Ottosen —— 经 SC。
+- Porter, *The Progress of the Nation*（1851版，文件名标1847）印pp.8–11 —— 经 E1。
+- Lugli et al., "Napoleon Bonaparte's gastric cancer", *Nat Clin Pract Gastroenterol Hepatol* 4(1) 2007 —— 经 F1。
+- BoE *A Millennium of Macroeconomic Data* v3.1；Bordo & White NBER WP3517 —— 经 B2。
+- OWID/Gapminder人口序列（`downloads/E1_OWID_Gapminder_population_1800_1850.csv`） —— 经 E1，quality=LOW，E1自警不得当政体人口。
+
+## 3. 来源独立性声明
+
+本卡的结论**不是**由44个独立证据源支持的。至少四组共用底稿：
+
+1. **Heckscher** 同时支撑 X2、B5、B6、IT1、G2 的贸易论证；
+2. **Marion IV** 同时支撑 F4、F2、NL 的财政数字；
+3. **Grab 2003** 同时支撑 IT1、G2、D1、D2 的整合论证；
+4. **Rowe/Woolf** 同时支撑 D1、Q1、Q2、X2 的并合省论证。
+
+因此§3的"三条互斥定理"中，真正**互相独立**的证据束是：（i）人力账（F2，独立数据基础为Oman返表与征兵档）；（ii）财政账（F4，Marion）；（iii）执行账（X2，Ellis＋Rowe保费序列）；（iv）反应函数账（R1/SP2/B1，各自的外交与社会史料）。三条定理**至少各有两束独立支撑**，但不是"十几张卡各自独立证实"。上一轮的一个方法论教训在此适用：**同一底稿被多卡引用会制造虚假的证据丰度。**
+
+## 4. M级：本卡自建件
+
+| 文件 | 内容 | 性质 |
+|---|---|---|
+| `p6_wargame.py` | 对弈引擎：政策向量→10个反应函数→人力/财政/战区结算 | MODEL；参数逐项标出处 |
+| `p6_endgame.py` | 控制计分卡、长久性分解、实现概率、冲动风险、最大版图 | MODEL |
+| `P6_paths_annual.csv` | 5路径×年＝32行逐年对弈记录 | 引擎输出 |
+| `P6_resource_conflicts.csv` | 4处"同一机动军两处"冲突 | 引擎输出 |
+| `P6_miracles.csv` | 14项外生事件及其概率带与依据 | 概率带取自单位卡，归类为本卡裁量 |
+| `P6_path_scores.csv` | 奇迹计数与falsifier裁定 | 引擎输出 |
+| `P6_choice_nodes.csv` | 10个法国选择节点的F1分类与先验 | 分类为本卡裁量，先验取自F1 |
+| `P6_control_scorecard.csv` / `P6_durability.csv` / `P6_realization.csv` / `P6_impulse_risk.csv` / `P6_max_extent.csv` | 终局判定诸表 | MODEL＋卡片参数 |
+| `notes_inputs_core.md` | 全部亲读引文与定位 | 证据底稿 |
+| `p6_run.log` | 两脚本运行输出 | 复算凭证 |
+
+**复算方法**：`python3 p6_wargame.py && python3 p6_endgame.py`（无外部依赖，输出确定）。
+
+## 5. 未获材料（影响本卡判断者）
+
+1. **1806年英法谈判的法方书面条款**（AN AF IV／AAE CP英国卷）——B1卡已声明只有1806-12-30下院辩论记录的口头基础转述。此件直接决定M-B1（0.40–0.60）的上下调。
+2. **Danson (1894) Lloyd's 1805–16逐航线保费序列**——M1列为其改判证据E3，本卡沿用；Hathi有全读版本但403。
+3. **俄国外交档案（АВПРИ／Сборник РИО）1811–12关税容忍相关件**——R1列为其主线改判条件。
+4. **保护性关税版的英方反应**：无任何一卡检验过"中率财政关税＋普遍准入"下的枢密令反应。本卡§12.1已把它列为最大单点未验证假设。
+5. **P4正式卡**（本卡用其中期模型值）、**P2正式卡**（本卡§10与其结论方向一致但未对表）。
+6. 本卡未打开正文的34张单位卡（见§1末段限制声明）。

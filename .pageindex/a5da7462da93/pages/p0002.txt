@@ -1,0 +1,10 @@
+
+
+## 3. 与本卡直接相关的上一轮已核结论（复用，注路径）
+来源：`nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+- 提尔西特盟约9条全文无印度专款；Art.2兵力与战区须另订特别协定；Art.8对奥斯曼行动排除君士坦丁堡与鲁米利亚（Vandal I 附录，`downloads/pages/13f4af98385b.md` 行21309–21440）。
+- 1807-11-12 Caulaincourt训令：4万法军经君士坦丁堡+4万俄军经高加索；"plus elle paraît chimérique, plus la tentative...épouvanterait les Anglais"（同上行21443起，印度段21684起；AAE Russie vol.144谱系）。
+- 1808-02-02拿破仑致亚历山大：5万人（俄、法、或许些许奥军）"ne serait pas arrivée sur l'Euphrate qu'elle ferait trembler l'Angleterre"；自称协议后1个月到博斯普鲁斯、3-15前决定、5-01可在亚洲——**宣示性时间表非核验工期**（同上行10510–10590）。
+- 1801保罗行动：约22,507哥萨克，1801-01-12命令（RGVIA转引），行约700公里后因保罗遇弑折返；所谓法俄各3.5万联合方案未见两国档案（Schimmelpenninck van der Oye 2014，`downloads/pages/8382c0deb72f.md`）。
+- Baird 1801 Kosseir–Kena沙漠段：无水段33/34英里、夜行2.5英里/小时、人均携水2加仑、水袋泄漏导致次梯队行军取消、骆驼夫须付酬安抚（`downloads/pages/e6f361323912.md` 行1120–1400、1806–1915）。
+- Minto 1808-06-17备忘录：因"the progressive activity of the intrigues & exertions of the French Embassy in Persia"决定派使拉合尔与喀布尔（Das第3章公开节选，`downloads/pages/7ace9e1b1b47.md` 行124–153）。

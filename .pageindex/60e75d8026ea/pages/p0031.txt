@@ -1,0 +1,38 @@
+spinning capacity as a consequence of differing levels of protection.
+    First, I ask whether the location of mechanized cotton spinning showed persistence over
+time. Higher protection from British competition during the blockade increased mechanized
+spinning capacity while differential protection lasted. To the extent that temporary protec-
+tion rendered locations profitable in the long-run, we would expect to find persistence in
+the location of cotton spinning. Second, I examine whether trade protection had aggregate
+effects on the regional economy through its effect on mechanized cotton spinning.
+    I estimate IV specifications of the following form
+
+                                  Yit = α0 + β0t Si(1812) + ηit                            (2)
+
+
+                               Si(1812) = α1 + β1 ∆ln(Di ) + ωi                            (3)
+
+    where Yit is the departmental (i) outcome at time t (spinning capacity or industrial
+value-added), Si(1812) measures the size of mechanized cotton spinning in department i in
+1812 using the same measure of spindles per thousand inhabitants that was used in the
+previous section. ∆ln(Di ) is the trade cost shock defined in Section 3.
+    For the case of long-term outcomes, the main challenge for identification of β0t is omitted
+variable bias. In particular, we expect Si(1812) to be correlated with unobservable locational
+fundamentals in the error term, ηit , which also affect the outcome variables of interest. To
+overcome this challenge, I propose using the trade-cost shock as an instrument for post-
+blockade spinning capacity. The identifying assumption for the 2SLS estimation strategy to
+render consistent estimates for β0t is that the trade cost shock is uncorrelated with the error
+term ηit . To build evidence in support of the validity of the instrument, I show both robust-
+ness of the results to the inclusion of measures of natural or acquired locational fundamentals
+and to the inclusion of lagged spinning capacity as a control. This latter is important, as it
+controls for geographic persistence in the location of mechanized spinning. A placebo test
+builds additional support for the validity of the instrument. However, it should be noted
+that given the long time horizon over which these effects are estimated, it is not possible
+to fully rule out that the estimated effects are (partly) driven by other forces. Any shock
+that affects the French economy over the long time horizon that is examined and that is
+correlated with the trade cost shock would confound the effect of interest. For this reason, I
+view the long term results presented in this section more as suggestive rather than conclusive
+evidence on the long-run effects of temporary protection.
+
+
+                                               31

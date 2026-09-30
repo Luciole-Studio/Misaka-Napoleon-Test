@@ -1,0 +1,140 @@
+
+
+### 3.1 已读宪法与书信来源
+
+**R4：1807年11月15日宪法**
+
+*Constitution du Royaume de Westphalie*，都灵大学历史宪法库法文转录PDF。
+
+URL：  
+http://www.dircost.unito.it/cs/pdf/18071115_germaniaRegnoVestfalia_fra.pdf
+
+本地抓取：  
+`downloads/pages/c541a4c902d7.md`
+
+转录注明底本：
+
+*Bulletin des lois du Royaume de Westphalie / Gesetz-Bulletin des Königreichs Westphalen*，Cassel，1808，Erster Theil，Nr. 1，pp. 2–30。
+
+实际读的是PDF提取文本，不是原公报影像。
+
+**R5：1807年11月15日两封致Jérôme信及宪法另一转录**
+
+URL：  
+https://www.histoire-empire.org/correspondance_de_napoleon/1807/novembre_02.htm
+
+本地抓取：  
+`downloads/pages/34f4bd8f6f1b.md`
+
+两个准确定位：
+
+1. **Fontainebleau, 15 novembre 1807 — “A Jérôme”**
+2. **Fontainebleau, 15 novembre 1807 — “A Jérôme Napoléon, roi de Westphalie”**
+
+这是同一天的两封不同文本，不应合并为一封。本轮未核现代通信编号，不提供猜测的信号或页码。
+
+### 3.2 宪法关键条款
+
+#### 财政与军事
+
+【事实｜第2条】法国皇帝保留原诸侯一半allodial领地用于奖赏军官：
+
+> “Nous nous réservons la moitié des domaines allodiaux des princes…”
+
+不能译成“一半全国土地”或“一半全国税收”。
+
+【事实｜第3条】已经摊派的特别战争贡款，须在12月1日前缴纳或提供清偿担保。
+
+【事实｜第5条】王国配额25,000人：
+
+- 步兵20,000；
+- 骑兵3,500；
+- 炮兵1,500。
+
+初年本国部分为12,500人：
+
+- 步兵10,000；
+- 骑兵2,000；
+- 炮兵500。
+
+其余12,500由法国提供，驻马格德堡，但由威斯特伐利亚支付：
+
+> “Ces 12,500 hommes seront soldés, nourris et habillés par le roi de Westphalie.”
+
+【裁量｜高置信度】不能写成“法国免费承担一半军力负担”；供兵来源与承担薪饷、衣食的财政主体不同。
+
+【事实｜第53条】征兵为根本法：
+
+> “La conscription sera loi fondamentale du royaume de Westphalie. L'enrôlement à prix d'argent ne saurait avoir lieu.”
+
+【局限】“L'enrôlement à prix d'argent”首先涉及金钱雇募；未经补充法规，不应直接扩大解释为禁止一切个人代役。
+
+#### 王朝、平等与代表机构
+
+【事实｜第6–8条】规定Jérôme男性长子继承，王室受帝国家族安排约束，摄政涉及拿破仑及其家族之首继任者的权力。现有转录第8条缺词，不据残句作精密摄政法解释。
+
+【事实｜第10–16条】
+
+- 法律面前平等；
+- 信仰自由；
+- 取消旧等级政治机关及相应特权；
+- 废除人身农奴关系；
+- 贵族名位保留，但不得独占公职或免除公共负担；
+- 统一税制；
+- 地税不得超过收益五分之一。
+
+第13条：
+
+> “Tout servage, de quelque nature et sous quelque dénomination qu'il puisse être, est supprimé…”
+
+【局限】废除servage不能直接等同于所有地租、契约负担和领主财产权无偿消失。
+
+【事实｜第29、31–33、41条】
+
+100名等级会议成员的构成：
+
+- 地主70名；
+- 商人及制造业者15名；
+- 学者及其他有功公民15名。
+
+国王任命主席，掌握召集、休会、延期和解散。产生议员的部门选举团成员又由国王依财产与资格类别任命。
+
+【文献推断：本札记】这是受君主任命和召集权约束的代表制度，不是普选议会或现代议会责任内阁。
+
+#### 民法与司法
+
+【事实｜第45条】
+
+> “Le Code Napoléon formera la loi civile du royaume de Westphalie, à compter du 1er janvier 1808.”
+
+【事实｜第46条】规定公开程序与刑事陪审，最迟1808年7月1日实行。
+
+【局限】法定期限证明制度要求，不证明所有法院和地方机构均按期落实。
+
+### 3.3 第一封信：**1807年11月15日，“A Jérôme”**
+
+【事实｜R5】拿破仑称宪法包含他放弃征服权及既得权的条件，要求Jérôme忠实遵守；强调非贵族人才的任用、人身束缚的解除以及居民信任。
+
+关键原文：
+
+> “Soyez roi constitutionnel.”
+
+> “Les bienfaits du code Napoléon, la publicité des procédures, l'établissement des jurys, seront autant de caractères distincts de votre monarchie.”
+
+> “je compte plus sur leurs effets, pour l'extension et l'affermissement de votre monarchie, que sur les résultats des plus grandes victoires.”
+
+他把良好治理与反普鲁士的战略屏障联系起来：
+
+> “Cette manière de gouverner sera une barrière plus puissante, pour vous séparer de la Prusse, que l'Elbe, que les places fortes et que la protection de la France.”
+
+【文献推断：本札记】此信提供真实的政策机制：**制度表现→居民忠诚→王朝巩固与战略隔离**。不能把改革全解释为无意义装饰；同样不能把拿破仑对德国居民意愿的判断当作已经验证的民意调查。
+
+### 3.4 第二封信：**1807年11月15日，“A Jérôme Napoléon, roi de Westphalie”**
+
+【事实｜R5】拿破仑要求：
+
+- 重要职位中维持非贵族多数，但避免公开炫示这种选择；
+- 保护驻扎王国的法国军队；
+- 不要急于撤除法国军事长官；
+- 谨慎对待城市关于军事负担的抱怨；
+- 民法典不得延期。

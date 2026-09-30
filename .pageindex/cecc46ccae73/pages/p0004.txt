@@ -1,0 +1,39 @@
+
+
+### L2　Patrick K. O’Brien and Nuno Palma, *Danger to the Old Lady of Threadneedle Street? The Bank Restriction Act and the regime shift to paper money, 1797–1821*, EHES Working Paper No.100, July 2016
+
+- URL：https://ehes.org/wp/EHES_100.pdf 。`downloads/pages/a2034fc310ff.md`。
+- 阅读§§1、2.3、3.1、信誉与支付网络论证；1797商人接受声明和法律日期经作者转引；**未将2020正式刊版分页当成本稿分页**。
+- 与L5均部分引用Clapham，不能数作两套独立危机原始观察。
+
+### L3　John F. Avery Jones, “The Special Commissioners from Trafalgar to Waterloo”, in John Tiley (ed.), *Studies in the History of Tax Law*, Vol.2, Oxford/Portland: Hart, 2007
+
+- 实际读到出版社样章开头历史节、注6—29，尤其21—25；全章从p.3起，个别抽文页界缺失，以注号及文本定位，不虚构每条单页。
+- URL：https://api.pageplace.de/preview/DT0400.9781847313461_A24074261/preview-9781847313461_A24074261.pdf 。`downloads/pages/ea9175ba3158.md`。
+- 支持：税率1799 10%、1803 5%、1805 6.25%、1806 10%；扣缴不是1803首次出现；1806税制成为1842基础；委员会和地方征管。
+- £6,046,624与£5,341,907明确**转引1870 Commissioners of Inland Revenue年报**，是“raised”而未完成现金/评定原表桥接。同章“almost twice … half the rate”与注21不一致，弃用其倍率；1806£12,822,056脚注年界不明，不冻结成1806现金。
+
+### L4　K.O. Cousins, “The failure of the first income tax: a tale of commercial tax evaders?”, *Journal of Legal History*, 39(2), 2018, pp.157—186，接受稿
+
+- DOI：https://doi.org/10.1080/01440365.2018.1484325 。实际稿件：https://eprints.whiterose.ac.uk/id/eprint/129898/19/The%20Failure%20of%20the%20First%20Income%20Tax-A%20Tale%20of%20Commercial%20Tax%20Evaders_.pdf 。`downloads/pages/dc631b5476f4.md`。
+- 定位§III.1及注121—128；1799约5.8m、净评定/征收费的分别。正式刊页范围只是题录，不冒充接受稿对应单页。
+- 用途：辨别actual yield、净收益不必为同年度财政现金；商业逃税与征管改进不能只用税率解释。
+
+### L5　Pamfili Antipa and Christophe Chamley, *Monetary and Fiscal Policy in England during the French Wars (1793–1821)*，October 2017稿
+
+- URL：https://people.bu.edu/chamley/Ec365-17/UKFR.pdf 。`downloads/pages/cf02c798c3f0.md`。
+- 定位：§2，pp.6—7（融资工具与偿债基金）；pp.17—19（1797）；pp.25—27及战后讨论（银行购买国债、付息支持、短长转换和恢复兑现）。
+- 不混同后来的“Regimes of …”2019版本。
+- 用途：货币财政政策不断调整，暂停兑付并非取消国债付息。战后还BoE的£10m约为银行所持政府短债55%，不是全国国债55%；短转长不是等额净还本。
+- 学术分歧：作者认为战时Sinking Fund有承诺和稳价功能；这可以与“借新债购旧债不等于净减债”的会计命题同时成立，不能把二者混成全有用或全骗局。
+
+### L6　Carolyn Sissoko and Mina Ishizu, “Preventing financial ruin: How the West India trade fostered creativity in crisis lending by the Bank of England”
+
+- DOI：https://doi.org/10.1111/ehr.13407 。实际PDF链接：https://researchonline.lse.ac.uk/id/eprint/126278/1/The_Economic_History_Review_-_2025_-_Sissoko_-_Preventing_financial_ruin_How_the_West_India_trade_fostered_creativity_in.pdf 。`downloads/pages/2f4fc6ec5d53.md`。
+- **双日期说明：**所读正文为2025网络先行分页（1起，页脚2025下载印记），仓储封面更新题录为*Economic History Review* 79(1), 2026, pp.57—88。正文引用pp.23—24是先行分页，不把它与57—88混用。
+- 定位§IV The 1811 policy of emergency lending、注117—123、§V结论。
+- 实际档案谱系：BoE Court of Directors Minutes（文内C.D.），1810-02-15 p.219；1811-02-28 pp.521—522；以及Committee of Treasury minutes。**全为转引，不冒称直接读取档案。**
+- 支持担保、检查人回避、暂时不流动但有偿付能力的甄别；注123明言成效未定且1816追款，问题贷款是否均发生于新制后不明。故不能将追款直接归咎新制度。
+- 用途：信用救助与西印度奴隶商品网络紧密相连，既非完全市场自发，也非无差别公共保全。
+
+### L7　W.H. Chaloner, review of François Crouzet, *L’économie britannique et le blocus continental (1806–1813)*（Paris: PUF, 1958）, *Revue belge de philologie et d’histoire* 38(2), 1960, pp.525—526

@@ -1,0 +1,22 @@
+---
+source_url: "https://www.napoleon.org/histoire-des-2-empires/articles/des-armes-et-de-la-poudre/"
+final_url: "https://www.napoleon.org/histoire-des-2-empires/articles/des-armes-et-de-la-poudre/"
+provider: "exa"
+text_sha256: "d99f4959214e2e61eb790f7d1ae1c7478abcfdb037fa4336275d1edb1b45f8a9"
+title: "Des armes et de la poudre\u2026 - napoleon.org"
+content_kind: "page_text"
+---
+
+Des armes et de la poudre… - napoleon.org
+
+# Des armes et de la poudre…
+
+ Auteur(s) : BRUN Jean-François 
+
+Constituer une armée efficace suppose nombre d’opérations matérielles (la question de l’entraînement n’étant pas abordée ici). Il importe en effet de réunir des hommes (ce que la conscription permet de réaliser relativement aisément), des chevaux de selle ou de trait afin de garantir la mobilité des troupes et enfin des armes modernes et en nombre suffisant. Ce dernier impératif n’avait pas échappé au Comité de Salut Public organisant l’effort de guerre pour sauver la « Patrie en danger ». À la fois collégial et dominé par Robespierre, cet exécutif gouvernemental renfermait en effet trois grands « ministères » : la « section des approvisionnements et des transports », dirigée par Lindet, la « section de la guerre » sous l’autorité de Carnot, et enfin la « section des armes et des poudres » aux ordres de Prieur de la Côte-d’Or. Divisée elle-même en six agences principales, cette dernière comptait au total une soixantaine d’employés, soit le quart du personnel du Comité ! Une telle constatation est la meilleure preuve de l’importance accordée concrètement à ce secteur, trop souvent passé sous silence ou évoqué de manière très rapide, voire allusive.
+
+Michel Decker "L’artillerie impériale (mai 1804-avril 1814)" dans la Revue du souvenir napoléonien n°371.
+
+## L’absence d’économie de guerre
+
+Contrairement à ce que l’on pourrait imaginer au premier abord, durant la période napoléonienne, la France connaît une activité économique quasi normale, en dépit de l’état de conflit presque permanent et du blocus britannique. Certes, la disparition des relations avec l’outre-mer et le blocus de la Royal Navy se traduisent par des restrictions, notamment quant aux denrées coloniales (au premier rang desquelles le sucre). Mais, par ailleurs, la capacité de la France à se suffire grâce à ses ressources propres ou à celles du continent est une réalité. De plus, la levée de conscrits constitue une solution à la pression démographique héritée des dernières années de l’Ancien Régime et de la Révolution. Dégageant, financièrement parlant, des bénéfices (au moins jusqu’en 1807), la guerre elle-même ne perturbe pas réellement les domaines agricole ou manufacturier. La production de houille a doublé par rapport à 1789, celle de fer, de fonte ou d’acier est en forte croissance, malgré un prix de revient très supérieur à celui des entreprises anglaises. Il faut attendre les mesures du premier trimestre 1813, qui orientent une grande partie de la fabrication vers la demande militaire, pour que se dessine le passage à une économie de guerre, afin de réparer le désastre de la campagne de Russie. Il demeure pour autant difficile de parler à ce moment-là de mobilisation économique totale, contrairement à la période révolutionnaire, lorsque la Convention avait décrété la levée en masse. Toutefois l’Empire s’avère incapable, en quelques mois, de restructurer son appareil de production. En avril 1814, la première abdication sonne le glas de cette tentative, si bien que la fourniture d’armes et de munitions s’est essentiellement effectuée dans un cadre qui avait conservé, durant les 16 derniers mois du régime, les mécanismes et les habitudes du temps de paix.

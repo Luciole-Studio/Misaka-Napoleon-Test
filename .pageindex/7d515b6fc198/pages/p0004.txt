@@ -1,0 +1,58 @@
+
+
+【文献推断：Todorov】改革若削减受封者收益，王国须赔偿；这把反领主改革与财政负担直接联结。其机制比简单“宫廷奢侈导致穷困”更值得 C8 采用。
+
+**Q-W5，p.4，税负争议段：**
+> “This increase did not affect all social classes equally.”
+
+【文献推断：Todorov 对 Mustafa 的批评】Mustafa 所述税负增幅存在计算、免税特权取消及旧税废止的口径争议。因本次未查 Malchus 原表，不将书评内相互竞争的百分比任何一个冻结为事实。
+
+**Q-W6，段首“Neither the predicted”（PDF正文 p.4以后；本次未精确对页）：**
+> “Westphalia was simply occupied by the regular forces of the Sixth Coalition victorious at Leipzig.”
+
+【文献推断：Todorov】他反对以自发普遍叛乱和内部自行崩溃解释终结，强调军事占领与行政持续；这是对“财政过载必致立即瓦解”的重要反证，而非证明财政压力不存在。
+
+**对立解释，须明确转引：**
+- Mustafa 的“掠夺国家”解释及 Berding 关于军事财政索取损害支持的论点：本次均**转引自 Todorov**，不可伪装独立读过三位作者。
+- Todorov：领土、阶层与前政权比较不能省略；征兵逃亡、行政参与及终结方式要分地区核对。书评措辞尖锐，不以其态度代替逐项验证。
+
+**R / 待查原材料：**Malchus, *Ueber die Verwaltung der Finanzen des Königreichs Westphalen*, Stuttgart: Cotta, 1814, pp.62–63（Todorov 注6）。前财政大臣的事后说明带自辩性质，本次未读，不能当 contemporaneous 决算。Hessian Archives 数字卷 https://arcinsys.hessen.de/arcinsys/digitalisatViewer.action?detailid=v1473360 （Todorov 注7）本次未打开原页，不声称复算其逃亡兵数字。
+
+## 5. Broers 内外帝国模型：找到公开学术正文，但抓取尾部需警惕
+
+### 5.1 已取得的主要文本
+
+Michael Broers, “A Turner thesis for Europe? the frontier in Napoleonic Europe”, *Napoleonica. La Revue*, 2009/2, no.5，起页157。
+
+- DOI：https://doi.org/10.3917/napo.092.0157
+- 期刊全文入口：https://shs.cairn.info/journal-napoleonica-la-revue-2009-2-page-157?lang=en&tab=texte-integral
+- 已打开期刊页：https://shs.cairn.info/revue-napoleonica-la-revue-2009-2-page-157?lang=en
+- 本地主要正文：`downloads/pages/6ca335048c90.md`；期刊入口抓取：`downloads/pages/91c9e40248c0.md`。
+- 状态：取得远超摘要的公开学术正文，已读核心论证和正文后段；**抓取文本尾段有断句和脚注错位，未对校分页 PDF，不宣称保存了无缺字整篇**。期刊入口另一次抽取仅返回 excerpts，两次结果不能混称完整原件。
+
+**Q-B1，正文段首“If not yet specifically nationalist”，引无 OCR 缺损片段：**
+> “spheres defined less by the amount of time the French ruled them, than the degree to which they were pacified and, most importantly, than the degree to which their elites accepted French public institutions and acculturated to their public mores.”
+
+【文献推断：Broers】内/外帝国的主要界线是平定程度、尤其精英对法国公共制度与公共行为规范的接受/涵化程度，不是兼并年数、是否直接领土或民族边界。
+
+**Q-B2，段首“In common with the evolution”：**
+> “Broadly, western Germany and northern Italy began as 'frontier' regions, but were eventually acculturated”
+
+【文献推断：Broers】分类有时间性，不是把各民族永久安置于“可治理/不可治理”两类。此处为宽泛模型，不应压平其意大利研究强调的地方差异。
+
+**Q-B3，讨论 Turner 对心脏地区影响的段落：**
+> “As it strove for an authoritarian, barely consultative monarchy in the inner empire, it still had to cultivate and tolerate revolutionary elements on its borders, and heed its revolutionary roots.”
+
+【文献推断：Broers】内圈保守整合与边缘激进改革并存；边疆不仅受巴黎影响，也反过来保存并激化帝国干部的革命使命感。
+
+**Q-B4，对类比范围的限制，段首“The two political cultures”，句中节引：**
+> “are not comparable, nor do I propose to pursue a path precluded by no less a thinker than Tocqueville.”
+
+【文献推断：Broers】作者明确不把美国民主政治文化与拿破仑法国政治文化等同；借用的是边疆对中心的反馈问题，而不是宣称两个帝国制度相同。
+
+【裁量；高置信度】C8 宜用“军事占有≠精英涵化≠社会接受”检验四案；不能用模型本身证明任一具体地区必然反抗。荷兰案例尤其说明地方制度整合也可能与帝国战略目标冲突，不应看到反抗便循环论证其属于“外帝国”。
+
+### 5.2 仅发现、未取得整篇的相关文献
+
+- Broers, “Napoleon, Charlemagne, and Lotharingia: Acculturation and the Boundaries of Napoleonic Europe”, *Historical Journal* 44(1), 2001, pp.135–154，DOI https://doi.org/10.1017/S0018246X01001704 。本次检索仅见摘要/元数据，不声称全文已读。
+- *The Napoleonic Empire in Italy, 1796–1814*（2005）公开试读 PDF：https://content.e-bookshelf.de/media/reading/L-420348-789ed2688d.pdf 。仅检索定位，不能充作全书全文或本次已读证据。

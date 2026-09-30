@@ -1,0 +1,337 @@
+{
+  "purpose": "Arithmetic, file structure and literal locator checks only; not proof of historical/model validity",
+  "checks": [
+    {
+      "check": "16 unit headings",
+      "pass": true
+    },
+    {
+      "check": "29 dated timeline rows with evidence/confidence",
+      "pass": true
+    },
+    {
+      "check": "8 policy rows",
+      "pass": true
+    },
+    {
+      "check": "no unresolved template placeholder",
+      "pass": true
+    },
+    {
+      "check": "7 complete new annual observations",
+      "pass": true
+    },
+    {
+      "check": "capacity 479 rows",
+      "pass": true
+    },
+    {
+      "check": "16 paired responses",
+      "pass": true
+    },
+    {
+      "check": "W/low/1815 I<=A12<=H",
+      "pass": true
+    },
+    {
+      "check": "W/low/1820 I<=A12<=H",
+      "pass": true
+    },
+    {
+      "check": "W/low/1825 I<=A12<=H",
+      "pass": true
+    },
+    {
+      "check": "W/low/1830 I<=A12<=H",
+      "pass": true
+    },
+    {
+      "check": "W/high/1815 I<=A12<=H",
+      "pass": true
+    },
+    {
+      "check": "W/high/1820 I<=A12<=H",
+      "pass": true
+    },
+    {
+      "check": "W/high/1825 I<=A12<=H",
+      "pass": true
+    },
+    {
+      "check": "W/high/1830 I<=A12<=H",
+      "pass": true
+    },
+    {
+      "check": "P/low/1815 I<=A12<=H",
+      "pass": true
+    },
+    {
+      "check": "P/low/1820 I<=A12<=H",
+      "pass": true
+    },
+    {
+      "check": "P/low/1825 I<=A12<=H",
+      "pass": true
+    },
+    {
+      "check": "P/low/1830 I<=A12<=H",
+      "pass": true
+    },
+    {
+      "check": "P/high/1815 I<=A12<=H",
+      "pass": true
+    },
+    {
+      "check": "P/high/1820 I<=A12<=H",
+      "pass": true
+    },
+    {
+      "check": "P/high/1825 I<=A12<=H",
+      "pass": true
+    },
+    {
+      "check": "P/high/1830 I<=A12<=H",
+      "pass": true
+    },
+    {
+      "check": "W/low/1815:standing package",
+      "pass": true
+    },
+    {
+      "check": "W/low/1820:standing package",
+      "pass": true
+    },
+    {
+      "check": "W/low/1825:standing package",
+      "pass": true
+    },
+    {
+      "check": "W/low/1830:standing package",
+      "pass": true
+    },
+    {
+      "check": "W/high/1815:standing package",
+      "pass": true
+    },
+    {
+      "check": "W/high/1820:standing package",
+      "pass": true
+    },
+    {
+      "check": "W/high/1825:standing package",
+      "pass": true
+    },
+    {
+      "check": "W/high/1830:standing package",
+      "pass": true
+    },
+    {
+      "check": "P/low/1815:standing package",
+      "pass": true
+    },
+    {
+      "check": "P/low/1820:standing package",
+      "pass": true
+    },
+    {
+      "check": "P/low/1825:standing package",
+      "pass": true
+    },
+    {
+      "check": "P/low/1830:standing package",
+      "pass": true
+    },
+    {
+      "check": "P/high/1815:standing package",
+      "pass": true
+    },
+    {
+      "check": "P/high/1820:standing package",
+      "pass": true
+    },
+    {
+      "check": "P/high/1825:standing package",
+      "pass": true
+    },
+    {
+      "check": "P/high/1830:standing package",
+      "pass": true
+    },
+    {
+      "check": "package P0 arithmetic",
+      "pass": true
+    },
+    {
+      "check": "package A_low arithmetic",
+      "pass": true
+    },
+    {
+      "check": "package A_high arithmetic",
+      "pass": true
+    },
+    {
+      "check": "package W_low arithmetic",
+      "pass": true
+    },
+    {
+      "check": "package W_high arithmetic",
+      "pass": true
+    },
+    {
+      "check": "package E arithmetic",
+      "pass": true
+    },
+    {
+      "check": "year1803:line classifications",
+      "pass": true
+    },
+    {
+      "check": "year1804:line classifications",
+      "pass": true
+    },
+    {
+      "check": "year1805:line classifications",
+      "pass": true
+    },
+    {
+      "check": "year1806:line classifications",
+      "pass": true
+    },
+    {
+      "check": "year1807:line classifications",
+      "pass": true
+    },
+    {
+      "check": "year1808:line classifications",
+      "pass": true
+    },
+    {
+      "check": "year1809:line classifications",
+      "pass": true
+    },
+    {
+      "check": "year1810:line classifications",
+      "pass": true
+    },
+    {
+      "check": "year1811:line classifications",
+      "pass": true
+    },
+    {
+      "check": "year1812:line classifications",
+      "pass": true
+    },
+    {
+      "check": "year1813:line classifications",
+      "pass": true
+    },
+    {
+      "check": "year1814:line classifications",
+      "pass": true
+    },
+    {
+      "check": "year1815:line classifications",
+      "pass": true
+    },
+    {
+      "check": "14 bounded quotations located",
+      "pass": true
+    }
+  ],
+  "quote_checks": [
+    {
+      "key": "H13",
+      "path": "downloads/pages/3b214d7b54fb.md",
+      "quote": "If we suddenly disbanded, it would not be so easy a task, on an emergency, to recal our seamen",
+      "whitespace_normalized_match": true
+    },
+    {
+      "key": "H15",
+      "path": "downloads/pages/156d03703582.md",
+      "quote": "that expense now incurred for our armies would cease",
+      "whitespace_normalized_match": true
+    },
+    {
+      "key": "H17",
+      "path": "downloads/pages/245fa51bae26.md",
+      "quote": "The number of men which he had to propose was 19,000",
+      "whitespace_normalized_match": true
+    },
+    {
+      "key": "H20",
+      "path": "downloads/pages/7aa4f576eb19.md",
+      "quote": "23,000 men be employed for the sea service",
+      "whitespace_normalized_match": true
+    },
+    {
+      "key": "H21",
+      "path": "downloads/pages/95e29ff1c015.md",
+      "quote": "with the prospect of a long peace",
+      "whitespace_normalized_match": true
+    },
+    {
+      "key": "H30",
+      "path": "downloads/pages/597653e3e3aa.md",
+      "quote": "our naval force must partly depend upon that of other powers",
+      "whitespace_normalized_match": true
+    },
+    {
+      "key": "RMG-I",
+      "path": "downloads/pages/1b22dbe49e2a.md",
+      "quote": "After 1815, though not abolished, it was not used.",
+      "whitespace_normalized_match": true
+    },
+    {
+      "key": "RMG-M",
+      "path": "downloads/pages/2d8d72a79507.md",
+      "quote": "16 ships-of-the-line",
+      "whitespace_normalized_match": true
+    },
+    {
+      "key": "A-p356",
+      "path": "downloads/pages/f9c908249692.md",
+      "quote": "exports from British North America jumped from 4,442 to 16,729",
+      "whitespace_normalized_match": true
+    },
+    {
+      "key": "A-p368",
+      "path": "downloads/pages/f9c908249692.md",
+      "quote": "only one cargo of teak had reached England",
+      "whitespace_normalized_match": true
+    },
+    {
+      "key": "D-n50",
+      "path": "downloads/pages/b92bac3d423e.md",
+      "quote": "Albion's tendency to exaggerate shortages should be noted however.",
+      "whitespace_normalized_match": true
+    },
+    {
+      "key": "FR2",
+      "path": "downloads/pages/6864746209f3.md",
+      "quote": "Si les deux vaisseaux restent à Malamocco sans pouvoir sortir",
+      "whitespace_normalized_match": true
+    },
+    {
+      "key": "J23",
+      "path": "downloads/pages/c2105af935e9.md",
+      "quote": "The Nelson not having yet been at sea",
+      "whitespace_normalized_match": true
+    },
+    {
+      "key": "BJ",
+      "path": "downloads/pages/71106f9334bc.md",
+      "quote": "it will require the whole of the force now with me to equip and navigate them to England",
+      "whitespace_normalized_match": true
+    }
+  ],
+  "all_pass": true,
+  "report_bytes": 50999,
+  "timeline_rows": 29,
+  "model": "No regression, no fitted parameters, no battle simulation",
+  "limits": [
+    "annual1806-15 not image collated",
+    "no complete hemp/copper balance",
+    "A12 has no observed recall/repair schedule",
+    "budget conflicts preserved"
+  ]
+}

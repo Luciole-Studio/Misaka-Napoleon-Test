@@ -1,0 +1,40 @@
+
+
+economy had developed. The ledgers provide annual summaries of bilateral exports, 
+imports, and re-exports as well as annual outflows of gold and silver. Thus, a secondary 
+objective of the original data collection was to use the balance of trade as a key indicator 
+of the performance of the British economy and to measure net bullion flows which were a 
+potential objective of economic policy. 
+The ledgers contain a line-by-line account of Britain’s bilateral, commodity-level trade 
+flows with all locations in the rest of the world. We have every reason to believe that 
+they capture the full population of British trade flows as the correspondence between our 
+data and values reported in older sources is nearly perfect. For example, the correlation 
+between aggregate exports by year from Mitchell (1962) and the equivalent figures derived 
+from the ledgers is >0.99 for the period from 1700 to 1899. Similarly, the cumulative 
+reported values for aggregate exports taken from the two sources are 1.40 and 1.41 billion 
+pounds, respectively. 
+The ledgers are, however, presented in an inconsistent welter of detail. In some years, 
+they distinguish between trade with London versus “outports”, trade carried out on British 
+versus foreign ships, and/or the trade of sub-national units like England versus Scotland. 
+There are also changes over time with respect to the reporting unit: thus, trade flows are 
+captured for England and Wales up to 1780, for Great Britain up to 1830, and for the 
+United Kingdom up to 1899.2 
+
+The ledgers are the source for classic studies of British trade such as Schumpeter (1960). However, this pioneering work was mostly concerned with computing aggregate trade statistics, reflecting the scholarly interest of the period in macroeconomic aggregates as well as technological constraints on data storage. Consequently, despite the tremendous time and effort which was expended on compiling and aggregating these statistics, most
+
+2In 1790 England accounted for 95% of all British exports. In 1840, England accounted for 90% of all UK exports.
+
+of the related figures gave little sense of the important shifts in the commodity-by-country 
+composition of British trade which occurred over this period. 
+A notable advance came with the lifelong work of Ralph Davis, summarized in Davis 
+(1979). In this slim but dense volume, Davis details British exports and imports using a 
+classification scheme of 17 commodity groups across 15 geographical areas at ten-year 
+intervals from 1785 to 1855.3 This is one of the only attempts to provide early British 
+trade data at anywhere near the commodity-country level, with most studies reporting 
+total trade figures for a particular commodity or a particular geographic area, but not their 
+cross-tabulation. Our project is thus a continuation of – and hopefully an improvement on 
+– the path-breaking work of Davis as no further systematic evidence has been disseminated 
+at this level over the past five decades. 
+Our first objective was to digitize the export ledgers at ten-year intervals from 1700 to 
+1899.4 However, in any project like this there are a number of caveats regarding the data 
+which should be addressed head-on: 

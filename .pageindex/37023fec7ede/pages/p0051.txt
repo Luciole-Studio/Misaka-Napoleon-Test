@@ -1,0 +1,42 @@
+H      Lacuée’s plan
+In this appendix, we provide evidence that Lacuée’s classification of departments
+for purposes of conscription policy was correlated with their average terrain rugged-
+ness. Table 29 shows the result of four logistic regressions, using different set of
+controls, for the probability that Lacuée classified a department as above average in
+its population’s resistance to conscription. The coefficient for the natural logarithm
+of terrain ruggedness is consistently positive and statistically significant across all
+four specifications. Figure 13 provides a graphical representation of the results from
+column 3 in table 29 and shows a clear positive relationship between a department’s
+terrain ruggedness and the probability that it was put by Lacuée in either groups 4
+or 5 of his classification of France’s departments.
+
+              Table 29: Logistic regression of Lacuée classification choice
+
+Note: This table displays the logistic regression of Group 4&5 on geographic variables. Group
+4&5 is a categorical variable equal to 1 when a department is part of group 4 or 5 (that is one of
+the departments which, according to Lacuée, was least amenable to conscription) and equal to 0
+otherwise.
+
+           Group 4&5                         (1)              (2)              (3)
+           Log of ruggedness              0.53729           0.55468         1.66021
+                                        (0.20258)∗∗∗     (0.27046)∗∗     (0.71687)∗∗
+           Townships density                               -25.6083         -37.0362
+                                                        (8.29329)∗∗∗       (24.1940)
+           Exemption rate                                 0.093053          0.24327
+                                                        (0.036736)∗∗    (0.081956)∗∗∗
+           Maritime                                         1.41314          2.35585
+                                                        (0.53882)∗∗∗      (1.32795)∗
+           Border                                         0.085358           6.61611
+                                                          (0.76750)      (2.48340)∗∗∗
+           Urbanization rate                                                -3.79521
+                                                                           (5.39538)
+           Tax revenues per capita                                              X
+           Literacy                                                             X
+           Agricultural sector                                                  X
+           Height                                                               X
+           Observations                  111           107                      74
+                          Robust standard errors in parentheses
+                             *** p<0.01, ** p<0.05, * p<0.1
+
+
+                                               51

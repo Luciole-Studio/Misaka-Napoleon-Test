@@ -1,0 +1,45 @@
+Shipment 1                5000       560000
+Shipment 2                8000       896000
+Extra                     1563       175056
+
+Total Sent                           1631056
+
+
+Apt;l 1811 - March 1812
+
+Month                     No. Men    No. Rations
+
+April 1811                *
+May 1811                  *
+June 1811                 *
+July 1811                 *
+August 1811               *
+September 1811            *
+October 1811              13700      424700
+November 1811             13500      405000
+December 1811             5600       173600
+January 1812              5600       174282
+February 1812             2220       61600
+March 1812                2220       68200
+
+Total Needed                         1307382
+
+
+Delivery                  No. Bags   No.lbs
+
+Shipment 1                5500       616000
+Shipment 2                6600       739200
+
+Total Sent                           1355200
+
+
+April 1812 - March 1813
+
+Month                     No. Men    No. Rations
+
+April                     *
+May                       *
+June                      *
+July                      *
+August                    *
+                                                   283

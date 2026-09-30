@@ -1,0 +1,43 @@
+
+
+### C1797　西班牙人口册（西班牙语）
+Censo de la población de España de 1797，INE重刊第1卷。
+- https://ine.es/prodyser/pubweb/censo_godoy/Censo_Godoy_T1.pdf ；`downloads/f2_censo_godoy1797.pdf`，doca51f8174831e，52页。核PDF3页ADVERTENCIAS（图像）、统计表结构与末页勘误；总数10,541,221，序言承认担心税负造成不足。
+- 用作1810/1811的滞后总人口代理，含非全部法军实控地区，故密度不是严格受控人口率。1100万是另设近似分母，不冒称1811普查。
+
+### P08　1808征1809级文书（同期英译，经网站）
+“Decree for raising Conscripts”，网页日期January23,1808，Annual Register for1808文书转录。
+- https://www.napoleon-series.org/research/government/legislation/c_conscription.html ；`downloads/pages/97294cdeb4b6.md`。实读条1–3及书目，未核Annual Register原刊。
+- 原句：“Eighty thousand conscripts of the conscription of the year 1809 are placed at the disposal of government.” 授权≠到营。与LAV的1月21日日期差保留。
+
+### P10　1810-01-30战争行政会议口授（法语）
+“Notes dictées en Conseil d’administration de la guerre”，Palais des Tuileries,30janvier1810。
+- https://napoleon-histoire.com/correspondance-de-napoleon-ier-janvier-fevrier-mars-1810/ ；`downloads/pages/df27e5314cf3.md` L1576–1632；书信集网站转录，未核手稿。
+- 原句：“Le budget de l’armée d’Illyrie sera réglé sur la base de 4 millions pour le ministère de la guerre, et de 8 millions pour le ministère de l’administration de la guerre, sans y comprendre la gendarmerie, les régiments frontières, etc.”
+- “Le budget de l’armée d’Italie ne doit pas dépasser 30 millions.” 命令与费用上限非实际到营/实支。
+- “l’intention de Sa Majesté est de dépenser au delà des Alpes tout ce que l’on en retire.” 支持本地养驻军而非当地收入全是净汇巴黎。
+- 8步兵团各2营，140人连额含医院；网页“1.7m＋36m＝53m”前项疑17m，以合计校勘但不把疑字视作新观察。
+
+### P10J　1810-07-26罗马财政会议口授（法语）
+“Dictée en Conseil d’administration sur les finances des départements de Rome et du Trasimène”，Saint-Cloud,26juillet1810。
+- https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1810/ ；`downloads/pages/82a063e7e022.md` L1971–2135，重点2111–2135。
+- 表：“Guerre et administration de la guerre…350,000,000”；“Marine100,000,000”；Total496,500,000。按3700万人分摊主权费用的分析，不是军两部实支；37m为文书采用的人口，非本卡新普查。
+- 旧法国30m＋内圈7m仅是模型分账代理，不能据这一差额识别具体省份人口。罗马/托斯卡纳/皮埃蒙特预算须逐项处理，支持不能只数新增人口。
+
+### P11　1811征兵建议第二稿（法语）
+“Projets de Décrets Relatifs à la Conscription de1811”，Section de la guerre，Dumas报告，2e rédaction。
+- https://www.napoleon-series.org/military-info/organization/France/Conscription/1811/c_conscripts1811.html ；`downloads/pages/43dacbcb242e.md`。实读全部条1–9。
+- 条1：“quatre-vingt mille seront mis en activité ; le reste formera la réserve.” 前文12万授权引自1810-12-13。条2沿海与部分荷兰征额归海军；条8首批拟4月1出发。
+- 这是草案，非最终执行结果；不填8万实到。
+
+### P13　1813-04-04致贝特朗（法语）
+Napoléon致General Bertrand，Paris,4avril1813。
+- https://napoleon-histoire.com/correspondance-de-napoleon-avril-1813/ ；`downloads/pages/ce0b4d346986.md` L248–258。
+- 原句：“Comme on ne peut pas vous fournir des sous-lieutenants…pourvoyez à toutes les places, puisque vous avez des sous-officiers; n’attendez rien du ministre pour les grades inférieurs…” 抓取断词空格已连接。
+- 同信要求骡马、军服、工兵等，支持干部与配套缺口；命令不证明补齐已成事实。
+
+### LAV　旧综合史连续授权表（法语，降格）
+Histoire de France contemporaine,TomeIII,LivreIV,ChapitreI,“L’armée impériale”，网站归Lavisse；卷作者/纸页未对校。
+- http://www.mediterranee-antique.fr/Auteurs/Fichiers/JKL/Lavisse/Histoire_contemporaine/T3/T3_41.htm ；`downloads/pages/fb00e45c56a7.md`。实读军队节前三段及定义。
+- 原警句：“L’effectif des levées ordonnées représentait moins le résultat réalisé que l’effort demandé.”
+- 1803–13授权序列保存为来源陈述；文内有明显年份转录错误，故不用于补充模型估计，不当实到序列；1814缺，不填零。

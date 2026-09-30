@@ -1,0 +1,46 @@
+---
+source_url: "https://napoleon-histoire.com/correspondance-de-napoleon-ier-octobre-1811/"
+final_url: "https://napoleon-histoire.com/correspondance-de-napoleon-ier-octobre-1811/"
+provider: "exa"
+text_sha256: "c40c7ef06fc82e21122bc8969ce7d7abdb35544db1d6f7e62cf0262b98264518"
+title: "Correspondance de Napol\u00e9on Ier - Octobre 1811 - Histoire du Consulat et du Premier empire"
+content_kind: "page_text"
+---
+
+Correspondance de Napoléon Ier - Octobre 1811 - Histoire du Consulat et du Premier empire
+
+Histoire du Consulat et du Premier empire
+
+## Pahlen Pavel Petrovitch
+
+8 novembre 2021
+
+## Mikhailovsky-Danilev Alexander Ivanovich
+
+8 novembre 2021
+
+## Pozzo di Borgo Charles André
+
+7 novembre 2021
+
+## Kamensky, Sergei Mikhailovich
+
+7 novembre 2021
+
+# Correspondance de Napoléon Ier – Octobre 1811
+
+Anvers, 1er octobre 1811.
+
+Au général Clarke, duc de Feltre, ministre de la guerre, à Paris
+
+Le général Clarke
+
+Monsieur le Duc de Feltre, je réponds à votre lettre du 28 sep­tembre [1]bureau de l’artillerie . J’ai vu avec intérêt le projet de plate­forme des batteries à plaque. Il faudrait ordonner que dans une batterie de six mortiers le heurtoir ne fût pas placé partout de même, de sorte que la ligne de tir variât d’un certain nombre de degrés, et qu’un commandant de batterie put tirer l’un ou l’autre mortier, selon qu’il aurait à tirer d’un coté ou de l’autre, et conserver ainsi dans tous les cas l’avantage de faire tirer dans la ligne du tir. Aujourd’hui on a l’habitude de faire placer la plate-forme parallèlement, de sorte que, pour faire tirer à 15 degrés, à droite ou à gauche, il faut placer le mortier en écharpe, inconvénient qui peut être évité par la précau­tion que je viens de prescrire. En effet, la plate-forme tirant sur des vaisseaux, qui sont des objets mobiles, il n’y a pas de raison pour leur donner à tous une même direction. L’artillerie fera une instruction qui fera connaître de combien de degrés on peut varier la posi­tion du heurtoir dans une batterie de mer. A cette observation il faut en joindre une autre, c’est que je pense que la plate-forme ne doit pas être un parallélogramme, mais un trapèze. En effet, si l’on devait tirer dans la ligne de tir perpendiculairement au heurtoir, un paral­lélogramme serait convenable; mais, puisqu’on doit pouvoir tirer à 15 ou 20 degrés à droite et à gauche, la forme d’un trapèze est préférable; de sorte que les lambourdes, au lieu d’être égales, seront toutes inégales, et je serais porté à penser que la dernière lambourde devrait être double de la première. Faites faire un mémoire là-dessus par des officiers d’artillerie, car ils savent tous par expérience qu’en tirant à droite ou à gauche de la plate-forme le recul jette le mortier hors de la plate-forme; ce qui ne serait pas si cette plate-forme était un trapèze.
+
+Anvers, 2 octobre 1811
+
+Le vice-amiral Decrès
+
+Au vice-amiral comte Decrès, ministre de la marine, à Paris
+
+Monsieur le Comte Decrès, j’ai sur le chantier treize vaisseaux, deux sont pour le compte de cette année; il n’en reste donc plus que onze; sur ces onze, il m’en faut six pour l’année prochaine il me reste plus que cinq ; ce qui ne peut me fournir les six vaisseau de 1813. D’ailleurs mon intention serait de construire chaque année huit vaisseaux au lieu de six. En effet, je m’étais contenté de six parce que je craignais la difficulté des équipages; mais huit équipages hollandais sont tout prêts, et en changeant mes projets sur la flottille de Boulogne j’y trouverais au moins la valeur de six équi­pages. Je désirerais donc, s’il était possible, voir mettre à l’eau demain les deux vaisseaux qui sont prêts et les faire remplacer sur-le-champ par deux vaisseaux de 80 : cela aurait aussi le bon effet de deux vaisseaux lancés en ma présence.

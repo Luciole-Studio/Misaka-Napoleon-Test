@@ -1,0 +1,17 @@
+{
+  "doc_id": "79947b265c68",
+  "title": "[t_eaa841] nodes/r_5b1357a9c6/cards/t_eaa841/P7_chronicle.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_eaa841/P7_chronicle.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_eaa841/P7_chronicle.csv"
+  ],
+  "sha256": "79947b265c687229af6012f4c589c214d6c56c00fce04368c7f70c6a79c8cde8",
+  "pages": 7,
+  "task_id": "t_eaa841",
+  "task_ids": [
+    "t_eaa841",
+    "t_20658d"
+  ],
+  "added_at": 1790184607,
+  "office_format": "csv"
+}

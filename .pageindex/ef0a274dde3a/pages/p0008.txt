@@ -1,0 +1,140 @@
+Sources: Compiled and calculated from PRO, Customs 17, 10, 11. Slight errors due to rounding. An annual seriesof unit valuesof
+Indian calicos only is given in Cuenca Esteban, 1999, p. 755.
+42
+Appendix Table 1:
+British trade with India on East India Company account excluding government flows, 1762-1812 (period averages of annual values in ,'000)
+1762- 1776- 1783- 1793- 1803-
+1775 1782 1792 1802 1812
+1. Imports CIF (sale value in London) 1754 1772 2092 3160 1977
+2. +Saltpeter (not included above) 7 8 8 10 49
+3. -Import charges in England 88 89 104 158 99
+4. -Freight and demorage 179 242 270 469 438
+5. -Marine insurance 30 105 48 83 53
+6. -Customs duties included in sale price 520 401 431 510 39
+7. -Import charges in India 60 91 105 169 143
+8. -Mercantile profits 135 -285 119 407 236
+9. =Imports "FOB India" at Indian ports 747 1135 1021 1372 1015
+10. Exports FOB (goods for sale in India) 289 262 233 373 482
+11. +Exports of three descriptions of stores 37 39 48 82 149
+12. +Export charges 3 2 4 4 6
+13. +Export customs 6 6 5 3 30
+14. +Export freight 40 41 37 66 98
+15. +Marine insurance 10 29 11 18 25
+16. +Mercantile profits -24 -27 -18 -87 -42
+17. =Exports "CIF India" at Indian ports 360 354 319 461 748
+18. Imports "FOB India"
+minus exports "CIF India" as above 387 781 701 911 267
+19. -Exports of bullion 16 11 87 213 436
+20. =Net India transfers to Britain 371 770 613 697 -169
+_________________________________________________________________
+Appendix Table 1: Sources and procedures as per numbered lines (see also Appendix text)
+1. 1762-92: BL, OIOC, Board of Control, L/AG/10/2/2, MSSp. 234 (given for 1762-95). 1793-1811: PP 1812-13, VII, pp. 487-88 or
+MSSpp. 519-20; 1812: total from Asia (PP 1813-14, IX, "Account", p. 69, Appendix 25) minusChina as in Pritchard, 1936, p. 397.
+2. 1762-1771: Annual Accounts ("Salt Petre delivered"), in Third Report (1773), pp. 40-59. 1772-1812: annual data (1793-1809) and
+relevant information in PP 1812, VI, Fourth Report, p. 500, Appendix 30 (prime cost); compare total amountsreceivable fromBoard of
+ordnance including freight etc: PP 1810-11, VII, "Annual Account", MSSp. 61; PP 1812, VI, "Annual Account",MSSp. 417; PP 1812-
+13, VIII, "Annual Account", MSSp. 405; PP 1813-14, IX, "Annual Account", MSSp. 1.
+3. 5% of line 1 above as in BL, OIOC, H/449, MSSpp. 27-37: 1788-96, and in PP 1812-13, VII, pp. 487-88 or MSSpp. 519-20 (1793-
+1811).
+4. Freight and demorage as follows minus line 14. 1793-1811: PP 1812-13, VII, pp. 487-88 or MSSpp. 519-20 ("Freight", verified to
+include demorage). 1776-92 and 1812: totals for Asia minus China breakdowns as in MacGregor, 1843-50, IV, p. 411 (Asia,1776-92);
+PP 1812-13, VIII, "Annual Account", MSSp. 405 (Asia, 1812); and Pritchard, 1936, p. 397 (China, all years).1762-75: totalsfor Asia in
+Third Report (1773), pp. 40-59 (1762-71), and in BL, OIOC, H/449, MSSp. 93, "extra wages bounty" included (1772-75); times the
+average India share in total import tonnage in 1772-75 (share calculated from a sampleof relevant importquantities in PRO, Customs 17
+and ton equivalents in Krishna, 1924, pp. 248-51).
+5. One half of insurance rates as follows times the difference between imports CIF (line 1) and customs duties (line 6). Annual insurance
+rates calculated from London Price Current (1779-89, 1796-99) and in Danson,1894 (1810-12: "East India risks");other yearsestimated
+as in Cuenca Esteban, 2001, p. 79.
+6. Customs revenue as followsminusline 13 below (the Company's customsfigures includedutieson tobaccoexports:PP 1812, VI, Fourth
+Report, p. 438, note 12). 1793-1811: PP 1812-13, VII, pp. 487-88, MSSpp. 519-20. 1776-92 and 1812: totals for Asia minus China
+breakdowns in BL, OIOC, Miscellaneous Trade Statistics, L/AG/18/2/1, MSSp. 10 (1776-80); annualaveragefromtotal for 1780-84 in
+Milburn, 1813, I, XCIII (1781-83); annual data in Milburn, ibid (1784-92 and 1812); Pritchard, 1936, p. 397 (China, all years). 1762-
+1775: line 1 times .30: the average share of customs revenue in import sales values in 1788-92 was 23.6% (calculated from BL, OIOC,
+H/449, MSSpp. 1-3); but customs rates on Indian textiles fell from 1757 (Krishna, 1924, p. 269) to 1783 (Baines, 1835, p. 324).
+7. 1783-91: BL, OIOC, H/500, MSSp. 87, commercial charges in India, "not added to the cost of the goods". 1792-1808: PP 1810-11, VII,
+Third Report, p. 393, Appendix 12. Also note statements in PP 1812, VI, Fourth Report, p. 428 (referring to data in PP 1810-11, Third
+Report as above): "not added to the invoices", "should be deemed a charge upon the goods purchased in India". Otheryearscalculated at
+7.5% of prime cost data for 1771-79 (BL, OIOC, Miscellaneous Trade Statistics, L/AG/18/2/1, MSSp. 23: "Total profit..."), and for
+1810-11 (MacGregor, 1843-50, IV, p. 411). Remaining years: 7.5% of extrapolated prime cost data as above.
+43
+8. Sale value in London (line 1) minus total cost. Total cost includes prime cost plus lines 3, 4, 5, and 6. Prime cost data (including
+charges in India) from BL, OIOC, Miscellaneous Trade Statistics, L/AG/18/2/1, MSSp. 23: 1771-79; and MacGregor, 1843-50, IV, p.
+411: 1793-1811.
+10. Prime cost in Britain of Company merchandise exports to India (PP 1812-13, VIII, "Bullion and Merchandise exported...", MSSp. 416:
+independently verified to include stores, re-exports, and export charges) minusline 11, "Naval & garrison stores"(see note 11), and line
+12.
+11. "Stores" defined in PP 1812, VI, Fourth Report, p. 504, Appendix 35 as "all exports except goods for sale" (exceptions comprising
+woollens, metals, and Madeira wine).1772-91: 96% of totals to Asia compiled from accounts in PRO, BT/6/227 & BT/6/43:"storesfor
+the factory" + "Braziers' tin and ironmongers' wares" + "Pitch, tar, wines, deals, medicines" (given "Naval & garrison stores" entered
+elsewhere);1792-1812: 99.5% of totals to Asia as for 1772-91. India shares above (96% and 99.5%): inferred from given breakdowns
+for India and China in proximate years in PRO, BT/6/42, MSSp. 34; BL, OIOC, H/500, MSSp. 83: primecost in 1783-1800; BL, OIOC,
+Miscellaneous Trade Statistics, L/AG/18/2/1, MSSp. 12: "Naval & garrison stores & goods of foreign produce", 1770-71. 1762-69:
+Prime cost of Company merchandise exports to India (see note 10) times .23 (as in breakdowns for 1772-75 in PRO, BT/6/227); results
+consistent with seven-year averages for 1763-70 and 1770-77 in PRO, BT/6/227, table in loose leaf: "The Particulars of the value..."
+(four stores-like entries plus re-exports).
+12. Charges on exports to Asia (1772-1812 compiled from accounts in PRO, BT/6/227 and BT/6/43; 1762-71 extrapolated on the linkyear
+1772 as 82% of Company's merchandise exports to India and China: see note 10) times the India shares in the export totals. The actual
+India shares for 1787-91 were calculated from China charges in PRO, BT/6/227: table in loose leaf. Note that the larger export charges
+on woollens and metals given in BL, OIOC, H/449, MSSpp. 3-5 and 10-11: 11.5% of prime cost in 1781-90) appear to involve annual
+mark-ups of 10% into invoice cost: see PP 1812, VI, Fourth Report, p. 437; PP 1810-11, VII, Third Report, p. 383, Appendix 5.
+13. See note 6 above. Tobacco and war duties. Totals on tobacco exports to Asia in 1793-1810 in PP 1812, VI, Fourth Report, p. 505,
+Appendix 37 (Table note: no separate entries were made for India and China); other annual totals calculated at 2% of Company's
+merchandise exports to India and China (see note 10); India breakdowns from India shares in Company's merchandise exports to India
+and China. Total returns of war duty (1804-12) on Asian trade compiled from accounts for Asia in PRO, BT/6/227, and BT/6/43; all
+India breakdowns calculated at 82.33% of totals (given share for 1811).
+14. Estimated as Company's merchandise exports to India (line 10) times .106 (annual average share calculated from BL, OIOC, H/449,
+MSSpp. 1-3: freight on woollens and metals, 1783-89).
+15. Company's merchandise exports to India (see note 10) times one half of insurance rates (rates as in note 5 above).
+16. Export cost (total of lines 10-15) times profit rates. Annual profit rates assumed equal to those implicit in Pritchard, 1936, p. 398 (on
+China trade); rates for 1762-74 guessed at -5 percent.
+19. "Bullion" to India in PP 1812-13, VIII, "Bullion and Merchandise exported...", MSSp. 416.
+44
+Appendix Table 2:
+"Privilege" trade with India by British commanders & officers in Company ships, 1762-1812 (period averages of annual values in ,'000)
+1762- 1776- 1783- 1793- 1803-
+1775 1782 1792 1802 1812
+1. Imports CIF (sale value in London) 94 117 498 393 554
+2. -Import charges in England 5 6 25 20 28
+3. -Freight and demorage -1 6 56 24 47
+4. -Marine insurance 2 8 8 10 15
+5. -Customs duties included in sale price 26 24 112 70 6
+6. -Import charges in India 3 6 19 14 24
+7. -Mercantile profits 9 -19 33 51 62
+8. =Imports "FOB India" at Indian ports 51 87 243 203 372
+9. Exports FOB 120 112 120 108 138
+10. +Export charges 1 1 1 1 1
+11. +Export customs 2 2 2 0 5
+12. +Export freight 13 12 13 11 15
+13. +Marine insurance 3 9 4 3 4
+14. +Mercantile profits -8 -10 -7 -15 -7
+15. =Exports "CIF India" at Indian ports 131 125 132 109 155
+16. Imports "FOB India"
+minus exports "CIF India" as above -81 -39 111 94 216
+17. -Exports of bullion 139 135 139 124 162
+18. =Net India transfers to Britain -220 -174 -27 -30 54
+______________________________________________________________
+Appendix Table 2: Sources and procedures as per numbered lines (see also Appendix text)
+1. 1762-92: BL, OIOC, Board of Control, L/AG/10/2/2, MSSp. 234; 1793-1809: PP 1812, VI, Fourth Report, p. 514, Appendix 45:
+"private trade" [i.e., privilege trade]; 1810-12: one fourth of privilege plus private imports from Asia (MacGregor, 1843-50, IV, p. 413:
+1810-11; PP 1813-14, IX, "Account", p. 69, Appendix 25: 1812).
+2. 5% of line 1 (see Appendix Table 1, note 4).
+3. Freight and demorage as follows minus line 12. 1762-92: freight and demorage on Company imports (Appendix Table 1, line 4) times
+the annual shares of privilege imports (line 1 above) in total imports (sum total of first lines in Appendix Tables 1, 2, 3); 1793-1809:
+freight on privilege trade with India and China (PP 1812, VI, Fourth Report, p. 488, Appendix 22: "private trade") times the annual
+shares of privilege imports from India in the privilege totals including China (PP 1812, VI, Fourth Report, p. 514, Appendix 45:
+"private"); 1810-12: 3% of line 1 (rate given in PP 1812, VI, Fourth Report, p. 443).
+4. One half of insurance rates (see Appendix Table 1, note 5) times the difference between privilege imports CIF (line 1 above) and
+customs duties (line 5 below).
+5. Customs revenue as follows minus line 11 below. 1762-71: 50% of total customs revenue on "privilege" trade with Asia as in Third
+Report (1773), pp. 40-59; 1772-92: Customs on Company trade (Appendix Table 1, line 6 plus line 13) times the annual ratios of
+privilege imports (line 1 above) over Company imports (Appendix Table 1, line 1);1793-1812: Customs revenueon privilege trade with
+Asia (PP 1812, VI, Fourth Report, p. 488, Appendix 22, Customs on "private" trade: 1793-1809; annual accounts in PP 1810-11, VII,
+"Annual Account", MSSp. 61; PP 1812, VI, "Annual Account", p. 417; PP 1812-13, VIII, "Annual Account", MSSp. 405: 1810-12)
+minus China breakdowns in Pritchard, 1936, p. 398.
+6. 7.5% of estimated import values in India: privilege imports CIF (line 1) over Company importsCIF (Appendix Table 1, line 1) timesthe
+prime cost of Company imports (BL, OIOC, Miscellaneous Trade Statistics, L/AG/18/2/1, MSSp. 23: 1771-79; MacGregor, 1843-50,
+IV, p. 411: 1793-1811).
+7. Sale value in London (line 1) times the Company's profit rates implicit in Appendix Table 1, lines 1 and 8.
+9. 1784-90: BL, OIOC, European MSS. D281, MSSp. 21 overleaf: "estimated... on the tonnage and value exported"; compare almost
+45
+matching figures in BL, OIOC, H/449, MSSp. 7. 1762-71 and 1791-1810: Each Company ship sailingto Cantonwassaid to carry ,5

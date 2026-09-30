@@ -1,0 +1,29 @@
+# notes_torrente_venezuela_plata.md — Mariano Torrente,《Historia de la revolución hispano-americana》tomo I（Madrid: Moreno, 1829–30）
+
+本地全文：`downloads/SA_Torrente_HistRevHispanoAmericana.txt`（archive.org `bub_gb_O95tMV_Ry9EC` djvu.txt，1,349,305 bytes，sha256 08e08784…；doc 08e087849c8b）。
+**来源性质**：Torrente 是西班牙保王派官员／作家，1829 年出版，立场明确敌视独立运动，且成书于事后。**因此其判断须作"保王派回溯性证词"处理**；但其对兵力构成、事件顺序与社会成分的陈述可与英方文书、秘鲁档案研究交叉。OCR 质量中等（西语旧体＋扫描噪声），引文按所见抄录。
+
+## 1. 法国 1808 年对南美的两次官方接触（本卡"法国介入能力"的直接锚点）
+
+### 1.1 加拉加斯：1808-07-15（印 p.55 附近；txt 行 9925–9950）
+- 【事实·亲读】"llegaron en 15 de julio de 1808 las primeras noticias de la revolución de la Península **por una fragata de guerra inglesa, i por un bergantín francés que traía á su bordo dos Comisionados con instrucciones para hacer reconocer á José Napoleón por Rei de España i de las Indias**. Reunida la Audiencia con otras varias personas de la mayor distinción para deliberar sobre un asunto de tanta gravedad, se resolvió **la jura del Soberano legítimo, i el desprecio de las órdenes del intruso**."
+  → 英法两条消息在**同一天**抵达加拉加斯；当地最高法院与显贵当场选择费尔南多七世。法国专使的全部成果 = 零。
+- 【事实·亲读】随即"salió la turbulenta juventud de Caracas á dar gritos descompasados por las calles"，Torrente 判定这些以拥费尔南多为名的骚动"encerraban ocultamente el sutil veneno de escitar, i conmover las masas"。
+- 【事实·亲读】1808-07-28 市政会（ayuntamiento）请求"la creación de una junta gubernativa en nombre de S. M."，代理总司令 Juan de Casas 一度同意并令其起草章程，后因 Audiencia 巡按使 Mosquera y Figueroa 等抗议而中止。
+  → **机制**：法国威胁本身成为克里奥尔自治要求的合法外衣（"以保卫领地免受法国影响之名"）。这条机制对反事实极重要：**法国越是显形介入，西属美洲的自治-独立机器越获得正当性**。
+
+### 1.2 布宜诺斯艾利斯／蒙得维的亚：1808-08-13（印 pp.20–21；txt 行 8455–8500）
+- 【事实·亲读】1808-07-14 Amigo Fiel 号抵蒙得维的亚、07-25 Santo Cristo del Grao 号带来 04-10 王室敕令，令宣誓效忠费尔南多七世；蒙得维的亚总督 Elío 宣告并定 08-12 举行宣誓仪式；副王利涅尔斯却将仪式**推迟**，直到"la llegada en el día 13 de **Mr. Sassenay, emisario de Napoleón para hacer reconocer por Rei de España i de las Indias á su hermano José**"迫使其提前完成，仪式于 21 日"con la mayor pompa i solemnidad"举行。
+- 【事实·亲读】随后塞维利亚洪塔特使 Goyeneche 准将抵达，"con las mas amplias facultades… para sostener la Soberanía de Fernando VII en América"。
+- 【事实·亲读】**利涅尔斯因法国血统而失信**："El origen francés del virei Liniers, la proclama que éste dio á luz con fecha de 15 del citado agosto, reputada entre muchos por sospechosa; la suspensión de la jura por algunos días… i el mando de las tropas que confió… á su hermano el conde Liniers, hicieron creer al benemérito gobernador Elío, que el virei no tenia todo el carácter i virtudes necesarias"。
+- 【事实·亲读】冲突升级：Audiencia、市政团体、主教与主要当局议决传唤 Elío 到布城；Elío 与蒙得维的亚市政会抗辩；副王径自罢免 Elío 改任 Michilena；蒙得维的亚居民抗议并**议决创设洪塔**（1808-09）。
+  → **判定（本卡）**：南美第一个洪塔是**保王派的、反法的**，其直接触发因素正是一名法国使者的到来与一位法裔副王的犹豫。**法国的任何显性介入在 1808 年的南美都是"反向杠杆"**。
+- 【事实·亲读】1808 年 4 月起，巴西的卡洛塔·华金娜公主开始展布其保护拉普拉塔诸省"para arrebatarlas del poder de la Francia"的主张（Carlotismo 的开端）。
+
+## 2. 米兰达 1806 年远征的实绩（印 p.54–55；txt 行 9866–9915）
+- 【事实·亲读】1806 年远征规模："una fragata i dos corbetas mercantes"；8 月初出现在距 Puerto Cabello 六里格的 Ocumare 外海；西方巡逻舰出击，**仅护卫舰一艘逃脱**，两艘纵帆船被俘；被俘的"aventureros"中的军官被迅速绞死，米兰达的大批传单与其画像由刽子手在加拉加斯大广场焚毁，缴获的武器被装备转入王室财库。
+- 【事实·亲读】米兰达随后**以 400 人登陆科罗**；当地指挥官 Salas 无兵可守，撤往山区，"reunió una fuerza igual á la de los espedicionarios, **compuesta la mayor parte de Indios**"，以这支临时部队将米兰达逐出城并在半途的河边击溃，迫其仓促再登船。
+- 【事实·亲读】情报速度：科罗至加拉加斯 160 里格的消息传递用了**四天半**。
+- 【事实·亲读】西方动员：Vasconcelos 将军率 Reina 第二营、固定营与两营民兵出动，途中在阿拉瓜谷补足兵员；行至瓦伦西亚即得知米兰达已被逐出。
+  → **判定**：1806 年"外来解放者＋本地响应"的模型在委内瑞拉**实测失败**；反而是**印第安人组成的临时部队**替国王赶走了解放者。这与 Popham 1803 情报中"印第安人是政府天敌"的假设直接冲突（见 notes_castlereagh_vol7_b §1）。
+- 【事实·亲读】Torrente 认为转折点是 Vasconcelos 将军 1807 年 10 月去世："marcó la época fatal del desarrollo revolucionario"（保王派的人事偶然论，须标为其解释而非事实）。

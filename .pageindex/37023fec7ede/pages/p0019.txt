@@ -1,0 +1,44 @@
+ruggedness and its natural logarithm when using the newly calculated value of terrain
+ruggedness. The results show that the two strategies improve the significance of the
+coefficients for ruggedness when compared to the results in table 4. This suggests that
+the regions with very high altitudes were responsible for the ruggedness coefficient’
+failure to consistently meet standard levels of statistical significance.
+
+  Table 6: Draft-dodging and ruggedness using different measures of ruggedness.
+
+Note: This table displays the same specifications as in Table 1 using alternative measures of rugged-
+ness to exclude high but non-relevant values of ruggedness.
+
+ Draft-dodging rate       (1)             (2)             (3)            (4)            (5)           (6)
+                                           Ruggedness with elevation > 2000m excluded:
+ Ruggedness               2.39995       1.70842         2.66907        4.23362       5.41174        4.85990
+                      (0.53931)*** (0.77229)** (0.89020)*** (1.61282)*** (1.77539)*** (2.34586)**
+                       [1.19336]**     [1.28871]      [1.39368]*     [2.47734]*    [2.64706]**     [3.24306]
+ Observations               554           534             534            365            292           292
+ R-squared                0.11368       0.63620         0.63943        0.74602       0.78235        0.78245
+                                        Log of Ruggedness with elevation > 2000m excluded:
+ Log of ruggedness       3.28465        3.10327         4.45996        5.49861        7.04372       6.37595
+                      (0.60043)*** (0.97503)*** (1.10523)*** (1.71007)*** (1.74625)*** (1.75538)***
+                       [1.38912]**    [1.41293]** [1.40857]*** [2.11823]*** [2.30295]*** [2.20286]***
+ Observations               554           534             534            365            292           292
+ R-squared                0.12554       0.64108         0.64628        0.74879       0.78661        0.78750
+                              Ruggedness excluding glaciers and land covered by mountainous bear rocks:
+ Ruggedness               2.02068       1.07650         1.75986        2.56249       3.57329        2.33094
+                      (0.47194)*** (0.65151)*        (0.75738)** (1.24466)** (1.38125)**          (2.08480)
+                        [1.05653]*     [1.07363]       [1.20279]      [1.95579]     [2.11436]*     [3.08478]
+ Observations               554           534             534            365            292           292
+ R-squared                0.10950       0.63467         0.63695        0.74367       0.77952        0.78003
+                          Log of Ruggedness excluding glaciers and land covered by mountainous bear rocks:
+ Log of ruggedness       3.19454        2.89229         4.21241        5.25958        6.84624       6.17477
+                      (0.57951)*** (0.93685)*** (1.06661)*** (1.66810)*** (1.71210)*** (1.74178)***
+                       [1.34349]**    [1.35786]** [1.35381]*** [2.08096]** [2.27918]*** [2.18334]***
+ Observations               554           534             534            365            292           292
+ R-squared                0.12571       0.64048         0.64554        0.74828       0.78617        0.78687
+ Same Controls
+ as in Table 1             X             X             X             X                X             X
+                                      *** p<0.01, ** p<0.05, * p<0.1
+
+
+
+
+                                                    19

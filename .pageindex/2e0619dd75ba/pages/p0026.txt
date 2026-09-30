@@ -1,0 +1,18 @@
+| Portuguese | | | | East | Africa | | Maputo | | | | | | MZMPM | | | 7189.8 | | | Maputo | | | | | | MZMPM | | | 7189.8 | | | 0.0 | | |
+| Portuguese | | | | India | | | Panaji | | Port | | | | INPAN | | | 10587.8 | | | Panaji | | Port | | | | INPAN | | | 6373.7 | | | -4214.1 | | |
+| Portuguese | | | | West | Africa | | Mindelo | | | | | | CVMIN | | | 2467.5 | | | Mindelo | | | | | | CVMIN | | | 2467.5 | | | 0.0 | | |
+| Reunion | | | Island | | | | Pointe | | des | | Galets | | REPDG | | | 8248.5 | | | Pointe | | des | | Galets | | REPDG | | | 7069.9 | | | -1178.6 | | |
+| Romania | | | | | | | Constanta | | | | | | ROCND | | | 3354.7 | | | Constanta | | | | | | ROCND | | | 3354.7 | | | 0.0 | | |
+| Russia | | | | | | | Saint | Petersburg | | | | | RULED | | | 1441.7 | | | Saint | Petersburg | | | | | RULED | | | 1441.7 | | | 0.0 | | |
+| Siam | | | | | | | Bangkok | | | | | | THBKK | | | 12456.6 | | | Bangkok | | | | | | THBKK | | | 9136.0 | | | -3320.6 | | |
+| Spain | | | | | | | Bilbao | | | | | | ESBIO | | | 719.0 | | | Bilbao | | | | | | ESBIO | | | 719.0 | | | 0.0 | | |
+| Spanish | | | Africa | | | | Port | Clarence | | | | | GQSSG | | | 4414.6 | | | Port | Clarence | | | | | GQSSG | | | 4414.6 | | | 0.0 | | |
+| Spanish | | | West | Indies | | | San | Juan | | | | | PRSJU | | | 3641.9 | | | San | Juan | | | | | PRSJU | | | 3641.9 | | | 0.0 | | |
+| Straits | | Settlements | | | | | Singapore | | | | | | SGSIN | | | 11730.1 | | | Singapore | | | | | | SGSIN | | | 8321.4 | | | -3408.8 | | |
+| Sweden | | | | | | | Gothenburg | | | | | | SEGOT | | | 629.0 | | | Gothenburg | | | | | | SEGOT | | | 629.0 | | | 0.0 | | |
+| Tripoli | | and | | Tunis | | | Tunis | | | | | | TNTUN | | | 2134.5 | | | Tunis | | | | | | TNTUN | | | 2134.5 | | | 0.0 | | |
+| Turkey | | | | | | | Izmir | | | | | | TRIZM | | | 3013.9 | | | Izmir | | | | | | TRIZM | | | 3013.9 | | | 0.0 | | |
+| United | | | States | | | | New | York | | | | | USNYC | | | 3040.0 | | | New | York | | | | | USNYC | | | 3040.0 | | | 0.0 | | |
+| Uruguay | | | | | | | Montevideo | | | | | | UYMVD | | | 6183.2 | | | Montevideo | | | | | | UYMVD | | | 6183.2 | | | 0.0 | | |
+| Venezuela | | | | | | | La | Guaira | | | | | VELAG | | | 4098.1 | | | La | Guaira | | | | | VELAG | | | 4098.1 | | | 0.0 | | |
+| Zanzibar | | | | | | | Zanzibar | | | | | | TZZNZ | | | 8500.7 | | | Zanzibar | | | | | | TZZNZ | | | 6632.9 | | | -1867.9 | | |

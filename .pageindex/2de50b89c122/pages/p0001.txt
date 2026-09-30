@@ -1,0 +1,25 @@
+# notes_aksan.md — Aksan《Ottoman Wars 1700–1870: An Empire Besieged》(Routledge 2007/2013 e-ed.)
+
+来源文件：downloads/OT_Aksan_Ottoman_Wars__49bb06ce31ac.epub（MD5 49bb06ce31acc864822036cd2e1489f2）；提取文本 downloads/OT_Aksan_text.txt（EPUB→纯文本，行号=提取文本行，无印刷页码——**引用时标"Aksan 2007, ch.X"+txt行号**）。章节：part0016≈Selim III时代；part0017≈1808–12；part0018≈Mahmud II与1826；part0019以后≈1826–41。
+
+## A. 耶尼切里：纸面与实际（ch.2/5）
+
+- 【事实】在册与实战规模：1567约2万→长战末(1606)3.7万；此后"the mustered fighting force of the imperial infantry may never have exceeded 40,000, the effective force probably being considerably smaller"。1688年整册削2万名；1771年再削3万虚名（esame腐败）。txt行934、942。
+- 【事实】esame（饷券）成为可买卖有价证券，商人、文官、乌理玛均持有；即位赏金（accession gift）恶性膨胀（1687年4,557 kese；Mahmud I散29,530 kese akçe）。"The Janissaries embodied a pre-modern social welfare system which extended throughout Ottoman society."（耶尼切里=前现代全社会福利体系——废除它=大规模既得利益清算。）txt行942。
+- 【事实】1809实测：大维齐尔Kör Yusuf在Davut Pasha校场集结，"only 4,000 Janissaries and 1,000 retainers, they insisted on the pay and rations for 14,000, as registered in the rolls"；Stratford Canning目击评军容："nothing less satisfactory to an experienced observer than their accoutrements, maneuvers and commissariat."。txt行1951。
+- 【事实】饷值：Thornton 1807估平均军饷30 kuruş/半年≈每日1/4先令——通胀下形同虚设，兵员靠副业与劫掠为生。txt行1944-1945。
+- 【事实】开罗七团1797年纸面18,309人，实际被mamluk户把持——"made Bonaparte's landing and victory so deceptively easy"。埃及每年义务：贡赋+大战时3,000兵。txt行1767。
+
+## B. Edirne事件1806与鲁米利亚ayan联盟
+
+- 【事实】1806-06塞利姆再令在Edirne集结新军（Kadi Abdurrahman指挥，兵力15,000–20,000）；İsmail Tirsiniklioğlu（Ruse/鲁斯丘克ayan）在大维齐尔Hafız İsmail**秘密怂恿**下，率"a force estimated at 80,000, commanded by a coalition of Balkan notables"进军Edirne对抗；新军7月中旬进抵Edirne外围遭10,000耶尼切里阻击受损后撤回Silivri；塞利姆得到蓄意假情报后投降：解散、撤Abdurrahman。"All the rebels in Edirne were pardoned."（=中央对巴尔干ayan联盟的实战失败，1807政变的前奏。）txt行1798。
+- 【事实】Tirsiniklioğlu 1806-08被刺；Alemdar Mustafa继任Ruse-Silistre ayan。Alemdar出身Hotin，耶尼切里旗手起家，1803任Hezargrad ayan；因防俄有功+废corvée得民心；1806-12击退Michelson于Giurgevo（Cevdet引文：俄军原计划布加勒斯特集结50,000与塞尔维亚人会师）；1807-02封vizier衔+Silistre省长+多瑙serasker。txt行1800。
+
+## C. 1806–12俄土战争（军事实绩链，ch."The Empire at the Abyss"）
+
+- 【事实】战争节奏：1806-11俄入公国（Michelson兵力小）→1807夏战线固定→1807-08 Slobozia停战（沙皇拒批，俄军仍占公国）→1809春再战：Prozorovsky在İbrail、Kladovo、Giurgevo挫败；Bagration取Maçin/Köstence/İsmail/İbrail、围Silistre(30,000)后撤；1809-09大维齐尔Kör Yusuf 40,000渡河指布加勒斯特，被Langeron 6,000预备队逐回（俄军布城5,000、Craiova 3,000病疫瘫痪）；1809/10冬Kamensky 80,000+破多瑙线，取Silistre、Bazarcık，攻Şumnu被击退，得Rusçuk/Niğbolu/Sistova后退回瓦拉几亚，"Russian losses were large"。txt行1955。
+- 【事实】1811 Kutuzov接手：因备战拿破仑抽走5个师（驻普鲁特河待命），余46,240人+180野炮+38攻城炮，防线600英里；1811-06-21/22 Rusçuk会战：大维齐尔Ahmed 60,000/78炮 vs Kutuzov，Boşnak Agha 10,000骑兵冲击；俄胜但伤亡800 vs 奥1,500；Kutuzov评"never faced such ferocious and overwhelming attacks"；随后主动弃Rusçuk退左岸设套。txt行1958-1966。
+- 【事实】Slobozia合围：1811-09-08夜奥军取Slobozia岛渡河，一周内左岸36,000（右岸留约30,000）；10-13夜Markov奇渡袭右岸大营；10-14起大维齐尔军36,000/56炮被围左岸；饥寒疫（马匹吃尽、吃草根）；10-25停火；11月底Kutuzov"收容"被围残军承诺春天归还。txt行1969-1971。**对B7推演关键：这是俄军对土"歼灭战"模板——但俄方同样急于结束（沙皇压力）。**
+- 【事实】布加勒斯特谈判（1811-11至1812-05）：土方拒割公国、拒高加索让步、拒塞尔维亚条款；边界之争Seret vs Prut；1812-02初Mahmud II召三日大会议，操纵议程达成"不可再战"共识但授大维齐尔全权；**1812-03初拿破仑请Mahmud II率80,000入波兰的信到伊斯坦布尔（附法奥同盟+保证奥斯曼完整的消息）——"Mahmud II and his grand vizier still recalled what was generally perceived as the treachery of Tilsit, and appear never to have seriously considered such an alliance"**；Kutuzov 3月底提俄土同盟被Galib以中立挡回（Galib立场：若必须结盟，宁法勿俄）；5月初俄让步至Prut线；**16条公开+2条秘密（毁İsmail/Kilya要塞+俄用东黑海港口）；第VIII条塞尔维亚内部自治+自征固定税**；Mahmud II三项坚拒（秘密条款、同盟、对第VIII条的俄干涉解读）；5-28签约时训令未及；土方从未批准秘密条款与同盟，俄方最终放弃；批准书7月中旬交换。txt行1976-1984。
+- 【事实】Chichagov接替Kutuzov后的"巴尔干15万联军攻奥地利与法属达尔马提亚"方案：因瓦拉几亚-摩尔达维亚boyar拒绝武装乡村（连2万民兵都拒）而破产，遂率军北归。txt行1984。**→"俄国以巴尔干基督徒为杠杆"在1812实测失败一次。**
+- 【事实】公国代价：六年俄占+战火使瓦拉几亚/摩尔达维亚残破；比萨拉比亚被兼并后鞑靼人全数被逐往克里米亚、土语区居民作为战俘迁入俄境、土地划为皇产、保加利亚/希腊移民填充。txt行1985。

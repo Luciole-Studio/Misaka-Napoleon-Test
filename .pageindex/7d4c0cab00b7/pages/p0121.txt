@@ -1,0 +1,130 @@
+## Sheet: M10. Mthly long-term rates
+
+`data region: A1:AE3178`
+	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z	AA	AB	AC	AD	AE
+1			M10. Monthly long-term interest rates, 1753-2016																												
+2	Back to front page		Consol yields										Other long term government bond yields: 1929+																		
+3													1929-1934	1935-1946				1945-1969				1963+									
+4	Description		Yield on 3% consols 1753-1823	Yield on 3% consols 1823-1860	Yield on 3% consols 1823-1860	Yield on 3% consols 1840-1852	Yield on 3% consols 1852-1888	Yield on Consols uncorrected for Goschen's conversion issues, 1870-1982	Yield on Consols 1870-1914, corrected for Goschen's conversion issues	Yield on 2.5% consols	Spliced consol yield 1753-2015, corrected for Goschen's conversion issues		Average yields on long-term government debt	Redemption yields on British government securities	Short-dated	Medium-dated	3.5% War Loan (redemption assumed in 1952 if price above par)	Short-dated stocks (5 yr redemption yield from 1957)	Medium-dated stocks (10yr redemption yield from 1957)	Long-dated stocks  (20yr redemption yield from 1957)	3.5% War Loan (flat yield)	Redemption yields on British government securities	10 year	20 year	Zero coupon yields	10 year	10 year	20 year	20 year		Spliced 10 year yield
+5	Source		Neal (1990)	Odlyzko (2014)		NBER macrohistory database	NBER macrohistory database	Capie and Webber, table 111.(10) Page 505	Klovland (1994)	Source: ONS & DMO (Series code: AJLF).  Now discontinued since the redemption of the 2.5% consols.			The Economist, January 1935		Annual abstract of statistics 1947, Table 286	Annual abstract of statistics 1947, Table 286	Annual abstract of statistics 1947, Table 286	Bank of England Statistical Abstract Number 1, Table 30, page 174	Bank of England Statistical Abstract Number 1, Table 30, page 175	Bank of England Statistical Abstract Number 1, Table 30, page 176	Bank of England Statistical Abstract Number 1, Table 30, page 177		Source: ONS (Series code: AJLW)	Source: ONS (Series code: AJLX)		Source: Bank of England	Source: Bank of England	Source: Bank of England	Source: Bank of England		
+6	Notes		End month data	Last week of month	Monthly average of weekly observations			Mixture of end month and averages.   	Last Friday of month	Monthly average	Mixture of end months and averages				Quarterly averages. 5% Conversion loan to Dec 1940, 2 1/2% National War Bonds, 1945-7 ,to Dec 1942; 2 1/2% National War Bonds, 1945-51, to Dec 1944; 2 1/2% National War Bonds, 1952-4, to Dec 1946	Quarterly averages.  4% Funding Loan to Dec 1940; 3% War Loan to Dec 1942; 3% Savings Bonds, 1960-70 to December 1946	Quarterly averages	Month end yields. 1945-49: 2 1/2% National War Bonds 1952/54 1950-52: 2 1/4% Exchequer Stock 1955 1953-54: 2 1/2% Funding Loan 1958/61 1955-56: 2% Exchequer Stock 1960	Month end yields.  1945-50: 2 1/2% Funding Loan 1958/61 1951-55: 3% Savings Bonds 1955/65 1956: 2 1/2% Savings Bonds 1964/07	Month end yields.  1945-47: 3% Savings Bonds 1960/70 1948-60: 2 1/2% Savings Bonds 1984/67 1951-56: 3% Savings Bonds 1986/76 	month end		monthly average	monthly average		monthly average	month end	monthly average	month end		Monthly average
+7	1753	Jan																													
+8	1753	Feb																													
+9	1753	Mar																													
+10	1753	Apr																													
+11	1753	May																													
+12	1753	Jun																													
+13	1753	Jul																													
+14	1753	Aug	2.853745541022592								2.853745541022592																				
+15	1753	Sep	2.863961813842482								2.863961813842482																				
+16	1753	Oct	2.881152460984394								2.881152460984394																				
+17	1753	Nov	2.870813397129186								2.870813397129186																				
+18	1753	Dec	2.888086642599278								2.888086642599278																				
+19	1754	Jan	2.895054282267793								2.895054282267793																				
+20	1754	Feb	2.92326431181486								2.92326431181486																				
+21	1754	Mar	2.933985330073349								2.933985330073349																				
+22	1754	Apr	2.905569007263923								2.905569007263923																				
+23	1754	May	2.877697841726619								2.877697841726619																				
+24	1754	Jun	2.870813397129186								2.870813397129186																				
+25	1754	Jul	2.867383512544803								2.867383512544803																				
+26	1754	Aug	2.881152460984394								2.881152460984394																				
+27	1754	Sep	2.912621359223301								2.912621359223301																				
+28	1754	Oct	2.916160388821385								2.916160388821385																				
+29	1754	Nov	2.912621359223301								2.912621359223301																				
+30	1754	Dec	2.888086642599278								2.888086642599278																				
+31	1755	Jan	2.941176470588235								2.941176470588235																				
+32	1755	Feb	2.992518703241895								2.992518703241895																				
+33	1755	Mar	3.041825095057034								3.041825095057034																				
+34	1755	Apr	3.072983354673496								3.072983354673496																				
+35	1755	May	3.007518796992481								3.007518796992481																				
+36	1755	Jun	3.034134007585335								3.034134007585335																				
+37	1755	Jul	3.221476510067114								3.221476510067114																				
+38	1755	Aug	3.256445047489823								3.256445047489823																				
+39	1755	Sep	3.208556149732621								3.208556149732621																				
+40	1755	Oct	3.310344827586207								3.310344827586207																				
+41	1755	Nov	3.287671232876712								3.287671232876712																				
+42	1755	Dec	3.234501347708894								3.234501347708894																				
+43	1756	Jan	3.375527426160337								3.375527426160337																				
+44	1756	Feb	3.361344537815126								3.361344537815126																				
+45	1756	Mar	3.351955307262569								3.351955307262569																				
+46	1756	Apr	3.305785123966942								3.305785123966942																				
+47	1756	May	3.351955307262569								3.351955307262569																				
+48	1756	Jun	3.361344537815126								3.361344537815126																				
+49	1756	Jul	3.380281690140845								3.380281690140845																				
+50	1756	Aug	3.361344537815126								3.361344537815126																				
+51	1756	Sep	3.351955307262569								3.351955307262569																				
+52	1756	Oct	3.394625176803395								3.394625176803395																				
+53	1756	Nov	3.389830508474576								3.389830508474576																				
+54	1756	Dec	3.389830508474576								3.389830508474576																				
+55	1757	Jan	3.45821325648415								3.45821325648415																				
+56	1757	Feb	3.418803418803419								3.418803418803419																				
+57	1757	Mar	3.32871012482663								3.32871012482663																				
+58	1757	Apr	3.366058906030855								3.366058906030855																				
+59	1757	May	3.333333333333333								3.333333333333333																				
+60	1757	Jun	3.333333333333333								3.333333333333333																				
+61	1757	Jul	3.375527426160337								3.375527426160337																				
+62	1757	Aug	3.347280334728033								3.347280334728033																				
+63	1757	Sep	3.278688524590164								3.278688524590164																				
+64	1757	Oct	3.296703296703297								3.296703296703297																				
+65	1757	Nov	3.287671232876712								3.287671232876712																				
+66	1757	Dec	3.305785123966942								3.305785123966942																				
+67	1758	Jan	3.314917127071824								3.314917127071824																				
+68	1758	Feb	3.243243243243243								3.243243243243243																				
+69	1758	Mar	3.191489361702128								3.191489361702128																				
+70	1758	Apr	3.191489361702128								3.191489361702128																				
+71	1758	May	3.137254901960785								3.137254901960785																				
+72	1758	Jun	3.100775193798449								3.100775193798449																				
+73	1758	Jul	3.234501347708894								3.234501347708894																				
+74	1758	Aug	3.26530612244898								3.26530612244898																				
+75	1758	Sep	3.305785123966942								3.305785123966942																				
+76	1758	Oct	3.342618384401114								3.342618384401114																				
+77	1758	Nov	3.305785123966942								3.305785123966942																				
+78	1758	Dec	3.342618384401114								3.342618384401114																				
+79	1759	Jan	3.389830508474576								3.389830508474576																				
+80	1759	Feb	3.45821325648415								3.45821325648415																				
+81	1759	Mar	3.582089552238806								3.582089552238806																				
+82	1759	Apr	3.692307692307693								3.692307692307693																				
+83	1759	May	3.773584905660377								3.773584905660377																				
+84	1759	Jun	3.785488958990536								3.785488958990536																				
+85	1759	Jul	3.852327447833066								3.852327447833066																				
+86	1759	Aug	3.669724770642202								3.669724770642202																				
+87	1759	Sep	3.65296803652968								3.65296803652968																				
+88	1759	Oct	3.669724770642202								3.669724770642202																				
+89	1759	Nov	3.488372093023256								3.488372093023256																				
+90	1759	Dec	3.550295857988166								3.550295857988166																				
+91	1760	Jan	3.75								3.75																				
+92	1760	Feb	3.738317757009345								3.738317757009345																				
+93	1760	Mar	3.65296803652968								3.65296803652968																				
+94	1760	Apr	3.636363636363637								3.636363636363637																				
+95	1760	May	3.636363636363637								3.636363636363637																				
+96	1760	Jun	3.560830860534124								3.560830860534124																				
+97	1760	Jul	3.582089552238806								3.582089552238806																				
+98	1760	Aug	3.587443946188341								3.587443946188341																				
+99	1760	Sep	3.625377643504532								3.625377643504532																				
+100	1760	Oct	3.614457831325302								3.614457831325302																				
+101	1760	Nov	3.809523809523809								3.809523809523809																				
+102	1760	Dec	3.966942148760331								3.966942148760331																				
+103	1761	Jan	4.095563139931741								4.095563139931741																				
+104	1761	Feb	4.074702886247877								4.074702886247877																				
+105	1761	Mar	3.864734299516908								3.864734299516908																				
+106	1761	Apr	3.409090909090909								3.409090909090909																				
+107	1761	May	3.409090909090909								3.409090909090909																				
+108	1761	Jun	3.498542274052478								3.498542274052478																				
+109	1761	Jul	3.773584905660377								3.773584905660377																				
+110	1761	Aug	3.870967741935484								3.870967741935484																				
+111	1761	Sep	4.095563139931741								4.095563139931741																				
+112	1761	Oct	4.173913043478261								4.173913043478261																				
+113	1761	Nov	4.262877442273535								4.262877442273535																				
+114	1761	Dec	4.511278195488721								4.511278195488721																				
+115	1762	Jan	4.848484848484849								4.848484848484849																				
+116	1762	Feb	4.411764705882353								4.411764705882353																				
+117	1762	Mar	4.285714285714286								4.285714285714286																				
+118	1762	Apr	4.316546762589928								4.316546762589928																				
+119	1762	May	4.137931034482759								4.137931034482759																				
+120	1762	Jun	4.166666666666666								4.166666666666666																				
+121	1762	Jul	3.98671096345515								3.98671096345515																				
+122	1762	Aug	3.498542274052478								3.498542274052478																				
+123	1762	Sep	3.592814371257485								3.592814371257485																				
+124	1762	Oct	3.697996918335901								3.697996918335901																				
+125	1762	Nov	3.478260869565218								3.478260869565218																				
+126	1762	Dec	3.243243243243243								3.243243243243243																				

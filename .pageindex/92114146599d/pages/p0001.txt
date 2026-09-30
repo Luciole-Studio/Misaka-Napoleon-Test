@@ -1,0 +1,150 @@
+---
+source_url: "https://d-nb.info/1152137301/34"
+final_url: "https://d-nb.info/1152137301/34"
+provider: "exa"
+text_sha256: "5b4f69923855fbc8a683c7965f5d2171c974408296a52e784668cf30e61cf031"
+title: ""
+content_kind: "page_text"
+---
+
+SOEPpapers
+on Multidisciplinary Panel Data Research
+Law and Social Capital: 
+Evidence from the Code Napoleon 
+in Germany
+Johannes C. Buggle
+566
+2013
+SOEP — The German Socio-Economic Panel Study at DIW Berlin 566-2013
+SOEPpapers on Multidisciplinary Panel Data Research 
+at DIW Berlin
+This series presents research findings based either directly on data from the German SocioEconomic Panel Study (SOEP) or using SOEP data as part of an internationally comparable 
+data set (e.g. CNEF, ECHP, LIS, LWS, CHER/PACO). SOEP is a truly multidisciplinary 
+household panel study covering a wide range of social and behavioral sciences: economics, 
+sociology, psychology, survey methodology, econometrics and applied statistics, educational 
+science, political science, public health, behavioral genetics, demography, geography, and 
+sport science. 
+The decision to publish a submission in SOEPpapers is made by a board of editors chosen 
+by the DIW Berlin to represent the wide range of disciplines covered by SOEP. There is no 
+external referee process and papers are either accepted or rejected without revision. Papers 
+appear in this series as works in progress and may also appear elsewhere. They often 
+represent preliminary studies and are circulated to encourage discussion. Citation of such a 
+paper should account for its provisional character. A revised version may be requested from 
+the author directly.
+Any opinions expressed in this series are those of the author(s) and not those of DIW Berlin. 
+Research disseminated by DIW Berlin may include views on public policy issues, but the 
+institute itself takes no institutional policy positions.
+The SOEPpapers are available at
+http://www.diw.de/soeppapers
+Editors: 
+Jürgen Schupp (Sociology)
+Gert G. Wagner (Social Sciences, Vice Dean DIW Graduate Center)
+Conchita D’Ambrosio (Public Economics) 
+Denis Gerstorf (Psychology, DIW Research Director)
+Elke Holst (Gender Studies, DIW Research Director)
+Frauke Kreuter (Survey Methodology, DIW Research Professor)
+Martin Kroh (Political Science and Survey Methodology)
+Frieder R. Lang (Psychology, DIW Research Professor)
+Henning Lohmann (Sociology, DIW Research Professor)
+Jörg-Peter Schräpler (Survey Methodology, DIW Research Professor)
+Thomas Siedler (Empirical Economics)
+C. Katharina Spieß (Empirical Economics and Educational Science)
+ISSN: 1864-6689 (online)
+German Socio-Economic Panel Study (SOEP)
+DIW Berlin
+Mohrenstrasse 58
+10117 Berlin, Germany
+Contact: Uta Rahmann | soeppapers@diw.de 
+LAW AND SOCIAL CAPITAL: EVIDENCE FROM THE CODE
+NAPOLEON IN GERMANY∗
+Johannes C. Buggle†
+Sciences Po, Department of Economics
+First version: May 22, 2012
+This version: July 2, 2013
+Abstract
+Do legal institutions affect norms of cooperation? Using the introduction of the Code Napoleon during
+the Napoleonic Wars in Germany as a historical experiment, I show that a positive shock to the quality
+of legal institutions can increase social-capital long-lastingly. I find that individuals living in regions
+where the Code Napoleon was used display higher levels of interpersonal trust in the data of the German
+Socio-Economic Panel (SOEP). This result holds true conditional on past development levels, as well
+as in a less heterogeneous border sample, separating regions that applied the Code Napoleon from those
+that did not. Artificially moving the border and comparing regional pre-treatment characteristics support
+the interpretation of a causal treatment effect. In addition, I show immediate effects of the Code Civil on
+novel measures of 19th century social capital. The analysis of historical employment data furthermore
+suggests economic cooperation to be a potential mechanism for the relationship between legal institutions
+and social capital.
+Keywords: Institutions, Long-Term Persistence, Social Capital.
+JEL-Classification: N43, O10, P48, Z10
+∗
+I am grateful to Yann Algan for his ongoing support and encouragement. I thank Francesco Amodio, Davide Cantoni,
+Pauline Grosjean, Marc Sangnier, Andrei Shleifer, Guido Tabellini, Joachim Voth and seminar participants at the FRESH
+Meeting London, the UPF Reading Group on Persistence, the Spring Meeting for Young Economists 2013, and Sciences Po
+for very helpful comments and discussions at different stages of this project. Valuable research assistance was provided by
+Ferdinand Lutz and Malte Syman. I wish further to thank the DIW Berlin for making the SOEP data available, as well as the
+GESIS Leibniz Institute for Social Sciences. All errors remain my own.
+†Contact: 28 Rue des Saints-Pères, 75007 Paris, e-mail: johannes.buggle@sciences-po.org.
+1 INTRODUCTION
+Social capital levels across and within countries are highly correlated with the quality of past and contemporary institutions (Putnam, 1994; Tabellini, 2008 and Tabellini, 2010; Guiso, Sapienza, and Zingales,
+2008a; Algan and Cahuc, 2013).1 However, empirical findings of a causal impact of impartial enforcement institutions on norms of cooperation are almost non-existent. Identification is particularly difficult
+as initial cultural norms of a society starkly influence the shape of its institutions. In this paper I make
+use of a historical experiment during which a legal institution was imposed from outside to identify
+the persistent impact of law on social capital. This historical experiment, the introduction of the Code
+Napoleon in parts of 19th century Germany, constituted a dramatic positive shock to the quality of existing legal institutions. Centered around the most modern legal code at that time and establishing a third
+party enforcement institution with the principle of equality before the law, the Napoleonic institutions
+“encouraged the liberation of the individual from corporative bonds and the establishment of a civil society" (Fehrenbach, 2008). My findings, estimated on the micro-level within a country, show that regions
+that used the Napoleonic Civil Code throughout the 19th century display on average higher levels of
+social capital.2 This supports the description of the positive social effects of the Code Napoleon and its
+legacy persisting to the present day.3
+My analysis contributes to the recently emerging literature emphasizing the weight of history and particularly historical institutions for current beliefs.4 However, it differs from the latter in two important
+dimensions. First, rather then applying a broad definition of institutions, this paper considers a specific
+type: the law. In line with recent theoretical models (e.g. Tabellini, 2008; Guiso, Sapienza, and Zingales,
+2008b), I expect impartial legal enforcement institutions to affect trust as they promote individual cooperation with anonymous others.5
+Initially, in a society characterized by weak law enforcement, social and
+1
+In a cross-section of countries one can observe a strong positive association between the quality of the legal system and
+trust, as Figure 1 displays. Countries protecting individual property stronger and in which courts and judges are independent and
+impartial display higher levels of interpersonal trust. This does not merely mirror an income effect, since the positive association
+is robust to controlling for income and education (see Figure 2). It cannot be deduced, however, that there exists a causal link
+going from the quality of the legal system to interpersonal trust. It is equally likely, that countries, in which individuals trust
+each other to a higher extent, also have stronger preferences for protecting property and value more an impartial and independent
+jury.
+2Throughout this paper I apply a broad definition of “social capital” encompassing different measures used in the literature,
+such as individual beliefs as well as outcome measures.
+3The long-run consequences of the law for economic outcomes has been intensively documented by scholars researching
+different legal origins. See for example López-de-Silanes et al. (1998) and La Porta, López-de-Silanes, and Shleifer (2008).
+4See Nunn (2012) for a comprehensive summary of the literature relating history and culture.
+5
+In the Appendix I propose a simple model of the type suggested by Guiso, Sapienza, and Zingales (2008b), introducing
+a third stage in the trust game, in which a court enforces contracts. The model enables me to make the cooperation decision
+contingent on the quality of the enforcement institution. The model predicts, that increasing the quality of the law will lead to
+more investment and higher levels of cooperation. Institutions can overcome the “no-trust-no-trade" equilibrium.
+2
+economic interaction are discouraged as individuals have high incentives to cheat. This contrasts with
+an environment where legal enforcement is strong, and individuals, risking punishment by the law, are
+incentivized to cooperate. In a nutshell, in the second state of the world trust will emerge as a by-product
+of cooperation experienced in economic and social interactions.6 The reason why shocks affecting trust
+can manifest itself until today, is that beliefs transmitted inter-generationally from parents to children
+incorporate experiences made in the past in different institutional environments. A second distinctive
+feature of this paper is that it analyzes a change in the quality of the law that has not been created by the
+individuals for which it applies, but that has been imposed from outside. In other words, compared to
+existing contributions correlating past institutions with current social capital, my identification strategy
+is based on a rare historical experiment characterized by an exogenous change in the legal quality. Such
+historical experiment creates furthermore an ideal setting for studying the effects of institutions on culture, as it accounts for the long-term dimension necessary for observing substantial changes in beliefs
+over time. This important time-dimension is usually absent when analyzing current legal reforms or in
+experimental designs.
+The introduction of the Code Napoleon is characterized by a drastic movement from a weak of rule of
+law to impartial legal enforcement in parts of 19th century Germany. The Code improved enforcement
+by establishing establishing universal access to the law, commercial freedom and an impartial judicial
+system. Using micro data from the German Socio-Economic Panel (SOEP), I show that those regions in
+which the Code Napoleon was introduced display higher levels of social capital related attitudes today.
+I start by comparing all regions that have used the Code Civil in the 19th century to regions that did not
+apply it, taking the number of years the Code Civil was applied before 1900 as the treatment.7Importantly, the positive association does not reflect simple differences in 19th century regional development
+levels. It is robust to condition on historical controls, such as measures for past urbanization rates.
+While the results suggest an effect of the Code Civil on contemporaneous levels of trust, there exist alternative explanations that could account for the positive association observed. First, differences in the
+initial social structure in regions applying the Code Civil might drive the results, if, for example, regions
+with high initial social capital were more likely to be treated.8In this case, rather than identifying a
+treatment effect, the estimation would just pick up a path dependency of initial conditions. One draw6Supporting cooperation is, however, not the only channel through which the law can influence social capital. Legal rules,
+e.g. the principle of equality, can potentially spread on a more direct way into the society and become moral norms over time.
+7
+In 1900, a unified Civil Code was installed in all German provinces, the Bürgerliches Gesetzbuch.
+8

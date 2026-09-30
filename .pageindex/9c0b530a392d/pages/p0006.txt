@@ -1,0 +1,14 @@
+
+
+## 读过但不作关键量值证据
+- Wheeler & Broadley, *Napoleon and the Invasion of England*：doc `5550fd06ab38`保有长OCR，但同路径网页capture现只返回简介，且卷/分页混杂；检索页57有Fox1803-08-08信与Maurice转述Moore日记。只作找线索，不纳入量值或所谓48h/40k证据。须警惕文件捕获与旧索引版本不同。
+- Hansard 1805-03-06/06-28关于Additional Force、State of the Army：捕获`downloads/pages/fee0e3a5a5da.md`等已读部分，文本存在明显算术/数字转录不一致；不使用其未校勘数字计算净增或总量。
+- 旧材料：`nodes/r_b55f2c1cf5/cards/t_2c338c/britdef.md`。采用其口径警告；不沿用“只能取零散Fortescue”的旧限制，也不继承无依据的加拿大续战方案。
+
+## 来源独立性与未取得材料
+1. S01、S02同一作者和研究链；S07全军表转录S01，不是第三次独立观测。S03部分总量又取议会返回表，但其WO单位/病员/制度研究提供新观察。
+2. S05/06为建筑/考古名录链，独立于军事统帅辩护；S04为同时代私人公务通信，仍需区分建议和已执行。
+3. S08/09与Fortescue军制效率论形成社会政治解释的对照；Linch的两篇作品仍属同一学者，但材料年代与问题不同。
+4. 增补已实读S18法文刊本中的编载表和海军提案，但非英语承重出版物仍不足两种：英国国内法律、编制、道路材料以英语为主；没有为凑语种把未读法德专著算作证据。法国整体卸载能力仍须F2/F3；葡萄牙与汉诺威自主视角需PT/G2综合。此为已披露语料偏斜，不是英语叙述天然中立。
+5. 待查而未声称读到：Glover全文及Doc.2；Cookson *The British Armed Nation 1793–1815* (1997) pp.79–82；Longmate *Island Fortress*；Moore *Diary* II；War Office1804军区逐日驻屯/集中演练返回；皇家运输局载马与枪炮返回。
+6. 档案后续路径：TNA WO1/3/6/25/27（编制、通信、检查），WO55（炮兵工程，S05有WO55/778图），ADM（运输及Keith相关文件），HO（地方/郡尉），Parliamentary Archives及*Commons’ Journals* LXIX。增补S20另引WO17/53/2、WO17/54/1、WO30/141、WO55/1548/17及WSRO1719/30。均按文中所读刊本/研究列谱系，不冒充本卡親阅原折。

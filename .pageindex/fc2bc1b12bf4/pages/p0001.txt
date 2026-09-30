@@ -1,0 +1,21 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: PR_calculations.csv
+
+```meta
+▸ table "PR_calculations.csv" (13 data rows)
+```
+id,scenario,low,high,unit,formula,provenance,status
+pop_s5,S5,6189190,8057318,persons,base*(1+annual_net_growth)^years,L;I;HG,ASSUMPTION_ARITHMETIC_NOT_OBSERVATION
+pop_s3,S3,5493574,7155116,persons,base*(1+annual_net_growth)^years,L;I;HG,ASSUMPTION_ARITHMETIC_NOT_OBSERVATION
+pop_large,S1_no_Jena,13112077,17880173,persons,base*(1+annual_net_growth)^years,L;I;HG,ASSUMPTION_ARITHMETIC_NOT_OBSERVATION
+army_standing,S5,55703,96688,persons,S5_population*assumed_mobilisation_rate*availability,T08;TA;C13,ASSUMPTION_ARITHMETIC_NOT_OBSERVATION
+army_mobilized,S5,123784,217548,persons,S5_population*assumed_mobilisation_rate*availability,TA;HA;HW,ASSUMPTION_ARITHMETIC_NOT_OBSERVATION
+army_field,S5,80459,152283,persons,S5_population*assumed_mobilisation_rate*availability,TA;HA;HW,ASSUMPTION_ARITHMETIC_NOT_OBSERVATION
+army_extreme,S5_allied_emergency,247568,322293,persons,S5_population*assumed_mobilisation_rate*availability,TA;HA;HW,ASSUMPTION_ARITHMETIC_NOT_OBSERVATION
+control_rump,S2/S5,15000,30000,persons,fortresses+nodes+mobile_reserve; excludes external field front,T08 VII-XIII,ASSUMPTION_ARITHMETIC_NOT_OBSERVATION
+abolition_low,S6_low_friction,25000,45000,persons,fortresses+nodes+mobile_reserve; excludes external field front,T08;T07;C13,ASSUMPTION_ARITHMETIC_NOT_OBSERVATION
+abolition_medium,S6_medium_friction,45000,75000,persons,fortresses+nodes+mobile_reserve; excludes external field front,T08;T07;C13,ASSUMPTION_ARITHMETIC_NOT_OBSERVATION
+abolition_high,S6_high_friction,80000,120000,persons,fortresses+nodes+mobile_reserve; excludes external field front,T08;T07;C13,ASSUMPTION_ARITHMETIC_NOT_OBSERVATION
+abolition_settled,S6_cooperative_settled,20000,30000,persons,fortresses+nodes+mobile_reserve; excludes external field front,T08;T07;C12,ASSUMPTION_ARITHMETIC_NOT_OBSERVATION
+increment_medium_minus_rump,S6_minus_S2,15000,60000,persons,low=medium_low-rump_high; high=medium_high-rump_low,T08 anchor plus assumed task buckets,ASSUMPTION_ARITHMETIC_NOT_OBSERVATION

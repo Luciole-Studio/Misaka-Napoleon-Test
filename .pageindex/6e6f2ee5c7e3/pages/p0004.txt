@@ -1,0 +1,89 @@
+
+
+EMBED <iframe src="https://archive.org/embed/abstractofbritis0000mitc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+EMBED (for Archive.org item Description fields) [archiveorg abstractofbritis0000mitc width=560 height=384 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true]
+
+Want more?
+[Advanced embedding details, examples, and help](https://archive.org/help/audio.php?identifier=abstractofbritis0000mitc)!
+
+Favorite
+
+Share
+
+Flag
+
+# Flag this item for
+
+- [Graphic Violence](https://archive.org/login?referer=https%3A%2F%2Farchive.org%2Fdetails%2Fabstractofbritis0000mitc)
+- [Explicit Sexual Content](https://archive.org/login?referer=https%3A%2F%2Farchive.org%2Fdetails%2Fabstractofbritis0000mitc)
+- [Hate Speech](https://archive.org/login?referer=https%3A%2F%2Farchive.org%2Fdetails%2Fabstractofbritis0000mitc)
+- [Misinformation/Disinformation](https://archive.org/login?referer=https%3A%2F%2Farchive.org%2Fdetails%2Fabstractofbritis0000mitc)
+- [Marketing/Phishing/Advertising](https://archive.org/login?referer=https%3A%2F%2Farchive.org%2Fdetails%2Fabstractofbritis0000mitc)
+- [Misleading/Inaccurate/Missing Metadata](https://archive.org/login?referer=https%3A%2F%2Farchive.org%2Fdetails%2Fabstractofbritis0000mitc)
+
+texts
+
+# Abstract of British historical statistics / by B.R. Mitchell. With the collaboration of Phyllis Deane. -
+
+by
+
+[Mitchell, B. R. (Brian R.)](https://archive.org/search.php?query=creator%3A%22Mitchell%2C+B.+R.+%28Brian+R.%29%22)
+
+Publication date
+
+[1971](https://archive.org/search.php?query=date:1971)
+
+Topics
+
+[Great Britain -- Statistics](https://archive.org/search.php?query=subject%3A%22Great+Britain+--+Statistics%22)
+
+Publisher
+
+Cambridge [Eng.] : University Press
+
+Collection
+
+[trent_university](https://archive.org/details/trent_university); [internetarchivebooks](https://archive.org/details/internetarchivebooks); [printdisabled](https://archive.org/details/printdisabled); [inlibrary](https://archive.org/details/inlibrary)
+
+Contributor
+
+[Internet Archive](https://archive.org/details/internetarchivebooks)
+
+Language
+
+[English](https://archive.org/search.php?query=%28language%3Aeng+OR+language%3A%22English%22%29)
+
+Item Size
+
+1.4G
+
+xiv, 513 p. : 25 cm. -
+
+Includes bibliographies. -
+
+Access-restricted-item
+
+true
+
+Addeddate
+
+2019-07-10 10:05:07
+
+Bookplateleaf
+
+0010
+
+Boxid
+
+IA1347009
+
+Camera
+
+Sony Alpha-A6300 (Control)
+
+External-identifier
+
+[urn:oclc:record:1145801079](https://archive.org/search.php?query=external-identifier%3A%22urn%3Aoclc%3Arecord%3A1145801079%22)
+[urn:lcp:abstractofbritis0000mitc:lcpdf:8b7eb3ff-b957-42f0-bc24-90b73e764a47](https://archive.org/search.php?query=external-identifier%3A%22urn%3Alcp%3Aabstractofbritis0000mitc%3Alcpdf%3A8b7eb3ff-b957-42f0-bc24-90b73e764a47%22)
+[urn:lcp:abstractofbritis0000mitc:epub:de936ca8-21cf-45ef-bdc5-28ff72f55a95](https://archive.org/search.php?query=external-identifier%3A%22urn%3Alcp%3Aabstractofbritis0000mitc%3Aepub%3Ade936ca8-21cf-45ef-bdc5-28ff72f55a95%22)

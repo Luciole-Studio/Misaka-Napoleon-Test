@@ -1,0 +1,65 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: Q1_dataset.csv
+
+```meta
+▸ table "Q1_dataset.csv" (35 data rows)
+▸ columns
+    case_id: str, 35 uniq, first 20: ['BA1813', 'BE1798', 'BE1802', 'BG1813', 'CA1806', 'CH1798', 'CH1802', 'CH1805', 'EM1809', 'ES1808', 'HH1806', 'HH1813', 'IL1810', 'IL1813', 'LI1805', 'NA1799', 'NL1799', 'NL1809', 'NL1811', 'NL1813']
+    region: str, 31 uniq, first 20: ['伊利里亚诸省', '利古里亚', '华沙公国', '卡拉布里亚', '威尼托', '威斯特法利亚黑森起义', '巴伐利亚本部不含蒂罗尔', '帕尔马皮亚琴察山谷', '帕维亚及比纳斯科', '托斯卡纳', '托斯卡纳Viva Maria', '比利时', '比利时佛兰德及邻区', '汉堡', '瑞士中部诸州', '瑞士调停制', '瑞士邦联联邦派地区', '皮埃蒙特', '罗马及拉齐奥翁布里亚', '艾米利亚罗马涅']
+    cluster: str, 16 uniq: ['Bavaria', 'Belgium', 'Hamburg', 'Iberia', 'Illyria', 'NEItaly', 'NWItaly', 'Naples', 'Netherlands', 'NorthGermanClients', 'Rhineland', 'Rome', 'Switzerland', 'Tuscany', 'Tyrol', 'Warsaw']
+    macrocluster: str, 7 uniq: ['Alpine', 'Balkans', 'Eastern', 'Germany', 'Iberia', 'Italy', 'LowCountries']
+    start_year: num, min=1796, max=1813
+    end_year: num, min=1796, max=1814
+    regime: str, 8 uniq: ['allied', 'allied_annexation', 'annexed', 'annexed_special', 'client', 'occupied', 'occupied_client', 'occupied_to_annexed']
+    mass_lo: num, min=0, max=1
+    mass_hi: num, min=0, max=1
+    sustained_lo: num, min=0, max=1
+    sustained_hi: num, min=0, max=1
+    scale: num, min=0, max=4
+    exit_context: num, min=0, max=1
+    anti_french_explicit: num, min=0, max=1
+    negative_strength: str, 4 uniq: ['explicit', 'general', 'not_applicable', 'not_established']
+    T: num, min=0, max=1
+    R: num, min=0, max=1
+    E: num, min=0, max=1
+    O: num, min=0, max=1
+    S: num, min=0, max=1
+    D: num, min=0, max=1
+    X: num, min=1, max=2
+    dynasty_exile: num, min=0, max=1
+    brigand_tradition: num, min=0, max=1
+    coast_access: num, min=0, max=1
+    religion_profile: str, 7 uniq: ['Catholic', 'Catholic_Jewish', 'Catholic_Orthodox', 'Catholic_mixed', 'Protestant', 'Protestant_Catholic', 'mixed']
+    state_tradition: str, 21 uniq, first 20: ['Bourbon_monarchy', 'Braganza_monarchy', 'Habsburg_Lombardy', 'Hessian_dynastic_state', 'Savoy_state', 'Tuscan_grand_duchy', 'Venetian_republic', 'cantonal_sovereignty', 'city_republic', 'commercial_republic', 'ducal_fragmented_state', 'duchy', 'fragmented_imperial_lands', 'mixed_Habsburg_Venetian', 'old_dynastic_state', 'papal_and_ducal_legacy', 'papal_state', 'provincial_estates', 'provincial_privileges', 'state_restoration']
+    language_profile: str, 19 uniq: ['Dutch', 'Dutch_French', 'German', 'German_French', 'German_French_Italian', 'German_Italian', 'Italian_Calabrian', 'Italian_Emilian', 'Italian_Ligurian', 'Italian_Lombard', 'Italian_Neapolitan', 'Italian_Piedmontese', 'Italian_Roman', 'Italian_Tuscan', 'Italian_Venetian', 'Polish', 'Portuguese', 'Slovene_Croatian_Italian_German', 'Spanish_Catalan_Basque_Galician']
+    source_ids: str, 10 uniq: ['A', 'A;G', 'BI;G', 'ES;G', 'G', 'G;ES', 'G;GR', 'G;MA', 'J', 'RW;ES']
+    locator: str, 33 uniq, first 20: ['A pp128-130', 'A pp130-131;G p108', 'BI pp179-183;G pp99-102', 'ES pp5-8;G p25', 'G p108', 'G p116', 'G p118;GR opening narrative', 'G p156', 'G p156;ES pp6-7', 'G p156;ES pp6-8', 'G p170;ES p7', 'G p63', 'G pp103-108', 'G pp114-115', 'G pp118-120', 'G pp132-137;ES pp5-8', 'G pp146-147;ES pp5-7', 'G pp155-156', 'G pp160-164', 'G pp165-168;ES pp6-8']
+    outcome_excerpt: str, 35 uniq, first 20: ['A sympathetic revolt failed to materialize', 'Another widespread rural revolt ... a new milling tax', 'Anti-draft riots broke out ... police were attacked', 'Armed resistance was out of the question', 'Der Putsch brach noch während seiner Entstehung zusammen', 'French rule acceptable if not popular', 'In February 1799 Cardinal Fabrizio Ruffo headed an anti-republican army', 'In southern Germany however conditions remained calm', 'Many Piedmontese peasants joined the Austrian army', 'Napoleon faced no major revolts here', 'The authorities restored order only in late 1809', 'Thousands of rebels; suppressed by early December', 'Twelve rebelling cantons formed a new federal diet', 'While the French occupied most of the country they never pacified it', 'a chain of uprisings', 'administration ... staffed by Poles', 'armed textile workers ... control of several towns', 'at least 20 revolts ... in 1811 and 1812', 'authorities needed three more years to pacify the country', 'increased internal stability and autonomy']
+    covariate_basis: str, 35 uniq, first 20: ['1803让州自治和旧精英回归;新州地位保留;征兵额未满', 'Walcheren近援触发;法国军进入城市;路易调和;征孤儿但未法国普遍征兵', '俄败与俄军将至;海关税兵冲突;精英合作趋裂', '共和国社会根基弱;未及时废封建;宗教网络;英舰与流亡波旁', '关修院誓词强制及新征兵;农民未获贵族资产阶级支持;外援未兑现', '初占领军掠夺;奥军预期;军队离开后起事', '前线重兵;征发反教会;官员留任但旧帝国忠诚冲突;外部联军邻近', '参议会商人寻秩序与减免;封锁危机;1811新制;强税关', '和约承认;专约及本地任官;教产买受者;常态征税征兵', '国民卫队扩大征集;帝国退势;官员合作破裂;外援机会', '地方行政有产者吸纳但城乡敌对;奥入侵;税征兵;北意教会冲突', '城市旧精英恢复赎金;民主平等乡村抵抗;联邦派政府吸纳', '奥军进入触发;军队不抵抗与公务员逃岗;旧制外部支持', '宗教动员;征发;既有公国被侵;联军进展', '山地;征发先于Maida;Sicily英军与波旁基地;地方中介脆弱', '巴伐利亚夺省改制;宗教与征兵特权;地方民兵;奥军10500待援', '并合旧城市共和国;沿海封锁;有产阶级概述性合作', '废摄政及王朝;军队解散;港口商人与教士反法;王室巴西保正统;英海军', '废王;社区洪塔;宗教反法;征发;外援与山地;少数Josephinos无全域控制', '废萨伏依王;财政危机与军征发;旧barbets组织;1799奥俄推进']
+    uncertainty: str, 35 uniq, first 20: ['E0可能事后污染;敏感性改1;原文撤军日期互冲', 'E0对全王国不适用;后期E改1敏感性', 'acceptability非全体同意;同作者相关来源非独立', '不涵盖1802-08;未将有组织反征兵等同0', '不等于支持全法国政策;保王舰队叛变非人民起义', '事件规模缺测;不能把袭警写成全域持续起义或0', '仅1813南德总论负例;T反映本部阿尔卑斯边缘非所有居民', '仅四五月初这轮;不并Nidwalden9月为连续事件', '八成以上国土暴露不同;O近援部分在起事后敏感性改0', '八月到九月底移驻退出;不把整年算民众游击', '六月至八月不足90日;英登陆在后;O改0检验', '具体持续日数未知;R可改0;E不代表农村认同', '反藩属内部旧精英而非明确反法;专门剔除检验', '含多个分立短事件非连续两年起义', '四月与十一月非连续半年;11月动因不可回填4月', '地形未使用现代栅格;dynasty指域外哈布斯堡非本地流亡君主', '夏至年底跨季;主要起义平原城市腹地T0;低宗教R0敏感性', '大起义可与精英吸纳共存;持续性用镇压叙述与综述判断', '宗教冲突1809后再起;敏感性R改1', '市镇短暴动非整个北意持续游击']
+    config: num, min=1, max=1110
+```
+case_id,region,cluster,macrocluster,start_year,end_year,regime,mass_lo,mass_hi,sustained_lo,sustained_hi,scale,exit_context,anti_french_explicit,negative_strength,T,R,E,O,S,D,X,dynasty_exile,brigand_tradition,coast_access,religion_profile,state_tradition,language_profile,source_ids,locator,outcome_excerpt,covariate_basis,uncertainty,config
+BE1798,比利时佛兰德及邻区,Belgium,LowCountries,1798,1798,annexed,1,1,0,0,2,0,1,not_applicable,0,1,0,0,1,1,2,1,0,1,Catholic,provincial_estates,Dutch_French,G,pp77-78,Thousands of rebels; suppressed by early December,关修院誓词强制及新征兵;农民未获贵族资产阶级支持;外援未兑现,地形未使用现代栅格;dynasty指域外哈布斯堡非本地流亡君主,0100
+BE1802,比利时,Belgium,LowCountries,1802,1813,annexed,0,0,0,0,0,0,1,explicit,0,0,1,0,0,0,1,1,0,1,Catholic,provincial_estates,Dutch_French,G,pp79-83,the broad anti-conscription revolt of 1798 was never repeated,本地任官及专约;常态征兵未等于新征兵冲击;晚期封锁恶化,宗教冲突1809后再起;敏感性R改1,0010
+RH1796,莱茵左岸,Rhineland,Germany,1796,1799,occupied,0,0,0,0,1,0,1,explicit,1,1,0,1,1,1,2,1,1,0,Catholic_mixed,fragmented_imperial_lands,German,RW;ES,Rowe pp72-77;Esdaile pp2-4,Armed resistance was out of the question,前线重兵;征发反教会;官员留任但旧帝国忠诚冲突;外部联军邻近,有暴动及匪患但不达本卡大规模阈值;E0可改1,1101
+RH1802,莱茵左岸,Rhineland,Germany,1802,1813,annexed,0,0,0,0,0,0,1,explicit,1,0,1,0,0,0,1,1,1,0,Catholic_mixed,fragmented_imperial_lands,German,RW;ES,Rowe pp77-81;Esdaile pp2-4,French rule acceptable if not popular,和约承认;专约及本地任官;教产买受者;常态征税征兵,acceptability非全体同意;同作者相关来源非独立,1010
+PI1798,皮埃蒙特,NWItaly,Italy,1798,1799,occupied,1,1,0,1,2,0,1,not_applicable,1,1,0,1,1,0,2,1,1,0,Catholic,Savoy_state,Italian_Piedmontese,G;ES,G p156;ES pp6-8,Many Piedmontese peasants joined the Austrian army,废萨伏依王;财政危机与军征发;旧barbets组织;1799奥俄推进,持续时长未单独核;R为革命期反教会背景推断,1101
+PI1809,皮埃蒙特,NWItaly,Italy,1809,1813,annexed,0,0,0,0,0,0,1,explicit,1,0,1,0,0,0,1,1,1,0,Catholic,Savoy_state,Italian_Piedmontese,G,G pp168-169,the French had restored civil order in Piedmont by 1809,本地有产阶级入官买教产;法宪兵恢复秩序;长期驻军数据缺,不涵盖1802-08;未将有组织反征兵等同0,1010
+LI1805,利古里亚,NWItaly,Italy,1805,1813,annexed,0,0,0,0,0,0,1,general,1,0,1,0,1,1,2,0,1,1,Catholic,urban_republic,Italian_Ligurian,G,G pp168-170,Napoleon faced no major revolts here,并合旧城市共和国;沿海封锁;有产阶级概述性合作,零值为并省总论非专题逐年事件表;敏感性整行剔除,1010
+TU1799,托斯卡纳Viva Maria,Tuscany,Italy,1799,1799,occupied,1,1,0,1,3,0,1,not_applicable,1,1,0,1,1,0,2,1,1,1,Catholic,Tuscan_grand_duchy,Italian_Tuscan,G,G p156,inhabitants of Arezzo chanting Viva Maria,宗教动员;征发;既有公国被侵;联军进展,跨季持续未核精确起止;保留不确定,1101
+TU1808,托斯卡纳,Tuscany,Italy,1808,1813,annexed,0,0,0,0,0,0,1,general,1,0,1,0,1,1,2,1,1,1,Catholic,Tuscan_grand_duchy,Italian_Tuscan,G,G pp168-170,propertied classes ... generally supported French rule,有产者要平匪;封锁出口受损;E与恢复秩序并行;无统一驻军率,总论无大起义支持较弱;教会冲突R可改1,1010
+RM1809,罗马及拉齐奥翁布里亚,Rome,Italy,1809,1812,annexed,0,0,0,1,1,0,1,general,1,1,1,0,1,1,2,1,1,1,Catholic,papal_state,Italian_Roman,G;MA,G pp168-171;MA index pp186-189,une opposition sans grandes violences,逐教皇;教士拒出生册;初期贵族入官;新征兵;税收,政治匪患与跨季起义边界不明;1813单独不纳负窗;E可改0,1110
+PA1806,帕尔马皮亚琴察山谷,NEItaly,Italy,1806,1806,occupied,1,1,0,0,2,0,1,not_applicable,1,0,0,1,1,1,2,1,1,0,Catholic,duchy,Italian_Emilian,G;ES,G p170;ES p7,suppressed it within a few weeks,新征兵和税收;地方中介不足;前次1805联军战事邻近,起事始于1805末;O窗口争议敏感性改0;R未证强冲突编码0,1001
+PV1796,帕维亚及比纳斯科,NEItaly,Italy,1796,1796,occupied,1,1,0,0,2,0,1,not_applicable,0,1,0,1,1,0,2,1,0,0,Catholic,Habsburg_Lombardy,Italian_Lombard,G;ES,G p156;ES pp6-7,revolts in the Lombard towns of Pavia and Binasco,初占领军掠夺;奥军预期;军队离开后起事,市镇短暴动非整个北意持续游击,0101
+VE1809,威尼托,NEItaly,Italy,1809,1809,client,1,1,1,1,3,0,1,not_applicable,0,1,1,1,0,1,2,0,1,1,Catholic,Venetian_republic,Italian_Venetian,G,G pp160-164,The authorities restored order only in late 1809,地方行政有产者吸纳但城乡敌对;奥入侵;税征兵;北意教会冲突,夏至年底跨季;主要起义平原城市腹地T0;低宗教R0敏感性,0111
+EM1809,艾米利亚罗马涅,NEItaly,Italy,1809,1809,client,1,1,0,1,2,0,1,not_applicable,0,1,1,1,0,1,2,0,1,1,Catholic,papal_and_ducal_legacy,Italian_Emilian,G,G pp160-164,Another widespread rural revolt ... a new milling tax,磨粉税;逃兵匪帮;北意王国本地府长;同期奥军机会,具体持续日数未知;R可改0;E不代表农村认同,0111
+NA1799,那不勒斯共和国辖区,Naples,Italy,1799,1799,client,1,1,1,1,4,0,1,not_applicable,1,1,0,1,1,0,2,1,1,1,Catholic,Bourbon_monarchy,Italian_Neapolitan,G,G pp155-156,In February 1799 Cardinal Fabrizio Ruffo headed an anti-republican army,共和国社会根基弱;未及时废封建;宗教网络;英舰与流亡波旁,精英阵营分裂;不可把所有农民当保封建,1101
+CA1806,卡拉布里亚,Naples,Italy,1806,1811,client,1,1,1,1,3,0,1,not_applicable,1,1,0,1,1,1,2,1,1,1,Catholic,Bourbon_monarchy,Italian_Calabrian,G;ES,G pp165-168;ES pp6-8,authorities needed three more years to pacify the country,山地;征发先于Maida;Sicily英军与波旁基地;地方中介脆弱,E0对全王国不适用;后期E改1敏感性,1101
+TY1809,蒂罗尔,Tyrol,Alpine,1809,1809,allied_annexation,1,1,1,1,3,0,1,not_applicable,1,1,0,1,1,1,2,1,0,0,Catholic,provincial_privileges,German_Italian,ES;G,ES pp5-8;G p25,only three enduring revolts ... Tyrol (1809),巴伐利亚夺省改制;宗教与征兵特权;地方民兵;奥军10500待援,驻军3400-4500非1809全程常驻;王朝在奥而非正式流亡,1101
+CH1798,瑞士中部诸州,Switzerland,Alpine,1798,1798,client,1,1,0,0,2,0,1,not_applicable,1,1,0,0,1,0,2,0,0,0,Catholic,cantonal_sovereignty,German,G,G pp114-115,these cantons rose against the new government,自治取消;缴款;教产政策;地方旧统治集团排斥,仅四五月初这轮;不并Nidwalden9月为连续事件,1100
+CH1802,瑞士邦联联邦派地区,Switzerland,Alpine,1802,1802,client,1,1,0,1,2,0,1,not_applicable,1,1,0,1,1,0,2,0,0,0,mixed,cantonal_sovereignty,German_French,G,G p116,Twelve rebelling cantons formed a new federal diet,法军撤离出现权力真空;旧州自主诉求;财政余债,无法精确90日;O指撤空不指英国;这是复合机会变量,1101
+ZH1804,苏黎世乡村Bockenkrieg,Switzerland,Alpine,1804,1804,client,1,1,0,0,2,0,0,not_applicable,1,0,1,0,0,0,1,0,0,0,Protestant,cantonal_sovereignty,German,G;GR,G p118;GR opening narrative,provo[k]ed a peasant revolt (March 1804),城市旧精英恢复赎金;民主平等乡村抵抗;联邦派政府吸纳,反藩属内部旧精英而非明确反法;专门剔除检验,1010
+CH1805,瑞士调停制,Switzerland,Alpine,1805,1812,client,0,0,0,0,0,0,1,general,1,0,1,0,0,0,1,0,0,0,mixed,cantonal_sovereignty,German_French_Italian,G,G pp118-120,increased internal stability and autonomy,1803让州自治和旧精英回归;新州地位保留;征兵额未满,无全境逐年事件清单;剔除1804后仍只一般性负例,1010
+NL1799,荷兰巴达维亚共和国,Netherlands,LowCountries,1799,1799,client,0,0,0,0,0,0,1,explicit,0,0,1,1,1,0,1,1,0,1,Protestant_Catholic,commercial_republic,Dutch,G,G p63,A sympathetic revolt failed to materialize,英俄登陆与流亡Orange召起无效;本地共和政府组织尚在,不等于支持全法国政策;保王舰队叛变非人民起义,0011

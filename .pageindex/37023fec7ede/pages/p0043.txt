@@ -1,0 +1,30 @@
+        French. The most effective means to obtain this significant result consists,
+        in this country as elsewhere, in rendering communications between the
+        two people closer, more essential and more general. That is very difficult
+        in the countryside, and nothing would contribute more to the gradual
+        introduction of the customs, the speech and the character of the French
+        than making recruitment for the French armies as frequent as possible.7
+
+
+                  Figure 11: Draft-dodging rates over time by nationality
+
+
+
+
+    Tables 23 and 24 report the results of the new specifications. The coefficients
+for the effect of “identity” on the draft-dodging rate are negative but are statistically
+significant when using Conley standard errors in only half of our specifications. Those
+for the “Log of ruggedness” variable, on the other hand, remain overall statistically
+significant—except in column 2—and the coefficients are generally higher than in
+Table 1.
+    We also find no evidence that the central government drafted a higher share
+of the population in regions which identified more strongly as French (table 24).
+If anything the sign on our identity variable is negative, suggesting that leaving
+in regions where inhabitants “felt more French” was negatively correlated with the
+likelihood of being drafted. Our ruggedness variable, on the other hand, remains
+statistically and economically significant throughout.
+   7
+       Cited in McCain (2017, p.156).
+
+
+                                            43

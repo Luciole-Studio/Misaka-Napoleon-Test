@@ -1,0 +1,24 @@
+# James 1886 IV：本次实际读取的相关段落
+
+## 版本与获取
+William James, *The Naval History of Great Britain, from the Declaration of War by France in 1793 to the Accession of George IV*, new edition, with additions and notes bringing the work down to 1827, vol. IV (London: Richard Bentley & Son, 1886).
+公开扫描来源：https://www.ibiblio.org/hyperwar/NHC/NewPDFs/UK/UK,%20Naval%20History%20of%20Great%20Britain%204.pdf
+扫描原标识：http://www.archive.org/details/navalhistoryofg04jame
+读取方式：web_extract返回的扫描书OCR；以正文页眉识别印刷页码，未进行图像逐字对校。原自动缓存：downloads/pages/d6e755fb0b5d.md。原缓存有跳页及OCR错误，不称完整逐页文本。本文件是实际读取段落的选录，不是整卷复制。
+下面引文保留OCR实词；仅连接断行、断词，未默默纠正不明词。短引文报告避开明显损坏位置。页码为1886版印刷页，非PDF页序；不套用1837版页码。
+
+## A. 出航：p.87
+> In our last year's account of the proceedings of the Brest fleet, we stated that, on the 13th of December, a strong division of it, consisting of 11 sail of the line, four frigates, and a ship corvette, had escaped from the anchorage outside of the goulet
+> and that, in consequence of the severity of the weather, Admiral Cornwallis, the commander-in-chief of the Channel fleet, was not apprised of the circumstance.
+> On the 14th these 11 line-of-battle ships, which were the elite of the Brest fleet, separated into two squadrons;
+
+注：上下文为1806章，所述12月出航属1805年。网页此后跳至p.99，故不引用缺失的pp.88–98。
+
+## B. 补给与海上活动：p.108
+> Left by Sir John Duckworth to pursue his course, the French admiral reached, without further molestation, the latitude of the Cape of Good Hope. Here he captured an English merchant-vessel, but not "une corvette anglaise," for none was lost, and from the former learnt, to his regret, into whose hands the Cape had recently fallen. In this port he was to have refitted, preparatory to a cruise off the bank of Anguillas, where he had hoped to have intercepted the China fleet. Thus disappointed, M. Willaumez contented himself with cruising between the continents of Africa and South America, until the want of provisions, in the beginning of April, sent him to the port of St. Salvadore. After a stay here of 16 days, the French squadron weighed and set sail for Cayenne. There M. Willaumez separated his squadron into three divisions, and cruised between the last-named port and the ninth degree of south latitude. He, it appears, contemplated the destruction of the shipping in Carlisle bay, Barbadoes ; but declares he was prevented by currents, contrary winds, and bad weather. Perhaps, had M. Willaumez made the attempt, he would have found more formidable obstacles than these.
+
+来源提示：附近注引 *Victoires et Conquêtes*, tome XVII, p.300；最后一句显然是James评议，不是法方报告。
+
+## C. 加勒比海再集结：p.109
+> On the 15th at 3 a.m. the Northumberland, in a heavy squall, carried away her fore-yard and foretopmast, and, towed by the Canada, was obliged to bear away for Gros-islet bay, Sainte-Lucie, to refit. On the same afternoon the Eole and Impetueux arrived in Fort Royal bay. On the 20th the Foudroyant and Valeureuse succeeded in reaching the same anchorage, although chased by Sir Alexander's squadron ; and on the 24th the like good fortune attended the Cassard and Patriote. During the chase of the two latter ships, the Northumberland, a second time, carried away her fore-yard.
+> On the 1st of July Rear-admiral Willaumez quitted Martinique, and steered for the island of Montserrat,

@@ -1,0 +1,96 @@
+Rural Change and Royal Finances in Spain
+
+
+       [7] The data on the Armuña region refer to one of the geographic zones into which I divided the province for analysis (see Appendix Q).
+       The data come from an analysis of the provincial returns of the catastro, AHN, Hac., Catastro, Salamanca, libros 7476, 7477, 7478, in
+       each volume under letra D, "Producto de cada medida de tierra en reales de vellón."
+
+
+                                                                                            ― 171 ―
+
+
+                        Table 7.2. Estimated Grain Harvest, La Mata, 1753
+
+
+
+                                           Fanegas of grain b per
+                                            Year per Fanega of
+                                                   Land              Gross Annual Harvest
+
+
+
+        Class of Land     Total Area a      Wheat         Rye         Wheat         Rye
+
+
+
+             First           245.1             4           —           980           —
+
+
+
+           Second            523.6             3           —          1,571          —
+
+
+
+            Third            212.8             2           —           426           —
+
+
+
+           Fourth             35.3             —            3           —           106
+
+
+
+            Total           1,016.8                                   2,977         106
+
+
+
+           SOURCE . Preliminary summaries in La Mata, maest. segl. and maest. ecles.
+
+
+
+          a In fanegas. The fanega of land in La Mata was .447 hectare (see Table N.5).
+
+
+
+          b The basic volumetric measure of grain was the fanega, the same name as the
+        basic measure of land. The standard volumetric fanega was 55.20 liters (according
+        to RD, 21 Nov. 1804, AHN, Hac., libro 8056, no. 6625: 1 hectoliter = 1 fanega, 9
+         celemines, 2 cuartillos, 1.9 ochavillos; 12 celemines = 1 fanega; 4 cuartillos = 1
+                                 celemín; 2 ochavillos = 1 cuartillo).
+
+
+       tion in the fertile grain regions of Castile, which could produce wheat regularly, was to establish large fields within each término,
+       alternating between a year of grain and another of fallow, half the fields in one cycle and half in the other. After the summer wheat
+       harvest, the fields would lie untilled through the winter, and the animals would pasture on the stubble (rastrojo ) and weeds. Fallow
+       plowing followed in the spring, to renew the soil and retard evaporation, until time for the autumn sowing of the next wheat crop.
+       Henceforth all farmers of a village had to follow the same pattern, called familiarly año y vez, but each farmer needed to have plots
+       scattered through all the hojas in order to equalize his harvest.[8]
+             The information in the catastro provides an easy estimate of the annual harvest of La Mata, since it includes the number of fanegas
+       there were of each quality of land and the size of crop each quality produced annually per fanega. The latter figure was obtained by
+       halving the expected harvest because each plot was sown only every other year (Table 7.2). These figures can hardly be expected to be
+       exact. The makers of the catastro did not survey the plots but had to accept the best estimate of their size, and it was a matter of
+       judgment into what class of land they
+
+       [8] García Fernández, "Champs ouverts," 705–9.
+
+
+                                                                                            ― 172 ―
+       assigned each plot, since there was a continuum in the quality of the soil from the poorest to the best.
+            A more reliable measure of the harvests is provided by the tithes (diezmos ) reported in the catastro for the five-year period ending
+       in 1752. In describing the different plots, the catastro defined them as being planted in either wheat or rye, but in fact the tithe returns
+       show that the farmers also planted other crops, barley, oats, algarrobas (carob beans), and garbanzos (chick-peas). The farmers paid
+       one-tenth of their harvest of all these crops as tithes. [9]
+             The tithes fell into three categories. The larger part were lumped together for distribution to those institutions that were entitled to a
+       share of the town tithe fund, the cilla . These were known as the divisible tithes, or partible . The property of certain religious institutions
+       was exempt from tithes, and the owners required the tenants who farmed these lands to pay them a substitute for the tithes. These
+       payments were called the diezmos privativos, or more commonly the horros, from the expression horro de diezmos, exempt from tithes.
+       Rather than a stated proportion of the harvest, the horros were a fixed payment, such as some proportion of the rent, and were usually
+       less than a full tithe. [10] The property of the benefice of the parish church (emolument of the priest), of the fabric (building and
+       maintenance fund) of the church, and of a monastery and two convents in Salamanca enjoyed this privilege. [11] Finally, by a special
+       concession, the cathedral of Salamanca received for its fabric the tithes of the fourth largest tithe payer of each parish in this region, the
+       cuarto dezmero .[12] The horros were paid into the tithe fund, which then distributed them to the owners of the land; the tithes of the
+       cuarto dezmero, however, never entered the tithe fund but went directly to the cathedral. [13]
+
+
+
+
+http://publishing.cdlib.org/ucpressebooks/view?docId=ft4d5nb394;chunk.id=0;doc.view=print[1/22/2011 11:30:51 AM]

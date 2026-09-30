@@ -1,0 +1,91 @@
+
+
+  Total 5th Division, 162 officers, 2,829 men = 2,991.
+
+6TH DIVISION. Major-General A. CAMPBELL.
+
+                      {1/11th Foot                              740
+                      {2/53rd Foot                              417
+  Hulse’s Brigade     {1/61st Foot                              624
+                      {1 comp. 5/60th Foot                       40
+
+                      {2nd Foot                                 543
+  Burne’s Brigade     {1/32nd Foot                              794
+                      {1/36th Foot                              460
+
+                Total 6th Division, 181 officers, 3,437 men = 3,618.
+
+7TH DIVISION. Major-General SONTAG.
+
+                      {1st Light Batt. K.G.L.                   602
+  V. Alten’s Brigade  {2nd Light Batt. K.G.L.                   516
+                      {Brunswick Oels (9 comps.)                536
+
+                      {51st Foot                                309
+  Sontag’s Brigade    {68th Foot                                479
+                      {85th Foot (5 comps.)                     166
+                      {_Chasseurs Britanniques_                 671
+
+                Total 7th Division, 161 officers, 3,118 men = 3,279.
+
+LIGHT DIVISION. Major-General R. CRAUFURD.
+
+                      {1/43rd Foot                            1,005
+  Barnard’s Brigade   {4 comps. 1/95th                          317
+                      {1 comp. 2/95th                            86
+                      {detachment 3/95th                        297
+
+                      {1/52nd Foot                              771
+  2nd Brigade         {2/52nd Foot                              432
+                      {4 companies 1/95th                       339
+
+              Total Light Division, 148 officers, 3,099 men = 3,247.
+
+  ARTILLERY[798]:
+
+    British: Bull’s, Ross’s, and Macdonald’s Troops R.H.A.,
+      Lawson’s and Bredin’s companies R.A. (including drivers)  464
+    German: Sympher’s company K.G.L.                             77
+
+  ENGINEERS[798]                                                  143
+
+  WAGGON TRAIN[798]                                               136
+
+  [798] The artillery and engineer returns, both British and Portuguese,
+  are given in bulk for the whole army, including Hill’s force in
+  Estremadura and units left at Lisbon. Distributing the numbers
+  proportionately, the above figures would result; they cannot be far
+  wrong.
+
+
+TOTAL BRITISH ARMY
+
+  Cavalry          3,012
+  1st Division     4,920
+  3rd Division     3,988
+  4th Division     3,501
+  5th Division     2,991
+  6th Division     3,018
+  7th Division     3,279
+  Light Division   3,247
+  Artillery          541
+  Engineers          143
+  Waggon Train       136
+                  ------
+           Total  29,382
+
+
+PORTUGUESE (officers and men together)
+
+  3rd Division: Palmeirim’s Brigade (9th and 21st Line)                1,289
+  4th Division: Collins’s Brigade (11th and 23rd Line, 7th Caçadores)  2,982
+  5th Division: Spry’s Brigade (3rd and 15th Line, 8th Caçadores)      2,014
+  6th Division: Madden’s Brigade (8th and 12th Line)                   2,069
+  7th Division: Coleman’s Brigade (7th and 19th Line, 2nd Caçadores)   1,823
+  Light Division: 1st and 3rd Caçadores                                  953
+  Pack’s Independent Brigade (1st and 16th Line, 4th Caçadores)        2,206
+  McMahon’s Independent Brigade (13th and 22nd Line, 5th Caçadores)    2,489
+  Madden’s Cavalry (1st, 3rd, 4th, 7th regiments)                      1,014
+  Artillery, 5 batteries                                                 510
+                                                                      ------
+                                                               Total  17,349

@@ -1,0 +1,443 @@
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2005852557",
+      "doi": "10.2307/3649143",
+      "title": "The Transplant Effect",
+      "year": 2003,
+      "type": "article",
+      "venue": "The American Journal of Comparative Law",
+      "venue_issn": "0002-919X",
+      "authors": [
+        {
+          "name": "Daniel Berkowitz",
+          "id": "https://openalex.org/A5090153821",
+          "institutions": [
+            "Davidson College"
+          ]
+        },
+        {
+          "name": "Katharina Pistor",
+          "id": "https://openalex.org/A5051975319",
+          "institutions": [
+            "Columbia University"
+          ]
+        },
+        {
+          "name": "Jean‐François Richard",
+          "id": "https://openalex.org/A5059550585",
+          "institutions": [
+            "University of Pittsburgh"
+          ]
+        }
+      ],
+      "cited_by_count": 355,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2130833178",
+      "doi": "10.3386/w17113",
+      "title": "Persecution Perpetuated: The Medieval Origins of Anti-Semitic Violence in Nazi Germany",
+      "year": 2011,
+      "type": "report",
+      "venue": "National Bureau of Economic Research",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Nico Voigtlaender",
+          "id": "https://openalex.org/A5069400882",
+          "institutions": [
+            "National Bureau of Economic Research",
+            "University of California, Los Angeles"
+          ]
+        },
+        {
+          "name": "Hans‐Joachim Voth",
+          "id": "https://openalex.org/A5064565742",
+          "institutions": [
+            "National Bureau of Economic Research",
+            "Royal Economic Society"
+          ]
+        }
+      ],
+      "cited_by_count": 349,
+      "is_oa": true,
+      "oa_pdf": "https://doi.org/10.3386/w17113",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 126,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W3122611011",
+      "doi": "10.1093/restud/rdv019",
+      "title": "State Capacity and Military Conflict",
+      "year": 2015,
+      "type": "article",
+      "venue": "The Review of Economic Studies",
+      "venue_issn": "0034-6527",
+      "authors": [
+        {
+          "name": "Nicola Gennaioli",
+          "id": "https://openalex.org/A5050249057",
+          "institutions": [
+            "Bocconi University"
+          ]
+        },
+        {
+          "name": "Hans‐Joachim Voth",
+          "id": "https://openalex.org/A5064565742",
+          "institutions": [
+            "Union Bank of Switzerland"
+          ]
+        }
+      ],
+      "cited_by_count": 342,
+      "is_oa": true,
+      "oa_pdf": "https://www.zora.uzh.ch/handle/20.500.14742/110865",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 119,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W3121264940",
+      "doi": "10.1257/jep.29.1.3",
+      "title": "The Rise and Decline of General Laws of Capitalism",
+      "year": 2015,
+      "type": "article",
+      "venue": "The Journal of Economic Perspectives",
+      "venue_issn": "0895-3309",
+      "authors": [
+        {
+          "name": "Daron Acemoğlu",
+          "id": "https://openalex.org/A5012301204",
+          "institutions": [
+            "Harvard University Press",
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "name": "James A. Robinson",
+          "id": "https://openalex.org/A5014156593",
+          "institutions": [
+            "Dana-Farber/Harvard Cancer Center"
+          ]
+        }
+      ],
+      "cited_by_count": 328,
+      "is_oa": true,
+      "oa_pdf": "https://www.aeaweb.org/articles/pdf/doi/10.1257/jep.29.1.3",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 112,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W1555997053",
+      "doi": "10.5860/choice.27-2248",
+      "title": "The Oxford history of the French Revolution",
+      "year": 1989,
+      "type": "book-review",
+      "venue": "Choice Reviews Online",
+      "venue_issn": "0009-4978",
+      "authors": [],
+      "cited_by_count": 323,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2114073496",
+      "doi": "10.1515/9781400885770",
+      "title": "The End of the Old Order in Rural Europe",
+      "year": 1978,
+      "type": "book",
+      "venue": "Princeton University Press eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Jerome Blum",
+          "id": "https://openalex.org/A5052513672",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 319,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W1861719269",
+      "doi": "10.1111/jeea.12117",
+      "title": "The Economic Effects of the Protestant Reformation: Testing the Weber Hypothesis in the German Lands",
+      "year": 2014,
+      "type": "article",
+      "venue": "Journal of the European Economic Association",
+      "venue_issn": "1542-4766",
+      "authors": [
+        {
+          "name": "Davide Cantoni",
+          "id": "https://openalex.org/A5061039550",
+          "institutions": [
+            "Institut für Urheber- und Medienrecht"
+          ]
+        }
+      ],
+      "cited_by_count": 299,
+      "is_oa": true,
+      "oa_pdf": "https://econ-papers.upf.edu/ca/paper.php?id=1260",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 95,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2151644579",
+      "doi": "10.1162/rest_a_00458",
+      "title": "The Legacies of Forced Freedom: China's Treaty Ports",
+      "year": 2014,
+      "type": "article",
+      "venue": "The Review of Economics and Statistics",
+      "venue_issn": "0034-6535",
+      "authors": [
+        {
+          "name": "Ruixue Jia",
+          "id": "https://openalex.org/A5049584966",
+          "institutions": [
+            "Stockholm University"
+          ]
+        }
+      ],
+      "cited_by_count": 293,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 59,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W1604904593",
+      "doi": null,
+      "title": "The Rights of Man",
+      "year": 1994,
+      "type": "book",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Thomas Paine",
+          "id": "https://openalex.org/A5041023610",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 273,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 6,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W3022515973",
+      "doi": "10.1007/s10887-012-9079-4",
+      "title": "Warfare, fiscal capacity, and performance",
+      "year": 2012,
+      "type": "article",
+      "venue": "Journal of Economic Growth",
+      "venue_issn": "1381-4338",
+      "authors": [
+        {
+          "name": "Mark Dincecco",
+          "id": "https://openalex.org/A5007800932",
+          "institutions": [
+            "IMT School for Advanced Studies Lucca"
+          ]
+        },
+        {
+          "name": "Mauricio Prado",
+          "id": "https://openalex.org/A5057665084",
+          "institutions": [
+            "Copenhagen Business School"
+          ]
+        }
+      ],
+      "cited_by_count": 240,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 88,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W399903397",
+      "doi": null,
+      "title": "Deutsche Verfassungsgeschichte seit 1789",
+      "year": 1957,
+      "type": "article",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Ernst Rudolf Huber",
+          "id": "https://openalex.org/A5033670926",
+          "institutions": []
+        },
+        {
+          "name": "Gustav Schmidt",
+          "id": "https://openalex.org/A5042785829",
+          "institutions": []
+        },
+        {
+          "name": "Gerhard Borawski",
+          "id": "https://openalex.org/A5005775848",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 235,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W1557623179",
+      "doi": "10.1515/9781400832637",
+      "title": "Sufficient Reason: Volitional Pragmatism and the Meaning of Economic Institutions",
+      "year": 2006,
+      "type": "article",
+      "venue": "Project Muse (Johns Hopkins University)",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Daniel W. Bromley",
+          "id": "https://openalex.org/A5073835856",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 233,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 12,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2124465692",
+      "doi": "10.1093/qje/qju007",
+      "title": "Medieval Universities, Legal Institutions, and the Commercial Revolution *",
+      "year": 2014,
+      "type": "article",
+      "venue": "The Quarterly Journal of Economics",
+      "venue_issn": "0033-5533",
+      "authors": [
+        {
+          "name": "Davide Cantoni",
+          "id": "https://openalex.org/A5061039550",
+          "institutions": [
+            "Center for Economic and Policy Research"
+          ]
+        },
+        {
+          "name": "Noam Yuchtman",
+          "id": "https://openalex.org/A5006886999",
+          "institutions": [
+            "Center for Economic and Policy Research",
+            "Harvard University Press"
+          ]
+        }
+      ],
+      "cited_by_count": 228,
+      "is_oa": true,
+      "oa_pdf": "https://academic.oup.com/qje/article-pdf/129/2/823/30628306/qju007.pdf",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 118,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2157274181",
+      "doi": "10.1257/jep.28.4.169",
+      "title": "The Economics of Guilds",
+      "year": 2014,
+      "type": "article",
+      "venue": "The Journal of Economic Perspectives",
+      "venue_issn": "0895-3309",
+      "authors": [
+        {
+          "name": "Sheilagh Ogilvie",
+          "id": "https://openalex.org/A5068184278",
+          "institutions": [
+            "University of Cambridge",
+            "Institute for Social and Economic Research"
+          ]

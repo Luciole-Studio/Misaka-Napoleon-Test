@@ -1,0 +1,37 @@
+# HT 笔记③｜海地的宪法化战略学说＋法属小安的列斯的1802–09实况
+
+## A. 1805年5月20日《海地帝国宪法》（全文已读）
+来源：Duke "Haiti and the Atlantic World" 数字馆转录 https://haitidoi.com/constitutions/1805-2/ ，据 *Constitution d'Haïti*, s.l.: s.n., [1805] 印本；本地缓存 `downloads/pages/9d5c73371364.md`。交叉：scribd 两份独立转录（Linstant Pradine《Recueil général des lois》系统）条文一致。
+【来源批判】转录本非影像；但三处独立转录一致且与 Linstant Pradine 汇编体例吻合，采信度高。
+
+**本卡认定：1805宪法不是象征性文件，而是一份把"如何抵抗再征服"写进根本法的军事—政治学说。** 关键条款：
+
+| 条 | 原文 | 战略含义 |
+|---|---|---|
+| 预2 | 「L'esclavage est à jamais aboli.」 | 复奴＝废宪＝战争，无谈判空间 |
+| 预12 | 「Aucun blanc, quelle que soit sa nation, ne mettra le pied sur ce territoire, **à titre de maître ou de propriétaire**, et ne pourra à l'avenir y acquérir aucune propriété.」 | 禁止白人**以主人／业主身份**存在——注意限定语：**不是排外，是排"地主"**。商人受欢迎（预22–26） |
+| 预13 | 例外：已归化的白人妇女及其子女，**以及归化的德意志人与波兰人** | 波兰军团逃兵被接纳＝法国远征军的**逆向招募**通道 |
+| 预14 | 「les Haïtiens ne seront désormais connus que sous la dénomination générique de **noirs**」 | 用法律消解肤色等级——针对的是法国"分而治之"的黄/黑楔子 |
+| 总12 | 「Toute propriété qui aura ci-devant appartenu à un blanc français est incontestablement et de droit **confisqué au profit de l'État**」 | 国家垄断旧殖民地产→复辟即须动摇全部现有产权→**全社会利益被绑上抵抗** |
+| 帝36 | 「L'Empereur ne formera **jamais aucune entreprise dans la vue de faire des conquêtes ni de troubler la paix et le régime intérieur des colonies étrangères**.」 | **宪法级的对外不输出革命承诺**——这是海地向英美西荷购买"不被联合绞杀"的战略产品 |
+| 总28 | 「**Au premier coup de canon d'alarme, les villes disparaissent et la nation est debout.**」 | **焦土＋全民动员写进宪法**；1802–03已实测（克里斯托夫焚海地角），1827英领事仍认定其有效 |
+| 帝15–17 | 领土分六个军区，各师长**彼此独立**、直接对皇帝负责 | 抗斩首的分布式指挥；反面是内战风险（1806–20兑现） |
+| 帝23 | 「La couronne est élective et non héréditaire.」 | 无王朝继承法→1806德萨林被弑后立即分裂 |
+| 帝50–52 | 不设国教、宗教自由、国家不供养任何教士 | 法国—教廷的"正统性"杠杆在海地**无着力点**（与西班牙、意大利、波兰完全不同） |
+
+【推演·高】把总28与预2合读：法国若再度登陆，海地一方的**默认战略不是野战会战而是弃城—焚毁—退山地—待疫季**。这正是1802–03 使 Leclerc 远征破产的组合。法方要打破它，必须在一个战役季内同时做到：控制港口、控制山区、维持补给、维持非免疫部队健康——1802年32艘战列舰＋5万人做不到的事。
+【推演·中高】帝36是海地**主动放弃的一张牌**。反事实里，若法国以复奴为目标逼近，海地取消该自我约束（1815–16佩蒂翁实际援助玻利瓦尔即是先例）的代价极低，而对加勒比全域的边际威慑极高。**这构成"法国进攻海地"的一条外部性成本：会把海地从自我克制的国家变成加勒比奴隶制的主动颠覆者。**
+
+## B. 法属小安的列斯1802–09：复奴的实际代价与脆弱性
+主来源：Lionel Trani,「Les effets de l'indépendance d'Haïti sur la société esclavagiste martiniquaise sous le Consulat et l'Empire (1802-1809)」, *La Révolution française* 16 (2019)，DOI 10.4000/lrf.2923，本地 `downloads/pages/90e66489ab34.md`（77,839字符，已读头22,464＋尾7,429，中段未读）。辅：Laurent Dubois,「La résurrection de l'esclavage à la Guadeloupe (1802-1803)」, *Cahiers des Amériques latines/Bulletin de la Société d'histoire de la Guadeloupe* 2003（Persée cbc_0989-5191_2003_num_53_1_1446，仅得搜索快照，未获全文）；ANOM 专题页「28 mai 1802: le suicide de Louis Delgrès」。
+
+【事实｜Trani 注40】「Entre mai et novembre 1802, **3 000 civils et 1 000 militaires périssent** sous les violences commises par le corps expéditionnaire du capitaine-général Richepance…**1 900 soldats de couleur** furent conduits aux Saintes puis ensuite déportés pour être vendus dans les colonies espagnoles ou aux États-Unis.」
+【事实｜ANOM专题页】Delgrès 1802-05-10 宣言「À l'univers entier. Le dernier cri de l'innocence et du désespoir」；05-28马图巴约500人集体自爆；「environ dix mille Noirs sont tués ou déportés」（**与Trani的4,000口径冲突，保留区间4,000–10,000，前者为"死亡"后者含"被驱逐"**）。
+【事实｜Trani §21】1802-07-02执政府令**禁止黑人、混血及有色人进入本土法国**；1802-08-13马提尼克殖民长官Bertin报告须驱逐1,500–2,200名有色囚犯；1802-08至1803-01把全部"危险"囚犯运往委内瑞拉荒岸或阿鲁巴出售。
+【事实｜Trani §19】「La loi du 20 mai 1802, qui garantit le maintien de l'esclavage en Martinique et aux Mascareignes」；「Le commerce négrier français connaît un **regain qui va perdurer jusqu'en 1806**.」
+【事实｜Trani §22】1802-11-10 Villaret de Joyeuse 下令**关闭马提尼克全部有色人儿童学校**（教育被判定为危险）；但马提尼克**未解除有色人武装**（与瓜德罗普、圭亚那相反），有色自由人仍留国民卫队。
+【事实｜Trani，引Roberjot Lartigue 1815年印本与1806-05-26报告】德萨林的海军能力：**8–10艘私掠船，含两艘8–10门炮的双桅横帆船，约3,000名训练不良的水兵**；1805–06 军队已欠饷（"depuis le soldat n'a plus rien reçu"）；国库空虚，糖咖啡出口疲弱；1806-08 太子港锚地仅5艘船。
+【来源批判｜本卡判定】Lartigue 1815年在第二次复辟时出版自辩报告以证其忠诚，**其"德萨林密谋屠杀马提尼克全体居民"叙事具有强烈自利动机**，Trani 本人指出档案中无被捕者名单。→ 本卡把"海地颠覆小安的列斯"列为**当时白人精英的恐惧表征**，不作为海地已执行的行动。
+【事实｜Levassor 1802-03-05 备忘录，ANOM C8B/24 f.40，经Trani转引】殖民者的替代方案：「il existe dans l'ancienne partie espagnole de St. Domingue, des **plaines immenses et incultes qui pourraient employer des millions de nègres, et l'Afrique est épuisée**」；并主张立法把殖民地分为「la région européenne et la région africaine」。
+→ **这是理解1802–09法国东部（圣多明各）政策的钥匙**：法方精英把西属圣多明各当作圣多明各西部的**替代种植园边疆**。这条路线在反事实中可被显著放大（见推演）。
+【事实｜Travorsay 备忘录，ANOM C8B/24 f.57】马提尼克殖民者提议**再输入三万名以上奴隶**以弥补圣多明各之失。

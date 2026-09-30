@@ -1,0 +1,40 @@
+In order to aggregate all the fodder by animals it is necessary to have some way of estimating
+the energy content of the fodder. This is provided by agronomy handbooks and can be
+expressed in terms of fodder units. The fodder unit equals the digestible energy content of 1
+kg barley.32 One kilogram of barley contains 2 800 Kcal useful energy and approximately 3
+000 Kcal digestible energy. This means that we can go from fodder units to calories, and we
+choose the digestible energy content, i. e. 3 000 Kcal per fodder unit. Animals of different
+size require different amounts of fodder units. Swedish agronomist Hansson provides feed
+recommendations for oxen and horses weighing 500 kg, which are summarized in table
+B.1:33
+
+Table B.1: Fodder units per day for oxen and horses (500 kg beasts)
+
+                                                 Ox                                   Horse
+                                       (Fodder units per day)               (Fodder units per day)
+Subsistence feed                                 3.3                                    4.5
+Easy work                                        6.0                                    6-7
+Average work                                     7.0                                   7-8.5
+Hard work                                        8.0                                 8.5-10.0
+Very hard work                                   9.0                                   10+
+
+
+We assume, as did several nineteenth century agronomists, that fodder requirements increase
+proportionally to weight of the animals, and that for simplicity they work averagely hard all
+days of the year, which gives us the basis for our modelling shown in Table B.2.34 In reality
+of course the animals rested, the number of rest days may have differed among our
+countries, and in addition the animals may have worked harder in some countries than in
+others during days they actually worked. Unfortunately we have nothing to back up such
+conjectures with, and we have not attempted to model this.
+
+
+
+
+32 Hansson, Husdjurens utfodring, pp. 25, 43.
+33 Hansson, Husdjurens utfodring, p.235; Larsson, Husdjurslära, p 42. 30% of the gross energy in the fodder is not
+
+digestible; it simply passes through the body. The remaining 70% is called digestible energy. 61% of the gross
+energy is useful energy and 9% ends up as urine and methane. 1 kcal = 4190 joule.
+34 Hansson, Husdjurens utfodring, pp.25, 43; Petit, Nutrition et Production, pp.182, 246; Oldenburg, Anleitung zur
+
+Pferdezucht, p.129; Nobis, Was hat der Landwirth zu beobachten, p.39.

@@ -1,0 +1,64 @@
+      geoisie from buying land, and deterred the nobles from engaging in industry and commerce.
+
+      (Lyons, 1994, p. 235)
+
+In particular in the Rhineland the transformation was drastic, from a region characterized before the
+
+Napoleonic occupation as a “particularly old-fashioned, pre-absolutistic, feudal system"19 (Nipperdey,
+
+1983, p. 78), to being “ well advanced socially to the rest of Germany"20 , (Nipperdey, 1983, p. 78). This
+
+happened, because "the French law and his idea of a society made up of free and equal property owners
+
+have penetrated the civil movement"21 , (Nipperdey, 1983, p. 79).
+
+Thus, the Napoleonic reforms laid the foundation for a modern society, in which a greater share of the
+
+population was able to acquire property, to engage in trade and commerce, which was backed up by a
+
+strong centralized legal institution. Birth was not anymore decisive for social status, since “ownership
+
+of property in a free market” became the “main criterion for social stratification” (Sperber, 1992, p. 33).
+
+Comparing the Rhineland to the rest of Prussia, Sperber describes Prussia as a far less progressive king-
+
+dom, with social structures and institutions “too different from those [...] along the Rhine” (Sperber,
+
+1992, p. 38). While in the Rhenish territories, “the tone was set by the bourgeois elite of bankers, mer-
+
+chants, manufactures, rentiers, lawyers and notaries” (Sperber, 1992, p. 38), i.e. a large and important
+
+bourgeoisie and middle class, the nobility was still highly influential in Prussia. This enlarged access to
+
+the market and the participation of a greater share of the society resulted in more economic growth in the
+
+affected regions (Acemoglu et al., 2011).
+
+
+
+ 3    E STIMATING THE E FFECT ON C ONTEMPORANEOUS S OCIAL C APITAL
+
+This section estimates the impact of the Napoleonic institutions on survey data outcomes related to trust
+
+and cooperation in current day Germany. I start by analyzing the association between the Code Civil
+
+and current social trust in a sample of 16 historical territories covering almost the entire current Federal
+
+Republic. To remove heterogeneity in characteristics potentially affecting the outcome variables, I then
+
+restrict the sample to a border sample separating regions that applied the Code Civil for on average over
+
+90 years from regions that applied it for only about 5 years. Next, I create a fictitious treatment by moving
+
+the border to further test the existence of a “true" treatment effect. To address the concern of a violation
+
+of the independence of the treatment with pre-treatment social capital levels, I finally compare mean
+
+  19 Author’s translation.
+  20 Author’s translation.
+  21 Author’s translation.
+
+
+
+
+                                                     10

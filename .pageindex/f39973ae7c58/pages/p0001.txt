@@ -1,0 +1,19 @@
+# X2 · SOURCES（卡片 t_6f3beb，Sister 10038）
+
+编号规则：**S**＝亲读的一手/二手原文；**T**＝转引（本卡未见原件）；**R**＝复用本运行其他卡或上一轮已核资产。
+"亲读"＝本卡在本会话内用 `doc_read`／`doc_page_image`／`web_extract` 实际读取了所引段落。
+
+---
+
+## A. 专著与论文（亲读）
+
+**S01 · Heckscher, Eli F., *The Continental System: An Economic Interpretation***, ed. Harald Westergaard, trans. C. S. Fearenside, Oxford: Clarendon Press, 1922.
+- 本地：`downloads/c15_heckscher1922.pdf`（doc `1baaae7f3185`，436页扫描）。**页码换算：PDF页＝印刷页＋16。**
+- 本卡亲读：目录（PDF9–14）；Part III ch.III「Smuggling and Corruption; Fiscalism and Licensing」印pp.187–220（PDF203–236）；Part III ch.IV「The Trianon and Fontainebleau Policy in Operation」印pp.221–237（PDF237–253）；Part IV ch.II「Effects on France」印pp.288–294（PDF304–310）；Part IV ch.III 印pp.317–321（PDF333–337）；附录II「French Customs Duties on Colonial Produce, 1802–10」印p.408（PDF424，**经 `doc_page_image` 页图人工读取，OCR失败**）。
+- 网络对照（用于 Part III ch.II 黑尔戈兰与哥德堡段，本地PDF该段未逐页读）：Econlib 全文版 "Part III, Chapter II"，`https://www.econlib.org/book-chapters/chapter-part-iii-chapter-ii/`（经 `web_search` 返回的长片段读取；**该段为网络转录本，未与本地扫描逐字对校，引用时已标明**）。
+- 关键引用点：印p.190（Rist「filtration」与"every third or fourth bearer"）、p.191（Gothenburg→Saloniki 地理）、p.192–193（smogglers；致路易与致Gaudin信）、**p.193（Mollien 20,000 vs 100,000；Bourrienne 6,000）**、**p.194（保费40–50%/30%/6–8%；枫丹白露的走私业分层）**、p.195（不来梅规费十倍；殖民品全民共识）、p.196（日内瓦80人被撤；莱茵海关中尉靠贿赂；Bourrienne七八百万）、**p.197（关税收入1806–09；达武）**、**pp.197–198（Collin de Sussy/Montalivet"与走私者竞争"）**、p.198（致热罗姆信；fiscalism判词）、**p.199（1810-01-12缉获品法令48%）**、**p.200（荷兰并入第10条50%、四日行程、实物缴税）**、**p.201（特里亚农税率）**、**pp.202–203（枫丹白露刑罚、焚货、cours prévôtales、英国先例3 Geo.III c.21）**、pp.203–204（Clérembault/Bourrienne/Lachevardière；"a really handsome palace which will cost me nothing"）、p.213（Brougham 宣读的利物浦伪造papers通函）、**pp.215–216（许可证定义、1810-07-25敕令、价格600/800/6,000法郎）**、pp.216–219（出口义务、rossignols、法国船运垄断、丹麦80艘）、**p.221（特里亚农起至1811年底105.9百万）**、p.222（Thiers：1810拍卖≈150百万）、**pp.222–224（汉堡Grand Prévôt 两周120判、不来梅22½%狱死、达武第三军编成与1810-09-28令）**、p.225（特里亚农在邦联为具文、俄奥瑞未整体实施；法兰克福1810-10-17/18）、p.226（荷尔斯泰因19.7/42.5百万；法兰克福9百万）、**p.227（"消费税化＋一次完税自由流通"；普鲁士59.5%债券缴税；拍卖地理）**、pp.227–229（autos-da-fé；法兰克福80万 vs 180万；汉萨与不来梅合计≈450万）、pp.230–233（Bacher 1810-10-02报告；维也纳-Brody货路；Tooke运费）、pp.234–236（1810年600艘商船事件；亚历山大拒绝；Karlshamn；哥德堡1,124艘；进口五倍；糖14.5m磅、咖啡4.5m磅）、pp.288–294（Leblanc制碱80–100→10法郎；菘蓝32,000公顷/1813年6,000公斤；**甜菜糖334厂/预期700万livres vs 实产110万公斤/158张许可证实用**；莱比锡糖3.5倍、巴黎4→6法郎/livre、伦敦1.35–2法郎/kg）、pp.317–321（俄国35%/63%；梅梅尔谷价−60~−80%；不来梅麦价−62%；罗斯托克249/55/31艘；"continuous dislocation"）。
+
+**S02 · Ellis, Geoffrey, *Napoleon's Continental Blockade: The Case of Alsace*** (Oxford Historical Monographs), Oxford: Clarendon Press, 1981.
+- 本地：`downloads/X2_Ellis1981_Alsace__abac15ab1852.pdf`（doc `00c8af37e5cf`，MD5 `abac15ab18523a8234785dba48f7ed71`，18.3 MB）。**本轮由 Anna's Archive 新取，依据本卡 source strategy 明列的 "Ellis《Alsace》"。**
+- 本卡亲读：印pp.201–205（走私/欺诈的罪刑之别；V.D.＝Voleur des Douanes；Ellis法则；英美断裂合取条件；Crouzet"内陆甚于沿海"；巴塞尔等境外转口地；Magnier-Grandprez 1808-05-06 "contrebande par filtration"；Altkirch副专员与Lezay-Marnésia引语）；Conclusion 印pp.284–293（"not a Continental Zollverein ... a vast 'Uncommon Market'"；阿尔萨斯为最大受益者；斯特拉斯堡水运翻倍至四倍；上莱茵棉业＋1/3~1/2；20–25%出口；1810–11危机−20~−30%；terreur douanière；意大利marché réservé为生命线；"more to enrich than impoverish them"）。
+- 未读（挂账）：Appendix D「Volume of the River Trade to and from Strasbourg, Jan 1809–June 1813」印pp.301–304；Appendix G「Official Values of French Foreign Trade 1787–1824」；Appendix I。

@@ -1,0 +1,38 @@
+# P5 · SOURCES（t_ec2248，Sister 10038）
+
+编号规则：**A**＝本卡亲读原件/扫描页图文字层；**B**＝本卡亲读的网页/PDF 正文（非扫描原刊）；**C**＝经他卡已验收笔记复用（注路径）；**D**＝转引（注中介与被引页）；**X**＝索引库/访问墙记录，未得全文。
+独立性：凡同源者标明，**不得在红队抽核中计为两条独立证据**。
+
+---
+
+## A｜本卡亲读扫描原件
+
+| # | 来源 | 定位 | 用于 | 限制 |
+|---|---|---|---|---|
+| A1 | **Geoffrey Ellis, _Napoleon's Continental Blockade: The Case of Alsace_, Oxford: Clarendon Press, 1981** — 附录 G「法国对外贸易官方值 1787–1824」 | 印 pp.285–286＝PDF 305–306；`downloads/X2_Ellis1981_Alsace__abac15ab1852.pdf`，doc `00c8af37e5cf` | §2.1、§0-2、`P5_trade.csv` | 官方值（固定估价）非市价；1797–1810 两套历法口径不可拼接；OCR 字形错讹已按"进＋出＝合计"逐行复原并在 `notes_ellis_appendices.md` 标注；**Ellis 本人转引 Vogel 1864–7 i.449/451、Noël 1879 pp.21–2、Heils 1958 p.209，底本 A.N. F12 251 未阅** |
+| A2 | 同上 — 附录 I「法国出口主要目的地 1805-09–1817」 | 印 pp.288–289＝PDF 308–309 | §2.2、§3.1、§10、`P5_trade.csv` | 源 A.N. **F12 251, pièces 125–8…226–9**（未阅原件）；1815 起"荷兰"含比利时、"意大利"为另一实体，**1814 前后不可连线**；只有出口无进口 |
+| A3 | 同上 — 附录 D「斯特拉斯堡河运贸易量 1809-01–1812-06」 | 印 pp.281–282＝PDF 301–302 | §7.1bis | 底本＝Strasbourg 商会为市长 Brackenhoffer 编的统计表第 10 号（1812-11-10 署，1812-11-21 会议存档，Minutes vol. vii），**未阅原件**；单位公制千克（100 kg）；1812 下半年与 1813 年无数据；1812H1 美因茨上行栏 OCR 按总计复原为 7,178 |
+| A4 | 同上 — 附录 J「上莱茵省主要商人与制造商 1810」 | 印 p.290＝PDF 310 | §2.3、§8.4 | OCR 严重破损，仅取可辨读条目；年营业额与资本均为**估值**（"approx. value of annual trade"/"capital"） |
+| A5 | **J.-A. Chaptal, _De l'industrie françoise_, Paris 1819** | 印 pp.203–204（结论章）；`downloads/E1_Chaptal1819_industrie_v2.txt`（E1 卡下载的 OCR 全文，另有 v1） | §2.3、§8.4、§9.3、`notes_chaptal.md` | 多处自述"限于法国现有疆界"、啤酒项用 1811–17 七年纳税平均 → **是帝国调查数据在复辟疆界上的重整**；"main d'œuvre"含手工业者自雇收入；"dépenses générales"把折旧与利息混列；分项和 1,820,005,221 与原文总额 1,820,102,409 差 97,188（四舍五入）；**1812 年分省纱锭表 OCR 破损，本卡未转录** |
+
+## B｜本卡亲读的网页/PDF 正文
+
+| # | 来源 | 定位 | 用于 | 限制 |
+|---|---|---|---|---|
+| B1 | **Luca Einaudi, "A Historical Perspective on the Euro: the Latin Monetary Union (1865–1926)", _ifo DICE Report_ 2018/3** | `https://www.ifo.de/DocDL/dice-report-2018-3-einaudi-oct.pdf` | §6.1–6.3 | 综述性文章；1865 公约法文原本未逐条亲读 |
+| B2 | **美国国务院 FRUS 1867 Part 1, Document 291**（法国外交部 1866/67 照会英译全文，附 1865-12-23 货币公约说明） | `https://history.state.gov/historicaldocuments/frus1867p1/d291` | §6.1 | 为法国政府的自述文本（立场文件）；英译本 |
+| B3 | **Luca Einaudi, "The Generous Utopia of Yesterday can become the Practical Achievement of Tomorrow"（Cambridge histecon 稿）** | `https://www.histecon.magd.cam.ac.uk/docs/einaudi_europe.pdf` | §6.1（10 法郎金币单方采用时序：皮埃蒙特 1816／比利时 1832／瑞士 1850／意大利 1862） | 与 B1 同作者，**非独立来源** |
+| B4 | **_Journal of Economic Integration_ 30(1) 2015, "Does European History Repeat Itself?"**（DOI 10.11130/jei.2015.30.1.93） | 同上 | §6.1（1:15.5 于 1803 年由法律确定；LMU 制度细节） | 综述；与 B1/B3 就史实要点互证但共享二手文献底盘 |
+| B5 | **《Recherches sur le Magistrat du Rhin》, _Revue d'Alsace_（DOI 10.4000/alsace.1615）** | 法文全文网页 | §7.1、年表 #2/#6/#7/#12 | **1804 公约条文经该文转引 Martens, _Recueil_, 2e éd., viii.261，本卡未阅原卷**；"1810 年拿破仑关闭奈梅亨以上航行并保留给法国船旗"为该文陈述，未见原令 |
+| B6 | **L. Teclaff, "Fiat or Custom: The Checkered Development of International Water Law", _Natural Resources Journal_ 31(1)** | `https://digitalrepository.unm.edu/nrj/vol31/iss1/4` | §7.1、年表 #14/#21 | 法学综述；维也纳 108–117 条与 1831 美因茨公约条文经其转引 |
+| B7 | **encyclopedie.bseditions.fr《Le Rhin》4.2–4.5** | 网页 | §7.1、年表 #16/#21/#28 | 百科条目，与 B5/B6 就同一史实重叠，**不计独立互证** |
+| B8 | **《London Gazette》1863-08-04, No.22759, p.3900**（1863-07-20 斯海尔德河税赎买一般条约全文） | `https://www.thegazette.co.uk/London/issue/22759/page/3900/data.pdf` | §7.2、年表 #23/#28 | 官方公报原文；**国别分摊表在 OCR 中对齐不可靠，本卡只冻结总额 17,141,640 荷兰盾与"英国最大份"** |
+| B9 | **Avalon Project, Belgian-American Diplomacy bel003/bel004/bel006**；**US Statutes at Large 13, p.655** | 网页/PDF | 同上 | 与 B8 为同一条约的不同刊本，**非独立** |
+| B10 | **GHDI, "The Prussian Regulation Edict of 1811 (September 14, 1811)"** 与 **"The Prussian Declaration of 1816…(May 29, 1816)"**（Thomas Dunlap 等英译全文） | germanhistorydocs.org | §8.2 | **英译摘录**，非普鲁士法律汇编原文；编者按语属编者判断 |
+| B11 | **"Transition from Feudal to Modern Society: The Impact of Abolition of Serfdom on German Private Law"（DOI 10.22364/iscflul.7.02）** | 网页正文 | §8.1（各邦废除农奴制年份表）、§8.2（符/萨口径） | 法学论文；各邦年份为其综述，**逐邦立法原文未核**；萨克森 1832、汉诺威 1833 为其"最后两个德意志领地"之说；萨克森农民已自耕 77% 转引 Groß 1967/1968 |
+| B12 | **比利时众议院 1834-05-01 铁路法**（unionisme.be 法案页）；**TrainWorld（比利时铁路博物馆）史料页** | 网页 | §7.4、年表 #22/#26 | 博物馆科普页；556 km(1843) 等数字未核原始统计 |
+| B13 | **fr.wikipedia「Loi relative à l'établissement des grandes lignes de chemin de fer en France」**（1842-06-11 法条转录） | 网页 | §7.4、年表 #24 | 百科页，**法条原文转录可用，1841 年底里程等对比数字未核原始统计** |
+| B14 | **SocArXiv, "Inventing 'infrastructure': tracing the etymological blueprint…"（DOI 10.31235/osf.io/mx2u7）** | 预印本正文 | §7.4（1842 法的 infrastructure/superstructure 二分；Pereire） | 预印本，未经同行评议 |
+| B15 | **Van der Herten, "Designing the Nation: The Belgian Railway Project, 1830–1837", _Technology and Culture_ 2011（DOI 10.1353/tech.2011.0145）** | 摘要 | §7.4（圣西门主义纲领） | **仅读摘要**，正文未取 |
+| B16 | **Bairoch 1982 表 9「人均工业化水平」** | **转录自 NBER WP6904 表 2**（`https://www.nber.org/system/files/working_papers/w6904/w6904.pdf`），该表自注 "Source: Table 9, Bairoch (1982)" | §2.4、§9、`p5_model.py` | **本卡未取 Bairoch 原刊（_JEEH_ 11(2) 1982, pp.269–333）。这是 §9 的最大单点依赖（改判证据 E2）**；"德意志""意大利"为现代疆界聚合；1800/1830 值本身是粗估计 |
+| B17 | **Maddison Project Database 2020** | `downloads/E1_MaddisonProject_2020.xlsx`（E1 卡下载）；本卡抽取 `P5_maddison_extract.csv` | §2.4 | 人均 GDP 为 2011 年国际元的回溯估计；比利时/德意志/西班牙 1830/1840 缺测 |

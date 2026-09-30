@@ -1,0 +1,19 @@
+
+
+data were sometimes quite imprecise, it is easier to assign exports to broader than to narrower categories. Thus, we obtain:
+
+• 254,998 observations classified at one-digit sections (e.g, beverages & tobacco);
+
+• 250,511 observations classified at two-digit divisions (e.g, beverages); and • 231,503 observations classified at three-digit groups (e.g, alcoholic beverages).
+
+Given the rather large reduction in the number of observations when we move from the two-digit to the three-digit level, we settle on the two-digit level as our preferred level of analysis as it provides the best compromise between disaggregation and observation count, capturing more than 99% of the monetary value of aggregate British exports. We then sum the monetary value of individual observations within each two-digit division to form our measure of exports at the destination-division level. Finally, we interpret the ledgers as representing the full population of British trade and rectangularize the data by assigning zero values to observations for particular destination-division combinations for which there are no recorded values.
+
+4. Another obstacle to the use of the ledgers is the fact that the underlying prices used to value bilateral trade flows were initially fixed – from 1702 to 1813 in the case of exports and from 1702 to 1853 in the case of imports (Davis, 1979, pp. 77-82).5
+
+These “official prices” were based on average market prices prevailing in or around 1700 and were presumably used in an attempt to minimize bargaining over customs
+
+5As Imlah (1948, 1958) points out, estimates of the current value of aggregate British exports are available from 1798 when an export convoy tax was imposed. These estimates of aggregate exports were compiled from the ledgers we use here and reported in the annual returns of the Inspector-General of the Customs. They were subsequently used by Imlah and others like Mitchell (1962). For better or worse, though, the detailed commodity level data in the ledgers remain valued at official prices until 1813 when CUST 8 becomes available. As Davis (1979, p. 79) points out, “though annual totals on this new (declared values) basis are available from 1798, the detailed analyses survive only from 1813.” We thank one of the referees for drawing our attention to this issue.
+
+valuations and, thereby, maximize compliance.6 For many researchers, this implicit fixed price index was seen as a chief attraction of the data, in that it provided a consistent measure of real quantities exported and imported. For example, Deane and Cole (1962) famously used these data to construct their indices of industrial production. On the other hand, aggregating across such real quantities to obtain aggregate export values is clearly problematic. In order to address this issue, we estimate gravity models below using disaggregated data and division-year fixed effects, thereby controlling for changes in relative prices over time.
+
+Finally, in all of our regressions, we drop observations related to parcel post and bullion, coins, gold, or silver. Our final dataset then consists of British exports to 86 consistently-defined destinations in 57 SITC divisions across 21 years between 1700 and 1899. This yields a final observation count of 102,942 (that is, 4,902 observations for each

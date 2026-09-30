@@ -1,0 +1,121 @@
+note that only for the number of years the French Army was present in a territory there exists a statistically significant difference. Treated regions were significantly longer occupied by the Napoleonic
+Army, which thus had more time to install the institutions properly. Second, treated regions are located
+closer to Paris, a characteristic important for whether a region was actually occupied or not.27 Third, the
+number of territories from which the regions were created is larger in the treated regions. Changing the
+institutions and going back to old institutions after the Napoleonic occupation was therefore much more
+costly in the light of the integration of those many small states.28 The comparison of the urbanization
+measures suggest that the treated regions were less urbanized before 1800. The literature on the determinants of social capital usually claims, that protestantism is favorable for social attitudes and cooperation
+(Alesina and La Ferrara, 2002; Tabellini, 2008). Thus, there exists a difference, while not significant, but
+unfavorable for social capital levels in the treated group. While I report the same comparisons for the
+regions of the border sample in column (3) and (4), the interpretation is not very meaningful given the
+tiny sample size.
+Next, I investigate city level data taken from Jacob (2010) for a maximum of 364 cities located in the
+sample territories. Results are shown in the lower panel of Table 8. The data contains information about
+whether the city was a free city, belonged to the Hanseatic Trade Cities, or was the seat of a bishop. I add
+a fourth variable identifying the existence of universities before 1800. In the spirit of Guiso, Sapienza,
+and Zingales (2008a) and Jacob (2010), past institutional characteristics associated with the free cities
+and the associated creation of norms of cooperation could have led to divergences in social capital levels
+before 1800. However, neither the treated nor untreated group had on average significantly more free city
+states. As important as the free cities might have been the presence of the Hanseatic Cities, a corporation
+27In contrast, one could reasonably assume, that, because of the closeness to France, people in the Western territory were
+much more in favor of the Revolutionary ideas when it break out in 1789, and thus much more involved in political activities,
+such as being member of Jacobin clubs. This was not the case. In the Rhineland for example, “there were hardly any local
+Jacobins or self-styled patriots sympathetic to the Revolution” (Doyle, 1990, p. 352) compared to other parts of Germany, and
+even if, these groups were small and consistent only of “scattered individual activists” (Sperber, 1992, p. 489).
+28That a unified legal code made the integration of additionally gained territories easier was also emphasized by several
+scholars (see e.g. Becker, 1985; Arvind and Stirton, 2010).
+20
+where cooperative cultural traits potentially have been fostered through its trade activities. Jacob (2010)
+for example finds that former Hanseatic cities show higher levels of social capital today. However, a the
+t-test indicates, significantly less of the cities in the treated regions were Hanseatic cities. A further city
+characteristic that is a positive correlate of social capital is the presence of a bishop. Again, I do not find
+any significant differences between treated and untreated cities. The same holds for the presence of early
+universities.
+This simple exercise gives suggestive evidence that there was no clustering of important observable
+determinants of social capital in the treated regions. The most plausible explanations for the persistence
+of the Code Civil in some regions are thus the French occupation, as well as political factors, keeping in
+mind that the role of initial cultural differences cannot entirely be ruled out.29
+3.8 Alternative explanations
+I briefly discuss three alternative reforms Napoleon undertook that my treatment variable could capture,
+besides the effect of the Code Civil.
+Education The educational reforms initiated by the French Emperor, particularly in the Rhineland,
+aimed at rearranging the school system to become free, equal and secular, introducing new school types,
+and teaching French as the territories’ official language (Rowe, 2003, p. 120). This was the theory. In
+practice, however, the reform was a failure. Shortage of teacher and money led to the decay of the school
+system.30 With regard to higher education, the only academy created was the law school in Koblenz
+(Rowe, 2003, p. 137). When Prussia took over the territory of the Rhine, it pushed back the leftovers of
+the French rule, adapted the school system to the Prussian, and opened universities as in Bonn to educate
+new bureaucrats for the Empire (Rowe, 2003, p. 134).
+Administration Another Napoleonic reform consisted in the introduction of the civil administration
+and its centralization. The new Prussian rulers, however, reformed the local and provincial government
+immediately after the takeover of the Rhineland in April 1815. While the very local administration
+29Arvind and Stirton (2010) research the question, what makes a region keep the Code Civil after the Napoleonic invasion.
+They find that there is no single factor explaining the reception of the legal Code. Rather a set of factors was responsible,
+including amongst others direct French control, and the number of territories the region gained in 1815. Direct French control
+is surely an important factor, as well as the number of years the Code Civil was in in force before 1815. Those aspects made it
+more costly to abandon the Code Civil afterwards.
+30In the Rhineland three forth of the population could not read and write in 1814 and regular schooling was an exception
+(Schmenk, 2008, p. 232)
+21
+system was continued, i.e. on the level of the mayoralty, superior administration levels were adapted
+to the Prussian one, which itself had introduced a civil administration under its reformer Stein in the
+meantime (Rowe, 2003).
+Political Rights Changes in the elite structure might have led to a new balance of power and an increase
+in citizens’ political rights. As the Rhineland was given to Prussia, its citizens ended up having the same
+political rights as other Prussians. While the Prussian King promised to introduce a constitution and to
+introduce a supra-regional parliament in 1815, he did not keep it. The lack of political rights is consistent
+with recent data collected.31
+These examples suggest that only the Code Civil endured the immediate period of French occupation
+and could therefore impact beliefs in the long-run. Furthermore, the results of the both the complete and
+border sample hold true even within Prussia, that is holding those variables constant
+4 TRADE EMPLOYMENT AND SOCIAL CAPITAL IN 19TH CENTURY
+PRUSSIA
+The results from the previous estimations have shown that regions that applied the Napoleonic institutions throughout the 19th century have higher levels of trust, more than 200 years after its installment.
+However, 200 years is an enormous time span, and other shocks happening had the potential to destroy
+or to generate social capital. The following section thus has two aims: It first aims at giving support
+for the proposed channel going through economic cooperation, and second to show immediate spillover
+effects on cooperation outside the work environment. It will do so by looking at employment in trade,
+manufacturing and craft, as well as at 19th century associational participation within a sample of Prussian
+counties.
+I will begin by investigating a possible link between the Napoleonic institutions and employment in
+trade, manufacturing and craft in 19th century Prussia. It is reasonable to expect the Code Civil to
+having had a positive influence on commercial activities. Already Adam (Smith, 1776, p. 862) stressed
+the importance of institutions for “[c]ommerce and manufactures [to] flourish”, Milgrom, North, and
+31Tabellini (2010) measured the constraints of the executive on the regional level in 1800 and 1850 on scale from 1 (no
+constraints) to 7 (democracy) and reports for both dates a value of 1 for the Rhineland and 2 for Baden. This is very much in
+line with the quality of other German regions at that time, ranging from a minimum of 1 to a sample maximum of 3 (Bavaria)
+and and an overall maximum of 4 (Bremen, Hamburg).
+22
+Weingast (1990) emphasized the role of the medieval merchant courts for the evolution of interpersonal
+exchange, De Long and Shleifer (1993) those of constraints on the executive for city growth and more
+recently Cantoni and Yuchtman (2012) show that legal training in Universities and subsequent evolution
+of legal institutions was causing greater market activity in medieval Germany. Closest to this paper is
+of course Acemoglu et al. (2011), who established a relation between the Napoleonic institutions and
+urbanization rates. I use the share of people working in trade related jobs, such as goods or money
+trader, as a proxy for trade in mid-19th century Prussia. Trade, however, only measures the last step
+of the production chain and therefore underestimates economic cooperation. To capture broader effects
+on economic interaction, I include additionally employment in factories and craft. Trade, manufacturing
+and craft professions naturally require not only a high degree of cooperation and trust, but they also profit
+the most from a third party enforcement institutions.
+As work-related cooperation increases, cooperation outside the workplace should be affected, too.
+Outside-workplace cooperation basically includes all cooperative actions outside professional activities
+that do not have the aim of an (immediate) economic payoff. This includes the participation in associations, or other forms of voluntary or political engagements characterizing an active civil society.32 Three
+main forms of associations existed in 19th century Prussia. Those were the singer clubs, the gymnasts,
+and the shooters (often jointly referred to as the “cloverleaf”) (Klenke, 1998, p. 20). Those clubs were
+engaged in all kinds of community life, especially important for organizing big folk festivals (Klenke,
+1998, p. 20). The markmen’s festival (Schützenfest), organized by the shooters were attracting sometimes hundreds of people. Data is available for two of the three kinds of associations, used as a proxy
+for social capital in the 19th century. In particular, I look at the number of gymnast clubs in a crosssection of Prussian counties. Gymnast clubs have another interesting feature I will make use of. Besides
+being a sports association in which people where doing gymnastic exercises, they were also providing
+a public good, as volunteer gymnast fire departments (Turnfeuerwehren) were created out of them. As
+such they are the predecessors of contemporaneous volunteer fire departments. Since gymnasts were
+in good shape, they were best suited to do the demanding job of a firemen at that time, which required
+to run the hand-operated fire-engine and climbing into houses. Thus, many gymnast clubs created fire
+departments where members worked voluntarily as firemen. The second data set being used is listing
+the foundation of shooting associations from 1700 to 1900 for each county in the two Prussian provinces
+Rhineland and Westphalia. I will analyze the development of shooting associations in the neighboring
+32Associational membership has been used in several contributions to proxy for contemporaneous and historical levels of
+social capital. The idea that social capital can be measured by the degree of associational activity goes back to Putnam (1994)).
+23
+regions Rhineland, which kept the Code Civil, and Westphalia, which did not. One would expect a
+positive association between the Napoleonic institutions on the number of associations created.
+4.1 Historical Data

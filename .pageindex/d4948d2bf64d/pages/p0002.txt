@@ -1,0 +1,57 @@
+
+
+【事实·转录】第1条：“Sur les cent vingt mille conscrits de 1811, dont l’appel est autorisé par le sénatus-consulte du 13 décembre 1810, quatre-vingt mille seront mis en activité ; le reste formera la réserve.” 即总授权额120,000，拟现役80,000；【计算】余40,000为预备，而非新增现役。
+
+【事实·转录】第2条：指定海岸县征兵用于海军；Bouches-du-Rhin、Bouches-de-l’Escaut及Breda区所供人员之半分配海军。不能把陆军与海军人力池重复使用。
+
+【事实·转录】第8条：“Le premier détachement de chaque département sera mis en route le 1.er avril.” 招募委员会此前程序须于3月15日完成并当日开会。这是拟定执行时序，既不是实际出发证明，更不是到队证明。
+
+【事实·转录】第3条引用省级配额附表，但本次捕获未含附表。第7条援引共和十三年果月八日法令。
+
+【模型推演】此材料可作为1803年后“当时确实提出过”的征集规模、军种分流及动员时滞锚；不能单凭其措辞断言最终法令采用了全部条款。下一步应对读1810年12月13日元老院决议、正式敕令及其省级附表。
+
+## 3. JEH2023：不能把合规提升当作同意提升
+
+Louis Rouanet and Ennio E. Piano, “Drafting the Great Army: The Political Economy of Conscription in Napoleonic France”, *Journal of Economic History* 83(4), 2023, pp.1057–1100。
+URL：https://doi.org/10.1017/S0022050723000360
+保存：`downloads/pages/ee71889de366.md`。
+
+【文献推断·作者】文章提出差别征集：对执行成本较高地区减额，对较易征集地区加额。因此全国逃役率下降可以部分来自配额重分配，而非偏好或政治忠诚改变；这与镇压、行政改进可以并存。
+
+【事实·实读定义】“DATA DESCRIPTION”明确：“Lacuée’s data provides figures only for individuals from the former category”——其数据记录受征后未按期到指定营报到者，**不覆盖到营后离队者**。作者定义逃役率为实际被征集者中逃役的比例，而征集率分母是该年级可征人口。两率不能互换。
+
+【限制】当前实读HTML该段无印刷分页，故本文件不冻结其回归系数、百分比反事实或年度数据点；待与有页码PDF对照后方满足逐数引用标准。这里仅交接机制与定义。Lacuée职务称谓亦不沿用网页的简略“minister of war”，应另核行政头衔。
+
+【裁量·高置信】人口是否接受法国政治秩序，需要独立于征兵记录的证据；不能用征兵完成率下降或上升单独判定。
+
+## 4. Grab2013：意大利补充（不重算外籍化总额）
+
+Alexander Grab, “Conscription and Desertion in France and Italy under Napoleon”, *Bibliothek des Deutschen Historischen Instituts in Rom*, Bd.127, 2013。
+URL：https://perspectivia.net/servlets/MCRFileNodeServlet/pnet_derivate_00002421/Grab_Conscription.pdf
+保存：`downloads/pages/fc4c533d40d3.md`。
+
+【文献推断·Grab，p.116】“annual recruitment”成为可以例行实施的强制制度，不代表消除了抵抗。作者在同页并列Woloch的行政常规/强制论与Forrest“imposed ... on a demoralized population”的解释，两者不能化约为自愿民族动员。
+
+【事实·转引，p.118，注77】Melzi致Eugène，1813年10月23日：“conscription meets everywhere with the greatest repugnance”，并报告青年入山躲避。Grab转引Zaghi编通信卷8，pp.433–434；未读通信原件。
+
+【事实·转引，p.118，注78–79】Mantua应征队列遭当地人袭击以协助逃走，Crostolo青年逃离，多位省长未完成配额。注78指Della Peruta, *Esercito*, p.397；注79指ASM, MG, c.806, 14 December 1813。原档未读。
+
+【裁量】这提供法国本土之外的类似机制，但不能以意大利个别省报告推算整个半岛的逃役率，也不能以“意大利王国”等同全部意大利领土。
+
+## 5. Esdaile“三十万”：已排除一种误读，主问题仍留缺口
+
+Charles Esdaile, *The Spanish Army in the Peninsular War*。
+URL：https://dokumen.pub/the-spanish-army-in-the-peninsular-war-0719025389-9780719025389.html
+保存：`downloads/pages/5dea3a848dc0.md`；正文印刷pp.126–127（工具索引p29，不能作为书页引用）。
+
+【事实·作者原文，p.127】“it was widely believed that 300,000 Spaniards faced perhaps 80,000 starving and disease ridden Frenchmen.” 语境是1808年秋公众因Bailén胜利形成夸大预期，**不是作者认可的西班牙实兵数**。
+
+【事实·作者估计，p.126】“between May and November 1808 its strength only rose from 131,000 to 215,000 men”；继而“only 150,000 men actually reached the front”。分别为西班牙正规军规模变化与及时到达战线的兵力，不能并成一种口径。附注60、63的原始依据尚未复核。
+
+【待核】若任务所指是Esdaile另一作品中的“驻西班牙法军三十万”，本次并未找到可带精确页码和时间的原句，**不得用上段替代**。搜索得到流行文章和军事论文中的类似数字，未据此认定Esdaile归属。
+
+## 6. 占领兵力：仅线索，未达到逐数验收
+
+- Broers, “The Napoleonic Gendarmerie. The state on the periphery made real”，https://doi.org/10.4000/chs.1641，捕获`downloads/pages/1337c72a4274.md`：已有机制材料，但未取得对应年份、领土及编制/实员定义的“意大利宪兵总数”。不能把邻近时期或法国全帝国宪兵数移用。
+- Nafziger但泽编制表，https://www.napoleon-series.org/nafzigger/813ABK.pdf，捕获`downloads/pages/96b99bc56452.md`：转引d’Artois, *Relation de la Défense de Danzig en 1813*；括号数字列义与总数尚未核全，不做汇总。该表也不能代表德意志全部要塞。
+- Glogau网页：https://www.historyofwar.org/articles/siege_glogau.html，捕获`downloads/pages/599a99170241.md`，确有日期化守军估计，但无对应书页/原始兵员报告，未升级为模型定额。

@@ -1,0 +1,47 @@
+# C11专题证据：爱尔兰与Fulton，1803—1805
+
+研究交付，不改变卡片状态。复用了C1 `early_evidence.md`，并补读下列本地材料。引文以实际读到的电子转录/OCR为准，尚未逐页对校扫描。网页无页码处提供题名、段落及缓存路径，不编造页码。档案均明确转引；本文不是档案原件认证或兵力冻结表。
+
+## 一、可供总装采用的结论
+
+- 【裁量·高】**法国与爱尔兰革命者有真实联络，但不能写成1803年7月23日起义与法国登陆作战已经同步。** Thomas Addis Emmet的日记经Kleinman引录，记录1803年5月30日Dalton传达Berthier的远征意向，预计十一月才就绪。起义前存在人员往返和援助请求；实际同步的船队出航令、送达记录及共同日期尚未取得。[I1–I3]
+- 【事实·史家引录】**军团法令日期是1803年8月31日，第一营实际组织日期是1804年1月20日**，不能合并成同一个事件。Carles记录该日43名军官、1名非军官；1804年10月11日为66名军官、22名士官及士兵；1805年7月18日为52名军官、25名士官及士兵。它是严重缺兵的干部组织，不是已经组成的数千人突击部队。[L1]
+- 【文献推断·Carles】军团具有政治、军事双重目的：准备在爱尔兰招兵、以独立与宗教自由争取响应；但只是拿破仑多项战略储备之一。建制与训令证明选项真实，不能证明其优先级或最终兑现。[L1]
+- 【文献推断·Tyrrell】1796年Bantry证明英国封锁并非不可穿透，却也显示穿越封锁、会合、登陆、补给是不同环节。同一天气能掩护出航又破坏会合与登陆；不能只保留有利天气而删除其代价。[B1]
+- 【事实·同期合同转录】**1804年Fulton受英国政府雇用，针对法国舰队，而不是为拿破仑执行反英水雷战。** 其早先Nautilus法国试验、英国爆炸装置合同、1805年Dorothea示范、1810年美国出版的倡议必须分期。[F1–F3]
+- 【事实·同期战报】Keith在1804年10月3日报告前夜至当日凌晨的袭击：“no very extensive Injury seems to have been sustained”。这不是彻底无损伤的结论，也不是摧毁布洛涅舰队。失踪船只的初步观察不能直接计为击沉。[F4]
+- 【裁量·高】“留下Fulton即可解决海峡制海权”不具证据资格。已证实技术试验与合同，不等于可靠作战系统，更不等于可以在1803—05年按需摧毁英国舰队。
+
+## 二、Emmet：实际联络、战略设想与七月行动不能混同
+
+### I1｜更强的联络证据，以及一条需要纠正的网络叙述
+
+Sylvie Kleinman, *Translation, the French language and the United Irishmen (1792–1804)*，DCU博士论文，2005，第5章，§5.2（目录标起页264）、§5.3（目录标起页268）。
+URL：https://doras.dcu.ie/17994/1/Sylvie_Kleinman.pdf
+本地：`downloads/pages/d0e2150b50b9.md`，已重点读行2465–2614。正文具体页界在提取中丢失，以下以小节和其明确引注定位；不声称已核论文单页扫描。
+
+【事实·同期日记转引】§5.3写道：
+> Thomas Addis Emmet opens the account of his negotiations with the French government on 30 May 1803, by explaining that “a Col. Dalton” called on him to convey the express information from Berthier that the French government were determined to send an expeditionary force to Ireland (Emmet 1915 I: 340).
+
+随后明确说远征十一月以前不能准备好，并要他通知爱尔兰的朋友；法国表示要使爱尔兰脱离英国，并让其自行决定政府。日记中的问答另有：
+> “He requested me to communicate this intelligence … I asked what would be the force, and he answered about twenty-five thousand men …”
+定位：论文§5.3，转引Emmet 1915，卷I，pp.340–341。省略号用于删节，不补被省句。
+
+【来源批判】25,000是Dalton传递的**计划数**，不是军团人数，更非已经装舰数量。日记是参与者记录，可能具有自我辩护性质；1915是所引出版年，不是日记写作年。未直接读该1915版原页。
+
+【事实·转引】同节明确将Thomas Addis与Berthier的**第一次面谈置于7月19日**（日记卷I p.354），不是5月30日。Maeve Casserly 2014网页把5月30日写成与Berthier的会面，至少省略了Dalton这一中介，不能照抄。
+
+Casserly网页及本地：
+https://www.theirishstory.com/2014/02/27/robert-emmet-the-1803-proclamation-of-independence-and-the-ghost-of-1798/
+`downloads/pages/f3ea84be89c3.md`。其30 May段未提供清晰的逐条原始出处；“可能反映Emmet已知延期”的说法也是作者解释，不是收信证据。
+
+【事实·转引】Kleinman还引录六月谈话、六月十五日Dalton提交资格文件译文，以及Pat Gallagher由都柏林带来的钱、武器、弹药和军官请求。**因此不能说双方完全没有协调或接触**；但使者往来与法军按七月起义排程，是两种不同命题。
+
+### I2｜同时代文书与回忆录的证据边界
+
+【事实·同期信转引】Kleinman §5.3引拿破仑致Decrès，1803年8月8日，旧《Correspondance》卷8，第6994号：
+> « le gouvernement s’engage à ne pas faire la paix avec l’Angleterre tant que l’indépendance de l’Irlande ne soit constatée »
+
+【限制】这是**七月起义之后**的政治承诺，不证明此前存在同步出航约定。论文将共和历年打印/OCR为“XII”而公历作1803；日期搭配有问题，须核旧通信集，不能静默转成精确历法证据。
+
+【事实·研究者所见档案，本文转引】论文引1803年9月7日Thomas Addis致拿破仑备忘录，AN AF IV/1672/2/209–216r；12月10日致Berthier，AN AF IV/1672/2/203–208；1804年1月25日Dalton译备忘录，SHA MR/1420/91。这些证明秋冬继续交涉，不能倒填七月同步链。

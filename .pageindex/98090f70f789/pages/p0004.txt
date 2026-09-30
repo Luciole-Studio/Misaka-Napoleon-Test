@@ -1,0 +1,25 @@
+
+
+[2] J. Muracciole, “Napoléon et les arsenaux de la Marine,” *Revue historique des armées* (1974), pp83–98，DOI 10.3406/rharm.1974.7813；已读网页缓存`downloads/pages/21ae17eda88c.md`行56。“104”混合口径，与Todorov不必矛盾，但两者不共同证明战备。
+
+[3] William James, *Naval History*年度附表（1837版），Paul Benyon HTML转录，本卡复用B3 `nodes/r_5b1357a9c6/cards/t_998052/sources/annual/annual_1809_1815.csv`、`evidence.md`和`table_historical.md`；1803–05已校原图，其余未逐页影印核勘，所有年表属同一编纂来源，不能算多年独立互证。B3配对假设`B3_response.csv`,`model_assumptions.md`。
+
+[4] 英国议会Hansard历史网页（原文节录、费用口径争议和URL逐一列于`nodes/r_5b1357a9c6/cards/t_998052/sources/postwar/read_evidence_and_notes.md`）：1817-02-17 cc408–09，1820-05-17 cc459–60，1821-06-27 No.28–35转引，1826-02-21 cc678–89，1830-03-01 cc1121–43；早期报道非现代逐字录音，Hume转表非本研究者阅原会计影本。
+
+[5] Martin Wilcox, “‘These peaceable times are the devil’,” *International Journal of Maritime History* 26.3 (2014), 471–88, DOI10.1177/0843871414543445；**只读开放摘要**`downloads/pages/1131eb224b3d.md`，124k及90%见摘要。
+
+[6] 英议会1815-06-14 Vansittart与Tierney，`https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges`，cc806–13，缓存`downloads/pages/156d03703582.md`；当时发言论点，不是最终会计支出。
+
+[7] Paul E. Fontenoy书评Jan Glete，*Naval War College Review*49.4 (1996), 刊p160，扫描`downloads/P4_Glete_review_Fontenoy_1996.pdf` doc`b75effed1b78` PDF p3**图像核看**，作为Glete论断的二手转述。Glete原两卷本未读，不抽取书中战列舰数。
+
+[8] E1 `nodes/r_5b1357a9c6/cards/t_02f417/E1_ecology_population_resources.md`；Hamish Graham, “A Matter of the King’s Service,” *Drassana* 30 (2022/23), PDF`downloads/E1_Graham2023_FrenchNavalTimber.pdf`, doc`313c1f64bc40`，PDF pp4–5,8–9；地方档案筛材数字经Graham转引。Todorov2014与2008同作者近缘材料，**不**当独立两证。
+
+[9] B2数据线索：`nodes/r_5b1357a9c6/cards/t_044211/BoE_selected_cached_values.xlsx`，BoE millennium v3.1 A27/A29/A31/M10；本卡没有重新核BoE来源行，财政可持续性只作接口，不将利差当破产阈值。
+
+[10] Henri-Joseph Paixhans, *Nouvelle force maritime et artillerie*, Paris 1822，ETH第八卷扫描`downloads/P4_Paixhans_1822_Nouvelle_force_maritime.pdf`, doc`6019ca4672f7`，PDF pp2–5及63–65对应印pp285–88,346–48，p346关于他国模仿和暂时优势。全书扉页非本PDF覆盖，不冒称通读全书。
+
+[11] RMG HMS Lightning馆藏`https://www.rmg.co.uk/collections/objects/rmgc-object-66670`，缓存`downloads/pages/453f975faa96.md`；法国国家海军博物馆Sphinx说明经F3缓存`downloads/pages/04c2ed9cef98.md`行242–46；Philip K. Allan USNI *Naval History* 2024报道1824试验，缓存`downloads/pages/50491bf9c17b.md`，是二手；原报告只见目录404，不能算已读。
+
+**未取得但主动查过：**Glover1967 *Journal of Modern History* 39.3 233–252 DOI10.1086/240080仅JSTOR/芝大书目与权限墙（缓存`downloads/pages/717b149d2bb0.md`,`ecb1c103e4af.md`）；Lambert1996 “Preparing for the Long Peace” DOI10.1080/00253359.1996.10656582全文抽取失败；Winfield & Roberts 2015逐舰正文未取得；Rodger *The Command of the Ocean* 在线电子书本次仅读截断前言与1649开头，**未读1815章**。书名不当作舰数证据。索引/权限失败不代表文献不存在，下一次可做馆际或有权限全文核查。法文与英文源均已读，跨语要求满足，但数字同源网络依旧有限。
+
+**复算：**在项目根运行`python3 nodes/r_5b1357a9c6/cards/t_24b942/build_p4.py`；输出本目录`P4_annual.csv`96行、`P4_four_snapshots.csv`24行、`P4_sensitivity.csv`18行；具体假设见本报告第2节及脚本顶部常量与所引F3/B3参数文件。脚本对存量恒等式、端点、A12≤H、巡航配员留额作算术断言，返回`all identity checks pass`。另运行`python3 nodes/r_5b1357a9c6/cards/t_24b942/verify_p4.py`，独立读取CSV并与上游F3/B3端点复核96/24/18行、存量恒等式、1815共点及比值，结果PASS；它**没有**独立验证工料、英国全年修舰速率、法国财政承受力、估计量统计识别或舰队战斗结果。完整源摘录在本卡`notes_sources.md`及`notes_added_20260923.md`。

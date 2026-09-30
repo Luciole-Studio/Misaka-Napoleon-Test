@@ -1,0 +1,259 @@
+
+
+ Andalucía – southwest
+   85,696
+   24,586
+   30,646
+   79,636
+ –6,060
+ –7.1
+
+ Basque country
+   20,254
+     5,814
+     3,479
+   22,589
+   2,335
+ 11.5
+
+ Castilla la Nueva
+   74,740
+   18,528
+   23,962
+   69,306
+ –5,434
+ –7.3
+
+ Castilla la Vieja
+   37,958
+     9,320
+   11,132
+   36,146
+ –1812
+ –4.8
+
+ Cataluña
+   37,017
+   10,528
+     9,108
+   38,437
+   1420
+   3.8
+
+ Extremadura
+     8,889
+     2,325
+     3,566
+     7,648
+ –1241
+ –14.0
+
+ Galicia
+     9,594
+     2,929
+     1,495
+   11,028
+   1,434
+ 14.9
+
+ Navarra
+   10,048
+     2,736
+     1,346
+   11,438
+   1,390
+ 13.8
+
+ Valencia
+   12,870
+     3,715
+     3,456
+   13,129
+      259
+   2.0
+
+ TOTALS
+ 297,066
+   80,481
+   88,190
+ 289,357
+ –7,709
+ –2.6
+
+ Source : Author, db/ Demography : Regional Population Growth, 1800–1817
+
+ TABLE 5.1A SAMPLE: WEIGHTED POPULATION
+GROWTH PRE-WAR (1800–1807)
+
+ REGION
+ Population 1787 census
+ Mid-1800/mid-1801 sample population
+ Proportion of region’s sample population to 1787 region’s population
+ Sample births adjusted to regional size*
+ Sample deaths adjusted to regional size*
+ Sample mid-1807–1808 population adjusted to regional size *
+ Net new population
+ New growth rate
+
+ Andalucía, south-west
+ 1,849,883
+   85,696
+ 0.046
+    530,727
+    661,542
+ 1,719,068
+ −130,815
+ −7.1
+
+ Basque Country
+    306,388
+   20,254
+ 0.066
+      87,950
+      52,628
+    341,710
+     35,322
+ 11.5
+
+ Castilla la Nueva
+ 1,218,642
+   74,740
+ 0.061
+    302,101
+    390,702
+ 1,130,040
+   −88,602
+ −7.3
+
+ Castilla la Vieja
+ 1,786,449
+   37,958
+ 0.021
+    438,635
+    523,915
+ 1,701,169
+   −85,280
+ −4.8
+
+ Cataluña
+    886,624
+   37,017
+ 0.042
+    252,165
+    218,153
+    920,636
+     34,012
+   3.8
+
+ Extremadura
+    417,364
+     8,889
+ 0.021
+    109,165
+    167,434
+    359,095
+   −58,269
+ −14.0
+
+ Galicia
+ 1,355,299
+     9,594
+ 0.007
+    413,766
+    211,192
+ 1,557,873
+   202,574
+ 14.9
+
+ Navarra
+    224,443
+   10,048
+ 0.045
+      61,114
+      30,066
+    255,492
+     31,049
+ 13.8
+
+ Valencia
+    810,520
+   12,870
+ 0.016
+    233,961
+    217,650
+    826,831
+     16,311
+   2.0
+
+ TOTALS
+ 8,855,612
+ 297,066
+ 0.034
+ 2,429,585
+ 2,473,281
+ 8,811,915
+   −4,3697
+ −0.5
+
+ Source : Courtesy David Sven Reher on basis of author’s unweighted sample
+
+ * See Table 5.1 for original figures
+
+ TABLE 5.2 SAMPLE: UNWEIGHTED POPULATION
+GROWTH WARTIME (1808–1814)
+
+ REGION
+ Mid-1807/mid-1808 estimated population
+ Total Births (calendar years 1808–1814)
+ Total Deaths (calendar years 1808–1814)
+ Mid-1813/mid-1814 estimated population
+ Net mid-1813/mid-1814 natural growth over mid-1808
+ % mid-1813/mid-1814 natural growth over mid-1808
+
+ Andalucía – southwest
+   79,636
+   27,189
+   31,122
+   75,703
+   −3,933
+   −4.9
+
+ Basque country
+   22,589
+     5,683
+     4,712
+   23,560
+        971
+     4.3
+
+ Castilla la Nueva
+   69,306
+   19,069
+   17,858
+   70,517
+     1,211
+     1.7
+
+ Castilla la Vieja
+   36,146
+     9,856
+     7,740
+   38,262
+     2,116
+     5.9
+
+ Cataluña
+   38,437
+   11,547
+   14,835
+   35,149
+   −3,288
+   −8.6
+
+ Extremadura
+     7,648
+     2,142
+     3,217
+     6,573
+   −1,075
+ −14.1

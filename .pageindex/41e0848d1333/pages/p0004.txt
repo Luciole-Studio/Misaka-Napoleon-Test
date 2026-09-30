@@ -1,0 +1,66 @@
+                                                1      I NTRODUCTION
+
+Social capital levels across and within countries are highly correlated with the quality of past and contem-
+
+porary institutions (Putnam, 1994; Tabellini, 2008 and Tabellini, 2010; Guiso, Sapienza, and Zingales,
+
+2008a; Algan and Cahuc, 2013).1 However, empirical findings of a causal impact of impartial enforce-
+
+ment institutions on norms of cooperation are almost non-existent. Identification is particularly difficult
+
+as initial cultural norms of a society starkly influence the shape of its institutions. In this paper I make
+
+use of a historical experiment during which a legal institution was imposed from outside to identify
+
+the persistent impact of law on social capital. This historical experiment, the introduction of the Code
+
+Napoleon in parts of 19th century Germany, constituted a dramatic positive shock to the quality of exist-
+
+ing legal institutions. Centered around the most modern legal code at that time and establishing a third
+
+party enforcement institution with the principle of equality before the law, the Napoleonic institutions
+
+“encouraged the liberation of the individual from corporative bonds and the establishment of a civil soci-
+
+ety" (Fehrenbach, 2008). My findings, estimated on the micro-level within a country, show that regions
+
+that used the Napoleonic Civil Code throughout the 19th century display on average higher levels of
+
+social capital.2 This supports the description of the positive social effects of the Code Napoleon and its
+
+legacy persisting to the present day.3
+
+My analysis contributes to the recently emerging literature emphasizing the weight of history and par-
+
+ticularly historical institutions for current beliefs.4 However, it differs from the latter in two important
+
+dimensions. First, rather then applying a broad definition of institutions, this paper considers a specific
+
+type: the law. In line with recent theoretical models (e.g. Tabellini, 2008; Guiso, Sapienza, and Zingales,
+
+2008b), I expect impartial legal enforcement institutions to affect trust as they promote individual coop-
+
+eration with anonymous others.5 Initially, in a society characterized by weak law enforcement, social and
+     1 In a cross-section of countries one can observe a strong positive association between the quality of the legal system and
+
+trust, as Figure 1 displays. Countries protecting individual property stronger and in which courts and judges are independent and
+impartial display higher levels of interpersonal trust. This does not merely mirror an income effect, since the positive association
+is robust to controlling for income and education (see Figure 2). It cannot be deduced, however, that there exists a causal link
+going from the quality of the legal system to interpersonal trust. It is equally likely, that countries, in which individuals trust
+each other to a higher extent, also have stronger preferences for protecting property and value more an impartial and independent
+jury.
+     2 Throughout this paper I apply a broad definition of “social capital” encompassing different measures used in the literature,
+
+such as individual beliefs as well as outcome measures.
+     3 The long-run consequences of the law for economic outcomes has been intensively documented by scholars researching
+
+different legal origins. See for example López-de-Silanes et al. (1998) and La Porta, López-de-Silanes, and Shleifer (2008).
+     4 See Nunn (2012) for a comprehensive summary of the literature relating history and culture.
+     5 In the Appendix I propose a simple model of the type suggested by Guiso, Sapienza, and Zingales (2008b), introducing
+
+a third stage in the trust game, in which a court enforces contracts. The model enables me to make the cooperation decision
+contingent on the quality of the enforcement institution. The model predicts, that increasing the quality of the law will lead to
+more investment and higher levels of cooperation. Institutions can overcome the “no-trust-no-trade" equilibrium.
+
+
+                                                                 2

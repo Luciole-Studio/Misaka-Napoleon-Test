@@ -1,0 +1,61 @@
+{
+  "status": "all_checks_passed",
+  "checked_file_sha256": {
+    "F2_french_army_capacity.md": "65d10638fcb18ac33a02463fad442a3970b43527a9aba2e5cae04a376bea13cc",
+    "F2_refinement.md": "938657f57988b5f5c9ace49c7d8fd5015b11dc4308c003ad369732910fb4e897",
+    "SOURCES.md": "b0e9114487da4d90f64b0a665bbebaab79a6eba02338a129f7da7f559d67f529",
+    "F2_capacity.csv": "b45ec93f638aac651a4effcae9d8ed112842a92158e3d4448b8fcb8aef77082a",
+    "F2_s6_scenarios.csv": "ee85a51029f3b60358489e6283a354aa6b9f698fab7117dc9e69c325800258b6",
+    "F2_joint_budget_manpower.csv": "1021d5d3baeb7e1f54fa99e1f277ccaefdbe5514f19e200a5b4d9f8ebd973521"
+  },
+  "annual_evidence_rows": 12,
+  "narrative_timeline_rows": 36,
+  "S6_region_rows": 37,
+  "maturation_rows": 26,
+  "service_rows": 15,
+  "joint_budget_rows": 27,
+  "peace_model_rows": 82,
+  "literal_checks": [
+    {
+      "source": "O10",
+      "file": "downloads/f2_oman_vol3.txt",
+      "quote": "Of whom 324,996 are actually in Spain, and of these 262,051 are ‘Present under arms’ with the colours."
+    },
+    {
+      "source": "P11",
+      "file": "downloads/pages/43dacbcb242e.md",
+      "quote": "quatre-vingt mille seront mis en activité ; le reste formera la réserve."
+    },
+    {
+      "source": "P10",
+      "file": "downloads/pages/df27e5314cf3.md",
+      "quote": "Le budget de l’armée d’Italie ne doit pas dépasser 30 millions."
+    },
+    {
+      "source": "P10J",
+      "file": "downloads/pages/82a063e7e022.md",
+      "quote": "Guerre et administration de la guerre. . . . 350,000,000"
+    },
+    {
+      "source": "R33",
+      "file": "downloads/pages/a21d8807b909.md",
+      "quote": "Au 1 er janvier 1833, l’armée présentait un effectif de 421,494 hommes et 82,057 chevaux."
+    },
+    {
+      "source": "G03",
+      "file": "downloads/pages/2ad693d5ac13.md",
+      "quote": "where over half of his 600,000 troops were non-French."
+    },
+    {
+      "source": "SON04",
+      "file": "downloads/pages/977ad00e38d7.md",
+      "quote": "In all, well over one-half of the Lombard and Venetian troops remained loyal to Austria"
+    },
+    {
+      "source": "BR25",
+      "file": "downloads/pages/26d8892840a9.md",
+      "quote": "Au 1er avril 1812, les magasins abritaient 811 000 fusils."
+    }
+  ],
+  "warning": "Passes establish arithmetic/structure/literal presence only, not causal validity or archival authentication."
+}

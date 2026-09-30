@@ -1,0 +1,492 @@
+            "confidence": null,
+            "pageNumber": "331",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 358,
+            "confidence": 81,
+            "pageNumber": "332",
+            "pageProb": 71,
+            "wordConf": 6
+        },
+        {
+            "leafNum": 359,
+            "confidence": 80,
+            "pageNumber": "333",
+            "pageProb": 70,
+            "wordConf": 5
+        },
+        {
+            "leafNum": 360,
+            "confidence": null,
+            "pageNumber": "334",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 361,
+            "confidence": 98,
+            "pageNumber": "335",
+            "pageProb": 88,
+            "wordConf": 23
+        },
+        {
+            "leafNum": 362,
+            "confidence": 74,
+            "pageNumber": "336",
+            "pageProb": 64,
+            "wordConf": 4
+        },
+        {
+            "leafNum": 363,
+            "confidence": 98,
+            "pageNumber": "337",
+            "pageProb": 88,
+            "wordConf": 1
+        },
+        {
+            "leafNum": 364,
+            "confidence": 78,
+            "pageNumber": "338",
+            "pageProb": 68,
+            "wordConf": 2
+        },
+        {
+            "leafNum": 365,
+            "confidence": 92,
+            "pageNumber": "339",
+            "pageProb": 82,
+            "wordConf": 19
+        },
+        {
+            "leafNum": 366,
+            "confidence": null,
+            "pageNumber": "340",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 367,
+            "confidence": 99,
+            "pageNumber": "341",
+            "pageProb": 89,
+            "wordConf": 8
+        },
+        {
+            "leafNum": 368,
+            "confidence": null,
+            "pageNumber": "342",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 369,
+            "confidence": null,
+            "pageNumber": "343",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 370,
+            "confidence": null,
+            "pageNumber": "344",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 371,
+            "confidence": 100,
+            "pageNumber": "345",
+            "pageProb": 95,
+            "wordConf": 31
+        },
+        {
+            "leafNum": 372,
+            "confidence": 78,
+            "pageNumber": "346",
+            "pageProb": 68,
+            "wordConf": 11
+        },
+        {
+            "leafNum": 373,
+            "confidence": 100,
+            "pageNumber": "347",
+            "pageProb": 92,
+            "wordConf": 7
+        },
+        {
+            "leafNum": 374,
+            "confidence": null,
+            "pageNumber": "348",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 375,
+            "confidence": 100,
+            "pageNumber": "349",
+            "pageProb": 94,
+            "wordConf": 23
+        },
+        {
+            "leafNum": 376,
+            "confidence": null,
+            "pageNumber": "350",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 377,
+            "confidence": null,
+            "pageNumber": "351",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 378,
+            "confidence": null,
+            "pageNumber": "352",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 379,
+            "confidence": null,
+            "pageNumber": "353",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 380,
+            "confidence": 83,
+            "pageNumber": "354",
+            "pageProb": 73,
+            "wordConf": 13
+        },
+        {
+            "leafNum": 381,
+            "confidence": 100,
+            "pageNumber": "355",
+            "pageProb": 93,
+            "wordConf": 7
+        },
+        {
+            "leafNum": 382,
+            "confidence": null,
+            "pageNumber": "356",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 383,
+            "confidence": 100,
+            "pageNumber": "357",
+            "pageProb": 92,
+            "wordConf": 17
+        },
+        {
+            "leafNum": 384,
+            "confidence": null,
+            "pageNumber": "358",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 385,
+            "confidence": 100,
+            "pageNumber": "359",
+            "pageProb": 93,
+            "wordConf": 20
+        },
+        {
+            "leafNum": 386,
+            "confidence": null,
+            "pageNumber": "360",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 387,
+            "confidence": 98,
+            "pageNumber": "361",
+            "pageProb": 88,
+            "wordConf": 15
+        },
+        {
+            "leafNum": 388,
+            "confidence": null,
+            "pageNumber": "362",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 389,
+            "confidence": null,
+            "pageNumber": "363",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 390,
+            "confidence": null,
+            "pageNumber": "364",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 391,
+            "confidence": 100,
+            "pageNumber": "365",
+            "pageProb": 93,
+            "wordConf": 5
+        },
+        {
+            "leafNum": 392,
+            "confidence": null,
+            "pageNumber": "366",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 393,
+            "confidence": null,
+            "pageNumber": "367",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 394,
+            "confidence": null,
+            "pageNumber": "368",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 395,
+            "confidence": null,
+            "pageNumber": "369",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 396,
+            "confidence": null,
+            "pageNumber": "370",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 397,
+            "confidence": 100,
+            "pageNumber": "371",
+            "pageProb": 91,
+            "wordConf": 25
+        },
+        {
+            "leafNum": 398,
+            "confidence": null,
+            "pageNumber": "372",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 399,
+            "confidence": null,
+            "pageNumber": "373",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 400,
+            "confidence": null,
+            "pageNumber": "374",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 401,
+            "confidence": 100,
+            "pageNumber": "375",
+            "pageProb": 91,
+            "wordConf": 24
+        },
+        {
+            "leafNum": 402,
+            "confidence": null,
+            "pageNumber": "376",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 403,
+            "confidence": 97,
+            "pageNumber": "377",
+            "pageProb": 87,
+            "wordConf": 5
+        },
+        {
+            "leafNum": 404,
+            "confidence": null,
+            "pageNumber": "378",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 405,
+            "confidence": null,
+            "pageNumber": "379",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 406,
+            "confidence": 81,
+            "pageNumber": "380",
+            "pageProb": 71,
+            "wordConf": 0
+        },
+        {
+            "leafNum": 407,
+            "confidence": 73,
+            "pageNumber": "381",
+            "pageProb": 63,
+            "wordConf": 56
+        },
+        {
+            "leafNum": 408,
+            "confidence": null,
+            "pageNumber": "382",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 409,
+            "confidence": 93,
+            "pageNumber": "383",
+            "pageProb": 83,
+            "wordConf": 21
+        },
+        {
+            "leafNum": 410,
+            "confidence": null,
+            "pageNumber": "384",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 411,
+            "confidence": null,
+            "pageNumber": "385",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 412,
+            "confidence": null,
+            "pageNumber": "386",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 413,
+            "confidence": 95,
+            "pageNumber": "387",
+            "pageProb": 85,
+            "wordConf": 25
+        },
+        {
+            "leafNum": 414,
+            "confidence": null,
+            "pageNumber": "388",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 415,
+            "confidence": 94,
+            "pageNumber": "389",
+            "pageProb": 84,
+            "wordConf": 21
+        },
+        {
+            "leafNum": 416,
+            "confidence": null,
+            "pageNumber": "390",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 417,
+            "confidence": null,
+            "pageNumber": "391",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 418,
+            "confidence": null,
+            "pageNumber": "392",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 419,
+            "confidence": 85,
+            "pageNumber": "393",
+            "pageProb": 75,
+            "wordConf": 19
+        },
+        {
+            "leafNum": 420,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 421,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 422,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 423,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 424,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 425,
+            "confidence": 100,
+            "pageNumber": "V",
+            "pageProb": 91,
+            "wordConf": 33
+        },
+        {
+            "leafNum": 426,
+            "confidence": null,
+            "pageNumber": "VI",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 427,
+            "confidence": null,
+            "pageNumber": "VII",

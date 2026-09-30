@@ -1,0 +1,47 @@
+
+
+- Back to main menu
+- [Competitions](https://www.bankofengland.co.uk/education/competitions)
+- [Education resources](https://www.bankofengland.co.uk/education/education-resources)
+- [Research support programme](https://www.bankofengland.co.uk/education/research-support-programme)
+- [Request a speaker for your school](https://www.bankofengland.co.uk/education/school-visits)
+
+- [Financial stability](https://www.bankofengland.co.uk/financial-stability) Open Financial stability sub menu
+
+- Back to main menu
+- [Digital Securities Sandbox (DSS)](https://www.bankofengland.co.uk/financial-stability/digital-securities-sandbox)
+- [Financial market infrastructure supervision](https://www.bankofengland.co.uk/financial-stability/financial-market-infrastructure-supervision)
+- [Operational resilience of the financial sector](https://www.bankofengland.co.uk/financial-stability/operational-resilience-of-the-financial-sector)
+- [Resolution](https://www.bankofengland.co.uk/financial-stability/resolution)
+- [Trade Repository (TR) Data Collections](https://www.bankofengland.co.uk/financial-stability/trade-repository-data)
+
+- [Gold](https://www.bankofengland.co.uk/gold)
+- [Markets](https://www.bankofengland.co.uk/markets) Open Markets sub menu
+
+- Back to main menu
+- [Bank of England Market Operations Guide](https://www.bankofengland.co.uk/markets/bank-of-england-market-operations-guide)
+- [Eligible collateral](https://www.bankofengland.co.uk/markets/eligible-collateral)
+- [Fair and Effective Markets](https://www.bankofengland.co.uk/markets/fair-and-effective-markets)
+- [Foreign currency reserves](https://www.bankofengland.co.uk/markets/foreign-currency-reserves)
+- [Greening our Corporate Bond Purchase Scheme (CBPS)](https://www.bankofengland.co.uk/markets/greening-the-corporate-bond-purchase-scheme)
+- [Market intelligence](https://www.bankofengland.co.uk/markets/market-intelligence)
+- [Money Markets Committee and UK Money Markets Code](https://www.bankofengland.co.uk/markets/money-markets-committee-and-uk-money-markets-code)
+- [Settlement and collateral management](https://www.bankofengland.co.uk/markets/collateral-and-settlement)
+- [SONIA interest rate benchmark](https://www.bankofengland.co.uk/markets/sonia-benchmark)
+- [The Sterling Bond Portfolio](https://www.bankofengland.co.uk/markets/the-sterling-bond-portfolio)
+- [Transition from LIBOR to risk-free rates](https://www.bankofengland.co.uk/markets/transition-to-sterling-risk-free-rates-from-libor)
+
+- [Monetary policy](https://www.bankofengland.co.uk/monetary-policy) Open Monetary policy sub menu
+
+- Back to main menu
+- [Inflation and the 2% target](https://www.bankofengland.co.uk/monetary-policy/inflation)
+- [Quantitative easing](https://www.bankofengland.co.uk/monetary-policy/quantitative-easing)
+- [Interest rates and Bank Rate](https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate)
+
+- [Payments](https://www.bankofengland.co.uk/payments) Open Payments sub menu
+
+- Back to main menu
+- [Banking services](https://www.bankofengland.co.uk/payments/banking-services)
+- [CHAPS](https://www.bankofengland.co.uk/payments/chaps)
+- [Payment and settlement](https://www.bankofengland.co.uk/payments/payment-settlement)
+- [Payments innovation](https://www.bankofengland.co.uk/payments/payments-innovation)

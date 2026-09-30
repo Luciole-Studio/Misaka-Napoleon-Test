@@ -1,0 +1,34 @@
+
+
+between the two groups intuitive.
+
+The results in the right panel of Figure 8 suggest that while the empire effects were
+
+positive in all sectors, they were largest for (0) Food and live animals chiefly for food, (1) Beverages and tobacco, (8) Miscellaneous manufactured articles, and (9) Commodities not classified elsewhere. They were smaller for (5) Chemicals and related products, (6) Goods classified chiefly by materials, and (7) Machinery and transport equipment. And they were even smaller and statistically insignificant for (2) Crude materials, inedible, except fuels, (3) Mineral fuels and lubricants, and (4) Animal and vegetable oils, fats, waxes. The fact that the effects were so large for food, beverages, and tobacco and so much smaller for crude materials, fuels, and oils is consistent with the argument of Magee and Thompson (2010) that consumer preferences drove intra-imperial trade during the late 19th century. As they write, "it was emigration that conditioned consumption habits within the colonies such that their tastes, expectations and values were readily familiar, communicable and comprehensible to manufacturers back in Britain" (p. 118). Further unpacking the sources of heterogeneity across goods and time represents a promising avenue for future research.
+
+#### 6 Historical discussion and conclusion
+
+In this paper, we introduce a new dataset on the universe of British exports at the bilateral, commodity-level for the period from 1700 to 1899. Our hope is that the data will be useful to other economic historians exploring the causes and consequences of trade flows during a period of enormous technological and political change. Furthermore, we have used the data to explore the changing impacts of distance and empire on British exports over time. We have documented three striking empirical patterns. First, the British Empire was a powerful export-promoting force throughout these two centuries. At its height in the late 18th century the impact was huge. Any account of British trade during this period, and particularly in the decades prior to 1815, has to take seriously the impact of mercantilist legislation and overseas colonies: trade was a largely
+
+political phenomenon during this period as has long been emphasized by a large scholarly 
+literature on mercantilism. 
+Second, this impact of empire declined in the 1780s as a result of the War of American 
+Independence which led to a large and persistent trade flow being diverted to outside the 
+empire. Setting aside that major shock to the imperial system, the link between empire 
+and exports fell in the 1810s. This marked a transition away from mercantilism and 
+protectionism which was largely completed by the 1840s. By the late 19th century, our 
+main results imply that empire was still boosting British exports by roughly 170%, a 
+sizable effect, but just a fraction of what the impact had been under the old mercantilist 
+system. 
+Finally, the negative impact of distance fell sharply from the 1780s onward. The timing 
+corresponds with recent scholarship documenting an increase in shipping speeds from 
+that decade, well before the onset of the steam technology associated with the Industrial 
+Revolution. We view our results as providing support for authors such as Solar (2013), 
+Kelly and Ó Gráda (2019), and others who have emphasized the role of copper sheathing, 
+improved rigging, and other innovations in reducing sailing costs in the late 18th and 
+early 19th centuries. 
+These two centuries saw enormous changes in commercial policy, geopolitics, and 
+technology. Thus, it would perhaps have been more surprising if the impact of distance 
+and empire had remained constant throughout such a period of flux. An economist 
+estimating gravity models in 1800 would have been wrong to assume that their lessons 
+would hold a century or two later, and there may be a lesson there for economists today. 

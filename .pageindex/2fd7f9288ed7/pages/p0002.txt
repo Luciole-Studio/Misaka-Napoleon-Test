@@ -1,0 +1,247 @@
+## Sheet: B5_boe_cells.csv (continued)
+source_sheet,source_cell,cached_value
+A1. Headline series,BX6,"Financial year end, nominal par value £mn"
+A1. Headline series,BY6,"Financial year end, market value £mn"
+A1. Headline series,BZ6,£mn
+A1. Headline series,CA6,as a % of nominal GDP
+A1. Headline series,CB6,£mn
+A1. Headline series,CC6,as a % of nominal GDP
+A1. Headline series,CD6,£mn
+A1. Headline series,CE6,as a % of nominal GDP
+A1. Headline series,A7,Documentation
+A1. Headline series,P7,Composite measure
+A1. Headline series,Q7,Composite measure
+A1. Headline series,R7,Composite measure
+A1. Headline series,S7,Composite measure
+A1. Headline series,T7,"Goods only prior to 1870.  GB only prior to 1816, England and Wales prior to 1772 and largely based on woollen exports prior to 1697"
+A1. Headline series,U7,"Goods only prior to 1870.  GB only prior to 1816, England and Wales prior to 1772, London prior to 1696."
+A1. Headline series,W7,Constant border UK (GB+NI) definition 
+A1. Headline series,X7,"Based on political definition of UK at the time, GB before 1801, GB+I 1801-1920, GB+NI 1921-"
+A1. Headline series,Y7,"GB+NI population, using Broadberry et al (2015) GB estimates"
+A1. Headline series,Z7,Population of England
+A1. Headline series,AA7,Break-adjusted measure
+A1. Headline series,AB7,"LFS consistent measure, rough GB estimates prior to 1855"
+A1. Headline series,AX7,NB Possible break in the mean of around +1% in 1977 reflecting a shift from the rate charged to blue chip companies to one covering the whole of the PNFC sector.
+A1. Headline series,BE7,NB uses building costs as a rough proxy prior to 1895
+A1. Headline series,BF7,"Break-adjusted stock of bank and building society lending, M4Lx"
+A1. Headline series,BG7,"Break-adjusted stock of bank and building society lending secured on dwellings, excluding impact of securitisations"
+A1. Headline series,BH7,using unconsolidated balance sheet and GB+NI nominal GDP
+A1. Headline series,BI7,using consolidated balance sheet and GB+NI nominal GDP
+A1. Headline series,BL7,M0
+A1. Headline series,BM7,Spliced break-adjusted stock
+A1. Headline series,BN7,Spliced break-adjusted broad money measure based on M3/M4/M4x
+A1. Headline series,BO7,excluding the temporary effects of financial interventions.
+A1. Headline series,BP7,using GB+NI nominal GDP
+A1. Headline series,BQ7,excluding the temporary effects of financial interventions.
+A1. Headline series,BR7,using GB+NI nominal GDP
+A1. Headline series,BS7,excluding the temporary effects of financial interventions.  Central government only prior to 1900.
+A1. Headline series,BT7,using GDP based on political boundaries
+A1. Headline series,BU7,excluding public sector banks.  Includes estimated capital value of terminable annuities 
+A1. Headline series,BV7,using GB+Ireland GDP before 1920
+A1. Headline series,BW7,based on GB funded debt and GB GDP before 1817
+A1. Headline series,BX7,Includes estimated capital value of terminable annuities
+A1. Headline series,BY7,Includes estimated capital value of terminable annuities
+A1. Headline series,CA7,using conformable measure of nominal GDP
+A1. Headline series,CB7,GB only before 1816
+A1. Headline series,CC7,using conformable measure of nominal GDP
+A1. Headline series,CE7,using conformable measure of nominal GDP
+A1. Headline series,A8,1086
+A1. Headline series,V8,0.43025
+A1. Headline series,Z8,1710
+A1. Headline series,BJ8,0.0375
+A1. Headline series,A717,1795
+A1. Headline series,B717,22377.818285701946
+A1. Headline series,C717,10.861845359752266
+A1. Headline series,D717,19510.69628598898
+A1. Headline series,E717,10.86184535975228
+A1. Headline series,F717,11.371837839985922
+A1. Headline series,G717,10.861845359752238
+A1. Headline series,H717,18323.172252732173
+A1. Headline series,I717,10.836909216509369
+A1. Headline series,J717,15967.928397942405
+A1. Headline series,K717,10.836909216509369
+A1. Headline series,L717,1.276912291886692
+A1. Headline series,M717,10.861845359752266
+A1. Headline series,N717,2.7016102111432403
+A1. Headline series,T717,717.4828291259203
+A1. Headline series,U717,775.3438974887903
+A1. Headline series,V717,203.9351389796608
+A1. Headline series,W717,247.473019647839
+A1. Headline series,X717,240.11070743198758
+A1. Headline series,Y717,10978.223305051279
+A1. Headline series,Z717,8169.106
+A1. Headline series,AA717,5517.43462428067
+A1. Headline series,AB717,4.894929479466429
+A1. Headline series,AC717,64.18603755519761
+A1. Headline series,AD717,1577.2628730496779
+A1. Headline series,AE717,7.549345459936404
+A1. Headline series,AI717,1.105885374920392
+A1. Headline series,AJ717,5.93811390581556
+A1. Headline series,AK717,5.1050180156233225
+A1. Headline series,AL717,116.31915671291743
+A1. Headline series,AN717,0.4123101319236947
+A1. Headline series,AO717,1.1473883466463648
+A1. Headline series,AP717,15.70397111913357
+A1. Headline series,AQ717,44.894428604201174
+A1. Headline series,AR717,1.697912352875158
+A1. Headline series,AS717,5
+A1. Headline series,AT717,5
+A1. Headline series,AV717,4.5210094296209675
+A1. Headline series,AZ717,1.0561007109757767
+A1. Headline series,BA717,4.525396656666667
+A1. Headline series,BB717,67.71269464263766
+A1. Headline series,BH717,16.660353307931956
+A1. Headline series,BI717,16.139176416725448
+A1. Headline series,BJ717,44.02360903377891
+A1. Headline series,BS717,-20.7025
+A1. Headline series,BT717,-8.622064472432607
+A1. Headline series,BU717,339.4865899489434
+A1. Headline series,BV717,121.3423413689411
+A1. Headline series,BW717,141.3875264371975
+A1. Headline series,BX717,293.1723537707722
+A1. Headline series,BY717,224.05814850648474
+A1. Headline series,CB717,-6.79812890625
+A1. Headline series,CC717,-2.831247710256986
+A1. Headline series,A718,1796
+A1. Headline series,B718,22779.40530349523
+A1. Headline series,C718,1.7945762748903604
+A1. Headline series,D718,19860.83061260325
+A1. Headline series,E718,1.7945762748903604
+A1. Headline series,F718,11.575914143881315
+A1. Headline series,G718,1.7945762748903604
+A1. Headline series,H718,18647.799219502955
+A1. Headline series,I718,1.77167448023296
+A1. Headline series,J718,16250.828110390621
+A1. Headline series,K718,1.77167448023296
+A1. Headline series,L718,1.2998274569280492
+A1. Headline series,M718,1.7945762748903462
+A1. Headline series,N718,2.52073353344049
+A1. Headline series,T718,874.2095066765273
+A1. Headline series,U718,797.0381236673829
+A1. Headline series,V718,213.5537214352445
+A1. Headline series,W718,259.2038354491475
+A1. Headline series,X718,251.4925319428565
+A1. Headline series,Y718,11093.805392765633
+A1. Headline series,Z718,8256.325
+A1. Headline series,AA718,5574.835407695055
+A1. Headline series,AB718,4.799313124110777
+A1. Headline series,AC718,64.59836147785288
+A1. Headline series,AD718,1603.436419279062
+A1. Headline series,AE718,0.11745011735258615
+A1. Headline series,AI718,1.1378867533884907
+A1. Headline series,AJ718,5.972020405040138
+A1. Headline series,AK718,5.402961317321322
+A1. Headline series,AL718,110.53235539359633
+A1. Headline series,AN718,0.43115141746476227
+A1. Headline series,AO718,1.175133306666675
+A1. Headline series,AP718,2.4180967238689703
+A1. Headline series,AQ718,45.837567094950344
+A1. Headline series,AR718,1.7161363740678128
+A1. Headline series,AS718,5
+A1. Headline series,AT718,5
+A1. Headline series,AV718,4.882841733091397
+A1. Headline series,AZ718,1.0719139996180038
+A1. Headline series,BA718,4.28628728
+A1. Headline series,BB718,62.4040635053196
+A1. Headline series,BH718,12.213357659356435
+A1. Headline series,BI718,11.71188885206343
+A1. Headline series,BJ718,43.35186112680217
+A1. Headline series,BS718,-26.303000000000004
+A1. Headline series,BT718,-10.458759867261788
+A1. Headline series,BU718,380.51206069308336
+A1. Headline series,BV718,129.98984983360626
+A1. Headline series,BW718,151.30153478256855
+A1. Headline series,BX718,335.44796515012376
+A1. Headline series,BY718,262.68855633743624
+A1. Headline series,CB718,-1.5452349853515626
+A1. Headline series,CC718,-0.6144257936464956
+A1. Headline series,A719,1797
+A1. Headline series,B719,22614.07057901146
+A1. Headline series,C719,-0.7258079053468691
+A1. Headline series,D719,19716.679133949427
+A1. Headline series,E719,-0.7258079053468691
+A1. Headline series,F719,11.491895243908857
+A1. Headline series,G719,-0.7258079053468833
+A1. Headline series,H719,18508.286140643762
+A1. Headline series,I719,-0.7481476887271583
+A1. Headline series,J719,16129.247915483711
+A1. Headline series,K719,-0.7481476887271583
+A1. Headline series,L719,1.2903932064897963
+A1. Headline series,M719,-0.7258079053468549
+A1. Headline series,N719,-0.130883628239225
+A1. Headline series,T719,871.8486998097317
+A1. Headline series,U719,702.5189393024189
+A1. Headline series,V719,214.0328150424356
+A1. Headline series,W719,259.8354472251651
+A1. Headline series,X719,252.10535329436289
+A1. Headline series,Y719,11242.659730427113
+A1. Headline series,Z719,8333.74
+A1. Headline series,AA719,5579.831554335279
+A1. Headline series,AB719,5.497424569334974
+A1. Headline series,AC719,65.01333412324706
+A1. Headline series,AD719,1630.0442967375182
+A1. Headline series,AE719,-1.8383981456655514
+A1. Headline series,AI719,1.1489990106704773
+A1. Headline series,AJ719,6.031551835335457
+A1. Headline series,AK719,5.333764619087198
+A1. Headline series,AL719,113.08245237802932
+A1. Headline series,AN719,0.43837391025550476
+A1. Headline series,AO719,1.057888475613107
+A1. Headline series,AP719,-9.977151561309995
+A1. Headline series,AQ719,51.770658525340075
+A1. Headline series,AR719,1.568866581186626
+A1. Headline series,AS719,5
+A1. Headline series,AT719,5
+A1. Headline series,AV719,5.906600656808311
+A1. Headline series,AZ719,0.8618233787780059
+A1. Headline series,BA719,4.436509425000001
+A1. Headline series,BB719,60.41041327555451
+A1. Headline series,BH719,11.143382176405598
+A1. Headline series,BI719,10.773788879940682
+A1. Headline series,BJ719,42.43493021982543
+A1. Headline series,BS719,-32.320750000000004
+A1. Headline series,BT719,-12.82033466471523
+A1. Headline series,BU719,410.0077608030377
+A1. Headline series,BV719,139.7210493973282
+A1. Headline series,BW719,162.63350041770235
+A1. Headline series,BX719,384.0430139886288
+A1. Headline series,BY719,249.11072075533843
+A1. Headline series,CB719,11.9141796875
+A1. Headline series,CC719,4.725873342954674
+A1. Headline series,A720,1798
+A1. Headline series,B720,22831.421210888308
+A1. Headline series,C720,0.9611300677489538
+A1. Headline series,D720,19906.182065467397
+A1. Headline series,E720,0.9611300677489396
+A1. Headline series,F720,11.602347304452275
+A1. Headline series,G720,0.9611300677489396
+A1. Headline series,H720,18681.968926310106
+A1. Headline series,I720,0.9384055570922953
+A1. Headline series,J720,16280.605674239803
+A1. Headline series,K720,0.9384055570922811
+A1. Headline series,L720,1.3027955635895594
+A1. Headline series,M720,0.9611300677489396
+A1. Headline series,N720,-1.05237723791643
+A1. Headline series,T720,940.2167165163844
+A1. Headline series,U720,934.1223681312806
+A1. Headline series,V720,225.61059461125103
+A1. Headline series,W720,273.9399757554774
+A1. Headline series,X720,265.79027267760404
+A1. Headline series,Y720,11376.894405878023
+A1. Headline series,Z720,8435.048
+A1. Headline series,AA720,5654.628380039456
+A1. Headline series,AB720,5.239742577969051
+A1. Headline series,AC720,65.43097250647864
+A1. Headline series,AD720,1657.0937128403052
+A1. Headline series,AE720,-0.8942118607838876
+A1. Headline series,AI720,1.199837597603584
+A1. Headline series,AJ720,6.1699054175319334
+A1. Headline series,AK720,5.590615671777223
+A1. Headline series,AL720,110.36182380912184
+A1. Headline series,AN720,0.4531329172626744
+A1. Headline series,AO720,1.0722084549784283
+A1. Headline series,AP720,1.3536379018612479
+A1. Headline series,AQ720,52.79894691842044
+A1. Headline series,AR720,1.5946018543573348
+A1. Headline series,AS720,5
+A1. Headline series,AT720,5

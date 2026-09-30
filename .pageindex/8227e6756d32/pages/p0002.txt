@@ -1,0 +1,11 @@
+## Sheet: Φύλλο1 (continued)
+	A
+
+
+```meta
+▸ number-format
+    0 C6:L107,A24:B107,M86:V106
+▸ styles
+    bg-color: #3399FF A5:V5
+    bold: A1:A2,A5:V5
+```

@@ -1,0 +1,31 @@
+     E    Fouché’s police reports
+     Table 3 contains extracts from Napoléon’s chief of police’s reports referencing the country’s conscription
+     enforcement efforts and discussing potential causes of draft-dodging among the local population. Keep in
+     mind that during the Napoleonic regime, draft-dodgers were usually referred to as deserters.
+
+                                             Table 3: Fouché’s police reports
+
+      Date of report   Source                                           Quote
+                                            Mentions of the effect of ruggedness
+      09-14-1804       vol.1   “Desertion is considerable in the nine other [departments]: Ariège,
+                       no 285. Bouches-du-Rhône, Haute-Garonne, Landes, Lot, Loire, Lozère, Puy-de-Dôme, Tarn.
+                               The prefects indicate various causes. In Loire, Lozère and Tarn, the mountains offer
+                               safe asylums and make prosecution almost impossible. In Ariège, it is the proximity
+                               of Spain. In the Landes, the gendarmerie is incomplete, and resides too long in the
+12                             same place. The links of the gendarmes with the conscripts and their parents caused
+                               the slowness of the prosecutions.”
+      06-08-1805       vol.1   “Ardèche. Bandits. Conscripts. [...] Conscripts seek to escape the law which affects
+                        o
+                       n 1454. them and meet in large numbers in the woods of the same mountains. M. Bonnardel
+                               is also in pursuit of them, but the gendarmes he has at his disposal are too small in
+                               number, in proportion to that of these deserters, for one to hope for complete
+                               success.”
+      08-02-1806       vol.2   “Léman. Bandits. -The prefect of Geneva writes, on July 24, that a band of 15 to 20
+                        o
+                       n 1411. bandits has gathered in the woods and mountains of the Bonneville district and
+                               disturbs the tranquility of the neighboring countryside by the thefts that it commits
+                               there during the night. We have recognized 3 to 4 criminals sentenced to death. The
+                               others are refractory conscripts.”
+      08-20-1806       vol.2   “Léman. A search party led to the arrest of 2 of the deserters; the others are in
+                        o
+                       n 1452. inaccessible mountains.”

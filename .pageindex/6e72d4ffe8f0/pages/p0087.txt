@@ -1,0 +1,340 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+North Macedonia,MKD,1879,663120
+North Macedonia,MKD,1880,669160
+North Macedonia,MKD,1881,675256
+North Macedonia,MKD,1882,681406
+North Macedonia,MKD,1883,687613
+North Macedonia,MKD,1884,693876
+North Macedonia,MKD,1885,700197
+North Macedonia,MKD,1886,706574
+North Macedonia,MKD,1887,713010
+North Macedonia,MKD,1888,719504
+North Macedonia,MKD,1889,726058
+North Macedonia,MKD,1890,732671
+North Macedonia,MKD,1891,739344
+North Macedonia,MKD,1892,746078
+North Macedonia,MKD,1893,752873
+North Macedonia,MKD,1894,759730
+North Macedonia,MKD,1895,766649
+North Macedonia,MKD,1896,773632
+North Macedonia,MKD,1897,780678
+North Macedonia,MKD,1898,787788
+North Macedonia,MKD,1899,794962
+North Macedonia,MKD,1900,802202
+North Macedonia,MKD,1901,809508
+North Macedonia,MKD,1902,816880
+North Macedonia,MKD,1903,824319
+North Macedonia,MKD,1904,831826
+North Macedonia,MKD,1905,839401
+North Macedonia,MKD,1906,847045
+North Macedonia,MKD,1907,854759
+North Macedonia,MKD,1908,862543
+North Macedonia,MKD,1909,870398
+North Macedonia,MKD,1910,878324
+North Macedonia,MKD,1911,886322
+North Macedonia,MKD,1912,894393
+North Macedonia,MKD,1913,902537
+North Macedonia,MKD,1914,910756
+North Macedonia,MKD,1915,919049
+North Macedonia,MKD,1916,927417
+North Macedonia,MKD,1917,935862
+North Macedonia,MKD,1918,944101
+North Macedonia,MKD,1919,952413
+North Macedonia,MKD,1920,960798
+North Macedonia,MKD,1921,969256
+North Macedonia,MKD,1922,977789
+North Macedonia,MKD,1923,986397
+North Macedonia,MKD,1924,995081
+North Macedonia,MKD,1925,1003842
+North Macedonia,MKD,1926,1012679
+North Macedonia,MKD,1927,1021595
+North Macedonia,MKD,1928,1030588
+North Macedonia,MKD,1929,1039661
+North Macedonia,MKD,1930,1048814
+North Macedonia,MKD,1931,1058048
+North Macedonia,MKD,1932,1067363
+North Macedonia,MKD,1933,1076759
+North Macedonia,MKD,1934,1086239
+North Macedonia,MKD,1935,1095802
+North Macedonia,MKD,1936,1105449
+North Macedonia,MKD,1937,1115181
+North Macedonia,MKD,1938,1124999
+North Macedonia,MKD,1939,1134903
+North Macedonia,MKD,1940,1144894
+North Macedonia,MKD,1941,1154973
+North Macedonia,MKD,1942,1165142
+North Macedonia,MKD,1943,1175399
+North Macedonia,MKD,1944,1185747
+North Macedonia,MKD,1945,1196186
+North Macedonia,MKD,1946,1206717
+North Macedonia,MKD,1947,1217340
+North Macedonia,MKD,1948,1228058
+North Macedonia,MKD,1949,1239418
+North Macedonia,MKD,1950,1248682
+North Macedonia,MKD,1951,1271039
+North Macedonia,MKD,1952,1294538
+North Macedonia,MKD,1953,1319470
+North Macedonia,MKD,1954,1340010
+North Macedonia,MKD,1955,1355680
+North Macedonia,MKD,1956,1370923
+North Macedonia,MKD,1957,1385258
+North Macedonia,MKD,1958,1400121
+North Macedonia,MKD,1959,1417080
+North Macedonia,MKD,1960,1435060
+North Macedonia,MKD,1961,1455175
+North Macedonia,MKD,1962,1471743
+North Macedonia,MKD,1963,1488745
+North Macedonia,MKD,1964,1510902
+North Macedonia,MKD,1965,1533471
+North Macedonia,MKD,1966,1557355
+North Macedonia,MKD,1967,1582503
+North Macedonia,MKD,1968,1608933
+North Macedonia,MKD,1969,1636356
+North Macedonia,MKD,1970,1664214
+North Macedonia,MKD,1971,1691224
+North Macedonia,MKD,1972,1717400
+North Macedonia,MKD,1973,1743825
+North Macedonia,MKD,1974,1770550
+North Macedonia,MKD,1975,1797972
+North Macedonia,MKD,1976,1825833
+North Macedonia,MKD,1977,1853147
+North Macedonia,MKD,1978,1879854
+North Macedonia,MKD,1979,1906524
+North Macedonia,MKD,1980,1933043
+North Macedonia,MKD,1981,1959071
+North Macedonia,MKD,1982,1978962
+North Macedonia,MKD,1983,1991902
+North Macedonia,MKD,1984,2003400
+North Macedonia,MKD,1985,2014334
+North Macedonia,MKD,1986,2024729
+North Macedonia,MKD,1987,2035161
+North Macedonia,MKD,1988,2045739
+North Macedonia,MKD,1989,2055650
+North Macedonia,MKD,1990,2063690
+North Macedonia,MKD,1991,2056002
+North Macedonia,MKD,1992,2032516
+North Macedonia,MKD,1993,2006853
+North Macedonia,MKD,1994,1992669
+North Macedonia,MKD,1995,1998531
+North Macedonia,MKD,1996,2012553
+North Macedonia,MKD,1997,2025764
+North Macedonia,MKD,1998,2037575
+North Macedonia,MKD,1999,2048088
+North Macedonia,MKD,2000,2057254
+North Macedonia,MKD,2001,2066300
+North Macedonia,MKD,2002,2074482
+North Macedonia,MKD,2003,2081417
+North Macedonia,MKD,2004,2086581
+North Macedonia,MKD,2005,2089809
+North Macedonia,MKD,2006,2089232
+North Macedonia,MKD,2007,2081972
+North Macedonia,MKD,2008,2070837
+North Macedonia,MKD,2009,2060601
+North Macedonia,MKD,2010,2051510
+North Macedonia,MKD,2011,2040445
+North Macedonia,MKD,2012,2027288
+North Macedonia,MKD,2013,2013280
+North Macedonia,MKD,2014,1997842
+North Macedonia,MKD,2015,1980366
+North Macedonia,MKD,2016,1961268
+North Macedonia,MKD,2017,1940877
+North Macedonia,MKD,2018,1919730
+North Macedonia,MKD,2019,1897643
+North Macedonia,MKD,2020,1872021
+North Macedonia,MKD,2021,1851109
+North Macedonia,MKD,2022,1840236
+North Macedonia,MKD,2023,1831800
+Northern America (UN),UN_NAM,1950,168009343
+Northern America (UN),UN_NAM,1951,170630614
+Northern America (UN),UN_NAM,1952,173344109
+Northern America (UN),UN_NAM,1953,176134466
+Northern America (UN),UN_NAM,1954,179024839
+Northern America (UN),UN_NAM,1955,181999179
+Northern America (UN),UN_NAM,1956,185056922
+Northern America (UN),UN_NAM,1957,188214453
+Northern America (UN),UN_NAM,1958,191394935
+Northern America (UN),UN_NAM,1959,194738619
+Northern America (UN),UN_NAM,1960,198252644
+Northern America (UN),UN_NAM,1961,201834085
+Northern America (UN),UN_NAM,1962,205421753
+Northern America (UN),UN_NAM,1963,208875794
+Northern America (UN),UN_NAM,1964,212229899
+Northern America (UN),UN_NAM,1965,215430539
+Northern America (UN),UN_NAM,1966,218412893
+Northern America (UN),UN_NAM,1967,221204999
+Northern America (UN),UN_NAM,1968,223843851
+Northern America (UN),UN_NAM,1969,226438641
+Northern America (UN),UN_NAM,1970,229339588
+Northern America (UN),UN_NAM,1971,232426950
+Northern America (UN),UN_NAM,1972,235179330
+Northern America (UN),UN_NAM,1973,237625604
+Northern America (UN),UN_NAM,1974,240008217
+Northern America (UN),UN_NAM,1975,242386622
+Northern America (UN),UN_NAM,1976,244733405
+Northern America (UN),UN_NAM,1977,247098938
+Northern America (UN),UN_NAM,1978,249484156
+Northern America (UN),UN_NAM,1979,251921719
+Northern America (UN),UN_NAM,1980,254502385
+Northern America (UN),UN_NAM,1981,257157456
+Northern America (UN),UN_NAM,1982,259835188
+Northern America (UN),UN_NAM,1983,262511902
+Northern America (UN),UN_NAM,1984,265138354
+Northern America (UN),UN_NAM,1985,267732943
+Northern America (UN),UN_NAM,1986,270280784
+Northern America (UN),UN_NAM,1987,272819086
+Northern America (UN),UN_NAM,1988,275439029
+Northern America (UN),UN_NAM,1989,278159891
+Northern America (UN),UN_NAM,1990,281282375
+Northern America (UN),UN_NAM,1991,284748663
+Northern America (UN),UN_NAM,1992,288226636
+Northern America (UN),UN_NAM,1993,291584860
+Northern America (UN),UN_NAM,1994,294743556
+Northern America (UN),UN_NAM,1995,297786727
+Northern America (UN),UN_NAM,1996,300750139
+Northern America (UN),UN_NAM,1997,303649792
+Northern America (UN),UN_NAM,1998,306572455
+Northern America (UN),UN_NAM,1999,309508498
+Northern America (UN),UN_NAM,2000,312499985
+Northern America (UN),UN_NAM,2001,315617767
+Northern America (UN),UN_NAM,2002,318744894
+Northern America (UN),UN_NAM,2003,321869947
+Northern America (UN),UN_NAM,2004,325044560
+Northern America (UN),UN_NAM,2005,328282608
+Northern America (UN),UN_NAM,2006,331615162
+Northern America (UN),UN_NAM,2007,335062239
+Northern America (UN),UN_NAM,2008,338545415
+Northern America (UN),UN_NAM,2009,341975945
+Northern America (UN),UN_NAM,2010,345386049
+Northern America (UN),UN_NAM,2011,348787110
+Northern America (UN),UN_NAM,2012,352164286
+Northern America (UN),UN_NAM,2013,355530257
+Northern America (UN),UN_NAM,2014,358875294
+Northern America (UN),UN_NAM,2015,362214162
+Northern America (UN),UN_NAM,2016,365658209
+Northern America (UN),UN_NAM,2017,369138723
+Northern America (UN),UN_NAM,2018,372477318
+Northern America (UN),UN_NAM,2019,375699069
+Northern America (UN),UN_NAM,2020,377734350
+Northern America (UN),UN_NAM,2021,378741971
+Northern America (UN),UN_NAM,2022,380481768
+Northern America (UN),UN_NAM,2023,382902739
+Northern Mariana Islands,MNP,1800,3360
+Northern Mariana Islands,MNP,1820,3360
+Northern Mariana Islands,MNP,1950,7131
+Northern Mariana Islands,MNP,1951,7257
+Northern Mariana Islands,MNP,1952,7352
+Northern Mariana Islands,MNP,1953,7463
+Northern Mariana Islands,MNP,1954,7591
+Northern Mariana Islands,MNP,1955,7750
+Northern Mariana Islands,MNP,1956,7920
+Northern Mariana Islands,MNP,1957,8096
+Northern Mariana Islands,MNP,1958,8301
+Northern Mariana Islands,MNP,1959,8514
+Northern Mariana Islands,MNP,1960,8760
+Northern Mariana Islands,MNP,1961,9017
+Northern Mariana Islands,MNP,1962,9301
+Northern Mariana Islands,MNP,1963,9617
+Northern Mariana Islands,MNP,1964,9947
+Northern Mariana Islands,MNP,1965,10276
+Northern Mariana Islands,MNP,1966,10636
+Northern Mariana Islands,MNP,1967,10769
+Northern Mariana Islands,MNP,1968,10491
+Northern Mariana Islands,MNP,1969,10006
+Northern Mariana Islands,MNP,1970,10193
+Northern Mariana Islands,MNP,1971,11288
+Northern Mariana Islands,MNP,1972,12659
+Northern Mariana Islands,MNP,1973,13905
+Northern Mariana Islands,MNP,1974,14677
+Northern Mariana Islands,MNP,1975,15083
+Northern Mariana Islands,MNP,1976,15456
+Northern Mariana Islands,MNP,1977,15813
+Northern Mariana Islands,MNP,1978,16150
+Northern Mariana Islands,MNP,1979,16508
+Northern Mariana Islands,MNP,1980,17645
+Northern Mariana Islands,MNP,1981,19847
+Northern Mariana Islands,MNP,1982,22374
+Northern Mariana Islands,MNP,1983,24960
+Northern Mariana Islands,MNP,1984,27598
+Northern Mariana Islands,MNP,1985,30281
+Northern Mariana Islands,MNP,1986,33001
+Northern Mariana Islands,MNP,1987,35755
+Northern Mariana Islands,MNP,1988,38538
+Northern Mariana Islands,MNP,1989,41327
+Northern Mariana Islands,MNP,1990,43364
+Northern Mariana Islands,MNP,1991,44412
+Northern Mariana Islands,MNP,1992,45204
+Northern Mariana Islands,MNP,1993,45973
+Northern Mariana Islands,MNP,1994,46752
+Northern Mariana Islands,MNP,1995,48192
+Northern Mariana Islands,MNP,1996,51724
+Northern Mariana Islands,MNP,1997,56610
+Northern Mariana Islands,MNP,1998,61356
+Northern Mariana Islands,MNP,1999,65933
+Northern Mariana Islands,MNP,2000,68374
+Northern Mariana Islands,MNP,2001,68003
+Northern Mariana Islands,MNP,2002,66800
+Northern Mariana Islands,MNP,2003,65438
+Northern Mariana Islands,MNP,2004,63948
+Northern Mariana Islands,MNP,2005,62372
+Northern Mariana Islands,MNP,2006,60688
+Northern Mariana Islands,MNP,2007,58960
+Northern Mariana Islands,MNP,2008,57163
+Northern Mariana Islands,MNP,2009,55346
+Northern Mariana Islands,MNP,2010,54110
+Northern Mariana Islands,MNP,2011,53633
+Northern Mariana Islands,MNP,2012,53251
+Northern Mariana Islands,MNP,2013,52777
+Northern Mariana Islands,MNP,2014,52199
+Northern Mariana Islands,MNP,2015,51538
+Northern Mariana Islands,MNP,2016,50795
+Northern Mariana Islands,MNP,2017,49981
+Northern Mariana Islands,MNP,2018,49098
+Northern Mariana Islands,MNP,2019,48154
+Northern Mariana Islands,MNP,2020,47557
+Northern Mariana Islands,MNP,2021,47003
+Northern Mariana Islands,MNP,2022,46101
+Northern Mariana Islands,MNP,2023,45166
+Norway,NOR,-10000,237
+Norway,NOR,-9000,316
+Norway,NOR,-8000,421
+Norway,NOR,-7000,562
+Norway,NOR,-6000,750
+Norway,NOR,-5000,1000
+Norway,NOR,-4000,1000
+Norway,NOR,-3000,2000
+Norway,NOR,-2000,5000
+Norway,NOR,-1000,10000
+Norway,NOR,0,100000
+Norway,NOR,100,110000
+Norway,NOR,200,120000
+Norway,NOR,300,130000
+Norway,NOR,400,140000
+Norway,NOR,500,150000
+Norway,NOR,600,160000
+Norway,NOR,700,170000
+Norway,NOR,800,180000
+Norway,NOR,900,190000
+Norway,NOR,1000,200000
+Norway,NOR,1100,270000
+Norway,NOR,1200,340000
+Norway,NOR,1300,400000
+Norway,NOR,1400,200000
+Norway,NOR,1500,400000
+Norway,NOR,1600,500000
+Norway,NOR,1700,600045
+Norway,NOR,1710,621629
+Norway,NOR,1720,643990
+Norway,NOR,1730,667155
+Norway,NOR,1740,691154
+Norway,NOR,1750,716015
+Norway,NOR,1760,741771
+Norway,NOR,1770,768454
+Norway,NOR,1780,796096
+Norway,NOR,1790,824732
+Norway,NOR,1800,900000
+Norway,NOR,1801,898489
+Norway,NOR,1802,896980
+Norway,NOR,1803,895473
+Norway,NOR,1804,893970
+Norway,NOR,1805,892468

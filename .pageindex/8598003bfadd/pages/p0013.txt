@@ -1,0 +1,123 @@
+
+
+    .signed-out-dropdown-1 a.signed-out-dropdown:hover,
+    .signed-out-dropdown-1 a.signed-out-dropdown:active,
+    .signed-out-dropdown-1 a.signed-out-dropdown:focus {
+      color: #fff;
+      background: #4b64ff;
+      outline: none;
+    }
+
+    .signed-out-dropdown-1 .initial.signed-out-dropdown,
+    .signed-out-dropdown-1 .closed.signed-out-dropdown {
+      opacity: 0;
+      transition-duration: 0.2s;
+    }
+
+    .signed-out-dropdown-1 .open.signed-out-dropdown {
+      opacity: 1;
+      overflow: visible;
+    }
+
+    .signed-out-dropdown-1 a.mobile-upload.signed-out-dropdown {
+      display: none;
+    }
+
+  }
+
+  @media (min-width: 890px) {
+
+    .signed-out-dropdown-1 .initial.signed-out-dropdown,
+    .signed-out-dropdown-1 .closed.signed-out-dropdown,
+    .signed-out-dropdown-1 .open.signed-out-dropdown {
+      right: 18.5rem;
+    }
+
+  }
+
+  @media (min-width: 990px) {
+
+    .signed-out-dropdown-1 .initial.signed-out-dropdown,
+    .signed-out-dropdown-1 .closed.signed-out-dropdown,
+    .signed-out-dropdown-1 .open.signed-out-dropdown {
+      right: 26rem;
+    }
+
+  }
+</style><!-- Shady DOM styles for ia-topnav -->
+<style scope="ia-topnav-1">
+  .ia-topnav-1 {
+    ;
+
+    color: #fff;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+
+  .ia-topnav-1 primary-nav.ia-topnav:focus {
+    outline: none !important;
+  }
+
+  .ia-topnav-1 #close-layer.ia-topnav {
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 3;
+  }
+
+  .ia-topnav-1 #close-layer.visible.ia-topnav {
+    display: block;
+  }
+
+  .ia-topnav-1 .topnav.ia-topnav {
+    position: relative;
+    z-index: 4;
+  }
+
+  @media (max-width: 889px) {
+    .ia-topnav-1 desktop-subnav.ia-topnav {
+      display: none;
+    }
+
+  }
+</style>
+<style>
+  body {
+    transition: opacity ease-in 0.2s;
+  }
+
+  body[unresolved] {
+    opacity: 0;
+    display: block;
+    overflow: hidden;
+    position: relative;
+  }
+</style>
+
+
+
+
+
+
+
+
+<ia-topnav locallinks="true" waybackpagesarchived="1 trillion" class="x-scope ia-topnav-1"><!---->
+  <div class="topnav style-scope ia-topnav">
+    <primary-nav class="style-scope ia-topnav x-scope primary-nav-1"><!---->
+      <nav class="style-scope primary-nav">
+        <button class="hamburger style-scope primary-nav" title="Open main menu"
+          data-event-click-tracking="TopNav|NavHamburger">
+          <icon-hamburger class="style-scope primary-nav x-scope icon-hamburger-1"><!---->
+            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" aria-labelledby="hamburgerTitleID hamburgerDescID"
+              class="style-scope icon-hamburger">
+              <title id="hamburgerTitleID" class="style-scope icon-hamburger">Hamburger icon</title>
+              <desc id="hamburgerDescID" class="style-scope icon-hamburger">An icon used to represent a menu that can be
+                toggled by interacting with this icon.</desc>
+              <path
+                d="m30.5 26.5c.8284271 0 1.5.6715729 1.5 1.5s-.6715729 1.5-1.5 1.5h-21c-.82842712 0-1.5-.6715729-1.5-1.5s.67157288-1.5 1.5-1.5zm0-8c.8284271 0 1.5.6715729 1.5 1.5s-.6715729 1.5-1.5 1.5h-21c-.82842712 0-1.5-.6715729-1.5-1.5s.67157288-1.5 1.5-1.5zm0-8c.8284271 0 1.5.6715729 1.5 1.5s-.6715729 1.5-1.5 1.5h-21c-.82842712 0-1.5-.6715729-1.5-1.5s.67157288-1.5 1.5-1.5z"
+                fill="#999" fill-rule="evenodd" class="style-scope icon-hamburger"></path>
+              </svg>
+              </icon-hamburger>
+        </button>

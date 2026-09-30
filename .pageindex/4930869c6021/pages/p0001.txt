@@ -1,0 +1,166 @@
+
+===== FILE: META-INF/container.xml =====
+
+
+===== FILE: OEBPS/01_Halftitle.xhtml =====
+Napoleon’s Cursed War
+
+ Napoleon’s Cursed War
+
+===== FILE: OEBPS/02_Title.xhtml =====
+Napoleon’s Cursed War
+
+ Napoleon’s Cursed War
+
+ Spanish Popular Resistance in the Peninsular War,
+1808–1814
+
+ __________________
+
+ RONALD FRASER
+
+ With an Introduction by Perry Anderson
+
+===== FILE: OEBPS/03_Copyright.xhtml =====
+Napoleon’s Cursed War
+
+ This paperback edition first published by Verso 2023
+
+ First published by Verso 2008
+
+ © Ronald Fraser 2008, 2023
+
+ Introduction © Perry Anderson 2023
+
+ The introduction originally appeared in New Left Review II/75, May–June 2012
+
+ All rights reserved
+
+ The moral rights of the author have been asserted
+
+ 1 3 5 7 9 10 8 6 4 2
+
+ Verso
+
+ UK: 6 Meard Street, London W1F 0EG
+
+ US: 388 Atlantic Avenue, Brooklyn, NY 11217
+
+ versobooks.com
+
+ Verso is the imprint of New Left Books
+
+ ISBN-13: 978-1-84467-082-6
+
+ ISBN-13: 978-1-78960-377-4 (UK EBK)
+
+ ISBN-13: 978-1-78960-376-7 (US EBK)
+
+ British Library Cataloguing in Publication Data
+
+ A catalogue record for this book is available from the British Library
+
+ Library of Congress Cataloging-in-Publication Data
+
+ A catalog record for this book is available from the Library of Congress
+
+ Typeset in Times by Hewer Text UK Ltd, Edinburgh
+
+ Printed in the USA by Maple Vail
+
+===== FILE: OEBPS/04_Dedication.xhtml =====
+Napoleon’s Cursed War
+
+ For Aurora
+
+===== FILE: OEBPS/05_Contents.xhtml =====
+Napoleon’s Cursed War
+
+ Contents
+
+ INTRODUCTION by Perry Anderson
+
+ ACKNOWLEDGEMENTS
+
+ FOREWORD
+
+ PROLOGUE
+
+ MAPS
+
+ GLOSSARY
+
+ CHRONOLOGY
+
+   1   Spain and the French Connection
+
+   2   Preliminaries of War
+
+   3   The First Shots of the War
+
+   4   Declaration of War: The National Rising
+
+   5   New Self-Government: The Juntas
+
+   6   Early Victories and Defeats: Lessons of the Popular War
+
+   7   Soldiers at the Front and Rural Conflict in the Rear
+
+   8   Fatherland and Nation: A National Patriotic Government
+
+   9   Napoleon’s 1808 Offensive
+
+ 10   The Contagion of Defeat: Popular Revolts and Local Resistance
+
+ 11   1809
+
+ 12   Popular Territorial Liberation Struggles: Galicia and Cataluña
+
+ 13   The Church at War
+
+ 14   Origins of the Guerrilla
+
+ 15   From the Battle of Talavera to the Suprema’s Demise
+
+ 16   1810–1811
+
+ 17   The Invisible Army: Guerrilla Successes and Failures
+
+ 18   1812–1814
+
+ 19   Military Victory and Political Defeat
+
+ EPILOGUE
+
+ APPENDIX 1
+
+ APPENDIX 2
+
+ APPENDIX 3
+
+ APPENDIX 4
+
+ APPENDIX 5
+
+ NOTES
+
+ BIBLIOGRAPHY
+
+ INDEX
+
+===== FILE: OEBPS/05b_Intro.xhtml =====
+Napoleon’s Cursed War
+
+ Introduction
+
+ Just embarking on a new design and reconception of New Left Review in early 1964, I got a letter out of the blue saying the writer was a friend of André Gorz, and offering help in the production of the journal if it was needed.
+No further introduction was necessary. We needed every help we could get, and the unknown Ronald Fraser was immediately made unpaid business manager, and in short order became a central member of the editorial team. It was the
+most unpredictable, and perhaps most decisive, piece of luck the fledging magazine – which had a number of improbable strokes of good fortune – ever received. The newcomer stood apart from the rest of the group bringing it out in
+two critical ways. He was older by a decade than the average age of the editorial committee: not in his early twenties, but early thirties, already married with a son; and he had bypassed university, out of which the rest of us
+had just emerged, for work as a reporter, at Reuters and later the San Francisco Chronicle . These were marked differences, accentuated by the triumphalist jeunisme of the time. But two bonds nevertheless united us. One was a
+common distance from any centre of national gravity. Most of the original members of that editorial committee came from backgrounds at some angle to English life: origins immediately or otherwise Anglo-Irish, Scots, New
+Zealander, Deserter. Ronnie, born in Germany and by descent half-American, not only fitted this profile, but shared the general detestation of Englishry that went with it. The second tie was more personal. He had been politicized
+by his friendship with Gorz, met by chance some years before in Spain, whose autobiography, The Traitor , became a central intellectual reference for him. Gorz was one of the first European thinkers we had contacted in planning a
+new kind of NLR , and this was a work that had made a great impression on me too. So there was a common existentialist formation, which would come out in the journal in a number of ways – not least the inspiration of De
+Beauvoir’s Second Sex for Juliet Mitchell’s ‘Longest Revolution’ of 1966, kick-starting second-wave feminism, and a long interview we conducted with Sartre in 1969. 1 That made a natural basis for productive exchange and
+collaboration.

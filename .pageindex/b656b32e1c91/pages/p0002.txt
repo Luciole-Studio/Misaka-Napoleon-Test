@@ -1,0 +1,47 @@
+
+
+COUNTERFACTUAL THOUGHT EXPERIMENTS. »
+1, Well-Specified Antecedents and Consequents
+
+ur first recommendation might strike readers as a tad obvious. Like actual
+experiments, thought experiments should manipulate one cause at a time,
+thereby isolating pathways of influence. Although excellent advice in princi
+ple, implementing it is often deeply problematic. There is no way to hold
+“all other things equal” when we perform thought experiments on social
+systems that are densely interconnected (cf. Jervis 1993; Commentary 4,
+Jervis). To invoke the terminology of experimental design, we cannot ma-
+nipulate the “independent” variable in interconnected systems without creat-
+ing ripple effects that alter the values taken on by other potential causes in
+the historical matrix, thereby creating “confounding” variables that render
+interpretation of the original thought experiment problematic.
+
+At this juncture, radical wholists take the systems-theory argument even
+further and insist that if we want to advance coherent and defensible coun-
+terfactuals, we will have to reconstruct an entirely new hypothetical world
+for each new counterfactual proposition—a new world that specifies all
+other things that would also have to change in order to accommodate the
+hypothesized antecedent (otherwise the counterfactual is underspecified)..
+This position strikes us as too extreme. Causal interconnectedness is a mat-
+ter of degree. In the words of one systems theorist: “Everything is connected
+but some things are more connected than others. The world is a large matrix
+of interactions in which most of the entries are very close to zero” (Pattee
+1973, 23). The analytical challenge then becomes estimating interconnected-
+ness and designing our counterfactual thought experiments with due consid-
+eration for the complexities created by interconnectedness. Sometimes we
+will discover that the wholists are right: the causal antecedent that we men-
+tally manipulated is so deeply embedded in a recursive network of causation
+that simply positing that “if cause x took on a different value, then y" is
+deeply uninformative. Consider two examples:
+
+(J) Cederman (Chapter 11) criticizes the structural-realist claim advanced
+by Mearsheimer (1990, 14) that “ceteris paribus, war is more likely in a
+multipolar system than a bipolar one.” In Cederman’s view, other things
+probably cannot be held equal in the post-World War II case, and Mear-
+sheimer glosses over the problem by failing to articulate what else would
+hhave had to be different in counterfactual post-World War I systems in
+which multipolarity prevailed. As soon as we try to specify the alternatives
+to a bipolar world more precisely, we begin to appreciate the need for do-
+mestic-political boundary conditions on the polarity counterfactual. For in-
+stance, the identity of the third power—be it Great Britain, France, ot
+China—might matter. Given the special historical relationship between Lon-
+

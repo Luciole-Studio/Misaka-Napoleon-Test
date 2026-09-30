@@ -1,0 +1,43 @@
+expect to find a large effect of trade protection on adoption of mechanized cotton spinning
+capacity.
+    My empirical strategy is based on the well-documented fact that trade diminishes dra-
+matically with distance, implying that geographic distance plays a role similar to that of
+artificial barriers to trade such as tariffs.25 Geographic distance however is constant over
+time, making it generally difficult to disentangle the effect of distance from other regional
+characteristics fixed over time. I exploit the fact that while geographic distance between
+Britain and French regions did not change during the blockade, the set of possible trading
+routes did, leading to changes in effective distance between Britain and a given French re-
+gion.26 I use variation in the extent to which effective distance to London changed for a
+given department to estimate the short-run effect of trade protection on mechanized cotton
+spinning capacity. This leads to the following specification, similar in spirit to a standard
+difference-in-difference (DD) estimator;
+
+                                      Sit = αi + δt + γlnDit + it                                       (1)
+
+    Sit is a measure of mechanized spinning capacity in region i at time t, lnDit is the
+natural logarithm of effective distance to Britain in department i at time t, αi controls for
+time-invariant fixed effects at the regional level, and δt controls for the effect of aggregate
+shocks over time. γ is the parameter of interest, which we expect to be positive if trade
+protection from the industrial leader, Britain, is an important driver of mechanization.
+    The unit of observation is the department, which I observe in 1803, prior to the Napoleonic
+Wars, and in 1812, towards the end of the blockade. I observe 88 of the 109 departments
+which made up the French Empire in both periods. Spinning capacity is measured as the
+number of spindles per thousand inhabitants. Spindles are normalized by departmental
+population to account for the fact that larger departments may increase spinning capacity
+more in response to the same shock simply because of their size. In calculating per capita
+variables, I use population measured in 1811 across all short-run and long-run specifications,
+to avoid confounding endogenous population responses with the effects on spinning capacity.
+Spindles is the standard measure of physical capital in mechanized cotton spinning.27 The
+  25
+     See Head and Mayer (2014) for a recent discussion on the gravity literature.
+  26
+     In its identification strategy, the paper builds on Frankel and Romer (1999); Feyrer (2009a,b); Pascali
+(2017).
+  27
+     Importantly, this is not a measure of the number of machines, the productivity of which may change
+over time, but rather it is the piece of equipment onto which the thread is twisted. As there is a one to one
+correspondence between spindles and thread spun on a single machine, improvements in technology which
+made it possible for a machine to be equipped with more spindles will be picked up by this measure.
+
+
+                                                     21

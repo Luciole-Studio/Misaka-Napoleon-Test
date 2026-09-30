@@ -1,0 +1,61 @@
+to those using the composition of trade, factor employment and craft as dependent variable in columns
+
+(5) and (6). Making use of the counterfactuals, I run the regression with the share of civil servants
+
+and servants as dependent variables. The regressions, see columns (7) and (8), report non-significant,
+
+negative associations between the Code Civil and the employment share in the civil sector, as well as the
+
+per capita share of servants.
+
+
+
+              4.3    The Impact on Gymnast Clubs and Volunteer Fire Departments
+
+To assess the impact on the number of gymnast clubs and firemen, the following model is regressed:
+
+                                                             0
+                                    Gc,p = α + δ ∗ codec + Xc,p ∗ β + uc,p                               (3)
+
+
+where Gc,r,p is one of the following dependent variables measured in county c in province p: Member
+
+p.c. gives the per capita share of members in gymnast clubs. Firemen p.c. gives the per capita share of
+
+voluntary firemen per county. Member gives the total number members in gymnast clubs. Firemen gives
+
+the total number volunteer firemen per county. The variable codec is a dummy indicating whether county
+                                0
+c used the code civil or not. Xc,p includes the controls listed above.
+
+                                             Table 11 about here
+
+As Table 11 shows, there exists a positive correlation between the Code Civil and gymnast club member-
+
+ship, as well as volunteer firemen departments. Columns (1) and (2) indicate that in counties applying
+
+the Napoleonic legal code, the per capita share of club members and firemen is higher. Switching from 0
+
+(no Code) to 1 (adopting the Code) increases the participation in gymnast clubs per capita by on average
+
+about 35 percent of its sample mean. The number of volunteer firemen per capita increases by a magni-
+
+tude of on average 20 percent of the sample mean for regions that adopted the Code Civil. This finding
+
+is robust to using total numbers of members and firemen, as columns (3) and (4) show, and population is
+
+controlled for. When education and the share of females are included in the regression, the coefficients
+
+of interest stay significant on the 10 percent significance level in column (5), as well as in column (6).
+
+Finally, regressions of the social capital measures on economic cooperation display a strong positive
+
+correlation of membership in gymnast clubs, as well as voluntary participation as firemen, with trade and
+
+factory employment. Table 12 shows this correlation in columns (1) to (6), which is robust to including
+
+potential covariates in columns (7) to (12).
+
+
+
+                                                     26

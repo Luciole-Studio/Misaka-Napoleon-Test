@@ -1,0 +1,57 @@
+
+
+- Bollerslev, Tim & Chou, Ray Y. & Kroner, Kenneth F., 1992.
+"[ARCH modeling in finance : A review of the theory and empirical evidence](https://ideas.repec.org/a/eee/econom/v52y1992i1-2p5-59.html),"
+[Journal of Econometrics](https://ideas.repec.org/s/eee/econom.html), Elsevier, vol. 52(1-2), pages 5-59.
+
+- Bulow, Jeremy & Rogoff, Kenneth, 1989.
+"[Sovereign Debt: Is to Forgive to Forget?](https://ideas.repec.org/a/aea/aecrev/v79y1989i1p43-50.html),"
+[American Economic Review](https://ideas.repec.org/s/aea/aecrev.html), American Economic Association, vol. 79(1), pages 43-50, March.
+
+- Jeremy I. Bulow & Kenneth Rogoff, 1988.
+"[Sovereign Debt: Is To Forgive To Forget?](https://ideas.repec.org/p/nbr/nberwo/2623.html),"
+[NBER Working Papers](https://ideas.repec.org/s/nbr/nberwo.html)
+2623, National Bureau of Economic Research, Inc.
+
+- Bulow, J. & Rogoff, K., 1988.
+"[Sovereign Debt: Is To Forgive To Forget?](https://ideas.repec.org/p/att/wimass/8813.html),"
+[Working papers](https://ideas.repec.org/s/att/wimass.html)
+8813, Wisconsin Madison - Social Systems.
+
+- Jeremy Bulow & Kenneth Rogoff, 1998.
+"[Sovereign Debt: Is to Forgive to Forget](https://ideas.repec.org/p/cla/levarc/209.html),"
+[Levine's Working Paper Archive](https://ideas.repec.org/s/cla/levarc.html)
+209, David K. Levine.
+
+- Bulow, J. & Rogoff, K., 1988.
+"[Sovereign Debt: Is To Forgive To Forget?](https://ideas.repec.org/p/fth/stocin/411.html),"
+[Papers](https://ideas.repec.org/s/fth/stocin.html)
+411, Stockholm - International Economic Studies.
+
+- White, Eugene N., 2001.
+"[Making the French pay: The costs and consequences of the Napoleonic reparations](https://ideas.repec.org/a/cup/ereveh/v5y2001i03p337-365_00.html),"
+[European Review of Economic History](https://ideas.repec.org/s/cup/ereveh.html), Cambridge University Press, vol. 5(3), pages 337-365, December.
+
+- Eugene White, 1999.
+"[Making the French Pay: The Costs and Consequences of the Napoleonic Reparations](https://ideas.repec.org/p/rut/rutres/199924.html),"
+[Departmental Working Papers](https://ideas.repec.org/s/rut/rutres.html)
+199924, Rutgers University, Department of Economics.
+
+- Jushan Bai & Pierre Perron, 2003.
+"[Computation and analysis of multiple structural change models](https://ideas.repec.org/a/jae/japmet/v18y2003i1p1-22.html),"
+[Journal of Applied Econometrics](https://ideas.repec.org/s/jae/japmet.html), John Wiley & Sons, Ltd., vol. 18(1), pages 1-22.
+
+- BAI, Jushan & PERRON, Pierre, 1998.
+"[Computation and Analysis of Multiple Structural-Change Models](https://ideas.repec.org/p/mtl/montde/9807.html),"
+[Cahiers de recherche](https://ideas.repec.org/s/mtl/montde.html)
+9807, Universite de Montreal, Departement de sciences economiques.
+
+- Tom Doan, 2025.
+"[MULTIPLEBREAKS: RATS procedure to perform multiple structural change analysis](https://ideas.repec.org/c/boc/bocode/rts00138.html),"
+[Statistical Software Components](https://ideas.repec.org/s/boc/bocode.html)
+RTS00138, Boston College Department of Economics.
+
+- Tom Doan, 2025.
+"[RATS programs to replicate examples of Bai-Perron procedure](https://ideas.repec.org/c/boc/bocode/rtz00008.html),"
+[Statistical Software Components](https://ideas.repec.org/s/boc/bocode.html)
+RTZ00008, Boston College Department of Economics.

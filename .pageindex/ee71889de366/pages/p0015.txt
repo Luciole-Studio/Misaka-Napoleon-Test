@@ -1,0 +1,29 @@
+
+
+Figure 5 plots the cantons’ terrain ruggedness and draft dodging/desertion rates before and after a draftee has left the Haute-Vienne department. Table 2 reports the results once we replicate our econometric tests using canton-level data from the Haute-Vienne department. Footnote 42 These results give further credence to the validity of our previous findings.
+
+Figure 5
+
+RUGGEDNESS AND DESERTION IN THE CANTON (UPPER PANEL) AND AWAY FROM HOME (LOWER PANEL) IN HAUTE-VIENNE
+
+Sources: Nunn and Puga (Reference Nunn and Puga2012) and Archives de Haute-Vienne, 1/R/50.
+
+As shown in Columns (1) through (4), a canton’s average terrain ruggedness is positively correlated with higher draft dodging rates. This relationship is statistically significant whenever our specifications include canton-specific controls. Also consistent with our hypothesis, the results in Columns (5) to (8) show that a canton’s terrain ruggedness does not predict desertion away from home. The coefficients on Ruggedness are always statistically indistinguishable from zero, and their magnitude and sign are inconsistent across specifications.Footnote 43
+
+Table 2
+
+GEOGRAPHY AND DESERTION IN HAUTE-VIENNE
+
+***p < 0.01, **p< 0.05, *p < 0.1
+
+Notes: Controls are described in Online Appendix D. We report robust standard errors in parentheses and Conley standard errors (50 km) in brackets.
+
+Sources: Draft-dodging rates are form the Archives Nationales AF/IV/1124, n. 1 and n. 9. Wheat suitability is from the FAO, GAEZ v3.0. Elevation data are from the U.S. Geological Survey. All remaining controls are from the Archives de Haute-Vienne, 1/R/50.
+
+## NAPOLÉON’S RESPONSE
+
+### Discriminatory Conscription Enforcement
+
+The Napoleonic regime’s response to these circumstances was twofold. In the short run, hard-pressed by the immediate need for soldiers, it adopted a strategy of “discriminatory conscription enforcement.” Theoretically, the burden of military conscription was to be proportional to a department’s population. However, “as the government became more and more desperate in its quest for able-bodied men for the battalions, it showed less concern for equity and geographical spread” (Forrest Reference Forrest1989, p. 40). In Eventually, some departments came to bear a much larger share of the burden, relative to their population, than others (Woolf Reference Woolf2002, p. 160). For example, in 1808, when the country drafted close to one percent of its population, departments like Yonne, only one hundred miles from Paris, were supplying twice as many soldiers per capita than other departments like the Rhône in Eastern France and the Hautes-Pyrénées in the south.
+
+These short-run efforts were accompanied by a long-term strategy aimed at reducing draft evasion rates throughout the country and occupied territories. In pursuit of this goal, the Napoleonic regime introduced a series of reforms to the administration of military conscription. Over the years, the reforms produced the desired effect. By 1812, Napoléon had reduced draft dodging rates throughout France drastically. The effects of reforms were not limited to draft evasion figures. They left the French state stronger and in better control of its territory (Grab Reference Grab2003, p. 52).

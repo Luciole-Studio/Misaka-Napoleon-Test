@@ -1,0 +1,44 @@
+---
+source_url: "https://danmarkshistorien.lex.dk/Fredstraktat_imellem_Danmark_og_Sverige_sluttet_i_Kiel_den_14._januar_1814"
+final_url: "https://danmarkshistorien.lex.dk/Fredstraktat_imellem_Danmark_og_Sverige_sluttet_i_Kiel_den_14._januar_1814"
+provider: "exa"
+text_sha256: "08976214869fd50c16675547e3a6f0034f85a23985de38bf01b7f5c73548459c"
+title: "Fredstraktat imellem Danmark og Sverige sluttet i Kiel den 14. januar 1814 \u2013 Danmarkshistorien | Lex"
+content_kind: "page_text"
+---
+
+Fredstraktat imellem Danmark og Sverige sluttet i Kiel den 14. januar 1814 – Danmarkshistorien | Lex
+
+## Faktaboks
+
+ Datering 
+
+ 14.01.1814 
+
+ Oprindelse 
+
+ Schou's Udtog af Forordninger Deel 17 (1814-1817), s. 24-37 
+
+ Kildetype 
+
+ Traktat 
+
+## Kildeintroduktion: 
+
+ 
+
+ Fredstraktaten imellem Danmark og Sverige som gengivet i Schous Udtog af Forordninger Deel 17 (1814-1817). Fredstraktat imellem Danmark og Sverige sluttet i Kiel den 14. januar 1814 Af Ukendt/Rigsarkivet. Licens: Materialet er fri af ophavsret 
+
+Fredstraktaten mellem Danmark og Sverige blev indgået i den holstenske by Kiel den 14. januar 1814. Tilsammen med en fredsaftale indgået mellem Danmark og Storbritannien samme dato udgør traktaterne Freden i Kiel, der afsluttede Danmarks deltagelse i Napoleonskrigene 1807-1814. I fredstraktatens 28 artikler blev betingelserne for freden fastlagt. Herunder var den væsentligste, at kongen af Danmarks afstod Norge til kongen af Sverige.
+
+Ved freden måtte Frederik 6. (født 1768, regent 1808-1839) nødtvungent overlade Norge til den svenske konge Karl 13. (født 1748, regent i Norge 1814-1818) og hans efterfølgere på tronen. Derved blev det afslutningen på det dansk-norske dobbeltmonarki med et politisk fællesskab, der havde eksisteret siden 1380. Med afståelsen af Norge mistede den danske stat et omfattende landområde og ca. 900.000 norske borgere, men de tidligere norske bilande, Grønland, Island og Førøerne forblev under den danske konge. Ifølge fredsaftalen skulle den danske stat som kompensation for Norge have Svensk Pommern og Rügen, som i 1815 blev byttet til hertugdømmet Lauenburg, der grænsede op til Holsten.
+
+## Kilde 
+
+Læs hele kilden som PDF.
+
+### Fredstractat imellem Danmark og Sverrig. 
+
+Sluttet i Kiel den 14 Jan. 1814
+
+D[eres] M[ajestæter] Kongerne af Danmark[1] og Sverrig[2], besielede af lige Attraae[3] efter at ende den Krig, som uheldigviis har funden Sted mellem Dem, og igien at tilveiebringe Enighed og god Forstaaelse mellem Deres giensidige Stater paa en Grundvold, som for stedse kan sikkre dens Vedvarenhed, have til den Ende udnævnt og bemyndiget Befuldmægtigede, nemlig Kongen af Danmark, Hr Edmund Bourke[4], Kammerherre, Storkors af Dannebrog Ordenen, Ridder af den hvide Ørns Orden; og Kongen af Sverrig, Hr Gustav Baron af Wetterstedt[5], Hofkantsler, Commandeur af Nordstierna-Ordenen, Ridder af den Preussiske røde Ørns første Klasse, een af de Atten Medlemmer af det Svenske Academie, hvilke, efter Udvexling af deres giensidige Fuldmagter, ere komne overeens om følgende Artikler:

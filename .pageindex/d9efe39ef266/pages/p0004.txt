@@ -1,0 +1,41 @@
+
+
+## 八、S1概率带、瓶颈与总装接口
+
+定性带是【裁量】，不是频率估计，不能相乘为一个百分比。
+
+|路径|本卡判断|为什么；何种证据会提高判断|
+|---|---|---|
+|无主力舰队掩护，靠雾夜小艇大举渡海并迫和|极低；不推荐入主干|港口/锚地暴露及敌海军反制同时存在；须取得完整实测装载与出海记录、足够安全海况窗口才可上调|
+|1804 Latouche继续任职，执行直接集中|低；保留支线|同期文书锚点强，但准备延误先于其死亡；须证明舰队/港口准备与敌方反应共同兼容|
+|1805集中成功，Villeneuve坚持北上，获得足够掩护|低；保留最具体作战支线|有现成命令选项；Mahan承认机会，Corbett提出补给与效能反证；须复算实际储备、互援航时及风向才能上调|
+|上述路径再快速迫英国议和|不高于登陆路径；证据不足以进一步分级|缺英国政府决策与登陆后供应资料；不得以夺伦敦代替证明|
+|爱尔兰/Fulton单独中立化英国|现有证据不支持|干部与技术探索规模不能补足大型联合作战链|
+
+瓶颈排序【裁量｜中等置信度】：
+1. **舰队在正确时空形成可持续掩护**：突破、集中、损伤、储备、英国重集结必须一起计；
+2. **潮汐港口至外锚地再至滩头的完整流程**：最容易被“一小时/六小时”口号遮蔽；
+3. **人马炮车与后勤的配套**：纸上人位不能代替完整军团；
+4. **登陆后英国政治终战**：最欠缺确定资料，不得用军事胜利填空；
+5. **大陆机会成本与签约后执行**：S1不能免费兼得1805大陆战果与长期英国中立。
+
+给C17的最低“异常有利条件”账本【模型推演】：A舰队集中/掩护成立；B港口—海况窗口与之同步；C完整登陆并取得陆上决定性优势；D军事成果转为可执行和平。按这种**粗粒度门槛**至少四项，非四个统计独立“奇迹”。**这是序列依赖门槛，各门槛须单独成立，相关性方向与强度未量化；不得按独立事件连乘压低S1，也不得因存在相关性而单向抬高。** Latouche存活不是可以同时取消A、B、C、D的一项替代。若进一步要求永久夺取英国海军/殖民帝国，还须另增政治控制门槛，目前没有证据许可。
+
+## 九、来源、依赖关系与未解决清单
+
+### 实际使用材料
+
+- **S1** Édouard Desbrière，*1793–1805. Projets et tentatives de débarquement aux îles Britanniques*，t.IV，1902。I–II部分`downloads/c11_desbriere_01.txt`（S1a）；III部分`downloads/c11_desbriere_02.txt`（S1b）。扫描`c11_desbriere_IV12.pdf`、`c11_desbriere_IV3.pdf`。IA来源分别https://archive.org/details/projetsettentat01histgoog 与 https://archive.org/details/projetsettentat02histgoog 。IA数字尾缀不等于卷号。关键核读：pp.10–12、107–110、398–400、442–446。p.398/399与p.444/445及p.110已图像对校；其余引用为OCR/刊本转录阅读，非档案原件。
+- **S2** A. T. Mahan，*The Influence of Sea Power upon the French Revolution and Empire*，II，Fourth Edition（所见标题页未定年），Gutenberg 52589：https://www.gutenberg.org/files/52589/52589-h/52589-h.htm ；缓存`downloads/pages/4c05b3e278f4.md`。使用pp.111–185相关段；通信集文书仍标转引。
+- **S3** Julian S. Corbett，*The Campaign of Trafalgar*，London: Longmans, Green，1910；https://archive.org/details/campaignoftrafal00corb ，`downloads/c11_corbett.txt`。本卡主要核pp.14–16、247–254；Glover所引1919版p.17不可套用此版，1910原文见p.15。
+- **S4** J. W. Fortescue，*A History of the British Army*，V，Macmillan，1910；https://archive.org/details/historyofbritisharm05fort ，`downloads/c11_fortescueV.txt`。使用pp.212–216、231–234、264–265。与其1909年County Lieutenancies一书为同一研究链，非独立互证。
+- **S5** Richard Glover，*Britain at Bay*，1973；实际读2021 Routledge重印公开预览第一章“Dangers Confronting Britain”，无纸本页码：https://www.perlego.com/book/2567530/britain-at-bay-defence-against-bonaparte-180314-pdf ；`downloads/pages/e0f217155fea.md`。Doc.2未取完整原件；其151,940/167,000、六潮数字不当已独立核算结果。
+- **S6** Sidney Smith致Keith，1803-08-05，*Keith Papers*文书20网络转录：https://www.historyofwar.org/sources/napoleonic/nrs1955/1_1_020.html ；`downloads/pages/378a0b9459dc.md`。网页导航/页脚作者错配，引用依正文标题、日期、署名。
+- **S7** Wheeler & Broadley，*Napoleon and the Invasion of England*，I，John Lane，1908，Introduction pp.xiii–xiv；Hurd信刊本OCR：https://epdf.tips/napoleon-and-the-invasion-in-england.html ；`downloads/pages/5550fd06ab38.md`；详`hurd_letter.md`。同信百科/Wikiquote不算互证。
+- **S8** Sylvie Kleinman，*Translation, the French language and the United Irishmen (1792–1804)*，DCU PhD，2005，第5章§5.2–5.3；https://doras.dcu.ie/17994/1/Sylvie_Kleinman.pdf ；`downloads/pages/d0e2150b50b9.md`。Emmet日记经此转引，1915刊本未亲读。
+- **S9** Pierre Carles，“Le corps irlandais au service de la France sous le Consulat et l’Empire”，*Revue historique des Armées*，1976，3-2，pp.23–54；https://www.persee.fr/doc/rharm_0035-3299_1976_num_3_2_7891 ；`downloads/pages/e30807055e5f.md`。人数定位用日期对应组织/检阅段及注8–11，未伪补精确影印单页。
+- **S10** John Tyrrell，“Weather & Warfare Bantry 1796 revisited”，*History Ireland*，网页无页码：https://historyireland.com/weather-warfare-bantry-1796-revisited/ ；`downloads/pages/ef41b9a6875d.md`，已读全文。Tone日记经其转引，原日记未校；仅作天气—通信—登陆机制类比，不承担本卡概率结论。
+- **S11** William Barclay Parsons，*Robert Fulton and the Submarine*，合同刊录pp.82–85，Gutenberg 63351：https://www.gutenberg.org/cache/epub/63351/pg63351-images.html ；`downloads/pages/af472c3dfa49.md`。
+- **S12** *London Gazette*，15742，1804-10-06，pp.1237–1238，Keith 10月3日报告：https://www.thegazette.co.uk/London/issue/15742/page/1237/data.pdf 及1238；缓存`downloads/pages/32497b1ca4b8.md`、`eb97ce6847bc.md`。所用为OCR捕获，非原PDF视觉核验。
+- **S13** Peter Hicks，“The Militarization of society in Georgian Britain and Napoleonic France”，*Napoleonica. La Revue* 2008/1，pp.136–147，DOI 10.3917/napo.081.0006；`downloads/pages/70b17e18323a.md`。Cookson p.82只经其注6转引。
+- **S14** Kevin Linch，“An ‘Unpleasant Dilemma’: The Portsmouth Volunteers and the limits of loyalism, 1803–1805”，*Journal for Eighteenth-Century Studies* 40(3)，2017，pp.327–344，DOI 10.1111/1754-0208.12461；作者稿https://eprints.whiterose.ac.uk/id/eprint/104015/3/The%20Portsmouth%20Volunteers%201803-1805%20article%20v2.pdf ；`downloads/pages/f0bc4536ba86.md`。按章节和注号定位，未读尽全文；229/232人的检查数据内在不合，排除不用。

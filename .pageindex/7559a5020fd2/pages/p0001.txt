@@ -1,0 +1,36 @@
+# F3承重来源摘录与判断笔记
+
+## S01 Todorov 2008：已读HAL全文相关四节与p15表图
+Nicola Peter Todorov, *Le redressement naval de 1810-1813 napoléonien et la géographie maritime de l’Europe*, Cahiers du Centre d’études d’histoire de la défense 36 (2008)。首页题名如上；HAL索引另有近似题名。PDF `downloads/F3_Todorov_redressement_1810_1813.pdf`，doc `0fd6bd047f2a`，25页。https://shs.hal.science/halshs-01241363/document 。以下页均为此稿页，不虚报原刊页。
+
+- p2–3：1810年7至10月形成建造/人员/训练一体化方案；60新舰、总110舰是目标。舰队兵力不足与欧洲海事人口、海军会议相关。
+- p6–12：1805橡木清查、资源规格与可达性；Caffarelli扣1/6既往采伐再减半不可达，Coincy材料损耗5/8；187与231是按不同等级木分布的推算，不是可以再造的确定数。
+- p13：里加仍有1808购入1009大桅材。注62转引1810-10-13报告，有164大桅、149小桅、270板已过Bremervörde下Gueste到Weser；另282大桅、510小桅、213板到Bremervörde。能证明陆河中转曾实际发生，不能年化其通量。
+- p13注55：Malouet曾建议廉售橡木给丹麦/瑞典以助其扩海军；拿破仑拒绝，偏好完全听命的统一海军。此为作者转档，非本卡阅档。
+- p14注64：1811-02-27报告谓近年铁完全法国供、铜已储、法国和意大利大麻足供海军；这只是该时需求下部门判断，绝非25年无限资源。
+- p14：1811绘里加至安特卫普水路图；Hambourg–Anvers仍有陆运段，Aller–Elbe项目未完成。11月会议乐观估三年可供新增100舰+100巡防舰桅材，是评估，不是收货。
+- p15：Tupinier1812提出伊利里亚桅材运土伦，失败在大陆败战；引自其后写回忆录。
+- p15表：1810夏旧法港29/Anvers12/Hollande9/意港0=50；1812为41/20/10/1=72；1814.4为42/21/9/2=74。所在港存量≠建造地、≠在役。意港2不代表意厂只造2。
+- p15–16：Anvers舰体维修周期较短的讨论；p16“une vingtaine de vaisseaux de ligne par an”满负荷年造20是作者概括，52舰最小名单未复现；不作长期参数。
+- p16：Ganteaume1810估法国真正marins约30,000，英120,000；旧欧洲350,000属革命前估计，非帝国全可征池。
+- p17：荷兰1806水手7,693（注83全海军现役12,373），1810报告不到4,000用于艇队和战列舰；丹麦1810 7,584另有1808起在Flessingue约1,000，立即只能再给200；挪威21,000“海役应征人”不是21,000法国可用熟练水手。1812普鲁士须供2舰员，丹麦增2舰900人；均需政治履约。
+- p18：1811沿海conscription20,000，70%来自今日法国之外省份；是征集额。入舰员由真水手、沿海新兵、炮手和经历2次战役的陆军连组成。
+- pp19–23：训练周报及出港；Brest双出口、英国暴风离站后返来时差约24小时，Toulon练到外海11里格；非全舰/全年自由训练。1813巡防舰约4,000人、海上20日至近5月平均2–3月，亦有损失。不能把训练收益和被俘损失分开。
+- p24注116：1810讨论约200m/年；1812预计223,404,900；1813 255,746,100；1814维持145,919,400；1812预算削到190m。全是计划/评估，非实支。来源转引AN AF/IV/1192/8、1208等，未亲阅。
+- p24–25：1813人员/炮手回陆军、财政使解除武装；外国船员纪律问题也存。作者把俄战描述为被迫，不采该归因；军备扩张事实与亲拿破仑解释分开。
+
+## S02 Todorov 2014：法语，正文经Exa读取
+*La géographie des ressources forestières et les ambitions navales de Napoléon après Trafalgar : l’exemple du bois de chêne*, Revue de géographie historique 5, DOI10.4000/geohist.4373。https://journals.openedition.org/geohist/4373 ，`downloads/pages/171e7ef70128.md`。
+- §3：“La construction d’un vaisseau de 80 canons exige l’emploi de 3737 stères de bois”。原文并记108982立方法尺。保留stères，不能默认为现代无空隙实方吨位。
+- §3：1669制度到1811-04-15树木拟砍须申报，海军优先购买。国家征购深入私人产权但依赖地方呈报。
+- §10：1805调查中Anvers补给流域近62%的周长≥5法尺橡木；是该调查与流域口径，不是所有欧洲林木62%。§10圣赫勒拿言论是回溯性，不作1803意图。
+- 与S01同作者同调查，非独立互证。
+
+## S03 Muracciole 1974：法语，已读正文
+J. Muracciole, *Napoléon et les arsenaux de la Marine*, Revue historique des Armées 1974/1-1,83–98, DOI10.3406/rharm.1974.7813；https://www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813 ，`downloads/pages/21ae17eda88c.md`。
+- 104＝“à flot ou en chantier”。不能改成104可战，或未经统一时点硬拼74+30。
+- 1804舰表50战列（5未武装）近40巡防。原文不提供统一初期舰数完备表。
+- Anvers500工人1804→2850(1807)，9船台→12(1809)；下河5–15日，河距海50海里、外水道20海里、原先逐舰可通，前港/领航改革实改善；防御/港建费竞争造舰费。
+- Toulon约3500工人；1814当地17在役+3在建。Gênes造3战列送土伦；La Spezzia1810仍胚胎。Venise“12在役或完工中”混合分类且其入法年份写1809显误，不用该数建全国平衡。
+- Brest1807仍>5200工人，原料及就业压缩导致不满；Lorient继续建造；Rochefort林材+Ruelle炮厂但Charente水深问题；Cherbourg将成为重要基地。
+- 单舰船长需20年是作者训练时间修辞，不视为每人固定硬门槛；可推出军官断层需一代持续训练而非换将可解。

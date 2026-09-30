@@ -1,0 +1,16 @@
+
+
+【卡内判读·承重】1808年后同一条白银管道**换了旗帜与受益人**：1805–08经美国中立船流向Hope/Baring（部分最终入法国账户），1808–11经英国军舰流向加的斯与惠灵顿。→ 对本卡最关键的反事实命题：**谁控制白银通道，取决于西班牙的政治归属，而不取决于美国的政策**；美国只是"中立旗"这一项服务的供应者。
+
+【口径警告】上一轮 t_c2dbca/britain_silver.md 已警告：必须区分①付款凭证债权②贸易航次许可③商品销售所得④王室凭证支取的财政银⑤欧洲最终净结算；"获取凭证不等于法国收到现银"。本卡沿用该区分，不把8,484,375 pesos当作法国实收。
+
+## C. 美国商人网络的具体规模（第5章，Figure 5.2及印刷pp.177–180）
+- 四个美国港口节点（Figure 5.2 “Operations of the Hope/Baring Consortium with Mexico, 1805–1808”）：**D. Parish 费城、R. Oliver 巴尔的摩、A. Gracie 纽约、V. Nolte 新奥尔良**；对端为 Villanueva（韦拉克鲁斯）→Hope（阿姆斯特丹）、Baring（伦敦）、Paris 商人公司→**French Treasury**。
+- Parish 1806-01抵费城，两周内与 John Craig（费城）与 Robert Oliver（巴尔的摩）签约；Craig 是 Consolidación 基金驻美代表 Sarmiento 的岳父，又是 Oliver 的连襟。
+- 量级：“This house [Oliver] was to be in charge of sending **at least thirty-eight expeditions to Veracruz between 1806 and 1808**.”（印刷p.179）
+- 新奥尔良：“Between mid-1805 and the end of 1806, **approximately twenty ships left from New Orleans for Veracruz** on Nolte's account and a similar number in the following two years.”
+- 单航次白银载量（注84，印刷p.177）：“With each shipment sent from Veracruz in the hired neutral vessels, Villanueva would include quantities of silver that fluctuated between **50,000 and 100,000 pesos**, the result of cashing in bills of exchange of the Consolidation account.”
+- 作者自限（注89）：AGN Marina 各卷有缺口，“making it premature to attempt a definitive calculation”→**不得用 38×(5–7.5万) 相乘当作已知总额**；只能给区间与机制。
+- Parish 与 Talleyrand 的情报-投机交换（注82，转引 Nolte 回忆与 Walters 1944）：回溯性材料，仅作旁证。
+
+【可算区间（模型·非观测）】若 1806–08 仅 Oliver 的38航次每航载银5–7.5万 pesos，则仅此一家为 190–285 万 pesos；加新奥尔良约40航次与纽约/费城未计数航次，1805–08 经美旗输出的银在 **400–800 万 pesos** 量级（与 10 张汇票面额 848 万同阶）——作为压力尺度，不作实测。

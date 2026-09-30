@@ -1,0 +1,46 @@
+
+
+#### 5 Empirical findings
+
+Our analysis proceeds in three steps. First, we obtain panel estimates of the effects of distance and empire that are constrained to be common across all divisions and years in our data. Then, our main results explore the evolution of the distance and empire effects over the course of the 18th and 19th centuries. Finally, we obtain estimates of the heterogeneous effects of distance and empire across the ten SITC one-digit sections.
+
+##### 5.1 Common panel gravity estimates
+
+Table 1 includes panel estimates obtained from variants of Equation (4) which differ in 
+their use of fixed effects. This analysis serves three purposes: (1) it provides benchmark 
+estimates for the key covariates in our model; (2) it clarifies some features of the data; and 
+(3) it illustrates the benefits and costs of using different sets of fixed effects. 
+The results in column (1) of Table 1 are obtained without any fixed effects. 
+Encouragingly, the coefficients on all five covariates are statistically significant and have 
+the expected signs. Specifically, we obtain negative, sizable, and statistically significant 
+estimates of the effects on trade of distance and wars, and positive, sizable, and statistically 
+significant estimates of the effects of empire and GDP. Finally, consistent with expectations, 
+the estimate on our proxy for inward multilateral resistance, ln(DGECjt), is positive and 
+marginally statistically significant. Intuitively, the more remote a given country is from 
+the center of world economic activity, the more it will import from Britain (as P k 
+j increases 
+in Equation (1) x k 
+ij rises), holding all else constant. 
+The results in column (2) of Table 1 are obtained with division-year (kt) fixed effects. As 
+discussed earlier, these control for relative price changes before 1813 and must therefore 
+
+evidence that including other control variables like gold standard adherence or tariffs does not materially affect our results.
+
+Table 1: Panel Gravity Estimates, 1700-1899 
+(1) (2) (3) (4) 
+No FEs kt FEs kt & j FEs kt & jk FEs 
+ln(DISTjt) -0.429 -0.397 -0.886 -1.103 
+(0.063)∗∗∗ (0.086)∗∗∗ (0.339)∗∗∗ (0.316)∗∗∗ 
+EMP IREjt 1.245 1.105 0.361 0.369 
+(0.346)∗∗∗ (0.156)∗∗∗ (0.175)∗∗ (0.180)∗∗ 
+ln(GDPjt) 0.712 0.589 0.239 0.199 
+(0.099)∗∗∗ (0.041)∗∗∗ (0.128)∗ (0.132) 
+ln(DGECjt) 0.620 0.478 0.486 0.610 
+(0.376)∗ (0.193)∗∗ (0.193)∗∗ (0.186)∗∗∗ 
+W ARjt -1.942 -0.752 -0.637 -0.654 
+(0.427)∗∗∗ (0.364)∗∗ (0.290)∗∗ (0.285)∗∗ 
+Constant -8.822 
+(5.110)∗ 
+N 102,942 79,034 79,034 64,447 
+
+Notes: This table reports estimates that are obtained from Equation (2). The estimator is PPML, and the dependent variable is bilateral exports at the 2-digit SITC-2 level over 21 years during the period from 1700 to 1899. The differences between the three columns are in the fixed effects used. Specifically, no fixed effects are used in column (1). Column (2) uses division-year fixed effects. Column (3) uses division-year and destination fixed effects. Column (4) uses division-year and destination-division fixed effects. The standard errors in each specification are clustered by destination-division and are reported in parentheses. ∗ p < .1,∗∗ p < .05, ∗∗∗ p < .01.

@@ -1,0 +1,180 @@
+---
+source_url: "https://repositories.lib.utexas.edu/server/api/core/bitstreams/6929ceec-9158-49b5-a586-eb8c2d2e68b6/content"
+final_url: "https://repositories.lib.utexas.edu/server/api/core/bitstreams/6929ceec-9158-49b5-a586-eb8c2d2e68b6/content"
+provider: "exa"
+text_sha256: "fee83a6c5bfd981054eeebf8046883a5285a973f9df1659b4c24f99ec27b90cb"
+title: ""
+content_kind: "page_text"
+---
+
+http://www.iep.org.pe 
+LA POLÍTICA CONTRARREVOLUCIONARIA DEL VIRREY ABASCAL: 
+PERU, 1806-1816 
+Brian R. Hamnett*
+Universidad de Essex (Gran Bretaña) 
+IEP Instituto de Estudios Peruanos 
+Documento de trabajo Nº112 Serie: Historia Nº18 
+LA POLITICA 
+CONTRARREVOLUCIONARIA 
+DEL VIRREY ABASCAL: 
+PERU, 1806-1816 
+Brian R. Hamnett* 
+Universidad de Essex (Gran Bretaña) 
+DOCUMENTO DE TRABAJO N° 112
+*El autor es Reseach Professor en el Departamento de Historia de la Universidad de Essex Colchester, Reino Unido. 
+http://www.iep.org.pe 
+Serie: Historia 18 
+Un sumario de este trabajo fue presentado en el Congreso Internacional "Los Procesos 
+de la Independencia en América Española". Morelia, Michoacán, México, 21-24 de Julio 
+de 1999. 
+© Instituto de Estudios Peruanos, IEP 
+Horacio Urteaga 694, Lima 11 
+Teléfono 332-6194 / 424-4856 
+Fax (51 1) 332-6173 
+E-mail: iepedit@iep.org.pe 
+ISSN 1022-0356 
+ISSN 1022-0402 
+(Documento de Trabajo IEP) 
+(Serie: Historia)
+Impreso en el Perú 
+Noviembre de 2000 
+200 ejemplares 
+Hecho el depósito legal: 1501132000-4281
+HAMNET, Brian R. 
+ La política contrarrevolucionaria del Virrey Abascal: Perú, 1806-1816.- 
+Lima: IEP, 2000.--(Documento de Trabajo, 112. Serie: Historia, 18) 
+WD/0l.04.03/H18 
+http://www.iep.org.pe 
+La literatura histórica generalmente pasa por alto el régimen virreinal de José 
+Fernando Abascal (1743-1821) en el Perú durante el período de la Independencia 
+hispanoamericana. Es verdad que en 1944, se publicó en Sevilla su Memoria de 
+Gobierno, (ed. de Vicente Rodríguez Casado y José Antonio Calderón Quijano, 2 
+vols., (Sevilla: Escuela de Estudios Hispanoamericanos, 1944), y el libro de Fernando 
+Díaz Venteo, Las campañas militares del virrey Abascal, (Sevilla: EEHA 1948), pero 
+estos volúmenes apenas llamaron la atención del mundo historiográfico. Una de las 
+pocas excepciones de esta indiferencia general fue el estudio de Timothy E. Anna, 
+The Fall of the Royal Government in Perú, que salió a la luz en 1978. Al juicio de 
+Anna: "en la historia de la independencia de la América del Sur, Abascal es una figura 
+central, porque su administración impidió la expansión de la causa de la 
+independencia en la mayor parte del continente". Más aún, "En medio de esa aguda 
+crisis de dirección que en 1808 precipitó a los peruanos en una confusión terrible, 
+Abascal se destaca por su alta rectitud, honestidad, claridad de pensamiento, y 
+capacidad como dirigente (...)en realidad, era un sirviente real completamente 
+profesional, que admiró la eficiencia, no estaba dispuesto a tolerar la incapacidad, y 
+tenía aversión a la ceremonia, pero, al mismo tiempo, le gustaba manejar el poder". 1 
+Yo también, en una obra que se publicó en ese mismo año, hice hincapié en el papel 
+crucial que jugaba este mismo virrey. 2 Desgraciadamente, esos esfuerzos no han 
+tenido casi ninguna resonancia. Todavía no existe (que sepa yo) ningún estudio de la 
+actuación de Abascal durante el período de la Independencia. 3 
+Por consiguiente, es importante explicar las razones de esa indiferencia. 
+Existen varias: (1) En primer lugar, el nacionalismo influenció la historiografía 
+peruana desde 1968. La interpretación nacionalista pinta la rebelión de Túpac Amaro 
+en 1780-1781 como el verdadero comienzo de la emancipación hispanoamericana, es 
+decir, que el proceso emancipador realmente comenzó en el Perú. De esta manera, el 
+Perú no estuvo de ninguna 
+ 1 Anna, Fall of the Royal Government, pp. 26-8. (La traducción de estas líneas es mía) 
+ 2 Brian R. Hamnett, Revolución y contrarrevolución en México y el Perú (1800-1824). Liberalismo, 
+realeza y separatismo, (México: Fondo de Cultura Económica, 1978), pp. 3345, 58-64, 118-26. 
+ 3 Véase para los datos biográficos: Manuel de Mendiburu, Diccionario histórico biográfico del Perú, 
+(Lima, 2da edición, 1931), pp. 58-142. 
+http://www.iep.org.pe 
+4 
+manera marginado del proceso. Inevitablemente Abascal aparece dentro de esta
+interpretación como un factor negativo.4 
+(2) La historiografía constitucional pone el énfasis en la introducción del 
+sistema representativo gaditano, y pinta a Abascal como un recalcitrante, que no 
+mostraba simpatía con el primer experimento constitucional en el mundo hispánico. 
+Jaime Rodríguez dice, por ejemplo: "algunos oficiales reales - entre los cuales el 
+virrey Abascal del Perú era el mas destacado, estaban resueltos a impedir lo que ellos 
+erróneamente consideraron como la fragmentación del mundo hispánico. Por
+consiguiente, los realistas crearon las condiciones que finalmente destruyeron la 
+monarquía española, debido a que interrumpieron una reconstrucción que pudiera 
+haber resultado en una monarquía federativa". 5 Sin embargo, la Constitución de 
+1812 tuvo muchas imperfecciones; cualquier autoridad encargada del manejo del 
+Estado en los territorios americanos, y la garantía de la seguridad, se hubiera opuesto 
+a ellas. Dentro del campo reformista, también, surgieron críticas serias de la 
+Constitución. Gaspar Melchor de Jovellanos, por ejemplo, criticó la forma unicameral 
+de las Cortes que se reunieron en 1810 como un factor de inestabilidad.6 
+(3) La tendencia historiográfica a enfocar la experiencia de las provincias 
+contrapuestas al centralismo de Lima, también ve a Abascal como un factor negativo. 
+La oposición al predominio de Lima fue un sentimiento evidente en la rebelión del 
+Cuzco de 1814-1815.7 La investigación de Alberto Flores- Galindo, Manuel Burga, y 
+Jan Szeminski sobre la visión alternativa andina y el desarrollo del mito de inkarri 
+durante el siglo XVIII, demuestra la oposición a Lima desde la provincia. A fin de 
+cuentas, la supresión de la rebelión del Cuzco en 1815 por el gobierno virreinal 
+destruyó la perspectiva de una solución provincial y multi-étnica para los problemas 
+políticos del Perú. De esta manera, Abascal, actuando en acuerdo con los 
+comandantes 
+4 Véase, como punto de partida Luis Alberto Sotomayor Gutiérrez, La acción emancipadora del Perú 
+antes de la llegada de la Expedición Libertadora, (Lima 1972: Publicaciones de la Comisión Nacional 
+de Sesquicentenario de la Independencia del Perú), pp. 7-8, que pinta a la 'Carta dirigida a los 
+españoles americanos' por Juan Pablo Vizcardo y Guzmán, ex-jesuita exiliado, como el texto seminal 
+de la ideología de la emancipación americana - y de origen peruano. Luis Durand Flores, 
+Independencia e integración en el plan político de Túpac Amaru, (Lima 1973), pp. 37-8. Véase para 
+otros comentarios: Scarlett O'Phelan Godoy, "El mito de la 'Independencia concedida': los programas 
+políticos del siglo XVIII y del temprano XIX en el Perú y Alto Perú (1730-1814)" en Alberto FloresGalindo (comp.), Independencia y Revolución, 2 vals., (Lima 1987), vol. 2, pp. 145-99, véase pp. 146-
+7, 169-71. 
+5 Jaime E. Rodríguez O., The Independence of Spanish América, (Cambridge: Cambridge University 
+Press 1998), p. 168. 
+6 Brian R. Hamnett, La política española en una época revolucionaria, 1790-1820, (México: Fondo 
+de Cultura Económica, 1985), pp. 100-01. 
+7 John R. Fisher, "Royalism, Regionalism, and Rebellion in Colonial Perú, 1808-1824", Hispanic 
+American Historical Review, 59 (1979), pp. 232-57. 
+http://www.iep.org.pe 
+5 
+del Ejército del Alto Perú, puso fin a un ideal que había generado una serie de 
+insurrecciones en la zona andina desde la década de 1740. Otra vez, Abascal era el 
+culpable.8 
+A pesar de que Abascal actuaba como la figura principal en el Perú durante 
+los ocho años de la crisis del antiguo régimen y la independencia, ha sido marginado 
+por la historiografía. En esta ponencia no presentó nuevos datos; me limitó a apelar
+por una reconsideración de ese personaje clave. Sin embargo, no se podría 
+comprender su actuación, si no la pusiéramos en su contexto histórico. El largo 
+período desde 1770 hasta 1840 incluye las llamadas reformas borbónicas, el 
+derrumbe de la monarquía borbónica y la crisis del antiguo régimen, las luchas por la 
+independencia, y la formación de nuevos estados soberanos en el territorio del 
+antiguo imperio continental español. Tres temas principales afectaron al Perú de una 
+manera dramática durante esa época: Vamos a considerar cada uno a su turno. 
+(1) El primer problema fue: ¿de qué territorios debería constituirse el Perú? 
+Guillermo Céspedes del Castillo inició el estudio de esa cuestión geopolítica en 1946, 
+enfocando la división de los dos Perús en 1776 por el gobierno metropolitano con el 
+propósito de establecer el nuevo virreinato del Río de La Plata. Varias décadas antes, 
+la formación del virreinato de la Nueva Granada en 1739 y la separación de la 
+Audiencia de Quito de la autoridad de Lima ya habían debilitado al Perú.9 
+(2)¿Qué fuerzas políticas deberían predominar en el Perú y cómo sería la 
+estructura política del virreinato? Los estudios publicados por Guillermo Lohmann 
+Villena en Perú y por varios autores en Estados Unidos como Mark A. Burkholder, 
+por ejemplo, mostraron cómo los americanos predominaban en la Audiencia de Lima 
+desde 1690. La política borbónica durante el reinado de Carlos III (1759-1788) 
+intentaba terminar con eso. La política del Visitador General del Perú, José Antonio 
+Areche, puso de nuevo en la minoría a los americanos. La elite limeña se sentía 
+agraviada por esa política neo-centralista. El abogado y pretendiente peruano, José 
+Baquíjano y Carrillo, por su parte, viajó a España en 1793, con el propósito de 
+conseguir un puesto en la Audiencia de Lima. Baquíjano consideraba que el ambiente 
+político de la corte de Carlos IV (1788-1808) sería más favorable que durante la
+época de Gálvez. En su temporada anterior en España en 1774-1776, Baquíjano no 
+había conseguido nada. Esta vez el rey lo nombró alcalde del crimen en 
+8 Jan Szeminski, La utopía tupamarista, (Lima: Pontifica Universidad Católica del Perú, 1984), pp. 
+221-2,284-6. Alberto Flores-Galindo, Buscando un inca: identidad y utopía en los Andes, (Lima: 
+Instituto de Apoyo Agrario, 1987). Manuel Burga, Nacimiento de una utopía. Muerte e insurrección 
+de los incas, (Lima: Instituto de Apoyo Agrario, 1988). 
+9 Guillermo Céspedes del Castillo, "Lima y Buenos Aires. Repercusiones económicas y políticas de la 
+creación del virreinato de la Plata," Anuario de Estudios Americanos, III (1946), pp. 669-874. 
+http://www.iep.org.pe 
+6 
+febrero de 1797, y diez años más tarde lo ascendió al puesto de oidor. Sin embargo, 
+Baquíjano era el único oidor limeño en la audiencia en esa época.10 El 
+Ayuntamiento de Lima se había opuesto a la política de Gálvez y Areche,
+argumentando en favor de la igualdad de representación entre americanos y
+peninsulares en la audiencia. El establecimiento del sistema constitucional a partir de
+1810 abrió de nuevo esta cuestión todavía no resuelta. 11 
+(3)¿ De qué recursos dependería el Perú? Desde 1740, los registros sueltos 
+por Buenos Aires y el Cabo de Hornos empezaron a minar el monopolio comercial de 
+los galeones destinadas a Portobelo y Callao, establecido en el reinado de Felipe II. 
+La separación del Alto Perú, con sus recursos minerales, en 1776, y la introducción 
+del Comercio Libre entre una serie de puertos habilitados del imperio, en 1778, 
+disminuyeron aún más la antigua posición hegemónica del poderoso Consulado de 
+Lima.12 La política metropolitana debilitó y humilló seriamente al Perú a lo largo de 
+todo el siglo XVIII. Además, los cambios comerciales de esa misma época 
+contribuyeron a los problemas económicos del virreinato. Abascal, respondiendo a las 
+quejas de los comerciantes limeños, escribió en su Memoria de Gobierno de 1816: 

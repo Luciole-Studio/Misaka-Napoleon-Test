@@ -1,0 +1,44 @@
+Environ. Res. Lett. 12 (2017) 074026
+
+
+
+
+   Figure 3. Reconstructed anomaly ﬁelds over the growing season (April to September) 1816 with respect to the historical reference
+   period for Tmin and Tmax, solar radiation, and precipitation. Weather data are only used below 1500 m asl. For radiation, which in
+   contrast to the other ﬁelds was interpolated from stations, we did not derive values above 1500 m asl.
+
+
+
+
+Table 3. Modelled days of phenological phases for the present period (ref, in day-of-year) as well as deviations from the reference for
+the ﬁrst and second year after the eruption (deviation in number of days).
+
+                                       Barley                                 Potato                                   Maize
+Phenological stage         Ref         yr 1          yr 2         Ref          yr 1         yr 2          Ref          yr 1         yr 2
+
+Emergence                  301          þ5           þ11          110          þ10          þ15           128           þ5          þ10
+Flowering                  164          þ3            þ6          162          þ13          þ12           173          þ48          þ41
+Grain/tuber ﬁlling         175          þ5            þ7          207          þ19          þ13           228          þ28          þ13
+Harvest                    213          þ6            þ8          219          þ21          þ13           275            0            0
+
+
+
+
+Table 4. Phenological data from observations for the historical reference period (Ref, in day-of-year) as well as deviations in 1816 and
+1817 (deviation in number of days). Data from Pﬁster (2015).
+
+Location                      Plant                   Phenological stage                 Ref                    1816               1817
+
+Zollikon                      Grape                   Bud burst                          114                    þ3                 þ16
+Swiss Plateau                 Cherry                  Flowering                          114                    þ4                 þ16
+Zollikon                      Grape                   Flowering                          158                    þ31                þ20
+Zollikon                      Grape                   First fruit                        188                    þ26                þ14
+Swiss Plateau                 Rye                     Harvest start                      205                    þ17                þ5
+Zollikon                      Grape                   Coloring                           234                    þ25                þ15
+Swiss Plateau                 Grape                   Harvest start                      290                    þ20                þ7
+Zollikon                      Grape                   Harvest start                      292                    þ11                þ4
+
+
+
+
+                                                       7

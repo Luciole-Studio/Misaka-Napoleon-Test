@@ -1,0 +1,39 @@
+F.3.2     Urbanization
+In this appendix, we use a different measure of urbanization than in tables 1 to 4,
+were urbanization is defined as the percentage of people living in a city of more than
+5,000 inhabitants. In tables 14 and 15, we use the percentage of the population living
+in a city of more than 10,000 inhabitants as a measure of urbanization instead. Using
+these alternative measures leaves the overall pattern of our results unaffected.
+
+    Table 14: Draft-dodging and ruggedness with alternative to “Urbanization”.
+
+Note: This table displays the same regression as in Table 1’s column 3, 4 and 5, while replacing “Ur-
+banization” with another measure of urbanization. We report robust standard errors in parenthesis
+and Conley standard errors (100km) in brackets.
+
+        Draft-dodging rate                        (3)          (4)                  (5)
+        Log of ruggedness                       4.12574      5.13110              6.73537
+                                            (1.05578)*** (1.65401)***          (1.69516)***
+                                            [1.34327]***  [2.06144]**          [2.26209]***
+        Townships Density                      -92.95887   -40.79928              0.05567
+                                           (20.62083)*** (42.57956)             (44.33058)
+                                            [36.69457]**   [76.57471]           [71.95935]
+        Distance from Paris                     3.37038      2.35798              3.31861
+                                            (0.87368)*** (1.08847)**           (1.24696)***
+                                             [1.41119]**    [1.74104]           [2.00780]*
+        Border                                  2.75361      2.93673              2.97142
+                                             (1.29967)**   (2.15092)             (2.22459)
+                                               [1.72700]    [3.21844]            [3.23309]
+        Urbanization (towns>10,000)             6.96776    -10.31918              0.37931
+                                              (3.96530)*  (15.28033)            (15.67894)
+                                               [6.59128]   [26.74470]           [25.05897]
+        Same other controls
+        as in Table 1                          X              X                      X
+        Observations                          534            365                    292
+        R-squared                           0.64523        0.74801                0.78592
+                                *** p<0.01, ** p<0.05, * p<0.1
+
+
+
+
+                                                 28

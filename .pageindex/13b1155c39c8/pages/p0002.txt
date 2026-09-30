@@ -1,0 +1,49 @@
+
+
+COUNTERFACTUAL THOUGHT EXPERIMENTS a
+
+judging the legitimacy, plausibility, and insightfulness of specific counter-
+factuals. It would be a big mistake, however, to confuse epistemic pluralism
+(which we accept up to a point) with an anything-goes subjectivism (which
+wwe reject and which would treat all counterfactual claims as equally valid in
+their own way). The study of world politics has suffered from a lack of self-
+consciousness about the counterfactual underpinnings of causal claims
+(Fearon 1991). Indeed, different schools of thought sometimes seem precar-
+iously close to establishing their own implicit norms for deciding what is
+and is not a “trivial” argument (Chapter 12, Weber)—an outcome that would
+be disastrous because it would permit rival schools to disengage altogether
+from constructive arguments with each other. A science or, more modestly,
+‘quasi science of world politics is possible if and only if advocates of con-
+flicting hypotheses embrace at least some common standards for judging the
+plausibility of each other’s counterfactual claims. Otherwise, we are fated to
+talk past each other.
+
+‘To avoid this fate, we advance six normative criteria for judging counter-
+factual arguments that appear to command substantial cross-disciplinary sup-
+port. To be sure, we do not expect universal consent; we do seek, however,
+to initiate a sustained conversation within the research community on what
+should count as a compelling counterfactual argument—a conversation that
+will allow us to explore the strengths and weaknesses of specific standards in
+the abstract, in isolation from the dominant debates of the moment (when
+the temptation to play favorites is often irresistible). There should, more-
+over, be plenty to talk about. Each standard we propose is open to some
+interpretation. Certain standards will provoke resistance from those who de-
+nounce it as impossible (Chapter 3, Breslauer) or undesirable (Chapter 12,
+Weber) or irrelevant (Chapter 5, Lebow and Stein). And some standards will
+clash with each other. For example, consistency with well-established his-
+torical fact sometimes conflicts with consistency with well-established statis-
+tical or theoretical generalizations. There are at present no generally ac-
+cepted principles for adjudicating such disputes and we do not claim to offer
+a well-defined “method of counterfactual argument” that researchers can
+deploy in an off-the-shelf fashion to solve any and all problems.
+
+With these disclaimers, we list six attributes of the ideal counterfactual
+thought exercise (where “ideal” means most likely to contribute to the ulti-
+mate social-science goals of logically consistent, reasonably comprehensive
+and parsimonious, and rigorously testable explanations that integrate the idi-
+graphic and the nomothetic):!
+
+" Readers may wonder how these six criteria for good counterfactual reasoning map onto the
+five ideal-type pattems of counterfactual reasoning sketched earlier. Although the answer is
+‘complex and the subject of some disagreement among contributors, we can offer the following
+‘observations:

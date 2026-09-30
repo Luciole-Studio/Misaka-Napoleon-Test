@@ -1,0 +1,28 @@
+    D     Variable description
+    Table 2 provides source and description for each variable we employed in our empirical analysis.
+
+                                                 Table 2: Variable description
+
+     VARIABLES                 Source                           Description
+
+     Draft-dodging rate        Archives Nationales,             The draft-dodging rate was defined as the proportion of
+                               AF/IV/1124, no 1 and no 9.       people effectively drafted who dodged the draft.
+                                                                Draft-dodging rate = (Number of draft dodgers +
+                                                                Number of conscripts escaping on their way to their
+                                                                units)*100 / (Conscripts incorporated in their unit +
+                                                                Number of draft dodgers + Number of conscripts
+                                                                escaping on their way to their units).
+5    Conscription rate         Archives Nationales,             “Conscription rate” represent the portion of the
+                               AF/IV/1124, no 1, no 9 and       population being drafted and is defined as follows:
+                               Rapport a sa Majesté             Conscription rate= Contingent size*100/Cohort size.
+                               impériale et Royale. April 6,
+                               1809.
+     Exemption rate            Archives           Nationales,   “Exemption rate” measures the portion (in %) of young
+                               AF/IV/1124, no 1.                men in each cohort declared unfit for military service
+                                                                (reformed ).
+     Ruggedness                (Nunn & Puga 2012, Nüssli        We calculated average terrain ruggedness for department
+                               2012, Poirson 1808).             polygons. The department polygons were partly drawn
+                                                                from Euratlas. However, the Italian departments were
+                                                                missing from this source so we georeferenced the Italian
+                                                                departments using a map of the French empire from
+                                                                Poirson (1808).

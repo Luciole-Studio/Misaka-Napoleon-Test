@@ -1,0 +1,31 @@
+<!-- xlsx readout. Sheet metadata is gathered once per sheet in a ```meta fence (parser-added, not file content); each category opens with a ▸ line. A backtick span marks a per-cell note. The grid's first row is column letters and its first column is row numbers, both real coordinates; cells are separated by tabs. Homogeneous formula fills are grouped as R1C1. Dates are ISO. `uncached` means the file carries a formula whose cached result is empty. Re-read part of a sheet with cell_range="<sheet>!A1:..". -->
+
+## Sheet: Notes
+
+`data region 1: A1:A9`
+	A
+1	Maddison Project Database (MPD) 2020
+2	Citation policy
+4	CONDITIONS UNDER WHICH ALL ORIGINAL PAPERS MUST BE CITED:
+6	a) If the data is shown in any graphical form
+7	b) If subsets of the full dataset that include less than a dozen (12) countries are used for statistical analysis or any other purposes
+9	When neither a) or b) apply, then the MPD as a whole can be cited.
+
+`data region 2: A16:B20`
+	A	B
+16	Sources	Sources for GDP pc and population data
+17	Full data	Data in a single table
+18	GDP pc	Real GDP per capita in 2011$
+19	Population	Population, mid-year (thousands)
+20	Regional data	Regional GDP per capita and population estimates
+
+```meta
+▸ merged
+    A1:N1 (value at A1)
+    A2:N2 (value at A2)
+▸ styles
+    font-color: #222222 A4,A6:A7,A9
+    bold: A1:A2
+    underline: A4
+```
+

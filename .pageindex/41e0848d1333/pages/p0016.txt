@@ -1,0 +1,65 @@
+the urbanization rate in 1850, the longitude and latitude of the historical territory, and the distance of its
+
+capital to Paris. The share of protestants has been shown to be a good proxy for educational attainment
+
+(Becker and Woessmann, 2009) and protestantism goes along with values favorable for cooperation
+
+compared to catholicism (Alesina and La Ferrara, 2002; Tabellini, 2008). Controlling for past influences
+
+almost doubles the magnitude of the coefficient and increases its significance for all outcome variables,
+
+as shown in columns (8) to (10). Having applied the Code Civil for a standard deviation of 37 years goes
+
+along with 0.06 of a standard deviation higher level of trust, while 90 years go along with an increase
+
+of 0.17 of a standard deviation in trust. To put this magnitude in relation, switching from catholicism to
+
+protestantism increases individual trust on average by 0.006 of a standard deviation, being unemployed
+
+reduces trust by 0.22 of a standard deviation, while having lived in the former GDR reduces trust by a
+
+coefficient of 0.15 of a standard deviation in trust.
+
+
+
+                                  3.3    Robustness of the Complete Sample
+
+I will perform additional regressions in the framework of the complete sample to show the robustness of
+
+the results in different sub-samples. Restricting the sample provides furthermore a possibility to mitigate
+
+possible endogeneity concerns related to the adoption of the Code Civil. In the first specification I will
+
+drop the historical territories Baden and Saxony, which choose to adopt the Code Civil - although this
+
+choice was severely constrained in the case of Baden. The finding of a positive, significant effect is robust
+
+to this specification, as column (1) in Table3 show. Next, only regions are kept in the sample that either
+
+adopted the Code Civil through Napoleonic occupation, adopted it voluntarily or at least prepared its
+
+adoption, as the two members of the Confederation of the Rhine Bavaria and Hesse-Darmstadt, did. The
+
+idea is to compare places that almost got the Code Civil, with those having actually adopted it, removing
+
+regions from the sample that rejected the Code Civil completely and did not consider its application.25
+
+Thus, the sample is characterized by a lower degree of heterogeneity in the adoption decision. I still find
+
+a positive, significant effect in column (2).
+
+                                                  Table 3 about here
+
+Going one step further, I consider only regions that adopted the Code Civil either voluntarily or prepared
+
+to adopt it. This leaves me with the regions Baden, Bavaria and Hesse-Darmstadt. All three regions
+
+where never directly occupied by Napoleon, but indirectly connected to the French Empire through the
+
+
+  25 The classification of whether a region considered the Code’s adoption is taken from Arvind and Stirton (2010)
+
+
+
+
+                                                            14

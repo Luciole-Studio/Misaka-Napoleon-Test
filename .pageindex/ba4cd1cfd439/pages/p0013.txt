@@ -1,0 +1,51 @@
+
+
+N 1 lq t V
+
+t N
+
+(6) 
+where Ilqt is an indicator variable that is one if marketst l and q in year t are 
+not yet both part of the Zollverein (and so customs borders do still exist). 
+Note how this instrumental variable builds on the motives to join the 
+Zollverein that are stressed in historical accounts. First, the numerator of 
+equation (4) captures the fact that a state’s accession to the Zollverein 
+was related to the distance to the coast that gave access to international 
+markets. Markets more distant to the coast joined earlier. In particular, 
+joining the Zollverein mattered more for the states in the South of 
+Germany, since that was required for customs-free access to the coast. 
+It is thus not surprising that by 1836, all German states to the south 
+of Prussia had joined the ZollverHLQ ,Q WKH ¿UVW VWDJH UHJUHVVLRQ WKH 
+potentially endogenous variable CustLib is regressed on the instrument 
+RDistCoast²EDVHGRQHDUOLHUDUJXPHQWVZHH[SHFWDSRVLWLYHFRHI¿FLHQW 
+Second, the denominator of equation (4) captures the fact that as 
+the Zollverein EHFDPH ODUJHU WKH QHW EHQH¿W RI MRLQLQJ LQFUHDVHG RYHU 
+time. Clearly, a larger Zollverein meant more customs-free customers. 
+Moreover, a larger Zollverein raised the chance of having to pay customs 
+duties even when selling to non-Zollverein members because a larger 
+Zollverein customs union meant that it would be more likely that any trade 
+
+1188 Keller and Shiue with non-members would have to cross the external Zollverein border. In this way the instrumental variable picks up the fact that The Free City of Frankfurt and Baden, both located moderately far from the coast, joined in 1836, only two years after the Zollverein was founded: it is plausible that the leaders of these states had come to the conclusion that staying outside the union had just become prohibitively costly. This rising cost of staying outside the Zollverein is captured by the instrumental variable because the denominator of RDistCoast declines over time (states far from the coast tend to join early), so that even for a given own distance to the coast the propensity to join the Zollverein is increasing over time.
+
+REDUCED-FORM RESULTS
+
+We now explore the reduced-form regression to shed light on the validity of this instrumental variable. The reduced-form is given by
+
+Tradejkt = L1 rdistcoastjkt + XeȖ + ujkt , (7)
+
+where the vector X LQFOXGHVFLW\ SDLU¿[HGHIIHFWVDQGWLPH¿[HGHIIHFWV 
+Ljk andLt, and rdistcoast is equal to the log of RDistCoast, plus one. The 
+¿[HGHIIHFWVUHGXFHRPLWWHGYDULDEOHFRQFHUQV ,QSDUWLFXODU WKH Ljk imply k 
+WKDWLGHQWL¿FDWLRQFRPHVIURPWKHFKDQJHVLQSULFHJDSVRYHUWLPHZLWKLQ 
+each city-pair. 
+The relative distance variable is based on geographic characteristics 
+of city markets j and k, as well as on the Zollverein accession decisions of 
+all states. Each individual state’s decision has only a small impact on (the 
+denominator) of the instrument, and geography is quite plausibly exoge 
+nous, so we estimate equation (7) by OLS. The results are shown in Table 
+¿UVWFROXPQ $KLJKUHODWLYHGLVWDQFHWRWKHFRDVWOHDGVWRORZHUSULFH 
+gaps. This is consistent with the idea that city-pairs that are relatively 
+distant from the coast join the Zollverein DQGWKHFXVWRPVOLEHUDOL]DWLRQV 
+of the Zollverein brought down the bilateral price gap. 
+The remaining columns of Table 2 show extensions of this reduced 
+form regression. In each column we introduce a different variable, Z 

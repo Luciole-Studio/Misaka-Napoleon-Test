@@ -1,0 +1,45 @@
+                                                -9-
+
+= sC, and CD is p1@(y1 - y0) = sP. In other words, AD is the value of the previous volume of trade
+
+at autarky prices, AB is the substitution in consumption and CD is the substitution in production
+
+as a result of the change in relative prices. AD represents p1@m0 because DE is the value of
+
+previous exports at autarky prices and AE is the value of previous imports at autarky prices, so
+
+that AE - DE = AD (since by definition imports are positive and exports are negative).
+
+       Equation (4) is a general formulation for a change in welfare and does not assume that all
+
+trade is eliminated. In principle, each component of the equation can be calculated. In the
+
+present case, the subscript 0 will refer to the pre-embargo (1807) situation and the subscript 1
+
+will refer to the embargo (1808) period. Although data on U.S. trade in the early nineteenth
+
+century is scanty, let alone data on production and consumption, sufficient data exists to generate
+
+an approximate calculation of most components of equation (4). The calculation of each
+
+component deserves some discussion.
+
+AD: -p1@m0
+
+       This is the most readily calculated component of the welfare change. We observe p0@m0,
+
+which is simply the value of trade in 1807. The initial price vector is normalized to unity, such
+
+that p0 = (1, 1, 1, 1) and m0 = (-48.7, -42.1, 34.0, 51.1), where the vector elements are exports of
+
+domestic produce, shipping earnings, imports for consumption paying ad valorem duties, and
+
+imports for consumption paying specific duties. (This distinction among imports will be
+
+important for reasons that will become clear in the next calculation.) Re-exports have been
+
+excluded from the calculation because the gains that accrued to the United States from such trade
+
+is reflected solely in shipping earnings.
+
+       In the vector m0, the values for domestic exports and shipping earnings are taken straight

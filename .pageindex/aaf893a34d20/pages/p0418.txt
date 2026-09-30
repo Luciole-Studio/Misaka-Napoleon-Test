@@ -1,0 +1,100 @@
+Rural Change and Royal Finances in Spain
+
+
+       for purposes of comparison, one can from the census data estimate the number of vecinos in that year.[20] Table A.1 compares the
+       proportions of total vecinos in each district at the two dates (less the Basque provinces, for which the vecindario gives no figures). It
+       shows that in the periphery Galicia, Asturias, Valencia, and Murcia grew faster than the national rate, while Catalonia grew more slowly.
+       In the interior, Navarre, Aragon, and Extremadura were falling behind (contemporaries believed that Extremadura was actually losing
+       population), [21] while most of the meseta was growing about as fast as the country as a whole. Andalusia was growing more slowly,
+       except for Seville province. Because the vecindario of 1712 is unreliable, these comparisons cannot be precise, but the trends are
+       probably meaningful. Only a detailed study of all regions can reveal the full extent of the errors.
+             Catalonia and the villa of Madrid appear anomalous, because the table shows them to be falling behind the country as a whole,
+       whereas the studies of Pierre Vilar and David Ringrose indicate that they were growing rapidly. The fault appears to lie in the data in
+       Table A.1. After a detailed study of the eighteenth-century censuses of Catalonia, Vilar has established that the 1712 vecindario did not
+       underreport its households, as it evidently did elsewhere, and may have augmented them slightly as a punitive tax measure for its
+       opposition to Felipe V in the War of the Spanish Succession. [22] If this is the case, the 1712 vecindario would give Catalonia a higher
+       proportion of the total population of the peninsula than it actually had. The case of Madrid is similar. The vecindario of 1723 (the date of
+       its survey) was fairly accurate, although excluding clergy, garrisons, and transients, as does the census figure shown for 1786 in the
+       table. [23] Because of the underregistration of 1712, the figure of vecinos for all Spain in 1786 is 139 percent above that of 1712. Places
+       such as Catalonia and Madrid, where the early figure is nearer the truth, thus show a relative decline where there was none. Their cases
+       indicate the dangers of any attempt to determine relative growth from the sources available. Nevertheless, with all due caution, one may
+       conclude that the periphery of the north and east was growing slightly faster than the interior.
+
+
+       [19] Ibid., table on p. 213.
+
+       [20] I use the total of all married men, all widowers and widows under fifty, one-half the widowers and widows fifty and over, and one-
+       half the single men twenty-five and over. Bustelo performs a similar operation for 1797, using all married men twenty-five to fifty-nine,
+       one-half the single men twenty-five to fifty-nine, and one-half the widows under sixty ("Algunas reflexiones," 100–101).
+
+       [21] Anes, Antiguo Régimen, 181, citing Antonio Ponz.
+
+       [22] Vilar, Catalogne 2 : 18–20. Anes, Antiguo Régimen, 29–35, provides additional information and confirms the rapid growth of
+       Catalonia.
+
+       [23] Ringrose, Madrid and the Spanish Economy, 19–33, discusses the population of the city from the sixteenth to the nineteenth
+       century.
+
+
+                                                                                          ― 760 ―
+
+
+                                                        Table A.1. Population Counts, Eighteenth-Century Spain
+
+
+
+                                                                   Vecindario 1712                            Census 1786–87
+
+
+
+                                                                                                                               Percent   Percent
+                    Province                  Uztáriz           Vecinos         Percent        Population a        Vecinos     Vecinos   Change
+
+
+
+                   Northwest
+
+
+
+                    Asturias                  30,524           20,524.0           2.00           345,833           82,891       3.38     +1.38
+
+
+
+                    Galicia                  118,680           118,680.0         11.59          1,340,192          330,225     13.46     +1.87
+
+
+
+                Total Northwest              149,204           139,204.0         13.59          1,686,025          413,116     16.84     +3.25
+
+
+
+                     North
+
+
+
+                    Aragon                    75,244               75,241.0 b     7.35           614,070           160,371      6.53     –0.82
+
+
+
+                    Navarre                   35,987           35,287.0           3.44           224,549           56,069       2.28     –1.16
+
+
+
+                  Total North                111,231           110,528.0         10.79           838,619           216,440      8.81     –1.98
+
+
+
+                 Mediterranean
+
+
+
+                   Cataluña                  103,360           103,135.0         10.07           801,602           203,931      8.31     –1.76
+
+
+
+                     Murcia                   30,494           27,094.0           2.64           332,474           88,211       3.59     +0.95
+
+
+
+
+http://publishing.cdlib.org/ucpressebooks/view?docId=ft4d5nb394;chunk.id=0;doc.view=print[1/22/2011 11:30:51 AM]

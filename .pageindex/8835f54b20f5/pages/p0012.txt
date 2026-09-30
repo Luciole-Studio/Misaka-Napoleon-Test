@@ -1,0 +1,59 @@
+VOL. 101 NO. 7                   ACEMOGLU ET AL.: CONSEQUENCES OF RADICAL REFORM                                    3297
+
+
+
+                                       Table 3—Urbanization in Germany
+
+                                                              Dependent variable: urbanization rate
+                                                     West of the Elbe                              All
+                                                Weighted        Unweighted             Weighted          Unweighted
+                                                  (1)              (2)                   (3)                (4)
+Years French presence × 1750                   −0.491            −0.252               −0.488             −0.197
+                                                [0.249]           [0.172]              [0.235]            [0.164]
+Years French presence × 1800                   −0.247            −0.0425              −0.268             −0.0471
+                                                [0.225]           [0.153]              [0.227]            [0.178]
+Years French presence × 1850                   −0.160              0.0332             −0.221             −0.0235
+                                                [0.250]           [0.153]              [0.249]            [0.181]
+Years French presence × 1875                     0.402             0.354                0.266              0.252
+                                                [0.326]           [0.295]              [0.303]            [0.299]
+Years French presence × 1900                     0.634             0.529                0.503              0.506
+                                                [0.408]           [0.401]              [0.376]            [0.423]
+
+Observations                                        74               74                   109               109
+Number of states                                   13                 13                  19                 19
+p-value for joint significance after 1800        0.0532             0.463               0.0205             0.214
+
+Notes: All regressions have full set of territory and year dummies. Robust standard errors clustered by territory.
+Weighted regressions are weighted by territories’ total population in 1750.
+
+
+
+coefficients αˆ 1875 and αˆ 1900 are not individually significant, the p-value of the F-test
+for the joint significance of all post-treatment years (1850, 1875, and 1900) at the
+bottom of the table shows that post-treatment years are jointly statistically different
+than the pre-1850 dates (at a 5 percent level of significance).15
+   Column 2 repeats the same analysis without population weights. The results are
+qualitatively similar, though weaker: the negative pretrend is reduced, but the coef-
+ficients relating to the years 1875 and 1900 are not jointly significant anymore.
+Including also the territories east of the Elbe within the control region, as done in
+columns 3 and 4, reinforces the baseline results, both in the weighted and in the
+unweighted case. In column 3, the magnitudes of the coefficients are very similar
+to those of the restricted sample in column 1. The F-test for joint significance of the
+effects posttreatment years now rejects the null at 2 percent.
+   We are also able to augment our data by adding the years 1880, 1885, 1895,
+1905, and 1910 for 12 of our 19 polities. Repeating our baseline regressions on the
+unbalanced panel that includes these years, we obtain very similar results both for
+the West of the Elbe sample and for the whole sample, except that the F-tests now
+always reject the hypothesis that there is no differential effect of posttreatment years
+at less than 1 percent in all specifications (details available upon request).
+
+(based on the t-statistics with the null hypothesis imposed) suggested by A. Colin Cameron, Jonah B. Gelbach and
+Douglas L. Miller (2008), computing the significance levels in 10,000 replications. This procedure has varying
+effects on the significance levels of the results in Table 3. Results of weighted regressions usually become less
+significant using bootstrapped t-statistics, whereas results of unweighted regressions are generally unaffected or
+improved by this procedure. For example, in column 1 the p-value for αˆ 1900 increases slightly from 0.146 to 0.285,
+whereas in column 2 the p-value for αˆ 1900 falls from 0.212 to 0.115. Similar results apply to the other estimates in
+Tables 3, 4, and 6.
+   15
+      The F-test enables us to investigate the hypothesis of whether there is any positive effect of French reforms, as
+opposed to the t-tests, which are for the hypothesis that they had a positive effect in a specific year.

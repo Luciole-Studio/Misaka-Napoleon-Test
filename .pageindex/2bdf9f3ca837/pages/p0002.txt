@@ -1,0 +1,444 @@
+          "id": "https://openalex.org/A5114113233",
+          "institutions": [
+            "London School of Economics and Political Science"
+          ]
+        },
+        {
+          "name": "Stephen Bond",
+          "id": "https://openalex.org/A5107790695",
+          "institutions": [
+            "University of Oxford"
+          ]
+        }
+      ],
+      "cited_by_count": 33473,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 18,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2124758339",
+      "doi": null,
+      "title": "Econometric Analysis of Cross Section and Panel Data",
+      "year": 2001,
+      "type": "preprint",
+      "venue": "RePEc: Research Papers in Economics",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Jeffrey M. Wooldridge",
+          "id": "https://openalex.org/A5084771969",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 28292,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 238,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W3121759882",
+      "doi": "10.1086/250042",
+      "title": "Law and Finance",
+      "year": 1998,
+      "type": "article",
+      "venue": "Journal of Political Economy",
+      "venue_issn": "0022-3808",
+      "authors": [
+        {
+          "name": "Rafael La Porta",
+          "id": null,
+          "institutions": [
+            "Harvard University Press"
+          ]
+        },
+        {
+          "name": "Florencio López‐de‐Silanes",
+          "id": "https://openalex.org/A5042883925",
+          "institutions": [
+            "Harvard University Press"
+          ]
+        },
+        {
+          "name": "Andrei Shleifer",
+          "id": "https://openalex.org/A5110890240",
+          "institutions": [
+            "Harvard University Press"
+          ]
+        },
+        {
+          "name": "Robert W. Vishny",
+          "id": "https://openalex.org/A5042883498",
+          "institutions": [
+            "University of Chicago"
+          ]
+        }
+      ],
+      "cited_by_count": 18360,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 37,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2577227262",
+      "doi": "10.1515/9781400829828",
+      "title": "Mostly Harmless Econometrics",
+      "year": 2009,
+      "type": "book",
+      "venue": "Princeton University Press eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Joshua D. Angrist",
+          "id": "https://openalex.org/A5109581806",
+          "institutions": []
+        },
+        {
+          "name": "Jörn‐Steffen Pischke",
+          "id": "https://openalex.org/A5070967809",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 9374,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 173,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W3124131699",
+      "doi": "10.1257/aer.102.6.3077",
+      "title": "The Colonial Origins of Comparative Development: An Empirical Investigation: Reply",
+      "year": 2012,
+      "type": "article",
+      "venue": "American Economic Review",
+      "venue_issn": "0002-8282",
+      "authors": [
+        {
+          "name": "Daron Acemoğlu",
+          "id": "https://openalex.org/A5012301204",
+          "institutions": [
+            "Harvard University Press",
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "name": "Simon Johnson",
+          "id": "https://openalex.org/A5111446264",
+          "institutions": [
+            "Harvard University Press",
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "name": "James A. Robinson",
+          "id": "https://openalex.org/A5014156593",
+          "institutions": [
+            "Harvard University Press"
+          ]
+        }
+      ],
+      "cited_by_count": 6125,
+      "is_oa": true,
+      "oa_pdf": "https://www.aeaweb.org/articles/pdf/doi/10.1257/aer.102.6.3077",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 158,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W3122178585",
+      "doi": "10.1162/rest.90.3.414",
+      "title": "Bootstrap-Based Improvements for Inference with Clustered Errors",
+      "year": 2008,
+      "type": "article",
+      "venue": "The Review of Economics and Statistics",
+      "venue_issn": "0034-6535",
+      "authors": [
+        {
+          "name": "A. Colin Cameron",
+          "id": "https://openalex.org/A5111971842",
+          "institutions": [
+            "University of California, Davis"
+          ]
+        },
+        {
+          "name": "Jonah B. Gelbach",
+          "id": "https://openalex.org/A5048153491",
+          "institutions": [
+            "University of Arizona"
+          ]
+        },
+        {
+          "name": "Douglas L. Miller",
+          "id": "https://openalex.org/A5014518545",
+          "institutions": [
+            "University of California, Davis"
+          ]
+        }
+      ],
+      "cited_by_count": 4238,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 84,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W3123464746",
+      "doi": "10.2307/135687",
+      "title": "Handbook of Labor Economics",
+      "year": 1989,
+      "type": "article",
+      "venue": "Canadian Journal of Economics/Revue canadienne d économique",
+      "venue_issn": "0008-4085",
+      "authors": [
+        {
+          "name": "Alan Harrison",
+          "id": "https://openalex.org/A5108416564",
+          "institutions": []
+        },
+        {
+          "name": "Chris Robinson",
+          "id": "https://openalex.org/A5000648147",
+          "institutions": []
+        },
+        {
+          "name": "Orley Ashenfelter",
+          "id": "https://openalex.org/A5020904647",
+          "institutions": []
+        },
+        {
+          "name": "Richard Layard",
+          "id": "https://openalex.org/A5065459900",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 3174,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W1524911922",
+      "doi": "10.1017/cbo9780511791307",
+      "title": "Institutions and the Path to the Modern Economy",
+      "year": 2006,
+      "type": "book",
+      "venue": "Cambridge University Press eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Avner Greif",
+          "id": "https://openalex.org/A5006515995",
+          "institutions": [
+            "Stanford University"
+          ]
+        }
+      ],
+      "cited_by_count": 2859,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W3125412951",
+      "doi": "10.1162/003355302320935025",
+      "title": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
+      "year": 2002,
+      "type": "article",
+      "venue": "The Quarterly Journal of Economics",
+      "venue_issn": "0033-5533",
+      "authors": [
+        {
+          "name": "Daron Acemoğlu",
+          "id": "https://openalex.org/A5012301204",
+          "institutions": [
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "name": "Simon Johnson",
+          "id": "https://openalex.org/A5111446264",
+          "institutions": [
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "name": "James A. Robinson",
+          "id": "https://openalex.org/A5014156593",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        }
+      ],
+      "cited_by_count": 2760,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 34,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2109417569",
+      "doi": null,
+      "title": "The Constitution of Liberty",
+      "year": 1960,
+      "type": "preprint",
+      "venue": "RePEc: Research Papers in Economics",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Friedrich A. von Hayek",
+          "id": "https://openalex.org/A5010904858",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 2656,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W3021593216",
+      "doi": "10.3386/w8460",
+      "title": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
+      "year": 2001,
+      "type": "report",
+      "venue": "National Bureau of Economic Research",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Daron Acemoğlu",
+          "id": "https://openalex.org/A5012301204",
+          "institutions": [
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "name": "Simon Johnson",
+          "id": "https://openalex.org/A5111446264",
+          "institutions": [
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "name": "Robinson James",
+          "id": "https://openalex.org/A5010371886",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        }
+      ],
+      "cited_by_count": 2539,
+      "is_oa": true,
+      "oa_pdf": "https://doi.org/10.3386/w8460",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 157,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2802691286",
+      "doi": "10.2307/20041465",
+      "title": "The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities",
+      "year": 1982,
+      "type": "article",
+      "venue": "Foreign Affairs",
+      "venue_issn": "0015-7120",
+      "authors": [
+        {
+          "name": "William Diebold",
+          "id": "https://openalex.org/A5108106253",
+          "institutions": []
+        },
+        {
+          "name": "Mancur Olson",
+          "id": "https://openalex.org/A5112267728",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 2343,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2148534039",
+      "doi": "10.1111/j.1542-4774.2010.tb00537.x",
+      "title": "Culture and Institutions: Economic Development in the Regions of Europe",
+      "year": 2010,
+      "type": "article",

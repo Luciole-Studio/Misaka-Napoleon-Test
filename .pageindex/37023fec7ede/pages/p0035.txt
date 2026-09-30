@@ -1,0 +1,11 @@
+diverging importance of communication infrastructure across departments. To miti-
+gate this concern, column (5) controls for “road density,” a measure of a department’s
+average road length per km2 . The results are statistically significant and consistent
+across specifications and therefore further suggest that geography, and more specif-
+ically terrain ruggedness, did affect conscription enforcement costs in Napoleonic
+France.
+
+
+
+
+                                         35

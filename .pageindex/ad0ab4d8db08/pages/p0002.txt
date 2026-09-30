@@ -1,0 +1,33 @@
+
+
+来源文件：`downloads/pages/c829da0ae0b4.md`（"La grande douane impériale"）、`downloads/pages/f8bbb3026c57.md`（"Le blocus continental"）。
+
+- **编制序列**：1801年12,500人 → 1808年25,700 → **1809年27,200** → **1812/1813年35,500** → 1814年23,000。（两页略有差异：一页作"35 500 douaniers en 1812"，另一页作"27 200 en 1809 à 35 500 en 1813"。）
+- **地理**：地区总监(directions régionales) 1800年25个 → **1812年40个**，分四个大区；第四大区含安特卫普、鹿特丹、阿姆斯特丹、格罗宁根、埃姆登、**汉堡、吕讷堡**、韦瑟尔、科隆、美因茨、斯特拉斯堡。另有"纸面总监区"（1807年里斯本从未设立）。
+- **军事协助**：共和十一年霜月16日(1802-12-07)敕令准许省长征调**50名步兵＋20–40名骑兵**的分遣队协助；约**1,300名步兵与220名骑兵**分配于安特卫普、克莱沃、科隆、美因茨、斯特拉斯堡、贝桑松、日内瓦七个总监区，**军人同样分缉获提成**；结论："Séduisante, l'expérience est finalement un échec, **les soldats se faisant fraudeurs**!" 1814年重试同样失败。
+- **1813年军事化**：1813-08-17 达武令以吕讷堡总监区海关人员组建两个800–900人营（后称第2帝国海关团）；另案拟以布洛涅至巴约讷11个总监区的**10,685名préposés**编成19个不等员额营。
+- **许可证费率（法方口径）**：1809年4月起内政部长发证，费**600–800法郎**，并须以现金结出正差；违禁英货投入消费按**价值50%**课税。1810年8月起**皇帝亲自签发**，费率提至**6,000法郎**；皇帝每周过目"tableau des résultats généraux du Commerce par licence"。许可证按港口分三类（1Division安特卫普—洛里昂；2Division南特—巴约讷；3Division阿格德—奥斯蒂亚），各有准出准入货单。
+- **法方关税收入口径（与Heckscher冲突，须并列）**：AHAD称（不含盐税）1807年**77百万** → 1809年**30百万**；1810年**70百万** → 1812年**109.5百万**。Heckscher（印p.197）则给1806=51.2、1807=60.6、1808=18.6、1809=11.6百万，Marion IV净额1808=18.559、1809=11.552。→ **三套数不可混用**；AHAD很可能是毛额（含罚没、许可证费、或含并合地），Heckscher/Marion为法国本部净额。本卡在正文以Heckscher/Marion为主线，AHAD数列为"毛口径上界"。
+- **1810年贸易结构（AHAD转引）**：进口总值385百万中英货47百万（12%）；出口总值377百万中输英39百万（>10%）。另称"英国在法国购买其小麦需求的70%、面粉90%、葡萄酒80%；法国自英购岛屿木材80%、钾碱55%、苏打66%、锡85%"。
+  ⚠️ 该组百分比**无原始出处**，与1810年英国歉收＋许可证放行粮食出口的史实方向一致，但数值未核，**本卡只作"敌对双方在1810年仍是彼此主要贸易伙伴"的定性证据**，不入任何计算。
+
+## C. Ellis 1981《Napoleon's Continental Blockade: The Case of Alsace》（doc 00c8af37e5cf）
+
+**总判（印pp.284–287, PDF284–287）**
+- 传统史学偏重"海的一面"，忽略"陆的一面"；"a closer study of many inland parts of the Napoleonic Empire ... puts the full impact of the Blockade in a rather different light"。
+- 拿破仑的设计是**双重的**：短期"machine de guerre"（自我封锁/抵制），长期"French Continental market design (dessein des marchés)"——以大陆内陆市场替代已失去的海外市场。战前损失的粗略尺度："about a third of France's import and a fifth of her export trade, as registered in the official values current at the end of the old regime."
+- **对本卡S5关税同盟问题的直接裁决（印p.286）**：
+  > "The inherent weakness of the French market design was its deliberate one-sidedness. It was conceived and operated on the principle of 'la France avant tout'. What was envisaged was **not a Continental Zollverein** in which all the resources of the Empire, of the subject and allied states, could be harnessed through reciprocal favours and equitable sacrifices to the common cause of defeating Britain, but rather **a vast 'Uncommon Market' geared to French interests**."
+- 手段清单：封锁敕令、对中立国的粗暴处置、意大利"marché réservé"、与藩属的一系列优惠贸易条约——目的不仅打英国，也**削弱大陆上的竞争者**。
+
+**阿尔萨斯的"封锁周期"两阶段（印pp.288–293）**
+- 上升期 **1807夏—1810夏**：阿尔萨斯商人与制造商"were among the leading beneficiaries of the French Continental market design in its ascendant phase of 1807–10"；受益于受保护的帝国本土市场、优良的粮食收成周期（尤其1809）、莱茵河对岸较有利的出口市场。
+- 斯特拉斯堡商业**1809年夏见顶**，"local clearing facilities were inadequate to handle it efficiently"；**莱茵河常规水运量可能翻倍，个别高峰月份达封锁前年均的四倍**（作者明言"impossible to quantify all of the commercial expansion precisely"，因官方记录残缺且"a lucrative illicit trade went on throughout the period largely unrecorded"）。
+- 斯特拉斯堡是帝国**输出**丝织品、时装品、各类棉品、葡萄酒与烧酒至莱茵邦联的主要集散地，同时是自法兰克福输入**准入殖民品**、经巴伐利亚-符腾堡-巴登输入**黎凡特棉**的主要入口，直至**1811年政府强令改道**。
+- 上莱茵省棉业（尤其米卢斯印花布）**产出可能升三分之一乃至一半**（对照1803–06均值）；机械化获新刺激但就业水平仍高；阿尔萨斯工业产出**约20–25%出口**；扩张资本来自自筹与**巴塞尔瑞士资本的隐名合伙(commanditaires)**。
+- **1810–11危机**：1810年10月更严海关法引发数周"**terreur douanière**"，随后仲冬金融危机；上莱茵工业危机集中于1811年上半年，**产出与就业较1810年平均下跌20–30%**；数十家商号破产。库存在特里亚农税则生效前已订购付款者，即使逃过扣押或没收，也须补缴高税而无法获利售出；政府有时还要求其**出口等值的帝国工业滞销品**为条件。
+- 1811–13"stop-go"；1811年7月后失去黎凡特棉陆路；莱茵对岸购买力下降、农业萧条侵蚀法国出口市场；**唯一扩张的商业分支是对意大利王国的棉品出口**（1810-10-10敕令更严格界定其"marché réservé"），成为上莱茵印花布商的"lifeline"。
+- **最终判词（印p.293）**：
+  > "Alsatian merchants and manufacturers were among those who benefited most of all from the inland orientation of the French economy for much of the Napoleonic period. By the end of the Empire, it seems to me on balance, the Blockade and the market design had done more to **enrich** than impoverish them."
+- **对"走私租金"的定性（印p.291）**：非法贸易（contrebande与fraude）"certainly enriched a good many Alsatians, including very probably some of the most respectable among them"，但其利润"derived from the **evasion of** rather than from the effective working of the Blockade"。
+- **归因纪律（印p.291）**：葡萄酒、烧酒、烟草等英国本非对手的分支，其1807–10扩张应归于"大陆体系"而非"封锁"；军需市场同理。→ **不得把军需与非竞争品的繁荣算进封锁的产业政策效果。**

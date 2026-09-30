@@ -1,0 +1,32 @@
+---
+source_url: "https://doi.org/10.1086/663838"
+final_url: "https://doi.org/10.1086/663838"
+provider: "exa"
+text_sha256: "fae5bc47d83abbeaa7c38be93b20d7ec34e1f0506cd44c79e46a625b75fc55d3"
+title: "\u201cNow the great Man in the Parliament House is dead, we shall have a big Loaf!\u201d Responses to the Assassination of Spencer Perceval"
+content_kind: "page_text"
+---
+
+# “Now the great Man in the Parliament House is dead, we shall have a big Loaf!” Responses to the Assassination of Spencer Perceval
+
+Journal of British Studies. Published: 2012-04-01. 6 citations.
+
+## Authors
+
+- Gordon Pentland (Institute of History and Archaeology): h-index 6; 140 citations; corresponding author
+
+## Topics
+
+- Scottish History and National Identity
+- Irish and British Studies
+- Australian History and Society
+
+---
+
+# Assassination of the Prime Minister: The Shocking Death of Spencer Perceval
+
+## Abstract
+
+A fairly unreflective historical consensus surrounds the assassination of Spencer Perceval, the prime minister, in the lobby of the House of Commons in May 1812. 1 It was the act of a deranged bankrupt acting on the basis of private grievances. While the event might have given rise to some slight flutters in the breasts of the governing elite, it was a sideshow to the main concerns of that busy year: turbulent Westminster politics, a fragile wartime economy, Luddite disturbances, and, of course, the winning of the war. Assassins themselves and their motivations for acting are apt to be marginalized by historians, and the assessment of Simon Maccoby in his synoptic history of radicalism can stand proxy for the consensus on John Bellingham's murder of Perceval: "Nobody pretended, or desired to pretend, that there was the slightest political significance in the assassination, which was the work of one who had long brooded over imagined private grievances." 2 In addition to a reasonably detailed account of the assassination in Perceval's modern biography, there have been two useful narratives of the event itself, but these were less interested in the wider contexts for the murder and its reception than in the drama of the assassination and Bellingham's trial. 3 More specialized work has examined what the affair can reveal about legal
+
+definitions of "insanity," but it does not raise any questions about the political significance of the event. 4 he purpose of this article is to question this apparent consensus and to examine some of the responses to the assassination of Perceval. Such a goal is inspired by recent work that has begun to take seriously that least studied period of the British past (by all but military historians), the years between 1800 and 1815. 5 More particularly, this article is encouraged by some very recent work that has rehabilitated and refurbished an interpretation of 1812 as a year of profound crisis in the British state as it was beset by recession, the challenges of a revived radical platform, the controversy surrounding the Orders in Council, and the threat of Luddism. In recent work by Katrina Navickas and Adrian Randall, the year has been transformed from a footnote into a headline. 6 Finally, it is encouraged by some of the excellent scholarly work that has examined the assassination of the duke of Buckingham by John Felton (another man whose private grievances ostensibly led to his decision to murder a public man and whose example leapt quickly to people's minds in 1812) and its reception. 7 If historians of the seventeenth century have begun to take their assassins seriously, this is perhaps a lesson for those of the nineteenth.

@@ -1,0 +1,29 @@
+
+
+17 See the documents in AN, AF/IV/1122.
+
+18 This correspondence is available at the AN, boxes F/9/150 to 261.
+
+19 More specifically, the body in charge of exempting citizens was called the “Council of recruitment.”
+
+20 See Rouanet and Piano (Reference Rouanet and Piano2020) for an economic analysis of this peculiar feat of France’s military system.
+
+21 We also collected two alternative measures of literacy. One in 1790 and one more directly related to men eligible for conscription in 1831. See Online Appendix D.
+
+22 AN, see boxes F/9/150 through 259.
+
+23 In Online Appendix F.4, we also show that geography influenced the choice of conscription enforcement technology. The gendarmerie employed fewer mounted—as opposed to on foot—brigades in more rugged departments, even though they were more effective at fighting desertion on average. Horses could not operate easily in rugged terrain and therefore lost much of their advantage for enforcing conscription in mountainous regions.
+
+24 This method is described in more detail in Nunn and Puga (Reference Nunn and Puga2012, pp. 21–22).
+
+25 In a similar application, Carter, Shaver, and Wright (Reference Carter, Shaver and Wright2019) find that terrain ruggedness has large direct and indirect effects on a state’s ability to enforce a monopoly of violence over its territory.
+
+26 Hyslop created an index for national identity using the grievances from the local population compiled in preparation for the Estates Generals in 1789. Our national identity variable is described in detail in Online Appendix G.2.
+
+27 Haute-Vienne lies within the Nouvelle-Aquitaine region of France. Its southwestern territories are occupied by the Massif Central, a mountain range covering a large section of southern France.
+
+28 The archival data are from the Archives de Haute-Vienne (hereafter AHV), 1/R/50. They can be found online at https://archives.haute-vienne.fr/rechercher/archives-en-ligne/registres-militaires/registres-militaires-recherche-par-registres (accessed on 1 November 11 2021).
+
+29 To construct each canton’s boundary, we identified each municipality and to which canton it belongs (Texier-Olivier Reference Texier-Olivier1808). We then construct polygons around each municipality whose interior consists of all points closer to any given municipality than any other. Finally, we merged the polygons into cantons.
+
+30 In Online Appendix F.1.2, we adopt two strategies to deal with rugged areas that are unlikely to be relevant to a conscript’s draft evasion choice. First, we recalculate the mean of terrain ruggedness for each department while excluding all land more than 2 km above sea level. Second, we exclude land covered by glaciers and mountainous rocks without any vegetation. We then reproduce the results in Table 1. The results are consistent with those using the natural logarithm of ruggedness and confirm that the inclusion of observations with very high altitudes introduces bias in the analysis, thus further justifying our choice to use the natural log of ruggedness as our main independent variable.

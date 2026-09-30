@@ -1,0 +1,61 @@
+VOL. 101 NO. 7                      ACEMOGLU ET AL.: CONSEQUENCES OF RADICAL REFORM                                         3299
+
+
+
+                                    Table 4—Urbanization in Germany, Controls
+
+                                                   Dependent variable: Urbanization rate west of the Elbe
+
+                            Without                                             Distance     Number         Initial    Arellano-
+                            Mark/                                                  to         of old        urbani-     Bond
+                             Ruhr      Protestant     Latitude    Longitude      Paris      territories     zation      GMM
+                              (1)         (2)           (3)          (4)          (5)           (6)           (7)         (8)
+Years French presence       −0.565      −0.547        −0.600       −0.435      −0.446       −0.531          −0.458
+  × 1750                     [0.281]     [0.308]       [0.356]      [0.244]     [0.278]      [0.294]         [0.267]
+Years French presence       −0.324      −0.336        −0.356       −0.256      −0.244       −0.288          −0.209       0.0520
+  × 1800                     [0.249]     [0.295]       [0.324]      [0.215]     [0.248]      [0.264]         [0.245]    [0.126]
+Years French presence       −0.235      −0.229        −0.261         0.0182    −0.0269      −0.114          −0.136       0.372
+  × 1850                     [0.275]     [0.310]       [0.356]      [0.210]     [0.242]      [0.257]         [0.261]    [0.379]
+Years French presence         0.324       0.353         0.292        0.623        0.561       0.374           0.418
+  × 1875                     [0.324]     [0.312]       [0.374]      [0.250]      [0.271]     [0.305]         [0.284]
+Years French presence         0.552       0.573         0.512        0.893        0.836       0.656           0.650      1.249
+  × 1900                     [0.411]     [0.370]       [0.451]      [0.321]      [0.325]     [0.382]         [0.363]    [0.713]
+Lagged urbanization                                                                                                    −0.955
+                                                                                                                        [1.345]
+
+Observations                   68          74            74           74           74           74             74         35
+Number of states               12          13            13           13           13           13             13         13
+p-value for joint            0.128       0.0705         0.176       0.0791      0.0625       0.0959          0.109      0.0312
+  significance after 1800
+p-value for joint               ·        0.0217         0.414       0.0222      0.0815       0.0267          0.123
+  significance covariates
+
+Notes: All regressions have full set of territory and year dummies. Robust standard errors clustered by territory. All
+regressions are weighted by territories’ total population in 1750. Controls in columns 2–6 (Protestant, latitude, lon-
+gitude, distance to Paris, number of prerevolutionary territories, urbanization in 1750) are included as a full set of
+interactions with time dummies.
+
+
+
+less, and generally positive in value (the coefficient estimates that are not reported
+indicate somewhat faster urbanization growth further to the east).
+   Column 6 investigates the possibility that differential growth across German poli-
+ties in the nineteenth century is driven by the removal of internal borders, which
+followed the reorganization of territories between 1792 and 1815. Some polities,
+such as Württemberg or the Rhineland, resulted from the dissolution and merger of
+dozens of minor territories. To control for the possible effects of these changes, we
+include a set of interactions between the number of prerevolutionary polities and
+post-1800 year dummies. In column 6, these interaction terms (not reported to save
+space) are jointly significant but negative. In any case, the point estimates for the
+effects of French presence are largely unaffected.
+   The presence of negative point estimates for 1750 and 1800 raise a potential con-
+cern that there might be mean-reverting dynamics in the growth of different polities,
+potentially confounding our estimates. To deal with this issue and as an additional
+check for differential trends, in column 7 we include a full set of interactions between
+initial urbanization uj,1750 (1750 is the first date with complete urbanization figures for
+all polities) and the full set of year dummies. This is a flexible (and demanding) way
+of controlling for any mean reversion effects or preexisting trends. Nevertheless, this
+flexible specification has little effect on our estimates. For example, αˆ 1900 is now 0.650
+(standard error 0.362) and the interactions between initial urbanization and the year
+dummies are individually and jointly insignificant. Column 8 explicitly introduces the
+lagged dependent variable on the right-hand side as a more direct check against mean

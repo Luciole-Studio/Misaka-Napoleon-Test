@@ -1,0 +1,58 @@
+---
+source_url: "https://www.english-heritage.org.uk/visit/places/dymchurch-martello-tower/history/"
+final_url: "https://www.english-heritage.org.uk/visit/places/dymchurch-martello-tower/history/"
+sha256: "ab2d0390635e37ae440939c6e76394ec639fa562e8f7b185800de64abe955b5f"
+text_sha256: "2d34efcad6a13922998b873372e9d7d072f5937c420c86109d7d65c0c93f1b59"
+title: "History of Dymchurch Martello Tower | English Heritage"
+---
+
+Title: History of Dymchurch Martello Tower | English Heritage
+
+Your browser is out of date:
+
+You are using an old version of Internet Explorer. It may not display all the features of this and other websites. To improve security and online experience, please use a different browser or
+[update Internet Explorer](http://windows.microsoft.com/en-gb/internet-explorer/download-ie)
+.
+
+Ã—
+
+# [English Heritage](https://www.english-heritage.org.uk/)
+
+-
+- [Basket](https://www.english-heritage.org.uk/commerce/basket/)
+-
+
+- [Visit](https://www.english-heritage.org.uk/visit/)
+
+-
+
+- [Places To Visit](https://www.english-heritage.org.uk/visit/)
+- [Stonehenge](https://www.english-heritage.org.uk/visit/places/stonehenge/)
+- [1066 Battle of Hastings, Abbey and Battlefield](https://www.english-heritage.org.uk/visit/places/1066-battle-of-hastings-abbey-and-battlefield/)
+- [Dover Castle](https://www.english-heritage.org.uk/visit/places/dover-castle/)
+- [Osborne](https://www.english-heritage.org.uk/visit/places/osborne/)
+- [Tintagel Castle](https://www.english-heritage.org.uk/visit/places/tintagel-castle/)
+- [Whitby Abbey](https://www.english-heritage.org.uk/visit/places/whitby-abbey/)
+- [Our gardens](https://www.english-heritage.org.uk/visit/inspire-me/historic-gardens/)
+- [Overseas visitors pass](https://www.english-heritage.org.uk/visit/overseas-visitors/)
+- [Group visits](https://www.english-heritage.org.uk/visit/group-visits/)
+- [Find a place to visit](https://www.english-heritage.org.uk/visit/)
+
+- [What's On](https://www.english-heritage.org.uk/visit/whats-on/)
+- [Family events](https://www.english-heritage.org.uk/visit/whats-on/family-events/)
+- [Members' events](https://www.english-heritage.org.uk/members-area/members-events/)
+- [Events near you](https://www.english-heritage.org.uk/visit/whats-on/)
+- [Autumn](https://www.english-heritage.org.uk/visit/whats-on/autumn-days-out/)
+- [Halloween](https://www.english-heritage.org.uk/halloween/)
+
+- [Family Days out](https://www.english-heritage.org.uk/visit/familydaysout/)
+- [Top 10 family days out](https://www.english-heritage.org.uk/visit/familydaysout/top-10-family-days-out/)
+- [Family property guides](https://www.english-heritage.org.uk/visit/familydaysout/family-property-guides/)
+- [Rainy days out](https://www.english-heritage.org.uk/visit/familydaysout/things-to-do-on-a-rainy-day/)
+
+- [Seasonal Highlights](https://www.english-heritage.org.uk/visit/whats-on/autumn-days-out/)
+- [1066 and the Norman Conquest](https://www.english-heritage.org.uk/learn/histories/1066-and-the-norman-conquest/)
+- [Podcast](https://www.english-heritage.org.uk/visit/inspire-me/podcast/)
+- [Travel guides](https://www.english-heritage.org.uk/visit/inspire-me/travel-guides/)
+- [Dog Friendly places](https://www.english-heritage.org.uk/visit/inspire-me/travel-guides/dog-friendly-properties/)
+- [Inspire me](https://www.english-heritage.org.uk/visit/whats-on/autumn-days-out/)

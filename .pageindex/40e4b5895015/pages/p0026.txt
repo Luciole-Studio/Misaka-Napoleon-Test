@@ -1,0 +1,45 @@
+                         The French revolution and German industrialization 185
+
+specification allows for heterogeneity in the impact of coal production on
+urbanization. Model 1 indicates a positive relationship between coal and the
+urbanization rate. Model 2 offers regional specificity as to where coal had
+an impact on urbanization. Results indicate coal production had a statistically
+significant impact on urbanization for polities in the early industrializer (ei) and
+southwest (sw) group; for ei polities, an increase of 1 million metric tons of coal
+mined was associated with an 0.872 (that is, 0.206 + 0.666) percentage point
+increase in the urbanization rate, while for polities in the sw group a similar
+increase was associated with a 0.912 (that is, 0.206 + 0.706) percentage point
+increase in the urbanization rate.
+   In Models 3 and 4, we report the results from regressions of the
+urbanization rate on an alternate indicator of industrialization – the share of
+total labor employed in agriculture. Model 3 indicates that, unsurprisingly,
+a decline in agricultural employment was associated with an increase in
+the urbanization rate. Model 4 indicates the negative relationship between
+agricultural employment, with the relationship being strongest for the early
+industrializers (ei) (0.897 + 0.618 = 1.515) and the East Elbia (ee) group (0.897).
+Unsurprisingly, the negative relationship between agricultural employment and
+the urbanization rate is weakest for the southwest group, where economic growth
+came relatively late, and reliance on agriculture remained quite strong.
+
+
+6. Economic history as prescription
+Acemoglu, et al. suggest that their work offers convincing evidence that specific
+areas of Germany subjected to ‘radical institutional reforms’ at the hands of
+Napoleon enjoyed rapid and regionally differentiated industrialization after
+1850. Our re-estimation of the ACJR model – corrected for their flawed reform
+vintages – shows nothing of the sort. More seriously, their use of instruments
+to identify the coefficients in their econometric model is flawed. The incorrect
+historical evidence adduced by ACJR, comprising the empirical core of a flawed
+econometric model, offers nothing that should cause historians of German
+industrialization to change their mind.
+   If one believes that urbanization is a plausible proxy for industrialization,
+we offer a straightforward model of German urbanization consisting of three
+explanatory variables: (1) the share of employment in agriculture; (2) the share
+of employment engaged in industry; and (3) coal extraction. We believe our
+account will find resonance with economic historians.
+   Our concerns for the credibility of the ACJR project are heightened by the
+claimed implication for ‘radical institutional change’. The authors summarize
+their work by arguing:
+
+  In this light, our findings support the centrality of institutional differences
+  for comparative economic development . . . .the results are inconsistent with

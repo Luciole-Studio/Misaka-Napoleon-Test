@@ -1,0 +1,125 @@
+---
+source_url: "https://www.austro-hungarian-army.co.uk/oobmar48.htm"
+final_url: "https://www.austro-hungarian-army.co.uk/oobmar48.htm"
+provider: "exa"
+text_sha256: "d24c7de8aab1d0afb44449057b9df21bcec6de261814fdfc71a9b45446d2cc5c"
+title: "Order of Battle in Northern Italy"
+content_kind: "page_text"
+---
+
+Order of Battle in Northern Italy
+
+ Order of Battle in Northern Italy - March 1848
+
+In mid March 1848 prior to the outbreak of hostilities in northern Italy, Feldmarschall Graf Radetzky had at his immediate disposal the following forces of the k.k. Army available in Lombardy and Venetia. [1]
+
+| Unit | Bns | Coys | Sqns | Guns | Location |
+| --- | --- | --- | --- | --- | --- |
+| Armee-Commando | | | | | Milan |
+| Commanding General: Feldmarschall Graf Radetzky | | | | | |
+| Chief of Staff: Oberst Johann Graf Wratislaw | | | | | |
+| Adjutant-General: Feldmarschall-Lieutenant Carl von Schönhals | | | | | |
+| I. Armee-Corps | | | | | Milan |
+| Commandant: Feldmarschall-Lieutenant Eugen Graf Wratislaw | | | | | |
+| Chief of Staff: Oberstlieutenant von Nagy | | | | | |
+| Corps Adjutant: Major von Woyciechowski | | | | | |
+| Division: Feldmarschall-Lieutenant von Weigelsperg | | | | | Staff in Milan |
+| Brigade: General-Major von Maurer | | | | | Staff in Magenta |
+| 1. Bat. Ottočaner Grenz-Reg. Nr. 2 | 1 | | | | Legnago, Busto Arsizio & Surrounding |
+| 1. Bat. Oguliner Grenz-Reg. Nr. 3 | 1 | | | | Magenta, Abbiategrasso & Surrounding |
+| 11. Feld-Jäger-Bataillon | 1 | | | | Cuggiono, Turbigo & Surrounding |
+| 3. Bat. Erzherzog Albrecht Infanterie-Reg. Nr. 44 | 1 | | | | Milan |
+| Brigade: General-Major Samuel Graf Gyulay | | | | | Staff in Milan |
+| 2. Kaiser Jäger-Bataillon | 1 | | | | Milan, Inzago, Trezzo, Vaprio |
+| 3. Kaiser Jäger-Bataillon | 1 | | | | Lodi, St. Angiolo & Surrounding |
+| 4. Kaiser Jäger-Bataillon | 1 | | | | Crema & Surrounding |
+| 3. Bat. Geppert Infranterie-Reg. Nr. 43 | 1 | | | | Lodi, Pizzighettone |
+| 6pf. Cavallerie-Batterie Nr. 1 | | | | 6 | Pavia |
+| Brigade: General-Major Rudolf Graf Schaaffgotsche | | | | | Staff in Milan |
+| Sardinien Huszaren Nr. 5 | | | 8 | | Milan, Magenta, Saronno |
+| 6pf. Cavallerie-Batterie Nr. 3 | | | | 6 | Milan |
+| Division: Feldmarschall-Lieutenant von Wissiak | | | | | Staff in Milan |
+| Brigade: General-Major von Wohlgemuth | | | | | Staff in Milan |
+| 1. & 2. Bat. Kaiser Infanterie-Reg. Nr. 1 | 2 | | | | Milan |
+| 1. & 2. Bat. Paumgartten Infanterie-Reg. Nr. 21 | 2 | | | | Milan |
+| 6pf. Fussbatterie Nr. 2 | | | | 6 | Milan |
+| Brigade: General-Major Graf Clam | | | | | Staff in Milan |
+| 1. & 2. Bat. Reisinger Infanterie-Reg. Nr. 18 | 2 | | | | Milan |
+| 1. & 2. Bat. Gyulay Infanterie-Reg. Nr. 33 | 2 | | | | Pavia |
+| 6pf. Fussbatterie Nr. 1 | | | | 6 | Pavia |
+| Division: Feldmarschall-Lieutenant Carl Fürst Schwarzenberg | | | | | Staff in Brescia |
+| Brigade: General-Major Georg von Schönhals | | | | | Staff in Cremona |
+| 1. & 2. Bat. Erzherzog Albrecht Infanterie-Reg. Nr. 44 | 2 | | | | Cremona |
+| 1. & 2. Bat. Rukawina Infanterie-Reg. Nr. 51 | 2 | | | | Piacenza |
+| 6pf. Fussbatterie Nr. 7 | | | | 6 | Cremona |
+| Brigade: General-Major Erzherzog Sigismund | | | | | Staff in Bergamo |
+| 1. Bat. Szluiner Grenz-Reg. Nr. 4 | 1 | | | | Bergamo |
+| 1. & 2. Bat. Hohenlohe Infanterie-Reg. Nr. 17 | 2 | | | | Brescia |
+| 3. Bat. Haugwitz Infanterie-Reg. Nr. 38 | 1 | | | | Brescia |
+| 1. Bat. Erzherzog Sigismund Infanterie-Reg. Nr. 45 | 1 | | | | Bergamo |
+| 6pf. Fussbatterie Nr. 9 | | | | 6 | Brescia |
+| Division: Feldmarschall-Lieutenant Wocher | | | | | Staff in Milan |
+| Brigade: General-Major Graf Strassoldo | | | | | Staff in Saronno |
+| 1. Bat. Warasdiner Kreuzer Grenz-Reg. Nr. 5 | 1 | | | | Como, Olgiate |
+| 1. Bat. Gradiscaner Grenz-Reg. Nr. 8 | 1 | | | | Gallarate, Somma & Surrounding |
+| 10. Feldjäger-Bataillon | 1 | | | | Varese & Surrounding |
+| 1. & 2. Bat. Prohaska Infanterie-Reg. Nr. 7 | 2 | | | | Barlassina, Cantá, Saronno & Como |
+| 6pf. Fussbatterie Nr. 3 | | | | 6 | Cessano, Maderno |
+| Brigade: General-Major Heinrich Freiherr Rath | | | | | Staff in Milan |
+| 1. & 2. Bat. Geppert Infanterie-Reg. Nr. 43 | 2 | | | | Monza, Lecco, Sondrio & Surrounding |
+| Grenadier-Bat. von Freysauff (IR. 33, 52 & 61) | 1 | | | | Milan |
+| Grenadier-Bat. Freiherr D'Anthon (IR. 38, 43 & 45) | 1 | | | | Milan |
+| 6pf. Fussbatterie Nr. 8 | | | | 6 | Milan |
+| Brigade: General-Major Erzherzog Ernst | | | | | Staff in Lodi |
+| Kaiser-Uhlanen Nr. 4 | | | 6 | | Cremona, Pavia, Piacenza |
+| Bayern-Dragoner | | | 6 | | Lodi, Brescia, Crema |
+| 6pf. Cavallerie-Batterie Nr. 4 | | | | 6 | Lodi |
+| Reserve-Artillerie: | | | | | |
+| 12 pf. Batterie Nr. 1 & Raketen-Batterie Nr. 1 | | | | 12 | Milan |
+| Total of I. Armee-Corps | 35 | | 20 | 66 | Approximately 40,000 men |
+| II. Armee-Corps | | | | | |
+| Commandant: Feldmarschall-Lieutenant Freiherr D'Aspre | | | | | Padua |
+| Chief of Staff: Major von Schmerling | | | | | |
+| Corps Adjuatant: Major Taude | | | | | |
+| Division: Feldmarschall-Lieutenant Graf Wimpffen | | | | | Staff in Padua |
+| Brigade: General-Major Friedrich Fürst Liechtenstein | | | | | Staff in Padua |
+| 1. Bat. Warasdiner St. Georger Grenz-Reg. Nr. 6 | 1 | | | | Ferrara |
+| 1. Bat. Peterwardeiner Grenz-Reg. Nr. 9 | 1 | | | | Venice |
+| 8. Feldjäger-Bataillon | 1 | | | | Rovigo, Este & Polesella |
+| 9. Feldjäger-Bataillon | 1 | | | | Padua |
+| 6pf. Fussbatterie Nr. 4 | | | | 6 | Vicenza |
+| Brigade: General-Major Wilhelm Fürst Taxis | | | | | Staff in Vicenza |
+| 1. & 2. Bat. Piret Infanterie-Reg. Nr. 27 | 2 | | | | Vicenza |
+| 1. & 2. Bat. Erzherzog Franz Carl Infanterie-Reg. Nr. 52 | 2 | | | | Padua |
+| 6pf. Fussbatterie Nr. 4 | | | | 6 | Vicenza |
+| Division: Feldmarschall-Lieutenant Graf Ludolf | | | | | Staff in Treviso |
+| Brigade: General-Major Auer | | | | | Staff in Udine |
+| 1. Bat. Banal-Grenz-Reg. Nr. 10 | 1 | | | | Conegliano, Belluno |
+| 1. Bat. Banal-Grenz-Reg. Nr. 11 | 1 | | | | Bassano, Ceneda, Serravalle |
+| 3. Bat. Zanini Infanterie-Reg. Nr. 16 | 1 | | | | Treviso |
+| 3. Bat. Erzherzog Ferdinand d'Este Infanterie-Reg. Nr. 26 | 1 | | | | Udine, Palmanuova |
+| Brigade: General-Major von Culoz | | | | | Staff in Venice |
+| 3. Bat. Wimpffen Infanterie-Reg. Nr. 13 | 1 | | | | venice |
+| 1. & 2. Bat. Kinsky Infanterie-Reg. Nr. 47 | 2 | | | | Venice |
+| Grenadier-Bat. Angelmayer (IR. 16 & 26) | 1 | | | | Venice |
+| 5. Garnisons-Bataillon | 1 | | | | Venice, Mestre & Chiggia |
+| Division: Feldmarschall-Lieutenant Hannibal Fürst Taxis | | | | | Staff in Verona |
+| Brigade: General-Major Boccalari | | | | | Staff in Verona |
+| 1. & 2. Bat. Erzherzog Franz d'Este Infanterie-Reg. Nr. 32 | 2 | | | | Mantua |
+| 1. & 2. Bat. Haugwitz Infanterie-Reg. Nr. 38 | 2 | | | | Mantua |
+| 6. Garnisons-Bataillon | 1 | | | | Mantua |
+| Pionniere | | 4 | | | Verona |
+| 6pf. Fussbatterie Nr. 5 | | | | 6 | Mantua |
+| Brigade: General-Major Johann Graf Nugent | | | | | Staff in Verona |
+| 1. Bat. Brooder Grenz-Reg. Nr. 7 | 1 | | | | Verona |
+| 3. Bat. Erzherzog Sigismund Infanterie-Reg. Nr. 45 | 1 | | | | Verona, Legnago & Peschiera |
+| 1. & 2. Bat. Erzherzog Ernst Infanterie-Reg. Nr. 48 | 2 | | | | Verona |
+| 6pf. Fussbatterie Nr. 6 | | | | 6 | Verona |
+| Brigade: General-Major Ferdinand Freiherr von Simbschen | | | | | Staff in Verona |
+| Reuss-Huszaren Nr. 7 | | | 8 | | Padua, Parma, Reggio, Rovigo & Mantagnana |
+| Windischgrätz-Chevaulegers Nr. 4 | | | 8 | | Verona, Vicenza, Mantua & Treviso |
+| 6pf. Cavallerie-Batterie Nr. 5 | | | | 6 | Verona |
+| Reserve-Artillerie: | | | | | |
+| 12 pf. Batterie Nr. 2 & Raketen-Batterie Nr. 2 | | | | 12 | Verona |
+| Total of II. Armee-Corps | 26 | 4 | 16 | 42 | Approximately 30,000 men |
+| Grand Total | 61 | 4 | 36 | 108 | Approximately 70,000 men |

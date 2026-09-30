@@ -1,0 +1,44 @@
+Political Economy of Conscription in Napoleonic France 1083
+
+years, the reforms produced the desired effect. By 1812, Napoléon had
+reduced draft dodging rates throughout France drastically. The effects of
+reforms were not limited to draft evasion figures. They left the French
+state stronger and in better control of its territory (Grab 2003, p. 52).
+   Napoléon’s short-run response to the problem of draft evasion has a
+straightforward economic logic.44 A rational response to varying draft
+enforcement costs is to set local conscription rates higher for those depart-
+ments with lower enforcement costs and lower for those with higher
+costs. This strategy has the advantage of reducing the number of draft
+dodgers at the national level (thus raising the effective size of the armed
+forces) at no additional cost. Thus, though the regime may have started
+with the presumption of an equitable administration of the draft, it was
+forced to abandon its principles and practice geographic discrimination
+by the reality of a country as large and diverse as France.
+
+Econometric Analysis
+
+   We now provide empirical evidence for the claim that the Napoleonic
+regime’s de facto draft policy was discriminatory against departments
+with lower conscription enforcement costs. We begin by investigating
+the relationship between a department’s geographic characteristics
+and its nominal conscription rate. We do so by testing the following
+specification:
+
+                 Ci,t = βlog(Ruggedness) + Xi′ + δt + ζi + ϵi,t ,               (2)
+
+where Ci,t is the conscription rate for department i at time t. The conscrip-
+tion rate is defined as the number of men a department is required to draft
+divided by that department’s population of male citizens of conscription
+age. All variables on the right-hand side are defined as in Equation (1).
+   Table 3 reports the results of five OLS specifications. Columns (1)
+through (4) have the same independent variables as in Table 1, except for
+the variable “Exemption rate,” which measures the percentage of men
+considered unfit for military service. Men shorter than 1.48 meters (or
+4.85 feet), the hearing-impaired, and men afflicted by a wide array of
+diseases were exempted from military service. The local population’s
+health was thus a major constraint on conscription efforts. Naturally, we
+should expect the government to draft fewer men in regions with poorer
+overall health conditions.
+  44
+     Online Appendix J develops a simple formal model of discriminatory conscription
+enforcement.

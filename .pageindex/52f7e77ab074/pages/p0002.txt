@@ -1,0 +1,43 @@
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1876-1929</dc:date>
+                    <dc:description>Variante(s) de titre : Figaro. Supplément... du dimanche</dc:description>
+                    <dc:description>Variante(s) de titre : Figaro. Supplément littéraire</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb343599097/date</dc:identifier>
+                    <dc:identifier>NUMP-26390</dc:identifier>
+                    <dc:identifier>ISSN 02233894</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Le Figaro (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb343599097</dc:relation>
+                    <dc:relation>A pour reproduction : Le Figaro. Supplément littéraire du dimanche (Reproduction numérique) = ISSN 2419-7262 (https://gallica.bnf.fr/ark:/12148/cb343599097/date)</dc:relation>
+                    <dc:relation>A pour reproduction : Le Figaro. Supplément littéraire du dimanche (Reproduction numérique) = ISSN 2419-7262 (https://www.retronews.fr/ark:/12148/cb343599097/notice)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JOD-246</dc:source>
+                    <dc:title>Le Figaro. Supplément littéraire du dimanche</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k273150x.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb343599097/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k273150x.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k273150x.medres</medres>
+                <nqamoyen>80.95</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k273150x.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k273150x</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>6</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

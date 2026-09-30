@@ -1,0 +1,444 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+Micronesia (country),FSM,1910,25839
+Micronesia (country),FSM,1911,25972
+Micronesia (country),FSM,1912,26106
+Micronesia (country),FSM,1913,26241
+Micronesia (country),FSM,1914,26377
+Micronesia (country),FSM,1915,26513
+Micronesia (country),FSM,1916,26649
+Micronesia (country),FSM,1917,26787
+Micronesia (country),FSM,1918,26916
+Micronesia (country),FSM,1919,27046
+Micronesia (country),FSM,1920,27177
+Micronesia (country),FSM,1921,27308
+Micronesia (country),FSM,1922,27440
+Micronesia (country),FSM,1923,27573
+Micronesia (country),FSM,1924,27706
+Micronesia (country),FSM,1925,27840
+Micronesia (country),FSM,1926,27974
+Micronesia (country),FSM,1927,28110
+Micronesia (country),FSM,1928,28245
+Micronesia (country),FSM,1929,28382
+Micronesia (country),FSM,1930,28519
+Micronesia (country),FSM,1931,28657
+Micronesia (country),FSM,1932,28795
+Micronesia (country),FSM,1933,28934
+Micronesia (country),FSM,1934,29074
+Micronesia (country),FSM,1935,29214
+Micronesia (country),FSM,1936,29356
+Micronesia (country),FSM,1937,29497
+Micronesia (country),FSM,1938,29640
+Micronesia (country),FSM,1939,29783
+Micronesia (country),FSM,1940,29927
+Micronesia (country),FSM,1941,30071
+Micronesia (country),FSM,1942,30217
+Micronesia (country),FSM,1943,30363
+Micronesia (country),FSM,1944,30509
+Micronesia (country),FSM,1945,30657
+Micronesia (country),FSM,1946,30805
+Micronesia (country),FSM,1947,30954
+Micronesia (country),FSM,1948,31103
+Micronesia (country),FSM,1949,31419
+Micronesia (country),FSM,1950,32128
+Micronesia (country),FSM,1951,33025
+Micronesia (country),FSM,1952,33953
+Micronesia (country),FSM,1953,34935
+Micronesia (country),FSM,1954,35943
+Micronesia (country),FSM,1955,36998
+Micronesia (country),FSM,1956,38101
+Micronesia (country),FSM,1957,39240
+Micronesia (country),FSM,1958,40425
+Micronesia (country),FSM,1959,41683
+Micronesia (country),FSM,1960,43081
+Micronesia (country),FSM,1961,44628
+Micronesia (country),FSM,1962,46239
+Micronesia (country),FSM,1963,47762
+Micronesia (country),FSM,1964,49198
+Micronesia (country),FSM,1965,50701
+Micronesia (country),FSM,1966,52276
+Micronesia (country),FSM,1967,53865
+Micronesia (country),FSM,1968,55480
+Micronesia (country),FSM,1969,57162
+Micronesia (country),FSM,1970,58943
+Micronesia (country),FSM,1971,60655
+Micronesia (country),FSM,1972,62293
+Micronesia (country),FSM,1973,64000
+Micronesia (country),FSM,1974,65763
+Micronesia (country),FSM,1975,67445
+Micronesia (country),FSM,1976,69067
+Micronesia (country),FSM,1977,70774
+Micronesia (country),FSM,1978,72772
+Micronesia (country),FSM,1979,75070
+Micronesia (country),FSM,1980,77421
+Micronesia (country),FSM,1981,79810
+Micronesia (country),FSM,1982,82236
+Micronesia (country),FSM,1983,84698
+Micronesia (country),FSM,1984,87196
+Micronesia (country),FSM,1985,89721
+Micronesia (country),FSM,1986,92275
+Micronesia (country),FSM,1987,94860
+Micronesia (country),FSM,1988,97110
+Micronesia (country),FSM,1989,99018
+Micronesia (country),FSM,1990,100904
+Micronesia (country),FSM,1991,102764
+Micronesia (country),FSM,1992,104823
+Micronesia (country),FSM,1993,107082
+Micronesia (country),FSM,1994,109090
+Micronesia (country),FSM,1995,110244
+Micronesia (country),FSM,1996,110723
+Micronesia (country),FSM,1997,111088
+Micronesia (country),FSM,1998,111394
+Micronesia (country),FSM,1999,111693
+Micronesia (country),FSM,2000,112067
+Micronesia (country),FSM,2001,112378
+Micronesia (country),FSM,2002,112464
+Micronesia (country),FSM,2003,112298
+Micronesia (country),FSM,2004,111939
+Micronesia (country),FSM,2005,111420
+Micronesia (country),FSM,2006,110739
+Micronesia (country),FSM,2007,109896
+Micronesia (country),FSM,2008,108947
+Micronesia (country),FSM,2009,107968
+Micronesia (country),FSM,2010,107559
+Micronesia (country),FSM,2011,107712
+Micronesia (country),FSM,2012,107908
+Micronesia (country),FSM,2013,108133
+Micronesia (country),FSM,2014,108407
+Micronesia (country),FSM,2015,108727
+Micronesia (country),FSM,2016,109088
+Micronesia (country),FSM,2017,109495
+Micronesia (country),FSM,2018,109925
+Micronesia (country),FSM,2019,110293
+Micronesia (country),FSM,2020,110930
+Micronesia (country),FSM,2021,111635
+Micronesia (country),FSM,2022,112122
+Micronesia (country),FSM,2023,112646
+Moldova,MDA,-10000,11216
+Moldova,MDA,-9000,13086
+Moldova,MDA,-8000,15267
+Moldova,MDA,-7000,17811
+Moldova,MDA,-6000,20780
+Moldova,MDA,-5000,24243
+Moldova,MDA,-4000,28284
+Moldova,MDA,-3000,32998
+Moldova,MDA,-2000,38498
+Moldova,MDA,-1000,44914
+Moldova,MDA,0,52400
+Moldova,MDA,100,56143
+Moldova,MDA,200,60153
+Moldova,MDA,300,64450
+Moldova,MDA,400,69053
+Moldova,MDA,500,73986
+Moldova,MDA,600,79271
+Moldova,MDA,700,84933
+Moldova,MDA,800,91000
+Moldova,MDA,900,97500
+Moldova,MDA,1000,104000
+Moldova,MDA,1100,156000
+Moldova,MDA,1200,234000
+Moldova,MDA,1300,234000
+Moldova,MDA,1400,234000
+Moldova,MDA,1500,312000
+Moldova,MDA,1600,390000
+Moldova,MDA,1700,520000
+Moldova,MDA,1710,342854
+Moldova,MDA,1720,371426
+Moldova,MDA,1730,402378
+Moldova,MDA,1740,435909
+Moldova,MDA,1750,472235
+Moldova,MDA,1760,511588
+Moldova,MDA,1770,554220
+Moldova,MDA,1780,600406
+Moldova,MDA,1790,650439
+Moldova,MDA,1800,712558
+Moldova,MDA,1801,712558
+Moldova,MDA,1802,712558
+Moldova,MDA,1803,712558
+Moldova,MDA,1804,712558
+Moldova,MDA,1805,712558
+Moldova,MDA,1806,712558
+Moldova,MDA,1807,712558
+Moldova,MDA,1808,712558
+Moldova,MDA,1809,712558
+Moldova,MDA,1810,712558
+Moldova,MDA,1811,712558
+Moldova,MDA,1812,712558
+Moldova,MDA,1813,712558
+Moldova,MDA,1814,712558
+Moldova,MDA,1815,712558
+Moldova,MDA,1816,712558
+Moldova,MDA,1817,712558
+Moldova,MDA,1818,712558
+Moldova,MDA,1819,713866
+Moldova,MDA,1820,716493
+Moldova,MDA,1821,720453
+Moldova,MDA,1822,725756
+Moldova,MDA,1823,732416
+Moldova,MDA,1824,739137
+Moldova,MDA,1825,745920
+Moldova,MDA,1826,752765
+Moldova,MDA,1827,759673
+Moldova,MDA,1828,766644
+Moldova,MDA,1829,773679
+Moldova,MDA,1830,780779
+Moldova,MDA,1831,787944
+Moldova,MDA,1832,795175
+Moldova,MDA,1833,802472
+Moldova,MDA,1834,809836
+Moldova,MDA,1835,817267
+Moldova,MDA,1836,824767
+Moldova,MDA,1837,832336
+Moldova,MDA,1838,839974
+Moldova,MDA,1839,847682
+Moldova,MDA,1840,855461
+Moldova,MDA,1841,863311
+Moldova,MDA,1842,871233
+Moldova,MDA,1843,879228
+Moldova,MDA,1844,887296
+Moldova,MDA,1845,895439
+Moldova,MDA,1846,903656
+Moldova,MDA,1847,911948
+Moldova,MDA,1848,920317
+Moldova,MDA,1849,928762
+Moldova,MDA,1850,937285
+Moldova,MDA,1851,945951
+Moldova,MDA,1852,954697
+Moldova,MDA,1853,963524
+Moldova,MDA,1854,972433
+Moldova,MDA,1855,981424
+Moldova,MDA,1856,990498
+Moldova,MDA,1857,999656
+Moldova,MDA,1858,1008899
+Moldova,MDA,1859,1018227
+Moldova,MDA,1860,1027641
+Moldova,MDA,1861,1037143
+Moldova,MDA,1862,1046732
+Moldova,MDA,1863,1056410
+Moldova,MDA,1864,1066177
+Moldova,MDA,1865,1076035
+Moldova,MDA,1866,1085984
+Moldova,MDA,1867,1096024
+Moldova,MDA,1868,1106158
+Moldova,MDA,1869,1116385
+Moldova,MDA,1870,1126707
+Moldova,MDA,1871,1137125
+Moldova,MDA,1872,1147638
+Moldova,MDA,1873,1158249
+Moldova,MDA,1874,1168958
+Moldova,MDA,1875,1179766
+Moldova,MDA,1876,1190674
+Moldova,MDA,1877,1201682
+Moldova,MDA,1878,1212793
+Moldova,MDA,1879,1224006
+Moldova,MDA,1880,1235323
+Moldova,MDA,1881,1246744
+Moldova,MDA,1882,1258271
+Moldova,MDA,1883,1269905
+Moldova,MDA,1884,1281646
+Moldova,MDA,1885,1293496
+Moldova,MDA,1886,1305455
+Moldova,MDA,1887,1317525
+Moldova,MDA,1888,1329707
+Moldova,MDA,1889,1342001
+Moldova,MDA,1890,1354408
+Moldova,MDA,1891,1366931
+Moldova,MDA,1892,1379569
+Moldova,MDA,1893,1392324
+Moldova,MDA,1894,1405197
+Moldova,MDA,1895,1418189
+Moldova,MDA,1896,1431301
+Moldova,MDA,1897,1444535
+Moldova,MDA,1898,1457890
+Moldova,MDA,1899,1471369
+Moldova,MDA,1900,1484973
+Moldova,MDA,1901,1498703
+Moldova,MDA,1902,1512559
+Moldova,MDA,1903,1526544
+Moldova,MDA,1904,1540658
+Moldova,MDA,1905,1554902
+Moldova,MDA,1906,1569278
+Moldova,MDA,1907,1583787
+Moldova,MDA,1908,1598430
+Moldova,MDA,1909,1613208
+Moldova,MDA,1910,1628124
+Moldova,MDA,1911,1643177
+Moldova,MDA,1912,1658369
+Moldova,MDA,1913,1673701
+Moldova,MDA,1914,1689176
+Moldova,MDA,1915,1704793
+Moldova,MDA,1916,1720555
+Moldova,MDA,1917,1736462
+Moldova,MDA,1918,1752397
+Moldova,MDA,1919,1768478
+Moldova,MDA,1920,1784707
+Moldova,MDA,1921,1801084
+Moldova,MDA,1922,1817612
+Moldova,MDA,1923,1834292
+Moldova,MDA,1924,1851124
+Moldova,MDA,1925,1868111
+Moldova,MDA,1926,1885254
+Moldova,MDA,1927,1902555
+Moldova,MDA,1928,1920014
+Moldova,MDA,1929,1937633
+Moldova,MDA,1930,1955414
+Moldova,MDA,1931,1973358
+Moldova,MDA,1932,1991467
+Moldova,MDA,1933,2009741
+Moldova,MDA,1934,2028184
+Moldova,MDA,1935,2046796
+Moldova,MDA,1936,2065579
+Moldova,MDA,1937,2084534
+Moldova,MDA,1938,2103663
+Moldova,MDA,1939,2122967
+Moldova,MDA,1940,2142449
+Moldova,MDA,1941,2162109
+Moldova,MDA,1942,2181950
+Moldova,MDA,1943,2201973
+Moldova,MDA,1944,2222179
+Moldova,MDA,1945,2242572
+Moldova,MDA,1946,2263151
+Moldova,MDA,1947,2283919
+Moldova,MDA,1948,2304877
+Moldova,MDA,1949,2333587
+Moldova,MDA,1950,2528365
+Moldova,MDA,1951,2572743
+Moldova,MDA,1952,2619786
+Moldova,MDA,1953,2669507
+Moldova,MDA,1954,2721545
+Moldova,MDA,1955,2775562
+Moldova,MDA,1956,2831241
+Moldova,MDA,1957,2887999
+Moldova,MDA,1958,2944565
+Moldova,MDA,1959,3007366
+Moldova,MDA,1960,3076172
+Moldova,MDA,1961,3143892
+Moldova,MDA,1962,3209509
+Moldova,MDA,1963,3271788
+Moldova,MDA,1964,3330242
+Moldova,MDA,1965,3385972
+Moldova,MDA,1966,3440667
+Moldova,MDA,1967,3494203
+Moldova,MDA,1968,3547087
+Moldova,MDA,1969,3599995
+Moldova,MDA,1970,3643522
+Moldova,MDA,1971,3677928
+Moldova,MDA,1972,3713997
+Moldova,MDA,1973,3752617
+Moldova,MDA,1974,3793852
+Moldova,MDA,1975,3836949
+Moldova,MDA,1976,3881031
+Moldova,MDA,1977,3925587
+Moldova,MDA,1978,3970300
+Moldova,MDA,1979,4010389
+Moldova,MDA,1980,4048713
+Moldova,MDA,1981,4089537
+Moldova,MDA,1982,4130066
+Moldova,MDA,1983,4172081
+Moldova,MDA,1984,4215890
+Moldova,MDA,1985,4261133
+Moldova,MDA,1986,4309371
+Moldova,MDA,1987,4359065
+Moldova,MDA,1988,4407777
+Moldova,MDA,1989,4439386
+Moldova,MDA,1990,4451150
+Moldova,MDA,1991,4456609
+Moldova,MDA,1992,4455714
+Moldova,MDA,1993,4448241
+Moldova,MDA,1994,4434457
+Moldova,MDA,1995,4414216
+Moldova,MDA,1996,4387653
+Moldova,MDA,1997,4355537
+Moldova,MDA,1998,4318713
+Moldova,MDA,1999,4278220
+Moldova,MDA,2000,4234969
+Moldova,MDA,2001,4189769
+Moldova,MDA,2002,4142937
+Moldova,MDA,2003,4095418
+Moldova,MDA,2004,4046672
+Moldova,MDA,2005,3988668
+Moldova,MDA,2006,3921320
+Moldova,MDA,2007,3851397
+Moldova,MDA,2008,3779503
+Moldova,MDA,2009,3706212
+Moldova,MDA,2010,3631990
+Moldova,MDA,2011,3557278
+Moldova,MDA,2012,3482629
+Moldova,MDA,2013,3408741
+Moldova,MDA,2014,3342715
+Moldova,MDA,2015,3287168
+Moldova,MDA,2016,3237798
+Moldova,MDA,2017,3193500
+Moldova,MDA,2018,3153779
+Moldova,MDA,2019,3112561
+Moldova,MDA,2020,3069135
+Moldova,MDA,2021,3023780
+Moldova,MDA,2022,3039986
+Moldova,MDA,2023,3067072
+Monaco,MCO,1800,7789
+Monaco,MCO,1801,7789
+Monaco,MCO,1802,7789
+Monaco,MCO,1803,7789
+Monaco,MCO,1804,7789
+Monaco,MCO,1805,7789
+Monaco,MCO,1806,7789
+Monaco,MCO,1807,7789
+Monaco,MCO,1808,7789
+Monaco,MCO,1809,7789
+Monaco,MCO,1810,7789
+Monaco,MCO,1811,7789
+Monaco,MCO,1812,7789
+Monaco,MCO,1813,7789
+Monaco,MCO,1814,7789
+Monaco,MCO,1815,7789
+Monaco,MCO,1816,7789
+Monaco,MCO,1817,7789
+Monaco,MCO,1818,7789
+Monaco,MCO,1819,7808
+Monaco,MCO,1820,7846
+Monaco,MCO,1821,7903
+Monaco,MCO,1822,7980
+Monaco,MCO,1823,8076
+Monaco,MCO,1824,8174
+Monaco,MCO,1825,8273
+Monaco,MCO,1826,8373
+Monaco,MCO,1827,8475
+Monaco,MCO,1828,8577
+Monaco,MCO,1829,8681
+Monaco,MCO,1830,8786
+Monaco,MCO,1831,8892
+Monaco,MCO,1832,9000
+Monaco,MCO,1833,9109
+Monaco,MCO,1834,9219
+Monaco,MCO,1835,9331
+Monaco,MCO,1836,9444
+Monaco,MCO,1837,9558
+Monaco,MCO,1838,9674
+Monaco,MCO,1839,9791
+Monaco,MCO,1840,9909
+Monaco,MCO,1841,10029
+Monaco,MCO,1842,10151
+Monaco,MCO,1843,10274
+Monaco,MCO,1844,10398
+Monaco,MCO,1845,10524
+Monaco,MCO,1846,10651
+Monaco,MCO,1847,10780
+Monaco,MCO,1848,10910
+Monaco,MCO,1849,11043
+Monaco,MCO,1850,11176
+Monaco,MCO,1851,11322
+Monaco,MCO,1852,11469
+Monaco,MCO,1853,11619
+Monaco,MCO,1854,11770
+Monaco,MCO,1855,11924
+Monaco,MCO,1856,12079
+Monaco,MCO,1857,12236
+Monaco,MCO,1858,12396
+Monaco,MCO,1859,12557
+Monaco,MCO,1860,12721
+Monaco,MCO,1861,12886
+Monaco,MCO,1862,13054
+Monaco,MCO,1863,13224
+Monaco,MCO,1864,13396
+Monaco,MCO,1865,13571
+Monaco,MCO,1866,13747

@@ -1,0 +1,18 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/commons/1812/apr/08/petitions-from-paisley-swansea-and"
+final_url: "https://api.parliament.uk/historic-hansard/commons/1812/apr/08/petitions-from-paisley-swansea-and"
+provider: "exa"
+text_sha256: "2bd77d46144209c426e5260e67042454e32497822ffde30ca9b5de2885942127"
+title: "PETITIONS FROM PAISLEY, SWANSEA AND BIRMINGHAM RESPECTING THE RENEWAL OF THE EAST INDIA COMPANY'S CHARTER. (Hansard, 8 April 1812)"
+content_kind: "page_text"
+---
+
+PETITIONS FROM PAISLEY, SWANSEA AND BIRMINGHAM RESPECTING THE RENEWAL OF THE EAST INDIA COMPANY'S CHARTER. (Hansard, 8 April 1812)
+
+# PETITIONS FROM PAISLEY, SWANSEA AND BIRMINGHAM RESPECTING THE RENEWAL OF THE EAST INDIA COMPANY'S CHARTER.
+
+HC Deb 08 April 1812 vol 22 cc235-9 235
+
+ § A Petition of the manufacturers merchant traders and other inhabitants of the town of Paisley, was presented and read; setting forth, 
+
+ § "That, as the Charter of the East India Company will expire in the course of two years, the Petitioners most respectfully presume to express their sentiments on a subject peculiarly interesting to that populous and manufacturing district of the country, and to the nation in general; 236 and that, in the present depressed slate of the manufactures and commerce of that part of the United Kingdom, every measure of assistance that the House can afford ought, in the Petitioners' humble apprehension, to be manifested and exerted; and they rely, with confidence, that no considerations of a partial nature will be permitted to sacrifice and set aside their most serious and important interests; and that, in order to render such assistance effectual, it is the Petitioners' firm opinion that it is necessary and expedient to discontinue the commercial monopoly of the East India Company, on the expiration of their existing Charter, as thereby new and extensive markets will be opened for reception of British manufactures, which will render this country more independent of all commercial relations with the continent of Europe, and contribute to the increase of the financial resources of the empire; and that the present monopoly of the East India Company affords renewed evidence of the injurious consequences attendant upon exclusive traffic; the capital of the country, which might be beneficially embarked in trade to the East, is locked up, and thousands, who find no employment under the present narrowed system, might be actively engaged in a free and unfettered commerce: the existing monopoly too is attended with this singular and unaccountable peculiarity, that privileges are conceded to, and lucratively enjoyed by, neutral nations, which are absolutely denied to, and rigorously withheld from, the merchants of the British empire; and that the example afforded by the citizens of the United States of America must remove any doubt which can be entertained regarding the competency of British individuals to carry on an extensive commerce to the East Indies, China, and the other countries comprehended in the Charter of the East India Company; and that every port of the United Kingdom ought to be allowed the advantages of foreign trade; and that it would be unjust to confine in future the commerce of the East to the port of London; and praying the House to adopt measures for the abolition of the commercial monopoly of the East India Company, at the expiration of their present Charter." 

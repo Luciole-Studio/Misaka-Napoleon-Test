@@ -1,0 +1,22 @@
+
+
+## 辅助来源（网页/百科/官史，均注明性质）
+- A1 Kenneth Light, "British Naval Involvement in Brazil, 1807-1815", BHSP Newsletter 17 (2022). 缓存 `downloads/pages/86905b266a2b.md`。含1807-10-22公约档号（PRO/FO 94/163）、南美站设立、Carlota-Smith关系、1812 Maldonado备航。
+- A2 葡萄牙军团：en.wikipedia "Portuguese Legion (Napoleonic Wars)"、fr.wikipedia "Légion portugaise"、sgtcoignet.fr（1810-06-15兵力表6,796）、Revista Militar no.105（revistamilitar.pt/artigopdf/105，葡官史口径：9,000人构成、威灵顿军葡占比、280次行动21,141伤亡）——百科与官史口径，正文以多源交叉并标"官史口径"。
+- A3 葡国防部数字档（arquivodigital.defesa.pt，winlibimg 432625）：出走1.5万人口径+"法国拆解葡军"综述——搜索快照转引。
+- A4 e-JPH 14:1 (2016) Iris Kantor, "Seeing the Nation through the Territory"：Maxwell论点与巴西史学史（Pimenta反例外论、Novais、Oliveira Lima、Holanda）。缓存 `downloads/pages/e5f95a4792cd.md`。
+- A5 J.H. Elliott, "Snakes in Paradise", NYRB 2003-11-20（Maxwell书评，"葡萄牙1820先从巴西独立"表述）。缓存 `downloads/pages/ceac076a093d.md`。
+- A6 Sherwig, *Guineas and Gunpowder* 目录与书评（degruyterbrill.com章节目录；jurrga书评：西葡1808–15合计>£19M、总额£66M）——总量口径，逐年表未亲读。
+- A7 Victor Bulmer-Thomas讲稿（sas-space.sas.ac.uk）：1810条约15%无对等、1827接续、1844终止链条。搜索快照。
+- A8 USP博士论文（doi 10.11606/t.12.2017.tde-17082017-091648）：巴西棉占利物浦进口40%（1791–1801）、棉占1800年再出口28%。搜索快照。
+- A9 上一轮 t_c2dbca 卡产物：`nodes/r_b55f2c1cf5/cards/t_c2dbca/c5_iberia_americas.md`（西班牙三终局、美洲juntas机制、海地边界）——本卡§二、§三、§六引其机制结论。
+
+## 已识别未处理（诚实缺口）
+- G1 Valentim Alexandre, *Os Sentidos do Império*（AA md5=47d831c2f0c0b9b8144adc9f3e1c8df0，75.7MB扫描）——未下载OCR；论点经S4/A4转引。
+- G2 António Pedro Vicente 论著（Junot占领研究）——未获全文。
+- G3 J.M. Rubio, *La Infanta Carlota Joaquina y la política de España en América*；José Presas, *Memorias secretas de la Princesa del Brasil*——经Manchester脚注转引，未亲阅。
+- G4 Oliveira Lima, *Dom João VI no Brazil*（权威两卷本，Manchester称"最authoritative"）——未亲阅。
+- G5 1810条约原刊（Os Privilegios da Nação Britannica pp.15–20载D. João 1810-03-07执行敕书）——未亲阅。
+
+## 工具与获取路径备注
+Anna's Archive下载4件（Manchester、Schultz、Maxwell、Pedreira）均经既有会员API、MD5校验通过；本项目此前各卡已按同一惯例取书。EPUB转文本用共享Python zipfile+regex；PDF用pdftotext。所有网页缓存经web_extract存 `downloads/pages/` 并在正文标hash文件名。

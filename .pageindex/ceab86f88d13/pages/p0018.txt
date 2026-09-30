@@ -1,0 +1,45 @@
+GRP : revues JOB : num121⊕xml DIV : 10⊕LevyGarbouaMonnet p. 16 folio : 50 --- 6/4/016 --- 9H17
+
+
+
+
+                                                            REVUE D’ÉCONOMIE FINANCIÈRE
+
+
+
+                                                      ZOOM SUR L’APRÈS-GUERRE
+                         Puisqu’il apparaît que la période des trente-cinq dernières années
+                      tranche à maints égards avec les précédentes, nous allons maintenant
+                      faire un « gros plan » sur la période d’après-guerre, pour laquelle on
+                      dispose en outre de données macroéconomiques plus précises.
+                                                                  La règle de Taylor
+                         On s’intéresse d’abord au taux nominal avec en tête la question
+                      suivante : le niveau des taux s’explique-t-il par une politique moné-
+                      taire contracyclique ?
+                         On simule ce qu’aurait été le taux de la banque centrale si celle-ci avait
+                      suivi une simple règle de Taylor, telle que ce dernier l’a définie dans son
+                      article original de 1993 (Taylor, 1993), c’est-à-dire que le taux nominal de
+                      la banque centrale it dépend du taux d’inflation <t , du taux d’intérêt
+                      d’équilibre et de la déviation de l’inflation et du PIB par rapport à leurs
+                      cibles :
+
+                      où est le taux d’intérêt réel (naturel), yt est le PIB réel, est la cible
+                      d’inflation et le PIB potentiel. Comme dans l’article de Taylor
+                      (1993), nous prenons : a< = ay = 0,5.
+     50                   La cible d’inflation est maintenue fixée à 2 % sur toute la période,
+                      ce qui est une valeur irréaliste et sans doute très sous-estimée pour les
+                      années 1950-1970. Le PIB potentiel est calculé simplement avec un
+                      filtre Hodrick-Prescott.
+                          Enfin, pour la valeur du taux d’intérêt réel naturel, nous fixons deux
+                      valeurs possibles : soit 2 %, comme souvent suggéré dans ce genre
+                      d’étude, soit le taux d’intérêt réel à long terme, tel que calculé précé-
+                      demment. Le graphique 16 présente le résultat de cette simulation et
+                      compare son résultat au taux effectivement constaté.
+                                                             Graphique 16
+                                              Taux de la banque centrale et règle de Taylor
+
+
+
+
+                                      ère
+                      Sources : cf. 1 partie de l’article intitulée « Présentation des données » ; Insee ; calculs des auteurs.

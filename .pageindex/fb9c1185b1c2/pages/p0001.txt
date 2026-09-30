@@ -1,0 +1,57 @@
+Clim. Past, 12, 1361–1374, 2016
+www.clim-past.net/12/1361/2016/
+doi:10.5194/cp-12-1361-2016
+© Author(s) 2016. CC Attribution 3.0 License.
+
+
+
+
+Climatic effects and impacts of the 1815 eruption of Mount
+Tambora in the Czech Lands
+Rudolf Brázdil1,2 , Ladislava Řezníčková1,2 , Hubert Valášek1,3 , Lukáš Dolák1,2 , and Oldřich Kotyza4
+1 Institute of Geography, Masaryk University, Brno, Czech Republic
+2 Global Change Research Institute, Czech Academy of Sciences, Brno, Czech Republic
+3 Moravian Land Archives, Brno, Czech Republic
+4 Regional Museum, Litoměřice, Czech Republic
+
+
+Correspondence to: Rudolf Brázdil (brazdil@sci.muni.cz)
+
+Received: 18 February 2016 – Published in Clim. Past Discuss.: 19 February 2016
+Revised: 1 June 2016 – Accepted: 2 June 2016 – Published: 22 June 2016
+
+
+Abstract. The eruption of Mount Tambora in Indonesia in          and Mao, 1995; Briffa et al., 1998; Robock, 2000; Jones et
+1815 was one of the most powerful of its kind in recorded        al., 2004; Písek and Brázdil, 2006; Timmreck, 2012; Lacis,
+history. This contribution addresses climatic responses to it,   2015; LeGrande and Anchukaitis, 2015). Camuffo and Enzi
+the post-eruption weather, and its impacts on human life in      (1995) studied the occurrence of clouds of volcanic aerosols
+the Czech Lands. The climatic effects are evaluated in terms     in Italy over the past 7 centuries with particular attention to
+of air temperature and precipitation on the basis of long-term   the accompanying effect of “dry fog”. Volcanic cooling ef-
+homogenised series from the Prague-Klementinum and Brno          fects are best expressed in temperature series averaged for a
+meteorological stations, and mean Czech series in the short      large area after significant tropical volcanic eruptions (Sear
+term (1810–1820) and long term (1800–2010). This analysis        et al., 1987; Bradley, 1988; Briffa et al., 1998; Sigl et al.,
+is complemented by other climatic and environmental data         2015). For example, Fischer et al. (2007) analysed winter
+derived from rich documentary evidence. Czech documen-           and summer temperature signals in Europe following 15 ma-
+tary sources make no direct mention of the Tambora erup-         jor tropical volcanic eruptions and found significant summer
+tion, neither do they relate any particular weather phenom-      cooling on a continental scale and somewhat drier condi-
+ena to it, but they record an extremely wet summer for 1815      tions over central Europe. The effects of large tropical vol-
+and an extremely cold summer for 1816 (the “Year With-           canic eruptions on radiative balance manifest themselves not
+out a Summer”) that contributed to bad grain harvests and        only in widespread cooling, but also contribute to large-
+widespread grain price increases in 1817. Possible reasons       scale changes in atmospheric circulation, leading to one or
+for the cold summers in the first decade of the 19th century     two post-volcanic mild winters in the Northern Hemisphere
+reflected in the contemporary press included comets, sunspot     (Robock, 2000). Fischer et al. (2007) associated volcanic ac-
+activity, long-term cooling and finally – as late as 1817 –      tivity with a positive phase in the North Atlantic Oscillation
+earthquakes with volcanic eruptions.                             (NAO), causing stronger westerlies in Europe and wetter pat-
+                                                                 terns in Northern Europe. Literature addressing volcanic ef-
+                                                                 fects on precipitation is more sparse (Gillett et al., 2004). For
+                                                                 example, Wegmann et al. (2014) analysed 14 tropical erup-
+1   Introduction                                                 tions and found an increase of summer precipitation in south-
+                                                                 central Europe and a reduction of the Asian and African sum-
+Violent tropical volcanic eruptions, transporting large quan-    mer monsoons in first post-eruption years. Weaker monsoon
+tities of particles into the lower stratosphere, give rise to    circulations attenuate the northern element of the Hadley
+decreases in temperatures in the troposphere, which cools        cell and influence atmospheric circulation over the Atlantic-
+for 2 or 3 subsequent years in response to strongly en-          European sector, contributing to higher precipitation totals.
+hanced back-scattering of incoming solar radiation (Robock
+
+
+Published by Copernicus Publications on behalf of the European Geosciences Union.

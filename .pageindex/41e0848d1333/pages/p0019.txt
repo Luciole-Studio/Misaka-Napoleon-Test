@@ -1,0 +1,63 @@
+GIS measured distance of 50 km to the border. Figure 5 displays the spatial distribution of the treatment.
+
+                                            Figure 5 about here
+
+In contrast to the the complete sample analysis, it is more natural to define the treatment as a dummy
+
+variable that takes on the value 1 if the region is located on the left side of the border, and 0 otherwise.
+
+I will refer to the first group as the treated and the latter as the untreated. The treated group kept the
+
+Code Civil on average more than 90 years and thus significantly longer than the regions on the right of
+
+the border. Summary Statistics for the border sample are also displayed in Table 1.
+
+                                             Table 4 about here
+
+Table 4 shows the results of the regressions conducted. The first regression includes all border locations,
+
+even those located in Federal States without within state treatment variation. The coefficient of the
+
+treatment border controlling for individual controls is positive and significant on the 1 percent level.
+
+Individuals living in the treated regions, have on average a 0.04 higher level of trust. To be able to include
+
+Federal States fixed effects, I restrict the sample so that only federal states with within variation in the
+
+treatment remain. Consequently I keep only counties located in the territories Rhineland, Westphalia,
+
+Mark, Baden and Wuerttemberg. In column (2) an identical model as in column (1) is regressed, this
+
+time using the restricted sample. The results are comparable in magnitude, although with a coefficient
+
+of 0.05 a bit higher and significant on the 1 percent level. Column (3) to (4) show the robustness of
+
+this result using the other two social capital related questions as outcomes. Column (5) to (7) include
+
+controls for religion, education, economic controls as well as Federal States fixed effects that account for
+
+unobserved heterogeneity on the federal state level. The treatment variable stays positive and significant
+
+for all outcomes. The magnitude of the effect for trust (0.049) is larger then the influence of the personal
+
+controls and religion, but smaller then the effect of education and economic controls. Having applied
+
+the Code Civil results in about 0.1 of a standard deviation higher trust today. When the same model is
+
+regressed using family values as a counterfactual attitude, I do not find a significant difference between
+
+treated and untreated regions. This again supports the peculiar impact of the quality of institutions on
+
+cooperation. In column (9), only the two historical regions Rhineland and Westphalia are compared,
+
+thus excluding Baden, and Wuerttemberg. The exclusion follows the same reasoning as in the complete
+
+sample analysis, as Baden, which did not directly adopt the Code Civil through French occupation,
+
+is dropped. It is a particularly interesting specification as it allows to identify within Prussia effects,
+
+as both, Rhineland and Westphalia were part of Prussia after 1815. In other words, holding all other
+
+
+
+                                                     17

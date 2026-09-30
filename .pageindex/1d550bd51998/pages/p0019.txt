@@ -1,0 +1,48 @@
+where y t represents the dependent variable, in our case the French yields, zt (q 1) is the vector
+
+of covariates, u t is the error term at time t ,  j is the corresponding vector of coefficients and
+
+the indices ( T1 ,..., Tm ) stand for the unknown break points. In this approach, the unknown
+coefficients and the endogenous breakpoints are estimated simultaneously; moreover, this general
+approach allows the coefficients to change while also taking into account potential breaks in the
+variance of the disturbance term provided they occur at the same dates as those in the parameters
+of the regression. The algorithm computes the estimates of the break points based on the
+minimization of the sum of OLS squared residuals segment by segment (Bai and Perron, 2003)
+and convergence of the estimation is obtained under a large set of assumptions (however
+precluding variables with autoregressive unit root), namely different distributions both for the
+regressors and the errors8.
+
+      In testing for multiple potential breaks we use a supF test of no structural break, i.e. m  0 ,
+versus m  k breaks. The choice of the trimming parameter  will determine the minimal length
+h of a segment, i.e.   h / T , with T being the number of observations. Following Bai and
+Perron (1998), first we apply the double maximum tests of the null hypothesis of no structural
+break against an unknown number of breaks, UDmax and WDmax 9 and use their reported critical
+values for   0.05 , 0.10 , 0.15 , 0.20 and 0.25 (with the corresponding maximum number of
+breaks, i.e. 10, 8, 5, 3 and 2 respectively). Then we implement a test for l versus l  1 breaks, i.e.
+sup FT (l  1 l ) , applied to each segment that includes observations from Ti 1 to Ti , i  1,..., l  1 .
+
+The model with l breaks is rejected in favor of a model with l  1 breaks whenever the overall
+minimum value of the sum of squared residuals is larger than the sum of squared residuals of the
+l  1 breaks model. Finally, we use the Bayesian Information Criterion (BIC) and the modified
+Schwartz criterion (LWZ) to select the dimension of the model10.
+
+      The structural break approach has been used in many economic history papers (Guinanne,
+Willard and Rosen, 1996; Brown and Burdekin, 2000; Frey and Kucher, 2001; Weidenmier, 2002;
+Brown and Burdekin, 2002; Oosterlinck, 2003; Frey and Waldenström, 2004; Zussman et al.,
+2007; Flandreau and Oosterlinck, 2011; Oosterlinck and Ureche-Rangau, 2012). Its main
+
+8 Potential serial correlation and/or matrix robust heteroscedasticity are taken into consideration and corrected in
+
+order to obtain consistent estimators.
+    UDmax                                       WD
+9       is an equal weighted test while       max
+                                                  applies weights to the individual tests in order for the marginal p-
+values to be equal across values of
+                                    m  .
+10 In the presence of serial correlation and even when no serial correlation is present in the errors but a lagged
+
+dependent variable, with large coefficient, is present, Bai and Perron suggest using a sequential application of the
+sup FT (l  1 l )
+                    test based on sequential estimates of the breaks.
+
+                                                                                                                   18

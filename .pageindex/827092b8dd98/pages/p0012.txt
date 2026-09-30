@@ -1,0 +1,10 @@
+## Sheet: annuel (continued)
+	A	B	C	D	E	F	G
+
+
+```meta
+▸ merged
+    A1:XFD1 (value at A1)
+▸ styles
+    bg-color: #FFFF00 A1
+```

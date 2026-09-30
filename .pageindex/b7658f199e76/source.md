@@ -1,0 +1,43 @@
+# notes_capacity.md — 美国的战争潜力上限、制造业与禁运经济学
+
+## A. 贸易序列（Pitkin 1835 表，本地 downloads/US_Pitkin_StatisticalView_1835.txt，doc 020d2ce88978）
+行2820–2885 双栏表（“Val. of exp. of dom. origin / Val. of exp. of for. origin”），按年序对应（与OCR残字一并照录）：
+
+| 年 | 本国产品出口 $ | 外国产品（转口）$ |
+|---|---|---|
+|1803|42,205,961|13,594,073|
+|1804|41,46?,477|36,231,597|
+|1805|42,387,002|53,179,019|
+|1806|41,253,727|60,283,234|
+|1807|48,699,592|59,643,558|
+|1808|**9,433,546**|**12,997,414**|
+|1809|31,405,702|20,797,531|
+|1810|42,366,675|24,391,295|
+|1811|45,29?,043|16,022,790|
+|1812|30,032,109|8,495,127|
+|1813|25,008,152|2,847,845|
+|1814|**6,782,272**|**0,145,169**|
+|1815|45,974,403|6,583,350|
+|1816|64,7?1,896|17,138,555|
+
+同页总出口（1807）**108,343,150**（行2792），1806约 66,757,970+…（行2798，逐年总额栏）。
+【互证】Perkins 叙述1806转口“$60 million”↔1806=60,283,234；“peak of nearly $49 million in 1807”↔1807=48,699,592。两个独立渠道一致。
+【判读】禁运年（1808）本国出口降至峰1807的**19.4%**、转口降至**21.8%**；1814封锁年更低（本国13.9%、转口几乎为零）。→ 美国的“中立承运人”职能**可被自己的法律一年内关掉**，也可被英国海军一年内关掉。
+
+## B. 禁运的福利成本（Irwin, NBER WP 8692, 2001，downloads/US_Irwin_embargo_welfare_NBER8692.pdf，doc 9931f09771ed）
+> 摘要（p.2）：“The United States came close to complete autarky in 1808 as a result of a self-imposed embargo on international shipping from December 1807 to March 1809. … A simple general equilibrium calculation suggests that the embargo **cost about 8 percent of America's 1807 GNP**, at a time when the **trade share was about 13 percent** (domestic exports and shipping earnings). The welfare cost was lower than the trade share because the embargo did not completely eliminate trade and **because domestic producers successfully shifted production toward previously imported manufactured goods**.”
+> p.3：“Unlike many trade embargos, this one almost completely eliminated trade and was **not compromised by widespread smuggling**.”
+
+【卡内判读·承重】①美国对“自戒贸易”的痛感为GNP级8%，高但不致命——这解释了禁运能坚持14个月又必然崩潼；②**进口替代是禁运的副产品而非失败**，即封锁经济学在美国端与法国大陆体系同构；③与Irwin“贸易份额13%”对照，美国经济的对外依赖度**远低于**英国，因此美国作为经济武器的“自杀式威胁”可信度比英国的逆向威胁高，但仍不足以压倒英国。
+
+## C. 制造业起点（Perkins 行4821）
+> “Manufacturing developed slowly. **In 1810 there were 269 cotton mills and 153 iron furnaces in the United States, most of them very small.**”同处：1811 科贝特“To American commerce, … now bid adieu, I think forever”，作者评“Cobbett was premature.”
+
+## D. 军事与财政的结构上限（Perkins）
+1. 杰菲逊的炮舰路线（行2650–2660）：“Whereas U.S.S. Constellation had cost more than **$300,000**, a **gunboat cost only $10,000 to $14,000**. Jefferson built hundreds. After 1812 they became a macabre monument to his hasty, ill-digested ideas in a field of which he knew little.”
+2. 1811-11-29 Porter报告（行17170–17180）建议：补足正规军法定额、招三年兵与志愿兵、征调州民兵、装备海军、商船武装。
+3. **海军扩建被否决**（行17405–17425）：Cheves提12艘战列舰+20艘巡航舰；“the House rejected naval building on January 27 [1812] by a vote of **sixty-two to fifty-nine**”，尽管联邦党几乎一致支持。
+4. **陆军招征失败**（注31）：“few more than **1,000 men were enlisted in the army between January and May**”（1812）。
+5. **税收几乎崩盘**（行17570–17610）：盐税（内税组的“linchpin”）先以**57:60**被否，经Gholson改投后以**66:54**恢复；《National Intelligencer》的理由是“the main costs of war would be met through **loans**”。
+
+【卡内判读·承重】**美国的军事潜力不是被人口或财富约束，而是被“共和党人不愿为海军与内税投票”这一政体约束封顶**：它在宣战前四个月内拒给战列舰（差3票）、几乎拒给盐税（差3票）、四个月只招到1,000人。→ 对法国而言，美国是一个**只能提供“分散英国注意力+封锁漏斗+商船运力”、不能提供“第二战场级军事重量”的杆杆**。

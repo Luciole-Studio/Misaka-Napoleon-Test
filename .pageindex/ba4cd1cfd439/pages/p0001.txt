@@ -1,0 +1,18 @@
+---
+source_url: "https://spot.colorado.edu/~shiue/Zoll.pdf"
+final_url: "https://spot.colorado.edu/~shiue/Zoll.pdf"
+provider: "exa"
+text_sha256: "4b0d00a323e4d0385e2f205ac1051de9f18ef933b1a3bd8bdb304333e93016a0"
+title: "Endogenous Formation of Free Trade Agreements: Evidence from the Zollverein\u2019s Impact on Market Integration"
+content_kind: "page_text"
+---
+
+## Endogenous Formation of Free Trade Agreements: Evidence from the Zollverein’s Impact on Market Integration
+
+WOLFGANG KELLER AND CAROL H. SHIUE
+
+The Zollverein was arguably the most important free trade agreement of the QLQHWHHQWK FHQWXU\ $OWKRXJK LV WKH RI¿FLDO GDWH RI WKH Zollverein’s establishment, member states joined in a non-random sequence over several GHFDGHVEHFDXVHWKHEHQH¿WVRIEHFRPLQJDPHPEHULQFUHDVHG ERWKDVWKHVL]H of the union increased, and as membership in the union became increasingly important for accessing foreign markets. We incorporate the endogenous effects of accession into an estimate of the economic impact of the Zollverein customs union. Our estimated effects are several times larger than simple estimates that do not take these effects into account.
+
+T he German Zollverein of 1834 was arguably the most important regional free trade agreement of the nineteenth century. It was the ¿UVW WLPH WKDW SROLWLFDOO\ LQGHSHQGHQW VWDWHV UHPRYHG WUDGH EDUULHUV between themselves and delegated tariff-setting authority to a higher body. Although other treaties can be found, none were as encompassing or long-lived. Jacob Viner (1950, p. 97) called it the “classic example” of a customs union. The importance of the ZollvereinZDVPDJQL¿HG E\ the fact that prior to union, German states had long been divided into an H[WUDRUGLQDU\ QXPEHU RI VPDOO HFRQRPLF ]RQHV WKDW LPSOHPHQWHG WKHLU own tariff collections at the borders. Clearly, this state of affairs made WKLQJVGLI¿FXOWIRUWUDGHUV $OWKRXJKWKHSOHWKRUDRISROLWLHVVKUDQN GXULQJ the Napoleonic wars, before the treaty was signed in 1834, some 300 different administrative political borders remained among German states. 1
+
+The Journal of Economic History, Vol. 74, No. 4 (December 2014). © The Economic History Association. All rights reserved. doi: 10.1017/S0022050714000898. Wolfgang Keller is Professor, Department of Economics, University of Colorado, Boulder, CO, 80309, NBER, CESifo, and CEPR. E-mail: wolfgang.keller@colorado.edu. Carol H. Shiue is Associate Professor, Department of Economics, University of Colorado, Boulder, CO, 80309, NBER, CESifo, and CEPR. We thank Rainer Fremdling, Florian Ploeckl, two referees and the editor, as well as seminar audiences at Berkeley, CEPR ERWIT, the Cliometric Society, Colorado, Harvard, Lund, the NBER, the Philly Fed, and Yale for useful comments. Michael Kopsidis provided us with data. NSF support under grant numbers SES 0453040 and 1124426 is gratefully acknowledged. This paper was written in part while both authors were National Fellows at Hoover Institution, Stanford University, whose hospitality is acknowledged as well. 1 For historical overviews of the Zollverein, see Henderson (1959), Dumke (1976), and Hahn (1984).

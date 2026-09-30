@@ -1,0 +1,32 @@
+
+
+##### 2.2 Politics: from mercantilism to free trade
+
+British trade in the 18th century was still shaped by the Navigation Acts of the late 17th century. These aimed to boost England’s role in international trade. Above all, this came at the expense of the Netherlands by excluding Dutch middlemen from English trade, including that between England and her overseas colonies. Such zero-sum thinking was typical of the mercantilist era, and the consequence was a commercial policy framework tightly linking Britain’s colonies to the metropole (Wilson, 1978; Ormrod, 2003). The period was also characterized by import tariffs and prohibitions while the East India Company held a monopoly on the trade between Britain and India as well as China. The 18th century saw Britain fighting wars in the Americas, Europe, and India, culminating in the American Revolutionary War and the quarter-century struggle against France that only ended in 1815. The period after 1815 was a relatively peaceful one as far as the UK was concerned, despite some notable exceptions such as the Crimean War of the 1850s. Economically, the immediate postwar decades saw a gradual transition away from the mercantilism and protectionism of the previous century. The Corn Laws protecting domestic agriculture were liberalized in 1828 and 1842 and abolished in 1846, while the UK also finally repealed the Navigation Acts in 1849. The East India Company lost its Indian and Chinese trade monopolies in 1813 and 1833, respectively. The loss of the United States in 1783 was a major blow. But the British Empire resumed its expansion in the 19th century in Africa and Asia while settler colonies were consolidated in British North America and established in Oceania. While the empire provided an important market for British manufactured goods, foreign competitors no longer faced mercantilist restrictions on their ability to do business there. Trade with the United States continued to flourish after American independence, further reducing the connection between British exports and the empire.
+
+#### 3 Data
+
+Subsection 3.1 discusses how we constructed our dataset, and subsection 3.2 offers a brief overview of British exports during the period from 1700 to 1899.
+
+##### 3.1 A new British export dataset
+
+Our main contribution is a new, publicly available dataset on the universe of bilateral, 
+commodity-level British exports from 1700 to 1899. All related image files, files used for 
+the raw data entry, and the cleaned and consolidated data used in this paper are available 
+at: https://davidjacks.org/british-trade-data/. The primary sources of the data are the 
+export ledgers compiled by the Customs and Excise Department under various titles from 
+1697 to 1899 (see Appendix A). These were entirely hand-written until the mid-19th 
+century and remained partly hand-written thereafter, thus precluding the use of optical 
+character recognition software. 
+424,551 lines of raw data from over 7,000 pages of ledgers were scanned, digitized, 
+and (painstakingly) cleaned by hand. For our present purposes, we focus our attention on 
+exports of British-produced goods. Our reasons for doing so relate to: (i) concerns over 
+smuggling activity and under-reporting which primarily apply to imports and re-exports; 
+and (ii) potential concerns over market versus official valuations of trade flows which ease 
+considerably earlier in the case of exports than of imports (see below). 
+The original data collection by the British government was used to determine bilateral 
+trade flows for purposes of taxation. By 1697, there was already an extensive set of 
+excises and tariffs in place which provided a significant fraction of central government 
+revenue and which required close observation and detailed accounting of exports and 
+imports of goods in British ports (O’Brien, 1988; Dal Bo et al., 2025). At the same time, 
+an increasingly mercantilist understanding of the role of trade in shaping the domestic 

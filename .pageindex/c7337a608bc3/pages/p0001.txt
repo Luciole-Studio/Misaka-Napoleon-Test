@@ -1,0 +1,22 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/commons/1848/jul/25/colonial-government"
+final_url: "https://api.parliament.uk/historic-hansard/commons/1848/jul/25/colonial-government"
+provider: "exa"
+text_sha256: "068b8d768dbc47e945ad09e9cd54b191f23dbce382f8a5470744f3a6699d230c"
+title: "COLONIAL GOVERNMENT. (Hansard, 25 July 1848)"
+content_kind: "page_text"
+---
+
+COLONIAL GOVERNMENT. (Hansard, 25 July 1848)
+
+Search Help
+
+# COLONIAL GOVERNMENT.
+
+HC Deb 25 July 1848 vol 100 cc816-77 816
+
+§
+
+* Sir, in submitting to the consideration of the House the Motion of which I have given notice, I must entreat the indulgence of the House; for the nature and extent of the subject will compel me to trespass at some length upon its patience. My object is, in the first instance, to call the attention of the House to the amount of the colonial expenditure of the British empire; and in so doing, I shall endeavour to establish the following positions: 1st. That the colonial expenditure can be diminished without detriment to the interests of the empire. 2nd. That the system of colonial policy and government can be so amended, as to ensure more economical, and altogether better, government for the colonies. And, lastly, that by these reforms the resources of the colonies would be developed, they would become more useful, and their inhabitants more attached to the British empire.
+
+In speaking of colonies, I do not intend to include under that term the territories which are governed by the East India Company; but shall confine my remarks to those foreign possessions of the Crown which are under the jurisdiction of the Colonial Office. Notwithstanding this limitation, the colonial empire of Great Britain contains between four and five millions of square miles—an area equal to the whole of Europe and British India added together. Of this vast space, about one million of square miles have been divided into forty different colonies, each with a separate government: four of them are in Europe, five in North America, fifteen in the West Indies, three in South America, five in Africa and its vicinity, three among the Asiatic islands, and five in Australia and New Zealand. The population of these colonies does not exceed 5,000,000: of *From a published Report. 817 this number about 2,500,000 are of European race; of whom about 500,000 are French, about 350,000 are Ionians and Maltese, a few are Dutch or Spaniards, and the remainder, amounting to about 1,600,000, are of English, Irish, or Scotch descent, Of the 2,500,000 inhabitants of the colonies who are not of European race, about 1,400,000 are Cingalese, and other inhabitants of Ceylon, and 1,100,000 are of African origin. In 1844 (the last complete return) the declared value of British produce and manufactures exported to the colonies, amounted to about 9,000,000l. sterling. The whole colonial expenditure of the British empire is about 8,000,000l. sterling a year; one half of which is defrayed by the colonies, and one half by Great Britain. That portion of the colonial expenditure which is defrayed by Great Britain, consists of military, naval, civil, and extraordinary expenditure.

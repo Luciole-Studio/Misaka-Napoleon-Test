@@ -1,0 +1,22 @@
+13
+
+
+
+
+     Legend
+           Country Boundaries
+     Potato Suitability:
+           Ocean
+           Completely suitable: 100%
+           Very suitable: 80-100%
+           Suitable: 60-80%
+           Moderately suitable: 40-60%
+           Marginally suitable: 20-40%
+           Not suitable: 0-20%
+           Completely unsuitable: 0%
+           Inland Water Bodies
+
+
+
+
+                                 Figure 2: Average potato suitability among Old World countries, measured at the grid-cell level.

@@ -1,0 +1,47 @@
+
+
+36 :H KDYH DOVR H[SHULPHQWHG ZLWK DGMXVWLQJ IRU WKH GLIIHUHQW SRSXODWLRQ VL]HV DW WKH VWDWH level; for example, Prussia had more than 10 million inhabitants in the early nineteenth century, compared to about 40,000 in the Free City of Luebeck. Weighing each city-pair observation by average state population in 1816 yields an estimate of –0.052, similar to the unweighted results of –0.005, see Table B, (3).
+
+TABLE 4
+
+ADDITIONAL INSTRUMENTAL VARIABLES RESULTS
+
+| | | | (1) | | | | | (2) | | | | (3) | | | | (4) | | | | (5) | | | | (6) | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | /LEHUDOL]DWLRQ | | | | | No State | | | | | No | | | No City | | | | 1R,QÀXHQWLDO | | | | Sample | | | | |
+| | | 1855–75 | | | | | Capitals | | | | Bavaria | | | | | States | | | Observations | | | | Composition | | | | |
+
+Second Stage &XVWRPV/LEHUDOL]DWLRQ –0.166 –0.041 –0.075 –0.050 –0.048 –0.062 [0.020] [0.017] [0.002] [0.009] [0.003] [0.001]
+
+First Stage 
+Rel. Distance to Coast 0.625 2.220 1.514 1.853 1.911 1.744 
+[0.001] [<.001] [<.001] [<.001] [<.001] [<.001] 
+F-statistic 8.87 46.37 53.51 45.91 54.21 52.52 
+[0.003] [<.001] [<.001] [<.001] [<.001] [<.001] 
+Kleibergen-Paap F-stat 8.87 46.37 53.51 45.91 54.21 52.52 
+OLS –0.035 –0.016 –0.018 –0.014 –0.014 –0.018 
+[0.003] [<.001] [<.001] [<.001] [<.001] [<.001] 
+City-pair Fixed Effects Yes Yes Yes Yes Yes Yes 
+Year Fixed Effects Yes Yes Yes Yes Yes Yes 
+Number of Observations 3,570 3,280 2,164 3,388 3,491 2,551 
+City-pairs 642 575 416 590 642 307 
+No. of clusters 642 575 416 590 642 307 
+Notes: Dependent variable: Absolute value of percentage difference between wheat price in cities j and k; p-values 
+LQSDUHQWKHVHVEDVHGRQFLW\ SDLUFOXVWHUHGVWDQGDUGHUURUV $OOVSHFL¿FDWLRQVLQFOXGHFLW\ SDLUDQGWLPH¿[HGHIIHFWV 
+/LEHUDOL]DWLRQ ± &XVWRPV/LEHUDOL]DWLRQYDULDEOHHTXDOWR IRUDOOFLW\ SDLUVIRUDOOREVHUYDWLRQVIRUWKH\HDUV 
+1855–75. No Bavaria: observation is dropped if city j is Bavarian; No City States: Observation is dropped if city j is 
+DFLW\VWDWHREVHUYDWLRQ 1RLQÀXHQWLDOSRLQWVEDVHGRQ&RRN¶V'LVWDQFH 6DPSOHFRPSRVLWLRQ RQO\FLW\ SDLUVZLWK 
+observations for more than 50 percent of the overall sample period are included. 
+Source: Authors’ calculation. 
+YDOXH EHFDXVHLWLVSULPDULO\LGHQWL¿HGIURPWKHODUJHUFKDQJHVLQSULFH 
+gaps of the early period. 
+Another way of assessing the importance of third-market effects is to 
+consider the state capitals in the sample. State capitals tend to be partic 
+ularly important for inter-state trade, both because they account for a 
+relatively high share of all trade and because they may serve as hubs 
+for smaller cities. In column 2 we drop all observations between state 
+capitals from the sample. This leads to a slightly smaller customs liber 
+DOL]DWLRQHVWLPDWH DW± YHUVXV± 2YHUDOO ZKLOHWKHVHUHVXOWV 
+suggest that including third-market effects can lead to either a higher or 
+lower Zollverein estimate, it is unlikely that our analysis gives a gross 
+overestimate of the impact of customs 

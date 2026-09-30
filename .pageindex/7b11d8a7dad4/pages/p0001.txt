@@ -1,0 +1,46 @@
+---
+source_url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3092985/"
+final_url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3092985/"
+provider: "exa"
+text_sha256: "9c3f5b2d1f855b1e2e5a75efb3ce8a2fffe2d0b0abd59ade143fe67cd7019c96"
+title: "Foreign trade and early industrialisation in the Habsburg Monarchy and the United Kingdom \u2014 Two extremes in comparison - PMC"
+content_kind: "page_text"
+---
+
+Foreign trade and early industrialisation in the Habsburg Monarchy and the United Kingdom — Two extremes in comparison - PMC
+
+Ecol Econ
+
+. 2011 May 15;70(7):1280–1288. doi: 10.1016/j.ecolecon.2010.08.013
+
+# Foreign trade and early industrialisation in the Habsburg Monarchy and the United Kingdom — Two extremes in comparison
+
+1,⁎
+
+- Author information
+- Article notes
+- Copyright and License information
+
+1Institute of Social Ecology, Faculty for Interdisciplinary Studies Vienna, University of Klagenfurt, Austria
+
+⁎
+
+Schottenfeldgasse 29/5, 1070 Vienna, Austria. Tel.: + 43 1 522 4000 418; fax: + 43 1 522 4000 477. simone.gingrich@uni-klu.ac.at
+
+Received 2010 Jan 8; Revised 2010 Aug 5; Accepted 2010 Aug 25.
+
+© 2011 Elsevier B.V.
+
+Open Access under CC BY-NC-ND 3.0 license
+
+PMCID: PMC3092985 PMID: 21760665
+
+## Abstract
+
+The concept of socio–ecological transitions is used to analyse the quantitative importance of physical imports and exports for the Habsburg Empire and the United Kingdom in the 19th and early 20th centuries. For the Habsburg Empire, a new dataset of foreign trade and social metabolism is presented. For the United Kingdom, the analysis relies on previously published data. Foreign trade volumes increased in both countries in the long run. Total trade volumes were much higher in the United Kingdom throughout the entire time period, on average by around a factor four. Physical factors explaining the disparities in structure and volume of foreign trade in the two countries are differences in (1) the temporal patterns of the socio-ecological transition and (2) domestic resource endowments. In both countries, energy carrying materials, i.e. fossil fuels and biomass, were the dominant resources in physical foreign trade. The analysis focuses on the physically most important material groups: coal, wood and cereals, and discusses the role of imports and exports in relation to domestic resource provision and environmental pressures. Physical foreign trade increased at a faster pace than domestic resource extraction and consumption. The socio–ecological transition was thus accompanied by rising international integration of resource supply.
+
+Keywords: Foreign trade, Material and Energy Flow Analysis (MEFA), United Kingdom (UK), Habsburg monarchy, Environmental history, Long-term socio–ecological research (LTSER)
+
+## 1. Introduction
+
+Industrialisation has been described from a materialist perspective as a “socio–ecological transition” (Krausmann et al., 2008b, Fischer-Kowalski and Haberl, 2007), a process of increasing resource use (McNeill, 2000; Krausmann et al., 2009) which is accompanied by a shift from mainly organic materials to increasing amounts of mineral resources. This transition goes along with specific changes in energy use (e.g. Bartoletto and Rubio, 2008; Gales et al., 2007) — again, from mostly organic and renewable to more and more non-renewable energy sources, as well as particular changes in land use (Sieferle et al., 2006; Krausmann, 2001; Kuskova et al., 2008; Erb et al., 2008; Musel, 2009). In many empirical studies on this subject, the role of foreign trade in the transition process is addressed to some extent, usually as proposed within the methodological framework of Material and Energy flow Analysis (see e.g. Schandl et al., 2002; Haberl et al., 2004). Import and export flows are in this framework considered as one of several socio-economic material or energy flows. But the role of foreign trade in the process of the socio-ecological transition as such was not the focal point of these studies.

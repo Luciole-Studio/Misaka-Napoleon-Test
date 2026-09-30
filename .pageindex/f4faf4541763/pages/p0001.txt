@@ -1,0 +1,32 @@
+# notes｜Heckscher 1922《The Continental System》执行机器摘录（doc 1baaae7f3185）
+
+版本与口径：Heckscher, Eli F., *The Continental System: An Economic Interpretation*, ed. Harald Westergaard, Oxford: Clarendon Press, 1922（英译本扫描，本地 `downloads/c15_heckscher1922.pdf`）。
+**页码映射：PDF页 = 印刷页 + 16。**本文件页码一律先印刷页后PDF页。
+Heckscher本人为二手综述，其所引König、Schmidt、Servières、Tarle、Schäfer、Rist、Bourrienne、Mollien、Thiers 等均为**转引**，逐条标注。
+
+## 一、执行机器的规模与"不对称战争"
+
+- 印p.193 / PDF209【转引Mollien, *Mémoires*, vol. III, p. 10】：
+  > "In one passage Mollien speaks of the futility of the efforts of 20,000 customs officials, whose posts were known, to guard a frontier threatened by more than 100,000 smugglers, who were supposed to have good connexions in Paris and were favoured by the population besides."
+  口径警告：20,000 与 100,000 都是Mollien的**修辞性量级**，Heckscher紧接着对6,000一数说"can make no higher claims than those of Mollien to express anything more than a general notion"。→ 不可当编制表或人口普查用；可当**数量级锚点**（执法者 vs 违法者 ≈ 1:5）。
+- 印p.193–194 / PDF209–210【转引Bourrienne】："there were no fewer than 6,000 smugglers in Hamburg alone"。
+- 印p.191 / PDF207：走私地理范围 "from Gothenburg in the north-west around all the coasts of Europe to Saloniki in the south-east, without any great variation in the methods"；巴尔干用200公斤以下小箱由驮畜经波斯尼亚、塞尔维亚、匈牙利运往维也纳。
+- 印p.191 / PDF207："France proper was undoubtedly the most closely guarded country, but even there ... smuggling flourished to a very large extent."
+
+## 二、走私的价格：**执法强度可观测的唯一连续指标**（本卡核心数据）
+
+- 印p.194 / PDF210：
+  > "In Strassburg there were 'insurers' of different grades, the chief of which charged a commission of from 4[0] to 50 per cent.; in 1809 it was considered that the expenses of passing the frontier of France were, as a rule, 30 per cent., while the above-mentioned new customs line between Rees and Bremen could be broken through for 6 or 8 per cent.; and at about the same rate it was possible to smuggle any commodity whatever from Holstein into Hamburg."
+  （OCR"44)to 50"，按上下文读作40–50%；本卡记为"40–50%（OCR存疑）"。）
+- 印p.194 / PDF210：枫丹白露敕令的走私业分层——`entrepreneurs / assureurs / intéressés / chefs de bande, directeurs et conducteurs de réunions de fraudeurs / simples porteurs`，Heckscher评为"a complete hierarchy ranging downwards from the directors of the smuggling enterprises through the capitalists and officials to the unskilled workers"。→ 走私不是偶发越界，是**有保险、有佣金、有分层劳动力的产业**。
+- 印p.195 / PDF211：商品差别——英国工业品"came in on a large scale ... principally yarn"但被各附庸政府以保护主义理由抵制；殖民品则"all people, from the crowned ruler down to the day labourer, were of one mind"，走私"met with nothing but assistance and support"。→ **执行能力对两类禁品完全不同**，是本卡"执行上限"分类的关键。
+
+## 三、腐败：执行机器的内生漏率
+
+- 印p.195 / PDF211（不来梅）：原产地证明书等规费"increased tenfold during the first six quarters after the issue of the Berlin decree"。
+- 印p.196 / PDF212：日内瓦"eighty customs officials had to be dismissed in seven months for complicity in malversation"；莱茵边境"the director of customs and his relations directly helped the illicit trade in the smuggling centre of Strassburg"，"the customs lieutenants on the Rhine lived on bribes when they had no British pension"。
+- 印p.196 / PDF212：拿破仑1811年初估算Bourrienne在汉堡获利"seven or eight million francs"；Bourrienne最终被禁签原产地证明并去职。
+- 印p.203–204 / PDF219–220：拿破仑把贿赂**收归己有**——柯尼斯堡领事Clérembault放行14艘英船（货值2,800,000法郎），一案得800,000法郎、合计1,500,000–1,600,000；皇帝令其向外交部上交，拟令Bourrienne缴2,000,000、Lachevardière缴500,000给偿债基金；Clérembault已先自付500,000入皇帝私库(caisse de l'extraordinaire)。致Champagny 1811-01-01信结语：
+  > "You will see that I shall get the money for a really handsome palace which will cost me nothing."
+  【转引 *Lettres inédites* nos. 733, 748；*Correspondance* no. 17,267】
+- 印p.197 / PDF213：Davout是"very few persons who from the beginning to the end really made the resolute execution of the Continental System the lodestar of all his conduct"，因此在汉堡被称 Marshal "Wuth"（Fury）。→ **严格执行者是稀缺品，且其稀缺性本身是体系的结构特征**。

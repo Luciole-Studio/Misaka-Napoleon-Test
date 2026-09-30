@@ -1,0 +1,21 @@
+
+
+## 现代研究（全文或长段实读）
+- S16 Alexander Grab, *Napoleon and the Transformation of Europe* (Palgrave, 2003)，德意志章与帝国崩溃章：本地全文 `nodes/r_b55f2c1cf5/cards/t_208a11/sources/pages/2ad693d5ac13.md`（上一轮资产；本轮细读行2400–2960、4600–4645）。页码引用按该版页标（pp.88–110, 197–198）。
+- S17 Eli F. Heckscher, *The Continental System* (1922英译)：本地扫描OCR缓存 `downloads/pages/70cc6a857e5f.md`（上一轮t_f81a6f资产）。本轮实读：pp.163–170（1806没收与Brune/汉堡）、pp.183–185（波罗的海改道）、pp.224–232（三重警戒线、法兰克福焚货舞弊、Bacher报告）、pp.253–262（贸易东移、农业邦）、pp.302–308（萨克森/瑞士专节）。OCR页码按页眉复原，容差±1。
+- S18 Charles Schmidt, *Le Grand-duché de Berg (1806–1813)* (Paris: Alcan, 1905)：**本轮下载全文** `downloads/G2_schmidt_berg_1905.txt`（Archive.org件legrandduchdeb00schm，OCR）。实读：pp.380–385（危机与请愿）、附录E/F。Schmidt为AN档案整理者，书中大量注AF IV/F12原档号——档案号为谱系，不假装亲阅原卷。
+- S19 Helmut Berding, "Das Königreich Westphalen als napoleonischer Modell- und Satellitenstaat (1807–1813)"（Vortragsmanuskript，注"2005年刊于会议文集"）：LWL文化门户长段转载，本轮抓取 `downloads/pages/cf0509d983d0.md`。赠地-财政毁灭机制的直接引文出处。其专著*Herrschafts- und Gesellschaftspolitik im Königreich Westfalen*未获全文（source strategy指定项，以作者本人手稿长段+Grab p.101引Berding替代）。
+- S20 Philip Dwyer评Katherine Aaslestad, *Place and Politics*（H-German, 2006-08）：完整书评本地 `downloads/pages/cfca2389fab7.md`（上一轮资产，本轮全文重读）。Aaslestad论点均标"经Dwyer转述"。
+- S21 James M. Brophy评Ute Planert（H-German, 2009-04）：`downloads/pages/a9c217630acd.md`（上一轮资产，经t_7da32d笔记复用）。
+- S22 Acemoglu/Cantoni/Johnson/Robinson, "The Consequences of Radical Reform: The French Revolution", *AER* 101(7), 2011：本地PDF doc 8835f54b20f5（`downloads/c10_acjr2011.pdf`），本轮读pp.3291–3294（Table 1改革日期与指数、回滚句）。
+- S23 Michael Kopsidis & Daniel W. Bromley, "The French revolution and German industrialization", *Journal of Institutional Economics* 12(1), 2016：本地PDF doc 40e4b5895015（`downloads/c10_kopsidis_bromley2016.pdf`），本轮读pp.178–183（煤地质、四经济区、表3人口增长）。
+- S24 Hans Günther Bickert, "Der Aufstands-Dörnberg…", *Zeitschrift des Vereins für hessische Geschichte und Landeskunde* (ZHG) 114：vhghessen.de PDF，本轮经搜索返回读取长段（起义计划、旗帜、纵队规模、Emmerich枪决、选侯3万塔勒条件、Moniteur Westphalien 1809-05-04引文）。
+- S25 Silvia Marzagalli, "Port Cities in the French Wars", *The Northern Mariner* VI(4), 1996：本地 `downloads/c15_marzagalli1996.pdf`（上一轮t_f81a6f资产，经其笔记复用，本卡未重读全文）。
+
+## 三级/网络参考（明示降级使用）
+- S26 de.wikipedia "Bundestag (Rheinbund)"（引Huber, Kotulla）；"Dörnberg-Aufstand"；"Konvention von Artlenburg"；"Louis-Nicolas Davout"；"Liste der Mitgliedstaaten im Rheinbund"（本轮抓取 `downloads/pages/cde736773ad3.md`，配额与入盟日期汇总表）。三级来源，凡承重处均有独立印证或标注存疑（如威国入盟日期4-11存疑已登记）。
+- S27 geschichtsbuch.hamburg.de "Franzosenzeit"（汉堡官方城市史门户）：48M罚金=25M班科马克、30人质、1813-06-08法外敕令、银行7.5M班科没收、逐民令。与Welt 2013-12回顾及S26 Davout条互印（非独立档案验证；档案层为S15谱系中Pehmöller 1814）。
+- S28 seekgo.de "Rheinbund"（维基镜像，引Fehrenbach S.82）：达尔贝格两草案被退、法方专家1807–08新草案、拿破仑终弃强推——**Fehrenbach未亲阅，三级转引已标**。
+- S29 deutsche-schutzgebiete.de "Großherzöge von Mecklenburg-Schwerin"：1806占领、提尔西特因沙皇说项复位、1808-03-22入盟、1812供1,700人、1813-03-14首家退盟、1815-06-17大公号。传记页，承重项（入盟/退盟日期）与S26成员表及Lexikus章互印。
+- S30 homberg-efze.de市史页（Dörnberg起义地方叙述，辅证）。
+

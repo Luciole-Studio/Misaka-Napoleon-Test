@@ -1,0 +1,75 @@
+                             Environ. Res. Lett. 14 (2019) 094019                                                    https://doi.org/10.1088/1748-9326/ab3a10
+
+
+
+
+                             LETTER
+
+                             Disentangling the causes of the 1816 European year without a
+                             summer
+OPEN ACCESS
+
+RECEIVED
+31 May 2019
+                             Andrew P Schurer1 , Gabriele C Hegerl1 , Jürg Luterbacher2 , Stefan Brönnimann3 , Tim Cowan1,4 ,
+REVISED
+25 July 2019
+                             Simon F B Tett1 , Davide Zanchettin5 and Claudia Timmreck6
+                             1
+                                 School of Geosciences, University of Edinburgh, United Kingdom
+ACCEPTED FOR PUBLICATION     2
+9 August 2019                    Department of Geography, Climatology, Climate Dynamics and Climate Change and Centre of International Development and
+                                 Environmental Research, Justus Liebig University Giessen, Giessen, Germany
+PUBLISHED                    3
+18 September 2019
+                                 Oeschger Centre for Climate Change Research and Institute of Geography, University of Bern, Bern, Switzerland
+                             4
+                                 University of Southern Queensland, Toowoomba, Australia
+                             5
+                                 University Ca’ Foscari of Venice, Mestre, Italy
+Original content from this   6
+                                 Max Planck Institute for Meteorology, Hamburg, Germany
+work may be used under
+the terms of the Creative    E-mail: a.schurer@ed.ac.uk
+Commons Attribution 3.0
+licence.                     Keywords: climate event attribution, climate response to volcanic eruptions, European summer climate, the 1815 eruption of Mount
+Any further distribution of Tambora
+this work must maintain
+attribution to the          Supplementary material for this article is available online
+author(s) and the title of
+the work, journal citation
+and DOI.
+                             Abstract
+                             The European summer of 1816 has often been referred to as a ‘year without a summer’ due to
+                             anomalously cold conditions and unusual wetness, which led to widespread famines and agricultural
+                             failures. The cause has often been assumed to be the eruption of Mount Tambora in April 1815,
+                             however this link has not, until now, been proven. Here we apply state-of-the-art event attribution
+                             methods to quantify the contribution by the eruption and random weather variability to this extreme
+                             European summer climate anomaly. By selecting analogue summers that have similar sea-level-
+                             pressure patterns to that observed in 1816 from both observations and unperturbed climate model
+                             simulations, we show that the circulation state can reproduce the precipitation anomaly without
+                             external forcing, but can explain only about a quarter of the anomalously cold conditions. We ﬁnd
+                             that in climate models, including the forcing by the Tambora eruption makes the European cold
+                             anomaly up to 100 times more likely, while the precipitation anomaly became 1.5–3 times as likely,
+                             attributing a large fraction of the observed anomalies to the volcanic forcing. Our study thus
+                             demonstrates how linking regional climate anomalies to large-scale circulation is necessary to
+                             quantitatively interpret and attribute post-eruption variability.
+
+
+
+                             1. Introduction                                                    greatly reduced harvest contributing to the ‘last great
+                                                                                                subsistence crisis in the Western World’ (Post 1977).
+                             Global temperatures were exceptionally low in 1816,                    The eruption of Mount Tambora in Indonesia
+                             and it was probably the coldest year for at least the last         (8 °S, 115 °E) in April 1815 was among the most explo-
+                             250 years (Crowley et al 2014). One of the most                    sive of the last millennium and had an enormous
+                             noticeable impacts was felt in Central and Western                 impact locally, devastating the island of Sumbawa. The
+                             Europe, which had a particularly cold and wet                      eruption injected a huge amount of SO2 into the strato-
+                             summer (Luterbacher and Pﬁster 2015, Brö nnimann                  sphere (Oppenheimer 2003), which would have quickly
+                             and Krämer 2016) with increases in cloud cover                    spread across the globe, oxidising to form sulphate
+                             (Auchmann et al 2012). The summer was so extreme                   aerosols. The effect of volcanic aerosols on the climate
+                             that in Europe and North America it has often been                 have been extensively studied and they have been
+                             described as a ‘year without a summer’. The anom-                  shown to reduce net shortwave radiation causing wide-
+                             alous climate led to considerable societal effects with a          spread long-lasting surface cooling (Robock 2000,
+
+
+                             © 2019 The Author(s). Published by IOP Publishing Ltd

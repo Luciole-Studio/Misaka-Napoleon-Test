@@ -1,0 +1,47 @@
+
+
+【机制·可移植】**镇压—劳动力毁灭悖论**：种植园殖民地的镇压手段直接摧毁其经济目标。镇压越彻底，重建种植园所需的劳动力越少，越需要更大规模的奴隶输入，越加重财政与海运负担。
+【推演·高】这条机制在任何再征服情景下都成立，且**强度随抵抗时间指数上升**。这是A层概率被压到0.08以下的第二根支柱（第一根是§4的生产函数）。
+
+---
+
+## ⑨ 思潮、宗教、民族意识与舆论传播
+
+【锚点】海地的对外意识形态产品有两件，互相矛盾，各有买家：
+- **对内**：反奴隶制的普遍主义与"黑人国家"正统性（1805宪法预2、预14；Vastey《Le système colonial dévoilé》1814，为克里斯托夫政权的官方宣传，PDF见 haiti-now.org 转存；Duke 图书馆藏1814–16年间11种海地印本，原为美国国务院图书馆装订）；
+- **对外**：**帝36条「L'Empereur ne formera jamais aucune entreprise dans la vue de faire des conquêtes ni de troubler la paix et le régime intérieur des colonies étrangères.」** ——宪法级的不输出革命承诺。
+
+【锚点】"圣多明各综合症"：Gomez 提出的概念，经Trani采用——恐惧本身成为独立的政治力量。实测：Roberjot Lartigue 1806-05-26报告（1815年在巴黎出版）称德萨林派密使欲在圣诞夜屠杀马提尼克与瓜德罗普全体居民、焚城、煽动奴隶；丹麦政府据此于1805-10-15颁令禁止圣托马斯与"圣多明各叛乱者"通商，违者没收船货并罚10,000法郎。
+【来源批判·本卡判定】Lartigue的报告在**第二次波旁复辟时出版以自证忠诚**，具强烈自利动机；Trani指出档案中无被捕者名单、无具体人名。→ 本卡把"海地颠覆小安的列斯"列为**白人精英的恐惧表征**，不作为海地已执行的行动；同时承认恐惧本身**产生了真实的政策**（丹麦禁令、马提尼克关闭有色人学校、禁止有色人入境法国本土）。
+
+【锚点】宗教维度的空白：1805宪法帝50–52条不设国教、宗教自由、**国家不供养任何教士**。→ 法国—教廷这条正统性杠杆（在西班牙、意大利、波兰起决定作用，见IT3、SP1、PL卡）**在海地完全无着力点**。海地1804–1860年长期无正式教阶，1860年才与罗马签协约。
+【推演·中】这意味着法国无法用"恢复宗教秩序"包装再征服，只能用"恢复财产秩序"——而后者正是海地全体自由人反对的东西。**法国在加勒比缺少它在欧洲最强的那件软实力工具。**
+
+---
+
+## ⑩ 科技与生产力：甜菜糖这条被忽略的主线
+
+【锚点】1811-03-25帝国法令（另有文献作03-28，**日期口径冲突保留**）：在内政部长掌握的100万法郎基金上开设无限额信贷以鼓励甜菜制糖，**下令播种32,000公顷**甜菜，预告设立制糖学校（*Histoire centennale de la fabrication du sucre de betteraves (1812-1912)*，hdl 1908/3693；另见 Lentacker, *Revue du Nord* 36:142 (1954)）。1812-01-15第二法令：Barruel与Chapelet（Plaine des Vertus）、Wackenheim（Mont-Tonnerre）、Douai、Strasbourg、Castelnaudary五处设制糖化学专科学校，招100名医学与化学学生每人津贴1,000法郎；下令播种100,000公制阿尔庞；**发放500张制糖厂执照**；另建四厂，其中一厂设于兰布依埃王室领地。
+【锚点】实绩：1811年实际只播种**7,000公顷**（远低于32,000），但当年已有**40家工厂**开工；**1813年334家糖厂，产甜菜糖3,500吨**（同上）。
+【锚点·拿破仑本人的怀疑，1811年口授，经 Vaultier「Histoire du sucre」转引于《La guerre des sucres》（hdl 2042/31788）】「**Il est prouvé que le sucre de betterave coûtera toujours le double ou le triple du prix primitif du sucre de canne. D'un autre côté, si le sucre de betterave se vend comme le sucre de canne, n'est-ce pas un grand tort pour le Trésor qui perd le droit d'entrée…**」
+
+【本卡换算】1813年甜菜糖3,500吨 ÷ 1788年法属殖民地糖95,045吨 ＝ **3.7%**。→ 到帝国崩溃时，甜菜**远不能替代**殖民地糖。
+
+【推演·中高｜这是本卡对P5／X3最重要的交付】在**法国胜利**情景下：
+- S2／S5（大陆整固、贸易恢复）：殖民地蔗糖（小安的列斯＋圭亚那＋若得东部圣多明各）以低价回流，**甜菜工业在1815–1825年间大量死亡**（史实中1814–15即已发生一次崩溃）。后果是：**法国本土不会出现1830–40年代那个与殖民地游说集团对抗的甜菜利益集团**。
+- S3（长期强封锁）：反之，甜菜受保护继续扩张，到1830年代可达3–5万吨量级，**本土制糖利益反过来削弱殖民地的政治分量**，法国废奴的经济阻力反而下降。
+- 因此：**"法国越成功地保住殖民地蔗糖，法国废奴来得越晚。"** 本卡给出的法国废奴年份带见§14与§16。
+
+【锚点·技术的另一半】大西洋对岸的技术升级在1830年代到来：古巴Diago兄弟引入真空煮糖器、动物骨炭过滤、1850年代初离心机；1847年Francisco Diago首用华工（*Business History Review* 论文注86）。→ **即使法国回到加勒比，1840年代的糖业竞争是资本—技术竞争，不是劳动力数量竞争。**
+
+---
+
+## ⑪ 生态与人口：黄热病作为可调节的变量
+
+【锚点｜David Geggus, "Yellow fever in the 1790s: the British army in occupied Saint Domingue," *Medical History* 23:1 (1979) 38–58；本地 `downloads/HT_Geggus1979_YellowFever.pdf`（doc be75a912fa61），据 PRO WO 17 团／要塞报表、ADM 102 海军医院统计】
+- **印本p.48（PDF p.11）**：「In five years, **out of 20,200 British troops sent to Saint Domingue, about 12,700 lost their lives** and nearly 1,500 had to be sent home as invalids. Probably another 1,000 died on their way there, mainly of typhus in Ireland. Naval hospital statistics suggest some **2,500 seamen** also perished.」
+- 1794-06至09全军月均死亡率约**10%／月**；第22团九月起八周内损失六成。
+- 1796年5–9月每月逾600人死亡；英政府向议会报称至1796-09底死7,530人，Fortescue认为应加倍，Geggus判「**9,000 is nearer to the truth**」。
+- **1797年转折**：5月四分之一病员时死亡率仍"只有"2.5%／月；第67团6/7/8月分别 **2.7%、2.6%、4.2%**；1798年7月撤离时2,100名幸存者全是 seasoned men。
+- **印本p.58（PDF p.21）**：「Between 1803 and 1836, **the mortality rate among white troops [in Jamaica] averaged about thirteen per cent per annum and never fell in any year below six per cent**」；疫年1808、1819、1822、1825、1827升至17–30%。山区营房（Stony Hill、Maroon Town）降低死亡。
+- Geggus的机制结论：1770–80年代加勒比黄热病转为地方性，白人中本地出生／久居的免疫者比例上升；1790年代战争**把大量非免疫人口密集投入港口**才造成大流行；而**废除奴隶贸易切断了与西非的经常接触，19世纪人群免疫比例反而可能下降**。

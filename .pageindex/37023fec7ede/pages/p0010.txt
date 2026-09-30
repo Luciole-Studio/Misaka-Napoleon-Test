@@ -1,0 +1,28 @@
+     Wood workers             Archives   de   Haute-Vienne,   This variable measures the portion of young men in the
+                              1/R/50.                         1807 Haute-Vienne cohort whose occupations were (in
+                                                              French): Scieur de long, Sabotier, Menuisier, Charpentier,
+                                                              Chaisier, Aprentit Charpentier, Charron, Charon,
+                                                              Chabonnier.
+     Leather and textile      Archives   de   Haute-Vienne,   This variable measures the portion of young men in the
+     workers                  1/R/50.                         1807 Haute-Vienne cohort whose occupations were (in
+                                                              French): Tisserand, Tanneur, Tailleur d’habits, Tailleur,
+                                                              Perruquier, Pelassier, Cardeur, Bonnetier, Cordonnier,
+                                                              Chapelier, Arsonnier, Sellier.
+     Glass and metal work-    Archives   de   Haute-Vienne,   This variable measures the portion of young men in the
+     ers                      1/R/50.                         1807 Haute-Vienne cohort whose occupations were (in
+                                                              French): Chaudronnier, Cloutier, Epinglier, Forgeron,
+                                                              Marechal, Orfèvre, Peintre en porcelaine, Porcelainier,
+10
+                                                              Serrurier, Verrier, Taillandier.
+     Height                   Archives   de   Haute-Vienne,   This variable measures the height, in cm, of young men in
+                              1/R/50.                         the 1807 Haute-Vienne cohort.
+     Desertion rate (before   Archives   de   Haute-Vienne,   The desertion rate is defined as:
+     leaving for unit)        1/R/50.                         Desertion rate (before leaving for unit) = (Number of
+                                                              Deserters (before leaving for unit) )*100 / (Conscript
+                                                              incorporated in the army + Desertion rate (before leaving
+                                                              for unit)).
+     Desertion rate (after    Archives   de   Haute-Vienne,   The desertion rate is defined as:
+     leaving for unit)        1/R/50.                         Desertion rate (after leaving for unit) = (Number of
+                                                              Deserters (after leaving for unit) )*100 / (Conscript
+                                                              incorporated in the army + Desertion rate (after leaving
+                                                              for unit)).

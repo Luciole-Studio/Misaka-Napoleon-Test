@@ -1,0 +1,40 @@
+---
+source_url: "https://www.napoleon-series.org/research/government/diplomatic/c_spain.html"
+final_url: "https://www.napoleon-series.org/research/government/diplomatic/c_spain.html"
+provider: "exa"
+text_sha256: "882f57922b9533b0ea716588b1535b93422658cc3eb8c18b40d2350937db4fca"
+title: "Documents upon the Overthrow of the Spanish Monarchy 1807"
+content_kind: "page_text"
+---
+
+Documents upon the Overthrow of the Spanish Monarchy 1807
+
+## Documents upon the Overthrow of the Spanish Monarchy.
+
+> The first of these documents shows the manner in which Napoleon secured the military position in Spain which enabled him to dictate terms to the Spanish king and heir apparent. Document B shows the terms forced upon the King. A similar agreement was also forced upon the heir apparent. In both documents B and C there is something shown in regard to the manner in which the transaction was effected and officially justified.
+
+### A. Convention of Fontainebleau. October 27, 1807.
+
+De Clercq, Traites, II, 235-236.
+
+The provinces between the Minho and the Duero, with the city of Oporto, shall be given in full ownership and sovereignty to His Majesty the King of Etruria, under the title of King of Northern Lusitania.
+
+The Province of Alemte and the Kingdom of Algarve shall be given in full ownership and sovereignty to the Prince of the Peace, to be enjoyed under the title of Prince of Algarve.
+
+The Provinces of Beira, Tras-os-Montes, and Portuguese Estremadura, shall remain in trust until the general peace, to be disposed of then according to circumstances, and according to what shall be agreed upon between the 2 High Contracting Parties.
+
+His Majesty the King of Etruria cedes in complete ownership and sovereignty the Kingdom of Etruria to His Majesty the Emperor of the French, King of Italy.
+
+His Majesty the Emperor of the French, King of Italy, guarantees to His Majesty the King of Spain the possession of his States on the Continent of Europe situated to the south of the Pyrenees.
+
+His Majesty the Emperor of the French, King of Italy, agrees to recognize and to cause to be recognized His Majesty the King of Spain as Emperor of the Two Americas, when everything shall be prepared so that His Most Catholic Majesty can take that title, which shall be at the general peace or at the latest within three years.
+
+The two High Contracting Parties shall agree to make an equal partition of the islands, colonies and other beyond-the-sea possessions of Portugal.
+
+The present convention shall remain secret; it shall be ratified and the ratifications thereof shall be exchanged at Madrid at the latest twenty days after the signing.
+
+### B. Convention with Charles IV. May 5, 1808.
+
+De Clercq, Traites, II, 246-248.
+
+Napoleon, Emperor of the French, King of Italy, Protector of the Confederation of the Rhine, and Charles IV, King of Spain and the Indies, animated by an equal desire to promptly put an end to the anarchy to which Spain is a prey and to save that valiant nation from the agitations of factions, wishing to spare it all the convulsions of civil and foreign war and to place it without disturbances in the only position which, tinder the extraordinary circumstances in which it finds itself, can preserve its integrity, guarantee it its colonies and enable it also to unite all its means with those of France in order to obtain a maritime peace, have resolved to unite all their efforts and to regulate in a special convention such precious interests . . .

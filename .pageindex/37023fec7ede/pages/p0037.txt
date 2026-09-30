@@ -1,0 +1,44 @@
+the infantry or cavalry) from each departments went to the 3 main war theaters:
+
+   • About 40.6% of the infantry conscripts were sent to Spain.
+
+   • About 16.9% of the infantry conscripts were sent to Italy.5
+
+   • About 40.1% of the infantry conscripts were sent to Germany (including today’s
+     Belgium).
+
+   • About 2.4% of the infantry conscripts were allocated to other minor regions
+     (defense of the atlantic coast etc.)
+
+     To come up with this measure, we cross-referenced the data included in the
+“Etats des départemens Qui doivent fournir les Conscrits de 1810 et des Corps qui
+les recoivent” (AF/IV/1124) with data about the location of each of the 68 cavalry
+and 125 infantry regiments in activity at the time given in Pascal (1864).6
+     We first show that the allocation of soldiers was not random. Departments clas-
+sified as belonging to Groups 1 or 2 by Lacuée in 1809 were more likely to be sent
+to Germany and less likely to be sent to either Spain or Italy. As Morgan (1994,
+p.2) puts it, “The French Ministry of War organized the new Armée d’Espagne with
+younger and more green conscripts as well as more allied contingents so as to main-
+tain the strength of the Grande Armée in Germany, and the Armée d’Italie.”
+     Table 21 reports the results of 6 OLS regressions where the dependent variables
+(“Rhine,” “Spain” and “Italy”) are the percentage of conscripts from the 1810 cohort
+(drafted in 1808) from a given department sent to the German, Spanish, or Italian
+front respectively. The dependent variables are dummies for whether a department
+was considered by the regime as among the best for conscription (first class), rela-
+tively good (second class), average (third class) or relatively bad (fourth class). The
+worst departments (fifth class) for conscription are omitted and are therefore used
+as a benchmark. Finally, column (2), (4) and (6) had a dummy variable for whether
+a department is adjacent to the German/Belgian border, the Spanish border, or the
+Italian border.
+     The results, shown graphically in figure 9, indicate that the allocation of soldiers
+was not random: departments classified as worse for conscription by the authorities
+were less likely to have their conscripts sent to Germany and more likely to have them
+sent to Italy or Spain. Conscripts in the first and second class departments were more
+than twice as likely to be sent to Germany than conscripts in other departments.
+   5
+       This includes Illyria and the Ionian islands.
+   6
+       Information about artillery and special forces is missing in Pascal (1864).
+
+
+                                                  37

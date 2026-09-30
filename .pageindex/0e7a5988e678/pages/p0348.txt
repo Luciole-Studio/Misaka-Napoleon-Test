@@ -1,0 +1,99 @@
+
+
+
+COINS. 
+
+Accounts  are  kept  at  Bombay  in  rupees,  quarters,  and  rcas.  The  following  is  a list  of  the  currciit 
+
+coins,  with  their  sterling  value,  estimating  the  Bombay  rupee  at  2s.  6d.  sterling.  ^ ^ ^ ^ 
+
+
+2 Reas 
+
+4 Reas 
+
+6 Reas,  or  3 urdees 
+8 Reas,  or  4 urdees 
+3J  Fuddeas,  or  pice 
+I2i  Pice,  or  4 annas 
+25  Pice,  or  8 annas 
+50  Pice,  or  16  annas 
+
+5 Rupees 
+
+S Pauncheas,  or  15  rupees 
+
+
+> make  < 
+
+
+1 Urdee 
+
+
+0 0 0 0 
+
+
+Doogany,  or  single  pice^%v..O  0 0 1 
+
+Doreea  0 0 0 1 
+
+Fuddea,  or  double  pice^^O  0 0 2 
+
+Anna-*K%^'v^%— ^0  0 13 
+
+Quarter  Rupee-^^  0 0 7 2 
+
+Half  Rupee  ^0  1 3 
+
+Rupee  2 0 
+
+Paunchea  12  6 
+
+Gold  mobur  17  6 
+
+
+60 
+
+20 
+
+80 
+
+40 
+
+50 
+
+
+m 
+
+
+BOMBAY. 
+
+
+limarks  on  the  Coins  of  Bombay, 
+
+Silver.— Tho  old  Bombay  rupee  is  the  same  as  was  coined  at  Surat  uifder  the  Mogul  Government 
+It  weighed  178,314  grains,  and  contained  1,24  percent,  of  alloy.  By  an  ancient  agreement  with  the 
+Nabob  of  Surat,  the  rupee  of  both  Oovernments  was  to  circulate  through  both  at  an  equal  value  ; while 
+they  mutually  pledged  themselves  to  keep  up  the  coin  to  its  exact  standard  of  weight  and  fineness.  The 
+Nabob,  however,  did  not  keep  to  this  agreement ; for  hb  rupees  were  found  soon  afterwards  to  contain, 
+instead  of  1,24  per  cent,  of  alloy,  no  less  than  10,12,  and  even  15  per  cent  The  consequence  of  this 
+was,  that  all  the  Bombay  rupees  were  carried  to  Surat  to  be  recoined.  This  mint  was  entirely  stopped  in 
+its  silver  coinage  for  more  than  twenty  years,  and  the  circulation  of  silver  was  occupied  by  the  Surat  rupee. 
+
+In  this  situation  of  tilings  tlie  merchants  could  not  afford  to  coin  their  bullion  here,  and  therefore 
+Bombay  was  long  without  a silver  coinage  of  its  own ; when  Government  in  1800  ordered  the  Surat 
+rupee  to  be  struck  in  this  mint,  and  since  that  time  the  rupee  has  been  kept  at  an  equal  value  in  both 
+mints.  In  both  the  silver  rupee  weighs  179  grains,  and  contains  7,97  per  cent  of  alloy. 
+
+Gold. — In  the  year  1774  the  gold  mohur  was  made  of  the  same  weight  as  the  silver  rupee.  It  was 
+ordered  to  be  of  the  fineness  of  a Venetian,  and  to  pass  for  15  silver  rupees.  In  this  coinage,  therefore, 
+14,9  grains  of  silver  represented  one  grain  of  gold,  for  such  is  the  proportion  between  tlie  quantity  of 
+gold  in  thb  gold  mohur,  and  the  silver  in  15  old  Bombay  rupees.  When  the  Surat  silver  currency  had 
+occupied  the  circulation,  this  proportion  between  gold  and  silver  was  quite  destroyed ; so  that  gold  coined 
+according  to  the  regulation  of  1774,  was  now  exchanged  for  no  more  than  thirteen  times  its  weight  in 
+silver,  and  often  fdr  much  less. 
+
+In  order  to  reitiedy  thb,  and  to  bring  back  the  coins  of  gold  and  silver  to  nearly  their  ancient  pro- 
+portions, and  their  relative  value  in  the  market,  it  was  ordered  in  1800,  that  the  gold  mohur  should  be  of 
+the  same  weight  as  the  silver  rupee,  that  it  should  contain  the  same  quantity  of  alloy,  and  that  it  should 
+pass  for  15  rupees.  At  present,  therefore,  in  the  Bombay  coins,  15  grains  of  silver  represent  one  of  gold* 

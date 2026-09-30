@@ -1,0 +1,27 @@
+                                      Table 3: Country-level difference-in-differences estimates, controlling for other factors.
+                                        (1)          (2)           (3)           (4)          (5)          (6)            (7)           (8)            (9)          (10)         (11)        (12)
+                                                                     ln Population                                                                     Population growth
+     Potato x Post                     1.364        1.363         1.350         1.059       1.347         1.255          0.804         0.804          0.819         0.768        0.797       0.745
+                                      (0.306)      (0.310)       (0.305)       (0.229)     (0.305)       (0.319)        (0.147)       (0.149)        (0.148)       (0.152)      (0.147)     (0.149)
+
+     Controls x century FEs             N             Y            N             N            N             N              N             Y             N             N            N           N
+     Roman history x Post               N             N            Y             N            N             N              N             N             Y             N            N           N
+     Pop growth 1000-1400 x Post        N             N            N             Y            N             N              N             N             N             Y            N           N
+     Distance to sea x Post             N             N            N             N            Y             N              N             N             N             N            Y           N
+     Slave exports                      N             N            N             N            N             Y              N             N             N             N            N           Y
+
+     Observations                      922           922          922           910          922           922            790          790            790           780          790         790
+28
+                                                                City population share                                                           Change in city population share
+     Potato x Post                    14.605       14.608       13.825        14.520       14.697        13.957          0.140         0.140         0.138         0.143         0.139       0.135
+                                      (5.639)      (5.716)      (5.664)       (5.758)      (5.649)       (5.723)        (0.031)       (0.032)       (0.032)       (0.032)       (0.031)     (0.032)
+
+     Controls x century FEs             N             Y            N             N            N             N              N             Y             N             N            N           N
+     Roman history x Post               N             N            Y             N            N             N              N             N             Y             N            N           N
+     Pop growth 1000-1400 x Post        N             N            N             Y            N             N              N             N             N             Y            N           N
+     Distance to sea x Post             N             N            N             N            Y             N              N             N             N             N            Y           N
+     Slave exports                      N             N            N             N            N             Y              N             N             N             N            N           Y
+
+     Observations                        922            922           922        910          922          922            790          790         790           780           790           790
+     Notes : All regressions also control for All Crops x Post, Old World Staples x Post, New World Staples x Post, Elevation x Post, Ruggedness x Post, country fixed effects and year fixed effects.
+     Standard errors are clustered at the country level (132 clusters).

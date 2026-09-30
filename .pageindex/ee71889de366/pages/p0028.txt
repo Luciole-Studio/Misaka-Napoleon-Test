@@ -1,0 +1,43 @@
+
+
+52 We include control for changes in conscription rates for departments at the border and maritime departments as changes in the demand for sailors and soldiers may have been stronger closer to theaters of war.
+
+53 Fifty out of 111 departments were either category 4 or 5.
+
+54 As in the other tables, we report Conley standard errors with a 100 km threshold.
+
+55 We describe the method by which we calculated these numbers in Online Appendix J.
+
+56 The number of draft dodgers in group 4 and 5 departments was 5,733 in 1810, which means that the number of draft dodgers would have been 49 percent higher in category 4 and 5 departments.
+
+57 In addition, men drafted from these regions tended to be shorter, sicker, and of lower quality.
+
+## References
+
+#### REFERENCES
+
+Aghion, Philippe, Jaravel, Xavier, Persson, Torsten, and Rouzet, Dorothée. “Education and Military Rivalry.” Journal of the European Economic Association 17, no. 2 (2019): 376–412.10.1093/jeea/jvy022 CrossRef Google Scholar
+
+Arbellot, Guy, Lepetit, Bernard, and Bertrand, Jacques. Atlas de la Révolution Française, Vol. 1. Paris: Editions de l’EHESS, 1985. Google Scholar
+
+Bairoch, Paul, Batou, Jean, and Chevre, Pierre. The Population of European Cities from 800 to 1850: Data Bank and Short Summary of Results. Geneve: Center of International Economic History, 1988. Google Scholar
+
+Balla, Eliana, and Johnson, Noel D.. “Fiscal Crisis and Institutional Change in the Ottoman Empire and France.” Journal of Economic History 69, no. 3 (2009): 809–45.10.1017/S0022050709001132 CrossRef Google Scholar
+
+Batchelder, Ronald W., and Freudenberger, Herman. “On the Rational Origins of the Modern Centralized State.” Explorations in Economic History 20, no. 1 (1983): 1–13.10.1016/0014-4983(83)90039-6 CrossRef Google Scholar
+
+Belsley, David A., Kuh, Edwin, and Welsch, Roy E.. Regression Diagnostics: Identifying Influential Data and Sources of Collinearity. New York: John Wiley & Sons, 2005. Google Scholar
+
+Besley, Tim, and Persson, Torsten. “State Capacity, Conflict, and Development.” Econometrica 78, no. 1 (2010): 1–34. Google Scholar
+
+Best, Geoffrey. War and Society in Revolutionary Europe, 1770–1870. Montreal: McGill Queen’s Press-MQUP, 1998. Google Scholar
+
+Bonney, Richard, ed. The Rise of the Fiscal State in Europe c. 1200–1815. Oxford, UK: Clarendon Press, 1999.10.1093/acprof:oso/9780198204022.001.0001 CrossRef Google Scholar
+
+Capefigue, Jean-Baptiste. L’Europe Pendant le Consulat et l’Empire de Napoléon, Vol. 2. Paris: Wouters, 1842. Google Scholar
+
+Carter, David B., Shaver, Andrew C., and Wright, Austin L.. “Places to Hide: Terrain, Ethnicity, and Civil Conflict.” Journal of Politics 81, no. 4 (2019): 1446–65.10.1086/704597 CrossRef Google Scholar
+
+Chandler, Daniel G. The Military Maxims of Napoleon. New York: Simon and Schuster, 2016. Google Scholar
+
+Conley, Timothy G. “GMM Estimation with Cross Sectional Dependence.” Journal of Econometrics 92, no. 1 (1999): 1–45.10.1016/S0304-4076(98)00084-0 CrossRef Google Scholar

@@ -1,0 +1,97 @@
+---
+source_url: "https://www.lhistoire.fr/le-vaisseau-de-la-guerre-dam%C3%A9rique-le-%C2%AB-74-canons-%C2%BB"
+final_url: "https://www.lhistoire.fr/le-vaisseau-de-la-guerre-dam%C3%A9rique-le-%C2%AB-74-canons-%C2%BB"
+sha256: "aa0265671f0f6751bbb49b66f0d1e4be4fe057693034615a8d600aab838294f1"
+text_sha256: "1e4c702d79c1d96ad7ec983559802c6a917873a1abff4ed4ce88c6133884091d"
+title: "Le vaisseau de la guerre d'Am\u00e9rique : le \u00ab 74 canons \u00bb | lhistoire.fr"
+---
+
+Title: Le vaisseau de la guerre d'Amérique : le « 74 canons » | lhistoire.fr
+
+Aller au contenu principal
+
+# qsdqsdqdqd
+
+menu
+
+## Menu liens sociaux
+
+- [Facebook](https://fr-fr.facebook.com/mag.lhistoire/)
+- [Instagram](https://www.instagram.com/maglhistoire?igsh=OXowN29jeWd6bHdw)
+- [Bluesky](https://bsky.app/profile/maglhistoire.bsky.social)
+
+## User account menu
+
+- [Panier](https://www.lhistoire.fr/cart)
+- [S'identifier](https://www.lhistoire.fr/user/login)
+
+## User account menu
+
+- [Panier](https://www.lhistoire.fr/cart)
+- [S'identifier](https://www.lhistoire.fr/user/login)
+
+##
+Magazine
+
+## Magazine
+
+- [Actualités](https://www.lhistoire.fr/)
+- [Agenda](https://www.lhistoire.fr/agenda)
+- [Archives](https://www.lhistoire.fr/archives)
+- [L'Histoire Juniors](https://www.lhistoire.fr/lhistoire-juniors)
+- [Newsletter](https://www.lhistoire.fr/newsletter)
+- [Flux RSS](https://www.lhistoire.fr/flux-rss.xml)
+
+[mensuel 547](https://www.lhistoire.fr/parution/mensuel-547)
+
+##
+Abonnement
+
+## Abonnement
+
+- [Nos formules d'abonnement](https://www.lhistoire.fr/abonnement)
+
+##
+La Boutique
+
+## La Boutique
+
+- [Anciens numéros](https://www.lhistoire.fr/archives)
+- [Coffrets reliures](https://www.lhistoire.fr/products)
+- [Livres](https://www.lhistoire.fr/books)
+
+## Menu principal footer gauche
+
+- [Mentions légales](https://www.lhistoire.fr/mentions-legales)
+- [FAQ](https://www.lhistoire.fr/faq)
+- [Contact](https://www.lhistoire.fr/contact)
+- [Qui sommes nous ?](https://www.lhistoire.fr/qui-sommes-nous)
+- [RESILIER MON ABONNEMENT](https://www.lhistoire.fr/demande-de-resiliation-abonnement)
+
+## Menu principal footer droite
+
+- [CGV](https://www.lhistoire.fr/cgv)
+- [Politique de confidentialité](https://www.lhistoire.fr/politique-de-confidentialite)
+- [Politique des cookies](https://www.lhistoire.fr/politique-des-cookies)
+
+## Menu principal footer gauche
+
+- [Mentions légales](https://www.lhistoire.fr/mentions-legales)
+- [FAQ](https://www.lhistoire.fr/faq)
+- [Contact](https://www.lhistoire.fr/contact)
+- [Qui sommes nous ?](https://www.lhistoire.fr/qui-sommes-nous)
+- [RESILIER MON ABONNEMENT](https://www.lhistoire.fr/demande-de-resiliation-abonnement)
+
+## Menu principal footer droite
+
+- [CGV](https://www.lhistoire.fr/cgv)
+- [Politique de confidentialité](https://www.lhistoire.fr/politique-de-confidentialite)
+- [Politique des cookies](https://www.lhistoire.fr/politique-des-cookies)
+
+## Sous menu gris clair
+
+- [Actualités](https://www.lhistoire.fr/)
+- [Le magazine](https://www.lhistoire.fr/archives)
+- [Archives](https://www.lhistoire.fr/archives)
+- [Boutique](https://www.lhistoire.fr/boutique)
+- [S'abonner](https://www.lhistoire.fr/abonnements)

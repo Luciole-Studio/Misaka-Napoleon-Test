@@ -1,0 +1,12 @@
+
+
+【判定（falsifier 直测）】卡片 falsifier 为"1806–08 英国文书示征服为主流→扶植独立下调"。**判负**：最高决策层的成文立场恰好相反——征服被明写为 hopeless，扶植本地政权被写成唯一可持续选项；但同时须限定：①这是"未定之见"（自承 not settled）；②替代方案的首选政体是**波旁王子立宪君主国**而非共和国；③英国自我设定的收益只有"断法资源 + 开市场"两项。
+
+## 2. Castlereagh 无日期〈Memorandum relative to Spanish America〉（印 pp.385–389；txt 行 17811–18010）
+- 【事实·亲读】"The liberation of South America must be accomplished through the wishes and exertions of the inhabitants; but the change can only be operated, in the first instance… under the protection and with the support of an **auxiliary British force**."（印 p.385）
+- 【事实·亲读】兵力规格：对墨西哥"should not be less than **10,000 men**"，10 月在牙买加集结，12 月 1 日前在 Spanish Main 登陆；另"A small force at Trinidad, to give the impulse at the same time to **the Caraccas**"。
+- 【事实·亲读】部队构成：**三分之二英军 + 三分之一黑人西印度团（Black West India Regiment）**，英军须选已适应热带气候者。（印 p.385）
+- 【事实·亲读】拼盘表（印 p.386）：直布罗陀 4 团 4,000 + 马德拉 1 团 1,000 + 黑人团 4 个 4,000 + 欧洲团 3 个 3,000 = 12,000，加下马骑兵 1,200 与炮兵 = **13,200**；若对美（美国）战争之虞消失，可再抽 3,000。西印度现有 19,422 人（另牙买加 5,000、自开普在途的 60 团一营），"usual force in that quarter not exceeding 15 or 16,000"。
+- 【事实·亲读】本土补法：自国内派 4,000，缺额以"the usual annual draft of fifteen men per company from the Irish Militia"补回，"The force for home defence will then stand as at present."
+
+【推断·中高】该表给出**英国 1807 年可用于西属美洲的"不伤本土防务"上限量级 ≈1.3 万人（可加 3,000）**；与 Auchmuty"有效占领拉普拉塔需 15,000"并置，说明英国的兵力只够**在一个总督区**做"扶植型登陆"，不够同时做两处征服。此为本卡 B/英国能力包络的硬锚点之一。

@@ -1,0 +1,26 @@
+# PR文书、改革限度与外交冻结
+
+## T12 1812-02-24法普同盟与军事/供给秘密协定
+原文已读：`downloads/pages/00ca352688de.md`、`6d14b89ddb86.md`、`3a419bf742fa.md`（以下省略downloads/pages前缀）。均EPOCHE NAPOLEON德文转录Liebenstein1819，未核原签本，互不算独立叙述。
+- 公开本约II：保证双方现有领土完整；不是立即取消普国。
+- 军事II：20,000=14,000步+4,000骑+2,000炮兵，60炮，必须保持足额；III“so viel nur immer möglich”集中同一军团并优先普省，不是军团绝不可分。
+- VII作战线限制普正规军；VIII形式不得干涉民政，但军需、医院、后方警察安全属法将职权；XI未经两方同意不得另行征兵/集中/调动。
+- XIII战胜俄国给普领土补偿，无确定领土名字；不能直接写已承诺库尔兰。
+- 供给I赔款现金停付但利息继续；II实物抵款；III 44,000牛、15,000马、600,000磅火药、300,000磅铅、3,600车、20,000病床等均**约定非实收**。网页称20旅×90车却总3,600车，内在算术不一致，不能据转录定车队编制；未换算Centner/Scheffel（制式未核）。
+- IX–X地方给付、季度收据结算使民政账面存续与军队实际征发同时成立。
+
+## C13 Clark 1811–12（非官方转载page62≠书页62）
+`7e5166c3be17.md`完整实读。国王反人民战争：“Good – as poetry.”；Hardenberg也支持等待。1811夏扩军/修防、8月法最后通牒，国王停止并撤Blücher。1812外逃不是全改革派同命运：网站声称Boyen/Gneisenau/Clausewitz一同入俄，需以传记再分，正文将只用Clausewitz入俄、其他流亡网络。
+## 俄方否决点的时间分段（本卡亲读，线索由1〲0032 t_91cbee提供）
+
+不采用他卡转述；以下为本卡实读缓存文本。
+1. **1808年1月（软否决，可交易区）**。`downloads/pages/b9eaa7cabeae.md`，napoleon-histoire.com转录《塔列朗回忆录》埃尔福特章，实读L308起22行。拿破仑在巴黎宠上向Tolstoï提西里西亚作“compensations pour la France”；亚历山大对法大使原话（L322）：“Je ne puis croire ce que je viens de lire dans les dépêches de Tolstoï; veut-on déchirer le traité de Tilsitt ?…Il doit au contraire me dégager aux yeux de l’Europe, en mettant promptement la Prusse dans la situation qui a été déterminée par le traité. Ceci est réellement une affaire d’honneur pour moi.” 同段又记1808年2月底拿破仑致信含“le désistement implicite de toute prétention sur la Silésie”。**回溯性且利害相关的塔列朗自述**；它证明说辞是“荣誉/条约信用”，不自动证明动机。
+2. **利益内核**。Vandal I第五章章目（`downloads/R1_vandal1_full.txt` L19256起38行）：“Raisons de sentiment et d’intérêt qui empêchent Alexandre de consentir à une nouvelle mutilation de la Prusse.--Réveil de la question polonaise; elle primera désormais toute autre…” 与已读L8390段“拒西里西亚主因怕强化华沙”一致。=>否决点是**可交易的安全项**，不是不可变的友情。
+3. **1811年10月（硬化）**。Nesselrode致亚历山大报告，Vandal III附录III，`downloads/c12_vandal3_full.txt` 实读L20965起60行与L21085起75行；注670标“Archives de Saint-Pétersbourg”，仍为Vandal刊本。第4点：“Je regarde comme beaucoup plus important et même comme l’objet le plus essentiel de l’arrangement un article qui assurerait pour quelque temps l’existence politique de la Prusse.” 理由是普国“不是拿破仑侵俄的前卫，就是俄国用以抵制的前卫”；要求法国按偿款进度撤奥得要塞、“plus de la moitié en est payé, Glogau devrait être immédiatement restitué”，并提议用提尔西特关于汉诺威不还英则补普**30万人口**的条款来帮普清偿；另要求限但泽驻军、不往华沙驻法军、限华沙军额，并明言对“不复波兰”的书面保证价值有限。
+**本卡反应函数含义**：俄方成本随时间上升——1807夏至1808初为**可谈判窗**（条件：不增强华沙/不近俄境，可用东方或其他补偿交换）；1810关税与奥登堡事件后进入**条款硬化区**，普国存续被写成俄方最关键诉求。故“取消普鲁士”在**1807—08窗口**成本最低但仍需对俄支付，1811后几乎等于选择对俄战争。（中高）
+
+**重要冲突**：本片段称1812辅助军12,000，和已读军事协定II的20,000冲突；本卡采用原约20,000，12,000不入数表（疑混1809义务，但不擅定错误起因）。
+东普1812聚约300,000行军军队；1811歉收、征马与种粮匮乏、乡民夜耕/藏马、饥荒/儿童死亡（Clark转引Auerswald）。12月25日备忘录2主战1等待奥国；12月15日政府仍答应法方增援。=>民怨/军官爱国不自动压倒国王，外部机会决定转向。
+
+## C12尾部：改革≠自由民主
+`df8591563743.md`L146–191实读并冻结：1811六十显贵会议反改革、被解散；1812/14中间代表会同样；1812-03-11犹太公民敕令改善经济权但国家任职未全开放，男女/宗教资格不能写完全平等。1812-07-30宪兵令遇容克和行政反对、1814停办；庄园法庭和税权改革未完成。1815代表承诺→1823省议会，1820债务法现债>180m thalers封账，新借须未来全国议会参与共保；1847铁路融资迫出联合议会。不能在法胜无1813–15战争下照抄180m债务或必然1847。

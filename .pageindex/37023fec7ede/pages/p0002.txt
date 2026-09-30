@@ -1,0 +1,14 @@
+B     Scatterplots
+B.1     Draft-dodging rate
+
+               Figure 2: Draft-dodging and ruggedness for each year.
+
+
+
+
+      Figure 3: Draft-dodging and the natural log of ruggedness for each year.
+
+
+
+
+                                         2

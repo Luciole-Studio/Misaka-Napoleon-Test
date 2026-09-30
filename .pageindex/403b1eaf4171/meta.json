@@ -1,0 +1,16 @@
+{
+  "doc_id": "403b1eaf4171",
+  "title": "[t_104134] nodes/r_b55f2c1cf5/cards/t_104134/manpower/prisoners.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_b55f2c1cf5/cards/t_104134/manpower/prisoners.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_b55f2c1cf5/cards/t_104134/manpower/prisoners.csv"
+  ],
+  "sha256": "403b1eaf41719a02e1557738c53f514f4c07ed7c427f403285eb29d6831dec83",
+  "pages": 1,
+  "task_id": "t_104134",
+  "task_ids": [
+    "t_104134"
+  ],
+  "added_at": 1789883145,
+  "office_format": "csv"
+}

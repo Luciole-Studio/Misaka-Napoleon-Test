@@ -1,0 +1,16 @@
+{
+  "doc_id": "a494bea4842c",
+  "title": "[t_ec2248] nodes/r_5b1357a9c6/cards/t_ec2248/P5_trade.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_ec2248/P5_trade.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_ec2248/P5_trade.csv"
+  ],
+  "sha256": "a494bea4842c46533dc278b4b62a12a518c3fdbd2bada42ad7d4fbeb884db1a3",
+  "pages": 1,
+  "task_id": "t_ec2248",
+  "task_ids": [
+    "t_ec2248"
+  ],
+  "added_at": 1790179210,
+  "office_format": "csv"
+}

@@ -1,0 +1,65 @@
+C. Baseline Differences-in-Differences Estimates
+
+Having addressed the two largest issues facing our estimates – the quality of the historic country
+
+level population data, and the existence of spillover effects – we now turn to our baseline DD
+
+estimates, and report country-level estimates for all four of our outcomes of interest: population,
+
+population growth, city population share, and change in the city population share. The estimates
+
+are reported in columns (1) and (7) of Table 3. As shown, we find a positive and statistically
+
+significant effect of the introduction of the potato on both urbanization and the change in the
+
+urbanization rate. Consistent with our flexible estimates, the DD estimates also show that potatoes
+
+had a positive effect on the rise of cities.
+
+   The remaining columns of the table show the robustness of our baseline estimates to alternative
+
+specifications. In columns (2) and (8), we interact each of our baseline control variables with a full
+
+set of time period fixed effects. As the estimates show, our results are fully robust to allowing our
+
+set of covariates to have a completely flexible effect on population and urbanization over time.
+
+   In columns (3)–(6) and (9)–(12) of Table 3, we report estimates, including additional control
+
+variables that may capture alternative determinants of differential growth in certain parts of the
+
+world after 1700. The fact that a large fraction of Europe is suitable for potatoes raises the concern
+
+that our estimates capture other factors that may have affected the divergence of Europe during
+
+this time period. One explanation for this divergence is that many European countries benefited
+
+from a history of Roman rule (Jones, 1981, Landes, 1998). Acemoglu et al. (2005) construct a
+
+measure meant to capture this determinant of Europe’s divergent growth: an indicator variable
+
+that equals one if a country was part of the Roman Empire.30 We control for the interaction of this
+
+variable with an indicator variable for the post-1700 period. Columns (3) and (9) show that our
+
+baseline estimates are robust to the inclusion of this control.
+
+   Another potentially confounding factor is the occurrence of the Black Death. If the plague,
+
+which killed up to 30% of Europe’s population, was more severe in regions that were suitable for
+
+potatoes, then our estimates may overstate the true effect of potatoes. The coefficients in columns
+
+(4) and (10) show that our estimates are robust to controlling for the average annual growth rate of
+
+population between 1000 and 1400.31
+
+  30 This variable is taken from Acemoglu et al. (2005), who construct their measure using information from Langer
+
+(1972).
+  31 In this specification, our sample is reduced by 12 observations since the pre-trend control variable cannot be
+
+constructed for two countries, New Zealand and Finland, because of missing population data for the year 1000.
+
+
+                                                        27

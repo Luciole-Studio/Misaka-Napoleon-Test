@@ -1,0 +1,33 @@
+
+
+### R33　1833年军额（法语，同期报纸转引）
+L’Écho de la Fabrique,no16,21avril1833,“Effectif de l’armée française”，据Moniteur摘战争部长报告。
+- http://echo-fabrique.ens-lyon.fr/document.php?format=search&id=2542 ；`downloads/pages/a21d8807b909.md`，电子栏标[4.2]。
+- 原句：“Au 1 er janvier 1833, l’armée présentait un effectif de 421,494 hommes et 82,057 chevaux.” 抽取把1er分开，数字照录。
+- 实读首段及表；军额包括宪兵15,982、老兵8,995、外国军团4,473、Zouaves1055、Chasseurs d’Afrique2334等。非纯和平野战军，非长时期平均。未核Moniteur原刊。
+
+## C．军工、财政与新占领类比
+
+### BR25　Brun军工研究（法语）
+Jean-François Brun, « Des armes et de la poudre… »,Fondation Napoléon网站，mise en ligne:avril2025。
+- https://www.napoleon.org/histoire-des-2-empires/articles/des-armes-et-de-la-poudre/ ；`downloads/pages/26d8892840a9.md`。实读“usines d’armement”“poudre noire”及结论；全部摘录见`hardware_evidence.md`。
+- 原句：“Au 1er avril 1812, les magasins abritaient 811 000 fusils. Du 1er avril 1812 au 1er juillet 1813, 159 000 autres ont été fabriqués. Mais, dans le même laps de temps, 880 000 ont été consommés”。不把consommés全译不可逆战损。
+- 月造8,000–10,000fusils；1813“peine à dépasser le seuil de18000 armes d’épaule par mois”；全国火药约3000吨，Metz39月制炮279/验收211。均为署名二手作者估计/转述，未核原始统计簿，也不是指定各厂峰值。
+- 原句：“Les phénomènes cumulatifs sur plusieurs années jouent donc un rôle essentiel…” 支持库存累积约束，非否定所有扩产。
+
+### PE05　零件互换史（法语）
+Jean-Louis Peaucelle, « Du concept d’interchangeabilité à sa réalisation : Le fusil des XVIIIe et XIXe siècles »,Gérer et comprendre80(juin2005),pp.58–76。
+- https://annales.org/edit/gc/2005/gc80/058-076peaucelle.pdf ；`downloads/pages/cfc17491b6c4.md`。实读1777标准化、Blanc、传统制造和结论；无全文通读声明。
+- 原句：“On démonte donc et remonte des fusils différents sans mélanger les pièces. Pour les réparations, on refait chaque pièce spécifiquement.” 标准化枪型≠完全互换。
+- SHAT6W127folio64、4W482为其转引，未亲核。
+
+### M25　Marion军费成本（法语）
+Marcel Marion,Histoire financière de la France depuis1715,tomeIV,1797–1818,Paris:Arthur Rousseau,1925，印pp.322–323（PDF342–343）。
+- F4共享扫描：`downloads/F4_Marion_IV_1925.pdf`，doc1f18be55f219；来源archive.org/download/histoirefinancir04mari/；本卡实读两页正文并看p322图，不声称读其全财政表。
+- p322脚注转Mollien（空格标准化）：“600 f. par homme en comptant la solde et l’entretien, 700 en comprenant aussi la fabrication des armes et la remonte.” p323讨论Naples900与d’Ivernois1000，承认无法精确判定effectifs/contingents。
+- 600/700/900为不同费用范围与案例，不是经计量检验的统一成本带。只用于联合财政人数敏感性。Mollien回忆录为回溯性且经转引，未冒称已读回忆录原句。
+
+### SON04、OOB48　奥地利北意军队（英语）
+- SON04：Lawrence Sondhaus,“Italians in Austrian Army,1848–49”,Encyclopedia of1848 Revolutions，网页修订2004-10-20。https://people.ohio.edu/chastain/ip/italaam.htm ；`downloads/pages/977ad00e38d7.md`，全文短条已读。原句：“In all, well over one-half of the Lombard and Venetian troops remained loyal to Austria.” 供军30–35k，mid1840s约25k驻北意，1848离军约15k；不直接校准法国新省60%可靠。
+- OOB48：“Order of Battle in Northern Italy—March1848”，https://www.austro-hungarian-army.co.uk/oobmar48.htm ；`downloads/pages/7027396ad89a.md`。已读表头、部署与注，总约70k。转Anton Edler von Hilleprandt,Der Feldzug in Oberitalien im Jahre1848,Vienna1867，原书未阅。含Piacenza/Ferrara等外驻点，非严格伦威属地驻军纯治安数。
+- HER50：Heraldica,“Heraldry in Pre-Unification Italy”，https://www.heraldica.org/topics/national/italy2.htm ；`downloads/pages/85e4897967eb.md`，只读1850表。伦威人口5.10m，网站不是人口统计专著，只用于说明13.7‰粗比值与口径错配，不进入模型主参数。

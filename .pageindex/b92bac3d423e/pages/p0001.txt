@@ -1,0 +1,28 @@
+---
+source_url: "https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf"
+final_url: "https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf"
+provider: "exa"
+text_sha256: "f9a5fa3926739c9ae11cd54cea4efbbb969e5eb5332d0522b90edb7b06dc7a98"
+title: "War, Naval Logistics and the British State"
+content_kind: "page_text"
+---
+
+## War, Naval Logistics and the British State
+
+#### Supplying the Baltic Fleet 1808-1812
+
+##### James Davey
+
+September 2009
+
+A thesis submitted in partial fulfilment of the requirements of the University of Greenwich for the Degree of Doctor of Philosophy
+
+Acknow ledgements
+
+This thesis is one product of a three-man project investigating the victualling of the Royal Navy during the French Revolutionary and Napoleonic War. I would like to thank the Leverhulme Trust whose grant funded three years of this thesis, in conjunction with the National Maritime Museum. Although it will not be needed in full, I am grateful to the NMM for their award of a Caird Fellowship.
+
+Researching this project has taken me around Britain and on one occasion across the Atlantic. I would like to thank the staff of the National Archives, the Caird Library, the Suffolk Record Office, the Dreadnought Library in Greenwich, the British Library, New York Public Library, the Bodleian Library and the National Library of Wales for their help and never-ending patience with my requests. King's College London allowed a grateful alumnus to make use of their excellent facilities. Joy Moorhead was especially kind when I visited the Mulgrave Archive in Whitby and I am grateful to the Marquis of Normanby for allowing to me to consult and quote from those papers.
+
+Working in the GMI has been made almost too enjoyable by the friendly banter of Suzanne Bowles, while Sarah Palmer and Chris Ware have always been on hand with helpful advice. Doug Hamilton was kind enough to comment on parts of my thesis, particularly sections that have been published as articles. Fellow scholars of naval administration have assisted: Bob Sutcliffe has shared his knowledge of the Transport Board, while frequent lunches and conversations with Cori Convertito-Farrar have made visits to various archives more agreeable than perhaps they should have been. Special mention must go to Tim Voelcker, whose knowledge and scholarship on Sir James Saumarez and the Baltic fleet has proved invaluable. He was also generous enough to lend me his translations of the von Rosen papers from the original Swedish, while his hospitality on my frequent visits to Ipswich will not be forgotten. Janet MacDonald generously lent me a copy of her completed thesis as I was finishing mine, and has been a constant source of helpful tips over the last three years. Lindsey Roberts and Amanda
+
+Johnson have both covered my foreign language inadequacies, in French and Swedish respectively. Other individuals have made comments or suggestions at various points over the past three years. I am grateful to Margrit Schulte Beerbiihl, Ken Cozzens, Michael Duffy, Jane Knight. Margarette Lincoln, John McAleer, Byrne McCleod, Roger Morriss, Leos Muller, Nigel Rigby, Jakob Seerup, and Stig Tenold. Mary Clare Martin, Ian McNay and Gavin Rand gave me a thorough upgrade-viva which did much to focus my research and suggest new avenues.

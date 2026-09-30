@@ -1,0 +1,62 @@
+furthermore provides information on whether the club had a fire department, and if yes, the number of
+
+firemen. From this data, I construct the per capita amount of firemen per county, Firemen p.c., as a first
+
+measure of social capital, and second the total number of clubs per county, labeled No of Clubs.
+
+
+
+Shooting Associations As a last measure of social capital for 19th century Germany, I use a dataset
+
+for the two Prussian provinces Rhineland and Westphalia that contains the number of German shooting
+
+associations (Schützenvereine) founded per county from the Middle Ages to 1939 at a yearly level.35
+
+I use the years from 1700 to 1900. The source is Plett (1991), who gathered this data by directly by
+
+surveying current day shooting clubs about their year of foundation. In the data, a club is reported to
+
+exist in year t, if its date of foundation falls in this year.
+
+Summary Statistics for the variables generated out of the historical data sources are displayed in Table 9.
+
+                                                   Table 9 about here
+
+
+
+                       4.2     The Impact on Trade, Factory and Craft Employment
+
+Table 10 displays the regression results of estimating the following model:
+
+                                                                  0
+                                      Yc,p = α + δ ∗ codec + Xc,p ∗ β + uc,p                           (2)
+
+
+where Yc,p gives the relative occupational share in county c located in Prussian province p. The variable
+                                                                               0
+codec is a dummy indicating whether county c used the code civil or not. Xc,p includes the controls listed
+
+above.
+
+                                                   Table 10 about here
+
+Counties applying the Code Civil are associated with a significantly higher occupational share in trade,
+
+see column (1). Conditionally on other controls, adopting the Code Civil goes along with an increase
+
+in the trade share by 0.004 in absolute values (column (2)), or about 0.66 of a standard deviation in
+
+trade. Treated regions also have higher levels of industrialization, as measured by the per capita share
+
+of employment in factories (column (3)) and a higher share craftsmen (column (4)). The effects are
+
+equally large, as adopting the Code Civil increases factory and craft employment by about 50 percent
+
+of the relevant standard deviation. They are furthermore comparable both in magnitude and significance
+
+   35 See Data Appendix for further information.
+
+
+
+
+                                                           25

@@ -1,0 +1,35 @@
+                                             |download.php:504:stream
+                                             |download.php:902:footer
+                                             |common/setup.php:148:footer
+                                             |Nav.inc:820:dump
+                                             |Bug.inc:94:log
+    -->
+    <script  nonce="a059a0a622638fbccf230b94c0473302" >
+if (typeof archive_analytics !== 'undefined') {
+  archive_analytics.send_pageview_on_load(archive_analytics);
+  archive_analytics.process_url_events(location);
+  var vs = archive_analytics.get_data_packets();
+  for (var i in vs) {
+    if (!vs[i]) {
+      vs[i] = {};
+    }
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=903;
+    vs[i]['server_name']="www21.us.archive.org";
+      }
+}
+</script>
+          <img src="//athena.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=1049350032" alt="" />
+          <noscript>
+        <img src="//athena.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=1758544838" />
+      </noscript>
+          <script  nonce="a059a0a622638fbccf230b94c0473302" >
+        document.addEventListener('DOMContentLoaded', function() {
+          if (typeof archive_analytics !== 'undefined')
+            archive_analytics.create_tracking_image('in_page_executes');
+        });
+      </script>
+      </div>
+  </body>
+</html>
+    

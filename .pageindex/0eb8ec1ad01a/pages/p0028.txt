@@ -1,0 +1,61 @@
+was able to effectively produce more calories, then this may have also benefitted its trading
+
+partners.28 Negative population spillovers could have occurred through migration. An increase
+
+in a neighboring country’s suitability may have negatively affected a country’s population if there
+
+was movement out of the country and to the neighboring country that adopted the potato. Because
+
+our estimates are identified from comparisons between potato-suitable and non-suitable regions,
+
+any positive spillovers will attenuate our estimated impact of potatoes, while negative spillovers,
+
+will cause our estimates to overstate the true effect of potatoes.
+
+   In columns (5) and (6), we test for the existence of spillovers. This is done by constructing, for
+
+each country, a measure of the average suitability of all adjacent countries i.e., Neighbors’ Potatoi ×
+
+ItPost . We then include this measure in our baseline estimating equation (2). The estimation results
+
+fail to provide any evidence for the presence of spillover effects. The estimated coefficients for
+
+Neighbors’ Potatoi × ItPost are very small in magnitude and statistically insignificant. Given the lack
+
+of evidence for spillovers, we can be more confident that our DD coefficients provide consistent
+
+estimates of the effect of potatoes on historic population.29
+
+   The final check that we perform is motivated by the notion that potatoes may have had the
+
+greatest benefit in regions that were less suitable for pre-existing staple crops. We test for this by
+
+allowing the impact of potatoes to differ depending on whether a country was suitable for the
+
+production of Old World staple crops. This is done by including Potatoi × ItPost × Old World cropsi
+
+in our baseline estimating equation. Columns (7) and (8) show that the estimated interaction terms
+
+are negative, providing some evidence that potatoes had smaller benefits in regions that were more
+
+suitable for existing staple crops. However, the coefficients should be interpreted cautiously since
+
+they are not statistically significant.
+  28 The fact that potatoes are not highly traded does not rule out the possibility of positive spillovers from trade. A
+
+region may adopt potatoes and only consume the potatoes domestically. Because potatoes are much more efficient to
+produce, this may free up resources for the production of other, more freely tradable crops.
+   29 We have also undertaken alternative tests to ensure that migration, in particular, is not affecting our estimates.
+
+We have estimated equations where the dependent variable is the “natural change” in the population of each country,
+which we calculate as the change in the total population that was not the result of either in- or out-migration. This was
+done by taking the McEvedy and Jones (1978) population data and subtracting the net immigration for the century. The
+migration data are from Mitchell (1998, 2003). The estimated impact of potatoes on population, using this alternative
+measure of non-migration induced population increases, are nearly identical to the baseline estimates reported here. An
+alternative strategy is to estimate our baseline equations controlling for net migration in the 100 years prior to period t.
+Our estimates remain virtually unchanged when we do this.
+
+
+
+
+                                                            26

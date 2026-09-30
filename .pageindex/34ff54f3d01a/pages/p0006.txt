@@ -1,0 +1,34 @@
+          "retirement": 5.71854,
+          "net_change": 2.28146
+        },
+        {
+          "year": 23,
+          "commissioning": 8.0,
+          "retirement": 5.798391,
+          "net_change": 2.201609
+        },
+        {
+          "year": 24,
+          "commissioning": 8.0,
+          "retirement": 5.875447,
+          "net_change": 2.124553
+        },
+        {
+          "year": 25,
+          "commissioning": 8.0,
+          "retirement": 5.949806,
+          "net_change": 2.050194
+        }
+      ],
+      "total_commissioned": 230.0,
+      "total_retired": 107.955339,
+      "capacity_final": {
+        "line_hulls": 172.044661
+      },
+      "negative_capacity_flags": [],
+      "feasible": true,
+      "interpretation": "产能存量流量恒等式 K_{t+1}=K_t+投产−退役, 分部门逐年推演。这是 Gosplan 产能平衡表的 ввод/выбытие 台账。某年产能变负=退役超过存量, 是不可能计划而非有效平衡 (negative_capacity_flags 标出)。产出计划必须逐年对齐这条轨迹, 否则纸上计划。"
+    },
+    "max_abs_replay_residual": 0.0
+  }
+]

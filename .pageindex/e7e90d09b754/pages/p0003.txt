@@ -1,0 +1,13 @@
+
+
+## 七、未取得的档案、书本与执行问题
+
+【未取得】下列只作追索目录，不作本次已读证据：
+
+- 奥斯曼原档：旧编Başbakanlık Arşivi **Hatt-ı Hümayun 14214、14203、41388、44512D、443720、41336A、44421**，以及**Cevdet Hariciye 4361**。均转引自İsmail，须在现行BOA目录重定位；尤其交换批准书及拒盟文件值得优先核对，旧号OCR亦可能有误。
+- 法国外交档：**AAE CP Russie vol.144**（Caulaincourt训令）；**CP Turquie**中Latour-Maubourg1811–12训令、报告及全权书。Süslü所列1806–09卷段不能未经目录核对移作1812卷号。
+- 俄国外交与军事原档：**AVPRI、RGVIA**中批准书交换、齐恰戈夫命令、留守名册及逐日行军日志；本次未落实档号。**Vneshnyaya Politika Rossii, ser.I, vol.VI**相关信件仅经İsmail转引；不伪称读取档案原折。
+- 英国档案：**TNA FO78/77、FO78/79**及爱丁堡Liston Papers（İsmail注指5618、5658）；均未读取，不以Canning事后声誉替代原件。
+- **Virginia Aksan, Ottoman Wars 1700–1870；Stanford J. Shaw, Between Old and New**相关章节本次未取得正文，未写入支持性引文。用户要求的奥斯曼研究侧由实际读取的İsmail与Süslü承担；奥斯曼财政军事制度长期能力仍应补Aksan，不能用列书目冒充完成。
+
+【执行记录】agent-reach／mcporter命令尝试受到本会话bash审批限制，未实际执行联网检索；随即改用可用web_search／web_extract，材料均落在项目downloads/pages。未修改技能、未提交card_complete。新PDF取得的是提取文本而非本地扫描文件，校勘边界如上。

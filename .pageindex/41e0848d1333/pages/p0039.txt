@@ -1,0 +1,30 @@
+  Table 5: Border Sample: Robustness to Alternative Historical Controls
+
+                                         (1)             (2)              (3)             (4)
+                                        Trust           Trust            Trust           Trust
+   Border                             0.0392*         0.0407**        0.0478**         0.0502*
+                                      (0.0207)        (0.0199)        (0.0200)         (0.0281)
+   Urbrate 1850                       0.00169
+                                     (0.00216)
+
+   Urbrate 1800 - 1900                                 0.0007
+                                                       (0.001)
+
+   Urbrate 1700 - 1800                                                  0.0003
+                                                                        (0.004)
+
+   Share of Protestants 1800                                                            0.0071
+                                                                                        (0.092)
+   N                                   4031             4031             4031            4031
+   R2                                  0.071            0.071            0.071           0.071
+
+Notes: OLS regressions. Dependent variables: Trust is the average of answers given to the following
+questions: “On the whole one cannot trust people”, “Nowadays one can’t rely on anyone” “If one is
+dealing with strangers, it is better to be careful before one can trust them”. Source: German Socio-
+Economic Panel, wave 2003.
+Heteroscedastic-robust standard errors in parentheses. ∗ p < 0.10, ∗∗ p < 0.05, ∗∗∗ p < 0.01
+
+
+
+
+                                                37

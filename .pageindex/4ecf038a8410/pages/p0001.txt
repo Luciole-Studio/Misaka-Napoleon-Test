@@ -1,0 +1,47 @@
+---
+source_url: "https://www.cervantesvirtual.com/descargaPdf/los-afrancesados-o-una-cuestion-politica-los-limites-del-despotismo-ilustrado-931299/"
+final_url: "https://www.cervantesvirtual.com/descargaPdf/los-afrancesados-o-una-cuestion-politica-los-limites-del-despotismo-ilustrado-931299/"
+provider: "exa"
+text_sha256: "24dcd8850fa2b40beb8e0971a732d3f8301d24658ccbda0a718bca2e35bf38ca"
+title: "Los afrancesados o una cuesti\u00f3n pol\u00edtica: los l\u00edmites del despotismo ilustrado /"
+content_kind: "page_text"
+---
+
+Cuadernos de Historia Moderna. Anejos ISBN: 978-84-669-3052-9 
+2007, VI, 269-277 
+
+## Los afrancesados o una cuestión política: los límites del despotismo ilustrado
+
+Gérard DUFOUR
+
+Université de Provence – U.M.R. TELEMME
+
+RESUMEN 
+Como reivindicó Andrés Muriel en 1820, el afrancesamiento fue "una cuestión política": primero, la 
+Asamblea Bayona supuso el paso del concepto de constitución como conjunto más o menos eviden 
+te de leyes fundamentales del reino al de pacto entre el pueblo y el soberano, lo que, de por sí, cons 
+tituyó una auténtica revolución. Luego nunca había conocido España reformas tan importantes como 
+las que decretó el gobierno de José I en 1809. Todo ello permitió a Juan Antonio Llorente afirmar 
+que todas las Luces de España estaban reunidas en Madrid y en Cádiz y que, al fin y al cabo, no 
+había diferencias entre los liberales y los afrancesados. Se olvidaba de lo esencial: la propia estruc 
+tura de la sociedad, plasmada en Cádiz en la sustitución del concepto de sujeto sustituido por el de 
+ciudadano, cuando en Bayona se mantuvieron los tres brazos tradicionales y los privilegios del clero 
+y de la nobleza. 
+
+Palabras clave: Despotismo ilustrado. Afrancesados. José I. Constitución de Bayona. Revolución política.
+
+ABSTRACT 
+As Andres Muriel asserted in 1820, the afrancesamiento was first of all a “political issue”: first, 
+the Bayonne Assembly, which changed the concept of the Constitution as a more or less obvious 
+package of basic laws, to that of a covenant between the People and the Sovereign, constituted a 
+genuine revolution. Then, Spain had never experienced such important reforms as those that 
+were taken by the government of Joseph I in 1809. This permited Juan Antonio Llorente to state 
+that all the Lights of Spain had gathered in Madrid and Cadiz, and that there was no difference 
+between Liberals and Afrancesados. This was missing the main thing: the structure of society, 
+which was based in Cadiz on the evolution from the concept of subject to that of citizen, whereas 
+in Bayonne the three estates of society and the privileges of the clergy and the nobility had been 
+maintained. 
+Key words: Enlightened Despotism. Spanish “afrancesados”. José I. Constitution of Bayonne. 
+Political Revolution. 
+
+"En España, no hubo revolución, nos revolucionaron", declaró un diputado en las Cortes de Cádiz. Culpaba así a Napoleón de haber hecho añicos el Antiguo Régimen. A Napoleón y sus secuaces, los afrancesados, entre el los Leandro Fernández de Moratín que no pensaba que su conducta durante el reinado del Rey intruso podía merecerle el calificativo de "famoso traidor" que, pese a haber sido uno de ellos, distribuyó con mucha generosidad el mercedario fray Manuel

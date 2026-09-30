@@ -1,0 +1,41 @@
+concern given the highly turbulent time period under investigation. I address these concerns
+in two ways. First, I consider two other specific shocks contemporaneous to the trade cost
+shock which could potentially account for part of the estimated effect. I consider whether a
+differential shock to the imported input, raw cotton, or increased market access through the
+expansion of the French Empire’s influence across Europe can account for the results. Both
+of these effects may give rise to the estimated baseline effect, though through a mechanism
+different to that of infant industry. I take a more general approach in the next section
+by conducting placebo tests for two other textile industries (woollen spinning and leather
+tanning).
+    An asymmetric shock to the price of imported raw cotton is particularly problematic, as
+this would arguably have a disproportionate effect on mechanized cotton spinning, meaning
+that the placebo industries I examine in the next section may well be unaffected. To under-
+stand the extent to which changes in the price of imported raw cotton may be driving the
+results, Figure A.8 shows price data in the north and the south of the French Empire for
+different varieties of raw cotton in use at the time; Levantine, Brazilian, US and from French
+colonies.33
+    As the figure makes clear, prices increased markedly during the Napoleonic Wars, but
+the shock was fairly symmetric in the north and the south. For the case of Brazilian cotton,
+where one specific variety (Pernambuco) can consistently be matched to London prices, it is
+also clear that French prices increased to a greater extent than those in Britain. Given that
+both British yarn and raw cotton were imported, why would shocks to these products have
+a seemingly different spatial pattern?
+    First, it is important to note that only part of the increase in raw cotton prices can be
+attributed to the disruption to trade caused by the blockade. Part of the increase was driven
+by a substantial increase in the tariffs on raw cotton, which affected all regions equally.34
+Heckscher (1922, pp. 274-276) shows some evidence that prices in the empire were generally
+substantially higher than in other Continental European cities, consistent with the fact that
+tariffs accounted for part of the increase in French prices.
+    Second, while the disruption to trade did cause trading routes to shift from sea- to land-
+based ones driving up the price of raw cotton, differently to British yarn, the fundamental
+  33
+      I have not been able to find a data source for raw cotton prices at a regionally more disaggreagted level.
+It should be noted that Napoleon experimented with growing cotton around Naples to substitute for other
+sources. Heckscher (1922, p. 277) cites estimates that put this additional source at not more than 12% of
+the total raw cotton in use in 1812.
+   34
+      Table A.21 reports tariffs for different varities of raw cotton throughout the period of interest.
+
+
+
+                                                      25

@@ -1,0 +1,105 @@
+---
+source_url: "https://droit.cairn.info/revue-francaise-de-droit-constitutionnel-2008-4-page-703?lang=fr"
+final_url: "https://droit.cairn.info/revue-francaise-de-droit-constitutionnel-2008-4-page-703"
+provider: "exa"
+text_sha256: "3c183b89980b2b6891fcf1a8cb9f058986169fb4cdf824f435c2305bc94dab1e"
+title: "Recherches r\u00e9centes"
+content_kind: "page_text"
+---
+
+Napoléon et les règles de dévolution de la couronne. | Cairn.info
+### Revue française de droit constitutionnel2008/4 n° 76
+Suivre la revue
+Couverture de RFDC_076
+### Article de revue
+# Napoléon et les règles de dévolution de la couronne.
+## Contribution àl'étude du droit constitutionnel impérial
+* ParClémence Zacharie
+Pages 703 à731
+Histoire de la famille
+Histoire de la famille
+# Citer cet article
+APAMLAISO 690DOI
+* ZACHARIE, Clémence,2008.Napoléon et les règles de dévolution de la couronne. Contribution àl'étude du droit constitutionnel impérial.*Revue française de droit constitutionnel,*2008/4 n° 76,p.703-731.DOI : 10.3917/rfdc.076.0703.URL : https://droit.cairn.info/revue-francaise-de-droit-constitutionnel-2008-4-page-703?lang=fr.
+* Zacharie, Clémence.«Napoléon et les règles de dévolution de la couronne. : Contribution àl''étude du droit constitutionnel impérial».*Revue française de droit constitutionnel,*2008/4 n° 76,2008.p.703-731.CAIRN.INFO, droit.cairn.info/revue-francaise-de-droit-constitutionnel-2008-4-page-703?lang=fr.
+* Zacharie, C.(2008).Napoléon et les règles de dévolution de la couronne. Contribution àl'étude du droit constitutionnel impérial.*Revue française de droit constitutionnel,*76(4),
+703-731.https://doi.org/10.3917/rfdc.076.0703.
+https://doi.org/10.3917/rfdc.076.0703
+Zotero (.ris)
+
+Article
+
+Auteur(e)s
+
+Sur un sujet proche
+
+PDF
+
+PlanNotes
+# 1. 1. # Notes
+* [1]
+Les études d’histoire constitutionnelle sur l’Empire abordent néanmoins la question de la transmission du pouvoir et c’est avec intérêt que l’on se reportera à quelques grands ouvrages devenus classiques comme M. Deslandres,*Histoire constitutionnelle de la France*, tome 1, Paris, 1933 ou J. Godechot,*Les institutions de la France sous la Révolution*, Paris, 1968. Plus généralistes encore, l’incontournable*Histoire du Consulat et de l’Empire*, d’Adolphe Thiers, Paris, 1863,22 volumes ou le*Napoléon ou le mythe du sauveur de Jean Tulard*, Fayard, 1987 sont indispensables. Enfin, parmi les études récentes sur la période, la*Nouvelle histoire du Consulat et de l’Empire*de Thierry Lentz (tomes 1 et 2 parus, tome 3 à paraître) offre une vision (enfin) régénérée de l’histoire du Consulat et de l’Empire.
+* [2]
+Cette règle apparaît essentiellement dans l’article 3 du sénatus-consulte du 28 floréal an XII (« La dignité impériale est héréditaire dans la descendance directe, naturelle et légitime de Napoléon Bonaparte, de mâle en mâle, par ordre de primogéniture, et à l’exclusion perpétuelle des femmes et de leur descendance »), article repris dans l’article 2 du sénatusconsulte du 7 décembre 1852.
+* [3]
+Bulletin des lois de la République, 4esérie, n° 1, p 1.
+* [4]
+Bulletin des lois de l’Empire, 4esérie, n° 84.
+* [5]
+Bulletin des lois, 10esérie, n° 4509, p 677.
+* [6]
+Bulletin des lois, 10esérie, n° 62, p 1241.
+* [7]
+Il s’agit notamment du*décret impérial du 11 ventôse an XIII*(2 mars 1805) relatif au mariage de Jérôme Napoléon (Bulletin des lois, 4esérie, n° 33, p 315), du s*énatus-consulte organique du 24 septembre 1806 relatif à la désignation des frères de Napoléon à la succession*(Procèsverbaux authentiques du Sénat conservateur, Archives nationales, CC4, feuillet 41),*sénatus-consulte du 6 décembre 1809 portant dissolution du mariage contracté entre l’Empereur Napoléon et l’Impératrice Joséphine*(Bulletin des lois, 4esérie, n° 253, p. 271), du*décret impérial relatif aux Princes de la famille impériale qui ont été ou qui seraient appelés, du consentement de l’Empereur, à une Couronne étrangère du 22 juin 1811*(Bulletin des lois, 4esérie, n° 379, p. 6), du*sénatus-consulte organique concernant la régence de l’Empire, le sacre et le couronnement de l’Impératrice et du Prince Impérial de Rome du 5 février 1813*(Bulletin des lois, 4esérie, n° 474, p. 141), du*décret organique réglant l’ordre de succession au Trône dans la famille Bonaparte*(Bulletin des lois, 4esérie, n° 6, p. 65), du*sénatus-consulte du 21 mai 1870*(Bulletin des lois, 11esérie, n° 17713, p. 519). Ces textes constituent l’essentiel des dispositions relatives à la succession au trône et au statut des membres de la famille impériale. De nombreux autres textes porteront sur la question, au gré de l’évolution des deux régimes. On peut citer par exemple le*sénatus-consulte du 25 décembre 1852 portant interprétation et modification de la Constitution du 14 janvier 1852*. Son article 6 désigne les membres de la famille de l’Empereur pouvant prétendre au titre de Prince français et d’altesse au titre de leur appartenance à la famille de Napoléon III (Bulletin de lois, 11esérie, n° 28, p. 57). D’autres textes ont aussi organisé la liste civile et la dotation de la couronne, par exemple.
+* [8]
+Ce sénatus-consulte constitue un cas isolé durant la période consulaire et impériale puisque si son texte figure bien dans les*Procès-verbaux authentiques*du Sénat conservés sous la cote CC aux Archives nationales, il n’a jamais été publié, Napoléon attendant le moment propice à la connaissance publique de cet ajout aux règles de dévolution de la couronne. Du point de vue purement juridique, à la différence de la loi, l’absence de publication ne fait pas de ce texte une*lex imperfecta*, de ce fait inopposable. Aucun des Actes des Constitutions de l’Empire n’inclut en effet l’intervention de l’Empereur dans le processus d’édictions des sénatus-consultes, à l’exception de la participation de celui-ci dans l’élaboration du projet soumis au Sénat (article 57 de la Constitution du 16 thermidor an XII). La Constitution de l’an VIII prévoit dans son article 37 la promulgation des lois par le Premier consul.
+* [9]
+Voir*infra*.
+* [10]
+A titre d’exemple et en comparaison, le chapitre Ierdu titre III de la Constitution de 1791, consacré aux pouvoirs publics, porte sur l’assemblée législative, premier pouvoir public traité.
+* [11]
+Voir notamment notre thèse,*Le Sénat du Consulat et de l’Empire, constituant secondaire*, thèse, Paris II, 2004, p. 531 et s.
+* [12]
+Voir notamment le*Gouvernement représentatif de Roederer*qui constitue un exposé des idées constitutionnelles de Sieyès, publié dans les*Œuvres complètes de Roederer*, publiées par son fils, 8 volumes, in-8°.
+* [13]
+Voir*supra*, note 5.
+* [14]
+Article 18 du sénatus-consulte du 28 floréal an XII : « Le régent doit être âgé au moins de vingt-cinq ans accomplis. Les femmes sont exclues de la régence ».
+* [15]
+Article 1erdu sénatus-consulte du 5 février 1813 : « Le cas arrivant où l’Empereur mineur monte sur le trône sans que l’Empereur son père ait disposé de la régence de l’Empire, l’Impératrice mère réunit de droit à la garde de son fils mineur la régence de l’Empire ».
+* [16]
+La conséquence immédiate de cette règle est de ne pas faire des sœurs de Bonaparte des membres dynastes. Les Murat sont donc exclus de l’ordre de succession du trône. Leur famille ne sera de plus considérée comme membre de la famille impériale que jusqu’au cinquième degré (article 3 alinéa 2 du titre Ierdu Statut de la famille impériale du 30 mars 1806) : « la maison impériale se compose (…) des princesses nos soeurs, de leurs époux et de leur descendance en légitime mariage, jusqu’au cinquième degré inclusivement ». Le Second Empire exclura tout simplement les descendants des sœurs de l’Empereur de la famille impériale puisque selon l’article 3 alinéa 2 du Statut du 21 juin 1853, la famille impériale est composée, en dehors des descendants de l’Empereur, « des autres Princes appelés éventuellement à l’hérédité par le sénatus-consulte du 7 novembre 1852, de leurs épouses, et de leurs descendance légitime ». Le Statut reprend ici les dispositions de l’article 6 du sénatus-consulte du 7 novembre 1852. De plus, le sénatus-consulte du 7 novembre 1852 est extrêmement limitatif dans la désignation des membres dynastes de la famille Bonaparte, puisque, en plus des règles de masculinité et de primogéniture, s’applique la possible adoption, selon son article 3, « des enfants et descendants légitimes, dans la ligne masculine des frères de l’Em-pereur Napoléon Ier ». Les descendants de Pauline, Elisa et Caroline ne peuvent donc régner et sont, de ce fait, écartés de la Maison impériale (les deux premières princesses n’avaient déjà plus de postérité au moment du rétablissement de l’Empire alors que subsistaient et subsistent encore des descendants de Joachim Murat et de la Princesse Caroline).
+* [17]
+Il s’agit des décrets et statuts mentionnés à la note 5.
+* [18]
+Bulletin des lois, 4esérie, n° 33, p. 315.
+* [19]
+Les visas du décret se réfèrent aux articles 63,148,166,168,170,171 et 183 du Code civil; le premier considérant affirme que « le mariage d’un enfant mineur, contracté en pays étranger, sans publication et sans consentement des père et mère, est nul aux termes des lois françaises », voir infra pour le développement de la question.
+* [20]
+Article 14 du Statut de 1806 : « (…) des statuts auxquels ses successeurs sont tenus de se conformer ».
+* [21]
+*Statut sur l’état de la famille impériale*, Bulletin des lois, 4esérie, n° 1432.
+* [22]
+Article 44 de la Constitution de l’an VIII : « Le Gouvernement propose les lois et fait les règlements nécessaires pour assurer leur exécution ».
+* [23]
+Article 6 du sénatus-consulte du 14 janvier 1852 : « le Président de la République est le chef de l’État; (…) il fait les règlements et décrets nécessaires pour l’exécution des lois ».
+* [24]
+C’est d’ailleurs ce que Bonaparte devenu empereur affirme à l’occasion de l’affaire des Drapeaux de Burgos, voir*Note rectificative parue au Moniteur à la suite de l’affaire des drapeaux de Burgos*(*Le Moniteur Universel*, 15 décembre 1808, n° 350).
+* [25]
+Bonaparte lui-même constate cet état de fait qu’il assimile à un flottement justifiant à ses yeux la révision de la Constitution en l’an X : « Tous les pouvoirs sont en l’air; ils ne reposent sur rien. Il faut établir leur rapport avec le peuple, ce que la Constitution avait omis. Dans le système des listes de notabilité, le peuple qui présente en définitive cinq mille candidats ne peut pas se flatter de concourir assez aux élections pour voir nommer ceux qui ont le plus sa confiance. Pour la stabilité du Gouvernement, il faut donc que le peuple ait plus de part aux élections et qu’il soit réellement représenté », extrait de Antoine-Clair Thibaudeau,*Mémoires sur le Consulat par un ancien conseiller d’État*, Paris, Ponthieu, 1827, p. 289.
+* [26]
+Le défaut de lien de représentation entre le peuple souverain et la structure étatique se fera rapidement sentir sous le Consulat. Preuve en est la réforme rapide du mode de désignation des membres du Corps législatif qui voient leur siège assis sur les circonscriptions administratives à partir du sénatus-consulte du 16 thermidor an X dont l’article 69 prévoit que « chaque département aura dans le Corps législatif un nombre de membre proportionné à l’étendue de sa population, conformément au tableau ci-joint ».
+* [27]
+Voir*supra*.
+* [28]
+Stanislas de Girardin,*Discours et opinions, mémoires*, Paris, Moutardier, 1828,4 volu -
+mes, in-8°.
+* [29]
+Girardin,*opus précité*, t. 3, p 274 et s.
+* [30]
+Jean Tulard,*Bibliographie critique des mémoires sur le Consulat et l’Empire*, Paris, 1971, note 375.
+* [31]
+Girardin,*op. cit.*, p. 275.
+* [32]
+Adolphe Thiers,*Histoire du Consulat et de l’Empire*, 1847, t. 2, p. 325. Ce propos est confirmé par les*Mémoires*de Cambacérès (*Mémoires inédits*, tome 1, p. 325).
+* [33]

@@ -1,0 +1,31 @@
+# 笔记：加泰罗尼亚（1810.2军政府→1812.1事实并合→1814崩溃）
+来源A：Esdaile, *The Peninsular War*（downloads/SP1_Esdaile_PeninsularWar.txt，引行号）。
+来源B：Grab 2003书 G-md。
+来源C：napoleon.org "Les départements réunis et les gouverneurs généraux"（web检索快照，本卡SOURCES登记）。
+来源D：histoire-empire.org "France modifications"（同上）。
+来源E：fr.wikipedia "Départements français d'Espagne"（辅助，与C/D互证）。
+来源F：Mercader Riba, "L'oficialitat del català sota la dominació napoleònica", *Butlletí de la Societat Catalana d'Estudis Històrics*（raco.cat摘要快照）——本卡source strategy的Mercader Riba以此文进入。
+来源G：xtec.cat档案教学页（1810-02-08敕令加泰语文本；Augereau 1810-02-20加泰语告示）。
+来源H：Digitum（Murcia）"Una colección de documentos inéditos sobre el dominio napoleónico en las comarcas del nordeste de Cataluña"（东北加泰档案汇编叙录）。
+
+## 兼并三阶段【锚点】
+1. **1810-02-08杜伊勒里敕令**：设"加泰罗尼亚政府"（Gobern de Catalunya），第七军改称加泰罗尼亚军，Augereau任总督集军民权，**加泰全境宣布戒严（Art.IV）**；**Art.VI：全省一切收入（常税+特税）解入军队金库供军饷给养**（G文本；H叙录：decreto 8 febrero 1810，2-20公布）→与约瑟夫王国行政分离（Grab G-md L3361：加泰/阿拉贡/纳瓦拉2月脱离约瑟夫治权）。
+2. **军政府三任**：Augereau（1810.2–5）→Macdonald（1810.5–1812.1）→Decaen（1812.2–1813.11）（C）。H叙录：Augereau"精心设计的绥靖政策"失败；Macdonald强硬无效；Decaen再回温和亦无效。
+3. **1812-01-26杜伊勒里敕令**：加泰分四省——Ter（赫罗纳）、Segre（普伊格塞尔达）、Montserrat（巴塞罗那）、Bouches-de-l'Èbre（莱里达）；"从西班牙'分离'交法国行政管理，**法律上从未并合**：敕令未刊于帝国法律公报、无元老院令追认"（C、D、E一致）；1812-02-14自赫罗纳总部公布（H）；安道尔随加泰并入、阿兰谷并入上加龙省（D、E）。**1813-03-07四省并二**（Bouches-de-l'Èbre-Montserrat；Sègre-Ter）；**1813-03-15下加泰民政撤销、复归军政府**（D、E）。
+
+## 官员来源【锚点】
+- 省长/副省长为法国人：Ter+Segre省长de Roujoux（驻赫罗纳"省府宫"）；菲格拉斯副省长Las Casas；上加泰总监**de Gérando男爵**（哲学家行政官，**1808年正是托斯卡纳军政委员会成员——外圈行政干部的跨单位再利用实例**，待核其托斯卡纳履历表述）；下加泰总监Chauvelin伯爵（C、E、H）。
+- 本地合作者：赫罗纳corregidor Tomàs Puig（Augereau庇护下的极端亲法派，"主张全面引入法典、引入征兵、由法国完全兼并"——Esdaile L3615未点名、与H档案"Corregidor Puig"互证身份）；巴塞罗那市府Ferrater（Regidor Decano，附法市政）、Pujol i March（催加泰语官方化者，1810.8去职）（F）。
+- "直接帝国控制区出现大量法国行政人员"（Esdaile L3615）。1812后双轨并行：总督府（军）+省长（民），"民政努力显得温和公允，同时军事法庭以死刑与对村镇报复并行"（H）。
+
+## 语言行政：帝国唯一的"在地语言官方化"实验【锚点】
+- 1810-03起Augereau路线：加泰语告示（1810-02-20"CATALANS…"告加泰人书，G）；**1810-03-21起巴塞罗那市政会议记录以加泰语书写**（Ferrater转述总督令："在一切文书中加泰语应压倒卡斯蒂利亚语"）；**1810-03-22《Diari de Barcelona》改为加泰语/法语双栏**，4-11更名《Diari del Gobern de Cataluña y de Barcelona》（F；enciclopedia.cat）。
+- 逆转：Augereau失宠去职；1810-08-18市政记录恢复卡斯蒂利亚语；**1810-09-01《Diari》去加泰语化（西/法双语）、巴塞罗那市徽换帝国鹰徽**（F）。
+- 事后评估（1812-04 Chauvelin咨询法典翻译语言，Audiència的golillas委员会）："**元帅确信恢复加泰语有助于绥靖人心……但起义丝毫未因此减弱。此措施只是使文书起草更困难、让所有承办者不快**"；建议法典译成卡斯蒂利亚语（F引原文）→语言让步作为绥靖工具的同时代失败评估。
+
+## 3年内抵抗【锚点】
+- 兼并前抵抗基线（1808–09）：两次布鲁克伏击（1808-06）；赫罗纳三围：1809围城7个月，12-11陷落时"守军三分之二、居民一半死亡；法军亦死约14,000；牵制加泰法军整整六个月"（Esdaile L2298）；somatén（民壮）+miquelets（志愿雇佣团）体系；1809-12-18 Augereau本人在菲格拉斯附近遭伏击（Esdaile L6649）。
+- 军政府期（1810–11）：Augereau对北部somatén"恐怖惩罚"、为巴塞罗那解围补给、拔除Hostalric要塞（Esdaile L6651）；1810 O'Donnell反攻Vich几乎获胜；1811-06 Suchet陷塔拉戈纳（L4278"siege and fall"；城破屠杀，规模数字本卡未见原文不冻结）；1812-01法军控制峰值时**"加泰内陆"仍是全西班牙未占区之一**（Grab G-md L3440）。
+- 事实并合期（1812–13）：游击战不停；俄国灾难使四省计划"未获进一步发展"（H："El desastre de Rusia fué la causa de que este plan no fuera llevado a ulterior desarrollo"）；1813-03民政撤销=**并合行政死亡自认**；1814-03-10四省正式废止（E）。
+- **征兵从未实施**：连爱国者方面O'Donnell搞西班牙式征兵都"激起民怨、动摇其地位"（Esdaile L6649）；法方在加泰只敢由Puig鼓吹、从未推行法国征兵（Esdaile L3615：Puig"advocated the introduction of conscription"=倡而未行）→D2表加泰"征兵实得"=0/未尝试。
+- 镇压成本：加泰常驻法军数万量级（F2卡Oman表：1810-01西班牙法军总360,603中第七军/加泰军为大项；1811-07返表gross 354,461——加泰分军数字由F2卡接口另取，不在此冻结）。

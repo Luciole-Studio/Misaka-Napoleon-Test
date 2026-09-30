@@ -1,0 +1,121 @@
+---
+source_url: "https://read.dukeupress.edu/hahr/article/52/4/545/152147/Colonial-Silver-Mining-Mexico-and-Peru"
+final_url: "https://read.dukeupress.edu/hahr/article/52/4/545/152147/Colonial-Silver-Mining-Mexico-and-Peru"
+provider: "exa"
+text_sha256: "614ea96df454be88e26b6505b825dc8af6a8c015348919397f891fbcacc1d4b7"
+title: "Colonial Silver Mining: Mexico and Peru | Hispanic American Historical Review | Duke University Press"
+content_kind: "page_text"
+---
+
+Colonial Silver Mining: Mexico and Peru | Hispanic American Historical Review | Duke University Press
+Skip to article sections
+
+Duke University Press Logo
+*Open Menu*
+
+**Search Dropdown Menu
+header search
+Search input auto suggest
+filter your search
+Books & JournalsAll JournalsHispanic American Historical Review
+Search
+Advanced Search
+*User Tools Dropdown*
+Register
+Sign In *Open Menu*
+
+Hispanic American Historical Review
+
+*Toggle Menu*Menu
+Article Navigation
+Research Article|
+November 01 1972
+#
+Colonial Silver Mining: Mexico and Peru
+*Open Access*
+D. A. Brading;
+**Close author information for D. A. Brading
+D. A. Brading
+Search for other works by this author on:
+This Site
+Google
+Harry E. Cross
+**Close author information for Harry E. Cross
+Harry E. Cross
+ 
+Search for other works by this author on:
+This Site
+Google
+Hispanic American Historical Review (1972) 52 (4): 545–579.
+https://doi.org/10.1215/00182168-52.4.545
+* Standard View
+* *Views Icon*
+Views
+*Open Menu*
+
+* Article contents
+* Figures & tables
+* Video
+* Audio
+* Supplementary Material
+* Peer Review
+* Open the
+*
+*PDF for Colonial Silver Mining: Mexico and Peru in another window
+
+* *Share Icon*
+Share
+**
+
+* Bluesky
+* Email
+* Facebook
+* LinkedIn
+* X
+* *Tools Icon*
+Tools
+*Open Menu*
+
+*
+Permissions
+
+*
+*Cite Icon
+*
+Cite
+
+* **Search Site
+
+Citation
+D. A. Brading, Harry E. Cross; Colonial Silver Mining: Mexico and Peru. **Hispanic American Historical Review** 1 November 1972; 52 (4): 545–579. doi: https://doi.org/10.1215/00182168-52.4.545
+Download citation file:
+* Zotero
+* Reference Manager
+* EasyBib
+* Bookends
+* Mendeley
+* Papers
+* EndNote
+* RefWorks
+* BibTex
+toolbar search
+**Search Dropdown Menu
+toolbar search
+Search input auto suggest
+filter your search
+Books & JournalsAll JournalsHispanic American Historical Review
+Search
+Advanced Search
+Colonial silver mining began when European techniques of production were introduced into the New World to satisfy the sustained European demand for precious metals. At first the industry formed little more than an overseas extension of the great central European mining boom of the years 1451-1540. Certainly it was then that an association of high capital investment with a remarkable range of technical innovation succeeded in pushing German silver production to unparalleled heights. Problems of drainage were solved by cutting adits several miles long beneath the lode, or by the installation of great water wheels and whims moved by teams of up to a hundred horses. As early as 1451 the invention of lead smelting facilitated the separation of silver from the copper compounds with which it was usually found. The construction of stamp mills, impelled by either water power or horses, completed the circle of improvements.1 The publication of G. Agricola’s *De re metallica* (1556), a lavishly illustrated work, hastened the diffusion of practical knowledge.2
+Despite these obvious technical debts, colonial silver mining soon acquired a structure of production radically distinct from its Old World predecessor. The difference in scale was striking. Although when at its peak in the decade 1526-35 the European industry cut 350,000 marks (of 8½ ounces) a year, by the close of the century its output had fallen to 100,000 marks, a mere tenth of the American bullion imports then registered at Seville. Equally important, as early as the 1550s, miners in Mexico developed the amalgamation process, a cheap, simple method of refining large quantities of low-grade silver ore. In the years immediately following the discovery of Potosí in Upper Peru, Indians smelted its rich ores in their own clay furnaces. Then again, the labor demands of the industry drove the viceregal authorities to levy work drafts from the Indian peasantry.
+These differences suggest, therefore, that American silver mining offers fewer comparisons with its German antecedents than with that other great colonial industry, the manufacture of sugar. The similarities are striking. Unlike tobacco or gold, both sugar and silver required an elaborate refining process only rendered possible by considerable capital investment. In both industries labor costs dominated the primary sector of extraction or cultivation. Both devised labor systems peculiar to America, the one relying upon imported African slaves, the other— at least in the first instance—upon enforced recruitment of Indian peasants.3 Finally, both operated within strict geographical limits, sugar growing best in the tropical lowlands, and silver being most abundantly located in the high ranges of the inland cordilleras.
+The general effects of American silver production have long been the object of academic debate. Its role in the price revolution of the sixteenth century is still in dispute.4 Similarly, its contribution to Europe’s trade with Asia, despite contemporary concern, has yet to be justly weighed. But for Spanish America no one can doubt its importance. The mining camps and towns generated sufficient purchasing power to stimulate not merely trans–Atlantic and Pacific commerce but also long-distance internal trade. Potosí received cloth from Quito, mules from Buenos Aires, sugar and coca from Cuzco, and brandy from Arequipa.5 Merchants as well as miners built then fortunes upon the industry. It was the existence of this export sector in the colonial economies of Peru and Mexico which prevented them from becoming simple agrarian or feudal societies.
+The aim of this article is to review the state of existing knowledge about colonial silver mining. We offer, however, a guide rather than a catalogue: the focus is more upon problems than bibliography. In areas where information is available but uninterpreted, we advance hypotheses.
+## I. Geologic Aspects
+If the agrarian historian must take into account the effects of climate and soil formation, so too the student of mining should examine the geologic record. The location and composition of ore deposits in good measure determined the organization of the industry.
+In general, nearly all American silver has been found in the great chain of mountain ranges which stretch from Canada to Chile. Geologically, the cordilleras of the western Sierra Madre of Mexico and the Peruvian Andes derive from the volcanic eruptions of the Tertiary Age. It was then, apparently, that magma intruded into the multiple faults and cavities in the earth’s crust. Upon cooling, the argentiferous magma crystallized for the most part into fissure veins of varying silver concentration. These formations were as various and particular in their distribution, depth and dip as the mountains which encased them. The bulk of these primary ores took the form of low grade sulphide compounds, but near the surface the prolonged effects of weathering tended either to isolate the ore into particles of native silver or to oxidize it, associating in the latter case with reddish soft minerals known to colonial miners as *colorados* or *pacos*. Furthermore, the incessant percolation of rain water carried a considerable portion of these oxidized ores below the water table level, there to be re-precipitated in a process now described as secondary or supergene sulphide enrichment. An alternative mode of enrichment at this level, defined by geologists as hypogene concentration, derived from interaction of the primary ores with further interior flows. The hard, dark ores so formed, called *negrillos*, were frequently as rich if not richer than the *colorados* above them.6 Finally, beneath this middle enriched zone lay the great mass of low grade primary sulphides, which slowly diminished, merging into a variety of base metal compounds.
+This general pattern, needless to say, was interrupted by local idiosyncrasy. At Guanajuato, little oxidation occurred; nevertheless, its mainly sulphide ores had experienced a hypogene concentration process almost to surface levels. At Potosí the conical shape of its isolated peak facilitated the formation of an oxidized encasement 250 yards deep, beneath which lay a zone of high grade sulphides. Moreover, the multiple veins of its several lodes all contained a considerable scattering of native silver or argentite.7
+Used with caution and respect for local variation, the geologic record can provide the historian with invaluable evidence as to the physical framework governing the miners’ exertions. It helps to explain the familiar cycle of bonanza, abandonment, renewed bonanza and final depletion which characterized the history of so many American mines. For although quantities of native silver could be found near the surface, in all likelihood the most consistently rich zone of the lode lay at water table level–in Mexico at 400-600 feet. Few mines during the colonial period, the Valenciana and Potosí apart, pushed beneath this middle region; indeed most did not reach it until the eighteenth century.8
+The economic deductions that can be obtained from a comparison of the geologic formation with recorded shaft depths are extensive.9 Once the days of primitive surface bonanza were past, then, within the observed scale, the farther down the miner pushed the higher his likely yield. With the water table attained, both his capital and maintenance costs inevitably rose, but so too did his gross production. Naturally this presumption could always be disappointed by local variations or difficulties. Moreover, such a policy required considerable capital investment in the form of adits or shafts, frequently on a scale beyond anything available to the colonial miner. The cycle of abandonment and bonanza referred to above sprang from two combined causes: the nature of the ore deposits, and inadequate capital resources to counter their effects.
+## II. Mining Techniques
+The establishment of mining as a rational industry rather than as a smash and grab raid upon the earth’s crust primarily depended upon the construction of deep shafts and long adits. Unfortunately we know little about the development of underground excavation. True, at the end of the eighteenth century European visitors poured scorn upon colonial technology.10 They exclaimed over the absence of cross galleries, the tendency to cut work tunnels which corkscrewed through the lode, the lack of mules for carriage, and the reliance upon whims. Humboldt noted with surprise that Mexican miners used crowbars similar to those employed in Germany in the sixteenth century.11 In consequence of these criticisms the impression lingers that American technology remained both backward and immobile, isolated from later European developments. In particular, the failure to adopt the use of the steam engine has confirmed the view. Yet, in point of fact, colonial methods of excavation underwent several marked phases in the course of two and a half centuries; important differences, moreover, existed between Peru and Mexico. And for the most part these developments corresponded to local attainments and cost possibilities. If steam engines were not introduced, it was because their fuel costs were exorbitant.12

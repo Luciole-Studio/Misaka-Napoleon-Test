@@ -1,0 +1,35 @@
+# B1来源表、引文锚点与阅读边界
+
+## 使用规则
+
+本表只给**本卡实际读到的版本、已核工作区材料的明示转引，以及本轮跨卡数据输入**。‘当时文书’指文本成文时间，不表示亲见手稿。Historical Hansard为后来的历史刊录/数字转录，早期辩论不是现代逐字录音。页码采用原书印页；只有明确写PDF页才为文件页。作者判断、史料事实和本卡推演分开。以下ID用于正文；同一原件经三处转录仍只算一条证据链。
+
+笔记在本目录notes_*.md；网页捕获在项目downloads/pages，原始PDF/文本在downloads。正文B1a/B1b/B1c分别写盘后合并为B1_britain_politics.md。本轮禁止子代理；重启前两个代理被终止，**没有把启动说明当完成的研究结果**。
+
+## 一、登陆与宪制
+
+### L1｜J. W. Fortescue，政府内迁
+- *A History of the British Army*, vol.V, London: Macmillan, 1910，pp.264–265，承重p.265。
+- 引文：“every provision had been made for transporting the seat of Government to Worcester”。另一句“there would have been no talk of surrender”是作者反事实判断，本卡不采为1803英国命令。
+- 本轮此前实读文本：`downloads/c11_fortescueV.txt`，约13705–13804行；sha256 a6d48ed701112955995a65a583cb7f966e130f101a163734a6d936ec55356733。
+- 旧项目复用：`nodes/r_b55f2c1cf5/cards/t_2c338c/britdef.md`；`nodes/r_b55f2c1cf5/cards/t_b7b7b1/evacuation_evidence.md`。
+- 等级：后世军史记载；未核原撤离命令/扫描。Marmont II p.216脚注不可移接给伍斯特行政预案。
+
+### L2｜George III致Bishop Hurd，1803-11-30
+- 转引H. F. B. Wheeler & A. M. Broadley, *Napoleon and the Invasion of England: The Story of the Great Terror*, I, London: John Lane, 1908，Introduction pp.xiii–xiv。
+- 引文：“Should his troops effect a landing, I shall certainly put myself at the head of my troops and my other armed subjects to repel them.”；“the Queen and my daughters should cross the Severn”。
+- 阅读版本：网页OCR https://epdf.tips/napoleon-and-the-invasion-in-england.html ，`downloads/pages/5550fd06ab38.md`，doc 5550fd06ab38。导入网页导航页不是印页。
+- 旧核证札记：`nodes/r_b55f2c1cf5/cards/t_2c338c/hurd_letter.md`，本轮此前重新读取。
+- 等级：当时书信经1908刊本再OCR；无原信手稿/1849最早刊布/扫描校对。不证明政府赴加拿大。
+
+### L3｜1797暂停银行现金支付及其社会条件
+- Privy Council Order，Whitehall，26 February 1797；*London Gazette* no.13986，25–28 February 1797，Statutes Project转录。
+- 引文：“the Directors of the Bank of England should forbear issuing any Cash in Payment until the Sense of Parliament can be taken on that Subject”；目标包括维持流通和公共/商业信用。
+- https://statutes.org.uk/site/the-statutes/privy-council-orders/1797-suspension-of-cash-payments-by-the-bank-of-england/ ；`downloads/pages/a7582cb284e4.md`；本轮前段实读。
+- 辅助：Hiroki Shin, “Paper Money, the Nation, and the Suspension of Cash Payments in 1797”, *Historical Journal* 58(2), 2015, pp.415–442，DOI 10.1017/S0018246X14000284；仅公开摘要/可见注释，`downloads/pages/3ba1fc65757f.md`。摘要“national support for drastic financial measures could not be taken for granted”。https://www.cambridge.org/core/journals/historical-journal/article/paper-money-the-nation-and-the-suspension-of-cash-payments-in-1797/1035B94E7519E13F94C3506264B81454 。正文未得，不借摘要声称所有机制已验证。
+- Fishguard只作有限入侵恐慌背景，不用其袭击规模外推伦敦征服。
+
+### L4｜尚未核定的撤金细节（负面检索记录，不作事实来源）
+- 旧百科捕获`downloads/pages/24084fc70707.md`指向Peter A. Lloyd, *The French Are Coming!* (1992), p.93；John Brooke, *King George III* (1974), pp.597–598。
+- 账册送Tower、三十车黄金、十二组护卫、Brook Watson等，**未读承重页**，不进入冻结能力表。也未取得1803–05Treasury/BoE付款连续性或战败议和命令。
+- 检索方向：TNA HO 42/HO 50、WO 1、ADM 1/ADM 2、PC 2、T 1；Bank of England Court/Committee of Treasury与Private Minutes；Royal Archives George III Papers。仅谱系，不亲阅原档。

@@ -1,0 +1,84 @@
+## Sheet: B3_capacity.csv (continued)
+section,scenario,year,metric,value_low,value_high,unit,source,locator,note
+observation,S0,1808,line_built,7,7,ships,J17,Abstract17:Built,Previous calendar year; gross flow not stock change
+observation,S0,1810,line_sea_commission,108,108,ships,J18,Abstract18:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1810,line_sea_ordinary,16,16,ships,J18,Abstract18:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1810,line_sea_total,124,124,ships,J18,Abstract18:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1810,line_harbour_commission,35,35,ships,J18,Abstract18:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1810,line_harbour_ordinary,42,42,ships,J18,Abstract18:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1810,line_building_or_ordered,42,42,ships,J18,Abstract18:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1810,line_grand_total,243,243,ships,J18,Abstract18:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1810,line_sea_commission_tons,193014,193014,James_tons_burthen,J18,Abstract18:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1810,line_sea_ordinary_tons,29906,29906,James_tons_burthen,J18,Abstract18:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1810,line_sea_total_tons,222920,222920,James_tons_burthen,J18,Abstract18:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1810,all_cruisers_including_line_sea_commission,664,664,ships,J18,Abstract18:Cruisers,Includes Line
+observation,S0,1810,all_cruisers_including_line_sea_ordinary,35,35,ships,J18,Abstract18:Cruisers,Includes Line
+observation,S0,1810,all_cruisers_including_line_sea_total,699,699,ships,J18,Abstract18:Cruisers,Includes Line
+observation,S0,1809,line_built,8,8,ships,J18,Abstract18:Built,Previous calendar year; gross flow not stock change
+observation,S0,1811,line_sea_commission,107,107,ships,J19,Abstract19:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1811,line_sea_ordinary,17,17,ships,J19,Abstract19:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1811,line_sea_total,124,124,ships,J19,Abstract19:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1811,line_harbour_commission,38,38,ships,J19,Abstract19:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1811,line_harbour_ordinary,42,42,ships,J19,Abstract19:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1811,line_building_or_ordered,36,36,ships,J19,Abstract19:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1811,line_grand_total,240,240,ships,J19,Abstract19:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1811,line_sea_commission_tons,192941,192941,James_tons_burthen,J19,Abstract19:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1811,line_sea_ordinary_tons,32480,32480,James_tons_burthen,J19,Abstract19:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1811,line_sea_total_tons,225421,225421,James_tons_burthen,J19,Abstract19:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1811,all_cruisers_including_line_sea_commission,620,620,ships,J19,Abstract19:Cruisers,Includes Line
+observation,S0,1811,all_cruisers_including_line_sea_ordinary,37,37,ships,J19,Abstract19:Cruisers,Includes Line
+observation,S0,1811,all_cruisers_including_line_sea_total,657,657,ships,J19,Abstract19:Cruisers,Includes Line
+observation,S0,1810,line_built,11,11,ships,J19,Abstract19:Built,Previous calendar year; gross flow not stock change
+observation,S0,1812,line_sea_commission,102,102,ships,J20,Abstract20:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1812,line_sea_ordinary,18,18,ships,J20,Abstract20:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1812,line_sea_total,120,120,ships,J20,Abstract20:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1812,line_harbour_commission,40,40,ships,J20,Abstract20:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1812,line_harbour_ordinary,46,46,ships,J20,Abstract20:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1812,line_building_or_ordered,30,30,ships,J20,Abstract20:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1812,line_grand_total,236,236,ships,J20,Abstract20:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1812,line_sea_commission_tons,185640,185640,James_tons_burthen,J20,Abstract20:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1812,line_sea_ordinary_tons,34089,34089,James_tons_burthen,J20,Abstract20:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1812,line_sea_total_tons,219729,219729,James_tons_burthen,J20,Abstract20:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1812,all_cruisers_including_line_sea_commission,584,584,ships,J20,Abstract20:Cruisers,Includes Line
+observation,S0,1812,all_cruisers_including_line_sea_ordinary,39,39,ships,J20,Abstract20:Cruisers,Includes Line
+observation,S0,1812,all_cruisers_including_line_sea_total,623,623,ships,J20,Abstract20:Cruisers,Includes Line
+observation,S0,1811,line_built,8,8,ships,J20,Abstract20:Built,Previous calendar year; gross flow not stock change
+observation,S0,1813,line_sea_commission,102,102,ships,J21,Abstract21:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1813,line_sea_ordinary,22,22,ships,J21,Abstract21:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1813,line_sea_total,124,124,ships,J21,Abstract21:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1813,line_harbour_commission,41,41,ships,J21,Abstract21:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1813,line_harbour_ordinary,50,50,ships,J21,Abstract21:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1813,line_building_or_ordered,29,29,ships,J21,Abstract21:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1813,line_grand_total,244,244,ships,J21,Abstract21:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1813,line_sea_commission_tons,186084,186084,James_tons_burthen,J21,Abstract21:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1813,line_sea_ordinary_tons,41940,41940,James_tons_burthen,J21,Abstract21:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1813,line_sea_total_tons,228024,228024,James_tons_burthen,J21,Abstract21:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1813,all_cruisers_including_line_sea_commission,570,570,ships,J21,Abstract21:Cruisers,Includes Line
+observation,S0,1813,all_cruisers_including_line_sea_ordinary,40,40,ships,J21,Abstract21:Cruisers,Includes Line
+observation,S0,1813,all_cruisers_including_line_sea_total,610,610,ships,J21,Abstract21:Cruisers,Includes Line
+observation,S0,1812,line_built,12,12,ships,J21,Abstract21:Built,Previous calendar year; gross flow not stock change
+observation,S0,1814,line_sea_commission,99,99,ships,J22,Abstract22:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1814,line_sea_ordinary,19,19,ships,J22,Abstract22:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1814,line_sea_total,118,118,ships,J22,Abstract22:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1814,line_harbour_commission,39,39,ships,J22,Abstract22:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1814,line_harbour_ordinary,47,47,ships,J22,Abstract22:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1814,line_building_or_ordered,27,27,ships,J22,Abstract22:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1814,line_grand_total,231,231,ships,J22,Abstract22:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1814,line_sea_commission_tons,180851,180851,James_tons_burthen,J22,Abstract22:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1814,line_sea_ordinary_tons,37608,37608,James_tons_burthen,J22,Abstract22:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1814,line_sea_total_tons,218459,218459,James_tons_burthen,J22,Abstract22:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1814,all_cruisers_including_line_sea_commission,594,594,ships,J22,Abstract22:Cruisers,Includes Line
+observation,S0,1814,all_cruisers_including_line_sea_ordinary,43,43,ships,J22,Abstract22:Cruisers,Includes Line
+observation,S0,1814,all_cruisers_including_line_sea_total,637,637,ships,J22,Abstract22:Cruisers,Includes Line
+observation,S0,1813,line_built,3,3,ships,J22,Abstract22:Built,Previous calendar year; gross flow not stock change
+observation,S0,1815,line_sea_commission,47,47,ships,J23,Abstract23:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1815,line_sea_ordinary,62,62,ships,J23,Abstract23:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1815,line_sea_total,109,109,ships,J23,Abstract23:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1815,line_harbour_commission,11,11,ships,J23,Abstract23:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1815,line_harbour_ordinary,71,71,ships,J23,Abstract23:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1815,line_building_or_ordered,23,23,ships,J23,Abstract23:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1815,line_grand_total,214,214,ships,J23,Abstract23:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1815,line_sea_commission_tons,85084,85084,James_tons_burthen,J23,Abstract23:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1815,line_sea_ordinary_tons,119027,119027,James_tons_burthen,J23,Abstract23:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1815,line_sea_total_tons,204111,204111,James_tons_burthen,J23,Abstract23:Line,Modern HTML transcription; checks and disputes in sources/annual/evidence.md
+observation,S0,1815,all_cruisers_including_line_sea_commission,439,439,ships,J23,Abstract23:Cruisers,Includes Line

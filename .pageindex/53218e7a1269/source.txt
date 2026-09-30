@@ -1,0 +1,100 @@
+28 P. E, TRTLOCK AND A. BELKIN
+
+occurred.” One obvious form such reasoning takes is reliance on base rates
+‘and patterns of covariation. For instance, we might justify the counterfac-
+tual, “If Bill Clinton had lost the presidential election of 1992, he would
+have been disappointed,” by observing in a two-by-two contingency table
+that when people fail to achieve a goal for which they have worked long and
+hard, the overwhelming majority experience disappointment, but when peo-
+ple do achieve their goals, there is markedly less disappointment.
+
+‘The “discovery” is hardly startling; more startling, however, is the strong,
+stand that some scholars take on both the necessity and sufficiency of statisti
+cal justification for assessing counterfactual claims. In his commentary,
+Dawes, for instance, treats statistical evidence as trump when he declares
+that counterfactual inferences are justified if and only if they are embedded
+in a system of statistical contingency for which we have reasonable evi-
+dence. He offers an intriguing example:
+
+Suppose that someone is required to wager her entire wealth on a single roll of a
+pair of fair dice. Her wealth will be doubled if she wins the bet; if she loses, she
+will be bankrupt. Her choice is to bet either for or against a roll of snake eyes.
+Being wise, she bets against snake eyes. The dice are rolled and they come up
+snake eyes. She loses. She is bankrupt, Is it normatively valid to state that “if
+‘only” she had bet on snake eyes, she would have won? Well, itis true that she bet
+against snake eyes and that she lost, But does the “if only” add anything to the
+analysis? I suggest the answer is no. But suppose she had bet on snake eyes and
+lost. Here, I suggest that the regretful counterfactual inference that “if only” she
+had bet against snake eyes she would have won is normatively justified. Why?
+Because the odds are thirty-five to one against snake eyes, and those odds justify
+the expectation that she would have won had she bet against snake eyes. It’s an
+expectation; one can insert “probably won” if one wishes.
+
+‘The plausibility of the snake-eyes counterfactual hinges on the aim of in-
+quiry. From an historical point of view, the counterfactual is plausible. We
+do not have to rewrite much history to reach a hypothetical world in which
+the woman threw the dice slightly differently and won her bet. The bet
+‘against snake eyes is an easily imagined and easily reversed cause of bank-
+ruptcy. To statisticians of both the Bayesian and frequentist schools, how-
+ever, the counterfactual is implausible because it posits so unlikely an out-
+come. We certainly do not want people drawing the lesson from history that
+it is a good idea to risk their fortunes on long-shot wagers.*
+
+» Dawes's snake-eyes problem bears a deep resemblance to Neweomb’s paradox, which pits
+statistical intuition against causal intuition through an ingenious thought experiment that calls
+Upon us to imagine a being who has demonstrated a phenomenal capacity to make accurate
+predictions (R® — 1.0) and who has asked us to make a choice involving two boxes, B1 and
+BD. BI contains $1,000; 82 contains either $1,000,000 or nothing. Our choice is between 1wo
+factions: (1) taking what is in both boxes; (2) taking only what isin the second box. Further-
+more, we know, and the being knows we know, and so on, tha ifthe being predicts that we
+
+COUNTERFACTUAL THOUGHT EXPERIMENTS 29
+
+‘One need not, of course, accept the radical epistemological argument of
+Dawes to agree with the more moderate mainstream view that canons of
+sound statistical reasoning should constrain our judgments of counterfactuals
+(King, Keohane, and Verba 1994) and, indeed, that we should be alert to the
+psychological fact that people are flawed intuitive statisticians who fall prey
+to various biases in detecting and using covariation data. The experimental
+literature warns us that people often draw inappropriately strong conclusions
+from observing only the cause-presenveffect-present cell of contingency ta-
+bles and see strong relationships between variables that they expect to be
+correlated but are in reality only weakly correlated (Nisbett and Ross 1980).
+A good start in implementing our fifth criterion would be simply to improve
+the accuracy of intuitive estimates of covariation, with special attention to
+sensitizing people to the problem of missing counterfactual data, Accurate
+‘covariation estimates would, however, be just the beginning and would not
+protect us from accepting many false counterfactual claims (Type I errors)
+and rejecting many true ones (Type II errors). We also need to beware of
+biases produced by nonrandom selection, confounding variables, and omit-
+ted variables, as well as a host of other familiar obstacles to meaningful
+statistical inference (King, Keohane, and Verba 1994). These statistical is-
+sues play an especially prominent role in Russett’s chapter, which grapples
+with the controversial counterfactual that if all states in the twentieth century
+had been democratic, there would have been markedly fewer wars. Skeptics
+of the democratic-peace hypothesis challenge this counterfactual on various,
+grounds, including the inadequacy of the available statistical samples (too
+few democracies, too few wars, and too truncated a range of time), the
+inadequacy of the operational definitions of democracy and war (the self-
+serving suppleness of certain judgment calls), and—perhaps most impor-
+tant—the collinearity problems created by confounding variables that, once
+controlled for in regressions, may “explain away” the democracy effect.
+Russett responds by rebutting these objections, in the process illustrating the
+enormous overlap between traditional procedures for hypothesis testing and
+
+‘will take what is in both boxes, he will ot put the $1 million inthe second box; if te being
+predicts we will take only what is in the second box, he will put the $1 million in the second
+box, The rules are straightforward. First the being makes his prediction; then he puts the SI
+milion in the second box or not, according to his prediction; then we make our choice.
+
+“The problem is paradoxical because powerful epistemic intuitions push us in opposite direc
+tions (Nozick 1993), Statistical intuition tells us that if we take what is in both boxes, the being
+almost certainly will have predicted this choice and will not have put the SI million in the
+second bor, whereas if we take only what isin the second box we will almost certainly get
+million. Therefore, we should take only what is in the second box. Causal intuition tells us,
+‘however, thatthe being has made his prediction and has already either put the SI milion into
+the second box of has not. That fact cannot be undone. Therefore, we will receive more money,
+$1,000 more, by taking what is in both boxes.
+
+“Thought experiments of this form provide a useful means of clarifying our intuitions about
+how to resolve clashes between epistemic standards.

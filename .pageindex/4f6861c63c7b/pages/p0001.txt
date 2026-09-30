@@ -1,0 +1,55 @@
+---
+source_url: "https://clio-texte.clionautes.org/napoleon-pere-des-nations-deurope-11-novembre-1816.html"
+final_url: "https://clio-texte.clionautes.org/napoleon-pere-des-nations-deurope-11-novembre-1816.html"
+sha256: "83a22eb0aeeba6eeb22370fa0cdcb3a9912bf57b6094d463895dd77206a25d0a"
+text_sha256: "34973df441ea303ca038c57ffb29fe4321fdf64d9452e10a3f853187a1075b95"
+title: "Napol\u00e9on, p\u00e8re des nations d'Europe ? (11 novembre 1816) - Clio Texte"
+---
+
+Title: Napoléon, père des nations d'Europe ? (11 novembre 1816) - Clio Texte
+
+- La galaxie des Clionautes
+
+- [Les Clionautes](https://www.clionautes.org)
+- [La Cliothèque](https://clio-cr.clionautes.org)
+- [Clio Prépas](https://clio-prepas.clionautes.org)
+- [Clio Lycee](https://lycee.clionautes.org)
+- [Clio Collège](https://college.clionautes.org)
+- [Clio Ciné](https://cinehig.clionautes.org)
+- [Clio Carto](https://clio-carto.clionautes.org)
+
+- [Accès Adhérent](https://clio-texte.clionautes.org/wp-login.php?redirect_to=%2F/)
+- [Adhérer](https://www.clionautes.org/produit/cotisation)
+- [Newsletter](https://www.clionautes.org/inscription-newsletter)
+- [Nous contacter](https://www.clionautes.org/contactez-vous)
+
+-
+-
+-
+
+- [Approche par périodes](https://clio-texte.clionautes.org/approche-par-periodes)
+
+- [Antiquité](https://clio-texte.clionautes.org/approche-par-periodes/histoire-antique)
+
+- [Préhistoire](https://clio-texte.clionautes.org/approche-par-periodes/histoire-antique/prehistoire-326)
+- [Monde grec antique](https://clio-texte.clionautes.org/approche-par-periodes/histoire-antique/histoire-grecque)
+- [Monde romain antique](https://clio-texte.clionautes.org/approche-par-periodes/histoire-antique/histoire-romaine)
+- [Sociétés et religions antiques](https://clio-texte.clionautes.org/approche-par-periodes/histoire-antique/christianisme-primitif-judaisme-et)
+- [Autres mondes antiques](https://clio-texte.clionautes.org/approche-par-periodes/histoire-antique/autres-mondes-antiques)
+
+- [Histoire médiévale](https://clio-texte.clionautes.org/approche-par-periodes/histoire-medievale)
+
+- [Occident médiéval](https://clio-texte.clionautes.org/approche-par-periodes/histoire-medievale/royaumes-et-empires-au-moyen-age)
+- [Société et religion dans l’Occident médiéval](https://clio-texte.clionautes.org/approche-par-periodes/histoire-medievale/societe-culture-religion)
+- [Empire byzantin](https://clio-texte.clionautes.org/approche-par-periodes/histoire-medievale/empire-byzantin)
+- [Monde musulman](https://clio-texte.clionautes.org/approche-par-periodes/histoire-medievale/monde-musulman)
+- [Asie et Océanie au Moyen Age](https://clio-texte.clionautes.org/approche-par-periodes/histoire-medievale/asie-et-oceanie-au-moyen-age)
+
+- [Époque moderne](https://clio-texte.clionautes.org/approche-par-periodes/histoire-moderne)
+
+- [L’Europe à l’époque moderne](https://clio-texte.clionautes.org/approche-par-periodes/histoire-moderne/leurope-a-lepoque-moderne)
+- [Les Amériques à l’époque moderne](https://clio-texte.clionautes.org/approche-par-periodes/histoire-moderne/les-ameriques)
+- [La Méditerranée à l’époque moderne](https://clio-texte.clionautes.org/approche-par-periodes/histoire-moderne/la-mediterranee-a-lepoque-moderne)
+- [L’Afrique à l’époque moderne](https://clio-texte.clionautes.org/approche-par-periodes/histoire-moderne/lafrique-a-lepoque-moderne)
+- [L’Asie et l’Océanie à l’époque moderne](https://clio-texte.clionautes.org/approche-par-periodes/histoire-moderne/lasie-a-lepoque-moderne)
+- [Le temps des révolutions à la fin du XVIIIème siècle](https://clio-texte.clionautes.org/approche-par-periodes/histoire-moderne/xixe-siecle-avant-1848-divers-394)

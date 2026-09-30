@@ -1,0 +1,19 @@
+
+
+## D. Sonderbund 1847
+来源：1848-parl.ch（联邦议会1848纪念站）；Musée national blog（2017-11，最新研究伤亡数）；wege-zur-schweiz.ch（引HLS条目017241）；fr.wikipedia（战役细节，转引层）。
+- 前史：1841阿尔高关修道院→1844卢塞恩召耶稣会士入高等学校→1844/45两次Freischaren（志愿军团）袭卢塞恩→**1845-12-11七邦（卢塞恩、乌里、施维茨、上下瓦尔登、楚格、弗里堡、瓦莱）缔结"分离同盟"**。
+- 1847自由派获议事会多数；**1847-10-25任命日内瓦新教徒、温和保守派Dufour为联邦军总司令**（Sonderbund方总司令：格劳宾登新教徒Salis-Soglio——两军统帅都不是本阵营教派典型，跨教派任命本身是政治信号）；11-04议事会决议武力解散。
+- 进程：**1847-11-03至11-29，25–26天**；Sonderbund先攻提契诺（夺圣哥达）与阿尔高Freiamt均败；Dufour先孤立弗里堡（**11-14投降**）、楚格11-21不战而降、**11-23 Gisikon/Meierskappel/Schüpfheim三捷**（Salis-Soglio头部负伤）、11-24卢塞恩陷落（战争议事会逃乌里）；11-25至29原始诸邦与瓦莱相继投降（瓦莱11-29最后）。
+- **伤亡（最新研究，Musée national）：联邦军60死386伤，Sonderbund 33死124伤，合计93死510伤**。
+- 占领与善后：卢塞恩城2.4万+周边1.6万联邦军占领；伯尔尼部队（Ochsenbein部）有抢掠纵火；军事法庭宽办200余违纪案；**战败邦无一被肢解、士兵无条件释放**；换上自由派政府、逐耶稣会士；瓦莱1848-04最后撤占。→1848-09-12联邦宪法。
+- Dufour 11-22日令："épargner les vaincus...guerriers magnanimes"——**低烈度内战+宽大处理=1848联邦重构的政治前提**。
+
+## E. 联合尼德兰王国1815–30（兼并模式的荷兰自家实验）
+来源：IIASA IR-05-041 (Tanya Charlick-Paley)（引Helmreich、Haas、Fishman等）；R. Hemstad, "The United Kingdoms of Norway and Sweden and the United Kingdom of the Netherlands 1814-1830" (Scandinavica, 引Kossmann、Blom & Lamberts、Lok 2017)；Huygens ING "Koninkrijk in wording" 英文摘要。
+- 建构：**1814-06-21伦敦八条**（列强定"un amalgame...union intime et complète"）；1814-08-01威廉以列强名义任比利时总督；**1815-03-16自行称王**（拿破仑回归之机）；1815-09-21布鲁塞尔加冕；英国留下开普与圭亚那作为支持的代价（Huygens）。
+- 南方宪法公投被否（教士动员），政府以"荷兰式算术"（把弃权算赞成）宣布通过（Huygens）。
+- 结构性不对称：南方人口340万vs北方200万，下院席位却55:55；**债务合并：荷兰旧债约20亿弗罗林级vs比利时约3,200万，比利时纳税人为主要不是自己的债务付息**（IIASA引Helmreich p.10）；北方要自由贸易、南方工业要保护关税；北新教/南天主教；**1819–1823语言敕令强推荷语为行政/司法/教育语言**（Hemstad引Kossmann/Blom-Lamberts）；1825 Collegium Philosophicum触怒教会。
+- 1820–27为联合王国"最好年代"（Hemstad引Kossmann等）；1828起天主教派与自由派"怨恨联盟"（union of oppositions）；**1830-08布鲁塞尔起义→12-20列强承认分离**；1831-08威廉"十日战争"入侵，法军5万入比利时逼退；**1839廿四条约：比利时承担旧联合王国债务份额定为年金840万弗罗林**（先前方案16/31）；卢森堡分割。
+- 【判读】这是"胜利者版的兼并实验"：同文近邻、列强背书、有宪法、有议会、有工业政策（Cockerill、运河、1822兴业总会），**15年即断**——断点全部落在法国兼并荷兰时同款变量上：债务合并的分配感、语言-宗教强制、代表权不对称、警察与新闻管制。对S6推演是最强的"同类最优条件对照组"。
+- Lok（Matthijs Lok 2017, "the Congress of Vienna as a missed opportunity"?实为其Windvanen研究延长线）经Hemstad转引：威廉1813-11-30登陆、12-02接受主权——与Grab/Joor互证。

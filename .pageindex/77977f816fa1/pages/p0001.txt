@@ -1,0 +1,119 @@
+# C6补充：莱茵邦联整合、法典施行差异与民族主义
+
+## 0. 阅读范围与核心判断
+
+**本轮实际核读：**
+
+- 1806年7月12日莱茵邦联条约法文转录，以及德文对照的相关条款。
+- 1807年11月15日威斯特伐利亚宪法法文转录。
+- **1807年11月15日致Jérôme的两封不同书信**。
+- 1809年2月3日巴登法典引入敕令。
+- 用户提供的Panckoucke《Œuvres》IV（1821）所载1806年两份文书。
+- James M. Brophy评Planert、Philip Dwyer评Aaslestad的完整书评。
+- Wilhelm Behaghel法律史著作的一页OCR。
+- 贝格法典的博物馆目录记录。
+
+**未通读Planert、Aaslestad、Fehrenbach、Rowe或Berding专著。**下文严格区分直接核读的文书、书评转述和本札记推断。
+
+【裁量｜高置信度】本轮材料支持的法国秩序，是法国军事保护／控制之下、由扩大的邦国执行行政和征兵的分层体系，而非已经形成的统一德国国家。须区分：
+
+1. 邦国领土整合与邦联中央集权；
+2. 法律移植与实际社会关系改变；
+3. 抵抗法国与追求德国全国统一。
+
+【裁量｜中置信度】地方、王朝、宗教认同并不必然排斥德意志认同；应考察它们何时、通过哪些组织与政治语言转化成行动。批判“全国解放神话”，不能倒置为“民族主义不存在”。
+
+---
+
+## 1. 1806年7月12日邦联条约：主权、共同机构与军事义务
+
+### 1.1 已读版本及来源限制
+
+**R1：法文正文**
+
+Gerhard Köbler，*Rheinbunds-Akte 1806*。
+
+URL：  
+https://www.koeblergerhard.de/Fontes/Rheinbunds-Akte1806.htm
+
+本地抓取：  
+`downloads/pages/227f1cf6004e.md`
+
+网页注明K. Binding，*Deutsche Staatsgrundgesetze*，III，pp. 3–15，并列Zeumer编史料集出处。实际读到的是网页转录，不是签署原件；文本有拼写瑕疵，并明确省略部分全权代表姓名和签字。
+
+**R2：德文对照**
+
+*Conföderations-Acte der rheinischen Bundes-Staaten vom 12. Juli 1806*。
+
+URL：  
+https://de.wikisource.org/wiki/Conf%C3%B6derations-Acte_der_rheinischen_Bundes-Staaten_vom_12._Juli_1806
+
+本地抓取：  
+`downloads/pages/92b28bd48ca8.md`
+
+实际核读制度条款及第35–38条；军事条款位于网页所标印刷页185–186。页面提醒：法文为有效正文，德文地名存在误拼。本轮未逐页对校其底本影像。
+
+**独立性限制：**这两项是不同语言的网络转录，不应当作两份独立形成的历史证言；其用途是检查读数与译法。
+
+### 1.2 条款对照
+
+| 条款 | 【事实：文本规定】 | 【文献推断：本札记据条文】 |
+|---|---|---|
+| 第1–3条 | 成员脱离旧帝国；旧帝国法律原则上失效，同时保留特定债权、养老金与莱茵航运规定 | 政治管辖权重组，不等于社会法律关系全部归零 |
+| 第4条 | 首席亲王名位不得损害成员完整主权 | 邦国主权是制度设计的一部分 |
+| 第6条 | 共同利益由设于法兰克福、分国王与诸侯两院的邦联会议处理 | 存在超邦协调方案，但不能据条文认定该机关已有效运作 |
+| 第9–11条 | 邦际争议由会议处理；组织、召集和执行规则待首席亲王提出、各邦批准 | 共同机构尚需组织法与政治同意 |
+| 第12条 | 法国皇帝为保护人，并任命首席亲王的继任者 | 法国拥有明确的人事杠杆 |
+| 第24–26条 | 扩大成员邦国主权；主权包括立法、最高司法、警察、征兵／募兵和课税 | 整合首先增强邦国行政与汲取能力 |
+| 第27–28条 | 被兼并诸侯保留私人领地及部分领主、封建权利，并享特殊身份保障 | 条约本身不是全面废除封建权的文书 |
+| 第35条 | 任一缔约方承担的大陆战争立即成为全体共同战争 | 不仅限于德国领土遭到攻击时的防御义务 |
+| 第36条 | 配额分四份；会议决定动员份额，实际武装须法国皇帝发出邀请 | 共同程序与法国发动权并存 |
+| 第37条 | 巴伐利亚承担要塞、军械储备与军粮准备 | 军事责任不仅是人数，还有基础设施和后勤 |
+
+**关键原文：**
+
+第4条：
+
+> “Le titre de Prince-Primat n’emporte avec lui aucune prérogative contraire à la plénitude de la souveraineté dont chacun des Confédérés doit jouir.”
+
+第26条：
+
+> “Les droits de souveraineté sont ceux de législation, de jurisdiction suprême, de haute police, de conscription militaire ou de recrutement et d’impôt.”
+
+第27条保留的权利包括：
+
+> “tous les droits seigneuriaux et féodaux nonessentiellement inhérens à la souveraineté”
+
+随后列举部分司法、狩猎、渔业、矿业、什一税及封建给付等。
+
+第35条：
+
+> “toute guerre continentale, que l’une des Parties contractantes aurait à soutenir, deviendra immédiatement commune à toutes les autres.”
+
+【裁量｜高置信度】第35条不能窄化为“只保卫德国”，但也不能不加说明地扩展成法国全部海上战争义务。
+
+### 1.3 第38条军事配额：63,000人的计算
+
+【事实｜R1第XXXVIII条；R2第38条】
+
+| 缔约方 | 战时配额：人，各兵种合计 |
+|---|---:|
+| 法国 | 200,000 |
+| 巴伐利亚 | 30,000 |
+| 符腾堡 | **12,000** |
+| 巴登 | 8,000 |
+| 贝格 | 5,000 |
+| 黑森—达姆施塔特 | 4,000 |
+| 拿骚及其他诸侯合计 | 4,000 |
+
+**德意志成员配额合计：**
+
+\[
+30,000+12,000+8,000+5,000+4,000+4,000=\mathbf{63,000}
+\]
+
+这是本札记据条文进行的算术加总，不是条文另外公布的统计数。
+
+R1的关键读数：
+
+> “le Royaume de Würtemberg, douze mille”

@@ -1,0 +1,389 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+Netherlands,NLD,1893,4703966
+Netherlands,NLD,1894,4763289
+Netherlands,NLD,1895,4823360
+Netherlands,NLD,1896,4884188
+Netherlands,NLD,1897,4945783
+Netherlands,NLD,1898,5008156
+Netherlands,NLD,1899,5072940
+Netherlands,NLD,1900,5140189
+Netherlands,NLD,1901,5209957
+Netherlands,NLD,1902,5282301
+Netherlands,NLD,1903,5357276
+Netherlands,NLD,1904,5433315
+Netherlands,NLD,1905,5510433
+Netherlands,NLD,1906,5588646
+Netherlands,NLD,1907,5667969
+Netherlands,NLD,1908,5748418
+Netherlands,NLD,1909,5830495
+Netherlands,NLD,1910,5914229
+Netherlands,NLD,1911,5999652
+Netherlands,NLD,1912,6086795
+Netherlands,NLD,1913,6175690
+Netherlands,NLD,1914,6265882
+Netherlands,NLD,1915,6357392
+Netherlands,NLD,1916,6450239
+Netherlands,NLD,1917,6544441
+Netherlands,NLD,1918,6640214
+Netherlands,NLD,1919,6736779
+Netherlands,NLD,1920,6834137
+Netherlands,NLD,1921,6932291
+Netherlands,NLD,1922,7031246
+Netherlands,NLD,1923,7131002
+Netherlands,NLD,1924,7232174
+Netherlands,NLD,1925,7334781
+Netherlands,NLD,1926,7438843
+Netherlands,NLD,1927,7544382
+Netherlands,NLD,1928,7651419
+Netherlands,NLD,1929,7756463
+Netherlands,NLD,1930,7859443
+Netherlands,NLD,1931,7960289
+Netherlands,NLD,1932,8058927
+Netherlands,NLD,1933,8155281
+Netherlands,NLD,1934,8252788
+Netherlands,NLD,1935,8351461
+Netherlands,NLD,1936,8451313
+Netherlands,NLD,1937,8552359
+Netherlands,NLD,1938,8654613
+Netherlands,NLD,1939,8760124
+Netherlands,NLD,1940,8868956
+Netherlands,NLD,1941,8981176
+Netherlands,NLD,1942,9096853
+Netherlands,NLD,1943,9216054
+Netherlands,NLD,1944,9336818
+Netherlands,NLD,1945,9459164
+Netherlands,NLD,1946,9583114
+Netherlands,NLD,1947,9708687
+Netherlands,NLD,1948,9835906
+Netherlands,NLD,1949,9964193
+Netherlands,NLD,1950,10113759
+Netherlands,NLD,1951,10264536
+Netherlands,NLD,1952,10382295
+Netherlands,NLD,1953,10493531
+Netherlands,NLD,1954,10615733
+Netherlands,NLD,1955,10751231
+Netherlands,NLD,1956,10889767
+Netherlands,NLD,1957,11026879
+Netherlands,NLD,1958,11187365
+Netherlands,NLD,1959,11348106
+Netherlands,NLD,1960,11486909
+Netherlands,NLD,1961,11639372
+Netherlands,NLD,1962,11807553
+Netherlands,NLD,1963,11969159
+Netherlands,NLD,1964,12131887
+Netherlands,NLD,1965,12301136
+Netherlands,NLD,1966,12464283
+Netherlands,NLD,1967,12607835
+Netherlands,NLD,1968,12740851
+Netherlands,NLD,1969,12890641
+Netherlands,NLD,1970,13052082
+Netherlands,NLD,1971,13208353
+Netherlands,NLD,1972,13342780
+Netherlands,NLD,1973,13453743
+Netherlands,NLD,1974,13559671
+Netherlands,NLD,1975,13680033
+Netherlands,NLD,1976,13786641
+Netherlands,NLD,1977,13868605
+Netherlands,NLD,1978,13953922
+Netherlands,NLD,1979,14050176
+Netherlands,NLD,1980,14162686
+Netherlands,NLD,1981,14262691
+Netherlands,NLD,1982,14333902
+Netherlands,NLD,1983,14396898
+Netherlands,NLD,1984,14462809
+Netherlands,NLD,1985,14538958
+Netherlands,NLD,1986,14626488
+Netherlands,NLD,1987,14724948
+Netherlands,NLD,1988,14825915
+Netherlands,NLD,1989,14921107
+Netherlands,NLD,1990,15030886
+Netherlands,NLD,1991,15155093
+Netherlands,NLD,1992,15276787
+Netherlands,NLD,1993,15389718
+Netherlands,NLD,1994,15485453
+Netherlands,NLD,1995,15565034
+Netherlands,NLD,1996,15640032
+Netherlands,NLD,1997,15723621
+Netherlands,NLD,1998,15827109
+Netherlands,NLD,1999,15940183
+Netherlands,NLD,2000,16058757
+Netherlands,NLD,2001,16182705
+Netherlands,NLD,2002,16288060
+Netherlands,NLD,2003,16366914
+Netherlands,NLD,2004,16425562
+Netherlands,NLD,2005,16465707
+Netherlands,NLD,2006,16493851
+Netherlands,NLD,2007,16531360
+Netherlands,NLD,2008,16597259
+Netherlands,NLD,2009,16684148
+Netherlands,NLD,2010,16771232
+Netherlands,NLD,2011,16851061
+Netherlands,NLD,2012,16915191
+Netherlands,NLD,2013,16967066
+Netherlands,NLD,2014,17030085
+Netherlands,NLD,2015,17107429
+Netherlands,NLD,2016,17204693
+Netherlands,NLD,2017,17315376
+Netherlands,NLD,2018,17421285
+Netherlands,NLD,2019,17537505
+Netherlands,NLD,2020,17636732
+Netherlands,NLD,2021,17730565
+Netherlands,NLD,2022,17904421
+Netherlands,NLD,2023,18092526
+Netherlands Antilles,ANT,500,1
+Netherlands Antilles,ANT,600,3
+Netherlands Antilles,ANT,700,7
+Netherlands Antilles,ANT,800,15
+Netherlands Antilles,ANT,900,30
+Netherlands Antilles,ANT,1000,60
+Netherlands Antilles,ANT,1100,121
+Netherlands Antilles,ANT,1200,242
+Netherlands Antilles,ANT,1300,484
+Netherlands Antilles,ANT,1400,969
+Netherlands Antilles,ANT,1500,1939
+Netherlands Antilles,ANT,1600,3878
+Netherlands Antilles,ANT,1700,7757
+Netherlands Antilles,ANT,1710,8393
+Netherlands Antilles,ANT,1720,9081
+Netherlands Antilles,ANT,1730,9825
+Netherlands Antilles,ANT,1740,10631
+Netherlands Antilles,ANT,1750,11502
+Netherlands Antilles,ANT,1760,12445
+Netherlands Antilles,ANT,1770,13465
+Netherlands Antilles,ANT,1780,14569
+Netherlands Antilles,ANT,1790,15763
+Netherlands Antilles,ANT,1800,17055
+Netherlands Antilles,ANT,1810,18453
+Netherlands Antilles,ANT,1820,19068
+Netherlands Antilles,ANT,1830,19704
+Netherlands Antilles,ANT,1840,20361
+Netherlands Antilles,ANT,1850,21040
+Netherlands Antilles,ANT,1860,25266
+Netherlands Antilles,ANT,1870,27500
+Netherlands Antilles,ANT,1880,32100
+Netherlands Antilles,ANT,1890,35071
+Netherlands Antilles,ANT,1900,38500
+Netherlands Antilles,ANT,1910,41580
+Netherlands Antilles,ANT,1920,42875
+Netherlands Antilles,ANT,1930,51846
+Netherlands Antilles,ANT,1940,73986
+Netherlands Antilles,ANT,1950,110189
+Netherlands Antilles,ANT,1951,112402
+Netherlands Antilles,ANT,1952,114518
+Netherlands Antilles,ANT,1953,116609
+Netherlands Antilles,ANT,1954,118741
+Netherlands Antilles,ANT,1955,120949
+Netherlands Antilles,ANT,1956,123237
+Netherlands Antilles,ANT,1957,125596
+Netherlands Antilles,ANT,1958,127998
+Netherlands Antilles,ANT,1959,130400
+Netherlands Antilles,ANT,1960,132765
+Netherlands Antilles,ANT,1961,135064
+Netherlands Antilles,ANT,1962,137319
+Netherlands Antilles,ANT,1963,139572
+Netherlands Antilles,ANT,1964,141893
+Netherlands Antilles,ANT,1965,144332
+Netherlands Antilles,ANT,1966,146920
+Netherlands Antilles,ANT,1967,149610
+Netherlands Antilles,ANT,1968,152279
+Netherlands Antilles,ANT,1969,154751
+Netherlands Antilles,ANT,1970,156908
+Netherlands Antilles,ANT,1971,158702
+Netherlands Antilles,ANT,1972,160183
+Netherlands Antilles,ANT,1973,161454
+Netherlands Antilles,ANT,1974,162673
+Netherlands Antilles,ANT,1975,163950
+Netherlands Antilles,ANT,1976,165320
+Netherlands Antilles,ANT,1977,166758
+Netherlands Antilles,ANT,1978,168250
+Netherlands Antilles,ANT,1979,169774
+Netherlands Antilles,ANT,1980,171309
+Netherlands Antilles,ANT,1981,172835
+Netherlands Antilles,ANT,1982,174362
+Netherlands Antilles,ANT,1983,175929
+Netherlands Antilles,ANT,1984,177586
+Netherlands Antilles,ANT,1985,179354
+Netherlands Antilles,ANT,1986,181252
+Netherlands Antilles,ANT,1987,183216
+Netherlands Antilles,ANT,1988,185116
+Netherlands Antilles,ANT,1989,186774
+Netherlands Antilles,ANT,1990,188047
+Netherlands Antilles,ANT,1991,188953
+Netherlands Antilles,ANT,1992,189511
+Netherlands Antilles,ANT,1993,189622
+Netherlands Antilles,ANT,1994,189159
+Netherlands Antilles,ANT,1995,188081
+Netherlands Antilles,ANT,1996,186311
+Netherlands Antilles,ANT,1997,183978
+Netherlands Antilles,ANT,1998,181506
+Netherlands Antilles,ANT,1999,179451
+Netherlands Antilles,ANT,2000,178219
+Netherlands Antilles,ANT,2001,177940
+Netherlands Antilles,ANT,2002,178514
+Netherlands Antilles,ANT,2003,179829
+Netherlands Antilles,ANT,2004,181695
+Netherlands Antilles,ANT,2005,183927
+Netherlands Antilles,ANT,2006,186541
+Netherlands Antilles,ANT,2007,189515
+Netherlands Antilles,ANT,2008,192610
+Netherlands Antilles,ANT,2009,195519
+Netherlands Antilles,ANT,2010,198009
+New Caledonia,NCL,-10000,3
+New Caledonia,NCL,-9000,6
+New Caledonia,NCL,-8000,13
+New Caledonia,NCL,-7000,27
+New Caledonia,NCL,-6000,55
+New Caledonia,NCL,-5000,111
+New Caledonia,NCL,-4000,223
+New Caledonia,NCL,-3000,447
+New Caledonia,NCL,-2000,894
+New Caledonia,NCL,-1000,1789
+New Caledonia,NCL,0,3579
+New Caledonia,NCL,100,3977
+New Caledonia,NCL,200,4419
+New Caledonia,NCL,300,4910
+New Caledonia,NCL,400,5455
+New Caledonia,NCL,500,6061
+New Caledonia,NCL,600,6735
+New Caledonia,NCL,700,7483
+New Caledonia,NCL,800,8315
+New Caledonia,NCL,900,9239
+New Caledonia,NCL,1000,10265
+New Caledonia,NCL,1100,11406
+New Caledonia,NCL,1200,12673
+New Caledonia,NCL,1300,14082
+New Caledonia,NCL,1400,15646
+New Caledonia,NCL,1500,17385
+New Caledonia,NCL,1600,19317
+New Caledonia,NCL,1700,21463
+New Caledonia,NCL,1710,22593
+New Caledonia,NCL,1720,23782
+New Caledonia,NCL,1730,25033
+New Caledonia,NCL,1740,26351
+New Caledonia,NCL,1750,27738
+New Caledonia,NCL,1760,29198
+New Caledonia,NCL,1770,30735
+New Caledonia,NCL,1780,32352
+New Caledonia,NCL,1790,34055
+New Caledonia,NCL,1800,35847
+New Caledonia,NCL,1810,37734
+New Caledonia,NCL,1820,39830
+New Caledonia,NCL,1830,42043
+New Caledonia,NCL,1840,44379
+New Caledonia,NCL,1850,46845
+New Caledonia,NCL,1860,49447
+New Caledonia,NCL,1870,51152
+New Caledonia,NCL,1880,52916
+New Caledonia,NCL,1890,54741
+New Caledonia,NCL,1900,56628
+New Caledonia,NCL,1910,58581
+New Caledonia,NCL,1920,60083
+New Caledonia,NCL,1930,61624
+New Caledonia,NCL,1940,63204
+New Caledonia,NCL,1950,63807
+New Caledonia,NCL,1951,64745
+New Caledonia,NCL,1952,65754
+New Caledonia,NCL,1953,66824
+New Caledonia,NCL,1954,67966
+New Caledonia,NCL,1955,69170
+New Caledonia,NCL,1956,70633
+New Caledonia,NCL,1957,72568
+New Caledonia,NCL,1958,74856
+New Caledonia,NCL,1959,77279
+New Caledonia,NCL,1960,79832
+New Caledonia,NCL,1961,82535
+New Caledonia,NCL,1962,85350
+New Caledonia,NCL,1963,88066
+New Caledonia,NCL,1964,90618
+New Caledonia,NCL,1965,93173
+New Caledonia,NCL,1966,95835
+New Caledonia,NCL,1967,98598
+New Caledonia,NCL,1968,101456
+New Caledonia,NCL,1969,104863
+New Caledonia,NCL,1970,109349
+New Caledonia,NCL,1971,114522
+New Caledonia,NCL,1972,119946
+New Caledonia,NCL,1973,125597
+New Caledonia,NCL,1974,131460
+New Caledonia,NCL,1975,137471
+New Caledonia,NCL,1976,142105
+New Caledonia,NCL,1977,144613
+New Caledonia,NCL,1978,146402
+New Caledonia,NCL,1979,148142
+New Caledonia,NCL,1980,149826
+New Caledonia,NCL,1981,151458
+New Caledonia,NCL,1982,153013
+New Caledonia,NCL,1983,155019
+New Caledonia,NCL,1984,157601
+New Caledonia,NCL,1985,160252
+New Caledonia,NCL,1986,162912
+New Caledonia,NCL,1987,165659
+New Caledonia,NCL,1988,168521
+New Caledonia,NCL,1989,172043
+New Caledonia,NCL,1990,176468
+New Caledonia,NCL,1991,181251
+New Caledonia,NCL,1992,186084
+New Caledonia,NCL,1993,190858
+New Caledonia,NCL,1994,195626
+New Caledonia,NCL,1995,200392
+New Caledonia,NCL,1996,205048
+New Caledonia,NCL,1997,209568
+New Caledonia,NCL,1998,214062
+New Caledonia,NCL,1999,218532
+New Caledonia,NCL,2000,223110
+New Caledonia,NCL,2001,227714
+New Caledonia,NCL,2002,232239
+New Caledonia,NCL,2003,236684
+New Caledonia,NCL,2004,240865
+New Caledonia,NCL,2005,244391
+New Caledonia,NCL,2006,247557
+New Caledonia,NCL,2007,250730
+New Caledonia,NCL,2008,253831
+New Caledonia,NCL,2009,257261
+New Caledonia,NCL,2010,261580
+New Caledonia,NCL,2011,266550
+New Caledonia,NCL,2012,271640
+New Caledonia,NCL,2013,276832
+New Caledonia,NCL,2014,281233
+New Caledonia,NCL,2015,283179
+New Caledonia,NCL,2016,283432
+New Caledonia,NCL,2017,283554
+New Caledonia,NCL,2018,283551
+New Caledonia,NCL,2019,283616
+New Caledonia,NCL,2020,284187
+New Caledonia,NCL,2021,285227
+New Caledonia,NCL,2022,287130
+New Caledonia,NCL,2023,289879
+New Zealand,NZL,1200,16000
+New Zealand,NZL,1300,20000
+New Zealand,NZL,1400,20000
+New Zealand,NZL,1500,80000
+New Zealand,NZL,1600,140000
+New Zealand,NZL,1700,200000
+New Zealand,NZL,1710,187739
+New Zealand,NZL,1720,185880
+New Zealand,NZL,1730,184040
+New Zealand,NZL,1740,182218
+New Zealand,NZL,1750,180414
+New Zealand,NZL,1760,178627
+New Zealand,NZL,1770,176859
+New Zealand,NZL,1780,175108
+New Zealand,NZL,1790,173374
+New Zealand,NZL,1800,200000
+New Zealand,NZL,1801,193187
+New Zealand,NZL,1802,186607
+New Zealand,NZL,1803,180250
+New Zealand,NZL,1804,174110
+New Zealand,NZL,1805,168179
+New Zealand,NZL,1806,162450
+New Zealand,NZL,1807,156917
+New Zealand,NZL,1808,151572
+New Zealand,NZL,1809,146409
+New Zealand,NZL,1810,141591
+New Zealand,NZL,1811,136768
+New Zealand,NZL,1812,132109
+New Zealand,NZL,1813,127609
+New Zealand,NZL,1814,123262
+New Zealand,NZL,1815,119064
+New Zealand,NZL,1816,115008

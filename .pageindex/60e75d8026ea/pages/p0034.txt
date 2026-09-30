@@ -1,0 +1,39 @@
+in a dynamically expanding industry, first mover advantage had very long-lasting effects in
+the sense that regions which developed their cotton spinning industries early, because of
+idiosyncratically high protection, were the ones which kept expanding as the industry grew.
+    I assess the validity of the instrument by estimating the effect of post-blockade spinning
+capacity on pre-blockade spinning capacity in Table 5. The OLS estimates (Columns (1) -
+(2)) are positive and statistically significant, highlighting the endogeneity problem caused by
+omitted variable bias. The estimated local average treatment effect, however, is statistically
+indistinguishable from zero (Columns (3)-(4)) as are the coefficients for the reduced form
+(Columns (7)-(8)). In fact, the baseline IV point estimate is 0.03. This constitutes some
+support for the validity of the instrument.
+    Second, I estimate the effect on aggregate departmental value added per capita in in-
+dustry in order to understand the wider implications of adopting this technology. Given
+the importance of cotton manufacturing for 19th century development, it is plausible that
+adopting frontier technology from Britain caused positive aggregate effects for the regional
+economy. Mechanized cotton spinning was one of the most innovative industries in the 19th
+century. Crafts (1985) estimates that a full 25 percent of TFP growth between 1780-1860
+was accounted for by cotton manufacturing alone. In France, 20 percent (15 percent) of
+industrial employment was in cottons in 1840 (1860) according to data from Chanut et al.
+(2000). It could also be the case, however, that if France did not have a latent comparative
+advantage in mechanized cotton spinning, then specialization in this sector led to negative
+effects on the adopting regional economies because of the misallocation of resources from
+their most productive use.
+    I observe industrial value added at four points in time; 1860, 1896, 1930 and 2000 using
+data from Combes et al. (2011). I divide these variables by departmental population in 1811
+to avoid confounding effects on industrial value added with endogenous population responses.
+Table 6 contains the results from estimating equation 2 without additional controls and
+adding lagged spinning capacity as a control.49 The OLS estimates in Columns (1) - (8)
+are large, positive, statistically significant and remarkably stable for all years through 2000.
+The forces which drove some departments to adopt the frontier technology in cotton spinning
+in the early 19th century also led them to specialize in the highest value added industries
+throughout the last two centuries. Columns (9) - (16) use only variation in post-blockade
+spinning capacity caused by the uneven trade cost shock. The estimated local average
+in 1887. This is despite the fact that France lost one of its largest spinning regions, Alsace, to Germany in
+1871.
+  49
+     The first stage and reduced form are reported in Table A.11.
+
+
+                                                     34

@@ -1,0 +1,25 @@
+
+
+40 Until the revolution, France did not have a common national legal system. Rather, some regions (in the northern part of the country) were governed by customary law akin to English common law, while others (in the south) had written legal codes.
+
+41 If conscripts who have deserted away from home do so to make their way to their hometown, then canton-level ruggedness could be positively related to desertion away from home as well. Similarly, high desertion rates occurring before leaving for the army may make it harder for authorities to find other kinds of deserters as their resources are stretched thin. In that case, too, the relationship between desertion and the ruggedness of conscripts’ home regions may be positive. On the other hand, a higher level of ruggedness may lead conscripts to substitute desertion in other regions with desertion in their home region, where it is easier to hide and escape the authorities. By changing the relative cost of different kinds of desertion that way, it is possible for desertion outside of the department of Haute-Vienne to be negatively related to the ruggedness of home counties.
+
+42 Since there are no extreme values of ruggedness in Haute-Vienne, we preferred using ruggedness instead of the log of ruggedness as our independent variable. Using the log of ruggedness changes neither the sign nor the significance of our results, except for the first specification in Table 2, where the log of ruggedness is statistically insignificant.
+
+43 Since these results rely on a small number of observations, we performed a sensitivity analysis using a “leave one observation out” routine for the specification in Table 2, Column (3). All coefficients produced with this method are positive and significant at the 1 percent threshold.
+
+44 Online Appendix J develops a simple formal model of discriminatory conscription enforcement.
+
+45 The variation in the magnitude of the log of the ruggedness coefficient is almost entirely due to variations in the size of the sample due to missing observations when including additional controls.
+
+46 When we replicate the results in Table 3, keeping sample size constant across specifications, the gap between the coefficients on the log of ruggedness in Columns (3) and (4) largely disappears.
+
+47 This is consistent with Forrest’s (1989) claim that shipowners lobbied the central government relentlessly to reduce the burden of conscription on their industry.
+
+48 See Gaviria (Reference Gaviria2000) for an application of this idea to violent crime in Columbia.
+
+49 The “best” departments saw an increase in their contingent size of 9 percent relative to their population, while the “worst” departments experienced a 9 percent decrease.
+
+50 Lacuée’s report to Napoléon, 6 April 1809, Archives Nationales, AF/IV/1124.
+
+51 Including department fixed effects when estimating equations Equations (1) and (2) would have prevented us from including ruggedness, which is a time-invariant variable, as a covariate. Estimating equation Equation (3) does not pose the same problem because we are interested in changes in the effect of ruggedness on conscription rates. Including departments fixed effects as controls simply allows us to account for potential department-specific, time-invariant factors.

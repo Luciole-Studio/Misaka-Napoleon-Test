@@ -1,0 +1,73 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: M1_conditional_probability_stress.csv
+
+```meta
+▸ table "M1_conditional_probability_stress.csv" (918 data rows)
+▸ columns
+    event_id: str, 17 uniq: ['america_war', 'austerlitz', 'commercial_crisis', 'elba_return', 'erfurt', 'gebora_badajoz', 'invasion_scare', 'leipzig', 'paris_abdication', 'paris_treaty', 'russia_retreat', 'russian_invasion', 'tilsit', 'trafalgar', 'wagram', 'war_resumption', 'waterloo']
+    market: str, 2 uniq: ['FR_rente_5pct', 'UK_consol_3pct']
+    bad_event_name: str, 2 uniq: ['British_defeat_stylized', 'French_debt_impairment_not_Napoleon_collapse']
+    assumed_prior_bad_probability: num, min=0.1, max=0.3
+    assumed_good_bad_price_gap_pct: num, min=20, max=60
+    assumed_event_attributable_fraction: num, min=0.25, max=1
+    implied_posterior_bad_probability: num, min=-0.7857, max=1.5578
+    feasible_0_to_1: str, 2 uniq: ['no', 'yes']
+    note: str, 1 uniq: ['binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified']
+```
+event_id,market,bad_event_name,assumed_prior_bad_probability,assumed_good_bad_price_gap_pct,assumed_event_attributable_fraction,implied_posterior_bad_probability,feasible_0_to_1,note
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.1,20,0.25,0.216300,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.2,20,0.25,0.316300,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.3,20,0.25,0.416300,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.1,20,0.5,0.332700,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.2,20,0.5,0.432700,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.3,20,0.5,0.532700,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.1,20,1.0,0.565300,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.2,20,1.0,0.665300,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.3,20,1.0,0.765300,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.1,40,0.25,0.158200,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.2,40,0.25,0.258200,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.3,40,0.25,0.358200,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.1,40,0.5,0.216300,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.2,40,0.5,0.316300,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.3,40,0.5,0.416300,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.1,40,1.0,0.332700,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.2,40,1.0,0.432700,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.3,40,1.0,0.532700,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.1,60,0.25,0.138800,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.2,60,0.25,0.238800,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.3,60,0.25,0.338800,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.1,60,0.5,0.177600,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.2,60,0.5,0.277600,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.3,60,0.5,0.377600,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.1,60,1.0,0.255100,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.2,60,1.0,0.355100,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,UK_consol_3pct,British_defeat_stylized,0.3,60,1.0,0.455100,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.1,20,0.25,0.219000,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.2,20,0.25,0.319000,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.3,20,0.25,0.419000,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.1,20,0.5,0.338000,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.2,20,0.5,0.438000,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.3,20,0.5,0.538000,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.1,20,1.0,0.576000,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.2,20,1.0,0.676000,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.3,20,1.0,0.776000,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.1,40,0.25,0.159500,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.2,40,0.25,0.259500,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.3,40,0.25,0.359500,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.1,40,0.5,0.219000,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.2,40,0.5,0.319000,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.3,40,0.5,0.419000,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.1,40,1.0,0.338000,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.2,40,1.0,0.438000,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.3,40,1.0,0.538000,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.1,60,0.25,0.139700,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.2,60,0.25,0.239700,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.3,60,0.25,0.339700,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.1,60,0.5,0.179300,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.2,60,0.5,0.279300,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.3,60,0.5,0.379300,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.1,60,1.0,0.258700,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.2,60,1.0,0.358700,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+war_resumption,FR_rente_5pct,French_debt_impairment_not_Napoleon_collapse,0.3,60,1.0,0.458700,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified
+invasion_scare,UK_consol_3pct,British_defeat_stylized,0.1,20,0.25,0.091000,yes,binary-state stress only; unmatched war finance/inflation/credit risk; posterior not data-identified

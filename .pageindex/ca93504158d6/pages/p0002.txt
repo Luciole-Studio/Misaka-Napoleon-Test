@@ -1,0 +1,78 @@
+## Sheet: B3_capacity.csv (continued)
+section,scenario,year,metric,value_low,value_high,unit,source,locator,note
+observation,S0,1805,all_cruisers_including_line_grand_total,713,713,ships,J3,Abstract13_PDF397,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1805,all_cruisers_including_line_sea_commission_tons,330013,330013,James_tons_burthen,J3,Abstract13_PDF397,Jan1; modern old-card extraction; image re-read in B3; sea ordinary may require repair
+observation,S0,1806,line_sea_commission,104,104,ships,J14,Abstract14:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1806,line_sea_ordinary,16,16,ships,J14,Abstract14:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1806,line_sea_total,120,120,ships,J14,Abstract14:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1806,line_harbour_commission,17,17,ships,J14,Abstract14:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1806,line_harbour_ordinary,27,27,ships,J14,Abstract14:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1806,line_building_or_ordered,26,26,ships,J14,Abstract14:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1806,line_grand_total,190,190,ships,J14,Abstract14:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1806,line_sea_commission_tons,184976,184976,James_tons_burthen,J14,Abstract14:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1806,line_sea_ordinary_tons,27607,27607,James_tons_burthen,J14,Abstract14:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1806,line_sea_total_tons,212583,212583,James_tons_burthen,J14,Abstract14:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1806,all_cruisers_including_line_sea_commission,551,551,ships,J14,Abstract14:Cruisers,Includes Line; do not add
+observation,S0,1806,all_cruisers_including_line_sea_ordinary,39,39,ships,J14,Abstract14:Cruisers,Includes Line; do not add
+observation,S0,1806,all_cruisers_including_line_sea_total,590,590,ships,J14,Abstract14:Cruisers,Includes Line; do not add
+observation,S0,1805,line_built,3,3,ships,J14,Abstract14:Built,"Built kings + merchants; previous year, not net growth"
+observation,S0,1807,line_sea_commission,103,103,ships,J15,Abstract15:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1807,line_sea_ordinary,20,20,ships,J15,Abstract15:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1807,line_sea_total,123,123,ships,J15,Abstract15:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1807,line_harbour_commission,20,20,ships,J15,Abstract15:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1807,line_harbour_ordinary,27,27,ships,J15,Abstract15:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1807,line_building_or_ordered,36,36,ships,J15,Abstract15:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1807,line_grand_total,206,206,ships,J15,Abstract15:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1807,line_sea_commission_tons,180671,180671,James_tons_burthen,J15,Abstract15:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1807,line_sea_ordinary_tons,36459,36459,James_tons_burthen,J15,Abstract15:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1807,line_sea_total_tons,217130,217130,James_tons_burthen,J15,Abstract15:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1807,all_cruisers_including_line_sea_commission,606,606,ships,J15,Abstract15:Cruisers,Includes Line; do not add
+observation,S0,1807,all_cruisers_including_line_sea_ordinary,51,51,ships,J15,Abstract15:Cruisers,Includes Line; do not add
+observation,S0,1807,all_cruisers_including_line_sea_total,657,657,ships,J15,Abstract15:Cruisers,Includes Line; do not add
+observation,S0,1806,line_built,2,2,ships,J15,Abstract15:Built,"Built kings + merchants; previous year, not net growth"
+observation,S0,1808,line_sea_commission,113,113,ships,J16,Abstract16:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1808,line_sea_ordinary,13,13,ships,J16,Abstract16:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1808,line_sea_total,126,126,ships,J16,Abstract16:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1808,line_harbour_commission,19,19,ships,J16,Abstract16:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1808,line_harbour_ordinary,44,44,ships,J16,Abstract16:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1808,line_building_or_ordered,48,48,ships,J16,Abstract16:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1808,line_grand_total,237,237,ships,J16,Abstract16:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1808,line_sea_commission_tons,197350,197350,James_tons_burthen,J16,Abstract16:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1808,line_sea_ordinary_tons,25089,25089,James_tons_burthen,J16,Abstract16:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1808,line_sea_total_tons,222439,222439,James_tons_burthen,J16,Abstract16:Line,Jan1; modern HTML transcription; not independently image-verified
+observation,S0,1808,all_cruisers_including_line_sea_commission,618,618,ships,J16,Abstract16:Cruisers,Includes Line; do not add
+observation,S0,1808,all_cruisers_including_line_sea_ordinary,55,55,ships,J16,Abstract16:Cruisers,Includes Line; do not add
+observation,S0,1808,all_cruisers_including_line_sea_total,673,673,ships,J16,Abstract16:Cruisers,Includes Line; do not add
+observation,S0,1807,line_built,7,7,ships,J16,Abstract16:Built,"Built kings + merchants; previous year, not net growth"
+observation,S0,1802,line_built,1,1,ships,J3,Abstract11:Line Built,Image read; sum kings + merchants; previous year
+observation,S0,1803,line_built,5,5,ships,J3,Abstract12:Line Built,Image read; sum kings + merchants; previous year
+observation,S0,1804,line_built,3,3,ships,J3,Abstract13:Line Built,Image read; sum kings + merchants; previous year
+observation,S0,1803,naval_supplies_granted,10211378,10211378,nominal_GBP,FB,p44:Expenditure,Total includes non-fleet transport/prisoner charges; fiscal periods not pure calendar year
+observation,S0,1803,voted_seamen_marines_reported_FB,100000,100000,persons,FB,p44:Expenditure,Not actual borne; some years changed within 13 lunar months; 1814 conflicts with James prose
+observation,S0,1804,naval_supplies_granted,12350606,12350606,nominal_GBP,FB,p44:Expenditure,Total includes non-fleet transport/prisoner charges; fiscal periods not pure calendar year
+observation,S0,1804,voted_seamen_marines_reported_FB,100000,100000,persons,FB,p44:Expenditure,Not actual borne; some years changed within 13 lunar months; 1814 conflicts with James prose
+observation,S0,1805,naval_supplies_granted,15035630,15035630,nominal_GBP,FB,p44:Expenditure,Total includes non-fleet transport/prisoner charges; fiscal periods not pure calendar year
+observation,S0,1805,voted_seamen_marines_reported_FB,120000,120000,persons,FB,p44:Expenditure,Not actual borne; some years changed within 13 lunar months; 1814 conflicts with James prose
+observation,S0,1806,naval_supplies_granted,18864341,18864341,nominal_GBP,FB,p44:Expenditure,Total includes non-fleet transport/prisoner charges; fiscal periods not pure calendar year
+observation,S0,1806,voted_seamen_marines_reported_FB,120000,120000,persons,FB,p44:Expenditure,Not actual borne; some years changed within 13 lunar months; 1814 conflicts with James prose
+observation,S0,1807,naval_supplies_granted,17400337,17400337,nominal_GBP,FB,p44:Expenditure,Total includes non-fleet transport/prisoner charges; fiscal periods not pure calendar year
+observation,S0,1807,voted_seamen_marines_reported_FB,130000,130000,persons,FB,p44:Expenditure,Not actual borne; some years changed within 13 lunar months; 1814 conflicts with James prose
+observation,S0,1808,naval_supplies_granted,18087547,18087547,nominal_GBP,FB,p44:Expenditure,Total includes non-fleet transport/prisoner charges; fiscal periods not pure calendar year
+observation,S0,1808,voted_seamen_marines_reported_FB,130000,130000,persons,FB,p44:Expenditure,Not actual borne; some years changed within 13 lunar months; 1814 conflicts with James prose
+observation,S0,1809,naval_supplies_granted,19578467,19578467,nominal_GBP,FB,p44:Expenditure,Total includes non-fleet transport/prisoner charges; fiscal periods not pure calendar year
+observation,S0,1809,voted_seamen_marines_reported_FB,130000,130000,persons,FB,p44:Expenditure,Not actual borne; some years changed within 13 lunar months; 1814 conflicts with James prose
+observation,S0,1810,naval_supplies_granted,18975120,18975120,nominal_GBP,FB,p44:Expenditure,Total includes non-fleet transport/prisoner charges; fiscal periods not pure calendar year
+observation,S0,1810,voted_seamen_marines_reported_FB,145000,145000,persons,FB,p44:Expenditure,Not actual borne; some years changed within 13 lunar months; 1814 conflicts with James prose
+observation,S0,1811,naval_supplies_granted,19822000,19822000,nominal_GBP,FB,p44:Expenditure,Total includes non-fleet transport/prisoner charges; fiscal periods not pure calendar year
+observation,S0,1811,voted_seamen_marines_reported_FB,145000,145000,persons,FB,p44:Expenditure,Not actual borne; some years changed within 13 lunar months; 1814 conflicts with James prose
+observation,S0,1812,naval_supplies_granted,19305759,19305759,nominal_GBP,FB,p44:Expenditure,Total includes non-fleet transport/prisoner charges; fiscal periods not pure calendar year
+observation,S0,1812,voted_seamen_marines_reported_FB,145000,145000,persons,FB,p44:Expenditure,Not actual borne; some years changed within 13 lunar months; 1814 conflicts with James prose
+observation,S0,1813,naval_supplies_granted,20096709,20096709,nominal_GBP,FB,p44:Expenditure,Total includes non-fleet transport/prisoner charges; fiscal periods not pure calendar year
+observation,S0,1813,voted_seamen_marines_reported_FB,140000,140000,persons,FB,p44:Expenditure,Not actual borne; some years changed within 13 lunar months; 1814 conflicts with James prose
+observation,S0,1814,naval_supplies_granted,19312070,19312070,nominal_GBP,FB,p44:Expenditure,Total includes non-fleet transport/prisoner charges; fiscal periods not pure calendar year
+source_conflict,S0,1814,voted_seamen_marines_reported_FB,117400,117400,persons,FB,p44:Expenditure,Not actual borne; some years changed within 13 lunar months; 1814 conflicts with James prose
+observation,S0,1815,naval_supplies_granted,19032700,19032700,nominal_GBP,FB,p44:Expenditure,Total includes non-fleet transport/prisoner charges; fiscal periods not pure calendar year
+observation,S0,1815,voted_seamen_marines_reported_FB,90000,90000,persons,FB,p44:Expenditure,Not actual borne; some years changed within 13 lunar months; 1814 conflicts with James prose
+observation,S0,1803,voted_seamen,38000,38000,persons,JB,year1803:months2,2 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1803,voted_marines,12000,12000,persons,JB,year1803:months2,2 lunar months in the specified vote; no dates invented; not actual borne
+observation,S0,1803,voted_total,50000,50000,persons,JB,year1803:months2,2 lunar months in the specified vote; no dates invented; not actual borne

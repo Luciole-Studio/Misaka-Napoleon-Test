@@ -1,0 +1,42 @@
+---
+source_url: "https://www.persee.fr/doc/ahess_0395-2649_1976_num_31_2_293724"
+final_url: "https://www.persee.fr/doc/ahess_0395-2649_1976_num_31_2_293724"
+provider: "exa"
+text_sha256: "aa86da285a35fd0af053ddc9fa2169f3a90dbf971124e9d1b01d2adefc792e52"
+title: "Le \u00ab d\u00e9clin \u00bb du syst\u00e8me esclavagiste britannique et l'abolition de la traite - Pers\u00e9e"
+content_kind: "page_text"
+---
+
+Le « déclin » du système esclavagiste britannique et l'abolition de la traite - Persée Saut au contenu
+
+#### Figures
+
+## Le « déclin » du système esclavagiste britannique et l'abolition de la traite
+
+#### [article]
+
+Annales Année 1976 31-2 pp. 414-435
+
+- Référence bibliographique
+
+Drescher Seymour. Le « déclin » du système esclavagiste britannique et l'abolition de la traite. In: Annales. Économies, Sociétés, Civilisations. 31ᵉ année, N. 2, 1976. pp. 414-435.
+
+### Résumé (eng)
+
+The prevailing view concerning the economic background of British abolition is that legal sanctions against the slave trade and slavery were preceded by and dependent upon secular decline in the economic system they supported. In this perspective; the successive stages of abolition are seen as a strategy of radical surgery, severing a festering element from the vital organs. The relevant data, however show that the British West Indies were increasing in relative as well as absolute importance during the period when the slave trade was attacked and abolished. The African component of the British slave system likewise reached its apogee at the end of the eighteenth century. The decline of British slavery followed, rather than preceded this crucial blow to its growth.
+
+### Liste des illustrations
+
+1. 1. Importations en Grande-Bretagne en provenance des Antilles Anglaises (1700-1800). 2. Exportations de la Grande-Bretagne vers les Antilles Anglaises (1700-1800). 3. Part du Commerce des Antilles Anglaises dans l'ensemble du commerce outre-mer de la Grande-Bretagne (1722-1822).[link]
+2. Tableau 1. - Importance des échanges entre l'Angleterre et les cinq parties non européennes du globe dans le commerce global de la Grande-Bretagne : pourcentages moyens par périodes de cinq années de 1713-1717 à 1818-1822.[link]
+3. Tableau 2. - Exportations britanniques vers l'Afrique, 1749-1822.[link]
+4. Tableau 3. - Exportations annuelles moyennes des trois « grands de l'exportation » du XVIIIe siècle[link]
+5. Tableau 4. - Pourcentages d'exportation de certains produits-types de l'industrie britannique (par quantité) en provenance des Indes occidentales, 1770-1800[link]
+6. Tableau 5. - Répercussions (maximum et minimum) des transferts de souveraineté sur la répartition de la production mondiale de sucre 1797-1814[link]
+7. Tableau 6. - Importance de la force de travail servile dans les empires britannique et français, 1710-1814 (en millier d'esclaves)[link]
+
+### Texte intégral
+
+---
+
+LE CLIN DU SYST ME ESCLAVAGISTE BRITANNIQUE ET ABOLITION DE LA TRAITE Rien dans le développement de économie de Empire britannique de 1775 1850 ne fait autant contraste que le dynamisme de industrialisation de la métropole comparé apparente stagnation de son système esclavagiste colonial Une thèse est imposée partir de cet ensemble de coordonnées qui rapport au fondement économique de abolition par la Grande-Bretagne les lois sanctionnant cette abolition de la traite et de esclavage furent la suite et la conséquence un déclin du système économique colonial déclin qui frappa aussi bien économie impériale britannique que les systèmes esclavagistes coloniaux concurrents Les étapes successives de abolition peuvent dans cette optique être assimilées aux différentes phases une opération de chirurgie radi cale au cours de laquelle la partie saine élément vital aurait été amputée du membre économiquement gangrené et ce au mépris du contexte idéologique et politique Cette thèse du déclin déjà été assez nettement esquissée dans les analyses contemporaines elle apparaît toutefois sous sa forme la plus percutante que dans ouvrage de Ragatz The Fall of the Planter Class in the British West Indies 1928 Selon Ragatz le système esclavagiste britannique se trouva un tournant dès la fin de la Guerre de Sept Ans il était devenu incapa ble de se développer un taux comparable celui des autres éléments constitu tifs de Empire ouvrage de Ragatz devint son tour le point de départ de étude la plus célèbre de Eric Williams Capitalism and Slavery 1944)2 Williams complétait le tableau dressé par Ragatz du déclin des îles en juxtaposant essor du capitalisme industriel britannique Le tour de force de Williams fut de poser équation établissant une relation causale entre les deux développements et ce dans des termes néo-marxistes rigoureux étude de Williams peut paraître plus schématique que celle de son prédécesseur en effet les hypothèses il élabore reposent explicitement sur les travaux de Ragatz Les chercheurs de la génération qui suit celle de Williams tendent générale ment établir une corrélation entre importance décroissante du système escla vagiste pour économie politique européenne et apparente facilité qui présida abolition du travail servile dans les colonies au cours du xixe siècle Williams 414

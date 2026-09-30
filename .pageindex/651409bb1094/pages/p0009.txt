@@ -1,0 +1,47 @@
+
+
+### J｜François Jarrige, “Une « armée de justiciers » ? Justice et répression du luddisme en Angleterre (1811–1816)”
+- Blois/SNES圆桌讲稿，15 octobre 2010，法语。
+- https://www.snes.edu/IMG/pdf/BLOIS_-_Justice_et_luttes_sociales_-_Luddisme_-_Jarrige_1_.pdf
+- `downloads/B5_Jarrige_Luddisme2010.pdf`，doc `4e8fe2aef689`，六页；实读pp2–6。
+- p2转引Crouzet1987 pp770–781的9000/3000/2500/3500劳动调查；p2旧劳动规制与市场化；p5转引Thomis约12,000军人和Thompson的拒射个案；pp5–6镇压与1824/25法律路径。
+- 原文误将Orders概括到1811初，不沿用此日期；未核其军人数与1808Wellington军人数比较，不使用比较。引用Navickas/Thompson/Crouzet，不能声称三个完全独立观察。详`notes_nonenglish.md`。
+
+### CA｜Encyclopaedia Britannica，“Combination Acts”
+- https://www.britannica.com/money/Combination-Acts
+- `downloads/pages/72f263dafad6.md`，捕获首段，末尾截断；不是原法令。
+- 使用1799/1800禁联合、3个月监禁/2个月苦役、两名治安官及对雇主执行不对称的概述。1824/25条目后文未获，本卡相应论证使用J，不偷引搜索摘要。
+
+### T16/T19｜Robert Poole为英国国家档案馆撰写的两篇导读
+- “Protest and Democracy 1816 to 1818, part 1”：https://www.nationalarchives.gov.uk/education/resources/protest-and-democracy-1816-to-1818/；`downloads/pages/6584f2f8b4f1.md`。
+- “Protest and democracy 1818 to 1820, part 2”：https://www.nationalarchives.gov.uk/education/resources/protest-democracy-1818-1820/；`downloads/pages/0165ca641153.md`。
+- 两篇Introduction正文全读。T16：复员/行业收缩/1816冷夏与粮法、1817请愿；T19：1818复苏—1819萧条，Peterloo（16 August 1819）、1820军人支持女王及guards哗变迹象。
+- 导读所列60,000集会及退伍规模为作者综合，本卡未亲查原名册。某些地方标签/因果说法本身需另审；主报告只用一般机制和已定位事件，不伪称亲阅全部内政部档案。
+
+### BR｜*Carta Régia de 28 de Janeiro de 1808*
+- 葡萄牙文同时代王室敕函，巴西众议院法律库转录，Coleção de Leis do Brasil de 1808 vol1 p1。
+- https://www2.camara.leg.br/legin/fed/carreg_sn/anterioresa1824/cartaregia-35757-28-janeiro-1808-539177-publicacaooriginal-37144-pe.html
+- `downloads/pages/ead7fbfac794.md`，正文全读。关键语“interina e provisoriamente”、“em razão das criticas e publicas circumstancias da Europa”；友好/和平国家及本国船进口税24%；多数货物可自由择港出口，巴西木及专卖品例外。
+- 不是1808即自由贸易零关税，也不是所有国家无条件准入。网站声明转录不替原刊，未假装核过原手稿。
+
+### CE｜Javier Cuenca Esteban, “India’s contribution to the British balance of payments, 1757–1812”
+- Carlos III WP06-03，封面March2006，正文October2005；**不是后来刊本**。
+- https://e-archivo.uc3m.es/bitstreams/59818d76-9b1b-435d-80c8-857d7d7efafc/download
+- `downloads/pages/ef0a274dde3a.md`；实读首部及pp14–23。
+- pp14–16财政/公司/私人流量；pp17–20称估计“conjectural”；转口利润率5%、进口替代成本80%等假设明确；pp21–23市场与贸易价格。支持印度资源转移≠英制品订单，以及欧洲不买印度转口品会削弱英国兑现。
+- 作者认为印度流入可为战争国际支付作重要贡献，不据此推定工业出口市场充足。未拿英制品、印度税收、转口利润重复加总。`notes_cuenca_discovery.md`。
+
+### O｜Kevin H. O’Rourke, “The worldwide economic impact of the Revolutionary and Napoleonic Wars”
+- TEP9/2005，May2005工作稿；**不是声称亲读2006刊本**。
+- https://www.tcd.ie/Economics/TEP/2005_papers/TEP9.pdf
+- `downloads/pages/dda4372be1f5.md`。实读引言/测量/模型及结论有关段L20–169、370–450（部分其他段未读）。
+- 表4英国1.7–1.8%年福利损失是单要素简化贸易模型，非GDP、失业或投资损失；脚注18承认不计失业可低估。
+- 结论讨论1815粮法、1786Eden条约及战后自由贸易路径；Crouzet1964的法国纺织保护论为本稿转引，没有写成直接阅读。
+- 理论模型的结果不是又一套独立海关数据；参数和历史表有共同来源。
+
+### C｜W. H. Chaloner对Crouzet专著的书评
+- *Revue belge de Philologie et d’Histoire* 38-2（1960）, pp525–526。
+- https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2
+- `downloads/pages/e5b32951df65.md`，全文已读。
+- 书评介绍François Crouzet, *L’économie britannique et le blocus continental (1806–1813)*，PUF1958，二卷949页。转引p855：“Nous pensons avoir démontré également que le Blocus Continental fut à l'origine de la crise de 1810, ce véritable ouragan qui secoua toute l'économie britannique ...”。
+- 保留强反论：走私成本高且有限、扣船/保险损失、1810–12社会危机与战争能力削弱。书評“revolutionary situation ... without revolutionaries”是解释不是普遍革命组织观测。未获得Crouzet1958/1987原书，不假报原书全读。

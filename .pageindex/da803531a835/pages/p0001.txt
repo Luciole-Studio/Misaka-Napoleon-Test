@@ -1,0 +1,21 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: B5_annual_exports_1803_1815.csv
+
+```meta
+▸ table "B5_annual_exports_1803_1815.csv" (13 data rows)
+```
+year,north_europe,south_europe_turkey_egypt,asia,latin_foreign_west_indies,usa_raw,usa_corrected,canada,british_west_indies,africa,total_raw,total_corrected,unit,source,note
+1803,11.372,3.868,2.733,0.193,5.273000000000001,5.273000000000001,1.082,2.38,0.819,27.72,27.72,GBP_m_official_fixed_old_prices_incl_reexports,A40!row102,raw_cached_value
+1804,12.716,3.033,1.766,0.312,6.398,6.398,1.056,4.282,1.173,30.736,30.736,GBP_m_official_fixed_old_prices_incl_reexports,A40!row103,raw_cached_value
+1805,13.026,2.44,1.669,0.319,7.148999999999999,7.148999999999999,0.865,3.832,0.991,30.291,30.291,GBP_m_official_fixed_old_prices_incl_reexports,A40!row104,raw_cached_value
+1806,10.533,2.678,1.937,1.796,8.613,8.613,0.951,4.734,1.433,32.675,32.675,GBP_m_official_fixed_old_prices_incl_reexports,A40!row105,raw_cached_value
+1807,9.412,3.278,1.884,1.326,7.920999999999999,7.920999999999999,1.061,4.579,0.798,30.259,30.259,GBP_m_official_fixed_old_prices_incl_reexports,A40!row106,raw_cached_value
+1808,4.734,6.547,1.933,4.83,3.992,3.992,1.125,5.929,0.533,29.623,29.623,GBP_m_official_fixed_old_prices_incl_reexports,A40!row107,raw_cached_value
+1809,13.666,10.055,1.648,6.382,5.188,5.188,1.748,5.975,0.706,45.36799999999999,45.36799999999999,GBP_m_official_fixed_old_prices_incl_reexports,A40!row108,raw_cached_value
+1810,11.221,8.385,1.717,5.97,7.813,7.813,1.845,4.79,0.484,42.225,42.225,GBP_m_official_fixed_old_prices_incl_reexports,A40!row109,raw_cached_value
+1811,2.358,12.606,1.665,3.047,11.432,1.4320000000000004,1.91,4.123,0.318,37.459,27.459000000000003,GBP_m_official_fixed_old_prices_incl_reexports,A40!row110,1811_USA_minus10_based_on_Marshall1833_p74_pdf88
+1812,5.46,15.528,1.779,4.115,4.135999999999999,4.135999999999999,1.419,4.767,0.444,37.648,37.648,GBP_m_official_fixed_old_prices_incl_reexports,A40!row111,raw_cached_value
+1813,,,,,,,,,,,,GBP_m_official_fixed_old_prices_incl_reexports,A40!row112,1813_missing_no_imputation
+1814,22.922,12.348,1.698,4.302,0.006999999999999673,0.006999999999999673,4.093,6.315,0.422,52.107,52.107,GBP_m_official_fixed_old_prices_incl_reexports,A40!row113,raw_cached_value
+1815,19.86,9.071,2.093,3.786,11.937,11.937,3.099,6.916,0.393,57.155,57.155,GBP_m_official_fixed_old_prices_incl_reexports,A40!row114,raw_cached_value

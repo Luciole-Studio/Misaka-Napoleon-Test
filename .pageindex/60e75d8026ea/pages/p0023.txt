@@ -1,0 +1,40 @@
+moving from the 25th to the 75th percentile of the trade cost shock leads to a predicted
+increase in spinning capacity per capita that is about the same size as mean spinning capacity
+in 1812 across departments. To assess the relative size of the shock, moving from the 25th and
+75th percentile (roughly 400 land based kilometers) is equivalent to moving a department
+along the English Channel to the Spanish border. That would imply moving Bruges, in
+present-day Belgium, to Toulouse, in present-day France .
+    Results are robust to alternative measures of the trade cost shock and different assump-
+tions about the functional form of the specification.30 In order to understand the extent
+to which treatment intensity is continuous, I include a time-varying intercept for depart-
+ments above median latitude, which will soak up much of the binary, north-south variation.
+Consistent with continuous treatment intensity, results remain similar in magnitude and
+statistically significant (Table A.3, Column (5)).31
+    As the scatterplot in Figure A.7 makes clear, there is large variation in the extent to
+which spinning capacity increased during this time period, raising the concern that the
+effect may be driven by a small number of outliers. This is not the case. Results are robust
+to winsorizing the top 10% of the observations (Table A.3, Column (8)). Identification
+comes not only from regions which were large to begin with, or regions which saw the largest
+increases in spinning capacity. This is also apparent from the scatterplot, which shows the
+remarkable extent to which all departments that received a high trade cost shock increased
+their spinning capacity.
+    How did departments go about scaling up their spinning capacity? Table A.5 exam-
+ines the extent to which increases in spinning capacity were driven by firm entry (extensive
+margin) relative to pre-existing firms investing in more capacity (intensive margin). Exploit-
+ing the fact that firm level data is available for the initial period of the Napoleonic Wars,
+in particular during the North Sea blockade (1803-1806), I find that the extensive margin
+accounted for the vast majority of the effect, at least during this time period. This is im-
+portant, as learning-by-doing models of infant-industry implicitly assume that a financial
+constraint inhibits any one entrepreneur from being able to grow sufficiently large in order
+to internalize externalities. The fact that most of the increase in capacity was driven by new
+firms entering the market is consistent with a mechanism where firms do not internalize the
+force which will render production profitable in the long-term.
+ 30
+      Tables A.3 - A.8 contain the results. These are discussed in detail in Appendix A.2.1
+ 31
+      For comparison, Tables A.4 presents the results from estimating a standard, binary DD model.
+
+
+
+
+                                                    23

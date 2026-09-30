@@ -1,0 +1,3 @@
+
+
+**产物：**`B2_series.csv`（56年史实及分日期附列）；`B2_consol_monthly_1809_1812.csv`；`B2_model_paths.csv`；`B2_model_assumptions.json`；`B2_model.py`；`build_B2_series.py`；`BoE_selected_cached_values.xlsx`；`BoE_provenance.json`；`verify_B2.py`与`B2_validation.txt`；`B2_independent_audit.md`；银行与所得税/补贴两份证据备忘。旧资料复用自上一轮C4补证及财政子表，已逐项复读承重段，不继承旧“未识别”结论。

@@ -1,0 +1,42 @@
+---
+source_url: "https://www.cervantesvirtual.com/obra-visor/constitucion-de-bayona-6-de-julio-1808/html/437fe325-fb92-48b7-a963-a36d6a8fd6af_2.html"
+final_url: "https://www.cervantesvirtual.com/obra-visor/constitucion-de-bayona-6-de-julio-1808/html/437fe325-fb92-48b7-a963-a36d6a8fd6af_2.html"
+provider: "exa"
+text_sha256: "e509ff3e437563b0b49fda2bad10a82e38dc2293a63f718456d7c6db6565fa6d"
+title: "Constituci\u00f3n de Bayona de 6 de julio de 1808 | Biblioteca Virtual Miguel de Cervantes"
+content_kind: "page_text"
+---
+
+Constitución de Bayona de 6 de julio de 1808 | Biblioteca Virtual Miguel de Cervantes Saltar al contenido principal
+
+Siguiente
+
+# Estatuto de Bayona de 1808
+
+(6 de julio de 1808)
+
+En el nombre de Dios Todopoderoso: Don José Napoleón, por la gracia de Dios, Rey de las Españas y de las Indias:
+
+Habiendo oído a la Junta Nacional, congregada en Bayona de orden de nuestro muy caro y muy amado hermano Napoleón, Emperador de los franceses y Rey de Italia, protector de la Confederación del Rhin, etc.
+
+Hemos decretado y decretamos la presente Constitución, para que se guarde como ley fundamental de nuestros Estados y como base del pacto que une a nuestros pueblos con Nos, y a Nos con nuestros pueblos.
+
+## AnteriorSiguienteTítulo I. De la religión
+
+Artículo 1.- La religión Católica, Apostólica y Romana, en España y en todas las posesiones españolas, será la religión del Rey y de la Nación, y no se permitirá ninguna otra.
+
+## AnteriorSiguienteTítulo II. De la sucesión de la Corona
+
+Artículo 2.- La Corona de las Españas y de las Indias será hereditaria en nuestra descendencia directa, natural y legítima, de varón en varón, por orden de primogenitura y con exclusión perpetua de las hembras.
+
+En defecto de nuestra descendencia masculina natural y legítima, la Corona de España y de las Indias volverá a nuestro muy caro y muy amado hermano Napoleón, Emperador de los franceses y Rey de Italia, y a sus herederos y descendientes varones, naturales y legítimos o adoptivos.
+
+En defecto de la descendencia masculina, natural o legítima o adoptiva de dicho nuestro muy caro y muy amado hermano Napoleón, pasará la Corona a los descendientes varones, naturales legítimos, del príncipe Luis-Napoleón, Rey de Holanda.
+
+En defecto de descendencia masculina natural y legítima del príncipe Luis-Napoleón, a los descendientes varones naturales y legítimos del príncipe Jerónimo-Napoleón, Rey de Westfalia.
+
+En defecto de éstos, al hijo primogénito, nacido antes de la muerte del último Rey, de la hija primogénita entre las que tengan hijos varones, y a su descendencia masculina, natural y legítima, y en caso que el último Rey no hubiese dejado hija que tenga varón, a aquél que haya sido designado por su testamento, ya sea entre sus parientes más cercanos, o ya entre aquellos que haya creído más dignos de gobernar a los españoles.
+
+Esta designación del Rey se presentará a las Cortes para su aprobación.
+
+Artículo 3.- La Corona de las Españas y de las Indias no podrá reunirse nunca con otra en una misma persona.

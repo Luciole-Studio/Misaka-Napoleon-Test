@@ -1,0 +1,58 @@
+# C12 有界证据札记：1812年波兰—立陶宛与农奴政策
+
+## 结论与使用边界
+
+【事实／文献记录】已实际阅读两篇波兰史学论文的相关正文，而非仅摘要；找到总联盟宣言的波兰语转引、维尔纽斯答复的法文刊本转录、立陶宛动员编制和实际数量，以及1812年12月20日拒绝解放俄国农奴的公开自述。
+
+【裁量：高置信度】这些材料不能拼成“复国＋全面农奴解放”的既有统一方案。联盟宣告、法国支持的外交界限、占领区军事组织和俄国社会革命，是四个不同证据对象。本文不进行C12整卡综合。
+
+【核验限制】本次读的是网页／PDF抽取正文与数字转录，未逐页对校原书影像。部分证据使用文书标题、日期、脚注号定位而非未经核实的印刷页码。7月11日接见日期尚需独立原文核准；7月16日第七号战报刊载答复已经核实。缓存路径均相对于项目根目录，缓存是抽取文本，不是原始PDF字节。
+
+## E1　总联盟宣言：1812年6月28日
+
+### 已读来源
+Dawid Madziar, “„Królestwo Polskie przywrócone” – oczekiwania współczesnych wobec Konfederacji Generalnej Królestwa Polskiego 1812–1813”, **Meritum**, 2016, VIII, pp.113–130。
+- URL：https://bibliotekanauki.pl/articles/540558.pdf
+- 缓存：`downloads/pages/ce13bc8c21a9.md`
+- 实读范围：导论至代表团答复讨论，缓存第16–334行；重点第163–196行，脚注24–27。
+
+【事实／转引】Madziar明确把宣读《Akt Konfederacji Generalnej》定位于6月28日第二次会议，转录其宣告：
+
+> „Królestwo Polskie jest przywrócone, Naród Polski na nowo w jedno ciało złączone”.
+
+译：“波兰王国已经恢复，波兰民族重新结合为一个整体。”此处保留论文转录语法，不擅自修订为另一版本。
+
+引文链：**转引自Madziar，脚注26** → M. Kallas, “Diariusze sejmów Księstwa Warszawskiego. Diariusz sejmowy z roku 1812”, *Teki Archiwalne*, 1989, t.21, **p.149**。Kallas正文未亲读，不冒称直接核验。论文脚注27另列 *Gazeta Warszawska*, 30 VI 1812, nr52, pp.905–914；同样仅作追索。
+
+【事实／转引】应与Matuszewicz在同日的演说区分：
+> „Powstanie więc Polska! Co ja mówię? Jest już Polska, a raczej nigdy ona być nie przestała”.
+
+这是演说，不是宣言同一句；转引链为Madziar脚注24 → Kallas，p.145。
+
+【文献推断：Madziar】宣言呼吁民族和解，要求波兰籍俄国官员、军人离开俄国服务；拿破仑希望通过民族动员引发俄属地区起事。作者并指出，热情尤其属于参与公共生活的“政治民族”，不能无差别覆盖平民、欠薪官员和承受征发的人群（正文开头及脚注5，转引Czubaty《Księstwo Warszawskie》，2011，pp.477–478）。
+
+【史料批判】作者并列报刊庆祝报道与回忆录中的冷淡、讥刺，明确提出后来的失望可能改变记忆（脚注33–37附近）。Fiszerowa、Potocka、Gajewski、Sapieha等回忆材料均属回溯性，不能把回忆中的“虚假热情”直接当作1812年全社会即时民意。
+
+【裁量：高】证明的是联盟自身宣告及诉求，既不是法国无条件承认全部旧疆，也不是农奴解放条款。完整宣言尚未直接对校，不能据此声称已经检视其全部条文。
+
+## E2　维尔纽斯答复：支持动员，同时保留对奥义务
+
+### 已读刊本转录
+*Œuvres de Napoléon Bonaparte*, t.V，Panckoucke编；本次使用Project Gutenberg #13475转录（网站说明底本影像来自Gallica；未亲查该影像）。
+- URL：https://www.gutenberg.org/cache/epub/13475/pg13475-images.html
+- 缓存：`downloads/pages/4ba9714f9fde.md`
+- 定位：**Livre septième；“Wilna, le 16 juillet 1812. Septième bulletin de la grande armée”末尾；“Réponse de l’empereur au discours de M. le comte palatin Wibicki…”**，缓存第305–348行。
+- 日期纪律：这份文本核实的是**7月16日战报中的公布／收录位置**；不能把它等同于接见日。7月11日为现有检索线索，仍待独立确认。
+
+【事实／文书原句】
+> « Dans ma position, j’ai bien des intérêts à concilier et bien des devoirs à remplir. »
+
+> « J’applaudis à tout ce que vous avez fait: j’autorise les efforts que vous voulez faire; tout ce qui dépendra de moi pour seconder vos résolutions, je le ferai. »
+
+关键保留（依数字转录，用其原拼写）：
+> « Je vous ai tenu le même langage lors de ma première apparition en Pologne; je dois ajouter ici que j’ai garanti à l’empereur d’Autriche l’intégrité de ses états, et que je ne saurais autoriser aucune manoeuvre ni aucun mouvement qui tendrait à le troubler dans la paisible possession de ce qui lui reste des provinces polonaises. »
+
+译：他保证奥皇领土完整，不会允许任何破坏奥皇对其仍保有的波兰省份和平占有的活动或运动。
+
+【事实／文书原句】答复同时把成功希望系于当地人口的一致努力：
+> « c’est surtout sur l’unanimité des efforts de la population qui les couvre, que vous devez fonder vos espérances de succès. »

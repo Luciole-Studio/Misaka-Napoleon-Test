@@ -1,0 +1,84 @@
+## Sheet: F4_fiscal.csv (continued)
+id,record_type,scenario,period,territory,series,value,low,high,unit,basis,source_id,locator,formula,notes
+F4-212,计划,S0,1812,比利时,annexed_receipts_component,83,,,百万法郎,1812预计1030m总收入中该地区份额；原文未逐项声明毛或净,M,p321/PDF341 image checked,,八项加总313.791，小于毛342.260044且原文尚有etc.，故更可能属毛口径；不得当作净上缴巴黎或实收。
+F4-213,计划,S0,1812,荷兰,annexed_receipts_component,66.5,,,百万法郎,1812预计1030m总收入中该地区份额；原文未逐项声明毛或净,M,p321/PDF341 image checked,,八项加总313.791，小于毛342.260044且原文尚有etc.，故更可能属毛口径；不得当作净上缴巴黎或实收。
+F4-214,计划,S0,1812,汉萨各部,annexed_receipts_component,38.791,,,百万法郎,1812预计1030m总收入中该地区份额；原文未逐项声明毛或净,M,p321/PDF341 image checked,,八项加总313.791，小于毛342.260044且原文尚有etc.，故更可能属毛口径；不得当作净上缴巴黎或实收。
+F4-215,计划,S0,1812,莱茵各部,annexed_receipts_component,37.5,,,百万法郎,1812预计1030m总收入中该地区份额；原文未逐项声明毛或净,M,p321/PDF341 image checked,,八项加总313.791，小于毛342.260044且原文尚有etc.，故更可能属毛口径；不得当作净上缴巴黎或实收。
+F4-216,计划,S0,1812,皮埃蒙特,annexed_receipts_component,33,,,百万法郎,1812预计1030m总收入中该地区份额；原文未逐项声明毛或净,M,p321/PDF341 image checked,,八项加总313.791，小于毛342.260044且原文尚有etc.，故更可能属毛口径；不得当作净上缴巴黎或实收。
+F4-217,计划,S0,1812,托斯卡纳,annexed_receipts_component,22.5,,,百万法郎,1812预计1030m总收入中该地区份额；原文未逐项声明毛或净,M,p321/PDF341 image checked,,八项加总313.791，小于毛342.260044且原文尚有etc.，故更可能属毛口径；不得当作净上缴巴黎或实收。
+F4-218,计划,S0,1812,利古里亚,annexed_receipts_component,16,,,百万法郎,1812预计1030m总收入中该地区份额；原文未逐项声明毛或净,M,p321/PDF341 image checked,,八项加总313.791，小于毛342.260044且原文尚有etc.，故更可能属毛口径；不得当作净上缴巴黎或实收。
+F4-219,计划,S0,1812,罗马国家,annexed_receipts_component,16.5,,,百万法郎,1812预计1030m总收入中该地区份额；原文未逐项声明毛或净,M,p321/PDF341 image checked,,八项加总313.791，小于毛342.260044且原文尚有etc.，故更可能属毛口径；不得当作净上缴巴黎或实收。
+F4-220,算术,S0,1812,法国当时疆域；逐年变化,annexed_receipts_components_sum,313.791,,,百万法郎,八个列名地区相加；原文另有etc.未列项,M,p321/PDF341,83+66.5+38.791+37.5+33+22.5+16+16.5,用于判断分项属毛口径，不是原表合计格
+F4-221,计划,S0,1811-04-30,荷兰,gaudin_recent_annexation_extra_revenue,55,,,百万法郎,Gaudin报告最近并合地可预见增收，全部合计“105万万至多”,M,p321/PDF341 image checked,,预见增收非已实收；五项加总104.5，与“至多105”一致。同页巴卡Simplon税收连行政费用都不够。
+F4-222,计划,S0,1811-04-30,Bouches-du-Rhin/Escaut/Bréda,gaudin_recent_annexation_extra_revenue,7,,,百万法郎,Gaudin报告最近并合地可预见增收，全部合计“105万万至多”,M,p321/PDF341 image checked,,预见增收非已实收；五项加总104.5，与“至多105”一致。同页巴卡Simplon税收连行政费用都不够。
+F4-223,计划,S0,1811-04-30,三个汉萨部,gaudin_recent_annexation_extra_revenue,20,,,百万法郎,Gaudin报告最近并合地可预见增收，全部合计“105万万至多”,M,p321/PDF341 image checked,,预见增收非已实收；五项加总104.5，与“至多105”一致。同页巴卡Simplon税收连行政费用都不够。
+F4-224,计划,S0,1811-04-30,伊利里亚,gaudin_recent_annexation_extra_revenue,10,,,百万法郎,Gaudin报告最近并合地可预见增收，全部合计“105万万至多”,M,p321/PDF341 image checked,,预见增收非已实收；五项加总104.5，与“至多105”一致。同页巴卡Simplon税收连行政费用都不够。
+F4-225,计划,S0,1811-04-30,Rome/Trasimène,gaudin_recent_annexation_extra_revenue,12.5,,,百万法郎,Gaudin报告最近并合地可预见增收，全部合计“105万万至多”,M,p321/PDF341 image checked,,预见增收非已实收；五项加总104.5，与“至多105”一致。同页巴卡Simplon税收连行政费用都不够。
+F4-226,计划,S0,1810-07-25,荷兰,Dutch_debt_service_anticipated,28,,,百万法郎,皇帝问Mollien概算；与Marion列出的年度债息26不同,C-JUL,致Mollien,,
+F4-227,计划,S0,1810-07-25,荷兰,Dutch_army_navy_anticipated,32,,,百万法郎,10m荷兰盾陆军+6m海军，原信近似×2,C-JUL,致Mollien,,
+F4-228,计划,S0,1810-07,Rome/Trasimene,Roman_gross_claim_rejected,15.9,,,百万法郎,帝国目标/批评，不是当地实绩,C-JUL,7-22/7-26财政会议,,
+F4-229,计划,S0,1810-07,Rome/Trasimene,Roman_municipal_cost_to_deduct,3,,,百万法郎,帝国目标/批评，不是当地实绩,C-JUL,7-22/7-26财政会议,,
+F4-230,计划,S0,1810-07,Rome/Trasimene,Roman_population_in_imperial_calculation,0.8,,,百万人,帝国目标/批评，不是当地实绩,C-JUL,7-22/7-26财政会议,,
+F4-231,计划,S0,1810-07,Rome/Trasimene,Roman_sovereignty_target,8,,,百万法郎,帝国目标/批评，不是当地实绩,C-JUL,7-22/7-26财政会议,,
+F4-232,算术,S0,1810-07-26,法国当时疆域；逐年变化,sovereignty_per_million_population,13.41891891891892,,,百万法郎/百万人,原文舍入为14；这里精确除法,C-JUL,罗马财政会议,496.5/37,
+F4-233,文献转录,S0,1809-1813地区概况,伊利里亚,Illyria_population,1.5,,,百万人,Grab地区人口量级非1812普查；预算不是收入,GR,"pp188,191",,
+F4-234,文献转录,S0,1812,伊利里亚,Illyria_budget,13.5,,,百万法郎,Grab地区人口量级非1812普查；预算不是收入,GR,"pp188,191",,
+F4-235,文献转录,S0,1812,伊利里亚,Illyria_army_navy_cost,9.9,,,百万法郎,Grab地区人口量级非1812普查；预算不是收入,GR,"pp188,191",,
+F4-236,计划,S6,1810-1812,Rome/Trasimène,s6_target_sovereignty_share_gross,11,,,百万法郎,80万人×每百万约14m的目标分摊,C-JUL,1810-07-26会议,,帝国分摊目标/预计，**目标非实收**；可核实收待D2以当地账簍填入
+F4-237,计划,S6,1810-1812,Rome/Trasimène,s6_target_net_after_local_charges,8,,,百万法郎,扣民用表1.5与教目支出1.2后的目标净额,C-JUL,1810-07-26会议,,帝国分摊目标/预计，**目标非实收**；可核实收待D2以当地账簍填入
+F4-238,计划,S6,1810-1812,Rome/Trasimène,s6_gaudin_expected_increment,12.5,,,百万法郎,Gaudin 1811-04-30可预见增收,M,p321/PDF341,,帝国分摊目标/预计，**目标非实收**；可核实收待D2以当地账簍填入
+F4-239,计划,S6,1810-1812,Rome/Trasimène,s6_marion_1812_component,16.5,,,百万法郎,1812并合地预计份额，推断为毛,M,p321/PDF341,,帝国分摊目标/预计，**目标非实收**；可核实收待D2以当地账簍填入
+F4-240,计划,S6,1810-1812,荷兰,s6_target_threshold_total,60,,,百万法郎,债息28+陆海约32的粗列门槛,C-JUL,1810-07-25致Mollien,,帝国分摊目标/预计，**目标非实收**；可核实收待D2以当地账簍填入
+F4-241,计划,S6,1810-1812,荷兰,s6_target_debt_service,28,,,百万法郎,三分之一化(tiercement)后的年息测算目标,C-JUL,1810-07-25致Mollien,,帝国分摊目标/预计，**目标非实收**；可核实收待D2以当地账簍填入
+F4-242,计划,S6,1810-1812,荷兰,s6_marion_debt_annuity_after_tiercement,26,,,百万法郎,削至三分之一后的年金额，原为78；非本金,M,p325/PDF345,,帝国分摊目标/预计，**目标非实收**；可核实收待D2以当地账簍填入
+F4-243,计划,S6,1810-1812,荷兰,s6_gaudin_expected_increment,55,,,百万法郎,Gaudin可预见增收,M,p321/PDF341,,帝国分摊目标/预计，**目标非实收**；可核实收待D2以当地账簍填入
+F4-244,计划,S6,1810-1812,荷兰,s6_marion_1812_component,66.5,,,百万法郎,1812份额，推断为毛,M,p321/PDF341,,帝国分摊目标/预计，**目标非实收**；可核实收待D2以当地账簍填入
+F4-245,计划,S6,1810-1812,汉萨各部,s6_gaudin_expected_increment,20,,,百万法郎,Gaudin可预见增收,M,p321/PDF341,,帝国分摊目标/预计，**目标非实收**；可核实收待D2以当地账簍填入
+F4-246,计划,S6,1810-1812,汉萨各部,s6_marion_1812_component,38.791,,,百万法郎,1812份额，推断为毛,M,p321/PDF341,,帝国分摊目标/预计，**目标非实收**；可核实收待D2以当地账簍填入
+F4-247,计划,S6,1810-1812,伊利里亚,s6_gaudin_expected_increment,10,,,百万法郎,Gaudin可预见增收,M,p321/PDF341,,帝国分摊目标/预计，**目标非实收**；可核实收待D2以当地账簍填入
+F4-248,计划,S6,1810-1812,伊利里亚,s6_checked_expenditure_1812,13.5,,,百万法郎,Grab报告预算支出，其中军海9.9；收入长期不敷,GR,"pp188,191",,帝国分摊目标/预计，**目标非实收**；可核实收待D2以当地账簍填入
+F4-249,计划,S6,1810-1812,托斯卡纳,s6_marion_1812_component,22.5,,,百万法郎,已1810年6月计入普通贡献,M,p321/PDF341,,帝国分摊目标/预计，**目标非实收**；可核实收待D2以当地账簍填入
+F4-250,缺测,S6,1810-1812,Simplon,s6_checked_shortfall_flag,,,,百万法郎,原文：税收连行政费用都不够；并入理由为对意交通,M,p321/PDF341,,帝国分摊目标/预计，**目标非实收**；可核实收待D2以当地账簍填入
+F4-251,缺测,S6,1810-1812,加泰罗尼亚,s6_checked_any,,,,百万法郎,本卡未取得任何可核数；缺测不是零,MODEL,待D2,,帝国分摊目标/预计，**目标非实收**；可核实收待D2以当地账簍填入
+F4-252,算术,S6,1810-07-26,法国当时疆域；逐年变化,s6_target_per_million_exact,13.41891891891892,,,百万法郎/百万人,主权费496.5÷3700万人；文书自取整为14,C-JUL,罗马财政会议,496.5/37,D2/P2应以各地人口乘此得目标，再减当地民政/驻军/旧债得净得
+F4-253,文献转录,S0,1803-1814,法国当时疆域；逐年变化,senator_annual_salary,25000,,,法郎/人年,帝国元老年俸，另有sénatoreries及勋章,LZ,Lentz网页正文,,经二手网页/书评转述，原档未阅；用于补偿池量级对照，不作预算实支
+F4-254,文献转录,S0,an IX-1810,法国当时疆域；逐年变化,senatorerie_count,36,,,处,初31处，经1806/1808/1810数波至36；每处年入2–2.5万法郎,LZ,附录2,,经二手网页/书评转述，原档未阅；用于补偿池量级对照，不作预算实支
+F4-255,文献转录,S0,1814-04/05,法国当时疆域；逐年变化,bourbon_pension_per_senator,36000,,,法郎/人年,复辟实付的继承价；另84名元老入贵族院,LZ,Lentz网页正文,,经二手网页/书评转述，原档未阅；用于补偿池量级对照，不作预算实支
+F4-256,文献转录,S0,1814-04/05,法国当时疆域；逐年变化,bourbon_peers_from_senate,84,,,人,同上,LZ,Lentz网页正文,,经二手网页/书评转述，原档未阅；用于补偿池量级对照，不作预算实支
+F4-257,文献转录,S0,1803-1814,法国当时疆域；逐年变化,notable_income_share_500_5000,75,,,%,显贵电子名册分析：75%收入在500–5000法郎区间,BCN,Perseé书评,,经二手网页/书评转述，原档未阅；用于补偿池量级对照，不作预算实支
+F4-258,二手数据转录,S0,1816,复辟/七月王朝法国,restoration_fiscal_revenue,729,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-259,二手数据转录,S0,1816,复辟/七月王朝法国,restoration_balance,-19,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-260,二手数据转录,S0,1816,复辟/七月王朝法国,restoration_debt_interest_share_expenditure,9.1,,,%,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-261,二手数据转录,S0,1817,复辟/七月王朝法国,restoration_fiscal_revenue,879,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-262,二手数据转录,S0,1817,复辟/七月王朝法国,restoration_balance,81,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-263,二手数据转录,S0,1817,复辟/七月王朝法国,restoration_debt_interest_share_expenditure,10.44,,,%,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-264,二手数据转录,S0,1818,复辟/七月王朝法国,restoration_fiscal_revenue,900,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-265,二手数据转录,S0,1818,复辟/七月王朝法国,restoration_balance,-20,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-266,二手数据转录,S0,1818,复辟/七月王朝法国,restoration_debt_interest_share_expenditure,13.54,,,%,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-267,二手数据转录,S0,1819,复辟/七月王朝法国,restoration_fiscal_revenue,938,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-268,二手数据转录,S0,1819,复辟/七月王朝法国,restoration_balance,41,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-269,二手数据转录,S0,1819,复辟/七月王朝法国,restoration_debt_interest_share_expenditure,18.66,,,%,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-270,二手数据转录,S0,1820,复辟/七月王朝法国,restoration_fiscal_revenue,895,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-271,二手数据转录,S0,1820,复辟/七月王朝法国,restoration_balance,33,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-272,二手数据转录,S0,1820,复辟/七月王朝法国,restoration_debt_interest_share_expenditure,18.44,,,%,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-273,二手数据转录,S0,1821,复辟/七月王朝法国,restoration_fiscal_revenue,933,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-274,二手数据转录,S0,1821,复辟/七月王朝法国,restoration_balance,26,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-275,二手数据转录,S0,1821,复辟/七月王朝法国,restoration_debt_interest_share_expenditure,18.64,,,%,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-276,二手数据转录,S0,1822,复辟/七月王朝法国,restoration_fiscal_revenue,928,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-277,二手数据转录,S0,1822,复辟/七月王朝法国,restoration_balance,1,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-278,二手数据转录,S0,1822,复辟/七月王朝法国,restoration_debt_interest_share_expenditure,18.86,,,%,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-279,二手数据转录,S0,1823,复辟/七月王朝法国,restoration_fiscal_revenue,933,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-280,二手数据转录,S0,1823,复辟/七月王朝法国,restoration_balance,-75,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-281,二手数据转录,S0,1823,复辟/七月王朝法国,restoration_debt_interest_share_expenditure,19.59,,,%,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-282,二手数据转录,S0,1824,复辟/七月王朝法国,restoration_fiscal_revenue,919,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-283,二手数据转录,S0,1824,复辟/七月王朝法国,restoration_balance,3,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-284,二手数据转录,S0,1824,复辟/七月王朝法国,restoration_debt_interest_share_expenditure,20.52,,,%,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-285,二手数据转录,S0,1825,复辟/七月王朝法国,restoration_fiscal_revenue,960,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-286,二手数据转录,S0,1825,复辟/七月王朝法国,restoration_balance,-3,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-287,二手数据转录,S0,1825,复辟/七月王朝法国,restoration_debt_interest_share_expenditure,20.12,,,%,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-288,二手数据转录,S0,1826,复辟/七月王朝法国,restoration_fiscal_revenue,979,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-289,二手数据转录,S0,1826,复辟/七月王朝法国,restoration_balance,6,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-290,二手数据转录,S0,1826,复辟/七月王朝法国,restoration_debt_interest_share_expenditure,19.84,,,%,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-291,二手数据转录,S0,1827,复辟/七月王朝法国,restoration_fiscal_revenue,983,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-292,二手数据转录,S0,1827,复辟/七月王朝法国,restoration_balance,-38,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-293,二手数据转录,S0,1827,复辟/七月王朝法国,restoration_debt_interest_share_expenditure,20.84,,,%,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,

@@ -1,0 +1,18 @@
+
+
+---
+
+## 九、口径冲突与缺口登记（完整版见SOURCES.md）
+
+| # | 冲突/缺口 | 影响 | 能settle的材料 |
+|---|---|---|---|
+| 1 | Rowe（1806–10）与Woolf（1805–09）窗口不同，不可并表 | 逃征率对比只能分源引用 | Vallée 1936原表 |
+| 2 | 皮埃蒙特人口：六省相加1,861,852 vs Frasca正文1,813,473 | 人均值±2.6% | Frasca原表扫描/De Bartolomeis |
+| 3 | 利古里亚/莱芒人口无一手表 | 人均税带旗标 | Almanach 1810、Chabrol统计 |
+| 4 | 比利时/利古里亚/莱芒宪兵兵力无数 | 密度表缺三行 | Emsley 1999、Lignereux |
+| 5 | Schinderhannes、Chabrol任期、日内瓦钟表业受损=权重记忆旗标 | CSV已标flag | Rowe ch.3、Almanach、日内瓦地方史 |
+| 6 | Bureaux-Pusy任热那亚省长=钱币拍卖图录（三手） | 与Woolf的Durazzo叙事已作衔接处理 | Almanach an XIV/1806 |
+| 7 | 逐年逐省配额-实得表不存在于已持材料 | 只能给窗口聚合 | AN AF IV 1123–1124、Vallée |
+| 8 | “老法国”征兵基准：帝国均值含并合省，阿尔萨斯≠全本土 | 趋同判定用双基准夹逐 | Hargenvilliers分省原表 |
+
+——完——

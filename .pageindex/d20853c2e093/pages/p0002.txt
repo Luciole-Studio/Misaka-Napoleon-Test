@@ -1,0 +1,106 @@
+## Sheet: Sources
+
+`data region: A1:C220`
+	A	B	C
+1	List of sources included in the database since 2013		
+2	2008 - 2016: Total Economy database, the Conferenc Board for all countries included in the TED. Otherwise we have used UN national accounts statistics		
+4	ISO code	Country	Source
+5	ARG	Argentina	
+6		1800 - 1870 	Prados de la Escosura, L. (2009). “Lost Decades? Economic Performance in Post-Independence Latin America,” Journal of Latin America Studies 41: 279–307 (updated data)
+7		1870 - 1900 	Bertola, L and Ocampo, J.A. (2012) The Economic Development of Latin America since Independence. Oxford, Oxford U.P
+9	BEL	Belgium	
+10		1	Scheidel, W. and Friesen, S. J., ‘The size of the economy and the distribution of income in the Roman Empire’, Journal of Roman Studies, 99 (2009), pp. 61–91
+11		1500- 1846 	Buyst, E. (2011), “Towards Estimates of Long Term Growth in the Southern Low Countries, ca.1500-1846”, Results presented at the Conference on Quantifying Long Run Economic Development, Venice, 22-24 March, 2011
+13	BGR	Bulgaria	
+14		1892-1945 	Ivanov, M. (2006). “Bulgarian National Income between 1892 and 1924,” Bulgarian National Discussion Papers DP/54/2006
+16	BIH	Bosnia and Herzegovina	
+17		1952-2008	Milanovic (2011). Estimates provided to the Maddison-Project
+19	BOL	Bolivia (Plurinational State of)	
+20		1846-1950	Herranz-Loncán, A. and Peres-Cajías (2016). “Bolivian GDP per capita since the mid-nineteenth century” Cliometrica 10: 99-128
+22	BRA	Brazil	
+23		1800 - 1870 	Prados de la Escosura, L. (2009). “Lost Decades? Economic Performance in Post-Independence Latin America,” Journal of Latin America Studies 41: 279–307 (updated data)
+24		1850–1899	Barro, R.J. and J.F. Ursua, (2008). “Macroeconomic Crises since 1870” Brookings Papers on Economic Activity, Economic Studies Program, The Brookings Institution, vol. 39(1 (Spring), pages 255-350
+26	CHE	Switzerland	
+27		1	Scheidel, W. and Friesen, S. J., ‘The size of the economy and the distribution of income in the Roman Empire’, Journal of Roman Studies, 99 (2009), pp. 61–91
+28		1850-2011	Stohr, Christian (2016), Trading Gains: new estimates of Swiss GDP, 1851-2008. Economic History Working Papers, 245/2016. London School of Economics and Political Science, Economic History Department, London, UK
+30	CHL	Chile	
+31		1810–2004	Díaz, J.B. Lüders, R. and Wagner, G. (2007) Economia Chilena 1810 - 2000, Producto total y sectorial una nueva mirada, Pontificia universidad Catolica de Chile, Insituto de Economia, Documeno de Trabajo no. 315
+33	CHN	China	
+34		1000-1661	Broadberry, S.N., Guan, Hanhui and David Daokui Li (2018), “China, Europe and the Great Divergence: a Study in Historical National Accounting, 980-1850”, Journal of Economic History, 78, 4, 955-1000
+35		1661–1933	Broadberry, S.N., Guan, Hanhui and David Daokui Li (2018), “China, Europe and the Great Divergence: a Study in Historical National Accounting, 980-1850”, Journal of Economic History, 78, 4, 955-1000
+36		1661–1933	Xu, Y. Z. Shi, B. van Leeuwen, Y Ni, Z Zhang, and Y Ma, (2016) 'Chinese National Income, ca. 1661-1933', Australian Economic History Review 57(3), 368–393 
+37		1952–2008	Wu, Harry X. (2014), “China’s growth and productivity performance debate revisited – Accounting for China’s sources of growth with a new data set” The Conference Board Economics Program Working Paper Series EWP#14-01.
+39	COL	Colombia	
+40		1800 - 1870 	Prados de la Escosura, L. (2009). “Lost Decades? Economic Performance in Post-Independence Latin America,” Journal of Latin America Studies 41: 279–307 (updated data)
+41		1870 - 1923 	Bertola, L and Ocampo, J.A. (2012) The Economic Development of Latin America since Independence. Oxford, Oxford U.P.
+43	CSK	Czechoslovakia	
+44		1993 - 	Based on GDP and population data for their successor states
+46	CUB	Cuba	
+47		1690–1895	Santamaria Garcia, A. (2005). Las Cuentas nacionales de Cuba, 1960 - 2005', mimeo
+48		1902–1958	Ward, M. and Devereux, J. (2012), “The Road Not Taken: Pre-Revolutionary Cuban Living Standards in Comparative Perspective” Journal of Economic History, 72(1): 104–132
+50	DEU	Germany	
+51		1500-1850	Pfister, U. (2011). “ Economic growth in Germany, 1500–1850”, Paper presented at the Conference on Quantifying Long Run Economic Development, Venice, 22-24 March, 2011
+53	ECU	Ecuador	
+54		1833-1938	Prados de la Escosura, L. (2009). “Lost Decades? Economic Performance in Post-Independence Latin America,” Journal of Latin America Studies 41: 279–307. (updated data). We use the growth rate between 1933 and 1938 from Prados de la Escosura (2009) and link that to the 1939 level of Maddison’s original estimates. 
+56	EGY	Egypt	
+57		1	Scheidel, W. and Friesen, S. J., ‘The size of the economy and the distribution of income in the Roman Empire’, Journal of Roman Studies, 99 (2009), pp. 61–91
+58		700 – 1500 	Pamuk, Ş. and M. Shatzmiller (2011). “Real Wages and GDP per capita in the Medieval Islamic Middle East in Comparative Perspective, 700-1500”, paper presented at the 9th Conference of the European Historical Economics Society, Dublin, September 2-3, 2011.
+59		1820, 1870, 1913, 1950	Pamuk, S. (2006), Estimating Economic Growth in the Middle East since 1820, The Journal of Economic History, vol 66, no. 3, pp. 809 - 828
+61	ESP	Spain	
+62		1	Scheidel, W. and Friesen, S. J., ‘The size of the economy and the distribution of income in the Roman Empire’, Journal of Roman Studies, 99 (2009), pp. 61–91
+63		1270-1850	Álvarez-Nogal, C. and L. Prados de la Escosura (2013). "The Rise and Fall of Spain (1270-1850)," Economic History Review, 66, 1, 1-37, using their annual benchmarks
+64		1850–2016	Prados de la Escosura, L. (2017), Spanish Economic Growth, 1850-2015 (London: Palgrave Macmillan)
+66	FIN	Finland	
+67		1600–1860	Eloranta, J., Voutilainen, M. and Nummela, I. (2016).  “Estimating Finnish Economic Growth Before 1860” mimeo.
+69	FRA	France	
+70		1	Scheidel, W. and Friesen, S. J., ‘The size of the economy and the distribution of income in the Roman Empire’, Journal of Roman Studies, 99 (2009), pp. 61–91
+71		1250–1800	Ridolfi, L. (2016) “The French economy in the longue durée. A study on real wages, working days and economic performance from Louis IX to the Revolution (1250-1789)” Dissertation IMT School for Advanced Studies, Lucca, available at http://e-theses.imtlucca.it/211/1/Ridolfi_phdthesis.pdf
+73	GBR	United Kingdom	
+74		1	Scheidel, W. and Friesen, S. J., ‘The size of the economy and the distribution of income in the Roman Empire’, Journal of Roman Studies, 99 (2009), pp. 61–91
+75		1252–1700 (England)	Broadberry, S.N., B. Campbell, A. Klein, M. Overton and B. van Leeuwen (2015), British Economic Growth 1270-1870 Cambridge: Cambridge University Press.
+76		1700–1870	Broadberry, S.N., B. Campbell, A. Klein, M. Overton and B. van Leeuwen (2015), British Economic Growth 1270-1870 Cambridge: Cambridge University Press.
+78	GRC	Greece	
+79		1	Scheidel, W. and Friesen, S. J., ‘The size of the economy and the distribution of income in the Roman Empire’, Journal of Roman Studies, 99 (2009), pp. 61–91
+80		1833-1913	Kostelenos G., S. Petmezas, D. Vasiliou,  E. Kounaris and M. Sfakianakis, (2007), "Gross Domestic Product 1830-1939", Sources of Economic History of Modern Greece: Quantitative data and statistical series 1830-1939, Historical Archives of the National Bank of Greece, Athens. 
+82	HRV	Croatia	
+83		1952-2008	Milanovic (2011). Estimates provided to the Maddison-Project
+85	IDN	Indonesia	
+86		1815 – 1880 (Java)	Van Zanden (2012). “Economic Growth in Java 1815-1939: The Reconstruction of the Historical National Accounts of a Colonial Economy”, Maddison-Project Working Paper WP-3.
+87		1880-2008	Van der Eng, P. (2010). The Sources of Long-Term Economic Growth in Indonesia, 1880-2008”,  Explorations in Economic History, 47: 294-309
+89	IND	India	
+90		1600–1870	Broadberry, S.N., Custodis, J. and Gupta, B. (2015), “India and the great divergence: an Anglo-Indian comparison of GDP per capita, 1600–1871” Explorations in Economic History, 55: 58-75.
+92	IRN	Iran (Islamic Republic of)	
+93		1820, 1870, 1913, 1950	Pamuk, S. (2006), Estimating Economic Growth in the Middle East since 1820, The Journal of Economic History, vol 66, no. 3, pp. 809 - 828
+95	IRQ	Iraq	
+96		1	Scheidel, W. and Friesen, S. J., ‘The size of the economy and the distribution of income in the Roman Empire’, Journal of Roman Studies, 99 (2009), pp. 61–91
+97		700 – 1500 	Pamuk, Ş. and M. Shatzmiller (2011). “Real Wages and GDP per capita in the Medieval Islamic Middle East in Comparative Perspective, 700-1500”, paper presented at the 9th Conference of the European Historical Economics Society, Dublin, September 2-3, 2011.
+98		1820, 1870, 1913, 1950	Pamuk, S. (2006), Estimating Economic Growth in the Middle East since 1820, The Journal of Economic History, vol 66, no. 3, pp. 809 - 828
+100	ISR	Israel	
+101		1	Scheidel, W. and Friesen, S. J., ‘The size of the economy and the distribution of income in the Roman Empire’, Journal of Roman Studies, 99 (2009), pp. 61–91
+103	ITA	Italy	
+104		1310-1871 (North Italy)	Malanima, P. (2010), “The long decline of a leading economy: GDP in central and northern Italy, 1300–1913” European Review of Economic History 15 (2): 169–219.
+105		1871-1990	Baffigi, A. (2011).”Italian National Accounts, 1861-2011”, Banca d’Italia Economic History Working Papers 18. 
+107	JAM	Jamaica	
+108		1850 - 1938 	Prados de la Escosura, L. (2009). “Lost Decades? Economic Performance in Post-Independence Latin America,” Journal of Latin America Studies 41: 279–307 (updated data)
+110	JOR	Jordan	
+111		1	Scheidel, W. and Friesen, S. J., ‘The size of the economy and the distribution of income in the Roman Empire’, Journal of Roman Studies, 99 (2009), pp. 61–91
+112		1820, 1870, 1913, 1950	Pamuk, S. (2006), Estimating Economic Growth in the Middle East since 1820, The Journal of Economic History, vol 66, no. 3, pp. 809 - 828
+114	JPN	Japan	
+115		724-1874	Bassino, Jean-Pascal & Broadberry, Stephen & Fukao, Kyoji & Gupta, Bishnupriya & Takashima, Masanori, (2018). "Japan and the Great Divergence, 730-1874," CEI Working Paper Series 2018-13, Center for Economic Institutions, Institute of Economic Research, Hitotsubashi University
+116		1874-1940	Fukao, K., Bassino, J.-P., Makino, T., Paprzycki, R., Settsu, T., Takashima, M., and Tokui, J. (2015) Regional Inequality and Industrial Structure in Japan: 1874-2008, Tokyo: Maruzen Publishing.
+118	KOR	Republic of Korea	
+119		1911-1990	Cha, M.S., Kim, N.N., Park, K.-J., Park, Y. (Eds.) (2020), Historical Statistics of Korea. Studies in Economic History, New York: Springer Publishing
+121	LBN	Lebanon	
+122		1820, 1870, 1913, 1950	Pamuk, S. (2006), Estimating Economic Growth in the Middle East since 1820, The Journal of Economic History, vol 66, no. 3, pp. 809 - 828
+124	MEX	Mexico	
+125		1550–1812	Arroyo Abad, L. and J.L. van Zanden (2016), “Growth under Extractive Institutions? Latin American Per Capita GDP in Colonial Times” Journal of Economic History 76(4): 1182–1215. 
+126		1812–1870	Prados de la Escosura, L., (2009), ‘Lost decades? Economic performance in post-independence Latin America’, Journal of Latin America Studies, 41, pp. 279–307. (updated data)
+127		1895–2003	Barro, R.J. and J.F. Ursua, (2008). “Macroeconomic Crises since 1870” Brookings Papers on Economic Activity, Economic Studies Program, The Brookings Institution, vol. 39(1 (Spring), pages 255-350
+129	MKD	TFYR of Macedonia	
+130		1952-2008	Milanovic (2011). Estimates provided to the Maddison-Project
+132	MNE	Montenegro	
+133		1952-2008	Milanovic (2011). Estimates provided to the Maddison-Project
+135	MYS	Malaysia	
+136		1900-1939	Nazrin Shah, S. (2017). Charting the Economy: Early 20th Century Malaya and Contemporary Malaysian Contrasts, Oxford University Press
+138	NLD	Netherlands	
+139		1348–1807 (Holland)	Van Zanden, J. L. and van Leeuwen, B. (2012), ‘Persistent but not consistent: the growth of national income in Holland 1347–1807’, Explorations in Economic History, 49 (2012), pp. 119–30.

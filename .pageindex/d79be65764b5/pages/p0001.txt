@@ -1,0 +1,30 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/commons/1809/jun/20/finance-resolutions"
+final_url: "https://api.parliament.uk/historic-hansard/commons/1809/jun/20/finance-resolutions"
+provider: "exa"
+text_sha256: "54f351046645e8e27a229db0cb889329b4eed8aae625ecac9ea96a884b96dfe0"
+title: "FINANCE RESOLUTIONS. (Hansard, 20 June 1809)"
+content_kind: "page_text"
+---
+
+FINANCE RESOLUTIONS. (Hansard, 20 June 1809)
+
+# FINANCE RESOLUTIONS.
+
+HC Deb 20 June 1809 vol 14 cc1131-59 1131
+
+§ After moving for resuming the adjourned debate on the first Resolution,
+
+spoke to the following effect:
+
+; I feel myself bound in 1132 the first place to acknowledge the candour and liberality of the Gentlemen opposite, by whom I have been furnished with every official assistance which could diminish the trouble of preparing the Resolutions which I am about to submit to the house, or render them more correct and perfect.
+
+This is not only a great satisfaction to me, for many obvious reasons, but especially so, because it will spare the House the trouble of any minute investigation of the details of the Accounts, which would be not only irksome and tedious in itself, but might divert their attention from those principal points to which I wish their consideration to be directed.
+
+Whether those Gentlemen may concur with me or not, in the inferences which I may draw from the facts I shall bring forward, no dispute can arise on the accuracy of the facts themselves.
+
+I have, however, still greater satisfaction in believing, from intimations which have been given me, that the Chancellor of the Exchequer is disposed to concur in the whole of the Resolutions which I shall propose.
+
+This will not only enable me to abridge the statement into which I shall be obliged to enter; but is much more important, as affording a presumption that, however the Right Honourable Gentleman may have departed in the arrangements of the present year, from those principles which I think wise and salutary in Finance; he has done so under the real or supposed pressure of some occasional circumstances, and not from any fixed or systematic difference of opinion.
+
+At the time that in stating the Finance arrangements of the year, he disclosed his intention of charging the greatest part of the Loan on the War Taxes, I felt and intimated, that it would be impossible for me to acquiesce in such an arrangement, without remonstrance. On some occasions, when the subject might have been properly discussed, I was prevented, by private circumstances, from attending; but, I also felt, that considerable advantages would attend the mode of proceeding now adopted. If I had opposed the Bill for charging the War Taxes, with much more eloquence and ability than belong to me, it might have been difficult for the Right Honourable Gentleman, even if he had seen the force of my reasons, to have agreed to my conclusion, After having intimated in the Speech from the Throne, and deliberately proposed in his Budget, that no 1133 new taxes should be brought forward for the service of the year; he might not easily have persuaded the Country to acquiesce in the imposition of taxes, which might be found burdensome; and, which his proposed measures had shewn to have been in his opinion, unnecessary and inexpedient. Nor could I overlook the objections which must occur to a great prolongation of the sitting of Parliament, which might probably have been the consequence of such a change of system. But, I hoped, that by adopting the present mode of proceeding, and entering upon a discussion not immediately connected with any practical measure, but rather in the nature of an historical review of measures already past, though recent; we should reason with cooler minds, and be much more likely to agree in a result which might at least prevent the repetition of any injurious practice, if not lead to the immediate remedy of mischiefs already effected.

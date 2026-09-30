@@ -1,0 +1,51 @@
+
+
+## 三、1810–1812为何不能外推繁荣
+
+【模型推演｜原表算术】1810→1811，其余美洲国内品由15.64降至11.94百万镑，下降**23.7%**；转口由2.04降至0.90，下降**55.9%**。两类合计减少4.84百万镑、下降**27.4%**。全球国内品同期49.98→34.92，下降**30.1%**。1811其余美洲国内品仍比1807高1.50百万镑，但高于某个基期绝不等于足以抵补同时发生的欧洲和美国损失。
+
+【文献推断｜Heckscher】印页176–177描述最初投机热潮，印页240转入应收账款失败：
+> “exporters could not get payment from their South American buyers.”
+
+【文献推断｜Heckscher】同页把链条写为南美回款失败→出口商无法兑付制造商汇票→制造商与授信银行受损；又指出新销售受旧积货妨碍。**装船价值≠卖出价值≠回款价值**。这一点比拿单年出口峰值推财政韧性更重要。
+
+【文献推断｜Heckscher】印页241：
+> “the payment for exports to South America, so far as there was any payment, was made in colonial goods”
+
+【裁量｜机制含义】英国对南美销售后可能取得殖民地商品，而非自由兑换现金；若这些货物的最后销场仍在欧洲，大陆封锁就在贸易回流端继续约束英国。“离开欧洲寻找客户”不自动“脱离欧洲需求”。不能把巴西原棉（英国制造业投入）与需要再销的全部糖、咖啡等混成同一用途。
+
+【事实｜同时代证词，转引】印页243转引1811年2月商人集会材料，称累积货物因出口受阻而“the goods became a burthen”。印页246–247转引Tooke所收1810年11月22日利物浦来信，把殖民地/美洲商品进口过量与南美制造品出货的过度乐观同时列为困境来源。这些是同时代论述，经Heckscher/Tooke转引，不是假称查读商会原档。
+
+【事实】印页246的全球棉织品出口只有official values：1810为£17,898,519，1811为£11,529,551，1812为£15,723,225；棉纱分别£1,053,475、£483,598、£794,465。表脚转引Baines, p.350。它能检验危机并非纯粹现价跌落，也显示1812部分恢复；**不能识别恢复来自拉美**。同页还提醒不能据两项official values推棉纱与织品现价结构。
+
+## 四、优先作者核查：所得、冲突与缺口
+
+### Kaufmann：仅题录，正文未获
+
+【事实｜书目】William W. Kaufmann, *British Policy and the Independence of Latin America, 1804–1828*, Yale UP, 1951；查到1967重印本记录，238页，ISBN 9780714611105。AA文件记录MD5 `c314ffbb3bb61a1ece9c6bdd36918f40`，PDF 23,816,245字节；题录聚合多个出版社字段，实际文件版权页未验。
+
+- 详情：https://annas-archive.gd/md5/c314ffbb3bb61a1ece9c6bdd36918f40
+- 已抓题录：`downloads/pages/265626f6363e.md`
+- IA记录线索：`isbn_9780714611105`；不是已取得文件。
+
+【未验证】没有本书可引用的出口表页码或短引；不能用题录证明1808开放程度，亦不能把英国支持独立的外交选择等同于已实现商业收益。后续应先核对1806–1812相关章及表格，而非仅凭题名引用。
+
+### Platt：40%是有出处的主张，但尚不能作为本卡冻结值
+
+【事实｜已读转引】Victor Bulmer-Thomas, *British Trade with Latin America in the Nineteenth and Twentieth Centuries*, ILAS Occasional Papers 19, 1998，“The First Phase”部分（目录起印页2，段落跨至随后页；本轮网页抽取未图像核对分页），明确写：
+> “no less than 40 per cent of British exports were despatched to Latin America”
+
+该句脚注4指 **D. C. M. Platt, *Latin America and British Trade, 1806–1914* (1972), p.28**。同文又强调许多出货未找到买主。捕获文本：`downloads/pages/9412a5a5f906.md`；原PDF：https://sas-space.sas.ac.uk/3397/1/B75_-_British_Trade_With_Latin_America_in_the_Nineteenth_and_Twentieth_Centuries.pdf 。
+
+【裁量｜保留而不采纳数值】Platt p.28正文及表注未见，故“40%”只能写“Platt的数字，转引自Bulmer-Thomas”，不能写成自己核定的拉美大陆份额。须核查是否含加勒比/英属北美、是否仅国内品、是否申报价值。上节40.6%的接近使这一核查尤其重要，但不足以判Platt错误。
+
+【未验证线索】网页另转录Davis→Miller的1804/06与1814/16三年平均数据，地理、估价、列间求和均须回原书核查，不收入本卡数据表；不能据其长期低份额倒推1808从未发生短期出货潮。线索路径`downloads/pages/010808bc768f.md`；网页所指Miller(1993), p.73及Davis(1979), pp.96–101。
+
+### Crouzet：必须保留封锁本身的解释力
+
+【事实｜已读书评】W. H. Chaloner, review of François Crouzet, *L’économie britannique et le blocus continental (1806–1813)* (1958), *Revue belge de philologie et d’histoire* 38(2), 1960, pp.525–526。印页526引Crouzet原书p.855：
+> “le Blocus Continental fut à l’origine de la crise de 1810”
+
+**转引自Chaloner，未读Crouzet p.855本页。**原文：https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2 ；本地：`downloads/pages/e5b32951df65.md`。
+
+【文献推断｜学派对照】Heckscher印页239–240突出投机回落、美国政策及工业转型，且印页241–244并未否认大陆封锁加剧危机；Chaloner所呈现的Crouzet更强调封锁作为1810危机原因，并批评英国史学夸大走私逃避的有效性。两者不是“封锁毫无影响”与“封锁必胜”的二选一。现有材料不能裁定各原因的份额，也不能据英国后来胜利抹去1811困境。

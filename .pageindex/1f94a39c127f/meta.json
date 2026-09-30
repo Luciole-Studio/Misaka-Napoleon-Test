@@ -1,0 +1,16 @@
+{
+  "doc_id": "1f94a39c127f",
+  "title": "[t_044211] nodes/r_5b1357a9c6/cards/t_044211/B2_model_paths.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_044211/B2_model_paths.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_044211/B2_model_paths.csv"
+  ],
+  "sha256": "1f94a39c127f872cca893919dd1a268459abdebb2da7477726aa6d143fd59319",
+  "pages": 30,
+  "task_id": "t_044211",
+  "task_ids": [
+    "t_044211"
+  ],
+  "added_at": 1790161948,
+  "office_format": "csv"
+}

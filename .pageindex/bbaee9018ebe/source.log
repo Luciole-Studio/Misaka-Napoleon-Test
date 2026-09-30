@@ -1,0 +1,56 @@
+{
+ "rows": 37,
+ "conflicts": 4,
+ "miracles": 14,
+ "choice_joint_low": 2.930238281249999e-06,
+ "choice_joint_high": 0.00029198812500000007,
+ "scores": [
+  {
+   "path": "S0_史实对照线",
+   "required_events": 0,
+   "miracles_le_0_25": 0,
+   "miracles_le_0_30": 0,
+   "miracle_ids": "",
+   "joint_if_independent": "1.0000–1.0000",
+   "falsifier": "奇迹≤1→存在论在该路径上成立"
+  },
+  {
+   "path": "A_S1入侵线",
+   "required_events": 4,
+   "miracles_le_0_25": 2,
+   "miracles_le_0_30": 3,
+   "miracle_ids": "M-A1|M-A2",
+   "joint_if_independent": "0.0004–0.0068",
+   "falsifier": "介于两者之间；宽判据(≤0.30)下达到3件，主线资格在判据敏感区"
+  },
+  {
+   "path": "B_S2最优构造线",
+   "required_events": 3,
+   "miracles_le_0_25": 0,
+   "miracles_le_0_30": 0,
+   "miracle_ids": "",
+   "joint_if_independent": "0.0630–0.1800",
+   "falsifier": "奇迹≤1→存在论在该路径上成立"
+  },
+  {
+   "path": "C_S3封锁绞杀",
+   "required_events": 4,
+   "miracles_le_0_25": 4,
+   "miracles_le_0_30": 4,
+   "miracle_ids": "M-C1|M-C2|M-C3|M-C4",
+   "joint_if_independent": "0.0000–0.0007",
+   "falsifier": "≥3独立低概率事件→该路径不能作主线"
+  },
+  {
+   "path": "D_S4东方转向",
+   "required_events": 3,
+   "miracles_le_0_25": 3,
+   "miracles_le_0_30": 3,
+   "miracle_ids": "M-D1|M-D2|M-D3",
+   "joint_if_independent": "0.0003–0.0056",
+   "falsifier": "≥3独立低概率事件→该路径不能作主线"
+  }
+ ]
+}
+{"joint_independent": "0.0038–0.0324", "joint_commoncause": "0.0180–0.0900", "conditional_on_frame": "0.30–0.50", "x_order_1848_uncond": "0.0081–0.0585", "x_dynasty_1848_uncond": "0.0063–0.0450", "x_order_1848_cond": "0.1350–0.3250", "rows": {"control": 7, "dur": 9, "extent": 20}}
+{"joint_independent": "0.0038–0.0324", "joint_commoncause": "0.0180–0.0900", "conditional_on_frame": "0.30–0.50", "x_order_1848_uncond": "0.0081–0.0585", "x_dynasty_1848_uncond": "0.0063–0.0450", "x_order_1848_cond": "0.1350–0.3250", "rows": {"control": 7, "dur": 9, "extent": 20}}

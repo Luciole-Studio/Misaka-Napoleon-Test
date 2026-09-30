@@ -1,0 +1,101 @@
+6 P. E. TRTLOCK AND A. BELKIN
+
+model) that will enable him to deduce a counterfactual situation from institutions
+and relationships that actually existed. (Fogel! 1964, 224)
+
+In this view, counterfactual reasoning is a straightforward application of
+Hempel’s (1965) covering law of historical explanation: “Counterfactual
+propositions [in quantitative economic history] are merely inferences from
+hypothetico-deductive models” (Fogel 1964).
+
+Following the Hempel-Fogel neopositivist tradition, many game theorists,
+neoclassical economists, and structural realists display impressive confi-
+dence in their counterfactual claims. They know that if one changes the
+incentives confronting rational actors, those actors will quickly identify the
+new utility-maximizing course of action. If a currency is under- or over-
+valued, arbitrageurs will seize upon profit-making opportunities. If state reg-
+ulations reward inefficiency and punish efficiency, aggregate economic out-
+put will fall. If a status quo power offers weak or incredible promises of
+extended deterrence to its allies, aggressors with much to gain and little to
+lose will strike. The calculus of rational action is not, however, the only
+theoretical logic that we can use to infer what would have happened in this,
+or that counterfactual scenario. We can draw upon sociological theories that
+stress normative and institutional rules of fairness, cultural theories that
+stress group values and identifications, political theories of bureaucratic and
+interest-group competition, and cognitive theories of belief systems and
+bounded rationality.
+
+Consider this sampling of the range of theories that political observers
+draw upon to “fill in” missing counterfactual data points:
+
+(1) Keohane (1984) supports his claim that “if there were no international
+regimes, there would be less cooperation” by appealing to the Coase-Wil-
+liamson tradition of institutional economics that stresses the role that institu-
+tions play in reducing the transaction costs of cooperation and in increasing
+the reputation costs of defection.
+
+(2) Breslauer (Chapter 3) reviews the work of comparativists and area
+specialists who bolstered counterfactual claims about the causes of the Rus-
+sian Revolution and the impact of Stalin’s modernization policies by invok-
+ing theories of economic development.
+
+(3) In their recent book, Lebow and Stein (1994) use Janis and Mann's
+(1977) psychological theory of decision making under stress to defend their
+claim that even if Kennedy had displayed more resolve at the Vienna sum-
+Khrushchev still would have deployed missiles in Cuba. Lebow and
+Stein argue that Khrushchev confronted a strategic dilemma that may well
+have induced a psychological state of defensive avoidance that, in turn,
+would have rendered Khrushchev insensitive to any plausible American sig-
+nal of resolve.
+
+(4) Kiser and Levi (Chapter 8) note how large classes of “agency” coun-
+
+COUNTERFACTUAL THOUGHT EXPERIMENTS 2
+
+terfactuals are ruled out by structural theories of revolution. If we view
+revolution as inevitable when certain structural preconditions are satisfied—
+intense international and demographic pressures on the state, fiscal crisis,
+deep divisions within the dominant class, and mass mobilization of discon-
+tented groups—then there is little point in contemplating counterfactuals that
+assign decisive roles to the actions of individuals. Within structuralist frame~
+works, it is impossible to undo the English, French, or Russian revolutions
+by simply positing wiser kings.
+
+(5) Cederman (Chapter 11) draws on cartel theory to support his critique
+of neorealism and his claim that if defense-dominance had prevailed
+throughout history, there would have been less stability,
+
+(6) Herrmann and Fischerkeller (Chapter 6) invoke Huth and Russett’s
+theory of extended deterrence (a theory indigenous to political science, not
+aan import) to argue that even if Truman had not threatened Stalin, the So-
+viets still would have withdrawn from Iran.
+
+(7) Perhaps the most systematic use of theory to assess counterfactuals
+‘occurs in the chapters by Bueno de Mesquita and Weingast. These authors
+argue (among other things) that possible worlds become plausible only inso-
+far as they are logically consistent with the equilibrium conditions of the
+game that captures the strategic interdependence obtaining between actual
+historical actors. For example, it does not make much sense to posit a hypo-
+thetical world in which both players cooperated in a single-round game if
+one or both of the players could have been much better off by defecting
+whenever the other player cooperated. Using this game-theoretic screening
+rule, itis possible to eliminate vast numbers of counterfactuals.
+
+This overview is, however, disturbing. It suggests that each school of
+thought can foster its own favorite set of supporting counterfactuals (Chapter
+12, Weber). Moreover, these schools of thought will sometimes prescribe
+contradictory rules for assessing counterfactuals. Where does this leave us?
+Consistency with well-established theory is a reasonable standard for gaug-
+ing the plausibility of counterfactuals but we should expect disagreement
+about what counts as well-established theory in world politics. To prevent
+‘competing schools of thought from simply inventing counterfactuals of con-
+venience, we need reality constraints. Counterfactuals must not only fit
+existing historical and statistical data (the emphasis in our third and fifth
+standards), they must stimulate testable predictions that hold up reasonably
+well against new data (the emphasis in our sixth standard, projectability).
+
+5. Consistency with Well-Established Statistical Generalizations
+
+In many contexts, we rely not on theoretical laws but on statistical general-
+izations to fill in “what would have happened if this rather than that event had
+

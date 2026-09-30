@@ -1,0 +1,29 @@
+# notes_institutions.md — 科学-技术制度维度锚点（X3卡）
+
+## A. 法国科学-工程教育机构
+1. 【锚点·通行史实】École polytechnique 1794年创立（初名École centrale des travaux publics）；1804年拿破仑军事化（Vincennes军营制、"Pour la Patrie, les Sciences et la Gloire"）、毕业生入炮兵/工兵/矿业/桥路等国家团队；Monge、Berthollet、Lagrange、Laplace执教。École des ponts et chaussées（1747）、École des mines（1783）为应用出口。**1794–1815法国=世界唯一的国家工程师量产体系**；英国同期靠学徒制与土木工程师协会（1818）。
+2. 【文献框架】Fox & Weisz (eds.), The Organization of Science and Technology in France 1808–1914 (CUP 1980)：法国科学制度=国家集中式（Université impériale 1808垄断学位、faculté体系弱于grandes écoles）；本卡未取全文，仅引其通行框架，标注为文献指针。
+3. 【锚点】1806年博览会评审团人员构成即体现"科学家-国家-工业"三位一体：Monge（主席）、Berthollet、Gay-Lussac、Guyton-Morveau、Berthoud、Montgolfier、Périer（Chaillot厂主）同席（Rapport du jury 1806, procès-verbal，bibliotheca-andana.be全文PDF）。
+
+## B. Société d'encouragement与博览会
+4. 【锚点·通行史实】Société d'encouragement pour l'industrie nationale：1801年由Chaptal（时任内政部长）主导创立，发奖金、办Bulletin、组织技术竞赛；Girard亚麻纺纱机百万法郎悬赏（1810，见notes_heckscher §7）即此类"奖励-竞赛"体制的皇帝版。
+5. 【锚点】工业博览会系列：1798年首届（110家参展）；1801年220家；1802年540家；**1806年第四届=1,422家参展**，1806-09-25开幕，荣军院广场124座柱廊+桥路总署大厅，评审四科（机械/化学/美术/织物），Costaz总报告（Rapport du jury 1806全文；1,422数字另见Smithsonian藏《Rapports du Jury international》回溯条目："sur 1,422 exposants"）。**1806后帝国再无全国博览会**（下一届迟至1819年复辟后，1,662家）→战争吞噬了这一制度。
+6. 【机制】博览会=市场信号替代品：在关税墙内以奖章竞赛模拟竞争压力；Jacquard织机1801年铜奖→1805帝国专利收归里昂市+发明人年金→1812年11,000台（见notes_jacquard条目）→**"奖励+公有化+按台抽成"模式在丝织（既有产业集群+明确瓶颈）成功，在亚麻（Girard，无产业基座）失败——制度有效性取决于承接产业的存在**。
+
+## C. 专利与知识产权
+7. 【锚点·通行史实】法国1791-01-07专利法（brevets d'invention，5/10/15年期，缴费制、无实质审查）；英国专利年均：1800年代约100件/年升至1820s约250件/年（通行序列，本卡未核原始年表——缺口）。Jacquard案例显示法国替代路径：国家赎买+公共化（1805年专利判归里昂市，发明人得年金与每台50法郎抽成）。
+8. 【锚点】Girard亚麻机1810年专利→发明人破产流亡奥地利→技术被英国人获取→英国亚麻工业兴起→25年后回流法国（Heckscher，notes_heckscher §7）→**专利制度不能替代资本市场与产业承接：法国"发明→外流→英国产业化"的完整案例**。
+
+## D. 英国技术封锁与技工外流
+9. 【锚点】Jeremy, "Damming the Flood: British Government Efforts to Check the Outflow of Technicians and Machinery, 1780–1843", Business History Review 51:1 (1977), pp.1–34（doi:10.2307/3112919；Cambridge core页照录法条注释）：禁技工移民1719年起（5 Geo. 1, c.27）；1750年扩至机器出口；1774/1781/1782纺织机械、1785/1786伯明翰金属行业工具、1799年矿工均入禁单；**1824年废技工移民禁令（5 Geo. 4, c.97）；1825年机器出口改许可制；1843-08-10全面废除（6&7 Vict. c.84）**。
+10. 【锚点·关键细节】禁令清单**不含蒸汽机与机床**（选择性禁令；转引自British technologies and Polish economic development 1815–1863博论，其引Jeremy pp.18–23, 28–34与PRO BT5/27）；Board of Trade 1819年自认1719法对技工"从来无效"。
+11. 【锚点】执行实况：法国是1719立法的直接诱因（法国成批招募英国工人）；禁令时代转移靠个体冒险者与招募代理人的"走私式"路径（月夜出逃、码头枪战）；**1825–43年资本货物厂商因国内萧条主动规避，1843废除只是"给既成惯例以法律认可"（Farnie）**。
+12. 【锚点·大陆案例集】封锁期成功外流案例：Bauwens绑架5工头建根特纱厂（H）；Chemnitz两厂1801（英国工人）；William Cockerill 1799 Verviers→1807列日；Aachen/Eupen毛纺（W. Cockerill先为其造机）。→**战争与禁令提高了转移成本但从未归零；和平+废禁（1815/1824/1843）才是转移洪峰**（1815年英货涌入欧陆港口"展示了海峡两岸制造业之间裂开的鸿沟"——Polish thesis表述）。
+
+## E. 农业技术（低密度覆盖，缺口已标）
+13. 【锚点】甜菜糖=农业-工业接口案例（notes_heckscher §D）；Chaptal《L'art de faire le vin》(1807)推广加糖发酵（chaptalisation）；菘蓝32,000公顷指令性种植失败（同§18）。
+14. 【通行史实·待核】梅里诺羊：1786年Rambouillet引种；半岛战争期间西班牙美利奴羊群大量北流（法军征发与英商购买双通道）→萨克森/法国细毛羊改良。马铃薯与轮作：Parmentier宣传（18世纪末）；诺福克轮作在法国迟至复辟后经Mathieu de Dombasle（Roville农校1822）扩散。**本卡未取得农业技术扩散的量化系列（缺口：Grantham、G. W. 论文系列可补），农业维度按定性处理**。
+
+## F. 供推演的结构判断
+15. 【推演·高置信】法国技术体系的"长板"（国家工程师团、科学-工业接口、奖励制度）与"短板"（资本市场浅、企业承接弱、专利不保护到产业化、依赖英国技工）在1803年已全部可见；S5和平期的关键变量=**英国1824/1843废禁在法胜世界是否发生**——若英国被排除于大陆（S3），英国无动机废禁且大陆无从合法获取；若武装共存（S2/S5），英国厂商的出口利益照样推动1820s松动（对法出口生铁1817–21实证已在notes_chem_metal §5）。
+16. 【推演·中高置信】S6行省化把比利时/莱茵/意大利的技术制度并入法国体系（Polytechnique分校、矿务团、桥路团覆盖）→**行政-工程渗透是法国体系最擅长输出的层**（史实：帝国工程师已管理辛普朗、安特卫普船坞）；但产业承接与资本市场不随行政渗透自动出现（Girard案例）。

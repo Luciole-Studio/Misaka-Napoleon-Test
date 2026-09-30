@@ -1,0 +1,30 @@
+
+
+## C 本轮新获取的期刊／机构／原刊材料
+
+| 编号 | 文献 | 本地文件／定位 | 阅读范围 |
+|---|---|---|---|
+| **S10** | Giovanni Assereto, «La Casa di San Giorgio: il potere del credito»（2004年热那亚会议论文集抽印本，Società Ligure di Storia Patria 数字图书馆） | `downloads/X1_Assereto_CasaSanGiorgio_potere_del_credito.pdf`；doc **fd2adad6adfd**（18页）；sha256 fd2adad6adfdcea6e5a4f84f9ad251793991c5477ed0b52ac8be0f55ab371215 | **【亲读】** PDF p10–14＝印页173–177（1804统一公债、1805-07-04帝国敕令、三分之一规则、清算失败、1814撒丁承诺） |
+| **S11** | Hans-Peter Ullmann, «Gebr. Bethmann und die Österreich-Anleihe von 1778», *Börsen-Zeitung* Nr.210, 2011-11-01, S.19（IBF「Aus der Banken- und Finanzgeschichte」） | `downloads/pages/635d3fc23a42.md`（web_extract 全文，含被截断中段，已用 read offset=34 补读） | **【亲读】** 全文（Partialobligation 技术、条件规律、市场规模表、投资人结构、黑森选帝侯为最大买家、二级市场制度化） |
+| **S12** | Gustav Kopal,〈Die Hamburger Bank〉, *Die Gartenlaube* 1875, S.858（Wikisource 二次校对本，“Fertig”状态） | `downloads/pages/804553ad8887.md` | **【亲读】** 全页（Barrenvaluta 1770/1790、27¾ Mk Banco＝1科隆马克纯银、1813-11-04 达武封行、7,506,956 Bancomark、储户债权7,489,343、巴黎和约1,000万法郎赔偿） |
+| **S13** | it.wikipedia「Monte Napoleone」（该条目自标“缺乏来源”；本卡只取其引述的**法令编号与日期**，并与文化部 SAN／Lombardia Beni Culturali 机构档案描述交叉） | `downloads/pages/24b5e0b0e091.md` | **【亲读】** 全条（1802里昂宪法art.125、1804-03-21法、1805-07-17法与第13条、1816–20公约、1820-08-15 atto di riparto、1822 Monte lombardo-veneto、1859/1866转移） |
+| S14 | Deutsche Bundesbank,《Die Geschichte des Finanzplatzes Hamburg: Anmerkungen aus Sicht einer Zentralbank》(EconStor hdl:10419/170537) | — | **【未亲读】** PDF 抓取返回 “no content returned”；仅据检索摘要，已在正文与 §16.5 标注 |
+| S15 | de.wikipedia「Mark Banco」 | 检索所见 | **【转引】** 仅用于制度细节（1622年8.66克、59⅓ Mk/关磅、1873年换算100 Mk Banco＝150 Mark） |
+| S16 | *Welt* / Hamburger Abendblatt 报道〈Das barbarische Vorgehen des Louis-Nicolas Davout〉 | 检索所见 | **【转引】** 仅用于1813年6月4,800万法郎罚款＝约2,500万 Mark Banco 的量级；与 S12 的7,506,956 数一致、与 G2 卡台账独立吻合 |
+| S17 | Christian Zerres（博论）《Entstehung und Entwicklung eines bargeldlosen Zahlungsverkehrs im 19. Jahrhundert》，nbn urn:nbn:de:bsz:ofb1-opus4-49933 | 检索所见 | **【转引】** 仅用于“1778–1814年 Bethmann 为奥地利宫廷筹得 42.27 M fl.”及 Bethmann-Archiv 1814年汇票账户城市分布的存在性；**与 S11 的“>43M fl. 1778–96”口径不同，不得相加** |
+
+## D 上一轮（r_b55f2c1cf5）复用资产
+
+| 来源 | 内容 | 本卡处置 |
+|---|---|---|
+| `nodes/r_b55f2c1cf5/cards/t_c2dbca/britain_silver.md` | C5 卡据 Marichal(2000) 转引 Buist pp.295–297 的白银链与代理名单 | **已亲读 Buist 原书更正一处**：“Vera Cruz 的 Gabriel Villanueva”应为“Lestapis 冒用已故同事 José Gabriel de Villanueva 的身份” |
+| `nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md` | 两种霸权财政框架；Branda 额外战争融资表；Crétet 1806 演说；1810年 Mollien 信用指令；赠产法令 | 复用其“不可混合的七组量”与 S3 白银互斥条款；本卡以 Buist 的 Account X 实测量给该条款补上数量 |
+| 本轮台账（`nodes/r_5b1357a9c6/coordination_ledger.md`） | F4 的 Marion p.321/p.325/p.306 数据、G2 的汉堡48M罚金、NL 的荷兰 tiercering、SP1 的 vales reales 与 Consolidación、B2 的 BoE millennium | 全部作为**跨卡交叉**使用并注明出处卡 |
+
+## E 来源独立性声明
+
+1. **Buist 与 Ferguson 在1806–07白银事件上不独立**：Ferguson 的“逾1,400万法郎由英国军舰运抵法国国库”即 Buist 的 'Diana' 事件。本卡把二者当作**一条证据链＋一次数字互校**（3,679,835×3.85＝14,167,364），不计两个独立来源。
+2. **Ziegler 与 Ferguson 在1817–18冲突上不独立**：双方都用罗斯柴尔德通信英译本。Ziegler 自承 “No papers survive to give the Baring point of view on this imbroglio”——**该段证据是单方的**。
+3. **Gille 与 Ferguson 部分同源**（同用巴黎 AN 132 AQ 的法国行档案）。
+4. **系统性史料缺口（三方各自承认）**：罗斯柴尔德法兰克福行档案1912年基本毁失（Ferguson）；巴黎行1850年前全部账簿与信函副本二战前毁失、1940–44被占领方搬走仅部分追回、维也纳与那不勒斯行仅余“infimes épaves”、伦敦行当时不可得（Gille）。**故任何关于罗斯柴尔德1815年前德意志／奥地利头寸的数字都不可能完整。**
+5. **S16、S17、S15 属二手网络转述**，本卡只用于量级与存在性，不用于承重结论。

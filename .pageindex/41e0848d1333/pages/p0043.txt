@@ -1,0 +1,52 @@
+                       Table 9: Summary Statistics: Historical Data
+
+                                     Mean         Std. Dev.    Min.      Max.     N
+
+Employment Shares
+
+Tade                                 0.009         0.005       0.001     0.034    323
+
+Factory                              0.032         0.055       0.001     0.488    323
+
+Craft                                0.198          0.1        0.041     0.872    323
+
+TrFaCr                               0.094         0.071       0.015     0.559    323
+
+Civil                                .0001         .0002         0       0.003    324
+
+Servants                             0.009         0.009         0       0.084    324
+
+
+Other Regional Characteristics
+
+Share of Protestants                 0.595         0.388       0.002     0.997    324
+
+Share of Jews                        0.011         0.013         0       0.082    324
+
+Share of Female Population           0.503         0.011       0.465     0.526    324
+
+Total Population (ln)               10.842         0.375       9.582     12.388   324
+
+Income                               0.594          0.41       0.052     3.805    324
+
+Elementary Schools p.c.              0.001         .0005       .0004     0.003    324
+
+Longitude                            8.221         26.442     -159.393   141.95   324
+
+Latitude                            50.492         7.065      -16.162    77.383   324
+
+
+Gymnast Clubs and Firemen
+
+Firemen p.c. (x100)                  0.04           0.08         0        0.7     234
+
+Member p.c. (x100)                    0.3           0.21      0.0041      1.2     234
+
+Member                              176.90         187.2         4       1761     234
+
+Firemen                              25.24         51.41         0        358     234
+
+
+
+
+                                             41

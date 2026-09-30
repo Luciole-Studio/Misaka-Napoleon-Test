@@ -1,0 +1,13 @@
+                                      Table 8: Loans Issued by Public Subscriptions, 1793-1798
+     Date   Amount £m             Instruments              Yield*   Price**                             for £100
+     1793      4.5                    3%                    3.44     87.09                              139 in 3%
+     1794      11           3%, 4%, 66.25 year ann.         4.26     70.50           £100 in 3%, £25 in 4%, £0.57 in 66.25 year ann.
+     1795      18           3%, 4%, 65.25 year ann.         4.82     62.29          £100 in 3%, £33.3 in 4%,£0.43 in 66.25 year ann.
+49
+               18         3%, 3% red., 64.25 year ann.      4.39     68.32         £120 in 3%, £25 in 3% red.,£0.33 in 64.25 year ann.
+     1796
+               7.5        3%, 3% red., 63.75 year ann.      4.38     68.47         £120 in 3%, £25 in 3% red.,£0.28 in 63.75 year ann.
+               18         3%, 3% red., 64.25 year ann.      5.30     56.59                     £125 in 3% or £112.5 in 5%
+     1797
+               14.5     3%, 3% red., 4%, 64.25 year ann.    5.93     50.63    £125 in 3%, £50 in 3% red.,£20 in 4%, £0.33 in 62.75 year ann.
+     1798      17                 3%, 3% red.               6.00     50.00                     £125 in 3%, £50 in 3% red.

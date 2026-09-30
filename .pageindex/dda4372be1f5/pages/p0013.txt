@@ -1,0 +1,34 @@
+
+
+Pepper was an exception during the 1820s, however, with its price slipping slightly 13 rather than rising. The results in the column headed ‘blockade’ reflect the combined effects of both 14 wars and blockades, and are calculated by adding together the coefficients on both dummy variables.
+
+trade had been largely controlled by European trading monopolies, coffee was also produced in the Western hemisphere, and its world price was thus not affected by the decline and fall of the VOC. Even in the South East Asian case, however, war probably had an independent effect on prices: clove prices were twice as high in the 1820s as they had been in the first two decades of the century. This suggests that wartime disruption prevented clove prices from rising even faster in the wake of VOC abolition than they actually did. 13
+
+Table 3 summarises the discussion thus far, providing relative price information that is as far as possible comparable across countries. In particular, it shows the percentage by which war and blockades raised the price of importables, relative either to exportables, or to grain prices. This percentage impact was once again calculated by regressing the log of the relevant relative price on time, time squared, and dummy variables representing wartime (1798-1815, the start date being determined by the availability of French data) and the blockade period (taken to be 1807-14, so as to capture the effects of the Anglo-American war). 14
+
+Panel A looks at the relative price of wheat and textiles in Britain and France, and confirms that agricultural goods became relatively more expensive in Britain during the conflict, and that textiles became relatively more expensive in France. Figure 10 gives the two relative prices on one graph, and shows that they moved in a broadly similar fashion during the conflict, with British import price spikes in 1800-01 and 1814, and French import price spikes in 1804-5 and 1808-9. According to the regression estimates in Panel A, the
+
+average war-time impact in the two countries was very similar, while the blockade had 
+roughly twice as big an impact in Britain as in France, raising relative import prices by 
+approximately 40 percent and 20 percent in the two countries respectively. The results 
+suggest that war-time attempts to disrupt trade in Europe worked, and if anything had a bigger 
+impact on land-scarce and populous Britain than on the European continent, which had a 
+comparative advantage in agricultural commodities, but was also a producer of textiles. 
+However, once the focus is switched to imports of non-European commodities, the 
+picture is dramatically altered. Panel B looks at the relative price of a key European import 
+from Asia, that is to say pepper, relative to both wheat and textiles, in Britain, France and the 
+Netherlands. As can be seen, the price of pepper rose far more in France and the Netherlands 
+than in Britain, no matter which numéraire is used. Its relative price more than doubled on the 
+Continent during the blockade period, while rising by less than a third relative to textile prices 
+in Britain. (Indeed, since wheat prices in Britain also rose, the price of pepper relative to 
+wheat actually fell in Britain, a finding mirrored for sugar and cotton below.) 
+Panel C looks at the relative prices of European imports from the Americas (sugar and 
+raw cotton, relative to both wheat and textiles), as well as American imports from Europe 
+(textiles, wine and paper, relative to cotton and silver). Once again, relative import prices rose 
+very substantially in France, Holland and Germany during the blockade period, and by a lot 
+more than in Britain, even when textiles are used as the numéraire rather than wheat. It is 
+noticeable that while relative sugar prices in France and the Netherlands were higher 
+throughout the war, reflecting the collapse of Saint Domingue and British efforts to disrupt 
+trade between the enemy and enemy colonies, relative cotton prices there only rose during the 
+blockade period, when the neutral American trade with the Continent was also prohibited as a 
+result of the British Orders in Council. Similarly, it was only during the blockade period, 

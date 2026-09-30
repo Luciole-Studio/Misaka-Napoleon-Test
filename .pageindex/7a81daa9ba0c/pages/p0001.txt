@@ -1,0 +1,41 @@
+# F4 有界摘录底稿：法国财政、产业精英与财产性收入
+
+## 范围与执行
+仅摘录，不是主报告。先查读C9（t_bef693）来源清单、C4（t_95ef51）fr_crisis_checks及C15（t_f81a6f）c15_continental_economy前120行，再定位原有downloads/pages缓存。以下7条来自三部独立已刊作品；同一作品不同段落不算独立互证。已达4—8条停止条件，不继续广搜。
+
+Bergeron《Banquiers, négociants et manufacturiers parisiens du Directoire à l’Empire》OpenEdition入口 https://books.openedition.org/editionsehess/195 仅返回Anubis验证页，未读到正文；不据检索片段取证。agent-reach建议的Jina/curl路径需父级审批，未执行。工具web_extract自动在downloads/pages/8270fb75bad9.md留下验证页，违反本任务指定新文件目录的意图；这是工具自动落盘而非史料，未采用。其后停止所有会自动写到downloads的网络提取；本底稿仅写于指定卡目录。没有删除或改写既有文件。
+
+以下“保存路径”均为本次复用的既有抓取缓存；本底稿另保存逐条短引及定位。未亲核扫描页图或档案原件，引用为已刊二手正文/二手转引，不伪称原档。Heckscher缓存存在OCR错误，仅选可读句；行末断词在短引中连接，未改变措辞。
+
+## 来源版本
+H：Eli F. Heckscher, *The Continental System: An Economic Interpretation*, Oxford: Clarendon Press, 1922，英译本。URL https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/327/0142_Bk.pdf 。既有抓取保存：downloads/pages/70cc6a857e5f.md；扫描本已有downloads/c15_heckscher1922.pdf（本次未重开影像）。
+S：Monika Senkowska-Gluck, « Les donataires de Napoléon », *Revue d’histoire moderne et contemporaine*, 17(3), 1970, pp.680–693。URL https://www.persee.fr/doc/rhmc_0048-8003_1970_num_17_3_2102 。既有保存：downloads/pages/de8da74a2316.md。正文至结论已读，法令原刊未核。
+B：Pierre Branda, « 1812, l’année de tous les défis », *Revue du Souvenir Napoléonien*, 492, 2012, pp.26–33。URL https://www.napoleon.org/histoire-des-2-empires/articles/1812-lannee-de-tous-les-defis/ 。既有保存：downloads/pages/414d9ffcebd4.md。全文与18条尾注已读；网页未映射各段单页。
+
+## 七条承重锚点
+
+### F4-01 Richard-Lenoir：保护产业也有资产负债表弱点与国家救助
+原文短引（H p.279）：
+> “The majority of them—chiefly Richard Lenoir, but also Liévin Bauwens—had received liberal support in the form of loans from Napoleon during the crisis of 1810–11, which they had not been able to repay”
+注：连接OCR换行；人名重音据正文语境规范化，需严逐字引时用缓存原貌“Li6vin”。
+辅助短引（H p.278）：
+> “the insufficient supply of capital possessed by the industry and its consequent dependence on loans and bills of exchange.”
+定位：H “Effects on France”棉纺节，pp.278–279；缓存约5945–6010行。该段将资本不足判断归于Mollien致拿破仑信，继而引其回忆录批评Richard-Lenoir经营与生活。页注：Mollien, *Mémoires*, vol.III, pp.12,22 et seq.，未亲阅。
+【文献记载｜中高】Richard-Lenoir在1810–11危机获皇帝贷款支持；【文献推断｜Heckscher/Mollien】危机还含信贷依赖和过度扩张，不能只看关税。
+边界：没有救助逐笔额、抵押品、偿还日期；Mollien回忆录属于回溯性且有政策立场，不能把其人格批评当审计结论；更不能由企业未还贷款推出国库破产。
+
+### F4-02 Oberkampf：工业支持被包装为对英战争
+原文短引（H p.272）：
+> “We are both carrying on war against the British, but your war is the best.”
+定位：H p.272，段首“When Napoleon visited Oberkampf”；缓存约5743–5751行。H称皇帝访问Jouy工厂、授勋并如此说；本段未给该话专属文书号或日期。
+【文献记载｜中】拿破仑以授勋与战争比喻认同Oberkampf的棉布印染事业。
+边界：这是Heckscher转述的英语版本，非亲核法语原话；不宜单独证明皇帝有稳定产业纲领，也不能证明Oberkampf赞同封锁全部措施。本条宜作政治象征性锚点，强度低于法令或署日期请愿。
+
+### F4-03 Chaptal：支持成品保护不等于支持原料封锁
+原文短引（H pp.279、281，跨表页）：
+> “Chaptal particularly regrets the ruin of the great nankeen manufacture owing to the overwhelming competition of Indian and British goods”
+另一短引（H p.281，作者判断）：
+> “raw cotton now came in free.”
+定位：H p.279末接p.281开头，缓存约6014–6055行。作者写1814开放进口后南京布业受冲击；随后复辟政府恢复外来纺织品禁令而原棉免税。
+【文献记载｜中】Chaptal对成品进口竞争造成的产业损害持批评态度；【文献推断｜Heckscher】复辟后的成品保护与原料准入组合不同于战时自我封锁。
+边界：Chaptal所依据著述为战后材料（H本章总注包括1819年*De l’industrie française*），属回溯性；此处不足以指定1810年Chaptal当面主张何种税则。这里只证“产业保护”与“全面封锁”不应混为一种利益诉求，不能替他编造完整自由贸易或反拿破仑立场。

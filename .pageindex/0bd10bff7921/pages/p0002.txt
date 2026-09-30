@@ -1,0 +1,23 @@
+
+
+## 上一轮复用（t_b09c54）
+
+15. `nodes/r_b55f2c1cf5/cards/t_b09c54/c8_order_model.md` 与 `c8_cases_sources.md` — 教俗妥协/强制国教化两分支框架、蒂罗尔时序禁令、1811会议档案谱系（AN AF IV 1047–1048、ASMi Culto p.m. 2540，均转引Caiani未阅卷）。
+
+## 档案谱系（未亲阅，仅定位）
+
+- AN AF IV 1047 d.2、1048 d.2 nos.123–124（1811会议）；ASMi Atti di governo, Culto p.m. 2540（转引Caiani）。
+- 梵蒂冈存枫丹白露撤回函原件（Pacca 1833版称pièces authentiques déposées au Vatican）。
+- Bulletin des lois 1813（枫丹白露2-13入法与5-25执行令原刊，franco.wiki注[8][9]所指）。
+
+## 检索未获（缺口，见报告十一）
+
+- Chadwick《The Popes and European Revolution》(1981)；Hales《Revolution and Papacy》(1960)；Latreille《Napoléon et le Saint-Siège》(1935)；Schwarzfuchs《Napoleon, the Jews and the Sanhedrin》(1979)；Broers《The Politics of Religion in Napoleonic Italy》(2002)；Caiani《To Kidnap a Pope》(2021)；Boudon、Plongeron各卷。Anna's Archive三镜像403（AA status not verified by script/direct search，2026-09-23）；未动用浏览器接续。
+
+## 本卡工作笔记
+
+- notes_cached_secondary.md（缓存材料摘录）
+- notes_pacca_fontainebleau.md（falsifier证据链）
+- notes_legal_texts.md（法律/教义文本）
+- notes_consalvi_papalstate.md（决策结构/1801/1810/中立危机）
+- notes_resistance_protestant_revival.md（抵抗动员/新教/犹太/1815–48）

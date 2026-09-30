@@ -1,0 +1,37 @@
+
+
+## Footnotes
+
+We wish to thank three anonymous reviewers for helpful suggestions.
+
+1 Cited in Chandler (Reference Chandler2016).
+
+2 Parker (1996) dates the origins of the military revolution to the early 1500s and its end to the last decades of the eighteenth century.
+
+3 See also Onorato, Scheve, and Stasavage (Reference Onorato, Scheve and Stasavage2014).
+
+4 Throughout the paper, we use the phrases draft dodging and draft desertion interchangeably. As we discuss, the French government distinguished between different types of desertion. For the purposes of our argument, we will focus mainly on what the French called réfractaires, or “draft dodgers,” that is, individuals who, once they had been drafted, failed to join the military unit to which they had been assigned.
+
+5 Departments were Napoleonic France’s fundamental administrative unit below the national government. For the period under consideration, the borders of France extended over regions of Switzerland, Italy, Germany, and Belgium, which had recently been annexed over the previous decade.
+
+6 Confidence in our results is strengthened by qualitative evidence from primary sources. High-ranking officials of the Napoleonic government, like Lacuée, explicitly took the variation in the prevalence of draft evasion across French regions into consideration when designing recruitment policies.
+
+7 Online Appendix K provides a brief overview of the history of French military institutions between the revolution and the rise of Napoléon and a discussion of Napoléon’s reform of the country’s military system.
+
+8 The punishment for draft dodgers was generally less severe than for those who abandoned their units during active employment (Piano and Rouanet Reference Piano and Rouanet2020).
+
+9 Archives Nationales, F/9/209 n.1317. See also the prefect of Lozère’s (1806) comprehensive Mémoire sur la conscription dans le département de la Lozère, Archives Nationales, F/9/209, especially pp. 7–8, 13.
+
+10 See Waquet (1968) and the correspondence in boxes F/9/150 to F/9/260 in the Archives Nationales.
+
+11 See Deferrière (Reference Deferrière1804) and Mémoire sur la conscription dans le département de la Lozère, Archives Nationales, F/9/209.
+
+12 Translations of Fouché’s police reports mentioning problems concerning conscription in mountainous departments as well as conscripts fleeing abroad are available in Online Appendix E.
+
+13 AN, AF/IV/1124. See Rouanet and Piano (2022) to access the data and code in this paper.
+
+14 The unit of observation, the departments, “were purely administrative divisions, determined for largely political reasons in 1790 by revolutionaries determined to break down the old provincial loyalties of the Ancien Régime. They did not represent any common tradition or political experience, nor did they necessarily present any geographical or economic coherence” (Forrest Reference Forrest1989, p. 72).
+
+15 See Online Appendix D for a detailed discussion of all our variables.
+
+16 See, for instance, the archives of the Ministry of Armed Forces (hereafter MAF), GR/21/YC/1-963. Registres matricules des sous-officiers et hommes de troupe de l’infanterie de ligne (1802–1815).

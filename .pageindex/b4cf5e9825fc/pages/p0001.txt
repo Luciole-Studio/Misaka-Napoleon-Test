@@ -1,0 +1,67 @@
+---
+source_url: "https://www.persee.fr/doc/pop_0032-4663_1972_num_27_1_15097"
+final_url: "https://www.persee.fr/doc/pop_0032-4663_1972_num_27_1_15097"
+provider: "exa"
+text_sha256: "4f8ae8555d41a8b765ebf430d315794878f2fc49744481d01c2e69db18f2d8b2"
+title: "Pertes de l'arm\u00e9e de terre sous le premier Empire, d'apr\u00e8s les registres matricules. - Pers\u00e9e"
+content_kind: "page_text"
+---
+
+Pertes de l'armée de terre sous le premier Empire, d'après les registres matricules. - Persée
+
+#### [article]
+
+ Jacques Houdaille 
+
+ Population Année 1972 27-1 pp. 27-50 
+
+ Houdaille Jacques. Pertes de l'armée de terre sous le premier Empire, d'après les registres matricules.. In: Population, 27ᵉ année, n°1, 1972. pp. 27-50.
+
+ www.persee.fr/doc/pop_0032-4663_1972_num_27_1_15097
+
+### Résumé (fre)
+
+ Les relations entre la démographie et l'histoire sont loin de se limiter à la reconstitution des statistiques de naissances, décès et mariages par dépouillement des registres paroissiaux. En fait, il s'agit le plus souvent d'introduire des méthodes plus légitimes, sinon plus rigoureuses, dans les calculs faits à partir de données insuffisantes ou inexactes ou encore de données ne se rapportant qu'indirectement au domaine étudié. Les pertes en hommes pendant une guerre n'étaient que bien rarement dénombrées avant l'époque contemporaine, ce qui laissait la place belle aux chiffres de la rumeur, le plus souvent excessifs. Dans le cas des guerres de la Révolution et de l'Empire, de nombreux calculs ont été faits le plus souvent par des hommes n'ayant pas reçu une formation statistique suffisante. M. J. Houdaille, chargé de recherches à l'I.N.E.D., a utilisé les registres matricules de l'armée et parvient à des évaluations plus sûres que les précédentes. 
+
+### Plan
+
+1. Première évaluation. [link]
+2. Bodart et Levasseur. [link]
+3. Les extrapolations d'Albert Meynier. [link]
+4. Calculs de M. Bourgeois-Pichat. [link]
+5. Calculs à partir des registres matricules. [link]
+6. Soldats français. [link]
+7. Destins par région d'origine. [link]
+8. Soldats étrangers. [link]
+9. Destins rectifiés. [link]
+10. Estimation des retours de disparus. [link]
+
+1. Première méthode. [link]
+2. Deuxième méthode d'estimation des retours. [link]
+11. Officiers. [link]
+12. Pertes lors des Cent Jours. [link]
+13. Pertes totales de 1803 à 1815. [link]
+14. Comparaison avec l'estimation de M. Bourgeois-Pichat. [link]
+15. Pertes dans les campagnes les plus meurtrières. [link]
+16. Désertions et doubles emplois. [link]
+17. Nombre d'hommes ayant servi sous l'Empire. [link]
+18. Effort de guerre dans la population française. [link]
+19. Conclusion. [link]
+
+### Liste des illustrations
+
+1. Tableau I. — Destins par génération (en milliers) [link]
+2. Tableau II. — Destins par région d'origine (en %) [link]
+3. Tableau III. — Destins des soldats étrangers (en milliers et en %) [link]
+4. Tableau IV. — Destins rectifiés des soldats français et étrangers [link]
+5. Tableau V. — Soldats revenus ou non revenus à leur village [link]
+6. Tableau VI. — Anciens soldats ayant demandé une pension sous Napoléon III [link]
+7. Tableau VII. — Retours de soldats de sort incertain (en milliers) [link]
+8. Tableau VIII. — Décès d'officiers par génération [link]
+9. Tableau IX. — Destins des soldats des Cent Jours [link]
+10. Tableau X. — Pertes des Cent Jours par génération [link]
+11. Tableau XI. — Pertes par génération (en milliers). Retours non inclus [link]
+12. Tableau XII. — Soldats reparus à l'état civil [link]
+13. Tableau XIII. — Pertes par génération [link]
+14. Tableau XIV. — Comparaison des pertes (en milliers) [link]
+15. Tableau XV. — Pertes dans diverses campagnes (en milliers) [link]

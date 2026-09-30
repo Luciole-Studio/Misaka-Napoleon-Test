@@ -1,0 +1,5 @@
+
+
+协作附件：本目录`uk_fiscal_checks.md`、`fr_crisis_checks.md`；C2目录`t_104134/c2_gaps.csv`；C9目录`t_bef693/extraction_evidence.md`与`c9_war_finance.md`；C16目录`t_b7b7b1/c16_britain_under_defeat.md`与`trade_evidence.md`；C8目录`t_b09c54/c8_cases_sources.md`。以上均在`nodes/r_b55f2c1cf5/cards/`下。
+
+**未阅档案谱系，仅供复核路线：**英国TNA Treasury、Customs 17/10–30、ADM海军估算与决算、FO外交往来；法国AN AF IV、财政国库账与法兰西银行档案、SHD海军及军需；汉堡、波尔多、利沃诺商会／海关／警察档案。系列名不是已读取档号，不以列名装作原档核验。

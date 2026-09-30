@@ -1,0 +1,31 @@
+
+
+be included in our baseline specification. The main changes resulting from their inclusion are that the estimate on W ARjt becomes smaller and less statistically insignificant and the positive estimate on our proxy for multilateral resistance, ln(DGECjt), becomes smaller and more statistically significant.20
+
+The results in column (3) of Table 1 are obtained with division-year (kt) and destination (j) fixed effects. Three main changes in the results stand out. First, the estimate of the impact of distance is still negative and statistically significant but is much larger than in
+
+20The reason for the decrease in the number of observations in column (2) is the inclusion of the fixed effects. Specifically, all observations that are fully explained by the fixed effects are statistically irrelevant and are therefore automatically dropped from the estimating sample. In the robustness analysis in Appendix E, we re-estimate the specification from column (1) based on the sample from column (2) and confirm that the differences between the two columns are indeed driven by the division-year fixed effects and not by the different number of observations.
+
+column (2). This estimate should be interpreted with caution because, by construction, it 
+is identified exclusively from the variation in distance over time for the 25 destinations 
+in our sample whose trade with Britain was affected by the opening of the Suez Canal. 
+Consequently, the related standard errors are also larger in magnitude. The distance 
+coefficient in column (2) of -0.397 is comparable to the average distance coefficient for 
+1870 of -0.540 in the meta-analysis of Disdier and Head (2008) while the coefficient in 
+column (3) of -0.886 is much larger. This is perhaps not surprising since, as noted earlier, 
+the coefficient in column (3) is not strictly comparable to most distance coefficients in the 
+literature which do not include country-pair fixed effects.21 
+The other notable difference between the estimates in columns (2) and (3) is that, 
+once destination fixed effects are added, the coefficient on EMP IREjt – now identified 
+exclusively from entries into and out of empire – falls from 1.105 to 0.361. What is more, 
+the precision of these results also declines. However, our results are quite similar to those 
+in Mitchener and Weidenmier (2008): they obtain empire elasticities of 1.29 to 1.46 with 
+country fixed effects and 1.77 to 1.78 with country-year fixed effects which decline to 
+only 0.36 to 0.39 when country pair or country pair-year fixed effects are included. The 
+implication is that the destination fixed effects – which are equivalent to country pair 
+fixed effects in our single-country context – absorb most of the variation here. We will, 
+therefore, obtain our main results without destination fixed effects but include these in 
+robustness exercises in Appendix E.22 
+Finally, column (4) includes both division-year (kt) and destination-division (jk) fixed 
+effects. As can be seen, the results are similar to those in column (3): it is the inclusion of 
+destination fixed effects that really makes the difference. In any case, Appendix E presents 

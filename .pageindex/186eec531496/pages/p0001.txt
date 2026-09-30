@@ -1,0 +1,52 @@
+# C9 财政汲取数字核验：意大利、威斯特伐利亚、普鲁士、西班牙
+
+## 核验范围与结论
+
+本次实际阅读了网络抓取的书籍/论文正文及附表，不以搜索结果片段作证。**没有取得原PDF页图进行视觉对校**：以下页码来自抓取文本保留的印刷页眉/页脚，表格可能有OCR/列错位；这种风险逐项保留。文献所引原档案未读，不冒称原档核验。
+
+- 【文献推断｜Branda】意大利“1805年后”向法国国库的条约收入累计 **244百万法郎**：附录II、p.10，可用；不是年度数，也不是整个意大利半岛的总汲取。
+- 【文献推断｜Grab】意大利共和国/王国通常约 **50%预算**用于驻境法军与意大利军队两者合计：p.161。**不能写成50%预算上缴法国**。
+- 【文献推断｜Grab，转引Connelly】威斯特伐利亚 **1812年累计债务140–200百万法郎**：p.101；注43指Connelly p.208。不是全部欠法国的债务，更不是全部由拿破仑新增。
+- 【文献推断｜Branda】普鲁士特别贡献列计划154、1814未付44、实收110百万法郎：附录II、p.11；不能与一般征收、占领总成本混成一个“赔款”。
+- 【裁量｜高】西班牙占领**净成本总额未获核验**；已核实的是1808–1813年当地一般征收350百万法郎全部当地军费化，以及向西班牙输送金属货币的另一组数据。两者不能直接相减推出净成本。
+
+## 1. 实际读到的版本与本地留存
+
+| 编号 | 文献与版本 | 访问路径及本地留存 | 阅读范围/限制 |
+|---|---|---|---|
+| B1 | Pierre Branda, “Did the war pay for the war? An assessment of Napoleon’s attempts to make his campaigns self-financing”, *Napoleonica. La Revue*, no.3, décembre 2008–février 2009, DOI 10.3917/napo.083.0001a | https://doi.org/10.3917/napo.083.0001a ；`downloads/pages/2e17b555b294.md` | 正文及附表I、II转录；返回文字无连续页码，不能单凭此文件编页码 |
+| B2 | 同文的Scribd上传件正文转录 | https://www.scribd.com/document/903628600/Napoleons-Attempts-to-Make-His-Campaigns-Self-Financing ；`downloads/pages/906d4b3f363b.md` | 实际读到pp.1–13正文和附表，保留逐页页眉；部分表行在抓取时丢失，以B1补读。B1/B2是同一文章，不算两份独立证据；不使用网页自动问答 |
+| G | Alexander Grab, *Napoleon and the Transformation of Europe*, Palgrave Macmillan, 2003 | https://ndl.ethernet.edu.et/bitstream/123456789/44567/1/2.Alexander%20Grab.pdf ；`downloads/pages/2ad693d5ac13.md` | 已阅读相关pp.26–28、101、161–162、219及上下文；非全书通读 |
+| J | Jean Gabillard, “Le financement des guerres napoléoniennes et la conjoncture du Premier Empire”, *Revue économique* 4(4), 1953, pp.548–572 | https://www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987 ；`downloads/pages/e4f61139af7d.md` | 已读p.554及相关注释；是二手研究，引用Mollien部分为回溯性回忆录转引 |
+| C | Christopher Clark, *Iron Kingdom*, “The World the Bureaucrats Made”, 网络章节转录 | https://erenow.org/modern/iron-kingdom/12.php ；`downloads/pages/df8591563743.md` | 已读“THE NEW MONARCHY”前段；网页无书本页码，给节名、段首、注号定位；未对校纸本 |
+
+取得限制：agent-reach推荐的mcporter检索命令因shell权限需审批而未运行，改用已配置web_search/web_extract。Cairn页面 `https://shs.cairn.info/revue-napoleonica-la-revue-2008-3-page-1a?lang=en` 返回空内容，DOI抓取成功并以B2补页码。既有downloads未发现Grab/Branda/Berding/Connelly原书PDF。
+
+## 2. 优先核验：Branda的14亿、18亿与附表
+
+### 2.1 14亿到底是什么
+
+【事实｜文献内容】B2 p.6首段明确称法国盟友和被击败国家直接或间接支付“over 1.4 billion francs”。B2 p.7列一般贡献809百万、特别贡献607百万；**809+607=1,416百万法郎**。
+
+【裁量｜高】可表述为“Branda按其战争融资口径估算，一般征收与特别贡献合计约14.16亿法郎”。不可写成“法国国库从国外收进14亿现金”或“全部外部援助/资源只有14亿”。原因：
+
+1. 一般征收大部分用于军队驻地支出，不汇回法国；还包含实物资源。
+2. 特别贡献607的构成为附表p.13的**条约外部收入453 + 特别领地向国库贷款154**。154是既有特别领地资金在法国财政体系中的借款使用，不是另一轮独立外国支付。
+3. 包括盟军及由盟国供养法军的估算节省后，p.13总量为**1,799百万**。不能把1,416与1,799再相加。
+4. 条约收入453内含西班牙与路易斯安那出售合列125。故整个453不宜统一命名为“征服赔款”。
+
+### 2.2 p.13总表：可用于C9的冻结口径
+
+表名：**“Details of extraordinary financing for the wars from An XI (1803) to 1814”**。单位百万法郎，分母为作者估算的战争额外融资需要，而非全部军费。
+
+| 表中项目 | 金额 | 占4,284比例 |
+|---|---:|---:|
+| 法国国库承担合计 | 1,859 | 43.39% |
+| 一般贡献及敌国财产征收 | 809 | 18.88% |
+| 特别领地贷款 | 154 | 3.59% |
+| 条约外部收入 | 453 | 10.57% |
+| 盟军及盟国供养部队节省 | 383 | 8.94% |
+| 战争自筹小计 | 1,799 | 41.99% |
+| 未付支出/赤字 | 503 | 11.74% |
+| 私人机构贷款（法兰西银行） | 123 | 2.87% |
+| 总额 | 4,284 | 100% |

@@ -1,0 +1,213 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/commons/1806/jul/10/india-budget"
+final_url: "https://api.parliament.uk/historic-hansard/commons/1806/jul/10/india-budget"
+provider: "exa"
+text_sha256: "ca245f88c04e7c8117afe31c45aef9a7a4f51fb56a79e9f8c5b997e3fa1c6840"
+title: "INDIA BUDGET. (Hansard, 10 July 1806)"
+content_kind: "page_text"
+---
+
+INDIA BUDGET. (Hansard, 10 July 1806)
+
+# INDIA BUDGET.
+
+HC Deb 10 July 1806 vol 7 cc1044-83 1044
+
+> On the motion of lord Morpeth, it was ordered, that the several Accounts and Papers, which have been presented to the house in this session of parliament, relating to the Revenues of the East-India Company, be referred to the consideration of a committee of the whole house. The house having accordingly resolved itself into the said committee, Mr. Hobhouse in the chair, 
+
+> Lord Morpeth
+> 
+> rose, in consequence of the notice he had given, to submit to the consideration of the house, a statement of the financial affairs of the East-India company, a subject at all times of high importance to this country, but never more so at any period than at the present moment. In all the wide-extended affairs of government, there was not one which more peculiarly called for the vigilant superintendance and scrutiny of parliament, than the system of finance, upon which so materially depended the permanent prosperity of any government; and, though the statement he should this day have the honour to submit to the committee, would not be of a nature so very flattering as had been made of late years, by some of his predecessors in the department he had the honour to fill; yet having devoted the short period, since he had filled his present situation, in endeavouring, with the utmost assiduity, to make himself acquainted with the real state of the company's affairs, both at home and in India, with respect to their debts, their revenues, and commerce, as well as the various charges upon their government 1045 and trade in all its departments, he should lay before the committee the most clear and candid statement he Was enabled to make; leaving it for the committee to decide upon the tenour of that statement, and the motions he should have the honour of founding thereon. He felt it unnecessary to trespass longer upon the attention of the committee, and should now proceed to his proposed detail, referring to the documents on the table, in support of the Several points of his statement. The noble lord then proceeded to a detail of the several items to which he alluded; of which items the following is a comprehensive and accurate view: 
+> 
+> | REVENUES, No. 1.—Excluding the Revenues of the Ceded Provinces in Oude on account of their intermixture with the Arrears of Subsidy in some of the years, and the variation in the mode of statement in the last year, and, taking the Company's fried ancient Revenues alone, the average in the three years in this statement amounts to | 6,166,581 |
+> | --- | --- |
+> | Which exceeds the, average on the three years one year back | 337,692 |
+> | No. 3. Estimated for 1803–4 | 8,064,981 |
+> | Actual Amount | 8,060,993 |
+> | Less than Estimate | 3,988 |
+> | CHARGES, No. 3.—Estimated for 1803-4 | 5,066,940 |
+> | Actual Amount | 5,434,291 |
+> | More than Estimate | 367,351 |
+> | Add deficiency of Revenue to excess of Charge, the Net Revenue is less than estimated, by | 371,339 |
+> | And the Net Revenue for 1803-4 is | 2,626,702 |
+> 
+> | ESTIMATES for 1804–5. | |
+> | --- | --- |
+> | REVENUES, No. 1 | 8,167,792 |
+> | CHARGES, No. 2 | 5,956,208 |
+> | Net Revenue | 2,211,584 |
+> | REVENUES estimated more than actual, 1803–4 | 106,799 |
+> | CHARGES estimated more than ditto | 521,917 |
+> | Net Revenue, estimated for 1864-5,less than preceding year | 415,118 |
+> 
+> | MADRAS. | |
+> | --- | --- |
+> | REVENUES—Excluding the Revenues of Arcot and of the Provinces ceded by the Nizam on account of the early years, being in part Subsidy and in part Revenue Collections, the average receipts on the years 1801-2 to 1803-4,as by No. 4, is | 2,965,199 |
+> | Being less than the average of the three years 1800-1 to 1802-3, in the sum of | 49,102 |
+> | REVENUES, No. 6—Estimated for 1803-4 | 4,888,895 |
+> | Actual amount | 4,653,401 |
+> | Less than Estimate | 235,494 |
+> | CHARGES, No. 6—Estimated for 1803-4 | 5,018,157 |
+> | Actual amount | 6,136,845 |
+> | More than Estimated | 1,118,688 |
+> 
+> 1046
+> 
+> | | £ |
+> | --- | --- |
+> | Add deficiency of Revrenue to excess of Charge, the Net Charge is more than estimated, by | 7,354,182 |
+> | And the Net Charge for 1803-4 is | 1,483,444 |
+> 
+> | ESTIMATES, 1804–5. | |
+> | --- | --- |
+> | REVENUES, No. 4. | 4,659,326 |
+> | CHARGES, No. 5. | 5,420,029 |
+> | Net Charge | 760,703 |
+> | REVENUES estimated more than actual of 1803–4 | 5,925 |
+> | CHARGES estimated less than ditto | 716,816 |
+> | Net Charge estimated for 1804-5 less than preceding year | 722,741 |
+> 
+> | BOMBAY. | |
+> | --- | --- |
+> | REVENUES, No. 7.—An adjustment of these Revenues, as of those of the other Presidencies, should have been made on account of the addition to the two last years, by Treaty and Conquest. As the amount in not specified, the average must be stated on the gross receipts on the years 1801-2 to 1803-4, it amounted to | 408,062 |
+> | Which exceeds the average 1800-1 to 1802-3, excluding a small receipt from the Orded Countries | 99,020 |
+> | REVENUES, No.9.—Estimated for 1803-4 | 518,575 |
+> | Actual Amount | 558,650 |
+> | More than Estimate | 40,075 |
+> | CHARGES, No. 9.—Estimated for 1803-4 | 1,478,881 |
+> | Actual Amount | 1,642,978 |
+> | More than Estimate | 164,097 |
+> | Deduct Excess of Revenue from Excess of Charge, the Net Charge is more than estimated, by | 124,022 |
+> | And the Net Charge of the Year 1803–4 | 1,084,328 |
+> 
+> | ESTIMATES. 1804–5. | |
+> | --- | --- |
+> | REVENUES, No. 7 | 731,391 |
+> | CHARGES, No. 8 | 1,873,933 |
+> | Net Charge | 1,142,542 |
+> | Revenues estimated more than actual, 1803-4 | 172,741 |
+> | Charges estimated more than ditto | 230,955 |
+> | Net Charge estimated for 1804-5, more than preceding year | 58,214 |
+> 
+> | BENCOOLEN and other SETTLEMENTS. | |
+> | --- | --- |
+> | No. 10, A.—Revenues of Fort Marlbro' in the year 1802–3 | 13,985 |
+> | Charges of ditto | 122,132 |
+> | Net Charge | 108,147 |
+> | SUPPLIES from BENGAL to FORT MARLERRO' PENANG, &c. estimated for 1803–4 | 212,628 |
+> | No. 18.—Actual Amount | 304,056 |
+> | More than estimated | 91,428 |
+> | NO.11.—Supplies estimated for 1804-5 | 287,680 |
+> 
+> | GENERAL VIEW. | |
+> | --- | --- |
+> | Result of the Year 1803-4 collectively. REVENUES—Bengal by No. 3 | 8,060,993 |
+> | Madras 6 | 4,653,401 |
+> | Bombay 9 | 558,650 |
+> | Total Revenues | 13,273,044 |
+> 
+> 1047
+> 
+> | | £ |
+> | --- | --- |
+> | CHARGES—Bengal, by No. 3 | 5,434,294 |
+> | Madras, 6 | 6,136,845 |
+> | Bombay, 9 | 1,642,978 |
+> | Total Charges | 13,214,114 |
+> | Net Revenue of the three Presidencies | 58,930 |
+> | Deducted from Supplies to Bencoolen, &c. by No. 18 | 304,056 |
+> | Leaves a Net Charge of | 245,126 |
+> | Add Interest, &c. paid on the Debts at Bengal, by No. 18 | 957,727 |
+> | Madras, 19 | 334,179 |
+> | Bombay, 20 | * 242,852 |
+> | Total Interest | 1,534,758 |
+> | The Total amounting to is the Sum in which the Charges and Interest exceeded the Produce of the Territorial Revenues. | 1,779,884 |
+> | From which deduct the Amount of the Sales of Imports, by No.15 | 655,481 |
+> | The Remainder | 1,124,403 |
+> | Shews the Amount in which, in the year 1803-4, the Resources from Revenue and Sales of Imports were in sufficient to defray the Charges, and the Interest on the Debts. | |
+> | Amount advanced for the purchase of Investments, Payment of Commercial Charges and in aid of China— | |
+> | At Bengal, by No. 18 | 1,380,855 |
+> | Madras, 19 | 706,771 |
+> | Bombay, 20 | 193,844 |
+> | Fort Marlbro' 22 | 39,014 |
+> | Total Advances for Investments | 2,320,484 |
+> | Cargoes consigned to Europe, in 1803-4, with Charges by No. 22 | 1,674,645 |
+> 
+> | GENERAL VIEW | |
+> | --- | --- |
+> | Result of the ESTIMATES for the Year 1804–5, collectively. | |
+> | REVENUES—Bengal, by No. 1 | 8,167,792 |
+> | Madras, 4 | 4,659,326 |
+> | Bombay, 7 | 731,391 |
+> | Total Revenues | 13,558,509 |
+> | CHARGES—Bengal, by No. 2 | 5,956,208 |
+> | Madras, 5 | 5,420,029 |
+> | Bombay, 8 | 1,873,933 |
+> | Total Charges | 13,250,170 |
+> | Net Revenue of the three Presidencies | 308,339 |
+> | Deduct Supplies to Bencoolen, &c., by No. 11 | 287,680 |
+> | Reminder | 20,659 |
+> | Deducted from Interest on Debts, by No. 16 | †1,754,843 |
+> | The Sum then remaining is the Amount in which the Charges and Interest are estimated to exceed the Revenues. | 1,734,184 |
+> | Deduct Amount estimated to be received on the Sales of Imports, by No. 15 | 602,993 |
+> | The Remainder is the Amount in which the Charges | 1,131,191 |
+> 
+> * This Sum includes 140,436 l. paid the Commissioners of the Sinking Fund for Interest on the Securities in their Hands.†Includes 166,454 l. payable to the Commissioners of the Sinking Fund. 1048
+> 
+> | | £ |
+> | --- | --- |
+> | of Government and Interest on the Debts are estimated to exceed the Resources expected to be derived from the territorial Revenues, and from the Sales of Imports, in the year 1804-5. | |
+> 
+> | DEBTS IN INDIA. | |
+> | --- | --- |
+> | Amount stated, to April 1803 21,881,571 Deduct in the hands of the Commissioners of the Sinking Fund | 2,012,348 |
+> | Net Amount of Dehts, on the 30th April, 1803 | 19,869,223 |
+> | Amount on 30th April, 1804, by No. 16. of present Account | 25,336,263 |
+> | Deduct Sinking Fund, as above | 2,800,056 |
+> | Net Amount of Debts on 30th April, 1804 | 22,536,207 |
+> | Increase | 2,666,984 |
+> 
+> | DEBTS BEARING INTEREST. | |
+> | --- | --- |
+> | Amount in April 1803 | 18,712,933 |
+> | Deduct in the hands of the Commissioners of the Sinking Fund | 1,686,917 |
+> | Net Amount of Debts bearing Interest on 30th April, 1803 | 17,026,016 |
+> | Amount on 30th April, 1804, by No. 16 | 21,276,466 |
+> | Deduct Sinking Fund, as above | 2,244,532 |
+> | Net Amount of Debts, bearing Interest on 30th April 1804 | 19,031,934 |
+> | Increase of Debt bearing Interest | 2,005,918 |
+> | Amount of Interest payable on Debt owing in April 1803 | 1,574,011 |
+> | Deduct Interest on Securities in the hands of the Commissioners of the Sinking Fund | 126,360 |
+> | Net Amount of Interest payable on Debt owing 30th April, 1803 | 1,447,651 |
+> | Amount payable on Debt, in April 1804, by No. 16 | 1,754,843 |
+> | Deduct Sinking Fund, as above | 166,454 |
+> | Net Amount of Interest payable on Debt, owing 30th April, 1804 | 1,588,389 |
+> | Increase of Interest payable | 140,738 |
+> 
+> | ASSETS IN INDIA. | |
+> | --- | --- |
+> | Consisting of Cash, Goods, Stores, &c. in April 1803 | 14,630,971 |
+> | Deduct Balance and Securities in hands of Commissioners of the Sinking Fund | 2,012,348 |
+> | Net Amount of Assets on the 30th April, 1803 | 12,618,623 |
+> 
+> 1049
+> 
+> | Consisting as above, on 30th April 1804, by No 21 | 17,252,399 |
+> | --- | --- |
+> | Deduct Sinking Fund, as above | 2,800,056 |
+> | Net Amount of Assets, on 30th April, 1804 | 14,452,343 |
+> | Increase of Assets | 1,833,720 |
+> | Deducting Increase of Assets from Increase of Debts, the State of the Company's Affairs, in this view, is worse in April 1804, than in April 1803, in the Suns of | 833,264 |
+> 
+> | HOME ACCOUNTS. | |
+> | --- | --- |
+> | No. 25—Aggregate Amount of Sale in 1804-5 | 8,044,392 |
+> | Less than the Year preceding | 380,876 |
+> | The Sales of the Company's Goods were less by | 609,991 |
+> | The sales of Private-Trade Goods were more by | 229,115 |
+> | Making the Net difference, as above | 380,876 |
+> | The Sales of the Company's Goods were estimated at | 6,868,700 |
+> | The actual Amount was | 5,267,578 |
+> | Being less than estimated | 1,601,122 |
+> | The Receipts on the Sales of the Company's Goods were estimated at | 6,598,496 |
+> | They actually amounted to | 5,730,153 |

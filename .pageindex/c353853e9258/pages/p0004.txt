@@ -1,0 +1,60 @@
+
+
+Isser Woloch, “Napoleonic Conscription: State Power and Civil Society”, *Past & Present* 111 (1986), pp.101–129，DOI：https://doi.org/10.1093/past/111.1.101。
+
+【未验证原表】DOI提取只返回元数据：`downloads/pages/5fa8192aac32.md`。Stephan Rosenke，2003年大学课程论文 *Die Napoleonischen Feldzüge. Wehrpflicht, Réfractaires und Deserteure*，注41原句：
+> “vgl. Tabelle 1 ‘The Napoleonic Levies’ bei Woloch: Napoleonic Conscription, 110.”
+
+- 该指引本地：`downloads/pages/8c0c23fc4ef9.md`，行516。
+- URL：https://de.readkong.com/page/die-napoleonischen-feldzuge-wehrpflicht-refractaires-und-7167994
+- 它只证明明确的查表线索；学生论文不是原表替身，也不能说明表内有实际编入列。后续最优查证目标是Woloch p.110而非漫搜总兵力。
+
+## 5. 战后类比：必须改正存量口径
+
+### 5.1 1818的240,000：制度规模，非观测实额
+
+【事实：档案馆编制说明】Archives départementales de la Somme, *Sous-série 1 R (en partie), Recensement militaire et registres matricules (an IX–1940), Répertoire numérique*，2024-02-22修订，p.6“1818”：
+
+> “Le total de l’armée est fixé à 240.000 hommes. Les appels sont destinés à compléter ce chiffre dans la limite annuelle de 40.000 hommes (en cas de besoins supérieurs, une loi est nécessaire).”
+> “La durée du service est fixée à six ans, sauf pour la classe de 1816 (cinq ans).”
+
+可冻结：1818年3月10日法律所定军额240,000、通常年度征召上限40,000、通常役期6年。**不能冻结“1818年军队实有24万”，也不能仅按6×4万证明实际存量。**这次读的是档案馆法律摘要而非法律原刊。
+
+同页1832年法摘要还区分“mis en activité”与“laissés dans leurs foyers”，七年法定役期乘年度contingent亦不能当在营兵力。
+
+- URL：https://archives.somme.fr/document/r1_rep_militaire
+- 本地：`downloads/pages/e07f5916248e.md`，p.6。
+
+### 5.2 七月王朝：同时期刊给出实额421,494，不支持固定30—40万和平军额
+
+【事实：同时期刊转引报告】*L’Écho de la Fabrique*, 21 avril 1833, no.16，“Variétés—Effectif de l’armée française”：
+> “Le Moniteur publie un rapport du ministre de la guerre, dont nous extrayons les passages suivans”
+> “Les ordonnances rendues en septembre 1831 avaient fixé le complet de l’armée à 452,195 hommes … mais ce complet n’a pas été atteint … l’armée n’était que de 400,371 hommes”
+> “Au 1er janvier 1833, l’armée présentait un effectif de 421,494 hommes et 82,057 chevaux.”
+
+|日期/状态|人数|性质|
+|---|---:|---|
+|1831年9月敕令|452,195|编制额complet|
+|该报道所指同一时期|400,371|报告实额；具体统计日未列|
+|1833-01-01|421,494|报告实额effectif|
+
+1833表中“troupes françaises”413,424，其中宪兵15,982、退役老兵部队8,995等；另含外国军团4,473、Zouaves 1,055、Chasseurs d’Afrique 2,334、土耳其辅助部队210。不能把421,494当可外征野战兵力，也不能写成欧洲驻军净额。原文没有称其为“和平正常军额”；本次不据此推算稳定和平容量。
+
+- URL：http://echo-fabrique.ens-lyon.fr/document.php?format=search&id=2542
+- 本地：`downloads/pages/a21d8807b909.md`
+- 页内锚点：EFFECTIF DE L’ARMÉE FRANÇAISE，首三段及表；电子转录含原刊[4.2]栏标。
+- 引用链：战争部长报告→《Moniteur》→《Écho》摘录→ENS Lyon电子转录；本次未核《Moniteur》原刊。
+
+## 6. 边界、后续最短路径与检索台账
+
+【裁量】F2可以立即采用：两项逐令/年级授权锚点；Houdaille累计appelés/incorporés对照；1818法定军额；1831/1833编制与实额对照。1803—1813年度列表只能以“旧综合史征令额，待逐令对校”附表列出。全国1803—1814年度实到仍不得填写。
+
+检索严格8次（无进一步搜索）：
+1. Napoleon conscription annual levies table 1803 1814 Hargenvilliers
+2. conscription “1803” “1804” “1805” “1813” “incorporés” tableau
+3. “Woloch” “conscription” “1806” “1810” 1986 table
+4. “Woloch” “The Napoleonic Levies”
+5. “Napoleonic Conscription: State Power and Civil Society” pdf
+6. “1818” “240 000” “armée” “1830”
+7. armée loi 1818 “240.000” “1832”
+8. “monarchie de Juillet” “armée” “400 000” “300 000”

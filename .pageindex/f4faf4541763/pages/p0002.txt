@@ -1,0 +1,31 @@
+
+
+## 四、财政转向（fiscalism）：从"禁"到"抽租"
+
+- 印p.197 / PDF213 法国本国关税收入（法郎）：1806 = 51,200,000；1807 = 60,600,000；1808 = 18,600,000（"less than one-third"）；1809 = 11,600,000。
+  → 与F4卡 Marion IV p.304–306 的净额序列（1808=18.559m、1809=11.552m）在同一量级、几乎同数：**两者很可能同源于官方序列，不构成独立互证**。
+- 印p.197–198 / PDF213–214：Collin de Sussy（法国海关总监）与Montalivet（稍后内政部长）的方案——"the state might be able to enter into what was literally a competition with the smugglers ... the importation of the hitherto forbidden goods was to be permitted, but only on payment of a duty that exactly corresponded to an amount which ... the smuggling business had previously cost. In that case no more goods would come into the country than had been the case beforehand, but the profit would fall to the state instead of to the smugglers."
+  → **这是特里亚农体系的官方经济学：关税=走私成本的国有化**。本卡"租金再分配"的一手理论依据。
+- 印p.198 / PDF214 Heckscher的判词："fiscalism had definitively gotten the upper hand over the Continental System, at least in one-half of its range. The object was no longer to exclude goods, but to make an income by receiving them instead; and no sophistry in the world could make the latter compatible with the former."
+- 印p.198 / PDF214【转引 *Correspondance* no. 16,983，1810-10-03致热罗姆】：新制既增收入，又使"the continental customers of the English merchants will not be able to pay for them (the goods), and the consumption of colonial goods, which will be rendered dear in this way, will be diminished."
+- 印p.199 / PDF215 **缉获品法令（1810-01-12）**：禁止进口之货（除某些棉织品与针织品外），若来自军舰或持照私掠船捕获之敌方战利品，缴**48%**关税即可入境，称"origines permises"。【*Bulletin des lois* 4e sér., bull. 260, no. 5,122】
+- 印p.200 / PDF216 **荷兰并入法令（1810-07-09）第10条**：荷兰境内大量殖民品存货按**价值50%**（另一说按申报时间40%或50%）纳税入帝国；凡距法国边界**四日行程以内**的殖民品存货一律视为损法而须受法军检查，"French troops were actually employed for the purpose"；关税**可以实物缴纳**（并可用期票），Heckscher说没有这一让步"it is certain that in many cases such large amounts could not have been gathered in"。
+- 印p.200 / PDF216：为防止货物逃往他国，要求全大陆**同时**施行，故令欧仁暂时保密。
+- 印p.201 / PDF217 **特里亚农税则（1810-08-05）**：按重量（每100公斤）从量征收，非从价；战利品与许可证货物似仍分别适用40%与50%。税率对比（每100公斤法郎）：
+  | 货品 | 旧率 | 特里亚农 |
+  |---|---|---|
+  | 原棉（南美与长绒佐治亚） | 1804=1；1806=60 | **800** |
+  | 黎凡特棉（海路） | — | 400 |
+  | 黎凡特棉（经莱茵海关） | — | 〔OCR"WOO"不可辨，未冻结〕 |
+  | 其他棉（那不勒斯除外） | — | 600 |
+  | 靛蓝 | 1803=15 | **900**；1813-01再升至 **1,100** |
+  | 丁香 | 1806=3 | 600 |
+  | 茶（绿） | 3（另某些情形从价10%） | 600；其他茶150 |
+  | 咖啡 | 1806=150 | 400 |
+  | 可可 | 1806=〔OCR"ROO"，疑200〕 | 1,000 |
+  | 优质肉桂／胭脂虫／肉豆蔻 | 旧税则未列 | 2,000 |
+  1810-09-27补充税则再加约三十个税目。
+- 印p.202–203 / PDF218–219 **枫丹白露敕令（1810-10-18，档案作10-19）**：走私首领十年苦役＋烙印；下层工具可减为轻罪刑＋5–10年警察监视；殖民品走私四年苦役；"simple smuggling"（无协议、无承保义务者）不入苦役。货物处置：殖民品照旧没收、每六个月拍卖一次；**禁品（工业制品）公开焚毁或销毁**，事先列单标价。为此设**cours prévôtales des douanes**（海关军法法庭），"the operations of which have stood out to later generations as the culmination of the oppression involved in the Continental System"。
+  【法令谱系：*Bulletin des lois* 4e sér., bull. 299 no. 5,724；bull. 304 no. 5,778；bull. 315 no. 5,958；bull. 321 no. 6,040；bull. 324 no. 6,067】
+- 印p.203 / PDF219：焚货先例来自**英国十七世纪立法**，至乔治三世初年仍重复（3 Geo. III, c. 21）；1810-12-09《Moniteur》即以英国近例作文章。→ 焚货不是拿破仑独创的野蛮，而是重商主义惩罚传统的重启。
+- 印p.204 / PDF220：特里亚农与枫丹白露之后"we find proportionally a still larger number of examples of bribery and embezzlement ... than before"；拿破仑的应对是"demand a share of the bribes ... convert them into sponges with which to soak up revenue from the illicit trade"。

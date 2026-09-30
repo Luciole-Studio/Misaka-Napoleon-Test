@@ -1,0 +1,460 @@
+          "institutions": []
+        },
+        {
+          "name": "Owen Connelly",
+          "id": "https://openalex.org/A5050570977",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 59,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2767310984",
+      "doi": "10.1093/jeg/lbaa026",
+      "title": "Colonial legacies: Shaping African cities",
+      "year": 2020,
+      "type": "article",
+      "venue": "Journal of Economic Geography",
+      "venue_issn": "1468-2702",
+      "authors": [
+        {
+          "name": "Neeraj Baruah",
+          "id": "https://openalex.org/A5038120832",
+          "institutions": [
+            "Vivid Economics (United Kingdom)"
+          ]
+        },
+        {
+          "name": "J. Vernon Henderson",
+          "id": "https://openalex.org/A5036094575",
+          "institutions": [
+            "London School of Economics and Political Science"
+          ]
+        },
+        {
+          "name": "Cong Peng",
+          "id": "https://openalex.org/A5101852810",
+          "institutions": [
+            "John F. Kennedy University",
+            "Harvard University Press"
+          ]
+        }
+      ],
+      "cited_by_count": 57,
+      "is_oa": true,
+      "oa_pdf": "https://researchonline.lse.ac.uk/id/eprint/106621/1/Colonial_legacies_2020_4_.pdf",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 69,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2921926571",
+      "doi": "10.1177/0010414019830716",
+      "title": "Path Dependence in European Development: Medieval Politics, Conflict, and State Building",
+      "year": 2019,
+      "type": "article",
+      "venue": "Comparative Political Studies",
+      "venue_issn": "0010-4140",
+      "authors": [
+        {
+          "name": "Avidit Acharya",
+          "id": "https://openalex.org/A5077284285",
+          "institutions": [
+            "Stanford University"
+          ]
+        },
+        {
+          "name": "Alexander Lee",
+          "id": "https://openalex.org/A5101460188",
+          "institutions": [
+            "University of Rochester"
+          ]
+        }
+      ],
+      "cited_by_count": 56,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 70,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2319534047",
+      "doi": "10.1080/03468759008579195",
+      "title": "Reform and revolution",
+      "year": 1990,
+      "type": "article",
+      "venue": "Scandinavian Journal of History",
+      "venue_issn": "0346-8755",
+      "authors": [
+        {
+          "name": "Henrik Horstbøll",
+          "id": "https://openalex.org/A5051577142",
+          "institutions": [
+            "Aarhus University"
+          ]
+        },
+        {
+          "name": "Uffe Østergård",
+          "id": "https://openalex.org/A5080899353",
+          "institutions": [
+            "Aarhus University"
+          ]
+        }
+      ],
+      "cited_by_count": 51,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 1,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W1975415301",
+      "doi": "10.1017/s1537592706250473",
+      "title": "Sufficient Reason: Volitional Pragmatism and the Meaning of Economic Institutions",
+      "year": 2006,
+      "type": "article",
+      "venue": "Perspectives on Politics",
+      "venue_issn": "1537-5927",
+      "authors": [
+        {
+          "name": "Eric MacGilvray",
+          "id": "https://openalex.org/A5008642970",
+          "institutions": [
+            "The Ohio State University"
+          ]
+        }
+      ],
+      "cited_by_count": 50,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W1967640746",
+      "doi": "10.1515/9781400853786",
+      "title": "Businessmen and Politics in the Rhineland, 1789-1834",
+      "year": 1980,
+      "type": "book",
+      "venue": "Princeton University Press eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Jeffry M. Diefendorf",
+          "id": "https://openalex.org/A5046761624",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 45,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2019637052",
+      "doi": "10.2307/1430244",
+      "title": "Rhineland Radicals: The Democratic Movement and the Revolution of 1848-1849",
+      "year": 1993,
+      "type": "article",
+      "venue": "German Studies Review",
+      "venue_issn": "0149-7952",
+      "authors": [
+        {
+          "name": "Loyd E. Lee",
+          "id": null,
+          "institutions": []
+        },
+        {
+          "name": "Jonathan Sperber",
+          "id": "https://openalex.org/A5109224429",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 44,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W4251224662",
+      "doi": "10.4324/9780203113325",
+      "title": "Vulnerable People, Vulnerable States",
+      "year": 2012,
+      "type": "book",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Daniel W. Bromley",
+          "id": "https://openalex.org/A5073835856",
+          "institutions": []
+        },
+        {
+          "name": "G. D. Anderson",
+          "id": "https://openalex.org/A5060097020",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 43,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W563382745",
+      "doi": "10.13109/9783666359583",
+      "title": "Napoleonische Herrschafts- und Gesellschaftspolitik im Königreich Westfalen 1807-1813",
+      "year": 1973,
+      "type": "book",
+      "venue": "Vandenhoeck & Ruprecht eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Helmut Berding",
+          "id": "https://openalex.org/A5066676549",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 36,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2070278247",
+      "doi": "10.5040/9781472895325",
+      "title": "The French Revolutionary Wars",
+      "year": 2001,
+      "type": "book",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [],
+      "cited_by_count": 34,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W575163795",
+      "doi": null,
+      "title": "Deutsche Agrargeschichte im Zeitalter der Reformen und der Industrialisierung",
+      "year": 1993,
+      "type": "book",
+      "venue": "Ulmer eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Walter Achilles",
+          "id": "https://openalex.org/A5048564951",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 32,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W657756846",
+      "doi": null,
+      "title": "The Napoleonic empire in Italy, 1796-1814 : cultural imperialism in a European context?",
+      "year": 2005,
+      "type": "book",
+      "venue": "Palgrave Macmillan eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Michael Broers",
+          "id": "https://openalex.org/A5047120549",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 30,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W1975076067",
+      "doi": "10.2307/1859087",
+      "title": "Handbuch der Quellen und Literatur der neueren europaischen Privatrechtsgeschichte",
+      "year": 1975,
+      "type": "article",
+      "venue": "The American Historical Review",
+      "venue_issn": "0002-8762",
+      "authors": [
+        {
+          "name": "Janos M. Bak",
+          "id": "https://openalex.org/A5098114366",
+          "institutions": []
+        },
+        {
+          "name": "Helmut Coing",
+          "id": "https://openalex.org/A5098586185",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 29,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2017228265",
+      "doi": "10.13109/9783666359972",
+      "title": "Kapital, Staat und sozialer Protest in der deutschen Industrialisierung",
+      "year": 1980,
+      "type": "book",
+      "venue": "Vandenhoeck & Ruprecht eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Richard Tilly",
+          "id": "https://openalex.org/A5085917889",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 29,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 3,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W1535917340",
+      "doi": "10.1007/978-1-349-08847-8",
+      "title": "The Napoleonic Empire",
+      "year": 1991,
+      "type": "book",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Geoffrey James Ellis",
+          "id": "https://openalex.org/A5103347470",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 28,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W1597393930",
+      "doi": "10.1524/9783486701081",
+      "title": "Vom Ancien Régime zum Wiener Kongreß",
+      "year": 2008,
+      "type": "book",
+      "venue": "R. Oldenbourg Verlag eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Elisabeth Fehrenbach",
+          "id": "https://openalex.org/A5003798006",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 28,

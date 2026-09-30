@@ -1,0 +1,132 @@
+{
+  "status": "arithmetic_structure_and_locator_checks_passed",
+  "not_validated": [
+    "historical_parameter_truth",
+    "joint_fiscal_material_feasibility",
+    "battle_win_probability",
+    "rendered_layout"
+  ],
+  "capacity_rows": 156,
+  "sensitivity_rows": 80,
+  "material_rows": 24,
+  "historical_anchor_rows": 44,
+  "unique_yard_hulls": 52,
+  "timeline_nodes": 38,
+  "policy_choices": 8,
+  "unit_dimensions": 16,
+  "max_csv_stock_residual": 1.0000000258969521e-06,
+  "max_backend_residual": 0.0,
+  "local_quote_checks": [
+    {
+      "source": "S02",
+      "path": "downloads/pages/171e7ef70128.md",
+      "line": 64,
+      "quote": "La construction d’un vaisseau de 80 canons exige l’emploi de 3737 stères de bois",
+      "method": "whitespace_normalized_substring",
+      "limit": "源单位，不自动换实方"
+    },
+    {
+      "source": "S03",
+      "path": "downloads/pages/21ae17eda88c.md",
+      "line": 56,
+      "quote": "les ports et arsenaux comptaient 104 vaisseaux, à flot ou en chantier.",
+      "method": "whitespace_normalized_substring",
+      "limit": "在建和浮存混合，非可战104"
+    },
+    {
+      "source": "S04",
+      "path": "downloads/pages/f042c1f13d31.md",
+      "line": 329,
+      "quote": "Je ne veux pas que mes escadres sortent",
+      "method": "whitespace_normalized_substring",
+      "limit": "有条件指挥命令，不等舰队从未出海"
+    },
+    {
+      "source": "S05",
+      "path": "downloads/pages/82a063e7e022.md",
+      "line": 655,
+      "quote": "un corps de 66,000 matelots",
+      "method": "whitespace_normalized_substring",
+      "limit": "规划而非到员"
+    },
+    {
+      "source": "S06",
+      "path": "downloads/pages/550652301685.md",
+      "line": 46,
+      "quote": "construire chaque année huit vaisseaux au lieu de six",
+      "method": "whitespace_normalized_substring",
+      "limit": "仅Anvers的目标，不是全国实绩"
+    },
+    {
+      "source": "S07",
+      "path": "downloads/pages/f9f391a5effc.md",
+      "line": 386,
+      "quote": "En 1825, l’inscription maritime comptait 94 611 inscrits dont 73 053 officiers mariniers, matelots novices et mousses.",
+      "method": "whitespace_normalized_substring",
+      "limit": "职业登记不等军舰可用熟练人数"
+    },
+    {
+      "source": "S08",
+      "path": "downloads/pages/b63d35ce3cb6.md",
+      "line": 34,
+      "quote": "dont 52 à flot, portés comme disponibles sur les états de la marine",
+      "method": "whitespace_normalized_substring",
+      "limit": "1814和约后口径；转录未阅原刊"
+    },
+    {
+      "source": "S09",
+      "path": "downloads/pages/78508d75464b.md",
+      "line": 158,
+      "quote": "5314 navires ennemis sont pris de 1803 à 1814",
+      "method": "whitespace_normalized_substring",
+      "limit": "累计俘获，非英国商船存量净减"
+    },
+    {
+      "source": "S12",
+      "path": "downloads/pages/04c2ed9cef98.md",
+      "line": 246,
+      "quote": "sa machine à vapeur fut construite par une entreprise de Liverpool, W. Fawcett",
+      "method": "whitespace_normalized_substring",
+      "limit": "Sphinx160hp的英国机器，不是所有法国机器皆英国进口"
+    }
+  ],
+  "pdf_doc_verify_receipts": [
+    {
+      "source": "S01",
+      "doc_id": "0fd6bd047f2a",
+      "page": 16,
+      "character": 2399,
+      "hash": "cd8349ec598890dbd82e132eb1dd26c369f714fb6ac3076d435f8ec8ed420fa1",
+      "quote": "Le vice-amiral Ganteaume, chargé au printemps 1810 par Napoléon de s'occuper du recrutement et de la formation des marins pour la nouvelle marine de 100 vaisseaux, estime le nombre de marins français à 30000.",
+      "limit": "Ganteaume估计，不是普查"
+    },
+    {
+      "source": "S01",
+      "doc_id": "0fd6bd047f2a",
+      "page": 24,
+      "character": 4245,
+      "hash": "f0fc3593e11b95fc7a409e5ecf3cedb3ae1d73d34dcc8e62c666a3bb1cdc14d5",
+      "quote": "223404900 fr en 1812, 255746100 en 1813, 145919400 pour l'entretien en 1814",
+      "limit": "计划/估算，非决算"
+    },
+    {
+      "source": "S01",
+      "doc_id": "0fd6bd047f2a",
+      "page": 17,
+      "character": 2510,
+      "hash": "2465fdd5ae4c971ed6651dec96598620d0fd216b213c21f42332863b364dddd9",
+      "quote": "Dans l'immédiat, le Danemark n'est en mesure de fournir que 200 matelots pour compléter les équipages des deux vaisseaux de l'Escaut.",
+      "limit": "即时可拨，非总登记"
+    },
+    {
+      "source": "S01",
+      "doc_id": "0fd6bd047f2a",
+      "page": 18,
+      "character": 650,
+      "hash": "a1e90f4c3b11d4bbd79912fb004fc3dad4d3c18df5f79e060f6736c4f4d8a89e",
+      "quote": "70% des conscrits de 1811 viennent de départements qui ne sont pas français aujourd'hui.",
+      "limit": "今日边界、征额类别，不是全部舰员占比"
+    }
+  ],
+  "report_sha256": "db2b45eb8f83aa801c4c0a8d9993dd7d74080bb5f0a3fbdddbae1e733434e920"
+}

@@ -1,0 +1,315 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+Czechia,CZE,1940,11160000
+Czechia,CZE,1941,11129000
+Czechia,CZE,1942,11054000
+Czechia,CZE,1943,11035000
+Czechia,CZE,1944,11109000
+Czechia,CZE,1945,10693000
+Czechia,CZE,1946,9523000
+Czechia,CZE,1947,8765000
+Czechia,CZE,1948,8828360
+Czechia,CZE,1949,8868627
+Czechia,CZE,1950,8916715
+Czechia,CZE,1951,8997247
+Czechia,CZE,1952,9077207
+Czechia,CZE,1953,9152603
+Czechia,CZE,1954,9221188
+Czechia,CZE,1955,9289429
+Czechia,CZE,1956,9358023
+Czechia,CZE,1957,9418969
+Czechia,CZE,1958,9469710
+Czechia,CZE,1959,9508387
+Czechia,CZE,1960,9541605
+Czechia,CZE,1961,9573386
+Czechia,CZE,1962,9597463
+Czechia,CZE,1963,9627331
+Czechia,CZE,1964,9668745
+Czechia,CZE,1965,9706844
+Czechia,CZE,1966,9736244
+Czechia,CZE,1967,9758984
+Czechia,CZE,1968,9775112
+Czechia,CZE,1969,9787790
+Czechia,CZE,1970,9801253
+Czechia,CZE,1971,9822783
+Czechia,CZE,1972,9858071
+Czechia,CZE,1973,9906214
+Czechia,CZE,1974,9965950
+Czechia,CZE,1975,10030787
+Czechia,CZE,1976,10092941
+Czechia,CZE,1977,10149369
+Czechia,CZE,1978,10200753
+Czechia,CZE,1979,10246154
+Czechia,CZE,1980,10275404
+Czechia,CZE,1981,10289518
+Czechia,CZE,1982,10299006
+Czechia,CZE,1983,10302947
+Czechia,CZE,1984,10303816
+Czechia,CZE,1985,10305141
+Czechia,CZE,1986,10304374
+Czechia,CZE,1987,10303422
+Czechia,CZE,1988,10305448
+Czechia,CZE,1989,10305609
+Czechia,CZE,1990,10301989
+Czechia,CZE,1991,10304420
+Czechia,CZE,1992,10312449
+Czechia,CZE,1993,10320404
+Czechia,CZE,1994,10322332
+Czechia,CZE,1995,10312041
+Czechia,CZE,1996,10296140
+Czechia,CZE,1997,10280049
+Czechia,CZE,1998,10265430
+Czechia,CZE,1999,10251385
+Czechia,CZE,2000,10236809
+Czechia,CZE,2001,10231942
+Czechia,CZE,2002,10239474
+Czechia,CZE,2003,10248907
+Czechia,CZE,2004,10261453
+Czechia,CZE,2005,10280155
+Czechia,CZE,2006,10304592
+Czechia,CZE,2007,10337539
+Czechia,CZE,2008,10378298
+Czechia,CZE,2009,10420985
+Czechia,CZE,2010,10464035
+Czechia,CZE,2011,10495508
+Czechia,CZE,2012,10507339
+Czechia,CZE,2013,10511164
+Czechia,CZE,2014,10517223
+Czechia,CZE,2015,10524418
+Czechia,CZE,2016,10531946
+Czechia,CZE,2017,10541343
+Czechia,CZE,2018,10548934
+Czechia,CZE,2019,10554872
+Czechia,CZE,2020,10550129
+Czechia,CZE,2021,10530683
+Czechia,CZE,2022,10673216
+Czechia,CZE,2023,10809722
+Czechoslovakia,OWID_CZS,1600,4500000
+Czechoslovakia,OWID_CZS,1700,4500000
+Czechoslovakia,OWID_CZS,1800,7008000
+Czechoslovakia,OWID_CZS,1820,7657000
+Czechoslovakia,OWID_CZS,1850,9250000
+Czechoslovakia,OWID_CZS,1870,10160000
+Czechoslovakia,OWID_CZS,1890,11250000
+Czechoslovakia,OWID_CZS,1900,12140000
+Czechoslovakia,OWID_CZS,1910,12980000
+Czechoslovakia,OWID_CZS,1913,13240000
+Czechoslovakia,OWID_CZS,1920,12980000
+Czechoslovakia,OWID_CZS,1921,13010000
+Czechoslovakia,OWID_CZS,1922,13160000
+Czechoslovakia,OWID_CZS,1923,13290000
+Czechoslovakia,OWID_CZS,1924,13410000
+Czechoslovakia,OWID_CZS,1925,13540000
+Czechoslovakia,OWID_CZS,1926,13640000
+Czechoslovakia,OWID_CZS,1927,13730000
+Czechoslovakia,OWID_CZS,1928,13810000
+Czechoslovakia,OWID_CZS,1929,13880000
+Czechoslovakia,OWID_CZS,1930,13960000
+Czechoslovakia,OWID_CZS,1931,14050000
+Czechoslovakia,OWID_CZS,1932,14140000
+Czechoslovakia,OWID_CZS,1933,14220000
+Czechoslovakia,OWID_CZS,1934,14280000
+Czechoslovakia,OWID_CZS,1935,14340000
+Czechoslovakia,OWID_CZS,1936,14390000
+Czechoslovakia,OWID_CZS,1937,14430000
+Czechoslovakia,OWID_CZS,1938,14600000
+Czechoslovakia,OWID_CZS,1939,14680000
+Czechoslovakia,OWID_CZS,1940,14710000
+Czechoslovakia,OWID_CZS,1941,14670000
+Czechoslovakia,OWID_CZS,1942,14580000
+Czechoslovakia,OWID_CZS,1943,14540000
+Czechoslovakia,OWID_CZS,1944,14590000
+Czechoslovakia,OWID_CZS,1945,14150000
+Czechoslovakia,OWID_CZS,1946,12920000
+Czechoslovakia,OWID_CZS,1947,12160000
+Czechoslovakia,OWID_CZS,1948,12340000
+Czechoslovakia,OWID_CZS,1949,12340000
+Czechoslovakia,OWID_CZS,1950,12390000
+Czechoslovakia,OWID_CZS,1951,12530000
+Czechoslovakia,OWID_CZS,1952,12680000
+Czechoslovakia,OWID_CZS,1953,12820000
+Czechoslovakia,OWID_CZS,1954,12950000
+Czechoslovakia,OWID_CZS,1955,13090000
+Czechoslovakia,OWID_CZS,1956,13230000
+Czechoslovakia,OWID_CZS,1957,13360000
+Czechoslovakia,OWID_CZS,1958,13470000
+Czechoslovakia,OWID_CZS,1959,13560000
+Czechoslovakia,OWID_CZS,1960,13650000
+Czechoslovakia,OWID_CZS,1961,13780000
+Czechoslovakia,OWID_CZS,1962,13860000
+Czechoslovakia,OWID_CZS,1963,13950000
+Czechoslovakia,OWID_CZS,1964,14050000
+Czechoslovakia,OWID_CZS,1965,14150000
+Czechoslovakia,OWID_CZS,1966,14220000
+Czechoslovakia,OWID_CZS,1967,14280000
+Czechoslovakia,OWID_CZS,1968,14320000
+Czechoslovakia,OWID_CZS,1969,14280000
+Czechoslovakia,OWID_CZS,1970,14320000
+Czechoslovakia,OWID_CZS,1971,14380000
+Czechoslovakia,OWID_CZS,1972,14460000
+Czechoslovakia,OWID_CZS,1973,14550000
+Czechoslovakia,OWID_CZS,1974,14660000
+Czechoslovakia,OWID_CZS,1975,14770000
+Czechoslovakia,OWID_CZS,1976,14880000
+Czechoslovakia,OWID_CZS,1977,14990000
+Czechoslovakia,OWID_CZS,1978,15090000
+Czechoslovakia,OWID_CZS,1979,15180000
+Czechoslovakia,OWID_CZS,1980,15250000
+Czechoslovakia,OWID_CZS,1981,15310000
+Czechoslovakia,OWID_CZS,1982,15350000
+Czechoslovakia,OWID_CZS,1983,15390000
+Czechoslovakia,OWID_CZS,1984,15420000
+Czechoslovakia,OWID_CZS,1985,15450000
+Czechoslovakia,OWID_CZS,1986,15480000
+Czechoslovakia,OWID_CZS,1987,15510000
+Czechoslovakia,OWID_CZS,1988,15540000
+Czechoslovakia,OWID_CZS,1989,15560000
+Czechoslovakia,OWID_CZS,1990,15570000
+Czechoslovakia,OWID_CZS,1991,15590000
+Czechoslovakia,OWID_CZS,1992,15620000
+Czechoslovakia,OWID_CZS,1993,15650000
+Democratic Republic of Congo,COD,-10000,21905
+Democratic Republic of Congo,COD,-9000,28072
+Democratic Republic of Congo,COD,-8000,36011
+Democratic Republic of Congo,COD,-7000,46241
+Democratic Republic of Congo,COD,-6000,59438
+Democratic Republic of Congo,COD,-5000,76479
+Democratic Republic of Congo,COD,-4000,98508
+Democratic Republic of Congo,COD,-3000,127015
+Democratic Republic of Congo,COD,-2000,163941
+Democratic Republic of Congo,COD,-1000,211822
+Democratic Republic of Congo,COD,0,273973
+Democratic Republic of Congo,COD,100,356995
+Democratic Republic of Congo,COD,200,465792
+Democratic Republic of Congo,COD,300,608513
+Democratic Republic of Congo,COD,400,795925
+Democratic Republic of Congo,COD,500,1042253
+Democratic Republic of Congo,COD,600,1366309
+Democratic Republic of Congo,COD,700,1792977
+Democratic Republic of Congo,COD,800,2355200
+Democratic Republic of Congo,COD,900,2649600
+Democratic Republic of Congo,COD,1000,2944000
+Democratic Republic of Congo,COD,1100,3434666
+Democratic Republic of Congo,COD,1200,3925333
+Democratic Republic of Congo,COD,1300,4416000
+Democratic Republic of Congo,COD,1400,5152000
+Democratic Republic of Congo,COD,1500,5888000
+Democratic Republic of Congo,COD,1600,6256000
+Democratic Republic of Congo,COD,1700,6624000
+Democratic Republic of Congo,COD,1710,6676308
+Democratic Republic of Congo,COD,1720,6719381
+Democratic Republic of Congo,COD,1730,6764630
+Democratic Republic of Congo,COD,1740,6812268
+Democratic Republic of Congo,COD,1750,6862543
+Democratic Republic of Congo,COD,1760,6915741
+Democratic Republic of Congo,COD,1770,6972196
+Democratic Republic of Congo,COD,1780,7032301
+Democratic Republic of Congo,COD,1790,7096523
+Democratic Republic of Congo,COD,1800,5163819
+Democratic Republic of Congo,COD,1801,5163819
+Democratic Republic of Congo,COD,1802,5163819
+Democratic Republic of Congo,COD,1803,5163819
+Democratic Republic of Congo,COD,1804,5163819
+Democratic Republic of Congo,COD,1805,5163819
+Democratic Republic of Congo,COD,1806,5163819
+Democratic Republic of Congo,COD,1807,5163819
+Democratic Republic of Congo,COD,1808,5163819
+Democratic Republic of Congo,COD,1809,5163819
+Democratic Republic of Congo,COD,1810,5163819
+Democratic Republic of Congo,COD,1811,5163819
+Democratic Republic of Congo,COD,1812,5163819
+Democratic Republic of Congo,COD,1813,5163819
+Democratic Republic of Congo,COD,1814,5163819
+Democratic Republic of Congo,COD,1815,5163819
+Democratic Republic of Congo,COD,1816,5163819
+Democratic Republic of Congo,COD,1817,5163819
+Democratic Republic of Congo,COD,1818,5163819
+Democratic Republic of Congo,COD,1819,5179959
+Democratic Republic of Congo,COD,1820,5212490
+Democratic Republic of Congo,COD,1821,5261670
+Democratic Republic of Congo,COD,1822,5327758
+Democratic Republic of Congo,COD,1823,5411019
+Democratic Republic of Congo,COD,1824,5495580
+Democratic Republic of Congo,COD,1825,5581464
+Democratic Republic of Congo,COD,1826,5668689
+Democratic Republic of Congo,COD,1827,5757277
+Democratic Republic of Congo,COD,1828,5847250
+Democratic Republic of Congo,COD,1829,5938629
+Democratic Republic of Congo,COD,1830,6031436
+Democratic Republic of Congo,COD,1831,6125694
+Democratic Republic of Congo,COD,1832,6221424
+Democratic Republic of Congo,COD,1833,6318651
+Democratic Republic of Congo,COD,1834,6417396
+Democratic Republic of Congo,COD,1835,6517686
+Democratic Republic of Congo,COD,1836,6619542
+Democratic Republic of Congo,COD,1837,6722990
+Democratic Republic of Congo,COD,1838,6828055
+Democratic Republic of Congo,COD,1839,6934761
+Democratic Republic of Congo,COD,1840,7043136
+Democratic Republic of Congo,COD,1841,7153204
+Democratic Republic of Congo,COD,1842,7264992
+Democratic Republic of Congo,COD,1843,7378527
+Democratic Republic of Congo,COD,1844,7493836
+Democratic Republic of Congo,COD,1845,7610947
+Democratic Republic of Congo,COD,1846,7729889
+Democratic Republic of Congo,COD,1847,7850689
+Democratic Republic of Congo,COD,1848,7973377
+Democratic Republic of Congo,COD,1849,8073221
+Democratic Republic of Congo,COD,1850,8149850
+Democratic Republic of Congo,COD,1851,8203394
+Democratic Republic of Congo,COD,1852,8232967
+Democratic Republic of Congo,COD,1853,8238175
+Democratic Republic of Congo,COD,1854,8243387
+Democratic Republic of Congo,COD,1855,8248602
+Democratic Republic of Congo,COD,1856,8253820
+Democratic Republic of Congo,COD,1857,8259041
+Democratic Republic of Congo,COD,1858,8264265
+Democratic Republic of Congo,COD,1859,8279072
+Democratic Republic of Congo,COD,1860,8303530
+Democratic Republic of Congo,COD,1861,8337707
+Democratic Republic of Congo,COD,1862,8381672
+Democratic Republic of Congo,COD,1863,8435495
+Democratic Republic of Congo,COD,1864,8489664
+Democratic Republic of Congo,COD,1865,8544180
+Democratic Republic of Congo,COD,1866,8599047
+Democratic Republic of Congo,COD,1867,8654266
+Democratic Republic of Congo,COD,1868,8709839
+Democratic Republic of Congo,COD,1869,8768035
+Democratic Republic of Congo,COD,1870,8828887
+Democratic Republic of Congo,COD,1871,8892430
+Democratic Republic of Congo,COD,1872,8958700
+Democratic Republic of Congo,COD,1873,9027732
+Democratic Republic of Congo,COD,1874,9097296
+Democratic Republic of Congo,COD,1875,9167396
+Democratic Republic of Congo,COD,1876,9238036
+Democratic Republic of Congo,COD,1877,9309221
+Democratic Republic of Congo,COD,1878,9380954
+Democratic Republic of Congo,COD,1879,9447355
+Democratic Republic of Congo,COD,1880,9508357
+Democratic Republic of Congo,COD,1881,9563890
+Democratic Republic of Congo,COD,1882,9613884
+Democratic Republic of Congo,COD,1883,9658268
+Democratic Republic of Congo,COD,1884,9702857
+Democratic Republic of Congo,COD,1885,9747652
+Democratic Republic of Congo,COD,1886,9792654
+Democratic Republic of Congo,COD,1887,9837863
+Democratic Republic of Congo,COD,1888,9883281
+Democratic Republic of Congo,COD,1889,9909558
+Democratic Republic of Congo,COD,1890,9916704
+Democratic Republic of Congo,COD,1891,9904725
+Democratic Republic of Congo,COD,1892,9873631
+Democratic Republic of Congo,COD,1893,9823429
+Democratic Republic of Congo,COD,1894,9773482
+Democratic Republic of Congo,COD,1895,9723789
+Democratic Republic of Congo,COD,1896,9674349
+Democratic Republic of Congo,COD,1897,9625160
+Democratic Republic of Congo,COD,1898,9576221
+Democratic Republic of Congo,COD,1899,9518329
+Democratic Republic of Congo,COD,1900,9451620
+Democratic Republic of Congo,COD,1901,9376230
+Democratic Republic of Congo,COD,1902,9292290
+Democratic Republic of Congo,COD,1903,9199934
+Democratic Republic of Congo,COD,1904,9108496
+Democratic Republic of Congo,COD,1905,9017966
+Democratic Republic of Congo,COD,1906,8928336
+Democratic Republic of Congo,COD,1907,8839597

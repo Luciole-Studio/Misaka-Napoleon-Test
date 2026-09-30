@@ -1,0 +1,16 @@
+{
+  "doc_id": "b2b87393a7cd",
+  "title": "[t_ec2248] nodes/r_5b1357a9c6/cards/t_ec2248/P5_components.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_ec2248/P5_components.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_ec2248/P5_components.csv"
+  ],
+  "sha256": "b2b87393a7cdbf2cbe9c7ce11f834ebf8cc60076f65483a57f9e513948ce6433",
+  "pages": 1,
+  "task_id": "t_ec2248",
+  "task_ids": [
+    "t_ec2248"
+  ],
+  "added_at": 1790179210,
+  "office_format": "csv"
+}

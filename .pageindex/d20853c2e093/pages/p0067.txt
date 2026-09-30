@@ -1,0 +1,313 @@
+## Sheet: Full data (continued)
+	A	B	C	D	E
+21166	YUG	Former Yugoslavia	1870	878	8,252
+21167	YUG	Former Yugoslavia	1890	1,237	9,690
+21168	YUG	Former Yugoslavia	1900	1,323	11,174
+21169	YUG	Former Yugoslavia	1910	1,551	13,052
+21170	YUG	Former Yugoslavia	1913	1,551	13,590
+21171	YUG	Former Yugoslavia	1920	1,513	12,422
+21172	YUG	Former Yugoslavia	1921	1,529	12,607
+21173	YUG	Former Yugoslavia	1922	1,551	12,796
+21174	YUG	Former Yugoslavia	1923	1,608	12,987
+21175	YUG	Former Yugoslavia	1924	1,699	13,180
+21176	YUG	Former Yugoslavia	1925	1,758	13,378
+21177	YUG	Former Yugoslavia	1926	1,854	13,578
+21178	YUG	Former Yugoslavia	1927	1,798	13,780
+21179	YUG	Former Yugoslavia	1928	1,929	13,986
+21180	YUG	Former Yugoslavia	1929	2,002	14,194
+21181	YUG	Former Yugoslavia	1930	1,935	14,407
+21182	YUG	Former Yugoslavia	1931	1,851	14,618
+21183	YUG	Former Yugoslavia	1932	1,655	14,819
+21184	YUG	Former Yugoslavia	1933	1,683	15,022
+21185	YUG	Former Yugoslavia	1934	1,722	15,228
+21186	YUG	Former Yugoslavia	1935	1,672	15,439
+21187	YUG	Former Yugoslavia	1936	1,863	15,651
+21188	YUG	Former Yugoslavia	1937	1,868	15,860
+21189	YUG	Former Yugoslavia	1938	1,991	16,084
+21190	YUG	Former Yugoslavia	1939	2,072	16,305
+21191	YUG	Former Yugoslavia	1940		16,300
+21192	YUG	Former Yugoslavia	1947	1,930	15,596
+21193	YUG	Former Yugoslavia	1948	2,273	15,817
+21194	YUG	Former Yugoslavia	1949	2,463	16,040
+21195	YUG	Former Yugoslavia	1950	2,276	16,298
+21196	YUG	Former Yugoslavia	1951	2,335	16,519
+21197	YUG	Former Yugoslavia	1952	2,125	16,708
+21198	YUG	Former Yugoslavia	1953	2,289	16,937
+21199	YUG	Former Yugoslavia	1954	2,335	17,151
+21200	YUG	Former Yugoslavia	1955	2,721	17,364
+21201	YUG	Former Yugoslavia	1956	2,560	17,508
+21202	YUG	Former Yugoslavia	1957	3,045	17,659
+21203	YUG	Former Yugoslavia	1958	3,084	17,796
+21204	YUG	Former Yugoslavia	1959	3,547	17,968
+21205	YUG	Former Yugoslavia	1960	3,778	18,133
+21206	YUG	Former Yugoslavia	1961	3,950	18,318
+21207	YUG	Former Yugoslavia	1962	4,041	18,500
+21208	YUG	Former Yugoslavia	1963	4,481	18,685
+21209	YUG	Former Yugoslavia	1964	4,941	18,852
+21210	YUG	Former Yugoslavia	1965	4,981	19,038
+21211	YUG	Former Yugoslavia	1966	5,311	19,221
+21212	YUG	Former Yugoslavia	1967	5,378	19,390
+21213	YUG	Former Yugoslavia	1968	5,523	19,552
+21214	YUG	Former Yugoslavia	1969	6,001	19,705
+21215	YUG	Former Yugoslavia	1970	6,288	19,840
+21216	YUG	Former Yugoslavia	1971	6,730	20,015
+21217	YUG	Former Yugoslavia	1972	6,948	20,197
+21218	YUG	Former Yugoslavia	1973	7,226	20,367
+21219	YUG	Former Yugoslavia	1974	7,767	20,550
+21220	YUG	Former Yugoslavia	1975	7,976	20,732
+21221	YUG	Former Yugoslavia	1976	8,207	20,930
+21222	YUG	Former Yugoslavia	1977	8,780	21,126
+21223	YUG	Former Yugoslavia	1978	9,283	21,309
+21224	YUG	Former Yugoslavia	1979	9,873	21,490
+21225	YUG	Former Yugoslavia	1980	10,037	21,615
+21226	YUG	Former Yugoslavia	1981	10,106	21,707
+21227	YUG	Former Yugoslavia	1982	10,080	21,885
+21228	YUG	Former Yugoslavia	1983	9,907	22,018
+21229	YUG	Former Yugoslavia	1984	10,029	22,087
+21230	YUG	Former Yugoslavia	1985	10,009	22,216
+21231	YUG	Former Yugoslavia	1986	10,299	22,339
+21232	YUG	Former Yugoslavia	1987	10,119	22,435
+21233	YUG	Former Yugoslavia	1988	9,884	22,536
+21234	YUG	Former Yugoslavia	1989	9,887	22,634
+21235	YUG	Former Yugoslavia	1990	9,000	23,016
+21236	YUG	Former Yugoslavia	1991	7,868	23,097
+21237	YUG	Former Yugoslavia	1992	6,507	22,905
+21238	YUG	Former Yugoslavia	1993	5,553	22,666
+21239	YUG	Former Yugoslavia	1994	5,852	22,583
+21240	YUG	Former Yugoslavia	1995	6,286	22,554
+21241	YUG	Former Yugoslavia	1996	6,938	22,502
+21242	YUG	Former Yugoslavia	1997	7,698	22,521
+21243	YUG	Former Yugoslavia	1998	8,153	22,586
+21244	YUG	Former Yugoslavia	1999	8,036	22,541
+21245	YUG	Former Yugoslavia	2000	8,473	22,507
+21246	YUG	Former Yugoslavia	2001	8,828	22,580
+21247	YUG	Former Yugoslavia	2002	9,266	22,689
+21248	YUG	Former Yugoslavia	2003	9,686	22,784
+21249	YUG	Former Yugoslavia	2004	10,317	22,881
+21250	YUG	Former Yugoslavia	2005	10,882	22,951
+21251	YUG	Former Yugoslavia	2006	11,599	23,000
+21252	YUG	Former Yugoslavia	2007	12,462	23,028
+21253	YUG	Former Yugoslavia	2008	13,125	23,038
+21254	YUG	Former Yugoslavia	2009	14,028	22,209
+21255	YUG	Former Yugoslavia	2010	14,251	22,165
+21256	YUG	Former Yugoslavia	2011	14,540	22,113
+21257	YUG	Former Yugoslavia	2012	14,331	22,060
+21258	YUG	Former Yugoslavia	2013	14,500	22,005
+21259	YUG	Former Yugoslavia	2014	14,627	21,946
+21260	YUG	Former Yugoslavia	2015	14,971	21,882
+21261	YUG	Former Yugoslavia	2016	15,416	21,817
+21262	YUG	Former Yugoslavia	2017	15,961	21,482
+21263	YUG	Former Yugoslavia	2018	16,558	21,424
+21264	ZAF	South Africa	1		100
+21265	ZAF	South Africa	1000		300
+21266	ZAF	South Africa	1500		600
+21267	ZAF	South Africa	1600		700
+21268	ZAF	South Africa	1700	2,715	1,000
+21269	ZAF	South Africa	1701	2,715	
+21270	ZAF	South Africa	1702	2,710	
+21271	ZAF	South Africa	1703	2,581	
+21272	ZAF	South Africa	1704	2,332	
+21273	ZAF	South Africa	1705	2,249	
+21274	ZAF	South Africa	1706	2,844	
+21275	ZAF	South Africa	1707	3,145	
+21276	ZAF	South Africa	1708	3,366	
+21277	ZAF	South Africa	1709	3,060	
+21278	ZAF	South Africa	1710	2,920	
+21279	ZAF	South Africa	1711	2,149	
+21280	ZAF	South Africa	1712	1,835	
+21281	ZAF	South Africa	1713	2,061	
+21282	ZAF	South Africa	1714	2,314	
+21283	ZAF	South Africa	1715	2,284	
+21284	ZAF	South Africa	1716	2,334	
+21285	ZAF	South Africa	1717	2,426	
+21286	ZAF	South Africa	1718	2,789	
+21287	ZAF	South Africa	1719	2,222	
+21288	ZAF	South Africa	1720	2,600	
+21289	ZAF	South Africa	1721	2,609	
+21290	ZAF	South Africa	1722	2,673	
+21291	ZAF	South Africa	1723	2,829	
+21292	ZAF	South Africa	1724	2,813	
+21293	ZAF	South Africa	1725	2,308	
+21294	ZAF	South Africa	1726	2,126	
+21295	ZAF	South Africa	1727	2,219	
+21296	ZAF	South Africa	1728	2,184	
+21297	ZAF	South Africa	1729	2,351	
+21298	ZAF	South Africa	1730	2,308	
+21299	ZAF	South Africa	1731	2,461	
+21300	ZAF	South Africa	1732	2,377	
+21301	ZAF	South Africa	1733	2,187	
+21302	ZAF	South Africa	1734	1,973	
+21303	ZAF	South Africa	1735	1,980	
+21304	ZAF	South Africa	1736	1,833	
+21305	ZAF	South Africa	1737	1,989	
+21306	ZAF	South Africa	1738	2,047	
+21307	ZAF	South Africa	1739	1,934	
+21308	ZAF	South Africa	1740	2,023	
+21309	ZAF	South Africa	1741	2,236	
+21310	ZAF	South Africa	1742	2,211	
+21311	ZAF	South Africa	1743	2,445	
+21312	ZAF	South Africa	1744	2,342	
+21313	ZAF	South Africa	1745	2,434	
+21314	ZAF	South Africa	1746	2,447	
+21315	ZAF	South Africa	1747	2,632	
+21316	ZAF	South Africa	1748	2,373	
+21317	ZAF	South Africa	1749	2,402	
+21318	ZAF	South Africa	1750	2,697	
+21319	ZAF	South Africa	1751	2,644	
+21320	ZAF	South Africa	1752	2,625	
+21321	ZAF	South Africa	1753	2,560	
+21322	ZAF	South Africa	1754	2,342	
+21323	ZAF	South Africa	1755	2,455	
+21324	ZAF	South Africa	1756	2,495	
+21325	ZAF	South Africa	1757	2,165	
+21326	ZAF	South Africa	1758	2,130	
+21327	ZAF	South Africa	1759	2,040	
+21328	ZAF	South Africa	1760	2,005	
+21329	ZAF	South Africa	1761	2,071	
+21330	ZAF	South Africa	1762	1,852	
+21331	ZAF	South Africa	1763	2,160	
+21332	ZAF	South Africa	1764	2,185	
+21333	ZAF	South Africa	1765	2,225	
+21334	ZAF	South Africa	1766	2,216	
+21335	ZAF	South Africa	1767	2,177	
+21336	ZAF	South Africa	1768	2,225	
+21337	ZAF	South Africa	1769	2,246	
+21338	ZAF	South Africa	1770	2,294	
+21339	ZAF	South Africa	1771	2,283	
+21340	ZAF	South Africa	1772	2,128	
+21341	ZAF	South Africa	1773	2,562	
+21342	ZAF	South Africa	1774	2,533	
+21343	ZAF	South Africa	1775	2,429	
+21344	ZAF	South Africa	1776	2,208	
+21345	ZAF	South Africa	1777	1,824	
+21346	ZAF	South Africa	1778	1,669	
+21347	ZAF	South Africa	1779	1,626	
+21348	ZAF	South Africa	1780	1,655	
+21349	ZAF	South Africa	1781	1,248	
+21350	ZAF	South Africa	1782	1,487	
+21351	ZAF	South Africa	1783	1,573	
+21352	ZAF	South Africa	1784	1,808	
+21353	ZAF	South Africa	1785	1,943	
+21354	ZAF	South Africa	1786	1,524	
+21355	ZAF	South Africa	1787	2,122	
+21356	ZAF	South Africa	1788	1,972	
+21357	ZAF	South Africa	1789	1,666	
+21358	ZAF	South Africa	1790	1,612	
+21359	ZAF	South Africa	1791	1,627	
+21360	ZAF	South Africa	1792	1,387	
+21361	ZAF	South Africa	1793	1,529	
+21362	ZAF	South Africa	1800	1,529	
+21363	ZAF	South Africa	1804	1,462	
+21364	ZAF	South Africa	1805	1,385	
+21365	ZAF	South Africa	1806	1,385	
+21366	ZAF	South Africa	1807	1,502	
+21367	ZAF	South Africa	1808	1,315	
+21368	ZAF	South Africa	1809	1,285	
+21369	ZAF	South Africa	1810	1,420	
+21370	ZAF	South Africa	1811	1,127	
+21371	ZAF	South Africa	1812	1,141	
+21372	ZAF	South Africa	1813	1,438	
+21373	ZAF	South Africa	1814	1,455	
+21374	ZAF	South Africa	1815	1,210	
+21375	ZAF	South Africa	1816	1,261	
+21376	ZAF	South Africa	1817	1,310	
+21377	ZAF	South Africa	1818	1,390	
+21378	ZAF	South Africa	1819	1,202	
+21379	ZAF	South Africa	1820	1,188	1,550
+21380	ZAF	South Africa	1821	1,403	
+21381	ZAF	South Africa	1822	1,309	
+21382	ZAF	South Africa	1826	1,353	
+21383	ZAF	South Africa	1829	1,372	
+21384	ZAF	South Africa	1831	1,243	
+21385	ZAF	South Africa	1840	1,173	
+21386	ZAF	South Africa	1843	1,092	
+21387	ZAF	South Africa	1847	937	
+21388	ZAF	South Africa	1850	1,042	
+21389	ZAF	South Africa	1851	1,234	
+21390	ZAF	South Africa	1852	1,294	
+21391	ZAF	South Africa	1853	1,390	
+21392	ZAF	South Africa	1854	1,352	
+21393	ZAF	South Africa	1855	1,451	
+21394	ZAF	South Africa	1856	1,168	
+21395	ZAF	South Africa	1857	1,384	
+21396	ZAF	South Africa	1858	1,210	
+21397	ZAF	South Africa	1859	1,250	
+21398	ZAF	South Africa	1860	1,294	
+21399	ZAF	South Africa	1861	1,218	
+21400	ZAF	South Africa	1862	897	
+21401	ZAF	South Africa	1863	960	
+21402	ZAF	South Africa	1864	1,339	
+21403	ZAF	South Africa	1865	985	
+21404	ZAF	South Africa	1866	1,025	
+21405	ZAF	South Africa	1867	1,213	
+21406	ZAF	South Africa	1868	1,226	
+21407	ZAF	South Africa	1869	1,211	
+21408	ZAF	South Africa	1870	1,286	2,547
+21409	ZAF	South Africa	1871	1,290	
+21410	ZAF	South Africa	1872	1,902	
+21411	ZAF	South Africa	1873	1,639	
+21412	ZAF	South Africa	1874	1,562	
+21413	ZAF	South Africa	1875	1,741	
+21414	ZAF	South Africa	1876	1,946	
+21415	ZAF	South Africa	1877	1,835	
+21416	ZAF	South Africa	1878	1,790	
+21417	ZAF	South Africa	1879	1,985	
+21418	ZAF	South Africa	1880	2,294	
+21419	ZAF	South Africa	1881	2,168	
+21420	ZAF	South Africa	1882	2,053	
+21421	ZAF	South Africa	1883	1,578	
+21422	ZAF	South Africa	1884	1,430	
+21423	ZAF	South Africa	1885	1,208	
+21424	ZAF	South Africa	1886	1,427	
+21425	ZAF	South Africa	1887	1,627	
+21426	ZAF	South Africa	1888	1,836	
+21427	ZAF	South Africa	1889	1,817	
+21428	ZAF	South Africa	1890	1,830	
+21429	ZAF	South Africa	1891	1,906	
+21430	ZAF	South Africa	1892	1,860	
+21431	ZAF	South Africa	1893	1,843	
+21432	ZAF	South Africa	1894	1,790	
+21433	ZAF	South Africa	1895	2,061	
+21434	ZAF	South Africa	1896	2,153	
+21435	ZAF	South Africa	1897	2,015	
+21436	ZAF	South Africa	1898	2,418	
+21437	ZAF	South Africa	1899	2,123	
+21438	ZAF	South Africa	1900	1,494	
+21439	ZAF	South Africa	1901	1,608	
+21440	ZAF	South Africa	1902	1,919	
+21441	ZAF	South Africa	1903	2,571	
+21442	ZAF	South Africa	1904	2,571	
+21443	ZAF	South Africa	1905	2,745	
+21444	ZAF	South Africa	1906	2,963	
+21445	ZAF	South Africa	1907	2,907	
+21446	ZAF	South Africa	1908	2,283	
+21447	ZAF	South Africa	1909	2,391	
+21448	ZAF	South Africa	1910	1,835	
+21449	ZAF	South Africa	1913		6,153
+21450	ZAF	South Africa	1918	1,854	
+21451	ZAF	South Africa	1924	2,037	
+21452	ZAF	South Africa	1925	2,171	
+21453	ZAF	South Africa	1926	2,228	
+21454	ZAF	South Africa	1927	2,271	
+21455	ZAF	South Africa	1928	2,444	
+21456	ZAF	South Africa	1929	2,386	
+21457	ZAF	South Africa	1930	2,252	
+21458	ZAF	South Africa	1931	2,128	
+21459	ZAF	South Africa	1932	2,047	
+21460	ZAF	South Africa	1933	2,268	
+21461	ZAF	South Africa	1934	2,514	
+21462	ZAF	South Africa	1935	2,785	
+21463	ZAF	South Africa	1936	3,048	
+21464	ZAF	South Africa	1937	3,249	
+21465	ZAF	South Africa	1938	3,118	
+21466	ZAF	South Africa	1939	3,272	
+21467	ZAF	South Africa	1940	3,419	
+21468	ZAF	South Africa	1941	3,510	
+21469	ZAF	South Africa	1942	3,548	
+21470	ZAF	South Africa	1943	3,558	
+21471	ZAF	South Africa	1944	3,610	
+21472	ZAF	South Africa	1945	3,631	
+21473	ZAF	South Africa	1946	3,684	
+21474	ZAF	South Africa	1947	3,647	
+21475	ZAF	South Africa	1948	3,848	
+21476	ZAF	South Africa	1949	3,819	

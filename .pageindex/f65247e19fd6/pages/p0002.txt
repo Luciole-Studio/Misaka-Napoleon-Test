@@ -1,0 +1,52 @@
+
+
+COUNTERFACTUAL THOUGHT EXPERIMENTS, 3
+
+cessors who rely on low-effort strategies to simplify an otherwise intolerably
+complex world (Kahneman, Slovic, and Tversky 1982). The price of cogni-
+tive economy is, however, steep: increased susceptibility to systematic bi-
+ases and errors. We itemize several ways in which reliance on simplifying
+strategies might distort the conclusions we draw from counterfactual thought
+experiments.
+
+(1) What gets mutated? This is the ground floor for the entry of psycho-
+logical bias into thought experiments. As Kahneman and Miller (1986) ar-
+gue in their influential norm theory, the human perceptual apparatus is at-
+tuned to notice change. The more abrupt or discontinuous the change, the
+more likely people are to notice it, to try to explain it, and to generate
+counterfactual scenarios in which they “mutate” the departure from nor-
+mality to the more customary and expected default value (Commentary 2,
+Olson, Roese, and Deibert). For example, experimental subjects generate
+
+re “if only” thoughts and experience more regret upon learning that the
+victim of a traffic accident had departed from her regular route to the office
+than they do upon learning that the accident victim had adhered to her regu-
+lar route. It is easier to “mentally undo” accidents or indeed other events that
+constitute deviations from the routine.
+
+‘Translating this well-replicated finding from the experimental literature
+into the realm of world politics is no simple exercise. This volume, how-
+ever, contains much evidence that departures from normality or the status
+quo do indeed attract especially vigorous counterfactual speculation. These
+departures can take diverse forms, including leadership transitions (Chapter
+3, Breslauer; Chapter 6, Herrmann and Fischerkeller), revolutions (Chapter
+8, Kiser and Levi), assassinations (Chapter 3, Breslauer), and unusually
+intense policy debates in which the argument might easily have gone either
+way (Chapter 4, Khong; Chapter 5, Lebow and Stein). Routine events fade
+into the perceptual background and are rarely selected for mental manipula-
+tion in thought experiments. Of course, not all social scientists conform to
+the predictions of norm theory. Nomothetic investigators often invoke back-
+ground conditions that change almost imperceptibly slowly (such as the size
+of the middle class in early twentieth-century Russia or the “polarity” of the
+pre-World War I balance of power). And chaos and complexity theorists
+specialize in demonstrating the sensitive dependence of major outcomes on.
+minor background conditions, such as the flapping of butterfly wings. Norm
+theory fits idiographic better than nomothetic “counterfactualizing.”
+
+(2) Once constructed, which counterfactual scenarios are judged plaus-
+ible? The simplifying strategies that people use to impose cognitive order
+carry a price tag. These strategies can tilt the playing field (arguably un-
+fairly) in favor of certain counterfactuals over others. Consider the much
+discussed trilogy of judgmental heuristics: anchoring, availability, and repre-
+sentativeness (Tversky and Kahneman 1974). The anchoring heuristic could
+lead people to be too quick to dismiss scenarios about hypothetical worlds

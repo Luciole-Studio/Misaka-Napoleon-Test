@@ -1,0 +1,45 @@
+                               Table 25: Ideology and draft-dodging
+
+Note: This table displays the same regressions as in Table 1 while adding the variable ‘Oath’ which
+is an indirect measure of adherence toward the ideals of the French Revolution. We report robust
+standard errors in parenthesis and Conley standard errors (100km) in brackets.
+
+      Draft-dodging rate         (1)         (2)            (3)            (4)            (5)            (6)
+      Oath                    -0.04946    -0.06676       -0.08172       -0.04575       -0.03968       -0.04005
+                            (0.02477)** (0.03523)*     (0.03648)**     (0.03796)      (0.04089)      (0.04139)
+                             [0.05408]   [0.06073]      [0.06266]      [0.06186]      [0.05975]      [0.06125]
+      Log of ruggedness       5.72230     3.60389        5.15235         4.50707        6.03752        6.07977
+                           (0.81967)*** (1.53899)**   (1.71541)***   (1.72766)***   (1.78861)***   (1.95091)***
+                           [1.87014]***  [2.60072]     [2.59116]**    [2.24946]**    [2.40408]**    [2.71476]**
+      Same Controls
+      as in Table 1             X            X             X             X               X              X
+      Observations             405          405           405           345             276            276
+      R-squared              0.18115      0.69269       0.69884       0.76145         0.79672        0.79673
+                                          *** p<0.01, ** p<0.05, * p<0.1
+
+
+
+
+                                Table 26: Ideology and conscription
+
+Note: This table displays the same regressions as in Table 3 while adding the variable ‘Oath’ which
+is an indirect measure of adherence toward the ideals of the French Revolution. We report robust
+standard errors in parenthesis and Conley standard errors (100km) in brackets.
+
+           Conscription rate      (1)            (2)           (3)                (4)          (5)
+           Oath                -0.00039        0.00378       0.00325           0.00889      0.00974
+                              (0.00831)      (0.01024)     (0.01048)          (0.01188)    (0.01227)
+                              [0.01678]      [0.01319]     [0.01343]          [0.01345]    [0.01336]
+           Log of ruggedness   -0.43310       -2.11900      -1.45693           -2.72240     -2.80431
+                             (0.18515)** (0.41647)*** (0.44037)***          (0.49320)*** (0.54549)***
+                              [0.34458]    [0.59431]*** [0.57358]**         [0.47537]*** [0.52120]***
+           Same Controls
+           as in Table 3           X              X             X                  X               X
+           Observations           405            405           405                345             345
+           R-squared           0.12216         0.70200       0.71259            0.74817         0.74827
+                                *** p<0.01, ** p<0.05, * p<0.1
+
+
+
+
+                                                       46

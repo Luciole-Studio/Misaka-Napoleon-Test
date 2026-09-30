@@ -1,0 +1,29 @@
+
+
+【机制】**走私是“最低成本的大众抵抗”**：Ellis称它“might even be regarded as **the most common form of popular resistance** to the rigours of Napoleon's customs severities, and beyond the frontiers it was often a function of local opposition to French rule as such”（印p.201）。Rowe给出了它与征兵、土医的**关键差别**：走私在莱茵兰人眼里是“victimless crime”，而土医有本地受害者、逃役使同乡青年被补征，故只有走私能获得**无异议的全社会支持**（印p.192）。
+
+【推演·中高】对本项目“哪里能并、哪里必反”（Q1）的接口：**封锁执行产生的抵抗与征兵产生的抵抗是不同物种**。征兵抵抗产生逃兵、土医、局部暴动，可用武力镇压；封锁抵抗产生**全社会参与的、有组织的、不流血的不服从**，武力对它无效。前者威胁政权存续，后者只威胁政策效果——但后者的累积效果是**把地方精英与政权的利益绑定彻底切断**：1813年莱茵精英因恐惧骚乱而自掘腰包救济失业工人，**却拒不配合“Guards of Honour”的征集**（Rowe 印p.199）。
+
+---
+
+## §10（⑨）思潮、舆论与民族意识
+
+【锚点】**马克思的命题及其反例**。Rowe以《德意志意识形态》一段开篇：“the lack of these products [sugar and coffee], occasioned by the Napoleonic Continental System, caused the Germans to rise against Napoleon, and thus became the real basis of the glorious Wars of Liberation of 1813.” 然后用实证反驳：科布伦ŭ的 Görres 在《Rheinischer Merkur》上谴责法国统治的理由是**征兵、重税、征发与法国官员的傲慢**，大陆体系“hardly figures in its pages”（Rowe 印p.187）。
+【推演·中】但Rowe自己也承认贝格1813年1月起义“contributed directly”于经济困苦（印p.199）。**本卡裁定**：大陆体系不是民族觉醒的发动机，而是**合法性的慢性消耗剂**：它不制造民族主义话语，却使每一个商人、市长、法官与背货妇女每天都在**实践上**反对帝国法律。当民族主义话语1813年从外部到达时，它接管的是一个已经**习惯了不服从**的社会。
+【锚点】体系内部的自由主义批评已在执政府期公开发表：Marc-Auguste Pictet 的七条——执行成本吞掉大部分收入；反欺诈措施反使欺诈增加；边境永久处于战争状态；执行者被暴露于腐败；窒息边境产业；苛法是雅各宾式紧急状态的倒退；强制进口替代把资本从法国有比较优势的农业转开，所生“faux”企业只能靠“artifice”维持（Rowe 印p.193）。→ **反事实推演不需要发明一套不存在的经济学：批评大陆体系的完整论证在1803年前已经印出来了。**
+
+---
+
+## §11（⑩）科技与生产力：代用品的三种命运
+
+| 项目 | 【锚点】实绩 | 判词 |
+|---|---|---|
+| **Leblanc 制碱** | 发明约1789；Leblanc 1806年死前数年已破产；与西班牙的苏打供应中断后，价格自 **每100公斤80–100法郎降至10法郎**（Heckscher 印p.288）| **真成功**：封锁移除了一项已存在技术的采用障碍；衍生出肥皂、盐酸、氯、染料与印花（“Adrianople red”与Koechlin 1810–11年的进展“far exceeded what had been achieved in England”）|
+| **菘蓝靖蓝** | 规定种植 **32,000公顷**、设三家帝国工厂、设奖；**1813年产出仅6,000公斤**，另意大利种植园500公斤印度靖蓝；1814年后仅一家工厂存活（印p.290）| **真失败**：“the whole episode vanished without leaving any traces behind” |
+| **甜菜糖** | 1747 Marggraf 发现、Achard 1809发表；命令先种 **32,000** 后 **100,000公顷**（后项“never carried out”）；1813年2月内政部向立法院宣布可期 **7,000,000 livres（近3,500,000公斤）、334家厂“almost all”开工**；**同年稍晚向皇帝的报告：实得仅 1,100,000公斤，334张许可证中实用158张**；复辟后一家未存，两年后新开两家（其一为Chaptal）；**二十年代末在高殖民糖关税下重新站稳**（印pp.293–294）| **延迟成功，且成功条件是关税而非封锁**：“the contribution of the Continental System on this point turned out to bear fruit after the lapse of a decade and a half” |
+| 葡萄糖 | 1810–11两年造出 **2,000,000公斤**并给补贴，但“black and did not crystallize ... repulsive and had an unpleasant odour”（印p.292）| 失败 |
+| 咖啡／烟草代用品 | 菊苣、车厘、橡实、向日葵子、甜菜；烟草用鹅莓叶、栗叶、蓍草；**丹麦一国就有17家咖啡代用品工厂**（印p.291）| 消费降级的度量衡 |
+| 意大利的官方试验 | 1810-09-12两道敕令：**150,000里拉**推广种棉、**50,000里拉**扶持葡萄制糖；“results remained limited”（Grab 2015 印p.106）| 失败 |
+
+【推演·中高】**三种命运的判别规则**：封锁成功地傅育一项技术，当且仅当（i）技术在封锁前已成熟但因价格差而未被采用，（ii）投入品在大陆内部可得（海盐可得、热带靖蓝不可得），（iii）战后有关税保护接手。制碱全中，靖蓝一项不中，甜菜糖中(i)(ii)缺(iii)故延迟十五年。
+【推演·中】**S5下的甜菜糖**：若帝国存续并维持高殖民糖关税（与复辟王朝同策），则甜菜糖产业的站稳时点不会早于1820年代末（因为制约它的不是禁令而是技术学习曲线与相对价格）；但**地理会不同**：史实中1814年后只有法国与普鲁士营建起产业，S5下会多出法属比利时、莱茵左岸、意大利北部三块（糖用与炼糖业集聚于已有化工与运输能力处）。置信度中；改判证据为1820年代比利时、莱兰糖厂数的实际分布。

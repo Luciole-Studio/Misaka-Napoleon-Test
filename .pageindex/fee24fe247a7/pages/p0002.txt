@@ -1,0 +1,10 @@
+
+
+## E. 上一轮已核证据的复用指针（不重复摘录，引用时注原卡路径）
+- **Nesselrode 1811年10月备忘录**（Vandal III附录III）：nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md E4（"您的计划中甚至没有出于纯防御目的发动进攻的想法"等六条）；c12_vandal3_full.txt行20965–21287。
+- **Clausewitz 1843英译**（downloads/pages/6635f608e21d.md）：pp.256–259德维纳-第聂伯停线批判：B1"事后提出"；B2"俄军初弱、战争进程中几乎必然翻倍"+"Encamp them? Impossible in winter"；B3波兰动员与占领军供养争夺同一资源；B4"20万人置于俄帝国腹地能否产生必要道德效果迫成和约，确实仍是一个问题"+p.259"比较所有因素后，波拿巴的计划是否不比另一方案含有更大的最终成功概率，是很值得怀疑的"——复用 limited_war_evidence.md B1–B4。
+- **Caulaincourt英节编**（downloads/pages/eed9ab647f9a.md）：pp.4–7 1811年6月5日谈话（"I have no intention of going into Russia"；Alexander："我不会first draw my sword，但我将是最后一个收剑入鞘的"；拿破仑："一场漂亮仗就能敲掉我朋友亚历山大的全部decision"）；p.75维捷布斯克停驻方案；pp.80–81斯摩棱斯克后和平试探——复用 limited_war_evidence.md A1–A5。
+- **Bogdanovich章II**（289211c6dcdf.md）：Oldenburg抗议、1810关税主权论证——复用 russian_evidence.md E5–E6。
+- **Åbo条约**（b1d3de43f219.md）：俄瑞1812-08-30补充协定，军事条款未实施——russian_evidence.md E10。
+- **布加勒斯特**（45dd82f748a7.md）：1812-05-28签约、普鲁特河界——russian_evidence.md E9。
+- **R2卡（t_29957a）**：Crosby 1965（大麻贸易与美国承运）、Davey 2009（英海军波罗的海给养）全文在downloads/；纸卢布汇率年均/年末已由R2整理——财政侧引R2笔记不重算。

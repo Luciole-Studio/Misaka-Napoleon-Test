@@ -1,0 +1,55 @@
+---
+source_url: "https://www.bankofengland.co.uk/statistics/research-datasets"
+final_url: "https://www.bankofengland.co.uk/statistics/research-datasets"
+sha256: "ad11428e1cd3072f00ffb15a503856cae39f922fcd71c6d720ccabc296107aaa"
+text_sha256: "01334087f21a65bbcb47864cbfa14ac316dd08ccab661ffc9f78c0d0ccc8f3da"
+title: "Research datasets | Bank of England \u2013 the UK's central bank"
+---
+
+Title: Research datasets | Bank of England – the UK's central bank
+
+## Our use of cookies
+
+We use necessary cookies to make our site work. We’d also like to use some non-essential cookies (including third-party cookies) to help us improve the site. By clicking ‘Accept recommended settings’ on this banner, you accept our use of analytics cookies. For more information on how these cookies work please see our [Cookie policy](https://www.bankofengland.co.uk/legal/privacy-and-cookie-policy).
+
+Accept recommended cookies Proceed with necessary cookies only
+
+Skip to main content
+
+Main menu Close main menu
+
+-
+Topics
+
+Open Topics sub menu
+
+- Back to main menu
+- [Banknotes](https://www.bankofengland.co.uk/banknotes) Open Banknotes sub menu
+
+- Back to main menu
+- [Counterfeit banknotes](https://www.bankofengland.co.uk/banknotes/counterfeit-banknotes)
+- [Current banknotes](https://www.bankofengland.co.uk/banknotes/current-banknotes)
+- [Damaged and contaminated banknotes](https://www.bankofengland.co.uk/banknotes/damaged-and-contaminated-banknotes)
+- [Exchanging old banknotes](https://www.bankofengland.co.uk/banknotes/exchanging-old-banknotes)
+- [Note Circulation Scheme](https://www.bankofengland.co.uk/banknotes/note-circulation-scheme)
+- [Advice for retailers and businesses](https://www.bankofengland.co.uk/banknotes/retailers-and-businesses)
+- [Scottish and Northern Ireland banknotes](https://www.bankofengland.co.uk/banknotes/scottish-and-northern-ireland-banknotes)
+- [Using images of banknotes](https://www.bankofengland.co.uk/banknotes/using-images-of-banknotes)
+- [Wholesale cash supervision](https://www.bankofengland.co.uk/banknotes/wholesale-cash-supervision)
+- [Withdrawn banknotes](https://www.bankofengland.co.uk/banknotes/withdrawn-banknotes)
+
+- [Careers](https://www.bankofengland.co.uk/careers) Open Careers sub menu
+
+- Back to main menu
+- [Application tips](https://www.bankofengland.co.uk/careers/application-tips)
+- [Career Returner Programme](https://www.bankofengland.co.uk/careers/career-returner)
+- [Future talent](https://www.bankofengland.co.uk/careers/future-talent)
+- [Our locations](https://www.bankofengland.co.uk/careers/our-locations)
+- [Research careers](https://www.bankofengland.co.uk/careers/research-careers)
+- [We value diversity and inclusion](https://www.bankofengland.co.uk/careers/we-value-diversity-and-inclusion)
+- [What we offer you](https://www.bankofengland.co.uk/careers/what-we-offer-you)
+- [Why you should join us](https://www.bankofengland.co.uk/careers/why-you-should-join-us)
+
+- [Climate change](https://www.bankofengland.co.uk/climate-change)
+- [Digital pound](https://www.bankofengland.co.uk/the-digital-pound)
+- [Education](https://www.bankofengland.co.uk/education) Open Education sub menu

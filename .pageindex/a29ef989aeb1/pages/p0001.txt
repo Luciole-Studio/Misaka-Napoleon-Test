@@ -1,0 +1,34 @@
+---
+source_url: "https://www.artillerie.asso.fr/basart/article.php3?id_article=1972"
+final_url: "https://www.artillerie.asso.fr/basart/article.php3"
+sha256: "5e25bab4775454b2879eeb4e9dcc83af2f42d0553e50583532bc3f4bbc5d036d"
+text_sha256: "6dd12b3de05f277d1fbd747ab640b4defd5ed5d35135bcaa1195fc47365b6143"
+title: "6- Nouveaut\u00e9s dans l'artillerie de la Marine"
+---
+
+Title: 6- Nouveautés dans l'artillerie de la Marine
+
+[L’organisation de l’Artillerie >](https://www.artillerie.asso.fr/basart/rubrique.php3?id_rubrique=17) [Tome B- Approches détaillées >](https://www.artillerie.asso.fr/basart/rubrique.php3?id_rubrique=65) [6- Organisation du XIXè siécle >](https://www.artillerie.asso.fr/basart/rubrique.php3?id_rubrique=390) [B- L’artillerie des deux Restaurations (entre deux Empires) >](https://www.artillerie.asso.fr/basart/rubrique.php3?id_rubrique=324) [L’artillerie de la restauration >](https://www.artillerie.asso.fr/basart/rubrique.php3?id_rubrique=391)
+
+# Navigation
+
+[Portail Associations Artillerie](http://www.artillerie.asso.fr/) [Plan du site](https://www.artillerie.asso.fr/basart/plan.php3)
+
+###### 6- Nouveautés dans l’artillerie de la Marine
+
+Retour
+
+En 1822, parut un ouvrage : « Nouvelle force maritime et artillerie, et application de cette force à quelques parties du service de l’armée de terre. » Le chef de bataillon Paixhans, du dépôt central de l’artillerie, y formulait des propositions sur le tir des navires qui furent à l’origine d’un important progrès dans la marine mais qui intéressaient aussi l’armée.
+
+l. Au lieu de tirer à boulets pleins sur un vaisseau, soit pour le démâter, soit pour percer sa coque d’un trou du diamètre du boulet, dont la faible surface peut être rapidement colmatée, mieux vaut tirer un obus (boulet explosif) dans sa coque : les dégâts sur la coque sont supérieurs à ceux du boulet plein et peuvent, si l’obus éclate à l’intérieur, être désastreux ;
+
+2. Au lieu de chercher à augmenter le calibre des canons de marine, dont le poids, l’encombrement et les réactions de recul sont déjà considérables, mieux vaudrait utiliser un obusier plus léger tirant horizontalement ;
+
+3. Au lieu de vaisseaux de haut-bord, mieux vaudrait armer ainsi des vaisseaux plus légers, manuvrant rapidement et armés de plusieurs pièces du plus gros calibre qu’ils puissent porter.
+
+### x
+
+La marine fit immédiatement commencer des essais sur les propositions de Paixhans par une Commission royale de l’Académie des sciences où figurait Marmont, ancien président du Comité de l’artillerie. Un obusier de 86 (220 mm) fut tiré à Brest devant la Commission, qui émit un avis favorable. Ainsi Paixhans avait proposé un canon tirant un obus, le canon-obusier ; personne ne remarqua que, par sa troisième proposition, cet artilleur avait imaginé le croiseur de bataille.
+
+Le canon-obusier tire un obus chargé de poudre à grande capacité de chargement. La commission de Gâvres, disposant des ressources importantes de l’arsenal de Lorient, cherche à augmenter l’efficacité du projectile à l’impact, en remplaçant le boulet creux par un projectile
+oblong qui, pour le même calibre, pèse environ deux fois plus et transporte plus d’explosif.

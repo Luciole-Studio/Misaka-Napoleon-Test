@@ -1,0 +1,28 @@
+---
+source_url: "http://www.histoire-empire.org/correspondance_de_napoleon/1809/mai_03.htm"
+final_url: "http://www.histoire-empire.org/correspondance_de_napoleon/1809/mai_03.htm"
+provider: "exa"
+text_sha256: "3ec5be72764f75f50e10c1e984604f072f8b84c06d66fe6cf85dd9ec2ca67a12"
+title: "mai_03"
+content_kind: "page_text"
+---
+
+mai_03
+
+Schönbrunn, 14 mai 1809
+
+A Alexandre, prince de Neuchâtel, major général de l'armée d'Allemagne
+
+Mon Cousin, donnez ordre au duc d'Istrie d'envoyer le général Montbrun avec la brigade Jacquinot et la brigade Piré à Bruck, à neuf lieues de Vienne, pour couper la route de Presbourg en Italie et couvrir tout le pays entre le lac de Neusiedl et le Danube, ce qui fait un espace de six lieues. Ces brigades auront sur leur gauche la brigade Marulaz, qui longe le Danube, laquelle pourra rester en seconde ligne pour se porter au secours des deux premières; de sorte que le duc de Rivoli pourra partir avec cette brigade sans découvrir l'm'mée d'aucun côté. Il est nécessaire que celte position soit prise demain. La brigade Colbert, qui est à Neustadt, recevra l'ordre de couvrir depuis le lae jusqu'à Neustadt et de se lier avec les partis du aimeraI Montbrun. En cas d'événement extraordinaire, le général Montbrun donnera des ordres à ces quatre brigades. l,a division Nan­ souty sera cantonnée à Laxenburg, et la division Espagne à Himberg. Le général Montbrun correspondra avec ces deux généraux, dont il eouvrira les cantonnements, et par lesquels il pourra être soutenu à tout événement. Par ee moyen, nous serons couverts de tous côtés. Ileeommandez au général Colbert de pousser des partis jusqu'au pied de la montagne qui va à Leoben. Aussitôt que le général Bruyère sera arrivé, il sera placé au même lieu, à Bruck, sous les ordres du gé­ néral Montbrun. Il doit venir par Altenmarkt. La brigade badoise, eommandée par le général Lauriston, se mettra en marche par Med­ ling, pour venir à sa rencontre sur Altenmarkt et dissiper les attrou­ pements de paysans.
+
+---
+
+Quartier impérial de Schönbrunn, 14 mai 1809.
+
+ORDRE DU JOUR.
+
+L'Empereur voit avec peine les désordres qui se commettent en arrière de l'armée; ils deviennent tels, qu'ils doivent fixer toute son attention. De mauvais sujets cherchent à déshonorer l'armée, et, au lieu de se trouver à leurs drapeaux et devant l'ennemi, ils restent en arrière, où ils commettent toute espèce d'excès, et même des crimes. Sa Majesté ordonne aux généraux-gouverneurs, commandant les provinces, de former sur-le-champ des colonnes mobiles, composées chacune d'un adjudant commandant ou colonel, d'un chef d'escadron, d'un capitaine d'infanterie, d'un officier de gendarmerie faisant fonc­ions de rapporteur, d'un magistrat du pays.
+
+Ces officiers formeront autant de commissions militaires qu'il y a de colonnes mobiles.
+
+La première de ces commissions étendra sa juridiction sur le cercle de Vienne; la deuxième, sur le cercle de Saint-Pölten; la troisième, sur le cercle de Steyr; la quatrième, sur le cercle de Linz; la cin­quième, sur le cercle d'Untermanhartsberg.

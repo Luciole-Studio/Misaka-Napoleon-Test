@@ -1,0 +1,41 @@
+In order to account for varying lags in the formation of expectations, I compute average
+inflation over different time horizons (one, two, and five years). The series used for this
+exercise is based on Gayer et al. (1953), as it is the only one available at a monthly
+frequency. These averages are then compared to observed inflation during the suspen-
+sion period. If anticipated inflation was the same for the suspension period and the gold
+standard, the residuals of these equations should be white noise.
+
+
+Figure 8 depicts the residuals; for the residuals to be white noise, they ought to have
+a zero mean and a constant variance, while being serially uncorrelated. None of these
+conditions are met34 confirming that the residuals do not follow a white noise process.
+I can, thus, exclude that the same rate of inflation was expected for the gold standard
+and the suspension period. This finding entails also that anticipated inflation was not
+stable throughout the suspension period.
+
+
+This result hinges on the nature of the gold standard as a devise imposing the stability
+of the price level. In particular, a stable price level entails that rates of inflation will
+on average be zero over the whole duration of the gold standard. The same is true for
+restrictions of convertibility, when ended by a resumption at the pre-war parity, as the
+latter necessitates getting back to the pre-war price level. Thus, average rates of inflation
+will equal zero between endpoints of the gold standard and its suspension at the time of
+resumption. This is, however, the only feature that the operation and resumption of the
+gold standard allow forecasting.
+
+
+Being on the gold standard or resuming it at a non-predetermined date in the future
+does by no means provide any useful information for forecasting short to mid-term rates
+of inflation. The adjustment mechanism the gold standard -and for that matter any
+type of price level targeting- relies on, requires that inflationary outbursts are countered
+by deflationary episodes. This, however, induces high short to mid-term volatility in
+prices and activity, making both series hard to predict (Meltzer and Robinson, 1989). In
+addition, the same feature of the gold standard also practically excludes cases in which
+inflation rates are close or equal to zero, as this only has to be the case on average.
+  34
+       See table 11 in the appendix for descriptive statistics; autocorrelation and heteroskedasticity test
+results are available upon request.
+
+
+
+                                                     34

@@ -1,0 +1,391 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+El Salvador,SLV,1996,5805286
+El Salvador,SLV,1997,5844578
+El Salvador,SLV,1998,5880786
+El Salvador,SLV,1999,5913908
+El Salvador,SLV,2000,5943363
+El Salvador,SLV,2001,5968058
+El Salvador,SLV,2002,5986629
+El Salvador,SLV,2003,5998597
+El Salvador,SLV,2004,6004673
+El Salvador,SLV,2005,6005583
+El Salvador,SLV,2006,6002321
+El Salvador,SLV,2007,6009820
+El Salvador,SLV,2008,6029302
+El Salvador,SLV,2009,6048284
+El Salvador,SLV,2010,6068253
+El Salvador,SLV,2011,6090128
+El Salvador,SLV,2012,6113977
+El Salvador,SLV,2013,6138845
+El Salvador,SLV,2014,6162952
+El Salvador,SLV,2015,6183675
+El Salvador,SLV,2016,6200808
+El Salvador,SLV,2017,6213538
+El Salvador,SLV,2018,6219803
+El Salvador,SLV,2019,6222316
+El Salvador,SLV,2020,6234679
+El Salvador,SLV,2021,6255780
+El Salvador,SLV,2022,6280316
+El Salvador,SLV,2023,6309629
+Equatorial Guinea,GNQ,-10000,2049
+Equatorial Guinea,GNQ,-9000,2562
+Equatorial Guinea,GNQ,-8000,3202
+Equatorial Guinea,GNQ,-7000,4003
+Equatorial Guinea,GNQ,-6000,5004
+Equatorial Guinea,GNQ,-5000,6255
+Equatorial Guinea,GNQ,-4000,7819
+Equatorial Guinea,GNQ,-3000,9774
+Equatorial Guinea,GNQ,-2000,12217
+Equatorial Guinea,GNQ,-1000,15272
+Equatorial Guinea,GNQ,0,19090
+Equatorial Guinea,GNQ,100,21211
+Equatorial Guinea,GNQ,200,23568
+Equatorial Guinea,GNQ,300,26186
+Equatorial Guinea,GNQ,400,29096
+Equatorial Guinea,GNQ,500,32329
+Equatorial Guinea,GNQ,600,35921
+Equatorial Guinea,GNQ,700,39912
+Equatorial Guinea,GNQ,800,44347
+Equatorial Guinea,GNQ,900,49890
+Equatorial Guinea,GNQ,1000,55434
+Equatorial Guinea,GNQ,1100,55434
+Equatorial Guinea,GNQ,1200,55434
+Equatorial Guinea,GNQ,1300,83151
+Equatorial Guinea,GNQ,1400,97010
+Equatorial Guinea,GNQ,1500,110868
+Equatorial Guinea,GNQ,1600,117797
+Equatorial Guinea,GNQ,1700,124727
+Equatorial Guinea,GNQ,1710,125250
+Equatorial Guinea,GNQ,1720,125879
+Equatorial Guinea,GNQ,1730,126545
+Equatorial Guinea,GNQ,1740,127252
+Equatorial Guinea,GNQ,1750,128005
+Equatorial Guinea,GNQ,1760,128810
+Equatorial Guinea,GNQ,1770,129675
+Equatorial Guinea,GNQ,1780,130607
+Equatorial Guinea,GNQ,1790,131620
+Equatorial Guinea,GNQ,1800,80377
+Equatorial Guinea,GNQ,1801,80377
+Equatorial Guinea,GNQ,1802,80377
+Equatorial Guinea,GNQ,1803,80377
+Equatorial Guinea,GNQ,1804,80377
+Equatorial Guinea,GNQ,1805,80377
+Equatorial Guinea,GNQ,1806,80377
+Equatorial Guinea,GNQ,1807,80377
+Equatorial Guinea,GNQ,1808,80377
+Equatorial Guinea,GNQ,1809,80377
+Equatorial Guinea,GNQ,1810,80377
+Equatorial Guinea,GNQ,1811,80377
+Equatorial Guinea,GNQ,1812,80377
+Equatorial Guinea,GNQ,1813,80377
+Equatorial Guinea,GNQ,1814,80377
+Equatorial Guinea,GNQ,1815,80377
+Equatorial Guinea,GNQ,1816,80377
+Equatorial Guinea,GNQ,1817,80377
+Equatorial Guinea,GNQ,1818,80377
+Equatorial Guinea,GNQ,1819,80538
+Equatorial Guinea,GNQ,1820,80861
+Equatorial Guinea,GNQ,1821,81348
+Equatorial Guinea,GNQ,1822,82001
+Equatorial Guinea,GNQ,1823,82821
+Equatorial Guinea,GNQ,1824,83650
+Equatorial Guinea,GNQ,1825,84486
+Equatorial Guinea,GNQ,1826,85331
+Equatorial Guinea,GNQ,1827,86185
+Equatorial Guinea,GNQ,1828,87047
+Equatorial Guinea,GNQ,1829,87917
+Equatorial Guinea,GNQ,1830,88797
+Equatorial Guinea,GNQ,1831,89685
+Equatorial Guinea,GNQ,1832,90582
+Equatorial Guinea,GNQ,1833,91488
+Equatorial Guinea,GNQ,1834,92403
+Equatorial Guinea,GNQ,1835,93327
+Equatorial Guinea,GNQ,1836,94261
+Equatorial Guinea,GNQ,1837,95203
+Equatorial Guinea,GNQ,1838,96156
+Equatorial Guinea,GNQ,1839,97117
+Equatorial Guinea,GNQ,1840,98089
+Equatorial Guinea,GNQ,1841,99070
+Equatorial Guinea,GNQ,1842,100061
+Equatorial Guinea,GNQ,1843,101061
+Equatorial Guinea,GNQ,1844,102072
+Equatorial Guinea,GNQ,1845,103093
+Equatorial Guinea,GNQ,1846,104124
+Equatorial Guinea,GNQ,1847,105166
+Equatorial Guinea,GNQ,1848,106218
+Equatorial Guinea,GNQ,1849,107193
+Equatorial Guinea,GNQ,1850,108091
+Equatorial Guinea,GNQ,1851,108945
+Equatorial Guinea,GNQ,1852,109718
+Equatorial Guinea,GNQ,1853,110411
+Equatorial Guinea,GNQ,1854,111108
+Equatorial Guinea,GNQ,1855,111810
+Equatorial Guinea,GNQ,1856,112515
+Equatorial Guinea,GNQ,1857,113226
+Equatorial Guinea,GNQ,1858,113940
+Equatorial Guinea,GNQ,1859,114660
+Equatorial Guinea,GNQ,1860,115383
+Equatorial Guinea,GNQ,1861,116112
+Equatorial Guinea,GNQ,1862,116845
+Equatorial Guinea,GNQ,1863,117582
+Equatorial Guinea,GNQ,1864,118324
+Equatorial Guinea,GNQ,1865,119071
+Equatorial Guinea,GNQ,1866,119823
+Equatorial Guinea,GNQ,1867,120579
+Equatorial Guinea,GNQ,1868,121340
+Equatorial Guinea,GNQ,1869,122130
+Equatorial Guinea,GNQ,1870,122950
+Equatorial Guinea,GNQ,1871,123801
+Equatorial Guinea,GNQ,1872,124681
+Equatorial Guinea,GNQ,1873,125593
+Equatorial Guinea,GNQ,1874,126511
+Equatorial Guinea,GNQ,1875,127436
+Equatorial Guinea,GNQ,1876,128368
+Equatorial Guinea,GNQ,1877,129306
+Equatorial Guinea,GNQ,1878,130252
+Equatorial Guinea,GNQ,1879,131204
+Equatorial Guinea,GNQ,1880,132163
+Equatorial Guinea,GNQ,1881,133129
+Equatorial Guinea,GNQ,1882,134102
+Equatorial Guinea,GNQ,1883,135083
+Equatorial Guinea,GNQ,1884,136070
+Equatorial Guinea,GNQ,1885,137065
+Equatorial Guinea,GNQ,1886,138067
+Equatorial Guinea,GNQ,1887,139076
+Equatorial Guinea,GNQ,1888,140093
+Equatorial Guinea,GNQ,1889,140776
+Equatorial Guinea,GNQ,1890,141124
+Equatorial Guinea,GNQ,1891,141137
+Equatorial Guinea,GNQ,1892,140814
+Equatorial Guinea,GNQ,1893,140153
+Equatorial Guinea,GNQ,1894,139495
+Equatorial Guinea,GNQ,1895,138840
+Equatorial Guinea,GNQ,1896,138188
+Equatorial Guinea,GNQ,1897,137539
+Equatorial Guinea,GNQ,1898,136894
+Equatorial Guinea,GNQ,1899,136115
+Equatorial Guinea,GNQ,1900,135206
+Equatorial Guinea,GNQ,1901,134169
+Equatorial Guinea,GNQ,1902,133004
+Equatorial Guinea,GNQ,1903,131714
+Equatorial Guinea,GNQ,1904,130437
+Equatorial Guinea,GNQ,1905,129172
+Equatorial Guinea,GNQ,1906,127920
+Equatorial Guinea,GNQ,1907,126679
+Equatorial Guinea,GNQ,1908,125451
+Equatorial Guinea,GNQ,1909,124333
+Equatorial Guinea,GNQ,1910,123323
+Equatorial Guinea,GNQ,1911,122421
+Equatorial Guinea,GNQ,1912,121624
+Equatorial Guinea,GNQ,1913,120931
+Equatorial Guinea,GNQ,1914,120242
+Equatorial Guinea,GNQ,1915,119557
+Equatorial Guinea,GNQ,1916,118876
+Equatorial Guinea,GNQ,1917,118199
+Equatorial Guinea,GNQ,1918,117490
+Equatorial Guinea,GNQ,1919,117226
+Equatorial Guinea,GNQ,1920,117411
+Equatorial Guinea,GNQ,1921,118047
+Equatorial Guinea,GNQ,1922,119138
+Equatorial Guinea,GNQ,1923,120686
+Equatorial Guinea,GNQ,1924,122255
+Equatorial Guinea,GNQ,1925,123845
+Equatorial Guinea,GNQ,1926,125455
+Equatorial Guinea,GNQ,1927,127085
+Equatorial Guinea,GNQ,1928,128738
+Equatorial Guinea,GNQ,1929,130385
+Equatorial Guinea,GNQ,1930,132027
+Equatorial Guinea,GNQ,1931,133663
+Equatorial Guinea,GNQ,1932,135293
+Equatorial Guinea,GNQ,1933,136916
+Equatorial Guinea,GNQ,1934,138559
+Equatorial Guinea,GNQ,1935,140222
+Equatorial Guinea,GNQ,1936,141905
+Equatorial Guinea,GNQ,1937,143608
+Equatorial Guinea,GNQ,1938,145331
+Equatorial Guinea,GNQ,1939,148052
+Equatorial Guinea,GNQ,1940,151826
+Equatorial Guinea,GNQ,1941,156712
+Equatorial Guinea,GNQ,1942,162770
+Equatorial Guinea,GNQ,1943,170065
+Equatorial Guinea,GNQ,1944,177688
+Equatorial Guinea,GNQ,1945,185652
+Equatorial Guinea,GNQ,1946,193973
+Equatorial Guinea,GNQ,1947,202667
+Equatorial Guinea,GNQ,1948,211750
+Equatorial Guinea,GNQ,1949,219678
+Equatorial Guinea,GNQ,1950,226570
+Equatorial Guinea,GNQ,1951,230628
+Equatorial Guinea,GNQ,1952,234690
+Equatorial Guinea,GNQ,1953,238805
+Equatorial Guinea,GNQ,1954,242985
+Equatorial Guinea,GNQ,1955,247228
+Equatorial Guinea,GNQ,1956,251534
+Equatorial Guinea,GNQ,1957,255931
+Equatorial Guinea,GNQ,1958,260397
+Equatorial Guinea,GNQ,1959,265003
+Equatorial Guinea,GNQ,1960,269813
+Equatorial Guinea,GNQ,1961,274907
+Equatorial Guinea,GNQ,1962,280294
+Equatorial Guinea,GNQ,1963,285974
+Equatorial Guinea,GNQ,1964,291954
+Equatorial Guinea,GNQ,1965,298248
+Equatorial Guinea,GNQ,1966,304868
+Equatorial Guinea,GNQ,1967,311814
+Equatorial Guinea,GNQ,1968,318853
+Equatorial Guinea,GNQ,1969,322525
+Equatorial Guinea,GNQ,1970,320815
+Equatorial Guinea,GNQ,1971,315946
+Equatorial Guinea,GNQ,1972,309474
+Equatorial Guinea,GNQ,1973,302293
+Equatorial Guinea,GNQ,1974,294957
+Equatorial Guinea,GNQ,1975,287912
+Equatorial Guinea,GNQ,1976,281042
+Equatorial Guinea,GNQ,1977,276784
+Equatorial Guinea,GNQ,1978,276534
+Equatorial Guinea,GNQ,1979,279848
+Equatorial Guinea,GNQ,1980,288652
+Equatorial Guinea,GNQ,1981,303262
+Equatorial Guinea,GNQ,1982,322226
+Equatorial Guinea,GNQ,1983,343429
+Equatorial Guinea,GNQ,1984,364905
+Equatorial Guinea,GNQ,1985,385553
+Equatorial Guinea,GNQ,1986,404740
+Equatorial Guinea,GNQ,1987,422529
+Equatorial Guinea,GNQ,1988,439659
+Equatorial Guinea,GNQ,1989,456821
+Equatorial Guinea,GNQ,1990,474289
+Equatorial Guinea,GNQ,1991,492220
+Equatorial Guinea,GNQ,1992,510775
+Equatorial Guinea,GNQ,1993,530030
+Equatorial Guinea,GNQ,1994,550148
+Equatorial Guinea,GNQ,1995,571274
+Equatorial Guinea,GNQ,1996,593496
+Equatorial Guinea,GNQ,1997,616897
+Equatorial Guinea,GNQ,1998,641478
+Equatorial Guinea,GNQ,1999,667222
+Equatorial Guinea,GNQ,2000,703287
+Equatorial Guinea,GNQ,2001,749836
+Equatorial Guinea,GNQ,2002,797968
+Equatorial Guinea,GNQ,2003,847867
+Equatorial Guinea,GNQ,2004,899924
+Equatorial Guinea,GNQ,2005,947370
+Equatorial Guinea,GNQ,2006,990349
+Equatorial Guinea,GNQ,2007,1036053
+Equatorial Guinea,GNQ,2008,1084538
+Equatorial Guinea,GNQ,2009,1135683
+Equatorial Guinea,GNQ,2010,1189097
+Equatorial Guinea,GNQ,2011,1241843
+Equatorial Guinea,GNQ,2012,1293485
+Equatorial Guinea,GNQ,2013,1346220
+Equatorial Guinea,GNQ,2014,1399829
+Equatorial Guinea,GNQ,2015,1453925
+Equatorial Guinea,GNQ,2016,1508192
+Equatorial Guinea,GNQ,2017,1562401
+Equatorial Guinea,GNQ,2018,1616425
+Equatorial Guinea,GNQ,2019,1670184
+Equatorial Guinea,GNQ,2020,1716479
+Equatorial Guinea,GNQ,2021,1758796
+Equatorial Guinea,GNQ,2022,1803549
+Equatorial Guinea,GNQ,2023,1847556
+Eritrea,ERI,-10000,3098
+Eritrea,ERI,-9000,3872
+Eritrea,ERI,-8000,4840
+Eritrea,ERI,-7000,6050
+Eritrea,ERI,-6000,7563
+Eritrea,ERI,-5000,9454
+Eritrea,ERI,-4000,11818
+Eritrea,ERI,-3000,14772
+Eritrea,ERI,-2000,18466
+Eritrea,ERI,-1000,23082
+Eritrea,ERI,0,28853
+Eritrea,ERI,100,31072
+Eritrea,ERI,200,33462
+Eritrea,ERI,300,36036
+Eritrea,ERI,400,38808
+Eritrea,ERI,500,41794
+Eritrea,ERI,600,45009
+Eritrea,ERI,700,48471
+Eritrea,ERI,800,52200
+Eritrea,ERI,900,55100
+Eritrea,ERI,1000,58000
+Eritrea,ERI,1100,66700
+Eritrea,ERI,1200,75400
+Eritrea,ERI,1300,88933
+Eritrea,ERI,1400,102466
+Eritrea,ERI,1500,116000
+Eritrea,ERI,1600,130500
+Eritrea,ERI,1700,145000
+Eritrea,ERI,1710,147692
+Eritrea,ERI,1720,150682
+Eritrea,ERI,1730,153868
+Eritrea,ERI,1740,157272
+Eritrea,ERI,1750,160921
+Eritrea,ERI,1760,164846
+Eritrea,ERI,1770,169084
+Eritrea,ERI,1780,173678
+Eritrea,ERI,1790,178684
+Eritrea,ERI,1800,205010
+Eritrea,ERI,1801,205010
+Eritrea,ERI,1802,205010
+Eritrea,ERI,1803,205010
+Eritrea,ERI,1804,205010
+Eritrea,ERI,1805,205010
+Eritrea,ERI,1806,205010
+Eritrea,ERI,1807,205010
+Eritrea,ERI,1808,205010
+Eritrea,ERI,1809,205010
+Eritrea,ERI,1810,205010
+Eritrea,ERI,1811,205010
+Eritrea,ERI,1812,205010
+Eritrea,ERI,1813,205010
+Eritrea,ERI,1814,205010
+Eritrea,ERI,1815,205010
+Eritrea,ERI,1816,205010
+Eritrea,ERI,1817,205010
+Eritrea,ERI,1818,205010
+Eritrea,ERI,1819,206725
+Eritrea,ERI,1820,210225
+Eritrea,ERI,1821,215587
+Eritrea,ERI,1822,222888
+Eritrea,ERI,1823,232208
+Eritrea,ERI,1824,241918
+Eritrea,ERI,1825,252034
+Eritrea,ERI,1826,262573
+Eritrea,ERI,1827,273553
+Eritrea,ERI,1828,284992
+Eritrea,ERI,1829,296909
+Eritrea,ERI,1830,309325
+Eritrea,ERI,1831,322260
+Eritrea,ERI,1832,335736
+Eritrea,ERI,1833,349775
+Eritrea,ERI,1834,364401
+Eritrea,ERI,1835,379639
+Eritrea,ERI,1836,395514
+Eritrea,ERI,1837,412053
+Eritrea,ERI,1838,429283
+Eritrea,ERI,1839,447235
+Eritrea,ERI,1840,465936
+Eritrea,ERI,1841,485420
+Eritrea,ERI,1842,505718
+Eritrea,ERI,1843,526866
+Eritrea,ERI,1844,548897
+Eritrea,ERI,1845,571850
+Eritrea,ERI,1846,595763
+Eritrea,ERI,1847,620675
+Eritrea,ERI,1848,646630
+Eritrea,ERI,1849,667809
+Eritrea,ERI,1850,684015
+Eritrea,ERI,1851,692108
+Eritrea,ERI,1852,694755
+Eritrea,ERI,1853,691802
+Eritrea,ERI,1854,688848
+Eritrea,ERI,1855,685894
+Eritrea,ERI,1856,682940
+Eritrea,ERI,1857,679986
+Eritrea,ERI,1858,677032
+Eritrea,ERI,1859,674078
+Eritrea,ERI,1860,671124
+Eritrea,ERI,1861,668171
+Eritrea,ERI,1862,665217

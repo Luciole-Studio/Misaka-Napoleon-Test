@@ -1,0 +1,20 @@
+
+
+## 缺口、排除项与下一步最小复核
+
+- **1805数量缺口**：未冻结银行逐月准备金、发行额、兑付限制或Ouvrard最终净欠款。正文采用可精确定位的8月24日信件，不以网传负债总数补空。优先读Pierre Bougerol 1969年相关论文、Bertrand Gille 1954年危机研究及银行档案。
+- **粮食数量缺口**：未取得按省、月份、品种和固定疆域对齐的粮价与收成系列；政策最高价不是成交均价。Gotteri的p.355、Brotonne p.400是明确下一步原编本复核点。
+- **工业数量缺口**：122件只有巴黎两月总数；不能据此估全国工业损失。两种1810价格叙述需用Chabert、Viennet的原表裁决。
+- **财政缺口**：Gabillard p.557图表缺失；4500万与2亿均需原账和毛净口径。p.556旧预算余额数字在OCR中丢失，p.561起讫纪年“an xvii”可疑，均不引用为精确量。
+- **回溯性纪律**：Gabillard中的Mollien、Gaudin回忆录及Las Cases圣赫勒拿叙述一律回溯性；其22 avril 1811致Mollien信虽属同时代内容，但当前抓取丢数，未采用。不能将圣赫勒拿“胜利带入金属货币”总额作为已核收入。
+- **不以1840年后结果回填**：本卡未证明税制足以负担1830海军竞赛或1848帝国运行。
+
+## 来源与可重开路径
+
+1. Jean Gabillard，1953，*Revue économique* 4(4)，548–572，全文及尾注已读。https://www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987 → `downloads/pages/e4f61139af7d.md`。
+2. Jean Bouvier，1970，“Les crises économiques sous l’Empire. A propos de la crise dite « de 1805 »”，*AHRF* 199，100–109，全文已读。https://www.persee.fr/doc/ahrf_0003-4436_1970_num_199_1_3895 → `downloads/pages/254e6c723b4c.md`。
+3. Alain Plessis，2000，RSN 430，35–43，全文网页已读。https://www.napoleon.org/histoire-des-2-empires/articles/la-banque-de-france-une-des-grandes-institutions-napoleoniennes/ → `downloads/pages/54a70cc2111c.md`。
+4. Pierre Branda，2012，“1812, l’année de tous les défis”，RSN 492，26–33，全文网页及18注已读。https://www.napoleon.org/histoire-des-2-empires/articles/1812-lannee-de-tous-les-defis/ → `downloads/pages/414d9ffcebd4.md`。
+5. 项目内C9交叉核验：`nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`与`extraction_evidence.md`，已全读；它们是研究底稿而非独立历史证据。
+
+【事实｜工具记录】先加载qualitative-evidence-engine与agent-reach技能。agent-reach所示mcporter搜索因shell需要父级审批未运行，改用已配置web_search/web_extract，成功保存上述三篇补查全文。未运行技能脚本或宣称自动审计通过；未修改技能。各短引按已读缓存原字呈现，尚未扫描影像对校。

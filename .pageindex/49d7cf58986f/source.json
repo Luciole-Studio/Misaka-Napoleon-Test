@@ -1,0 +1,70 @@
+{
+  "scope": "ARITHMETIC_ONLY_NOT_MODEL_VALIDATION",
+  "fiscal": [
+    {
+      "year": 1802,
+      "deficit_million_flCM": 16.9,
+      "military_to_revenue_pct": 64.49
+    },
+    {
+      "year": 1803,
+      "deficit_million_flCM": -0.7,
+      "military_to_revenue_pct": 47.17
+    },
+    {
+      "year": 1804,
+      "deficit_million_flCM": 0.3,
+      "military_to_revenue_pct": 44.1
+    },
+    {
+      "year": 1805,
+      "deficit_million_flCM": 24.6,
+      "military_to_revenue_pct": 82.97
+    },
+    {
+      "year": 1806,
+      "deficit_million_flCM": 46.3,
+      "military_to_revenue_pct": 112.3
+    },
+    {
+      "year": 1807,
+      "deficit_million_flCM": 31.4,
+      "military_to_revenue_pct": 77.79
+    },
+    {
+      "year": 1808,
+      "deficit_million_flCM": 11.8,
+      "military_to_revenue_pct": 67.56
+    },
+    {
+      "year": 1809,
+      "deficit_million_flCM": 55.2,
+      "military_to_revenue_pct": 214.79
+    },
+    {
+      "year": 1810,
+      "deficit_million_flCM": 51.1,
+      "military_to_revenue_pct": 208.8
+    }
+  ],
+  "occupation_persons_assumed_sum": {
+    "low": 100000,
+    "high": 180000
+  },
+  "occupation_frictionless_half": {
+    "low": 50000.0,
+    "high": 90000.0
+  },
+  "population_index_1848_given_1810_100": [
+    120.86772470847693,
+    145.95272361417716
+  ],
+  "source_rows": 9,
+  "scenario_rows": 14,
+  "notes": [
+    "flCM is silver-value conversion not constant purchasing power",
+    "Annual territorial changes persist",
+    "Deficit is not identical to new debt",
+    "Scenario endpoints are conditional bounds not probability intervals"
+  ]
+}

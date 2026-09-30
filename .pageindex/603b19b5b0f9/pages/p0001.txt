@@ -1,0 +1,30 @@
+---
+source_url: "https://www.napoleon.org/histoire-des-2-empires/articles/document-traite-de-paix-de-vienne-14-octobre-1809/"
+final_url: "https://www.napoleon.org/histoire-des-2-empires/articles/document-traite-de-paix-de-vienne-14-octobre-1809/"
+provider: "exa"
+text_sha256: "c2f557122a24de2d2701017079e9d6eb6a457eda0b889fac98fe69549970afac"
+title: "Document > Trait\u00e9 de paix de Vienne (14 octobre 1809) - napoleon.org"
+content_kind: "page_text"
+---
+
+Document > Traité de paix de Vienne (14 octobre 1809) - napoleon.org
+
+# Document > Traité de paix de Vienne (14 octobre 1809)
+
+S.M. l’Empereur des Français, Roi d’Italie, Protecteur de la Confédération du Rhin, Médiateur de la Confédération suisse, et S.M. l’Empereur d’Autriche, Roi de Hongrie et de Bohême, également animés du désir de mettre fin à la guerre qui s’est allumée entre eux, ont résolu de procéder sans délai à la conclusion d’un traité de paix définitif, et ont en conséquence nommé pour leurs plénipotentiaires, savoir : S.M. l’Empereur des Français, Roi d’Italie, Protecteur de la Confédération du Rhin, M. Jean-Baptiste Nompère, Comte de Champagny, Duc de Cadore, grand aigle de la Légion d’honneur, commandeur de l’ordre de la Couronne de Fer, chevalier de l’ordre de Saint-André de Russie, grand dignitaire de l’ordre des Deux-Siciles, grand-croix des ordres de l’Aigle Noir et de l’Aigle Rouge de Prusse, des ordres de Saint-Joseph de Würzburg, de la Fidélité de Bade, de l’ordre de Hess-Darmstadt, son ministre des Relations extérieures ;
+
+Et S.M. l’Empereur d’Autriche, Roi de Hongrie et de Bohême, M. le Prince Jean de Liechtenstein, chevalier de l’Ordre de la Toison d’Or, grand-croix de l’ordre militaire de Marie-Thérèse, chambellan, maréchal des armées de Sa dite Majesté l’Empereur d’Autriche et propriétaire d’un régiment de hussards à son service ;
+
+Lesquels, après avoir échangé leurs pleins pouvoirs, sont convenus des articles suivants :
+
+ Article 1er
+
+Il y aura, à compter de ce jour de l’échange des ratifications du présent traité, paix et amitié entre S.M. l’Empereur des Français, Roi d’Italie, Protecteur de la Confédération du Rhin, et S.M. l’Empereur d’Autriche, Roi de Hongrie et de Bohême, leurs héritiers et successeurs, leurs États et sujets respectifs, à perpétuité.
+
+ Article 2
+
+La présente paix est déclarée commune à S.M. le Roi d’Espagne, S.M. le Roi de Hollande, S.M. le Roi de Naples, S.M. le Roi de Bavière, Sa Majesté le Roi de Wurtemberg, Sa Majesté le Roi de Saxe, S.M. le Roi de Westphalie, S.M. Emp le Prince-Primat, LL. AA. RR. Le Grand-Duc de Bade, le Grand-Duc de Hess-Darmstadt et le Grand-Duc de Würzburg, à tous les Princes et Membres de la Confédération du Rhin, dans la présente guerre.
+
+ Article 3
+
+S.M. l’Empereur d’Autriche, Roi de Hongrie et Bohême, tant pour lui, ses héritiers et successeurs, que pour les Princes de sa maison, leurs héritiers et successeurs respectifs, renonce aux principautés, seigneuries, domaines et territoires ci-après désignés, ainsi qu’à tout titre particulier, que ces pays renferment.

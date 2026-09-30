@@ -1,0 +1,77 @@
+---
+source_url: "https://www.musee-marine.fr/nos-musees/paris/collections/oeuvres-phares/machine-a-vapeur-de-la-corvette-a-roues-le-sphinx.html"
+final_url: "https://www.musee-marine.fr/nos-musees/paris/collections/oeuvres-phares/machine-a-vapeur-de-la-corvette-a-roues-le-sphinx.html"
+sha256: "c5e62c5048d6c87a1181df9887ccc600ca3a502b0df0757eaf2ef1b6495131a7"
+text_sha256: "4b018a919b4c19b99dbc9a0cd5506b0e7baac54f87d81cf3b0447dcb74ce5c76"
+title: "Machine \u00e0 vapeur de la corvette \u00e0 roues le Sphinx | Mus\u00e9e national de la Marine de Paris"
+---
+
+Title: Machine à vapeur de la corvette à roues le Sphinx | Musée national de la Marine de Paris
+
+- Aller au contenu
+- Aller au menu
+
+-
+Adhérents
+expand_more
+
+- [Devenir adhérent](https://www.musee-marine.fr/adherents/devenir-adherent.html)
+- [Tarifs et formules d’adhésion](https://www.musee-marine.fr/adherents/tarifs-et-formules-dadhesion.html)
+- [Inscription à la newsletter](https://www.musee-marine.fr/adherents/inscription-a-la-newsletter.html)
+
+-
+Professionnels
+expand_more
+
+- [Groupe](https://www.musee-marine.fr/professionnels/groupe.html)
+- [Entreprise](https://www.musee-marine.fr/professionnels/entreprise.html)
+- [Chercheurs](https://www.musee-marine.fr/professionnels/chercheurs.html)
+- [Presse](https://www.musee-marine.fr/professionnels/presse.html)
+
+-
+Enseignants
+expand_more
+
+- [Espace enseignants](https://www.musee-marine.fr/enseignants/espace-enseignants.html)
+- [Dossiers pédagogiques](https://www.musee-marine.fr/enseignants/dossiers-pedagogiques.html)
+- [Préparer sa visite à Brest](https://www.musee-marine.fr/enseignants/preparer-sa-visite-a-brest.html)
+- [Préparer sa visite à Paris](https://www.musee-marine.fr/enseignants/preparer-sa-visite-a-paris.html)
+- [Préparer sa visite à Port-Louis](https://www.musee-marine.fr/enseignants/preparer-sa-visite-a-port-louis.html)
+- [Préparer sa visite à Rochefort](https://www.musee-marine.fr/enseignants/preparer-sa-visite-a-rochefort.html)
+- [Préparer sa visite à Toulon](https://www.musee-marine.fr/enseignants/preparer-sa-visite-a-toulon.html)
+
+-
+Relais
+expand_more
+
+- [Relais du champ social](https://www.musee-marine.fr/relais/relais-du-champ-social.html)
+- [Relais du handicap et du médico-social](https://www.musee-marine.fr/relais/relais-handicap-medico-social.html)
+
+-
+Accessibilité
+expand_more
+
+- [Accessibilité au musée](https://www.musee-marine.fr/accessibilite/accessibilite-au-musee.html)
+- [Accessibilité web](https://www.musee-marine.fr/accessibilite/accessibilite-web.html)
+
+-
+Français
+
+expand_more
+
+- [English](https://www.musee-marine.fr/en.html)
+
+[Paris](https://www.musee-marine.fr/nos-musees/paris.html) menu close Menu
+
+- [account_circle Mon compte](https://billetterie.musee-marine.fr/account/login?lang=fr)
+- [confirmation_number Billetterie](https://billetterie.paris.musee-marine.fr/content)
+
+-
+Visiter
+expand_more
+
+[Informations pratiques](https://www.musee-marine.fr/nos-musees/paris/visiter/informations-pratiques.html)
+
+- [Accès, horaires, tarifs](https://www.musee-marine.fr/nos-musees/paris/visiter/informations-pratiques/acces-horaires-tarifs.html)
+- [Accessibilité](https://www.musee-marine.fr/accessibilite/accessibilite-au-musee/accessibilite-a-paris.html)
+- [FAQ](https://www.musee-marine.fr/nos-musees/paris/visiter/informations-pratiques/faq.html)

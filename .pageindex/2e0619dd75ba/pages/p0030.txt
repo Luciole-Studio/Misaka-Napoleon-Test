@@ -1,0 +1,137 @@
+
+
+Figure A2: Evolution of Distance and Empire Effects (annual cross-sections)
+
+-2 -1.5 -1 -.5
+
+0
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900
+
+year
+
+Distance Estimate 95% Confidence Interval
+
+Evolution of the effects of Distance
+
+0
+
+1
+
+2
+
+3
+
+4
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900
+
+year
+
+Empire Estimate 95% Confidence Interval
+
+Evolution of the effects of Empire
+
+• Figure A3 replicates the results from Figure 6 but after allowing for division-specific GDP effects. Once again, the new results are consistent with our main estimates.
+
+Figure A3: Evolution of Distance and Empire Effects (division-specific GDP effects)
+
+-1.5 -1 -.5
+
+0
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900
+
+year
+
+Distance Estimate 95% Confidence Interval
+
+Evolution of the effects of Distance
+
+0
+
+1
+
+2
+
+3
+
+4
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900
+
+year
+
+Empire Estimate 95% Confidence Interval
+
+Evolution of the effects of Empire
+
+A10
+
+• Figure A4 replicates the results from Figure 6 but using (the log of) population to control for country size. The new results are consistent with our main estimates.
+
+Figure A4: Evolution of Distance and Empire Effects (population as size control)
+
+-1.5 -1 -.5
+
+0
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900
+
+year Distance Estimate 95% Confidence Interval
+
+Evolution of the effects of Distance
+
+0
+
+1
+
+2
+
+3
+
+4
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900
+
+year Empire Estimate 95% Confidence Interval
+
+Evolution of the effects of Empire
+
+• The results in Figure A5 replicate the results from Figure 6 but after adding destination fixed effects. Two main messages stand out from Figure A5. First, the magnitudes of our estimates of the effects of distance and the empire change. This is consistent with the results from
+
+Table 1 and the accompanying discussion. Second, and more important for our purposes, the evolution over time of the distance and empire estimates remains similar to our main
+
+findings.
+
+Figure A5: Evolution of Distance and Empire Effects (destination fixed effects)
+
+-3 -2 -1
+
+0
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900
+
+year Distance Estimate 95% Confidence Interval
+
+Evolution of the effects of Distance
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900
+
+year Empire Estimate 95% Confidence Interval
+
+Evolution of the effects of Empire
+
+A11
+
+• The results in Figure A6 replicate the results from Figure 6 but with destination-product fixed effects. The results from this specification are very similar to those from Figure A5 which were obtained with destination fixed effects only. 

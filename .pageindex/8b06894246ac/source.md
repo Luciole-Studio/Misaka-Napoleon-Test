@@ -1,0 +1,40 @@
+---
+source_url: "https://www.persee.fr/doc/ahrf_0003-4436_2001_num_323_1_2638_t1_0145_0000_2"
+final_url: "https://www.persee.fr/doc/ahrf_0003-4436_2001_num_323_1_2638_t1_0145_0000_2"
+provider: "exa"
+text_sha256: "df5728ae54272c67887a257d8aea2dc2d635c582c4b7cff6a2f856bc7264fc03"
+title: "Nicole Gotteri (\u00e9dit), La police secr\u00e8te du Premier Empire, Bulletins quotidiens adress\u00e9s par Savary \u00e0 l'Empereur de juillet \u00e0 d\u00e9cembre 1811, tome 3 - Pers\u00e9e"
+content_kind: "page_text"
+---
+
+Nicole Gotteri (édit), La police secrète du Premier Empire, Bulletins quotidiens adressés par Savary à l'Empereur de juillet à décembre 1811, tome 3 - Persée
+
+## Nicole Gotteri (édit), La police secrète du Premier Empire, Bulletins quotidiens adressés par Savary à l'Empereur de juillet à décembre 1811, tome 3
+
+ Gainot Bernard 
+
+ Annales historiques de la Révolution française Année 2001 323 pp. 145-146 
+
+ Gainot Bernard. Nicole Gotteri (édit), La police secrète du Premier Empire, Bulletins quotidiens adressés par Savary à l'Empereur de juillet à décembre 1811, tome 3. In: Annales historiques de la Révolution française, n°323, 2001. pp. 145-146.
+
+ www.persee.fr/doc/ahrf_0003-4436_2001_num_323_1_2638_t1_0145_0000_2
+
+### 1. 
+
+ , Paris, Honoré Champion, 1999, 440 p. + index (133 p.). 
+
+ Ce volume est le troisième édité dans la collection Pages d'archives, par les soins de Nicole Gotteri. La période couverte est celle du ministère Savary, de juin à décembre 1810 (tome 1), puis de janvier à juin 1811 (tome 2); ce volume couvre donc la période juillet-décembre 1811. L'entreprise s'inscrit dans la suite des cinq volumes publiés par Ernest D'Hauterive et Jean Grassion, entre 1908 et 1964, qui couvraient le ministère Fouché, de 1806 à 1810. 
+
+ La source principale, ce sont les minutes de la sous-série F7, rédigées par Desmarest (chef de la première division du ministère), et Jean-André François (rédacteur du bulletin de police). Ces deux fonctionnaires étaient déjà en place sous Fouché. Une copie du bulletin de police était envoyée à la secrétairerie d'État impériale (sous-série AF IV). 
+
+ Le bulletin est rédigé quotidiennement à partir de sources diverses : les rapports des commissaires de police, bien sûr, mais aussi les rapports des préfets et sous-préfets, ainsi que ceux des officiers de la gendarmerie. 
+
+ Les rubriques permettent une accumulation de faits de nature et de provenances diverses. Les rapports administratifs sont complétés par les bulletins des journaux étrangers, traductions de gazettes de divers pays européens, source fondamentale pour étudier l'émergence d'une opinion publique européenne à l'âge du proto-nationalisme. 
+
+### 2. 
+
+ Cette année 1811 est en effet celle où le Grand Empire connaît son extension territoriale maximum, dans une stabilité relative, si on excepte la question ibérique, sujet d'un grand nombre de bulletins. Mais d'autres craquements se font déjà sentir; la rupture avec Alexandre de Russie, la montée des nationalismes allemands, l'attitude équivoque du souverain suédois. Il est également possible de suivre les manifestations et les effets de la crise frumentaire, à travers les variations des mercuriales, les « émotions ouvrières », et la politique de secours publics. 
+
+ Il s'agit d'une entreprise de longue haleine, du plus grand intérêt pour approfondir et renouveler nos connaissances, tant sur le travail des administrateurs, que sur les mentalités des administrés à travers toute l'Europe. 
+
+ Bernard Gainot

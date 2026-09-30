@@ -1,0 +1,37 @@
+                               Table 11: Code Civil and 19th Century Associational Participation
+
+                                         (1)                   (2)                (3)               (4)                 (5)                  (6)
+                                     Member p.c.          Firemen p.c.         Firemen            Member            Member p.c.         Firemen p.c.
+                                       (x100)                (x100)                                                   (x100)               (x100)
+
+
+   Code Civil                          0.109***              0.008*           15.089***         125.874***             0.077*               0.012*
+                                        (0.032)             (0.004)             (3.725)           (30.759)             (0.038)              (0.006)
+   Share of Protestants                0.250***             0.035**            20.468*          170.604***            0.302***             0.054**
+                                        (0.043)             (0.013)             (9.693)           (47.019)             (0.040)              (0.016)
+   Income p.c                            0.052                0.012              4.913             18.252               0.018                -0.002
+                                        (0.038)             (0.008)             (5.936)           (25.998)             (0.041)              (0.011)
+   Longitude (div. by 1000)              0.346                0.071             10.721            106.705               0.410                0.036
+                                        (0.467)             (0.083)            (78.955)          (341.337)             (0.432)              (0.092)
+   Latitude (div. by 1000)               -0.742               0.201             -83.788          -758.603               -1.055               0.288
+                                        (1.502)             (0.485)           (265.255)          (584.881)             (1.382)              (0.493)
+   Elementary Schools p.c.                                                                                          -111.155***           -49.619**
+                                                                                                                      (20.023)             (15.035)
+   Share of Female                                                                                                    -3.306**               0.312
+                                                                                                                       (1.085)              (0.335)
+   ln Population                                                                40.508          257.183***
+                                                                               (21.943)          (74.419)
+
+   Observations                           234                 234                 234                234                 234                 234
+   R-squared                             0.156               0.024               0.106              0.346               0.234               0.080
+
+Notes: OLS regressions. Dependent variables: Member p.c. gives the per capita share of members in gymnast clubs (multiplied by 100). Firemen p.c.
+gives the per capita share of voluntary firemen per county (multiplied by 100). Member gives the total number members in gymnast clubs. Firemen gives
+the total number volunteer firemen per county.
+Source: Second Statistical Yearbook of Germany Gymnast Clubs, (Hirth, 1865). Heteroscedastic-robust standard errors, clustered at the historical territory
+in parentheses. ∗ p < 0.10, ∗∗ p < 0.05, ∗∗∗ p < 0.01
+
+
+
+
+                                                                     43

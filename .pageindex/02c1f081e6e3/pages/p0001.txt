@@ -1,0 +1,37 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/commons/1823/feb/25/colonial-revenue-and-expenditure"
+final_url: "https://api.parliament.uk/historic-hansard/commons/1823/feb/25/colonial-revenue-and-expenditure"
+provider: "exa"
+text_sha256: "acad545d3232245960b5ea26b9c0004720235340fb93cbd98fe13d6eeb6d5b5e"
+title: "COLONIAL REVENUE AND EXPENDITURE.\u2014 (Hansard, 25 February 1823)"
+content_kind: "page_text"
+---
+
+COLONIAL REVENUE AND EXPENDITURE.— (Hansard, 25 February 1823)
+
+# COLONIAL REVENUE AND EXPENDITURE.—
+
+HC Deb 25 February 1823 vol 8 cc248-54 248
+
+rose for the purpose of calling the attention of the House to the situation of the colonies belonging to Great Britain, and the expense of their government. He understood that the opposition which had been offered to his motion for returns connected with this subject had been withdrawn, and that ministers had agreed to grant them, as far as was practicable. After strong re- 249 monstrances, he had, last year, succeeded in obtaining such an account as could be rendered of the expenditure, in respect of the military establishment in those colonies. By an abstract of the actual disbursements of the several commissaries upon foreign stations, for the year ending 25th Dec. 1820, and paid by Great Britain, exclusive of the revenues collected in the several colonies, it appeared, that the following charges were incurred, viz.:—
+
+| £. | s. | d. |
+| --- | --- | --- |
+| Canada | 354,721 | 12 | 9 |
+| Nova Scotia and New Brunswick | 125,353 | 5 | 11 |
+| Newfoundland | 9,921 | 7 | 2 |
+| Bermuda | 28,269 | 13 | 10 |
+| Bahama Islands | 7,904 | 18 | 0 |
+| Windward and Leeward Island and Colonies | 346,108 | 9 | 0 |
+| Jamaica | 115,691 | 9 | 0 |
+| Cape of Good Hope | 177,043 | 13 | 0 |
+| Mauritius | 57,274 | 13 | 1 |
+| Mediterranean | 201,247 | 4 | 3 |
+| Gibraltar | 140,092 | 8 | 4 |
+| Sierra Leone and Gambia | 62,298 | 4 | 1 |
+| Heligoland | 6,371 | 2 | 6 |
+| 1,629,298 | 1 | 6 |
+| The revenue collected in these colonies amounted to | 1,926,850 | 0 | 0 |
+| Making the total expense | £.3,556,148 | 1 | 6 |
+
+In some of these colonies, a large revenue was collected by the local government, under an authority directly contrary to the spirit of the British constitution, which said, that no subject should be taxed but by an act of the legislature. They ought, therefore, either to be permitted to have a voice in the making laws for the government of their own affairs, or the amount of the revenue ought to be sanctioned by the House. By the accounts which the government had obtained within the last two years, it appeared, that the sum collected by the local government was so far from being equal to the expenses of the colonies, that, after nearly the whole of it had been laid out there, they required large remittances from this country. Upon reference to an abstract of the revenue and expenditure of Ceylon, the Mauritius, Malta and Gozo, and the Cape of Good Hope, it would be seen, that the amounts of their revenue and expenditure were as follows, during the years specified, viz:—

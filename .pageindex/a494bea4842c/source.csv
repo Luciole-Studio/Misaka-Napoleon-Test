@@ -1,0 +1,27 @@
+block,year,imports,exports,total,check_sum_equals_total,pct_of_1789_total
+G_french_trade_official_values_mfr,1787,551,440,991,OK,97.4
+G_french_trade_official_values_mfr,1788,517,466,983,OK,96.7
+G_french_trade_official_values_mfr,1789,576,441,1017,OK,100.0
+G_french_trade_official_values_mfr,1806,477,455,932,OK,91.6
+G_french_trade_official_values_mfr,1807,393,376,769,OK,75.6
+G_french_trade_official_values_mfr,1808,320,331,651,OK,64.0
+G_french_trade_official_values_mfr,1809,288,332,620,OK,61.0
+G_french_trade_official_values_mfr,1810,339,365,704,OK,69.2
+G_french_trade_official_values_mfr,1811,299,328,627,OK,61.7
+G_french_trade_official_values_mfr,1812,308,419,727,OK,71.5
+G_french_trade_official_values_mfr,1813,251,354,605,OK,59.5
+G_french_trade_official_values_mfr,1814,239,346,585,OK,57.5
+G_french_trade_official_values_mfr,1815,199,422,621,OK,61.1
+G_french_trade_official_values_mfr,1816,242,547,789,OK,77.6
+G_french_trade_official_values_mfr,1817,332,464,796,OK,78.3
+G_french_trade_official_values_mfr,1818,335,502,837,OK,82.3
+G_french_trade_official_values_mfr,1819,294,460,754,OK,74.1
+G_french_trade_official_values_mfr,1820,335,543,878,OK,86.3
+G_french_trade_official_values_mfr,1821,355,450,805,OK,79.2
+G_french_trade_official_values_mfr,1822,368,427,795,OK,78.2
+G_french_trade_official_values_mfr,1823,317,427,744,OK,73.2
+G_french_trade_official_values_mfr,1824,401,505,906,OK,89.1
+I_export_destinations_mfr,1806,269.927,464.904,465,附录I十五目的地合计占附录G出口总额 100.0%；体系内大陆市场占G总额 58.0%,58.0
+I_export_destinations_mfr,1810,281.333,376.104,377,附录I十五目的地合计占附录G出口总额 99.8%；体系内大陆市场占G总额 74.6%,74.6
+I_export_destinations_mfr,1813,159.549,353.648,354,附录I十五目的地合计占附录G出口总额 99.9%；体系内大陆市场占G总额 45.1%,45.1
+I_export_destinations_mfr,1817,156.689,322.364,464,附录I十五目的地合计占附录G出口总额 69.5%；体系内大陆市场占G总额 33.8%,33.8

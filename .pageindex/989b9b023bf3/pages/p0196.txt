@@ -1,0 +1,147 @@
+
+
+
+K 
+
+
+Keyserling,  Count,  i,  6 
+
+Kirwan,  Mr,  ii,  334 
+
+Klinger,  General,  i,  308 
+
+Kollontay,  Abbe",  i,  276 
+
+Kochanowski,  John,  i,  311 
+
+Kosciuszko,  i,  14,  31,  53,  56,  68,  81,  147, 
+
+148,  150,  275  ;  ii,  320 
+Kotchoubey,  Count,  i,  258,  259,  261,  267, 
+
+276,  279,  282,  284,  299,  300 ;  ii,  26,  89, 
+
+90,  162 
+
+Kourakin,  Prince,  i,  71,  228,  234 
+Krasinski,  Count,  i,  30 
+Kutayschoff,  i,  184,  186,  190,  195,  225, 
+
+234,  281 
+Kutusoff,  General,  ii,  97,  101,  103,  106, 
+
+107,  127 
+
+
+Laharpe,  M.  de,  i,  111,  128,  129,  130, 
+
+262-4,  273 
+
+Langeron,  M.  de,  i,  255 
+Lansdowne,  Marquis  of,  ii,  269,  274,  278, 
+
+318 
+
+Lapoukin,  Princess,  i,  186 
+Lavalette,  Count,  ii,  242 
+Leopold,  Archduke,  i.  47 
+Lesseps,  M.  de,  ii,  174 
+Levaschoff,  General,  i,  194,  217,  224,  225 
+Liechtenstein,  Prince  John  of,  ii,  107^ 
+Lieven,  General,  ii,  109 
+
+Prince,  ii,  318,  325,  327,  330 
+
+Princess,  ii,  318-20,  330 
+
+Ligne,  Prince  de,  i,  14,  66 
+
+Lind,  John,  ii,  298 
+
+Litta,  Count,  i,  189 
+
+Liverpool,  Lord,  ii,  286,  319 
+
+Louis  Philippe,  ii,  350 
+
+Lubomirski,  Prince,  i,  1,  30,  33,   74,  80 
+
+82 
+Lubomirska/Princess,  i,  19, 28, 199 ;  ii,  92 
+
+93 
+
+
+,ucchesini,  M.  de,  i,  111,  128,  129,  130, 
+262-4,  273 
+>ytton,  Lord,  ii,  334 
+
+
+M 
+
+
+Macintosh,  Sir  J.,  ii,  302,  335 
+Mack,  General,  ii,  81,  97,  102 
+Malta,  i,  188,  270 ;  ii,  37,  39,  74,  75-9, 
+
+86,95 
+
+Maisonneuve,  M.  de,  i,  189,  190 
+Malmesbury,  Lord,  ii,  349 
+Mansfield,  Lord,  i,  14,  50 
+Marie,  Grand-Duchess,  i,  87, 124 
+Markoff,  Count,  i,  134-36,  295,  334-36; 
+
+ii,  3,  6,  171 
+Martin,  Mr,  ii,  300 
+Massalski,  Bishop,  i,  29,  30 
+Mehemet  Ali,  ii,  341 
+Melbourne,  Lord,  ii,  318 
+Memel  Interview,   i,  281,  282;  ii,  122, 
+
+125 
+
+Metternich,  Prince,  ii,  329,  342 
+Michael,  Grand-Duke,  ii,  233,  235 
+Michelsen,  General,  ii,  97,  99 
+Miloradovitch,  General,  ii,  107,  109 
+Milton,  Lord,  ii,  263 
+Minto,  Lord,  i,  202 
+Mirza,  Abbas,  ii,  333 
+Mniszek,  Count,  i,  151,  152 
+Montalivet,  M.  de,  ii,  196 
+Moore,  Tom,  ii,  277,  278 
+Morny,  M.  de,  ii,  358 
+Morpeth,  Lord,  ii,  336 
+Mouravieff,  M.  de,  i,  132,~,309 
+Mulgrave,  Lord,  ii,  70,  73,  78,  80 
+Murat,  i,  225 
+
+
+N 
+
+
+Napoleon  I,  i,  205, 206, 225,  270,  272,  273, 
+329,  331,  335,  336 ;  ii,  13-15,  17,  21-23, 
+29,  33,  69-71,  81-3,  85-96,  99-101, 
+114-16,  118-21,  123,  126,  127,  133-35, 
+139-42,  146-52,  157,  159,  160,  161, 163, 
+166-6!),  173, 174-76, 182,  184-87, 190-92, 
+198-200, 209,  210, 216-21, 225  42,  268-75, 
+285,  294,  349 
+
+Napoleon  III,  ii,  349,  360 
+
+Narishkin,  Leo,  i,  63,  87,  285 
+
+Nelidoff,  Mdlle,  i,  174,  185-87 
+
+Nelson,  i,  249,  271 ;  ii,  37 
+
+Nesselrode,  Baron,  ii,  338 
+
+Nicholas,  Emperor,  i,  124 ;  ii,  313,  314, 
+322,  323,  327-29,  336,  338 
+
+Niemcewicz,  J.  U.,  i,  35,  49,  81,  140; 
+ii,  319,  320,  321,  335 

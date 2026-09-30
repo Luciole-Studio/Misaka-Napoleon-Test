@@ -1,0 +1,47 @@
+---
+source_url: "https://www.persee.fr/doc/rhmc_0048-8003_1972_num_19_1_2186"
+final_url: "https://www.persee.fr/doc/rhmc_0048-8003_1972_num_19_1_2186"
+provider: "exa"
+text_sha256: "34374ec3ee971e5c2e8822c52bc26f6dc20d84f0d4cf4d3b450f884a035e3495"
+title: "Guerre et commerce : l'activit\u00e9 du port de Bordeaux sous le r\u00e9gime des licences, 1808-1815 - Pers\u00e9e"
+content_kind: "page_text"
+---
+
+Guerre et commerce : l'activité du port de Bordeaux sous le régime des licences, 1808-1815 - Persée
+
+#### [article]
+
+ Paul Butel 
+
+ Revue d’Histoire Moderne & Contemporaine Année 1972 19-1 pp. 128-149 
+
+ Butel Paul. Guerre et commerce : l'activité du port de Bordeaux sous le régime des licences, 1808-1815. In: Revue d’histoire moderne et contemporaine, tome 19 N°1, Janvier-mars 1972. pp. 128-149.
+
+ www.persee.fr/doc/rhmc_0048-8003_1972_num_19_1_2186
+
+### Plan
+
+1. I. — Les licences et le relèvement de l'activité de Bordeaux en 1809- 1810 [link]
+2. II. — Les types d'armement : un exemple, la maison Charles Fieffé (1809-1811) [link]
+3. III. — Le commerce franco- anglais à Bordeaux en 1812 et 1813 [link]
+
+1. A) Les exportations de vins par les négociants [link]
+2. B) Les importations de denrées coloniales d'Angleterre en 1812 et 1813 [link]
+4. IV. — Le commerce entre Bordeaux et les États-Unis de 1811 À 1814 [link]
+5. V. — Les opérations d'un armateur bordelais sous les licences de 1812-1813 [link]
+
+### Texte intégral
+
+ GUERRE ET COMMERCE :
+
+ L'ACTIVITÉ DU PORT DE BORDEAUX
+
+ SOUS LE RÉGIME DES LICENCES, 1808-1815
+
+ Au début du Consulat la situation de Bordeaux paraissait très difficile : ses armateurs avaient été frappés par la législation de répression de 1793 et par la guerre maritime et avaient, pour la plupart, abandonné toute activité commerciale 1. La paix de 1802 provoqua, par contre, une reprise remarquable du trafic aussi bien colonial qu'européen et ses effets heureux ne furent pas complètement annihilés par la reprise des hostilités avec l'Angleterre en 1803 : l'utilisation des bâtiments neutres, surtout américains, la neutralisation de navires français et l'absence d'un véritable blocus du côté anglais permirent aux Bordelais de soutenir une partie de leurs 2.
+
+ En revanche, l'instauration d'un blocus maritime très strict à partir de 1807 et les mesures d'embargo décidées par le gouvernement français à l'encontre des navires neutres dès 1806 arrêtèrent pratiquemnt tout trafic en 1808 3. Cependant, dès cette date, certains négociants bordelais, la plupart armateurs de fraîche date et ne risquant pas de gros capitaux, tenter de frauder le blocus officiel. Utilisant des navires neutres confisqués et obtenus en adjudication à bon compte, ces négociants les expédièrent sous destination simulée vers un port de l'Europe du Nord ; les bâtiments étaient, en réalité, dirigés vers l'Angleterre sous le couvert de licences d'importation distribuées assez libéralement par le Privy Council en 1808 4.
+
+ BORDEAUX SOUS LE REGIME DES LICENCES, 1808-1815 129
+
+ Si une relance du commerce maritime en crise était tentée par le impérial dans l'expérience de l'armement en aventure pour le négoce colonial, ce fut la politique de fraude du blocus, officialisée par le système des licences napoléoniennes à partir de 1809, qui permit à Bordeaux de retrouver une partie de son ancienne activité.

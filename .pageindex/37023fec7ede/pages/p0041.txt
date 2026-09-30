@@ -1,0 +1,40 @@
+G.2     National identity
+The existing historiography on the pervasiveness of draft-dodging in Napoleonic
+France identifies one main alternative explanation for the variation in draft-dodging
+rates across the country: culture (Forrest 1989). As the reaction to the revolution
+made clear, the country was all but in agreement when it came to the religious sensi-
+bility of the local populations, their attachment to revolutionary ideals, and even to
+their national identity. Varying cultural values, social norms, and attitudes may have
+generated variation in the response to the conscription effort. As Levi (1997, p.5)
+puts it, “Debates over the introduction of obligatory military service in democracies
+rehearses themes of ennobling self-sacrifice, nationalism, and the superiority of the
+needs of the state to the rights of the individual.”
+    Variation over cultural traits may affect the propensity to desert of the population
+across departments. For example, departments with stronger popular support for the
+regime or with a more ardent sense of French national identity may experience lower
+draft-dodging rates. Because national identity, ideology, or adherence to the regime
+could be negatively correlated to ruggedness on the one hand and conscription choice
+and draft-dodging on the other, not controlling for national identity could lead us
+to overestimate the effect of ruggedness. Hence we use data measuring how strongly
+people in each department identified as French and data measuring support for the
+new revolutionary ideology.
+    To test for the national identity hypothesis, we rely on data from Johnson (2015),
+who draws from Hyslop (1934), on the regional identification of the population with
+the French Crown or the French state on the eve of the revolution. In preparation
+for the Estates Generals of 1789, the capital of each French district was to collect
+grievances from the local population and communicate them to the national assembly.
+This resulted in a collection of documents known as Cahiers de Doléances.
+    Based on these documents, Hyslop (1934) creates an index for national identity
+across French localities, which Johnson (2015) codes as having values of 3 for localities
+with strong patriotism, 2 for those with mixed loyalties, 1 for those with strong local
+identities, and “missing” for those presenting no significant loyalties, either their local
+identity or to the Crown. Hyslop (1934) recorded whether the topic is mentioned in
+the general cahier of the that electoral city for that estate. Thus, missing values are
+really missing, not zeroes. Following Johnson (2015), we spatially interpolate the
+150 observations for city-level measures of national identity. We show the results in
+figure 10. We then create a new variable for the average measure of national identity
+at the departmental level and add it to the specifications of tables 1 and 4.
+    Our measure of national identity is consistent with broad historical evidence
+regarding national identity: Basque country, Brittany and Alsace, which were regions
+
+                                            41

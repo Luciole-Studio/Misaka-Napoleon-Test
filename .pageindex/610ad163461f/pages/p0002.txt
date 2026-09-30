@@ -1,0 +1,22 @@
+
+
+## 3. Cochrane–Miranda 1806-06-09 互换文书（印 pp.419–421；行 19640–19710）
+英国现场指挥官为"扶植独立"开出的**价目表**（对本卡③⑫与"英国扶植条件"直接承重）：
+- 【事实·亲读】英方提供："I agree to support your landing in any part of America between Trinidad and the coast opposite to the Island of Aruba, with such a naval force as I can afford, which will be **at least a sloop of war and two brigs, and probably a frigate**"，另允许在巴巴多斯与特立尼达募兵。
+- 【事实·亲读】索取的回报：独立后各省须给予英国**与本国居民同等的贸易特权**，且"positively, and to no other power (**the United States of America excepted**, if you shall so incline)"；他国船舶加征 **10% 附加税**；与英作战的同盟国船舶**不得入港**；直到正式通商条约签订为止；英国臣民追索债务须获政府协助、可持有并处分地产房产且**免一切税**；英国可派驻领事（印 pp.420–421）。
+- 【事实·亲读】米兰达 1806-06-09 复函全盘接受："I hereby bind and oblige myself, as far as my authority can extend, to see the same carried into execution."（印 p.421）
+- 【事实·亲读】同年 9 月 22 日 Dundas 舰长通知米兰达：若不立即撤离阿鲁巴，"the British naval force must be altogether withdrawn"，补给只够"carrying the expedition to some port of safety"（印 pp.421–422）→ **英国支持是可随时撤回的、由现场军官掌握的开关。**
+
+## 4. 无名氏〈River de la Plata〉军事情报（印 pp.422–425；行 19750–19940）
+编者注："This paper, without date or name, is evidently by a foreigner well acquainted with the subjects of which it treats."
+- 【事实·亲读】人口：蒙得维的亚 7,000–8,000；马尔多纳多 3,000–4,000（守军 360 民兵）；**布宜诺斯艾利斯"not less than 60,000 souls, including nearly 10,000 blacks"**（印 p.423）→ **黑人占比约 1/6**，本卡⑦的硬数。
+- 【事实·亲读】要塞：布城唯一工事 "Il Fuerte"，砖造正方四棱堡，炮 40–50 门 24 磅；是"the usual residence of the vice-king, and **the depository of the royal treasure**"（印 p.423）。
+- 【事实·亲读】**兵力表（印 p.424）**：fixed regiments（"called Veterans, but in fact composed mostly of natives, and, consequently, unused to real service"）骑 1,527／步 1,800／合 3,327；disciplined militia 720／1,010／1,730；龙骑兵团 800；disciplined volunteers 720／690／1,410；合计 3,767 骑／3,500 步／**9,191**（表列另有 1,924 一项，OCR 列错位，按作者小计 9,191 使用）；外加邻省（巴拉圭、图库曼）骑兵民兵约 **9,000**（"most excellent horsemen, but without discipline"）→ **总计 18,191**。
+- 【事实·亲读】英方所需："The force destined to the attack on Buenos Ayres should consist of **12 to 14,000 men**"（步兵 10,000 + 轻步兵与飞炮 2,000 + 下马轻骑 2,000 = 14,000），另需**足以武装 20,000 步兵与 10,000 骑兵的枪械**，"so that a **native force** might be immediately and properly organized"；舰队须多配巡防舰与小船（印 pp.424–425）。
+  → **量化接口**：扶植式方案的物资核心不是英军人数而是**3 万人份武器**；与爱尔兰卡（IE：2 万人 + 4 万支枪）同构。
+
+## 5.〈Produce of the Mines of Spanish America, in 1806〉（印 pp.451–452；行 21038–21075）
+- 【事实·亲读】墨西哥 1806：金 1,352,348 dollars + 银 23,383,672 = **24,736,020**；附注"This is less than the usual produce, the average of several preceding years being about **twenty-seven millions of dollars**"。韦拉克鲁斯距墨西哥城 220 英里。
+- 【事实·亲读】秘鲁：列 1780–89 十年金银产：银器 602,130 + 银锭 29,126,024 + 金 4,424,035，合 34,152,189，文内却写作 "Annual produce, about 34,152,189"，编者加脚注 "So in MS."
+  【口径警告】**该行系英方抄件自身的算术/标注错误**：34,152,189 若为十年合计则秘鲁年产仅约 341 万 dollars 量级（与 Humboldt 秘鲁年产约 500 万 pesos 的数量级可对照），若真为年产则与墨西哥相比严重失真。本卡一律按"十年合计被误标为年产"处理，并以此作为**英国对南美经济情报质量的证据**：伦敦手上的南美数据是二手、陈旧（1780s）且未经校核的。
+- 【事实·亲读】卡塔赫纳为圣菲（新格拉纳达）出海口，距 200 余英里，"the quantity of treasure collected or produced in this district is not great, perhaps not much exceeding **a million of dollars per annum**"；拉普拉塔是**波托西白银的出口口岸**、皇家国库存放地与西班牙最富商号的所在（印 p.452）。

@@ -1,0 +1,53 @@
+
+
+## 跨卡接口与旧轮复用
+
+- **F2**：本轮《法国陆军能维持多大的欧洲？》，`nodes/r_5b1357a9c6/cards/t_0e763d/F2_french_army_capacity.md`，已读§①–⑯主体及最终§③修订。另读同目录`F2_joint_budget_manpower.csv`与`notes_postsubmission_interfaces.md`。40–55万法国建制、15–25万盟军为人力包络；财政联算已将初期主线压至40–45万法国＋20–25万可靠盟军。F4复算300m/700、q=.85、20万盟军三项余额，不将这类条件模型当实际和平军费账。
+- **F3**：`nodes/r_5b1357a9c6/cards/t_b1a536/`的海军材料及通信。170–220为协作规划区间；Todorov源文已独立复读。H/A12/I舰数不由本卡重算。
+- 旧C9：`nodes/r_b55f2c1cf5/cards/t_bef693/c9_war_finance.md`、`extraction_evidence.md`、`SOURCES.md`；旧C4：`nodes/r_b55f2c1cf5/cards/t_95ef51/fr_crisis_checks.md`；旧C15：`nodes/r_b55f2c1cf5/cards/t_f81a6f/`。这些是研究导航，不当独立史源。
+- 本卡摘录底稿：`f4_evidence_notes.md`（有界代理七条摘录）、`notes_marion_model.md`、`sources/retrieval_notes.md`。正文使用了相应内容，但代理未核原档的限制全部保留。
+
+## 档案谱系：均未亲阅原件
+
+|系列／卷号|本卡实际读取的中介|用途及限制|
+|---|---|---|
+|Archives nationales, AF IV 1069|Marion p.304|Gaudin烟草专卖主张|
+|AN AF IV 1072|Marion pp.298、321、343|直接/间接税、兼并收入预期、年金持有结构|
+|AN AF IV 1078|Marion p.305|droits réunis征收成本|
+|AN AF IV 1080|Marion p.306|关税、咖啡棉花贸易、特别海关收益|
+|AN AF IV 1085|Marion pp.320、324|西班牙汇款、军费不同账目|
+|AN AF IV 1251|Marion p.305|An XIII毛产品且作者自己存疑|
+|AN AF IV 1192/8、AF IV 1208/36–38|Todorov p.24注116|1810–1814海军计划预算|
+|Archives de la Banque de France；AN AF IV 6/1070|Plessis脚注|银行章程/设立争论；未用档名假装原件取证|
+|Bulletin des lois IV(1808), texte3207|SG；另核Heraldica转录|majorat制度|
+|Gotteri编Savary警察报告1812年1–6月卷p.337|Branda B12注12|5月粮食申报担忧；非全法国舞弊观察|
+|Mollien *Mémoires*, I/III；Gaudin回忆与财政报告|Marion、BW、H|回忆录一律回溯性；当时报告与后来记述区分|
+|Schmidt, *Le Grand-duché de Berg*, app.E；Zeyss p.367/附录VIII|Heckscher pp.313–315|1811商会请愿，原件及原编未阅|
+
+## 不采用为校准的来源与剩余缺口
+
+1. **An XII网页表**：Napoleon Series `c_an12a.html`、`c_an12c.html`，书目自列Alexandre de Ferrière的1805统计档案。该网页将一般收入扣虚记款后的763,191,462误称“一般及特别”实际款，按其行数不能配平；收入还含旧年度补收。保留于`retrieval_notes.md`，未作为T初值或税类实收校准。
+2. **Gabillard p.557图**：403/空返回，无视觉核验；Marion表为独立实际读取的替代，不称已经恢复Gabillard图。
+3. **Bergeron全文**：OpenEdition只得Anubis验证页；不将`downloads/pages/8270fb75bad9.md`计入文献证据。Ternaux危机立场及巴黎商会原件仍缺。
+4. **OFCE转Branda概述、Ouvrard/Rikir财政网页**：作为定位线索；其不同支出、债务口径未采用为统一账。网页文字错误不回写Marion原表。
+5. **地产和公债投资组合**：没有工商精英危机前后的连续微观账；禁止声称总体“由工业转公债”。
+6. **S6地区参数**：仍为示例压力测试；D1/D2应替换税力、债息、驻军及整合成本，不给每百万欧洲人套一个净额。
+7. **Marion源内张力**：p.305的172.763591（exercice）与149.627795（12个月现金）同属An XIII，已按两行分列并加算术比值行，但因账期长于十二个月而不当欠缴率。p.324军费不同来源不调和；p.321分地区份额未逐项声明毛净，只以加总推断更近毛口径。
+
+## CSV与复算契约
+
+文件`F4_fiscal.csv`由同目录`build_f4_fiscal.py`生成，UTF-8 BOM。列：id、record_type、scenario、period、territory、series、value/low/high、unit、basis、source_id、locator、formula、notes。
+
+- 模型与史料分行；缺测空值；同一源表的总计、分项均保留，使用者不得再次相加。
+- S0的“作者模型”指Branda对史实避免费用的估计，不是直接观察；S5/S6“模型”才是本卡反事实。
+- 主报告表中未来金额圆整；CSV留小数仅便复算，不代表预测精度。
+- 金额的百万单位、票息/本金、毛/净、权利/实收的差异均在basis/notes保留；每行地域均应独立可读；核心模型不使用`同上`代替边界。
+- 常规重生成命令：`python3 nodes/r_5b1357a9c6/cards/t_9f10b6/build_f4_fiscal.py`。
+- 算术审计、引文18项抽核、本轮撤销的自我记录及剩余缺口均记于`f4_audit.md`；机械通过不意味着史料无误、因果已识别或反事实已经实现。
+- 旧副本`notes_marion_model 2.md`保留已被修正的数值与页码，已加抬头声明，不作最终依据、不计独立来源。
+
+## 提交后补订新增来源（仅用于补订章节）
+
+### LZ — Thierry Lentz，拿破仑元老院（网页）
+
+Thierry Lentz, 《Le Sénat de Napoléon》相关网页文本，保存`downloads/pages/22fe9f35feb4.md`（由F5 t_7c3954取得并转来，本卡实读其正文与附录2）。

@@ -1,0 +1,54 @@
+---
+source_url: "https://www.abs.gov.au/Ausstats/abs@.nsf/46d1bc47ac9d0c7bca256c470025ff87/1476d522ebe22464ca256cae0015bad4!OpenDocument"
+final_url: "https://www.abs.gov.au/Ausstats/abs@.nsf/46d1bc47ac9d0c7bca256c470025ff87/1476d522ebe22464ca256cae0015bad4!OpenDocument"
+provider: "exa"
+text_sha256: "c55a92b4ebfb7bad4c01d82299c315c69b5eae58d234222e00f318e54beb8c72"
+title: "1301.0 -  Year Book Australia, 2003"
+content_kind: "page_text"
+---
+
+1301.0 - Year Book Australia, 2003
+
+1301.0 - Year Book Australia, 2003 
+
+ARCHIVED ISSUE Released at 11:30 AM (CANBERRA TIME) 24/01/2003 
+
+- About this Release
+- Contents
+- Towards sustainability - an overview (Feature Article)
+- Climate change (Feature Article)
+- Should the House of Representatives have a four-year terms? (Feature Article)
+- 11 September 2001 - consequences for Defence (Feature Article)
+- Reserves and Cadets (Feature Article)
+- Labour force experience (Feature Article)
+- Work-related injuries (Feature Article)
+- An ageing Australia (Feature Article)
+- Disability among adults 15-64 years (Feature Article)
+- Cardiovascular disease: 20th century trends (Feature Article)
+- Work-related training (Feature Article)
+- Full-fee paying overseas students (Feature Article)
+- Weapons used against victims of crime (Feature Article)
+- Australia's rivers (Feature Article)
+- Renewable energy in 2003 (Feature Article)
+- Environmental impacts of agriculture (Feature Article)
+- The wool industry - looking back and forward (Feature Article)
+- Forest conservation (Feature Article)
+- Sustainable forest management (Feature Article)
+- Fishing and the environment (Feature Article)
+- Aquaculture and the environment (Feature Article)
+- A decade of Australian exploration expenditure - 1991-92 to 2000-01 (Feature Article)
+- Mining and the environment (Feature Article)
+- Manufacturing and the environment (Feature Article)
+- The WasteWise Construction Program (Feature Article)
+- Attitudes of residential builders to energy issues and usage (Feature Article)
+- The use of forest products (Feature Article)
+- Construction and the environment (Feature Article)
+- Sports industries (Feature Article)
+- Sustainable tourism in Great Barrier Reef Marine Park (Feature Article)
+- Environmental impacts of Australia's transport system (Feature Article)
+- Recent tax reforms (Feature Article)
+- Beyond GDP: Towards wider measures of wellbeing (Feature Article)
+- Accounting for the environment in the national accounts (Feature Article)
+- Ian Kiernan launches environment focused 2003 Year Book Australia (Media Release)
+
+The wool industry - looking back and forward Introduction It is widely accepted that Australia produces the world's best quality woollen fibre: Australian merino wool. The reasons behind Australia's high quality wool can be attributed to many factors, but are predominantly the experience and expertise of Australian farmers in selecting superior animals for breeding purposes, and in using the harsh Australian climate to produce clean, fine wool of high strength. Sheep have been part of the Australian scene almost since the first fleet arrived at Botany Bay in 1788. In 1800, the colony's number of livestock was recorded as 203 horses, 1,044 cattle, 6,124 sheep and 4,017 pigs. However, it was not until the 1820s, when Australia imported around 5,000 merino sheep from Saxony, France and England, that the foundations of the Australian wool industry were laid. Preliminary ABS data show that at 30 June 2001 Australia had approximately 111 million sheep and lambs and accounted for around 9% of world sheep numbers. However, this modest contribution to world sheep numbers understates Australia's dominance in the world's top quality woollen fibre market; Australia produces over 50% of the world's merino wool. In terms of total wool production (i.e. shorn wool plus dead and fellmongered wool and wool exported on skins), Australia produced approximately 645,000 tonnes of greasy wool in the 12 months ending 30 June 2001, or around 27% of the world's yearly output of greasy wool. Historically Australia has exported over 90% of its wool clip. Of the 146,000 establishments with agricultural activity (establishments with an estimated value of agricultural operations of $5,000 or more) operating in Australia at 30 June 2000, approximately 53,000 produced wool (table S16.1), from an average flock size of 2,200 sheep. According to Australian Bureau of Agricultural and Resource Economics (ABARE), specialist wool producers number around 14,000 and account for 34% of Australian wool production. Total wool production in 2000- 01 was valued at $2.5 b or around 7% of total agricultural output. 

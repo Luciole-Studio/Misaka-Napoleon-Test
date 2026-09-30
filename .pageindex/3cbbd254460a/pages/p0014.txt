@@ -1,0 +1,44 @@
+The numbers of oxen have been calculated on the basis of national statistics from 1930 that
+record 29% of all ‘bovine animals’ were employed for draught power. Each bovine animal is
+treated as two-thirds of an ox for ‘horse equivalent’ and energy calculations. This rests on the
+assumption that roughly half of draught cattle are oxen, and half are cows, and that a cow is
+equivalent to a third of an ox. The beasts were both extensively used and might be yoked
+together.25
+
+
+Spain
+
+
+        Year                Horses            Oxen              Mules           Donkeys         Horse Equivalents
+       1870
+                             435               928               861              1038                 2055
+       1880
+                             360               886               792               958                 1866
+       1890
+                             284               843               767               878                 1719
+       1900
+                             322               801               741               798                 1686
+       1913
+                             378               847               709               694                 1696
+
+Horses, mules and donkeys
+
+
+National statistics provide figures for total numbers of horses from surveys conducted in
+1865, 1880, 1890, 1900, and 1910. A deduction of 15% from the number of was made to
+account for foals, although in the statistics collected this proportion has varied historically
+between 21% and 10%. It is assumed that 85% of the adult horses are used for agricultural
+draught work, thus a little higher proportion than in Sweden and Germany. Survey data from
+1863 suggest that in total around 80 000 horses and mules were used in the professional
+transport sector, and 50 000 donkeys. Data on mules and donkeys was collected in 1865 and
+1910, with intervening benchmark years linearly interpolated. It is assumed that 80% of
+mules and donkeys are used for draught power.26
+
+
+Oxen and cows
+
+
+25 Malanima, P., Energy Consumption; Colman, The agriculture and rural economy, p.273; Pallavicini, Del cavallo in Italia,
+
+pp.30-45.
+26 Barciela López, et al ‘Sector Agrario y Pesca’, Cuadro 4.25; Gomez Mendoza, ‘The role of horse’.

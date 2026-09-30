@@ -1,0 +1,69 @@
+
+
+【文献推断｜Sorel，经Driault批评与引文呈现】Driault 1906年评论将Sorel论点概括为：革命法国的自然疆界使欧洲长期敌视，拿破仑连续战争在很大程度上是保卫既得疆界；他还转引Sorel卷VIII p.118“choisir entre une lutte à mort et le retour pur et simple de la France à ses anciennes limites”。[S12 pp.177–181]
+
+**最强反对意见：**【模型推演】即使法国宣告停止扩张，对手仍可能把莱茵线、低地和法国对邻国的军事影响视为不可接受；单方面自限会损失筹码，却未必换来英国与俄国认可。此风险不能以“拿破仑贪婪”一语抹掉。
+
+### 2. 反证与本卡裁量
+
+【文献推断｜Driault】评论指出1813文件中的最大愿望、谈判条件和正式方案不能混同；“合法边界”也不能未经论证译为旧王朝疆界。他认为放弃Grand Empire未必须同时放弃革命时期法国疆界。[S12 pp.178–183；仅为1813镜像，非倒推1805必然可成交]
+
+【裁量｜中】现有材料较支持**边界结构约束与追加要求、联盟自主性损害共同作用**，而非地理决定全部战争。1806有具体条件争议和批准冲突，1808有政权承认障碍；这比“列强永远不容法国强大”的无条件命题更贴近已读材料。反过来，一次法国让步也不能证明体系永久稳定。
+
+【证据缺口】Schroeder原文和Sorel全卷均未直接取得，本节是Jervis、Driault及Dard提供的有出处间接对照，**不是两部原著的充分精读验收**。Dard倾向塔列朗／君主制传统，Butterfield此章措辞强烈批评拿破仑，Driault是Sorel批评者，Jervis为追忆评述；不能用这些材料的赞成人数当裁决。
+
+## 七、可供C17装配的分支与“落锁”清单
+
+### 分支A：1805有限大陆优势，不把东方补偿当免费资源
+
+- 【当时锚点】10月17日草约2–3条与12月5日保全奥地利意见，转引Dard。[S6]
+- 【模型推演】保留军事胜利，但接受明确领土上限、批准后实际分离法意王冠；以奥地利安全为持续交换条件。法国在欧洲占优势，不等于吞并或强制同盟覆盖所有国家。
+- 【裁量｜中】选择本身具有文献基础；奥方接受和长期维持为中低；若连同夺取奥斯曼补偿地全部实施，降为低，因新增第三方战争及俄国反应未经解决。
+- 【失败条件】法国另找合并途径、奥国认为其安全仍受威胁、英方低地／海权要求无交集，或东方补偿引起更大联盟。
+- 【最小改写警告】只采纳草案的西方自限、删去东方战争，是研究者拆包，不是已证完整同时代方案，须C17明确登记，不能称“原封采纳塔列朗”。
+
+### 分支B：1806共同和平，不以Fox存活作唯一分岔
+
+- 【当时锚点】实际发生的Fox–Yarmouth–Lauderdale交涉；英方西西里、汉诺威和共同媾和条件；当时议会要求书面固定基础。[S8–S9]
+- 【模型推演】先解决各方代表权与批准，将西西里保留／获君主同意的补偿、汉诺威恢复的普方后果及俄国条件放入同一成交框架；冻结实际占有基准与例外，不随下一场胜利单方加价。
+- 【裁量｜低至中】有真实谈判窗口，但尚无已核四方都接受的完整包。俄国拒批、英方提高要求、普法战争可分别使其失败；不能给“和平已近在眼前”的高概率。
+
+### 分支C：1807以后有限整固，1808不另造西班牙承认危机
+
+- 【当时锚点】1807–1808已有条约的撤军／主权安排；1808公开邀请和拒绝链确证西班牙代表资格之重要。[S2–S5、S10]
+- 【模型推演】保留对法有利大陆安排，却履行撤军及停止追加征款；不以法国指定西班牙新王的承认作英方入场条件。与俄国的东部问题另交C12、C18，不能由本卡宣布已解决。
+- 【裁量｜中】减少特定破裂来源有较强机制依据；英国正式接受法国大陆优势为中低，继承后长期稳定仍未验证。它与严厉、无限扩张的大陆封锁执行可能冲突，交C4/C15/C17处理。
+
+### 机制清单：哪部分有当时先例
+
+|措施|证据资格|仍需付出的真实代价|
+|---|---|---|
+|写明领土上限，堵住购置、交换、合并的迂回|1805草约第2条，同时代文本转引|法国放弃未来机会；尚无第三方强制执行装置|
+|立即分离法意王冠|1805草约第3条；实约5条有条件分离作对照|皇帝让渡直接统治与部分军事财政控制；不能一面立即分冠一面永久兼王|
+|撤军日历、明确债务清偿规则、不临时加码|1805、1808、1809均已有条文|需替代占领区供给与征款；财政缺口交C9/C14|
+|明确盟约战争触发、保留他方判断空间|埃尔福特最终10条与回忆草案比较|法国少一项把俄国拖入战争的工具；不保证援军意愿|
+|盟友同意、批准、代表资格进入成交条件|1806、1808外交和议会文书|承认西西里、西班牙、俄国并非可由法英随意处分的筹码|
+|占领硬终期及三年审查|仅1815后出镜像|不能冒称1803案头已有此完整方案|
+|多边常设仲裁、违约自动制裁、公开预算约束|本卡未找到相应拿破仑阵营完整提案|只可作现代分析建议，不纳入“已证当时桌面分支”|
+
+【模型推演】真正的“锁”应让其他君主愿意投资于现状，并让法国修改现状的代价上升。联姻、保证文字、军事胜利各能贡献一部分，但没有一项自动完成这一任务。若路线需要拿破仑十余年连续接受不合其即时利益的限制，C17必须把它记为持续行为改变，而非一次“聪明决定”。
+
+## 八、引文定位及材料状态
+
+以下均为实际阅读版本；未亲见原档均明示。网址与本地捕获保留于源文件头。
+
+- **S1** 普雷斯堡，1805-12-26，Fondation Napoléon法文转录全文1–24及单独附条：`downloads/pages/477ba54e881b.md`；https://www.napoleon.org/histoire-des-2-empires/articles/le-traite-de-paix-de-presbourg-26-decembre-1805/ 。对照MJP `45df93c6e187.md`，https://mjp.univ-perp.fr/traites/1805presbourg.htm ，后者称据de Clercq t.2 p.146，印本未亲读。
+- **S2** 法普提尔西特，1807-07-09，英文转录I–XXX：`downloads/pages/4b40ca3af7f7.md`；https://www.napoleon.org/en/history-of-the-two-empires/articles/treaty-between-prussia-and-france-tilsit-9-july-1807/ 。译文底本未明；不与法俄7月7日文本混同。
+- **S3** 巴黎法普协定，1808-09-08，正文及附条：`downloads/pages/0964a00115c5.md`；https://napoleon-histoire.com/traite-entre-la-france-et-la-prusse-pour-le-reglement-des-contributions-de-guerre-loccupation-de-trois-places-fortes-et-la-reconnaissance-des-rois-despagne-et-de-naples/ 。单一完整转录，疑误见本报告及附件。
+- **S4** 维也纳／申布伦，1809-10-14，正文及附约：`downloads/pages/603b19b5b0f9.md`；https://www.napoleon.org/histoire-des-2-empires/articles/document-traite-de-paix-de-vienne-14-octobre-1809/ 。网页据Kerautret《Les grands traités de l’Empire》2004，书本未亲读。英译 `e5074feabef0.md`，网页称据Cobbett’s Political Register XVI；另一法文 `1d18408afeda.md` 可能同源。
+- **S5** 埃尔福特，1808-10-12，全文14条：`downloads/pages/e6fecc9325ac.md`；https://www.napoleon.org/histoire-des-2-empires/articles/convention-franco-russe-derfurt-12-octobre-1808/ 。对奥义务为10条，11条是奥斯曼其余领地条款。
+- **S6** Émile Dard，《Napoléon et Talleyrand》，第三方全文OCR转录：`downloads/pages/0cfeffeb04dc.md`；https://pdfcoffee.com/napoleon-et-talleyrand-dard-emile-pdf-free.html 。亲读第VI章相关pp.130–143、注90–98及第XIII章pp.259–270；页码是文本内印刷页标，未影像核。Bertrand p.156起、AAE往来、Floret/Nesselrode材料均经Dard转引，未冒称独立原件。
+- **S7** Talleyrand回忆1805段，现代转录及编注：`downloads/pages/22b6c0607a18.md`；https://napoleon-histoire.com/talleyrand-raconte-sa-campagne-de-1805/ 。全部回忆性，2017为网页发表年。
+- **S8** HL Deb 2 January 1807，vol.8，相关cc259–278（重点264–273），`downloads/pages/85d915a3148f.md`；https://api.parliament.uk/historic-hansard/lords/1807/jan/02/negociation-with-france 。参与者公开辩护，不是完整秘密训令；文本姓名标签有缺失。
+- **S9** H. Butterfield，《The Peace Tactics of Napoleon 1806–1808》，Cambridge UP，1929，公开OCR pp.32–41；`downloads/pages/83caafca03de.md`；https://archive.org/stream/peacetacticsofna0000hbut/peacetacticsofna0000hbut_djvu.txt 。并未精读全书或校扫描。FO、Dropmore、Sbornik及Holland回忆均转引，Holland另属回溯性材料。
+- **S10** HC Deb 20 January 1809，vol.12，cc93–105，外交文件No.I–XXI及1808-12-15声明；`downloads/pages/5ab65f0d1e5e.md`；https://hansard.parliament.uk/html/Commons/1809-01-20/CommonsChamber 。引文采用通信原日期，非议会刊日。
+- **S11** Robert Jervis，“Paul Schroeder: Bringing Moderation, Morality, and Progress Back In”，H-Diplo/ISSF Forum 28；`downloads/pages/a973c8fab9ef.md`，文件约148–176行；https://issforum.org/forums/28 。是Jervis对Schroeder的解释，不是Schroeder本人原句。原论文DOI 10.2307/1986040仅题录，未读正文。
+- **S12** J.-E. Driault，“Napoléon et la paix en 1813, à propos du dernier volume d’Albert Sorel”，Revue d’histoire moderne et contemporaine 8(3)，1906，177–199；`downloads/pages/7525b413170b.md`；https://www.persee.fr/doc/rhmc_0996-2743_1906_num_8_3_4505 。本报告采用已读开头pp.177–183；Sorel卷VIII条文及页号均经Driault转引。
+- **S13** 巴黎和约，1815-11-20，全文及签署说明：`downloads/pages/8780b368d565.md`；https://mjp.univ-perp.fr/traites/1815paris.htm 。6月维也纳总议定书65–121条由专项附件核读：`c3b21fffef66.md`，https://mjp.univ-perp.fr/traites/1815vienne2.htm 。专约执行全文未读。
+- **S14** 塔列朗埃尔福特回忆，草案、对话与删条建议：`downloads/pages/b9eaa7cabeae.md`，约490–523、762–841行；https://napoleon-histoire.com/1808-l-entrevue-d-erfurt-racontee-talleyrand/ 。回溯性，不与签署文本等量。
+- **S15** 莱茵邦联法文26、35–38条：`downloads/pages/227f1cf6004e.md`；https://www.koeblergerhard.de/Fontes/Rheinbunds-Akte1806.htm 。网页列Zeumer编《Quellensammlung》1913版，Nr.214；印本未亲见。德文对照 `92b28bd48ca8.md`，同一文书不算独立证词。

@@ -1,0 +1,33 @@
+                                                                 Table 1 (continued)
+                                                            GEOGRAPHY AND DRAFT EVASION
+Draft-Dodging Rate                        (1)                  (2)                   (3)                   (4)                   (5)                   (6)
+Maritime                                                        ü                     ü                     ü                    ü                     ü
+Wheat suitability                                               ü                     ü                     ü                    ü                     ü
+Urbanization rate                                                                     ü                     ü                    ü                     ü
+Tax revenues per capita                                                               ü                     ü                    ü                     ü
+Literacy                                                                                                    ü                    ü                     ü
+Height                                                                                                      ü                    ü                     ü
+Agricultural sector                                                                                         ü                    ü                     ü
+Year created                                                                                                ü                    ü                     ü
+Elevation                                                                                                                                              ü
+Military division fixed effects                                 ü                     ü                     ü                    ü                     ü
+Year fixed effects                        ü                     ü                     ü                     ü                    ü                     ü
+Observations                             554                   534                   534                   365                  292                   292
+R-squared                              0.12556               0.64026              0.64373               0.75273               0.78830               0.78860
+***p < 0.01, **p< 0.05, *p < 0.1
+Notes: This table displays the results of regressing draft dodging rates on geographical characteristics as well as other controls. We report robust standard errors
+in parentheses and Conley standard errors correcting for spatial autocorrelation in brackets. Conley standard errors are computed using the Stata code provided
+by Hsiang (2010), assuming a correlation range of 100 kilometers and a linearly declining spatial weighing kernel. Different thresholds are used in Online
+Appendix I.
+Sources: Draft-dodging rates are form the Archives Nationales AF/IV/1124, n. 1 and n. 9. Ruggedness is from Nunn and Puga (2012). Township density is from
+Prudhomme (1804). Distance from Paris was calculated using longitude and latitude data from Wikipedia. Data on “Border” status are from Nussli (2012).
+Military relays are from Arbellot, Lepetit, and Bertrand (1985). Replacement rate is from the Archives Nationales, AF/IV/1124, pp. 198–215. Maritime is
+calculated from Poirson (1808). Tax revenues per capita are from Peuchet (1805). Urbanization rates are calculated using data from Bairoch, Batou, and Chevre
+(1988). Wheat suitability is from the FAO, GAEZ v3.0. Literacy data is from the Ministère de l’Instruction Publique (1880). Height and agricultural sector data
+are both from the Archives Nationales, series F/9, boxes 150 to 259. Year created was calculated with information from Wikipedia. Elevation data are from the
+                                                                                                                                                                       Political Economy of Conscription in Napoleonic France 1075
+
+
+
+
+U.S. Geological Survey. Information on military divisions is from the Almanach Imperial pur l’An MDCCCVI.

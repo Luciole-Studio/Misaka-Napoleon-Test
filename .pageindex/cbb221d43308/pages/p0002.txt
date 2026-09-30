@@ -1,0 +1,7 @@
+
+
+## Lloyd's 一月生存保险：补充但不泛化
+- Charles Wright & C. Ernest Fayle (1928), *A History of Lloyd's*, 原文University of Illinois OCR `downloads/pages/00bd118bdd34.md`，https://brittlebooks.library.illinois.edu/brittlebooks_closed/Books2009-09/wrigch0001hisllo/wrigch0001hisllo_ocr.txt ；图版目录印p.xvi载‘POLICY ON LIFE OF NAPOLEON, 1813 ... Issued 21 May, 1813, to pay a loss “in case Napoleon Bonaparte shall cease to exist or be taken Prisoner, on or before the 21st day of June, 1813.” Premium, three guineas per cent.’ 图版face p96。更早《Ships and Shipping》第16章 https://kellscraft.com/ShipsandShipping/ShipsandShippingCh16.html (`downloads/pages/9058a83137c2.md`)转录合同：3 guineas / £100，签署£100 R. Heath、£150 A. F. Kemp、£150 B. I. Mitchell。该保单给*死亡或被俘并集*、21 May–21 June 1813的**个别underwriter毛保费3.15%/保额**，不是拿破仑政权1848存续概率，更不是全市场均衡价格；载有保险费开销、承保风险溢价及违约风险，不得当作精确风险中性概率。注意两来源共享同一底层保单，不构成独立互证。
+
+## 优先的反证
+对英国耐战力假说，不能仅从BoE月末未剧烈波动推定；Antipa日度断点显示英债反应确实对外交、预算、海权政策敏感但幅度有限。若用户所谓‘大陆失败反应弱’，必须对提尔西特、埃尔福特、1809、1812等日期用同频英国收益率和消息到达窗口检验，并以可比安慰剂（月末相同跨度）衡量。

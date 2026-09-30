@@ -1,0 +1,133 @@
+
+
+关键原文：
+
+> “souvenez-vous que vous êtes Français ; protégez-les et veillez à ce qu'elles n'essuient aucun tort.”
+
+> “vous écoutiez avec prudence et circonspection les plaintes des villes qui ne songent qu'à se défaire des embarras qu'occasionne la guerre.”
+
+关于法典：
+
+> “La Constitution l'établit irrévocablement au ler janvier.”
+
+【文献推断：本札记】改革和法国军需之间的张力已经存在于同时代命令中，不需要从1813年失败倒推。第一封谈居民信任，第二封却压低居民要求减轻驻军负担的优先级；两封必须并读。
+
+【裁量｜高置信度】1806年对一般邦国的“不干涉”声明与1807年对王朝样板国的细密指挥，可以用分层统治解释；不应假定邦联成员接受完全相同的治理模式。
+
+### 3.5 转录同源性警告
+
+R4与R5的宪法都把应为第48条的位置误标为“18”，第8条也有相似缺词。
+
+【裁量｜高置信度】两种载体可能共享转录祖本，不能因一个来自大学网站、另一个来自历史网站就算作两次独立原始文本核证。
+
+---
+
+## 4. 法典施行差异：巴登可证，其他地区须保留缺口
+
+### 4.1 巴登原始敕令
+
+**R6**
+
+*Code Napoléon mit Zusäzen und Handelsgesezen als Land-Recht für das Großherzogthum Baden*，Karlsruhe，1809。
+
+URL：  
+https://www.koeblergerhard.de/Fontes/BadischesLandrecht1810.htm
+
+本地抓取：  
+`downloads/pages/e7645400387a.md`
+
+实际读了**1809年2月3日引入敕令，印刷页III–XX**及目录，未通读整部法典。抓取有总体积截断，但所引敕令完整呈现。
+
+【事实｜敕令开篇】明确承认地方增补：
+
+> “in Zusäzen dasjenige näher bestimmt werde was nöthig ist…”
+
+目的包括使应用不损害本地风俗与条件：
+
+> “der hierländischen Landes-Art und Sitte nicht nachtheilige Anwendung”
+
+同一敕令承认翻译、印刷、机构设置及官员学习影响实施。
+
+【事实｜第III项】不照搬法国治安法官机构：
+
+> “weil diese Anstalt in die hierländische Rechts-Erwartungen der Unterthanen nicht einpaßt”
+
+相关职能改由本地法官或地方首长承担。
+
+【事实｜第V项及随后过渡规定】民事身份登记、婚姻程序、抵押登记等规定不同过渡期限，反映制度生效依赖配套机构。
+
+【事实｜第XVII–XVIII项】区别旧民事法律的失效与教会、刑事、警察规范的继续有效，并保留特定邦国敕令的作用。
+
+【文献推断：本札记】巴登接受《民法典》，不等于同日、原样接受法国全部司法组织、程序与身份制度。
+
+### 4.2 日期陷阱：原拟1809年7月，不是最终生效日
+
+**R7**
+
+Wilhelm Behaghel，*Das badische bürgerliche Recht und der Code Napoléon*，§3，**印刷页13**。
+
+URL：  
+https://dlc.mpg.de/fulltext/mpirg_sisis_103987/33/
+
+本地抓取：  
+`downloads/pages/ce92415172f5.md`
+
+本轮只读该页OCR，版次年份尚未核定。
+
+【文献推断／法律日期转引｜Behaghel】该页说明：
+
+- 原定1809年7月1日实施；
+- 后由1809年6月22日公告及12月22日第二引入敕令改定为1810年1月1日；
+- 后并入的符腾堡地区，还有1812年1月或7月的分期。
+
+原文：
+
+> “war anfänglich … auf den 1. Juli 1809 und wurde später … auf den 1. Januar 1810 festgesetzt.”
+
+该页还列举暂缓检察机构、取消家族委员会、划分法院与行政机关职掌、由牧师担任民事身份登记官等调整。
+
+【限制】这些实施日期及后续变更通过后出的法律史著作进入；本轮没有亲读1809年6月22日公告和12月22日第二敕令。
+
+【裁量｜高置信度】只读R6第一引入敕令，会把原拟日期误当最终实施日期。应分别记录：**宣布接受、原拟生效、延期、地域扩展**。
+
+### 4.3 逐地区证据状态
+
+| 地区 | 本轮证据 | 可写与不可写 |
+|---|---|---|
+| 威斯特伐利亚 | 宪法第45条＋同日催办信 | 可证1808年1月1日的法定要求；不能证明地方毫无延期 |
+| 巴登 | 1809敕令＋Behaghel单页 | 可证地方增补、机构选择与日期调整 |
+| 贝格 | 1810年官方法典的博物馆记录 | 可证官方版本存在；本轮未核引入敕令与具体执行 |
+| 法国并合的莱茵左岸 | 未补齐专门正文 | 必须与邦联成员区分；不在此给精密施行年表 |
+| 巴伐利亚、符腾堡、黑森其他地区、法兰克福 | 未补齐各邦法律与司法记录 | 不宣称全体采用；具体未采用原因、日期和执行差异留待核查 |
+
+**R8：贝格官方法典目录记录**
+
+*Code civil für das Großherzogtum Berg*；另题：
+
+> “Napoleons Gesetzbuch. Einzig officielle Ausgabe für das Großherzogthum Berg.”
+
+德意志历史博物馆，藏号R 67/382；目录所列出版年1810。
+
+URL：  
+https://www.deutsche-digitale-bibliothek.de/item/2W4JIPWELOA6HU663BEESLJT7DOGA2K3
+
+本地抓取：  
+`downloads/pages/4fa9933e2508.md`
+
+**已读的是馆藏元数据，不是书内全文。**
+
+【裁量｜高置信度】现有证据足以否定“邦联统一采用同一法律体系”的简单说法，却不足以制作完整的逐邦法律落实矩阵。若要讨论农民实际所得，还须补土地权分类、赎买法、执行记录和诉讼，不能用废除农奴关系一条替代。
+
+---
+
+## 5. Planert：南德战争经验不等于全国民族动员
+
+### 5.1 实际已读的书评
+
+**R9**
+
+James M. Brophy，**“Remembering to Forget War”**。
+
+评论对象：
+
+Ute Planert，*Der Mythos vom Befreiungskrieg: Frankreichs Kriege und der deutsche Süden: Alltag–Wahrnehmung–Deutung 1792–1841*。

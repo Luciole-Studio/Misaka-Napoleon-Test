@@ -1,0 +1,41 @@
+4.4     Robustness
+To address the concern that the trade cost shock may be correlated with factors that render
+particular locations more favorable for mechanized cotton spinning, I explore robustness of
+the results to the addition of variables measuring natural or acquired locational advantage
+(Columns (2) - (7) in Table 1). While fixed effects soak up any time-invariant confounder
+correlated with effective distance to London, there is a concern that the time-varying effect of
+fundamentals may be driving the results. I include variables one-by-one (Columns (2)-(6)),
+and simultaneously (Column (7)). Each variable is interacted with a binary variable that
+takes the value of one in the treatment period, and zero otherwise. Across all columns, the
+coefficient remains similar in magnitude and statistically significant. Cheap access to power
+sources such as fast-flowing streams (measured as mean streamflow in the department) and
+distance to the nearest coalfield do not exert a statistically significant time-varying effect.
+For the case of France this makes sense; as late as the 1840s, the median cotton spinning firm
+used no steam-power and one water-powered engine according to data from Chanut et al.
+(2000).32
+    To control for the time-varying effect of access to large centers of urban population, I
+construct the reduced form measure of market potential (Harris, 1954) widely used in the
+                                 P P opc
+literature. This is defined as j dist  cj
+                                          , where P opc is the population of city c in 1800 and
+distcj is the distance between department j and city c. Data on city populations across the
+territory of the French Empire is from Nunn and Qian (2011).
+    I also control for the time-varying effect of human capital in a flexible way by differ-
+entiating between upper-tail knowledge and average human capital following the work of
+Squicciarini and Voigtländer (2015). Access to upper-tail knowledge is defined similarly to
+market potential, but I replace urban population in 1800 by the number of universities in
+existence in 1802 within the territory of the French Empire using data from Valero and
+Van Reenen (2016). Average human capital is measured as the proportion of men able to
+sign their wedding certificates in 1786 as reported in Furet and Ozouf (1982). While the
+coefficient of interest remains positive and significant, it is interesting to note that these
+three “acquired” fundamentals enter with a positive sign and are statistically significant.
+    A different identification concern is that other shocks, contemporaneous to and correlated
+with the trade cost shock, may be (at least partly) driving the results. This is of particular
+  32
+    Crafts and Wolf (2014) study of the locational determinants of British cotton mills in the 1840s. The
+authors find that water power had a strong positive effect on the number of cotton mill employees in a given
+region, while coal had a negative albeit less robust effect. They found no or only weak evidence for other
+natural locational fundamentals such as ruggedness, humidity or hardness of the water.
+
+
+                                                    24

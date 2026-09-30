@@ -1,0 +1,21 @@
+
+
+**Map 2. The Italian Kingdom after 1871.**
+
+![C:\Users\alex\Desktop\800px-Italy_unification_1815_1870.jpg]
+
+Lastly, the database also includes an estimation of the fleet under the flags of Norway, Sweden and Denmark under the title Scandinavian flag (SCANDINAVIAN TOTAL_EST, SCANDINAVIAN SAIL_EST and SCANDINAVIAN STEAM_EST) though no such flag has been registered in archival sources. This aimed to the homogenization of historical series which from time to time provided a sum of the aforementioned fleets.
+
+Each data sheet also provides a grand total of the number and tonnage of ships entering and clearing for each port city, inscribed under the name GRAND TOTAL_EST, GRAND TOTAL SAIL_EST and GRAND TOTAL STEAM_EST. However, in all cases, the database also provides the data in their initial form, as recorded in the archival sources.
+
+**Tonnage measurement standardization**
+
+***We still have not made the homogenization of shipping statistics and have kept in different files the Russian, the Romanian, the British and the French statistics for each city. We hope that soon we will be able to create our own estimation of the shipping statistics for arrivals and departures based on the archival data we have collected.***
+
+The main problem with nineteenth century shipping statistics is the incompatibility between different periods. The difficulty stems from changes in methods of tonnage measurement. Tonnage measurement has a complicated history but it has always being indispensable to estimate a vessel's size and carrying capacity. The method of measurement has also been of great importance since it was used globally to calculate freights, port dues, pilotage, towage and quarantine charges, as well as insurance premiums and taxes. In England and France it was traditional to measure volume in cargo tons, or so-called deadweight tons, according to the wine barrels used in the Bordeaux wine trade called `tonneau'.
+
+Tonnage measurement in the first third of the nineteenth century was based on the so-called Builders Old Measurement (B.O.M.) rule voted by the British Parliament as follows in 1773:
+
+[(coef.)keel length] x breadth x [(coef. depth)]/94
+
+The idea was that if the ship were a parallelogram, the volume would be measured by the product of the length, breadth, and depth and would be expressed in tons of 100 cubic feet by dividing by 100. However, the vessel being rounded towards the keel and sharpened at the ends, its sides are not parallel and consequently it has a volume considerably less than the above product. The rule of B.O.M. was an attempt to estimate the space of the vessel by the product of length, breadth and depth modified by some coefficients and a divisor intended to deduct a fraction of the result obtained to allow for such rounding off.1 This rule remained valid in Britain, with some modifications in 1836, until 1854. The introduction of steam rendered the old type of measurement obsolete and a new method was needed. When this was developed, the result of the works of a committee presided over by Admiral Moorsom, it set the basis for what we call today gross and net registered tonnage. It set the ton as a unit equal to 100 cubic feet or 2.83 cubic meters. The new method was based on more accurate measurements of the ship by dividing it and calculating various parts of it at a time. Within the next thirty-five years all nations adopted this type of measurement. [^8]

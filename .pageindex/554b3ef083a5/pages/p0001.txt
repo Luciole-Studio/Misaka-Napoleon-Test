@@ -1,0 +1,30 @@
+---
+source_url: "https://doi.org/10.7275/6931"
+final_url: "https://doi.org/10.7275/6931"
+provider: "exa"
+text_sha256: "65a4f84595603425a8eaeaf6e2b470c214766eba4aa5a0daec40d5af96862857"
+title: "The British Army's African Recruitment Policy, 1790-1807"
+content_kind: "page_text"
+---
+
+# The British Army's African Recruitment Policy, 1790-1807
+
+ScholarWorks@UMassAmherst (University of Massachusetts Amherst). Published: 2024-01-01. 0 citations.
+
+## Authors
+
+- Roger Buckley: h-index 7; 153 citations; corresponding author
+
+## Topics
+
+- Australian History and Society
+
+---
+
+# Some Further Thoughts on the Abolition Issue* IN
+
+## Abstract
+
+APRIL 1792, a motion for the gradual abolition of the British slave trade was carried in the House of Commons by a vote of 238 to 85. After much bitter debate, the crucial word "gradual" was interpreted to mean the trade would come to an end on I January 1796. However, Abolition was not achieved until some eleven years later in 1807. What caused the abolition of the British trade to be delayed until 1807? And what was the role, if any, of William Pitt in this postponement? The major work which focused on these and other questions was done by the late Roger Anstey.! Anstey stressed, among other factors, a number of political reasons for the long delay of abolition. He also strove mightily to exonerate Pitt of any responsibility for the continuation of the trade until 1807. Despite the general certainty and clarity that pervades Anstey's probing analysis, he retreats before the enigmatic Pitt and is forced to presume the reasons for Pitt's perplexing actions.Ñ ew and substantial evidence, primarily in the form of P. R. O. War Office and Colonial Office Papers, demonstrates that the successive governments of Pitt and Henry Addington used the slave trade to maintain a corps of black service troops and, more importantly, a standing army of professional slave soldiers in the West Indies during the French Revolutionary and Napoleonic Wars. The author will argue in this paper that the British army's policy of purchasing thousands of African slaves, directly from slaving interests, was an important reason for the delay of Abolition until 1807. The author will also seek to explain Pitt's perplexing political behavior vis-a.-vis the abolition debate (1796-1806) in light of this new evidence.
+
+Britain had historically relied upon African slave labor to support its military establishment in the West Indies. Africanization, or the critical employment of Africans in virtually all branches of the British army in the West Indies, was recognized during the Seven Years' War and the American Revolution. 3 A corps of slave laborers, for instance, was officially designated as the "King's Negroes," and units were attached to each principal fortification in the British Caribbean by the 1770s. As their name indicates, these men were the property of the British government and were quartered in barracks set aside for their use. 4 (It is instructive to note that these Crown slaves were manumitted by a special order from the British government in 1831. 5 ) During peacetime their aggregrate strength is not thought to have been more than approximately 1,000. (In addition to this contingent, several hundred privately owned slaves were hired out to the army's quartermaster and engineering departments.)

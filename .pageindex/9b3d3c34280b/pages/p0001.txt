@@ -1,0 +1,20 @@
+# R1笔记：Vandal《Napoléon et Alexandre Ier》卷III（downloads/c12_vandal3_full.txt，Gutenberg 32621，Plon版全文转录）
+
+约定：行号=本地txt行号。Vandal为1891-96法国外交史经典，亲档（AAE、AN）+俄方刊本；其对俄动机的归因是作者解释，引用时标【文献推断】。
+
+## A. 第一章「LA RUSSIE SE PRÉPARE À ATTAQUER」（行128–2158）——1811初亚历山大的进攻筹划
+
+1. 【事实｜行188–204】1811年初亚历山大在未废除同盟的情况下筹划进攻；表面grief=奥尔登堡吞并（"spoliation sans excuse"），深层grief=华沙公国作为"une Pologne nouvelle"将裂解俄国西部诸省。Maistre引语（行202–204+注1）：«La véritable cause qui engage deux hommes à se couper la gorge...n'est presque jamais celle qu'on laisse voir»（Œuvres complètes, XI, 513）。
+2. 【事实｜行223–229】亚历山大瞒着首相（chancelier）Rumiantsev，经Czartoryski秘密向华沙人提议：把公国变成与俄帝国联合的王国，条件是加入其已集结的20万俄军"délivrance de l'Europe"。
+3. 【事实｜行246以下】华沙公国内情（Bignon报告转引）：军队5万、军饷拖欠7个月、贵族无法经里加/敖德萨出口谷物、高利贷吞噬地产（注4–6：Bignon致Champagny 1811-04-27/05-09/07-23；AN AF IV 1653–1655；Oginski回忆III, 23-24）。
+4. 【事实｜行1117–1250】Czartoryski复信（1811-01-18/30，经化装信使→Grodno→Lanskoï→冬宫；Mémoires de Czartoryski II, 255–278）：三条件=①瓜分前全部省份复国②五三宪法（"gravée dans leurs coeurs"）或政治自由/代议制③商业出海口；并质疑俄军纸面兵力：«J'ai vu si souvent en Russie cent mille hommes inscrits sur le papier...que soixante mille effectifs!»
+5. 【事实｜行1252–1310】亚历山大第二信（收信后一日两夜内复）：全部担保照给——先发复国宣言；新波兰含公国+三次瓜分俄占省+尽可能加利西亚；东界=德维纳-别列津纳-第聂伯；完全自治、本土政府军队行政；«dans tous les cas une constitution libérale»；纯个人联合="autocrate en Russie, roi constitutionnel à Varsovie"。
+6. 【事实｜行1313–1345】兵力自报：一线240,500+预备124,000；分师番号逐一列出（步8师×1万+骑4师×4千+哥萨克15团=106,500；第二军134,000；第三军44,000+新兵80,000）。对比第一信粗数：法方在德只能集15万，俄20万+波普丹13万+奥20万（备忘）。
+7. 【事实｜行1358–1361】对奥方案：«Je suis décidé à lui offrir la Valachie et la Moldavie jusqu'au Sereth, comme échange de la Galicie.»
+8. 【事实｜行1363–1372】保密结构：连Rumiantsev都不知道通信存在；军备对Caulaincourt解释为纯防御。
+9. 【事实｜行1685–1698（战报段行1990ff）】亚历山大不当先动手：«ne commettra pas cette faute»…«Mais tout change de face si les Polonais veulent se joindre à moi. Renforcé par les 50,000 hommes que je leur devrai, par les 50,000 Prussiens…je puis me porter jusqu'à l'Oder sans coup férir.»（条件性进攻）
+10. 【事实｜行1408–1494】双轨外交：仿路易十五"Secret du Roi"，经senator Koschelef直通维也纳Stackelberg（«Le chancelier ne saura rien de leur contenu»，Metternich回忆II, 419）；1811-02-11 Rumiantsev官方训令（仅求奥"永不反俄"承诺，不肯让多瑙成果）vs 02-13皇帝亲笔密训令（以摩尔多瓦至Sereth+瓦拉几亚全部+塞尔维亚任取，换加利西亚；条约特款=俄国保留决定开战时刻之权）——注46–48：Martens III, 78–80；Beer 250。注47：Stackelberg对Metternich说，若非等于对法宣战，亚历山大早已撤换Rumiantsev；留任=掩护。
+11. 【事实｜行1496–1520】对普：经Lieven+宫廷贵妇/副官秘密递信劝弗里德里希·威廉联俄。对瑞（行1522–1560）：不敢向Bernadotte全盘托出，仅半吐半露；Stedingk 1812-01-18/30报告转引亚历山大语：«Je suis las des vexations continuelles de Napoléon. J'ai deux cent mille hommes de bonnes troupes et trois cent mille de milices…»（注81，瑞典王国档案）。
+12. 【事实｜行1990–2040】Kurakin形象：不知密谋、痛风、虚荣，亚历山大自评：«Kourakine est un vieil imbécile, mais l'empereur Napoléon sait qu'il veut l'alliance…j'aime mieux une bête…qu'un homme d'esprit qui les ferait soupçonner»（注78，Nouvelles et On dit 1811-03-27）。
+13. 【事实｜行2050–2095】奥尔登堡抗议照会：Champagny拒收（信封留桌上一幕，注79 Bogdanovich德译I,12–17）；俄廷向全欧通报=两用文书（开战预备justification或谈判索偿入口）。Vandal判为«à double fin»【文献推断】。
+14. 【事实｜行2100–2145】1811初围绕沙皇的反法影响联盟名单：皇太后（la mère de l'Empereur）、近亲、旧友、老派俄人（要摆脱法语精神监护）、德意志流亡者、秘密会社传教士、绝对主义者与革命者并肩；目标=把沙皇从Speransky的节制与首相的和平劝告中夺走。Parrot（德裔）与法国流亡者d'Allonville同劝开战（注85）。「un moment pareil ne se présente qu'une fois」=亚历山大自己对Czartoryski语（注84，Mémoires II, 252）。

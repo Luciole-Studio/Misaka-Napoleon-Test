@@ -1,0 +1,66 @@
+Environ. Res. Lett. 14 (2019) 094019
+
+
+
+with 19 vertical levels. The ocean model has a             eruptions. An increase in likelihood of an event can be
+resolution of 1.25°×1.25° with 20 levels. The model      calculated by comparing the return times with and
+simulations used are a 1200 year long piControl            without volcanic eruptions.
+simulation (constant forcing at year 850 pre-industrial        To calculate the return times for a speciﬁc event, in
+levels, as described in Schurer et al 2013) and 50         this case the summer of 1816, a Gaussian distribution
+simulations with volcanic forcing. The volcanic            was ﬁtted to the modelled values for mean summer
+ensemble members have been started using different         European temperature, precipitation and SLP and the
+initial conditions taken from the piControl control        return time calculated from the point where the dis-
+simulation and run using only volcanic forcing, using      tribution crosses the event threshold. An uncertainty
+the aerosol optical depth estimates from Crowley and       estimate is calculated using a non-parametric boot-
+Unterman (2012). The aerosol optical depth for the         strap analysis, in which 10 000 new model samples are
+volcanic forcing is shown in the supplementary             created by randomly selecting from the original model
+information (ﬁgure S3). The simulations start in           sample, a Gaussian distribution is then ﬁtted and a
+December 1814 and run for two years, encompassing          return-time is calculated for each. A 5%–95% range
+the Tambora eruption in April 1815 and the Summer          can be calculated from the distribution formed from
+of 1816.                                                   the 10 000 return time values. An increase in like-
+     For both models all results are shown as anomalies    lihood of the event (the risk ratio) is then calculated
+from the climatology of their respective control           from the ratio of the return times for the two different
+simulation.                                                scenarios and the uncertainty in this is calculated using
+                                                           the 10 000 pairs from the the two return time distribu-
+                                                           tions. To sample the sensitivity to the choice of dis-
+3. Methods                                                 tributions we also calculate return times with gamma
+                                                           and skew-normal distributions with results shown in
+A circulation analogues method selects periods that
+                                                           the supplementary information (ﬁgures S10 and S11).
+display a similar surface or mid-troposheric ﬂow
+pattern to an event that has been pre-selected (Jézéquel
+et al 2018). Here we use it to select summers which        4. Results and discussion
+have similar SLP patterns to that observed in 1816. We
+select analogues based on the domain 40 °W to 25° E        The year 1816 was unusually cold in large parts of
+and 40 °N to 70 °N, which is chosen to concentrate on      Europe and, in particular, in Central Europe, with
+continental Europe and the North Atlantic which are        every season showing negative temperature anomalies
+the regions with the most reconstruction skill (see data   (ﬁgure 1). However, it was in summer that the largest
+section). As in Yiou (2014), the analogues are selected    temperature anomalies occurred, with the coldest
+to be those with the smallest area-weighted root mean      recorded European mean summer temperature in the
+square error (RMSE), calculated by summing over            235-year long (1766–2000) instrumental-based data-
+the difference between the SLP in each summer with         set (Casty et al 2007), and the coldest in the Central
+the target SLP ﬁeld for all of the grid boxes within the   England Temperature series (Parker et al 1992) during
+domain. We show results for the mean of those              this period (although 1695 and 1725 were colder). This
+analogues which have RMSE values less than a pre-          summer was also anomalously wet in central Europe,
+deﬁned threshold. For the main results this threshold      although not as extreme, with 19 wetter summers
+is calculated so that for the instrumental observations    recorded between 1766 and 2000. This is consistent
+10 analogues are selected. The equivalent number of        with the England and Wales precipitation series
+analogues for the models without volcanic eruptions is     (Wigley et al 1984, Alexander and Jones 2000) in which
+61 while only 2 analogues for the models with volcanic     the summer of 1816 is the 22nd wettest for the same
+eruption met this criterion (due to a smaller number       period. These ﬁndings are supported by other instru-
+of sample years to choose from). Alternative threshold     mental datasets and a reanalysis product (see ﬁgure S2)
+values yielding 5 and 20 observational analogues were      which also show that the summer of 1816 was very
+also analysed and the results were found to be             cold and wet in Europe (Pauling et al 2006, Luterba-
+insensitive to this choice.                                cher et al 2016, Anchukaitis et al 2017, Franke et al
+     In order to quantify how the volcanic forcing         2017). Climate anomalies are most prominent in
+changes the likelihood that the summer after the erup-     summer when the direct response to radiative forcing
+tion is as cold and wet as that observed in the 1816, we   largely determines climate variability, whereas in other
+calculate return times based on model simulations,         seasons, in particular winter, forced responses are
+where the return time is the inverse of the probability    more strongly mediated by strong dynamically
+of an event occurring per year, and gives the likelihood   induced variability (Zanchettin et al 2019). The temp-
+of the event recurring within a certain time interval.     erature and precipitation in the ﬁrst and second post-
+Return times are calculated for both the model simula-     eruption year after nine other volcanic eruptions
+tions forced by the volcanic eruption and the piCon-       between 1781 and 2000 display on average only a slight
+trol simulations which do not contain volcanic             decrease in summer temperature (see ﬁgure 1),
+
+                                              3

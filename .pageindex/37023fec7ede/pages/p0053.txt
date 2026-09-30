@@ -1,0 +1,35 @@
+I      Spatial dependence
+In this appendix, we test whether our results, which we have found so far to be
+consistently highly significant, may suffer from spatial dependence. The spatial dis-
+tribution of ruggedness and draft-dodging is geographically clustered, which may
+lead spurious results to appear statistically significant. If both the dependent and
+the independent variable are spatially correlated, the standard error of the coefficient
+will not be adjusted for the fact that close observations are naturally more likely to
+possess the same attributes, hence resulting in inflated t-statistics.
+    The issue of spatial dependence has generally been dealt with by reporting ad-
+justed standard errors (Conley 1999). In order to mitigate this concern, throughout
+our paper we report Conley standard errors with a 100km cutoff value. However,
+Kelly (2019) shows that the use of Conley standard errors can be unsatisfactory when
+using low cutoff values. To avoid this problem, we report Conley standard errors for
+our main regressions (Tables 1 and 4) when changing the cutoff value to 600km.
+The standard errors, if anything, become smaller and our results remain statistically
+significant, suggesting that they are robust to a change in the correlation range.
+
+                    Table 30: Geography and draft-dodging with CSEs.
+
+Note: This table displays the same results as in Table 1. We report Conley standard errors in
+brackets with a threshold of 600km instead of 100 km.
+
+    Draft-dodging rate      (1)          (2)          (3)        (4)          (5)          (6)
+    Log of ruggedness    3.16375**    2.82657**   3.86229*** 4.65358***   6.20847***   5.76847***
+                         [1.39623]    [1.22587]    [1.31907]  [1.75593]    [2.13639]    [2.19430]
+    Same Controls
+    as in Table 1            X            X           X            X          X            X
+    Observations            554          534         534          365        292          292
+    R-squared             0.12556      0.64026     0.64373      0.75273    0.78830      0.78860
+                                     *** p<0.01, ** p<0.05, * p<0.1
+
+
+
+
+                                                  53

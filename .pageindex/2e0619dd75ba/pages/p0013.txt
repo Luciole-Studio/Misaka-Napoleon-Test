@@ -1,0 +1,28 @@
+
+
+However, this is not possible as including time-varying destination-division fixed effects 
+(γ k jt) would absorb all variation in the data. We can still include ψ k 
+t which controls for the 
+British outward multilateral resistance term for k and for Britain’s share of world output 
+of k, but we cannot use fixed effects to control for either j’s expenditure on k or j’s inward 
+multilateral resistance (IMR) for k. We therefore resort to proxies in this case. 
+Division-specific expenditure for each destination is not available well into the 1960s, 
+so we rely on estimates of destination economic mass. These are constructed as the product 
+of GDP per capita from the Maddison Project Database 2020 and population from the 
+
+Our World in Data website. Where possible, missing values are estimated using linear interpolation: this yields population data for all destination-year combinations, but GDP per capita data for only 30% of them.11 In order to circumvent the lack of data on GDP per capita, we assign missing observations a "representative" value equal to that for Turkey from 1700 to 1899. We note that this particular estimate of GDP per capita only rose by 36% over these two centuries at a time when British GDP per capita rose by 215%. Given this slow rise in estimated GDP per capita for 70% of our sample, the vast majority of variation in economic mass across destinations comes from variation in population. In Appendix E, we therefore report results where ln(GDPjt) is replaced with population. Our results are robust to this change.12
+
+Similarly, data limitations prevent us from constructing proxies for the omitted 
+division-specific IMR terms.13 We therefore use two proxies for aggregate IMR terms. First, 
+we construct a measure of each destination’s time-varying distance from the economic 
+center of gravity (ECG) from Quah (2011). The ECG is defined as the average location of 
+world economic activity (again derived from Maddison’s estimates of GDP) in a given year. 
+We use the log of j’s great-circle distance from the ECG, ln(DECGjt), as an atheoretical 
+proxy to control for the IMR terms in our main analysis. Second, in Appendix E, we 
+control for time-varying proxies for the IMR terms by destination, ln(IMRjt), that are 
+constructed as GDP-weighted, great-circle distances between each destination and all 
+other destinations. The results from these two proxies for the IMR terms are very similar 
+to one other. 
+In some specifications, we include destination-division fixed effects (γjk) which control 
+
+11Appendix D reports the coverage for estimates of GDP per capita, population, and our proxy for GDP. 12In Appendix E, we also allow the coefficients on the proxy for real GDP to be division-specific and find no material differences in our results. 13In order to construct theory-consistent IMR terms, we would need the value of gross output for every destination-division-year combination as well as time-varying, division-specific bilateral trade costs for all country pairs in the world over these 200 years. Simply put, such data are not available.

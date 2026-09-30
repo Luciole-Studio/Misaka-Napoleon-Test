@@ -1,0 +1,478 @@
+        5681.2,
+        172.2,
+        269.3,
+        151.6
+      ]
+    }
+  },
+  {
+    "name": "grid_R60_G50_y0.07_Iadjust0",
+    "start": 1810,
+    "R": 60,
+    "G": 50,
+    "y": 0.07,
+    "g": 0,
+    "surplus_cap": null,
+    "coupon": 0.03,
+    "interest_adjust": 0,
+    "transition_years": 0,
+    "first_interest_share_60": 1820,
+    "first_interest_share_70": 1823,
+    "first_cash_deficit_30": 1822,
+    "checkpoints_debt_nextinterest_share_deficit": {
+      "1815": [
+        881.7,
+        30.2,
+        48.1,
+        18.9
+      ],
+      "1820": [
+        1152.7,
+        38.3,
+        60.8,
+        26.5
+      ],
+      "1830": [
+        2065.9,
+        65.7,
+        103.5,
+        52.1
+      ],
+      "1840": [
+        3862.3,
+        119.6,
+        187.4,
+        102.4
+      ],
+      "1848": [
+        6486.5,
+        198.3,
+        310.0,
+        176.0
+      ]
+    }
+  },
+  {
+    "name": "grid_R60_G50_y0.07_Iadjust2",
+    "start": 1810,
+    "R": 60,
+    "G": 50,
+    "y": 0.07,
+    "g": 0,
+    "surplus_cap": null,
+    "coupon": 0.03,
+    "interest_adjust": 2,
+    "transition_years": 0,
+    "first_interest_share_60": 1818,
+    "first_interest_share_70": 1821,
+    "first_cash_deficit_30": 1820,
+    "checkpoints_debt_nextinterest_share_deficit": {
+      "1815": [
+        908.5,
+        33.0,
+        52.5,
+        21.5
+      ],
+      "1820": [
+        1217.2,
+        42.3,
+        66.9,
+        30.2
+      ],
+      "1830": [
+        2257.2,
+        73.5,
+        115.5,
+        59.3
+      ],
+      "1840": [
+        4303.2,
+        134.8,
+        211.1,
+        116.7
+      ],
+      "1848": [
+        7291.8,
+        224.5,
+        350.8,
+        200.5
+      ]
+    }
+  },
+  {
+    "name": "S1_early_peace_1805_transition1",
+    "start": 1805,
+    "R": 48,
+    "G": 24,
+    "y": 0.0425,
+    "g": 0.0125,
+    "surplus_cap": 2,
+    "coupon": 0.03,
+    "interest_adjust": 0,
+    "transition_years": 1,
+    "first_interest_share_60": null,
+    "first_interest_share_70": null,
+    "first_cash_deficit_30": null,
+    "checkpoints_debt_nextinterest_share_deficit": {
+      "1815": [
+        634.0,
+        22.6,
+        44.0,
+        -2
+      ],
+      "1820": [
+        619.8,
+        22.2,
+        42.2,
+        -2
+      ],
+      "1830": [
+        591.5,
+        21.3,
+        38.4,
+        -2
+      ],
+      "1840": [
+        563.2,
+        20.5,
+        34.8,
+        -2
+      ],
+      "1848": [
+        540.5,
+        19.8,
+        31.9,
+        -2
+      ]
+    }
+  },
+  {
+    "name": "S1_early_peace_1805_transition2",
+    "start": 1805,
+    "R": 48,
+    "G": 24,
+    "y": 0.0425,
+    "g": 0.0125,
+    "surplus_cap": 2,
+    "coupon": 0.03,
+    "interest_adjust": 0,
+    "transition_years": 2,
+    "first_interest_share_60": null,
+    "first_interest_share_70": null,
+    "first_cash_deficit_30": null,
+    "checkpoints_debt_nextinterest_share_deficit": {
+      "1815": [
+        654.4,
+        23.2,
+        44.7,
+        -2
+      ],
+      "1820": [
+        640.2,
+        22.8,
+        42.8,
+        -2
+      ],
+      "1830": [
+        611.9,
+        21.9,
+        39.1,
+        -2
+      ],
+      "1840": [
+        583.6,
+        21.1,
+        35.4,
+        -2
+      ],
+      "1848": [
+        560.9,
+        20.4,
+        32.6,
+        -2
+      ]
+    }
+  },
+  {
+    "name": "S2_armed_coexistence_disciplined_transition1",
+    "start": 1810,
+    "R": 66,
+    "G": 42,
+    "y": 0.05,
+    "g": 0.01,
+    "surplus_cap": 1.5,
+    "coupon": 0.03,
+    "interest_adjust": 0,
+    "transition_years": 1,
+    "first_interest_share_60": null,
+    "first_interest_share_70": null,
+    "first_cash_deficit_30": null,
+    "checkpoints_debt_nextinterest_share_deficit": {
+      "1815": [
+        718.7,
+        25.3,
+        36.8,
+        0.3
+      ],
+      "1820": [
+        715.0,
+        25.2,
+        35.0,
+        -1.0
+      ],
+      "1830": [
+        690.3,
+        24.5,
+        32.0,
+        -1.5
+      ],
+      "1840": [
+        665.3,
+        23.7,
+        29.2,
+        -1.5
+      ],
+      "1848": [
+        645.3,
+        23.1,
+        27.2,
+        -1.5
+      ]
+    }
+  },
+  {
+    "name": "S2_armed_coexistence_disciplined_transition2",
+    "start": 1810,
+    "R": 66,
+    "G": 42,
+    "y": 0.05,
+    "g": 0.01,
+    "surplus_cap": 1.5,
+    "coupon": 0.03,
+    "interest_adjust": 0,
+    "transition_years": 2,
+    "first_interest_share_60": null,
+    "first_interest_share_70": null,
+    "first_cash_deficit_30": null,
+    "checkpoints_debt_nextinterest_share_deficit": {
+      "1815": [
+        733.5,
+        25.8,
+        37.4,
+        0.7
+      ],
+      "1820": [
+        733.9,
+        25.8,
+        35.7,
+        -0.5
+      ],
+      "1830": [
+        711.1,
+        25.1,
+        32.5,
+        -1.5
+      ],
+      "1840": [
+        686.1,
+        24.3,
+        29.8,
+        -1.5
+      ],
+      "1848": [
+        666.1,
+        23.7,
+        27.7,
+        -1.5
+      ]
+    }
+  },
+  {
+    "name": "S2_armed_coexistence_costly_transition1",
+    "start": 1810,
+    "R": 64,
+    "G": 43,
+    "y": 0.055,
+    "g": 0.01,
+    "surplus_cap": 1,
+    "coupon": 0.03,
+    "interest_adjust": 0,
+    "transition_years": 1,
+    "first_interest_share_60": null,
+    "first_interest_share_70": null,
+    "first_cash_deficit_30": null,
+    "checkpoints_debt_nextinterest_share_deficit": {
+      "1815": [
+        751.4,
+        26.3,
+        39.1,
+        4.2
+      ],
+      "1820": [
+        790.2,
+        27.5,
+        38.9,
+        4.3
+      ],
+      "1830": [
+        867.9,
+        29.8,
+        38.2,
+        4.2
+      ],
+      "1840": [
+        940.8,
+        32.0,
+        37.2,
+        3.7
+      ],
+      "1848": [
+        989.6,
+        33.4,
+        36.0,
+        2.9
+      ]
+    }
+  },
+  {
+    "name": "S2_armed_coexistence_costly_transition2",
+    "start": 1810,
+    "R": 64,
+    "G": 43,
+    "y": 0.055,
+    "g": 0.01,
+    "surplus_cap": 1,
+    "coupon": 0.03,
+    "interest_adjust": 0,
+    "transition_years": 2,
+    "first_interest_share_60": null,
+    "first_interest_share_70": null,
+    "first_cash_deficit_30": null,
+    "checkpoints_debt_nextinterest_share_deficit": {
+      "1815": [
+        766.8,
+        26.8,
+        39.8,
+        4.6
+      ],
+      "1820": [
+        810.4,
+        28.1,
+        39.7,
+        4.8
+      ],
+      "1830": [
+        902.3,
+        30.8,
+        39.5,
+        5.2
+      ],
+      "1840": [
+        999.7,
+        33.7,
+        39.2,
+        5.4
+      ],
+      "1848": [
+        1080.0,
+        36.1,
+        38.8,
+        5.5
+      ]
+    }
+  },
+  {
+    "name": "S3_adaptive_blockade_transition1",
+    "start": 1810,
+    "R": 60,
+    "G": 39,
+    "y": 0.055,
+    "g": 0.005,
+    "surplus_cap": 1,
+    "coupon": 0.03,
+    "interest_adjust": 0,
+    "transition_years": 1,
+    "first_interest_share_60": 1847,
+    "first_interest_share_70": null,
+    "first_cash_deficit_30": null,
+    "checkpoints_debt_nextinterest_share_deficit": {
+      "1815": [
+        762.5,
+        26.6,
+        43.1,
+        4.9
+      ],
+      "1820": [
+        812.6,
+        28.1,
+        44.3,
+        5.8
+      ],
+      "1830": [
+        944.6,
+        32.1,
+        47.9,
+        8.5
+      ],
+      "1840": [
+        1143.0,
+        38.0,
+        53.8,
+        13.1
+      ],
+      "1848": [
+        1379.2,
+        45.1,
+        61.1,
+        18.8
+      ]
+    }
+  },
+  {
+    "name": "S3_adaptive_blockade_transition2",
+    "start": 1810,
+    "R": 60,
+    "G": 39,
+    "y": 0.055,
+    "g": 0.005,
+    "surplus_cap": 1,
+    "coupon": 0.03,
+    "interest_adjust": 0,
+    "transition_years": 2,
+    "first_interest_share_60": 1844,
+    "first_interest_share_70": null,
+    "first_cash_deficit_30": null,
+    "checkpoints_debt_nextinterest_share_deficit": {
+      "1815": [
+        782.2,
+        27.2,
+        44.0,
+        5.5
+      ],
+      "1820": [
+        838.3,
+        28.9,
+        45.5,
+        6.6
+      ],
+      "1830": [
+        988.6,
+        33.4,
+        49.8,
+        9.8
+      ],
+      "1840": [
+        1218.1,
+        40.3,
+        56.9,
+        15.2
+      ],
+      "1848": [
+        1494.4,
+        48.6,
+        65.6,
+        22.1
+      ]
+    }
+  }
+]

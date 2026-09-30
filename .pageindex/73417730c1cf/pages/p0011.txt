@@ -1,0 +1,54 @@
+
+
+43 Letter from the Laplagne Ministry of Finance to the head of the Bourse on October 17, 1837, copy in 
+extenso in CS, 23/10/1837. 
+44 This process led to a distinction among the securities traded on the Parquet: securities admitted onto 
+the official list, securities admitted for forward and cash trade on the Parquet, securities admitted only for cash 
+transactions, and securities not tradable on the Parquet. 
+45 See CS, 16/8/1837, 28/8/1837, 11/9/1837, 18/9/1837, 29/9/1837, 23/10/1837, 21/3/1838, 17/2/1840, 
+and 11/5/1840. 
+46 Nevertheless, the CS also tried to speed up the listing by asking the government for its concession 
+decisions (see AG, 22/12/1841 and 20/12/1847). The law passed on July 15, 1845 made these promises of shares 
+non tradable. 
+47 CS, 6/12/1841. 
+48 The prices of the securities admitted onto the Rez-de-Chaussée de la Cote were published just below 
+the official list on the same sheet. Before this new organization, these prices were published on a separate list. 
+49 The government also asked the Parquet to handle investor security in the listing decision. 
+
+centralized settlement for forward transactions with the help of the Bank of France for 
+payments. This mechanism had its limitations because the courts required agents to be able to 
+track every debtor at every step of the transaction process, impeding full multilateral 
+compensation. It was extended and scaled up in 1843 and 1845, when a true net compensation 
+of all debts among participants was put in place without losing out on the transparency of the 
+process due to the development of accounting techniques. 
+By the 1860s, the CAC was proud of its settlement mechanism, which was ‘admired through 
+all Europe’ 50. On the forward market, the complete settlement and delivery process 
+accompanying every liquidation (every month) did not exceed five days. On the spot market, 
+the same process was shortened from ten to five days in 1873. These figures compare well 
+with the ten days still required in London in 1988 51. Indeed, contemporaries considered the 
+Parisian monthly settlement to be very efficient compared with foreign exchanges. 
+Furthermore, the Paris process was about net compensation (multilateral), when London and 
+New York only had gross compensation, requiring more cash to be actually transferred and 
+increasing the strain on the money market 52. 
+Multilateral compensation required mutual confidence. It was a consequence of the rise of the 
+collective guarantee among agents de change and was a justification for the CS control on 
+Parquet members. As early as 1823, the CS also stepped up its screening of potential new 
+agents (focusing also on the candidates’ personal wealth and life) and its monitoring of 
+agents’ partners 53. From 1828 on, the CS tried to limit the brokers’ counterparty risk by 
+establishing lists of bad clients 54. 
+The Parquet’s strategy subsequently introduced low-cost, efficient, secure operating 
+mechanisms 55 to attract investors (especially risk-averse investors) and leave the high-risk, 
+high-return end of the market to the Coulisse. The series of regulatory changes and product 
+and organizational innovations put in place explains how the Paris market – mostly the 
+Parquet – was able to respond to the increase in demand for intermediation services. That 
+demand started with manufacturing firms in limited equity partnership form and with foreign 
+50 Cf. AG 15/12/1869. AG 17/12/1851, for example, mentions that foreign bankers and brokers asked for 
+the Parquet settlement procedures as a model. 
+51 Cf. Pagano and Roell, ‘Trading systems’, Table 4. 
+52 Maddison, The Paris Bourse and the London Stock Exchange; Gibson, The Stock Exchanges. 
+53 Solidarity was further boosted when the CS secured the right to decide at which price Parquet seats 
+were to be sold. 
+54 See Riva and White, ‘Danger on the Exchange’, on counterparty risk management at the Parquet. 
+55 From the mid-1830s on, the CS set and did its best to enforce markedly lower minimum commissions 
+(by about 50 %) than the maximum commissions set by law. This concerned mostly less liquid securities, high 
+unit value securities and registered securities (see, for example, CS, 21/1/1836). 

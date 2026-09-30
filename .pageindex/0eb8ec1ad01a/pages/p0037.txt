@@ -1,0 +1,65 @@
+   Although seemingly counter-intuitive, there is a straight-forward explanation for the opposite
+
+differential effects from trade openness. First, consider population. The finding that the effects
+
+of local agricultural productivity shocks are reduced when an area is more integrated is a well
+
+established prediction of trade models. As a country becomes more integrated it becomes less
+
+responsive to domestic shocks and more responsive to foreign shocks. Donaldson (2008) provides
+
+a trade model applied to colonial India that highlights this effect of integration. He also provides
+
+evidence that increased integration made domestic prices less responsive to local weather shocks.
+
+Next, consider urbanization. If cities located in countries that were more engaged in overseas trade
+
+were more dynamic and had greater economic opportunities for workers, then the surplus labor
+
+generated from potato cultivation would have moved more extensively, and more quickly, into
+
+cities located in countries more open to trade. It is important to note, however, that the estimates
+
+should be interpreted cautiously, and as suggestive evidence only, since three of the coefficients
+
+are insignificant.
+
+   We also explore the possibility that labor was pulled into cities by growing labor demand (e.g.,
+
+from industrialization) by examining whether a high initial demand for urban labor increased the
+
+benefits of potatoes. It is possible that regions with more developed cities and greater opportuni-
+
+ties, exerted a greater pull on labor in the country side, resulting in faster urbanization growth after
+
+the adoption of potatoes. We test for this by taking the urbanization rate in 1700 as an admittedly
+
+imperfect proxy for pre-existing urban labor demand. We then test whether the benefits from
+
+potatoes were greater for countries with a higher urbanization rate in 1700. The estimates are
+
+reported in Panel B of Table 6.36 Across the four outcomes of interest, we do not observe any
+
+consistent pattern. Three of the four coefficients are negative, and none are statistically significant.
+
+The lack of a robust positive coefficient for the triple interaction suggests that there is no evidence
+
+that potatoes had a larger effect in countries that were more urban at the time of adoption.
+
+   Finally, we explore whether the effects of potato adoption differed depending on the ability of
+
+the elites to capture the returns of labor. If the increase in agricultural productivity arising from
+
+the introduction of potatoes accrued primarily to a small group of elites, rather than to labor more
+
+generally, then this may cause potatoes to have a smaller positive impact on aggregate population
+
+growth and urbanization. We proxy for the ability of elites to capture the benefits of potatoes
+ 36 It is unclear whether one would also expect a heterogenous effect for population growth. However, for completeness
+
+we also report estimates with population and population growth as the dependent variable.
+
+
+
+
+                                                         35

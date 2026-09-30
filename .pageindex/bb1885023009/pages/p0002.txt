@@ -1,0 +1,18 @@
+
+
+## C. Kaye《History of the War in Afghanistan》vol.1 (1851)
+文件：`downloads/PS_kaye1851_v1_real.txt`（doc 2ed6a04b8934）；vol.2=`downloads/PS_kaye1851_afghanistan_v1.txt`（doc 395a8b7cab27，实为1851年卷二）
+- **1812-03-14定约**（Ouseley/Mohammad Shafi/Mohammad Hassan签）：津贴定为**200,000 tomans（约£150,000）/年**；专条：因波斯惯例军饷预发六个月，英使应尽早分期支付——Kaye讥为"might well be taken for a burlesque"（印p.138，OCR行7270–7290）。
+- 定约Art.VI：欧洲强权攻波斯而英与之和平时，英先调停，调停失败仍须"send a force from India, or in lieu thereof pay an annual subsidy (200,000 tomauns)"直至媾和——Kaye评：**实际把每次俄国侵波都定义为对英属印度的敌对示威**（行7420–7450）。
+- 1814德黑兰条约（Treaty of Teheran）保留200,000 tomans义务，但加"战争须非波斯挑衅所致"条件→1826–28战争中英以此脱身（行7740–7770）。
+- 1838远征：孟加拉纵队自Ferozepore 1838-12-10出发，**约9,500战兵+38,000随军人员+约30,000骆驼**（骆驼从Bikaner/Jaisalmer征雇至枯竭，最后动用Hissar官营驼场；印pp.388–389，OCR行20440–20500）；舒贾新募军约6,000（2骑4步+骑炮1队，行20050–20060）；孟买师由海路至卡拉奇。
+- 1842-01喀布尔撤退纵队：**4,500战兵+12,000随军人员**（卷二OCR行12166）。
+
+## D. Prinsep《Origin of the Sikh Power》1834（Captain Murray口径，约1831–33）
+文件：`downloads/PS_prinsep1834_ranjit.txt`（doc d17a60fd43e1；印pp.183–187，OCR行7400–7560全读）
+- **岁入**：土地税+贡赋 Rs 1,24,03,900；关税 19,00,600；Mohurana印玺费 5,77,000；**Khalsa国库岁入合计 Rs 1,48,81,500（≈1.49 crore≈£150万）**；另jagir及老锡克家族领地岁入1,09,28,000不入国库→**全境资源 Rs 2,58,09,500**（Prinsep按莫卧儿Lahore soubah旧额校验认为估计可信）。
+- **国库窖藏**：Govindgarh要塞藏现金珠宝马象**不少于10 crore（£10m）**（Murray估计，"很不完全"，或更高）。
+- **军力（Murray表）**：正规骑兵（Allard操练+国马Gorchurra）12,811；正规步兵14,941；**正规军合计27,752**；驻防军26,950（骑3,000步23,950，含克什米尔）；西尔达尔封建contingent 27,312；**总计82,014**。**火炮376门+骆驼回旋炮370**；攻城时炮务人员可达4–5,000。骑炮附各团编制。
+- 领土（1834前）：旁遮普两河全境+克什米尔+至雪线山地+**拉达克**+cis-Sutlej约45 talook+印度河以西（Khairabad、Akora、白沙瓦；D.G.Khan包给巴哈瓦尔普尔、D.I.Khan授Mankera的Hafiz Ahmed）。
+- Prinsep判语：兰吉特如"first Peter of Russia"般事必躬亲，但**"Government being based on no solid forms, and institutions, which can be reckoned upon to carry on the machine, when the present regulator of all is removed"**——1839后崩溃的同期预言。
+- 1805年Holkar入旁遮普时兰吉特全军仅"24,000 men and all his best troops"（OCR行5670附近，语境为1805–06危机）。

@@ -1,0 +1,24 @@
+
+
+## B 仅读检索快照（未取全文；正文均已标注）
+
+| 编号 | 文献 | 定位 | 用于本卡的命题 |
+|---|---|---|---|
+| S1 | Victoria Lerner,《Consideraciones sobre la población de la Nueva España (1793-1810): Según Humboldt y Navarro y Noriega》, *Historia Mexicana* | historiamexicana.colmex.mx/index.php/RHM/article/view/1158（**PDF 下载返回 403**） | Humboldt 7–8 万 vs Navarro y Noriega 7,906；Alamán 的自我修正；首都 13.5 万人中仅 2,500 欧生 |
+| S2 | Sigfrido Vázquez Cienfuegos,《Entre la rebelión y la fidelidad: la propuesta juntista de La Habana de 1808…》 | hdl.handle.net/10261/48820 | 1808-07 哈瓦那洪塔案时间线、73 签名、Montalvo 否决、Queraltó 1812 调查 |
+| S3 | 同作者,《Cuba ante la crisis de 1808: el proyecto juntista de La Habana》 | hdl.handle.net/10261/18238 | 73 名签署人中 46 名半岛人、仅四名克里奥尔军官；Kuethe 的圣多明各类比 |
+| S4 | 同作者,《Cuba en la difícil coyuntura política entre 1808 y 1810》 | hdl.handle.net/10261/48790 | 1808-06 派 Arango、O'Reilly 赴韦拉克鲁斯；1809 年动员 26,000 步兵＋3,200 骑兵（AGI, Cuba, 1747, n.º 2.502） |
+| S5 | 同作者,《En "Legítima Representación": los firmantes del fallido proyecto de Junta de La Habana en 1808》, *AEA* 68:1 | doi 10.3989/aea.2011.v68.i1.534 | 签署人社会构成 |
+| S6 | 《Testimonios de una crisis》（Audiencia de México 1808–09 两份呈文＋附录），UCA Rodin | rodin.uca.es/handle/10498/27774（**完整 PDF 链接 404**） | 1808-07-19 Cabildo 以卡洛斯四世名义保有王国；四次 juntas 的日期与记录缺失 |
+| S7 | 《1808: Albores del constitucionalismo mexicano》, SciELO México | scielo.org.mx/scielo.php?pid=S0041-86332011000200009 | Primo de Verdad/Azcárate 的《七章律》论证；09-15 政变与随后逮捕 |
+| S8 | Facundo de Lizarza,《Vindicación del señor Iturrigaray》（PIM-UNAM HYD I-279） | pim.unam.mx/catalogos/hyd/HYDI/HYDI279.pdf | 《Gaceta de México》第 98/99 期原文转录：政变当日官方口径与次日被 Garibay 收回 |
+| S9 | 《Granaditas y su proceso histórico》，瓜纳华托州档案馆数字图书馆 | archivogeneralgto.guanajuato.gob.mx/bibliotecadigital/libros/25_Granaditas_y_su_proceso_historico.pdf | 1810-11 Calleja 的报复：九座绞架、11-27 抽签绞死 18 人、11-28 绞死 Chowell |
+| S10 | 《La producción de sacarosa en Cuba desde el siglo XVI hasta 1820》, *OEL* | eumed.net/rev/oel/2019/10/produccion-sacarosa-cuba.html | 1789–1833 输入奴隶 462,965；Pezuela 的 1790–1821 分港数；1827 年普查 1,000 家 ingenios |
+| S11 | Laird W. Bergad, "Slave Prices in Cuba, 1840–1875", *HAHR* 67:4 | read.dukeupress.edu/hahr/article/67/4/631 | 1827 年奴隶 286,900、1841 年 436,500；1834–41 年均输入 13,469 |
+| S12 | Humboldt 伯尔尼数字版（*Essai politique* 英译节录） | humboldt.unibe.ch/text/1809-Voyage_de_MM-17-neu | "The number of slaves there…is almost nothing"；1793 年四省印第安人比例 |
+| S13 | Humboldt《Ensayo político》第四章中译（Biblioteca Virtual Antorcha） | antorcha.net/biblioteca_virtual/politica/humboldt/4.html | 1793 普查 4,483,569；1804 年 5,837,000；"1808 年超过 650 万"；出生/死亡 170:100 |
+| S14 | Jesús Ruiz de Gordejuela Urquijo, *…los Voluntarios de Fernando VII*（INEHRM）目录页 | docslib.org/doc/3908266 | 政变执行者编为"Voluntarios de Fernando VII"；章节谱系 |
+| S15 | UNAM 法学所,《…16 de septiembre de 1808…》 | archivos.juridicas.unam.mx/www/bjv/libros/8/3654/15.pdf | 政变夜的机构参与（Aguirre、Prado y Obejero、大主教 Lizana、宗教裁判所）及史学争论 |
+| S16 | María Eugenia Romero Sotelo,《El mercurio y la producción minera en la Nueva España, 1810-1821》, *Historia Mexicana* 49:3 | revistas.colmex.mx 记录页（**仅读著录与摘要**） | 独立战争期间水银供给与矿业崩溃的因果；本卡 E5 的检验文献 |
+| S17 | 《¿La independencia de la Nueva España? La conspiración de Valladolid de 1809》类专题研究，*Historia Mexicana* | historiamexicana.colmex.mx/…/304 （**仅读快照**） | “los conspiradores de Valladolid no buscaban la independencia del reino respecto de la monarquía española… algo muy distinto a lo que planteará Hidalgo”；并指出 Michelena 回忆（Bustamante 1843 刊）夸大了阴谋网络 | §8.2 |
+| S18 | Rafael Estrada Michel,《El proceso seguido a los conspiradores de Valladolid en 1809》 | archivos.juridicas.unam.mx/…/2918/8.pdf（**未下载**） | 阴谋者名单 | §8.2 待补 |

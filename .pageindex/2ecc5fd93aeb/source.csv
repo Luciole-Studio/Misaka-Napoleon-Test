@@ -1,0 +1,9 @@
+﻿source_id,table_column,regressor,outcome,coefficient,se_parentheses,se_conley_brackets,N,regressor_unit,fixed_effects,notes
+RP23,Table1col3,log_ruggedness,draft_dodging_pp,3.86229,1.06111,1.35414,534,log unit,year+military division,annexed partly included
+RP23,Table1col5,log_ruggedness,draft_dodging_pp,6.20847,1.66293,2.20756,292,log unit,year+military division,Belgian German Italian depts removed by controls
+RP23,Table1col3,distance_paris,draft_dodging_pp,3.31115,0.88206,1.43014,534,100km,year+military division,association not distance threshold
+RP23,Table1col5,distance_paris,draft_dodging_pp,3.05406,1.2108,1.90045,292,100km,year+military division,restricted sample
+RP23,Table1col3,border,draft_dodging_pp,2.6673,1.30976,1.74814,534,binary,year+military division,spatial SE includes zero
+RP23,Table1col5,border,draft_dodging_pp,4.66339,2.52049,3.63635,292,binary,year+military division,spatial SE includes zero
+RP23,Table4col4,group45_x1810,draft_dodging_pp,-4.99631,1.73068,,554,relative to1809,year+department,reported spatial SE per text; pretrend not randomized
+RP23,Table4col8,group45_x1810,population_conscript_share,-0.00024,6e-05,,555,share,year+department,rounded coefficient; appendix uses-0.0002387

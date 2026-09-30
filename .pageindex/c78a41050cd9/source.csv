@@ -1,0 +1,14 @@
+﻿id,period,scope,metric,value_low,value_high,unit,status,source_id,locator,limitation
+G01,1812-04-01,Empire_armories,fusils_stock,811000,,guns,author_report_not_archive_rechecked,BR25,Les usines d armement;Faute de séries,not annual production
+G02,1812-04-01/1813-07-01,Empire,new_fusils_15month_total,159000,,guns,author_report,BR25,same,do not assign entire total to1813
+G03,1812-04-01/1813-07-01,Empire,fusils_consomme_15month_total,880000,,guns,author_report,BR25,same,warehouse issue/use;not all irrecoverable loss
+G04,Empire_period_general,Empire,typical_monthly_new_fusils,8000,10000,guns_per_month,author_estimate_not_annual_observations,BR25,same,annualized96000-120000 is arithmetic not observed
+G05,1813_mobilization,Empire,shoulder_arms_monthly_difficult_threshold,18000,,weapons_per_month,author_estimate_not_hard_limit,BR25,same,broader than fusils;not plant output
+A01,1804-09-23/1808-01-01,Metz,cannon_made,279,,guns,author_report,BR25,Jauger efficacité,39month total;not Douai or Strasbourg
+A02,1804-09-23/1808-01-01,Metz,cannon_accepted,211,,guns,author_report,BR25,same,acceptance differs from manufacture
+P01,Empire_period_general,national_civilian_and_military,powder_annual_approx,3000,,tonnes_per_year,author_estimate_general,BR25,Un élément indispensable,not Essonnes annual output or army allocation
+P02,1808,Le_Ripault,daily_powder_potential,800,,kg_per_day,capacity_not_actual_production,BR25,Toutes ces usines,not Essonnes;cannot multiply365 for actual output
+H01,1833-01-01,reported_army_incl_gendarmerie_NAfrica,horses_stock,82057,,horses,minister_report_via_two_newspapers,R33,Effectif,peace_era_analogy;not1812
+M01,1818_law,French_army,authorized_stock,240000,,persons,legal_target_not_actual,R18,p6,not capacity maximum
+M02,1818_law,French_army,usual_annual_call_limit,40000,,persons_per_year,legal_usual_limit,R18,p6,volunteers and exceptions separate
+M03,1833-01-01,army_incl_gendarmerie_foreign_NAfrica,reported_stock,421494,,persons,reported_actual_not_field_effective,R33,Effectif,not longrun peace average

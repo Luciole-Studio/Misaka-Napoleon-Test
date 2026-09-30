@@ -1,0 +1,34 @@
+---
+source_url: "https://histoire-de-la-douane.org/le-blocus-continental/"
+final_url: "https://histoire-de-la-douane.org/le-blocus-continental/"
+provider: "exa"
+text_sha256: "84031d55366fa0930c9c6508252d7a60da99463e701ac38de012cdf306134be1"
+title: "Le blocus continental \u2013 Association pour l\u2019Histoire de l\u2019Administration des Douanes"
+content_kind: "page_text"
+---
+
+Le blocus continental – Association pour l’Histoire de l’Administration des Douanes
+
+# Le blocus continental
+
+Mis en ligne le 1 mai 2021
+
+(*)
+
+Le décret de Berlin du 21 novembre 1806 instaure le Blocus Continental. Il dispose en son article 1er : « Les Îles britanniques sont déclarées en État de Blocus », répondant ainsi à l’ordre du cabinet anglais de mai 1806 « déclarant la totalité des Côtes de l’Empire français en État de Blocus ».
+
+Napoléon pose le principe qu’il est de droit naturel « d’opposer à l’ennemi les armes dont il se sert ». Il est persuadé que le blocus sera appliqué par tous les états fédératifs ou vaincus : Italie, Espagne, Hollande, Danemark, Suède, Fédération du Rhin, Naples, Côte Dalmate, Autriche, Prusse et Russie après le semblant d’accord d’Alexandre 1er à Tilsitt. Par réaction le cabinet Saint-James frappe le Danemark en 1807.
+
+Napoléon contre-attaque par les décrets de Milan des 23 novembre et 17 décembre qui ordonnent notamment la saisie et la confiscation de tout bâtiment ayant touché l’Angleterre ou s’étant soumis au contrôle d’un navire anglais.
+
+Ces mesures seront renforcées par le décret de Fontainebleau du 10 octobre 1810 qui ordonne le « brûlement » des marchandises anglaises saisies.
+
+Dans les milieux proches de l’empereur on est convaincu de l’impossibilité d’appliquer le blocus à 100% devant l’immensité des territoires à surveiller et les risques de pénurie ou surproduction. Des dérogations sont indispensables. On va donc instaurer le système des licences.
+
+À partir d’avril 1809, le ministre de l’Intérieur accorde des licences à certains navires pour se rendre en Angleterre moyennant paiement d’une somme de 600 à 800 francs, et dégagement en numéraire d’un solde positif sur l’opération de change; en outre on impose à 50% de leur valeur les marchandises anglaises prohibées mises à la consommation.
+
+Les Anglais en échange envoient leurs navires charger du blé dans les ports français. Ce semblant de libéralisme s’accompagne d’une application brutale et rigide du blocus avec pour effet de faire chuter les recettes des douanes (impôt sur le sel exclu) de 77 millions en 1807 à 30 millions en1809.
+
+Cette procédure dite de « l’Ancien Système des licences » donne lieu à divers abus et malversations favorisant la fraude.
+
+En août 1810, l’empereur décide de délivrer et signer en personne les licences dont les droits seront portés jusqu’à 6 000 francs. Le système devient un véritable commerce d’état. Napoléon en surveille personnellement le fonctionnement et se fait présenter chaque semaine le « tableau des résultats généraux du Commerce par licence ».

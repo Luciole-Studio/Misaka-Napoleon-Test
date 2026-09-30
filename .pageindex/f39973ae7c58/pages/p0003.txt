@@ -1,0 +1,24 @@
+
+
+**S05 · Marzagalli, Silvia, *Les boulevards de la fraude: le négoce maritime et le Blocus continental, 1806–1813. Bordeaux, Hambourg, Livourne*, Villeneuve-d'Ascq: Presses universitaires du Septentrion, 1999.**
+- **T｜未取得全文。** 本卡仅读到出版社目录页与EUI书目摘要（`septentrion.com/fr/livre/?ISBN13=9782859396008`；`hdl.handle.net/1814/26263`）。目录证实其第四章设专节「LES ENTREPÔTS ANGLAIS — Malte et Gibraltar / Helgoland」、第五章设「UNE FRAUDE DOUCE : LA "FILTRATION"」与「LA CONTREBANDE : L'IMPOSSIBLE RÉPRESSION」。摘要原文（可引）："cette incapacité du régime napoléonien à appliquer efficacement sa politique commerciale n'est pas une défaillance locale, occasionnelle ... mais plutôt **une donnée structurelle**"。openedition 版（books.openedition.org/septentrion/122630）被 Anubis 反爬拦截。
+
+**S06 · Crouzet, François, *L'économie britannique et le blocus continental (1806–1813)*, 2 vols, Paris 1958（2e éd. 1987）；idem, "Wars, Blockade, and Economic Change in Europe, 1792–1815", *JEH* 24 (1964).**
+- **T｜未取得全文。** 本卡所用Crouzet命题全部经 Ellis 1981（印p.203注14，引 *Économie britannique* i.139）、Ellis 2015（注1、注4）与 Juhász (AER 2018) 转引。上一轮 t_87ba37 另经 Chaloner 1960 书评取得 p.855 原句。**不得当作独立来源计数。**
+
+**S07 · Dufraisse, Roger, "Contrebande et commerce interlope … de la rive gauche du Rhin"（篇名据Ellis 简称）；及其关于莱茵河贸易方向的论文。**
+- **T｜未取得原文。** 经 Ellis 1981 印pp.201–202（注10、注11：刑罚细节与V.D.释义）与 Spaulding 2015 印p.122（"shift"论的对话）转引。
+
+**S08 · Juhász, Réka, "Temporary Protection and Technology Adoption: Evidence from the Napoleonic Blockade", *AER* 108(11), 2018（另有2018-04-02作者稿，上一轮已存 `nodes/r_b55f2c1cf5/cards/t_f81a6f/sources/c10_juhasz2018draft.pdf`）。**
+- 本卡仅经 `doi.org/10.1257/aer.20151730` 返回的长片段读取其**史实叙述部分**（四大走私港的 Lloyd's List 证据；Crouzet 的"8.8% of exports from Britain ... via Malta"；Edwards 1967 关于1804–05德国棉出口份额降至3%；Kirkman Finlay 1810年关于黑尔戈兰的证词；Ellis 1981 p.203 引文）。**本卡不引用其计量系数。**
+
+**S09 · Benady, Tito, "Gibraltar Shipping"（据 Gibraltar Chronicle 逐年统计），`https://www.um.edu.mt/__data/assets/pdf_file/0016/91501/benady1.pdf`。**
+- 经 `web_search` 返回的长片段读取：1809年靠港船1,014艘＝1806年三倍；载货入港者348艘；868艘以上西葡小船周度记录（实逾千）；1813年771艘；1706年自由港敕令与不受《航海条例》约束。**本卡未取PDF原件逐页核；引用已标注。**
+
+## B. 行政机构史（二/三手，已标层级）
+
+**S10 · Association pour l'Histoire de l'Administration des Douanes (AHAD)**，两篇转载文：
+- 「La grande douane impériale」（转载 Raphaël Schneider, *La douane française au combat — de Mandrin à la Libération*, Ed. La gare, 2020 的一章）→ 本地存 `downloads/pages/c829da0ae0b4.md`。
+- 「Le blocus continental」（据《Cahiers d'histoire des douanes et droits indirects》n°24, hors série, 2e semestre 2001）→ 本地存 `downloads/pages/f8bbb3026c57.md`。
+- 提供：编制序列12,500/25,700/27,200/35,000/35,500/23,000；总监区25→40及四大区名单；共和十一年霜月16日军援敕令（50步兵＋20–40骑兵；1,300＋220人；"les soldats se faisant fraudeurs"）；1806-03-16盐税移交海关；许可证600–800→6,000法郎与每周"tableau"；关税收入77/30/70/109.5百万（**毛口径，与Heckscher/Marion冲突，本卡不入计算**）；1810年进出口总值385/377百万与英货47/39百万；1813年海关营编成与10,685名préposés方案。
+- **层级声明**：协会网站转载的专著章节与内部刊物，其底本为 Jean Clinquart, *L'Administration des douanes en France sous le Consulat et l'Empire (1800–1815)*。**Clinquart 原书本卡未取得**；凡出自本源的数字均在正文标注"AHAD（二手）"。

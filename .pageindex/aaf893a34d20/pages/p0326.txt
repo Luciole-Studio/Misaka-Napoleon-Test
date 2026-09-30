@@ -1,0 +1,103 @@
+Rural Change and Royal Finances in Spain
+
+
+       widely within each type of zone that the difference is not significant. [10] The three types of zones thus reflect something other than town
+       size.
+              Another possibility would be that the types offer a measure of general economic activity and not simply the market orientation of
+       agriculture. To explore this possibility, one must go back fifty years to the information in the catastro. Table 16.6 shows the proportion of
+       artisans and craftsmen among the vecinos in each zone in the early 1750s. On the surface, the three types of zones do seem related to
+       artisan production. The mean number of all craftsmen per thousand vecinos declines from Type A1 , to B1 , to C and, disaggregating the
+       crafts, so do the numbers of carders and weavers and of tailors. On the other hand, the number of sandalmakers (alpargateros) per
+       thousand vecinos is highest in Type C zones and lowest in Type A1 , responding perhaps to the greater isolation of Type C towns. Tests
+       show that these trends are not significant, however, because of the wide variation among the readings within each type of zone (again
+       treating the three types of zones as if they were random samples drawn from a larger population). The same is true of the income of the
+       retail food stores per vecino, although here there is a hint of a possible relationship.[11]
+             In fact, other factors can be more readily associated with at least two types of crafts. The concentrations of carders and weavers,
+       for instance, are found in the zones with the largest mean town population, and indeed, they are located in the large towns. Jaén, Ubeda,
+       Baeza, Alcalá la Real, and Andújar, the only municipalities in the province with over two thousand vecinos, had 109 of the 115 carders in
+       the province and 148 of the 156 weavers. Alpargateros also have a different association.
+
+       [10] Mean town population: Type A = 3,230, B = 2,960, C = 2,680. Despite the apparent trend, the null hypothesis, that all three types
+       come from the same parent population, is not disproved by an analysis of variation, whether one uses the mean town population for each
+       zone, or the individual population readings of all the towns.
+
+       [11] An analysis of variation shows F = 1.75. For a 20 percent probability, F = 1.87.
+
+
+                                                                                           ― 577 ―
+
+
+                                Table 16.6. Crafts and Retail Food Stores, Jaén Zones, 1751–1753
+
+
+
+                                           All     Carders
+                                      Craftsa     & Weavers       Tailors
+                                                                                             Retail Food
+                                                                               Sandal-     Stores b (income    Number of
+           Type          Zone        (number of craftsmen 1,000 vecinos)      makers per   per vecino, rs.)   Lay Vecinos
+
+
+
+            A1            JA           88.7           17.9         11.6            3.2           35.6              2,795
+
+
+
+                          JB           38.9            0.8           6.2           1.2           17.7              2,415
+
+
+
+                          JE           34.1            0.0           7.6           1.8           13.4              2,226
+
+
+
+                          JG           92.6           25.2         20.3            9.6           41.6              5,127
+
+
+
+                          JJ           32.0            0.0           5.5           2.2           21.5               907
+
+
+
+                          JK           75.8            9.1           8.3         16.4             8.9              3,719
+
+
+
+                          JR           45.2            3.2         11.4            4.5           10.6              3,787
+
+
+
+                       Mean A1         58.2            8.0         11.1            5.6           21.3
+
+
+
+            B1            JI           50.2            0.4         14.6          19.4             8.2              2,528
+
+
+
+                          JL           89.3           11.3         12.5          16.2            24.7              3,280
+
+
+
+                          JP           15.2            0.0           2.8           2.0            5.3              1,056
+
+
+
+                          JS           26.4            0.0           5.3           4.2            6.4               946
+
+
+
+                       Mean B1         45.3            2.9           8.5         10.4            11.1
+
+
+
+             C            JF           38.3            0.4         10.2            0.0           13.0              2,561
+
+
+
+                          JM           57.3            2.8           9.7         22.2             3.3              2,165
+
+
+
+
+http://publishing.cdlib.org/ucpressebooks/view?docId=ft4d5nb394;chunk.id=0;doc.view=print[1/22/2011 11:30:51 AM]

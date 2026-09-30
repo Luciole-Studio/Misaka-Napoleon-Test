@@ -1,0 +1,37 @@
+
+
+Section 3. War and the volume of trade Did measures such as the Continental Blockade and Britain’s naval blockade of enemy ports seriously impede the integration of international commodity markets, or were
+
+they so undermined by smuggling, corruption and fiscally-motivated legal exceptions to the 
+general protectionist rule as to have had no significant effect? There is certainly a strand in 
+the literature which holds the latter view: for example, Heckscher (1922) emphasises the 
+normality of smuggling, which was universally acknowledged at the time. He cites no less a 
+figure than Napoleon, in a letter to King Louis of Holland dated April 3, 1808, as saying that 
+“If you need to sell your gin, the English need to buy it. Settle the points where the English 
+smugglers are to come and fetch it, and make them pay in money but never in commodities” 
+(p. 192). While this seems more an extension of Napoleon’s generally mercantilist policies 
+than anything else, Heckscher stressed the “hopelessness of enforcing obedience to the 
+blockade decrees” (pp. 366-7) and concluded that the policy merely served to transfer 
+foregone customs revenue from the French state to smugglers and corrupt officials (p. 197). 
+Similarly, the qualitative literature contains many references to smuggling which undercut the 
+effectiveness of the US Embargo; Jefferson himself concluded that “this embargo law is 
+certainly the most embarrassing we ever had to execute. I did not expect a crop of so sudden 
+and rank growth of fraud, and open opposition by force, could have grown up within the 
+United States” (cited in Davis and Engerman, forthcoming, Chapter 3). 
+By contrast, François Crouzet (1987), while not denying that corrupt French officials 
+did undermine the effectiveness of the Continental Blockade, nevertheless maintains that the 
+blockade was effective from mid-1807 to mid-1808, and again from spring 1810 until the 
+winter of 1812; while Frankel (1982) has persuasively argued that the Jefferson Embargo 
+successfully impeded Anglo-American trade during 1808. Only quantitative evidence can 
+resolve an issue such as this. 
+Figure 1 shows estimates of the volume of trade between 1780 and 1830 for the two 
+main belligerents, Britain and France, as well as for two neutrals, Sweden and the United 
+According to Cuenca Esteban (2004), French imports (in constant 1787-9 prices) fell 8 
+from an annual average of £21.5 million in 1787-9 to just £9.2 million during the war (that is, 
+1797-1812 and 1814-15); while Britain’s imports rose during the same period from £27.1 
+million to £42.1 million (Table 2.1, pp. 38-9). Exports of French domestic products rose by 
+some 17%, from £10.6 million to £12.5 million; while British exports rose by 92%, from 
+£17.8 million to £32.3 million (Table 2.3, pp. 42-3). 
+10 
+
+States. The shaded area in the graph refers to the period between 1807, the beginning of the Continental Blockade and the Jefferson Embargo, and 1814, when wartime disruption between Britain and the United States was at its peak. On the face of it, the effects on Britain seem to have been relatively minor. Imports seem to have been reduced between 1811 and 1814 (although this is relative to a peak in 1810), but apart from a dip in 1811 exports seem to have been close to trend throughout the period. By contrast, French imports were seriously reduced throughout the war, while her exports were lower during 1808-11 than in 1806 and 1807. There is little obvious impact on Swedish trade volumes; but U.S. exports and imports 8 declined substantially after 1808, and collapsed in 1814, when trade volumes were only around 10% of their 1820 levels. An alternative way of measuring the impact of wartime blockades on trade volumes, given the existence of strong upward trends in some of these time series, is to regress the log of the series on time, time squared, and a blockade dummy variable taking the value one for the years 1807-14 and zero otherwise. The percentage impact of the blockade on trade (relative to a no-blockade counterfactual) is then given by 100*(e -1) where * is the *

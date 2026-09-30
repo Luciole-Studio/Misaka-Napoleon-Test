@@ -1,0 +1,38 @@
+Portugal57
+Slaughter weights from Portuguese cities around 1900 give the following figures for weights
+in kilograms:
+     Horses             Mules             Donkeys              Bovines
+       267               264                136                 298
+
+
+For cattle, data stretches somewhat further back in time:
+
+
+                            Porto          Lisboa
+ 1870-1874                                         221,5
+ 1875-1879                                         223,9
+ 1880-1884                                         233,8
+ 1885-1889                        223,1            242,2
+ 1890-1894                        234,1            249,3
+ 1895-1899                        233,3            248,9
+ 1900-1904                        240,3              255
+ 1905-1909                        242,8            252,4
+
+
+Net weights varied between half and two-thirds of live weight.58 In Lisbon there was an
+increase in slaughter weight by 15 % over 30 years, and perhaps as much as 50% over the
+century.
+
+
+European comparisons
+
+
+We do not have sufficient data to justify very complicated and detailed modelling. However,
+there appears to have been a relative ranking of horses. Based on data on height – though
+this very obviously does not allow a simple translation into weight - and breed, we have
+assumed that the Netherlands and England had horses of equivalent size. France and
+Germany appear to have had beasts of similar sizes, following similar trends over time.
+Southern German horses were probably small; equally southern French horses (which
+
+57 Andrade, ‘Notas históricas’; Vareta, ‘A acção municipal’.
+58 See note 24.

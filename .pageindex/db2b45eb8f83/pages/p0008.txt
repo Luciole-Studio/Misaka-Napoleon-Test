@@ -1,0 +1,56 @@
+
+
+### S09｜Patrick Villiers，2020
+- “Piraterie, flibuste et autres guerres de course dans les conflits européens de l’époque moderne”，Benjamin Deruelle、Hervé Drévillon、Bernard Gainot编，*La construction du militaire*，vol.3，Paris：Éditions de la Sorbonne，159–178。
+- DOI [10.4000/books.psorbonne.91295](https://doi.org/10.4000/books.psorbonne.91295)；https://books.openedition.org/psorbonne/91295
+- `downloads/pages/78508d75464b.md`；实读§1–4、38–43，数字§40。
+- 承重：授权、俘获/损失和英国商船存量；私人战争和国家舰队的互补/竞争。
+- 限定：累计捕获不等净损失；“13百万法郎售值”异常且口径不明，本卡不算经济收益。长期俘虏总额不与其它船员俘虏数再加。
+
+## 其他语言、技术与转引
+
+### S10｜Hans Christian Bjerg，2008（丹麦史家的英语论文）
+- “To Copenhagen a Fleet: The British Pre-emptive Seizure of the Danish-Norwegian Navy, 1807”，*International Journal of Naval History* 7(2)，August 2008。
+- https://www.ijnhonline.org/wp-content/uploads/2012/01/Bjerg.pdf
+- 以Exa提取PDF文本实际阅读投降/舰队转移/后续部分，`downloads/pages/71106f9334bc.md`，特别265–332行；未声称校原PDF页影。
+- 承重：带走16战列、15巡防，毁3在台舰；俘舰非全配员利用；丹舰员赴荷与炮艇重建。
+- 限定：丹麦的外交、财政与挪威问题由SC细化；不是自动可调用的法国附属舰队。
+
+### S11｜Alain Clouet，Dossiersmarine（法语个人专业汇编）
+- http://dossiersmarine.free.fr/v_74.htm → `downloads/pages/e4de2569510d.md`
+- http://dossiersmarine.free.fr/v_80.htm → `downloads/pages/795736a33638.md`
+- http://dossiersmarine.free.fr/v_118.htm → `downloads/pages/7811dedbfc48.md`
+- 实读舰型特征/建造日期表及若干条目；用于舰员和满载排水量的数量级，**不是全国舰史权威冻结库**。
+- 限定：含复辟和第二帝国改造，表格服役/除籍节点有异文；不以其混排日期覆盖S17的逐舰下水归类。船吨尺度为模型均值，英burthen不可直接比较。
+
+### S12｜法国国家海军博物馆（法语）
+- *Machine à vapeur de la corvette à roues Le Sphinx*。
+- https://www.musee-marine.fr/nos-musees/paris/collections/oeuvres-phares/machine-a-vapeur-de-la-corvette-a-roues-le-sphinx.html
+- `downloads/pages/04c2ed9cef98.md`，正文242–246行已读。
+- 承重：1829Rochefort、160马力、Liverpool的W.Fawcett、约7节、1833拖Louxor。
+- 限定：首艘“正规帆汽船”不排除早期试验小蒸汽船；网页拖带全程表述未逐航程细核，不据此分析航速/吨煤。
+
+### S13｜炮兵协会技术史（法语）
+- *6–Nouveautés dans l’artillerie de la Marine*，https://www.artillerie.asso.fr/basart/article.php3?id_article=1972
+- `downloads/pages/a29ef989aeb1.md`，正文已读。
+- 承重：Paixhans1822著作、水平炮弹射击主张、Brest委员会试验。
+- 限定：文中“战列巡洋舰先驱”为后见修辞，未采用；后续线膛技术不可全部放到1820年代。1824年试验的同时代报告存在于西班牙国防图书馆目录：https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/consulta/registro.do?id=523703 ，只查到目录，原文未读；因此没有声称核准全套试验数据。
+
+### S14｜Nicolas Mioque，2011（转引Tupinier1822与1813命令）
+- *La frégate USS Constitution à Cherbourg (1811)*，2011-08-24。
+- https://troisponts.net/2011/08/24/la-fregate-uss-constitution-a-cherbourg-1811/
+- `downloads/pages/733699a79d7c.md`；文章正文已读，评论不作权威来源。
+- 上游：Tupinier，*Observations sur les dimensions des Vaisseaux et Frégates de la Marine française*，《Annales maritimes et coloniales》1822，vol.2，44–45（本卡未读原刊）；1813-08-08造三巡防命令。
+- 承重：性能与经济性比较、技术交流、命令未落实。Tupinier1822回顾1811，属后写报告而非事前皇帝意图直接记录。
+
+### S15｜WarHistory后1815综述（英语，降级）
+- *The French Navy After 1815 Part I*，2019-11-30，网页2024更新。
+- https://warhistory.org/article/the-french-navy-after-1815-part-i
+- `downloads/pages/a8db4b456088.md`；正文三时期段已读。
+- 用途：Portal方案、1840动员受返航水手限制、1840年代蒸汽转型的后史类比线索；作者/原始专著未清楚署明，**不作为主模型历史数量锚点**。Grokipedia重复其文不是独立互证。未将其舰数无条件称为“有效实力”。
+
+### S16｜John R. Elting，*Swords Around a Throne*（英语）
+- 实际版本为标为Da Capo Press1997版的电子提取，https://www.scribd.com/document/741223309/John-R-Elting-Swords-Around-a-Throne-Da-Capo-Press-1997
+- 本地`downloads/pages/3762a4f8f4e3.md`，doc `3762a4f8f4e3`；本卡实际读第XV章 *Matters Nautical: La Marine*电子分页81–82；章在目录始于印刷297，但未将电子页误报为印刷页。
+- 承重：三年海军学校、专业工匠和强迫劳动、海军区、1813Anvers人员构成。
+- 限定：作者的地区/阶层性格刻板描写和部分“怯战”解释不用作能力参数；引言的拿破仑回顾不作同时代意图。原脚注所引原档未阅。

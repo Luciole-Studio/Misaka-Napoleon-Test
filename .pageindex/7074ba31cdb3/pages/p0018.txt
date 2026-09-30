@@ -1,0 +1,41 @@
+consequence was the successful attack on the Smyrna fleet, described above. Another was a
+sharp rise in insurance prices.
+
+
+A familiar risk – for example, the insurance of vessels between London and the Netherlands –
+can become an uncertainty due to the unknown and therefore unpredictable nature of the new
+threat of military or privateering attacks in wartime. The practical effect of this reduction is
+the substitution of wagering for insurance. Prices rise, often dramatically. The underwriting
+records of the merchant-insurer William Braund for voyages to and from American in 1759
+and 1764 clearly illustrate this. In 1759, during Atlantic naval conflicts of the Seven Year’s
+War, Braund charged ten discrete rates, including seven different rates in the month of March
+alone, for the voyage from London to a named American port. The destination specified does
+not correlate with the fluctuation of rates between 2.5% and 20%. The mean rate is 7.1%; the
+standard deviation 5.1. In sharp contrast, Braund charged only three discrete rates in 1764
+(2.5%, 3%, and 4%), for a mean of 3.2%, and a standard deviation of 0.76%. From March
+1764 his rate for the voyage did not vary from 2.5%. When rates rise in this dramatic fashion,
+capital typically piles into the underwriting market, as merchant-insurers are attracted by high
+rates. While uncertainty remains, rates are often higher than the unknown level of actual risk
+warrants, and therefore underwriting in such periods of uncertainty was very often profitable.
+
+
+Such shifts into uncertainty create spikes in long-term insurance price trends, and are not the
+main concern of this paper. Instead it is the long-term decline in prices arising from increased
+demand which advanced uncertainty into risk, and brought greater portfolio diversification,
+which the following section illustrates. These constitute the drivers of the marine insurance
+pricing revolution.
+
+
+                                                III
+
+
+Analysis of marine insurance prices before the middle of the eighteenth century is made
+challenging due to the paucity of data which exists. I have compiled a database of nearly
+10,000 prices to insure vessels on voyages from or to London or other English ports, but the
+vast bulk of these are from the latter half of the eighteenth or early nineteenth century, along
+with two large data sets from the mid eighteenth century. Many more price-points have yet to
+be digitised. The bulk of the data is from the handful of surviving underwriters’ risk books, in
+                                                18
+
+	
+  

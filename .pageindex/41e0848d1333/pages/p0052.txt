@@ -1,0 +1,15 @@
+                           Figure 5: Border Treatment
+
+
+
+
+Notes: This figure shows the centroids of the counties included in the Border Sample with
+a maximal distance of 50 km to the borderline drawn in grey. Blue (dark) circles represent
+the treated, yellow (bright) circles the control group. Triangles represent the centroids of
+additional counties which are located in Federal States (colored areas) without within-State
+variation.
+
+
+
+
+                                           50

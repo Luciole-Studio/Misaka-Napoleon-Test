@@ -1,0 +1,45 @@
+England and Wales
+          Year                         Horses                        Oxen                   Horse Equivalent
+          1815                                                         78
+                                        700                                                         700
+          1840                                                          0
+                                        720                                                         720
+          1850                                                          0
+                                        812                                                         812
+          1860                                                          0
+                                        807                                                         807
+          1870                                                          0
+                                        802                                                         802
+          1880                                                          0
+                                        840                                                         840
+          1890                                                          0
+                                        892                                                         892
+          1900                                                          0
+                                        925                                                         925
+          1913                                                          0
+                                        808                                                         808
+
+Horses
+
+
+From 1870 the annual Agricultural Statistics recorded numbers of on-farm horses used for
+agricultural purposes. Before this date, only some local surveys of total horse numbers in
+1854, along with incomplete tax data from the 1810 and 20s, is available. Scrutiny of this
+data suggests that Collins’ estimate of 700 000 horses being used in husbandry in 1810 is
+accurate. Some 847 000 horses and mules were taxed for use in husbandry in Great Britain in
+1821, and Scotland took up perhaps 14% of this total. Assessors did however note in 1819
+that distinguishing horses in husbandry was difficult and that many were used for multiple
+tasks. Scaling up data on total horse numbers from thirteen counties for 1854 and assuming
+the proportion of the total employed in agriculture is the same as that estimated by
+Thompson for 1870 suggests that some 812 000 horses were employed in agriculture in
+England and Wales in that year. Intervening years before 1870 have been interpolated from
+these estimates. 17
+
+
+Oxen
+
+17 Thompson ‘Nineteenth-century horse sense’; Mingay, ed., agrarian history, p.1066; Collins, ed., agrarian history,
+
+pp.1779-1806; Collins, ‘Power’, p.210; Parliamentary Papers 1805.LX, pp.721-2; 1816.I, pp.453-4; 1819.XV,
+pp.423-5; 1821.XVI, pp.323, 335; 1869.LXII, pp.52-60; 1870.LXVIII, pp.60-64; 1871, LXIX, pp.60-68;
+Mitchell, International historical, p.365.

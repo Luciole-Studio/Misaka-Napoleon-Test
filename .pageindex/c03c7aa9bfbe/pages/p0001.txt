@@ -1,0 +1,22 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: A_scenario_bounds.csv
+
+```meta
+▸ table "A_scenario_bounds.csv" (14 data rows)
+```
+scenario,variable,period,low,high,unit,type,anchor,assumption
+S2/S5,standing_army,1815-1830,140000,200000,persons,counterfactual,"T09;M13","core intact; officer cadre retained; treaty ceiling relaxed or leave system; peacetime funding"
+S2/S5,all_theatre_field_army,crisis_1815-1830,180000,260000,persons,counterfactual,"M13 August1813 245000","4-8 months buildup and no preemptive destruction"
+S2/S5,one_main_theatre,crisis_1815-1830,90000,140000,persons,counterfactual,"M13 May-August1813","other forces hold Hungary Italian border Galicia"
+S2/S5,normal_revenue,5-10_years_after_peace,50,80,million_flCM_per_year,counterfactual,AX91,"no new indemnities; commercial access; recovered tax collection; silver value not constant purchasing power"
+S2/S5,peacetime_military_budget,5-10_years_after_peace,25,45,million_flCM_per_year,counterfactual,AX91,"reduced peace army and no large expedition"
+S3,all_theatre_field_army,crisis_1815-1830,150000,230000,persons,counterfactual,"M13;CB16","blocked trade and financial strain but preserved cadre; external coalition support changes upper limit"
+S6,Bohemia_Hungary_occupation,initial_3_years,100000,180000,persons,counterfactual,"M13;H09;T09","staffing stress test only:25-45k towns plus30-55k garrisons plus45-80k mobile forces; excludes external field front"
+S6,Bohemia_Hungary_occupation_frictionless_floor,after_local_cooperation,50000,90000,persons,counterfactual,"M13;H09","halving assumed need conditional on broad elite cooperation; not historical observation"
+S2/S5,army_maintained_per_year,1835-1848,160000,230000,persons,counterfactual,"M13;AX91;RAIL","gradual fiscal recovery without northern Italy; moderate recruitment growth"
+S2/S5,all_theatre_field_army,crisis_1835-1848,230000,330000,persons,counterfactual,"M13;AX91;RAIL","one-season peak with credit and mobilisation; not continuously deployable"
+S2/S5,economic_population_index,1848,121,146,1810_same_borders_index,counterfactual,"G11;E16","assumed net growth0.5-1.0% compounded38years; no absolute population inferred"
+S1,steamrail_trial_window,year,1830,1838,calendar_year,counterfactual,"RAIL;DDSG","early open British technology but finance still binding"
+S2/S5,steamrail_trial_window,year,1834,1842,calendar_year,counterfactual,"RAIL;DDSG","licenses and indirect imports"
+S3,steamrail_trial_window,year,1839,1848,calendar_year,counterfactual,"RAIL;DDSG","tight technology and coal access; late substitution possible"

@@ -1,0 +1,34 @@
+---
+source_url: "https://www.gutenberg.org/files/48340/48340-h/48340-h.htm"
+final_url: "https://www.gutenberg.org/files/48340/48340-h/48340-h.htm"
+provider: "exa"
+text_sha256: "cbd11bbcda1c16a15fb0b8e7fc8e2da6bef176fdce844a79e993574cccb4038d"
+title: "The Project Gutenberg eBook of Reden an die deutsche Nation, by Johann Gottlieb Fichte."
+content_kind: "page_text"
+---
+
+The Project Gutenberg eBook of Reden an die deutsche Nation, by Johann Gottlieb Fichte. 
+
+Anmerkungen zur Transkription:
+
+Schreibweise und Interpunktion wurden bis auf wenige Druckfehler beibehalten. Im Original gesperrt gedruckter Text wird fett dargestellt. Das Inhaltsverzeichnis und eine Liste der vorgenommenen Änderungen befinden sich am Ende des Textes. 
+
+# Reden an die deutsche Nation
+
+Von
+
+Johann Gottlieb Fichte
+
+Verlag von Philipp Reclam jun. Leipzig
+
+Druck von Philipp Reclam jun. Leipzig
+
+## Erste Rede. Vorerinnerungen und Uebersicht des Ganzen.
+
+Als eine Fortsetzung der Vorlesungen, die ich im Winter vor drei Jahren allhier an derselben Stätte gehalten, und welche unter dem Titel: »Grundzüge des gegenwärtigen Zeitalters« gedruckt sind, habe ich die Reden, [1] die ich hiermit beginne, angekündigt. Ich hatte in jenen Vorlesungen gezeigt, daß unsre Zeit in dem dritten Hauptabschnitte der gesamten Weltzeit stehe, welcher Abschnitt den bloßen sinnlichen Eigennutz zum Antriebe aller seiner lebendigen Regungen und Bewegungen habe; daß diese Zeit in der einzigen Möglichkeit des genannten Antriebes sich selbst auch vollkommen verstehe und begreife; und daß sie durch diese klare Einsicht ihres Wesens in diesem ihren lebendigen Wesen, tief begründet und unerschütterlich befestigt werde.
+
+[1] Diese Reden sind im Jahre 1808 zum erstenmal im Druck erschienen.
+
+Mit uns gehet, mehr als mit irgendeinem Zeitalter, seitdem es eine Weltgeschichte gab, die Zeit Riesenschritte. Innerhalb der drei Jahre, welche seit dieser meiner Deutung des laufenden Zeitabschnittes verflossen sind, ist irgendwo dieser Abschnitt vollkommen abgelaufen und beschlossen. Irgendwo hat die Selbstsucht durch ihre vollständige Entwicklung sich selbst vernichtet, indem sie darüber ihr Selbst, und dessen Selbständigkeit, verloren; und ihr, da sie gutwillig keinen andern Zweck, denn sich selbst, sich setzen wollte, durch äußerliche Gewalt ein solcher andrer und fremder Zweck aufgedrungen worden. Wer es einmal unternommen hat, seine Zeit zu deuten, der muß mit seiner Deutung auch ihren Fortgang begleiten, falls sie einen solchen Fortgang gewinnt; und so wird es mir denn zur Pflicht, vor demselben Publikum, vor welchem ich etwas als Gegenwart bezeichnete, dasselbe als vergangen anzuerkennen, nachdem es aufgehört hat, die Gegenwart zu sein.
+
+Was seine Selbständigkeit verloren hat, hat zugleich verloren das Vermögen einzugreifen in den Zeitfluß, und den Inhalt desselben frei zu bestimmen; es wird ihm, wenn es in diesem Zustande verharret, seine Zeit, und es selber mit dieser seiner Zeit, abgewickelt durch die fremde Gewalt, die über sein Schicksal gebietet; es hat von nun an gar keine eigne Zeit mehr, sondern zählt seine Jahre nach den Begebenheiten und Abschnitten fremder Völkerschaften und Reiche. Es könnte sich erheben aus diesem Zustande, in welchem die ganze bisherige Welt seinem selbsttätigen Eingreifen entrückt ist, und in dieser ihm nur der Ruhm des Gehorchens übrigbleibt, lediglich unter der Bedingung, daß ihm eine neue Welt aufginge, mit deren Erschaffung es einen neuen und ihm eignen Abschnitt in der Zeit begönne, und mit ihrer Fortbildung ihn ausfüllte; doch müßte, da es einmal unterworfen ist fremder Gewalt, diese neue Welt also beschaffen sein, daß sie unvernommen bliebe jener Gewalt, und ihre Eifersucht auf keine Weise erregte, ja, daß diese durch ihren eignen Vorteil bewegt würde, der Gestaltung einer solchen kein Hindernis in den Weg zu legen. Falls es nun eine also beschaffene Welt als Erzeugungsmittel eines neuen Selbst und einer neuen Zeit, geben sollte, für ein Geschlecht, daß sein bisheriges Selbst und seine bisherige Zeit und Welt verloren hat, so käme es einer allseitigen Deutung selbst der möglichen Zeit zu, diese also beschaffene Welt anzugeben.

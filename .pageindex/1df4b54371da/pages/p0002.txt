@@ -1,0 +1,11 @@
+
+
+## 存量与未核项
+
+1. Todorov2008已有25页电子稿`downloads/F3_Todorov_redressement_1810_1813.pdf`，第15页文字与图像已核：1810夏50、1812年72、1814年4月74；末期分项旧法港42、Anvers21、Hollande9、Gênes/Venise/Corfou2。这是所在港／控制范围存量，不是建造厂来源；意厂造舰移土伦可归旧法港，2不是累计产量。无armé/désarmé细分。
+2. 同文p16全国满负荷“une vingtaine ... par an”未由逐舰名单复现；1810—1812当前7、9、8只是下限，不是全国上限，不能反向声称证伪20。
+3. Muracciole1974《Napoléon et les arsenaux de la Marine》，https://www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813 ，全文缓存`downloads/pages/21ae17eda88c.md`，104为“à flot ou en chantier”，无已核104=74+30分解。
+4. 日期冲突：Mont Saint-Bernard总表1809 vs单舰/数据库1811；Polonais 5月25/27；Tilsitt 8月15/25；Ulm的厂别总表/单舰为土伦，舰级表为罗什福尔。暂采CSV主值，均不改变七年总小计。
+5. 待核：Winfield–Roberts原书；荷兰新增舰Couronne、Piet Hein的日期异文；斯海尔德非安特卫普厂穷尽性；威尼斯法/意法律舰籍；104具体地域边界。原书入口获取仅得目录或错配文本，未假称读过。
+6. 排除：1806下水而1807完工舰；1814及以后下水舰；未下水的在台舰；Royal Hollandais船架赴英国后以HMS Chatham在Woolwich下水；旧荷兰舰并入及全部改名／转籍重复。
+7. 协调方8—12及后6—10艘/年属于模型假设，不是本资料表认证的史实区间。本卡不作预测、不提交卡。

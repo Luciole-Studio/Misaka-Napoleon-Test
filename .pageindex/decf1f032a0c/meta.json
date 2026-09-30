@@ -1,0 +1,16 @@
+{
+  "doc_id": "decf1f032a0c",
+  "title": "[t_ec2248] nodes/r_5b1357a9c6/cards/t_ec2248/P5_growth.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_ec2248/P5_growth.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_ec2248/P5_growth.csv"
+  ],
+  "sha256": "decf1f032a0cbeb0f7290e5a38c18ce08bf1e7dacceb8046ec61e66c083f65f7",
+  "pages": 1,
+  "task_id": "t_ec2248",
+  "task_ids": [
+    "t_ec2248"
+  ],
+  "added_at": 1790179210,
+  "office_format": "csv"
+}

@@ -1,0 +1,52 @@
+---
+source_url: "https://www.gutenberg.org/cache/epub/13475/pg13475-images.html"
+final_url: "https://www.gutenberg.org/cache/epub/13475/pg13475-images.html"
+provider: "exa"
+text_sha256: "05b4f78c129aadc13e195803159a155a3d2c2cd1ba7358bfcd57d0a35eed2cdb"
+title: "Oeuvres de Napol\u00e9on Bonaparte"
+content_kind: "page_text"
+---
+
+Oeuvres de Napoléon Bonaparte
+
+## The Project Gutenberg eBook of Œuvres de Napoléon Bonaparte, Tome V.
+
+This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.
+
+Title: Œuvres de Napoléon Bonaparte, Tome V.
+
+Author: Emperor of the French Napoleon I
+
+Editor: C. L. F. Panckoucke
+
+Release date: September 16, 2004 [eBook #13475] Most recently updated: October 28, 2024
+
+Credits: Produced by Robert Connal, Renald Levesque and the Online Distributed Proofreading Team. This file was produced from images generously made available by gallica (Bibliothèque nationale de France) at http://gallica.bnf.fr.
+
+### LIVRE SEPTIÈME.
+
+Gumbinnen, 20 juin 1812.
+
+Premier bulletin de la grande armée.
+
+A la fin de 1810, la Russie changea de système politique; l'esprit anglais reprit son influence; l'ukase sur le commerce en fut le premier acte.
+
+En février 1811, cinq divisions de l'armée russe quittèrent à marches forcées le Danube, et se portèrent en Pologne. Par ce mouvement, la Russie sacrifia la Valachie et la Moldavie.
+
+Les armées russes réunies et formées, on vit paraître une protestation contre la France, qui fut envoyée à tous les cabinets. La Russie annonça par là qu'elle ne voulait pas même garder les apparences. Tous les moyens de conciliation furent employés de la part de la France: tout fut inutile.
+
+A la fin de 1811, six mois après, on vit en France que tout ceci ne pouvait finir que par la guerre; on s'y prépara. La garnison de Dantzick fut portée à vingt mille hommes. Des approvisionnemens de toute espèce, canons, fusils, poudre, munitions, équipage de pont, furent dirigés sur cette place; des sommes considérables furent mises à la disposition du génie, pour en accroître les fortifications.
+
+L'armée fut mise sur le pied de guerre. La cavalerie, le train d'artillerie, les équipages militaires furent complétés.
+
+En mars 1812, un traité d'alliance fut conclu avec l'Autriche: le mois précédent, un traité avait été conclu avec la Prusse.
+
+En avril, le premier corps de la grande armée se porta sur l'Oder;
+
+Le deuxième corps se porta sur l'Elbe;
+
+Le troisième corps, sur le Bas-Oder;
+
+Le quatrième corps partit de Véronne, traversa le Tyrol, et se rendit en Silésie. La garde partit de Paris.
+
+Le 22 avril, l'empereur de Russie prit le commandement de son armée, quitta Pétersbourg, et porta son quartier-général à Wilna.

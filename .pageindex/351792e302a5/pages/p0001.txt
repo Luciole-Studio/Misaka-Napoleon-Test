@@ -1,0 +1,21 @@
+<!-- docx readout: body order, so a table sits where the document puts it. A backtick span is parser-added, not file content. Table rows are tab-separated. Footnotes and endnotes are collected at the end and marked [^n]. Headers and footers are not rendered: they repeat on every page. -->
+
+**Black Sea Historical Statistics, 1812-1914**
+
+Socrates Petmezas and Alexandra Papadopoulou
+
+*with the collaboration of George Kostelenos, Gelina Harlaftis, Martin Ivanov, Constantin Ardeleanu, Michael Davidov, Dimitrios Kontogeorgis, Marios Emmanouil, Leonidas Goudelis and Anna Sydorenko*
+
+The Black Sea Historical Statistics, 1812-1914 is one of the products of the Black Sea Databases of the Black sea project. The Black Sea Historical Statistics includes primary quantitative information on trade and shipping for each of the port cities of the Black sea region from the early 19th to the early 20th centuries. The novelty of the Black Sea Historical Statistics series is twofold:
+
+A. The Black sea project has been based on extensive research in numerous national Archives and bibliography, both on physical and digital form in more than eight countries (Russia, Ukraine, Georgia, Bulgaria, Romania, Greece, Turkey, Britain, France, and the USA) and provides to researchers the potential to cross-examine and combine data coming from available archival sources concerning trade and shipping for the whole area of the Black sea. This has been possible through the concentration, registration, processing and homogenization of available data across time and space. The great problem in doing research in the Black Sea region is the different languages, scattered archival sources and different weights and measures.
+
+B. Black Sea Historical Statistics, 1812-1914 has been organized around each of the port cities under examination despite political and administrative changes throughout the period. Placing the port city at the center of the analysis makes it easier for researchers to track changes both on a port city level, as well as to compile aggregate data on regions, frontiers and national and empire levels. This approach, running through the whole project, allows the analysis of the long term development of economic space by overcoming the fragmentation of the national archival resources caused by the dense political and economic changes occurring in the wider area during that period. `italic "Black Sea Historical Statistics, 1812-1914"`
+
+**The aim of the Black Sea Historical Statistics is to provide a corpus of systematic historical statistics that will enable economic historians to integrate the Black Sea area in the global economic history studies.**
+
+**1. ARCHIVAL SOURCES AND BIBLIOGRAPHY**
+
+The Black Sea Historical Statistics has been constructed from data drawn from available archival series of different national and institutional background (official state statistics and consular reports, as well as secondary literature): `bold "Black Sea Historical Statistics"`
+
+#### I. Russia

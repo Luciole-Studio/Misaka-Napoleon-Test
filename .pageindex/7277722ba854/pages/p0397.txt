@@ -1,0 +1,74 @@
+
+
+    {8th Ligne      ”                                   17        599
+    {24th Ligne     ”                                   17        625
+    {45th Ligne     ”                                   18        427
+
+    {94th Ligne     ”                                   18        678
+    {95th Ligne     ”                                   20        594
+    {96th Ligne     ”                                   18        521
+                                                       ---      -----
+                                                       164      5,424    5,588
+
+  Fournier’s Cavalry Brigade:
+    7th Chasseurs                                       12        270
+    13th Chasseurs                                      20        250
+    20th Chasseurs                                      16        226
+                                                        --        ---
+                                                        48        746      794
+
+  For Artillery, Sappers, Train, &c., see Total of Army.
+
+                                                Total of Corps          11,098
+
+  Montbrun’s Reserve Cavalry:
+    Cavrois’s Brigade:
+      3rd Dragoons                                      12         81
+      10th Dragoons                                     12        126
+      15th Dragoons                                     11        219
+    Ornano’s Brigade:
+      6th Dragoons                                      21        305
+      11th Dragoons                                     11        167
+      25th Dragoons                                     22        200
+                                                        --      -----
+                                                        89      1,098
+
+                                                Total Reserve            1,187
+
+  [787] The 5th battalion of the 82nd was in garrison at Almeida.
+
+  [788] One battalion of the 15th Ligne, 585 strong, and one battalion
+  of the 65th, 265 strong, and the Régiment de Prusse, 526 strong, were
+  left in garrison at Ciudad Rodrigo. The cavalry brigade of the corps,
+  composed of three provisional regiments of dragoons, was guarding
+  communications.
+
+
+ARTILLERY.
+
+Twelve batteries with 31 officers and 931 men appear in the state
+of May 1 as totally destitute of horses, and were evidently left
+in cantonments. Five batteries were taken into the field, with 20
+officers, 410 men, and 425 horses.
+
+
+ENGINEERS, SAPPERS, TRAIN, ÉQUIPAGES MILITAIRES.
+
+  The total strength of the Engineers and Sappers was 34 officers, 1,418 men.
+  Of the Train                                        17 officers, 1,175 men.
+  Of the Équipages Militaires                          6 officers,   361 men.
+
+How many of these were taken into the field it is impossible to say,
+but if we take the same proportion as in the artillery, viz. about 30
+per cent., the total would be about 17 officers and 880 men.
+
+  Total Army of Portugal:                          _Officers._  _Men._
+    2nd Corps, infantry and cavalry                    445     10,619
+    6th Corps, infantry and cavalry                    672     16,468
+    8th Corps, infantry                                184      4,714
+    9th Corps, infantry and cavalry                    368     10,730
+    Reserve Cavalry                                     89      1,098
+    Artillery                                           20        410
+    Sappers, Train, &c.                                 17        880
+                                                     -----     ------
+                                            Total    1,795     44,919

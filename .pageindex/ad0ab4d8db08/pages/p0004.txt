@@ -1,0 +1,20 @@
+
+
+### D5 【机制性结论：执法失败→兼并的自动螺旋】（印pp.194–195）
+- 1795年关税线推到默茨河 → 莱茵制造商恐被排出市场而呼吁“并入法国”（1798年得偿）→ “the problems of policing the new frontier **without controlling the right bank beyond** provoked calls after 1798 for intervention on the right bank.”
+- 1811年4月初贝格制造商代表团抵巴黎，递交 **4,000人签名** 的请愿书乞求并入法帝国；被拒，部分因为法国本土制造商游说反对。
+- 拒绝并入贝格的第二个理由是纯粹的**执法地理学**：莱茵河作为关税边界远优于“毫无天然障碍”的贝格东界；Rees–Bremen线的失败（6–8%保费）即为反例。
+- Marc-Auguste Pictet（执政府期已发表的反对者）的七条批评（印p.193）：执行成本吞掉大部分收入；反欺诈措施反而使欺诈增加；边境永久处于战争状态；执行者暴露于腐败；窒息边境地区产业；苛法是雅各宾急法的倒退；强制进口替代把资本从法国有比较优势的农业转开，所生“虚假企业”只能靠“人工”维持。
+- 1813年1月**贝格起义**直接源于大陆体系造成的经济困苦；虽速被镇压，却使法国人感到自己“在敌对领土上行动”。莱茵精英虽因恐惧骚乱而不裁员并救济，却未转为对政权的忠诚（“Guards of Honour”征集极不配合）。
+- 惩罚升级包括在右肩**烙印“VD”**。
+
+## E. Geoffrey Ellis, “The Continental System Revisited”，in Aaslestad & Joor 2015, pp.25–41（PDF44–59）
+
+- 印p.32：帝国130省、4,400万臣民，其中仅约3,000万在“旧法国”；“大帝国”另加**4,000万**拉丁、日耳曼、斯拉夫人口。
+- 印p.33：1814年 donataires 近 **6,000人**，赠产名义总值约 **年3,000万法郎**。（口径对账：F4卡徕 1810年初4,035人年收>1,800万、1814登记≈2,473万——Ellis的“近6,000人／3,000万”与之方向一致但数字不同，**不互相填补**。）
+- 印p.35 【**本卡S5关税同盟问题的正面反事实陈述**】：
+  > “Hypothetically, at least, there were alternatives to that policy as actually applied. Napoleon **might have encouraged the formation of a multinational common market, a genuine Zollverein**, across all the lands of his ‘Grand Empire’. He might have offered all his Italian, German, Iberian, Swiss, Dutch, Polish and other foreign subjects real incentives to cut their commercial ties with Britain by allowing them to trade unhindered in the large imperial home market. **In fact, he did none of those things, but quite the opposite.**”
+- 印p.36：受益地区是**比利时**（棉、铁、煤）与**莱茵左岸**（纺织、冶金），即已在关税线内的先进工业区；受损是关税线外的藩属制造商与商人。意大利王国被1806-06-10、1810-10-10两道敕令及1808-06-20强加的优惠贸易条约定为纺织品的 marché réservé。
+- 印p.37 **Saint-Cloud 敕令（1810-07-03）**：将对敌贸易的特别许可证扩到“旧法国”港口，“公然的财政动机”先于特里亚农税则。
+- 印p.38：**1812–14年法国对外贸易量不超过1784–88年年均的一半**；1789年前夕的官方值直到**1820年代中期**才重新达到。
+- 印p.37：帝国末年，波罗的海与地中海沿岸藩属国出现**农产品价格的蠕动式萧条**（禁对英贸易而法国无力吸纳其剩余）→ 购买力下降 → 反过来**减少对帝国出口品的需求**。→ 本卡将其写作“封锁的自喷式需求回路”。

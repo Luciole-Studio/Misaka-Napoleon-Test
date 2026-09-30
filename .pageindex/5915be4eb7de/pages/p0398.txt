@@ -1,0 +1,74 @@
+
+
+ Glossary
+
+ Notes
+
+ Further Reading
+
+ Bibliography
+
+ Index
+
+ About the Author
+
+ Copyright
+
+===== FILE: OEBPS/xhtml/copyright.xhtml =====
+The Peninsular War
+
+ THE PENINSULAR WAR
+
+ Copyright © Charles Esdaile, 2003.
+
+ All rights reserved. No part of this book may be used or reproduced in any manner whatsoever without written permission except in the case of brief quotations embodied in critical articles or reviews.
+
+ First published 2003 by PALGRAVE MACMILLAN™
+
+ 175 Fifth Avenue, New York, N.Y. 10010 and
+
+ Houndmills, Basingstoke, Hampshire, England RG21 6XS.
+
+ Companies and representatives throughout the world.
+
+ PALGRAVE MACMILLAN is the global academic imprint of the Palgrave Macmillan division of St. Martin’s Press, LLC and of Palgrave Macmillan Ltd. Macmillan® is a registered trademark in the United States, United Kingdom and other
+countries. Palgrave is a registered trademark in the European Union and other countries.
+
+ ISBN 1–4039–6231–6
+
+ eBooks may be purchased for business or promotional use. For information on bulk purchases, please contact Macmillan Corporate and Premium Sales Department by writing to MacmillanSpecialMarkets@macmillan.com.
+
+ First published in 2002 by Allen Lane, an imprint of Penguin Books.
+
+ First PALGRAVE MACMILLAN edition: June 2003.
+
+ eISBN 9781466892361
+
+ First eBook edition: March 2015
+
+===== FILE: OEBPS/xhtml/copyrightnotice.xhtml =====
+The Peninsular War
+
+ The author and publisher have provided this e-book to you for your personal use only. You may not make this e-book publicly available in any way. Copyright infringement is against the law. If you believe the copy of this e-book
+you are reading infringes on the author’s copyright, please notify the publisher at: us.macmillanusa.com/piracy .
+
+===== FILE: OEBPS/xhtml/cover.xhtml =====
+The Peninsular War
+
+===== FILE: OEBPS/xhtml/dedication.xhtml =====
+The Peninsular War
+
+ For Martin Blinkhorn, who first put me on the road, and Pilar Bravo Lledó, without whom I would still be on it.
+
+===== FILE: OEBPS/xhtml/footnote.xhtml =====
+The Peninsular War
+
+ *  Originally the Duchy of Tuscany, Etruria had been ceded to the Bourbons in 1801 in the person of Carlos IV’s eldest daughter and her Italian consort. However, with Etruria having become a centre of smuggling and espionage,
+Napoleon had resolved on its annexation. Spain’s only hope of compensation lying in Portugal, co-operation with the emperor therefore became all the more important.
+
+ †  In terms of Portugal’s modern provinces, the northern zone roughly corresponded to Minho, Douro Litoral and Alto Douro; the central to Beira Litoral, Beira Alta, Beira Baixa, Lisboa, Ribatejo, and Alto Alentejo; and the
+southern to Baixo Alentejo and Algarve.
+
+ *  In brief, in March 1792 the head of the ‘wigs’, the Conde de Floridablanca, had been replaced as chief minister by the head of the ‘cravats’, the Conde de Aranda. Because the ‘wigs’ were associated with officials of
+relatively humble origins who had been advanced by the Crown pushing through enlightened reform and the ‘cravats’ with the old-established titled aristocracy, Aranda’s accession to power seemed to herald a retreat from the
+policies of Carlos III. By the same token, of course, his replacement by Godoy – seemingly, a typical ‘wig’ – was a disaster for the ‘cravats’.

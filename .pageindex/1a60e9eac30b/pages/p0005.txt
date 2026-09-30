@@ -1,0 +1,31 @@
+
+
+【解释竞争】①Grab及Czubaty所代表的制度转型研究，使“附庸＝无国家建设”站不住；但Czubaty对行政资源与选择性现代化的分析也限制了乐观改革论。②外交安全、俄国战略选择与Ottoman自主性分析，限制“拿破仑只需更大胆复国”解释。③北欧安全地理与国内芬兰情结并存，不能用民族心理替代国家决策。④海军短缺约束与后勤适应能力并存。Schroeder、Broers、Lieven等大框架只在本轮实读材料可支持范围内使用，不伪造未读著作的页码或整齐学派对决。
+
+【来源独立性】波兰博物馆引用Gloger，两者不算独立还款证据；Vandal摘引的原信与后世转述同信不算两份证据；Czubaty引用Handelsman仅计一次该方案证据；Süslü附录与Vandal所引同一法国训令不重复计票；İsmail法方交涉段依赖Coquelle，奥方内部拒盟材料才增添不同档案视角；C2与本卡Davey通道相同。正文不以来源数量替代可信度。
+
+## 十、实际使用书目与档案追索
+
+以下定位均指实际读到版本；文件路径从项目根目录起。短引照所读转录，未作逐字影像终校。
+
+### 波兰与法俄文书
+
+- **P1** Jarosław Czubaty, “Księstwo Warszawskie — pierwsze nowoczesne państwo polskie?”, *Kwartalnik Historyczny* 125(2), 2018, DOI **10.12775/kh.2018.125.2.04**。重点pp.374、378–395；PDF `downloads/c18_czubaty2018.pdf`，doc_id `c60ccb20b50e`，PDF页＝印刷页减364。https://apcz.umk.pl/KH/article/download/KH.2018.125.2.04/15761 。2016英文专著未取得，不冒称引用。
+- **P2** Alexander Grab, *Napoleon and the Transformation of Europe*, 2003，第11章，pp.180–185及第11章注13（Handelsman p.243）。`downloads/pages/2ad693d5ac13.md`；https://ndl.ethernet.edu.et/bitstream/123456789/44567/1/2.Alexander%20Grab.pdf 。
+- **P3** Muzeum Historii Polski, “Układ w Bayonne”，署M.G.-K.，正文；`downloads/pages/719fb33fecec.md`；https://muzhp.pl/kalendarium/uklad-w-bayonne 。还款困难段转引Gloger，不冒充原始条约。
+- **P4** Dawid Madziar, “„Królestwo Polskie przywrócone” – oczekiwania współczesnych wobec Konfederacji Generalnej Królestwa Polskiego 1812–1813”, *Meritum* VIII, 2016, pp.113–130，重点宣言段、注24–26。`downloads/pages/ce13bc8c21a9.md`；https://bibliotekanauki.pl/articles/540558.pdf 。Kallas编议事录、1812报纸均为转引/追索。
+- **P5** *Œuvres de Napoléon Bonaparte*, t.V，Panckoucke编，Gutenberg #13475，第七公报“Wilna, le 16 juillet 1812”，答波兰代表团段。`downloads/pages/4ba9714f9fde.md`；https://www.gutenberg.org/cache/epub/13475/pg13475-images.html 。同期公开文书，后刊转录；不是圣赫勒拿回忆。
+- **P6** Dariusz Nawrot, “Komitet Wojskowy na Litwie w 1812 r.”, *Studia i Materiały*, t.8, 2018, ARX REGIA，ISBN 978-83-7022-250-5，pp.288–290及结尾动员段。`downloads/pages/9af33326aacf.md`；https://academic-journals.eu/pl/download?path=%2Fuploads%2FZm9sZGVycHVibWVkaWE%3D%2Fdocuments%2Fstudia_i_materialy_viii_nawrot_komitet_wojskowy_na_litwie_w_1812.pdf 。
+- **P7** Albert Vandal, *Napoléon et Alexandre Ier*, t.II，Gutenberg #31260，1810年公约拒批与替代文本段，注382–385，转引通信16177–16178。`downloads/pages/35dcb892b38d.md`；https://www.gutenberg.org/files/31260/31260-h/31260-h.htm 。作者心理归因与信件文字分开采用。
+- **P8** 同著t.III，Gutenberg #32621，开篇1811年亚历山大—Czartoryski通信段，注41–44（原刊在Czartoryski回忆录附录II,255–278）。`downloads/pages/cd494198d45d.md`；https://www.gutenberg.org/cache/epub/32621/pg32621-images.html 。信为同期、编刊与评论为后世；未读原信。
+
+### 北欧与海权
+
+- **N1** Sveriges riksdag, *Successionsordning (1810:0926)*，现行合并版旧序言；`downloads/pages/f07e59139e29.md`；https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/successionsordning-18100926_sfs-1810-0926/ 。
+- **N2** Thomas Munch-Petersen, “The Policy of 1812: Swedish foreign policy from the Congress of Vienna to the outbreak of the Crimean War”, *Northern Studies* 31 (1996), pp.37–56，前部1810–14政策段；`downloads/pages/bef69773295d.md`；https://www.ssns.org.uk/wp-content/uploads/2019/09/Munch-Pedersen_1996_Vol_31_pp_37_56.pdf 。抽取不逐页，用段首定位。
+- **N3** Jens Petter Nielsen, “The Russian-Swedish Union Treaty of 1812 and Norway’s Role” (2012), pp.40–48，重点40–41、47注2–5；`downloads/pages/d95cb3adbf11.md`；https://vestnikgum.ru/upload/iblock/726/bti76lt9l8y2cj3yigyudezg3a7y0k0w/40_48.pdf 。俄瑞文献集1985年版pp.123–131仅转引。
+- **N4** Norgeshistorie, “Danmark-Norges utenrikspolitikk 1797–1807”；`downloads/pages/be739b1529d1.md`；https://www.norgeshistorie.no/grunnlov-og-ny-union/1374-danmark-norges-utenrikspolitikk-1797-1807.html 。
+- **N5** Morten Nordhagen Ottosen, “Barkebrødstider 1807–1814”；`downloads/pages/3dcc8f5c674b.md`；https://www.norgeshistorie.no/grunnlov-og-ny-union/1346-barkebrodstider-1807-1814.html 。
+- **N6** Finn Erhard Johannessen, “Fra gyldne tider til nød og konkurs”；`downloads/pages/d0bb605e0940.md`；https://www.norgeshistorie.no/grunnlov-og-ny-union/1306-fra-gyldne-tider-til-nod-og-konkurs.html 。N4–6均大学公共历史文章，不是原始档案。
+- **N7** James Davey, *War, Naval Logistics and the British State: Supplying the Baltic Fleet 1808–1812*, Greenwich博士论文，2009，摘要p.v、导论p.4注13及注43–52；`downloads/pages/b92bac3d423e.md`；https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf 。未宣称全论文精读。
+- **N8** A. N. Ryan, “The Defence of British Trade with the Baltic, 1808–1813”, *English Historical Review*, 1959，已用提取pp.443–448、454–455；`downloads/pages/e47ab045c32f.md`；https://www.reenactor.ru/ARH/PDF/Defence.pdf 。镜像有截断、页序OCR问题。

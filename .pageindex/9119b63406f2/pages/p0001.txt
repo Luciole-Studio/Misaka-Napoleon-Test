@@ -1,0 +1,24 @@
+---
+source_url: "https://www.encontro2016.sp.anpuh.org/resources/anais/48/1475257905_ARQUIVO_Renato_de_Mattos.pdf"
+final_url: "https://www.encontro2016.sp.anpuh.org/resources/anais/48/1475257905_ARQUIVO_Renato_de_Mattos.pdf"
+provider: "exa"
+text_sha256: "ab27ec7e7574427381a63b28607ed3a61725ac61ab18e33d55a1aaddd551ad8c"
+title: "Pol\u00edtica, Mem\u00f3ria e escrita da Hist\u00f3ria: problematizando as interpreta\u00e7\u00f5es e os significados da Abertura dos Portos (1808)"
+content_kind: "page_text"
+---
+
+Política, Memória e escrita da História: problematizando as interpretações e os significados da Abertura dos Portos (1808)
+
+RENATO DE MATTOS *
+
+O Senhor D. João consagrou (se é lícito dizer) a Sua Gloriosa vinda ao Seu Principado Ultramarino em o Novo Mundo com a Carta Régia de 28 de janeiro, abrindo os portos do Estado a todas as nações que estivessem em paz e harmonia com a Coroa – Isto nos basta. O Senhor D. Henrique mandou, mas o Senhor D. João veio abrir o Comércio do Orbe. [...] A vinda do Senhor D. João à Bahia marca uma grande era nos Anais da Civilização pela suspensão do Sistema Colonial (LISBOA, 1818: 59).
+
+I
+
+Sob muitos aspectos, a transferência da Corte portuguesa para o Brasil foi interpretada por autores de diferentes perspectivas teórico-metodológicas como um marco de extraordinário significado histórico. Para os historiadores dedicados à análise das transformações ocorridas no Império luso nas primeiras décadas do século XIX, o desembarque do príncipe regente D. João nos trópicos abrange um conjunto de “transformações únicas e absolutamente singulares no âmbito do processo histórico das relações até então mantidas entre a metrópole europeia e seus territórios ultramarinos” (GOUVEA, 2009: 394).
+
+Com efeito, a transferência da sede da Corte para o Brasil em 1808 e o consecutivo processo de instalação do Estado português em solo americano representou um “impacto dramático” não apenas para a vida cotidiana da cidade do Rio de Janeiro, mas também para todos os súditos que integravam o vasto império. Assim, logo nos primeiros meses que se seguiram ao desembarque de D. João no Brasil, é notório o caráter prioritário que assumiram as medidas destinadas ao restabelecimento dos principais órgãos administrativos lusitanos, bem como o esforço das autoridades em vista ao acréscimo da arrecadação (BELLOTTO, 1986; GODOY,2008).
+
+* Doutor em História Social pela Universidade de São Paulo (USP). Docente no curso de graduação em História do Centro Universitário das Faculdades Metropolitanas Unidas (FMU).
+
+Conforme Wilma Peres Costa (2003), o “furor tributário” suscitado pela instalação da Corte no Brasil viabilizou a consecução dos planos “longamente acalentados” pelo ministro D. Rodrigo de Sousa Coutinho de estabelecer novos impostos no interior nos domínios americanos, entre os quais a Décima Urbana, calculada sobre o valor dos prédios habitados, e a Sisa, que recaia sobre 10% dos valores das compras, vendas ou arrematações de bens móveis (COSTA, 2003: 171). Ademais, a reforma fiscal inspirada pelos ministros de D. João também se alicerçou na fixação de taxas que incidiam sobre o comércio marítimo, dentre as quais, a historiografia sobre o período realçou as que foram estabelecidas pela Carta Régia de 28 de janeiro de 1808. Em seus termos, a medida tornava “admissíveis nas Alfândegas do Brasil todos e quaisquer gêneros, fazendas e mercadorias transportados, ou em navios estrangeiros” que na ocasião se conservavam “em paz e harmonia” com o reino de Portugal, além de fixar a taxa de 24% ad valorem sobre os produtos importados desembarcados nos portos brasileiros (COLLECÇÃO DAS LEIS DO BRAZIL, 1891: 2).

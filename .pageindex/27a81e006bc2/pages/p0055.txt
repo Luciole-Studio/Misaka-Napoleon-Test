@@ -1,0 +1,71 @@
+                      2 months moving wi ndow                                             3 mo nth s movi ng wind ow
+   .5                                                                .4
+
+
+   .4
+                                                                     .3
+
+   .3
+                                                                     .2
+   .2
+
+                                                                     .1
+   .1
+
+
+   .0                                                                .0
+     1790    1800       1810    1820     1830    1840    1850          1790       1800      1810    1820     1830      1840    1850
+
+
+
+                    6 mon ths mo vin g windo w                                            12 months moving windo w
+   .5                                                                .7
+
+                                                                     .6
+   .4
+                                                                     .5
+
+   .3                                                                .4
+
+                                                                     .3
+   .2
+                                                                     .2
+   .1
+                                                                     .1
+
+   .0                                                                .0
+     1790    1800       1810    1820     1830    1840    1850          1790       1800      1810    1820     1830      1840    1850
+
+
+                    24 months moving window                                                         Yields
+  .7                                                                      7
+
+  .6
+                                                                          6
+  .5
+
+  .4                                                                      5
+
+  .3
+                                                                          4
+  .2
+                                                                          3
+  .1
+
+  .0                                                                      2
+    1790    1800       1810     1820    1830     1840   1850               1790    1800      1810    1820     1830      1840    1850
+
+
+
+
+        Figure 10: Standard deviations of market yields on consols, rolling windows
+
+Vertical lines mark the beginning of the gold standard’s suspension (27 February 1797),
+the beginning of the War of the Third Coalition (April 1803), Napoleon’s defeat at Wa-
+terloo (June 1815), and the resumption of the gold standard (May 1821) respectively.
+Sources: Author’s calculations.
+
+
+
+
+                                                                53

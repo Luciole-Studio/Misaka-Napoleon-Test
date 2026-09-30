@@ -1,0 +1,110 @@
+
+
+    <!-- Wraps all page content -->
+    <div id="wrap"
+          >
+                    <div class="ia-banners">
+              <div
+        class="ia-banner hidden save-wayback-20260601"
+        data-campaign="save-wayback-20260601">
+        <p>Keep the news in the Wayback Machine. <a href="https://www.savethearchive.com/NewsLeaders" rel="ugc nofollow">Sign Fight for the Future's letter</a>.</p>
+        <form class="banner-close" action="" method="get" data-action="ia-banner-close">
+          <fieldset>
+            <button aria-label="Close Banner" type="submit"></button>
+          </fieldset>
+        </form>
+      </div>
+          </div>
+                    <div id="topnav">
+              <input class="js_nav_tweaks" type="hidden" value='[]'/>
+    <!-- Shady DOM styles for icon-hamburger -->
+<style scope="icon-hamburger-1">
+  .icon-hamburger-1 svg.icon-hamburger {
+    display: block;
+    height: 4rem;
+    width: 4rem;
+  }
+
+  .icon-hamburger-1 .fill-color.icon-hamburger {
+    fill: #fff;
+  }
+</style><!-- Shady DOM styles for login-button -->
+<style scope="login-button-1">
+  .login-button-1 .dropdown-toggle.login-button {
+    display: block;
+    text-transform: uppercase;
+    color: #ccc;
+    cursor: pointer;
+  }
+  .login-button-1 .dropdown-toggle.logged-out-menu {
+    display: inline-block;
+    vertical-align: middle;
+    background: inherit;
+    border: medium;
+  }
+
+  .login-button-1 .dropdown-toggle.login-button svg.login-button {
+    height: 100%;
+    width: 4rem;
+  }
+
+  .login-button-1 .dropdown-toggle.login-button .fill-color.login-button {
+    fill: #999;
+  }
+
+  .login-button-1 .dropdown-toggle.login-button:active .fill-color.login-button,
+  .login-button-1 .dropdown-toggle.login-button:focus .fill-color.login-button,
+  .login-button-1 .dropdown-toggle.login-button:hover .fill-color.login-button {
+    fill: #fff;
+  }
+
+  .login-button-1 .active.login-button {
+    border-radius: 1rem 1rem 0 0;
+    background: #333;
+  }
+
+  .login-button-1 .active.login-button .fill-color.login-button {
+    fill: #fff;
+  }
+
+  .login-button-1 span.login-button {
+    display: none;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    color: #999;
+  }
+
+  .login-button-1 span.login-button a.login-button {
+    color: inherit;
+    text-decoration: none;
+    outline: 0;
+  }
+
+  .login-button-1 a.login-button:hover,
+  .login-button-1 a.login-button:active,
+  .login-button-1 a.login-button:focus {
+    color: #fff !important;
+    outline: none !important;
+    outline-offset: inherit !important;
+  }
+
+  @media (min-width: 890px) {
+    .login-button-1 .logged-out-toolbar.login-button {
+      padding: 1rem 0.5rem;
+      vertical-align: middle;
+    }
+
+    .login-button-1 .active.login-button {
+      background: transparent;
+    }
+
+    .login-button-1 .dropdown-toggle.login-button {
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    .login-button-1 .dropdown-toggle.login-button svg.login-button {
+      height: 3rem;
+      width: 3rem;
+      display: block;
+    }

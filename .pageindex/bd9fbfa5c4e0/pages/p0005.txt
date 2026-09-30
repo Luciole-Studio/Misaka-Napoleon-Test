@@ -1,0 +1,39 @@
+
+
+[Long-run summary results and data](https://www.bankofengland.co.uk/-/media/boe/files/inflation-attitudes-survey/long-run.xlsx)
+
+In our inflation-targeting framework, inflation expectations are a key measure of central bank credibility and can give an indication of wider economic developments. This micro-level dataset provides greater scope for investigating inflation attitudes, including inflation perceptions and expectations.
+
+[Full Inflation Attitudes Survey dataset](https://www.bankofengland.co.uk/-/media/boe/files/inflation-attitudes-survey/individual-responses.xlsx)
+
+[Inflation Attitudes Surveys](https://www.bankofengland.co.uk/news?NewsTypes=ce90163e489841e0b66d06243d35d5cb&amp;Taxonomies=acb3a285f38a4d69beb472a531cf1bd5&amp;Direction=Latest)
+
+## Bank of England/NMG household survey data
+
+This annual survey asks people questions about their income and spending. It is carried out by NMG Consulting on our behalf.
+
+[2004 to 2011 NMG survey data (7MB)](https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/boe-nmg-household-survey-data-2004-11.xlsx)
+
+[2011 to 2026 NMG survey data (71MB)](https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/boe-nmg-household-survey-data.xlsx)
+
+Alongside the publication of March 2026 data, the updated dataset contains a revision to the September 2025 data. Additional verification and quality checks on survey responses in the September 2025 survey wave flagged 266 anomalous respondents. These have been removed from the data. This affects the September 2025 wave only.
+
+The survey data provide a timelier update of developments in household finances than other surveys, which are typically published with a longer lag.
+
+[Supporting STATA code](https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/household-incomes-and-deciles-stata-file.do)
+
+The above Stata Do-file contains example code to create household income variables and income deciles with the BoE/NMG Survey of Household Finances data.
+
+## Historic Agents’ scores
+
+The Agency Network collects economic intelligence from the business community around the UK. They make regular quantitative assessments of the intelligence, which we publish as the [Agents’ scores](https://www.bankofengland.co.uk/-/media/boe/files/agents-summary/agentsscores.xlsx).
+
+For more detail on how the Agents score economic conditions, see [definitions of the agents' scores](https://www.bankofengland.co.uk/agents-summary/definitions-for-the-agents-scores).
+
+This dataset contains the following Agents’ scores that have been discontinued:
+
+- Sectoral and sub-sectoral scores for a number of variables that were discontinued in June 2019, having been replaced by aggregate scores,
+- Manufacturing output (domestic) – discontinued in June 2019, and
+- Pre-tax profitability (manufacturing and services), discontinued in October 2016.
+
+The dataset also contains an approximated back-series for a set of new consolidated scores that replaced a number of sectoral- and sub-sectoral scores in June 2019.

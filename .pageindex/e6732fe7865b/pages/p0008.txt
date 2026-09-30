@@ -1,0 +1,40 @@
+
+
+【机】这是**旧重商主义把「金属存量」当作国力指标、而不把「支付能力」当作国力指标**的直接后果。英国的金属外流恰恰是其**能够在境外购买一切**的表现。
+
+【演·中高置信】**这是一个可在1811年被单人改正的错误**（拿破仑只需听信持怀疑态度的警察官员而非财政大臣），代价接近于零，收益是**削弱1813–15年反法同盟的结算能力**。本卡把它列为 P6／P8 **最高优先级的低成本改判项**。改判后的直接后果链：巴黎金几尼供给下降 → 巴黎的伦敦汇票折价加深（自41%进一步走低）→ 伦敦汇票在欧陆的贴现变难 → 罗斯柴尔德1811–13年的套利利润大幅缩水 → **Nathan 在1814年1月缺少「唯一有办法把钱送到威灵顿手上」的资格** → Herries 转向 Barings 或 Reid Irving，而这两家当时都无欧陆臂膀（Hope 已成空壳）→ **1814年春的补贴与军费转移出现数月延迟**。
+**但须标明反向风险**：切断该通道也切断了法国自己通过同一渠道收取美洲白银与商品款的部分能力（见 §5.3 的冲突发现）。
+
+### 9.2 英国的「净额判断」：封锁的真实决策规则
+
+【锚】Baring 密使 James Richards 携带的备忘录显示英国政府态度自相矛盾：一方面愿准英商自**牙买加**运货到 Vera Cruz 并运回墨西哥产品与贵金属（条件是进口须为英国臣民财产）；另一方面反对无限量比索运英，因为 **「four-fifths or five-sixths of these would ultimately find their way into the Spanish or French Treasuries and thereby become 'sinews of war.'」** 结论：**500万–1,000万比索的有限操作可接受**。（Buist 印页324）
+
+【机】**英国从不问「这会不会帮助敌人」，只问「我方所得贵金属与市场，减去敌方所得军费，净额是正是负」。** 这条规则可以完全解释：为什么英国军舰为法国国库运银，为什么 Addington 形式上禁止 Barings 汇款而实质默许，为什么 Alexander Baring 能以英格兰银行董事身份绕过 Gordon & Murphy 的独占期。
+
+【演·高置信】**这条规则在任何情景下都稳定**，因为它源于英国政治经济的结构（商业利益有议会代表、财政依赖关税与所得税、海军需要现金）。对法国的含义是：**法国永远可以买通英国的一部分商业利益，只要给出的商业回报大于英国估计的法方军事收益。** 本卡据此判定 S2（对英武装共存）在**金融上是自洽的**：英国商界有可验证的利益去接受它（对照 B5 的结论「对拿破仑最有用的不是饿垮英国而是给英国商人可兑现的利润出口」，两卡独立同向）。
+
+### 9.3 「第六强权」与「金融操纵」的神话生产
+
+【锚】Ziegler 对滑铁卢神话的证伪（转引 Victor Rothschild 的复核）：consols 自谷底53的回升**早于滑铁卢一周以上**；即使6月20日以56.5顶格买£20,000、一周后60.5卖出，**利润也不过约£7,000**。Nathan 真正的大利在**1815年底至1817年的英国公债**（1816年底持有£1.2m 面值，1817年7月£1.6m 面值、价逾82）。（Ferguson @1019–1023）
+【锚】Ferguson 亦证伪「黑森选帝侯600万英镑存入罗斯柴尔德」之说：「only a few relatively unimportant items came into Mayer Amschel's possession」；大宗藏在选帝侯的乡间宅邸（Wilhelmshöhe 48箱、Löwenburg 24箱、Sababurg 47箱），**靠向法方 Lagrange 行贿260,000法郎**才保住其中42箱。（Ferguson @220700）
+
+【演·高置信·方法论】**本卡拒绝使用滑铁卢神话与「黑森宝藏」作为任何推演的前提。** 罗斯柴尔德的真实崛起机制是三条可核的事实：**竞争真空（1810年危机＋兼并荷兰使 Hope 空壳化）、Herries 的个人授权、以及现成的跨海峡金流通道。** 三条中有两条是**法国政策的产物**。
+
+---
+
+## ⑩ 科技与生产力：这一层的「生产技术」
+
+### 10.1 通信
+
+【锚】代号系统：Nathan＝「Langbein」，伦敦＝「Jerusalem」，跨海峡运金＝「Rabbi Moses／Mosche」，违禁货称「啤酒」「鱼」「孩子」；多佛代理获授权为罗斯柴尔德业务包船。（Ferguson @286821）
+【锚】Amschel 要求 Nathan 把信**分经巴黎、阿姆斯特丹与敦刻尔克三路发出**，并用**颜色编码信封**（蓝＝汇率上升，红＝下跌），使其在邮局的联系人一眼可辨。（Ferguson @313544）
+【锚】滑铁卢消息：罗斯柴尔德信使把布鲁塞尔午夜发布的第五号号外经**敦刻尔克与迪尔**送抵 New Court，**比 Percy 送达内阁早近48小时**；但**政府起初不信**，第二名自根特来的信使亦然。（Ferguson @1015）
+
+【机】**信息优势的价值不等于可实现的利润**：1815年6月的例子证明，**当信息领先到不被相信时，它就不能变现**。真正被变现的是**汇率的持续微观优势**（见下）。
+
+### 10.2 汇率管理：这一层真正的核心技术
+
+【锚】Herries 的惊叹：Nathan 能「disburse as much as '£700,000 in the purchase of bills on Holland and Frankfurt, without its having produced the smallest effect or excited any sensation on the market… I am convinced that **£100,000 negotiated by a foreign minister or an officer of the commissariat would have produced ten times the effect** of Rothschild's operations.'」（Ferguson @969）
+【锚】反面：1814年7月 Nathan 忽然「like a madman」向法兰克福汇逾 **£100,000**，英镑立刻在法兰克福下跌并蔓延至阿姆斯特丹。（Ferguson @313544）
+【锚】1815年：Nathan 在伦敦买金把**金价推高达23%**；战争确定后又把英镑从 **17.50法郎推到22法郎**。（Ferguson @1003）
+【锚】为不压阿姆斯特丹—巴黎汇率，Hope 安排**汉堡 Matthiessen & Sillem、鹿特丹 Littledale & Dixon、安特卫普 David Parish & Co.、法兰克福 Bethmann Brothers** 对 Hope 开票、各自汇巴黎。（Buist 印页318）

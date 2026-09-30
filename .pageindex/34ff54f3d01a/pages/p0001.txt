@@ -1,0 +1,658 @@
+[
+  {
+    "scenario": "W",
+    "bound": "low",
+    "input": {
+      "K0": [
+        50
+      ],
+      "commissioning": [
+        [
+          8
+        ],
+        [
+          8
+        ],
+        [
+          8
+        ],
+        [
+          8
+        ],
+        [
+          8
+        ],
+        [
+          7
+        ],
+        [
+          7
+        ],
+        [
+          7
+        ],
+        [
+          7
+        ],
+        [
+          7
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ],
+        [
+          6
+        ]
+      ],
+      "retirement": [
+        [
+          3.25
+        ],
+        [
+          3.4162500000000002
+        ],
+        [
+          3.5766812500000005
+        ],
+        [
+          3.7314974062500004
+        ],
+        [
+          3.8808949970312505
+        ],
+        [
+          5.828680580803125
+        ],
+        [
+          5.898959745954937
+        ],
+        [
+          5.965022161197641
+        ],
+        [
+          6.027120831525783
+        ],
+        [
+          6.085493581634236
+        ],
+        [
+          6.140363966736182
+        ],
+        [
+          6.13194212873201
+        ],
+        [
+          6.12402560100809
+        ],
+        [
+          6.116584064947605
+        ],
+        [
+          6.109589021050749
+        ],
+        [
+          6.103013679787704
+        ],
+        [
+          6.0968328590004415
+        ],
+        [
+          6.091022887460415
+        ],
+        [
+          6.08556151421279
+        ],
+        [
+          6.080427823360023
+        ],
+        [
+          6.075602153958421
+        ],
+        [
+          6.071066024720916
+        ],
+        [
+          6.0668020632376605
+        ],
+        [
+          6.062793939443401
+        ],
+        [
+          6.059026303076798
+        ]
+      ],
+      "sectors": [
+        "line_hulls"
+      ]
+    },
+    "backend_output": {
+      "ok": true,
+      "command": "stock-flow",
+      "n_sectors": 1,
+      "n_years": 25,
+      "trajectory": [
+        {
+          "year": 0,
+          "capacity": {
+            "line_hulls": 50.0
+          },
+          "total": 50.0
+        },
+        {
+          "year": 1,
+          "capacity": {
+            "line_hulls": 54.75
+          },
+          "total": 54.75
+        },
+        {
+          "year": 2,
+          "capacity": {
+            "line_hulls": 59.33375
+          },
+          "total": 59.33375
+        },
+        {
+          "year": 3,
+          "capacity": {
+            "line_hulls": 63.757069
+          },
+          "total": 63.757069
+        },
+        {
+          "year": 4,
+          "capacity": {
+            "line_hulls": 68.025571
+          },
+          "total": 68.025571
+        },
+        {
+          "year": 5,
+          "capacity": {
+            "line_hulls": 72.144676
+          },
+          "total": 72.144676
+        },
+        {
+          "year": 6,
+          "capacity": {
+            "line_hulls": 73.315996
+          },
+          "total": 73.315996
+        },
+        {
+          "year": 7,
+          "capacity": {
+            "line_hulls": 74.417036
+          },
+          "total": 74.417036
+        },
+        {
+          "year": 8,
+          "capacity": {
+            "line_hulls": 75.452014
+          },
+          "total": 75.452014
+        },
+        {
+          "year": 9,
+          "capacity": {
+            "line_hulls": 76.424893
+          },
+          "total": 76.424893
+        },
+        {
+          "year": 10,
+          "capacity": {
+            "line_hulls": 77.339399
+          },
+          "total": 77.339399
+        },
+        {
+          "year": 11,
+          "capacity": {
+            "line_hulls": 77.199035
+          },
+          "total": 77.199035
+        },
+        {
+          "year": 12,
+          "capacity": {
+            "line_hulls": 77.067093
+          },
+          "total": 77.067093
+        },
+        {
+          "year": 13,
+          "capacity": {
+            "line_hulls": 76.943068
+          },
+          "total": 76.943068
+        },
+        {
+          "year": 14,
+          "capacity": {
+            "line_hulls": 76.826484
+          },
+          "total": 76.826484
+        },
+        {
+          "year": 15,
+          "capacity": {
+            "line_hulls": 76.716895
+          },
+          "total": 76.716895
+        },
+        {
+          "year": 16,
+          "capacity": {
+            "line_hulls": 76.613881
+          },
+          "total": 76.613881
+        },
+        {
+          "year": 17,
+          "capacity": {
+            "line_hulls": 76.517048
+          },
+          "total": 76.517048
+        },
+        {
+          "year": 18,
+          "capacity": {
+            "line_hulls": 76.426025
+          },
+          "total": 76.426025
+        },
+        {
+          "year": 19,
+          "capacity": {
+            "line_hulls": 76.340464
+          },
+          "total": 76.340464
+        },
+        {
+          "year": 20,
+          "capacity": {
+            "line_hulls": 76.260036
+          },
+          "total": 76.260036
+        },
+        {
+          "year": 21,
+          "capacity": {
+            "line_hulls": 76.184434
+          },
+          "total": 76.184434
+        },
+        {
+          "year": 22,
+          "capacity": {
+            "line_hulls": 76.113368
+          },
+          "total": 76.113368
+        },
+        {
+          "year": 23,
+          "capacity": {
+            "line_hulls": 76.046566
+          },
+          "total": 76.046566
+        },
+        {
+          "year": 24,
+          "capacity": {
+            "line_hulls": 75.983772
+          },
+          "total": 75.983772
+        },
+        {
+          "year": 25,
+          "capacity": {
+            "line_hulls": 75.924745
+          },
+          "total": 75.924745
+        }
+      ],
+      "net_flows": [
+        {
+          "year": 1,
+          "commissioning": 8.0,
+          "retirement": 3.25,
+          "net_change": 4.75
+        },
+        {
+          "year": 2,
+          "commissioning": 8.0,
+          "retirement": 3.41625,
+          "net_change": 4.58375
+        },
+        {
+          "year": 3,
+          "commissioning": 8.0,
+          "retirement": 3.576681,
+          "net_change": 4.423319
+        },
+        {
+          "year": 4,
+          "commissioning": 8.0,
+          "retirement": 3.731497,
+          "net_change": 4.268503
+        },
+        {
+          "year": 5,
+          "commissioning": 8.0,
+          "retirement": 3.880895,
+          "net_change": 4.119105
+        },
+        {
+          "year": 6,
+          "commissioning": 7.0,
+          "retirement": 5.828681,
+          "net_change": 1.171319
+        },
+        {
+          "year": 7,
+          "commissioning": 7.0,
+          "retirement": 5.89896,
+          "net_change": 1.10104
+        },
+        {
+          "year": 8,
+          "commissioning": 7.0,
+          "retirement": 5.965022,
+          "net_change": 1.034978
+        },
+        {
+          "year": 9,
+          "commissioning": 7.0,
+          "retirement": 6.027121,
+          "net_change": 0.972879
+        },
+        {
+          "year": 10,
+          "commissioning": 7.0,
+          "retirement": 6.085494,
+          "net_change": 0.914506
+        },
+        {
+          "year": 11,
+          "commissioning": 6.0,
+          "retirement": 6.140364,
+          "net_change": -0.140364
+        },
+        {
+          "year": 12,
+          "commissioning": 6.0,
+          "retirement": 6.131942,
+          "net_change": -0.131942
+        },
+        {
+          "year": 13,
+          "commissioning": 6.0,
+          "retirement": 6.124026,
+          "net_change": -0.124026
+        },
+        {
+          "year": 14,
+          "commissioning": 6.0,
+          "retirement": 6.116584,
+          "net_change": -0.116584
+        },
+        {
+          "year": 15,
+          "commissioning": 6.0,
+          "retirement": 6.109589,
+          "net_change": -0.109589
+        },
+        {
+          "year": 16,
+          "commissioning": 6.0,
+          "retirement": 6.103014,
+          "net_change": -0.103014
+        },
+        {
+          "year": 17,
+          "commissioning": 6.0,
+          "retirement": 6.096833,
+          "net_change": -0.096833
+        },
+        {
+          "year": 18,
+          "commissioning": 6.0,
+          "retirement": 6.091023,
+          "net_change": -0.091023
+        },
+        {
+          "year": 19,
+          "commissioning": 6.0,
+          "retirement": 6.085562,
+          "net_change": -0.085562
+        },
+        {
+          "year": 20,
+          "commissioning": 6.0,
+          "retirement": 6.080428,
+          "net_change": -0.080428
+        },
+        {
+          "year": 21,
+          "commissioning": 6.0,
+          "retirement": 6.075602,
+          "net_change": -0.075602
+        },
+        {
+          "year": 22,
+          "commissioning": 6.0,
+          "retirement": 6.071066,
+          "net_change": -0.071066
+        },
+        {
+          "year": 23,
+          "commissioning": 6.0,
+          "retirement": 6.066802,
+          "net_change": -0.066802
+        },
+        {
+          "year": 24,
+          "commissioning": 6.0,
+          "retirement": 6.062794,
+          "net_change": -0.062794
+        },
+        {
+          "year": 25,
+          "commissioning": 6.0,
+          "retirement": 6.059026,
+          "net_change": -0.059026
+        }
+      ],
+      "total_commissioned": 165.0,
+      "total_retired": 139.075255,
+      "capacity_final": {
+        "line_hulls": 75.924745
+      },
+      "negative_capacity_flags": [],
+      "feasible": true,
+      "interpretation": "产能存量流量恒等式 K_{t+1}=K_t+投产−退役, 分部门逐年推演。这是 Gosplan 产能平衡表的 ввод/выбытие 台账。某年产能变负=退役超过存量, 是不可能计划而非有效平衡 (negative_capacity_flags 标出)。产出计划必须逐年对齐这条轨迹, 否则纸上计划。"
+    },
+    "max_abs_replay_residual": 0.0
+  },
+  {
+    "scenario": "W",
+    "bound": "base",
+    "input": {
+      "K0": [
+        50
+      ],
+      "commissioning": [
+        [
+          10
+        ],
+        [
+          10
+        ],
+        [
+          10
+        ],
+        [
+          10
+        ],
+        [
+          10
+        ],
+        [
+          8.5
+        ],
+        [
+          8.5
+        ],
+        [
+          8.5
+        ],
+        [
+          8.5
+        ],
+        [
+          8.5
+        ],
+        [
+          7
+        ],
+        [
+          7
+        ],
+        [
+          7
+        ],
+        [
+          7
+        ],
+        [
+          7
+        ],
+        [
+          7
+        ],
+        [
+          7
+        ],
+        [
+          7
+        ],
+        [
+          7
+        ],
+        [
+          7
+        ],
+        [
+          7
+        ],
+        [
+          7
+        ],
+        [
+          7
+        ],
+        [
+          7
+        ],
+        [
+          7
+        ]
+      ],
+      "retirement": [
+        [
+          2.25
+        ],
+        [
+          2.44375
+        ],
+        [
+          2.63265625
+        ],
+        [
+          2.8168398437500004
+        ],
+        [
+          2.9964188476562503
+        ],
+        [
+          5.343016752929688
+        ],
+        [
+          5.500865915283204
+        ],
+        [
+          5.650822619519044
+        ],
+        [
+          5.793281488543092
+        ],
+        [
+          5.928617414115937
+        ],
+        [
+          6.057186543410141
+        ],
+        [
+          6.104327216239634
+        ],
+        [
+          6.149110855427652
+        ],
+        [
+          6.19165531265627
+        ],
+        [
+          6.232072547023456
+        ],
+        [
+          6.2704689196722825
+        ],
+        [
+          6.3069454736886685
+        ],
+        [
+          6.341598200004235
+        ],
+        [

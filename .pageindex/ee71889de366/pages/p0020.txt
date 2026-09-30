@@ -1,0 +1,19 @@
+
+
+Was Lacuée’s reform effective at reducing draft evasion rates? We attempt to answer this question in Tables 4 and 5 (Columns (1)–(4)). Across all eight specifications, we find a large, consistent, and statistically significant effect of belonging to categories 4 or 5 and having higher terrain ruggedness on the draft dodging rate for year 1810, that is, following the implementation of Lacuée’s plan. The coefficient on the interaction term between log or ruggedness and the 1810 dummy is large and always statistically significant, at least at the 5 percent level (and mostly at the 1 percent level). Figure 7, which provides a graphical representation of these results, suggests no noticeable pre-trend in draft-dodging rates prior to 1810.
+
+Between 1809 and 1810, the gap in the draft dodging rate between Lacuée’s groups 4 and 5 and the rest of the French Empire decreased by 4.38 points while our preferred estimate (Table 4, Column (4)) suggests that discriminatory conscription reduced this gap by 4.99 points. In other words, if departments in which the central government had trouble imposing conscription had increased the burden of conscription to the same extent as in the rest of France, the “draft dodging gap” may have increased. Our results testify to the effectiveness of Lacuée’s reform.
+
+Figure 7
+
+THE LACUÉE PLAN AND DRAFT DODGING RATES OVER TIME
+
+Notes: These two graphs report the coefficients from Table 4, Column (4)—upper panel—and Table 5, Column (4)—lower panel.
+
+Sources: Authors’ computations, Table 4.
+
+Building on our econometric estimates, a back-of-the-envelope calculation suggests that there would have been 3,256 more draft dodgers in 1810 if departments included in categories 4 and 5 by Lacuée had experienced the same conscription burden as the rest of the country. Footnote 55 In 1810, the number of people who dodged the draft in French-controlled territories was 10,499, meaning that the figure would have been 27 percent higher absent Lacuée’s reform. Footnote 56 On the other hand, the additional number of men who would have been sent to the army in 1810 if conscription had been the same in category 4 and 5 departments as in the rest of France would have been 3,256. Thus, raising the share of men drafted in category 4 and 5 departments would have increased the number of draft dodgers by almost as much as the number of men joining the army. The net gain in terms of the increased size of the armed forces would have been close to zero. Footnote 57
+
+### Reforming Conscription
+
+While the discriminatory enforcement of conscription was necessary to meet the regime’s pressing military needs, it came with serious drawbacks. For one, departments did not fail to notice the disparate treatment, and local populations were not happy with what they perceived as a violation of the most basic principles of equity. Another drawback was that there were only so many able-bodied men of age that could be drafted from a department before it would have negative social and economic consequences. The more young men joined the army, the fewer of them were left to work the fields or in factories. To mitigate these adverse effects, the regime took a series of innovative actions aimed at reducing draft dodging rates throughout the country once and for all.

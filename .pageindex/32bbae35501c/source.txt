@@ -1,0 +1,96 @@
+6 P. E. TETLOCK AND A. BELKIN
+
+‘great, but think how bad things could have been if x or y had occurred”) or
+“upward” counterfactuals to inspire greater effort (“Do not be complacent
+about the present, think how good things could have been and, by implica-
+tion, could yet become”).
+
+(4) Need for cognitive consistency: The well-documented aversion to im-
+balanced or dissonant couplings of events should motivate people to rule out
+counterfactuals that link bad causes (like Stalin) to good outcomes (like ac-
+celerated economic growth) or that link good causes (like foreign aid) to bad
+‘outcomes (like increased dependency and corruption of recipient regimes).
+Pressures for cognitive consistency should also motivate people to defend
+“core beliefs.” For example, people who believe that “evil is avoidable”
+should be strongly motivated to generate counterfactuals that undo moral
+catastrophes. But people of different political persuasions may define moral
+catastrophe differently. For many conservatives, the root of evil in Soviet
+history goes straight back to the Bolshevik revolution of 1917 (which should
+be a focal point of “if only” speculation); for many social democrats, a noble
+socialist experiment was corrupted by Stalinist tyranny (which should be a
+focal point of “if only" speculation). ‘These predictions fare reasonably well
+against the evidence (Chaper 3, Breslauer).
+
+‘The list is a lengthy and unparsimonious one. Here we simply want to add
+that there are always two levels at which motives may influence counterfac~
+tual reasoning: private thought (affecting what we truly believe) and public
+posturing (affecting what we say we believe and want to induce others 10
+believe). Most psychologists think that the motives listed here do indeed
+shape privately held plausibility judgments of counterfactuals, but few
+would deny that public impression management is also at work (Tetlock and
+Manstead 1985)—a judgment with which most of our contributors seem to
+concur. This volume contains suggestive evidence that the closer we get to
+prescriptive policy debates, the greater the temptation to use counterfactual
+arguments as rhetorical tools to justify either what one plans to do or has
+‘already done (Chapter 3, Breslauer; Chapter 5, Lebow and Stein; Chapter 6,
+Herrmann and Fischerkeller).
+
+How should we respond to this extended list of cognitive and motivational
+threats to the validity of thought experiments? We urge a middle-ground
+response between arrogance and despair. The arrogant response is, of
+course, to argue that although mere mortals may fall prey to these biases,
+serious professionals are surely immune. We judge this response arrogant
+because there is already abundant evidence that a wide range of profes-
+sionals working on important tasks are susceptible to many of the effects
+sussed here (Dawes 1991). Moreover, some of our contributors report
+evidence of certain hypothesized biases in the scholarly literature (Chapter
+3, Breslauer, Chapter 8, Kiser and Levi). The despairing response is, of
+‘course, to argue that the biases identified by psychologists are inevitable—
+
+COUNTERFACTUAL THOUGHT EXPERIMENTS, 7
+
+that they have hopelessly contaminated all counterfactual arguments ad-
+vanced thus far and will contaminate all counterfactuals advanced into the
+foreseeable future. The former response is too dismissive of the psychologi-
+cal literature; the latter takes it too literally. The appropriate response in our
+view is to acknowledge cognitive biases and to make good-faith efforts to
+hold each other accountable to standards of evidence (such as those sketched
+in this chapter) that check the most serious and pervasive of these biases
+(Tetlock 1992b). All research methods are subject to contamination and mis-
+interpretation; it is only prudent to beware of potential biases in the most
+subjective of all methods of inquiry, the counterfactual thought experiment.
+
+Conclusion
+
+‘There is something about the topic of counterfactual thought experiments in
+world politics that makes people feel a bit uneasy, even defensive. To be
+blunt, it feels like epistemological slumming. As social scientists, we are all
+too familiar with the prestige hierarchy for methods of drawing causal infer-
+ence. At the top of the scientific pecking order is experimentation in which
+‘we can manipulate hypothesized causes and then either hold everything else
+constant or randomize extraneous influences across treatment conditions.
+Experimental control of this sort is obviously out of the question for most
+questions in world politics. We cannot rerun the tape of history: splicing a
+Gorbachev in or out, delaying or accelerating key technological develop-
+ment, or tinkering with this or that aspect of macroeconomic policy.
+
+Social scientists often resort to statistical control when experimentation is
+ethically or practically problematic. But statistical arguments themselves of-
+ten rest on counterfactual assumptions (Fearon 1991) and are, in any case,
+extraordinarily difficult to make for many issues that loom large in security
+debates. For example, what kind of regression or time series analyses will
+allow us to estimate the causal contribution of nuclear weapons to the “long,
+peace” between the United States and Soviet Union between 1945 and 19917
+There are simply too many confounding variables—a problem we can alle-
+viate but not eliminate through judicious selection of comparison cases and
+meticulous process-tracing of decision-making protocols,
+
+So where does that leave us? Probably still feeling uneasy: we seem to be
+stuck with quite literally a third-rate method, counterfactual thought experi-
+mentation. The control groups exist—if indeed “exist” is the right word—in
+the imaginations of political analysts who are left with the daunting task of
+reconstructing how history would have unfolded if causal variables of the
+past had taken on different values from the ones they actually did. The
+whole exercise starts to look hopelessly subjective, circular, and nonfalsifia-
+ble. What is to stop us from simply inventing counterfactual outcomes that
+

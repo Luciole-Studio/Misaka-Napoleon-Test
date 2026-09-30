@@ -1,0 +1,35 @@
+
+
+### S17｜实际下水最小清单的读到版本（代理有界核读）
+完整逐舰识别、52行及冲突在`yards_launches_1807_1813.csv`；`notes_yards.md`是收束来源说明，`evidence/yard_evidence.md`保留详录。不是Winfield–Roberts原书亲阅。
+
+|代码|实际读到的网页/位置|保存路径|
+|---|---|---|
+|L|https://en.wikipedia.org/wiki/List_of_ships_of_the_line_of_France ，First Empire各舰级与同名舰条目|downloads/pages/898ecb4eeeb6.md|
+|T|https://en.wikipedia.org/wiki/T%C3%A9m%C3%A9raire-class_ship_of_the_line ，Duquesne/Danube/Small Variant的建造表|downloads/pages/07268e71e6e2.md|
+|B|https://en.wikipedia.org/wiki/Bucentaure-class_ship_of_the_line ，Ships in class|downloads/pages/06f099bfa047.md|
+|O|https://en.wikipedia.org/wiki/Oc%C3%A9an-class_ship_of_the_line ，modified group|downloads/pages/a33ec60b83be.md|
+|U|https://en.wikipedia.org/wiki/French_ship_Ulm_(1809) ，Construction/career|downloads/pages/f2fd5147bb31.md|
+|M|https://en.wikipedia.org/wiki/French_ship_Mont_Saint-Bernard_(1811) ，Construction/career|downloads/pages/dc7df5fbd91a.md|
+|P|https://en.wikipedia.org/wiki/French_ship_Polonais_(1808) ，Construction/career|downloads/pages/a926b7531016.md|
+|Ti|https://en.wikipedia.org/wiki/French_ship_Tilsitt_(1810) ，Construction/career|downloads/pages/5af51159c185.md|
+|V|https://threedecks.org/index.php?display_type=show_shipyard&id=281 ，Venice events1810–12|downloads/pages/acacc4f22128.md|
+|G|https://gallica.bnf.fr/ark:/12148/btv1b69469265 ，Charlemagne版画目录题名|downloads/pages/a6a9708fe694.md|
+
+L/T/B/O/U/M/P/Ti多共用Winfield & Roberts、Roche、Demerliac，不算八项独立证据；V转Virgilio Ilari《La Marina Italiana di Napoleone》，原著未阅；G馆藏题名独立佐证1807-04-08 Charlemagne，不声称看过版画原图。Mont Saint-Bernard1809/1811、Ulm船厂、Polonais/Tilsitt日异文保留。未核荷兰新增全表和若干外厂项目；本土缺列不能当零。
+
+### S18｜本轮F4财政模型（跨卡研究，不是历史观察）
+- Sister10038，*法国财政、银行与统治阶级：贡赋帝国能否变成税收国家*，本轮卡t_9f10b6。
+- 实读`nodes/r_5b1357a9c6/cards/t_9f10b6/F4_french_finance_ruling_class.md`执行摘要及“S5：固定税收核心下的1815–1848”联合预算表（约242–265行）。
+- 承重：T800+A40、N300、K25、储备20时，可L300+V195闭合；陆军升350仍V195则缺50。无A、T750中心时V195后L230。数字均为F4公开假设的会计情景，不是历史实支或获准拨款。
+- 上游Marion/1810财政通信由F4核读，本卡未重新亲阅Marion原扫描，不冒称双源独立验证。本卡用途是拒绝把陆海軍两个条件上沿同时套用。
+
+## 失败、排除及复用
+
+- Richard Glover，*The French Fleet,1807–1814; Britain’s Problem; and Madison’s Opportunity*，*Journal of Modern History*39(3),1967,233–252，DOI10.1086/240080：**未取得、未读**，不可署其为已核舰数。收束`notes_glover.md`。
+- 代理实际读J.C.A.Stagg，*The Political Essays of William Shaler*（2002），Essay II注2（总篇注33），https://oieahc.wm.edu/wp-content/uploads/stagg_essay2.pdf 和 https://oieahc.wm.edu/wp-content/uploads/stagg.pdf 。其“France would shortly put150 ships of the line to sea”是1811报刊预期，参引Glover全篇，不是Glover逐页数字/1814实际舰数；本卡排除建模。原报纸未阅。
+- L’Histoire1981 *Le vaisseau de la guerre d’Amérique : le «74 canons»*仅得到预览，`downloads/pages/3c0d8aaa1316.md`。不把18世纪成本直接换1810法郎；未用于模型。
+- Winfield & Roberts、Battesti、Acerra & Meyer、Monaque、Chevalier、Troude、Lévêque2003均是关键上游或后续核验文献；本卡没有声称读过未获得的原书。Lévêque仅由S01转述。
+- 旧C2：`nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md`、`naval/UK_1803_1805.csv`、`naval/mobilisation_1803.csv`、James1837折页图；复用状态分类而非法国完整系列。
+- 旧C3：`nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`、`sortie_evidence.md`、`rebuild_feedback_evidence.md`、`c3_calibration.csv`；复用结构和训练反例，不继承“未来全NA”。
+- 旧James1837卷III印刷373–374与年舰表口径：海勤现役/海勤预备与港勤及在建分开。B3本轮新取英国1806–15表由该卡承担，本卡只读取其`model_assumptions.md`和协调信息，不冒称已经逐项核英方全表。

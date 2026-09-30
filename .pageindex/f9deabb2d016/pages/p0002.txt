@@ -1,0 +1,38 @@
+
+
+## 二、来源独立性评估
+- Lieven与Riehn相互独立（档案基础不同：RGVIA vs 编制文献/Stein系）；两者与Bogdanovich存在部分共同上游（俄官修统计），**兵力数字三源并列时实为"两个半"独立源**。
+- Keep的征兵统计上游=Shchepetil'nikov/Beskrovnyy；Lieven的1812–14征兵65万上游=RGVIA Fond 1——**征兵量级有两条独立档案路径，互证成立**。
+- Clausewitz（当事人战后分析）与Caulaincourt（当事人回忆，回溯性）独立；两者与后世研究独立。
+- 军事殖民地仅Keep一条承重线（其上游Petrov/Shchepetil'nikov/Ferguson未亲读）——**单源，正文已标**。
+- 尼古拉朝宪兵数据仅Keep一条线（上游Bogdanovich官修、Beskrovnyy）——单源近似，S5推演置信因此封顶"中高"。
+
+## 三、按source strategy核对
+| 指定来源 | 状态 |
+|---|---|
+| Lieven | ✅ 全文取得亲读（S1） |
+| Mikaberidze | ❌ 未取（Anna's有货未下载，为控下载量级；其Borodino/Berezina专著对本卡量级判断非必需——缺口影响：Borodino伤亡采Lieven"最新俄方估计"单源） |
+| Riehn | ✅ 全文取得亲读（S3） |
+| Zamoyski | ❌ 未取（叙事史，承重功能被Lieven覆盖） |
+| Keep《Soldiers of the Tsar》 | ✅ 全文取得亲读（S2） |
+| Fuller《Strategy and Power》 | ❌ 未取（战略解释层，本卡以一手化更强的Lieven/Clausewitz覆盖；其"贫穷-落后-强军悖论"框架未采） |
+| LeDonne | ❌ 未取（大战略地理框架；S5推演自建，未借其"战区体系"术语） |
+| Безотосный | ❌ 未取（俄语专著；其情报史贡献部分被Lieven的Chernyshev节覆盖） |
+| Tarle | 上一轮网页章节缓存（`b24d31cb67be.md`，t_26cd47 E11），苏联史学标注在案；本卡未新增承重 |
+| Clausewitz 1812 | ✅ 复用已核缓存（S5） |
+| 复用t_26cd47 | ✅ 全部四份札记读毕并按证据号复用 |
+
+## 四、未取得而明确存在的材料（供后续/红队）
+1. Шчепетильников, «Столетие Военного министерства» т.IV（СВМ）：逐levy名义/实收表——精确化⑤。
+2. Кабузан, «Народонаселение России в XVIII—первой половине XIX в.»：男丁基数序列。
+3. Beskrovnyy, «Русская армия и флот в XIX веке»；«Отечественная война 1812 года»档案刊布系列。
+4. Pipes, "The Russian Military Colonies"（JMH 1950）；Ferguson耶鲁博士论文（军事殖民地1810–66）。
+5. Hartley, *Russia 1762–1825: Military Power, the State and the People*（2008）；Wirtschafter, *From Serf to Russian Soldier*（1990）。
+6. Josselson夫妇Barclay传（*The Commander*, 1980）。
+7. РГВИА Fond 1/103/125/489（Lieven所据原档，谱系引用不假装亲阅）。
+
+## 五、方法与执行记录
+- 检索/下载：annas-archive skill脚本直连（搜索3次、下载3件全部校验通过）；未用浏览器、未破解DRM。
+- 阅读纪律：分段读（每次≤300行/一个doc节点），随读随写四份notes_*.md，正文由笔记装配，未回读原文全文。
+- 引文核对：Lieven引文自转换文本复制（转换脚本仅剥HTML标签，未改字符）；Keep/Riehn引文自doc_read输出人工去OCR噪声后录入，关键数字（20/500、160,000、488,000、1,318,324等）逐个与页面文本比对。
+- 无子代理。

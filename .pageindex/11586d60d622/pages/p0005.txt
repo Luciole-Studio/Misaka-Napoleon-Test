@@ -1,0 +1,45 @@
+
+
+---
+
+# ⑩ 科技与生产力
+
+【锚点】矿业的技术瓶颈是**汞（azogue）**：秘鲁王室财库 1812 年收入项内同时有"Producto del azogue de Huancavelica"与"Azogue de Europa"（Contreras，表 1，检索页文本），说明本地汞不足须自欧输入。Fisher 的研究（经 Hamnett 转引）指出秘鲁矿业的约束是"escasez de capitales y retraso tecnológico"与"el problema del azogue"。
+【锚点】造船：瓜亚基尔是太平洋上的西班牙造船中心（秘鲁在太平洋保持海上优势直至 1818 年塔尔卡瓦诺失守，Hamnett 行 429–430）。
+【机制】**大西洋封锁不影响太平洋**：秘鲁的白银、汞、造船与海军在 1808–1818 年基本自成体系。这使**利马成为整个西属美洲唯一在"母国缺位"条件下仍可自我再生产的军事—财政中心**。
+【推演·中高】任何反事实里，**太平洋侧（利马—瓜亚基尔—瓦尔帕莱索）是欧洲力量最难触及、也最晚变化的区域**；英国若要在太平洋施压，须经好望角或合恩角，其 1806 年的 Craufurd 智利远征即因补给与时程而流产（Castlereagh 印 p.318：Craufurd "afraid of his supplies being exhausted"，改道开普）。
+
+---
+
+# ⑪ 生态、人口与资源
+
+【锚点】区域人口量级（同期英方与西方文书）：布宜诺斯艾利斯≥60,000（含约 10,000 黑人）；蒙得维的亚 7,000–8,000；马尔多纳多 3,000–4,000（Castlereagh vol. VII 印 pp.422–423）。
+【锚点】llanos 的生态—军事耦合：llaneros 被描述为"aficionados al pillaje"的骑手群体，与潘帕斯和墨西哥北部的牧人同类（Torrente 行 6040–6060）。
+【机制】**牛马生态＝免费骑兵**：拉普拉塔与 llanos 的野化牛马使骑兵动员成本接近于零，这解释了为何"邻省骑兵民兵 9,000"可以随时出现（Castlereagh 印 p.424），也解释了 Boves 型部队的速成。反过来，**这些部队无法被税收豢养，只能被战利品豢养**——这是南美内战长期化的生态基础。
+【推演·高】**南美的军事潜力在骑兵而非步兵，在内陆而非海岸**。欧洲式的"占领首都即控制国家"在此失效：首都可被 2,000 人拿下，但内陆骑兵可以无限期地不承认它。
+
+---
+
+# ⑫ 交流、流动与情报
+
+【锚点】**英国商人早在战前就以美国国旗在场**：Velasquez 报告英军"knew from the English merchants, **who have been here under the name of Americans**, that they had many friends here"（Castlereagh vol. VII 印 p.303）。
+【锚点】**本地商人主动邀请外国武装**："four greedy merchants and not a few of the citizens, disgusted with the Government of the Marquess de Sobremonte, wrote to the English General… and invited him to come"（同上 印 p.302）。
+【锚点】**流亡者网络**：米兰达自 1791 年起与皮特通信（1791-01-28 照会）、1805-06-13 致皮特函、1806 年与纽约的 Ogden、Smith 往来、1806-06-09 与 Cochrane 换文、1808 年 1 月与 8 月致 Castlereagh（同卷目录，印 pp.403–451）。
+【锚点】**王朝网络**：卡洛塔·华金娜自 1808 年 4 月起主张保护拉普拉塔诸省"para arrebatarlas del poder de la Francia"（Torrente 印 p.20）；上一轮 PT 卡已取得 Carlotismo 秘密会社名单（含 Belgrano、Moreno），见 `nodes/r_5b1357a9c6/cards/t_219822/PT_portugal_brazil.md`。
+【机制】**南美的信息主权在海上**：1808 年 7 月 15 日加拉加斯同一天收到英国战舰与法国双桅船带来的两套相互矛盾的消息（Torrente 印 p.55）。谁控制海上通道，谁就决定美洲**先听到哪一版欧洲**。
+【推演·中高】**这是法国在 S1（英国中立化）下唯一可能翻盘的环节**：若英国不再拦截法国航运，则巴黎—加的斯—哈瓦那—韦拉克鲁斯／拉普拉塔的官方通讯恢复，法国支持的西班牙政府的命令可以在 3–4 个月内抵达美洲并被执行。**法国在美洲的全部希望寄于通讯权而非投送权。**
+
+---
+
+# ⑫-附 英国渗透机器：1803–1810 的文书链与价目表
+
+## (a) 1803：军方层的"先征服后操作"
+【锚点】Popham 1803-11-26 致 Yorke 密件："any permanent influence of Great Britain, whether fixed by **absolute conquest, or conquest in the first instance, followed up by successful political intrigue**, (which I contend is authorized by all usages of war)"（印 pp.289–290）；经济动因："the annual export from that country to Spain… are **fifty millions of dollars a year**"（印 p.289）；战略动因：切断西班牙海军的水手与木材上游（印 p.290）。所需资源极小：米兰达要 **1,500 人**，商人 Davison 愿自费提供 3–4 艘印度商船，只要求政府为失败承保（印 pp.292–293）。
+【锚点·falsifier 的另一半】Popham 同件已写明法国的反制路径："if the enemy, either from France or Spain, is able to land a European force on the coast, and **by any immediate sacrifices or concessions to the natives obtain their favour**, the enterprise from this country may have the greatest difficulties to encounter"（印 p.293）。
+
+## (b) 1806–07：实测与政策转向
+【锚点】1806 年行动**不是**既定国策：Castlereagh 复盘"it does not appear that any original purpose prevailed in the Councils of the late Government, to commence operations in South America"；Windham 的训令只授权"a mere military occupation"；政府在 1806-06-24 得知 Popham 已行动后**三个月未发训令或增援**（印 p.315）。
+【锚点】驱动力是商业与舆论："The popularity of this acquisition, and the disposition of the commercial interest to take advantage of it, appears first to have determined the Government to follow up this object."（印 p.316）
+【锚点】1807-05-01 的判决：征服是"the hopeless task"；不给当地人"not being surrendered upon a peace"的保证，就不可能指望他们合作；替代方案是以"auxiliaries and protectors"身份、用"a native force, to be created under our countenance"促成变革，英国只求"depriving our enemy of one of his chief resources, and the opening to our manufactures the markets of that great Continent"（印 pp.319–321）。
+【锚点】政体偏好：保王体、换执政者，首选**波旁系王子**（宗教相同、距法国王位较远），并设想奥尔良公爵携米兰达与迪穆里埃前往（印 pp.322–323）；对共和的看法是"between such a system and the present Spanish authority they could not hesitate"（印 p.322）——即英国认为美洲人会选共和，但英国不选。
+【锚点】兵力上限：对墨西哥"not less than 10,000 men"，构成为三分之二英军＋三分之一黑人西印度团；拼盘合计 **13,200**（含下马骑兵 1,200 与炮兵），"若对美战争之虞消失"可再抽 3,000；本土防务不变（印 pp.385–386）。

@@ -1,0 +1,13 @@
+
+
+## S12 蒸汽与S13火炮
+S12 Musée national de la Marine,“Machine à vapeur de la corvette à roues Le Sphinx”，博物馆正文 `downloads/pages/04c2ed9cef98.md`；1829Rochefort、160hp、Liverpool W.Fawcett、约7节、1833拖Louxor。其“首艘正规”不排除早期试验/小艇，不能泛称首艘所有蒸汽船。
+S13炮兵协会“6-Nouveautés dans l’artillerie de la Marine”，https://www.artillerie.asso.fr/basart/article.php3?id_article=1972 ，`downloads/pages/a29ef989aeb1.md`：Paixhans1822书、Brest炮弹试验；作者将它称战列巡洋舰先驱属后见修辞不采。1824试验年月另有西国防图书馆原报告目录，但原书未阅。
+S14 Mioque2011-08-24，转引Tupinier1822《Annales》2卷44–45页和1813-08-08命令，https://troisponts.net/2011/08/24/la-fregate-uss-constitution-a-cherbourg-1811/ ，`downloads/pages/733699a79d7c.md`。1811考察Constitution，主张经济不是低造价而同结果低耗；1813拟造3大型巡防未开工。评论区技术数据未升格正文证据。
+
+## S15后1815类比、S16 Elting旧材料
+S15 WarHistory,“The French Navy After1815 PartI”,2019/2024版，https://warhistory.org/article/the-french-navy-after-1815-part-i ，`downloads/pages/a8db4b456088.md`。正文已读，作者/上游来源未署明；降为线索及有标签类比：Portal1820/24年40战列50巡防、65m（6m殖民）；1840动员巡防12舰因大西洋渔业水手未返而停；1842/45/46蒸汽方案。关键数不用作主模型观测。不能把Grokipedia转抄当第二源。
+S16 John R.Elting,*Swords Around a Throne*，旧缓存doc3762a4f8f4e3 pp81–82（电子提取分页，非印刷页）Ch.XV实际读到：三年舰上军校、固定舰员、海军区、1813Anvers3413旧法/4771新省/另400荷工匠。其地域水手性格刻板描写和将胜负归胆怯不采。开头Napoleon回顾引言不是同时代政策文件。
+
+## 不采用／取得失败
+Glover1967原文未获，见notes_glover.md；Stagg引1811报刊预测150不是实存。Winfield&Roberts未亲阅，逐舰清单通过署来源网页转引。所有档案号仅在已读学者注释中出现。没有新读圣赫勒拿作为前瞻意图证据。Todorov OpenEdition原始Anubis页dd0ed0a68f18.md不算正文。

@@ -1,0 +1,30 @@
+                                                              Table 3: Complete Sample: Alternative Specifications
+
+                                       Without Baden/Saxony           Regions adopted CC            Voluntary Adoption         Years CC > 0        French Occupation > 0          Within Prussia
+                                                                      or considered at least           or considered
+
+                                                   (1)                           (2)                          (3)                    (4)                       (5)                        (6)
+                                                  Trust                         Trust                        Trust                  Trust                     Trust                      Trust
+
+
+      Code Civil (x100)                         0.0618*                       0.0887**                    0.0621**               0.0333***                  0.0595*                  0.0290***
+                                                (0.0320)                      (0.0301)                    (0.0260)               (0.00468)                  (0.0277)                 (0.00520)
+
+      Individual Controls                          Yes                           Yes                          Yes                    Yes                       Yes                       Yes
+      Religion (4 categories)                      Yes                           Yes                          Yes                    Yes                       Yes                       Yes
+      Education (5 categories)                     Yes                           Yes                          Yes                    Yes                       Yes                       Yes
+      Economic controls                            Yes                           Yes                          Yes                    Yes                       Yes
+
+      Historical Controls                          Yes                           Yes                          No                     Yes                       Yes                       Yes
+
+35
+      Macroregion FE                              No                             No                          No                      Yes                      No                         No
+      Observations                               13044                          10618                       3394                    8935                     6883                       6487
+      R2                                         0.077                          0.070                       0.066                   0.081                    0.080                      0.075
+
+     Notes: OLS regressions. Dependent variables: Trust is the average of answers given to the following questions: “On the whole one cannot trust people”, “Nowadays one can’t rely on
+     anyone” “If one is dealing with strangers, it is better to be careful before one can trust them”. Source: German Socio-Economic Panel, wave 2003.
+     Historical controls include the longitude and latitude of the historical territory, the share of protestants in 1800, the urbanization rates in 1800 and 1850, as well as the territory’s distance
+     to Paris.
+     Heteroscedastic-robust standard errors in parentheses, clustered at the historical territory. Robust standard errors in column (3), due to insufficient number of clusters.∗ p < 0.10, ∗∗
+     p < 0.05, ∗∗∗ p < 0.01

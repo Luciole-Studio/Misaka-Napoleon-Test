@@ -1,0 +1,53 @@
+Geography can enable draft-dodging via its effect on the ruler’s own ability to catch
+deserters. Thus, the total cost of administrating conscription in department i are
+increasing in this measure of department-specific geographical characteristics and
+in the ruler’s choice of the conscription rate in the same department or ∂T         Ci
+                                                                                  ∂xi
+                                                                                        > 0,
+∂T Ci
+ ∂ci
+       > 0.
+     If the ruler wishes to maximize the value of V , it must choose x∗i ∀ i ∈ (1, 2, ..., d)
+subject to the constraint that the sum of all department-level     contingents must equal
+the (exogenously determined) optimal army size or i=d             N
+                                                          P
+                                                            i=1 i d = X. The first order
+                                                               x
+conditions to the ruler’s optimization problem yield the equimarginal principle in
+equation (2):
+                                          1 1−a
+                                       b = ci x i a                                      (2)
+                                          a
+Solving for x∗i :
+                                           a 
+                                       ba 1−a
+                                      x∗i =                                   (3)
+                                       ci
+Proposition 1: The optimal conscription rate in every department is increasing in
+the marginal benefit of conscription.
+
+Proof: Equation (4) gives the value of the effect of a change in the marginal benefit
+of conscription on the optimal draft-dodging rate in department i.
+                                              2a−1
+                               ∂x∗i   a2 ba
+                                          ci
+                                               1−a
+
+                                    =               >0                           (4)
+                                ∂b      c(1 − a)
+Since a, ci ∈ (0, 1) and b > 0, equation (4) shows that an increase in b positively
+affects the ruler’s choice of the conscription rate in department i. When the bene-
+fits of increasing the conscription rate increase—for example, due to an unexpected
+threat of foreign invasion—the ruler will want to draft more men across the board,
+bumping up the rate of conscription in every department.
+
+Proposition 2: The optimal conscription rate is decreasing in the shift parameter ci .
+
+Proof: To prove proposition 2, we look at the partial effect of a change in ci on the
+optimal rate of conscription in department i. This is given by equation (5).
+                                               2a−1
+                            ∂x∗i       ba2    ba 1−a
+                                 =−                   <0                                 (5)
+                            ∂ci     (1 − a)c2 c
+
+                                              56

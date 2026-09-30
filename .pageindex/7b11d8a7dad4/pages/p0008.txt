@@ -1,0 +1,38 @@
+
+
+### Fig. 1.
+
+Open in a new tab
+
+Physical foreign trade relations in the Habsburg Empire a) and the United Kingdom b)a: imports are presented as positive values, exports as negative values. aThe peak in the United Kingdom's exports in 1898 is due to a very high value in coal exports, reported by statistics. This may be a misreporting and will not be further analyzed.
+
+In the Habsburg Empire and the United Kingdom both imports and exports increased significantly during the 19th and early 20th centuries. Even the pattern of growth rates is similar to some extent: the highest growth rates in both imports and exports occurred in the mid-19th century (between the 1850s and 1870s), while towards World War I, growth rates declined and even negative growth rates are observed. Both the Habsburg Empire and the United Kingdom were – in physical terms – net exporters of raw materials throughout most of the 19th century. In the early 20th century, the Habsburg Empire turned into a net importer of materials.3 This is in line with the economic data presented by Bairoch (1974) who shows a surplus of gains from exports for the Habsburg Empire in the late 19th century and a trade balance deficit in the early 20th century. The United Kingdom's monetary foreign trade balance on the other hand was negative from 1860 to 1910 despite the fact that much more materials were exported than imported. This indicates that the price for a material unit of exports was much lower than that of imports.
+
+The difference in prices per ton of imports to and exports from the United Kingdom becomes clear when we look at the material composition of foreign trade (Table 3). In the 19th and early 20th centuries, exports and imports consisted of very different material categories. While imports were dominated by biomass, in exports, the most important material category by far was fossil fuels, accounting for more than 75% throughout the period. The high volumes of coal exports did – in monetary terms – not compensate for the imports of biomass. Metals were the second most important material category for both imports and exports – while metals were important export products in the mid-19th century, from around 1880, the United Kingdom became a net importer of metals.
+
+### Table 3.
+
+Composition of foreign trade in the Habsburg Empire and the United Kingdom in material categories.
+
+Habsburg Empire
+
+---
+
+United Kingdom
+
+---
+
+| 1830 | 1850 | 1880 | 1910 | 1850 | 1880 | 1910 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Total imports | 1000t/yr | 421 | 758 | 4443 | 13,635 | 5074 | 22,031 | 44,965 |
+| Biomass | % | 100% | 82% | 36% | 16% | 92% | 78% | 67% |
+| Metallic minerals | % | 0% | 0% | 3% | 7% | 2% | 18% | 24% |
+| Non-metallic minerals | % | 0% | 8% | 6% | 7% | 5% | 1% | 5% |
+| Fossil fuels | % | 0% | 9% | 53% | 68% | 0% | 1% | 3% |
+| Products and wastes | % | 0% | 1% | 1% | 2% | 1% | 1% | 1% |
+| Total exports | 1000t/yr | 547 | 812 | 8076 | 16,215 | 4921 | 23,607 | 92,031 |
+| Biomass | % | 89% | 82% | 44% | 35% | 1% | 1% | 1% |
+| Metallic minerals | % | 2% | 2% | 2% | 2% | 22% | 17% | 5% |
+| Non-metallic minerals | % | 8% | 9% | 8% | 8% | 1% | 1% | 1% |
+| Fossil fuels | % | 0% | 6% | 46% | 55% | 75% | 81% | 93% |
+| Products and wastes | % | 1% | 0% | 0% | 0% | 1% | 0% | 0% |

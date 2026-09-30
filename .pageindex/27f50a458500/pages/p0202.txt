@@ -1,0 +1,26 @@
+Table 8.1     Eco del Comercio, 11 December 1839: Strength, preparedness and distribution of Cristino National Militia late 1839
+
+District      Infantry   Cavalry   Artillery   Firemen   Total    Infantry Cavalry   Artillery Firemen   Total    Infantry Cavalry   Artillery Firemen   Total
+                                                                  under    under     under     under     under    without without    without without     without
+                                                                  arms     arms      arms      arms      arms     arms     arms      arms      arms      arms
+
+New             52632     1267        344          0      54243     25102   1158       343         0      26603    27530     109         1        0       27640
+  Castile
+Old Castile    154103     1266       499           0     155868     22666   1092       479         0     24207    131467     174        20        0      131661
+Aragón          38211      395       527         135      39268     13310    395       519       133     14357     24901       0         8        2       24911
+Catalonia       37978      160       834           0      38972     29277    116       749         0     30142      8701      44        85        0        8830
+Valencia        58857     1409      2169         118      62553     26859   1317      1720       118     30014     31998      92       149        0       32539
+Andalucía       27710     2471       719           0      30900      5822   1283       650         0      7755     21888    1188        69        0       23145
+Granada         48195     1199       330        1031      50775     11726    572       274       632     13204     36469     627        56        0       37551
+Extremadura     33392      961       163          85      34601      5301    301       141        85      5830     28091     658        22      399       28771
+Navarra          1565      196         0           0       1761      1517    196         0         0      1713        48       0         0        0          48
+Basque           2508        6       104          43       2661      2302      6        70        42      2420       206       0        34        0         240
+  provinces
+Galicia        145539      140        158          0     145837     13122    135       141         0      13398   132417       5        16        1      132439
+Mallorca        10521       79        499          0      11099      3409     76       353         0       3838     7112       5       146        0        7261
+Total          611211     9549      6346        1412     628518   160383    6649      5439      1010     173481   450828    2900       907      402      455037
+
+
+
+
+                                                                                                                                                                   193

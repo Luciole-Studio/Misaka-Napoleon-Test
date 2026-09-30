@@ -1,0 +1,22 @@
+# G2 · SOURCES（t_cbaee3）
+
+规则：只引本卡实际读到的版本；转引标注；索引查无≠文献不存在。列出层级：**[原始文书] [同时代记述] [十九世纪研究] [现代研究] [三级/网络参考] [复用上一轮资产]**。
+
+## 原始文书（网络转录/档案刊本，均注转录性质）
+- S01 莱茵邦联条约 1806-07-12：法文Köbler转录 `downloads/pages/227f1cf6004e.md`；德文Wikisource `downloads/pages/92b28bd48ca8.md`（上一轮t_7da32d核读；两者非独立底本）。本轮复核德文第11条（Fundamentalgesetz授权）于de.wikisource（搜索返回段）。
+- S02 威斯特法利亚宪法 1807-11-15 + 同日两封致热罗姆信：`downloads/pages/c541a4c902d7.md`、`downloads/pages/34f4bd8f6f1b.md`（上一轮核；两转录共享讹误，非独立）。
+- S03 苏林根专约 1803-06-03 全文（法德对照）：HIS-Data, https://www.his-data.de/objekt/5/3/8/4/sulingen,konv,1803.pdf （本轮经搜索返回全文段落读取；底本注Moniteur an XI n.261）。
+- S04 阿特伦堡（易北）专约 1803-07-05：条款经de.wikipedia "Konvention von Artlenburg"与Zander 1863（见S12）双转录读取；签署原件未核。
+- S05 提尔西特对普和约 1807-07-09 第XII/XIII/XV/XVI条：Fondation Napoléon英译转录（上一轮t_7da32d/t_75e9a5核，`downloads/pages/4b40ca3af7f7.md`）；第12条（梅克伦堡/奥尔登堡复位+港口驻军）另见Vandal卷一附录转录 `downloads/R1_vandal1_full.txt` 行18492–18494。
+- S06 科隆商会致Roer省长Ladoucette答问书 1810-09-16（AN F12 549–550）：全文刊于Schmidt 1905附录E，`downloads/G2_schmidt_berg_1905.txt` 行23370–23530。
+- S07 Bacher报告（法兰克福公使，论英货新流向与特里亚农税则效果，1810-10-02）：法文原文刊于Schmidt 1905附录F（行23530–23700）；英译节录Heckscher pp.231–232。Heckscher记日期10-02并纠正常见误印10-08（Schmidt注AF IV 3759）。
+- S08 Elberfeld陈情书 1810-11-14（AF IV 1839）及Barmen/Remscheid/Lennep请愿、Diederichs产额呈文：Schmidt 1905正文引述，行18150–18350。
+- S09 梅克伦堡1808年邦会文书两件（公爵"Souveräner Herzog"通告与等级会议9-08答文）：转录于《Die Sünden der mecklenburgischen Ritterschaft》"Anschluss an den Rheinbund"章，Lexikus在线全文, http://www.lexikus.de/bibliothek/Die-Suenden-der-mecklenburgischen-Ritterschaft/Ritterschaft-und-Verfassung/Anschluss-an-den-Rheinbund 。
+- S10 Champagny《德意志诸侯要价清单》（AN AF IV 1696，埃尔福特1808）：Vandal t.I转引，`downloads/R1_vandal1_full.txt` 行15416–15431。
+- S11 Dörnberg通缉令与Homberg市长Rodemann报告（1809）：Woringer刊布档案（Mitteilungen des Vereins für hess. Geschichte 1909/10, S.133ff），经erinnerungen-im-netz.de文件页读取节录。
+
+## 同时代与十九世纪记述
+- S12 C.L.E. Zander，Vaterländisches Archiv für das Herzogthum Lauenburg（1863）：1803年苏林根—阿特伦堡全过程叙述（含Gültzow军议、Mortier条件）。https://herzogtumlauenburgmuseum.de/wp-content/uploads/2022/12/1863_1_C.L.E.Zander.pdf （搜索返回长段落读取）。
+- S13 H. Th. Flathe，"Friedrich August III./I."，*Allgemeine Deutsche Biographie* Bd.7 (1878), S.786–789：本轮全文读取，`downloads/pages/af4f870b8ddf.md`。萨克森决策结构、华沙垫款3,000万fl与1828年450,800塔勒补偿、1813行为序列、1815失地五分之三之出处。
+- S14 Karl Beck，*Zur Verfassungsgeschichte des Rheinbunds*（Diss. Gießen; Mainz: Prickarts, 1890, 48 S.）：**开篇长段经搜索引擎返回读取**（HHU数字库nbn:de:hbz:061:1-316685被Anubis反爬拦截，全文未获；另有HathiTrust件hdl 2027/uc1.$c180944未开读）。核心论断（流产主因巴/符两王国抵制、拿破仑因倚其主力供兵而迁就）之德文原文已录入正文。考订：Beck首次利用Eberstein遗档（美因茨市图书馆，1822年存入），见*Revue Napoléonienne* 1902提要（Persée, https://www.persee.fr/doc/rhmc_0996-2743_1902_num_4_3_4210_t1_0226_0000_2 ）并及Bockenheimer 1870讲演。
+- S15 "Davout in Hamburg. Ein Beitrag zur Geschichte der Jahre 1813–1814"（十九世纪末辩护性专题，Lexikus在线转载, http://www.lexikus.de/bibliothek/Davout-in-Hamburg ）：本轮读其前言与文献综述章，用于登记1813–14汉堡对抗性文献群谱系（Pehmöller银行专史1814、Abendroth 1815、Amsinck 1815、Davout《Mémoire au Roi》1814等——**谱系登记，均未亲阅**）。

@@ -1,0 +1,17 @@
+{
+  "doc_id": "77b02fc7feb3",
+  "title": "[t_c98c24] nodes/r_5b1357a9c6/cards/t_c98c24/P2_budget.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_c98c24/P2_budget.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_c98c24/P2_budget.csv",
+    "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_c98c24/scenario_summary.csv"
+  ],
+  "sha256": "77b02fc7feb3be7bda0a5a40c39d254929265cf149d479c172f943e5e12caf40",
+  "pages": 2,
+  "task_id": "t_c98c24",
+  "task_ids": [
+    "t_c98c24"
+  ],
+  "added_at": 1790181677,
+  "office_format": "csv"
+}

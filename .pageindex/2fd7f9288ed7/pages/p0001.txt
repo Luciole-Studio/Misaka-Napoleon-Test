@@ -1,0 +1,238 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: B5_boe_cells.csv
+
+```meta
+▸ table "B5_boe_cells.csv" (12286 data rows)
+▸ columns
+    source_sheet: str, 5 uniq: ['A1. Headline series', 'A4. Ind Production 1270-1870', 'A40. Trade by region 1710-1822', 'A41. Trade by region 1784+', 'A47. Wages and prices']
+    source_cell: str, 11431 uniq, first 20: ['A1', 'A10', 'A100', 'A101', 'A102', 'A103', 'A104', 'A105', 'A106', 'A107', 'A108', 'A109', 'A11', 'A110', 'A111', 'A112', 'A113', 'A114', 'A115', 'A116']
+    cached_value: num, min=-317, max=151581
+```
+source_sheet,source_cell,cached_value
+A1. Headline series,B1,A1. Headline Annual Series 1086-2016
+A1. Headline series,A2,Back to front page
+A1. Headline series,A3,Section
+A1. Headline series,B3,National Accounts
+A1. Headline series,Y3,"Labour, capital and productivity"
+A1. Headline series,AI3,Wages and Prices
+A1. Headline series,AS3,Financial markets
+A1. Headline series,BF3,Money and Credit
+A1. Headline series,BO3,Fiscal
+A1. Headline series,BZ3,Trade
+A1. Headline series,A4,Description
+A1. Headline series,B4,"Real UK GDP at market prices, geographically-consistent estimate based on post-1922 borders"
+A1. Headline series,D4,"Real UK GDP at factor cost, geographically-consistent estimate based on post-1922 borders"
+A1. Headline series,F4,"Index of real UK GDP at market prices cost - based on changing political boundaries, "
+A1. Headline series,H4,Real GDP of England at market prices
+A1. Headline series,J4,Real GDP of England at factor cost 
+A1. Headline series,L4,Composite estimate of English and (geographically-consistent) UK real GDP at factor cost
+A1. Headline series,N4,HP-filter of log of real composite estimate of English and UK real GDP at factor cost
+A1. Headline series,O4,"Real UK gross disposable national income at market prices, constant border estimate"
+A1. Headline series,P4,Real consumption
+A1. Headline series,Q4,Real investment
+A1. Headline series,R4,Stockbuilding contribution
+A1. Headline series,S4,Real government consumption of goods and services
+A1. Headline series,T4,Export volumes
+A1. Headline series,U4,Import volumes
+A1. Headline series,V4,Nominal GDP of England at market prices
+A1. Headline series,W4,Nominal UK GDP at market prices
+A1. Headline series,X4,Nominal UK GDP at market prices
+A1. Headline series,Y4,Population (GB+NI)
+A1. Headline series,Z4,Population (England)
+A1. Headline series,AA4,Employment
+A1. Headline series,AB4,Unemployment rate
+A1. Headline series,AC4,Average weekly hours worked
+A1. Headline series,AD4,"Capital Services, whole economy"
+A1. Headline series,AE4,TFP growth
+A1. Headline series,AF4,Labour productivity
+A1. Headline series,AH4,"Labour share, whole economy excluding rents"
+A1. Headline series,AI4,GDP deflator at market prices
+A1. Headline series,AJ4,Export prices
+A1. Headline series,AK4,Import prices
+A1. Headline series,AL4,Terms of Trade
+A1. Headline series,AM4,$ Oil prices
+A1. Headline series,AN4,Earnings per head
+A1. Headline series,AO4,Consumer price index
+A1. Headline series,AP4,Consumer price inflation
+A1. Headline series,AQ4,Real consumption wages
+A1. Headline series,AR4,Wholesale/producer price index
+A1. Headline series,AS4,Bank Rate
+A1. Headline series,AU4,10 year/medium-term government bond yields
+A1. Headline series,AV4,Consols / long-term government bond yields
+A1. Headline series,AW4,Mortgage rates
+A1. Headline series,AX4,Corporate borrowing rate from banks
+A1. Headline series,AY4,Corporate bond yields
+A1. Headline series,AZ4,Share prices
+A1. Headline series,BA4,$/£ exchange rate
+A1. Headline series,BB4,Real $/£ exchange rate
+A1. Headline series,BC4,Nominal ERI
+A1. Headline series,BD4,Real ERI
+A1. Headline series,BE4,House price index
+A1. Headline series,BF4,Credit 
+A1. Headline series,BG4,Secured credit
+A1. Headline series,BH4,Bank of England Balance sheet
+A1. Headline series,BJ4,Coin in circulation outside the Bank of England
+A1. Headline series,BK4,Notes and coin in circulation
+A1. Headline series,BL4,Monetary base
+A1. Headline series,BM4,M1
+A1. Headline series,BN4,Broad Money 
+A1. Headline series,BO4,Public sector Total Managed Expenditure
+A1. Headline series,BQ4,Public Sector Total Receipts
+A1. Headline series,BS4,Public Sector Net Lending(+)/Borrowing(-)
+A1. Headline series,BU4,UK Public sector debt
+A1. Headline series,BX4,Central Government Gross Debt
+A1. Headline series,BY4,Central Government Gross Debt
+A1. Headline series,BZ4,Trade deficit
+A1. Headline series,CB4,Current account 
+A1. Headline series,CD4,Current account deficit including estimated non-monetary bullion flows prior to 1946
+A1. Headline series,A5,Worksheet
+A1. Headline series,B5,A8. Real GDP (A) 1700-2015
+A1. Headline series,D5,A8. Real GDP (A) 1700-2015
+A1. Headline series,F5,A8. Real GDP (A) 1700-2015
+A1. Headline series,H5,A21. GDP per capita
+A1. Headline series,J5,A21. GDP per capita
+A1. Headline series,L5,A21. GDP per capita 1086
+A1. Headline series,O5,"A10. GDP, GNI and National Saving"
+A1. Headline series,P5,A12. GDP(E) - volumes
+A1. Headline series,Q5,A12. GDP(E) - volumes
+A1. Headline series,R5,A12. GDP(E) - volumes
+A1. Headline series,S5,A12. GDP(E) - volumes
+A1. Headline series,T5,A35. Trade volumes 
+A1. Headline series,U5,A35. Trade volumes 
+A1. Headline series,V5,A21. GDP per capita
+A1. Headline series,W5,A9. Nominal GDP (A) 1700-2014
+A1. Headline series,X5,A9. Nominal GDP (A) 1700-2014
+A1. Headline series,Y5,A18. Population 
+A1. Headline series,Z5,A21. GDP per capita
+A1. Headline series,AA5,A50. Employment
+A1. Headline series,AB5,A50. Employment
+A1. Headline series,AC5,A54. Hours worked
+A1. Headline series,AD5,A55. Capital stock 1851-2014
+A1. Headline series,AE5,A56. Productivity 1855-2014
+A1. Headline series,AF5,A56. Productivity 1855-2015
+A1. Headline series,AG5,A56. Productivity 1855-2015
+A1. Headline series,AH5,A56. Productivity 1855-2016
+A1. Headline series,AI5,A47. Wages and prices
+A1. Headline series,AJ5,A35. Trade volumes 
+A1. Headline series,AK5,A35. Trade volumes 
+A1. Headline series,AL5,A35. Trade volumes 
+A1. Headline series,AM5,A35. Trade volumes 
+A1. Headline series,AN5,A47. Wages and prices
+A1. Headline series,AO5,A47. Wages and prices
+A1. Headline series,AP5,A47. Wages and prices
+A1. Headline series,AQ5,A48. Real Earnings '!A1
+A1. Headline series,AR5,A47. Wages and prices
+A1. Headline series,AS5,A31. Interest rates  
+A1. Headline series,AT5,A31. Interest rates  
+A1. Headline series,AU5,A31. Interest rates  
+A1. Headline series,AV5,A31. Interest rates  
+A1. Headline series,AW5,A31. Interest rates  
+A1. Headline series,AX5,A31. Interest rates  
+A1. Headline series,AY5,A31. Interest rates  
+A1. Headline series,AZ5,A31. Interest rates  
+A1. Headline series,BA5,A33. Exchange rates
+A1. Headline series,BB5,A33. Exchange rates
+A1. Headline series,BC5,A33. Exchange rates
+A1. Headline series,BD5,A33. Exchange rates
+A1. Headline series,BE5,A32. Property prices
+A1. Headline series,BF5,A25. Credit aggregates
+A1. Headline series,BG5,A25. Credit aggregates
+A1. Headline series,BH5,A23. BoE Balance sheet 
+A1. Headline series,BJ5,A24. Money
+A1. Headline series,BK5,A24. Money
+A1. Headline series,BL5,A24. Money
+A1. Headline series,BM5,A24. Money
+A1. Headline series,BN5,A24. Money
+A1. Headline series,BO5,A28. Public Sector Borrowing
+A1. Headline series,BP5,A28. Public Sector Borrowing
+A1. Headline series,BQ5,A28. Public Sector Borrowing
+A1. Headline series,BR5,A28. Public Sector Borrowing
+A1. Headline series,BS5,A28. Public Sector Borrowing
+A1. Headline series,BT5,A28. Public Sector Borrowing
+A1. Headline series,BU5,A29. National Debt 
+A1. Headline series,BV5,A29. National Debt 
+A1. Headline series,BW5,A29. National Debt 
+A1. Headline series,BX5,A29. National Debt 
+A1. Headline series,BY5,A30a. National Debt Market values 
+A1. Headline series,BZ5,A36. Trade values 
+A1. Headline series,CA5,A36. Trade values 
+A1. Headline series,CB5,A36. Trade values 
+A1. Headline series,CC5,A36. Trade values 
+A1. Headline series,CD5,A36. Trade values 
+A1. Headline series,CE5,A36. Trade values 
+A1. Headline series,A6,Units
+A1. Headline series,B6,"£mn, Chained Volume measure, 2013 prices"
+A1. Headline series,C6,growth rate
+A1. Headline series,D6,"£mn, Chained Volume measure, 2013 prices"
+A1. Headline series,E6,growth rate
+A1. Headline series,F6,"GB before 1801, GB+Ireland 1801-1920, GB + Northern Ireland after 1920.  Indexed to 100 in 1920"
+A1. Headline series,G6,growth rate
+A1. Headline series,H6,"£mn, Chained Volume measure, 2013 prices"
+A1. Headline series,I6,growth rate
+A1. Headline series,J6,"£mn, Chained Volume measure, 2013 prices"
+A1. Headline series,K6,growth rate
+A1. Headline series,L6,2013=100
+A1. Headline series,M6,growth rate
+A1. Headline series,N6,approx. % difference from trend
+A1. Headline series,O6,"£mn, Chained Volume measure, 2013 prices.  Nominal GDI divided by private and public consumption deflator"
+A1. Headline series,P6,"£mn, Chained Volume measure, 2013 prices"
+A1. Headline series,Q6,"£mn, Chained Volume measure, 2013 prices"
+A1. Headline series,R6,pp contribution to GDP(E)
+A1. Headline series,S6,"£mn, Chained Volume measure, 2013 prices"
+A1. Headline series,T6,"£mn, Chained Volume measure, 2013 prices. "
+A1. Headline series,U6,"£mn, Chained Volume measure, 2013 prices.  "
+A1. Headline series,V6,£mn
+A1. Headline series,W6,£mn
+A1. Headline series,X6,£mn
+A1. Headline series,Y6,000s
+A1. Headline series,Z6,000s
+A1. Headline series,AA6,000s
+A1. Headline series,AB6,%
+A1. Headline series,AC6,hours
+A1. Headline series,AD6,"£mn, 2013 prices"
+A1. Headline series,AE6,%
+A1. Headline series,AF6,"Real GDP per head, 2013 prices"
+A1. Headline series,AG6,"Real GDP per hour, 2013 prices"
+A1. Headline series,AH6,share of GDP excluding rents
+A1. Headline series,AI6,2013=100
+A1. Headline series,AJ6,2013=100
+A1. Headline series,AK6,2013=100
+A1. Headline series,AL6,2013=100
+A1. Headline series,AM6,$ per barrel
+A1. Headline series,AN6,"Average weekly earnings, £"
+A1. Headline series,AO6,2015=100
+A1. Headline series,AP6,%
+A1. Headline series,AQ6,1900=100
+A1. Headline series,AR6,2010=100
+A1. Headline series,AS6,% end period
+A1. Headline series,AT6,"%, calendar year average"
+A1. Headline series,AU6,"%, calendar year average"
+A1. Headline series,AV6,"%, calendar year average"
+A1. Headline series,AW6,"%, calendar year average"
+A1. Headline series,AX6,"%, calendar year average"
+A1. Headline series,AY6,"%, calendar year average"
+A1. Headline series,AZ6,"April 1962=100, Year end"
+A1. Headline series,BA6,Calendar year average
+A1. Headline series,BB6,"Calendar year average, 1913=100"
+A1. Headline series,BC6,"Calendar year average, 1913=100"
+A1. Headline series,BD6,"Calendar year average, 1913=100"
+A1. Headline series,BE6,"Calendar year average, Jan 2015 =100"
+A1. Headline series,BF6,"Year end, £mn"
+A1. Headline series,BG6,"Year end, £mn"
+A1. Headline series,BH6,% of nominal GDP
+A1. Headline series,BI6,% of nominal GDP
+A1. Headline series,BJ6,"Year end, £mn"
+A1. Headline series,BK6,"Year end, £mn"
+A1. Headline series,BL6,"Year end, £mn"
+A1. Headline series,BM6,"Year end, £mn"
+A1. Headline series,BN6,"Year end, £mn"
+A1. Headline series,BO6,"Calendar year total, £mn"
+A1. Headline series,BP6,as a % of nominal GDP
+A1. Headline series,BQ6,"Calendar year total, £mn"
+A1. Headline series,BR6,as a % of nominal GDP
+A1. Headline series,BS6,"Calendar year total, £mn"
+A1. Headline series,BT6,as a % of nominal GDP
+A1. Headline series,BU6,"Calendar Year end nominal par value outstanding, £mn"
+A1. Headline series,BV6,as a % of nominal GDP: measure 1
+A1. Headline series,BW6,as a % of nominal GDP: measure 2

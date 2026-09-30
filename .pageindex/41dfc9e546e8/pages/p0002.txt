@@ -1,0 +1,33 @@
+
+
+### M2.2 事件（行 13121–13230、13805–13990）
+- 韦洛尔守军：**HM 第 69 团 4 个连**（1806-07-09 返表：少校 1、上尉 2、中尉 7、助理军医 1、士官 9、下士 18、鼓手 5、列兵 330）＋土著步兵第 1 团第 1 营 6 连＋第 23 团第 2 营全营。
+- 第 1 营是"服役最久、声誉一贯优良"之营；**第 23 团第 2 营新募于蒂内维利，队列中有 1801 年因叛乱被没收领地的 Polygar 首领旧部**。要塞内住着**蒂普苏丹的四位王子**（Futteh Hyder 为长）及其随从，由 Marriott 中校看管。
+- 07-10 约 02:30 土著兵几乎同时袭击欧籍卫兵与营房。有 sepoy 呼喊 "Come out, Nawab, come out, Nawab, there is no fear."（据推断是对 Futteh Hyder 喊话）。
+- 约 10:00 Gillespie 上校率第 19 龙骑兵自阿尔果德赶到，加洛炮轰开城门夺回要塞。
+> "About 850 sepoys were killed"（Wilson 注明引 1806-09-16 政府会议记录所载总司令备忘录）
+- 第 69 团阵亡：士官 5、下士 4、鼓手 1、列兵 90（＝100），另 15 名伤重死亡；另有 76 人负伤。阵亡军官/官员 14 人（含守军司令 Fancourt 上校、McKerras 中校、军需付款官 Smith 等），另 Armstrong 少校路过被杀。
+- 阿尔果德来援部队损失："one European trooper killed and three wounded"。
+
+### M2.3 读数（本卡用）
+1. **触发点是宗教-种姓象征，不是待遇**；但爆发地点与部队选择（新募 Polygar 旧部 + 蒂普王子在场）说明**被征服政权的残余合法性载体仍在体制内**。
+2. 若法国在印度洋/波斯方向制造可信威胁，这类"象征触发＋残余王朝载体"的组合是最廉价的颠覆入口——不需要法国军队登陆，只需要一个可信的替代宗主叙事。这是 IN2（印度诸邦）与 IN1 的接口。
+3. 反面证据：1806 年兵变**没有**外部支持而被 10 小时内以一个骑兵团扑灭；沿途多名土著士官（naigue Mahomed Yacoob、Syed Ahmed、Vencatram）主动警告并保护英籍军官 → **土著军队不是均质的政治单位**，恐慌性外推不成立。
+
+---
+
+## M3. 1809 年马德拉斯军官哗变（"白人兵变"）
+来源：同上，Wilson Vol. III 第二十章 "MUTINY OF THE EUROPEAN OFFICERS, 1809"（行 17687–21669）。
+
+### M3.1 结构性原因（行 17960–18000）
+> "From the beginning of 1807, if not from an earlier period, a spirit of discontent had existed among the officers of the Madras army, of which the undermentioned appear to have been the principal causes, viz., **the higher allowances granted to the officers of the Bengal army, and the undue proportion of commands which had been recently bestowed upon the officers of the Royal army**. This feeling was aggravated by the discontinuance, in July 1807, of certain allowances paid to officers commanding districts, stations, and cantonments, out of the duties levied in military bazars; and by the abolition of the tent contract in May 1808."
+
+### M3.2 Wilson 的因果裁定（行 21560–21620）
+> "the principal cause of which must be sought for in the severity of the local Government ... in those days of slow communication with England, suspension meant being reduced to a bare subsistence for an indefinite period, certainly for a year at least, and that the Madras Government had shown themselves disposed to make an unsparing use of that severe, and theretofore exceptional method of punishment, without trial, and without disclosing the evidence upon which they acted. No man felt safe, and no relief could be expected from the Supreme Government, which had committed itself to an unqualified approval of the proceedings of Sir George Barlow."
+另：Wilson 认为除"王军军官占据指挥与参谋职位的不公平优待"外，其余不满"more imaginary than real"；并指 Minto 迟迟不亲赴马德拉斯是重要因素。
+
+### M3.3 处置与余波（行 21484–21540）
+- 除 John Bell 中校与自 Chittledroog 开拔诸营的营长外，**所有被停职、开革、褫夺者最终均获恢复**；大批"实际参与哗变"的军官由大赦豁免全部处分。
+- Boles 少校与 Marshall 上尉 1811-10 才解除停职；Doveton 与 Robert Bell 中校 1813-01 复职；Munro 中校等 1814 年 4–6 月；Storey 少校 1816 年。
+- 巴洛 1813-05-21 去职。
+- "The bad feeling, and dissension engendered by these lamentable events did not subside for many years."（1812 年仍有军官因拒与协助政府的上校同桌用餐被停职；1835 年仍有人因当年"背叛本团军官"而被同侪排斥。）

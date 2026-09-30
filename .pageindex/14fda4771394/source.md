@@ -1,0 +1,42 @@
+# notes_expedition — Gardane使团勘测与远征参数（Driault 1904亲读摘录）
+
+来源：Édouard Driault, *La politique orientale de Napoléon: Sébastiani et Gardane (1806–1808)*, Paris: Alcan, 1904。本地全文：`downloads/PS_driault1904_sebastiani_gardane.txt`（archive.org etudesnapolon00dria 的djvu OCR，doc 40dc0ee9ee5c）。Driault全书以AAE土耳其/波斯外交通信为档案基础（Persée书评Muret 1903确认其只用档案、未用英方档案——`downloads/pages/`检索记录）。
+
+## 1. 勘测分工（印pp.318–319，OCR行14395–14403）
+"Il fit relever par ses officiers les itinéraires exacts de toute l'Asie antérieure."
+- **Bianchi d'Adda**：Scutari→德黑兰全程（经阿勒颇、巴格达）制图。
+- **Fabvier**：德黑兰→伊斯法罕。
+- **Trézel**：巴格达→伊斯法罕；伊斯法罕→设拉子；设拉子→波斯湾。
+- **Truilhier**：向马什哈德方向（其1807年勘测报告后刊于Bull. Soc. Géographie 2e sér. 9, 1838——Iranica Gardane条目书目）。
+
+## 2. Gardane本人的对印战役计划（据其与巴黎通信，印p.318–319，OCR行14404–14448）
+- **陆路A（叙利亚线）**：3月离阿勒颇；阿勒颇→幼发拉底河Bir 5日；经巴格达、巴士拉、布什尔、设拉子、亚兹德——**"la route sera mauvaise pour les canons"且英军可在波斯湾沿岸登陆**；不如从巴格达经[Ourfa/OCR]、哈马丹、呼罗珊、赫拉特——**阿勒颇→印度河7–8个月**。
+- **陆路B（黑海线）**：若可经黑海与特拉布宗：一部经Erzerum、Van、哈马丹、亚兹德、赫拉特；另一部经Tabriz、德黑兰、呼罗珊、赫拉特；**特拉布宗→印度河5–7个月**。
+- **"On aura, à Hérat, un excellent point de concentration"**；若与俄国协调，俄可在**里海旁的Astrabad囤积弹药与粮食**，"ce serait très précieux"。
+- 行军参数："**il faudra toujours un cheval ou une autre bête de somme pour deux hommes**"（每2人1匹驮畜）；防夜寒特制大衣；**大量饼干，"car ces peuples n'entendent rien aux subsistances"**；"居民将逃走，只留下废墟村庄"；**"Il faudra beaucoup de paille hachée, il n'y a pas d'autre fourrage"**（唯一草料是铡碎麦秸）；可就地造炮、炮弹、火药——**波斯硝石质量极佳**。
+- 赫拉特以后："la route sera sans doute facile par Caboul et Peichawer"；指望印度河流域部落仇英供兵；Decaen可在孟买以北登陆1,200–1,500克里奥尔兵；在拉合尔一带组成"波斯人与印度人的大军，以欧洲军官士兵为骨架"。
+- 【判读】Gardane的"赫拉特以后容易"与其波斯段的苛刻参数自相矛盾（阿富汗段他无勘测）；其7–8个月/5–7个月工期不含集结、休整、要塞攻坚与季节窗错位。
+
+## 3. 走廊政权的主动接触（印p.319，OCR行14449–14460）
+- **信德王公Mir Gholam Ali Khan（海得拉巴Talpur amir）致信拿破仑**，抱怨英人狡诈，愿"打开通信之门"（Corresp. de Perse, 1808-01-26）。
+- "Les Sykhs de l'Indus sont en guerre contre les Anglais et peuvent réunir **50,000 cavaliers**"——法方1808年情报（"与英开战"有误，5万骑为其对锡克动员力的估计）。
+- 被废阿富汗王子"Darab-Mirza"求法波援助复位（人名以Driault拼写保留）。
+- 沙愿至少进军到德里："两年内英国人将被逐出印度"；**"L'expédition de l'Inde est à Téhéran dans toutes les têtes"**（Corresp. de Perse, 1808-05-04）。
+
+## 4. Gardane对波斯军的评估（Note sur l'armée persane，Corresp. de Perse 1808-01-26；印pp.316–317，OCR行14316–14340）
+- **骑兵144,000**："peu disciplinés, mais excellents cavaliers"。
+- **步兵60,000**："n'avaient aucune valeur"——重型旧火绳枪需支架瞄准。
+- **炮兵"可以说不存在"：2,500炮手**，旧炮用牛拖曳，炮弹常出膛即炸"杀死的波斯人多于敌人"；骆驼回旋炮（1.5磅fauconneaux）受伤即狂奔冲乱本阵；"**Il vaudrait mieux que le schah n'eût pas d'artillerie**"；全波斯只有一门好炮（俄军缴获品，沙留在宫中自娱）。
+- Fabvier奉命在伊斯法罕建炮厂仿造50门；无工场无工人无材料+官员暗中破坏（总督Hadji-Mohammed-Hussein-khan），**5个月造出约20门**（1808-08-15皇帝节鸣放）；运德黑兰需自造全部车辆、驯挽马、修路；到后无谢、炮被"想方设法试坏"后锁进库房——"和什么都没干过一样"（Gardane致弟信1809-01-15）。
+- 【判读】=芬肯施泰因Art.6–7的实施样本：技术转移在缺乏财政-官僚配套时产出上限≈每厂每半年20门，且成品不入战斗序列。
+
+## 5. 1808秋战场效能比（印pp.331–332，OCR行14960–15010）
+- 1808-10 Gudovich攻Erivan；Gardane发出正式警告（波斯为法国盟友、攻击视为对法挑衅）却**急召Verdier与Lamy离前线回德黑兰**（"不许法国军官与俄军交手"——Tilsit约束；波斯宫廷为之愕然）。
+- "**2 ou 300 cavaliers russes ont suffi à chasser tous les Persans de la rive gauche de l'Araxe**"；Nebolsin少将在纳希切万击败阿巴斯，**波斯军3,000人失去战斗力**；Lajard赴俄营见"波斯军处于最可悲状态"。
+- Gudovich回话：波斯不谈就继续打，俄国将保有所占一切，并**在里海备舰队袭波斯海岸**。
+- 【判读】1808年双方效能差：俄军百人级骑兵可驱散波斯河岸警戒——nizam改革前的波斯野战军对线列步炮体系的交换比极端不利；这直接标定"波斯辅助军"在任何法印远征中的实际军事价值（护路、侦察、征发，而非会战）。
+
+## 6. Driault总裁定（印p.320）
+"Tout cela ne fut que rêve et chimère... **l'alliance française ne donna au roi de Perse rien de ce qu'il en espérait**, n'écarta même pas de lui les outrages des Russes; elle lui parut bientôt inutile et odieuse."
+- Gardane到德黑兰即请调（1808-01-24医生证明）；1808-04抱怨薪俸不足；妻子1808-07-08向皇后求其归。
+- 【判读】法国使团自身的持续意愿也低于任务要求——"东方走廊"在法国官僚-人事体系内是惩罚性边地而非事业阶梯（对S4下"法国能否维持长期驻波斯军事使团"的参数：需要制度性激励改造，历史基线为负）。

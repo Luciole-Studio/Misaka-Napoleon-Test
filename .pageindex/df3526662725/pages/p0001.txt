@@ -1,0 +1,59 @@
+# C12 俄方军事外交证据札记（有界研究，非总报告）
+
+## 阅读范围与使用规则
+
+实际读到：Lieven 的两篇专业史家书评正文；Rey 的署名 EHNE 短文正文；俄语历史著作网页章节、1811年涅谢尔罗迭备忘录网络转录、斯佩兰斯基报告网络转录、Åbo 条约研究条目、布加勒斯特研究论文相关页，以及巴拉绍夫使节研究论文。**未取得并阅读 Lieven《Russia Against Napoleon》或 Rey《Alexander I》专著正文，不提供它们的页码。**
+
+缓存均在项目根目录 `/Users/makiko/Documents/exam/downloads/pages/`；下文缓存名指该目录下的真实 web_extract 文件。它们是本次取得的网页文本，不是原刊影印或档案原件。无可靠印刷页码者，提供章节、小标题及唯一段首定位，不伪造页码。引文保留网页文字；俄文中文释义由本札记译述。不同网站转录同一文件，不计为独立证据。
+
+收到经济量化协作者分工更新：Troshin 2015、Makarov 2024 由其负责，本札记不重复扩展贸易计量。协作者报告 Vandal 的1811进攻方案以波兰倒戈为条件，缓存 `cd494198d45d.md` 行248–252；**该项本轮未亲读，不列入下文已验证引文。**
+
+## 核心裁定（交付 C12 的限定结论）
+
+【裁量｜高】当前证据不足以支持“法国作任何让步，亚历山大仍必定发动战争”。相反，1811年存在具体、成套的避战建议；1812年仍有撤军后谈判的条件性表态。**战争准备、预期战争、拒绝屈服、决定主动开战、决定推翻拿破仑，是五个不同命题。**
+
+【裁量｜中】同样不能把这些材料写成“只要拿破仑不入侵，永久和平就有保证”。涅谢尔罗迭的和平方案旨在恢复俄奥实力、维持均势，且认为俄国最终必须保留退出无效封锁的自由。这不是承认俄国从属于法国的方案。1811方案也不等于亚历山大已批准的谈判底稿。
+
+【模型推演｜条件性】可列入 C12 的真实桌面分支是：贸易自主权与中立航运、前沿军力互惠收缩、普鲁士安全、Oldenburg 权利补偿、奥地利担保的组合。失败条件：法国仍要求单方面服从封锁；安全撤军不可核验；俄国借缓和谋取法国不可接受的波兰扩张；保证国不加入。单独承诺“不复兴波兰”不是已证明足够的交换。
+
+---
+
+## E1｜Lieven：敌意不等于必战；1811年放弃主动进攻
+
+- **实际版本**：Charles Esdaile, “The Bear Against The Cockrel”，《Literary Review》2009年书评，2013-06-05 Wayback 存档网页。原站现页只返回开头，改读存档，取得完整书评。
+- URL：https://web.archive.org/web/20130605171204/http:/www.literaryreview.co.uk/esdaile_10_09.html
+- 缓存：`a5b15e70c82c.md`。
+- 精确定位：正文第3段，段首 “Fortunately for all students of the Napoleonic era”。
+- 原句：
+  > Hostility to France, however, did not necessarily mean war and, as Lieven shows, in 1811 Alexander eschewed the idea of attacking Napoleon: rather, he would wait to be attacked and, initially at least, adopt a purely defensive strategy.
+- 【文献推断｜Esdaile 对 Lieven 的概括】1811年拒绝进攻、等待受攻，直接与“反法敌意必然导致俄国立即主动战争”相抵触。
+- **限定**：这是书评转述 Lieven，不是 Lieven 原句；也不证明此前没有进攻计划、后来没有改变意向。不能以此抹去协作者所获 Vandal 条件性进攻方案。
+- 同段把1810年转向敌对同时归因于法国扩张和俄国内部压力；不能仅归结为沙皇私人仇恨。
+
+## E2｜Lieven 的资源动员与承受力：有实力但非无约束
+
+- **实际版本**：Geoffrey Hosking, “Peasants in Arms”，《London Review of Books》31卷23期网页书评；被评书标 Allen Lane, 2009, 618 pp.。此618是全书长度，绝非本札记引文页码。
+- URL：https://www.lrb.co.uk/the-paper/v31/n23/geoffrey-hosking/peasants-in-arms
+- 缓存：`83fff8e6b841.md`。
+- 精确定位一：段首 “One might then ask why he did not prepare for the war”。
+  > he did not want to provoke Napoleon before war was inevitable, and he feared the effect of the expense of mobilisation on Russia’s flaky finances.
+- 精确定位二：段首 “The war against Napoleon strikingly illustrates”。
+  > The huge distances also meant that the mobilisation of resources was slow and cumbersome.
+- 精确定位三：段首 “Organisational miracles were required”。
+  > Without a considerable British subsidy Russia could probably not have carried the campaign through to its successful conclusion.
+- 【文献推断｜Hosking 对 Lieven 的讨论】战前民兵动员的迟疑同时涉及挑衅风险、财政与农奴秩序；辽阔领土既是战略纵深，也是征集转运的时滞。
+- **限定**：第三引文讨论1813–14向中欧、法国推进的承受力，不能倒推“1812本土抵抗必须预先获得同等英国补贴”。“probably”也不是核算证明。
+
+## E3｜Rey 作者本人：把战时拒和与战前意图分开
+
+- **实际版本**：Marie-Pierre Rey, “Russian Campaign, French Campaign, 1812–1814”，EHNE 署名条目，printable PDF URL 的文本提取版本。
+- URL：https://ehne.fr/en/node/12209/printable/pdf
+- 缓存：`5e89d50c1e0b.md`。
+- 精确定位一：`1812, the Russian campaign` 小节，以 “In fact, French-Russian relations” 起首的段落。
+  > When Napoleon, who was convinced that war was inevitable beginning in late 1811, chose to commence hostilities, his aim was to score a quick and decisive battle
+- 精确定位二：同节，段首 “In search of a new battle”。
+  > Faced with the czar's refusal to open negotiations, Napoleon was forced to leave after one month, on October 19.
+- 精确定位三：同节末段。
+  > Despite the contrary opinion of a number of his advisors, Alexander I nevertheless believed that Napoleon would return sooner or later, and that it was necessary to take to the offensive and undo him once and for all.
+- 【文献推断｜Rey】1812秋拒和和随后继续进军欧洲，不等于1810年已经决定任何条件下都要战争。这里“相信战争不可避免”的第一句主语是 **Napoleon**，不得移植给 Alexander。
+- **质量限制**：这是概述，非《Alexander I》原章。其将撤退概括为预先形成的计划，比 Hosking 对逐站撤退和临时决策的叙述更整齐；不能据短文裁定“引敌到莫斯科”的完整预案。文中总兵力、伤亡和莫斯科火灾强断言未在本轮逐项复核，不用作数量冻结。

@@ -1,0 +1,35 @@
+Environ. Res. Lett. 12 (2017) 074026
+
+
+
+
+  Figure 5. West-East transects (see ﬁgure 1) referring to the reference period today, year 1 and year 2 of (top) potential maize yields,
+  (middle) the number of days with 100% soil saturation and (bottom) the stress day index. Note that the latter two were not calculated
+  for every grid point and thus the spatial resolution is lower.
+
+
+
+effects in 1817 were mainly due to cold conditions in                  addressed. Finally, our assessment does not consider
+spring (note that temperatures in 1817 are under-                      crop quality, which was reportedly low in 1816
+estimated in the reconstructions, arguably contribut-                  (Krämer 2015). Since the crop model is not able to
+ing to an overestimation of the delay of phenophases                   capture impacts of waterlogging, pests and diseases, it
+in 1817 in the model). In addition to low temperature                  cannot be precluded that any of these factors may have
+and reduced radiation, a large amount of precipitation                 added to the east-west divide in malnutrition.
+leading to waterlogging negatively affected yields both                Especially fungal diseases and waterlogging may have
+in 1816 and in 1817.                                                   had detrimental effects on crop yields and quality.
+    For the situation of a Tambora-type eruption                           The simulations reveal an east-west gradient in
+occurring in the present climate, followed by a YWAS,                  yield loss across the Swiss Plateau despite the fact that
+our model simulations suggest decreases in yields of                   neither precipitation nor temperature shows a clear
+today’s crops of almost the same magnitude as in 1816.                 gradient. This is found most strongly for maize for
+Losses are highest for current maize hybrids (not                      which it could be attributed to differences in altitude
+cultivated in 1816) and amount to 30%–50% (note                        and radiation. However, maize was not cultivated and
+that to these losses, the effects of waterlogging need to              the gradient is small for potato, relative to the recorded
+be added). It should be considered that in the                         historical difference in price (ﬁgure 4). Although there
+simulations land use and land use decisions were not                   are remaining uncertainties, it is unlikely that spatial
+incorporated, and only the climate-limited crop yield                  differences in yield losses are solely responsible for the
+could be estimated with the model. Moreover, in 1816/                  observed differences in malnutrition. It is more likely,
+1817 losses along the value chain were very large and,                 and in agreement with the work by historians (Krämer
+hence, in a full assessment of food shortage effects of                2015), that they were caused mainly by economic,
+trade, market regulations, and other factors should be                 political and social factors.
+
+                                                        9

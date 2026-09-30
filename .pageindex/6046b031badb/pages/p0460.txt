@@ -1,0 +1,169 @@
+
+
+ www.eltallerdelllibre.comaa
+
+===== FILE: OEBPS/index.xhtml =====
+cruci-78.xhtml
+
+ Índice
+
+Portada
+
+Mención especial 
+
+Portadilla
+
+Dedicatoria
+
+Agradecimientos
+
+Cita
+
+Introducción. El rey imaginado
+
+Primera parte. Príncipe de Asturias
+
+1. La educación del príncipe
+
+La jura del sucesor al trono
+
+Maestros y régimen de vida
+
+Un diario de viaje del joven Fernando
+
+El príncipe, la reina y Godoy
+
+La primera boda
+
+2. Conspiraciones
+
+María Antonia de Nápoles y la entrada del príncipe en política
+
+La campaña del príncipe contra su madre
+
+La trama de El Escorial
+
+Los papeles del príncipe
+
+Delaciones y perdón
+
+La victoria de Aranjuez
+
+Segunda parte. Rey de España
+
+3. Acceso al trono
+
+19 de marzo de 1808
+
+Al encuentro del emperador
+
+Las abdicaciones de Bayona
+
+4. El rey ausente
+
+Valençay
+
+Planes de evasión
+
+Postración ante el emperador
+
+Extorsiones y negocios
+
+5. El golpe de Estado de 1814
+
+El tratado con Napoleón 
+
+El retorno del rey
+
+Preparativos del golpe de Estado
+
+Madrid, 1814 
+
+Tercera parte. El gobierno de la monarquía
+
+6. El rey absoluto
+
+La nueva política
+
+Represión e imposible vuelta atrás
+
+El Gobierno 
+
+La camarilla
+
+La segunda esposa: Isabel de Braganza
+
+El trono discutido
+
+Una potencia de segundo orden
+
+La pérdida de América
+
+7. Por la senda constitucional
+
+Juramento de la Constitución
+
+María Josefa Amalia de Sajonia, primera reina constitucional
+
+Director de la contrarrevolución
+
+Un golpe fracasado
+
+Recurso al exterior
+
+Inestabilidad institucional
+
+El viaje forzado al sur 
+
+La inhabilitación del rey
+
+Capitulación de los constitucionales
+
+8. Pervivencia del absolutismo
+
+«El rey neto» 
+
+Condicionantes del nuevo tiempo
+
+El Estado represor
+
+El rey gobierna
+
+Conspiraciones y revueltas
+
+Agobios económicos del rey y del reino
+
+El horizonte reformista
+
+Viaje triunfal al norte
+
+La cuarta esposa. María Cristina de Borbón
+
+Últimos días del rey. La defensa de los derechos de su hija
+
+Apéndices
+
+Referencias documentales
+
+Bibliografía
+
+Cronología de Fernando VII
+
+Láminas
+
+Créditos de las imágenes
+
+Notas
+
+Créditos
+
+===== FILE: OEBPS/intro.xhtml =====
+intro.xhtml
+
+ Introducción
+
+ El rey imaginado
+
+ «España ha sido infortunada con sus reyes [...]. Sólo uno, Carlos III, se mostró a la altura de su misión. Los otros no han sido sino más que individuos de la peor mediocridad», escribió Georges Desdevises du Dézert al iniciarse el siglo XX en La España del Antiguo Régimen, obra de referencia sobre la materia. El reconocido hispanista se refería al periodo 1700-1808 y, en consecuencia, no incluyó en su examen a Fernando VII, pero de haberlo hecho es probable que no hubiera variado su juicio. Casi exactamente cien años después, Rafael Sánchez Mantero afirmó: 
+
+ La Historia reciente [...] considera a Fernando VII simplemente como un rey con muy escasa capacidad para enfrentarse a los tiempos en los que le tocó reinar. Con todo, resulta difícil encontrar algún estudio, ya sea del pasado o del presente, en el que la figura de este monarca genere la más mínima simpatía o atractivo. Sin duda ha sido el monarca que peor trato ha merecido por parte de la historiografía en toda la Historia de España. 

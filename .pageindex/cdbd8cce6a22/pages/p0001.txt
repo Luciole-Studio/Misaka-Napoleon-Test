@@ -1,0 +1,43 @@
+# B3 主笔已读证据摘录与机制（2026-09-23）
+
+本文件同sources/stores/B3_stores_evidence.md及sources/postwar/*.md组成装配笔记；现代网页转录不等于原档。以下为本轮实际读到内容，数字模型另标。
+
+## H12｜Hansard 1812-02-22 vol21 cc885–893
+URL https://api.parliament.uk/historic-hansard/commons/1812/feb/22/navy-estimates；缓存downloads/pages/f42cec953d4b.md。
+- c888 Yorke：法国不断扩舰，若先降海军再遇紧急事件难以增加，原文“if once the naval force was to be lowered, and an exigency arose, it would be difficult to increase it”。Johnstone反对继续145,000规模，主张资源可投大陆。Yorke声称Scheldt25艘、荷兰诸港35艘，不纳入法国实舰数：可能重复、威胁夸大、状态不明。
+- cc886–887 Grenfell质疑Portsmouth回收铜包皮品质差且贵；Yorke与Markham回应。是同时代争论而非质量已证定论。与Science Museum GOOD/A目录铜回收链对读。
+- c885只有39chaplains，拟牧师兼教师，£30,000改进；可见宗教与导航教育的制度缺口，非全海军文化一体。
+- c886 船坞工请愿所得税负担；Yorke称其perverse，显示财政动员与熟工待遇冲突。
+- cc889–891 Cochrane主张海上机动5,000兵骚扰伊比利亚与沿岸通讯；Hutchinson反对这种战争。是桌面方案，不采用其“一年即可倒拿破仑”的夸大预测。
+
+## H15｜Hansard 1815-06-14 vol31 cc806–820
+URL https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges；缓存downloads/pages/156d03703582.md。本轮读cc806–807及Tierney反驳cc809–817、财政答辩cc818–820。
+- 财相Vansittart：若法国与大陆列强安排，“that expense now incurred for our armies would cease, and the supplies at present demanded for them could be applied to the service of our navy”。真实当时提案，非本模型臆造英国响应。
+- 人数减140,000至70,000仍因回国索欠饷造成当期额外现金支出。此处seamen是演说简写，不据此推翻分项表含marines。
+- 财相以短战预期为借贷而非更增税理由；Tierney称不应相信下年成本自降、海外军费欠账可能再生。保留双方：转军费是可行菜单，不保证国会无条件批准或债务可无限增长。
+
+## FB｜Fremont-Barnes, The Royal Navy 1793–1815 (Osprey, 2007)
+已读版本为https://epdf.tips/the-royal-navy-1793-1815.html OCR；downloads/pages/7f93512d05f7.md。页码按所显示书页。
+- pp41–42 舰长赏罚、军法与奖金：1808前舰长3/8、commissioned officers1/8、warrant officers1/8、petty officers1/8、其他含marines1/4；1808改分但此次未得新全规则。用以解释激励，不预测私人发财总额。
+- p42 内阁/议会授款，海军欠款及合同商信任未来支付。其“实际人员从未到票数”等笼统话不适用于1821后网络borne表（应另辨统计口径）。
+- pp47–50 建舰两层甲板2–3年、三层若干年，下水后数月舾装；熟船工七年学徒。战争期王家坞41艘战列+78其他；约60家私坞60艘战列+600余小舰。是1793–1815累积，不是1803–15或单年产能。
+- p48 74炮舰约100 tons铁件、30铜栓、12铜包皮（以及麻絮/焦油/沥青等）；英国原文tons非已转公吨，不拿材料重量代产能。
+- pp49–50 Portsmouth、Plymouth、Chatham基地/医院/军械设施；泰晤士并非全部供给。另FB图注把Deptford写私坞（不采用），其印度仅限Bengal等过度简化（不采用）。组织上三委员会并列/沿革需依RMG，不直接照FB称Victualling隶Navy Board。
+- pp41–42 驻区司令依据已有指令自主决策，联络总督、领事、外交官和军队，须供给/修整/报告。可作伦敦短期失联仍执行命令的机制；没有找到1803撤离实令。
+
+## RMG-M｜1797哗变
+Royal Museums Greenwich Research guide B8；https://www.rmg.co.uk/collections/research-guides/research-guide-b8-spithead-nore-mutinies-1797；downloads/pages/2d8d72a79507.md L157–165。
+“In April 1797, 16 ships-of-the-line of the Channel fleet refused to sail”；Spithead工资待遇诉求经让步赦免；Nore要求奖金分配、休假与军法变化，封泰晤士后镇压。未读所有书目/馆藏，不用其目录冒充独立原档。
+
+## BALT｜The Defence of British Trade with the Baltic, 1808–1813 (1959)
+https://www.reenactor.ru/ARH/PDF/Defence.pdf；downloads/pages/e47ab045c32f.md。已读开头pp443–444、pp450–451及p453（OCR误作455）。作者需书目确认，未补造。
+- p444俄国占英国hemp总消费90%以上（引Oddy、Gerhard；非专门皇家海军份额）。次材质量差不等于完全没有替代。
+- p450商人Emes经Lloyd's代表同海军部、Saumarez商定护航季期；情报包括前领事Drusena以别名留Koenigsberg。
+- p451通常12月至3月冻结；1808晚护航队与1811晚护航队灾难。物理冬季边界，非海战败绩。不能从1811灾难算长期平均损失率。
+- p453（缓存表头OCR455）1810-07-19挪威五brig俘47商船的孤立大成功，英国立即增援巡航舰使其转守。局部封锁/护航缺口触发内生调舰，非永远无漏洞。
+
+## James补充单页
+P_040.html（VI p40；05ae2a02c794.md）：1812“seamen and marines, voted ...145,000”；将校名册777captains、566commanders、3163lieutenants，不是全在役。
+P_152.html（VI p152；c8f3fb7e8d62.md）：1813 140,000票员；1813名册802captains/602commanders/3268lieutenants可补汇总网页缺行，但不构造实员。
+P_500.html（VI Appendix9；1f6907a51a1d.md）：1814前7阴历月86,000+31,400=117,400，后6月74,000+16,000=90,000；同书正文140,000冲突未解决。
+P_417.html（VI p417；391f1c758def.md）：Seppings斜撑1800 Glenmore实验、1805 Kent维修、Tremendous重建、1815 Howe按原则新造；作者肯定成效，1812议会曾争论腐烂。技术可改善维持但非无耗损。

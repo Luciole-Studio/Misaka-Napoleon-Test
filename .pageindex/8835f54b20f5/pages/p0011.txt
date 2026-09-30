@@ -1,0 +1,58 @@
+3296                                  THE AMERICAN ECONOMIC REVIEW                                  DECEMBER 2011
+
+
+
+urbanization rates across German polities. The panel includes data for the periods
+1700, 1750, 1800, 1850, 1875, and 1900. Our basic reduced-form regression model
+is as follows:
+
+(1)     ujt = dt + δj + ∑                  ατ × dτ × Ij + ∑               ατ × dτ × Ij + X ′jt × γ + εjt,
+                                 τ∈ pre                       τ∈ post
+
+where ujt is the urbanization rate in polity j at time t, the dts denote a full set of
+time effects, the δjs denote a full set of polity fixed effects, Xjt is a vector of other
+covariates, which will be included in some of the robustness checks, and εjt is a
+disturbance term. The key variable of interest is the treatment variable Ij, which
+corresponds to the number of years of French presence. The coefficients of interest
+are thus {αt}τ∈ pre ατ and {αt}t∈ post ατ , where  pre is the set of years before and  post
+is the set of years after treatment, which together allow us to look at both pretrends
+and post-French Revolution differential effects (∑ τ∈ ατ × dτ × Ij stands for a
+separate interaction for each τ in  ). Under our hypothesis that French occupation
+was “econometrically exogenous,” we expect the coefficients {αt}t∈ pre not to be sig-
+nificantly different from zero, and if the French reforms were indeed beneficial for
+long-run economic growth, {αt}t∈ post should be positive.
+   Throughout the paper, all standard errors are robust, clustered at the country/
+polity level to allow for an arbitrary variance-covariance matrix capturing potential
+serial correlation in the residual error term (see Jeffrey Wooldridge 2002, ch. 7).12
+
+                                                A. Main Results
+
+   We start in column 1 of Table 3 with our baseline sample, West of the Elbe. We
+also use population in 1750 as weights, since there are significant differences in the
+size of the polities in our sample.13 The set  post includes the treatment years 1850,
+1875, and 1900,  pre comprises 1750 and 1800, with 1700 as the omitted year. In col-
+umn 1 we see that αˆ 1750 = − 0.491 and αˆ 1800 = − 0.247, indicating that areas with
+greater years of French presence were growing somewhat more slowly in the eigh-
+teenth century, though this differential is declining toward 1800. αˆ 1850 = − 0.160
+with a standard error of 0.250, so that by 1850 there was no (statistical or economic)
+effect of years of French presence on the growth of urbanization. By 1875, however,
+there is a positive association between years of French presence and urbanization,
+and by 1900, this effect is stronger: the estimated coefficient αˆ 1900 is equal to 0.634.
+This implies a positive differential of 12 percentage points for areas treated with 19
+years of French presence, which corresponds to approximately one standard devi-
+ation—a magnitude that is economically large but reasonable.14 Even though the
+
+    12
+       The Huber-White standard errors turn out to be smaller than the standard errors clustered at the country/polity
+level in almost all cases.
+    13
+       Total population size in 1750 varies between less than 200,000 inhabitants (Brunswick, Mark) and over a
+million (Rhineland, Silesia, Hanover, Bavaria). Unweighted regressions might be driven by sudden changes in
+urbanization in the smaller polities as a few cities pass the 5,000 threshold to be included in the urbanization data;
+weighted regressions avoid this problem by giving greater weight to changes in the larger polities, which are both
+likely to be better measured and less subject to measurement error. Nevertheless, as is well known, there is no
+ex ante reason for either specification to be preferred, and throughout we report both weighted and unweighted
+specifications.
+    14
+       One concern is that the number of clusters in Table 3 is relatively small (13/19 polities), raising the possibil-
+ity that asymptotic approximations may not be valid. As a remedy, we use the alternative wild bootstrap procedure

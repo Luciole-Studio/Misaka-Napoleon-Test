@@ -1,0 +1,15 @@
+
+
+## E. 马斯喀特/波斯湾
+来源：Sen行30777–30800（Cavaignac使命）；《Records of Bahrain》与波斯湾Précis扫描页（flipbuilder在线，转录粗劣仅作方位）；Archaeopress《The First Saudi Dynasty and Oman, 1795–1818》(PSAS下载版，作者据阿拉伯文写本与Lorimer系材料)。
+- 条约链：**1798 qawlnama**（孟买政府使Mahdi Ali Khan与Sultan bin Ahmad订，排除法荷、法人不得受雇）；**1800-01 Malcolm二条款约**（确认1798+英国政治代理人驻Muscat）；Malcolm的杠杆原话（波斯湾Précis转录）："自Surat至加尔各答的一切印度港口既在英国人之手，若英国政府愿意，Muscat可被排除出印度贸易而毫无困难。"
+- 法国尝试：Cavaignac 1803-09-14乘Atalante赴任驻Muscat Resident（第一执政自埃及远征以来的波斯湾布局），10-03抵达时**伊玛目在英国压力下拒绝往来**，使团即返（Sen）。Revenant改名Iéna后曾携特使赴波斯湾（Malleson行4147）。
+- 湾内实况1800–18（PSAS文）：阿曼两面受敌——瓦哈比/沙特自Buraimi连年入侵（1800–18），Qasimi海上力量攻英船（1804/1808/1812/1816/1818）；Sultan bin Ahmad 1804年海上遇伏身亡；Badr篡位（1804–07，瓦哈比支持）；Sa'id ibn Sultan 1807起（1809–11向波斯求援、以巨款购安）；英国远征：1805 Qishm、**1809-09 Lionel Smith攻Ras al-Khaimah/Shinas等**、1819-10 Grant Keir歼Qasimi海军→**1820-01海岸诸酋总条约**。
+- 【本卡推演价值】法国在湾内的结构性劣势：既不能像英国那样提供对瓦哈比的海上保护，也无贸易可作筹码（阿曼的市场与保护人都在孟买）；**1807芬肯施泰因把法国绑向波斯，而波斯正是阿曼的另一潜在威胁**——法国无法同时是波斯与阿曼的保护人。Muscat中介功能（Decaen通信、Iéna特使航线）在1809英国清剿后进一步收窄。
+
+## F. Compton军力数字（`downloads/IN2_compton_adventurers.txt`；1892，浪漫化叙述但数字本L.F. Smith等同期材料）
+- 1798年三大法系军事集团（Introduction行160–260）：海得拉巴Piron 14,000人+30炮；迈索尔蒂普军75,000中"欧洲/法国军团"550人；**Sindhia 40,000纪律步兵+380炮，Perron统领，欧洲军官团约300人**。
+- Wellesley 1798公文（Compton引）：Nizam+Sindhia+Tipu三军团合流"可在浦那与德干诸国的废墟上建立法国的权力"。
+- Kardla 1795（行10250–10350）：马拉塔联军140,000（24,000纪律步兵：de Boigne第一旅Perron带队+Filose 6营+Hessing 4营+Dudrenec 4营）vs Nizam 110,000（17,000纪律：Raymond 11,000+Boyd/Finglass 6,000）；Perron 35炮夺位定胜。
+- de Boigne遗军（1796，行10411）：**24,000步兵+3,000骑兵+120炮**（另有守备与非正规）；de Boigne临去**劝Daulat Rao拆散诸旅勿授一人**——被无视，Perron集权。
+- de Boigne jagir：52县16→22 lakhs卢比年入（与Sen行29470互证）。

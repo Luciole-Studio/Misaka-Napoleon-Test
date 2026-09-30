@@ -1,0 +1,57 @@
+---
+source_url: "https://de.wikisource.org/wiki/Rieder-Vertrag_vom_8._October_1813"
+final_url: "https://de.wikisource.org/wiki/Rieder-Vertrag_vom_8._October_1813"
+provider: "exa"
+text_sha256: "c4ed4f8a9324f0f6cc64e78c38f5c7bdd7b0a9cd7e0138fdb335b1edd17397d1"
+title: "Rieder-Vertrag vom 8. October 1813 \u2013 Wikisource"
+content_kind: "page_text"
+---
+
+Rieder-Vertrag vom 8. October 1813 – Wikisource
+
+# Rieder-Vertrag vom 8. October 1813
+
+| Textdaten | |
+| --- | --- |
+| Autor: | |
+| Illustrator: | {{{ILLUSTRATOR}}} |
+| Titel: | Rieder-Vertrag vom 8. October 1813 |
+| Untertitel: | Vertrag zwischen Österreich und Bayern betreffend die 1810 an Bayern abgetretenen Länder Tirol und Salzburg |
+| aus: | Die Staats-Verträge des Königreichs Bayern in Bezug auf Justiz-, Polizei-, Administrations-, Territorial- u. Grenz-; Bundes-, Kirchen-, Militär-, Handels-, Schifffahrt-, Post-, Eisenbahn-, Telegraphen- und Münz-Angelegenheiten: von 1806 bis einschließlich 1858 |
+| Herausgeber: | G. M. Kletke |
+| Auflage: | |
+| Entstehungsdatum: | 18. Mai 1810 |
+| Erscheinungsdatum: | 1860 |
+| Verlag: | Friedrich Pustet |
+| Drucker: | {{{DRUCKER}}} |
+| Erscheinungsort: | |
+| Übersetzer: | |
+| Originaltitel: | |
+| Originalsubtitel: | |
+| Originalherkunft: | |
+| Quelle: | Google, Commons |
+| Kurzbeschreibung: | |
+| Artikel in der Wikipedia | |
+| [[d:{{{WIKIDATA}}}|Datenobjekt bei Wikidata]] | |
+| Eintrag in der GND: {{{GND}}} | |
+| Bild | |
+| [[Bild:|250px]] | |
+| Bearbeitungsstand | |
+| korrigiert | |
+| Dieser Text wurde anhand der angegebenen Quelle einmal Korrektur gelesen. Die Schreibweise sollte dem Originaltext folgen. Es ist noch ein weiterer Korrekturdurchgang nötig. | |
+| Um eine Seite zu bearbeiten, brauchst du nur auf die entsprechende [Seitenzahl] zu klicken. Weitere Informationen findest du hier: Hilfe | |
+| Indexseite | |
+
+18. Rieder-Vertrag vom 8. October 1813.
+
+Maximilian Joseph, 
+
+von Gottes Gnaden König von Bayern etc. etc., 
+
+ urkunden und fügen hiermit zu wissen:
+
+Nachdem den 8. d. M. zwischen Uns und Seiner Majestät dem Kaiser von Oesterreich, König von Ungarn und Böhmen eine Präliminar-Convention folgenden Inhalts abgeschlossen worden ist: 
+
+Im Namen der heiligen und untheilbaren Dreifaltigkeit.
+
+Da Seine Majestät der König von Bayern und Seine Majestät der Kaiser von Oesterreich, König von Ungarn und Böhmen, gleich beseelt von dem Wunsche zur Wiederherstellung der Verhältnisse, welche durch unglückliche Ereignisse waren unterbrochen worden, die Ueberzeugung hegen, daß die engste Verbindung unter Ihnen das Wohl ihrer Staaten wesentlich [237] befördern wird und Seine Königl. Majestät von Bayern nach erhaltener Gewißheit, daß die Bemühungen der alliirten Mächte, den Übeln des Krieges ein Ziel zu setzen, ohne Erfolg geblieben sind, Sich entschlossen haben, zu gleichen Zwecken Sich mit den in dem gegenwärtigen Kriege gegen Frankreich begriffenen Mächten zu verbinden und in Vereinigung mit denselben alle in Ihrer Macht stehenden Mittel aufzubieten, um die Herstellung eines Gleichgewichtes unter den Mächten zu bewirken, welches geeignet sei, Europa einen dauerhaften Frieden zu versichern – so haben Allerhöchstdieselben zur Festsetzung der Präliminar-Artikel einer Allianz, folgende Bevollmächtigte ernannt, nämlich: 

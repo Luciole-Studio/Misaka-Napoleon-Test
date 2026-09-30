@@ -1,0 +1,29 @@
+
+
+Our variable of interest is T i . In one set of specifications (Table 4, Columns (5)–(8)), T i is an indicator variable set to 1 if department i is classified by Lacuée as belonging to categories 4 or 5, and zero otherwise. Footnote 53 In another set of specifications (Table 5, Columns (5)–(8)), T i is the natural logarithm of department i’s average terrain ruggedness. Both strategies yield similar results. Conscription rates for some departments fell dramatically following Lacuée’s reform. The coefficients on the interaction term between T i and 1810 are negative and statistically significant across all specifications—consistently meeting the 1 percent threshold when we employ the indicator variable approach and the 10 and 5 percent thresholds when we use the log of ruggedness. Footnote 54
+
+Figure 6 provides a graphical representation of our results. The top panel suggests that the French government may have begun discriminating in favor of departments in categories 4 and 5 already in 1809. However, the largest drop in their conscription rate came the following year. We do not find evidence of any such pre-trend in the bottom panel. Overall, the two figures suggest that the variation in nominal conscription rates across French departments was indeed a conscious policy response by Paris to the threat that draft dodging posed to its short-term military objectives.
+
+Figure 6
+
+THE LACUÉE’ PLAN AND CONSCRIPTION OVER TIME
+
+Notes: These two graphs report the coefficients from Table 4, Column (8)—upper panel—and Table 5, Column (8)—lower panel.
+
+Sources: Authors’ computations, Table 4.
+
+Table 4
+
+DISCRIMINATORY CONSCRIPTION, DRAFT EVASION, AND CONSCRIPTION RATES
+
+***p < 0.01, **p< 0.05, *p < 0.1
+
+Sources: Draft-dodging rates are form the Archives Nationales AF/IV/1124, n. 1 and n. 9. The share of conscripts is from the Archives Nationales, AF/IV/1124, n. 1 and n. 9 and the Rapport a sa Majesté Impériale et Royale from 6 April 1809. Ruggedness is from Nunn and Puga (Reference Nunn and Puga2012). Data on “Border” status is from Nussli (Reference Nussli2012). Military relays are from Arbellot, Lepetit, and Bertrand (Reference Arbellot, Lepetit and Bertrand1985). Replacement rate is from the Archives Nationales, AF/IV/1124, pp. 198–215. Maritime status is calculated using information from Poirson (Reference Poirson1808).
+
+Table 5
+
+DISCRIMINATORY CONSCRIPTION, DRAFT EVASION, AND RUGGEDNESS
+
+***p < 0.01, **p< 0.05, *p < 0.1
+
+Sources: Draft-dodging rates are form the Archives Nationales AF/IV/1124, n. 1 and n. 9. The share of conscripts is from the Archives Nationales, AF/IV/1124, n. 1 and n. 9 and the Rapport a sa Majesté Impériale et Royale from 6 April 1809. Ruggedness is from Nunn and Puga (Reference Nunn and Puga2012). Data on “Border” status is from Nussli (Reference Nussli2012). Military relays are from Arbellot, Lepetit, and Bertrand (Reference Arbellot, Lepetit and Bertrand1985). Replacement rate is from the Archives Nationales, AF/IV/1124, pp. 198–215. Maritime status is calculated using information from Poirson (Reference Poirson1808).

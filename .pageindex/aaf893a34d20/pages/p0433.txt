@@ -1,0 +1,93 @@
+Rural Change and Royal Finances in Spain
+
+
+
+
+                                                                                           ― 774 ―
+
+
+
+
+       APPENDIX E—
+       RATIO OF THE SALE PRICE OF DISENTAILED PROPERTIES TO CADASTRAL VALUE
+       I was able to match 139 ecclesiastical properties sold in the disentail of Carlos IV in the towns studied in Part 2 against their entries in
+       the catastro of La Ensenada.[1] Not all could be used to establish a ratio of selling price to cadastral value. A number of sales involved
+       more than one type of property, and they had to be discarded. Similarly, a sale for which the corresponding deed of deposit could not be
+       located in the volumes of López Fando and Corral in Madrid could not be used, because one cannot know how the price paid related to
+       the amount eventually deposited in the royal fund. One hundred nine sales remained for study. They had to be divided according to the
+       type of land use and the form in which payment was made: whether in vales reales, in hard currency, or in hard currency with the
+       amount of the deed increased according to the cédula of 16 August 1801 to compensate the former owner for not receiving interest on as
+       much capital as he would have if the buyer had bid in vales.
+             The results are shown in Table E.1. To give a sense of how widely dispersed the ratios for the individual sales are, a "standard
+       error" is calculated. (The term should not confuse the reader into thinking that these sales represent a random sample of the country.
+       They come from only a few towns in two provinces.)
+            The reliability of these ratios can be checked to a certain extent by comparing for each type of property the ratios for the different
+       types of payment shown in Table E.1, as follows:
+
+
+                                    E+/E           VR/E
+
+
+               Arable                  1.62         1.20
+
+
+           Olive groves                1.41         1.36
+
+
+             Meadows                   .83          1.28
+
+
+              Houses                   1.33         .94
+
+
+       [1] This appendix explains the calculation more fully than the section in Herr, "Hacia el derrumbe del Antiguo Régimen," 72–74.
+
+
+
+                                                                                           ― 775 ―
+
+
+                 Table E.I. Value of Deed of Deposit/Cadastral Value, Selected Disentailed Properties
+
+
+
+                                                                     Terms of Sale
+
+
+
+                                                     E                     E+
+                                              (hard currency       (hard currency with            VR
+                Type of Property                [efectivo] )       deed augmented ) a       (vales reales )
+
+
+
+                 Arable (tierras)                    18.2                 29.5                   21.8
+
+
+
+                "Standard error"                       1.2                 5.5                    5.3
+
+
+
+                        N                           11                      6                      8
+
+
+
+             Olive groves (olivares)                32.9                  46.4                   44.7
+
+
+
+                "Standard error"                      3.0                  3.3                    2.4
+
+
+
+                        N                           24                     14                     28
+
+
+
+               Meadows (prados) b                  134.9                  112.6                 172.0
+
+
+
+
+http://publishing.cdlib.org/ucpressebooks/view?docId=ft4d5nb394;chunk.id=0;doc.view=print[1/22/2011 11:30:51 AM]

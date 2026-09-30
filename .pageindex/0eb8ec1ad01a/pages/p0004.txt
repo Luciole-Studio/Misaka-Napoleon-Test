@@ -1,0 +1,63 @@
+                                                                                                                    10
+                           1500
+
+
+
+
+              World population (millions)                                                                               4          6          8
+
+
+
+
+                                                                                                                    City population share (percent)
+                500          1000
+
+
+
+                           0                                                                                        2
+                                            1000          1200        1400           1600          1800         2000
+                                                                              year
+
+                                                           World population                 City population share
+                                             Sources: See text.
+
+
+
+
+                          Figure 1: Growth in world population and urbanization, 1000–1900.
+
+
+the 16th and 18th centuries, and from the British colonies in America during the same period, fail
+
+to provide evidence that wealthier or better nourished populations had lower mortality and longer
+
+life expectancy (Livi-Bacci, 1991). Moreover, the traditional view is that the most important contrib-
+
+utors to increased life expectancy are the improvements in modern medicine and public sanitation
+
+that occurred during the end of the nineteenth century and the beginning of the 20th century.4 In
+
+reality, improvements in nutrition, medicine, and public sanitation, all likely contributed to the
+
+observed increase in life expectancy and population. This, along with the fact that improvements
+
+in each factor typically occurred simultaneously, makes identifying the effects of any one channel
+
+very difficult.
+
+   Our study contributes to the debate by providing causal estimates of the impact of improved
+
+nutrition on population growth. We estimate the effect of improved nutrition caused by the large
+
+increase in availability of calories and nutrients that followed the introduction of the potato from
+
+the New World to the Old World.5 We do not attempt a comparison of the importance of nutrition
+  4 Preston (1975, 1980, 1996) famously discusses the importance of public sanitation. For examples of the evidence of
+
+medical improvement on mortality, see Cutler (2004) and Cutler, Deaton, and Lleras-Muney (2005).
+   5 Throughout the paper we use a broad definition of ‘Old World’, which includes the entire Eastern Hemisphere. In
+
+other words, by ‘Old World’ we do not mean Europe only.
+
+
+                                                                               2

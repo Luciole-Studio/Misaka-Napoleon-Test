@@ -1,0 +1,431 @@
+      "venue_issn": "0002-8762",
+      "authors": [
+        {
+          "name": "John H. Coney",
+          "id": "https://openalex.org/A5085871701",
+          "institutions": []
+        },
+        {
+          "name": "Herbert A. L. Fisher",
+          "id": "https://openalex.org/A5033184968",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 7,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W1544340961",
+      "doi": "10.1524/jbwg.1967.8.3.255",
+      "title": "Ostelbische Landarmut – Sozialökonomisches über landlose und landarme Agrarproduzenten im Spätfeudalismus",
+      "year": 1967,
+      "type": "article",
+      "venue": "Jahrbuch für Wirtschaftsgeschichte / Economic History Yearbook",
+      "venue_issn": "0075-2800",
+      "authors": [
+        {
+          "name": "Jan Peters",
+          "id": "https://openalex.org/A5071367253",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 7,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2233521113",
+      "doi": "10.22004/ag.econ.178686",
+      "title": "The French Revolution and German industrialization: The new institutional economics rewrites history",
+      "year": 2014,
+      "type": "preprint",
+      "venue": "RePEc: Research Papers in Economics",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Michael Kopsidis",
+          "id": "https://openalex.org/A5065734990",
+          "institutions": []
+        },
+        {
+          "name": "Daniel W. Bromley",
+          "id": "https://openalex.org/A5073835856",
+          "institutions": []
+        },
+        {
+          "name": "Kopsidis, Michael",
+          "id": null,
+          "institutions": []
+        },
+        {
+          "name": "Bromley, Daniel W.",
+          "id": null,
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 7,
+      "is_oa": true,
+      "oa_pdf": "https://ageconsearch.umn.edu/record/178686/files/dp149.pdf",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 92,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W4379030571",
+      "doi": "10.1080/00213624.2023.2200642",
+      "title": "Institutional Entropy",
+      "year": 2023,
+      "type": "article",
+      "venue": "Journal of Economic Issues",
+      "venue_issn": "0021-3624",
+      "authors": [
+        {
+          "name": "Huáscar Fialho Pessali",
+          "id": "https://openalex.org/A5073502091",
+          "institutions": [
+            "Universidade Federal do Pará"
+          ]
+        }
+      ],
+      "cited_by_count": 7,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 30,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W3121177917",
+      "doi": "10.1017/s0022050719000366",
+      "title": "Institutional Transplant and Cultural Proximity: Evidence from Nineteenth-Century Prussia",
+      "year": 2019,
+      "type": "article",
+      "venue": "The Journal of Economic History",
+      "venue_issn": "0022-0507",
+      "authors": [
+        {
+          "name": "Giampaolo Lecce",
+          "id": "https://openalex.org/A5000459467",
+          "institutions": [
+            "University of Groningen"
+          ]
+        },
+        {
+          "name": "Laura Ogliari",
+          "id": "https://openalex.org/A5087308563",
+          "institutions": [
+            "University of Milan"
+          ]
+        }
+      ],
+      "cited_by_count": 7,
+      "is_oa": true,
+      "oa_pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E3A08D7D60A09DB75E9794A55AC50CCB/S0022050719000366a.pdf/div-class-title-institutional-transplant-and-cultural-proximity-evidence-from-nineteenth-century-prussia-div.pdf",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 92,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W580595086",
+      "doi": "10.7767/boehlau.9783205792383",
+      "title": "Das 18. Jahrhundert",
+      "year": 2012,
+      "type": "book",
+      "venue": "Böhlau Verlag eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Wolfgang Schmale",
+          "id": "https://openalex.org/A5074642139",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 6,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2398983003",
+      "doi": "10.1057/9780230294141_5",
+      "title": "The Many Faces of Modernity: French Rule in Southern Italy, 1806–1815",
+      "year": 2003,
+      "type": "book-chapter",
+      "venue": "Palgrave Macmillan UK eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "John A. Davis",
+          "id": "https://openalex.org/A5109134936",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 6,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 5,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W19909506",
+      "doi": "10.1515/9783110507003",
+      "title": "Dorfgesellschaft – Konflikterfahrung - Partizipationskultur",
+      "year": 2011,
+      "type": "book",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Niels Grüne",
+          "id": "https://openalex.org/A5034170905",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 6,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W560194353",
+      "doi": "10.3790/978-3-428-47367-0",
+      "title": "Freiheit und Bindung des Gewerbes",
+      "year": 1992,
+      "type": "book",
+      "venue": "Duncker & Humblot eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Jan Ziekow",
+          "id": "https://openalex.org/A5080496500",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 6,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2594084612",
+      "doi": "10.1017/s0956793317000012",
+      "title": "Agricultural Output Growth in a Proto- and Early Industrial Setting: Evidence from Sharecropping in Western Westphalia and the Lower Rhineland, c. 1740–1860",
+      "year": 2017,
+      "type": "article",
+      "venue": "Rural History",
+      "venue_issn": "0956-7933",
+      "authors": [
+        {
+          "name": "Michael Kopsidis",
+          "id": "https://openalex.org/A5065734990",
+          "institutions": [
+            "Leibniz Institute of Agricultural Development in Transition Economies"
+          ]
+        },
+        {
+          "name": "Ulrich Pfister",
+          "id": "https://openalex.org/A5078533380",
+          "institutions": [
+            "University of Münster"
+          ]
+        },
+        {
+          "name": "Friederike Scholten",
+          "id": "https://openalex.org/A5032241875",
+          "institutions": [
+            "University of Münster"
+          ]
+        },
+        {
+          "name": "Johannes Bracht",
+          "id": "https://openalex.org/A5023558165",
+          "institutions": [
+            "Martin Luther University Halle-Wittenberg"
+          ]
+        }
+      ],
+      "cited_by_count": 6,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 32,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2537916032",
+      "doi": "10.1484/m.res-eb.5.108041",
+      "title": "Northwest Germany, 1000-1750",
+      "year": 2015,
+      "type": "book-chapter",
+      "venue": "Rural economy and society in north-western Europe, 500-2000",
+      "venue_issn": "2566-0047",
+      "authors": [
+        {
+          "name": "Klaus-Joachim Lorenzen-Schmidt",
+          "id": "https://openalex.org/A5098642870",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 5,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W4323048051",
+      "doi": "10.1016/j.jce.2023.01.007",
+      "title": "State formation and market integration: Germany, 1780–1830",
+      "year": 2023,
+      "type": "article",
+      "venue": "Journal of Comparative Economics",
+      "venue_issn": "0147-5967",
+      "authors": [
+        {
+          "name": "Hakon Albers",
+          "id": "https://openalex.org/A5049608668",
+          "institutions": [
+            "Martin Luther University Halle-Wittenberg"
+          ]
+        },
+        {
+          "name": "Ulrich Pfister",
+          "id": "https://openalex.org/A5078533380",
+          "institutions": [
+            "University of Münster"
+          ]
+        }
+      ],
+      "cited_by_count": 5,
+      "is_oa": true,
+      "oa_pdf": "https://doi.org/10.1016/j.jce.2023.01.007",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 55,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W3005394710",
+      "doi": "10.1080/17449359.2019.1718900",
+      "title": "Introduction: Business and the Law",
+      "year": 2019,
+      "type": "article",
+      "venue": "Management & Organizational History",
+      "venue_issn": "1744-9359",
+      "authors": [
+        {
+          "name": "Louis Pahlow",
+          "id": "https://openalex.org/A5064097972",
+          "institutions": [
+            "Goethe University Frankfurt"
+          ]
+        },
+        {
+          "name": "Sebastian Teupe",
+          "id": "https://openalex.org/A5053384701",
+          "institutions": [
+            "University of Bayreuth"
+          ]
+        }
+      ],
+      "cited_by_count": 5,
+      "is_oa": true,
+      "oa_pdf": "https://www.tandfonline.com/doi/pdf/10.1080/17449359.2019.1718900?needAccess=true&role=button",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 46,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2787062372",
+      "doi": "10.2139/ssrn.3107759",
+      "title": "Technological Innovation, Entrepreneurship and Productivity in Germany, 1871-2015",
+      "year": 2018,
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "venue_issn": "1556-5068",
+      "authors": [
+        {
+          "name": "Wim Naudé",
+          "id": "https://openalex.org/A5036421388",
+          "institutions": [
+            "Leiden University",
+            "IZA - Institute of Labor Economics"

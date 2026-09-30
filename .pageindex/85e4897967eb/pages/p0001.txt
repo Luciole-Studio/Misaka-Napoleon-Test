@@ -1,0 +1,45 @@
+---
+source_url: "https://www.heraldica.org/topics/national/italy2.htm"
+final_url: "https://www.heraldica.org/topics/national/italy2.htm"
+provider: "exa"
+text_sha256: "1702634e087739358edae5d65d2f7232fc56eb7c7721c5092ddbd2a803dfcbfe"
+title: "Heraldry in Pre-Unification Italy"
+content_kind: "page_text"
+---
+
+Heraldry in Pre-Unification Italy
+
+# Heraldry in Pre-Unification Italy
+
+When Italy was formed in 1859-60, a number of independent states disappeared in the process. They had national arms and flags, which I now describe, based on Bascapè and del Piazzo (1983), as well as evidence from coins. 
+
+ The following table gives a sense of the relative sizes of these states as of 1850. 
+
+| State | Population | | Size |
+| --- | --- | --- | --- |
+| | (m) | (%) | (km2) |
+| Stati Sabaudi | 4.97 | 20 | 74.94 |
+| Lombardo-Veneto | 5.10 | 21 | 45.59 |
+| Parma | 0.49 | 2 | 5.87 |
+| Modena | 0.59 | 2 | 6.03 |
+| Toscana | 1.74 | 7 | 22.28 |
+| Stato Pontificio | 3.02 | 12 | 41.96 |
+| Due Sicilie | 8.77 | 36 | 104.55 |
+
+## Contents
+
+ Savoy/Piedmont/Sardinia Florence Genoa Milan/Lombardia Lucca Mantua Massa Modena Naples and Two-Sicilies Papal States Parma Venice Napoleon's Kingdom of Italy 
+
+### Genoa
+
+the arms of the Republic of Genoa were Argent a cross gules since at least December 1138. The flag was initially a red banner with Saint George on horseback, and it is known since 1198. In 1218 the banner with the cross began to be used on land, and on sea after a treaty of 1238 between Genoa and Venice which prescribed that the banner (insignia) of each state be displayed on ships. Soon after, in 1258, the cross was also adopted by mechant ships. The Republic of Genoa lasted until 1797; it was replaced by the Ligurian Republic (1797-1805) which kept the flag, and briefly revived in December 1814 before article 86 of the treaty of Vienna gave Genoa to the kingdom of Sardinia. 
+
+### Lombardia
+
+Lombardia corresponds roughly to the region around Milan. Milan was in the hands of the Visconti family since 1277, and their arms were Argent a serpent vert (crowned) swallowing a child gules (see a discussion of this emblem in Alciato's Emblematum Liber of 1531).
+
+15th c. depiction of the Visconti arms on the facade of the cathedral, Lucca.
+
+Milan was made a duchy by the Emperor Wenceslas in 1394, and in 1397 he granted the Visconti permission quarter the Empire with their own arms. As counts of Pavia they bore Visconti impaled with or three eagles sable per pale. The Sforza who succeeded the Visconti in 1447 used the same arms. In 1535 Milan passed to Spanish control, and in 1713 to Austria. Coins minted in Milan in the 16th and 17th c. show quarterly the Empire and Visconti, with a ducal crown. It remained to Austria until 1859, with a Napoleonic interlude. By the treaty of Zurich of Nov. 10, 1859, Austria ceded Lombardy to France, which in turn ceded it the same day to Sardinia. 
+
+ The arms of the "Regno Lombardo-Veneto" from 1814 to 1860 were: Quarterly Milan (Visconti) and Venice, over all Habsburg-Lorraine (tierced in pale Habsburg, Austria and Lorraine). The escutcheon, surmounted by the Iron Crown of Charlemagne (kept in Munza near Milan), is placed on the breast of an Austrian imperial double-headed eagle, each head crowned, and surmounted by an Imperial Crown. 

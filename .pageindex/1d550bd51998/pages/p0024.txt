@@ -1,0 +1,42 @@
+France, 5) The presence of short-term speculators destabilizing the market. To get out of the
+crisis, brokers were asked to support the price of the rentes, an action also undertaken by the
+Treasury (Riva, 2006). Following this crisis which led to the insolvency of several important
+brokers, the Bourse mutualized for the first time counterparty risk (Riva and White, 2011).
+
+    The third break is the most controversial; detected on May 25, 1821 it has the largest
+confidence interval and is the one missing when applying the BIC criteria. The only potential
+explanation could be Napoleon’s death on May 5th, 1821; however, it can also fall under the risk
+of over interpretation.
+
+    The fourth break appears on January 10, 1823 and has a confidence interval similar in
+lengths to the one reported for the first two breaks. The corresponding events that might explain
+this change in the evolution of the yields, namely a switch towards an increase of their level,
+could be the outbreak of the war with Spain (Expédition d’Espagne) associated to an extraordinary
+credit voted by the legislature in order to sustain this war. Colling (1949, p. 199) attributes the
+sharp decline of the rente in January 1823 to the prospect that the war would break out.
+
+    Finally, the last break is detected on March 27, 1824 with the same thin, one observation
+around, confidence interval. After a period of new decrease in the yield, the victory of the Ultras
+at the new elections (Chambre retrouvée) that followed the dissolution of the legislature in
+December 1823 determines a new upside move in the French yield.
+
+    The increase in the yield is likely due to the announcement by Louis XVIII at the opening
+session of the Chambers that measures would be taken to convert existing bonds and to close the
+last wounds of the revolution (Boiteau, 1866, p. 17514). This speech was a clear announcement of
+two major changes: the conversion of the rente (leading thus to a reduction on the interest rate)
+and the payment of an indemnity to the Emigrés who had been “despoiled” by the revolution.
+Both elements could only have a negative impact on the price of the rente: the first one because
+there were at the time debates regarding the legality of the conversion and because it paved the
+way for future conversions; the second one because the indemnity would have to be somehow
+financed. The heated debates related to the conversion show that many viewed the conversion as
+a direct threat, an element which would put into question the faith one could have in the French
+rente (Aglan, 2006).
+
+
+14 « Des mesures sont prise pour assurer le capital des rentes créés par l’état dans des temps moins prospères ou pour
+
+obtenir leur conversion en des titres dont l’intérêt soit plus d’accord avec celui des autres transactions. Cette
+opération qui doit avoir une heureuse influence sur l’agriculture et le commerce permettra, quand elle sera
+consommée, de réduire les impôts et de fermer les dernières plaies de la révolution ».
+
+                                                                                                                   23

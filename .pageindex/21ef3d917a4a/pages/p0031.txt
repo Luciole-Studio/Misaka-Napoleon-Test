@@ -1,0 +1,46 @@
+For the Bank, the exit strategy, to use a modern term, was the restoration of a balance
+sheet that was similar to the one before the suspension. When the gold standard was
+fully restored on 1 May 1821, the Bank’s balance sheet was back to its pre-suspension
+level (Table 5).30 The Bank’s bullion reserve had rarely been higher. In order, to rebuild
+its stock in view of resuming convertibility, the Bank had been buying gold at a loss
+(Clapham 1944). Private securities, coming from the Bank’s discounting business, were
+reduced as well. Eventually, the Bank was repaid £10 million, or 55 percent of govern-
+ment short-term debt held on its balance sheet.31
+
+
+
+         Table 5: Bank of England Balance Sheet, 1797-1821 change in percent, scaled*
+                                Liabilities                   Assets
+
+                           Circulation     32.0      Public Securities    -3.7
+                            Deposits      -43.8      Private Securities   -68.1
+                            Net gains     -38.6           Bullion         177.2
+
+                              Total           -3.8         Total          -3.8
+
+*The balance sheet items were divided by 1.61 which is the growth multiplier of real GDP
+between 1797 and 1821, based on Broadberry et al. 2012.
+
+
+
+
+4         The Political Economy in the Exit Strategy
+
+Restoring the gold standard at the pre-war parity would require deflation to bring the
+price level, including the price of gold, back to around the same value as before the war.
+Given the political and economic costs of reversing the war stimulus, the resumption was
+surrounded by an important degree of uncertainty (Acworth 1925, Kindleberger 2000,
+    30
+         The definite resumption of specie payments (59 Geo. III, c. 76) was enacted 2 July 1819. It
+stipulated that the Bank was to gradually resume payments, by exchanging its notes against ever higher
+amounts of specie between 1 February 1820 and 1 May 1823. Discretion was left to the Bank to
+accelerate resumption, granted that any increase in the pound’s gold content was irreversible. The plan
+for resumption was credible in the eyes of contemporaries. Upon the first announcements in May 1819,
+Bank stock and gold prices reacted immediately, suffering sizable declines in value; the pound’s exchange
+rate on Paris appreciated (Antipa 2016).
+  31
+     59 Geo. III, c. 76.
+
+
+
+                                                     31

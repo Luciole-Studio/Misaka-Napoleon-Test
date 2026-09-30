@@ -1,0 +1,415 @@
+## Appendix 1
+
+## May 2, 1808, Rising, Madrid: Identified Combatants by Occupation/Gender, Casualties and French Executions
+
+Juan Pérez de Guzmán’s 1908 roll of dead and wounded has remained for a century (as it remains in this work) the basis of statistical calculations concerning the rising.1 But the roll is unsatisfactory in more ways than one: it neither differentiates combatants from non-combatants, nor does it segregate the combatants killed or fatally wounded during the events from those executed during or after them. The second defect, recognized by Guzmán himself, is that the roll of 171 wounded – a ratio of one wounded to nearly 2.5 dead – clearly under-represents the numbers of the former.2
+
+I have endeavoured in Table 1 to make good some of these deficiencies. I have excluded from Guzmán’s roll a total of 92 non-combatant dead and wounded; wherever there was any doubt about their status, I included them as combatants. (I also deducted one apparent duplication among the wounded).3
+
+TABLE 1
+
+OCCUPATION/
+GENDER
+
+Combatants recorded: number & % of total (617)
+
+Killed/fatally wounded & % of total (252)
+
+Wounded & % of total (158)
+
+Number % of all combatant casualties (410)
+
+Uninjured & % of total (122)
+
+Combatants executed & % of total (85)
+
+Non-combatants executed (17)
+
+Number of combatants & non-combatants executed & % of total (102)
+
+Combatants as % of Madrid occupational strata
+
+ARTISANS
+
+91 (14.7)
+
+36 (14.3)
+
+19 (12.0)
+
+55 (13.4)
+
+10 (8.2)
+
+26 (30.6)
+
+2
+
+28 (27.4)
+
+0.6
+
+SERVICES5
+
+94 (15.2)
+
+34 (13.5)
+
+30 (19.0)
+
+64 (15.6)
+
+11 (9.0)
+
+19 (22.3)
+
+5
+
+24 (23.5)
+
+0.5
+
+LABOURERS
+
+17 (2.8)
+
+8 (3.2)
+
+7 (4.4)
+
+15 (3.6)
+
+1 (0.8)
+
+1 (1.2)
+
+0
+
+1 (1.0)
+
+0.3
+
+AGRARIAN6
+
+7 (1.1)
+
+5 (2.0)
+
+2 (1.3)
+
+7 (1.7)
+
+–
+
+–
+
+1
+
+1 (1.0)
+
+0.2
+
+WOMEN7
+
+37 (6.0)
+
+19 (7.5)
+
+18 (11.4)
+
+37 (9.0)
+
+–
+
+–
+
+28
+
+2 (2.0)
+
+–
+
+LIBERAL
+PROFESSIONS
+
+26 (4.2)
+
+9 (3.5)
+
+8 (5.0)
+
+17 (4.1)
+
+5 (4.1)
+
+4 (4.7)
+
+2
+
+6 (5.8)
+
+0.9
+
+GENTLEMEN9
+
+27 (4.4)
+
+15 (6.0)
+
+11 (7.0)
+
+26 (6.3)
+
+–
+
+1 (1.2)
+
+1
+
+2 (2.0)
+
+–
+
+LADIES10
+
+8 (1.3)
+
+6 (2.4)
+
+2 (1.3)
+
+8 (2.0)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+ADMINISTRATIVES
+
+12 (2.0)
+
+4 (1.6)
+
+3 (2.0)
+
+7 (1.7)
+
+1 (0.8)
+
+4 (4.7)
+
+–
+
+4 (4.0)
+
+–
+
+ROYAL PERSONNEL
+
+22 (3.6)
+
+9 (3.6)
+
+2 (1.3)
+
+11 (2.7)
+
+2 (1.6)
+
+9 (10.6)
+
+1
+
+10 (9.8)
+
+–
+
+EXCISE &
+TAX OFICIALS11
+
+11 (1.8)
+
+2 (0.8)
+
+–
+
+2 (0.5)
+
+3 (2.5)
+
+6 (7.0)
+
+–
+
+6 (5.8)
+
+–
+
+CLERGY
+
+5 (0.8)
+
+0
+
+4 (2.5)
+
+4 (1.0)
+
+–
+
+1 (1.2)
+
+–
+
+1 (1.0)
+
+0.3
+
+MILITARY
+
+87 (14.1)
+
+36 (14.3)
+
+26 (16.4)
+
+62 (15.1)
+
+2412 (19.6)
+
+1 (1.2)
+
+–
+
+1 (1.0)
+
+2.113
+
+VILLAGERS14
+
+18 (3.0)
+
+8 (3.1)
+
+4 (2.5)
+
+12 (2.9)
+
+3 (2.5)
+
+3 (3.5)
+
+3
+
+6 (5.8)
+
+–
+
+ADOLESCENTS
+
+5 (0.8)
+
+2 (0.8)
+
+1 (0.6)
+
+3 (0.7)
+
+2 (1.6)
+
+–
+
+–
+
+–
+
+–
+
+PRISONERS
+
+57 (9.2)
+
+2 (0.8)
+
+1 (0.6)
+
+3 (0.7)
+
+54 (44.3)
+
+–
+
+–
+
+–
+
+–
+
+BEGGARS
+
+2 (0.3)
+
+2 (0.8)
+
+–
+
+2 (0.5)
+
+–
+
+–
+
+–
+
+–
+
+0.2
+
+VARIOUS –
+UNSPECIFIED
+
+91 (14.7)
+
+55 (21.8)
+
+20 (12.7)
+
+75 (18.3)
+
+6 (5.0)
+
+10 (11.8)
+
+–
+
+10 (9.8)
+
+–
+
+TOTALS
+
+617 (100)
+
+252 (100)
+
+158 (100)
+
+410 (99.9)
+
+122 (100)
+
+85 (100)
+
+17
+
+102 (99.9)
+
+–
+
+Sources: Author, compilation of aggregates; AV, Legajos 2–326 to 2–329; Pérez de Guzmán, Madrid, 1908, ‘Catálago Alfabético-Biográfico’; Jesusmaía Alia y Plana, ‘El primer lunes de mayo de 1808 en Madrid’ in Museo del Ejército, Madrid, 1992, pp. 105–138; Col Nicolas Horta Rodíguez, ‘Represión en Madrid, mayo de 1808’, Revista Historia Militar, No 38, 1975. pp. 49–75; Aniceto Ramos Charco-Villaseñor, ‘El dos de mayo de 1808 Aclaraciones’ in Revista Historia Militar, No. 2, 1958, p. 81, fn. 40.

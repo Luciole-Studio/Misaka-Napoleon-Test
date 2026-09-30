@@ -1,0 +1,60 @@
+common Prussian characteristics constant, the estimation produces a positive and significant coefficient.
+
+Finally, column (10) includes urbanization in 1850 as a control. The result is robust to include alternative
+
+historical controls, one by one, as shown in Table 5. Including those controls leads the coefficient to
+
+decrease slightly, as well as its significance. The weaker results can be attributed to the limited regional
+
+variation in this specification with only 5 historical territories.
+
+                                               Table 5 about here
+
+I find very similar results in a standard spatial regression discontinuity design, controlling for the dis-
+
+tance, its square and distance interacted with the treatment variable, as shown in Table 6.
+
+                                               Table 6 about here
+
+
+
+                                         3.6     Moving the Border
+
+In this subsection I conduct a falsification exercise similar to Becker et al. (2011a). The goal is to support
+
+the identification of causal link, i.e. to show that the treatment effect found in the previous subsection
+
+does not reflect a general West-East pattern, but a genuine treatment effect. To generate a false treatment
+
+the border is moved twice. The first time it is moved outwards, that is to the North-East. This allows
+
+to generate a placebo treatment comparing individuals living in regions unaffected by the true treatment
+
+on both sides of the border. Then the border is moved inwards, that is to the South-West, so to compare
+
+regions that have been treated on each side of the border. In both cases one would expect to find a non-
+
+significant treatment effect. For the outwards shift because there did not exist a true long-term Napoleonic
+
+treatment. For the inward shift because actually treated regions should be similar with respect to trust
+
+levels. I construct two new borderlines, each being the joint outline of the regions included in the original
+
+border sample. For the inward shift this is the common outline of the treated, for the outward shift this is
+
+the common outline of the untreated group. I then follow the procedure above and include regions that
+
+are located within a 50 km band on each side of the border, only keeping federal states having within
+
+state variation in the placebo treatment. Regions on the left to the border are considered as having been
+
+treated by an improvement in the law enforcement. See Figure 6 for a graphical representation of the
+
+regions included in the different samples.
+
+                                               Figure 6 about here
+
+
+
+
+                                                       18

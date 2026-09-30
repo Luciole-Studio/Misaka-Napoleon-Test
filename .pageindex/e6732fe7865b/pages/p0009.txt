@@ -1,0 +1,49 @@
+
+
+【机·可量化】**1810年代欧洲外汇市场的日／周吸收深度**：一家行的 **£10万**单笔汇款即可移动法兰克福与阿姆斯特丹的英镑汇率；而**£70万**如经分散与择时可以不留痕迹。故**市场深度的有效区间为 £10万–£70万，取决于技术而非资金量**。
+
+【演·中高置信】这是本卡给 M1（市场隐含预期）与 P8 的**深度参数**：在任何反事实情景中，**单笔超过£10万当量的官方跨境转移都会在汇率上留下可观测痕迹**，除非由具备多节点分散能力的私人网络执行。**这同时意味着：法制欧洲若要建立官方的跨国财政转移（贡款、补贴、藩属摊款），它必须要么容忍汇率波动，要么把执行权交给私人网络——后者正是拿破仑最不愿做的事。**
+
+### 10.3 记账与市场基础设施
+
+【锚】罗斯柴尔德到1815年**仍未采用复式记账**，而复式记账早在1494年由 Pacioli 描述、16世纪末已在多数欧洲国家广为人知（Ferguson @1049）。
+【锚】法兰克福：**约自1780年起交易所在汇票之外也交易有价证券**；世纪之交宣誓与非宣誓的汇票经纪人开始在汇率之外挂牌**证券行情并发布自己的行情单**。（Ullmann）
+【锚】汉堡银行制度：**只办转账、不得发钞**；1770年引入银条本位（Barrenvaluta）与硬币本位并行，**1790年硬币本位被完全废止**；**27¾ Mark Banco ＝ 1 科隆马克纯银**；银条按每关磅 **59⅓ Mark Banco** 入账。（Gartenlaube 1875 S.858，Wikisource 校对本；制度细节另与维基百科『Mark Banco』条对照）
+
+【机·agio 的分析价值】汉堡 **agio** ＝ Mark Banco（100%银条支撑的记账银）对 Mark Courant（流通铸币）的升水。由于 Banco 一侧的成色**在法律上不可变**，agio 的全部波动都来自流通铸币一侧的稀缺与成色。**因此 agio 是同时代最干净的「硬通货相对稀缺度」指标，它不含主权信用、不含纸币、不含利率。**
+
+【演·可观测性·中高置信】本卡向 M1 提出一个**史实中存在、上一轮未被使用的观测序列**：**汉堡 agio 与汉堡—伦敦汇率的1803–1814年月度序列**（同时代刊布于汉堡行情单，后被 Soetbeer《Beiträge und Materialien zur Beurtheilung von Geld- und Bankfragen》1855 系统整理）。本卡**未取得该序列原件**（见 §16 缺口），但指出其存在与位置。**若取得，则可直接检验封锁强度：agio 扩大＝硬币稀缺＝封锁有效；agio 平稳而汇率波动＝封锁只影响信用不影响金属流。**
+
+---
+
+## ⑪ 生态、人口与资源：白银这一实物约束
+
+【锚】西属美洲的**实际出口能力**：经 Parish 一家代理、在两年多内自 Vera Cruz 一港出口 **约645万比索**。（Buist 印页318）
+【锚】法国国库经该链实收：**1,000万比索汇票中逾600万经美国收妥**，其中**五分之三是以殖民地产品形式**运抵欧洲港口（Buist 印页61、331）。
+【锚】西班牙一侧的对照量级（SP1 卡）：1808年 vales reales 存量 **1,893,422,682 rv**、贴水63%；美洲汇入 **193M → 28M**；对法补贴 **每月600万法郎**。
+【锚】汉堡银行的白银库存在1813年为 **7,506,956 Mark Banco**（按 27¾ Mk ＝ 1科隆马克纯银折算 ≈ **270,520 科隆马克纯银 ≈ 63.2 吨纯银**，本卡按1科隆马克＝233.856克复算）。
+
+【机】**欧洲的「可动员金属」在1810年代是一个数十吨到数百吨量级的存量，而战争的年度现金需求是同一量级。** 汉堡一城的银行库存约63吨；'Diana' 一船运回3,679,835比索（约 **94吨**白银，按每比索25.5克纯银计）。**一艘护卫舰的一次航行，相当于汉堡银行全部库存的1.5倍。**
+
+【演·高置信】这条给 E1（生态人口资源）与 P4 一个反直觉但重要的结论：**在金属货币时代，海上运输能力对货币存量的边际贡献极大——一次成功的护航相当于洗劫一个金融中心。** 因此：
+- **法国在 S3 下没有任何办法靠陆上封锁改变欧洲的金属分布**；
+- **英国只要保持对美洲—欧洲航线的控制，就自动保持对欧洲金属存量的边际控制权**；
+- **本卡由此判定：只要英国海军未被击败，「以封锁使英国失血」在物理上不可能，因为失血与否取决于谁控制补血管道。**（与 B5、F3、B3 三卡的独立结论同向）
+
+---
+
+## ⑫ 交流与流动：代理网络、身份与流亡资产
+
+### 12.1 一张实名网络图（1805–1809，据 Buist 印页295–318 逐项抄录）
+
+- **阿姆斯特丹**：Hope & Co.（Labouchère）；接美国汇票者另有 Couderc & Brants、Daniel Crommelin & Sons、W. and J. Willink、P. and C. van Eeghen、Van Staphorst & Co.、Severijn & Hazebroek、Braunsberg & Co.、Ruys & Zimmerman、Raymond & Theodore de Smeth。
+- **鹿特丹**：Littledale & Dixon。
+- **安特卫普**：David Parish & Co.；Ridgway & Mertens。
+- **南特**：Trotreau & Labouchère（Labouchère 之弟）；De La Roche & Co.。
+- **巴黎**：Baguenault & Co.（Labouchère 办一切敏感事务的对手）；Hottinguer；Récamier、Fulchiron、Doyen、Thornton Power（1805年 circulation 参与者，后三者破产）；Hervás、Bastide（破产）。
+- **汉堡**：Matthiessen & Sillem；Meyer Michel David 与 Van Heyningen & Co.（1805年破产）；**Parish and Company（1794年即为英国对普补贴落地行）**。
+- **法兰克福**：**Bethmann Brothers**（对 Hope 开票并自行汇巴黎）。
+- **伦敦**：Baring Brothers；Gordon & Murphy；Reid Irving & Co.；Ball Davis & Vaughan（布里斯托，收西班牙羊毛）。
+- **美国**：费城 John Craig、Willings & Francis、Stephen Girard、Savage & Dugan；巴尔的摩 Robert & John Oliver、John Donnell、Robert Gilmor & Sons、Thomas Tenant、Isaac McKim、John Sherlock、Mark Pringle、Smith & Buchanan、Hollins & McBlair、William Patterson & Sons、Lemuel Taylor；纽约 Archibald Gracie、Le Roy Bayard & McEvers、James Brown；波士顿 James & Th. Perkins；新奥尔良 Amory & Callender、Geo. T. Phillips、Geo. M. W. Woolsey；弗吉尼亚彼得堡 Gracie & Andersons。
+- **西属美洲**：Vera Cruz 的 Pedro Miguel de Echeverría、Francisco Luis de Septién；牙买加的 Atkinson & Co.（Baring 代理）。
+- **马德里**：Marqués de la Colonilla；Cabarrus；Espinosa；Izquierdo（Godoy 私人代理）；Michel Simons（Talleyrand 密使）。

@@ -1,0 +1,66 @@
+economic interaction are discouraged as individuals have high incentives to cheat. This contrasts with
+
+an environment where legal enforcement is strong, and individuals, risking punishment by the law, are
+
+incentivized to cooperate. In a nutshell, in the second state of the world trust will emerge as a by-product
+
+of cooperation experienced in economic and social interactions.6 The reason why shocks affecting trust
+
+can manifest itself until today, is that beliefs transmitted inter-generationally from parents to children
+
+incorporate experiences made in the past in different institutional environments. A second distinctive
+
+feature of this paper is that it analyzes a change in the quality of the law that has not been created by the
+
+individuals for which it applies, but that has been imposed from outside. In other words, compared to
+
+existing contributions correlating past institutions with current social capital, my identification strategy
+
+is based on a rare historical experiment characterized by an exogenous change in the legal quality. Such
+
+historical experiment creates furthermore an ideal setting for studying the effects of institutions on cul-
+
+ture, as it accounts for the long-term dimension necessary for observing substantial changes in beliefs
+
+over time. This important time-dimension is usually absent when analyzing current legal reforms or in
+
+experimental designs.
+
+The introduction of the Code Napoleon is characterized by a drastic movement from a weak of rule of
+
+law to impartial legal enforcement in parts of 19th century Germany. The Code improved enforcement
+
+by establishing establishing universal access to the law, commercial freedom and an impartial judicial
+
+system. Using micro data from the German Socio-Economic Panel (SOEP), I show that those regions in
+
+which the Code Napoleon was introduced display higher levels of social capital related attitudes today.
+
+I start by comparing all regions that have used the Code Civil in the 19th century to regions that did not
+
+apply it, taking the number of years the Code Civil was applied before 1900 as the treatment.7 Impor-
+
+tantly, the positive association does not reflect simple differences in 19th century regional development
+
+levels. It is robust to condition on historical controls, such as measures for past urbanization rates.
+
+While the results suggest an effect of the Code Civil on contemporaneous levels of trust, there exist al-
+
+ternative explanations that could account for the positive association observed. First, differences in the
+
+initial social structure in regions applying the Code Civil might drive the results, if, for example, regions
+
+with high initial social capital were more likely to be treated.8 In this case, rather than identifying a
+
+treatment effect, the estimation would just pick up a path dependency of initial conditions. One draw-
+
+    6 Supporting cooperation is, however, not the only channel through which the law can influence social capital. Legal rules,
+
+e.g. the principle of equality, can potentially spread on a more direct way into the society and become moral norms over time.
+     7 In 1900, a unified Civil Code was installed in all German provinces, the Bürgerliches Gesetzbuch.
+     8 Indeed, my identification strategy requires the adoption of the Code Civil to be uncorrelated with initial social capital
+
+levels.
+
+
+                                                               3

@@ -1,0 +1,61 @@
+---
+source_url: "https://www2.camara.leg.br/legin/fed/carreg_sn/anterioresa1824/cartaregia-35757-28-janeiro-1808-539177-publicacaooriginal-37144-pe.html"
+final_url: "https://www2.camara.leg.br/legin/fed/carreg_sn/anterioresa1824/cartaregia-35757-28-janeiro-1808-539177-publicacaooriginal-37144-pe.html"
+sha256: "7a8c13f30254d166671b7c808bc213159488b449269ed9571fb529f71e90656d"
+text_sha256: "705da48c942bcdc2dffcfccb0a2c76a1db43ff1aac877984a4597f6ce5a07ba5"
+title: "Portal da C\u00e2mara dos DeputadosCARTA R\u00c9GIA DE 28 DE JANEIRO DE 1808 - Publica\u00e7\u00e3o Original - Portal C\u00e2mara dos Deputados"
+---
+
+Title: Portal da Câmara dos DeputadosCARTA RÉGIA DE 28 DE JANEIRO DE 1808 - Publicação Original - Portal Câmara dos Deputados
+
+- Ir ao conteúdo
+- Ir à navegação principal
+
+[Página inicial](https://www2.camara.leg.br)
+
+-
+- [Acessibilidade](https://www2.camara.leg.br/acessibilidade/recursos-de-acessibilidade)
+- [Fale Conosco](https://www.camara.leg.br/fale-conosco)
+
+- [Congresso](http://www.congressonacional.leg.br)
+- [Senado](http://www.senado.leg.br)
+
+PT
+
+- [English EN](https://www2.camara.leg.br/english)
+- [Español ES](https://www2.camara.leg.br/espanol)
+
+[Página inicial](https://www.camara.leg.br)
+
+- Assuntos
+
+- [Agropecuária](https://www.camara.leg.br/assuntos/agropecuaria)
+- [Cidades e transportes](https://www.camara.leg.br/assuntos/cidades-e-transportes)
+- [Ciência, tecnologia e comunicações](https://www.camara.leg.br/assuntos/ciencia-tecnologia-e-comunicacoes)
+- [Consumidor](https://www.camara.leg.br/assuntos/consumidor)
+- [Direitos humanos](https://www.camara.leg.br/assuntos/direitos-humanos)
+- [Economia](https://www.camara.leg.br/assuntos/economia)
+- [Educação, cultura e esportes](https://www.camara.leg.br/assuntos/educacao-cultura-e-esportes)
+- [Meio ambiente e energia](https://www.camara.leg.br/assuntos/meio-ambiente-e-energia)
+- [Política e administração pública](https://www.camara.leg.br/assuntos/politica-e-administracao-publica)
+- [Relações exteriores](https://www.camara.leg.br/assuntos/relacoes-exteriores)
+- [Saúde](https://www.camara.leg.br/assuntos/saude)
+- [Segurança](https://www.camara.leg.br/assuntos/seguranca)
+- [Trabalho, previdência e assistência](https://www.camara.leg.br/assuntos/trabalho-previdencia-e-assistencia)
+
+- Institucional
+
+- [Agenda](https://www.camara.leg.br/agenda)
+- [Serviços](https://www2.camara.leg.br/transparencia/servicos-ao-cidadao)
+- [Presidência](https://www2.camara.leg.br/a-camara/estruturaadm/mesa/presidencia)
+- [Biblioteca e publicações](https://www.camara.leg.br/biblioteca-e-publicacoes/)
+- [Escola da Câmara](https://www.camara.leg.br/escola-da-camara/)
+- [Papel e estrutura](https://www.camara.leg.br/papel-e-estrutura/)
+- [História e arquivo](https://www.camara.leg.br/historia-e-arquivo/)
+- [Visite](https://www2.camara.leg.br/a-camara/visiteacamara)
+
+- Deputados
+
+- [Quem são](https://www.camara.leg.br/deputados/quem-sao)
+- [Lideranças e bancadas](https://www.camara.leg.br/deputados/liderancas-e-bancadas-partidarias)
+- [Frentes e grupos parlamentares](https://www2.camara.leg.br/deputados/frentes-e-grupos-parlamentares)

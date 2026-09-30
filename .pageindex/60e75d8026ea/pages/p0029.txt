@@ -1,0 +1,39 @@
+understand the type of mechanism that may be driving our results. Column (4) finds that
+capital-labor ratios (at the level of the department) within mechanized cotton spinning did
+not change systematically with the trade cost shock. This is an important finding, as an
+alternative mechanism to differential trade protection from the British could be that factor
+prices changed differentially across the French Empire rendering the adoption of capital-
+biased mechanized spinning technology more attractive in some places. More sophisticated
+machines with a larger number of spindles substituted for relatively more labor, and thus
+an uneven factor price shock across the French Empire should have altered the capital-labor
+ratio at the departmental level, even within mechanized cotton spinning.
+    Column (5) shows that the trade cost shock was not associated with differential quality
+upgrading at the level of the department. I use information on the type of machines in
+use in each department to estimate whether the trade cost shock differentially affected the
+type of machines firms used. The data allow me to differentiate between two types of
+machines “filatures continus” and “mull-jennys”. The former were less modern machines, with
+significantly fewer spindles on average per machine, and they were mainly used for spinning
+less fine yarn. To the extent that larger investments in the north during the Napoleonic Wars
+also entailed upgrading into more modern and capital-intensive machinery, the long term
+results which I find in the following section could be driven by a a head-start in upgrading to
+higher quality machines. To the contrary, I find that the trade cost shock had no differential
+effect on the proportion of newer type machines in a given department.
+    I subject the results to further scrutiny by asking whether the trade cost shock had a
+differential effect on industries which were less intensively traded with Britain and in which
+there was no similar change in technology. These placebo tests are informative about the
+extent to which the results for mechanized cotton may be driven by mechanisms other than
+decreased import competition from the technological leader.
+    In an influential paper, Crouzet (1964) argued that the period of the French Revolutionary
+and Napoleonic Wars had a long lasting negative effect on the Atlantic and Mediterranean
+seaboard as a result of France being shut out of overseas trade during this period.38 Another
+concern is whether the war effort may have had a spatially differential effect. If the war
+effort had a larger effect on those areas of France closer to Britain, this may confound the
+coefficient of interest. For both of these identification concerns, the placebo tests are useful,
+as these types of confounders should also affect other industries.
+    Columns (6) and (7) show that the effect which I find for cotton spinning is not present for
+ 38
+      Appendix A.2.4 discusses this mechanism in more detail.
+
+
+
+                                                    29

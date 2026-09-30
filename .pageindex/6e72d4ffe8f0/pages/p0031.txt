@@ -1,0 +1,383 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+Democratic Republic of Congo,COD,1908,8751740
+Democratic Republic of Congo,COD,1909,8671803
+Democratic Republic of Congo,COD,1910,8599666
+Democratic Republic of Congo,COD,1911,8535211
+Democratic Republic of Congo,COD,1912,8478321
+Democratic Republic of Congo,COD,1913,8428883
+Democratic Republic of Congo,COD,1914,8379733
+Democratic Republic of Congo,COD,1915,8330869
+Democratic Republic of Congo,COD,1916,8282290
+Democratic Republic of Congo,COD,1917,8233995
+Democratic Republic of Congo,COD,1918,8185477
+Democratic Republic of Congo,COD,1919,8168162
+Democratic Republic of Congo,COD,1920,8182274
+Democratic Republic of Congo,COD,1921,8228044
+Democratic Republic of Congo,COD,1922,8305702
+Democratic Republic of Congo,COD,1923,8415487
+Democratic Republic of Congo,COD,1924,8526723
+Democratic Republic of Congo,COD,1925,8639430
+Democratic Republic of Congo,COD,1926,8753626
+Democratic Republic of Congo,COD,1927,8869332
+Democratic Republic of Congo,COD,1928,8986567
+Democratic Republic of Congo,COD,1929,9103514
+Democratic Republic of Congo,COD,1930,9220147
+Democratic Republic of Congo,COD,1931,9336439
+Democratic Republic of Congo,COD,1932,9452362
+Democratic Republic of Congo,COD,1933,9567888
+Democratic Republic of Congo,COD,1934,9684826
+Democratic Republic of Congo,COD,1935,9803193
+Democratic Republic of Congo,COD,1936,9923007
+Democratic Republic of Congo,COD,1937,10044285
+Democratic Republic of Congo,COD,1938,10167045
+Democratic Republic of Congo,COD,1939,10299646
+Democratic Republic of Congo,COD,1940,10442344
+Democratic Republic of Congo,COD,1941,10595400
+Democratic Republic of Congo,COD,1942,10759079
+Democratic Republic of Congo,COD,1943,10933654
+Democratic Republic of Congo,COD,1944,11111061
+Democratic Republic of Congo,COD,1945,11291347
+Democratic Republic of Congo,COD,1946,11474559
+Democratic Republic of Congo,COD,1947,11660743
+Democratic Republic of Congo,COD,1948,11849948
+Democratic Republic of Congo,COD,1949,12061342
+Democratic Republic of Congo,COD,1950,12294293
+Democratic Republic of Congo,COD,1951,12542651
+Democratic Republic of Congo,COD,1952,12803638
+Democratic Republic of Congo,COD,1953,13069453
+Democratic Republic of Congo,COD,1954,13343040
+Democratic Republic of Congo,COD,1955,13630350
+Democratic Republic of Congo,COD,1956,13929950
+Democratic Republic of Congo,COD,1957,14242284
+Democratic Republic of Congo,COD,1958,14557795
+Democratic Republic of Congo,COD,1959,14891587
+Democratic Republic of Congo,COD,1960,15264853
+Democratic Republic of Congo,COD,1961,15662373
+Democratic Republic of Congo,COD,1962,16075729
+Democratic Republic of Congo,COD,1963,16507610
+Democratic Republic of Congo,COD,1964,16955329
+Democratic Republic of Congo,COD,1965,17427807
+Democratic Republic of Congo,COD,1966,17931933
+Democratic Republic of Congo,COD,1967,18462787
+Democratic Republic of Congo,COD,1968,19012194
+Democratic Republic of Congo,COD,1969,19570447
+Democratic Republic of Congo,COD,1970,20137442
+Democratic Republic of Congo,COD,1971,20695568
+Democratic Republic of Congo,COD,1972,21251166
+Democratic Republic of Congo,COD,1973,21827663
+Democratic Republic of Congo,COD,1974,22418883
+Democratic Republic of Congo,COD,1975,23021102
+Democratic Republic of Congo,COD,1976,23624035
+Democratic Republic of Congo,COD,1977,24229060
+Democratic Republic of Congo,COD,1978,24992694
+Democratic Republic of Congo,COD,1979,25886782
+Democratic Republic of Congo,COD,1980,26711098
+Democratic Republic of Congo,COD,1981,27500518
+Democratic Republic of Congo,COD,1982,28338193
+Democratic Republic of Congo,COD,1983,29250969
+Democratic Republic of Congo,COD,1984,30245088
+Democratic Republic of Congo,COD,1985,31264819
+Democratic Republic of Congo,COD,1986,32265200
+Democratic Republic of Congo,COD,1987,33298910
+Democratic Republic of Congo,COD,1988,34382756
+Democratic Republic of Congo,COD,1989,35486863
+Democratic Republic of Congo,COD,1990,36684065
+Democratic Republic of Congo,COD,1991,37925828
+Democratic Republic of Congo,COD,1992,39228908
+Democratic Republic of Congo,COD,1993,40656338
+Democratic Republic of Congo,COD,1994,42626873
+Democratic Republic of Congo,COD,1995,44433718
+Democratic Republic of Congo,COD,1996,45296125
+Democratic Republic of Congo,COD,1997,46029907
+Democratic Republic of Congo,COD,1998,47297595
+Democratic Republic of Congo,COD,1999,48912972
+Democratic Republic of Congo,COD,2000,50507445
+Democratic Republic of Congo,COD,2001,52132646
+Democratic Republic of Congo,COD,2002,53750529
+Democratic Republic of Congo,COD,2003,55343873
+Democratic Republic of Congo,COD,2004,56997740
+Democratic Republic of Congo,COD,2005,58775726
+Democratic Republic of Congo,COD,2006,60615909
+Democratic Republic of Congo,COD,2007,62477753
+Democratic Republic of Congo,COD,2008,64390658
+Democratic Republic of Congo,COD,2009,66412038
+Democratic Republic of Congo,COD,2010,68563038
+Democratic Republic of Congo,COD,2011,70849311
+Democratic Republic of Congo,COD,2012,73254623
+Democratic Republic of Congo,COD,2013,75789397
+Democratic Republic of Congo,COD,2014,78403248
+Democratic Republic of Congo,COD,2015,81035532
+Democratic Republic of Congo,COD,2016,83956416
+Democratic Republic of Congo,COD,2017,87083400
+Democratic Republic of Congo,COD,2018,90047647
+Democratic Republic of Congo,COD,2019,92947450
+Democratic Republic of Congo,COD,2020,95990000
+Democratic Republic of Congo,COD,2021,99148930
+Democratic Republic of Congo,COD,2022,102396974
+Democratic Republic of Congo,COD,2023,105789733
+Denmark,DNK,-10000,540
+Denmark,DNK,-9000,1080
+Denmark,DNK,-8000,2160
+Denmark,DNK,-7000,4320
+Denmark,DNK,-6000,4800
+Denmark,DNK,-5000,5333
+Denmark,DNK,-4000,5926
+Denmark,DNK,-3000,6585
+Denmark,DNK,-2000,7316
+Denmark,DNK,-1000,8129
+Denmark,DNK,0,200000
+Denmark,DNK,100,220000
+Denmark,DNK,200,240000
+Denmark,DNK,300,260000
+Denmark,DNK,400,280000
+Denmark,DNK,500,300000
+Denmark,DNK,600,320000
+Denmark,DNK,700,340000
+Denmark,DNK,800,360000
+Denmark,DNK,900,377587
+Denmark,DNK,1000,400000
+Denmark,DNK,1100,466963
+Denmark,DNK,1200,535422
+Denmark,DNK,1300,600000
+Denmark,DNK,1400,400000
+Denmark,DNK,1500,600000
+Denmark,DNK,1600,700000
+Denmark,DNK,1700,800000
+Denmark,DNK,1710,815422
+Denmark,DNK,1720,831743
+Denmark,DNK,1730,848860
+Denmark,DNK,1740,866863
+Denmark,DNK,1750,885854
+Denmark,DNK,1760,920000
+Denmark,DNK,1770,940000
+Denmark,DNK,1780,960000
+Denmark,DNK,1790,980000
+Denmark,DNK,1800,1000000
+Denmark,DNK,1801,1007231
+Denmark,DNK,1802,1014514
+Denmark,DNK,1803,1021850
+Denmark,DNK,1804,1029239
+Denmark,DNK,1805,1036682
+Denmark,DNK,1806,1044178
+Denmark,DNK,1807,1051729
+Denmark,DNK,1808,1059334
+Denmark,DNK,1809,1066994
+Denmark,DNK,1810,1074765
+Denmark,DNK,1811,1082537
+Denmark,DNK,1812,1090365
+Denmark,DNK,1813,1098249
+Denmark,DNK,1814,1106191
+Denmark,DNK,1815,1114189
+Denmark,DNK,1816,1122246
+Denmark,DNK,1817,1130361
+Denmark,DNK,1818,1138535
+Denmark,DNK,1819,1147355
+Denmark,DNK,1820,1156833
+Denmark,DNK,1821,1166978
+Denmark,DNK,1822,1177802
+Denmark,DNK,1823,1189315
+Denmark,DNK,1824,1200941
+Denmark,DNK,1825,1212680
+Denmark,DNK,1826,1224534
+Denmark,DNK,1827,1236504
+Denmark,DNK,1828,1248591
+Denmark,DNK,1829,1259939
+Denmark,DNK,1830,1270537
+Denmark,DNK,1831,1280370
+Denmark,DNK,1832,1289426
+Denmark,DNK,1833,1297692
+Denmark,DNK,1834,1306011
+Denmark,DNK,1835,1314383
+Denmark,DNK,1836,1322809
+Denmark,DNK,1837,1331288
+Denmark,DNK,1838,1339823
+Denmark,DNK,1839,1349386
+Denmark,DNK,1840,1359996
+Denmark,DNK,1841,1371667
+Denmark,DNK,1842,1384418
+Denmark,DNK,1843,1398265
+Denmark,DNK,1844,1412250
+Denmark,DNK,1845,1426375
+Denmark,DNK,1846,1440642
+Denmark,DNK,1847,1455051
+Denmark,DNK,1848,1469604
+Denmark,DNK,1849,1485029
+Denmark,DNK,1850,1501343
+Denmark,DNK,1851,1518598
+Denmark,DNK,1852,1536779
+Denmark,DNK,1853,1555906
+Denmark,DNK,1854,1575270
+Denmark,DNK,1855,1594876
+Denmark,DNK,1856,1614726
+Denmark,DNK,1857,1634822
+Denmark,DNK,1858,1655169
+Denmark,DNK,1859,1675212
+Denmark,DNK,1860,1694942
+Denmark,DNK,1861,1714348
+Denmark,DNK,1862,1733420
+Denmark,DNK,1863,1752148
+Denmark,DNK,1864,1771078
+Denmark,DNK,1865,1790213
+Denmark,DNK,1866,1809555
+Denmark,DNK,1867,1829106
+Denmark,DNK,1868,1848868
+Denmark,DNK,1869,1868465
+Denmark,DNK,1870,1887891
+Denmark,DNK,1871,1907142
+Denmark,DNK,1872,1926211
+Denmark,DNK,1873,1945092
+Denmark,DNK,1874,1964159
+Denmark,DNK,1875,1983412
+Denmark,DNK,1876,2002855
+Denmark,DNK,1877,2022487
+Denmark,DNK,1878,2042313
+Denmark,DNK,1879,2062337
+Denmark,DNK,1880,2082563
+Denmark,DNK,1881,2102992
+Denmark,DNK,1882,2123627
+Denmark,DNK,1883,2144469
+Denmark,DNK,1884,2165515
+Denmark,DNK,1885,2186768
+Denmark,DNK,1886,2208230
+Denmark,DNK,1887,2229902
+Denmark,DNK,1888,2251787
+Denmark,DNK,1889,2274474
+Denmark,DNK,1890,2297977
+Denmark,DNK,1891,2322311
+Denmark,DNK,1892,2347490
+Denmark,DNK,1893,2373530
+Denmark,DNK,1894,2399859
+Denmark,DNK,1895,2426480
+Denmark,DNK,1896,2453397
+Denmark,DNK,1897,2480612
+Denmark,DNK,1898,2508128
+Denmark,DNK,1899,2536365
+Denmark,DNK,1900,2565333
+Denmark,DNK,1901,2595047
+Denmark,DNK,1902,2625520
+Denmark,DNK,1903,2656765
+Denmark,DNK,1904,2688382
+Denmark,DNK,1905,2720375
+Denmark,DNK,1906,2752749
+Denmark,DNK,1907,2785508
+Denmark,DNK,1908,2818657
+Denmark,DNK,1909,2852179
+Denmark,DNK,1910,2886076
+Denmark,DNK,1911,2920355
+Denmark,DNK,1912,2955018
+Denmark,DNK,1913,2990070
+Denmark,DNK,1914,3025539
+Denmark,DNK,1915,3061428
+Denmark,DNK,1916,3097742
+Denmark,DNK,1917,3134488
+Denmark,DNK,1918,3171600
+Denmark,DNK,1919,3207237
+Denmark,DNK,1920,3241362
+Denmark,DNK,1921,3273940
+Denmark,DNK,1922,3304937
+Denmark,DNK,1923,3334316
+Denmark,DNK,1924,3363956
+Denmark,DNK,1925,3393860
+Denmark,DNK,1926,3424029
+Denmark,DNK,1927,3454467
+Denmark,DNK,1928,3485175
+Denmark,DNK,1929,3515454
+Denmark,DNK,1930,3545296
+Denmark,DNK,1931,3574690
+Denmark,DNK,1932,3603628
+Denmark,DNK,1933,3632099
+Denmark,DNK,1934,3660794
+Denmark,DNK,1935,3689717
+Denmark,DNK,1936,3718868
+Denmark,DNK,1937,3748249
+Denmark,DNK,1938,3777862
+Denmark,DNK,1939,3810015
+Denmark,DNK,1940,3844754
+Denmark,DNK,1941,3882124
+Denmark,DNK,1942,3922171
+Denmark,DNK,1943,3964943
+Denmark,DNK,1944,4008181
+Denmark,DNK,1945,4051891
+Denmark,DNK,1946,4096077
+Denmark,DNK,1947,4140745
+Denmark,DNK,1948,4185901
+Denmark,DNK,1949,4228235
+Denmark,DNK,1950,4268408
+Denmark,DNK,1951,4300262
+Denmark,DNK,1952,4332237
+Denmark,DNK,1953,4369107
+Denmark,DNK,1954,4406404
+Denmark,DNK,1955,4438843
+Denmark,DNK,1956,4466342
+Denmark,DNK,1957,4489659
+Denmark,DNK,1958,4516072
+Denmark,DNK,1959,4548480
+Denmark,DNK,1960,4579347
+Denmark,DNK,1961,4611358
+Denmark,DNK,1962,4647466
+Denmark,DNK,1963,4684268
+Denmark,DNK,1964,4721889
+Denmark,DNK,1965,4758837
+Denmark,DNK,1966,4797199
+Denmark,DNK,1967,4835223
+Denmark,DNK,1968,4864801
+Denmark,DNK,1969,4891798
+Denmark,DNK,1970,4928674
+Denmark,DNK,1971,4963064
+Denmark,DNK,1972,4991569
+Denmark,DNK,1973,5021765
+Denmark,DNK,1974,5045639
+Denmark,DNK,1975,5060403
+Denmark,DNK,1976,5072803
+Denmark,DNK,1977,5088571
+Denmark,DNK,1978,5104341
+Denmark,DNK,1979,5116862
+Denmark,DNK,1980,5123079
+Denmark,DNK,1981,5121628
+Denmark,DNK,1982,5117897
+Denmark,DNK,1983,5114468
+Denmark,DNK,1984,5111831
+Denmark,DNK,1985,5113878
+Denmark,DNK,1986,5120691
+Denmark,DNK,1987,5127134
+Denmark,DNK,1988,5129650
+Denmark,DNK,1989,5132717
+Denmark,DNK,1990,5141024
+Denmark,DNK,1991,5154346
+Denmark,DNK,1992,5171372
+Denmark,DNK,1993,5188638
+Denmark,DNK,1994,5206188
+Denmark,DNK,1995,5233364
+Denmark,DNK,1996,5263071
+Denmark,DNK,1997,5285041
+Denmark,DNK,1998,5304263
+Denmark,DNK,1999,5321814
+Denmark,DNK,2000,5339659
+Denmark,DNK,2001,5358825
+Denmark,DNK,2002,5375967
+Denmark,DNK,2003,5390621
+Denmark,DNK,2004,5404594
+Denmark,DNK,2005,5419550
+Denmark,DNK,2006,5437425
+Denmark,DNK,2007,5461604
+Denmark,DNK,2008,5493762
+Denmark,DNK,2009,5523169
+Denmark,DNK,2010,5547865
+Denmark,DNK,2011,5570848
+Denmark,DNK,2012,5591911
+Denmark,DNK,2013,5615333
+Denmark,DNK,2014,5643795
+Denmark,DNK,2015,5683698
+Denmark,DNK,2016,5728196
+Denmark,DNK,2017,5765164
+Denmark,DNK,2018,5793824
+Denmark,DNK,2019,5814618
+Denmark,DNK,2020,5831529
+Denmark,DNK,2021,5856774
+Denmark,DNK,2022,5902901
+Denmark,DNK,2023,5948134
+Djibouti,DJI,-10000,143
+Djibouti,DJI,-9000,215
+Djibouti,DJI,-8000,322
+Djibouti,DJI,-7000,483

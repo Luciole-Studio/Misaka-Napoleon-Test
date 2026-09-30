@@ -1,0 +1,20 @@
+                                                          Table 6: Border Sample: Controlling for Distance
+
+                                               Distance                                    Distance and square                          Distance interacted with border
+
+                                 (1)               (2)              (3)             (4)               (5)              (6)             (7)             (8)               (9)
+                                Trust             Help             Fair            Trust             Help             Fair            Trust           Help              Fair
+
+
+        Border               0.0488***         0.0670***         0.0281*         0.0419**         0.0576***          0.0189          0.0530         0.0636**        0.0814***
+                              (0.0169)          (0.0153)         (0.0156)        (0.0170)          (0.0155)         (0.0159)        (0.0325)        (0.0289)         (0.0295)
+
+        Observations           4,031              4,031            4,031           4,031             4,031            4,031          4,031            4,031            4,031
+        R-squared              0.071              0.051            0.038           0.072             0.053            0.040          0.071            0.051            0.039
+
+     Notes: OLS regressions, specifications as in Table 5, columns (5) - (7). Dependent variables: Trust is the average of answers given to the following questions: “On the whole
+     one cannot trust people”, “Nowadays one can’t rely on anyone” “If one is dealing with strangers, it is better to be careful before one can trust them”. Help: The question asks
+     “Would you say that for most of the time, people...” and the variable takes on the value 1 for a the response “attempt to be helpful” and 0 for the response “or only act in
+38   their own interests”. Fair: The question asks ”Do you believe that most people...” and the variable takes on the value 0 for a the response “would exploit you if they had the
+     opportunity” and 1 for the response “or would attempt to be fair towards you”. Source: German Socio-Economic Panel, wave 2003.
+     Heteroscedastic-robust standard errors in parentheses. ∗ p < 0.10, ∗∗ p < 0.05, ∗∗∗ p < 0.01

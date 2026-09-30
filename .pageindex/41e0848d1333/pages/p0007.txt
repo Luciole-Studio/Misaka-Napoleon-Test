@@ -1,0 +1,68 @@
+gathered two different measures of 19th century social capital. First, I collected data on memberships
+
+in gymnast clubs (Turnvereine) and the per capita share of volunteer firemen in associated volunteer fire
+
+departments on the county level and find them to be positively associated with the treatment. Second,
+
+I make use of a panel dataset measuring the number of shooting associations (Schützenvereine), having
+
+been founded between 1700 and 1900 per county in the neighboring provinces Rhineland and West-
+
+phalia. The panel data allows me to run regression yielding, that the number of associations increased
+
+significantly faster in the second half of the 19th century in the treated province Rhineland compared
+
+to its neighbor Westphalia. As this paper is one of the rare papers using additionally social capital data
+
+from the 19th century, it allows to discuss briefly persistence in the last part of the paper.9
+
+This paper relates and contributes to several strands of the literature broadly researching the effects of
+
+institutions, culture and its interrelation. The first strand emphasizes the “deep-roots” of social capital
+
+levels we observe today. It goes back to Putnam (1994), who argued that differences in social capital
+
+between the North and South of Italy can be explained by the institutions associated with free and in-
+
+dependent medieval city states in the northern part of Italy. This hypothesis is empirically tested and
+
+proven to be valid by Guiso, Sapienza, and Zingales (2008a). In the same spirit, Tabellini (2010) finds
+
+in a sample of 69 European regions that past institutions in the 18th century measured by the constraints
+
+on the executive are highly correlated with trust levels today. While those contributions characterize
+
+past institutions broadly as democracy, my approach departs from this definition as it considers a legal
+
+enforcement institution, and thus contains a precise mechanism for the observed positive relationship
+
+between past institutions and beliefs. The paper closest in its methodology is Becker et al. (2011a), who
+
+research the persistent impact of living in the Habsburg Empire, a kingdom characterized by its efficient
+
+administration. Focusing on individuals living in an area within 200 kilometers of the Empire’s former
+
+border, the authors find individuals living in its former territory today to show more trust in institutions.
+
+Apart from historical institutions, other historical shocks have been found to alter norms and beliefs of a
+
+societies’ inhabitants long-lastingly. Examples include the African slave trade, (Nunn and Wantchekon,
+
+2011) and the surveillance apparatus in the former Communist Germany (Jacob and Tyrell, 2010).10,11
+
+
+    9 Further evidence for the persistence of a particular cultural attitude, antisemitism, in Germany has been described by
+
+Voigtländer and Voth (2012)
+    10 Interesting in the context of this paper, Nunn and Wantchekon (2011) hypothesize, that the slave trade did not only
+
+deteriorate social capital, but also paved the way for expropriate governmental institutions and a lax rule of law. In particular,
+they identify the weak legal system to be an important factor of the persistence of mistrust in the affected regions. Unconstrained
+political leaders are not forced to act trustworthy, and people can misbehave without being held responsible. Hence societies
+are stuck in an equilibrium of distrust and bad institutions
+    11 Aghion et al. (2010) provide further evidence for a potentially detrimental role of the state for trust in the case of extensive
+
+regulation.
+
+
+                                                                  5

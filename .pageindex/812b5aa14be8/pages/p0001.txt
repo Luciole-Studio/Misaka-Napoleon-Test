@@ -1,0 +1,103 @@
+
+===== FILE: META-INF/container.xml =====
+
+
+===== FILE: OEBPS/xhtml/01_halftitle.xhtml =====
+The Fatal Knot The Guerrilla War in Navarre and the Defeat of Napoleon in Spain
+
+ The Fatal Knot
+
+===== FILE: OEBPS/xhtml/02_titlepage.xhtml =====
+The Fatal Knot The Guerrilla War in Navarre and the Defeat of Napoleon in Spain
+
+ The Fatal Knot
+
+ The Guerrilla War in Navarre and the Defeat of Napoleon in Spain
+
+ by John Lawrence Tone
+
+ THE UNIVERSITY OF NORTH CAROLINA PRESS
+
+ Chapel Hill and London
+
+===== FILE: OEBPS/xhtml/03_copyright.xhtml =====
+The Fatal Knot The Guerrilla War in Navarre and the Defeat of Napoleon in Spain
+
+ Publication of this book was aided by
+a grant from the Program for Cultural
+Cooperation between Spain’s Ministry of
+Culture and United States Universities.
+
+ © 1994 The University of North Carolina Press
+All rights reserved
+Manufactured in the United States of America
+The paper in this book meets the guidelines for permanence
+and durability of the Committee on Production Guidelines
+for Book Longevity of the Council on Library Resources.
+
+ 98 97 96 95 94 5 4 3 2 1
+
+ Library of Congress Cataloging-in-Publication Data
+Tone, John Lawrence.
+The fatal knot : the guerrilla war in Navarre and the defeat of Napoleon in Spain / by
+ John Lawrence Tone.
+p. cm.
+Includes bibliographical references and index.
+ ISBN 0-8078-2169-1
+1. Peninsular War, 1807-1814—Underground movements—Spain—Navarre.
+2. Navarre (Spain)—History, Military. 3. Guerrillas. 4. Espoz y Mina, Francisco,
+1781-1836—Military leadership. 5. Spain—History—Napoleonic Conquest,
+1808-1813. I. Title.
+DC231.T63 1994
+940.2’7 dc20 94-4237 CIP
+
+ THIS BOOK WAS DIGITALLY MANUFACTURED.
+
+===== FILE: OEBPS/xhtml/04_contents.xhtml =====
+The Fatal Knot The Guerrilla War in Navarre and the Defeat of Napoleon in Spain
+
+ Contents
+
+ Acknowledgments
+
+ Introduction
+
+ 1. Guerrilla Country
+
+ 2. Economy and Politics in Navarre
+
+ 3. The Invasion and Revolution of 1808
+
+ 4. The Failure of Revolution in Navarre
+
+ 5. The Land Pirates
+
+ 6. The Division of Navarre
+
+ 7. Rebuilding the Division
+
+ 8. The Guerrilla Kingdom
+
+ 9. Why Navarre Fought
+
+ Epilogue
+
+ Notes
+
+ Bibliography
+
+ Index
+
+===== FILE: OEBPS/xhtml/05_acknowledgments.xhtml =====
+The Fatal Knot The Guerrilla War in Navarre and the Defeat of Napoleon in Spain
+
+ Acknowledgments
+
+ I gathered the evidence used in this study during several extended research trips to Spain and France. The Institution for Latin American and Iberian Studies at Columbia University supported an initial foray into Spanish
+archives in 1983. The Fulbright Program awarded me a Fellowship for 1984-85, allowing me to complete a substantial portion of the work done in the archives in Madrid and Navarre. Grants from the National Endowment for the
+Humanities and the American Philosophical Society in 1990 made it possible for me to work in the French military archives in Vincennes. Without the generous financial assistance of these four bodies, this work would not have been
+possible.
+
+ I first became interested in modern Spanish history and the Spanish guerrillas while attending the lectures of Professor Edward Malefakis at Columbia University. Since that time, he has been my greatest supporter, helping to
+direct this work from its infancy. I also owe great debts to Professor Robert Paxton and Professor Isser Woloch for their invaluable critical reading and assistance. In Spain, Professor Miguel Artola gave me the single greatest
+piece of advice I received when he insisted that I focus my work in the notarial archives of Navarre, which in the end produced some of the richest materials used in this book.

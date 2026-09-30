@@ -1,0 +1,5 @@
+hypothetical_hull_ratio,target_effective_ratio,required_other_factors_ratio,status
+0.8,0.7,0.875,identity_only_not_estimated_quality;requires_multiplicative_diagnostic_assumption
+0.8,1.0,1.25,identity_only_not_estimated_quality;requires_multiplicative_diagnostic_assumption
+1.0,0.7,0.7,identity_only_not_estimated_quality;requires_multiplicative_diagnostic_assumption
+1.0,1.0,1.0,identity_only_not_estimated_quality;requires_multiplicative_diagnostic_assumption

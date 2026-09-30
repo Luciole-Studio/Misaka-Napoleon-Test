@@ -1,0 +1,12 @@
+     Wheat suitability   (Texier-Olivier 1808). FAO,      We calculated wheat suitability for canton polygons. To
+                         GAEZ v3.0. Crop suitability      construct each canton’s boundary, we used information
+                         index (class) for intermediate   from Texier-Olivier (1808).
+                         input level rain-fed wheat.
+     Ruggedness          (Texier-Olivier 1808, Nüssli     We calculated average terrain ruggedness for canton
+                         2012)                            polygons. To construct each canton’s boundary, we used
+                                                          information from Texier-Olivier (1808).
+
+
+
+
+11

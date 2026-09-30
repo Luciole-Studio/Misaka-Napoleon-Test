@@ -1,0 +1,42 @@
+
+
+- 实读句：元老年俸「Outre leurs 25 000 francs annuels」；1814年「une pension de 36 000 francs annuelle leur fut accordée et quatre-vingt quatre sénateurs furent intégrés à la nouvelle chambre des Pairs」。
+- 附录2：sénatoreries「d'abord au nombre de trente et un, puis, en plusieurs vagues (1806,1808, 1810) de trente-six」，每处「Moyennant 20 à 25 000 francs de revenus annuels」。
+- 网页正文误把14 nivôse an IX写作「(4 janvier 1803)」，共和年与公历不合；本卡只用其数目与金额，不冻结该日期。
+- 属二手网页转述，原元老院档案未阅；用作精英补偿的量级对照，不作预算实支。
+
+### SEN — senat.fr 官方史述
+
+保存`downloads/pages/4100be3f04c1.md`与`downloads/f5_senat_palais_luxembourg_empires.pdf`（doc `191158cc416f`，由F5取得）。本卡只读到1814年4月元老院废位程序段落，用于「未经法律征税」指控的存在性，未逐条核废位令全文。
+
+### BCN — Bergeron & Chaussinand-Nogaret 书评
+
+Persée书评页，保存`downloads/pages/83ad07a570c6.md`。评者概述《Les « masses de granit ». Cent mille notables du Premier Empire》(Paris, Touzot, 1979)：「Il semble y avoir un tassement vers le bas : 75% des revenus se situent entre 500 et 5000 francs.」
+
+- 这是**书评转述**，不是原书统计表；Bergeron原著正文本卡仍未取得（OpenEdition只得验证页）。
+- 仅用于说明显贵收入主体远低于赠产顶层，不用于任何税负分布计算。
+
+### 跨卡口径（非文献）
+
+- F3 `t_b1a536`：170–220m为其主线需求量级；1830高档（舰体143–156、A12 121–140）量级220–260m；1830条件主线A12已更新为84(W)/111(P)。
+- F2 `t_0e763d`：350m为1810年军两部基准的中心预算，300–400m为目标预算敏感性，不是40–55万人的成本估计。
+
+---
+
+## 第二代次补充：BR 的实际阅读范围扩大
+
+**BR**（Branda, «Did the war pay for the war?», *Napoleonica. La Revue*, n°3, 2008–09；缓存 `downloads/pages/906d4b3f363b.md`）的阅读范围由“正文pp.3–15＋p.14汇总表”扩到**五张附表逐格**：
+- p.10–11　普通贡赋表（含 Spain 1808-1813：350　350　0）
+- p.11　　惠及 Domaine Extraordinaire 的条约清单（Total **414 / 136 / 278**）
+- p.12　　盟军特遣队节省额逐年表（总 **253,748,180 法郎**；单价 1.91法郎/日，注15转引 Simon de la Rupelle, «Les finances de la guerre de 1796 à 1815», *Revue Politique*, Paris, 1892, p.662）
+- p.13　　盟国支付的法军驻屯费表（总 **129.1m**；注16调国库总账，惟那不勒斯用 Virgilio Ilari, USSME, 2004）
+- p.13–14　An XI(1803)–1814 非常融资来源全表（总 **4,284m**，十四行全开）；及 1814–18 战胜国对法榨取表（总 **1,412m**）
+
+**新增二次文献名（本卡未亲阅，仅登谱系）**：
+- Simon de la Rupelle, «Les finances de la guerre de 1796 à 1815», *Revue Politique*, Paris, 1892（法）——**1.91法郎/日的真正出处**。
+- Colonel Carles, “Contingents alliés”, in *Dictionnaire Napoléon*, Fayard, 1999, pp.69–74（法）——Branda 兵日计算的底层数据。
+- Virgilio Ilari, “Pianificazione e Spese militari del Regno Italico e del Regno Murattiano”, in *Storia Militare del Regno Italico*, Roma, USSME, 2004；及 *Storia militare del Regno Murattiano*（意）——**那不勒斯行的唯一来源**，与其他国不同源。建议 IT1/IT2 取用。
+- Michel Kerautret（经 Branda 转引）——普鲁士贡赋“poison”法普关系的判断。建议 PR 卡取用。
+- *Inventaire du Domaine Extraordinaire au 18 juin 1815*，**private collection**——Branda 声明的底本，**公开不可得**，本卡无从核对。
+
+**记于此以防误用**：该缓存页面尾部的“How did the financing…”“Discuss the implications…”“Analyze the strategic rationale…”等问答段落为**平台生成式摘要，非 Branda 原文**，任何卡片均不得引为作者观点。

@@ -1,0 +1,59 @@
+VOL. 101 NO. 7                  ACEMOGLU ET AL.: CONSEQUENCES OF RADICAL REFORM                                3287
+
+
+
+   We investigate the economic consequences of the French Revolution and the
+reforms that were imposed on certain German polities as a consequence of the
+Revolutionary Wars. Parts of Germany, primarily the west and northwest, were
+invaded, ruled directly by France or through satellite states, and reformed, while
+the south and the east were not. We first investigate the reduced-form relationship
+between our definition of “French treatment,” the length of French occupation (in
+years), and our main proxy for economic prosperity, urbanization rates. There is no
+evidence of a negative relationship. Instead, many of our estimates show signifi-
+cantly faster growth of urbanization in treated areas during the second half of the
+nineteenth century.3
+   We then use data on the timing of institutional reforms across German polities to
+investigate the effect of invasion both on various institutional outcomes and on long-
+run economic development. We show a strong association between institutional
+reforms and French invasion (or control). Using this relationship as a first stage,
+we then estimate instrumental-variables models, which indicate sizable effects of
+institutional reforms on subsequent growth. The purpose of this two-stage strategy
+is twofold. First, it allows us to distinguish the effect of the exogenous component
+of reforms from endogenous, “defensive” modernization. Second, it enables us to
+provide a test of the hypothesis that the effects of French invasion worked through
+the institutions that they imposed in the occupied parts of Germany. Overall, our
+results show no evidence that the reforms imposed by the French had negative eco-
+nomic consequences. On the contrary, evidence from a variety of different empirical
+strategies shows that they had positive effects.
+   Crucially for our identification strategy, parts of Germany did not choose the French
+institutions, but those institutions were imposed on them first by the Revolution and
+then by Napoleon.4 Moreover, territorial expansion by French armies did not target
+places with a greater future growth potential. Instead, it had two major motives.
+The first was defensive, especially in response to the threat of Austrian or Prussian
+(or later British) attempts to topple the revolutionary regime. The second was ideo-
+logical, as the French sought to export the revolutionary ideals to other countries,
+and at the same time tried to establish France’s “natural frontiers.”5 In any case,
+the purpose of the institutional reforms of the French Revolution was not to foster
+industrialization per se, though they may have achieved this objective as a byproduct
+of their major goal of destroying the grip of the aristocracy, oligarchy, and the clergy
+on political and economic power.6 Therefore, to a first approximation, we can think
+
+    3
+      The working paper version of our study (Acemoglu et al. 2009) reports cross-national, Europe-wide evidence
+consistent with this pattern and also explores different definitions of “French treatment.”
+    4
+      In most cases, there were local Jacobin (local radical) forces in the countries occupied by the French armies,
+but the presence of such forces did not play a major role in determining which countries and cities were occupied
+by the French. See, for example, William Doyle (1989, chapter 9).
+    5
+      The revolutionary leader George Danton stated: “Les limites de la France sont marquées par la nature, nous
+les atteindrons des quatre coins de l’horizon, du côté du Rhin, du côté de l’Océan, du côté des Alpes. Là, doivent
+finir les bornes de notre république” (speech to National Convention, January 31, 1793; quoted in Timothy C. W.
+Blanning 1983, p. 2).
+    6
+      It is unlikely that the French could target areas with greater industrialization potential or that reforms were
+made specifically to encourage industrial growth. In fact, most likely no one at the turn of the nineteenth century
+could have anticipated the new technologies that were to arrive a few decades later (see the discussion in Joel Mokyr
+2003). The exception to this statement is textiles. By 1800 the British and others had established some new tech-
+nologies that increased productivity (e.g., in spinning) by an order of magnitude. Textiles are an important part of
+the economy in the Rhineland, discussed below, but there is no evidence that the French changed institutions in the

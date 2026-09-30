@@ -1,0 +1,78 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges"
+final_url: "https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges"
+sha256: "07d87da131f76665168c64de0034d412b5bfb4b922fd05e022b9e350c8032665"
+text_sha256: "73314f8d948c0d7a73ba4e8e7fa6903d9aeb7a8d08eaf0c68b1a62c4bc8825cd"
+title: "SEPARATE CHARGES. (Hansard, 14 June 1815)"
+---
+
+Title: SEPARATE CHARGES. (Hansard, 14 June 1815)
+
+[Search Help](https://api.parliament.uk/historic-hansard/search)
+
+[HANSARD 1803–2005](https://api.parliament.uk/historic-hansard/index.html)
+→
+[1810s](https://api.parliament.uk/historic-hansard/sittings/1810s)
+→
+[1815](https://api.parliament.uk/historic-hansard/sittings/1815/)
+→
+[June 1815](https://api.parliament.uk/historic-hansard/sittings/1815/jun/)
+→
+[14 June 1815](https://api.parliament.uk/historic-hansard/sittings/1815/jun/14)
+
+→
+[Commons Sitting](https://api.parliament.uk/historic-hansard/sittings/1815/jun/14#commons)
+
+# SEPARATE CHARGES.
+
+HC Deb 14 June 1815 vol 31 cc799-822 [799](https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges#column_799)
+
+[§](https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges#S1V0031P0_18150614_HOC_24)
+These were as follow:
+
+1,900,000
+
+Interest on Exchequer Bills
+
+2,000,000
+
+290,000
+
+Sinking Fund on ditto
+
+270,000
+
+121,000
+
+Debentures & Loyalty Loan
+
+90,000
+
+6,000,000
+
+Vote of Credit Bills 1814, and Reduction of Exchequer Bills
+
+6,000,000
+
+£. 89,728,326
+
+8,107,094
+
+Deduct Irish Proportion of Joint Charge
+
+9,572,814
+
+Deduct Civil List and Consolidated Fund
+
+188,000
+
+9,760,814
+
+And there remained to be borne by England
+
+£. 79,968,112
+
+[§](https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges#S1V0031P0_18150614_HOC_25)
+The vote of credit intended to be proposed this year was to the extent of 6,000,000l., and would be made good in the usual way, by an issue of exchequerbills to the same amount. Anxious, however, that there should not be too great a pressure on these securities, he should propose a reduction of three million from those voted last year, besides the re-payment of 5,000,000l. issued on the last vote of credit; by these means the sum paid off would be equal to that which it might be necessary to issue in the course of the present year. When it was foreseen that an expenditure to the immense amount which had now become necessary, must be provided for in the course of the pre-
+[800](https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges#column_800)
+sent session, an important consideration arose, whether it would be better that an. extraordinary exertion should be made to raise an unusually large proportion of the supplies within the year, or whether it would be preferable to call on the public only for what they had been accustomed to pay in former years, and raise what remained wanting by means of a loan. Much might be said in favour of either course. For his own part, he had no hesitation in declaring that if he had considered it probable that a similar expenditure would be necessary in future years, he would at once, whatever the hazard might be, have made an appeal to the spirit and magnanimity of the country; and from such an appeal he was sure the country would not have shrunk. From, the feeling which had been manifested in consequence of the recent events, he was satisfied that those measures, which the wisdom of Parliament might think necessary to the honour and security of the country, would be cheerfully submitted to. But thinking as he did, that an expenditure to the amount of that of the present year, was not likely again to recur, even if the war should continue on the present scale, which was what he could not anticipate, he had thought it wiser to have recourse to no other means than those which it had been usual for Parliament to adopt on former occasions. However large the demand which had in consequence been made on the credit of the country, he saw no reason to regret this resolution. The right hon. gentleman now proceeded to state the ways and means which would be, in the opinion of his Majesty's ministers, the fittest to meet the supplies which had been voted. He took the Annual Duties at 3,000,000l.; the surplus of the Consolidated Fund he also took at 3,000,000l. It would be satisfactory to the House to learn the grounds on which he estimated the surplus of the Consolidated Fund, at that amount; and they would view with pleasure the increased resources of the country. It might also be proper that he should show the grounds on which he intended to propose on a future day a grant of 22,000,000l. out of the growing produce of the War Taxes. He should not call upon them to come to this vote that night, as it was more consistent with the forms of Parliament, that some portion of the ways and means of the year should be reserved for a time to meet any future grants which

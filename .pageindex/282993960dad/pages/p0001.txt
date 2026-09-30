@@ -1,0 +1,18 @@
+---
+source_url: "https://www.vatican.va/content/pius-vii/it/documents/breve-quum-memoranda-10-giugno-1809.html"
+final_url: "https://www.vatican.va/content/pius-vii/it/documents/breve-quum-memoranda-10-giugno-1809.html"
+provider: "exa"
+text_sha256: "65a37dfccb249fd006809b908c40628dc654bc225c5f43a976197f3566a292b1"
+title: "Breve Quum memoranda (Roma, 10 giugno 1809)"
+content_kind: "page_text"
+---
+
+Breve Quum memoranda (Roma, 10 giugno 1809)
+
+BREVE QUUM MEMORANDA DEL SOMMO PONTEFICE PIO VII
+
+Il Papa Pio VII. A perpetua memoria.
+
+Quando, nella memorabile giornata del 2 febbraio, le truppe francesi – dopo aver invaso le altre più ricche province pontificie – con un attacco improvviso invasero anche la Capitale, non Ci fu possibile accettare che le motivazioni fossero soltanto quelle politiche e militari che gli assalitori cercavano di accreditare fra la gente: cioè che essi volessero evitare che i loro nemici potessero introdursi attraverso i territori di Santa Romana Chiesa o che volessero vendicare la determinazione e la costanza con le quali avevamo rifiutato tutto ciò che Ci era stato richiesto dal Governo Francese. Ci accorgemmo subito che la cosa andava ben al di là di un provvedimento militare o temporaneo, o di una semplice dimostrazione di risentimento nei Nostri confronti. Vedemmo rivivere e riprodursi, come se prorompessero di nuovo da dove erano stati schiacciati – e se non azzerati almeno compressi – gli empii ed astutissimi consigli di quegli uomini che, ingannati ed ingannatori ad un tempo, tramite filosofia e fallaci ragionamenti (Col 2,8) avviandosi verso i principii della perdizione (2Pt 2,1) da tempo si davano da fare per completare un disegno mirante a distruggere la santissima Religione. Vedemmo assediare ed aggredire nella Nostra umilissima persona questa stessa Santa Sede del beatissimo Principe degli Apostoli: Sede che, se in qualche modo potesse essere distrutta, comporterebbe inevitabilmente il crollo e la rovina della Chiesa Cattolica, che ivi fu dal suo Divino Fondatore edificata su solidissima pietra.
+
+In passato abbiamo ritenuto e sperato che il Governo Francese, edotto dall’esperienza dei mali in cui si era trovata coinvolta la potentissima nazione per aver allentato i freni all’empietà e allo scisma, stimolato dal voto unanime della larghissima maggioranza dei cittadini si fosse alla fine radicalmente convinto che sarebbe stato di giovamento alla propria sicurezza ed alla serenità collettiva favorire la libera pratica della Religione Cattolica. Mossi dunque da tale convinzione e da tale speranza, Noi che, per quanto immeritamente, facciamo le veci in terra di Colui che è Dio di pace, non appena abbiamo percepito che in Francia s’apriva uno spiraglio per riparare le offese subite dalla Chiesa, Ci è testimone tutto il mondo con quanta alacrità abbiamo iniziato le trattative di pace e quanto sia costato, a Noi ed alla stessa Chiesa, farle approdare finalmente al miglior esito possibile. Ma, Dio immortale! Dove mai andarono a finire le Nostre speranze! Quale mai frutto nacque da tanta indulgenza e dalla Nostra generosità?

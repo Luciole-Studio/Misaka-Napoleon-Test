@@ -1,0 +1,63 @@
+
+
+The ‘gold mines’ crash convinced the government that the Coulisse did not provide the 
+stability required by a well-functioning market. It decided to reinstate the Parquet monopoly 
+and impose new regulations on it. This move re-established the dual organization of the Paris 
+financial market. 
+The crash came at the worst time for the Coulisse. Its market had expanded rapidly in recent 
+years and looked fragile. The political situation was one of growing friction between the 
+increasingly socialist left and ultranationalists (cf. the Dreyfus affair). Xenophobic and anti 
+Semitic attacks grew against the Coulisse, which had many Jews and foreign – worse, mostly 
+German – members. In 1898, the Fleury-Ravarin law required the coulissiers to use the 
+intermediation of the agents de change for all officially listed securities, re-establishing the 
+monopoly on a stronger basis than ever before. In return, the Parquet had to improve its 
+services: maximum commissions were slashed, minimum commissions were scrapped on 
+small orders, delivery times were reduced, new pits were created (allowing for some former 
+coulissiers to be hired), and the CAC had to provide funding for the Association Nationale 
+des Porteurs Français de Valeurs Mobilières (an investors' lobby negotiating mostly with 
+bankrupt foreign governments) and the enlargement of the stock exchange building. More 
+importantly, ten new agents de change were appointed, solidarity among agents was made 
+legally compulsory, and, from 1901, the price of agents de change seats was fixed by the 
+government – and kept constant until World War I. 
+The Coulisse reeled from the blow. A full 50 billion of its 70 billion franc turnover in 1897 
+came from Parquet listed securities, business it would lose 90: its market share fell to one-third 
+of Parisian traded volumes. It restructured into two organizations (syndicats), respectively for 
+spot and forward transactions (the latter being by far the largest) on unlisted securities. The 
+government convinced them to set up much more hierarchical organizational structures based 
+on the Parquet model. 
+
+90 AG, 30/4/1898.
+
+Contrary to the ‘government capture’ argument, the Parquet did not view the stricter 
+regulation of the Coulisse with satisfaction. Possibly in the light of the failed takeover of the 
+1860s, the agents were convinced of the need for a free market as a complement to their own. 
+They did not want to get rid of the Coulisse, only to control and dominate it. They accepted a 
+modus vivendi in 1901, by which they authorized the Coulisse to continue trading listed 
+securities, shared their commissions with the coulissiers and extended their guarantee to these 
+transactions. The Parquet’s attitude comes through clearly in the following (privately made) 
+statement by the CAC Syndic: 
+‘Although our Corporation is an indispensable base for the market because of the 
+security it represents, it is not and cannot be active enough to conduct a number of 
+businesses’, such that, ‘The duty of the Chambre Syndicale was to search for a system 
+which, while strictly respecting the law, would maintain the activity of the Coulisse and 
+allow it to do business’ 91. 
+But as the Coulisse became more regulated, other markets appeared in the early 20 th century 
+providing the flexibility that was disappearing from the Coulisse. An informal and highly 
+liquid market for French rentes operated with implicit government approval. Some former 
+coulissiers who had moved (nominally) to Brussels kept operating on Parquet listed securities 
+in Paris. Others took advantage of a ‘legal loophole’ that allowed them to deal in listed 
+securities throughout ‘direct operations’. A new ‘free market’ also developed: not formally 
+organized and publishing no list, it probably operated like an OTC and a start-up market. 
+Together, these different competitors of the Parquet kept winning a substantial proportion of 
+the transactions. Nevertheless, the Parquet’s market share held steady at two-thirds (as 
+measured by the tax on stock market operations). The existence of various markets is 
+perfectly consistent with our multi-polar framework, and it suggests that the strict regulatory 
+framework of 1898 led not only to a Parquet monopoly but also to the development of new 
+markets more opaque than the former Coulisse. 
+So the 1898 law was not the end of the story, and it would be misleading to focus exclusively 
+on it – as much of the literature does – since the Parquet’s competition did not come solely 
+from the Coulisse. 
+From then on, the main challenge to the Parquet was the growth in the banks’ role in security 
+issues and trading. A number of medium-sized banks, loosely organized into the Syndicat des 
+Banquiers de Province, circulated lists of bid and ask prices (on SME shares) amongst 
+themselves, avoiding the intermediation of any organized market. Competition from deposit 

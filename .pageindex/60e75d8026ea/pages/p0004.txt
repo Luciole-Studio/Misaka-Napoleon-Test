@@ -1,0 +1,37 @@
+collected data on the number of mechanized cotton spindles (the relevant measure of phys-
+ical capital) for French departments throughout the nineteenth century from handwritten
+industrial surveys. For some years, these are available at the firm level. To reconstruct
+trade routes in use before and during the blockade, data on ships arriving and sailing from
+Britain to Continental European ports were extracted from a bi-weekly shipping newspaper,
+the Lloyd’s List, over a 20 year period.
+    To identify the causal effect of trade protection on mechanized spinning capacity in the
+short-run, I use a difference in difference (DD) estimator with continuous treatment intensity.
+This compares the size of mechanized cotton spinning capacity across regions which were
+exposed to smaller or larger increases in the cost of trading with Britain (trade cost shock
+for short), before and after the Napoleonic Wars. My empirical strategy is based on the well-
+documented fact that trade diminishes dramatically with distance, implying that geographic
+distance plays a role similar to that of artificial barriers to trade such as tariffs. Identification
+relies on there being no other shock contemporaneous to, and correlated with the trade cost
+shock. I show evidence in support of this assumption using a number of placebo tests and
+other robustness checks.
+    Trade protection had a large and statistically significant effect on the adoption of mech-
+anized cotton-spinning technology. I find that areas which received a larger trade cost shock
+during the Napoleonic Wars increased production capacity in mechanized cotton spinning to
+a larger extent than areas which received a smaller shock. The estimated effect is large and
+statistically significant. Moving from the 25th to the 75th percentile of the shock leads to a
+predicted increase in spinning capacity which is similar in size to mean spinning capacity at
+the end of the blockade.
+    The second part of the empirical strategy examines the extent to which temporary trade
+protection rendered locations profitable for production in the long-term. I estimate the long-
+run, local average treatment effect of having a larger regional mechanized cotton spinning
+industry as a result of temporary trade protection on our outcome variables of interest. For
+the trade cost shock to be a valid instrument for the post-blockade location of the cotton
+industry, the shock must be uncorrelated with other determinants of the outcome variables. I
+build evidence in support of this assumption using placebo tests and other robustness checks.
+However, as these effects are estimated for a relatively long time horizon, it is not possible
+to rule out that other mechanisms may (partly) be driving the long-run results. For this
+reason, I view these results as more suggestive than the short-run ones.
+    I find evidence of persistence in the location of mechanized cotton spinning throughout
+
+
+                                                 4

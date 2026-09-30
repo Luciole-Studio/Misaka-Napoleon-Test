@@ -1,0 +1,16 @@
+Data on the International wheat trade were basically collected from secondary sources:
+
+- O’Connor, Marion A., (1970) “World Wheat supplies, 1865-1913” [Discussion Paper 12, Woodrow Wilson School, Princeton University], Princeton.
+- Rutter, Frank R. (1908) Cereal production of Europe, Bulletin nº 68 of the Bureau of Statistics of the US Department of Agriculture, Washington. `italic "Cereal production of Europe"`
+
+#### 2. UNITS,WEIGHTS AND MEASURES
+
+The final aim of our research was to produce a general purpose database (DB), comprised of the best available data series which were checked for consistency and expressed in comparable units of surface, volume and weight, or monetary units. We have consulted mostly the original Russian, Bulgarian or Romanian statistical publications (see list of Archival Sources and Bibliography), and we were also obliged to extensively use secondary material and data series published in books and working papers of colleagues like Ardeleanu (2007), Cervodeanu (1978, 1979), Davidov (2016), Axenciuc (1992, 2008). Professors Constantin Ardeleanu, Michael Davidov and Dr Martin Ivanov have been also constantly helping us collect materials and improve the DB.
+
+We have expressed all units and values in the standard continental European metric system and in golden francs, the currency unit of the Latin Monetary Union (LMU). Any such choice is by definition arbitrary and depends on convenience and the national bias of the researchers. In our case it also stems from convenience, since the Eastern European countries, whose statistical data were used in this DB, had officially adopted the French metric system and have pegged their monetary system on the LMU golden franc. All values in this DB are expressed in LMU golden francs and all volumes are given in metric tons of 1,000 kg. We have tried to avoid including volumes of dry weight, but when this was unavoidable, the standard hl of 100 liters is used. The ha of 10,000 sq.m is the major surface unit and the km of 1,000 m the unit of distance. [^5]
+
+If data from the Eastern European statistical publications in the DB were mostly used directly, data stemming from the equivalent Ottoman and Russian sources were being silently converted in the standard continental European metric system and in LMU golden francs. Missing data are left blank. `italic "silently"`
+
+#### Unit conversions
+
+The Ottoman monetary system was, since 1844, officially pegged to the UK£ at a rate of 1.1 Ottoman lira (T£) to the UK£. There were 100 gürüş to each T£, and there was thus an implicit peg to the golden franc at the rate of 4.4 gürüş to the franc. For the period before 1844, we have adopted the Sevket Pamuk deflator. Until November 1881, when Greece effectively appreciated its official golden drachma in par with the LMU franc, the older Greek drachma was the equivalent of 1.12 golden francs. The Romanian lei was also effectively pegged to the golden franc since 1867 and officially since 1889. The Bulgarian leva and the Serbian dinar were also officially pegged to the franc since 1880 and 1878 respectively. [^6] `underline "gürüş / gürüş"`

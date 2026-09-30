@@ -1,0 +1,40 @@
+                                                 Insert Figure 4 about here
+
+     We enlarge the former analysis of the structural changes in the evolution of the French yield
+(long term perspective) by a study of the short-term effects in the same yield produced by several
+major decisions regarding the implementation of institutions aimed at managing the public debt,
+as well as political and fiscal decisions that contributed to enhancing France’s credibility. To do
+so, we proxy these dates for which there is an a priori by dummies and run a GARCH(1,1)
+model. It is nowadays well-established that financial time series’ volatility is time-varying15;
+therefore, one cannot ignore this important stylized fact and consider it unchanged, particularly
+during troubled times and over such a long time period (10 years) as the one under study. This
+issue is even more stringent as we show evidence that there are structural changes in the pattern
+of the financial variable that we are modeling, i.e. the French yield. Therefore we favored a
+GARCH framework instead of the simple OLS regression.
+
+     Table 5 provides the list of nine dummies chosen based on Vaslin (1999) and White (2001).
+Some of these dates were already mentioned in the description of the historical context (e.g. the
+Second Treaty of Paris, the reintroduction of a Caisse d’amortissement, the Chambre introuvable, the
+settlement of debt arrears by the crown, the acceptance of wartime claims). To these, we add
+three more events that shaped the credibility of the French government in fulfilling its debt
+obligations and maintaining sound public finances. The first one is the payment of debt arrears
+by the Banque de France. Introduced in 1800 following Gaudin’s proposal, (Finance minister at that
+time), this practice was seen as a major measure for restoring public finances and France’s
+credibility with respect to its creditors (Vaslin, 1999) as it imposed the resumption of specie
+payment for the public debt. However, it was implemented as a short-term measure and indeed,
+it only lasted for four years. As the French state continued experiencing financial difficulties, this
+type of intervention was used several times afterwards (following a reform of the Bank’s statute
+in March 1806). It was namely the case on December 14, 1815 when the Bank insured the
+payment of the coupons pending since September 22, 1815 and on June 11, 1817, when the
+payment of the war indemnity created huge problems to the treasury. Corvetto insisted then on
+the necessity to insure the payment of the 5% rente in a “normal” delay and the Bank was again
+designated to meet this objective.
+
+     The two other events that we decided to add are both the consequences of the laws
+introduced by Villèle from 1822 to 1827. These laws were meant to guarantee the principles of
+
+15
+  For syntheses of the literature on ARCH-GARCH modeling please refer to Bollerslev et al. (1992), Bollerslev et al.
+(1994) among others.
+
+                                                                                                                 24

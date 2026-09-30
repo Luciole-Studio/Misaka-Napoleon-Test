@@ -1,0 +1,48 @@
+1076                               Rouanet and Piano
+
+and stable when we use comparable samples.31 A one standard deviation
+increase in our measure of terrain ruggedness predicts an increase in the
+draft dodging rate of 2.9 to 6.3 percentage points. An increase in the log of
+ruggedness from the 25th to the 75th percentile of the distribution predicts
+a 4 to 8.8 percentage point increase in the draft dodging rate. This effect is
+large and economically significant, as the average draft dodging rate over
+our entire period (1806 to 1810) was 14.9 percent.
+   Other geographic characteristics do not appear to have as strong an
+effect. In the case of distance from Paris, the coefficient is positive across
+specifications but only marginally significant. Proximity to the border
+also positively affects the draft dodging rate throughout, consistent with
+the idea that border departments offer avenues for conscripts to evade
+their military obligations. Being a bordering department increases the
+draft dodging rate by 2.2 to 4.7 percentage points on average. However,
+this effect is not statistically significant at conventional levels when we
+employ Conley standard errors to correct for spatial autocorrelation.
+   Our specifications also include the “Township density” variable, equal
+to the number of townships (the smallest administrative unit) per km2.
+The coefficient of this variable is expected to be negative: the more
+distant and thinly connected the townships are to each other, the more
+difficult it is to enforce conscription. The results in Table 1 are consistent
+with this expectation. Across all specifications, the “Township density”
+coefficient is negative. However, its magnitude is largely reduced when
+we include additional controls, as in Columns (4) and (5), and the coef-
+ficients become statistically insignificant. This may be due to the inclu-
+sion of the number of military relays per 10 km2 in 1795 as a control.
+This variable allows us to control for previous investment in military
+infrastructure—especially as the ease with which the movement of troops
+occurs is likely to be a determinant of draft evasion. However, town-
+ship density and the number of military relays appear to be highly corre-
+lated, and our data may not be comprehensive enough to identify the
+independent effect of each variable.32 Nevertheless, more military relays
+   31
+      Changes in the magnitude of the “Log of ruggedness” coefficients are mostly due to changes
+in the number of observations, as some departments lack data for some of the controls. For
+instance, when, as in Column (5), we must rely on just 292 observations, ruggedness coefficients
+for the other specifications approximate more closely that from Column (5) and are respectively
+equal to 6.33, 4.80, 4.84, and 5.74.
+   32
+      The correlation coefficient between “Military relays” and “Township density” is 0.53. One
+potential issue is that military infrastructure is endogenous to draft evasion. To address this issue,
+we run the regression in Column (5) using the average number of postal offices per 10 km2 or the
+prevalence of the road network instead of military relays. The establishment of postal offices or
+roads is unlikely to be caused by conscription, but it may face similar geographical constraints.
+The results, included in Online Appendix F.3.4, are virtually the same as in Table 1, except that it
+makes the coefficient of “Township density” statistically significant.

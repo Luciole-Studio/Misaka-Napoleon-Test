@@ -1,0 +1,29 @@
+
+
+Table 1
+
+DESCRIPTIVE STATISTICS FOR THE AGIO (MONTHLY DATA)
+
+## Sources:
+
+Author's calculations, data see text.
+
+The agio contains information on inflationary tensions. For the available monthly and yearly price indices, correlation coefficients, shown in Table 2, ranged from 0.53 to 0.72. It is noteworthy, that the correlation between the agio and the different price indices is higher for domestic goods and increases substantially for the Restriction Period, ranging from 0.65 to 0.79. This is indicative of the fact that the agio reflected the internal value of the paper pound. An increase in the agio meant a decline in the purchasing power of the paper pound: aggregate prices and the agio varied in the same direction at a time when Britain's payment system rested on the paper pound.
+
+Table 2
+
+CORRELATION COEFFICIENTS BETWEEN THE AGIO AND PRICE INDICES
+
+## Sources:
+
+Author's calculations, data see text.
+
+### Identification Strategy: Contemporaries' Views and Actions
+
+Regardless of prior policy commitments, agents could rationally be expected to take into account all available information that could help anticipate the future state of public finances. If, for instance, the fiscal outlook looked grim, debt relief by devaluation would become more likely. The discrepancies between the publicly advertised parity at which resumption was to happen and contemporaries' beliefs were manifested in the agio, which reflected agents' assessment of fiscal sustainability in the future. Important changes in the agio conveyed information on the events that caused contemporaries to alter their predictions regarding public finances and a possible ensuing need for devaluation. These unexpected events should be identifiable as structural breaks in the agio.Footnote 23 A battle lost by the British or a British victory, if that was either extremely costly or if it increased the likelihood that the war would last longer than expected, both implied adverse fiscal consequences.
+
+Structural break analysis is different from an event study or the narrative approach, as the starting point is not a predefined list of historically important dates with the data telling which of them matter. Rather, the methodology detects those events that contemporaries considered to be significant for the future course of British finances without any ex post bias. This focuses attention on the concern that historical events are not merely a prequel to what ensues but have to be analyzed in their historical context.
+
+### Archival Evidence: The Press and the Bank
+
+This approach does, however, bear the risk of “over-interpretation,” that is, the risk that historical events of minor importance are matched with the determined break dates at any cost. I verify the importance of events matched with detected break dates by considering contemporary sources and archival evidence. In particular, I consult the London Times, for which archives are available over the whole period (Bignon and Flandreau Reference Bignon and Flandreau2014). I also examine the London Gazette, the government's official journal. This was published twice a week (on Tuesdays and Saturdays) and as a Gazette Extraordinary whenever deemed necessary by the nature of the news. The London Gazette contained official government announcements, such as declarations of war and peace, and intelligence from different war fronts. The news came in the form of dispatches, composed by the actors of war themselves (to a lesser extent that was the case for the London Times as well).

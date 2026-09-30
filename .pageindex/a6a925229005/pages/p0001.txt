@@ -1,0 +1,24 @@
+# HT 笔记④｜圣多明各东部、条约处置、奴隶贸易量与1825强制外交
+
+## A. 西属圣多明各1802–09：法国在伊斯帕尼奥拉的"第二次失败"
+来源：①Ramón Fernández Sánchez/同侪,「La guerra de la Reconquista en Santo Domingo (1808-1809): una lucha por la continuidad histórica」PDF（centotredicesimo.org 转存学术抽印本，引 AGI、Junta Central 通信、Sánchez Ramírez 日记、Guillermin 回忆录、Lemonnier-Delafosse）；②*Cuadernos de Historia Contemporánea*（UCM）相关论文 PDF；③es.wikipedia 两条目（作为次级索引，数字另注）。
+【事实】1795巴塞尔和约西班牙割让东部给法国；法国1801–02才实际占领；Ferrand 与 Kerversau 1804年后驻守东部，1806年之前一直是法国在岛上的存在。
+【事实】Ferrand 统治的**断裂点是经济性的**：禁止与海地的一切商业往来（尤其**牲畜销售**），直接打击东部牧场主与桃花心木采伐者的利益；起义领袖 Juan Sánchez Ramírez 本人正是「rico propietario de hatos y cortes de caoba」。
+【事实】1808西班牙本土事变（巴约讷）传到岛上→起义；1808-09-28切断圣多明各城与萨马纳湾的联系；1808-10-26取El Seibo。
+【事实】**帕洛因卡多之役1808-11-07**：法军约600名线列＋400名民兵（波多黎各总督Montes报中央胡塔）；西方1,700民兵＋300波多黎各人。战果：法军死315、俘100；西方死7、伤45。Ferrand 兵败自杀。
+【事实】1809-06-27英将Carmichael部登陆；圣多明各城守军于07-02向英军投降，07-06三方议定条款，07-07批准（另一版本作07-09）。此后至1821为"España Boba"。
+
+**【本卡判定·中高｜对全项目的接口】** 法国在伊斯帕尼奥拉东部的崩溃**不是海地造成的**，而是**波拿巴入侵西班牙造成的**。1808年前，法属圣多明各东部是稳定的（作者称 Ferrand 力图「evitar, tanto como era posible, las ocasiones de hacerles sentir su poder」）。→ 在S2（不废西班牙波旁、不打半岛战争）下，**法国保住东部**是高置信结论；而东部正是1802年马提尼克殖民者 Levassor 所指认的替代种植园边疆（「plaines immenses y incultes que pourraient employer des millions de nègres」，ANOM C8B/24 f.40）。这条线在反事实里价值巨大，且**成本远低于再征服海地**。
+
+## B. 条约处置：法国自己放弃了什么
+来源：1814-05-30《巴黎和约》法文本（napoleon-empire.org 转录）与英译（Wikisource），条款编号一致。
+【原文·第8条】英方归还法国1792-01-01所有殖民地，**但除外**：Tabago、Sainte-Lucie、Île de France 及其属地（Rodrigue、Séchelles）；「comme aussi **de la partie de Saint-Domingue cédée à la France par la paix de Bâle, et que S.M.T.C. rétrocède à S.M.C. en toute propriété et souveraineté**」。
+→ **1814年复辟法国主动把西属圣多明各退还西班牙**。这意味着：即便马卢埃/多克西翁-拉韦斯的1814收复计划成功，法国也已在同一年签约放弃了岛上唯一可用的陆上基地与替代边疆。**计划的两个部分互相抵消**——这是本卡对"1814–15收复计划可行性"的第一条结构性否定证据，且它是法方自己的文书。
+【原文·第9条】瑞典国王同意瓜德罗普归还法国并放弃一切权利。背景：1813-03-03英瑞《斯德哥尔摩条约》第5条英国把瓜德罗普让与瑞典换取瑞典出兵大陆（分立条款还要求瑞典**禁止向该岛输入非洲奴隶**）；1814-08-13英瑞伦敦专约，英国付瑞典**2,400万法郎**赎回，该款由王储卡尔·约翰个人取得（Erudit,「La Guadeloupe suédoise (1813–1814)」）。
+【事实】瓜德罗普1810-02-05向英军投降（该日期见1813条约分立条款引"la Capitulation de la dite île, en date du cinq Février mil huit cent et dix"）；马提尼克1809年２月被英军占领（本卡按权重知识标注，未取一手文书，**待核**）。
+→ **1809–10法属安的列斯全部落入英手**。这就是"加勒比作为法国投送负资产"的终点证据：法国1802年为之投入三分之二舰队的帝国，七年后在没有一次大规模海战的情况下全部丢失。
+
+## C. 拿破仑复奴意图的直接引语
+【原文｜1802-07-13 拿破仑致Decrès，经 Erudit「La Guadeloupe de 1803 à 1816」(doi 10.7202/1035305ar) 转引】「**La première de toutes [des mesures] d'établir l'esclavage à la Guadeloupe comme il l'était à la Martinique, en ayant soin de garder le plus grand secret sur cette mesure.**」
+【事实】1802-05-20法律（30 floréal an X）维持马提尼克、圣卢西亚、多巴哥与东方殖民地的奴隶制；1802-07-16执政府令（27 messidor an X）就瓜德罗普规定「sera régie à l'instar de la Martinique…par les mêmes lois qui étaient en vigueur en 1789」；Richepance 07-17（28 messidor）地方令规定殖民地内「le titre de citoyen français ne sera porté que par les Blancs」，并要求无自由证书者返回1789年前的庄园，取消农业工人工资只给食物衣物，恢复鞭刑（Dubois 2003 转录）。
+【来源批判】Niort & Richard（*Bull. Soc. Hist. Guadeloupe* n°152, 2009）与 Régent 认为 Richepance 令只是**事实上**复奴的"第一步"，未明文复奴；本卡采"过程说"，但注意**对当事人而言区别为零**。

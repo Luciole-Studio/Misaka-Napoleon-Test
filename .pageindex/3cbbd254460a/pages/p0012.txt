@@ -1,0 +1,35 @@
+of these surveys (1851 and 1890) also provided estimates of horses employed for draught
+power in agriculture, when the proportion of total adult horses employed in agriculture was
+72% and 53% respectively. In the 1840s, Mounier considered around two-thirds of horses
+reaching working age (over three) to have been used for husbandry. For the earliest dates,
+numerous agronomists provided estimates of the numbers of horses working in agriculture
+in the eighteenth and early nineteenth century, although the principles underlying these
+estimates are not always clear. To estimate the proportion of total horses that were used in
+agriculture, we have used the estimate of Lavoisier (1791) despite its early date, on the
+assumption that numbers remained relatively static over the Revolutionary period. Lavoisier
+made an estimate of the horses employed to cultivate in certain acreages in different regions
+of France and scaled these up to a national estimate on the basis of land surveys. This gives
+an estimate of 76% of adult horses being used in agriculture (assuming that, as in 1840,
+around 13% of the horse population were foals), a figure consistent with what might be
+expected from later trends, as well as comparable estimates for other nations.21 For
+intervening years the trends in the proportion of total horses working in agriculture has been
+linearly interpolated. Between 1890 and 1914 the proportion of total adult horses in
+agriculture is assumed to have remained static.
+
+
+The number of donkeys in toto, and mules employed in agriculture, is recorded in surveys of
+1840, 1862 and 1914.22 It has been assumed that 80% of donkeys were used for draught
+power in agriculture. As the figure for the total number of donkeys approximates steadily to
+around 25% of the number of horses employed in agriculture, donkey numbers for
+intervening years have been calculated on this basis. For years where no data for mules is
+available, it has been calculated that total mule numbers are equivalent to 22% of the
+number of horses working in agriculture, the proportion found in years with comparable
+data; and that 80% of those mules are employed for draught power. This presumes that
+nearly all adult mules and donkeys were employed in some way in agriculture, though many
+in the south would have also been used for transport.
+
+
+Oxen
+
+21 Monier, De l’agriculture en France, p.354; Lavoisier, Statistique agricole,, p.132.
+22 See note 19.

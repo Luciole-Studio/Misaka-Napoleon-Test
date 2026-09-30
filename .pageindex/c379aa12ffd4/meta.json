@@ -1,0 +1,16 @@
+{
+  "doc_id": "c379aa12ffd4",
+  "title": "[t_104134] nodes/r_b55f2c1cf5/cards/t_104134/fiscal/war_taxes_1804_1809.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_b55f2c1cf5/cards/t_104134/fiscal/war_taxes_1804_1809.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_b55f2c1cf5/cards/t_104134/fiscal/war_taxes_1804_1809.csv"
+  ],
+  "sha256": "c379aa12ffd446d7e654a3a9cd309ce907540c1c5983a69724601aa84c72fe5e",
+  "pages": 1,
+  "task_id": "t_104134",
+  "task_ids": [
+    "t_104134"
+  ],
+  "added_at": 1789883145,
+  "office_format": "csv"
+}

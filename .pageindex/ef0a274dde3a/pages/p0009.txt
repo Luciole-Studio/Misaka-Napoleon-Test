@@ -1,0 +1,246 @@
+to ,7 thousand worth of "privilege" goods (Milburn, 1813, II, p. 479); privilege exports to India and China are estimated here as ,6
+thousand times the annual number of ships bound for Asia (MacGregor, 1843-50, IV, pp. 404-406); this product is then weighted with
+the annual India shares in the Company's merchandise exports to Asia (see Appendix Table 1, notes 10, 11, 12); the resulting estimates
+for India only closely approximate, on average, the documented figures for 1784-90 (see above). 1772-83: "Privilege" exports to Asia
+(as in PRO, BT/6/227, no page number: uncertainly estimated from tonnage data), times2 to allowfor contraband (as suggested in PRO,
+BT/6/227, ibid, note overleaf), minus "privilege" exports to China (estimated with relevant weights from ship numbers times ,6
+thousand as above); slightly different figures on "privilege" exports to Asia for 1780-89 are given in PRO, BT/6/42, no page number.
+1811-12: assumed equal to the 1810 value.
+10. Charges on Company exports to India (Appendix Table 1, line 12) times the annual ratios of privilege exports (line 9 above) over
+Company exports (Appendix Table 1, lines 10, 11, 12).
+11. See note 5 above. Customs on Company exports (Appendix Table 1, line 13) times the annual shares of privilege exports (line 9 above)
+in total merchandise exports (added up from Appendix Tables 1, 2, 4).
+12. Estimated as privilege exports to India (line 9) times .106 (average annual share of freight costs as in Appendix Table 1, note 15).
+13. Privilege exports to India (line 9) times one half of insurance rates (rates as in Appendix Table 1, note 5).
+14. Export cost (total of lines 9-13) times the Company's profit rates implicit in Appendix Table 1, lines 10, 11, and 16.
+17. As in line 9 above: Milburn (1813, II, p. 479) stated that the Spanish dollars sent on privilege probably equalled privilege commodity
+exports.
+46
+Appendix Table 3:
+British private trade with India under the 1793 Act, 1793-1812 (period averages of annual values
+in ,'000)
+1793- 1803-
+1802 1812
+1. Imports CIF (sale value in London) 1089 1225
+2. -Import charges in England 54 61
+3. -Freight and demorage in Company ships 27 26
+4. -Ibid on Indian ships 51 44
+5. -Marine insurance 26 29
+6. -Customs duties included in sale price 117 22
+7. -Import charges in India 39 53
+8. -Mercantile profits 196 136
+9. =Imports "FOB India" at Indian ports 576 852
+10. Exports FOB 393 616
+11. +Export charges 3 4
+12. +Customs on exports 2 18
+13. +Freight 42 65
+14. +Marine insurance 10 17
+15. +Mercantile profits -60 -16
+16. =Exports "CIF India" at Indian ports 389 705
+17. Imports "FOB India"
+minus exports "CIF India" as above 187 147
+18. -Exports of bullion 36 52
+19. =Net India transfers to Britain 151 95
+__________________________________________________________________
+Appendix Table 3: Sources and procedures as per numbered lines (see also Appendix text)
+1. 1793-1809: PP 1812, VI, Fourth Report, p. 514, Appendix 45: "privilege" imports). 1810-
+1812: Estimated as one-fourth of non-Company imports from Asia (MacGregor, 1843-50, IV, p.
+413: 1810-11; PP 1813-14, IX, "Account", p. 69, Appendix 25: 1812).
+2. 5% of line 1 (see Appendix Table 1, note 3).
+3. Freight and demorage as follows minus line 13. PP 1812, VI, Fourth Report, p. 515, Appendix
+46: received by the Company on account of "privilege" goods, 1794-1809 (entered as zero in
+remaining years).
+4. Tons times freight rates per ton. Annual "Tonnage of Privilege [i.e., private] Goods
+imported on India-built ships, and on which no Freight was either paid or received by the
+Company, having been laden by the Merchants on their own account" in PP 1812, VI, Fourth
+Report, p. 515, Appendix 46. Constructed series of freight rates paid by private traders
+from data in Tripathi, 1979, pp. 33, 39, 40-42, 48, 58, 69, 79, 94: 1793-1807. These rates
+were entered at two-thirds to allow for cheaper freight on Indian and "extra" shipping: see
+Tripathi, 1979, p. 41; PP 1812, VI, Fourth Report, p. 444. The rates for 1808-1812 were
+guessed at ,20 per ton.
+5. One half of insurance rates (see Appendix Table 1, note 5) times the difference between
+private imports CIF (line 1 above) and customs duties (line 6 below).
+6. Customs revenue as follows minus line 12 below. Customs on Company trade (Appendix Table 1,
+line 6 plus line 13) times the annual ratios of private imports (line 1 above) over Company
+imports (Appendix Table 1, line 1).
+7. Estimated from private imports CIF (line 1), otherwise as in Appendix Table 2, note 6.
+8. Sale value in London (line 1) times the Company's profit rates implicit in Appendix Table
+1, lines 1 and 8.
+10. Weak but arguably overstated estimates from tonnage and value data. The annual tonnage
+figures include the private exporters' cargoes in Company ships plus the entire tonnage of
+goods imported into England in Indian ships -- on the generous assumption that outgoing
+47
+Indian ships were equally laden: all tonnage figures to 1810 in PP 1812, VI, Fourth
+Report, p. 515, Appendix 46; tons for 1811-12 entered at the maximum allowed to private
+traders in Company ships: ibid, p. 444. In a first approximation, the total tons to India
+were converted into sterling values with the annual ratios of the Company's merchandise
+export values to Asia (see Appendix Table 1, notes 10, 11, 12) over the respective tons
+(MacGregor, 1843-50, IV, p. 406: 1793-1810). This conversion alone would understate export
+values because private traders are likely to have shared the commanders' and officers'
+preference for low-volume, high-value goods (Bowen, 1998, p. 467). In 1793-1809, the
+Company's average export values per chartered ton equalled 49: calculated from Milburn,
+1813, I, xci. For the privilege export trade this ratio has been estimated at 109 as
+follows: export values to India and China (see Appendix Table 2, note 9) over 56.5 tons
+(allowed to Commanders on privilege: MacGregor, 1843-50, IV, p. 388) times 43 outgoing
+ships per year (calculated from Milburn, 1813, I, xci). Accordingly the values of private
+exports to India, as estimated above from tonnage data with the Company's export values per
+ton, were multiplied by 2.2 (= 109 /49).
+11. Charges on Company exports to India (Appendix Table 1, line 12) times the annual ratios of
+private exports (line 10 above) over Company exports (Appendix Table 1, lines 10, 11, 12).
+12. See note 6 above. Customs on Company exports (Appendix Table 1, line 13) times the annual
+shares of private exports (line 10 above) in total merchandise exports (added up from
+Appendix Tables 1, 2, 3).
+13. See line 3. Estimated as private exports to India (line 10) times .106 (average annual
+share of freight costs as in Appendix Table 1, note 14).
+14. Private exports to India (line 10 above) times one half of insurance rates (rates as in
+Appendix Table 1, note 5).
+15. Export cost (total of lines 10-14) times the Company's profit rates implicit in Appendix
+Table 1, lines 10, 11, and 16.
+18. Gold and silver on private account into Calcutta from England, 1796-1812: annual figures
+compiled from BL, OIOC, Proceedings, P/174/13-32.
+48
+Appendix Table 4:
+British overall net transfers from India excluding government flows, 1757-1812 (period averages of annual values in
+,'000)
+1757- 1772- 1783- 1793- 1803-
+1771 1782 1792 1802 1812
+Minimum estimates (Cuenca Esteban, 2001) 628 408 1023 261 127
+New estimates (totals in Table 1) 394 1011 1246 1796 660
+Furber's "drain" to Europe 1562
+1757- 1757- 1780- 1789-
+1784 1780 1812 1790 1800
+New estimates (totals in Table 1) 692 644 1198 1015 3039
+Marshall (private transfers, Bengal only) 555
+Hamilton ("drain") 1500
+Sinha ("drain") 1670
+Griffiths ("drain") 1304
+Griffiths ("drain": provisional conjecture) 937
+Habib (minimum net imports: 1789-90 & c1801) 2000 4700
+_________________________________________________________
+References: Minimum estimates: Cuenca Esteban, 2001, pp. 60, 66. Furber, 1948, pp. 305-10. Marshall, 1976, pp. 255-
+56. Hamilton, 1919, pp. 135-36, 146-48. Sinha, 1927, pp. 46-52. Griffiths, 1952, p. 400. Habib, 1974, p. 28.
+49
+Figure 1: Export & import prices in British trade with Asia,
+1765-1812 (1784=100%)
+70
+80
+90
+100
+110
+120
+130
+140
+150
+1770 1775 1780 1785 1790 1795 1800 1805 1810
+Percentages
+British import prices
+(China goods)
+British import prices (India goods)
+British export prices (to India and China)
+50
+Figure 2: Asian shares in British worldwide trade, 1765-1812
+(percentages from trade values at constant prices of 1784)
+0
+5
+10
+15
+20
+1770 1775 1780 1785 1790 1795 1800 1805 1810
+Percentages
+Imports from India
+Imports from
+China
+Exports to
+India
+Exports to China
+51
+Figure 3: British imports from Asia, 1765-1812
+(millions of pounds sterling at constant prices of 1784)
+1770 1775 1780 1785 1790 1795 1800 1805 1810
+Millio
+n
+£
+10
+7.
+5
+5
+2.5
+0
+On Company account:
+from Asia
+from India
+On private account: from Asia
+52
+Figure 4: British exports to Asia, 1765-1812
+(millions of pounds sterling at constant prices of 1784)
+1770 1775 1780 1785 1790 1795 1800 1805 1810
+Million
+£
+2
+1.5
+1
+0.5
+0
+On Company account:
+to Asia
+to India
+On private account: to Asia
+53
+ENDNOTES:
+1. Bowen, 1998, pp. 535-537, 541, 548; Marshall, 1968, pp. 91, 98.
+2. Quoted in Marshall, 1968, p. 91.
+3. Marshall, 1968, 92.
+4. Furber, 1948, pp. 264-267. Philips, 1940, pp. 1-79, 106, 124, 153, 303. Bowen, 1998, p. 535.
+5. For details see Tripathi, 1979, pp. 25-26; Webster, 1990, pp. 408-410.
+6. Marshall, 1976, pp. 249-256; Furber, 1948, pp. 306-323.
+7. Barber, 1975, pp. 104-105.
+8. Marshall, 1976, pp. 241-256.
+9. Furber, 1948, pp. 305-310.
+10. See Greenberg, 1951, pp. 11-12, 156-159, and passim. Supporting analysis and figures in Pritchard, 1936, pp.
+180-185.
+11. Ray, 1998, pp. 513-514.
+12. See Mitra, 1978, pp. 62-69, 96-97, 143-150; and 101-102.
+13. Ray, 1998, p. 525. Marshall, 1998, p. 506. Parkinson, 1937, pp. 78-85.
+14. Philips, 1940, pp. 107-109. Parkinson, 1937, pp. 320-21.
+15. Furber, 1948, p. 304. Neither the notion nor the underlyingreasoning were new: compare,for example,Hamilton,
+1919, pp. 135-136.
+16. Furber, 1948, pp. 305-10.
+17. BL, OIOC, H/449, MSSp. 36, note. Invoice cost was calculated as prime cost plus 10 percent: BL, OIOC, H/500,
+MSSp. 83; PP 1810-11, VII, Third Report, p. 383, Appendix 5.
+18. The Company was often compelled to export British goods at a loss: Robinson, 1912, p. 165. For detailed
+estimates please refer to the Appendix.
+19. PP 1812-13, VIII, MSSp. 416.
+20. Philips, 1940, p. 124.
+21. Philips, 1940, p. 106.
+54
+22. Bowen, 1998, p. 467.
+23. Marshall, 1976, p. 242.
+24. Philips, 1940, pp. 47-49, 66-67.
+25. PP 1812, VI, Fourth Report, Supplement (Appendix 47), p. 35 or MSSp. 151. Philips, 1940, pp. 106-107, 156,
+157. Tripathi, 1979, pp. 90-91, 101, 108, 110, 120-122.
+26. Chapman and Chassagne, 1981, pp. 13-14.
+27. Fitton, 1989, p. 38.
+28. Sources and selected figures in Cuenca Esteban, 2001, 2004.
+29. Nash, 1997, pp. 119-22. Compare Cuenca Esteban, 2001, pp. 80-82.
+30. Imlah, 1958, pp. 47-48.
+31. See Mitra, 1978, pp. 107-130, 144.
+32. PP 1812-13, VIII, MSSp. 416.
+33. Philips, 1940, p. 179.
+34. Nash, 1997, pp. 125-6; Imlah, 1948, p. 67.
+35. See Cuenca Esteban, 2001, p. 59, fn. 8.William Pitt stated in 1798 that British residents received ,1 million per
+year from their properties in Ireland: Pitt, Speeches, II, pp. 441-2.
+36. See Cuenca Esteban, 2001, pp. 59-64.
+37. See further detail in Cuenca Esteban, 2004, pp. 46-49.
+38. See Cuenca Esteban, 2004, pp. 44-46.
+39. Nash, 1997, pp. 125-26; Feinstein, 1978, p. 71.
+40. Davis, 1979, p. 55.
+41. Marshall, 1968, p. 91.
+42. Bowen, 1998, p. 540.
+43. Furber, 1948, pp. 21-23, 122-123, 195, 269. Tripathi, 1979, pp. 7, 11.
+44. Data in Philips, 1940, p. 192.
+45. "The idea of a tribute through imports still remained current at least until 1813": Marshall 1968, p. 91.
+55
+46. Philips, 1940, pp. 77, 108-109.
+47. Mitra, 1978, pp. 109-143.
+48. Philips, 1940, pp. 79, 116-117, 155.
+49. See Parkinson, 1937, pp. 174-76, 185-86, 363-65; Philips, 1940, pp. 82-83, 107, 110-111.

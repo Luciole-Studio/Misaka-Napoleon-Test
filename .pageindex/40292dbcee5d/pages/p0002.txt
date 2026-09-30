@@ -1,0 +1,228 @@
+      "url": "https://annas-archive.gl/md5/c12c44a031addfb0aa2d3123c901545e"
+    },
+    {
+      "title": "The Art of Warfare in the Age of Napoleon",
+      "authors": "Rothenberg, Gunther Erich",
+      "publisher": "Indiana University Press, first thus, 1981",
+      "language": "English",
+      "format": "DJVU",
+      "size": "20.1MB",
+      "hash": "6cc6e3a766470e3da7684e7912aed518",
+      "url": "https://annas-archive.gl/md5/6cc6e3a766470e3da7684e7912aed518"
+    },
+    {
+      "title": "Wellington At Waterloo (Greenhill Military Paperbacks)",
+      "authors": "by Jac Weller",
+      "publisher": "Greenhill Books ; Stackpole Books, New Ed edition, February 19, 2006",
+      "language": "English",
+      "format": "PDF",
+      "size": "40.9MB",
+      "hash": "bdc50b91f51959bc040ed87f3f75cad6",
+      "url": "https://annas-archive.gl/md5/bdc50b91f51959bc040ed87f3f75cad6"
+    },
+    {
+      "title": "Александр I, Наполеон и Балканы",
+      "authors": "[Отв. ред. В. Н. Виноградов]",
+      "publisher": "\"Наука\", Балканские исследования / Рос. АН, Ин-т славяноведения и балканистики, М, 1997",
+      "language": "Russian",
+      "format": "PDF",
+      "size": "4.7MB",
+      "hash": "e63377fa10eda2326faab0d72c502ad4",
+      "url": "https://annas-archive.gl/md5/e63377fa10eda2326faab0d72c502ad4"
+    },
+    {
+      "title": "THE CASSELL HISTORY OF WARFARE - The Napoleonic Wars",
+      "authors": "Gunther E. Rothenberg; general editor, John Keegan",
+      "publisher": "Cassell; Orion Publishing Group, Limited, The Cassell History of Warfare, 1999",
+      "language": "English",
+      "format": "PDF",
+      "size": "101.0MB",
+      "hash": "efa2f3c0b4ad767413b33158c59420b5",
+      "url": "https://annas-archive.gl/md5/efa2f3c0b4ad767413b33158c59420b5"
+    },
+    {
+      "title": "The fatal knot : the guerrilla war in Navarre and the defeat of Napoleon in Spain, 1808-1814",
+      "authors": "Tone, John Lawrence",
+      "publisher": "Chapel Hill : University of North Carolina Press, Chapel Hill, North Carolina, 1994",
+      "language": "English",
+      "format": "PDF",
+      "size": "13.1MB",
+      "hash": "a6a498bc4209f838f7ddcc7fe9b3859a",
+      "url": "https://annas-archive.gl/md5/a6a498bc4209f838f7ddcc7fe9b3859a"
+    },
+    {
+      "title": "Wellington At Waterloo (Greenhill Military Paperbacks)",
+      "authors": "by Jac Weller",
+      "publisher": "Greenhill Books ; Stackpole Books, Greenhill Military Paperbacks, 2006",
+      "language": "English",
+      "format": "PDF",
+      "size": "40.9MB",
+      "hash": "0c57e739ba141ccad92b24c357e61fd1",
+      "url": "https://annas-archive.gl/md5/0c57e739ba141ccad92b24c357e61fd1"
+    },
+    {
+      "title": "In the service of the tsar against Napoleon : the memoirs of Denis Davidov, 1806-1814",
+      "authors": "Davidov Denis.",
+      "publisher": "Greenhill Books ; Stackpole Books, London, [Mechanicsburg, Pa.], England, 1999",
+      "language": "English",
+      "format": "PDF",
+      "size": "102.4MB",
+      "hash": "9939d8b9fa568c9eafe643abc774d1cf",
+      "url": "https://annas-archive.gl/md5/9939d8b9fa568c9eafe643abc774d1cf"
+    },
+    {
+      "title": "Blücher and the uprising of Prussia against Napoleon, 1806-1815 / by Ernest F. Henderson",
+      "authors": "Henderson, Ernest F. 1861-1928",
+      "publisher": "AMS Press, 1978, Heroes of the nations., New York, New York State, 1978",
+      "language": "English",
+      "format": "",
+      "size": "0.4MB",
+      "hash": "3265db7df9535513e501994b94950fd8",
+      "url": "https://annas-archive.gl/md5/3265db7df9535513e501994b94950fd8"
+    },
+    {
+      "title": "Napoleon's Britons and the St. Helena decision",
+      "authors": "Brunyee, Paul F",
+      "publisher": "Stroud, Gloucestershire : History Press, Stroud, Gloucestershire, England, 2009",
+      "language": "English",
+      "format": "PDF",
+      "size": "17.5MB",
+      "hash": "55e98e852fc7e4950ee3fd319ec53c68",
+      "url": "https://annas-archive.gl/md5/55e98e852fc7e4950ee3fd319ec53c68"
+    },
+    {
+      "title": "Carlo-Andrea Pozzo di Borgo: one man against Napoleon",
+      "authors": "Lehrburger, Egon, 1904- [from old catalog]",
+      "publisher": "London, Dobson, London, England, 1968",
+      "language": "English",
+      "format": "PDF",
+      "size": "15.4MB",
+      "hash": "354d38f674eca5485354bd50beeec5df",
+      "url": "https://annas-archive.gl/md5/354d38f674eca5485354bd50beeec5df"
+    },
+    {
+      "title": "Rule by king or rule by law : famous British state trials and executions under Henry VIII",
+      "authors": "Matter, Joseph Allen , 1901-",
+      "publisher": "Vantage Press, Incorporated, 1st ed., New York, New York State, 1979",
+      "language": "English",
+      "format": "PDF",
+      "size": "13.1MB",
+      "hash": "02328bd943200fb60fb57e3879b0f344",
+      "url": "https://annas-archive.gl/md5/02328bd943200fb60fb57e3879b0f344"
+    },
+    {
+      "title": "The scourge of the eagle",
+      "authors": "Villefosse, Louis de; Bouissounouse, Janine; Bouissounouse, Janine",
+      "publisher": "New York, St. Martin's Press, New York, New York State, 1972",
+      "language": "English",
+      "format": "PDF",
+      "size": "19.9MB",
+      "hash": "6dba74fd37fbab0c17a52936c8d7751d",
+      "url": "https://annas-archive.gl/md5/6dba74fd37fbab0c17a52936c8d7751d"
+    },
+    {
+      "title": "Rousseau's dog : two great thinkers at war in the Age of Enlightenment",
+      "authors": "Edmonds, David, 1964-, Eidinow, John",
+      "publisher": "London : Faber and Faber, London, United Kingdom, 2006",
+      "language": "English",
+      "format": "PDF",
+      "size": "18.8MB",
+      "hash": "9338f0c7223286ed612aa0ae86f4d8f3",
+      "url": "https://annas-archive.gl/md5/9338f0c7223286ed612aa0ae86f4d8f3"
+    },
+    {
+      "title": "History of Warfare: The Napoleonic Wars",
+      "authors": "Rothenberg, Gunther Erich, 1923-, Keegan, John, 1934-2012",
+      "publisher": "London : Cassell, The Cassell history of warfare, London, England, 2001",
+      "language": "English",
+      "format": "PDF",
+      "size": "15.5MB",
+      "hash": "74f81ecbbbdb1754ff107108c7a5f3c2",
+      "url": "https://annas-archive.gl/md5/74f81ecbbbdb1754ff107108c7a5f3c2"
+    },
+    {
+      "title": "Rousseau's dog : two great thinkers at war in  the  Age of Enlightenment",
+      "authors": "Edmonds, David, 1964-, Eidinow, John",
+      "publisher": "New York : Ecco, 1st ed., New York, NY, United States, 2006",
+      "language": "English",
+      "format": "PDF",
+      "size": "19.7MB",
+      "hash": "beabdd9de73be49ac6174d932b7c4c8f",
+      "url": "https://annas-archive.gl/md5/beabdd9de73be49ac6174d932b7c4c8f"
+    },
+    {
+      "title": "With musket, cannon, and sword : battle tactics of Napoleon and his enemies",
+      "authors": "Brent Nosworthy",
+      "publisher": "Da Capo Press, Incorporated, New York, New York State, 1996",
+      "language": "English",
+      "format": "PDF",
+      "size": "29.7MB",
+      "hash": "a0308bdd7b0435567101ee37a4cb1936",
+      "url": "https://annas-archive.gl/md5/a0308bdd7b0435567101ee37a4cb1936"
+    },
+    {
+      "title": "Men of Waterloo",
+      "authors": "Sutherland, John Patrick, 1920-",
+      "publisher": "Englewood Cliffs, N.J., Prentice-Hall, Englewood Cliffs, N.J, New Jersey, 1966",
+      "language": "English",
+      "format": "PDF",
+      "size": "33.5MB",
+      "hash": "9994f0badb721b0bcbc6bfc1b40c1788",
+      "url": "https://annas-archive.gl/md5/9994f0badb721b0bcbc6bfc1b40c1788"
+    },
+    {
+      "title": "L'opposition à Napoléon. The scourge of the eagle: Napoleon and the liberal opposition ... Translated and edited by Michael Ross",
+      "authors": "Louis de HÉRON DE VILLEFOSSE (and BOUISSOUNOUSE (Janine)); Janine Bouissounouse; Michael C. ROSS",
+      "publisher": "London, Sidgwick & Jackson, London, England, 1972",
+      "language": "English",
+      "format": "PDF",
+      "size": "14.5MB",
+      "hash": "eb04782cb7cc678a0b5cb156bac8d842",
+      "url": "https://annas-archive.gl/md5/eb04782cb7cc678a0b5cb156bac8d842"
+    },
+    {
+      "title": "Napoleon Against Great Odds",
+      "authors": "Ashby, Ralph",
+      "publisher": "0",
+      "language": "English",
+      "format": "",
+      "size": "1.7MB",
+      "hash": "becf32c7f49d3df095662a08e6900adb",
+      "url": "https://annas-archive.gl/md5/becf32c7f49d3df095662a08e6900adb"
+    },
+    {
+      "title": "British victory in Egypt, 1801 : the end of Napoleon's conquest",
+      "authors": "Mackesy, Dr Piers, Mackesy, Piers",
+      "publisher": "London ; New York : Routledge, London, New York, England, 1995",
+      "language": "English",
+      "format": "PDF",
+      "size": "19.4MB",
+      "hash": "94da78a1bc48d4ab0d7fa7e992aecc51",
+      "url": "https://annas-archive.gl/md5/94da78a1bc48d4ab0d7fa7e992aecc51"
+    },
+    {
+      "title": "Pozzo di Borgo : l'ennemi juré de Napoléon",
+      "authors": "Michel Vergé-Franceschi [Vergé-Franceschi, Michel]",
+      "publisher": "Éditions Payot & Rivages, Biographie Payot, Biographie Payot, Paris, France, 2016",
+      "language": "French",
+      "format": "EPUB",
+      "size": "1.4MB",
+      "hash": "022ed1662f06d46ee280a876c8a5f840",
+      "url": "https://annas-archive.gl/md5/022ed1662f06d46ee280a876c8a5f840"
+    },
+    {
+      "title": "Napoleon's Lost Fleet: Bonaparte, Nelson, and the Battle of the Nile (DISCOVERY BOOKS)",
+      "authors": "Foreman, Laura, Phillips, Ellen Blue",
+      "publisher": "New York : Discovery Books, 1st ed., New York, New York State, 1999",
+      "language": "English",
+      "format": "PDF",
+      "size": "25.6MB",
+      "hash": "5511ec524f9f17aabaa2d533e8b04136",
+      "url": "https://annas-archive.gl/md5/5511ec524f9f17aabaa2d533e8b04136"
+    }
+  ],
+  "source_url": "https://annas-archive.gl/search?q=Napoleon+Great+Adversaries+Rothenberg&content=book_nonfiction&content=book_fiction&content=book_unknown",
+  "transport": "http",
+  "scope": "current_page_only",
+  "complete": false
+}

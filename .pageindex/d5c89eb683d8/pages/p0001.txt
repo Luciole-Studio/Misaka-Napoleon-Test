@@ -1,0 +1,59 @@
+4 P. E, TETLOCK AND A. BELKIN
+
+ling narrative can be “noncausal,” this prohibition would prevent us from
+drawing the sorts of “lessons from history” that scholars and policy makers
+regularly draw on such topical topics as the best ways to encourage eco-
+nomic growth, to preserve peace, and to cultivate democracy. Without coun-
+terfactual reasoning, how could we know whether state intervention acceler-
+ated growth in country x, whether deterrence prevented an attack on country
+_y, or whether the courage of a young king saved country z from sliding back
+into dictatorship? Counterfactual reasoning is a prerequisite for any form of
+learning from history (cf. Tetlock 1991). To paraphrase Robert Fogel’s
+(1964) reply to the critics of “counterfactualizing” in the 1960s, everyone
+docs it and the alternative to an open counterfactual model is a concealed
+one.
+
+This volume surveys the many roles that counterfactual arguments play in
+the study of world politics. A useful place to begin is by clarifying what we
+‘mean by counterfactual reasoning. A reasonably precise philosophical defi-
+nition is that counterfactuals are subjunctive conditionals in which the ante-
+‘cedent is known or supposed for purposes of argument to be false (Skyrms
+1991). As such, an enormous array of politically consequential arguments
+qualify as counterfactual. Consider the following rather representative sam-
+ple of counterfactuals that have loomed large in recent scholarly and policy
+debates:
+
+If Stalin had been ousted as general party secretary of the communist party of the
+Soviet Union, the Soviet Union would have moved toward a kinder, gentler form
+‘of communism fifty-five years before it actually did;
+
+If Yeltsin had followed Sachsian fiscal and monetary advice in early 1992, Russian
+inflation in 1993 would have been a small fraction of what it was;
+
+If the United States had not dropped atomic bombs on two Japanese cities in
+‘August 1945, the Japanese would still have surrendered roughly when they di
+
+If all states in the twentieth century had been democracies, there would have been
+fewer wars;
+
+If Bosnians had been bottlenosed dolphins, the West never would have allowed the
+slaughter of innocents in the Yugoslav civil war to have gone on so long.
+
+‘The contributors to this volume approach counterfactual inference from
+both normative/epistemological and descriptive/cognitive science perspec-
+tives. The normative issues—which we explore in the next two sections of
+this chapter—focus on how students of world politics should use and judge
+counterfactual arguments. We break these issues into two categories:
+
+(1) In what ways do counterfactual arguments advance our causal under-
+standing of political events? Are such arguments—as the skeptics insist—
+
+COUNTERFACTUAL THOUGHT EXPERIMENTS. s
+
+merely forms of rhetorical posturing? Or can such arguments sensitize us to
+historical and theoretical possibilities that we might otherwise have ignored?
+Although we do not doubt that true believers often use counterfactuals to
+justify predetermined conclusions, it is a mistake to dismiss all such argu-
+‘ments as thinly veiled tautologies. We advance a provisional taxonomy of
+five constructive functions of counterfactual arguments in world polities,
+illustrating each with examples drawn from chapters in this volume.

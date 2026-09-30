@@ -1,0 +1,47 @@
+Month                         No. Men                         No. Rations
+
+April 1809                    *
+Nlay 1809                     *
+June 1809                     *
+July 1809                     *
+August 1809                   *
+Septenlber 1809               *
+October 1809                  15784                           244342
+November 1809                 15390                           230850
+December 1809                 10038                           155589
+January 1810                  5827                            90318
+February 1810                 3000                            42000
+March 1810                    3000                            46500
+
+ Total Needed                                                 809599
+
+
+ Deliyery         Gallons Spirits     Pints of spirits   Gallons wine          Equivalent to x
+                                                                               pints of spirits
+
+ Shipment 1       42000               336000
+ Shipment 2                                              10500                 42000
+ Extra            8750                70000              17500                 70000
+ Shipment 3       945                 7560               1890                  7560
+ Shipment 4       350                 2800               700                   2800
+
+: Totals                              416360                                   122360
+
+ Total Sent                                                                    538720
+
+
+ April 1810- March 1811
+
+ Month                        No. Men                            No. Rations
+
+ April 1810                   *
+ May 1810                     *
+ June 1810                    *
+ July 1810                    *
+ August 1810                  *
+ September 1810               *                                  246450
+ October 1810                 15958
+ November 1810                13965                              209475
+ December 1810                9897                               155000
+
+                                                                                            286

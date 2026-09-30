@@ -1,0 +1,357 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+Saint Helena,SHN,1951,5297
+Saint Helena,SHN,1952,5324
+Saint Helena,SHN,1953,5342
+Saint Helena,SHN,1954,5344
+Saint Helena,SHN,1955,5329
+Saint Helena,SHN,1956,5320
+Saint Helena,SHN,1957,5329
+Saint Helena,SHN,1958,5350
+Saint Helena,SHN,1959,5361
+Saint Helena,SHN,1960,5388
+Saint Helena,SHN,1961,5407
+Saint Helena,SHN,1962,5438
+Saint Helena,SHN,1963,5460
+Saint Helena,SHN,1964,5486
+Saint Helena,SHN,1965,5494
+Saint Helena,SHN,1966,5524
+Saint Helena,SHN,1967,5570
+Saint Helena,SHN,1968,5647
+Saint Helena,SHN,1969,5715
+Saint Helena,SHN,1970,5797
+Saint Helena,SHN,1971,5880
+Saint Helena,SHN,1972,5953
+Saint Helena,SHN,1973,6026
+Saint Helena,SHN,1974,6091
+Saint Helena,SHN,1975,6155
+Saint Helena,SHN,1976,6194
+Saint Helena,SHN,1977,6245
+Saint Helena,SHN,1978,6310
+Saint Helena,SHN,1979,6362
+Saint Helena,SHN,1980,6413
+Saint Helena,SHN,1981,6466
+Saint Helena,SHN,1982,6535
+Saint Helena,SHN,1983,6601
+Saint Helena,SHN,1984,6647
+Saint Helena,SHN,1985,6678
+Saint Helena,SHN,1986,6706
+Saint Helena,SHN,1987,6723
+Saint Helena,SHN,1988,6710
+Saint Helena,SHN,1989,6677
+Saint Helena,SHN,1990,6639
+Saint Helena,SHN,1991,6601
+Saint Helena,SHN,1992,6545
+Saint Helena,SHN,1993,6495
+Saint Helena,SHN,1994,6433
+Saint Helena,SHN,1995,6373
+Saint Helena,SHN,1996,6309
+Saint Helena,SHN,1997,6249
+Saint Helena,SHN,1998,6184
+Saint Helena,SHN,1999,6113
+Saint Helena,SHN,2000,6045
+Saint Helena,SHN,2001,5963
+Saint Helena,SHN,2002,5879
+Saint Helena,SHN,2003,5775
+Saint Helena,SHN,2004,5678
+Saint Helena,SHN,2005,5570
+Saint Helena,SHN,2006,5457
+Saint Helena,SHN,2007,5346
+Saint Helena,SHN,2008,5295
+Saint Helena,SHN,2009,5320
+Saint Helena,SHN,2010,5352
+Saint Helena,SHN,2011,5385
+Saint Helena,SHN,2012,5428
+Saint Helena,SHN,2013,5462
+Saint Helena,SHN,2014,5493
+Saint Helena,SHN,2015,5529
+Saint Helena,SHN,2016,5544
+Saint Helena,SHN,2017,5528
+Saint Helena,SHN,2018,5507
+Saint Helena,SHN,2019,5485
+Saint Helena,SHN,2020,5451
+Saint Helena,SHN,2021,5415
+Saint Helena,SHN,2022,5369
+Saint Helena,SHN,2023,5316
+Saint Kitts and Nevis,KNA,400,1
+Saint Kitts and Nevis,KNA,500,2
+Saint Kitts and Nevis,KNA,600,4
+Saint Kitts and Nevis,KNA,700,8
+Saint Kitts and Nevis,KNA,800,16
+Saint Kitts and Nevis,KNA,900,33
+Saint Kitts and Nevis,KNA,1000,67
+Saint Kitts and Nevis,KNA,1100,134
+Saint Kitts and Nevis,KNA,1200,268
+Saint Kitts and Nevis,KNA,1300,536
+Saint Kitts and Nevis,KNA,1400,1072
+Saint Kitts and Nevis,KNA,1500,2145
+Saint Kitts and Nevis,KNA,1600,4290
+Saint Kitts and Nevis,KNA,1700,8581
+Saint Kitts and Nevis,KNA,1710,9285
+Saint Kitts and Nevis,KNA,1720,10046
+Saint Kitts and Nevis,KNA,1730,10870
+Saint Kitts and Nevis,KNA,1740,11761
+Saint Kitts and Nevis,KNA,1750,12725
+Saint Kitts and Nevis,KNA,1760,13768
+Saint Kitts and Nevis,KNA,1770,14896
+Saint Kitts and Nevis,KNA,1780,16117
+Saint Kitts and Nevis,KNA,1790,17438
+Saint Kitts and Nevis,KNA,1800,17202
+Saint Kitts and Nevis,KNA,1801,17202
+Saint Kitts and Nevis,KNA,1802,17202
+Saint Kitts and Nevis,KNA,1803,17202
+Saint Kitts and Nevis,KNA,1804,17202
+Saint Kitts and Nevis,KNA,1805,17202
+Saint Kitts and Nevis,KNA,1806,17202
+Saint Kitts and Nevis,KNA,1807,17202
+Saint Kitts and Nevis,KNA,1808,17202
+Saint Kitts and Nevis,KNA,1809,17202
+Saint Kitts and Nevis,KNA,1810,17202
+Saint Kitts and Nevis,KNA,1811,17202
+Saint Kitts and Nevis,KNA,1812,17202
+Saint Kitts and Nevis,KNA,1813,17202
+Saint Kitts and Nevis,KNA,1814,17202
+Saint Kitts and Nevis,KNA,1815,17202
+Saint Kitts and Nevis,KNA,1816,17202
+Saint Kitts and Nevis,KNA,1817,17202
+Saint Kitts and Nevis,KNA,1818,17202
+Saint Kitts and Nevis,KNA,1819,17261
+Saint Kitts and Nevis,KNA,1820,17380
+Saint Kitts and Nevis,KNA,1821,17561
+Saint Kitts and Nevis,KNA,1822,17803
+Saint Kitts and Nevis,KNA,1823,18109
+Saint Kitts and Nevis,KNA,1824,18420
+Saint Kitts and Nevis,KNA,1825,18737
+Saint Kitts and Nevis,KNA,1826,19059
+Saint Kitts and Nevis,KNA,1827,19386
+Saint Kitts and Nevis,KNA,1828,19719
+Saint Kitts and Nevis,KNA,1829,20058
+Saint Kitts and Nevis,KNA,1830,20402
+Saint Kitts and Nevis,KNA,1831,20753
+Saint Kitts and Nevis,KNA,1832,21109
+Saint Kitts and Nevis,KNA,1833,21472
+Saint Kitts and Nevis,KNA,1834,21841
+Saint Kitts and Nevis,KNA,1835,22216
+Saint Kitts and Nevis,KNA,1836,22598
+Saint Kitts and Nevis,KNA,1837,22986
+Saint Kitts and Nevis,KNA,1838,23381
+Saint Kitts and Nevis,KNA,1839,23782
+Saint Kitts and Nevis,KNA,1840,24191
+Saint Kitts and Nevis,KNA,1841,24607
+Saint Kitts and Nevis,KNA,1842,25029
+Saint Kitts and Nevis,KNA,1843,25459
+Saint Kitts and Nevis,KNA,1844,25897
+Saint Kitts and Nevis,KNA,1845,26342
+Saint Kitts and Nevis,KNA,1846,26794
+Saint Kitts and Nevis,KNA,1847,27254
+Saint Kitts and Nevis,KNA,1848,27723
+Saint Kitts and Nevis,KNA,1849,28199
+Saint Kitts and Nevis,KNA,1850,28683
+Saint Kitts and Nevis,KNA,1851,29205
+Saint Kitts and Nevis,KNA,1852,29736
+Saint Kitts and Nevis,KNA,1853,30277
+Saint Kitts and Nevis,KNA,1854,30827
+Saint Kitts and Nevis,KNA,1855,31388
+Saint Kitts and Nevis,KNA,1856,31958
+Saint Kitts and Nevis,KNA,1857,32539
+Saint Kitts and Nevis,KNA,1858,33131
+Saint Kitts and Nevis,KNA,1859,33728
+Saint Kitts and Nevis,KNA,1860,34330
+Saint Kitts and Nevis,KNA,1861,34937
+Saint Kitts and Nevis,KNA,1862,35549
+Saint Kitts and Nevis,KNA,1863,36167
+Saint Kitts and Nevis,KNA,1864,36796
+Saint Kitts and Nevis,KNA,1865,37435
+Saint Kitts and Nevis,KNA,1866,38085
+Saint Kitts and Nevis,KNA,1867,38747
+Saint Kitts and Nevis,KNA,1868,39420
+Saint Kitts and Nevis,KNA,1869,40050
+Saint Kitts and Nevis,KNA,1870,40634
+Saint Kitts and Nevis,KNA,1871,41171
+Saint Kitts and Nevis,KNA,1872,41660
+Saint Kitts and Nevis,KNA,1873,42100
+Saint Kitts and Nevis,KNA,1874,42544
+Saint Kitts and Nevis,KNA,1875,42993
+Saint Kitts and Nevis,KNA,1876,43447
+Saint Kitts and Nevis,KNA,1877,43905
+Saint Kitts and Nevis,KNA,1878,44368
+Saint Kitts and Nevis,KNA,1879,44829
+Saint Kitts and Nevis,KNA,1880,45286
+Saint Kitts and Nevis,KNA,1881,45741
+Saint Kitts and Nevis,KNA,1882,46192
+Saint Kitts and Nevis,KNA,1883,46641
+Saint Kitts and Nevis,KNA,1884,47093
+Saint Kitts and Nevis,KNA,1885,47550
+Saint Kitts and Nevis,KNA,1886,48012
+Saint Kitts and Nevis,KNA,1887,48478
+Saint Kitts and Nevis,KNA,1888,48948
+Saint Kitts and Nevis,KNA,1889,49293
+Saint Kitts and Nevis,KNA,1890,49513
+Saint Kitts and Nevis,KNA,1891,49605
+Saint Kitts and Nevis,KNA,1892,49570
+Saint Kitts and Nevis,KNA,1893,49407
+Saint Kitts and Nevis,KNA,1894,49244
+Saint Kitts and Nevis,KNA,1895,49081
+Saint Kitts and Nevis,KNA,1896,48919
+Saint Kitts and Nevis,KNA,1897,48757
+Saint Kitts and Nevis,KNA,1898,48596
+Saint Kitts and Nevis,KNA,1899,48411
+Saint Kitts and Nevis,KNA,1900,48203
+Saint Kitts and Nevis,KNA,1901,47973
+Saint Kitts and Nevis,KNA,1902,47719
+Saint Kitts and Nevis,KNA,1903,47443
+Saint Kitts and Nevis,KNA,1904,47168
+Saint Kitts and Nevis,KNA,1905,46895
+Saint Kitts and Nevis,KNA,1906,46624
+Saint Kitts and Nevis,KNA,1907,46354
+Saint Kitts and Nevis,KNA,1908,46085
+Saint Kitts and Nevis,KNA,1909,45744
+Saint Kitts and Nevis,KNA,1910,45331
+Saint Kitts and Nevis,KNA,1911,44847
+Saint Kitts and Nevis,KNA,1912,44295
+Saint Kitts and Nevis,KNA,1913,43675
+Saint Kitts and Nevis,KNA,1914,43063
+Saint Kitts and Nevis,KNA,1915,42460
+Saint Kitts and Nevis,KNA,1916,41866
+Saint Kitts and Nevis,KNA,1917,41280
+Saint Kitts and Nevis,KNA,1918,40664
+Saint Kitts and Nevis,KNA,1919,40153
+Saint Kitts and Nevis,KNA,1920,39746
+Saint Kitts and Nevis,KNA,1921,39441
+Saint Kitts and Nevis,KNA,1922,39236
+Saint Kitts and Nevis,KNA,1923,39128
+Saint Kitts and Nevis,KNA,1924,39021
+Saint Kitts and Nevis,KNA,1925,38914
+Saint Kitts and Nevis,KNA,1926,38808
+Saint Kitts and Nevis,KNA,1927,38702
+Saint Kitts and Nevis,KNA,1928,38596
+Saint Kitts and Nevis,KNA,1929,38553
+Saint Kitts and Nevis,KNA,1930,38573
+Saint Kitts and Nevis,KNA,1931,38656
+Saint Kitts and Nevis,KNA,1932,38803
+Saint Kitts and Nevis,KNA,1933,39014
+Saint Kitts and Nevis,KNA,1934,39225
+Saint Kitts and Nevis,KNA,1935,39438
+Saint Kitts and Nevis,KNA,1936,39652
+Saint Kitts and Nevis,KNA,1937,39866
+Saint Kitts and Nevis,KNA,1938,40083
+Saint Kitts and Nevis,KNA,1939,40382
+Saint Kitts and Nevis,KNA,1940,40766
+Saint Kitts and Nevis,KNA,1941,41238
+Saint Kitts and Nevis,KNA,1942,41797
+Saint Kitts and Nevis,KNA,1943,42447
+Saint Kitts and Nevis,KNA,1944,43107
+Saint Kitts and Nevis,KNA,1945,43778
+Saint Kitts and Nevis,KNA,1946,44459
+Saint Kitts and Nevis,KNA,1947,45150
+Saint Kitts and Nevis,KNA,1948,45852
+Saint Kitts and Nevis,KNA,1949,46554
+Saint Kitts and Nevis,KNA,1950,47254
+Saint Kitts and Nevis,KNA,1951,48327
+Saint Kitts and Nevis,KNA,1952,49414
+Saint Kitts and Nevis,KNA,1953,50469
+Saint Kitts and Nevis,KNA,1954,51359
+Saint Kitts and Nevis,KNA,1955,52155
+Saint Kitts and Nevis,KNA,1956,52994
+Saint Kitts and Nevis,KNA,1957,53843
+Saint Kitts and Nevis,KNA,1958,54669
+Saint Kitts and Nevis,KNA,1959,55492
+Saint Kitts and Nevis,KNA,1960,55834
+Saint Kitts and Nevis,KNA,1961,55352
+Saint Kitts and Nevis,KNA,1962,54483
+Saint Kitts and Nevis,KNA,1963,53461
+Saint Kitts and Nevis,KNA,1964,52348
+Saint Kitts and Nevis,KNA,1965,51163
+Saint Kitts and Nevis,KNA,1966,49917
+Saint Kitts and Nevis,KNA,1967,48626
+Saint Kitts and Nevis,KNA,1968,47265
+Saint Kitts and Nevis,KNA,1969,45750
+Saint Kitts and Nevis,KNA,1970,44632
+Saint Kitts and Nevis,KNA,1971,44228
+Saint Kitts and Nevis,KNA,1972,44054
+Saint Kitts and Nevis,KNA,1973,43897
+Saint Kitts and Nevis,KNA,1974,43759
+Saint Kitts and Nevis,KNA,1975,43628
+Saint Kitts and Nevis,KNA,1976,43499
+Saint Kitts and Nevis,KNA,1977,43377
+Saint Kitts and Nevis,KNA,1978,43237
+Saint Kitts and Nevis,KNA,1979,43053
+Saint Kitts and Nevis,KNA,1980,42866
+Saint Kitts and Nevis,KNA,1981,42721
+Saint Kitts and Nevis,KNA,1982,42549
+Saint Kitts and Nevis,KNA,1983,42355
+Saint Kitts and Nevis,KNA,1984,42134
+Saint Kitts and Nevis,KNA,1985,41894
+Saint Kitts and Nevis,KNA,1986,41642
+Saint Kitts and Nevis,KNA,1987,41368
+Saint Kitts and Nevis,KNA,1988,41084
+Saint Kitts and Nevis,KNA,1989,40777
+Saint Kitts and Nevis,KNA,1990,40456
+Saint Kitts and Nevis,KNA,1991,40382
+Saint Kitts and Nevis,KNA,1992,40740
+Saint Kitts and Nevis,KNA,1993,41266
+Saint Kitts and Nevis,KNA,1994,41798
+Saint Kitts and Nevis,KNA,1995,42347
+Saint Kitts and Nevis,KNA,1996,42903
+Saint Kitts and Nevis,KNA,1997,43453
+Saint Kitts and Nevis,KNA,1998,44018
+Saint Kitts and Nevis,KNA,1999,44625
+Saint Kitts and Nevis,KNA,2000,45272
+Saint Kitts and Nevis,KNA,2001,45785
+Saint Kitts and Nevis,KNA,2002,46048
+Saint Kitts and Nevis,KNA,2003,46200
+Saint Kitts and Nevis,KNA,2004,46337
+Saint Kitts and Nevis,KNA,2005,46459
+Saint Kitts and Nevis,KNA,2006,46592
+Saint Kitts and Nevis,KNA,2007,46734
+Saint Kitts and Nevis,KNA,2008,46857
+Saint Kitts and Nevis,KNA,2009,46941
+Saint Kitts and Nevis,KNA,2010,46871
+Saint Kitts and Nevis,KNA,2011,46917
+Saint Kitts and Nevis,KNA,2012,47056
+Saint Kitts and Nevis,KNA,2013,47092
+Saint Kitts and Nevis,KNA,2014,47112
+Saint Kitts and Nevis,KNA,2015,47108
+Saint Kitts and Nevis,KNA,2016,47099
+Saint Kitts and Nevis,KNA,2017,47075
+Saint Kitts and Nevis,KNA,2018,47032
+Saint Kitts and Nevis,KNA,2019,46976
+Saint Kitts and Nevis,KNA,2020,46896
+Saint Kitts and Nevis,KNA,2021,46786
+Saint Kitts and Nevis,KNA,2022,46732
+Saint Kitts and Nevis,KNA,2023,46783
+Saint Lucia,LCA,-10000,5
+Saint Lucia,LCA,-9000,11
+Saint Lucia,LCA,-8000,22
+Saint Lucia,LCA,-7000,44
+Saint Lucia,LCA,-6000,88
+Saint Lucia,LCA,-5000,176
+Saint Lucia,LCA,-4000,352
+Saint Lucia,LCA,-3000,704
+Saint Lucia,LCA,-2000,1408
+Saint Lucia,LCA,-1000,2817
+Saint Lucia,LCA,0,5634
+Saint Lucia,LCA,100,6147
+Saint Lucia,LCA,200,6705
+Saint Lucia,LCA,300,7315
+Saint Lucia,LCA,400,7980
+Saint Lucia,LCA,500,8706
+Saint Lucia,LCA,600,9497
+Saint Lucia,LCA,700,10361
+Saint Lucia,LCA,800,11302
+Saint Lucia,LCA,900,12330
+Saint Lucia,LCA,1000,13451
+Saint Lucia,LCA,1100,14674
+Saint Lucia,LCA,1200,16008
+Saint Lucia,LCA,1300,17463
+Saint Lucia,LCA,1400,19051
+Saint Lucia,LCA,1500,20783
+Saint Lucia,LCA,1600,22672
+Saint Lucia,LCA,1700,24733
+Saint Lucia,LCA,1710,26761
+Saint Lucia,LCA,1720,28954
+Saint Lucia,LCA,1730,31327
+Saint Lucia,LCA,1740,33895
+Saint Lucia,LCA,1750,36674
+Saint Lucia,LCA,1760,39680
+Saint Lucia,LCA,1770,42932

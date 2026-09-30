@@ -1,0 +1,68 @@
+   Our second estimating equation examines the impact of the introduction of potatoes in a more
+
+structured manner, using a strategy that is similar to differences-in-differences estimation. This
+
+strategy compares the outcome of interest before and after the introduction of potatoes across
+
+countries with varying suitability for potato cultivation. Given the endogeneity of the date of
+
+adoption, we use the approximate date of the introduction to Europe, 1700, rather than the actual
+
+date of adoption. We also continue to use a country’s suitability for cultivating potatoes rather
+
+than the extent of actual cultivation.
+
+   We estimate the following baseline equation.
+
+
+             Yit = β Potatoi × ItPost + δ All Cropsi × ItPost + η Old World Staplesi × ItPost
+                                                                                        1900
+                                                                   µ + ∑ γc Iic +        ∑ ρt It + ε it
+                                                                                                  j
+                        +φ New World Staplesi × ItPost + Xi0 IPost
+                                                              t                                                    (2)
+                                                                            c          j=1400
+
+                                                                                                  j
+As before, Yit denotes one of our four outcomes of interest, and ∑c Iic and ∑ j It denote country
+
+and time period fixed effects. Our measure of potato suitability, Potatoi , is now interacted with an
+
+indicator variable that equals one after 1700, ItPost . All Cropsi , Old World Staplesi , New World Staplesi
+
+indicate our suitability measures for overall agriculture, Old World staples, and New World sta-
+
+ples. We control for these measures, each interacted with a post-1700 indicator variable.
+
+   Our coefficient of interest is β, which is the estimated impact of potato suitability on the differ-
+
+ence in the outcome variable before and after 1700. For concreteness, consider population growth
+
+as the dependent variable. The estimated coefficient, β̂, measures the additional population growth
+
+rate experienced by countries that are suitable for potatoes relative to those that are not, after
+
+potatoes were introduced in 1700 (relative to before). If the coefficient is positive, then this indicates
+
+that countries with a geographic environment more suitable for growing potatoes witnessed a
+
+greater increase in population growth after 1700 relative to before 1700.
+
+   In our analysis, we are also careful to control for various geographic characteristics, which may
+
+be correlated with potato suitability and may have affected population differentially after 1700
+
+relative to the period prior to this date. Because one of the benefits of potatoes is that they can be
+
+grown on rugged terrain at high levels of elevation, in our estimates we are particularly careful to
+
+control for a country’s average elevation and ruggedness.25 The vector of interaction controls is
+
+denoted by Xi0 IPost
+                t    in equation (2).
+  25 Details of these measures are reported in Tables A1 and A2 of the Appendix.        Table A1 reports the pair-wise
+correlations between suitability for potatoes and the two geographic controls, and Table A2 reports summary statistics.
+
+
+
+                                                          20

@@ -1,0 +1,79 @@
+---
+source_url: "https://archive.org/stream/b22297042/b22297042_djvu.txt"
+final_url: "https://archive.org/stream/b22297042/b22297042_djvu.txt"
+provider: "exa"
+text_sha256: "a98278cf46c9f5ed9692a1ae78944afa7a8ba251e33975f417e223c68d0aca1b"
+title: "Full text of \" A statistical display of the finances, navigation and commerce of the United Kingdom of Great Britain and Ireland . \""
+content_kind: "page_text"
+---
+
+Full text of "A statistical display of the finances, navigation and commerce of the United Kingdom of Great Britain and Ireland ." Skip to main content
+
+- Volunteer
+- Jobs
+- Contact
+- Donate Donate icon An illustration of a heart shape
+- Help
+- Projects
+- Events
+- Blog
+- About
+
+# Full text of "A statistical display of the finances, navigation and commerce of the United Kingdom of Great Britain and Ireland ."
+
+## See other formats
+
+```
+A 
+
+STATISTICAL  DISPLAY 
+
+OF  THE 
+
+FINANCES,  NAVIGATION  AND  COMMERCE 
+
+OF  THE  UNITED  KINGDOM  OF 
+
+IHrttaftt  air'd  UtrelawU, 
+
+Being  a Digest  of  all  the  Accounts  and  Papers  relating  thereto,  diffused  through  more  than  600  Volumes  of  Journals, 
+Reports,  and  Papers  presented  to  Parliament  since  1799,  exhibiting  the  Revenue  in  all  its  various  branches  of 
+
+RECEIPT  AND  EXPENDITURE 
+
+In  each  Year  since  the  commencement  of  the  War  in  1793  ; 
+
+The  Value  of  the  Exports  to,  and  Imports  from,  each  different  part  of  the  World  in  each  year  since  1693; 
+The  Value  of  each  Article  Exported  and  Imported  in  each  year  since  1813  ; 
+
+And  the  Quantity  thereof,  in  Weight,  Measure,  or  Tale,  in  each  year  since  1826  ; 
+
+WITH  A COMPLETE  VIEW  OF  THE  RISE  AND  ANNUAL  PROGRESS  OF  THE 
+
+National  'Debt,  ginning  ,ifun&t  anH  ^foreign  ?i,oans, 
+
+So  arranged  as  to  show  the  effect  which  the  Great  Money  Operations  have  had  upon  the  Commercial  transactions  of  the  Country, 
+and  the  relative  degree  and  extent,  and  advantage  or  disadvantage,  resulting  from  its  intercourse  with  each 
+different  part  of  the  World,  affording  a Solution  to  the  Problem, 
+
+or  THE 
+
+BALANCE  OF  TRADE  AND  EXCHANGES; 
+
+Containing  also  a complete  view  of  the  Corn  Trade,  showing  the  Quantity  of  Grain  and  Flour  Exported  and  Imported, 
+and  the  annual  average  price  thereof,  in  each  year  since  1699 ; 
+
+The  Quantity  of  each  kind  imported  from  each  different  part  of  the  World,  and  the  annual  average  price  of 
+
+all  the  great  articles  of 
+
+PRODUCTION  and  COMMERCE  in  each  Year  since  1780, 
+
+Sfc.  3*c.  Spc. 
+
+Every  line  a lesson — every  page  a history. 
+
+“ Statistics  are,  to  Political  and  Social  Economy,  what  Comparative  Anatomy  is  to  Physiology,  or  Comparative 
+Jurisprudence  to  Legislation.  It  is  by  them  alone  that  the  relative  well-being  of  societies  can  be  determined,  the 
+effect  of  all  civil  institutions  be  ascertained,  and  the  working  of  moral  and  physical  causes  among  men  be  observed 
+and  distinguished  with  the  necessary  degree  of  accuracy.” 

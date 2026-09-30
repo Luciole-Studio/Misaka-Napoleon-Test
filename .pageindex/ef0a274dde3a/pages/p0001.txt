@@ -1,0 +1,174 @@
+---
+source_url: "https://e-archivo.uc3m.es/bitstreams/59818d76-9b1b-435d-80c8-857d7d7efafc/download"
+final_url: "https://e-archivo.uc3m.es/bitstreams/59818d76-9b1b-435d-80c8-857d7d7efafc/download"
+provider: "exa"
+text_sha256: "cc05f3e0760b8b622cb2f61f2a568f1db200e1cc1964bda463806d45a84ac14e"
+title: ""
+content_kind: "page_text"
+---
+
+UNIVERSIDAD CARLOS III DE MADRID
+Working Papers in Economic History
+UNIVERSIDAD CARLOS III DE MADRID c/ Madrid 126 28903 Getafe (Spain)Tel: (34) 91 624 96 37
+Site: http://www.uc3m.es/uc3m/dpto/HISEC/working_papers/working_papers_general.html
+DEPARTAMENTO DE HISTORIA ECONÓMICA
+E INSTITUCIONES
+March 2006 WP 06-03
+India's contribution to the British balance of
+payments, 1757-1812
+Javier Cuenca Esteban
+Abstract
+The East India Company's "regulated" trade monopoly more effectively served
+Britain's national interest during the French wars than might be inferred from
+contemporary complaints and recent scholarship. The Board of Control's
+assessment of India's importance to the British balance of payments in the
+1780s was well informed and was borne out by subsequent developments.
+British net inflows from India remained substantial through 1765-1812 and
+were arguably least dispensable. British trade with Asia most frequently
+outgrew the worldwide totals and retained some of the acquired gains to the
+end of the period. The real constraints faced by private traders should be
+weighed against the external economies and scale advantages rendered by the
+East India Company to a wider range of British interests.
+Keywords: British overseas trade; British balance of payments; East India
+Companies; India drain; Indian textiles; China trade; U.S. neutral trade; Terms
+of trade; Freight; Marine insurance.
+Javier Cuenca-Esteban: Professor of Economics, University of Waterloo, 200 University
+Avenue West, Waterloo, Ontario, Canada N2L 3G1
+E-mail address: jcuenca@watarts.uwaterloo.ca
+India's contribution to the British balance of payments, 1757-1812
+October 2005
+Forthcoming, Explorations in Economic History
+by JAVIER CUENCA-ESTEBAN
+Professor of Economics, University of Waterloo
+200 University Avenue West
+Waterloo, Ontario, Canada N2L 3G1
+Tel. #: (519) 885-1211, ext. 3567
+Fax #: (519) 725-0530
+E-mail address: jcuenca@watarts.uwaterloo.ca
+Acknowledgements
+The author is indebted to an anonymous referee for helpful suggestions. Remaining errors and
+omissions are the author's own.
+Abstract
+The East India Company's "regulated" trade monopoly more effectively served Britain's national
+interest during the French wars than might be inferred from contemporary complaints and recent
+scholarship. The Board of Control's assessment of India's importance to the British balance of
+payments in the 1780s was well informed and was borne out by subsequent developments. British
+net inflows from India remained substantial through 1765-1812 and were arguablyleast dispensable.
+British trade with Asia most frequently outgrew the worldwide totals and retained some of the
+acquired gains to the end of the period. The real constraints faced by private traders should be
+weighed against the external economies and scale advantages renderedby the East IndiaCompanyto
+a wider range of British interests.
+Keywords:
+British overseas trade; British balance of payments; East India Companies; India drain; Indian
+textiles; China trade; U.S. neutral trade; Terms of trade; Freight; Marine insurance.
+2
+Text outline
+1. Introduction
+2. British net transfers from India, 1757-1812
+3. Total net inflows into Britain on India account, 1765-1812
+4. Contributions to the British balance of payments
+5. Company and private trade with Asia
+6. Conclusion
+7. Appendix (British net transfers from India 1757-1812: sources and procedures)
+References
+Endnotes
+Tables:
+1. British net transfers from India excluding government flows, 1762-1812
+2. India transfers to Britain through foreign East India companies and neutral traders, 1757-
+1812
+3. British net inflows from India including government flows, 1765-1812
+4. Selected components of the British balance of payments, 1764-1812
+5. British re-exports of Indian textiles, 1790-1812
+Appendix Tables:
+1. British trade with India on East India Company account excluding government flows, 1762-
+1812
+2. "Privilege" trade with India by British commanders & officersin Companyships, 1762-1812
+3. British private trade with India under the 1793 Act, 1793-1812
+4. British overall net transfers from India excluding government flows, 1757-1812
+Figures:
+1. Export & import prices in British trade with Asia, 1765-1812
+2. Asian shares in British worldwide trade, 1765-1812
+3. British imports from Asia, 1765-1812
+4. British exports to Asia, 1765-1812
+3
+1. Introduction
+Between 1765 and 1799, a seemingly overriding goal of British Asian policywas to promote
+the transfer of surplus Indian revenues to Britain through the East India Company's trade monopoly.
+This government policy was unambiguously communicated to the Company in 1769; it was
+subsequently enforced with growing empowerment of Governors-General in Bengal and with
+supervisory bodies in London under Crown control. In the new Charter Act of 1793 Henry Dundas,
+the influential first President of the London Board of Control between 1784 and 1801, made a
+landmark decision to perpetuate existing policy. In the face of growing complaints by Company
+critics, private competitors, and British manufacturers, Dundas chose to uphold the Company's
+monopoly of British direct trade with both India and China with only moderate concessions to
+private interests. Dundas's main argument was that the Company's "investment" in Indian goods, in
+the context of what he described as a "regulated monopoly", remained the safest channel of
+remittance to Britain. In the background of his decision was a novel perception, alreadyexpressed by
+Pitt the Younger in 1784, that the importance of India had "increased in proportion to the losses
+sustained by the dismemberment of other great possessions".i As late as 1799, Dundas was still
+writing of his hopes "for the payment of tribute to this country, through the medium of a beneficial
+and encreasing commerce".ii
+How effectively did this policy serve British national interests to the end of the Company's
+monopoly of British trade with India (1813)? In 1968, Peter Marshall could confidently state that
+"few economic historians would now argue that [the Asian Empire's] contribution had been of major
+importance".iii Historians' views were naturally influenced by the Company's apparent failure to
+succeed as a viable corporation in its double role as territorial ruler and commercial operator.
+4
+Confronted as it was with corruption and patronage within its own ranks, with stepped-up
+competition from private traders since 1793, with massive diversion of bullion exportsto Indiafrom
+commercial to military purposes since 1798, and with weakening European markets for Indian
+textiles in the 1800s, the Company saw its home and Indian debts soar to the edge of bankruptcy.
+The precise determinants of this growing indebtednessmust remainobscureowing to an inextricable
+confusion, in the Company's accounts, between its various administrative, military, and commercial
+activities.iv Meanwhile, the ailing Corporation's image was not enhanced by its seemingly
+detrimental use of its monopoly privileges. It was argued at various times that the Company
+restricted supplies and charged extravagant prices; that the shipping services it contracted were
+unduly costly and inefficient; that its commercial operations in India were a "losing trade"; that its
+imports of Indian raw materials fell short of British requirements; that Indian textiles unfairly
+competed with British cotton fabrics; and that the Company's conservativepractices stood in the way
+of British manufacturers' efforts to break into Indian and Chinese markets.v
+Some of these claims have been challenged by recent work. One obvious testing ground for
+the Company's commercial operation is the conduct of its trade at Canton, where all foreigners
+competed on equal terms under the Hong merchants' tight control. It has been shown that the
+Company's rates of commission were no higher than those charged by private traders; that its profits
+appear to have been similar; and that the principal tea dealers at the public auctions in London had
+nothing but praise for the Company's conduct. Any Company advantageas a relativelylarge buyerin
+Canton should be weighed against the quantity and quality of the special services it rendered (Mui
+and Mui, 1984). A second line of enquiry has qualified the perception that the Company'sseemingly
+insignificant exports to Asia made little contribution to British industry. It has been noted that the
+Company's ships could have been carrying some 16 percent of British exportsof manufactures in the
+5
+mid-1790s; and that the Company's purchases of traditional woollens and worsteds breathed new
+life into the ailing textile industries of East Anglia and the West Country (Bowen, 2002).Tobe sure,
+the more dynamic industrial sectors were not equally served by the Asian markets.But Britishcotton
+printers could profitably use Indian white calicos as inputs, and their finishedproducts had long been
+shielded from Asian competition in domestic markets. In any event, as late as 1812 British policy
+makers did not regard India primarily as a potential market for domestic manufactures, but as a
+temporary source of raw materials under the pressures of warfare (Webster, 1990).
+Further re-assessment of traditional views should arguably focus on what was seemingly
+regarded by government policy makers as the Company's principalrole. The size of Britishunilateral
+transfers from India, and their course and fluctuationsthroughmore than 50 years,have been ignored
+in recent surveys (Bowen, 1998; Marshall, 1998; Ray, 1998). The sums "sent home" in 1757-1784,
+and the sterling value of various kinds of "drain" in 1783-1792, were estimated some decades ago
+with considerable sophistication; the figures were used to downplay their importance in terms of
+British national income and to underscore the offsetting burdens of Empire.vi It has since been
+suggested, with due caution, that the India transfers accumulated since 1757 may have playeda vital
+role in the British balance of international payments during the French wars (Cuenca Esteban, 2001,
+2004). Such an ex-post argument, even if fully substantiated, by itself could hardly validate the
+wisdom of evolving government policy in the context of conflicting contemporaryperceptions of the
+British national interest.
+This article takes a wider tack by focussing on a number of issues that lend themselves to
+quantitative analysis. A useful point of reference is Dundas's decision to promote a steady flow of
+India transfers to Britain by retaining the substance of the Company's trade monopoly in the new
+Charter Act of 1793. There are indications that Dundas's perception of India's importance to Britain
+6
+was not anchored on vulgar bullionism. Company officials had stressed that re-exports of Indian
+goods to European markets played a strategic role in the British balance of trade. Dundas appears to
+have concurred when he stated that "the Legislature will not be disposed rashly to change a current
+which is turning the greatest wheel of British commerce".vii In this context we may fruitfully ask
+four related questions. How accurate were these assessments of the place of India within the British
+commercial system in the 1780s? To what extent was Dundas's decision borneout by the subsequent
+course and continuing importance of India transfers? Did the East India Company's "regulated
+monopoly" effectively serve British commercial and industrial interests while allowing reasonable
+room to private initiative? Were contemporaries unfairly one-sided in decrying the Company's
+detrimental use of its privileges?

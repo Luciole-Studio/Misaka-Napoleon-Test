@@ -1,0 +1,36 @@
+
+
+===== FILE: OEBPS/primeres-2.xhtml =====
+primeres-2.xhtml
+
+ EMILIO LA PARRA LÓPEZ
+
+ FERNANDO VII
+
+ Un rey deseado y detestado
+
+===== FILE: OEBPS/primeres-3.xhtml =====
+primeres-3.xhtml
+
+ a María Ángeles, siempre, 
+
+ y a Irene, que no ha estado en las otras ocasiones
+
+===== FILE: OEBPS/primeres-4.xhtml =====
+primeres-4.xhtml
+
+ AGRADECIMIENTOS
+
+ En el proceso de elaboración de este libro he tenido la fortuna de contar con la ayuda de muchas personas. Una vez terminado, es un placer expresarles mi agradecimiento. No es posible mencionarlas a todas, pero no puedo pasar por alto algunos nombres.
+
+ En primer lugar y ante todo, he de dejar constancia de la extraordinaria colaboración humana y científica de María Ángeles Casado. Ella me ha posibilitado captar facetas de Fernando VII y de las personas reales en las que no había reparado, y de ella ha procedido en todo momento el impulso para escribir estas páginas.
+
+ Debo muchísimo a los profesores Gérard Dufour, Gérard Chastagnaret, Enrique Giménez, Jesús Millán y María Ángeles Casado, lectores de lo que en un principio pensé que podía ser el texto definitivo y afortunadamente no lo fue. Sus sabias sugerencias y recomendaciones lo han enriquecido y han eliminado errores.
+
+ El profesor Maximiliano Barrio me ha prestado generosamente documentación del Archivo Secreto del Vaticano. Lo mismo han hecho, en relación con otros archivos nacionales y extranjeros, María del Mar Alarcón, Víctor Sánchez Martín y Antonio J. Piqueres, antiguos alumnos míos y hoy brillantes doctores en Historia. Los tres, además, han alimentado mucho más de lo que suponen mi entusiasmo por averiguar el pasado. Sin duda, el profesor recibe lecciones de sus alumnos.
+
+ En todo momento he contado con la colaboración de mis compañeros de las áreas de Historia Contemporánea y Moderna de la Universidad de Alicante. Mi deuda es cuantiosa con Armando Alberola, Rosana Gutiérrez Lloret y Rafael Fernández Sirvent. Entre quienes continuamente han estado atentos a proporcionarme cualquier dato sobre Fernando VII se cuentan, asimismo, los doctores Vicente León y Emilio Soler. 
+
+ Es bien sabido que el historiador depende en muy alto grado de archiveros y bibliotecarios para hacer su trabajo. También en este campo he hallado muchas facilidades. Quisiera dejar constancia de mi reconocimiento especial al personal del Archivo General de Palacio (sobre todo a Antonio), al Servicio de Préstamo Interbibliotecario de la Universidad de Alicante, eficacísimo, y a Rosa Mijangos, diligente y competente bibliotecaria en este mismo centro. A menudo, la indicación o la sugerencia de un buen profesional ahorran muchas horas de trabajo o abren perspectivas no previstas. También suele ocurrir que el investigador no siempre conoce el nombre de esa persona que le ha ayudado en la biblioteca o en el archivo. Cada cual sabe cuándo realiza bien su tarea y quizá esto baste, aunque no estoy seguro.
+
+ Esta biografía de Fernando VII no hubiera sido posible sin los excelentes trabajos de otros historiadores que se han ocupado de este monarca y de su reinado. Tengo una gran deuda con Manuel Izquierdo Hernández, concienzudo estudioso desgraciadamente desaparecido, Rafael Sánchez Mantero, Jean-Philippe Luis, Josep Fontana, Carlos Seco y Miguel Artola, autor este último de la guía que, medio siglo después de su aparición, sigue siendo imprescindible para el estudio del primer tercio del siglo XIX. No quiero pasar por alto la extraordinaria ayuda para la investigación que supone el magnífico Diccionario biográfico de España (1808-1833) del recordado Alberto Gil Novales. 

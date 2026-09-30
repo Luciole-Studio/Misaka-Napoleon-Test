@@ -1,0 +1,41 @@
+# C1早期节点证据索引：1803—1805
+
+据代理a622181b6b49d12f8完整回传压缩保存，非逐字完整稿；主卡尚未逐段复核。研究仅证明当时方案、担忧与选择，不估计登陆或终战概率。所有档案号为转引；无手稿、初版扫描逐字对校。现代网页转录同期信，不等于现代作者同期观察。
+
+## B｜布洛涅与舰队机动
+### B1 1803-08-22出港瓶颈
+【事实·转引】Bonaparte致Bruix：« Il faudra donc, comme l’a fait le général Latouche, les tenir en rade »。Michèle Battesti,“Napoléon et la ‘descente’ en Angleterre.1re partie:Les multiples projets de1778à1803”，Revue du Souvenir Napoléonien444,pp.3–17；网页年份2003、月份déc.–janv.，不补跨年。注19指旧Correspondance7030。史家概述每潮约百艘出港，非本次核验港口数据。
+https://www.napoleon.org/histoire-des-2-empires/articles/napoleon-et-la-descente-en-angleterre-1re-partie-les-multiples-projets-de-1778-a-1803/
+缓存downloads/pages/326b19e197a6.md行44、52。
+【模型推演】装载—出港—外锚地—护航同步是约束，艇数非同时可出动数。百艘/潮不进冻结底表。
+
+### B2 1803-12-01、12：Ganteaume替代方案
+【事实·转引】同文注31、33指AN AF IV1191，9与20frimaire anXII，未读原档。12/1致Bonaparte：
+> je regarde l’expédition de la flottille, sinon comme impossible, mais comme extrêmement chanceuse et dont le succès ne peut être promis, ni avoir lieu que par quelque grand événement impossible à prévoir.
+他提出轻型舰队欺敌突入海峡、驱离巡逻舰，掩护« non pendant huit heures seulement mais peut-être pendant quarante-huit »，仍称极其冒险。12/12：
+> Je ne dois pas hésiter à vous faire connaître que je considère le secours de l’artillerie des bateaux et chaloupes canonniers comme illusoire, si l’escadre était forcée au combat au-devant de Boulogne.
+【限制】须保留锚泊与外海交战区别，不扩成炮艇火炮永远无用。缓存同行48、52，À Boulogne,Napoléon inspecte et hésite节。
+【裁量·中高】可证小艇独渡vs舰队先掩护的同期争论，替代方案提出者本人也强调高风险。
+
+### B3 1804-07-02致Latouche-Tréville
+【事实·现代转录】La Malmaison：
+> Que nous soyons maîtres du détroit six heures, et nous serons maîtres du monde !
+同信提出Rochefort会合后不抛锚，或绕爱尔兰外海抵Boulogne；绕岛是航路，不是登陆。并要求最终命令前提交意见。
+https://napoleon-histoire.com/correspondance-de-napoleon-juillet-1804/
+缓存downloads/pages/4dd061a66f88.md行64–86；权威卷页/信号未核。
+【数量口径】1800小艇、12万人、1万马、集中后16战列舰11巡航舰、六小时，均为信中陈述/预期非实有能力。Brest前段21艘后段23艘冲突未解。
+【裁量】六小时“世界主人”为作者修辞，不证登陆即英国媾和。
+
+### B4 1805-03-02集中命令及条件分支
+https://napoleon-histoire.com/correspondance-de-napoleon-mars-1805/
+缓存downloads/pages/e5dd2552be6d.md行117–143（Ganteaume）、167–187（Villeneuve），以日期和收信人定位。
+【事实·转录】Ganteaume：Brest21战列舰、6巡航舰、2运输舰；Ferrol会合法西舰队→Martinique会合Toulon/Rochefort→Ouessant→Boulogne，预期超过40战列舰，期望6/10–7/10到达。少于25舰则赴Ferrol，但敌情天气有利可直赴海峡经Cherbourg获讯；若Toulon未到至少等30天。
+【事实·转录】Villeneuve同日信却称Brest22艘，要求Martinique等40天，未会合则经Santo-Domingo、Canaries/Santiago、Cadix受令。
+【限制】21/22冲突未解；30/40收信人条件不同，不直接判抄错。超过40为预期而非实现。人员表排版与合计疑点，不做人力冻结。3月版、后来修订与实际航程不能拼成不变计划，收讫与执行交C11。
+
+### B5 1805-08-22催舰信
+【事实·拍卖目录转录】Boulogne,4fructidor anXIII，目录折为8/22：
+> Partez, ne perdez pas un moment, et avec un escadre réuni, entrez dans la Manche. L’Angleterre est à nous: nous sommes tout prêts; tout est embarqué, Paraissez vingt quatre heures et tout est terminé.
+https://www.sothebys.com/buy/49414b88-73ed-4002-9a65-9cf0b6e8ec3e/lots/2566b423-a3ab-4452-8619-fc560a9bcc6a
+缓存downloads/pages/82f57f150af4.md，Lot80 Description。目录引1863Nouvelle Biographie Générale37，原页与手稿图像未核。
+【翻译限制】Paraissez vingt quatre heures不宜按英文概述译“24小时内到达”，更近“出现/维持出现24小时”。信称全已登船不等于装载记录；目录舰队位置及次日转德国叙述未独立核，不落锁时间线。

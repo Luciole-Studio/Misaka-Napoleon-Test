@@ -1,0 +1,19 @@
+
+
+31 Changes in the magnitude of the “Log of ruggedness” coefficients are mostly due to changes in the number of observations, as some departments lack data for some of the controls. For instance, when, as in Column (5), we must rely on just 292 observations, ruggedness coefficients for the other specifications approximate more closely that from Column (5) and are respectively equal to 6.33, 4.80, 4.84, and 5.74.
+
+32 The correlation coefficient between “Military relays” and “Township density” is 0.53. One potential issue is that military infrastructure is endogenous to draft evasion. To address this issue, we run the regression in Column (5) using the average number of postal offices per 10 km2 or the prevalence of the road network instead of military relays. The establishment of postal offices or roads is unlikely to be caused by conscription, but it may face similar geographical constraints. The results, included in Online Appendix F.3.4, are virtually the same as in Table 1, except that it makes the coefficient of “Township density” statistically significant.
+
+33 Note that the inclusion of these variables significantly reduces the number of observations available since these data were not available for the Belgian, German, and Italian departments.
+
+34 For instance, collecting the 1,500 francs fine for draft dodging was virtually impossible in poor regions.
+
+35 The prefect of Lozère notices that draft dodging is highest in mountainous parts of his department and parts “where the lights of education are the rarest” and mentions the difficulty of finding “intelligent” local officials (Mémoire sur la conscription dans le département de la Lozère, AN, F/9/209). In Online Appendix F.3.3, we use different literacy measures with no substantial effects on our results. For a broader discussion of the relationship between education and military recruitment, see Aghion et al. (Reference Aghion, Jaravel, Persson and Rouzet2019).
+
+36 Buying a replacement in 1810 in Avignon cost almost 6,000 francs, which represented from two to ten years of income for a peasant (Pigeard Reference Pigeard2000, p. 237). For comparison, four or five horses in the Napoleonic period cost around 2,000 francs. Military replacement was therefore quite expensive. From 1806 to 1809, between 4.3 and 5.3 percent of conscripts hired a replacement.
+
+37 Napoleonic officials seem to have been aware of this fact. See the report to Napoleon dated 5 April 1806, by the prefect of the Department of Lozère, who proposed deregulating the replacement market to fight draft dodging in “the departments where the success of conscription meets obstacles” (Archives Nationales, F/9/209).
+
+38 We also reproduce the specifications from Table 1 using terrain ruggedness instead of its natural log.
+
+39 The only specifications producing statistically weaker results are the ones that do not account for rightward skewness, as when we rely on unadjusted values for ruggedness and slope. This is due to very high but practically irrelevant values of ruggedness within France’s Alpine departments. Once areas with such values are excluded, “Ruggedness” and “Slope” become positive and statistically significant. See Online Appendix F.1.2. Excluding “Distance from Paris,” which is highly correlated (0.64) with ruggedness, also leads both “Ruggedness” and “Slope” to become statistically significant.

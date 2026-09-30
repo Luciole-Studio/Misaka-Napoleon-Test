@@ -1,0 +1,51 @@
+VOL. 101 NO. 7          ACEMOGLU ET AL.: CONSEQUENCES OF RADICAL REFORM              3303
+
+
+
+where ujt is urbanization, dt and δj are time effects and polity fixed effects.
+   The results of estimating (4) using (3) as the first-stage relationship are also shown
+in Table 6. Panel A shows the OLS relationships for comparison. In the OLS, there
+is a positive and significant association between our reform index and urbanization
+in all specifications reported in Table 6.
+   Panel B reports the 2SLS estimates of (4). For our baseline setup, column 1 shows
+an estimate of ϕˆ = 0.290 (standard error = 0.102), which is highly significant.
+Interestingly, this coefficient is of similar magnitude to the OLS estimate, which
+suggests that three biases likely to be present in the OLS could be canceling each
+other. The first of these biases is that the timing of reform is endogenous, which
+will lead to an upward bias. The second is that many of the “control” polities also
+underwent reforms, perhaps in response to the French threat, causing a potential
+downward bias. The third is that the OLS coefficient might be subject to consider-
+able (downward) attenuation, both because the extent of reform is measured with
+error and also because, conceptually, our reform index is only a proxy for a broader
+range of institutional reforms undertaken during this era.
+   Column 2 estimates the same model on the same sample, but now using all
+post-1800 interactions (i.e., the ∑ τ∈ post ατ × dτ × Ij terms in terms of equation
+(1), where this set  post includes 1850, 1875, and 1900) as instruments. This not
+only enables us to have a stronger first stage, but also, because we have more instru-
+ments than endogenous variables, we can perform an overidentification test for all
+of these interactions being jointly valid instruments. Econometrically, this is just a
+standard overidentification test. Economically, it amounts to testing whether we can
+reject the hypothesis that the effects of the post-1800 time interactions with French
+occupation work primarily or solely through the reforms index (and thus through
+the institutional changes that the French imposed). To perform the overidentifica-
+tion test, we use the Huber-White variance-covariance matrix without clustering,
+since this corresponds to smaller standard errors and thus stacks the cards against
+our hypothesis. The p-value of the overidentification (F-)test reported at the bottom
+shows that we comfortably fail to reject the above-mentioned hypothesis. This gives
+some support to our interpretation that French occupation impacted urbanization
+in German polities in the second half of the nineteenth century mainly through the
+institutional reforms that it imposed.
+   Column 3 estimates the same model as in column 1, now in an unweighted regres-
+sion. The 2SLS estimate is now smaller, 0.204, with a larger standard error, and is
+thus significant only at 10 percent. In columns 4 and 5, we include polities to the east
+of the Elbe, and the 2SLS coefficient estimates are very similar to the corresponding
+estimates of columns 1 and 3.
+   Overall the results in this section are broadly consistent with our interpretation
+that occupation by the French induced significant institutional reforms and that
+these reforms paved the way for more rapid economic development, particularly in
+the second half of the nineteenth century.
+
+                               V. Concluding Remarks
+
+  The French Revolution of 1789 started a complex process involving, among
+other things, radical institutional changes. This process of change did not stop at the

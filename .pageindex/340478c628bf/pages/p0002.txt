@@ -1,0 +1,25 @@
+
+
+| 资产 | 路径 |
+|---|---|
+| F1：B1–B8克制先验、中枢容量、寿限带（P(活到1829-03-20)≈0.50–0.65）、"胜利后18个月内新单边行动≈0.7" | `nodes/r_5b1357a9c6/coordination_ledger.md` F1验收条 |
+| F5：继承情景树、王朝存续带40–55%、宪政化让渡+10–15pp | 同上F5验收条 |
+| F2：S6分档驻军参数、新省净供兵第10年转正、阿尔及利亚驻军类比（`downloads/pages/254d31b40981.md`）、伦-威驻军页 | 同上F2各条 |
+| F3：威尼斯厂逐舰下水表（Rivoli等5舰）、木材约束、104舰口径警示 | `nodes/r_5b1357a9c6/cards/t_b1a536/yards_launches_1807_1813.csv`、`F3_capacity.csv`、notes |
+| F4：Marion p.321并合地1812预期税表（皮埃蒙特33/托斯卡纳22.5/罗马16.5等，"目标非实收"）；1810-07罗马"主权费"标尺（每百万人≈13.4m） | `coordination_ledger.md` F4条；`downloads/pages/82a063e7e022.md` |
+
+## D. 列名未亲读（谱系；索引库查无≠不存在）
+
+- R. John Rath, *The Fall of the Napoleonic Kingdom of Italy (1814)*, Columbia UP 1941（De Gruyter电子版2019, ISBN 9780231893763；HathiTrust有电子复制）——1814逐日政治史。
+- A. Du Casse (ed.), *Mémoires et correspondance politique et militaire du prince Eugène*, 10 vols, Paris: Michel Lévy 1858–60（fr.wikisource有t.10 DJVU；巴黎专门图书馆有t.9）。
+- G. Melzi (ed.), *Memorie-documenti e lettere inedite di Francesco Melzi d'Eril*, 2 vols, Milano 1865；*I carteggi di Francesco Melzi d'Eril duca di Lodi*（现代多卷校勘版，Museo del Risorgimento，1958–65，本卡经DBI转引其VII p.441一处）。
+- G. Pecchio, *Saggio storico sull'amministrazione finanziera dell'ex Regno d'Italia dal 1802 al 1814*, London 1826（DBI称"imprescindibile"）。
+- C. Zaghi, *L'Italia di Napoleone dalla Cisalpina al Regno*, UTET 1986（尤pp.515–539财政）。
+- A. Pillepich, *Milan capitale napoléonienne 1800–1814*, Lettrage 2001；*Napoléon et les Italiens*, 2003。
+- A. Grab, "Army, State, and Society: Conscription and Desertion in Napoleonic Italy (1802–1814)", *Journal of Modern History* 67:1 (1995) 25–54；"The Politics of Finance in Napoleonic Italy", *Journal of Modern Italian Studies* 3 (1998)；"La politica finanziaria…", in *L'Italia nell'età napoleonica*, Roma 1997, pp.37–113。（本卡以其2003专著为已读层。）
+- F. Della Peruta, *Esercito e società nell'Italia napoleonica*, Milano 1988。
+- M. Meriggi, *Il Regno Lombardo-Veneto*, UTET 1987；D. Laven, *Venice and Venetia under the Habsburgs*, OUP 2002；A. Sked, *Radetzky*（1815–48对照组）。
+- Bullettino delle leggi del Regno d'Italia（米兰官方法令公报，1802–14年卷）；Archivio di Stato di Milano（Atti di Governo）；AN Paris AF IV（Secrétairerie d'État impériale, Italie）；Archivio Melzi。——档案谱系，未查原卷。
+- F. Coraccini [G. Valeriani], *Storia dell'amministrazione del Regno d'Italia durante il dominio francese*, Lugano 1823；E. Beauharnais, *Memorie del Regno d'Italia*, Milano 1865（DBI Dandolo所引版本）。
+- Bouchard & Crivelli (eds.), *La chute du Royaume d'Italie (1814) et la culture du Risorgimento*, Paris 2014；M. Meriggi, "Aprile 1814: Prina, Milano e l'Europa", *ASL* 2014。
+- V. Ilari, *La Marina Italiana di Napoleone*（F3威尼斯舰表上游）。

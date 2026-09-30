@@ -1,0 +1,27 @@
+    Ruggedness (buffer)       (Nunn & Puga 2012, Nüssli       We extracted the average terrain ruggedness by adding a
+                              2012, Poirson 1808).            30 km buffer to each department’s borders.
+    Townships density         (Prudhomme 1804, vol.1 to 5).   This variable is equal the number of townships per km2 .
+    Border                    (Nüssli 2012).                  This variable is equal to 1 if a department is adjacent to a
+                                                              border and 0 otherwise.
+    Replacement rate          Archives         Nationales,    We calculated this variable by dividing the number of
+                              AF/IV/1124, p.198-215.          military replacements by the contingent size of each
+                                                              department in each year between 1806 and 1809
+                                                              multiplied by 100.
+    Military relays           (Arbellot et al. 1985).         This variable measures the number of military relays per
+                                                              10 km2 in 1795. Those relays enabled to host troops
+                                                              during their travel. The area of each department was
+                                                              calculated using the st_area command in R.
+6   Post office density       (Arbellot et al. 1985).         This variable measures the number of post offices per km2
+                                                              in each department in 1792.
+    Road density              (Arbellot et al. 1985).         This variable measures length of roads in km per km2 in
+                                                              each department in 1811.
+    Urbanization              (Bairoch     et  al.   1988)    We georeferenced the cities found in Bairoch et al. (1988)
+                              and    Archives   Nationales,   and then extracted the population size of cities above
+                              AF/IV/1124, Rapport a sa        5,000 inhabitants for each department. We then divide
+                              Majesté impériale et Royale.    this number by each department’s total population. The
+                              April 6, 1809.                  variable “Urbanization (towns>10,000)” uses the same
+                                                              method but for cities above 10,000 inhabitants.
+    Maritime                  (Poirson 1808).                 This variable is equal to 1 when a department is adjacent
+                                                              to the sea and equal to 0 otherwise.
+    Tax revenues per capita   (Peuchet 1805).                 We use the data on revenues from direct taxes for Year XI
+                                                              (1802-1803) from Peuchet (1805).

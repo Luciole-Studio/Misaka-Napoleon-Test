@@ -1,0 +1,34 @@
+
+
+study is the definitive work on the impact of the Blockade on Britain. As will be seen, the two authors differ in their assessment of the Blockade’s effectiveness: Heckscher emphasises the smuggling and corruption which undermined Napoleon’s attempts to prevent British goods from entering the Continent, while Crouzet argues that the Blockade did damage British industry, at least in the periods when it was effectively enforced. However, neither author
+
+attempts to provide an explicit welfare assessment of the episode. A separate literature 
+explores the effects of the Blockade on the European Continent: Crouzet (1964) provides a 
+classic (and succinct) overview, while Ellis (1981) focusses on the impact of the Blockade on 
+one industrialising region, Alsace. Meanwhile, Frankel (1982) and Irwin (2001) have written 
+on Jefferson’s Embargo, which cut off trade between the United States and Europe for over a 
+year. This paper follows Frankel in stressing that relative prices provide a good measure of 
+such a policy’s effectiveness; while it follows Irwin in attempting to explicitly measure the 
+welfare effects of war-related trade disruption. Most recently, Davis and Engerman 
+(forthcoming) provide an extremely useful overview of Anglo-French and Anglo-American 
+trade rivalry during the period, within the context of a broader study of blockades, but without 
+providing estimates of welfare loss. 
+The above works all focus on particular trade disputes which occurred within the 
+context of more than two decades of war. This paper is wider in scope, in that it looks at the 
+trade and welfare consequences of the war in general, with a particular emphasis on the 1807- 
+14 period; by and large, it does not attempt to untangle the separate effects of Britain’s 
+maritime blockade of France, France’s counter-blockade of Britain, the economic and 
+military disputes between Britain and the United States, and so on. Rather, it looks at the 
+combined effects of these several shocks to the system, which were all ultimately due to the 
+war. 
+
+The paper is also related to a more technical literature on the impact of war on trade. This literature, of which Glick and Taylor (2005) is the most recent example, typically uses the volume of trade as the dependent variable, and employs gravity models to see how wars affected it. Glick and Taylor go further, by using separately generated (by Frankel and Romer 1999) estimates of the relationship between trade and welfare to calculate the welfare effects
+
+This stress on relative prices is largely dictated by considerations of data quality, and 2 
+mirrors the strategy adopted by O’Rourke and Williamson (2002a). 
+The paper is also somewhat related to the literature on sanctions, epitomised by 3 
+Hufbauer et al. (1990), who find that roughly a third of all sanctions episodes in the 20 th 
+century have been successful. Not surprisingly, success is related to the relative costs imposed 
+upon the sender and the target of the sanctions (Eaton and Engers 1999), and these relative 
+costs are one of the principal foci of the present paper. 
+3 

@@ -1,0 +1,63 @@
+century. Of the 1,143 cities, only 308 are observed in 1800, 214 in 1400, and by 1000 we only observe
+
+77 cities. As we discuss below, our estimated coefficients do not differ dramatically depending on
+
+whether we use the full sample of 1,143 or restrict the sample to obtain a more balanced panel.
+
+Summary statistics are reported in Appendix Table A2.
+
+
+4. Estimating Equations
+
+Our first estimating equation imposes very little structure on the data and simply examines how
+
+the relationship between a country’s suitability for growing potatoes and each of our four out-
+
+comes of interest varies over time. Our estimating equation is:
+                    1900                 1900                                 1900
+                    ∑ β j Potatoi × It + ∑ δj All Cropsi × It + ∑ γc Iic + ∑ ρt It + ε it
+                                    j                         j                       j
+           Yit =                                                                                        (1)
+                   j=1400               j=1400                     c         j=1400
+
+where i indexes countries and t indexes time periods, which are for the years 1000, 1400, 1500,
+
+1600, 1700, 1800, and 1900. Yit denotes our outcome of interest, either population, average annual
+
+population growth, the urbanization rate, or the average annual change in the urbanization rate.
+
+The equation includes country fixed effects ∑c Iic , which capture average time invariant differences
+
+in country characteristics that affect the outcome variable. Similarly, the time period fixed effects
+    j
+∑ j It capture time specific shocks that affect all countries. We control for the share of land suitable
+                                                                                                    j
+for overall agriculture interacted with the time period dummy variables ∑ j δj All Cropsi × It to
+
+ensure that the effect of introducing potatoes is not confounded by other changes in the importance
+
+of agricultural productivity over time. All Cropsi is the fraction of land that is suitable for growing
+
+any crop for human consumption.
+
+   The variable Potatoi measures the fraction of land in country i that is suitable for the cultivation
+
+of potatoes. By interacting the variable with each of the time period indicator variables, we
+
+are able to estimate a period specific relationship between potato suitability and the outcome
+
+variable. These are the β j ’s is equation (1), which are our coefficients of interest. If population or
+
+urbanization increased due to the adoption of potatoes after 1700, then we expect to find that after
+
+this date, countries with greater potato suitability experienced disproportionately faster growth.
+
+Therefore, we expect to find that: β̂ j>1700 > β̂ j≤1700 ≈ 0. Because Potatoi is time invariant and
+
+the equation includes country and time-period fixed effects, the estimated β j ’s must be measured
+
+relative to a baseline time period, which we take to be 1000 AD.
+
+
+
+                                                  19

@@ -1,0 +1,55 @@
+3288                                  THE AMERICAN ECONOMIC REVIEW                                  DECEMBER 2011
+
+
+
+of the imposition of the institutions of the French Revolution as an “exogenous treat-
+ment” and investigate the economic implications of radical institutional reforms.
+  The rest of the article is organized as follows. Section I provides an overview of
+the history of the French Revolution and the subsequent invasion of Europe by the
+French. Section II discusses our data. Section III provides reduced-form evidence
+on the association between various measures of French occupation and our proxy
+for economic development, urbanization, across German polities. Section IV uses
+data on the nature and timing of institutional reforms to document the relation-
+ship between French occupation and these reforms and to estimate instrumental-
+variables models. Section V concludes, while several details on data collection and
+construction are contained in the online Appendices.
+
+                                            I. Historical Overview
+
+                                    A. Europe before the Revolution
+
+   Before the French Revolution, much of Europe was dominated by two kinds of
+oligarchies: the landed nobility in agriculture and the urban-based oligarchy control-
+ling commerce and various occupations.7 By the end of the eighteenth century, feu-
+dalism in its most rigid form had disappeared in many parts of Europe, but several
+attenuated variants of unfree labor relations in the countryside persisted. Serfdom
+still continued in much of Eastern Europe (see Jerome Blum 1978), while it had
+been replaced by various forms of taxes and tributes to landowners in other areas,
+which could nonetheless be quite onerous and inhibited the creation of flexible labor
+markets.8 For example, in the Rhineland, the first area in Germany to come under
+French control, an attenuated form of serfdom (Grundherrschaft), which severely
+restricted freedom of movement, was still practiced (Blanning 1983). Moreover,
+various rights of the nobility and clergy created a very unequal political and eco-
+nomic situation in rural areas. These groups were frequently exempt from taxation,
+were subject to separate laws and courts, and enjoyed the right of taxation of the
+peasants under their control.
+   The urban oligarchy was perhaps even more pernicious to industrialization.
+Almost all major occupations were controlled by guilds, significantly limiting entry
+into those professions by others and often restricting adoption of new technologies
+and business practices. Several examples of guilds preventing innovation are pro-
+vided by Herbert Kisch (1989), Sheilagh Ogilvie (2004), and Erik Lindberg (2009).
+In the major cities of the Rhineland, Cologne and Aachen, the adoption of new
+textile (spinning and weaving) machines was significantly delayed because of guild
+
+
+
+Rhineland specifically because they foresaw great potential in the manufacture of cloth. Naturally, this does not rule
+out the possibility that the areas occupied by the French had greater potential for industrial growth for other reasons.
+    7
+      This historical overview draws on Doyle (1989), Robert R. Palmer (1959), Palmer (1964), Georges Rudé
+(1988), Blanning (1983), Blanning (1986), Blanning (1996), David Gates (1997), Alexander Grab (2003), Charles
+J. Esdaile (1996), Esdaile (2001), and Geoffrey Ellis (2003).
+    8
+      Since one could be concerned that including Eastern Europe in the sample leads the control group to be very
+heterogeneous, in the empirical work we show that all our results hold when we restrict our sample to Germany
+west of the Elbe river.

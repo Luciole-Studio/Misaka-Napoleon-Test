@@ -1,0 +1,35 @@
+
+
+emphasize market security and transparency as demand from sophisticated investors provided a living to dual capacity traders (the coulissiers), who gave them better immediacy and likely asked for lower commissions.
+
+### 3. 1830-1860: organizational reforms and separation of the markets
+
+Major institutional changes around 1830 saw the dawning of a new era on the markets. Some 
+of these changes were in response to demand for financial services from firms. This was 
+especially true of the 1832 ruling on the tradability of shares in limited equity partnerships, 
+the typical manufacturing firm organization 40. It was also true of the 1831 creation of bearer 
+rentes certificates, a market the government sought to develop for its debt. Nevertheless, 
+substantial demand for a new set of financial market services only emerged with the 
+development of the railroads in the 1840s. So the major institutional changes of the early 
+1830s could be said to be mostly exogenous and a supply-side institutional innovation 
+instigated by the CAC and/or the government to improve market effectiveness. These changes 
+affected, in particular, the guarantees provided to investors, the listing policy and the 
+organization of transactions on the stock exchange. 
+The first important change on the eve of the period concerns the forward market. In 1832, 
+civil courts began to make forward contracts enforceable by recognizing their validity even 
+without a monetary deposit by the forward buyers (although forward sellers had to deposit the 
+securities when they transmitted an order). The 1832 publication of the CAC’s internal rules 
+helped courts make that decision by providing a detailed regulatory framework for forward 
+transactions. The fact that the Finance Ministry refused to approve these rules meant that they 
+were compulsory for the agents de change, but not for their clients. So only the courts’ new 
+and uncertain jurisprudence protected the agents, often imperfectly. Forward transactions 
+grew, not only for rentes, but also for new issues of railroad shares and bonds. This justified 
+the publication of forward prices on the official list from 1844. A last jurisprudential change 
+in 1848 stepped up agent de change protection by differentiating between ‘serious’ and 
+‘bogus’ forward transactions (a distinction derived from the CAC’s own rules): serious 
+transactions were those by regular forward market operators with a wealth proportional to the 
+positions they took; they could not enter a ‘plea of gambling debts’. 
+
+40 See Lamoreaux and Rosenthal, ‘Legal Regime’.
+
+The second major change at the beginning of the 1830s was the development of the CAC’s collective guarantee during the 1830-1831 crisis. In that episode, the Common Fund was used for the first time under the sole authority of the CS to save a number of agents from bankruptcy. From that date on, the CS was allowed to use part of the Common Fund (an amount equal to the cautionnement plus the share of the agent in the Common Fund – 50,000 francs and later 100,000 francs – secured by the seat value) without asking the CAC general assembly, and the virtually unanimous majority required by the general assembly for more substantial assistance was reduced to a two-thirds majority. Both changes reinforced the integrated organization of the CAC. This position was strengthened in 1835 when the Paris Court ruled that the Common Fund had the status of a civil society, giving precedence to CAC members’ claims over other creditors and allowing the CS to use it to deal with crises. Later on, other moves were made to strengthen the security of transactions for investors. They were exclusively made by the Parquet, rather than by the Coulisse, and focused on limiting excessive risk-taking during bull periods 41. In addition, a regular inspection of all agents’ accounting books was introduced in 1846, and the Common Fund was doubled to 6 million francs in 1852, also improving transaction security. These efforts did not suppress bull or bear markets, but they did strengthen the legitimacy and reputation of the Parquet. Especially important was the fact that, due to the Common Fund and the integrated organization under the CS and despite a number of crises, only one agent de change filed for bankruptcy from 1831 to 1859: losses for the general public were very limited 42. In the late 1830s, the CS moved to secure the market by developing a listing policy, which became increasingly independent from the Ministry of Finance. The main reason for this was the rapid rise in the number of limited equity partnerships, a legal form that allowed for the creation of shares for firms not subject to government authorization (in contrast with corporations, which were subject to authorization until 1867 and implicitly admitted to the official list when authorized). The government was reluctant to either approve their listing, fearing investors would see it as an implicit guarantee of the quality of the firms, or to give

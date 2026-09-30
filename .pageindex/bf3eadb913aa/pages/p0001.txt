@@ -1,0 +1,24 @@
+# R2末核：引文、复算与边界
+
+日期：2026-09-23。性质：本卡作者自检，不是红队或独立史学审稿。复读的是列明版本与片段；没有亲阅TNA/РГИА档案或未取得的专著。
+
+## 1. 承重引文抽核（14项）
+
+引文保留读到版本的语言，省略只在明确的短摘录边界进行；PDF文字抽取的行间连字符不拿来作意义证据。文字locator成功只证明文本位置，支持程度在右列另判。
+
+| # | 读到来源与精确位置 | 实际短引文/图表值 | 支持的限度 |
+|---|---|---|---|
+| 01 | Crosby1965，印p28/PDF40，S01 | “She exported about 60,000 tons of hemp annually.” | 世纪交作者约数；tons未改公吨，非1806年度海关净重 |
+| 02 | Crosby，印p33/PDF45；doc_verify定位“the equivalent distance by sea” | “It was less expensive, for example, to ship freight by these sledges from Moscow to the Baltic than the equivalent distance by sea.” | 反证俄国内冬运必贵；不证明全年跨法俄各水系低成本通达。前文旅行者Coggeshall于1852回忆1810–11 |
+| 03 | Crosby，印p145/PDF157；doc_verify定位“376 vessels arrived” | “In 1809, 376 vessels arrived at Kronstadt and St. Petersburg as compared to sixty for 1808.” | 1809已减压，不能把1807–1810整段写连续无恢复；艘数不是全国吨数 |
+| 04 | Crosby，印p145/PDF157 | 出口“5,875,896 rubles”与“20,314,406” | 同文1808/09名义港组反弹；币种没有由本段关闭，禁除全国银出口算份额 |
+| 05 | Crosby，印p209/PDF221 | “market for colonial goods at St. Petersburg already overstocked.” | 1811年初进口存货过剩；不是全俄生产/福利完全复原 |
+| 06 | Crosby，印p210/PDF222；doc_verify定位“eighty-eight rubles per berkovets” | “rose from eighty-eight rubles per berkovets in January to a hundred and eight or a hundred and ten in August.” | 1811麻单价回升；不直接计贵族净收入，也不填全国实物恢复率 |
+| 07 | Davey2009，印p263/PDF274表29，二次逐图看核 | Hemp：GB61、France2.4、America13.7、Spain/Portugal7、Holland/Germany/other15.9 | 麻列100；表未明按量/值，吨数尺度须同价映射假设；Flax列99.28、Tallow列79.88仍保留缺口；跨书共同Oddy来源，不是双原表互证 |
+| 08 | Troshin2015，印p856/PDF6，S03 | “так называемый индекс условий торговли (отношение индекса экспортных цен к индексу импортных цен)”；“0,74” | 指标明文为出口/进口价格指数比；七成量恢复反证未获证实。样本、基年和价法断点均保留 |
+| 09 | Speransky1811报告，II-В.1，缓存56a23915a69c.md L142 | “прекращение выпуска ассигнаций возвещено 2 февраля 1810 г., а восприяло начало свое только 1 генваря 1811 г.” | 承诺与实施分年。随后43m发行明确属于1810，不误写1811 |
+| 10 | 同上，II-В.1脚注，L172 | “Гамбург, отягощенный податями и наконец присоединенный к Франции, принужден был сократить и даже окончить все свои кредиты.” | 当事财政改革者对汉堡授信受损的叙述；“50%税”不因此升级为核过的荷兰均一实税率 |
+| 11 | VandalIII所刊Nesselrode报告，附录III，L20963–20968题头；L21154–21166商业节 | “plutôt la rupture de la négociation et peut-être même la guerre que quelque stipulation qui nous empêcherait de persévérer dans le système que nous avons suivi cette année à l'égard du commerce!” | 1811年10月臣僚建议贸易自主为红线，不是已签俄皇承诺；法俄译本同源 |
+| 12 | 同报告，L21222–21226 | “de rétablir leurs finances et leurs armées” | 俄奥借和平恢复实力。反证“给经济利益即可永久解除俄方军力”；也是主线条件而非缺陷可忽略项；末段“leur seul ennemi”已纳结论反证，防止只摘和平语句 |
+| 13 | 总统图书馆1842法令释文，f70462842c06.md第二正文段，S14 | “Указ об обязанных крестьянах не имел большого практического применения и не встретил широкой поддержки со стороны дворянства и крупных помещиков” | 自愿制有精英否决；机构二手释文，未亲核PSZ法令。地主引用“土地属上帝”不是农民民调 |
+| 14 | 总统图书馆首都铁路释文，61ed76741f61.md L41，S21 | “Движение на отдельных участках Петербурго-Московской железной дороги началось уже в 1846 г., а 1 (13) ноября 1851 г. состоялось официальное открытие всей магистрали.” | 1846分段/1851全通分别保留，不能倒称1848已全国铁路化；只取工程可行性和周期类比 |

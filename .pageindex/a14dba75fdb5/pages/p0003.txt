@@ -1,0 +1,57 @@
+Environ. Res. Lett. 12 (2017) 074026
+
+
+
+
+  Figure 1. Potential crop yield (harvested biomass) in the present reference period for potato, winter barley, and maize, respectively.
+  The middle panel shows the location of the meteorological stations used for the present period (circles) and for the historical period
+  (triangles—the light blue triangle was used only for validation), HPB ¼ Hohenpeissenberg) as well as the transect used. Only areas
+  below 1500 m asl were calculated.
+
+
+
+Luterbacher and Pﬁster 2015). In the most impacted                    daily weather data for 1815–1817 as well as for a
+regions, adverse weather conditions in 1816 delayed                   corresponding scenario in today’s warmer climate.
+crop harvests and caused very poor yields (Krämer                     The data are used to drive a crop model that simulates
+2015). The crop yield losses were an additional factor                phenology and crop yield for selected crops. Some
+on top of many others—empty storages after the                        important factors such as soil wetness or the
+coalition wars, economic downturn in proto-indus-                     susceptibility to pests and diseases are not part of
+trialized regions, new political responsibilities, etc.—              the crop model, but possible effects of water logging
+that made societies in Central Europe vulnerable to                   are assessed ex-post using an empirical approach. Also,
+crisis. In many places, increasing prices contributed to              historical information on the pattern of land use in
+the last great subsistence crisis in Central Europe (Post             1816 is not available at the required level of detail, and
+1977), to malnutrition, migration, low fertility, or                  thus only a measure of potentially attainable yield is
+death (Krämer 2015).                                                  calculated. Note also that only crop yield quantity and
+     The YWAS of 1816 has been used as a test case for                not quality could be simulated.
+studying the resilience of the global food system to
+extreme climatic disturbances. Puma et al (2015)
+found that today a similar event could disrupt                        2. Data and methods
+international trade networks due to crop losses in
+major production regions. The YWAS of 1816 can thus                   2.1. Weather data
+be considered as a ‘worst case’ scenario for the effects              The study made use of sub-daily historical meteoro-
+of strong climate variability on an inter-annual scale                logical information from four different stations from
+on regional crop yields and food security.                            1800–1820 The series of Geneva (Schüepp 1961,
+     The aim of the present study is to investigate                   Auchmann et al 2012) and Hohenpeissenberg
+today’s potential effects of such an extreme climatic                 (Winkler 2009) are described in the literature (see
+event on crop yields with a focus on as a region that                 ﬁgure 1). Each has twice daily data for temperature,
+was most severely affected. Because both the weather                  pressure, and wind direction (among other variables),
+situation in 1816 and the resulting crisis in 1816, and               as well as daily precipitation sums. The series from
+particularly in 1817, are historically well documented                Basel/Delémont (Bider et al 1959) is composed of
+(Krämer 2015), the YWAS of 1816 is thus a suitable                    several series and, for 1816/17, has only daily mean
+scenario to assess current crop sensitivities using a                 temperature and pressure. For the same series, we also
+numerical modelling approach. Such an approach also                   used present-day data from automated weather
+allows to better separate the weather-related contri-                 stations in Switzerland reaching back to around
+bution to the crisis in 1817 from other inﬂuences. For                1980. These data included solar radiation.
+instance, maps of malnutrition in 1817 and 1818 for                       In addition, and only for validation, we used a
+Switzerland (Krämer 2015) show a pronounced east-                     series from Aarau for 1816, which we discovered
+west gradient across Switzerland, with the eastern                    during writing the paper (Brugnara et al 2015). The
+region being more severely affected than the west,                    series provides temperature together with qualitative
+which may reﬂect differences in social, economic and                  information on precipitation observed by Heinrich
+political conditions (Krämer 2015), while the inﬂu-                   Zschokke, published in the ‘Archiv der Medicin,
+ence of small-scale differences in climatic conditions                Chirurgie und Pharmacie’ (digital.ub.uni-duesseldorf.
+remains unclear.                                                      de/ihd/periodical/pageview/7592104). A full descrip-
+     Our numerical approach starts from historical                    tion of the entire series follows elsewhere. Since we
+instrumental weather data. We use a novel analogue                    used the data only for one year and only in the form of
+resampling technique to reconstruct high-resolution                   correlations, the data could be used in raw form.
+
+                                                       2

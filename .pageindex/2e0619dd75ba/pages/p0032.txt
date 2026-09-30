@@ -1,0 +1,85 @@
+
+
+-1.5 -1 -.5
+
+0
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900 year Distance Estimate 95% Confidence Interval
+
+Evolution of the effects of Distance
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900 year Empire Estimate 95% Confidence Interval
+
+Evolution of the effects of Empire
+
+• Figures A10 and A11 replicate the results from Figure 6 with the inclusion of lags for the war variables. The results in Figure A10 are obtained by simply considering the lags of war based on our interval data. Given that our data was collected at ten-year intervals, we note that the minimum lag length is then ten years. Nevertheless, we consider the first and second lags of 
+
+the war indicator. As seen in Figure A10, the coefficient estimates for distance and empire over time are very similar to our main results.
+
+We also experiment with an alternative definition of the lag of war. Specifically, the results in Figure A11 are obtained with a lagged war variable which is defined as being equal to one if there was a war between Britain and the destination in question in any of the previous ten years. Once again, our main results remain robust in this specification.
+
+A13
+
+Figure A10: Evolution of Distance and Empire Effects (first & second lags of war)
+
+-1.5 -1 -.5
+
+0
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900 year Distance Estimate 95% Confidence Interval
+
+Evolution of the effects of Distance
+
+0
+
+1
+
+2
+
+3
+
+4
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900 year Empire Estimate 95% Confidence Interval
+
+Evolution of the effects of Empire
+
+Figure A11: Evolution of Distance and Empire Effects (ten-year window of war)
+
+-1.5 -1 -.5
+
+0
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900 year Distance Estimate 95% Confidence Interval
+
+Evolution of the effects of Distance
+
+0
+
+1
+
+2
+
+3
+
+4
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900 year Empire Estimate 95% Confidence Interval
+
+Evolution of the effects of Empire
+
+• Finally, adding more historical variables to our specification might strengthen the analysis. However, given the long span of our trade data, collecting additional data on historical control variables over 86 destinations and 200 years is not an easy task (and perhaps, not even a feasible one). For instance, a common proxy for tariff policy is the ratio of customs revenue to the declared value of imports. In this case, the largest known collection of this measure of tariff intensity comes from the work of Jeffrey Williamson, but it comprises observations for only 23 destinations and four years in our sample (1869, 1880, 1890, and 1899). We introduced the following control variables along these lines:
+
+1. An indicator variable for financial crises (FIN_CRISISjt) drawn from the Jorda Schularick-Taylor database (1869-1899) and from which we were able to match 56 observations in our dataset across destinations and years. Only five of these observations are equal to one.

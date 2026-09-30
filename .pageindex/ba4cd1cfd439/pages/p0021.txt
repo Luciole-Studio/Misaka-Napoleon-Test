@@ -1,0 +1,29 @@
+
+
+Notes: Dependent Variable: Absolute value of percentage price gap between cities; p-values in parentheses. All 
+VSHFL¿FDWLRQVLQFOXGHWLPH DQGFLW\ SDLU¿[HGHIIHFWV S YDOXHVEDVHGRQFOXVWHULQJDWWKHFLW\ SDLUOHYHO LQ 
+SDUHQWKHVHV )RUYDULDEOHGH¿QLWLRQ VHH7DEOH 
+Source: Authors’ calculation. 
+
+goods. Unfortunately, there are few goods for which price information is as rich as it is for wheat. However, for another good where we have nearly as extensive information on prices, namely rye, we have found DOVRDVLJQL¿FDQWLPSDFWRIFXVWRPVOLEHUDOL]DWLRQVRQELODWHUDOSULFHJDSV )LQDOO\ ZHKDYHIRXQGHYLGHQFHWKDWRXUUHVXOWVDUHQRWVLJQL¿FDQWO\ affected by the fact that we do not observe the quantities traded, by the GLIIHUHQW VL]HV RIWKH *HUPDQ VWDWHV DQG E\ WKH SDUWLFXODU GH¿QLWLRQ RI our instrumental variable based on the average distance of the cities in HDFK FLW\ SDLU IURP WKH FRDVW 7KH LQWHUHVWHG UHDGHU ZLOO ¿QG WKHVH DQG additional results in Table B of the appendix.
+
+CONCLUDING DISCUSSION
+
+7KLV LV WKH ¿UVW VWXG\ WR RXU NQRZOHGJH WKDW LQFRUSRUDWHV WKH HQGRJ enous effects of accession into an estimate of the economic impact of the Zollverein FXVWRPVXQLRQ :H¿QGWKDWWKHLQVWUXPHQWDOYDULDEOHHVWLPDWH is larger than the OLS estimate that does not take endogenous participation into account. The relatively small OLS effects may explain why the litera ture has not given much attention to the trade effects of the Zollverein so far. %H\RQGLWVVLJQL¿FDQFHDVDWUDGHDJUHHPHQW KRZHYHU WKH Zollverein HUDSURYLGHVOHVVRQVRQWKHLPSDFWRIHFRQRPLFSROLF\KDUPRQL]DWLRQRQ
+
+APPENDIX TABLE B ADDITIONAL RESULTS
+
+| | (1) (2) (3) (4) (5) (6) Max. Drop Transactions State Distance Always /LEHUDOL]HG Costs Population Always from /LEHUDOL]HG Baseline Inequality Weights Coast in Sample |
+| --- | --- |
+| Second Stage &XVWRPV /LEHUDOL]DWLRQ First Stage Rel. Distance to Coast F-statistic Number of Observations City-pairs | –0.055 –0.055 –0.052 –0.054 –0.093 –0.042 [0.005] [0.002] [0.013] [0.003] [0.003] [0.012] 1.889 2.030 2.442 1.356 1.310 2.125 [0.000] [0.000] [0.000] [0.000] [0.000] [0.000] 54.84 48.99 31.21 90.09 36.26 56.73 [0.000] [0.000] [0.000] [0.000] [0.000] [0.000] 3,570 3,570 3,570 4,511 3,570 3,123 642 642 642 756 642 495 |
+
+Notes: Dependent Variable: Absolute value of percentage price gap between cities; p-values in parentheses; 
+(2) Regression weight relatively low if world wheat price low and close to coast, high if far from coast 
+and world price high; (3) Regression with state population in year 1816 as weights; (4) Include city-pairs 
+EHWZHHQZKLFKFXVWRPVZDVDOZD\VOLEHUDOL]HG ,QVWUXPHQWDOYDULDEOHFRPSXWHGIURPPD[LPXP LQVWHDG 
+of average distance across cities j and k; (6) Drop from sample if all price gap observations in sample only 
+GXULQJFXVWRPV OLEHUDOL]HG \HDUV $OOVSHFL¿FDWLRQVLQFOXGHWLPH DQGFLW\ SDLU¿[HGHIIHFWV S YDOXHVEDVHG 
+on clustering at the city-pair level in parentheses. 
+Source: Authors’ calculation. 
+
+the political cohesion between states that are at the core of today’s policy debate, not only in Europe but also at a global level. Indeed most trade agreements start with a limited number of early joiners and the partici pation grows endogenously. For example, there has been a gradual, but marked, expansion in the members of the European Union since it was ¿UVWHVWDEOLVKHGZLWKVL[IRXQGLQJVWDWHV $V9LQHU S QRWHG ³JHQHUDOL]DWLRQV DERXW WKH RULJLQ QDWXUH DQG FRQVHTXHQFHV RI XQL¿FD tion of tariffs tend to be based mainly or wholly on the German [i.e., Zollverein] experience.” This holds for membership in multi-lateral free trade agreements such as the General Agreement on Tariffs and Trade *$77 DQG QRZ WKH :RUOG 7UDGH 2UJDQL]DWLRQ :72 DV ZHOO 7KH GLIIHUHQFHVLQZKHQDQGKRZVSHFL¿FFRXQWULHVGHFLGHWRMRLQDUHLPSRU tant aspects that have often been neglected. They might play a role in H[SODLQLQJWKH¿QGLQJWKDWWUDGHDJUHHPHQWVRIWKHPRUHUHFHQWSDVWKDYH not raised trade (Rose 2004). Recent research has sought to identify the general characteristics of countries that choose to join trade agreements, ¿QGLQJ ODUJHU WUDGH DJUHHPHQW HIIHFWV DIWHU WDNLQJ LQWR DFFRXQW LQFRPH

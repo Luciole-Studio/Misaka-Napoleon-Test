@@ -1,0 +1,52 @@
+Over the whole after-war period, BoE directors had insisted that an effective resumption
+was only possible if the government paid back a substantial amount of debt to the Bank.
+The legal framework governing the definite resumption of specie payments - Peel’s Act,
+enacted 2 July 1819 - imposed the repayment of £10 million of government short-term
+debt and also made it illegal for the BoE to lend money to the government for more
+than 3 months without approval of Parliament. This paved the way for resumption,
+undertaken by 1 May, 1821.
+
+
+
+
+      300%
+                American Inde pendence          Fren ch Wars   WWI     W WII
+
+
+      250%    Seven Years' Wa r
+
+
+
+      200%
+
+
+      150%
+
+
+      100%
+
+
+      50%
+
+
+       0%
+             1700         1750           1800         1850     1900   1950     2000
+
+
+
+
+                           Figure 4: Debt to GDP ratio, 1692-2011
+
+Sources: Mitchel, 1988; Officer and Williamson, 2013
+
+
+
+5     Econometric Methodology
+
+5.1   The Data
+
+In order to most accurately capture the nexus between expectations regarding the sus-
+tainability of public finance and evolutions in prices, I focus here on the series that
+contemporaries used to assess inflationary tensions. To a minor extent, this is a tech-
+
+                                                    16

@@ -1,0 +1,65 @@
+the provincial level, and the limited number of observations make statistical tests inaccurate and to be
+
+interpreted carefully. Other variables are available on the city level such that common statistical mean
+
+comparison tests can be meaningfully interpreted. Table 8 reports the pre-treatment mean comparisons
+
+of those variables.
+
+                                                   Table 8 about here
+
+For the variables on the territory level and the complete sample shown in column (1) and (2), one can
+
+note that only for the number of years the French Army was present in a territory there exists a sta-
+
+tistically significant difference. Treated regions were significantly longer occupied by the Napoleonic
+
+Army, which thus had more time to install the institutions properly. Second, treated regions are located
+
+closer to Paris, a characteristic important for whether a region was actually occupied or not.27 Third, the
+
+number of territories from which the regions were created is larger in the treated regions. Changing the
+
+institutions and going back to old institutions after the Napoleonic occupation was therefore much more
+
+costly in the light of the integration of those many small states.28 The comparison of the urbanization
+
+measures suggest that the treated regions were less urbanized before 1800. The literature on the determi-
+
+nants of social capital usually claims, that protestantism is favorable for social attitudes and cooperation
+
+(Alesina and La Ferrara, 2002; Tabellini, 2008). Thus, there exists a difference, while not significant, but
+
+unfavorable for social capital levels in the treated group. While I report the same comparisons for the
+
+regions of the border sample in column (3) and (4), the interpretation is not very meaningful given the
+
+tiny sample size.
+
+Next, I investigate city level data taken from Jacob (2010) for a maximum of 364 cities located in the
+
+sample territories. Results are shown in the lower panel of Table 8. The data contains information about
+
+whether the city was a free city, belonged to the Hanseatic Trade Cities, or was the seat of a bishop. I add
+
+a fourth variable identifying the existence of universities before 1800. In the spirit of Guiso, Sapienza,
+
+and Zingales (2008a) and Jacob (2010), past institutional characteristics associated with the free cities
+
+and the associated creation of norms of cooperation could have led to divergences in social capital levels
+
+before 1800. However, neither the treated nor untreated group had on average significantly more free city
+
+states. As important as the free cities might have been the presence of the Hanseatic Cities, a corporation
+   27 In contrast, one could reasonably assume, that, because of the closeness to France, people in the Western territory were
+
+much more in favor of the Revolutionary ideas when it break out in 1789, and thus much more involved in political activities,
+such as being member of Jacobin clubs. This was not the case. In the Rhineland for example, “there were hardly any local
+Jacobins or self-styled patriots sympathetic to the Revolution” (Doyle, 1990, p. 352) compared to other parts of Germany, and
+even if, these groups were small and consistent only of “scattered individual activists” (Sperber, 1992, p. 489).
+   28 That a unified legal code made the integration of additionally gained territories easier was also emphasized by several
+
+scholars (see e.g. Becker, 1985; Arvind and Stirton, 2010).
+
+
+                                                             20

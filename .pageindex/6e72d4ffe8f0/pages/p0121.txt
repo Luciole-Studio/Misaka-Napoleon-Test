@@ -1,0 +1,382 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+Turkmenistan,TKM,-5000,42626
+Turkmenistan,TKM,-4000,49730
+Turkmenistan,TKM,-3000,58019
+Turkmenistan,TKM,-2000,67689
+Turkmenistan,TKM,-1000,78970
+Turkmenistan,TKM,0,92132
+Turkmenistan,TKM,100,98713
+Turkmenistan,TKM,200,105764
+Turkmenistan,TKM,300,113319
+Turkmenistan,TKM,400,121413
+Turkmenistan,TKM,500,130085
+Turkmenistan,TKM,600,139377
+Turkmenistan,TKM,700,149333
+Turkmenistan,TKM,800,160000
+Turkmenistan,TKM,900,165000
+Turkmenistan,TKM,1000,170000
+Turkmenistan,TKM,1100,182000
+Turkmenistan,TKM,1200,194000
+Turkmenistan,TKM,1300,206000
+Turkmenistan,TKM,1400,220000
+Turkmenistan,TKM,1500,240000
+Turkmenistan,TKM,1600,280000
+Turkmenistan,TKM,1700,310000
+Turkmenistan,TKM,1710,330823
+Turkmenistan,TKM,1720,349202
+Turkmenistan,TKM,1730,368602
+Turkmenistan,TKM,1740,389080
+Turkmenistan,TKM,1750,410695
+Turkmenistan,TKM,1760,433512
+Turkmenistan,TKM,1770,457596
+Turkmenistan,TKM,1780,483018
+Turkmenistan,TKM,1790,509852
+Turkmenistan,TKM,1800,367215
+Turkmenistan,TKM,1801,367215
+Turkmenistan,TKM,1802,367215
+Turkmenistan,TKM,1803,367215
+Turkmenistan,TKM,1804,367215
+Turkmenistan,TKM,1805,367215
+Turkmenistan,TKM,1806,367215
+Turkmenistan,TKM,1807,367215
+Turkmenistan,TKM,1808,367215
+Turkmenistan,TKM,1809,367215
+Turkmenistan,TKM,1810,367215
+Turkmenistan,TKM,1811,367215
+Turkmenistan,TKM,1812,367215
+Turkmenistan,TKM,1813,367215
+Turkmenistan,TKM,1814,367215
+Turkmenistan,TKM,1815,367215
+Turkmenistan,TKM,1816,367215
+Turkmenistan,TKM,1817,367215
+Turkmenistan,TKM,1818,367215
+Turkmenistan,TKM,1819,367889
+Turkmenistan,TKM,1820,369243
+Turkmenistan,TKM,1821,371284
+Turkmenistan,TKM,1822,374017
+Turkmenistan,TKM,1823,377449
+Turkmenistan,TKM,1824,380913
+Turkmenistan,TKM,1825,384408
+Turkmenistan,TKM,1826,387936
+Turkmenistan,TKM,1827,391496
+Turkmenistan,TKM,1828,395088
+Turkmenistan,TKM,1829,398714
+Turkmenistan,TKM,1830,402373
+Turkmenistan,TKM,1831,406065
+Turkmenistan,TKM,1832,409791
+Turkmenistan,TKM,1833,413552
+Turkmenistan,TKM,1834,417347
+Turkmenistan,TKM,1835,421177
+Turkmenistan,TKM,1836,425042
+Turkmenistan,TKM,1837,428942
+Turkmenistan,TKM,1838,432878
+Turkmenistan,TKM,1839,436851
+Turkmenistan,TKM,1840,440860
+Turkmenistan,TKM,1841,444905
+Turkmenistan,TKM,1842,448988
+Turkmenistan,TKM,1843,453108
+Turkmenistan,TKM,1844,457266
+Turkmenistan,TKM,1845,461462
+Turkmenistan,TKM,1846,465697
+Turkmenistan,TKM,1847,469970
+Turkmenistan,TKM,1848,474283
+Turkmenistan,TKM,1849,478635
+Turkmenistan,TKM,1850,483028
+Turkmenistan,TKM,1851,487438
+Turkmenistan,TKM,1852,491888
+Turkmenistan,TKM,1853,496379
+Turkmenistan,TKM,1854,500912
+Turkmenistan,TKM,1855,505485
+Turkmenistan,TKM,1856,510100
+Turkmenistan,TKM,1857,514758
+Turkmenistan,TKM,1858,519458
+Turkmenistan,TKM,1859,524200
+Turkmenistan,TKM,1860,528986
+Turkmenistan,TKM,1861,533816
+Turkmenistan,TKM,1862,538690
+Turkmenistan,TKM,1863,543609
+Turkmenistan,TKM,1864,548572
+Turkmenistan,TKM,1865,553581
+Turkmenistan,TKM,1866,558635
+Turkmenistan,TKM,1867,563735
+Turkmenistan,TKM,1868,568883
+Turkmenistan,TKM,1869,574077
+Turkmenistan,TKM,1870,579318
+Turkmenistan,TKM,1871,584607
+Turkmenistan,TKM,1872,589945
+Turkmenistan,TKM,1873,595331
+Turkmenistan,TKM,1874,600767
+Turkmenistan,TKM,1875,606252
+Turkmenistan,TKM,1876,611787
+Turkmenistan,TKM,1877,617373
+Turkmenistan,TKM,1878,623010
+Turkmenistan,TKM,1879,628698
+Turkmenistan,TKM,1880,634438
+Turkmenistan,TKM,1881,640231
+Turkmenistan,TKM,1882,646077
+Turkmenistan,TKM,1883,651975
+Turkmenistan,TKM,1884,657928
+Turkmenistan,TKM,1885,663935
+Turkmenistan,TKM,1886,669997
+Turkmenistan,TKM,1887,676114
+Turkmenistan,TKM,1888,682287
+Turkmenistan,TKM,1889,688517
+Turkmenistan,TKM,1890,694803
+Turkmenistan,TKM,1891,701147
+Turkmenistan,TKM,1892,707549
+Turkmenistan,TKM,1893,714009
+Turkmenistan,TKM,1894,720528
+Turkmenistan,TKM,1895,727106
+Turkmenistan,TKM,1896,733745
+Turkmenistan,TKM,1897,740444
+Turkmenistan,TKM,1898,747205
+Turkmenistan,TKM,1899,754027
+Turkmenistan,TKM,1900,760911
+Turkmenistan,TKM,1901,767859
+Turkmenistan,TKM,1902,774869
+Turkmenistan,TKM,1903,781944
+Turkmenistan,TKM,1904,789083
+Turkmenistan,TKM,1905,796288
+Turkmenistan,TKM,1906,803558
+Turkmenistan,TKM,1907,810895
+Turkmenistan,TKM,1908,818298
+Turkmenistan,TKM,1909,825770
+Turkmenistan,TKM,1910,833309
+Turkmenistan,TKM,1911,840917
+Turkmenistan,TKM,1912,848595
+Turkmenistan,TKM,1913,856343
+Turkmenistan,TKM,1914,864162
+Turkmenistan,TKM,1915,872052
+Turkmenistan,TKM,1916,880014
+Turkmenistan,TKM,1917,888048
+Turkmenistan,TKM,1918,896198
+Turkmenistan,TKM,1919,904422
+Turkmenistan,TKM,1920,912721
+Turkmenistan,TKM,1921,921097
+Turkmenistan,TKM,1922,929549
+Turkmenistan,TKM,1923,938080
+Turkmenistan,TKM,1924,946688
+Turkmenistan,TKM,1925,955375
+Turkmenistan,TKM,1926,964142
+Turkmenistan,TKM,1927,972990
+Turkmenistan,TKM,1928,981919
+Turkmenistan,TKM,1929,990929
+Turkmenistan,TKM,1930,1000023
+Turkmenistan,TKM,1931,1009200
+Turkmenistan,TKM,1932,1018461
+Turkmenistan,TKM,1933,1027807
+Turkmenistan,TKM,1934,1037238
+Turkmenistan,TKM,1935,1046757
+Turkmenistan,TKM,1936,1056362
+Turkmenistan,TKM,1937,1066056
+Turkmenistan,TKM,1938,1075839
+Turkmenistan,TKM,1939,1085712
+Turkmenistan,TKM,1940,1095675
+Turkmenistan,TKM,1941,1105729
+Turkmenistan,TKM,1942,1115876
+Turkmenistan,TKM,1943,1126116
+Turkmenistan,TKM,1944,1136450
+Turkmenistan,TKM,1945,1146879
+Turkmenistan,TKM,1946,1157403
+Turkmenistan,TKM,1947,1168024
+Turkmenistan,TKM,1948,1178743
+Turkmenistan,TKM,1949,1194044
+Turkmenistan,TKM,1950,1269184
+Turkmenistan,TKM,1951,1294081
+Turkmenistan,TKM,1952,1320542
+Turkmenistan,TKM,1953,1349681
+Turkmenistan,TKM,1954,1382365
+Turkmenistan,TKM,1955,1418174
+Turkmenistan,TKM,1956,1457212
+Turkmenistan,TKM,1957,1499562
+Turkmenistan,TKM,1958,1545182
+Turkmenistan,TKM,1959,1593426
+Turkmenistan,TKM,1960,1643462
+Turkmenistan,TKM,1961,1695407
+Turkmenistan,TKM,1962,1749224
+Turkmenistan,TKM,1963,1804267
+Turkmenistan,TKM,1964,1860001
+Turkmenistan,TKM,1965,1915919
+Turkmenistan,TKM,1966,1971746
+Turkmenistan,TKM,1967,2027402
+Turkmenistan,TKM,1968,2083075
+Turkmenistan,TKM,1969,2139031
+Turkmenistan,TKM,1970,2195617
+Turkmenistan,TKM,1971,2253123
+Turkmenistan,TKM,1972,2311431
+Turkmenistan,TKM,1973,2370918
+Turkmenistan,TKM,1974,2432032
+Turkmenistan,TKM,1975,2494573
+Turkmenistan,TKM,1976,2558525
+Turkmenistan,TKM,1977,2623946
+Turkmenistan,TKM,1978,2691095
+Turkmenistan,TKM,1979,2760361
+Turkmenistan,TKM,1980,2832201
+Turkmenistan,TKM,1981,2907193
+Turkmenistan,TKM,1982,2985566
+Turkmenistan,TKM,1983,3067535
+Turkmenistan,TKM,1984,3154080
+Turkmenistan,TKM,1985,3247541
+Turkmenistan,TKM,1986,3347813
+Turkmenistan,TKM,1987,3452736
+Turkmenistan,TKM,1988,3559364
+Turkmenistan,TKM,1989,3662464
+Turkmenistan,TKM,1990,3760561
+Turkmenistan,TKM,1991,3855902
+Turkmenistan,TKM,1992,3944689
+Turkmenistan,TKM,1993,4032415
+Turkmenistan,TKM,1994,4116662
+Turkmenistan,TKM,1995,4191207
+Turkmenistan,TKM,1996,4263818
+Turkmenistan,TKM,1997,4336732
+Turkmenistan,TKM,1998,4410511
+Turkmenistan,TKM,1999,4492174
+Turkmenistan,TKM,2000,4582675
+Turkmenistan,TKM,2001,4675416
+Turkmenistan,TKM,2002,4769473
+Turkmenistan,TKM,2003,4863871
+Turkmenistan,TKM,2004,4958091
+Turkmenistan,TKM,2005,5052260
+Turkmenistan,TKM,2006,5147103
+Turkmenistan,TKM,2007,5244047
+Turkmenistan,TKM,2008,5345033
+Turkmenistan,TKM,2009,5451597
+Turkmenistan,TKM,2010,5564356
+Turkmenistan,TKM,2011,5683413
+Turkmenistan,TKM,2012,5808548
+Turkmenistan,TKM,2013,5939348
+Turkmenistan,TKM,2014,6075286
+Turkmenistan,TKM,2015,6215773
+Turkmenistan,TKM,2016,6360041
+Turkmenistan,TKM,2017,6507065
+Turkmenistan,TKM,2018,6655523
+Turkmenistan,TKM,2019,6803943
+Turkmenistan,TKM,2020,6949915
+Turkmenistan,TKM,2021,7092042
+Turkmenistan,TKM,2022,7230197
+Turkmenistan,TKM,2023,7364437
+Turks and Caicos Islands,TCA,1100,1
+Turks and Caicos Islands,TCA,1200,2
+Turks and Caicos Islands,TCA,1300,4
+Turks and Caicos Islands,TCA,1400,9
+Turks and Caicos Islands,TCA,1500,19
+Turks and Caicos Islands,TCA,1600,39
+Turks and Caicos Islands,TCA,1700,79
+Turks and Caicos Islands,TCA,1710,85
+Turks and Caicos Islands,TCA,1720,92
+Turks and Caicos Islands,TCA,1730,100
+Turks and Caicos Islands,TCA,1740,108
+Turks and Caicos Islands,TCA,1750,117
+Turks and Caicos Islands,TCA,1760,127
+Turks and Caicos Islands,TCA,1770,137
+Turks and Caicos Islands,TCA,1780,149
+Turks and Caicos Islands,TCA,1790,161
+Turks and Caicos Islands,TCA,1800,174
+Turks and Caicos Islands,TCA,1810,188
+Turks and Caicos Islands,TCA,1820,195
+Turks and Caicos Islands,TCA,1830,201
+Turks and Caicos Islands,TCA,1840,208
+Turks and Caicos Islands,TCA,1850,215
+Turks and Caicos Islands,TCA,1860,222
+Turks and Caicos Islands,TCA,1870,230
+Turks and Caicos Islands,TCA,1880,238
+Turks and Caicos Islands,TCA,1890,246
+Turks and Caicos Islands,TCA,1900,254
+Turks and Caicos Islands,TCA,1910,263
+Turks and Caicos Islands,TCA,1920,329
+Turks and Caicos Islands,TCA,1930,411
+Turks and Caicos Islands,TCA,1940,514
+Turks and Caicos Islands,TCA,1950,5059
+Turks and Caicos Islands,TCA,1951,5076
+Turks and Caicos Islands,TCA,1952,5038
+Turks and Caicos Islands,TCA,1953,5008
+Turks and Caicos Islands,TCA,1954,5049
+Turks and Caicos Islands,TCA,1955,5157
+Turks and Caicos Islands,TCA,1956,5271
+Turks and Caicos Islands,TCA,1957,5383
+Turks and Caicos Islands,TCA,1958,5468
+Turks and Caicos Islands,TCA,1959,5557
+Turks and Caicos Islands,TCA,1960,5620
+Turks and Caicos Islands,TCA,1961,5643
+Turks and Caicos Islands,TCA,1962,5657
+Turks and Caicos Islands,TCA,1963,5674
+Turks and Caicos Islands,TCA,1964,5681
+Turks and Caicos Islands,TCA,1965,5683
+Turks and Caicos Islands,TCA,1966,5675
+Turks and Caicos Islands,TCA,1967,5684
+Turks and Caicos Islands,TCA,1968,5679
+Turks and Caicos Islands,TCA,1969,5674
+Turks and Caicos Islands,TCA,1970,5686
+Turks and Caicos Islands,TCA,1971,5773
+Turks and Caicos Islands,TCA,1972,5936
+Turks and Caicos Islands,TCA,1973,6112
+Turks and Caicos Islands,TCA,1974,6296
+Turks and Caicos Islands,TCA,1975,6486
+Turks and Caicos Islands,TCA,1976,6677
+Turks and Caicos Islands,TCA,1977,6885
+Turks and Caicos Islands,TCA,1978,7105
+Turks and Caicos Islands,TCA,1979,7327
+Turks and Caicos Islands,TCA,1980,7584
+Turks and Caicos Islands,TCA,1981,7927
+Turks and Caicos Islands,TCA,1982,8316
+Turks and Caicos Islands,TCA,1983,8722
+Turks and Caicos Islands,TCA,1984,9127
+Turks and Caicos Islands,TCA,1985,9545
+Turks and Caicos Islands,TCA,1986,9962
+Turks and Caicos Islands,TCA,1987,10384
+Turks and Caicos Islands,TCA,1988,10800
+Turks and Caicos Islands,TCA,1989,11213
+Turks and Caicos Islands,TCA,1990,11708
+Turks and Caicos Islands,TCA,1991,12328
+Turks and Caicos Islands,TCA,1992,12992
+Turks and Caicos Islands,TCA,1993,13670
+Turks and Caicos Islands,TCA,1994,14368
+Turks and Caicos Islands,TCA,1995,15074
+Turks and Caicos Islands,TCA,1996,15786
+Turks and Caicos Islands,TCA,1997,16505
+Turks and Caicos Islands,TCA,1998,17236
+Turks and Caicos Islands,TCA,1999,17981
+Turks and Caicos Islands,TCA,2000,18754
+Turks and Caicos Islands,TCA,2001,19603
+Turks and Caicos Islands,TCA,2002,20619
+Turks and Caicos Islands,TCA,2003,21749
+Turks and Caicos Islands,TCA,2004,22881
+Turks and Caicos Islands,TCA,2005,24011
+Turks and Caicos Islands,TCA,2006,25146
+Turks and Caicos Islands,TCA,2007,26290
+Turks and Caicos Islands,TCA,2008,27452
+Turks and Caicos Islands,TCA,2009,28610
+Turks and Caicos Islands,TCA,2010,29763
+Turks and Caicos Islands,TCA,2011,30870
+Turks and Caicos Islands,TCA,2012,32152
+Turks and Caicos Islands,TCA,2013,33675
+Turks and Caicos Islands,TCA,2014,35077
+Turks and Caicos Islands,TCA,2015,36632
+Turks and Caicos Islands,TCA,2016,38342
+Turks and Caicos Islands,TCA,2017,39931
+Turks and Caicos Islands,TCA,2018,41580
+Turks and Caicos Islands,TCA,2019,43191
+Turks and Caicos Islands,TCA,2020,44405
+Turks and Caicos Islands,TCA,2021,45262
+Turks and Caicos Islands,TCA,2022,45869
+Turks and Caicos Islands,TCA,2023,46221
+Tuvalu,TUV,1800,2499
+Tuvalu,TUV,1801,2499
+Tuvalu,TUV,1802,2499
+Tuvalu,TUV,1803,2499
+Tuvalu,TUV,1804,2499
+Tuvalu,TUV,1805,2499
+Tuvalu,TUV,1806,2499
+Tuvalu,TUV,1807,2499
+Tuvalu,TUV,1808,2499
+Tuvalu,TUV,1809,2499
+Tuvalu,TUV,1810,2499
+Tuvalu,TUV,1811,2499
+Tuvalu,TUV,1812,2499
+Tuvalu,TUV,1813,2499
+Tuvalu,TUV,1814,2499
+Tuvalu,TUV,1815,2499
+Tuvalu,TUV,1816,2499
+Tuvalu,TUV,1817,2499
+Tuvalu,TUV,1818,2499

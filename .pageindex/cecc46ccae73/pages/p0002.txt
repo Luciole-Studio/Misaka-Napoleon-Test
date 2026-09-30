@@ -1,0 +1,20 @@
+
+
+## 二、同时代议会材料
+
+Hansard是后期整理的当时议会发言记录，本卡读电子正文，不声称亲查手稿或原印张。财政大臣叙述、反对派判断和决议数值应按各自地位引用。网页OCR有断字、错位，下面只使用可明确辨认的段落；对错字不静默修出新数字。
+
+|代号／正式出处|读取定位与所支持的窄主张|URL及保留件|
+|---|---|---|
+|H1　“The Budget”, HC Deb 20 May 1811, vol.20, cc210—223|cc210—211借款须议会认可及获准拨款；cc213—214净评定、实收、欠税；cc214—216股票组合、现金票息、偿债基金和管理费；cc216—223税种与棉花替代争议|https://api.parliament.uk/historic-hansard/commons/1811/may/20/the-budget ；`downloads/pages/bff7e2ccf088.md`|
+|H2　“Separate Charges”, HC Deb 14 June 1815, vol.31, cc799—822|cc801—804贷款组合；cc805—807旧欠款及陆转海；cc809—813 Tierney批评支出估计。最重要：财政大臣承认欧洲安排后可转军费，不证明他赞成法国霸权或其节省预测一定实现|https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges ；`downloads/pages/156d03703582.md`|
+|H3　House of Commons, *Report, together with minutes of evidence, and accounts, from the Select Committee on the High Price of Gold Bullion*, 8 June 1810|**实际只读引言和结论的节录**，原报告pp.1—2、30—33；金条/金币、成色、可出口法律差价，及“两年后恢复”。不是完整证词集|World Gold Council保存的史料节录：https://www.gold.org/sites/default/files/documents/1810jun8.pdf ；`downloads/pages/523f4560156c.md`|
+|H4　“Ways and Means”, HC Deb 28 March 1806, vol.6, cc573—586|cc576—578所得税到10%、银行代扣债息税；是提案讨论与制度交叉核验，非最终审计收入|https://api.parliament.uk/historic-hansard/commons/1806/mar/28/ways-and-means-1 ；`downloads/pages/d34063b29aef.md`|
+|H5　“New Plan of Finance”, HC Deb 29 January 1807, vol.8, cc564—593|c567旧补贴欠款与有条件新增分开；c568税收评定预测；c580剔非经常补贴。表中部分贷款数字OCR错，主文12.2m可辨；1815数字是当时预测不是实绩|https://api.parliament.uk/historic-hansard/commons/1807/jan/29/new-plan-of-finance ；`downloads/pages/995bd30de2bb.md`|
+|H6　“The Budget”, HC Deb 12 May 1809, vol.14, cc530—553|cc530—537海军拨款、奥方汇票；cc541—542未经授权、支付能力和汇率约束；后续有支持及反对援助者|https://api.parliament.uk/historic-hansard/commons/1809/may/12/the-budget ；`downloads/pages/1170b6cb87a9.md`|
+|H7　“Finance Resolutions”, HC Deb 20 June 1809, vol.14, cc1131—1159|决议15，表头Net Produce of the War Taxes，Property Tax截至4月5日年度；1807/09总计与分项未对平，**只用单项**|https://api.parliament.uk/historic-hansard/commons/1809/jun/20/finance-resolutions ；`downloads/pages/d79be65764b5.md`|
+|H8　“Commercial Credit”, HC Deb 11 March 1811, vol.19, cc327—350|cc332—333救助授权6m、有担保及偿还条件；cc338—341 Huskisson认为缺好票据而非单纯缺发行；政府与反对者归因不同|https://api.parliament.uk/historic-hansard/commons/1811/mar/11/commercial-credit ；`downloads/pages/3b8b8e348c6d.md`|
+|H9　“Economy and Retrenchment”, HC Deb 27 June 1821, vol.5, cc1345—1442|cc1349—1351、No.3利息表；明确December年末、UK公众利息及管理费、不含Sinking Fund、引Annual Finance Accounts。本卡没有亲读该原账|https://api.parliament.uk/historic-hansard/commons/1821/jun/27/economy-and-retrenchment ；`downloads/pages/95e29ff1c015.md`|
+|H10　“State of the Public Finances”, HC Deb 9 July 1817, vol.36, cc1336—1365|末尾Grant决议1—4：2月1日funded与1月5日unfunded不同日；短债分项相加与公布合计差£5。前文收入下滑而股价上涨的争论，不能把市价当税收现金|https://api.parliament.uk/historic-hansard/commons/1817/jul/09/state-of-the-public-finances ；`downloads/pages/29727e560586.md`|
+|H11　“Report of the Bullion Committee”, HC Deb 9 May 1811, vol.19, cc1151—1169|末栏第一项75∶151；第16/最后项45∶180。没有把两个表决配反|https://api.parliament.uk/historic-hansard/commons/1811/may/09/report-of-the-bullion-committee ；`downloads/pages/de17c8036944.md`|
+|H12　“Report of the Bullion Committee—Adjourned Debate”, HC Deb 7 May 1811, vol.19, cc919—1012|cc919—920最后项是实际建议，c955说明两年后。未另得第16项完整逐字提案，故不伪造其全文|https://api.parliament.uk/historic-hansard/commons/1811/may/07/report-of-the-bullion-committee ；`downloads/pages/c2fda522376a.md`|

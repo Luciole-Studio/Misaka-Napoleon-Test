@@ -1,0 +1,47 @@
+                                 The Welfare Cost of Autarky:
+
+                  Evidence from the Jeffersonian Trade Embargo, 1807-1809
+
+
+
+1. Introduction
+
+       In theory, the gains from international trade are represented by comparing welfare at the
+
+free trade equilibrium with welfare at the autarky equilibrium. In practice, such a comparison is
+
+almost never feasible because the autarky equilibrium is almost never observed, except in unique
+
+cases. One such case is Japan’s dramatic opening to the world economy in the 1850s, in which
+
+domestic and world prices on comparable commodities exist for the period of Japanese autarky
+
+and later free trade.1 Another exceptional instance is the United States during the period from
+
+December 1807 to March 1809, when Congress imposed a nearly complete embargo on
+
+international commerce at the request of President Thomas Jefferson. Unlike many trade
+
+embargos, this one almost completely eliminated trade and was not compromised by widespread
+
+smuggling.
+
+       The Jeffersonian trade embargo provides a rare opportunity – a “natural experiment” if
+
+you will – to observe the effects of a nearly complete (albeit short-lived) elimination of
+
+international trade. The main objective of this paper is to investigate the impact of the embargo
+
+on the U.S. economy, such as its effect on the prices of traded goods and the degree of import
+
+substitution, as well as provide a rough calculation of its welfare cost. Section 2 provides some
+
+historical background on the embargo and describes its effect on trade. Section 3 sets out the
+
+simple general equilibrium framework for evaluating the welfare effects of the embargo and
+
+describes the data used to provide an estimate of the overall cost of approaching autarky. The
+
+
+       1
+           See Huber (1971) and Bernhofen and Brown (2000).

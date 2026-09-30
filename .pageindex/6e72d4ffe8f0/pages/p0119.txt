@@ -1,0 +1,395 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+Tonga,TON,1918,26702
+Tonga,TON,1919,26962
+Tonga,TON,1920,27259
+Tonga,TON,1921,27597
+Tonga,TON,1922,27974
+Tonga,TON,1923,28392
+Tonga,TON,1924,28817
+Tonga,TON,1925,29247
+Tonga,TON,1926,29685
+Tonga,TON,1927,30129
+Tonga,TON,1928,30579
+Tonga,TON,1929,31043
+Tonga,TON,1930,31521
+Tonga,TON,1931,32013
+Tonga,TON,1932,32520
+Tonga,TON,1933,33041
+Tonga,TON,1934,33571
+Tonga,TON,1935,34109
+Tonga,TON,1936,34656
+Tonga,TON,1937,35212
+Tonga,TON,1938,35776
+Tonga,TON,1939,36454
+Tonga,TON,1940,37250
+Tonga,TON,1941,38168
+Tonga,TON,1942,39215
+Tonga,TON,1943,40396
+Tonga,TON,1944,41613
+Tonga,TON,1945,42866
+Tonga,TON,1946,44157
+Tonga,TON,1947,45487
+Tonga,TON,1948,46856
+Tonga,TON,1949,48303
+Tonga,TON,1950,49679
+Tonga,TON,1951,50973
+Tonga,TON,1952,52379
+Tonga,TON,1953,53895
+Tonga,TON,1954,55536
+Tonga,TON,1955,57277
+Tonga,TON,1956,59118
+Tonga,TON,1957,60901
+Tonga,TON,1958,62601
+Tonga,TON,1959,64368
+Tonga,TON,1960,66187
+Tonga,TON,1961,68054
+Tonga,TON,1962,69958
+Tonga,TON,1963,71904
+Tonga,TON,1964,73891
+Tonga,TON,1965,75942
+Tonga,TON,1966,78019
+Tonga,TON,1967,79831
+Tonga,TON,1968,81367
+Tonga,TON,1969,82905
+Tonga,TON,1970,84416
+Tonga,TON,1971,85914
+Tonga,TON,1972,87369
+Tonga,TON,1973,88818
+Tonga,TON,1974,90699
+Tonga,TON,1975,93032
+Tonga,TON,1976,95343
+Tonga,TON,1977,96740
+Tonga,TON,1978,97222
+Tonga,TON,1979,97564
+Tonga,TON,1980,97785
+Tonga,TON,1981,97930
+Tonga,TON,1982,98000
+Tonga,TON,1983,98016
+Tonga,TON,1984,98008
+Tonga,TON,1985,98000
+Tonga,TON,1986,98025
+Tonga,TON,1987,98394
+Tonga,TON,1988,98985
+Tonga,TON,1989,99419
+Tonga,TON,1990,99717
+Tonga,TON,1991,99911
+Tonga,TON,1992,100045
+Tonga,TON,1993,100120
+Tonga,TON,1994,100187
+Tonga,TON,1995,100240
+Tonga,TON,1996,100294
+Tonga,TON,1997,100691
+Tonga,TON,1998,101406
+Tonga,TON,1999,102058
+Tonga,TON,2000,102695
+Tonga,TON,2001,103305
+Tonga,TON,2002,103888
+Tonga,TON,2003,104481
+Tonga,TON,2004,105088
+Tonga,TON,2005,105684
+Tonga,TON,2006,106266
+Tonga,TON,2007,106744
+Tonga,TON,2008,107036
+Tonga,TON,2009,107219
+Tonga,TON,2010,107415
+Tonga,TON,2011,107584
+Tonga,TON,2012,107476
+Tonga,TON,2013,107093
+Tonga,TON,2014,106627
+Tonga,TON,2015,106110
+Tonga,TON,2016,105536
+Tonga,TON,2017,105373
+Tonga,TON,2018,105590
+Tonga,TON,2019,105688
+Tonga,TON,2020,105721
+Tonga,TON,2021,105504
+Tonga,TON,2022,105053
+Tonga,TON,2023,104613
+Trinidad and Tobago,TTO,900,1
+Trinidad and Tobago,TTO,1000,3
+Trinidad and Tobago,TTO,1100,7
+Trinidad and Tobago,TTO,1200,14
+Trinidad and Tobago,TTO,1300,28
+Trinidad and Tobago,TTO,1400,57
+Trinidad and Tobago,TTO,1500,115
+Trinidad and Tobago,TTO,1600,231
+Trinidad and Tobago,TTO,1700,462
+Trinidad and Tobago,TTO,1710,693
+Trinidad and Tobago,TTO,1720,1040
+Trinidad and Tobago,TTO,1730,1560
+Trinidad and Tobago,TTO,1740,2341
+Trinidad and Tobago,TTO,1750,3511
+Trinidad and Tobago,TTO,1760,5267
+Trinidad and Tobago,TTO,1770,7901
+Trinidad and Tobago,TTO,1780,11851
+Trinidad and Tobago,TTO,1790,17777
+Trinidad and Tobago,TTO,1800,20000
+Trinidad and Tobago,TTO,1801,21129
+Trinidad and Tobago,TTO,1802,22322
+Trinidad and Tobago,TTO,1803,23583
+Trinidad and Tobago,TTO,1804,24915
+Trinidad and Tobago,TTO,1805,26321
+Trinidad and Tobago,TTO,1806,27808
+Trinidad and Tobago,TTO,1807,29378
+Trinidad and Tobago,TTO,1808,31037
+Trinidad and Tobago,TTO,1809,32789
+Trinidad and Tobago,TTO,1810,34746
+Trinidad and Tobago,TTO,1811,36708
+Trinidad and Tobago,TTO,1812,38780
+Trinidad and Tobago,TTO,1813,40970
+Trinidad and Tobago,TTO,1814,43284
+Trinidad and Tobago,TTO,1815,45728
+Trinidad and Tobago,TTO,1816,48310
+Trinidad and Tobago,TTO,1817,51038
+Trinidad and Tobago,TTO,1818,53920
+Trinidad and Tobago,TTO,1819,56403
+Trinidad and Tobago,TTO,1820,58458
+Trinidad and Tobago,TTO,1821,60057
+Trinidad and Tobago,TTO,1822,61167
+Trinidad and Tobago,TTO,1823,61757
+Trinidad and Tobago,TTO,1824,62352
+Trinidad and Tobago,TTO,1825,62953
+Trinidad and Tobago,TTO,1826,63559
+Trinidad and Tobago,TTO,1827,64172
+Trinidad and Tobago,TTO,1828,64790
+Trinidad and Tobago,TTO,1829,65414
+Trinidad and Tobago,TTO,1830,66045
+Trinidad and Tobago,TTO,1831,66681
+Trinidad and Tobago,TTO,1832,67323
+Trinidad and Tobago,TTO,1833,67972
+Trinidad and Tobago,TTO,1834,68627
+Trinidad and Tobago,TTO,1835,69288
+Trinidad and Tobago,TTO,1836,69956
+Trinidad and Tobago,TTO,1837,70630
+Trinidad and Tobago,TTO,1838,71311
+Trinidad and Tobago,TTO,1839,71998
+Trinidad and Tobago,TTO,1840,72692
+Trinidad and Tobago,TTO,1841,73392
+Trinidad and Tobago,TTO,1842,74099
+Trinidad and Tobago,TTO,1843,74813
+Trinidad and Tobago,TTO,1844,75534
+Trinidad and Tobago,TTO,1845,76262
+Trinidad and Tobago,TTO,1846,76997
+Trinidad and Tobago,TTO,1847,77738
+Trinidad and Tobago,TTO,1848,78488
+Trinidad and Tobago,TTO,1849,79434
+Trinidad and Tobago,TTO,1850,80585
+Trinidad and Tobago,TTO,1851,81976
+Trinidad and Tobago,TTO,1852,83584
+Trinidad and Tobago,TTO,1853,85417
+Trinidad and Tobago,TTO,1854,87289
+Trinidad and Tobago,TTO,1855,89203
+Trinidad and Tobago,TTO,1856,91159
+Trinidad and Tobago,TTO,1857,93157
+Trinidad and Tobago,TTO,1858,95199
+Trinidad and Tobago,TTO,1859,97311
+Trinidad and Tobago,TTO,1860,99494
+Trinidad and Tobago,TTO,1861,101750
+Trinidad and Tobago,TTO,1862,104082
+Trinidad and Tobago,TTO,1863,106492
+Trinidad and Tobago,TTO,1864,108958
+Trinidad and Tobago,TTO,1865,111481
+Trinidad and Tobago,TTO,1866,114063
+Trinidad and Tobago,TTO,1867,116704
+Trinidad and Tobago,TTO,1868,119406
+Trinidad and Tobago,TTO,1869,122418
+Trinidad and Tobago,TTO,1870,125755
+Trinidad and Tobago,TTO,1871,129433
+Trinidad and Tobago,TTO,1872,133469
+Trinidad and Tobago,TTO,1873,137880
+Trinidad and Tobago,TTO,1874,142436
+Trinidad and Tobago,TTO,1875,147143
+Trinidad and Tobago,TTO,1876,152006
+Trinidad and Tobago,TTO,1877,157029
+Trinidad and Tobago,TTO,1878,162218
+Trinidad and Tobago,TTO,1879,167300
+Trinidad and Tobago,TTO,1880,172262
+Trinidad and Tobago,TTO,1881,177095
+Trinidad and Tobago,TTO,1882,181787
+Trinidad and Tobago,TTO,1883,186325
+Trinidad and Tobago,TTO,1884,190976
+Trinidad and Tobago,TTO,1885,195743
+Trinidad and Tobago,TTO,1886,200630
+Trinidad and Tobago,TTO,1887,205638
+Trinidad and Tobago,TTO,1888,210771
+Trinidad and Tobago,TTO,1889,215868
+Trinidad and Tobago,TTO,1890,220924
+Trinidad and Tobago,TTO,1891,225934
+Trinidad and Tobago,TTO,1892,230895
+Trinidad and Tobago,TTO,1893,235800
+Trinidad and Tobago,TTO,1894,240809
+Trinidad and Tobago,TTO,1895,245925
+Trinidad and Tobago,TTO,1896,251149
+Trinidad and Tobago,TTO,1897,256484
+Trinidad and Tobago,TTO,1898,261932
+Trinidad and Tobago,TTO,1899,267522
+Trinidad and Tobago,TTO,1900,273257
+Trinidad and Tobago,TTO,1901,279141
+Trinidad and Tobago,TTO,1902,285178
+Trinidad and Tobago,TTO,1903,291371
+Trinidad and Tobago,TTO,1904,297698
+Trinidad and Tobago,TTO,1905,304163
+Trinidad and Tobago,TTO,1906,310768
+Trinidad and Tobago,TTO,1907,317517
+Trinidad and Tobago,TTO,1908,324412
+Trinidad and Tobago,TTO,1909,331114
+Trinidad and Tobago,TTO,1910,337613
+Trinidad and Tobago,TTO,1911,343899
+Trinidad and Tobago,TTO,1912,349962
+Trinidad and Tobago,TTO,1913,355789
+Trinidad and Tobago,TTO,1914,361714
+Trinidad and Tobago,TTO,1915,367737
+Trinidad and Tobago,TTO,1916,373861
+Trinidad and Tobago,TTO,1917,380086
+Trinidad and Tobago,TTO,1918,386273
+Trinidad and Tobago,TTO,1919,391584
+Trinidad and Tobago,TTO,1920,396002
+Trinidad and Tobago,TTO,1921,399507
+Trinidad and Tobago,TTO,1922,402081
+Trinidad and Tobago,TTO,1923,403705
+Trinidad and Tobago,TTO,1924,405336
+Trinidad and Tobago,TTO,1925,406973
+Trinidad and Tobago,TTO,1926,408616
+Trinidad and Tobago,TTO,1927,410267
+Trinidad and Tobago,TTO,1928,411924
+Trinidad and Tobago,TTO,1929,414604
+Trinidad and Tobago,TTO,1930,418330
+Trinidad and Tobago,TTO,1931,423120
+Trinidad and Tobago,TTO,1932,428997
+Trinidad and Tobago,TTO,1933,435983
+Trinidad and Tobago,TTO,1934,443083
+Trinidad and Tobago,TTO,1935,450298
+Trinidad and Tobago,TTO,1936,457631
+Trinidad and Tobago,TTO,1937,465083
+Trinidad and Tobago,TTO,1938,472657
+Trinidad and Tobago,TTO,1939,481571
+Trinidad and Tobago,TTO,1940,491882
+Trinidad and Tobago,TTO,1941,503649
+Trinidad and Tobago,TTO,1942,516932
+Trinidad and Tobago,TTO,1943,531796
+Trinidad and Tobago,TTO,1944,547086
+Trinidad and Tobago,TTO,1945,562817
+Trinidad and Tobago,TTO,1946,578999
+Trinidad and Tobago,TTO,1947,595647
+Trinidad and Tobago,TTO,1948,612773
+Trinidad and Tobago,TTO,1949,630424
+Trinidad and Tobago,TTO,1950,648778
+Trinidad and Tobago,TTO,1951,665740
+Trinidad and Tobago,TTO,1952,683442
+Trinidad and Tobago,TTO,1953,701870
+Trinidad and Tobago,TTO,1954,721160
+Trinidad and Tobago,TTO,1955,741247
+Trinidad and Tobago,TTO,1956,761692
+Trinidad and Tobago,TTO,1957,782511
+Trinidad and Tobago,TTO,1958,803842
+Trinidad and Tobago,TTO,1959,825021
+Trinidad and Tobago,TTO,1960,844952
+Trinidad and Tobago,TTO,1961,863152
+Trinidad and Tobago,TTO,1962,880205
+Trinidad and Tobago,TTO,1963,896812
+Trinidad and Tobago,TTO,1964,912972
+Trinidad and Tobago,TTO,1965,928433
+Trinidad and Tobago,TTO,1966,942947
+Trinidad and Tobago,TTO,1967,956429
+Trinidad and Tobago,TTO,1968,969006
+Trinidad and Tobago,TTO,1969,980713
+Trinidad and Tobago,TTO,1970,991480
+Trinidad and Tobago,TTO,1971,1002588
+Trinidad and Tobago,TTO,1972,1014927
+Trinidad and Tobago,TTO,1973,1027860
+Trinidad and Tobago,TTO,1974,1040768
+Trinidad and Tobago,TTO,1975,1053468
+Trinidad and Tobago,TTO,1976,1066314
+Trinidad and Tobago,TTO,1977,1079560
+Trinidad and Tobago,TTO,1978,1093393
+Trinidad and Tobago,TTO,1979,1107652
+Trinidad and Tobago,TTO,1980,1121750
+Trinidad and Tobago,TTO,1981,1135140
+Trinidad and Tobago,TTO,1982,1147932
+Trinidad and Tobago,TTO,1983,1160537
+Trinidad and Tobago,TTO,1984,1172985
+Trinidad and Tobago,TTO,1985,1187370
+Trinidad and Tobago,TTO,1986,1203132
+Trinidad and Tobago,TTO,1987,1217367
+Trinidad and Tobago,TTO,1988,1230071
+Trinidad and Tobago,TTO,1989,1241606
+Trinidad and Tobago,TTO,1990,1252215
+Trinidad and Tobago,TTO,1991,1262174
+Trinidad and Tobago,TTO,1992,1271681
+Trinidad and Tobago,TTO,1993,1280474
+Trinidad and Tobago,TTO,1994,1288353
+Trinidad and Tobago,TTO,1995,1295167
+Trinidad and Tobago,TTO,1996,1300937
+Trinidad and Tobago,TTO,1997,1305838
+Trinidad and Tobago,TTO,1998,1310226
+Trinidad and Tobago,TTO,1999,1314711
+Trinidad and Tobago,TTO,2000,1319781
+Trinidad and Tobago,TTO,2001,1325573
+Trinidad and Tobago,TTO,2002,1332017
+Trinidad and Tobago,TTO,2003,1338718
+Trinidad and Tobago,TTO,2004,1345386
+Trinidad and Tobago,TTO,2005,1352040
+Trinidad and Tobago,TTO,2006,1358706
+Trinidad and Tobago,TTO,2007,1365381
+Trinidad and Tobago,TTO,2008,1372090
+Trinidad and Tobago,TTO,2009,1379056
+Trinidad and Tobago,TTO,2010,1386657
+Trinidad and Tobago,TTO,2011,1394990
+Trinidad and Tobago,TTO,2012,1403814
+Trinidad and Tobago,TTO,2013,1412658
+Trinidad and Tobago,TTO,2014,1421135
+Trinidad and Tobago,TTO,2015,1429190
+Trinidad and Tobago,TTO,2016,1437031
+Trinidad and Tobago,TTO,2017,1445265
+Trinidad and Tobago,TTO,2018,1470522
+Trinidad and Tobago,TTO,2019,1484898
+Trinidad and Tobago,TTO,2020,1481026
+Trinidad and Tobago,TTO,2021,1487715
+Trinidad and Tobago,TTO,2022,1495923
+Trinidad and Tobago,TTO,2023,1502938
+Tunisia,TUN,-10000,4837
+Tunisia,TUN,-9000,8062
+Tunisia,TUN,-8000,13436
+Tunisia,TUN,-7000,22394
+Tunisia,TUN,-6000,37324
+Tunisia,TUN,-5000,62208
+Tunisia,TUN,-4000,103680
+Tunisia,TUN,-3000,172800
+Tunisia,TUN,-2000,288000
+Tunisia,TUN,-1000,480000
+Tunisia,TUN,0,800000
+Tunisia,TUN,100,900000
+Tunisia,TUN,200,1000000
+Tunisia,TUN,300,950000
+Tunisia,TUN,400,900000
+Tunisia,TUN,500,850000
+Tunisia,TUN,600,800000
+Tunisia,TUN,700,800000
+Tunisia,TUN,800,950000
+Tunisia,TUN,900,975000
+Tunisia,TUN,1000,1000000
+Tunisia,TUN,1100,950000
+Tunisia,TUN,1200,1000000
+Tunisia,TUN,1300,1000000
+Tunisia,TUN,1400,800000
+Tunisia,TUN,1500,800000
+Tunisia,TUN,1600,1000000
+Tunisia,TUN,1700,800000
+Tunisia,TUN,1710,817655
+Tunisia,TUN,1720,830071
+Tunisia,TUN,1730,843233
+Tunisia,TUN,1740,857221
+Tunisia,TUN,1750,872130
+Tunisia,TUN,1760,888071
+Tunisia,TUN,1770,905174
+Tunisia,TUN,1780,923595
+Tunisia,TUN,1790,943520
+Tunisia,TUN,1800,800000
+Tunisia,TUN,1801,803593
+Tunisia,TUN,1802,807201
+Tunisia,TUN,1803,810826
+Tunisia,TUN,1804,814467
+Tunisia,TUN,1805,818125
+Tunisia,TUN,1806,821799
+Tunisia,TUN,1807,825489

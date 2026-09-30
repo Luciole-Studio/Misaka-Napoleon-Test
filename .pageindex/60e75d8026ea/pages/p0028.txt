@@ -1,0 +1,37 @@
+eastern border. As such, it is not highly correlated with the trade cost shock and does not
+affect the coefficient of interest in a quantitatively important way. Finally, Columns (6)-(7)
+show that the results are robust to including both internal and external measures of market
+potential simultaneously.
+
+
+4.5    Placebo tests
+The disruption to trade took place during a turbulent period of French history. The second
+main concern in terms of identification is the extent to which the estimated effect is indeed
+driven by differential trade protection as opposed to unobservables correlated with the trade
+cost shock. The previous section considered a number of specific shocks that could have
+confounded the effect of interest. To gain a better understanding of the forces driving my
+results, I conducted a number of placebo tests. Furthermore, in the following section, I
+will use the trade cost shock as an instrument for the post-blockade location of mechanized
+cotton-spinning capacity. The results presented here also build evidence for the exclusion
+restriction, which requires that the shock affects the long-term outcome variables of interest
+only through its effect on spinning capacity.
+    Table 3 presents these results. Columns (1) - (3) estimates the effect of the trade cost
+shock on spinning capacity in the pre-treatment period between 1794-1803. In the absence
+of similar data for this period, I have constructed an approximation to spindles in 1794. By
+exploiting the fact that the firm level data observed in 1803 and 1806 contain the date the
+firm was founded, we know which firms were already active in 1794. Using this information,
+I approximate spinning capacity at the departmental level in 1794 by using spinning capacity
+in 1803 for firms already active in 1794. This assumes that all growth in spinning capacity
+took place on the extensive margin of firm entry and that firms did not go bankrupt, neither
+of which are likely to hold. However, to the extent that results from Table A.5 for the
+period 1803-06 are representative more generally, we should expect the extensive margin to
+be the quantitatively more important way in which departments increased spinning capacity.
+Column (1) estimates the baseline regression for the pre-treatment period. The estimated
+coefficient is small and statistically significant at 5 percent. As Columns (2) and (3) show,
+the effect is spurious, and seems to be driven by omitting the time-varying effect of market
+potential. Inclusion of this variable decreases the point estimate on the trade cost shock
+which is no longer differentiable statistically from zero.
+    Columns (4) and (5) investigate the extent to which other variables of interest in mech-
+anized cotton spinning were affected by the trade cost shock. This is important as it helps
+
+                                             28

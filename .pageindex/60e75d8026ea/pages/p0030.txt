@@ -1,0 +1,46 @@
+two other industries, wool yarn (a direct substitute) and leather.39 Both products were less
+intensively traded with Britain, and there was no technological change in either industry.40
+For these reasons, the trade shock should not have had a significant effect on the spatial
+distribution of activity, which is precisely what I find. This provides further evidence that
+the mechanism driving the results is decreased import competition from the technological
+leader, Britain.41
+
+
+5     Long-term Empirical Strategy and Results
+The previous section established that trade protection from Britain had a positive effect
+on mechanized cotton spinning capacity in the short-run, while protection lasted. In this
+section, I turn to examining the long-run effects of temporary trade protection. First, I
+examine outcomes within France by exploiting exogenous variation in post-blockade spinning
+capacity. While trading routes with Britain were restored to their post-blockade level after
+the Napoleonic Wars drew to a close, tariff and non-tariff trade barriers were put in place
+between the two countries (O’Rourke and Williamson, 2001). For this reason, I also examine
+exporting outcomes for France as a whole to establish the extent to which a subset of firms
+had become sufficiently productive to export.
+
+
+5.1     Within country outcomes
+An infant industry mechanism would predict that temporary trade protection renders a
+location profitable for production not only in the short-term, while protection lasts, but
+also in the long-term, once protection is removed.42 To test these predictions, I compare
+outcomes in the 19th and 20th century in regions which had higher or lower post-blockade
+  39
+     It should be noted that pre-treatment data for these industries is observed in 1792 (woolen spinning)
+and 1794 (leather tanning), rather than in 1803 as is the case for cotton.
+  40
+     Appendix A.1.2 provides additional details on these industries in support of these statements.
+  41
+     Appendix A.4 contains further robustness checks. In Table A.9, I show that the results are robust to
+the inclusion of time-varying controls for the historical location of cotton manufacturing, the location of
+downstream weaving, year of incorporation into the French Empire (proxying for both institutional change
+and access to a large, internal market), conscription rates (exploring whether results are driven by a spatially
+uneven negative labor supply shock unevenly pushing firms into mechanization through factor price effects)
+and distance to the nearest Atlantic trading port.
+  42
+     Whether the industry becomes competitive in the long-run is partly a question of whether protection
+lasts for a sufficiently long time. For example, in the case of a learning-by-doing externality, the size of
+the initial productivity gap and the speed of learning would determine how long protection needs to last.
+Whether this holds true in this setting is an empirical question.
+
+
+
+                                                      30

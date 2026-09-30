@@ -1,0 +1,27 @@
+                                                   Table 13: Shooting Clubs
+
+                                            (1)                      (2)                    (3)                             (4)
+                                                                        No. of Clubs founded
+                                      1700 – 1750                1750 – 1800            1800 – 1850                   1850 – 1900
+
+
+                                                                                 Panel A
+      Code Civil                          -0.147                   -0.500**                  -2.782***                   1.954*
+                                         (0.284)                    (0.221)                    (0.873)                   (1.142)
+
+                                                                                 Panel B
+      Code Civil                                                   -0.434**                  -2.055***                  3.361***
+                                                                    (0.181)                   (0.722)                    (1.070)
+      Lagged No Clubs                                              0.447***                  1.124***                   0.410***
+                                                                    (0.057)                   (0.142)                    (0.078)
+
+      Observations                         128                        128                       128                        128
+
+Notes: OLS regressions. Dependent variable are the number of clubs founded per district. Code Civil equals 1 for districts belonging to the
+province Rhineland, and 0 for districts belonging to Westphalia.
+Source: Plett, W. (1991). Standard errors in parentheses. ∗ p < 0.10, ∗∗ p < 0.05, ∗∗∗ p < 0.01
+
+
+
+
+                                                                   45

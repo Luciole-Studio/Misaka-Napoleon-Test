@@ -1,0 +1,61 @@
+   In our empirical analysis, we are careful to make sure that our results are robust to controlling
+
+for any potential effects of other New World staple crops.
+
+
+3. Data
+
+A. Crop Suitability
+
+Our analysis uses a measure of a region’s suitability for growing potatoes, as well as measures of
+
+the suitability of Old and other New World staple crops. To construct these variables, we rely on
+
+data from the FAO’s Global Agro-Ecological Zones (GAEZ) 2000 database. The data measure the
+
+suitability for cultivating individuals crops at a very disaggregated geographic level.
+
+   The construction of the FAO’s GAEZ database occurred in two stages. The FAO first collected
+
+information on the characteristics of 154 different crops. These data were used to determine what
+
+environmental conditions are required for the cultivation of each crop. The FAO then compiled
+
+data on the physical environment of 2.2 million grid-cells, spanning the entire globe. Each grid-cell
+
+is 0.5 degrees by 0.5 degrees, which is approximately 56 kilometers by 56 kilometers (measured at
+
+the equator). The primary characteristics used are climatic and are taken from a global climatic
+
+database that has been compiled by the Climate Research Unit (CRU) at the University of East
+
+Anglia. In total, nine variables from the global climatic database are used by the FAO: precipitation,
+
+frequency of wet days, mean temperature, diurnal (i.e. daily) temperature range, vapor pressure,
+
+cloud cover, sunshine, ground-frost frequency, and wind speed. The second set of characteristics
+
+are land characteristics and are taken from the FAO’s Digit Soil Map of the World (DSMW), except
+
+for the information on the slope of soils, which are from the GTOPO30 Database developed at the
+
+U.S. Geological Survey (USGS) EROS Data Center.
+
+   Combining the information on the constraints for the cultivation of each crop with the data on
+
+the physical environment of each grid-cell, the FAO calculated an estimate of the potential yield
+
+of each crop in each grid cell, given an assumed level of crop management and input use. This
+
+process involved a number of detailed steps, which we briefly summarize here.
+
+   First, for each grid-cell and crop, the FAO identified the days of the year when the moisture
+
+and thermal (i.e., temperature) requirements of the crop are met. With this information, the FAO
+
+determined the exact starting and ending dates of the length of growing period (LGP) for each
+
+
+
+
+                                                 11

@@ -1,0 +1,42 @@
+financial needs during the Napoleonic Wars.
+
+
+The above contributions analyze the part of the nominal interest rate that reflects the
+real expected interest rate. Although Bordo and Kydland (1995) demonstrate why long-
+term inflationary expectations could have been stable over the period, there is no series
+available that could definitely corroborate this hypothesis. In the absence of such evi-
+dence, movements in interest rates may also reflect changes in anticipated inflation or
+the default premium (Barro, 1987). This is my underlying assumption for what follows,
+as it has been the case for Calomiris (1988), Frey and Kucher (2000), Guinnane et al.
+(1996), and Webb (1986).
+
+
+
+
+4    Course of Events
+
+The Onset of Convertibility Suspension: Changing Money Demand
+
+
+The Reign of Robespierre in France in early 1793 had produced a sharp outflow of capi-
+tal, inducing silver and gold to leave France for Britain (Neal, 1991; Sargent and Velde,
+1995). This had provided ample liquidity for the British banking system. When the
+assignats collapsed in France in 1795, money for ordinary payments became short and
+those with claims or credit in Britain drew on them to fill the gap. The ensuing outflow
+of capital put deflationary pressure on Britain (Kindleberger, 1984).
+
+
+Gold outflows induced supply shortage and, thus, an increase in the market price of gold.
+Yet, under convertibility, gold still exchanged into bank notes for the same predetermined
+amount of pounds. In itself, this discrepancy in value (mint versus market) implied an
+incentive to convert even more bank notes into gold. Under these circumstances, minor
+French military actions triggered a bank run aiming at converting bank notes into gold
+specie (Chadha and Newby, 2013). The consequences of that run were felt throughout
+the country, putting numerous (country) banks out of business (Feavearyear, 1964).
+
+
+Subsequently, on 27 February 1797 the Bank of England (BoE henceforth) was given
+permission, to cease payment of its notes in gold, before running out of reserves. With
+
+
+                                           11

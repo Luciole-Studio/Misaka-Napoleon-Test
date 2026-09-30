@@ -1,0 +1,76 @@
+---
+source_url: "https://fr.wikisource.org/wiki/Mes_souvenirs_sur_Napol%C3%A9on/Texte_entier"
+final_url: "https://fr.wikisource.org/wiki/Mes_souvenirs_sur_Napol%C3%A9on/Texte_entier"
+provider: "exa"
+text_sha256: "89861c67794bf2b9bc4e84812a2bb57b0711dd81dd51728dca807b74417583ed"
+title: "Mes souvenirs sur Napol\u00e9on/Texte entier - Wikisource"
+content_kind: "page_text"
+---
+
+Mes souvenirs sur Napoléon/Texte entier - Wikisource
+
+< Mes souvenirs sur Napoléon
+
+Mes souvenirs sur Napoléon
+
+Texte établi par Emmanuel Chaptal, Librairie Plon, 1893 (p. 1--).
+
+book Mes souvenirs sur Napoléon Jean-Antoine Chaptal Librairie Plon 1893ParisTChaptal - Mes souvenirs sur Napoléon.djvuChaptal - Mes souvenirs sur Napoléon.djvu/51--
+
+MES SOUVENIRS
+
+sur
+
+NAPOLÉON
+
+L’auteur et les éditeurs déclarent réserver leurs droits de reproduction et de traduction en France et à l’étranger.
+
+Ce volume a été déposé au ministère de l’intérieur (section de la librairie) en avril 1893. MES SOUVENIRS
+
+SUR
+
+NAPOLÉON
+
+PAR LE
+
+CTE CHAPTAL
+
+PUBLIÉS PAR SON ARRIÈRE-PETIT-FILS
+
+LE Vte An. CHAPTAL
+
+secrétaire d’ambassade
+
+---
+
+Portrait en héliogravure
+
+PARIS
+
+LIBRAIRIE PLON
+
+E. PLON, NOURRIT et Cie, IMPRIMEURS-ÉDITEURS
+
+RUE GARANCIÈRE, 10
+
+---
+
+1893
+
+INTRODUCTION
+
+LA VIE ET L’ŒUVRE DE CHAPTAL
+
+mémoires personnels rédigés par lui-mêmede 1756 à 1804continués, d’après ses notes, par son arrière-petit-filsjusqu’en 1832.
+
+---
+
+I1756-1804
+
+Je suis né à Nojaret, département de la Lozère (ci-devant Gévaudan), le 3 juin 1756.
+
+Mes parents étaient de riches et honnêtes propriétaires, qui jouissaient de l’estime et de la vénération publiques : leur maison était l’asile des pauvres ; leur conduite, la règle et l’exemple de la contrée, et leurs conseils étaient toujours la loi suprême pour tous les habitants. Depuis cent cinquante ans, l’aîné de la famille restait attaché à la culture des domaines, et les cadets embrassaient l’état ecclésiastique, la profession d’avocat ou celle de médecin.
+
+La profession de médecin était généralement préférée, et cette vocation était surtout décidée par plusieurs ouvrages de médecine et d’histoire naturelle qui existaient dans la maison et dans lesquels on lisait de préférence à tout autres. Je me suis souvent reporté moi-même par la pensée à ce premier âge, où, à peine instruit dans les éléments de la lecture, je prenais un plaisir tout particulier à feuilleter un Aristote qui m’était tombé sous la main. Cet ouvrage piquait particulièrement ma curiosité par de mauvaises gravures en bois qui reproduisaient les principaux animaux. Je me rappelle même qu’à l’insu de mes parents j’en détachai quelques gravures que je calquai assez grossièrement, et que j’avais ensuite la petite vanité de présenter comme des dessins d’après nature.
+
+Mon éducation fut peu soignée jusqu’à l’âge de dix ans ; à cette époque, je fus placé chez un bénéficier de la cathédrale de Mende, appelé M. Caylar ; ce prêtre, qui ne savait guère qu’un peu de latin, m’initia d’abord dans les principes de cette langue et me mit dans le cas d’entrer au collège des Doctrinaires de cette ville, où je débutai par la cinquième. Mes progrès furent assez rapides, et, en peu de temps, je parvins à être un des premiers de ma classe. M. Caylar surveillait mes études, excitait mon émulation, me faisait parler latin dans la conversation et tirait vanité de quelque facilité que j’avais, avec une pédanterie qui, même à cette époque, me paraissait fort ridicule.

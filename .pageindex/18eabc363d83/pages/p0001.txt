@@ -1,0 +1,16 @@
+{
+  "method": "exact integer sums and Fraction thresholds only; no estimated historical model",
+  "input_hashes": {
+    "nodes/r_b55f2c1cf5/cards/t_104134/c2_series.csv": "dc74359ee5ac19c3cea7a1f86dc81d021aff441daf416ef75c277554e5ba5f54",
+    "nodes/r_b55f2c1cf5/cards/t_104134/c2_gaps.csv": "d0bc3e5672beb70301aaad5bc07c4b46098ef15c79fb0fc723eeea4e0484f66c",
+    "nodes/r_b55f2c1cf5/cards/t_104134/manpower/late_supply_addendum.md": "157f09ce5626dc8cc0e767025a385cff6c7173e269264df4aa40bde5607a703e"
+  },
+  "outputs": {
+    "c3_calibration.csv": "822ef7f59831ab0f9c6b42513dd6d84423f373013e2ed8a324d20a2431f9c832",
+    "c3_quality_thresholds.csv": "eeb94bc9531eca8327afc2ff6e35c6e6424de4423c1110f117d13319a4a64bb0",
+    "c3_scenarios.csv": "c5fc830ea7c869fd785d557aa280da50a233fa676f949c5890ed9ed2e7108d80",
+    "c3_thresholds.csv": "edc195239053feb545d78b1443e1f2b82cf234d98f9403ab7bbb725597aec704"
+  },
+  "annual_rows": 112,
+  "tests": "passed sums, row count, no fabricated ratios, branch inheritance"
+}

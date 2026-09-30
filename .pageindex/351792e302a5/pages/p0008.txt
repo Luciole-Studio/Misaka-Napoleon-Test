@@ -1,0 +1,53 @@
+
+
+***The trade statistics, as already explained in part 2 of the present paper, have been homogenized with conversions to tons and French Francs.***
+
+**3.2. SHIPPING**
+
+There are 21 Excel files with four sheets for each of the 21 port-cities for which we have found shipping data:
+
+The northern coast include the following sub-regions: `bold "northern coast"`
+
+Crimea which include the following three ports: `bold "Crimea"`
+
+Evpatoria (1824-1914)
+
+Sevastopol (1860-1914)
+
+Theodosia (1824-1914)
+
+the region of northern western coast referring to the ports `bold "northern western coast"`
+
+Odessa (1825-1914)
+
+Nikolayev (1847-1914)
+
+The eastern coast of the Black sea include the following two ports: `bold "eastern coast"`
+
+Novorossiysk (1852-1914)
+
+Batumi (1878-1914)
+
+and the Azov sea which include the following five ports: `bold "Azov sea"`
+
+Mariupol (1842-1914)
+
+Rostov on Don (1842-1914)
+
+Taganrog (1824-1914)
+
+Kertch (1824-1914)
+
+Berdyansk (1842-1914)
+
+Each folder of the port cities includes two excel files for the two main economic activities, trade and shipping. Each excel file consists of a number of sheets which is equal to the number of sources from which the data on each port city were extracted. For example, in the case of the port of Odessa, the excel file ODESSA_SHIPPING consists of three excel sheets based on the three archival sources from which the data are drawn under the names, ODESSA_OBZOR, ODESSA_BCR, ODESSA_FCR.
+
+The database of historical statistics on shipping entering or clearing from the twenty one port cities of the Black sea from 1800-1914 includes columns which contain data constructed through various estimations which aim to facilitate its use by historians and statisticians. These estimations aim to overcome the problems caused by the fragmentation of historical archival sources. We have produced a series of fields not included originally in the archival sources referring to the flags of the ships arriving or clearing from the ports of the Black sea using time projections. In particular, we have created three groups of flags of the fleets active in the Black sea ports, namely the German, the Italian and the Scandinavian flag.
+
+The field of the GERMAN TOTAL_EST, GERMAN SAIL_EST and GERMAN STEAM_EST are the aggregates of the number of ships and tonnage under the German flag throughout the period. Up to 1871, when the unification of the German states under the German Empire occurred, the number and tonnage of ships, both sail and steam ships, are estimated by the sum of the fleet under the various flags of the German states referred to the lists of the official statistics, namely Oldenburg, Hannover, Meklenburg, Bremen, Hamburg, Hanseatic cities and Prussia (see map 1).
+
+**Map 1.The German Empire, 1871-1918**
+
+![C:\Users\alex\Desktop\Deutsches_Reich_(1871-1918)-de.svg.png]
+
+Likewise, the estimations of the total number of ships and tonnage, both sail and steam, under the Italian flag, included in the fields ITALIAN TOTAL_EST, ITALIAN SAIL_EST and ITALIAN STEAM_EST, until the unification of the Italian kingdoms and states in 1871, have been calculated as the sum of the fleets of the various Italian kingdoms and cities, namely Sardinia, Tuscany and Napoli; the latter after 1871 were included after their unification in the Italian Kingdom (see map 2).

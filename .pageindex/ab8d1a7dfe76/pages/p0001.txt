@@ -1,0 +1,61 @@
+30 P. E, TETLOCK AND A.
+
+IN
+
+those for evaluating an important category of counterfactual (our ideal type
+2, the nomothetic).
+
+Statistical tests of counterfactual plausibility also play a pivotal role in the
+chapters by game theorists. Weingast’s notion of comparative statistics re-
+minds us of the need to build appropriate time lags into our assessments of
+covariation. And Bueno de Mesquita’s work on medieval church-state rela-
+tions reminds us of the need for probabilistic tests of hypotheses concerning
+mixed-strategy equilibria
+
+Projectability
+
+‘Theory evaluation and counterfactual evaluation are inextricably entangled,
+Sound counterfactuals require sound theories that provide the lawlike gener-
+alizations that fill in the missing data points in our thought experiments.
+How can we judge, however, whether these lawlike generalizations are r0-
+bust enough to support counterfactual inferences? Here Nelson Goodman’s
+(1983) concept of projectability is helpful. Goodman draws a sharp distine-
+tion between coincidental generalizations that just happen to be true at a
+particular time and place (and are therefore unprojectable) and robustly law-
+like generalizations that hold up over a range of circumstances and permit
+projection into the past and future. An example of a merely coincidental
+generalization is “All the coins in my pocket yesterday were silver.” Noth-
+ing follows from this observation—certainly not “If this penny were in my
+pocket yesterday, it would be silver.” The counterfactual fails because “if
+this penny were in my pocket yesterday,” we would simply assume that the
+original generalization—“all the coins in my pocket yesterday were sil-
+ver”—was false. By contrast, a robustly lawlike generalization—such as
+that oxygen is a necessary but not sufficient condition for fire—inspires
+confidence when we move either backward in time (if there had been no
+oxygen, the Great Fire of London would not have occurred) or forward in
+time (if we cut off any future fire’s source of oxygen, the fire will expire)
+Most social-science generalizations, of course, qualify as neither merely
+coincidental nor robustly lawlike; they take the form of either contingent
+generalizations (under this set of boundary conditions, x causes y; under that
+set, x causes 2) or statistical generalizations (x increases or decreases the
+likelihood of y) or contingent statistical generalizations (cf. George and
+Smoke 1974; George 1993). From Goodman's perspective, however,
+whether the generalization is bounded or unbounded by moderator variables
+and whether the generalization is deterministic or probabilistic it is subject
+to the same acid test of scientific legitimacy: namely, its projectability or its
+ability to predict what will happen in new, hitherto unobserved cases. The
+same causal principles that allow us to retrodict the past should allow us to
+
+COUNTERFACTUAL THOUGHT EXPERIMENTS, 31
+
+predict the future. Indeed, the strong Popperian form of this argument as-
+serts that we should take counterfactual claims seriously if and only if the
+lawlike generalizations supporting the claims yield falsifiable forecasts, We
+see this classic philosophical argument resurfacing in the recent meth-
+odological advice of King, Keohane, and Verba (1994), who urge scholars
+to search aggressively for the observable implications of their causal con-
+structs by regularly asking themselves, “If my argument is correct, what else
+should be true?” Counterfactuals that are devoid of testable implications in
+the actual world leave us marooned in hypothetical worlds of our own sub-
+jective making. Projectability, from this vantage point, stands as the preemi-
+nent criterion for judging the value of counterfactual speculation,

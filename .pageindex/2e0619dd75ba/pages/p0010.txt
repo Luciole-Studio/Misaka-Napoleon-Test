@@ -1,0 +1,61 @@
+
+
+Non-zero cells at the destination-division level
+
+Non-zero destinations
+
+Notes: The black line depicts the share of non-empty cells in our matrix of 86 destinations by 57 divisions in a given year. The grey line depicts the share of 86 destinations for which British exports in any division are positive.
+
+was higher than that from 1860 to 1899 (a factor of 2.7). Whether this reflects the fallout from the Panic of 1866 (Xu, 2022) and/or the slowdown in British productivity growth from 1870 (Crafts and Mills, 2020) remains an open question.
+
+Figure 2 considers the extensive margins of trade where the use of official prices prior to 1813 is not an issue. The black line depicts the share of non-zero cells in our full matrix of 86 destinations and 57 divisions. The grey line depicts the share of 86 destinations for which British exports in any division were positive in a given year. Both series are relatively flat between 1700 and 1780 (averaging 12% for the series in black and 30% for the series in grey). This suggests that most of the export growth for those years depicted in Figure 1 occurred on the intensive margin, that is, within a relatively fixed set of destination-division combinations. In contrast, the period from 1780 to 1899 was marked by a steady increase in both the share of non-zero cells (from 11% in 1780 to 59% in 1899)
+
+and the share of non-zero destinations (from 29% in 1780 to 99% in 1899), suggesting that
+
+Figure 3: British Export Share with the Empire, 1700–1899
+
+0
+
+2
+
+0
+
+4
+
+0
+
+6
+
+0
+
+8
+
+0
+
+1
+
+0
+
+0
+
+1700 1750 1800 1850 1899
+
+British Empire
+
+British Empire plus United States after Independence
+
+Notes: The black line represents the share of British exports going to destinations in the contemporaneously-defined British Empire.
+
+The grey line represents this share plus the share of the United States after Independence.
+
+British exports grew on the extensive as well as the intensive margin after 1800. Finally, the undepicted ratio of non-zero cells to non-zero destinations captures the average share of divisions with positive trade flows, conditional on a country importing goods from
+
+Britain. Interestingly, this ratio is essentially flat from 1700 to 1807 with an average value of 0.41. It is also essentially flat from 1820 to 1899 with an average value of 0.59 but with a discrete jump in 1820 just as British industrialization really took hold.
+
+Figure 3 depicts the importance of trade with the British Empire over these two hundred years. The black line represents the share of observed exports going to destinations in the contemporaneously-defined British Empire.8 The grey line adds the post-independence
+
+United States to the total. The difference between the two lines after 1783 thus represents the US share of British exports. The share of the British Empire rose from 14% in 1700 to
+
+54% in 1780. US independence initiated a precipitous decline in the empire share to 32%
+
+8The figures prior to 1813 come with the same caveat as before: they are based on trade flows valued at fixed official prices. The same comment applies to Figure 4 and Figure 5.

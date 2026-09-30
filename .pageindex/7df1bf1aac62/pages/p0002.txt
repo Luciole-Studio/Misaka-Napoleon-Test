@@ -1,0 +1,23 @@
+
+
+**读数**：1795-6→1805-6 十年间**对华鸦片输出由 2.5 lakh 增至 32.9 lakh Sicca Rs（约13倍）**；鸦片专卖收入在 1804-5、1807-8 达 70–80 万英镑，约当孟加拉领地岁入的 8–9%（对照 S2.3 孟加拉 1805-6 预算岁入约 £8.76m）。这是**战时唯一高速增长且不依赖欧洲市场的税源**。
+口径冲突：Hansard 1806 韦尔斯利陈述的 1803-4 孟加拉鸦片税目为 Sicca Rs 3,989,200（按 2s/SR ≈ £498,650），Milburn 同年为 £463,161——**两口径差约 7%，并列保留，不平账**。
+
+---
+
+## T3. 孟买—中国棉花与"汇款机器"（Milburn v1，行 43063–43105）
+> "The export of cotton from Bombay to China has in some seasons amounted to 80,000 bales, each half a candy, or about 375 lbs. making in the whole 30 millions of pounds."
+> "The East India Company have within these few years become participators in the trade from Bombay to China ... **They reserve to themselves two thirds of the chartered tonnage of their ships destined from Bombay to China**; and in the event of their not occupying it, it is disposed of by open competition ... on condition that the freight, together with the proceeds of the goods, **shall be paid into the Canton treasury, for the latter of which bills are granted on England at the current rate of exchange**."
+> "The cotton trade from this side of India to China is but of recent date. It commenced about 35 years ago."（＝约1778年起）
+> 竞争：孟加拉与马德拉斯商人以更洁净的棉在广州卖出更高价，威胁孟买。
+> "the specie thrown in by this commerce, aids the circulation at Bombay very considerably, amounting on an average of five years, 180〔2〕 to 1806, to Sicca Rupees 27,03,907 per annum."
+
+**读数（本卡最关键的机制之一）**：印度的对华输出（棉花＋鸦片）→ 广州库房 → 公司开出**伦敦汇票** → 私商把在亚洲赚到的钱汇回英国，同时公司得到在广州购茶的现金。这条链条使公司**不必从英国运白银去中国**（与 Hansard 1806 韦尔斯利的自述互证：见 notes_finance S2.5）。
+→ 推演含义：在"英国被逐出欧洲"的情景里，**这台汇款机器不依赖任何欧洲港口**；它依赖的是（a）广州口岸开放、（b）印度洋航线安全、（c）印度本身的岁入与生产。法国要打断它，必须在印度洋而非欧洲动手。
+
+---
+
+## T4. 缺口（诚实声明）
+- 1803–15 逐年茶叶进口磅数与销售额的完整表：Milburn v2 有 1767-8–1810-11 的广州装载表（行 73085 起），但 OCR 逐行错乱，本卡**未逐年转录**，只用 17 年汇总。
+- 公司商业账的逐年利润（1813 请愿只给 1793 以来累计 £6,289,405）。
+- 马尔瓦（Malwa）鸦片经葡属达曼外流的量：Milburn 时点尚小，1810s 后成大宗；本卡不外推。

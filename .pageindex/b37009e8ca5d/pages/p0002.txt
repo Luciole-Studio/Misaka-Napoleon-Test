@@ -1,0 +1,27 @@
+
+
+## 接收国校准来源（G2 t_cbaee3提供路径，本卡亲读原文后才引）
+
+| 标签 | 文献 | 本卡实读位置 | 分级与警告 |
+|---|---|---|---|
+| S16 | Alexander Grab, *Napoleon and the Transformation of Europe* (Palgrave, 2003)，德意志章 | `nodes/r_b55f2c1cf5/cards/t_208a11/sources/pages/2ad693d5ac13.md` L2768（印p.101） | 上一轮抓取的专著全文页。威斯特法利亚：承接旧统治者巨额债务；1812累积债1.4—亿2亿法郎；养军25,000并付驻境法军12,500；1809–13征召7万+志愿3万；进俄2.2万仅1,500存。作者引Fisher与Berding为评价性转引 |
+| S19 | Helmut Berding, “Das Königreich Westphalen als napoleonischer Modell- und Satellitenstaat (1807–1813)”讲稿 | `downloads/pages/cf0509d983d0.md` L19 | LWL文化门户长段转载，变音乱码；非期刊定稿。拿破仑取得威国领地一半的所有与处分权转赠将帅，造成收入流失与“finanzieller Ruin”，且巴黎管理阻断触及受赠者领主性收入的一切改革 |
+| ADB-FA | Flathe, “Friedrich August III./I.”, *Allgemeine Deutsche Biographie* Bd.7 S.787 | `downloads/pages/af4f870b8ddf.md` L146–147 | 十九世纪传记，对传主明显同情（“义人”叙事）。1778拒绝以两劳西茨换上德领土（理由：不割让忠诚臣民）；华沙大公任内未取civil list、从私库垫付3,000万弗罗林，1828年俄国仅补450,800塔勒。**垫款数字无第二来源** |
+
+## 跨卡复用与接口
+
+- 旧卡C6：`nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`、`SOURCES.md` —— 仅用作线索与反证提示，其"未识别"结论不继承。
+- F2：`nodes/r_5b1357a9c6/cards/t_0e763d/notes_oman1810_fiscal.md`、`F2_joint_budget_manpower.csv`（法军费用口径与联合预算，非本卡独立核验）。
+- A（奥地利）：`nodes/r_5b1357a9c6/cards/t_f4bb81/part_02_policy.md`、`A_scenario_bounds.csv`——其1835–48常年16–23万、危机野战23–33万为该卡假设区间，本卡按同口径比较而非当史实。
+- R1（10032）提供的线索经本卡亲读后才采用（TA-M、V3、V第五章章目）。
+- G2（t_cbaee3）提供的接收国路径同样经本卡亲读原文后才引（S16、S19、ADB-FA），其卡正文结论未直接移植。
+- 独立性注：Grab与Berding非两个独立证据——Grab p.101正文即引Berding论赠地之害；二者合计约一个半证据簇，而ADB为另一独立传统但属单一旧来源。
+
+## 未取得而会改变结论的材料
+
+1. 1808巴黎公约与分立条款的**原签本/官方影印**（可解10,000 vs 16,000冲突）。
+2. Jany, *Geschichte der Königlich Preußischen Armee* III及总参谋部1912卷**原件**（Krümper与1813动员的可靠底数）。
+3. Ranke编Hardenberg遗稿、Hubatsch编Stein文书**原集**。
+4. GStA PK相关卷宗（仅见目录层，未读原卷）。
+5. Hagemann专著全章、Simms/Paret/Levinger/Gray专著正文——本轮未通读，不冒称。
+6. 同疆界口径的1806/1816/1848普鲁士财政收支序列（现有Schmoller转表与Murau债务数无法直接拼接）。

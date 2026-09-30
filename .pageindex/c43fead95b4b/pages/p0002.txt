@@ -1,0 +1,46 @@
+
+
+## C｜经他卡已验收笔记复用（注路径；不计为本卡独立证据）
+
+| # | 内容 | 路径 |
+|---|---|---|
+| C1 | Heckscher 1922 英译本 pp.227／244–245／288–294／295–301／302–306 的逐页核读（关税同盟倡议、替代品、意大利附庸化、萨克森、消费税化） | `nodes/r_b55f2c1cf5/cards/t_f81a6f/c15_continental_economy.md`；`downloads/c15_heckscher1922.pdf` |
+| C2 | 意大利王国 1806-03-21 币制法令、威斯特伐利亚 1808-01-11 折价、瑞士无统一币；229 条帝国道路；辛普朗；圣康坦运河；安特卫普港池 | `nodes/r_b55f2c1cf5/cards/t_f81a6f/money_infrastructure.md`（内含 10 条网页保存索引 `downloads/pages/*.md`） |
+| C3 | O'Rourke 2005 WP 表 3/表 4 全部数值与识别限制；Crouzet 1964 的转引链 | `nodes/r_b55f2c1cf5/cards/t_f81a6f/growth_debate.md` |
+| C4 | ACJR 2011、Juhász 2018 稿、Kopsidis–Bromley 2016、Buggle 2013、Keller–Shiue 2014、Ploeckl 2010、Dincecco 2009、Lecce–Ogliari 2019 的效应量与识别审计 | `nodes/r_b55f2c1cf5/cards/t_f3c44f/c10_causal_evidence.md`；PDF 见 `downloads/c10_*.pdf` |
+| C5 | X2（本人卡）：走私保费 55±8% AVE、莱茵保费序列、Ellis 反比法则、关税同盟化概率带、四转口港硬数、守线成本公式、1810–11 一次性池 307m | `nodes/r_5b1357a9c6/cards/t_6f3beb/` |
+| C6 | X3：配方型/载体型分水岭、1848 前沿表、铁路裁定 2,500–5,000 km、贝格出口 6,000万→1,100万 | `nodes/r_5b1357a9c6/cards/t_86b684/` |
+| C7 | B5（本人卡）：英国 1848 工业量级包络 S2 79–100%／S3 54–79%／S5 88–109%；A40 校订 | `nodes/r_5b1357a9c6/cards/t_87ba37/` |
+| C8 | F4（本人卡）：S5 陆海联合 495m；Marion 印 p.321 分地区毛/净；1818 毛净断点；赠产 | `nodes/r_5b1357a9c6/cards/t_9f10b6/` |
+| C9 | E1：敖德萨小麦出口序列、人口断点警告 | `nodes/r_5b1357a9c6/cards/t_02f417/` |
+| C10 | F5：显贵收入分布、继承情景树、Lainé 红线；X1：tiercement、拒绝统合公债、法兰克福/汉堡没收；D1/D2：整合指标与外圈断裂；G1/G2：南德北德；NL/CH：调停模式；IT1/IT2：意大利；SP1/SP2/MX/SA：伊比利亚与美洲；PR：残普；R2/SC：波罗的海 | 各卡目录，见 `coordination_ledger.md` |
+
+## D｜转引（注中介）
+
+| # | 被引 | 中介 | 用于 |
+|---|---|---|---|
+| D1 | Crouzet 1964, "Wars, Blockade, and Economic Change in Europe, 1792–1815", _JEH_ 24(4)，pp.573、576 | 经 Juhász 2018 附录 A.2.4 pp.11–12 与 O'Rourke 2005 转引 | §3.3（朗格多克与西南部去工业化） |
+| D2 | Grab, _Napoleon and the Transformation of Europe_, pp.81／97–98／101／118／164／194–195 | 经上一轮 C15/C10 笔记与本轮 PR/D2/G2 卡转引 | §3.1、§7.2、§8.1 |
+| D3 | Harnisch 1984 pp.186–252；Koselleck 1967 pp.498–502（普鲁士地权转移精确数字） | 经 B11 注 22 提示 | §8.2 —— **本卡未取，故不给数字** |
+| D4 | Martens, _Recueil_ viii.261（1804 莱茵公约）；*Bulletin des lois* 418(1812) pp.66–127（229 条道路令） | 经 B5、Arnaud 章 F1811 稿转引 | §7.1、§7.3 |
+| D5 | Spaulding（Aaslestad & Joor 2015 表 7.1–7.4，莱茵上行通行税 1806–13） | 经 X2 卡笔记 | §7.1bis 的跨卡校准 |
+
+## X｜访问墙/未得
+
+| # | 项 | 状态 |
+|---|---|---|
+| X1 | Bairoch 1982 _JEEH_ 原刊 | 未取（最大单点依赖） |
+| X2 | Crouzet 1964 全文 | 上一轮已记访问墙 `downloads/pages/220a7b0807cf.md`、`55392aeeec19.md` |
+| X3 | O'Rourke 2006 _JGH_ 刊本 | 上一轮已记 `downloads/pages/7c4d4ef96482.md` |
+| X4 | Willis, _A History of the Latin Monetary Union_ (1901) | 未取；仅经 B1/B4 转引其 p.236 |
+| X5 | 1865-12-23 货币公约法文原本 | 未逐条亲读 |
+| X6 | 法国 1815–48 铁路逐线决算 | 未取 → §7.4 的 250,000–400,000 法郎/km 为量级假设 |
+| X7 | A.N. F12 251 原件（Ellis 附录 G/I 底本） | 未阅 |
+| X8 | Strasbourg 商会 Minutes vol. vii（附录 D 底本） | 未阅 |
+| X9 | 1815–30 法国甜菜糖分省产量与资本序列 | 未定位 → §5 的 S3 1848 年 6–12 万吨为低置信推演 |
+| X10 | 1815–48 法国铸币厂金银送铸比例原表 | 未定位 → §6.3"白银区"论证的直接检验项（E6） |
+
+---
+
+## 非英语来源计数（履行引用诚信条款）
+法语：A1–A4（Ellis 转录的法国官方统计与法文档案系列名）、A5 Chaptal 原文、B5 _Revue d'Alsace_、B7、B13 法条转录、D4；德语：B10 的德文原法（经英译）、B11 转述的德文立法与 Groß/Harnisch/Koselleck 书目；荷/佛兰德语：C2 的佛兰德遗产清册（Onroerend Erfgoed）；意大利语：C2 的意大利银行货币博物馆与年表。**≥4 种非英语来源，满足要求。**

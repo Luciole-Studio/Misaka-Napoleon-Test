@@ -1,0 +1,39 @@
+of miscellaneous tradesman and small workshops did not emerge until the 1830s (Cookson,
+1994).
+    Three features of the historical context discussed above are important to keep in mind
+when interpreting the empirical results as evidence of an infant industry mechanism. First,
+the similarity of the cotton textile industry in Britain and France prior to mechanization in
+Britain is significant, as it suggests that economic fundamentals in Britain and France were
+sufficiently close such that once French spinners were protected from British competition,
+mechanization was rapidly adopted and became competitive in the longer-term. Put differ-
+ently, it gives support to the claim that British competition was the key barrier inhibiting
+French entrepreneurs from adopting the technology, as opposed to differences in economic
+fundamentals. Second, the fact that French entrepreneurs were highly reliant on British
+know-how for both domestic machine building and mechanized spinning points to the fact
+that at pre-blockade protection levels, French spinners were unable to use the new technol-
+ogy in an efficient way. Third, rapid productivity improvements and external to the firm
+learning effects characterized mechanized cotton spinning. In light of the historical evidence,
+it seems plausible that learning-by-doing externalities are the mechanism which gave rise to
+the infant industry effect found in the empirical results, though data limitations do not allow
+me to test this econometrically.
+
+
+2      Variation from the Napoleonic Wars
+The Continental Blockade prohibiting the entry of British goods onto the European Conti-
+nent was declared in Berlin in late 1806, following the defeat of the Fourth Coalition against
+France in Jena - Auerstadt. These events took place within the context of the Napoleonic
+Wars (1803-1815). During this period, France fought Britain and its allies in a series of
+campaigns. It is within this historical setting that the motivations and military constraints
+for both Britain and France can be understood.11
+    The primary aim of the blockade was to weaken Britain economically by denying her ac-
+cess to important Continental European markets. As the last section has shown, Northern-
+European markets were particularly important for cotton cloth and yarn. However, the stark
+asymmetry of naval power between Britain and France meant that traditional blockade of
+  11
+    More generally, the Napoloenic blockade took place within the context of the French Revolutionary and
+Napoleonic Wars (1792-1815). However, the disruption to trade that took place during the period studied
+here was fundamentaly different to the French Revolutionary Wars that came before (Davis and Engerman,
+2006). Appendix A.1.1 contains a detailed discussion of why this was the case.
+
+
+                                                   11

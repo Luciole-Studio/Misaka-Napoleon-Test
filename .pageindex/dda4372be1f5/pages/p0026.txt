@@ -1,0 +1,374 @@
+80
+
+120
+
+160
+
+200
+
+240
+
+280
+
+320
+
+1780 1790 1800 1810 1820 1830
+
+Pepper relative to textiles
+
+Figure 5. Relative prices in Holland, 1780-1830 (1820=100)
+
+Source: see Appendix 1.
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+1795 1800 1805 1810 1815 1820 1825 1830
+
+Cotton yarn relative to rye
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+1795 1800 1805 1810 1815 1820 1825 1830
+
+Iron relative to rye
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+1795 1800 1805 1810 1815 1820 1825 1830
+
+Sugar relative to cotton yarn
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+1795 1800 1805 1810 1815 1820 1825 1830
+
+Cotton relative to cotton yarn
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+1795 1800 1805 1810 1815 1820 1825 1830
+
+Coffee relative to cotton yarn
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+1795 1800 1805 1810 1815 1820 1825 1830
+
+Tobacco relative to cotton yarn
+
+Figure 6. Relative prices in Germany, 1792-1830 (1820=100)
+
+Source: see Appendix 1.
+
+40
+
+80
+
+120
+
+160
+
+200
+
+240
+
+1780 1790 1800 1810 1820 1830
+
+Textiles relative to iron
+
+50
+
+100
+
+150
+
+200
+
+250
+
+1780 1790 1800 1810 1820 1830
+
+Rye relative to iron
+
+40
+
+80
+
+120
+
+160
+
+200
+
+240
+
+280
+
+320
+
+1780 1790 1800 1810 1820 1830
+
+Wheat relative to iron
+
+Figure 7. Relative prices in Sweden, 1780-1830 (1820=100)
+
+Source: see Appendix 1.
+
+50
+
+100
+
+150
+
+200
+
+250
+
+1780 1790 1800 1810 1820 1830
+
+Textiles relative to cotton
+
+0
+
+40
+
+80
+
+120
+
+160
+
+200
+
+240
+
+280
+
+1780 1790 1800 1810 1820 1830
+
+Wine relative to cotton
+
+Figure 8. Relative prices in the U.S., 1780-1830 (1820=100)
+
+Source: see Appendix 1.
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+1780 1790 1800 1810 1820 1830
+
+Rouen cloth (Arequipa)
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+1780 1790 1800 1810 1820 1830
+
+Paper (Arequipa)
+
+40
+
+80
+
+120
+
+160
+
+1780 1790 1800 1810 1820 1830
+
+Paper (Potosí)
+
+40
+
+80
+
+120
+
+160
+
+200
+
+1780 1790 1800 1810 1820 1830
+
+Paper (Lima)
+
+Figure 9. Peruvian silver prices 1780-1830 (1812=100)
+
+Source: see Appendix 1.
+
+40
+
+80
+
+120
+
+160
+
+200
+
+240
+
+1780 1790 1800 1810 1820 1830 Relative price of textiles in France Relative price of wheat in Britain
+
+Figure 10. Relative wheat/textile pricesin Britain and France, 1780-1830
+
+Source:see Appendix 1.
+
+Britain
+
+France
+
+| 200 160 120 80 | |
+| --- | --- |
+| 1780 | 1790 1800 1810 1820 1830 United States |
+| 200 160 120 80 | |
+
+| 200 160 120 80 | |
+| --- | --- |
+| 1780 1790 | 1800 1810 1820 1830 Sweden |
+| 200 160 120 80 | |
+
+1780 1790 1800 1810 1820 1830
+
+1780 1790 1800 1810 1820 1830
+
+Figure 11. Price of imports relative to exports, 1780-1830 (1820=100)
+
+Source: see Appendix 1.
+
+## ledomEGCehtgnitarbilaC .21erugiF 001*t=M
+
+noitpmusnoC ?= 001=emocnI
+
+001*)t-1(=TN
+
+001*t=M 001*t=X edarT
+
+noitcudorP 5= 001=AV
+
+001*)t-1(=TN
+
+Appendix 1. Data sources 
+1. Trade volumes and terms of trade 
+Britain. Imports: Imlah (1958), Table 8, pp. 94-98. Exports: 1780-1821, Cuenca Esteban 
+(1997), Appendix Table 1, p. 901, spliced with Imlah’s data for 1821-30. 
+France: 1780-1820: data underlying Cuenca Esteban (2004), graciously made available by the 
+author. The price indices for 1716-86 rest on 11 price series with constant weights (Cuenca 
+Esteban 2004 , p. 65). 1820-1830: Lévy-Leboyer and Bourguignon (1990), Tables A-III, A 
+IV. 
+Sweden: Schön (1984). 
+United States: North (1966), pp. 221, 228-9, 233-4, 240-3. 
+2. Commodity prices 
+Britain 
+Beveridge (1939) (pepper: white pepper, Lord Steward’s Department, p. 431; sugar: refined 
+sugar, Lord Steward’s Department, p. 431; tea: green tea, Lord Steward’s Department, folding 
+sheet II; textiles: cloth, Eton College, p. 147). 
+Mitchell (1988) (raw cotton: 1782-1820, mid-point of range, West Indies, Surinam and 
+Berbice, p. 759, spliced to average price of upland/middling American, p. 760 (1820-1830); 
+wheat, p. 756). 
+Gayer et al. (1953), microfilm supplement (timber). 
+France 
+Annuaire Statistique de la France, 1966, p. 406 (1790 and 1820-1830: coffee, iron, raw 
+cotton, sugar, wheat). 
+Chabert (1945) (1798-1820: coffee, p. 135; iron, moyenne, p. 200; pepper, p. 140; raw cotton, 
+pernambouc, p. 161; sugar, p. 129; textiles, general index, p. 195 (to 1809); wheat, p. 79). 
+Hauser (1936) (sugar, Paris, 1780-91, p. 142; wheat, 1780-98, Château-Gontier, p. 209). 
+Lévy-Leboyer (1970) (textiles, 1809-30, pp. 108-9). 
+The Netherlands 
+1780-1800 (sugar, textiles): Jan Luiten van Zanden (n.d.), “The prices of the most important 
+consumer goods, and indices of wages and the cost of living in the western part of the 
+Netherlands, 1450-1800,” data supplied by Jan de Vries, Jan Pieter Smits and Arthur van 
+Riel, available online at the International Institute of Social History’s Prices and Wages 
+website, at http://www.iisg.nl/hpw/data.html. 

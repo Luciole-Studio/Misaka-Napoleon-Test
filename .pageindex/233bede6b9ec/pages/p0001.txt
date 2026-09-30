@@ -1,0 +1,10 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: F2_food_scope_bridge.csv
+
+```meta
+▸ table "F2_food_scope_bridge.csv" (2 data rows)
+```
+case,people,horses,food_kg_per_person_day,fodder_kg_per_horse_day,human_t_day,horse_feed_t_day,total_metric_t_day,annualized_metric_t_if_365days,status,source,warning
+E1_S6max_example,500000,100000,1.5,10,750.0,1000.0,1750.0,638750.0,illustration_not_observation;horse_feed_not_all_grain,F2_V77_metric_normalized_assumption;E1_scenario_stress.csv,Not_total_European_force;not_all_hauled_from_France
+F2_large_force_example,500000,125000,1.5,10,750.0,1250.0,2000.0,730000.0,illustration_not_observation;horse_feed_not_all_grain,F2_V77_metric_normalized_assumption;E1_scenario_stress.csv,Not_total_European_force;not_all_hauled_from_France

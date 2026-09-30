@@ -1,0 +1,95 @@
+                                                                          3.5                                                                                                                                           4
+
+
+
+
+                                                                            3                                                                                                                                         3.5
+
+
+
+
+                                                                          2.5                                                                                                                                           3
+
+
+
+                                                                                                                                                                                                                      2.5
+                                                                            2
+
+
+
+                                                                                                                                                                                                                        2
+                                                                          1.5
+
+
+
+                                                                                                                                                                                                                      1.5
+                                                                            1
+
+
+
+                                                                                                                                                                                                                        1
+                                                                          0.5
+                                                                                                                                                        Coefficients of All Crop Suitability x Year Dummy Variables
+              Coefficients of Potato Suitability x Year Dummy Variables
+
+
+
+
+                                                                                                                                                                                                                      0.5
+                                                                            0
+                                                                                 1400    1500            1600              1700          1800    1900
+
+                                                                                                                                                                                                                        0
+                                                                          -0.5                                                                                                                                               1400     1500              1600          1700          1800    1900
+                                                                                                                Year                                                                                                                                           Year
+
+                                                                                                                       j                                                                                                                                               j
+                                                                                                       (a) Potatoi × It                                                                                                                             (b) All Cropsi × It
+22
+                                                                          1.4                                                                                                                                         1.1
+
+
+
+                                                                          1.2                                                                                                                                         0.9
+
+
+
+                                                                            1                                                                                                                                         0.7
+
+
+
+                                                                          0.8                                                                                                                                         0.5
+
+
+
+                                                                          0.6                                                                                                                                         0.3
+
+
+
+                                                                          0.4                                                                                                                                         0.1
+
+
+                                                                                                                                                                                                                               1500          1600              1700          1800          1900
+                                                                          0.2                                                                                                                                         -0.1
+
+
+
+                                                                            0                                                                                                                                         -0.3
+                                                                                  1500          1600            1700              1800          1900
+              Coefficients of Potato Suitability x Year Dummy Variables                                                                                 Coefficients ofAll Crop Suitability x Year Dummy Variables
+
+
+
+
+                                                                          -0.2                                                                                                                                        -0.5
+
+
+
+                                                                          -0.4                                                                                                                                        -0.7
+                                                                                                                Year                                                                                                                                           Year
+
+                                                                                                                       j                                                                                                                                               j
+                                                                                                       (c) Potatoi × It                                                                                                                             (d) All Cropsi × It
+
+     Figure 3: Estimated coefficients of the interaction of cultivation suitability with time period fixed effects. The dependent variables are: (a-b)
+     ln population, and (c-d) population growth.

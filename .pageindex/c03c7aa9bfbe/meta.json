@@ -1,0 +1,17 @@
+{
+  "doc_id": "c03c7aa9bfbe",
+  "title": "[t_f4bb81] nodes/r_5b1357a9c6/cards/t_f4bb81/A_scenario_bounds.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_f4bb81/A_scenario_bounds.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_f4bb81/A_scenario_bounds.csv"
+  ],
+  "sha256": "c03c7aa9bfbedcf0adcb38a0f89ca1652dd8de3313315c8719c5e35311da73e8",
+  "pages": 1,
+  "task_id": "t_f4bb81",
+  "task_ids": [
+    "t_f4bb81",
+    "t_3ee1b0"
+  ],
+  "added_at": 1790165167,
+  "office_format": "csv"
+}

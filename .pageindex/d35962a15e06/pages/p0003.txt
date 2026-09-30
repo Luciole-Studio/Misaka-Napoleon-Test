@@ -1,0 +1,28 @@
+
+
+## 八、书目与材料表
+
+编号用于正文定位；详细短引、URL和缓存位置见同目录证据附录。下列为实际读取版本，未读项单列。
+
+### 西班牙
+- S1 Gabriel Madec，1808-03-23致缪拉信评注，Fondation Napoléon/Fayard，CG8 n17462及Lentz附录转述。https://www.napoleon.org/histoire-des-2-empires/articles/lettre-du-23-mars-1808-de-napoleon-a-murat-commentee-par-gabriel-madec-vol-8-de-la-correspondance-de-napoleon/ ；缓存747bf6067487.md。
+- S2 Oeuvres de Napoléon Bonaparte,tIV,Panckoucke,1821，同期信重印；4/16信。https://www.gutenberg.org/files/13192/13192-h/13192-h.htm ；缓存0dae11bc01f3.md，10795行起。
+- S3 Constitución de Bayona,6 julio1808，Cervantes转录，https://www.cervantesvirtual.com/obra-visor/constitucion-de-bayona-6-de-julio-1808/html/437fe325-fb92-48b7-a963-a36d6a8fd6af_2.html ；缓存d9e5073e7c97.md；UGR https://www.ugr.es/~rorza/1808.htm 交核，编码受损。
+- S4 Constitución de1812，UGR https://www.ugr.es/~rorza/1812.htm ，缓存f7bb507dd0d0.md；已读有关条款，编码受损，不以损坏文本作逐字西语引文。
+- S5 Juan López Tabar,“El fracaso de la tercera vía. José I y los afrancesados(1808–1813)”，实际读网页PDF抽取pp35–45，缓存2c14f1e0292d.md，完整文集项待补；Gérard Dufour,“Los afrancesados o una cuestión política: los límites del despotismo ilustrado”,Cuadernos de Historia Moderna.Anejos VI(2007),269–277，缓存4ecf038a8410.md。均经Cervantes取得。
+- S6 Sergio Sánchez Collantes,“Una visión global sobre el republicanismo en Asturias durante el siglo XIX”,Historia Contemporánea38(2009),191–217，https://doi.org/10.1387/hc.2736 ，实际读193–195等；downloads/c5_sanchez_republicanismo.pdf，doc a803f4e22d9c。
+
+### 拉美与英国、白银
+- A1 Jaime E.Rodríguez O.,The Independence of Spanish America,CUP,1998，导论1–3预览；缓存96c955fe0f59.md。
+- A2 François-Xavier Guerra,Modernidad e independencias,MAPFRE,1992，11–14、122–129；缓存c312aa1f7e07.md。
+- A3 Jeremy Adelman,“An Age of Imperial Revolutions”,AHR113(2)(2008),319–340，开篇及注32–39邻接正文；缓存faaeb1cd5084.md。后段页界未影像核定。
+- A4 Pablo Avilés Flores,“La imagen de la independencia de México en Francia. Viajes, intereses científicos y económicos”，实读275–282，完整出版项待核；https://dialnet.unirioja.es/descarga/articulo/3851032.pdf ，缓存930b69bc0c92.md。
+- A5 Jacques Houdaille,“Gaetan Souchet D’Alvimart,The Alleged Envoy of Napoleon to Mexico,1807–1809”,The Americas16(2)(1959),109–131，https://doi.org/10.2307/978836 。仅读摘要及详细脚注，缓存05a35bd11a97.md。
+- B1 Rory Muir,Wellington:The Path to Victory作者在线Commentary，第14章，https://lifeofwellington.co.uk/commentary/chapter-fourteen-dublin-and-westminster-october-1807-july-1808/ ，缓存89b34afbf59a.md；WSD6:61–66,68–70,74–77；WDIII:19n–20n；WP1/205均转引Muir。
+- B2 Carlos Marichal,“El comercio neutral y los consorcios extranjeros en Veracruz,1805–1808”，载Carmen Yuste López、Matilde Souto Mantecón编El Comercio Exterior de México1713–1850,Instituto Mora/IIH-UNAM/Universidad Veracruzana,2000,163–192，实读两核心节及注18/27/30/32。https://carlosmarichal.colmex.mx/finanzas-coloniales/Comercio%20neutral%202000.pdf ；缓存63d42a1442bd.md。
+- B3 London Gazette Extraordinary,22 December1807,issue16100，Strangford1807-11-29报告，https://www.thegazette.co.uk/London/issue/16100/data.pdf ，缓存cfd2c9f1cdc0.md；页1725页眉OCR待图像核。
+
+### 海地法源
+- H1 1802-05-20法律，Fondation Napoléon转录，缓存50084310930d.md，四条已读。
+- H2 FME文书汇编，https://memoire-esclavage.org/napoleon-et-le-retablissement-de-lesclavage/ressources-dossier-napoleon-et-le-retablissement-de ，缓存bd468bca9f3d.md；Roussier1937,284–285及旧Correspondance no5859均转引，非亲见影像。
+- H3 1815-03-29法令百科转录，https://fr.wikipedia.org/wiki/D%C3%A9cret_imp%C3%A9rial_abolissant_la_traite_des_Noirs ，缓存a1727377ccf1.md；Archives71馆藏说明https://www.archives71.fr/decouvrir/apprendre-et-se-divertir/zooms/zooms-archives/bicentenaire-de-labolition-de-la-traite-negriere ，缓存3a99c93d0002.md，确认Document2为Bulletin des lois禁贩令，未得影像。

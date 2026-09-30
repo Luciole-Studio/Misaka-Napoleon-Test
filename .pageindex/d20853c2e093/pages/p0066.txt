@@ -1,0 +1,258 @@
+## Sheet: Full data (continued)
+	A	B	C	D	E
+20910	VEN	Venezuela (Bolivarian Republic of)	1914	2,020	2,899
+20911	VEN	Venezuela (Bolivarian Republic of)	1915	2,020	2,918
+20912	VEN	Venezuela (Bolivarian Republic of)	1916	1,884	2,929
+20913	VEN	Venezuela (Bolivarian Republic of)	1917	1,962	2,944
+20914	VEN	Venezuela (Bolivarian Republic of)	1918	2,039	2,958
+20915	VEN	Venezuela (Bolivarian Republic of)	1919	1,962	2,973
+20916	VEN	Venezuela (Bolivarian Republic of)	1920	1,903	2,992
+20917	VEN	Venezuela (Bolivarian Republic of)	1921	1,846	3,008
+20918	VEN	Venezuela (Bolivarian Republic of)	1922	2,000	3,025
+20919	VEN	Venezuela (Bolivarian Republic of)	1923	2,096	3,049
+20920	VEN	Venezuela (Bolivarian Republic of)	1924	2,173	3,077
+20921	VEN	Venezuela (Bolivarian Republic of)	1925	2,289	3,114
+20922	VEN	Venezuela (Bolivarian Republic of)	1926	2,423	3,152
+20923	VEN	Venezuela (Bolivarian Republic of)	1927	2,461	3,185
+20924	VEN	Venezuela (Bolivarian Republic of)	1928	2,866	3,221
+20925	VEN	Venezuela (Bolivarian Republic of)	1929	2,942	3,259
+20926	VEN	Venezuela (Bolivarian Republic of)	1930	2,923	3,300
+20927	VEN	Venezuela (Bolivarian Republic of)	1931	2,904	3,336
+20928	VEN	Venezuela (Bolivarian Republic of)	1932	2,635	3,368
+20929	VEN	Venezuela (Bolivarian Republic of)	1933	2,923	3,401
+20930	VEN	Venezuela (Bolivarian Republic of)	1934	3,038	3,431
+20931	VEN	Venezuela (Bolivarian Republic of)	1935	3,615	3,465
+20932	VEN	Venezuela (Bolivarian Republic of)	1936	3,904	3,510
+20933	VEN	Venezuela (Bolivarian Republic of)	1937	3,885	3,565
+20934	VEN	Venezuela (Bolivarian Republic of)	1938	4,289	3,623
+20935	VEN	Venezuela (Bolivarian Republic of)	1939	4,538	3,699
+20936	VEN	Venezuela (Bolivarian Republic of)	1940	4,769	3,784
+20937	VEN	Venezuela (Bolivarian Republic of)	1941	4,635	3,858
+20938	VEN	Venezuela (Bolivarian Republic of)	1942	4,001	3,934
+20939	VEN	Venezuela (Bolivarian Republic of)	1943	4,423	4,020
+20940	VEN	Venezuela (Bolivarian Republic of)	1944	4,769	4,114
+20941	VEN	Venezuela (Bolivarian Republic of)	1945	5,808	4,223
+20942	VEN	Venezuela (Bolivarian Republic of)	1946	6,655	4,347
+20943	VEN	Venezuela (Bolivarian Republic of)	1947	6,500	4,486
+20944	VEN	Venezuela (Bolivarian Republic of)	1948	7,712	4,656
+20945	VEN	Venezuela (Bolivarian Republic of)	1949	7,828	4,843
+20946	VEN	Venezuela (Bolivarian Republic of)	1950	8,462	5,009
+20947	VEN	Venezuela (Bolivarian Republic of)	1951	9,039	5,217
+20948	VEN	Venezuela (Bolivarian Republic of)	1952	9,309	5,440
+20949	VEN	Venezuela (Bolivarian Republic of)	1953	9,500	5,674
+20950	VEN	Venezuela (Bolivarian Republic of)	1954	10,020	5,919
+20951	VEN	Venezuela (Bolivarian Republic of)	1955	10,501	6,170
+20952	VEN	Venezuela (Bolivarian Republic of)	1956	11,136	6,431
+20953	VEN	Venezuela (Bolivarian Republic of)	1957	11,923	6,703
+20954	VEN	Venezuela (Bolivarian Republic of)	1958	11,615	6,982
+20955	VEN	Venezuela (Bolivarian Republic of)	1959	12,078	7,268
+20956	VEN	Venezuela (Bolivarian Republic of)	1960	12,116	7,556
+20957	VEN	Venezuela (Bolivarian Republic of)	1961	12,231	7,848
+20958	VEN	Venezuela (Bolivarian Republic of)	1962	12,848	8,143
+20959	VEN	Venezuela (Bolivarian Republic of)	1963	13,232	8,444
+20960	VEN	Venezuela (Bolivarian Republic of)	1964	14,019	8,752
+20961	VEN	Venezuela (Bolivarian Republic of)	1965	14,347	9,068
+20962	VEN	Venezuela (Bolivarian Republic of)	1966	14,174	9,387
+20963	VEN	Venezuela (Bolivarian Republic of)	1967	14,250	9,710
+20964	VEN	Venezuela (Bolivarian Republic of)	1968	14,520	10,041
+20965	VEN	Venezuela (Bolivarian Republic of)	1969	14,655	10,389
+20966	VEN	Venezuela (Bolivarian Republic of)	1970	15,289	10,758
+20967	VEN	Venezuela (Bolivarian Republic of)	1971	15,192	11,152
+20968	VEN	Venezuela (Bolivarian Republic of)	1972	15,135	11,516
+20969	VEN	Venezuela (Bolivarian Republic of)	1973	15,540	11,893
+20970	VEN	Venezuela (Bolivarian Republic of)	1974	15,943	12,281
+20971	VEN	Venezuela (Bolivarian Republic of)	1975	16,385	12,675
+20972	VEN	Venezuela (Bolivarian Republic of)	1976	17,174	13,082
+20973	VEN	Venezuela (Bolivarian Republic of)	1977	17,693	13,504
+20974	VEN	Venezuela (Bolivarian Republic of)	1978	17,481	13,931
+20975	VEN	Venezuela (Bolivarian Republic of)	1979	17,135	14,355
+20976	VEN	Venezuela (Bolivarian Republic of)	1980	16,270	14,768
+20977	VEN	Venezuela (Bolivarian Republic of)	1981	15,750	15,166
+20978	VEN	Venezuela (Bolivarian Republic of)	1982	15,423	15,621
+20979	VEN	Venezuela (Bolivarian Republic of)	1983	14,155	16,084
+20980	VEN	Venezuela (Bolivarian Republic of)	1984	13,597	16,545
+20981	VEN	Venezuela (Bolivarian Republic of)	1985	13,270	16,998
+20982	VEN	Venezuela (Bolivarian Republic of)	1986	13,751	17,450
+20983	VEN	Venezuela (Bolivarian Republic of)	1987	13,866	17,910
+20984	VEN	Venezuela (Bolivarian Republic of)	1988	14,308	18,379
+20985	VEN	Venezuela (Bolivarian Republic of)	1989	12,750	18,851
+20986	VEN	Venezuela (Bolivarian Republic of)	1990	13,251	19,325
+20987	VEN	Venezuela (Bolivarian Republic of)	1991	14,275	19,765
+20988	VEN	Venezuela (Bolivarian Republic of)	1992	14,902	20,204
+20989	VEN	Venezuela (Bolivarian Republic of)	1993	14,694	20,641
+20990	VEN	Venezuela (Bolivarian Republic of)	1994	14,129	21,075
+20991	VEN	Venezuela (Bolivarian Republic of)	1995	14,448	21,507
+20992	VEN	Venezuela (Bolivarian Republic of)	1996	14,212	21,936
+20993	VEN	Venezuela (Bolivarian Republic of)	1997	14,894	22,362
+20994	VEN	Venezuela (Bolivarian Republic of)	1998	14,739	22,785
+20995	VEN	Venezuela (Bolivarian Republic of)	1999	13,669	23,205
+20996	VEN	Venezuela (Bolivarian Republic of)	2000	13,993	23,621
+20997	VEN	Venezuela (Bolivarian Republic of)	2001	14,298	24,034
+20998	VEN	Venezuela (Bolivarian Republic of)	2002	12,856	24,451
+20999	VEN	Venezuela (Bolivarian Republic of)	2003	11,728	24,870
+21000	VEN	Venezuela (Bolivarian Republic of)	2004	13,713	25,287
+21001	VEN	Venezuela (Bolivarian Republic of)	2005	14,944	25,702
+21002	VEN	Venezuela (Bolivarian Republic of)	2006	16,254	26,117
+21003	VEN	Venezuela (Bolivarian Republic of)	2007	17,386	26,629
+21004	VEN	Venezuela (Bolivarian Republic of)	2008	18,019	27,139
+21005	VEN	Venezuela (Bolivarian Republic of)	2009	17,243	27,551
+21006	VEN	Venezuela (Bolivarian Republic of)	2010	17,106	27,961
+21007	VEN	Venezuela (Bolivarian Republic of)	2011	17,746	28,366
+21008	VEN	Venezuela (Bolivarian Republic of)	2012	18,549	28,760
+21009	VEN	Venezuela (Bolivarian Republic of)	2013	21,429	29,147
+21010	VEN	Venezuela (Bolivarian Republic of)	2014	20,317	29,453
+21011	VEN	Venezuela (Bolivarian Republic of)	2015	18,802	29,727
+21012	VEN	Venezuela (Bolivarian Republic of)	2016	15,219	29,994
+21013	VEN	Venezuela (Bolivarian Republic of)	2017	12,879	29,889
+21014	VEN	Venezuela (Bolivarian Republic of)	2018	10,710	28,890
+21015	VNM	Viet Nam	1820	840	6,551
+21016	VNM	Viet Nam	1870	805	10,528
+21017	VNM	Viet Nam	1913	1,159	19,339
+21018	VNM	Viet Nam	1950	1,049	25,348
+21019	VNM	Viet Nam	1951	1,078	25,794
+21020	VNM	Viet Nam	1952	1,106	26,247
+21021	VNM	Viet Nam	1953	1,135	26,724
+21022	VNM	Viet Nam	1954	1,167	27,210
+21023	VNM	Viet Nam	1955	1,195	27,738
+21024	VNM	Viet Nam	1956	1,218	28,327
+21025	VNM	Viet Nam	1957	1,235	28,999
+21026	VNM	Viet Nam	1958	1,251	29,775
+21027	VNM	Viet Nam	1959	1,262	30,683
+21028	VNM	Viet Nam	1960	1,274	31,656
+21029	VNM	Viet Nam	1961	1,294	32,701
+21030	VNM	Viet Nam	1962	1,411	33,796
+21031	VNM	Viet Nam	1963	1,406	34,932
+21032	VNM	Viet Nam	1964	1,427	36,099
+21033	VNM	Viet Nam	1965	1,398	37,258
+21034	VNM	Viet Nam	1966	1,369	38,378
+21035	VNM	Viet Nam	1967	1,165	39,464
+21036	VNM	Viet Nam	1968	1,114	40,512
+21037	VNM	Viet Nam	1969	1,178	41,542
+21038	VNM	Viet Nam	1970	1,172	42,577
+21039	VNM	Viet Nam	1971	1,202	43,614
+21040	VNM	Viet Nam	1972	1,278	44,655
+21041	VNM	Viet Nam	1973	1,333	45,736
+21042	VNM	Viet Nam	1974	1,248	46,902
+21043	VNM	Viet Nam	1975	1,132	48,075
+21044	VNM	Viet Nam	1976	1,290	49,273
+21045	VNM	Viet Nam	1977	1,304	50,534
+21046	VNM	Viet Nam	1978	1,285	51,663
+21047	VNM	Viet Nam	1979	1,267	52,668
+21048	VNM	Viet Nam	1980	1,207	53,715
+21049	VNM	Viet Nam	1981	1,223	54,903
+21050	VNM	Viet Nam	1982	1,293	56,142
+21051	VNM	Viet Nam	1983	1,333	57,436
+21052	VNM	Viet Nam	1984	1,420	58,762
+21053	VNM	Viet Nam	1985	1,471	60,093
+21054	VNM	Viet Nam	1986	1,481	61,440
+21055	VNM	Viet Nam	1987	1,500	62,826
+21056	VNM	Viet Nam	1988	1,556	64,211
+21057	VNM	Viet Nam	1989	1,588	65,868
+21058	VNM	Viet Nam	1990	1,634	67,283
+21059	VNM	Viet Nam	1991	1,688	68,663
+21060	VNM	Viet Nam	1992	1,793	70,005
+21061	VNM	Viet Nam	1993	1,895	71,311
+21062	VNM	Viet Nam	1994	2,018	72,586
+21063	VNM	Viet Nam	1995	2,167	73,810
+21064	VNM	Viet Nam	1996	2,323	74,974
+21065	VNM	Viet Nam	1997	2,467	76,081
+21066	VNM	Viet Nam	1998	2,564	77,136
+21067	VNM	Viet Nam	1999	2,641	78,170
+21068	VNM	Viet Nam	2000	2,773	79,207
+21069	VNM	Viet Nam	2001	2,916	80,239
+21070	VNM	Viet Nam	2002	3,071	81,288
+21071	VNM	Viet Nam	2003	3,242	82,327
+21072	VNM	Viet Nam	2004	3,438	83,383
+21073	VNM	Viet Nam	2005	3,638	84,456
+21074	VNM	Viet Nam	2006	3,829	85,502
+21075	VNM	Viet Nam	2007	4,037	86,550
+21076	VNM	Viet Nam	2008	4,200	87,590
+21077	VNM	Viet Nam	2009	4,360	88,609
+21078	VNM	Viet Nam	2010	4,572	89,604
+21079	VNM	Viet Nam	2011	4,786	90,582
+21080	VNM	Viet Nam	2012	4,984	91,553
+21081	VNM	Viet Nam	2013	5,200	92,512
+21082	VNM	Viet Nam	2014	5,455	93,456
+21083	VNM	Viet Nam	2015	5,763	94,383
+21084	VNM	Viet Nam	2016	6,062	95,296
+21085	VNM	Viet Nam	2017	6,422	96,195
+21086	VNM	Viet Nam	2018	6,814	97,076
+21087	YEM	Yemen	1820		2,593
+21088	YEM	Yemen	1870		2,840
+21089	YEM	Yemen	1913		3,284
+21090	YEM	Yemen	1950	1,452	4,777
+21091	YEM	Yemen	1951	1,463	4,869
+21092	YEM	Yemen	1952	1,473	4,964
+21093	YEM	Yemen	1953	1,482	5,061
+21094	YEM	Yemen	1954	1,492	5,162
+21095	YEM	Yemen	1955	1,502	5,265
+21096	YEM	Yemen	1956	1,508	5,380
+21097	YEM	Yemen	1957	1,516	5,498
+21098	YEM	Yemen	1958	1,522	5,619
+21099	YEM	Yemen	1959	1,529	5,744
+21100	YEM	Yemen	1960	1,537	5,872
+21101	YEM	Yemen	1961	1,545	5,994
+21102	YEM	Yemen	1962	1,554	6,120
+21103	YEM	Yemen	1963	1,568	6,248
+21104	YEM	Yemen	1964	1,576	6,378
+21105	YEM	Yemen	1965	1,588	6,510
+21106	YEM	Yemen	1966	1,605	6,625
+21107	YEM	Yemen	1967	1,624	6,741
+21108	YEM	Yemen	1968	1,639	6,859
+21109	YEM	Yemen	1969	1,658	6,978
+21110	YEM	Yemen	1970	1,961	7,098
+21111	YEM	Yemen	1971	2,254	7,251
+21112	YEM	Yemen	1972	2,383	7,407
+21113	YEM	Yemen	1973	2,614	7,580
+21114	YEM	Yemen	1974	2,703	7,755
+21115	YEM	Yemen	1975	2,844	7,934
+21116	YEM	Yemen	1976	3,193	8,171
+21117	YEM	Yemen	1977	3,446	8,404
+21118	YEM	Yemen	1978	3,636	8,641
+21119	YEM	Yemen	1979	3,733	8,883
+21120	YEM	Yemen	1980	3,650	9,133
+21121	YEM	Yemen	1981	3,767	9,390
+21122	YEM	Yemen	1982	3,724	9,658
+21123	YEM	Yemen	1983	3,827	9,936
+21124	YEM	Yemen	1984	3,861	10,229
+21125	YEM	Yemen	1985	3,717	10,540
+21126	YEM	Yemen	1986	3,684	10,870
+21127	YEM	Yemen	1987	3,712	11,219
+21128	YEM	Yemen	1988	3,747	11,591
+21129	YEM	Yemen	1989	3,751	11,986
+21130	YEM	Yemen	1990	3,622	12,416
+21131	YEM	Yemen	1991	3,662	13,044
+21132	YEM	Yemen	1992	3,760	13,735
+21133	YEM	Yemen	1993	3,712	14,456
+21134	YEM	Yemen	1994	3,775	15,160
+21135	YEM	Yemen	1995	3,823	15,813
+21136	YEM	Yemen	1996	3,856	16,402
+21137	YEM	Yemen	1997	3,928	16,939
+21138	YEM	Yemen	1998	4,044	17,442
+21139	YEM	Yemen	1999	4,080	17,941
+21140	YEM	Yemen	2000	4,212	18,459
+21141	YEM	Yemen	2001	4,249	18,999
+21142	YEM	Yemen	2002	4,292	19,556
+21143	YEM	Yemen	2003	4,327	20,130
+21144	YEM	Yemen	2004	4,371	20,718
+21145	YEM	Yemen	2005	4,486	21,320
+21146	YEM	Yemen	2006	4,497	21,935
+21147	YEM	Yemen	2007	4,516	22,566
+21148	YEM	Yemen	2008	4,549	23,212
+21149	YEM	Yemen	2009	4,594	23,874
+21150	YEM	Yemen	2010	4,812	24,551
+21151	YEM	Yemen	2011	4,088	25,243
+21152	YEM	Yemen	2012	4,077	25,949
+21153	YEM	Yemen	2013	4,165	26,663
+21154	YEM	Yemen	2014	4,054	27,381
+21155	YEM	Yemen	2015	2,844	28,096
+21156	YEM	Yemen	2016	2,506	28,806
+21157	YEM	Yemen	2017	2,322	29,513
+21158	YEM	Yemen	2018	2,285	30,217
+21159	YUG	Former Yugoslavia	1		1,500
+21160	YUG	Former Yugoslavia	1000		1,750
+21161	YUG	Former Yugoslavia	1500		2,250
+21162	YUG	Former Yugoslavia	1600		2,750
+21163	YUG	Former Yugoslavia	1700		2,750
+21164	YUG	Former Yugoslavia	1820		5,215
+21165	YUG	Former Yugoslavia	1850		6,000

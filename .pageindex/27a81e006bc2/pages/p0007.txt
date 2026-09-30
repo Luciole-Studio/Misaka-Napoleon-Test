@@ -1,0 +1,44 @@
+are of timely relevance, since they corroborate the effects of mounting fiscal pressure on
+prices in a fiat currency regime with flexible exchange rates, the mode of economic or-
+ganization chosen by most industrialized economies today.
+
+
+The remainder of the article is organized as follows. Section 2 lays out the analytical
+background linking evolutions in public debt and the price level. Section 3 outlines links
+to the relevant literature, after which section 4 briefly recalls the events that led to the
+suspension and resumption of the gold standard in 1797 and 1821 respectively. Section
+5 then details the econometric procedure used to detect the events shaping fiscal an-
+ticipations and, hence, asset prices. The following section 6 comments on the results.
+Section 7 discusses the hypotheses underlying my interpretation of events, while section
+8 concludes briefly.
+
+
+
+
+2        Background
+
+Understanding macroeconomic evolutions and notably price movements during the first
+long restriction of the gold standard does less hinge on knowing what happened when
+Britain initially suspended convertibility or why it did so. What really matters for such
+an understanding is to comprehend the economic and political circumstances that pre-
+vailed when Britain came to resume the gold standard.
+
+
+By the time discussions regarding the gold standard’s resumption started after Napoleon’s
+final defeat at Waterloo in 1815, the debt to GDP ratio had climbed to 226%; the price
+level exceeded its 1797 level by 22.3% (Officer, and Williamson, 2013; Gayer, Rostow,
+and Schwartz, 1953).2 Under these circumstances, getting back to the pound’s prewar
+parity would come at high deflationary costs. In particular, wartime inflation had to be
+made undone by peacetime deflation in order to peg the paper pound to its pre-war gold
+content.3
+    2
+        Both metrics would reach 260% and 20.6% respectively when resumption was finally decided in
+1819.
+   3
+     A functioning gold standard relies on precisely this adjustment mechanism. Inflationary outbursts
+are countered by deflationary episodes, guaranteeing the stability of the price level. As Meltzer and
+Robinson (1989) have pointed out, the gold standard’s perceived long-term stability, thus, masks high
+
+
+
+                                                  5

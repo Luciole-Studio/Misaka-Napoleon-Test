@@ -1,0 +1,301 @@
+{
+  "status": "ok",
+  "query": "Valentim Alexandre sentidos do imperio questao nacional",
+  "domain": "annas-archive.gl",
+  "count": 49,
+  "results": [
+    {
+      "title": "Os sentidos do Império: questão nacional e questão colonial na crise do Antigo Regime português",
+      "authors": "Valentim Alexandre",
+      "publisher": "None",
+      "language": "PDF",
+      "format": "",
+      "size": "75.7MB",
+      "hash": "47d831c2f0c0b9b8144adc9f3e1c8df0",
+      "url": "https://annas-archive.gl/md5/47d831c2f0c0b9b8144adc9f3e1c8df0"
+    },
+    {
+      "title": "Cores, marcas e falas : sentidos da mestiçagem no Imperio do Brasil",
+      "authors": "Ivana Stolze Lima",
+      "publisher": "Arquivo Nacional, Prêmio Arquivo Nacional de Pesquisa, Rio de Janeiro, RJ, ©2003",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "15.1MB",
+      "hash": "9e7ba9be36e232e914ea6804c9f508d8",
+      "url": "https://annas-archive.gl/md5/9e7ba9be36e232e914ea6804c9f508d8"
+    },
+    {
+      "title": "A Independência e o Império do Brasil",
+      "authors": "Alexandre José de Melo Morais",
+      "publisher": "Edições do Senado Federal, 2004",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "2.4MB",
+      "hash": "d13d851c765f60852dc3a43f06f9db7b",
+      "url": "https://annas-archive.gl/md5/d13d851c765f60852dc3a43f06f9db7b"
+    },
+    {
+      "title": "A Independência e o Império do Brasil",
+      "authors": "Alexandre José de Melo Morais",
+      "publisher": "Edições do Senado Federal, 2004",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "2.4MB",
+      "hash": "b9c2c6b6330cb48acd133632b1543706",
+      "url": "https://annas-archive.gl/md5/b9c2c6b6330cb48acd133632b1543706"
+    },
+    {
+      "title": "História da política exterior do Brasil: do período colonial ao reconhecimento do Império (1500-1825)",
+      "authors": "Renato Mendonça",
+      "publisher": "Fundação Alexandre de Gusmão, História diplomática (Fundação Alexandre de Gusmão), Brasília, 2013",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "12.7MB",
+      "hash": "5c8e734715df38da72f17c8faedb0584",
+      "url": "https://annas-archive.gl/md5/5c8e734715df38da72f17c8faedb0584"
+    },
+    {
+      "title": "Figuras do Império e outros ensaios",
+      "authors": "Baptista Pereira",
+      "publisher": "Ed. Nacional, Brasiliana, 1934",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "4.7MB",
+      "hash": "e2f66e63aa6b3507b1a0035babd6cbb7",
+      "url": "https://annas-archive.gl/md5/e2f66e63aa6b3507b1a0035babd6cbb7"
+    },
+    {
+      "title": "Temas do Ministério Público: Acordos no Sistema de Justiça e Liberdade de Expressão",
+      "authors": "Alexandre Espinosa Bravo Barbosa;outros autores",
+      "publisher": "Associação Nacional dos Procuradores República, 1, 2019",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "2.8MB",
+      "hash": "07e6b20085024832b8ccf48237b95301",
+      "url": "https://annas-archive.gl/md5/07e6b20085024832b8ccf48237b95301"
+    },
+    {
+      "title": "História da queda do Império - Tomo 1 320",
+      "authors": "Heitor Lyra",
+      "publisher": "Ed. Nacional, Brasiliana, 320, 1964",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "8.0MB",
+      "hash": "5e6eb424ba1e8c7cbf8fbd8617df8d18",
+      "url": "https://annas-archive.gl/md5/5e6eb424ba1e8c7cbf8fbd8617df8d18"
+    },
+    {
+      "title": "O Conselho de Estado e a política externa do Império: consultas da Seção dos Negócios Estrangeiros, 1863-1867",
+      "authors": "Fundação Alexandre de Gusmão. Centro de História e Documentação Diplomática",
+      "publisher": "Rio de Janeiro : FUNAG, Fundação Alexandre de Gusmão, Conselho de Estado e a política externa do império : consultas da Seção dos Negócios Estrangeiros / Ministério das Relações Exteriores, Rio de Janeiro, 2007",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "19.0MB",
+      "hash": "0f849447e481e80cf42bd4bf8eb67edb",
+      "url": "https://annas-archive.gl/md5/0f849447e481e80cf42bd4bf8eb67edb"
+    },
+    {
+      "title": "A economia política e os dilemas do império Luso-Brasileiro, 1790-1822",
+      "authors": "José Luís Cardoso (editor)",
+      "publisher": "Comissão Nacional para as Comemorações dos Descobrimentos Portugueses, Colecção Outras margens, Outras margens, 1. ed., Lisboa, Portugal, 2001",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "29.0MB",
+      "hash": "3d981695bfa537e139b5459bdc27f7a1",
+      "url": "https://annas-archive.gl/md5/3d981695bfa537e139b5459bdc27f7a1"
+    },
+    {
+      "title": "Magia elemental",
+      "authors": "Victor Valentim",
+      "publisher": "Academia;Editora Planeta do Brasil Ltda., 2023",
+      "language": "Portuguese",
+      "format": "EPUB",
+      "size": "16.9MB",
+      "hash": "9ed36d1cb1f3609f9275a5702ff62d52",
+      "url": "https://annas-archive.gl/md5/9ed36d1cb1f3609f9275a5702ff62d52"
+    },
+    {
+      "title": "A questão nacional na Primeira República",
+      "authors": "Lúcia Lippi Oliveira",
+      "publisher": "Brasiliense, 1990",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "6.7MB",
+      "hash": "ef8b929ae05e635b6efba8f4be8e6bad",
+      "url": "https://annas-archive.gl/md5/ef8b929ae05e635b6efba8f4be8e6bad"
+    },
+    {
+      "title": "Apresentação do PowerPoint",
+      "authors": "Jéssica Valentim",
+      "publisher": "2020",
+      "language": "PDF",
+      "format": "",
+      "size": "0.3MB",
+      "hash": "94d193dc9e34a500ce2f951138ea1877",
+      "url": "https://annas-archive.gl/md5/94d193dc9e34a500ce2f951138ea1877"
+    },
+    {
+      "title": "Os sentidos do lulismo",
+      "authors": "Singer, André",
+      "publisher": "Companhia das Letras, 2012",
+      "language": "Portuguese",
+      "format": "MOBI",
+      "size": "0.8MB",
+      "hash": "4dbbeb089e725676e5f29fa829e6d0fc",
+      "url": "https://annas-archive.gl/md5/4dbbeb089e725676e5f29fa829e6d0fc"
+    },
+    {
+      "title": "Política Nacional Do Idoso: Velhas E Novas Questões",
+      "authors": "Alexandre de Oliveira Alcântara, Ana Amélia Camarano, Karla Cristina Giacomin",
+      "publisher": "Ipea,, Rio de Janeiro, 2016",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "11.1MB",
+      "hash": "7ea865094e18e2705f9d9314334e11c3",
+      "url": "https://annas-archive.gl/md5/7ea865094e18e2705f9d9314334e11c3"
+    },
+    {
+      "title": "A questão nacional e a autonomia",
+      "authors": "Rosa Luxemburgo",
+      "publisher": "Oficina de Livros, Coleção Fundamentos, 1988",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "38.3MB",
+      "hash": "71fc6f87e0dd52b18395b4bd008a5c80",
+      "url": "https://annas-archive.gl/md5/71fc6f87e0dd52b18395b4bd008a5c80"
+    },
+    {
+      "title": "Apresentação do PowerPoint",
+      "authors": "Jéssica Valentim",
+      "publisher": "2020",
+      "language": "PDF",
+      "format": "",
+      "size": "0.4MB",
+      "hash": "431e00dbde8bbea7ea3d74ae7fc09b85",
+      "url": "https://annas-archive.gl/md5/431e00dbde8bbea7ea3d74ae7fc09b85"
+    },
+    {
+      "title": "Apresentação do PowerPoint",
+      "authors": "Jéssica Valentim",
+      "publisher": "2021",
+      "language": "PDF",
+      "format": "",
+      "size": "2.6MB",
+      "hash": "6abe43b173131c6249429c5a939c1090",
+      "url": "https://annas-archive.gl/md5/6abe43b173131c6249429c5a939c1090"
+    },
+    {
+      "title": "Documentos apresentados ás Cortes na sessão legislativa de 1884-5 pelo Ministro e Secretario d'Estado dos Negocios Estrangeiros : Questão do Zaire.",
+      "authors": "Portugal. Ministério dos Negócios Estrangeiros.",
+      "publisher": "Impr. Nacional, 1884-1885., Portugal, 1885",
+      "language": "Portuguese",
+      "format": "",
+      "size": "0.3MB",
+      "hash": "834a13321780705770ad19b02b25781c",
+      "url": "https://annas-archive.gl/md5/834a13321780705770ad19b02b25781c"
+    },
+    {
+      "title": "Os Sentidos do Lulismo",
+      "authors": "Andre Singer",
+      "publisher": "Companhia Digital, Brazil, Brazil",
+      "language": "Portuguese",
+      "format": "MOBI",
+      "size": "0.8MB",
+      "hash": "9045769bb41801d803adf07850e13756",
+      "url": "https://annas-archive.gl/md5/9045769bb41801d803adf07850e13756"
+    },
+    {
+      "title": "Os sentidos do lulismo",
+      "authors": "André Singer",
+      "publisher": "Companhia das Letras, 2012",
+      "language": "Portuguese",
+      "format": "EPUB",
+      "size": "1.0MB",
+      "hash": "98b4562180b416ef27a00d5f5005a204",
+      "url": "https://annas-archive.gl/md5/98b4562180b416ef27a00d5f5005a204"
+    },
+    {
+      "title": "Quebra-quilos - Lutas sociais no outono do Império 366",
+      "authors": "Armando Souto Maior",
+      "publisher": "Ed. Nacional, Brasiliana, 366, 1978",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "3.4MB",
+      "hash": "3167c84454b9d887a38be5d56ab62a18",
+      "url": "https://annas-archive.gl/md5/3167c84454b9d887a38be5d56ab62a18"
+    },
+    {
+      "title": "Apresentação do PowerPoint",
+      "authors": "Jéssica Valentim",
+      "publisher": "2020",
+      "language": "PDF",
+      "format": "",
+      "size": "0.4MB",
+      "hash": "0f55dda57cfad17630f85cb365c16b56",
+      "url": "https://annas-archive.gl/md5/0f55dda57cfad17630f85cb365c16b56"
+    },
+    {
+      "title": "Apresentação do PowerPoint",
+      "authors": "Jéssica Valentim",
+      "publisher": "2021",
+      "language": "PDF",
+      "format": "",
+      "size": "0.1MB",
+      "hash": "3503a903088c51cd70968836bd7b98af",
+      "url": "https://annas-archive.gl/md5/3503a903088c51cd70968836bd7b98af"
+    },
+    {
+      "title": "Apresentação do PowerPoint",
+      "authors": "Jéssica Valentim",
+      "publisher": "2020",
+      "language": "PDF",
+      "format": "",
+      "size": "1.6MB",
+      "hash": "e75a7426f35560f2f41f31c7cbfee7ee",
+      "url": "https://annas-archive.gl/md5/e75a7426f35560f2f41f31c7cbfee7ee"
+    },
+    {
+      "title": "A política exterior do Império / J. Pandiá Calógeras.",
+      "authors": "Calógeras, João Pandiá, 1870-1934.",
+      "publisher": "Câmara dos Deputados : Fundação Alexandre de Gusmão ; Companhia Editora Nacional, 1989., Brazil, 1989",
+      "language": "Portuguese",
+      "format": "",
+      "size": "0.9MB",
+      "hash": "c70ae26475649718b4123d4ad6c29cdb",
+      "url": "https://annas-archive.gl/md5/c70ae26475649718b4123d4ad6c29cdb"
+    },
+    {
+      "title": "A política exterior do Império / J. Pandiá Calógeras.",
+      "authors": "Calógeras, João Pandiá, 1870-1934.",
+      "publisher": "Câmara dos Deputados : Fundação Alexandre de Gusmão ; Companhia Editora Nacional, 1989., Brazil, 1989",
+      "language": "Portuguese",
+      "format": "",
+      "size": "0.7MB",
+      "hash": "8fa7a273b22839031cb18b4107f30949",
+      "url": "https://annas-archive.gl/md5/8fa7a273b22839031cb18b4107f30949"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1851",
+      "language": "Portuguese",
+      "format": "",
+      "size": "1.6MB",
+      "hash": "4370da1afa1b893eed0b128443e76830",
+      "url": "https://annas-archive.gl/md5/4370da1afa1b893eed0b128443e76830"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1841",
+      "language": "Portuguese",
+      "format": "",
+      "size": "1.8MB",
+      "hash": "486d84ac054ff92e4efe1f3910a0417e",
+      "url": "https://annas-archive.gl/md5/486d84ac054ff92e4efe1f3910a0417e"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1840",
+      "language": "Portuguese",

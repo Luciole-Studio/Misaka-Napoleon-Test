@@ -1,0 +1,16 @@
+{
+  "present": {
+    "units": "Exports GBP million; output and earnings reindexed to 1803=100; population thousands GB+NI",
+    "frequency": "annual or expressly labelled 3-year means",
+    "seasonal_adjustment": "NSA historical annual aggregates",
+    "real_or_nominal": "Separate files: declared/computed nominal exports; official late-C17 fixed-price values NOT reliable modern real values; A4 historical volume indices; relative B/D earnings deflated by CPI",
+    "base_year": "Export declared: current prices (no constant base); official: late-C17 price tariff; ratios reindexed 1803=100; scenario early units use 1804-06 transaction-scale equivalents; late units use 1844-46 transaction-scale equivalents; these are separate within-benchmark stress calculations, not observed intertemporal deflation",
+    "source": "BoE millennium v3.1 historical compilation (A4 Broadberry et al 2015; A40 Moreau1822 via Mitchell1988; A41 Davis1979; A47 historical wage compilation); Heckscher1922 p245 image",
+    "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-the-uk.xlsx; downloads/B2_BoE_millennium_v31.xlsx; downloads/c15_heckscher1922.pdf",
+    "retrieved_at": "BoE download 2026-09-23 per B2 SOURCES record; not independently re-downloaded; B5 local extraction 2026-09-23",
+    "vintage": "BoE workbook v3.1, no recalculation of source cached cells; Heckscher1922 edition; Marshall1833 scanned edition (if used); SOURCE ERROR flags retained"
+  },
+  "missing": {},
+  "GATE": "✅ 口径元数据齐全",
+  "note": "宏观数据口径不透明是审稿前看不出、审稿后被毙的错误来源。季调/名义实际/基期/vintage 是四大致命项。"
+}

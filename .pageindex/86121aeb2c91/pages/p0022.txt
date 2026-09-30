@@ -1,0 +1,43 @@
+## Sheet: A3. APF and QE
+
+`data region: A1:R15`
+	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R
+1	Back to front page	A3. Asset Purchase Facility (APF) Balance Sheet, 2009-2019																
+2		Assets									Liabilities							
+3	All figures £mn unless otherwise stated	Total	Cash	Due from HM Treasury under Indemnity	Debt Securities				Other	TFS Loans	Loan from Bank of England	Due to HM Treasury under indemnity	Other liabilities	Equity		Total		Memo: APF holdings of gilts valued at initial purchase price (quoted in Annual Report)
+4	28th Feb of each year				Gilts	Corporate Bonds	Secured commercial paper	Other commercial paper						Capital	Retained earnings			
+5	2009	820	0	0	0	0	0	820	0	0	820	0	0	0	0	820		0
+6	2010	200001	3761	1752	192768	1533	0	180	7	0	200000	0	0	0	0	200001	0	198275
+7	2011	209689	11784	0	196522	1355	25	0	3	0	199856	9832	0	0	0	209689	0	198275
+8	2012	329267	20714	0	308062	485	0	0	6	0	286659	41105	0	0	0	329267	0	287100
+9	2013	416571	24052	0	392485	27	0	0	7	0	375306	41265	0	0	0	416571	0	375000
+10	2014	375589	1040	0	374549	0	0	0	0	0	375311	277	0	0	0	375589	0	375000
+11	2015	404367	1185	0	403182	0	0	0	0	0	375316	29051	0	0	0	404367	0	375000
+12	2016	414668	1322	0	413346	0	0	0	0	0	375326	39342	0	0	0	414668	0	375000
+13	2017	536451	6217	0	480161	7804	0	0	2	42,267	485238	50325	888	0	0	536451	0	431900
+14	2018	605167	4260	0	464315	9473	0	0	1	127,118	572174	32992	1	0	0	605167	0	435000
+15	2019	477816	4880	0	463905	8982	0	0	49	0	445198	32618	0	0	0	477816	0	435000
+
+```meta
+▸ formulas
+    A7:A14 =R[-1]C+1
+    B6:B15 =SUM(RC[1]:RC[8])
+    H5 =340+480
+    Q6:Q15 =RC[-1]-RC[-15]
+▸ number-format
+    #,##0 J6:J15,O6:O15,D15
+    0 B6:I14,K6:N14,P6:Q15,R7:R15,B15:C15,E15:I15,L15:N15
+▸ merged
+    B2:J2 (value at B2)
+    E3:H3 (value at E3)
+    K2:P2 (value at K2)
+    N3:O3 (value at N3)
+▸ styles
+    bold: B1:B3,K2:K3,C3:E3,I3:J3,L3:N3,P3,R3,N4:O4
+    underline: A1
+▸ extras
+    comment C3:"Thomas, Ryland: Balance with the Bank of England"
+    comment A5:"Thomas, Ryland: 26 February"
+    comment J15:"Thomas, Ryland: The Governor announced in his Mansion House "
+```
+

@@ -1,0 +1,6 @@
+
+
+## 模型资产与未补之材料
+
+- `build_e1_resources.py` 从本卡亲读来源重建 `E1_resources.csv`（185行；空缺不插值，OWID**上游**插值例外）；`build_e1_stress.py` 重建8行 `E1_scenario_stress.csv`，仅假设 `food1.5kg/person-day`, `horse10kg/day`, `local share50–85%`, `route loss5–15%`，并不授予历史真值。两CSV结果和源码均在本卡目录，`notes_*`逐来源摘录。
+- 交办提示的Riehn、Bamford、Crosby、Post *The Last Great Subsistence Crisis*、Mitchell *European Historical Statistics*、Slicher van Bath等仍属**可追踪书目/缺口而非本稿已读实证**。尤其Post关于1816–17超地方粮价、Mitchell历史疆界人口和年度马/煤数有潜在价值，未获得可核的相关页，不能装作已读；若后续获页应重核疆域与统计断点。俄语、希腊语、德语原档尚缺，原档系列名仅检索路线。

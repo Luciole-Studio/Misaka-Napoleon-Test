@@ -1,0 +1,49 @@
+1098                          Rouanet and Piano
+Batchelder, Ronald W., and Herman Freudenberger. “On the Rational Origins of the
+     Modern Centralized State.” Explorations in Economic History 20, no. 1 (1983):
+     1–13.
+Belsley, David A., Edwin Kuh, and Roy E. Welsch. Regression Diagnostics: Identifying
+     Influential Data and Sources of Collinearity. New York: John Wiley & Sons, 2005.
+Besley, Tim, and Torsten Persson. “State Capacity, Conflict, and Development.”
+     Econometrica 78, no. 1 (2010): 1–34.
+Best, Geoffrey. War and Society in Revolutionary Europe, 1770–1870. Montreal:
+     McGill Queen’s Press-MQUP, 1998.
+Bonney, Richard, ed. The Rise of the Fiscal State in Europe c. 1200–1815. Oxford, UK:
+     Clarendon Press, 1999.
+Capefigue, Jean-Baptiste. L’Europe Pendant le Consulat et l’Empire de Napoléon, Vol.
+     2. Paris: Wouters, 1842.
+Carter, David B., Andrew C. Shaver, and Austin L. Wright. “Places to Hide: Terrain,
+     Ethnicity, and Civil Conflict.” Journal of Politics 81, no. 4 (2019): 1446–65.
+Chandler, Daniel G. The Military Maxims of Napoleon. New York: Simon and Schuster,
+     2016.
+Conley, Timothy G. “GMM Estimation with Cross Sectional Dependence.” Journal of
+     Econometrics 92, no. 1 (1999): 1–45.
+Cox, Gary W. “British State Development after the Glorious Revolution.” European
+     Review of Economic History 24, no. 1 (2020): 24–45.
+de Halle, Pierre-Étienne H. Statistique Générale et Particulière de la France et de ses
+     Colonies, Vol. 7. Paris: F. Buisson, 1803.
+Deferrière, Alexandre, ed. Archives Statistiques de la France. Paris: Imprimerie Valade,
+     1804.
+Delbrück, Hans. History of the Art of War: Within the Framework of Political History.
+     Greenwood: Press Westport, 1985.
+Dincecco, Mark. “The Rise of Effective States in Europe.” Journal of Economic History
+     75, no. 3 (2015): 901–18.
+Dincecco, Mark, and Mauricio Prado. “Warfare, Fiscal Capacity, and Performance.”
+     Journal of Economic Growth 17, no. 3 (2012): 171–203.
+Downing, Brian. The Military Revolution and Political Change. Princeton, NJ: Princeton
+     University Press, 1992.
+Elting, John R. Swords Around a Throne: Napoleon’s Grande Armée. Boston: Da Capo
+     Press, 1997.
+Forrest, Alan I. Conscripts and Deserters: The Army and French Society during the
+     Revolution and Empire. Oxford, UK: Oxford University Press, 1989.
+Fouché, Joseph. La Police Secrète du Premier Empire. Bulletins quotidiens adressés
+     par Fouché à l’Empereur. Tome II (1805–1806). Paris: Perrin et Co, 1913.
+———. La Police Secrète du Premier Empire. Bulletins quotidiens adressés par
+     Fouché à l’Empereur. Tome III (1806–1807). Paris: Perrin et Co, 1922.
+———. La Police Secrète du Premier Empire. Bulletins quotidiens adressés par Fouché
+     à l’Empereur. Nouvelle Série (1808–1809). Paris: Librairie Historique, 1964.
+Furet, Francois. The French Revolution 1770–1880. London: Wiley-Blackwell, 1996.
+Gaviria, Alejandro. “Increasing Returns and the Evolution of Violent Crime: The Case
+     of Colombia.” Journal of Development Economics 61, no. 1 (2000): 1–25.
+Gennaioli, Nicola, and Hans-Joachim Voth. “State Capacity and Military Conflict.”
+     Review of Economic Studies 82, no. 4 (2015): 1409–48.

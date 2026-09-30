@@ -1,0 +1,69 @@
+# C16有界证据札记：英国入侵应急与海外续战
+
+## 结论与证据边界
+
+【裁量·中等置信】现有材料支持英国准备**内陆转移王室成员及政府**；金库转运有明确二手文献线索，但本次未读到承重原页。**未核得1803–05年王室、内阁、金库、舰队一体撤至加拿大并继续战争的具体预案**。不得将伍斯特撤离写成加拿大迁廷，也不得把“海军尚存”的能力判断写成已批准的海外续战命令。这里的“未核得”不是“不存在”。
+
+【事实·研究记录】先检索了 `downloads/c11*.txt`（Corbett、Fortescue V、Desbrière各文本）；读到最直接的英国政府转移陈述是Fortescue V，第265页。Glover仅取得出版说明、目录及受限馆藏记录；Philp仅取得预览与章节线索，未取得Fedorak承重章节全文。Royal Archives取得目录记录、未读原信；TNA网络定向检索未定位撤离命令，不等于完成馆藏调查。没有编写代码。agent-reach的Exa命令被会话审批机制阻止，未绕过；改用现有web_search/web_extract取得材料。
+
+所有下列相对材料路径均以 `/Users/makiko/Documents/exam/` 为根。网页没有纸本页码者以标题、段落或藏品号定位。抓取文本不等于扫描原件；OCR引文特别注明。
+
+## 一、英国：分开核对四个对象
+
+### 1. 政府：伍斯特有直接读到的历史著作陈述
+
+【事实·二手记载】J. W. Fortescue, *A History of the British Army*, vol. V, London: Macmillan, 1910，**p.265**：
+
+> “If Napoleon had succeeded in reaching London, his task would not have been done, for every provision had been made for transporting the seat of Government to Worcester”
+
+本地：`downloads/c11_fortescueV.txt`，约13738–13757行；书名与版年在文件开头。引文按OCR合并空格与断行，未对校扫描页。该句在本页没有独立档案注；页末脚注所引Marmont, *Mémoires*, II, p.216，是拿破仑对攻占伦敦后欧洲反应的判断，**不能拿来给伍斯特预案背书**。
+
+【文献推断·Fortescue】紧接着作者说“there would have been no talk of surrender”，并推演法军失纪、缺粮与拿破仑覆亡。它们是1910年作者的反事实判断，不是1803年英国政府保证、亦不是实证结果。故只采用“伍斯特预案有此记载”，不继承其“必不投降”的结论。
+
+### 2. 王室：乔治三世留军、王后与女儿内迁，非全家登舰
+
+【事实·转引待核原信】1803年11月30日乔治三世自温莎致伍斯特主教Richard Hurd的信，现经网页转引可读：
+
+> “Should his troops effect a landing, I shall certainly put myself at the head of my troops and my other armed subjects to repel them.”
+
+> “should the enemy approach too near to Windsor, I shall think it right the Queen and my daughters should cross the Severn, and send them to your Episcopal Palace at Worcester”
+
+读取版本：Wikipedia, “British anti-invasion preparations of 1803–05”，Contingency plans节；脚注23指向H. F. B. Wheeler and A. M. Broadley, *Napoleon and the Invasion of England*, Nonsuch 2007再版，**p.14**。**该页与原信均未亲见；引文仅转引自上述网页**，不是Royal Archives认证转录。
+
+URL：https://en.wikipedia.org/wiki/British_anti-invasion_preparations_of_1803%E2%80%9305
+
+本地：`downloads/pages/24084fc70707.md`。
+
+【裁量·中】可支持“特定王室成员的境内避难意图”，不能支持加拿大去向、指定船只、内阁海外组织或跨洋财政安排。跨Severn与“Episcopal Palace at Worcester”的精确地理关系尚须原信与住宅史核对；不擅自改写为Hartlebury Castle。
+
+### 3. 金库：明确线索，但暂不升格为核实的执行细则
+
+【事实·二手转引线索】同一网页Contingency plans节写银行账册送伦敦塔，财宝由Sir Brook Watson负责，用30辆车、12批志愿军护送接力运往伍斯特；国王及大臣退守Midlands。该段合引：
+
+- Peter A. Lloyd, *The French Are Coming!*, 1992，**p.93**；
+- John Brooke, *King George III*, Panther 1974，**p.598**（邻段国王准备出营的记载指p.597）。
+
+【裁量·低至中】上述页码是已读网页提供的定位，不是已读书页。本次不能保证每项细节分别落在哪本书；“30车/12批”“大教堂藏金”不得作为已核原始事实使用。尤其 **Bank of England treasure不等于英国全部国家金库或全部财政资源**。该段还提Weedon军械库，须另查建设与可用日期，不能把后期设施倒填进1803–05。
+
+### 4. 舰队：没有找到海外续战的具体指令
+
+【事实·检索结果】本次未定位1803–05年针对“伦敦或英国本土失陷”而制定的海军撤离集合港、护送王室船名、加拿大目的港、指挥权交接、携金清单或殖民政府接纳命令。
+
+【模型推演】即使陆上战败，仍可能有海军与海外据点不受法军直接占领；但“可继续作战”须额外假设舰队忠诚、合法政府持续、军饷与补给渠道存续、基地可维修补员及没有有效停战命令。**不能以1807葡萄牙案例补出英国1803年不存在于已读材料中的计划。**
+
+## 二、优先来源核查与下一步最短路径
+
+1. **Glover, *Britain at Bay*（1973）**：【事实·目录】出版社目录列Part II documents 1–2：约克公爵1803年10月19日向Keith提问及Keith于10月21日的答复；另有“The Admiralty’s Tasks”章。它们是下一步核舰队任务边界的明确文献入口，**本次未读正文，不赋予海外撤离内容**。
+   - https://www.routledge.com/Britain-at-Bay-Defence-Against-Bonaparte-1803-14/Glover/p/book/9781032037578
+   - 本地：`downloads/pages/2b175949e34c.md`。
+   - IA记录标 `Access-restricted-item true`，没有取得书内页：https://archive.org/details/britainatbaydefe0000glov ；本地 `downloads/pages/2beac900d76c.md`。
+   - 上述Wikipedia所引Glover pp.17–19涉及1807后欧洲舰队威胁，不是英国加拿大迁廷预案。
+2. **Philp编, *Resisting Napoleon*（2006）**：【事实·书目】最相关的是Charles John Fedorak，“In Defence of Great Britain: Henry Addington, the Duke of York and Military Preparations … 1803–1804”，**pp.91–110**。页幅由Peter Hicks, “The ‘Great Fear’ in the United Kingdom, 1802–1805”, *Napoleonica. La Revue* 32 (2018), pp.97–118，注12核到；但未读Fedorak原章，不能说该章证实或排除撤离。
+   - Hicks：https://shs.cairn.info/revue-napoleonica-la-revue-2018-2-page-97?lang=fr ；`downloads/pages/38f6150f520e.md`。
+   - Philp预览：https://www.perlego.com/book/1634683/resisting-napoleon-the-british-response-to-the-threat-of-invasion-17971815-pdf ；`downloads/pages/28b805092071.md`。抓到的是Harling章开头，不是Fedorak正文。
+3. **Royal Archives**：【事实·目录，不是原信】1803年威尔士亲王文书：**GEO/MAIN/39008, 39868–39891, 39895–40060**，89件。目录直言：
+   > “These documents have been listed only and their contents not catalogued in detail”
+   并列“possible invasion”与“proposal for the Prince to rule Ireland in lieu of the Lord Lieutenant”。**后者不能直接解释为入侵后的爱尔兰流亡政府**，更不是加拿大。
+   - https://ra.rct.uk/Record.aspx?id=GIV_CALENDAR%2F1%2F1803&src=CalmView.Catalog
+   - `downloads/pages/3a6cff896cde.md`。
+4. **TNA**：【未验证】本次定向搜索未找到匹配的撤离档案单件。后续应沿上述著作原注进入HO、WO及ADM 1/ADM 2命令通信；金库另查Bank of England Archive。这里只列检索方向，**不声称读过这些系列，也不虚拟档号**。目录未细编与网络索引缺漏足以使简单关键词检索失效。

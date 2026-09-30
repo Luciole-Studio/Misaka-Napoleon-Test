@@ -1,0 +1,65 @@
+humidity, length of days, sunlight, and rainfall. In constructing our measure, we also deliberately
+
+use the FAO measures that assume rain fed conditions, avoiding measurement error caused by
+
+changes over time in irrigation technology and intensities of irrigation use.
+
+   It is also important to recognize that factors that can respond quickly to human intervention,
+
+such as soil pH or slope, only enter the calculation in an indirect manner, and only have small
+
+effects on the underlying measures. Climatic characteristics, which are unaffected in any signifi-
+
+cant way by human actions, are the sole determinants of whether potatoes can be cultivated on a
+
+grid-cell. Conditional on their ability to be cultivated, the estimated productivity of a grid-cell is
+
+affected by factors that can be influenced by human actions, such as land characteristics like the
+
+pH and/or slope of the soil. As a robustness check, we also constructed an alternative measure of
+
+potato suitability that classifies any land that can cultivate potatoes, no matter how productively or
+
+unproductively, as being fully suitable for potato cultivation. This measure, although potentially
+
+less precise, has the benefit of being determined solely by climatic factors, and not by factors
+
+potentially influenced by human action.17 We find that our results are robust to the use of this
+
+alternative measure of potato suitability. For brevity the results are not reported in the paper, but
+
+are available upon request.
+
+   A second reason why our FAO-based variable may be an imperfect measure of suitability in
+
+the past is because of the evolution of new potato varieties overtime. Certainly, since the Potato
+
+Blight (Phytophthora infestans) of 1845 and 1846, there has been a concerted effort to develop new
+
+varieties. However, the effort was focused on developing new varieties with increased resistance to
+
+Phytophthora infestans, not on developing varieties that could be grown in new climates (Salaman,
+
+1949, pp. 159–166). In the 20th century, the focus was on developing varieties that were visually
+
+appealing to consumers. To this end, varieties were developed that were oval or kidney-shaped,
+
+had a uniform skin color, and were without sprouts in their pits. The other major objective
+
+has been the development of varieties that are resistant to ‘dry rot’, which can develop during
+
+transit (Salaman, 1949, pp. 169–171). In short, the development of new potato varieties has not
+
+focused on creating varieties that can be grown in new locations. Therefore, it is very unlikely that
+
+the development of new varieties results in measurement error that biases our estimates in any
+  17 Recall that climatic factors only are used by the FAO to initially determine if a location is suitable or not. If an area
+
+is suitable, then additional factors, including soil characteristics, are used to determine just how suitable the area is. The
+alternative measure that we construct captures the first stage of the procedure only, and therefore is unaffected by the
+factors most likely influenced by human actions.
+
+
+
+
+                                                             15

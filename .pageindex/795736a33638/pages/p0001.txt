@@ -1,0 +1,259 @@
+---
+source_url: "http://dossiersmarine.free.fr/v_80.htm"
+final_url: "http://dossiersmarine.free.fr/v_80.htm"
+sha256: "863f547ac0b9f5d3c4f34c7008fdd014b7622d55cb26838146b88487e2efa66e"
+text_sha256: "eca804ac177c6d1a4ddad6fc8ae0b9744bc8e1dc1343b25682cc514e7ce2cdb3"
+title: "Vaisseaux de 80"
+---
+
+Title: Vaisseaux de 80
+
+© Dossiersmarine - Copyright 2005-2019 - Alain Clouet - contact : www.dossiersmarine@free.fr
+
+La flotte de Napoléon III
+
+Vaisseaux de 80 canons classes Bucentaure & Indompatble
+
+classe Bucentaure
+
+# Ces vaisseaux basés sur des plans Sané de 1790 ( l'Indomptable) étaient remarquables par leurs qualités nautiques et leur vitesse. Ces vaisseaux
+
+# dits de "80" étaient en fait armés de 86 canons.
+
+#
+
+# nom
+
+# chantiers
+
+# sur cale
+
+# lancement
+
+# en service
+
+# rayé
+
+# armement
+
+# initial
+
+# Bucentaure
+
+# Toulon
+
+# 22-11-1802
+
+# 14-7-1803
+
+# 22-10-1805
+
+# B1 : 30x36,
+
+# B2 : 32x24, gaill. : 18x12 + 6x24 caronades
+
+# Eylau
+
+# Lorient
+
+# 19-12-1805
+
+# 18-11-1808
+
+# 11-3-1809
+
+# 1-6-1829
+
+# B1 : 30x36, B2 : 32x24, gaill. : 14x12+10x36 car.
+
+# Donawerth
+
+# Toulon
+
+# 1806
+
+# 7-1808
+
+# 6-1810
+
+# 1825
+
+# B1 : 30x36, B2 : 32x24, gaill. : 18x12 + 6x24 car.
+
+# Sceptre
+
+# Toulon
+
+# 1809
+
+# 8-1810
+
+# 3-1811
+
+# 1
+
+# 828
+
+# B1 : 30x36, B2 : 32x24, gaill. : 18x12 + 6x24 car.
+
+# Diadème
+
+# Lorient
+
+# 11-1807
+
+# 30-11-1811
+
+# 1-1812
+
+# 21-1-1856
+
+# B1 : 30x36, B2 : 32x24, gaill. : 18x12 + 6x24 car.
+
+# Pacificateur
+
+# Anvers
+
+# 1808
+
+# 1811
+
+# 5-1811
+
+# 10-1823
+
+# B1 : 30x36, B2 : 32x24, gaill. : 14x12+10x36 car.
+
+# Conquérant
+
+# Anvers
+
+# 1803
+
+# 4-1812
+
+# 1812
+
+# 1831
+
+# B1 : 30x36, B2 : 32x24, gaill. : 18x12 + 6x24 car.
+
+# Zélandais
+
+# Cherbourg
+
+# 10-1810
+
+# 10-1813
+
+# 1813
+
+# 11-1836
+
+# B1 : 30x36, B2 : 32x24, gaill. : 4x18 +20x36 car.
+
+# Magnifique
+
+# Lorient
+
+# 1-1808
+
+# 10-1814
+
+# 1814
+
+# 9-1837
+
+# B1 : 30x36, B2 : 32x24, gaill. : 18x12 + 6x24 car.
+
+# Algésiras
+
+# Lorient
+
+# 4-1812
+
+# 8-1823
+
+# 8-1828
+
+# 1846
+
+# B1 : 30x36, B2 : 32x24, gaill. : 18x12 + 6x24 car.
+
+# Neptune
+
+#
+
+# Lorient
+
+# 1-12-1810
+
+# 21-3-1818
+
+# 16-8-1839
+
+# 11-1-1858
+
+# B1 : 30x36, B2 : 32x24, gaill. : 4x18 +20x36 car.
+
+# Jupiter
+
+#
+
+# Cherbourg
+
+# 11-1811
+
+# 22-10-1831
+
+# 4-6-1835
+
+# 4-5-1863
+
+# B1 : 30x36, B2 : 32x24, gaill. : 4x18 +20x36 car.
+
+# San Petri
+
+# Cherbourg
+
+# 2-11-1811
+
+# 8-1-1818
+
+# 10-2-1823
+
+# 4-1-1862
+
+# B1 : 30x36, B2 : 32x24, gaill. : 18x12 + 6x24 car.
+
+#
+
+## caractéristiques
+
+# dimensions
+
+#
+
+# 59.28 x 15.82 x 5.32 m - hauteur de la 1ère bat : 1.78m
+
+# déplacement
+
+# 3 704/3 875 t
+
+# effectif
+
+# 15 off. + 796 h
+
+# propulsion
+
+# 3 mâts - voilure : 2680 / 2875 m² - 1850 : mâture réduite de près de 2 m
+
+# armement
+
+# A partir de 1827 il fut décidé que l’armement du pont supérieur serait constitué de 2 canons de 12 et 22 caronades de 36, et une
+
+# ordonnance de 1837 décida d’armer ces unités de 26 canons de 30 long et 4 obusiers de 80 dans la première batterie, de 32 canons de 30
+
+# court dans la deuxième, et de 4 obusiers de 30 et 20 caronades de 30
+
+# sur le pont supérieur.

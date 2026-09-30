@@ -1,0 +1,49 @@
+
+
+COUNTERFACTUAL THOUGHT EXPERIMENTS 29
+
+‘One need not, of course, accept the radical epistemological argument of
+Dawes to agree with the more moderate mainstream view that canons of
+sound statistical reasoning should constrain our judgments of counterfactuals
+(King, Keohane, and Verba 1994) and, indeed, that we should be alert to the
+psychological fact that people are flawed intuitive statisticians who fall prey
+to various biases in detecting and using covariation data. The experimental
+literature warns us that people often draw inappropriately strong conclusions
+from observing only the cause-presenveffect-present cell of contingency ta-
+bles and see strong relationships between variables that they expect to be
+correlated but are in reality only weakly correlated (Nisbett and Ross 1980).
+A good start in implementing our fifth criterion would be simply to improve
+the accuracy of intuitive estimates of covariation, with special attention to
+sensitizing people to the problem of missing counterfactual data, Accurate
+‘covariation estimates would, however, be just the beginning and would not
+protect us from accepting many false counterfactual claims (Type I errors)
+and rejecting many true ones (Type II errors). We also need to beware of
+biases produced by nonrandom selection, confounding variables, and omit-
+ted variables, as well as a host of other familiar obstacles to meaningful
+statistical inference (King, Keohane, and Verba 1994). These statistical is-
+sues play an especially prominent role in Russett’s chapter, which grapples
+with the controversial counterfactual that if all states in the twentieth century
+had been democratic, there would have been markedly fewer wars. Skeptics
+of the democratic-peace hypothesis challenge this counterfactual on various,
+grounds, including the inadequacy of the available statistical samples (too
+few democracies, too few wars, and too truncated a range of time), the
+inadequacy of the operational definitions of democracy and war (the self-
+serving suppleness of certain judgment calls), and—perhaps most impor-
+tant—the collinearity problems created by confounding variables that, once
+controlled for in regressions, may “explain away” the democracy effect.
+Russett responds by rebutting these objections, in the process illustrating the
+enormous overlap between traditional procedures for hypothesis testing and
+
+‘will take what is in both boxes, he will ot put the $1 million inthe second box; if te being
+predicts we will take only what is in the second box, he will put the $1 million in the second
+box, The rules are straightforward. First the being makes his prediction; then he puts the SI
+milion in the second box or not, according to his prediction; then we make our choice.
+
+“The problem is paradoxical because powerful epistemic intuitions push us in opposite direc
+tions (Nozick 1993), Statistical intuition tells us that if we take what is in both boxes, the being
+almost certainly will have predicted this choice and will not have put the SI million in the
+second bor, whereas if we take only what isin the second box we will almost certainly get
+million. Therefore, we should take only what is in the second box. Causal intuition tells us,
+‘however, thatthe being has made his prediction and has already either put the SI milion into
+the second box of has not. That fact cannot be undone. Therefore, we will receive more money,
+$1,000 more, by taking what is in both boxes.

@@ -1,0 +1,63 @@
+1368                                  R. Brázdil et al.: Climatic effects and impacts of the 1815 eruption of Mount Tambora
+
+many years (Roubic, 1987). The situation was significantly       temperature. However, summer 1815 was the wettest for
+ameliorated by a good harvest (a very high potato yield, for     Prague-Klementinum and the third wettest for Brno (Ta-
+example, was reported for Boskovice – S5). However, Lit-         ble 1). Spring 1817 was also the third wettest at Prague-
+oměřice had a below-mean grape vintage, in terms of both       Klementinum. In terms of individual months, June 1815 was
+quality and quantity (Katzerowsky, 1895).                        the third wettest for both stations. August 1815, June 1816
+   The qualitatively described increase in prices may be con-    and May 1817 also appeared among the 10 wettest months at
+firmed by actual records of mean prices for the basic grain      Prague-Klementinum.
+crops. Data from Prague in Bohemia and for Moravia, in-             In Büntgen et al. (2015), the summer months of the 1810s
+dicate bad harvests in 1815 and 1816 driving prices up           constitute the coolest decade in central Europe in the past
+from 1813 onwards, culminating in 1817 (Fig. 7). While           3 centuries, based on the analysis of tree-rings in Swiss
+in Moravia grain prices rose 3-fold (doubling for oats),         stone pine. Cole-Dai et al. (2009) refer to this time as prob-
+the figures for Prague were ca. 4.5-fold for rye and bar-        ably the coldest decade in the last 500 years or more in the
+ley and tripled for wheat. A higher increase in prices in        Northern Hemisphere and the tropics. However, these find-
+Bohemia compared with Moravia has been confirmed for             ings are not confirmed by the temperature series used in this
+many other places in the province by Tlapák (1977), but with     study. In central European temperature series based on docu-
+prices available only up to 1817; for example, the figures for   mentary and instrumental records (Dobrovolný et al., 2010),
+Litoměřice were fivefold for rye and barley and tripled for    the 1810s summer months were the third-coldest after the
+wheat and oats. Again the better harvest of 1817 drove prices    1690s and 1910s (in the 1500–2007 period). In the Czech
+down sharply, to the level of 1813 or below. While prices for    Lands, the series from Brno was fourth-coldest (1800–2010)
+wheat, rye and barley exhibited similar steep increases and      and those from Prague-Klementinum and mean Czech areal
+decreases, fluctuations in those for oats were more stable,      series the fifth-coldest (1780–2010 and 1800–2010 respec-
+also due to a good yield in 1816 (S6).                           tively). In light of the papers by Cole-Dai et al. (2009) and
+                                                                 Guevara-Murua et al. (2014), the cold summers early in the
+                                                                 second decade of the 19th century may also have been in-
+5     Discussion
+                                                                 fluenced by an unknown volcanic eruption in 1808/1809. In
+5.1    Post-Tambora climate anomalies in the long-term
+                                                                 this context, Brönnimann (2015) demonstrated cool April–
+       context
+                                                                 September 2010 patterns compared to mean surface air tem-
+                                                                 peratures in 1801–1830 and argued that this eruption could
+The post-Tambora climate anomalies may also be compared          have set the stage for sustained ocean cooling (compare
+from the long-term viewpoint by ordering the mean sea-           Stenchikov et al., 2009). However, 1811 was already warmer
+sonal temperatures in increasing series of seasonal values       in the Czech Lands from spring to autumn, and lower tem-
+over the 1775–2007 period (Table 1). Based on Prague-            peratures started in 1812 (see Fig. 2).
+Klementinum temperatures, among the seasons following the
+Tambora eruption, only summer 1816 stands out as the fifth       5.2   Explanations of post-volcanic weather and climatic
+coldest (summer 1815 was the 11th coldest, tied with 3 other           effects
+years). Central European temperature series averaging data
+over a broader area show summer 1816, post-Tambora, as           Czech documentary sources recorded no remarkable weather
+the coldest in the 1775–2007 period. Furthermore, the gen-       phenomena directly attributable to the Tambora eruption.
+eral central European view significantly enhances the posi-      However, the series of cold summers from 1812 onwards,
+tion of the cold spring of 1817 as the eighth–ninth coldest      and particularly that of 1816, led to speculation about pos-
+compared with Prague (16th–18th coldest). This reveals that      sible causes. The newspaper Wiener Zeitung of 9 July 1816
+spatial averaging of data and moving the territorial area of     (p. 755) and the Brünner Zeitung of 12 July 1816 (pp. 759–
+interest south-west of Prague (where the majority of the sta-    760) reprinted an article from a certain Böckmann from
+tions used for calculation of the central European series are    Badischen Staatszeitung, responding to the series of consec-
+located) may strengthen the summer signal of volcanic erup-      utive cold summers after the warm summer of 1811. First he
+tions, including large tropical eruptions.                       mentioned Flaugergues’ comet (Fig. 8a) observed in the au-
+   In terms of individual months, those following the Tamb-      tumn of 1811: “... the large, remarkable comet of 1811 had
+ora eruption appear among the 10 coldest years four times.       a particular influence on our solar system, and [...] stimu-
+The coldest month to appear in both complete series was          lated physical processes in the Earth’s atmosphere, hitherto
+April 1817. Among the 10 coldest years were also July 1815       unknown, through which unusual warmth was generated,
+(Prague-Klementinum only), July 1816 (central Europe only        concurrently perhaps leaving [certain] substances or remov-
+– the third coldest), August 1816 and October 1817 (both se-     ing others, which otherwise in usual circumstances, partic-
+ries).                                                           ularly in summer weather, might not have had such a visi-
+   Precipitation totals expressed for the Prague-Klementinum     ble influence.” His article also discusses the possibility that
+and Brno stations (1804–1810) did not achieve extremes of        the cool summers may have resulted from the number of
+
+
+Clim. Past, 12, 1361–1374, 2016                                                            www.clim-past.net/12/1361/2016/

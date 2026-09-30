@@ -1,0 +1,45 @@
+                            The French revolution and German industrialization 163
+
+   We first challenge the exact dates – and the empirical (legal and behavioral)
+coherence – of the four reforms that constitute the independent variable (years
+of reform) in the ACJR model.1 Once the four institutional reforms are correctly
+dated and properly understood, we show that they fail to support a claim
+of ‘big-bang’ institutional change. A larger issue is the flawed econometric
+model underpinning their identification strategy. Neither the horizontal nor
+temporal effects of the French treatment offer a credible account of German
+industrialization that began around 1850.
+   Finally, we show that this failure then opens the way for a straightforward
+and theoretically tractable model of economic change in 19th century Germany
+that is consistent with prevailing accounts of German industrialization. There is
+no need to re-write German history.
+
+
+2. The problematic French treatment
+We share a commitment to understanding the role of institutions in economic
+history. But some institutional changes make direct contact with essential
+economic processes, while other institutional changes have only an indirect
+bearing on matters of commercial concern. Clarity in this regard is essential
+if plausible explanations of economic change are to be produced by empirical
+research (Nelson and Sampat, 2001). The central aspect of our challenge to
+ACJR concerns the dating (vintages) of institutional change in Germany under
+the claimed influence of the French. This challenge highlights the important
+distinction between the two distinct categories of institutions: (1) durable
+customs and habituated patterns of interaction; and (2) legal parameters that
+are the conscious creation of political leaders in a continual quest to create
+– and then update as conditions warrant – the formal (codified) structure of
+authoritative rules that constitute behavioral incentives and sanctions (Bromley,
+2006). The first category of institutions will often be referred to as ‘informal’. The
+paper by ACJR is not concerned with these durable behavioral attributes for the
+simple reason that customs and habits are not amenable to imposed alteration by
+foreign invaders – especially when those invaders remain for a very short period.
+   Rather, the ACJR paper concerns the second category of institutions – the
+legal (codified) parameters that carry the weight of collective authority. Notice
+that these legal parameters are collective rules that define socially acceptable
+individual and group behavior, and that this legal scaffolding necessarily
+constitutes sets of dual expectations. Following Commons, we regard institutions
+as indicating what:
+  . . . individuals must or must not do (compulsion or duty), what they may do
+  without interference from other individuals (privilege or liberty), what they
+
+
+  1 See also Kopsidis and Bromley (2014), Wegner (2014) and Zweynert (2010) on ACJR.

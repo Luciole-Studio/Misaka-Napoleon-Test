@@ -1,0 +1,65 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: M1_series.csv
+
+```meta
+▸ table "M1_series.csv" (336 data rows)
+▸ columns
+    month: str, 168 uniq, first 20: ['1802-01', '1802-02', '1802-03', '1802-04', '1802-05', '1802-06', '1802-07', '1802-08', '1802-09', '1802-10', '1802-11', '1802-12', '1803-01', '1803-02', '1803-03', '1803-04', '1803-05', '1803-06', '1803-07', '1803-08']
+    market: str, 2 uniq: ['FR_rente_5pct', 'UK_consol_3pct']
+    yield_pct: num, min=3.90244, max=11.1917
+    price_per_100_proxy: num, min=44.6758, max=85.7782
+    coupon_per_100: num, min=3, max=5
+    source_file: str, 2 uniq: ['downloads/B2_BoE_millennium_v31.xlsx', 'downloads/M1_tauxFrance1800_2015.xlsx']
+    source_sheet: str, 2 uniq: ['M10. Mthly long-term rates', 'mensuel']
+    source_cell: str, 336 uniq, first 20: ['C100', 'C101', 'C102', 'C103', 'C104', 'C105', 'C106', 'C107', 'C108', 'C109', 'C110', 'C111', 'C112', 'C113', 'C114', 'C115', 'C116', 'C117', 'C118', 'C119']
+    source_lineage: str, 2 uniq: ['Neal (1990); BoE v3.1', 'Vaslin/Courtois/Le Bris via Levy-Garboua and Monnet (2016)']
+    aggregation: str, 2 uniq: ['end_month', 'month_unspecified_aggregation']
+    price_note: str, 1 uniq: ['perpetuity coupon/yield; not original quoted price; ignores accrued coupon']
+```
+month,market,yield_pct,price_per_100_proxy,coupon_per_100,source_file,source_sheet,source_cell,source_lineage,aggregation,price_note
+1802-01,UK_consol_3pct,4.3715846995,68.6250000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C595,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1802-02,UK_consol_3pct,4.3399638336,69.1250000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C596,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1802-03,UK_consol_3pct,4.2477876106,70.6250000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C597,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1802-04,UK_consol_3pct,3.9024390244,76.8750000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C598,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1802-05,UK_consol_3pct,3.9538714992,75.8750000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C599,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1802-06,UK_consol_3pct,3.9867109635,75.2500000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C600,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1802-07,UK_consol_3pct,4.1811846690,71.7500000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C601,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1802-08,UK_consol_3pct,4.4609665428,67.2500000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C602,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1802-09,UK_consol_3pct,4.3243243243,69.3750000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C603,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1802-10,UK_consol_3pct,4.3956043956,68.2500000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C604,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1802-11,UK_consol_3pct,4.4526901670,67.3750000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C605,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1802-12,UK_consol_3pct,4.0885860307,73.3750000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C606,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1803-01,UK_consol_3pct,4.2402826855,70.7500000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C607,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1803-02,UK_consol_3pct,4.2179261863,71.1250000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C608,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1803-03,UK_consol_3pct,4.8289738431,62.1250000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C609,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1803-04,UK_consol_3pct,4.7524752475,63.1250000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C610,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1803-05,UK_consol_3pct,5.0000000000,60.0000000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C611,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1803-06,UK_consol_3pct,5.2401746725,57.2500000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C612,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1803-07,UK_consol_3pct,5.7553956835,52.1250000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C613,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1803-08,UK_consol_3pct,5.5427251732,54.1250000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C614,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1803-09,UK_consol_3pct,5.7142857143,52.5000000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C615,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1803-10,UK_consol_3pct,5.5944055944,53.6250000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C616,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1803-11,UK_consol_3pct,5.5045871560,54.5000000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C617,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1803-12,UK_consol_3pct,5.3452115813,56.1250000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C618,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1804-01,UK_consol_3pct,5.3811659193,55.7500000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C619,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1804-02,UK_consol_3pct,5.3932584270,55.6250000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C620,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1804-03,UK_consol_3pct,5.3097345133,56.5000000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C621,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1804-04,UK_consol_3pct,5.3571428571,56.0000000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C622,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1804-05,UK_consol_3pct,5.3571428571,56.0000000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C623,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1804-06,UK_consol_3pct,5.2516411379,57.1250000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C624,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1804-07,UK_consol_3pct,5.1172707889,58.6250000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C625,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1804-08,UK_consol_3pct,5.2631578947,57.0000000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C626,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1804-09,UK_consol_3pct,5.2401746725,57.2500000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C627,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1804-10,UK_consol_3pct,5.2173913043,57.5000000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C628,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1804-11,UK_consol_3pct,5.1172707889,58.6250000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C629,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1804-12,UK_consol_3pct,5.0420168067,59.5000000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C630,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1805-01,UK_consol_3pct,4.9180327869,61.0000000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C631,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1805-02,UK_consol_3pct,5.1724137931,58.0000000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C632,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1805-03,UK_consol_3pct,5.1612903226,58.1250000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C633,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1805-04,UK_consol_3pct,5.1612903226,58.1250000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C634,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1805-05,UK_consol_3pct,5.0632911392,59.2500000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C635,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1805-06,UK_consol_3pct,5.0209205021,59.7500000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C636,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1805-07,UK_consol_3pct,5.1172707889,58.6250000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C637,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1805-08,UK_consol_3pct,5.1502145923,58.2500000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C638,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon
+1805-09,UK_consol_3pct,5.1063829787,58.7500000000,3,downloads/B2_BoE_millennium_v31.xlsx,M10. Mthly long-term rates,C639,Neal (1990); BoE v3.1,end_month,perpetuity coupon/yield; not original quoted price; ignores accrued coupon

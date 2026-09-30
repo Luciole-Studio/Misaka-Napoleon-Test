@@ -1,0 +1,20 @@
+---
+source_url: "https://repertorium.at/qu/1811_oestabgb.html"
+final_url: "https://repertorium.at/qu/1811_oestabgb.html"
+provider: "exa"
+text_sha256: "2e49f706802bb48b9fb62dfb47553a9cc3a6dba811a6c64029c5bcfbdc6f978a"
+title: ""
+content_kind: "page_text"
+---
+
+## Allgemeines Österreichisches Bürgerliches Gesetzbuch. Wien 1811 :: Internetportal (Speer 2013)
+
+### Editorial
+
+Die Transkription des Allgemeinen Bürgerlichen Gesetzbuches von 1811 beruht auf einem digitalen Exemplar der Universitätsbibliothek Augsburg(Signatur: 01/PW 2715 A435-1/2), das nach dem Titelblatt in Wien 1811 gedruckt wurde. Spätestens seit der Arbeit von Otmar Seemann, Die mit "1811" datierten Drucke des ABGB (Wien 1995), ist bekannt, dass es sich bei den meisten Exemplaren um "unveränderte" Nachdrucke, nicht aber um einen Erstdruck handelt. Leider läßt sich der Augsburger Druck nach den von Seemann benutzten Unterscheidungskriterien keinem bestimmten Typ der Nachdrucke zuweisen, so dass die genaue Bestimmung des Druckes nicht vorgenommen werden kann. Für rechtshistorische Zwecke dürfte das wahre Erscheinungsjahr der Textvorlage jedoch keine Rolle spielen.
+
+Der so entstandene maschinenlesbare und von Suchmaschinen erfassbare Volltext des ABGB (eine bereits früher entstandene Transkription von Gerhard Köbler et al. findet sich hier) wurde in fünffacher Hinsicht ergänzt. 1. Jeder Paragraph wurde mit einem "Anker" in der Form " " versehen, so dass jeder Paragraph gesondert adressiert werden kann. Eine Verlinkung auf Paragraph 100 würde somit folgendermaßen aussehen können: " §. 100 ". 2. Eine Verlinkung vom Volltext erfolgte auf vier andere Quellen: a) Den (Nach-)Druck der Ausgabe von 1811 im Augsburger Exemplar. b) Den Druck in der Justizgesetzsammlung Nr. 946 in der Digitalen Ausgabe von ALEX / Österreichische Nationalbibliothek [mit Dank an das gesamte Team für die Unterstützung]. c) Den zeitgenössischen Kommentar des Verfassers des ABGB Franz von Zeiller aus den Jahren 1811ff. Aus technischen Gründen konnte trotz der freundlichen Unterstützung der Arbeitsgruppe nicht das digitale Exemplar der Universitätsbibliothek Wien und Phaidra benutzt werden, sondern musste auf ein Exemplar der Staatsbibliothek München [Signatur: J.austr. 66 a-1] zurückgegriffen werden. d) Schließlich wurde eine Verlinkung zu der aktuellen Version des ABGB im Rechtsinformationssystem des Bundeskanzleramtes hergestellt. Da es aus Zeitgründen unmöglich war, bei jedem Paragraphen zu überprüfen, ob es eine aktuellere Version in RIS gab, wurde maschinell von jeder Paragraphennummer in der Ausgabe von 1811 auf eine, manchmal eben nur hypothetische Paragraphennummer der aktuellen Version verlinkt. Beim Anklicken dieser Links sind daher Fehlmeldungen "systemimmanent", da weggefallene oder nachträglich eingefügte Paragraphen mit anderer Zählweise nicht erfasst werden können.
+
+Ich hoffe dennoch, dass die hier vorgenommene Verlinkung potentiellen Benutzern dienlich sein kann.
+
+Ein solcher Editionsversuch kann — gerade wegen der fehlenden Vorbilder — nicht fehlerfrei sein. Daher bitte ich einerseits, alle Fehler mir als der verantwortlichen Person anzulasten, mir diese aber zugleich auch für eine Korrektur mitzuteilen.

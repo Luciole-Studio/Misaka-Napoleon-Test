@@ -1,0 +1,231 @@
+## Sheet: A1. Bank of England B'Sheet (continued)
+	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z	AA	AB	AC	AD	AE	AF	AG	AH	AI	AJ	AK	AL	AM	AN
+
+
+`data region 2: B343:H343`
+	B	C	D	E	F	G	H
+343	http://www.bankofengland.co.uk/research/Documents/onebank/balanceweekly_final.xlsx	http://www.bankofengland.co.uk/research/Documents/onebank/balanceweekly_final.xlsx	http://www.bankofengland.co.uk/research/Documents/onebank/balanceweekly_final.xlsx	http://www.bankofengland.co.uk/research/Documents/onebank/balanceweekly_final.xlsx	http://www.bankofengland.co.uk/research/Documents/onebank/balanceweekly_final.xlsx	http://www.bankofengland.co.uk/research/Documents/onebank/balanceweekly_final.xlsx	http://www.bankofengland.co.uk/research/Documents/onebank/balanceweekly_final.xlsx
+
+```meta
+▸ formulas
+    A278:A304 =R[1]C-1
+    A309:A318 =R[-1]C+1
+    A320:A321 =R[-1]C+1
+    A323:A330 =R[-1]C+1
+    B75 =(AVERAGE(B76,B74))
+    B84 =(AVERAGE(B85,B83))
+    B278 =494848493/1000000+S278+T278
+    B279 =609831898/1000000+S279+T279
+    B280 =680332680/1000000+S280+T280
+    B281 =706391445/1000000+S281+T281
+    B282 =591501514/1000000+S282+T282
+    B283:B331 =RC[2]+RC[17]+RC[18]
+    C6:C205 =RC[-1]-RC[14]
+    C206:C276 =RC[-1]-RC[14]-RC[15]
+    C278:C282 =RC[-1]-RC[14]
+    C283:C331 =RC[-1]-RC[15]-RC[14]
+    D155:D276 =RC[-2]-RC[15]-RC[16]
+    D278:D282 =RC[-2]-RC[15]-RC[16]
+    E155:E276 =RC[-3]-RC[-1]
+    E278:E331 =RC[-3]-RC[-1]
+    G75:H75 =(AVERAGE(R[1]C,R[-1]C))
+    G84:H84 =(AVERAGE(R[1]C,R[-1]C))
+    H278 =(2787919108+380114491)/1000000
+    H279 =(2888012329+458268438)/1000000
+    H280 =(3037995042+525833621)/1000000
+    H281 =(3188050340+486665735)/1000000
+    H282 =(3201818134+402593391)/1000000
+    H283 =(523412+160879+3449673)/1000
+    H284 =(229747+150359+3217281)/1000
+    H285 =(857225+149446+3485841)/1000
+    H286 =(1492527+124995+3512587)/1000
+    H287 =(886339+128643+4624853)/1000
+    H288 =(1103374+136632+5233632)/1000
+    H289 =(693724+137127+5540349)/1000
+    H290 =(1747229+149341+6814210)/1000
+    H291 =(562299+127437+7542219)/1000
+    H292 =(397628+182994+7388180)/1000
+    H293 =(328724+207948+6689160)/1000
+    H294 =(353476+260297+4200996)/1000
+    H295 =(82125+315791+3285996)/1000
+    H296 =(91593+398526+2001111)/1000
+    H297 =(197874+375041+1971644)/1000
+    H298 =(144170+377043+2023271)/1000
+    H299 =(94115+379593+1252867)/1000
+    H300 =(256577+435964+1654487)/1000
+    H301 =(171685+640356+9695105)/1000
+    H302 =(384480+842561+1597903+10009525)/1000
+    H303 =(947079+621405+8443617)/1000
+    H304 =(977611+462482+8262008)/1000
+    H305 =275.7+990.4+3139.7
+    H306 =647.6+998.2+1036.2
+    H307 =347.7+1066.1+10910.2
+    H308 =18.9+1137.7+9633.2
+    H309 =2.4+1275.1+10374
+    H310 =4+1363+1162
+    H311 =18+1352+3015
+    H312 =11+1396+3763
+    H313 =17+2093+13500
+    H314 =2482+13991
+    H315 =2827+13997
+    H316 =1760+14839
+    H317 =1839+14059
+    H318 =2211+13370
+    H319 =2445+13370
+    H320 =2520+8168
+    H321 =2628+9585
+    H322 =3321+5679
+    H323 =3967+5687
+    H324 =4406+5749
+    H325 =4265+5263
+    H326 =5543+4594
+    H327 =6423+4451
+    H328 =6703+3604
+    H329 =7032+3194
+    H330 =7375+2836
+    J75 =(AVERAGE(J76,J74))
+    J84 =(AVERAGE(J85,J83))
+    J278:J304 =(RC[-8]-RC[-3]-RC[-2]-RC[7]-RC[5])
+    J305:J331 =RC[-7]-RC[-3]-RC[-2]
+    K299 =(692849+505679)/1000
+    K300 =(281608+681219)/1000
+    K301 =(245715+515581)/1000
+    K302 =(650973+383322)/1000
+    K303 =(1841463+1021482)/1000
+    K304 =(663255+1927943)/1000
+    O75 =(AVERAGE(O76,O74))
+    O84 =(AVERAGE(O85,O83))
+    O278 =(260245+361259+834402)/1000000
+    O279 =(260370+362098+800772)/1000000
+    O280 =(261744+420850+644679)/1000000
+    O281 =(260000+419650+734756)/1000000
+    O282 =(419650+2200332+260000)/1000000
+    Q75 =(AVERAGE(Q76,Q74))
+    Q84 =(AVERAGE(Q85,Q83))
+    Q278:Q304 =RC[3]
+    R306:R331 =RC[16]
+    S75:T75 =(AVERAGE(R[1]C,R[-1]C))
+    S84:T84 =(AVERAGE(R[1]C,R[-1]C))
+    T305:T318 =RC[-3]
+    V75 =(AVERAGE(V76,V74))
+    V84 =(AVERAGE(V85,V83))
+    X75:Y75 =(AVERAGE(R[1]C,R[-1]C))
+    X84:Y84 =(AVERAGE(R[1]C,R[-1]C))
+    Z305 =919.324
+    Z306 =223.7+673.6
+    Z307 =227.8+764.7
+    Z308 =215.8+853
+    Z309 =225.5+901.8
+    Z310 =1222-15
+    Z311 =1289-15
+    Z314 =192+1319
+    Z315 =134+1357
+    Z316 =158+1387
+    Z317 =151+1432
+    Z318 =1305+412
+    Z319 =1417+428
+    Z320 =1821+457
+    Z321 =2748+558
+    Z322 =3634+588
+    Z323 =3800+608
+    Z324 =2477+895
+    Z325 =2465+872
+    Z326 =2391+641
+    Z327 =2607+777
+    Z328 =3011+1564
+    Z329 =3036+1703
+    Z330 =3033+1433
+    Z331 =3076+1259
+    AB75 =(AVERAGE(AB76,AB74))
+    AB84 =(AVERAGE(AB85,AB83))
+    AB278:AB331 =RC[10]-RC[-9]-RC[-8]-RC[-4]-RC[-3]-RC[-2]
+    AC305 =38.4+2301.8
+    AC306 =67.5+27.9+1522.4
+    AC307 =72.6+22+427.7
+    AC308 =72.6+24.4+339.6
+    AC309 =72.6+30.4+367.3
+    AC310 =62+3+371
+    AC311 =9+330
+    AC312 =17+495
+    AC313 =2+460
+    AC314 =46+792
+    AC315 =14+982
+    AC316 =55+691
+    AC317 =45+955
+    AC318 =875+25
+    AC320 =1587+10
+    AC321 =1362+10
+    AE331 =AF331+AG331
+    AF305 =1409.109
+    AG294:AG330 =RC[-2]-RC[-1]
+    AJ278:AJ310 =RC[-8]-RC[-7]-RC[-2]-RC[-5]-RC[-6]
+    AJ311:AJ312 =RC[-8]-RC[-7]-RC[-2]-RC[-5]-RC[-6]-RC[-1]
+    AJ313:AJ331 =RC[-8]-RC[-7]-RC[-2]-RC[-5]-RC[-6]
+    AL6:AL276 =SUM(RC[-19]:RC[-10])-RC[-11]
+    AL278:AL331 =RC[-36]
+    AM6:AM276 =RC[-1]-RC[-5]-RC[-19]
+    AM278:AM331 =RC[-1]-RC[-5]-RC[-19]
+    AN6:AN154 =RC[-2]-SUM(RC[-33]:RC[-23])
+    AN155:AN276 =RC[-2]-SUM(RC[-33]:RC[-23])+RC[-29]
+    AN278:AN331 =RC[-2]-SUM(RC[-33],RC[-32],RC[-30],RC[-25],RC[-23],RC[-22])
+▸ number-format
+    #,##0 L4,R4,AH4,AE5,D278:D282,Q305:Q318,AB305:AB331,G307:G331,L321:L331
+    #,##0.00 S6:S253,D155:D276
+    0 A278:C305,E278:E331,H278:H330,J278:K331,Q278:Q304,S278:T318,AB278:AE292,AH278:AH331,AJ278:AJ331,AL278:AM331,D283:D331,Z283:Z331,AB293:AC304,AE293:AE331,AF294:AG331,AC305:AC331,B306:C331,R306:R331,L311:L320,AI311:AI312,S319:S331,M321:M331
+    0.0 O278:O304
+    0.00 B6:C276,J6:J276,O6:O276,T6:T276,X6:Y6,AB6:AB276,AL6:AN276,X7:X276,Y8:Y276,Q9:Q276,V31:V244,AE139:AE276,E155:E276,K155:K276,AC155:AC276,AJ155:AJ276,S254:S276,AD271:AD272,AD276,X278:Y282,AN278:AN331,X283:X331
+    0.000 G6:H276,G278:G306
+▸ merged
+    AB3:AJ3 (value at AB3)
+    AE277:AG277 (value at AE277)
+    AE4:AG4 (value at AE4)
+    AL3:AM3 (value at AL3)
+    B2:R2 (value at B2)
+    B3:E3 (value at B3)
+    G3:H3 (value at G3)
+    J3:M3 (value at J3)
+    Q3:R3 (value at Q3)
+    S2:AL2 (value at S2)
+    S3:T3 (value at S3)
+    X3:Z3 (value at X3)
+▸ styles
+    font-color: #FF0000 AN4,AN6:AN276,A75:C75,G75:H75,J75,O75,Q75,T75,V75,X75:Y75,AB75,A84:C84,G84:H84,J84,O84,Q84,T84,V84,X84:Y84,AB84,Y101,AN278:AN331
+    bold: A2:B2,S2:S4,B3:B4,G3:G4,J3:J4,O3,Q3:Q4,V3,X3:X4,AB3:AB4,AL3:AL4,C4,H4,K4:M4,R4,T4,Y4:Z4,AC4:AE4,AH4:AJ4,AM4:AN4,AE5:AG5,A277
+    italic: D4:E4,K4:L4,AF5:AG5,D155:E276,D278:E331
+    underline: A1,AD5,B343:H343
+▸ extras
+    comment G3:"Thomas, Ryland: These columns do not contain gilts purchased"
+    comment S3:"Thomas, Ryland: See Sheet A4 for a breakdown of note denomin"
+    comment B4:"Thomas, Ryland: Prior to 1844 this total includes BoE notes "
+    comment C4:"Thomas, Ryland: This total nets off Notes held in the Bank w"
+    comment G4:"Thomas, Ryland: See Sheet A5"
+    comment K4:"Thomas, Ryland: These are rounded for some periods"
+    comment M4:"Thomas, Ryland: See separate sheet for breakdown of APF bala"
+    comment X4:"Thomas, Ryland: See Sheet 5"
+    comment Z4:"Thomas, Ryland: The Bank Histories by Sayers (1976) and Capi"
+    comment AC4:"Thomas, Ryland: These are rounded for some periods"
+    comment AD4:"Thomas, Ryland: These are rounded for some periods"
+    comment AE4:"Thomas, Ryland: These are rounded for some periods"
+    comment AJ4:"Thomas, Ryland: These are rounded for some periods"
+    link AD5→https://www.bankofengland.co.uk/quarterly-bulletin/1982/q1/the-supplementary-special-deposits-scheme
+    comment Y101:"Thomas, Ryland: This corrects for a small transcription erro"
+    comment A239:"Thomas, Ryland: The large increase in notes in circulation a"
+    comment S239:"Thomas, Ryland: The large increase in notes in circulation a"
+    comment AL239:"Thomas, Ryland: The large increase in notes in circulation a"
+    comment G307:"Thomas, Ryland: the historic liability of the Treasury of £1"
+    comment H307:"Thomas, Ryland:  the historic liability of the Treasury of £"
+    comment J308:"Thomas, Ryland: From here, other securities includes gilt an"
+    comment L311:"Thomas, Ryland: These balances, denominated in euro, arise f"
+    comment AI311:"Thomas, Ryland: These balances, denominated in euro, arise f"
+    comment L320:"Thomas, Ryland: The Bank withdrew from TARGET on 19th May 20"
+    comment H331:"Thomas, Ryland: The Bank applied IFRS 9 effective from 1 Mar"
+    comment K331:"Thomas, Ryland: The Governor announced in his Mansion House "
+    comment M331:"Thomas, Ryland: The Governor announced in his Mansion House "
+    link B343→http://www.bankofengland.co.uk/research/Documents/onebank/balanceweekly_final.xlsx
+    link C343→http://www.bankofengland.co.uk/research/Documents/onebank/balanceweekly_final.xlsx
+    link D343→http://www.bankofengland.co.uk/research/Documents/onebank/balanceweekly_final.xlsx
+    link E343→http://www.bankofengland.co.uk/research/Documents/onebank/balanceweekly_final.xlsx
+    link F343→http://www.bankofengland.co.uk/research/Documents/onebank/balanceweekly_final.xlsx
+    link G343→http://www.bankofengland.co.uk/research/Documents/onebank/balanceweekly_final.xlsx
+    link H343→http://www.bankofengland.co.uk/research/Documents/onebank/balanceweekly_final.xlsx
+```

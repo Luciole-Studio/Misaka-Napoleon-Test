@@ -1,0 +1,20 @@
+
+
+8 October 1806: Peace negotiations with France were broken off.Footnote 45 On this occasion, the yield increased to 4.9 percent. The stream of unfavorable news continued afterwards, when intelligence regarding the French victory over Prussia at Jena-Auerstedt (14 October) reached London.Footnote 46
+
+29 January 1807: According to the 1807 budget, “the expenditure for this necessary war may be maintained to any indefinite period on the present scale, without any new taxes whatever.”Footnote 47 The London Times also pointed out that the new plan of finance was to “the manifest benefit to the interests of the public creditor.”Footnote 48 On this occasion, the yield on consols declined to 4.8 percent.
+
+12 November 1807: Britain issued Orders in Council on 11 November, forbidding French trade with the United Kingdom, its allies, or neutrals and blocking French and allied ports.Footnote 49 The measure was a response to the Berlin Decree (21 November 1806) that had initiated the Continental Blockade and Napoleon's attempt to harm British trade. While the British measure entailed a significant and lasting decline in yields, the French action did not substantially affect them. In the aftermath of the battle of Trafalgar, the Berlin Decree was not expected to be an impediment to British trade because of the French Navy's weakness.Footnote 50 On this occasion, the yield on consols declined to 4.7 percent.
+
+14 April 1808: The Chancellor of the Exchequer announced that there would be a primary surplus for the year.Footnote 51 The expenses for running loans would be charged on the revenues of stamp duties. On this occasion, the yield on consols declined further to 4.5 percent.
+
+Overall, the break dates for the interest rate on consols coincide with events that prompt a revision of expectations regarding public finances. The same is true for the break dates for agio, estimated for the periods for which data are available. Figure 8 presents the evolution of the yield on consols between 1795 and 1825. The vertical bars mark certain political or military events that coincided with turning points in the yield series. For overlapping periods, the same events concurred with turning points in the agio.Footnote 52
+
+Figure 8
+
+THE YIELD ON CONSOLS, DAILY DATA, JANUARY 1795 TO DECEMBER 1825
+
+Notes: Vertical bars mark the following events:(1)France declared war on Britain (1 February 1793)(2)Suspension of the gold standard (27 February 1797)(3)The Treaty of Amiens ended the war of the Second Coalition (25 March1802)(4)Britain declared war on France (17 May 1803)(5)The first Treaty of Paris ended the war of the Sixth Coalition (30 May 1814)(6)Napoleon returned from exile and organized his armed forces (20 March 1815)(7)Negotiations for second Treaty of Paris (20 September 1815)(8)Decision to resume the gold standard (26 May 1819)(9)Actual resumption of the gold standard (1 May 1821)
+Sources: Neal 1990.
+
+A more formal analysis of the returns on British consols was conducted by William Brown, Richard C. Burdekin, and Marc D. Weidenmier (Reference Brown, Burdekin and Weidenmier2005) and revealed that the same types of event affected bond yields and the agio. For overlapping periods (1810–1823), shifts identified in the bond yield series were either identical to the break dates detected here (Napoleon returned from Elba in March 1815) or related to connected events (bond yields decreased by the end of March 1814 when Paris surrendered; the agio decreased in June 1814 when the Treaty of Paris ended the Napoleonic Wars).

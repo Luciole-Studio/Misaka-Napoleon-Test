@@ -1,0 +1,44 @@
+
+
+Hume论保留船工：
+> If there were any probability of the workmen being required in a short time, it might be well to keep them thus employed; but, with the prospect of a long peace, it appeared very objectionable.
+
+预算定义：本条未给总预算。人员定义：workmen为船坞工，不是sea-service投票员额；in ordinary为舰船状态，不表示立刻可出海。此条显示削减论证本身以“long peace”预期为条件，不是证明法国仍强时英国照样按史实复员。
+
+## 9. 1826：总员额30,000含9,000陆战队；非现役经费仍大
+【事实：决议与议会预算陈述】1826-02-21，HC Deb vol 14 cc678–689。
+https://api.parliament.uk/historic-hansard/commons/1826/feb/21/navy-estimates
+
+> That 30,000 men be employed for the sea-service, for the year 1826, including 9,000 Royal marines,
+> the reports of the naval estimates of this, the eleventh year of peace, amounting to 6,135,004l.
+> On the resolution, that 896,000l. be granted for defraying the expense of the half-pay of the unemployed officers of his majesty's fleet,
+> no person in the naval department should be allowed to enjoy half-pay, unless he consented to join the navy again, should his services be required.
+> The several resolutions were then agreed to.
+
+人员：30,000为总投票员额，非陆战队余21,000（算术）；半薪军官不等于实际在舰员额，不能把半薪金额转换为新增现役人数。预算：£6,135,004为Hume修正动议所述整套估算总额，非已核实际支出；£896,000为半薪分项，勿再与总额相加。就役资格说明保有召回机制，但不证明所有半薪军官都有同等健康与战备。
+
+## 10. 1830：29,000投票平均员额与当时超过32,000实员有别
+【事实：当时政府陈述与决议】1830-03-01，HC Deb vol 22 cc1121–1143。
+https://api.parliament.uk/historic-hansard/commons/1830/mar/01/navy-estimates
+
+> the number of men at the present moment exceeded 32,000;
+> A considerable time must elapse before the men could be brought home and paid off, and therefore it was impossible to take the average number of men for the present year at less than 29,000.
+> That 29,000 men be employed for the service of the present year, including 9,000 royal marines.
+> the aggregate amount of the Estimates was 5,595,000l., and the aggregate saving, as compared with last year, was 282,939l.
+> That 980,200l. should be granted for wages, for the said 29,000 men, at the rate of 2l. 12s. a man, a month.
+
+人员：计划平均29,000含9,000陆战队，非陆战队余20,000；当时超过32,000不与年度平均混用。预算：£5,595,000为当日政府报的aggregate estimates，非核决算；£980,200为工资分项。29,000×£2.6×13=£980,200（算术核对）。复员必须先回航再pay off，存在时滞。
+
+## 11. 1830解释扩编：海军规模随他国力量与任务变化
+【事实：当时政府论证；不等于反事实参数估计】同第10条日期、网址，cc1136–1138。
+
+> The Marines at present amounted to 9,000 men, of whom 4,500 were afloat, and 4,500 on shore.
+> our naval force must partly depend upon that of other powers: and that last summer Russia had six sail of the line, France six or seven, and England eight sail of the line in the Mediterranean.
+> The coast-blockade accounted for an increase of 2,200 men;
+> It only remained to mention the Packet-service; which was, however, merely a transfer from the Post-office to the Admiralty. It accounted for an increase of 700 men in the navy.
+
+人员：全体marines中一半在岸，不能全部作为在舰人员；coast-blockade防走私与packet邮船扩大统计/任务范围，不全是主战舰队。预算：无本条独立预算；部门转隶可改变海军账面规模而非国家新增等额资源。政府还以陆战队+3,000、地中海+5,300、coast-blockade+2,200、邮船+700、其他−1,200解释相对1817净增10,000；这是政府政治/行政解释，不是自行观测出的结构模型。
+
+## 12. 1823 Lightning：早期蒸汽进入名册与测量用途，不等于战列舰替代
+【事实：权威博物馆说明，非1823原始文书】Royal Museums Greenwich / National Maritime Museum，馆藏SLR0709，网页未给发布日期，模型制造日期circa 1979。
+https://www.rmg.co.uk/collections/objects/rmgc-object-66670

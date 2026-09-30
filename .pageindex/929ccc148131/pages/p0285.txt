@@ -1,0 +1,10 @@
+                                  284
+Labourers   Low Artisans   Medium artisans   High artisans   Retailers
+                            Stirrup maker     U)ck maker
+                             Stone mason        Tailor
+                             Stuff maker     Watchmaker
+                           Tinplate worker    Whitesmith
+                             Wheelwright     Wool comber
+                               Wright         Wool sorter
+                                             Wool stapler
+                                               Yeoman

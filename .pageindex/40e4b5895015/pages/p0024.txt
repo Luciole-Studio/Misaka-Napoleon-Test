@@ -1,0 +1,46 @@
+                                The French revolution and German industrialization 183
+
+German economy were altering the economic landscape at the regional (polity)
+level (Figure 3).18
+   In the three polities comprising ‘early industrializers’ (Rhineland, Mark,
+and the Kingdom of Saxony), the labor force in 1850 was equally divided
+between agricultural employment (avg_shagremp) and industrial employment
+(avg_shindemp). It is also noteworthy that in the early industrializers we see
+industrialization without serious urbanization (avg_urbrate). We also see that
+by 1900, the share of the workforce in agriculture in the early industrializers
+was approximately one-half the rate in the other three groups of polities. It is
+also plain that by 1900 the earlier industrializers were the only polities in which
+the share of workers in agriculture was less than those in industry, and this
+by a factor of 1/3. Regions whose industrial development was well advanced
+at the eve of the French Revolution, and which were well endowed with coal,
+easily became the early industrializers and thus comprised the leading regions
+of German industrialization. Nothing speaks in the direction of any impact of
+French occupation on German urbanization and industrialization.
+   These substantive pre-conditions of economic change must be considered
+in a model seeking to account for German industrialization. In addition to
+acknowledging the role of coal, we introduce a fixed-effects panel regression
+with urbanization rate as the dependent variable, and with total coal production,
+the share of total workforce in industrial employment, and the share of total
+workforce in agricultural employment (in each polity). The results are shown in
+Table 4.
+   In Table 5, we show the results of four fixed-effects models that exclude
+the share of workers in industry – the least significant variable in the above
+model – and focus just on regional variations associated with coal production
+and agricultural employment.19 Model 1 concerns the average effect of coal
+production across all 19 polities. Model 2 shows the regional implications of
+coal mining, with ee being the excluded region. Model 3 shows the average
+effect of the share of agricultural employment on urbanization rates across all
+19 polities, while Model 4 shows the regional implications for urbanization rates
+as affected by the share of agricultural employment in each region. As above,
+East Elbia (ee) is the excluded region.
+   In Models (1) and (2), we see results from a regression of the urbanization rate
+on the quantity (metric tons) of coal mined. Model (1) includes a single coefficient
+on coal, while Model (2) includes interactions between coal and dummy variables
+indicating assignment to one of the four regional groups in Table 3. This
+
+
+   18 Data for these figures and our estimations come from the on-line appendix to the original ACJR
+paper.
+   19 Coal production was re-scaled (divided by 1,000,000) to render the coefficients easier to grasp.
+The coefficients for coal therefore represent the contribution to urbanization rates for a 1,000,000 metric
+ton change in extraction.

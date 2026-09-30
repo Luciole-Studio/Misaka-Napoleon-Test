@@ -1,0 +1,68 @@
+---
+source_url: "https://journals.sagepub.com/doi/10.1177/0968344513483071"
+final_url: "https://journals.sagepub.com/doi/10.1177/0968344513483071"
+provider: "exa"
+text_sha256: "074767629298aaef3dc9c7492bc236dc174f2b64b07a70a0531f0c16f4d3dc75"
+title: "Princes\u2019 Wars, Wars of the People, or Total War? Mass Armies and the Question of a Military Revolution in Germany, 1792\u20131815"
+content_kind: "page_text"
+---
+
+Princes’ Wars, Wars of the People, or Total War? Mass Armies and the Question of a Military Revolution in Germany, 1792–1815 - Mark Hewitson, 2013
+Skip to main content
+Intended for healthcare professionals
+Sage Journals Home
+Search this journal**
+* Search this journal
+* Search all journals
+Enter search terms...
+SearchSearch**Advanced search
+Enter search terms...
+SearchSearch**Advanced search
+* ****Search
+* ****Access/ProfileAccess
+* View access options
+* View profile
+* Create profile
+* 
+**Cart0
+
+Close Drawer MenuOpen Drawer MenuMenu
+War in History
+Impact Factor:**0.2**/5-Year Impact Factor:**0.3**
+JOURNAL HOMEPAGE
+SUBMIT PAPER
+**Close#### Add email alerts
+You are adding the following journal to your email alerts
+||New content|
+War in History||
+Create email alert
+**Open access
+******
+Research article
+First published online November 7, 2013
+# Princes’ Wars, Wars of the People, or Total War? Mass Armies and the Question of a Military Revolution in Germany, 1792–1815
+MarkHewitsonView all authors and affiliations
+Volume20,Issue4
+https://doi.org/10.1177/0968344513483071
+* **Contents
+* Abstract
+* I. From ‘Cabinet Wars’ to ‘Volkskriege’
+* II. Patriotism and Its Limits
+* III. The Levée en Masse and Conscription
+* IV. Conclusion
+* Funding
+* Footnotes
+* **PDF / ePub
+* **More
+* * **Cite article
+* **Share options
+* **Information, rights and permissions
+* **Metrics and citations
+* **Figures and tables
+## Abstract
+This article investigates whether a military revolution took place in the German lands during the revolutionary and Napoleonic periods, with the potential to transform institutions and to alter contemporaries’ attitudes not merely to war, but to politics and diplomacy. The scholarly debate about a metamorphosis of warfare during the revolutionary and Napoleonic periods involves three connected controversies: the meaning and timing of any ‘revolution’ in the conduct of war, the existence of a ‘total war’ in or after 1792, and the continuation of ‘cabinet warfare’ by the majority of the German states. Recently, historians have argued that the geographical and political diversity of the German states, in conjunction with popular criticism of the burdens and sacrifices of conflict in southern and western Germany, militated against a broad military revolution. This study contends that such reactions were themselves indicative of the transformation wrought by the conscription of more mobile and destructive mass armies in a seemingly unending series of wars, which ensured that military conflicts impinged more fully on civilian life.
+Most Prussian and Austrian officers seem to have expected the campaign of 1792, begun by France’s declaration of war against Piedmont, Austria, and Prussia on 20 April, to be a ‘promenade to Paris’, in the words of one French émigré.1In the event, the fighting between revolutionary or Napoleonic France and the German states continued, with few interruptions, for the next 23 years. Around 5 million Europeans, out of a total population of 190 million (1800), were killed in combat or through war-related diseases. According to one estimate, 2,532,000 soldiers perished on the battlefield or through wounding, making up more than 5 per cent of men of fighting age.2Historians disagree about the nature, impact, and continuity of such warfare, but few question the fact that it constituted part of a revolutionary threat to the foundations of the Continent’s*anciens régimes*, creating the impression or reality of rapidly changing social, economic, and political conditions, and that it menaced the very existence of states, transforming the map of Europe and –via overseas expeditions (Egypt, Syria, and Palestine, 1798–9) and the naval war with Britain (1793–1802, 1803–15) –the wider world.3This study reassesses the military impact of such revolutionary transformations.
+The scholarly debate about a metamorphosis of warfare during the revolutionary and Napoleonic periods rests on two connected controversies: one concerning a ‘military revolution’ and the other, ‘total war’. The dispute about a ‘revolution in military affairs’ has been complicated, despite agreement about the occurrence of ‘a radical change or some form of discontinuity in the history of warfare’, in the words of one recent commentator, by a lack of ‘consensus regarding how and when these changes or discontinuities take place, or what causes them’.4Some scholars have concentrated on ‘battlefield technologies’ and ‘war-fighting techniques’, whereas others have paid more attention to the relationship between a military transformation and ‘the broader socio-political changes that a revolution involves’.5The debate originally centred on a series of claims by historians of the early modern era that changes in military technology –either the introduction of muskets (Michael Roberts) or the construction of fortifications and new types of artillery (Geoffrey Parker) –required increases in the size of European armies and necessitated higher taxation and a larger state, with the greatest changes taking place in the first century or so of the period between 1500 and 1800. Roberts contends that Gustavus Adolphus introduced linear formations of infantry with guns during the Thirty Years War (1618–48), in conjunction with more aggressive cavalry charges, which, in turn, pointed to the need for better trained, more disciplined soldiers and a new system of drill, uniforms, and standing armies.6Parker extends and modifies Roberts’s thesis, identifying the invention of new artillery fortifications in early sixteenth-century Italy (the*trace italienne*) as the cause of a shift towards defensive wars, sieges, and increased garrisons.7The ‘culmination’ of this revolution purportedly came in the mid-eighteenth century. It was followed by innovations deriving from ‘small wars’ (*kleine Kriege*) such as light infantry and cavalry, the formation of self-contained divisions, the advent of standardized and mobile artillery, and –during the French Revolution –further increases in the size of armies, which have been termed a ‘second military revolution’: ‘The scale of warfare was so totally transformed that it might be said that another “military revolution” had occurred.’8Parker’s claim coincides with that of Peter Paret, who alludes to the standardization of parts for artillery under Jean-Baptiste Vaquette, Comte de Gribeauval, and the formation of divisions under Victor-François de Broglie, following France’s defeat at the battle of Rossbach in the Seven Years War: ‘The French Revolution coincided with a revolution in war that had been under way through the last decades of the monarchy. Soon the two meshed.’9Other historians have examined pre-Napoleonic changes in tactics and the reorganization of the infantry in a similar way.10
+Scholars such as Azar Gat and Martin van Creveld have questioned not the fact that armies expanded and became permanent institutions, nor that centralized and powerful monarchies were established in the sixteenth and seventeenth centuries, but that military innovations were largely responsible for the emergence of the modern state.11Rather, it is argued, the size of armies depended on the capacity of states to borrow and to raise taxes, which was sometimes accelerated by wars, the production of arms, and the professionalization of armies, but which was also linked to the growth of capitalist economies, the development of more efficient or reliable bureaucracies, and the creation of credit markets and central banks.12The implication of Gat’s argument is that armies depended on ‘modernization’ –state-building, commerce, administrative techniques, finances –which continued to take place, often incrementally, in the eighteenth century. ‘Contrary to the widely accepted view among scholars, it should be emphasized that revolutionary France was no more able than earlier states in history to keep over 1 percent of her population under arms for any prolonged period of time,’ he points out:
+> No miracles were performed here. With a population of some 25 million, France reached a peak of 750,000 soldiers in 1794 only at a price of economic mayhem, and numbers fell to around 400,000 the year after, where they remained until the end of the decade.
+> 13

@@ -1,0 +1,98 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: MX_silver_ranges.csv
+
+```meta
+▸ table "MX_silver_ranges.csv" (84 data rows)
+▸ columns
+    block: str, 12 uniq: ['BASE', 'CONSOL', 'COVER', 'CUBA', 'DELIV', 'DEMAND', 'ECON', 'MERC', 'PIPE', 'POP', 'SCEN', 'WAR']
+    item: str, 84 uniq, first 20: ['1760-1810累计对外汇出', '1780-1810捐输(已汇出)', '1780-1810私人贷款(已汇出)', '1789-1833输入奴隶', '1790-1867输入奴隶', '1800-1810直接汇西班牙及其欧洲债权人', '1803年十个月欠款', '1803补贴条约月额(Marichal口径)', '1804-08马德里对美洲开出汇票(仅新西班牙)', '1808哈瓦那洪塔请愿签名数', '1808年可动员武装人力', '1808禁运致对美贸易跌幅', '1808糖收成滞销比例', '1810 Granaditas守方死亡(士兵)', '1810 Granaditas守方死亡(西班牙人)', '1810 Granaditas起义方兵力(步)', '1810 Granaditas起义方兵力(骑)', '1810 Granaditas起义方死亡', 'Almadén年产峰值', 'Consolidación新西班牙实收 1805-09']
+    unit: str, 21 uniq, first 20: ['fraction', 'head', 'million', 'million francs/yr', 'million marcs', 'million pesos', 'million pesos/mo', 'million pesos/yr', 'percent', 'persons', 'pesos/quintal', 'ratio', 'ships', 'thousand', 'thousand marcs', 'thousand pesos', 'thousand piastres', 'thousand quintales', 'thousand tonnes', 'units']
+    low: num, min=0, max=14618
+    central: num, min=0.05, max=14618
+    high: num, min=0.15, max=14618
+    basis: str, 75 uniq, first 20: ['10 x 0.75 x 再扣', '10.32/基数', '160m reales', '16m reales;Marichal自身两处换算不一致(10 vs 20 reales/peso)故给区间', '17世纪实证"After 1630...shipments dropped by a half. Within five years...silver production followed suit"', '1804普查432k与1810普查600k之间作者自承粗估', '1808-10至1811-02汇加的斯24m/28月', '2,500,000 marcs passent annuellement en Europe et en Asie par Vera-Cruz et Acapulco', '6000 o cuando más 10000(Alamán/Navarro共识)', '70 x 单船额', '>250m pesos, somewhat over 40 percent of total taxes collected', 'AGI Ultramar 833经Calderón Quijano转引', 'Alamán"unos veinte mil indios"', 'Brading&Cross 印p.546区 "Mintage quadrupled from 6 million in 1706 to 24 million in 1798"', 'Cevallos"scarcely one in ten of the ships that left Veracruz for the peninsula arrived safely"', 'Hope持10m面值x0.75/约3年再扣运佣', 'Humboldt 44.5m;Alamán/Abad y Queipo当代估40-50m', 'Humboldt印p285 29m piastres=145m francs', 'Marichal注3 "direct remittances to Spain and its official creditors in Europe between 1800 and 1810 which sum seventy million pesos"', 'Marichal注62引Buist']
+    source_anchor: str, 37 uniq, first 20: ['000 hundredweight"', 'CSIC快照', 'Humboldt印p285', 'Humboldt印p286', 'Humboldt印p286;doc f137a3c2e0fa p159', 'Humboldt印p410', 'Humboldt印p414', 'Lerner快照', 'MODEL', 'antorcha Humboldt第四章快照', 'antorcha快照', 'derived', 'doc 90b0ffc8ef9e p275', 'doc 90b0ffc8ef9e p276n10', 'doc 90b0ffc8ef9e p276n11', 'doc a6a2c8acc763', 'doc f137a3c2e0fa p165', 'doc f137a3c2e0fa p166-167', 'doc f137a3c2e0fa p167', 'doc f137a3c2e0fa p176']
+    status: str, 7 uniq: ['ASSUMPTION', 'CITED_INDIRECT', 'DERIVED', 'MODEL', 'OBSERVED', 'OBSERVED_CONFLICT', 'downloads/pages/939c6d71a3cd.md']
+```
+block,item,unit,low,central,high,basis,source_anchor,status
+BASE,新西班牙年铸币额 1798,million pesos,24,24,24,Brading&Cross 印p.546区 "Mintage quadrupled from 6 million in 1706 to 24 million in 1798",downloads/pages/939c6d71a3cd.md,OBSERVED
+BASE,新西班牙年铸币额 1808-11 推算,million pesos,19,20.6,24,由Marichal"1808-10至1811-02官方汇款24m=铸币约一半"反推(28个月),doc f137a3c2e0fa p250,DERIVED
+BASE,年产白银(Humboldt 出口口径),million marcs,2.5,2.5,2.5,"2,500,000 marcs passent annuellement en Europe et en Asie par Vera-Cruz et Acapulco",downloads/MX_Humboldt_Essai_t3_fr.txt 印p335,OBSERVED
+BASE,同上折pesos(1 marc=8.5 pesos),million pesos,20.3,21.3,22.3,marc换算取8.125-8.625 pesos(Brading铸69还65 reales),derived,DERIVED
+BASE,全境年税收总额,million pesos,19,21,23,人均3.6 pesos x 人口5.3-6.4m,doc f137a3c2e0fa p273,DERIVED
+BASE,年均对外财政汇出 1780-1810,million pesos,8,8,8,"New Spain's treasuries exported, on average, 8 million pesos of tax funds per annum",doc f137a3c2e0fa p273,OBSERVED
+BASE,1760-1810累计对外汇出,million pesos,250,250,250,">250m pesos, somewhat over 40 percent of total taxes collected",doc f137a3c2e0fa p273,OBSERVED
+BASE,其中situados(他殖民地+菲律宾),million pesos,100,100,100,同上,doc f137a3c2e0fa p273,OBSERVED
+BASE,其中净汇宗主国,million pesos,150,150,150,同上,doc f137a3c2e0fa p273,OBSERVED
+BASE,1800-1810直接汇西班牙及其欧洲债权人,million pesos,70,70,70,Marichal注3 "direct remittances to Spain and its official creditors in Europe between 1800 and 1810 which sum seventy million pesos",doc f137a3c2e0fa p273n3,OBSERVED
+BASE,1780-1810私人贷款(已汇出),million pesos,30,30,30,"at least thirty million pesos from individuals and corporations in the shape of loans",doc f137a3c2e0fa p255,OBSERVED
+BASE,1780-1810捐输(已汇出),million pesos,5,5,5,同上,doc f137a3c2e0fa p255,OBSERVED
+BASE,对哈瓦那situado(18世纪中期),million pesos/yr,1.3,1.4,1.5,烟草0.5+步兵0.4+海军造船0.5,doc f137a3c2e0fa p54-55,OBSERVED
+CONSOL,Consolidación新西班牙实收 1805-09,million pesos,10.32,10.32,10.32,Marichal表4.2/4.3(引Lavrin与Liehr),doc f137a3c2e0fa p166-167,OBSERVED
+CONSOL,其中汇欧,million pesos,9.398,9.398,9.398,表4.3,doc f137a3c2e0fa p167,OBSERVED
+CONSOL,全美洲+菲律宾实收,million pesos,15.402,15.402,15.402,表4.3,doc f137a3c2e0fa p167,OBSERVED
+CONSOL,古巴实收(估计值),million pesos,0.35,0.35,0.35,表4.3标注estimate,doc f137a3c2e0fa p167,OBSERVED
+CONSOL,教会可动金融资本(基数),million pesos,40,44.5,50,Humboldt 44.5m;Alamán/Abad y Queipo当代估40-50m,Humboldt印p286;doc f137a3c2e0fa p159,OBSERVED
+CONSOL,实收占教会金融资本比,percent,20.6,23.2,25.8,10.32/基数,derived,DERIVED
+CONSOL,不动产拍卖占实收比,percent,12,12,12,von Wobeser p242(Marichal注97),doc f137a3c2e0fa p165,OBSERVED
+PIPE,1804-08马德里对美洲开出汇票(仅新西班牙),million pesos,20,20,20,AGI Ultramar 833经Calderón Quijano转引,doc f137a3c2e0fa p189n66,OBSERVED
+PIPE,同上折年率(1804-08/3.5年),million pesos/yr,5.7,5.7,5.7,derived,derived,DERIVED
+PIPE,Hope持有汇票面值,million pesos,10,10,10,Marichal注62引Buist,doc f137a3c2e0fa p187n62,OBSERVED
+PIPE,交付法国国库折扣率,fraction,0.75,0.75,0.75,"at 75% of their face value, discounting expenditures and commissions",doc f137a3c2e0fa p187n62,OBSERVED
+PIPE,运费佣金再扣(本卡假设),fraction,0.85,0.90,0.95,无独立来源,MODEL,ASSUMPTION
+PIPE,法国自Hope渠道净得(总额),million pesos,6.4,6.75,7.1,10 x 0.75 x 再扣,derived,DERIVED
+PIPE,同上折年率(约3年),million pesos/yr,2.1,2.25,2.4,derived,derived,DERIVED
+PIPE,英舰运走(Gordon&Murphy六船 1806-12至1808-08),million pesos,8.651641,8.651641,8.651641,Marichal表6.2与正文小结,doc f137a3c2e0fa p226,OBSERVED
+PIPE,英舰运走(Hope合约 Diana),million pesos,3.829835,3.829835,3.829835,表6.2;日期与正文冲突已登记,doc f137a3c2e0fa p192/226,OBSERVED_CONFLICT
+PIPE,中立商船艘次 1806-08,ships,70,70,70,"some seventy neutral merchant vessels between 1806 and 1808",doc f137a3c2e0fa p192,OBSERVED
+PIPE,单船随附白银,thousand pesos,50,75,100,Marichal注84,doc f137a3c2e0fa p193n84,OBSERVED
+PIPE,中立船携银合计(推算),million pesos,3.5,5.25,7.0,70 x 单船额,derived,DERIVED
+DEMAND,1803补贴条约月额(Marichal口径),million pesos/mo,0.8,1.2,1.6,16m reales;Marichal自身两处换算不一致(10 vs 20 reales/peso)故给区间,doc f137a3c2e0fa p176,OBSERVED_CONFLICT
+DEMAND,同上年额,million pesos/yr,9.6,14.4,19.2,derived,derived,DERIVED
+DEMAND,1803年十个月欠款,million pesos,8,12,16,160m reales,doc f137a3c2e0fa p176,OBSERVED_CONFLICT
+COVER,覆盖率(用1804-08已发生峰值2.1-2.4m对要求9.6-19.2m),percent,11,16,25,峰值口径非可持续口径,derived,DERIVED
+COVER,覆盖率(用S-A可持续模型0.90-3.34m对要求9.6-19.2m),percent,4.7,13,34,中枢1.92m/要求中值14.4m=13.3%,derived,DERIVED
+DELIV,海上送达率(敌对拦截无默契),fraction,0.05,0.10,0.15,Cevallos"scarcely one in ten of the ships that left Veracruz for the peninsula arrived safely",doc f137a3c2e0fa p224,OBSERVED
+DELIV,海上送达率(许可证+中立旗+英方默许),fraction,0.85,0.93,1.0,同段"but it is nonetheless true"称此次几乎全到,doc f137a3c2e0fa p224,OBSERVED
+MERC,新西班牙年需水银,thousand quintales,17,21,25,年产2.5m marcs / (100-125 marks per quintal);熔炼替代13-30%时取下限,downloads/pages/939c6d71a3cd.md,DERIVED
+MERC,Almadén年产峰值,thousand quintales,18,19,20.5,"at times exceeded 18,000 quintales";另处"over 20,000 hundredweight",downloads/pages/939c6d71a3cd.md,OBSERVED_CONFLICT
+MERC,水银价(1776年后墨西哥官价),pesos/quintal,41,41,41,"cut by half, from 82.5 pesos to 41 pesos"(1767/1776两步),downloads/pages/939c6d71a3cd.md,OBSERVED
+MERC,水银断供到产出崩落的时滞,years,3,5,7,17世纪实证"After 1630...shipments dropped by a half. Within five years...silver production followed suit",downloads/pages/939c6d71a3cd.md,OBSERVED
+MERC,断供后可维持产出比(熔炼替代上限),fraction,0.30,0.40,0.50,熔炼比13-30%;Zacatecas 1685-1705缺汞期近半靠熔炼,downloads/pages/939c6d71a3cd.md,DERIVED
+MERC,汞禁运可削减的年铸币额,million pesos/yr,10,13,16,基数20-24m x (1-0.30..0.50),derived,DERIVED
+SCEN,S-A 波旁续任亲法-可供欧洲的年汲取,million pesos/yr,8,9.5,11,常态8m+非常项2-3m,derived,MODEL
+SCEN,S-A 法国实得年额(四因子连乘),million pesos/yr,0.896,1.922,3.339,低8.0x0.70x0.25x0.64;中9.5x0.85x0.35x0.68;高11.0x0.95x0.45x0.71,derived,MODEL
+SCEN,S-A 对照1804-08实得峰值,million pesos/yr,2.1,2.25,2.4,Hope持10m面值x0.75/约3年再扣运佣,doc f137a3c2e0fa p187n62,DERIVED
+SCEN,S-A 法国实得折法郎(1 piastre=5 fr),million francs/yr,4.5,9.6,16.7,Humboldt印p285 29m piastres=145m francs,derived,DERIVED
+SCEN,S-A 占F4法国中央陆军预算(3.0-3.5亿法郎),percent,1.3,2.9,5.5,derived,derived,DERIVED
+SCEN,S-B 波拿巴国王-可供欧洲的年汲取(马德里口径),million pesos/yr,0,0.3,1.5,新西班牙不承认约瑟夫;仅走私与个别官员,derived,MODEL
+SCEN,S-B 法国实得年额,million pesos/yr,0,0.1,0.6,derived,derived,MODEL
+SCEN,S-B 反向-非法方政权在美洲筹得(史实对照),million pesos/yr,8,10,12,1808-10至1811-02汇加的斯24m/28月,doc f137a3c2e0fa p250,OBSERVED
+SCEN,S-C 西班牙成法国藩属或并省-法国实得年额,million pesos/yr,0,0.05,0.3,合法性链断裂;本地自治政权留用,derived,MODEL
+SCEN,S-C 英国经贸易获得的墨西哥白银,million pesos/yr,4,7,10,以1806-08英舰+英商替代加的斯商为下界外推,derived,MODEL
+CUBA,古巴糖出口 1800,thousand tonnes,28.761,28.761,28.761,NWIG Two Islands 表1(源Moreno Fraginals/Santamaría),doc a6a2c8acc763,OBSERVED
+CUBA,古巴糖出口 1850,thousand tonnes,294.952,294.952,294.952,同上,doc a6a2c8acc763,OBSERVED
+CUBA,古巴人口 1808,thousand,432,500,600,1804普查432k与1810普查600k之间作者自承粗估,doc 90b0ffc8ef9e p276n10,OBSERVED_CONFLICT
+CUBA,圣多明各法国难民在古巴,thousand,18.2,25,32,官方1804累计18213;Pérez de la Riva 20k;Marrero 32k,doc 90b0ffc8ef9e p276n11,OBSERVED_CONFLICT
+CUBA,1789-1833输入奴隶,thousand,400,463,463,Pezuela近40万(1790-1821);另源462965(1789-1833),eumed快照,OBSERVED_CONFLICT
+CUBA,1790-1867输入奴隶,thousand,780,780,780,NWIG,doc a6a2c8acc763,OBSERVED
+CUBA,1808年可动员武装人力,thousand,26,29,30,Someruelos 1809-08-26 AGI Cuba 1747 n2502转引:步兵26000余+骑兵3200,CSIC快照,CITED_INDIRECT
+CUBA,1808哈瓦那洪塔请愿签名数,persons,73,73,73,其中46人为半岛人;Arango认为需200,CSIC快照,CITED_INDIRECT
+CUBA,1808禁运致对美贸易跌幅,percent,50,50,50,"descendió a la mitad el comercio con Norteamérica",doc 90b0ffc8ef9e p275,OBSERVED
+CUBA,1808糖收成滞销比例,fraction,0.667,0.667,0.667,"no pudieron venderse dos tercios de la cosecha de azúcar de 1808",doc 90b0ffc8ef9e p275,OBSERVED
+POP,新西班牙人口 1793普查,million,4.484,4.484,4.484,Revillagigedo普查4483569,antorcha Humboldt第四章快照,OBSERVED
+POP,新西班牙人口 1803-04(Humboldt),million,5.765,5.837,5.837,Salas 5764731;Humboldt 5837100,Lerner快照,OBSERVED_CONFLICT
+POP,新西班牙人口 1808(Humboldt自估),million,6.5,6.5,6.5,"en 1808 la población de México fue superior a 6.500,000 almas",antorcha快照,OBSERVED
+POP,在册半岛人(欧洲出生),thousand,7.9,12,80,Navarro y Noriega 7906 vs Humboldt 70000-80000;首都13.5万人中仅2500欧生,Lerner快照,OBSERVED_CONFLICT
+POP,半岛人占总人口比,percent,0.12,0.19,1.23,derived,derived,DERIVED
+POP,印第安人,million,2.5,2.5,2.5,"exceeds two millions and a half";占全体五分之二,humboldt.unibe.ch快照,OBSERVED
+POP,黑奴,thousand,6,8,10,"6000 o cuando más 10000"(Alamán/Navarro共识),Lerner快照,OBSERVED
+ECON,农业年总产值,million pesos,24,29,29,什一税推算24m+免税作物3m+糖靛2m=29m(=145m francs),Humboldt印p285,OBSERVED
+ECON,矿业产值相对农业,ratio,0.75,0.75,0.75,"presque d'un quart plus petite que la valeur du produit territorial",Humboldt印p286,OBSERVED
+ECON,瓜纳华托矿区从业人数 1803,persons,5000,5000,5000,"cinq mille mineurs et ouvriers",Humboldt印p414,OBSERVED
+ECON,瓜纳华托碾矿机数 1803,units,1896,1896,1896,"dix-huit cent quatre-vingt-seize arastres",Humboldt印p414,OBSERVED
+ECON,瓜纳华托役骡数 1803,head,14618,14618,14618,"quatorze mille six cent dix-huit mulets",Humboldt印p414,OBSERVED
+ECON,瓜纳华托年产银,thousand marcs,500,550,600,"cinq à six cent mille marcs",Humboldt印p414,OBSERVED
+ECON,Valenciana近年股东年均净利,thousand piastres,640,640,640,"le profit net des actionnaires...commune, de 640,000 piastres",Humboldt印p410,OBSERVED
+WAR,1810 Granaditas起义方兵力(步),thousand,20,20,20,Alamán"unos veinte mil indios",downloads/pages/c68f606dbf1f.md,OBSERVED

@@ -1,0 +1,17 @@
+{
+  "doc_id": "7d14fc4fb571",
+  "title": "[t_c87512] nodes/r_5b1357a9c6/cards/t_c87512/P6_paths_annual.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_c87512/P6_paths_annual.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_c87512/P6_paths_annual.csv"
+  ],
+  "sha256": "7d14fc4fb5711c88f56299703b1bb6d7fffbacb686855b51df9698c94ed0df30",
+  "pages": 2,
+  "task_id": "t_c87512",
+  "task_ids": [
+    "t_c87512",
+    "t_20658d"
+  ],
+  "added_at": 1790179580,
+  "office_format": "csv"
+}

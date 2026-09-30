@@ -1,0 +1,40 @@
+                         Table 3: Consol yields, means, 1790-1850
+                                                     Peace    War
+                               Gold standard         3.40     4.51
+                                   Suspension        4.33     4.95
+
+
+
+Table 4 displays the R2 for the different segments. During peace times, switching from the
+gold standard to the paper pound explains the difference in mean yields well (R2 = 0.61).
+Similarly, the difference in the average yields is well captured by a switch from peace to
+war times under the gold standard (R2 = 0.61). On the contrary, during the suspension,
+little of the variance between average consol yields can be attributed to the transition
+from peace to war (R2 = 0.27). The same is true for switching monetary regimes during
+war times (R2 = 0.12). The evidence presented in tables 3 and 4 entails the presence of
+premia for default and anticipated inflation.
+
+
+
+                      Table 4: R2 for segmentation of consol means
+          Peace: gold standard → suspension            War: gold standard → suspension
+     R2                     0.61                                      0.12
+              Gold standard: peace → war                     Suspension: peace → war
+     R2                     0.61                                      0.27
+
+
+
+In order to check whether these premia are constant over time, table 5 displays standard
+deviations for the four different segments. Standard deviations are significantly differ-
+ent when transitioning from war to peace times under the gold standard. This is also
+the case when switching monetary policy regimes during peace times. On the contrary,
+when at war, a monetary policy switch does not significantly increase the volatility of
+the series. During the suspension of the gold standard, going to war did neither increase
+the volatility of consol yields.
+
+
+What do these results entail for interest rate and price evolutions during the French
+Wars? When the War of the Third Coalition set an end to the Peace of Amiens and hos-
+tilities resumed in April 1803, the paper pound had been in place for five years. Switching
+
+                                                37

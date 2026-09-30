@@ -1,0 +1,24 @@
+
+
+## 五、走私的"常态化"与官方共谋
+
+- 印p.192 / PDF208：法方用英文借词"smoggler"；Boucher de Perthes（1811–12布洛涅海关副监察）称其为"contrabandists of their (the British) nation, who are attached to our police and who at the same time carry on a traffic in prisoners of war and guineas"。
+- 印p.192–193 / PDF208–209【*Correspondance* nos. 13,718、16,508；*Lettres inédites* nos. 874, 877】1808-04-03致荷兰王路易："If you need to sell your gin, the English need to buy it. Settle the points where the English smugglers are to come and fetch it, and make them pay in money but never in commodities."；1810-05-29致Gaudin："My intention is to favour the export of foodstuffs from France and the import of money from abroad ... I should be very much inclined to let the smugglers in only at Dunkirk, unless current practice required that they should also be received at Flushing."
+  Heckscher评：走私者"were necessary for the prosperity of Dunkirk and made that town exempt from the general crippling of economic life in the ports"。（1808年信真伪Heckscher自注"not altogether above suspicion"。）
+- 印p.190 / PDF206【转引Rist, *Lebenserinnerungen* II, pp.106 ff.】汉堡"filtration"：海关官员放任妇孺"Träger"分散携货，"If the officials seized every third or fourth 'bearer' ... they derived a fine income from it; but the traffic was not at all disturbed by this, for losses were part of the business"。
+  → **缉获率 1/3–1/4 是"被容忍的税率"而非执法成效**；本卡缉获率参数的唯一同时代叙述性锚点。
+
+## 六、许可证制度（印pp.205–220 / PDF221–236）
+
+- 印p.215 / PDF231【*Correspondance* no. 16,930，1810-09-19致欧仁】拿破仑亲自下的定义：
+  > "A licence is a permission, accorded to a vessel that fulfils the conditions exacted by the said licence, to import or export a certain kind of merchandise specified in that licence. **For those vessels the Berlin and Milan decrees are null and void.**"
+- 印p.215 / PDF231 **许可证敕令（1810-07-25）**【Martens, *Nouveau recueil* I, p. 512】：自1810-08-01起，凡驶往外国港口的船只非有**拿破仑亲笔签署**的许可证不得离开法国港口；驶往帝国内港或地中海沿岸贸易者需 acquit-à-caution 及保结，须凭抵港证明才解除。理由：没有任何 grand commerce 可以不停靠英国港口或不受英方检查，而后者按米兰敕令即构成"denationalization"与没收。→ **许可证制度在法理上是对自己两大基本法（柏林／米兰敕令）的逐船豁免权**。
+- 印p.215 / PDF231：拿破仑甚至要求法国船挂中立旗进伦敦，"Under this disguise England receives them, and I make laws for her owing to her pressing need of commercial intercourse." 1812年甚至发过**从伦敦进口大米**的许可证。
+- 印p.216 / PDF232 **许可证价格**（本卡租金账核心）：早期 30 或 40 napoleons（600 或 800 法郎）；后期汉萨出口证 40 napoleons（800 法郎）＋小麦每吨30法郎、黑麦每吨15法郎"was regarded as cheap"；**自英国进口殖民品的许可证高达 300 napoleons ＝ 6,000 法郎**，"much higher amounts than the British licences"。拿破仑不讳言其目的是 *un revenu considérable*。
+- 印p.216–217 / PDF232–233 **出口义务**：进口须搭配等值（至少同值）的法国／意大利商品回程货；典型组合许可证＝德意志帝国港口谷物→敦刻尔克→英国卸粮→装海军物料回敦刻尔克→再装法国葡萄酒、丝绸、制品运汉堡。制度源头是**1803年法国海关条例**中对可疑船只的惩罚性规定。
+- 印p.217–218 / PDF233–234 **出口义务的失败**："the goods were taken on board, of course, but as their importation was prohibited in England, and as, moreover, they were not in a position to compete with British manufactures, there could be no sale."→ 出口商买"rossignols"（滞销垃圾货）凑数，1812年法国商工会议公开承认"the goods were simply thrown into the sea"。Heckscher的一般命题：
+  > "purely coercive laws in the sphere of economics have far fewer possibilities of being made effective in a positive direction than in a negative one."
+  → **本卡执行能力上限的理论支点：禁止可以执行，强制交易不可以执行。**
+- 印p.218–219 / PDF234–235 **法国船运垄断**：1810-08-20致勒布伦（荷兰）信："The article applies to all kinds of vessels, French, neutral or foreign; that is to say, with the exception that I do not grant licences to other than French vessels. In two words, I will not hear of any neutral vessel, and as a matter of fact there is in reality no such thing; for they are all vessels which violate the blockade and pay tribute to England." 致欧仁9-19信更要求船须**在法国建造**。汉萨、但泽、意大利城市可得证但费率"unusually high"；盟国原则上与中立国同样被排除。
+- 印p.219 / PDF235 **对丹麦（最忠实盟友）的实际后果**：其船只在拿破仑各港被扣，1812年春释放时"there were still eighty left"，释放条件是出口巨量法国丝绸——"an absolute impossibility"；同时丹麦还须供船运粮往荷兰、供官兵给斯海尔德备战舰队。
+- 印p.220 / PDF236 Heckscher总判：体系"had partly shot past him and become a means of promoting the interests of France ... at the expense of her own helpers in the struggle against Great Britain." 引1811年秋丹麦驻巴黎公使Waltersdorff语：法国除对英贸易外别无贸易，自然想独占之。

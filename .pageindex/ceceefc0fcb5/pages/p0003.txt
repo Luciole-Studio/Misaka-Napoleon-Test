@@ -1,0 +1,95 @@
+      "title": "MANUAL TERAPEUTICO FITOTERAPICO 1",
+      "authors": "Prefeitura da Cidade do Rio de Janeiro",
+      "publisher": "Prefeitura da Cidade do Rio de Janeiro, PROGRAMA DE PLANTAS MEDICINAIS E FITOTERAPIA, 1, 1, 2010",
+      "language": "Portuguese",
+      "format": "PDF",
+      "size": "8.1MB",
+      "hash": "8e2ccf3d50248e8dd4ef15ce1ac07c55",
+      "url": "https://annas-archive.gl/md5/8e2ccf3d50248e8dd4ef15ce1ac07c55"
+    },
+    {
+      "title": "Functional analysis, holomorphy, and approximation theory : proceedings of the Seminário de Análise Functional, Holomorfia e Teoria da Aproximaçao, Universidade Federal do Rio de Janeiro, August 4-8, 1980",
+      "authors": "Seminário de Análise Functional, Holomorfia e Teoria da Aproximação (1980 : Universidade Federal do Rio de Janeiro), Barroso, Jorge Alberto",
+      "publisher": "Amsterdam ; New York : Nort[h]-Holland Pub. Co. ; New York, N.Y. : Sole distributors for the U.S.A., Notas dematemática -- 88, North-Holland mathematics studies -- 71, Notas de mat, 1982",
+      "language": "English",
+      "format": "PDF",
+      "size": "8.9MB",
+      "hash": "7c9e4b9dbaecfc0c7a7395c2cf428850",
+      "url": "https://annas-archive.gl/md5/7c9e4b9dbaecfc0c7a7395c2cf428850"
+    },
+    {
+      "title": "Functional analysis, holomorphy, and approximation theory : proceedings of the Seminário de Análise Functional, Holomorfia e Teoria da Aproximaçao, Universidade Federal do Rio de Janeiro, August 4-8, 1980",
+      "authors": "Seminário de Análise Functional, Holomorfia e Teoria da Aproximação (1980 : Universidade Federal do Rio de Janeiro), Barroso, Jorge Alberto",
+      "publisher": "Amsterdam ; New York : Nort[h]-Holland Pub. Co. ; New York, N.Y. : Sole distributors for the U.S.A., Notas dematemática -- 88, North-Holland mathematics studies -- 71, Notas de mat, 1982",
+      "language": "English",
+      "format": "PDF",
+      "size": "13.5MB",
+      "hash": "081407078cec91ff644c8db3b1f8a583",
+      "url": "https://annas-archive.gl/md5/081407078cec91ff644c8db3b1f8a583"
+    },
+    {
+      "title": "Tuberculosis",
+      "authors": "Trajman, Anete (author);Campbell, Jonathon R (author);Kunor, Tenzin (author);Ruslami, Rovina (author);Amanullah, Farhana (author);Behr, Marcel A (author);Menzies, Dick (author)",
+      "publisher": "Elsevier BV, 2025",
+      "language": "English",
+      "format": "PDF",
+      "size": "7.8MB",
+      "hash": "35a34bb7e43b4dd5a1a9029f74b878b3",
+      "url": "https://annas-archive.gl/md5/35a34bb7e43b4dd5a1a9029f74b878b3"
+    },
+    {
+      "title": "Tuberculosis",
+      "authors": "Trajman, Anete (author);Campbell, Jonathon R (author);Kunor, Tenzin (author);Ruslami, Rovina (author);Amanullah, Farhana (author);Behr, Marcel A (author);Menzies, Dick (author)",
+      "publisher": "Elsevier BV, 2025",
+      "language": "English",
+      "format": "PDF",
+      "size": "3.0MB",
+      "hash": "cd86e42eab0482768409fe1c6bf34cf1",
+      "url": "https://annas-archive.gl/md5/cd86e42eab0482768409fe1c6bf34cf1"
+    },
+    {
+      "title": "Un drame à Rio-de-Janeiro",
+      "authors": "Paul Salmon [Salmon, Paul]",
+      "publisher": "Bibebook, 1932",
+      "language": "French",
+      "format": "EPUB",
+      "size": "0.3MB",
+      "hash": "1122a0fa0d29aec7ef22d2398e0f64ec",
+      "url": "https://annas-archive.gl/md5/1122a0fa0d29aec7ef22d2398e0f64ec"
+    },
+    {
+      "title": "Un drame à Rio-de-Janeiro",
+      "authors": "Paul Salmon",
+      "publisher": "Bibebook, 1932",
+      "language": "French",
+      "format": "EPUB",
+      "size": "0.3MB",
+      "hash": "fa212b71bfedff7aec5b90ab023f082a",
+      "url": "https://annas-archive.gl/md5/fa212b71bfedff7aec5b90ab023f082a"
+    },
+    {
+      "title": "UN DRAME À RIO-DE-JANEIRO",
+      "authors": "Darcy, Paul",
+      "publisher": "Ebooks libres et gratuits, 2011",
+      "language": "French",
+      "format": "EPUB",
+      "size": "0.3MB",
+      "hash": "b8c97fcd7a4f6a4c865bd7a0ffb36649",
+      "url": "https://annas-archive.gl/md5/b8c97fcd7a4f6a4c865bd7a0ffb36649"
+    },
+    {
+      "title": "Organochlorine contaminants in Rio skate (Rioraja agassizii), an endangered batoid species, from southeastern coast of Brazil",
+      "authors": "Beatriz Corrêa, Larissa G Paiva, Elitieri Santos-Neto, Lara G Vidal, Cláudio E Azevedo-Silva, Marcelo Vianna, José L Lailson-Brito(Affiliations    Laboratório de Mamíferos Aquáticos e Bioindicadores Professora Izabel Gurgel, Faculdade de Oceanografia, Universidade do Estado do Rio de Janeiro (UERJ), Rio de Janeiro, RJ, Brazil; Laboratório de Biologia e Tecnologia Pesqueira, Departamento de Biologia Marinha, Instituto de Biologia, Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro, RJ, Brazil. Electronic address: correa.bf@gmail.com.  Laboratório de Mamíferos Aquáticos e Bioindicadores Professora Izabel Gurgel, Faculdade de Oceanografia, Universidade do Estado do Rio de Janeiro (UERJ), Rio de Janeiro, RJ, Brazil; Laboratório de Biologia e Tecnologia Pesqueira, Departamento de Biologia Marinha, Instituto de Biologia, Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro, RJ, Brazil.  Laboratório de Mamíferos Aquáticos e Bioindicadores Professora Izabel Gurgel, Faculdade de Oceanografia, Universidade do Estado do Rio de Janeiro (UERJ), Rio de Janeiro, RJ, Brazil.  Laboratório de Radioisótopos Eduardo Penna Franca, Instituto de Biofísica Carlos Chagas Filho, Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro, RJ, Brazil.  Laboratório de Biologia e Tecnologia Pesqueira, Departamento de Biologia Marinha, Instituto de Biologia, Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro, RJ, Brazil; IMAM-AquaRio - Rio de Janeiro Aquarium Research Center, Rio de Janeiro, Brazil.)",
+      "publisher": "Marine pollution bulletin, Suppl C, Vol.182",
+      "language": "English",
+      "format": "PDF",
+      "size": "2.4MB",
+      "hash": "02d10fda77df3aa93754837ac2c06d95",
+      "url": "https://annas-archive.gl/md5/02d10fda77df3aa93754837ac2c06d95"
+    }
+  ],
+  "source_url": "https://annas-archive.gl/search?q=Schultz+Tropical+Versailles+empire+monarchy+Rio+de+Janeiro&content=book_nonfiction&content=book_fiction&content=book_unknown",
+  "transport": "http",
+  "scope": "current_page_only",
+  "complete": false
+}

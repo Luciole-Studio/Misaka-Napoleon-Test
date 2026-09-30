@@ -1,0 +1,16 @@
+{
+  "doc_id": "eb401dfe4a7f",
+  "title": "[t_104134] nodes/r_b55f2c1cf5/cards/t_104134/france/observations.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_b55f2c1cf5/cards/t_104134/france/observations.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_b55f2c1cf5/cards/t_104134/france/observations.csv"
+  ],
+  "sha256": "eb401dfe4a7fcfdcf5db76ed1d7f8e1aa2c5f8d042b54ef0d022f84892ed1051",
+  "pages": 1,
+  "task_id": "t_104134",
+  "task_ids": [
+    "t_104134"
+  ],
+  "added_at": 1789883145,
+  "office_format": "csv"
+}

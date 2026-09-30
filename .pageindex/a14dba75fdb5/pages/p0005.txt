@@ -1,0 +1,65 @@
+Environ. Res. Lett. 12 (2017) 074026
+
+
+
+Tmax, pressure, pressure tendency and precipitation)        spatially interpolated difference in annual mean
+were standardized by subtracting their annual cycle         temperature between the historical and the 1982–2009
+and dividing by the standard deviation (s.d.), which        reference period (based on the three stations). For
+was de-seasonalized in the same way. As an exception,       solar radiation and precipitation, no trend was
+temperature in the 1982–2009 period, which exhibits a       considered (i.e. historical and present scenarios were
+strong trend, was additionally linearly detrended           identical).
+before standardization.
+                                                            2.3. Crop model
+2.2.2. Analog—level 1: Swiss weather types                  Simulation of crop yields was conducted with
+Analog days must have similar weather characteristics       CropSyst, a multi-year, multi-crop daily time step
+as the target day. In a ﬁrst step, we thus restricted our   simulation model for evaluating impacts of climate
+pool of possible analogs to days that share the same        and crop management at the plot scale (Stöckle et al
+general weather type. In order to deﬁne one weather         2003). The model simulates potential biomass growth
+type for Switzerland, we ﬁrst averaged daily pressure,      as a function of intercepted radiation and crop
+pressure tendency, and wind direction (using a bilinear     transpiration. Both depend on leaf area development
+approach) from the three stations and then standard-        driven by biomass growth and phenology, which is
+ized the pressure and pressure tendency series. Then,       simulated as a temperature-dependent process. We
+we derived weather types in the same way as in              used crop parameter sets for winter barley, potato and
+Auchmann et al (2012). First, frontal passages were         grain maize derived by calibration for current Swiss
+deﬁned as days with very low (<2.5 s.d.) or rapidly         conditions by Klein et al (2012).
+rising (>2.5 s.d.) pressure. The remaining days were            Soil parameters were speciﬁed for clay loam as a
+then partitioned into classes of wind direction (NW or      representative agricultural soil type on the Swiss
+N, NE or E, SE or S, SW or W) and pressure (< 1 s.         Plateau and were derived from the Swiss Soil
+d., 1 to þ0.75 s.d., >0.75 s.d.). The middle pressure      Monitoring Network. A daily cascade approach was
+class was further subdivided into raising, stationary       used to simulate soil water inﬁltration, which
+and falling pressure (using the thresholds ±0.2 s.d.;       considers only downwards water ﬂow. Information
+details are given in Auchmann et al 2012). This             on elevation was derived from the Swiss digital
+resulted in a total of 19 weather types. The weather        elevation model in 25 m resolution provided by the
+types were deﬁned for both the historical and the           Federal Ofﬁce of Topography (swisstopo, www.
+present-day periods.                                        swisstopo.admin.ch). The nitrogen sub-model was
+                                                            disabled to evaluate yield limitations only based on
+2.2.3. Analog—level 2: distance                             climatic limitations (i.e. sub-optimal temperature,
+For each day in 1816/17, we searched for an analog          radiation and water availability).
+within the 1982–2009 period. The analog must pertain            Crop yield was simulated using daily climate
+to the same weather type and must be within a window        information (Tmin, Tmax, solar radiation and precipita-
+of ±30 calendar days from the target day. Within these      tion) for historical and present reference periods, for the
+days, we chose the analog that minimized the                historical years 1816 and 1817, as well as for the
+Euclidian distance of all available meteorological          corresponding present-day years. Representative sow-
+observations (Tmin and Tmax for Geneva and                  ing dates were selected for the three crops and were kept
+Hohenpeissenberg, daily mean temperature for                constant in all simulations: 16 October for winter barley,
+Delémont and precipitation for Geneva). This                23 March for potato and 21 April for grain maize. For
+measure was calculated based entirely on station data.      realistically modelling historical yields, additional
+Although precipitation is non-Gaussian, its weight in       factors such as farming techniques should be consid-
+the distance measure is only 1/6 and (as will be shown      ered, but this was beyond the scope of this study.
+later) the analog approach produced very good results.
+    Once the closest analog day was found, we               2.4. Post-processing
+extracted that day from the gridded data. We used           Under conditions of high soil moisture, reduced soil
+the absolute values of precipitation. For solar radiation   aeration limits crop growth and yield. This effect may
+and temperature, we multiplied the standardized             have played a considerable role in the year 1816, and
+anomaly with the corresponding standard deviation           since CropSyst is not able to capture such effects, an
+and added back the climatology. Because of the strong       ex-post analysis of simulated soil water saturation was
+temperature trend within the 1982–2009 period, the          performed. The number of days with 100% soil water
+average temperature of the climatology was already          saturation and a ‘stress day index’ (SDI) was
+substantially lower than today. Therefore, we added         calculated, which accounts for differences in crop
+back only the climatology of the years 2002–2009,           responses to excess water depending on phenological
+which better represented present-day climate. To            stage. According to Ravelo et al (1982), SDI was
+obtain temperature data for 1816 and 1817, we added a       calculated as the sum of the product of a susceptibility
+historical reference climatology obtained from the          factor, CS, and a stress day factor, SD, for speciﬁc
+gridded 1982–2009 reference by subtracting the              phenological stages. Following Hardjoamidjojo et al
+
+                                               4

@@ -1,0 +1,49 @@
+1088                             Rouanet and Piano
+
+where Ci,t is the share of the population conscripted in department i at time
+t. Since our goal here is to assess the impact of Lacuée’s plan instead of
+the cross-departmental variation—as was the case in previous sections—
+we include both δt and di , which are the full set of time and department
+fixed-effects51; Xit is a vector of additional time-varying controls and ϵit
+is the error term52; τ pre and τ post are the sets of years prior and after the
+treatment, respectively—1809 serves as the base year since it is only
+after that date that Lacuée massively increased the use of discriminatory
+conscription.
+   Our variable of interest is Ti. In one set of specifications (Table 4,
+Columns (5)–(8)), Ti is an indicator variable set to 1 if department i is
+classified by Lacuée as belonging to categories 4 or 5, and zero other-
+wise.53 In another set of specifications (Table 5, Columns (5)–(8)), Ti is
+the natural logarithm of department i’s average terrain ruggedness. Both
+strategies yield similar results. Conscription rates for some departments
+fell dramatically following Lacuée’s reform. The coefficients on the inter-
+action term between Ti and 1810 are negative and statistically significant
+across all specifications—consistently meeting the 1 percent threshold
+when we employ the indicator variable approach and the 10 and 5 percent
+thresholds when we use the log of ruggedness.54
+   Figure 6 provides a graphical representation of our results. The top
+panel suggests that the French government may have begun discriminating
+in favor of departments in categories 4 and 5 already in 1809. However,
+the largest drop in their conscription rate came the following year. We do
+not find evidence of any such pre-trend in the bottom panel. Overall, the
+two figures suggest that the variation in nominal conscription rates across
+French departments was indeed a conscious policy response by Paris to
+the threat that draft dodging posed to its short-term military objectives.
+   Was Lacuée’s reform effective at reducing draft evasion rates? We
+attempt to answer this question in Tables 4 and 5 (Columns (1)–(4)).
+Across all eight specifications, we find a large, consistent, and statis-
+tically significant effect of belonging to categories 4 or 5 and having
+higher terrain ruggedness on the draft dodging rate for year 1810, that
+  51
+      Including department fixed effects when estimating equations Equations (1) and (2) would
+have prevented us from including ruggedness, which is a time-invariant variable, as a covariate.
+Estimating equation Equation (3) does not pose the same problem because we are interested in
+changes in the effect of ruggedness on conscription rates. Including departments fixed effects as
+controls simply allows us to account for potential department-specific, time-invariant factors.
+   52
+      We include control for changes in conscription rates for departments at the border and
+maritime departments as changes in the demand for sailors and soldiers may have been stronger
+closer to theaters of war.
+   53
+      Fifty out of 111 departments were either category 4 or 5.
+   54
+      As in the other tables, we report Conley standard errors with a 100 km threshold.

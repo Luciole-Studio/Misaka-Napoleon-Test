@@ -1,0 +1,48 @@
+                                     276
+Regiment                1807        1809         1810         1811
+                      (WO27/91)   (WO27/95)   (WO27/101)   (WO27/103)
+EastLondon
+WestLondon
+Merioneth
+EastMiddlesex          7/4/07
+WestMiddlesex          6/4/07      28/3/09
+Middlesex              20/4/07
+Westminster
+Monmouth& Brecon
+Montgomery
+EastNorfolk            7/4/07
+WestNorfolk            24/4/07
+Northampton-shire
+Northumberland
+Nottinghamshire
+Oxford
+Pembroke               4/3/07
+Radnor
+Rutland                            11/5/09
+Salop
+Ig Somerset
+2ndSomerset
+Staffordshire
+EastSuffolk            9/5/07
+WestSuffolk            8/4/07      23/5/09
+I' Surrey                          12/3/09
+2 nd Surrey
+
+Sussex                            26/5/09
+V Tower Hamlets                    15/3/09
+2ndTower Hamlets                  23/3/09
+Warwick                            19/5/09
+Westmoreland                      27/5/09
+Wiltshire
+Worcester
+YorkshireEastRiding
+I' YorkshireWest                   1/5/09      5110110
+Riding
+2ý YorkshireWest       8/5/07      15/5/09     1/10/10
+Riding
+3'dYorkshireWest      30/4/07      10/5/09    20/10/10
+Riding
+YorkshireNorth
+Riding
+Aberdeen              26/5/07
+Argyll & Bute

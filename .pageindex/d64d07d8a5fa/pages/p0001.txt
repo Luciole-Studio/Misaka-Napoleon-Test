@@ -1,0 +1,12 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: mobilisation_1803.csv
+
+```meta
+▸ table "mobilisation_1803.csv" (4 data rows)
+```
+date,country,metric,value,unit,source,locator,caveat
+1803-01-01,UK,line_ships_in_commission,32,ships,James_vol3,p167_PDF183_doc_a78cfbda31e2,commission_not_equal_at_sea
+1803-05-01,UK,line_ships_in_commission,52,ships,James_vol3,p167_PDF183_doc_a78cfbda31e2,derived_32_plus20_added_before_May1_includes_fitting
+1803-06-01,UK,line_ships_in_commission,60,ships,James_vol3,p167_PDF183_doc_a78cfbda31e2,at_sea_or_fitting_for_sea_not_Channel_only
+1804-01-01,UK,line_ships_in_commission,75,ships,James1837_vol3,Abstract12_PDF396_doc_a178739fd84c,commission_not_equal_at_sea

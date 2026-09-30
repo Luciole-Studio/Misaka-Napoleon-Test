@@ -1,0 +1,57 @@
+
+
+【来源冲突】Kleinman特别指出：Byrne称抵达巴黎后参与紧急报告起草，但Emmet日记将Byrne抵达记为9月17日，比9月7日报告晚十天。Byrne回忆录1863年出版，须标**回溯性**；Emmet也承认并非每天及时记录。不能把二者无缝拼成一条确定时序。
+
+【未证实】Robert亲见拿破仑并获个人保证的流行故事：Kleinman §5.2说其所查同期档案未证实此会面，Elliott亦谨慎；确有Talleyrand接见及与军事负责人联系的材料。这里的检索空白不等于证明会面绝未发生。
+
+### I3｜相反解释并列
+
+Ruán O’Donnell，“The Rising of 1803 in Dublin”，History Ireland：
+https://historyireland.com/the-rising-of-1803-in-dublin/
+本地 `downloads/pages/68000e2037a4.md`（已读正文）。
+
+【文献推断·O’Donnell】原先起义应为法国主力的辅助，7月16日Patrick Street爆炸后改为抢先起义，指望促使法国加速出兵：
+> “Emmet sided with those who argued that an immediate uprising would oblige the French to expedite the invasion expected in August/September.”
+
+他强调准备程度及英国官方将起义贬成闹剧的倾向；但其个人会晤保证叙述依赖Byrne传述，与Kleinman档案谨慎立场不一致。
+
+【事实·宣言转引】1803年宣言自称：
+> “without the hope of foreign assistance”
+以及：
+> “We have been mutually pledged to each other to look only to our own strength.”
+Casserly引Geoghegan, *Robert Emmet, A Life* (2002), pp.288–289；该书原页未读。宣言电子入口：https://en.wikisource.org/wiki/Proclamation_of_Provisional_Government ，缓存 `downloads/pages/92f15cedf046.md`，不能以公开修辞证明秘密联络不存在。
+
+【裁量·中高】最稳妥写法：**法国援助是实在的交涉与战略期待；七月行动没有等到它。** O’Donnell的“辅助登陆→被迫先行”与Casserly的“失望→强调自主”部分可兼容，动机权重仍有争议。没有获得足以证明法方与七月23日起义同步执行的文书，也没有足以断言毫无联络的证据。
+
+## 三、爱尔兰军团：法令、干部营、实有人数
+
+### L1｜Carles文章及其引录文书
+
+Pierre Carles，“Le corps irlandais au service de la France sous le Consulat et l’Empire”，*Revue historique des Armées*，1976，3-2，Persée所列pp.23–54。
+https://www.persee.fr/doc/rharm_0035-3299_1976_num_3_2_7891
+本地 `downloads/pages/e30807055e5f.md`。已读1803–05正文与注8–13；PDF入口提取无内容，故**没有逐页核定具体引文页码**。以下以日期段及脚注定位，不把文章总页幅当引文页。
+
+【事实·法令转引】1803年8月31日（13 fructidor an XI）法令，注8：Archives de la guerre, carton Xh6（本文未读原档）：
+> « Il sera formé des bataillons des Irlandais réfugiés en France qui voudront prendre du service. »
+> « Ces bataillons seront organisés et soldés comme ceux d’infanterie légère et il ne sera formé de 2e bataillon que lorsque le Ier aura atteint les deux tiers de son complet. »
+
+第三条要求爱尔兰出生或爱尔兰人之子；第四条规定军需官为法国人。**法令授权组营，不是当日满编证明。**
+
+【事实·Carles记载】11月21日下令在Morlaix组成第一营；1804年1月20日实施组织。数量如下：
+
+| 日期 | 军官 | 非军官口径 | 文献性质／注意 |
+|---|---:|---:|---|
+| 1804-01-20 |43|1|包含à la suite军官；唯一非军官为adjudant sous-officier Lagar；名义九连含一个carabiniers连，不代表九个满员连 |
+| 1804-10-11 |66|22|Donzelot在Lesneven检阅；非军官为士官与士兵合计；原文另称缺额632，不自行反算固定编制 |
+| 1805-07-18 |52|25|Harty在Brest检阅：15士官、2 grenadiers、6 fusiliers、2鼓手 |
+
+【事实·同期报告转引】1804年1月30日MacSheehy报告，Carles注10又转引Desbrière卷III p.586：
+> « L’instruction des officiers exige qu’il y ait quelques soldats à leurs ordres, sans quoi il me sera presque impossible de les perfectionner… »
+同日Donzelot，注11转引Desbrière卷III p.589：
+> « jusqu’à ce moment, la Légion irlandaise n’est composée que d’officiers »
+
+【来源层级】这两封是**Carles→Desbrière→报告**，不是本次直接读Desbrière或军档；上表数字也仍是史家报告，暂不视作原始点名册冻结值。
+
+【事实·同期训令转引】1804年1月13日拿破仑致Berthier，Carles注9→Desbrière卷III p.585，承诺随军爱尔兰人获得法国委任、俘虏待遇受保护、必要时对英国俘虏报复、各部以United Irishmen名义组成、远征失败后法国仍供养一定数量的爱尔兰旅。1月20日Berthier同时说明军衔是临时性的。
+
+【文献推断·Carles】干部营等待登陆后招募本地士兵；绿色旗帜的“Indépendance de l’Irlande”“Liberté des consciences”表达政治目的，而非自动成为落实独立的保证。

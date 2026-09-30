@@ -1,0 +1,19 @@
+# E1 矿物—纤维—硝石补充笔记（亲读）
+
+## 煤、铁、铜：物理量不是随时可调拨军备
+
+1. Jean-Antoine Chaptal, *De l'industrie françoise*, t. II (1819), 本地 `downloads/E1_Chaptal1819_industrie_v2.txt`, doc `a77b035c9087`, 索引p.46/印pp.112–113。原句：「les produits des mines de houille s’élevoient à 2,500,000 quintaux métriques. En 1815, M. Cordier ... la moyenne de l'extraction, pendant les trois années qui venoient de s'écouler, étoit de 8,200,000 quintaux métriques provenant des seules houillères comprises dans les limites actuelles de la France.」合25万t（**1794刊印的报告所报，观察年份未明，不可标成1794年产**）与82万t/年（1812–14三年平均、1815法国现疆），不是拿破仑大帝国总体。Chaptal将工业增长全归煤是其解释，不能直接推工业指数三倍；其数来自Cordier二手报告而非本卡亲核矿报。
+2. Paul Halsall, Fordham Modern History Sourcebook, `https://sourcebooks.web.fordham.edu/mod/indrevtabs1.asp`, 缓存 `downloads/pages/360e2a6cb9f5.md`, Tables 3–4；注明数据转引*Fontana Economic History of Europe*, vol.4 pt.2统计附录，上游表未亲读。1820–24煤褐煤年均**百万公吨**：UK17.7、法1.1、德国1.2、奥地利0.1；1840–44 UK34.2、法3.5、德国4.4、奥0.52、比4.1。1825–29生铁**千公吨**：UK669、法212、德90、奥85、俄164；不能将1871德国疆界硬套1803德意志邦国。UK/法煤约16.1倍、铁约3.16倍（不同时间窗），英煤物理能源优势显著而非法国短期夺得大陆全煤会翻盘。Fordham二手汇编口径仍须核Fontana与境界。
+3. G. R. Porter, *The Progress of the Nation*, 本地 `downloads/E1_Porter_ProgressOfNation_1847.txt`（文件名错误，文本延至1849/50，须核实际版本），doc `68daef23399c`, 索引p.276/印pp.267–268；英国生铁估1802 **170,000 tons**、1806 **250,000 tons**；印p.268–269 1823 **442,066 tons**、1825 581,367、1828 702,584、1830 653,417、1840 1,396,400（不含爱尔兰，Jessop厂级收集）。与Fontana表方向相符但部分年份的量纲（imperial vs metric tons）及总量定义不同，不能机械合并。
+4. Porter索引pp.280–281/印pp.271–272：康沃尔铜矿产1800 5,187 tons、1803 5,616、1806 6,863、1809 6,821、1812 7,248、1813 8,166、1820 7,364、1830 10,748、1848 12,870；英国**所有矿区**总产仅1820以后有数，1820 8,127、1830 13,232 tons。原文「No statement can be given of the total quantity of copper raised in the United Kingdom before 1820」；不得把康沃尔=全英国铜矿，不得把铜矿出产=皇家海军可用铜皮及铜栓。原书1850后版本可能修订；p.282警告1834后英国矿与进口矿熔铜不易分离。另港矿帆船木支撑占用森林，煤替代舰木不是全场景等量。
+5. Chaptal同书索引p.34/印p.85：洛林Moselle Hayange炼铁用从**Nassau**购入的houille替代此前燃料，增加品质并省燃料；这是火炉层采用煤的案例，不是所有法国高炉普及焦炭或英法技术同等。法国对德国煤及供运关系是英封锁对大陆反向影响的政策杠杆，但战争毁运输即可中断。
+
+## 法国硝石反证及印度进口
+
+Robert P. Multhauf, “The French Crash Program for Saltpeter Production, 1776–94,” *Technology and Culture* 12(2), 1971:163–181, DOI `10.2307/3102523`; Exa抓全文缓存 `downloads/pages/94b41b5822a4.md`, 实读行约76–109，排版OCR断词，不算亲阅脚注所引法档。西方硝石优质源印度，英EIC优先出口；法国王室在1775将特许承包改政府Régie。1788法国国内硝石年1,800,000 kg；1793-12-04至次年6000私人/公社工坊8,170,000 kg，**主要刮墙与自然含硝土洗滤**，没证据人工硝床已实现规模化。1794短期峰值耗用原有土壤储量与民众财产/劳役，不是稳态流。作者明言「little if any ... actually produced was artificial」。1828 Thenard转引法本土年降至500,000kg，1840本土行业终止（Thiele转引）；1808 Cuvier称不许进口印度盐硝妨碍法国硫酸贸易。硝石原料→火药装配也要硫、木炭、精炼、储存及运输，不能由kg硝石径直变战地弹药。
+
+**逆转条件**：找到1803–15逐年法国本土精炼盐硝+印度进口+在库+年火药消耗；若法国在正常征税下能维持≥高强度炮兵弹药需求（且1813后仍不耗竭含硝土），则下调长期矿物瓶颈；反之1789–94 8.17m一次性强制挖掘不可作1815–48年额。
+
+## 大麻/亚麻与舰材新增核对
+
+Davey 2009、Albion 1926实读见 `notes_materials_01.md`。另James Davey, “Serving the State: Empire, Expertise and the British Hemp Crisis of 1800–01,” *Journal of Imperial and Commonwealth History* 46(4), 2018, DOI `10.1080/03086534.2018.1431432`，仅索引/摘要已见，**不计正文核读**，摘要谓俄皇1800关闭大麻供给引英政府设委员会寻找全球替代，脚注引1800前15年英国全部进口大麻年均26,000 tons（原BT 6/100未阅）；不能由摘要推出九成依存或通道长久断绝。**复核修订**：后来实读Davey 2009博士论文 `downloads/R2_Davey2009.pdf` doc `9cdc057c893a` PDF p.23 / 原印p.12，他明确提历史比较**1762–82英国进口大麻19,172 tons、俄罗斯18,392 tons，占95.9%**；这是旧时期英国全境进口，不是1810海军采购、也不是亚麻比率；该页年份、‘annually’修饰词需严格按原文，见本卡报告SOURCES.md。前述「尚无同年分母」改为：仍未有1803–15英国海军大麻/亚麻、各源进口、库存与净消耗同口径数据，不能填拿破仑时期九成。波罗的海大麻是战略脆弱性而非确定单点致命；纤维、桅杆、大橡木、铜、海员分开平衡。

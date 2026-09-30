@@ -1,0 +1,371 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+Cape Verde,CPV,1865,94095
+Cape Verde,CPV,1866,95398
+Cape Verde,CPV,1867,96717
+Cape Verde,CPV,1868,98053
+Cape Verde,CPV,1869,99407
+Cape Verde,CPV,1870,100779
+Cape Verde,CPV,1871,102168
+Cape Verde,CPV,1872,103576
+Cape Verde,CPV,1873,105002
+Cape Verde,CPV,1874,106446
+Cape Verde,CPV,1875,107910
+Cape Verde,CPV,1876,109392
+Cape Verde,CPV,1877,110894
+Cape Verde,CPV,1878,112415
+Cape Verde,CPV,1879,113956
+Cape Verde,CPV,1880,115517
+Cape Verde,CPV,1881,117099
+Cape Verde,CPV,1882,118701
+Cape Verde,CPV,1883,120324
+Cape Verde,CPV,1884,121968
+Cape Verde,CPV,1885,123633
+Cape Verde,CPV,1886,125320
+Cape Verde,CPV,1887,127029
+Cape Verde,CPV,1888,128759
+Cape Verde,CPV,1889,130513
+Cape Verde,CPV,1890,132289
+Cape Verde,CPV,1891,134088
+Cape Verde,CPV,1892,135910
+Cape Verde,CPV,1893,137756
+Cape Verde,CPV,1894,139625
+Cape Verde,CPV,1895,141519
+Cape Verde,CPV,1896,143438
+Cape Verde,CPV,1897,145381
+Cape Verde,CPV,1898,147349
+Cape Verde,CPV,1899,149343
+Cape Verde,CPV,1900,151362
+Cape Verde,CPV,1901,153407
+Cape Verde,CPV,1902,155479
+Cape Verde,CPV,1903,157577
+Cape Verde,CPV,1904,159703
+Cape Verde,CPV,1905,161856
+Cape Verde,CPV,1906,164036
+Cape Verde,CPV,1907,166245
+Cape Verde,CPV,1908,168481
+Cape Verde,CPV,1909,169950
+Cape Verde,CPV,1910,170646
+Cape Verde,CPV,1911,170564
+Cape Verde,CPV,1912,169700
+Cape Verde,CPV,1913,168047
+Cape Verde,CPV,1914,166409
+Cape Verde,CPV,1915,164786
+Cape Verde,CPV,1916,163178
+Cape Verde,CPV,1917,161584
+Cape Verde,CPV,1918,159566
+Cape Verde,CPV,1919,158400
+Cape Verde,CPV,1920,158084
+Cape Verde,CPV,1921,158622
+Cape Verde,CPV,1922,160013
+Cape Verde,CPV,1923,162259
+Cape Verde,CPV,1924,164538
+Cape Verde,CPV,1925,166848
+Cape Verde,CPV,1926,169190
+Cape Verde,CPV,1927,171565
+Cape Verde,CPV,1928,173974
+Cape Verde,CPV,1929,176712
+Cape Verde,CPV,1930,179789
+Cape Verde,CPV,1931,183218
+Cape Verde,CPV,1932,187010
+Cape Verde,CPV,1933,191177
+Cape Verde,CPV,1934,195438
+Cape Verde,CPV,1935,199793
+Cape Verde,CPV,1936,204245
+Cape Verde,CPV,1937,208797
+Cape Verde,CPV,1938,213450
+Cape Verde,CPV,1939,216253
+Cape Verde,CPV,1940,217206
+Cape Verde,CPV,1941,216311
+Cape Verde,CPV,1942,213565
+Cape Verde,CPV,1943,208967
+Cape Verde,CPV,1944,204468
+Cape Verde,CPV,1945,200066
+Cape Verde,CPV,1946,195759
+Cape Verde,CPV,1947,191544
+Cape Verde,CPV,1948,187421
+Cape Verde,CPV,1949,185234
+Cape Verde,CPV,1950,184986
+Cape Verde,CPV,1951,187208
+Cape Verde,CPV,1952,189445
+Cape Verde,CPV,1953,191560
+Cape Verde,CPV,1954,193557
+Cape Verde,CPV,1955,195622
+Cape Verde,CPV,1956,197856
+Cape Verde,CPV,1957,200300
+Cape Verde,CPV,1958,203100
+Cape Verde,CPV,1959,206367
+Cape Verde,CPV,1960,210034
+Cape Verde,CPV,1961,215095
+Cape Verde,CPV,1962,221930
+Cape Verde,CPV,1963,229386
+Cape Verde,CPV,1964,237017
+Cape Verde,CPV,1965,244868
+Cape Verde,CPV,1966,252989
+Cape Verde,CPV,1967,261409
+Cape Verde,CPV,1968,270172
+Cape Verde,CPV,1969,279254
+Cape Verde,CPV,1970,287895
+Cape Verde,CPV,1971,294052
+Cape Verde,CPV,1972,297388
+Cape Verde,CPV,1973,299890
+Cape Verde,CPV,1974,302578
+Cape Verde,CPV,1975,305853
+Cape Verde,CPV,1976,309462
+Cape Verde,CPV,1977,312843
+Cape Verde,CPV,1978,316163
+Cape Verde,CPV,1979,319485
+Cape Verde,CPV,1980,323310
+Cape Verde,CPV,1981,327859
+Cape Verde,CPV,1982,332729
+Cape Verde,CPV,1983,337661
+Cape Verde,CPV,1984,342511
+Cape Verde,CPV,1985,347370
+Cape Verde,CPV,1986,352321
+Cape Verde,CPV,1987,357308
+Cape Verde,CPV,1988,362339
+Cape Verde,CPV,1989,367820
+Cape Verde,CPV,1990,375437
+Cape Verde,CPV,1991,384603
+Cape Verde,CPV,1992,393426
+Cape Verde,CPV,1993,401977
+Cape Verde,CPV,1994,410230
+Cape Verde,CPV,1995,418116
+Cape Verde,CPV,1996,425592
+Cape Verde,CPV,1997,432803
+Cape Verde,CPV,1998,439789
+Cape Verde,CPV,1999,446528
+Cape Verde,CPV,2000,453335
+Cape Verde,CPV,2001,460300
+Cape Verde,CPV,2002,467056
+Cape Verde,CPV,2003,473384
+Cape Verde,CPV,2004,479377
+Cape Verde,CPV,2005,485128
+Cape Verde,CPV,2006,490728
+Cape Verde,CPV,2007,496196
+Cape Verde,CPV,2008,501362
+Cape Verde,CPV,2009,506148
+Cape Verde,CPV,2010,509793
+Cape Verde,CPV,2011,511453
+Cape Verde,CPV,2012,511966
+Cape Verde,CPV,2013,512231
+Cape Verde,CPV,2014,512334
+Cape Verde,CPV,2015,512405
+Cape Verde,CPV,2016,512556
+Cape Verde,CPV,2017,512899
+Cape Verde,CPV,2018,513418
+Cape Verde,CPV,2019,514116
+Cape Verde,CPV,2020,514683
+Cape Verde,CPV,2021,516655
+Cape Verde,CPV,2022,519750
+Cape Verde,CPV,2023,522335
+Cayman Islands,CYM,1800,2439
+Cayman Islands,CYM,1820,2439
+Cayman Islands,CYM,1891,4300
+Cayman Islands,CYM,1911,5600
+Cayman Islands,CYM,1921,5300
+Cayman Islands,CYM,1943,6700
+Cayman Islands,CYM,1950,7022
+Cayman Islands,CYM,1951,7156
+Cayman Islands,CYM,1952,7281
+Cayman Islands,CYM,1953,7426
+Cayman Islands,CYM,1954,7574
+Cayman Islands,CYM,1955,7718
+Cayman Islands,CYM,1956,7865
+Cayman Islands,CYM,1957,8011
+Cayman Islands,CYM,1958,8155
+Cayman Islands,CYM,1959,8292
+Cayman Islands,CYM,1960,8449
+Cayman Islands,CYM,1961,8620
+Cayman Islands,CYM,1962,8802
+Cayman Islands,CYM,1963,8992
+Cayman Islands,CYM,1964,9190
+Cayman Islands,CYM,1965,9379
+Cayman Islands,CYM,1966,9585
+Cayman Islands,CYM,1967,9792
+Cayman Islands,CYM,1968,9993
+Cayman Islands,CYM,1969,10186
+Cayman Islands,CYM,1970,10541
+Cayman Islands,CYM,1971,11119
+Cayman Islands,CYM,1972,11786
+Cayman Islands,CYM,1973,12460
+Cayman Islands,CYM,1974,13135
+Cayman Islands,CYM,1975,13811
+Cayman Islands,CYM,1976,14477
+Cayman Islands,CYM,1977,15130
+Cayman Islands,CYM,1978,15746
+Cayman Islands,CYM,1979,16376
+Cayman Islands,CYM,1980,17102
+Cayman Islands,CYM,1981,17924
+Cayman Islands,CYM,1982,18776
+Cayman Islands,CYM,1983,19620
+Cayman Islands,CYM,1984,20480
+Cayman Islands,CYM,1985,21349
+Cayman Islands,CYM,1986,22221
+Cayman Islands,CYM,1987,23095
+Cayman Islands,CYM,1988,23969
+Cayman Islands,CYM,1989,24901
+Cayman Islands,CYM,1990,26023
+Cayman Islands,CYM,1991,27316
+Cayman Islands,CYM,1992,28642
+Cayman Islands,CYM,1993,29999
+Cayman Islands,CYM,1994,31379
+Cayman Islands,CYM,1995,32764
+Cayman Islands,CYM,1996,34168
+Cayman Islands,CYM,1997,35568
+Cayman Islands,CYM,1998,36949
+Cayman Islands,CYM,1999,38305
+Cayman Islands,CYM,2000,39699
+Cayman Islands,CYM,2001,41109
+Cayman Islands,CYM,2002,42534
+Cayman Islands,CYM,2003,43952
+Cayman Islands,CYM,2004,45372
+Cayman Islands,CYM,2005,46809
+Cayman Islands,CYM,2006,48252
+Cayman Islands,CYM,2007,49709
+Cayman Islands,CYM,2008,51175
+Cayman Islands,CYM,2009,52639
+Cayman Islands,CYM,2010,54120
+Cayman Islands,CYM,2011,55630
+Cayman Islands,CYM,2012,57155
+Cayman Islands,CYM,2013,58678
+Cayman Islands,CYM,2014,60179
+Cayman Islands,CYM,2015,61665
+Cayman Islands,CYM,2016,63121
+Cayman Islands,CYM,2017,64561
+Cayman Islands,CYM,2018,65962
+Cayman Islands,CYM,2019,67346
+Cayman Islands,CYM,2020,68703
+Cayman Islands,CYM,2021,70126
+Cayman Islands,CYM,2022,71610
+Cayman Islands,CYM,2023,73055
+Central African Republic,CAF,-10000,2265
+Central African Republic,CAF,-9000,3398
+Central African Republic,CAF,-8000,5097
+Central African Republic,CAF,-7000,7646
+Central African Republic,CAF,-6000,11469
+Central African Republic,CAF,-5000,17204
+Central African Republic,CAF,-4000,25806
+Central African Republic,CAF,-3000,38709
+Central African Republic,CAF,-2000,58064
+Central African Republic,CAF,-1000,87097
+Central African Republic,CAF,0,130645
+Central African Republic,CAF,100,137521
+Central African Republic,CAF,200,144759
+Central African Republic,CAF,300,152378
+Central African Republic,CAF,400,160398
+Central African Republic,CAF,500,168840
+Central African Republic,CAF,600,177726
+Central African Republic,CAF,700,187080
+Central African Republic,CAF,800,196927
+Central African Republic,CAF,900,207291
+Central African Republic,CAF,1000,218202
+Central African Republic,CAF,1100,229686
+Central African Republic,CAF,1200,241775
+Central African Republic,CAF,1300,254500
+Central African Republic,CAF,1400,267894
+Central African Republic,CAF,1500,281994
+Central African Republic,CAF,1600,296836
+Central African Republic,CAF,1700,312459
+Central African Republic,CAF,1710,313504
+Central African Republic,CAF,1720,318143
+Central African Republic,CAF,1730,323060
+Central African Republic,CAF,1740,328282
+Central African Republic,CAF,1750,333846
+Central African Republic,CAF,1760,339793
+Central African Republic,CAF,1770,346170
+Central African Republic,CAF,1780,353034
+Central African Republic,CAF,1790,360455
+Central African Republic,CAF,1800,479444
+Central African Republic,CAF,1801,479444
+Central African Republic,CAF,1802,479444
+Central African Republic,CAF,1803,479444
+Central African Republic,CAF,1804,479444
+Central African Republic,CAF,1805,479444
+Central African Republic,CAF,1806,479444
+Central African Republic,CAF,1807,479444
+Central African Republic,CAF,1808,479444
+Central African Republic,CAF,1809,479444
+Central African Republic,CAF,1810,479444
+Central African Republic,CAF,1811,479444
+Central African Republic,CAF,1812,479444
+Central African Republic,CAF,1813,479444
+Central African Republic,CAF,1814,479444
+Central African Republic,CAF,1815,479444
+Central African Republic,CAF,1816,479444
+Central African Republic,CAF,1817,479444
+Central African Republic,CAF,1818,479444
+Central African Republic,CAF,1819,481588
+Central African Republic,CAF,1820,485925
+Central African Republic,CAF,1821,492502
+Central African Republic,CAF,1822,501371
+Central African Republic,CAF,1823,512583
+Central African Republic,CAF,1824,524045
+Central African Republic,CAF,1825,535764
+Central African Republic,CAF,1826,547745
+Central African Republic,CAF,1827,559994
+Central African Republic,CAF,1828,572516
+Central African Republic,CAF,1829,585319
+Central African Republic,CAF,1830,598407
+Central African Republic,CAF,1831,611789
+Central African Republic,CAF,1832,625470
+Central African Republic,CAF,1833,639457
+Central African Republic,CAF,1834,653756
+Central African Republic,CAF,1835,668375
+Central African Republic,CAF,1836,683321
+Central African Republic,CAF,1837,698602
+Central African Republic,CAF,1838,714224
+Central African Republic,CAF,1839,730195
+Central African Republic,CAF,1840,746524
+Central African Republic,CAF,1841,763218
+Central African Republic,CAF,1842,780285
+Central African Republic,CAF,1843,797733
+Central African Republic,CAF,1844,815572
+Central African Republic,CAF,1845,833810
+Central African Republic,CAF,1846,852456
+Central African Republic,CAF,1847,871518
+Central African Republic,CAF,1848,891007
+Central African Republic,CAF,1849,906867
+Central African Republic,CAF,1850,919016
+Central African Republic,CAF,1851,928662
+Central African Republic,CAF,1852,934435
+Central African Republic,CAF,1853,936232
+Central African Republic,CAF,1854,938031
+Central African Republic,CAF,1855,939831
+Central African Republic,CAF,1856,941633
+Central African Republic,CAF,1857,943436
+Central African Republic,CAF,1858,945241
+Central African Republic,CAF,1859,947315
+Central African Republic,CAF,1860,949659
+Central African Republic,CAF,1861,952275
+Central African Republic,CAF,1862,955165
+Central African Republic,CAF,1863,958330
+Central African Republic,CAF,1864,961505
+Central African Republic,CAF,1865,964688
+Central African Republic,CAF,1866,967879
+Central African Republic,CAF,1867,971080
+Central African Republic,CAF,1868,974289
+Central African Republic,CAF,1869,977799
+Central African Republic,CAF,1870,981611
+Central African Republic,CAF,1871,985730
+Central African Republic,CAF,1872,990157
+Central African Republic,CAF,1873,994895
+Central African Republic,CAF,1874,999655
+Central African Republic,CAF,1875,1004435
+Central African Republic,CAF,1876,1009236
+Central African Republic,CAF,1877,1014059
+Central African Republic,CAF,1878,1018903
+Central African Republic,CAF,1879,1023772
+Central African Republic,CAF,1880,1028668
+Central African Republic,CAF,1881,1033590
+Central African Republic,CAF,1882,1038538
+Central African Republic,CAF,1883,1043512
+Central African Republic,CAF,1884,1048509
+Central African Republic,CAF,1885,1053528
+Central African Republic,CAF,1886,1058568
+Central African Republic,CAF,1887,1063631
+Central African Republic,CAF,1888,1068717
+Central African Republic,CAF,1889,1072104
+Central African Republic,CAF,1890,1073789
+Central African Republic,CAF,1891,1073766
+Central African Republic,CAF,1892,1072031

@@ -1,0 +1,25 @@
+                                                                Table 2                                                                                     1082
+                                                GEOGRAPHY AND DESERTION IN HAUTE-VIENNE
+                                           Desertion Rate (before Leaving for Unit)                        Desertion Rate (after Leaving for Unit)
+
+Dependent Variable                   (1)             (2)              (3)              (4)           (5)             (6)           (7)               (8)
+
+Ruggedness                        23.75433         26.39871        32.01622         57.29485      –2.16073        –1.55019       3.39306       10.70835
+                                (11.69744)*      (9.75387)**     (6.39163)***    (12.54240)***    (6.36336)       (6.48357)     (7.10792)     (11.30334)
+                               [10.31959]**     [7.41947]***     [5.45677]***     [9.46596]***    [5.19933]       [5.04240]     [5.10103]      [7.18600]
+Wheat suitability                                     ü               ü                ü                             ü              ü                ü
+Height                                                ü               ü                ü                             ü              ü                ü
+Agricultural sector                                                   ü                ü                                            ü                ü
+Construction workers                                                  ü                ü                                            ü                ü
+Owner share                                                           ü                ü                                            ü                ü
+Wood workers                                                          ü                ü                                            ü                ü
+Leather and textile workers                                            ü               ü                                            ü                ü
+                                                                                                                                                            Rouanet and Piano
+Glass and metal workers                                                ü               ü                                            ü                ü
+Elevation                                                              ü               ü                                                             ü
+Observations                         26              26               26               26            26              26            26                26
+R-squared                          0.168            0.302            0.674            0.719         0.002           0.016         0.567          0.573
+***p < 0.01, **p< 0.05, *p < 0.1
+Notes: Controls are described in Online Appendix D. We report robust standard errors in parentheses and Conley standard errors (50 km) in brackets.
+Sources: Draft-dodging rates are form the Archives Nationales AF/IV/1124, n. 1 and n. 9. Wheat suitability is from the FAO, GAEZ v3.0. Elevation data are
+from the U.S. Geological Survey. All remaining controls are from the Archives de Haute-Vienne, 1/R/50.

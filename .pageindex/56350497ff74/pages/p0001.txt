@@ -1,0 +1,24 @@
+---
+source_url: "https://www.napoleon.org/enseignants/documents/droit-sous-napoleon-ier-quest-ce-quun-senatus-consulte/"
+final_url: "https://www.napoleon.org/enseignants/documents/droit-sous-napoleon-ier-quest-ce-quun-senatus-consulte/"
+provider: "exa"
+text_sha256: "74c1dbe173ad7937464ce916e69b1a8e8d1aedd07cc917279a73ec703625a0ad"
+title: "Droit sous Napol\u00e9on Ier > Qu\u2019est ce qu\u2019un s\u00e9natus-consulte ? - napoleon.org"
+content_kind: "page_text"
+---
+
+Droit sous Napoléon Ier > Qu’est ce qu’un sénatus-consulte ? - napoleon.org
+
+# Droit sous Napoléon Ier > Qu’est ce qu’un sénatus-consulte ?
+
+En histoire napoléonienne, l’expression « sénatus-consulte » apparaît souvent. Elle désigne un outil juridique qui servit à prendre de grandes décisions touchant notamment –mais pas seulement- à l’organisation des pouvoirs publics. Qu’était le sénatus-consulte ? Qui en avait l’initiative ? Qui le préparait ? Qui le votait ? Pourquoi s’encombrait-on de sa lourde procédure ?
+
+Senatus-Consulte du du 14 thermidor An X proclamant après plébiscite le Consulat à vie de Bonaparte © archives.seine-et-marne.fr
+
+La constitution de l’an VIII, celle du Consulat, était muette sur sa propre procédure de révision : en termes techniques, elle était une constitution dite « rigide ». Tout au plus pouvait-on penser que la règle du « parallélisme des formes » (une autorité qui prend un texte est apte à le réformer) imposait que les modifications fussent soumises au plébiscite, obligation pesante et parfois inutile pour les sujets secondaires. Aucune autre piste ne pouvait être dégagée du texte ou de la (jeune) tradition républicaine.
+
+Les constitutions de 1791 (monarchie constitutionnelle) et 1795 (Directoire) avaient rendu la révision quasiment impossible, tout en estimant que « la nation a le droit imprescriptible de changer sa constitution » [1]. En 1791, il fallait qu’un projet de révision soit voté dans les mêmes termes par trois législatures successives, soit six ans. En 1795, entre les trois votes nécessaires à trois ans d’intervalle et la réunion d’une assemblée de révision, il fallait compter une bonne dizaine d’années pour parvenir à toiletter seulement quelques articles. C’est ce qui explique qu’en Brumaire, Sieyès et Bonaparte décidèrent d’utiliser l’expédient du coup d’Etat pour parvenir à la révision du texte de 1795, dans le but de renforcer l’exécutif.
+
+### Une procédure créée par les circonstances
+
+Dans ses réflexions préparatoires à la rédaction de la constitution de l’an VIII, Sieyès estimait que le « collège des conservateurs » -qui allait devenir le Sénat- était seul apte à changer le texte fondamental. Cette possibilité ne fut pourtant pas inscrite dans la version finale, il est vrai rédigée très rapidement. Les circonstances politiques permirent cependant de créer une procédure solennelle, librement inspirée du senatus consultum ultimum romain (« ultime décision du Sénat ») qui permettait aux consuls de l’Antiquité d’utiliser la force pour protéger l’Etat.

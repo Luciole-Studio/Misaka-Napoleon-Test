@@ -1,0 +1,64 @@
+relative to the pre-1700 period, after 1700 there is an increase in both the level and the growth rate
+
+of population and urbanization. These facts are summarized for the Old World in the first three
+
+rows of Table 5. The first row reports averages for the pre-1700 period (1000–1700), the second
+
+row reports averages for the post-1700 period (1700–1900), and the third row reports the difference
+
+between the two periods. The table confirms that after 1700, Old World countries witnessed a
+
+significant increase in average population, population growth, urbanization, and the rate of change
+
+of urbanization.
+
+   As a way to illustrate the magnitude of our estimated effects of potatoes, we calculate how
+
+much of the observed differences between the pre- and post-adoption periods can be attributed
+
+to the introduction of the potato. On average, approximately 7.78% of a country’s land is suitable
+
+for potato cultivation according to the definition used in this study. This is the fraction of land
+
+that could potentially be used to grow potatoes after 1700. Prior to 1700, since potatoes were
+
+not yet introduced, no Old World country was able to grow potatoes and therefore this number
+
+was 0%. The introduction of potatoes, therefore, increased the average amount of land that could
+
+potentially be used for potato cultivation from 0 to 7.78%.
+
+   Our DD estimates provide a measure of the impact of being able to cultivate potatoes on
+
+population and urbanization after 1700. We use our baseline estimates of the effect of potatoes
+
+on each outcome, reported in columns (1) and (7) of Table 3. These are reproduced in the fourth
+
+row of Table 5. Because the coefficients report the estimated impact on the relevant outcome from
+
+a one unit (i.e., 100%) increase in a country’s share of land suitable for potatoes, the average gain
+
+to an Old World country from the introduction of potatoes is given by the coefficient multiplied by
+
+the average increase in suitability, which is 7.78% or 0.0778. These effects are reported in the sixth
+
+row of Table 5.
+
+   The final row of the table reports how much of the difference between the pre- and post-1700
+
+periods can be attributed to the introduction of the potato. This is calculated as the difference
+
+between the two periods that is explained by potatoes (reported in row 6) divided by the observed
+
+difference between the two periods (reported in row 3). Doing this calculation for each of our four
+
+outcome measures, we find that the availability of potatoes can explain: 12% of the increase in
+
+population, 22% of the increase in population growth rate, 47% of the increase in urbanization,
+
+and 50% of the increase in urbanization growth.
+
+   While these effects are large, they are not as large as they may seem at first glance. Take for
+
+
+                                                 33

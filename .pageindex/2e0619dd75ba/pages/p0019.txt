@@ -1,0 +1,61 @@
+
+
+1899 at a value of roughly -0.3, a result which is consistent with the findings for British
+
+exports in Jacks and Pendakur (2010).
+
+The estimated empire coefficients in the right panel of Figure 6 are all large, positive, and statistically significant. We again identify three eras in their evolution. The first period from 1700 to 1780 sees a gradual increase in the empire effect. It then declined dramatically in 1790 and remained stable until 1820 before declining again. The empire effects remained stable between 1850 and 1899. The empire effect was huge throughout these two centuries. The early 18th century coefficients, with a value of around two, imply a six-fold increase in exports to destinations in the British Empire, and the late
+
+18th century coefficients with a value of around three imply a 19-fold increase. Even the late 19th century coefficients with a value of around one imply an increase in trade of
+
+170%: nowhere near as high as during the heyday of mercantilist regulation but hardly
+
+insignificant.
+
+The sharp drop during the 1780s in both the distance and empire effects coincided with the independence of the United States, and the reader might suspect that there is some connection between these observations. Figure 7 therefore repeats the analysis of Figure 6 but excludes the United States (and the colonies that preceded it) from the analysis. As can be seen, the distance coefficient again begins to fall in absolute value during the 1780s.
+
+This is the beginning of a declining trend in distance coefficients that continues until the
+
+1860s. This contrasts with the steep decline seen in Figure 6. However, the total decline is of the same order of magnitude in the two figures.
+
+Figure 7: Evolution of Distance and Empire Effects on British Exports without the US
+
+-1.5 -1 -.5
+
+0
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900 year Distance Estimate 95% Confidence Interval
+
+Evolution of the effects of Distance
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900 year Empire Estimate 95% Confidence Interval
+
+Evolution of the effects of Empire
+
+Notes: This figure reports estimates of the evolution over time of the effects of distance and empire, excluding the United States. The estimator is PPML, and the dependent variable is bilateral exports at the SITC division level over 21 years during the period from 1700 to 1899. The left panel of the figure reports the evolution of the effects of distance, and the right panel of the figure reports the corresponding effects for empire. Each of the two panels includes the point estimates and associated 95% confidence intervals. The
+
+standard errors are clustered by destination-division.
+
+The empire effects in Figure 7 are, if anything, somewhat higher than in Figure 6, but instead of a steep decline in the 1780s, there is now a steep decline in the 1810s
+
+coinciding with the end of the Napoleonic Wars.23 Since trade with the United States 
+quickly recovered after the 1783, it makes sense that American independence should have 
+weakened the association between empire and exports and lowered the empire coefficient. 
+Once the United States is removed from the analysis, however, empire continued to exert 
+an extremely high impact on exports until the 1810s. 
+Finally, Appendix E shows that the time pattern of the distance and empire effects 
+remains the same if we add destination-division fixed effects to our model. However, in 
+line with Table 1, the whole distribution of distance effects shifts up in absolute terms, 
+while the whole distribution of empire estimates shifts down. 

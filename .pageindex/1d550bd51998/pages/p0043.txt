@@ -1,0 +1,32 @@
+Table 2: Descriptive statistics of the French rente and the British consol
+
+                                     CONSOL            RENTE
+                 Mean                 4.03%            6.47%
+                 Median               3.92%            6.54%
+                 Maximum              5.40%            9.88%
+                 Minimum              3.12%            3.84%
+                 Std. Dev.            0.54%            1.58%
+                 Skewness             0.400*           0.027
+                 Kurtosis             2.541*           1.903*
+                 Jarque-Bera          19.50*           27.62*
+                 p-value               0.0001          0.0000
+
+                   * stands for significance at the 5% conventional risk level
+
+
+
+
+ Table 3: ADF unit root test on the French rente and the British consol
+
+
+                                  ADF t-Statistic
+                                                           p-value
+                                (constant, trend)
+                 CONSOL              -1.6118               0.7874
+                 RENTE              -4.4743*               0.0018
+                   * stands for significance at the 5% conventional risk level
+
+
+
+
+                                                                                 42

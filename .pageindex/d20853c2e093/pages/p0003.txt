@@ -1,0 +1,61 @@
+## Sheet: Sources (continued)
+	A	B	C
+140		1807-1913	Smits, J.P., E. Horlings and J.L. van Zanden (2000). The Measurement of Gross National Product and its Components 1800-1913 (Groningen Growth and Development Centre Monograph series no 5). 
+142	NOR	Norway	
+143		1820–1930	Grytten, O.H. (2015). Norwegian gross domestic product by industry 1830 - 1930, Norges Bank Working paper 19/2015. Population from Maddison (2006)
+145	PAN	Panama	
+146		1906–1945	De Corso, G. (2013). El crecimiento economico de Venuzuela, Desde la Oligarquia Conservadora Hasta La Revolucion Bolivariana: 1830-2012. Uno Vision cuantitativa *: Venezuelan Economic Growth From The Conservative Oligarchy To The Bolivarian Revolution (1830-2012), Revista De Historia Económica / Journal of Iberian and Latin American Economic History, 31(3), 321-357. doi:10.1017/S0212610913000190
+148	PER	Peru	
+149		1600–1812	Arroyo Abad, L. and J.L. van Zanden (2016), “Growth under Extractive Institutions? Latin American Per Capita GDP in Colonial Times” Journal of Economic History 76(4): 1182–1215. 
+150		1812–1870	Seminario, B. (2015). El Desarrallo de la Economía Peruana en la Era Moderna, Universidad de Pacifico, Lima
+151		1870-1901	Bertola, L and Ocampo, J.A. (2012) The Economic Development of Latin America since Independence. Oxford, Oxford U.P
+153	POL	Poland	
+154		1409–1913	Malinowski, M. and Van Zanden (2017), “National income and its distribution in preindustrial Poland in a global perspective” Cliometrica, Volume 11, Issue 3, pp 375–40 
+156	PRK	D.P.R. of Korea	
+157		1911-1943	Cha, M.S., Kim, N.N., Park, K.-J., Park, Y. (Eds.) (2020), Historical Statistics of Korea. Studies in Economic History, New York: Springer Publishing. 
+158		1990-2015	Cha, M.S., Kim, N.N., Park, K.-J., Park, Y. (Eds.) (2020), Historical Statistics of Korea. Studies in Economic History, New York: Springer Publishing. 
+160	PRT	Portugal	
+161		1	Scheidel, W. and Friesen, S. J., ‘The size of the economy and the distribution of income in the Roman Empire’, Journal of Roman Studies, 99 (2009), pp. 61–91
+162		1530–1850	Palma, N., & Reis, J. (2019). From Convergence to Divergence: Portuguese Economic Growth, 1527–1850. The Journal of Economic History, 79(2), 477-506. doi:10.1017/S0022050719000056
+164	ROU	Romania	
+165		1862–1995	Axenciuc, V. (2012). Produsul intern brut al Romaniei, Vol. 1, Institutl de Economie Nationala, Bucarest
+167	SAU	Saudi Arabia	
+168		1820, 1870, 1913, 1950	Pamuk, S. (2006), Estimating Economic Growth in the Middle East since 1820, The Journal of Economic History, vol 66, no. 3, pp. 809 - 828
+170	SGP	Singapore	
+171		1900–1959	Sugimoto, I. (2011), Economic growth of Singapore in the twentieth century: historical GDP estimates and empirical investigations, Economic Growth Centre Research Monograph ser., 2, http://www.worldscibooks.com/economics/7858.html (accessed on 30 Jan. 2013).
+173	SRB	Serbia	
+174		1952-2008	Milanovic (2011). Estimates provided to the Maddison-Project
+176	SUN	Former USSR	
+177		1885-1913 	Gregory, P. R. (1982). Russian National Income, 1885–1913, Cambridge: Cambridge University Press
+178		1913-1928 	Markevich, A. and M. Harrison (2011). “Great War, Civil War, and Recovery: Russia's National Income, 1913 to 1928”, The Journal of Economic History, Volume 71 (3): 672 – 703, table 6.
+179		1991 -	Based on GDP and population data for their successor states
+181	SVN	Slovenia	
+182		1952-2008	Milanovic (2011). Estimates provided to the Maddison-Project
+184	SWE	Sweden	
+185		1300–1560	Krantz, O. (2017) “Swedish GDP 1300-1560 A Tentative Estimate” Lund Papers in Economic History: General Issues; No. 152.
+186		1560–1950	Schön, L., and O. Krantz (2015) “New Swedish Historical National Accounts since the 16th Century in Constant and Current Prices” Lund Papers in Economic History no. 140
+188	SYR	Syrian Arab Republic	
+189		1820, 1870, 1913, 1950	Pamuk, S. (2006), Estimating Economic Growth in the Middle East since 1820, The Journal of Economic History, vol 66, no. 3, pp. 809 - 828
+191	TUR	Turkey	
+192		1	Scheidel, W. and Friesen, S. J., ‘The size of the economy and the distribution of income in the Roman Empire’, Journal of Roman Studies, 99 (2009), pp. 61–91
+193		700 - 1820 	Pamuk, Ş. and M. Shatzmiller (2011). “Real Wages and GDP per capita in the Medieval Islamic Middle East in Comparative Perspective, 700-1500”, paper presented at the 9th Conference of the European Historical Economics Society, Dublin, September 2-3, 2011; Milanovic, B. (2006), “An estimate of average income and inequality in Byzantium around year 1000,” Review of Income and Wealth 52 (3).
+194		1500-1820	Pamuk, S. (2009). “Estimating GDP per capita for the Ottoman Empire in a European Comparative Framework, 1500-1820”,  paper presented at the XVth World Economic History Congress, August 2009, Utrecht
+196	TWN	Taiwan, Province of China	
+197		1820 - 1940 	Fukao, K., D. Ma and T. Yuan (2007). Real GDP in Pre-War East Asia: A 1934-36 Benchmark Purchasing Power Parity Comparison with the U.S. Review of Income and Wealth, 53 (3): 503 - 537. Trend from original Maddison estimates applied to benchmark for 1934/36 
+199	URY	Uruguay	
+200		1800-1870	Prados de la Escosura, L. (2009). “Lost Decades? Economic Performance in Post-Independence Latin America,” Journal of Latin America Studies 41: 279–307. (updated data)
+201		1870–2014	Bèrtola, L. (2016). El PIB per Capita de Uruguay 1870 - 2016: una reconstruccion. PHES working paper No 48
+203	USA	United States	
+204		1650 - 1790 	McCusker, John J., ‘Colonial Statistics’, Historical Statistics of the United States: Earliest Time to the Present, in S. B. Carter, S. S. Gartner, M. R. Haineset al. New York, Cambridge University Press. V-671.
+205		1790 - 1870 	Sutch, R. (2006). National Income and Product. Historical Statistics of the United States: Earliest Time to the Present, in S. B. Carter, S. S. Gartner, M. R. Haineset al. New York, Cambridge University Press III-23-25.
+206		1800-1830	Prados de la Escosura, L. (2009). “Lost Decades? Economic Performance in Post-Independence Latin America,” Journal of Latin America Studies 41: 279–307. (updated data)
+208	VEN	Venezuela (Bolivarian Republic of)	
+209		1830–2012	De Corso, G. (2013). El crecimiento economico de Venuzuela, Desde la Oligarquia Conservadora Hasta La Revolucion Bolivariana: 1830-2012. Uno Vision cuantitativa *: Venezuelan Economic Growth From The Conservative Oligarchy To The Bolivarian Revolution (1830-2012), Revista De Historia Económica / Journal of Iberian and Latin American Economic History, 31(3), 321-357. doi:10.1017/S0212610913000190
+211	YUG	Former Yugoslavia	
+212		1952-2008	Milanovic (2011). Estimates provided to the Maddison-Project
+213		2008 -	Based on GDP and population data for their successor states
+215	ZAF	South Africa	
+216		1700–1900 (Cape Colony)	Fourie, J. and Van Zanden, J.L. (2013). GDP in the Dutch Cape Colony: the Nationals Accounts of a Slave-Based Society, South African Journal of Economics, vol. 81 (4): 467 - 490
+218	Population sources		
+219	2008 - 2018: Total Economy database, the Conference Board for all countries included in the TED. Otherwise we have used The U.S. Census Bureau, accessed November 2, 2020		
+220	Exceptions: 1950 - 2018 for Burundi, Benin, El Salvador, Guinea, Guinea-Bissau, Honduras, Montenegro, Serbia and Swaziland: The U.S. Census Bureau, accessed November 2, 2020		

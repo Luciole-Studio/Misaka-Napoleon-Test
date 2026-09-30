@@ -1,0 +1,47 @@
+Environ. Res. Lett. 14 (2019) 094019
+
+
+
+
+   Figure 3. The effects of volcanic forcing and analogue sea level pressure patterns on observed and simulated temperature and
+   precipitation anomalies in Central European summer. (a) Observations and (b) unforced control simulations (MPI-ESM1.2- &
+   HadCM3) with anomalies from the long term mean, (c) model simulations (MPI-ESM1.2- & HadCM3) driven with the Tambora
+   eruption forcing with anomalies from the control mean. Big green circle is the mean of all years. Big blue circle is the mean of the best
+   analogues, where the number of analogues used is given in the legend (see method section). Colour of smaller circles dependent on
+   closeness of observations and simulations to observed SLP pattern determined by RMSE. Black star and black dashed lines—actual
+   observed values in the summer of 1816. Distributions on x and y-axis show observation/model spread where the black distribution in
+   all panels shows observation spread, green shading shows the spread of results in each panel.
+
+
+
+model studies which have also found an increase in                       (ﬁgures 2(j)–(l)), however among the volcanically-
+precipitation in south-central European summer fol-                      forced model simulations, which are characterised by
+lowing volcanic eruptions (Iles et al 2013, Kandlbauer                   a low pressure over Northern Europe and lead to both
+et al 2013, Wegmann et al 2014), and which is broadly                    cold and wet conditions very similar to those observed
+consistent with the average observed response follow-                    (ﬁgure 3(c)). Therefore, although there is no evidence
+ing 10 different eruptions (see Fischer et al 2007 and                   that the volcanic eruption has made the observed pres-
+ﬁgure S9). The effect of forcing uncertainty (as expres-                 sure pattern more likely, it does not prevent condi-
+sed between the three MPI ensembles) on precipita-                       tions similar to that observed either.
+tion is not as strong, nor is the effect on the SLP pattern                   By creating a composite pattern over all summers
+(not shown). Wegmann et al (2014) linked this                            which have Central European precipitation anomalies
+increase in precipitation to a southward shift of the                    greater than that observed in 1816, it becomes evident
+North Atlantic jet caused by a weaker African mon-                       that the most signiﬁcant feature in all cases, both in
+soon. Our results support their conclusions, also                        observations and models (with and without volcanic
+showing drying of the North African monsoon and                          forcing), is a low pressure anomaly centre over Central
+similar changes in North Atlantic atmospheric circula-                   and Northern Europe (ﬁgure S7). This corresponds to
+tion (see ﬁgure 2 and supplementary ﬁgure S4).                           the major circulation feature associated with the sum-
+Following the eruption of Mount Tambora the pre-                         mer of 1816 (ﬁgure 2(a)) and coincides with the region
+cipitation anomaly is instead centred on central Eur-                    with the most reliable instrumental data (see Küttel
+ope so we now quantify if there is evidence the                          et al 2010 and data section). Consequently, we assume
+eruption enhanced the probability of increased wet-                      that while the area that we are using to determine the
+ness in this region.                                                     analogues is relatively large the most important region
+     Neither of the SLP anomaly patterns for the year                    for increased European rainfall is conﬁned to Central
+1816 in the climate model simulations compares well                      and Northern Europe.
+visually with that observed (compare ﬁgure 2(a) with                          The volcanic forcing in the HadCM3 models
+ﬁgures 2(m) and (p)). The lack of similarity is con-                     increases the likelihood of a low pressure over this area
+ﬁrmed by an analysis of the RMSE between the two                         by a factor of about 2.5, although whether this change
+sets of patterns (ﬁgure S5) which does not show any                      is signiﬁcant (p<0.05) depends on the distribution
+reduction from the RMSE beyond what is expected                          used to ﬁt to the data (see supplementary ﬁgure 11).
+from internal variability alone. Analogues do exist                      Conversely, the uncertainty in MPI-ESM1.2 results is
+
+                                                          6

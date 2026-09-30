@@ -1,0 +1,45 @@
+                                                - 11 -
+
+services fell the same 27 percent as domestic exports.
+
+        Thus, the embargo price vector is p1 = (0.73, 0.73, 1.33, 1.33). The calculated value of -
+
+p1@m0, which is also the estimated distance AD, is therefore $47 million.
+
+
+
+CD: sP = p1@(y1 - y0)
+
+        This component is somewhat more difficult to estimate. This measures the shift along
+
+the domestic production possibilities frontier – producing more of the goods previously imported
+
+and producing less of the goods previously exported – as a result of the change in domestic
+
+relative prices.
+
+        The scope for producers in the United States to start or to increase domestic production
+
+of previously imported goods (import substitution) depends upon the type of imported good.
+
+The ability of domestic firms to commence or increase production of manufactured goods, such
+
+as cotton goods, glass, and iron, as a substitute for imports was quite substantial. Conversely,
+
+nearly half of imports consisted of consumption items such as sugar, coffee, tea, spices, wine and
+
+spirits, goods in which East Coast producers could not easily initiate production.
+
+        Unfortunately, unlike the export statistics, the import statistics of this period do not
+
+completely enumerate the types of goods imported, but they can help establish the general range
+
+of potential import substitution by domestic producers. Imports subject to specific duties are
+
+individually specified and consisted almost exclusively of the consumption goods mentioned
+
+above (sugar, coffee, tea, wine, etc.) that domestic producers would have difficulty replicating.
+
+All other imports paying ad valorem duties were not separately recorded, but included (among
+
+other items) manufactured goods, where the possibility of import substitution was presumably

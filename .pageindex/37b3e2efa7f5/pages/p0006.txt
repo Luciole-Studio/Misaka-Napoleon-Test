@@ -1,0 +1,24 @@
+
+
+### 红队抽查短引文清单
+
+以下均可在已读材料定位；用于核查措辞，不意味着引文自身足以证明全部因果解释。
+
+| # | 短引文 | 精确位置 |
+|---|---|---|
+| 1 | “on two or three different occasions” | H p.295，PDF311，Beugnot倡议 |
+| 2 | “it was not in the least degree this spirit that prevailed in Paris” | H p.296，PDF312 |
+| 3 | “My fundamental principle is, France first and foremost” | H p.297，PDF313；拿破仑信转引，页图核日期 |
+| 4 | “forbade the export of Italian raw silk except to Lyons” | H p.298，PDF314 |
+| 5 | “seems never to have been realized” | H p.299，PDF315；取消荷法关税边界的保留判断 |
+| 6 | “they had only got 1,100,000 kgs. of sugar” | H p.293，PDF309 |
+| 7 | “the output came to only 6,000 kgs.” | H p.290，PDF306；菘蓝靛蓝 |
+| 8 | “Bordeaux received 620 navigation permits” | M p.68，PDF4 |
+| 9 | “Many thousands in fact were unemployed” | M p.70，PDF6 |
+| 10 | “trade is assumed to be balanced” | O，Welfare losses节，缓存第373行 |
+| 11 | “it does not attempt to untangle the separate effects” | O，开篇，缓存第54行 |
+| 12 | “not to offer a welfare evaluation of the blockade” | J p.6，注4 |
+| 13 | “Sa mise en service débute réellement en octobre” | Q，La construction，缓存第355行 |
+| 14 | “het noordelijke werd echter nooit voltooid” | A，Beschrijving，北干船坞未完成段 |
+
+**最终范围声明。**已完成本卡所需的制度、地区、原料、港口与增长争论的有界综合；没有声称所有原始文书已得、所有页图均检查、所有统计已复现。最应进入总报告的不是一个虚构增长率，而是三个分支的条件差异：**战争胜利本身不会把法国优先帝国自动变成能长期共同繁荣的经济秩序。**

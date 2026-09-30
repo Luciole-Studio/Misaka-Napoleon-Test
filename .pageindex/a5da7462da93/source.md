@@ -1,0 +1,36 @@
+# notes_local_core — 本地已有核心文书复核摘录（PS卡）
+
+除注明外均为本人本轮亲读。路径相对项目根目录。
+
+## 1. 芬肯施泰因条约全文（1807-05-04）
+文件：`downloads/pages/6bc1e5201866.md`（napoleon-histoire.com 法文网络转录；上一轮t_c17367已用；签署件影像未见，可补校 de Clercq II, pp.201–203；Hurewitz I, pp.184–185）
+- 波斯全权代表：Mirza Mohammad Reza Khan，加兹温省督、**"premier Vizir du Prince Mehemed-Aly Mirza"**（注意：他是穆罕默德·阿里·米尔扎[Dowlatshah]的首席维齐尔——波斯谈判代表出自王储竞争者多莱特沙阵营，非阿巴斯·米尔扎阵营）。
+- Art.2 法国担保波斯领土完整；Art.3 承认格鲁吉亚"légitimement"属波斯；Art.4 法国承诺尽一切努力迫使俄国撤出格鲁吉亚与波斯领土，"Cette évacuation sera constamment l'objet de sa politique"。
+- Art.6 军械按欧洲价值**付款**购买（非赠与）；Art.7 法国供炮兵/工兵/步兵军官。
+- Art.8 波斯立即对英断交宣战、召回驻孟买使节、驱逐东印度公司代理人、扣押英货、禁止海陆通英。
+- Art.10 波斯运用影响力使**阿富汗人与坎大哈诸族**联军反英，"après avoir obtenu passage sur leur territoire"再进军英属印度——阿富汗通行是待取得项而非既成事实。
+- Art.11 法国分舰队入波斯湾可获一切便利。
+- Art.12 法军陆路攻印：波斯给予通行，但须**另订专约**规定路线、给养、运输工具、波斯辅助军。
+- Art.13 一切供应按**本国人同价**、由法军**自付**。
+- Art.14 Art.12通行安排**只适用于法国**，"ni à l'Angleterre, ni à la Russie"——法俄联军过波斯须重新谈判。
+- Art.15 商约在德黑兰另谈；Art.16 四个月内换约。
+
+## 2. Gardane Mission（Iranica, Jean Calmard, 2000/2013）
+文件：`downloads/pages/fcff28bd1292.md`。学术综述，底层引 Amini 1995、de Voogd 1981、Gardane 1865、Driault 1904、Dehérain 1929–30、Atkin 1980、Yapp 1980；与 Hellot-Bellier 条目共享底层来源，不算独立互证。
+- 前史：1795年末起波斯进入法国反英印项目；Fath-Ali Shah 因英国拒援（1805-11 孟买对 Nabi Khan 的最终拒绝）转向法国。Jaubert 1805-03派出（在Bayazid被囚8月）、Romieu 1805-09抵德黑兰、10-12死；1806-06/07 Jaubert 在Soltaniya受接见。
+- **Gardane训令（1807-05-10）**："Persia was then to be considered as Russia's natural enemy and as a military passage to India. Detailed maps and reports on routes, fortresses, and ports throughout Persia and the Persian Gulf were to be provided. A force of **twenty thousand men** from the French army was envisaged as well as the training of **12,000 Persian soldiers** by French officers... Assistance in India from the **Mahrattas** should be sought."（转引 Correspondance XV, pp.210–214；Hurewitz I, pp.186–188）
+- 使团规模：**29人**（15文职+13军官+3军士；Fasa'i/Hedayat的"70人"系夸大）。军官：工兵上尉 Bontems-Lefort、Bianchi d'Adda、Lamy、Truilhier；炮兵中尉 Fabvier、Reboul；步兵上尉 Verdier；工程地理军官 **Trézel**（被派往巴格达方向勘测）与 Bernard（1807-11死于Khoy）。
+- 行程：1807-09-10离Scutari经Erzerum，11-13抵Tabriz，12-04抵德黑兰；12-07谒见沙；**12-20沙批准芬肯施泰因**；1808-01-26签商约farmān（含**Kharg岛让与法国**条款，以芬肯施泰因Art.3–4兑现[格鲁吉亚归还]为条件；在此之前沙暂缓反英措施[Art.8]）。另与首相Mirza Shafi签**3万支步枪**购售军事专约。
+- 军事成果：Verdier在Tabriz **14个月训练3营（4,000或6,000人两说）**；Lamy建营房、军械库、火药厂、铸炮厂，加固Ardabil与Abbasabad，并教授阿巴斯·米尔扎本人；Fabvier与Reboul在伊斯法罕**铸炮20门**，艰难运抵德黑兰后未用。"Officers were sent to survey itineraries giving access to India."
+- 崩解链：Tilsit（1807-07-07）后训令改为调停俄波+联波反英；Gudovich 1807-10即向阿巴斯·米尔扎通报Tilsit；亚历山大以"如同俄使调停法西战争"拒绝法国调停；1808-05 Malcolm抵Bushehr被拒入京（沙仍守芬肯施泰因）；Gudovich 1808-10不合时宜攻Erivan败退；**Verdier与Lamy按Tilsit条款被禁止带所训部队对俄作战**；1808-07起Gardane再无巴黎训令（通信往返约7个月）；Champagny拒绝商约执行与追加经费，使团**日益靠波斯方财政支持**；Erfurt（1808-10）实际给俄国东方自由手；沙1808-11-23限期60天；Harford Jones 1808-12登陆Bushehr，1809-02-13 Gardane离德黑兰，次日Jones入城。
+- 后续：Raymond留波斯（1808起）、Drouville 1812；1812年法国最后一次尝试恢复关系无果；法国军事使团1839–40、1858再来。
+- 勘测文献线索（本卡后勤包络关键）：**J.-B. Dumas, *Un fourrier de Napoléon vers l'Inde: les papiers du lieutenant-général Trézel*, 2e éd., Paris 1915**；**M. Truilhier, "Mémoire descriptif de la route de Téhéran à Méched et de Méched à Jezd reconnue en 1807", Bull. Soc. Géographie, 2e sér., 9, 1838, pp.109–145, 249–282, 313–329**；Dupré（Bushehr–幼发拉底口岸报告，Bull. Soc. Géo. 11, 1829）；Jaubert 1821卷附 Truilhier/Raymond/Dupré/Jouannin/Fabvier 行程注记；SHAT Série Im MS no.1673 "Perse 1807–57, Mission militaire 1807–1808"（Trézel/Dupré/Fabvier/Lamy等回忆与行程原档，未亲阅，谱系记载）。
+
+## 3. 与本卡直接相关的上一轮已核结论（复用，注路径）
+来源：`nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`
+- 提尔西特盟约9条全文无印度专款；Art.2兵力与战区须另订特别协定；Art.8对奥斯曼行动排除君士坦丁堡与鲁米利亚（Vandal I 附录，`downloads/pages/13f4af98385b.md` 行21309–21440）。
+- 1807-11-12 Caulaincourt训令：4万法军经君士坦丁堡+4万俄军经高加索；"plus elle paraît chimérique, plus la tentative...épouvanterait les Anglais"（同上行21443起，印度段21684起；AAE Russie vol.144谱系）。
+- 1808-02-02拿破仑致亚历山大：5万人（俄、法、或许些许奥军）"ne serait pas arrivée sur l'Euphrate qu'elle ferait trembler l'Angleterre"；自称协议后1个月到博斯普鲁斯、3-15前决定、5-01可在亚洲——**宣示性时间表非核验工期**（同上行10510–10590）。
+- 1801保罗行动：约22,507哥萨克，1801-01-12命令（RGVIA转引），行约700公里后因保罗遇弑折返；所谓法俄各3.5万联合方案未见两国档案（Schimmelpenninck van der Oye 2014，`downloads/pages/8382c0deb72f.md`）。
+- Baird 1801 Kosseir–Kena沙漠段：无水段33/34英里、夜行2.5英里/小时、人均携水2加仑、水袋泄漏导致次梯队行军取消、骆驼夫须付酬安抚（`downloads/pages/e6f361323912.md` 行1120–1400、1806–1915）。
+- Minto 1808-06-17备忘录：因"the progressive activity of the intrigues & exertions of the French Embassy in Persia"决定派使拉合尔与喀布尔（Das第3章公开节选，`downloads/pages/7ace9e1b1b47.md` 行124–153）。

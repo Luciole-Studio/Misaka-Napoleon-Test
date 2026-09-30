@@ -1,0 +1,51 @@
+1078                             Rouanet and Piano
+
+and so forth (Rouanet and Piano 2020).36 As a result, the ease with which
+replacements could be found varied substantially across departments.
+The results from Column (5) show that the portion of replacements is
+negatively related to a department’s draft dodging rate.37 Including this
+variable only strengthens the coefficient for our main independent vari-
+able. Finally, Column (6) shows that our results are robust to including
+elevation as a control.
+
+Robustness Checks
+   A series of robustness checks further corroborates the validity of our
+results. First, we investigate whether our results are robust to the substi-
+tution of ruggedness for an alternative measure of geographical charac-
+teristics (Online Appendix F.1.1)38: a department’s average slope (and its
+natural log). The results are entirely consistent with those of our baseline
+specification. We also perform a zero-skewness Box-Cox power trans-
+formation on our ruggedness variable. This is an alternative method to
+taking the natural logarithm to mitigate the skewness in our measure of
+terrain ruggedness. We find that the estimated positive effect of geograph-
+ical characteristics on draft evasion is robust across all these strategies.39
+   A department’s draft dodging rate may be affected by its neighbors’
+geographical and environmental characteristics. We generate buffers 30
+km deep around each department and then calculate the average terrain
+ruggedness for these modified polygons to account for this possibility.
+The results (Table 14 in Online Appendix F.1.3) are consistent with those
+of our baseline specification and significant at the same thresholds. In
+fact, they are larger than those in Table 1.
+   We also investigate whether our results are robust to excluding influ-
+ential observations (Online Appendix F.2). We run the same regressions
+  36
+     Buying a replacement in 1810 in Avignon cost almost 6,000 francs, which represented from
+two to ten years of income for a peasant (Pigeard 2000, p. 237). For comparison, four or five
+horses in the Napoleonic period cost around 2,000 francs. Military replacement was therefore quite
+expensive. From 1806 to 1809, between 4.3 and 5.3 percent of conscripts hired a replacement.
+  37
+     Napoleonic officials seem to have been aware of this fact. See the report to Napoleon
+dated 5 April 1806, by the prefect of the Department of Lozère, who proposed deregulating the
+replacement market to fight draft dodging in “the departments where the success of conscription
+meets obstacles” (Archives Nationales, F/9/209).
+  38
+     We also reproduce the specifications from Table 1 using terrain ruggedness instead of its
+natural log.
+  39
+     The only specifications producing statistically weaker results are the ones that do not
+account for rightward skewness, as when we rely on unadjusted values for ruggedness and slope.
+This is due to very high but practically irrelevant values of ruggedness within France’s Alpine
+departments. Once areas with such values are excluded, “Ruggedness” and “Slope” become
+positive and statistically significant. See Online Appendix F.1.2. Excluding “Distance from
+Paris,” which is highly correlated (0.64) with ruggedness, also leads both “Ruggedness” and
+“Slope” to become statistically significant.

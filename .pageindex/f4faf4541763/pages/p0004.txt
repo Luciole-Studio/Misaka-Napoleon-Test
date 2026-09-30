@@ -1,0 +1,26 @@
+
+
+## 七、特里亚农-枫丹白露体系的实际运行（印pp.221–237 / PDF237–253）
+
+### 7.1 财政成绩（**本卡"许可证版S3"收益上限的硬锚**）
+- 印p.221 / PDF237：
+  > "Napoleon's customs revenues alone rose to **105,900,000 francs in the period from the Trianon tariff to the close of 1811**, this as compared with only 11,600,000 francs in 1809; and the auctions of confiscated goods, together with the licence fees, brought in far more, to say nothing of what the vassal states contrived to make."
+  **口径对账（与F4卡）**：Marion IV p.306 记"08/1810–01/1812累计105.927667"，与此几乎同数但**区间端点不同**（Heckscher止于1811年底，Marion止于1812年1月）→ 两者同源于法国海关账，不作独立互证；引用时须标区间。
+- 印p.222 / PDF238【转引Thiers】：1810年剩余数月内**没收货拍卖现金收入近150,000,000法郎**。
+- 印p.226 / PDF242【转引Darmstädter】：法兰克福1810-10一役对法国国库产出 **9,000,000 法郎**。
+- 印p.226 / PDF242：荷尔斯泰因存货按特里亚农税率放入汉堡，**法国国库仅实物缴纳一项得19,700,000法郎，合计42,500,000法郎**；Rist述通宁(Tönning)公路昼夜车马不绝，"half the peasants of Holstein had deserted their fields"，"Cotton lay all about the fields like snow"。
+
+### 7.2 司法与军事执行机器
+- 印p.222–223 / PDF238–239：新海关人员"is represented as a rabble scraped together from different countries"，昼夜入室搜查；Rist述汉堡 prévôtal court 为"a tribunal of blood ... the most frightful tool of fiscal despotism"，*Le Grand Prévôt*"half customs official and half judge"，位阶等同于省长与高等法院院长。
+- 印p.223 / PDF239 **可量化执法产出**：1812年汉堡 Grand Prévôt **两周内判出120个六月徒刑**，全部为违反封锁令；汉堡监狱爆满，**100名囚犯转送安特卫普苦役船**；不来梅监狱条件致 **22½% 的囚犯死亡**。另有死刑判决并执行，而枫丹白露敕令本身并无死刑依据。
+- 印p.223 / PDF239【转引Bourrienne】：1811年一名家长因在易北省进口**一小块糖块**几被枪决，"possibly at the very moment when Napoleon was signing licences for the importation of a million sugar-loaves"。
+- 印p.224 / PDF240 **军事警戒线**：Masséna旧军团（时归Oudinot）自布洛涅沿布拉班特、荷兰海岸布防，最强一师置于埃姆登以与汉萨联络；其次为达武军团——Thiers称"the finest, most reliable, and best organized"、"the invincible third corps"，是**大陆短暂和平期内全军唯一保持战时编制的军**：三个师，每师五个步兵团各四营（合六十营）＋80门炮，另加胸甲骑兵一师、轻骑兵一师、大型攻城列车、河口炮艇队；最东前哨为拉普（Rapp）在但泽的部队。1810-09-28致达武信"expressly declared that the two divisions stationed along the German North Sea coast had as their sole task the prevention of smuggling"。
+  → **本卡"执行能力上限"的最硬证据：帝国把和平期唯一的战备军团当缉私队用。**
+- 印p.224 / PDF240：1810年末沿海修筑大量工事，此前"a plan to capture Heligoland without maritime forces had had to be abandoned"。
+
+### 7.3 藩属与盟国的执行差异（**执行的政治边界**）
+- 印p.225 / PDF241：按法方看法，特里亚农税则起初"remained a dead letter in all the states of the Confederation of the Rhine, **except Baden**"；普鲁士与萨克森试图把原料排除在税则之外；"the somewhat more independent states, such as **Russia, Austria, and Sweden, never, so far as is known, introduced the tariff as a whole**"。Heckscher判断正是1810年8–9月这种消极抵抗促成了10月的枫丹白露敕令。
+- 印p.225 / PDF241 **法兰克福事件（1810-10-17/18）**：名义主权邦，两个法国步兵团在大公未获通知的情况下开入，占领城门、广场架炮、张贴敕令、令申报一切殖民品与英货；法国海关人员搜查全部货栈、加封地窖、扣押账簿信件，"the whole of the great trade movement was stopped"；11-08新令准其按特里亚农税率纳税放行。
+- 印p.227 / PDF243 **关税的"消费税化"**：各国重复征税对法兰克福等中转邦"evidently fatal"，"gradually an arrangement was made whereby the tariff was generally applied as **a tax on consumption, not as a transit duty, but with freedom for goods that had once paid the duty**"。→ **这是史实中最接近"大陆关税同盟原则"的一步，且它是从财政压力而非制度设计中生出来的**（本卡S5关税同盟化判断的一手入口）。
+- 印p.227 / PDF243：普鲁士允许**以市价59.5%的政府债券按面值缴纳**特里亚农税，再以普鲁士完税证明放货过境；1811年春夏普鲁士证明被宣布无效并再次突击查抄。
+- 印p.227 / PDF243 **拍卖地理**：没收货拍卖"preferably in towns which lay at some distance from the great smuggling places, because the prices were highest there"——首推**安特卫普**，其次法兰克福、科隆、美因茨、斯特拉斯堡、米兰、威尼斯。拍卖使殖民贸易"given a constant source of supply alongside the smuggled goods and the duty-paid imports"，并创造"a possibility, besides smuggling, of purchasing the goods at a rate lower than the foreign price plus the customs duty"。→ **国家自己成了第三条供给渠道，并在压低自己税则的有效税率**。

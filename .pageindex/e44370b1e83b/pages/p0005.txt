@@ -1,0 +1,16 @@
+
+
+**N10：1811年10月2日，安特卫普，致Decrès**。URL：https://napoleon-histoire.com/correspondance-de-napoleon-ier-octobre-1811/ 。缓存`downloads/pages/550652301685.md`第40—54行。
+- 原文：`“construire chaque année huit vaisseaux au lieu de six”`。上下文为该厂13艘在台、其中2艘拟本年下水及船坞18艘容量，地域是安特卫普，不是全法国。
+- 原文理由：`“je craignais la difficulté des équipages; mais huit équipages hollandais sont tout prêts”`；还拟从改变布洛涅小舰队方案获得配员，并要求增加舰材、调入工兵／造船工人。这里只证明决策者的配员判断及资源调动要求，不证明人员质量和供应已落实。
+- 其中2艘“demain”下水及次年8艘均为愿望／命令，不当作已发生下水；不得在逐舰表之外增计。
+
+【裁量，高置信：口径】N3/N10可作为**厂级船台—占台时长—配员—下水缓冲库存的同期规划锚点**，不是实绩，也不是未来预测。两封信相互补充，但出自同一决策者、同一现代转录网站，不算两个独立的产出观测源。无须用全国8—12的模型区间来吸收这个已澄清的厂级6→8口径问题。
+
+## 6. 复用、获取失败和停止点
+
+已复用C2 `c2_naval_econ_data.md`与C3 `rebuild_feedback_evidence.md`：前者明确法国1811/1814截面不是年度下水，后者Glover全文未阅，均不含本次所需完整逐舰系列。已读downloads中的Todorov和Muracciole，不重复展开退役率研究。
+
+Winfield–Roberts原书全文获取未成：Perlego只返回目录与简介；vdoc只返回书目及目录；Academia同题结果抓回聚合物化学文本，显然错配，排除；dokumen入口无正文。**本memo不把这些入口当已阅原书。** 命令行读取／获取受到approval限制，改用原生read、doc工具与web_extract；未绕过权限。通用网页工具自动保存必要来源缓存，未改任何主deliverable，未提交卡。
+
+【裁量】本轮最强可交判断是：帝国地域口径的逐舰证据已远超七年28艘阈值；本土口径仍不能由下限名单证明上限。50艘名单值得用于下一轮原书逐行冻结，但现在只能称“有来源的暂定逐舰实绩表”，不能称原始档案审计完成。余缺集中在原书校日、斯海尔德非安特卫普厂穷尽性、荷兰新增舰、威尼斯法意舰籍，以及104混合存量的真正分项。无需据此进行未来产能预测。

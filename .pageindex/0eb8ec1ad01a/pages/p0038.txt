@@ -1,0 +1,59 @@
+                      Table 6: Checking for heterogeneous effects of potato adoption.
+                                                                                    Dependent variables
+                                                            (1)                    (2)                 (3)                (4)
+                                                                                                 City population     Change in city
+                                                       ln Population        Population growth         share         population share
+                                       Panel A. Differential effects by access to international markets
+  Potato x Post                                            0.710                  0.691               19.545              0.151
+                                                          (0.406)                (0.184)              (6.941)            (0.046)
+
+  Potato x Distance to ice free coast x Post              0.0023                0.00038              -0.018            -0.00008
+                                                         (0.0011)              (0.00040)             (0.013)           (0.00008)
+
+  Observations                                             922                    790                  922                790
+
+                                           Panel B. Differential effects by pre-1700 urbanization
+  Potato x Post                                           1.438                  0.913               18.816               0.137
+                                                         (0.301)                (0.156)              (5.733)             (0.045)
+
+  Potato x City share in 1700 x Post                      -0.027                 -0.035              -1.671               0.004
+                                                          (0.052)                (0.022)             (1.280)             (0.007)
+
+  Observations                                             922                    790                  922                790
+
+     Panel C. Differential effects by elite capture, measured by an indicator variable for legal serfdom or domestic slavery in 1700
+  Potato x Post                                           1.285                0.573                   9.435               0.120
+                                                         (0.297)              (0.159)                 (9.482)             (0.049)
+
+  Potato x Serfdom or slavery in 1700 x Post              -0.139                  0.302                7.953              0.020
+                                                          (0.407)                (0.214)             (10.188)            (0.062)
+
+  Observations                                          922                  790                  922                  790
+  Notes : All regressions control for All Crops x Post, Old World Staples x Post, New World Staples x Post, Elevation x Post,
+  Ruggedness x Post, country fixed effects and year fixed effects. Regressions also control for Distance to ice free coast x Post in
+  Panel A, City share in 1700 x Post in Panel B, and Serfdom or slavery in 1700 x Post in Panel C. Standard errors are clustered at
+  the country level (132 clusters).
+
+
+
+
+with an indicator variable that equals one if there is any evidence from ethnographic and historical
+
+sources that either domestic slavery or serfdom was legal in 1700. As above, we then include the
+
+interaction of this indicator variable with Potatoi × ItPost in our estimating equation. A negative
+
+coefficient indicates that the benefits of potatoes are greater in regions where the elites are weaker.
+
+The estimates, reported in Panel C of Table 6, do not provide evidence of this being the case.
+
+Rather than being negative, three of the four coefficients are positive, although none are significant.
+
+In sum, we fail to find evidence that the benefits of potatoes systematically vary with the rent-
+
+capturing power of the elites.
+
+
+
+
+                                                                       36

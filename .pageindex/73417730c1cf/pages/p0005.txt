@@ -1,0 +1,49 @@
+
+
+### 2. 1801-1830: foundations
+
+From the reopening of the Bourse in 1801 to 1832, most of the market’s activity concentrated on rentes, the public debt consolidated in 1797 in a single 5% perpetual fund. The liberal order of the Revolution (as it appeared in the first version of the French Commercial Code) was more or less respected: guilds had been abolished by the Le Chapelier law, so that any collusive agreement among brokers was illegal. There was a certain amount of favoritism involved in the government’s appointment of the 71 agents de change (official brokers) in July 1801, but expertise was a prerequisite. However, the First Consul and later Emperor Napoléon Bonaparte did not like government policy to be priced on a market, and he took advantage of the first crisis (1805) to change the tide of the Bourse. He re-established the monopoly of officially authorized agents de change for all securities operations 22 and created the government-supervised CAC. The government also intervened on the markets via the network of Treasury officers and the Bank of France 23. Despite this apparently authoritarian rule, the monopoly was not enforced and the CAC’s governing body –known as the Committee – had no actual control over the agents. Partly because of political uncertainty and partly because of a lack of organization, the market fluctuated hugely. During that first stage, the difference between official agents de change and outside brokers (later called coulissiers) was minor. Both groups cooperated daily to form a more or less single market. First, no transfer of rentes (which were all registered securities)
+
+21 Such a high-end exchange can also surge forwards without legislative obligations, as was the case in 
+Milan and New York in the late 19 th century (see Riva, ‘Compétition entre places financières’; idem, ‘Les 
+grandes Bourses italiennes’ for Italy and, i.a., Davis and Neal, ‘The evolution of the rules’ for the USA). 
+22 The monopoly concerned all ‘quotable’ securities (‘susceptibles d’être cotés’, French Commercial 
+Code, 1807, Art. 76). The courts enforced this interpretation of the monopoly through to 1885 (cf. Hissung 
+Convert, La speculation boursière, p. 230ss). 
+23 Locré, La législation; Khang, ‘L’Etat constructeur’. 
+
+was possible without the intermediation of the agents, despite the forward market being 
+dominated by the coulissiers. The Parquet’s end-of-month settlement, created in 1805, served 
+then for the entire market. Second, the coulissiers also acted as dealers (as they would 
+throughout the century), and the official brokers needed them in order to absorb the 
+substantial proportion of orders that could not be matched in a still relatively tight market. 
+Third, the high agents de change turnover made them appear no less risky than the 
+coulissiers: from 1801 to 1814, 115 agents were appointed, 65 of whom left the profession 
+before 1815, 46 because of bankruptcy 24. 
+However, various reasons led to the separation of the two markets. The major one was the 
+demand for security among investors. Following the revolutionary turmoil, during which the 
+government defaulted on two-thirds of the public debt, French investors wanted security even 
+more than the high returns they were offered. Liquidity would come later as a result of the 
+sheer size of the market. Later on, the Bourbon Restoration and especially the reparations 
+required by the Allies imposed the new government to issue a huge amount of debt on the 
+market (total debt increased by almost one-third of GDP within five years) 25. This required an 
+increasing number of unsophisticated investors to be attracted towards the market by more 
+protective rules. 
+The priority placed on security first of all prompted the preservation of the centralized, public 
+quotation process: in 1801, the government decided that the Parquet would keep the French 
+tradition of open outcry (‘le cri’), by which the market for the leading securities – and 
+especially the rentes – was highly transparent: the agents de change brought in their lists of 
+orders at the opening of the session and matched them to establish the price that balanced 
+supply and demand, in a process known as ‘fixing’ or ‘first price’ setting. This transparent 
+price discovery process guaranteed price fairness and hence the security of the public, mainly 
+for the small investors who had access to the prices due to their immediate and full 
+publication in an official list. It probably also facilitated the government’s control, an 
+important issue for the public debt. 
+Price fairness is stepped up if discovery process participants are pure agents. This led the 
+government to impose single capacity on the agents de change, guaranteeing the absence of a 
+conflict of interest between them and their clients. As the coulissiers dealt with each other 
+24 Minutes of the Chambre Syndicale (CS) Meetings, CAC Archives, 20 Jun. 1814 (now quoted as CS, 
+dd/mm/yyyy). 
+25 White, ‘Making the French Pay’. Part of that debt was issued successfully in London and Amsterdam, 
+but the government also reformed the Parisian market to be able to issue around half of the total in France. Gille, 
+La banque; Gontard, La Bourse de Paris. 

@@ -1,0 +1,76 @@
+---
+source_url: "https://archive.org/stream/ExpeditionsOverseas/Expeditions%20Overseas_djvu.txt"
+final_url: "https://archive.org/stream/ExpeditionsOverseas/Expeditions%20Overseas_djvu.txt"
+sha256: "4e332360bc15ed17cd6c10fdbd646874db7bf37d4b54a1e03f93a43ae975e3e2"
+text_sha256: "50efa2c96e6fe88fe32785f4f03c48a792993c7f31d4756d901755dc5be4153f"
+title: "Full text of \"Expeditions Overseas\""
+---
+
+Title: Full text of "Expeditions Overseas"
+
+Skip to main content
+
+Keep the news in the Wayback Machine. [Sign Fight for the Future's letter](https://www.savethearchive.com/NewsLeaders).
+
+[Wayback Machine](https://web.archive.org) [Texts](https://archive.org/details/texts) [Video](https://archive.org/details/movies) [Audio](https://archive.org/details/audio) [Software](https://archive.org/details/software) [Images](https://archive.org/details/image) [Donate](https://archive.org/donate/?origin=iawww-mbhmbgrmenu) [More](https://archive.org/about/)
+
+["Donate to the archive"](https://archive.org/donate/?origin=iawww-mbhrt)
+
+[Sign up](https://archive.org/signup)
+|
+[Log in](https://archive.org/account/login)
+
+[Upload](https://archive.org/upload)
+
+### Internet Archive Audio
+
+[Live Music Archive](https://archive.org/details/etree) [Librivox Free Audio](https://archive.org/details/librivoxaudio)
+
+#### Featured
+
+- [All Audio](https://archive.org/details/audio)
+- [Grateful Dead](https://archive.org/details/GratefulDead)
+- [Netlabels](https://archive.org/details/netlabels)
+- [Old Time Radio](https://archive.org/details/oldtimeradio)
+- [78 RPMs and Cylinder Recordings](https://archive.org/details/78rpm)
+
+#### Top
+
+- [Audio Books & Poetry](https://archive.org/details/audio_bookspoetry)
+- [Computers, Technology and Science](https://archive.org/details/audio_tech)
+- [Music, Arts & Culture](https://archive.org/details/audio_music)
+- [News & Public Affairs](https://archive.org/details/audio_news)
+- [Spirituality & Religion](https://archive.org/details/audio_religion)
+- [Podcasts](https://archive.org/details/podcasts)
+- [Radio News Archive](https://archive.org/details/radio)
+
+### Images
+
+[Metropolitan Museum](https://archive.org/details/metropolitanmuseumofart-gallery) [Cleveland Museum of Art](https://archive.org/details/clevelandart)
+
+#### Featured
+
+- [All Images](https://archive.org/details/image)
+- [Flickr Commons](https://archive.org/details/flickrcommons)
+- [Occupy Wall Street Flickr](https://archive.org/details/flickr-ows)
+- [Cover Art](https://archive.org/details/coverartarchive)
+- [USGS Maps](https://archive.org/details/maps_usgs)
+
+#### Top
+
+- [NASA Images](https://archive.org/details/nasa)
+- [Solar System Collection](https://archive.org/details/solarsystemcollection)
+- [Ames Research Center](https://archive.org/details/amesresearchcenterimagelibrary)
+
+### Software
+
+[Internet Arcade](https://archive.org/details/internetarcade) [Console Living Room](https://archive.org/details/consolelivingroom)
+
+#### Featured
+
+- [All Software](https://archive.org/details/software)
+- [Old School Emulation](https://archive.org/details/tosec)
+- [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
+- [Historical Software](https://archive.org/details/historicalsoftware)
+- [Classic PC Games](https://archive.org/details/classicpcgames)
+- [Software Library](https://archive.org/details/softwarelibrary)

@@ -1,0 +1,48 @@
+---
+source_url: "https://hansard.parliament.uk/html/Commons/1809-01-20/CommonsChamber"
+final_url: "https://hansard.parliament.uk/html/Commons/1809-01-20/CommonsChamber"
+provider: "exa"
+text_sha256: "c40d2cdeb0bb23a6b0abc0045e9fa7a97eacb50581c146d17afc99fefa1211e7"
+title: "Commons Chamber - Hansard - UK Parliament"
+content_kind: "page_text"
+---
+
+Commons Chamber - Hansard - UK Parliament
+
+# Commons Chamber
+
+## Volume 12: debated on Friday 20 January 1809
+
+House of Commons data for 03 September 2026 is currently being processed. Data for this date may temporarily appear incomplete.
+
+The text on this page has been created from Hansard archive content, it may contain typographical errors.
+
+## House Of Commons
+
+Friday, January 20, 1809.
+
+## The Lords Commissioners' Speech
+
+Mr. Robinson brought up the Report of the Address, which was read a first time. On the motion for the second reading,
+
+Mr. W. Smith
+
+Share a link to this specific contribution:
+
+took the opportunity of briefly expressing his sentiments on the subject. In concurring with the Address, he by no means understood himself to be precluded from making any future observations on the various topics which it embraced. For instance, while he heartily concurred in the propriety of rejecting the terms upon which the last offer of negotiation was made, he by no means meant to declare it as his opinion, that this country ought never to consent to the commencement of another negotiation, while Spain should continue in the hands of the French government.—On the subject of Sweden also he conceived that there was much room for further remark. We might probably be paying our 100,000l. a month, merely for the purpose of having that sum used, however reluctantly, by Sweden to assist in the endeavour to exclude us from the Baltic. He condemned the levity with which the subjects of Spain and Portugal had last night been treated by the Column 92
+
+Column 92
+
+gentlemen opposite. Those gentlemen did not think they could possibly be called upon to answer for their conduct as culprits. When the day of investigation should come, he hoped that they would be able to exculpate themselves; but if it should turn out that the country was involved in a very great calamity; if the result should be that one of the finest armies that this country could ever boast, would be compelled to pass sub furca,then unquestionabiy it would become a matter of serious investigation, whether the fault lay with those who planned or with those who executed; for to one of the parties it must necessarily attach.
+
+The Report was then read a second time and agreed to.
+
+## Conduct Of The Duke Of York
+
+Mr. Wardle
+
+Share a link to this specific contribution:
+
+gave notice, that on Friday next he would submit to the house a motion relative to the Conduct of his royal highness the Duke of York, Commander in Chief of the British Army, with respect to the granting of Commissions, the making of Exchanges, and the raising of Levies for the Army.
+
+## Sir A Wellesley And General Stewart

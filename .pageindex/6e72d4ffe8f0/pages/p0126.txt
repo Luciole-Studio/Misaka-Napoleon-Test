@@ -1,0 +1,272 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+United States,USA,1954,163636303
+United States,USA,1955,166200028
+United States,USA,1956,168824962
+United States,USA,1957,171499234
+United States,USA,1958,174215305
+United States,USA,1959,177145772
+United States,USA,1960,180274556
+United States,USA,1961,183489491
+United States,USA,1962,186724275
+United States,USA,1963,189825225
+United States,USA,1964,192819457
+United States,USA,1965,195653774
+United States,USA,1966,198265400
+United States,USA,1967,200699913
+United States,USA,1968,203011020
+United States,USA,1969,205300034
+United States,USA,1970,207796338
+United States,USA,1971,210426423
+United States,USA,1972,212842571
+United States,USA,1973,215006548
+United States,USA,1974,217076475
+United States,USA,1975,219129299
+United States,USA,1976,221168755
+United States,USA,1977,223259417
+United States,USA,1978,225396097
+United States,USA,1979,227575082
+United States,USA,1980,229858656
+United States,USA,1981,232201613
+United States,USA,1982,234583155
+United States,USA,1983,236986362
+United States,USA,1984,239353967
+United States,USA,1985,241690438
+United States,USA,1986,243953807
+United States,USA,1987,246161292
+United States,USA,1988,248393236
+United States,USA,1989,250675047
+United States,USA,1990,253373387
+United States,USA,1991,256471424
+United States,USA,1992,259606021
+United States,USA,1993,262633229
+United States,USA,1994,265474811
+United States,USA,1995,268205796
+United States,USA,1996,270860695
+United States,USA,1997,273468014
+United States,USA,1998,276119323
+United States,USA,1999,278785482
+United States,USA,2000,281484126
+United States,USA,2001,284279634
+United States,USA,2002,287084335
+United States,USA,2003,289908091
+United States,USA,2004,292786248
+United States,USA,2005,295716666
+United States,USA,2006,298730208
+United States,USA,2007,301844223
+United States,USA,2008,304970325
+United States,USA,2009,308023452
+United States,USA,2010,311062785
+United States,USA,2011,314105075
+United States,USA,2012,317115349
+United States,USA,2013,320110752
+United States,USA,2014,323115377
+United States,USA,2015,326126496
+United States,USA,2016,329179423
+United States,USA,2017,332204657
+United States,USA,2018,335056492
+United States,USA,2019,337790069
+United States,USA,2020,339436156
+United States,USA,2021,340161438
+United States,USA,2022,341534041
+United States,USA,2023,343477330
+United States Virgin Islands,VIR,500,1
+United States Virgin Islands,VIR,600,2
+United States Virgin Islands,VIR,700,5
+United States Virgin Islands,VIR,800,10
+United States Virgin Islands,VIR,900,21
+United States Virgin Islands,VIR,1000,43
+United States Virgin Islands,VIR,1100,86
+United States Virgin Islands,VIR,1200,173
+United States Virgin Islands,VIR,1300,346
+United States Virgin Islands,VIR,1400,692
+United States Virgin Islands,VIR,1500,1385
+United States Virgin Islands,VIR,1600,2771
+United States Virgin Islands,VIR,1700,5543
+United States Virgin Islands,VIR,1710,6236
+United States Virgin Islands,VIR,1720,7016
+United States Virgin Islands,VIR,1730,7893
+United States Virgin Islands,VIR,1740,8880
+United States Virgin Islands,VIR,1750,9990
+United States Virgin Islands,VIR,1760,11239
+United States Virgin Islands,VIR,1770,12644
+United States Virgin Islands,VIR,1780,14224
+United States Virgin Islands,VIR,1790,16002
+United States Virgin Islands,VIR,1800,18003
+United States Virgin Islands,VIR,1810,20253
+United States Virgin Islands,VIR,1820,20294
+United States Virgin Islands,VIR,1830,20334
+United States Virgin Islands,VIR,1840,20375
+United States Virgin Islands,VIR,1850,20416
+United States Virgin Islands,VIR,1860,20457
+United States Virgin Islands,VIR,1870,19483
+United States Virgin Islands,VIR,1880,18555
+United States Virgin Islands,VIR,1890,17671
+United States Virgin Islands,VIR,1900,16830
+United States Virgin Islands,VIR,1910,16028
+United States Virgin Islands,VIR,1920,15265
+United States Virgin Islands,VIR,1930,14538
+United States Virgin Islands,VIR,1940,13846
+United States Virgin Islands,VIR,1950,27104
+United States Virgin Islands,VIR,1951,27767
+United States Virgin Islands,VIR,1952,28219
+United States Virgin Islands,VIR,1953,28672
+United States Virgin Islands,VIR,1954,29184
+United States Virgin Islands,VIR,1955,29680
+United States Virgin Islands,VIR,1956,30157
+United States Virgin Islands,VIR,1957,30636
+United States Virgin Islands,VIR,1958,31150
+United States Virgin Islands,VIR,1959,31715
+United States Virgin Islands,VIR,1960,33041
+United States Virgin Islands,VIR,1961,35452
+United States Virgin Islands,VIR,1962,38338
+United States Virgin Islands,VIR,1963,41465
+United States Virgin Islands,VIR,1964,44857
+United States Virgin Islands,VIR,1965,48401
+United States Virgin Islands,VIR,1966,51783
+United States Virgin Islands,VIR,1967,54927
+United States Virgin Islands,VIR,1968,57848
+United States Virgin Islands,VIR,1969,60555
+United States Virgin Islands,VIR,1970,63874
+United States Virgin Islands,VIR,1971,67929
+United States Virgin Islands,VIR,1972,71931
+United States Virgin Islands,VIR,1973,75742
+United States Virgin Islands,VIR,1974,79320
+United States Virgin Islands,VIR,1975,82621
+United States Virgin Islands,VIR,1976,85719
+United States Virgin Islands,VIR,1977,88731
+United States Virgin Islands,VIR,1978,91629
+United States Virgin Islands,VIR,1979,94448
+United States Virgin Islands,VIR,1980,96580
+United States Virgin Islands,VIR,1981,97772
+United States Virgin Islands,VIR,1982,98653
+United States Virgin Islands,VIR,1983,99454
+United States Virgin Islands,VIR,1984,100178
+United States Virgin Islands,VIR,1985,100812
+United States Virgin Islands,VIR,1986,101347
+United States Virgin Islands,VIR,1987,101743
+United States Virgin Islands,VIR,1988,101957
+United States Virgin Islands,VIR,1989,101937
+United States Virgin Islands,VIR,1990,102318
+United States Virgin Islands,VIR,1991,103355
+United States Virgin Islands,VIR,1992,104430
+United States Virgin Islands,VIR,1993,105396
+United States Virgin Islands,VIR,1994,106242
+United States Virgin Islands,VIR,1995,106985
+United States Virgin Islands,VIR,1996,107608
+United States Virgin Islands,VIR,1997,108097
+United States Virgin Islands,VIR,1998,108441
+United States Virgin Islands,VIR,1999,108588
+United States Virgin Islands,VIR,2000,108591
+United States Virgin Islands,VIR,2001,108535
+United States Virgin Islands,VIR,2002,108433
+United States Virgin Islands,VIR,2003,108186
+United States Virgin Islands,VIR,2004,107851
+United States Virgin Islands,VIR,2005,107622
+United States Virgin Islands,VIR,2006,107463
+United States Virgin Islands,VIR,2007,107238
+United States Virgin Islands,VIR,2008,106971
+United States Virgin Islands,VIR,2009,106767
+United States Virgin Islands,VIR,2010,106325
+United States Virgin Islands,VIR,2011,105398
+United States Virgin Islands,VIR,2012,104307
+United States Virgin Islands,VIR,2013,103168
+United States Virgin Islands,VIR,2014,102012
+United States Virgin Islands,VIR,2015,100251
+United States Virgin Islands,VIR,2016,97795
+United States Virgin Islands,VIR,2017,95124
+United States Virgin Islands,VIR,2018,92317
+United States Virgin Islands,VIR,2019,89390
+United States Virgin Islands,VIR,2020,87724
+United States Virgin Islands,VIR,2021,87238
+United States Virgin Islands,VIR,2022,86521
+United States Virgin Islands,VIR,2023,85712
+Upper-middle-income countries,OWID_UMC,-10000,2562764
+Upper-middle-income countries,OWID_UMC,-9000,3277314
+Upper-middle-income countries,OWID_UMC,-8000,4242895
+Upper-middle-income countries,OWID_UMC,-7000,5571246
+Upper-middle-income countries,OWID_UMC,-6000,7561198
+Upper-middle-income countries,OWID_UMC,-5000,10771176
+Upper-middle-income countries,OWID_UMC,-4000,15457040
+Upper-middle-income countries,OWID_UMC,-3000,21909879
+Upper-middle-income countries,OWID_UMC,-2000,32990902
+Upper-middle-income countries,OWID_UMC,-1000,39873314
+Upper-middle-income countries,OWID_UMC,0,94119953
+Upper-middle-income countries,OWID_UMC,100,89881792
+Upper-middle-income countries,OWID_UMC,200,84087838
+Upper-middle-income countries,OWID_UMC,300,64321559
+Upper-middle-income countries,OWID_UMC,400,73675680
+Upper-middle-income countries,OWID_UMC,500,82308539
+Upper-middle-income countries,OWID_UMC,600,96744797
+Upper-middle-income countries,OWID_UMC,700,91147190
+Upper-middle-income countries,OWID_UMC,800,85302310
+Upper-middle-income countries,OWID_UMC,900,96099471
+Upper-middle-income countries,OWID_UMC,1000,97079415
+Upper-middle-income countries,OWID_UMC,1100,154528340
+Upper-middle-income countries,OWID_UMC,1200,174394859
+Upper-middle-income countries,OWID_UMC,1300,155636374
+Upper-middle-income countries,OWID_UMC,1400,151220088
+Upper-middle-income countries,OWID_UMC,1500,180793504
+Upper-middle-income countries,OWID_UMC,1600,147880734
+Upper-middle-income countries,OWID_UMC,1700,156430347
+Upper-middle-income countries,OWID_UMC,1710,162510857
+Upper-middle-income countries,OWID_UMC,1720,179852008
+Upper-middle-income countries,OWID_UMC,1730,189366410
+Upper-middle-income countries,OWID_UMC,1740,207324677
+Upper-middle-income countries,OWID_UMC,1750,244801704
+Upper-middle-income countries,OWID_UMC,1760,266144306
+Upper-middle-income countries,OWID_UMC,1770,291965267
+Upper-middle-income countries,OWID_UMC,1780,350399208
+Upper-middle-income countries,OWID_UMC,1790,376474748
+Upper-middle-income countries,OWID_UMC,1800,416530547
+Upper-middle-income countries,OWID_UMC,1801,418383891
+Upper-middle-income countries,OWID_UMC,1802,420257107
+Upper-middle-income countries,OWID_UMC,1803,422150440
+Upper-middle-income countries,OWID_UMC,1804,424064147
+Upper-middle-income countries,OWID_UMC,1805,425998503
+Upper-middle-income countries,OWID_UMC,1806,427953803
+Upper-middle-income countries,OWID_UMC,1807,429930363
+Upper-middle-income countries,OWID_UMC,1808,431928515
+Upper-middle-income countries,OWID_UMC,1809,433948622
+Upper-middle-income countries,OWID_UMC,1810,437119872
+Upper-middle-income countries,OWID_UMC,1811,440301649
+Upper-middle-income countries,OWID_UMC,1812,443891120
+Upper-middle-income countries,OWID_UMC,1813,447893065
+Upper-middle-income countries,OWID_UMC,1814,451946430
+Upper-middle-income countries,OWID_UMC,1815,456051842
+Upper-middle-income countries,OWID_UMC,1816,460209954
+Upper-middle-income countries,OWID_UMC,1817,464421426
+Upper-middle-income countries,OWID_UMC,1818,468686919
+Upper-middle-income countries,OWID_UMC,1819,472782289
+Upper-middle-income countries,OWID_UMC,1820,476703728
+Upper-middle-income countries,OWID_UMC,1821,480444021
+Upper-middle-income countries,OWID_UMC,1822,484001466
+Upper-middle-income countries,OWID_UMC,1823,487408492
+Upper-middle-income countries,OWID_UMC,1824,490850161
+Upper-middle-income countries,OWID_UMC,1825,494326891
+Upper-middle-income countries,OWID_UMC,1826,497839149
+Upper-middle-income countries,OWID_UMC,1827,501387374
+Upper-middle-income countries,OWID_UMC,1828,504972046
+Upper-middle-income countries,OWID_UMC,1829,508082574
+Upper-middle-income countries,OWID_UMC,1830,510715167
+Upper-middle-income countries,OWID_UMC,1831,512866018
+Upper-middle-income countries,OWID_UMC,1832,514526630
+Upper-middle-income countries,OWID_UMC,1833,515693078
+Upper-middle-income countries,OWID_UMC,1834,516872461
+Upper-middle-income countries,OWID_UMC,1835,518065059
+Upper-middle-income countries,OWID_UMC,1836,519271169
+Upper-middle-income countries,OWID_UMC,1837,520491083
+Upper-middle-income countries,OWID_UMC,1838,521725118
+Upper-middle-income countries,OWID_UMC,1839,522915670
+Upper-middle-income countries,OWID_UMC,1840,524063178
+Upper-middle-income countries,OWID_UMC,1841,525171453
+Upper-middle-income countries,OWID_UMC,1842,526241039
+Upper-middle-income countries,OWID_UMC,1843,527272487
+Upper-middle-income countries,OWID_UMC,1844,528324289
+Upper-middle-income countries,OWID_UMC,1845,529396936
+Upper-middle-income countries,OWID_UMC,1846,530490952
+Upper-middle-income countries,OWID_UMC,1847,531606860
+Upper-middle-income countries,OWID_UMC,1848,532745223
+Upper-middle-income countries,OWID_UMC,1849,533158046
+Upper-middle-income countries,OWID_UMC,1850,532852455
+Upper-middle-income countries,OWID_UMC,1851,531726471

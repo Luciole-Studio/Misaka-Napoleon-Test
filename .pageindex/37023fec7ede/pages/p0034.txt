@@ -1,0 +1,49 @@
+the former will also be correlated with conscription enforcement costs. In order to
+provide more robust justification for this assumption, we devise a simple econometric
+test on the relationship between geography and conscription enforcement costs. The
+Napoleonic regime had entrusted the enforcement of the draft to the gendarmerie,
+France’s military police force. The gendarmerie had two types of units: Infantry units
+and cavalry units (Pigeard 2000, p.190). Mounted gendarmes were more effective es-
+corting conscripts and pursuing draft-dodgers than their unmounted counterparts.
+However, the nature of the terrain could make the use of horses altogether uneco-
+nomical (Emsley 1999, p. 34). So, already in 1800, Napoléon had instructed his
+Secretary of State to employ unmounted gendarmes in France’s more mountainous
+regions (Emsley 1999, p. 57).
+
+    Table 20: Geography and the choice of conscription enforcement technology
+
+Note: This table displays the results of regressing the percentage of gendarmerie brigades which
+were mounted in 1802 on geographical characteristics. Variables are described in the Appendix.
+We report robust standard errors in parenthesis and Conley standard errors (100km) in brackets.
+
+      Mounted gendarmerie brigades (%)        (1)            (2)            (3)            (4)           (5)
+      Log of ruggedness                    -6.56432       -8.19232       -8.13984       -14.69275     -12.05288
+                                         (1.94343)***   (2.84354)***   (3.08743)**    (6.44431)**     (7.26244)
+                                         [2.09650]***   [2.50284]***   [2.67371]***   [5.16304]***   [5.74158]**
+
+      Townships density                                      X              X              X             X
+      Distance from Paris                                    X              X              X             X
+      Border                                                 X              X              X             X
+      Maritime                                               X              X              X             X
+      Wheat suitability                                      X              X              X             X
+      Tax revenues per capita                                               X              X             X
+      Urbanization rate                                                     X              X             X
+      Agricultural sector                                                                  X             X
+      Road density                                                                         X             X
+      Elevation                                                                                          X
+      Military division fixed effects                       X              X               X             X
+      Observations                           103           102            102              80            80
+      R-squared                            0.10488       0.61103        0.61173         0.57955       0.58558
+                                         *** p<0.01, ** p<0.05, * p<0.1
+
+
+    If geographic characteristics affected conscription enforcement costs, we should
+expect the latter to predict the choice of enforcement technology (mounted vs. un-
+mounted gendarmes) across departments. Table 20 presents the results of five spec-
+ifications testing this relationship. The results are consistent with our assumption:
+more rugged departments had a smaller percentage of mounted as opposed to “on
+foot” gendarmerie brigades. Because the gendarmerie was in charge of maintaining
+safety on roads (Emsley 1999, Forrest 1989), one confounding factor could be the
+
+
+                                                        34

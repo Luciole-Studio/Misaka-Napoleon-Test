@@ -1,0 +1,43 @@
+relationship is estimated in levels because of the large number of zeros in the data, however I
+show robustness to other types of specifications.28 Effective distance to London in 1803 and
+1812 is quantified using the measure described in Section 3. I report standardized coefficients
+in italics and I calculate two types of standard errors; standard errors clustered at the level
+of the department to account for serial correlation are reported in parentheses. I also report
+standard errors clustered at a slightly higher level of aggregation, to account for spatial
+correlation. To do this, I use the administrative system in place before the formation of
+departments during the Revolution, the généralités.29
+    The estimation strategy compares outcomes in regions of the French Empire which re-
+ceived a large trade cost shock to regions which received a smaller shock before and after
+the disruption to trade. Differently to a standard DD strategy, treatment intensity is con-
+tinuous. Furthermore, the nature of the trade cost shock is such that all units are affected
+to some extent by the disruption to trade. The latter is not problematic for identification to
+the extent that the effect of interest is trade protection, and not the effect of the blockade
+itself. Identification relies on there being no shocks contemporaneous to and correlated with
+the trade cost shock. There are two main concerns for identification. First, some areas of
+the French Empire may simply have been more conducive to the new technology. If these
+variables were correlated with the trade cost shock, and they exerted a time-varying effect on
+spinning capacity, my identification strategy would be undermined. Second, the differential
+trade cost shock took place in the context of the Napoleonic Wars, a highly turbulent period,
+raising the concern that forces besides the trade cost shock are driving the effects that I find.
+In the following, I address both concerns.
+
+
+4.3     Baseline results
+Table 1 contains the results from estimating equation 1. The scatterplot and the baseline
+linear fit is plotted on Figure A.7. The estimated effect of protection from British competition
+is large and statistically significant. The point estimate of 33.47 in column (1) implies that
+  28
+     In particular, 39 and 36 departments reported no mechanized spindles in 1803 and 1812, respectively.
+28 departments had no mechanized spinning capacity in both 1803 and 1812.
+  29
+     The appealing aspect of clustering at this level is that it is reasonable to expect that economic ties within
+these historical regions may be stronger than across them, providing a natural way of clustering at a higher
+level of aggregation. However, it should be noted that for a few robustness checks, the number of clusters at
+the level of généralités falls below 30. Given that clustering with too few groups underestimates the standard
+error (Bertrand et al., 2004), standard errors clustered at the level of généralités are not reported where the
+number of clusters falls below 30. To keep the two types of standard errors comparable, I have not used the
+wild-bootstrap method as suggested by Cameron et al. (2008). Appendix A.3.1.17 contains a more detailed
+description of how departments were assigned to généralités.
+
+
+                                                       22

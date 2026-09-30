@@ -1,0 +1,321 @@
+---
+source_url: "https://cities.blacksea.gr/en/odessa/5-7/"
+final_url: "https://cities.blacksea.gr/en/odessa/5-7/"
+sha256: "00c571dd942ee666c956263deb0d3f4bfe195c7c74cc40fc47313b7316249d12"
+text_sha256: "60e0027c4ffe55a0cf72d5048487cf45bfaf8d8594d34b221deb183a10b0e8f0"
+title: "Odessa - BlackSea Research Project"
+---
+
+Title: Odessa - BlackSea Research Project
+
+[Home](http://blacksea.gr/)[project](https://project.blacksea.gr/)[cities](https://cities.blacksea.gr/)[data](https://data.blacksea.gr/)[books](https://books.blacksea.gr/)[conferences](https://conferences.blacksea.gr/)[statistics](https://statistics.blacksea.gr/)[bibliography](https://bibliography.blacksea.gr/)
+
+[en English](https://cities.blacksea.gr/en/odessa/5-7/) [gr Ελληνικά](https://cities.blacksea.gr/gr/odessa/5-7/) [ru Русский](https://cities.blacksea.gr/ru/odessa/5-7/)
+
+[Black Sea Project Port Cities](https://cities.blacksea.gr/en)
+
+SOLIDARITY TO OUR COLLEGUES IN UKRAINE. The Black Sea project is a project of communication, academic dialogue and scientific exchange, to bring
+scholars together beyond borders: Ukrainians, Russians, Greeks, Turks, Georgians, Bulgarians, Romanians, Moldavians.
+There is no East and West. There is ONE WORLD. Let the War END
+
+Javascript must be enabled to continue!
+
+## [Odessa](https://cities.blacksea.gr/en/odessa)
+
+/ [Statistics](https://cities.blacksea.gr/en/odessa/5) / Exports and imports
+
+Exports and imports
+
+[Exports and imports, Odessa](https://blacksea.gr/download.php?fen=statistics/statistics_0014_7653.xlsx)
+Updated: 13-03-2017 17:27 - Size: 29.82 KB
+
+[Explanations of data and sources](https://blacksea.gr/download.php?fen=statistics_sources.docx)
+Updated: 01-03-2017 14:38 - Size: 594.34 KB
+
+YEAR
+
+Exports Value ,000 Francs
+
+Imports Value ,000 Francs
+
+Wheat Volume tons
+
+Rye Volume tons
+
+Barley Volume tons
+
+Oats Volume tons
+
+Maize Volume tons
+
+Wheat Value ,000 Francs
+
+Rye Value ,000 Francs
+
+Barley Value ,000 Francs
+
+Oats Value ,000 Francs
+
+Maize Value ,000 Francs
+
+Wheat Supplies by railroad tons
+
+Rye Supplies by railroad tons
+
+Barley Supplies by railroad tons
+
+Oats Supplies by railroad tons
+
+Other Grains Supplies by railroad tons
+
+Wheat Supplies by small maritime transit tons
+
+Rye Supplies by small maritime transit tons
+
+Barley Supplies by small maritime transit tons
+
+Oats Supplies by small maritime transit tons
+
+Other Grain Supplies by small maritime transit tons
+
+1812
+
+36718
+
+2564
+
+1461
+
+0
+
+47
+
+0
+
+0
+
+1813
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1814
+
+80481
+
+30
+
+2574
+
+31210
+
+5
+
+360
+
+0
+
+0
+
+1815
+
+171708
+
+1782
+
+3897
+
+92208
+
+546
+
+893
+
+0
+
+0
+
+1816
+
+188259
+
+13594
+
+3541
+
+102129
+
+3528
+
+840
+
+0
+
+0
+
+1817
+
+116160
+
+2156
+
+48013
+
+415
+
+0
+
+0
+
+0
+
+1818
+
+135737
+
+166
+
+4447
+
+86
+
+34828
+
+26
+
+564
+
+19
+
+0
+
+1819
+
+115423
+
+868
+
+2835
+
+539
+
+33255
+
+173
+
+528
+
+155
+
+0
+
+1820
+
+93817
+
+374
+
+2331
+
+32735
+
+84
+
+497
+
+0
+
+0
+
+1821
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1822
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1823
+
+91028
+
+4
+
+20252
+
+0
+
+1
+
+0
+
+0
+
+1824
+
+115495
+
+333
+
+688
+
+130
+
+28970
+
+59
+
+113
+
+21
+
+0
+
+1825
+
+130473
+
+1313
+
+1174
+
+148
+
+22950
+
+110
+
+85
+
+25
+
+0
+
+1826
+
+194685
+
+6044

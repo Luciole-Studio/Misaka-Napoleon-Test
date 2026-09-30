@@ -1,0 +1,47 @@
+---
+source_url: "https://www.conseil-constitutionnel.fr/les-constitutions-dans-l-histoire/constitution-de-l-an-xii-empire-28-floreal-an-xii"
+final_url: "https://www.conseil-constitutionnel.fr/les-constitutions-dans-l-histoire/constitution-de-l-an-xii-empire-28-floreal-an-xii"
+provider: "exa"
+text_sha256: "959a763fdd7f0b883fd341b1d7ca19596960fdea5654d1ca2690fc9690c833e2"
+title: "Constitution de l'An XII - Empire - 28 flor\u00e9al An XII | Conseil constitutionnel"
+content_kind: "page_text"
+---
+
+Constitution de l'An XII - Empire - 28 floréal An XII | Conseil constitutionnel
+
+## Sommaire
+
+- Titre I
+- Titre II - De l'hérédité
+- Titre III - De la famille impériale
+- Titre IV - De la régence
+- Titre V - Des grandes dignités de l'Empire
+- Titre VI - Des grands officiers de l'Empire
+- Titre VII - Des serments
+- Titre VIII - Du Sénat
+- Titre IX - Du Conseil d'État
+- Titre X - Du Corps législatif
+- Titre XI - Du Tribunat
+- Titre XII - Des collèges électoraux
+- Titre XIII - De la Haute Cour impériale
+- Titre XIV - De l'ordre judiciaire
+- Titre XV - De la promulgation
+- Titre XVI et dernier
+
+## Titre I
+
+Article 1. - Le Gouvernement de la République est confié à un Empereur, qui prend le titre d'Empereur des Français. - La justice se rend, au nom de l'Empereur, par les officiers qu'il institue.
+
+Article 2. - Napoléon Bonaparte, Premier consul actuel de la République, est Empereur des Français.
+
+## Titre II - De l'hérédité
+
+Article 3. - La dignité impériale est héréditaire dans la descendance directe, naturelle et légitime de Napoléon Bonaparte, de mâle en mâle, par ordre de primogéniture, et à l'exclusion perpétuelle des femmes et de leur descendance.
+
+Article 4. - Napoléon Bonaparte peut adopter les enfants ou petits-enfants de ses frères, pourvu qu'ils aient atteint l'âge de dix-huit ans accomplis, et que lui-même n'ait point d'enfants mâles au moment de l'adoption. - Ses fils adoptifs entrent dans la ligne de sa descendance directe. - Si, postérieurement à l'adoption, il lui survient des enfants mâles, ses fils adoptifs ne peuvent être appelés qu'après les descendants naturels et légitimes. - L'adoption est interdite aux successeurs de Napoléon Bonaparte et à leurs descendants.
+
+Article 5. - A défaut d'héritier naturel et légitime ou d'héritier adoptif de Napoléon Bonaparte, la dignité impériale est dévolue et déférée à Joseph Bonaparte et à ses descendants naturels et légitimes, par ordre de primogéniture, et de mâle en mâle, à l'exclusion perpétuelle des femmes et de leur descendance.
+
+Article 6. - A défaut de Joseph Bonaparte et de ses descendants mâles, la dignité impériale est dévolue et déférée à Louis Bonaparte et à ses descendants naturels et légitimes, par ordre de primogéniture, et de mâle en mâle, à l'exclusion perpétuelle des femmes et de leur descendance.
+
+Article 7. - A défaut d'héritier naturel et légitime et d'héritier adoptif de Napoléon Bonaparte ; - A défaut d'héritiers naturels et légitimes de Joseph Bonaparte et de ses descendants mâles ; - De Louis Bonaparte et de ses descendants mâles ; - Un sénatus-consulte organique, proposé au Sénat par les titulaires des grandes dignités de l'Empire, et soumis à l'acceptation du peuple, nomme l'Empereur, et règle dans sa famille l'ordre de l'hérédité, de mâle en mâle, à l'exclusion perpétuelle des femmes et de leur descendance.

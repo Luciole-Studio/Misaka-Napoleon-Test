@@ -1,0 +1,34 @@
+that the British government was engaged in tax-smoothing.”
+However, as the data on commodity output and national income are
+based on interpolations between benchmarks, these results should
+only be regarded as suggestive. Similar regressions were tried for
+France, using the ratio of tax revenues to commodity output for the
+period 1728 to 1796. The results were comparable to those for
+Britain, however the even more fragmentary nature of the French
+data does not allow any but tentative conclusions to be drawn.
+
+The ability to tax smooth is based on the government's
+credibility to ensure a flow of revenue after the war to service
+the debt. The British invested in credibility by their performance
+of debt service after the major wars. In addition, establishment
+of the Sinking Fund and its continued operation during the
+Napoleonic wars strengthened this investment. This stands in
+striking contrast to the French monarchy which created a sinking
+fund in 1785--attempting to enhance its reputation-~-only to be
+forced to quickly abandon it.
+
+The British experience is alse consistent with recent
+theoretical development on rules versus discretion. (Bordo and
+Kydland, 1990). The experience of the suspension period can he
+viewed as being consistent with following a contingent gold
+
+standard rule. Under this rule, the government maintains the
+
+13However, it should be recognized that the power of these
+tests is relatively weak. There is considerable controversy about
+their use (see McCallum, 1986). It has recently been suggested
+that these tests may sometimes pick up segmented trends in lieu of
+the unit roots. (Rappeport and Reichlin, 1987).
+
+23
+

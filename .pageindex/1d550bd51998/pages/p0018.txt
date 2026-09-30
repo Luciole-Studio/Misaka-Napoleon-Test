@@ -1,0 +1,40 @@
+concept in France and only became discussed in 1824, as a robustness check, results were also
+tested on basis of the bonds’ yield to maturity.
+
+            Methodology
+
+    To determine the elements which led to the drastic improvement in French public finances
+one would ideally like to create time series on variables suspected of playing a role and then to
+test their impact. Unfortunately, constructing such variables is extremely hard for institutions.
+There is indeed no measure of the quality of institutions showing enough variation for our period
+(for example, Polity IV data attributes the same value for institutions for the whole period
+suggesting that these had a constant quality). In order to overcome this limitation, the analysis
+relies on an indirect approach. Since it is impossible to construct an “institution” variable and
+regress it on the yields, we rely on changes in the yields and base the analysis on the events linked
+to the dates when these changes occurred. The objective of our empirical analysis is thus twofold.
+First of all we want to check for the presence of potential fundamental changes in the evolution
+of the French yields, to identify the exact timing of such changes as well as their cause. Second,
+we aim at measuring the potential short-term impact of specific events/decisions on the
+evolution of these yields. To reach these objectives, we apply a structural break methodology
+completed by a regression with dummies.
+
+    Structural breaks may be computed on yields or on spreads. Using the spreads with the
+British consols allows controlling for “global” shocks. This comes however at a cost, since by
+construction the series will also react to British idiosyncratic events. To overcome this issue, the
+analysis is conducted primarily on the French yields but explanations are searched both on a
+global and on local scale. As robustness check, breaks have also been detected on the French
+yields corrected for the trend of the British consol. This approach limits the impact of pure
+British events since only the consols’ trend is considered. Using this method leads to very similar
+results in terms of breaks.
+
+    The most commonly encountered method for detecting the number and location of
+structural breaks that might appear in a time series is the one introduced and developed by Bai
+and Perron (1998, 2003). More specifically, we estimate the following general model subject to m
+breaks ( m  1 regimes):
+
+                    yt   j zt  ut          t  T j 1  1,..., T j , j  1,..., m  1     (1)
+
+
+
+
+                                                                                                    17

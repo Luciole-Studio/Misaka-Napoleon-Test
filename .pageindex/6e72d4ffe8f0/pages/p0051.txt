@@ -1,0 +1,288 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+High-income countries,OWID_HIC,1750,184708009
+High-income countries,OWID_HIC,1760,192776811
+High-income countries,OWID_HIC,1770,200968942
+High-income countries,OWID_HIC,1780,209290814
+High-income countries,OWID_HIC,1790,217816115
+High-income countries,OWID_HIC,1800,225090865
+High-income countries,OWID_HIC,1801,226207730
+High-income countries,OWID_HIC,1802,227337129
+High-income countries,OWID_HIC,1803,228479222
+High-income countries,OWID_HIC,1804,229634185
+High-income countries,OWID_HIC,1805,230802183
+High-income countries,OWID_HIC,1806,231983401
+High-income countries,OWID_HIC,1807,233178022
+High-income countries,OWID_HIC,1808,234386222
+High-income countries,OWID_HIC,1809,235608190
+High-income countries,OWID_HIC,1810,237308524
+High-income countries,OWID_HIC,1811,239043177
+High-income countries,OWID_HIC,1812,240982581
+High-income countries,OWID_HIC,1813,243137937
+High-income countries,OWID_HIC,1814,245374045
+High-income countries,OWID_HIC,1815,247694226
+High-income countries,OWID_HIC,1816,250101982
+High-income countries,OWID_HIC,1817,252600987
+High-income countries,OWID_HIC,1818,255195121
+High-income countries,OWID_HIC,1819,257701864
+High-income countries,OWID_HIC,1820,260110836
+High-income countries,OWID_HIC,1821,262410791
+High-income countries,OWID_HIC,1822,264590223
+High-income countries,OWID_HIC,1823,266636554
+High-income countries,OWID_HIC,1824,268723251
+High-income countries,OWID_HIC,1825,270854583
+High-income countries,OWID_HIC,1826,273075775
+High-income countries,OWID_HIC,1827,275340012
+High-income countries,OWID_HIC,1828,277647957
+High-income countries,OWID_HIC,1829,279958531
+High-income countries,OWID_HIC,1830,282271583
+High-income countries,OWID_HIC,1831,284546431
+High-income countries,OWID_HIC,1832,286808565
+High-income countries,OWID_HIC,1833,289057681
+High-income countries,OWID_HIC,1834,291334264
+High-income countries,OWID_HIC,1835,293640965
+High-income countries,OWID_HIC,1836,295971100
+High-income countries,OWID_HIC,1837,298331217
+High-income countries,OWID_HIC,1838,300721865
+High-income countries,OWID_HIC,1839,303092828
+High-income countries,OWID_HIC,1840,305453404
+High-income countries,OWID_HIC,1841,307803122
+High-income countries,OWID_HIC,1842,310134532
+High-income countries,OWID_HIC,1843,312448138
+High-income countries,OWID_HIC,1844,314794544
+High-income countries,OWID_HIC,1845,317175268
+High-income countries,OWID_HIC,1846,319591125
+High-income countries,OWID_HIC,1847,322042935
+High-income countries,OWID_HIC,1848,324531556
+High-income countries,OWID_HIC,1849,327086356
+High-income countries,OWID_HIC,1850,329708861
+High-income countries,OWID_HIC,1851,332367865
+High-income countries,OWID_HIC,1852,335097023
+High-income countries,OWID_HIC,1853,337898102
+High-income countries,OWID_HIC,1854,340744466
+High-income countries,OWID_HIC,1855,343637452
+High-income countries,OWID_HIC,1856,346578420
+High-income countries,OWID_HIC,1857,349568812
+High-income countries,OWID_HIC,1858,352610141
+High-income countries,OWID_HIC,1859,355660483
+High-income countries,OWID_HIC,1860,358717629
+High-income countries,OWID_HIC,1861,361770287
+High-income countries,OWID_HIC,1862,364824359
+High-income countries,OWID_HIC,1863,367877215
+High-income countries,OWID_HIC,1864,370969278
+High-income countries,OWID_HIC,1865,374101282
+High-income countries,OWID_HIC,1866,377273978
+High-income countries,OWID_HIC,1867,380488136
+High-income countries,OWID_HIC,1868,383744569
+High-income countries,OWID_HIC,1869,387086345
+High-income countries,OWID_HIC,1870,390514736
+High-income countries,OWID_HIC,1871,393982298
+High-income countries,OWID_HIC,1872,397592919
+High-income countries,OWID_HIC,1873,401293886
+High-income countries,OWID_HIC,1874,405044152
+High-income countries,OWID_HIC,1875,408844548
+High-income countries,OWID_HIC,1876,412695921
+High-income countries,OWID_HIC,1877,416599575
+High-income countries,OWID_HIC,1878,420556426
+High-income countries,OWID_HIC,1879,424570180
+High-income countries,OWID_HIC,1880,428641608
+High-income countries,OWID_HIC,1881,432769115
+High-income countries,OWID_HIC,1882,436955849
+High-income countries,OWID_HIC,1883,441202662
+High-income countries,OWID_HIC,1884,445507700
+High-income countries,OWID_HIC,1885,449871970
+High-income countries,OWID_HIC,1886,454299061
+High-income countries,OWID_HIC,1887,458790078
+High-income countries,OWID_HIC,1888,463346164
+High-income countries,OWID_HIC,1889,467927995
+High-income countries,OWID_HIC,1890,472534678
+High-income countries,OWID_HIC,1891,477175396
+High-income countries,OWID_HIC,1892,481839469
+High-income countries,OWID_HIC,1893,486525480
+High-income countries,OWID_HIC,1894,491272534
+High-income countries,OWID_HIC,1895,496081513
+High-income countries,OWID_HIC,1896,500953302
+High-income countries,OWID_HIC,1897,505886271
+High-income countries,OWID_HIC,1898,510881358
+High-income countries,OWID_HIC,1899,516016933
+High-income countries,OWID_HIC,1900,521297821
+High-income countries,OWID_HIC,1901,526745753
+High-income countries,OWID_HIC,1902,532340252
+High-income countries,OWID_HIC,1903,538085184
+High-income countries,OWID_HIC,1904,543906470
+High-income countries,OWID_HIC,1905,549806264
+High-income countries,OWID_HIC,1906,555786187
+High-income countries,OWID_HIC,1907,561851222
+High-income countries,OWID_HIC,1908,567999566
+High-income countries,OWID_HIC,1909,573585317
+High-income countries,OWID_HIC,1910,578602376
+High-income countries,OWID_HIC,1911,582983409
+High-income countries,OWID_HIC,1912,586846583
+High-income countries,OWID_HIC,1913,590131611
+High-income countries,OWID_HIC,1914,593461508
+High-income countries,OWID_HIC,1915,596776002
+High-income countries,OWID_HIC,1916,600075052
+High-income countries,OWID_HIC,1917,603403957
+High-income countries,OWID_HIC,1918,606831228
+High-income countries,OWID_HIC,1919,610828508
+High-income countries,OWID_HIC,1920,615484140
+High-income countries,OWID_HIC,1921,620658904
+High-income countries,OWID_HIC,1922,626466827
+High-income countries,OWID_HIC,1923,632807717
+High-income countries,OWID_HIC,1924,639231658
+High-income countries,OWID_HIC,1925,645741638
+High-income countries,OWID_HIC,1926,652316952
+High-income countries,OWID_HIC,1927,658958445
+High-income countries,OWID_HIC,1928,665691164
+High-income countries,OWID_HIC,1929,672193292
+High-income countries,OWID_HIC,1930,678454074
+High-income countries,OWID_HIC,1931,684481126
+High-income countries,OWID_HIC,1932,690237662
+High-income countries,OWID_HIC,1933,695721219
+High-income countries,OWID_HIC,1934,701237682
+High-income countries,OWID_HIC,1935,706798469
+High-income countries,OWID_HIC,1936,712501220
+High-income countries,OWID_HIC,1937,718319329
+High-income countries,OWID_HIC,1938,724318862
+High-income countries,OWID_HIC,1939,730498113
+High-income countries,OWID_HIC,1940,736422923
+High-income countries,OWID_HIC,1941,742141209
+High-income countries,OWID_HIC,1942,747841836
+High-income countries,OWID_HIC,1943,753641567
+High-income countries,OWID_HIC,1944,759577616
+High-income countries,OWID_HIC,1945,765070804
+High-income countries,OWID_HIC,1946,769912900
+High-income countries,OWID_HIC,1947,775400537
+High-income countries,OWID_HIC,1948,782020517
+High-income countries,OWID_HIC,1949,789461967
+High-income countries,OWID_HIC,1950,803677085
+High-income countries,OWID_HIC,1951,813122435
+High-income countries,OWID_HIC,1952,822761916
+High-income countries,OWID_HIC,1953,832946684
+High-income countries,OWID_HIC,1954,843457760
+High-income countries,OWID_HIC,1955,854182135
+High-income countries,OWID_HIC,1956,864982708
+High-income countries,OWID_HIC,1957,876095948
+High-income countries,OWID_HIC,1958,887590973
+High-income countries,OWID_HIC,1959,899076140
+High-income countries,OWID_HIC,1960,910579223
+High-income countries,OWID_HIC,1961,922087574
+High-income countries,OWID_HIC,1962,933393647
+High-income countries,OWID_HIC,1963,944422127
+High-income countries,OWID_HIC,1964,955942899
+High-income countries,OWID_HIC,1965,967359346
+High-income countries,OWID_HIC,1966,977693793
+High-income countries,OWID_HIC,1967,986958831
+High-income countries,OWID_HIC,1968,996237549
+High-income countries,OWID_HIC,1969,1006286584
+High-income countries,OWID_HIC,1970,1016197398
+High-income countries,OWID_HIC,1971,1026404337
+High-income countries,OWID_HIC,1972,1036705088
+High-income countries,OWID_HIC,1973,1046398353
+High-income countries,OWID_HIC,1974,1055695228
+High-income countries,OWID_HIC,1975,1064433412
+High-income countries,OWID_HIC,1976,1072839002
+High-income countries,OWID_HIC,1977,1081304497
+High-income countries,OWID_HIC,1978,1089655062
+High-income countries,OWID_HIC,1979,1098001915
+High-income countries,OWID_HIC,1980,1106630742
+High-income countries,OWID_HIC,1981,1115099447
+High-income countries,OWID_HIC,1982,1123182624
+High-income countries,OWID_HIC,1983,1131150387
+High-income countries,OWID_HIC,1984,1138944221
+High-income countries,OWID_HIC,1985,1146684440
+High-income countries,OWID_HIC,1986,1154735607
+High-income countries,OWID_HIC,1987,1163054785
+High-income countries,OWID_HIC,1988,1171490531
+High-income countries,OWID_HIC,1989,1179895365
+High-income countries,OWID_HIC,1990,1187956164
+High-income countries,OWID_HIC,1991,1196239408
+High-income countries,OWID_HIC,1992,1203963230
+High-income countries,OWID_HIC,1993,1210728993
+High-income countries,OWID_HIC,1994,1217906022
+High-income countries,OWID_HIC,1995,1224543783
+High-income countries,OWID_HIC,1996,1230513703
+High-income countries,OWID_HIC,1997,1236583684
+High-income countries,OWID_HIC,1998,1242177352
+High-income countries,OWID_HIC,1999,1247730970
+High-income countries,OWID_HIC,2000,1253937735
+High-income countries,OWID_HIC,2001,1260506416
+High-income countries,OWID_HIC,2002,1267822166
+High-income countries,OWID_HIC,2003,1275305584
+High-income countries,OWID_HIC,2004,1282405681
+High-income countries,OWID_HIC,2005,1289639261
+High-income countries,OWID_HIC,2006,1297063813
+High-income countries,OWID_HIC,2007,1305649028
+High-income countries,OWID_HIC,2008,1314867453
+High-income countries,OWID_HIC,2009,1323319806
+High-income countries,OWID_HIC,2010,1331186276
+High-income countries,OWID_HIC,2011,1339286565
+High-income countries,OWID_HIC,2012,1347506296
+High-income countries,OWID_HIC,2013,1355469061
+High-income countries,OWID_HIC,2014,1363592543
+High-income countries,OWID_HIC,2015,1372281696
+High-income countries,OWID_HIC,2016,1380894709
+High-income countries,OWID_HIC,2017,1388094202
+High-income countries,OWID_HIC,2018,1394159697
+High-income countries,OWID_HIC,2019,1400146576
+High-income countries,OWID_HIC,2020,1403650770
+High-income countries,OWID_HIC,2021,1404873283
+High-income countries,OWID_HIC,2022,1410112397
+High-income countries,OWID_HIC,2023,1416794460
+Honduras,HND,-10000,13390
+Honduras,HND,-9000,14877
+Honduras,HND,-8000,16531
+Honduras,HND,-7000,18367
+Honduras,HND,-6000,20408
+Honduras,HND,-5000,22676
+Honduras,HND,-4000,25195
+Honduras,HND,-3000,27995
+Honduras,HND,-2000,31106
+Honduras,HND,-1000,34562
+Honduras,HND,0,38402
+Honduras,HND,100,48003
+Honduras,HND,200,60003
+Honduras,HND,300,75004
+Honduras,HND,400,93756
+Honduras,HND,500,117195
+Honduras,HND,600,146493
+Honduras,HND,700,183117
+Honduras,HND,800,228896
+Honduras,HND,900,286120
+Honduras,HND,1000,357651
+Honduras,HND,1100,447063
+Honduras,HND,1200,558829
+Honduras,HND,1300,698537
+Honduras,HND,1400,873171
+Honduras,HND,1500,1091464
+Honduras,HND,1600,311847
+Honduras,HND,1700,89099
+Honduras,HND,1710,92171
+Honduras,HND,1720,95349
+Honduras,HND,1730,98637
+Honduras,HND,1740,102039
+Honduras,HND,1750,105557
+Honduras,HND,1760,109197
+Honduras,HND,1770,112963
+Honduras,HND,1780,116858
+Honduras,HND,1790,120887
+Honduras,HND,1800,130000
+Honduras,HND,1801,130246
+Honduras,HND,1802,130492
+Honduras,HND,1803,130738
+Honduras,HND,1804,130985
+Honduras,HND,1805,131232
+Honduras,HND,1806,131480
+Honduras,HND,1807,131729
+Honduras,HND,1808,131977
+Honduras,HND,1809,132227
+Honduras,HND,1810,132477
+Honduras,HND,1811,132727
+Honduras,HND,1812,132978
+Honduras,HND,1813,133229
+Honduras,HND,1814,133481
+Honduras,HND,1815,133733
+Honduras,HND,1816,133985
+Honduras,HND,1817,134238
+Honduras,HND,1818,134492
+Honduras,HND,1819,135566

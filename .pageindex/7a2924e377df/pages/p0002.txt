@@ -1,0 +1,22 @@
+
+
+## 上一轮复用资产（注路径）
+
+- t_7da32d/rhine_notes.md：邦联条约逐条（R1/R2）、1806-04-21备忘录与1806-09-11致首席亲王信（Panckoucke版，`downloads/pages/649e54bf4408.md`）、威斯特伐利亚宪法与两封致热罗姆信、巴登法典敕令（R6/R7）、Planert经Brophy书评（`downloads/pages/a9c217630acd.md`）、Aaslestad经Dwyer书评。
+- t_7da32d/prussia_austria_notes.md：提尔西特对普条款（背景参照）。
+- 台账可复用锚点：F1克制先验与寿限带、F2占领成本与S6分档、F4的S6分地区财政阈值（Marion p.321）、A卡1809申布伦150k限军与1813奥军29.8万动员——本卡⑬⑭引用处均注卡号。
+
+## 识别而未读（书目缺口，正文已标）
+
+- Marcel Dunan, *Napoléon et l'Allemagne. Le système continental et les débuts du royaume de Bavière, 1806-1810*, Plon 1942/43/48, 753pp（SUDOC 063284294）。
+- Marcus Junkelmann, *Napoleon und Bayern*, 1985。
+- Eberhard Weis, *Montgelas*, Bd.1–2, C.H.Beck 1971/2005；Walter Demel, *Der bayerische Staatsabsolutismus 1806/08–1817*, 1983（Weis讲稿引其1981博论稿）。
+- Elisabeth Fehrenbach, *Traditionale Gesellschaft und revolutionäres Recht*, 1974/1983；Helmut Berding 1973——经M4转引。
+- Ute Planert, *Der Mythos vom Befreiungskrieg*, 2006/07——经Brophy书评转引（上一轮R9）。
+- "Schmidt《Rheinbund》"：源策略所列书目歧义（Georg Schmidt论文抑或Charles Schmidt《Le Grand-duché de Berg》），未能锁定文本；邦联制度分析以条约原文直接支撑。
+- Martin P. Schennach, *Revolte in der Region* (2009)；Reinhard Stauber 2001——HLB蒂罗尔条目参考文献中登记。
+- 巴伐利亚《Denkwürdigkeiten》(Montgelas回顾报告)——经Weis转引，标回溯性。
+
+## 独立性总评
+
+蒂罗尔叙事有法方视角（M5）与奥方视角（M6）两条独立线，再加巴伐利亚学界（R3）第三条；世俗化有Weis原文（M2）与Müller条目（R2）两条部分独立线（Müller文献表含Weis，二者非完全独立）；Ried条约为原文直读；南德三邦叙事骨架依Grab（M1）单一综述之处均以文书或专业辞典条目交叉；1812损失数字巴伐利亚（HdBG/Grab同源风险存在——Grab未注这一数字来源，按两处相互印证的通说处理）与符腾堡（Siemann）相互独立。

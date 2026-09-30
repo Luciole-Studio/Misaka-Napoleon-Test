@@ -1,0 +1,17 @@
+{
+  "doc_id": "a10dfd33132e",
+  "title": "R1_vandal1_full.txt",
+  "orig_path": "/Users/makiko/Documents/exam/downloads/R1_vandal1_full.txt",
+  "paths": [
+    "/Users/makiko/Documents/exam/downloads/R1_vandal1_full.txt"
+  ],
+  "sha256": "a10dfd33132e7f4350c74c207593984fb27a0bfc9c26587da58a9f9736ab143a",
+  "pages": 328,
+  "task_id": null,
+  "task_ids": [
+    "t_91cbee",
+    "t_3ee1b0"
+  ],
+  "added_at": 1790161254,
+  "encoding": "utf-8"
+}

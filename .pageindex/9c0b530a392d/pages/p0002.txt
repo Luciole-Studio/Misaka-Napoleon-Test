@@ -1,0 +1,45 @@
+
+
+### S03 — Linch：征募与成建制约束
+Kevin Barry Linch, *The Recruitment of the British Army 1807–1815*, PhD thesis, University of Leeds, October 2001.
+- https://etheses.whiterose.ac.uk/id/eprint/281/1/uk_bl_ethos_409358.pdf
+- `downloads/B4_Linch_recruitment_1807_1815.pdf`；doc `929ccc148131`，300页；PDF正文页通常=印刷页+1。
+- 实读pp.16–17、22–29、121–122、240–241；标题页已核。
+- pp.22–23：1807–13年均casualties 22,695（包括death/discharge/desertion），约年初骑步兵10.8%；普通团募平均比损失少约8,000。是作者对原返回表的计算，不适用于1803或和平年份常数。
+- pp.24–25：团长权利、军服经费和Palmerston/Horse Guards权限争议；York支持团认同，同时以第二营为海外第一营输血。
+- pp.26–27：1810英格兰39线列营（排除Guards/KGL/veteran/fencible）24,764，7,677病，17,087 fit；1811 UK 55,938的名册只剩五营可派给Wellington。“Although there might be numbers, there were not units.”
+- p.28：249,600是作者按104线列团×两营×1,200 rank/file推算的理论结构上限，并非征募硬天花板；实际1813线列不足160,000。注30经Hall *British Strategy*, p.46转引：1805 Weser 20,000步兵用30,000吨船，2,000骑兵用16,000吨；本卡未读Hall原书。
+- p.121：1814和平后赏金下降，两个半年征得数6,081→2,537；1815再提高赏金改善招募。非仅价格导致的净因果估计；战和与政策同步变化。
+- pp.240–241：逃亡不必意味着畏战；军民劳动力流动、条件、海军竞争和家庭联系均可能解释。
+- 来源谱系：WO 1、WO 3、WO 6、WO 25、WO 27、WO 31、WO 35、WO 71、WO 162，HO 50；均仅转引Linch，未亲阅档案。
+
+### S04 — 同时代预警/海岸调查
+W. Sidney Smith to Lord Keith, *Antelope*, Hoseley Bay, 5 August 1803，*Keith Papers*，Part I，doc.20，网页转录。
+- https://www.historyofwar.org/sources/napoleonic/nrs1955/1_1_020.html
+- `downloads/pages/378a0b9459dc.md`，正文“The Document”。网页上下标题有误标Keith to Secretary，正文署名与日期明确。
+- 短引：“very few points … but what offer a beach allowing the approach of boats”；只指Landguard—Southwold考察段。
+- 信号只能表明站点而不能准确表示敌舰目标，可能指示相距20余英里之地；要求更精确代码与炮声警报。信号炮也是建议，不能说各站已装备。
+- 信中报告Lanthorn marshes约5,400羊、担心来不及移走；不能据局部羊群推算整个英格兰粮秣。
+
+### S05 — Martello工程年代
+English Heritage, “History of Dymchurch Martello Tower”。
+- https://www.english-heritage.org.uk/visit/places/dymchurch-martello-tower/history/
+- `downloads/pages/f27bcba14de3.md`，正文“The nation prepares”“Building the towers”“The east coast towers”，约434–479行。
+- “Work on the south coast towers began early in 1805 … completed by 1808”；74座多数1805–08，余工至1810；东岸29座1809–12。
+- 1804年10月Rochester会议方案；每塔约250,000砖、民间承包、海运与本地砖材；Dymchurch水闸/淹没工程也被当时人怀疑不能及时实施。实体工程史较可靠；不据纪念性网页推算实际炮击命中率。
+
+### S06 — 运河工程年代
+Historic England, List Entry 1005126, “Royal Military Canal: a 1.31 km length … Warehorne Bridge to Ham Street Bridge”。
+- https://historicengland.org.uk/listing/the-list/list-entry/1005126
+- `downloads/pages/f15e3b0f2224.md`，“Reasons for Designation”，约525行。
+- “constructed between 1804 and 1809”；约28英里；Brown调查方案、Rennie顾问至1805；堤岸、军事道路及曲折纵射跨点设计。
+- 仅用于工程与空间机制。该页“特拉法尔加后威胁消失”的通史套语不能胜过海军研究；未采用为本卡结论。
+
+### S07 — 1805驻地表（保留转录风险）
+Ron McGuigan & Robert Burnham, “State of the British Army in 1805”, The Napoleon Series, June 2000。
+- https://www.napoleon-series.org/military-info/organization/c_strengths.html
+- `downloads/pages/64f0529893a0.md`。
+- 1805-01-01 GB正规57,678，骑14,857/炮4,708/步38,113；GB民兵70,386；Ireland正规34,087、民兵19,423。正文未充分界定地区表所有rank口径，故正文仅作约数包络输入。
+- 页面1月全军骑步炮三项与S01 p.293相同；参考书目：1805 *British Sessional Papers*, VIII、Fortescue1909、Haythornthwaite1990。不是独立于S01的全军总量来源。
+- 1805-06-01 GB列64,614；增补只将此数作替换库存的敏感性输入，不视为逐营可出动返回。
+- 明确错误/疑点：Channel Islands总数8,408，分项112+7,296仅7,408；“Prime Minister Castlereagh”职务误标。6月表列类不完整，不拿1月至6月差额当同口径增长。运输途中10,000–12,000是概述量，不与已含on passage的地区合计再次相加。

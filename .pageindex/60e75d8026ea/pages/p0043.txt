@@ -1,0 +1,40 @@
+                         Table 2: Robustness to changing market access
+                                                        Dependent variable: Spindles per thousand inhabitants
+
+                                                  (1)        (2)        (3)       (4)        (5)        (6)         (7)
+
+
+ Effective distance                             33.47      24.73      33.58      40.56      38.50      44.04      30.33
+                                                 0.47      0.35        0.47      0.57       0.54       0.62       0.43
+                                                (9.80)    (10.90)     (9.90)    (12.37)    (10.41)    (11.36)    (12.15)
+                                               {10.00}    {11.07}    {10.15}    {13.49}    {11.04}    {11.74}    {12.59}
+ Market potential X 1812                                   41.05                                                  32.04
+                                                          (21.58)                                                (22.55)
+ Market potential (time var.)                                         -20.68                           -248.90
+                                                                     (92.70)                          (136.52)
+ Market potential (ext.) X 1812                                                  40.04
+                                                                                (33.48)
+ Market potential (ext. exc. ESP) X 1812                                                    32.41      59.60      23.72
+                                                                                           (13.38)    (19.04)    (14.58)
+
+ Time FE                                         Yes        Yes        Yes        Yes        Yes        Yes        Yes
+ Department FE                                   Yes        Yes        Yes        Yes        Yes        Yes        Yes
+ Observations                                    176        176        176        176        176        176        176
+ Adjusted R-squared                              0.34       0.36       0.33       0.34       0.36       0.37       0.37
+ Num. clusters (dept)                             88         88         88         88         88         88         88
+ Num. clusters (gen)                              40         40         40         40         40         40         40
+ Dependent variable: Spindles per thousand inhabitants in department i at time t. Departmental population held
+constant at its 1811 level. Effective distance is measured as the natural logarithm of the shortest route to London for
+each department i at time t. Controls: Market potential as defined previously (market access to urban population
+in 1800); Market potential (time var.) is a time varying measure which takes account of changes in the border of
+the French Empire between 1803-1812; Market potential (ext.) is market access to urban population in territories
+outside the boundaries of the French Empire under French influence; Market potential (ext. exc. ESP) drops Spanish
+cities from the measure because of the insurgency against French rule. All controls except Market potential (time
+var.) are interacted with a dummy variable that takes the value of one in 1812 and is zero otherwise. Standardized
+coefficients in italics. Standard errors clustered at the level of the department in parentheses, standard errors clustered
+by généralités in curly brackets. For further details on the data, see Appendix A.3.
+
+
+
+
+                                                           43

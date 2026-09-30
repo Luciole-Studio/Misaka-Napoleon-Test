@@ -1,0 +1,20 @@
+---
+source_url: "https://h-france.net/vol19reviews/vol19no37todorov.pdf"
+final_url: "https://h-france.net/vol19reviews/vol19no37todorov.pdf"
+provider: "exa"
+text_sha256: "952550a7d97d23cb0487d650313152366f8be43e958673ee533b65e95fa1377d"
+title: "H-France Review Volume 19 (2019) Page 1"
+content_kind: "page_text"
+---
+
+H-France Review Vol. 19 (March 2019), No. 37
+
+Sam A. Mustafa, Napoleon's Paper Kingdom: The Life and Death of the Kingdom of Westphalia, 1807-1813. London and New York: Rowman & Littlefield Publishers, 2017. xxi+341 pp. Maps, figures, notes, bibliography, and index. $99.00 U.S. (hb). ISBN 978-1-5381-0829-1; $94.00 U.S. (eb). ISBN 978-1-5381-0831-4.
+
+Review by Nicola P. Todorov, University of French Guiana.
+
+In 1903, the great historian Herbert A. L. Fisher described illiterate rustics in a Hessian village puzzled by the new Westphalian administration’s bureaucratic demands, concluding that “The old-fashioned folk looked on all these busy doings with great disdain.”[1] Such descriptions might have been one source of inspiration for the title Sam A. Mustafa gave to his book Napoleon’s Paper Kingdom: The Life and Death of Westphalia, 1807-1813. The other might have been the huge number of archival files that, seemingly, impressed him when visiting several, mostly German, archives. “Empires have risen and fallen with less of a paper trail,” he contends, “than that left behind by the Kingdom of Westphalia” (p. 314). Indeed, the short-lived states, like this satellite kingdom modeled on Napoleonic France, implemented in the territories conquered by Napoleon at the beginning of the nineteenth century in many parts of Europe, left behind them an archival record that appears a bit exotic in present-day non-French archives.
+
+In his historiographical preface, Mustafa argues that scholars writing under the German Empire at the end of the nineteenth century had agreed that the Westphalian regime’s supposed collapse matched the expectations of Prussian “liberators” (p. 286). The presumed revision of this old nationalist view from the 1970s onwards, initiated in Western Germany, was due to the desire to strengthen the Franco-German friendship, downplaying the oppression Napoleonic rule had represented for the people. Suspecting postwar historians to have “overcorrected,” Mustafa attempts to challenge this view, stating that “Old stories … are not necessarily wrong only because they are old” (p. xix).
+
+The author admits having written an old-fashioned narrative history aimed at being lively and readable, dealing with individuals without necessarily categorizing them. His purpose, he claims, was to contextualize these individual actors and to examine to what extent they understood what was happening around them, while placing Westphalia into the larger context of the Napoleonic Wars. But he also aimed at writing a comprehensive history of the satellite kingdom, given that the abundant recent literature on the topic is either thematically or regionally restricted in scope. To the end, Sam A. Mustafa has divided his book into thirteen chapters that cleverly alternate between chronological and thematic sequences.

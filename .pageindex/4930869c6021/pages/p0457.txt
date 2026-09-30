@@ -1,0 +1,45 @@
+
+
+ Saiz Bayo, Santiago, 1988: ‘El levantamiento guerrillero en la Guerra de la Independencia’ , Revista Historia Militar , No. 65, Madrid
+
+ Sánchez Fernández, Jorge, 1997: La guerrilla vallisoletana (1808–1814) , Valladolid
+
+ Sánchez Fernández, Jorge, 1998: ‘Nuevas aportaciones a la biografia del guerrillero Saturnino Abuín (1781–1860), Researching & Dragona , vol. III, n o 6, Madrid, pp. 4–9
+
+ Sánchez Fernández, Jorge, 1999: Un episodio inédito de la biografia del guerrillero vallisoletano Saturnino Abuín , Argaya , No. 18, pp. 20–22, Valladolid
+
+ Sánchez Fernández, Jorge, 2000: ¡Nos invaden! Guerrilla y represión en Valladolid durante la Guerra de la Independencia española, 1808–1814, Valladolid
+
+ Tone, John Lawrence, 1994: The Fatal Knot: The Guerrilla War in Navarre and the defeat of Napoleon in Spain, North Carolina
+
+ Toreno, conde de, 1838/1916: Historia del levantamiento, guerra y revolución de España , Madrid
+
+ Torre, Joseba de la, 1991: Los campesinos navarros ante la guerra napoleonica. Financiación bélica y desamortización civil , Madrid
+
+===== FILE: OEBPS/36_App05.xhtml =====
+Napoleon’s Cursed War
+
+ Appendix 5
+
+ Human Costs of War (and Peace) *
+
+ As was observed earlier ( Chapter 19 ) deaths alone are not the most appropiate measure of the war’s human ravages. They may indeed be misleading. It is difficult to distinguish between war-related deaths and deaths due to other
+causes; nor is it possible to estimate an ‘expected’ number of ‘normal’ deaths and then compare them to the actual number of deaths since there were hardly any ‘normal’ years between 1800 and 1814 upon which to base the estimate.
+But there is an even more pressing reason for rejecting a simple death count. Births – especially those which never occurred because of the conflict – are needed alongside deaths to assess the conflict’s full human cost.
+
+ Before proceeding, a number of caveats must be entered about the author’s 1800–1817 regional population database sample on which all the other computations are based. Recording some 300,000 inhabitants, the sample formed just
+over three percent of the total of the nine principal regions covered, according to the last reliable census (Floridablanca, 1787) before the war. But for some regions the percentage was smaller, given the material impossibility
+of sampling each region proportionately to its population. The solution adopted – to weight the sample ( Tables 5.1A and 5.2A ) † – created another problem. Because weighting required reliable population figures, and the only
+ones extant were those of the 1787 (Floridablanca) census, in effect the basis of the weighted tables became not that of mid-1800/mid-1801 (the unweighted sample’s estimated base) but of 1787. It had therefore to be assumed, not
+unreasonably, that regional population distribution did not fundamentally change between the latter date and 1800.
+
+ TABLE 5.1 SAMPLE: UNWEIGHTED POPULATION
+GROWTH PRE-WAR (1800–1807)
+
+ REGION
+ Mid-1800/mid-1801 estimated population
+ Total Births (calendar years 1800–1807)
+ Total Deaths (calendar years 1800–1807)
+ Mid-1807/mid-1808 estimated population
+ Net mid-1807/mid-1808 natural growth over mid-1800/mid-1801
+ % mid-1807/mid-1808 natural growth over mid-1800/mid-1801

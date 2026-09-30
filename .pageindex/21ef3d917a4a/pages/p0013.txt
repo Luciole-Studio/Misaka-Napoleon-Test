@@ -1,0 +1,46 @@
+If the war deficit is financed by bonds at 3 percent, these are issued well below par. The
+rewards of the holders lie in the high coupon-price ratio and, which is important, in the
+capital gain after the war when interest rates decline.
+
+
+Holders of bonds with a higher coupon, 4 or even 5 percent, faced the significant proba-
+bility of suffering a reduction to 3 percent after the war. The spread between the prices
+of 4 and a 3 percent cent bonds measured the expected time span of a (discounted)
+coupon equal to one until such an interest reduction would take place.7 Because of the
+probability of an interest reduction after a war, capital gains on bonds at 4 and 5 percent
+were lower than on 3 percent bonds.
+
+
+The first issue is therefore the impact on the amount of debt after the war and the time
+profile of the debt service. As an example, take a war of one year, with perfect foresight,
+generating a deficit of 100, during which the interest rate is 5 percent after which the rate
+returns permanently to 3 percent. Consider financing either by 3 percent or 5 percent
+bonds. In the latter case, the bonds are reduced to 3 percent after the war. Let B and
+B 0 be the amounts of required 3 percent of 5 percent bonds. Their prices during the war
+are p and p0 . The one year interest during the war r.
+
+
+
+
+                         3   100   103       5   100   105
+                   p=      +     =     ;q =    +     =                                             (1)
+                        1+r 1+r    1+r      1+r 1+r    1+r
+
+
+
+                                               0                        0
+                             100 = pB = qB ⇔ B = (105/103)B                                        (2)
+
+A higher coupon entails a higher service during the war and less debt thereafter. When
+the government is facing a flow constraint, as it actually did in the second phase of the
+French wars, the 3 percent bonds are more advantageous.
+
+
+and annual budget surpluses are small with respect to the stock of the debt.
+   7
+     For an analysis of such expectations during the War of the Austrian Succession before the interest
+reduction of 1749-50, see Chamley (2011).
+
+
+
+                                                   13

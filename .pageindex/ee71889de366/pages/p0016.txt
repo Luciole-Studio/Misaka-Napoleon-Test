@@ -1,0 +1,21 @@
+
+
+Napoléon’s short-run response to the problem of draft evasion has a straightforward economic logic. Footnote 44 A rational response to varying draft enforcement costs is to set local conscription rates higher for those departments with lower enforcement costs and lower for those with higher costs. This strategy has the advantage of reducing the number of draft dodgers at the national level (thus raising the effective size of the armed forces) at no additional cost. Thus, though the regime may have started with the presumption of an equitable administration of the draft, it was forced to abandon its principles and practice geographic discrimination by the reality of a country as large and diverse as France.
+
+### Econometric Analysis
+
+We now provide empirical evidence for the claim that the Napoleonic regime’s de facto draft policy was discriminatory against departments with lower conscription enforcement costs. We begin by investigating the relationship between a department’s geographic characteristics and its nominal conscription rate. We do so by testing the following specification:
+
+(2) $$C_{i,t} = \beta log\left( {Ruggedness} \right) + {{X}}_i^{'} + {\delta _t} + {\zeta _i} + {\unicode{x03F5}_{i,t}},$$
+
+where C i,t is the conscription rate for department i at time t. The conscription rate is defined as the number of men a department is required to draft divided by that department’s population of male citizens of conscription age. All variables on the right-hand side are defined as in Equation (1).
+
+Table 3
+
+GEOGRAPHY AND CONSCRIPTION
+
+***p < 0.01, **p< 0.05, *p < 0.1
+
+Notes: This table displays the results of regressing the portion of young men eligible who were drafted, for each year from 1806 to 1810, on geographical characteristics. We report robust standard errors in parenthesis and Conley standard errors (100 km) in brackets.
+
+Sources: Draft-dodging rates are form the Archives Nationales AF/IV/1124, n. 1 and n. 9. Ruggedness is from Nunn and Puga (Reference Nunn and Puga2012). Township density is from Prudhomme (Reference Prudhomme1804). Distance from Paris was calculated using longitude and latitude data from Wikipedia. Data on “Border” status are from Nussli (Reference Nussli2012). Military relays are from Arbellot, Lepetit, and Bertrand (Reference Arbellot, Lepetit and Bertrand1985). Replacement rate is from the Archives Nationales, AF/IV/1124, pp.198-215. Maritime is calculated from Poirson (Reference Poirson1808). Tax revenues per capita are from Peuchet (Reference Peuchet1805). Urbanization rates are calculated using data from Bairoch, Batou, and Chevre (Reference Bairoch, Batou and Chevre1988). Wheat suitability is from the FAO, GAEZ v3.0. Literacy data is from the Ministère de l’Instruction Publique (1880). Height and agricultural sector data are both from the Archives Nationales, series F/9, boxes 150 to 259. Year created was calculated with information from Wikipedia. Elevation data are from the U.S. Geological Survey. Information on military divisions is from the Almanach Imperial pur l’An MDCCCVI.

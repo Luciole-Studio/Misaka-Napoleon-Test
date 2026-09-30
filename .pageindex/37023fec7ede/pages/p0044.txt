@@ -1,0 +1,45 @@
+                               Table 23: Identity and draft-dodging
+
+Note: This table displays the same regressions as in Table 1 while adding the variable ‘Identity’
+which measures the sense of belonging to a French nation in 1789. We report robust standard errors
+in parenthesis and Conley standard errors (100km) in brackets.
+
+      Draft-dodging rate         (1)         (2)          (3)          (4)         (5)          (6)
+      Identity                -1.76078    -9.12380    -14.83810    -15.20102    -16.76919    -16.68784
+                             (2.17035)  (3.94106)** (4.52293)*** (5.58745)*** (6.02584)*** (6.04402)***
+                             [5.31607]   [7.71085]    [8.85760]*   [10.27255]  [10.04113]*  [10.05771]*
+      Log of ruggedness       4.53656     3.30479       5.26895      5.42845     7.08562      6.82773
+                           (0.83247)*** (1.39994)** (1.56174)*** (1.75902)*** (1.81784)*** (1.97807)***
+                            [1.89766]**  [2.10473]   [2.16972]**  [2.46413]** [2.61351]*** [2.92270]**
+      Same Controls
+      as in Table 1             X           X             X             X          X             X
+      Observations             430         430           430           360        288           288
+      R-squared              0.15784     0.68771       0.70236       0.76342    0.80066       0.80073
+                                         *** p<0.01, ** p<0.05, * p<0.1
+
+
+
+
+                                Table 24: Identity and conscription
+
+Note: This table displays the same regressions as in Table 3 while adding the variable ‘Identity’
+which measures the sense of belonging to a French nation in 1789. We report robust standard errors
+in parenthesis and Conley standard errors (100km) in brackets.
+
+           Conscription rate       (1)              (2)          (3)          (4)          (5)
+           Identity             -0.49212         -1.00335     -2.03056     -0.70060     -0.67402
+                               (0.65231)        (0.76589)   (0.90843)**   (1.18360)    (1.18596)
+                               [1.38522]        [1.10482]    [1.38288]    [1.55143]    [1.56104]
+           Log of ruggedness    -0.65480         -2.16440     -1.38176     -2.46635     -2.54792
+                             (0.18795)*** (0.42097)*** (0.43235)*** (0.48625)*** (0.53520)***
+                              [0.35354]*      [0.58653]*** [0.52396]*** [0.47397]*** [0.53935]***
+           Same Controls
+           as in Table 3            X                X            X            X            X
+           Observations            430              430          430          360          360
+           R-squared             0.13121          0.70694     0.72174       0.74246      0.74257
+                                         *** p<0.01, ** p<0.05, * p<0.1
+
+
+
+
+                                                      44

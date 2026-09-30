@@ -1,0 +1,43 @@
+---
+source_url: "http://dossiersmarine.free.fr/v_74.htm"
+final_url: "http://dossiersmarine.free.fr/v_74.htm"
+sha256: "e0f2209751ae14e881a4bb12780cf3f5e86b1c872d0e06e336788c0ce0b97af8"
+text_sha256: "c889808cf8e178893eac14c3b67933b6e71ab2750b31602b22af861e8cb5b7b4"
+title: "Vaisseaux de 74"
+---
+
+Title: Vaisseaux de 74
+
+© Dossiersmarine - Copyright 2005-2019 - Alain Clouet - contact : www.dossiersmarine@free.fr
+
+La flotte de Napoléon III
+
+Vaisseaux de 74 canons
+
+Les vaisseaux de 74c, conçus par Sané, ont été commandés à 120 exemplaires, tant ils étaient excellents; En 1850, nous retrouvons les cinq derniers en service.
+
+#
+
+# nom
+
+# chantiers
+
+# sur cale
+
+# lancement
+
+# en service
+
+# rayé
+
+Alger Toulon 9-1812 26-05-1815 8-1827 13-10-1855 5-11-1812 : Kremlin 9-4-1814 : Provence 23-3-1815 : Kremlin 15-7-1815 : Provence 15-7-1830 : Alger Duperré (ex-Couronne) Brest 10-1813 25-08-1824 23-2-1830 17-8-1869 Généreux Cherbourg 1-1813 23-9-1831 11-2-1839 21-11-1855 Marengo Lorient 18-9-1806 12-10-1810 - 21-7-1858 Trident Toulon 15-11-1809 9-06-1811 12-1811 24-11-1857 Ville de Marseille Toulon 27-6-1811 15-8-1812 - 22-6-1858
+
+## caractéristiques
+
+dimensions 55.87 x 14.46 x 6.44/7.15 x 7.5 (c.) m (Ville de Marseille) 55.9 x 14.3 x 7.1 m déplacement 1537 t, 3080 tpc effectif 495/705 h dont 12 off. propulsion voilure : 2 430 m² armement Couronne, Duperré - 1817 : B1 : 28x36 - B2 : 30x18 - gaill : 14x8 + 10x36 caronades - 1828 : B1 : 28x36 - B2 : 30x18 - gaill : 4x8 + 20x36 caronades Ville de Marseille - 1811 : B1 : 28x36 - B2 : 30x18 -gaill : 16x8 + 4x36 caronades - 1827 : B1 : 28x36 - B2 : 30x18 - gaill : 2x12 + 22x36 caronades Alger : chargé à 82c - B1 : 28x36 longs - B2 : 30x18 longs - gaill : 10x36 caronades + 14x8 Trident : chargé à 82c : 30x36, 32x18, 12x8 (18 à partir de 1820) - l'armement changera encore avec l'introduction des canons obusiers
+
+## historique
+
+### Marengo
+
+* 1-9-1810 : construit au 20-24ème. * 5-1-1813 : aborde le Tourville dans la rade de Brest. * 11-1814 : fait partie de l'escadre qui va reprendre la Guadeloupe. * 1-1830 : Cdt CV Maillard-Liscourt. * 6 à 7-1830 : expédition d'Alger (CV Duplessi-Parscau). * 1831 : carénage. * 9-6-1831 : de Toulon pour le Tage. * 12-8-1831 : à Toulon, venant de Lisbonne. * 24-11-1831 : de Toulon à Alger, retour. * 1835 : refonte à Toulon. * 11-4-1840 : de Toulon à Port-Vendres (CV Bellanger-Lubis). * 16-4-1840 : retour. * 23-4-1840 : de Toulon pour côte napolitaine. * 19-5-1840 : retour. * 14-7-1840 : part pour Tunis. * 1841 : en Méditerranée. * 6-9-1845 : départ de Toulon (CV Guillois). * 29-10-1845 : retour à Toulon. * 24-2-1855 : de Kamiesh pour la France. * 6-2-1854 : appareillage de Toulon pour Constantinople, Odessa, Sébastopol. * 10-3-1855 : à Constantinople venant de Kamiesh. * 12-5-1855 : appareillage de Toulon pour Kamiesh. * 14-7-1855 : retour à Toulon. * 25-11-1855 : passage au Bosphore vers la Mer Noire. * 21-7-1858 : rayé. * 8-4-1860 à 1865 : bagne à Toulon. * 1866 : renommé Pluton, toujours bagne.

@@ -1,0 +1,46 @@
+# C12：有限战争真实选项——证据札记（非总报告）
+
+## 0. 状态与引用边界
+
+【事实·本轮获取】取得可读的 Caulaincourt 英文节编本、Clausewitz 1843英译本提取文本、van Creveld 1977版重印本网页OCR。Riehn正文未取得；法文《Mémoires》第一卷未取得。以下页码为文本内的**印刷页码**，不是网页行号，也不是文档索引生成的虚拟页码。尚未逐页对照扫描图：引用为提取文本核读，断行连字符作连接处理；有疑字的句子尽量不选作直接引文。不得称为影印校勘完成。
+
+【事实·操作】复用 downloads/pages/eed9ab647f9a.md；现存下载目录检索有返回上限，去重并非穷尽。直接curl下载Clausewitz PDF被审批限制阻止，改用网页提取成功；未把失败下载称为本地PDF。网络检索采用内置搜索与Exa提取后端。
+
+## 1. 来源登记（下列证据ID均继承此处URL与本地路径）
+
+### A：Caulaincourt
+*With Napoleon in Russia: The Memoirs of General de Caulaincourt, Duke of Vicenza*；题名页标“FROM THE ORIGINAL MEMOIRS AS EDITED BY JEAN HANOTEAU. ABRIDGED, EDITED, AND WITH AN INTRODUCTION BY GEORGE LIBAIRE”；Grosset & Dunlap, The Universal Library, New York；版权1935 William Morrow。**本扫描的实际重印年份未定，不把版权年当重印年。**
+- URL：https://archive.org/stream/in.ernet.dli.2015.58850/2015.58850.With-Napoleon-In-Russia-The-Memoirs-Of-General-De-Caulaincourt-Duke-Of-Vicenza_djvu.txt
+- 本地：`/Users/makiko/Documents/exam/downloads/pages/eed9ab647f9a.md`
+- 【事实·版本】这是英译节编本，不能将其p.75写成法文t.I p.75。原版卷页对照未建立。
+- 【文献推断·Libaire，回溯性】导言pp.xxii–xxiv称作者在1820年代回应Gourgaud、Fain等人的叙述，并使用既有笔记整理回忆录。p.xxiv：“The original, with its revisions in Caulaincourt’s own hand, was thereupon put in order and compared with the copy in press.” 同页：“Some slight transpositions have been made to preserve chronology”。这既支持存在早期笔记的说法，也明确存在后期修订与英编本重排；**不是1811/1812年会议逐字记录**。
+
+### B：Clausewitz
+*The Campaign of 1812 in Russia*, London: John Murray, 1843；Francis Egerton/Lord Ellesmere匿名英译；网站编者说明德文首次收入遗著第7卷（1835）。
+- URL：https://clausewitzstudies.org/readings/1812/Clausewitz-CampaignOf1812inRussia-EllesmereTranslation.pdf
+- 本地提取文本：`/Users/makiko/Documents/exam/downloads/pages/6635f608e21d.md`
+- 【事实·性质】参战者的战后战略分析，不是法国统帅部会议证词；还须把译者序与作者正文分开。
+
+### C：van Creveld
+Martin van Creveld, *Supplying War: Logistics from Wallenstein to Patton*, Cambridge University Press, 1977版；取得的OCR版权页列重印至1997；ISBN 0-521-29793-1。
+- URL：https://vdoc.pub/documents/supplying-war-logistics-from-wallenstein-to-patton-28jjb479976g
+- 本地：`/Users/makiko/Documents/exam/downloads/pages/5b7b985b0f78.md`
+- 读取技术说明：正文集中在一个超长行；已索引为doc_id `5b7b985b0f78`，虚拟页13–14覆盖印刷pp.61–70。引文采用印刷页码。
+- 【事实·性质】后世研究；载体为第三方OCR，未核对原版页面图、注释指向的原始书信。
+
+## 2. 1811长谈：不战选项与“打一仗即可迫和”的争议
+
+### A1｜1811年6月5日圣克卢会面：避免首先进攻仍被说出口
+- A，pp.4–5（日期在p.4方括号内，OCR误作“Jime”，六月由导言中归国日期与上下文支持，未验图）。
+- p.4拿破仑原句：“I have no intention of going into Russia, nor any wish for a war or the re-establishment of Poland.”
+- p.5 Caulaincourt回答：“Then, Sire, you ought to explain your intentions, so that everyone may know why Your Majesty’s troops are concentrated in Danzig and the north of Prussia.”
+- 【事实·文本事实，回溯性】回忆录确实记载了不入俄、不复建波兰的口头声明，以及澄清军事集结意图的建议。
+- 【裁量·中置信】可作为“不先发制人＋外交澄清”在场讨论过的回忆录锚点，**不是拿破仑已有可信撤兵承诺或俄方接受方案的证明**。需补1811当时书信。
+
+### A2｜亚历山大拒绝以一次败战决定政治屈服
+- A，p.5，Caulaincourt转述亚历山大：“it is possible, even probable, that we shall be defeated, assuming that we fight. But that will not mean that he can dictate a peace.”
+- A，p.6：“I shall not be the first to draw my sword, but I shall be the last to sheathe it.”
+- A，p.5的记忆声明：“I noted them down on returning home”；并称自己的回忆“substantially correct”。
+- A，p.7，作者转述拿破仑反应：“one good battle would knock the bottom out of my friend Alexander’s fine resolutions”。
+- 【文献推断·Caulaincourt，回溯性且含转述】争论的核心是军事失败能否转化为和约，而非俄军能否被击败。亚历山大语录经过“俄方谈话→作者向拿破仑复述→战后编写→英文节编”的传递链。
+- 【裁量·中置信】有限战区内的胜利不能直接等同政治目标达成；此处不提供亚历山大永不妥协的普遍定律。

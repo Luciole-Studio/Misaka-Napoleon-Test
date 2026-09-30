@@ -1,0 +1,84 @@
+---
+source_url: "https://ideas.repec.org/p/hes/wpaper/0041.html"
+final_url: "https://ideas.repec.org/p/hes/wpaper/0041.html"
+sha256: "7f74f258d5b26fc69168a28b43fa7d6cafe890338c8c57f4d614c81d3312e6e6"
+text_sha256: "09883cdb3f1602a0f6a49e8eea32b20060b15386e6dd2fb78e787f179626f7e6"
+title: "Waterloo: a Godsend for French Public Finances?"
+---
+
+Title: Waterloo: a Godsend for French Public Finances?
+
+[Advanced search](https://ideas.repec.org/search.html)
+
+- [Economic literature:](https://ideas.repec.org/) [papers](https://ideas.repec.org/i/p.html), [articles](https://ideas.repec.org/i/a.html), [software](https://ideas.repec.org/i/c.html), [chapters](https://ideas.repec.org/i/h.html), [books](https://ideas.repec.org/i/b.html).
+
+- [Authors](https://ideas.repec.org/i/e.html)
+- [Institutions](http://edirc.repec.org/)
+- [Rankings](https://ideas.repec.org/top/)
+- [Help/FAQ](https://ideas.repec.org/help.html)
+- [MyIDEAS](https://ideas.repec.org/cgi-bin/myideas.cgi)
+- More options at page bottom
+
+- [Economic literature](https://ideas.repec.org/)
+- [Authors](https://ideas.repec.org/i/e.html)
+- [Institutions](http://edirc.repec.org/)
+- [Rankings](https://ideas.repec.org/top/)
+- [Help/FAQ](https://ideas.repec.org/help.html)
+- [MyIDEAS (now improved)](https://ideas.repec.org/cgi-bin/myideas.cgi)
+
+[Advanced search](https://ideas.repec.org/search.html)
+
+### Browse Econ Literature
+
+- [Working papers](https://ideas.repec.org/i/p.html)
+- [Journals](https://ideas.repec.org/i/a.html)
+- [Software components](https://ideas.repec.org/i/c.html)
+- [Books](https://ideas.repec.org/i/b.html)
+- [Book chapters](https://ideas.repec.org/i/h.html)
+- [JEL classification](https://ideas.repec.org/j/)
+
+### More features
+
+- [Subscribe to new research](http://nep.repec.org/)
+- [RePEc Biblio](https://biblio.repec.org/)
+- [Author registration](https://authors.repec.org/)
+- [Economics Virtual Seminar Calendar](https://ideas.repec.org/v/)
+- [ConfWatcher](https://confwatcher.b2ideas.eu/) NEW!
+
+Printed from https://ideas.repec.org/p/hes/wpaper/0041.html
+
+[My bibliography](https://ideas.repec.org/cgi-bin/myideas.cgi#myibiblio1unassigned) Save this paper
+
+# Waterloo: a Godsend for French Public Finances?
+
+- Author & abstract
+- Download & other version
+- 47 References
+- 3 Citations
+- Most related
+- Related works & more
+- Corrections
+
+## Author
+
+Listed:
+
+- Kim Oosterlinck
+
+(Université Libre de Bruxelles)
+
+- Loredana Ureche-Rangau
+
+(Université de Picardie Jules Verne)
+
+- Jacques-Marie Vaslin
+
+(Université de Picardie Jules Verne)
+
+[Registered:](https://authors.repec.org/)
+
+- [Kim Oosterlinck](https://ideas.repec.org/e/poo7.html)
+
+## Abstract
+
+Following Waterloo, managing French public finances represented a daunting task. Defeated France had lost a substantial part of its population and territory. The country was partially occupied and France was to pay huge amounts as reparations to the victors. Furthermore, France’s reputation had been tarnished by several defaults on its debt in the preceding decades. Despite all these elements, in the ten years between 1815 and 1825, not only did France manage to place a huge amount of debt on the market (resulting in a threefold increase) but it did so with a spread, compared to the British consol, falling from more than 400 basis points to a meagre 100 basis point. Based on an econometric analysis of the yields of the French rentes, we show that the military threat of the Allied coupled to a significant improvement in French institutions explain the dramatic decrease in yields.

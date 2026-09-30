@@ -1,0 +1,37 @@
+Environ. Res. Lett. 14 (2019) 094019
+
+
+
+
+   Figure 1. Observed Central European climate anomalies in the, year without a summer, (latitude 40° to 55 °N; longitude 5 °W to
+   20 °E; 1781–2000) compared to other volcanic and non-volcanic years. Seasonal temperature (vertical axis) and precipitation anomalies
+   (horizontal axis) relative to the long-term mean. Values for 1816 are shown by red star and red dashed lines. Other volcanic years are
+   shown as blue circles (year after eruption light blue, second year after eruption aquamarine, mean of ﬁrst two years following all eruptions
+   dark blue), other non-volcanic years as grey circles. Data from Casty et al (2007); global warming subtracted (see methods).
+
+
+
+although this is more notable if a longer period with                     other summers are compared to that observed in 1816
+more volcanic eruptions are analysed (see ﬁgure S8                        with the 10 most similar years in the record used as
+and Fischer et al 2007). These eruptions are all smaller                  analogues for the event itself (see method section).
+than Mount Tambora (Toohey and Sigl 2017), so it is                       Analogue patterns can be found which have SLP pat-
+unsurprising that the climatic impact of these erup-                      terns similar to that observed (ﬁgure 2(d)); hence, they
+tions is not as large. They also occurred in different                    show a low-pressure anomaly over Central and
+months of the year so should be expected to have                          Northern Europe. The analogue years have similar
+different impacts on seasonal means (Stevenson et al                      high precipitation anomalies over central Europe as in
+ 2017).                                                                   1816 (ﬁgure 3(a)). They also account for the spatial
+    Spatially extrapolated instrumental datasets show                     pattern of rainfall (compare ﬁgure 2(f) with
+that the summer of 1816 was characterised by an                           ﬁgure 2(c)). However, the analogue years only show a
+anomalous low pressure system centred over North-                         slight decrease in temperature (an average of −0.4 °C),
+ern Europe (ﬁgure 2(a)), with Central European mean                       much less than that observed in 1816 (−1.7 °C)
+values among the most extreme since at least 1780                         (ﬁgures 2(e) and 3(a)), explaining approximately a
+(ﬁgure S1d and Luterbacher et al 2002, Küttel et al                       quarter of the cooling. These results are supported by
+2010, Franke et al 2017). The anomalously cold and                        analyses of unperturbed piControl model simulations,
+wet conditions are accordingly centred over western                       (which do not include volcanic forcing) (ﬁgures 2(g)–
+and central Europe and southern Scandinavia. Eastern                      (i) and ﬁgure 3(b)), which also show that the SLP pat-
+Europe and western Russia did not experience large                        tern, even with no anomalous forcing, is sufﬁcient to
+temperature or precipitation anomalies. To determine                      explain the reconstructed precipitation but not the
+the role that this anomalous atmospheric circulation                      cold temperatures. Model results also show a remark-
+played in the summer of 1816, the SLP patterns in all                     able agreement in the variability between the unforced
+
+                                                           4

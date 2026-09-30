@@ -1,0 +1,28 @@
+
+
+## 更正数据工作日志
+此前待办把“可汇总欧洲全组”写为完成：更精确说是原表全地域抄录完成，地理上**地中海列混合Gibraltar/Malta/Sicily/Levant**，不能叫纯欧洲出口总量。将报告使用N北欧、E窄北欧+西葡、E*另加混合地中海三套界限，IrelandGuernsey单列。
+1805Spain抄录初误0.55，已按图纠正0.05（百万£）。1805–11七年全部单元已目视核对，原合计有±0.01m取整差保留。
+
+## 数据复算后的修正
+首轮脚本检出1806转口合计错£0.20m：按原表图Portugal是£80k，手抄£280k已纠正；1809Ireland组应£5.45m非5.43已纠正。其余原行与原总计±£0.01–.02m保留作表内取整/印刷差，未强行平账。
+1820军需官表原公布合计£1,629,298 1s6d；逐项实加£1,632,298 0s11d，相差£2,999 19s5d（约0.18%）。网页原表即如此，保留双数并只用约£1.63m，不擅改某殖地£3000。此前回报原合计有效，但不是已平账的账册。
+
+## S21–S24地图边界增补
+- S21 Kennie Ting2019文化遗产局“Record of the1819Treaty…”，https://www.roots.gov.sg/en/stories-landing/stories/the-singapore-story-through-60-objects/colonial/treaty-of-friendship-and-alliance/story ，downloads/pages/ff15a0e6a320.md全文读：1819-02-06 EIC同SultanHussein/TemenggongAbdulRahman缔约，商站共同管治，站外马来统治者主权仍在。1819不是全岛直接行省。由于EIC体系本卡只作地图接口，不把其税军重复纳入。
+- S22 WaitangiTribunal官网英/毛利文及HughKawharu现代英译，https://waitangitribunal.govt.nz/en/about/the-treaty/maori-and-english-versions ; downloads/pages/8a7cea21ca39.md，全文已读。1840-02-06，英文本sovereignty，毛利第一条kawanatanga、第二条tino rangatiratanga，Kawharu译为complete government与unqualified…chieftainship。遵现代解释，不自称毛利语语文学独立裁定；网页译本题记年代/书名可能有误，不引用该年份。可用“英国政府权/毛利酋权土地保障有不同理解”机制；不能把名义条约领土当英国实际完全控制。
+- S23 NationalArmyMuseum藏品1971-02-33-252-1,“The taking of the Isle of France(Mauritius),2December1810”，https://collection.nam.ac.uk/detail.php?acc=1971-02-33-252-1 ; downloads/pages/a4244268fcb9.md全文读。岛为法私掠基地，英军与印度军1810攻取。因此除印度模型不得把该海外远征兵力当凭空自产。
+- S24 ABS2003“The wool industry—looking back and forward”,来源页 https://www.abs.gov.au/Ausstats/abs@.nsf/46d1bc47ac9d0c7bca256c470025ff87/1476d522ebe22464ca256cae0015bad4!OpenDocument ; downloads/pages/32a25c5f3dca.md历史概览已读。其1848数5657吨/£683623限定NSW(含今Queensland/Victoria)对英国，并非全澳洲所有目的地；NMA教学摘要过简。因此本卡撤全澳出口总量口径，只用保守来源数作为局部供给尺度。原殖民表另对照中。
+- S08补读印23/PDF31：开普1795–1803英占、1803–6巴达维亚、1806-01再英占、1814并合；锡兰急改税引反抗后重用荷兰税政。同为Wilson转引Freund/Schrikker，不亲阅原著。
+
+## S25/S26补读完成
+S25a网页Document1全文已读：WilloughbyCotton1832-01-02称起事者被谎称国王已使其自由者误导，威胁不投降者certain death。不能由镇压方文书独自确认起义者全动机。S25b背景p4已读：Barbados1816/Demerara1823/Jamaica1831–32、改良承诺与解放预期落空、日常/文化/逃亡抵抗。缓存/URL见SOURCES。
+S26亚眠条文III–XI已亲读，来源为B1所获Napoleon&Empire英文转录downloads/pages/809d3495176a.md：马耳他中立与多国保证、地方一半文职、一半驻军、锡王2000兵临接防；开普荷主权但同税补给。只把既存工具用于反事实，不假称英国曾认全欧法省。日期网页25March/通行27March不裁，以1802年3月写。B8由此有非圣赫勒拿当时锚点。
+工作区view=workspace即使limit20仍返全资料轮廓、体量巨大；此工具limit只控findings不控workspace，今后定位优先已知路径，已报BUG/优化建议给协调者。
+
+## 末轮自检修正与补完
+- Wilson印244原文明确：1814条约定归还，荷政府1816接收爪哇；正文“1814归还后”改为两阶段，避免混日期。是Wilson转引Wright/vanGoor/Bosma，不独立海关。
+- 1848版图补圣赫勒拿、Falklands、香港/纳闽/沙捞越，基于S14cc822–829，已读全文定位行34–57。这些为条件推演，非史实版图照抄。Molesworth实际提撤西非站、减开普/毛里求斯、转锡兰EIC、承认BuenosAyres对Falklands；这些只能作1848可选菜单，不倒作1803已提。
+- S14对边疆战争多用贬损种族用语，“axe/two goats”是其节支论战压缩因果，不采作边疆战争全部起因。政府反论保留；其香港起始“1May1841”未拿作岛取得确切日期。
+- 同期殖民贸易数£9m只是演说所引近似金额，不强称已核海关计价全表。医疗算式是异地死亡率敏感性而不是种族因果证明。羊毛ABS局部尺度与NSW众包表量级冲突保持显式，未用未核众包数强改。
+- 基年1805→1808/09/10连续3年广义海外抵补成立，原较宽反证已触发；新增“实收/正式帝国”要求只属更强命题，不用作移动门柱。

@@ -1,0 +1,166 @@
+---
+source_url: "https://cdn.nationalarchives.gov.uk/documents/education/resistance-and-rebellion.pdf"
+final_url: "https://cdn.nationalarchives.gov.uk/documents/education/resistance-and-rebellion.pdf"
+provider: "exa"
+text_sha256: "52b66f7776c51b9b56012a5644cd6ee8ee0fa728c807b045054f90f0a5f878be"
+title: "Resistance and Rebellion in the Caribbean"
+content_kind: "page_text"
+---
+
+
+The National Archives Education 
+Service
+Resistance and Rebellion 
+in the Caribbean
+Preparation materials for 
+videoconference/virtual classroom 
+(KS3)
+CO700/Jamaica 24
+Resistance & Rebellion in the Caribbean Preparation materials for videoconference/virtual classroom (KS3)
+2
+Teacher’s notes 3
+Background Information: 4
+Document 1 - CO 116/143: 5
+Extract from a Punishment Record Book, Vryheid Plantation, Guyana, 1826-27.
+Document 2 - CO 7/1: 6
+Advert from The Barbados Mercury, looking for Billy a runaway slave, 2 December 1786.
+Document 3 - CO700/Jamaica 24: 7
+Map showing 1500 acres of Jamaica, given to the Maroons in 1739.
+Document 4 - CO 1/53 f 266: 8
+Letter found in a Bush in Barbados, 1683.
+Transcript 4 - CO 1/53 f 266: 8
+Worksheet: Virtual classroom/Videoconference Document 
+Analysis: 9
+Contents
+Resistance & Rebellion in the Caribbean Preparation materials for videoconference/virtual classroom (KS3)
+3
+This pack of documents and transcripts will allow you to prepare your students for the videoconference/ 
+virtual classroom session. It is vital that all students complete the preparatory work beforehand, so that they 
+are fully prepared for the session. 
+This session will investigate resistance and rebellion in the Caribbean. Through close analysis of the 
+documents held at The National Archives, students will identify different types of resistance and their impact 
+on both the enslaved Africans and the system of slavery itself. 
+Teacher Preparation 
+In preparation for this session, students will need to read through Document 1 (CO 116/143) and answer the 
+following questions:
+1. What type of document is it, and when was it produced?
+2. Can you work out any of the words/ headings on the document?
+3. Who created it and why?
+Additional teacher’s notes for Videoconference ONLY:
+In preparation for your videoconference, please divide the class into three groups. During the session, the 
+Education Officer will ask each group to begin analysing a document (from documents 2-4). Please distribute 
+the following documents to each group during the videoconference:
+o Group 1: Runaways. Document 2 (CO 7/1)
+o Group 2: The Maroons. Document 3 (CO700/Jamaica 24)
+o Group 3: Plots and Rebellion. Document 4 (CO 1/53 f 266)
+To help students analyse the documents, questions are provided on the Videoconference Document Analysis 
+worksheet in this pack. 
+Teacher’s notes
+Resistance & Rebellion in the Caribbean Preparation materials for videoconference/virtual classroom (KS3)
+4
+Resistance and Rebellion in the Caribbean 
+In the Caribbean, the enslaved workers resisted their conditions by finding ways to keep a sense of identity 
+that helped them to survive the slavery system. They also continually struggled for their rights and liberties 
+against the colonial authorities, developing strategies of resistance and survival as a response to the 
+conditions they faced. Historians have discovered that resistance took place from the 17th century until 
+emancipation in 1838, which means there was hardly a generation of enslaved people that did not confront 
+their enslavers, often in armed struggle in their pursuit for freedom. 
+Resistance took many different forms. There was day to day resistance, not designed to overthrow the slavery 
+system but to make it less efficient. Examples of this would be killing livestock or pretending to be ill so work 
+took longer to be completed. Another form was cultural resistance- maintaining one’s cultural identity by 
+rejecting the European cultural practices and practicing African ones in secret. Enslaved workers would 
+practice obeah, a belief system that involved practices that were African in its origins. Some enslaved workers 
+maintained the languages of the regions of Africa from which they came, which was passed down and spoken 
+in secret. Many enslaved workers committed suicide rather than lived as slaves. Armed revolt, plots of armed 
+revolt and marronage was the most serious form of resistance. Marronage involved large numbers of enslaved 
+workers escaping plantations and forming communities in colonies with forested and mountainous areas. 
+Maroons were a massive concern to the colonial authorities, unable to find them or to remove them, they 
+made a number of treaties with them not to disturb the plantations or encourage more fugitives to join them. 
+Rebellions happened for different reasons. Firstly, enslaved workers were driven to rebel because of the 
+extremely cruel laws established by the colonial authorities to keep them under control, and the brutal 
+punishments they meted out when these laws were broken. Secondly, when the authorities did not appear to 
+be in control, the enslaved workers would take advantage. The rebellion in St Dominque, which eventually led 
+to the establishment of Haiti, the first black republic outside of Africa, is an example of this. The enslaved 
+workers there took advantage of the infighting among the planters over whether the coloured (mixed 
+heritage) population should have equal rights under the new laws of the French Republic. Thirdly the 
+frustration of slave expectations led to three of the most serious rebellions in the British Caribbean – Barbados 
+in 1816; Demerara in 1823 and Jamaica in 1831-32. All three of these uprisings occurred in part because of 
+the enslaved awareness of abolitionist pressure and policies created by the government in London to improve 
+the conditions of the enslaved. In each case, there was an assumption that emancipation had been granted 
+and was being withheld by the colonial authorities. It was decided that if freedom would not be given, then it 
+would be taken.
+Background Information
+Resistance & Rebellion in the Caribbean Preparation materials for videoconference/virtual classroom (KS3)
+5
+Extract from a Punishment Record Book, Vryheid Plantation, Guyana, 1826-27
+Document: CO 116/143
+Resistance & Rebellion in the Caribbean Preparation materials for videoconference/virtual classroom (KS3)
+6
+Advert from The Barbados Mercury, looking for Billy a runaway slave, 2 December 1786
+Document: CO 7/1
+Resistance & Rebellion in the Caribbean Preparation materials for videoconference/virtual classroom (KS3)
+7
+Map showing 1500 acres of Jamaica, given to the Maroons in 1739.
+Document: CO 116/143
+Resistance & Rebellion in the Caribbean Preparation materials for videoconference/virtual classroom (KS3)
+8
+Letter found in a Bush in Barbados, 1683
+Transcript
+“Brothers; Our design is discovered but not be disheartened. Let us begin the next Sunday about Midnight, doe 
+not let us minde the Patrol or Companyes, for I understand Some of our Brothers are in hold, and if wee doe 
+not begin we Shall all be brought in trouble, and withal Lose our lives; if not then, Sometime next weeke, for 
+wee will have it for wee have done for our Brothers here, Methinkes long the time, for wee have most of all 
+Countrys of our Side Therefore be not afraid”
+29th November 1683
+Document: CO 1/53 f 266
+Resistance & Rebellion in the Caribbean Preparation materials for videoconference/virtual classroom (KS3)
+9
+In your groups, examine your document and answer the following questions:
+Group 1: Runaways 
+Advert from The Barbados Mercury, looking for Billy a runaway slave, 2 December 1786 (CO 7/1)
+1. For what reason/reasons do you think Billy has run away?
+2. Some runaways tried to pass themselves off as free people, Underline two reasons why Billy might 
+have an advantage compared to other runaways? 
+3. Five pounds is a high reward. Why do you think Sarah Bradford cares if he is returned? 
+4. What do you think Billy’s punishment might be if he is found? 
+5. Why was running away an important form of resistance? 
+Group 2: Maroons 
+Map showing 1500 acres of Jamaica, given to the Maroons in 1739 (CO700/Jamaica 24)
+1. Circle the area of land inside the red line. Why do you think the Maroons have chosen to settle in this 
+area? 
+2. The land has been given to the Maroons as part of a deal with the British. What do you think the 
+Maroons have promised in return? 
+3. What do you think happened to the Maroons who broke the deal? 
+4. Jamaica had the biggest number of slave revolts of all the Caribbean Islands, look at the map why do 
+you think this was? 
+5. Why was joining the Maroons an important form of resistance? 
+ 
+ 
+Group 3: Plots and rebellion 
+Letter found in a Bush in Barbados, 1683 (CO 1/53 f 266)
+1. We don’t know who wrote this letter but there are clues. What can you learn from the letter about the 
+person who wrote it? 
+2. What do you think the author of the letter and his ‘brothers’ are plotting? 
+3. Underline three reasons why this plot might not be successful? 
+4. There were many plots to rebel throughout the slavery but most of them were crushed before they had 
+even begun. Why do you think it was so difficult for enslaved people to rebel? 
+5. Why was rebellion an important method of resistance?
+Worksheet: Videoconference Document Analysis
+ 
+Did you know?
+The National Archives Education Service also offers free taught sessions onsite in Kew and online.
+You can book a free Virtual Classroom session, an online lesson where students can use individual 
+computers to interact with our Education Officers and explore original documents without needing to travel 
+to The National Archives. You will need computers or tablets for your students to work on either individually 
+or in pairs.
+A free Video Conference session allows our Education Officers to teach through your projector, leading 
+discussions and guiding students through activities based around original documents. All you need is a 
+computer with a projector, webcam and microphone to set up this web-chat with us. 
+Our Onsite Workshops are available for free here at The National Archives and allow students to 
+experience genuine original documents reflecting over 1000 years of history. From Elizabeth I’s signature to 
+the telegrams of the sinking Titanic, students love the wow-factor of being able to see real history on the desk 
+in front of them.
+Find out more:
+🌏 www.nationalarchives.gov.uk/education
+f www.facebook.com/TheNationalArchivesEducationService
+✉ education@nationalarchives.gov.uk

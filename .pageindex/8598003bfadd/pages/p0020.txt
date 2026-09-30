@@ -1,0 +1,72 @@
+
+
+                      </span>
+                      <span class="label style-scope media-button"><!--?lit$49386103$-->More</span>
+
+                    </a>
+                    </media-button>
+                    <!---->
+                    </div>
+                    </nav>
+                    </div>
+                    </div>
+                    </media-menu>
+        <div class="right-side-section style-scope primary-nav">
+          <!--?lit$49386103$-->
+          <a class="mobile-donate-link style-scope primary-nav" href="/donate/?origin=iawww-mbhrt">
+            <!--?lit$49386103$-->
+            <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"
+              xmlns:svg="http://www.w3.org/2000/svg" aria-labelledby="donateTitleID donateDescID" class="style-scope primary-nav">
+              <title id="donateTitleID" class="style-scope primary-nav">Donate icon</title>
+              <desc id="donateDescID" class="style-scope primary-nav">An illustration of a heart shape</desc>
+              <path class="fill-color style-scope primary-nav"
+                d="m32.6,8.12c-1.57,-1.51 -3.46,-2.21 -5.65,-2.11c-1,0.03 -2.14,0.51 -3.42,1.44c-1.28,0.92 -2.28,2.09 -3.03,3.51c-0.71,-1.41 -1.72,-2.59 -3,-3.51c-1.29,-0.93 -2.43,-1.41 -3.41,-1.44c-1.46,-0.07 -2.8,0.23 -4.02,0.88c-1.23,0.65 -2.21,1.6 -2.94,2.83c-0.74,1.24 -1.11,2.63 -1.12,4.17c-0.05,2.56 0.85,5.01 2.68,7.37c1.46,1.88 3.52,4.21 6.19,7.04c2.66,2.81 4.53,4.71 5.62,5.69c1,-0.88 2.85,-2.75 5.55,-5.6s4.81,-5.23 6.31,-7.13c1.81,-2.36 2.71,-4.81 2.66,-7.37c-0.04,-2.35 -0.83,-4.28 -2.4,-5.77z">
+              </path>
+              </svg>
+
+            <span class="sr-only style-scope primary-nav">"Donate to the archive"</span>
+            </a>
+
+          <!--?lit$49386103$-->
+          <ia-dropdown-search-bar
+            class="style-scope primary-nav"
+            categories="[
+              {&quot;id&quot;:&quot;all&quot;,&quot;label&quot;:&quot;All&quot;},
+              {&quot;id&quot;:&quot;texts&quot;,&quot;label&quot;:&quot;Books/Docs&quot;},
+              {&quot;id&quot;:&quot;fulltext&quot;,&quot;label&quot;:&quot;Text Contents&quot;},
+              {&quot;id&quot;:&quot;radio&quot;,&quot;label&quot;:&quot;Radio&quot;},
+              {&quot;id&quot;:&quot;tv&quot;,&quot;label&quot;:&quot;TV&quot;},
+              {&quot;id&quot;:&quot;movies&quot;,&quot;label&quot;:&quot;Video&quot;},
+              {&quot;id&quot;:&quot;audio&quot;,&quot;label&quot;:&quot;Audio&quot;},
+              {&quot;id&quot;:&quot;software&quot;,&quot;label&quot;:&quot;Software&quot;},
+              {&quot;id&quot;:&quot;image&quot;,&quot;label&quot;:&quot;Images&quot;},
+              {&quot;id&quot;:&quot;etree&quot;,&quot;label&quot;:&quot;Live Music&quot;},
+              {&quot;id&quot;:&quot;collection&quot;,&quot;label&quot;:&quot;Collections&quot;},
+              {&quot;id&quot;:&quot;data&quot;,&quot;label&quot;:&quot;Data&quot;},
+              {&quot;id&quot;:&quot;web&quot;,&quot;label&quot;:&quot;Web Sites&quot;}
+            ]"
+          ></ia-dropdown-search-bar>
+          <!--?lit$49386103$-->
+          <div class="user-info style-scope primary-nav">
+            <!--?lit$49386103$-->
+            <login-button class="style-scope primary-nav x-scope login-button-1"><!---->
+              <div class="logged-out-toolbar style-scope">
+                <button aria-label="Toggle login menu" class="logged-out-menu dropdown-toggle login-button" data-event-click-tracking="TopNav|NavLoginIcon" aria-expanded="false">
+                  <!--?lit$49386103$-->
+                  <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"
+                    aria-labelledby="userTitleID userDescID" class="style-scope login-button">
+                    <title id="userTitleID" class="style-scope login-button">User icon</title>
+                    <desc id="userDescID" class="style-scope login-button">An illustration of a person's head and chest.
+                    </desc>
+                    <path class="fill-color style-scope login-button"
+                      d="m20.7130435 18.0434783c-3.5658385 0-6.4565218-2.9198821-6.4565218-6.5217392 0-3.60185703 2.8906833-6.5217391 6.4565218-6.5217391s6.4565217 2.91988207 6.4565217 6.5217391c0 3.6018571-2.8906832 6.5217392-6.4565217 6.5217392zm-12.9130435 16.9565217c0-7.9240855 5.7813665-14.3478261 12.9130435-14.3478261s12.9130435 6.4237406 12.9130435 14.3478261z"
+                      fill-rule="evenodd"></path>
+                    </svg>
+                </button>
+                <span class="style-scope login-button">
+                  <a class="style-scope login-button" href="/signup">Sign up</a>
+                  |
+                  <a class="style-scope login-button" href="/account/login">Log in</a>
+                </span>
+                </div>
+                </login-button>

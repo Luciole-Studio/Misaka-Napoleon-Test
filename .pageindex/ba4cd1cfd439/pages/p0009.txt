@@ -1,0 +1,31 @@
+
+
+18 In addition, there could be other transactions costs as well, such as uncertainty, losses due to risks in shipping or insurance, or quality variations in wheat. 19 Price gaps vary in how informative they are on bilateral transactions costs. A plausible hypothesis is that for two markets close to the coast, which might be both importing wheat from a third market, equation (3) holds only with an inequality. Exploring this empirically, we do not ¿QGWKDWLWDOWHUVWKHUHVXOWVVLJQL¿FDQWO\ VHH7DEOH% 7KLVVXJJHVWVWKDWV\VWHPDWLFUHDVRQV for equation (3) holding with equality have no strong effect on our results. 20 We compute the absolute value because the local price of wheat is affected by weather, and from year to year it might change which city is the low-cost producer.
+
+1182 Keller and Shiue 
+relatively stronger for initially high price gaps than for low price gaps. 
+At the 10th percentile, the price gap fell from 0.026 at the beginning to 
+0.016 by the end of the sample period, or, by 38 percent, while at the 90th 
+percentile the price gap fell from 0.39 to 0.09, or by 77 percent. 21 
+For each city we have recorded the year in which it became part of the 
+Zollverein; this year is listed in Table 1. 22 Generally, joining the Zollverein 
+meant that barriers for wheat trade between any two of its markets would 
+EHHTXDOWR]HUR 8QIRUWXQDWHO\ WKHUHLVQRFRPSUHKHQVLYHLQIRUPDWLRQ 
+RQ WKH OHYHOV RIWDULIIV RQ JUDLQ EHIRUH OLEHUDOL]DWLRQ +RZHYHU LQ WKH 
+\HDU WKHDXJPHQWHG3UXVVLDQFXVWRPVXQLRQFKDUJHGDVSHFL¿FGXW\ 
+on wheat equivalent to about 7 percent ad valorem (Dumke 1976, Table 
+3.15). Moreover, the ad valorem equivalents for “products of agriculture” 
+immediately before the formation of the Zollverein in 1834 were about 
+16 percent in Prussia, 9 percent in Bavaria and Wurttemberg, 8 percent 
+in Baden, and 3 percent in Saxony (Dumke 1976, Tables 3.16). Based on 
+the available information, we estimate that the duties on wheat may have 
+been on average the equivalent of about 10 percent ad valorem before 
+WKH\ ZHUH UHGXFHG WR ]HUR LQ WKH Zollverein OLEHUDOL]DWLRQV 23 Instead of 
+WKHWDULIIUDWHV ZHZLOOH[SORLWWKHWLPLQJRIWKHPRYHWRZDUGV]HURWUDGH 
+barriers using a dichotomous 0/1 variable. 24 
+We eliminated all city-pairs within the same state, because it is well 
+known that trade and price arbitrage across states is weaker than within 
+states even though the reasons for this are not fully understood. 25 In the 
+OLWHUDWXUH WKLV ¿QGLQJ LV UHIHUUHG WR DV WKH ³ERUGHU HIIHFW´ HJ 6KLXH 
+
+21 *LYHQ WKLV GLIIHUHQFH ZH GR QRW QHFHVVDULO\ H[SHFW WKDW FXVWRPV OLEHUDOL]DWLRQV KDYH WKH same effect throughout the sample. 22 For the Prussian cities in the sample, we give the year 1828, which is the earliest year at which another state became part of the Prussian-led Zollverein &XVWRPVOLEHUDOL]DWLRQVWKDWGLG not involve Zollverein accession are discussed in section 4. 23 Tariff levels on manufactured goods in 1834 ranged from 20.9 percent in Bavaria and Wurttemberg to 2.1 percent in Saxony across the same four areas, and they ranged from 18.9 percent in Prussia-Hesse to 5.1 percent in Saxony for intermediate goods and materials. With WKHVH¿JXUHV²DOODG YDORUHPHTXLYDOHQWV²WDULIIOHYHOVIRUDJULFXOWXUDOJRRGVRQWKHRQHKDQG and manufactured and intermediate goods on the other may have been quite similar on average. In contrast, tariffs on Genusmittel (non-necessities) where higher; in Prussia-Hesse for example, as noted earlier, they were 74 percent (Dumke 1994, Part III, p.72). 24 In a few cases, the time of the Zollverein accession does not coincide with the year in which tariffs on grain were eliminated. For example, the tariffs between Bavaria and the augmented Prussian customs union were eliminated in 1829, four years before the Zollverein treaty. We focus nevertheless on the Zollverein accession date, because arguably this played the key role in terms of commitment. 25 The number of such city-pairs is 114, eliminating connections between east and west Prussia. (YHQ ZLWKLQ VWDWHV WKH VWUHQJWK RIDUELWUDJH YDULHV DORQJ MXULVGLFWLRQDO ERXQGDULHV VHH 6FKXO]H DQG:ROI $WWKHVDPHWLPH ZHKDYHFRQ¿UPHGWKDWLQRXUFRQWH[W LQFOXGLQJWKHFLWLHV EHWZHHQZKLFKFXVWRPVEDUULHUVZHUHDOZD\VDEVHQWGRHVQRWVLJQL¿FDQWO\DIIHFWRXUHVWLPDWHRI WKHLPSDFWRIFXVWRPVOLEHUDOL]DWLRQ VHH7DEOH%

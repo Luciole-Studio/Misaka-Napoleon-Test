@@ -1,0 +1,44 @@
+by the start of the Russian campaign in 1812 (Nafziger 1987, pp. 19-31). Even after
+almost 400,000 French had either died or fallen in enemy hands during the retreat
+from Russia, the army could muster over 600,000 infantrymen (Nafziger 1987, p. 35).
+
+
+L    Back-of-the-envelope estimates
+This appendix provides a derivation of the formula on which we relied for our back
+of the envelope estimates in section 4.3. We define the draft-dodging rate as:
+                                         Di      Di
+                                      di =  =                                      (6)
+                                         Ci   Si + Di
+where Di is the number of deserters, Si is the number of people who actually join
+their assigned units, and Ci is the total number of people drafted—including deserters
+and non-deserters. Manipulating equation 6, we get:
+                                                        di
+                                 Di = di Ci =                  Si .               (7)
+                                                     (1 − di )
+    For each department i belonging to groups 4&5 , the additional number of desert-
+ers there would have been if conscription had been the same as for the base group is
+approximated by the following total differential:
+                                        d          S
+                           ∆Di =           ∆S +          ∆d.                      (8)
+                                       1−d      (d − 1)2
+   From Table ??, our preferred estimates of Lacuée’s reform are ∆d = 4.99631
+and—since we estimate the change in the share of the population drafted—∆S =
+0.0002387 × P opulationi . Substituting these figures into equation 8 and adding-up
+the change in draft-dodging of all departments indexed i ∈ (1, ..., n) we get:
+                                      n
+                                      X
+                                             ∆Di = 2, 812.                        (9)
+                                       i=1
+
+   We can similarly use this formula to calculate the additional number of men
+that would have joined the French army if the central government had not adopted
+a discriminatory conscription enforcement policy and demanded of departments in
+categories 4 and 5 the same share of able-bodied men as the rest of the country:
+                  n
+                  X             n
+                                X
+                        ∆Si =         0.0002387 × P opulationi = 3, 256.         (10)
+                  i=1           i=1
+
+
+                                                61

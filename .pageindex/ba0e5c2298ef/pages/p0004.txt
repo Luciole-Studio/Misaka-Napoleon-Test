@@ -1,0 +1,20 @@
+
+
+### 实读研究与方法
+11. Battesti,Michèle，“Napoléon et la ‘descente’ en Angleterre.1re partie”，RSN444,pp3–17，网络相关段及脚注，未读所引原档。
+12. Geoghegan,Patrick M.,“[Which] Speech from the Dock?”，History Ireland网页全文；其引用Emmet版本未经本卡初刊对校。
+13. Vandal,Albert,Napoléon et Alexandre Ier,II (第三版1894)及III（电子题页1896缴存，版次未核），Gutenberg31260、32621相关章节及脚注；不称通读，完整定位见晚期。
+14. Madec,Gabriel，3/23致Murat信评注，napoleon.org；Lentz CG8附录仅经其得知，未亲读。
+15. Tetlock,Philip E.,and Aaron Belkin,1996第一章，pp16–19核读，六标准扫描已核；下载与URL详方法。
+16. Evans,Richard J.,“‘What if’ is a waste of time”,Guardian,2014-03-13，文章；Altered Pasts全本未读。
+17. Gelman,Andrew,2005-03-28网页转引Ferguson准入句；Ferguson导言原页未核。
+18. Fondation Napoléon,“The Wars of the Fourth Coalition,Part One:The Polish Campaign”，夏洛滕堡研究叙述：https://www.napoleon.org/en/history-of-the-two-empires/articles/the-wars-of-the-fourth-coalition-part-one-the-polish-campaign/ ，缓存ddef576b0be2.md。
+
+### 档案谱系与未读项
+AN AFIV1191、Murat31AP；AAE CP Russie149/154及Supplément17均为实读刊物所引谱系，未读原折。TNA FO27/73、BL Add.MSS51458来自论文检索线索，未读论文全文及档案。SHD GR C1–C17、TNA ADM/FO其余系列仅是后续检索方向，非本稿已用证据。
+Tulard书目、Butterfield、Schroeder、Lieven、Rey、Desbrière及P.Bertrand密信集相关全本未读；不得列作本稿已证结论来源。
+
+## 验收与剩余缺口
+【事实·工作记录】主体及五个支撑件已落盘；方法六标准已核原扫描；未运行qualitative-evidence-engine、自动引文审计或Tulard评级。子代理写入审批受阻，改为正文回传后主卡保存压缩索引，未绕过审批。
+【限制】完成全景地图，不宣称档案深潜完毕。现代对立史学专著的直接互证未完成：Vandal偏向交C12补俄方视角；和谈承诺与低地底线交C13；作战效能交C11。方法论Ferguson/Evans并列不抵消这一缺口。
+【限制】夏洛滕堡原始链、斯特拉斯堡正文、1803起点外交套餐、1808夺堡命令、有限战争同期计划仍挂账；不得用于已验证路径。没有找到≠历史不存在。

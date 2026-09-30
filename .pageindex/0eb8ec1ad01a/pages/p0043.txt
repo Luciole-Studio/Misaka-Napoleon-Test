@@ -1,0 +1,60 @@
+   We construct a measure of the average suitability of each country’s neighbors by first identify-
+
+ing, for each country, all countries that share a border. We then construct an average measure of
+
+suitability, weighted by land area. For islands, their neighbor is effectively the ocean, where one
+
+cannot cultivate potatoes. We therefore assign zero suitability for islands. All results using the
+
+neighbors’ potato suitability measure are completely robust to simply omitting islands from the
+
+analysis.
+
+
+Population and urbanization
+
+Country level population data are from McEvedy and Jones (1978). Data on the populations of
+
+cities with more than 20,000 inhabitants are from Chandler (1987), Bairoch (1988), and Modelski
+
+(2003).
+
+
+Geographic characteristics
+
+A country’s average elevation, average ruggedness, and average distance from an ice-free coast
+
+are taken from Nunn and Puga (2007). A country’s average elevation is measured in meters.
+
+Ruggedness is the average uphill slope of a country’s land area. A country’s average distance from
+
+an ice-free coast is measured in kilometers. See Nunn and Puga (2007) for details of measurement
+
+and the underlying data sources.
+
+
+Other control variables
+
+The number of slaves taken from a country during the Indian Ocean, Red Sea, trans-Saharan,
+
+and trans-Atlantic slave trades each century from 1400 to 1900 is taken from Nunn (2008). Our
+
+control variable for slave exports is the natural log of the number of slaves exported (measured in
+
+millions of people). When we take the natural log, countries with zero slaves exported are treated
+
+as exporting one slave.
+
+   Our control for a history of Roman rule is an indicator variable that equals one if a country was
+
+a part of the Roman Empire. This measure is taken from Acemoglu et al. (2005).
+
+   We construct an indicator variable that equals one if there is evidence of either legal serfdom
+
+or domestic slavery in a country in 1700. For information on the prevalence of domestic slavery
+
+we rely on data from George Peter Murdock’s (1967) Ethnographic Atlas. Using the location data
+
+provided for the 1,267 ethnic groups in the Atlas, we match each ethnic group to a modern country.
+
+                                                41

@@ -1,0 +1,40 @@
+# Notes — Grab, *Napoleon and the Transformation of Europe* (2003), ch.10 "The Italian Peninsula" (pp.156–175)
+
+来源文件：`downloads/pages/2ad693d5ac13.md`（全文抓取，source_url = ndl.ethernet.edu.et …/2.Alexander%20Grab.pdf，title "Napoleon and the Transformation of Europe (European History in Perspective)"）。行号指该md文件。
+性质：学术专著（Palgrave 2003），作者即 Grab JMH 1995 征兵研究与 JMIS 1998 财政研究的作者；本卡以本书为已亲读层，JMH/JMIS 原文列为谱系未亲读。
+
+## 疆域·人口·结构（模板⑪⑫用）
+- L3868–3875：拿破仑把半岛整合为三块：意大利共和国/王国、那不勒斯王国、法国并合区。第二特征=中央集权国家；第三特征=国家与显贵（notables，贵族+富裕资产阶级 amalgam）的联盟；显贵获益：高位任命、教产购买合法化、产权保障、秩序。
+- L3878（p.158）：1802年1月里昂会议（assembly of Italian notables at Lyons）选举第一执政为共和国总统；1805年3月共和国改建为意大利王国，拿破仑自任国王。
+- 初始疆域=伦巴第+诺瓦拉+艾米利亚-罗马涅大部；后并威尼托与伊斯特里亚（1806）、马尔凯（1808）、特伦蒂诺-南蒂罗尔（1810）。
+- **峰值 89,600 km²，6.7 百万人口，约占半岛人口三分之一**（p.158）。
+- 王国与共和国均为卫星国：付驻意法军维持费、供兵、执行大陆封锁。
+
+## 决策结构（模板①用）
+- 共和国宪法：极强行政权；拿破仑+副总统Melzi对内政有最终决定权、任命高官、掌外交。七部长（战争、财政、国库、内政、宗教、司法、外交）对其负责。
+- 立法三机构权力极小：Legislative body 对 legislative council 准备的法案不经讨论表决；选举团=三院（地主/商人/知识界，possidenti/commercianti/dotti）。"political participation was reserved for the propertied and educated classes."
+- Melzi：米兰贵族、温和自由派、坚拒雅各宾主义、坚决捍卫私有产权；**终极目标=由立宪君主统治的独立北意大利国家**；因此与拿破仑关系紧张（L3888–3897）。1805建王国后欧仁任副王，Melzi被移至礼仪性职位（Keeper of Seals/掌玺，Duke of Lodi）。
+- L3899–3903（p.159）名句：**1805年7月拿破仑命令欧仁："Even if Milan is in flames, you must ask for orders to extinguish it; you must let Milan burn and wait for orders."**（Grab注7）→ 副王零自主权的制度证词。
+- 1805年7月立法团反对新税（registry tax）后被解散，代之以Council of State，后又设Senate；"Neither body posed any challenge to Napoleon."（L3905–3911）
+
+## 行政渗透（模板②用）
+- Melzi 1802 建中央行政：12省（王国时期24省），统一官僚结构，枢纽=省长（prefect）；副省长管district，podestà/sindaci管comuni。王国时期省长权力扩大、comuni失去自治。
+- 官员本地化：**共和国与王国的最高官员除一人外全为意大利公民**；52名省长中30贵族、22资产阶级（amalgame证据）。
+- 法典：拿破仑令将法国诸法典译成意大利语，**1806年后成为国法**；民法典确认法律平等、产权、民事婚姻。法院体系照搬法国：每canton治安法官、每省民刑法庭、米兰设Cassation、米兰/威尼斯/博洛尼亚/布雷西亚/安科纳设上诉法院。
+- 警察：省长掌省内警察，警察总监（Director General）全国协调；**宪兵约2000人精锐**，打击走私、逃兵、盗匪；紧急时用正规军与国民卫队；因经费不足人力长期短缺。
+- 教育：1802 Melzi规划每commune小学、每省中学；内政部统辖；教学语言意大利语；中学（licei）投入远大于小学；1812才颁小学组织计划；**三所大学 Pavia/Bologna/Padua 共1172名学生**。
+
+## 财政（模板③用；Prina）
+- 最大年度支出=**驻王国25,000法军的维持费+扩张中的意大利军，通常占预算50%**（L4008–4010，Grab注14）。
+- 其他大项：道路水利建设、公债利息、行政费。公债清偿：两类债券（3.5%利息券；可购国有财产券）→ 即 Monte Napoleone 机制。
+- Prina（财政部长）：**全拿破仑时期唯一从未换人的部长**；拿破仑1805致欧仁："There is no person who is more essential than the finance minister; he is a hard worker who knows his profession."（Grab注15）
+- 策略：保持地产税（最大收入源）相对温和以拉拢地主；代之以人头税+间接税（盐、烟草、消费税）增税；1807启动catasto地籍清丈（拿破仑倒台后才完成）；1804年3月收税官新规。
+- **1802–1811 国家岁入几乎翻倍**（"almost doubled state revenues from 1802 to 1811"）。
+- 代价：间接税使下层负担比例更重 → Prina成为王国最恨部长，"He later paid with his life for his pro-Napoleonic devotion."；拿破仑不断加码 → 末年赤字上升。
+
+## 征兵与军队（模板⑤⑥用）
+- 1802年8月共和国颁强制征兵：每年征20–25岁数千人，役期4年；可雇替身。
+- 农村承担大头；抵制动机非民族情绪而是保卫经济基础与传统生活方式；逃避、逃亡、袭击征兵官员、起义；政府以收紧机器+宪兵+重刑回应；征兵机器反而强化国家权力向偏远地区渗透。
+- **1802–1814共征155,000人；1812年意大利军扩至70,000人**（L4049–4052，Grab注16=其JMH研究）。
+- 意军战于西班牙、德意志、俄国，伤亡惨重。**军役激发民族意识：不同地区公民在意大利军旗下的意大利部队中服役，鼓励军官与部分士兵超越地域界限、开始自认意大利民族之一员**（L4052–4056）。
+- **俄国远征：王国派出27,000人，仅约1,000人返回**（L4230，Grab注34）。

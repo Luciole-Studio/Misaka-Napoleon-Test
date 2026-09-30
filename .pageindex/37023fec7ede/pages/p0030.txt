@@ -1,0 +1,48 @@
+F.3.3    Literacy
+In this appendix, we replicate our empirical tests including two additional measures
+for a department’s literacy rate. The first measure, literacy (1790), consists of the
+number of married men who were able to sign their marriage certificate between the
+years 1786 and 1790. The second measure, literacy (1831), consists of the percentage
+of men eligible for conscription in 1831 who could read. The results from both tables
+confirm our original findings. The coefficients of our variables of interest remain large
+and significant throughout.
+
+   Table 16: Draft-dodging and ruggedness with alternative to “Military relays”.
+
+Note: This table displays the same regression as in Table 1, column (4) while replacing “Literacy”
+with other measures of literacy. The first column is equivalent to column (4) in Table 1. We report
+robust standard errors in parenthesis and Conley standard errors (100km) in brackets.
+
+                     Draft-dodging rate           (1)         (2)          (3)
+                     Log of ruggedness          4.65358    3.87815       5.14020
+                                           (1.62817)*** (1.69038)** (1.63336)***
+                                            [1.94372]**  [2.04044]*   [2.21987]**
+                     Townships Density        -62.71338   -12.06185    -51.56883
+                                             (44.89035)  (46.59960)   (38.19794)
+                                             [80.14154]  [78.07672]    [63.27735]
+                     Distance from Paris       2.16670      3.01266      1.86318
+                                            (1.06161)** (1.06946)***   (1.15628)
+                                              [1.63886]  [1.63479]*     [1.92381]
+                     Border                     4.65163    5.93110       0.35297
+                                            (2.34167)** (2.36550)**    (1.97336)
+                                              [3.57922]  [3.49427]*     [2.62615]
+                     Literacy                  -0.14993
+                                           (0.04280)***
+                                            [0.07162]**
+                     Literacy (1790)                       -0.20493
+                                                        (0.04036)***
+                                                        [0.05664]***
+                     Literacy (1831)                                    -0.29932
+                                                                     (0.04519)***
+                                                                     [0.06997]***
+
+                     Same other controls
+                     as in Table 1            X              X             X
+                     Observations            365            370           405
+                     R-squared             0.75273        0.76084       0.73749
+                                    *** p<0.01, ** p<0.05, * p<0.1
+
+
+
+
+                                                  30

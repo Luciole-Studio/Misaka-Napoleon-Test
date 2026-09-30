@@ -1,0 +1,31 @@
+{
+  "merged_exact": true,
+  "characters": 50466,
+  "bytes": 103950,
+  "lines": 710,
+  "source_entries": 39,
+  "timeline_1_to_32": true,
+  "new_quote_checks": {
+    "N5_formal": true,
+    "N5_oral": true,
+    "A1_XIV": true,
+    "K7_orders": true,
+    "K7_bases": true
+  },
+  "B3_arithmetic_only": {
+    "A_low": {
+      "personnel": 59850,
+      "personnel_check": true,
+      "cost_low_check": true,
+      "cost_high_check": true
+    },
+    "A_high": {
+      "personnel": 88400,
+      "personnel_check": true,
+      "cost_low_check": true,
+      "cost_high_check": true
+    }
+  },
+  "sha256": "27ab2622709e2ab2c1002cd871dd97f2d0d886cc8e9c5c21e2b37b5a7752cf3a",
+  "local_evacuation_correction": "Chilcott print pp242-243 / PDF250-251 actually read; WSRO cited via thesis, not archival original"
+}

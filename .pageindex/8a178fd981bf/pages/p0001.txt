@@ -1,0 +1,56 @@
+38 P. E, TETLOCK AND A,
+
+justify our political biases and predilections? There appear to be large
+‘classes of questions in the study of global conflict and cooperation for which
+experimental control is out of the question and statistical control is of limited
+usefulness (assuming we can find a reasonable set of comparison cases and
+can reliably operationalize the theoretical constructs). These questions are
+too important to ignore, but apparently too difficult to answer in a fashion
+that commands transideological consensus.
+
+“Too ofien, the response to the dilemma is to embrace extreme solutions
+(Strassfeld 1992): either to reject categorically all counterfactual arguments
+as fanciful suppositions, mere conjecture, and frivolous figments (counter-
+factual dread) or to assume confidently that we know exactly what would
+have happened if we had gone down another path, sometimes going so far as
+to project several steps deep into hypothetical causal sequences (counterfac-
+tual bravado). The former response leads to futile efforts to exorcize coun-
+terfactuals from historical inquiry (Fisher 1970); the latter response leads at
+best to error (we ignore the compounding of probabilities at our peril) and at
+worst to the full-scale politicization of counterfactual argument (as advocates
+claim carte blanche to write hypothetical histories that advance their favorite
+‘causes). This book tries to articulate a principled compromise between these
+extremes. On the one hand, we acknowledge that thought experiments inev-
+itably play key roles in the causal arguments of any historical discipline. On
+the other hand, we acknowledge that thought experiments are often suffused
+‘with error and bias. But, that said, we do not conclude that things are hope~
+Jess—that it is impossible to draw causal lessons from history. Rather, we
+‘conclude that disciplined use of counterfactuals—grounded in explicit stan-
+dards of evidence and proof—can be enlightening in specific historical, the-
+retical, and policy settings. And that, we suspect, is the most important
+lesson of this book.
+
+2
+
+Causes and Counterfactuals in Social Science
+
+EXPLORING AN ANALOGY BETWEEN CELLULAR AUTOMATA
+AND HISTORICAL PROCESSES
+
+JAMES D. FEARON
+
+For A VARIETY of purposes, social scientists and historians take the discov-
+ery of causes of events in the human world as a goal—perhaps the principal
+goal—of their work.' Some research communities are shy of the word
+“causes,” preferring words like “influences,” “determinants,” “sources,”
+“origins,” “roots,” “correlates,” “factors that shape or give rise to,” and so
+fon. But these are all forms of language that is basically causal?
+
+When trying to argue or assess whether some factor A caused event B,
+social scientists frequently use counterfactuals.’ That is, they either ask
+whether or claim that “if A had not occurred, B would not have occurred.”
+Most often, such claims are little more than unelaborated rhetorical de-
+vices—throwaway lines—deployed as part of a larger rhetorical strategy to
+convince the reader that A caused B. Less frequently, researchers actually
+develop and explore the counterfactual scenario as a means of testing the
+causal hypothesis.

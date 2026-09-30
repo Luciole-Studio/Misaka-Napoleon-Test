@@ -1,0 +1,25 @@
+
+
+---
+
+# ② 法律、司法与行政渗透
+
+【锚点】西属美洲的行政密度在 18 世纪末经"intendencia"改革提升，但其**实际渗透深度是城市半径的函数**。科罗—加拉加斯 160 里格的消息传递用了四天半（Torrente 印 p.55），这是最好的情况（驿道＋紧急军情）；从布宜诺斯艾利斯到波托西的白银押运（situado）走的是同一条路的三倍长度，且要经科尔多瓦、萨尔塔转运（Galarza 研究所述的 situadista 制度，检索页文本，见 `notes_plata_economy.md` §B）。
+【锚点】司法—财政的混合性：秘鲁王室财库 1812 年的收入被分为 Propios／Particulares／Ajenos 三类，共 85 个征收项目（48＋17＋20），其中 Propios 约占七成五（Contreras，《La reforma fiscal de 1815》，*Economía* PUCP，检索页文本）。
+【机制】**法律多元＝行省化阻力**：印第安人有自己的 cabildo、教会有自己的法庭、矿业有自己的法庭、商人有 consulado。拿破仑式行省化（统一法典＋省长＋宪兵）在欧洲已证明成本高昂（D1/D2 卡）；在美洲，这一模式**没有任何可用的执行机构**，因为法国没有一个能在当地下令的人。
+【推演·高】**任何情景下，法国都无法对西属美洲实施 A 层（并合省）或 B 层（法典化藩属）。** 可达的最高形态是 **C 层（条约化的排他性商业伙伴）**，而且必须由西班牙政府出面签署。这与 IN2、PS 卡的"通道式安排"同构。
+
+---
+
+# ③ 财政、货币与金融
+
+【锚点·矿产】英国 1806 年情报表（Castlereagh vol. VII 印 pp.451–452）：墨西哥 1806 年产金 1,352,348＋产银 23,383,672＝**24,736,020 dollars**，并注明"less than the usual produce, the average of several preceding years being about twenty-seven millions"；卡塔赫纳（新格拉纳达出海口）"perhaps not much exceeding a million of dollars per annum"；拉普拉塔被描述为"an important debouchure for the mines of Potosi"。同一份文件把秘鲁 1780–89 年十年合计 34,152,189 dollars 误标为"Annual produce"，编者只加了一句"So in MS."
+【锚点·矿产·对照】Torrente 的"革命前最后时期年产表"（印本表，`SA_Torrente_HistRevHispanoAmericana.txt` 行 1020–1040）：墨西哥 22,170,740 pesos；秘鲁 5,317,988；智利 1,735,380；布宜诺斯艾利斯含上秘鲁约 4.2–4.9 百万（OCR 残缺）；新格拉纳达约 2.6 百万；**合计 36,063,272 pesos**。
+→ **本卡采用口径：西属美洲年产贵金属约 3,300–3,800 万 pesos，其中墨西哥约六成，整个南美约 1,300–1,500 万 pesos。**（两个独立来源同量级，英方情报明显更差。）
+【锚点·财政流】布宜诺斯艾利斯王室财库的支柱是波托西 situado：1790 年代年均逾 1,200,000 pesos，1800 年代回落至约 920,000，1801–1810 年均低于 750,000，1803 年为零（Galarza，*Anuario del Centro de Estudios Históricos*，检索页文本）。对宗主国汇款自 1791–1805 年的 860 万 pesos 崩落至 1806–1810 年的 16.2 万（Halperín Donghi 经 Galarza 转述）。
+【锚点·财政流】秘鲁：1800 年总收入 7,375,786／Propios 2,101,918／军费 1,450,810／总支出 2,009,681；1809 年总收入 3,624,276／Propios 1,622,889／军费 1,787,163／总支出 3,334,176；1812 年总收入 5,270,963／Propios 3,958,036（Contreras 表 2，检索页文本，源注 AGI Lima 1166／1170-A／1170-D 与 Abascal《Memoria》）。1812 年 Abascal 自述军费已升至 200 万 pesos／年、situados 升至 1,275,000、总需求 5,375,000 而 Propios 仅 360 万。
+【锚点·财政流】加的斯生命线：1808-10 至 1811-02 西属美洲对加的斯官方汇款合计 **29,408,015 pesos**，其中墨西哥项约 2,300 万；1809–11 爱国政府收入的 **60% 来自美洲**，1812–14 则"scarcely 5%"（Marichal 2007，经兄弟卡 MX 的 `nodes/r_5b1357a9c6/cards/t_9bd988/notes_marichal.md` 亲读转引，含 AGI Ultramar 833 与 Canga Argüelles 表 7.4）。
+【锚点·关税实测】Moreno 1809 年呈文（`downloads/pages/06e7744d9118.md` 行 56、82、211）：1807 年后的禁令下"**más de cuatro millones** fueron introducidos, y entre confiscaciones y derechos apenas recogió la aduana **noventa y seis mil pesos**, debiendo haber entrado en ella **millón y medio**"；蒙得维的亚洪塔开放贸易后"el ingreso de **más de setecientos mil pesos**… veinte negociaciones"，并"las tropas pagadas hasta el día corriente… el crecido residuo de **trescientos sesenta mil pesos**"，而首都"las tropas sin pagarse en más de cinco meses"；旧赤字 1,200,000 pesos，另加"**millón y medio que dejará el Perú de remitir**"。
+【机制】**白银帝国的财政几何**：白银在上秘鲁与墨西哥生产，在利马与布宜诺斯艾利斯出海，在加的斯入账，在阿姆斯特丹/伦敦结算（Hope–Baring 链条，MX 卡笔记 §B）。这条链的任何一环被切断，最先破产的不是马德里而是**两端之间的转运财政**（布宜诺斯艾利斯 1803 年即出现零 situado）。
+【推演·中高】**S2（对英武装共存＋许可证常态化）**：西属美洲成为法国体系的**白银与市场接口**。法国可通过西班牙盟友取得：(i) 类似 1701–13 年的对美通商权（Moreno 承认的先例）；(ii) 经中立船（美国）结算的白银流（1804–08 年马德里对美洲各库开出汇票约 2,000 万 pesos，仅新西班牙一地，MX 卡笔记 §C）。**上限估计：在不发生战争中断的年份，法国可持续提取的美洲白银净额约为 400–800 万 pesos／年（面值 ×0.75 后再减运费佣金，MX 卡 Hope 合约换算锚点），战争年份趋近于零。**
+【推演·中】**S3（严格封锁）**：英美中立航运被挤出→白银无法安全结算→法国的美洲收入归零，而英国仍可用海军直接到韦拉克鲁斯装银（1806-12 至 1808-08 英舰运走约 1,248 万 pesos，MX 卡表 6.2）。**S3 是唯一一个法国既得不到白银、又把白银推给英国的情景。**

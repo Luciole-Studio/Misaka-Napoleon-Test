@@ -1,0 +1,50 @@
+
+
+### BW — Bordo与White，实际使用的是1990工作稿
+
+Michael D. Bordo and Eugene N. White, *British and French Finance during the Napoleonic Wars*, NBER Working Paper No.3517, November 1990。
+
+- 文献入口：<https://www.nber.org/papers/w3517>；项目已有`downloads/B2_Bordo_White_WP3517.pdf`，doc `ed2c1913a953`。
+- 实读封面、PDF29–36（印刷27–34）法国财政部分；不是1991年JEH题为“A Tale of Two Currencies”的正式版。
+- 短引印刷p.27：“The Imperial budget remained secretive and the public had no equivalent to the British parliament to monitor the plans of the Emperor.”
+- 印刷p.30：“Between 1806 and 1812, 224 million francs of these bonds were issued.”——摊还基金票据累计流量，非年末存量；邻文为6–7%票息。
+- 印刷p.31：“it was feared that any large issue of debt would drive up yields rapidly.”——旧券价格不等于新增大额借款条件。
+- 大量法国数转Marion及旧财政史，不算独立原档复核；英国部分由B2承重。
+
+### OUV — 复辟信用的制度与外部约束
+
+Kim Oosterlinck, Loredana Ureche-Rangau, Jacques-Marie Vaslin, *Waterloo: a Godsend for French Public Finances?*, EHES Working Papers in Economic History No.41, July 2013。
+
+- <https://ehes.org/wp/EHES_No41.pdf>；保存`downloads/F4_Oosterlinck2013.pdf`，doc `1d550bd51998`，47页。
+- 读PDF1–2、8–17、27–30、42；表1印刷41/PDF42已核图，转Mitchell(1980)、Vaslin(1999)，本卡未阅这两部原资料。
+- 摘要：“a spread, compared to the British consol, falling from more than 400 basis points to a meagre 100 basis point.” 时间1815–1825；不是某一笔借款固定保证。
+- 表头：“Interests on public debt as % of public expenses”——末列为债息/支出，不是债务本金/收入或收益率。
+- 机制包含承销商、盟国占领/索赔利益及制度改良；未复现其计量，且不将2013工作稿冒称正式发表版。
+
+### J — 后期支出比较
+
+Clément Juglar, “Comparaison décennale des budgets de dépenses et de recettes en France depuis 1836,” *Journal de la Société de statistique de Paris*, 9 (1868), pp.306–315。
+
+- <http://www.numdam.org/item?id=JSFS_1868__9__306_0>；保存`downloads/F4_Juglar1868_budgets.pdf`，doc `b38d08d0e5a0`。
+- 实读PDF1–4/印刷306–308。p.308军海普通＋特别支出1836=267m，1846=495m；公共工程65/217m。
+- 短引表名：“Budgets ordinaires et extraordinaires de la guerre et de la marine.” 不是陆军单列；不同年份采购价、疆域和战事不同，不能平移到1815。
+
+### LB — 后出债务史、只作机制类比
+
+Paul Leroy-Beaulieu, “La Dette publique de la France. Les origines, le développement de la dette et les moyens de l’atténuer,” *Revue des Deux Mondes*, 3e période, tome6 (1874), pp.815–849。
+
+- 实读Wikisource第一节及相关第二节，不冒称发行合同或亲核纸本单页：<https://fr.wikisource.org/wiki/La_Dette_publique_de_la_France>。
+- 保存`downloads/pages/11768f58f5af.md`；网页重定向来源在文件头。
+- 第一节原句：“En 1823, le gouvernement adjugea à la maison Rothschild frères 23 millions de rentes 5 pour 100 au cours de 89 francs 55 cent.” 23m是年金，不是借款本金；本文只用价格计算简化当期收益率。
+- 作者对复辟、发债方法和财政节约有鲜明规范立场，不把其价值判断当中性描述。1830债务总额与BW不同，未在本卡强行调和或引用为统一序列。
+
+## 危机、银行、产业与阶级
+
+### BO — Jean Bouvier
+
+Jean Bouvier, « Les crises économiques sous l’Empire. À propos de la crise dite “de 1805” », *Annales historiques de la Révolution française*, no.199 (1970), pp.100–109。
+
+- <https://www.persee.fr/doc/ahrf_0003-4436_1970_num_199_1_3895>；保存`downloads/pages/254e6c723b4c.md`。
+- 实读全文捕获，重点pp.101–107国库—Ouvrard—银行—Casa de Consolidación链，p.109危机分期。
+- 这是一篇讨论既有研究的论文，不是本卡重新核阅西班牙白银合同。Bougerol、Chabert、Gabillard等观点须标谁主张。
+- 原文在Barbé-Marbois段指出：“il est loin d’avoir été abusé par Ouvrard et ses associés et intermédiaires”——其反对个人欺骗单因解释；引文只规范化弯直引号，未把释义当逐字引文。

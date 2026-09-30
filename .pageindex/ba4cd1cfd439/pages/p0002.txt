@@ -1,0 +1,44 @@
+
+
+The economist Friedrich List, head of the Union of Merchants (der Deutsche Handels- and Gewerbeverein), described in colorful terms the scale of the problem in a petition to the German parliament in 1819:
+
+The numerous customs barriers “cripple internal trade and produce the same effect as ligatures which prevent the free circulation of blood. The merchants WUDGLQJEHWZHHQ+DPEXUJDQG$XVWULD RU%HUOLQDQG6ZLW]HUODQGPXVWWUDYHUVH ten states, must learn ten customs tariffs, must pay ten successive transit dues. Anyone who is unfortunate enough as to live on the boundary line between three or four states spends his days among hostile tax-gatherers and customs house RI¿FLDOV +HLVDPDQZLWKRXWFRXQWU\´ 2
+
+The Zollverein abolished tariff barriers among member states, and all members agreed to a single external tariff. Over time, the reduction of trade barriers may have also enhanced growth and development in the region (Henderson 1959; Bairoch 1989). Given the importance of the Zollverein to the history of trade agreements, it is surprising that we still know little about its actual trade impact. While there are studies on overall trends in Europe towards deregulation and others on the impact of trade reform of the nineteenth century in France, Sweden, and Italy (Federico and Tena 1998; Persson 1999), the Zollverein is not yet well understood. Its importance in historical accounts, thus, is overshadowed by the lack of empirical tests of the claims that the Zollverein KDGVLJQL¿-FDQWHFRQRPLFFRQVHTXHQFHVIRUWUDGH 7KLVSDSHUDLPVWR¿OOWKHJDS We study the Zollverein’s effect on trade by examining the conver gence of wheat prices across 40 cities located in 14 different German states. 3 7KH\HDU LVWKHRI¿FLDO GDWHRIWKHEHJLQQLQJRIWKH*HUPDQ Zollverein since after this date, states gradually started to join the union. A simple approach to examine the impact of trade policies would be to compare the fall in price differentials exhibited by Zollverein versus non-Zollverein-states after a point in time, namely the year 1834. This DSSURDFK KRZHYHU ZRXOG EHÀDZHGIRUWKHUHDVRQWKDWVWDWHVWKDWMRLQHG the customs union early on were likely to be different from states that would join later, and the differences could systematically change the amount of price convergence. 4 Moreover, if establishing the customs union was either assisted or motivated by the fact that price gaps were
+
+2 The petition is printed in German in von Eisenhart, Rothe, and Ritthaler (1934, pp. 320–24). 3 Price data contains important information on trade and its effects (e.g., Stolper and Samuelson 1941) and has been extensively applied in the literature (O’Rourke and Williamson 1999). Information on the volume of trade becomes available for these areas only at a later time (Wolf, 6FKXO]H DQG+HLQHPH\HU 4 On the endogeneity of trade agreements, see the Baldwin (1993), Baldwin and Jaimovich (2012).
+
+1170 Keller and Shiue 
+falling anyway in the nineteenth century for other reasons, then reverse 
+causation could be a concern. 
+As we show these concerns are important. First, failure to take them 
+into account results in a downward bias of the impact of the Zollverein 
+on price convergence. Second, the systematic differences between early 
+joiners and late joiners also provide the key for our correction of the 
+biased regression estimates. We take advantage of the historical setting in 
+nineteenth century Germany by using market access variables to predict 
+individual states’ propensity to join the Zollverein. As the membership 
+of the Zollverein under the leadership of Prussia increased in numbers, 
+some German states feared that remaining outside the Zollverein would 
+severely reduce their access to the Northern German sea coast and the 
+gains to international trade available from that location (Keller and Shiue 
+2008; Ploeckl 2010a). 5 Moreover, the external border of the Zollverein 
+imposed higher costs on the states in Germany’s south than those in its 
+north, because the latter did not have to cross the Zollverein customs 
+border to trade internationally. 6 
+2XU PDLQ ¿QGLQJ LV WKDW ELODWHUDO SULFH JDSV EHWZHHQ FLWLHV IHOO E\ 
+about one-third with the implementation of the Zollverein. 7 We compare 
+this estimate to the naïve estimate that does not take into account the 
+endogenous relationship between trade and Zollverein membership, and 
+show that the naïve estimate severely underestimates of the impact of the 
+free trade accord. 
+Our paper contributes to a large amount of literature on market inte 
+gration using information on grain prices. Most closely related to our 
+paper are studies of Germany (Kopsidis 2002; Shiue 2005) and Europe 
+(Persson 1999; Federico 2011), but also research on market integration 
+between North America and Europe (O’Rourke and Williamson 1999; 
+Federico and Persson 2010). This research has examined a wide range 
+of factors behind the observed increase in market integration in the nine 
+teenth century, including transport improvements and changes in mone 
+tary regimes (Jacks 2005) and the European demand for wheat from the 
+United States (Uebele 2010). This paper studies the causal impact of 

@@ -1,0 +1,48 @@
+# B3皇家海军1815–1830：已读原文摘录与口径笔记
+
+范围：证据搜集，不决定反事实模型。Hansard为实际阅读的网页转录，并非已校勘影印本；议员转引议会报表一律作为转引，不冒称读过原报表。以下保存实际阅读材料的选段而非全文镜像。日期为文献/辩论日期；博物馆无网页发布日期处不编造。检索片段未作引文。
+
+工具说明：已加载agent-reach；其Exa CLI调用受bash父级审批限制，未执行，改用会话可用web_search/web_extract及read。未调用卡完成。工具自动将网页缓存写入downloads/pages；本助手主动写入的交付物仅在本目录。1812及其他战时员额留给主研究者，不重复核查；145,000不能在本笔记中当作纯海员数据。
+
+## 1. 1817员额：19,000包含6,000陆战队，不是两数相加
+【事实：决议文本】1817-02-17，HC Deb vol 35 cc408–409。
+https://api.parliament.uk/historic-hansard/commons/1817/feb/17/navy-estimates
+
+> The number of men which he had to propose was 19,000, of which number the royal marines were 6,000.
+> That 19,000 men be employed for the sea service for six lunar months, from the 1st of January 1817, including 6,000 royal marines.
+> The estimates were proposed for six lunar months only which left the subject open to the future consideration of the finance committee and of the House.
+
+人员口径：自1817-01-01起六个lunar months的sea-service投票员额，含陆战队；剔除陆战队余13,000为算术推导，不等于熟练海员、实际在舰人数或全年平均实员。预算口径：此段不是全年总海军预算。
+
+## 2. 1817六个月分项经费，不等于海军全年预算或工资单价
+【事实：通过的决议】同上日期、网址、卷页。
+
+> The Resolution was agreed to; as were the following: viz. 216,600l. for wages of the said 19,000 men for six months; 233,700l. for victuals; 245,100l. for wear and tear of ships; and 22,800l. for ordnance for sea service.
+> The expense was ... calculated at 6l. 6s. per man a month ...
+
+预算口径：工资£216,600、给养£233,700、舰船损耗£245,100、海上军械£22,800；四项合计£718,200（本笔记算术）。£6 6s是这些项目的人月合成估算率，不是个人月薪。人数仍含6,000陆战队。原文“409”是栏码，不是金额。
+
+## 3. 1820员额：23,000含8,000陆战队
+【事实：通过的决议】1820-05-17，HC Deb vol 1 cc459–460。
+https://api.parliament.uk/historic-hansard/commons/1820/may/17/navy-estimates
+
+> That 23,000 men be employed for the sea service, for thirteen lunar months, from the 1st of Jan. 1820, including 8,000 royal marines.
+> That 650,325l. be granted to his majesty, for wages of the said 23,000 men, for thirteen lunar months, at the rate of 2l. 3s. 6d. per man per month.
+> That 612,950l. be granted for victuals for the said 23,000 men, for thirteen lunar months, at the rate of 2l. 1s. per man per month.
+> That 104,650l. be granted for ordnance for sea service on board the ships in which the said 23,000 men are to serve for thirteen lunar months, at the rate of 7s. per man per month.
+> The Resolutions were agreed to.
+
+人员口径：总员额23,000，非陆战队余15,000（算术）。因此“和平1820总员额20,000”至少不符合这份决议。预算口径：另列wear and tear £612,950；四项总£1,980,875。文内另有£500,000 on account，属于预拨，不能未经清算就当作额外净支出累加。13个月为原文lunar months，勿改成13个日历月。
+
+## 4. 1817–21总预算：毛估算、旧物资抵扣、实际支出分列
+【事实：Hume在辩论中刊出的表，转引Annual Estimates / Annual Finance Accounts】1821-06-27，HC Deb vol 5 cc1345–1442，No.28（海军讨论自c1383起）。
+https://api.parliament.uk/historic-hansard/commons/1821/jun/27/economy-and-retrenchment
+
+> No. 28.—Abstract of NAVY ESTIMATES, from 1817 to 1821, inclusive.—[Vide Annual Estimates.]
+
+|原文行名|1817|1818|1819|1820|1821|
+|---|---:|---:|---:|---:|---:|
+|Total Estimate|5,985,415|6,547,810|6,527,781|6,691,345|6,382,786|
+|Deduct for Old Stores|671,101|309,205|334,487|263,820|163,400|
+|抵扣后行（原表无行名）|5,314,314|6,138,605|6,193,294|6,427,525|6,219,386|
+|Actual Expenditure from Annual Finance Accounts|6,473,062|6,521,714|6,393,552|6,387,799|—|

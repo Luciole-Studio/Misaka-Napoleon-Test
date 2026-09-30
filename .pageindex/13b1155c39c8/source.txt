@@ -1,0 +1,98 @@
+16 P. E. TETLOCK AND A. Bi
+
+LKIN
+
+Bernstein cautions us about the dangers of adopting a condescending “back-
+shadowing” attitude toward participants in past events—such as the victims
+of the Holocaust—that were neither inevitable nor perhaps even predictable.
+
+Of our contributors, Weber (Chapter 12) is most concerned with the po-
+tentially liberating effects of allowing our counterfactual imaginations freer
+rein than they arc usually given. He suggests that a partial explanation of
+why international relations theorists are so often surprised by events is a
+failure of divergent thinking—a failure to give due weight to the variety of
+possible pasts that could have occurred as well as to the variety of possible
+futures that might yet occur. Confronted by a complex probabilistic world in
+which the tape of history only runs once, prudent decision makers should
+entertain multiple plausible scenarios of how events might have unfolded
+and might yet unfold, hedging their policy bets accordingly (Schoemaker
+1991). Weber also criticizes methodologists and epistemologists, including
+us, who try to constrain our counterfactual imaginations by invoking the
+sorts of plausibility tests advanced in the next section. We agree with Weber
+that deterministic tunnel vision is a serious problem but worry about the
+viability of the proposed solution. Weber may be right that lack of creative
+divergent thinking is a more serious deficiency in world politics than prolif-
+eration of false hypotheses, but if the field took Weber's advice to heart, the
+opposite might well soon be the case. Any self-respecting academic commu-
+nity must offer the attentive public criteria for distinguishing scenario snake
+oil from serious scholarship,
+
+Six Criteria for Judging Counterfactual Arguments
+
+‘There should now be no doubt that scholars use counterfactual arguments for
+1a variety of distinct, albeit interrelated, purposes. It should also come as no
+surprise that there is no single answer to the question of what counts as a good
+counterfactual argument, The obvious rejoinder is, “Good for what?” A coun-
+terfactual that is idiographically incisive (advances our understanding of a par-
+ticular case) might be nomothetically banal (devoid of interesting theoretical
+implications) and vice versa. A counterfactual grounded in an elegant computer
+simulation might blow a gaping logical hole in an influential theoretical argu-
+‘ment but tell us precious little about the actual world it supposedly simulates. A
+counterfactual that stimulates us to think of new hypotheses might run afoul of
+the received wisdom on what counts as a trivial or influential cause.
+
+Given the diverse goals that people have in mind when they advance
+counterfactual arguments—from hypothesis generation to hypothesis testing,
+from historical understanding to theory extension—our contributors con-
+vinced us that the quest for a one-size-fits-all epistemology is quixotic. Dif-
+ferent investigators will inevitably emphasize somewhat different criteria in
+
+COUNTERFACTUAL THOUGHT EXPERIMENTS a
+
+judging the legitimacy, plausibility, and insightfulness of specific counter-
+factuals. It would be a big mistake, however, to confuse epistemic pluralism
+(which we accept up to a point) with an anything-goes subjectivism (which
+wwe reject and which would treat all counterfactual claims as equally valid in
+their own way). The study of world politics has suffered from a lack of self-
+consciousness about the counterfactual underpinnings of causal claims
+(Fearon 1991). Indeed, different schools of thought sometimes seem precar-
+iously close to establishing their own implicit norms for deciding what is
+and is not a “trivial” argument (Chapter 12, Weber)—an outcome that would
+be disastrous because it would permit rival schools to disengage altogether
+from constructive arguments with each other. A science or, more modestly,
+‘quasi science of world politics is possible if and only if advocates of con-
+flicting hypotheses embrace at least some common standards for judging the
+plausibility of each other’s counterfactual claims. Otherwise, we are fated to
+talk past each other.
+
+‘To avoid this fate, we advance six normative criteria for judging counter-
+factual arguments that appear to command substantial cross-disciplinary sup-
+port. To be sure, we do not expect universal consent; we do seek, however,
+to initiate a sustained conversation within the research community on what
+should count as a compelling counterfactual argument—a conversation that
+will allow us to explore the strengths and weaknesses of specific standards in
+the abstract, in isolation from the dominant debates of the moment (when
+the temptation to play favorites is often irresistible). There should, more-
+over, be plenty to talk about. Each standard we propose is open to some
+interpretation. Certain standards will provoke resistance from those who de-
+nounce it as impossible (Chapter 3, Breslauer) or undesirable (Chapter 12,
+Weber) or irrelevant (Chapter 5, Lebow and Stein). And some standards will
+clash with each other. For example, consistency with well-established his-
+torical fact sometimes conflicts with consistency with well-established statis-
+tical or theoretical generalizations. There are at present no generally ac-
+cepted principles for adjudicating such disputes and we do not claim to offer
+a well-defined “method of counterfactual argument” that researchers can
+deploy in an off-the-shelf fashion to solve any and all problems.
+
+With these disclaimers, we list six attributes of the ideal counterfactual
+thought exercise (where “ideal” means most likely to contribute to the ulti-
+mate social-science goals of logically consistent, reasonably comprehensive
+and parsimonious, and rigorously testable explanations that integrate the idi-
+graphic and the nomothetic):!
+
+" Readers may wonder how these six criteria for good counterfactual reasoning map onto the
+five ideal-type pattems of counterfactual reasoning sketched earlier. Although the answer is
+‘complex and the subject of some disagreement among contributors, we can offer the following
+‘observations:
+
+(1) The first two criteria—logical clarity and cotenability—have widespread acceptance

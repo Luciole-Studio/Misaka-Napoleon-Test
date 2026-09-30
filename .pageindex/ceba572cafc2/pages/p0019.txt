@@ -1,0 +1,17 @@
+
+
+## CONCLUDING REMARKS
+
+I studied the evolutions of the agio, a series that captured differences between the gold content of a paper pound in time t and its expected value in the future. The discrepancies between these two exchange rates reflected how credible the promise of resuming the gold standard at its pre-war parity was in the eyes of contemporaries. My analysis showed that significant changes in the agio coincided with events that prompted a reassessment of Britain's expected military fate. In particular, on unfavorable news the pound's internal value declined, as these made British victory seem less probable and devaluation more likely. Conversely, favorable news caused the pound's purchasing power to increase.
+
+The nature and timing of certain jumps in the agio allowed ruling out the hypothesis that inflationary tensions were caused by monetary expansion. When Napoleon reascended the throne in March 1815 after having escaped his exile on Elba the agio doubled. However, no war-related spending had yet occurred, rather it was the expectation of future public spending, a fiscal news shock, that affected the internal value of the pound.
+
+Switching from the gold standard to a fiat currency regime, effectively replaced the risk of sovereign default with a risk from inflation (Calomiris and Haber Reference Calomiris and Haber2014). As adjustments in the real value of outstanding debt could now be engineered through devaluations of the currency, monetary regime choices, and their operation shaped how people expected debt to be stabilized.
+
+In terms of the long-standing debate attributing evolutions in the price level during the Restriction Period to either real or monetary factors, I put forward a third explanation: fiscal prospects affected the pound's internal value, that is, its exchange rate into gold. As Britain's payment system during the suspension period rested on the pound, this also had a bearing on evolutions in the aggregate price level more generally.
+
+Britain had well-functioning financial markets, which allowed for an increasing national debt. For a quarter of a century, Britain operated a fiduciary currency regime with flexible exchange rates, a feature that characterizes most industrialized economies today.
+
+## Footnotes
+
+The views expressed herein are those of the author and do not necessarily reflect those of the Banque de France. I am particularly indebted to Olivier Accominotti, Vincent Bignon, Christophe Chamley, Pierre-Cyrille Hautcoeur, Larry Neal, Patrick O'Brien, Kim Oosterlinck, Eugene White, and two anonymous referees and Ann Carlos, the editor of this Journal. I also thank Arie Arnon, Robert Barsky, Jean Barthelemy, Michael Bordo, Stephen Broadberry, Rui Esteves, Sophie Guilloux-Nefussi, Christian Hellwig, Andrew Jalil, Julien Matheron, Christopher Meissner, Eric Mengus, Pierre-Guillaume Méon, Sarah Mouabbi, Nuno Palma, Xavier Ragot, Annukka Ristiniemi, Albrecht Ritschl, Hugh Rockoff, Pierre Sicsic, André Strauss, and François Velde for helpful comments. Comments from participants at the 2013 European Historical Economics Society Conference, the 2014 Economic History Society Conference, the Beta Workshop in Historical Economics, the 2014 Economic History Association Meeting, the 2015 EABH Workshop for New Scholars in Financial History, and the 2015 Workshop on Monetary and Financial History at the Federal Reserve Bank of Atlanta, and Emory University are gratefully acknowledged.

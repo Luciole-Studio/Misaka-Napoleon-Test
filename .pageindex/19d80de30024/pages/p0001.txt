@@ -1,0 +1,50 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: M1_placebos.csv
+
+```meta
+▸ table "M1_placebos.csv" (34 data rows)
+▸ columns
+    event_id: str, 17 uniq: ['america_war', 'austerlitz', 'commercial_crisis', 'elba_return', 'erfurt', 'gebora_badajoz', 'invasion_scare', 'leipzig', 'paris_abdication', 'paris_treaty', 'russia_retreat', 'russian_invasion', 'tilsit', 'trafalgar', 'wagram', 'war_resumption', 'waterloo']
+    market: str, 2 uniq: ['FR_rente_5pct', 'UK_consol_3pct']
+    absolute_proxy_return_pct: num, min=0.0391, max=25.1568
+    placebo_windows: num, min=97, max=97
+    placebo_median_absolute_return_pct: num, min=2.2936, max=2.3755
+    empirical_percentile_among_placebo: num, min=0, max=100
+    placebo_definition: str, 1 uniq: ['all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization']
+```
+event_id,market,absolute_proxy_return_pct,placebo_windows,placebo_median_absolute_return_pct,empirical_percentile_among_placebo,placebo_definition
+war_resumption,UK_consol_3pct,9.3069,97,2.2936,95.9,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+war_resumption,FR_rente_5pct,9.5204,97,2.3755,94.8,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+invasion_scare,UK_consol_3pct,0.7194,97,2.2936,15.5,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+invasion_scare,FR_rente_5pct,0.1614,97,2.3755,4.1,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+trafalgar,UK_consol_3pct,1.6878,97,2.2936,41.2,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+trafalgar,FR_rente_5pct,8.1197,97,2.3755,92.8,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+austerlitz,UK_consol_3pct,0.2049,97,2.2936,5.2,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+austerlitz,FR_rente_5pct,1.4628,97,2.3755,32.0,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+tilsit,UK_consol_3pct,2.1526,97,2.2936,47.4,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+tilsit,FR_rente_5pct,12.3782,97,2.3755,95.9,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+erfurt,UK_consol_3pct,0.5682,97,2.2936,10.3,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+erfurt,FR_rente_5pct,0.6037,97,2.3755,11.3,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+wagram,UK_consol_3pct,1.4440,97,2.2936,34.0,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+wagram,FR_rente_5pct,5.0283,97,2.3755,78.4,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+commercial_crisis,UK_consol_3pct,1.7045,97,2.2936,41.2,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+commercial_crisis,FR_rente_5pct,2.0928,97,2.3755,46.4,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+gebora_badajoz,UK_consol_3pct,1.5209,97,2.2936,37.1,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+gebora_badajoz,FR_rente_5pct,1.9722,97,2.3755,43.3,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+america_war,UK_consol_3pct,0.4415,97,2.2936,10.3,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+america_war,FR_rente_5pct,0.0391,97,2.3755,0.0,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+russian_invasion,UK_consol_3pct,7.5510,97,2.2936,94.8,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+russian_invasion,FR_rente_5pct,0.6861,97,2.3755,15.5,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+russia_retreat,UK_consol_3pct,1.4989,97,2.2936,36.1,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+russia_retreat,FR_rente_5pct,1.9893,97,2.3755,43.3,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+leipzig,UK_consol_3pct,2.1277,97,2.2936,46.4,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+leipzig,FR_rente_5pct,25.1568,97,2.3755,100.0,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+paris_abdication,UK_consol_3pct,7.5697,97,2.2936,94.8,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+paris_abdication,FR_rente_5pct,17.7145,97,2.3755,99.0,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+paris_treaty,UK_consol_3pct,0.3704,97,2.2936,9.3,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+paris_treaty,FR_rente_5pct,6.9843,97,2.3755,87.6,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+elba_return,UK_consol_3pct,10.5675,97,2.2936,95.9,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+elba_return,FR_rente_5pct,11.1227,97,2.3755,95.9,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+waterloo,UK_consol_3pct,4.4211,97,2.2936,79.4,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"
+waterloo,FR_rente_5pct,15.6109,97,2.3755,97.9,"all 2-month ends 1802-1815, exclude months within one of any named event; descriptive not randomization"

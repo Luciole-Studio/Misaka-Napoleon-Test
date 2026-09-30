@@ -1,0 +1,51 @@
+
+
+Generale
+
+- [Puntano qui](https://it.wikisource.org/wiki/Speciale:PuntanoQui/Proclama_di_Rimini)
+- [Modifiche correlate](https://it.wikisource.org/wiki/Speciale:ModificheCorrelate/Proclama_di_Rimini)
+- [Carica un file](https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=it)
+- [Link permanente](https://it.wikisource.org/w/index.php?title=Proclama_di_Rimini&oldid=3747586)
+- [Informazioni pagina](https://it.wikisource.org/w/index.php?title=Proclama_di_Rimini&action=info)
+- [Cita questo testo](https://it.wikisource.org/w/index.php?title=Speciale:Cita&page=Proclama_di_Rimini&id=3747586&wpFormIdentifier=titleform)
+- [Ottieni URL breve](https://it.wikisource.org/w/index.php?title=Speciale:UrlShortener&url=https%3A%2F%2Fit.wikisource.org%2Fwiki%2FProclama_di_Rimini)
+
+Stampa/esporta
+
+- Versione stampabile
+- [Scarica ePub](https://ws-export.wmcloud.org/?format=epub&lang=it&page=Proclama_di_Rimini)
+- [Scarica MOBI](https://ws-export.wmcloud.org/?format=mobi&lang=it&page=Proclama_di_Rimini)
+- [Scarica PDF](https://ws-export.wmcloud.org/?format=pdf&lang=it&page=Proclama_di_Rimini)
+- [Altri formati](https://ws-export.wmcloud.org/?lang=it&title=Proclama_di_Rimini)
+
+In altri progetti
+
+Aspetto
+
+sposta nella barra laterale nascondi
+
+[Scarica](https://ws-export.wmcloud.org/?format=epub&lang=it&page=Proclama_di_Rimini)
+
+Da Wikisource.
+
+Questo testo è [da formattare](https://it.wikisource.org/wiki/Aiuto:Stato_di_Avanzamento_del_Lavoro).
+
+<dc:title> Proclama di Gioacchino Murat agl’Italiani, del 30 marzo 1815 </dc:title> <dc:creator opt:role="aut">Gioacchino Murat</dc:creator> <dc:date>1815</dc:date> <dc:subject></dc:subject> <dc:rights>[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.it)</dc:rights> <dc:rights>[GFDL](https://www.gnu.org/copyleft/fdl.html)</dc:rights> <dc:relation></dc:relation> <dc:identifier>//it.wikisource.org/w/index.php?title=Proclama_di_Rimini&oldid=-</dc:identifier> <dc:revisiondatestamp>20260425212756</dc:revisiondatestamp> //it.wikisource.org/w/index.php?title=Proclama_di_Rimini&oldid=- 20260425212756
+
+Proclama di Gioacchino Murat agl’Italiani, del 30 marzo 1815 Gioacchino Murat1815
+
+Proclama di Gioacchino Murat agl’Italiani, del 30 marzo 1815
+
+[Gioacchino Murat](https://it.wikisource.org/wiki/Autore:Gioacchino_Murat)
+
+1815
+
+[Informazioni sulla fonte del testo](https://it.wikisource.org/wiki/Discussione:Proclama_di_Rimini)
+
+Proclama di Gioacchino Murat agl’Italiani, del 30 marzo 1815.
+
+Proclama Del Re Di Napoli.
+
+Italiani!
+
+L’ora è venuta che debbono compiersi gli alti vostri destini. La Provvidenza vi chiama infine ad essere una nazione indipendente. Dall’Alpi allo stretto di Scilla odasi un grido solo «L’indipendenza d’Italia!» Ed a qual titolo popoli stranieri pretendono togliervi questa indipendenza, primo diritto, e primo bene d’ogni popolo? A qual titolo signoreggiano essi le vostre più belle contrade? A qual titolo s’appropriano le vostre ricchezze per trasportarle in regioni ove non nacquero? A qual titolo finalmente vi strappano i figli, destinandogli a servire, a languire, a morire lungi dalle tombe degli avi?

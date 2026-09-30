@@ -1,0 +1,32 @@
+# SOURCES — PL｜华沙公国与波兰精英（t_b5dab4）
+
+体例：只列本卡实际读到的版本；转引层级明示；上一轮资产注原路径。凡标【转引】者未亲核原页。
+
+## A. 本轮亲读——专著与论文
+
+- **P1** Jarosław Czubaty, "Księstwo Warszawskie — pierwsze nowoczesne państwo polskie?", *Kwartalnik Historyczny* 125(2), 2018, pp.365–401. DOI 10.12775/KH.2018.125.2.04。本地 `downloads/c18_czubaty2018.pdf`（doc c60ccb20b50e；PDF页=印刷页−364）。本轮亲读PDF p1–34。摘录：`nodes/r_5b1357a9c6/cards/t_b5dab4/notes_czubaty.md`。其2011专著与2016英译（Bloomsbury, *The Duchy of Warsaw, 1807–1815*, 目录经出版社页核对：bloomsbury.com；预览PDF api.pageplace.de）未亲读全书，仅据目录与书评定位，不冒充引用正文。
+- **P2** Dominika Rychel-Mantur, "Jean-Charles Serra wobec stanu finansów Księstwa Warszawskiego w 1808 r.", *Rocznik Filozoficzny Ignatianum* 31(3), 2025. DOI 10.35765/rfi.2025.3103.15。抓取全文 `downloads/pages/12d7830a524e.md`。1808预算草案数字（21,997,700/43,027,098/22,850,770/21,029,398 złp）原出AE CP 324, 343（【转引】）；巴约讷债券结构（43,466,220+4m→20m fr；600/600/800张）。
+- **P3** Zbigniew Filipiak, "Kwaterunek wojskowy w domach prywatnych Księstwa Warszawskiego…", *Studia Iuridica Toruniensia*（UMK仓储本）。本地 `downloads/PL_umk_wojsko_skarb.pdf`（doc 2c00322bdf10，15页）。1809-01收入29m/军费25m（引Eile 1928【转引】）；1810-11-01欠款15m；Kieniewicz"炮灰"论（【转引】其《Historia Polski 1795–1918》pp.37–38）。
+- **P4** Wacław Tokarz, *Armja Królestwa Polskiego (1815–1830)*, Piotrków 1917。全文抓取 `downloads/pages/d6224d1eedd9.md`（自 obc.opole.pl/Content/9656，694k字符）。会议王国军费预算系列（1817:20.7m=34%；1818:30,949,467=过半；1826–31预算表）；1813–15俄军给养157,928,176＋89,942,911 złp；俄国月付2,127,420、累计66m；犹太人赎役制1816–19决策过程（Zajączek vs Staszic）；1831军工（枪厂/火药/硝石）；Barzykowski起义征兵引文。
+- **P5** *Memoirs of Prince Adam Czartoryski and his correspondence with Alexander I*, ed. A. Gielgud, vol. II。本地 `downloads/R1_czartoryski_memoirs_v2_real.txt`（OCR，行8086–9160亲读）。1810-12-25、1811-01-31、1812-04-01、1813-01-13亚历山大信；1811-01、1812-12、1813-04 Czartoryski信。后世编刊英译；与Vandal t.III所引同源（不互证）。摘录：`notes_czartoryski.md`。
+
+## B. 本轮亲读——法令与文书转录
+
+- **D1** 《Ustawa Konstytucyina Xięstwa Warszawskiego》(1807-07-22) art.4，pl.wikisource.org/wiki/Ustawa_Konstytucyina_Xięstwa_Warszawskiego（另iura.uj.edu.pl/Content/423转录一致）。
+- **D2** 1807-12-21《Dekret względem Rolników》arts.1–5，转录于 wydawnictwo.wsgk.com.pl/wp-content/uploads/biblioteka_pomocy/prace_geo_kart.pdf（引Dziennik Praw，【转引】）。
+- **D3** 1808-05-09征兵敕令，pl.m.wikisource.org/wiki/Dekret_dnia_9_Maia_1808_względem_konskrypcyi。
+- **D4** 1812-01-29犹太人赎役敕令全文＋1812-11-07加倍敕令，statusprawnyzydow.historia.uw.edu.pl/edycje/podatek-rekrutowy-zydowski/（华沙大学法史项目转录，注释含1808-09-07/10-17/11-19敕令定位：Ustawodawstwo Księstwa Warszawskiego t.I, s.142,148,159【转引】）。
+- **D5** M. Gałędek等，"Ograniczenia praw politycznych i cywilnych ludności żydowskiej w Księstwie Warszawskim"，DOI 10.12775/sit.2010.001（1808两敕令未刊布史；2400złp特许费；koszerne等杂税）；"Projekt urządzenia ogólnego ludności żydowskiej…1809"，presstoarch.amu.edu.pl/index.php/cph/article/download/8486/8362。
+- **D6** Handelsman, *Napoleon a Polska*（节本PDF，napoleon.org.pl/handelsman.pdf）：art.4"niewola"与poddaństwo错位评注。
+
+## C. 本轮亲读——专题研究（网络）
+
+- **E1** 公国证券史汇编《Emisje papierów wartościowych Księstwa Warszawskiego》，historycznepapiery.pl（2025-05上传PDF）。巴约讷债券系列、1810-02-03巴黎转换（19,631,500 fr）、1811 Perregaux-Laffitte借款（7,795×1,000fr实发；维利奇卡担保）、1808国内贷款、1819/1821公约债券归属。
+- **E2** "Geneza banku centralnego na ziemiach polskich"，DOI 10.17951/g.2016.63.1.41（bilety kasowe：印9m流通≤3m；Lubecki；波兰银行1828）。
+- **E3** "Legal Reforms of Agrarian Relations in the Duchy of Warsaw 1807–1809"，DOI 10.17951/sil.2022.31.1.93-123（kontyngent liwerunkowy>10%国库收入；Kalisz牛存栏；封赏地产；Senkowska-Gluck捐赠研究之引用【转引】）。
+- **E4** "The Central Liquidation Commission in the Duchy of Warsaw 1808–1812"，DOI 10.4467/20844131ks.23.034.18856（索赔300m złp口径；法军收据拒赔）。
+- **E5** M. Grabowski, *Path to Central Bank in Poland: The Duchy of Warsaw*（EUR硕士论文两版），thesis.eur.nl/pub/74598 与 /pub/75115（90%军费口径引Kowalczyk【转引】；1813关税对照；de Pradt副王级监督；亚历山大致情妇信【转引】）。
+- **E6** Przegląd Historyczny 51(3), 1960（公国内外贸易研究，bazhum.muzhp.pl镜像）：1805/6出口结构、1808/9–1809/10出口构成（Grochulska 1967专著方向的先行研究；Grochulska原卷未取得）。
+- **E7** WID.world工作论文页"Income inequality in the Duchy of Warsaw (1810/11)"（职业分级所得税）。
+- **E8** Polityka Pomocnik Historyczny "Armia Księstwa Warszawskiego: Lud doborny i bieda"（1810–11扩军数字59,200；法饷单位；莫德林"每10złp其一"）。
+- **E9** 1831起义：muzn.pl《Powstanie listopadowe 1830–1831》（57k/37k老兵口径、Kukiel 70k注）；czasopisma.uwm.edu.pl DOI 10.31648/ep.7212（41.8k→87k+；3-31野战68.9k含新编24.5k）；powstanielistopadowe.com/dzialania_parlamentu_i_wladzy_wykonawczej/15与/12、/spoleczenstwo…/5（国库资产152.1m/负债44.2m；"posiłki polskie"60m借款；1831-05-20各省建团令；献金账）。

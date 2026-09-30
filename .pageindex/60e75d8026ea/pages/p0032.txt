@@ -1,0 +1,40 @@
+    The previous analysis has also shown substantial evidence supporting the exclusion re-
+striction. This requires trade protection to affect the outcome variables of interest only
+through its effect on the size of post-blockade mechanized cotton spinning. Particularly im-
+portant in building evidence for this, are the placebo tests showing no similar effect of the
+trade cost shock on other industries, and the placebos which find no effect within mecha-
+nized cotton spinning on capital-labor ratios (no evidence on aggregate factor price shocks)
+and the quality of machines (no evidence on differential quality upgrading). According to
+these results, the trade cost shock indeed seemed to work only through increasing the size
+of mechanized cotton spinning sector.
+    Nevertheless, as it is not possible to rule out every channel via which the trade cost
+shock may effect outcomes Yit , I present both the 2SLS and the reduced form estimates
+across all specifications. Even if the exclusion restriction did not hold, the reduced form
+specifications would still identify the effect of trade protection on long run outcomes under
+the weaker assumption that the trade cost shock is uncorrelated with other determinants of
+the outcome variables of interest.
+    Tables 4 - 6 reports the results from estimating the long-run effects. Across the different
+tables, the sample size is different for a number of reasons, including changes in territory and
+missing observations for the control variables. Relative to the short-run analysis, the sample
+is reduced in size because France lost all territorial gains made throughout the period 1793-
+1815. In every instance, I have chosen the largest possible sample on which to estimate the
+effects of interest instead of limiting the analysis to a significantly smaller, but consistent
+sample. I report two types of standard errors; Huber-White robust standard errors are
+reported in parentheses, while standard errors clustered at the level of généralités are reported
+in curly brackets.
+    I begin by estimating persistence in the location of mechanized cotton spinning. Figure 4
+visualizes the spatial distribution of spindles per thousand inhabitants across the departments
+for the two time periods which I examine, 1840 and 1887. One of the most striking aspects of
+the evolution of spinning capacity over time is the almost complete decline of cotton spinning
+in the more southern departments. As more northern departments kept increasing their
+spinning capacity throughout the 19th century, southern departments not only stagnated,
+but actually shrank in absolute size.43 This is the strongest evidence against an alternative
+  43
+    Depending on the size of internal trade costs, a less competitive mechanized spinning sector in southern
+departments may either survive or decline in the long-run according to the infant industry model. Internal
+transportation costs in France were falling throughout the 19th century (Combes et al., 2011) because of
+innovations such as the railroad. It is therefore plausible that less competitive regions which managed to
+
+
+
+                                                    32

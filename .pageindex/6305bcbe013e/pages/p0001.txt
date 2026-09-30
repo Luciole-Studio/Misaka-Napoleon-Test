@@ -1,0 +1,38 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/commons/1808/mar/03/liverpool-petition-respecting-the-orders"
+final_url: "https://api.parliament.uk/historic-hansard/commons/1808/mar/03/liverpool-petition-respecting-the-orders"
+sha256: "537b7ee4e778ce805d80a9181b8b79114ff1ce073431c2df7ab91fb7380d6aa6"
+text_sha256: "37b7e6f90f1ca618b070a17b6ba63884d361954ea386aeda1c070b38d48deb73"
+title: "LIVERPOOL PETITION RESPECTING THE ORDERS IN COUNCIL BILL. (Hansard, 3 March 1808)"
+---
+
+Title: LIVERPOOL PETITION RESPECTING THE ORDERS IN COUNCIL BILL. (Hansard, 3 March 1808)
+
+[Search Help](https://api.parliament.uk/historic-hansard/search)
+
+[HANSARD 1803–2005](https://api.parliament.uk/historic-hansard/index.html)
+→
+[1800s](https://api.parliament.uk/historic-hansard/sittings/1800s)
+→
+[1808](https://api.parliament.uk/historic-hansard/sittings/1808/)
+→
+[March 1808](https://api.parliament.uk/historic-hansard/sittings/1808/mar/)
+→
+[3 March 1808](https://api.parliament.uk/historic-hansard/sittings/1808/mar/03)
+
+→
+[Commons Sitting](https://api.parliament.uk/historic-hansard/sittings/1808/mar/03#commons)
+
+# LIVERPOOL PETITION RESPECTING THE ORDERS IN COUNCIL BILL.
+
+HC Deb 03 March 1808 vol 10 cc889-95 [889](https://api.parliament.uk/historic-hansard/commons/1808/mar/03/liverpool-petition-respecting-the-orders#column_889)
+
+[§](https://api.parliament.uk/historic-hansard/commons/1808/mar/03/liverpool-petition-respecting-the-orders#S1V0010P0_18080303_HOC_20) [General Gascoyne](https://api.parliament.uk/historic-hansard/people/mr-isaac-gascoyne)
+
+presented a Petition from the Merchants of Liverpool against the Orders in Council bill. He said he was sensible of the readiness with which parliament and ministers attended to the petitions of the people, and the high respectability of the Liverpool merchants would, he was persuaded, obtain for them all due attention. He was aware that the forms of parliament might operate against his motion for receiving the present petition, and he was far, from wishing for any departure from its rules. The petition, however, did not go to oppose the duties, but the spirit of the bill, while it expressed apprehensions that from the nature of the warfare, we might lose much, and the enemy gain. Liverpool at present possessed three-fourths of the trade with America; and the disbursements amounted to 150,000l. annually for the last three years. Front bearing so great a portion, Liverpool would be most particularly affected; and he therefore hoped there would be no objection to receiving the petition against the present bill.
+
+[§](https://api.parliament.uk/historic-hansard/commons/1808/mar/03/liverpool-petition-respecting-the-orders#S1V0010P0_18080303_HOC_21) [The Speaker](https://api.parliament.uk/historic-hansard/people/baron-charles-abbot)
+
+asked if the Petition was against the bill which provided certain duties under the Orders in Council?
+
+[§](https://api.parliament.uk/historic-hansard/commons/1808/mar/03/liverpool-petition-respecting-the-orders#S1V0010P0_18080303_HOC_22) [General Gascoyne](https://api.parliament.uk/historic-hansard/people/mr-isaac-gascoyne)

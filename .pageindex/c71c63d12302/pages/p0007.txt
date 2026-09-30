@@ -1,0 +1,41 @@
+
+
+> "the Blockade had its greatest impact on British foreign trade when periods of comparatively strict customs control on the Continent **coincided with a rupture in Anglo-American relations**. Again this was the case in 1810-12, as it had been during the first half of 1808, before the general laxity which set in later that year and especially during 1809."（同上 印p.203）
+
+**本卡对两条法则的推演（中高置信）**：
+- 合取条件 **C＝（大陆严格控制）∧（英美断裂）**。1803–1814年间C只成立过两段：1808年上半年、1810–12年。**法国只能生产合取式的一半**；另一半由伦敦（枢密令）与华盛顿（禁运／非交往法／1812战争）共同决定。
+- 由此得到**本项目最重要的政策推论之一**：**S3（绞杀版封锁）的效力峰值需要和平，而S4／对俄战争／半岛战争都在直接消耗它。** 1812年把30,750人边境旅所守的体系交给一场60万人的东征，等于在效力函数的两个自变量上同时取最差值。
+
+### 6.4 能力上限的**空间**形式：可守线与不可守线
+
+| 线 | 观测保费 | 地形判词 |
+|---|---|---|
+| 莱茵河（荷兰边界—巴塞尔，≈700km，3,200人，4.57人/km）| 26%→50% | 河流为天然线；Rowe：河比贝格东界"far more viable as a customs frontier **in policing terms**" |
+| Rees–Bremen（1809-07-18设）| **6–8%** | "devoid of any major natural obstacles" |
+| 阿尔萨斯—瑞士—巴登段 | 走私"more or less ubiquitous" | Crouzet：走私**沿内陆边界比沿海边界更活跃**（*Économie britannique* i.139，转引自Ellis 1981 印p.203）；原因＝次级道路网、河岛、林地山地，以及法兰克福、达姆施塔特、曼海姆、海德堡、拉施塔特、凯尔、奥芬堡、拉尔，**尤其是巴塞尔**这一串境外转口地 |
+| 北海—波罗的海岸 | 1810–12最严，但黑尔戈兰/哥德堡仍在 | 岸线破碎；不来梅"amphibious nature of the coast"（Vandal语，转引自Heckscher 印p.190）|
+
+**MODEL｜可守性判据**：一条线可被推到高保费，当且仅当（i）有连续天然障碍或单一渡口结构，（ii）两侧无近距境外转口地，（iii）本地产业利益与禁令同向。莱茵线满足(i)(ii)部分、萨克森满足(iii)；Rees–Bremen三项全不满足。**这条判据比"每公里多少人"更能预测执行绩效。**
+
+---
+
+## §7（⑥）军事：海关作为准军事组织，以及军队作为走私者
+
+【锚点】海关被Clinquart（经AHAD转述）称为"une armée parallèle"；1810年拿破仑即要达武拟"把海关旅置于其麾下"的方案，1812年令Mathieu Dumas 说服 Collin de Sussy 起草**把35,000名海关人员组成武装力量**的法案，"ce projet resta à l'état d'embryon"。1813-08-17 达武下令以吕讷堡总监区人员编成两个800–900人营（第2帝国海关团，含步兵、一个骑兵中队、一个炮兵连乃至一支水上分队）；另有以布洛涅至巴约讷11个总监区 **10,685名 préposés** 编成19个不等员额营的方案（AHAD `downloads/pages/c829da0ae0b4.md`）。
+【锚点】反向：军人参与走私。协助缉私的士兵领取缉获提成，结果"les soldats se faisant fraudeurs"；莱茵河上**七名将军**参与运送违禁品；Georgeon将军娶入科隆粮食走私家族并用宪兵职权协助（Rowe 印pp.192–193）。符腾堡国王"even appears to have had fraudsters acting on his account"（Rowe 印p.194）。
+
+【推演·中】在S5（和平固化）下，海关旅的军事化会**完成**而非流产：35,000人的准军事边防军在和平期是**便宜的**（对照F2卡：法国常备40–45万在册，每兵年600–700法郎；海关员500法郎且不需马炮），且能吸收退伍军人。**这是S5下帝国最可能出现的新制度物种：一支不进攻、不会造反、按里程布防的经济边防军**——其1815年后的欧洲同类是普鲁士关税同盟的 *Grenzaufseher* 与奥地利的 *Finanzwache*。
+【推演·中低】同一支力量在S3下会被战争抽空：1813年的实际结局就是海关员被编成营去打野战。
+
+---
+
+## §8（⑦）社会结构与阶层：**租金分配账**
+
+### 8.1 谁拿到租金（【锚点】＋【MODEL】）
+
+**（a）法国国库与皇帝私库。** 特里亚农起至1811年底海关 **105.9百万**；1810年剩余月份拍卖 **≈150百万**；荷尔斯泰因一役 **42.5百万**；法兰克福一役 **9百万**；贿赂收归的 Clérembault 50万＋拟收 Bourrienne 200万、Lachevardière 50万。**但这些是存量清算而非流量税**。
+
+**（b）许可证持有人，其地理分布极度不均。** 1809–10年"ancien système"许可证中**波尔多独得三分之一以上**，利沃诺**一张未得**；1810年后的欧洲贸易许可证波尔多为利沃诺的2倍、汉堡的4倍；1810年恢复对美贸易的航行许可 **波尔多620、汉堡5、利沃诺1**（Marzagalli 1996 p.68）。许可证价：早期 30–40 napoleons（600–800法郎），汉萨出口证 800法郎＋小麦每吨30法郎／黑麦每吨15法郎"was regarded as cheap"，**自英进口殖民品的许可证高达300 napoleons ＝ 6,000法郎**（Heckscher 印p.216；AHAD同记6,000法郎上限）。MODEL：若年发2,000张、均价800法郎，得 **1.6百万法郎**；若2,000张按6,000法郎，得 **12百万**——**许可证费本身不是大钱；大钱是持证者赚到的垄断利润。**
+
+**（c）走私业的资本层。** 枫丹白露敕令自己把这个行业分了层：`entrepreneurs / assureurs / intéressés / chefs de bande, directeurs et conducteurs / simples porteurs`——Heckscher评为"a complete hierarchy ranging downwards from the directors of the smuggling enterprises through the capitalists and officials to the unskilled workers"（印p.194）。而**风险分配与收益分配完全相反**：南锡海关法庭被审者中 **68.5%是较贫困者**（临时工、贫困工匠），**商人仅6.34%**，船夫／车夫／酒馆主合计略超10%（Rowe 印p.193，据Betrand档案研究）；Marzagalli：站在这些活动背后的商人"were almost never arrested"（p.70）。
+**单项租金量级**：科隆一城一项商品——1811-12-04特别警务委员报告估计年经该城非法输入烟草 **逾100万公斤**；左岸帝国烟草3法郎/公斤、右岸16苏/公斤，每公斤差 **44苏＝2.20法郎**，**全年潜在利润220万法郎**；同期农业雇工日薪约 **1.50法郎**（Rowe 印p.197）→ 折 **约146万个农工日**。

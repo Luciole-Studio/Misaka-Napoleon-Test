@@ -1,0 +1,136 @@
+<!-- xlsx readout. Sheet metadata is gathered once per sheet in a ```meta fence (parser-added, not file content); each category opens with a ▸ line. A backtick span marks a per-cell note. The grid's first row is column letters and its first column is row numbers, both real coordinates; cells are separated by tabs. Homogeneous formula fills are grouped as R1C1. Dates are ISO. `uncached` means the file carries a formula whose cached result is empty. Re-read part of a sheet with cell_range="<sheet>!A1:..". -->
+
+## Sheet: Front page
+
+`data region 1: B30:B180`
+	B
+30	CONTENTS
+32	ANNUAL DATA 1086-2016
+34	I     UK macroeconomic time series 1086-2016
+35	A1. Headline Annual Composite Series
+37	Detailed worksheets are organised in sections below
+39	II       British Economic Growth 1270-1870 dataset
+40	Table of contents
+41	A2. Population of England and Great Britain 1086-1870
+42	A3. English Agriculture 1270-1870
+43	A4. Industrial production 1270-1870
+44	A5. Service sector production 1270-1870
+45	A6. English GDP(O) 1086-1700
+46	A7. Great Britain GDP(O) 1700-1870
+48	III     UK and Irish National Accounts 1700-2016
+49	Notes on GDP estimates
+50	A8. Real compromise/balanced estimates of UK GDP - 'GDP(A)',1700-2016
+51	A9. Nominal compromise/balanced estimates of UK GDP - 'GDP(A)', 1700-2016 
+52	A10. GDP, GNI and National Saving 1816-2016
+53	A11. GDP(E) components 1830-2016- values
+54	A12. GDP(E) components 1830-2016 - volumes
+55	A13. Component contributions to real GDP(E) growth 1830-2016
+56	A14. GDP(O) components 1700-2016
+57	A15. Factor incomes by industry 1920-2015
+58	A16. Industry GVA shares 1381-2015
+59	A17. GDP(I) components 1855-2016 (provisionally updated for ESA10 revisions)
+61	IV    Population and GDP per capita 1086-2016
+62	A18. Population of the UK, GB and Ireland 1680-2016
+63	A19a. UK Migration flows 1855-2016
+64	A19b. British and Irish Migration flows 1855-1920
+65	A19c. English net migration flows 1541-1870
+66	A20. UK Migration flows by citizenship 1855-2016
+67	A21. Summary of Population and GDP per capita 1086-2016
+69	V    Money and credit quantities 1086-2016
+70	A22. Estimates of coin in circulation 1086-2016
+71	A23. Bank of England Balance sheet 1696-2016
+72	A24. Monetary aggregates 1270-2016
+73	A25. Credit aggregates 1880-2016
+74	A25a. The stock of commercial bills of exchange 1790-2016
+76	VI    Fiscal data 1290-2016
+77	A26. Central government revenues 1263-1691
+78	A27. Central Government/Exchequer Expenditure, Receipts and Borrowing 1688-2016
+79	A28. Public Sector Borrowing 1900-2016
+80	A28a. Breakdown of current and capital spending 1855-2016
+81	A29. The National and Public Sector Debt - nominal par values 1688-2016
+82	A30a. Market values of Government Debt summary 1727-2016
+83	A30b. Market values of Government Debt  with breakdown 1900-2016
+84	A30c. Estimated capital values of terminable annuities 1694-1836
+86	VII    Interest rates, asset prices and exchange rates
+87	A31. Interest rates, inflation expectations and asset prices 1694-2016
+88	A32. Property prices and rent 1845-2016
+89	A33. Exchange rate data 1791-2016
+91	VIII  Aggregate Trade volumes and values
+92	A34a. Export volumes 1280-1701
+93	A34b. Import volumes based on 'official values' of trade 1560-1701
+94	A34c. Trade volumes based on 'official values' of trade 1697-1804
+95	A35. Trade volumes and prices summary 1280-2016
+96	A36. Trade values and the current account 1772-2016
+98	IX  Breakdown of trade and net external assets
+99	A37a. Geographical and commodity breakdown of London trade 1560-1640
+100	A37b. Geographical and commodity breakdown of London/English trade 1663-1701
+101	A38. Geographical and commodity breakdown of English trade 1699-1774
+102	A39. Commodity breakdown of GB/UK trade 1774-2016
+103	A40. Geographical breakdown of GB/UK trade by region 1710-1822 based on official values
+104	A41. Geographical breakdown of GB/UK trade by region 1784-2015
+105	A42. Shares of GB/UK trade with major regions summary 1663-2015
+106	A43. Geographical breakdown of UK trade with EU and other major trade groups, 1854-2015
+107	A44. Geographical breakdown of UK trade by individual country, 1854-2015
+108	A45. UK shares of world trade for manufacturing,  merchandise and services 1850-2016
+109	A46. Estimates of UK net external assets 1815-2016
+111	X   Wages, Prices and Inflation
+112	A47. Nominal wages and prices 1209-2016
+113	A48. Real wages and earnings 1209-2016
+115	XI   Labour market quantities
+116	A49. Employment and unemployment in Great Britain 1700-1860
+117	A50. UK Employment and unemployment 1855-2016
+118	A51. Public Sector Employment and Armed Forces 1690-2016
+119	A52a. Wages, salaries and compensation 1855-1920
+120	A52b. Union membership, replacement ratios and other statistics, 1850-2016
+121	A53. Employment by industry 1381-2016
+122	A54. Hours worked 1260-2016
+124	XII   Capital stock and productivity
+125	A55. Capital stock 1760-2016
+126	A56. Total Factor and Labour Productivity 1760-2016
+128	XIII  Sector income and financial accounts 
+129	A57. Household income, wealth and saving 1855-2016
+130	A58. Flow of Funds by sector 1952-1970
+131	A59. Financial accounts 1963-1996 organised by sector, pre-ESA95
+132	A60. Financial accounts 1963-1996 organised by instrument, pre-ESA95
+133	A61. Financial accounts by sector and instrument, ESA10 basis 1987-2016
+135	XIV   Sector balance sheets 
+136	A62. The Wealth of the Nation 1900-1948
+137	A63. Personal Sector Wealth 1920-1956
+138	A64a. Detailed sector balance sheets 1957-1966
+139	A64b. Sector balance sheets 1957-2006 
+140	A65. Personal Sector Financial and Tangible Wealth - Summary 1920-2016
+141	A66. Sector balance sheets 1987-2016, ESA10 basis
+143	QUARTERLY DATA
+144	Q1. Headline Quarterly series 1694-2016 (includes quarterly conversions of the monthly headline series)
+145	Q2. Quarterly GDP data with expenditure breakdown 1920-2016
+146	Q3. Quarterly break-adjusted and seasonally-adjusted monetary aggregates 1870-2016
+147	Q4. Corporate borrowing rates from banks 1977-2016
+148	Q5. Quarterly ERI indices 1920-1938
+149	Q6. Quarterly labour market quantities 1924-2016
+150	Q7. Quarterly inflation expectations 1965-2016
+152	MONTHLY DATA
+153	M1. Headline Monthly Series
+154	M2. Monthly activity indicators and unemployment 1846-2016
+155	M3. Monthly GDP 1920-1938
+156	M4. Monthly industrial production 1920-2016
+157	M5. Monthly labour market data 1881-2016
+158	M6. Monthly prices and wages 1790-2016
+159	M7. Monthly monetary aggregates 1870-2016
+160	M8. Monthly credit aggregates 1921-2016
+161	M9. Monthly short-term interest rates 1694-2016
+162	M10. Monthly long-term interest rates 1753-2016
+163	M11. Monthly corporate bond yields 1854-2016
+164	M12. Monthly household borrowing rates from banks and building societies 1939-2016
+165	M13. Monthly share prices 1709-2016
+166	M14. Monthly bilateral exchange rates and sterling ERI 1963-2016
+167	M15. Monthly dollar-sterling exchange rate 1791-2016
+169	WEEKLY DATA
+170	W1. Weekly Balance Sheet of Issue Department of the Bank of England 1844-2006
+171	W2. Weekly Balance Sheet of Banking Department of the Bank of England 1844-2006
+173	DAILY DATA
+174	D1. Official interest rates since 1830
+175	D2. Daily bilateral £ exchange rates since 1975
+176	D3. Daily £ ERI since 1975
+178	Updates, corrections and previous versions of the spreadsheet
+179	What's new in version 3.1 ?
+180	Previous version 2.3 of the spreadsheet

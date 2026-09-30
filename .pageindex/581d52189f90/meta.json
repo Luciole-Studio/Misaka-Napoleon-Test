@@ -1,0 +1,16 @@
+{
+  "doc_id": "581d52189f90",
+  "title": "[t_b1a536] nodes/r_5b1357a9c6/cards/t_b1a536/F3_historical_anchors.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_b1a536/F3_historical_anchors.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_b1a536/F3_historical_anchors.csv"
+  ],
+  "sha256": "581d52189f9005332f33b62d9e30ce26a796949535e1df1da69098d6cd18172e",
+  "pages": 1,
+  "task_id": "t_b1a536",
+  "task_ids": [
+    "t_b1a536"
+  ],
+  "added_at": 1790158547,
+  "office_format": "csv"
+}

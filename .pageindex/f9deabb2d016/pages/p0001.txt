@@ -1,0 +1,42 @@
+# SOURCES.md — R3 · 俄国军队（t_2c3192）
+
+## 一、本轮实际取得并亲读的承重来源
+
+### S1 Lieven（本卡第一承重）
+Dominic Lieven, *Russia Against Napoleon: The True Story of the Campaigns of War and Peace*, Viking Adult, First American ed., New York, 2010.
+- 取得：Anna's Archive，EPUB，md5 `eb0222af5482cfb2b6afd837fb24a3e1`，本地 `downloads/Lieven_Russia_Against_Napoleon__eb0222af5482.epub`（校验通过）。
+- 转换：`downloads/R3_lieven_full.txt`（70分片，160万字符）；**EPUB无印刷页码**，全部引用以"章＋转换文本行号"定位，行号→章映射记于 notes_lieven.md 头部。
+- 实读范围：ch1–2、ch3–10关键节（按行号索引通读约60段），摘录见 notes_lieven.md（A–O节）、notes_misc.md（D节）。
+- 性质：2009/2010年学术专著，作者六次赴RGVIA（Fond 1征兵、103给养、125后备军、489团人事）；史学立场为"纠正英法中心叙事、强调俄国组织能力"。上一轮只有其书评（Esdaile/Hosking），本轮补齐正文——**上一轮"Lieven未读"缺口关闭**。
+
+### S2 Keep
+John L. H. Keep, *Soldiers of the Tsar: Army and Society in Russia, 1462–1874*, Clarendon Press/Oxford UP, 1985.
+- 取得：Anna's Archive，PDF，md5 `1956f5924f0099fc1b2d11d22c727e1b`，本地 `downloads/Keep_Soldiers_of_the_Tsar__1956f5924f00.pdf`；doc_id `1b4e36cd81ce`。
+- 实读：ch7（Recruitment, pp.145–151全读+其余浏览）、ch8开头（pp.177–180）、ch12（Military Settlements, pp.275–289）、ch13（Resistance, pp.296–299）、ch14节选（Marking Time, pp.323–327）。摘录见 notes_keep.md、notes_misc.md B节。
+- 性质：西方社会军事史标准专著；其数据多转引Shchepetil'nikov（СВМ官修）、Beskrovnyy、Aleksandrov——**这些俄/苏统计是二手转引，未亲读底本**，已在正文标注。
+
+### S3 Riehn
+Richard K. Riehn, *1812: Napoleon's Russian Campaign*, McGraw-Hill, New York, 1990.
+- 取得：Anna's Archive，PDF，md5 `3d31d582bae39cfaf48566fbe5dc1194`，本地 `downloads/Riehn_1812__3d31d582bae3.pdf`；doc_id `aa769218b664`。
+- 实读：ch6（The Russian Army, 印刷pp.83–91全读）、ch8节选（Russian Logistics, pp.153–154）、附录VI（Cossack Army, pp.447–448）。摘录见 notes_riehn.md、notes_misc.md C节。
+- 性质：编制-动员专题研究；其总表转引Zhuravsky（经Stein），Riehn本人对财政口径的批判性复核是本卡"四集合"框架的直接来源。**上一轮"Riehn正文未取得"缺口关闭**。
+
+### S4 Bogdanovich（1859，网络加工本；上一轮缓存复用+本轮补读）
+М. И. Богданович, «История Отечественной войны 1812 года по достоверным источникам», т.I, 1859；LitObr 2021加工本。
+- 缓存：`downloads/pages/8f2c112edf2d.md`（卷I章III военные приготовления）、`289211c6dcdf.md`（章II）。本轮补读行30/68–74/151/186–196/218–222。
+- 性质：帝国官修军事史，护皇修辞强；编制与部署数字为"著作所报"待冻结值（其网页表格有已知合计错误，上一轮E7已标）；本卡仅用其编制/部署/征兵率三类数字并与Riehn/Lieven互校。
+
+### S5 上一轮t_26cd47已核证据（复用，注原路径）
+- Nesselrode 1811年10月备忘录（Vandal III附录III，`downloads/c12_vandal3_full.txt`行20965–21287）；
+- Clausewitz, *The Campaign of 1812 in Russia*, London: Murray, 1843英译（`downloads/pages/6635f608e21d.md`），pp.256–259停线批判；
+- Caulaincourt英文节编（Libaire编，1935，`downloads/pages/eed9ab647f9a.md`）pp.4–7、73–81；
+- van Creveld, *Supplying War*（1977）pp.61–70（`downloads/pages/5b7b985b0f78.md`）；
+- 波兰动员研究：Nawrot 2018（`9af33326aacf.md`）、Madziar 2016（`ce13bc8c21a9.md`）；
+- 布加勒斯特：Lepăr 2015（`45dd82f748a7.md`）；Åbo：Gerasimova 2013（`b1d3de43f219.md`）；
+- 书评：Esdaile 2009（`a5b15e70c82c.md`）、Hosking LRB（`83fff8e6b841.md`）；Rey EHNE（`5e89d50c1e0b.md`）；
+- Speransky 1811报告转录（`56a23915a69c.md`）。
+以上引用一律标"t_26cd47"+原证据号；本卡不重复验证、不计为新独立来源。
+
+### S6 兄弟卡资产
+- R2 t_29957a：Crosby 1965（`downloads/R2_Crosby1965.pdf`）、Davey 2009（`downloads/R2_Davey2009.pdf`）、纸卢布汇率与贸易口径笔记——财政-贸易侧引用其结论不重算。
+- F2 t_0e763d：法军供需模型（S2/S5/S6档）——本卡S6推演引用其缺口数。

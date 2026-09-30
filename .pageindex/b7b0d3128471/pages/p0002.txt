@@ -1,0 +1,31 @@
+
+
+## D. Ried条约（1813-10-08）全文
+
+来源D1：de.wikisource「Rieder-Vertrag vom 8. October 1813」，底本G.M. Kletke《Die Staats-Verträge des Königreichs Bayern…von 1806 bis 1858》(Pustet 1860)，德法双栏；文末标注「Martens recueil des principaux traités T. Supp. V. pag. 612」。保存 `downloads/pages/c7e7b21e85be.md`。
+来源D2：Haus der Bayerischen Geschichte门户对象页（藏件：München, Bayerisches Hauptstaatsarchiv；参考文献列Weis Montgelas Bd.2），保存 `downloads/pages/6fc5e566ba0b.md`。
+【事实｜公开条款】
+- Art.1 永久和平友谊；商务关系恢复战前状态。
+- Art.2 同盟目的＝恢复保障各国独立与安宁的欧洲秩序；„Bayern entsagt demnach der Verbindung mit der rheinischen Conföderation"（巴伐利亚脱离莱茵邦联），军队立即与盟军会合。
+- Art.4 奥皇以自己及盟国名义向巴伐利亚国王担保其开战前所据一切邦土、城市、领地与要塞的自由安宁占有与完全主权（volle Souveränetät）。
+- Art.5 巴军编入盟军但不得被拆散，整体成军、由巴伐利亚将领直接指挥；本土受威胁时可无碍回援。
+- Art.10 双方不单独与法国媾和、不单独听取法方任何提议。
+【事实｜秘密条款（法文本）】
+- 秘密Art.5: 奥地利常年在野战保持至少150,000人，巴伐利亚至少36,000人（要塞守军不计），并尽力增加。
+- 秘密Art.7: 蒂罗尔向奥军开放；巴军无力防守巴属蒂罗尔时，奥军可进至一切巴伐利亚利益所需之处。
+- 秘密Art.9: 若巴伐利亚愿与英国达成安排，奥地利愿意斡旋。
+- 秘密Art.10: 奥地利承诺促使俄普两君以正式加入与担保文书承认公开与秘密全部条款。
+- 秘密Art.11: 秘密条款效力等同公开条款。
+【事实｜D2转述（HdBG，参考Weis）】未来领土让与只能以等值补偿为条件（后续1814/16巴伐利亚以蒂罗尔、萨尔茨堡换维尔茨堡、阿沙芬堡与莱茵普法尔茨）。
+【推断｜本卡】Ried机制＝"奥地利担保替代法国担保"：只要奥地利拒绝担保巴伐利亚吞并所得（1805–1809年奥地利正是被兼并的输家），慕尼黑的最优解仍是法国同盟；一旦奥地利愿意开出等值担保且法国保护可信度崩溃（1812–13），转向即成为占优策略。忠诚的粘合剂是奥巴领土对立＋法国胜利概率，二者缺一不可。
+
+## E. 蒂罗尔（1805–1810）
+
+来源E1：napoleon.org研究文章「Andreas Hofer and the insurrection in the Tyrol, 1809」，保存 `downloads/pages/1ee80b7507ce.md`（待细读摘录）。
+来源E2：habsburger.net「Resistance in the 'holy land' of Tyrol」，保存 `downloads/pages/9a69563ae505.md`（待细读摘录）。
+（细节摘录见 notes_tyrol_wurtt_baden.md）
+
+## F. 1812俄国远征与兵力口径
+
+【事实｜D2/HdBG】"Ungefähr 33 000 bayerische Soldaten müssen am Russlandfeldzug Napoleons teilnehmen"（约33,000巴军参加1812远征）。与Grab p.104一致（33,000）。
+【口径】莱茵邦联1806创始约第38条战时配额：巴伐利亚30,000（上一轮已核法德两转录，rhine_notes.md §1.3——法国200,000、符腾堡12,000、巴登8,000，德意志创始成员合计63,000）；1808年邦联整体对法承诺126,000（Grab p.94）。30,000＝条约义务；33,000＝1812实际出兵（不同口径不得混用）。

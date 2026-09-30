@@ -1,0 +1,39 @@
+       Temporary Protection and Technology Adoption:
+          Evidence from the Napoleonic Blockade
+                                            Réka Juhász∗
+                                         Columbia University
+                                             April 2, 2018
+
+
+                                                Abstract
+          This paper uses a natural experiment to estimate the causal effect of temporary
+       trade protection on long-term economic development. I find that regions in the French
+       Empire which became better protected from trade with the British for exogenous rea-
+       sons during the Napoleonic Wars (1803-15) increased capacity in mechanized cotton
+       spinning to a larger extent than regions which remained more exposed to trade. In
+       the long-run, regions with exogenously higher spinning capacity had higher activity in
+       mechanized cotton spinning. They also had higher value-added per capita in industry
+       up to the second half of the 19th century, but not later.
+
+
+JEL code: F13, F63, O14
+Keywords: Infant industry, Industrialization, Technology Adoption
+
+
+
+
+   ∗
+     I thank my advisors Silvana Tenreyro and Steve Pischke for their continued guidance and support. My
+thesis examiners, Thierry Mayer and John Van Reenen, provided extensive feedback that has improved
+the paper significantly. I am grateful to Andy Bernard, Tim Besley, Esther Bøler, Francesco Caselli, Alex
+Clymo, Nick Crafts, Jeremiah Dittmar, Swati Dhingra, Dave Donaldson, Knick Harley, Ethan Ilzetzki, Balázs
+Muraközy, Gianmarco Ottaviano, Joel Mokyr, Michael Peters, Steve Redding, Esteban Rossi-Hansberg,
+Daniel Sturm, David Weinstein and seminar participants for helpful comments and suggestions. Financial
+support from STICERD and CEP is gratefully acknowledged. I thank Pierre-Philippe Combes, Guillaume
+Daudin, Alan Fernihough, Ömer Özak, Peter Solar, Anna Valero, Gilles Postel-Vinay, and EURO-FRIEND
+for kindly sharing data. I am grateful to Lili Szabó, Jérémy Hervelin, Gábor Szakács and Yue Yu for excellent
+research assistance. Contact: rj2446@columbia.edu. The author declares that they have no relevant or
+material financial interests that relate to the research described in this paper.
+
+
+                                                     1

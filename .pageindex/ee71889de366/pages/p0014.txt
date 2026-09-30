@@ -1,0 +1,17 @@
+
+
+### Robustness Checks
+
+A series of robustness checks further corroborates the validity of our results. First, we investigate whether our results are robust to the substitution of ruggedness for an alternative measure of geographical characteristics (Online Appendix F.1.1)Footnote 38 : a department’s average slope (and its natural log). The results are entirely consistent with those of our baseline specification. We also perform a zero-skewness Box-Cox power transformation on our ruggedness variable. This is an alternative method to taking the natural logarithm to mitigate the skewness in our measure of terrain ruggedness. We find that the estimated positive effect of geographical characteristics on draft evasion is robust across all these strategies.Footnote 39
+
+A department’s draft dodging rate may be affected by its neighbors’ geographical and environmental characteristics. We generate buffers 30 km deep around each department and then calculate the average terrain ruggedness for these modified polygons to account for this possibility. The results (Table 14 in Online Appendix F.1.3) are consistent with those of our baseline specification and significant at the same thresholds. In fact, they are larger than those in Table 1.
+
+We also investigate whether our results are robust to excluding influential observations (Online Appendix F.2). We run the same regressions as in Table 1 while removing the ten most and least rugged departments. Finally, we follow Belsley, Kuh, and Welsch (Reference Belsley, Kuh and Welsch2005) by omitting all observations for which $|DFBETA| > \sqrt 2 /N$ , where N is the number of observations and where DFBETA is a measure of the difference in the estimated coefficient for the ruggedness coefficient (scaled by the standard error) when including and excluding from the sample. When we replicate our baseline specifications using this method, the resulting coefficients remain positive and statistically significant.
+
+Finally, we investigate whether the relationship between draft evasion and our geographic characteristics is robust to the control of variables such as national identity, adherence to the revolutionary ideology, legal origins, Footnote 40 and the allocation of soldiers to different theaters of war (Online Appendix G). The results of these robustness tests, all of which support our findings, are discussed in the Online Appendix.
+
+### Case Study: Haute-Vienne
+
+One potential criticism of our approach is that geographical features like terrain ruggedness may affect a department’s draft dodging rate indirectly, for instance, via its effect on unobserved social, economic, and cultural characteristics. To mitigate such concerns, we replicate our empirical strategy as expressed in Equation (1) but for just one region of France—the department of Haute-Vienne.
+
+Unlike our cross-departmental data, the Haute-Vienne data includes measures both for domestic draft dodging and for desertion while serving on the front-line outside of France in 1807. Suppose our hypothesis is correct and ruggedness affects draft dodging chiefly via its effect on the ability of the government to enforce conscription. In that case, a canton’s average terrain ruggedness should be positively correlated with draft dodging rates within the canton but not with the desertion rate among people from the same canton after they have joined their military units. Footnote 41

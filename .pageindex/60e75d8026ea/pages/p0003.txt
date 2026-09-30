@@ -1,0 +1,37 @@
+smaller extent, as trade routes stayed more or less the same. By comparing regions which
+received a smaller or larger shock, it is possible to empirically evaluate the predictions of the
+infant industry argument.
+    The industry examined is mechanized cotton spinning. This was one of the fastest grow-
+ing and most innovative sectors in the 19th century, playing a key role in the First Industrial
+Revolution and contributing 25 percent to overall TFP growth in British industry between
+1780 and 1860 (Crafts, 1985). Both Hamilton and List advocated for infant industry protec-
+tion for the nascent cotton industries in the US and Germany respectively (Hamilton, 1791;
+List, 1856).
+    A number of features of the industry in early nineteenth century France make it particu-
+larly well-suited to examining the effects of infant industry protection. First, the technology,
+invented and developed in Britain in the late 18th century, was initially not adopted on a
+wide scale in France, a country with an initially similar cotton industry. By the beginning
+of the Napoleonic Wars, the French were not competitive in mechanized cotton spinning.
+    Second, the machines were cheap and depreciated fast meaning that the long-term results
+cannot be driven by the gradual depletion of a one-time investment. Finally, this was the first
+industry to mechanize and adopt modern, factory-based production methods. Differently to
+traditional cottage industry, modern production methods are generally thought to exhibit
+the types of increasing returns to scale inherent to infant industry mechanisms. This aspect
+of the setting is helpful, as infant industry mechanisms may be present in mechanized cotton
+spinning, but not in most other sectors in early 19th century France, as these only switched
+to factory-based production methods later.
+    I estimate the causal effect of temporary protection in two steps. First, I ask whether
+trade protection was an important driver of the adoption of mechanized cotton-spinning tech-
+nology in the short-run, during the disruption to trade. This would be the case if protection
+rendered profitable previously unprofitable locations by increasing the price of competing
+imported British yarn. Second, I examine effects in the long-run, after the disruption to
+trade ended. If temporary protection was successful in changing the long-term profitabil-
+ity of production in a given location through agglomeration economies, we would expect to
+find persistence in the location of mechanized cotton-spinning activity. In addition, I exam-
+ine whether adoption of frontier technology in mechanized cotton spinning led to aggregate
+effects on the regional economy.
+    To conduct the empirical analysis, a large amount of data was compiled from primary
+sources. The main outcome variable of interest is capacity in mechanized cotton spinning. I
+
+
+                                               3

@@ -1,0 +1,37 @@
+
+
+### S14 — Glover对入侵威胁的修正论
+Richard Glover, *Britain at Bay: Defence Against Bonaparte, 1803–14* (1973; Routledge ebook reprint 2021)。
+- 实读预览第1章“Background / Dangers Confronting Britain”，无可信原版页码。
+- https://www.perlego.com/book/2567530/britain-at-bay-defence-against-bonaparte-180314-pdf
+- `downloads/pages/e0f217155fea.md`，46–85行。
+- “the danger of invasion … was real”；转引Keith1803年10月机密警告（Doc.2，本卡未亲阅该文件）。Glover依船队/潮汐/增援时滞反对Desbrière/Corbett的佯攻解释，是作者论证，不是执行实绩。
+- 增补采用其“six tides, or three days, to get to sea”和“a flotilla designed for no more than a ten or twelve hour voyage in good weather”。第一项是全船队出港时间模型，第二项是小艇近距离好天气设计航程；均非测得吞吐或卸载速度。Glover同时考虑Texel海军动作和巴黎援军，不可截掉其前提。
+- 其1806秋塔/运河ready说法与S05/06全工程完工1808/09有口径张力。初步战备与最终完工可能不同；未取得逐段验收，正文不用单一“1806封死海岸”界线。
+
+### S15 — 约克公爵任职与改革叙述
+National Army Museum, “Bust of HRH Frederick, Duke of York and Albany, 1820 (c)”，藏品NAM.2002-03-163-1。
+- https://collection.nam.ac.uk/detail.php?acc=2002-03-163-1
+- `downloads/pages/e32902a0a3c8.md`。
+- 1809因Mary Anne Clarke卖官丑闻辞职、1811复职。具体制度机制采用S03，不能用馆藏的泛称“改革有贡献”推算战斗力百分比。
+
+### S16 — 不冒险决战/盟军与补给的真实类比
+Charles Oman, *A History of the Peninsular War*, vol.IV, Dec.1810–Dec.1811 (1911)，Project Gutenberg转录eBook56812，2018。
+- https://www.gutenberg.org/ebooks/56812
+- `downloads/f2_oman_vol4.txt`；doc `7277722ba854`；卷首section XXIII chapter I，约609–748行。
+- 转引Wellington致Liverpool，Cartaxo，1810-12-02及12-29（*Dispatches* vii pp.23–24及相应信）：不在对手选择的地形赌总战；“there are no means of replacing any large losses I might sustain”。本卡未亲阅*Dispatches*版。
+- 冬季约48,000主力是英葡盟军；一/一日半行军集结是该地区已预置军团的组织结果，非1804英格兰可普遍复制的性能。
+
+### S17 — Maida胜利的辅助核证
+National Army Museum, “Plan of the Battle of Maida, 1806”，Captain P. T. Ryves作图，1806年12月，藏品NAM.1966-02-25-1。
+- https://collection.nam.ac.uk/detail.php?acc=1966-02-25-1
+- `downloads/pages/9223262f58a4.md`，藏品说明，约29–33行。
+- 1806-07-04 Stuart的英国与那不勒斯—西西里军战胜法军；意在鼓励那不勒斯反法起事及预防法军进攻西西里。只核战役方向与胜负；没有据图像推算未读战斗序列表。
+
+### S18 — 法国编载计划与两潮提案（法文）
+Édouard Desbrière, *1793–1805. Projets et tentatives de débarquement aux îles Britanniques*, tome IV, troisième partie (Paris: R. Chapelot et Cie, 1902)。
+- 实际版本：Internet Archive/Google扫描，https://archive.org/details/projetsettentat02histgoog 。`downloads/c11_desbriere_IV3.pdf`；SHA256 `2dc359ae7cbd28e6a228a54ef7a4cc7000e875c04dab364477116d4f26044a4b`；对应OCR `downloads/c11_desbriere_02.txt`。标识符的02不是卷数。
+- 本次只定点核读pp.398–400、442–445；pp.399、444–445另看页图`downloads/c11_desbriere_p399.png`、`c11_desbriere_verified_p444.png`、`c11_desbriere_verified_p445.png`，没有声称通读全卷。
+- pp.398–400刊Saint-Haouen于Boulogne，15 thermidor an XIII/1805-08-03的提案。p.399：“faire sortir du port, dans deux marées, tous les bâtiments de la flottille”；“Dans moins d'une heure toute la flottille est sous voiles”。这些句子必须连同先换泊、装载、两次出港潮、外锚地风向危险和p.400人/弹药失配风险阅读；不是一小时完成全流程，更不是两潮实绩。
+- pp.444–445 Montreuil第一/第二escadrilles：216军用艇、20,232战斗席，相对24,853战斗员缺4,621；另126运输艇，马位合计1,391已含军艇216，需求1,616；非战斗/驻船人员载位2,473对2,063。p.442战争部长致Ney函署1805-03-30；pp.443–444另载“Les 456 chevaux de trait pour les 107 voitures attachées au parc de l’armée”须“être portés pour mémoire”待皇帝另配备用马厩份额。因此1,616/1,391并未证明全部作战运输纵列均已覆盖；不把另列项目直接叠加到独立设定的马率模型。日期与邻文在F3提示后回读本地OCR；未亲阅战时底稿。Soult另缺近5,000是另一军团，不相混相加。
+- 独立性：同一刊本内的海军专业提案与战争部编配是不同文件类型，均由Desbrière编辑传递；Glover在这一题上也参考Desbrière，所以两人不是两次吞吐观测。它们只证明提案、计划缺口和当事人的风险判断，不证明80k已可在D+2卸妥。

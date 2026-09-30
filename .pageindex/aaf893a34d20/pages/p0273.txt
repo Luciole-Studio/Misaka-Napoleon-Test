@@ -1,0 +1,101 @@
+Rural Change and Royal Finances in Spain
+
+                                                                                     Figure 13.1.
+                                                                        Las Navas, Employment Structure, 1752
+              the usual two estimates of the annual harvests, and the seed requirement.
+             The estimate of the harvests can be only approximate. The two methods of calculating it—prediction from the stated harvest on a
+       fanega of each quality of arable and the number of fanegas of each quality in the town, and projection from the reported tithes—are far
+       from agreeing. Elsewhere I have used the tithes as more reliable, although, where they were farmed, as here, no accurate records may
+       have been available to the makers of the catastro. In Navas the catastro reports tithes in kind for wheat and barley only. By assuming
+       that the tithe farmers kept 10 percent for themselves and reported only the rest, I get a "best estimate" of these crops. Tithes on the
+       other crops were included by the catastro in a lump sum in money that covered also vegetables and animals. One can only accept the
+       predicted figures. The best estimate for the total gross harvest is 5,098 EFW.
+             There is also uncertainty about the proportion of the harvest that was retained for seed. According to the figures provided by the
+       catastro, the yield-seed ratio for wheat was 8 : 1 on first-quality land, 9 : 1 on second, with an overall average of 8.7 : 1.[6] For poorer
+       land to give a better ratio
+
+       [6] Navas, resp. gen. Q 9: First quality, 1 fanega of seed per fanega of land, harvest 8 fanegas; second quality: 8 celemines seed, 6
+       fanegas harvest.
+
+
+                                                                                               ― 481 ―
+
+
+                     Table 13.3. Estimated Harvests and Seed Requirements of Arable, Las Navas, 1752
+
+
+
+                            Harvest Predicted from      Harvest Projected from      Best Estimate      Seed
+                           Quality and Area of Land        Reported Tithes           of Harvest     Requirement
+
+
+
+                             Fanegas        EFWa         Fanegas          EFW            EFW             EFW
+
+
+
+            Wheat             1,532         1,532         2,745 b        2,745         3,050 c             435
+
+
+
+             Rye                 752 d         418              0              0          418               42
+
+
+
+            Barley           3,050 d        1,525         2,115 b        1,058         1,176 c             142
+
+
+
+            Escaña           1,504 d           418              0              0          418               42
+
+
+
+        Lands exempt
+         from tithes               0              0             0             36e           36               5
+
+
+
+             Total                          3,893                        3,839          5,098              666
+
+
+
+                                               SOURCE. Las Navas, catastro.
+
+
+
+        a Current prices in reales per fanega: wheat, 18; rye, 10; barley, 9; escaña, 5 (Navas, resp. gen. Q 14).
+
+
+
+         b The figures projected here from the tithes (tithes times ten) are based not on the tithes reported in
+        Navas, resp. gen. Q 16 (which states lower figures, 240 fanegas wheat, 175 fanegas barley), but on the
+          income from tithes attributed to the municipal council, which received the tercias reales (2/9 of the
+          tithes). The figures in resp. gen. may have been intended to convey the impression of poverty. The
+                tithes received by ecclesiastical bodies cannot be consulted because maest. ecles. is lost.
+
+
+
+                       c Reported tithes times 10/9, to allow for the share kept by the tithe farmer.
+
+
+
+        d Based on the assumption that third-quality land was distributed evenly among rye, barley, and escaña.
+                                 The catastro calculated its value as if this were the case.
+
+
+
+                   e The catastro gives only the monetary value of these tithes, not the crops produced.
+
+
+
+       than good land goes contrary to practice, even with longer fallow, and in any case the ratios are probably not accurate because they are
+       higher than reported elsewhere. I shall estimate the mean ratio as 7 : 1. The ratio reported for barley is within the expected range: 7.5 :
+       1 to 9 : 1, with a mean of 8.3 : 1, which I shall use (but again the ratio is better for second- than first-quality land). The ratio for rye is
+       an unreasonable 20 : 1, for escaña, 10 : 1. I use 10 : 1 for both. The results are included in Table 13.3. My best estimate for the net
+       harvest after seed is 4,432 EFW, but there is a strong possibility that the seed ratios are still high and that this is an overestimate.
+            About half as much land was devoted to olives as to grains: 1,622 fanegas. The olive oil production is also difficult to estimate.
+       From the quality and extent of the groves one predicts 8,354 arrobas of oil. The tithes were reported in money, and at the current price,
+
+
+
+http://publishing.cdlib.org/ucpressebooks/view?docId=ft4d5nb394;chunk.id=0;doc.view=print[1/22/2011 11:30:51 AM]

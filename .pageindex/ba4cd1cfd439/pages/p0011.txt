@@ -1,0 +1,51 @@
+
+
+(1820–35) x French rule (1840–60) x French rule
+
+² ² ² ²
+
+–0.020 [0.000] –0.016 [0.004]
+
+(1820–35) x Railway Costs (1840–60) x Railway Costs
+
+–0.032 [0.006]
+
+0.005 [0.709]
+
+(1820–35) x Protestant Share (1840–60) x Protestant Share
+
+0.001 [0.001]
+
+6.0E-05 [0.866]
+
+(1820–35) x Remote (1840–60) x Remote
+
+–0.014 [0.248] –0.022 [0.048]
+
+(1820–35) x Shipping (1840–60) x Shipping
+
+0.073 [0.000] –0.004 [0.776]
+
+² ² ² ²
+
+(1820–35) x Coast (1840–60) x Coast
+
+0.044 [0.031] –0.006 [0.644]
+
+Chi-sq test of inclusion
+
+² ²
+
+13.06 [0.002]
+
+13.33 [0.001]
+
+35.75 [0.000]
+
+6.04 [0.049]
+
+34.56 [0.000]
+
+10.97 [0.004] Notes: Dependent variable is absolute value of percentage price gap between cities j and k; (1820–35) is an indicator YDULDEOHHTXDOWRRQHIRUWKH\HDUV WR ]HURRWKHUZLVH ± LVDQLQGLFDWRUYDULDEOHIRUWKH\HDUV WR ]HURRWKHUZLVH )UHQFKUXOH $YHUDJHRIQXPEHURI\HDUVRI)UHQFKUXOHEHWZHHQ DQG LQFLWLHV j and k. Railway costs: Costs of railway operation between cities j and k in terms of foregone freight, as a function of terrain. Protestant Share: Average of share Protestants in the states in which cities j and k are located. Remote: Average remoteness of cities j and k GH¿QHG DV GLIIHUHQFH IURP WKH ORQJLWXGH DQG ODWLWXGH RIWKH VDPSOH PHDQ Shipping: An indicator variable equal to one if all rivers of the states in which cities j and kDUHORFDWHGÀRZLQWRWKH %DOWLFRU1RUWK6HD ]HURRWKHUZLVH &RDVW $QLQGLFDWRUYDULDEOHHTXDOWRRQHLIERWKFLWLHVj and k DUHLQWKH¿UVW quartile of geographic distance to the nearest coast. N = 3,570; p-values based on clustering at the city-pair level in SDUHQWKHVHV DOOVSHFL¿FDWLRQVLQFOXGH\HDU DQGFLW\ SDLU¿[HGHIIHFWV Source: Authors’ calculation.
+
+Endogenous Formation of Free Trade Agreements 1185 such events during the nineteenth century. Further, we focus on price gap changes within each city-pair. Third, and perhaps most importantly the regression analysis that follows corrects for the non-random sequence with which states became members of the Zollverein. As noted previ RXVO\ WKH QHW EHQH¿W HDFK VWDWH UHFHLYHG IURP MRLQLQJ WKH Zollverein depended on its access to international markets. To create a measure of this international trade access, we calculate the distance between each city and the nearest coastal port. Table 1 gives these distances for each of our 40 cities. We also employ measures of a number of other factors that might have affected price gaps between cities (sources and summary statistics DUHSUHVHQWHGLQWKH$SSHQGL[ 7KH¿UVWLVWKHSUREDELOLW\WKDWDJLYHQ city-pair would be served by a steam railway, an important transporta tion technology that was introduced in the Zollverein area during the nineteenth century. Using a historical manual (Nicolls 1878) together with Geographic Information System (GIS) methods, we computed the cost of operating a railway between any pair of cities as a function of the terrain between cities. Second, reductions in transactions costs might KDYHPDWHULDOL]HGWKURXJKLQVWLWXWLRQDOFKDQJHV 'DURQ$FHPRJOXHWDO (2011) show that for a number of German regions, economic growth is increasing in the length of French rule between 1792 and 1815; we compute their length of French rule variable for our city-level sample and include it as a control variable for institutional change. Third, we employ a variable that has been extensively discussed as being related to the viability of a state as an independent customs area: the ratio of border length to state area (see Kuehne 1836; Dumke 1976, 1994). The higher the length of the customs border relative to the area of the state, the more costly is it to administer and protect a customs border, and a high border to-area ratio makes it more likely, according to this argument, that a state would join a larger customs union. Fourth, as a measure of culture as manifested in religious beliefs, we employ the share of Protestants in the states where cities j and k are located. Fifth, we consider the ability to trade by ship, domestically as well as internationally, by employing the following two variables. One is an indicator variable that is equal to RQH LIDOO ULYHUV WKDW ÀRZ WKURXJK WKH VWDWHV LQ ZKLFK FLWLHVj and k are located empty either into the North Sea or the Baltic Sea. River trans port was less costly than either overland or railway transport, and its costs also came down substantially during the nineteenth century in part through the introduction of steam ships. Another variable concerns the position of a given city to engage in international trade; this indicator

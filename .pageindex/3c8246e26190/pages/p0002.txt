@@ -1,0 +1,32 @@
+
+
+### 1.2 「拒开红海」——半成立：他重开红海，为自己
+- 【锚点】瓦哈比战争期Moka咖啡断供（"crise du Moka"），阿里复圣城后"rétablissant le commerce de la mer Rouge"，"commença de faire de Suez un grand port"（Driault 1925 p11, p19–20）。
+- 【锚点】亚历山大自造corvette欲绕好望角赴苏伊士，途中被英国扣留、武装后奉还；阿里由此悟"Alexandrie et Suez se tournaient le dos"、运河联结之必要（Driault 1925 p19–20）。
+- 【锚点】红海分舰队1809开工：18艘100–150吨，Bulaq造、驼运拆件至苏伊士、1811成军；另租马斯喀特苏丹船（Marsot p176）。
+- 【锚点】1841-09 P&O苏伊士登陆特许（客货陆转亚历山大，埃收年费）（Marsot p264）；但对运河本身："he believed it would incite the occupation of Egypt by Britain"而拒绝（Marsot p267）。
+- 【小结】阿里全期是**红海商业通道的重启者**与**红海军事通道的守门人**：商用转运可谈（收租），任何使埃及变成他人战场/走廊的基础设施（运河、外军过境）一概拒绝——对英对法同律。"拒开红海"应精确表述为"拒绝红海的他国军事化"。
+
+### 1.3 「→红海分支关闭」——结论成立但归因需改写（判定·高置信）
+证伪线成立的部分：指望阿里1805–15当法国的红海跳板，与其全部行为记录矛盾。
+但分支关闭的**充分原因在法国侧**，与阿里态度无关的三闸门：
+- 【锚点】制海：英军1807-09撤离亚历山大后"ils restèrent les maîtres de la Méditerranée jusqu'à la fin de l'Empire"（Driault 1925 p21脚注）；拿破仑自己的1808-05-26补给推演即以45天航渡Aboukir计（Driault 1925 p12）——这45天在Collingwood舰队眼皮下。
+- 【锚点】法方计划全部停在准备段：1808-05-13/26双远征令（Toulon 20,000经Tarente赴埃及+Lorient赴Île de France"diversion dans les Indes"）；1810-07-16运输船队敕令、09-17"40,000人赴埃及…c'est là mon plan de campagne pour 1812"、1811-03-08"1812年西西里或埃及…Toulon备齐埃及远征所需…能上溯尼罗河与入Aboukir侧湖的船型"（Driault 1925 p12–14）——无一启航。
+- 【锚点】红海物流：Qusayr–Kena走廊33/34英里无水段、水袋损耗、梯队节奏（Baird 1801实测，t_c17367/S5，downloads/pages/e6f361323912.md）；苏伊士造舰=驼运拆件100–150吨级（Marsot p176）。
+- 【推演·高置信】即便阿里1810年得到他想要的法国政治协约，红海分支的军事形态也只能是"埃及默许下的小规模技术-情报存在+商路"，不是军团通道。**分支判定：军事通道关闭；政治-威慑-商路分支未关闭且被拿破仑自己错过**（Driault 1925 p20的明文指认）。
+
+---
+
+## 2. 单位模板①–⑫
+
+### ① 决策结构与政治制度
+- 【锚点】权力来源三重：(a)奥斯曼授职（1805-07-09任开罗帕夏，Driault 1925 p4；Aksan：Selim III对既成事实的承认）；(b)开罗联盟拥立（军队+乌理玛+商人，Umar Makram自流亡召回助其清除对手，Aksan L2123）；(c)阿尔巴尼亚军事集团（1803并Tahir部、Damietta败Hüsrev）。
+- 【锚点】否决点的物理清除：1810-08 Fayoum决战、1811-03-01城堡屠杀马穆鲁克首领层、1812-05 Esneh扫尾（Driault 1925 p16–17；Aksan L2123"由此获得行动独立"）。此后埃及境内无组织性否决者；乌理玛层在1809–15间被边缘化（Umar Makram 1809流放——据通说，本卡未读Jabarti原文，标转引缺口）。
+- 【锚点】家族公司制：子侄分领军政（Tusun/Ibrahim/Ismail领征伐，Ibrahim兼总司库"zèle"见Driault 1925 p17；Abbas任kikhya），亚美尼亚人Boghos掌外事商务（Fahmy/Marsot）。1844揭账危机显示晚期决策=父子猜疑+派系（Ibrahim进步派vs Abbas保守派）（Marsot p264–266）。
+- 【锚点】正统性策略：名义臣属奥斯曼（红旗五角星vs奥斯曼六角星，Fahmy L15185），实"placer l'Égypte au rang des autres Régences Barbaresques"（Driault 1925 p20）；1839致Şeyhülislam与16帕夏书、"De Turc à Turc"（Driault 1930 t.I目录）——在伊斯兰-奥斯曼语法内部造反，从不诉诸阿拉伯民族主义（Marsot p241：阿里自视土耳其人；"阿拉伯王国"是Palmerston的框架）。
+- 【推演·中高】对法国意义：这是一个**可以谈判但不能收编**的决策中枢——无贵族议会、无教会否决、一人拍板，故对外报价极快（1807两周内定抗英）；但同一结构使"傀儡化"不可能：换掉阿里=重启1801–05权力真空（法国1798–1801已实测该真空的治理成本）。
+
+### ② 法律司法与行政渗透
+- 【锚点】对欧洲法权的实效废除：Missett 1811-07："He has sold or taken into his own hands various monopolies; the old duties have been increased, and the new ones are exacted upon all articles…he has the power of making any international regulations within his own government"（Marsot p159）；大陆封锁在埃及无效："en matière économique, Mohamed Aly y régnait en maître absolu, et aucune convention à cet égard ne le liait à la France"（Driault 1925 p10，Rose号案）。
+- 【锚点】行政渗透深度（Fahmy核心论题）：征兵+专卖使国家首次直达村落——点名册、通行证、体检、烙印/牌照式管控；"Gone were the days when an Ottoman vali…could issue an order…and be practically ignored"（Fahmy L4810）。供养13万军队的官僚机器=税册+征发+军服工厂+邮驿+军医体系（Fahmy L9158–9175）。
+- 【推演·高】行省化判据：埃及1820s已是**比法国多数并合省更高强度的汲取国家**；法国若并省（A层），得到的不是空地而是一台已满负荷的机器——接管即接管其全部反抗（见⑧）。

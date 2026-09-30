@@ -1,0 +1,53 @@
+Rural Change and Royal Finances in Spain
+
+       rectangle also represents a comparison of large to small properties, in this case the ratio of the mean amount spent by the buyers in
+       Level 4 (the largest buyers) to that of the buyers in Level 1 (the smallest buyers). Rather than use the simple ratios, which run from 23 :
+       1 to 210 : 1, I sub-
+
+
+                                                                                          ― 632 ―
+       stituted their logarithms. The reason is that the range is very high, the largest reading being over nine times the smallest. The other
+       statistic in this index, to be described next, has a range of only 2.6. Multiplying them together would give an excessive weight to the
+       first. The logarithm reduces the range to 1.7, less than that of the other statistic but not so dissimilar.
+             The vertical side of the rectangle is the percentage of buyers in Level 4 who bought more than one property. At first sight this figure
+       may not seem directly comparable to the percentage of land owned by hacendados mayores used for the earlier index. It was chosen
+       because this index was intended as a measure of change due to the sales, not of the already existing concentration of the lands being
+       sold. Properties being farmed as single units were not ordinarily divided before their sale. Therefore the lowest concentration effect (the
+       greatest increase in the number of landowners through the sales) would result if each property went to a different buyer. The percentage
+       of buyers who bought more than one property is thus a measure of how much concentration was effected above this minimum. It is
+       proper to use only Level 4 buyers in each zone because, smallest in number (they ranged from 3 to 12 percent of all buyers), they had
+       the greatest effect on the pattern of landholding: by definition they accounted for 50 percent of the purchases. The index and its
+       components are given in Table 17.13. (One should stress that even though this index measures the extent to which the sales created
+       new large holdings in the hands of laymen, it is not a measure of the absolute change in concentration. Some religious endowments
+       consisted of various properties that were sold off separately, thus tending to decrease the existing concentration of ownership. The
+       absolute change was the difference between these two contrary effects, which I have not attempted to calculate.)
+             When the two indexes or sets of rectangles, one of the prior concentration of landowning and the other of the effect of sales on
+       concentration, are compared, they give a high coefficient of correlation, r = .89. Statistically this means that the correlation could have
+       occurred by chance less than once in a hundred cases (it is significant at the 1-percent level). Although the indexes are the products of
+       circuitous calculations, they offer strong support for the validity of the proposition.
+             Figure 17.1 graphs the result, the regression line of the effect of the sales on the prior concentration. The resulting pattern supports
+       both the division of the zones into types of participation in the market and into geographic regions. Type A1 zones (SA, SB, SD, SE) fall
+       in the middle of
+
+
+                                                                                          ― 633 ―
+
+
+
+
+            the pattern, with Type B1 (SC) far out on its own and Type C (SG, SI) together at the other extreme. Zones in the different
+       geographic regions are even more closely associated, poor plains zones (SC, SD) with high concentration, sierra zones (SG, SH, SI) with
+       low concentration, and zones in the other two geographic regions are also proximate to each other. [26]
+
+       [26] The statistical strength of the correlation depends greatly on the outlier SC. Without it, the correlation coefficient drops to 0.59, and
+       consequently the correlation line swings clockwise. The pattern loses its statistical strength, being valid only at between the 10-percent
+       and 20-percent level. What weakens the correlation is the deviance of Zone SB, which shows a much higher effect of concentration from
+       the sales than the regression would predict.
+
+
+                                                                                          ― 634 ―
+
+
+
+
+http://publishing.cdlib.org/ucpressebooks/view?docId=ft4d5nb394;chunk.id=0;doc.view=print[1/22/2011 11:30:51 AM]

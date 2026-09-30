@@ -1,0 +1,31 @@
+
+
+## 同源与互证
+
+- Crosby出口结构多据Oddy；Davey表29也据Oddy向英政府报告。两书不能计为两个独立原始海关序列。Crosby采用的美国船主/Adams信件与俄国Speransky财政报告是不同观察路径，但互不保证所论全国覆盖。
+- Troshin2015、其2011文与Pokidina2022有继承关系；Pokidina转引Zlotnikov与MinFin部分是新的底本线索，不是本轮对原表独立复核。Troshin贸易条件与Crosby单价若吻合，仍需查共同《价格表》依赖。
+- Herlihy与Polevchtchikova都利用黎塞留/商业领事史料；后者只读首页面，不拿来“独立验证”Herlihy表2.1。
+- Vandal与旧卡Nesselrode俄文网络版是同一备忘录的不同转录，绝不是两封独立的俄方承诺。
+- 机构历史网页确认有限年代/制度事实，不能替代价格序列和阶级收入微观样本。S11完整只是栏位完整，不是证据等级高。
+
+## 旧资产复用
+
+`nodes/r_b55f2c1cf5/cards/t_26cd47/russian_evidence.md`：复用来源导航、E4谈判菜单、E8Speransky定位；重新读S05/S06。旧卡《俄国问题无法解决/未识别》不继承。旧书评中的Lieven/未得Rey全书不升级为本卡读过原著。Troshin/Makarov/Heckscher沿用已下载PDF，在上表明确本轮选读范围。
+
+## 仍在地图上而未读，不用于证明本卡数字
+
+1. Saulius Girnius,*Russia and the Continental Blockade*,University of Chicago PhD,1981（Troshin所引官方价格/海关对比）；取得它可关闭七成恢复的基期与量价问题。
+2. М.Ф. Злотников,*Континентальная блокада и Россия*,1966，p132、табл.56；财政部*Министерство финансов1802–1902*,ч.1(1902),pp133–139、616、620–621；PSZ1,t31,No24464,pp486–492与t45,pp58–62（仅由S10追到谱系）。
+3. *Виды государственной торговли*1808–11未公开年度册/РГИА Ф.1152 Оп.14 Д.119/120（Troshin报告，未亲阅）；圣彼得堡交易所《Прейс-Курант》1803、1806–09。
+4. Marc Raeff,*Michael Speransky*；Walter M. Pintner,*Russian Economic Policy under Nicholas I*,1967；Ian Blanchard,“Russia and International Iron Markets,ca1740–1850”；Сироткин、Троицкий的相关专著/研究。存在不代表已取得。进一步全文会改进财政债务/铁市场/长期增长，但本卡不以其名望代替证据。
+5. PSZ农奴/征兵法、实际贵族庄园账与私人汇票契约：若能建立庄园出口份额e与债务币种分布，可把本卡压力带转为分组估计。
+
+## 检索而未采用的晚期复核
+
+Brockhaus/Efron «Александр I,Император Всероссийский»电子转录，http://www.brocgaus.ru/text/002/923.htm，保存`downloads/pages/a6702a368d37.md`，仅核财政相关段。1801–04外债47.25m银卢布、1810外债100m未明币种、1814荷债101.5m荷盾线索可追，但同段收入/欠款/预算口径混杂、未核原版卷页，故不据此填平国家债务年度表。该词典与S12非独立当代账。检索所得学生网页“存量债务≈一年收入所以年度收入几乎全用于债务”等混淆不采用。
+
+## 引用限制与复现
+
+没有使用圣赫勒拿回忆。本卡用到的Crosby引Coggeshall1852是对1810–11冬季的**回溯性叙述**，只支持观察路径，不独立证明精确运价；Herlihy引Morton1830表与黎塞留回忆同样须保留回溯标识。Speransky1811年度报告与Nesselrode1811备忘录是同期文字的后刊转录。
+
+复算：`python3 nodes/r_5b1357a9c6/cards/t_29957a/R2_model.py`，再运行同目录`R2_audit.py`独立Decimal复算并从分段稿生成正式报告。引文/口径末核见`R2_evidence_audit.md`。`R2_metadata_audit.json`只证明元数据键存在，不证明历史事实；`R2_crosby_snapshot.json`冻结原PDF哈希。数值来源逐行在`R2_inputs.csv`；模型参数在`R2_parameters.csv`；无概率采样、无p值，256个端点不是256次历史观测。

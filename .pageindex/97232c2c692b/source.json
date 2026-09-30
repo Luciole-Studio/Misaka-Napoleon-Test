@@ -1,0 +1,19 @@
+{
+  "scope": "structural and arithmetic checks only; NOT external peer review or historical source validation",
+  "checks": [
+    "16 required sections present",
+    "30 timeline nodes / 5 scenario columns",
+    "8 policy menus present",
+    "21 distinct source codes mapped; not independence count",
+    "256 grid rows independently re-evaluated with Decimal; both loss columns match",
+    "13 exchange inversions; 38 explicit missing entries; no interpolation",
+    "JSON loss summaries, central examples, three recovery probes and full-trade zero-loss limit match",
+    "2 replacement multipliers recalculated without tonnage conversion",
+    "2 source-table sum conflicts preserved",
+    "6 population endpoints recalculated with Decimal; comparison geography remains conditional",
+    "23 cited local source files present and hashed"
+  ],
+  "checks_passed": 11,
+  "final_chars": 34923,
+  "source_files": 23
+}

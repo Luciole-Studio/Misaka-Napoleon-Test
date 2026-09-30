@@ -1,0 +1,49 @@
+# C13 条约证据专项：1805、1807—1808、1809与1815镜像
+
+## 0. 交付边界与证据地位
+
+本件仅作条文核验与材料登记，不是C13主报告，不推演胜利路径。先读并复用 `nodes/r_b55f2c1cf5/cards/t_7da32d/prussia_austria_notes.md`，再实际重开其1807、1809下载正文，补读下列法文转录。所有路径相对于项目根目录。
+
+**【事实｜读取范围】** 本次实际读到的是原始文书的网页转录、1807英文译文及1809同时代英译的网页转录；**未读签署原件、批准书或印本影像**。所谓“原文保存”指已保存所读转录全文，不冒称档案原件。引句以指定网页版本为准；MJP提取中插入的Markdown `>` 与换行不作为原文标点。附约没有单列标题的网页，结合其重新从第1条编号、签署和同等效力条款判断文书边界，并以另一转录的明确标题核对。
+
+**【裁量｜证据纪律】** 多个网站转录同一条约，只用于检查文字异同，不算多个独立历史见证；未明底本者标为未知同源关系。各“事实”首先是**条约写了什么**，不是义务实际履行的证明。金额一律为文书所标法郎名义额，不换成塔勒，不将未收征款结算额写成战争全部成本。
+
+## 1. 数字及正文／附约归属速查
+
+| 待核项 | 核验结论 | 精确定位与限制 |
+|---|---|---|
+| 1805：40m francs | 【事实】4,000万法郎，金属价值 | 普雷斯堡**无编号 Article séparé**；不是正文第22条的数额，不是“第25条” |
+| 1807／1808：120m francs | 【文献推断｜1808网页编者注】9月1.4亿后减2,000万，得1.2亿；**尚未核减免原文** | 1807年7月9日正文无此定额；1808年9月8日正文第1条明确是**140m**。不得改写成9月条文明载120m |
+| 1808：42,000人 | 【事实｜单一转录，待印本校对】总上限42,000 | 9月8日**Articles séparés第1条**，1809年1月1日起10年；第2条期满恢复自行定额，第3条禁止额外民兵等扩军 |
+| 1809：85m francs | 【事实】8,500万法郎 | 10月14日**附约第5条**；不是公开正文第5条（后者讲割地债务） |
+| 1809：150,000人 | 【事实】奥军各兵种总上限15万 | **附约第2条**，期限是“海上战争期间”，不是永久上限 |
+| 1815：700m francs | 【事实】7亿法郎 | **11月20日巴黎和约正文第4条**；付款方式、期限、担保另交专约 |
+| 1815：150,000人 | 【事实】盟国在法占领军上限15万 | **巴黎和约正文第5条**，不是法国军队上限，也不是6月9日维也纳总议定书规定 |
+
+## 2. 来源与保存索引
+
+以下全部已实际阅读相应正文。网页URL、抓取来源和文字哈希随 `downloads/pages/*.md` 文件头保存；哈希只标识抓取文本，不证明与档案签署原件一致。
+
+| ID | 版本、实际读到范围 | 原文转录本地文件 |
+|---|---|---|
+| P05a | MJP（Jean-Pierre Maury），普雷斯堡正文1—24、单独附条；网页声明据de Clercq, *Recueil des traités de la France*, Paris, 1880, t.2, p.146；此印本本次未亲读 | `downloads/pages/45df93c6e187.md` |
+| P05b | Fondation Napoléon，普雷斯堡正文1—24、单独附条；返回正文未给明确印本底本 | `downloads/pages/477ba54e881b.md` |
+| T07 | Fondation Napoléon，法普提尔西特，1807-07-09，英文I—XXX及签署、批准交换说明；英译底本未明；复用并重读 | `downloads/pages/4b40ca3af7f7.md` |
+| P08 | Napoleon-Histoire，Robert，2021-01-21，1808-09-08协定正文1—17、分列附条1—6；未明印本底本，存在数字／编号疑误，详见第7节 | `downloads/pages/0964a00115c5.md` |
+| S09en | Fondation Napoléon，1809和约英译I—XVIII及批准文；网页声明据*Cobbett’s Political Register*, vol.16 (1809)；复用并重读；原刊未读 | `downloads/pages/e5074feabef0.md` |
+| S09fr | Fondation Napoléon，法文正文1—18、另起编号附约1—6；网站说明转自Michel Kerautret, *Les grands traités de l’Empire (1804–1810)*, Nouveau Monde/Fondation Napoléon, Paris, 2004；书本未亲读 | `downloads/pages/603b19b5b0f9.md` |
+| S09b | Napoleon-Empire，正文1—18与明确题为“Articles séparés”的1—6；底本未知，不视为独立见证 | `downloads/pages/1d18408afeda.md` |
+| P15 | MJP，1815-11-20巴黎和约1—12、废奴附条、各双边签署说明、对俄单独条款；**未附付款与占领执行专约全文** | `downloads/pages/8780b368d565.md` |
+| V15 | MJP，1815-06-09维也纳总议定书**第65—121条**；没有读取本页之外的第1—64条或17件附件全文 | `downloads/pages/c3b21fffef66.md` |
+
+URL逐项：
+
+- P05a：https://mjp.univ-perp.fr/traites/1805presbourg.htm
+- P05b：https://www.napoleon.org/histoire-des-2-empires/articles/le-traite-de-paix-de-presbourg-26-decembre-1805/
+- T07：https://www.napoleon.org/en/history-of-the-two-empires/articles/treaty-between-prussia-and-france-tilsit-9-july-1807/
+- P08：https://napoleon-histoire.com/traite-entre-la-france-et-la-prusse-pour-le-reglement-des-contributions-de-guerre-loccupation-de-trois-places-fortes-et-la-reconnaissance-des-rois-despagne-et-de-naples/
+- S09en：https://www.napoleon.org/en/history-of-the-two-empires/articles/39720/
+- S09fr：https://www.napoleon.org/histoire-des-2-empires/articles/document-traite-de-paix-de-vienne-14-octobre-1809/
+- S09b：https://www.napoleon-empire.org/texte-officiel/traite-schoenbrunn.php
+- P15：https://mjp.univ-perp.fr/traites/1815paris.htm
+- V15：https://mjp.univ-perp.fr/traites/1815vienne2.htm

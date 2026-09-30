@@ -1,0 +1,46 @@
+
+
+**B** — *Bucentaure-class ship of the line*：
+https://en.wikipedia.org/wiki/Bucentaure-class_ship_of_the_line
+位置：Ships in class，每艘的Builder、Begun、Launched、Completed。短引：Friedland `“Launched: 2 May 1810”`、`“Completed: May 1811”`。缓存`downloads/pages/06f099bfa047.md`。书目Demerliac、Winfield–Roberts；不作为L的独立互证。
+
+**O** — *Océan-class ship of the line*：
+https://en.wikipedia.org/wiki/Oc%C3%A9an-class_ship_of_the_line
+位置：Ships of the second (modified) group。短引：Héros `“launched on 15 August 1813 and completed in January 1814”`。缓存`downloads/pages/a33ec60b83be.md`。页末Demerliac、Roche、Winfield–Roberts等；非独立档案源。
+
+**U** — Ulm单舰正文“Construction and career”：
+https://en.wikipedia.org/wiki/French_ship_Ulm_(1809)
+短引：`“at the Arsenal de Toulon and launched on 25 May 1809”`；该段注3指Winfield–Roberts p.94。缓存`downloads/pages/f2fd5147bb31.md`。原书未阅，明确转引。
+
+**M** — Mont Saint-Bernard单舰正文“Construction and career”：
+https://en.wikipedia.org/wiki/French_ship_Mont_Saint-Bernard_(1811)
+短引：`“launched on 9 June 1811, commissioned on 18 October and completed in December”`。页面列Winfield–Roberts pp.94–96、Roche p.314，但提取未保留可靠逐句注号，不强配某一页。缓存`downloads/pages/dc7df5fbd91a.md`。
+
+**P** — Polonais单舰正文“Construction and career”：
+https://en.wikipedia.org/wiki/French_ship_Polonais_(1808)
+短引：`“launched on 27 May 1808”`；相邻注3、4指Winfield–Roberts p.91及Roche p.356，均未阅原页。缓存`downloads/pages/a926b7531016.md`。
+
+**Ti** — Tilsitt单舰正文“Construction and career”：
+https://en.wikipedia.org/wiki/French_ship_Tilsitt_(1810)
+短引：`“launched on 15 August 1810”`；该段注2指Winfield–Roberts p.59，原页未阅。缓存`downloads/pages/5af51159c185.md`。
+
+**V** — Three Decks, Venice船厂事件表：
+https://threedecks.org/index.php?display_type=show_shipyard&id=281
+位置：Events at Venice，1810-09-06、1811-06-09、1811-07-07、1812-08-02、1812-08-15；页末Sources。短引：`“1811/06/09 ... Mont Saint-Bernard (80) ... MIdN”`；`MIdN = La Marina Italiana di Napoleone, Virgilio Ilari`。后四艘带此来源代码，Rivoli带W006（Teemu Koivumaki网页）。缓存`downloads/pages/acacc4f22128.md`。**上游与L的书目体系有区别，但Ilari原文未取得，独立性只是来源线索，非完成原始互证。** 提取final_url退成网站根地址，不过返回正文确为Venice事件表；引证保留requested_url完整参数。
+
+**G** — BnF Gallica版画目录题名：
+https://gallica.bnf.fr/ark:/12148/btv1b69469265
+实际读到标题：`“Premier vaisseau de ligne, le Charlemagne de 74 lancé au milieu de l'Escaut, Anvers le 8 avril 1807”`。作者栏Wexelberg、Jacques Marchand、Claude Antoine Fleury。缓存`downloads/pages/a6a9708fe694.md`。这是独立的馆藏题名佐证；本轮未取得并目读版画图像，不能声称图像核验。
+
+### 1814存量与独立学术背景（A级，非50舰逐舰来源）
+
+**D** — Nicola Peter Todorov, “Le redressement naval de 1810–1813 napoléonien et la géographie maritime de l’Europe”, *Cahiers du Centre d’études d’histoire de la défense*, no.36 (2008)。实际读到用户已有25页PDF，页15文字和整页图像均已核。此电子稿页码**不是刊本137—170页的换算**。
+查找URL（本轮搜索定位，非声称已在该网页读到全文）：
+https://www.academia.edu/2606837/_Le_redressement_naval_de_Napol%C3%A9on_de_1810_%C3%A0_1813_et_la_g%C3%A9ographie_maritime_de_lEurope_p_137_170
+实际证据版本：`downloads/F3_Todorov_redressement_1810_1813.pdf`，文档ID `0fd6bd047f2a`，第15页“Le bilan de la construction navale”。
+
+|时点|Ports de l’ancienne France|Anvers|Hollande|Gênes, Venise, Corfou|Total|
+|---|---:|---:|---:|---:|---:|
+|1810夏|29|12|9|0|50|
+|1812|41|20|10|1|72|
+|1814年4月|42|21|9|2|74|

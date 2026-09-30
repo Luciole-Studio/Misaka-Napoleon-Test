@@ -1,0 +1,49 @@
+166    MICHAEL KOPSIDIS AND DANIEL W. BROMLEY
+
+
+
+3. Varieties of institutional reform4
+
+There are two problems at the core of the ACJR ‘reform index’: (1) the exact
+dates at which those reforms are claimed to have been adopted (their vintage);
+and (2) the nature and content of those institutional reforms.
+   To start with the most obvious problem, consider the claimed vintage of
+the abolition of serfdom – either brought about by Napoleon in the occupied
+territories or defensively eliminated as a result of the so-called French treatment.
+ACJR date this reform from as early as 1783 in Baden, to as late as 1832 in
+Saxony. Surprisingly, the authors then admit that serfdom had ceased to exist
+throughout Germany prior to the arrival of Napoleon. Why would ACJR assign
+dates of attribution for an institutional regime that the French had no role in
+abolishing? Eliminating serfdom’s demise from the ACJR model leaves only three
+institutional reforms that might be attributed to the French: (1) the imposition
+of the civil code to replace the privilege-based legal order of the Ancien Régime;
+(2) agrarian reforms; and (3) abolition of the guilds. The problem with these
+remaining institutional reforms is that ACJR very often assign vintages that are
+at odds with accepted German historiography. Therefore, in Table 1 we provide
+corrected dates for 31 of the 57 observations that were incorrectly assigned
+(dated) by the authors.5
+   First, notice that there are only three (not four) reforms that can be attributed
+to the French – the Civil Code (column 3), agrarian reform (column 4), and
+abolition of the guilds (column 5). ACJR date the imposition of the Civil Code
+(abolition of the Ancien Regime) in Westphalia as occurring in 1810 and lasting
+until 1815 when it was reversed. According to ACJR, this institutional change
+did not reappear until 1900. Summing the years in which these three reforms are
+alleged to have been in place in Westphalia yields a reform index (the row sum) of
+24.7 (5 years for 1810–1815 of the Civil Code, plus 25 years for agrarian reforms,
+plus 41 years for abolition of the guilds). The sum of these three durations
+is 71 years, and when divided by 3 yields a reform index for Westphalia of
+23.7. Table 1 of ACJR (see on-line materials) shows a reform index of 28.5 for
+Westphalia because they incorrectly considered the abolition of serfdom as a
+discrete reform even if it was only a minor and inseparable part of the entire
+agrarian reform package to abolish the manorial system. Indeed, during the
+centuries before Napoleon, serfdom in Westphalia had been relaxed to such an
+extent that, practically speaking, it had ceased to exist.6 That 42 years of ‘credit’
+
+
+
+    4 For a more complete account of the nature and timing of institutional reforms in Germany, see
+Kopsidis and Bromley (2014).
+    5 See the on-line Appendix A for elaboration of our construction of Table 1.
+    6 Note that ‘defensively modernizing’ Prussia officially declared the end of serfdom one year earlier
+in 1807 (Table 1, Panel C). It is therefore incorrect for ACJR to date the official end of serfdom in Prussia
+as 1811 (Kopsidis and Bromley 2014, p. 13).

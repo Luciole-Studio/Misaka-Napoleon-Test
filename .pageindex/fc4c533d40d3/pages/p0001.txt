@@ -1,0 +1,23 @@
+---
+source_url: "https://perspectivia.net/servlets/MCRFileNodeServlet/pnet_derivate_00002421/Grab_Conscription.pdf"
+final_url: "https://perspectivia.net/servlets/MCRFileNodeServlet/pnet_derivate_00002421/Grab_Conscription.pdf"
+provider: "exa"
+text_sha256: "e8b8a2929ac321722ff951beefbbe269e6424712daf5d2ea6fa8e88fcc01a310"
+title: "Das Digitalisat wird Ihnen von perspectivia.net, der Online-Publikationsplattform der Max Weber Stiftung \u2013 Deutsche Geisteswissenschaftliche Institute im Ausland, zur Verf\u00fcgung gestellt. Bitte beachten Sie, dass das Digitalisat der Creative Commons-Lizenz Namensnennung-Keine kommerzielle Nutzung-Keine Bearbeitung (CC BY-NC-ND 4.0) unterliegt. Erlaubt ist aber das Lesen, das Ausdrucken des Textes, das Herunterladen, das Speichern der Daten auf einem eigenen Datentr\u00e4ger soweit die vorgenannten Handlungen ausschlie\u00dflich zu privaten und nicht-kommerziellen Zwecken erfolgen. Den Text der Lizenz erreichen Sie hier: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode"
+content_kind: "page_text"
+---
+
+Alexander Grab: 
+Conscription and Desertion in France and Italy under Napoleon 
+Schriftenreihe Bibliothek des Deutschen Historischen Instituts in Rom Band 127 (2013) 
+Herausgegeben vom Deutschen Historischen Institut Rom 
+
+## Copyright
+
+Das Digitalisat wird Ihnen von perspectivia.net, der Online-Publikationsplattform der Max Weber Stiftung – Deutsche Geisteswissenschaftliche Institute im Ausland, zur Verfügung gestellt. Bitte beachten Sie, dass das Digitalisat der Creative Commons-Lizenz Namensnennung-Keine kommerzielle Nutzung-Keine Bearbeitung (CC BY-NC-ND 4.0) unterliegt. Erlaubt ist aber das Lesen, das Ausdrucken des Textes, das Herunterladen, das Speichern der Daten auf einem eigenen Datenträger soweit die vorgenannten Handlungen ausschließlich zu privaten und nicht-kommerziellen Zwecken erfolgen. Den Text der Lizenz erreichen Sie hier: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+Alexander Grab
+
+## Conscription and Desertion in France and Italy under Napoleon
+
+It is by now a commonplace that Napoleon depended on the human and fiscal resources of Europe in his drive for imperial expansion and domination. The French emperor would have been unable to expand and maintain his empire without the money and troops that occupied Europe supplied him. A key to his ability to tap into the human resources of his European satellites was an annual and effective conscription system. In September 1798 the French gov ernment introduced a yearly conscription program and quickly extended it to the Belgian départements and the Cisalpine Republic. 1 Prior to the Revolution, armies largely consisted of volunteers and mercenaries. While some form of draft had existed in parts of pre-Revolutionary Europe – France had an ob ligatory militia system to supplement the regular army – Napoleon increased it to unprecedented levels and extended it to states that previously had not experienced it. Consequently, in the first decade of the nineteenth century the Emperor and his satellite rulers introduced an annual draft throughout much of the continent: the Italian Republic (1802), the Grand Duchy of Berg and the Kingdom of Westphalia (1807), the Kingdom of Naples (1807), Holland and the Hanseatic cities (1811) and the Illyrian Provinces (1811). 2 Satellite and allied rulers adopted parts or all of the French conscription model because of its ef ficiency. It helped them to improve their capacity to draft soldiers and provide their quotas to France. Moreover, possessing a large and powerful army signi fied an increase in political and military strength as well as a rise in prestige. Napoleon’s Grande Armée was a European army, consisting of soldiers from many nations. By establishing the French conscription system in his annexed lands (pays réunis) and forcing it on his satellite states (pays conquis), Napoleon

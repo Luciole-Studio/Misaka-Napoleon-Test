@@ -1,0 +1,3 @@
+report_date,geography,category,value,unit,source,locator,scope_limit
+1811-06-14,England,French_prisoners_reported_total,45933,persons,Hansard_HC_vol20,634,not_identified_as_naval_only_stock_date_not_explicit
+1811-06-14,England,French_prisoners_on_parole,2710,persons,Hansard_HC_vol20,634,inclusion_in_total_unresolved_do_not_add

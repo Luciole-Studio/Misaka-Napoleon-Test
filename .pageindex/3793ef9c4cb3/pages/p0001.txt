@@ -1,0 +1,18 @@
+---
+source_url: "https://www.bryk.pl/wypracowania/historia/xix-wiek/8909-sprzysiezenie-podchorazych-i-noc-listopadowa.html"
+final_url: "https://www.bryk.pl/wypracowania/historia/xix-wiek/8909-sprzysiezenie-podchorazych-i-noc-listopadowa.html"
+provider: "exa"
+text_sha256: "2136e379cb62cdece6541eaf26b723cb83b63f6711b40518bddfedc73f2f464b"
+title: "Sprzysi\u0119\u017cenie podchor\u0105\u017cych i noc listopadowa. - XIX wiek - Bryk.pl"
+content_kind: "page_text"
+---
+
+Sprzysiężenie podchorążych i noc listopadowa. - XIX wiek - Bryk.pl
+
+# Sprzysiężenie podchorążych i noc listopadowa.
+
+Nasilające się aresztowania wśród warszawskich studentów, groźba wykrycia spisku przygotowywanego w Szkole Podchorążych, łamanie konstytucji Królestwa Polskiego przyjętej w 1815 roku przez cara, Wielkiego Księcia Konstantego i rząd Królestwa, nadmierny ucisk podatkowy, niespełnienie obietnicy o połączeniu Królestwa Polskiego z ziemiami zaboru rosyjskiego i wiadomość, że wojska polskie mają zostać przez cara wykorzystane do stłumienia ruchów rewolucyjnych we Francji i w Belgii stały się impulsem do wybuchu powstania i walk z caratem w roku 1830.
+
+W wigilię powstania (w niedzielę 28 listopada 1830 roku) kierownictwo sprzysiężenia spotkało się z grupą oficerów i ustaliło ostateczne szczegóły planu powstania. Jednocześnie zapadła decyzja o wybuchu walk wieczorem dnia następnego (29 listopada 1830 roku). Sytuacja był dla powstańców dogodna - wWarszawie przebywało wtedy około 10 tysięcy żołnierzy polskich żołnierzy, co dawało im przewagę nad oddziałami rosyjskimi (liczącymi 6500 ludzi i w dodatku rozmieszczonymi korzystnie dla powstańców).
+
+Spiskowcy liczyli przede wszystkim na zaskoczenie Rosjan, które miało umożliwić jednoczesną likwidację obydwu zgrupowań wojsk rosyjskich (jazdy - na południu i piechoty - – na północy miasta). Garnizony wojsk rosyjskich dzieliła znaczna odległość i ulokowane w centrum miasta oddziały wojsk polskich. Według planu Józefa Zaliwskiego, trzema podstawowymi rejonami działania powstańców miały więc być: południe, centrum i północ. Na południu oficerowie ze Szkoły Podchorążych, wsparci przez piechotę mieli okrążyć i zmusić do kapitulacji jazdę rosyjską. W tym samym czasie specjalny oddział powstańców miał uderzyć na Belweder i zabić albo aresztować wielkiego księcia Konstantego (brata cara i naczelnego dowódcę armii, który w praktyce miał w swym ręku pełnię władzy politycznej w Królestwie). Walkami toczonymi na południu dowodził Piotr Wysocki, a oddziałem „belwederczyków” kierował Ludwik Nabielak. Natomiast zadaniem (dowodzonego przez Zaliwskiego) „centralnego” oddziału wojsk powstańczych było odcięcie komunikacji pomiędzy dwoma zgrupowaniami armii rosyjskiej i opanowanie Arsenału. Powstańcy z północy mieli tymczasem opanować mosty na Wiśle i zająć magazyn prochowy na Pradze. Pozostałe siły miały rozbroić pułk gwardii litewskiej. Powstanie miało rozpocząć się około godziny osiemnastej, a sygnałem do wystąpienia miało być podpalenie starego browaru na Solcu znajdującego się w bezpośrednim sąsiedztwie koszar jazdy rosyjskiej.

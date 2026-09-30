@@ -1,0 +1,123 @@
+---
+source_url: "https://archive.org/metadata/gri_000333125011213903"
+final_url: "https://archive.org/metadata/gri_000333125011213903"
+sha256: "2d8fadf6bcc9ab32c20b5fa8ee28b214d533825549c677e35aa57b83dc928c23"
+text_sha256: "2d8fadf6bcc9ab32c20b5fa8ee28b214d533825549c677e35aa57b83dc928c23"
+title: ""
+---
+
+{"alternate_locations":{"servers":[{"server":"dn760107.eu.archive.org","dir":"/0/items/gri_000333125011213903"},{"server":"dn790008.ca.archive.org","dir":"/0/items/gri_000333125011213903"}],"workable":[{"server":"dn760107.eu.archive.org","dir":"/0/items/gri_000333125011213903"},{"server":"dn790008.ca.archive.org","dir":"/0/items/gri_000333125011213903"}]},"created":1790168920,"d1":"ia902802.us.archive.org","d2":"ia802802.us.archive.org","dir":"/19/items/gri_000333125011213903","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1733373546","size":"19986","md5":"fe918bba59eba92a379bdbcbdefb54a5","crc32":"81320e23","sha1":"33663a46604652f49b80278ed153284231248667","format":"Item Tile"},{"name":"gri_000333125011213903.pdf","source":"derivative","pdf_module_version":"0.0.25","pdf_degraded":"invalid-jp2-headers","format":"Text PDF","original":"gri_000333125011213903_page_numbers.json","mtime":"1733389760","size":"23645620","md5":"2f366f92a1ad1517e451fb474135bfc8","crc32":"cd65c93d","sha1":"772d7f93fe0031fd1d42190cd001c33578df7973"},{"name":"gri_000333125011213903_archive.torrent","source":"metadata","btih":"350047718c417923f26b838071cba4f31eba8f0c","mtime":"1733390290","size":"44399","md5":"44c57131023c2148a9a0c81fa090ea3d","crc32":"c36355f9","sha1":"970c4ede6ea3759c3cc90777d0c6ce610b0a57db","format":"Archive BitTorrent"},{"name":"gri_000333125011213903_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"lang-fra;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Thai","ocr_detected_script_conf":"0.6568","ocr_detected_lang":"fr","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"gri_000333125011213903_jp2.zip","mtime":"1733382773","size":"7208022","md5":"71cd9cc260634703fe9e9e073d39bb8f","crc32":"f78ccd32","sha1":"dded4655392eb61ea7469bc3e7e6a0e54b2f20af"},{"name":"gri_000333125011213903_cloth_detection.log","source":"derivative","format":"Cloth Cover Detection Log","original":"gri_000333125011213903_scandata.xml","mtime":"1733385371","size":"553","md5":"2af9fec71df963f54b138c32e3205bad","crc32":"044a3d5e","sha1":"f263f4bc6943e99e6dd82f36734f4bfeacdc91c9"},{"name":"gri_000333125011213903_dc.xml","source":"original","format":"Dublin Core","mtime":"1733378039","size":"1500","md5":"d4e803f526dacf6122753acf3900c073","crc32":"ae614528","sha1":"2d7973fecc3f2c230de2f7cab9d8bc64ab1ec793"},{"name":"gri_000333125011213903_djvu.txt","source":"derivative","format":"DjVuTXT","original":"gri_000333125011213903_djvu.xml","mtime":"1733384546","size":"500526","md5":"7c73daf66a9147d977a06713762486e5","crc32":"703d550e","sha1":"fcf71673429cd40d29985d8b0226e89614198b8b"},{"name":"gri_000333125011213903_djvu.xml","source":"derivative","format":"Djvu XML","original":"gri_000333125011213903_hocr.html","mtime":"1733383492","size":"6584176","md5":"8235c82a39abac9ffbfa0f14a5bf684a","crc32":"225a50da","sha1":"7edd466ffcfbb79132fb66a38c16f68d002e1cb9"},{"name":"gri_000333125011213903_files.xml","source":"original","format":"Metadata","md5":"cd3ecd1f954a34c23cbf67a206ec3391","summation":"md5"},{"name":"gri_000333125011213903_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.3.0","hocr_char_to_word_hocr_version":"1.1.56","ocr_parameters":"lang-fra;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Thai","ocr_detected_script_conf":"0.6568","ocr_detected_lang":"fr","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"gri_000333125011213903_chocr.html.gz","mtime":"1733383373","size":"12456344","md5":"20d25561964b521f0684fe6dbe8bcddb","crc32":"616ae99b","sha1":"7ab93f68dfb531ccfc1a17c6edc7582fbcb8bb9b"},{"name":"gri_000333125011213903_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.1.0","hocr_pageindex_hocr_version":"1.1.56","format":"OCR Page Index","original":"gri_000333125011213903_hocr.html","mtime":"1733383655","size":"5124","md5":"13ef48cfa4d8930c2778c3e77d962407","crc32":"532119ae","sha1":"3f39c657d5ee8ef4e2a6cf75b072b5b50642cecb"},{"name":"gri_000333125011213903_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.2.0","hocr_fts_text_hocr_version":"1.1.56","word_conf_0_10":"892","word_conf_11_20":"473","word_conf_21_30":"715","word_conf_31_40":"1010","word_conf_41_50":"1266","word_conf_51_60":"1549","word_conf_61_70":"2125","word_conf_71_80":"3590","word_conf_81_90":"10372","word_conf_91_100":"57912","format":"OCR Search Text","original":"gri_000333125011213903_hocr.html","mtime":"1733384359","size":"181506","md5":"67da35794ecdb34cb09073ec4497ecfb","crc32":"f675916f","sha1":"0aa2927082a9390abe474123eeebd4e8bdd03c70"},{"name":"gri_000333125011213903_images.zip","source":"original","mtime":"1733377658","size":"3819823566","md5":"bcbc379c39a713180281683c2532dcb2","crc32":"8f418232","sha1":"094368e7bde8cc6c21847a916e76d5dba396e9ad","format":"Generic Raw Book Zip","filecount":"433"},{"name":"gri_000333125011213903_jp2.zip","source":"derivative","format":"Single Page Processed JP2 ZIP","original":"gri_000333125011213903_images.zip","mtime":"1733380864","size":"130786047","md5":"0d75f548d81ecf3c64be3ce4f7088731","crc32":"bbe7f502","sha1":"8c944d08ccd2ac3abffab172e87409b15b17c888","filecount":"433"},{"name":"gri_000333125011213903_marc.xml","source":"original","mtime":"1610505408","size":"9144","md5":"6b7577904908d921c6032290386e4daf","crc32":"f1ee55ad","sha1":"1238903ea0c9d18545595e11ef5d71df86add5cf","format":"MARC"},{"name":"gri_000333125011213903_meta.sqlite","source":"original","mtime":"1733377750","size":"15360","format":"Metadata","md5":"63d27ded28ca05403b596348f895f0ea","crc32":"abe5341c","sha1":"f15d736a42c82648533ca7af10fb40f882b8feb4"},{"name":"gri_000333125011213903_meta.xml","source":"original","format":"Metadata","mtime":"1733389770","size":"2303","md5":"fd724eea1b0360d9f49d13ece8a8bd3f","crc32":"083355f1","sha1":"44c113da0463bfef3bfdc5e1d06e99043e0dc4ac"},{"name":"gri_000333125011213903_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.5","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"92","format":"Page Numbers JSON","original":"gri_000333125011213903_hocr.html","mtime":"1733385122","size":"73342","md5":"7796344ec25dbc205b9a795d6b4cebfe","crc32":"cab764c1","sha1":"def9663a183fea1999cc3f5f74a534d51dbfc949"},{"name":"gri_000333125011213903_scandata.xml","source":"derivative","format":"Scandata","original":"gri_000333125011213903_djvu.xml","mtime":"1733385123","size":"153494","md5":"cd2e09f48e9939b9894b1967b2e74593","crc32":"008fba87","sha1":"a2b89f34f5be70a65455bb7bc48c861b33e83e14"},{"name":"history\/files\/gri_000333125011213903_marc.xml.~1~","source":"original","format":"MARC","mtime":"1340239724","size":"5263","md5":"c0699a6ded410e3bf2d27d1fc5cbbc15","crc32":"3fc66ca2","sha1":"8c6cb337a4316cab4ca48fb69a950d240f670559","old_version":"true"},{"name":"history\/files\/gri_000333125011213903_meta.mrc.~1~","source":"original","format":"MARC Binary","mtime":"1340238014","size":"1305","md5":"bec4493ecb555f2e541d406a34f0c0f3","crc32":"3752faef","sha1":"04aadf671a65877d8c9baf5bd327ccd05e5baf94","old_version":"true"}],"files_count":21,"item_last_updated":1733390293,"item_size":4001517580,"metadata":{"identifier":"gri_000333125011213903","call_number":"317989","contributor":"Getty Research Institute","language":"fre","lccn":"03006074","mediatype":"texts","oclc-id":"21935908","operator":"Huseby Diane","page-progression":"lr","possible-copyright-status":"NOT_IN_COPYRIGHT","scan-center":"getty","scan-date":"201204061118","sponsor":"Getty Research Institute","volume":"v.3","scanner":"gri-digital-services","publicdate":"2012-06-21 00:20:08","title":"Essai politique sur le royaume de la Nouvelle-Espagne","uploader":"mandrea@getty.edu","addeddate":"2012-06-21 00:20:08","creator":"Humboldt, Alexander von, 1769-1859","publisher":"Paris : Chez F. Schoell","date":"1811","subject":["Mines and mineral resources","Mines and mineral resources -- Mexico","Travel","Mexico -- Description and travel","Mexico -- Statistics","Mexico"],"identifier-access":"http://archive.org/details/gri_000333125011213903","identifier-ark":"ark:/13960/t74t7rp99","repub_state":"4","collection":["getty","americana"],"backup_location":"ia903805_14","force-update":"true","description":"5 v. : 20 cm","foldoutcount":"0","page_number_confidence":"92","page_number_module_version":"1.0.5","camera":"TreVentus Mechatronics GmbH, ScanRobot 2.0","imagecount":"433","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"-l fra","ocr_module_version":"0.0.21","ocr_detected_script":"Thai","ocr_detected_script_conf":"0.6568","ocr_detected_lang":"fr","ocr_detected_lang_conf":"1.0000","pdf_degraded":"invalid-jp2-headers","pdf_module_version":"0.0.25"},"page_numbers":{
+    "identifier": "gri_000333125011213903",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.54",
+    "confidence": 92,
+    "pages": [
+        {
+            "leafNum": 0,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 1,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 2,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 3,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 4,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 5,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 6,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 7,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 8,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 9,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 10,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 11,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 12,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 13,
+            "confidence": 96,
+            "pageNumber": "6",
+            "pageProb": 86,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 14,
+            "confidence": null,
+            "pageNumber": "7",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 15,
+            "confidence": 91,
+            "pageNumber": "8",

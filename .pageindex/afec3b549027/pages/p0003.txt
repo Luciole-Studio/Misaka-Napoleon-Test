@@ -1,0 +1,10 @@
+
+
+## F 本卡产出的证据底稿（同目录）
+
+- `notes_buist.md` — Buist 概览章、金融中心转移、1804 Négociants Réunis、Ouvrard 在西班牙的权利、1805-05-06 合同与代理网人事
+- `notes_buist2.md` — 1805年法西危机全链、Account X 全账、英国政府立场、'Diana' 实绩、封锁法令时间序列、商品市场机制
+- `notes_rothschild.md` — 法兰克福制度前史、走私期、1811–13金流与 Mollien 错误、1814官方委托与汇率机制、1815百日反神话、1815–48战后形态
+- `notes_barings.md` — 路易斯安那与1803年停汇令、Gallatin 利润估计、1817年3.15亿法郎、1818年2.65亿与救援、Richelieu“第六强权”、1840s巴黎垄断、1871对照
+- `notes_centres.md` — 法兰克福资本市场（Ullmann）、汉堡 Mark Banco 与 agio、热那亚 San Giorgio 全案、米兰 Monte Napoleone，及跨案例“三分之一规则”小结
+- `tools/aa.py`、`tools/ia_get.py`、`tools/win.py` — 本卡使用的取材与定位脚本（均为只读检索与下载，无副作用）

@@ -1,0 +1,62 @@
+
+
+这是Davey转引Saumarez 1809-04-14致海军部信，注44的OCR档号失真，须查原PDF后定号。接续正文：
+> “Solly's similar (and repeated) requests of the 22 August 1809, 31 August, 8 September, 4 July 1810 suggest that his requests for special convoys were repeatedly accepted.”
+
+【事实：经Davey转引】1809年的任务明确保护获取海军用hemp的船只；1809–1810年供应商仍反复申请特殊护航。【文献推断：Davey】由反复申请推断反复获准，不能写成已核准每一次护航。
+
+【推断】替代“已足够”的强命题得不到支持；继续取得原产区大麻、利用航运与外交维持供应，才是本轮读到的机制。缺1808–1812年按产地大麻进口、船厂库存、绳索耗用和替代纤维验收系列，不能断言俄国供应一停就立即停航，也不能断言全球替代为零。
+
+### 8. 短缺叙事必须经史料批判：Davey明确警告Albion
+
+**原句**（D，注50，缓存行529–530，候选印刷p.13未影像核定）：
+> “Albion's tendency to exaggerate shortages should be noted however.”
+
+注6（缓存行293–301）转述Knight对Albion的批评：
+> “Albion's wider point, that timber shortage led to failure in war, was a fragile one at best.”
+
+【文献推断：Davey转述Knight】Knight “New England Forests and British Seapower: Albion Revised”, *The American Neptune* XLVI/4 (1986), pp.221–229，未亲读该篇。不要沿用另一网页书目将该文误列作*Mariner’s Mirror*。
+
+【推断】采购者索价、请求护航或抱怨短缺可反映真实困难，但不是舰队瘫痪的直接测量。Albion本人的导言p.ix也承认“on the whole, the supply was a success”。危机材料与成功适应材料应并读。
+
+### 9. 给养能力的强反证：1810年后应上调，不必借助舰材完全替代
+
+**原句**（D，印刷摘要p.v，可确认）：
+> “This thesis shows that in practice, naval supply was conducted very effectively; operations in the Baltic were not harmed for want of provisions.”
+> “By 1810 a fleet lying in the Baltic was as well supplied as one lying off Deptford, significantly widening operational capabilities.”
+
+【文献推断：Davey研究结论】远程运输、私人航运采购和地方供应，使波罗的海舰队给养有效。“同Deptford一样”是概括比较，不是标准化可用率估计。
+
+【推断】这是本轮最直接的封锁持续力上调证据。但对象是1808–1812波罗的海给养，不是全球舰队、舰体维修或海员训练均无瓶颈；也不能外推到反事实中瑞典绝对严禁供应的情况。
+
+### 10. 改善是分阶段的：1809年仍有缺口，不能统一给1808–1812满额保障
+
+**原句**（D，表27前文，缓存行3260–3270；正文位于p.244之前，准确印刷页未核）：
+> “1809 was the only year that too little was sent.”
+> “The victualling practice reforms in the winter of 1809-10 were not limited to organising victualling convoys in advance, making the timely arrival supplies more likely. They also marked a more efficient organisation of resources.”
+
+表27原列：1809 bread needed 1,619,199 lbs，delivered 1,388,240 lbs；1811 needed 1,307,382 lbs，delivered 1,355,200 lbs。
+
+【事实：作者核算】这是特定运输补充需要与供给，不是整个舰队年度全部口粮：另有出航自带库存、前期剩余等。来源列ADM 111多个VB Minutes卷、ADM 110/58及附录5，未阅底档。
+
+【限制】表中正负百分比使用的分母看似不一致，本次不沿用百分比、不将其解释为全舰队饥饿率。p.244后正文还明确记1809 spirits短缺、需当地购买。本条防止摘要的总体成功判断抹去短期缺口。
+
+### 11. 铜包皮供应的适应确有同期档案链，但产量未读到
+
+**原句**（G，GOOD/A/0205，1807-02-07，目录摘要）：
+> “re manufacture of new copper sheets from old copper at Portsmouth.”
+
+**原句**（G，GOOD/A/0213，1807-05-06）：
+> “a warrant from the Navy Board to work the copper mills day and night and employ ten more men”
+
+**原句**（G，GOOD/A/0249，1808-07-21）：
+> “Quantity of Copper Sheets manufactured in the 1st Year after beginning to work day and night at Ports[mou]th Metal Mills”
+
+【事实：馆方目录】存在旧铜再制新铜片、昼夜生产增员命令与首年产量信。仅亲读目录，非信件原文或其数表；“十人”是目录报告的命令，不保证实际到岗。
+
+【推断】铜的供给机制包含回收再轧和生产组织强化，不应与俄国hemp一样假设成单一路径的进口易断品。但无年产、损耗、原铜补充及舰队需求，尚不能量化其对封锁持续日数的贡献。
+
+### 12. 铜包皮效能有正文支持，但不能把18世纪技术增益重复算成1808年的新红利
+
+**原句**（M，公开预览“The Admiralty response”首段，注14，无页码）：
+> “Having overseen the coppering of the fleet between 1779 and 1782, he reaped credit for the significant difference it made to ship speed according to fleet commanders like Rodney”

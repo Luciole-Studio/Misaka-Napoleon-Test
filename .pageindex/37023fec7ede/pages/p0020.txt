@@ -1,0 +1,38 @@
+Table 7: Conscription rates and ruggedness using different measures of ruggedness.
+
+Note: This table displays the same specifications as in Table 3 using alternative measures of rugged-
+ness to exclude high but non-relevant values of ruggedness.
+
+  Conscription rate         (1)             (2)            (3)           (4)           (5)
+                                     Ruggedness with elevation > 2000m excluded:
+  Ruggedness             -0.83344        -1.04670       -0.39308      -1.69802      -2.09964
+                       (0.12281)*** (0.24873)***       (0.26342)    (0.49123)*** (0.65141)***
+                       [0.20642]*** [0.35947]***       [0.31248]    [0.64846]*** [0.73571]***
+  Observations              555             535            535           365           365
+  R-squared               0.15453        0.67497         0.68990       0.73625       0.73705
+                                  Log of Ruggedness with elevation > 2000m excluded:
+  Log of ruggedness      -0.83156        -1.54565       -0.98428      -2.47006      -2.46453
+                       (0.14697)*** (0.28695)*** (0.30738)*** (0.47932)*** (0.50169)***
+                       [0.27355]*** [0.40468]*** [0.37357]*** [0.45450]*** [0.48177]***
+  Observations              555             535            535           365           365
+  R-squared               0.13798        0.68365         0.69537       0.74574       0.74574
+                            Excluding glaciers and land covered by mountainous bear rocks:
+  Ruggedness             -0.74021        -0.75697       -0.16199      -1.08521      -1.30160
+                       (0.10966)*** (0.21844)***       (0.23114)    (0.40573)*** (0.59599)**
+                       [0.18389]*** [0.32368]**        [0.27792]     [0.56105]*    [0.69162]*
+  Observations              555             535            535           365           365
+  R-squared               0.15420        0.67113         0.68884       0.73196       0.73219
+                            Excluding glaciers and land covered by mountainous bear rocks:
+  Log of ruggedness      -0.82286        -1.45195       -0.89276      -2.38564      -2.40803
+                       (0.14235)*** (0.28139)*** (0.30262)*** (0.47658)*** (0.50719)***
+                       [0.26110]*** [0.39974]*** [0.37236]** [0.45648]*** [0.49263]***
+  Observations              555             535            535           365           365
+  R-squared               0.13938        0.68230         0.69446       0.74455       0.74456
+  Same Controls
+  as in Table 3             X              X              X                 X               X
+                                  *** p<0.01, ** p<0.05, * p<0.1
+
+
+
+
+                                                 20

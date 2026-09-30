@@ -1,0 +1,65 @@
+           40                                                             40
+                               1 year                                                        2 years
+
+           20                                                             20
+
+
+
+            0                                                              0
+
+
+
+           -20                                                           -20
+
+
+
+           -40                                                           -40
+                 1800   1805         1810          1815          1820          1800   1805      1810   1815   1820
+
+
+
+
+                               40
+                                                                  5 years
+
+                               20
+
+
+
+                                 0
+
+
+
+                               -20
+
+
+
+                               -40
+                                            1800          1805          1810   1815   1820
+
+
+
+
+Figure 8: Residuals, difference between observed and anticipated inflation, March 1797
+- April 1821
+
+Sources: Author’s calculations.
+
+of squares, SSbetween is the part of the variance that can be attributed to the different
+segment assignments and SSwithin refers to the variance that is attributed to the random
+error within the segment assignments. The part of the variance that is explained by the
+segmentation, is given by equation 5:
+
+
+
+
+                                      SStotal = SSbetween + SSwithin                                                 (4)
+
+
+
+
+                                              R2 = SSbetween /SStotal                                                (5)
+
+
+
+                                                                        36

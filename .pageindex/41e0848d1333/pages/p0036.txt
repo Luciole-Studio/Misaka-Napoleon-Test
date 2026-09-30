@@ -1,0 +1,35 @@
+                                                           Table 2: Complete Sample
+
+                                  (1)           (2)           (3)        (4)          (5)         (6)        (7)          (8)          (9)          (10)
+                                 Trust         Help          Fair       Trust        Help        Fair      Family        Trust        Help          Fair
+
+
+Code Civil (x100)             0.0465*** 0.0852*** 0.0338** 0.0420* 0.0821*** 0.0307* 0.00293 0.0887*** 0.149** * 0.0476***
+                               (0.0150) (0.0232) (0.0133) (0.0208) (0.0244) (0.0157) (0.0319) (0.0271) (0.0389) (0.0142)
+
+Individual Controls                No           No           No          Yes         Yes          Yes        Yes          Yes          Yes          Yes
+Religion (4 categories)            No           No           No          Yes         Yes          Yes        Yes          Yes          Yes          Yes
+Education (5 categories)           No           No           No          Yes         Yes          Yes        Yes          Yes          Yes          Yes
+Economic controls                  No           No           No          Yes         Yes          Yes        Yes          Yes          Yes          Yes
+
+Historical Controls                No           No           No          No           No          No         No           Yes          Yes          Yes
+
+Macroregion FE                    Yes          Yes          Yes         Yes          Yes         Yes         Yes         Yes           Yes          Yes
+Observations                     15096        15096        15096       15096        15096       15096       15039       15096         15096        15096
+R-Squared                        0.013        0.008        0.009       0.075        0.045       0.042       0.024       0.077         0.048        0.043
+
+Notes: OLS regressions. Dependent variables: Trust is the average of answers given to the following questions: “On the whole one cannot trust people”,
+“Nowadays one can’t rely on anyone” “If one is dealing with strangers, it is better to be careful before one can trust them”. Help: The question asks
+“Would you say that for most of the time, people...” and the variable takes on the value 1 for a the response “attempt to be helpful” and 0 for the response
+“or only act in their own interests”. Fair: The question asks ”Do you believe that most people...” and the variable takes on the value 0 for a the response
+“would exploit you if they had the opportunity” and 1 for the response “or would attempt to be fair towards you”. Family: The question asks “Please
+indicate how often you take part in each activity: Visits to and from family members and relatives”. The variable is measured of a 5 point scale, where 1
+indicates “daily”, 2 “at least once a week”, 3 “at least once a month”, 4 “seldom”, 5 “never”. Source: German Socio-Economic Panel, wave 2003.
+Historical controls include the longitude and latitude of the historical territory, the share of protestants in 1800, the urbanization rates in 1800 and 1850,
+as well as the territory’s distance to Paris.
+Heteroscedastic-robust standard errors in parentheses, clustered at the historical territory. ∗ p < 0.10, ∗∗ p < 0.05, ∗∗∗ p < 0.01
+
+
+
+
+                                                                              34

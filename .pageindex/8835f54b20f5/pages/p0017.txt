@@ -1,0 +1,58 @@
+3302                                 THE AMERICAN ECONOMIC REVIEW                                  DECEMBER 2011
+
+
+
+                              Table 6—Urbanization in Germany, Impact of Reforms
+
+                                                        Dependent variable: urbanization rate
+                                                  West of the Elbe                                  All
+                                                     Weighted,
+                                       Weighted       overid         Unweighted        Weighted       Unweighted
+                                         (1)           (2)              (3)              (4)             (5)
+Panel A. OLS estimation
+Reforms index                            0.281          0.281           0.220             0.268            0.191
+                                        [0.114]        [0.114]         [0.122]           [0.110]          [0.105]
+
+Panel B. First stage
+French presence × post1800               1.166                          1.116             1.006            0.960
+  × trend                               [0.107]                        [0.143]           [0.108]          [0.145]
+F-statistic excluded instruments         119.7         121.6            61.85             87.57            43.71
+p-value F-statistic                      0.000         0.000            0.000             0.000            0.000
+
+Panel C. 2SLS estimation
+Reforms index                            0.291          0.321           0.204             0.284            0.193
+                                        [0.102]        [0.112]         [0.124]           [0.112]          [0.143]
+
+Observations                              74             74             69                109              109
+Number of states                          13             13             12                 19               19
+p-value overidentified test                            0.328
+
+Notes: All regressions have full set of territory and year dummies. Robust standard errors clustered by territory.
+Weighted regressions are weighted by territories’ total population in 1750. The overidentified regression in column
+2 uses a full set of interactions of “Years of French presence” and year dummies as excluded instruments.
+
+
+
+
+   Estimates from equation (3) are shown in panel B of Table 6. The first column,
+using the sample west of the Elbe and population in 1750 as weights, shows a strong
+relationship between our French occupation interaction variable and the reform index.
+The coefficient estimate is 1.166 (standard error = 0.107). This strong relationship
+indicates that even though there were reforms in German areas not occupied by the
+French (perhaps because of “defensive modernization”), occupation by the French
+was a significant determinant of reform. Column 2 replaces the French occupation
+interaction variable t × Tt>1800 × Ij with a set of interactions of year dummies (from
+1850 on) with years of French presence and reports the p-value of joint signifi-
+cance of all these interaction terms. This specification also supports the hypothesis
+of a link between French rule and the implementation of reform ( p-value = 0.000).
+Finally, columns 3–5 confirm these results by looking at specifications without pop-
+ulation weights and using the whole of Germany including areas east of the Elbe in
+the sample. The magnitudes of the estimated coefficients are very similar.
+
+                                B. Two-Stage Least Squares Estimates
+
+   We next turn to the 2SLS estimates of the effect of our reform index on urbaniza-
+tion. We posit the following second-stage equation:
+
+
+(4)                                ujt = dt + δj + ϕ × Rjt + υjt,

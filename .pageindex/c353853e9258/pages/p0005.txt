@@ -1,0 +1,11 @@
+
+
+技术限制：已加载agent-reach及search reference；按其Exa CLI路由调用mcporter时，bash要求父级批准，未执行成功。改用本会话web_search/web_extract的可用Exa后端。未安装工具、未修改技能、未请求绕过授权。
+
+仅作下一阶段线索，不冒称读过档案：
+- AN AF IV 1122：逐期离省/到队报告（JEH注17）；AF IV 1123：Hargenvilliers汇总（Forrest）；AF IV 1124：1806—1810省级统计（JEH）。
+- Woloch p.110 Table 1：优先补原页，确认是levy授权表还是含实现额。
+- SHD检索命中“Levée, mise en activité et répartition … 1807–1811”：https://www.servicehistorique.sga.defense.gouv.fr/ark/24989，仅目录线索，未核原件。
+- SHD“2121 Organisation de l’armée au XIXe siècle”，D.3 p.1有1831—1866平均军额表：https://www.servicehistorique.sga.defense.gouv.fr/ark/924569，仅检索目录摘要，未取原表。
+
+**未完成项明示**：无全国1803—1814实到逐年表；1814年度命令总额空缺；Woloch原表空缺；Hargenvilliers/Darquenne原表空缺；七月王朝长期平均“和平军队”系列空缺。不存在用累计总额、地方样本或平均逃避率填补这些空缺的操作。

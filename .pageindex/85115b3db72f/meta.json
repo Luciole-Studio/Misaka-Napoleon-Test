@@ -1,0 +1,16 @@
+{
+  "doc_id": "85115b3db72f",
+  "title": "[t_c87512] nodes/r_5b1357a9c6/cards/t_c87512/P6_path_scores.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_c87512/P6_path_scores.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_c87512/P6_path_scores.csv"
+  ],
+  "sha256": "85115b3db72fb14547089bca9c15a8459c5242b1904de28fee5c0f93bcd07eb4",
+  "pages": 1,
+  "task_id": "t_c87512",
+  "task_ids": [
+    "t_c87512"
+  ],
+  "added_at": 1790179580,
+  "office_format": "csv"
+}

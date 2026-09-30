@@ -1,0 +1,23 @@
+
+
+## D5 1813–14终局与基尔条约（danmarkshistorien.lex.dk）
+来源：Freden i Kiel 14. januar 1814（Michael Bregnsbo，捕获 downloads/pages/0bb22c2907e0.md）；Fredstraktat...14. januar 1814全文（Schou's Udtog Deel 17, s.24–37，捕获 downloads/pages/2853653e1cb6.md）；Den dansk-norske skilsmisse i 1814（Ruth Hemstad，捕获 downloads/pages/d983cfd56cb8.md）。
+
+- 【事实】1813年俄瑞军入侵荷尔斯泰因与石勒苏益格（卡尔·约翰指挥瑞军）；腓特烈六世此前"stædigt afvist enhver tale om afståelser"（顽固拒绝任何割让）；1813年11月末奥地利调停方案（割部分挪威保其余）被拒；12-15卡尔·约翰接受停火但拒绝奥调停，提出两选项（立即割全挪换补偿承诺 / 先割部分战后割全部且无补偿）；1814-01-07奥放弃调停转支持瑞典要求→腓特烈屈服（Bregnsbo条目）。
+- 【事实·条约】1814-01-14基尔：对英条约——舰队不归还，英归还印度西印度殖民地与Anholt，丹割黑尔戈兰；对瑞条约28条：
+  - Art.3 丹麦对法宣战、派定额部队入北德联军受瑞王储指挥；
+  - Art.4 割"整个挪威王国"（列明Christiansand、Bergen、Aggershuus、Trondhjem四主教区含Nordlandene与Finmarken直至俄境）——"Grønland, Færøerne og Island ikke deri indbegrebne"（格陵兰、法罗、冰岛不在内）；挪威作为"et Kongerige forenet med det Svenske"（与瑞典联合的王国）而非行省；居民解除对丹效忠誓言；
+  - Art.5 瑞王承诺挪威人保有现行法律、豁免、权利、自由与特权；
+  - Art.6 丹麦国债按挪威/丹麦人口与收入比例分担，1814-01-01额度由两国专员核定（1814年底前完成）；
+  - Art.7 瑞典割瑞属波美拉尼亚+吕根岛给丹麦作补偿；Art.8 波美拉尼亚保1810/1811宪制、不经等级会议不得改币制；Art.9 丹麦继承1813-03-03英瑞同盟第6条：斯特拉尔松德港给英商20年堆栈权、1%从价税；Art.10–12 波美拉尼亚公债/捐赠/公益基金与格赖夫斯瓦尔德大学、挪威大学各自维持；Art.13 瑞典斡旋为丹麦在总和会取得"passende Skadesløsholdelse"（适当补偿）；
+  - Art.15 撤军序列：瑞军先占挪威要塞（Frederikshald、Kongsvinger、Frederiksstad、Aggershuus）后才交割波美拉尼亚；石勒苏益格立即撤军、荷尔斯泰因换约后交还（汉堡围城部队除外）、Glückstadt要塞交还；
+  - Art.16 两王立即发布公告解除被割地居民效忠誓言；Art.23 丹挪、瑞波间既有商业关系维持一年；Art.27 恢复1660/1720/1809延雪平诸和约效力；
+  - 秘密条款（Bregnsbo条目）：国王在挪私产处置+丹麦获100万daler补偿，丹方坚持保密以免被指"卖挪威人换钱"。
+- 【事实】批准：丹1-19/瑞1-25，2-09换文。盟国仍疑丹麦暗中支持挪威反抗，威胁维持占领荷尔斯泰因、瑞典拖延交付补偿；1815年1月占领军才最终撤离；维也纳会议确认缩小后丹麦国存续；1815年波美拉尼亚换普属劳恩堡（Bregnsbo条目；lex.dk条目）。
+- 【事实】丹麦国失去2/3面积（格陵兰除外计），失约90万挪威臣民；国内丹德人口比变为2:1（Bregnsbo条目；Fredstraktat导言）。
+- 【事实·挪威1814】Christian Frederik以总督在挪；2-16 Eidsvoll显贵会议否定其世袭主张、改走民选制宪路线；4-10至5-17制宪会议112代表、宪法110条；5-17通过宪法并全票选其为王（"Kongeriget Norge er et frit, uafhængigt og udeleligt rige. Dets regeringsform er indskrænket og arvelig-monarkisk"）；7-26瑞典开战；8-14 Moss公约（瑞典接受挪威宪法、Christian Frederik退位）；10-10退位；11-04修订宪法+选卡尔十三世为挪王→1905年止的松散共主联合（Hemstad条目）。
+- 【判断·Hemstad】"kom bruddet ikke indefra, men som resultatet af svensk diplomati og politik samt international storpolitik"（丹挪解体非内生，而是瑞典外交与国际强权政治的结果）；卡尔·约翰对列强的公开论证="战略上更安全的斯堪的纳维亚半岛"，北大西洋诸岛从不在其地缘图景内。
+- 【推断·本卡】基尔模式证明：挪威归属是大国交易品，但**交易执行成本由挪威社会反应决定**——瑞典最终不得不接受宪法（Moss），"补偿丹麦"的承诺则拖延执行。任何S5安排中把挪威简单划给某方都要计入这一"宪法折扣"。
+
+## D6 丹麦军队与1813年作战（权重知识，待锚点）
+- 【待核】丹麦常备军约3–4万+挪威军约3万（纸面）；1813年辅助军(Auxiliærkorpset,约1万)随达武在汉堡方向作战，12-10 Sehested之战突围。丹麦本土防御主力始终留在荷尔斯泰因-石勒苏益格。此段为权重知识，正文使用时标注置信并寻找锚点（Glenthøj & Ottosen 2014涵盖）。

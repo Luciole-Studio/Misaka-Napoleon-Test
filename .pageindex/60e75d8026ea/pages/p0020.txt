@@ -1,0 +1,42 @@
+went bankrupt.22
+    Reports from various departments paint a picture consistent with the numbers. Southern
+departments unanimously complained about a collapse in demand, with some blaming com-
+petition from foreign yarn.23 The situation in the northern departments could not have been
+more different. A report from the Nord stated that there was not much change in activity
+in linens, woolens and hemp. In contrast, they stated, trends in mechanized cotton spinning
+were completely different. In this branch of the textile sector, despite the high price of raw
+cotton, activity had picked up considerably, particularly during 1809 and 1810.24
+    It is worth bearing in mind, that the large increase in spinning came at a time when
+the economic environment was highly uncertain and a number of factors specific to the
+cotton industry made any form of development surprising. Importantly, cotton did not enjoy
+particularly favorable government support. This point should be taken into consideration
+when thinking both about the importance of state support for the cotton industry. The
+army used woolen textiles (Heckscher, 1922) and Napoleon remained highly ambivalent of
+developments in the cotton industry because of its reliance on imported inputs. In fact,
+cotton was the only textile to flourish in the French Empire during the Napoleonic Wars,
+despite it being the only textile singularly reliant on an imported input traded via sea-routes.
+Napoleon was constantly trying to find substitutes for raw cotton. He declared, “it would be
+better to use only wool, flax and silk, the products of our own soil, and to proscribe cotton
+forever on the Continent” (Heckscher, 1922, p. 277). In 1810, he offered a prize of one million
+francs for the invention of a flax-spinning machine and placed high tariffs on imports of raw
+cotton, despite the fact that prices had increased significantly during the blockade because
+of the disruption to trade.
+
+
+4.2     Short-run empirical strategy
+I now turn to estimating the extent to which trade protection was an important driver of
+the adoption of mechanized spinning technology. This would be the case if trade protection
+rendered profitable previously unprofitable locations. If entrepreneurs were not competitive
+at pre-blockade import prices for British yarn, and they became competitive once disruption
+to trade drove up the price of British yarn sufficiently to make entry profitable, we would
+  22
+      Archives Nationales, F12/1570-89. For example, the report from the prefect in Gers states all modern
+firms picked up in the 1806 survey had gone bankrupt, while that from the prefect of Haute-Garonne also
+states that many entrepreneurs have shut down.
+   23
+      Archives Nationales, F12/1570-1590. Foreign yarn is blamed by the Rhone department.
+   24
+      Archives Nationales, F12/1581
+
+
+                                                   20

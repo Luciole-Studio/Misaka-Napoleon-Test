@@ -1,0 +1,265 @@
+          "name": "Marco Bettiol",
+          "id": "https://openalex.org/A5082282185",
+          "institutions": []
+        },
+        {
+          "name": "Mauro Capestro",
+          "id": "https://openalex.org/A5034352396",
+          "institutions": []
+        },
+        {
+          "name": "Di Maria Eleonora",
+          "id": "https://openalex.org/A5045024664",
+          "institutions": []
+        },
+        {
+          "name": "Stefano Micelli",
+          "id": "https://openalex.org/A5085012745",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 2,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 18,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W1525773630",
+      "doi": null,
+      "title": "Die Schwäbisch-Österreichischen Landstände und Landtage im 16. Jahrhundert",
+      "year": 1965,
+      "type": "book",
+      "venue": "Medical Entomology and Zoology",
+      "venue_issn": "0424-7086",
+      "authors": [
+        {
+          "name": "Nico Sapper",
+          "id": "https://openalex.org/A5048016538",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 1,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W638444150",
+      "doi": "10.30965/9783657767779",
+      "title": "Agrarstatistik der Provinz Westfalen 1750-1880",
+      "year": 2009,
+      "type": "book",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Meinolf Nitsch",
+          "id": "https://openalex.org/A5068879718",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 1,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W4408945068",
+      "doi": "10.1515/jbwg-1970-110108",
+      "title": "OSTELBISCHE LANDARMUT - STATISTISCHES ÜBER LANDLOSE UND LANDARME AGRARPRODUZENTEN IM SPÄTFEUDALISMUS",
+      "year": 1970,
+      "type": "article",
+      "venue": "Jahrbuch für Wirtschaftsgeschichte / Economic History Yearbook",
+      "venue_issn": "0075-2800",
+      "authors": [
+        {
+          "name": "Jan Peters",
+          "id": "https://openalex.org/A5116837924",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 1,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2483255577",
+      "doi": "10.1007/978-3-531-19907-8_24",
+      "title": "Experimente in der Wirtschaftssoziologie",
+      "year": 2016,
+      "type": "book-chapter",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Tobias Wolbring",
+          "id": "https://openalex.org/A5042498941",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 1,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 93,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W4256037653",
+      "doi": "10.3790/schm.137.1-2.31",
+      "title": "The Geopolitical Context for Institutional Change: The Case of Prussia in the 17th and 18th Century",
+      "year": 2017,
+      "type": "article",
+      "venue": "Journal of Contextual Economics – Schmollers Jahrbuch",
+      "venue_issn": "0342-1783",
+      "authors": [
+        {
+          "name": "Christian Berker",
+          "id": "https://openalex.org/A5024281918",
+          "institutions": [
+            "New School",
+            "Technische Universität Darmstadt"
+          ]
+        }
+      ],
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_pdf": "https://hdl.handle.net/10419/292508",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 79,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W4399493990",
+      "doi": "10.3790/schm.2024.356870",
+      "title": "Agency and Institutional Change: The Dissolution of the Guild System in the 18th Century Rhineland",
+      "year": 2024,
+      "type": "article",
+      "venue": "Journal of Contextual Economics – Schmollers Jahrbuch",
+      "venue_issn": "0342-1783",
+      "authors": [
+        {
+          "name": "Alfred Reckendrees",
+          "id": "https://openalex.org/A5090164722",
+          "institutions": [
+            "Copenhagen Business School"
+          ]
+        }
+      ],
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_pdf": "https://doi.org/10.3790/schm.2024.356870",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 43,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W4408887395",
+      "doi": "10.3790/schm.2024.378706",
+      "title": "Institutional Change: Abolishing the Guild System in the Grand Duchy of Hesse-Darmstadt",
+      "year": 2024,
+      "type": "article",
+      "venue": "Journal of Contextual Economics – Schmollers Jahrbuch",
+      "venue_issn": "0342-1783",
+      "authors": [
+        {
+          "name": "Volker Caspari",
+          "id": null,
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_pdf": "https://doi.org/10.3790/schm.2024.378706",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 15,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W3133837108",
+      "doi": "10.2139/ssrn.3187337",
+      "title": "Napoleon in Italy: A Legacy of Institutional Reform?",
+      "year": 2018,
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "venue_issn": "1556-5068",
+      "authors": [
+        {
+          "name": "Giovanni Federico",
+          "id": "https://openalex.org/A5022676879",
+          "institutions": [
+            "European University Institute"
+          ]
+        },
+        {
+          "name": "Mark Dincecco",
+          "id": "https://openalex.org/A5007800932",
+          "institutions": [
+            "Google (United States)",
+            "University of Michigan"
+          ]
+        }
+      ],
+      "cited_by_count": 1,
+      "is_oa": true,
+      "oa_pdf": "https://doi.org/10.2139/ssrn.3187337",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 44,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    }
+  ]
+}

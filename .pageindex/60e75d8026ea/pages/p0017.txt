@@ -1,0 +1,39 @@
+and potential limitations, can be found in Appendix A.3. Summary statistics are reported
+in Table A.2.
+
+
+3.1       Quantifying the trade cost shock
+I use the Lloyd’s List to reconstruct trade routes between Britain and the Continent before
+and during the Napoleonic Wars. Using this information, supplemented with historical
+evidence presented in Section 2, I calculate the shortest effective distance to London for each
+department in the French Empire for both the pre-blockade and blockade period. I account
+for one of the most important drivers of increasing trade costs; the difference between water-
+and land-borne routes, by calibrating the ratio of the two to match the fact that, during this
+period, sailing from Rouen to Marseille was two-thirds of the cost of going overland (Daudin,
+2010). Based on these numbers, 1 sea kilometer is equivalent to 0.15 kilometers on land.
+    To quantify the shortest route prior to the onset of the Napoleonic Wars, I allow trade to
+pass through any port that was in use between 1787-1814. To calculate the shortest route
+between London and each department during the Napoleonic Wars, I restrict possible routes
+to the ones that were in operation during the Napoleonic Wars; Helgoland, Gothenburg,
+Gibraltar and Malta.18 For any department i, the algorithm then picks the least cost path.
+The trade cost shock, defined as the log-change in the shortest route to London for each
+department, can be seen in Figure 2, where darker shading shows a larger shock. Effective
+distance to London increased from a mean of 380 land kilometers in pre-blockade years to
+1,055 land kilometers in blockade years. Consistent with the geographic asymmetry in the
+success of the blockade, the trade cost shock decreased in intensity as we move from the
+north to the south of the French Empire.
+    For departments along the English Channel, the trade cost shock is high for two reasons.
+First, as they are located geographically close to Britain, their effective distance to London
+prior to the blockade was small. Second, as trade routes in northern Europe were disrupted
+to a larger extent than those in the south, these departments became furthest away from
+London in terms of their effective distance. For example, the department Seine-Maritime
+(prefecture Rouen) was situated 86 land-based kilometers from London prior to the blockade,
+and became 1,282 land-based kilometers away during the blockade. This is because the
+nearest smuggling port was Helgoland. From there, goods needed to make the long journey
+overland from the German coastline down to Strasbourg and up north again to reach the
+ 18
+      Appendix A.3 contains further details on the precise trading routes.
+
+
+
+                                                      17

@@ -1,0 +1,36 @@
+# SOURCES.md — SA 卡（南美各总督区精英与社会 ＋ 英国渗透）
+
+**引用诚信规则（本卡执行）**：只引本轮实际读到的版本；转引一律标注转引链；档案系列名只作谱系线索不冒充亲阅；索引库查无 ≠ 文献不存在；非英语来源本卡实际使用西班牙语 3 种、法语 1 种。
+
+---
+
+## A. 同期文书（亲读，本地全文）
+
+**A1 · Castlereagh, Robert Stewart, Viscount / Vane, Charles William (ed.), _Correspondence, Despatches, and Other Papers of Viscount Castlereagh, Second Marquess of Londonderry_, Second Series (Military and Miscellaneous), vol. VII, London: William Shoberl, 1851.**
+- 本地：`downloads/SA_Castlereagh_vol7.txt`（archive.org item `memoirscorrespon07castuoft` 的 `_djvu.txt`；1,077,370 bytes；sha256 `3e6a25b879d40a5adbac0fdbcdc74339a9d43e06eea288c428222fe1c20bbfe8`；doc `3e6a25b879d4`）
+- 实读段落：目录 pp.xi–xiv（txt 行 596–790）；Popham 1803-11-26 密件 印 pp.288–293（行 13535–13760）；Velasquez 1806-08-01《Private Annotations》印 pp.302–309（行 14277–14570）；Castlereagh 1807-05-01 内阁备忘录 印 pp.314–324（行 14802–15200）；Castlereagh 无日期《Memorandum relative to Spanish America》印 pp.385–387（行 17811–18010）；Cochrane–Miranda 1806-06-09 换文 印 pp.419–421（行 19640–19710）；匿名《River de la Plata》军事情报 印 pp.422–425（行 19750–19940）；《Produce of the Mines of Spanish America, in 1806》印 pp.451–452（行 21038–21075）。
+- 限定：OCR 文本，非影像核对；编者（Londonderry 侯爵）为选编者，未刊文件不可推定不存在。
+
+**A2 · Mariano Moreno, _Representación que el apoderado de los hacendados de las campañas del Río de la Plata dirigió al Excmo. Sr. Virrey Don Baltasar Hidalgo de Cisneros…_, Buenos Aires, 30 de septiembre de 1809.**
+- 本地：`downloads/pages/06e7744d9118.md`（ADHILAC 转录全文，154,044 clean chars；来源 URL `https://adhilac.com.ar/?p=206`，final_url 记为 `https://adhilac.com.ar/`）
+- 实读段落：开篇（行 1–40）、行 56（走私与关税实测）、行 82（蒙得维的亚开放实验）、行 211（赤字与秘鲁停汇）、行 273（西班牙王位继承战争先例、"veinte mil propietarios"、亲英论证）。
+- 限定：**网络转录本，非 1809 年原刊或手稿影像**；ADHILAC 未标注底本。凡引数字（4 百万／96,000／150 万／70 万／36 万／120 万／150 万）须在红队复核时与 Archivo General de la Nación (Argentina) 或经典校勘本对照。
+
+**A3 · Mariano Torrente, _Historia de la revolución hispano-americana_, tomo I, Madrid: Imprenta de Moreno, 1829.**
+- 本地：`downloads/SA_Torrente_HistRevHispanoAmericana.txt`（archive.org item `bub_gb_O95tMV_Ry9EC` 的 `_djvu.txt`；1,349,305 bytes；sha256 `08e087849c8bc012cb8a65f1f9deeb328231fff92a49192acb796dc0671965a9`；doc `08e087849c8b`）
+- 实读段落：贵金属年产表（行 995–1040）；保王军族群构成（行 3715–3745）；llaneros 与"gente de color"预言（行 6040–6075）；布宜诺斯艾利斯 1808（行 8440–8520）；查尔卡斯—拉巴斯章（行 8876–8971）；加拉加斯 1806–1809（行 9860–9990）。
+- 限定：**1829 年西班牙保王派回溯性叙述**，立场敌视独立运动；其数字未附档案出处。本卡一律作"保王派证词"使用并与秘鲁档案研究交叉。
+
+**A4 · François Raymond Joseph de Pons, _Voyage à la partie orientale de la Terre-Ferme, dans l'Amérique méridionale_, tome II, Paris, 1806.**
+- 本地：`downloads/SA_Depons_TerreFerme_v2.txt`（archive.org `voyagelapartieo01tardgoog`；622,986 bytes；doc `674c7962ecbf`）
+- 实读：可可种植章节（行 7286–7511）与若干人口／行政片段（行 2208–3111、4985–5435）。
+- 限定：本卷为农业—地理卷，委内瑞拉的人口分类总表在另卷，本轮未取得；故本卡的委内瑞拉社会结构数据主要依赖 A1、A3 与 B3。
+
+---
+
+## B. 二手研究（亲读或亲读其可检文本）
+
+**B1 · Brian R. Hamnett, _La política contrarrevolucionaria del Virrey Abascal: Perú, 1806–1816_, Lima: IEP, Documento de Trabajo 112 (Serie Historia 18), 2000.**
+- 获取：UT Austin 机构库 PDF 直接下载返回 HTTP 403；改以抽取文本取得，保存于 `downloads/pages/ef6378c5d947.md`（41,805 clean chars，含中段完整正文）。
+- 实读：全文头、中（行 225–345）与尾；核心数字经 grep 定位复核（行 428–436）。
+- 限定：作者自述"no presento nuevos datos"；其军力与财政数字转引 Anna (1978)、Díaz Venteo (1948)、Fisher (1977)、Pezuela《Memoria》(1947)。**本卡凡用其数字均为二手转引层。**

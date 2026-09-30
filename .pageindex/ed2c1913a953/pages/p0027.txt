@@ -1,0 +1,30 @@
+The experience of the suspension may also be understood within
+the context of recent theories of optimal seigniorage and revenue
+smoothing. During the years of the paper pound, the government can
+be viewed as having two fiscal instruments: taxation and
+seigniorage (the inflation tax). According to the theory the
+government would at each moment of time set each tax rate so as to
+minimize the deadweight losses (excess burdens) of the instrument
+(Diamond, 1971). Over time an optimizing government would smooth
+revenue from both tax instruments and both instruments would evolve
+in a similar martingale pattern (Mankiw, 1987, Poterba and
+Rotemberg (1990), Trehan and Walsh (1990)].
+
+A simple test of the revenue smoothing hypothesis is to
+regress the rate of inflation on the average tax rate. If revenue
+smoothing occurs, a positive and significant coefficient is
+expected (Mankiw, 1987). We replicated Mankiw's regressions for
+the period 1797-1815, in both levels with a Cochrane-Orcutt
+adjustment for serial correlation, and first differences. (See
+Table 6). As can be observed, none of our results were consistent
+with the hypothesis -- in every case the coefficient on the tax
+rate was of the wrong sign. As Goff and Toma (1990) argue,
+seigniorage smoothing would not be expected to prevail under a
+
+specie standard where the inflation rate does not exhibit
+
+“we also ran the regression using the nominal interest rate
+as dependent variable as did Mankiw (1989). In every case the
+coefficient on the tax rate was insignificant and the wrong sign.
+
+25

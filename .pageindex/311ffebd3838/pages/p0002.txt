@@ -1,0 +1,20 @@
+
+
+## C. 上一轮已核资产（复用并注路径；未重复验证处已标）
+12. **t_d604cd/nordic_evidence.md**（上一轮北欧支援札记，含S1–S8八来源核读与短引）：`nodes/r_b55f2c1cf5/cards/t_d604cd/nordic_evidence.md`。本卡复用其：瑞典《王位继承法》序言（S1）；Munch-Petersen 1996"Norway was always the essential price"（S2）；Nielsen 2012条约第5款军事强制（S3）；Norgeshistorie三条目（丹挪外交1797–1807、Barkebrødstider粮荒、贸易兴衰，S4–S6）；Ryan 1959防卫波罗的海贸易（S8，pp.443–448、454–455）；Davey摘要页v（S7）。其"缺口清单"（条约原件闸、Voelcker未取）本卡继承并在⑯-附申报。
+13. **B3卡舰材证据**：`nodes/r_5b1357a9c6/cards/t_998052/sources/stores/B3_stores_evidence.md`（Albion加拿大桅4,442→16,729、橡木1810–11序列、Davey"Albion夸大短缺"警告）——用于④-A挪威木材被替代的旁证。
+14. **协调台账**（R1/R2/R3/F1–F5/B1–B6等已验收口径）：`nodes/r_5b1357a9c6/coordination_ledger.md`——俄国敕令1810-12-31、贵族损失包络、F1克制先验、F2/F4 S6缺口等接口参数。
+
+## D. 转引层与快照（未亲读原件，均已在正文标注）
+15. lex.dk《Københavns bombardement》条目（搜索快照）：6,000弹/300+1,500屋两组损失口径（与a19ef3dd7086.md"约1,000屋"并存——口径差保留）。
+16. 1807.dk（Feldbæk指导专题论文，搜索快照）：舰队封存细节、Gambier 8-03过Kronborg。
+17. da.wikipedia《Statsbankerotten》（转录层，引Aarhus大学材料）：1838年回面值、犯罪率上升——仅作背景，不承重。
+18. Stefansson 1916（histdoc，搜索快照）：Borgå闭幕演说、参政院沿革、维堡回归——转引层已标。
+19. Coquelle 1909、Von Rosen书信、Ross回忆录、Boteler回忆录、Oddy 1811、Hall、Crowhurst等：**均经Davey 2009转引**，本卡未亲读原件；TNA ADM/SRO HA 93/FO档号照录Davey注释，未影像核对。
+20. Munch-Petersen《Defying Napoleon》(2007)：本轮仅经Davey p17注19书目确认存在，未取全文（上一轮同）。
+
+## E. 独立性说明
+- Barton与Glenthøj/Ottosen为相互独立的二手权威（美国北欧学派vs丹挪新生代），两者又独立于丹麦官方普及层（danmarkshistorien/lex.dk）；三线在1807、1813、1814关键事实上互证一致。
+- Davey与Crosby独立（英国海军后勤vs美俄贸易），但两者关于"封锁名存实亡"的判断共享部分底档（Saumarez文书）；已在⑬-D按"档案链+两独立叙事"计。
+- t_d604cd札记的Munch-Petersen/Nielsen与本轮Barton在"挪威=瑞典结盟必要价码"上为独立互证（不同作者、不同档案传统）。
+- 丹麦破产数字：Busck条目与Gyldendal条目同出丹麦学界主流（Svendsen等《Dansk Pengehistorie》谱系），按一个学派两次表述计，不作两独立来源。

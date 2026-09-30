@@ -1,0 +1,131 @@
+
+
+    .primary-nav-1 ia-dropdown-search-bar.primary-nav {
+      display: block;
+      position: static;
+      margin-right: 0.5rem;
+    }
+
+  }
+
+  @media (min-width: 990px) {
+    .primary-nav-1 .screen-name.primary-nav {
+      display: inline-block;
+      text-overflow: ellipsis;
+      overflow: hidden;
+      white-space: nowrap;
+      max-width: 165px;
+    }
+
+    .primary-nav-1 .upload.primary-nav span.primary-nav {
+      display: inline;
+      vertical-align: middle;
+    }
+
+  }
+</style><!-- Shady DOM styles for user-menu --><!-- Shady DOM styles for ia-wayback-search --><!-- Shady DOM styles for wayback-search -->
+<style scope="wayback-search-1">
+  .wayback-search-1 {
+    font: normal 1.2rem/1.5 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+
+  .wayback-search-1 form.wayback-search {
+    max-width: 600px;
+  }
+
+  .wayback-search-1 p.wayback-search {
+    margin-top: 0;
+    font-weight: 200;
+  }
+
+  .wayback-search-1 a.wayback-search {
+    font-weight: 500;
+    text-decoration: none;
+    color: #fff;
+  }
+
+  .wayback-search-1 fieldset.wayback-search {
+    padding: 0.7rem 2rem;
+    margin: 1.5rem 0;
+    box-sizing: border-box;
+    text-align: center;
+    border: none;
+    border-radius: 7px;
+    background-color: #fcf5e6;
+    box-shadow: 3px 3px 0 0 #c3ad97;
+  }
+
+  .wayback-search-1 label.wayback-search {
+    display: none;
+  }
+
+  .wayback-search-1 img.wayback-search {
+    width: 100%;
+    max-width: 215px;
+    max-height: 60px;
+    margin-bottom: 1.3rem;
+    vertical-align: middle;
+  }
+
+  .wayback-search-1 input.wayback-search {
+    display: block;
+    width: 100%;
+    height: 3rem;
+    padding: 0.5rem 1rem 0.5rem 2.5rem;
+    font: normal 1.2rem/1.5 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #858585;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 2rem;
+    background: #eee;
+  }
+
+  .wayback-search-1 input.wayback-search:focus {
+    border-color: #66afe9;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+    outline: none;
+  }
+
+  .wayback-search-1 .search-field.wayback-search {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .wayback-search-1 .search-field.wayback-search svg.wayback-search {
+    position: absolute;
+    top: 2px;
+    left: 3px;
+    width: 2.4rem;
+    height: 2.4rem;
+  }
+
+  .wayback-search-1 .search-field.wayback-search .fill-color.wayback-search {
+    fill: #999;
+  }
+
+  @media (min-width: 890px) {
+    .wayback-search-1 form.wayback-search {
+      margin: 0 auto;
+    }
+
+    .wayback-search-1 p.wayback-search {
+      margin-bottom: 3rem;
+      font-size: 1.6rem;
+      text-align: center;
+    }
+
+    .wayback-search-1 img.wayback-search {
+      margin: 0;
+    }
+
+    .wayback-search-1 fieldset.wayback-search {
+      margin: 0 auto;
+      font-size: 0;
+    }
+
+    .wayback-search-1 fieldset.wayback-search a.wayback-search,
+    .wayback-search-1 .search-field.wayback-search {
+      display: inline-block;
+      width: 50%;
+      vertical-align: middle;
+    }

@@ -1,0 +1,15 @@
+
+
+## 二、学术论文（已读）
+
+13. **[R] Philippe R. Girard, "The Ugly Duckling: The French Navy and the Saint-Domingue Expedition, 1801-1803," *International Journal of Naval History*.** 基于 SHD-DM BB4／AN CC9 A,B,C／BNA ADM 1、ADM 103、CO 137／University of Florida Rochambeau Papers／Historical Society of Pennsylvania。缓存 `downloads/pages/aee76684456e.md`（99,280字符；**已读头29,917＋尾9,863，中段未读**）。PDF 版 https://ijnh.seahistory.org/wp-content/uploads/sites/2/2012/01/Giraud.pdf 对本会话返回403。
+14. **[R] David Geggus, "Yellow fever in the 1790s: the British army in occupied Saint Domingue," *Medical History* 23:1 (1979) 38–58.** 本地 PDF `downloads/HT_Geggus1979_YellowFever.pdf`（doc be75a912fa61，21页，Cambridge Core 开放）。据 PRO WO 17 团／要塞报表、ADM 102 海军医院统计、WO 1/68、Scottish Record Office GD 193。已按 doc_find 核定：p.48（PDF p.11）"out of 20,200 British troops"；p.58（PDF p.21）"thirteen per cent per annum"。
+15. **[R] Lionel Trani, "Les effets de l'indépendance d'Haïti sur la société esclavagiste martiniquaise sous le Consulat et l'Empire (1802-1809)," *La Révolution française* 16 (2019)**, doi 10.4000/lrf.2923。缓存 `downloads/pages/90e66489ab34.md`（77,839字符；**已读头22,464＋尾7,429，中段未读**）。据 ANOM C8A/106、C8B/24–25、C7A/66、COL D2C 319、COL E 372bis；Léo Elisabeth；Gomez；Roberjot Lartigue 1815印本。
+16. **[R] Slave Voyages / Trans-Atlantic Slave Trade Database, "Estimates"**。legacy-aws.slavevoyages.org/assessment/estimates 直取全表（缓存 `downloads/pages/f12aed68b23e.md`）；主站 slavevoyages.org/assessment/estimates 的按区域表亦核对一致。**估计值非观测值**（法国记录完整度94.2%、西班牙68.8%，据 2010 Estimates methodology essay）。
+17. **[R] Charles Mackenzie, *Notes on Haiti, made during a residence in that republic*, vol. II, London 1830.** 本地全文 `downloads/HT_Mackenzie1830_NotesOnHaiti_v2.txt`（doc 49f52ab71d2e；archive.org id notesonhaitimad00mackgoog，Google 扫描，OCR 有误）。已读印本 pp.109–110、pp.155–166、pp.188–205。**作者为英国驻海地总领事，利益相关；表格因OCR破坏只取散文数字。**
+18. **[R] "Population and Labor in the British Caribbean in the Early Nineteenth Century"**（NBER 章节 PDF c9689；Engerman/Higman 系，引 Higman 1984 pp.41, 47）。英属加勒比奴隶775,000(1807)→665,000(1834)；1834补偿分类表。
+19. **[R] Bank of England Staff Working Paper No. 1006, "The collection of slavery compensation 1835–43."** £20m＝£15m公债＋£5m三点五厘减息年金；毛里求斯／开普／维尔京／巴巴多斯分配额；毛里求斯糖出口426吨(1812–14)→33,784吨(1830–34)。
+20. **[R] "La guerra de la Reconquista en Santo Domingo (1808-1809): una lucha por la continuidad histórica"**（centotredicesimo.org 转存学术抽印本）＋ **[R] UCM *Cuadernos de Historia Contemporánea* 相关论文 PDF**（revistas.ucm.es/index.php/CHCO/article/download/50991/47328）。据 AGI、Junta Central 通信、Sánchez Ramírez 日记、Guillermin《Diario histórico》、Lemonnier-Delafosse 1846。
+21. **[R] 英国议会官网 "The West Indian colonies and emancipation"** 与 **[R] understandingslavery.com "Emancipation"**（1839–46糖产降36%、牙买加半数庄园停业、96,850名印度契约工）。后者为教育机构网页，**次级来源**。
+22. **[R] ANOM 专题页「28 mai 1802: le suicide de Louis Delgrès」**（archives-nationales-outre-mer.culture.gouv.fr）。
+23. **[R] repairs.huma-num.fr/Base/1**（法国"Repairs"赔款研究项目）；**[R] AlterPresse 系列（2025）**；**[R] Haïti Liberté 2025-07-08 纪念文**（转引 Madiou 与 Mackau 报告）；**[R] 法国国民议会2025年第1267号提案说明**。以上四者就1825年舰队抵达日期存在冲突（07-03 vs 07-09），本卡并列保留。

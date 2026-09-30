@@ -1,0 +1,43 @@
+nical constraint as price indices did not exist at the time and available data were not
+exploited thoroughly (Arnon, 1990). Primarily, this is, however, done to grant historical
+coherence between my findings, contemporaries’ information set, and the Bullion Re-
+port’s sources and basic hypotheses.
+
+
+Contemporaries paid attention to prices of specific, widely traded goods, such as wheat,
+gold bullion and sterling bills of exchange (notably on Hamburg and Amsterdam). Of
+these data, I will concentrate on the difference between the market and the mint price
+of gold bullion9 , the agio (see also section 3.2), for the following reasons:
+
+
+
+       • Absent efficient storage technologies, wheat prices were affected by various real
+         factors, such as bad harvests (Tooke, 1824) or the various trade barriers installed
+         during the period under consideration (for the Continental System, see Crouzet,
+         1964; for the US embargo, see Frankel, 1982). These factors stood in no connection
+         with agents’ expectation on fiscal sustainability and would render the interpretation
+         of thus noisy price data difficult.
+
+       • The exchange rate was affected by (real) factors that had no direct relevance for
+         the internal valuation of the currency. When, for instance, the pound sterling
+         depreciated on the Hamburg exchange between 1800 and 1801, this was due to bad
+         harvests and deflation in Hamburg (Newby, 2008).
+
+       • The supply of precious metals was stable during the Restriction Period (Barro,
+         1987). In addition, melting down and export of British coin were prohibited. I
+         also posit that changes in the demand for non-monetary uses of gold did not occur
+         during the Restriction Period.10
+
+       • Financial data offer the advantage of reflecting subjective expectations of decision
+         makers about the future. Therefore, their use avoids certain selection biases: fi-
+   9
+       In 1717, Newton fixed the pound sterling at a gold price of £3 17s 10.5d. This mint price lasted
+with lapses for the two restriction periods until 1931.
+  10
+     It is well known that prices for precious metals increase in times of financial or political turmoil.
+This reflects precautionary motives for the detention of gold or ‘the flight to quality’. As this entails a
+hedge against future inflation, I consider that this motive for the acquisition of gold is in line with my
+hypothesis and that it can be understood as a future monetary use of gold.
+
+
+                                                    17

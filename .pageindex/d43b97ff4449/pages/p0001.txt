@@ -1,0 +1,47 @@
+---
+source_url: "https://statmodeling.stat.columbia.edu/2005/03/28/potential_outco/"
+final_url: "https://statmodeling.stat.columbia.edu/2005/03/28/potential_outco/"
+sha256: "8734b3706e1e6ec7071bf7027e925013d001fb8ae17f4551c03bfa1bf3c9c5de"
+text_sha256: "5bc81a9bc64501e6802a6bdcb4e424c2f9a10ca00decc61f63aaa77abb0ff290"
+title: "Potential outcomes, causal inference, and virtual history | Statistical Modeling, Causal Inference, and Social Science"
+---
+
+Title: Potential outcomes, causal inference, and virtual history | Statistical Modeling, Causal Inference, and Social Science
+
+Skip to primary content
+
+# [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
+
+##
+
+Search
+
+### Main menu
+
+- [Home](https://statmodeling.stat.columbia.edu/)
+- [Authors](https://statmodeling.stat.columbia.edu/authors/)
+- [Blogs We Read](https://statmodeling.stat.columbia.edu/blogs-i-read/)
+- [Books](https://statmodeling.stat.columbia.edu/books/)
+- [Sponsors](https://statmodeling.stat.columbia.edu/sponsors/)
+
+### Post navigation
+
+[Postdoctoral position available](https://statmodeling.stat.columbia.edu/2005/03/25/postdoctoral_po/) [Theoretical work on legislative districting](https://statmodeling.stat.columbia.edu/2005/03/29/theoretical_wor/)
+
+# Potential outcomes, causal inference, and virtual history
+
+Posted on [March 28, 2005 12:38 AM](https://statmodeling.stat.columbia.edu/2005/03/28/potential_outco/) by [Andrew](https://statmodeling.stat.columbia.edu/author/andrew/)
+
+A few years ago I picked up the book Virtual History: Alternatives and Counterfactuals, edited by Niall Ferguson. It’s a book of essays by historians on possible alternative courses of history (what if Charles I had avoided the English civil war, what if there had been no American Revolution, what if Irish home rule had been established in 1912, …).
+
+There have been and continue to be other books of this sort (for example, What If: Eminent Historians Imagine What Might Have Been, edited by Robert Cowley), but what makes the Ferguson book different is that he (and most of the other authors in his book) are fairly rigorous in only considering possible actions that the relevant historical personalities were actually considering. In the words of Ferguson’s introduction: “We shall consider as plausible or probable only those alternatives which we can show on the basis of contemporary evidence that contemporaries actually considered.”
+
+I like this idea because it is a potentially rigorous extension of the now-standard “Rubin model” of causal inference.
+
+As Ferguson puts it,
+
+Firstly, it is a logical necessity when asking questions about causality to pose ‘but for’ questions, and to try to imagine what would have happened if our supposed cause had been absent.
+
+And the extension to historical reasoning is not trivial, because it requires examination of actual historical records in order to assess which alternatives are historically reasonable.
+
+Here’s Ferguson making the case that potential outcomes (in statistical terminology, the “Rubin causal model”) are particularly relevant to the study of historical causation:

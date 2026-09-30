@@ -1,0 +1,44 @@
+GRP : revues JOB : num121⊕xml DIV : 10⊕LevyGarbouaMonnet p. 14 folio : 48 --- 5/4/016 --- 16H4
+
+
+
+
+                                                            REVUE D’ÉCONOMIE FINANCIÈRE
+
+
+
+                      1929 et les modèles économiques interventionnistes qui s’imposèrent
+                      après la Seconde Guerre mondiale dans un contexte de guerre froide ;
+                      le système économique et politique libéral ensuite qui triomphe poli-
+                      tiquement et économiquement à partir des années 1980 et qui a fait
+                      dire à certains que le capitalisme avait retrouvé des caractéristiques
+                      proches de celles du XIXe siècle, notamment en ce qui concerne le rôle
+                      des marchés financiers.
+                         La corrélation entre r et g varie également significativement selon les
+                      périodes (que ce soit pour la moyenne mobile ou la série brute) : elle
+                      est positive de 1820 à 1914, négative de 1914 à 1980, puis à nouveau
+                      positive depuis. Pour la série brute, la corrélation est de 0,24 entre 1820
+                      et 1914, de –0,48 entre 1915 et 1980, puis de 1,52 entre 1981 et 2015.
+                      L’identification de breaks structurels avec la méthode Bai-Perron isole
+                      ainsi deux points de rupture : 1944 et 1974. La corrélation est alors
+                      de 0,32 entre 1820 et 1944, de –1,04 entre 1944 et 1974 et de 1,21
+                      entre 1974 et 2015. La période des Trente Glorieuses apparaît donc
+                      bien comme une exception à cet égard.
+                         L’inconvénient de la comparaison précédente entre taux réel et
+                      croissance en volume est qu’elle oblige à déflater par des indices de
+                      prix souvent imprécis et mal mesurés historiquement. Pour se débar-
+     48               rasser de ce biais, on a comparé sur le graphique 14 le taux d’intérêt
+                      nominal au taux de croissance du PIB nominal.
+                                                             Graphique 14
+                                               PIB nominal et taux nominaux, 1825-2015
+
+
+
+
+                                      ère
+                      Sources : cf. 1 partie de l’article intitulée « Présentation des données » ; Piketty (2013) et Insee pour le PIB.
+
+                        Les conclusions sont voisines de l’analyse précédente et la succession
+                      de trois périodes distinctes et fortement marquées par un changement
+                      de rapport entre r et g est confirmée. La différence principale apparaît
+                      sur la période récente : à partir de 1980, certes r est supérieur à g de

@@ -1,0 +1,59 @@
+Table 12: Draft-dodging and ruggedness with alternative to “Distance from Paris”.
+
+Note: This table displays the same regressions as in Table 1 while replacing “Distance from Paris”
+with “Travel cost to Paris.” We report robust standard errors in parenthesis and Conley standard
+errors (100km) in brackets.
+      Draft-dodging rate                        (1)              (2)             (3)             (4)          (5)             (6)
+      Log of ruggedness                       3.16375          2.88612         3.89288         5.75363      6.96121         6.65639
+                                           (0.57352)***    (0.93131)***    (1.06323)***   (1.70418)***   (1.72031)***    (1.78429)***
+                                            [1.32991]**     [1.32515]**    [1.30317]***   [2.01416]***   [2.21429]***    [2.22949]***
+      Townships Density                                      -100.09052      -111.08467      -80.37848     -44.30469       -37.50246
+                                                          (19.16306)***   (20.26873)***    (45.75262)*    (46.17883)      (45.25740)
+                                                          [36.15076]***   [36.87713]***     [80.20601]    [75.26936]      [72.83559]
+      Travel cost to Paris                                     0.17286         0.16529        -0.01955      0.04789         0.04568
+                                                           (0.04988)***    (0.04976)***      (0.06266)     (0.06877)       (0.06934)
+                                                            [0.07955]**     [0.07851]**      [0.09133]     [0.09723]       [0.09796]
+      Border                                                   2.59494         3.03584         4.39649      4.38448         4.23074
+                                                            (1.31833)**     (1.34541)**     (2.37496)*    (2.59907)*       (2.61682)
+                                                              [1.79957]      [1.80598]*      [3.62634]     [3.83561]       [3.91533]
+      Same Controls as in Table 1
+      (except for “Distance from Paris”)        X               X               X              X              X               X
+      Observations                             554             520             520            360            288             288
+      R-squared                              0.12556         0.66014         0.66307        0.75933        0.79031         0.79046
+                                                       *** p<0.01, ** p<0.05, * p<0.1
+
+
+
+
+ Table 13: Conscription and ruggedness with alternative to “Distance from Paris”.
+
+Note: This table displays the same regressions as in Table 3 while replacing “Distance from Paris”
+with “Travel cost to Paris.” We report robust standard errors in parenthesis and Conley standard
+errors (100km) in brackets.
+
+         Conscription rate                            (1)               (2)          (3)          (4)          (5)
+         Log of ruggedness                         -0.81793          -1.45973     -0.89312     -2.40067     -2.44831
+                                                 (0.14110)***     (0.28334)*** (0.30380)*** (0.48495)*** (0.51762)***
+                                                 [0.25757]***     [0.40252]*** [0.38069]** [0.46231]*** [0.49557]***
+         Exemption rate                                              -0.31921     -0.31661     -0.33557     -0.33584
+                                                                  (0.01720)*** (0.01676)*** (0.02005)*** (0.02013)***
+                                                                  [0.02256]*** [0.02130]*** [0.02122]*** [0.02120]***
+         Townships Density                                            5.54250      0.18260     -6.15161     -5.07760
+                                                                    (6.08921)    (5.91194)   (10.53551)   (11.34679)
+                                                                    [8.52403]    [8.11703]   [11.40585]    [13.41541]
+         Travel cost to Paris                                        -0.00710     -0.00885      0.03248      0.03213
+                                                                    (0.01577)    (0.01575)    (0.02076)    (0.02098)
+                                                                    [0.02195]    [0.02226]    [0.02667]     [0.02696]
+         Border                                                      -1.70960     -1.47786     -1.52569     -1.55282
+                                                                  (0.44264)*** (0.44390)*** (0.69000)** (0.69615)**
+                                                                  [0.55695]*** [0.56436]*** [0.66226]**   [0.67042]**
+         Same Controls as in Table 3
+         (except for “Distance from Paris”)      X              X                      X                 X                 X
+         Observations                           555            520                    520               360               360
+         R-squared                            0.13954       0.68694                 0.69945           0.74666           0.74672
+                                       *** p<0.01, ** p<0.05, * p<0.1
+
+
+
+
+                                                                   27

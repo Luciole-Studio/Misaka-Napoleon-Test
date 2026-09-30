@@ -1,0 +1,371 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+Saint Lucia,LCA,1780,46451
+Saint Lucia,LCA,1790,50259
+Saint Lucia,LCA,1800,24000
+Saint Lucia,LCA,1801,24000
+Saint Lucia,LCA,1802,24000
+Saint Lucia,LCA,1803,24000
+Saint Lucia,LCA,1804,24000
+Saint Lucia,LCA,1805,24000
+Saint Lucia,LCA,1806,24000
+Saint Lucia,LCA,1807,24000
+Saint Lucia,LCA,1808,24000
+Saint Lucia,LCA,1809,24000
+Saint Lucia,LCA,1810,24000
+Saint Lucia,LCA,1811,24000
+Saint Lucia,LCA,1812,24000
+Saint Lucia,LCA,1813,24000
+Saint Lucia,LCA,1814,24000
+Saint Lucia,LCA,1815,24000
+Saint Lucia,LCA,1816,24000
+Saint Lucia,LCA,1817,24000
+Saint Lucia,LCA,1818,24000
+Saint Lucia,LCA,1819,24000
+Saint Lucia,LCA,1820,24000
+Saint Lucia,LCA,1821,24000
+Saint Lucia,LCA,1822,24000
+Saint Lucia,LCA,1823,24000
+Saint Lucia,LCA,1824,24000
+Saint Lucia,LCA,1825,24000
+Saint Lucia,LCA,1826,24000
+Saint Lucia,LCA,1827,24000
+Saint Lucia,LCA,1828,24000
+Saint Lucia,LCA,1829,24000
+Saint Lucia,LCA,1830,24000
+Saint Lucia,LCA,1831,24000
+Saint Lucia,LCA,1832,24000
+Saint Lucia,LCA,1833,24000
+Saint Lucia,LCA,1834,24000
+Saint Lucia,LCA,1835,24000
+Saint Lucia,LCA,1836,24000
+Saint Lucia,LCA,1837,24000
+Saint Lucia,LCA,1838,24000
+Saint Lucia,LCA,1839,24000
+Saint Lucia,LCA,1840,24000
+Saint Lucia,LCA,1841,24000
+Saint Lucia,LCA,1842,24000
+Saint Lucia,LCA,1843,24000
+Saint Lucia,LCA,1844,24000
+Saint Lucia,LCA,1845,24000
+Saint Lucia,LCA,1846,24000
+Saint Lucia,LCA,1847,24000
+Saint Lucia,LCA,1848,24000
+Saint Lucia,LCA,1849,24057
+Saint Lucia,LCA,1850,24171
+Saint Lucia,LCA,1851,24379
+Saint Lucia,LCA,1852,24647
+Saint Lucia,LCA,1853,24975
+Saint Lucia,LCA,1854,25308
+Saint Lucia,LCA,1855,25645
+Saint Lucia,LCA,1856,25987
+Saint Lucia,LCA,1857,26332
+Saint Lucia,LCA,1858,26683
+Saint Lucia,LCA,1859,27067
+Saint Lucia,LCA,1860,27485
+Saint Lucia,LCA,1861,27940
+Saint Lucia,LCA,1862,28430
+Saint Lucia,LCA,1863,28959
+Saint Lucia,LCA,1864,29497
+Saint Lucia,LCA,1865,30046
+Saint Lucia,LCA,1866,30604
+Saint Lucia,LCA,1867,31173
+Saint Lucia,LCA,1868,31752
+Saint Lucia,LCA,1869,32361
+Saint Lucia,LCA,1870,33000
+Saint Lucia,LCA,1871,33671
+Saint Lucia,LCA,1872,34373
+Saint Lucia,LCA,1873,35110
+Saint Lucia,LCA,1874,35862
+Saint Lucia,LCA,1875,36630
+Saint Lucia,LCA,1876,37414
+Saint Lucia,LCA,1877,38215
+Saint Lucia,LCA,1878,39034
+Saint Lucia,LCA,1879,39767
+Saint Lucia,LCA,1880,40414
+Saint Lucia,LCA,1881,40970
+Saint Lucia,LCA,1882,41433
+Saint Lucia,LCA,1883,41799
+Saint Lucia,LCA,1884,42168
+Saint Lucia,LCA,1885,42541
+Saint Lucia,LCA,1886,42917
+Saint Lucia,LCA,1887,43296
+Saint Lucia,LCA,1888,43679
+Saint Lucia,LCA,1889,44155
+Saint Lucia,LCA,1890,44726
+Saint Lucia,LCA,1891,45397
+Saint Lucia,LCA,1892,46169
+Saint Lucia,LCA,1893,47046
+Saint Lucia,LCA,1894,47939
+Saint Lucia,LCA,1895,48849
+Saint Lucia,LCA,1896,49776
+Saint Lucia,LCA,1897,50721
+Saint Lucia,LCA,1898,51684
+Saint Lucia,LCA,1899,52454
+Saint Lucia,LCA,1900,53029
+Saint Lucia,LCA,1901,53405
+Saint Lucia,LCA,1902,53577
+Saint Lucia,LCA,1903,53541
+Saint Lucia,LCA,1904,53505
+Saint Lucia,LCA,1905,53469
+Saint Lucia,LCA,1906,53434
+Saint Lucia,LCA,1907,53398
+Saint Lucia,LCA,1908,53362
+Saint Lucia,LCA,1909,53411
+Saint Lucia,LCA,1910,53545
+Saint Lucia,LCA,1911,53766
+Saint Lucia,LCA,1912,54073
+Saint Lucia,LCA,1913,54468
+Saint Lucia,LCA,1914,54866
+Saint Lucia,LCA,1915,55267
+Saint Lucia,LCA,1916,55670
+Saint Lucia,LCA,1917,56076
+Saint Lucia,LCA,1918,56411
+Saint Lucia,LCA,1919,56843
+Saint Lucia,LCA,1920,57376
+Saint Lucia,LCA,1921,58012
+Saint Lucia,LCA,1922,58752
+Saint Lucia,LCA,1923,59599
+Saint Lucia,LCA,1924,60458
+Saint Lucia,LCA,1925,61330
+Saint Lucia,LCA,1926,62213
+Saint Lucia,LCA,1927,63110
+Saint Lucia,LCA,1928,64020
+Saint Lucia,LCA,1929,64957
+Saint Lucia,LCA,1930,65923
+Saint Lucia,LCA,1931,66918
+Saint Lucia,LCA,1932,67943
+Saint Lucia,LCA,1933,68999
+Saint Lucia,LCA,1934,70071
+Saint Lucia,LCA,1935,71159
+Saint Lucia,LCA,1936,72265
+Saint Lucia,LCA,1937,73387
+Saint Lucia,LCA,1938,74527
+Saint Lucia,LCA,1939,75634
+Saint Lucia,LCA,1940,76707
+Saint Lucia,LCA,1941,77745
+Saint Lucia,LCA,1942,78746
+Saint Lucia,LCA,1943,79709
+Saint Lucia,LCA,1944,80684
+Saint Lucia,LCA,1945,81671
+Saint Lucia,LCA,1946,82670
+Saint Lucia,LCA,1947,83681
+Saint Lucia,LCA,1948,84705
+Saint Lucia,LCA,1949,85710
+Saint Lucia,LCA,1950,93009
+Saint Lucia,LCA,1951,93988
+Saint Lucia,LCA,1952,94432
+Saint Lucia,LCA,1953,94347
+Saint Lucia,LCA,1954,94123
+Saint Lucia,LCA,1955,93821
+Saint Lucia,LCA,1956,93473
+Saint Lucia,LCA,1957,93100
+Saint Lucia,LCA,1958,92731
+Saint Lucia,LCA,1959,92369
+Saint Lucia,LCA,1960,92605
+Saint Lucia,LCA,1961,93506
+Saint Lucia,LCA,1962,94523
+Saint Lucia,LCA,1963,95539
+Saint Lucia,LCA,1964,96529
+Saint Lucia,LCA,1965,97513
+Saint Lucia,LCA,1966,98486
+Saint Lucia,LCA,1967,99523
+Saint Lucia,LCA,1968,100696
+Saint Lucia,LCA,1969,101904
+Saint Lucia,LCA,1970,103184
+Saint Lucia,LCA,1971,104577
+Saint Lucia,LCA,1972,106021
+Saint Lucia,LCA,1973,107512
+Saint Lucia,LCA,1974,109093
+Saint Lucia,LCA,1975,110740
+Saint Lucia,LCA,1976,112442
+Saint Lucia,LCA,1977,114150
+Saint Lucia,LCA,1978,115853
+Saint Lucia,LCA,1979,117547
+Saint Lucia,LCA,1980,119302
+Saint Lucia,LCA,1981,121183
+Saint Lucia,LCA,1982,123097
+Saint Lucia,LCA,1983,125055
+Saint Lucia,LCA,1984,127085
+Saint Lucia,LCA,1985,129174
+Saint Lucia,LCA,1986,131253
+Saint Lucia,LCA,1987,133243
+Saint Lucia,LCA,1988,135019
+Saint Lucia,LCA,1989,136526
+Saint Lucia,LCA,1990,137874
+Saint Lucia,LCA,1991,139536
+Saint Lucia,LCA,1992,141629
+Saint Lucia,LCA,1993,143735
+Saint Lucia,LCA,1994,145901
+Saint Lucia,LCA,1995,148227
+Saint Lucia,LCA,1996,150453
+Saint Lucia,LCA,1997,152584
+Saint Lucia,LCA,1998,154688
+Saint Lucia,LCA,1999,156719
+Saint Lucia,LCA,2000,158624
+Saint Lucia,LCA,2001,160247
+Saint Lucia,LCA,2002,161655
+Saint Lucia,LCA,2003,162985
+Saint Lucia,LCA,2004,164250
+Saint Lucia,LCA,2005,165460
+Saint Lucia,LCA,2006,166657
+Saint Lucia,LCA,2007,167766
+Saint Lucia,LCA,2008,168816
+Saint Lucia,LCA,2009,169880
+Saint Lucia,LCA,2010,170921
+Saint Lucia,LCA,2011,171814
+Saint Lucia,LCA,2012,172595
+Saint Lucia,LCA,2013,173380
+Saint Lucia,LCA,2014,174145
+Saint Lucia,LCA,2015,174919
+Saint Lucia,LCA,2016,175651
+Saint Lucia,LCA,2017,176352
+Saint Lucia,LCA,2018,177032
+Saint Lucia,LCA,2019,177675
+Saint Lucia,LCA,2020,178261
+Saint Lucia,LCA,2021,178540
+Saint Lucia,LCA,2022,178794
+Saint Lucia,LCA,2023,179291
+Saint Martin (French part),MAF,1800,5380
+Saint Martin (French part),MAF,1820,5380
+Saint Martin (French part),MAF,1950,3004
+Saint Martin (French part),MAF,1951,3132
+Saint Martin (French part),MAF,1952,3250
+Saint Martin (French part),MAF,1953,3376
+Saint Martin (French part),MAF,1954,3498
+Saint Martin (French part),MAF,1955,3622
+Saint Martin (French part),MAF,1956,3745
+Saint Martin (French part),MAF,1957,3869
+Saint Martin (French part),MAF,1958,3994
+Saint Martin (French part),MAF,1959,4133
+Saint Martin (French part),MAF,1960,4272
+Saint Martin (French part),MAF,1961,4407
+Saint Martin (French part),MAF,1962,4551
+Saint Martin (French part),MAF,1963,4695
+Saint Martin (French part),MAF,1964,4853
+Saint Martin (French part),MAF,1965,5020
+Saint Martin (French part),MAF,1966,5234
+Saint Martin (French part),MAF,1967,5494
+Saint Martin (French part),MAF,1968,5714
+Saint Martin (French part),MAF,1969,5887
+Saint Martin (French part),MAF,1970,6067
+Saint Martin (French part),MAF,1971,6247
+Saint Martin (French part),MAF,1972,6428
+Saint Martin (French part),MAF,1973,6618
+Saint Martin (French part),MAF,1974,6818
+Saint Martin (French part),MAF,1975,7063
+Saint Martin (French part),MAF,1976,7320
+Saint Martin (French part),MAF,1977,7590
+Saint Martin (French part),MAF,1978,7844
+Saint Martin (French part),MAF,1979,8085
+Saint Martin (French part),MAF,1980,8308
+Saint Martin (French part),MAF,1981,8522
+Saint Martin (French part),MAF,1982,9516
+Saint Martin (French part),MAF,1983,11511
+Saint Martin (French part),MAF,1984,13753
+Saint Martin (French part),MAF,1985,16120
+Saint Martin (French part),MAF,1986,18584
+Saint Martin (French part),MAF,1987,21125
+Saint Martin (French part),MAF,1988,23770
+Saint Martin (French part),MAF,1989,26476
+Saint Martin (French part),MAF,1990,28251
+Saint Martin (French part),MAF,1991,28824
+Saint Martin (French part),MAF,1992,29098
+Saint Martin (French part),MAF,1993,29303
+Saint Martin (French part),MAF,1994,29440
+Saint Martin (French part),MAF,1995,29492
+Saint Martin (French part),MAF,1996,29465
+Saint Martin (French part),MAF,1997,29350
+Saint Martin (French part),MAF,1998,29128
+Saint Martin (French part),MAF,1999,29303
+Saint Martin (French part),MAF,2000,30020
+Saint Martin (French part),MAF,2001,30827
+Saint Martin (French part),MAF,2002,31629
+Saint Martin (French part),MAF,2003,32420
+Saint Martin (French part),MAF,2004,33196
+Saint Martin (French part),MAF,2005,33952
+Saint Martin (French part),MAF,2006,34680
+Saint Martin (French part),MAF,2007,35361
+Saint Martin (French part),MAF,2008,35978
+Saint Martin (French part),MAF,2009,36523
+Saint Martin (French part),MAF,2010,36875
+Saint Martin (French part),MAF,2011,37094
+Saint Martin (French part),MAF,2012,37299
+Saint Martin (French part),MAF,2013,37439
+Saint Martin (French part),MAF,2014,37472
+Saint Martin (French part),MAF,2015,37386
+Saint Martin (French part),MAF,2016,37201
+Saint Martin (French part),MAF,2017,36863
+Saint Martin (French part),MAF,2018,36036
+Saint Martin (French part),MAF,2019,34290
+Saint Martin (French part),MAF,2020,31811
+Saint Martin (French part),MAF,2021,29986
+Saint Martin (French part),MAF,2022,28899
+Saint Martin (French part),MAF,2023,27545
+Saint Pierre and Miquelon,SPM,700,1
+Saint Pierre and Miquelon,SPM,800,3
+Saint Pierre and Miquelon,SPM,900,6
+Saint Pierre and Miquelon,SPM,1000,12
+Saint Pierre and Miquelon,SPM,1100,25
+Saint Pierre and Miquelon,SPM,1200,50
+Saint Pierre and Miquelon,SPM,1300,101
+Saint Pierre and Miquelon,SPM,1400,203
+Saint Pierre and Miquelon,SPM,1500,407
+Saint Pierre and Miquelon,SPM,1600,814
+Saint Pierre and Miquelon,SPM,1700,1629
+Saint Pierre and Miquelon,SPM,1710,1763
+Saint Pierre and Miquelon,SPM,1720,1908
+Saint Pierre and Miquelon,SPM,1730,2064
+Saint Pierre and Miquelon,SPM,1740,2233
+Saint Pierre and Miquelon,SPM,1750,2416
+Saint Pierre and Miquelon,SPM,1760,2614
+Saint Pierre and Miquelon,SPM,1770,2829
+Saint Pierre and Miquelon,SPM,1780,3061
+Saint Pierre and Miquelon,SPM,1790,3312
+Saint Pierre and Miquelon,SPM,1800,3583
+Saint Pierre and Miquelon,SPM,1810,3877
+Saint Pierre and Miquelon,SPM,1820,4006
+Saint Pierre and Miquelon,SPM,1830,4140
+Saint Pierre and Miquelon,SPM,1840,4278
+Saint Pierre and Miquelon,SPM,1850,4420
+Saint Pierre and Miquelon,SPM,1860,4567
+Saint Pierre and Miquelon,SPM,1870,4725
+Saint Pierre and Miquelon,SPM,1880,4888
+Saint Pierre and Miquelon,SPM,1890,5057
+Saint Pierre and Miquelon,SPM,1900,5231
+Saint Pierre and Miquelon,SPM,1910,5411
+Saint Pierre and Miquelon,SPM,1920,4943
+Saint Pierre and Miquelon,SPM,1930,4475
+Saint Pierre and Miquelon,SPM,1940,4021
+Saint Pierre and Miquelon,SPM,1950,4507
+Saint Pierre and Miquelon,SPM,1951,4555
+Saint Pierre and Miquelon,SPM,1952,4605
+Saint Pierre and Miquelon,SPM,1953,4659
+Saint Pierre and Miquelon,SPM,1954,4719
+Saint Pierre and Miquelon,SPM,1955,4784
+Saint Pierre and Miquelon,SPM,1956,4833
+Saint Pierre and Miquelon,SPM,1957,4864
+Saint Pierre and Miquelon,SPM,1958,4919
+Saint Pierre and Miquelon,SPM,1959,4986
+Saint Pierre and Miquelon,SPM,1960,5016
+Saint Pierre and Miquelon,SPM,1961,5003
+Saint Pierre and Miquelon,SPM,1962,5024
+Saint Pierre and Miquelon,SPM,1963,5086
+Saint Pierre and Miquelon,SPM,1964,5178
+Saint Pierre and Miquelon,SPM,1965,5255
+Saint Pierre and Miquelon,SPM,1966,5333
+Saint Pierre and Miquelon,SPM,1967,5413
+Saint Pierre and Miquelon,SPM,1968,5490
+Saint Pierre and Miquelon,SPM,1969,5571
+Saint Pierre and Miquelon,SPM,1970,5658
+Saint Pierre and Miquelon,SPM,1971,5744
+Saint Pierre and Miquelon,SPM,1972,5830
+Saint Pierre and Miquelon,SPM,1973,5925
+Saint Pierre and Miquelon,SPM,1974,6004
+Saint Pierre and Miquelon,SPM,1975,6051
+Saint Pierre and Miquelon,SPM,1976,6090
+Saint Pierre and Miquelon,SPM,1977,6125
+Saint Pierre and Miquelon,SPM,1978,6162
+Saint Pierre and Miquelon,SPM,1979,6182
+Saint Pierre and Miquelon,SPM,1980,6192
+Saint Pierre and Miquelon,SPM,1981,6172

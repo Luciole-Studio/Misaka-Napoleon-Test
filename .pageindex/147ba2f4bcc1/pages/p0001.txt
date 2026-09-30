@@ -1,0 +1,39 @@
+# notes_persia — 卡扎尔波斯专项摘录（PS卡，本轮亲读）
+
+## A. ʿAbbās Mīrzā（Iranica, Heribert Busse, 1982/2018）
+文件：`downloads/pages/1834e51c1dbd.md`（全文已读）
+- 1789-08-26生；母Devellū、父系Qoyonlū——集卡扎尔两大部落支系于一身，这是他1799-03-20被立储（Nāyeb-al-salṭana）的核心理由（越过年长诸兄；兄长们生母级别低）。辅佐：Solaymān Khan Qājār与**Mīrzā Bozorg**（Mīrzā ʿĪsā Farāhānī，Qā'em-maqām家族）。
+- 1805夏正式领"阿塞拜疆与卡拉巴赫，自Qaplān Kūh至Darband"总督，有权任免辖区各地方长官；至1831年常驻（夏Tabriz冬Khoy）。
+- 战争节奏：1804–1810年年跨阿拉斯河出征；**"战争实际上到1806年已见分晓"**（俄已牢固控制阿拉斯河以北除Erivan外全部土地，引Dahncke p.82）。
+- **1810年俄方曾提出和约：归还占领土地+波斯在东安纳托利亚与美索不达米亚放手——被拒绝**（ʿAbd-al-Razzāq pp.391f.；波斯编年史孤证，标注）。
+- 军改（neẓām-e ǰadīd）：先用俄国逃兵/战俘教练；**1819年俄国逃兵单独成团800人**；1807起法国教官；断法后英国军官为主；1821年Lindsay(Bethune)（建炮兵者）离任；后有意大利（西西里）、波兰教官。**正规步兵：1808–09年6,000；1817年8,000；1831年12,000+炮兵1,200+骑兵1团=波斯营10个+俄逃兵营2个**（Morier/Kotzebue/Stocqueler）。骑兵不改（阿巴斯认为波斯骑兵足堪任何挑战，Kotzebue p.99）。
+- 要塞：Tabriz/Ardabil/Khoy改造；阿拉斯河**ʿAbbāsābād**新式要塞（Gardane使团Lamy参与加固Ardabil与Abbasabad——见Gardane条目）；1819起英工程师建乌尔米耶湖Top Qaḷʿa。
+- 财政：战争吞噬巨款；**英国津贴不足且沙拒绝拨款（德黑兰官员认为阿塞拜疆是富省）**→阿巴斯自编详细财政登记册；废除买官入仕。
+- 工业：军械库、Ahar附近炼铜、Khoy欧式毛纺厂、造纸厂失败；1816年亚美尼亚人建Tabriz印刷所。
+- L'Ami（Gardane使团留人）办第一所军校（Brydges转）。
+- 继承政治：**继承无定序+沙的分权政策使储位始终受威胁**；最危险对手：Ḥosayn-ʿAlī Mīrzā Farmānfarmā（法尔斯总督）与Ḥasan-ʿAlī Mīrzā Šoǰāʿ-al-salṭana（呼罗珊/克尔曼总督）；另一大对手Moḥammad-ʿAlī Mīrzā Dowlatshah（克尔曼沙阿总督，1821乘希腊起义侵美索不达米亚至巴格达城下；1823 Erzerum和约恢复1639边界）。
+- 1831阿巴斯改领呼罗珊，1832夏秋征服Mashhad以东北（Khabushan、Sarakhs、Torbat-e Haydari）；**编年史称其计划征服Khiva与阿富汗（旧萨法维版图），与赫拉特维齐尔及浩罕汗谈判**（Hedāyat X, pp.30–32；Fraser认为是以弱敌之胜补阿塞拜疆之败）；已命长子Moḥammad Mīrzā筹备大攻势；1833-10-25死于Mashhad（44岁，肝病），葬伊玛目礼萨圣陵。
+- 1834 Moḥammad Mīrzā继位后"试图继续东方事业，被英国干预所阻"（=1837–38赫拉特）。
+
+## B. Golestān Treaty（Iranica, Elton L. Daniel, 2001/2013）
+文件：`downloads/pages/fdd97c5429ee.md`（全文已读）
+- 战争起点：1803年Tsitsianov攻Ganja，**1804-01-15破城**，总督Javād Khan Qājār Ziādlu战死，居民大批被屠；沙迁廷Soltaniya，命阿巴斯率**号称3万–6万**大军渡阿拉斯河；1804-06-07 Ejmiatsin附近Tsitsianov以少兵多炮胜，但未克Erivan。
+- 外交线：**1804-12波斯已求援英国**（Ingram 1992 p.73）；1805英俄结第三次反法同盟→英回避波斯请求；1806-08英使Arbuthnot："To please the Emperor [of Russia], we have thrown away all our influence in Persia"（转引Ingram 1992 p.82）→给法国开门。
+- **1809-03-15 Jones预备条约：英国训练装备16,000波斯步兵+若波斯遭欧洲强权入侵付津贴£100,000/年（若该强权与英和平则英调停）**。
+- Abu'l-Ḥasan Khan 1809访伦敦；Gore Ouseley 1810以全权公使来；**1812年定约（Definitive Treaty）：津贴提高到£150,000**。
+- 1812英俄再盟后Ouseley：缩减军事介入（只留Christie、Lindsay-Bethune两军官+教练军士）、威胁停付津贴、以调停促和。
+- 1812-08阿巴斯再启战端克Lankaran（此处指Talesh方向据点）；莫斯科失陷消息后谈判中止；**1812-10-31夜Kotliarevsky奇袭Aslanduz营地，阿巴斯军全溃，Christie阵亡**；1813初Lankaran要塞陷落守军被歼；沙与阿巴斯仍想打，被Ouseley压服（承诺"或俄让地或英续付津贴"，Atkin p.143）。
+- **Golestān条约1813-10-24签**（Hurewitz作10-12，日期两说并存）、1814-09第比利斯换约：Art.1停战；Art.2按status quo ad presentem划界（Talesh留待委员会）；**Art.3波斯承认沙皇对格鲁吉亚、明格列利亚、阿布哈兹、Ganja、Qarābāḡ、Qobba、Darband、Baku、Dāḡestān、Šakki等主权**；**Art.4俄国获"承认被指定之波斯储君并在其需要时助其镇压反对派"之权——为俄国事实上介入/否决波斯继承开先例**；**Art.5里海军舰专有权归俄**；Art.6–11战俘/使节/商务。
+- 后果：边界含糊（Gokcha地区1825被俄占→1826–28二次战争）；乌莱玛圣战狂热+主战派（Mīrzā Bozorg反对条约）；英津贴与支持摇摆造成英波摩擦；俄国在波斯政治经济角色大增。
+
+## B2. Fatḥ-ʿAlī Shah Qājār（Iranica, Abbas Amanat, 1999/2014）
+文件：`downloads/pages/19fadd546928.md`（已读行25–155，约全文三分之二，含即位、外交、财政、后宫、晚年段）
+- 即位巩固：1797–1801平Sadeq Khan Šaqāqī（万人叛军，王帝只能集7,000人迎战）、Zand余党、胞弟Hosaynqoli两次叛乱；1801处死首任首相Ebrahim Khan Kalantar（"viziericide"传统）；1802克Mashhad灭Afsharid末裔。
+- 王子分省制：诸子任省督附lala（监护）与wazir；**"永久征服政策"的功能是把竞争性王子的注意力引向外围、互不相攻**（ʿAżod-al-Dawla pp.116–17）；Dawlatshah终身领克尔曼沙阿、Farmanfarma领法尔斯至1834。
+- 1799孟买使Mahdi Ali Khan；**1800-11 Malcolm首使：共同防对喀布尔的Zaman Shah（法术误作“阻法”之前的首要动机）**，1801英波条约（Hurewitz I pp.117–24）；1804英拒绝把1801条约扩到对俄防务→投法。
+- 1808：在阿巴斯压力下拒Malcolm二次使团；后因**英占Kharg岛之威胁**+亲英派（Amin-al-Dawla、Mirza Isa Qa'em-maqam）转向；1809-02接Jones（王座视伦敦王使高于东印度公司使）。
+- **财政自白（Jones 1834, pp.286–87录沙亲口）**：“每省都有一个王子，他们报告省入不超过政府开支；诺鲁兹送来的是马驼驯羊披肩珍珠而非钱；现钱收入仅够养常备部队与宫廷；我有成堆的宝石，但这种时候它们值什么？”——**卡扎尔财政＝省级截留+实物贡赋+珠宝窖藏，中央现金流极薄**。
+- 阿巴斯的阿塞拜疆军费自筹（与A条目互证）；1826战前沙“极不情愿出钱”重装备阿塞拜疆军；**Torkamančāy（1828-02）赔款£4,000,000，国库破产，靠变卖内库珠宝支付**；条约Art.13保阿巴斯一系继承。
+- 后宫：至少千名妇女；存活儿子60女55；死时宗室约千人、世纪中超万——**宗室本身成为财政大耗与政治网络**；公主高价外嫁为忠诚抵押。
+- 晚年：1823 Dawlatshah死、1833阿巴斯死、1834-10沙在伊斯法罕催收法尔斯欠税时突然死亡；立孙Mohammad Mirza为储遭法尔斯叔王Farmanfarma抗拒→**继承战争（1834–35，靠英俄支持+英官带军平定）**。
+- 1816 Hasan-Ali Mirza曾短暂占赫拉特；1819–23对奥斯曼战争。

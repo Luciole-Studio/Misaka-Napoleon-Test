@@ -1,0 +1,441 @@
+      "type": "reference-entry",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Gregory Fremont-Barnes",
+          "id": "https://openalex.org/A5070434328",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 20,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2201078301",
+      "doi": "10.1017/s1744137415000387",
+      "title": "Defensive modernization in Germany and in the Habsburg Empire – a historical study of capitalist transformation",
+      "year": 2015,
+      "type": "article",
+      "venue": "Journal of Institutional Economics",
+      "venue_issn": "1744-1374",
+      "authors": [
+        {
+          "name": "Gerhard Wegner",
+          "id": "https://openalex.org/A5060413144",
+          "institutions": [
+            "University of Erfurt"
+          ]
+        }
+      ],
+      "cited_by_count": 20,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 50,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W1489477685",
+      "doi": "10.17863/cam.5174",
+      "title": "Can we rehabilitate the guilds? A sceptical re-appraisal",
+      "year": 2007,
+      "type": "preprint",
+      "venue": "RePEc: Research Papers in Economics",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Sheilagh Ogilvie",
+          "id": "https://openalex.org/A5068184278",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 19,
+      "is_oa": true,
+      "oa_pdf": "http://www.dspace.cam.ac.uk/handle/1810/194730",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 128,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W3156513488",
+      "doi": "10.1017/9781108979122",
+      "title": "The Origins and Consequences of Property Rights",
+      "year": 2020,
+      "type": "book",
+      "venue": "Cambridge University Press eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Colin Harris",
+          "id": "https://openalex.org/A5111431638",
+          "institutions": [
+            "St. Olaf College"
+          ]
+        },
+        {
+          "name": "Meina Cai",
+          "id": "https://openalex.org/A5002980677",
+          "institutions": []
+        },
+        {
+          "name": "Ilia Murtazashvili",
+          "id": "https://openalex.org/A5085259728",
+          "institutions": [
+            "University of Pittsburgh"
+          ]
+        },
+        {
+          "name": "Jennifer Brick Murtazashvili",
+          "id": "https://openalex.org/A5041207866",
+          "institutions": [
+            "University of Pittsburgh"
+          ]
+        }
+      ],
+      "cited_by_count": 19,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 406,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W629202845",
+      "doi": null,
+      "title": "Soziale und politische Geschichte der Juden in Deutschland, 1847-1871 : zwischen Revolution, Reaktion und Emanzipation",
+      "year": 1977,
+      "type": "article",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Jacob Toury",
+          "id": "https://openalex.org/A5086068545",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 18,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W4393160724",
+      "doi": "10.1086/730551",
+      "title": "Cadasters and Economic Growth: A Long-Run Cross-Country Panel",
+      "year": 2024,
+      "type": "article",
+      "venue": "Journal of Political Economy",
+      "venue_issn": "0022-3808",
+      "authors": [
+        {
+          "name": "Michelle D’Arcy",
+          "id": "https://openalex.org/A5063284355",
+          "institutions": [
+            "Trinity College Dublin",
+            "University of Gothenburg"
+          ]
+        },
+        {
+          "name": "Marina Nistotskaya",
+          "id": "https://openalex.org/A5045116135",
+          "institutions": [
+            "Trinity College Dublin",
+            "University of Gothenburg"
+          ]
+        },
+        {
+          "name": "Ola Olsson",
+          "id": "https://openalex.org/A5043254732",
+          "institutions": [
+            "Trinity College Dublin",
+            "University of Gothenburg"
+          ]
+        }
+      ],
+      "cited_by_count": 18,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 75,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W3081159765",
+      "doi": "10.1016/b978-0-12-815874-6.00008-3",
+      "title": "The two revolutions in economic history",
+      "year": 2021,
+      "type": "book-chapter",
+      "venue": "Elsevier eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Martina Cioni",
+          "id": "https://openalex.org/A5028874367",
+          "institutions": [
+            "University of Siena"
+          ]
+        },
+        {
+          "name": "Giovanni Federico",
+          "id": "https://openalex.org/A5022676879",
+          "institutions": [
+            "New York University Abu Dhabi",
+            "Centre for Economic Policy Research"
+          ]
+        },
+        {
+          "name": "Michelangelo Vasta",
+          "id": "https://openalex.org/A5055227256",
+          "institutions": [
+            "University of Siena",
+            "Centre for Economic Policy Research"
+          ]
+        }
+      ],
+      "cited_by_count": 18,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 90,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2528494451",
+      "doi": null,
+      "title": "T. C. W. Blanning : The French Revolution in Germany. Occupation and Resistance in the Rhineland 1792-1802, 1983",
+      "year": 1985,
+      "type": "article",
+      "venue": "Dix-huitième siècle",
+      "venue_issn": "0070-6760",
+      "authors": [
+        {
+          "name": "Dominique Bourel",
+          "id": "https://openalex.org/A5069739065",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 16,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W1020623504",
+      "doi": null,
+      "title": "Übergangsgesellschaft: die ländliche Sozialordnung in Mitteleuropa um 1800",
+      "year": 1996,
+      "type": "article",
+      "venue": "TUbilio (Technical University of Darmstadt)",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Christof Dipper",
+          "id": "https://openalex.org/A5024227169",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 16,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2167369898",
+      "doi": null,
+      "title": "Real wages and the origins of modern economic growth in Germany, 16th to 19th centuries",
+      "year": 2012,
+      "type": "preprint",
+      "venue": "RePEc: Research Papers in Economics",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Ulrich Pfister",
+          "id": "https://openalex.org/A5078533380",
+          "institutions": []
+        },
+        {
+          "name": "Jana Riedel",
+          "id": "https://openalex.org/A5046774222",
+          "institutions": []
+        },
+        {
+          "name": "Martin Uebele",
+          "id": "https://openalex.org/A5015293634",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 16,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 41,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2394165991",
+      "doi": "10.1080/00213624.2016.1176470",
+      "title": "The 2016 Veblen-Commons Award Recipient: Daniel W. Bromley: Institutional Economics",
+      "year": 2016,
+      "type": "article",
+      "venue": "Journal of Economic Issues",
+      "venue_issn": "0021-3624",
+      "authors": [
+        {
+          "name": "Daniel W. Bromley",
+          "id": "https://openalex.org/A5073835856",
+          "institutions": [
+            "University of Wisconsin–Madison"
+          ]
+        }
+      ],
+      "cited_by_count": 16,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 28,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2490930123",
+      "doi": "10.2139/ssrn.2815541",
+      "title": "The Impact of Institutions on Innovation",
+      "year": 2017,
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "venue_issn": "1556-5068",
+      "authors": [
+        {
+          "name": "Alexander Donges",
+          "id": "https://openalex.org/A5010692494",
+          "institutions": [
+            "Technische Hochschule Mannheim",
+            "University of Mannheim"
+          ]
+        },
+        {
+          "name": "Jean‐Marie Meier",
+          "id": "https://openalex.org/A5047051053",
+          "institutions": [
+            "The University of Texas at Dallas",
+            "University of Pennsylvania"
+          ]
+        },
+        {
+          "name": "Rui da Silva",
+          "id": "https://openalex.org/A5077579720",
+          "institutions": [
+            "Centre for Economic Policy Research",
+            "Universidade Nova de Lisboa"
+          ]
+        }
+      ],
+      "cited_by_count": 16,
+      "is_oa": true,
+      "oa_pdf": "https://doi.org/10.2139/ssrn.2815541",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 77,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W627646535",
+      "doi": null,
+      "title": "Geschichte der Statistik in Brandenburg-Preussen bis zur Gründung des Königlichen statistischen Bureaus",
+      "year": 1905,
+      "type": "article",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Otto Peter Behre",
+          "id": "https://openalex.org/A5050956411",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 15,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2019343531",
+      "doi": "10.1007/s10602-014-9171-1",
+      "title": "Capitalist transformation without political participation: German capitalism in the first half of the nineteenth century",

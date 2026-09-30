@@ -1,0 +1,34 @@
+# B1笔记：登陆、撤离、应急权（重启后冻结）
+
+## L1 Fortescue：不是1803年政府的绝不投降令
+- J. W. Fortescue, *A History of the British Army*, V (London: Macmillan, 1910), pp.264–265；本轮此前实读 `downloads/c11_fortescueV.txt` 行13705–13804，旧轮 `nodes/r_b55f2c1cf5/cards/t_2c338c/britdef.md`、`nodes/r_b55f2c1cf5/cards/t_b7b7b1/evacuation_evidence.md` 提供定位。
+- 【事实·后世记载】p.265：“every provision had been made for transporting the seat of Government to Worcester”。
+- 同段：“there would have been no talk of surrender”；这是1910年作者的反事实推断，不是1803–05签发的决策记录。
+- p.265说明Dundas/Moore拟战败后侧退以增加追击困难；不能自动推出执行成功。页脚Marmont II p.216所支撑的是拿破仑认为伦敦陷落后欧洲不敢动的判断，不能移接给伍斯特预案。
+- 【推演机制】境内合法政府保存→保留战争与谈判两项选择；不能以伦敦城市投降代替国王/部长缔约；先撤离抵抗再谈判是可连续发生的行为。
+
+## L2 George III致Richard Hurd，1803-11-30
+- 当时书信，转引 H. F. B. Wheeler & A. M. Broadley, *Napoleon and the Invasion of England: The Story of the Great Terror*, I (London: John Lane, 1908), Introduction pp.xiii–xiv。
+- 本轮此前已读旧轮核证札记 `nodes/r_b55f2c1cf5/cards/t_2c338c/hurd_letter.md`；读取版本为网页OCR `downloads/pages/5550fd06ab38.md`，https://epdf.tips/napoleon-and-the-invasion-in-england.html 。无手稿/扫描对校，不是三重独立来源。
+- “Should his troops effect a landing, I shall certainly put myself at the head of my troops and my other armed subjects to repel them.”
+- “should the enemy approach too near to Windsor, I shall think it right the Queen and my daughters should cross the Severn, and send them to your Episcopal Palace at Worcester”.
+- 【事实】这是国王率兵意向＋王后女儿条件性内迁，不是全内阁赴加拿大。刊本说信1849年始公开，未给该次刊布或手稿馆藏号。
+
+## L3 应急金融不是自动媾和
+- Privy Council, 1797-02-26；Statutes Project转录，源指 *London Gazette*, no.13986, 25–28 Feb.1797。
+- https://statutes.org.uk/site/the-statutes/privy-council-orders/1797-suspension-of-cash-payments-by-the-bank-of-england/ ；捕获并已读 `downloads/pages/a7582cb284e4.md`。
+- “the Directors of the Bank of England should forbear issuing any Cash in Payment until the Sense of Parliament can be taken on that Subject”.
+- 理由：“maintaining the Means of Circulation, and supporting the Publick and Commercial Credit of the Kingdom”。签W. Fawkener。
+- 【机制推断】入侵恐慌→现金紧张→政府制度替代/议会追认；没有“黄金一空便必须投降”的固定规则。此令不证明1804伦敦真实占领时信用仍可保存。
+- Hiroki Shin, “Paper Money, the Nation, and the Suspension of Cash Payments in 1797”, *Historical Journal* 58(2), 2015, pp.415–442, DOI 10.1017/S0018246X14000284；仅读Cambridge摘要及注释，`downloads/pages/3ba1fc65757f.md`。摘要强调“national support for drastic financial measures could not be taken for granted”与声明支持纸币运动作用。它反对“无摩擦转入纸币”的胜利者回溯。
+- Fishguard仅用作小规模入侵/入侵恐慌与金融应对的类比，不从1797小袭击直接估计大军攻占伦敦后的政治服从。
+
+## L4 财政部/银行撤离：已查到与没查到
+- 旧轮百科线索（`downloads/pages/24084fc70707.md`）引Peter A. Lloyd, *The French Are Coming!* (1992), p.93；John Brooke, *King George III* (1974), pp.597–598：银行账册送伦敦塔、财宝三十车、十二组护卫接力、Brook Watson负责。
+- 未读到上述承重书页；不能视为核定执行细则；英格兰银行财宝≠英国国库全部资源。Weedon建设日期尤其需复核，不能倒填1803。
+- 本卡没有取得1803–05财政部/银行签发的撤离命令、具体付款连续性指令或战败媾和授权；也没有英国政府赴加拿大整体续战案。结论不是“不存在”，而是以境内转移＋应急信用为中置信主分支，海外迁廷为低置信备选。
+- 档案补查方向（未亲读）：TNA HO 42/HO 50、WO 1、ADM 1、PC 2、T 1；BoE Court/Committee of Treasury、Private Minutes；Royal Archives George III papers；须检索具体卷号，不捏造原件。
+
+## L5 本轮B4交叉输入（协调者授权复用；非本人重新核页）
+- Fortescue V pp.231–232：撤粮令遭Moore/Richmond反对后放弃，本地文本同L1。
+- 【模型推演】不能靠一张预先有效的全国焦土令，保证占领伦敦的法军立刻饥饿崩溃。征发能否实行取决于地方服从和代价；B1a应允许地方有产者因保财产转而促和。

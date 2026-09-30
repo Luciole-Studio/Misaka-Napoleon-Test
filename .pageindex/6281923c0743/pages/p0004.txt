@@ -1,0 +1,26 @@
+
+
+### 给C8、C9、C15、C17的接口
+
+【裁量】C8：把法律持续性、地方适配和自主改革写为可检验条件；正当性/忠诚另证，不以信任研究替代。
+
+【裁量】C9：集中征收不等于预算约束；不给法国财政统一“制度红利系数”。税收增长与贡赋减少须分别核算。
+
+【裁量】C15：内部贸易自由化与对英封锁分开；产业增益按部门/地区，列出原料、消费者、港口和外部盟友负担。
+
+【裁量】C17：不得将改革效应加入1803—1830军备预算，亦不得把多个局部正效应相加为胜利概率。应将“后继政策可被法制欧洲替代”“改革收益不增反霸能力”等列为额外假设，而非史实。
+
+## 九、来源、版本、定位与核查引文
+
+### 主文献和保留材料
+
+1. **Acemoglu, Cantoni, Johnson & Robinson (2011)**, “The Consequences of Radical Reform: The French Revolution,” *AER* 101(7):3286–3307，DOI **10.1257/aer.101.7.3286**。实际刊本：`downloads/c10_acjr2011.pdf`，doc **8835f54b20f5**。PDF页+3285=刊页。来源：https://economics.mit.edu/sites/default/files/publications/The%20Consequences%20of%20Radical%20Reform%20-%20The%20French%20Re_0.pdf 。关键表3 PDF12；表6 PDF17；结论/福利脚注PDF19。
+2. **Kopsidis & Bromley (2016)**, “The French revolution and German industrialization: dubious models and doubtful causality,” *JOIE* 12(1):161–190，DOI **10.1017/S1744137415000223**。`downloads/c10_kopsidis_bromley2016.pdf`，doc **40e4b5895015**，https://aae.wisc.edu/dbromley/pdfs/kopbrom.pdf 。表2 PDF17；计量批评PDF16–18；煤炭表4 PDF25。不得与2014工作稿混名。
+3. **Juhász (2018)**, “Temporary Protection and Technology Adoption: Evidence from the Napoleonic Blockade,” 刊发题录*AER*108(11):3339–3376，DOI **10.1257/aer.20151730**。**实际引文/数字为2018-04-02作者稿**：`downloads/c10_juhasz2018draft.pdf`，doc **60e75d8026ea**，https://www.rjuhasz.com/research/napoleonic_blockade.pdf 。页码均为该49页稿，不冒充刊页；未逐格核对刊本。
+4. **Lecce & Ogliari (2019)**, “Institutional Transplant and Cultural Proximity: Evidence from Nineteenth-Century Prussia,” *JEH*79(4):1060–1093，DOI **10.1017/S0022050719000366**。实际2019年3月作者稿提取快照：`downloads/pages/81276d7ef4fb.md`，表3 L532起、表4 L665起、表A4约L1113起。https://aisberg.unibg.it/retrieve/e40f7b8b-9205-afca-e053-6605fe0aeaf2/Lecce_Ogliari_2019.pdf 。原PDF下载403；米兰仓储亦403。没有图像逐格复核，个别附录错列值弃用。
+5. **Buggle (2016)**刊发题录：“Law and social capital: Evidence from the Code Napoleon in Germany,” *EER*87:148–175，DOI **10.1016/j.euroecorev.2016.05.003**。**实际核验SOEPpaper566、2013-07-02稿**，`downloads/c10_buggle2013.pdf`，doc **41e0848d1333**，https://d-nb.info/1152137301/34 。印刷页=PDF页−2；边界表4印p.36/PDF38已看图；其他数字详`culture_audit.md`。2016终版变化未核。
+6. **Dincecco (2009)**, “Fiscal Centralization, Limited Government, and Public Revenues in Europe, 1650–1913,” *JEH*69(1):48–103，DOI **10.1017/S0022050709000345**。刊本文本快照`downloads/pages/554823b77f69.md`，表6 L1825–1934；来源 https://pages.ucsd.edu/~bslantchev/courses/ps143a/readings/Dincecco%20-%20Fiscal%20Centralization,%20Limited%20Government,%20and%20Public%20Revenues%20in%20Europe,%201650-1913.pdf 。原表页图未核，引用表号/行定位。
+7. **Ploeckl (2010)**, *The Zollverein and the Formation of a Customs Union*, Oxford Economic and Social History DP84，8月稿。`downloads/pages/b347db4c1735.md`；http://www.nuff.ox.ac.uk/economics/history/paper84/ploeckl84.pdf ，第4–5节。Motz致Eichhorn备忘录VBDZ747仅转引自该文，未读原件。
+8. **Keller & Shiue (2014)**, “Endogenous Formation of Free Trade Agreements: Evidence from the Zollverein’s Impact on Market Integration,” *JEH*74(4):1168–1204，DOI **10.1017/S0022050714000898**。`downloads/pages/ba4cd1cfd439.md`，https://spot.colorado.edu/~shiue/Zoll.pdf ，表3 L704–738；刊pp.1192–1194及注33。部分正文有编码乱码，表中p值清楚；不从乱码恢复未见数值。
+9. **Franck & Michalopoulos (2017)**, *Emigration during the French Revolution: Consequences in the Short and Longue Durée*, NBER WP23936，DOI **10.3386/w23936**。`downloads/pages/966807ce2f86.md`；https://www.nber.org/system/files/working_papers/w23936/w23936.pdf ，表4印p.49、表5p.50。正文/表抽取有乱码，处理尺度百分比换算挂账。工业化—技能互补论文作者应是**Franck–Galor**，不是Franck–Michalopoulos；补充书目见机制底稿，本报告不靠该补充稿参数推论。
+10. **Hardenberg，1807-09-12，里加备忘录**。Thomas Dunlap英译，GHDI摘录：`downloads/pages/564fdec6591d.md`，L90–421。https://germanhistorydocs.org/en/the-holy-roman-empire-1648-1815/karl-august-baron-von-hardenberg-on-the-reorganization-of-the-prussian-state-september-12-1807 。译本出处：Winter编，*Die Reorganisation des Preussischen Staates unter Stein und Hardenberg*, I/1，*Publications of the Prussian State Archives*93，1931，pp.313–24、330–36、353f.、357、360–62；再刊Demel/Puschner编1995选集pp.87–97。**仅实际读英译摘录；不假称读过编纂卷或GStA PK原折。**

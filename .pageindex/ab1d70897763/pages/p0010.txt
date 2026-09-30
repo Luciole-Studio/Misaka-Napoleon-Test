@@ -1,0 +1,55 @@
+
+
+## Citations
+
+Citations are extracted by the [CitEc Project](http://citec.repec.org/), subscribe to its [RSS feed](http://citec.repec.org/cgi-bin/rss.pl?h=RePEc:hes:wpaper:0041) for this item.
+
+as
+HTML HTML with abstract plain text plain text with abstract BibTeX RIS (EndNote, RefMan, ProCite) ReDIF JSON
+
+Cited by:
+
+- Pamfili Antipa, 2013.
+"[Fiscal Sustainability and the Value of Money: Lessons from the British Paper Pound, 1797-1821](https://ideas.repec.org/p/bfr/banfra/466.html),"
+[Working papers](https://ideas.repec.org/s/bfr/banfra.html)
+466, Banque de France.
+
+- Alberto Feenstra, 2015.
+"[Circumventing credible commitment: GroningenÕs default and the Dutch RepublicÕs federal escape route, 1666-1761](https://ideas.repec.org/p/ucg/wpaper/0075.html),"
+[Working Papers](https://ideas.repec.org/s/ucg/wpaper.html)
+0075, Utrecht University, Centre for Global Economic History.
+
+- Pamfili Antipa, 2014.
+"[How Fiscal Policy Affects the Price Level: Britain s First Experience with Paper Money](https://ideas.repec.org/p/bfr/banfra/525.html),"
+[Working papers](https://ideas.repec.org/s/bfr/banfra.html)
+525, Banque de France.
+
+## Most related items
+
+These are the items that most often cite the same works as this one and are cited by the same works as this one.
+
+- Kim Oosterlinck, 2013.
+"[Sovereign debt defaults: insights from history](https://ideas.repec.org/a/oup/oxford/v29y2013i4p697-714.html),"
+[Oxford Review of Economic Policy](https://ideas.repec.org/s/oup/oxford.html), Oxford University Press and Oxford Review of Economic Policy Limited, vol. 29(4), pages 697-714, WINTER.
+
+- Kim Oosterlinck, 2013.
+"[Sovereign Debt Defaults: Insights from History](https://ideas.repec.org/a/sol/spaper/2013-145739.html),"
+[Post-Print CEB](https://ideas.repec.org/s/sol/spaper.html), ULB -- Universite Libre de Bruxelles, vol. 29(4), pages 697-714.
+
+- Oosterlinck, Kim & Ureche-Rangau, Loredana & Vaslin, Jacques-Marie, 2019.
+"[Aristocratic Privilege. Exploiting â€œGoodâ€ Institutions](https://ideas.repec.org/p/cpr/ceprdp/14071.html),"
+[CEPR Discussion Papers](https://ideas.repec.org/s/cpr/ceprdp.html)
+14071, Centre for Economic Policy Research.
+
+- Oosterlinck, Kim & Ureche-Rangau, Loredana & Vaslin, Jacques-Marie, 2014.
+"[Baring, Wellington and the Resurrection of French Public Finances Following Waterloo](https://ideas.repec.org/a/cup/jechis/v74y2014i04p1072-1102_00.html),"
+[The Journal of Economic History](https://ideas.repec.org/s/cup/jechis.html), Cambridge University Press, vol. 74(4), pages 1072-1102, December.
+
+- Kim Oosterlinck & Loredana Ureche-Rangau & Jacques-Marie Vaslin, 2014.
+"[Baring, Wellington and the resurrection of French public finances following Waterloo](https://ideas.repec.org/a/sol/spaper/2013-205539.html),"
+[Post-Print CEB](https://ideas.repec.org/s/sol/spaper.html), ULB -- Universite Libre de Bruxelles, vol. 74(4), pages 1072-1102, November.
+
+- Kim Oosterlinck & Loredana Ureche-Rangau & Jacques-Marie Vaslin, 2014.
+"[Baring, Wellington and the resurrection of French public finances following Waterloo](https://ideas.repec.org/p/ulb/ulbeco/2013-205539.html),"
+[ULB Institutional Repository](https://ideas.repec.org/s/ulb/ulbeco.html)
+2013/205539, ULB -- Universite Libre de Bruxelles.

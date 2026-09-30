@@ -1,0 +1,44 @@
+
+
+【模型推演】S2不自动拥有史实1810吞并荷兰所得一切资源：若其外交方案保留自主盟国，就须重新核定港口、海员与税收调度权；不能同时取“没有强制引起的反弹”和“全部资源绝对服从”两项好处。S3同理不能同时假定对英国零泄漏而法国进口/训练完全不受影响。
+
+## 五、跨洋护航：给C5/C7/C17的接口
+
+【文献推断｜E3—E6】1806证明选定分舰队能航至远海，不能证明其能护送一支大型运输舰队按时抵达、维持补给、压制当地英国舰队并安全返回。Corbett pp.33—34呈现运兵负担、受损舰速与敌侦察之间的联系；James p.108呈现海外基地丧失后的改道。全国存量平齐不解除这些任务约束。
+
+【模型推演】护航判断至少须给：目的地和季节、运输吨位与航速、护航编成、可集中窗口、沿路补给维修基地、当地敌舰及其增援、返航和持续补给安排。未给这些条件，就不设“护航指数=舰数比”。
+
+【裁量｜高】供综合稿采用：“法国重建和局部出航能够继续牵制英国，英国海权不是没有成本；但现有资料不能证明1830前达到全球等效制海，更不能从陆上胜利推导可稳定护送拉美或印度远征。”‘靠联盟与英国财政疲劳获得局部窗口’仅为可检验支线，财政疲劳和窗口长度须另证，不能作为未测70%规则的自动替代结论。
+
+【未验证项】本卡不把蒸汽或Paixhans炮当追赶捷径。1820年代技术变化应另设舰队更新、训练与财政成本；未取得足够材料，不计算其提前应用或效能增益。
+
+## 六、解释竞争与来源独立性
+
+【文献推断｜Hickey转述Glover】Glover的准确题名是“The French Fleet, 1807–1814; Britain’s Problem; and Madison’s Opportunity”，JMH 39(3), 1967, pp.233—252，DOI 10.1086/240080。**元数据已读、正文未读**。Hickey 2008第15项评论称其论证法国1812已接近战列舰数量匹敌，英国造修能力承压；同时明确否定“Madison据此宣战”有证据。[E10] 本卡保留数量逼近论作为强反证，不把评论当已核全国舰表。
+
+【文献推断｜Corbett及Battesti】操作—制度解释强调舰型、实际训练、风潮、港口与协同，把总舰数与可执行战略分开；Battesti“Une marine française surclassée”一节还强调军官、配员和船厂问题。[E3、E12] 其判断不能直接否定另一时期法国的重建，也不能变成永久民族素质差。
+
+【裁量】这两种解释未必互斥：数量接近可以同时造成英国保编压力而未带来法国全球制海。只有同年同口径舰体、配员、训练和任务集中资料才能裁定程度。**未完成Rodger、Glete及Glover全文的两大学派独立专著核读**；这是验收欠项，不能用两位作者名字冒充完成。Battesti关于英国“必然”先发的措辞是其解释，不作历史定律。
+
+【事实｜来源谱系】James各版与C2引James是一条史料链；Corbett常转引Desbrière，两者非完全独立；Hickey对Glover的复述只有一条原论证链；Davey对Albion/Morriss及ADM的引文不等于本卡读过三套原件。拿破仑命令、英国议会和公报在制度来源上不同，但各自证明命令/论辩/条款，不共同证明训练完成或全数实到。
+
+## 七、可复查短引文与书目
+
+网页缓存行号不是纸本页码；现代转录未与《Correspondance générale》原卷对校。James为扫描OCR，未完成全部影像逐字对校。下列引文均以实际读取的缓存/文本为范围。
+
+- **D1** `../t_104134/c2_series.csv`，物理行2—4；上游说明`c2_naval_econ_data.md`。C2原始类别保留，不合并盟国。
+- **D2** `../t_104134/c2_gaps.csv`，16项缺口；不是零值表。
+- **D3** `../t_104134/manpower/late_supply_addendum.md`；未并入D1的四个舰材二手锚点。
+- **E1a** 拿破仑致Decrès，1810-07-03：“Comme ceci sera en sus de votre budget de cette année, faites-moi connaître ce que coûteront ces cinq vaisseaux tout équipés”。追加建舰的成本询问，不是完工/付款凭证。缓存`downloads/pages/82a063e7e022.md`，行72—77；[现代转录](https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1810/)。
+- **E1** 同收信人，1810-07-13：“les équipages pourraient s’amariner en peu de temps”；“on prendrait les matelots les plus amarinés et les plus habiles des flottilles”。同缓存行615—660。前句为预期、后句为人员转换规则，非实际海上日。原转录内部人数和船数有不一致，不用于冻结编制总量。
+- **E2** 致Eugène，1811-07-31：“la moitié des équipages restera à bord et l’autre moitié, embarquée sur ces bâtiments légers, battra l’Adria­tique, poursuivra les corsaires, protégera les côtes et s’exercera”；“les Anglais, qui en auraient l’éveil, tiendraient des vaisseaux de guerre dans l’Adriatique”。`downloads/pages/6864746209f3.md`行1348—1356；[现代转录](https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1811/)。后一项是预期敌方反应，不是事后部署统计。
+- **E3** Julian S. Corbett, *The Campaign of Trafalgar* (London: Longmans, Green, 1910)，pp.33—34、44—45；`downloads/c11_corbett.txt`行2200—2297、2670—2765。[扫描来源](https://archive.org/details/campaignoftrafalOOcorb)。p.44：“neither the British nor the French naval staffs were content to count numbers only”；p.34转引Villeneuve：“it being out of our power to make much sail with the ships so much maltreated, we agreed to return.” 转引自Desbrière，未阅原折。
+- **E4** William James, *The Naval History of Great Britain*, new ed., IV (Richard Bentley & Son, **1886**)，p.108：“After a stay here of 16 days, the French squadron weighed and set sail for Cayenne”；p.114：“a gale or hurricane overtook the squadron, scattering the ships in every direction”；p.116记英舰也失散。`downloads/pages/d6e755fb0b5d.md`行1690—1703、1765以下；卡内`materials/James_1886_IV_sortie_passages.md` A—F。[扫描PDF](https://www.ibiblio.org/hyperwar/NHC/NewPDFs/UK/UK,%20Naval%20History%20of%20Great%20Britain%204.pdf)。不是1837版同页。
+- **E5** 同卷pp.390—393、400—408、423—427。p.393：“owing to the state of the tide, had not a sufficient depth of water”；p.402：“Some very excellent regulations were drawn up for the guidance of these boats”；p.405：“owing to the strength of the wind and tide, were obliged to put back”；p.407所转截获军官信：“Our engines played upon and completely wetted the poop”。同缓存行5911附近、6123—6180；卡内摘录G—J。原信身份、日期和档号未核。
+- **E6** James Davey, *War, Naval Logistics and the British State: Supplying the Baltic Fleet 1808–1812* (PhD, Greenwich, 2009)，舰材讨论注40—55；`downloads/pages/b92bac3d423e.md`行477—546，印刷页码映射未核。[论文](https://gala.gre.ac.uk/id/eprint/5653/4/James%20Davey%202009%20-%20redacted.pdf)。注40引1808-04-12委员会：“the present scarcity of hemp”；注44引Saumarez：“affording protection to the Ships employed by him in obtaining Hemp for His Majesty’s Service”。原ADM文书未阅。
+- **E7** HC Deb, 10 November 1813, vol.27, cc.69—75, “Committee of Supply”；`downloads/pages/3b214d7b54fb.md`。[文本](https://api.parliament.uk/historic-hansard/commons/1813/nov/10/committee-of-supply)。c.72：“He had, in fact, been accumulating his marine forces by rapid strides”；c.73：“If we suddenly disbanded, it would not be so easy a task, on an emergency, to recal our seamen”；c.74将“new buildings, repairs, and other items”另列。辩论双方判断冲突，不能冻结其法国整备数字。
+- **E8** *London Gazette*, no.16067, 16 September 1807, p.1231；投降条款1807-09-07，第III、V、VII条。`downloads/pages/7b34f7d2c4ab.md`；[原页](https://www.thegazette.co.uk/London/issue/16067/page/1231/data.pdf)。OCR第III条：“The Ships and Vessels of War osevery Description, with all the Naval Siores…”；保留OCR错误，不称影像校本。全文及限制见`rebuild_feedback_evidence.md`。
+- **E9** Hans Christian Bjerg, “‘To Copenhagen a Fleet’: The British Pre-emptive Seizure of the Danish-Norwegian Navy, 1807,” *International Journal of Naval History* 7(2), August 2008；`downloads/pages/71106f9334bc.md`行265—330，页码未核；[论文](https://www.ijnhonline.org/wp-content/uploads/2012/01/Bjerg.pdf)：“The British had no intentions to make use of all the confiscated ships and were never able to do so at that time due to lack of human resources.” Gambier 1807-09-05信仅转引自Bjerg注7，WO1/187未阅。
+- **E10** Donald R. Hickey, “The Top 25 Articles on the War of 1812,” *The War of 1812 Magazine* 9, May 2008，第15项；`downloads/pages/d49295b7a7ca.md`行84；[评论](https://www.napoleon-series.org/military-info/Warof1812/2008/Issue9/c_top25articles.html)：“by 1812 had come within striking distance of matching the British in ships-of-the-line.” 关于Madison则说“There is simply no evidence to support this claim.” Glover书目元数据缓存`717b149d2bb0.md`；[DOI](https://doi.org/10.1086/240080)，正文未取得。
+- **E11** 柏林敕令，1806-11-21，I—II条：“The British islands are declared in a state of blockade”；“All commerce and correspondence with the British islands are prohibited”。英文转录`downloads/pages/c0e5e2069d0d.md`，条号定位；法律要求不是执行绩效。
+- **E12** Michèle Battesti，“Napoléon et la ‘descente’ en Angleterre. 1re partie : Les multiples projets de 1778 à 1803”，*Revue du Souvenir Napoléonien* 444，pp.3—17（网站转载）；`downloads/pages/326b19e197a6.md`，“Une marine française surclassée”及“Doutes…”小节；[网页](https://www.napoleon.org/histoire-des-2-empires/articles/napoleon-et-la-descente-en-angleterre-1re-partie-les-multiples-projets-de-1778-a-1803/)。本卡只用机制论述，不把未核数字加入D1。

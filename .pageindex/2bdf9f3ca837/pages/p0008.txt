@@ -1,0 +1,438 @@
+          "name": "Éric Brousseau",
+          "id": "https://openalex.org/A5109059404",
+          "institutions": [
+            "EconomiX"
+          ]
+        },
+        {
+          "name": "Pierre Garrouste",
+          "id": "https://openalex.org/A5112603210",
+          "institutions": [
+            "Université Côte d'Azur",
+            "Groupe de Recherche en Droit, Économie, Gestion"
+          ]
+        },
+        {
+          "name": "Emmanuel Raynaud",
+          "id": "https://openalex.org/A5110394888",
+          "institutions": [
+            "Lyon 1 Université",
+            "Université Paris Cité"
+          ]
+        }
+      ],
+      "cited_by_count": 104,
+      "is_oa": true,
+      "oa_pdf": "https://hal.science/peer-01003150",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 177,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W398072361",
+      "doi": "10.1007/978-1-4039-3757-5",
+      "title": "Napoleon and the Transformation of Europe",
+      "year": 2003,
+      "type": "book",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Alexander Grab",
+          "id": "https://openalex.org/A5026198560",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 103,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2251731353",
+      "doi": "10.1111/ecoj.12595",
+      "title": "Colonial Legacy, State-building and the Salience of Ethnicity in Sub-Saharan Africa",
+      "year": 2018,
+      "type": "article",
+      "venue": "The Economic Journal",
+      "venue_issn": "0013-0133",
+      "authors": [
+        {
+          "name": "Merima Ali",
+          "id": "https://openalex.org/A5065567057",
+          "institutions": [
+            "Chr. Michelsen Institute",
+            "Syracuse University"
+          ]
+        },
+        {
+          "name": "Odd‐Helge Fjeldstad",
+          "id": "https://openalex.org/A5051422016",
+          "institutions": [
+            "Chr. Michelsen Institute",
+            "University of Pretoria"
+          ]
+        },
+        {
+          "name": "Boqian Jiang",
+          "id": "https://openalex.org/A5046139960",
+          "institutions": [
+            "Syracuse University"
+          ]
+        },
+        {
+          "name": "Abdulaziz B. Shifa",
+          "id": "https://openalex.org/A5074016923",
+          "institutions": [
+            "Syracuse University"
+          ]
+        }
+      ],
+      "cited_by_count": 103,
+      "is_oa": true,
+      "oa_pdf": "https://academic.oup.com/ej/article-pdf/129/619/1048/28845966/ecoj12595.pdf",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 127,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2016694702",
+      "doi": "10.2307/206288",
+      "title": "Patterns of European Industrialization: The Nineteenth Century",
+      "year": 1993,
+      "type": "article",
+      "venue": "The Journal of Interdisciplinary History",
+      "venue_issn": "0022-1953",
+      "authors": [
+        {
+          "name": "Gregory Clark",
+          "id": "https://openalex.org/A5111662233",
+          "institutions": []
+        },
+        {
+          "name": "Richard Sylla",
+          "id": "https://openalex.org/A5109881425",
+          "institutions": []
+        },
+        {
+          "name": "Gianni Toniolo",
+          "id": "https://openalex.org/A5005339224",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 99,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W3123539099",
+      "doi": "10.3386/w20369",
+      "title": "Social Norms and the Enforcement of Laws",
+      "year": 2014,
+      "type": "report",
+      "venue": "National Bureau of Economic Research",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Daron Acemoğlu",
+          "id": "https://openalex.org/A5012301204",
+          "institutions": [
+            "National Bureau of Economic Research",
+            "IIT@MIT"
+          ]
+        },
+        {
+          "name": "Matthew O. Jackson",
+          "id": "https://openalex.org/A5044618645",
+          "institutions": [
+            "National Bureau of Economic Research",
+            "Stanford University"
+          ]
+        }
+      ],
+      "cited_by_count": 96,
+      "is_oa": true,
+      "oa_pdf": "https://doi.org/10.3386/w20369",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 92,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W3123912089",
+      "doi": "10.1007/s10887-016-9129-4",
+      "title": "Military conflict and the rise of urban Europe",
+      "year": 2016,
+      "type": "article",
+      "venue": "Journal of Economic Growth",
+      "venue_issn": "1381-4338",
+      "authors": [
+        {
+          "name": "Mark Dincecco",
+          "id": "https://openalex.org/A5007800932",
+          "institutions": [
+            "University of Michigan"
+          ]
+        },
+        {
+          "name": "Massimiliano Gaetano Onorato",
+          "id": "https://openalex.org/A5084537290",
+          "institutions": [
+            "IMT School for Advanced Studies Lucca"
+          ]
+        }
+      ],
+      "cited_by_count": 94,
+      "is_oa": true,
+      "oa_pdf": "http://hdl.handle.net/11585/676232",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 97,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W3124497653",
+      "doi": "10.1287/mnsc.2022.4403",
+      "title": "The Impact of Institutions on Innovation",
+      "year": 2022,
+      "type": "article",
+      "venue": "Management Science",
+      "venue_issn": "0025-1909",
+      "authors": [
+        {
+          "name": "Alexander Donges",
+          "id": "https://openalex.org/A5010692494",
+          "institutions": [
+            "University of Mannheim"
+          ]
+        },
+        {
+          "name": "Jean‐Marie Meier",
+          "id": "https://openalex.org/A5047051053",
+          "institutions": [
+            "The University of Texas at Dallas"
+          ]
+        },
+        {
+          "name": "Rui C. Silva",
+          "id": "https://openalex.org/A5012331568",
+          "institutions": [
+            "Centre for Economic Policy Research",
+            "Universidade Nova de Lisboa"
+          ]
+        }
+      ],
+      "cited_by_count": 93,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 71,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W4206904707",
+      "doi": "10.1162/rest_a_00887",
+      "title": "The Wild Bootstrap with a “Small” Number of “Large” Clusters",
+      "year": 2019,
+      "type": "article",
+      "venue": "The Review of Economics and Statistics",
+      "venue_issn": "0034-6535",
+      "authors": [
+        {
+          "name": "Ivan A. Canay",
+          "id": "https://openalex.org/A5054714632",
+          "institutions": []
+        },
+        {
+          "name": "Andres Santos",
+          "id": "https://openalex.org/A5036099970",
+          "institutions": [
+            "UCLA Health"
+          ]
+        },
+        {
+          "name": "Azeem M. Shaikh",
+          "id": "https://openalex.org/A5071013106",
+          "institutions": [
+            "University of Chicago"
+          ]
+        }
+      ],
+      "cited_by_count": 89,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 30,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2730500259",
+      "doi": "10.1016/j.socscimed.2017.06.041",
+      "title": "Decentralization of health care systems and health outcomes: Evidence from a natural experiment",
+      "year": 2017,
+      "type": "article",
+      "venue": "Social Science & Medicine",
+      "venue_issn": "0277-9536",
+      "authors": [
+        {
+          "name": "Dolores Jiménez‐Rubio",
+          "id": "https://openalex.org/A5053054936",
+          "institutions": [
+            "Universidad de Granada"
+          ]
+        },
+        {
+          "name": "Pilar García‐Gómez",
+          "id": "https://openalex.org/A5084029296",
+          "institutions": [
+            "Tinbergen Institute",
+            "Erasmus University Rotterdam"
+          ]
+        }
+      ],
+      "cited_by_count": 81,
+      "is_oa": true,
+      "oa_pdf": "https://www.sciencedirect.com/science/article/pii/S0277953617304173",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 34,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2115333583",
+      "doi": "10.1146/annurev-polisci-120611-231838",
+      "title": "Improving Governance from the Outside In",
+      "year": 2014,
+      "type": "review",
+      "venue": "Annual Review of Political Science",
+      "venue_issn": "1094-2939",
+      "authors": [
+        {
+          "name": "Stephen D. Krasner",
+          "id": "https://openalex.org/A5074607048",
+          "institutions": [
+            "Stanford University"
+          ]
+        },
+        {
+          "name": "Jeremy M. Weinstein",
+          "id": "https://openalex.org/A5012511278",
+          "institutions": [
+            "Center for Global Development",
+            "Stanford University"
+          ]
+        }
+      ],
+      "cited_by_count": 79,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 111,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W633062633",
+      "doi": "10.5860/choice.32-2311",
+      "title": "Napoleon Bonaparte and the legacy of the French Revolution",
+      "year": 1994,
+      "type": "book-review",
+      "venue": "Choice Reviews Online",
+      "venue_issn": "0009-4978",
+      "authors": [],
+      "cited_by_count": 75,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2377403997",
+      "doi": "10.1007/s10887-016-9132-9",
+      "title": "The economic consequences of the Spanish Reconquest: the long-term effects of Medieval conquest and colonization",
+      "year": 2016,
+      "type": "article",
+      "venue": "Journal of Economic Growth",
+      "venue_issn": "1381-4338",
+      "authors": [
+        {
+          "name": "Daniel Oto‐Peralías",
+          "id": "https://openalex.org/A5033975123",
+          "institutions": [
+            "University of St Andrews"
+          ]
+        },
+        {
+          "name": "Diego Romero‐Ávila",
+          "id": "https://openalex.org/A5045658597",
+          "institutions": [
+            "Universidad Pablo de Olavide"
+          ]
+        }
+      ],
+      "cited_by_count": 75,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 140,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",

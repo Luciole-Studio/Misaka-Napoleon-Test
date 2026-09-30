@@ -1,0 +1,49 @@
+
+
+## 3. 1812停驻：真实讨论、作战暂停与终战必须分开
+
+### A3｜维捷布斯克暂停并非免费的后勤恢复
+- A，p.73：“Only ten days had elapsed after our arrival at Witepsk before it became necessary to send ten or twelve leagues for fodder.”
+- 同页：“Horses already in need of rest were further enfeebled by having to go in search of food”。
+- 【文献推断·Caulaincourt，回溯性】驻留仍消耗周边草料，并暴露觅食人员与马匹于袭击。该页接着记皇帝10日决定追击、12日晚离城；文中把俄军会合日期补注为8月4日。
+- 【裁量·中置信】不能以“停止前进”替代分散宿营、征发管理、护运和敌军应对的具体方案。十至十二leagues保持原单位，未作距离换算。
+- **未验证项：**流传的“第一次俄国战役已结束；1813莫斯科、1814彼得堡”语录，在已核读Caulaincourt段落中未找到；不得给他挂此引文。本轮搜索另见网络二手材料，尚未回溯原出处。
+
+### A4｜斯摩棱斯克战前：明确出现停驻、整顿、转顾德维纳河部队的方案
+- A，p.75（叙事在15日抵达、翌日行动之后，宜记为**约8月16日**，不是取得带日期原件）。
+- 原句：“We will drive them a little farther back, for our own comfort. I will dig myself in.”
+- 同页：“I will establish my headquarters at Witepsk. I will raise Poland in arms, and later on I will choose, if necessary, between Moscow and Petersburg.”
+- A，pp.75–76：作者赞同并向Prince of Neuchatel报告，p.76：“the Prince seemed to be doubtful whether they would survive the taking of Smolensk.”
+- 【事实·文本事实，回溯性】停驻整顿是被明确说出的选项；贝尔蒂埃被记为怀疑皇帝能否坚持，而非完全没有其他意见。
+- 【裁量·中置信】这是**分阶段继续战争**，不是接受永久有限目标：语句仍保留未来莫斯科/彼得堡进攻。将它命名为“止战于斯摩棱斯克”会失真。
+
+### A5｜斯摩棱斯克战后：谈判试探存在，但没有可证的俄方接受
+- A，p.80：“The next day [August 20] the Emperor stopped all the work in hand, appearing to have no wish to go beyond Smolensk.”
+- A，p.81：“the Emperor Napoleon, wished for peace”；对面军官答复：“he did not think peace possible so long as the French were on Russian soil.”
+- 【事实·文本事实，回溯性】作者叙述以俄军官为传话对象的和平试探；此人由作者描述为身份不确定、似曾持休战旗而被留置的军官。
+- 【裁量·中置信】“appearing”不是正式停进令；军官答复不是沙皇授权谈判条件。必须补军官身份、传递结果及当时命令，才能认定外交方案已达到可执行状态。
+
+### A6｜参谋反对：能证实劝阻，不能证成全体幕僚一致支持某份具体方案
+- A，p.70：“We made it a point to seize every opportunity of enlightening His Majesty about the real state of affairs”。前句明确指Prince of Neuchatel、作者与其他人。
+- p.69：“no one, not even the chief-of-staff, dared to assume the most trifling responsibility.”
+- p.70脚注引用Ségur, *Histoire et Mémoires*, IV, 93，分别描写Duroc、Lobau、Berthier、Caulaincourt、Daru的抗辩方式。**仅转引自本英编本注释；未读Ségur原卷。**
+- 【裁量·中置信】这里同时存在两层证据：顾问确会说不，以及命令与主动权限仍集中。不能概括成“无人敢反对”，也不能把战后集体自辩当成全部成员在同日提交停战建议的会议记录。
+
+### A7｜后勤失效不是“没有准备”这么简单
+- A，pp.66–67的物资段落（页67前后跨页，首次引句定位p.66尚需扫描确认）描写已集结辎重因盗失、遗失、无运输手段而散落道路；不纳入精确单页引文。
+- 可精确引用A p.67：“all our transport, built for metalled roads and to accomplish ordinary distances, were in no way suitable for the roads of the country we had to traverse.”
+- 同页：“The Guard was no better provisioned than the other corps”。
+- 【文献推断·Caulaincourt，回溯性】运输载荷、道路、马匹和纪律构成反馈，而不是仓库存量自动转换成部队可食用口粮。
+
+## 4. Clausewitz：对“稳健越冬”方案的最强反证
+
+### B1｜实际讨论存在，不等于战后方案优越性成立
+- B，pp.256–257（正文末段，文件行6046起）：作者概述在Dnieper和Dwina止步、最多占领Smolensko、安定占领区、武装波兰、来年再进军的替代计划；称其为“put forward after the event”。
+- **页码状态：**p.257页眉可核；前页256页眉在网页提取中丢失，只能记作跨页段落pp.256–257并待扫描校验，不能声称逐句精确到256。
+- 【裁量·高置信】Clausewitz的“事后提出”不能抹掉Caulaincourt记述的战时讨论；反过来，Caulaincourt的讨论存在性也不能推翻Clausewitz对可行性的批评。二者检验的是不同命题。
+
+### B2｜超长冬季防线与俄国增兵
+- B，p.257：“This implies a conclusion of the campaign without a victory over the Russian army”。
+- 同页：“The Russian military, weak at the commencement, and certain to be nearly doubled in the progress of hostilities, would have had time to complete its strength”。
+- 同页：“Encamp them? Impossible in winter.”
+- 【文献推断·Clausewitz，战后】其反证是俄军主力仍存、冬季可能沿法军拉长的正面反攻、城镇宿营使中间地区暴露。其“nearly doubled”是作者判断，本轮未核俄军动员账，不作为独立数量事实。

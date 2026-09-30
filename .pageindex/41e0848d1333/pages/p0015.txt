@@ -1,0 +1,61 @@
+the individual data for both the complete and the border sample. After the deletion of immigrants and
+
+those territories, for which historical data is not available, more than 15000 individuals are observed and
+
+included in the complete sample.
+
+
+
+                                    3.2    Complete Sample Analysis
+
+I will begin with estimating the effect of the Code Civil for current trust keeping a sample including all
+
+German regions.
+
+The following model is regressed:
+
+
+                                                              0
+                                 Yi,d,h = α + δ ∗ civilh + Xi,d,h ∗ β + ui,d,h                              (1)
+
+
+where Yi,d,h measures one of the social capital related outcomes of individual i living in district d, be-
+
+longing to historical territory h. civilh measures the number of civil years in historical region h before
+
+the year 1900. The matrix Xi,d,h contains a list of individual controls, specified above.
+
+                                              Table 2 about here
+
+Results of the regressions are displayed in Table 2. Column (1) shows the basic correlation between the
+
+Code Civil and individual trust, only controlling for macro-region fixed effects for the four macro-regions
+
+north, south, east and west. The coefficient is positive, and significant on the 1% significant level. Thus,
+
+individual trust is increasing in the number of years the Code Civil was used. This finding is robust to
+
+using cooperation and fairness as outcome variables in columns (2) and (3). I then add individual controls
+
+(age, age sq., gender), economic controls (household income, unemployment dummy), 5 categories of
+
+educational attainment and 4 categories of religious denomination. As it is visible from column (4), the
+
+coefficient of the Code Civil treatment decreases slightly - both in its significance and magnitude. Having
+
+applied the Code Civil for one standard deviation of about 37 years increases trust by 0.015 in absolute
+
+terms, a 98 year treatment increases trust by on average 0.04, or 8 percent of a standard deviation of trust.
+
+In column (7) I regress the same model but now using the proxy for family ties as dependent variable.
+
+Since the link proposed here goes from institutional quality to cooperation and not to other attitudes,
+
+such as attitudes towards family, I do not expect to find a significant correlation. Indeed, as column (7)
+
+shows, the coefficient of interest is positive, but not significant. Next, I control for historical determinants
+
+on the territory level. In particular, I include the urbanization rate and the share of protestants in 1800,
+
+
+                                                      13

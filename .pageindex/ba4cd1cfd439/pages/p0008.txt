@@ -1,0 +1,40 @@
+
+
+0
+
+0.05
+
+0.1
+
+0.15
+
+0.2
+
+0.25
+
+1820–1830 1835–1845 Difference Customs Liberalization in 1834 No Customs Liberalization in 1834
+
+an unbalanced panel. 17 The table also presents the number of price gap 
+observations for each city. For example, Aachen is included as city j or 
+k in 252 cases. Summing across all 40 cities there are 7,140 cases, which 
+corresponds to 3,570 bilateral price gap observations in the sample (out 
+of a possible total of 10,130). 
+Our dependent variable, Tradejk LVGH¿QHGDVWKHDEVROXWHYDOXHRIWKH 
+percentage price gap for wheat between cities j and k in a particular year. 
+7KLVPHDVXUHLVDVLPSOHPRGL¿FDWLRQRIWKHGHYLDWLRQIURPWKH³ODZRI 
+one price.” Suppose Nurnberg exports a unit of wheat to Frankfurt, and 
+Frankfurt charges a customs duty of YFN. In the absence of other costs and 
+with competitive markets, the price of wheat in Frankfurt in this period 
+is going to be equal to that in Nurnberg, plus the customs duty, or, the 
+customs duty is equal to the excess of the price in Frankfurt over that in 
+Nurnberg 
+
+PF – PN = YFN. (1)
+
+17 We have no reason to believe that sample selection matters for our results; a focus on city pair observations that are in the sample with relatively high frequency leads to similar results, as noted in our discussion of the Table 4 results below.
+
+FIGURE 5 PRICE CONVERGENCE AND THE 1834 CUSTOMS LIBERALIZATIONS Source: Authors’ calculation.
+
+While equation (1) gives the main motivation for studying the impact RIFXVWRPV OLEHUDOL]DWLRQ²ZKLFK UHGXFHVY²RQSULFH JDSV WZRSRLQWV are important. First, the price gap captures more than customs duties. In particular, we expect transport costs, dFN, to affect the price gap between Nurnberg and Frankfurt. The institutional setting matters too, such as the strength of contract enforcement for trades between Nurnberg and Frankfurt. 18 Alternatively, if markets are not perfectly competitive there could be mark-ups charged by middlemen; denote the costs capturing this by iFN. The excess of the price in Frankfurt over that in Nurnberg is then PF – PN = YFN + dFN + iFi N, (2) which shows that changes in customs duties need not change price gaps one for one. Second, we do not have information on whether the wheat in Frankfurt was shipped from Nurnberg, or from somewhere else. The price in Frankfurt is the minimum across all possible sources: PF = minq[Pq+ YFq+ dFq+ iFq ] and the information provided by any given price gap, such as to Nurnberg, gives the lower bound of the bilateral transactions costs: 19
+
+PF – PN YFN + dFN + iFi N. (3) In our sample, the mean absolute value of the percentage price gap between two markets is about 0.18 at the beginning of the sample, and around 0.05 towards the end. Thus the average price gap fell by about 70 percent. 20 7KLV UHÀHFWV WKH GUDPDWLF H[WHQW RI SULFH FRQYHUJHQFH LQ *HUPDQ\ RYHU WKH QLQHWHHQWK FHQWXU\ 7KLV ¿JXUH LV DIIHFWHG E\ WKH changing composition of the sample, but these effects appear limited, because the decline for the always present city-pairs is similarly large as in the full sample (73 percent, from 0.11 to 0.03). There is also consider able variation in price gaps across city-pairs in the cross-section. This is in part due to differences in bilateral distance, affecting transport costs, as well as other factors. In the analysis below we will include city-pair ¿[HGHIIHFWVWRDGGUHVVWKHVHLVVXHV )XUWKHU WKHGHFOLQHLQSULFHJDSVLV

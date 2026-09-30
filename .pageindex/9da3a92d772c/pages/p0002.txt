@@ -1,0 +1,39 @@
+
+
+### 反证与日期差异
+
+1. 【事实／文献推断：Corbett】**签署不等于批准。** C行14146–14179（p.282）先记Gower报告“the Czar was still hanging back”，后记“been able to announce the ratification of the treaty”。脚注注明7月21、22日公文于8月12日收到。故4月联盟签署不能直接换成4月已有整套联合作战机制；本次不另推批准确日。
+2. 【事实：读本差异】F把“first orders”落在**22日**；C分述**23日信、25日告终、26日收令**。可能涉及初令、政治表态、路线和正式行军命令不同层次，但**本次未取得足以裁决的原令，不能宣布差异已解决**。
+3. 【事实：反证】C p.277行13919–13925记布洛涅防卫军规划25,000人，p.275又记第三营替换战斗营。它反对把F“not a man”解释为全港无人；同时这只是留下守军的计划证据，不证明规划数全部实际到位。
+4. 【文献推断：Corbett】C p.278把东调与后来收到Cadiz确讯分开；因此“9月得知海军失败才开始东调”不符合该读本。不能反过来断言此前完全没有海军坏消息。
+5. 【事实：复用笔记的限定】`fleetplans.md`补记保留Cornwallis分兵**Corbett 16日／Mahan 17日**差异；本次不裁决，但8月15日法方决策不能使用其后英方行动的后见信息。
+
+## 二、1806–1807：已有正文能支持到哪里
+
+【事实：据J】1806年可核的链条如下；均为网页正文精确行号，不是搜索结果：
+
+| 日期 | 原文短引 | J行号 |
+|---|---|---|
+| 9月25日，Q3 | “Napoleon leaves Paris to join the Grande Armée.” | 212 |
+| 9月28日 | “Napoleon arrives in Mainz.” | 214 |
+| 10月8–11日，Q4 | “French soldiers cross the valleys in the Frankenwald.” | 224 |
+| 10月14日 | “French double victory, Napoleon at Jena, and Davout at Auerstedt.” | 232 |
+| 10月27日 | “Napoleon enters Berlin.” | 252 |
+| 11月16日 | “Signature of a Franco-Prussian armistice, not ratified by Frederick William.” | 264 |
+
+【文献推断：Hicks，P行136】“But all parties were hampered by the winter weather.”；“The going underfoot was very slow and going to get worse and startling, quick manoeuvres were unlikely to be possible.” 这支持跨冬季的行军时滞警戒，**不提供道路速度系数，也不能用来判定冬季不可作战**。同段Daru回忆录为回溯性转引，本核查不拿它确定日期。
+
+【事实：证据缺口】优先指定的P虽谈及Eylau，却未给该战具体日期，也未给Friedland及Tilsit的逐日链。故补读工作区已有I正文行30，仅采用其中日期而不扩展东方问题：
+- **1807年2月7–8日，Q1**：“Eylau over the Russians (7-8 February 1807)”；这包括两日事件口径，不能无说明压成“仅8日”。
+- **6月14日，Q2**：“Napoleon severely defeated the Russians at Friedland (14 June).”
+- **6月23日→7月7日，跨Q2/Q3**：“An armistice (23 June) was followed by the Treaty of Tilsit (7 July)”。这是Calmard叙述，文中引Driault pp.197 ff.；本次未读该Driault原页，也不借此证明所有停战文件均署23日。这里的7月7日不应替代法普条约日期；法普条约本次未核正文。
+
+## 三、只供逐季表修订的时滞边界
+
+【模型推演：仅日历差，非行军能力模型】按上述日期相减、不含起算日：1805年8月26日收令至10月7日多瑙河节点为**42天**，至10月20日乌尔姆为**55天**；若从F的22日初令算，则分别**46／59天**。这包括命令、展开、行军及作战经过，不是纯步行时间，更不是改变路径后可无条件复制的工期。
+
+【模型推演：仅日历差】1806年9月25日离巴黎至10月14日为**19天**，属于统帅行程／战役节点差，不能当全军从法国出发的动员期。1807年6月14日至7月7日为**23天**，战役和议和横跨两个季度，不可在Q2写成条约秩序已落地。
+
+【未验证】1805逐军出发／渡莱茵日表、乌尔姆投降条件签署与正式交军的区别、1807停战日期异文，以及反事实路径改写后的时滞，均未在本次范围完成核验。上述证据只校正这些节点与季节边界，**不认证整个季度表或任何胜利路径**。
+
+技术记录：一次bash整理调用遭工作区安全审批拦截，未执行；已改用read/grep完成，不影响本地材料交付。

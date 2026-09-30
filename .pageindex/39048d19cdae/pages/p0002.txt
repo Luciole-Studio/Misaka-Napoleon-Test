@@ -1,0 +1,37 @@
+
+
+### B2 Romanzoff致Canning邀谈信
+【事实·部分正文】No.I，日期照Hansard：Erfurth, 30 Sept. 12 Oct. 1808.—Received Oct.21。议会刊载1809-01-20，HC Deb vol.12 c93。
+https://api.parliament.uk/historic-hansard/commons/1809/jan/20/correspondence-with-the-russian-and
+缓存downloads/pages/5084a8cc6d63.md。
+> The plenipotentiaries named by the emperor of Russia will repair to that city on the continent to which the plenipotentiaries of his Britannic Majesty and his Allies shall have been sent.
+【限制】后续基础句未完整返回；不可用秘密协定补写。保留双日期，不以议会刊日代成文日。
+
+### B3 英国后续回复仍待全文核验
+1809-01-20 HC Deb vol.12 cc93–103，COUNT NICOLAS DE ROMANZOFF：
+https://api.parliament.uk/historic-hansard/commons/1809/jan/20/count-nicolas-de-romanzoff
+缓存downloads/pages/dcff12406423.md、a037474a0ec5.md、190f0f766ff1.md、721feaa5f41a.md（均同目录）。片段涉及未承认称号、瑞典及西班牙现政府；未确认各段文书日期与上下文，不作为完整拒绝理由证据。
+国王1808-12-15声明仅见目录，议会1809-01-20 vol.12 cc103–105：
+https://api.parliament.uk/historic-hansard/commons/1809/jan/20
+缓存downloads/pages/1ed92ae66cab.md。未读声明正文。
+
+## C｜结论及竞争解释
+【裁量·中】1806政府自述以实际占有为起点，1808法俄内部有具体和平条件。因此“英国拒绝讨论一切法国大陆优势”不能当无须证明的前提；但不证明接受法国永久控制全部低地。
+【方法】须拆比利时并合、荷兰政体与名义独立、法国驻军及外交从属、安特卫普等港口军事用途。总体基础不能替代专项承诺，谈判失败也不证明绝对否决。
+【解释待检】一说存在有限妥协空间却受盟友义务压缩；一说条件服务于联盟分化且承诺缺乏可信性。这是本稿竞争解释，非已验证Butterfield/Schroeder学派。
+【未核】1805 Talleyrand Strasbourg memorandum没有取得正文；不按记忆重建日期与内容，不入已核替代选项。
+
+## D｜补证与技术限制
+优先：Fox给Yarmouth/Lauderdale完整训令，Holland/Belgium/Netherlands/Antwerp/Scheldt专项条款，实际占有例外、法国正式书面确认；其次Canning回复、法俄对西班牙代表资格回复、12/15声明；再校4/1英法版本、3/5删节、6/13或7/13日期、埃尔福特转录拼写。
+【阅读限制】Butterfield未读；Schroeder未完成专著对读；未亲读TNA/法国外交档案；没有以圣赫勒拿材料证明意图。议会辩论不冒充现代逐字速记。
+【技术】Hansard外交文件页多次仅excerpts，缓存有超50KB长行；子代理切分与写入遇审批，未成功执行。主卡保存本索引不表示消除了原文完整性缺口。
+【未核检索线索】The Historical Journal论文“‘An odd question enough’. Charles James Fox, the crown and British policy during the Hanoverian crisis of 1806”：
+https://www.cambridge.org/core/journals/historical-journal/article/abs/an-odd-question-enough-charles-james-fox-the-crown-and-british-policy-during-the-hanoverian-crisis-of-1806/DA234C37EB853325D8B9C08F7BE34CCA
+摘要检索指TNA FO27/73、BL Add.MSS51458、Fox致Yarmouth1806-06-26、confidential communication made13June1806。未读论文全文或档案，仅为线索。
+
+## 深潜移交C13与P8适用边界
+【裁量】1806以三个并列锚点登记“谈判基础存在争议”：12/30政府称无法方正式书面承认可提交；Yarmouth口头基础证言；1/2格伦维尔实际占有且可交换的公开辩护。因此，本稿只证明有探索渠道与口头层级接触基础，不证明接近达成和平；“双方已同意uti possidetis而后被撤回”不能作为无争议事实。S3不得借此断言英国本会接受法国秩序。
+
+1808第4—6条仅证法俄内部约定：不得推断英国接受；不得推断全部条件已传达伦敦。英国回复全文、秘密条件与实际递交条件对照，移交C13。
+
+1805斯特拉斯堡备忘录正文仍未读，取证移交C13。协调方提供的书目线索为P. Bertrand编《Lettres inédites de Talleyrand à Napoléon》(1889)，Gallica/Archive.org藏本线索；本卡未核该版题页、收录篇目及页码，不借线索补写内容。责任移交不等于证据缺口闭合。

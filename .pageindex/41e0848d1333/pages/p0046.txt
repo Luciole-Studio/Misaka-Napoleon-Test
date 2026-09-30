@@ -1,0 +1,34 @@
+                                                                     Table 12: Economic Cooperation and Social Capital
+
+                                         (1)        (2)            (3)         (4)         (5)          (6)          (7)           (8)               (9)            (10)          (11)           (12)
+                                                Member p.c.                            Firemen p.c.                             Member p.c.                                   Firemen p.c.
+
+
+      Trade                          5.925***                                 0.296                               4.463**                                          0.037
+                                      (1.576)                                (0.386)                              (1.821)                                         (0.578)
+      Factory                                      0.817***                              0.192**                                  0.666***                                        0.153
+                                                    (0.164)                              (0.075)                                   (0.108)                                       (0.116)
+      Craft                                                       2.037                                0.192                                         1.099                                       0.021
+                                                                 (1.265)                              (0.192)                                       (0.635)                                     (0.163)
+      Share of Protestants                                                                                        0.224***        0.238***        0.220***        0.044**       0.047***       0.044**
+                                                                                                                   (0.022)          (0.025)         (0.029)        (0.016)       (0.014)        (0.016)
+      Share of Jews                                                                                              -3.266***         -2.546**       -2.803***        -0.444        -0.259          -0.435
+                                                                                                                   (0.827)          (0.903)         (0.702)        (0.266)       (0.204)        (0.278)
+      Share of Female                                                                                            -4.215***        -4.112***       -4.748***          0.169         0.230         0.161
+                                                                                                                   (0.801)          (0.820)         (0.806)        (0.328)       (0.350)        (0.340)
+44    Income p.c.                                                                                                   -0.007           0.009           0.000          -0.003        -0.003         -0.003
+                                                                                                                   (0.042)          (0.041)         (0.039)        (0.009)       (0.012)        (0.010)
+      Elementary Schools p.c.                                                                                   -77.481***       -81.488***      -98.444***      -50.199**      -43.374*      -50.227**
+                                                                                                                  (18.048)         (16.331)        (20.509)       (19.453)      (19.393)       (16.859)
+      Longitude (div. by 1000)                                                                                     0.605*           0.638*           0.541           0.065         0.085         0.064
+                                                                                                                   (0.318)          (0.294)         (0.353)        (0.089)       (0.066)        (0.083)
+      Latitude (div. by 1000)                                                                                      -1.503            -1.039          -1.461          0.227         0.341         0.228
+                                                                                                                   (1.094)          (1.113)         (1.147)        (0.492)       (0.518)        (0.493)
+
+      Observations                      244           244          244         244         244         244           234             234             234            234            234           234
+      R-squared                        0.089         0.055        0.083       0.002       0.021       0.005         0.282           0.286           0.279          0.085          0.094         0.085
+
+     Notes: OLS regressions. Dependent variables: Member p.c. gives the per capita share of members in gymnast clubs (multiplied by 100). Firemen p.c. gives the per capita share of voluntary firemen per
+     county (multiplied by 100).
+     Sources: Becker et al. (2012) and Second Statistical Yearbook of Germany Gymnast Clubs, (Hirth, 1865). Heteroscedastic-robust standard errors, clustered at the historical territory in parentheses. ∗
+     p < 0.10, ∗∗ p < 0.05, ∗∗∗ p < 0.01

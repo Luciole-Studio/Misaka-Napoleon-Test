@@ -1,0 +1,26 @@
+---
+source_url: "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/grands-discours-parlementaires/joseph-laine-28-decembre-1813"
+final_url: "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/grands-discours-parlementaires/joseph-laine-28-decembre-1813"
+provider: "exa"
+text_sha256: "8f633f3fa8dc017701331cad86eb87057c7bbb0360cdef55be303b7f782ab42b"
+title: "Joseph La\u00een\u00e9 (28 d\u00e9cembre 1813)\n                     - Assembl\u00e9e nationale"
+content_kind: "page_text"
+---
+
+Joseph Laîné (28 décembre 1813) - Assemblée nationale
+
+# Joseph Laîné (28 décembre 1813)
+
+Partager
+
+Joseph Laîné « Le vœu des peuples pour la paix » (28 décembre 1813)
+
+Décembre 1813 : la situation de l'Empire est critique. Dans son discours du trône, Napoléon ne cache pas les difficultés mais affirme sa confiance dans la victoire. Il annonce qu'il va communiquer au Sénat et au Corps législatif les documents expliquant pourquoi les négociations de paix ouvertes à Francfort avec les puissances coalisées n 'ont pu aboutir. Après avoir examiné ces pièces, les sénateurs adoptent une adresse complaisante mais le Corps législatif saisit l’ occasion pour faire entendre sa vision « pour une paix honorable et solide ». Il élit cinq libéraux au sein de la commission de l'adresse dont l’avocat Joseph Laîné (1767-1835). Celui-ci est le principal auteur du rapport qui suit et qui, lu en comité secret le 29 décembre, rencontre un grand succès. Le lendemain, le Corps législatif vote son impression à la majorité de 223 voix contre 31. Lorsqu 'il apprend ces nouvelles, Napoléon, furieux, fait saisir le texte, le fait mettre au pilon, puis décrète l'ajournement du Corps législatif sous le prétexte du renouvellement partiel de ses membres. Le 1er janvier 1814, il lance aux députés venus lui adresser leurs vœux du nouvel an : « J'avais besoin de consolations, et vous avez voulu me déshonorer. J'attendais que vous vous seriez réunis d'intention et d'efforts pour chasser l'étranger. Vous l'avez appelé !... » Il leur signifie l'ordre de quitter Paris et qualifie Laîné de « méchant homme ». Rentré à Bordeaux, l'avocat y œuvrera pour le retour des Bourbons, ce qui lui vaudra, sous la Première Restauration, la présidence de la Chambre des députés.
+
+M. Laîné : La Commission extraordinaire que vous avez nommée en vertu du décret de l'Empereur du 20 décembre 1813, vient vous présenter le rapport que vous attendez en ces graves circonstances.
+
+Ce n'est pas à la Commission seulement, c'est au Corps législatif en entier à exprimer les sentiments qu'inspire la communication ordonnée par Sa Majesté, des pièces originales contenues dans le portefeuille des Affaires étrangères.
+
+Cette communication a eu lieu, messieurs, sous la présidence de S.A.S. l'Archichancelier de l'Empire.
+
+Les pièces que l'on a mises sous nos yeux sont au nombre de neuf, parmi les­quelles des notes du ministre de France et du ministre d'Autriche, qui remontent aux 18 et 21 août ; on y trouve le discours du Régent prononcé le 5 novembre au parlement d'Angleterre, dans lequel il disait : « Il n'est ni dans l'intention de Sa Majesté, ni dans celles des puissances alliées de demander à la France aucun sacrifice qui puisse être incompatible avec son honneur et ses justes droits, »

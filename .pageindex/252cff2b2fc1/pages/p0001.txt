@@ -1,0 +1,117 @@
+[
+  {
+    "file": "Q2_integration_panel.md",
+    "bytes": 38326,
+    "sha256": "d8db9ea032053d53915985176222949c77f839f9d4d2d5ae797d404d5aabc9cd"
+  },
+  {
+    "file": "Q2_panel.csv",
+    "bytes": 28472,
+    "sha256": "97f823da7339d03df1a0be8e29bd98f851d6c1080c51e7f332108a1627218f3b",
+    "data_rows": 116
+  },
+  {
+    "file": "Q2_published_estimates.csv",
+    "bytes": 1231,
+    "sha256": "2ecc5fd93aeb0b4c97f1928980058ce254e76c813a42fe3229c56965054085d4",
+    "data_rows": 8
+  },
+  {
+    "file": "Q2_calculations.csv",
+    "bytes": 8040,
+    "sha256": "21cdd5e0a664c98d23625598ebb3fef20dc7b0a3f0b9cafec3ad59a880e2404d",
+    "data_rows": 46
+  },
+  {
+    "file": "Q2_assumptions.csv",
+    "bytes": 2638,
+    "sha256": "b223f4333743ddbb1e2249571d6b28ffd981335ad2c63bfa8aae7b485f78a098",
+    "data_rows": 23
+  },
+  {
+    "file": "Q2_model_paths.csv",
+    "bytes": 327142,
+    "sha256": "dd0be11426309b02197e566face50aec383d9ee8621cb8baa97faef3add77d83",
+    "data_rows": 3840
+  },
+  {
+    "file": "Q2_model_summary.csv",
+    "bytes": 757,
+    "sha256": "11bd804d18e3988894938f9303054522387ecaf20fe43a1dc085487bccdf0fc2",
+    "data_rows": 9
+  },
+  {
+    "file": "Q2_stock_sensitivity.csv",
+    "bytes": 4685,
+    "sha256": "4aaa64468bddded00c9ad21b0506f6ae2fc9eaf26e406ae27700289c4bcb737f",
+    "data_rows": 108
+  },
+  {
+    "file": "Q2_fiscal_thresholds.csv",
+    "bytes": 382,
+    "sha256": "ba273388edc525787017141f4aef8adbcb32c136adfc87942b30e6c6f20cbb67",
+    "data_rows": 3
+  },
+  {
+    "file": "Q2_target_regions.csv",
+    "bytes": 1199,
+    "sha256": "ce59d9b4acb68155a75a66005d7f47b13d4b333ebbf08633ab85b7a271fe8731",
+    "data_rows": 8
+  },
+  {
+    "file": "Q2_leave_one_audit.csv",
+    "bytes": 1073,
+    "sha256": "f2a610dd2c4092dd19b1b190945abb4a482742af84f2610f2fb824be6e172d10",
+    "data_rows": 6
+  },
+  {
+    "file": "Q2_validation.json",
+    "bytes": 1389,
+    "sha256": "292f58d3287ca00168a10b4c63cd5d03cb2d5ff37f8d9c5a132d52cac809df92"
+  },
+  {
+    "file": "Q2_run_log.txt",
+    "bytes": 4251,
+    "sha256": "ed81fbb57a3319b2cca4c939aa51fcfc02a682487554f52dd9bc85ee220505ac"
+  },
+  {
+    "file": "SOURCES.md",
+    "bytes": 5827,
+    "sha256": "6d52e75507a18924221b81ec76b919f5d15c5946a28d953e4038d58030fbef27"
+  },
+  {
+    "file": "quote_audit.md",
+    "bytes": 2910,
+    "sha256": "f03be6ba14e6a6decbc55097618d847fe730a8697971867020f5aa9382e8bde1"
+  },
+  {
+    "file": "notes_final_validation.md",
+    "bytes": 2897,
+    "sha256": "dfe4b29de11b6c6f3b7927e9e8b47b001ccfe6d568755c79e96b79589e6c5b4c"
+  },
+  {
+    "file": "report_part1.md",
+    "bytes": 17730,
+    "sha256": "1e369b82dcd392a2fafc2dcbac56b1c7de68618d472295f51978fecc77cc810b"
+  },
+  {
+    "file": "report_part2.md",
+    "bytes": 20595,
+    "sha256": "4aa69610b32282c19e80049fee1b20f8bb42e08af4a9cfb3bc76ed907ef61995"
+  },
+  {
+    "file": "build_panel.py",
+    "bytes": 13416,
+    "sha256": "2ed0833d4ac708dc1e618e2813f166ce008f5e3c3e92722203c03efaa899d24e"
+  },
+  {
+    "file": "analyze_q2.py",
+    "bytes": 12092,
+    "sha256": "298e21a014fbf7fa53e09137ef4f9da50989ab25041ff65f7fd2c4c2d60a3e6b"
+  },
+  {
+    "file": "finalize_q2.py",
+    "bytes": 2887,
+    "sha256": "7dd33170e869beed5e860799d66322281d2ef80523c2746f92a25511293de1dc"
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "sections_1_16": 16,
+  "timeline_nodes": 31,
+  "policy_rows": 8,
+  "map_regions": 20,
+  "reversal_tests": 6,
+  "report_utf8_bytes": 62708,
+  "notes": "structure and arithmetic checks only; no causal or source-truth certification",
+  "files": {
+    "B6_british_overseas_empire.md": {
+      "bytes": 62708,
+      "sha256": "ce387ed86942e53ac684557833fd8917191dc4afc674bd2d7fb353fd1053d014"
+    },
+    "SOURCES.md": {
+      "bytes": 17689,
+      "sha256": "74384d4ebb07f47ea4ba893c4ee00653eb57486d6f0fa54916d9f38651d531a6"
+    },
+    "calculate_bounds.py": {
+      "bytes": 5812,
+      "sha256": "429b3f6d287d878b27ce8e2f2556d6fb1c697174140454afc723306e11571f13"
+    },
+    "trade_heckscher.csv": {
+      "bytes": 959,
+      "sha256": "11c6d7b5fcadf816328a870c39eea03d3656e1af8cf7002abc0f3d5b53f7934c"
+    },
+    "trade_bounds.csv": {
+      "bytes": 1388,
+      "sha256": "9cd9c2cd0278381cc344fe5c165625980dee27a3182cf8b8ccbd4bc9aeab9a54"
+    },
+    "trade_sensitivity.csv": {
+      "bytes": 3209,
+      "sha256": "9bb7c2d5892e3b7b7996d04890cb2eda660359e2fd583d1a3fb057f5687b4bc0"
+    },
+    "baseline_sensitivity.csv": {
+      "bytes": 1556,
+      "sha256": "a3200799ddc1ba318b06075fe36f312eefa671158e6b0c0ef0ca75da8cf1fca8"
+    },
+    "fiscal_1820.csv": {
+      "bytes": 490,
+      "sha256": "fc4a961b7189a08eb9106ee1ceb4f2579c76214280649fa88f524461aa55547b"
+    },
+    "scenario_assumptions.csv": {
+      "bytes": 473,
+      "sha256": "c7e1c3eae8e1a9aa33eaf13d54af6fc091a4210d056025d88d5961a59c8eafc4"
+    },
+    "scenario_ranges.csv": {
+      "bytes": 632,
+      "sha256": "6fcf9e6a9307f1398b7123df5caf92222325af05f8593167aef3628c8404328a"
+    },
+    "audit.json": {
+      "bytes": 3555,
+      "sha256": "0d5f6cda106271e7547445a9d1321ac5b79ad1039c05cdba1bdaa9a690a74b9c"
+    },
+    "notes_reuse.md": {
+      "bytes": 2159,
+      "sha256": "59b3faca7b854bb75cf537610cf58c116678c7b5ee909e4ff23985aed51ddd86"
+    },
+    "notes_fiscal.md": {
+      "bytes": 3134,
+      "sha256": "166bf869ef1cfcc41b013b4584c15cafa0160e4e92ebc82a1d571340985b915a"
+    },
+    "notes_empire.md": {
+      "bytes": 7469,
+      "sha256": "a768e6c2dc8cece93a253a7b33b3458dcb6155e425f0f06cbb5bd3be4cca67f9"
+    },
+    "notes_addenda.md": {
+      "bytes": 10643,
+      "sha256": "1eaa73474641b3546b0a139dc6ccf4a35955a250afbdacdc5515da8e93e61d7b"
+    }
+  }
+}

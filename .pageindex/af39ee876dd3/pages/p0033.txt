@@ -1,0 +1,28 @@
+                                                             Table 4
+                               DISCRIMINATORY CONSCRIPTION, DRAFT EVASION, AND CONSCRIPTION RATES
+
+                                                Draft-Dodging Rate                                        Share of the Population Conscripted
+
+Dependent Variable              (1)             (2)             (3)             (4)              (5)              (6)             (7)               (8)
+Groups 4 & 5 × 1806           0.68228         1.05742       –0.10937          0.25495        0.00016**        0.00015**         0.00013           0.00011
+                             (2.00993)       (1.89657)      (1.96222)        (1.86357)       (0.00007)        (0.00007)        (0.00008)         (0.00008)
+Groups 4 & 5 × 1807           0.29009         0.60462       –0.39263         –0.08711        0.00011**        0.00010**       0.00011**          0.00010*
+                             (1.77933)       (1.65561)      (1.81940)        (1.71258)       (0.00005)        (0.00005)       (0.00006)          (0.00005)
+Groups 4 & 5 × 1808           1.12370         1.36358        0.86775          1.09977       0.00018***       0.00017***      0.00017***         0.00016***
+                             (1.12770)       (1.05878)      (1.11473)        (1.06415)       (0.00006)        (0.00005)       (0.00006)          (0.00006)
+Groups 4 & 5 × 1810        –4.40618***      –4.36188**     –5.04431***     –4.99631***      –0.00025***      –0.00025***     –0.00023***        –0.00024***
+                            (1.68210)        (1.74115)      (1.68585)       (1.73068)        (0.00006)        (0.00006)       (0.00006)          (0.00006)
+Border × Date dummies                           ü                                ü                                ü                                 ü
+Maritime × Date
+                                                                ü                ü                                                ü                 ü
+dummies
+Year fixed effects               ü              ü               ü                ü               ü                ü               ü                 ü
+Department fixed effects         ü              ü               ü                ü               ü                ü               ü                 ü
+Observations                    554             554            554              554             555              555              555              555
+R-squared                     0.86439        0.87064         0.86697          0.87327         0.67290          0.68351         0.68334            0.69377
+***p < 0.01, **p< 0.05, *p < 0.1
+Sources: Draft-dodging rates are form the Archives Nationales AF/IV/1124, n. 1 and n. 9. The share of conscripts is from the Archives Nationales, AF/IV/1124,
+n. 1 and n. 9 and the Rapport a sa Majesté Impériale et Royale from 6 April 1809. Ruggedness is from Nunn and Puga (2012). Data on “Border” status is from
+Nussli (2012). Military relays are from Arbellot, Lepetit, and Bertrand (1985). Replacement rate is from the Archives Nationales, AF/IV/1124, pp. 198–215.
+Maritime status is calculated using information from Poirson (1808).
+                                                                                                                                                                Political Economy of Conscription in Napoleonic France 1089

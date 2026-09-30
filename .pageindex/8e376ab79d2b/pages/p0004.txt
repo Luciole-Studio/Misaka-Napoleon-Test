@@ -1,0 +1,17 @@
+
+
+### 后续能改变判断的材料
+
+【未验证项】法国全国逐舰存量/年度下水及退出：Glover全文、Winfield & Roberts和SHD MV BB4及船厂清册；英国James其余Annual Abstracts、Winfield与TNA ADM造舰订单、点名表、部署和账目；逐舰航海日志及实弹/编队操练；木材按品种规格的库存和到货；海军战俘按军种/技能与交换流量。档案系列名只是谱系，没有假称读过原折。Davey引用的ADM 111/187、ADM 119/33和Bjerg的WO1/187均为转引线索。
+
+【裁量】优先补法国1814同口径全国端点和1807—14下水/灭失，其次英方同期分类，才有资格启动校准；训练与护航仍要独立验证。即使未来得到“舰数已接近”，也只解决第一层，不会自动解决全球制海。
+
+## 八、文件与复算
+
+- 主报告：`c3_naval_race_model.md`。
+- 年度登记：`c3_scenarios.csv`，112行，1803—1830；NA不插值。
+- 条件舰数：`c3_thresholds.csv`；诊断恒等式：`c3_quality_thresholds.csv`。
+- 校准状态：`c3_calibration.csv`；脚本及哈希：`build_c3.py`、`c3_replay_manifest.json`。
+- 证据备忘：`sortie_evidence.md`、`rebuild_feedback_evidence.md`，以及`materials/James_1886_IV_sortie_passages.md`。
+
+在项目根运行：`python3 nodes/r_b55f2c1cf5/cards/t_7ee3b0/build_c3.py`。算法只有整数求和与Fraction门槛，无拟合、回归、随机抽样或船队仿真。可重放不等于史实校准；本卡降级交付保留未满足的数量验收项。

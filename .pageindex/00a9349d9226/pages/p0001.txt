@@ -1,0 +1,26 @@
+# notes_politics_society.md — 1808 政治危机、1810 起义、族群结构、古巴、美国
+
+## A. 1808 新西班牙宪政危机与九月政变
+来源：①INEHRM《El virrey Iturrigaray y el Ayuntamiento de México en 1808》（`downloads/MX_INEHRM_Iturrigaray_1808.pdf`，doc 41309a4dc88a）；②《1808: Albores del constitucionalismo mexicano》SciELO（检索快照，未下载全文）；③《Jesús Ruiz de Gordejuela Urquijo》目录（docslib 快照）；④UNAM 法学所 PDF（archivos.juridicas.unam.mx/.../15.pdf 快照）。**②③④只读检索快照，未取全文，引用标"转引/快照"。**
+
+- 【事实·快照】1808-07-19 墨西哥城市议会（Cabildo）决议：以**卡洛斯四世**名义保有王国；Azcárate 与 Primo de Verdad 提出"国王缺位时主权回归人民（pueblo）"。总督 Iturrigaray 抢先表态愿为卡洛斯四世保有领地。
+- 【事实·快照】Real Acuerdo（1808-07-15）判定巴约讷退位无效、不承认贝尔格公爵命令；**Audiencia 由半岛人主导，Ayuntamiento 由克里奥尔人主导**——这是新西班牙的制度性裂缝。
+- 【事实·快照】1808 年 8–9 月共开四次"总会议"（juntas generales）：08-09、08-30、09-01、09-09；第一次会议记录被总督方修改，其余三次未成文。
+- 【事实·快照】1808-09-15 夜至 16 日凌晨，**Gabriel Joaquín de Yermo** 率约三百名武装半岛商人（"Voluntarios de Fernando VII"）夺宫，囚禁总督 Iturrigaray 及其家属，Real Acuerdo 与大主教 Lizana 于凌晨二时"正式批准"罢黜，立八十余岁的 **Pedro Garibay** 为总督；Azcárate、Primo de Verdad、Talamantes 等克里奥尔领袖同时被捕。
+- 【事实·亲读 doc 41309a4dc88a】Yermo 的**经济动机链**：Iturrigaray 干预 Consulado 选举并以 6,000 pesos 罚款相威胁（后被印度院撤销并申斥）；1805 年 Yermo 家族因无法满足肉类供应被市政罚款，斗牛场牛肉获准销售打破其专营；总督为疏干谷地与修路开征**肉类新税与每桶烧酒 6 pesos 税**，直接打击 Yermo 两大生意，Yermo 抗议后总督下令逮捕（靠朋友斡旋获免）。
+  → **判读（推断）：1808 年九月政变不是"半岛人 vs 克里奥尔人"的纯族群冲突，而是"被总督的财政创新伤害的垄断商人集团＋怕失去职位的 Audiencia"联合发动的**。这对反事实至关重要：**任何把新西班牙财政压得更紧的马德里/巴黎政权，都在制造 Yermo 型敌人；任何放松垄断的政权都在制造 Consulado 型敌人。**
+- 【事实·快照（Gaceta de México n.98, 1808-09-17 转引于 Lizarza《Vindicación》，doc 未下载）】官方口径称"noble pueblo mexicano"逮捕总督、"sin efusión de sangre"；次日 Garibay 下令收回该期报纸并重印——**政变者自知其合法性叙述脆弱**。
+
+## B. 1810 起义：瓜纳华托 Alhóndiga（28 Sept 1810）
+来源：①Lucas Alamán《La revolución del cura Miguel Hidalgo…》第二章第二部分，Biblioteca Virtual Antorcha 转录，抓取文本 `downloads/pages/c68f606dbf1f.md`；②Hernández y Dávalos 文献集 HYD II-53《Documentos intimando rendición al intendente Riaño》，`downloads/MX_Hidalgo_Riano_Granaditas_1810.pdf`（doc 46ec015b0dc6）。
+
+- 【事实·亲读 HYD II-53】Hidalgo 1810-09-28 致 Riaño 最后通牒原文："El numeroso ejército que comando, me eligió por capitán general y protector de la nación en los campos de Celaya. La misma ciudad **a presencia de cincuenta mil hombres** ratificó esta elección… se reducen a **proclamar la independencia y libertad de la nación**; de consiguiente **yo no veo a los europeos como enemigos, sino solamente como a un obstáculo**, que embaraza el buen éxito de nuestra empresa… si se declaran por enemigos, o convienen en **quedar en calidad de prisioneros**… **quedando con derecho, a que se les restituyan los bienes de que por ahora, para las urgencias de la nación, nos serviremos**."
+  → **关键结构：起义纲领把"欧洲人"定义为障碍物和财源，而不是把君主制定义为敌人。**
+- 【事实·亲读 HYD II-53】Riaño 复文："No reconozco otra autoridad… que el excelentísimo señor don Francisco Xavier de Venegas, Virrey… **ni más legítimas reformas que aquellas que acuerde la Nación entera en las Cortes generales que van a verificarse**. Mi deber es pelear, como soldado."
+  → **注意：王党的正统性依据已经是"即将召开的西班牙全国议会（加的斯）"，而不是国王个人。**这决定了反事实里"没有加的斯议会"时王党话语缺一条腿。
+- 【事实·亲读 HYD II-53】Riaño 同日十一时向 Calleja 求援："Voy a pelear porque voy a ser atacado en este instante. Resistiré cuanto pueda porque soy honrado, **vuele vuestra señoría a mi socorro, a mi socorro**."
+- 【事实·亲读 Alamán 转录 `c68f606dbf1f.md`】兵力与伤亡："los demas grupos de la gente de a pié de Hidalgo **que ascendia a unos veinte mil indios**, a que se unió el pueblo de las minas y la plebe de Guanajuato… un cuerpo de cosa de **dos mil hombres de caballería**"；**瓦伦西亚纳矿的矿工由矿场管理人 Casimiro Chovell 率领加入，Alamán 称 Chovell 事先与 Hidalgo 有约**；起义方释放监狱中"trescientas a cuatrocientas personas"并驱之攻打粮仓。
+- 【事实·亲读 Alamán】伤亡："el de los insurgentes se tuvo empeño en ocultarlo… El ayuntamiento en su exposicion, **lo hace subir a tres mil**; Abasolo en su causa dice que fueron muy pocos; esto no me parece probable y **lo primero lo tengo por muy exagerado**. De los soldados murieron **unos doscientos, y ciento cinco españoles**."
+  → **口径登记：起义方死亡 3,000（市议会）vs "很少"（Abasolo），Alamán 两说皆不取 → 本卡用"数百至三千，无可靠中值"。守方死 105 名西班牙人＋约 200 名士兵。**
+- 【事实·亲读 Alamán 与 Granaditas 官方史（`archivogeneralgto…/25_Granaditas…pdf` 快照）】1810-11-24/25 Calleja 收复瓜纳华托前，城内暴民屠杀 Granaditas 中的西班牙囚犯；Calleja 入城"mandó tocar a degüello"，设九座绞架，11-27 抽签绞死十八名平民，11-28 绞死瓦伦西亚纳矿管理人 **Casimiro Chowell** 等八人。
+  → **机制：镇压的对象正是矿业管理层——白银产出的人力资本被内战直接消灭。**

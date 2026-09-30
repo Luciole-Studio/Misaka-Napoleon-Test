@@ -1,0 +1,17 @@
+
+
+## 三、主要转引层（未亲读原件，均在正文标注）
+- Joseba de la Torre（纳瓦拉征收与游击征收微观数据）——经Tone。
+- Richard Hocquellet 1999博士论文（洪塔构成20/29）——经Fraser App.2。
+- Vicente Pérez Moreda（1797–1814人口损失80万估）——经Fraser App.5。
+- Revuelta González（1834-07-17性质之争）——经Callahan。
+- Espoz y Mina回忆、Andrés Martín战记、团级战记——经Tone/Esdaile FN（回溯性已标）。
+- 拿破仑圣赫勒拿"fatal knot"语——经Tone题词（回溯性自辩，仅作修辞引用）。
+- Toreno、Alcalá Galiano、Blanco White、Schepeler等同时代记述——经Esdaile SA/PW脚注链。
+- Alexander, Rod of Iron（Suchet阿拉贡反游击）——未获全文，仅作待补线索（§20）。
+- 萨拉戈萨围城死亡~54,000、afrancesado流亡1.2万家庭、1833人口1,370万——通说，未独立核，不入承重计算。
+
+## 四、检索与获取记录
+- Anna's Archive member会话：search-book×14、download-book×10（9成功+1域名索引错误后换副本成功）；全部verified（md5）。脚本与清单：aa_search.sh、aa_download.sh、aa_retry.sh。
+- Moreno Alonso专著（《La revolución "santa" de Sevilla》等）AA书目检索未获全文文件；其塞维利亚junta研究由Fraser App.2（Hocquellet系）与Esdaile SA ch.3覆盖替代；status: not found in current AA-indexed searches（非全库不存在之证明）。
+- 防过载协议执行：全部长文本折行落盘（texts/），分段read（≤300行/次），notes随读随写7份，正文由notes装配，未派子代理。

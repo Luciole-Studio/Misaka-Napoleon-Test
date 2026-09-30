@@ -1,0 +1,59 @@
+
+
+1787-1789 1818-1820 States
+
+10% 6% Land trade with Germany 6% 11% Switzerland 4% 5% United States of America 2% 10% Portugal 2% 4% Sources: AN F12 250, F12 1835 and authors’ computations (see TOFLIT http://toflit18.hypotheses.org/). The correlation is 0.65.
+
+To some extent, the trade data enables us to identify structural changes in French trade between
+
+1787/1789 and 1818/1820. The re-export trade of plantation foodstuffs virtually disappears, even though colonial imports for domestic consumption remained significant. A few aspects remained unchanged, such as the importance of wine and industrial exports, and that of raw material imports.
+
+Figure 4: Sectoral shares of French exports,
+
+Sources: AN F12 251, TOFLIT18, authors’ computations
+
+Figure 5: Sectoral share of French imports
+
+Sources: AN F12 251, TOFLIT18, authors’ computations
+
+On the eve of the French Revolution, industrial products accounted for some 53% of French domestic exports (TOFLIT18 data). This percentage was consistently lower than the ratio for Great Britain, which has led some historians to conclude that the French trade did little to foster industrialisation (Meignen 1973, 583-614; Léon 1974, 407-432). This is confirmed by the dependency rate of most French industries on external markets, which can be computed by using the value-added estimates from the ISMEA team (see Figure 3.6). This rate was relatively small and
+
+declined further during the wars, which reinforces the argument about the rising importance of internal demand.
+
+Figure 6: External market dependence rate of some French industries, 1787-89 and 1818-20
+
+Note: External market dependence rate as measured by exports divided by value-added (including clothing for textile sectors).
+
+Sources: Trade: TOFLIT18. Value-added: Toutain (1961, 212) ; Toutain (1961, 6) ; Markovitch (1966, Table 3).
+
+The industrial transformations induced by the events of 1792-1815 can be measured by identifying the evolution of the comparative advantage of the French economy revealed through the computation of ‘Contributions to the Trade Balance’ (CTB), as formulated by Lafay in 1992. 16 These
+
+16 We prefer this measure to the more usual Balassa indicator because of the prevalence of intra-industrial trade – in most sectors, France was both an importer and an exporter (Lafay 1992, 209-234).
+
+0 .1 .2 .3 .4
+
+Silk threads and fabrics
+
+Other industrial products
+
+Drinks and tobacco
+
+Coton threads and fabrics
+
+Wool threads and fabrics
+
+Other threads and fabrics
+
+Leather, wood and paper products
+
+Other foodstuffs and live animals
+
+1787/1789 1818/1820
+
+figures measure the trade balance of each sector corrected for the overall trade balance, so that the sum of CTBs is equal to zero. The formula is:
+
+where X and M are total exports and imports and Xk and Mk are sectoral exports and imports.
+
+Figure 7: Sectoral contributions to trade balance, 1787-89 and 1818-20
+
+Sources: AN F12 251, authors’ computations. Figure 3.7 shows a strong continuity in France’s comparative advantages. Except for the ‘drinks and tobacco’ sector (mostly wine), all surplus sectors were industrial, both before 1789 after 1815. The largest deficit sector was raw materials. This is consistent with the trading profile of an industrial

@@ -1,0 +1,25 @@
+
+
+## 寿限与生命表
+
+- **S41｜Bonneuil, Noël**（INED）, 1806–1906 法国及分省死亡表重建（配套 *Transformation of the French Demographic Landscape 1806–1906*, Clarendon, 1997）。数据 `https://table-mortalite-bonneuil.site.ined.fr/`；1806 法国行已存 `sources/ined_bonneuil_france_1806.txt`。本卡计算（l34≈551 内插；各年存活率；分年代死亡概率；中位 67.4 岁；e34≈31.3）方法与结果全部载于正文 §5.1，可复算。
+- **S44｜Duvillard de Durand, E.-E.**, *Analyse et tableaux de l'influence de la petite vérole sur la mortalité à chaque âge…*, Paris: Imprimerie Impériale, 1806。原刊定位：Bibliothèques spécialisées de Paris ark:/73873/pf0000202166；Wellcome Collection。**未亲读**；本卡不引其具体数值，仅登记其为当时官方精算标准（卡片指定项）。
+- **S45｜Univ. Lille 医学博士论文 2021LILUM496**（pepite-depot.univ-lille.fr）。摘录读取。本卡用：Charles Buonaparte 1785-02-24/25 蒙彼利埃死亡与尸检描述（幽门"冬梨"状硬化肿瘤；时人称"héréditaire"）；拿破仑在埃及向 Monge 问遗传一事（该论文注引，转引性质）。
+- **S46｜Berger et al.（国际消化病理组）**, "L'autopsie de Napoléon Bonaparte…", *Annales de Pathologie*, 2021（ScienceDirect）。摘录读取（检索返回大段正文）。本卡用：1821-05-06 尸检 17 人在场；两份 1821 原始报告均指向胃恶性肿瘤；死因判定"晚期胃恶性肿瘤+胃出血"；砷说被童年毛发数据削弱；体重减 11–14 kg；恶化始于 1820-10。
+- **S47｜Lugli, Alessandro et al.**, "Napoleon Bonaparte's gastric cancer: a clinicopathologic approach to staging, pathogenesis, and etiology", *Nature Clinical Practice Gastroenterology & Hepatology* 4 (2007) 52–57。摘要页摘录读取。本卡用：≥T3N1M0（IIIA）；瘤体 >10cm；"main risk factor might have been Helicobacter pylori infection rather than a familial predisposition"；Sokoloff 1938（*Am J Surg* 40:673–678）书目线索（未读）。
+- **S48｜médecine/sciences 23 (2007) 548–550 评论**（medecinesciences.org 全文页）。摘录读取。本卡用：五份尸检报告谱系；Antommarchi 1825 版系剽窃/伪造（Jeandel & Bastien 2006）；**Hillemand, P., *Pathologie de Napoléon*, Paris: La Palatine, 1970**（卡片指定项）经此文转引进入——Hillemand 读全部尸检文本、疑 1803 前旧结核；原书未读。
+
+## 复用与接口备忘
+
+- [C8] `c8_order_model.md`：1804 宪令（S2 处 Élysée 转录）、1813-02-05 摄政法（S3/S17 处转录与 Zacharie 交叉核实、版本警报、Bulletin des lois 第 474/490 号定位未亲验）、Malet 定性、Petiteau、大学令、Coffin、Quum memoranda、Caiani、玛丽-路易丝传记（Papot）。本卡直接沿用其锚点与警报，未重复采集。
+- [C14] `conscription_occupation_evidence.md`：Forrest 页码核查、1811 征兵建议案（Napoleon Series 转录）、JEH2023 定义、Grab 意大利页。
+- 本卡新增下载：`downloads/f5_senat_palais_luxembourg_empires.pdf`（doc 191158cc416f）。
+- 摘录读取类来源（S11、S14a、S25、S28、S30、S32、S33、S42、S45–S48、S51–S53）均标注如上；红队复核时若需整页捕获，URL 俱列，可一键补抓。
+
+## 已知口径冲突清单（诚实备案）
+
+1. Cadoudal 行刑日：6-25（S28）vs 6-28（S27 及 napoleon.org 图录页）。
+2. Lainé 报告表决：223:31/12-30（S20-AN）vs 223:51/12-29（S28 系年表）。
+3. 1805–07 三次 8 万令日期：S10 vs S15 相差数日（表决日/颁布日）。
+4. 1815 公投反对票：5,657（S14a 书评）vs 5,740（S14b Bloquet 引 Bluche p.37）vs "约 5,700"（S13）。
+5. 帝国征召总额：2,432,335（S10 表列）vs 约 220 万（S10 正文"1804–1813"）vs 1,140,000（S11，仅 1813 年五令）——口径（含 an XI–XIII 与 1814 与否）不同，正文已分别标注。

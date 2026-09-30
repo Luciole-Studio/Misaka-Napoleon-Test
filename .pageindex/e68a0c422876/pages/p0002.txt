@@ -1,0 +1,21 @@
+
+
+## 原始文书（经上述著作转印引用）
+- Wellesley 1798年备忘录（海得拉巴法国军团评估）：嵌入Malcolm, *The Political History of India*, vol.II Appendix；本地`downloads/IN1_malcolm_polhist_v2.txt`行17530–17690（IN1卡下载资产复用）。
+- Napoléon, *Correspondance*：X 8279（1805-01-16）；XV 12563（Gardane训令）；XVII 13746/13852/13872/13877/13915/13960/13981/14022/14025/14078（1808年4–6月印度洋系列）——经Sen引用卷号信号，未对校原卷影像。
+- Wellesley *Despatches*（Martin编）II pp.440–450、III pp.183/193–203、V pp.36–40——经Sen引用。
+- *Bengal Political Consultations* / *Bengal Secret and Separate Consultations*（1809-10-30 Canning训令含de la Houssaye事）——经Ramachandra（S12）引用。
+- Countess of Minto, *Lord Minto in India* pp.243/245——经Sen引用；本地另有`downloads/IN1_minto_in_india.txt`全文可复核（未逐页复核，标注）。
+
+## 网络与期刊件（已存盘）
+- **S11** 印度洋私掠与航路细节：Parkinson内Stewart被俘记（Jane, 1800-01-01）；Beaver配载表（Prior, *Voyage in the Indian Seas*转印）。
+- **S12** G.P. Ramachandra, "The Canning Mission to Burma of 1809/10," *Journal of Southeast Asian Studies* 10:1 (1979) pp.119–138。`downloads/pages/6a6576cb716b.md`（Cambridge Core摘要+全部脚注，fn.5/7/58/62已核）。
+- **S13** Hull University博士论文 *Anglo-Burmese Relations 1795–1826* 摘要（worktribe.com，检索所得，未读全文——仅用作接触节律框架，逐条与S12交叉）。
+- **S14** 锡克-法国军官：The Sikh Encyclopedia "Allard, Jean-François"条（转引J.-M. Lafont, *La Présence française dans le Royaume Sikh du Penjab, 1822–1849*, Paris 1992；C. Grey, *European Adventurers of Northern India*, 1970重印）；sikhiwiki "Army of Maharaja Ranjit Singh"；印度驻巴黎使馆Maharaja Ranjit Singh–Allard文件。三者同源Lafont/Grey，计一组。检索快照见对话；未存盘全文（条目短）。
+- **S15** 波斯湾：*Précis of Correspondence...Persian Gulf*（flipbuilder扫描页转录，Malcolm 1800使命叙述）；M. Abdullah, "The First Saudi Dynasty and Oman, 1795–1818," *PSAS*（archaeopress OA PDF，检索快照）。转录质量注意。
+- **S16**（复用）t_c17367全部S1–S17（芬肯施泰因全文、提尔西特秘密同盟、Caulaincourt训令、Gardane使团Iranica、1763/1814条约、Baird 1801远征等），见`nodes/r_b55f2c1cf5/cards/t_c17367/SOURCES.md`。本卡直接引用处标"t_c17367已核"。
+
+## 工具与转换记录
+- Anna's Archive下载（MD5校验全过）：Cooper de8266419722639ffebce82d9d9cc1c4；Parkinson 0de3451695bca956a375ab351f051a51；Gordon 61c29bc907132c576b580e9b556e0e80；Pemble 752a52b9d096d2ac1dd54a4141c152da；Alavi 7773f1f5e2c1059deaf7de7628f01c67。
+- archive.org直取：Sen（dli.csl.4927）、Malleson（finalfrenchstrug00mallrich）、Compton（particularaccoun00compiala）、Wilson v7（historybritishi07wilsgoog）。
+- pdftotext -layout转换；Cooper无文本层，经doc_add索引OCR（低保真警告已记，关键引文按含义使用并注明OCR件）。

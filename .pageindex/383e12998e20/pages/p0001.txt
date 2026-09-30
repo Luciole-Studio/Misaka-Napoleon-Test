@@ -1,0 +1,308 @@
+{
+  "status": "ok",
+  "detail": {
+    "hash": "81e6f0e346565119d0bb40f22e942cdb",
+    "url": "https://annas-archive.gl/md5/81e6f0e346565119d0bb40f22e942cdb",
+    "title": "Lettres inédites de Talleyrand à Napoléon, 1800-1809. Publiées d'après les originaux conservés aux Archives des affaires étrangères. Avec une introduction et des notes par Pierre Bertrand.",
+    "authors": "Talleyrand-Périgord, Charles Maurice de, prince de Bénévent, 1754-1838.",
+    "publisher": "Perrin et cie, 1889., France, 1889",
+    "description": "Talleyrand-Périgord, Charles Maurice de, prince de Bénévent, 1754-1838.\n\nPerrin et cie, 1889.\n\nFrance, 1889",
+    "download_links": [
+      {
+        "text": "Fast Partner Server #1 ⭐️",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/0"
+      },
+      {
+        "text": "(open in viewer)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/0?viewer=1"
+      },
+      {
+        "text": "(no redirect)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/0?no_redirect=1"
+      },
+      {
+        "text": "(short filename)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/0?short=1"
+      },
+      {
+        "text": "(ip)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/0?ip=1"
+      },
+      {
+        "text": "Fast Partner Server #2 ⭐️",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/1"
+      },
+      {
+        "text": "(open in viewer)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/1?viewer=1"
+      },
+      {
+        "text": "(no redirect)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/1?no_redirect=1"
+      },
+      {
+        "text": "(short filename)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/1?short=1"
+      },
+      {
+        "text": "(ip)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/1?ip=1"
+      },
+      {
+        "text": "Fast Partner Server #3 ⭐️",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/2"
+      },
+      {
+        "text": "(open in viewer)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/2?viewer=1"
+      },
+      {
+        "text": "(no redirect)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/2?no_redirect=1"
+      },
+      {
+        "text": "(short filename)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/2?short=1"
+      },
+      {
+        "text": "(ip)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/2?ip=1"
+      },
+      {
+        "text": "Fast Partner Server #4 ⭐️",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/3"
+      },
+      {
+        "text": "(open in viewer)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/3?viewer=1"
+      },
+      {
+        "text": "(no redirect)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/3?no_redirect=1"
+      },
+      {
+        "text": "(short filename)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/3?short=1"
+      },
+      {
+        "text": "(ip)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/3?ip=1"
+      },
+      {
+        "text": "Fast Partner Server #5 ⭐️",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/4"
+      },
+      {
+        "text": "(open in viewer)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/4?viewer=1"
+      },
+      {
+        "text": "(no redirect)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/4?no_redirect=1"
+      },
+      {
+        "text": "(short filename)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/4?short=1"
+      },
+      {
+        "text": "(ip)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/4?ip=1"
+      },
+      {
+        "text": "Fast Partner Server #6 ⭐️",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/5"
+      },
+      {
+        "text": "(open in viewer)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/5?viewer=1"
+      },
+      {
+        "text": "(no redirect)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/5?no_redirect=1"
+      },
+      {
+        "text": "(short filename)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/5?short=1"
+      },
+      {
+        "text": "(ip)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/5?ip=1"
+      },
+      {
+        "text": "Fast Partner Server #7",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/6"
+      },
+      {
+        "text": "(open in viewer)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/6?viewer=1"
+      },
+      {
+        "text": "(no redirect)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/6?no_redirect=1"
+      },
+      {
+        "text": "(short filename)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/6?short=1"
+      },
+      {
+        "text": "(ip)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/6?ip=1"
+      },
+      {
+        "text": "Fast Partner Server #8",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/7"
+      },
+      {
+        "text": "(open in viewer)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/7?viewer=1"
+      },
+      {
+        "text": "(no redirect)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/7?no_redirect=1"
+      },
+      {
+        "text": "(short filename)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/7?short=1"
+      },
+      {
+        "text": "(ip)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/7?ip=1"
+      },
+      {
+        "text": "Fast Partner Server #9",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/8"
+      },
+      {
+        "text": "(open in viewer)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/8?viewer=1"
+      },
+      {
+        "text": "(no redirect)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/8?no_redirect=1"
+      },
+      {
+        "text": "(short filename)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/8?short=1"
+      },
+      {
+        "text": "(ip)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/8?ip=1"
+      },
+      {
+        "text": "Fast Partner Server #10",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/9"
+      },
+      {
+        "text": "(open in viewer)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/9?viewer=1"
+      },
+      {
+        "text": "(no redirect)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/9?no_redirect=1"
+      },
+      {
+        "text": "(short filename)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/9?short=1"
+      },
+      {
+        "text": "(ip)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/9?ip=1"
+      },
+      {
+        "text": "Fast Partner Server #11",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/10"
+      },
+      {
+        "text": "(open in viewer)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/10?viewer=1"
+      },
+      {
+        "text": "(no redirect)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/10?no_redirect=1"
+      },
+      {
+        "text": "(short filename)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/10?short=1"
+      },
+      {
+        "text": "(ip)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/10?ip=1"
+      },
+      {
+        "text": "Fast Partner Server #12",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/11"
+      },
+      {
+        "text": "(open in viewer)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/11?viewer=1"
+      },
+      {
+        "text": "(no redirect)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/11?no_redirect=1"
+      },
+      {
+        "text": "(short filename)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/11?short=1"
+      },
+      {
+        "text": "(ip)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/11?ip=1"
+      },
+      {
+        "text": "Fast Partner Server #13",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/12"
+      },
+      {
+        "text": "(open in viewer)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/12?viewer=1"
+      },
+      {
+        "text": "(no redirect)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/12?no_redirect=1"
+      },
+      {
+        "text": "(short filename)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/12?short=1"
+      },
+      {
+        "text": "(ip)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/12?ip=1"
+      },
+      {
+        "text": "Fast Partner Server #14",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/13"
+      },
+      {
+        "text": "(open in viewer)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/13?viewer=1"
+      },
+      {
+        "text": "(no redirect)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/13?no_redirect=1"
+      },
+      {
+        "text": "(short filename)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/13?short=1"
+      },
+      {
+        "text": "(ip)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/13?ip=1"
+      },
+      {
+        "text": "Fast Partner Server #15",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/14"
+      },
+      {
+        "text": "(open in viewer)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/14?viewer=1"
+      },
+      {
+        "text": "(no redirect)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/14?no_redirect=1"
+      },
+      {
+        "text": "(short filename)",
+        "url": "https://annas-archive.gl/fast_download/81e6f0e346565119d0bb40f22e942cdb/0/14?short=1"
+      },
+      {
+        "text": "(ip)",

@@ -1,0 +1,23 @@
+Septeolber     *
+October        9327       289137
+November       9327       279810
+December       9327       289137
+January        1884       58404
+February       1884       52752
+March          188.+      58404
+
+Total Needed              1027644
+
+
+Delivery       No. Bags   No.lbs
+
+Shipment 1     5000       560000
+Shipment 2     500        56000
+Shipment 3     6600       739200
+
+Total Sent                1355200
+
+
+
+
+                                    284

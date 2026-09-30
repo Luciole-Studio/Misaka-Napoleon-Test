@@ -1,0 +1,42 @@
+---
+source_url: "https://www.nma.gov.au/defining-moments/resources/merino-sheep-introduced"
+final_url: "https://www.nma.gov.au/defining-moments/resources/merino-sheep-introduced"
+provider: "exa"
+text_sha256: "7d69074b6602351632e5f2ce2c956784d0addc02a4016a69c5b271902c7c6001"
+title: "Merino sheep introduced | National Museum of Australia"
+content_kind: "page_text"
+---
+
+Merino sheep introduced | National Museum of Australia -- -- -- (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(-- -- window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-18965158-1'); -- Skip to content
+
+Merino sheep --
+
+Merino sheep. Fir0002/Flagstaffotos via Wikimedia Commons"
+
+Merino sheep
+
+In 1797 the first merino sheep were landed in Australia. Unlike earlier breeds, this Spanish variety was much better suited to the Australian environment and was a formidable wool producer.
+
+The first Australian-produced fleece was sold in England in 1807 and by the late 19th century, wool had become Australia’s major export.
+
+Despite cycles of extreme growth and contraction in the industry, Australia still produced more than half the world’s merino wool in the first two decades of the 21st century.
+
+Governor John Hunter, 6 July 1797:
+
+> Each officer ha[d], on his own account, given up during the passage the comforts of his accommodation on board and filled them with such animals as their respective cabbins [sic] were capable of taking in. This, altho’ a private consideration, is nevertheless a public benefit to the colony, and is much to be commended.
+
+1797: Introduction of the merino sheep 2:53
+
+### Merino history
+
+Human domestication of wild animals began with the dog more than 12,000 years ago and sheep and other livestock followed soon after. Over millennia, various sheep breeds have been developed across the world in response to local conditions and selective breeding.
+
+As such, two separate varieties of the Spanish merino sheep emerged over hundreds of years. Settled merinos (estantes) had coarser wool in response to the harsher weather conditions they endured in winter, while the transient merinos (transhumantes) were moved to seasonal pastures throughout the year and so developed finer, softer wool.
+
+The Spanish monarchy owned one of the finest flocks of transient merinos in Spain and tightly controlled access to the breed. Exporting merinos was banned, on pain of death, prior to 1765.
+
+After this date, limited numbers of the renowned Escorial flock were sent to breeders in other countries and closely monitored. The royal family made gifts of their merino sheep to loyal subjects as rewards for valuable service and to seal diplomatic alliances.
+
+### Australia’s first sheep
+
+The first sheep in Australia arrived with the First Fleet in 1788. There were 29 fat-tailed sheep listed on the fleet’s manifest, collected from the Cape of Good Hope in South Africa. Intended as a source of meat, they were not well suited to the Australian environment and, like the Indian sheep that were later imported, did not produce good quality wool.

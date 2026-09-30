@@ -1,0 +1,67 @@
+Rural Change and Royal Finances in Spain
+
+
+
+
+                                                                                          ― 544 ―
+       sumed that they belonged to the same individual; if in distant towns, I did not. On the whole, the likely error is of treating the purchases
+       of one individual as if they were made by two or more, rather than vice versa.
+             I concluded that 2,552 individuals made purchases in Jaén (1.8 purchases per buyer) and 2,148 individuals in Salamanca (1.5
+       purchases per buyer). These include 67 "unnamed" individuals in Jaén and 233 in Salamanca, my solution for dealing with deeds which
+       read "so-and-so and two others," "so-and-so and his companions," and "various persons." In the case of unspecified plurals, I assumed
+       three buyers. In all cases of more than one buyer, I divided the amount spent equally among them, for lack of information on each
+       buyer's share. One must remember that the identity of the buyers and the amount they spent individually were of marginal interest in the
+       deeds, which were contracts between the king and former owners. The information essential to this study was frequently omitted or
+       entered hastily, for the copyists of the Madrid notaries produced fifty deeds per working day on the average, and in years of intense
+       activity many times more.
+            In order to proceed, I ranked the buyers in each province in ascending order according to the amount they spent. This procedure
+       produced Lorenz curves, with the cumulative percent of buyers plotted against the cumulative percent of the amount they spent. By their
+       nature, the curves rise slowly at first and sharply at the end. I then divided the purchasers ranked on the curves into four levels as
+       shown in Figure 15.1. In both provinces the small buyers in Level 1 are more numerous than the large buyers in Level 4, although the
+       amount spent by the latter totaled ten times that of the former, a clear indication of the disparity among the buyers.
+
+
+       2
+
+       Once one has accomplished this step, it becomes possible to compare the characteristics of the different levels of buyers and the patterns
+       they followed in making their purchases. Three features prove revealing: the type of property the buyers acquired, the terms of payment,
+       and the legal estate of the buyers. The months, years, and seasons in which the buyers made their payments were also compared, but
+       with no meaningful results. The decisive factor in determining when a buyer could make a purchase was the date that the royal
+       commissioner put the property up for sale. The data indicate that this decision was not related in
+
+
+                                                                                          ― 545 ―
+
+
+
+
+                                                                              Figure 15.1.
+                                                              Allocation of Buyers to Four Different Levels
+                                                            NOTE: Buyers are ranked in ascending order of
+                                                            the amount of each individual's total purchases:
+                                               Level 1 —buyers of the bottom 5 percent of total purchases (0–5.0 percent)
+                                              Level 2—buyers of the next 15 percent of total purchases (5.1–20.0 percent)
+                                             Level 3—buyers of the next 30 percent of total purchases (20.1–50.0 percent)
+                                              Level 4—buyers of the top 50 percent of total purchases (50.1–100 percent)
+              any regular pattern to the level of buyer to which the property would appeal.
+             Table 15.1 shows how each level of buyers of Jaén province divided the amount it spent among the different types of property and
+       the redemption of censos. By showing the share of their money that each level of buyers devoted to each type of property, this table
+       reveals their preferences, with arrows to identify the trends. The lower was the level of buyers, the more their money went into arable,
+       vineyards, orchards, and redemption of censos, and there was a strong but not complete trend in this direction for urban properties (Level
+       2 devoted a larger share than Level 1 to this type). On the other hand, the higher the level of buyers, the more they spent on olive
+       groves and rural estates.
+
+
+                                                                                           ― 546 ―
+
+
+                                    Table 15.1. Property and Buyers, Jaén Province
+
+
+
+                                                  Level of Buyers
+
+
+
+
+http://publishing.cdlib.org/ucpressebooks/view?docId=ft4d5nb394;chunk.id=0;doc.view=print[1/22/2011 11:30:51 AM]

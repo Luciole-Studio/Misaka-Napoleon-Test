@@ -1,0 +1,36 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the"
+final_url: "https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the"
+sha256: "1bb98a6252bec72d6d289f0dcf784fdc369bd1be49e785f563ae2124badda6c8"
+text_sha256: "f1ef301f050fe6e4a3a6187f01d18b9becd82c506f028a95d6011d90d4224baf"
+title: "PETITION FROM BIRMINGHAM AGAINST THE ORDERS IN COUNCIL. (Hansard, 17 April 1812)"
+---
+
+Title: PETITION FROM BIRMINGHAM AGAINST THE ORDERS IN COUNCIL. (Hansard, 17 April 1812)
+
+[Search Help](https://api.parliament.uk/historic-hansard/search)
+
+[HANSARD 1803–2005](https://api.parliament.uk/historic-hansard/index.html)
+→
+[1810s](https://api.parliament.uk/historic-hansard/sittings/1810s)
+→
+[1812](https://api.parliament.uk/historic-hansard/sittings/1812/)
+→
+[April 1812](https://api.parliament.uk/historic-hansard/sittings/1812/apr/)
+→
+[17 April 1812](https://api.parliament.uk/historic-hansard/sittings/1812/apr/17)
+
+→
+[Commons Sitting](https://api.parliament.uk/historic-hansard/sittings/1812/apr/17#commons)
+
+# PETITION FROM BIRMINGHAM AGAINST THE ORDERS IN COUNCIL.
+
+HC Deb 17 April 1812 vol 22 cc425-40 [425](https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the#column_425)
+
+[§](https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the#S1V0022P0_18120417_HOC_9) [Sir Charles Mordaunt](https://api.parliament.uk/historic-hansard/people/sir-charles-mordaunt-1)
+
+presented a Petition from several merchants, manufacturers, and other
+[426](https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the#column_426)
+inhabitants of the town of Birmingham, setting forth,
+
+"That the Petitioners most humbly represent to the House, that the industry and ingenuity of British manufacturers, aided by the spirit of our invaluable constitution, have produced those great mechanical improvements, and called forth that division of labour, which have given to the merchants of this country a pre-eminence in foreign markets, and have greatly contributed to support that naval superiority which has hitherto constituted the strength and security of the nation; and that not only the revenue, but the very existence of society in its present state in this country, depends upon the prosperity of its manufactures and commerce; and that they view with the deepest regret the present ruinous situation of the manufactures and commerce of the United Kingdom, and are decidedly of opinion that the Orders in Council, by closing their commercial intercourse with the United States of America, are a principal cause of the evils they deplore; and that they consider the system of licences as a virtual acknowledgment of the impolicy of the Orders in Council, giving relief to their inveterate enemy, affording a just cause of complaint to those whom they desire to consider their friends, degrading to the character of the British merchant, subversive of morality, and highly injurious to the navy of Great Britain, a system which, at the same time that it affords a partial and dear-bought assistance to the commerce of the metropolis, renders not the smallest relief to the distressed manufacturers of the United Kingdom; and that, when nearly all the channels of trade to the continent of Europe are closed, the commerce of the East, possessed by an exclusive monopoly, and the national expenditure unparalleled in the annals of the world, the Petitioners deem it incumbent upon them earnestly to recommend to the consideration of the House, the propriety of revoking those measure which the Petitioners conceive to have been originally contrary to the recognised laws of nations, inconsistent with the principles of sound policy, and which threaten to involve this kingdom in a war with its most valuable commercial connection, America, a country linked to England by the powerful affinities of common origin, similarity of language, laws and manners; and that, in the opinion of the Petitioners, the direct tendency of

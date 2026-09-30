@@ -1,0 +1,55 @@
+# C6 意大利、德意志与普奥：证据约束报告
+
+状态：本轮交付稿，附两份完整证据笔记；待红队审阅。已知缺口显式保留，不代表所有计划材料已取得。主报告与rhine_notes.md、prussia_austria_notes.md合为交付；R编号指莱茵附录，S编号指普奥附录。
+
+## 数据使用警报：C14/C17调用时禁用项
+
+- **禁止当作实员或可持续动员量使用**：法普20000人/60炮、法奥30000人/60炮、邦联初创德意志成员63000人，均为条约责任；只可按该口径引用。
+- **禁止输入数量模型，待原版校勘**：科尔贝格驻军400/4000冲突；运输车3600与20×90=1800冲突；Clark非官方转载12000与条约20000冲突。不得自行挑数或强行调和。
+- 数字来源与文本错误见普奥附录S4a、S4b、S6、S7和莱茵附录R1–R2。
+
+## 一、可成立的初步结论
+
+【裁量｜中置信度】法国胜利不能直接推出“罗马王统一中南意大利”。目前核读的法律更明确地支持王朝分冠、法国直接并合地区与附属王国并存。称号、继承资格、领土统治、民族统一是四种不同命题。
+
+【裁量｜中置信度】“保留若干大块政治单位”比“维持旧式无数小邦”更符合已见制度。意大利王国的整合与半岛分治可以同时发生，不构成逻辑矛盾。
+
+## 二、意大利制度编年及文本锚点
+
+### 1805年3月17日：兼冠与有条件分冠
+
+【事实】第一宪制法令第1条规定拿破仑为意大利王。第3条规定外国军队撤离那不勒斯、爱奥尼亚群岛、马耳他后，把王冠移交合法男性子嗣（亲生或收养）；第4条规定自该时起法意两冠不得集于同一人，继承人须常住意大利。
+
+法文：« Au moment où les armées étrangères auront évacué l'état de Naples, les îles Ioniennes et l'île de Malte… »；« A dater de cette époque, la couronne d'Italie ne pourra plus être réunie à la couronne de France sur la même tête… »
+
+来源：Duvergier、Dufau、Guadet编1823年法令集在线转录，https://fr.wikisource.org/wiki/Statut_constitutionnel_du_17_mars_1805 ，保存 downloads/pages/523d0f5541c4.md；意大利文现代重排PDF《Statuto costituzionale del Regno d’Italia (1805)》，文档0c6c074f6973，第5页，downloads/c6_1805_italian_statute.pdf。后者第4页出现“25 marzo”与17日成文日期的内部不一致，不能用于精确断定前置表决日期；第3–4条两语内容吻合。
+
+【文献解释】这是一项受国际安全条件约束的分冠承诺，不是无条件的即刻独立，也没有在这些条款中规定吞并整个半岛。第4条的时间限定不得在转述中删去。
+
+### 1806年2月16日：欧仁的条件继承
+
+【事实】第1条收养欧仁；第2条规定拿破仑之后且没有其合法亲生男性后代时，王冠传欧仁及其合法亲生男性直系后代；第3条再规定两系均绝嗣时的王朝亲属继承；第5条明确欧仁及其后代不得据此要求法国王冠。
+
+原文：« La couronne d'Italie sera après nous et à défaut de nos enfans, descendans mâles légitimes et naturels… »；« à élever aucune prétention à la couronne de France »。
+
+来源：同编法令集，1823，卷4，第329页在线转录：https://fr.wikisource.org/wiki/Statut_constitutionnel_du_16_février_1806 ，保存 downloads/pages/f9cd3d2a363a.md，正文已核读。
+
+【模型推演】保留欧仁为北意王朝支柱必须处理亲生男性继承人出生后的优先权，而非把副王职位误当无条件王位保证。
+
+【文献推断｜据上述法令】分期而言，1806收养时欧仁获得缺乏合法亲生男性后代条件下的继承位置；1811年皇子出生后，不能继续用无子期的条件把欧仁视为无条件继承者。1805分冠与1806收养证明法意两冠存在可分离的制度安排，不证明已确定把某一疆域交给某一个儿子。长子、次子及摄政分配不得跨期拼成既定计划。
+
+### 1806年3月30日：那不勒斯分冠
+
+【事实｜后出文献集所载同期法令】约瑟夫受封法令明确：« les couronnes, soit de France, soit d'Italie, soit de Naples et de Sicile, ne puissent jamais être réunies sur la même tête. » 来源：Panckoucke编《Œuvres de Napoléon Bonaparte》卷IV，1821，Gutenberg 13192，https://www.gutenberg.org/cache/epub/13192/pg13192-images.html ，保存 downloads/pages/649e54bf4408.md。此处指法律限制，不意味着拿破仑不能以后修法。
+
+### 1810年2月17日：罗马王的帝国定位
+
+【事实｜转引】元老院决议第7条：« Le prince impérial porte le titre et reçoit les honneurs de roi de Rome. » 目前经Welschinger《Le Roi de Rome》第一章转引核读，而非原刊对校。来源：http://www.mediterranee-antique.fr/Auteurs/Fichiers/WXYZ/Welschinger/R_Rome/R_R_01.htm ，downloads/pages/0b66242e946b.md（字符编码有损）。
+
+【事实｜目录】Archives d’Alsace-Colmar藏2J99，题为《Réunion des états de Rome à l’Empire français : extrait du Moniteur du 18 février 1810》，日期1810-02-18，印刷品。已读目录未读原件：https://archives68.alsace.eu/ark:/46858/flcz8gr4m2bp ，downloads/pages/f087a936c6fb.md。不得把馆藏题名冒充全文核验。
+
+【裁量｜高置信度】第7条字面是皇太子的头衔与礼遇，不是授予独立的意大利国家。
+
+### 1811年7月6日：法国对那不勒斯自主权的压制
+
+【事实｜同期信件现代转载】拿破仑致Clarke命Grenier不顾那不勒斯王反对集中法军，控制Gaète；宣布Grenier不再受那不勒斯王指挥：« qu’il n’est plus sous les ordres du roi de Naples »。信中又说法国人仍为法国人，并据大帝国法令为那不勒斯公民。

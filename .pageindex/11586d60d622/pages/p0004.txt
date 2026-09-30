@@ -1,0 +1,35 @@
+
+
+# ⑦ 社会结构与阶层
+
+【锚点·英方分类】Popham 1803 年密件把居民分为四类："the positive Spaniard, the Creolian Spaniard, the Mulattoes, and the Indians"，并断言 mulattoes 与克里奥尔紧密结合，克里奥尔是"the most dissatisfied race"，印第安人是政府的"natural enemy"（Castlereagh vol. VII 印 p.291）。
+【反证·同期】这套判断在三年后被实测推翻：1806 年米兰达在科罗登陆 400 人，当地指挥官 Salas 无兵，退入山区"reunió una fuerza igual á la de los espedicionarios, **compuesta la mayor parte de Indios**"，随即把米兰达逐出（Torrente 印 p.54）。
+【锚点·比例】布宜诺斯艾利斯"not less than 60,000 souls, **including nearly 10,000 blacks**"（Castlereagh vol. VII 印 p.423）→ 黑人约占六分之一。波帕扬 1781 年官方普查为"un 24 % de población indígena y un 17 % de esclavos"（Echeverri，《Abascal, Cádiz y el realismo popular en Popayán》，`downloads/SA_Echeverri_Popayan_realismo_popular.pdf` p.4 注 5，引 Herrera 2009／McFarlane 1997／Tovar 1994）。
+【锚点·保王军的族群底色】"Los ejércitos realistas se han compuesto **en gran parte de estas castas**, especialmente en Colombia i en el alto Perú"；Boves 的 12,000 人中欧洲人不足 200；三任秘鲁副王的 1.5–2 万人中半岛人"no entrando á veces por mil"（Torrente 印 p.52）。
+【锚点·奴隶的选择】波帕扬太平洋金矿区：矿主参与卡利的起义，而"**los esclavizados en las minas decidieron que, por el contrario, ellos estaban a favor de la monarquía**"；总督 Tacón 因此"autorizó la rebelión de los esclavizados en contra de sus amos a cambio de que las comunidades de esclavos se mantuvieran fieles a la corona"，形成 1810–1819 年间政府与太平洋沿岸非洲裔社区的联盟（Echeverri p.5）。
+【机制】**"择主"而非"反殖"**：castas、奴隶与印第安共同体的行为函数是「谁能提供针对本地白人主子的外部保护人＋人身自由＋军饷」。王权是现成的外部保护人（"el solo signo representativo del poder i de la fuerza de un brillante trono"，Torrente 印 p.52 附近）；克里奥尔独立派在 1810–1813 年**恰恰不能**提供这一点，因为他们本身就是主子。
+【推演·高】**任何外来势力（英或法）若不能出价高于"国王"，就买不到下层。** 英国的出价是贸易与"独立"，对商人与庄园主有效，对奴隶与印第安人无效（英军甚至以三分之一黑人西印度团组成远征军——Castlereagh 无日期备忘录，印 p.385——这在种植园社会里是**负资产**，因为白人精英会立刻想到圣多明各）。
+【推演·中高】**法国的出价在美洲带有海地污名。** 1802 年恢复奴隶制的法令与圣多明各战争（HT 卡）使"法国＝解放奴隶"与"法国＝恢复奴隶制"两种形象同时存在，任何一种在加拉加斯与卡塔赫纳都足以让白人精英拒绝法国。**这构成法国在南美的结构性合法性赤字，且与欧洲战局无关。**
+
+---
+
+# ⑧ 社会运动与抵抗传统
+
+【锚点】1797 年"Gual y España"阴谋（加拉加斯）：其主角 Manuel Gual 1799 年经特立尼达总督 Picton 向英方递交备忘录，并由米兰达转呈 Dundas；同卷收加拉加斯 Audiencia 1797-05-10 与 1797-08-12 关于夺回特立尼达的意见与呈文（Castlereagh vol. VII 目录，印 pp.273–284）。
+→ **英国—委内瑞拉共谋网络在 1797 年已存在，且由西属美洲一方主动。**
+【锚点】1806 年米兰达远征的社会效果：传单与画像由刽子手在加拉加斯主广场焚毁，被俘军官被迅速绞死（Torrente 印 p.54）；即"解放宣传"在当地被公开处刑化。
+【锚点】1809 年上秘鲁：查尔卡斯（＝Chuquisaca＝La Plata）5 月起义源于总督 García Pizarro 与 Audiencia、大主教与教会会议的四方争斗，加上对 Goyeneche 携卡洛塔·华金娜方案的怀疑；随后拉巴斯废黜当局并成立"Junta Tuitiva"，被镇压后"Saqueo horroroso de La Paz"（Torrente 章题与正文，印 pp.29–33）。
+【锚点】1809-08-10 基多成立洪塔并废黜总统；随后被阿巴斯卡尔组织的、由昆卡—瓜亚基尔—波帕扬三城出资出兵的联军围困（Torrente 印 pp.36–40；Echeverri p.4）。
+【机制】**抵抗的地理与财政基础**：起义在**矿区—高原—内陆**具有长期传统（图帕克·阿马鲁 1780–81、科穆内罗 1781），在**港口城市**则表现为商业与代表权诉求。前者可被"合法国王＋税收让步"收编，后者可被"开放贸易"收编。
+【推演·中高】**在 S1/S2 下，1809–10 的四起事件（查尔卡斯、拉巴斯、基多、蒙得维的亚洪塔）中至少三起不会发生或不会升级**，因为它们的共同触发器是"马德里合法性真空＋卡洛塔方案＋洪塔竞争"。**唯一在任何情景下都会发生的是上秘鲁的税收—矿业冲突**（它在 1780 年就发生过一次，与欧洲无关）。
+
+---
+
+# ⑨ 思潮、宗教、民族意识与舆论传播
+
+【锚点】舆论战是**双向且由王室出资**的：利马 1810 年 10 月创《Gaceta del Gobierno de Lima》，阿巴斯卡尔任内出 533 号，与《Gaceta de Buenos Aires》公开论战（Morán 等，*Historia Regional* 检索页文本，`https://historiaregional.org/ojs/index.php/historiaregional/article/download/721/1313`——**本卡仅读检索页文本，未取全文**）。同一文献给出秘鲁"爱国捐输"逐年额：1808 年 92,369 pesos 2 reales、1809 年 431,947、1810 年约 73,592、1811 年 262,888、1812 年 241,094、1813 年 177,075、1814 年 9,533、1815 年 9,742、1816 年 397；利马占 65.8%，阿雷基帕为地方之首（261,512 pesos 3 reales，占地方捐输 59%），瓜亚基尔第三（60,954 pesos 3 reales，13.7%）。
+【锚点】保王派的宣传开支可核：利马主财库"战费"科目 1806–1816 年逐年为 25,441／31,173／29,418／21,360／189,684／171,212／143,515／33,001／89,838／54,050／46,056 pesos（Morán–Yarango 表 1，`downloads/SA_Moran_Yarango_CajaLima_Abascal.pdf` p.7，源 AGN Perú, Real Hacienda H3）。
+【口径警告】该科目**不含军饷**：作者明写"los mayores gastos se centraran en los salarios de los militares… Adicionalmente, otro de los rubros que incrementaron fueron los gastos de guerra"（同 p.7）。故不可用此表推算保王战争总成本；它衡量的是**运输、被服、军械、医药与宣传**。
+【机制】**宗教是南美唯一的全境通讯网**：主教与堂区在 1806 年布城危机中出面调停（Velasquez 记主教出面销毁卡比尔多与利涅尔斯的往来文书，印 p.308）；在秘鲁，捐输名单由官报逐期刊布，把忠诚变成可公开交易的地位货币。
+【推演·中高】**法国在南美的意识形态位置是最不利的**：它同时被视为(1) 弑君与无神论的来源（Torrente 把叛乱者的读物归为"escritos de los jacobinos franceses"，行 5682 附近）、(2) 篡夺西班牙王位者、(3) 奴隶问题上的两面派。**因此法国即使军事胜利，也必须借西班牙王室之名行事；"法国名义"在美洲是负资产（高置信）。**
+【推演·中】反之，**英国的意识形态位置在 1808 年后急剧改善**：它从"异端敌人"变成"西班牙独立的恩人"。Moreno 1809 年的论证已经把亲英写成爱国："no puede ser hoy día buen español el que mire con pesar el comercio de la Gran Bretaña"（`06e7744d9118.md` 行 273 附近）。这是英国渗透的真正机制——**不是舰队，是同盟资格。**

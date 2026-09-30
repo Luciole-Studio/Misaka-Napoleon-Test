@@ -1,0 +1,43 @@
+J         Theoretical appendix
+This appendix develops a simple model of discriminatory conscription enforcement.
+Consider the problem of a rational ruler who must raise an army of size X from a
+population of size N , where X is so large as to make reliance on volunteers incom-
+patible with its fiscal constraints.12 A volunteer army being off-the-table, our ruler
+must rely on conscription. An army of size X requires a conscription rate x where
+x = X/N . The ruler’s subject population consists of identical agents distributed
+homogeneously across d regional departments. Thus, each department has the same
+population N/d. While identical in size and population, these departments may vary
+on a variety of margins. Our analysis focuses on variation in geographical and envi-
+ronmental characteristics and its effect on the ruler’s ability to enforce conscription
+a given conscription rate.
+    Equation (1) gives the ruler’s value function for a given rate of conscription.
+                                              i=d
+                                              X               1/a
+                                        V =         (bxi − ci xi )                     (1)
+                                              i=1
+
+where xi is the conscription rate in department i and i ∈ (1, 2, ..., d). Sine xi
+indicates a share of the department’s population, xi ∈ [0, 1]. The ruler’s total benefits
+are given by the sum of the benefits of conscription across all departments, where
+these are linear in the conscription rate. b measures the benefits to the ruler of
+increasing the rate of conscription across all departments and reflects the urgency of
+drafting more men due to an increase in the optimal army size. A threat of foreign
+invasion or newly discovered opportunities for territorial expansion both increase the
+value of b. Thus, b is strictly positive and—since we assume that individuals are
+identical regardless of where they come from—it does not vary across departments.
+    The ruler’s total cost is given by the sum of all department-level cost functions
+                1/a
+of the form ci xi , where a, ci ∈ (0, 1). a represents the reciprocal of the elasticity
+of the cost function with respect to the conscription rate. ci is a shift parameter
+that measures the effects (direct and indirect) of geographical and environmental
+factors on the ruler’s cost of administrating conscription in a given department. Since
+these characteristics vary across departments, so will ci . Underlying this discussion
+is the relationship between conscription, environmental characteristics, and draft-
+dodging. The higher the conscription rate, the more individuals will desert their
+legal obligation to serve in the national army. The costs of administrating a system
+of conscription will be linked to the subjects’ ability to evade their military obligation.
+    12
+         See the discussion in Ross (1994).
+
+
+                                                     55

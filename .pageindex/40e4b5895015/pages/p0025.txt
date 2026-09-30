@@ -1,0 +1,57 @@
+184   MICHAEL KOPSIDIS AND DANIEL W. BROMLEY
+
+
+
+Table 4 Fixed-effects two-stage model of German urbanization, 1850–1900
+
+xtivreg2 urbrate shareagemp_int shareindemp_int (coal msemp_int), fe cluster(id) endog(coal)
+Number of groups = 19
+Estimates efficient for homoskedasticity only
+Statistics robust to heteroskedasticity and clustering on id
+Number of clusters (id) = 19                                 number of observations      = 19
+                                                             F(3, 18)                    = 142.29
+                                                             Prob > F                    = 0.0000
+Total (centered) SS = 7,020.151991                           Centered R2                 = 0.9385
+Residual SS            = 432.0582                            Root MSE                    = 3.372
+urbrate              coeff             robust S.E.    z           P >|z|   95% Confidence interval
+coal                   5.28e–07        1.62e–07        3.26       0.001     2.10e–07      8.45e–07
+shareagemp_int       −0.9132819        0.0918192      −9.95       0.000    −1.093246    −0.7333216
+shareindemp_int        0.3804567       0.1555854       2.45       0.014     0.075515      0.6853985
+Underidentification test (K–P LM statistic)         6.342
+                                  Chi sq. (1) = 0.0118
+Weak identification test (Craig–Donald Wald F statistic):       153.468
+                                (K–P rk Wald F statistic):      629.643
+Hansen J statistic:                                             0.000
+Endogeneity test of endogenous regressors:                      0.025
+                                       Chi-sq (1) p value = 0.8749
+Instruments:             coal
+Included instruments: shareagemp_int shareindemp_int
+Excluded instruments: msemp_int
+Variables: shareagemp_int: interpolated values of share of agricultural employment
+           shareindemp_int: interpolated values of share of industrial employment
+           msemp_int:interpolated values of total employment in mining and smelting
+           coal: metric tons of coal extraction
+
+
+Table 5. Four models of urbanization, coal production (metric tons), and agricultural
+employment as a share of total employment (1850–1900)a
+
+                             Model                        Model
+
+Urbanization rate    (1)         (2)            (3)           (4)
+
+coalmined            0.686∗∗∗     0.206
+coal × ei                         0.666∗∗
+coal × sw                         0.706∗∗∗
+coal × nw                        −4.764
+agemp                                           −1.061∗∗∗     −0.897∗∗∗
+agemp × ei                                                    −0.618∗∗
+agemp × sw                                                     0.443∗∗
+agemp × nw                                                     0.236
+
+∗ , ∗∗ , ∗∗∗ indicates significance at the 10%, 5%, and 1% levels, respectively. All regressions include
+
+time and polity dummy variables. The regional group ee is the excluded dummy and the coefficients for
+coal and agemp standing alone are the coefficients for that excluded group (ee). For the four models see
+Table 5a–5d in the on-line Appendix.
+a See the on-line Appendix for detailed output tables for each of these models.

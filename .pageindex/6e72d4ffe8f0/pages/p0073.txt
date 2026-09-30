@@ -1,0 +1,410 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+Marshall Islands,MHL,1802,5828
+Marshall Islands,MHL,1803,5828
+Marshall Islands,MHL,1804,5828
+Marshall Islands,MHL,1805,5828
+Marshall Islands,MHL,1806,5828
+Marshall Islands,MHL,1807,5828
+Marshall Islands,MHL,1808,5828
+Marshall Islands,MHL,1809,5828
+Marshall Islands,MHL,1810,5828
+Marshall Islands,MHL,1811,5828
+Marshall Islands,MHL,1812,5828
+Marshall Islands,MHL,1813,5828
+Marshall Islands,MHL,1814,5828
+Marshall Islands,MHL,1815,5828
+Marshall Islands,MHL,1816,5828
+Marshall Islands,MHL,1817,5828
+Marshall Islands,MHL,1818,5828
+Marshall Islands,MHL,1819,5855
+Marshall Islands,MHL,1820,5910
+Marshall Islands,MHL,1821,5993
+Marshall Islands,MHL,1822,6105
+Marshall Islands,MHL,1823,6247
+Marshall Islands,MHL,1824,6392
+Marshall Islands,MHL,1825,6541
+Marshall Islands,MHL,1826,6693
+Marshall Islands,MHL,1827,6849
+Marshall Islands,MHL,1828,7008
+Marshall Islands,MHL,1829,7171
+Marshall Islands,MHL,1830,7338
+Marshall Islands,MHL,1831,7508
+Marshall Islands,MHL,1832,7683
+Marshall Islands,MHL,1833,7861
+Marshall Islands,MHL,1834,8044
+Marshall Islands,MHL,1835,8231
+Marshall Islands,MHL,1836,8422
+Marshall Islands,MHL,1837,8618
+Marshall Islands,MHL,1838,8818
+Marshall Islands,MHL,1839,9023
+Marshall Islands,MHL,1840,9233
+Marshall Islands,MHL,1841,9448
+Marshall Islands,MHL,1842,9667
+Marshall Islands,MHL,1843,9892
+Marshall Islands,MHL,1844,10122
+Marshall Islands,MHL,1845,10357
+Marshall Islands,MHL,1846,10598
+Marshall Islands,MHL,1847,10845
+Marshall Islands,MHL,1848,11097
+Marshall Islands,MHL,1849,11355
+Marshall Islands,MHL,1850,11618
+Marshall Islands,MHL,1851,11908
+Marshall Islands,MHL,1852,12204
+Marshall Islands,MHL,1853,12508
+Marshall Islands,MHL,1854,12819
+Marshall Islands,MHL,1855,13138
+Marshall Islands,MHL,1856,13464
+Marshall Islands,MHL,1857,13799
+Marshall Islands,MHL,1858,14143
+Marshall Islands,MHL,1859,14494
+Marshall Islands,MHL,1860,14855
+Marshall Islands,MHL,1861,15224
+Marshall Islands,MHL,1862,15602
+Marshall Islands,MHL,1863,15990
+Marshall Islands,MHL,1864,16388
+Marshall Islands,MHL,1865,16795
+Marshall Islands,MHL,1866,17212
+Marshall Islands,MHL,1867,17640
+Marshall Islands,MHL,1868,18078
+Marshall Islands,MHL,1869,18527
+Marshall Islands,MHL,1870,18987
+Marshall Islands,MHL,1871,19459
+Marshall Islands,MHL,1872,19942
+Marshall Islands,MHL,1873,20437
+Marshall Islands,MHL,1874,20945
+Marshall Islands,MHL,1875,21465
+Marshall Islands,MHL,1876,21998
+Marshall Islands,MHL,1877,22544
+Marshall Islands,MHL,1878,23103
+Marshall Islands,MHL,1879,23677
+Marshall Islands,MHL,1880,24264
+Marshall Islands,MHL,1881,24866
+Marshall Islands,MHL,1882,25483
+Marshall Islands,MHL,1883,26115
+Marshall Islands,MHL,1884,26763
+Marshall Islands,MHL,1885,27427
+Marshall Islands,MHL,1886,28107
+Marshall Islands,MHL,1887,28804
+Marshall Islands,MHL,1888,29518
+Marshall Islands,MHL,1889,30250
+Marshall Islands,MHL,1890,31000
+Marshall Islands,MHL,1891,31768
+Marshall Islands,MHL,1892,32556
+Marshall Islands,MHL,1893,33363
+Marshall Islands,MHL,1894,34189
+Marshall Islands,MHL,1895,35037
+Marshall Islands,MHL,1896,35905
+Marshall Islands,MHL,1897,36794
+Marshall Islands,MHL,1898,37706
+Marshall Islands,MHL,1899,38640
+Marshall Islands,MHL,1900,39597
+Marshall Islands,MHL,1901,40577
+Marshall Islands,MHL,1902,41582
+Marshall Islands,MHL,1903,42612
+Marshall Islands,MHL,1904,43667
+Marshall Islands,MHL,1905,44748
+Marshall Islands,MHL,1906,45855
+Marshall Islands,MHL,1907,46990
+Marshall Islands,MHL,1908,48153
+Marshall Islands,MHL,1909,49345
+Marshall Islands,MHL,1910,50566
+Marshall Islands,MHL,1911,51817
+Marshall Islands,MHL,1912,53099
+Marshall Islands,MHL,1913,54413
+Marshall Islands,MHL,1914,55759
+Marshall Islands,MHL,1915,57138
+Marshall Islands,MHL,1916,58551
+Marshall Islands,MHL,1917,59999
+Marshall Islands,MHL,1918,61394
+Marshall Islands,MHL,1919,62821
+Marshall Islands,MHL,1920,64282
+Marshall Islands,MHL,1921,65776
+Marshall Islands,MHL,1922,67305
+Marshall Islands,MHL,1923,68869
+Marshall Islands,MHL,1924,70470
+Marshall Islands,MHL,1925,72109
+Marshall Islands,MHL,1926,73785
+Marshall Islands,MHL,1927,75500
+Marshall Islands,MHL,1928,77255
+Marshall Islands,MHL,1929,77209
+Marshall Islands,MHL,1930,75486
+Marshall Islands,MHL,1931,72200
+Marshall Islands,MHL,1932,67453
+Marshall Islands,MHL,1933,61336
+Marshall Islands,MHL,1934,55773
+Marshall Islands,MHL,1935,50716
+Marshall Islands,MHL,1936,46116
+Marshall Islands,MHL,1937,41934
+Marshall Islands,MHL,1938,38131
+Marshall Islands,MHL,1939,34673
+Marshall Islands,MHL,1940,31529
+Marshall Islands,MHL,1941,28669
+Marshall Islands,MHL,1942,26070
+Marshall Islands,MHL,1943,23705
+Marshall Islands,MHL,1944,21556
+Marshall Islands,MHL,1945,19601
+Marshall Islands,MHL,1946,17823
+Marshall Islands,MHL,1947,16207
+Marshall Islands,MHL,1948,14737
+Marshall Islands,MHL,1949,13700
+Marshall Islands,MHL,1950,13019
+Marshall Islands,MHL,1951,13134
+Marshall Islands,MHL,1952,13240
+Marshall Islands,MHL,1953,13332
+Marshall Islands,MHL,1954,13413
+Marshall Islands,MHL,1955,13508
+Marshall Islands,MHL,1956,13594
+Marshall Islands,MHL,1957,13660
+Marshall Islands,MHL,1958,13826
+Marshall Islands,MHL,1959,14217
+Marshall Islands,MHL,1960,14728
+Marshall Islands,MHL,1961,15240
+Marshall Islands,MHL,1962,15782
+Marshall Islands,MHL,1963,16325
+Marshall Islands,MHL,1964,16881
+Marshall Islands,MHL,1965,17430
+Marshall Islands,MHL,1966,17947
+Marshall Islands,MHL,1967,18678
+Marshall Islands,MHL,1968,19889
+Marshall Islands,MHL,1969,21328
+Marshall Islands,MHL,1970,22552
+Marshall Islands,MHL,1971,23392
+Marshall Islands,MHL,1972,24015
+Marshall Islands,MHL,1973,24607
+Marshall Islands,MHL,1974,25318
+Marshall Islands,MHL,1975,26177
+Marshall Islands,MHL,1976,27040
+Marshall Islands,MHL,1977,27928
+Marshall Islands,MHL,1978,28831
+Marshall Islands,MHL,1979,29757
+Marshall Islands,MHL,1980,30793
+Marshall Islands,MHL,1981,32040
+Marshall Islands,MHL,1982,33418
+Marshall Islands,MHL,1983,34832
+Marshall Islands,MHL,1984,36282
+Marshall Islands,MHL,1985,37779
+Marshall Islands,MHL,1986,39307
+Marshall Islands,MHL,1987,40846
+Marshall Islands,MHL,1988,42338
+Marshall Islands,MHL,1989,43611
+Marshall Islands,MHL,1990,44648
+Marshall Islands,MHL,1991,45587
+Marshall Islands,MHL,1992,46406
+Marshall Islands,MHL,1993,47112
+Marshall Islands,MHL,1994,47731
+Marshall Islands,MHL,1995,48283
+Marshall Islands,MHL,1996,48795
+Marshall Islands,MHL,1997,49277
+Marshall Islands,MHL,1998,49732
+Marshall Islands,MHL,1999,50221
+Marshall Islands,MHL,2000,50721
+Marshall Islands,MHL,2001,51137
+Marshall Islands,MHL,2002,51441
+Marshall Islands,MHL,2003,51657
+Marshall Islands,MHL,2004,51803
+Marshall Islands,MHL,2005,51928
+Marshall Islands,MHL,2006,52011
+Marshall Islands,MHL,2007,52050
+Marshall Islands,MHL,2008,52049
+Marshall Islands,MHL,2009,52036
+Marshall Islands,MHL,2010,52064
+Marshall Islands,MHL,2011,51927
+Marshall Islands,MHL,2012,51438
+Marshall Islands,MHL,2013,50696
+Marshall Islands,MHL,2014,49815
+Marshall Islands,MHL,2015,48823
+Marshall Islands,MHL,2016,47730
+Marshall Islands,MHL,2017,46544
+Marshall Islands,MHL,2018,45307
+Marshall Islands,MHL,2019,44030
+Marshall Islands,MHL,2020,42728
+Marshall Islands,MHL,2021,41387
+Marshall Islands,MHL,2022,40094
+Marshall Islands,MHL,2023,38849
+Martinique,MTQ,-1000,1
+Martinique,MTQ,0,2
+Martinique,MTQ,100,5
+Martinique,MTQ,200,10
+Martinique,MTQ,300,21
+Martinique,MTQ,400,43
+Martinique,MTQ,500,87
+Martinique,MTQ,600,175
+Martinique,MTQ,700,350
+Martinique,MTQ,800,701
+Martinique,MTQ,900,1403
+Martinique,MTQ,1000,2807
+Martinique,MTQ,1100,5615
+Martinique,MTQ,1200,11230
+Martinique,MTQ,1300,22460
+Martinique,MTQ,1400,44920
+Martinique,MTQ,1500,89840
+Martinique,MTQ,1600,44920
+Martinique,MTQ,1700,22460
+Martinique,MTQ,1710,26203
+Martinique,MTQ,1720,30570
+Martinique,MTQ,1730,35665
+Martinique,MTQ,1740,41610
+Martinique,MTQ,1750,48545
+Martinique,MTQ,1760,56636
+Martinique,MTQ,1770,66075
+Martinique,MTQ,1780,77087
+Martinique,MTQ,1790,89935
+Martinique,MTQ,1800,104925
+Martinique,MTQ,1810,122412
+Martinique,MTQ,1820,126633
+Martinique,MTQ,1830,131000
+Martinique,MTQ,1840,135517
+Martinique,MTQ,1850,140190
+Martinique,MTQ,1860,145025
+Martinique,MTQ,1870,155384
+Martinique,MTQ,1880,166482
+Martinique,MTQ,1890,178374
+Martinique,MTQ,1900,191115
+Martinique,MTQ,1910,204766
+Martinique,MTQ,1920,208945
+Martinique,MTQ,1930,213209
+Martinique,MTQ,1940,217560
+Martinique,MTQ,1950,232081
+Martinique,MTQ,1951,237490
+Martinique,MTQ,1952,242836
+Martinique,MTQ,1953,248677
+Martinique,MTQ,1954,255157
+Martinique,MTQ,1955,261050
+Martinique,MTQ,1956,266246
+Martinique,MTQ,1957,271683
+Martinique,MTQ,1958,277233
+Martinique,MTQ,1959,282900
+Martinique,MTQ,1960,288779
+Martinique,MTQ,1961,294595
+Martinique,MTQ,1962,299759
+Martinique,MTQ,1963,304239
+Martinique,MTQ,1964,308464
+Martinique,MTQ,1965,312771
+Martinique,MTQ,1966,317080
+Martinique,MTQ,1967,320931
+Martinique,MTQ,1968,323537
+Martinique,MTQ,1969,324846
+Martinique,MTQ,1970,325528
+Martinique,MTQ,1971,325995
+Martinique,MTQ,1972,326344
+Martinique,MTQ,1973,326376
+Martinique,MTQ,1974,326382
+Martinique,MTQ,1975,327346
+Martinique,MTQ,1976,328974
+Martinique,MTQ,1977,330279
+Martinique,MTQ,1978,331165
+Martinique,MTQ,1979,331790
+Martinique,MTQ,1980,332290
+Martinique,MTQ,1981,332997
+Martinique,MTQ,1982,335051
+Martinique,MTQ,1983,338658
+Martinique,MTQ,1984,342827
+Martinique,MTQ,1985,347156
+Martinique,MTQ,1986,351578
+Martinique,MTQ,1987,356144
+Martinique,MTQ,1988,360801
+Martinique,MTQ,1989,365568
+Martinique,MTQ,1990,370999
+Martinique,MTQ,1991,377313
+Martinique,MTQ,1992,383938
+Martinique,MTQ,1993,390545
+Martinique,MTQ,1994,397073
+Martinique,MTQ,1995,403505
+Martinique,MTQ,1996,409833
+Martinique,MTQ,1997,416094
+Martinique,MTQ,1998,421815
+Martinique,MTQ,1999,423895
+Martinique,MTQ,2000,421388
+Martinique,MTQ,2001,417157
+Martinique,MTQ,2002,412479
+Martinique,MTQ,2003,408417
+Martinique,MTQ,2004,405104
+Martinique,MTQ,2005,401849
+Martinique,MTQ,2006,400459
+Martinique,MTQ,2007,400812
+Martinique,MTQ,2008,400699
+Martinique,MTQ,2009,399527
+Martinique,MTQ,2010,397389
+Martinique,MTQ,2011,394576
+Martinique,MTQ,2012,391741
+Martinique,MTQ,2013,389470
+Martinique,MTQ,2014,387027
+Martinique,MTQ,2015,383737
+Martinique,MTQ,2016,378892
+Martinique,MTQ,2017,371510
+Martinique,MTQ,2018,364100
+Martinique,MTQ,2019,359621
+Martinique,MTQ,2020,356625
+Martinique,MTQ,2021,353286
+Martinique,MTQ,2022,349462
+Martinique,MTQ,2023,346008
+Mauritania,MRT,-10000,2995
+Mauritania,MRT,-9000,3993
+Mauritania,MRT,-8000,5325
+Mauritania,MRT,-7000,7100
+Mauritania,MRT,-6000,9466
+Mauritania,MRT,-5000,12622
+Mauritania,MRT,-4000,16829
+Mauritania,MRT,-3000,22439
+Mauritania,MRT,-2000,29919
+Mauritania,MRT,-1000,39892
+Mauritania,MRT,0,53190
+Mauritania,MRT,100,60789
+Mauritania,MRT,200,69473
+Mauritania,MRT,300,79398
+Mauritania,MRT,400,90740
+Mauritania,MRT,500,103703
+Mauritania,MRT,600,118518
+Mauritania,MRT,700,135450
+Mauritania,MRT,800,154800
+Mauritania,MRT,900,163400
+Mauritania,MRT,1000,172000
+Mauritania,MRT,1100,184900
+Mauritania,MRT,1200,197800
+Mauritania,MRT,1300,220000
+Mauritania,MRT,1400,240000
+Mauritania,MRT,1500,258000
+Mauritania,MRT,1600,301000
+Mauritania,MRT,1700,344000
+Mauritania,MRT,1710,352995
+Mauritania,MRT,1720,355364
+Mauritania,MRT,1730,357853
+Mauritania,MRT,1740,360475
+Mauritania,MRT,1750,363243
+Mauritania,MRT,1760,366172
+Mauritania,MRT,1770,369282
+Mauritania,MRT,1780,372594
+Mauritania,MRT,1790,376134
+Mauritania,MRT,1800,382696
+Mauritania,MRT,1801,382696
+Mauritania,MRT,1802,382696
+Mauritania,MRT,1803,382696
+Mauritania,MRT,1804,382696
+Mauritania,MRT,1805,382696
+Mauritania,MRT,1806,382696
+Mauritania,MRT,1807,382696
+Mauritania,MRT,1808,382696
+Mauritania,MRT,1809,382696
+Mauritania,MRT,1810,382696
+Mauritania,MRT,1811,382696
+Mauritania,MRT,1812,382696
+Mauritania,MRT,1813,382696
+Mauritania,MRT,1814,382696
+Mauritania,MRT,1815,382696
+Mauritania,MRT,1816,382696
+Mauritania,MRT,1817,382696
+Mauritania,MRT,1818,382696
+Mauritania,MRT,1819,381978
+Mauritania,MRT,1820,380549
+Mauritania,MRT,1821,378416
+Mauritania,MRT,1822,375585
+Mauritania,MRT,1823,372062
+Mauritania,MRT,1824,368573
+Mauritania,MRT,1825,365116
+Mauritania,MRT,1826,361692
+Mauritania,MRT,1827,358300
+Mauritania,MRT,1828,354940
+Mauritania,MRT,1829,351611
+Mauritania,MRT,1830,348314
+Mauritania,MRT,1831,345047

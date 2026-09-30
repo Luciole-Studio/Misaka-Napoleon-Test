@@ -1,0 +1,116 @@
+---
+source_url: "https://www.gutenberg.org/files/31260/31260-h/31260-h.htm"
+final_url: "https://www.gutenberg.org/files/31260/31260-h/31260-h.htm"
+provider: "exa"
+text_sha256: "c6747007d133b76c16470b70081d3bc6363d02feab56247b8b926e513a063bf7"
+title: "The Project Gutenberg eBook of Napol\u00e9on et Alexandre Ier, par Albert Vandal"
+content_kind: "page_text"
+---
+
+The Project Gutenberg eBook of Napoléon et Alexandre Ier, par Albert Vandal
+
+```
+
+
+The Project Gutenberg EBook of Napoléon et Alexandre Ier (2/3), by 
+Albert Vandal (1853-1910)
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Napoléon et Alexandre Ier (2/3)
+       L'alliance russe sous le premier Empire
+
+Author: Albert Vandal (1853-1910)
+
+Release Date: February 12, 2010 [EBook #31260]
+
+Language: French
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK NAPOLÉON ET ALEXANDRE IER (2/3) ***
+
+
+
+
+Produced by Mireille Harmelin, Rénald Lévesque and the
+Online Distributed Proofreaders Europe at
+http://dp.rastko.net. This file was produced from images
+generously made available by the Bibliothèque nationale
+de France (BnF/Gallica)
+
+
+
+
+
+
+
+```
+
+## NAPOLÉON
+
+##### ET
+
+# ALEXANDRE Ier
+
+---
+
+#### TOME SECOND
+
+L'auteur et les éditeurs déclarent réserver leurs droits de reproduction et de traduction en France et dans tous les pays étrangers, y compris la Suède et la Norvège.
+
+Ce volume a été déposé au ministère de l'intérieur (section de la librairie) en décembre 1892.
+
+#### DU MÊME AUTEUR:
+
+Napoléon et Alexandre Ier. L'alliance russe sous le premier Empire. I. De Titsit à Erfurt. 3e édition. Un volume in-8° avec portraits. Prix 8 fr.
+
+Louis XV et Élisabeth de Russie. 2e édition. Un volume in-8°. Prix 8 fr. (Couronné par l'Académie française, prix Bordin.)
+
+Une Ambassade française en Orient sous Louis XV: La Mission du marquis de Villeneuve (1728-1741). Un volume in-8°. Prix 8 fr.
+
+PARIS.--TYPOGRAPHIE DE E. PLON, NOURRIT ET Cie, RUE GARANClÈRE, 8.
+
+# NAPOLÉON
+
+##### ET
+
+# ALEXANDRE Ier
+
+---
+
+### L'ALLIANCE RUSSE SOUS LE PREMIER EMPIRE
+
+---
+
+### II
+
+### 1809.--LE SECOND MARIAGE DE NAPOLÉON DÉCLIN DE L'ALLIANCE
+
+##### PAR
+
+## ALBERT VANDAL
+
+---
+
+Troisième Édition
+
+PARIS LIBRAIRIE PLON E. PLON, NOURRIT et Cie, IMPRIMEURS-ÉDITEURS RUE GARANCIÈRE, 10 __ 1894
+
+# NAPOLÉON
+
+##### ET
+
+# ALEXANDRE Ier
+
+---
+
+### CHAPITRE PREMIER
+
+#### LE LENDEMAIN D'ERFURT
+
+Intentions respectives de Napoléon et d'Alexandre au sortir d'Erfurt.--Offres de paix à l'Angleterre.--Napoléon veut soumettre l'Espagne par les armes et comprimer l'Autriche par la terreur.--Raisons qui lui font détester l'idée d'une nouvelle guerre et de nouvelles victoires en Allemagne.--Il craint notamment de réveiller la question polonaise, qui peut le brouiller avec la Russie.--Quelle est à ses yeux la grande utilité de l'alliance.--Instructions à Caulaincourt.--Projets ultérieurs: la Méditerranée et l'Orient.--Tendance d'Alexandre à s'isoler de l'Europe.--Son imagination se détourne de l'Orient.--Influence dominante de Spéranski.--Passion réformatrice.--Spéranski et l'alliance française.--Erreur persistante sur les dispositions de l'Autriche.--Souvenir reconnaissant pour Talleyrand; l'empereur Alexandre lui donne une famille.--Roumiantsof à Paris.--Campagne de Napoléon au delà des Pyrénées.--Résultats incomplets.--Retour à Valladolid.--Mouvements de l'Autriche.--Napoléon s'opiniâtre à l'idée de contenir et d'immobiliser l'Autriche par la main de la Russie.--Rapprochement historique.--Occupations d'Alexandre pendant la campagne d'Espagne.--Situation brillante de Caulaincourt.--Propos de salons.--Arrivée du roi et de la reine de Prusse; importance attribuée à leur voyage.--Napoléon torture la Prusse; protestation d'Alexandre.--Confiance de nos ennemis dans le pouvoir de la reine Louise.--Le ménage impérial.--Souhait de nouvel an adressé par Napoléon à Alexandre.--La reine Louise chez l'ambassadeur de France.--Le Roi détruit l'intérêt qu'inspire la Reine.--Réapparition et triomphe de la favorite.--La politique pendant le voyage.--Napoléon requiert le concours diplomatique d'Alexandre contre l'Autriche.--Le Tsar persiste dans un système de demi-mesures.--La note identique.--Lettre explicative à Roumiantsof.--Le prince de Schwartzenberg à Pétersbourg.--Alexandre encourage l'Autriche à la guerre en croyant l'en détourner.

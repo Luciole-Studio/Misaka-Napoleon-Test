@@ -1,0 +1,64 @@
+differences between the treatment groups of pre-treatment characteristics mattering for social capital and
+
+discuss alternative explanations.
+
+
+
+                                     3.1    Contemporaneous Data
+
+Measures for contemporaneous social capital levels in Germany are created by using survey data from the
+
+German Socio-Economic Panel (SOEP) (Wagner, Frick, and Schupp, 2007). The SOEP asked questions
+
+about personal attitudes in the years 2003 and 2008. I only make use of the 2003 wave, as it includes
+
+a richer set of control variables. The outcome variable I am primarily interested in is interpersonal
+
+trust. In the survey, respondents have to evaluate (“totally agree”, “slightly agree”, “disagree slightly”,
+
+“totally disagree”) the following three statements related to interpersonal trust: “On the whole one can
+
+trust people”, “Nowadays one cannot rely on anyone”, and “If one is dealing with strangers, it is better
+
+to be careful before one can trust them”. I recode the variables on a scale from 1 to 4, such that the
+
+highest value is assigned to the highest level of trust. The variable Trust is then computed as the average
+
+out of the individual scores for each question. To undertake robustness checks I also construct two
+
+additional variables measuring norms of cooperation. The SOEP asks respondents about the perceived
+
+behavior of others with respect to fairness: “Do you agree that most people... a) exploit you if they had
+
+the opportunity or b) would attempt to be fair towards you?”, as well as with respect to helpfulness:
+
+“Would you say that for most of the time, people... a) attempt to be helpful? b) or only act in their own
+
+interests?”. Out of those questions I construct two binary outcome variables, labeled Fair and Help, such
+
+that the value 1 indicates a higher level of perceived fairness, respectively willingness to help. As Guiso,
+
+Sapienza, and Zingales (2010) show for the WVS, answers from social value survey questions concerning
+
+trust reflect the beliefs of the sender about the trustworthiness of the receiver. This is perfectly relevant
+
+here in order to elicit the updating and persistence of beliefs following a exogenous legal change. As the
+
+treatment should only affect measures related to cooperative attitudes, I additionally construct a measure
+
+of the strength of family ties as a counterfactual. I use the frequency of family visits as a proxy for the
+
+importance of the family. Individuals with strong family ties are likely to visit their family members
+
+more often. The related question in the SOEP asks “Please indicate how often you take part in each
+
+activity: Visits to and from family members and relatives”. The variable is measured on a 5 point scale,
+
+where 1 indicates “daily”, 2 “at least once a week”, 3 “at least once a month”, 4 “seldom”, 5 “never”.
+
+That is a higher score of the variable Family indicates weaker family ties.
+
+The geographical level up to which individual observations can be located regionally is the county level.
+
+
+                                                     11

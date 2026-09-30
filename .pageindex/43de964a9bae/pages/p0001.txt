@@ -1,0 +1,58 @@
+---
+source_url: "https://www.persee.fr/doc/etudo_1241-3496_2000_num_10_1_1343"
+final_url: "https://www.persee.fr/doc/etudo_1241-3496_2000_num_10_1_1343"
+provider: "exa"
+text_sha256: "f49cb57a9b7e57348da2ceb981eb66fd4663c4f33306533d1cdebf755380ebaf"
+title: "La construction d\u2019un syst\u00e8me fiscal et administratif dans la R\u00e9volution et l\u2019Empire, 1789-1815 - Pers\u00e9e"
+content_kind: "page_text"
+---
+
+La construction d’un système fiscal et administratif dans la Révolution et l’Empire, 1789-1815 - Persée
+
+#### [article]
+
+ Jean Tulard 
+
+ Tulard Jean. La construction d’un système fiscal et administratif dans la Révolution et l’Empire, 1789-1815. In: Études & documents, n°10, 1998. 2000. pp. 245-251.
+
+ www.persee.fr/doc/etudo_1241-3496_2000_num_10_1_1343
+
+### Plan
+
+1. I. L’apparition de la contribution [link]
+2. II. Comment percevait-on ces contributions ? [link]
+3. III. L’importance politique de l’impôt [link]
+
+### Texte intégral
+
+ LA CONSTRUCTION D’UN SYSTÈME FISCAL ET ADMINISTRATIF DANS LA RÉVOLUTION ET L’EMPIRE
+
+ 1789-1815
+
+ par Jean Tulard1
+
+ Les années 1789-1815 marquent un profond changement dans notre concep¬ tion de l’administration fiscale.
+
+ I. Il n’y a plus d’impôts mais des contributions librement consenties et pesant sur tous les Français, sans privilèges. La Constituante se refuse à toute inqui¬ sition fiscale considérant que désormais chaque citoyen sera fier de «contri¬ buer » aux dépenses de la nation.
+
+ IL Les impôts directs nouveaux s’appellent :
+
+ -la contribution foncière, sur la terre, et qui représente les trois quarts des rentrées fiscales. Cette contribution reste modérée car on ne veut pas écraser les revenus fonciers au moment où l’on vend les biens nationaux. Elle est créée le 23 novembre 1790;
+
+ -la contribution mobilière, établie le 31 janvier 1791, qui se décompose en taxes diverses (loyer, domestiques, chevaux...);
+
+ -la patente sur le commerce, qui est mal accueillie car elle touche aussi un petit commerce rural à la marge de la véritable activité commerciale ;
+
+ -la contribution sur les portes et fenêtres ajoutée par le Directoire.
+
+ Les impôts indirects, un moment disparus, réapparaissent sous la forme des droits réunis vite impopulaires.
+
+ Ces contributions ont-elles été lourdes ? Sous la Révolution on les paie en assignats dévalués ; sous Napoléon, la dette publique ayant été réduite grâce à la banqueroute des deux tiers, et les dépenses de la guerre étant supportées par le Domaine extraordinaire formé par le butin des campagnes précédentes, la fiscalité resta modérée, au moins jusqu’en 1812.
+
+ III. Comment percevait-on les contributions ? On passe de la vénalité des charges sous l’Ancien Régime au système de l’élection à l’époque de la Ré¬ volution, puis le Consulat établit des fonctionnaires nommés avec dépôt d’un
+
+ Études et documents X -CHEFF -1998
+
+ Jean Tulard
+
+ cautionnement : receveurs particuliers et receveurs généraux. Dès lors le ren¬ dement s’améliore, d’autant que le 6 septembre 1801 sont établis des inspec¬ teurs généraux du Trésor (les futurs inspecteurs des finances) qui contrôlent les caisses. Enfin en 1807 est créée la Cour des comptes.

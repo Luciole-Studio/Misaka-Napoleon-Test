@@ -1,0 +1,66 @@
+# notes_czubaty.md — Czubaty 2018 亲读摘录（本轮扩展，超出上一轮已用范围）
+
+来源：Jarosław Czubaty, "Księstwo Warszawskie — pierwsze nowoczesne państwo polskie?", Kwartalnik Historyczny 125(2), 2018, pp.365–401. PDF `downloads/c18_czubaty2018.pdf`, doc c60ccb20b50e。PDF页=印刷页−364。本轮亲读PDF p1–34（印刷365–398）。
+
+## ① 决策结构与制度（印刷366–368）
+1. 宪法使华沙公国权力集中于萨克森王弗里德里希·奥古斯特："rząd jest w osobie króla"（政府在国王一人）；国王经中央集权行政行使全部行政权；对两院议会有决定优势——议会无立法倡议权、辩论受限；国王统军、任命法官、可用行政命令"补全"宪法。[p366]
+2. 地方自治机构角色缩减：sejmiki（贵族小议会）与新设乡镇会议（zgromadzenia gminne）只负责选举众议院议员/代表、治安法官候选人、省县市政咨议会成员；后者对行政仅有咨询-监督职能。[p367]
+3. 宪法第4条废除农民人身依附（poddaństwo）、引入法律面前平等；众议院有非贵族代表（教育/功绩/财产资格）；《拿破仑法典》为民法。[p367]
+4. Handelsman评价："urządzenie władzy silnej, prawie autorytarnej, prawdziwie monarchicznej z zachowaniem pozorów życia parlamentarnego"（强的、近乎威权的、真正君主制的权力安排，保留议会生活的表象）；Kallas："有限立宪君主制"。[p367]
+5. 制度混合三源：法国模式＋前瓜分波兰传统（两院、直选下院）＋普鲁士行政方案。[p368]
+6. 国王常驻萨克森→实际扩大了部长们的权力空间。[p376]
+
+## ⑨ 政治心态：精英为何接受集中权力（印刷372–376）
+7. 1807-07-28执政委员会总理事会公告（Łubieński/Szczurowski署）安抚舆论：自由独立、萨克森王朝复归、波兰语永久恢复、"Rodacy jedynie urzędy obsiądą"（唯同胞任官职）、各阶层平权、军队全建制保留。[p365–366]
+8. Staszic要求"króla z mocą jedynowładztwa...króla bohatera"（有独裁之力的英雄国王）；前雅各宾派/波兰共和主义者协会成员视拿破仑为强大保护人，波兰人可获革命之利而免"krwawej roboty, rewolucji"（Grochulska语：免流血革命之代价）。[p373]
+9. "duch fakcji"（派系精神）＋"nierząd"/"anarchia"是公共话语中对国家存亡的最大威胁——精英接受集权的心理根源是对前瓜分魔怖的记忆。[p373]
+10. 1811-01-19深化委员会报告（BPAU-PANKr rkp.139）："moc skoncentrowana...w koncentracji woli rządzącej, woli jednej i równej samemu prawu położona w osobie na najwyższym szczeblu dziedzicznie postawionej"（集中之力……置于世袭最高位者一人）。[p374–375, k.45v–46]
+11. 1811-12-14非正式议会会议通过致王呈文（越权）：国家因新法仓促引入、行政组织失误、滥用及税制设计不良陷于危机，"bezrząd"；但"Chcemy abyś jeden nami rządził"（我们要你一人统治我们）——既批评运转又拥护集权。[p375]
+12. 公国被视为临时方案、未来重建波兰王国的行动中心。[p376]
+
+## ②行政渗透的实际限度（印刷380–386）
+13. 深化委员会报告：官员数量"przechodzi więcej niż w trójnasób liczbę oficjalistów rządu austriackiego"（超过奥地利政府官员数三倍以上）；低薪使"moralnych i zdatnych"（有德有能者）却步，由低资质者填充；上层指令在下层执行时落在"niezdolne narzędzia"（无能的工具）上。[k.3,9–10,13v,16,23v,67; p384–385]
+14. Godlewski（反对派领袖、马里扬波尔议员）：行政约9,000人、雇用"几乎所有识字者"；"urzędowa anarchia"；文书量"令其创造者自己发疯"；1811-12-17议会演说。[p385]
+15. 众议院呈文："Wylęgła się już oligarchia...Powstała anarchia"（已孵出官僚寡头制……产生了无政府）；批评过快引入拿破仑法典（无官方波兰语术语译本、法院未准备好）。[p386]
+16. 深化委员会不否定法国模式本身："Deputacja doskonałości urządzeń francuskich nie uwłacza"，但主张按国情裁量："na domowe niedostatki...obejrzeć się zaniedbali"（忽视了本国的不足）——著名"衬衫比喻"：华服之下贴身穿着粗糙、肮脏、生虱的衬衣。[k.8,22,24–25; p387]
+17. 1814-05-19亚历山大一世设民政改革委员会：讨论恢复合议制、部分官员选举制、无薪职位——说明"高成本集中行政"的批评延续到会议王国设计。[p387]
+
+## ⑥⑦ 军队与社会流动（印刷382–383）
+18. 引入法国式普遍兵役制（equality原则），但保留众多豁免与传统"按烟户抽丁"（dymy）补充实践。军队采用法军组织原则大部；引入按功绩与能力晋升；正式废除羞辱性体罚。[p382]
+19. Hauke将军1809年对奥军波兰俘虏演说："Kij zaś sromotny i wzgarda były całą dla was od Austriaków nagrodą...Wszyscy między sobą bracia jesteśmy"（棍棒与轻蔑是奥地利人给你们的全部报酬……我们彼此皆兄弟）。[p382, 转引Tokarz]
+20. 军官职业化：1807–15波兰将官中市民出身2人（约3%）；会议王国与十一月起义将官中拿破仑军出身的市民将官17人（15%）。士兵代表参与Virtuti Militari授勋委员会与团经济委员会。[p382–383]
+21. 贵族晋升之路仍更平坦；клientelism残余限制非贵族晋升。[p382]
+
+## ⑦ 农民与犹太人（印刷384）
+22. 1807-12-21十二月敕令：将宪法条文向不利于农民方向具体化（农民得走，土地归主）。[p384]
+23. 1808-10-17敕令：中止犹太人公民权利10年。Czubaty注：普鲁士当时也未实施平权；当时"公民化"犹太人的支持者可把该敕令解释为加速同化的现代化工程之一部分。[p384]
+24. 1812年总联盟以sejmiki、乡镇会议、gminy、kahały（犹太社群）的加入声明为其合法性背书——把先前政治共同体之外的群体拉入认可程序。[p383, 转引Kubis; AGAD Arch. Zamoyskich rkp.85]
+
+## ⑨⑩ 现代国家职能（印刷378–381）
+25. 审查与宣传：扩展的出版审查＋强化"ducha narodowego"的宣传（拿破仑体系典型）；教育尤其初等中等发展获研究者肯定；法令刊布于官方《Dziennik Praw》与省公报（含卫生、农艺指导）——政府-公民沟通新形态。[p379]
+26. 1809年引入法国商法典：改善市民商人法律地位＋为贵族经商开路。刑法典草案因惧众议院反对1811年撤回，但讨论奠基1818年会议王国Kodeks Karzący。[p379–380]
+27. 大陆封锁对公国经济双面：强制土地所有权重组、农产加工发展、贸易转向中欧市场；军需承包商（liweranci）资本积累奠定数个工业金融家族基础。[p380, 引Grochulska 1967 pp.273–275; Kosim]
+28. 1807-12-19王令：首次在波兰土地上引入统一的、脱离等级涵义的公民概念。[p381]
+
+## 精英光谱与1812宪制之争（印刷389–392）
+29. 1812年Wilno：总联盟副元帅Stanisław Zamoyski向Maret主张复国后政体更多援引1791五三宪法；司法大臣Łubieński（十二月敕令推手、拿破仑方案热忱派）警告Breza：Zamoyski方案威胁恢复"przemocy arystokratycznej"（贵族强权）、废除"równości praw dla wszystkich mieszkańców"（全体居民平权）。[p389–390, 引Handelsman "Projekt zmiany konstytucji z r. 1812"]
+30. Łubieński1812年自己的王国宪法草案意见（Handelsman评）："Nie liberalne, lecz demokratyczne...przepojone duchem ześrodkowanego urzędniczego państwa...opierające się na zasadzie równości obywatelskiej wobec prawa i pociągnięcia szerszych mas narodowych do czynnego życia publicznego"（非自由主义而是民主的、集中官僚国家精神、公民平权、把更广民族大众拉入积极公共生活）。[p392]
+31. 深化委员会报告的另一面：回归部分前瓜分制度可省钱且强化"duch narodowy"，其寄托者是"szlacheccy posesjonaci"（有地贵族=民族精髓）——五三宪法怀旧。[p389]
+32. 史学评价：Lelewel——公国制度只保留"kolor stanów"（等级的颜色）；Leśnodorski"próg nowoczesności"；Kallas"现代波兰国家形成过程的组织阶段"；Jedlicki问：是等级社会适应了几乎无等级的法律，还是法律被社会改造。[p390–391]
+
+## 1811报告《Myśli względem wzrostu kraju》细目（印刷393–395）
+33. 人口激励：单身税、多子（≥6）家庭税收优惠。[k.242–244]
+34. 资本缺乏对策：产权法律状态整顿（地界勘定、抵押登记规则）、对外国工商业者税收优惠、基础设施（干道规划、桥梁、外国专家治河、设工程学校）；示范农场（良种畜、粮、菜、工具）兼农民教育点与销售点；关税政策与地方集市网。[k.245–249,252]
+35. 农民产权：国有地产中"ta część gruntów, która dla włościan jest przeznaczona, stała się ich własnością"（为农民指定的那部分土地应成为其财产）；望贵族效仿；设互助金库（kasa zapomogowa）降低地主划界成本、助农民购地；资金一部分国库、大部分来自巴约讷债务人（须先"坚决整肃"其还款纪律）。[k.249v–251; p394–395] 1808年国务委员会已讨论过国有地产农民授产。[引Grynwaser pp.38–40]
+36. "道德援助"：初等教育大纲（师资培养、学生奖励金）；教士、教师、地方当局、县议会以示范农场、通俗刊物、模范农户奖励制对抗"gnuśność i pijactwo"（懒惰酗酒）；教士遴选改革、神学院加世俗课程、削减修会；**报告主张禁止犹太人生产销售酒类**（延续前瓜分辩论）＋恢复普鲁士旧令允许豁免过高酒馆债务。[k.253–260; p395]
+37. 城市：建营房免除民宅供宿义务；未建成前取缔小修会占用其房舍；华沙起步的城市卫生、街道广场规划。[p395]
+
+## 总判（印刷397–398）
+38. Czubaty结论：公国应视为**第一个现代波兰国家，但为有限的现代性**——制度与机构层面明显，运转与社会政治实践层面被贵族政治心态之惯习（habits developed in the political mentality of the nobility）与社会文明现实所塑形和减速。[p397–398英文摘要]
+
+## 对本卡推演的直接价值
+- ①决策结构：君主集中制＋部长实权（王在德累斯顿）＋议会弱势——B3复国版若戴同一宪制，"谁统治华沙"关键在部长团与驻华沙法国大使（Handelsman《Rezydenci》方向）。
+- ⑤动员：普遍兵役制已立＋按户抽丁传统并存——动员上限的制度基础在1807–12已成型。
+- ⑦社会：农民法律自由但无地；贵族保留土地与实际政治份额；犹太人权利中止10年但kahały被拉入1812联盟背书。
+- ⑨思潮：精英拥护集中权力是**对前瓜分无政府的反动**，此心态资产在任何复国版本都可用；但"五三宪法派vs官僚平等派"的宪制分歧会在扩大版王国中放大。
+- 财政：官僚成本超载（3倍于奥地利占领期官员数）＋税制设计不良＋1811众议院直指"bezrząd"——B3复国版直接继承此行政-财政包袱。

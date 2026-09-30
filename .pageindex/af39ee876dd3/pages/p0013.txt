@@ -1,0 +1,45 @@
+Political Economy of Conscription in Napoleonic France 1069
+
+that geographic conditions forced on the French government’s efforts to
+eradicate draft evasion.25
+   Figure 2 shows the variation in draft dodging rates (top) and the log
+of ruggedness (bottom) across France’s departments between 1806 and
+1810. The black and red borders are for departments—the country’s main
+administrative units—and military divisions, respectively.
+   A military division was an administrative unit encompassing an
+average of five departments. Military divisions were created in 1793 to
+contribute to the administration of the draft (de Halle 1803). From year
+XI (1802/03) onward, police control was vested in the généraux de divi-
+sion (Forrest 1989, p. 221). Those generals were “charged with super-
+vising military service, gave the impetus to the sedentary troops, to the
+depots, to the garrison regiments,” and were “natural chiefs of the forces
+of the interior” (Capefigue 1842, pp. 37–38). Napoléon saw military divi-
+sions “as an important check, and sometimes counterbalance, to the civil
+authority of the prefects” (Woolf 2002, pp. 81–82).
+   To bolster our case about the relationship between geography and
+conscription, we also consider alternative variables that potentially influ-
+enced draft dodging and may bias our results if omitted. First, we create
+a measure of national identity following Johnson (2015), who draws on
+data from Hyslop (1934).26 Second, we measure the local popularity of
+revolutionary ideology using data from Tackett (1986) on the percentage
+of French clergy who swore an oath to the Constitution in 1790 (Online
+Appendix G.3). Third, we use Le Bris’ (2019) data on local legal systems
+across France to account for institutional differences between the north
+and the south of France before the revolution (Online Appendix G.4).
+Until the revolution, France did not have a national legal system. Rather,
+some regions (mostly in the north) were governed by customary law,
+while others (mostly in the south) had written legal codes. Finally, we
+account for the effect of the allocation of soldiers to different theaters of
+war on draft dodging (Online Appendix G.1). Fighting on different fronts
+may have entailed substantially different risks for soldiers, influencing
+the conscript’s decision to dodge the draft.
+   To further explore the relationship between ruggedness and draft
+evasion, we reproduce an econometric exercise with data from the
+   25
+      In a similar application, Carter, Shaver, and Wright (2019) find that terrain ruggedness has
+large direct and indirect effects on a state’s ability to enforce a monopoly of violence over its
+territory.
+   26
+      Hyslop created an index for national identity using the grievances from the local population
+compiled in preparation for the Estates Generals in 1789. Our national identity variable is
+described in detail in Online Appendix G.2.

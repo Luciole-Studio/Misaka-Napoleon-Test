@@ -1,0 +1,40 @@
+                        Table 5: Consol yields, standard deviations
+                                                  Peace   War
+                              Gold standard       0.25    0.46
+                                Suspension        0.42    0.48
+
+
+
+from peace to war did not cause a significant increase in the volatility of the yield series.
+This is indicative of the fact that the evolutions of consols during the suspension period
+were influenced by anticipated inflation rather then the default premium.
+
+
+These findings are further corroborated by the analysis of rolling standard deviations:
+increased volatility in consols commences and seizes with the onset and resumption of
+convertibility (see figure 10 in the appendix). In particular, mean yields remained high
+after the end of the war in 1815. The segmentation between war and peace does, there-
+fore, not well account for the differences in average yields.
+
+
+More broadly speaking, these pieces of evidence are in line with the straightforward
+assumption that default is going to happen by devaluation induced inflation or in an
+outright manner, but not both. When the monetary regime ties policy makers’ hands,
+default premia increase, as outright default is anticipated in the worst case scenario.
+When a fiat currency is in place, premia for expected inflation augment, since outstand-
+ing public debt can now be adjusted by soft default, i.e. inflation.
+
+
+The above falls short of a more rigorous analysis that also accounts for the evolutions
+on the marginal rate of capital. The stance adopted here is close to O’Brien (2006) and
+Heim and Mirowski (1987), in that I assume that the degree of crowding out was limited
+and could not have caused short-term evolutions as the ones observed in the monthly
+series used here. Given this constraint, my findings, along with the qualitative evidence
+presented, entail that it were inflation expectations that primarily affected yields on pub-
+lic debt over the period under consideration. It seems straightforward that this applied
+to the price level as well.
+
+
+
+
+                                             38

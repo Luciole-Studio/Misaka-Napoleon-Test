@@ -1,0 +1,226 @@
+## Sheet: B5_boe_cells.csv (continued)
+source_sheet,source_cell,cached_value
+A41. Trade by region 1784+,U149,137.3
+A41. Trade by region 1784+,V149,433.1
+A41. Trade by region 1784+,W149,369
+A41. Trade by region 1784+,X149,755.5
+A41. Trade by region 1784+,Y149,441.3
+A41. Trade by region 1784+,AA149,3692.1
+A41. Trade by region 1784+,AB149,3112.7000000000003
+A41. Trade by region 1784+,AC149,-169.4000000000001
+A41. Trade by region 1784+,AD149,-174.29999999999973
+A41. Trade by region 1784+,AF149,3861.5
+A41. Trade by region 1784+,AG149,3287
+A41. Trade by region 1784+,AH149,0.9561310371617247
+A41. Trade by region 1784+,AI149,0.9469729236385763
+A41. Trade by region 1784+,A150,1957
+A41. Trade by region 1784+,B150,491
+A41. Trade by region 1784+,C150,506.2
+A41. Trade by region 1784+,D150,397.8
+A41. Trade by region 1784+,E150,353
+A41. Trade by region 1784+,F150,118.5
+A41. Trade by region 1784+,G150,89.7
+A41. Trade by region 1784+,H150,99.9
+A41. Trade by region 1784+,I150,100.7
+A41. Trade by region 1784+,J150,1107.2
+A41. Trade by region 1784+,K150,1049.6000000000001
+A41. Trade by region 1784+,L150,248.4
+A41. Trade by region 1784+,M150,178.3
+A41. Trade by region 1784+,N150,372.8
+A41. Trade by region 1784+,O150,472.7
+A41. Trade by region 1784+,P150,394.9
+A41. Trade by region 1784+,Q150,465.3
+A41. Trade by region 1784+,R150,156
+A41. Trade by region 1784+,S150,91
+A41. Trade by region 1784+,T150,308.9
+A41. Trade by region 1784+,U150,169.2
+A41. Trade by region 1784+,V150,431.1
+A41. Trade by region 1784+,W150,378.1
+A41. Trade by region 1784+,X150,802.7
+A41. Trade by region 1784+,Y150,458.7
+A41. Trade by region 1784+,AA150,3822
+A41. Trade by region 1784+,AB150,3262.8999999999996
+A41. Trade by region 1784+,AC150,-317
+A41. Trade by region 1784+,AD150,-240.70000000000073
+A41. Trade by region 1784+,AF150,4139
+A41. Trade by region 1784+,AG150,3503.6000000000004
+A41. Trade by region 1784+,AH150,0.923411452041556
+A41. Trade by region 1784+,AI150,0.9312992350724967
+A47. Wages and prices,A1,Back to front page
+A47. Wages and prices,B1,A47. Wages and Prices 1209-2016
+A47. Wages and prices,Z1,Component wage and price series and alternative indices
+A47. Wages and prices,B3,Composite Average Weekly Earnings series
+A47. Wages and prices,D3,Consumer Price Index (CPI) -  preferred measure
+A47. Wages and prices,E3,CPI inflation
+A47. Wages and prices,F3,Consumer Price Index (CPI) - original method from version 1.0
+A47. Wages and prices,G3,RPI based index
+A47. Wages and prices,H3,CPI for Ireland
+A47. Wages and prices,I3,Spliced Wholesale/producer price index
+A47. Wages and prices,J3,Implied consumption deflator
+A47. Wages and prices,K3,Implied investment deflator
+A47. Wages and prices,L3,Implied government consumption deflator
+A47. Wages and prices,M3,Private and public consumption deflator
+A47. Wages and prices,N3,Implied domestic demand deflator
+A47. Wages and prices,O3,Implied GDP deflator at market prices
+A47. Wages and prices,P3,Implied GDP deflator at factor cost
+A47. Wages and prices,Q3,Implied GDP deflator at market prices
+A47. Wages and prices,R3,Implied GDP deflator at factor cost
+A47. Wages and prices,S3,Implied GDP deflator at factor cost
+A47. Wages and prices,T3,Implied Export Deflator
+A47. Wages and prices,U3,Implied Import deflator
+A47. Wages and prices,V3,$ Oil  price
+A47. Wages and prices,W3,US CPI
+A47. Wages and prices,X3,US GDP deflator
+A47. Wages and prices,Z3,"Daily wage rates of Clark (2009,2014)"
+A47. Wages and prices,AG3,Daily Wage rates from Allen (2013) downloaded from GPIH website http://gpih.ucdavis.edu/#
+A47. Wages and prices,AP3,Wage and earning indices 1750+
+A47. Wages and prices,BG3,Consumer Price indices
+A47. Wages and prices,CC3,Schumpeter Gilboy -Producer prices
+A47. Wages and prices,A4,Coverage
+A47. Wages and prices,B4,England/GB
+A47. Wages and prices,C4,UK pre-1922 definition (GB+I)
+A47. Wages and prices,D4,GB/UK(GB+NI)
+A47. Wages and prices,E4,GB/UK(GB+NI)
+A47. Wages and prices,F4,GB/UK(GB+NI)
+A47. Wages and prices,G4,GB/UK(GB+NI)
+A47. Wages and prices,H4,Ireland/ROI
+A47. Wages and prices,I4,GB/UK
+A47. Wages and prices,J4,UK
+A47. Wages and prices,K4,UK
+A47. Wages and prices,L4,UK
+A47. Wages and prices,M4,UK
+A47. Wages and prices,N4,UK
+A47. Wages and prices,O4,UK
+A47. Wages and prices,P4,UK
+A47. Wages and prices,Q4,UK
+A47. Wages and prices,R4,UK
+A47. Wages and prices,S4,UK
+A47. Wages and prices,T4,UK
+A47. Wages and prices,U4,UK
+A47. Wages and prices,Z4,England
+A47. Wages and prices,AA4,England
+A47. Wages and prices,AB4,England
+A47. Wages and prices,AC4,England
+A47. Wages and prices,AD4,England
+A47. Wages and prices,AE4,England
+A47. Wages and prices,AF4,England
+A47. Wages and prices,AG4,Southern England
+A47. Wages and prices,AH4,Southern England
+A47. Wages and prices,AI4,Southern England
+A47. Wages and prices,AJ4,London
+A47. Wages and prices,AK4,London
+A47. Wages and prices,AL4,London/Oxford
+A47. Wages and prices,AM4,London/Oxford
+A47. Wages and prices,AN4,Northern England
+A47. Wages and prices,AO4,Northern England
+A47. Wages and prices,AP4,GB
+A47. Wages and prices,AQ4,GB
+A47. Wages and prices,AR4,GB
+A47. Wages and prices,AS4,GB
+A47. Wages and prices,AT4,Ireland
+A47. Wages and prices,AU4,Ireland
+A47. Wages and prices,AV4,Ireland
+A47. Wages and prices,AW4,Ireland
+A47. Wages and prices,AX4,Ireland
+A47. Wages and prices,AY4,Ireland/GB
+A47. Wages and prices,AZ4,Ireland
+A47. Wages and prices,BA4,UK pre-1920
+A47. Wages and prices,BB4,UK pre-1920
+A47. Wages and prices,BC4,UK pre-1920
+A47. Wages and prices,BD4,UK
+A47. Wages and prices,BE4,GB
+A47. Wages and prices,BF4,GB
+A47. Wages and prices,BG4,England
+A47. Wages and prices,BI4,England
+A47. Wages and prices,BJ4,GB
+A47. Wages and prices,BK4,GB
+A47. Wages and prices,BL4,GB
+A47. Wages and prices,BM4,Ireland
+A47. Wages and prices,BN4,Ireland
+A47. Wages and prices,BO4,Ireland
+A47. Wages and prices,BP4,Ireland
+A47. Wages and prices,BQ4,Ireland
+A47. Wages and prices,BR4,Ireland
+A47. Wages and prices,BS4,Ireland
+A47. Wages and prices,BT4,Ireland
+A47. Wages and prices,BU4,Ireland
+A47. Wages and prices,BV4,S. Ireland
+A47. Wages and prices,BW4,UK/GB
+A47. Wages and prices,BX4,UK
+A47. Wages and prices,BY4,UK
+A47. Wages and prices,BZ4,UK
+A47. Wages and prices,CA4,"Composite Consumer Price index, 1750=100"
+A47. Wages and prices,CB4,CPI index 2015=100
+A47. Wages and prices,CC4,1697=100
+A47. Wages and prices,CD4,1701=100
+A47. Wages and prices,A5,Source
+A47. Wages and prices,B5,NB based on English daily wage rates prior to 1750.  See real earnings sheet for measures which adjust for days worked per week over this period.
+A47. Wages and prices,D5,"1661-1750, Schumpeter-Gilboy index from Mitchell(1988), 1750-1770 from Crafts and Mills (1991), 1770-1882, Feinstein (1998), 1882-1914 Feinstein (1991),1914-1949 from ONS (O'Donoghue et al (2004)), 1949-2014 CPI (ONS)"
+A47. Wages and prices,F5,"1661-1750, Schumpeter-Gilboy index from Mitchell(1988), 1750-1949 from ONS (O'Donoghue et al (2004)), 1949-2014 CPI (ONS)"
+A47. Wages and prices,G5,"Clark (2009) 1600-1750, ONS (O'Donoghue et al (2004)).  "
+A47. Wages and prices,I5,"Post 1791 data, annual average of the index in the monthly wages and price sheet."
+A47. Wages and prices,J5,See GDP(E) component sheets
+A47. Wages and prices,K5,See GDP(E) component sheets
+A47. Wages and prices,L5,See GDP(E) component sheets
+A47. Wages and prices,M5,See GDP(E) component sheets
+A47. Wages and prices,N5,See GDP(E) component sheets
+A47. Wages and prices,O5,See GDP(A) component sheets
+A47. Wages and prices,P5,See GDP(A) component sheets
+A47. Wages and prices,Q5,See GDP(A) component sheets
+A47. Wages and prices,R5,See GDP(A) component sheets
+A47. Wages and prices,S5,See GDP(A) component sheets
+A47. Wages and prices,T5,See Trade data sheet
+A47. Wages and prices,U5,See Trade data sheet
+A47. Wages and prices,V5,Source: BP Statistical Review of World Energy 2014
+A47. Wages and prices,W5,Williamson (2017a)
+A47. Wages and prices,X5,Williamson (2017b)
+A47. Wages and prices,Z5,"Farm wages in England, Clark (2009)"
+A47. Wages and prices,AA5,Coal miners' wages in England Clark (2014)
+A47. Wages and prices,AB5,Building craftsmen's wages in England Clark (2009)
+A47. Wages and prices,AC5,Building labourers' wages in England Clark (2009)
+A47. Wages and prices,AD5,Share in primary production
+A47. Wages and prices,AE5,Average wage based on the formula in Clark (2009) to benchmark to Levi's (1867) estimate of average adult male wage in 1866 of 45d 
+A47. Wages and prices,AF5,"Average male wage based on Clark (2015), interpolations in red"
+A47. Wages and prices,AG5,Building Craftsman
+A47. Wages and prices,AH5,Building Labourer
+A47. Wages and prices,AI5,Agricultural Labourer
+A47. Wages and prices,AJ5,Building Craftsman
+A47. Wages and prices,AK5,Building Labourer
+A47. Wages and prices,AL5,Building Craftsman
+A47. Wages and prices,AM5,Building Labourer
+A47. Wages and prices,AN5,Craftsman
+A47. Wages and prices,AO5,Labourer
+A47. Wages and prices,AP5,"Average Weekly Wage earnings: 1750-1880. Source: N. Crafts and T. Mills Trends in Real Wages in Britain, 1750-1913, Explorations in Economic History (1994), 31, pages 176-194"
+A47. Wages and prices,AQ5,"Average full-employment money earnings for Great Britain. Source: Feinstein (1998), Appendix Table 1 pages 652-3"
+A47. Wages and prices,AR5,"Average full-employment money earnings for Great Britain. Source: Feinstein (1998), Appendix Table 1 pages 652-3"
+A47. Wages and prices,AS5,"Average full-employment money earnings for Great Britain. Source: Feinstein (1990), Geary and Stark (2014)"
+A47. Wages and prices,AT5,"Agricultural regular earnings, Bowley (1899)"
+A47. Wages and prices,AU5,"Agricultural regular earnings adjusted for unemployment, Bowley (1899)"
+A47. Wages and prices,AV5,Geary and Stark (2004) Irish agricultural wages
+A47. Wages and prices,AW5,Geary and Stark (2004) Irish construction wages
+A47. Wages and prices,AX5,Simple average of Irish wage indices
+A47. Wages and prices,AY5,Relative Irish wages to GB wages
+A47. Wages and prices,AZ5,"Index of Irish Wages, Geary and Stark (2014)"
+A47. Wages and prices,BA5,"Average full-employment money earnings for UK. Source: Feinstein (1998), Appendix Table 1 pages 652-3,"
+A47. Wages and prices,BB5,"Average full-employment money earnings for UK. Source: Feinstein (1998), Appendix Table 1 pages 652-4"
+A47. Wages and prices,BC5,"Average Weekly Wage earnings: 1880-1913. Source: C. H. Feinstein New Estimates of Average Earnings in the United Kingdom, Economic History Review (1990), 43, pages 592-632"
+A47. Wages and prices,BD5,"Average Weekly Wage earnings: 1855-1965. Source: C.H. Feinstein, National Income Expenditure and Output of the United Kingdom 1855-1965 Table 65 pages T140 to T141"
+A47. Wages and prices,BE5,"Average Earnings Index, ONS: Series code LNMQ"
+A47. Wages and prices,BF5,"Average Weekly Wages, £ ONS: Series code KAB9"
+A47. Wages and prices,BG5,"Clark (2009,2014)"
+A47. Wages and prices,BH5,Allen (2013)
+A47. Wages and prices,BI5,"Source: Mitchell (1988), Page 719, 1701=100"
+A47. Wages and prices,BJ5,Source: Crafts and Mills (1994)
+A47. Wages and prices,BK5,"Cost of living index. Source: Feinstein (1998), Appendix Table 1 pages 652-3"
+A47. Wages and prices,BL5,"Allen (2007), Appendix 1"
+A47. Wages and prices,BM5,Urban cost of living Kennedy (2003)
+A47. Wages and prices,BN5,Rural cost of living Kennedy (2003)
+A47. Wages and prices,BO5,weighted average (0.3 urban and 0.7 rural based on Geary and Stark (2014)
+A47. Wages and prices,BP5,Geary and Stark (2004)
+A47. Wages and prices,BQ5,Brunt and Cannon (2014)
+A47. Wages and prices,BR5,Brunt and Cannon (2014)
+A47. Wages and prices,BS5,Brunt and Cannon (2014)
+A47. Wages and prices,BT5,Brunt and Cannon (2014)
+A47. Wages and prices,BU5,Brunt and Cannon (2014)
+A47. Wages and prices,BV5,CSO  of Ireland
+A47. Wages and prices,BW5,Source: Feinstein (1991)

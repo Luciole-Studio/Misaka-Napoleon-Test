@@ -1,0 +1,27 @@
+{
+  "doc_id": "2ad693d5ac13",
+  "title": "[t_bef693] downloads/pages/2ad693d5ac13.md",
+  "orig_path": "/Users/makiko/Documents/exam/downloads/pages/2ad693d5ac13.md",
+  "paths": [
+    "/Users/makiko/Documents/exam/downloads/pages/2ad693d5ac13.md",
+    "/Users/makiko/Documents/exam/nodes/r_b55f2c1cf5/cards/t_208a11/sources/pages/2ad693d5ac13.md"
+  ],
+  "sha256": "2ad693d5ac13c9d65f6046695de9b91e2c511c522d0a94dfd9842d4701ba3214",
+  "pages": 144,
+  "task_id": "t_bef693",
+  "task_ids": [
+    "t_bef693",
+    "t_208a11",
+    "t_d604cd",
+    "t_95ef51",
+    "t_9f10b6",
+    "t_cbaee3",
+    "t_3ee1b0",
+    "t_be9258",
+    "t_5b1d64",
+    "t_e0038f"
+  ],
+  "added_at": 1789886137,
+  "encoding": "utf-8",
+  "tree_attempted_version": 1
+}

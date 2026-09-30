@@ -1,0 +1,42 @@
+department.19
+    In contrast, the trade cost shock is relatively small for departments in the south. These
+departments were located further from Britain prior to the blockade, meaning that their
+effective distance to London was initially high. Moreover, given that trade routes in the
+south were disrupted to a smaller extent during the blockade, the general direction of trade
+for these regions did not change. While there was an increase in effective distance as a result
+of trade being diverted to land routes, this was much smaller than in the north. For example,
+for Pyrenees-Orientales (prefecture Perpignan), the pre-blockade distance was 548 land-based
+kilometers, while during the blockade it increased to only 689 land-based kilometers. During
+the blockade, the algorithm predicts that goods destined for this department were smuggled
+through Gibraltar and only made an overland journey from Barcelona.
+    To what extent does this measure accurately capture the increase in trading costs between
+Britain and a given department in France? One worry is that by excluding any form of
+direct smuggling between Britain and France, we are introducing systematic measurement
+error. While it is certainly true that some direct smuggling between Britain and France
+took place during the Napoleonic Wars, historians seem to agree that this was far riskier
+than indirect smuggling routes and this is also confirmed by British export data.20 The fact
+that third-country ports were used is indicative of the fact that either direct smuggling was
+quantitatively unimportant, or that the risks associated with it were sufficiently high that
+taking more circuitous routes was at least as profitable. In either case, this implies that this
+measure should do a relatively good job of capturing the change in trade costs.
+
+
+3.2     Short-run outcome variables
+I measure production capacity in mechanized cotton spinning both before (1803) and to-
+wards the end of the blockade (1812) using prefectural reports on mechanized cotton spin-
+ners. These data are available at the level of the firm for the pre-treatment period, and at
+the level of the department across both periods. In 1803, many firms only reported number
+of machines and not number of spindles. For these firms, I have imputed the missing ob-
+servations using a predictive mean matching model.21 In addition, I observe labor employed
+and the vintage of machine used. For the pre-treatment year, I also observe a rich set of
+  19
+     For departments closer to the east such as Seine-Maritime, the shortest route passed through Helgoland
+during the blockade, while for more western departments such as Finistere, the shortest routes passed through
+Gibraltar, in the south.
+  20
+     Appendix A.3.2.4 contains a more detailed discussion of this point.
+  21
+     More details on the imputation model and robustness to imputation can be found in Appendix A.3.2.1.
+
+
+                                                     18

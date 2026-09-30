@@ -1,0 +1,48 @@
+
+
+29 If latjk andlongjk are the average latitude and longitude of city-pair k jk WKHQZHGH¿QH remjk =
+
+[(lat l − at) ( + long − long) ] jk t jk
+
+2 2 +(l l ) 0.5 as city-pair jk’s remoteness, where lat and long are the sample averages across all latjk andlongjk, respectively. 30 Anderson and van Wincoop (2003) have shown in a gravity equation framework that such
+
+j j
+
+general equilibrium effects are picked up by so-called multilateral resistance terms, which perform the same function as our remoteness variable. In short, from their analysis one should expect Australia and New Zealand, for example, to trade moreZLWKHDFKRWKHUWKDQWZRVLPLODUO\VL]HG countries in the center of Europe that are equally far apart. This is because Australia and New Zealand are more remote from other potential trade partners than the two European countries. In our analysis of bilateral transactions costs, more trade corresponds to lower transactions costs, DQGWKHUHIRUHRXU¿QGLQJWKDWWUDQVDFWLRQVFRVWVWHQGWREHORZHUEHWZHHQUHODWLYHO\UHPRWHFLW\ pairs is in line with such general equilibrium effects.
+
+ÀRZ LQWR HLWKHU WKH 1RUWK 6HD RU WKH %DOWLF 6HD WKH DOWHUQDWLYH EHLQJ 
+WKDWWKH\ ÀRZ YLDWKHULYHU'DQXEH LQWRWKH%ODFN6HD ,QFOXGLQJWKLV 
+YDULDEOHUDLVHV LQDEVROXWHYDOXH WKHFRHI¿FLHQWRQUHODWLYHGLVWDQFHWR 
+FRDVW ZKLFK PD\ EH GXH WR WKH JHRJUDSKLF ÀDYRU RIWKH 6KLSSLQJ 16 
+variable. At the same time, it poses no risk for our instrumental variables 
+strategy. 
+Another channel that might have affected price gaps is international 
+trade. We know that the nineteenth century saw the arrival of large grain 
+shipments from the United States (O’Rourke and Williamson 1999). The 
+United Kingdom, in particular, went from importing 0.6 percent of its 
+wheat from the United States in the period 1841 to 1845 to 54.2 percent 
+from the United States during the years 1880–1884 (Dumke 1976, pp. 
+231–232). Also imports of industrial goods from England might have had 
+a substantial effect on price gaps. An increase in the integration of inter 
+national markets should primarily affect the coastal areas in Germany, 
+and in column 7 we include an indicator variable for city-pairs that are 
+relatively close to the coast. We estimate that city-pairs located near the 
+coast tended to have higher price gaps, and controlling for that strengthens 
+somewhat the rdistcoastFRHI¿FLHQW 
+,Q RWKHU DQDO\VLV ZH KDYH LQFOXGHG ODWLWXGH ORQJLWXGH FLW\ VL]H 
+in 1800, and the ratio of border to area as additional variables in the 
+UHGXFHG IRUPHTXDWLRQ 7KHVHYDULDEOHVZHUHQRWVWDWLVWLFDOO\VLJQL¿FDQW 
+providing additional support for the exclusion restriction of our instru 
+mental variables approach. Further, we have replaced the average char 
+acteristic of the city-pair with individual variables for the characteristics 
+of each city in the pair; 31 this turns out to lead to similar results. We have 
+also explored the reduced form regression where each variable is inter 
+DFWHGZLWKDWLPHWUHQG LQVWHDGRISHULRG ¿[HGHIIHFWV IRUH[DPSOH WKH 
+average share of Protestants in cities j and k times year). This more struc 
+tured approach, which assumes that the effect of Z changes monotoni 
+cally with time, leads to similar results as those of Table 2 for the relative 
+distance to the coast variable. 32 
+Overall, these results support the assumption that relative distance 
+WR WKH FRDVW H[HUWV LWV LQÀXHQFH RQ SULFH JDSV H[FOXVLYHO\ WKURXJK RXU 
+FXVWRPV OLEHUDOL]DWLRQ PHDVXUH DQG WKXV ZH SURFHHG ZLWK WKH LQVWUX 
+mental variables estimation. 

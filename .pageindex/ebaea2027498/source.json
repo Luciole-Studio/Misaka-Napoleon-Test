@@ -1,0 +1,20 @@
+{
+  "scope": "ARITHMETIC_AND_STRUCTURE_ONLY_NOT_HISTORICAL_VALIDATION",
+  "base_sha256": "f0432fdb1d85e43a325a45c710fb70a841676d53b53d5e046f58d6199aa18b91",
+  "build_script_sha256": "be44dc6f39a0b3c4bf68e5982cec6beb281338a2fbfc0865bf34ed13b27ed5a9",
+  "base_cases": 48,
+  "expanded_cases": 192,
+  "routes": 10,
+  "strength_sensitivities": 96,
+  "food_capacity_rows": 4,
+  "empty_required_cells": 0,
+  "delivery_gates_unvalidated": 96,
+  "new_observed_invasion_outcomes": 0,
+  "all_assertions_passed": true,
+  "outputs_sha256": {
+    "B4_transport_expanded_matrix.csv": "df8fae996c41d5c0d2bdcecaa146ab651cca4cc3980f46e17574361d109b646d",
+    "B4_march_time_ranges.csv": "0091b831e9ac173ca8e369a86ff3e06a40b76143ae73386e8445d49d703fe68a",
+    "B4_British_strength_sensitivity.csv": "fd38f8b8c63e225a94217826c014e2dd517f325f13791f3d7cd89cd7ea8e2838",
+    "B4_capacity_food_sensitivity.csv": "34c1d16ea5b4f1a03eaf7c01d28ac9fc50eb0be16db4fe4ae50dfefad93f5dfa"
+  }
+}

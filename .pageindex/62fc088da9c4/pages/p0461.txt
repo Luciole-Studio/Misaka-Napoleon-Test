@@ -1,0 +1,420 @@
+
+
+%RNG
+
+%LC
+
+%RNG
+
+%LC
+
+%RNG
+
+%LC
+
+%RNG
+
+%LC
+
+%RNG
+
+%LC
+
+%RNG
+
+%LC
+
+%RNG
+
+1808
+
+13.19 –
+
+99.57 –
+
+11.77+
+
+101.40+
+
+12.88+
+
+101.57 –
+
+14.37+
+
+100.19 –
+
+20.49+
+
+100.12+
+
+11.82 –
+
+100.81 –
+
+13.73 –
+
+100.98+
+
+1809
+
+11.70 –
+
+99.24 –
+
+11.12 –
+
+98.08 –
+
+9.28 –
+
+100.00 –
+
+7.17 –
+
+92.98 –
+
+20.03 –
+
+96.63 –
+
+9.98 –
+
+100.44 –
+
+13.40 –
+
+99.80 –
+
+1810
+
+12.65+
+
+98.26 –
+
+13.14+
+
+100.65+
+
+11.04+
+
+101.65+
+
+13.37+
+
+100.41+
+
+11.52 –
+
+97.11+
+
+15.08+
+
+101.68+
+
+15.97+
+
+100.78+
+
+1811
+
+13.74+
+
+100.11+
+
+11.80 –
+
+101.51+
+
+14.74+
+
+101.63 –
+
+17.83+
+
+99.79 –
+
+17.45+
+
+98.39+
+
+12.56 –
+
+100.78 –
+
+14.99 –
+
+101.06+
+
+1812
+
+14.86+
+
+98.12 –
+
+12.55+
+
+99.47 –
+
+14.98+
+
+100.40 –
+
+10.55 –
+
+96.18 –
+
+12.78 –
+
+95.09 –
+
+14.22+
+
+100.60 –
+
+12.47 –
+
+96.94 –
+
+1813
+
+13.59 –
+
+98.76+
+
+12.20 –
+
+99.68+
+
+13.16 –
+
+100.00 –
+
+14.03+
+
+100.32+
+
+16.78+
+
+97.88+
+
+14.54+
+
+99.40 –
+
+12.58+
+
+98.62+
+
+1814
+
+14.34+
+
+100.91+
+
+9.09 –
+
+100.96+
+
+8.95 –
+
+101.29+
+
+12.95 –
+
+101.60+
+
+13.87 –
+
+99.86+
+
+9.66 –
+
+100.52+
+
+13.01+
+
+101.40+
+
+Average
+
+13.44
+
+99.28
+
+11.67
+
+100.25
+
+12.15
+
+100.93
+
+12.90
+
+98.78
+
+16.13
+
+97.87
+
+12.55
+
+100.60
+
+13.74
+
+99.94
+
+Postwar
+
+Andalucía
+
+Castilla la Nueva
+
+Castilla la Vieja
+
+Cataluña
+
+Extremadura
+
+Basque Country
+
+Valencia
+
+Year
+
+%LC
+
+%RNG
+
+%LC
+
+%RNG
+
+%LC
+
+%RNG
+
+%LC
+
+%RNG
+
+%LC
+
+%RNG
+
+%LC
+
+%RNG
+
+%LC
+
+%RNG
+
+1815
+
+14.50+
+
+100.91=
+
+10.59+
+
+101.80+
+
+12.95+
+
+102.26+
+
+14.59+
+
+102.31+
+
+14.92+
+
+101.22+
+
+15.52+
+
+102.41+
+
+14.84+
+
+100.89 –
+
+1816
+
+14.42 –
+
+101.01 –
+
+11.02+
+
+101.87+
+
+11.04 –
+
+102.21 –
+
+13.41 –
+
+101.75 –
+
+14.14 –
+
+101.47+
+
+14.20 –
+
+102.01 –
+
+16.15+
+
+100.68 –
+
+Average
+
+14.46
+
+100.96
+
+10.81
+
+101.84
+
+12.00
+
+102.24
+
+14.00
+
+102.03
+
+14.53
+
+101.35
+
+14.86
+
+102.21
+
+15.50
+
+100.79
+
+Sources of Inquisition Tribunals’ figures:
+AHN: Consejo de la Suprema Inquisición, Cartas al Consejo.
+ANDALUCÍA: Sevilla, Córdoba & Granada: Legajos 2477–78, 2543, 2699, 3066, 3721–2–3, 3726–7, 3730–1
+BASQUE COUNTRY: Logroño: Legajos 2248, 3722, 3731, 3592, 4490
+CASTILLA LA MANCHA: Toledo: Legajos 24, 37, 39, 44, 46–7, 70–1, 78, 82–3, 86, 89, 91, 96, 99, 108, 116, 128, 200, 205, 210, 214, 217–8–9, 220–1, 227, 230, 3719, 3720, 3722–3–4, 3726, 3730
+CATALUÑA: Barcelona: Legajos 2177, 3721–22, 3731
+GALICIA: Santiago de Compostela: Legajos 2941, 2543, 3720, 3730
+MADRID: Legajos 2194, 2542–3, 3722, 3725, 3727, 3730, 3736, 4499
+MURCIA: Legajos 2879–80; 3720, 3722, 3731, 3735
+VALENCIA: Legajos 1795, 3723–4, 3727, 2730, 3732
+
+* %LC = Lent Conceptions as a percentage of annual conceptions.
+
+* %RNG = Relative Natural Growth, the year-on-year percentage population growth or decline.
+
+The forty-six days of Lent (from Ash Wednesday to Easter Saturday inclusive) often included some days of a month at the beginning or the end of the period (most usually in February or April) during which, in the absence of daily figures, it was impossible to calculate precisely the number of conceptions. The solution adopted was to multiply the average of backdated births for the month in question by the number of days covered by Lent; to the margin of error created by this method must be added another of greater significance. The recorded births ignore abortions, stillbirths and the newborn who died in the usual forty-eight hours before baptism, and thus understate reality.

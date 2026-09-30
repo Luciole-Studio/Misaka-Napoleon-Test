@@ -1,0 +1,16 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/commons/1848/apr/13/the-chartist-petition-messrs-oconnor-and"
+final_url: "https://api.parliament.uk/historic-hansard/commons/1848/apr/13/the-chartist-petition-messrs-oconnor-and"
+provider: "exa"
+text_sha256: "caf27a9b3b0a2f1c181ff709faf54d1c6c61d3cc7e4f9317ab8c230629cb893f"
+title: "THE CHARTIST PETITION\u2014MESSRS. O'CONNOR AND CRIPPS. (Hansard, 13 April 1848)"
+content_kind: "page_text"
+---
+
+THE CHARTIST PETITION—MESSRS. O'CONNOR AND CRIPPS. (Hansard, 13 April 1848)
+
+# THE CHARTIST PETITION—MESSRS. O'CONNOR AND CRIPPS.
+
+HC Deb 13 April 1848 vol 98 cc284-301 284
+
+§ MR. THORNELY brought up a special report from the Select Committee on Pub- 285 lic Petitions, which was read by the clerk at the table as follows:— The House, on the 26th of November last, directed your Committee, in all cases, to set forth the number of signatures to each petition; and also, having regard to the powers delegated to them, to report their opinion and observations thereupon to the House, and they have agreed to the following special report: That on the 10th of April last, a petition for universal suffrage, &., from the inhabitants of the British Isles, and subjects of the British Crown, was presented to the House. Your Committee strongly feel the value of the right of petition, and they consider that the exercise of it is one of the most important privileges of the subjects of this realm. They feel the necessity of preserving the exercise of such a privilege from abuse; and having also due regard to the importance of the very numerously signed petition forming the subject of the present report, they feel bound to represent to the House, that in the matter of signatures there has been, in their opinion, a gross abuse of the privilege. The hon. Member for Nottingham stated, on presenting the petition, that 5,706,000 names were attached to it; but, upon the most careful examination of the number of signatures in the Committee-room, and at which examination thirteen law-stationers' clerks were engaged upwards of seventeen hours, with the person ordinarily employed in counting the numbers appended to petitions, under the superintendence of the clerk of your Committee, the number of signatures has been ascertained to be 1,975,496. It is further evident to your Committee, that on numerous consecutive sheets the signatures are in one and the same handwriting. Your Committee also observed the names of distinguished individuals attached to the petition, who can scarcely be supposed to concur in its prayer: among which occurs the name of Her Majesty, as Victoria Rex, April 1st, F. M. Duke of Wellington, Sir Robert Peel, &. &. Your Committee have also observed, in derogation of the value of such petition, the insertion of numbers of names which are obviously fictitious, such as "No Cheese," "Pug Nose," "Flat Nose." There are others included, which your Committee do not hazard offending the House and the dignity and decency of their own proceedings by reporting. It may be added that there are other signatures appended obviously belonging to the name of no human being.

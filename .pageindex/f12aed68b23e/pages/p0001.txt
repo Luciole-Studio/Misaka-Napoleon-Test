@@ -1,0 +1,59 @@
+---
+source_url: "https://legacy-aws.slavevoyages.org/assessment/estimates"
+final_url: "https://legacy-aws.slavevoyages.org/assessment/estimates"
+sha256: "46e45bbddfc5969e45c33a5daca1ac43cc668522010e9309fafd4034fbccd59f"
+text_sha256: "07ee79963ff61066892a3a7fd1a3ee9e97fe3ee60426f81ff09d125a3b96aa26"
+title: "Estimates"
+---
+
+Title: Estimates
+
+- Trans-Atlantic
+
+[Understanding the Database](https://legacy-aws.slavevoyages.org/voyage/about) [Database](https://legacy-aws.slavevoyages.org/voyage/database) [Estimates](https://legacy-aws.slavevoyages.org/assessment/estimates) [Essays](https://legacy-aws.slavevoyages.org/voyage/essays) [Downloads](https://legacy-aws.slavevoyages.org/voyage/downloads)
+
+[Introductory Maps](https://legacy-aws.slavevoyages.org/voyage/maps) [3D Videos of Slaving Ships](https://legacy-aws.slavevoyages.org/voyage/ship) [Timeline and Chronology](https://legacy-aws.slavevoyages.org/assessment/estimates?selected_tab=timeline)
+
+[Edit Database](https://legacy-aws.slavevoyages.org/contribute/)
+
+- Intra-American
+
+[Understanding the Database](https://legacy-aws.slavevoyages.org/american/about) [Database](https://legacy-aws.slavevoyages.org/american/database) [Essays](https://legacy-aws.slavevoyages.org/american/essays) [Downloads](https://legacy-aws.slavevoyages.org/american/downloads)
+
+[Edit Database](https://legacy-aws.slavevoyages.org/contribute/)
+
+- People of the Atlantic Slave Trade PAST
+
+[Understanding the Enslaved Databases](https://legacy-aws.slavevoyages.org/resources/about) [Enslaved Databases](https://legacy-aws.slavevoyages.org/past/database) [African Origins](https://legacy-aws.slavevoyages.org/past/database/african-origins) [Oceans of Kinfolk](https://legacy-aws.slavevoyages.org/past/database/oceans-of-kinfolk) [Downloads](https://legacy-aws.slavevoyages.org/resources/downloads)
+
+[Edit Database](https://legacy-aws.slavevoyages.org/contribute/)
+
+- Resources
+
+[Image Galleries](https://legacy-aws.slavevoyages.org/resources/images/) [Lesson Plans](https://legacy-aws.slavevoyages.org/resources/lessons) [External Links](https://legacy-aws.slavevoyages.org/resources/links)
+
+- About
+
+[About](https://legacy-aws.slavevoyages.org/about/about) [News](https://legacy-aws.slavevoyages.org/blog/news/) [Provide User Feedback](https://docs.google.com/forms/d/e/1FAIpQLSc2xoG0_OpkW--hZUXAvwTB6ZuNYDze1MDre1c5gyH0MrS8Jw/viewform) Report Issues
+
+- Blog
+
+[All Posts](https://legacy-aws.slavevoyages.org/blog/) [Maps](https://legacy-aws.slavevoyages.org/blog/tag/intro-maps) [News](https://legacy-aws.slavevoyages.org/blog/tag/news) [Texas Bound](https://legacy-aws.slavevoyages.org/blog/tag/texas-bound) [Voyage Stories](https://legacy-aws.slavevoyages.org/blog/tag/voyage-stories)
+
+- EN
+
+English [Español](https://legacy-aws.slavevoyages.org/setlanguage/es) [Português](https://legacy-aws.slavevoyages.org/setlanguage/pt)
+
+Trans-Atlantic Slave Trade - Estimates
+
+Current Query
+
+View All
+
+Reset All
+
+Selected National Carriers
+
+all
+
+Selected Embarkation Regions

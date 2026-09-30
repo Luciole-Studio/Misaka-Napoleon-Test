@@ -1,0 +1,41 @@
+
+
+### C2｜Addington接受俄国调停
+- HC Deb 22 November 1803，vol.1，cc13–31，“King’s Speech”。
+- https://api.parliament.uk/historic-hansard/commons/1803/nov/22/kings-speech ；`downloads/pages/ac60ac018ef2.md`；本轮前段实读相关发言。
+- 引文：“that mediation was offered by the court of Russia, and accepted with readiness and gratitude”；但尚未“lead to any probability of an amicable arrangement with France”。
+- 发言区约cc21–25；未对校该句单栏，不伪装比整段更精确定位。
+
+### C3｜1803-05-18英国政府战争宣言
+- “King George’s Declaration on the Breakdown of the Peace, 18 May 1803”，Tom Holmberg转录，Napoleon Series。
+- https://www.napoleon-series.org/research/government/diplomatic/c_george2.html ；`downloads/pages/486fa35af2c9.md`；前尝试经提取读取相关段，非原始公报图像。
+- 短引：“to abstain from a recurrence to hostilities ... on the continent”；要求“substantial security ... against further encroachments”。
+- 用作政府公开理由而非真实动机的透明测量；英国也批评大陆侵夺、马耳他安全、新闻/流亡者问题。
+
+### N1｜1806和谈的公开检验
+- HL Deb 2 January 1807，vol.8，cc259–300，“Negociation with France”。
+- https://api.parliament.uk/historic-hansard/lords/1807/jan/02/negociation-with-france ；`downloads/pages/85d915a3148f.md`。
+- 本轮重启后实读cc285–300；cc264–266由旧C16/C13已核摘录授权复用。
+- 汉诺威：“an indispensable preliminary”；西西里：“it was not for us to traffic with Sicily ... without the consent of its sovereign”。c.297争论Yarmouth不得出示全权，除非西西里仍归那不勒斯王；c.299谈法方随情况改条件。
+- 抽取部分发言者标签缺失，未猜开场人名；正文明确是议会交锋/政府辩护，不把法方全盘归责写成客观裁决。
+
+### N5｜1806口头实际占有基础与正式文本缺口
+- HC Deb 30 December 1806, vol.8, cc241–250，“Negociation with France”；本次实际读cc247–250（捕获行22–36）。
+- https://api.parliament.uk/historic-hansard/commons/1806/dec/30/negociation-with-france ；`downloads/pages/6e996221a1d1.md`。旧C1 `nodes/r_b55f2c1cf5/cards/t_3dc3c2/peace_evidence.md`只是定位图，本卡随后核读上述原文段。
+- c.250 Yarmouth：“M. Talleyrand always gave him to understand, that the actual state of possession, subject to subsequent exchanges upon equivalents, was the basis of the negociation.”
+- c.248政府承认“there were certainly no papers that could be produced in which the uti possidetis was recognized formally by the French government”；同场反对者质疑口头理解。
+- 当时参与者公开证词，可证口头选项、不能证法方签字保证；不是拿破仑占伦敦后保王朝、议会、国债和全部舰队的整体方案。政府与使者同向辩护不算两份独立法方证据。
+
+### N2/H2｜Butterfield的联盟/私下通信解释
+- Herbert Butterfield, *The Peace Tactics of Napoleon 1806–1808*, CUP, 1929，pp.32–41，尤37–41。
+- `downloads/pages/83caafca03de.md`；旧读札记`nodes/r_b55f2c1cf5/cards/t_75e9a5/peace_evidence.md`，本轮按授权复用。
+- Lauderdale 26 Sept.1806私信：“I have given the negotiations as much as possible the appearance of going off on Russian objects”，**转引Butterfield**。
+- FO Russia 65/64、FO France 27/74、FO Prussia 64/73、Dropmore VIII为该作者档案链，本卡未亲阅。H2是解释组合，非第二独立史料。
+
+### N3–N4｜1812年4月17/23日要约与答复：已得后世转述，未得两信全本
+- Émile Marco de Saint-Hilaire, *Histoire de la campagne de Russie*（1849著作），Greg Gorsuch英译，Napoleon Series，Part14，ch.IV，PDF pp.4–5。
+- https://www.napoleon-series.org/wp-content/uploads/2022/07/History-of-the-Campaign-of-Russia-Part-14.pdf ；`downloads/B1_chambray1812_part14.pdf`，doc c2c708a552dc；SHA256 c2c708a552dc94a8266e9a0c9c80b07a580f7e6a42f88efce72af1aa280fa229。**本地临时文件名误含chambray，实际作者不是Chambray。**
+- 作者/译者入口已读：https://www.napoleon-series.org/military-information/battles-and-campaigns/histoire-de-la-campagne-de-russie/ ；`downloads/pages/18d0e5c351dd.md`。
+- p.5叙述：“If it was Joseph ... existing commitments did not allow this basis to be adopted”；若Ferdinand VII及其名义的Cortes则可讨论。是作者转述，不加引号冒充Castlereagh原句。脚注指附录两信，附录未获。
+- 独立编辑概述：Irène Delage，*Chronologie de la Correspondance générale…*, tome12，Fondation Napoléon，Sept.2012，17 avril条：保Joseph“不大为要恢复Ferdinand VII的英方接受”。https://www.napoleon.org/histoire-des-2-empires/chronologies/chronologie-de-la-correspondance-generale-de-napoleon-bonaparte-tome-12-la-campagne-de-russie-1812/ ；`downloads/pages/f8a4fd8bfe1b.md`，行82。
+- 两者对同一信件并非两份独立当时记录；作者回溯叙事与拿破仑内心发言不用作意图独证。N4是本卡证伪裁定，没有额外来源。

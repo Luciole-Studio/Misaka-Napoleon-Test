@@ -1,0 +1,26 @@
+
+
+Figure 5
+
+BREAK DATES IN THE AGIO, MONTHLY DATA, JANUARY 1795 TO MAY 1823
+
+Notes: Solid lines mark the beginning and end of the gold standard's suspension, February 1797 and May 1821, respectively. Dashed lines highlight the detected break dates; the shaded areas represent the 95 percent asymmetric confidence intervals.
+Sources: Author's calculations.
+
+Table 3
+
+BREAK DATES FOR THE AGIO, MONTHLY DATA–JANUARY 1795 TO MAY 1823
+
+## Sources:
+
+Author's calculations, data see text.
+
+January 1800: The winter of 1799 brought Napoleon to power as first Consul of France, a position granting him broad and unchecked authority. Given his military successes during the war of the First Coalition (1792–1797), his accession to power was thought to reestablish France's place in the concert of nations (Mignet Reference Mignet1826). When Britain declined Napoleon's offers to begin peace negotiations, announced in the London Times on 6 January 1800, the agio increased to 3 percent, which corresponded to a 3 percent depreciation of the pound in terms of gold. Market sentiment proved right in that the following months would prove unfavorable for Britain. The battles of Marengo (14 June 1800) and Hohenlinden (3 December 1800) sealed Austria's defeat, leaving the British as the only army opposing France.
+
+April 1802: The Treaty of Amiens ended hostilities between the French Republic and the United Kingdom and, thus, the war of the Second Coalition (1798–1802). At the same time, the Bank of England had signaled its readiness to resume convertibility on several occasions (Clapham Reference Clapham1944; Chadha and Newby Reference Chadha and Newby2013).Footnote 28 These events were favorable to Britain, and upon their announcement on 29 and 30 March in the London Gazette and the London Times respectively, the agio decreased to 3 percent.Footnote 29
+
+November 1808: The battle of Burgos (10 November, announced in the London Times on the 26th) resulted in the complete victory of the French over the Spanish, and opened central Spain to invasion. The battle preceded Madrid's capitulation on 4 December and the installation of Napoleon's brother Joseph as the King of Spain. In line with these events, the agio increased to 16 percent.
+
+February 1811: An outnumbered French force nearly destroyed the Spanish Army of Extremadura at the battle of Gebora (19 February). This victory allowed the French to seize the important fortress and well-supplied town of Badajoz, opening the route to Portugal. The siege of Badajoz and the city's strategic importance are first mentioned in the London Times by mid-February. The city's fall is announced in the London Times on the 12th of March, which is included in the confidence interval. On this occasion, the agio increased further to 28 percent.
+
+July 1815: The month of July witnessed decisive military events, sealing Napoleon's final defeat. Wellington and Louis XVIII entered Paris after the Battle of Issy, won on the 3rd of July.Footnote 30 On 15 July, Napoleon surrendered to the BritishFootnote 31 and was sent to the island of Saint Helena, where he died in May 1821. In line with these events, the agio decreased to 18 percent.

@@ -1,0 +1,66 @@
+   We also examine the average annual change in the urbanization rate between time periods. This
+
+is calculated as follows:
+
+                                                     City population shareit − City population shareit−n
+      Change in city population shareit =
+                                                                              n
+
+where as before n is 100, except when t = 1400; then n = 400.
+
+   Urbanization is an interesting outcome to examine, in and of itself, because it reveals whether
+
+the net effect of the positive shock to agriculture caused by the introduction of potatoes facilitated
+
+the movement of people to cities. However, urbanization can also be taken as a proxy for historic
+
+industrialization and income per capita.22 A number of studies have shown that, historically (and
+
+today), urbanization rates serve as a good proxy for per capita GDP (DeLong and Shleifer, 1993,
+
+Acemoglu, Johnson, and Robinson, 2002, 2005). In particular, Acemoglu et al. (2002) document the
+
+strength of the correlation between urbanization and per capita income.23
+
+   Accuracy is an obvious concern for historic data that spans such a long time horizon and broad
+
+cross section. McEvedy and Jones (1978), which is the standard source for historic population data
+
+at the country level, provide detailed discussions of the sources used to construct their population
+
+estimates. It is important to keep in mind that measurement error in our outcome variables will
+
+not bias our regression estimates as long as it is random. Systematic variation in the error either by
+
+time period or by country are addressed by country and year fixed effects. As a robustness check,
+
+we also estimate the effect of potatoes on city population growth. Since the historic populations
+
+for larger urban centers are generally thought to be more confidently known than for smaller
+
+rural towns, this provides an alternative estimate of population growth based on data that are
+
+potentially more accurate (Bairoch, 1988, pp. 524–525).24 Similar findings using the data at the
+
+country and city levels will give us confidence in the country-level data.
+
+   Our country-level sample consists of 132 Old World countries. With the exception of seven
+
+countries, each country is observed in each time period. Our city-level sample consists of 1,143 Old
+
+World cities (i.e., locations with over 20,000 people). The number of cities observed increases each
+  22 Because per capita income data are unavailable prior to 1500, and even in 1500 they are only available for 22 Old
+
+World countries, we are unable to examine the effect of the introduction of potatoes on income directly.
+  23 Using the most extensive historic income data available, which are from Maddison (2003), we have also examined
+
+the relationship between urbanization and income back to 1500. In a panel setting with either country fixed effects
+and/or year fixed effects, we find that the correlation between urbanization and income is extremely strong and highly
+significant.
+  24 The clear draw back of the city-level analysis relative to the country-level is that, although a country’s suitability for
+
+potatoes is clearly defined, the suitability of a ‘city’ is far from clear. For this reason, we use the country as our standard
+unit of analysis, and rely use the city-level estimates only as a robustness check.
+
+
+                                                              18

@@ -1,0 +1,66 @@
+significant way.
+
+   As a check of the sensibility of our potato suitability measure, we examine whether our measure
+
+is correlated with historic potato production. The earliest period for which data are available for a
+
+cross-section of countries is 1900. These data are from Mitchell (1998, 2003). We construct the natu-
+
+ral logarithm of tons of potato production per capita and examine its relationship with our potato
+
+suitability measure. The correlation between the two variables, measured by the standardized beta
+
+coefficient, is 0.42. This is statistically significant at the 1% level. The correlation is similar if we also
+
+include New World countries in the sample, or if we control for a measure of overall agriculture
+
+suitability (which we describe in detail below). The positive correlation between potato suitability
+
+and historic potato production provides added confidence in the validity of our measure.
+
+   In our analysis, we also control for the suitability of Old World staple crops and for New World
+
+staple crops. These measures are also constructed using data from the FAO’s GAEZ database. We
+
+define Old World staple crops to be wetland rice, dryland rice, and wheat; and New World crops
+
+to be grain maize, silage maize, sweet potatoes, and, of course, the potato. For both aggregate
+
+measures, we take the maximum of the shares of land that are suitable for growing each of the
+
+component crops.18 In other words, the measures are the fraction of land that can grow the most
+
+suitable Old World and New World staples, respectively.19
+
+   The FAO database also provides a composite measure of the suitability of an area for growing
+
+any agricultural crop for human consumption (i.e., not including crops for fodder). The measure,
+
+which captures the suitability of 154 crops, is much broader than our constructed measures of the
+
+suitability for cultivating Old World staple crops or New World staples. The measure of overall
+
+agricultural suitability also includes: other cereals, such as sorghum, millet, rye, and barley; other
+
+roots, such as cassava; pulses, like beans, chickpeas, and cowpeas; oil crops, such as the soybean,
+
+groundnuts, sunflower, palm oil; fiber crops, such as cotton; sugar crops, like sugarcane and sugar
+
+beets; and fruit crops, such as bananas and plantains. We include this measure as an additional
+
+control to capture a country’s overall agricultural productivity.20
+
+   In our analysis we also consider city-level measures of suitability. We construct the city-level
+   18 As with our potato suitability measure, here (and for all other measures) we define land to be suitable for cultivation
+
+if it is classified as either “very suitable”, “suitable”, or “moderately suitable”.
+   19 An alternative strategy is to measure the union of the land that was suitable for all the crops in each category. In
+
+other words, this measure is the fraction of land that can grow any Old World and New World crop. These alternative
+controls yields very similar estimates. Unsurprisingly, the two measures are highly correlated.
+   20 The raw correlations between a country’s potato suitability and its suitability for growing Old World staple crops,
+
+New World staple crops, and all crops are reported in Appendix Table A1.
+
+
+                                                             16

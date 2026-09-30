@@ -1,0 +1,83 @@
+---
+source_url: "https://www.cambridge.org/core/books/defending-british-india-against-napoleon/creating-a-buffer-zone/3899B503863F420D92C3E81F3D29EC95"
+final_url: "https://www.cambridge.org/core/books/abs/defending-british-india-against-napoleon/creating-a-buffer-zone/3899B503863F420D92C3E81F3D29EC95"
+sha256: "8d39811eb84aa3a32a1fbd03d7d5c765b25959155a02ab82122d018882c23ccc"
+text_sha256: "e6c02331baffebd7a51832dcbfd2e584259b359d7b35645bd2a6330535d97c71"
+title: "Creating a Buffer Zone (Chapter 3) - Defending British India against Napoleon"
+---
+
+Title: Creating a Buffer Zone (Chapter 3) - Defending British India against Napoleon
+
+Skip to main content [Accessibility help](https://www.cambridge.org/core/accessibility)
+
+## Login Alert
+
+Cancel
+
+[Log in](https://www.cambridge.org/core/login?ref=/core/books/abs/defending-british-india-against-napoleon/creating-a-buffer-zone/3899B503863F420D92C3E81F3D29EC95)
+
+×
+
+×
+
+Temporary Disruption
+
+We have implemented additional assurance measures to protect our systems.
+
+As a result, we have suspended some of our systems and services. We apologise for any temporary disruption some customers may experience.
+
+Discover Content
+
+Products and Services
+
+[Register](https://www.cambridge.org/core/register)
+
+[Log In](https://www.cambridge.org/core/login)
+
+Search
+
+- Browse
+
+- Services
+
+- Open research
+
+Institution Login
+
+Search
+
+Hostname: page-component-8678677fb7-92n84
+Total loading time: 0
+Render date: 2026-09-20T05:52:15.731Z
+Has data issue: false
+hasContentIssue false
+
+- [Home](https://www.cambridge.org/core)
+- >[Books](https://www.cambridge.org/core/publications/books)
+- >[Defending British India against Napoleon](https://www.cambridge.org/core/books/defending-british-india-against-napoleon/DBABCEBD5A71A21BA3250F49E77216A2)
+- >Creating a Buffer Zone
+
+[Defending British India against Napoleon](https://www.cambridge.org/core/books/defending-british-india-against-napoleon/DBABCEBD5A71A21BA3250F49E77216A2)
+
+The Foreign Policy of Governor-General Lord Minto, 1807-13
+
+Read book online
+
+## Book contents
+
+- [Frontmatter](https://www.cambridge.org/core/product/identifier/9781782048138%23PRE/type/BOOK_PART)
+- [Dedication](https://www.cambridge.org/core/product/identifier/9781782048138%23DED/type/BOOK_PART)
+- [Contents](https://www.cambridge.org/core/product/identifier/9781782048138%23TOC/type/BOOK_PART)
+- [List of Illustrations](https://www.cambridge.org/core/product/identifier/9781782048138%23LST/type/BOOK_PART)
+- [Preface](https://www.cambridge.org/core/product/identifier/9781782048138%23PRF/type/BOOK_PART)
+- [Abbreviations](https://www.cambridge.org/core/product/identifier/9781782048138%23LOA/type/BOOK_PART)
+- [Chapter 1 Setting the Stage](https://www.cambridge.org/core/product/identifier/9781782048138%23C1/type/BOOK_PART)
+- [Chapter 2 Positioning in Persia](https://www.cambridge.org/core/product/identifier/9781782048138%23C2/type/BOOK_PART)
+- [Chapter 3 Creating a Buffer Zone](https://www.cambridge.org/core/product/identifier/9781782048138%23C3/type/BOOK_PART)
+- [Chapter 4 Protecting Trade and Supply Lines](https://www.cambridge.org/core/product/identifier/9781782048138%23C4/type/BOOK_PART)
+- [Chapter 5 Pre-empting French Influence in Java](https://www.cambridge.org/core/product/identifier/9781782048138%23C5/type/BOOK_PART)
+- [Chapter 6 Legacy of Lord Minto](https://www.cambridge.org/core/product/identifier/9781782048138%23C6/type/BOOK_PART)
+- [Appendix Government of the East India Company](https://www.cambridge.org/core/product/identifier/9781782048138%23APX1/type/BOOK_PART)
+- [Bibliography](https://www.cambridge.org/core/product/identifier/9781782048138%23BIB/type/BOOK_PART)
+- [Index](https://www.cambridge.org/core/product/identifier/9781782048138%23IND/type/BOOK_PART)
+- [Worlds of the East India Company](https://www.cambridge.org/core/product/identifier/9781782048138%23MEM/type/BOOK_PART)

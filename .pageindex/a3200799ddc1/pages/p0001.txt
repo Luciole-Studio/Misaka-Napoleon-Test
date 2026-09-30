@@ -1,0 +1,51 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: baseline_sensitivity.csv
+
+```meta
+▸ table "baseline_sensitivity.csv" (36 data rows)
+▸ columns
+    baseline_year: num, min=1805, max=1807
+    year: num, min=1808, max=1811
+    Europe_proxy: str, 3 uniq: ['E_mixed', 'E_narrow', 'north_europe']
+    restAmerica_increment_GBPm: num, min=1.06, max=10.24
+    Europe_loss_GBPm: num, min=-6.83, max=8.82
+    raw_ratio_if_loss_positive: str, 21 uniq, first 20: ['0.1746', '0.4178', '0.4728', '0.5521', '0.8616', '0.9761', '1.0057', '1.0555', '1.0809', '1.7623', '1.9132', '16.9762', '2.0990', '2.2165', '2.3295', '3.0038', '3.0659', '3.8128', '4.3481', '5.2125']
+```
+baseline_year,year,Europe_proxy,restAmerica_increment_GBPm,Europe_loss_GBPm,raw_ratio_if_loss_positive
+1805,1808,north_europe,8.82,8.16,1.0809
+1805,1808,E_narrow,8.82,8.77,1.0057
+1805,1808,E_mixed,8.82,4.61,1.9132
+1805,1809,north_europe,10.24,4.62,2.2165
+1805,1809,E_narrow,10.24,3.34,3.0659
+1805,1809,E_mixed,10.24,-2.21,NA_no_loss
+1805,1810,north_europe,7.87,2.62,3.0038
+1805,1810,E_narrow,7.87,1.81,4.3481
+1805,1810,E_mixed,7.87,-1.99,NA_no_loss
+1805,1811,north_europe,4.17,8.82,0.4728
+1805,1811,E_narrow,4.17,4.84,0.8616
+1805,1811,E_mixed,4.17,0.80,5.2125
+1806,1808,north_europe,5.71,5.41,1.0555
+1806,1808,E_narrow,5.71,5.85,0.9761
+1806,1808,E_mixed,5.71,3.24,1.7623
+1806,1809,north_europe,7.13,1.87,3.8128
+1806,1809,E_narrow,7.13,0.42,16.9762
+1806,1809,E_mixed,7.13,-3.58,NA_no_loss
+1806,1810,north_europe,4.76,-0.13,NA_no_loss
+1806,1810,E_narrow,4.76,-1.11,NA_no_loss
+1806,1810,E_mixed,4.76,-3.36,NA_no_loss
+1806,1811,north_europe,1.06,6.07,0.1746
+1806,1811,E_narrow,1.06,1.92,0.5521
+1806,1811,E_mixed,1.06,-0.57,NA_no_loss
+1807,1808,north_europe,6.15,2.93,2.0990
+1807,1808,E_narrow,6.15,2.64,2.3295
+1807,1808,E_mixed,6.15,-0.01,NA_no_loss
+1807,1809,north_europe,7.57,-0.61,NA_no_loss
+1807,1809,E_narrow,7.57,-2.79,NA_no_loss
+1807,1809,E_mixed,7.57,-6.83,NA_no_loss
+1807,1810,north_europe,5.20,-2.61,NA_no_loss
+1807,1810,E_narrow,5.20,-4.32,NA_no_loss
+1807,1810,E_mixed,5.20,-6.61,NA_no_loss
+1807,1811,north_europe,1.50,3.59,0.4178
+1807,1811,E_narrow,1.50,-1.29,NA_no_loss
+1807,1811,E_mixed,1.50,-3.82,NA_no_loss

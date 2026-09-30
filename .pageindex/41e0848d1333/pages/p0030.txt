@@ -1,0 +1,62 @@
+county (or province) level by applying county level (or provincial level) fixed effects as two of the regres-
+
+sions use cross-sectional data, the overall picture points in one direction: Those Prussian counties that
+
+belonged to the province of Rhineland and that kept the Code Civil, have had both a higher share of peo-
+
+ple engaging in impersonal trade, factory work and craft, and at the same time more engagement in civic
+
+associations. Assuming that all counties started out with comparable characteristics before Napoleon
+
+imposed the Code Civil to those regions, the increase in institutional quality causally impacted trade and
+
+associational participation. Those effects give a rational for the observed differences in contemporaneous
+
+differences in trust.
+
+Lastly, one could ask if there is evidence that cooperation persisted. Putnam (1994) for example shows
+
+remarkable persistence of associational participation in Italy between 1900 and 1970 by using compa-
+
+rable measures of club membership. To elicit persistence of cooperation, I therefore regress individual
+
+responses for Trust on the employment shares, as well as per capita firemen and gymnast membership in
+
+19th century Prussia.
+
+                                              Table 14 about here
+
+Table 14 displays that only the employment shares can explain current trust significantly (see columns
+
+(1) -(6)). Both, firemen and membership do not show any significant association. One explanation for the
+
+latter might be that the share of people that were actually engaged in historical associations are relatively
+
+low and that historical and current indicators of social capital used are quite different. The positive
+
+association between current trust and past employment holds even when the entire set of individual
+
+controls is included in the regressions (see columns (7) - (12)). It seems that, consistent with my initial
+
+hypothesis, economic exchange played an important role for generating trust.
+
+
+
+                                          5     C ONCLUSION
+
+This paper provides evidence that impartial legal enforcement institutions can increase norms of trust
+
+and cooperation on the very local level. I explored variation in the quality of legal institutions generated
+
+by the historical experiment of the introduction of the Code Civil in 19th century Germany. Results
+
+obtained from the empirical analysis documented a strong complementarity between having applied the
+
+Code Civil and contemporaneous norms of cooperation in the German SOEP dataset. Identification from
+
+individuals living in closely located border regions, a falsification test consisting in moving the border, the
+
+
+
+
+                                                      28

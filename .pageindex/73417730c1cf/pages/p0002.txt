@@ -1,0 +1,56 @@
+
+
+## The Paris Financial Market in the 19th Century: Complementarities and Competition in Microstructures
+
+Pierre-Cyrille Hautcoeur a Angelo Riva b
+
+### 1. Introduction
+
+Financial markets are unique because the provision of liquidity is central to their economic role and hence their very existence 1. Speculation is essential to the provision of liquidity since only players targeting short-term gains from speculation and arbitrage conduct enough operations for these markets to be liquid. Nevertheless, speculation usually goes hand in hand with credit and leverage, which create booms and busts and hence the potential for defaulting and disruption in the flow of transactions. The main challenge in organizing stock exchanges is how to maximize liquidity while minimizing the related risks. This article shows how the 19 th century Paris financial center dealt with this issue. As such, it forms part of a recent body of literature that argues that financial markets’ microstructures (trading rules and market organization) are key to understanding their development 2.
+
+a Paris School of Economics, Ecole des Hautes Etudes en Sciences Sociales, 48 bd Jourdan, 75014 Paris, France; www.pse.ens.fr/hautcoeur. hautcoeur@pse.ens.fr b European Business School. 37-39, bd Murat, 75016 Paris, France; angeloriva@ebs-paris.com 1 Navin and Sears, ‘The Rise of a Market’; Levine and Zervos, ‘Stock Markets’. 2 See Biais, Glosten, and Spatt, ‘Market Microstructure’, and Madhavan, ‘Market Microstructure’ for recent reviews of the field.
+
+Historians have studied London and New York in detail, possibly because of their dominance 
+today. The London Stock Exchange is usually seen as the model example of an open 
+competitive market, and many have argued that this model explains, at least in part, the 
+success of London as a financial center 3. New York’s growth is harder to understand in this 
+context because the New York Stock Exchange was a private institution that restricted entry 
+and competed with other exchanges such as the Curb 4. 
+Less attention is paid to Paris 5 despite its being the leading financial market in continental 
+Europe throughout the 19 th century 6. In 1906, traded volumes on the official exchange soared 
+to triple French GDP, and volumes on the other exchanges stood at at least half as much 7. The 
+market capitalization of French shares listed on the official exchange represented about 50% 
+of GDP while that of French bonds represented 100% of GDP, and that of foreign securities 
+amounted to almost 150% more 8. As a financial center, Paris was stood head and shoulders 
+above Berlin despite a much larger German economy on the eve of World War One 9. This 
+financial development was not a recent phenomenon: the record volume on the forward 
+market had been reached in the 1881 bubble. 
+So it is puzzling that most studies address Paris from the point of view of the London market, 
+with which it is negatively compared because of its monopolistic organization 10. This then 
+raises the major question as to what that monopoly meant and what its consequences were. 
+The few existing histories of the Paris Stock Exchange 11 report that the official market, or 
+Parquet, organized by the Compagnie des Agents de Change (now CAC, the ‘guild’ of 
+3 See, for example, Davis and Neal, ‘The evolution of the structure’; Michie, ‘Different in Name Only?’; 
+idem, The London Stock Exchange; Neal, ‘The London Stock Exchange in the first age of globalization’; Cassis, 
+Les capitales du capital. 
+4 Mulherin, Netter, and Overdahl, ‘Prices are property’; Brown, Mulherin, and Weidenmeier, 
+‘Competing with the NYSE’; Davis, Neal, and White, ‘How it all began’; White, ‘Competition among the 
+Exchanges’. 
+5 Other countries have by and large been overlooked, at least in the English language literature. See, 
+however, Riva on the Italian markets, ‘Compétition entre places financières’; idem, ‘Les grandes Bourses 
+italiennes’; Baia Curioni, Regolazione e competizione; idem, Modernizzazione e mercato; on the Spanish 
+markets, Houpt and Rojo Cigales, ‘Regulation and microstructure’; Battilossi and Houpt, ‘Predicting institutional 
+collapse?’. 
+6 Recent quantitative assessments of the development of the Paris Stock Exchange include data on stock 
+issues (Hautcoeur, ‘Le marché boursier’; idem, ed., Le marché financier), stock indices (Arbulu, ‘Le marché 
+parisien des actions’; Le Bris and Hautcoeur, ‘A Challenge to Triumphant Optimist?’), bond indices (Vaslin, ‘Le 
+marché des rentes françaises’; Rezaee, ‘Creation and development of a market’), and traded volumes (Hautcoeur 
+and Riva, ‘The Paris financial market’). 
+7 Box B 64.877, Centre des Archives Economiques et Financières for 1906 data on traded volumes. The 
+comparison with the other markets is based on our calculations using 1906 data on taxes on traded volumes 
+published by the Ministry of Finance in the Bulletin de Statistique et Législation Comparées, 1907, various 
+issues. 
+8 Bozio, ‘La capitalisation boursière’, Appendix A; Moreau-Néret, Les valeurs mobilières, p. 296. 
+9 Rajan and Zingales, ‘The Great Reversals’. 
+10 Cassis, Les capitales du capital; Davis and Neal, ‘The evolution of the rules’; Davis, Neal, and White, 
+‘How it all began’; Michie, ‘Different in Name Only?’. 

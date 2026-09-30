@@ -1,0 +1,40 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/commons/1812/nov/30/the-prince-regents-speech-on-opening-the"
+final_url: "https://api.parliament.uk/historic-hansard/commons/1812/nov/30/the-prince-regents-speech-on-opening-the"
+sha256: "a4e7bf9446d29471ef57157d7aa556c02324c343902e6da8e949d24b9d11e510"
+text_sha256: "5e25b9c67d50a8c537bbc2ac6ec4039dbc9e12cb39b23087caa7f3147ad4b1dd"
+title: "THE PRINCE REGENT'S SPEECH ON OPENING THE SESSION. (Hansard, 30 November 1812)"
+---
+
+Title: THE PRINCE REGENT'S SPEECH ON OPENING THE SESSION. (Hansard, 30 November 1812)
+
+[Search Help](https://api.parliament.uk/historic-hansard/search)
+
+[HANSARD 1803–2005](https://api.parliament.uk/historic-hansard/index.html)
+→
+[1810s](https://api.parliament.uk/historic-hansard/sittings/1810s)
+→
+[1812](https://api.parliament.uk/historic-hansard/sittings/1812/)
+→
+[November 1812](https://api.parliament.uk/historic-hansard/sittings/1812/nov/)
+→
+[30 November 1812](https://api.parliament.uk/historic-hansard/sittings/1812/nov/30)
+
+→
+[Commons Sitting](https://api.parliament.uk/historic-hansard/sittings/1812/nov/30#commons)
+
+# THE PRINCE REGENT'S SPEECH ON OPENING THE SESSION.
+
+HC Deb 30 November 1812 vol 24 cc50-111 [50](https://api.parliament.uk/historic-hansard/commons/1812/nov/30/the-prince-regents-speech-on-opening-the#column_50)
+
+[§](https://api.parliament.uk/historic-hansard/commons/1812/nov/30/the-prince-regents-speech-on-opening-the#S1V0024P0_18121130_HOC_1)
+The Speaker acquainted the House that that House had been in the House of Peers, where his royal highness the Prince Regent had delivered a Speech to both Houses of Parliament, of which, to prevent mistakes, he had obtained a copy. [See p. 12.] After the Speaker had read the Speech,
+
+Lord Clive
+
+rose to move an Address in answer to the most gracious Speech of his royal highness the Prince Regent. In the liberty he then took of offering himself to the notice of the House, it was not his intention, nor would it be necessary, to trespass at any length upon their indulgence. With respect to the first part of the Speech, he felt confident that every person in that House, and in the country, lamented not less than himself the situation of the illustrious personage to whom it alluded. There was no one who could avoid feelings of the most lively regret when he reflected, that a life spent, as that of his Majesty had been, in the practice of every virtue that was honourable to our nature, that could adorn or dignify the man or the sovereign, and which had rendered him dear to the hearts of his subjects, should, towards the close, be deprived of that rest and of that repose which were due to his merits and to his virtues. The next point in his Royal Highness's Speech to which he would allude, was one of sincere and heartfelt gratulation, the successful resistance that had been made in the Peninsula
+
+[51](https://api.parliament.uk/historic-hansard/commons/1812/nov/30/the-prince-regents-speech-on-opening-the#column_51)
+by our gallant countrymen to the encroachments of France. Often as they had had occasion, within the last four years, to commemorate the achievements and applaud the distinguished conduct of the general, and the army employed in the protection of Spain, yet in no instance since the commencement of that struggle, was skill or valour so greatly displayed as in the decisive and glorious battle of Salamanca. The consequences of that victory were as sudden and important as ever followed from conquest. The siege of Cadiz was raised; Madrid was evacuated by the enemy; all the south of Spain was relieved from their oppressions; and what was a yet more important consequence, lord Wellington was raised to the rank of generalissimo of the Spanish forces. This was the most important result of all. If any thing could tend more powerfully than another to give vigour and success to the exertions of the Spanish people, to render effectual their efforts for their own deliverance, it was thus placing their resources at the disposal of a person so well able to guide them, and vesting so skilful a commander with the controul of their armies.—He would next take the liberty of congratulating the House on the relation in which they stood to Russia, and in general on the new connections which had sprung up between Great Britain and the northern powers of Europe. The circumstances of Russia, he was happy to say, were such as left no ground for despondency. The Russians, it was true, had met with some reverses, but they were not sufficient to damp their ardour, or quell that enthusiastic love of country, which should animate every bosom. That spark of resistance, which had been lighted up in Spain, they had the satisfaction to behold rapidly spreading over Europe, and already extended to the extremity of the north. He was doubtful to which part of the prospect, now held out by Russia, he should first call the attention of the House; whether to the spirit and decision of the emperor himself, or to the skill of his generals, or to the sacrifices so cheerfully made by the nobility, or to the valiant men who fought under their command; but to whatever part of the picture they directed their attention, whether to the magnanimity of the emperor, the talent of his generals, the bravery of his troops, or the devotion of his subjects, they would find abundant matter for exultation. On these topics it was unnecessary
+[52](https://api.parliament.uk/historic-hansard/commons/1812/nov/30/the-prince-regents-speech-on-opening-the#column_52)
+to dwell. They were the admiration of every person who could know and appreciate them. From one end to the other of that vast empire there seemed to be only one object in view, and that object was resistance to the enemy. From one end of it to the other, there seemed to be only one subject of contention, and that was who should contribute most to the defence of their laws, their religion, and their country. Such were the men whom for their bravery and their zeal, the oppressor of Europe would stigmatise with the name of Barbarians. If enthusiasm in the protection of every thing that was dear to our nature could merit the name of barbarism, he, for one, would wish to know where patriotism was to be looked for, and must express a hope that such barbarity might never be removed by civilization. But this was not the first time that a conqueror, when he found himself unable to combat the difficulties that opposed his progress, endeavoured to load with the same stigma the persons who had the boldness to resist him; in which a disgraceful attempt was sought to be covered under the offer of indignities to a gallant people. Alexander the Great, under much the same circumstances, chose to designate as robbers and barbarians, the ancestors of these very Russians who had the courage to oppose his encroachments. To such language they answered as they ought to have done, "that not to them who defended their country, but to him who came to despoil it, the appellation of robber was applicable;" and he would ask, might not the Russians now exclaim to Buonaparté, as their ancestors did to Alexander the Great, 'At tu, qui te gloriaris ad latrones persequendos venire; omnium gentium quos adisti, latrones.' Might not Russia with great truth thus address Buonaparté, "By what right do you designate us as barbarians; why cast upon a nation whom you are wantonly attacking, the stigma of being robbers? How are you rendered so equitable a judge as to be competent to form an estimate of us? What have we done to deserve this stigma?—nothing but what you yourself have done, and are still doing by stealth, for our only crime was a wish to trade with Great Britain. But is there any crime in which you have not wallowed, even without the excuse of provocation? What has been the practice of your life for the last twenty years? Is there a corner in Europe, Asia, or Africa,

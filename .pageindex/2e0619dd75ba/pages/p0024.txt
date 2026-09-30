@@ -1,0 +1,22 @@
+
+
+Yotov, Y.V. (2012), “A Simple Solution to the Distance Puzzle in International Trade.” Economics Letters 117(3): 794-798.
+
+### Online Appendices
+
+#### A Sources of British trade dataset by year
+
+All sources are held by UK National Archives, as follows: 1700: Ledgers of Imports and Exports, CUST 3/4 1710: Ledgers of Imports and Exports, CUST 3/13 1720: Ledgers of Imports and Exports, CUST 3/22 1730: Ledgers of Imports and Exports, CUST 3/30 1740: Ledgers of Imports and Exports, CUST 3/40 1750: Ledgers of Imports and Exports, CUST 3/50 1760: Ledgers of Imports and Exports, CUST 3/60 1770: Ledgers of Imports and Exports, CUST 3/70 1780: Ledgers of Imports and Exports, CUST 3/80 1790: States of Navigation, Commerce and Revenue, CUST 17/12 1800: States of Navigation, Commerce and Revenue, CUST 17/22 1807: States of Navigation, Commerce and Revenue, CUST 17/29 1820: Ledgers of Exports of British Merchandise under Countries, CUST 8/11 1830: Ledgers of Exports of British Merchandise under Countries, CUST 8/31-32 1840: Ledgers of Exports of British Merchandise under Countries, CUST 8/51-52 1850: Ledgers of Exports of British Merchandise under Countries, CUST 8/71-72 1860: Ledgers of Exports of British Merchandise under Countries, CUST 8/91-92 1869: Ledgers of Exports of British Merchandise under Countries, CUST 8/109-110 1880: Ledgers of Exports of British Merchandise under Countries, CUST 8/121 1890: Ledgers of Exports of British Merchandise under Countries, CUST 8/131 1899: Ledgers of Exports of British Merchandise under Countries, CUST 8/140
+
+A1
+
+#### B Coverage of British trading partners in the dataset
+
+Our sample includes the following 86 trading partners recorded as export destinations in the British customs ledgers from 1700 to 1899:
+
+Abyssinia, Aden, Algeria, Arabia, Argentina, Australia, Austria-Hungary, Belgium, Bermuda, Bolivia, Brazil, British Borneo, British East Africa, British Guiana, British Honduras, British India, British New Guinea, British South Africa, British West Africa, British West Indies, Bulgaria, Canada, Central America, Chile, China, Colombia, Congo Free State, Cyprus, Danish West Indies, Denmark, Dutch East Indies, Dutch Guiana, Dutch West Indies, Ecuador, Egypt, Falkland Islands, Fiji Islands, France, French Guiana, French India, French Indochina, French West Africa, French West Indies, German East Africa, German New Guinea, German West Africa, Germany, Gibraltar, Greece, Haiti and Dominican Republic, Italy, Japan, Korea, Liberia, Madagascar, Malta, Mauritius, Mexico, Montenegro, Morocco, Netherlands, New Zealand, Norway, Paraguay, Persia, Peru, Philippine Islands, Portugal, Portuguese East Africa, Portuguese India, Portuguese West Africa, Reunion Island, Romania, Russia, Siam, Spain, Spanish Africa, Spanish West Indies, Straits Settlements, Sweden, Tripoli and Tunis, Turkey, United States, Uruguay, Venezuela, and Zanzibar.
+
+The map in Figure A1 shows these destinations.
+
+Figure A1: British export destinations, 1700–1899
+

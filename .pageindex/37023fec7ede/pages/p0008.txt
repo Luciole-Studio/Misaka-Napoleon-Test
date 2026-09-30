@@ -1,0 +1,26 @@
+    Literacy               Ministère de l’instruction         Percentage of young men who signed their marriage
+                           publique (1880).                   certificate between 1816 and 1820.
+    Literacy (1831)        Archives Nationales, series        This variable measures the percentage of men in the 1830
+                           F/9, boxes 150 to 259.             cohort eligible for conscription (in 1831) who know could
+                                                              read.
+    Travel cost to Paris   État Général des postes et         This variable measures the cost of traveling from Paris to
+                           relais de l’empire Francais        each department’s capital.
+                           (1808).
+    Wheat suitability      FAO, GAEZ v3.0. Crop suit-         This variable measures how suitable land is to growing
+                           ability index (class) for inter-   wheat.
+                           mediate input level rain-fed
+                           wheat.
+    Year created           Wikipedia, 130 departments of      This variable measures the date at which each
+8                          the First French Empire.           department was created.
+    Identity               (Hyslop 1934, Johnson 2015).       The data was coded following Johnson (2015)’s
+                                                              methodology and then spatially interpolated using the
+                                                              statistical software R. Each grid point in the map was
+                                                              assigned a value based on the inverse-weighted distance of
+                                                              surrounding 12 cities that sent their Cahiers to Paris
+                                                              (exponent of distance used is 1).
+    Oath                   (Tackett 1986).                    “Oath” gives the percentage of the clergy in each
+                                                              department which swore allegiance to the new republican
+                                                              constitution in 1791.
+    Mounted gendarmerie    (de Halle 1803).                   This variable measures the percentage of gendarmerie
+    brigades (%)                                              brigades in each department which were mounted on
+                                                              horses.

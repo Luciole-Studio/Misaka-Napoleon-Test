@@ -1,0 +1,37 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/commons/1812/feb/22/navy-estimates"
+final_url: "https://api.parliament.uk/historic-hansard/commons/1812/feb/22/navy-estimates"
+sha256: "6fe5459a16772e2b00d51e8a1b2ab0c959133612025badf265290bc64fb4c780"
+text_sha256: "0a58ba5fda4519d80dd34e7c7f069562fc25fac00e9a8739dc492d9d1c328a0b"
+title: "NAVY ESTIMATES. (Hansard, 22 February 1812)"
+---
+
+Title: NAVY ESTIMATES. (Hansard, 22 February 1812)
+
+[Search Help](https://api.parliament.uk/historic-hansard/search)
+
+[HANSARD 1803–2005](https://api.parliament.uk/historic-hansard/index.html)
+→
+[1810s](https://api.parliament.uk/historic-hansard/sittings/1810s)
+→
+[1812](https://api.parliament.uk/historic-hansard/sittings/1812/)
+→
+[February 1812](https://api.parliament.uk/historic-hansard/sittings/1812/feb/)
+→
+[22 February 1812](https://api.parliament.uk/historic-hansard/sittings/1812/feb/22)
+
+→
+[Commons Sitting](https://api.parliament.uk/historic-hansard/sittings/1812/feb/22#commons)
+
+# NAVY ESTIMATES.
+
+HC Deb 22 February 1812 vol 21 cc885-93 [885](https://api.parliament.uk/historic-hansard/commons/1812/feb/22/navy-estimates#column_885)
+
+[§](https://api.parliament.uk/historic-hansard/commons/1812/feb/22/navy-estimates#S1V0021P0_18120222_HOC_15)
+The House having resolved itself into a Committee of Supply,
+
+Mr. Yorke
+
+rose to lay before the committee the Estimates for the service of the Navy during the present year. The principal feature of difference, he observed, would be found in a reduction of about 500,000l. below the estimates of the last year and of the year before the last. He did not feel it incumbent on him to go into much detail on the subject, but should be extremely willing to answer any questions or communicate any information that might be deemed desirable. The grant for which he should then move would fall short of the vote of last year in another sum of 80,000l. appropriated to the expences of the new Breakwater in Plymouth Sound. As this subject was soon to be taken into consideration, he thought it better to defer moving for that sum at present. The right hon. gentleman then gave a short history of the reductions effected in the navy debt during the two last years. From these savings, and partly owing to the liberal provision made last year by parliament, be felt himself justified in concluding from the state of part of the naval expenditure which was called Wear and Tear, the service would require a sum less than that of last year by 514,000l. There was only one additional point to which he wished to call the attention of the House, and that was, the propriety of making some further provision for the chaplains in the navy. From various causes the original fund had become quite inadequate to the due support and maintenance of this class of persons. There were now in the whole service but thirty-nine chaplains, and he was persuaded the House would coincide with him, that religious advice and consolation were not less requisite to our naval forces than to other men. The schoolmasters' fund had become equally inadequate; and it was therefore his intention to propose 30,000l. for the purpose of making a more suitable provision. This plan was to unite the two employments, and to give 265l. per annum to each individual fulfilling the duties of both, which, with the ether incidental advantages, might perhaps be deemed a sufficient remuneration. After serving ten years in what was called a sea-going ship, they should be entitled to a pay of 5s. per day, and to retain it
+[886](https://api.parliament.uk/historic-hansard/commons/1812/feb/22/navy-estimates#column_886)
+until they should enjoy church preferment equal to 400l. per annum. He should trouble the House no further at present, but move, "That it is the opinion of this committee, that a sum, not exceeding 1,038,514l. 3s. 2d. be granted to his Majesty, for defraying the salaries and contingent expences of the admiralty, navy pay, navy and victualling-offices and dock-yards, also of the officers of the out-ports and foreign yards, the wages and victuals to officers and ship-keepers of vessels in ordinary, the expenses of harbour mooring, and rigging, the ordinary repairs of ships and buildings in the dockyards, and bounty to chaplains, for the year 1812."

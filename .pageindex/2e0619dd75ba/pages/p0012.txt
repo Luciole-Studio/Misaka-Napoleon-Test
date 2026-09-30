@@ -1,0 +1,46 @@
+
+
+manufactured goods themselves are dominated by section (6) which includes critical goods like iron and steel, metal manufactured goods, and textile fabrics and yarns, commanding an overwhelming majority of British exports with an average share of 76%. Third, there is a clear decline in the export share of section (6) starting from 1869. However, part of this decline in section (6) is somewhat mechanical as this period also saw the rise of important and related new export industries: coal in section (3) along with machinery and railway-related equipment in section (7).
+
+#### 4 Gravity in the very long run
+
+A large literature has successfully applied the gravity model to the long-run history of international trade (e.g., Barjamovic et al., 2019; Flueckiger et al., 2022; Jacks, Meissner, and Novy, 2011). Structural gravity equations can be derived from a wide range of leading trade models. Following Anderson and van Wincoop (2003), Head and Mayer (2014), and Redding and Weinstein (2019), the basic structural gravity equation for industries (or in our case, SITC divisions) can be written as:
+
+y k w
+
+t k ij Π k i P k
+
+j
+
+1− σ k
+
+. (1)
+
+x k 
+ij represents nominal exports of division k from i to j. The first term on the right hand 
+side of Equation (1) is what bilateral trade would be in the absence of any frictions: it 
+would simply be j’s expenditure on k (e k j) multiplied by i’s share of world output of k, 
+y k i/y k w. The second term represents the impact of those frictions: bilateral trade costs for 
+the division in question t k 
+ij relative to the product of i’s outward multilateral resistance 
+for k (Π k i) and j’s inward multilateral resistance for k (P k 
+j ). The latter two elements are 
+best thought of as indices of all outward and inward trade costs. Finally, σ k represents the 
+
+elasticity of substitution for k governing the responsiveness of trade flows to relative trade costs. In a full panel setting, all variables in Equation (1) are potentially time-varying and the dimensionality of the dataset is ijkt. Equation (1) can then be estimated by:
+
+lnx k ijt = ψ k it + γ k jt + δ k ij + z k ijt α k + ϵ k ijt . (2)
+
+Time-varying origin-division fixed effects (ψ k it) control for i’s share of world output of good 
+k and i’s outward multilateral resistance for k (Π k it). Time-varying destination-division 
+fixed effects (γ k jt) control for j’s expenditure on k and j’s inward multilateral resistance for 
+k (P k jt). For our purposes, the variables of greatest interest are z k 
+ijt which are time-varying 
+determinants of bilateral trade costs k (t k ijt), namely distance and empire. Finally, any 
+time-invariant determinants are accounted for by the division-specific bilateral fixed 
+effects (δ k ij) while ϵ k 
+ijt represents the error term. 
+In our setting, we only have data for one exporter, Britain. This means that we can 
+drop the exporter index i from the estimating equation. Thus, we should estimate: 
+
+lnx k jt = ψ k t + γ k jt + δ k j + z k jt α k + ϵ k jt. (3)

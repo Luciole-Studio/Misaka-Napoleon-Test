@@ -1,0 +1,18 @@
+
+
+## 三、复用上一轮资产（注路径，未重读部分依t_c17367的SOURCES）
+- `nodes/r_b55f2c1cf5/cards/t_c17367/c7_orient_india.md`（全文重读）：提尔西特无印度专款、1801保罗行动降级、Decaen训令、Minto备忘录、能力审计框架。
+- `downloads/pages/8382c0deb72f.md`（Schimmelpenninck van der Oye, "Paul's Great Game", 2014）——保罗1801兵力与档案批判（承上一轮核，本轮引用其结论）。
+- `downloads/pages/7ace9e1b1b47.md`（Das, Defending British India, ch.3公开节选）——Minto 1808-06-17备忘录引文。
+- 协调台账接口：`nodes/r_5b1357a9c6/coordination_ledger.md`——E1口粮口径（1.5kg人日/10kg马日）、R3俄军境外补给结论、R1冷和平半衰期、F1行动先验。
+
+## 四、转引与谱系记载（未亲读原件，红队抽核点）
+- Amini《Napoléon et la Perse》1995（经Calmard/Amanat/Hellot-Bellier引注）；Atkin 1980；Yapp 1980；Ingram 1973/1979/1992；Kelly 1968。
+- Gardane训令1807-05-10原文（Corresp. XV pp.210–214；Hurewitz I pp.186–188）——经Iranica转引。
+- Trézel papers：Dumas, *Un fourrier de Napoléon vers l'Inde*, 1915；Truilhier勘测忆述（Bull. Soc. Géographie, 2e sér., 9, 1838, pp.109–145, 249–282, 313–329）；SHAT Série Im MS no.1673（Perse 1807–57）——谱系名录，未获全文（§11缺口①）。
+- Jaubert, *Voyage en Arménie et en Perse*, 1821（附Truilhier/Raymond/Dupré/Jouannin/Fabvier行程注）——未获全文。
+- 波斯编年史（Donboli *Ma'āser-e Solṭānīya*、Hedāyat、Fasā'ī）——经Iranica与Jones英译层转引。
+- Jones 1834回忆录、Malcolm《History of Persia》1815——经Iranica条目引文转引（Jones的沙财政自白引文出Amanat条目所引Jones 1834 pp.286–87）。
+
+## 五、检索与元数据记录（非证据）
+- archive.org检索与metadata快照：`downloads/pages/a74cfc40d08a.md`、`8c697d345cad.md`、`88e18d3695f5.md`、`9218005107fe.md`、`9b8878d51d19.md`、`075f89817e85.md`、`96646a83b813.md`、`322976e60d96.md`、`6453d22b6fd6.md`、`bea2d85b8283.md`。

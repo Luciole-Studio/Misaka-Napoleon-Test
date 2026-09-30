@@ -1,0 +1,64 @@
+in Table 4. Column (1) reports our baseline estimates with the full sample of observations for
+
+comparison. Column (2) omits the influential Eastern European countries, and column (3) omits
+
+the observations with the largest residuals. These auxiliary estimates show that our baseline results
+
+are not sensitive to these potentially influential observations.
+
+   We now address a number of potential concerns related to our potato suitability measure.
+
+One concern is the large number of zero-suitability countries in our sample. Column (4) reports
+
+estimates with all zero-suitability countries omitted from the sample. Although, this reduces the
+
+sample size significantly, our results remain robust.
+
+   An additional concern with our suitability measure is that many suitable countries are Western
+
+European countries, which experienced the industrial revolution at approximately the same time
+
+potatoes were adopted. In Table 3 we attempted to control for potential determinants of the rise of
+
+Western Europe. Here, we pursue an alternative strategy and simply omit all Western European
+
+countries from our sample.33 Omitting these countries does not affect our estimates.
+
+   Because our identification strategy only applies to regions in which potatoes were not indige-
+
+nous, our baseline sample contains only Old World countries. It is disputed whether potatoes were
+
+cultivated by the indigenous populations north of Mezzo America before their “re-introduction”
+
+by European settlers. Historians have found no evidence that they did, although there are no
+
+widely accepted theories of why the crop did not diffuse into these regions. Therefore, out of inter-
+
+est, we expand our sample to include the countries north of Mezzo America, namely Canada and
+
+the United States.34 The estimates are shown in column (6). They are very similar to the baseline
+
+estimates both in magnitude and statistical significance. These estimates should be interpreted
+
+cautiously, since potatoes may have already existed in America and Canada. Further, the native
+
+populations of the Americas suffered large negative population shocks due to diseases introduced
+
+by Europeans
+
+
+D. Magnitudes of the Estimates
+
+It is well known that after 1700 the world experienced an unprecedented increase in the growth of
+
+population and urbanization. This well established fact can be seen in Figure 1, which shows the
+
+evolution of World population and urbanization between 1000 and 1900. The figure shows that
+  33 The Western European countries include:    Belgium, Denmark, Germany, France, Finland, Great Britain, Ireland,
+Italy, Liechtenstein, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, and Switzerland.
+   34 Because FAO data are unavailable for Greenland, it is not included in the larger sample.
+
+
+
+
+                                                        32

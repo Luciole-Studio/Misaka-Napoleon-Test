@@ -1,0 +1,86 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: IN1_finance 2.csv
+
+```meta
+▸ table "IN1_finance 2.csv" (95 data rows)
+▸ columns
+    year: str, 35 uniq, first 20: ['1792-93_1808-09', '1793', '1793-1806', '1793-1807', '1793-1812', '1798', '1803-04', '1803-04-30', '1804-03-01', '1804-04-30', '1804-05', '1805', '1805-03-01', '1805-04-30', '1805-06', '1806-04-30', '1806-07', '1807-08', '1808-03-01', '1808-09']
+    series: str, 68 uniq, first 20: ['annual_charge_of_annuities', 'annuities_raised_1812', 'assets_at_home', 'assets_in_india_net', 'benefit_to_nation_pa', 'bills_drawn_on_london_since_1807', 'bond_capital', 'bond_debt_england', 'capital_required_total', 'capital_stock', 'capital_stock_adventurers', 'cash_in_india', 'cash_shortfall_england_est', 'charges_bengal', 'charges_bombay', 'charges_madras', 'charges_total', 'charges_total_est', 'china_trade_sales_london', 'claim_on_public']
+    unit: str, 2 uniq: ['GBP', 'SiccaRs']
+    value: num, min=-1e+06, max=5.78963e+07
+    scope_note: str, 72 uniq, first 20: ["'或如此'", "'或如此'(据最新印度来函)", '13年均出口英货成本年增额', '14年因欧战多付运费与滞期', '1797–1807本土垫款超回流额(逾五百万)', '17年公司对华货物在伦敦销售总额(茶55,160,230)', '17年英国关税消费税(硬国库收入)', '1805-6孟加拉鸦片对华出口值', '1808-03-01至1809-03-01预计支付超收入', 'C. Grant估计(扣偿债基金购回后)', 'Creevey:岁入七百万时有百万盈余,如今一千五百万反无盈余', 'Hansard印23,197,499与减项/净额不自洽,按净额+基金倒推', 'Milburn宽口径年均(含公司利润与运费,非全为国库收入)', 'OCR印3,763,220;按合计倒推为8,7xx,xxx', 'OCR印38,614,174;按51,182,127−22,567,953还原', '三管区实绩', '以3,000,000 reduced 3% + 1,400,000 consol 3%筹得', '伦敦债券债务', '估计缺口', '公司主张公方欠款(已扣1.5m国库券)']
+    source: str, 15 uniq: ['Accountant-General Cartwright 1812-03-04', 'EIC petition 22 Feb 1813', 'EIC petition 26 Apr 1808', 'EIC petition on account with public 22 Feb 1813', 'HC Deb 23 May 1811', 'India Budget 1806', 'India Budget debate 18 Jul 1806', 'Milburn II', 'Milburn Oriental Commerce II', 'Papers respecting the negociation (1812)', 'R. C. Dutt 1906', 'R. C. Dutt 1906 ch.XXIII', 'R. C. Dutt 1906 转引HC Return 22 Jun 1855', 'Sir A. Wellesley in India Budget debate', '同上']
+    locator: str, 40 uniq, first 20: ['api.parliament.uk/historic-hansard/commons/1806/jul/18/india-budget', 'api.parliament.uk/historic-hansard/commons/1811/may/23/east-india-companys-bonds-bill', 'api.parliament.uk/historic-hansard/commons/1813/feb/22/petition-from-the-east-india-company', 'downloads/IN1_dutt_econ_hist_early.txt line 20310-20320', 'downloads/IN1_dutt_econ_hist_early.txt line 20355-20360', 'downloads/IN1_dutt_econ_hist_early.txt line 20360-20365', 'downloads/IN1_dutt_econ_hist_early.txt line 20372-20376', 'downloads/IN1_dutt_econ_hist_early.txt line 20378', 'downloads/IN1_dutt_econ_hist_early.txt line 20380', 'downloads/IN1_dutt_econ_hist_early.txt line 20390-20396', 'downloads/IN1_dutt_econ_hist_early.txt line 20402-20404', 'downloads/IN1_dutt_econ_hist_early.txt line 20404-20408', 'downloads/IN1_dutt_econ_hist_early.txt line 20408-20410', 'downloads/IN1_milburn_v2.txt line 43765', 'downloads/IN1_milburn_v2.txt line 43772', 'downloads/IN1_milburn_v2.txt line 43776', 'downloads/IN1_milburn_v2.txt line 71795-71812', 'downloads/IN1_milburn_v2.txt line 71812', 'downloads/IN1_milburn_v2.txt line 71814', 'downloads/IN1_milburn_v2.txt line 82462']
+    caliber_flag: str, 29 uniq, first 20: ['OCR表', 'OCR表,已逐项核加', 'OCR还原', '与Hansard口径冲突', '两处冲突', '两处印数差3英镑', '两处差5', '二手叙述', '二手叙述,近似', '仅定性', '估计', '估计非实绩', '作者估计', '倒推,非原印', '公司主张', '公司自述', '公司自述,下限', '公司自述,约数', '公司自述,非审计', '公司预估']
+```
+year,series,unit,value,scope_note,source,locator,caliber_flag
+1793,indian_debt,GBP,8000000,"公司在印度的负债（董事会1812年回溯口径）",Papers respecting the negociation (1812),downloads/IN1_papers_negociation_1812.txt line 365,"公司自述,非审计"
+1793,bond_debt_england,GBP,3200000,"伦敦债券债务",EIC petition 22 Feb 1813,downloads/pages/db711396db6a.md,"公司自述"
+1793,capital_stock,GBP,5000000,"股本(1793年时)",EIC petition 22 Feb 1813,downloads/pages/db711396db6a.md,"公司自述"
+1793,territorial_revenue,GBP,8000000,"领地岁入(约数)",EIC petition 22 Feb 1813,downloads/pages/db711396db6a.md,"约数 or thereabouts"
+1798,territorial_revenue,GBP,8059880,"韦尔斯利就任时全印岁入",Sir A. Wellesley in India Budget debate,downloads/pages/1f500788134e.md HC Deb 10 Jul 1806 vol 7,"韦尔斯利方辩护口径"
+1803-04,revenue_bengal,GBP,8060993,"实绩",India Budget 1806,downloads/pages/1f500788134e.md cc1046-47,已核
+1803-04,revenue_madras,GBP,4653401,"实绩",India Budget 1806,downloads/pages/1f500788134e.md cc1046-47,已核
+1803-04,revenue_bombay,GBP,558650,"实绩",India Budget 1806,downloads/pages/1f500788134e.md cc1046-47,已核
+1803-04,revenue_total,GBP,13273044,"三管区实绩",India Budget 1806,downloads/pages/1f500788134e.md cc1047,已核
+1803-04,charges_bengal,GBP,5434294,"实绩(同页另处印5,434,291)",India Budget 1806,downloads/pages/1f500788134e.md cc1045-47,"两处印数差3英镑"
+1803-04,charges_madras,GBP,6136845,"实绩",India Budget 1806,downloads/pages/1f500788134e.md cc1046,已核
+1803-04,charges_bombay,GBP,1642978,"实绩",India Budget 1806,downloads/pages/1f500788134e.md cc1046,已核
+1803-04,charges_total,GBP,13214114,"三管区实绩",India Budget 1806,downloads/pages/1f500788134e.md cc1047,已核
+1803-04,interest_on_debt,GBP,1534758,"孟957727+马334179+孟买242852(含付偿债基金140436)",India Budget 1806,downloads/pages/1f500788134e.md cc1047,已核
+1803-04,deficit_after_import_sales,GBP,1124403,"岁入+进口货销售不足以覆盖开支与利息之差",India Budget 1806,downloads/pages/1f500788134e.md cc1047,已核
+1803-04,opium_revenue_bengal,GBP,463161,"孟加拉鸦片专卖净收入",Milburn Oriental Commerce II,downloads/IN1_milburn_v2.txt line 43765,"与Hansard口径冲突"
+1803-04,opium_revenue_bengal_alt,SiccaRs,3989200,"韦尔斯利陈述的1803-4鸦片税目(≈£498,650@2s)",India Budget 1806,downloads/pages/1f500788134e.md,"口径冲突并列"
+1803-04,opium_export_value_bengal,SiccaRs,4188225,"孟加拉鸦片出口值",Milburn Oriental Commerce II,downloads/IN1_milburn_v2.txt line 43772,已核
+1804-05,revenue_total_est,GBP,13558509,"预算估计",India Budget 1806,downloads/pages/1f500788134e.md cc1047,估计非实绩
+1804-05,charges_total_est,GBP,13250170,"预算估计",India Budget 1806,downloads/pages/1f500788134e.md cc1047,估计非实绩
+1804-05,interest_on_debt_est,GBP,1754843,"含付偿债基金166454",India Budget 1806,downloads/pages/1f500788134e.md cc1047,估计
+1804-05,deficit_after_import_sales_est,GBP,1131191,"估计缺口",India Budget 1806,downloads/pages/1f500788134e.md cc1047,估计
+1804-05,opium_revenue_bengal,GBP,725895,,Milburn II,downloads/IN1_milburn_v2.txt line 43765,已核
+1804-05,opium_export_value_bengal,SiccaRs,6412283,,Milburn II,downloads/IN1_milburn_v2.txt line 43772,已核
+1805-06,revenue_bengal_est,GBP,8763220,"OCR印3,763,220;按合计倒推为8,7xx,xxx",India Budget 1806,downloads/pages/1f500788134e.md cc1051,"OCR还原"
+1805-06,revenue_madras_est,GBP,4774296,,India Budget 1806,downloads/pages/1f500788134e.md cc1051,估计
+1805-06,revenue_bombay_est,GBP,742017,,India Budget 1806,downloads/pages/1f500788134e.md cc1051,估计
+1805-06,revenue_total_est,GBP,14279538,"另一处印14,279,533",India Budget 1806,downloads/pages/1f500788134e.md cc1051,"两处差5"
+1805-06,charges_total_est,GBP,14645844,"孟7415370/马5650182/孟买1580292",India Budget 1806,downloads/pages/1f500788134e.md cc1051,估计
+1805-06,excess_of_charge_est,GBP,2651939,"含利息2,018,828与明古连补给266,800",India Budget 1806,downloads/pages/1f500788134e.md cc1051,估计
+1805-06,opium_revenue_bengal,GBP,690011,,Milburn II,downloads/IN1_milburn_v2.txt line 43765,已核
+1805-06,opium_export_to_china,SiccaRs,3294570,"1805-6孟加拉鸦片对华出口值",Milburn II,downloads/IN1_milburn_v2.txt line 43776,已核
+1803-04-30,debt_in_india_gross,GBP,21881571,"总额",India Budget 1806,downloads/pages/1f500788134e.md cc1048,已核
+1803-04-30,debt_in_india_net,GBP,19869223,"扣偿债基金持有2,012,348",India Budget 1806,downloads/pages/1f500788134e.md cc1048,已核
+1803-04-30,debt_bearing_interest_net,GBP,17026016,,India Budget 1806,downloads/pages/1f500788134e.md cc1048,已核
+1803-04-30,assets_in_india_net,GBP,12618623,"现金货物库存",India Budget 1806,downloads/pages/1f500788134e.md cc1048,已核
+1804-04-30,debt_in_india_gross,GBP,25336263,,India Budget 1806,downloads/pages/1f500788134e.md cc1048,已核
+1804-04-30,debt_in_india_net,GBP,22536207,,India Budget 1806,downloads/pages/1f500788134e.md cc1048,已核
+1804-04-30,debt_bearing_interest_net,GBP,19031934,"同页另处印19,051,934",India Budget 1806,downloads/pages/1f500788134e.md cc1048/1052,"两处冲突"
+1804-04-30,assets_in_india_net,GBP,14452343,,India Budget 1806,downloads/pages/1f500788134e.md cc1049,已核
+1805-04-30,debt_in_india_net,GBP,25046436,"孟加拉截1805-01",India Budget 1806,downloads/pages/1f500788134e.md cc1051,已核
+1805-04-30,debt_in_india_gross,GBP,28197501,"Hansard印23,197,499与减项/净额不自洽,按净额+基金倒推",India Budget 1806,downloads/pages/1f500788134e.md cc1051,"倒推,非原印"
+1805-04-30,debt_bearing_interest_net,GBP,21604967,,India Budget 1806,downloads/pages/1f500788134e.md cc1052,已核
+1805-04-30,interest_payable_net,GBP,1821576,"年利息",India Budget 1806,downloads/pages/1f500788134e.md cc1052,已核
+1804-03-01,debts_at_home,GBP,4788865,"本土债务",India Budget 1806,downloads/pages/1f500788134e.md cc1050,已核
+1805-03-01,debts_at_home,GBP,6012196,"本土债务",India Budget 1806,downloads/pages/1f500788134e.md cc1050,已核
+1805-03-01,assets_at_home,GBP,20412659,"本土资产(辩论中另引20,442,659)",India Budget 1806,downloads/pages/1f500788134e.md cc1050,"两处冲突"
+1806-04-30,debt_in_india_est,GBP,30000000,"C. Grant估计(扣偿债基金购回后)",India Budget debate 18 Jul 1806,api.parliament.uk/historic-hansard/commons/1806/jul/18/india-budget,"辩论估计"
+1806-07,opium_revenue_bengal,GBP,480069,,Milburn II,downloads/IN1_milburn_v2.txt line 43765,已核
+1807-08,opium_revenue_bengal,GBP,801467,"期内峰值",Milburn II,downloads/IN1_milburn_v2.txt line 43765,已核
+1808-03-01,debts_in_england_total,GBP,9122621,"含欠国王关税消费税;不含股本",EIC petition 26 Apr 1808,downloads/pages/9ea19769f461.md,"公司自述"
+1808-03-01,owed_to_king_customs_excise,GBP,1410238,,EIC petition 26 Apr 1808,downloads/pages/9ea19769f461.md,"公司自述"
+1808-09,cash_shortfall_england_est,GBP,2433185,"1808-03-01至1809-03-01预计支付超收入",EIC petition 26 Apr 1808,downloads/pages/9ea19769f461.md,"公司预估"
+1808-09,opium_revenue_bengal,GBP,594978,,Milburn II,downloads/IN1_milburn_v2.txt line 43765,已核
+1809-10,opium_revenue_bengal,GBP,580000,"整数,疑为估计",Milburn II,downloads/IN1_milburn_v2.txt line 43765,"整数存疑"
+1793-1807,home_advances_excess,GBP,5000000,"1797–1807本土垫款超回流额(逾五百万)",EIC petition 26 Apr 1808,downloads/pages/9ea19769f461.md,"公司自述,下限"
+1793-1807,freight_demurrage_extra,GBP,7000000,"14年因欧战多付运费与滞期",EIC petition 26 Apr 1808,downloads/pages/9ea19769f461.md,"公司自述"
+1793-1806,export_goods_cost_increase_pa,GBP,1690000,"13年均出口英货成本年增额",EIC petition 26 Apr 1808,downloads/pages/9ea19769f461.md,"公司自述"
+1810-04-30,territorial_outlay_india,GBP,19095024,"现金+应收+库存+槟榔屿",Accountant-General Cartwright 1812-03-04,downloads/IN1_papers_negociation_1812.txt line 2448-2491,已核
+1810-04-30,cash_in_india,GBP,10034660,"孟4772058/马4649723/孟买602879",同上,downloads/IN1_papers_negociation_1812.txt,已核
+1811-03-01,commercial_outlay_total,GBP,14847678,"含明古连圣赫勒拿434,755",同上,downloads/IN1_papers_negociation_1812.txt line 2430-2447,已核
+1811-03-01,capital_required_total,GBP,51182137,"经营该事业所需资本总额",同上,downloads/IN1_papers_negociation_1812.txt line 2500,已核
+1811-03-01,capital_stock_adventurers,GBP,7780000,,同上,downloads/IN1_papers_negociation_1812.txt,已核
+1811-03-01,bond_capital,GBP,7000000,"法定上限亦为7,000,000",同上,downloads/IN1_papers_negociation_1812.txt,已核
+1811-03-01,permanent_loans_india,GBP,28614174,"OCR印38,614,174;按51,182,127−22,567,953还原",同上,downloads/IN1_papers_negociation_1812.txt line 2500,"OCR还原"
+1811-05,debt_of_company_govt_claim,GBP,23000000,"政府方在债券法案辩论中称'不超过2300万'",HC Deb 23 May 1811,api.parliament.uk/historic-hansard/commons/1811/may/23/east-india-companys-bonds-bill,"辩论口径"
+1811-05,revenue_claim_no_surplus,GBP,15000000,"Creevey:岁入七百万时有百万盈余,如今一千五百万反无盈余",同上,同上,"辩论口径"
+1812,indian_debt,GBP,32000000,"董事会1812自述'about thirty-two millions'",Papers respecting the negociation (1812),downloads/IN1_papers_negociation_1812.txt line 365,"公司自述,约数"
+1813-02,debt_in_india,GBP,26000000,"'或如此'(据最新印度来函)",EIC petition 22 Feb 1813,downloads/pages/db711396db6a.md,"公司自述,约数"

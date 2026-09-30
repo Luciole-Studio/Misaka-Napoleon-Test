@@ -1,0 +1,20 @@
+
+
+Report an issue on this page
+
+How to:
+
+[Cite the DFIH project](https://dfih.fr/cite)
+—
+[Use the data or the software](https://dfih.fr/use)
+—
+[Contribute to project](https://dfih.fr/contribute)
+
+Text & data:
+
+Copyright © 2010-2018 École d’économie de Paris (PSE)
+
+Software:
+
+Copyright © 2018 École d’économie de Paris (PSE) —
+[Source code](https://gitlab.huma-num.fr/eurhisfirm/dfih-ui)

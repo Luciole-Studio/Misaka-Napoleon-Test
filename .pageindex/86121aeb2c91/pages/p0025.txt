@@ -1,0 +1,49 @@
+## Sheet: A5. Capital and Government Debt
+
+`data region: A1:G45`
+	A	B	C	D	E	F	G
+1	Back to front page	A5. Development of the Capital of the Bank of England and the Government Debt to the Bank					
+2		(Figures are shown to the nearest £)					
+3		Link to 1971 Annual Report					
+4		Year	Statutory authority	Bank capital		Government debt	
+5				Inception and changes	Cumulative total	Inception and changes	Cumulative total
+6				£	£	£	£
+7		1694	The capital loaned to the Government in return for an annuity of £100,000 made up of interest at 8%	1,200,000	1,200,000	1,200,000	1,200,000
+8			plus a management charge of £4,000 [Bank of England Act 1694]				
+9		1697	An issue of stock following the re-coinage of 1696 when  Bank notes end government promises to	1,001,172	2,201,172	1,001,172	2,201,172
+10			pay  were  at  a  discount. Subscriptions were  accepted  in  Bank  bills  and  notes (20%)  and in				
+11			Exchequer tallies (80%) [Bank of England Act 1696]				
+12		1698-1707	Repayment in instalments of the additional stock Issued in 1697 [Bank of England Act 1696]	1,001,172	1,200,000	1,001,172	1,200,000
+13		1707-8	Increase of 50% on the 1697 level of capital by means of a call on stockholders [Taxation Act 1707	1,100,586			
+14			and Bank of England Act 1708]				
+15		1707-8	Distribution of capital to stockholders	99,414	2,201,172		
+16		1709	Capital doubled [Bank of England Act 1708]	2,201,171	4,402,343		
+17		1709	Another call on stockholders, equivalent to 15%  of  their  holdings;  this  was  not  fully  subscribed.	656,204	5,058,547	400,000	1,600,000
+18			Further loan to the Government without an increase in the original annuity, reducing the effective				
+19			rate of Interest to 6% [Bank of England Acts 1708 and 1709]				
+20		1710	A further Issue of stock by means of a 10% call which was also not fully met.   Exchequer bills held	501,449	5,559,996	1,775,028	3,375,028
+21			by the Bank were cancelled, a sum equivalent to their value being funded, i.e. added to the debt, in				
+22			return for a 6% annuity [Bank of England Acts 1708 and 17091				
+23		1717-18	Further funding of Exchequer bills and an increase In the annuity; interest on the increase and on the			2,000,000	5,375,028
+24			1710 annuity now fixed at 5% [Bank of England Act 1716]				
+25		1722	issue of stock, enabling the Bank to assist the South Sea Company by the purchase of £4 million of	3,400,000	8,959,996	4,000,000	9,375,028
+26			the debt owed to the Company by the Government [ South Sea Company Act 1722]				
+27		1728	(a)  Loan in  return for a 4% Annuity. (b)  Repayment of part of the funded debt created in 1710			(a) 1,750,000	
+28			[Bank of England Act 1727]			(b) 1,000,000	10,125,028
+29		1729	(a) Loan in return for a 4% Annuity. (b) Repayment of the balance of the 1710 funded debt and			(a) 1,250,000	
+30			part of that created in 1717 [Bank of England Act 1728]			(b) 1,275,028	10,100,000
+31		1738	Repayment of a further part of the 1717 funded debt [National Debt Act 1737]			1,000,000	9,100,000
+32		1742	Further issue of stock.   Increase In loan to the Government without an increase in the original annuity of	840,004	9,800,000	1,600,000	10,700,000
+33			£100,000, having the effect of reducing the rate of interest to 3% [Bank of England Act 1741]				
+34		1746	Increase in the debt by the funding of Exchequer bills in return for an annuity of 4%.  Issue of stock	980,000	10,780,000	986,800	11,886,800
+35			by means of a call on stockholders for a subscription equal to 10%  of their holdings [Bank of				
+36			England Act 1745]				
+37		1781	Issue of stock by means of a further call of 8%.   The purpose of this was to increase the capital to 	862,400	11,642,400		
+38			an amount nearer the debt [Advance by the Bank of England Act 1781]				
+39		1816	Additional loan to the Government at 3% Interest. Nominal capital increased by a bonus issue of 5/- stock	2,910,600	14,553,000	3,000,000	14,686,800
+40			for each £1 stock held [Bank of England (Advance) Act 1816]				
+41		1834	A quarter of the debt cancelled in return for the transfer to  the  Bank  of £4,080,000  Reduced 3%			3,671,700	11,015,100
+42			Annuities [Bank of England Act 1833 and National Debt Act 1834]				
+43		1892	Rate of interest on the total debt reduced to 2.75% until 1903 and thereafter to 2.5% [Bank Act 1892]				
+44		1994	The historic liability of the Treasury of £11 million was repaid on 27 July 1994 (the Bank's 300th birthday) and was financed by increased holdings of government securities				-11,015,100
+45				Total outstanding	14,553,001	Total outstanding	0

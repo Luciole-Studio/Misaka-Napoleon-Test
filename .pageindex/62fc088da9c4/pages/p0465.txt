@@ -1,0 +1,162 @@
+
+
+TABLE 4.5 GUERRILLA MOBILITY
+
+As in Table 4.4, of a db total of 741 guerrilleros whose regions of operation are known.
+
+REGION
+
+No. of guerrilleros who fought exclusively in the region
+
+No. of guerrilleros who also fought in other regions & their % of each region’s total
+
+Other regions where they fought
+
+ANDALUCÍA
+
+141
+
+2 (1.4)
+
+1: Extremadura; 1: Murcia
+
+ARAGÓN
+
+71
+
+9 (11.2)
+
+1: Castilla La Vieja; 5: Navarra; 1: Navarra, Valencia; 1: Navarra, Basque Country; 1: Asturias, Cantabria, Navarra
+
+ASTURIAS
+
+23
+
+2 (8.0)
+
+1: Extremadura; 1: Navarra
+
+BASQUE COUNTRY
+
+27
+
+5 (15.6)
+
+1: Aragón, Navarra; 1: Asturias, Cantabria; 1: ARAGÓN, Cantabria, Castilla La Vieja; 1: Cantabria, Castilla La Vieja, Navarra; 1: Aragón, Cantabria, Castilla La Vieja, Navarra
+
+CANTABRIA
+
+8
+
+9 (52.9)
+
+2: Asturias; 3: Castilla La Vieja; 3: Basque Country; 1: Aragón, Castilla La Vieja, Navarra
+
+CASTILLA LA NUEVA
+
+84
+
+17 (16.8)
+
+2: Andalucía; 2: Aragón; 5: Castilla La Vieja; 7: Extremadura; 1: Andalucía, Murcia
+
+CASTILLA LA VIEJA
+
+176
+
+42 (35.6)
+
+3: Aragón; 18: Castilla La Nueva; 3: Extremadura; 2: Basque Country; 1: Aragón, Navarra; 3: Aragón, Castilla La Nueva; 2: Asturias, Cantabria; 2: Cantabria, Basque Country; 2: Asturias, Cantabria, Basque Country; 5: Cantabria, Navarra, Basque Country; 1: Asturias, Cantabria, Navarra, Basque Country
+
+EXTREMADURA
+
+15
+
+4 (21.1)
+
+4: Andalucía, Castilla La Nueva
+
+NAVARRA
+
+38
+
+30 (44.1)
+
+13: Aragón; 1: Castilla La Vieja; 1: Basque Country; 2: Aragón, Castilla La Vieja; 6: Aragón, Basque Country; 4: Castilla La Vieja, Basque Country; 2: Aragón, Castilla La Vieja, Basque Country; 1: Asturias, Cantabria, Castilla La Vieja
+
+VALENCIA
+
+37
+
+1 (2.6)
+
+1: Aragón, Castilla La Nueva
+
+TOTALS
+
+620
+
+121 (16.3)
+
+## GUERRILLEROS’ SOCIAL PROFILE
+
+Of the db’s total number, the occupational status of 213 (28.4%) is recorded. Of these, 157 (73.7%) came from the privileged classes, 56 (26.3%) from the labouring classes. The Old Order’s practice of recording those entitled to the appellation of ‘don’ (i.e. the educated or those of superior social status) and ignoring the labouring poor was evidently at work. To correct this defect, the author has resorted to a ‘weighted’ solution. Dons who would always have been recorded are expressed as a percentage of the total guerrillero db (751); the labouring classes as a percentage of those of known occupational status (213). The resulting percentages showed the privileged making up 20.9% and the labouring classes 26.3% of the guerrilleros.
+
+Female guerrilleros: Nine women (or 1.2% of the db total) are on record as having been active members of a party.
+
+TABLE 4.6 GUERRILLEROS BY OCCUPATION
+LABOURING CLASSES
+
+Categories
+
+Numbers & % (of 213)
+
+Agrarian:
+
+33 (15.5)
+
+–Farmer
+
+24 (11.3)
+
+–Day labourer
+
+1 ( 0.5)
+
+–Shepherd
+
+7 ( 3.2)
+
+–Market gardener
+
+1 ( 0.5)
+
+Artisan*
+
+9 ( 4.2)
+
+Transport
+
+2 ( 0.9)
+
+Outlaw†
+
+5 ( 2.3)
+
+Deserter, dispersed soldier
+
+4 ( 2.0)
+
+Other
+
+3 ( 1.4)
+
+Totals
+
+56 (26.3)
+
+PRIVILEGED CLASSES
+
+Categories
+
+Numbers & % (of 751)

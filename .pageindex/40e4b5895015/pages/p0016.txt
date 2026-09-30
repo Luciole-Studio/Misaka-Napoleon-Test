@@ -1,0 +1,44 @@
+                            The French revolution and German industrialization 175
+
+εit , the first-stage regression is
+                               Xit = γi + κt + ρZit + υit                        (2)
+where Zit is the instrument (fpresenceXpost1800Xtrend) and υit is an error
+term that is uncorrelated with Xit .
+   Notice that the ACJR model includes data for the years 1700, 1750, 1800,
+1850, 1875, and 1900. The values of the treatment variable Xit are zero for
+the first two periods, and the instrument Zit takes a value of zero for the first
+three periods (i.e., Xi,1700 = Xi,1750 = Zi,1700 = Zi,1750 = Zi,1800 = 0). Therefore,
+the variables are given no weight in the calculation of ρ and β for these years
+(Angrist and Pischke, 2009). Here, Zit is being used to identify the exogenous
+impact of Xit onYit so the analysis can be limited to years where the variable
+contains useful information in a first-stage regression for the 2SLS estimation.
+These are the years 1850, 1875, and 1900.
+   More serious concerns arise upon examining alternate specifications for the
+ACJR model. To understand the gravity of this problem, consider a more flexible
+specification for the first-stage regression:
+             Xit = γi + κt + ρfpresence=0 × Dfpresence=0 × trend
+                           +ρfpresence=3 × Dfpresence=3 × trend
+                           +ρfpresence=6 × Dfpresence=6 × trend                  (3)
+                           +ρfpresence=19 × Dfpresence=19 × trend + υit
+
+
+where Dfpresence=q is a dummy variable indicating that polity i was occupied for
+fpresence = q years, q ∈ {0, 3, 6, 19}. This specification is similar to the ACJR
+model, but allows for a separate trend for each value taken by fpresence rather
+than interacting fpresence with the trend. That is, we allow for a separate time
+trend for each value of fpresence, allowing for the possibility that not all types of
+occupation are the same. Given this specification, longer duration of occupation
+by the French should be reflected in a higher value of ρq . These trend results are
+shown in Table 2.
+   Model 1 in the table shows the results from estimating coefficients for years
+of French presence as affecting the claimed driver of institutional reform in the
+ACJR model – years of reform. We see in Model 1 that the 11 control polities,
+where fpresence = 0 (for whom fpresenceXpost1800Xtrend is always equal to
+zero) tend to have a larger rate of increase in yearsreform (0.735) than do treated
+polities with 3 or 6 years of occupation, but a lower rate of increase than the two
+polities with 19 years of occupation. Notice that Model 2 in Table 2 indicates
+that a trend showing any duration of French occupation generates a relationship
+between occupation (French presence) and years of reform that is statistically
+insignificant.
+   Moreover, notice in the ACJR vintage model (their Table 1 in the on-line
+material) that for 8 of the 11 unoccupied polities, the reform index was

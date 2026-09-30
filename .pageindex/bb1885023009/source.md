@@ -1,0 +1,55 @@
+# notes_afghan_punjab — 阿富汗（杜兰尼）与旁遮普（锡克）专项摘录（PS卡，本轮亲读）
+
+## A. Elphinstone《An Account of the Kingdom of Caubul》1815初版
+文件：`downloads/PS_elphinstone1815_caubul.txt`（archive.org bub_gb_FOc-AAAAYAAJ 的djvu OCR；doc e5a611649f38；OCR脏但关键段可辨；1809年Peshawar使团实地+口访成果，是杜兰尼国家的**唯一同期系统国情调查**）
+### 财政（CHAP. IV "The Revenue"，OCR行25100–25230）
+- "The whole revenue of the Caubul government, in settled times, may be reckoned at something near **three crores of rupees**; but of this upwards of a crore is remitted to different half-subdued princes... cannot be considered among the King of Caubul's resources."
+- "The **real revenue falls a good deal within two crores**. Of this a great part (**about half) is assigned in Teoool (Jegeer)**, most of it granted on condition of military service... the rest to Moollahs/charity."
+- "The remaining sum was received by the King till the breaking out of the present troubles... it amounted to **upwards of nine millions of rupees**."（脚注：a crore ≈ "above a Million of pounds sterling"）
+- 开支："The whole expence of the King of Caubul, exclusive of that defrayed by Teools, &c. was not much above **half a crore** of rupees in quiet years"；余额作非常准备金。
+- "**The treasures of the crown have long since been dissipated**; the only wealth the King possesses consists in a very valuable collection of jewels... greatly diminished since Timoor Shauh's reign."
+- 结构：土地税按产出比例（各省异）+城镇关税+王室领地+罚没+铸币；**Haukim（省督）包税制**，账目层层核销后余额"更常见的是就地签发给军队等债权人（orders equal to its amount）"——中央现金流被指定支付吃掉。
+### 军制（CHAP. VI "The Military Establishment"，OCR行25360–25560）
+- 构成：Dooraunees（部落义务骑兵）+Gholaum Khauneh（王室常备近卫）+Karra Nokur（土地征役骑兵）+Eeljauree（非常民兵）+Dawatullub（战时志愿）。
+- **杜兰尼部落按teool义务出骑兵12,000**；服役时年发3个月饷（≈£10，连同土地合计≈£40/年）；"The greater part of the Dooraunees only attend the King during military operations."；"In wars carried on near the Dooraunee country, the King could raise as many Dooraunees as he could pay."
+- **Gholaum Khauneh常备编制"upwards of thirteen thousand"**；Qizilbash（波斯裔）约占1/3、为全军精华；"If he could pay them regularly, the King could probably raise double the number"——**现金约束是常备军规模的直接瓶颈**。
+- Shaheenchees（骆驼回旋炮兵）700–800；**火炮："Shauh-Shuja had only five [guns] when he took the field at Peshawer in 1809. They were much worse in all respects than any I have ever seen among the Persians."**；印度斯坦雇佣卫兵数百无纪律；Attock要塞常备步兵至多150。
+- Karra Nokur：按犁配额、可折钱（5–7 toman≈£10–14一名替身），实际到员低于额定；总数少于杜兰尼骑或Gholaum。
+- Eeljauree：名义人口1/10，从未足额。
+- 【推断】杜兰尼野战军峰值=1.2万部落骑+1.3万常备+不足额征役骑+民兵≈**纸面5–6万、可持续野战2.5–3.5万**，且炮兵几乎为零——与波斯nizam（1812年约1.3万新军+炮）相比火力更弱，但骑兵冲击文化强。
+### 其他（早段行8535–9200、21484）
+- 部落只在王权强时缴税（"pay him revenue when he is strong enough to levy it"，行24402）；Ghilji诸部税几乎全数被指定授出（行21484–21500）。
+
+## B. Aitchison《Treaties, Engagements and Sanads》Vol. IX (1892)
+文件：`downloads/PS_aitchison_vol9_1892.txt`（doc bf5e0c038b38）
+### 1809-04-25 阿姆利则条约（英—拉合尔，OCR行3430–3470，全文四条已读）
+- Art.1 "Perpetual friendship... The British Government will have no concern with the territories and subjects of the Rajah to the northward of the River Sutlej."（英国不干预萨特莱杰河以北）
+- Art.2 兰吉特在河左岸（cis-Sutlej）属地"never maintain... more troops than are necessary for the internal duties"、不得侵越邻近诸酋。
+- Art.3 任一方违约即条约无效；Art.4 1809-04-25订于Amritsar，Metcalfe署。
+- 语境（编者叙述，行3030）：Metcalfe使团1808–09因法国威胁而派，结果为此约。
+### 1806条约（行3373–3410）：英与Ranjit/Fateh Singh约——Holkar逐出旁遮普期间互不侵犯。
+### 三方条约1838（行4131起，"Shah Shooja-ool-Moolk disclaims all title..."）：舒贾放弃对旁遮普/信德等主张、承认兰吉特既有领土；付款条款；Art.4等。
+（1838-06 Tripartite=1833 Ranjit–Shuja约的扩展版+英国背书；细节在Kaye卷1并证。）
+### 1809-06-17 喀布尔（舒贾）条约（OCR行27140–27215，全文三条已读）
+- 序言：因"the confederacy with the State of Persia, projected by the French for the purpose of invading the dominions of His Majesty the King of the Dooranees, and ultimately those of the British Government in India"，Minto派Elphinstone为全权使节。
+- Art.1 法波联军欲过境，"the servants of the Heavenly Throne shall prevent their passage... shall not permit them to cross into British India"。
+- Art.2 法波联军若敌对推进，英国尽力协防并"afford the expenses necessary... to the extent of their ability"；**条约效力以法波同盟存续为限**。
+- Art.3 永久友好互不干涉内政+"the King of Cabool shall permit no individual of the French to enter his territories"。
+- 编者按（行26124–26131）：**英国义务仅限法波联合入侵，波斯单独攻阿富汗不在担保内**；Elphinstone刚离开喀布尔，舒贾即被Mahmud/Fatteh Khan推翻；流浪多年（克什米尔被囚、拉合尔被兰吉特扣押勒索），1816-09入英境Ludhiana领养老金。
+
+## C. Kaye《History of the War in Afghanistan》vol.1 (1851)
+文件：`downloads/PS_kaye1851_v1_real.txt`（doc 2ed6a04b8934）；vol.2=`downloads/PS_kaye1851_afghanistan_v1.txt`（doc 395a8b7cab27，实为1851年卷二）
+- **1812-03-14定约**（Ouseley/Mohammad Shafi/Mohammad Hassan签）：津贴定为**200,000 tomans（约£150,000）/年**；专条：因波斯惯例军饷预发六个月，英使应尽早分期支付——Kaye讥为"might well be taken for a burlesque"（印p.138，OCR行7270–7290）。
+- 定约Art.VI：欧洲强权攻波斯而英与之和平时，英先调停，调停失败仍须"send a force from India, or in lieu thereof pay an annual subsidy (200,000 tomauns)"直至媾和——Kaye评：**实际把每次俄国侵波都定义为对英属印度的敌对示威**（行7420–7450）。
+- 1814德黑兰条约（Treaty of Teheran）保留200,000 tomans义务，但加"战争须非波斯挑衅所致"条件→1826–28战争中英以此脱身（行7740–7770）。
+- 1838远征：孟加拉纵队自Ferozepore 1838-12-10出发，**约9,500战兵+38,000随军人员+约30,000骆驼**（骆驼从Bikaner/Jaisalmer征雇至枯竭，最后动用Hissar官营驼场；印pp.388–389，OCR行20440–20500）；舒贾新募军约6,000（2骑4步+骑炮1队，行20050–20060）；孟买师由海路至卡拉奇。
+- 1842-01喀布尔撤退纵队：**4,500战兵+12,000随军人员**（卷二OCR行12166）。
+
+## D. Prinsep《Origin of the Sikh Power》1834（Captain Murray口径，约1831–33）
+文件：`downloads/PS_prinsep1834_ranjit.txt`（doc d17a60fd43e1；印pp.183–187，OCR行7400–7560全读）
+- **岁入**：土地税+贡赋 Rs 1,24,03,900；关税 19,00,600；Mohurana印玺费 5,77,000；**Khalsa国库岁入合计 Rs 1,48,81,500（≈1.49 crore≈£150万）**；另jagir及老锡克家族领地岁入1,09,28,000不入国库→**全境资源 Rs 2,58,09,500**（Prinsep按莫卧儿Lahore soubah旧额校验认为估计可信）。
+- **国库窖藏**：Govindgarh要塞藏现金珠宝马象**不少于10 crore（£10m）**（Murray估计，"很不完全"，或更高）。
+- **军力（Murray表）**：正规骑兵（Allard操练+国马Gorchurra）12,811；正规步兵14,941；**正规军合计27,752**；驻防军26,950（骑3,000步23,950，含克什米尔）；西尔达尔封建contingent 27,312；**总计82,014**。**火炮376门+骆驼回旋炮370**；攻城时炮务人员可达4–5,000。骑炮附各团编制。
+- 领土（1834前）：旁遮普两河全境+克什米尔+至雪线山地+**拉达克**+cis-Sutlej约45 talook+印度河以西（Khairabad、Akora、白沙瓦；D.G.Khan包给巴哈瓦尔普尔、D.I.Khan授Mankera的Hafiz Ahmed）。
+- Prinsep判语：兰吉特如"first Peter of Russia"般事必躬亲，但**"Government being based on no solid forms, and institutions, which can be reckoned upon to carry on the machine, when the present regulator of all is removed"**——1839后崩溃的同期预言。
+- 1805年Holkar入旁遮普时兰吉特全军仅"24,000 men and all his best troops"（OCR行5670附近，语境为1805–06危机）。

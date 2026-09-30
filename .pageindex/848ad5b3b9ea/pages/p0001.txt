@@ -1,0 +1,34 @@
+---
+source_url: "https://doi.org/10.12794/metadc1752349"
+final_url: "https://doi.org/10.12794/metadc1752349"
+provider: "exa"
+text_sha256: "9ad9808264fbe0a08b462a28ad392f49b14de6177a35b63a3d0bbb2aef6df9ae"
+title: "The Austrian Army in the War of the Sixth Coalition: A Reassessment"
+content_kind: "page_text"
+---
+
+# The Austrian Army in the War of the Sixth Coalition: A Reassessment
+
+Published: 2020-12-01. Dissertation. 0 citations.
+
+## Authors
+
+- Daniel M Messman: h-index 0; 0 citations; corresponding author
+
+## Topics
+
+- European Political History Analysis
+
+---
+
+# THE AUSTRIAN ARMY IN THE WAR OF THE SIXTH COALITION: A REASSESSMENT
+
+## Abstract
+
+The Austrian army played a crucial role in Napoleon's decisive defeat during the War of the Sixth Coalition. Often considered a staid, hidebound institution, the army showed considerable adaptation in a time that witnessed a revolution in the art of war. In particular, changes made after defeat in the War of the Fifth Coalition demonstrate the modernity of the army. It embraced the key features of the new revolutionary way of war, including mass mobilization, a strategy of annihilation, and tactics based on deep echelonment, mobility, and the flexible use of varied formations. While the Austrians did not achieve the compromise peace they desired in 1814, this represented a political failing rather than a military one. Nevertheless, the Austrian army was critical in securing the century of general European peace that lasted until the dawn of the Great War.
+
+## INTRODUCTION
+
+Two great revolutions in warfare bracket Europe's Early Modern period. Technology drove the first, as firearms and gunpowder artillery in the sixteenth century pushed standing armies to the forefront, facilitated the centralization of states, and strengthened the strategic defensive. At the end of the eighteenth century, the second revolution-the citizen armytransformed European warfare. The concept of a citizen army rose to its greatest prominence in Revolutionary France. Combined with a nascent operational art, this revolution in warfare restored the power of the strategic offensive and threatened to destroy the established balance of power until France's Continental rivals adapted to this seismic shift. Despite a near-complete absence of technological change, all aspects of warfare witnessed a dramatic transformation.
+
+Austria was France's main rival on the European continent. While the structure of the empire appears prima facie opposed to the essence of the French revolution in warfare, the Habsburg monarchy successfully adapted to the French challenge. Enlightened Absolutism, manifesting in Austria as well as Prussia during the eighteenth century, anticipated many of the key structural transformations in France, primarily greater coercive control by the state over its population. 1 This thesis concentrates on the ensuing military changes in organization, mobilization, tactics, and strategy with a focus on Austria. While Austria's adaptation to this second 'Military Revolution' remained incomplete at the close of the French Wars (1792-1815), the army improved in key fields following the defeat of 1809, leading to the victories of the German campaign of 1813 and the 1814 invasion of France. These successes were not the product of a single reforming mastermind, but of specialists working together. Like Alexander and Frederick the Great, Napoleon as a monarch personally managed administration, diplomacy, and the raising and leadership of his armies. However, he was the last to do so successfully, and the end of his reign would expose his limits when called upon to make war on an unprecedented scale. Alexander I of Russia attempted to fill the same role, but the results left much to be desired. The way of the future lay in the Prussian and Austrian organization of war, with professional soldiers subordinated to professional statesmen. The partnership of Otto von Bismarck and Helmuth von Moltke in the Wars of German Unification later in the nineteenth century would produce dramatic results, but the essence of the system was in place in 1813. The central figures of the Austrian revival are Klemens von Metternich, Karl Philipp zu Schwarzenberg, and Joseph Radetzky von Radetz. Metternich was the chief architect of Austrian foreign policy, and so set political objectives while Radetzky was an accomplished military organizer and strategic planner. Schwarzenberg was both a soldier and a diplomat, and so understood both realms, forming the crucial link between two colleagues whose specialized talents overshadowed his own. As this thesis studies military changes, Radetzky's work receives the most attention, but the context for these reforms is important.

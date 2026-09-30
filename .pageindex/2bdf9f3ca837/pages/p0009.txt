@@ -1,0 +1,435 @@
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W3104299401",
+      "doi": "10.3386/w19750",
+      "title": "Culture and Institutions",
+      "year": 2013,
+      "type": "report",
+      "venue": "National Bureau of Economic Research",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Alberto Alesina",
+          "id": "https://openalex.org/A5083494527",
+          "institutions": [
+            "National Bureau of Economic Research",
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Paola Giuliano",
+          "id": "https://openalex.org/A5044204764",
+          "institutions": [
+            "National Bureau of Economic Research",
+            "Harvard University"
+          ]
+        }
+      ],
+      "cited_by_count": 74,
+      "is_oa": true,
+      "oa_pdf": "https://doi.org/10.3386/w19750",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 235,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W1947199445",
+      "doi": "10.1017/s0022050700077512",
+      "title": "The Political Economy of Public Finance and the Industrialization of Prussia, 1815–1866",
+      "year": 1966,
+      "type": "article",
+      "venue": "The Journal of Economic History",
+      "venue_issn": "0022-0507",
+      "authors": [
+        {
+          "name": "Richard Tilly",
+          "id": "https://openalex.org/A5085917889",
+          "institutions": [
+            "University of Münster",
+            "Yale University"
+          ]
+        }
+      ],
+      "cited_by_count": 74,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 24,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2062793558",
+      "doi": "10.2307/1865228",
+      "title": "Regional Variations in the Economic Development of Germany during the Nineteenth Century",
+      "year": 1977,
+      "type": "article",
+      "venue": "The American Historical Review",
+      "venue_issn": "0002-8762",
+      "authors": [
+        {
+          "name": "Udo Heyn",
+          "id": "https://openalex.org/A5090374396",
+          "institutions": []
+        },
+        {
+          "name": "Frank B. Tipton",
+          "id": "https://openalex.org/A5078764859",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 74,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2139841417",
+      "doi": "10.1596/1813-9450-6510",
+      "title": "Do Elected Councils Improve Governance? Experimental Evidence on Local Institutions in Afghanistan",
+      "year": 2013,
+      "type": "report",
+      "venue": "World Bank, Washington, DC eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Andrew Beath",
+          "id": "https://openalex.org/A5091153897",
+          "institutions": []
+        },
+        {
+          "name": "Fotini Christia",
+          "id": "https://openalex.org/A5081889692",
+          "institutions": [
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "name": "Рубен Ениколопов",
+          "id": "https://openalex.org/A5055036156",
+          "institutions": [
+            "Institut de Política Econòmica i Governança"
+          ]
+        }
+      ],
+      "cited_by_count": 71,
+      "is_oa": true,
+      "oa_pdf": "https://hdl.handle.net/10986/15869",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 53,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W620643847",
+      "doi": "10.13109/9783666359514",
+      "title": "Wirtschaft und Gesellschaft im Zeitalter der Industrialisierung",
+      "year": 1972,
+      "type": "book",
+      "venue": "Vandenhoeck & Ruprecht eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Wolfram Fischer",
+          "id": "https://openalex.org/A5076155232",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 71,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W1568502276",
+      "doi": "10.1017/cbo9780511664793.003",
+      "title": "France and the Failure to Modernize Macroeconomic Institutions",
+      "year": 2001,
+      "type": "book-chapter",
+      "venue": "Cambridge University Press eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Eugene N. White",
+          "id": "https://openalex.org/A5078866569",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 68,
+      "is_oa": true,
+      "oa_pdf": "http://www.sas.rutgers.edu/virtual/snde/wp/1999-04.pdf",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 69,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2902696089",
+      "doi": "10.1016/j.jdeveco.2019.102382",
+      "title": "Farewell to confucianism: The modernizing effect of dismantling China's imperial examination system",
+      "year": 2019,
+      "type": "article",
+      "venue": "Journal of Development Economics",
+      "venue_issn": "0304-3878",
+      "authors": [
+        {
+          "name": "Ying Bai",
+          "id": "https://openalex.org/A5063179803",
+          "institutions": [
+            "Chinese University of Hong Kong"
+          ]
+        }
+      ],
+      "cited_by_count": 67,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 82,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W4200536039",
+      "doi": "10.1146/annurev-polisci-051120-104325",
+      "title": "Historical Persistence",
+      "year": 2021,
+      "type": "review",
+      "venue": "Annual Review of Political Science",
+      "venue_issn": "1094-2939",
+      "authors": [
+        {
+          "name": "Alexandra Cirone",
+          "id": "https://openalex.org/A5040551748",
+          "institutions": [
+            "Cornell University"
+          ]
+        },
+        {
+          "name": "Thomas B. Pepinsky",
+          "id": "https://openalex.org/A5082264601",
+          "institutions": [
+            "Cornell University"
+          ]
+        }
+      ],
+      "cited_by_count": 64,
+      "is_oa": true,
+      "oa_pdf": "https://doi.org/10.1146/annurev-polisci-051120-104325",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 109,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W629747888",
+      "doi": "10.4324/9781315836928",
+      "title": "The Origins of the French Revolutionary Wars",
+      "year": 2016,
+      "type": "book",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "T. C. W. Blanning",
+          "id": "https://openalex.org/A5096944249",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 63,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W3168730383",
+      "doi": "10.1086/714273",
+      "title": "Domains of Diffusion: How Culture and Institutions Travel around the World and with What Consequences",
+      "year": 2021,
+      "type": "article",
+      "venue": "American Journal of Sociology",
+      "venue_issn": "0002-9602",
+      "authors": [
+        {
+          "name": "Andreas Wimmer",
+          "id": "https://openalex.org/A5101414320",
+          "institutions": [
+            "Columbia University"
+          ]
+        }
+      ],
+      "cited_by_count": 62,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 161,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2030666655",
+      "doi": "10.2307/1859347",
+      "title": "Financial Institutions and Industrialization in the Rhineland, 1815-1870",
+      "year": 1967,
+      "type": "article",
+      "venue": "The American Historical Review",
+      "venue_issn": "0002-8762",
+      "authors": [
+        {
+          "name": "Arnold H. Price",
+          "id": "https://openalex.org/A5018369894",
+          "institutions": []
+        },
+        {
+          "name": "Richard Tilly",
+          "id": "https://openalex.org/A5085917889",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 62,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2107271333",
+      "doi": "10.1017/s0022050714000898",
+      "title": "Endogenous Formation of Free Trade Agreements: Evidence from the Zollverein's Impact on Market Integration",
+      "year": 2014,
+      "type": "article",
+      "venue": "The Journal of Economic History",
+      "venue_issn": "0022-0507",
+      "authors": [
+        {
+          "name": "Wolfgang Keller",
+          "id": "https://openalex.org/A5111027708",
+          "institutions": [
+            "Center for Economic and Policy Research"
+          ]
+        },
+        {
+          "name": "Carol H. Shiue",
+          "id": "https://openalex.org/A5005315915",
+          "institutions": [
+            "Center for Economic and Policy Research"
+          ]
+        }
+      ],
+      "cited_by_count": 61,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 59,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2133380042",
+      "doi": "10.1017/s0022050712000320",
+      "title": "Agricultural Productivity Across Prussia During the Industrial Revolution: A Thünen Perspective",
+      "year": 2012,
+      "type": "article",
+      "venue": "The Journal of Economic History",
+      "venue_issn": "0022-0507",
+      "authors": [
+        {
+          "name": "Michael Kopsidis",
+          "id": "https://openalex.org/A5065734990",
+          "institutions": [
+            "Leibniz Institute of Agricultural Development in Transition Economies"
+          ]
+        },
+        {
+          "name": "Nikolaus Wolf",
+          "id": "https://openalex.org/A5025669333",
+          "institutions": [
+            "Humboldt-Universität zu Berlin"
+          ]
+        }
+      ],
+      "cited_by_count": 60,
+      "is_oa": true,
+      "oa_pdf": "https://doi.org/10.18452/27876",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 83,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W1982220798",
+      "doi": "10.2307/1848227",
+      "title": "Napoleon's Satellite Kingdoms",
+      "year": 1966,
+      "type": "article",
+      "venue": "The American Historical Review",
+      "venue_issn": "0002-8762",
+      "authors": [
+        {
+          "name": "Robert B. Holtman",
+          "id": "https://openalex.org/A5018271956",

@@ -1,0 +1,21 @@
+             Table 7: Primary Deficit and Real GDP Growth, 1740-1840
+
+                                      Primary deficit   Real GDP growth
+
+                 Mean                      2.57              1.46
+                 Maximum                  10.59              10.86
+                 Minimum                   -9.78             -5.36
+                 Standard Deviation        4.31              3.24
+                 Observations              101                101
+
+
+
+
+* Yield equals the coupon of the 3% consols divided by their market price.
+** Average price of consols for the month before terms of loan are fixed
+Source: Parliamentary Papers (BPP, 1898), Grellier (1810, 1812), authors’ calculations.
+
+
+
+
+                                           40

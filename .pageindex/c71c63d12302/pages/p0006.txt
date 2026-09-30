@@ -1,0 +1,44 @@
+
+
+---
+
+## §6（⑤）撷取与动员上限：**执行能力上限的正式表述**
+
+### 6.1 唯一连续可观测的执行强度指标：走私保费
+
+| 时期／地段 | 保费（占货值）| 来源 |
+|---|---|---|
+| 莱茵关税线设立半年后（1798-12，Wirion报告）| **6%** | Rowe 印p.189 n.6 |
+| 莱茵 1800 | **6%** | Rowe 印p.195 n.27 |
+| 莱茵 1801–02 | **10%** | 同上 |
+| 执政府期（Eichhoff 备忘录）| **10、15，甚至20%** | Rowe 印pp.188–189 n.5 |
+| 莱茵 1806-10 → 1808-06 | **26%** | Rowe 印p.195 n.27 |
+| 莱茵 1809-07 | **≈30%** | 同上 |
+| **莱茵 1809年末 → 1811** | **≈50%** | 同上 |
+| 法国边界一般（1809）| **30%** | Heckscher 印p.194 |
+| 斯特拉斯堡顶级承保人（1809）| **40–50%** | 同上 |
+| **Rees–Bremen 新关线（1809设）** | **6–8%** | Rowe n.26＋Heckscher 印p.194（两源） |
+| 荷尔斯泰因→汉堡（1809）| 与上同率 | Heckscher 印p.194 |
+| 海岸→杜塞尔多夫／美因茨／法兰克福（1810-09警务简报，保险＋运输合计）| **＋50%** | Rowe 印pp.197–198 n.34 |
+
+**Rowe给出的成功判据**（印p.195）：
+> "A lower threshold for judging the intended 'success' of Napoleon's Continental System will do; **insurance rates pushed to a level where non-French wares simply became uncompetitive.**"
+
+### 6.2 能力上限的三条定量命题
+
+**命题1（执行的边际产出在≈50%处饱和）。** 编制自1808年25,700增至1812年35,500（＋38%），并在1809–11年间叠加了：Rees–Bremen线、荷兰并入、汉萨与北海岸并入、达武第三军全军缉私、枫丹白露刑罚暴增、cours prévôtales。**莱茵保费自1809年末的50%再未被推高**；而1809年新建的Rees–Bremen线只能把保费推到 **6–8%**——**新建一条线的边际执行力几乎为零**（这条线的失败Rowe明确归因于"devoid of any major natural obstacles"）。**→ 执行能力的上限不是人数，是地形与本地合作**。
+
+**命题2（两渠道定理）。**
+- **批发渠道**（整船整车、有合同有承保）可被定价到 AVE **50–62%**（保费50% ＋ MODEL绕道运输附加5/12/25%）。
+- **零售渗透渠道**（filtration）：1810年8月汉堡—阿尔托纳城门查获 **9,300公斤**殖民品，Marzagalli据档案判断"this quantity seems to have represented **at most five percent** of the quantity smuggled"（p.69）→ 该门当月通过量 **≥186吨**。而Rist的描述是海关"每三四个背货人抓一个"（Heckscher 印p.190）——**两者不矛盾而是不同口径**：按人次高、按重量低，因为"a dense column was formed, some heavily armed persons in the van were sacrificed, and the others burst through like a whirlwind"。
+- **推论**：批发渠道供给一个大陆，零售渠道供给一个城市。机器能关掉前者的**大部分**，关不掉后者的**任何部分**。它因此**改变贸易的规模结构与地理，而不改变其存在**。
+- Ellis对两种形态有同期官方命名：1808-05-06 Magnier-Grandprez 报告称下莱茵省是 *contrebande par filtration*（渗透式），上莱茵省则是"a much more organized business, practised very often by roving bands of twenty or thirty racketeers"（Ellis 1981 印p.204）。
+
+**命题3（上限的位置决定了政策的全部形态）。** 把命题1的上限（AVE 50–62%）放到需求曲线上：
+- **英国工业品**：大陆有成本相近的替代者（萨克森、瑞士、阿尔萨斯、比利时），成本劣势估计在 **35–60%**（MODEL阈值区间）。50–62%的AVE**落在或高于**这一阈值 → 可以排除。史实兑现：1811年夏起莱比锡集市英货"practical cessation"（Heckscher 印p.230）；Rowe亦称1810–11年"it became more difficult to smuggle wares across the frontier"。
+- **殖民品**：无替代者（靛蓝代用失败、甜菜糖1813年实产仅110万公斤），消费者愿付 **300–800%** 的溢价（巴黎糖价为伦敦的4–9倍）。50–62%的AVE**远低于**阈值 → 不可能排除。
+- **∴ 特里亚农-枫丹白露的二分法（禁工业品／重税殖民品）不是拿破仑的妥协，而是对机器实际能力边界的精确描摹。** Heckscher自己也说，禁品焚毁这一半"the reason is the total absence of pecuniary interest, public and private, in obedience to the latter regulations"（印p.228），而财政这一半"formed beyond comparison the most effective half of the new system"（印p.221）——他把因果讲反了一半：不是财政动机腐蚀了封锁，而是**封锁的能力边界迫使它财政化**。
+
+### 6.3 Ellis法则：效力与战争成反比
+
+> "One general 'rule' is that the efficacy of the Blockade stood in **inverse ratio** to the extent of Napoleon's military involvements on the Continent at different times. When he was on campaign and needed his troops, customs surveillance tended to lapse and smuggling became easier. When he was at peace with Continental states, exception made for Spain after 1808, surveillance was usually tighter, never more so than in the newly annexed parts of northern Europe in 1810-12."（Ellis 1981 印p.202）

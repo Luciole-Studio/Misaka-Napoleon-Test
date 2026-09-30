@@ -1,0 +1,48 @@
+GRP : revues JOB : num121⊕xml DIV : 10⊕LevyGarbouaMonnet p. 7 folio : 41 --- 5/4/016 --- 16H4
+
+
+
+
+                              LES TAUX D’INTÉRÊT EN FRANCE : UNE PERSPECTIVE HISTORIQUE
+
+
+
+                Une autre différence notable est que les taux à court terme anglais
+             avaient atteint un minimum, proche du niveau actuel, dans les années
+             1930, à la suite de la dévaluation de la livre sterling et de la sortie de
+             l’étalon-or en 1931 (la France n’abandonna l’étalon-or qu’en 1936,
+             après une politique déflationniste en 1935). Les années 1930 en Angle-
+             terre, caractérisées par une inflation très faible (cf. graphique 4) et des
+             taux très bas provoqués par une politique monétaire de lutte contre la
+             déflation, constituent donc un précédent singulier à la situation
+             actuelle (Middleton, 2010).
+
+                                                   Graphique 4
+                               Taux d’inﬂation, France et Angleterre, 1900-2014
+
+
+
+
+                                                                                                41
+
+
+             Sources : Piketty (2013) ; Insee.
+
+                                                         La pente des taux
+                Le graphique 5 (infra) superpose les taux longs avec un taux de
+             marché interbancaire (et non plus le taux directeur de la banque
+             centrale comme sur le graphique 2 supra) à partir de 1870. Le graphi-
+             que 6 (infra) calcule alors la « pente » de la courbe des taux (taux long
+             moins taux court) sur toute la période (avec des interruptions de séries
+             pendant les périodes des guerres mondiales).
+                La pente ne laisse pas apparaître de schéma très stable. Même en
+             éliminant le bruit des fluctuations de courte période, il est difficile de
+             tirer des conclusions structurelles de l’observation des courbes : tout au
+             plus peut-on pressentir qu’en moyenne, la pente a légèrement crû après
+             la Seconde Guerre mondiale par rapport à son niveau du XIXe siècle, et
+             que la différence entre taux long et taux court apparaît positivement
+             corrélée à l’inflation, surtout après la Seconde Guerre mondiale (cf. gra-
+             phique 7 infra). L’inflation, en exacerbant les anticipations de l’infla-
+             tion future, favorise la différence entre taux long et taux court. Cette
+             corrélation apparaît visuellement plus sensible pour l’Angleterre,
+             d’après le graphique 8 (infra), mais il s’agit là d’un effet d’échelle, et elle

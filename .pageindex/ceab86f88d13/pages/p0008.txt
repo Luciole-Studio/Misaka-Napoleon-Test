@@ -1,0 +1,46 @@
+GRP : revues JOB : num121⊕xml DIV : 10⊕LevyGarbouaMonnet p. 6 folio : 40 --- 5/4/016 --- 16H4
+
+
+
+
+                                                            REVUE D’ÉCONOMIE FINANCIÈRE
+
+
+
+                       Dans son ouvrage sur le livret A, Georges Constantin fait remarquer
+                       que le taux réel de ce livret a été systématiquement négatif de 1958 à
+                       1985. Nous verrons par la suite que ce n’était pas toujours le cas pour
+                       les taux de long terme.
+                          Sur une longue période, le taux du marché monétaire est demeuré
+                       proche de celui de la banque centrale. Normalement situé en dessous
+                       de ce dernier, il fut supérieur au taux d’escompte de la Banque de
+                       France pendant la période 1945-1971 au cours de laquelle les banques
+                       avaient toujours avantage à se refinancer auprès de la Banque de France
+                       (Monnet, 2014).
+                          La comparaison avec l’Angleterre (cf. graphique 3), seul pays pour
+                       lequel il existe des taux nominaux équivalents sur une longue période, est
+                       instructive. On constate d’abord la différence historique – particulière-
+                       ment frappante pendant l’étalon-or – entre le modèle de la Banque de
+                       France qui maintenait des taux stables et celui de la Banque d’Angleterre
+                       qui modifiait très fréquemment son taux (Bazot et al., 2014). Cette
+                       différence de modèle de banque centrale n’entraîne cependant pas de
+                       grande différence sur l’évolution des taux à long terme. Comme dans le
+                       cas de la France, la moyenne des taux est relativement stable jusqu’à la
+                       Seconde Guerre mondiale. C’est seulement ensuite que le lien tenu entre
+     40
+                       taux nominaux et taux d’inflation apparaît, atteignant un plafond en
+                       1979-1980 à l’apogée de la Grande Inflation et un plancher aujourd’hui.
+
+                                                              Graphique 3
+                                            Taux d’intérêt nominaux, Angleterre, 1800-2015
+
+
+
+
+                                      ère
+                       Sources : cf. 1 partie de l’article intitulée « Présentation des données » ; Bank of England.
+
+                          Par rapport à la France, on voit que le rendement des dépôts anglais
+                       a été moins pénalisé par rapport au taux interbancaire, mais la compa-
+                       raison demeure indirecte puisqu’il s’agit d’un taux libre dans le cas
+                       anglais et d’un taux régulé dans le cas français.

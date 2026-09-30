@@ -1,0 +1,69 @@
+
+
+12.9
+
+Navarra
+
+224,443
+
+11,438
+
+0.051
+
+45,112
+
+30,435
+
+239,121
+
+146,78
+
+6.5
+
+Valencia
+
+810,520
+
+13,129
+
+0.016
+
+237,989
+
+242,248
+
+806,260
+
+−4,260
+
+−0.5
+
+TOTALS
+
+8,855,612
+
+289,357
+
+0.033
+
+2,598,188
+
+2,500,083
+
+8,953,716
+
+98,104
+
+1.1
+
+Source: Courtesy David Sven Reher on basis of author’s unweighted sample
+
+* See Table 5.2 for original figures
+
+Lacking a trustworthy (or any) figure for regional populations in 1800 these have had to be estimated on the basis of the unweighted sample;* on them depends the all-important population figure at the start of the war. The estimates run from mid-year to mid-year; births and deaths are of calendar years. Another objection, already referred to in Chapter 19, is that the sample did not account for inhabitants missing – through flight, imprisonment or for whatever other cause. For all of these reasons, the most that can be claimed for the figures advanced here is that they represent gross approximations.
+
+That said, the weighted data unambiguously demonstrates that over the nine regions as a whole the pre-war disasters were more destructive of population than the war. This is most graphically illustrated by the potential population losses: pre-war 350,000 to 510,000 people (4.0 to 5.8 percent of the regions’ 1787 population) can be estimated as missing compared to 215,000 to 375,000 (2.4 to 4.2 percent) in the war. The broad range of these losses is explicable by the method used in their calculation: two different growth rates which, had there been neither war nor pre-war demographic disasters, could have applied: a moderate 0.5% per year (near the eighteenth-century average growth rate) and a brisk 0.75% (close to that after the war). Using both these rates to compare the ‘expected’ population with the actual weighted sample provides a minimum and maximum range of the numbers of missing population.
+
+While pre-war the nine regions experienced overall a small negative growth rate (as can be seen in Table 5.1A), the war ended with an also small but positive rate (Table 5.2A). However, the latter is distorted by the fact that the regions with smaller populations which were particularly punished by the conflict – Cataluña and Extremadura especially – are ‘outweighed’ by more populous regions (Galicia and Castilla la Vieja) which experienced positive wartime growth. As the tables below indicate, wide regional disparities existed during the war as they had pre-war.
+
+Taken together, the first fourteen years of the new century saw a loss to the country of between 560,000 and 885,000 people (six to ten percent of the 1787 regions’ weighted total). The latter figure is not far from the 800,000 estimated population loss for the period 1797–1814 proposed by the Spanish demographer, Vicente Pérez Moreda, lending the sample a certain credibility.† This highly negative situation was due as much to declines in the expected numbers of births as to adult deaths. The results of the downturn in births persisted throughout much of the nineteenth century and was especially visible in the decline of births of potential children of those who were not born in the 1800–1814 period.

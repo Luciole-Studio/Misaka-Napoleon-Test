@@ -1,0 +1,25 @@
+
+
+## ② 法律、司法与行政渗透
+
+【锚点】渗透深度为并合省外圈之最：Gogel税制1806-01生效（全国统一税制+按收入比例+地籍委员会+国家税收官僚，Grab pp.66–67）；1807地方政府法（11省landrost=省长；>5000人城市设市长；市镇财政依赖中央）；1806学校法（教师资格考试+56名督学；"By 1811...the most effective and comprehensive system of elementary education in Europe"—Schama, via Grab p.69 n.21）；1809统一民法典（**删除拿破仑法典的民事婚姻与离婚**以适应荷兰教俗，Grab pp.69–70）；1809-03统一度量衡；1810刑法典（修订版）；1811-01-01法国法律全面生效+户籍登记制（Verheijen ch.7）。
+【锚点】行政効率获皇帝本人认证：1810-07致Lebrun«désirant conserver l'administration hollandaise, qui est plus économique que la nôtre»（82a063e7e022.md L999）。
+【机制】"制度接近性"机制：荷兰1795–1810已自发完成中央集权化的大半（Joor p.185："it was under successive Bonapartist regimes that the nation-state was shaped"），故法国法制移植的边际阻力极低——抵抗不来自制度差，而来自撷取增量。适用条件：受体已有财政-行政现代化内生议程（Gogel派）。
+【推演】S6下荷兰七省的"法制整合"在3–5年内技术上完成度可达比利时水平（比利时1795–1814为内圈成功案，Grab ch.5）；但**法制整合≠财政净贡献≠政治依附**，三者在荷兰被tiercé与征兵拆开（见③⑤）。（高置信其一，中置信其三）
+
+## ③ 财政、货币与金融
+
+【锚点】核心数列：
+- 国债：**1795年7.60亿盾→1803年11.26亿盾**（Kossmann，via Grab p.65 n.13）；兼并时全债年息折**78m法郎**（≈37m盾）（Marion IV p.325，`downloads/F4_Marion_IV_1925.txt` L17036–17046）。
+- **Tiercé**：兼并后«la dette considérable, 78 millions, fut répudiée pour les deux tiers mais inscrite pour un tiers à la charge du Trésor français, qui eut alors à payer outre 62 millions de rentes françaises 26 de rentes hollandaises»（Marion IV p.325）。Grab p.72："annul two-thirds of the interest on Dutch public debt hurt people who had invested in it"（引Schama, "The Exigencies of War" p.128）。Marion脚注的法方开脱口径（"荷兰本有巨额赤字、本已无力偿债"）与荷兰食利者的实际损失并列，本卡不采其为中性事实。
+- 拿破仑的需求门槛：1810-07-25致Mollien——荷兰须缴足以覆盖"le tiers de sa dette"（28m法郎）＋文武养老金＋民政（«puisque tout cela ne me rend rien»）＋陆军10m盾＋海军6m盾（≈32m法郎），合计«une soixantaine de millions»/年（82a063e7e022.md L1927段；F4已标"目标非实收"）。对照：1812年帝国预期荷兰七省毛收入66.5m法郎（Marion p.321引AF IV 1072），而Marion总评并合省"最终花掉的比缴上来的多"。
+- 金融市场：1803年阿姆斯特丹仍是全球支付体系的中心节点——路易斯安那让售的融资由Hope（阿姆斯特丹）+Baring（伦敦）财团执行，法国政府对美债券权利整体让渡给Baring/Hope，拿破仑收52m法郎周付汇票链、8m佣金（Mark Hay, *Transatlantic Finance in the Age of Revolutions*, Palgrave 2024，出版摘要与Repec章节摘要层；Buist, *At Spes non Fracta*, 1974全书为Hope标准档案研究，本卡仅取其Springer页框架，`downloads/pages/79cc75c4db73.md`）。**即战争中的拿破仑国家建设本身依赖阿姆斯特丹-伦敦跨敌国财团**。
+- 兼并后皇帝立刻召用Gogel：1810-07-25 Mollien信P.S.«L'ancien ministre des finances de Hollande, Gogel, est arrivé; voyez-le et amenez-le-moi ce soir à Saint-Cloud»——帝国需要荷兰技术官僚来消化荷兰。
+【机制】"信用没收悖论"：对一个食利者社会（国债广泛分散于市民阶层、慈善基金、孤儿院），削债三分之二等于对城市中产一次性征收其金融财产的2/3收益流——这是**面向未来的信用自杀**：它使荷兰资本此后既无能力也无意愿认购任何法国主导的公共信用。机制类比：法国自身1797年deux tiers破产后信用长期瘫痪（Marion IV ch.1；F4已用）。适用条件：债权人集中于被兼并方本土。
+【推演】B6/S6变体下的财政菜单（中置信）：
+- (a) 史实版（tiercé+海关直管）：年得约"三分之一债息的税源"+关税罚没一次性收入（1810非常关税61m法郎中大宗即荷兰存货50%税，Marion p.306，F4已核），代价=金融合作归零+骚乱；
+- (b) 全额承债版（不tiercé）：需法国国库每年多担52m法郎——超过1810年法国全部rentes（62m）的八成，**财政上不可能**，这就是tiercé的算术必然性；
+- (c) 藩属维持版（路易续位+荷兰自付债息）：荷兰债息占其岁入比例已使其"deficit considérable"（Marion注），但荷兰人自己的破产由荷兰议会处理（史实：路易政府已两度濒临强制减息，Schama via Grab叙述），法国不背污名；
+- (d) **金融合作版（S1/S2专属）**：和平+贸易恢复→阿姆斯特丹资本市场为法国及其藩属发债（Hope对西班牙、俄国、葡萄牙的既有业务线，Buist书目结构），法国获得的贴现能力远超28m/年的强制汲取。——**这是荷兰对法国的最大潜在贡献，且只在不兼并、不封锁的情景里存在。**
+
+## ④ 经济：产出、贸易、资源

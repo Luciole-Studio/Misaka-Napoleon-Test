@@ -1,0 +1,36 @@
+---
+source_url: "https://napoleon-histoire.com/note-sur-le-compte-des-finances-de-lexercice-an-xiv-et-1806/"
+final_url: "https://napoleon-histoire.com/note-sur-le-compte-des-finances-de-lexercice-an-xiv-et-1806/"
+provider: "exa"
+text_sha256: "63d625c273e88bb9953bd79663a12374b7fa38928063a0bb8187896d6e5e0be7"
+title: "Note sur le compte des finances de l'exercice An XIV et 1806 - Histoire du Consulat et du Premier empire"
+content_kind: "page_text"
+---
+
+Note sur le compte des finances de l'exercice An XIV et 1806 - Histoire du Consulat et du Premier empire
+
+# Note sur le compte des finances de l’exercice An XIV et 1806
+
+ Robert 4 août 2019 
+
+ Nicolas François Mollien 
+
+Finkenstein, 29 avril 1807
+
+Le chapitre premier n’est pas satisfaisant : il est trop court. La loi du budget de 1806 contient, pour la seule matière de ce chapitre, onze articles de l’exécution desquels il faut que le ministre rende compte.
+
+L’article 3 de cette loi porte : « Cette somme (soixante millions) sera réalisée par des bons de la caisse d’amortissement, que le trésor public est autorisé à donner en payement des ordonnances des ministres pour le service desdites années, en conséquence des crédits qui leur seront ouverts par des décrets spéciaux. »
+
+Il faut faire connaître d’abord la distribution générale des soixante millions entre les différents ministères et les différents exercices, ensuite la quantité des bons qui ont été créés et leur distribution entre les différents ministères, enfin, dans une troisième colonne, le montant de ce qui reste en bons à chaque ministère pour chaque exercice.
+
+L’état A n’explique point assez ce qu’il veut présenter; cela est si vrai, que je suis moi-même incertain sur l’application à en faire. Qu’est-ce que c’est que ces 15 549 367 francs ? Sont-ce des payements faits en argent, ou des régularisations, ou des payements en bons de la caisse d’amortissement ? je l’ignore. Cependant on a dû faire des payements de ces trois espèces. Il faut donc qu’un tableau fasse connaître combien on a payé en 1806 sur les exercices IX, X, XI et XII.
+
+1. en régularisations, c’est-à-dire en payements déjà faits mais qu’on a régularisés;
+2. en argent comptant;
+3. en bons de la caisse d’amortissement.
+
+Le Chapitre II n’est point satisfaisant. On y lit « que les dépenses de l’exercice an XIII avaient été évaluées à six cent quatre-vingt-quatre millions, mais qu’ayant excédé cette estimation, elles ont été augmentées de vingt millions par un décret impérial. ». Comment un décret impérial a-t-il pu augmenter le crédit d’un exercice ? Ces vingt millions ont-ils été pris sur les soixante millions de bons de la caisse d’amortissement, que la loi a mis en bloc à la disposition du gouvernement ?
+
+L’état B des Produits et Revenus de l’an XIII s’éloigne de la forme reçue, qu’il faudrait cependant suivre constamment. Il est d’ailleurs composé de chiffres différents de ceux que je vois dans l’état E du compte de l’an Xlll, et qui sont portés dans la loi.
+
+On met dans l’état B 312 375 954 francs pour les Contributions directes, tandis que dans l’état E on ne porte que 31 649 196 fr.

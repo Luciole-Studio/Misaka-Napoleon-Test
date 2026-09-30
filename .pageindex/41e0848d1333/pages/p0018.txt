@@ -1,0 +1,64 @@
+However, the treatment arguably is spatially clustered, as regions close to France have been more likely
+
+to be treated.26 That implies that the complete sample specifications compare possibly heterogeneous
+
+regions, geographically as well as culturally. Comparing a region located at the Baltic Sea with a region
+
+in the South-West of Germany is problematic in several ways. Cultural differences might have been
+
+fundamental, in a sense that those regions started out with different levels of social capital in the early
+
+19th century. Differences in local characteristics, such as of geographical nature, e.g. the access to the
+
+coast, and the paths of economic development undertaken are further potential influences of cooperation.
+
+I would therefore like to compare more homogeneous, that is more closely located, regions.
+
+I therefore restrict the sample to a border sample of individuals living in regions within a 50 km corridor
+
+from the border, separating regions that applied the Code Civil for more than 90 years from those that
+
+applied in only few year. This sample thus reduces heterogeneity in fundamental pre-treatment char-
+
+acteristics, as closely located individuals can - in the absence of a treatment - be expected to express
+
+relatively similar norms and values.
+
+The border sample has two further interesting features, as it first defines the treatment only for regions
+
+that adopted the Code Civil for a long time. If the institutional and legal reform had an effect on culture,
+
+a slowly moving and hard to change variable, it is more likely that the effect of the Code Civil needed
+
+several years to disperse. Indeed, Guiso, Sapienza, and Zingales (2008b) estimate, that a shock requires
+
+about 75 years (2 to 3 generations) to have a long-lasting effect on social capital. The timespan of
+
+the longest adoption of the Code in the sample, more than 90 years, fits very well to this estimation.
+
+Furthermore, the border specification allows to analyze effects within current Federal States. Being a
+
+federal republic, Germany has transferred some of its administrative duties to the sixteen federal states
+
+(Länder) that are, for example, in charge of the education system, but more relevant in this context the
+
+police and court system. It is possible that current differences in the functioning of local institutions
+
+influence social capital, and thus potentially bias the results.
+
+
+
+                                                  3.5     Border Effects
+
+The border sample analysis compares regions having applied the Code Civil on the East (left) side of the
+
+border with regions having used either common law or the ALR on the West (right) side of the border. On
+
+both sides of the border those regions are included in the border sample whose centroids have a maximal
+
+   26 In the complete sample I partially account for this by controlling for the distance to Paris and measures for the longitude
+
+and latitude.
+
+
+                                                              16

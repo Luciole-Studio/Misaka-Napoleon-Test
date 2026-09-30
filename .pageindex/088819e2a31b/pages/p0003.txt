@@ -1,0 +1,49 @@
+
+
+## subsample::drop_general_negative (n=31)
+- 基率 0.71；常数基准准确率 0.71
+- 留一行：覆盖 0.452，判定集准确率 0.643，全样本正确率 0.29
+- 留一地区簇：覆盖 0.419，判定集准确率 0.692，全样本正确率 0.29
+- 指定反证（留一簇）：未通过
+  - ES1808: {'coded_truth': 1, 'pred': 1, 'train_n': 8, 'train_consistency': 0.875, 'decided': True, 'passed': True}
+  - TY1809: {'coded_truth': 1, 'pred': 1, 'train_n': 9, 'train_consistency': 0.889, 'decided': True, 'passed': True}
+  - RH1802: {'coded_truth': 0, 'pred': None, 'train_n': 2, 'train_consistency': 0.5, 'decided': False, 'passed': False}
+  - BE1802: {'coded_truth': 0, 'pred': None, 'train_n': 3, 'train_consistency': 0.333, 'decided': False, 'passed': False}
+  - BE1798: {'coded_truth': 1, 'pred': None, 'train_n': 0, 'train_consistency': None, 'decided': False, 'passed': False}
+  - _guard_BE1798_mass_coded_1: True
+
+## subsample::drop_exit_context (n=30)
+- 基率 0.6；常数基准准确率 0.6
+- 留一行：覆盖 0.533，判定集准确率 0.812，全样本正确率 0.433
+- 留一地区簇：覆盖 0.467，判定集准确率 0.786，全样本正确率 0.367
+- 指定反证（留一簇）：未通过
+  - ES1808: {'coded_truth': 1, 'pred': 1, 'train_n': 7, 'train_consistency': 0.857, 'decided': True, 'passed': True}
+  - TY1809: {'coded_truth': 1, 'pred': 1, 'train_n': 8, 'train_consistency': 0.875, 'decided': True, 'passed': True}
+  - RH1802: {'coded_truth': 0, 'pred': 0, 'train_n': 5, 'train_consistency': 0.2, 'decided': True, 'passed': True}
+  - BE1802: {'coded_truth': 0, 'pred': None, 'train_n': 3, 'train_consistency': 0.333, 'decided': False, 'passed': False}
+  - BE1798: {'coded_truth': 1, 'pred': None, 'train_n': 0, 'train_consistency': None, 'decided': False, 'passed': False}
+  - _guard_BE1798_mass_coded_1: True
+
+## subsample::post1800_only (n=27)
+- 基率 0.593；常数基准准确率 0.593
+- 留一行：覆盖 0.519，判定集准确率 0.786，全样本正确率 0.407
+- 留一地区簇：覆盖 0.444，判定集准确率 0.75，全样本正确率 0.333
+- 指定反证（留一簇）：未通过
+  - ES1808: {'coded_truth': 1, 'pred': 1, 'train_n': 4, 'train_consistency': 1.0, 'decided': True, 'passed': True}
+  - TY1809: {'coded_truth': 1, 'pred': 1, 'train_n': 5, 'train_consistency': 1.0, 'decided': True, 'passed': True}
+  - RH1802: {'coded_truth': 0, 'pred': 0, 'train_n': 5, 'train_consistency': 0.2, 'decided': True, 'passed': True}
+  - BE1802: {'coded_truth': 0, 'pred': None, 'train_n': 3, 'train_consistency': 0.333, 'decided': False, 'passed': False}
+  - BE1798: {'status': 'absent_from_subsample'}
+  - _guard_BE1798_mass_coded_1: True
+
+## subsample::drop_ZH1804 (n=34)
+- 基率 0.618；常数基准准确率 0.618
+- 留一行：覆盖 0.529，判定集准确率 0.778，全样本正确率 0.412
+- 留一地区簇：覆盖 0.5，判定集准确率 0.824，全样本正确率 0.412
+- 指定反证（留一簇）：未通过
+  - ES1808: {'coded_truth': 1, 'pred': 1, 'train_n': 8, 'train_consistency': 0.875, 'decided': True, 'passed': True}
+  - TY1809: {'coded_truth': 1, 'pred': 1, 'train_n': 9, 'train_consistency': 0.889, 'decided': True, 'passed': True}
+  - RH1802: {'coded_truth': 0, 'pred': 0, 'train_n': 4, 'train_consistency': 0.0, 'decided': True, 'passed': True}
+  - BE1802: {'coded_truth': 0, 'pred': None, 'train_n': 3, 'train_consistency': 0.333, 'decided': False, 'passed': False}
+  - BE1798: {'coded_truth': 1, 'pred': None, 'train_n': 0, 'train_consistency': None, 'decided': False, 'passed': False}
+  - _guard_BE1798_mass_coded_1: True

@@ -1,0 +1,20 @@
+
+
+Figure 4
+
+STOCK PRICE BANK OF ENGLAND, DEFLATED BY AGIO, JANUARY 1797=100, JANUARY 1796 TO DECEMBER 1821
+
+Notes: The solid right and left lines mark the suspension and the decision to end the latter in February 1797 and May 1819, respectively. The dashed line depicts the beginning of renewed hostilities between Britain and France in May 1803.
+Sources: Neal 1990.
+
+The Bank's stock price reflected changes in its expected cash flows to share-holders. As the latter hinged largely on the management of public credit, times of increasing debt—such as war times—were profitable for the Bank: beyond the interest the Treasury paid on the majority of loans with the Bank, the latter also charged management fees for handling the public debt. Billing £450 per million of public debt, the Bank's income increased automatically when war debts soared.Footnote 13
+
+In June 1815 with the news of the victory at Waterloo, the Bank's income and stock price decreased; this was also the case with the decision to resume the gold standard in May 1819 (solid right line in Figure 4). Yet, these did not fall back to levels usual before the suspension of payments. Despite revised management fees and falling discounts, the sheer size of the public debt assured a comfortable level of revenue to the Bank. Parliament's refusal to maintain the income tax certainly helped that cause as well, since it implied that borrowing continued when war-related expenses ceased.Footnote 14
+
+## THE LONG PATH TO RESUMPTION
+
+Having won the war against France, fiscal pressure delayed resumption of the gold standard. The Bank Restriction Act had initially determined that specie payments would be resumed six months after the end of the war. But between the end of the Napoleonic Wars in June 1815 and the resumption of the gold standard, the legal limit was extended several times, carrying the restriction to the 5th of July 1819 with resumption occurring slowly and only fully in 1821.Footnote 15
+
+In the immediate post-war period, Bank directors insisted that an effective resumption was only possible if the government reimbursed a sub-stantial portion of debt to due to the Bank.Footnote 16 The argument was acknowledged in the parliamentary report preparing the resumption of the gold standard: “The effect […] of the extent of the advances to Government upon the situation of the Bank, when preparing for a resumption of cash payments, is evidently to cramp its operations, by placing a large proportion of its issues beyond its control.”Footnote 17 Along with the definite resumption of specie payments, Peel's Act, enacted 2 July 1819, a separate act imposed the repayment of £ 10 million of government short-term debt and forbade the Bank to lend to government for more than three months without express parliamentary approval.Footnote 18
+
+These legislative actions determined the modalities of resumption. The suspension of cash payments was to be maintained until 31 January 1820. Following that date, the Bank would gradually resume payments, by exchanging its notes against ever higher amounts of specie between 1 February 1820 and 1 May 1823.Footnote 19 Discretion was left to the Bank of England to accelerate resumption, granted that any increase in the pound's gold content had to be irreversible. At the same time, the Bank of England was to be repaid gradually the £ 10 million of government short-term debt.

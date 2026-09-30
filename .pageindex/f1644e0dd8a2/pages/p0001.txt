@@ -1,0 +1,99 @@
+---
+source_url: "https://www.numdam.org/item/JSFS_1868__9__306_0.pdf"
+final_url: "https://www.numdam.org/item/JSFS_1868__9__306_0.pdf"
+provider: "exa"
+text_sha256: "59dd7f2a1f1551bdf105d5dce07522e12933cdc1616fbf9971b693bfd17bbc16"
+title: "Comparaison d\u00e9cennale des budgets de d\u00e9penses et de recettes en France depuis 1836"
+content_kind: "page_text"
+---
+
+## JOURNAL DE LA SOCIÉTÉ STATISTIQUE DE PARIS
+
+CLÉMENT JUGLAR 
+Comparaison décennale des budgets de dépenses et de 
+recettes en France depuis 1836 
+Journal de la société statistique de Paris, tome 9 (1868), p. 306-315 
+
+ © Société de statistique de Paris, 1868, tous droits réservés. L’accès aux archives de la revue « Journal de la société statistique de Paris » (http://publications-sfds.math.cnrs.fr/index.php/J-SFdS) implique l’accord avec les conditions générales d’utilisation (http://www.numdam.org/conditions). Toute uti lisation commerciale ou impression systématique est constitutive d’une infrac tion pénale. Toute copie ou impression de ce fichier doit contenir la pré sente mention de copyright.
+
+Article numérisé dans le cadre du programme Numérisation de documents anciens mathématiques http://www.numdam.org/
+
+### II.
+
+Comparaison décennale des budgets de dépenses et de recettes en France depuis 1836.
+
+I. DÉPENSES.
+
+L'équilibre du budget, voilà ce que l'on recherche toujours, et le but que l'on 
+n'atteint jamais. «Tous les budgets sont présentés et votés avec un excédant des re 
+cettes, et tous se soldent en déficit,» dit M. Dupin. Depuis 1840, (rois exercices 
+seulement offrent un excédant des recettes sur les dépenses, 1855, 1858 et 
+1865; pour ces deux dernières années, l'excédant est bien faible, il varie de 12 à 
+21 millions; en 1855, au moment des emprunts de la guerre de Crimée, le solde 
+beaucoup plus considérable s'élève à 394 millions, dont il est facile d'indiquer l'ori 
+gine par les emprunts. 
+Sept années présentent une somme variable de fonds disponibles provenant des 
+exercices précédents : 1841, 1846, 1856,1857, 1858,1859, 1860. Ce ne sont 
+pas des excédants de receltes, mais un solde qui n'est employé qu'en report à l'exer 
+cice suivant. Dans toutes les autres années, les excédants des dépenses ont formé 
+découvert pour le Trésor et ont été mis à la charge de la dette flottante. C'est ainsi 
+que nous la voyons grossir d'année en année jusqu'à ce que, arrivée à un certain 
+taux, elle est consolidée en partie pnr un emprunt. Les chiffres de la dette flottante, 
+qui ont paru nécessiter cette mesure de prudence, si on en jujje par ceux donnés 
+au 1 er janvier de chaque année dans les comptes rendus des finances, diffèrent 
+sensiblement entre eux et selon la période qu'on examine. 
+De 1836 à 1846, ils dépassaient à peine 500 millions de francs; de 1846 à 1856, 
+malgré les recours aux emprunts, ils s'élèvent à 881 millions de francs; de 1856 
+à 1866 enfin, le milliard est dépassé. En 1864, la dette flottante s'élève à 1,037 
+millions; elle se trouve réduite à 787 millions au 1 er janvier 1865; en 1867, elle 
+est reportée à 888 millions et chargée de toutes les dépenses militaires pour la 
+transformation de l'armement et des places de guerre; il devient ainsi indispen 
+sable d'avoir de nouveau recours à l'emprunt. 
+Tant que la dette flottante peut supporter les découverts des budgets, on marche 
+de l'avant, et, en cas d'insuffisance des ressources, on n'hésite pas à mettre la dé 
+pense à sa charge, avec cette prévision que; dans un temps donné, on aura recours 
+è l'emprunt. Cette dette, comme on l'a souvent répété, a pour base et pour ori 
+gine toutes les sommes que le Trésor public est obligé de recevoir en compte cou 
+rant; les fonds des communes, des caisses d'épargne, de la Caisse des dépôts et 
+- 307 -- 
+consignations, du Crédit foncier, des trésoriers-payeurs généraux, des divers comp 
+tables, et enfin le produit de l'émission des bons du Trésor. 
+De ces divers articles, il y en a qui se renouvellent assez régulièrement; mais il 
+en est d'autres sur lesquels il ne faut pas toujours compter, parce qu'on peut en 
+demander le retrait. Le ministre des finances doit donc toujours être en mesure 
+de parer aux besoins, et quand il voit la somme «lu découvert du Trésor s'appro 
+cher de la somme de la dette flottante jusqu'à l'égaler, la dépasser même, tout 
+moyen de crédit lui manquant sous cette forme, il faut qu'il y ait recours sous une 
+autre. Le développement des dépenses a donc toujours précédé le développement 
+des recettes: c'est une question de mesure très-variable selon les époques et selon 
+les circonstances, dont il faut tenir grand compte pour ne pas se laisser entraîner 
+à de fâcheux écarts. 
+Les commissions du budget, dans la rédaction de leurs rapports, établissent la 
+comparaison du budget à voter avec le budget précédent, ce qui ne permet pas 
+d'embrasser un ensemble assez étendu pour juger des différences. Pour agrandir 
+le tableau, il faut remonter aux époques antérieures et choisir plusieurs années qui 
+serviront de base et marqueront les étapes. 
+Prendre des années comparables, là était la difficulté. Nous avons essayé de 
+nous soustraire aux principales causes perturbatrices produites par les guerres, les 
+disettes, les crises commerciales, en faisant porter notre examen sur les années 
+1836, 1846, 1856 et 1866. Nous suivrons ainsi la progression des dépenses et des 
+recettes à diverses époques et sous des régimes divers. 
+A quelques millions près, la progression des dépenses est continue; mais elle se 
+répartit bien inégalement envers les divers services, et c'est surtout celle inégalité 
+non-seulement dans la somme, mais encore dans l'accroissement proportionnel, 
+qui doit fixer l'attention. 
+Nous prendrons successivement les trois grandes divisions du budget des dé 
+penses: les services généraux, les services départementaux sur ressources spécia 
+les, et les services spéciaux rattachés pour ordre au budget. 
+Dépenses générales du budget. 
+1836. 1846. 1856. 1866. 1869. 
+Millions. Millions. Millions. Millions. Millions. 
+Budget ordinaire . . . . 1,046 1,397 2,138 1,710 1,627 
+Budget extraordinaire. . 19 189 57 267 99 
+Totaux 1,065 1,586 2,195 1,977 1,726 
+tians ces tableaux sont compris les services généraux et les services départemen 
+taux, définitivement réglés pour les trois premières années, et provisoirement pour 
+les deux dernières. 
+Ces chiffres indiqueraient une réduction dans les dépenses, si on ne se rappelait 
+que l'année 1856 a vu se terminer la guerre de Grimée, et que les années 1867, 
+1868 et 1869 vont, en dehors des recettes ordinaires, absorber un emprunt de 

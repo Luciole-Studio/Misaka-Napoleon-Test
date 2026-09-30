@@ -1,0 +1,26 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/commons/1830/may/10/supply"
+final_url: "https://api.parliament.uk/historic-hansard/commons/1830/may/10/supply"
+provider: "exa"
+text_sha256: "a94b11f4699600534d3a1d58f5d563a819516536ecb296d9823980cfd31b895a"
+title: "SUPPLY. (Hansard, 10 May 1830)"
+content_kind: "page_text"
+---
+
+SUPPLY. (Hansard, 10 May 1830)
+
+Search Help
+
+# SUPPLY.
+
+HC Deb 10 May 1830 vol 24 cc506-26 506
+
+§ The House then resolved itself into a Committee of Supply.
+
+§ The first item was a grant of 6,000l. for the Building of Churches in the West Indies for the year 1830.
+
+wished to know, whether there was not to be some statement made relative to the distribution of the former grants made under this head, and how the present grant was to be appropriated.
+
+said, that the greatest part of that explanation was already on the Table of the House. Those grants had been made in consequence of what had taken place in 1825, with the view of improving the condition of the negroes, and were, he thought, in unison with the unanimous wish of the House at that time. Salaries were appropriated to Bishops and other clergymen—and other measures were taken for the moral improvement of the population of the Colonies, which had, he believed, fully succeeded. By the arrangements then made, the Colonies were to be at half the expense for erecting chapels, churches, &c. and the Government was to be at the other half. In compliance with this understanding, the Government had frequently submitted votes to Parliament, and sums had been continually granted. The money advanced by the Colonies for this object amounted to 23,930l., while, (including the present grant) this country had only supplied 21,466l. The rents of the Bishops' houses were paid out of the Civil Contingencies, but 8,000l. had been laid out in 1827 to purchase a house, with a view to save the rent. A church had been built at Bridgetown, Barbadoes, for 8,800l., of which this country had 507 contributed 3,400l. At Kingston a church had been built for 4,255l., of which this country had paid 2,000l. The establishment of these churches appeared to him to be one of the most effectual modes of improving the condition of the negro population; and as that had been in some measure promoted, agreeably to the wish of the House, Members would not, he thought, now have any objection to supply the means of attaining so important an object.
+
+admitted the correctness of the right hon. Gentleman's statements as to what had been the wish of the House, and he expressed his satisfaction at hearing that means had been taken to improve the Negro population; but he did not know in what papers to find the accounts to which the right hon. Gentleman had alluded; unless, indeed, they were to be found under the head of Army Extraordinaries; for it was there that he had once found an account of the expenses of the Bishop's House at Barbadoes. As he conceived, notwithstanding the explanation of the right hon. Gentleman, that Parliament ought to have more information on the appropriation of what had been, and what was to be voted, than simply "For building Churches so much," he should oppose the grant.

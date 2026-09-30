@@ -1,0 +1,38 @@
+---
+source_url: "https://danmarkshistorien.lex.dk/Kapitulationen_efter_K%C3%B8benhavns_bombardement_7._september_1807"
+final_url: "https://danmarkshistorien.lex.dk/Kapitulationen_efter_K%C3%B8benhavns_bombardement_7._september_1807"
+provider: "exa"
+text_sha256: "59877ae8b6f683bd7a2cd4f0a1a3b5070b685926b83f551fcd134e2e8c3ad6fb"
+title: "Kapitulationen efter K\u00f8benhavns bombardement 7. september 1807 \u2013 Danmarkshistorien | Lex"
+content_kind: "page_text"
+---
+
+Kapitulationen efter Københavns bombardement 7. september 1807 – Danmarkshistorien | Lex
+
+## Faktaboks
+
+Datering 07.09.1807
+
+Oprindelse Blom, H.J.: Krigstilsdragelserne i Sjælland 1807 (1945), s. 196-98.
+
+Kildetype Traktat
+
+## Kildeintroduktion
+
+Et motiv fra natten mellem 4. og 5. september 1807 under Københavns bombardement set fra Kongens Nytorv.
+
+Kapitulationen efter Københavns bombardement 7. september 1807
+
+Af Ukendt/Danmarks Riges Historie (1896-1907).
+
+I august 1807 blev det neutrale Danmark tvunget ind i Napoleonskrigene. Krigenes hovedkombattanter var England og Frankrig, men de involverede også resten af Europa, som var opdelt i et sindrigt system af skiftende alliancer. Efter at Rusland og Frankrig havde sluttet fred den 7. juli 1807, krævede de to lande, at de resterende neutrale lande, heriblandt Danmark, skulle tiltræde kontinentalspærringen. Det indebar, at engelske skibe ikke skulle have mulighed for at sælge deres varer i danske havne. Hvis kravene ikke blev imødekommet, ville det være at betragte som en krigserklæring mod Frankrig. Dette krav blev overbragt den danske gesandt i Paris den 6. august. Samme dag fik kronprins Frederik et engelsk budskab om, at hvis ikke Danmark indgik en alliance med England og udleverede flåden ville det være at betragte som en krigserklæring mod England. Det engelske krav blev understøttet af en engelsk flåde i Øresund.
+
+Kronprinsen, som havde regeret landet siden 1784 på grund af sin fars sindssyge, afviste det engelske krav, inden han fik kendskab til det franske. Det resulterede i et hurtigt engelsk angreb, som kulminerede med Københavns bombardement den 2.-5. september 1807. Man regner med, at ca. 6000 granater og brandraketter ramte byen, hvilket resulterede i nogle hundrede døde, nogle tusinde sårede og ca. 1000 ødelagte huse. Bombardementet i 1807 er blevet kaldt verdens første terrorbombardement, fordi civilbefolkningen var det primære mål. Kapitulationsbetingelserne, som efterfølgende blev forhandlet på plads, betød, at Englands hovedmålsætning blev opfyldt: Man overtog den danske flåde. Herefter tilsluttede Danmark sig Napoleons krig mod England, da den franske kejser var den eneste, som ville garantere det danske territoriums integritet. Alliancen resulterede efter Wienerkongressen i, at Danmark ved freden i Kiel i januar 1814 måtte afstå Norge til Sverige.
+
+## Kilde
+
+### Kjøbenhavns Capitulation.
+
+### 1ste Artikel.
+
+Naar denne Capitulation bliver underskreven og stadfæstet, skulle Hans britiske Majestæts Tropper sættes i Besiddelse af Citadellet.

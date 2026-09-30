@@ -1,0 +1,81 @@
+commentary
+
+                                                                                                                       J. Luterbacher is in the Department of Geography,
+                             Extreme weather and induced extreme weather
+                             Frost, hail, snowfall, wetness, floods, windstorms,                                       Climatology, Climate Dynamics and Climate
+                                 tropical cyclones, droughts, (forest) fires                                           Change, Justus Liebig University of Giessen,
+ Physical                                                                                             Biophysical
+                                                                                                                       Senckenbergstrasse 1, D-35390 Giessen, Germany.
+ sciences                                                                                                focus         C. Pfister is at the Oeschger Centre for Climatic
+                                    First order impact: biophysical effects
+                                                                                                                       Change Research (OCCR), Falkenplatz 16,
+                 Primary production: biomass                  Diversification of planted crops
+                 (food, feed, fuelwood), water                 and use of parcels in different                         CH-3012 Bern, Switzerland.
+                  availability, microorganisms                    altitudes and exposures                              e-mail: juerg.luterbacher@geogr.uni-giessen.de
+
+
+                     Second order impact: economic growth, human and animal health                                     References
+                 Prices of biomass and energy,                Market interventions,                                    1.  Robock, A. Rev. Geophys. 38, 191–219 (2000).
+                     transportation, heating,             expansion of the road networks,                              2.  Fischer, E. M. et al. Geophys. Res. Lett. 34, L05707 (2007).
+                    epidemics and epizootics                   harbours and canals                                     3.  Stothers, R. Science 224, 1191–1198 (1984).
+                                                                                                                       4.  Harington, C. R. (ed.) The Year Without a Summer? World Climate
+  Social                                                                                            Socio-economic         in 1816 (Canadian Museum of Nature, 1992).
+ sciences                                                                                                focus
+                                                                                                                       5. Robock, A. Climatic Change 26, 105–108 (1994).
+                        Third order impact: demographic and social implications                                        6. Luterbacher, J., Dietrich, D., Xoplaki, E., Grosjean, M. &
+                  Malnutrition, demographic                  Grain supply, migration,                                      Wanner, H. Science 303, 1499–1503 (2004).
+                  growth (mortality, fertility),            public and private welfare                                 7. Casty, C., Raible, C. C., Stocker, T. F.,Wanner, H. & Luterbacher, J.
+                        social conflicts                                                                                   Clim. Dynam. 29, 791–805 (2007).
+                                                                                                                       8. Trigo, R. M. Int. J. Climatol. 29, 99–115 (2009).
+                                                                                                                       9. Wegmann, M. et al. J. Clim. 27, 3683–3691 (2014).
+                                  Fourth order impact: cultural responses                                              10. Hoyt, J. Ann. Assoc. Am. Geogr. 48, 118–131 (1958).
+ Cultural                                                                                               Cultural       11. Pfister, C. in The Year Without a Summer? World Climate in
+                     Crisis interpretation,                  Religious rituals, amendments
+ sciences                                                                                                focus             1816 (ed. Harington, C. R.) 416–417 (Canadian Museum of
+                       cultural memory                         (for example marriage law),
+                                                                                                                           Nature, 1992).
+                      learning processes                         adjustments, adaptations
+                                                                                                                       12. Oppenheimer, C. Prog. Phys. Geog. 27, 230–259 (2003).
+                                                                                                                       13. Krämer, D. Menschen Grasten nun mit dem Vieh. Die Letzte Grosse
+Figure 2 | Climate and societal interactions. This model1 captures the way extreme climate events can                      Hungerkrise der Schweiz 1816/17 (Schwabe, 2015).
+                                                                                                                       14. Post, J. D. The Last Great Subsistence Crisis in the Western World
+cascade through society (black arrows), and the adjustment and/or adaptation strategies societies can                      (Johns Hopkins Univ. Press, 1977).
+respond with (grey arrows). Figure adapted with permission from ref. 13, © 2015 Schwabe.                               15. Scheitlin, P. Meine Armenreisen in den Kanton Glarus und in
+                                                                                                                           die Umgebung der Stadt St. Gallen in den Jahren 1816 und 1817,
+                                                                                                                           Nebst Einer Darstellung, Wie es den Armen in des Gesammten
+                                                                                                                           Vaterlandes im Jahr 1817 Erging. St. Gallen (Huber, 1820).
+human agency identified in this example                    potential future impacts of regional climate                16. Grabbe, H‑J. Die Grosse Flut. Die Europäische Migration
+show the level of detail that will need to be              change on humans, and their responses to                        in die Vereinigten Staaten von Amerika, 1783–1820
+achieved in our efforts to understand any                  these challenges.                          ❐                   (Franz Steiner, 2001).
+
+
+
+
+Tying down eruption risk
+Stephen Self and Ralf Gertisser
+200 years after the eruption of Mount Tambora, the eruption volume remains poorly known, as is true
+for other volcanic eruptions over past millennia. We need better records of size and occurrence if we are
+to predict future large eruptions more accurately.
+
+
+O
+         n 10 April 1815, the volcano                      a giant eruption, like this one 200 years                   from Japan 7,300 years ago was almost
+         Mount Tambora, on Sumbawa                         ago, the land surface can collapse into the                 certainly larger 5.
+         Island in Indonesia, erupted                      empty magma chamber once its contents                          We argue that constraining the size and
+violently. The event was the most disastrous               have been ejected. The resulting caldera                    recurrence times of these giant eruptions is
+volcanic eruption in recent history. More                  provides an indirect estimate of the eruption               more than scientific curiosity; we need these
+than 60,000 deaths on Sumbawa and                          size (Fig. 1). Tambora is probably the                      answers to more accurately predict when the
+neighbouring islands alone are attributed                  largest caldera-forming eruption of the                     next one might happen.
+to the eruption1. But the worldwide                        last few centuries, at least since 1257 when
+suffering and deaths (caused indirectly)                   the Samalas eruption on neighbouring                        Restricted assessment of recurrence
+continued into the following year as a                     Lombok Island occurred3. But the volume of                  Determining the recurrence time of the
+result of volcanic-induced cooling. This                   the Samalas eruption is poorly constrained,                 largest, most catastrophic eruptions is
+fatality approximation must therefore be                   too. Going back 3,600 years, the Minoan                     particularly difficult because they are so rare.
+an underestimate.                                          eruption of Santorini4 in Greece may have                   Traces of these eruptions can sometimes
+    The Tambora eruption has been assigned                 formed a bigger caldera than Tambora’s and                  be found in ice cores, but the volcanic
+a magnitude2 of 6–7, yet the precise size                  was probably larger in magma volume. And                    source is not always obvious. Without an
+of the eruption is still under scrutiny. In                the Kikai eruption that occurred offshore                   identified source volcano or clear ice-core
+
+248                                                                                               NATURE GEOSCIENCE | VOL 8 | APRIL 2015 | www.nature.com/naturegeoscience
+
+                                                            © 2015 Macmillan Publishers Limited. All rights reserved

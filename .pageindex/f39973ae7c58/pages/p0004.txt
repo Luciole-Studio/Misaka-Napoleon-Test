@@ -1,0 +1,33 @@
+
+
+## C. 本运行内复用（R）
+
+- **R01 · F4 卡 t_9f10b6**（同为10038）：Marion《Histoire financière》IV 的关税净额序列（1808=18.559、1809=11.552、1810普通35.881＋非常61.046）、1810-08→1812-01非常关税累计105.927667、严格版S3关税落至15–35百万/年、S3税基损伤−60~−110百万/年、S6每百万人净得公式与分地区毛额、exercice/année口径断点。
+- **R02 · B5 卡 t_87ba37**：Heckscher 印p.245 目的地表逐图转录（`downloads/pages/…`＋卡内CSV）；A40校订；1848英国工业包络。
+- **R03 · B6 卡 t_0fed70**：`nodes/r_5b1357a9c6/cards/t_0fed70/trade_heckscher.csv`（1805–1811 英国本产/转口分目的地申报现价，含 med_levant 组＝直布罗陀＋马耳他＋西西里＋黎凡特）。
+- **R04 · R2 卡 t_29957a**：Crosby 1965；法国替代英国吸收俄麻需扩市场26倍（直接）/3.4倍（广义）；1808→09 彼得堡到港60→376艘。
+- **R05 · G2 卡 t_cbaee3**：Schmidt《Le Grand-duché de Berg》1905 OCR 全文（`downloads/G2_schmidt_berg_1905.txt`，含 Bacher 1810-10-02 报告的原刊出处与科隆商会1810-09-16反并入书）；萨克森为体系最大工业赢家。
+- **R06 · F2 卡 t_0e763d**：兵员年费600–700法郎（用于把缉私驻军成本折成同口径）。
+- **R07 · F1 卡 t_08b9e7**：中枢书面决策容量3,000–4,200封/年、1811年折年4,190（用于论证许可证亲签在和平期不可持续）。
+- **R08 · F5 卡 t_7c3954**：S5下王朝无条件存续至1848≈40–55%（用于§16.3概率带的C形态）。
+- **R09 · 上一轮 t_f81a6f**（`nodes/r_b55f2c1cf5/cards/t_f81a6f/c15_continental_economy.md`）：Beugnot/Bacher 关税同盟动议的**出处审计**（Heckscher p.295注1为合并书目注，原呈文未取得）；意大利限制与生丝禁令；1806-03-21 意大利里拉与1808-01-11 西伐利亚币值；特里亚农为从量税的判定。**其"未识别"结论本卡不继承。**
+
+## D. 本卡自产资产（可复算）
+
+- `x2_model.py` — 131行输出的确定性模型脚本（A执行密度／B价格楔子／C保费→AVE／D财政对弈），每行带 `kind`（OBS/MODEL）与 `source`。
+- `X2_enforcement_model.csv` — 上述脚本输出。
+- `notes_heckscher_enforcement.md` — Heckscher 执行章节逐条摘录（带印刷页/PDF页双页码）。
+- `notes_enforcement_machine.md` — Marzagalli／AHAD／Ellis／Rowe 摘录与口径对账。
+
+## E. 未能获得、但存在且值得后续轮取的材料（列名以便他卡或后续轮接手）
+
+1. **Archives nationales, série F12**（Commerce et Industrie）中的许可证台账与"tableau des résultats généraux du Commerce par licence"周报——直接关闭本卡改判证据 E2/E3。
+2. **A.N. AF IV 1072**（F4卡已引其转录）与海关总署分年支出账——关闭 E4。
+3. **Staatsarchiv Hamburg** 与 **Archivio di Stato di Livorno** 的海关缉获登记簿——关闭 E3。
+4. **Darmstädter, Paul, *Studien zur napoleonischen Wirtschaftspolitik*, Bd. III, pp.113ff.** 与 **Schmidt, *Le Grand-duché de Berg*, 附录C（Champagny 1807-08-05 报告）**——关闭 E6（Beugnot/Bacher 原件）。
+5. **Clinquart, Jean, *L'Administration des douanes en France sous le Consulat et l'Empire (1800–1815)*, Paris: Association pour l'histoire de l'administration des douanes, 1979** ——把本卡编制序列从三手升为二手。
+6. **Marzagalli 1999 全书**（Septentrion；openedition 有电子版但被反爬拦截，纸本ISBN 9782859396008）。
+7. **Crouzet 1958/1987 两卷**（本项目多卡共同缺口）。
+8. **Tarlé, E. V., *Kontinental'naja blokada*（俄文）与 *La vita economica dell'Italia nell'età napoleonica*（意文）** ——非英语来源，本卡目前全部经转引。
+9. **Ponteil, F., "La contrebande sur le Rhin au temps du Premier Empire", *Revue historique* clxxv (1935), 257–86；Bertrand, J., "La contrebande à la frontière de l'Est en 1811, 1812, 1813", *Annales de l'Est*, 5e sér., ii (1951), 273–305；L'Huillier, *Alsace napoléonienne*, pp.334–351（含走私路线地图）** ——Ellis 指名的三种专题文献，是保费与路线数据的最可能来源。
+10. **Kiesselbach, *Die Continentalsperre*；Servières；Schäfer, *Bremen*；König；Rubin；de Cérenville；Zeyss, *Die Entstehung der Handelskammern*** ——Heckscher 的德语底本群，本卡全部经其转引。

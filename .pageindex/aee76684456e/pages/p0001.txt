@@ -1,0 +1,28 @@
+---
+source_url: "https://ijnh.seahistory.org/the-ugly-duckling-the-french-navy-and-the-saint-domingue-expedition1801-1803/"
+final_url: "https://ijnh.seahistory.org/the-ugly-duckling-the-french-navy-and-the-saint-domingue-expedition1801-1803/"
+provider: "exa"
+text_sha256: "db0d811fc0c66805fb335e587292e52f4189479a08c0eabc5c8bd4589454fcb7"
+title: "The Ugly Duckling: The French Navy and the Saint-Domingue Expedition,1801-1803 \u2013 International Journal of Naval History"
+content_kind: "page_text"
+---
+
+The Ugly Duckling: The French Navy and the Saint-Domingue Expedition,1801-1803 – International Journal of Naval History
+
+# The Journal
+
+## The Ugly Duckling: The French Navy and the Saint-Domingue Expedition,1801-1803
+
+Philippe R. Girard McNeese State University
+
+Abstract:
+
+The article surveys the naval aspects of the Saint-Domingue expedition (1801-1803). During this expedition, the French Navy played a multiplicity of roles, including transporting troops to the Caribbean, assisting amphibious operations, patrolling the coastline, deporting or executing enemies, and combating Great Britain ’s Jamaica squadron. The French devoted tremendous resources to this expedition yet eventually lost to an army of former slaves, in part, the article argues, because military commanders in Paris and Saint-Domingue belittled the navy as a junior partner and repeatedly misused the naval forces at their disposal.
+
+The paper is based on extensive research conducted at the Archives Nationales (Paris), the Centre des Archives d’Outre-Mer ( Aix-en-Provence ), the Service Historique de la Défense ( Vincennes ), the University of Florida ( Gainesville ), the U.S. National Archives ( Washington , DC ), the Historical Society of Pennsylvania ( Philadelphia , PA ), and the British National Archives ( Kew ).
+
+___
+
+In the fall of 1801, one of the largest fleets France ever assembled gathered in Brest . It included the 120-gun flagship L’Océan, fourteen French and Spanish vaisseaux (ships of the line), five flûtes (vaisseaux stripped of their guns to accommodate more passengers), and three frigates. For months, men, provisions, water, ammunition, and 83 fretful horses were led from the arsenal to the armada anchored in the port and 8,000 to 8,500 troops, 500 officers, as many civilians, and 8,000 French and 4,000 Spanish sailors had boarded the overcrowded men-o-war by November 25th.[1] Other squadrons were also readied in Cádiz, Lorient , Vlissingen (Flushing), Le Havre , Rochefort, and Toulon .[2]
+
+The expedition was not aimed at invading England , Ireland , Egypt , or any foreign land. Instead, it was headed for the French colony of Saint-Domingue (modern-day Haiti ). France’s most valuable overseas possessions, Saint-Domingue had been ruled since 1798 by the former slave Toussaint Louverture, who had insisted on his loyalty to France but had also expelled France’s agents and signed treaties with Britain.[3] Considering him to be de facto independent, First Consul Napoléon Bonaparte thus decided in the spring of 1801 to remove him from power. Under Bonaparte’s plan, the French fleet was to appear simultaneously in all major ports of Saint-Domingue, publicize its peaceful intentions, and disembark its troops, by force if necessary. The captain general of the expedition, Lt. Gen. Victoire Leclerc, would then deport all leading officers of color. Not a word was said of slavery, but a quick victory could have incited Bonaparte to renege on the February 1794 law of emancipation.[4]

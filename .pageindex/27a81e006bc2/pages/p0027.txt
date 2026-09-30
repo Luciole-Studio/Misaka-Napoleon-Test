@@ -1,0 +1,47 @@
+         Times on the 26th ) resulted in the complete victory of the French over the Spanish,
+         and opened central Spain to invasion. The battle preceded Madrid’s capitulation
+         to Napoleon on 4 December and the installation of his brother Joseph as the King
+         of Spain. In line with these events, the agio increased.19
+
+       • February 1811: An outnumbered French force nearly destroyed the Spanish Army
+         of Extremadura at the battle of Gebora (19 February). This victory allowed the
+         French to seize the important fortress and well supplied town of Badajoz, opening
+         the route to Portugal.20 At this occasion, the agio increased further.
+
+       • July 1815: The month of July witnessed decisive military and political events,
+         sealing Napoleon’s final defeat. Wellington and the King of France enter Paris On
+         after the Battle of Issy, won on the 3 July.21 On 15 July, Napoleon surrendered
+         himself to the British22 and was in the following sent to the the island of Saint
+         Helena, where he died in May 1821 (see section on daily data).
+
+       • May 1819: Peel’s Act definitely fixed the details and time-line for the resumption
+         of the gold standard (see section 3 and results for daily data further below).
+
+
+6.2       Daily Data
+
+I now turn to the results of the break date estimation on the daily data, presented in
+figure 6 and table 2 (tables 9 and 10 in the appendix provide confidence intervals and
+parameter estimates). The results for overlapping periods from the daily procedure cor-
+roborate the monthly results. The following events coincide with the detected break
+dates:
+
+
+
+       • 8 February 1811: No military or political events occurred at that exact date.
+         However, the confidence interval encompasses the battle of Gebora, on 19 February
+  19
+       In the meantime, Napoleon had initiated the Peninsular War. In order to punish the Portuguese
+for not enacting the Continental System against the British, French troops were sent to Spain, France’s
+ally. Taking advantage of the troops’ presence in Spain, Napoleon had turned on his ally.
+   20
+      Dispatches announcing the Spanish defeat at Badajoz are published in the London Gazette the 3
+March.
+ 21
+    London Gazette, 11 July.
+ 22
+    London Gazette, 21 July.
+
+
+
+                                                  25

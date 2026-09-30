@@ -1,0 +1,46 @@
+
+
+### M｜John Marshall, *A Statistical Display of the Finances, Navigation and Commerce of the United Kingdom of Great Britain and Ireland*，1833（作者/年份按数字馆题录）
+- 原扫描：https://archive.org/download/b22297042/b22297042.pdf；转至https://ia601903.us.archive.org/15/items/b22297042/b22297042.pdf。
+- `downloads/B5_Marshall_statistical_display1833.pdf`，doc `6732fd554ca2`；SHA256 `6732fd554ca206d55ce2060d31852f46686eaf853b0b621a7f802abbf027e2e7`。
+- 实读标题页及印p74/PDF88文字＋页图；没有阅读全296页。页题为Official Value of Merchandize ... America and Foreign West Indies。
+- 1811行：外西印度3,046,819；美国1,431,829；英属北美1,909,689；合计6,388,337。支持对BoE A40美国/北美多记约£10m的修订。
+- 不是用不同估价强行对齐：这也是旧官方价值。全球27.459m是本卡对BoE同表总加总的派生校订，不假称Marshall这一页给出全球数。首次抄错环节未定；1805美国与BoE仍有约0.002m小差，未擅自全序列替换。
+- `notes_marshall_correction.md`。早期OCR巨页`downloads/pages/26c8c80b061c.md`仅定位，核定依据原页图。
+
+### P08｜“Liverpool Petition Respecting the Orders in Council Bill”
+- HC Deb 3 March 1808 vol10 cc889–895。
+- https://api.parliament.uk/historic-hansard/commons/1808/mar/03/liverpool-petition-respecting-the-orders
+- `downloads/pages/6305bcbe013e.md`；本卡全段读。Gascoyne呈请愿；议长/财政大臣的税案程序异议；Tarleton称1461支持者未签；80对128拒受。
+- 精确用途：城市政治不等于商人共同体。关于失业40万人、利物浦占美贸四分之三均是议员声称，本卡不入数量表。
+
+### P11｜“Commercial Credit”
+- HC Deb 11 March 1811 vol19 cc327–350。
+- https://api.parliament.uk/historic-hansard/commons/1811/mar/11/commercial-credit
+- `downloads/pages/3b8b8e348c6d.md`；本卡重读cc327–348，后两栏未声称重读完。摘录`notes_hansard_1811.md`。
+- cc328–331商人—制造商—工人链、南美货积压；cc332–333六百万Exchequer bills建议授权；cc334–335“Exports were not trade”及“we ought to have returns”（上半句网页把exports断成ex ports，含该句的笔记将断字接合）；cc338–340好票据仍贴现；cc342糖咖啡回款被欧市场阻断；cc345美国本土制造替代风险。
+- 单场多方立场，不等于多份独立统计。网页抽取丢失部分发言人标题，正文有些归属依赖后续称谓；本卡尽量引用辩论/栏位而非过度指定个人。不能把1793授权/实放金额写成1811实放。
+
+### P12s｜“Petition from Sheffield Against the Orders in Council”
+- HC Deb 17 April 1812 vol22 cc424–425。
+- https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-sheffield-against-the
+- `downloads/pages/0cf6ab7705f7.md`；正文全读。核心原文“the just rights and independence of the United Kingdom”与“they would willingly bear the pressure without a murmur”。
+- 请愿是利益表达；不能将其病因叙述当独立检验，也不能抹掉其爱国附款。
+
+### P12h｜“Petition from the Hallamshire Cutlers Against the East India Company's Charter”
+- HC Deb 17 April 1812 vol22 cc422–424。
+- https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-the-hallamshire-cutlers
+- `downloads/pages/ba2ab29e8259.md`，正文全读。主张开放公司垄断以“counterbalance, in some measure”欧洲/美国限制。其亚洲人口倍数、贸易可能额不当实际需求。
+
+### P12b｜“Petition from Birmingham Against the Orders in Council”
+- HC Deb 17 April 1812 vol22 cc425–440。
+- https://api.parliament.uk/historic-hansard/commons/1812/apr/17/petition-from-birmingham-against-the
+- 全页`downloads/pages/92274137edfc.md`已读，早期`b774a39e237e.md`只有excerpts，不作为最终完整来源。
+- cc426–427资本、制造业、海军及“invaluable constitution”；cc429 Baring质疑开放印度就创造英制品需求；cc430–433 Rose/Mordaunt对灾荒程度反驳；cc437 Brougham熟练工工资与不能改征/赶农；cc439互助会、就业与贷款还款争论。
+- 对救济税和失业的不同断言互相冲突，保留归属，不拼成全国数据。25–35先令到12先令不是纯时薪变动，故不代替W。
+
+### N｜Katrina Navickas, “The search for ‘General Ludd’: the mythology of Luddism”
+- *Social History* 30(3), 2005, pp281–295。
+- `downloads/c16_navickas2005.pdf`；doc `3c4c39c32329`，复用上一轮材料。
+- 本卡实读印281–282、291–292（PDF2–3、12–13），其他请求截断未称全读。p291：“It was not a blind reaction against economic change”；p292将部分恐吓信限定为“isolated and not indicative of any serious revolutionary danger”。
+- 机制：地区/职业异质、社区网络、军事消息口传、神话与组织并非同物。史料经治安官/间谍/司法生成，不能直读为革命组织真实全貌。

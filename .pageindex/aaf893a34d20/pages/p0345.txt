@@ -1,0 +1,107 @@
+Rural Change and Royal Finances in Spain
+
+       Portugal, where the Salamanca plain gives way to rolling hills and glaciated outcroppings that furnish the material for abundant stone
+       walls. Reminiscent of the sierras, its towns spread out around granite churches with imposing square towers. Salvatierra zone (SF) lies in
+       the center of the province, a relatively poor upland region that juts out into the plain from the ranges to the south. Its thin soil barely
+       covers a shale base, and the small villages, abundant in slate, resemble those of the Charro plain to the west. Although these two zones
+       are very different from each other, they have the common label of hilly zones. Appendix Q gives a detailed description of the geography,
+       population, and political status of the zones.
+             How unlike Jaén Salamanca province is, one can judge from a simple comparison. In Jaén the mean amount spent by the buyers in
+       each zone was directly proportional to the mean size of the towns in the zone: the bigger the towns, the more each buyer spent. In
+       Salamanca precisely the opposite correlation appears. If one compares Table 17.1 with Table 17.2, which gives the mean town size, one
+       sees that the larger the size of the towns, the smaller amount each buyer was likely to spend (r = –.58). The correspondence again is
+       loose, only about one-third of the variation in the amount spent can be attributed to the size of the towns,
+
+
+                                  Table 17.1. Mean Amount Spent by Buyers, Salamanca Zones
+                                                        (000s reales)
+
+
+
+                  Zone                     Level 1              Level 4             All Buyers           Total Amount
+
+
+
+            Rich Plains Zone
+
+
+
+                   SA                       1.9                 125.1                  15.1                  3,694
+
+
+
+                   SB                       2.0                 186.3                  21.6                  7,760
+
+
+
+           Poor Plains Zones
+
+
+
+                   SC                       1.4                 357.4                  16.8                  1,349
+
+
+
+                   SD                       1.8                 130.4                  18.8                  2,518
+
+
+
+               Hilly Zones
+
+
+
+                   SE                       1.5                  57.8                  11.8                  1,455
+
+
+
+                   SF                       1.4                  62.2                   8.9                   661
+
+
+
+              Sierra Zones
+
+
+
+                   SG                       0.4                  16.1                   2.9                   423
+
+
+
+                   SH                       0.7                  32.6                   5.1                   945
+
+
+
+                   SI                       1.2                  27.2                   6.4                  1,926
+
+
+
+             Total province a               1.8                 213.6                  17.0                 36,418
+
+
+
+                                                  SOURCE. AHPM, deeds of deposit.
+
+
+
+                   a Includes Salamanca city (2,264,000 reales) and unlocated purchases (12,805,000 reales).
+
+
+
+
+                                                                                            ― 609 ―
+
+
+                 Table 17.2. Population of Census Units, Salamanca Zones, 1786
+
+
+
+                                                      Number of Units     Mean Population
+                                                                          (to nearest 10)
+
+
+
+                     Rich Plains Zones
+
+
+
+
+http://publishing.cdlib.org/ucpressebooks/view?docId=ft4d5nb394;chunk.id=0;doc.view=print[1/22/2011 11:30:51 AM]

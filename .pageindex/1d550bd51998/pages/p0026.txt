@@ -1,0 +1,39 @@
+unity, integrity, specialization and periodicity of the public budget. The first one is the budgetary
+order of September 14, 1822 regarding the liquidation of public expenses during the 9 months
+following the end of the fiscal year while the second one is the financial account order of
+December 10, 1823 (Vaslin, 1999).
+
+                                         Insert Table 5 about here
+
+    Table 6 provides the results of our dummy analysis. For many dates one can observe a
+statistically significant negative impact on the yields. The first payment of debt arrears by the
+Banque de France and the dissolution of the chamber were clearly perceived positively by the
+markets. Both showed the state’s willingness to honor the debt of the previous regimes, either by
+a direct intervention on the market (payment of the pending coupons) or by politically evicting
+any potential advocates of a moratoria on the existing debt. The different laws increasing the
+accountability of the government and promoting more transparency in public finances were also
+positively perceived, and were followed by a decrease in the yield. Restoring a sound management
+of the public finances was indeed one key action that contributed to restoring creditors’
+confidence in France’s capacity to sustain its debt. Surprisingly, the creation of the Caisse
+d’amortissement is not linked to any decrease in yields. The previous aborted attempts in the matter
+might explain the reluctance of the markets, at least in the short-run, regarding the success of
+such an institution. Moreover, investors probably needed more time in order to assess the
+credibility of this institution and particularly government’s willingness to support its functioning
+and respect its objectives. Finally, the second intervention of the Bank to insure the payment of
+the debt service has an opposite effect on the French yield (e.g. increase). One potential
+explanation might come from the fact that by asking for a new intervention of the Bank, the
+French government signaled its recurrent financial difficulties. In addition, these interventions
+also raised additional expenses for the state; as an example, for the 1823 intervention, the Bank
+charged a commission of 1 ⁄ % on the amounts paid to the creditors as well as on the advances
+insured to the Caisse d’Amortissement (110,000 FF per day) and a guarantee amounting at 2 million
+of FF in rentes. The guarantee was returned to the Treasury in March 1819.
+
+                                        Insert Table 6about here
+
+    Our empirical evidence supports Sussman and Yafeh (2006) who argue that lack of
+immediate market response to institutional reforms may be explained either by the time needed
+to assess the credibility of the newly created institutions or by the fact that the process itself has
+to be cumulative. In order to check this last argument we tested for the presence of a co-
+
+
+                                                                                                   25

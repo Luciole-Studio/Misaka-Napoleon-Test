@@ -1,0 +1,45 @@
+A      Tables
+
+    Table 1: Short-run effect of trade protection on mechanized cotton spinning capacity
+                                                  Dependent variable: Spindles per thousand inhabitants
+
+                                            (1)        (2)          (3)      (4)       (5)       (6)        (7)
+
+
+            Effective distance            33.47       33.48      34.78      24.73     32.96     42.18     38.82
+                                           0.47        0.47      0.49       0.35       0.46     0.52       0.48
+                                          (9.80)      (9.89)    (10.47)    (10.90)    (9.75)   (12.54)   (13.23)
+                                         {10.00}     {10.06}    {10.58}    {11.07}   {10.01}   {13.50}   {13.46}
+            Streams X 1812                             -0.14                                               -1.16
+                                                      (1.50)                                              (2.17)
+            Coal X 1812                                          -3.93                                     4.11
+                                                                (4.21)                                    (7.47)
+            Market potential X 1812                                         41.05                         30.19
+                                                                           (21.58)                       (30.19)
+            Knowledge access X 1812                                                   40.87               34.90
+                                                                                     (15.22)             (21.79)
+            Literacy X 1812                                                                     46.41     27.79
+                                                                                               (21.16)   (18.86)
+
+            Time FE                        Yes        Yes           Yes     Yes       Yes       Yes        Yes
+            Department FE                  Yes        Yes           Yes     Yes       Yes       Yes        Yes
+            Observations                   176        176           176     176       176       126        126
+            Adjusted R-squared             0.34       0.33          0.34    0.36      0.37      0.42       0.45
+            Num. clusters (dept)            88         88            88      88        88        63         63
+            Num. clusters (gen)             40         40            40      40        40        30         30
+            Dependent variable: Spindles per thousand inhabitants in department i at time t. Departmental
+           population held constant at its 1811 level. Effective distance is measured as the natural logarithm
+           of the shortest route to London for each department i at time t. Controls (all interacted with an
+           indicator variable which takes the value of one in 1812 and is zero otherwise): Literacy measured
+           as the proportion of men able to sign their wedding certificate in 1786; Coal is the inverse of log
+           distance to the nearest coalfield; Streams is defined as the natural logarithm of mean streamflow
+           (m3/s); Knowledge access is defined as market access to universities in 1802; Market potential is
+           defined as market access to urban population in 1800. Standardized coefficients in italics. Standard
+           errors clustered at the level of the department in parentheses, standard errors clustered by généralités
+           in curly brackets. The number of observations differ across columns because of missing observations
+           for the literacy measure. For further details on the data, see Online Appendix A.3.
+
+
+
+
+                                                               42

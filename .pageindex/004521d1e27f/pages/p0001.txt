@@ -1,0 +1,30 @@
+---
+source_url: "https://doi.org/10.20955/r.80.53-76"
+final_url: "https://doi.org/10.20955/r.80.53-76"
+provider: "exa"
+text_sha256: "821177d854ee9f6e7836b736eee71648af62e2c4ebbdccd61e448ab982d9c531"
+title: "The Financial Crisis of 1825 and the Restructuring of the British Financial System"
+content_kind: "page_text"
+---
+
+# The Financial Crisis of 1825 and the Restructuring of the British Financial System
+
+Published: 1998-01-01. 229 citations.
+
+## Authors
+
+- Larry Neal: h-index 32; 3,590 citations; corresponding author
+
+## Topics
+
+- Economic Theory and Policy
+- Global Financial Crisis and Policies
+- Monetary Policy and Economic Impact
+
+---
+
+# Financial Reconstruction in England
+
+The Financial Crisis of 1825 and the Restructuring of the British Financial System Larry Neal T oday' s financial press reports regularly on evidence of systemic risks, financial fragility, banking failures, stock market collapses, and exchange rate attacks throughout the global financial network of the 1990s. To a financial historian, these reports simply reprise similar concerns and risks in numerous episodes of financial innovation and regime change in the past. True, the 1990s have the peculiar feature of emerging markets among newly independent states that are trying to market either their government debt or securities issued by their former state enterprises. But this situation does not eliminate the relevance of past episodes; it merely limits it to fewer periods. The period after World War I had many of the same problems, for example, although policymakers then subsumed them largely under the issues of whether, when, and how to return to the pre-war gold standard that had created a much more benign financial system worldwide. Policymakers of that time were much more interested than their modern counterparts in exploring lessons from the past.
+
+For example, William Acworth' s classic study, Financial Reconstruction in England, 1815-1822, was published in 1925. He argued convincingly that the severe deflationary policy followed by the government and the Bank of England after peace in 1815 had prolonged and deepened unnecessarily the economic troubles accompanying the transition from a wartime to a peacetime economy. Nevertheless, the British government and the Bank of England pursued much the same strategy after World War I, again taking six years after the peace treaty to resume convertibility-and at the prewar standard. Again, monetary ease that followed resumption led to a surge of prosperity, speculative ventures in the capital markets, and eventual collapse of the financial system. The difference was that in 1825-26, there was a systemic stoppage of the banking system, followed by widespread bankruptcies and unemployment, while in 1931 there was abandonment of the gold standard, followed by imperial preference and worldwide movements toward autarky. So much for the lessons of history! As pessimistic as Acworth was in assessing the consequences of Britain' s first return to the gold standard in 1821, the consequences of the ensuing monetary expansion and speculative boom that ended in the spectacular collapse at the end of 1825 proved to be not so dire in the long run for the British economy. The policy changes that affected the monetary regime-the exchange rates, the structure of the banking sector, the role of the Bank of England and the management of the government' s debt-while minor in each particular and slow to take effect, were cumulatively effective in laying the basis for Britain' s dominance in the world financial system until the outbreak of World War I. This outcome contrasts sufficiently with the disappointing pattern of British economic progress during the twentieth century after both World War I and World War II that perhaps we should take a fresh look at the economic and financial transition after the Napoleonic Wars. What caused the problems identified by Acworth that culminated in the stock market crash of 1825 and the English banking system' s failure to Larry Neal is a professor of economics at the University of Illinois at Urbana-Champaign.* Note the emphasis on English, rather than British, institutions. The Scottish and Irish banks avoided the Panic of 1825 almost entirely, a fact that caused much soul-searching among the English at the time. Duffy (1985), ch. 1. King (1936), ch. 2.

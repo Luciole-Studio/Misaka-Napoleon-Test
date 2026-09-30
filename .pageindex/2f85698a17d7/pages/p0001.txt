@@ -1,0 +1,22 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/commons/1812/feb/03/state-of-ireland"
+final_url: "https://api.parliament.uk/historic-hansard/commons/1812/feb/03/state-of-ireland"
+provider: "exa"
+text_sha256: "493eb529ee291825fa86acb6685a4d585642d78d4232bcc95badcfbd6cf2242e"
+title: "STATE OF IRELAND. (Hansard, 3 February 1812)"
+content_kind: "page_text"
+---
+
+STATE OF IRELAND. (Hansard, 3 February 1812)
+
+# STATE OF IRELAND.
+
+HC Deb 03 February 1812 vol 21 cc494-601 494
+
+rose and spoke as follows:
+
+; in rising to propose to the House to go into a Committee on the actual State of Ireland, I am sensible that some apology is due from me, for attempting to bring before their consideration a subject of such magnitude and importance. It is, I believe; within the knowledge of many members of the House, that a notice was given of a similar motion in the name of a noble relation of mine, now unfortunately prevented from attending his parliamentary duty:—however anxious he might feel to discharge that duty (and no one, I am confident, is more sensible of the importance of the subject,) yet the House must be aware that occasions may occur, in which the strongest sense of parliamentary duty may be allowed to yield to the severe and melancholy pressure of domestic calamity. The task therefore that he has been obliged to relinquish, I have ventured to undertake.
+
+I have a consolation in thinking that the actual State of Ireland will not require any minute and detailed description; it is written in characters too plain, distinct, and intelligible to be mistaken by the most careless, or misinterpreted by the most perverse: it needs not the aid of rhetoric, nor the embellishments of oratory; it comes home to the feelings and understandings of all men.
+
+With regard to the motion that I shall have the honour of submitting to the House, though it comprehends the whole actual State of Ireland, I certainly wish to confine my view of it principally to the consideration of those disabilities of which the Catholics have long complained, and under which they still continue to labour. I should wish, as far as I am personally concerned, to abstain from entering into a discussion respecting the legality or illegality of the late proceedings of the Irish government, and the construction that in their discretion they have put on the Convention act. Not that I conceive that it is not within the competence of parliament to institute such an enquiry, but I should be reluctant in the course and train of judicial proceedings, to propose the adoption of any specific proposition, which might be supposed in any degree to affect or impair the ends of substantial justice. But with regard to the policy which dictated these measures, with regard to the policy which 495 dictates the continuance and extension of these proceedings, combined with the system of unqualified and undeviating opposition to the claims of the Catholics so uniformly maintained by the present ministers, I am justified in asserting that an increased degree of dissatisfaction and discontent, an increased feeling of disquiet and irritation, has been produced throughout the whole of the Catholic community; and it does not appear to be confined to the Catholics alone: in many parts of Ireland the Protestants hare come forward in support and vindication of their Catholic brethren. There can hardly indeed be a stronger proof of the urgency of the crisis, than that those whose interests have been represented as so adverse to those of the Catholics, should now find their interests and their security most promoted by advancing and supporting the claims of their fellow countrymen. Reflections of this nature, and a consideration of the state of discontent and dissatisfaction so widely and unequivocally felt by the whole body of Catholics, would naturally lead to the propriety of examining into the grievances complained of, and the duty indeed, consistently with the security of the country, of satisfactorily redressing them.

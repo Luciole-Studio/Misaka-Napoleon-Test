@@ -1,0 +1,85 @@
+
+
+Figure A6: Evolution of Distance and Empire Effects (destination-product fixed effects)
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900 year Distance Estimate 95% Confidence Interval
+
+Evolution of the effects of Distance
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900 year Empire Estimate 95% Confidence Interval
+
+Evolution of the effects of Empire
+
+• Figure A7 replicates the results from Figure 6 but using OLS. In terms of average magnitude, the OLS estimates of the effects of distance are similar to our main results. However, their evolution over time is quite different. The evolution of the empire effects in Figure A7 is 
+
+similar to our main findings, but the OLS empire estimates are significantly larger than the corresponding PPML estimates in the 1800s and there are a few outliers, e.g., the estimate on distance in 1780 and the empire estimates in 1770 and 1790. As argued by Santos Silva and
+
+Tenreyro (2006), the OLS gravity estimates are inconsistent and, therefore, we rely on the PPML estimator to obtain our main results.
+
+Figure A7: Evolution of Distance and Empire Effects (estimation via OLS)
+
+-1.5 -1 -.5
+
+0
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900 year Distance Estimate 95% Confidence Interval
+
+Evolution of the effects of Distance
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900 year Empire Estimate 95% Confidence Interval
+
+Evolution of the effects of Empire
+
+• Figure A8 replicates the results from Figure 6, but instead of using distance from the global economic center of gravity as a proxy for multilateral resistance, it uses remoteness indices for each destination. These are constructed as GDP-weighted, great-circle distances between each destination and all of its trading partners. The evolution over time of the distance and empire estimates remains very similar to our main findings.
+
+A12
+
+Figure A8: Evolution of Distance and Empire Effects (IMR controls)
+
+-1.5 -1 -.5
+
+0
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900 year Distance Estimate 95% Confidence Interval
+
+Evolution of the effects of Distance
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900 year Empire Estimate 95% Confidence Interval
+
+Evolution of the effects of Empire
+
+• Figure A9 replicates the results from Figure 6 but instead aggregates the export data at the destination-division level to the destination level. The evolution over time of the distance and empire estimates remains similar to our main findings. The main difference is that the estimates of the evolution of the effects of distance over time are less precisely estimated.
+
+Figure A9: Evolution of Distance and Empire Effects (aggregate data)

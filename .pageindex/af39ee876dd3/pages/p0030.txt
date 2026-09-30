@@ -1,0 +1,49 @@
+1086                               Rouanet and Piano
+
+   We find a large and statistically significant effect of ruggedness on a
+department’s conscription rate. A one standard deviation increase in the
+natural logarithm of ruggedness predicts a fall in the conscription rate of
+between 0.8 and 2.4 percentage points.45 An increase in the log of rugged-
+ness from the 25th to the 75th percentile of the distribution predicts a
+decrease in the conscription rate by 1.2 to 3.3 percentage points. To put
+these results into perspective, the conscription rate across departments
+between 1806 and 1810 was around 29.6 percent. In other words, the
+probability of getting drafted fell by about 5–10 percent when living in
+one of the more rugged departments. Table 3 also shows that the coef-
+ficient on the natural log of ruggedness becomes much larger in Column
+(4). This result is not driven by the inclusion of military relays but rather
+by the fact that, in order to include the controls in Column (4), we must
+sacrifice over one-third of our observations.46
+   The regressions in Table 3 also find that a one percentage point increase
+in the exemption rate led to a 0.3 percentage point decrease in the rate
+of conscription. A one standard deviation increase in the same variable
+predicts a 3 percentage point fall in the conscription rate. Moreover, living
+in departments adjacent to the border lowered the probability of being
+drafted by around 1.5 percentage points, and this effect is statistically
+significant throughout. Finally, we find that living in a maritime depart-
+ment lowers the probability of being drafted.47 In the Online Appendix,
+we provide the results of robustness checks akin to those for Table 1.
+None affect the overall pattern of these results.
+
+The Lacuée Plan: An Event Study
+
+   This section complements the results of our formal econometric
+exercise with an event study. Conscripts evading their military obliga-
+tions generate a policy externality. Draft dodgers make draft evasion
+more appealing to nearby conscripts by congesting the law enforcement
+system, thus lowering the probability of punishment.48 Recall that one
+simple solution to this problem, from the point of view of the rational
+ruler, is to draft less in regions where it is the largest. By reducing the
+conscription rate in departments with a high draft dodging rate, the ruler
+
+   45
+      The variation in the magnitude of the log of the ruggedness coefficient is almost entirely due to
+variations in the size of the sample due to missing observations when including additional controls.
+   46
+      When we replicate the results in Table 3, keeping sample size constant across specifications,
+the gap between the coefficients on the log of ruggedness in Columns (3) and (4) largely disappears.
+   47
+      This is consistent with Forrest’s (1989) claim that shipowners lobbied the central government
+relentlessly to reduce the burden of conscription on their industry.
+   48
+      See Gaviria (2000) for an application of this idea to violent crime in Columbia.

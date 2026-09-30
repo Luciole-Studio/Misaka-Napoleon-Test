@@ -1,0 +1,46 @@
+---
+source_url: "https://www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813"
+final_url: "https://www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813"
+provider: "exa"
+text_sha256: "31b05a89c53f1606cfcd9ad2f3abc23caf82cf2d5af7dfe3b0db773e1c13c019"
+title: "Napol\u00e9on et les arsenaux de la Marine - Pers\u00e9e"
+content_kind: "page_text"
+---
+
+Napoléon et les arsenaux de la Marine - Persée
+
+#### [article]
+
+ Capitaine de vaisseau Muracciole 
+
+ Revue historique des Armées Année 1974 1-1 pp. 83-98 
+
+ Muracciole J. Napoléon et les arsenaux de la Marine. In: Revue Historique des Armées, 1e année, numéro 1, 1974. Spécial : 600 ans de constructions navales. pp. 83-98.
+
+ www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813
+
+### Plan
+
+1. L’héritage de la Révolution [link]
+2. Les arsenaux en 1800 [link]
+3. Napoléon et la technique des Constructions navales [link]
+4. La Flotte à la rupture de la Paix d’Amiens [link]
+5. Une politique des arsenaux [link]
+6. Conclusion [link]
+
+### Liste des illustrations
+
+1. La frégate Le Muiron débarque le Général Bonaparte à Fréjus le 9 octobre 1799. A Paris, chez Wild (B.N.) [link]
+2. Vue de l’intérieur du port de Brest vers 1789. Gravure anonyme (B.N.) [link]
+3. Toulon en 1803. Gravure par Baugean (Musée de la Marine) [link]
+4. Gravures par Baugean (B.N.) [link]
+5. Gravures par Baugean (B.N.) [link]
+6. Gravure par L. Garneray (B.N.) [link]
+7. Plan de l’Arsenal de Venise. Gravure de Carlo Spongia 1797. Museo Storico Navale di Venezia (Musée de la Marine) [link]
+8. Une des premières frégates cuirassées : la Provence (1863) du type Flandre au mouillage à Alger [link]
+
+### Texte intégral
+
+ Napoléon et les arsenaux de la Marine
+
+ AU début du Consulat, Bonaparte choisit Forfait comme ministre de la Marine. Pierre Forfait est un ingénieur constructeur très coté, et sa valeur est comparable à celle de Sané dont la réputation est im¬ mense. Ce choix marque l’intérêt que Napoléon a toujours porté aux constructions navales et aux arsenaux. Il a connu Forfait pendant la campagne d’Italie quand il a occupé Venise. Trouvant un arsenal en semi -léthargie, il a cherché à lui redonner une activité plus grande et il a demandé un ingénieur au Directoire qui lui a envoyé Forfait. Bonaparte a eu ainsi l’occasion de juger l’homme et le technicien à l’ouvrage et il en a été d’autant plus satisfait que Forfait a été son premier professeur de Marine. La correspondance échangée en 1797 entre Bonaparte et l’ingénieur est très instructive. Le général pose des questions sur tous les sujets et Forfait répond de façon détaillée. Nommé au commandement de l’Armée d’Angleterre, Bonaparte est amené à s’intéresser de très près à l’état des ports et de la Marine. Ce qu’il en voit le convainc de l’in¬ suffisance de nos moyens navals. Il en conclut qu’il est nécessaire de construire et pour cela il faut du temps et de l’argent. Après Trafalgar, il se décide à refaire une Marine et jusqu’à la fin de son règne il ne cessera d’aiguillonner Decrès qui a remplacé Forfait pour que l’on construise des vaisseaux.

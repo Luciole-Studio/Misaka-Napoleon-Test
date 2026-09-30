@@ -1,0 +1,32 @@
+Part One: Draught Animal Numbers
+
+In this article we present new series for draught animals available for use in agriculture for all
+the countries concerned. The livestock series are based on a mixture of already available
+series, previously available data adjusted to improve accuracy, and material collected from
+printed statistical sources. However, almost inevitably, inconsistencies remain between series
+that are assembled from data collected using different premises. For example, they contain
+aggregates of different animals, in part because of genuine differences in agricultural practice
+(thus it is of no importance that donkeys or mules do not appear in the English series).
+Wrigley’s schema did not embrace donkeys or mules, but they are of some significance in
+Mediterranean agriculture, including that of southern France. There is rather less data on the
+amount of work performed by these beasts, or what they consumed, than for horses and
+oxen. This is unimportant for England and Wales, or the Netherlands, where nearly all work
+was done by horses, but is probably significant elsewhere. Equally, not all series contain
+cows, although they were widely employed for draught purposes and outnumbered draught
+oxen in Germany as late as the beginning of the twentieth century. For aggregating the
+number of animals we first use the principles outlined by Wrigley in 1988 and 1991 to
+calculate ‘raw’ data of livestock numbers, where one ox equals two-thirds of a horse (exactly
+the proportion also employed by contemporary German statisticians). Similar allowances are
+made for other animals: one mule is assumed to equal one horse, a donkey half a horse, and
+a cow one-third of an ox, i.e. two-ninths of a horse.
+
+
+A very important further problem is assessing how many of these animals out of the national
+herd were actually used in the agricultural sector. This disaggregation is rarely made although
+in some countries total numbers of beasts give a very misleading impression as to those
+available for draught use in agriculture. In England the number of horses employed on-farm
+is very clearly recorded from 1867. In estimates from the early nineteenth century, it seems
+that agricultural horses made up around 60% of the total number of horses, less than half by
+1870 and a mere third by the start of the twentieth century. In 1852 72% were so employed
+in France, falling to 53% by 1890. In the German states as a whole the first comprehensive
+statistics from 1873 suggest that 70% of horses were predominately used in agriculture, and a

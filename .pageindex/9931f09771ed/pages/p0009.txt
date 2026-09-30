@@ -1,0 +1,47 @@
+                                                 -7-
+
+       In terms of its effect on import and export prices, therefore, the embargo was roughly
+
+equivalent to at least a 60 percent import tariff, perhaps larger if the United States was not a
+
+small country and could affect world prices. Although it did not reach the point of complete
+
+autarky as a result of the embargo, the United States was by mid- to late-1808 about as close to
+
+being fully shut off from international commerce as it has ever been in its history.9 How much of
+
+the gains from trade were sacrificed in this policy action?
+
+
+
+3. Assessing the Gains from Trade
+
+       This section sets out the simple general equilibrium framework that will be used to
+
+calculate the welfare cost of the Jeffersonian trade embargo. The gains from trade can be
+
+represented by the difference in the utility level associated with the free trade consumption
+
+bundle and the utility level associated with the autarky production bundle. Following Grinols
+
+and Wong (1991), the compensating variation change in welfare from an initial trading situation
+
+(subscripted 0) to another (subscripted 1) can be expressed using the expenditure function:
+
+(1)                                    )W = e(p1, u1) - e(p1, u0).
+
+By the definition of the expenditure function,
+
+(2)                            e(p1, u1) / p1@x1 = p1@y1 + (p1 - p1*)@m1 + B1,
+
+where x is the vector of consumption, y is the vector of production, m is the vector of trade (mi /
+
+xi - yi, such that imports are positive and exports are negative), p is the vector of domestic prices,
+
+
+
+       9
+         Figure 1 shows that the value of trade was lower in 1814 than in 1808, but this was due
+as much to the war with Britain as to any formal policy measure. The calculations below will
+focus on the shock between 1807 and 1808, two adjacent years in which the effects of policy can
+be most clearly identified.

@@ -1,0 +1,59 @@
+
+
+## 三、长期社会与技术
+
+### HR16　Ferenc Hörcher，2016
+- *Enlightened Reform or National Reform? The Continuity Debate about the Hungarian Reform Era and the Example of the Two Széchenyis (1790–1848)*，*Hungarian Historical Review*5(1)。
+- URL：https://hunghist.org/84-abstract/351-2016-1-horcher
+- 本地：`downloads/pages/17447f15be10.md`；实读导言、Preliminary Remarks、Latest Phase、Nineteenth-Century Views开头（L26–69）及注53。
+- 所证：1812后十三年不召议会、文化机构与语文网络、Hitel1830、Széchenyi/Kossuth1841争论。作者明示“will not use new primary resources”，是思想史再解释，非新档案发现。
+
+### VM　Wien Geschichte Wiki《Vormärz》与Stephan Gruber《Franz II (I) and the Metternich System》
+- URL：https://www.geschichtewiki.wien.gv.at/Vorm%C3%A4rz ，`downloads/pages/c5194d3db60c.md`；https://www.habsburger.net/en/chapter/franz-ii-i-and-metternich-system ，`downloads/pages/6a70f356e610.md`。均读全文。
+- 承重：弗朗茨授权警察/审查，Sedlnitzky与梅特涅；理工/铁路/工业同时存在；1840年代歉收、食价与贫困。
+- 限制：机构/博物馆概述，不能替代Siemann对梅特涅的全面重估；不以“警察国家”标签自动推出一切具体政策。
+
+### F35　Stephan Gruber，《Der regierungsunfähige Kaiser: Ferdinand I.》
+- URL：https://www.habsburger.net/de/kapitel/der-regierungsunfaehige-kaiser-ferdinand-i
+- 本地：`downloads/pages/914e3418f267.md`，实读正文。
+- 所证：1835Ferdinand继位、秘密国务会议成员Ludwig、Franz Karl、Metternich、Kolowrat及Sophie影响。
+- 不采用嘲讽病症的绰号、1848“允许革命吗”的轶事，也不把癫痫单独等同无法履职；只取集体辅助执政结构。
+
+### RAIL　Wien Geschichte Wiki，《Nordbahn》
+- URL：https://www.geschichtewiki.wien.gv.at/Kaiser-Ferdinands-Nordbahn
+- 本地：`downloads/pages/f56f440eec96.md`；读1835–48开篇与早期路线段。
+- 所证：1836特许50年、Riepl赴英、Rothschild煤矿权益、1837试车、1838定期、1839Brünn。
+- 页面对Rothschild名字及Oderberg年份有疑点，未采用这些精确身份/年份；试车/礼仪/常班三个日期不相互混淆。
+
+### DDSG　Wien Geschichte Wiki，《Donaudampfschiffahrtsgesellschaft》
+- URL：https://www.geschichtewiki.wien.gv.at/Donaudampfschiffahrtsgesellschaft
+- 本地：`downloads/pages/86b2fc3fc26a.md`；实际读1828–46创设与Die frühe Flotte，不用后段20世纪数据。
+- 所证：John Andrews/Josef Prichard英国船匠获1828特许，1830首航、1831常班，1834海船为奥斯曼航线工具。
+
+### TY　Stephan Gruber，蒂罗尔抵抗博物馆专文
+- *Resistance in the ‘holy land’ of Tyrol: a Tyrolean Taliban?*，Die Welt der Habsburger。
+- URL：https://www.habsburger.net/en/chapter/resistance-holy-land-tyrol-tyrolean-taliban
+- 本地：`downloads/pages/9a69563ae505.md`，全文读；辅助Hofer人物页`downloads/pages/63870d6f50b8.md`。
+- 所用：地方权利/宗教、奥国鼓励、弗朗茨未能守诺、1809再败、1810处决。**不采用标题Taliban类比**、不引未经溯源拿破仑赞语，纪念政治与1809动机分开。
+
+### E16　Christopher Jütte，《Die Hungersnot 1816/17》
+- Deutsches Historisches Museum，LeMO。
+- URL：https://www.dhm.de/lemo/kapitel/vormaerz-und-revolution/alltagsleben/die-hungersnot-1816/17
+- 本地：`downloads/pages/2c86b127592b.md`，全文读。
+- 原句：“die besondere Belastung der Befreiungskriege ... Kornreserven ... Viehbestand”；“Handel ... auch innerhalb ... teilweise zum Erliegen”。
+- 适用限制：德意志相邻地区天气—储备—粮禁机制，不把巴伐利亚半收成等量直接外推奥国；不保证反事实仍有同样战争与政策。
+
+## 四、法国继承规则
+
+### FR04　《共和十二年宪法》，1804年5月18日
+- 版本：Conseil constitutionnel历史文本。
+- URL：https://www.conseil-constitutionnel.fr/les-constitutions-dans-l-histoire/constitution-de-l-an-xii-empire-28-floreal-an-xii
+- 本地：`downloads/pages/2db1b3d107b9.md`；实读3–7、17–31条。
+- 第17条十八岁成年；第18条原禁女摄政；30条母亲监护。**须与FR13修订并用**。
+
+### FR13　摄政组织元老院决议，1813年2月5日
+- 实读法德并排转录之法文1–19条；底源标*Bulletin des lois de l’Empire français*，1813，série4，no474，p.141，原刊未图核。
+- URL：https://www.verfassungen.eu/f/fverf13-3.htm
+- 本地：`downloads/pages/9f08012c5301.md`。
+- 第1条“l’Impératrice mère réunit de droit ... la régence de l’Empire”；第5条外国王位限制；第11条完整皇权；第16条非其子继位则结束母后摄政。
+- **页面瑕疵**：标题和1812前导系复制错；德译15条把“有继承弟弟继续”翻反，故不引德译。尾部对03-30临时摄政概括亦未采用。核心修订经Z08核对。

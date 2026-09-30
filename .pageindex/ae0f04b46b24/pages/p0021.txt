@@ -1,0 +1,742 @@
+
+
+Place. 
+
+County 
+
+Dist. 
+
+M.D 
+
+Pa. 
+
+Place. 
+
+County 
+
+Dist. 
+
+M.D 
+
+Pa. 
+
+Darton 
+
+York. 
+
+175  3 
+
+400 
+
+Dolgelli 
+
+Merio. 
+
+208  3 
+
+Tue. 
+
+243 
+
+Daventry 
+
+N.amp 
+
+7*  7 
+
+Wed 
+
+296 
+
+Doncaster 
+
+York. 
+
+— 
+
+Sat. 
+
+Davidstow 
+
+Corn. 
+
+223  5 
+
+
+
+98 
+
+—by    Hatfield 
+
+Deal  (Lower) 
+
+Kent 
+
+— 
+
+Th. 
+
+and  Worksop 
+
+— 
+
+163   6 
+
+— 
+
+5$i 
+
+— by  Goodr.eston 
+
+— 
+
+71   7 
+
+— 
+
+16 
+
+— by    Ware   and 
+
+— by  Sandwich 
+
+— 
+
+75  2 
+
+— 
+
+15 
+
+Worksop 
+
+— 
+
+'59  £ 
+
+— 
+
+447 
+
+Deal  (Upper) 
+
+Kent 
+
+74  2 
+
+*5 
+
+—by   Ware   and 
+
+Dean 
+
+Hants 
+
+50  7 
+
+
+
+55 
+
+Tuxford 
+
+— 
+
+158  0 
+
+— 
+
+481 
+
+Dean 
+
+Chesh. 
+
+160  5 
+
+— — 
+
+309 
+
+Donhead 
+
+Wilts 
+
+97  1 
+
+
+
+107 
+
+Dean  Prior 
+
+Devon 
+
+if'5  4 
+
+
+
+91! 
+
+Donnincton 
+
+Line. 
+
+106  2 
+
+Sat. 
+
+526 
+
+Debenham 
+
+Suff. 
+
+83   2 
+
+Fri. 
+
+557  i Dorchester 
+
+Dorset 
+
+119  6 
+
+Sat. 
+
+56 
+
+Deddington 
+
+Oxon 
+
+6q   i; 
+
+Sat. 
+
+222! 
+
+Dorchester 
+
+Oxon 
+
+49   1 
+
+
+
+152 
+
+Dedham 
+
+Essex 
+
+58   6 
+
+Tue. 
+
+554! 
+
+Dorfcocker 
+
+Lane. 
+
+199  4 
+
+33i 
+
+Dee  Bridge 
+
+Kinca . 
+
+5*4  5 
+
+
+
+460 
+
+Dorking 
+
+Surry 
+
+23   2 
+
+Th. 
+
+43 
+
+Deeplake 
+
+Pemb. 
+
+260  4 
+
+
+
+167 
+
+Dormington 
+
+Here/. 
+
+130  3 
+
+
+
+21Q 
+
+Denbigh 
+
+Denb. 
+
+218  0 
+
+Wed 
+
+315 
+
+Domock 
+
+Dumf. 
+
+326   1 
+
+336 
+
+Denighton  Br. 
+
+Laner. 
+
+368   1 
+
+
+
+3601 
+
+Douglas  Mill 
+
+Denmark  Hill 
+
+Suny 
+
+2  2 
+
+3i 
+
+Inn 
+
+Laner. 
+
+375  4 
+
+360 
+
+Denton 
+
+Kent 
+
+64  2 
+
+
+
+7 
+
+Doveford 
+
+Roxb. 
+
+319  7 
+
+
+
+436 
+
+Densel 
+
+Kent 
+
+68  0 
+
+
+
+8 
+
+Dover 
+
+Kent 
+
+71  0 
+
+W.S. 
+
+7 
+
+Denver 
+
+Nor/. 
+
+83   7 
+
+
+
+508 
+
+Dovvdswell 
+
+Glouc. 
+
+— 
+
+Diptford 
+
+Kent 
+
+4   1 
+
+
+
+3 
+
+— by  Henley 
+
+— 
+
+94  1 
+
+— 
+
+181 
+
+Deptford  Inn 
+
+Wilts 
+
+87   2 
+
+IOC 
+
+— ky  Wycombe 
+
+— 
+
+90  6 
+
+— 
+
+*95 
+
+Derby 
+
+Derb. 
+
+126  4 
+
+Fri. 
+
+324 
+
+Down  Hurst- 
+
+Dereham  (East) 
+
+Norf. 
+
+101  4 
+
+Fri. 
+
+529 
+
+borne 
+
+Hants 
+
+«8  6 
+
+
+
+55 
+
+Derry  Hill 
+
+Wilts 
+
+90  1 
+
+
+
+136 
+
+Down  ham 
+
+Norf. 
+
+85  2 
+
+Sat. 
+
+508 
+
+Dersingham 
+
+Norf. 
+
+106  2 
+
+
+
+529 
+
+Downton 
+
+Wilts 
+
+87   1 
+
+
+
+JI5 
+
+Desborough 
+
+N.amp 
+
+80  0 
+
+
+
+396 
+
+Drayeot 
+
+Som. 
+
+126   1 
+
+
+
+126 
+
+Devil's  Bridge 
+
+Card. 
+
+iy4  3 
+
+213 
+
+Draycott 
+
+Staff. 
+
+147  3 
+
+368 
+
+Devil's  Ditch 
+
+Catnb. 
+
+59  0 
+
+
+
+5*9 
+
+Drayton 
+
+Salop 
+
+161   3 
+
+Wed 
+
+406 
+
+Devizes 
+
+Wilts 
+
+. — 
+
+Th. 
+
+Driffield  (Great) 
+
+York. 
+
+192  7 
+
+Th. 
+
+49i 
+
+— by  Ando'ver 
+
+— 
+
+89  6 
+
+— 
+
+H7 
+
+Droitwich 
+
+Wore. 
+
+118  1 
+
+Fri. 
+
+224 
+
+— by  Marlborough 
+
+— 
+
+88    1 
+
+— 
+
+H5 
+
+Dronfield 
+
+Derb. 
+
+*56  5 
+
+
+
+384 
+
+Diddlesford 
+
+Sussex 
+
+44  5 
+
+
+
+34 
+
+Dr  oxford 
+
+Hants 
+
+63  4 
+
+
+
+85 
+
+iDidmarton 
+
+Ghuc. 
+
+104  2 
+
+186 
+
+Drumflower 
+
+Wigt. 
+
+412  5 
+
+
+
+339 
+
+JDidsbury 
+
+Lane. 
+
+180  5 
+
+
+
+392 
+
+Drumlithie 
+
+Kinca. 
+
+495  6 
+
+460 
+
+Dinastow 
+Dinas  y  Mowd- 
+
+Monm 
+
+135   0 
+
+199 
+
+JDudley 
+(Dudley  Hill 
+
+Wore. 
+York. 
+
+126  7 
+196  5 
+
+Sat. 
+
+272 
+425 
+
+dy,  or  Dinas- 
+
+iDuffield 
+
+Derb. 
+
+130  6 
+
+
+
+427 
+
+mouthy 
+
+Merio. 
+
+199  3 
+
+Fri. 
+
+243 
+
+jDulverton 
+
+Som. 
+
+,63  5 
+
+130 
+
+Dish  forth 
+
+York. 
+
+207   £ 
+
+
+
+448 
+
+JDulwich 
+
+Surry 
+
+4  0 
+
+31! 
+
+Dishiey 
+
+Leic. 

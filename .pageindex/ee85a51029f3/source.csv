@@ -1,0 +1,4 @@
+﻿scenario,present_supply,supply_status,demand_low,demand_central,demand_high,balance_low,balance_central,balance_high,sustainable800k_at85_balance_central,lite_30k_gross_allied_interruption_balance,status
+S6_lite,595000,lite_same700k_no_free_new_army;others_deliberately_generous1000k,436500,566250,706000,158500,28750,-111000,113750,3250,conditional_sensitivity_no_probability
+S6_max,800000,lite_same700k_no_free_new_army;others_deliberately_generous1000k,729500,922250,1131000,70500,-122250,-331000,-242250,,conditional_sensitivity_no_probability
+S6_full,800000,lite_same700k_no_free_new_army;others_deliberately_generous1000k,869500,1102250,1351000,-69500,-302250,-551000,-422250,,conditional_sensitivity_no_probability

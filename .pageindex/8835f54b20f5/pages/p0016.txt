@@ -1,0 +1,52 @@
+VOL. 101 NO. 7                    ACEMOGLU ET AL.: CONSEQUENCES OF RADICAL REFORM    3301
+
+
+
+occupied by the French by 1849, though these differences are not statistically sig-
+nificant. They become larger and statistically significant by 1882 and remain so
+until 1908. This evidence therefore corroborates the pattern that emerges from the
+urbanization data, suggesting that there was more rapid industrialization in areas
+that underwent more significant reforms because of French occupation and invasion.
+
+                           IV. Institutional Reforms and Economic Growth
+
+   In this section, we first use the data we collected on institutional reform across the
+German polities to document the relationship between French occupation and (the
+timing of) reforms, thus establishing a firm link between French control and dimen-
+sions of institutional reforms that we can measure. We then use this relationship as
+the first stage for a two-stage least squares (2SLS) strategy, where we estimate the
+effect of an index of institutional reforms on growth during the nineteenth century.
+This 2SLS strategy has three distinct advantages. First, it enables us to show a simple
+link between institutional reforms and growth in the nineteenth century. Second, the
+reduced-form evidence is difficult to interpret because some of the control polities,
+such as Baden or the provinces of Prussia east of the Elbe, also underwent institutional
+reforms, in part in a process of “defensive modernization” in response to the threat of
+further French domination in continental Europe. The 2SLS estimates will be more
+readily interpretable. Third, this strategy will enable us to conduct overidentification
+tests to investigate whether we can reject the hypothesis that the effects of French
+occupation are working primarily or solely through the institutional reforms.
+
+                          A. French Occupation and Institutional Reforms
+
+   Table 1 and Figure 1 depicted our overall reform index and illustrated the rela-
+tionship between our various reform measures and years of French presence. To
+summarize the relationship between the reform index and French occupation more
+succinctly and in a way that can be used as the first stage for our 2SLS strategy, we
+posit the following simple regression equation:
+
+(3)                      Rjt = dt + δj + ψ × t × Tt>1800 × Ij + ηjt ,
+
+
+where Rjt is the value of our reform index for polity j at time t; dt and δj are time
+effects and polity fixed effects; as usual, Ij is our treatment variable, years of French
+presence, and ηjt is a disturbance term. The variable Tt>1800 is a dummy for post-1800
+dates (1850, 1875, and 1900), so that t × Tt>1800 is a linear time trend that turns on
+after 1800 (and is equal to 0 before then).18 Intuitively, this form implies that the
+longer it has been since a polity has undergone French occupation, the higher its
+reform index will be. This functional form is reasonable given the process of reform
+in Germany, which started earlier in areas under French occupation but, by the late
+1800s, spread similar reforms to the rest of Germany.
+
+
+  18
+       To simplify the interpretation of coefficients, time t is divided by 1,000.

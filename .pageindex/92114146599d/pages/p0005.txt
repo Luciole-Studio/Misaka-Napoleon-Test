@@ -1,0 +1,126 @@
+factors, but by geo-political motives. Equally important for the identification strategy is the question why
+regions that adopted the Code Civil did not continue its application after 1815. The historical sources
+give rise to the interpretation that the continuation largely depended on the outcome of the political bargain at the Congress of Vienna and the level of reform-mindedness of local autocratic rulers, most likely
+at conflict with the preferences and values of their citizens.
+15
+However, the treatment arguably is spatially clustered, as regions close to France have been more likely
+to be treated.26 That implies that the complete sample specifications compare possibly heterogeneous
+regions, geographically as well as culturally. Comparing a region located at the Baltic Sea with a region
+in the South-West of Germany is problematic in several ways. Cultural differences might have been
+fundamental, in a sense that those regions started out with different levels of social capital in the early
+19th century. Differences in local characteristics, such as of geographical nature, e.g. the access to the
+coast, and the paths of economic development undertaken are further potential influences of cooperation.
+I would therefore like to compare more homogeneous, that is more closely located, regions.
+I therefore restrict the sample to a border sample of individuals living in regions within a 50 km corridor
+from the border, separating regions that applied the Code Civil for more than 90 years from those that
+applied in only few year. This sample thus reduces heterogeneity in fundamental pre-treatment characteristics, as closely located individuals can - in the absence of a treatment - be expected to express
+relatively similar norms and values.
+The border sample has two further interesting features, as it first defines the treatment only for regions
+that adopted the Code Civil for a long time. If the institutional and legal reform had an effect on culture,
+a slowly moving and hard to change variable, it is more likely that the effect of the Code Civil needed
+several years to disperse. Indeed, Guiso, Sapienza, and Zingales (2008b) estimate, that a shock requires
+about 75 years (2 to 3 generations) to have a long-lasting effect on social capital. The timespan of
+the longest adoption of the Code in the sample, more than 90 years, fits very well to this estimation.
+Furthermore, the border specification allows to analyze effects within current Federal States. Being a
+federal republic, Germany has transferred some of its administrative duties to the sixteen federal states
+(Länder) that are, for example, in charge of the education system, but more relevant in this context the
+police and court system. It is possible that current differences in the functioning of local institutions
+influence social capital, and thus potentially bias the results.
+3.5 Border Effects
+The border sample analysis compares regions having applied the Code Civil on the East (left) side of the
+border with regions having used either common law or the ALR on the West (right) side of the border. On
+both sides of the border those regions are included in the border sample whose centroids have a maximal
+26In the complete sample I partially account for this by controlling for the distance to Paris and measures for the longitude
+and latitude.
+16
+GIS measured distance of 50 km to the border. Figure 5 displays the spatial distribution of the treatment.
+Figure 5 about here
+In contrast to the the complete sample analysis, it is more natural to define the treatment as a dummy
+variable that takes on the value 1 if the region is located on the left side of the border, and 0 otherwise.
+I will refer to the first group as the treated and the latter as the untreated. The treated group kept the
+Code Civil on average more than 90 years and thus significantly longer than the regions on the right of
+the border. Summary Statistics for the border sample are also displayed in Table 1.
+Table 4 about here
+Table 4 shows the results of the regressions conducted. The first regression includes all border locations,
+even those located in Federal States without within state treatment variation. The coefficient of the
+treatment border controlling for individual controls is positive and significant on the 1 percent level.
+Individuals living in the treated regions, have on average a 0.04 higher level of trust. To be able to include
+Federal States fixed effects, I restrict the sample so that only federal states with within variation in the
+treatment remain. Consequently I keep only counties located in the territories Rhineland, Westphalia,
+Mark, Baden and Wuerttemberg. In column (2) an identical model as in column (1) is regressed, this
+time using the restricted sample. The results are comparable in magnitude, although with a coefficient
+of 0.05 a bit higher and significant on the 1 percent level. Column (3) to (4) show the robustness of
+this result using the other two social capital related questions as outcomes. Column (5) to (7) include
+controls for religion, education, economic controls as well as Federal States fixed effects that account for
+unobserved heterogeneity on the federal state level. The treatment variable stays positive and significant
+for all outcomes. The magnitude of the effect for trust (0.049) is larger then the influence of the personal
+controls and religion, but smaller then the effect of education and economic controls. Having applied
+the Code Civil results in about 0.1 of a standard deviation higher trust today. When the same model is
+regressed using family values as a counterfactual attitude, I do not find a significant difference between
+treated and untreated regions. This again supports the peculiar impact of the quality of institutions on
+cooperation. In column (9), only the two historical regions Rhineland and Westphalia are compared,
+thus excluding Baden, and Wuerttemberg. The exclusion follows the same reasoning as in the complete
+sample analysis, as Baden, which did not directly adopt the Code Civil through French occupation,
+is dropped. It is a particularly interesting specification as it allows to identify within Prussia effects,
+as both, Rhineland and Westphalia were part of Prussia after 1815. In other words, holding all other
+17
+common Prussian characteristics constant, the estimation produces a positive and significant coefficient.
+Finally, column (10) includes urbanization in 1850 as a control. The result is robust to include alternative
+historical controls, one by one, as shown in Table 5. Including those controls leads the coefficient to
+decrease slightly, as well as its significance. The weaker results can be attributed to the limited regional
+variation in this specification with only 5 historical territories.
+Table 5 about here
+I find very similar results in a standard spatial regression discontinuity design, controlling for the distance, its square and distance interacted with the treatment variable, as shown in Table 6.
+Table 6 about here
+3.6 Moving the Border
+In this subsection I conduct a falsification exercise similar to Becker et al. (2011a). The goal is to support
+the identification of causal link, i.e. to show that the treatment effect found in the previous subsection
+does not reflect a general West-East pattern, but a genuine treatment effect. To generate a false treatment
+the border is moved twice. The first time it is moved outwards, that is to the North-East. This allows
+to generate a placebo treatment comparing individuals living in regions unaffected by the true treatment
+on both sides of the border. Then the border is moved inwards, that is to the South-West, so to compare
+regions that have been treated on each side of the border. In both cases one would expect to find a nonsignificant treatment effect. For the outwards shift because there did not exist a true long-term Napoleonic
+treatment. For the inward shift because actually treated regions should be similar with respect to trust
+levels. I construct two new borderlines, each being the joint outline of the regions included in the original
+border sample. For the inward shift this is the common outline of the treated, for the outward shift this is
+the common outline of the untreated group. I then follow the procedure above and include regions that
+are located within a 50 km band on each side of the border, only keeping federal states having within
+state variation in the placebo treatment. Regions on the left to the border are considered as having been
+treated by an improvement in the law enforcement. See Figure 6 for a graphical representation of the
+regions included in the different samples.
+Figure 6 about here
+18
+If the results found in the previous section are due to the true treatment moving the border and performing
+the same regressions as above should not display an effect of the fictitious treatment variable on social
+capital outcomes. Since no treatment took place in the regions that are placebo treated, they should not
+differ significantly in the outcome variables.
+Table 7 about here
+Results from this falsification test are shown in Table 7. Columns (1) to (4) display the results from moving the border outwards, columns (5) to (7) respectively the results from a moving the border inwards. As
+it can be seen from columns (1), the one border movement suggests no statistically significant difference
+in the way people trust between placebo treated regions and controls. The coefficient is already small and
+increases further when state fixed effects are included in column (2). Controlling for other influences on
+the individual level only leads to a change in the sign of the treatment coefficient in column (3). Finally,
+including historical controls for initial shares of protestantism and urbanization rates do not change the
+result, as shown in column (4).
+The finding of a non-significant treatment effect holds true for regressions of the treatment generated
+from moving the border inwards. While the coefficient of the fictitious treatment variable is now constantly negative, it is still insignificant, as shown in column (5). This is robust to including Federal States
+fixed effects in column (6), to control for further covariates in column (7) and for historical controls in
+column (8). This exercise allows to infer that only in the original border specification, using the correct
+border treatment, there exists a positive, significant and positive treatment effect for regions on the left
+of the border. Hence, the falsification tests and the original results suggest a peculiarity attributable to
+the Napoleonic influence.
+3.7 Comparing Pre-Treatment Characteristics
+While the border sample already cancels out much of pre-treatment heterogeneity, it is still possible
+that differences in initial regional characteristics drive my results. Ideally I would like to observe and
+compare regional pre-treatment levels of social capital. Since this is not possible given the lack of data,
+comparing pre-treatment characteristics that have been shown to be able to explain social capital levels in
+different contexts is the best feasible alternative. For this purpose I assembled data on several dimensions
+having been identified in the literature to matter for social capital levels and at the same time might give
+further insights about the reception of the Code Civil. For some variables this data is only available at
+19
+the provincial level, and the limited number of observations make statistical tests inaccurate and to be
+interpreted carefully. Other variables are available on the city level such that common statistical mean
+comparison tests can be meaningfully interpreted. Table 8 reports the pre-treatment mean comparisons
+of those variables.
+Table 8 about here
+For the variables on the territory level and the complete sample shown in column (1) and (2), one can

@@ -1,0 +1,62 @@
+   Our estimation strategy has all of the potential advantages and hazards of standard DD esti-
+
+mators. Country fixed effects control for all time invariant factors that differ between countries.
+
+Time period fixed effects control for any secular patterns of population growth or urbanization
+
+that affect all regions similarly. Our identification relies on the assumption that conditional on the
+
+controls, there are no other events, also occurring around 1700, that may have affected population
+
+or urbanization. This assumption should not be taken for granted since there were many changes
+
+during the 18th and 19th centuries which could have affected population or urbanization. In the
+
+section on robustness, we will consider and control for a large number of alternative country
+
+characteristics and historic events that may potentially confound our estimates. We discuss this
+
+in more detail in the Section 5C.
+
+   One important caveat when interpreting our results is that the strategy literally estimates
+
+the effect of suitability conditional on the introduction of potatoes, rather than the effect of the
+
+introduction of potatoes. As with any “experiment”, our estimates cannot directly estimate the
+
+effect of potatoes relative to a counterfactual state of the world where potatoes do not exist. To
+
+use our results to shed light on the overall effect of the introduction of potatoes, there must not be
+
+spillovers between countries. In Section 5B we test for the presence of spillover effects, and show
+
+that they are estimated to be very close to zero.
+
+
+5. Estimation Results
+
+A. Flexible Estimation
+
+We begin with estimates for our flexible estimating equation (1). The estimates are reported in
+
+Appendix Table A3 and visually in Figures 3 and 4. The figures show for each of our four outcome
+
+variables – population, population growth, urbanization, and change in the urbanization rate –
+
+the relationship in each time period, between the outcome of interest and, either the suitability
+
+for potato cultivation, or the suitability for overall agriculture. These coefficients are the β j ’s and
+
+δj ’s in equation (1). The y-axes of the figures are identical in scale so that the magnitudes of the
+
+coefficients can be easily compared. Because equation (1) includes time-period and country fixed
+                                                    j                 j
+effects, the estimated coefficients for Potatoi × It and AllCropsi × It must be measured relative to a
+
+baseline time period, which we take to be the year 1000. Therefore, the figures show the estimated
+
+relationship between suitability in the dependent variable relative to the relationship in 1000 AD.
+
+
+
+                                                    21

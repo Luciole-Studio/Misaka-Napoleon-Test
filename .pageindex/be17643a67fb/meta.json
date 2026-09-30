@@ -1,0 +1,16 @@
+{
+  "doc_id": "be17643a67fb",
+  "title": "[t_998052] nodes/r_5b1357a9c6/cards/t_998052/sources/annual/annual_1809_1815.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_998052/sources/annual/annual_1809_1815.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_5b1357a9c6/cards/t_998052/sources/annual/annual_1809_1815.csv"
+  ],
+  "sha256": "be17643a67fb6a98c9c8238f8743887412fb04e5ca6a90876a573ae44ba38832",
+  "pages": 1,
+  "task_id": "t_998052",
+  "task_ids": [
+    "t_998052"
+  ],
+  "added_at": 1790160728,
+  "office_format": "csv"
+}

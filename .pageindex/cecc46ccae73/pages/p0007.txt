@@ -1,0 +1,7 @@
+
+
+## 七、旧资产复用与语言偏向
+
+- 上一轮C4补证：`nodes/r_b55f2c1cf5/cards/t_95ef51/uk_fiscal_checks.md`；相关财政子表：`nodes/r_b55f2c1cf5/cards/t_104134/fiscal/`；旧总索引：`final/r_b55f2c1cf5-material-index.csv`。只作为线索；主承重Hansard、BoE与工作稿已经复读，不继承“未识别英国耐力”的旧终局。
+- 本轮分项备忘：`evidence_bank.md`、`evidence_tax_subsidy.md`保留子代理的逐条论证及限度；后续修正以本主报告/本表的显式更正为准，不抹去旧记录。
+- 英语一手机关材料较强，法语Crouzet仅经转引，瑞典语Heckscher仅读英译；**未满足两种非英语正文来源**，已在主报告披露。需要法方与产业史卡进行反向交叉；不能为了计数塞入没有使用的外语材料。

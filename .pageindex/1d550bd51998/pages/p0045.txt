@@ -1,0 +1,42 @@
+             Table 5: Dummies and corresponding chosen events
+
+Dummy      Date                         Event
+D1         20 November 1815             Second Treaty of Paris
+D2         14 December 1815             Banque de France pays debt arrears
+D3         28 April 1816                Creation of the Caisse d’Amortissement
+                                        Law settling debt arrears
+D4         5 September 1816             Dissolution of the legislature (Chambre introuvable)
+D5         25 March 1817                Crown settles debt arrears
+                                        Increase of government’s accountability
+D6         11 June 1817                 Banque de France pays debt arrears
+D7         9 May 1818                   French legislature accepts wartime claims
+D8         14 September 1822            Budgetary order to liquidate public expenses
+                                        during the 9 months following the end of the fiscal
+                                        year
+D9         10 December 1823             Financial annual account order
+
+
+        Table 6: Regression results – short-term impact of chosen events
+
+                                   Coefficient           p-value
+                    ̂ 1            0.9587*              0.0000
+                    ̂ 2,1           0.0046              0.2224
+                    ̂ 2, 2         -0.0002*             0.0000
+                    ̂ 2,3           -0.0007             0.7703
+                    ̂ 2, 4         -0.0032*             0.0000
+                    ̂ 2,5          -0.0010*             0.0000
+                    ̂ 2,6          0.0010*              0.0000
+                    ̂ 2,7          -0.00002             0.5114
+                    ̂ 2,8          -0.0003*             0.0012
+                    ̂ 2,9          -0.0006*             0.0000
+                    ˆ 0             0.0000              0.0548
+                    ˆ1             0.1732*              0.0093
+                    ˆ 2            0.6085*              0.0000
+                    R-squared           0.8956
+                    Adj. R-squared      0.8938
+                    * denotes significance at the 5% confidence level
+
+
+
+
+                                                                                               44

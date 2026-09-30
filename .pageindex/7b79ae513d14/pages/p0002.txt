@@ -1,0 +1,21 @@
+## Sheet: X2_enforcement_model.csv (continued)
+block,item,value,unit,kind,source,note
+D,customs_payroll_cost_with_overhead_2_2,38.5,m fr/yr,MODEL,"= 35,000 × 500 fr × 乘数",乘数含军官/总监薪级、兵站、船只、武器、诉讼与监狱成本；下界为纯普通员薪
+D,cost_to_revenue_1809_wageonly,151.0,%,MODEL,= 纯薪成本 / 1809年关税净收,"1809年是体系最严格、收入最低的年份：光工资就吃掉关税收入的百倍量级以上（注：1809年编制为27,200非35,000，见下行敏感性）"
+D,customs_agents_1809,27200,men,OBS,AHAD/Cahiers n°24 (二手),
+D,cost_to_revenue_1809_agents27200,117.0,%,MODEL,"= 27,200×500fr / 11.6m",纯普通员工资即为当年关税净收的1.17倍
+D,licence_fee_low,600.0,fr,OBS,Heckscher p.216 / AHAD,
+D,licence_fee_mid,800.0,fr,OBS,Heckscher p.216 / AHAD,
+D,licence_fee_colonial_import,6000.0,fr,OBS,Heckscher p.216 / AHAD,
+D,licence_revenue_500licences_low,0.3,m fr,MODEL,= 张数 × 费率,张数为情景假设，非观测；用以给许可证财政的量级上下界
+D,licence_revenue_500licences_mid,0.4,m fr,MODEL,= 张数 × 费率,张数为情景假设，非观测；用以给许可证财政的量级上下界
+D,licence_revenue_500licences_colonial_import,3.0,m fr,MODEL,= 张数 × 费率,张数为情景假设，非观测；用以给许可证财政的量级上下界
+D,licence_revenue_1000licences_low,0.6,m fr,MODEL,= 张数 × 费率,张数为情景假设，非观测；用以给许可证财政的量级上下界
+D,licence_revenue_1000licences_mid,0.8,m fr,MODEL,= 张数 × 费率,张数为情景假设，非观测；用以给许可证财政的量级上下界
+D,licence_revenue_1000licences_colonial_import,6.0,m fr,MODEL,= 张数 × 费率,张数为情景假设，非观测；用以给许可证财政的量级上下界
+D,licence_revenue_2000licences_low,1.2,m fr,MODEL,= 张数 × 费率,张数为情景假设，非观测；用以给许可证财政的量级上下界
+D,licence_revenue_2000licences_mid,1.6,m fr,MODEL,= 张数 × 费率,张数为情景假设，非观测；用以给许可证财政的量级上下界
+D,licence_revenue_2000licences_colonial_import,12.0,m fr,MODEL,= 张数 × 费率,张数为情景假设，非观测；用以给许可证财政的量级上下界
+D,licence_revenue_4000licences_low,2.4,m fr,MODEL,= 张数 × 费率,张数为情景假设，非观测；用以给许可证财政的量级上下界
+D,licence_revenue_4000licences_mid,3.2,m fr,MODEL,= 张数 × 费率,张数为情景假设，非观测；用以给许可证财政的量级上下界
+D,licence_revenue_4000licences_colonial_import,24.0,m fr,MODEL,= 张数 × 费率,张数为情景假设，非观测；用以给许可证财政的量级上下界

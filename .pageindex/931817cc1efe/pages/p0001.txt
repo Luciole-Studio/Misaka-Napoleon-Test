@@ -1,0 +1,58 @@
+---
+source_url: "https://www.richardjevans.com/publications/altered-pasts-counterfactuals-history/"
+final_url: "https://www.richardjevans.com/publications/altered-pasts-counterfactuals-history/"
+sha256: "b11fd01d8588a681b358412a41b36f00d7e70988ef4471bac60106b42d2320ab"
+text_sha256: "c46cdb69cfb63bb23c91f98f4799d156ef7d5110b0482985f6e737bfcf6caa18"
+title: "Altered Pasts: Counterfactuals in History | Richard J Evans"
+---
+
+Title: Altered Pasts: Counterfactuals in History | Richard J Evans
+
+- [Home](https://www.richardjevans.com/)
+- About
+
+- [Text Interviews](https://www.richardjevans.com/career-category/text-interviews/)
+- [Live Interviews](https://www.richardjevans.com/category/video-interviews/)
+- [Festschrift](https://www.richardjevans.com/about/festschrift/)
+
+- [Career](https://www.richardjevans.com/my-career/)
+
+- [CV](https://www.richardjevans.com/career/cv/)
+- [Management and Administration](https://www.richardjevans.com/career/management-and-administration/)
+- [Conferences and Seminars](https://www.richardjevans.com/career/conferences-and-seminars/)
+- [Editorial Activities](https://www.richardjevans.com/career/editorial-activities/)
+- [Graduate Teaching](https://www.richardjevans.com/career/graduate-teaching/)
+- [Undergraduate Teaching](https://www.richardjevans.com/career/undergraduate-teaching/)
+- [Prizes, Awards and Distinctions](https://www.richardjevans.com/prizes-awards-and-distinctions/)
+- [Professional Activities](https://www.richardjevans.com/professional-activities/)
+- [Research Fellowships and Visiting Positions](https://www.richardjevans.com/research-fellowships-and-visiting-positions/)
+- [Research Grants](https://www.richardjevans.com/research-grants/)
+- [Consultancies](https://www.richardjevans.com/consultancies/)
+- [Research Supervision](https://www.richardjevans.com/research-supervision/)
+
+- Publications
+
+- [Books in print](https://www.richardjevans.com/publications-category/books-in-print/)
+- [Complete Book List](https://www.richardjevans.com/publications-category/complete-book-list/)
+- [Journal Articles](https://www.richardjevans.com/publications-category/journal-articles/)
+- [Chapters in Books list](https://www.richardjevans.com/publications-category/chapters-in-books-list/)
+- [Book Reviews](https://www.richardjevans.com/publications-category/book-reviews/)
+- [Current & Future Plans](https://www.richardjevans.com/current-future-plans/)
+- [Research Notes & Communications](https://www.richardjevans.com/publications-category/research-notes-communications/)
+- [Review Articles](https://www.richardjevans.com/publications-category/review-articles/)
+
+- Lectures
+
+- [Lecture Texts](https://www.richardjevans.com/lecture-category/lecture-texts/)
+- [Lectures Notes](https://www.richardjevans.com/lecture-category/lectures-notes/)
+- [Gresham Lectures](https://www.gresham.ac.uk/speakers/professor-sir-richard-evans-fba)
+- [‘Hitler and Putin’ Ramsay Murray Lecture](https://www.youtube.com/watch?v=ltWcXEVsG9E)
+
+- Journalism
+
+- [All Journalism and Interviews](https://www.richardjevans.com/all-journalism-and-interviews/)
+- [Papers & Magazines](https://www.richardjevans.com/journalism-category/papers-magazines/)
+- [Obituaries](https://www.richardjevans.com/journalism-category/obituaries/)
+- [Radio & Television](https://www.richardjevans.com/journalism-category/radio-television/)
+- [Internet Articles](https://www.richardjevans.com/journalism-category/internet-articles/)
+- [Interviews](https://www.richardjevans.com/journalism-category/interviews/)

@@ -1,0 +1,40 @@
+G       Alternative hypotheses
+G.1      The allocation of soldiers
+One worry with our results may be that draftees from more rugged regions were allo-
+cated systematically to different destinations or army battalions and therefore faced
+different payoffs of draft-dodging than the rest, in which case our main results may
+be spurious. For instance, draftees in more rugged regions may have to travel longer
+to join their units, hence giving them additional opportunities to desert. Similarly,
+draftees from rugged departments may have been less likely to be assigned to the
+cavalry due to the latter’s higher height requirements, and since those those assigned
+to cavalry and artillery regiments received higher compensations they may have been
+less likely to desert. Hence, by not controlling for the allocation of soldiers we may
+be spuriously attributing to geography the effects of these correlates.
+    However, the historical record suggests that the bias may be going in the op-
+posite direction and that our measured impact of ruggedness on draft-dodging and
+conscription rates may be an underestimation. Specifically, the French government
+seems to have adopted the strategy of sending draftees from rural (and thus deser-
+tion prone) to regiments located in areas that made deserting harder (Pigeard 2000,
+p.235).
+    The documents compiled by Lacuée (AF/IV/1124) do not include detailed infor-
+mation about the destination of draftees. It does however gives information about
+the levy of 80,000 men from the 1810 cohort in 1808 in Etat des départemens Qui
+doivent fournir les Conscrits de 1810 et des Corps qui les recoivent. This document
+identifies the number of soldiers allocated to each regiment as well as the latter’s lo-
+cation. There were, in 1808, 3 levies for a total of 255,225 men Pigeard (2000, p.419).
+Hence we have detailed data about the allocation of around 30% of soldiers drafted
+in 1808. This is likely to be representative of the overall army since the allocation
+of soldiers followed a very consistent pattern through time as is made clear by the
+archival documents we collected.4
+    Using these data, we calculate the geographic distance between the capital of each
+department and the location of the regiment to which local draftees were sent. We
+then calculate the average geographic distance conscripts from each departments had
+to travel to their assigned military barracks (see variable “Distance to depot” in Table
+22). We also calculate the percentage of conscripts allocated to infantry, cavalry, and
+artillery units. Finally, we calculate what percentage of conscripts (allocated to either
+    4
+     See especially the “Tableau des corps qui ont eu le plus de déserteurs pendant le 1er semestre
+de 1808 ”, Archives Nationales, AF/IV/1124.
+
+
+                                                36

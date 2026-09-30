@@ -1,0 +1,33 @@
+# F2｜来源登记、原句与阅读边界
+
+本表覆盖主报告、F2_refinement.md、史实CSV及模型所用材料。短码不是独立证据数量：同一来源的多个数值不得算作互证。除明确说明，所引原档均为作者转引、未亲调。抓取文件是获得的版本，不保证完整原书；本卡只声称核读所列段落。短引文除特别说明外合并排版断行，个别数字和单位空格标准化；逐字检索宜回到对应保存文本或下述摘录笔记，不能把空格不匹配当成不存在。所有模型密度、退出率、可靠度、预算增长与情景人口代理均由本卡或具名合作卡设定，来源仅提供锚点和机制。
+
+## A．核心研究
+
+### H72　Houdaille的损耗与军籍研究（法语）
+Jacques Houdaille, « Pertes de l’armée de terre sous le premier Empire, d’après les registres matricules », Population 27/1 (1972), pp.27–50。
+- 实读版本：Persée全文抽取；https://www.persee.fr/doc/pop_0032-4663_1972_num_27_1_15097 ；保存`downloads/pages/b4cf5e9825fc.md`，doc同短哈希。本轮复核pp.42、46、48–50，旧卡已读方法段。笔记`notes_core_evidence.md`与`annual_levies_evidence.md`。
+- p.48–49原句：“2 655 000 conscrits auraient été appelés de l’an VII au 15 novembre 1813 et 2 480 000 auraient été incorporés”；范围1804疆域、含左莱茵及皮埃蒙特。条件式与Darquenne转引关系保留，不当逐年实到。
+- p.49：“1 915 000 Français (frontières de 1815) auraient servi sous l’Empire.” 加并合出身389,000为累计校正，非某日外籍比例。
+- p.50：1790–95男性成年级180万、1792级165,000约55%；30万是六级平均参考，不是1803–1848所有年份固定观测。
+- 死亡正文870,000、脚注890,000、结尾约900,000为同研究修正，非三个独立估值。Meynier的40万/90万和Bourgeois-Pichat约86万在本卡只经Houdaille转引，未核原作。SHD军籍样本不覆盖所有独立盟军/海员。
+
+### E97　Elting的陆军组织史（英语）
+John R. Elting, Swords Around a Throne: Napoleon’s Grande Armée，所读网页标Da Capo Press 1997版。
+- 版本：https://www.scribd.com/document/741223309/John-R-Elting-Swords-Around-a-Throne-Da-Capo-Press-1997 ；`downloads/pages/3762a4f8f4e3.md`，doc3762a4f8f4e3。页面正文捕获含第I–XVII章；不声称取得全书。工具p14、18–20、44–50、85–89是抽取分页，不当纸页。
+- 实读第II章Jourdan制，第III章1803–1814军队演化，第VIII章军官与军校，第XVI章补马补人。第III章1805约150,000为主战军非全国；1807普波324,000包括医院、约三分之一盟军。
+- 第II章原句：“Service would be for four years in time of peace, for the duration during war.” 法律只经作者转述，未核1798法原刊；战时留营不等于无限役期永远可行。
+- XVI原句：“The 1812 Russian campaign cost the Grande Armee at least 130,000, possibly 175,000 horses.” 引的是全军马，不限骑兵；其他国别购马数不叠为同日前线库存。
+- 第VIII章年龄例证、两年军校有时压一年，不推全国平均年龄。回忆录轶事均作回溯性，军人民族性刻板描写不采。
+
+### F89　Forrest：征兵与社会抵抗（英语）
+Alan Forrest, Conscripts and Deserters: The Army and French Society during the Revolution and Empire, Oxford University Press, 1989。
+- 实读pp.35–40、63、70–75与注释定位；https://rodrigomorenog.files.wordpress.com/2019/01/forrest-conscripts-and-deserters_-the-army-and-french-society-during-the-revolution-and-empire-oxford-1989.pdf ；`downloads/pages/81f2084d72ce.md`，doc同短哈希。
+- pp.70–72原句：“more valuable as a guide to police activity than as a measure of public opinion”。名单受执法、赦免、分类影响，不能直接画忠诚度地图。
+- 共和VII–XIII七省<10%、十六省>40%属混合累计拒征/逃亡口径，不是全国逐年率。AN AF IV1123及F/9系列只是本书指引，未亲读原档。
+
+### RP23　Rouanet与Piano：省级征募数据（英语）
+Louis Rouanet and Ennio E. Piano, “Drafting the Great Army: The Political Economy of Conscription in Napoleonic France”, Journal of Economic History 83/4 (2023), pp.1057–1100，doi10.1017/S0022050723000360。
+- 实读DATA DESCRIPTION、机制说明、注13/17；https://www.cambridge.org/core/journals/journal-of-economic-history/article/drafting-the-great-army-the-political-economy-of-conscription-in-napoleonic-france/FDBA5D70BC85C24186EF7C9767D249BF ；`downloads/pages/ee71889de366.md`，doc同短哈希。
+- 原句：“France’s 110 departments (plus the island of Elba) for each year between 1806 and 1810.” 另说明Lacuée记录离省/到队；draft dodgers不含服役后deserters。
+- 没有下载作者数据包、未重现回归、未由省份均值14.9%倒算全国实到。AN AF/IV/1122与1124是查证入口，不冒称档案已核。

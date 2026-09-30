@@ -1,0 +1,39 @@
+# A奥地利卡｜实用材料与核读范围
+
+日期2026-09-23。正文括号内代号对应以下材料；不把文件名当参考文献。所有摘引均来自本卡实际读到的版本。网页捕获正文不是签署原件；旧书转述、回忆、自传、现代论证、机构概述分别标注。数字表另见 `A_fiscal_anchors.csv`；反事实假设另见 `A_scenario_bounds.csv`。
+
+## 一、外交、军事和匈牙利
+
+### T09　《维也纳/申布伦和约》，1809年10月14日
+- 实读版本：Fondation Napoléon法文转录，本约18条、秘密条款6条。网站注明据Michel Kerautret, *Les grands traités de l’Empire (1804–1810)*, Paris, Nouveau monde/Fondation Napoléon, 2004。本卡未亲读该书原页。
+- URL：https://www.napoleon.org/histoire-des-2-empires/articles/document-traite-de-paix-de-vienne-14-octobre-1809/
+- 本地：`downloads/pages/603b19b5b0f9.md`；笔记`notes_treaties.md`。
+- 承重定位：III.2沿海割地；III.4–5加利西亚分配；X大赦与六年售产迁移；XIV保证余地；XVI海战期间对英贸易义务；秘密II“ne s’élève pas au-dessus de 150 000 hommes pendant la durée de la guerre maritime”；秘密V“à 85 millions de francs”。
+- 限制：150,000不是50,000；85m为赔款/占领征款结算，不是年贡，亦不是盾。不是全部加利西亚割让。
+
+### T12　《法奥同盟条约》，1812年3月14日
+- 版本：Robert发表于Napoleon-Histoire，2018-10-21，法文公共与秘密条款转录。实际均读。
+- URL：https://napoleon-histoire.com/traite-dalliance-signe-a-paris-le-14-mars-1812-entre-la-france-et-lautriche/
+- 本地：`downloads/pages/0cb883e1dd4e.md`。
+- 公共IV：“30,000 hommes, dont 24,000 d’infanterie et 6,000 de cavalerie ... 60 pièces de canon”；V两月应援；VI“garantissent l’intégrité du territoire do la Porte Ottomane en Europe”（do为网页误字，应读de；保留误字示版本）。秘密I不赴英国/比利牛斯彼侧；II双份炮弹及20天粮；IV“Il ne pourra toutefois être divisé, et formera toujours un corps distinct et séparé”；V保加利西亚；VI部分加利西亚换伊利里亚按人口、面积、收入估值。
+- 版本问题：公共条款结尾网页误1813，标题与秘密签署1812；第VI条do/de误字已标；原签署本未亲核。60炮为条约要求，M13记1812实编96炮，不平均二者。
+
+### H09　Ágoston Nagy，2022
+- *Patriotism, Nation, and Masculinity in the Official Propaganda of the Hungarian Insurrectio during the War of the Fifth Coalition (1809)*，*Hungarian Historical Review* 11(1)。
+- URL：https://hunghist.org/83-articles/774-2022-1-nagy
+- 本地：`downloads/pages/ef06d5628e76.md`；实读导言、Military Mobilization and Limits of Reforms within the Estates’ System、Archduke Joseph and the Official Propaganda Machinery及其后爱国话语部分（本地L1–131），不是全篇精读。
+- 原句：“no permanent officer staff, no magazines”；拿破仑宣言“it found no serious resonance, neither among the nobility nor among other groups”。动员17,266骑＋20,361步＝37,627转István R.Kiss；贵族约5%、1808法II/III、郡级选官、Cevallos反法文本传播均在动员/宣传节。
+- 限制：人数非同日到场、非纯贵族、非全年预备军；其资料与匈牙利史学旧作有共享谱系。
+
+### M13　Daniel M. Messman，2020
+- *The Austrian Army in the War of the Sixth Coalition: A Reassessment*，University of North Texas，2020年12月硕士论文。仓库全文160页；部分网页元数据误标Dissertation，本文按thesis使用。
+- 元数据：https://digital.library.unt.edu/ark:/67531/metadc1752349/；DOI：https://doi.org/10.12794/metadc1752349
+- 本地全文捕获：`downloads/pages/848ad5b3b9ea.md`；实际读导论结尾、Mobilization章前段（L80–130）、战术章1809军团段（L222–231），不是全文通读。
+- 原句：“259,000 men remained on the army’s rolls”；“298,000 men in fully mobilized formations ... 245,000 were field troops”。保军官/技术兵、休假召回、团骨架、半薪超额军官为关键机制。依据主要转引Rothenberg1982 pp.174–175、Wlaschütz、Radetzky1858文集；未伪称亲核这些原账。
+- 数量界线：1809“50余万”广动员、15万条约军额、25.9万花名册、1813充分编组/野战及某一战区军队各不同。军费250m→47m跨换币不可算实际降幅；财务以AX91同口径列替代。文中将换币称state bonds并过度概括“匈牙利包括Transylvania”，本卡不据此处理特兰西瓦尼亚独立行政宪制。
+
+### N0515　拿破仑《致匈牙利人宣言》，1809年5月15日
+- URL：http://www.histoire-empire.org/correspondance_de_napoleon/1809/mai_03.htm
+- 本地：`downloads/pages/a947acecb6dc.md` L253–269，实际全文读此宣言，不是整月信件。
+- 原句：“Ayez un roi de votre choix”；“Réunissez-vous en diète nationale dans les champs de Rakos”。
+- 所证：公开要求匈牙利独立、选王、召议会确曾提出；不证地方支持或执行可行，宣言对匈国王宣战权的说法是宣传主张，不作无争议法释。

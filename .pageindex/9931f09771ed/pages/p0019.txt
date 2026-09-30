@@ -1,0 +1,45 @@
+                                                 - 17 -
+
+substitution is 1.0, then the self-sufficiency tariff is 53 percent and the welfare loss is 4.0 percent.
+
+These figures are remarkably close to the actual findings in this paper. Given that the calculation
+
+is performed in a similar general equilibrium setting, perhaps this should not be too surprising.
+
+        Johnson (1960) also derived the commonly used partial equilibrium measure of the cost
+
+of protection as a percent of GDP as ½ " 0 (J/(1+J)2, where " is the ratio of imports to GDP in
+
+the (initial) equilibrium, 0 is the absolute value of the arc elasticity of import demand, and J is
+
+the average ad valorem tariff rate. In the present case, the ratio of imports to GDP is
+
+approximately 0.13, and if we assume that the absolute value of the elasticity of import demand
+
+is 2 and that the tariff rate is 70 percent, then the cost of protection is 2.2 percent of GDP. As is
+
+commonly pointed out, this partial equilibrium formula yields relatively small figures for the
+
+cost of protection.
+
+        Thus, the massive disruption of trade caused by the embargo imposed a substantial one-
+
+year loss on the U.S. economy, one that was not just a small fraction of a percent of GNP. There
+
+is no doubt that 1808 was a difficult year for the U.S. economy. Berry’s (1988) real GNP
+
+estimates fall 4.7 percent between 1807 and 1808. The year has been called a “depression” by
+
+Thorp (1926, p. 116), who gives it the following description: “rigid embargo causes paralysis on
+
+coast, gradually spreading inland; severe distress in New England; further sharp decline in
+
+commodity prices to low point, third quarter; foreign trade completely checked.”
+
+        It is difficult to consider the policy of embargo a success, given the cost it imposed on the
+
+economy while failing to achieve its objective of changing British and French policy toward
+
+American shipping. One person who almost perfectly anticipated the results of the embargo was
+
+Alexander Hamilton, the first Secretary of the Treasury. Writing in 1794, Hamilton was

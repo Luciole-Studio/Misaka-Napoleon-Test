@@ -1,0 +1,82 @@
+Rural Change and Royal Finances in Spain
+
+       [1] See Moxó, "Fin du régime seigneurial." For the full story: Moxó, Disolución.
+
+
+
+                                                                                           ― 827 ―
+       case of Navas (see Chapter 13), a town of the Duque de Santisteban del Puerto. This duke was señor of more towns in the province than
+       any other lord. The catastro attributed to him as señor of Navas only fifty reales per year from fines (penas de cámara) and thirty reales
+       for the right of ordenanza.[2] The rest of his income in the town came from his cortijos and other properties, treated the same as those in
+       Navas of the Conde-Duque de Benavente. The catastro specifically attributes the pastures and wastes to the municipal council, not to the
+       duke, as one would expect if his were a señorío territorial. The very troublesome nineteenth-century distinction was not the basis for the
+       different economic effects of señorío found here for the eighteenth century.
+
+       [2] Navas, resp. gen. Q 2.
+
+
+                                                                                           ― 828 ―
+
+
+
+
+       APPENDIX S—
+       INDEX OF LANDOWNING CONCENTRATION IN SALAMANCA
+       The Gini coefficient of concentration is frequently used as a basis for comparing concentration of landholding, but it is a very unreliable
+       measure, as becomes evident from the following example drawn from the data on sales under desamortización in the different zones into
+       which the provinces were divided.
+             If all the purchasers in a zone spent equal amounts, the line in Figure 15.1 would be a straight diagonal from 0–0 to 100–100. As
+       the inequality between the smallest and largest purchasers increases, the curve falls further away from this diagonal. The Gini index of
+       concentration measures the distance of the curve from the diagonal, on a scale of 0 to 100. I attempted to use Gini indexes of
+       concentration of the sales in each zone of Salamanca province as a way to compare the zones. Although it became clear that there was
+       greater concentration among the purchasers in some zones than others, the data were not reliable enough to rank the zones. A number
+       of sales involved more than one purchaser (as was the case in the sale described in the introduction to Part 1). The Madrid notarial
+       records on which my analysis is based do not say how much each purchaser paid. For lack of this information, I have divided the price
+       paid for sales involving more than one purchaser equally among them. If the shares are made substantially unequal, as was no doubt
+       frequently the case, the Gini concentration indexes change so much as to alter the rankings of the zones, thus demonstrating the futility
+       of this analysis. This was also the case for the Jaén zones.
+             As a different index of concentration of landowning in the zones of Salamanca province, I fell back on a comparison of the income of
+       the largest property owner (hacendado mayor) and the mean income of other property owners. From the catastro, the income of the
+       hacendado mayor and the total income from agriculture in the zone are known, but not the number of individual owners.
+            For an approximation of the number of owners, I substituted the number of properties. This statistic is not available either, but it
+       can be estimated from the number of men engaged in agriculture recorded in the catastro summary, using
+
+
+                                                                                           ― 829 ―
+       the categories "labradores, hijos y mozos," "jornaleros," and "hortelanos" (market gardeners). [1] I added the number of labradores with
+       their "sons and servants" and one-half of each of the other categories. In Part 2 we saw that many men called jornaleros in Salamanca
+       were independent peasants who differed from labradores only in not owning a yoke of oxen. The proportion of jornaleros who farmed land
+       on their own would differ from zone to zone, as would the number of sons and servants per labrador, but I found no way of making
+       distinctions among the zones. The totals that resulted provide an estimate of the number of different exploitations in each zone.
+            While many owners owned more than one exploitation (some religious endowments, for instance), this is my best estimate of the
+       number of properties in each zone. A ratio of the mean income of these owners and that of the largest owner can then be calculated.
+       Since the purpose is to obtain a comparison of the zones, the correct ratio is not essential so long as the bias is similar everywhere.
+
+
+       [1] AHN, Hac., libro 7476, letra G.
+
+
+
+                                                                                           ― 830 ―
+
+
+
+
+       APPENDIX T—
+       POPULATION OF SMALL AND MEDIUM PLACES, SALAMANCA PLAIN, 1786
+
+
+                                   Single                    Married                   Widowed
+
+
+
+          Age Group         Male            Female    Male         Female       Male        Female        Totals
+
+
+
+                                     Zone SA: Places of population under 20 (N = 18)
+
+
+
+
+http://publishing.cdlib.org/ucpressebooks/view?docId=ft4d5nb394;chunk.id=0;doc.view=print[1/22/2011 11:30:51 AM]

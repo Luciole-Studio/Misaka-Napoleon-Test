@@ -1,0 +1,28 @@
+
+
+## D. 陪臣化贵族（Standesherren）
+
+来源SA：germanhistorydocs/documentarchiv/verfassungen.de三种《Deutsche Bundesakte》(1815-06-08)第14条全文转录（搜索快照核读，三处文字一致）。
+来源SB：de.wikipedia「Standesherr (Deutscher Bund)」（搜索快照核读）。
+【事实｜Bundesakte Art.14】1806年以来陪臣化的旧帝国等级：(a)仍属德意志高等贵族、保Ebenbürtigkeit（婚姻平等身份）；(b)为所在邦"第一等级臣属"（erste Standesherren），构成"最特权阶级"尤其在赋税上；(c)保留非主权性财产权利，具体列举：居住自由、家族契约自治、特权审判籍与全家兵役豁免、一审（领地够大则二审）民刑司法、森林裁判、地方警察、教会学校监督——但均"依邦国法律"行使并受邦政府最高监督；**"die in dem Betreff erlassene Königliche Bayrische Verordnung vom Jahr 1807 als Basis und Norm unterlegt werden"（1807年巴伐利亚王国敕令被定为全德统一处理陪臣贵族的基础与规范）**。
+【事实｜SB】陪臣贵族集中于南德西南德；巴登约1/3领土属Standesherren领地，巴登政府持续试图削减其特权；诸邦第一院世袭议席；1848革命才使其失去准邦国性权利。
+【推断｜本卡】1806邦联条约27–28条（上一轮R1已核）→1807巴伐利亚敕令→1815邦联条例14条构成连续的"陪臣贵族妥协"制度谱系：无论法国胜败，中等邦国都必须与被吞并的高等贵族达成产权-特权妥协；法国胜利情景下该妥协的条款（以1807巴伐利亚敕令为原型）已经存在并可延续。
+
+## E. 制度-经济效应（三篇计量/制度论文，均在downloads）
+
+来源EA：Buggle 2013《Law and Social Capital: Evidence from the Code Napoleon in Germany》SOEPpapers 566（doc 41e0848d1333）。
+【事实｜p.10（印页8）】邦联间接控制邦中"只有巴登最终于1810年采纳Code Civil，动机是对拿破仑潜在影响的恐惧，纳入防御性现代化议程"（引Acemoglu et al. 2011）；1815年后Code存续区＝莱茵兰（归普，除Essen/Duisburg/Mühlheim）、巴伐利亚普法尔茨（归巴伐利亚——因巴伐利亚无替代民法典而准其保留）、黑森-达姆施塔特莱茵黑森、巴登——整个19世纪沿用（至1900 BGB）。
+来源EB：Kopsidis & Bromley 2016《The French revolution and German industrialization: dubious models and doubtful causality》JOIE 12(1) 161–190（doc 40e4b5895015）。
+【事实｜印页169】"具有讽刺意味的是，正是拿破仑本人推动了'领主制反革命'，为满足新旧拿破仑贵族的要求，把领主特权重新定义为与普通资本主义地租无异的既得私产，使西南德意志的领主制保存至1848年革命"；"在法国控制的德意志卫星国中，不是德意志制度向革命法典调整，而是反过来——领主制被并入民法典（Fehrenbach 1983）；在威斯特伐利亚精炼出的对法典的保守解释，被所有莱茵邦联邦国的统治贵族迅速接受（Berding 1973）"；1815年德意志邦联以邦联条例第14条追认这些领主制安排。
+【事实｜同页】与法典等效的制度改革路径：普鲁士1807年十月敕令、"其他德意志邦国的平行改革——最重要的是巴伐利亚"；1820年前后南德立宪确立法治废贵族特权；1834年关税同盟使一切前现代市场管制失效；1848年革命清除最后残余。（ACJR用1900年作德国民法典引入时点被批评为忽略此前半个世纪的制度创新。）
+【方法警示】EB是对EA所引ACJR框架的正面批判——两文并用时须呈现分歧：ACJR/Buggle主张法国制度移植有长期正效应（法典区社会资本/城市化更高）；Kopsidis-Bromley主张德国自身改革路径等效、法典本身被领主制驯化。本卡处理：制度"文本移植"与"社会关系改变"分层（与上一轮rhine_notes§4结论一致），不以任一派单独定论。
+来源EC：Acemoglu/Cantoni/Johnson/Robinson 2011（doc 8835f54b20f5）——登记在库，本卡经EB的批判性转述与EA的引用间接使用，未独立采其回归结果作结论。
+
+## F. Dunan与Junkelmann：识别与缺口登记
+
+- Marcel Dunan《Napoléon et l'Allemagne. Le système continental et les débuts du royaume de Bavière, 1806-1810》Paris: Plon, 1942（新订版1943/1948），753 pp——已确认书目（SUDOC 063284294；Persée authority 145618）；**无免费全文，本轮未读**。主题恰为大陆封锁与巴伐利亚早期王国——其结论无法转引，缺口意味着：本卡关于大陆体系对巴伐利亚经济的量化影响（走私、过境贸易、莱比锡-法兰克福转口）只能依据Grab综述与一般机制，无逐年海关数据。
+- Marcus Junkelmann《Napoleon und Bayern》(1985)——未获取；巴伐利亚军史细节（1809年编制、军官团构成、Wrede角色）以HdBG门户与Grab替代，颗粒度受限：1809年巴军战役编制未逐师核证。
+- Fehrenbach《Traditionale Gesellschaft und revolutionäres Recht》(1974/1983)与Berding《Napoleonische Herrschafts- und Gesellschaftspolitik》(1973)——经Kopsidis-Bromley 2016（EB）与上一轮书评线索转引，标注转引层级，未亲读。
+- Schmidt《Rheinbund》——书目歧义（Georg Schmidt论文集或Charles Schmidt《Le Grand-duché de Berg》），本卡未获对应全文；邦联制度以1806条约原文（上一轮R1/R2已核）直接支撑，不依赖该书。
+- Planert 2007——经Brophy书评（上一轮R9，`downloads/pages/a9c217630acd.md`）转引；本卡采其"南德日常战争经验vs民族解放叙事"论点并保留Brophy的静态化批评。
+- Todorov——本项目工作区内Todorov为法国海军史家（F3卡资产），与G1源策略中所列同名不同人或误植；德意志邦联行政史的Nicola P. Todorov著作未获取，登记为源策略中的不明项。

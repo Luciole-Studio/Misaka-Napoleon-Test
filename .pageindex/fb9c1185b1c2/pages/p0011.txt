@@ -1,0 +1,73 @@
+R. Brázdil et al.: Climatic effects and impacts of the 1815 eruption of Mount Tambora                                          1371
+
+   On the other hand, Post (1970) attributed the growth in       Acknowledgements. The authors acknowledge the financial
+grain prices that followed the Napoleonic wars in Europe         support of the Grant Agency of the Czech Republic for project
+to, apart from inflation and overproduction, the barren years    no. 13-19831S. Rudolf Brázdil, Ladislava Řezníčková and Lukáš
+of 1816–1817 resulting from low temperatures and abun-           Dolák received funding from the Ministry of Education, Youth and
+dant precipitation related to volcanic eruptions, particularly   Sports of CR within the National Sustainability Program I (NPU I).
+                                                                 Stefan Brönnimann (Zürich) is acknowledged for recommending
+of Tambora. The subsequent drop in prices led to a series
+                                                                 references, Pavel Raška (Ústí nad Labem) for help with localisation
+of bankruptcies, poverty and vagrancy; this situation was re-    of landslides in north-western Bohemia, and Tony Long (Svinošice)
+flected in population decline and increased mortality.           for helping work up the English.
+
+                                                                 Edited by: J. Luterbacher
+6   Conclusions
+
+The literature addressing the climatological and environmen-     Archival sources
+tal consequences of large volcanic eruptions at various spa-
+tial and temporal scales is extensive. The eruption of Tamb-       – (S1) Archiv Akademie věd České republiky: Praha,
+ora in April 1815, the strongest, at VEI-7, has attracted the        fond Státní hvězdárna, inv. č. 782 (VI C 8, č. 17): Me-
+most attention and widespread interest in its impacts, partic-       teorologische Beobachtungen nebst ökonomischen Be-
+ularly in 1816, the “Year Without a Summer”. In addition to          merkungen vom Jahre 1815 in Schüttenitz unweit der K.
+those of summer 1816, cooler patterns in post-Tambora sea-           Kreisstadt Leitmeritz beobachtet von Fr. Jac. H. Krey-
+sons were also expressed in summer 1815 and spring 1817.             bich.
+The analyses and documentation cited in this paper demon-
+                                                                   – (S2) Archiv Akademie věd České republiky: Praha,
+strate relatively weaker effects at regional or local scales
+                                                                     fond Státní hvězdárna, inv. č. 783 (VI C 8, č. 18): Me-
+for central Europe (e.g. Briffa and Jones, 1992; Písek and
+                                                                     teorologische Beobachtungen mit oekonomischen Be-
+Brázdil, 2006). This has also been confirmed by Mikšovský
+                                                                     merkungen vom Jahre 1816 beobachtet in Schüttenitz
+et al. (2014), who revealed the prominent and statistically
+                                                                     1/2 Stunde Nordöstlich von der K. Kreisstadt Leitmeritz
+significant imprint of major volcanic events on the global
+                                                                     enfernt von Franz Jacob Heinrich Kreybich.
+temperature signal while changes in mean Czech tempera-
+ture series remained negligible (1866–2010 period).                – (S3) Archiv Akademie věd České republiky: Praha,
+   The consequences of the climatic effects of the Tamb-             fond Státní hvězdárna, inv. č. 784 (VI C 8, č. 19): Me-
+ora eruption were hard on society. A bad grain harvest con-          teorologische Beobachtungen vom Jahre 1817 in Schüt-
+tributed to rising prices, which were in turn reflected in a         tenitz 1/2 Stunde Nordestlich von Leitmeritz beobachtet
+lack of bread, hunger, and high vagrancy. This situation even        von Franz Jac. H. Kreybich.
+peaked in famine in some central European countries, such
+as Germany (Bayer, 1966) and Switzerland (Krämer, 2015).           – (S4) Moravský zemský archiv: Brno, fond G 138
+Post (1977) even spoke of this time as “the last great subsis-       Rodinný archiv Berchtoldů (1202)1494–1945, inv. č.
+tence crisis in the Western world”. However, the impacts on          851: Denní sledování počasí buchlovským farářem Ši-
+life in the Czech Lands in the post-Tambora years were not           monem Hausnerem 1803–1831.
+comparable with the “Hungry Years” of 1770–1772 (Brázdil
+                                                                   – (S5) Státní okresní archiv Blansko: fond Archiv města
+et al., 2001; Pfister and Brázdil, 2006) or with other known,
+                                                                     Boskovice, inv. č. 109: Kronika Dominika Kučery.
+massive famines before AD 1500 (in the 1280s, 1310s and
+1430s – see Brázdil et al., 2015a).                                – (S6) Státní okresní archiv Česká Lípa: fond Sbírka
+                                                                     rukopisů, sign. 13/3: Witterungs-Geschichte. Auszug
+                                                                     aus den Titl: Lesenwürdige Sammlungen der hinter-
+7   Data availability
+                                                                     legten Jahrgängen. Von Anton Lehmann Lehrer in Neu-
+Data used in this paper are available as follows: temperature        land. Abgeschrieben durch Joseph Meißner.
+and precipitation series for Prague-Klementinum, Brno and
+the Czech Lands – Brázdil et al. (2012a), Appendix; Central
+European temperature series – https://www.ncdc.noaa.gov/         References
+cdo/f?p=519:1:0::::P1_study_id:9970 (Dobrovolný et al.,
+                                                                 Albert, E.: Vliv první kapitalistické agrární krize XIX. století na
+2010); temperature series Žitenice – Brázdil et al. (2007);
+                                                                   moravské zemědělství (The influence on Moravian agriculture
+grain prices data – Schebek (1873) for Prague, Albert (1964)       of the first capitalist agrarian crisis of the 19th century), Acta
+for Moravia; documentary data of weather and related phe-          Universitatis Agriculturae A, 1964, 1, 165–180, 1964.
+nomena – references and archival sources quoted in the arti-     Anonymous: Ze staré pamětní knihy školy Chrástecké (From the
+cle.                                                               old “Book of Memory” of the school in Chrást), Plzeňsko – List
+                                                                   pro národopis a ochranu památek, 2, p. 14, 1919.
+
+
+www.clim-past.net/12/1361/2016/                                                               Clim. Past, 12, 1361–1374, 2016

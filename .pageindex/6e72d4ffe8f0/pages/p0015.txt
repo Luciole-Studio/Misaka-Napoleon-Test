@@ -1,0 +1,373 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+Bolivia,BOL,1805,936032
+Bolivia,BOL,1806,946159
+Bolivia,BOL,1807,956396
+Bolivia,BOL,1808,966743
+Bolivia,BOL,1809,977203
+Bolivia,BOL,1810,987890
+Bolivia,BOL,1811,998578
+Bolivia,BOL,1812,1009382
+Bolivia,BOL,1813,1020302
+Bolivia,BOL,1814,1031341
+Bolivia,BOL,1815,1042499
+Bolivia,BOL,1816,1053778
+Bolivia,BOL,1817,1065179
+Bolivia,BOL,1818,1076703
+Bolivia,BOL,1819,1087609
+Bolivia,BOL,1820,1097885
+Bolivia,BOL,1821,1107517
+Bolivia,BOL,1822,1116493
+Bolivia,BOL,1823,1124802
+Bolivia,BOL,1824,1133172
+Bolivia,BOL,1825,1141604
+Bolivia,BOL,1826,1150099
+Bolivia,BOL,1827,1158658
+Bolivia,BOL,1828,1167280
+Bolivia,BOL,1829,1175966
+Bolivia,BOL,1830,1184717
+Bolivia,BOL,1831,1193533
+Bolivia,BOL,1832,1202414
+Bolivia,BOL,1833,1211362
+Bolivia,BOL,1834,1220376
+Bolivia,BOL,1835,1229458
+Bolivia,BOL,1836,1238607
+Bolivia,BOL,1837,1247824
+Bolivia,BOL,1838,1257109
+Bolivia,BOL,1839,1266464
+Bolivia,BOL,1840,1275888
+Bolivia,BOL,1841,1285383
+Bolivia,BOL,1842,1294948
+Bolivia,BOL,1843,1304584
+Bolivia,BOL,1844,1314292
+Bolivia,BOL,1845,1324072
+Bolivia,BOL,1846,1333925
+Bolivia,BOL,1847,1343851
+Bolivia,BOL,1848,1353851
+Bolivia,BOL,1849,1363043
+Bolivia,BOL,1850,1371417
+Bolivia,BOL,1851,1381109
+Bolivia,BOL,1852,1389985
+Bolivia,BOL,1853,1398030
+Bolivia,BOL,1854,1406118
+Bolivia,BOL,1855,1414249
+Bolivia,BOL,1856,1422424
+Bolivia,BOL,1857,1430642
+Bolivia,BOL,1858,1438905
+Bolivia,BOL,1859,1447212
+Bolivia,BOL,1860,1455564
+Bolivia,BOL,1861,1463960
+Bolivia,BOL,1862,1472402
+Bolivia,BOL,1863,1480888
+Bolivia,BOL,1864,1489420
+Bolivia,BOL,1865,1497998
+Bolivia,BOL,1866,1506622
+Bolivia,BOL,1867,1515291
+Bolivia,BOL,1868,1524008
+Bolivia,BOL,1869,1522112
+Bolivia,BOL,1870,1509837
+Bolivia,BOL,1871,1487406
+Bolivia,BOL,1872,1455036
+Bolivia,BOL,1873,1412938
+Bolivia,BOL,1874,1372055
+Bolivia,BOL,1875,1332352
+Bolivia,BOL,1876,1293795
+Bolivia,BOL,1877,1256351
+Bolivia,BOL,1878,1219988
+Bolivia,BOL,1879,1196694
+Bolivia,BOL,1880,1186392
+Bolivia,BOL,1881,1189013
+Bolivia,BOL,1882,1204497
+Bolivia,BOL,1883,1232794
+Bolivia,BOL,1884,1261753
+Bolivia,BOL,1885,1291389
+Bolivia,BOL,1886,1321719
+Bolivia,BOL,1887,1352758
+Bolivia,BOL,1888,1384523
+Bolivia,BOL,1889,1417031
+Bolivia,BOL,1890,1450298
+Bolivia,BOL,1891,1484344
+Bolivia,BOL,1892,1519186
+Bolivia,BOL,1893,1554842
+Bolivia,BOL,1894,1591332
+Bolivia,BOL,1895,1628674
+Bolivia,BOL,1896,1666890
+Bolivia,BOL,1897,1705998
+Bolivia,BOL,1898,1746021
+Bolivia,BOL,1899,1781882
+Bolivia,BOL,1900,1813429
+Bolivia,BOL,1901,1840504
+Bolivia,BOL,1902,1862946
+Bolivia,BOL,1903,1880588
+Bolivia,BOL,1904,1898393
+Bolivia,BOL,1905,1916363
+Bolivia,BOL,1906,1934499
+Bolivia,BOL,1907,1952802
+Bolivia,BOL,1908,1971275
+Bolivia,BOL,1909,1992797
+Bolivia,BOL,1910,2017450
+Bolivia,BOL,1911,2045315
+Bolivia,BOL,1912,2076476
+Bolivia,BOL,1913,2111020
+Bolivia,BOL,1914,2146135
+Bolivia,BOL,1915,2181829
+Bolivia,BOL,1916,2218112
+Bolivia,BOL,1917,2254994
+Bolivia,BOL,1918,2289257
+Bolivia,BOL,1919,2322343
+Bolivia,BOL,1920,2354214
+Bolivia,BOL,1921,2384831
+Bolivia,BOL,1922,2414156
+Bolivia,BOL,1923,2442148
+Bolivia,BOL,1924,2470465
+Bolivia,BOL,1925,2499110
+Bolivia,BOL,1926,2528087
+Bolivia,BOL,1927,2557400
+Bolivia,BOL,1928,2587054
+Bolivia,BOL,1929,2617053
+Bolivia,BOL,1930,2647402
+Bolivia,BOL,1931,2678105
+Bolivia,BOL,1932,2709166
+Bolivia,BOL,1933,2740590
+Bolivia,BOL,1934,2772378
+Bolivia,BOL,1935,2804535
+Bolivia,BOL,1936,2837065
+Bolivia,BOL,1937,2869973
+Bolivia,BOL,1938,2903262
+Bolivia,BOL,1939,2931704
+Bolivia,BOL,1940,2955228
+Bolivia,BOL,1941,2973763
+Bolivia,BOL,1942,2987236
+Bolivia,BOL,1943,2995573
+Bolivia,BOL,1944,3003934
+Bolivia,BOL,1945,3012318
+Bolivia,BOL,1946,3020725
+Bolivia,BOL,1947,3029156
+Bolivia,BOL,1948,3037611
+Bolivia,BOL,1949,3057744
+Bolivia,BOL,1950,3089975
+Bolivia,BOL,1951,3137299
+Bolivia,BOL,1952,3187538
+Bolivia,BOL,1953,3240967
+Bolivia,BOL,1954,3297841
+Bolivia,BOL,1955,3358005
+Bolivia,BOL,1956,3421344
+Bolivia,BOL,1957,3487565
+Bolivia,BOL,1958,3556554
+Bolivia,BOL,1959,3628189
+Bolivia,BOL,1960,3702323
+Bolivia,BOL,1961,3778735
+Bolivia,BOL,1962,3857495
+Bolivia,BOL,1963,3938914
+Bolivia,BOL,1964,4023009
+Bolivia,BOL,1965,4109800
+Bolivia,BOL,1966,4199555
+Bolivia,BOL,1967,4292574
+Bolivia,BOL,1968,4388946
+Bolivia,BOL,1969,4488231
+Bolivia,BOL,1970,4590008
+Bolivia,BOL,1971,4694351
+Bolivia,BOL,1972,4800985
+Bolivia,BOL,1973,4910200
+Bolivia,BOL,1974,5022480
+Bolivia,BOL,1975,5137540
+Bolivia,BOL,1976,5256497
+Bolivia,BOL,1977,5379169
+Bolivia,BOL,1978,5504131
+Bolivia,BOL,1979,5630853
+Bolivia,BOL,1980,5758905
+Bolivia,BOL,1981,5888114
+Bolivia,BOL,1982,6018091
+Bolivia,BOL,1983,6149066
+Bolivia,BOL,1984,6281868
+Bolivia,BOL,1985,6416193
+Bolivia,BOL,1986,6552481
+Bolivia,BOL,1987,6692168
+Bolivia,BOL,1988,6835507
+Bolivia,BOL,1989,6981771
+Bolivia,BOL,1990,7130143
+Bolivia,BOL,1991,7280294
+Bolivia,BOL,1992,7430337
+Bolivia,BOL,1993,7579196
+Bolivia,BOL,1994,7727320
+Bolivia,BOL,1995,7874676
+Bolivia,BOL,1996,8021742
+Bolivia,BOL,1997,8167911
+Bolivia,BOL,1998,8313400
+Bolivia,BOL,1999,8459810
+Bolivia,BOL,2000,8606330
+Bolivia,BOL,2001,8752740
+Bolivia,BOL,2002,8900358
+Bolivia,BOL,2003,9050703
+Bolivia,BOL,2004,9204297
+Bolivia,BOL,2005,9360758
+Bolivia,BOL,2006,9521685
+Bolivia,BOL,2007,9685960
+Bolivia,BOL,2008,9850859
+Bolivia,BOL,2009,10016279
+Bolivia,BOL,2010,10182345
+Bolivia,BOL,2011,10348931
+Bolivia,BOL,2012,10515814
+Bolivia,BOL,2013,10682612
+Bolivia,BOL,2014,10848889
+Bolivia,BOL,2015,11014707
+Bolivia,BOL,2016,11180020
+Bolivia,BOL,2017,11344591
+Bolivia,BOL,2018,11508370
+Bolivia,BOL,2019,11671386
+Bolivia,BOL,2020,11816301
+Bolivia,BOL,2021,11937369
+Bolivia,BOL,2022,12077156
+Bolivia,BOL,2023,12244161
+Bonaire Sint Eustatius and Saba,BES,1950,7023
+Bonaire Sint Eustatius and Saba,BES,1951,7052
+Bonaire Sint Eustatius and Saba,BES,1952,7141
+Bonaire Sint Eustatius and Saba,BES,1953,7249
+Bonaire Sint Eustatius and Saba,BES,1954,7460
+Bonaire Sint Eustatius and Saba,BES,1955,7628
+Bonaire Sint Eustatius and Saba,BES,1956,7638
+Bonaire Sint Eustatius and Saba,BES,1957,7653
+Bonaire Sint Eustatius and Saba,BES,1958,7699
+Bonaire Sint Eustatius and Saba,BES,1959,7761
+Bonaire Sint Eustatius and Saba,BES,1960,7853
+Bonaire Sint Eustatius and Saba,BES,1961,7983
+Bonaire Sint Eustatius and Saba,BES,1962,8122
+Bonaire Sint Eustatius and Saba,BES,1963,8286
+Bonaire Sint Eustatius and Saba,BES,1964,8472
+Bonaire Sint Eustatius and Saba,BES,1965,8677
+Bonaire Sint Eustatius and Saba,BES,1966,8893
+Bonaire Sint Eustatius and Saba,BES,1967,9129
+Bonaire Sint Eustatius and Saba,BES,1968,9368
+Bonaire Sint Eustatius and Saba,BES,1969,9625
+Bonaire Sint Eustatius and Saba,BES,1970,9885
+Bonaire Sint Eustatius and Saba,BES,1971,10148
+Bonaire Sint Eustatius and Saba,BES,1972,10377
+Bonaire Sint Eustatius and Saba,BES,1973,10558
+Bonaire Sint Eustatius and Saba,BES,1974,10715
+Bonaire Sint Eustatius and Saba,BES,1975,10878
+Bonaire Sint Eustatius and Saba,BES,1976,11057
+Bonaire Sint Eustatius and Saba,BES,1977,11242
+Bonaire Sint Eustatius and Saba,BES,1978,11437
+Bonaire Sint Eustatius and Saba,BES,1979,11621
+Bonaire Sint Eustatius and Saba,BES,1980,11804
+Bonaire Sint Eustatius and Saba,BES,1981,11962
+Bonaire Sint Eustatius and Saba,BES,1982,12078
+Bonaire Sint Eustatius and Saba,BES,1983,12177
+Bonaire Sint Eustatius and Saba,BES,1984,12284
+Bonaire Sint Eustatius and Saba,BES,1985,12391
+Bonaire Sint Eustatius and Saba,BES,1986,12494
+Bonaire Sint Eustatius and Saba,BES,1987,12601
+Bonaire Sint Eustatius and Saba,BES,1988,12714
+Bonaire Sint Eustatius and Saba,BES,1989,12830
+Bonaire Sint Eustatius and Saba,BES,1990,12958
+Bonaire Sint Eustatius and Saba,BES,1991,13070
+Bonaire Sint Eustatius and Saba,BES,1992,13186
+Bonaire Sint Eustatius and Saba,BES,1993,13297
+Bonaire Sint Eustatius and Saba,BES,1994,13407
+Bonaire Sint Eustatius and Saba,BES,1995,13531
+Bonaire Sint Eustatius and Saba,BES,1996,13670
+Bonaire Sint Eustatius and Saba,BES,1997,13812
+Bonaire Sint Eustatius and Saba,BES,1998,13959
+Bonaire Sint Eustatius and Saba,BES,1999,14101
+Bonaire Sint Eustatius and Saba,BES,2000,14256
+Bonaire Sint Eustatius and Saba,BES,2001,14526
+Bonaire Sint Eustatius and Saba,BES,2002,15033
+Bonaire Sint Eustatius and Saba,BES,2003,15666
+Bonaire Sint Eustatius and Saba,BES,2004,16330
+Bonaire Sint Eustatius and Saba,BES,2005,17002
+Bonaire Sint Eustatius and Saba,BES,2006,17701
+Bonaire Sint Eustatius and Saba,BES,2007,18408
+Bonaire Sint Eustatius and Saba,BES,2008,19118
+Bonaire Sint Eustatius and Saba,BES,2009,19847
+Bonaire Sint Eustatius and Saba,BES,2010,20583
+Bonaire Sint Eustatius and Saba,BES,2011,21650
+Bonaire Sint Eustatius and Saba,BES,2012,22847
+Bonaire Sint Eustatius and Saba,BES,2013,23835
+Bonaire Sint Eustatius and Saba,BES,2014,24491
+Bonaire Sint Eustatius and Saba,BES,2015,24638
+Bonaire Sint Eustatius and Saba,BES,2016,24567
+Bonaire Sint Eustatius and Saba,BES,2017,24821
+Bonaire Sint Eustatius and Saba,BES,2018,25184
+Bonaire Sint Eustatius and Saba,BES,2019,25652
+Bonaire Sint Eustatius and Saba,BES,2020,26476
+Bonaire Sint Eustatius and Saba,BES,2021,27347
+Bonaire Sint Eustatius and Saba,BES,2022,28654
+Bonaire Sint Eustatius and Saba,BES,2023,29920
+Bosnia and Herzegovina,BIH,-10000,2349
+Bosnia and Herzegovina,BIH,-9000,3732
+Bosnia and Herzegovina,BIH,-8000,5927
+Bosnia and Herzegovina,BIH,-7000,9414
+Bosnia and Herzegovina,BIH,-6000,14952
+Bosnia and Herzegovina,BIH,-5000,23748
+Bosnia and Herzegovina,BIH,-4000,37718
+Bosnia and Herzegovina,BIH,-3000,59905
+Bosnia and Herzegovina,BIH,-2000,95144
+Bosnia and Herzegovina,BIH,-1000,151111
+Bosnia and Herzegovina,BIH,0,240000
+Bosnia and Herzegovina,BIH,100,243532
+Bosnia and Herzegovina,BIH,200,247338
+Bosnia and Herzegovina,BIH,300,251202
+Bosnia and Herzegovina,BIH,400,255127
+Bosnia and Herzegovina,BIH,500,259114
+Bosnia and Herzegovina,BIH,600,263162
+Bosnia and Herzegovina,BIH,700,267274
+Bosnia and Herzegovina,BIH,800,271450
+Bosnia and Herzegovina,BIH,900,275692
+Bosnia and Herzegovina,BIH,1000,280000
+Bosnia and Herzegovina,BIH,1100,296000
+Bosnia and Herzegovina,BIH,1200,312000
+Bosnia and Herzegovina,BIH,1300,328000
+Bosnia and Herzegovina,BIH,1400,344000
+Bosnia and Herzegovina,BIH,1500,360000
+Bosnia and Herzegovina,BIH,1600,440000
+Bosnia and Herzegovina,BIH,1700,440000
+Bosnia and Herzegovina,BIH,1710,466340
+Bosnia and Herzegovina,BIH,1720,485374
+Bosnia and Herzegovina,BIH,1730,505186
+Bosnia and Herzegovina,BIH,1740,525806
+Bosnia and Herzegovina,BIH,1750,547267
+Bosnia and Herzegovina,BIH,1760,569604
+Bosnia and Herzegovina,BIH,1770,592854
+Bosnia and Herzegovina,BIH,1780,617052
+Bosnia and Herzegovina,BIH,1790,642238
+Bosnia and Herzegovina,BIH,1800,851806
+Bosnia and Herzegovina,BIH,1801,851806
+Bosnia and Herzegovina,BIH,1802,851806
+Bosnia and Herzegovina,BIH,1803,851806
+Bosnia and Herzegovina,BIH,1804,851806
+Bosnia and Herzegovina,BIH,1805,851806
+Bosnia and Herzegovina,BIH,1806,851806
+Bosnia and Herzegovina,BIH,1807,851806
+Bosnia and Herzegovina,BIH,1808,851806
+Bosnia and Herzegovina,BIH,1809,851806
+Bosnia and Herzegovina,BIH,1810,851806
+Bosnia and Herzegovina,BIH,1811,851806
+Bosnia and Herzegovina,BIH,1812,851806
+Bosnia and Herzegovina,BIH,1813,851806
+Bosnia and Herzegovina,BIH,1814,851806
+Bosnia and Herzegovina,BIH,1815,851806
+Bosnia and Herzegovina,BIH,1816,851806
+Bosnia and Herzegovina,BIH,1817,851806
+Bosnia and Herzegovina,BIH,1818,851806
+Bosnia and Herzegovina,BIH,1819,852856
+Bosnia and Herzegovina,BIH,1820,854961
+Bosnia and Herzegovina,BIH,1821,858129
+Bosnia and Herzegovina,BIH,1822,862366
+Bosnia and Herzegovina,BIH,1823,867679
+Bosnia and Herzegovina,BIH,1824,873025
+Bosnia and Herzegovina,BIH,1825,878403
+Bosnia and Herzegovina,BIH,1826,883815
+Bosnia and Herzegovina,BIH,1827,889260
+Bosnia and Herzegovina,BIH,1828,894738
+Bosnia and Herzegovina,BIH,1829,900250
+Bosnia and Herzegovina,BIH,1830,905797
+Bosnia and Herzegovina,BIH,1831,911377
+Bosnia and Herzegovina,BIH,1832,916992
+Bosnia and Herzegovina,BIH,1833,922641
+Bosnia and Herzegovina,BIH,1834,928325
+Bosnia and Herzegovina,BIH,1835,934044
+Bosnia and Herzegovina,BIH,1836,939799
+Bosnia and Herzegovina,BIH,1837,945588
+Bosnia and Herzegovina,BIH,1838,951414
+Bosnia and Herzegovina,BIH,1839,957275
+Bosnia and Herzegovina,BIH,1840,963173

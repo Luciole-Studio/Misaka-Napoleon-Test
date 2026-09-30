@@ -1,0 +1,37 @@
+
+
+### 改判证据（重述并补充）
+见 §0 的 E1–E5。此外补两条给红队：
+- **E6**：若 Marichal 表 6.2 的 Diana 日期（1807-08-24）被证明正确而正文的"1806 年 8 月底抵港"有误，则英舰运银的年度分布须重排，1806 年的法国实得下调。
+- **E7**：若能取得 Buist《At Spes non Fracta》pp.295–356 原文，核实"Hope 持有约 1,000 万 pesos 汇票、按 75% 面值交付法国国库"的原始依据，本卡全部"法国实得"区间的中枢将被重新校准。**Buist 原书本卡未获，此为最大单点依赖。**
+
+---
+
+## §20 材料缺口与诚实登记
+
+### 口径冲突登记（交红队与总装）
+| # | 冲突 | 版本A | 版本B | 本卡处理 |
+|---|---|---|---|---|
+| 1 | 在册半岛人数 | Humboldt 70,000–80,000 | Navarro y Noriega 7,906 | 不取中值，分两档推演（§7） |
+| 2 | Consolidación 新西班牙实收 | Marichal/Lavrin 表4.2：10,321,800（1805–09） | INEHRM：Iturrigaray "ya en 1808…recaudar 12 millones de pesos" | 财政计算用 10.32m（有教区分表）；12m 可能含未汇出部分或报告口径，不互填 |
+| 3 | 补贴条约月额 | Marichal 文中 16m reales ＝1.6m pesos（10 reales/peso） | 同书 p.189：400m reales ＝20m pesos（20 reales/peso） | 月额给区间 0.8–1.6m pesos，不取中值 |
+| 4 | 表 6.2 Diana 日期 | 表内 1807-08-24 | 正文"1806 年 8 月底抵港" | 抵港 vs 离港两解并存，金额不变 |
+| 5 | Granaditas 起义方死亡 | 市议会 3,000 | Abasolo "很少" | 200–3,000，无可靠中值 |
+| 6 | 阿尔马登峰值 | "at times exceeded 18,000 quintales" | "over 20,000 hundredweight" | 同文两处，取 18–20.5k 区间 |
+| 7 | 古巴 1808 人口 | 1804 普查 432,000 | 1810 普查 600,000 | 作者自认插值"约 50 万"无严格价值 |
+| 8 | 古巴法国难民 | 官方 1804 累计 18,213 | Marrero 32,000 / Pérez de la Riva 约 20,000 | 取 2–3.2 万区间 |
+
+**未获全文而只用检索快照的**：Victoria Lerner《Consideraciones sobre la población…》（Historia Mexicana，PDF 下载 403）；Vázquez Cienfuegos 的三篇 CSIC/AEA 论文；UCA《Testimonios de una crisis》（链接 404）；SciELO《1808: Albores del constitucionalismo mexicano》；瓜纳华托州档案馆《Granaditas y su proceso histórico》；eumed《La producción de sacarosa en Cuba》；HAHR《Slave Prices in Cuba》。**这些来源支持的命题在正文中已全部标"快照/转引"。**
+
+**完全未获、但决定若干结论的**：
+1. **Buist, *At Spes non Fracta* (1974), pp.295–356** —— 决定"法国实得"的核心折扣率。
+2. **von Wobeser, *Dominación colonial: la Consolidación de vales reales* (UNAM 2003), 附录 pp.265–449** —— 决定 Consolidación 的逐笔地理-时间分布，可把本卡的"21–26% 抽取率"细化到教区级。
+3. **Romero Sotelo,《El mercurio y la producción minera en la Nueva España, 1810-1821》, *Historia Mexicana* 49:3** —— 直接决定 E5（熔炼替代比例）与汞禁运杀伤力的量级。
+4. **TePaske & Klein, *Ingresos y egresos de la Real Hacienda de Nueva España*** —— 逐年国库账，可把本卡"常态 800 万"细化为逐年序列。
+5. **Hamnett《Roots of Insurgency》与 Anna《The Fall of the Royal Government in Mexico City》** —— 本卡对 1808 政变与 1810 起义的解释目前主要靠 Alamán（1849–52 的当事人-回溯性史著）与二手快照支撑。
+6. **AGI Ultramar 833「Razón de las cantidades…」原件**（本卡经 Marichal 注 66 转引 Calderón Quijano 1968）—— "2,000 万 pesos"这个上限锚点的原始出处。
+7. **AGI, Cuba, 1710 与 1747 系列**（Someruelos 往来）—— 1808 年 Arango 赴韦拉克鲁斯使命与古巴动员兵力的原档。
+
+**它们会settle 什么**：1、7 决定法国实得区间的中枢；2、3 决定"抽血"与"汞禁运"两把刀的刃口；4 把年度序列从区间变成曲线；5 决定 1808–10 年因果链的权重分配；6 决定本卡最硬的一个上限锚点是否成立。
+
+**方法自限**：本卡的"法国实得"四因子模型中，**交付折扣的第二段（运费佣金 0.85–0.95）没有来源，是本卡假设**；法国分成 0.25–0.45 来自 1804–08 年"2,000 万汇票中 Hope 手上约 1,000 万"的单点推断，**不是逐年观测**。凡由这两项驱动的数字，均已在 CSV 中标为 ASSUMPTION/MODEL。

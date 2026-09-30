@@ -1,0 +1,64 @@
+1. Introduction
+
+Between 1000 and 1900 AD, world population grew from under 300 million to 1.6 billion, and the
+
+share of population living in urban areas more than quadrupled, increasing from two to over nine
+
+percent. As shown in Figure 1, this increase occurred almost entirely in the latter two or three
+
+centuries of this period.1 The determinants of these phenomena have been the subject of much
+
+interest to economists, demographers and historians.2 Population increase can be the result of
+
+either an increase in fertility and/or a decline in mortality. The latter was particularly important
+
+after 1820, when fertility began to decline (Maddison, 1991, p. 241).
+
+   The seminal empirical studies by Fogel (1984, 1994, 2004) and McKeown (1976) argue that the
+
+main contributing factor to the decline in mortality, and the resulting increase in life expectancy,
+
+was improved nutrition.3 Fogel (2004) shows that there was an enormous increase in caloric
+
+intake after the middle of the eighteenth century, measured both directly, from agricultural output
+
+and diary surveys, and indirectly through changes in adult height. Between the middle of the
+
+eighteenth century and today, for example, caloric intake per person increased by more than thirty
+
+percent, and heights in most of Europe increased by ten centimeters or more (Fogel, 1994). Fogel
+
+(1997) argues that nearly all of the reduction in mortality from the late eighteenth century to
+
+the late nineteenth century, and half of the mortality improvement in the twentieth century, can
+
+be attributed to improved nutrition. It is important to note that he does not measure increased
+
+nutrition directly. Rather, he uses height as a measure of accumulated past nutritional experiences
+
+during years of growth, and then infers nutrition’s positive effects on life expectancy from the
+
+positive relationship between height and life expectancy during the 18th and 19th centuries.
+
+   While Fogel’s work has been widely acclaimed, the causal link between nutrition and popula-
+
+tion increase remains an unsettled question. Various cross-sectional studies from England between
+   1 The sources of the population and urbanization data are discussed in Section 3.
+   2 For studies in the growth literature that have focused on the link between population increase and factors such as
+
+per capita incomes see Galor and Weil (2000), Jones (2003), and Voigtländer and Voth (2006). For micro-level studies of
+the determinants of increased life expectancy see the literature review provided by Cutler, Deaton, and Lleras-Muney
+(2006).
+    3 Within Europe, life expectancy at birth hovered around 25 years until at least the 15th century (Russell, 1948). After
+
+the 15th century there is some evidence of sporadic and at times temporary increases in life expectancy. According to
+data from Wrigley, Davies, Oeppen, and Schofield (1997), life expectancy in England had increased to 34 years by the
+1540s, then increased further to 38 years by the 1620s, before falling to 35 years by the 1730s. By the early 19th century,
+life expectancy had risen to 41 years and by 1900 it was 50 years. England’s surge in life expectancy, starting in the 18th
+century, is also observed in other parts of the World. In France, life expectancy rose from 25 years in the 1740s to 39 years
+by 1820 (Blayo, 1975). By the 19th century, life expectancy in Sweden and Japan was also well over 35 years (Maddison,
+2001, p. 29).
+
+
+
+                                                             1

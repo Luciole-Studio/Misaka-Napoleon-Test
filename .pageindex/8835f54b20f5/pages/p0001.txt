@@ -1,0 +1,61 @@
+American Economic Review 101 (December 2011): 3286–3307
+http://www.aeaweb.org/articles.php?doi=10.1257/aer.101.7.3286
+
+
+
+
+                          The Consequences of Radical Reform:
+                                The French Revolution†
+                                  By Daron Acemoglu, Davide Cantoni,
+                                 Simon Johnson, and James A. Robinson*
+
+
+         In this article we exploit the variation in institutional reform created by the French
+      Revolution in Europe, in particular within Germany, to investigate the consequences
+      of radical, externally imposed reforms on subsequent economic growth. After 1792
+      French armies occupied and reformed the institutions of many European countries.
+      The set of reforms the French imposed in the territories that they conquered were
+      extensive and radical; they included the imposition of the civil legal code, the abo-
+      lition of guilds and the remnants of feudalism, the introduction of equality before
+      the law, and the undermining of aristocratic privileges. The long-run implications
+      of these reforms are of interest both for historical reasons and also because they
+      are related to current debates on institutional change. For example, the view that
+      “designed” and externally imposed institutions are unlikely to foster economic
+      progress would suggest that the French Revolution should have significant negative
+      effects.1 In contrast, the view that oligarchies, entry barriers, and restrictions on trade
+      in labor and other markets were the main impediment to growth in Europe at the
+      turn of the nineteenth century would suggest that the revolutionary reforms should
+      have unleashed more rapid economic growth in affected areas (Mancur Olson 1982;
+      Acemoglu 2008).2
+
+
+
+          * Acemoglu: Department of Economics, Massachusetts Institute of Technology, 50 Memorial Drive, Cambridge,
+      MA 02139, and CIFAR (e-mail: daron@mit.edu); Cantoni: Seminar für Wirtschaftsgeschichte, Ludwig-Maximillians-
+      Universität, Ludwigstr. 33/IV 80539 Munich Germany (e-mail: davide.cantoni@lrz.uni-muenchen.de);
+      Johnson: Sloan School of Management, MIT, 50 Memorial Drive, Cambridge, MA 02139 (e-mail: sjohnson@
+      mit.edu); Robinson: Department of Government and IQSS, Harvard University, 1737 Cambridge St., Cambridge,
+      MA 02138, NBER and CIFAR (e-mail: jrobinson@gov.harvard.edu). We thank Jared Diamond, Robert Dixon,
+      Niall Ferguson, Tim Guinnane, Peter Hall, Philip Hoffman, Joel Mokyr, Sheilagh Ogilvie, Winifred Rothemberg,
+      Jesus Villaverde, John Wallis, Peter Wilson, participants in the American Economic Association, the International
+      Society for New Institutional Economics, and the Verein für Socialpolitik annual meetings, and seminar audi-
+      ences at Australian National, CIFAR, Harvard, Melbourne, Paris School of Economics, USC, and Yale for their
+      comments. Leopoldo Fergusson, Camilo García-Jimeno, Tarek Hassan, Jutta Hoppe, and Michael Kapps provided
+      excellent research assistance.
+          †
+            To view additional materials, visit the article page at
+      http://www.aeaweb.org/articles.php?doi=10.1257/aer.101.7.3286.
+          1
+            Friedrich Hayek (1960) argued that institutions cannot be designed and have to evolve organically (and that this
+      was the major reason for the inferiority of the civil code), and a recent literature has claimed that institutions have
+      to be “appropriate” to the specific circumstances of countries (e.g., Daniel Berkowitz, Katharina Pistor, and Jean-
+      Francois Richard 2003a; Berkowitz, Pistor, and Richard 2003b; Dani Rodrik 2007). Rafael La Porta et al. (1998)
+      emphasize several inefficiencies associated with the French civil legal code.
+          2
+            These issues are also related to the classic historical debate about the extent to which the institutions of the
+      ancien régime impeded capitalism and economic growth and whether the French Revolution played a constructive
+      or destructive role in European political development. The historical debate about the consequences of the French
+      Revolution is also about its impact on political institutions and democracy, which is beyond the scope of the current
+      article.
+
+                                                              3286

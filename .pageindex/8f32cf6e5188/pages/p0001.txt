@@ -1,0 +1,41 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/commons/1811/jun/05/vote-of-credit"
+final_url: "https://api.parliament.uk/historic-hansard/commons/1811/jun/05/vote-of-credit"
+sha256: "6e04a5be317a8beb39ee5887cc45399a76dc479ea69f6b3ff2c56a9f9e520d40"
+text_sha256: "88cb90ce8d3e866a8b9f0125a8e98bee4e65b8abf07214f2b60b1f69774532ef"
+title: "VOTE OF CREDIT. (Hansard, 5 June 1811)"
+---
+
+Title: VOTE OF CREDIT. (Hansard, 5 June 1811)
+
+[Search Help](https://api.parliament.uk/historic-hansard/search)
+
+[HANSARD 1803–2005](https://api.parliament.uk/historic-hansard/index.html)
+→
+[1810s](https://api.parliament.uk/historic-hansard/sittings/1810s)
+→
+[1811](https://api.parliament.uk/historic-hansard/sittings/1811/)
+→
+[June 1811](https://api.parliament.uk/historic-hansard/sittings/1811/jun/)
+→
+[5 June 1811](https://api.parliament.uk/historic-hansard/sittings/1811/jun/05)
+
+→
+[Commons Sitting](https://api.parliament.uk/historic-hansard/sittings/1811/jun/05#commons)
+
+# VOTE OF CREDIT.
+
+HC Deb 05 June 1811 vol 20 cc445-55 [445](https://api.parliament.uk/historic-hansard/commons/1811/jun/05/vote-of-credit#column_445)
+
+[§](https://api.parliament.uk/historic-hansard/commons/1811/jun/05/vote-of-credit#S1V0020P0_18110605_HOC_31)
+The House having resolved itself into a Committee of Supply,
+
+The Chancellor of the Exchequer
+
+rose to propose a Vote of Credit, to the extent of which, he believed, there would be no
+[446](https://api.parliament.uk/historic-hansard/commons/1811/jun/05/vote-of-credit#column_446)
+objections, as it was the same that was granted last year. He should therefore move, That the sum of three millions be granted to his Majesty, as a Vote of Credit, to enable him to take such measures as may be necessary to defeat any enterprizes or designs of his enemies, and as the exigency of affairs may require.
+
+[§](https://api.parliament.uk/historic-hansard/commons/1811/jun/05/vote-of-credit#S1V0020P0_18110605_HOC_33) [Mr. Whitbread](https://api.parliament.uk/historic-hansard/people/mr-samuel-whitbread-2)
+
+said, that he should not have offered any observations on the present motion, if he had an expectation that other opportunities would occur before the prorogation, of stating to the House what appeared to him to be of great importance with respect to the interests of the country. It appeared to him that there could no longer be any doubt whether our commercial warfare with Europe and with America had or had not been successful. He was sure that this question was settled beyond all doubt in the minds of the suffering manufacturers, whose petitions had been that day before the House, and whose claims the Chancellor of the Exchequer had very reluctantly allowed to go a Committee. It had been already passed as a resolution by that House, "that since the year 1806, and particularly from the beginning of the year 1807, a system of proscription had been exercised by France which greatly diminished our exports to the continent." As far, then, as regarded the policy of this country with respect to Europe, it appeared, even from the resolution of that House, that the policy of this country had failed; and that the line of policy which France had adopted, as contrasted with our policy, and considered with respect to the objects which the enemy openly avowed, had been fully successful. With respect to America, also, the House had resolved, "that the intercourse with that country was uncertain and interrupted." It must be recollected, that a few years ago we had been told by the authors and advocates of the Orders in Council, that the trade with America would not be muck affected by them; that trade would force its own way; that America would soon see her true interests; and that our intercourse with that country would remain undiminished. America, at that time, told this country, that if she persisted in orders so contrary to the rights of independent nations, she would suspend the intercourse between the two countries. The authors of our Orders in Council anticipated no evils from this measure; but the distresses of our manufacturers now

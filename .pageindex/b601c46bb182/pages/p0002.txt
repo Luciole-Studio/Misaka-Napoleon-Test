@@ -1,0 +1,54 @@
+
+
+【裁量：高】不能概括成“拿破仑完全拒绝波兰事业”：文本确有支持；也不能写“已允诺无条件恢复瓜分前波兰”：对奥明确设限，成功承诺带条件。此为公开政治文书，不等于秘密战略全貌。
+
+【未验证项】此前检索出现法奥1812年3月14日秘密条约允许加利西亚—伊利里亚补偿交换的叙述。本札记未直接核验条约，故不据此给出条款级事实结论；亦不把上述公开保留解释成未来经奥方同意的领土交换永远不可能。
+
+## E3　立陶宛动员：编制、征集和可战状态必须分开
+
+### 波兰史学正文
+Dariusz Nawrot, “Komitet Wojskowy na Litwie w 1812 r.”，收于 *Między obowiązkami, przywilejami a prawem Rzeczypospolitej XVI–XVIII wieku. Społeczeństwo w obronie państwa polsko-litewskiego*，*Studia i Materiały*, t.8，Warszawa，2018；本次使用正文**pp.281–283、295及续页**。
+- URL：https://academic-journals.eu/pl/download?path=%2Fuploads%2FZm9sZGVycHVibWVkaWE%3D%2Fdocuments%2Fstudia_i_materialy_viii_nawrot_komitet_wojskowy_na_litwie_w_1812.pdf
+- 缓存：`downloads/pages/9af33326aacf.md`
+- 抽取有断词和控制字符；下列引文仅合并断行断词，不改变措辞。
+
+### 制度与方案
+【文献推断：Nawrot，p.281】拿破仑优先组织有限规模正规军、宪兵与国民卫队，服务于后方治安和补给，而非不受控制的普遍起义：
+> „Napoleon konsekwentnie, także w pierwszych dniach pobytu w Wilnie, wykluczał utworzenie litewskiej siły zbrojnej opartej na powołaniu oddziałów nieregularnych.”
+
+【事实／转引Nawrot，p.282】7月1日成立临时政府委员会；军事委员会由Aleksander Sapieha主持。作者否定Sapieha承诺十万立陶宛军的说法。战前讨论曾涉及最多14个步骑兵团、约三万人；最终九个正规团、约一万五千人的编制方案与当地破坏、财力不足有关。**这些都是计划数，不是已集结数。**
+
+同时代约束锚点（转引，未见原信）：
+> „Niemożliwe jest formowanie 14 regimentów, bo brak pieniędzy i środków”.
+
+译：“无法组建14个团，因为缺钱和物资。”
+- Sapieha致妻，**1812年7月27日**；Nawrot p.282，注3。
+- 作者所列档号：B Czart., rkps, ew.3225（ADCz.7043，t.13）。
+- 7月10日编制方案会议记录：Nawrot同页注4 → RGADA, f.12, b.262, cz.5。均非本次亲阅档案。
+
+【事实／转引Nawrot，p.283】7月11日要求军事委员会准备五个步兵团、四个骑兵团的团长人选。军队初定主要承担驻防、交通线安全，而非立即加入主力前线作战。
+
+### 实际数量与时间
+【事实／转引Nawrot，p.295】
+> „Pomimo wskazanych przeszkód cały wysiłek mobilizacyjny Litwy przyniósł w 1812 r. ponad 20-tysięczne siły zbrojne.”
+
+但这个“超过两万”是全年动员的宽口径总数。作者紧接着说明，**12月1日五个步兵团、四个骑兵团约12,500人**；再加志愿组织、鞑靼分队、第21猎骑兵团一中队、步行射手、宪兵、国民卫队与民兵，才扩大为两万以上。不能在陆军核算中把12,500与20,000作为互不重叠的两项相加。
+
+【事实／转引Nawrot，p.295】委员会实际工作约7月20日展开；多数征兵委员会直到8月下半月才能开始征集。缺钱使制服、装备组织受阻近三个月，11–12月败局打断完成过程。
+
+【事实／同时代预期的转引】Hogendorp在**11月16日**致拿破仑信中许诺立陶宛军可在**1813年1月1日**充分准备好野战：Nawrot p.295，注48 → **AN, AF IV 1643, pl.2, nr46**，未亲见原信。
+
+【裁量：高】1月1日是当时的承诺／预测，不是已发生的完成日期；此数列最重要的约束是组织时滞，而不只是动员“意愿”。作者同注引Hogendorp回忆录pp.318–320，明确属于**回溯性**补充，不作为独立的同期报告。
+
+## E4　拒绝解放农奴：1812年12月20日公开自述
+
+### 文本及定位
+与E2同一刊本转录：*Œuvres*, t.V，Livre septième。
+- 文书标题：**“Paris, 20 décembre 1812. Réponse de l’empereur aux députations du sénat et du conseil d’état, envoyées pour le féliciter sur son retour de Russie.”**
+- 条目：**“Au Sénat”倒数第二段**，以“La guerre que je soutiens…”起首。
+- URL：https://www.gutenberg.org/cache/epub/13475/pg13475-images.html
+- 缓存：`downloads/pages/4ba9714f9fde.md`，第1076–1096行。
+- 另已抽取同文网页：`downloads/pages/8803bb4aae82.md`，https://www.ffdsp.com/lire-oeuvres-de-napoleon-bonaparte-tome-v-gratuit-chapitre-52 。这是同文转载，不计作独立证人。
+
+【事实／自述原句】
+> « La guerre que je soutiens contre la Russie est une guerre politique. Je l’ai faite sans animosité: j’eusse voulu lui épargner les maux qu’elle-même s’est faits. J’aurais pu armer la plus grande partie de sa population contre elle-même, en proclamant la liberté des esclaves: un grand nombre de villages me l’ont demandé; mais lorsque j’ai connu l’abrutissement de cette classe nombreuse du peuple russe, je me suis refusé à cette mesure qui aurait voué à la mort et aux plus horribles supplices bien des familles. »

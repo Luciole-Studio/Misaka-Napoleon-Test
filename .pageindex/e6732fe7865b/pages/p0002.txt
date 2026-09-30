@@ -1,0 +1,47 @@
+
+
+---
+
+## ① 决策结构与政治制度：谁在这个单位里决策
+
+### 1.1 三种法律形态，三种政治风险
+
+【锚】Hope & Co. 在1805年5月6日与 François Ouvrard & Co. 的合同中**明确拒绝**成为 Ouvrard 与西班牙宫廷合同的当事人，只当**佣金代理（commission agents）**：
+> "Ouvrard had initially proposed that Hope should become a party to his contract with the Spanish Court, but Labouchère declined the opportunity. Hope & Co. thus functioned purely as commission agents."（Buist，印页292–293；`notes_buist.md` E段）
+
+【锚】而1806年7月与 Baring 谈定的两份合同则相反：**"their discussions were based on the premise that both would act as buyers and not as agents"**（Buist 印页325–326）。
+
+【机】**代理／本人（agent vs principal）的选择就是政治风险的选择**：作代理则货物与债权不属于自己，被交战国没收时损失落在委托人头上，且自己在两边都可辩称"仅执行指令"；作本人则利润上不封顶但要承担没收、拿捕与主权违约的全部风险。Hope 在1805年（法西信用未明）选代理，在1806年（英国政局转向 Grenville-Fox 内阁、拿捕风险可由英国许可证对冲）选本人。
+
+【演·高置信】在任何法国胜利情景下，**跨国金融机构的默认法律形态会长期停在"代理"一侧**，因为法制欧洲缺少 F1 所述的信用承诺，本人承销的主权违约风险无法定价。这意味着**法制欧洲的金融业会是"高佣金、低资本、短久期"的**——这正是 §16 中欧陆资本市场规模区间偏低的微观原因。
+
+### 1.2 合伙制与继承：没有股份公司
+
+【锚】五个罗斯柴尔德兄弟到1815年**仍未采用复式记账**；Amschel 抱怨柏林的 Mendelssohn "know[s] how he stands with each of [his joint accounts] while in the House of Rothschild we have to rely on what the book keepers say"（Ferguson @1049）。同一时期他们开出的"虚拟"融通汇票总额**逾£200万**。
+
+【锚】1815年3月的合伙协议中**三分之二资本记在 Nathan 名下**；1816年夏兄弟估计合计资本 **£90万–£100万**；1818年6月议定 **£1,772,000**（Ferguson @1027）。
+
+【机】**家族合伙制的优势正是其风险**：它能在敌对国家之间维持一套无法被任何一国法院触及的内部账，代价是无法对外发行股份、无法在一次清算中存活，并且**继承即重组**。Hope & Co. 在1813年 Pierre César Labouchère 淡出后由"new-style house"接续，"destined to operate within a narrower framework"（Buist 印页71）。
+
+【演·中高置信】**在 S5（法国秩序固化到继承）下，金融单位的最大脆弱点与 F5 卡指出的政权脆弱点是同一个：继承时刻。** 一家合伙行的资本在创始人去世时必须被分割或续约；若同时发生政权交接，则清算与政治风险叠加。本卡给 P8 的接口参数：**S5 下，1826–1835年的任一年若同时发生（i）拿破仑死亡与（ii）某一家系统重要性商人银行的合伙人交接，则该年出现区域性信用收缩的条件概率≈0.35–0.55**（以1810年 Goldsmid 自杀＋金块委员会报告的叠加效应为类比锚，见 Ferguson @280118）。
+
+### 1.3 否决点：谁能叫停一笔交易
+
+本卡从材料中识别出**六类实际发生过的否决**：
+
+| 否决者 | 实例 | 出处 | 是否成功 |
+|---|---|---|---|
+| **发行国的主权当局** | 巴达维亚政府一度不批 Hope 的西班牙贷款；荷兰王路易扣住3,000万盾西班牙贷款直到荷兰自己拿到4,000万盾 | Buist 印页61、300 | 成功（改变条件） |
+| **交战国政府（发行侧）** | 1803年12月 Addington **正式要求 Barings 停止对法汇款** | Ziegler @158642 | 形式成功、实质失败 |
+| **交战国政府（收款侧）** | Pitt 1805年拒绝为 Ouvrard 的比索放行 | Buist 印页289 | 成功（直接导致1805年11月危机） |
+| **敌国既有承包商** | Gordon & Murphy 与 Reid Irving 已签1,000万比索合同，英国政府承诺**该合同完成前不批新操作** | Buist 印页327 | 部分成功（Alexander Baring 以英格兰银行董事身份绕过） |
+| **受款国的本国金融保护主义** | 1814年奥地利财库副总裁 Barbier 与财政大臣 Ugarte **拒绝罗斯柴尔德的免佣金＋8.48盾/镑报价**，理由是"应当用维也纳的银行" | Ferguson @963 | 成功 |
+| **同业的宗教—族群边界** | 1818年 Baring 称其合伙人不许他与任何犹太人做生意；"It all originates in Labouchère's pride and in Sillem's envy" | Ziegler @188278 | 成功（罗斯柴尔德在2.65亿法郎贷款中只分到1,000万且须与 Parish 分） |
+
+【演·中高置信】上表的第五、六行给出**法制欧洲金融一体化的两个非经济阻力**：宫廷金融保护主义与族群边界。前者在1814年被证明**足以让一个主权国家放弃一笔免佣金的交易**；后者在1818年被证明**足以在欧洲最大的一笔债务重组中把最强的竞争者挤到边缘**。任何"法国统一欧洲资本市场"的推演若不处理这两条，就是在纸上画图。反过来，**法国体制有一件事可以做而英国做不到：以行政命令废除犹太人从业限制**（1791年法国已解放犹太人，莱茵左岸随之），这是法制欧洲在金融人力资本上的**唯一结构性优势**。
+
+### 1.4 正统性：这个单位靠什么被允许存在
+
+【锚】Richelieu 公爵语："There are six great powers in Europe: England, France, Prussia, Austria, Russia and Baring Brothers."（Ziegler @194859）
+【锚】Liverpool 致 Castlereagh：Baring 手握法国财政、法国债又在英国流行，"**has to a certain degree the command of the money market of the world**"（Ziegler @184407）。
+【锚】1828年 Duncombe 在下院：罗斯柴尔德是"a new, and formidable power, till these days unknown in Europe; master of unbounded wealth, he boasts that he is the arbiter of peace and war"；《泰晤士报》读者信："We cannot suffer the destinies of a mighty Empire to be wielded by the unclean hands of a Jew and a man-midwife."（Ferguson @1501–1507）

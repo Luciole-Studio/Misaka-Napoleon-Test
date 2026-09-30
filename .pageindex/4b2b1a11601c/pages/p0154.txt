@@ -1,0 +1,654 @@
+5 
+
+54 
+
+i 10 
+
+12 
+
+Broad cloth, 1st sort ......England........ 
+
+Per yard ...... 
+
+12 
+
+16 
+
+14 
+
+15 
+
+! 15 
+
+16 
+
+Ditto, 2d-..—......—Dittos-. 
+
+Ditto.........— 
+
+70 
+
+125 
+
+80 
+
+130 
+
+so 
+
+130 
+
+Buntin . 
+
+....._..._....._Ditto.._._-_ 
+
+Per piece -- 
+
+S 
+
+25 
+
+8 
+
+25 
+
+s 
+
+25 
+
+Cables, 10 to 16 inches ....Ditto—.—..... 
+
+Per cwt. ...... 
+
+28 
+
+30 
+
+25 
+
+30 
+
+2S 
+
+30 
+
+C amphi re —.—.8 u in at ra. ....... 
+
+Per maund .... 
+
+50 
+
+60 
+
+70 
+
+SO 
+
+80 
+
+90 
+
+Canvas 
+
+——v^v—....—England.,__ 
+
+Per bolt—.... 
+
+28 
+
+30 
+
+28 
+
+30 
+
+2S 
+
+30 
+
+Cardamums---—.Malabar-. 
+
+Per seer-- 
+
+2 
+
+44 
+
+24 
+
+5 
+
+3 
+
+6 
+
+Cassia . 
+
+(’hino 
+
+Per maund 
+
+25 
+
+30 
+
+25 
+
+35 
+
+30 
+
+40 
+
+( Jag! lire-— 
+
+Per 100—..... 
+
+8 
+
+50 
+
+10 
+
+40 
+
+8 
+
+50 
+
+Chunk sliells—___ —-< Parte .—.— 
+
+Ditto—.....— 
+
+6 
+
+30 
+
+5 
+
+25 
+
+6 
+
+30 
+
+
+1 Tuticorin- 
+
+Ditto..—...... 
+
+8 
+
+50 
+
+8 
+
+40 
+
+8 
+
+50 
+
+Cinnamon-....-.—Ceylon ..... 
+
+Per seer..,_... 
+
+2 
+
+21 
+
+2 
+
+24 
+
+2 
+
+21 
+
+Claret —....--—.England ._ 
+
+Per che-t...... 
+
+360 
+
+4S0 
+
+420 
+
+'576 
+
+420 
+
+540 
+
+Cloves . 
+
+....................... ^Moluccas ..... v 
+
+Per seer-... 
+
+24 
+
+34 
+
+3 
+
+41 
+
+4 
+
+5\ 
+
+Cochineal —.......—-.England.._. 
+
+Ditto-...... 
+
+2.5 
+
+30 
+
+24 
+
+28 
+
+30 
+
+32 
+
+Coculus Indicus ..-Malabar_ 
+
+Per maund .... 
+
+6 
+
+8 
+
+5 
+
+7 
+
+6 
+
+8 
+
+
+( Maldives _ . 
+
+Ditto.—........ 
+
+10 
+
+14 
+
+12 
+
+15 
+
+10 
+
+. 12 
+
+Com cordage..............-! Coast ...._ 
+
+Ditto..—..._ 
+
+6 
+
+7 
+
+7 
+
+9 
+
+5 
+
+6 
+
+
+(. Ceylon ....._ 
+
+1 Ditto-.— 
+
+6 
+
+8 
+
+7 
+
+10 
+
+6 
+
+7 
+
+Coffee .. 
+
+f Mocha....—.. 
+( BourbOIl..- 
+
+Ditto.....-- 
+
+Ditto—- 
+
+28 
+
+10 
+
+30 
+
+20 
+
+30 
+
+12 
+
+32 
+
+20 
+
+30 
+
+10 
+
+50 
+
+20 
+
+
+” Manufactured—Ditto-... . 
+
+Ditto-- 
+
+70 
+
+75 
+
+72 
+
+75 
+
+70 
+
+75 
+
+Copper- 
+
+Sheets --.Ditto__. 
+
+Ditto-....... 
+
+.58 
+
+65 
+
+55 
+
+6.5 
+
+55 
+
+65 
+
+Jspan —..Ditto...__ 
+
+Ditto..__ 
+
+.52 
+
+55 
+
+55 
+
+60 
+
+. 60 
+
+55 
+
+
+English in sticks Ditto.__,_ 
+
+Ditto......- 
+
+.54 ' 
+
+56 
+
+52 
+
+55 
+
+52 
+
+55 
+
+
+■ Pillar-Ditto_ 
+
+Sicca weight .. 
+
+6 
+
+61 
+
+5 
+
+6 
+
+5 
+
+6 
+
+Corals ^ 
+
+Phaur .—...-Ditto- 
+
+Moonga .-—Ditto.....__ 
+
+Ditto............ 
+
+Ditto............ 
+
+24 
+
+14 
+
+3 
+
+ii 
+
+2 
+
+H 
+
+3 
+
+54 
+
+24 
+
+1| 
+
+3 
+
+14 
+
+Nimmoonga-.Ditto-- 
+
+Ditto---- 
+
+1 
+
+li 
+
+i 
+
+H 
+
+1 
+
+1$ 
+
+Cordage 
+
+Cowries 
+
+1 to 5 inches .— Ditto..... ___ 
+
+Per cwt __... 
+
+28 
+
+30 
+
+26 
+
+29 
+
+2S 
+
+30 
+
+......................Af aldives ...... 
+
+Per maund .... 
+
+4 
+
+5 
+
+44 
+
+~5l 
+
+4 
+
+5 
+
+Catch . 
+
+....................... P egu.... ........ 
+
+DlttO....... 
+
+3i 
+
+4 
+
+34 
+
+4" 
+
+34 
+
+4 
+
+l)ammer...^.^~...>........Sumatra...., _. 
+
+Di tto... ......... | 
+
+24 
+
+4 
+
+2 
+
+4 
+
+3' 
+
+5 
+
+Gold thread ——..— England --i 
+
+Per bobbin ...J 
+
+15 
+
+16 
+
+14 
+
+15 
+
+15 
+
+16 
+
+Galls 
+
+......... ..............Aleppo ........ | 
+
+Per maund .... 
+
+30. 
+
+35 
+
+, 27 
+
+32 j 
+
+25 
+
+1 28 
+
+1 
+
+r Ammoniacum ..Westward _ j 
+
+Ditto........ __ 
+
+5 
+
+10 
+
+4 
+
+9 
+
+5 
+
+10 
+
+Gum -> 
+
+Arabic -- .....Ditto -...... ! 
+
+3; tto............ 
+
+5 
+
+8 
+
+! 6 
+
+8 
+
+!■ 5 
+
+8 
+
+i 
+
+^ Galbanum-...Persia -- ...J 
+
+l-jhtto... ..... 
+
+2 
+
+4 
+
+3 
+
+6 
+
+2 
+
+4 
+
+
+
+
+
+CALCUTTA. 

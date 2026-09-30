@@ -1,0 +1,69 @@
+## Sheet: F4_fiscal.csv (continued)
+id,record_type,scenario,period,territory,series,value,low,high,unit,basis,source_id,locator,formula,notes
+F4-294,二手数据转录,S0,1828,复辟/七月王朝法国,restoration_fiscal_revenue,948,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-295,二手数据转录,S0,1828,复辟/七月王朝法国,restoration_balance,5,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-296,二手数据转录,S0,1828,复辟/七月王朝法国,restoration_debt_interest_share_expenditure,20.45,,,%,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-297,二手数据转录,S0,1829,复辟/七月王朝法国,restoration_fiscal_revenue,978,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-298,二手数据转录,S0,1829,复辟/七月王朝法国,restoration_balance,7,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-299,二手数据转录,S0,1829,复辟/七月王朝法国,restoration_debt_interest_share_expenditure,20.36,,,%,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-300,二手数据转录,S0,1830,复辟/七月王朝法国,restoration_fiscal_revenue,992,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-301,二手数据转录,S0,1830,复辟/七月王朝法国,restoration_balance,-124,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-302,二手数据转录,S0,1830,复辟/七月王朝法国,restoration_debt_interest_share_expenditure,21.01,,,%,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-303,二手数据转录,S0,1831,复辟/七月王朝法国,restoration_fiscal_revenue,971,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-304,二手数据转录,S0,1831,复辟/七月王朝法国,restoration_balance,-270,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-305,二手数据转录,S0,1831,复辟/七月王朝法国,restoration_debt_interest_share_expenditure,21.71,,,%,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-306,二手数据转录,S0,1832,复辟/七月王朝法国,restoration_fiscal_revenue,949,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-307,二手数据转录,S0,1832,复辟/七月王朝法国,restoration_balance,-189,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-308,二手数据转录,S0,1832,复辟/七月王朝法国,restoration_debt_interest_share_expenditure,21.62,,,%,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-309,二手数据转录,S0,1833,复辟/七月王朝法国,restoration_fiscal_revenue,985,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-310,二手数据转录,S0,1833,复辟/七月王朝法国,restoration_balance,-144,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-311,二手数据转录,S0,1833,复辟/七月王朝法国,restoration_debt_interest_share_expenditure,22.02,,,%,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-312,二手数据转录,S0,1834,复辟/七月王朝法国,restoration_fiscal_revenue,990,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-313,二手数据转录,S0,1834,复辟/七月王朝法国,restoration_balance,-56,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-314,二手数据转录,S0,1834,复辟/七月王朝法国,restoration_debt_interest_share_expenditure,18.25,,,%,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-315,二手数据转录,S0,1835,复辟/七月王朝法国,restoration_fiscal_revenue,1008,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-316,二手数据转录,S0,1835,复辟/七月王朝法国,restoration_balance,-26,,,百万法郎,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-317,二手数据转录,S0,1835,复辟/七月王朝法国,restoration_debt_interest_share_expenditure,18.12,,,%,EHES表1转Mitchell/Vaslin；1818会计毛净变更不得机械接帝国,OUV,Table1 print41/PDF42,,
+F4-318,后出统计转录,S0,1836,当年法国,Juglar_army_navy,267,,,百万法郎,普通+特别支出；各项范围见原文,J,p308/PDF4,,
+F4-319,后出统计转录,S0,1846,当年法国,Juglar_army_navy,495,,,百万法郎,普通+特别支出；各项范围见原文,J,p308/PDF4,,
+F4-320,后出统计转录,S0,1836,当年法国,Juglar_public_works,65,,,百万法郎,普通+特别支出；各项范围见原文,J,p308/PDF4,,
+F4-321,后出统计转录,S0,1846,当年法国,Juglar_public_works,217,,,百万法郎,普通+特别支出；各项范围见原文,J,p308/PDF4,,
+F4-322,后出叙述,S0,1823,复辟法国,rente_5pct_issue_price,89.55,,,每100面值法郎,发行价；不是票息5%即市场利率,LB,section I,,
+F4-323,算术,S0,1823,复辟法国,rente_5pct_current_yield,5.583472920156337,,,%,简化当期收益率；不含佣金/支付时间/转换权,LB,section I,5/89.55*100,
+F4-324,文献转录,S0,1806,法国当时疆域；逐年变化,bank_discount_rate,5,,,%,法兰西银行贴现率；不是政府公债收益率,PL,Empire节,,
+F4-325,文献转录,S0,1807,法国当时疆域；逐年变化,bank_discount_rate,4,,,%,同上,PL,Empire节,,
+F4-326,文献转录,S0,1808,法国当时疆域；逐年变化,bank_treasury_loan,40,,,百万法郎,该次贷款流量，不是银行资本,PL,Empire节,,
+F4-327,文献转录,S0,1814帝国末,法国当时疆域；逐年变化,bank_treasury_claim,50,,,百万法郎,文献约数；债权存量非新增贷款,PL,Empire节,,
+F4-328,文献转录,S0,1799-11,法国当时疆域；逐年变化,perpetual_rentes_service,46.3,,,百万法郎/年,年票息非债务本金；与其他来源40m有日期范围差异,BW,print30/PDF32,,
+F4-329,文献转录,S0,1814-04,法国当时疆域；逐年变化,perpetual_rentes_service,63.3,,,百万法郎/年,年票息非债务本金,BW,print30/PDF32,,
+F4-330,文献转录,S0,1806-1812,法国当时疆域；逐年变化,sinking_fund_bonds_issued,224,,,百万法郎,累计票据发行，不是年末存量,BW,print30/PDF32,,
+F4-331,文献转录,S0,1806-1812,法国当时疆域；逐年变化,sinking_fund_bonds_coupon,,6,7,%,名义票息；市场实际发行成本不明,BW,print30/PDF32,,
+F4-332,模型,S5,S5初期,固定核心法国建制；独立盟军另列,army_cost_person_sensitivity,240.0,,,百万法郎,建制人数×年度单位成本；中心700转Mollien，600缺装备为低界，900为主高界，1000为dIvernois争议数的额外压力项,MODEL;M,pp322-323/PDF342-343,400000*600/1000000,600/700转Mollien回溯估计，900为1806Naples报告、1000为dIvernois争议估计；非可用战斗人员单价，独立盟軍不并入法国现金
+F4-333,模型,S5,S5初期,固定核心法国建制；独立盟军另列,army_cost_person_sensitivity,280.0,,,百万法郎,建制人数×年度单位成本；中心700转Mollien，600缺装备为低界，900为主高界，1000为dIvernois争议数的额外压力项,MODEL;M,pp322-323/PDF342-343,400000*700/1000000,600/700转Mollien回溯估计，900为1806Naples报告、1000为dIvernois争议估计；非可用战斗人员单价，独立盟軍不并入法国现金
+F4-334,模型,S5,S5初期,固定核心法国建制；独立盟军另列,army_cost_person_sensitivity,360.0,,,百万法郎,建制人数×年度单位成本；中心700转Mollien，600缺装备为低界，900为主高界，1000为dIvernois争议数的额外压力项,MODEL;M,pp322-323/PDF342-343,400000*900/1000000,600/700转Mollien回溯估计，900为1806Naples报告、1000为dIvernois争议估计；非可用战斗人员单价，独立盟軍不并入法国现金
+F4-335,模型,S5,S5初期,固定核心法国建制；独立盟军另列,army_cost_person_sensitivity,400.0,,,百万法郎,建制人数×年度单位成本；中心700转Mollien，600缺装备为低界，900为主高界，1000为dIvernois争议数的额外压力项,MODEL;M,pp322-323/PDF342-343,400000*1000/1000000,600/700转Mollien回溯估计，900为1806Naples报告、1000为dIvernois争议估计；非可用战斗人员单价，独立盟軍不并入法国现金
+F4-336,模型,S5,S5初期,固定核心法国建制；独立盟军另列,army_cost_person_sensitivity,270.0,,,百万法郎,建制人数×年度单位成本；中心700转Mollien，600缺装备为低界，900为主高界，1000为dIvernois争议数的额外压力项,MODEL;M,pp322-323/PDF342-343,450000*600/1000000,600/700转Mollien回溯估计，900为1806Naples报告、1000为dIvernois争议估计；非可用战斗人员单价，独立盟軍不并入法国现金
+F4-337,模型,S5,S5初期,固定核心法国建制；独立盟军另列,army_cost_person_sensitivity,315.0,,,百万法郎,建制人数×年度单位成本；中心700转Mollien，600缺装备为低界，900为主高界，1000为dIvernois争议数的额外压力项,MODEL;M,pp322-323/PDF342-343,450000*700/1000000,600/700转Mollien回溯估计，900为1806Naples报告、1000为dIvernois争议估计；非可用战斗人员单价，独立盟軍不并入法国现金
+F4-338,模型,S5,S5初期,固定核心法国建制；独立盟军另列,army_cost_person_sensitivity,405.0,,,百万法郎,建制人数×年度单位成本；中心700转Mollien，600缺装备为低界，900为主高界，1000为dIvernois争议数的额外压力项,MODEL;M,pp322-323/PDF342-343,450000*900/1000000,600/700转Mollien回溯估计，900为1806Naples报告、1000为dIvernois争议估计；非可用战斗人员单价，独立盟軍不并入法国现金
+F4-339,模型,S5,S5初期,固定核心法国建制；独立盟军另列,army_cost_person_sensitivity,450.0,,,百万法郎,建制人数×年度单位成本；中心700转Mollien，600缺装备为低界，900为主高界，1000为dIvernois争议数的额外压力项,MODEL;M,pp322-323/PDF342-343,450000*1000/1000000,600/700转Mollien回溯估计，900为1806Naples报告、1000为dIvernois争议估计；非可用战斗人员单价，独立盟軍不并入法国现金
+F4-340,模型,S5,S5初期,固定核心法国建制；独立盟军另列,army_cost_person_sensitivity,300.0,,,百万法郎,建制人数×年度单位成本；中心700转Mollien，600缺装备为低界，900为主高界，1000为dIvernois争议数的额外压力项,MODEL;M,pp322-323/PDF342-343,500000*600/1000000,600/700转Mollien回溯估计，900为1806Naples报告、1000为dIvernois争议估计；非可用战斗人员单价，独立盟軍不并入法国现金
+F4-341,模型,S5,S5初期,固定核心法国建制；独立盟军另列,army_cost_person_sensitivity,350.0,,,百万法郎,建制人数×年度单位成本；中心700转Mollien，600缺装备为低界，900为主高界，1000为dIvernois争议数的额外压力项,MODEL;M,pp322-323/PDF342-343,500000*700/1000000,600/700转Mollien回溯估计，900为1806Naples报告、1000为dIvernois争议估计；非可用战斗人员单价，独立盟軍不并入法国现金
+F4-342,模型,S5,S5初期,固定核心法国建制；独立盟军另列,army_cost_person_sensitivity,450.0,,,百万法郎,建制人数×年度单位成本；中心700转Mollien，600缺装备为低界，900为主高界，1000为dIvernois争议数的额外压力项,MODEL;M,pp322-323/PDF342-343,500000*900/1000000,600/700转Mollien回溯估计，900为1806Naples报告、1000为dIvernois争议估计；非可用战斗人员单价，独立盟軍不并入法国现金
+F4-343,模型,S5,S5初期,固定核心法国建制；独立盟军另列,army_cost_person_sensitivity,500.0,,,百万法郎,建制人数×年度单位成本；中心700转Mollien，600缺装备为低界，900为主高界，1000为dIvernois争议数的额外压力项,MODEL;M,pp322-323/PDF342-343,500000*1000/1000000,600/700转Mollien回溯估计，900为1806Naples报告、1000为dIvernois争议估计；非可用战斗人员单价，独立盟軍不并入法国现金
+F4-344,模型,S5,S5初期,固定核心法国建制；独立盟军另列,army_cost_person_sensitivity,330.0,,,百万法郎,建制人数×年度单位成本；中心700转Mollien，600缺装备为低界，900为主高界，1000为dIvernois争议数的额外压力项,MODEL;M,pp322-323/PDF342-343,550000*600/1000000,600/700转Mollien回溯估计，900为1806Naples报告、1000为dIvernois争议估计；非可用战斗人员单价，独立盟軍不并入法国现金
+F4-345,模型,S5,S5初期,固定核心法国建制；独立盟军另列,army_cost_person_sensitivity,385.0,,,百万法郎,建制人数×年度单位成本；中心700转Mollien，600缺装备为低界，900为主高界，1000为dIvernois争议数的额外压力项,MODEL;M,pp322-323/PDF342-343,550000*700/1000000,600/700转Mollien回溯估计，900为1806Naples报告、1000为dIvernois争议估计；非可用战斗人员单价，独立盟軍不并入法国现金
+F4-346,模型,S5,S5初期,固定核心法国建制；独立盟军另列,army_cost_person_sensitivity,495.0,,,百万法郎,建制人数×年度单位成本；中心700转Mollien，600缺装备为低界，900为主高界，1000为dIvernois争议数的额外压力项,MODEL;M,pp322-323/PDF342-343,550000*900/1000000,600/700转Mollien回溯估计，900为1806Naples报告、1000为dIvernois争议估计；非可用战斗人员单价，独立盟軍不并入法国现金
+F4-347,模型,S5,S5初期,固定核心法国建制；独立盟军另列,army_cost_person_sensitivity,550.0,,,百万法郎,建制人数×年度单位成本；中心700转Mollien，600缺装备为低界，900为主高界，1000为dIvernois争议数的额外压力项,MODEL;M,pp322-323/PDF342-343,550000*1000/1000000,600/700转Mollien回溯估计，900为1806Naples报告、1000为dIvernois争议估计；非可用战斗人员单价，独立盟軍不并入法国现金
+F4-348,模型,S5,1815-1820,法国建制+独立盟军；匹配F2任务范围,joint_French_gross_supported_L300_c700,428571.429,,,人,F2最终任务量与F4陆军300m闭合案；不是实测兵力,MODEL;F2;M,F2_joint_budget_manpower.csv;M pp322-323,300000000/700,85%在场为F2参数；盟军自养及额外现金40m能否同兑现待区域核查
+F4-349,模型,S5,1815-1820,法国建制+独立盟军；匹配F2任务范围,joint_total_present_allies200k_q085,534285.714,,,人,F2最终任务量与F4陆军300m闭合案；不是实测兵力,MODEL;F2;M,F2_joint_budget_manpower.csv;M pp322-323,(300000000/700+200000)*0.85,85%在场为F2参数；盟军自养及额外现金40m能否同兑现待区域核查
+F4-350,模型,S2,1815-1820,法国建制+独立盟军；匹配F2任务范围,joint_S2_margin_present,-5714.286,,,人,F2最终任务量与F4陆军300m闭合案；不是实测兵力,MODEL;F2;M,F2_joint_budget_manpower.csv;M pp322-323,(300000000/700+200000)*0.85-540000,85%在场为F2参数；盟军自养及额外现金40m能否同兑现待区域核查
+F4-351,模型,S5,1815-1820,法国建制+独立盟军；匹配F2任务范围,joint_S5_margin_present,44285.714,,,人,F2最终任务量与F4陆军300m闭合案；不是实测兵力,MODEL;F2;M,F2_joint_budget_manpower.csv;M pp322-323,(300000000/700+200000)*0.85-490000,85%在场为F2参数；盟军自养及额外现金40m能否同兑现待区域核查
+F4-352,模型,S6,1815-1820,法国建制+独立盟军；匹配F2任务范围,joint_S6_lite_margin_present,-31964.286,,,人,F2最终任务量与F4陆军300m闭合案；不是实测兵力,MODEL;F2;M,F2_joint_budget_manpower.csv;M pp322-323,(300000000/700+200000)*0.85-566250,85%在场为F2参数；盟军自养及额外现金40m能否同兑现待区域核查
+F4-353,模型,S2,1815-1820,法国建制+独立盟军；匹配F2任务范围,joint_S2_allies_required,206722.689,,,人,F2最终任务量与F4陆军300m闭合案；不是实测兵力,MODEL;F2;M,F2_joint_budget_manpower.csv;M pp322-323,540000/0.85-300000000/700,85%在场为F2参数；盟军自养及额外现金40m能否同兑现待区域核查
+F4-354,模型,S6,1815-1820,法国建制+独立盟军；匹配F2任务范围,joint_S6_lite_allies_required,237605.042,,,人,F2最终任务量与F4陆军300m闭合案；不是实测兵力,MODEL;F2;M,F2_joint_budget_manpower.csv;M pp322-323,566250/0.85-300000000/700,85%在场为F2参数；盟军自养及额外现金40m能否同兑现待区域核查
+F4-355,模型,S5,1815,固定1810年6月税收核心；不含后续外圈及藩属,S5_net_recurring_capacity,,700.0,800.0,百万法郎,1815净经常700-800；年增长0.5%-1.25%；不是实测平减数据,MODEL;C-JUN;M;OUV,报告§S5,700*1.005^0;800*1.0125^0,无新征服赔款；不自动含盟国转移；低高为规划边界而非概率区间
+F4-356,模型,S5,1815,固定1810年6月税收核心；不含后续外圈及藩属,S5_central_joint_army_navy_ceiling,425.0,,,百万法郎,中心T750年增1%;非军300年增0.75%;新补偿25;无永久新借款,MODEL;M;SG,报告§S5,750*1.01^0-300*1.0075^0-25,尚须减储备积累/过渡借款服务；非军含原债息养老金。
+F4-357,模型,S5,1820,固定1810年6月税收核心；不含后续外圈及藩属,S5_net_recurring_capacity,,717.676,851.266,百万法郎,1815净经常700-800；年增长0.5%-1.25%；不是实测平减数据,MODEL;C-JUN;M;OUV,报告§S5,700*1.005^5;800*1.0125^5,无新征服赔款；不自动含盟国转移；低高为规划边界而非概率区间
+F4-358,模型,S5,1820,固定1810年6月税收核心；不含后续外圈及藩属,S5_central_joint_army_navy_ceiling,451.838,,,百万法郎,中心T750年增1%;非军300年增0.75%;新补偿25;无永久新借款,MODEL;M;SG,报告§S5,750*1.01^5-300*1.0075^5-25,尚须减储备积累/过渡借款服务；非军含原债息养老金。
+F4-359,模型,S5,1830,固定1810年6月税收核心；不含后续外圈及藩属,S5_net_recurring_capacity,,754.378,963.863,百万法郎,1815净经常700-800；年增长0.5%-1.25%；不是实测平减数据,MODEL;C-JUN;M;OUV,报告§S5,700*1.005^15;800*1.0125^15,无新征服赔款；不自动含盟国转移；低高为规划边界而非概率区间
+F4-360,模型,S5,1830,固定1810年6月税收核心；不含后续外圈及藩属,S5_central_joint_army_navy_ceiling,510.146,,,百万法郎,中心T750年增1%;非军300年增0.75%;新补偿25;无永久新借款,MODEL;M;SG,报告§S5,750*1.01^15-300*1.0075^15-25,尚须减储备积累/过渡借款服务；非军含原债息养老金。

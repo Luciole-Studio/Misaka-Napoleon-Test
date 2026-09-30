@@ -1,0 +1,37 @@
+became a larger proportion of the national herd over time) were also smaller than their
+northern counterparts. Sweden began with rather smaller horses in the early nineteenth
+century but caught up with north-west Europe later. Portugal, Spain and Italy were
+undoubtedly at a lower level, but we can make little more than educated guesses. Data is
+rather better for oxen, where France, Germany and Sweden appear to have had very similar
+sized animals; again, the Mediterranean and Iberian breeds were rather smaller. We have
+attempted to stay close to the actual weights provided in the text above for specific countries
+and dates, but have rounded these off for simplicity. It is impossible of course to make such
+estimates with great exactitude for particular years. To calculate the rest of our benchmarks,
+we simply use linear interpolation.
+
+
+Table B.3 Assumed average weights of animals
+             Ox                      Horse                  Donkey
+             1815 1870 1914 1815 1870 1914
+England      na       na     Na      500     700    800     na
+Holland      na       na     Na      500     700    800     na
+France       400      450    500     450     500    550     na
+Germany 400           450    500     450     500    550     na
+Sweden       400      450    500     400     450    550     na
+Portugal     300      350    400     350     400    500     350
+Spain        300      350    400     350     400    500     350
+Italy        300      350    400     350     400    500     350
+
+
+References
+
+Statistical sources
+
+Barciela López, C., Giráldez Rivero, J., Grupo De Estudios De Historia Rural, López Ortiz,
+I., ‘Sector Agrario y Pesca’, Estadísticas Históricas de España, siglos XIX-XX, forthcoming,
+Cuadro 4.18;
+
+BiSOS (Bidrag till Sveriges Officiella Statistik) (Supplement to Swedish Public Statistics)
+series Q, Agriculture, 1901.
+
+Rey, G., and Vitali, O., (eds.); Conti (I) economici dell’Italia 1, (Roma-Bari, 1991).

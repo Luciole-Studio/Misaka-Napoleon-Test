@@ -1,0 +1,66 @@
+                       Table 2: Country- and city-level difference-in-differences estimates.
+                                            Country level                      City level                               Country level
+                                          (1)           (2)              (3)                (4)         (5)           (6)            (7)           (8)
+                                                     Population                      Population                   Population                   Population
+                                     ln Population    growth       ln Population      growth      ln Population    growth      ln Population    growth
+
+ Potato x Post                          1.236          0 .741          0.942            0.638          1.335         0.816         2.135          1.024
+                                       (0.291)        (0.118)         (0.308)          (0.251)        (0.314)       (0.169)       (1.023)        (0.460)
+ Neighbors' Potato x Post                                                                              0.065        -0.026
+                                                                                                      (0.456)       (0.204)
+ Potato x Old World Staples x Post                                                                                                -1.525         -0.481
+                                                                                                                                  (1.457)        (0.670)
+
+ Observations                            922            790             885                 649        922            790           922            790
+
+ Notes : All regressions control for All Crops x Post, Old World Staples x Post, New World Staples x Post, Elevation x Post, Ruggedness x Post, country
+ fixed effects and year fixed effects. Standard errors are clustered at the country level in the country-century level regressions (columns 1-2 and 5-8) and
+ at the city level in the city-century level regressions (columns 3-4). There are 132 clusters in the country regressions and 186 clusters in the city
+ regressions.
+
+
+
+
+    Columns (3) and (4) report the estimated effects of potatoes on population and population
+
+growth at the city level. To be as conservative as possible, we restrict our sample to locations that
+
+existed as cities (i.e., a population of more than 20,000) in at least one pre-adoption time period
+
+and at least one post-adoption period. The results are similar if we include all cities in the sample,
+
+even if they do not appear in a pre-adoption time period.27
+
+    Comparing the city-level estimates of columns (3) and (4) with the country-level estimates
+
+of columns (1) and (2), one finds that they are very similar. In both cities and countries, the
+
+introduction of potatoes has a positive and significant effect on population and population growth.
+
+The magnitude of the estimates are slightly larger at the country level, which could potentially be
+
+explained by the fact that the city-level estimates do not include the impact of potatoes on the rise
+
+of new cities. The fact that we obtain similar results when we use city-level and country-level
+
+population data is reassuring.
+
+    To interpret the DD estimates from columns (1) and (2) as literally the effect of potatoes on
+
+historic population, we must assume that countries that were unsuitable for cultivating potatoes
+
+were not affected in any way by the introduction of potatoes. This assumption is violated if there
+
+were either positive or negative spillover effects, so that countries that did not adopt potatoes
+
+were also affected when their neighbors adopted potatoes. Positive spillovers may have occurred
+
+through trade in agricultural products. If a neighboring trading partner adopted potatoes and
+  27 A significant proportion of the cities in our full sample (640 of 1,143) appear only in 1900. A total of 186 cities appear
+
+in at least one pre-adoption and one post-adoption time period.
+
+
+
+
+                                                                               25

@@ -1,0 +1,10 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: prisoners.csv
+
+```meta
+▸ table "prisoners.csv" (2 data rows)
+```
+report_date,geography,category,value,unit,source,locator,scope_limit
+1811-06-14,England,French_prisoners_reported_total,45933,persons,Hansard_HC_vol20,634,not_identified_as_naval_only_stock_date_not_explicit
+1811-06-14,England,French_prisoners_on_parole,2710,persons,Hansard_HC_vol20,634,inclusion_in_total_unresolved_do_not_add

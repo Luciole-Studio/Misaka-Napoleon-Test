@@ -1,0 +1,192 @@
+---
+source_url: "https://rodrigomorenog.files.wordpress.com/2019/01/forrest-conscripts-and-deserters_-the-army-and-french-society-during-the-revolution-and-empire-oxford-1989.pdf"
+final_url: "https://rodrigomorenog.files.wordpress.com/2019/01/forrest-conscripts-and-deserters_-the-army-and-french-society-during-the-revolution-and-empire-oxford-1989.pdf"
+provider: "exa"
+text_sha256: "f83e37321b1955f04a3cad8ab4bcfd7db35eddfc5ce7627bfec796bb09be3ce3"
+title: ""
+content_kind: "page_text"
+---
+
+CONSCRIPTS
+
+DESERTERS
+
+THE ARMY AND
+
+FRENCH SOCIETY
+DURING THE
+REVOLUTION
+AND EMPIRE
+
+ALAN FORREST
+
+CONSCRIPTS
+AND
+
+DESERTERS
+
+This page intentionally left blank
+
+CONSCRIPTS
+A ND
+DESER TERS
+THE ARMY AND FRENCH SOCIETY
+DURING THE REVOLUTION
+AND EMPIRE
+Alan Forrest
+New York Oxford
+OXFORD UNIVERSITY PRESS
+1989
+Oxford University Press
+Oxford New York Toronto
+Delhi Bombay Calcutta Madras Karachi
+Petaling Jaya Singapore Hong Kong Tokyo
+Nairobi Dar es Salaam Cape Town
+Melbourne Auckland
+and associated companies in
+Berlin Ibadan
+Original title of French Edition
+Deserteurs et Insoumis sous la Revolution et 1'Empire
+Copyright © Librairie Academique Perrin 1988
+English edition copyright © 1989 by Oxford University Press, Inc.
+Published by Oxford University Press, Inc.,
+200 Madison Avenue, New York, New York 10016
+Oxford is a registered trademark of Oxford University Press
+All rights reserved. No part of this publication may be reproduced,
+stored in a retrieval system, or transmitted, in any form or by any means,
+electronic, mechanical, photocopying, recording, or otherwise,
+without the prior permission of Oxford University Press.
+Library of Congress Cataloging-in-Publication Data
+Forrest, Alan I.
+Conscripts and deserters.
+Translation of: Deserteurs et insoumis sous
+la Revolution et 1'Empire.
+Bibliography: p.
+Includes index.
+1. France—History, Military—1789-1815.
+2. France. Armee—History—Revolution, 1789-1799.
+3. France. Armee—History—Napoleonic Wars, 1800-1815.
+4. Napoleonic Wars, 1800-1814—Desertions—France.
+5. France. Armee—Recruiting, enlistment, etc.
+6. France—History—Napoleonic Wars, 1800-1815—
+Draft resisters. I. Title.
+DC151.F6713 1989 944.04 88-34568
+ISBN 0-19-505937-9
+24689753 1
+Printed in the United States of America
+on acid-free paper
+Acknowledgments
+I CAME to the study of desertion and draft-dodging by a somewhat oblique route,
+almost as a by-product of work on charity and Revolutionary social policy. That
+it has now grown into a full-length study is due in no small measure to the
+insights and encouragement of others. Financial assistance with archival
+research was provided by the British Academy, by the Sir Ernest Cassell Educational Trust, and by the University of Manchester. Academic assistance came
+from many different sources. I owe much to the help unstintingly given by archivists in whose depots I worked, both at the Archives Nationales and in the cluster of departmental archives whose holdings form the basis of this study—in
+Aurillac, Bordeaux, Epinal, Foix, Lille, Valence, Vannes, and Versailles. In my
+"home" department of the Hauts-de-Seine, the archive staff were generous in
+bringing much-needed documentation from far-flung corners of the country.
+Their interest and assistance is greatly appreciated. So, too, is the constructive
+criticism offered by colleagues at various seminars and colloquia where I have
+had the opportunity to present some of the ideas contained in the present book.
+In particular I should like to thank Roger Dupuy and Francois Lebrun at
+Rennes, Jean Nicholas at Paris-VII, Alison Patrick at Melbourne, Steve Kaplan
+at Cornell, and John Merriman at Yale.
+Fellow historians have rallied round with ideas and inspiration. Clive
+Emsley of the Open University advised me on the eighteenth-century police;
+Colin Jones of Exeter University and Peter Jones of Birmingham passed me
+valuable references to military sources. In France, Louis Berges let me read his
+excellent thesis on conscription problems in the Southwest, and Frederic Rousseau, at the University of Montpellier, entered into a lengthy and illuminating
+correspondence on his work on the Herault. Jonathan Dalby on the Cantal and
+Michael Broers on Piedmont provided insights into the problem of recruitment
+in a local context, and helped convince me that there really was a subject there
+worth studying at all. Jean-Paul Bertaud of the Sorbonne and Isser Woloch of
+Columbia shared with me their vast experience of the Revolutionary and Napo-
+vi / Acknowledgments
+Iconic armies. Back in Manchester I have benefited from the comparative
+insights shed by various of my colleagues in Modern History, and have been
+fortunate in the succession of research students—Godfrey Rogers, Simon Reeve,
+Martin Stocker, Piers Willson, and Jon Skinner—with whom I have had the
+opportunity to work. Historical research is in so many ways a collaborative
+enterprise, and their contribution to the writing of this book has been
+considerable.
+On the publishing side, my warmest thanks are due to Nancy Lane and her
+colleagues at Oxford University Press in New York who have seen the English
+version of this book through the press.
+Three final words of thanks are due. To Richard Cobb, for ideas and inspiration over two decades of research in Revolutionary history: the very subject
+matter of this book owes much to his influence and to his unwavering belief that
+history belongs as much to those who suffer from it as to the politicians and
+policy-makers. To Mireille Marchant, whose kindness, hospitality and unfailing
+cheerfulness have been a source of support on repeated visits to Paris. And, most
+of all, to my wife, Rosemary Morris, who must rather too often have felt herself
+the victim of desertion and insoumission during the ingestion period of the present work.
+Preface
+THIS BOOK is not about military history, at least not in the conventional sense of
+that term. Rather it is an examination of the varied responses to the massive
+militarization that France underwent in the revolutionary and Napoleonic
+years—responses that divided Frenchmen against Frenchmen and often created
+conflict between local communities and the ambitions of the centralist state. The
+scale of that militarization had no precedent in France's previous history; nor
+was there to be anything remotely comparable during the remainder of the nineteenth century, when the numbers forcibly recruited for the armies remained
+generally modest and when disaffection was in consequence contained. Between
+1791 and 1814 the government's appetite for recruits seemed insatiable, especially in the last years of the Empire when no sacrifice seemed too great in the
+quest for military glory. In all some two to three million men were incorporated
+into the revolutionary and Napoleonic battalions, many of them against their
+will and without regard to the long-established traditions of their local communities. With the introduction of annual conscriptions under the Loi Jourdan
+in Year VI, the draft became for nineteen- and twenty-year-old peasant boys a
+part of the routine of growing up, a sort of rite de passage that marked their
+adolescence. For many the routine quality of conscription was to end their resistance and guarantee their smooth incorporation in the ranks. For others,
+however, it merely added to the difficulties they incurred in avoiding the recruiting-sergeant and remaining with their families in their native villages. Their
+resentment directed against the army, the Emperor, or the village mayor was to
+remain a fact of political life throughout the long years of war.
+This resentment was demonstrated in a number of different ways, but especially in consistently high rates of desertion and in the deliberate and stubborn
+avoidance of service by hundreds of thousands of young men for whom the military lifestyle held few charms. This book is about these unwilling soldiers and
+the lengths to which they were forced to go to escape the clutches of their regiments. It is also about the many side-effects of their defiance—their impact on
+viii / Preface
+the military and the morale of the armies, on political opinion at home, the
+social fabric of local villages, and the Napoleonic dream of bringing about a
+coherent and centralist state. The arrival on French soil of a whole army of fugitives could only add to the problem of crime and lawlessness and threaten the
+judicial order on which the government was so dependent. Their presence in
+villages where royalists and chouans were actively recruiting for their counterrevolutionary crusades necessarily added further strains to political loyalties.
+More generally, the fact that thousands of young men were in hiding in or near
+to their native communities supplied so many others with an immediate problem of conscience and of loyalty—parents and younger brothers, their peergroup in the community, local farmers in desperate need of casual labor, mayors
+and other officials who were charged with law enforcement in the countryside.
+Indirectly as well as directly, the refractory conscript soon threw down a formidable challenge to the pretensions of the state.
+The state responded increasingly by turning the full panoply of its powers
+against deserters and insoumis and the communities that offered them protection. Policing was increased; garrisons were imposed on the homes of anyone
+suspected of harboring fugitives; fines were levied on entire villages in an
+attempt to break local loyalties; and mobile columns of soldiers swept across the
+countryside in a search for the young and able-bodied. Over conscription, as
+over no other single issue, the interests of the state and the local community
+were seen to come into open conflict, and the state had no other recourse but to
+repression. Ordinary Frenchmen were increasingly forced to face up to their
+responsibilities and to take sides in a conflict of loyalties that pitted the interests
+of the nation against those of the community. Desertion, in other words, soon
+ceased to be solely or even primarily a military issue, and it is its wider ramifications that are the principal concern of this study. The conscriptions of the
+Imperial years were imposed with increasing success on a demoralized population, but the cost—in ill-will, resentment, and covert defiance—was there for all
+to see. The demands of the state were not accepted without protest, and the
+military demands were those that were most sullenly contested. For conscription
+threatened the rural economy, the integrity of the family, the traditional autarchy of the village. It created an open clash between the archaic and the modern,
+and though in the long term the modern undoubtedly triumphed, in the short
+term it antagonized public opinion and put the governability of the state at risk.
+In a recent article the American historian Isser Woloch depicts conscription as
+a battleground between "individual and local communities on the one hand and
+a distant impersonal state on the other," and he calls for a substantial examination of the problem to throw light on the essential nature of the Napoleonic
+regime and its relationship with those it administered. (1) This gap in current
+historiography seems a serious one, and one that is as puzzling for the revolutionary period as for the Empire. It is hoped that this text will provide an answer.
+Manchester, U.K. A. F.
+October 1988
+Contents
+1 The Problem and Its Context 3
+2 The Weight of Military Recruitment 20
+3 The Extent of Evasion 43
+4 The Roots of Resistance 74
+5 The Deserter and Civilian Society 98
+6 Desertion and Criminality 118
+7 Desertion and Counterrevolution 146
+8 Desertion and the French Armies 169
+9 The Build-up of State Repression 187
+10 Desertion, the State, and the People 219
+Notes 239
+Bibliography 279
+Index 291
+This page intentionally left blank

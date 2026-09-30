@@ -1,0 +1,29 @@
+
+
+“‘To Copenhagen a Fleet’: The British Pre-emptive Seizure of the Danish-Norwegian Navy,1807”, *International Journal of Naval History* 7(2),August2008。https://www.ijnhonline.org/wp-content/uploads/2012/01/Bjerg.pdf ；`71106f9334bc.md`。实际读开头及L264–301转引Gambier1807-09-05信：若丹方不毁船，“it will require the whole of the force now with me to equip and navigate them to England”。这是Bjerg转引原信，说明俘获配员和拒敌使用两种收益，非本卡亲阅Gambier档案。英语成文但提供丹麦视角。
+
+舰材十二条逐字摘录和用途限制均在`sources/stores/B3_stores_evidence.md`；主报告采用其内容而非只列文件。
+
+## 5. RMG：制度、劳工与技术的博物馆公开说明
+
+- **RMG-A** Research guide B6: Royal Navy administrative records：https://www.rmg.co.uk/collections/research-guides/research-guide-b6-royal-navy-administrative-records ；`775d373548f6.md` L165–230。Admiralty是分权体系部分、Navy Board1832并入、给养独立；ADM180 Progress Books在1800左右有合并/省略。不把指南指向的ADM/A、ADM/B原件当已阅。
+- **RMG-I** Research guide M2: Press gangs and impressment：https://www.rmg.co.uk/collections/research-guides/research-guide-m2-press-gangs-impressment ；`1b22dbe49e2a.md` L160–170。原句“After1815,though not abolished,it was not used.”；“Only seamen should have been pressed,but ... all types of men were drawn in.”目录中的错征／保护证仅线索。
+- **RMG-M** Research guide B8: Spithead and Nore mutinies1797：https://www.rmg.co.uk/collections/research-guides/research-guide-b8-spithead-nore-mutinies-1797 ；`2d8d72a79507.md` L157–165。Spithead16艘拒航、工资待遇诉求与让步；Nore更广要求及镇压。不是“亲法革命已蔓延全海军”的证据。
+- **RMG-S** SLR0709, HMS Lightning模型说明：https://www.rmg.co.uk/collections/objects/rmgc-object-66670 ；`453f975faa96.md`。正文1823下水木质明轮炮艇、测量用途；馆藏模型约1979制作，不是1823实物；Vessels元数据1829与正文日期冲突。本卡采用正文并明记此差异，不据同名Comet搜索补造1822史实。
+- **RMG-R** PAH0923,Rattler and Alecto牵引试验版画：https://www.rmg.co.uk/collections/objects/rmgc-object-140870 ；`b71a637044ed.md`。完整实体说明已读：题名载1845-04-03、螺旋桨与明轮、Rattler拖动Alecto；版画不是受控实验报告，不用它估效率或证明舰队全面蒸汽化。
+
+## 6. 两种非英语文本（均法语；不伪称两门语言）
+
+**FR1** Michèle Battesti,«Napoléon et la “descente” en Angleterre.1re partie:Les multiples projets de1778 à1803»,Fondation Napoléon,napoleon.org。https://www.napoleon.org/histoire-des-2-empires/articles/napoleon-et-la-descente-en-angleterre-1re-partie-les-multiples-projets-de-1778-a-1803/ ；`326b19e197a6.md`。阅读主体有关布洛涅、潮汐、英国反小艇和主力封锁的段落；对其“上岸无人可挡”断言不照收。涉及拿破仑／梅特涅1810回忆、圣赫勒拿等**回溯性转引**，未作为1803意图的硬证据。
+
+**FR2** Napoléon致Eugène,31 juillet1811（Saint-Cloud），Robert Ouvrard站网页书信转录：https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1811/ ；`6864746209f3.md` L1348–1360。原句：“Si les deux vaisseaux restent à Malamocco sans pouvoir sortir ... [équipages] ... s'exercera”；末句“l'année prochaine les Anglais ... tiendraient des vaisseaux de guerre dans l'Adriatique”。信件证明轮训命令和英方响应预期，不证明命令全执行。原编书信号未在此网页核定，不补造。
+
+语言限制：满足两种非英语材料而非两门非英语语言；俄／瑞／丹的采购者声音主要经英语研究、丹麦作者英语文章转入，印度船工直接声音不足。此偏差限制对供应商能动性和劳动政治的精细裁定，不把他们视为被动资源。
+
+## 7. 跨卡接口与上一轮复用
+
+- **F3接口**：`nodes/r_5b1357a9c6/cards/t_b1a536/F3_capacity.csv`、`F3_model_parameters.json`、`F3_model_keypoints.md`。实际读取生成端点与参数，1830 W A12=84/I73、P A12=111/I61。全部model_not_observation，未把F3传来的Todorov/森林研究片段冒称本卡原文独立核验。P4应以最终同口径版本为准。
+- **B2接口**：t_044211的£18–22m海军高档意见及1815-06-14引文线索；后者本卡已亲读H15。B2报告1811-05-20海军预算£20,276,144与FB差£454,144；只列跨卡冲突警告，未称本卡逐分项核定。主笔未获得国家总账对本卡全部端点的最终验收。
+- **B1接口**：伦敦陷落后的条件续战，与B1的1–3个月有条件议和／法军被孤立则续战窗口兼容；本卡不擅定内阁必降。地方基地不是1803撤移实令。
+- 旧C2 `nodes/r_b55f2c1cf5/cards/t_104134/c2_naval_econ_data.md`与naval CSV/影图，复用经核观察，**旧英国1806–15全NA已作废**。
+- 旧C3 `nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_naval_race_model.md`仅复用分层存量—流量逻辑；其“不足以定追平年”不是本轮终局。本卡没有继承旧代码作为已拟合动态模型。

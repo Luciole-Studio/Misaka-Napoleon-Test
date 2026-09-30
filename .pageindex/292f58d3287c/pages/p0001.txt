@@ -1,0 +1,50 @@
+{
+  "source_and_gap_rows": 116,
+  "explicit_gap_rows": 13,
+  "source_status_counts": {
+    "reported_count_or_rate": 24,
+    "reported_memorandum": 1,
+    "historical_estimate": 1,
+    "reported_count": 30,
+    "reported_count_conflict": 5,
+    "reported_plan": 3,
+    "rhetorical_ceiling_not_observation": 1,
+    "derived_sum_406plus262": 1,
+    "reported_rate": 5,
+    "reported_approximate_rate": 1,
+    "reported_strict_upper_bound": 1,
+    "reported_mean": 3,
+    "budget_projection": 10,
+    "budget_upper_projection": 1,
+    "reported_cost_estimate": 3,
+    "contemporary_estimate": 1,
+    "published_summary_not_microdata": 8,
+    "published_observation": 1,
+    "published_counterfactual_conflict": 3,
+    "not_obtained": 13
+  },
+  "published_estimates": 8,
+  "calculation_rows": 46,
+  "model_rows": 3840,
+  "statistical_regressions_run": 0,
+  "statistical_leave_one_predictions_run": 0,
+  "microdata_downloaded": false,
+  "checks": "PASSED: structural/arithmetic only; not causal or documentary validation",
+  "crossing_envelopes": {
+    "L": {
+      "earliest": 3,
+      "latest_if_crosses_by20": 7,
+      "some_do_not_cross_by20": true
+    },
+    "M": {
+      "earliest": 5,
+      "latest_if_crosses_by20": 12,
+      "some_do_not_cross_by20": true
+    },
+    "H": {
+      "earliest": null,
+      "latest_if_crosses_by20": null,
+      "some_do_not_cross_by20": true
+    }
+  }
+}

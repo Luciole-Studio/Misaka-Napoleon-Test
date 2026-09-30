@@ -1,0 +1,28 @@
+---
+source_url: "https://histoire-de-la-douane.org/la-grande-douane-imperiale/"
+final_url: "https://histoire-de-la-douane.org/la-grande-douane-imperiale/"
+provider: "exa"
+text_sha256: "579dfac87f37a6e2281fea9591236c53e39d24ae0aeccb5cf390a292cb7014be"
+title: "La grande douane imp\u00e9riale \u2013 Association pour l\u2019Histoire de l\u2019Administration des Douanes"
+content_kind: "page_text"
+---
+
+-- window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-113731931-1'); -- La grande douane impériale – Association pour l’Histoire de l’Administration des Douanes
+
+# La grande douane impériale
+
+À la une/ IV - Histoire contemporaine/ La douane au cours des siècles
+
+Grâce à l’aimable autorisation de l’auteur, Raphaël Schneider, nous reproduisons ci-dessous un extrait du chapitre de son ouvrage ” La douane française au combat ” (2020) consacré à la douane du temps de L’Empire sous le titre “La grande douane impériale”.
+
+L’équipe de rédaction
+
+---
+
+La période du Premier Empire est en effet une sorte d’apogée pour la douane française , tant dans ses effectifs, l’immensité de son terrain d’action, l’étendue de ses pouvoirs que pour l’action primordiale qu’elle tient dans la politique de l’Empereur. De 12 500 hommes en 1801, les effectifs atteindront 35 500 douaniers en 1812! Ce sont principalement d’anciens soldats et des éléments recrutés sur place, pas toujours recommandables mais terriblement efficaces dans la sourde guerre contre la contrebande.
+
+Au début de cette époque, à l’instar de toute l’administration française, la Régie est réorganisée et tout est remis en ordre. Un arrêté du 14 février 1800 fixe enfin la tenue d’uniforme du service de la surveillance, avec le fameux habit vert qui accompagnera pendant quelques décennies les préposés, et qui contribue encore à conférer aux gabelous un statut paramilitaire. Fait primordial, Bonaparte décide de concentrer l’autorité entre les mains d’un seul directeur général, assisté d’un conseil d’administration. Le Premier Empire en comprendra deux, le comte Jean-Baptiste Collin de Sussy et François Ferrier.
+
+L’accroissement exponentiel de l’Empire français avec ses 130 départements, la mise en place de royaumes vassaux et la politique de rigueur issue du Blocus continental demandent à la douane un important effort d’adaptation, de recrutement et de translation des lignes, avec pour corollaire une lutte accrue contre une contrebande qui atteindra de proportions inimaginables , mettant en jeu des sommes immenses, faisant vivre des dizaines de milliers de personnes à travers toute l’Europe et emportant Napoléon dans une politique annexionniste qui emmènera la chute finale.
+
+Après les implantations dans des régions de plus en plus lointaines, de Dantzig à Rome, de Barcelone à l’Illyrie, les préposés doivent faire face à partir de 1813 à la menace des armées coalisées et se transforment de plus en pus souvent en soldats. Reculant en combattant, les agents de la douane se retrouvent dans les rangs de l’armée régulière, participant aussi bien à des batailles en rase campagne qu’aux nombreux sièges émaillant la fin de l’aventure du « Petit Caporal ». De Hambourg à Belfort, en passant par Thionville, Huningue ou encore Briançon, ils font preuve de courage et de professionnalisme, recevant félicitations et remerciements de la part de leurs généraux. Des bords de l’Elbe aux rives du Tibre, les douaniers servent aux côtés des corps de troupe, forgeant durant ces combats leurs premières traditions d’honneur.

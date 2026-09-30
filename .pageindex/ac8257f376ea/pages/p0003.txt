@@ -1,0 +1,31 @@
+
+
+## 6. ⑤撷取与动员上限
+
+【锚点】1802年8月共和国征兵法：年征20–25岁数千人、役期4年、可雇替身；农村承担大头，抵制动机是保卫经济基础与传统生活方式而非民族情绪（Grab p.162）。
+【锚点】**1802–1814共征155,000人；1812年常备军达70,000**（Grab p.162，注16即其JMH 1995研究谱系）；意军战于西班牙、德意志、俄国；**1812俄役：王国派27,000人，仅约1,000人生还**（Grab p.171 n.34）。
+【锚点】崩溃点实证一（1809）：威尼托起义（奥军入侵背景+"desire to restore the Republic of Venice"+城乡敌意，数千农民威胁Vicenza/Treviso，1809年末才平）；艾米利亚-罗马涅**反磨坊税大起义**（盗匪与逃兵领导、毁政府文书、一度威胁博洛尼亚；镇压后"Prina decided to revoke the milling tax"）（Grab p.164）。
+【锚点】崩溃点反证（1813–14）：俄役全灭+国库虚空+新征兵之下，**"the Kingdom's administration continued to stand behind Eugène and resisted the Austrians until the very end"**（Grab p.172）——机器韧性＞社会容忍；崩的是社会与王朝纽带，不是行政。
+【能力上限计算（推演，中置信）】
+- 年均征兵：155,000/12年≈12,900/年≈人口的1.9‰（以670万计）——低于法国本土常态（F2卡：法国0.2%年征参数）；**1813年surge**（重建5万军，it.wiki转引Giuntella）证明危机年可达3–4‰但以1809式起义风险为代价。
+- 累计动员上限（S2/S5和平）：年征1.5–2.2‰（1.0–1.5万/年）可长期维持而不触发系统性抵抗（锚点：1802–08合规实绩）；**>3‰连续两年+间接税同步加档=1809复现阈值**（锚点：1809两起义的触发组合）。
+- 常备军上限：和平财政下45,000–55,000（军费占预算35%内），战时surge 70,000–90,000维持≤3年（1812实证70,000+驻外损耗）。
+【机制】征兵机器的国家建构外部性："The conscription system enabled state officials to move into remote areas and compel citizens to acknowledge the State"（Grab p.162）——汲取本身就是渗透。
+
+## 7. ⑥军事（陆军+海军）
+
+【锚点】陆军实绩：1805–09两次对奥战争（1809欧仁Sacile败→Raab/Wagram胜）；西班牙远征军（意大利师）；1812俄役IV军（欧仁指挥意/法/巴伐利亚部队）27,000→约1,000（Grab p.171；行military细节另见it.wiki转引层`notes_dbi_biografie_1814.md`§3）。〔权重记忆·待核〕赴西班牙意军累计约3万（Pino/Lechi师），生还率约三分之一——本轮未直核，供P6用时须先核Schneid或Della Peruta。
+【锚点】军役的民族生成效应："Military service also inspired national consciousness…under an Italian banner…begin thinking of themselves as part of the Italian nation"（Grab p.162）。
+【锚点】1813–14战役：欧仁5月18日抵米兰重建军队约5万；Villach/Feistritz初胜→莱比锡后退阿迪杰线（11月6日）→**1814-02-08 Mincio会战胜Bellegarde**；1814年1月拿破仑令弃意回法未从；Murat 1814年1月倒戈后欧仁两面受敌仍守Mincio线（it.wiki/es.wikiital转引Giuntella DBI；三级来源）。
+【锚点】海军（威尼斯翼）：威尼斯船厂1810–12下水5艘战列舰——Rivoli(74, 1810-09-06)、Mont Saint-Bernard(74/80, 1811-06-09)、Rigeneratore(74, 1811-07-07)、Castiglione(74, 1812-08-02)、Real Italiano(74, 1812-08-15)（F3卡逐舰表`nodes/r_5b1357a9c6/cards/t_b1a536/yards_launches_1807_1813.csv` L47–51，上游threedecks.org转Ilari《La Marina Italiana di Napoleone》，网络二级来源；法/意船籍归属未解，F3已标）；1811-07-31拿破仑令调600水手赴威尼斯配员（F3 notes_core.md L48引`downloads/pages/6864746209f3.md`）。
+【机制】亚得里亚海军=陆权国家的"内海孵化器"：威尼斯厂+达尔马提亚/威尼托水手+科孚前哨，在英国主力舰队难以常驻亚得里亚的地理下可积累训练与船体（适用条件：科孚-安科纳航线保持、木材经Cadore/克罗地亚通道；F3木材约束表）。
+【推演（中）】S2/S5下威尼斯厂稳态产能1.5–2艘战列/年（锚点：1810–12实绩5艘/3年；机制：F3七厂50艘帝国下水表中的威尼斯份额），30年代王国海军可达12–18战列——足以与奥地利争亚得里亚制海、不足以独立面对皇家海军分舰队（接P4口径，禁与英国burthen吨直比）。
+
+## 8. ⑦社会结构与阶层
+
+【锚点】显贵联盟（amalgame）：贵族+富裕资产阶级；地主为核心，商业/专业/教育阶层参与；国家以高位任命、教产购买合法化、产权保障、秩序供给来交换支持（Grab p.157）。52省长=30贵族+22资产阶级（Grab p.160）。
+【锚点】受损者：下层承受征兵+间接税+农业商品化；部分旧贵族因特权丧失、税负、教会受击而冷淡或敌对（Grab pp.157, 164）。
+【锚点】犹太人：约3万（半数在罗马）；隔都拆除、平权、购地、入公校与国民卫队、任公职（Grab p.163）。
+【锚点】米兰精英的三派终局形态（1814实证）：亲奥派参议员/"Pure Italians"（要意大利统治者下的独立国）/欧仁派——**Prina私刑由"以旧贵族为主、意在使欧仁候选破产者"刻意煽动**（DBI Prina："abilmente alimentato da quanti – in prevalenza ex nobili – miravano a far naufragare la candidatura di Eugenio"）；Confalonieri为4月20日暴动主谋之一（it.wiki转引）。
+【机制】精英合流的价格表：产权（教产买家）+官职（本地垄断）+荣衔（铁冠骑士团等）+都城租金（米兰首都地位）。任何分支若同时抽走两项以上→合流解体（1814实证：王冠悬置+败战抽走官职预期与都城租金→旧贵族反水）。
+【推演（分支敏感，见§15）】。

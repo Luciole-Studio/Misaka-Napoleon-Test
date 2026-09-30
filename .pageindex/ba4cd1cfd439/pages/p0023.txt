@@ -1,0 +1,27 @@
+
+
+State
+
+Quantity unit
+
+Value in Bavarian. Schaeffel
+
+Monetary unit
+
+Value in 
+Bavarian. 
+Gulden 
+Baden Malter 0.67 Gulden 1.00 
+Brunswick Himten 0.14 Thaler 1.75 
+Frankfurt Malter 0.51 Gulden 1.00 
+Hamburg Fass 0.24 Mark Banco 0.88 
+Hanover Himten 0.14 Thaler 1.75 
+Hesse-Darmstadt Malter 0.57 Gulden 1.00 
+Hesse-Cassel Schaeffel 0.36 Gulden 1.00 
+Prussia Schaeffel 0.24 Thaler 1.75 
+Saxony Schaeffel 0.46 Thaler 1.75 
+Wurttemberg Schaeffel 0.80 Gulden 1.00 
+
+Zollverein Membership A list with the dates of when states joined the Zollverein LV JLYHQ LQ 'XPNH SS ± 7KH FXVWRPV OLEHUDOL]DWLRQ YDULDEOH CustLib is constructed using the historical maps at IEG (2013); CustLibjkt is equal to 1 if in year t there was at least one customs border between cities j and k, and 0 otherwise. Railway Cost Based on the capacity of a steam locomotive to haul freight as func tion of terrain (Nicolls 1878) we construct a cost function, and use a 90 meter × 90 meter GIS map of the relevant area in central Europe and the ArcGIS least-cost distance module to compute the least-cost routes, as well as the associated costs of those routes, from each city to all other cities in the sample. The railway variable in Table 2 is the UDLOZD\ FRVW DV GH¿QHG LQ WKH SDSHU GLYLGHG E\ WKH ELODWHUDO JHRJUDSKLF GLVWDQFH $OO geographic distances in this paper use the Haversine formula. See Keller and Shiue (2013) for more details. French Occupation Length of the French occupation during revolutionary and Napoleonic times, source Acemoglu et al. (2011). Border-to-Area log of average of border length to state area. Source: von Viebahn (1858, p. 520) and Dumke (1976, p. 97). Mean –0.60, standard deviation 0.76. Population log of the average population of cities j and k in the year 1800. Source: Bairoch, Batou, and Chevre (1988), De Vries (1984), and estimates of Keller and Shiue (2013). Mean 2.90, standard deviation 0.92. Protestantism Average of the share of Protestants in the states where cities j and k are located, in the year 1858. Source: Georg von Viebahn (1862, p. 337). Mean 65.05, standard deviation 17.87.
+
+Latitude Maximum of latitude of citiesj and k, from www.maporama.com, accessed November 2008. Mean 52.43, standard deviation 1.37. Longitude Maximum of longitude cities j and k, from www.maporama.com, accessed November 2008. Mean 11.55, standard deviation 1.16. Shipping NS Equal to 1 if for both cities j and k all rivers through the states in which j and k are located empty either in the North Sea or Baltic Sea, and 0 otherwise. 7KHWKLUGDOWHUQDWLYHLVULYHUVÀRZLQJLQWRWKH'DQXEHDQGWKHQWKH%ODFN6HD 6RXUFH Computed from information in von Viebahn (1858, p. 256). Mean 0.16, standard devia tion 0.37 Coast This variable is equal to one if both cities j and k have a distance to the nearest coast that puts them into the lowest quartile in the sample. Source: Latitude and longitude information of the cities and the closest points on a coast relative to them, in terms of direct geographic distance (using the Haversine formula). Mean 0.04, standard deviation 0.20.

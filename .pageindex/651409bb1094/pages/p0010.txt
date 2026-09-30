@@ -1,0 +1,35 @@
+
+
+### KF/KC｜英国议会公共历史页
+- KF “The 1833 Factory Act”：https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/；`downloads/pages/98f3132e9a36.md`，正文全读。
+- 关键原文：a small, four-man “inspectorate of factories”；4,000 mills；“widely evaded”。用于正式规制/执行落差，不当1833原法条亲阅。
+- KC “The Chartist movement”：https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/overview/chartistmovement/；`downloads/pages/cd205de92b28.md`，正文全读。
+- 1832财产门槛、1838六点宪章、1839/42/48请愿；1848“the anticipated unrest did not happen”。不把申请者声称签名数当认证人数。两者是后世机构概述，不是独立原始调查。
+
+## 复用、发现但未承重的材料
+
+- 旧卡`t_f81a6f`的`c15_continental_economy.md`、`growth_debate.md`、`money_infrastructure.md`、`SOURCES.md`和`t_95ef51`的财政/信用定位用于发现；主报告相关H/P11/O已重读。旧模型、未识别结论、未经阅读的引文不继承。
+- B2 BoE源资产及协调台账告知财政和海军口径，本文未复制其模型数字做独立实证。B1/B4国家安全与战争成本机制为接口，不以其卡名当书目来源。
+- Neil Simpson, *Informal Empire*附录，`downloads/pages/2117b6d948bd.md`，三级转引Rory Miller1993←Davis1979，本卡读到但未作最终表来源；用于找到Davis口径，不能与D41计双重互证。
+- Jacks/O’Rourke/Taylor/Yotov, *Distance, Empire, and British Exports Over Two Centuries*，NBER27904，实得July2026修订稿，`downloads/pages/2e0619dd75ba.md`，仅摘要/数据说明；十年间隔不填本卡年度空值。
+- Crouzet1964 “Wars, Blockade, and Economic Change in Europe, 1792–1815”，*JEH*24(4), pp567–588，DOI10.1017/S0022050700061271，未得全文，只经O转引。Crouzet专著Anna查询不完整而无精确命中，不能说文献不存在。
+- Gayer–Rostow–Schwartz、E.P.Thompson原书、Bairoch、Malm、John V.Orth、Baines等为检索线索或二手作者引书，未在本卡作为亲阅来源使用；不把搜索摘要数据填表。
+
+## 独立性与缺口
+
+1. H、P11/P12、D40/D41及M多源于英国海关/议会传统，互证可查传抄，不能按书本数量增加统计样本数。
+2. N/J引用有重合，地方司法来源又经官方筛选；原始工人沉默和地下组织漏报可能同时存在。
+3. BR属于葡萄牙—巴西独立文书谱系；其说明政策选择，不证明英国实际订单与现金回流。
+4. O/CE为重建与模型，假设不同于观测；C为强反论的书评入口而非替代原书。
+5. 真正会收紧区间的缺口：纯拉美本产年度净实现、商号应收/坏账/设备投资、地区工时就业、美国/葡西主动选择和法国长期封锁执行成本。现交付不伪造这些输入。
+
+## 复现产物
+
+- `B5_annual_exports_1803_1815.csv`：官方总货物年度表，原/校订列并存，1813缺。
+- `B5_exports_declared_1805_1811.csv`：H逐图转录本产/转口；舍入差保留。
+- `B5_market_benchmarks.csv`：D41地区均值，地区求和核验。
+- `B5_industry_wages_1803_1848.csv`：I/W重定指数与人口尺。
+- `B5_replacement_diagnostics.csv`、`B5_checks.json`：代理比率及检查，不当严格现金检验。
+- `B5_scenario_parameters.json`、`B5_market_scenarios.csv`、`B5_growth_paths.csv`：公开假设与全部端点。
+- `B5_export_substitution.md`：人读表；`build_B5_tables.py`可重建。
+- `B5_data_metadata.json`、`B5_provenance_audit.json`、`B5_boe_manifest.json`：口径与SHA。审计只查字段，不授予来源为真。

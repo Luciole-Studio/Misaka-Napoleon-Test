@@ -1,0 +1,38 @@
+
+
+### ⑦ 社会结构与阶层（决策层视角；深度→R2）
+
+- Savary对拿破仑之问（"是否存在离王座更远、离人民更近的另一个社会？"）的回答：除商人群体外无中间阶级，"贵族直接压在人民之上"（Vandal I行5227–5238，注185）【锚点】。
+- 贵族财富尺度："赠三千农奴如同赠一枚戒指"（Vandal I行5581注198）【锚点】。
+- 【机制】社会结构对法国的战略含义：(a) 无可供"解放"动员的市民阶层；(b) 农奴解放牌拿破仑自己在1812-12-20公开承认拒打（"je me suis refusé à cette mesure"——《Œuvres》V，上一轮P4已核，公开自辩、其"许多村庄请求"无独立证实）【锚点】；(c) 俄国精英的凝聚点是宫廷而非省份——征服者无法各个击破地方精英【推演·中高】。
+
+### ⑧ 社会运动与抵抗传统
+
+- 精英层：宫廷政变传统（1725、1741、1762、1801）——四次成功政变全部由近卫军贵族执行；1801年细节见①。【机制】它约束的是**沙皇本人的政策自由度**，而非可被外国收买的工具：无一次政变由外国策动成功。
+- 民众层：Pugachev记忆（1773–75）使贵族与王座在"武装平民"问题上利益一致；1812年的农民抵抗与自发武装最终被吸纳进"人民战争"叙事——它证明外敌入侵会**弥合**而非撕裂俄国的阶级裂缝（1812实测）【锚点：1812事件通识＋Clausewitz 1843英译pp.256–259论民力上限，上一轮M2已核】。
+- 【推演·高】对B7各版本的含义：任何深入俄境的法军都将同时面对正规军保存战略＋焦土＋民众敌意三层，而"农奴起义杠杆"无操作档案支撑。
+
+### ⑨ 思潮、宗教、民族意识、舆论传播
+
+- **沙龙=俄国的议会**。1807年提尔西特后：贵妇最敌对（"Françaises d'autrefois"——旧法国的法语文化人反对革命法国）；Savary遭全城回拜抵制一个半月；书店卖流亡文学反法小册（Vandal I行5100–5147）【锚点】。1812年3月主和派最后围攻："L'Empereur est assiégé de toutes parts"（Löwenhielm 04-05报告）【锚点：Vandal III行12770–12800】。
+- **教会与"敌基督"叙事**：1806年至圣治理会议曾宣拿破仑为基督教敌人以动员民兵（通识性事实，本卡未取得1806敕文原件——列为待补档）；1812年"卫国战争"的宗教化包装完成于战时文告（"Dieu est contre l'agresseur"日令，Vandal III行17395转引Bogdanovich I,113）【锚点】。
+- **外国思想供给者**：Joseph de Maistre（撒丁公使，1803–17在彼得堡）——Savary评"un homme d'esprit et un habitué de la maison de l'ambassadeur d'Autriche et de celui d'Angleterre"（Vandal I行5210）【锚点】；其名言"两人相斫的真实原因几乎从不是表面原因"被Vandal用作全书解释框架（Œuvres complètes XI,513；Vandal III行202–204）【锚点·转引】。Maistre对两位大公主的画像（"une colombe"；"我若是画家就寄给你她的一只眼睛"）出自其《Mémoires politiques et correspondance diplomatique》346/318（Vandal I行17110–17150转引）【锚点·转引】。
+- **1812年后的弥赛亚转向**：战火中的亚历山大转向圣经神秘主义（Krüdener男爵夫人影响，通说）；其制度化产物即1815-09-26神圣同盟（全文已核：`downloads/pages/fd9e8c2c044d.md`——三君主以"同一基督教民族的三个分支"自任"天意的代表"；英国拒签）【锚点】。此意识形态工具箱在S5情景下的改装见S5专节。
+- Karamzin《论古今俄罗斯》（1811，呈皇太后妹妹Catherine Pavlovna再达御前）代表旧贵族对Speransky改革的意识形态总攻【通识，原文未亲核，列为待补档；与Speransky倒台的沙龙背景互证】。
+
+### ⑩ 科技与生产力（→X3/R2）
+
+决策层相关的仅两点：(a) 军工（图拉兵工厂、乌拉尔铁）足以装备40万级常备军但更新缓慢（→R3核数）；(b) 精英技术观：Speransky派以法国行政技术为模板、失败于政治而非技术——俄国接受"技术法国化"的通道在1812年后关闭约一代人【推演·中】。
+
+### ⑪ 生态、人口与空间（→E1）
+
+- 人口约4,100–4,400万（1811–12帝国口径，通识区间，精确序列→E1/R2）。
+- **空间与气候被决策层自觉武器化**：亚历山大1811年5月告别宣言（⑥所引）明列空间、冬季、补给距离为战争资产；Czartoryski反向提醒"时间与距离也拖慢俄军自身集结"（1811-01复信；Hosking评Lieven同点）【锚点】。
+- 【机制】空间是双刃：对内使动员迟缓（集结需数月），对外使征服者的"决定性会战→政治屈服"公式失效（亚历山大明言普鲁士式崩溃不会重演——"L'empereur Napoléon a fait cette réflexion à Tchernitchef après Wagram..."同段）【锚点】。
+
+### ⑫ 交流与流动：王朝网络、流亡者、间谍
+
+- **王朝婚姻网**：符腾堡（皇太后母家）、巴登（皇后）、奥尔登堡（Catherine Pavlovna 1809年8月嫁Georg——此婚本身即为堵拿破仑求婚之门的先手【锚点：Vandal I ch.XII§V章目"Efforts de l'impératrice mère pour marier sa fille Catherine.--Le prince royal de Bavière, le duc d'Oldenbourg"】）、瑞典（旧盟）、普鲁士（1809年格奥尔格另一线；Charlotte 1817嫁尼古拉）→ 奥尔登堡吞并同时触动条约（提尔西特第12条）、王朝与皇太后党三根神经【锚点：Bogdanovich转引抗议照会，上一轮E5】。
+- **流亡者与国际主战网**：1812年Speransky倒台后，"沙皇更完全地交给了欧洲流亡圈"——Armfeldt（瑞典）、Stein（普鲁士，自布拉格赶来）、Löwenhielm（瑞典）、Paulucci与Serra-Capriola（意大利）、Vernègues（法国保王流亡者）；Armfeldt跨欧地下网通d'Antraigues、Dumouriez（后者献"斯基泰人抗大流士"方案）、西班牙Cortes使节获正式引见（Vandal III行13069–13160）【锚点】。法国流亡者d'Allonville以"纯军事技术论证"劝战（Vandal III注85）【锚点】。
+- **间谍**：Chernyshev在巴黎的十年渗透网（陆军部内线Michel案，1812年2月破获、Michel处死——Vandal III第九/十一章章目）【锚点·章目级】；对应地，法方在彼得堡的社交渗透（Naryshkina渠道，Vandal I行5262–5310）【锚点】。
+- **伦敦联结**：S. R. Vorontsov长驻伦敦（前大使，留居），其兄A. R. Vorontsov曾任首相——英派贵族的家族制度化；Savary报告直指"英国派"名单（Orlov、Novosiltsev、Kochubey、Stroganov——亚历山大亲口："C'est-à-dire tout le parti anglais"）（Vandal I行6597–6608）【锚点】。

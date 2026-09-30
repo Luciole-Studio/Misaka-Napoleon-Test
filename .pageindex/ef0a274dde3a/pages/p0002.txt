@@ -1,0 +1,135 @@
+Partial answers to these questions are organized as follows. Section 2 draws on new annual
+estimates of British net transfers from India to document the East India Company's continued ability
+to fulfil Dundas's principal goal beyond 1793. The largest transfers appear to have been made on
+Company account -- at first directly from India but increasingly in the form of China goods sent to
+London; but the new figures also point to a significant surge in private transfers in 1803-07 and to
+growing interaction among the Asian transfer channels involved. Section 3 further suggests that
+British total inflows from re-exports of Indian commodities alone most frequently doubled, and at
+times tripled, those arising from net India transfers including government flows. Section 4 builds on
+these and other findings to examine the place of India within the British commercial system; it will
+be suggested that British net inflows from India were relatively substantial and arguably the least
+dispensable. Section 5 draws on import and export values at constant prices of 1784 to show that
+British overall trade with Asia was more dynamicthan might appearfrom cursoryexamination of the
+available figures. It will be further suggested that the real constraints faced by private traders should
+7
+be weighed against the scale advantages and external economies rendered by the Company to a
+wider range of British interests.
+2. British net transfers from India, 1757-1812
+How large were British transfers from India between the battle of Plassey (1757) and the end
+of the East India Company's monopoly of Britain's direct trade with India (1813)? Partial answers to
+this question can be found in the extensive literature on the India "drain". Unfortunately the best
+available estimates are variously specified and cover different periods. Marshall's calculations were
+limited to private remittances to Britain from Bengal alone up to 1784.viii Furber focused on
+commodity and bullion flows, carefully distinguishing between the "drain" to Europe and British
+overall returns from involvement in India; but his detailed calculations were confined to the period
+1783-92.ix As noted in the Appendix, other "drain" estimates are far less specified and seemingly
+overlook a wealth of annual figures in the extant records. The analysis that follows rests on new
+annual series of British net transfers from India through five separate channels, on a consistent basis
+through 1762-1812.
+The mechanisms of transfer to Britain were well known to contemporaries and have been
+exhaustively studied. One such mechanism involved funds accumulated in Calcutta and elsewhere
+from the "country trade" between India, the Eastern Archipelago, and China: the English Company
+drew on these funds, against bills payable in London, to cover its own deficits in the Canton trade.x
+Victory at Plassey in 1757 opened an era of corruption and plunder by Companyofficials and British
+administrators that did not begin to be checked until the late 1780s.xi Some of the local fortunes
+were remitted to Britain in bullion and diamonds, but most unilateral transfers involved since 1765
+are thought to have been made in the form of Indian commodities purchased with Indian revenue. In
+8
+the 1760s, the Company's trade was explicitly organized to secure large surpluses of commodity
+imports into London over total exports of goods and bullion to India. To this end the Company
+remained free to benefit from coercion over Indian weavers, from barriers to entry of potential
+competitors in India,xii from local judicial control, and from monopoly or taxingpowersin saltpetre,
+rice, salt, cotton, raw silk, and opium.xiii The Company's ships also carried small "privilege" cargoes
+on the account of commanders and officers. Additional tonnage allotments in Company ships were
+granted in 1793 to independent private traders. Since 1798, British private interests were at times
+allowed to use Indian teak vessels.xiv Other local surpluses were channeled to Britain, at times with
+British encouragement, through foreign companies and neutral shipping also trading in India and
+China.
+The closest approximation to the concept of net India transfers in the balance of payments
+sense was succinctly formulated by Furber: "the only true drain resulting from contactwith the West
+was the excess of exports from India for which there was no equivalentimport".xv Furber'suse of the
+term "drain" in this context is debatable, but his unusually well specified calculations of commodity
+and bullion flows in 1783-92 can be replicated and arguably improved upon.
+Objections to Furber's procedure pivot around his reliance on invoice values of British
+exports and imports.xvi Such invoice valuations are not strictlycomparable with one anotherbecause
+they were made in distant locations under different market conditions. WhereasBritishexportswere
+invoiced in England, presumably at fair competitive cost, valuations of outward cargoes in India
+incorporate unfathomable bias owing to the English East India Company's ability to retain a degree
+of monopoly and monopsony power. Nor is it clear that Furber's approach for 1783-92 can be safely
+applied to the inflationary period 1793-1812, because the invoice values of British imports exclude
+substantial carrying costs to Britain at widely fluctuating rates of freight and insurance. Most
+9
+ominously, after 1790 the prime-cost data from which the invoice values were calculated were said
+to incorporate arbitrary adjustments by the Company's account Inspectors.xvii Other concerns over
+Furber's procedure turn out to be less worrisome. To be sure, the invoice values of British outward
+cargoes also exclude freight and insurance, merchants' profits, and the Company's "charges on
+merchandise" -- thus understating receipts from non-British subjects in India. Judging from the
+present calculations, however, British carrying costs on exports remained relatively small and the
+Company's export profits were most often negative.xviii
+[ Table 1 ]
+A plausible account of net transfers to Britain through various channels, excluding
+government flows, is outlined in Table 1. The net commoditytransfers on Company,"privilege",and
+private account in panels A, B, and C are here defined, following Furber and others, as British
+imports from India minus British exports of goods and bullion to India. To avoid reliance on the
+questionable invoice values and rates of exchange used by Furber, and on the British official trade
+statistics for "Asia", the adopted figures of imports and exports are those given in the Company's
+records. Since the Company's figures were valued in Britain at British market prices, they meet the
+conventional definitions of CIF import values (including cost, freight, and insurance) and FOB
+export values (free on board). For Table 1 the given trade figures at British ports have been adjusted
+to approximate the value of the goods in India, at the points of exchange with non-British residents.
+Thus the estimated British import values "FOB India" are meant to exclude, and the British export
+values "CIF India" to include, all payments by British nationals to the British Treasury, to British
+shippers and insurers, and to the English East India Company on account of "charges".The resulting
+net import values in panels A, B, and C should thus approximate net commodity transfers to Britain
+for balance of payments accounting. The same can be said of the additional returns from the inter-
+10
+Asian "country trade" in panel D, which are uncertainly proxied here with the value in Canton of
+those British imports of China goods that were not covered with British commodities and bullion.
+The rationale for this approach is that these British trade deficits were financed with surpluses
+accumulated by "country" merchants in India and with Indian goods directly exported to Canton by
+the Company. The additional transfers to Britain through foreign East India companies and neutral
+ships will be examined with some detail in connection with Table 2.
+It is argued in the Appendix that the new estimates of net commodity transfers to Britain in
+Company ships may be regarded as minimum estimates on the given sources. It is pertinent to add
+here that the British debits on Company bullion transfers to India in 1798-1805 are likely to be
+overstated. The average for 1803-07 in Table 1 incorporates, as a debit item, ,832 thousandper year
+(,4.16 million) recorded as "bullion" exports to India in the official source adopted here.xix But we
+also know that bullion worth ,4.2 million, sent to India by the Company Directors in 1803-05, was
+diverted by Wellesley for war purposes.xx We cannot discard the hypothesis that these sizeable
+remittances are not included in the officially recorded totals; but the presumption remains that little
+or no British bullion was used in this period for Company purchases of Indian commodities. Similar
+considerations apply to the period 1798-1800, when more than ,2.5 million worth of Company
+bullion exports were also spent on warfare.xxi In one of several efforts to underestimate total net
+transfers to Britain, the ,6.7 million in question have been debited twice: as Company bullion
+exports to India in Table 1, and as bullion transfers to India on government account in Table 3.
+With these qualifications, by far the largest transfers to BritaininTable1 appearto have been
+made on Company account -- at first directly from India but increasingly in the form of China goods
+sent to London. The British private trade also turned positive transfers from India at various times
+since 1793, but the one significant surge in 1803-07 was short lived. One limiting factor here
+11
+stemmed from the tonnage allotments granted to "privilege" and private traders in Company
+ships. These allotments were larger for exports than for imports and thus biased non-Company
+commodity flows against net imports from Asia. A second factor favoring higher export values and
+lower transfers to Britain is that "privilege" and private traders were keen to secure the largest
+possible returns for their British cargoes to finance their growing involvement in the prosperous
+inter-Asian "country trade". Certainly the Company's commanders and officers,who aloneenjoyeda
+share of the silver-hungry China trade in Company ships, had a known preference for low-volume,
+high-value goods including bullion in their export cargoes.xxii
+The new estimates in Table 1 also point to growing interaction among the Asian transfer
+channels involved. Through 1793-1807 private imports and net transfers from India into London
+grew by leaps and bounds, eventually at the Company's expense. This pattern was reversed in 1808-
+12 with the contraction of European markets for Indian commodities at the height of Napoleon's
+Continental System. At this time the Company regained its role as the principal transfer agent, and
+the inter-Asian "country" trade appears to have become the most profitable outlet for privatecapital.
+It will be noted in Section 5 that private traders may also have secured growing shares of China
+goods with the complicity of Company "servants". By reference to Table 1, it is perhaps significant
+that the first positive net transfers from China to London on "privilege" account in 1808-12
+coincided with a sharp rise in British private exports to India.
+[ Table 2 ]
+Foreigners participated in the carrying trade to Britain by taking advantage of untapped
+opportunities, conflicts among British decision makers, and lower transport costs. Estimates of
+transfers to Britain through various foreign channels are specified in Table 2. French and Dutch
+inroads had a long standing and prospered in the 1760s through private agreement with British
+12
+subjects in India, often at French initiative.xxiii The French and Dutch Companies, and the
+Spanish Philippine Company, received British official encouragement in the late 1780s through the

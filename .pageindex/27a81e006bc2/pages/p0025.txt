@@ -1,0 +1,53 @@
+0.25 ⇒ k = 2;.
+
+
+
+
+6     Results
+
+6.1   Monthly Data
+
+The monthly break dates are displayed in figure 5 and table 1 (table 8 in the appendix
+provides confidence intervals and parameter estimates). The events that coincide with
+the detected break dates are outlined below:
+
+
+
+
+      50%
+
+
+      40%
+
+
+      30%
+
+
+      20%
+
+
+      10%
+
+
+       0%
+
+
+      -10%
+          1795        1800        1805         1810        1815       1820
+
+
+
+
+            Figure 5: Break dates, monthly data, January 1795 to May 1823
+
+Solid lines mark the beginning and end of the gold standard’s suspension, February 1797
+and May 1821 respectively. Dashed lines highlight the detected break dates; the shaded
+areas represent the 95% asymmetric confidence intervals.
+
+
+
+    • January 1800: The winter of 1799 brought General Napoleon Bonaparte to power
+      as first Consul of France, a position granting him broad and unchecked authority.
+
+
+                                          23

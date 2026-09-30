@@ -1,0 +1,63 @@
+“available” as a staple food to the Old World. This date is in the late 1600s. Because our data are
+
+only observed at the century level, we take 1700 as the approximate treatment date.
+
+   Before taking this date as given, we first let the data "speak" by estimating a flexible equation
+
+that allows the effect of potatoes to vary for each century. This enables us to compare the timing of
+
+the effect observed in the data with the historical evidence before we impose greater structure on
+
+the data and estimate our main DD specification.
+
+
+C. Other New World Staple Crops
+
+After the discovery of the Americas, other New World crops, in addition to potatoes, were also
+
+introduced to the Old World. These include maize, tomatoes, chilli and bell peppers, cacao, and
+
+the sweet potato. Of these, the two crops that became high-caloric staples in the Old World are
+
+maize and the sweet potato.
+
+   Maize is unable to rival potatoes in terms of nutrients or calories. It produces significantly fewer
+
+calories per acre of land. Further, humans are unable to subsist on a diet that is too concentrated
+
+in maize. Significant consumption of maize is associated with Pellagra, which is a disease caused
+
+from niacin deficiency. The effects of Pellagra include skin disorders, digestion disorders, mental
+
+disorders, and eventually death. The disease was first observed in the 1730s in Italy and even
+
+today continues to affect poor populations with diets that rely too heavily on corn. A second
+
+adverse effect of a primarily corn diet is protein deficiency (Messer, 2000a). Given the negative
+
+effects associated with diets too heavily dependent on corn, one would not expect corn to have the
+
+same positive effects as potatoes.
+
+   Sweet potatoes are also nutritious and produce similar amounts of calories per acre of land as
+
+potatoes. But they differ from potatoes in two important ways. First, the archaeological evidence
+
+suggests that sweet potatoes, transported by Polynesians, reached the Old World long before the
+
+European discovery of the New World. For many countries in our sample, their impact would
+
+have been felt as early as 1000 AD (Hather and Kirch, 1991). Second, a close substitute to the sweet
+
+potato, the yam, already existed in the Old World (O’Brien, 2000). Yams are broadly similar to
+
+sweet potatoes both in terms of nutritional content and the requirements for cultivation. Many
+
+regions that were suitable for cultivating sweet potatoes had already cultivated yams when the
+
+former were introduced. Therefore, the sweet potatoes would not be expected to result in the same
+
+increase in agricultural productivity and caloric-availability as potatoes.
+
+
+                                                  10

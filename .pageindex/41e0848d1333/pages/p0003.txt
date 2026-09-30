@@ -1,0 +1,40 @@
+  L AW AND S OCIAL C APITAL : E VIDENCE FROM THE C ODE
+                 N APOLEON IN G ERMANY∗
+
+                                             Johannes C. Buggle†
+                                    Sciences Po, Department of Economics
+
+
+                                          First version: May 22, 2012
+                                            This version: July 2, 2013
+
+
+                                                       Abstract
+
+Do legal institutions affect norms of cooperation? Using the introduction of the Code Napoleon during
+the Napoleonic Wars in Germany as a historical experiment, I show that a positive shock to the quality
+of legal institutions can increase social-capital long-lastingly. I find that individuals living in regions
+where the Code Napoleon was used display higher levels of interpersonal trust in the data of the German
+Socio-Economic Panel (SOEP). This result holds true conditional on past development levels, as well
+as in a less heterogeneous border sample, separating regions that applied the Code Napoleon from those
+that did not. Artificially moving the border and comparing regional pre-treatment characteristics support
+the interpretation of a causal treatment effect. In addition, I show immediate effects of the Code Civil on
+novel measures of 19th century social capital. The analysis of historical employment data furthermore
+suggests economic cooperation to be a potential mechanism for the relationship between legal institutions
+and social capital.
+
+Keywords: Institutions, Long-Term Persistence, Social Capital.
+
+JEL-Classification: N43, O10, P48, Z10
+
+
+
+
+   ∗ I am grateful to Yann Algan for his ongoing support and encouragement. I thank Francesco Amodio, Davide Cantoni,
+
+Pauline Grosjean, Marc Sangnier, Andrei Shleifer, Guido Tabellini, Joachim Voth and seminar participants at the FRESH
+Meeting London, the UPF Reading Group on Persistence, the Spring Meeting for Young Economists 2013, and Sciences Po
+for very helpful comments and discussions at different stages of this project. Valuable research assistance was provided by
+Ferdinand Lutz and Malte Syman. I wish further to thank the DIW Berlin for making the SOEP data available, as well as the
+GESIS Leibniz Institute for Social Sciences. All errors remain my own.
+    † Contact: 28 Rue des Saints-Pères, 75007 Paris, e-mail: johannes.buggle@sciences-po.org.

@@ -1,0 +1,16 @@
+{
+  "doc_id": "edc195239053",
+  "title": "[t_7ee3b0] nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_thresholds.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_thresholds.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_b55f2c1cf5/cards/t_7ee3b0/c3_thresholds.csv"
+  ],
+  "sha256": "edc195239053feb545d78b1443e1f2b82cf234d98f9403ab7bbb725597aec704",
+  "pages": 1,
+  "task_id": "t_7ee3b0",
+  "task_ids": [
+    "t_7ee3b0"
+  ],
+  "added_at": 1789891260,
+  "office_format": "csv"
+}

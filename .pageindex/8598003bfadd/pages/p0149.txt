@@ -1,0 +1,221 @@
+
+
+Art.  11.  The  G.  C.  Orator  explains  the  symbols  of  the 
+order  to  the  new  member,  who  thanks  hhn  with  a  salu- 
+tation for  having  enlightened  him. 
+
+Art.  12.  The  bag  of  propositions'^  (sacco  di  proposizioni) 
+is  sent  round,  which  produces 
+
+Art.  13,  The  bag  of  the  poor  (sacco  de'  poveri)  is  sent 
+
+round  and  has  produced  the  sum  (medaglia)  of which 
+
+is  consigned  to  the  G.  C.  Almoner,  to  use  as  the  regulations 
+direct. 
+
+Art.  14.  The  G.  M.  regularly  demands  of  the  Ordoni  if 
+they  have  any  observations  to  make  on  the  general  good  of 
+the  order,  and  of  the  Vendita  in  particular — liberty  of 
+speech  is  granted. 
+
+Art.  15.  The  G.  M.  causes  a  salutation  of  ceremony  to 
+be  made  to  the  GG.  CC.  visitors,  these  thank  the  Ven- 
+dita, and  they  close  it  (la  cuoprono.'f') 
+
+Art.  l6.  The  G.  C.  Secretary  reads  over  the  notes  of  the 
+table  of  the  present  labours, — the  same  is  ratified  by  the 
+Vendita,  and  signed  by  the  Dignitaries,  according  to  cus- 
+tom. 
+
+Art.  17.  Our  forest  growing  dark  for  want  of  the  sun, 
+the  G.  M.  causes  the  labours  to  be  closed,  with  the  usual 
+signs,  salutations,  and   invocations   of  ceremony. 
+
+Done  and  read  the  day,  month,  and  year  as  above,  and 
+signed  by  us  Dignitaries.J 
+
+*  "  The  number,  quality,  and  contents  of  the  same  to  be  explained.  " 
+t  "  Chiudono." 
+
+X  Here  follow  the  signatures  of  the  G.  M.,  of  the  first  and  second  Assistants* 
+of  the  Orator  and  Secretary. 
+
+FINIS. 
+
+
+London :   Printed  by  C.  Roworth, 
+Bell-yard,  Temple-bai. 
+
+
+BINDING  SECT,       AUG  1  8  1977 
+
+
+PLEASE  DO  NOT  REMOVE 
+CARDS  OR  SLIPS  FROM  THIS  POCKET 
+
+UNIVERSITY  OF  TORONTO  LIBRARY 
+
+
+DG  Bertoldi 
+
+551  Memoirs  of  the  secret 
+
+B43  societies  of  the  south  of 
+
+Italy 
+
+
+7 
+
+
+-ri^iK- 
+
+
+~.ix: 
+
+
+i3:iaS^^&amp; 
+
+
+utrririi; 
+
+
+^fi^fi^^^:feil^ 
+
+
+</pre>        </div><!--/.container-->
+              </main>
+    </div><!--/#wrap-->
+
+    <!-- Timing ...
+     rendered on: www21.us.archive.org
+ seconds diff sec                                      message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000                                petabox start   petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:395:log
+  0.0066   0.0066                             redis_read start   petabox/www/sf/download.php:79:main_wrap
+                                             |download.php:98:main
+                                             |download.php:317:getItem
+                                             |common/Item.inc:78:parseMetadata
+                                             |Item.inc:138:get_obj
+                                             |Metadata.inc:613:_get_obj
+                                             |Metadata.inc:642:run_pipeline
+                                             |Metadata.inc:1697:read
+                                             |Metadata/AdapterPipeline.inc:288:_read
+                                             |AdapterPipeline.inc:324:pipeline
+                                             |AdapterPipeline.inc:466:fetch
+                                             |AdapterPipeline.inc:895:execute_pipeline
+                                             |RecordServer.inc:184:log
+  0.0094   0.0028                            redis_read finish   petabox/www/sf/download.php:79:main_wrap
+                                             |download.php:98:main
+                                             |download.php:317:getItem
+                                             |common/Item.inc:78:parseMetadata
+                                             |Item.inc:138:get_obj
+                                             |Metadata.inc:613:_get_obj
+                                             |Metadata.inc:642:run_pipeline
+                                             |Metadata.inc:1697:read
+                                             |Metadata/AdapterPipeline.inc:288:_read
+                                             |AdapterPipeline.inc:324:pipeline
+                                             |AdapterPipeline.inc:466:fetch
+                                             |AdapterPipeline.inc:895:execute_pipeline
+                                             |RecordServer.inc:193:log
+  0.7130   0.7036                             start db connect   petabox/www/sf/download.php:79:main_wrap
+                                             |download.php:98:main
+                                             |download.php:317:getItem
+                                             |common/Item.inc:78:parseMetadata
+                                             |Item.inc:138:get_obj
+                                             |Metadata.inc:613:_get_obj
+                                             |Metadata.inc:642:run_pipeline
+                                             |Metadata.inc:1697:read
+                                             |Metadata/AdapterPipeline.inc:288:_read
+                                             |AdapterPipeline.inc:324:pipeline
+                                             |AdapterPipeline.inc:578:pipeline_stage
+                                             |AdapterPipeline.inc:717:populate
+                                             |Adapter/SimpleListsAdapter.inc:60:get_memberships
+                                             |SimpleLists.inc:86:get_records
+                                             |SimpleLists/Storage.inc:39:q
+                                             |DB.inc:398:execute
+                                             |DB.inc:1142:query
+                                             |DB.inc:136:query0
+                                             |DB.inc:165:ping
+                                             |DB.inc:830:connect
+                                             |DB.inc:105:conn
+                                             |DB.inc:932:log
+  0.7235   0.0105                                       got db   petabox/www/sf/download.php:79:main_wrap
+                                             |download.php:98:main
+                                             |download.php:317:getItem
+                                             |common/Item.inc:78:parseMetadata
+                                             |Item.inc:138:get_obj
+                                             |Metadata.inc:613:_get_obj
+                                             |Metadata.inc:642:run_pipeline
+                                             |Metadata.inc:1697:read
+                                             |Metadata/AdapterPipeline.inc:288:_read
+                                             |AdapterPipeline.inc:324:pipeline
+                                             |AdapterPipeline.inc:578:pipeline_stage
+                                             |AdapterPipeline.inc:717:populate
+                                             |Adapter/SimpleListsAdapter.inc:60:get_memberships
+                                             |SimpleLists.inc:86:get_records
+                                             |SimpleLists/Storage.inc:39:q
+                                             |DB.inc:398:execute
+                                             |DB.inc:1142:query
+                                             |DB.inc:136:query0
+                                             |DB.inc:165:ping
+                                             |DB.inc:830:connect
+                                             |DB.inc:105:conn
+                                             |DB.inc:981:log
+  0.8416   0.1181                            redis_write start   petabox/www/sf/download.php:79:main_wrap
+                                             |download.php:98:main
+                                             |download.php:317:getItem
+                                             |common/Item.inc:78:parseMetadata
+                                             |Item.inc:138:get_obj
+                                             |Metadata.inc:613:_get_obj
+                                             |Metadata.inc:642:run_pipeline
+                                             |Metadata.inc:1697:read
+                                             |Metadata/AdapterPipeline.inc:288:_read
+                                             |AdapterPipeline.inc:324:pipeline
+                                             |AdapterPipeline.inc:594:store_record
+                                             |AdapterPipeline.inc:627:execute
+                                             |IO/Attempt.inc:307:wait
+                                             |WaitForCondition.inc:177:IO\{closure}
+                                             |IO/Attempt.inc:125:iteration
+                                             |Attempt.inc:342:Metadata\{closure}
+                                             |Metadata/AdapterPipeline.inc:626:update
+                                             |RecordServer.inc:248:_update
+                                             |RecordServer.inc:283:log
+  0.8428   0.0012                           redis_write finish   petabox/www/sf/download.php:79:main_wrap
+                                             |download.php:98:main
+                                             |download.php:317:getItem
+                                             |common/Item.inc:78:parseMetadata
+                                             |Item.inc:138:get_obj
+                                             |Metadata.inc:613:_get_obj
+                                             |Metadata.inc:642:run_pipeline
+                                             |Metadata.inc:1697:read
+                                             |Metadata/AdapterPipeline.inc:288:_read
+                                             |AdapterPipeline.inc:324:pipeline
+                                             |AdapterPipeline.inc:594:store_record
+                                             |AdapterPipeline.inc:627:execute
+                                             |IO/Attempt.inc:307:wait
+                                             |WaitForCondition.inc:177:IO\{closure}
+                                             |IO/Attempt.inc:125:iteration
+                                             |Attempt.inc:342:Metadata\{closure}
+                                             |Metadata/AdapterPipeline.inc:626:update
+                                             |RecordServer.inc:248:_update
+                                             |RecordServer.inc:290:log
+  0.8532   0.0104                          begin session_start   petabox/www/sf/download.php:79:main_wrap
+                                             |download.php:98:main
+                                             |download.php:504:stream
+                                             |download.php:872:head
+                                             |common/Nav.inc:155:__construct
+                                             |Nav.inc:230:session_start
+                                             |Cookies.inc:50:log
+  0.8532   0.0000   skipping session_start, user not logged-in   petabox/www/sf/download.php:79:main_wrap
+                                             |download.php:98:main
+                                             |download.php:504:stream
+                                             |download.php:872:head
+                                             |common/Nav.inc:155:__construct
+                                             |Nav.inc:230:session_start
+                                             |Cookies.inc:60:log
+  0.9035   0.0503                                     bug dump   petabox/www/sf/download.php:79:main_wrap
+                                             |download.php:98:main

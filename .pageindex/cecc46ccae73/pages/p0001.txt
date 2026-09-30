@@ -1,0 +1,41 @@
+# B2 来源、阅览层级与复核说明
+
+对应《B2_britain_fiscal.md》；Sister 10041；2026-09-23。除另注，所有网页均为项目实际取得并复读的正文捕获，不把网页检索摘要当文献；缓存内保留source_url、final_url、文本摘要哈希。页码指作者印刷页，Hansard用卷/栏。PDF或书籍的网页抽取未必覆盖全书，本卡只对下列所列段落负责。
+
+## 一、主数据
+
+### D1　Bank of England, *A millennium of macroeconomic data for the UK*, version 3.1
+
+- 官方说明：https://www.bankofengland.co.uk/statistics/research-datasets 。页面明确v3.1更新至2016；缓存`downloads/pages/bd9fbfa5c4e0.md`。
+- 官方工作簿：https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-the-uk.xlsx 。2026-09-23下载；`downloads/B2_BoE_millennium_v31.xlsx`，27,533,690 bytes。
+- 原件SHA256：`4c23dd392a498691eac92659aec283fb43f28118bd80511dc87fc595974195eb`。
+- **读取层级：**直接读取官方xlsx缓存值；原件Office工具因解压部件总和超过64MiB被拒，不是下载失败。本卡用openpyxl的read_only/data_only抽选工作表，并保留原表名和坐标，所得`BoE_selected_cached_values.xlsx`成功回读；没有擅算原工作簿未缓存公式。已检查主要原公式对应关系，但不是对历史档案的独立重新编纂。
+- `extract_boe.py`、`BoE_provenance.json`记抽取过程；元信息完整性检查无缺项只说明字段齐全，不证明统计口径毫无争议。
+
+**承重位置及来源谱系：**
+
+|工作表|使用列／位置|口径与限制|
+|---|---|---|
+|A27. Central govt borrowing（原表名有尾空格）|右侧AR年、AT支出、AV利息、AW收入、AY净盈余、AZ初级盈余；原财年A/B及AA所得税分类|GB 1688—1801、UK 1801后为源表标识；早期转录Mitchell, *British Historical Statistics*（1988）, pp.575—593；1946年前Exchequer/Consolidated Fund，不是现代公共部门净借款|
+|同表历年转换|1815在第139行，AW139=79.1、AV139=32.2；早期例AV117=0.75*H116+0.25*H117|财年到日历年加权由源作者实施，不是本卡补值。税目AA的年份仍是原财年，不跟着右侧历年转换|
+|A29. The National Debt|AN年、AO综合债务、AP/GDP比；Y funded+unfunded汇总、AB期限年金资本估值|GB+Ireland合并、年金及估值/日期调整须同时说明；不是单独funded debt，不是市场值|
+|同表1815|AO133=D133+L133+H133+V133+AB133；AB经A30c期限年金表|原债务公式包含年金资本值，不能拿它减现金赤字而称数据错误。没有单列年金的后期本卡不自行估值|
+|A9. Nominal GDP (A)|P列历史疆界市场价格名义GDP及相关notes|不是现今固定UK疆界；反事实没有采用史实GDP作新世界精确分母|
+|A31. Interest rates & asset ps|A年、T consol长利率；1797/98 T117:T118，1810/11 T130:T131|年平均二级市场收益率；不等于新债认缴现金票息，更不等于存量债务平均成本|
+|M10. Mthly long-term rates|年/月、C raw consol、K spliced；源注明Neal（1990）|月末而非月平均；仅抽取1809—12共48个观测，不作为独立封锁因果估计|
+
+**派生式：**现金赤字=总支出−收入；非息支出=总支出−利息；初级盈余=收入−非息支出；债息/收入=利息÷收入×100。数字单位£m名义值，未作通胀调整。年度样本1793—1848（含端点56行），缺失值留空。终检确认56年债务及年金组件均有源值，撤销早稿“1834年后无独立年金分列”的错误说明和未触发的置零后备分支；没有把缺失年金填零。
+
+### D2　Bank of England, *Annual data on the Bank of England's balance sheet*, 1696 onwards
+
+- 官方xlsx：https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/annual-data-on-the-boes-balance-sheet.xlsx 。本地`downloads/B2_BoE_balance_sheet.xlsx`；SHA256 `86121aeb2c91bcf8f6b277f1c80b1d6ffb7b5947b353d9a8b467dd435dc50589`；doc_id `86121aeb2c91`。
+- 使用`A1. Bank of England B'Sheet`，A年、O Coin and bullion、S Notes in circulation；1791为101行、1797为107行、1810为120行。
+- **实际阅览：**官方表格及表头/说明；单位£m、银行自身而非全英货币存量。1844以前为2月底，不是年平均；银行金银不是“英国全国黄金”。
+- 限度：1699—1806硬币与银行所持票据的拆分沿用Smee估算；微小末位不代表真实盘点精度，见D3。
+
+### D3　Bank of England, “Bank of England liabilities and assets: 1696 onwards”, *Quarterly Bulletin*, 1967 Q2, pp.159—163，附Table B
+
+- URL：https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/1967/boe-liabilities-and-assets-1696-onwards.pdf 。缓存`downloads/pages/5a55e6aeac33.md`。
+- 定位：The present series段、日期表、Table B；缓存行75—138附近。
+- 表述：“1766–1844 … End-February balance sheet”；1810纸币£20,120,486、金银£3,501,412。与D2同谱系，不是独立第三套观测。
+- 明确说1806前cash未区分硬币与票据，采用现金中£9,000—10,000为硬币的估算。没有把这个不确定性删除。

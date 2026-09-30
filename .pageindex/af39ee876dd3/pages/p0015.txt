@@ -1,0 +1,48 @@
+Political Economy of Conscription in Napoleonic France 1071
+
+department of Haute-Vienne.27 The departmental archives of Haute-
+Vienne give access to the registers recording background information on
+each conscript for the year 1807.28 Since these are individual-level data,
+we know height, place of origin, occupation, and desertion status for each
+cohort member, including whether they deserted before joining their units
+(“draft-dodgers”) or after (“deserters”). This makes the data collected for
+the Haute-Vienne much more detailed—but less comprehensive—than
+Lacuée’s data. The department of Haute-Vienne is an ideal candidate for
+a case study on the effect of geography as it contains both mountainous
+and non-mountainous regions (Texier-Olivier 1808, pp. 11–14). We
+organize the individual-level data at the cantonal level, with cantons (or
+justices de paix) being the second-smallest French administrative divi-
+sion after municipalities.29 Figure 3 shows a map of terrain ruggedness
+across Haute-Vienne’s 26 cantons.
+   After analyzing variation in the capacity to enforce conscription and
+how Napoleon’s administration reacted by drafting less in regions where
+enforcement costs were highest, we provide evidence that discriminatory
+conscription worked. It reduced the draft evasion rate in regions most
+prone to draft dodging relative to regions with low draft dodging rates.
+
+                              ECONOMETRIC ANALYSIS
+
+Geography and Draft Evasion
+   The relationship between geographical characteristics and the preva-
+lence of draft evasion is confirmed by the results of a formal empirical
+test. Specifically, we estimate a baseline OLS specification of the form:
+
+                    Di,t = βlog(Ruggedness) + Xi′ + δt + ζi + ϵi,t ,                           (1)
+
+where Di,t is the draft dodging rate for department i at time t. Our main
+independent variable is the natural logarithm of Ruggednessi; Xi′ is a vector
+for department-level geographic and economic variables we describe in
+the previous section. Finally, δt and ζi are year and military division fixed
+effects, respectively. Given their centrality to conscription enforcement,
+   27
+      Haute-Vienne lies within the Nouvelle-Aquitaine region of France. Its southwestern territories
+are occupied by the Massif Central, a mountain range covering a large section of southern France.
+   28
+      The archival data are from the Archives de Haute-Vienne (hereafter AHV), 1/R/50. They
+can be found online at https://archives.haute-vienne.fr/rechercher/archives-en-ligne/registres-
+militaires/registres-militaires-recherche-par-registres (accessed on 1 November 11 2021).
+   29
+      To construct each canton’s boundary, we identified each municipality and to which canton
+it belongs (Texier-Olivier 1808). We then construct polygons around each municipality whose
+interior consists of all points closer to any given municipality than any other. Finally, we merged
+the polygons into cantons.

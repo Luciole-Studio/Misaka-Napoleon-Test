@@ -1,0 +1,426 @@
+## Sheet: E1_OWID_Gapminder_population_1800_1850.csv (continued)
+Entity,Code,Year,Population
+Sierra Leone,SLE,2016,7205339
+Sierra Leone,SLE,2017,7379300
+Sierra Leone,SLE,2018,7554568
+Sierra Leone,SLE,2019,7731994
+Sierra Leone,SLE,2020,7912557
+Sierra Leone,SLE,2021,8094603
+Sierra Leone,SLE,2022,8276809
+Sierra Leone,SLE,2023,8460523
+Singapore,SGP,-1000,1
+Singapore,SGP,0,1
+Singapore,SGP,100,2
+Singapore,SGP,200,3
+Singapore,SGP,300,4
+Singapore,SGP,400,6
+Singapore,SGP,500,10
+Singapore,SGP,600,15
+Singapore,SGP,700,23
+Singapore,SGP,800,34
+Singapore,SGP,900,52
+Singapore,SGP,1000,78
+Singapore,SGP,1100,118
+Singapore,SGP,1200,177
+Singapore,SGP,1300,265
+Singapore,SGP,1400,398
+Singapore,SGP,1500,597
+Singapore,SGP,1600,896
+Singapore,SGP,1700,1345
+Singapore,SGP,1710,1740
+Singapore,SGP,1720,2252
+Singapore,SGP,1730,2915
+Singapore,SGP,1740,3772
+Singapore,SGP,1750,4882
+Singapore,SGP,1760,6318
+Singapore,SGP,1770,8176
+Singapore,SGP,1780,10581
+Singapore,SGP,1790,13693
+Singapore,SGP,1800,30000
+Singapore,SGP,1801,30000
+Singapore,SGP,1802,30000
+Singapore,SGP,1803,30000
+Singapore,SGP,1804,30000
+Singapore,SGP,1805,30000
+Singapore,SGP,1806,30000
+Singapore,SGP,1807,30000
+Singapore,SGP,1808,30000
+Singapore,SGP,1809,30000
+Singapore,SGP,1810,30000
+Singapore,SGP,1811,30000
+Singapore,SGP,1812,30000
+Singapore,SGP,1813,30000
+Singapore,SGP,1814,30000
+Singapore,SGP,1815,30000
+Singapore,SGP,1816,30000
+Singapore,SGP,1817,30000
+Singapore,SGP,1818,30000
+Singapore,SGP,1819,30126
+Singapore,SGP,1820,30381
+Singapore,SGP,1821,30767
+Singapore,SGP,1822,31288
+Singapore,SGP,1823,31946
+Singapore,SGP,1824,32618
+Singapore,SGP,1825,33303
+Singapore,SGP,1826,34003
+Singapore,SGP,1827,34718
+Singapore,SGP,1828,35448
+Singapore,SGP,1829,36193
+Singapore,SGP,1830,36954
+Singapore,SGP,1831,37731
+Singapore,SGP,1832,38524
+Singapore,SGP,1833,39334
+Singapore,SGP,1834,40161
+Singapore,SGP,1835,41006
+Singapore,SGP,1836,41868
+Singapore,SGP,1837,42748
+Singapore,SGP,1838,43646
+Singapore,SGP,1839,44564
+Singapore,SGP,1840,45501
+Singapore,SGP,1841,46458
+Singapore,SGP,1842,47434
+Singapore,SGP,1843,48431
+Singapore,SGP,1844,49450
+Singapore,SGP,1845,50489
+Singapore,SGP,1846,51551
+Singapore,SGP,1847,52634
+Singapore,SGP,1848,53741
+Singapore,SGP,1849,54865
+Singapore,SGP,1850,56006
+Singapore,SGP,1851,57142
+Singapore,SGP,1852,58295
+Singapore,SGP,1853,59465
+Singapore,SGP,1854,60659
+Singapore,SGP,1855,61877
+Singapore,SGP,1856,63119
+Singapore,SGP,1857,64386
+Singapore,SGP,1858,65679
+Singapore,SGP,1859,66998
+Singapore,SGP,1860,68343
+Singapore,SGP,1861,69714
+Singapore,SGP,1862,71114
+Singapore,SGP,1863,72542
+Singapore,SGP,1864,73998
+Singapore,SGP,1865,75483
+Singapore,SGP,1866,76998
+Singapore,SGP,1867,78544
+Singapore,SGP,1868,80121
+Singapore,SGP,1869,81917
+Singapore,SGP,1870,83944
+Singapore,SGP,1871,86211
+Singapore,SGP,1872,88730
+Singapore,SGP,1873,91512
+Singapore,SGP,1874,94381
+Singapore,SGP,1875,97340
+Singapore,SGP,1876,100392
+Singapore,SGP,1877,103540
+Singapore,SGP,1878,106786
+Singapore,SGP,1879,110134
+Singapore,SGP,1880,113587
+Singapore,SGP,1881,117149
+Singapore,SGP,1882,120821
+Singapore,SGP,1883,124609
+Singapore,SGP,1884,128516
+Singapore,SGP,1885,132545
+Singapore,SGP,1886,136701
+Singapore,SGP,1887,140987
+Singapore,SGP,1888,145407
+Singapore,SGP,1889,149971
+Singapore,SGP,1890,154683
+Singapore,SGP,1891,159549
+Singapore,SGP,1892,164574
+Singapore,SGP,1893,169762
+Singapore,SGP,1894,175113
+Singapore,SGP,1895,180633
+Singapore,SGP,1896,186328
+Singapore,SGP,1897,192201
+Singapore,SGP,1898,198260
+Singapore,SGP,1899,204914
+Singapore,SGP,1900,212200
+Singapore,SGP,1901,220154
+Singapore,SGP,1902,228815
+Singapore,SGP,1903,238224
+Singapore,SGP,1904,248020
+Singapore,SGP,1905,258218
+Singapore,SGP,1906,268836
+Singapore,SGP,1907,279891
+Singapore,SGP,1908,291400
+Singapore,SGP,1909,301978
+Singapore,SGP,1910,311561
+Singapore,SGP,1911,320082
+Singapore,SGP,1912,327471
+Singapore,SGP,1913,333652
+Singapore,SGP,1914,339950
+Singapore,SGP,1915,346367
+Singapore,SGP,1916,352904
+Singapore,SGP,1917,359566
+Singapore,SGP,1918,366501
+Singapore,SGP,1919,375380
+Singapore,SGP,1920,386317
+Singapore,SGP,1921,399433
+Singapore,SGP,1922,414856
+Singapore,SGP,1923,432717
+Singapore,SGP,1924,451347
+Singapore,SGP,1925,470780
+Singapore,SGP,1926,491049
+Singapore,SGP,1927,512191
+Singapore,SGP,1928,534243
+Singapore,SGP,1929,554962
+Singapore,SGP,1930,574238
+Singapore,SGP,1931,591953
+Singapore,SGP,1932,607984
+Singapore,SGP,1933,622202
+Singapore,SGP,1934,636753
+Singapore,SGP,1935,651644
+Singapore,SGP,1936,666883
+Singapore,SGP,1937,682478
+Singapore,SGP,1938,698439
+Singapore,SGP,1939,715930
+Singapore,SGP,1940,735023
+Singapore,SGP,1941,755794
+Singapore,SGP,1942,778320
+Singapore,SGP,1943,802682
+Singapore,SGP,1944,827807
+Singapore,SGP,1945,853718
+Singapore,SGP,1946,880440
+Singapore,SGP,1947,907998
+Singapore,SGP,1948,936419
+Singapore,SGP,1949,969218
+Singapore,SGP,1950,1013318
+Singapore,SGP,1951,1068050
+Singapore,SGP,1952,1126098
+Singapore,SGP,1953,1187531
+Singapore,SGP,1954,1252286
+Singapore,SGP,1955,1320233
+Singapore,SGP,1956,1390957
+Singapore,SGP,1957,1458281
+Singapore,SGP,1958,1515731
+Singapore,SGP,1959,1567757
+Singapore,SGP,1960,1619328
+Singapore,SGP,1961,1670469
+Singapore,SGP,1962,1721183
+Singapore,SGP,1963,1771517
+Singapore,SGP,1964,1821468
+Singapore,SGP,1965,1870828
+Singapore,SGP,1966,1919088
+Singapore,SGP,1967,1965686
+Singapore,SGP,1968,2010102
+Singapore,SGP,1969,2052163
+Singapore,SGP,1970,2091568
+Singapore,SGP,1971,2128445
+Singapore,SGP,1972,2164344
+Singapore,SGP,1973,2200145
+Singapore,SGP,1974,2235079
+Singapore,SGP,1975,2268532
+Singapore,SGP,1976,2300749
+Singapore,SGP,1977,2331547
+Singapore,SGP,1978,2360611
+Singapore,SGP,1979,2388159
+Singapore,SGP,1980,2437496
+Singapore,SGP,1981,2531801
+Singapore,SGP,1982,2627420
+Singapore,SGP,1983,2685982
+Singapore,SGP,1984,2720930
+Singapore,SGP,1985,2735032
+Singapore,SGP,1986,2744656
+Singapore,SGP,1987,2781625
+Singapore,SGP,1988,2849043
+Singapore,SGP,1989,2938656
+Singapore,SGP,1990,3039593
+Singapore,SGP,1991,3136294
+Singapore,SGP,1992,3226461
+Singapore,SGP,1993,3317892
+Singapore,SGP,1994,3417818
+Singapore,SGP,1995,3533624
+Singapore,SGP,1996,3664566
+Singapore,SGP,1997,3796629
+Singapore,SGP,1998,3901418
+Singapore,SGP,1999,3966562
+Singapore,SGP,2000,4035251
+Singapore,SGP,2001,4116169
+Singapore,SGP,2002,4146898
+Singapore,SGP,2003,4138241
+Singapore,SGP,2004,4172767
+Singapore,SGP,2005,4268363
+Singapore,SGP,2006,4407064
+Singapore,SGP,2007,4596516
+Singapore,SGP,2008,4806742
+Singapore,SGP,2009,4968574
+Singapore,SGP,2010,5077020
+Singapore,SGP,2011,5182242
+Singapore,SGP,2012,5293345
+Singapore,SGP,2013,5385589
+Singapore,SGP,2014,5457899
+Singapore,SGP,2015,5525343
+Singapore,SGP,2016,5577936
+Singapore,SGP,2017,5604087
+Singapore,SGP,2018,5634366
+Singapore,SGP,2019,5669562
+Singapore,SGP,2020,5620151
+Singapore,SGP,2021,5546291
+Singapore,SGP,2022,5649888
+Singapore,SGP,2023,5789092
+Sint Maarten (Dutch part),SXM,1950,1472
+Sint Maarten (Dutch part),SXM,1951,1578
+Sint Maarten (Dutch part),SXM,1952,1672
+Sint Maarten (Dutch part),SXM,1953,1760
+Sint Maarten (Dutch part),SXM,1954,1859
+Sint Maarten (Dutch part),SXM,1955,1971
+Sint Maarten (Dutch part),SXM,1956,2100
+Sint Maarten (Dutch part),SXM,1957,2237
+Sint Maarten (Dutch part),SXM,1958,2387
+Sint Maarten (Dutch part),SXM,1959,2544
+Sint Maarten (Dutch part),SXM,1960,2738
+Sint Maarten (Dutch part),SXM,1961,2991
+Sint Maarten (Dutch part),SXM,1962,3283
+Sint Maarten (Dutch part),SXM,1963,3605
+Sint Maarten (Dutch part),SXM,1964,3945
+Sint Maarten (Dutch part),SXM,1965,4304
+Sint Maarten (Dutch part),SXM,1966,4683
+Sint Maarten (Dutch part),SXM,1967,5090
+Sint Maarten (Dutch part),SXM,1968,5524
+Sint Maarten (Dutch part),SXM,1969,5970
+Sint Maarten (Dutch part),SXM,1970,6437
+Sint Maarten (Dutch part),SXM,1971,6909
+Sint Maarten (Dutch part),SXM,1972,7402
+Sint Maarten (Dutch part),SXM,1973,7939
+Sint Maarten (Dutch part),SXM,1974,8514
+Sint Maarten (Dutch part),SXM,1975,9114
+Sint Maarten (Dutch part),SXM,1976,9739
+Sint Maarten (Dutch part),SXM,1977,10387
+Sint Maarten (Dutch part),SXM,1978,11059
+Sint Maarten (Dutch part),SXM,1979,11746
+Sint Maarten (Dutch part),SXM,1980,12432
+Sint Maarten (Dutch part),SXM,1981,13327
+Sint Maarten (Dutch part),SXM,1982,14622
+Sint Maarten (Dutch part),SXM,1983,16154
+Sint Maarten (Dutch part),SXM,1984,17715
+Sint Maarten (Dutch part),SXM,1985,19314
+Sint Maarten (Dutch part),SXM,1986,20949
+Sint Maarten (Dutch part),SXM,1987,22642
+Sint Maarten (Dutch part),SXM,1988,24382
+Sint Maarten (Dutch part),SXM,1989,26190
+Sint Maarten (Dutch part),SXM,1990,28079
+Sint Maarten (Dutch part),SXM,1991,30063
+Sint Maarten (Dutch part),SXM,1992,31589
+Sint Maarten (Dutch part),SXM,1993,32050
+Sint Maarten (Dutch part),SXM,1994,31941
+Sint Maarten (Dutch part),SXM,1995,31796
+Sint Maarten (Dutch part),SXM,1996,31622
+Sint Maarten (Dutch part),SXM,1997,31421
+Sint Maarten (Dutch part),SXM,1998,31215
+Sint Maarten (Dutch part),SXM,1999,30998
+Sint Maarten (Dutch part),SXM,2000,30796
+Sint Maarten (Dutch part),SXM,2001,30751
+Sint Maarten (Dutch part),SXM,2002,30986
+Sint Maarten (Dutch part),SXM,2003,31346
+Sint Maarten (Dutch part),SXM,2004,31714
+Sint Maarten (Dutch part),SXM,2005,32083
+Sint Maarten (Dutch part),SXM,2006,32448
+Sint Maarten (Dutch part),SXM,2007,32811
+Sint Maarten (Dutch part),SXM,2008,33165
+Sint Maarten (Dutch part),SXM,2009,33514
+Sint Maarten (Dutch part),SXM,2010,33814
+Sint Maarten (Dutch part),SXM,2011,34288
+Sint Maarten (Dutch part),SXM,2012,35040
+Sint Maarten (Dutch part),SXM,2013,35871
+Sint Maarten (Dutch part),SXM,2014,36695
+Sint Maarten (Dutch part),SXM,2015,37490
+Sint Maarten (Dutch part),SXM,2016,38274
+Sint Maarten (Dutch part),SXM,2017,39012
+Sint Maarten (Dutch part),SXM,2018,39736
+Sint Maarten (Dutch part),SXM,2019,40410
+Sint Maarten (Dutch part),SXM,2020,41027
+Sint Maarten (Dutch part),SXM,2021,41593
+Sint Maarten (Dutch part),SXM,2022,42163
+Sint Maarten (Dutch part),SXM,2023,42775
+Slovakia,SVK,-10000,1679
+Slovakia,SVK,-9000,2799
+Slovakia,SVK,-8000,4665
+Slovakia,SVK,-7000,7775
+Slovakia,SVK,-6000,12959
+Slovakia,SVK,-5000,21599
+Slovakia,SVK,-4000,35998
+Slovakia,SVK,-3000,59997
+Slovakia,SVK,-2000,99996
+Slovakia,SVK,-1000,166660
+Slovakia,SVK,0,277767
+Slovakia,SVK,100,278045
+Slovakia,SVK,200,278324
+Slovakia,SVK,300,278602
+Slovakia,SVK,400,278881
+Slovakia,SVK,500,279160
+Slovakia,SVK,600,279440
+Slovakia,SVK,700,279720
+Slovakia,SVK,800,280000
+Slovakia,SVK,900,315000
+Slovakia,SVK,1000,350000
+Slovakia,SVK,1100,420000
+Slovakia,SVK,1200,560000
+Slovakia,SVK,1300,840000
+Slovakia,SVK,1400,700000
+Slovakia,SVK,1500,840000
+Slovakia,SVK,1600,1260000
+Slovakia,SVK,1700,1141548
+Slovakia,SVK,1710,1188142
+Slovakia,SVK,1720,1236637
+Slovakia,SVK,1730,1287112
+Slovakia,SVK,1740,1339647
+Slovakia,SVK,1750,1394327
+Slovakia,SVK,1760,1451238
+Slovakia,SVK,1770,1510472
+Slovakia,SVK,1780,1572124
+Slovakia,SVK,1790,1636293
+Slovakia,SVK,1800,2140651
+Slovakia,SVK,1801,2140651
+Slovakia,SVK,1802,2140651
+Slovakia,SVK,1803,2140651
+Slovakia,SVK,1804,2140651
+Slovakia,SVK,1805,2140651
+Slovakia,SVK,1806,2140651
+Slovakia,SVK,1807,2140651
+Slovakia,SVK,1808,2140651
+Slovakia,SVK,1809,2140651
+Slovakia,SVK,1810,2140651
+Slovakia,SVK,1811,2140651
+Slovakia,SVK,1812,2140651
+Slovakia,SVK,1813,2140651
+Slovakia,SVK,1814,2140651
+Slovakia,SVK,1815,2140651
+Slovakia,SVK,1816,2140651
+Slovakia,SVK,1817,2140651
+Slovakia,SVK,1818,2140651
+Slovakia,SVK,1819,2142239
+Slovakia,SVK,1820,2145419
+Slovakia,SVK,1821,2150200
+Slovakia,SVK,1822,2156585
+Slovakia,SVK,1823,2164582
+Slovakia,SVK,1824,2172608
+Slovakia,SVK,1825,2180664
+Slovakia,SVK,1826,2188750
+Slovakia,SVK,1827,2196866
+Slovakia,SVK,1828,2205012
+Slovakia,SVK,1829,2213189
+Slovakia,SVK,1830,2221395
+Slovakia,SVK,1831,2229632
+Slovakia,SVK,1832,2237900
+Slovakia,SVK,1833,2246198
+Slovakia,SVK,1834,2254527
+Slovakia,SVK,1835,2262887
+Slovakia,SVK,1836,2271278
+Slovakia,SVK,1837,2279700
+Slovakia,SVK,1838,2288153
+Slovakia,SVK,1839,2296638
+Slovakia,SVK,1840,2305154
+Slovakia,SVK,1841,2313701
+Slovakia,SVK,1842,2322281
+Slovakia,SVK,1843,2330892
+Slovakia,SVK,1844,2339535
+Slovakia,SVK,1845,2348210
+Slovakia,SVK,1846,2356917
+Slovakia,SVK,1847,2365657
+Slovakia,SVK,1848,2374429
+Slovakia,SVK,1849,2383233
+Slovakia,SVK,1850,2392070
+Slovakia,SVK,1851,2400733
+Slovakia,SVK,1852,2409427

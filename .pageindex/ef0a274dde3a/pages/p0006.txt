@@ -1,0 +1,158 @@
+ships (,637 thousand per year). It will be shown in Appendix Table 4 that the new overallestimates,
+also including non-British transfer channels and net inflows from the "country" trade, amount to 77
+per cent of Furber's total "drain" to Europe in 1783-92.
+The new calculations incorporate a number of internal checksand conservative assumptions;
+in this sense they may be regarded as minimum estimates on the given sources. One general
+30
+consideration is that most of the inevitable errors are likely to be small or to offset one another.
+By far the largest entries in Appendix Tables 1-3, those of imports CIF and exports FOB at British
+prices, are documented for every single year with the only exception of privilegeand privateimports
+in 1810-12. Elsewhere, seemingly major problemsarise when the sourcesdo not distinguish between
+India and China. Since net India transfers as specified in Table 1 include British trade deficits with
+both areas, however, any errors at this level should cancel out. No such claim can be made on the
+allocation of total freight costs to imports and exports, but the estimates in question reasonably
+approximate the known proportions of inwardand outwardtonnage.Any substantial errorsshouldbe
+confined to the estimation of mercantile profits, which too often relies on documented but
+questionable data on invoice values or prime costs.
+[ Appendix table 3 ]
+In any event, here as elsewhere efforts have been made to underestimate net Indiatransfersto
+Britain wherever possible. In terms of the direct trade calculations in Appendix Tables 1-3, such
+efforts amount to understating British merchandise receipts and overstating British outflows. Thus
+the import figures CIF in all three Appendix Tables, and those used in Table 1 to calculate British
+deficits with China, exclude neutral and prize goods. Such goods amounted to ,224 thousand per
+year in 1793-1809 and seemingly stood, on average, at similar levels in 1771-83.lv Perhaps for this
+reason the given totals of Company, privilege, and private imports from India and China through
+1772-1812 together fall short, by an average of five per cent, of independent calculations from the
+British official trade values.lvi On the side of British outflows there is less room for substantial error,
+and two of the relevant entries in Appendix Table 3 are probablyoverstated. As explainedin note 10,
+the export estimates at British ports incorporate the generous assumption that arriving Indian ships
+left for the return trip equally laden; and the British debits on bullion exports in line 18 may well be
+31
+double counted in Appendix Table 1, line 19. Last but not least, as noted in the main text in
+connection with Table 1 the Company's bullion transfers to India in 1798-1805 are likely to be
+overstated.
+Furber identified two other sources of India "drain" and gave tentative estimates. One such
+"drain" involved funds accumulated in Calcutta and elsewhere from the "country" trade between
+India, the Eastern Archipelago, and China; the other "drain" was channeled to Europe through nonBritish East India Companies and "other illicit traders". The estimation of alternative transfers on
+both counts has been explained in the main text, and all the new transfer figures for 1762-1812 are
+included in Table 1.
+In Appendix Table 4, relevant period averages of the overall net transfers to Britain in Table
+1 are compared with alternative figures. The "minimum estimates" for 1757-71 and 1772-82 were
+based on a conjectural allocation of Marshall's total private transfers from Bengal alone in 1757-
+84.lvii In the absence of adequate trade data for 1757-61, Marshall's figures for these five years have
+been retained here: they include bills drawn in Bengal on the English East India Company, British
+subjects' remittances to Britain through the Dutch and French East India companies, and relatively
+small shipments of diamonds.lviii Also included in 1760-61 is the value of Indian goods imported
+into Canton by the English Company.lix
+The new overall transfers to Britain remain close enough to Marshall's private flows from
+Bengal alone in 1757-84, and sufficiently below Furber's total "drain" to Europe in 1783-92, to lend
+independent support to the new procedure. Griffiths's "provisional" total for 1780-1812 is consistent
+with the new annual calculations, but he gave no specific groundsfor eitherof his two estimates.The
+remaining "drain" figures in Appendix Table 4 are all subject to question. Sinha specified a wide
+range of transfer channels, but his large estimate of "drain" through foreign East India companies in
+32
+1757-80 turns out to rely on backward extrapolation of data for the early 1780s.lx Hamiltonwas a
+severe critic of exaggerated claims, but his total of Company and private "drain" was a maximum
+estimate. Habib's "minimum" net imports values from India in 1789-90 and in c1801 rest on
+questionable calculations from the British official trade figures at constant prices of the early
+eighteenth century. One concern here is that the official export values he used were reckoned at
+British ports, with no account for British carrying costs to India. Another concern is that Habib
+converted official to "real" (current) import values with Deane and Cole's ratio for Britishimportsas
+a whole, thus ignoring differential price trends in Indiancommoditiesin generaland significant price
+declines of Indian textiles in particular.
+[Appendix table 4]
+33
+References
+Baines, E. Jr., 1835. History of the Cotton Manufacture in Great Britain.... H. Fisher, R. Fisher, and
+P. Jackson, London.
+Barber, William J., 1975. British economic thought and India, 1600-1858. ClarendonPress, Oxford.
+BL, OIOC (British Library, Oriental and India Office Collections), Board of Control ("East India
+Company's Accounts Drawn for the House of Commons... and the Board of Control"):
+L/AG/10/2/2.
+BL, OIOC (British Library, Oriental and India Office Collections), European Manuscripts: MSS.
+D281.
+BL, OIOC (British Library, Oriental and IndiaOfficeCollections), Home Miscellanea: H/399,H/449
+(Robert Wissett's manuscript), H/500.
+BL, OIOC (British Library, Oriental and India Office Collections), Miscellaneous Trade Statistics
+and Accounts, 1732-1813: L/AG/18/2/1.
+BL, OIOC (British Library, Oriental and India Office Collections), Proceedings: P/174/13-32.
+Bowen, H.V., 1998. "British India, 1765-1813: the metropolitan context". In: Marshall, P.J. (Ed.),
+Oxford History of the British Empire, vol. II, The Eighteenth Century. Oxford University
+Press, Oxford, pp. 530-551.
+Bowen, H.V., 2002. "Sinews of trade and Empire: the supply of commodity exports to the East India
+Company during the eighteenth century". Economic History Review LV, 466-486.
+Chapman, S.D., Chassagne, S., 1981. European textile printers in the eighteenth century: A study of
+Peel and Oberkampf. Heinemann, London.
+Cuenca Esteban, J., 1999. "Factory costs, market prices, and Indian calicos: Cotton textile prices
+revisited, 1779-1831". Economic History Review LII, 749-755.
+Cuenca Esteban, J., 2001. "The British balance of payments 1772-1820. India transfers and war
+finance". Economic History Review LIV, 58-86.
+Cuenca Esteban, J., 2004. "Comparative patterns of colonial trade: Britain and its rivals". In: Prados
+de la Escosura, L. (Ed.), Britain and its European Rivals. Homage to Patrick O'Brien.
+Cambridge University Press, Cambridge.
+Danson, J.T., 1894. Our Next War, in its Commercial Aspects: with some Account of the Premiums
+paid at "Lloyds" from 1805 to 1816. Blades, East & Blades, London.
+Davis, R., 1979. The Industrial Revolution and British overseas trade. Leicester University Press,
+34
+Leicester.
+Feinstein, C.H., 1978. "Capital formation in Great Britain". In: P. Mathias and M.M. Postan (Eds.),
+Cambridge Economic History of Europe. Cambridge University Press, Cambridge, vol. 7,
+part I, pp. 28-96.
+Feldbaeck, O., 1969. India trade under the Danish flag 1772-1808. European enterprise and AngloIndian remittance and trade. Studentlitteratur, Copenhagen.
+Fitton, R.S., 1989. The Arkwrights: spinners of fortune. Manchester University Press, Manchester.
+Furber, H., 1948. John Company at work: A study of European expansion in India in the late
+eighteenth century. Harvard University Press, Cambridge, Mass..
+Greenberg, M., 1951. British trade and the opening of China 1800-42. Cambridge University Press,
+Cambridge.
+Griffiths, P.J., 1952. The British impact on India. MacDonald, London.
+Habib, I., 1974. "Colonialisation of the Indian economy, 1757-1900", Social Scientist, vol. III,issue
+8, pp. 23-53.
+Hamilton, C.J., 1919. The trade relations between England and India (1600-1896), Calcutta.
+Imlah, A.H., 1958. Economic elements in the Pax Britannica. Studies in British foreign trade in the
+nineteenth century. Russell & Russell, New York.
+Krishna, B., 1924. Commercial relations between India and England, 1601 to 1757. George
+Routledge & Sons Ltd., London.
+London Price Current, various titles. 1779-89, 1796-99.
+MacGregor, J., 1843-50. Commercial statistics. A Digest..., 5 vols.. C. Knight & Co., London.
+Marshall, P.J., 1968. Problems of empire: Britain and India 1757-1813. Allen and Unwin, London.
+Marshall, P.J., 1976. East Indian fortunes. The British in Bengal in the eighteenth century.
+Clarendon Press, Oxford.
+Marshall, P.J., 1998. "The British in Asia: Trade to Dominion, 1700-1765". In: Marshall, P.J. (Ed.),
+Oxford history of the British empire, vol. II, The Eighteenth century. Oxford University
+Press, Oxford, pp. 487-507.
+Milburn, W., 1813. Oriental commerce, 2 vols.. Black, Parry, and Co., London.
+Mitra, D.B., 1978. The cotton weavers of Bengal, 1757-1833. Firma Klm, Calcutta.
+35
+Mui, Hoh-Cheung, and Lorna H. Mui, 1984. The management of monopoly. A study of the East
+India Company's conduct of its tea trade 1784-1833. University of British Columbia Press,
+Vancouver.
+Nash, R.C., 1997. "The balance of payments and foreign capital flows in eighteenth-century
+England: a comment". Economic History Review L, 110-128.
+Ninth report (1783) from the Select Committee of the House of Commons on East India Company
+Affairs.
+O'Brien, George, 1918. The economic history of Ireland in the eighteenth century. Maunsel and
+Company, Ltd., Dublin and London.
+Parkinson, C.N., 1937. Trade in the eastern seas 1793-1813. Cambridge University Press,
+Cambridge.
+Philips, C.H., 1940. The East India company 1784-1834. Manchester University Press, Manchester.
+Pitt, William, 1808. The speeches of... William Pitt in the House of Commons.... London,2nd. ed., 3
+vols..
+PP 1810-11, VII, "Annual Account". In: East India Revenues, MSSp. 61.
+PP 1810-11, VII, Third Report from the Select Committee on the Affairs of the East IndiaCompany.
+PP 1812, VI, "Annual Account". In: Accounts relating to East India Affairs, MSSp. 417.
+PP 1812, VI, Fourth Report from the Select Committee on the Affairs of the East India Company.
+PP 1812-13, VII, "Estimate of the profit and loss upon all goods sold by The East IndiaCompany...",
+1793/4 to 1811/12. In: Minutes of Evidence, pp. 487-88 or MSSpp. 519-20.
+PP 1812-13, VIII, "Annual Account". In: Accounts relating to East India Affairs, MSSp. 405.
+PP 1812-13, VIII, "Bullion and Merchandise exported...", MSSp. 416.
+PP 1813-14, IX, "Account". In: Revenue Accounts &c, p. 69, Appendix 25.
+PP 1813-14, IX, "Annual Account". In: Papers &c, East India Account, second part, MSSp. 1.
+Pritchard, E.H., 1936. The crucial years of early Anglo-Chinese relations 1750-1800. Octagon
+Books, New York [1970].
+PRO (Public Record Office), Board of Trade: BT/6/42, BT/6/43, BT/6/227.
+PRO (Public Record Office), Customs: 3, 5, 10, 11, 14, 17.
+36
+Ray, R.K., 1998. "Indian society and the establishment of British supremacy, 1765-1818". In:
+Marshall, P.J. (Ed.), Oxford History of the British Empire, vol. II, The Eighteenth Century.
+Oxford University Press, Oxford, pp. 508-529.
+Robinson, F.P., 1912. The trade of the East India Company from 1709 to 1813. Cambridge

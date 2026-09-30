@@ -1,0 +1,56 @@
+
+
+### Douai／Strasbourg：均未取得目标期间产量峰值
+
+来源C **4 W 1** 有1803年前后管理、试验与1812人员情况；**4 W 3**明确含：
+> « précis des opérations que l’on suit à la fonderie de Douai pour la fabrication des bouches à feu par M. Bérenger commissaire des fontes (an XI) »
+
+来源C **4 W 1**明确含：
+> « lettre de Gassendi au directeur de Strasbourg au sujet de la suppression des matériels et de nouvelles dimensions à donner (25 décembre 1808) »
+> « lettre réponse avec état donnant des détails sur certains personnels de cette fonderie (10 et 27 décembre 1812) »
+
+以上是工序、制度、人员证据入口，不保证内含年度产量。炮厂合格炮管、炮架、前车、弹药车、挽马应分账；本轮无证据把一门出厂炮管直接等同于一个可部署炮组。
+
+**被拒作模型锚点的候选**：搜索返回 Douai vox《La fonderie de canons à Douai》摘要声称19世纪初达到200–250门/年。URL：https://douaivox.fr/la-fonderie-de-canons-douai/ 。HTTPS、HTTP正文提取均DNS失败，Jina代理提取亦无内容。故**未核读正文、没有成功正文保存路径，此数仅为检索线索，不进入上述锚点表，不认定其年份或验收口径**。也不将搜索摘要提及的1841年450门回填帝国时期。
+
+### Essonnes：已有准确专题书目及档案入口，尚无产量数字
+
+**来源D：André Desfeuilles，*La fabrication des poudres de guerre à Essonnes : 1805–1814***
+- 本轮读到的是FeniXX数字重版商品页，不是正文。
+- URL：https://readzis.co.uk/960997/la-fabrication-des-poudres-de-guerre-a-essonnes.ebook
+- 保存：`downloads/pages/9cc62ddca08d.md`
+- 小节“About the book”：作者André Desfeuilles，出版项“FeniXX réédition numérique (Bulletin de l’Institut Napoléon)”，1953，16页，法文。
+- 【缺口】需取得这16页专题正文。这比将全国3,000吨按厂数均分更优先；未购买或下载受限电子书。
+
+**来源E：Archives départementales de l’Essonne，79J23/7**
+- URL：https://archives.essonne.fr/ark:/28047/9ln5x74p2fb6
+- 保存：`downloads/pages/c479ac42abbb.md`
+- 条目标题核读：
+> « correspondance du commissaire en chef des poudres et salpêtres (1799-1805) »
+- 目录注明“Communicable / sans délais”。仅核目录，未阅通信原件。
+
+**来源F：Pierre Robin的访问记述，转引自L’Estafette网页，属回溯性／晚刊证言**
+- URL：http://lestafette.unblog.fr/2025/07/05/une-visite-de-napoleon-a-la-poudrerie-dessonne/
+- 保存：`downloads/pages/5184b87a3f2a.md`
+- 页题《Une visite de Napoléon à la poudrerie d’Essonne…》，引言称1910年由作者孙辈发表于《Carnet de la Sabretache》；本轮未见1910年版。
+- 正文，拿破仑问工厂为何没有开工后一段：
+> « Il a répliqué qu’il fallait travailler les dimanches et fêtes, le jour et la nuit ; qu’il comptait sur cette fabrique pour l’approvisionnement des ports à cause de la facilité du transport par la Seine. »
+> « Il me demanda ensuite ce que j’avais en approvisionnements de matières premières, ce que je pouvais fabriquer en employant tous les moyens et ne manquant de rien. »
+- 【史料批判】这只能提供加班与潜在能力询问的机制，既没有披露每日实际数，也没有证明命令已经兑现。网页引言为1805年3月31日，正文却写“10 germinal an XII”，存在纪年冲突（1805相应为an XIII），应先核1910原刊再用作精确日期证据。绝不把日夜开工命令改写为已增产。
+
+## 三、第二条法语研究来源：检验“快速机械化即可消除产能约束”
+
+**来源G：Jean-Louis Peaucelle，《Du concept d’interchangeabilité à sa réalisation : Le fusil des XVIIIe et XIXe siècles》，Gérer et comprendre，2005年6月，第80期，58–76页。**
+- URL：https://annales.org/edit/gc/2005/gc80/058-076peaucelle.pdf
+- 保存：`downloads/pages/cfc17491b6c4.md`
+- 已读有关1777式、Blanc、传统工序和本文结论的段落；没有宣称通读所有中段。
+- 定位：“La normalisation du fusil en 1777”，纸页63附近、脚注25（本地296、332–336行）：
+> « Après la mort de Blanc, en 1802, l’interchangeabilité reste encore largement débattue. Finalement, elle sera abandonnée (25). »
+- 原注25列1805年装配试验及1808年报告：
+> « “Rapports d’essai de montage des platines”, 12 et 19 fructidor an XIII, SHAT, 6W127 folio 64. »
+> « Capitaine BUREAU, “Détails sur la fabrication de la platine identique à Roanne”, 1808, SHAT 4W482, citation page 37. »
+- 档号均为**转引自Peaucelle**，非本人读过原档。
+- 定位：“La fabrication du fusil au XVIIIe siècle”（本地517行；用小节定位，不冒报未校的印刷页号）：
+> « On démonte donc et remonte des fusils différents sans mélanger les pièces. Pour les réparations, on refait chaque pièce spécifiquement. »
+- 【文献推断：Peaucelle；本轮裁量】标准化设计不等于已实现互换制造；制造与修复均依赖熟练技工。不能用现代流水线的线性投资—产出假设补齐1813年缺口。
+- 该文表4虽写Saint-Étienne枪机工艺量，但正文前后连接18世纪试验、1806报告脚注及工具清单，年代与“计划／实作”口径不够清楚；本轮**不把表4数量作为1803–1814单厂枪械产量**。

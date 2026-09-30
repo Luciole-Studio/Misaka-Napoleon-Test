@@ -1,0 +1,28 @@
+
+
+### S19 — 人食物需求的后世假定算例
+Martin van Creveld, *Supplying War: Logistics from Wallenstein to Patton* (Cambridge University Press, first published 1977)。所读网页OCR版权页列重印至1997；未据网页标题假装取得1812原始返回，未额外确定扫描印次。
+- 捕获原文 https://vdoc.pub/documents/supplying-war-logistics-from-wallenstein-to-patton-28jjb479976g ；`downloads/pages/5b7b985b0f78.md`，doc `5b7b985b0f78`。捕获正文SHA256 `1beaf34f84f0b1aa929940c10fa3f2202285783a780150dd2a994494f17d4b68`，网页文本而非本卡取得的出版商PDF。
+- 定点读版权信息及纸本pp.63–65。检索页13不是纸本第13页。p.64：“Even if he were to arrive in the Russian capital with only one third of his original 600,000 men”；随后“daily consumption in Moscow would have come to 300 tons”。假定20万人，不是实际20万人驻莫斯科；300吨也不是历史实发记录。
+- 300/200,000只给约1.5kg/人日的模型尺度；原段tons定义未精确核定，不保留伪精度。向1805跨海迁移是本卡假设。马料10kg、马率5/10/15%均不是该段提供。F2接口与本卡回读是同源核对，不构成第二个独立口粮证据。
+
+### S20 — 英军运输组织、地方撤粮和道路权
+Christopher Chilcott, *Maintaining the British Army, 1793 to 1820*, PhD thesis, Bath Spa University / University of the West of England, Bristol, November 2006。
+- https://researchspace.bathspa.ac.uk/1461/1/Christopher%20Chilcott%20-%202006.pdf
+- `downloads/B4_Chilcott_Maintaining_British_Army_2006.pdf`；doc `ad3fc15a73a7`；SHA256 `ad3fc15a73a7a20c5655647ecdac5e25659bee8408a4eab32b5a0e015abc5085`。553页文件含重复正文，引用首份的印刷页；p.165=PDF174，p.244=PDF252，不能全书机械加固定偏移。
+- 实读标题摘要、pp.132–135、162–166、230–234、242–246；并看p.165图19影像。未全读论文。
+- p.165图19：1803-11/1805-04 Royal Wagon Train驻点；1805年Canterbury3、Chelmsford4、Bexhill1个运输分队（原文troop），Croydon总部/4个较小Depot Troops。依据WO17/53/2与WO17/54/1，仅转引。troop不换算成squadron；这些不是作战骑兵数量，驻点不等于所有人员均在场。
+- p.244：“The wagons allocated for the transport of supplies were to be ready to move at twenty fours notice”；计划“twenty-five to thirty miles per day, depending on load”，作者认为可能过于乐观。原注WO30/141 p.16。不是实测，也不是4万载兵车速。
+- pp.242–243引Sarum 1803-11-19命令（WSRO1719/30）继续部署迁移人畜、路线和供给；p.234引Hawkesbury1804-08-20通函WO55/1548/17。只证明筹划，不证明真实入侵时执行成功；亦使Fortescue“abandoned”不能全国化。
+- pp.243–246：要求居民牲畜走小路、干道留军；作者指出车辆优先权和服役期限模糊可能致堵塞；pioneers开己军/阻敌军道路。有关实施失败是作者机制推断，非实际入侵观察。
+- 独立性：论文亦引用传统军史；上述RWT返回与Wiltshire地方记录有单列底层文书链，可区别于Fortescue叙事，但本卡未阅原卷。当前这些细节仍是“经Chilcott所见”，不称多源实测。
+
+### S21 — 1815道路作为1805地理代理
+John Cary, *Cary's New Itinerary*, sixth edition with improvements (London: J. Cary, 1815)。书名页PDF9已看影像确年；不是网上另一1802版。
+- https://archive.org/details/carysnewitinerar00cary ；`downloads/B4_Cary_itinerary_scan.pdf`，doc `dce337aeb229`；SHA256 `dce337aeb229c225b769b987e8d9011e52ad14f2245df4b0a290902a72d089af`。同版OCR文件保留取得时名称`B4_Cary_itinerary_edition_unverified.txt`，现已核其为1815。
+- 已看纸本pp.11–12/PDF206、p.50/PDF225、p.84/PDF242、pp.535–536/PDF468、p.546/PDF473的表格影像；各PDF含两印刷栏页，不能将栏号当PDF页。
+- London Bridge—Hythe67英里，沿线Maidstone34英里3弗隆、Ashford54英里4弗隆；Westminster Bridge—East/South Bourne60英里4弗隆；Whitechapel—Chelmsford28英里7弗隆、Colchester51英里、Harwich71英里5弗隆、St Osyth62英里；Hyde Park Corner—Weymouth127英里6弗隆。
+- 1英里=8弗隆。路线差值仅在同一路线和同一起点相减；不混用伦敦四处计量起点。将此地理代理移用到1805以及步兵15–20英里/日、出动/整顿延迟和±20%距离压力测试均为本卡模型假设，不是Cary给出的军队行军成绩。未证明1805桥宽、路况、运量和驻营数量。
+
+### 增补来源审计的实际结果
+S18–S21承载的七项关键陈述列于`B4_supplement_evidence.csv`。`B4_source_audit.json`的同源审计判定为三项SINGLE_SOURCE、四项SINGLE_SOURCE_SECONDARY：**当前都是孤证链，而非七项独立互证**。所列刊本、单一研究或地理表可以支持“据该文所载”或条件模型，不能支撑全称性能断言。脚本只检查字段和来源组，未证明事实真值、原件可靠性或反事实可达性。

@@ -1,0 +1,38 @@
+# IT3 笔记一：工作区已缓存材料摘录（教廷·教会·犹太）
+
+约定：【事实】=文书或来源记载；【文献推断】=作者论点带归属；【转引】=二手引一手，未亲读原件。所有 downloads/ 路径相对项目根。
+
+## A. Hicks《Napoleon and the Pope》（Fondation Napoléon 综述，downloads/pages/efa0bb62bc3b.md，上一轮t_b09c54已核）
+
+1.【事实（Hicks叙述+Correspondance générale编号）】1801-07专约签署；组织条款(Organic Articles)未经谈判单方附加，"added to the agreement without Pius' knowledge"，库里亚感觉被骗（"duped"）。组织条款两大痛点（Hicks注1）：他教与天主教平等地位＋允许离婚。
+2.【事实】1805-10 Gouvion St-Cyr部队占领安科纳（防英登陆）；1805-11-13庇护七世致函抗议；拿破仑1806-01-07自慕尼黑回信（CG no.11268），斥教廷纵容英俄代理人，自称"教会长子"。
+3.【转引（Hicks引二帝国通信编者删除段）】1806-02-13致教皇（CG no.11445）："Your Holiness is sovereign in Rome, his relations with me are the same as those your predecessors with Charlemagne. You are sovereign in Rome, but I am its Emperor."
+4.【转引（CG no.11450，1806-02-14致Fesch）】"我就是查理曼，教会之剑，他们的皇帝……若他不答复，我将把他贬回查理曼之前诸前任的地位。"
+5.【事实（Hicks引教皇1806-03-21复函）】"以宗徒的坦率回答：圣父在其国中不承认也从未承认任何高于自身的权力，任何皇帝对罗马没有任何权利。"——教皇对"皇帝宗主权"主张的正面拒绝。
+6.【转引（Melchior-Bonnet 1958 p.87）】拿破仑1806年语："Les prêtres catholiques sont d'un grand secours; ils ont été cause que la conscription de cette année a été beaucoup mieux que celle des années précédentes… Aucun corps de l'État ne parle aussi bien qu'eux du gouvernement."——教士是征兵合规的第一宣传机器（供F5/F2接口）。
+7.【事实】升级序列：1808-02-02 Miollis占罗马→1808-04-02 Urbino/Ancona/Macerata/Camerino并入意大利王国→1809-05 罗马并入帝国→1809-06-10/11绝罚简函→1809-07-05/6 Radet绑架教皇（拿破仑事前信件"Si le Pape prêche la révolte on doit l'arrêter"[转引Melchior-Bonnet p.122]，事后对Fouché称逮捕是"absolute madness"但不放人）→萨沃纳(1809–12)→枫丹白露(1812–14)。
+8.【文献推断（Hicks结论）】"in the long battle of wills … it was the Pontiff who would triumph in the end."
+
+## B. 《Quum memoranda》1809-06-10（梵蒂冈官网意大利文，downloads/pages/282993960dad.md，上一轮已核）
+
+9.【事实】绝罚对象为"命令者、支持者、顾问、附从者、执行参与者"，未逐字点名拿破仑。
+10.【事实】文书同时命令"nessuno ardisca recare danno … o ai loro beni, diritti o prerogative"——禁止伤害被绝罚者人身财产。**绝罚≠号召武装叛乱**。
+11.【事实】教皇论证世俗主权是"保障教会最高首脑自由、安全行使精神职务"的条件——世俗权为精神独立之工具性论证。
+
+## C. Caiani 2019《The Concile National of 1811》（JEH 70(3)，downloads/pages/e6ebb5ba44b2.md，上一轮已核）
+
+12.【文献推断】"the failure of the concile national was not strategic, but tactical."——帝国方战略上几乎得手，战术（羞辱、时限、拘捕）失败。
+13.【文献推断】"Most bishops were moderates, who hoped that the council would present an opportunity for discussion, and that a new concordat might result."——主教团多数是中间派，非忠帝/忠教皇二元。
+14.【事实（经Caiani）】1811-05-19萨沃纳谈判笔记未签署："From a legal standpoint, the note was unsigned and thus valueless."教皇随后撤回部分内容。
+15.【事实（经Caiani）】1811-03代表团方案：教皇居罗马但宣誓，或居阿维尼翁/巴黎；独立外交通信；提名后六个月内授职否则由都主教授职。
+16.【文献推断】"the concile's favourable verdict was the outcome of physical coercion and psychological intimidation."（拘捕de Broglie/Hirn/Boulogne三主教后复会取得的决议）。
+17.【档案谱系（转引Caiani）】AN AF IV 1047 d.2、1048 d.2 nos 123–124；ASMi Culto p.m. 2540。未阅原卷。
+
+## D. Grab《Napoleon and the Transformation of Europe》全文缓存（downloads/pages/2ad693d5ac13.md）
+
+### D1 法国专约（L1137–1225）
+18.【事实】1801-07专约：天主教＝"绝大多数法国公民的宗教"（拒绝国教地位）；教皇承认教产买主；主教全体换届（拒誓派与立宪派一并撤换）；第一执政提名主教、教皇授职；下级教士由主教任命须政府批准；国家发薪；效忠宣誓。
+19.【事实】组织条款77条：教皇文书/使节入境须政府许可；设10总主教区、60主教区、约3000堂区（每县一堂）；1802-04立法院通过；Portalis任宗教事务部长。
+20.【转引（Grab引拿破仑）】"By turning Catholic I ended the war in the Vendée, by becoming a Moslem I established myself in Egypt, by becoming an ultramontane I won the Italians. If I were governing a country of Jews, I would rebuild the temple of Solomon."——宗教工具主义自白。
+21.【事实】犹太政策序列：1806阿尔萨斯债务延付一年→1806名流会议→1807大议会(Grand Sanhedrin)宣布犹太人履行公民义务→1808设consistoires（区域委员会+巴黎中央+首席拉比）＋"耻辱法令"限制放贷＋强制姓氏。
+22.【事实】1806-03帝国教理问答(Imperial catechism)设立（Hicks文侧证），与政教冲突同月升级。

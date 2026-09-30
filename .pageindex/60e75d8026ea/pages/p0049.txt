@@ -1,0 +1,24 @@
+        (a) Spindles per ’000 inhabitants, 1803        (b) Spindles per ’000 inhabitants, 1812
+
+                       Figure 3: Variation used: short-run regressions
+
+Notes: "X" denotes missing or dropped observations. Departments observed for only one
+time period not shown to ensure comparability of the graphs across the two time periods.
+Scale not comparable across time periods.
+
+
+
+
+        (a) Spindles per ’000 inhabitants, 1840 (b) Spindles per ’000 inhabitants, 1887
+
+                 Figure 4: Variation used: long-run persistence regressions
+
+Notes: "X" denotes missing or dropped observations. Departments not observed in 1812 not
+shown as these are missing from the regressions as the regressor of interest is not observed.
+Haut-Rhin and Bas-Rhin were ceded to Germany 1871 - 1918. Data for 1887 is not available
+for these latter departments. Scale not comparable across time periods.
+
+
+
+
+                                                  49

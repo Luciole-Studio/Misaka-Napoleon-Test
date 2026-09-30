@@ -1,0 +1,75 @@
+
+
+- Culture
+
+- [View all Culture](https://www.theguardian.com/culture)
+- [Books](https://www.theguardian.com/books)
+- [Music](https://www.theguardian.com/music)
+- [TV & radio](https://www.theguardian.com/tv-and-radio)
+- [Art & design](https://www.theguardian.com/artanddesign)
+- [Film](https://www.theguardian.com/film)
+- [Games](https://www.theguardian.com/games)
+- [Classical](https://www.theguardian.com/music/classicalmusicandopera)
+- [Stage](https://www.theguardian.com/stage)
+
+- Lifestyle
+
+- [View all Lifestyle](https://www.theguardian.com/lifeandstyle)
+- [Fashion](https://www.theguardian.com/fashion)
+- [Food](https://www.theguardian.com/food)
+- [Recipes](https://www.theguardian.com/tone/recipes)
+- [Love & sex](https://www.theguardian.com/lifeandstyle/love-and-sex)
+- [Health & fitness](https://www.theguardian.com/lifeandstyle/health-and-wellbeing)
+- [Home & garden](https://www.theguardian.com/lifeandstyle/home-and-garden)
+- [Women](https://www.theguardian.com/lifeandstyle/women)
+- [Men](https://www.theguardian.com/lifeandstyle/men)
+- [Family](https://www.theguardian.com/lifeandstyle/family)
+- [Travel](https://www.theguardian.com/travel)
+- [Money](https://www.theguardian.com/money)
+
+-
+
+Search input
+
+google-search
+
+Search
+
+- [Support us](https://support.theguardian.com?acquisitionData=%7B%22source%22:%22GUARDIAN_WEB%22,%22componentType%22:%22ACQUISITIONS_HEADER%22,%22componentId%22:%22side_menu_support%22%7D&INTCMP=side_menu_support)
+- [Print subscriptions](https://support.theguardian.com/subscribe/weekly?REFPVID=undefined&INTCMP=undefined&acquisitionData=%7B%22source%22%3A%22GUARDIAN_WEB%22%2C%22componentId%22%3A%22PrintSubscriptionsHeaderLink%22%2C%22componentType%22%3A%22ACQUISITIONS_HEADER%22%2C%22referrerUrl%22%3A%22%22%7D)
+
+-
+
+- [Search jobs](https://jobs.theguardian.com)
+- [Holidays](https://holidays.theguardian.com?INTCMP=holidays_int_web_newheader)
+- [Digital Archive](https://theguardian.newspapers.com)
+- [Guardian Licensing](https://licensing.theguardian.com/)
+- [Live events](https://www.theguardian.com/guardian-live-events?INTCMP=live_int_header_dropdown)
+- [About Us](https://www.theguardian.com/about)
+- [The Guardian app](https://app.adjust.com/16xt6hai)
+- [Video](https://www.theguardian.com/video)
+- [Podcasts](https://www.theguardian.com/podcasts)
+- [Pictures](https://www.theguardian.com/inpictures)
+- [Newsletters](https://www.theguardian.com/email-newsletters)
+- [Today's paper](https://www.theguardian.com/theguardian)
+- [Inside the Guardian](https://www.theguardian.com/insidetheguardian)
+- [Guardian Weekly](https://www.theguardian.com/weekly?INTCMP=gdnwb_mawns_editorial_gweekly_GW_TopNav_Int)
+- [Crosswords](https://www.theguardian.com/crosswords)
+- [Wordiply](https://www.wordiply.com)
+- [Corrections](https://www.theguardian.com/theguardian/series/corrections-and-clarifications)
+- [Tips](https://www.theguardian.com/tips)
+
+-
+
+Search input
+
+google-search
+
+Search
+
+- [Search jobs](https://jobs.theguardian.com)
+- [Holidays](https://holidays.theguardian.com?INTCMP=holidays_int_web_newheader)
+- [Digital Archive](https://theguardian.newspapers.com)
+- [Guardian Licensing](https://licensing.theguardian.com/)
+- [Live events](https://www.theguardian.com/guardian-live-events?INTCMP=live_int_header_dropdown)
+- [About Us](https://www.theguardian.com/about)

@@ -1,0 +1,64 @@
+3306                            THE AMERICAN ECONOMIC REVIEW                        DECEMBER 2011
+
+
+Arellano, Manuel, and Stephen Bond. 1991. “Some Tests of Specification for Panel Data: Monte Carlo
+  Evidence and an Application to Employment Equations.” Review of Economic Studies, 58(2): 277–97.
+Bairoch, Paul. 1988. Cities and Economic Development: From the Dawn of History to the Present.
+  Translated by Christopher Braider. Chicago: University of Chicago Press.
+Bairoch, Paul, Jean Batou, and Pierre Chevre. 1988. The Population of European Cities, 800–1850:
+  Data Bank and Short Summary of Results. Geneva: Librarie Droz.
+Berkowitz, Daniel, Katharina Pistor, and Jean-Francois Richard. 2003a. “Economic Development,
+  Legality, and the Transplant Effect.” European Economic Review, 47(1): 165–95.
+Berkowitz, Daniel, Katharina Pistor, and Jean-Francois Richard. 2003b. “The Transplant Effect.”
+  American Journal of Comparative Law, 51(1): 163–203.
+Blanning, Timothy C. W. 1983. The French Revolution in Germany: Occupation and Resistance in the
+  Rhineland, 1792–1802. Oxford: Oxford University Press.
+Blanning, Timothy C. W. 1986. The Origins of the French Revolutionary Wars. London: Longman.
+Blanning, Timothy C. W. 1996. The French Revolutionary Wars, 1787–1802. New York: St. Martin’s
+  Press.
+Blum, Jerome. 1978. The End of the Old Order in Rural Europe. Princeton, NJ: Princeton University
+  Press.
+Cameron, A. Colin, Jonah B. Gelbach, and Douglas L. Miller. 2008. “Bootstrap-Based Improvements
+  for Inference with Clustered Errors.” Review of Economics and Statistics, 90(3): 414–27.
+Connelly, Owen. 1965. Napoleon’s Satellite Kingdoms. New York: Free Press.
+de Vries, Jan. 1984. European Urbanization, 1500–1800. Cambridge, MA: Harvard University Press.
+Diefendorf, Jeffry. 1980. Businessmen and Politics in the Rhineland, 1789–1834. Princeton, NJ: Princ-
+  eton University Press.
+Doyle, William. 1989. The Oxford History of the French Revolution. Oxford: Oxford University Press.
+Ellis, Geoffrey. 2003. The Napoleonic Empire. New York: Palgrave Macmillan.
+Engerman, Stanley L., and Kenneth L. Sokoloff. 1997. “Factor Endowments, Institutions, and Dif-
+   ferential Paths of Growth among New World Economies: A View from Economic Historians of the
+   United States.” In How Latin America Fell behind: Essays on the Economic Histories of Brazil and
+   Mexico, 1800–1914, ed. Stephen Haber, 260–304. Stanford, CA: Stanford University Press.
+Epstein, Stephan R. 1998. “Craft Guilds, Apprenticeship, and Technological Change in Preindustrial
+   Europe.” Journal of Economic History, 58(3): 684–713.
+Esdaile, Charles J. 1996. The Wars of Napoleon. New York: Longman.
+Esdaile, Charles J. 2001. The French Wars, 1792–1815. New York: Routledge.
+Fisher, Herbert A. L. 1903. Studies in Napoleonic Statesmanship: Germany. Oxford: Clarendon Press.
+Frank, Harald. 1994. Regionale Entwicklungsdisparitten im Deutschen Industrialisierungsprozess
+   1849–1939: Eine Empirisch-analytische Untersuchung. Muenster: Lit.
+Gates, David. 1997. The Napoleonic Wars, 1803–1815. New York: Edward Arnold Publishers.
+Grab, Alexander. 2003. Napoleon and the Transformation of Europe. New York: Palgrave Macmillan.
+Greif, Avner. 2006. Institutions and the Path to the Modern Economy: Lessons from Medieval Trade.
+   Cambridge: Cambridge University Press.
+Harrison, Lawrence E., and Samuel P. Huntington. 2000. Culture Matters. New York: Basic Books.
+Hayek, Friedrich. 1960. The Constitution of Liberty. Chicago: Chicago University Press.
+Kisch, Herbert. 1989. From Domestic Manufacture to Industrial Revolution: The Case of the Rhine-
+   land Textile Districts. Oxford: Oxford University Press.
+Landes, David. 1969. The Unbound Prometheus. Cambridge: Cambridge University Press.
+La Porta, Rafael, Florencio Lopez-de-Silanes, Andrei Shleifer, and Robert W. Vishny. 1998. “Law and
+   Finance.” Journal of Political Economy, 106(6): 1113–55.
+Lindberg, Erik. 2009. “Club Goods and Inefficient Institutions: Why Danzig and Lübeck Failed in the
+   Early Modern Period.” Economic History Review, 62(3): 604–28.
+Lyons, Martyn. 1994. Napoleon Bonaparte and the Legacy of the French Revolution. New York: St.
+   Martin’s Press.
+Mokyr, Joel. 2003. “Industrial Revolution.” In Oxford Encyclopedia of Economic History, ed. Joel
+   Mokyr. Oxford: Oxford University Press.
+Ogilvie, Sheilagh. 2004. “Guilds, Efficiency, and Social Capital: Evidence from German Proto-indus-
+   try.” Economic History Review, 57(2): 286–333.
+Ogilvie, Sheilagh. 2007. “Can We Rehabilitate the Guilds? A Sceptical Re-Appraisal.” University of
+   Cambridge Working Paper in Economics 2007.
+Olson, Mancur. 1982. The Rise and Decline of Nations: Economic Growth, Stagflation, and Social
+   Rigidities. New Haven, CT: Yale University Press.
+Palmer, Robert R. 1959. The Age of Democratic Revolution. Vol. I: The Challenge. Princeton, NJ:
+   Princeton University Press.

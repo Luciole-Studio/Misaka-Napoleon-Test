@@ -1,0 +1,43 @@
+for government finances.
+
+
+For instance, severe territorial losses and their impact on an economy’s tax base or im-
+minent reparation payments (Oosterlinck, 2012) could become prohibitive. A war could,
+hence, push an economy to a point, its fiscal limit, were the government would not be
+able to finance its expenditures any more. Once an economy’s fiscal limit was reached,
+default or devaluation induced inflation would become inevitable.
+
+
+Rather than being a fixed point, an economy’s fiscal limit could be thought of as a dis-
+tribution affected by various factors. The latter included contingencies that were beyond
+a government’s domain of influence and that a government, thus, could simply not com-
+mit to (Bi, 2012; Trabandt and Uhlig, 2011). Moreover, as the outcome of a war was
+often well be beyond a government’s will, it was difficult to convince people that public
+finances would remain sustainable under all circumstances.5
+
+
+The above did not necessarily entail that governments or central banks were not credible
+in their policy commitments. On the contrary, the soundness of British institutions at
+the time was broadly established (Bordo and Kydland, 1995). Yet, given the economic,
+political, and institutional uncertainties induced by war, agents would nonetheless try to
+incorporate all available information that could help anticipate the future state of public
+finances, and, hence, the aggregate price level. This was a rational strategy irrespective
+of the government’s initial commitment to sound fiscal and monetary policies.
+
+
+
+
+3        Related Literature
+
+Two analytical frameworks have been put forward in the economic literature to formal-
+ize the link between people’s expectations of how debt will be stabilized in the future
+and price evolutions today. The first one goes back to seminal contributions by Sar-
+gent (1982) and Sargent and Wallace (1981) and has freely been dubbed the ‘unpleasant
+monetarist arithmetic’. The second approach is owned to Leeper (1991), Sims (1994)
+    5
+        A similar strain of argumentation could be applied to financial crises or any other circumstances
+that entail a surprisingly large burden to an economy’s budget.
+
+
+
+                                                     7

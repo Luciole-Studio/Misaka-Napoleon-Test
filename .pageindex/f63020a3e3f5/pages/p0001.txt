@@ -1,0 +1,43 @@
+# F4｜实读来源、引文与数据说明
+
+## 使用规则
+
+主报告短码及CSV的`source_id`均以下表为准。`MODEL`不是文献，是本卡显式假设；`M;SG`等表示多个机制锚点，不表示模型数值直接见于文献。网页保存的是实际捕获文本，不保证覆盖站点全部内容。OCR明显错字用扫描校勘；未见原档者只写转引。数量史著与回忆录不是独立于其所引账簿的第二份观察。
+
+本轮实读以法语与英语为主，法语来源不止两项；未直接读取德语、荷兰语、意大利语账簿。各区域净成本仍需当地来源检验。
+
+## 核心史著与统计
+
+### M — Marcel Marion，1925原版第四卷
+
+Marcel Marion, *Histoire financière de la France depuis 1715*, tome IV: *1797–1818. La fin de la Révolution, le Consulat et l’Empire, la libération du territoire*, Paris: Librairie Arthur Rousseau, 1925。
+
+- 实读1925扫描，非1965重印的受限借阅页面。封面PDF11已核。
+- 原入口：<https://archive.org/details/histoirefinancir04mari>。
+- PDF：<https://archive.org/download/histoirefinancir04mari/histoirefinancir04mari.pdf>。
+- 保存：`downloads/F4_Marion_IV_1925.pdf`；doc `1f18be55f219`；464 PDF页。OCR另存`downloads/F4_Marion_IV_1925.txt`，仅为导航。
+- 阅读选择：印刷pp.295–313、313–329、340–351相关段、362–364、416–419；非全卷通读。该范围PDF页一般＝印刷页＋20。
+- 核图重点：印刷302、304、305、306、321、322、324；据影像修1807烟草13.853495→13.353495、An XIV烟草24.268→24.258、1808登记净180.809→180.869、1810非常关税61.040→61.046、总收入980→986及780→786、1808军款385.529→335.529。后四等错误来自OCR，不把校勘包装为新史实发现。
+- 承重内容：预算/实收及应收/现金口径、直接税/附加税、间接税毛净、借款及军费冲突、兼并地区收支、1818会计断点。
+- 立场限制：作者强烈赞扬行政节俭，批评战争与信用偏见；“国家得到明显减负”等是其评价，不是本文采纳的分配结论。
+
+短引（保留原文词序，取消版面换行、统一弯直引号及明显OCR重音）：
+1. p.322：“telles qu’elles étaient prévues pour l’an XIII et pour 1813”——预期税表，不是实收。
+2. p.305注1（图像核读）：“Du moins de droits acquis au Trésor pendant cet exercice, mais sur lesquels il n’avait encore reçu au 1er avril 1811 que 179.634.000”；又“Les chiffres diffèrent selon que l’on compte par année ou par exercice: ainsi pour l’an XIII c’était 172.763.591 pour l’exercice, mais seulement 149.627.795 encaissés pendant les 12 mois de l’an XIII.” 两数同属An XIII，是账期与历年两种口径；本轮据此撤销早前“An XII/An XIII混写”的自我记录（属OCR伪影）。
+3. p.304注1：“Dont, il est vrai, 26 millions de frais.”——烟草43m须扣26m费用。
+4. p.324：“il est quasi impossible de déterminer des chiffres exacts.”——军两部列数自有口径问题，不取平均。
+5. p.321：“le produit de ses contributions ne couvrira même pas les frais de son administration”——所指Simplon，后文解释其意大利交通价值；不能推广为所有新省都亏。
+6. p.419：“leurs produits bruts figurèrent parmi les recettes au lieu des produits nets”——规费毛净列报改变。
+7. p.321（图像核读）：Gaudin 1811-04-30报告最近并合地增收“105 millions au plus”，分荷兰55、Bouches-du-Rhin/Escaut/Bréda 7、三汉萨部20、伊利里亚10、Rome/Trasimène 12.5；另列1812预计并合地342.260.044 bruts、226.389.345 nets，“dont 83 de la Belgique, 66 ½ de la Hollande, 38.791.000 des départements hanséatiques, 37 ½ des départements rhénans, 33 du Piémont, 22 ½ de la Toscane, 16 de la Ligurie, 16 ½ des Etats romains, etc.”。原文未逐项声明毛净；八项和313.791且后有etc.，推断更近毛口径，已在CSV注明。档案出处AF IV 1072为Marion自注，本卡未亲阅。
+
+### BR — Pierre Branda，战争是否养得起战争
+
+Pierre Branda, “Did the war pay for the war? An assessment of Napoleon’s attempts to make his campaigns self-financing,” *Napoleonica. La Revue*, no.3, décembre 2008–février 2009；实读英译15页文本，标题页/页脚见捕获文本。
+
+- DOI入口线索：10.3917/napo.083.0001a（未以DOI版代替所读版本）。
+- 实读公开文字副本：<https://www.scribd.com/document/903628600/Napoleons-Attempts-to-Make-His-Campaigns-Self-Financing>；保存`downloads/pages/906d4b3f363b.md`。
+- 读正文及附表pp.3–15，平台末尾问答/推荐全部排除，不归于作者。捕获页脚位于该页正文之后；此处已将此前误置前一页的定位校正。
+- p.14附表“Details of extraordinary financing”总4284，分1859/1799/503/123；p.13盟军兵日估计。战争部分1799/4284为41.99%，分母仅1803–1814额外战争融资；p.8注9另说以1802–1814全部军费6740为分母，约26%。附表与正文存在383/352、453/454等舍入或转录冲突，采用可配平附表，并不宣称已回查原账。
+- 短引p.13：“The cost amounts to 1.91 francs (pay, equipment, engineering, travel, and military accoutrements included).” 作者经Mollien、Simon de la Rupelle估算，不是本卡核阅军队逐笔成本。
+- p.13：“My calculations do not take account of the quartering days but only the number of days spent in active campaign service”——避免成本表不能充作盟军全年维持费用。
+- p.14：“Savings (allied contingents and troops maintained at the expense of allied states)”——383不是法国收到的现金。

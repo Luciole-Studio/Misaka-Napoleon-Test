@@ -1,0 +1,45 @@
+                                                 - 16 -
+
+        What is a plausible range for this welfare cost? The first component (p1m0) is a best
+
+guess and does not change; this also applies to tariff revenue and to B1. The production and
+
+substitution components are subject to greater uncertainty. Columns (2) and (3) present lower
+
+and upper bound calculation based on assumptions about substitution. Column (2) presents a
+
+lower bound calculation in which domestic manufacturers can fully produce what was previously
+
+imported and domestic farmers fully reduce production by the amount that exports decline. This
+
+increases sP from $2.3 to $4.7 million, decreasing the welfare cost to $28 million, or 4 percent of
+
+GNP. Columns (3) an alternative, higher bound calculations on the magnitude of the welfare
+
+loss in which there is no production or consumption substitution at all. This increases the
+
+welfare cost to $38 million, or 5.5 percent of GNP.
+
+        These alternative calculations provide some plausible bounds on the likely true welfare
+
+cost of the embargo. The welfare cost appears to be centered around 5 percent of GNP, but
+
+could be as low as 4 percent or as high as something closer to 6 percent. In 1807, merchandise
+
+exports and net shipping receipts were about 13 percent of GNP.
+
+        In two classic papers on the cost of protection, Johnson (1960, 1965) presents some
+
+different calculations that lend some support to these magnitudes. Johnson (1965) used a
+
+constant elasticity of substitution utility function and a general specification for the production
+
+transformation curve to arrive at the costs of self-sufficiency (autarky) in a computable two-
+
+sector general equilibrium model. In the case where the share of national income spent on
+
+importables under free trade is 0.20 and the elasticity of substitution in consumption between
+
+importables and exportables is 0.5, for example, then a tariff of 76 percent would be sufficient to
+
+induce autarky at a welfare loss of 5.2 percent of free trade utility level. If the elasticity of

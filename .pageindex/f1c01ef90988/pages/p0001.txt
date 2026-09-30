@@ -1,0 +1,36 @@
+# C13独立证据札记：1806英法谈判／1808埃尔福特邀请
+
+用途：证据移交，不是主报告。工具预算20次内。先读并复用 `../t_3dc3c2/peace_evidence.md`，以下明确区分本轮亲读、转引与未核。
+
+## 1. 获取与阅读范围
+
+**Butterfield不是不可得。** 已取得 H. Butterfield, *The Peace Tactics of Napoleon 1806–1808*, Cambridge University Press, 1929 的公开OCR，题页、目录、序言及印刷页32–41连续逐段阅读；未校扫描图像，不能声称全书精读。公开全文缓存约90万字符：`downloads/pages/83caafca03de.md`（项目根相对路径）。来源：https://archive.org/stream/peacetacticsofna0000hbut/peacetacticsofna0000hbut_djvu.txt 。关键段为文件约1510–1960行。
+
+【事实·书目范围】序言pp.vii–viii明确以耶拿后普鲁士交涉起笔，以提尔西特体系及英国孤立为主线，止于西班牙新问题开启；不能由题名末年1808推定它详论1808年10月埃尔福特。全文定位Erfurt所得主要是1806战前会议；未完成全书异体词穷尽检查。
+
+用户提供Anna书目MD5：1929版 `5da5adfa946d46c0b2543d1f524e85df`、1972重印 `1eb26aab800f6bee73f137d694dd7973`，本轮未独立核detail，未使用会员下载或额度。
+
+**Hansard 1808文书已从摘录补成连续正文。** 现代站整日HTML成功，No.I–XXI及12月15日声明全段读到，保存 `downloads/pages/5ab65f0d1e5e.md`：https://hansard.parliament.uk/html/Commons/1809-01-20/CommonsChamber 。引用按HC Deb 20 January 1809, vol.12, cc93–105、文书原日期和条号；议会刊日不是通信成文日。
+
+**Hansard 1806文书仍有缺口。** 12月22日PAPERS多次仅返回碎片；不能冒充逐封核完。1月2日上院辩论成功取得连续开头cc259–267及末段cc298–300，缓存 `downloads/pages/85d915a3148f.md`：https://api.parliament.uk/historic-hansard/lords/1807/jan/02/negociation-with-france 。中间未本轮逐段复核。
+
+**Coquelle仅取得碎片，未完成可引用的专题阅读。** P. Coquelle, *Napoléon et l’Angleterre 1803–1813*, Paris, Plon-Nourrit, 1904，公开OCR入口：https://archive.org/stream/napolonetlangl00coqu/napolonetlangl00coqu_djvu.txt 。缓存 `downloads/pages/5d550d2e45a1.md`、`7f18318b3499.md`；仅零散段落，包括p.131“il veut attendre encore, gagner du temps”，上下文、说话者、日期未齐，不用于意图断言。不能以题名或既有印象给作者贴定论标签。与Butterfield的系统对读仍欠缺。
+
+## 2. 1806：Butterfield逐段核读账
+
+以下均【文献推断·Butterfield】；他所引私人信件与档案一律“转引自Butterfield”，不是本轮亲见原件。
+
+|页码／日期|实际读到的内容与短引|证据作用与限制|
+|---|---|---|
+|p.32，1806年秋（概括，无单日）|普鲁士战争促使已拖延的谈判集中到危机；各国并非为共同目标一致续战。|作者因果解释，不是外交文件。避免以统一“反法联盟意志”抹平分歧。|
+|p.33，1806年夏及Oubril条约后|Budberg反对Oubril使团；作者称其拒约行为几乎是挑战。|“panic”“tore it up”等为作者评语，不能按字面写成批准程序事实。作者引De Maistre回忆及英使报告。|
+|p.34，拒约后的Budberg致Talleyrand说明，原信日期本段未载|要求法国撤离Dalmatia及Albania、补偿撒丁王、西西里留合法君主，可能还原那不勒斯；英法未和则俄法亦不和。|脚注Sbornik, vol.82, pp.459–461，转引；条件清单较上院政治概括更细，未亲见俄方原文。|
+|pp.34–35，Stuart报告：1806-10-07 No.34；10-11 No.35|Budberg否认其信是新提议：只是“a mere recapitulation of terms”；要求法国先重新开口。|转引FO Russia 65/64。**英国将俄方条件当作代谈授权的基础，俄方并不接受这种解释。** p.34另见“31 Sept.”，保留为OCR／原刊疑点，不造一个有效日期。|
+|pp.35–36，1806-10-11|Budberg称“Holland remained in the possession of France”则无欧洲安全和平，并期待那不勒斯局势改善。|这是俄国部长经英国使者转述的立场，不能错派给Fox或英国全体；法国占有荷兰亦不能自动译作正式并合。|
+|p.37，1806年8月派Lauderdale|作者驳斥“Fox病重后Grenville派强硬使者破坏和平”：Fox支持抵制法国及派使。|引Dropmore Papers VIII pp.85,105,195,217–218；Fox致Bedford 1806-04-26，Russell编IV p.136：“no difference or even a shade of difference in the Cabinet”。均转引。作者同时使用“insincerity”“sharp practices”等强烈反拿破仑措辞，应保留其论战性质。|
+|p.38，Fox去世前|作者称Fox已否定与拿破仑达成安排的可能，并说Lauderdale曾比Fox更急于和平。|依据Holland, Memoirs of the Whig Party II (1854), p.77起，属**回溯性**材料。正文“latter part of September”不能当可靠死亡日；本稿不据之登记具体日期。|
+|p.39，1806-09-10训令|Windham致Lauderdale No.6，指示在英方框架内兼谈俄国事务。|转引FO France 27/74、Dropmore VIII pp.321–324；是英方指令，**不是俄皇正式全权证书**。|
+|p.40，1806-09-26，Lauderdale致Spencer No.15、No.16|Champagny称若一周内英法和平，可阻止普法战争；英使则坚持俄法和平为英法和平的“sine qua non”，先讨论俄国问题。|转引FO France 27/74；No.16在Parliamentary Debates VIII cc193–195刊不全，另见cc197–198。不能把刊本无某段当作原报告无该段。|
+|pp.40–41，1806-09-10至10-01|作者称英方随形势改善提高条件，英使因俄国问题已使会谈失败而未再动用新增要求。|说明最终破裂议题≠政府全部最低条件。作者也明确承认双方都在经营破裂责任。|
+|p.41，1806-09-26私信|Lauderdale致Grenville：“I have given the negotiations as much as possible the appearance of going off on Russian objects”——目的“of binding Russia more closely.”|转引Dropmore Papers VIII p.358。**最强反证：俄国问题既是真实约束，也是英方联盟宣传选择。** 不能由此倒推俄国条件全是借口。|
+|p.41，1806-09-22／09-29|Grenville私信认为Buenos Aires征服难退，欲计入uti possidetis；9月29日甚至预计一年内取得全部西属美洲，换那不勒斯。|转引Dropmore VIII p.352、pp.366–367。这是当时英国政府的预期，不是后来结果；证明实际占有基准会被新战果及投机性期待改变。|

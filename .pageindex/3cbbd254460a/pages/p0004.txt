@@ -1,0 +1,37 @@
+were used in urban centres (more if only the share of adult horses is calculated).3 This
+amount of horses clearly should be deducted from the total horse stock when we estimate
+the number of horses used for draught power in agriculture. The local investigations of 1916
+usefully divided the horses into two different uses: workhorses, and riding horses and
+carriage horses. On average 1916-1918 the workhorses amounted to 53% and the riding and
+carriage horses 4% of total horses.
+
+
+The procedure for reaching an estimate of agricultural workhorses has been the following:
+    1. Start with the total number of horses
+    2. Deduct young horses below 3 years. This figure is generally recorded in statistics and
+         the share is around 15-16%.
+    3. Deduct horses used in the cities, for transportation and industry. In 1901 this was
+         4.4%.
+    4. Deduct riding horses and carriage horses in the countryside. Only part of the 4%
+         that were categorized as riding and carriage horses were used in the cities. Some
+         indication of the proportion of heavy workhorses and light riding horses among the
+         city horses is provided for a few cities in the local investigations. In Malmö 61%
+         were heavy workhorses, but in Filipstad and Luleå there were only working horses.
+         We thus assume that some 3% of the total were riding horses and carriage horses in
+         the countryside.4
+    5. Deduct horses used for military purposes. They were around 2%.5
+    6. Deduct horses in the countryside that were mainly used for transportation and
+         industry. The number of horses used for personal transportation during
+         skjutsväsendet was only around 1 000 - 3 000 horses, thus less than 1% of the total.
+         However the total use of horse and oxen time for transportation and industry (work
+         other than agricultural work) has been estimated to be 10% of adult working horses.6
+
+20% of the horses aged over three years were deducted on the basis that they were used for
+non-agricultural work.
+
+3 BiSOS series Q, Agriculture, 1901.
+4 BiSOS series Q, Agriculture, 1901.
+5 Kocken, ’Krigshästen från äldsta tider’; Ribbing, ’Hästen i vår nuvarande armé’; Furugren, ’Arbetshästen och
+
+svensk hästavel.
+6 Krantz, Transporter och kommunikationer.

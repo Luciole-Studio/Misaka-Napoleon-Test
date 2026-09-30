@@ -1,0 +1,28 @@
+
+
+Overall, the detected break dates coincide with events that prompt a revision of expectations regarding public finances. The events come from a close reading of contemporary newspapers and are corroborated by an analysis of ledgers in the archives of the Bank of England, which clearly link military and political events to the evolution of asset prices. It is reassuring that practically all estimated break dates are also mentioned in the ledger (see section on archival evidence).
+
+### Interest Rates on Public Debt
+
+The agio did not fluctuate between May 1802 and October 1808 (see Figure 1). Data are available until October 1805. For the period spanning the years from 1805 to 1808 the agio's stability simply reflects the lack of observations. I, therefore, study another series that captured contemporaries' expectations of how debt would be stabilized. In particular, (war-related) news that came with fiscal consequences should have affected the interest rate at which the Treasury borrowed in the same way it influenced the agio.
+
+Figure 7 displays the evolution of the market yield on 3 percent consolidated annuities, the Consol, between January 1805 and December 1808. The latter formed the largest part of Britain's funded debt before WWI and were the benchmark instrument of British debt management over the period.Footnote 41 Consols were a perpetual bond, for which holders received a 3 percent coupon. The yield of a consol equaled interest payments as a percentage of the market price. In the absence of default risk, yields, thus, reflected price movements on the secondary market that primarily incorporated investors' expectations of inflation (Chamley Reference Chamley2011). Table 5 shows the break dates estimated on a sample of 1250 daily observations, and provides confidence intervals and parameter estimates. The detected break dates coincided with the following events:
+
+Figure 7
+
+BREAK DATES FOR THE YIELD ON CONSOLS, DAILY DATA, JANUARY 1805 TO DECEMBER 1808
+
+Notes: Dashed lines highlight the detected break dates; the shaded areas represent the 95 percent asymmetric confidence intervals.
+Sources: Author's calculations.
+
+Table 5
+
+BREAK DATES FOR THE YIELD ON CONSOLS, DAILY DATA–JANUARY 1805 TO DECEMBER 1808
+
+## Sources:
+
+Author's calculations, data see text.
+
+14 November 1805: News regarding the British victory at Trafalgar (21 October) reached London on the 6th of November.Footnote 42 As the French and Spanish fleets were almost completely destroyed, the victory averted the danger of French invasion and established Britain's naval supremacy. Against this background, it was expected that Prussia would assist the coalition against Napoleon, at the very least, by acting as a mediator between the belligerents.Footnote 43 In line with these events, the yield on consols declined to 5 percent.
+
+14 June 1806: No military or political events occurred at this exact date. The London Times, however, mentioned that the price of consols rose substantially, entailing a decline in yields to 4.8 percent, since peace negotiations with France were expected to begin.Footnote 44

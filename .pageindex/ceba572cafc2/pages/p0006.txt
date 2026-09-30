@@ -1,0 +1,21 @@
+
+
+The years following 1797 saw the Second, Third, and Fourth Coalition Wars against France. France prevailed in military terms. Yet, Napoleon's attempt to undermine British trade by initiating the Continental Blockade (21 November 1806) remained unsuccessful especially given the defeat of the French fleet at Trafalgar (October 1805). This British victory also averted the danger of a French invasion. Hostilities intensified further when Napoleon initiated the Peninsular War to punish the Portuguese for not enacting the Continental System against the British. French and Spanish troops invaded Portugal in November 1807. Napoleon turned on his former ally by attacking Spain in February 1808. The year 1809 proved disastrous in military terms for the British, on all war fronts. Over the first quarter of the year, the French occupied northern Portugal and forced the British to evacuate Spain. In July, the Fifth Coalition of Austrian- and British-led forces was defeated at the battle of Wagram. By the end of the year, the French beat the remaining forces in the south of Spain; the area being taken in the following winter, leading to French control in most of the Iberian Peninsula. By 1810, French victory seemed possible.
+
+During these years, the paper pound's exchange rates into gold and foreign currencies started depreciating. Figure 2 depicts both the agio and the pound's exchange rate on Hamburg. Before the suspension of the gold standard (shaded area) and even during the first years of the latter, both metrics fluctuated in relatively narrow bands: de- or appreciations of the paper pound hardly ever exceeded 10 percent. Beginning in 1809, the agio and the exchange rate experienced marked declines, peaking at 50 and 30 percent, respectively. Ex-post constructed price indices, shown in Figure 3, exhibited the same pattern. Both series increased substantially with the suspension and particularly after 1809 and declined—albeit more gradually—after the resumption of the gold standard in 1821.
+
+Figure 2
+
+AGIO, 1750–1850; EXCHANGE RATE HAMBURG: SCHILLING PER POUND STERLING, TWO MONTHS' USANCE, 1750–1825. FOR BOTH INDICES JAN 1797=100
+
+Notes: The shaded area marks the suspension of the gold standard from 1797 to May 1821.
+Sources: Neal 1990; Boyer-Xambeu et al. 1994.
+
+Figure 3
+
+PRICE INDICES, 1800=100, 1750–1850
+
+Notes: The shaded area marks the suspension of the gold standard from 1797 to May 1821.
+Sources: Broadberry et al. 2012; Clark 2014.
+
+These changes in the agio and in prices prompted the government to appoint an investigating committee, which published its work in 1810 as the Bullion Report. According to the report, rising prices and falling exchange rates had a common source in the Bank of England issuing too many notes.Footnote 7 Notes were issued to buy the government debt, which in turn was used to finance the Napoleonic Wars. This would have been impossible had the Bank of England retained its obligation to convert its liabilities into bullion.

@@ -1,0 +1,53 @@
+                                      Table 3: Falsification tests
+                                    Pre-treatment period: 1794-1803               Treatment period: 1803-1812
+
+                                     (1)        (2)             (3)             (4)        (5)        (6)        (7)
+                                    Spind.     Spind.          Spind.           K/L       Mach.      Wool      Leather
+
+ Effective distance                  5.89       3.32            2.08            -0.07      -0.02     -2.25        -0.02
+                                     0.18       0.10            0.06           -0.07      -0.06     -0.07        -0.13
+                                    (2.94)     (3.56)          (4.90)          (0.26)     (0.10)    (2.93)       (0.01)
+                                    {3.22}     {4.01}          {5.69}                               {3.11}
+ Market potential X 1812                        12.08            9.47
+                                               (5.85)          (8.93)
+ Streams X 1812                                                 -0.10
+                                                               (0.53)
+ Coal X 1812                                                    2.53
+                                                               (3.23)
+ Knowledge access X 1812                                        4.93
+                                                               (5.74)
+ Literacy X 1812                                                0.44
+                                                               (3.33)
+
+ Time FE                             Yes        Yes             Yes             Yes        Yes        Yes         Yes
+ Department FE                       Yes        Yes             Yes             Yes        Yes        Yes         Yes
+ Observations                        176        176             126              78         74        138         116
+ Adjusted R-squared                  0.19       0.21            0.15            0.32       0.11       0.18        0.05
+ Num. clusters (dept)                 88         88              63              39         37         69          58
+ Num. clusters (gen)                  40         40              30              23         21         32          28
+ Columns (1) - (3): Pre-treatment trends test for mechanized cotton spinning. Columns (4) - (5): Falsification test for
+other outcome variables in mechanized cotton spinning. Columns (6) - (7): Placebo test for two other industries; wool
+spinning and leather tanning. Dependent variable in Columns (1) - (3): Number of spindles per thousand inhabitants
+in department i in 1794 and 1803. Departmental population held constant at its 1811 level. Column (4): Capital-labor
+ratio in mechanized cotton spinning in department i at time t measured as the log number of spindles per unit of labor
+employed. Column (5): Capacity in different vintages of machines measured as the proportion of spindles used in mule
+jennys relative to spindles in “filatures continus” in department i at time t. Column (6): Labor employed in woolen
+spinning per thousand inhabitants in department i at time t. Employment measured in 1792 and 1811. Column (7):
+Number of leather tanning firms in department i at time t. Number of firms measured in 1794 and 1811. Effective
+distance is calculated as the natural logarithm of the shortest route to London for each department i at time t. Controls
+(all interacted with an indicator variable which takes the value of one in 1812 and is zero otherwise): Literacy measured
+as the proportion of men able to sign their wedding certificate in 1786; Coal is the inverse of log distance to the closest
+coalfield, Streams is defined as the natural logarithm of mean streamflow (m3/s); Knowledge access is defined as market
+access to universities in 1802; Market potential is defined as market access to urban population in 1800. The number of
+observations differ across columns (1) - (3) because of missing observations for the literacy measure. Columns (5) - (6)
+are estimated on the subsample of departments with positive spinning capacity in both 1803 and 1812. The dependent
+variable is only defined for these departments. Sample size differs across columns as not all departments reported labor
+employed and the type of machine used. Columns (6) - (7) are estimated on the largest sample for which the data
+are available. For further details on the data, see Appendix A.3. Standardized coefficient in italics. Standard errors
+clustered at the level of the department in parentheses, standard errors clustered by généralités in curly brackets. The
+latter is not reported in cases where the number of généralités is less than 30.
+
+
+
+
+                                                           44

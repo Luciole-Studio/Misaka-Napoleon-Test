@@ -1,0 +1,31 @@
+---
+source_url: "https://lwl.org/aufbruch-in-die-moderne/LWL/Kultur/Aufbruch/popups/politik/verfassung/abschaffung_privilegien/berding/index2_html.html"
+final_url: "https://lwl.org/aufbruch-in-die-moderne/LWL/Kultur/Aufbruch/popups/politik/verfassung/abschaffung_privilegien/berding/index2_html.html"
+sha256: "137c402f2d48425e69c0580385b9452ed1cc6b91d64774d17c7886f6448c405b"
+text_sha256: "e6033ef3ca7161b2a010c7b66c9e27879d51aa968271154727bf9b81366cced4"
+title: "LWL - Kultur - Ausz\ufffdge aus Berding"
+---
+
+Title: LWL - Kultur - Ausz�ge aus Berding
+
+[ [Start](https://lwl.org/aufbruch-in-die-moderne/LWL/Kultur/Aufbruch/start_html/index_html.html) | [Politik](https://lwl.org/aufbruch-in-die-moderne/LWL/Kultur/Aufbruch/popups/politik/index2_html.html) | [Verfassung](https://lwl.org/aufbruch-in-die-moderne/LWL/Kultur/Aufbruch/popups/politik/verfassung/index2_html.html) | [Abschaffung adeliger Privilegien](https://lwl.org/aufbruch-in-die-moderne/LWL/Kultur/Aufbruch/popups/politik/verfassung/abschaffung_privilegien/index2_html.html) | [Ausz�ge aus Berding](https://lwl.org/aufbruch-in-die-moderne/LWL/Kultur/Aufbruch/popups/politik/verfassung/abschaffung_privilegien/berding/index2_html.html) ]
+
+Aus: Helmut Berding, Das K�nigreich Westphalen als napoleonischer Modell- und Satellitenstaat (1807�1813), Vortragsmanuskript (wird 2005 ver�ffentlicht in einem Tagungsband):
+
+�In Westphalen war es der grundbesitzende Adel, der den ersten Platz in der Gesellschaft einnahm und zwangsl�ufig in nahezu allen Bereichen des �ffentlichen Lebens seine Dominanz zur Geltung brachte. Aus seinen Reihen rekrutierten sich die meisten Mitglieder der westph�lischen Regierung und des Staatsrats. Er spielte eine bestimmende Rolle in der Verwaltung, auf ihm lag auch, da er die Liste der H�chstbesteuerten anf�hrte, das Schwergewicht in den Reichsst�nden. Folglich konnte das neue Regime nicht auf die Unterst�tzung dieser sozialen F�hrungsschicht verzichten. So blieb die Grundherrschaft, die materielle Basis ihrer Existenz, im Wesentlichen unangetastet, und dieser Teil des Reformprogramms verschwand vorerst von der Tagesordnung, obwohl er im modellstaatlichen Konzept perspektivisch von gro�er Bedeutung war.
+
+Gleichwohl b��te der Adel durch die Einf�hrung der b�rgerlichen und staatsb�rgerlichen Gleichheit manche seiner Privilegien ein. Er verlor seine herausgehobene Stellung als Stand. An einer Verteidigung der neuen Ordnung konnte ihm deshalb schwerlich gelegen sein. Ohne sich, wie etwa in Preu�en, offen und wirkungsvoll zu einer Adelsopposition zu formieren, trug der Adel dennoch dazu bei, den Reformproze� aufzuhalten. [...]
+
+Im diametralen Widerspruch zur Modellstaatspolitik stand auch die napoleonische Gesellschaftspolitik. Der Kaiser hatte schon vor der Gr�ndung des K�nigreichs Westphalen damit begonnen, zur Stabilisierung seiner Herrschaft in Frankreich einen neuen Milit�r- und Verdienstadel zu kreieren. Um diese gesellschaftliche St�tze der monarchischen Machtstellung fest zu verankern, sollte sie auf ein tragf�higes Fundament gestellt werden. Napoleons Vorstellung war, die neue Herrschaftselite mit eigentumsrechtlich privilegiertem Grundbesitz, mit Majoratsg�tern, auszustatten. Doch hatte der Umsturz der agrarischen Eigentumsverh�ltnisse durch die Franz�sische Revolution solchen Bestrebungen in Frankreich enge Grenzen gezogen. Nach der Enteignung von Adel und Kirche standen hier grundherrschaftliche G�ter nicht mehr zur Verf�gung. Hingegen mangelte es in den von der Revolution unber�hrten L�ndern, den von Napoleon eroberten Gebieten zwischen Weser und Elbe, nicht an Dom�neng�tern, auf denen ein gro�er Teil der landesherrlichen Eink�nfte beruhte. Napoleon z�gerte nicht, sich in Westphalen das Eigentums- und Verf�gungsrecht �ber die H�lfte dieser G�ter anzueignen. Sie wurden mit allen darauf ruhenden grundherrschaftlichen Rechten und Ertr�gen an franz�sische Marsch�lle, Gener�le und Minister verschenkt. Das K�nigreich Westphalen verlor durch die Abtretung der Dotationsdom�nen wichtige Einnahmequellen, was erheblich zum finanziellen Ruin des Landes beitrug. Die Staatsfinanzen gerieten in Unordnung, die Steuerschraube mu�te st�ndig angezogen werden. Obendrein erh�hte der andauernde Kapitalabflu�, der Transfer der Eink�nfte aus den Dotationsdom�nen nach Frankreich, die wirtschaftlichen Schwierigkeiten. Damit nicht genug. Die von Paris aus gesteuerte Verwaltung der kaiserlichen Dom�nen schob allen Reformen, die an den zumeist grundherrschaftlich begr�ndeten Einnahmen der Donatare r�hrten, einen Riegel vor. Es besteht kein Zweifel: Die napoleonische Schenkungspolitik befand sich in einem eklatanten Widerspruch zu den Modellstaatspl�nen. �
+
+[Zum Seitenanfang](https://lwl.org/aufbruch-in-die-moderne/LWL/Kultur/Aufbruch/popups/politik/verfassung/abschaffung_privilegien/berding/index.html#top)
+
+Der LWL -
+
+Freiherr-vom-Stein-Platz 1 -
+
+48133 Münster -
+
+Kontakt -
+
+[Impressum](http://www.lwl.org/LWL/Kultur/Kulturabteilung/Service/Impressum)

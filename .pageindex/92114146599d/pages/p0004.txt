@@ -1,0 +1,125 @@
+treatment should only affect measures related to cooperative attitudes, I additionally construct a measure
+of the strength of family ties as a counterfactual. I use the frequency of family visits as a proxy for the
+importance of the family. Individuals with strong family ties are likely to visit their family members
+more often. The related question in the SOEP asks “Please indicate how often you take part in each
+activity: Visits to and from family members and relatives”. The variable is measured on a 5 point scale,
+where 1 indicates “daily”, 2 “at least once a week”, 3 “at least once a month”, 4 “seldom”, 5 “never”.
+That is a higher score of the variable Family indicates weaker family ties.
+The geographical level up to which individual observations can be located regionally is the county level.
+11
+This geographical level is equivalent to the NUTS 3 level of the Statistical Units of the European Union
+and includes more than 400 regions.22 To control for other influences of social capital I will include several individual control variables, such as the respondent’s age and its square, dummy variables indicating
+the gender of the respondent and whether the respondent was unemployed in the last year or not, as well
+as the household income in the last month. To account for the legacy of the former Communist regime
+in Germany I add another dummy that takes on the value 1 if the respondent lived before 1990 in the
+former East of Germany. Education is controlled for using six different indicator variables for schooling and distinguishes between having no school degree at all, having attended a 9 year middle school
+(Hauptschule), a 10 year middle school (Realschule), a 12 year secondary school (Fachhochschulreife)
+or having obtained the highest secondary school degree after 13 years of school (Abitur). Furthermore,
+I control for five categories of religious affiliation which are protestant, catholic, any other Christian
+religion, a different religion that is not Christian or none religious affiliation at all. Since my focus of
+attention lies on the intergenerational transfer of individuals’ beliefs from their ancestors that have lived
+in the particular historical territory many years ago, ideally I would like to consider only individuals for
+which I can identify the historical territory of their ancestors residence during the 19th century. Unfortunately, the SOEP data does not provide information about the location of ancestors. The second-best in
+order to reduce a possible bias caused by migration is to delete foreigners, that is non-German citizens as
+well as second generation immigrants, from the sample. These individuals most likely share a different
+culture, traditions and norms that are linked to their country of origin.23
+Table 1 about here
+The current location of each individual is matched with the 16 historical territories for which historical
+data is available, i.e. historical territories are matched to current districts. Historical borders match
+remarkably well with current district borders and cut only through very few districts. Current districts
+that straddle a historical border will be assigned to a historical region depending of the historical location
+of the districts current capital. As historical controls I include the territories urbanization rate in 1850
+to control for mere historical income differences across territories, the initial urbanization rate and the
+share of protestants in 1800, the longitude and latitude of the territories’ capital and its distance to Paris.
+The source for the historical data is Acemoglu et al. (2011).24 Table 1 provides summary statistics for
+22Because of the confidentiality requirements of the data on this detailed regional level it was accessed via a remote access.
+23Against the deletion of immigrants one could argue, that past institutions persisted and influenced beliefs and values of all
+citizens today. However, this is not the channel that is proposed here. In contrast, I argue that past institutions affected beliefs
+and values in the past, and these attitudes persisted until today. See also Algan and Cahuc (2010) for the correlation between
+trust of immigrants and trust in the home country.
+24Table B.1 in the Appendix gives the territories included in the sample and the treatment.
+12
+the individual data for both the complete and the border sample. After the deletion of immigrants and
+those territories, for which historical data is not available, more than 15000 individuals are observed and
+included in the complete sample.
+3.2 Complete Sample Analysis
+I will begin with estimating the effect of the Code Civil for current trust keeping a sample including all
+German regions.
+The following model is regressed:
+Yi,d,h = α + δ ∗ civilh + X
+0
+i,d,h
+∗ β + ui,d,h(1)
+where Yi,d,h measures one of the social capital related outcomes of individual i living in district d, belonging to historical territory h. civilh measures the number of civil years in historical region h before
+the year 1900. The matrix Xi,d,h contains a list of individual controls, specified above.
+Table 2 about here
+Results of the regressions are displayed in Table 2. Column (1) shows the basic correlation between the
+Code Civil and individual trust, only controlling for macro-region fixed effects for the four macro-regions
+north, south, east and west. The coefficient is positive, and significant on the 1% significant level. Thus,
+individual trust is increasing in the number of years the Code Civil was used. This finding is robust to
+using cooperation and fairness as outcome variables in columns (2) and (3). I then add individual controls
+(age, age sq., gender), economic controls (household income, unemployment dummy), 5 categories of
+educational attainment and 4 categories of religious denomination. As it is visible from column (4), the
+coefficient of the Code Civil treatment decreases slightly - both in its significance and magnitude. Having
+applied the Code Civil for one standard deviation of about 37 years increases trust by 0.015 in absolute
+terms, a 98 year treatment increases trust by on average 0.04, or 8 percent of a standard deviation of trust.
+In column (7) I regress the same model but now using the proxy for family ties as dependent variable.
+Since the link proposed here goes from institutional quality to cooperation and not to other attitudes,
+such as attitudes towards family, I do not expect to find a significant correlation. Indeed, as column (7)
+shows, the coefficient of interest is positive, but not significant. Next, I control for historical determinants
+on the territory level. In particular, I include the urbanization rate and the share of protestants in 1800,
+13
+the urbanization rate in 1850, the longitude and latitude of the historical territory, and the distance of its
+capital to Paris. The share of protestants has been shown to be a good proxy for educational attainment
+(Becker and Woessmann, 2009) and protestantism goes along with values favorable for cooperation
+compared to catholicism (Alesina and La Ferrara, 2002; Tabellini, 2008). Controlling for past influences
+almost doubles the magnitude of the coefficient and increases its significance for all outcome variables,
+as shown in columns (8) to (10). Having applied the Code Civil for a standard deviation of 37 years goes
+along with 0.06 of a standard deviation higher level of trust, while 90 years go along with an increase
+of 0.17 of a standard deviation in trust. To put this magnitude in relation, switching from catholicism to
+protestantism increases individual trust on average by 0.006 of a standard deviation, being unemployed
+reduces trust by 0.22 of a standard deviation, while having lived in the former GDR reduces trust by a
+coefficient of 0.15 of a standard deviation in trust.
+3.3 Robustness of the Complete Sample
+I will perform additional regressions in the framework of the complete sample to show the robustness of
+the results in different sub-samples. Restricting the sample provides furthermore a possibility to mitigate
+possible endogeneity concerns related to the adoption of the Code Civil. In the first specification I will
+drop the historical territories Baden and Saxony, which choose to adopt the Code Civil - although this
+choice was severely constrained in the case of Baden. The finding of a positive, significant effect is robust
+to this specification, as column (1) in Table3 show. Next, only regions are kept in the sample that either
+adopted the Code Civil through Napoleonic occupation, adopted it voluntarily or at least prepared its
+adoption, as the two members of the Confederation of the Rhine Bavaria and Hesse-Darmstadt, did. The
+idea is to compare places that almost got the Code Civil, with those having actually adopted it, removing
+regions from the sample that rejected the Code Civil completely and did not consider its application.25
+Thus, the sample is characterized by a lower degree of heterogeneity in the adoption decision. I still find
+a positive, significant effect in column (2).
+Table 3 about here
+Going one step further, I consider only regions that adopted the Code Civil either voluntarily or prepared
+to adopt it. This leaves me with the regions Baden, Bavaria and Hesse-Darmstadt. All three regions
+where never directly occupied by Napoleon, but indirectly connected to the French Empire through the
+25The classification of whether a region considered the Code’s adoption is taken from Arvind and Stirton (2010)
+14
+Confederation of the Rhine, and as such pushed by the French Emperor to adopt its institutions. As
+column (3) shows, Baden, the region that has actually adopted the Code Civil has significantly more trust
+today. The estimated coefficient in column (4) shows that there exists a positive relationship between
+the years of the Code Civil was in place and trust in a sample of regions that actually applied the Code
+Civil for at least some years. This indicates that it is not the pure adoption of the Code Civil, but the
+duration which matters for long-run changes in beliefs. Moreover, within a sample of regions that all
+were occupied by the French Army in column (5) I find the same positive relationship between having
+the duration of the Code Civil and trust today. While possibly all occupied regions experienced the same
+Napoleonic effects of the occupation, those in which the Code Civil was used after the Napoleonic retreat
+show higher trust today. Finally, within Prussia the positive association holds true (see column (6)), i.e.
+holding kingdom characteristics constant from 1815 on.
+3.4 Identification
+Up to this point this section has established a robust positive association between the application of an
+impartial legal enforcement institution in 19th century German regions and trust in different samples.
+Two explanations can potentially account for this finding: First, treated regions were characterized by
+higher levels of social capital before the treatment took place. In other words, the treatment was not
+distributed independently of the initial culture. In that case, the results from the estimation only picks
+up path dependencies reflecting pre-treatment differences. Second, regions started out with comparable
+levels of social capital and the Napoleonic treatment influenced social capital levels positively, i.e. there
+existed a causal effect.
+In the following paragraphs I will show that the evidence from a border sample (3.5 and 3.6) and the
+comparison of pre-treatment characteristics (3.7) point overwhelmingly towards the second explanation,
+that is a true treatment effect. Treatment in this historical experiment contains the adoption and continuation of the Code Civil. The evaluation of the historical literature, as described above, suggests that the
+selection and occupation of the territories by the French Army was not driven by economic or cultural

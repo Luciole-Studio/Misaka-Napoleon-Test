@@ -1,0 +1,52 @@
+                                                          Table 4: Structural breaks analysis
+
+Model                                                    Specifications
+yt   1, j   2, j t j   3, j yt 1  ut            h = 55                        m=8
+
+                                                         Tests
+sup FT (1)            sup FT (2)           sup FT (3)    sup FT (4)      sup FT (5)    sup FT (6)      sup FT (7)       sup FT (8)     UDmax     WDmax
+303.30*               304.63*              289.87*       272.81*          257.14*      242.61*         248.12*          196.19*      304.63*   452.26*
+
+
+sup F (2 1)           sup F (3 2)          sup F (4 3)   sup F (5 4) sup F (6 5)
+227.08*               216.44*              208.11*       77.71*      16.02
+
+                                                         Number of breaks selected
+                                                         we use a 5% size for the sequential test   sup FT (l  1 l )
+Sequential                             5
+LWZ                                    6
+BIC                                    4
+
+                                                         Estimates with 5 breaks
+                                                         t-values in italics for       ˆi, j
+                                                         the 90% confidence intervals for Tˆi
+ˆ1,1                 ˆ1, 2               ˆ1,3         ˆ1, 4          ˆ1,5         ˆ1, 6
+0.0857*               0.0976*              0.1039*       0.0745*          0.1673*      0.0208*
+147.19                74.43                71.53         18.90            20.23        4.58
+
+                                                                                       
+ˆ2,1                 ˆ2, 2               ˆ2,3         ˆ2, 4           2,5          2, 6
+0.0001*               -0.0002*             -0.0001       -0.0001*         -0.0003*     0.00004*
+5.45                  -17.15               -23.81        -5.06            -13.56       4.62
+
+
+ˆ3,1                 ˆ3, 2               ˆ3,3         ˆ3, 4          ˆ3,5         ˆ3, 6
+-0.0049*              0.8309*              0.3872*       0.3055           0.2811       0.2906*
+-2.61                 3.55                 2.45          1.29             1.41         1.39
+
+
+Tˆ1                   Tˆ2                  Tˆ3           Tˆ4             Tˆ5
+02/07/1817            11/27/1818           05/25/1821    01/10/1823       02/27/1824
+[01/31 - 02/14]       [11/20 - 12/11] [03/09 - 06/01] [01/03 - 01/17] [02/20 - 03/05]
+
+
+R-squared             Adj. R-sqaured
+0.975                 0.975
+
+
+* denotes significance at the 5% confidence level
+
+
+
+
+                                                                                                                                                         43

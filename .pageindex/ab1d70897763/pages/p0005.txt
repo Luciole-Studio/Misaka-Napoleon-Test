@@ -1,0 +1,44 @@
+
+
+- Gary M Pecquet & Clifford F Thies, 2010.
+"[Texas Treasury Notes and the Mexican-American War: Market Responses to Diplomatic and Battlefield Events](https://ideas.repec.org/a/pal/easeco/v36y2010i1p88-106.html),"
+[Eastern Economic Journal](https://ideas.repec.org/s/pal/easeco.html), Palgrave Macmillan;Eastern Economic Association, vol. 36(1), pages 88-106.
+
+- Jushan Bai & Pierre Perron, 2003.
+"[Critical values for multiple structural change tests](https://ideas.repec.org/a/ect/emjrnl/v6y2003i1p72-78.html),"
+[Econometrics Journal](https://ideas.repec.org/s/ect/emjrnl.html), Royal Economic Society, vol. 6(1), pages 72-78, June.
+
+- White, Eugene Nelson, 1989.
+"[Was There a Solution to the Ancien Régime's Financial Dilemma?](https://ideas.repec.org/a/cup/jechis/v49y1989i03p545-568_00.html),"
+[The Journal of Economic History](https://ideas.repec.org/s/cup/jechis.html), Cambridge University Press, vol. 49(3), pages 545-568, September.
+
+- Willard, Kristen L & Guinnane, Timothy W & Rosen, Harvey S, 1996.
+"[Turning Points in the Civil War: Views from the Greenback Market](https://ideas.repec.org/a/aea/aecrev/v86y1996i4p1001-18.html),"
+[American Economic Review](https://ideas.repec.org/s/aea/aecrev.html), American Economic Association, vol. 86(4), pages 1001-1018, September.
+
+- Kristen L. Willard & Timothy W. Guinnane & Harvey S. Rosen, 1995.
+"[Turning Points in the Civil War: Views from the Greenback Market](https://ideas.repec.org/p/nbr/nberwo/5381.html),"
+[NBER Working Papers](https://ideas.repec.org/s/nbr/nberwo.html)
+5381, National Bureau of Economic Research, Inc.
+
+- Jushan Bai & Pierre Perron, 1998.
+"[Estimating and Testing Linear Models with Multiple Structural Changes](https://ideas.repec.org/a/ecm/emetrp/v66y1998i1p47-78.html),"
+[Econometrica](https://ideas.repec.org/s/ecm/emetrp.html), Econometric Society, vol. 66(1), pages 47-78, January.
+
+- Perron, P. & Bai, J., 1995.
+"[Estimating and Testing Linear Models with Multiple Structural Changes](https://ideas.repec.org/p/mtl/montde/9552.html),"
+[Cahiers de recherche](https://ideas.repec.org/s/mtl/montde.html)
+9552, Universite de Montreal, Departement de sciences economiques.
+
+- Perron, P. & Bai, J., 1995.
+"[Estimating and Testing Linear Models with Multiple Structural Changes](https://ideas.repec.org/p/mtl/montec/9552.html),"
+[Cahiers de recherche](https://ideas.repec.org/s/mtl/montec.html)
+9552, Centre interuniversitaire de recherche en Ã©conomie quantitative, CIREQ.
+
+- Jonathan Eaton & Mark Gersovitz, 1981.
+"[Debt with Potential Repudiation: Theoretical and Empirical Analysis](https://ideas.repec.org/a/oup/restud/v48y1981i2p289-309..html),"
+[The Review of Economic Studies](https://ideas.repec.org/s/oup/restud.html), Review of Economic Studies Ltd, vol. 48(2), pages 289-309.
+
+- Morten O. Ravn & Harald Uhlig, 2002.
+"[On adjusting the Hodrick-Prescott filter for the frequency of observations](https://ideas.repec.org/a/tpr/restat/v84y2002i2p371-375.html),"
+[The Review of Economics and Statistics](https://ideas.repec.org/s/tpr/restat.html), MIT Press, vol. 84(2), pages 371-375.

@@ -1,0 +1,54 @@
+Rural Change and Royal Finances in Spain
+
+       be expected that the sales would strengthen existing patterns of control of the land—except, of course, that ecclesiastical owners would
+       lose out. The Salamanca data allow one to test this hypothesis in two different ways.
+              The first involves the concentration of landowning. If the sales re-
+
+       [21] See Appendix R.
+
+       [22] An earlier version of the following analysis appeared as Herr, "Vente des propriétés de mainmorte."
+
+
+                                                                                          ― 630 ―
+       inforced existing patterns, the acquisition of land should be concentrated among the buyers in proportion to the concentration already
+       existing. The most obvious test of this proposition would be a comparison of two sets of Gini concentration coefficients (drawn from
+       Lorenz curves) for each of the zones, one for landowning as shown by the catastro and one for the purchases. Neither is available,
+       however, the first because of the prohibitive time that would be needed in the archives, the second because the Gini coefficients of the
+       zones vary substantially according to the way the researcher decides to divide purchases made by more than one buyer among the
+       different buyers (information on how they were in fact divided not being given in the Madrid records). [23]
+             Using the kinds of data with which we are familiar, however, one can develop surrogate indexes of concentration that permit a
+       satisfactory test of the proposition. For the index of concentration of ownership at the time of the catastro, I used the product of two
+       statistics. One was the percent of the total property in the zone that was owned at midcentury by the hacendados mayores (the largest
+       property owner in each town). The catastro records in Simancas give the income of the hacendados mayores, and the provincial
+       summaries of the catastro in Madrid provide data for obtaining the total income from land in each zone. [24]
+             Although this statistic alone is a simple index of concentration, I decided to multiply it by a second statistic: the ratio between the
+       mean income of the properties of the hacendados mayores and the mean income of all properties. The reason for this step is that the
+       size of not only the largest properties but the others as well determines the extent of concentration. There is more concentration (as
+       measured by a Lorenz curve) where there are one or a few large properties in the midst of many small ones than where all properties are
+       relatively large. The mean income of the properties of the hacendados mayores could be obtained directly, but that of other properties
+       could only be approximated. For this purpose, the income of the properties of the hacendados mayores was subtracted from the total
+       income in the zone, and the remainder was divided among the estimated number of other properties in the zone. [25]
+              The index of prior concentration is the product of these two statis-
+
+       [23] See Appendix S.
+
+       [24] The provincial summary in Madrid: AHN, Hac., Catastro, Salamanca, estados seglar, eclesiástico patrimonial, and eclesiástico, under
+       "letra D" of each volume, gives the number of measures of land in each town belonging to each type of owner, broken down according to
+       the annual income from each measure of land. The calculations are extensive, but made easier with a computer.
+
+       [25] See Appendix S.
+
+
+                                                                                          ― 631 ―
+
+
+
+
+            tics. It can be looked on as the area of a rectangle. The vertical side is the percentage of property in the zone owned by the
+       hacendados mayores, and the base is the ratio of the mean income of the properties of the hacendados mayores to the mean income of
+       the other properties (Table 17.12).
+              The index of the effect of sales on concentration of landholding is a similar rectangle derived from the sales records. The base of the
+
+
+
+http://publishing.cdlib.org/ucpressebooks/view?docId=ft4d5nb394;chunk.id=0;doc.view=print[1/22/2011 11:30:51 AM]

@@ -1,0 +1,435 @@
+        }
+      ],
+      "cited_by_count": 203,
+      "is_oa": true,
+      "oa_pdf": "https://www.aeaweb.org/articles/pdf/doi/10.1257/jep.28.4.169",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 109,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2583403086",
+      "doi": "10.1007/s10887-017-9141-3",
+      "title": "The role of human capital and innovation in economic development: evidence from post-Malthusian Prussia",
+      "year": 2017,
+      "type": "article",
+      "venue": "Journal of Economic Growth",
+      "venue_issn": "1381-4338",
+      "authors": [
+        {
+          "name": "Francesco Cinnirella",
+          "id": "https://openalex.org/A5005421110",
+          "institutions": [
+            "Ifo Institute for Economic Research"
+          ]
+        },
+        {
+          "name": "Jochen Streb",
+          "id": "https://openalex.org/A5042918749",
+          "institutions": [
+            "University of Mannheim"
+          ]
+        }
+      ],
+      "cited_by_count": 200,
+      "is_oa": true,
+      "oa_pdf": "http://hdl.handle.net/10446/146278",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 113,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2490123392",
+      "doi": "10.14361/9783839415214-007",
+      "title": "Deutsche Gesellschaftsgeschichte",
+      "year": 2010,
+      "type": "book-chapter",
+      "venue": "Histoire",
+      "venue_issn": "2702-9409",
+      "authors": [
+        {
+          "name": "Hans-Ulrich Wehler",
+          "id": "https://openalex.org/A5098557595",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 199,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2143895598",
+      "doi": "10.1016/j.euroecorev.2014.08.001",
+      "title": "Workers of the world, unite! Franchise extensions and the threat of revolution in Europe, 1820–1938",
+      "year": 2014,
+      "type": "article",
+      "venue": "European Economic Review",
+      "venue_issn": "0014-2921",
+      "authors": [
+        {
+          "name": "Toke Aidt",
+          "id": "https://openalex.org/A5023324555",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "Peter Sandholt Jensen",
+          "id": "https://openalex.org/A5101609437",
+          "institutions": [
+            "University of Southern Denmark"
+          ]
+        }
+      ],
+      "cited_by_count": 198,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 121,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W3121778977",
+      "doi": "10.1111/j.1468-0289.2004.00279.x",
+      "title": "Guilds, efficiency, and social capital: evidence from German proto‐industry",
+      "year": 2004,
+      "type": "article",
+      "venue": "The Economic History Review",
+      "venue_issn": "0013-0117",
+      "authors": [
+        {
+          "name": "Sheilagh Ogilvie",
+          "id": "https://openalex.org/A5068184278",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        }
+      ],
+      "cited_by_count": 184,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 49,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2901845274",
+      "doi": "10.1257/jel.20181447",
+      "title": "Historical Legacies and African Development",
+      "year": 2020,
+      "type": "article",
+      "venue": "Journal of Economic Literature",
+      "venue_issn": "0022-0515",
+      "authors": [
+        {
+          "name": "Stelios Michalopoulos",
+          "id": "https://openalex.org/A5023559123",
+          "institutions": [
+            "Center for Economic and Policy Research",
+            "Brown University"
+          ]
+        },
+        {
+          "name": "Elias Papaioannou",
+          "id": "https://openalex.org/A5112360343",
+          "institutions": [
+            "London Business School"
+          ]
+        }
+      ],
+      "cited_by_count": 180,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 204,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2792842106",
+      "doi": "10.2307/204089",
+      "title": "Cities and Economic Development",
+      "year": 1990,
+      "type": "article",
+      "venue": "The Journal of Interdisciplinary History",
+      "venue_issn": "0022-1953",
+      "authors": [
+        {
+          "name": "Jan de Vries",
+          "id": "https://openalex.org/A5100670291",
+          "institutions": []
+        },
+        {
+          "name": "Paul Bairoch",
+          "id": "https://openalex.org/A5010040858",
+          "institutions": []
+        },
+        {
+          "name": "Christopher Braider",
+          "id": "https://openalex.org/A5042295094",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 177,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W3125137019",
+      "doi": "10.1257/app.20150517",
+      "title": "The Effect of Labor Migration on the Diffusion of Democracy: Evidence from a Former Soviet Republic",
+      "year": 2017,
+      "type": "article",
+      "venue": "American Economic Journal Applied Economics",
+      "venue_issn": "1945-7782",
+      "authors": [
+        {
+          "name": "Toman Barsbai",
+          "id": "https://openalex.org/A5090759474",
+          "institutions": [
+            "Kiel Institute for the World Economy"
+          ]
+        },
+        {
+          "name": "Hillel Rapoport",
+          "id": "https://openalex.org/A5056467893",
+          "institutions": [
+            "Université Paris 1 Panthéon-Sorbonne",
+            "Paris School of Economics"
+          ]
+        },
+        {
+          "name": "Andreas Steinmayr",
+          "id": "https://openalex.org/A5064225546",
+          "institutions": [
+            "Kiel Institute for the World Economy"
+          ]
+        },
+        {
+          "name": "Christoph Trebesch",
+          "id": "https://openalex.org/A5060997583",
+          "institutions": [
+            "Kiel Institute for the World Economy"
+          ]
+        }
+      ],
+      "cited_by_count": 173,
+      "is_oa": true,
+      "oa_pdf": "https://www.aeaweb.org/articles/pdf/doi/10.1257/app.20150517",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 79,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2102928435",
+      "doi": "10.1016/b978-0-444-53538-2.00008-3",
+      "title": "Institutions and Economic Growth in Historical Perspective",
+      "year": 2013,
+      "type": "book-chapter",
+      "venue": "Elsevier eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Sheilagh Ogilvie",
+          "id": "https://openalex.org/A5068184278",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "A. W. Carus",
+          "id": "https://openalex.org/A5050583086",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        }
+      ],
+      "cited_by_count": 165,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 646,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2754668452",
+      "doi": "10.1093/restud/rdy021",
+      "title": "Historical Antisemitism, Ethnic Specialization, and Financial Development",
+      "year": 2018,
+      "type": "article",
+      "venue": "The Review of Economic Studies",
+      "venue_issn": "0034-6527",
+      "authors": [
+        {
+          "name": "Francesco D’Acunto",
+          "id": "https://openalex.org/A5012152759",
+          "institutions": [
+            "Boston College"
+          ]
+        },
+        {
+          "name": "Marcel Prokopczuk",
+          "id": "https://openalex.org/A5078989009",
+          "institutions": [
+            "Leibniz University Hannover",
+            "University of Reading"
+          ]
+        },
+        {
+          "name": "Michael Weber",
+          "id": "https://openalex.org/A5054976699",
+          "institutions": [
+            "University of Chicago"
+          ]
+        }
+      ],
+      "cited_by_count": 151,
+      "is_oa": true,
+      "oa_pdf": "http://www.nber.org/papers/w23785.pdf",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 74,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2973558376",
+      "doi": "10.2308/accr-52607",
+      "title": "On the Relation between Financial Reporting Quality and Country Attributes: Research Challenges and Opportunities",
+      "year": 2019,
+      "type": "article",
+      "venue": "The Accounting Review",
+      "venue_issn": "0001-4826",
+      "authors": [
+        {
+          "name": "Helena Isidro",
+          "id": "https://openalex.org/A5003699914",
+          "institutions": []
+        },
+        {
+          "name": "Dhananjay Nanda",
+          "id": "https://openalex.org/A5057887369",
+          "institutions": [
+            "University of Miami"
+          ]
+        },
+        {
+          "name": "Peter D. Wysocki",
+          "id": "https://openalex.org/A5011668199",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 151,
+      "is_oa": true,
+      "oa_pdf": "https://repositorio.iscte-iul.pt/bitstream/10071/20589/1/TAR-postprint.pdf",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 123,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W4211034880",
+      "doi": "10.1017/9781108539913",
+      "title": "State Capacity and Economic Development",
+      "year": 2017,
+      "type": "book",
+      "venue": "Cambridge University Press eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Mark Dincecco",
+          "id": "https://openalex.org/A5007800932",
+          "institutions": [
+            "University of Michigan"
+          ]
+        }
+      ],
+      "cited_by_count": 149,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 204,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W1976393814",
+      "doi": "10.2307/493920",
+      "title": "The French Revolution in Germany: Occupation and Resistance in the Rhineland 1792-1802",
+      "year": 1986,
+      "type": "article",
+      "venue": "The History Teacher",
+      "venue_issn": "0018-2745",
+      "authors": [
+        {
+          "name": "David Clay Large",
+          "id": "https://openalex.org/A5040146068",
+          "institutions": []
+        },
+        {
+          "name": "T. C. W. Blanning",
+          "id": "https://openalex.org/A5036598281",
+          "institutions": []
+        }
+      ],

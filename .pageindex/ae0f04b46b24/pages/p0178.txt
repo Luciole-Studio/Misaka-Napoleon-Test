@@ -1,0 +1,552 @@
+
+
+.  Norf.  .. 
+
+4 
+
+r.o.  Norwich  ... 
+
+540 
+
+Stanton 
+
+.do 
+
+0 
+
+r.  Bretby 307 
+
+SpofForth 
+
+.  York.u> 
+
+3 
+
+Lo.  Wetherbv ... 
+
+352 
+
+Stanton  Long. 
+
+.  Camb. 
+
+01 
+
+/.  Cambridge...  007 
+
+Spondon 
+
+.  Derby. 
+
+3 
+
+r.  Derby 
+
+324 
+
+Stanton  Drew. 
+
+.  Somer. 
+
+5 
+
+/.  Keynsham.... 
+
+15u 
+
+Sporlc 
+
+.Norf... 
+
+2 
+
+r.  Swaft  ham 
+
+525 
+
+Stanton 
+
+.  Glouc. 
+
+3 
+
+/.  Broadway 
+
+155 
+
+Spotland 
+
+.  Lane... 
+
+£ 
+
+/.  Rochdale 
+
+4.'0 
+
+StantonSt.Quin 
+
+Spratton 
+
+.  N.ham. 
+
+g 
+
+r.o.  ChnpelRram 
+
+'J  .so 
+
+tin 
+
+.  Wilts... 
+
+4 
+
+r.  Chippenham 
+
+136 
+
+Spreyton 
+
+.  Devon. 
+
+2 
+
+;•.  Merryineet ... 
+
+00 
+
+Stanton 
+
+.do 
+
+r.o.  Higjiworth 
+/.  West  Kennet.. 
+
+175 
+
+Spridlington  .. 
+
+.  Lincoln 
+
+% 
+
+r.o.  Midae  Inn.. 
+
+4!i8 
+
+Stanton  Bern. 
+
+do 
+
+4 
+
+135 
+
+Springthorpe  . 
+
+.do 
+
+ri 
+
+/.  Spittal  Inn  .... 
+
+4i-;;: 
+
+Stanton  Prior. 
+
+.  Somer. 
+
+5 
+
+Lo.  Bath 
+
+145 
+
+Sproatley 
+
+Sprotbrongh  .. 
+
+.  "iork.e. 
+.do.  UK. 
+
+7 
+3 
+
+r.  Hull 
+
+m 
+
+351 
+
+Stanton  St.Jn.' 
+Stanton  St.  Ga 
+
+5  Oxford. 
+
+24 
+
+r.  Wheatley  .... 
+
+198 
+
+/.  Doncaster 
+
+iSpioughton  ... 
+
+.  Suffolk. 
+
+2 
+
+/.  Ipswich 
+
+o',<) 
+
+briel's 
+
+.  Dorset. 
+
+1 
+
+/.  Chidiock 
+
+50 
+
+Sproxton 
+
+.  Leic... 
+
+4 
+
+1.  Coitersworth 
+
+347 
+
+Stanton 
+
+.  N. hu m. 
+
+5* 
+
+Lo.  Morpeth.... 
+
+452 
+
+Sputty  Ystrad 
+
+Stanton  on  the 
+
+Meiric  
+
+.  Cardig. 
+
+S 
+
+Z.o.CwmYstwith 
+
+CI  3 
+
+Wolds 
+
+.  Nott... 
+
+4 
+
+Lo.  Over  Brought 
+
+380 
+
+Stadhampton  . 
+
+.  Oxford. 
+
+4 
+
+r.  Sbillingford... 
+
+1S2 
+
+Stanton,  Long 
+
+Salop.. 
+
+q 
+
+Lo.  Bridgenoi  th 
+
+252 
+
+Staffield 
+
+.  Cnmb. 
+
+5 
+
+r.  Salkeld  Gate 
+
+:',:'..i 
+
+Stanton  Lacy. 
+
+do 
+
+3 
+
+r.o.  Ludlow 
+
+240 
+
+Stafford 
+
+.  Dorset. 
+
+a 
+
+L  Dorchester 
+
+.V, 
+
+Stan  way 
+
+Glouc. 
+
+4 
+
+/.  Broadway .... 
+
+155 
+
+Stagsden 
+
+.  Bed*.  .. 
+
+4 
+
+L  Clapham  
+
+370 
+
+Stan  wick 
+
+.  N.ham. 
+
+2 
+
+r.  Higham  Ferr. 
+
+37  q 
+
+Stainbrough  .. 
+
+.  Vork.w 
+
+8 
+
+1.  Barnsley 
+
+r.  Cookridgc... 
+r.o.  BernardCast. 
+
+3K| 
+
+Stanwick  St.Jn 
+
+.  York.» 
+
+2 
+
+?■.  Three  l'uns... 
+
+355 
+
+Stainburn 
+
+.do 
+
+fi 
+
+410 
+
+Stapeuhill 
+
+Derby. 
+
+2 
+
+/.  Bretby 
+
+307 
+
+Stamdrop 
+
+.  Durh... 
+
+s 
+
+3JO 
+
+Staple  Fitznain  Somer.. 
+
+44 
+
+L  Taunton  ...... 
+
+13Q 
+
+Stainfield 
+
+.  Lincoln 
+
+o 
+
+r.  Lincoln 
+
+4;.;-: 
+
+Stapleford  Taw 
+
+Stainforth 
+
+Sfainforth 
+
+.  York.w 
+
+.  do.  u  .. 
+
+o 
+
+3 
+
+403 
+515 
+
+ney 
+
+Stapleford  Ab 
+
+Essex.. 
+
+1 
+
+/.  Pissingford  Br. 
+
+541 
+
+1.  Thorne 
+
+Staintou  Dale. 
+
+4 
+
+1.  Stokesley 
+
+V'K 
+
+bots 
+
+do 
+
+1 
+
+r.o.  do 
+
+541 
+
+Stainton  
+
+.  do.  n\. 
+
+fj 
+
+1.  Bawtry 
+
+480 
+
+Stapleford  .... 
+
+Wilts... 
+
+4 
+
+r.  Wilton 
+
+1<>7 
+
+Stainton  
+
+.do.  71.. 
+
+:u 
+
+r.  Ley  burn 
+
+420 
+
+Stapleford  .... 
+
+Nott... 
+
+0 
+
+/.  Nottingham... 
+
+383 
+
+Stainton 
+
+.do.  ».. 
+
+\ 
+
+r.  Yarm 
+
+4K3 
+
+Stapleford  .... 
+
+Leic... 
+
+3i 
+
+r.  MeltonMowb.  330 
+
+Stainton  
+
+.  Lincoln 
+
+fii 
+
+r.  Lincoln 
+
+4«8 
+
+Stapleford  .... 
+
+Lincoln 
+
+5 
+
+r.  Newark 
+
+348 
+
+StaiutonleHol 
+
+»do 
+
+4 
+
+1.  Wold  N  ewton 
+
+4MH 
+
+Stapleton 
+
+Leic... 
+
+24 
+
+r.  Hinckley 
+
+C&3 
+

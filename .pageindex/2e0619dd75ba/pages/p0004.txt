@@ -1,0 +1,38 @@
+
+
+#### 2 The technology and politics of trade
+
+This period was one of enormous technological, political, and geopolitical transitions, all of which could be expected to have had an impact on the geography of British exports. In
+
+this section we provide a brief introduction to the most notable of these, beginning with technological change in the shipping industry.
+
+##### 2.1 Transportation technology
+
+While there is no doubt that transportation technology improved dramatically in the wake of the steam revolution, whether and to what extent there were improvements in shipping in the 18th and early 19th centuries remains an open question. A slight complication is that different authors use different metrics such as the longevity of ships (Solar and Rönnbäck, 2015), shipping losses (Kelly, Ó Gráda, and Solar, 2021), shipping supply costs (Solar, 2013), ship speeds (Rönnbäck, 2012; Solar and Hens, 2016; Kelly and Ó Gráda, 2019), and freight rates which were the focus of much of the earlier literature (North, 1958, 1968; Harley, 1988). Nonetheless, despite some disagreements on details, the makings of a new consensus seem to be emerging from the recent literature. Harley (1988) used freight rate data on British shipping routes to conclude that there was substantial productivity growth in British shipping in the 19th century which accelerated sharply after mid-century with the transition from sail to steam. But the onset of quantitatively significant productivity improvement has now been pushed back to the late 18th century, particularly the decades after 1780. Copper sheathing protected ships against worms found in tropical waters which rotted the timber. Coppering thereby increased the longevity of ships by roughly one-half (Solar and Rönnbäck, 2015) and consequently lowered capital costs. It also protected ships against barnacle incrustations and seaweed, increasing ship speeds and the frequency of voyages. The Royal Navy coppered its entire fleet between 1779 and 1781, and the East India Company and slave merchants quickly adopted the new technology. Other innovations emphasized by Kelly and Ó Gráda (2019) and Kelly, Ó Gráda, and Solar (2021) include iron frames to reinforce
+
+wooden hulls, flush (flat) decks and watertight hatches which were introduced in the 
+1820s and 1830s, and improved navigation techniques. Kelly and Ó Gráda (2019) find 
+an increase in ship speeds of about one-third from the 1780s to 1820s while Solar and 
+Rönnbäck (2015) find that coppering alone increased ship speeds by about one-sixth. 
+A noteworthy feature of this recent literature is that it focuses on ships used on long 
+distance voyages, carried out among others by the East India Company, the Royal Navy, 
+and slave merchants. Coppering was a warm water technology. By the end of the 18th 
+century, all Asia-bound British ships, 90% of Africa-bound ships, and 50% of British ships 
+headed for the West Indies and Latin America were coppered, compared to less than 6% of 
+ships headed for Europe or North America (Solar and Rönnbäck, 2015, p. 812). Its impact 
+on transport costs should thus have been asymmetric, having little or no effect on shorter 
+voyages but lowering costs on the longest voyages. 
+Technological progress accelerated in the 19th century with the advent of steamships. 
+In contrast to coppering, the new steam technology was first used on shorter routes with 
+British steamers plying the route to Paris by 1816. For several decades steamships were 
+used mostly to transport mail, people, and similar high-value cargoes over short distances. 
+A series of subsequent innovations, such as the compound engine, screw propellor, and 
+steel hulls meant that in the late 19th century steamships profitably transported a wider 
+range of goods while the opening of the Suez Canal in 1869 gave an important boost 
+to steam on the Asian route (Fletcher, 1958; Jacks, Meissner, and Wolf, 2024). Despite 
+this, sailing ships famously remained competitive on many long-distance routes until the 
+century’s end. Hatton (2024) finds that passenger voyages by sail from the UK to Adelaide 
+were three weeks shorter in the mid-1880s than in the late 1840s and attributes this to 
+larger, iron-constructed, clipper-style boats and a greater ability to exploit the great circle 
+route. Thus, the cost and speed of shipping fell dramatically over the course of the late 
+19th century but on both shorter and longer routes. 

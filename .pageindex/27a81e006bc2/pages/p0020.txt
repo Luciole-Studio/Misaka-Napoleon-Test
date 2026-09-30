@@ -1,0 +1,40 @@
+      nancial decisions have pecuniary consequences, which implies incentives to behave
+      as a profit-maximizer. Traders attempt to pin down what did or will happen, not
+      for its own sake or historical purposes, but in order to assess the future value of
+      the asset they hold or intend to acquire (Frey and Kucher, 2000).
+
+   • Finally, evolutions in the agio reflect accurately the movements in the aggregate
+      price level. For the available monthly and yearly price indices, correlation co-
+      efficients range from 0.65 to 0.72 and from 0.68 to 0.79 respectively during the
+      suspension period. Table 6 in the appendix presents more detailed statistics.
+
+The data set spans the years 1718-1873 and is based on Castaing’s Course of the Ex-
+change, published twice a week (reproduced in Neal, 1990 and Boyer-Xambeu et al.
+1994). As presented in figure 3, the agio increased substantially after 1808 and reached
+a peak of 45% mid 1813. Recall that contemporaries interpreted increases in the agio
+as a metric of the pound’s internal devaluation. An increase of gold’s market value in
+terms of paper pounds entailed that more pounds were required to purchase the same
+commodity. Absent any significant changes in the supply of gold, an increase in the
+agio, therefore, necessarily implied a devaluation of the pound. Table 7 in the appendix
+provides descriptive statistics for the agio.
+
+
+
+5.2   Identification Strategy and Estimation Procedure
+
+Contemporaries’ Views and Actions
+
+
+Irrespective of prior policy commitments, agents could rationally be expected to incorpo-
+rate all available information that could help anticipate the future state of public finances
+(see section 2). Based on their assessment regarding the sustainability of British public
+debt, agents would then adjust their consumption, investment, and pricing decisions.
+These, in turn, would affect the aggregate price level, through which adjustments in real
+outstanding public debt would operate.
+
+
+The aggregate price level, therefore, reflected agents’ assessment of fiscal sustainability in
+the future. Important changes in the price level, should, thus, convey information on the
+events that caused contemporaries to alter their predictions regarding public finances.
+
+                                                18

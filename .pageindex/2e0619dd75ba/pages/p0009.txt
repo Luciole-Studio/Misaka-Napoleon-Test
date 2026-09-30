@@ -1,0 +1,89 @@
+
+
+of the 21 years).7
+
+##### 3.2 Overview of British exports
+
+As stressed above, the use of constant official prices to value exports prior to 1813 means 
+that aggregating trade figures is problematic. Nevertheless, creating such an aggregate 
+should give a rough indication of overall trends in British exports. However, there is no 
+single export price index spanning the years from 1700 to 1899. Figure 1 instead plots 
+two separate real export series, one with a value of 100 in 1807 and the other with a value 
+of 100 in 1820. The first series in black depicts the sum of the official values in the ledgers 
+from 1700 to 1807. This represents British real exports expressed in 1700 prices. The 
+second series in grey depicts the sum of declared values in the ledgers from 1820 to 1899 
+6A lack of administrative resources, deference to tradition, or even sheer laziness may also have been 
+factors (Imlah, 1948, p. 133; Davis, 1979, p. 78). 
+7As reported earlier, we have 250,511 observations classified at the two-digit level: thus, there are on 
+average 2.4 commodities per destination-division combination. 
+
+Figure 1: Aggregate British Real Exports, 1700–1899
+
+25
+
+50
+
+100
+
+200
+
+400
+
+800
+
+1600
+
+=
+
+1 
+0 
+0 
+
+=
+
+1 
+8 
+2 
+0 
+
+1700 1750 1800 1850 1899 
+1700 prices 
+1880 prices 
+
+Notes: The black line depicts the sum of the official values in the ledgers from 1700 to 1807 and represents British real exports expressed in 1700 prices. The grey line depicts the sum of declared values in the ledgers from 1820 to 1899 deflated by the export price index reported in Imlah (1958), and represents British real exports expressed in 1880 prices. The vertical line in 1813 demarcates a break in continuity between the two series as they use different base years for export prices.
+
+deflated by the export price index reported in Imlah (1958). This represents British real exports expressed in 1880 prices. The two series are not strictly comparable as they use different base years for export prices, and the vertical line in 1813 is intended to convey this break in continuity. In what follows, we therefore focus on growth rates within each
+
+period rather than on levels across them.
+
+The black line suggests that British real exports increased by a factor of 5.8 between
+
+1700 and 1807 when expressed in terms of 1700 export prices. Much of this increase occurred between 1740 and 1750 and again after the independence of the United States in 1783. Davis (1979, pp. 9-11) relates the jump between 1780 and 1790 to the supply shock emanating from technical change in the cotton industry whereas the sources of the jump between 1740 and 1750 are less clear. The grey line suggests that British real exports increased by a factor of 21.7 between 1820 and 1899 when expressed in terms of 1880 export prices. Notably, the growth in real exports from 1820 to 1860 (by a factor of 8.1)
+
+Figure 2: The Extensive Margins of British Exports, 1700–1899
+
+0
+
+2
+
+0
+
+4
+
+0
+
+6
+
+0
+
+8
+
+0
+
+1
+
+0
+
+0
+
+1700 1750 1800 1850 1899

@@ -1,0 +1,43 @@
+Table 2 : Estimates for Borrowing by the State and Conjectures for
+Private Expenditures on Capital Formation 1781-1820 (in current prices)
+
+
+   Annual          Net Private        Net State           Nominal          Interest
+  Averages         Investment         Borrowing           Yield on       Payments on
+    £m                 £m                £m               Consols        Government
+                                                             %            Debt (£m)
+1781-90                10.7            Negligible           4.5               8.8
+1791-1800              22.4              20.2               4.7              10.9
+1801-1810              25.5              13.4               4.8              20.2
+1811-1820              36.7              12.5               4.6              28.3
+
+Notes and Sources: Net private investment expenditures are from C. Feinstein,
+‘Capital accumulation and the industrial revolution’, in R. Floud and D. McCloskey
+(eds.) The Economic History of Britain since 1700 (Cambridge, 1981) p. 131. His
+figures have been reflated to current prices using price indices constructed by Rostow
+Gayer and Schwartz in B. Mitchell (ed.) Abstract of Historical Statistics (Cambridge,
+1962), pp. 470-71 and by P.K. O’Brien, ‘Agriculture and the home market for British
+industry 1660-1820’, in English Historical Review, 100 (1985), pp. 773-79. The figures
+for net inflows of money borrowed by the state are taken from P.K. O’Brien’s
+unpublished D.Phil thesis, Government Revenue 1793-1815 (Oxford, 1967). Table 4 p.
+10. Recalculated interest charges on the loans are listed on p. 17 of that thesis.
+Nominal yield on consols is from C. Heim and P. Mirowski, ‘Interest Rates and
+Crowding out during Britain’s Industrial Revolution’, in Journal of Economic History, vol.
+XLVI (1987), p. 120.
+
+
+
+
+       Figures for net annual government borrowing have not been
+reconstructed from the public accounts for the 1780s, but since the
+American war ended in 1782-83, the net average annual amounts
+borrowed for the inter-war period were probably negligible. Subsequently
+net borrowing by the state fluctuated over time and peaked in the closing
+years of the Napoleonic war 1813-15 but then ceased. Figures for 1811-
+20 refer to the years 1811-15 and are an outer-bound estimate for a
+decade when the operations of the sinking fund and demobilization from
+armed conflict led to a switch from net annual borrowing to repayments of
+public debt from 1816-20.
+
+
+                                           25

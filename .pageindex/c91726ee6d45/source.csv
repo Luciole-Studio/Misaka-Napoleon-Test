@@ -1,0 +1,13 @@
+id,kind,scenario,base_low,base_high,growth_low,growth_high,years,rate_low,rate_high,availability_low,availability_high,garrison_low,garrison_high,nodes_low,nodes_high,mobile_low,mobile_high,unit,source,assumption
+pop_s5,population,S5,4500000,5000000,0.008,0.012,40,,,,,,,,,,,persons,"L;I;HG","1808 residual borders incl Silesia; 1848 result; growth assumed not estimated"
+pop_s3,population,S3,4500000,5000000,0.005,0.009,40,,,,,,,,,,,persons,"L;I;HG","same borders; continued trade pressure without further annexation; growth assumed"
+pop_large,population,S1_no_Jena,9000000,10700000,0.009,0.0123,42,,,,,,,,,,,persons,"L;I;HG","1806 territorial footprint retained; 1848 result; growth assumed"
+army_standing,army,S5,,,,,,0.009,0.012,1,1,,,,,,,persons,"T08;TA;C13","apply to S5 1848 population; treaty ceiling renegotiated after1818; fiscal resources restored"
+army_mobilized,army,S5,,,,,,0.020,0.027,1,1,,,,,,,persons,"TA;HA;HW","includes reserve garrisons and field force; not steady peacetime maintenance"
+army_field,army,S5,,,,,,0.020,0.027,0.65,0.70,,,,,,,persons,"TA;HA;HW","apply availability assumption to total mobilized; all theatres not single battlefield"
+army_extreme,army,S5_allied_emergency,,,,,,0.04,0.04,1,1,,,,,,,persons,"TA;HA;HW","requires months of mobilization arms credit and foreign military shield; one-season probe"
+control_rump,garrison,S2/S5,,,,,,,,,,10000,10000,0,0,5000,20000,persons,"T08 VII-XIII","fortress floor anchored; mobile addition assumed; excludes external war"
+abolition_low,garrison,S6_low_friction,,,,,,,,,,10000,15000,5000,10000,10000,20000,persons,"T08;T07;C13","initial3years; cooperative bureaucracy; Russian neutrality"
+abolition_medium,garrison,S6_medium_friction,,,,,,,,,,15000,20000,10000,15000,20000,40000,persons,"T08;T07;C13","initial3years; regional refusal and officer emigration; no Russian field offensive"
+abolition_high,garrison,S6_high_friction,,,,,,,,,,20000,25000,15000,25000,45000,70000,persons,"T08;T07;C13","initial3years; dispersed revolt; external field front excluded"
+abolition_settled,garrison,S6_cooperative_settled,,,,,,,,,,10000,10000,0,5000,10000,15000,persons,"T08;T07;C12","after5-15years conditional local cooperation; no automatic friction decline"

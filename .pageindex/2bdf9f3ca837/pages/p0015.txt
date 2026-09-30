@@ -1,0 +1,442 @@
+          ]
+        },
+        {
+          "name": "Paula Nagler",
+          "id": "https://openalex.org/A5035070596",
+          "institutions": [
+            "Maastricht University"
+          ]
+        }
+      ],
+      "cited_by_count": 5,
+      "is_oa": true,
+      "oa_pdf": "https://doi.org/10.2139/ssrn.3107759",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 42,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W4255206599",
+      "doi": "10.2139/ssrn.3954632",
+      "title": "The Impact of Institutions on Innovation: Online Appendix",
+      "year": 2021,
+      "type": "preprint",
+      "venue": "SSRN Electronic Journal",
+      "venue_issn": "1556-5068",
+      "authors": [
+        {
+          "name": "Alexander Donges",
+          "id": "https://openalex.org/A5010692494",
+          "institutions": [
+            "Technische Hochschule Mannheim",
+            "University of Mannheim"
+          ]
+        },
+        {
+          "name": "Jean‐Marie Meier",
+          "id": "https://openalex.org/A5047051053",
+          "institutions": [
+            "The University of Texas at Dallas",
+            "University of Pennsylvania"
+          ]
+        },
+        {
+          "name": "Rui da Silva",
+          "id": "https://openalex.org/A5077579720",
+          "institutions": [
+            "Centre for Economic Policy Research",
+            "Universidade Nova de Lisboa"
+          ]
+        }
+      ],
+      "cited_by_count": 5,
+      "is_oa": true,
+      "oa_pdf": "https://doi.org/10.2139/ssrn.3954632",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 36,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2327511800",
+      "doi": "10.7767/zrgga.1977.94.1.129",
+      "title": "Das französische Recht in Deutschland zu Beginn der Restaurationszeit (1814-1820)",
+      "year": 1977,
+      "type": "article",
+      "venue": "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte Germanistische Abteilung",
+      "venue_issn": "0323-4045",
+      "authors": [
+        {
+          "name": "Werner Schubert",
+          "id": "https://openalex.org/A5109284064",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 4,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W4283067371",
+      "doi": "10.1016/j.euroecorev.2022.104163",
+      "title": "Freedom of enterprise and economic development in the German industrial take-off",
+      "year": 2022,
+      "type": "article",
+      "venue": "European Economic Review",
+      "venue_issn": "0014-2921",
+      "authors": [
+        {
+          "name": "M. Dohmen",
+          "id": "https://openalex.org/A5009665034",
+          "institutions": [
+            "University of Bonn"
+          ]
+        }
+      ],
+      "cited_by_count": 4,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 36,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W1981143234",
+      "doi": "10.2307/2692912",
+      "title": "Napoleon's Italy",
+      "year": 2001,
+      "type": "article",
+      "venue": "The American Historical Review",
+      "venue_issn": "0002-8762",
+      "authors": [
+        {
+          "name": "David Laven",
+          "id": "https://openalex.org/A5074551282",
+          "institutions": []
+        },
+        {
+          "name": "Desmond Gregory",
+          "id": "https://openalex.org/A5068872869",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 3,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 49,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2020197289",
+      "doi": null,
+      "title": "Geschichte Schleswig-Holsteins : ein Grundriß",
+      "year": 1925,
+      "type": "book",
+      "venue": "Medical Entomology and Zoology",
+      "venue_issn": "0424-7086",
+      "authors": [
+        {
+          "name": "Otto Brandt",
+          "id": "https://openalex.org/A5108250438",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 3,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W1858167690",
+      "doi": null,
+      "title": "Wirtschaftspolitische Grundsatzentscheidungen in Süddeutschland",
+      "year": 1996,
+      "type": "article",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Christof Dipper",
+          "id": "https://openalex.org/A5024227169",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 3,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W290612464",
+      "doi": "10.1524/jbwg.1978.19.sonderband.229",
+      "title": "Vom Oktoberedikt des Jahres 1807 zur Deklaration von 1816",
+      "year": 1978,
+      "type": "article",
+      "venue": "Jahrbuch für Wirtschaftsgeschichte / Economic History Yearbook",
+      "venue_issn": "0075-2800",
+      "authors": [
+        {
+          "name": "Hartmut Harnisch",
+          "id": "https://openalex.org/A5006579030",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 3,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W1535516279",
+      "doi": null,
+      "title": "The French revolution and the transfer of the open access order to the South-Western German states and Prussia",
+      "year": 2010,
+      "type": "preprint",
+      "venue": "RePEc: Research Papers in Economics",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Joachim Zweynert",
+          "id": "https://openalex.org/A5007295739",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 3,
+      "is_oa": true,
+      "oa_pdf": "http://hdl.handle.net/10419/48234",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2603454467",
+      "doi": "10.1080/03585522.2017.1294378",
+      "title": "Economic history in times of transition",
+      "year": 2017,
+      "type": "article",
+      "venue": "Scandinavian Economic History Review",
+      "venue_issn": "0358-5522",
+      "authors": [
+        {
+          "name": "Alfred Reckendrees",
+          "id": "https://openalex.org/A5090164722",
+          "institutions": [
+            "Copenhagen Business School"
+          ]
+        }
+      ],
+      "cited_by_count": 3,
+      "is_oa": true,
+      "oa_pdf": "https://www.tandfonline.com/doi/pdf/10.1080/03585522.2017.1294378?needAccess=true&role=button",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 7,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W1965887983",
+      "doi": "10.1093/ehr/cem232",
+      "title": "Das Haus Schonborn. Eine Familienbiographie: Katholischer Reichsadel, 1640 1840",
+      "year": 2007,
+      "type": "article",
+      "venue": "The English Historical Review",
+      "venue_issn": "0013-8266",
+      "authors": [
+        {
+          "name": "William D. Godsey",
+          "id": "https://openalex.org/A5012020217",
+          "institutions": [
+            "Austrian Academy of Sciences"
+          ]
+        }
+      ],
+      "cited_by_count": 2,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W595080383",
+      "doi": null,
+      "title": "Wirtschaftsgeschichte Westfalens in Leistung und Verflechtung mit den Nachbarländern bis zum 18. Jahrhundert",
+      "year": 1949,
+      "type": "book",
+      "venue": "Aschendorff eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Bruno Kuske",
+          "id": "https://openalex.org/A5057160996",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 2,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W3215332702",
+      "doi": null,
+      "title": "Politischer Umbruch und gesellschaftliche Bewegung",
+      "year": 2014,
+      "type": "article",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Elisabeth Fehrenbach",
+          "id": "https://openalex.org/A5003798006",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 2,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W3122267337",
+      "doi": null,
+      "title": "Capitalist transformation without political participation: German capitalism in the first half of the 19th century",
+      "year": 2013,
+      "type": "preprint",
+      "venue": "RePEc: Research Papers in Economics",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Gerhard Wegner",
+          "id": "https://openalex.org/A5060413144",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 2,
+      "is_oa": true,
+      "oa_pdf": "http://hdl.handle.net/10419/89796",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W4200590108",
+      "doi": "10.3167/th.2021.6816902",
+      "title": "Democracy, Development and Industrial Policy in Nigeria",
+      "year": 2021,
+      "type": "article",
+      "venue": "Theoria",
+      "venue_issn": "0040-5817",
+      "authors": [
+        {
+          "name": "Abel B.S. Gaiya",
+          "id": "https://openalex.org/A5072710065",
+          "institutions": [
+            "Morgan Stanley (United Kingdom)"
+          ]
+        }
+      ],
+      "cited_by_count": 2,
+      "is_oa": true,
+      "oa_pdf": "https://www.berghahnjournals.com/downloadpdf/journals/theoria/68/169/th6816902.pdf",
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 63,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W3158277465",
+      "doi": null,
+      "title": "At the Roots of the Fourth Industrial Revolution: How ICT Investements Affect Industry 4.0 Adoption",
+      "year": 2020,
+      "type": "preprint",
+      "venue": "RePEc: Research Papers in Economics",
+      "venue_issn": null,
+      "authors": [
+        {

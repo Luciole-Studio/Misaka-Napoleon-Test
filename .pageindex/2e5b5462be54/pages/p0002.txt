@@ -1,0 +1,201 @@
+      "format": "",
+      "size": "0.7MB",
+      "hash": "908e5b43e3e515eb1e0ae93da20e209c",
+      "url": "https://annas-archive.gl/md5/908e5b43e3e515eb1e0ae93da20e209c"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1968",
+      "language": "Portuguese",
+      "format": "",
+      "size": "1.1MB",
+      "hash": "e7e659aac9992d331b224dfe64e3cc10",
+      "url": "https://annas-archive.gl/md5/e7e659aac9992d331b224dfe64e3cc10"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1848",
+      "language": "Portuguese",
+      "format": "",
+      "size": "0.9MB",
+      "hash": "e10abaa986f88e1844b5af1e077d2275",
+      "url": "https://annas-archive.gl/md5/e10abaa986f88e1844b5af1e077d2275"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1850",
+      "language": "Portuguese",
+      "format": "",
+      "size": "0.8MB",
+      "hash": "fdd3a21489f118c5173dc7cf5bdd7d2b",
+      "url": "https://annas-archive.gl/md5/fdd3a21489f118c5173dc7cf5bdd7d2b"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1846",
+      "language": "Portuguese",
+      "format": "",
+      "size": "0.7MB",
+      "hash": "fde7ae8a079418734b65ba633296b0f1",
+      "url": "https://annas-archive.gl/md5/fde7ae8a079418734b65ba633296b0f1"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1843",
+      "language": "Portuguese",
+      "format": "",
+      "size": "0.3MB",
+      "hash": "08e347d2e17970e375db572a3eb26b0f",
+      "url": "https://annas-archive.gl/md5/08e347d2e17970e375db572a3eb26b0f"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1855",
+      "language": "Portuguese",
+      "format": "",
+      "size": "0.8MB",
+      "hash": "2de211895685c697b9c787e2664f6931",
+      "url": "https://annas-archive.gl/md5/2de211895685c697b9c787e2664f6931"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1853",
+      "language": "Portuguese",
+      "format": "",
+      "size": "1.2MB",
+      "hash": "4db33a8ec5b2ff1db84904b4ec2fcb6c",
+      "url": "https://annas-archive.gl/md5/4db33a8ec5b2ff1db84904b4ec2fcb6c"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1850",
+      "language": "Portuguese",
+      "format": "",
+      "size": "1.2MB",
+      "hash": "86ec0f847ed2a42fc67d8cd621130184",
+      "url": "https://annas-archive.gl/md5/86ec0f847ed2a42fc67d8cd621130184"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1851",
+      "language": "Portuguese",
+      "format": "",
+      "size": "0.5MB",
+      "hash": "9233f3d5e5a236b482f21b89a776605f",
+      "url": "https://annas-archive.gl/md5/9233f3d5e5a236b482f21b89a776605f"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1968",
+      "language": "Portuguese",
+      "format": "",
+      "size": "0.7MB",
+      "hash": "82747659f3780b2f1271a096630670e5",
+      "url": "https://annas-archive.gl/md5/82747659f3780b2f1271a096630670e5"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1968",
+      "language": "Portuguese",
+      "format": "",
+      "size": "0.6MB",
+      "hash": "804daf6ea046f9176e47e225638669c2",
+      "url": "https://annas-archive.gl/md5/804daf6ea046f9176e47e225638669c2"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1843",
+      "language": "Portuguese",
+      "format": "",
+      "size": "1.1MB",
+      "hash": "83e497e86903f26842edc5f2251ee65b",
+      "url": "https://annas-archive.gl/md5/83e497e86903f26842edc5f2251ee65b"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1847",
+      "language": "Portuguese",
+      "format": "",
+      "size": "1.1MB",
+      "hash": "b72dab354bb7895be9554e2412b84aa7",
+      "url": "https://annas-archive.gl/md5/b72dab354bb7895be9554e2412b84aa7"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1851",
+      "language": "Portuguese",
+      "format": "",
+      "size": "0.6MB",
+      "hash": "ca172f98e652b3cd2ba151b1d38e039c",
+      "url": "https://annas-archive.gl/md5/ca172f98e652b3cd2ba151b1d38e039c"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1841",
+      "language": "Portuguese",
+      "format": "",
+      "size": "0.9MB",
+      "hash": "d359a863917a161ab51c408bcf5481b3",
+      "url": "https://annas-archive.gl/md5/d359a863917a161ab51c408bcf5481b3"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1840",
+      "language": "Portuguese",
+      "format": "",
+      "size": "1.4MB",
+      "hash": "f1d240c435b6cf5e21638eb7217adfd2",
+      "url": "https://annas-archive.gl/md5/f1d240c435b6cf5e21638eb7217adfd2"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1853",
+      "language": "Portuguese",
+      "format": "",
+      "size": "0.9MB",
+      "hash": "fd639b885f149d695b66d6c698245ece",
+      "url": "https://annas-archive.gl/md5/fd639b885f149d695b66d6c698245ece"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1841",
+      "language": "Portuguese",
+      "format": "",
+      "size": "0.8MB",
+      "hash": "148b7e9009395d264dafae211046f045",
+      "url": "https://annas-archive.gl/md5/148b7e9009395d264dafae211046f045"
+    },
+    {
+      "title": "Anais do Senado do Império do Brazil.",
+      "authors": "Brazil. Congresso Nacional. Senado Federal.",
+      "publisher": "Senado Federal, Subsecretaria de Anais, Brazil, 1841",
+      "language": "Portuguese",
+      "format": "",
+      "size": "1.1MB",
+      "hash": "017180d5a7567988f51f9719c20a46df",
+      "url": "https://annas-archive.gl/md5/017180d5a7567988f51f9719c20a46df"
+    }
+  ],
+  "source_url": "https://annas-archive.gl/search?q=Valentim+Alexandre+sentidos+do+imperio+questao+nacional&content=book_nonfiction&content=book_fiction&content=book_unknown",
+  "transport": "http",
+  "scope": "current_page_only",
+  "complete": false
+}

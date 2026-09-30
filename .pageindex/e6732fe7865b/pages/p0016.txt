@@ -1,0 +1,41 @@
+
+
+### 16.4 改判证据（六条，每条注明在哪里可找及会改变什么）
+
+**E1·汉堡 agio 与汉堡—伦敦汇率的1803–14月度序列**。可找：Adolf Soetbeer《Beiträge und Materialien zur Beurtheilung von Geld- und Bankfragen》（Hamburg 1855）；汉堡商会行情单（Preis-Courant）；Staatsarchiv Hamburg, Bank von 1619 档案。**如果** agio 在1807–12年持续扩大且与封锁加严同步，则本卡 §6 的“摩擦成本≤62.5%”上调，且 S3 的金属效力应上调；**如果** agio 平稳而只有汇率波动，则封锁只伤信用不伤金属，本卡结论加强。
+
+**E2·Hope & Co. 的 Account X 原始分类账与 Oliver 档案的逐航次账**。可找：Stadsarchief Amsterdam, Archief Hope & Co.；Maryland Historical Society, Robert Oliver Papers；Buist 自述其 Account X 重建含“不过是一个假设”的环节。**如果**实际法方净收高于本卡的 200–400万法郎/年区间，则 §4.1 的 SP1/MX 接口参数上调，“1808年废黜的金融代价”也随之上调。
+
+**E3·1797–1821年英镑汇票在欧陆的接受度指标**（汉堡、阿姆斯特丹、法兰克福对伦敦的汇价与银价平价的偏离）。可找：同 E1 行情单；BoE millennium 数据集（B2 卡已有）。**如果**偏离在1811–13年超过纸黄金溢价而持久化，则 §15.1.4 的“英镑汇票不可被驱逐”命题需限定，伦敦 B 职能的稳固性下调。
+
+**E4·法国 Grand Livre 中利古里亚与荷兰债权的实际登记与付息记录**。可找：Archives nationales，AF IV / F30（Direction générale de la liquidation）；Felloni《Gli investimenti finanziari genovesi》。**如果**实际登记率高于 Assereto 的“一半”，则 §2.3 的“面值1/6”应上调，并服法国对新省债权的处置没有实际上那么恶劣。
+
+**E5·1806–13年法兰克福、阿姆斯特丹与巴黎的一级发行逐笔清单**。只要能证明法国或其藩属在**1810–13年任何一地成功公开发行过一笔主权债**，本卡 §16.3 的裁定就需修正。可找：Dietz《Frankfurter Handelsgeschichte》Bd.4；Ullmann VSWG 1990 附表；Buist 附录贷款表。
+
+**E6·Ouvrard 1823年西班牙远征的供应账目**。【锚】Wolff 记：1823年安古莱姆公爵到巴窃发现大军几乎没有人马粮秣，遂召 Ouvrard；后者已预先囤积所需物资，并**在西班牙境内以优厚价格现付采购**——“did precisely what Napoleon had so disastrously failed to do during the Peninsular War a decade earlier”（`downloads/X1_Wolff.txt` @17562）。**如果**该战役的采购账目可得（Archives de la Guerre；Wolff 所据的 Ouvrard 家族文件），则可为 P6 提供一个**同一国家、同一地理、相隔十年的现付占领 vs 征发占领成本对照组**——这将是整个项目中最接近自然实验的一组证据。
+
+### 16.5 本卡未能关闭的缺口（明列）
+1. **汉堡 agio 序列未取得**（Soetbeer 1855 未下载）——影响 §10.3 与 E1。
+2. **德意志联邦银行《Finanzplatz Hamburg》工作稿 PDF 抓取失败**（no content returned），其“1806前汉堡为北欧陆最重要金融中心”与“维会后迅速恢复”两命题**仅有检索摘要，未亲读**。
+3. **Gille《Histoire de la Maison Rothschild》正文未深入**（仅读其史料章）；其史料声明已入本卡（巴黎行1850年前全部账簿与信函副本二战前毁失；维、那、法兰克福三行档案“infimes épaves”；伦敦行当时不可得）。
+4. **Lévy-Leboyer《Les banques européennes et l'industrialisation internationale》与 Bouvier 未取得**——影响 §15.3 的铁路栏与产业金融判断；本卡已将该栏的区间放宽。
+5. **Ouvrard 回忆录仅取得一卷 IA 全文**（`downloads/X1_Ouvrard_memoires_A.txt`），另一卷下载返500；且 Buist 已实证其中一处叙述为伪，故本卡**未将其数字用作证据**。
+6. **Herries 回忆录两卷已下载但未逐章精读**（`X1_Herries_memoir_v1/v2.txt`）；其索引已确认含“Rothschild's operations, i.86”“funds for the King of France, 88n”“French coinage at the Mint, 99”“Russian-Dutch Loan”等条目——**这是下一轮最容易关闭的一个缺口**（1814–16年英方官方叙述的一手版本）。
+7. **Nolte《Fifty Years in Both Hemispheres》已下载未精读**；Marichal 已质疑其数字，本卡未采用。
+8. **法兰克福犹太人解放金（1811年达尔贝格体制下）的原始数字未核**，已在 §7.1 标明待核。
+
+### 16.6 给兄弟卡的硬接口（可直接引用的参数）
+
+| 接收卡 | 参数 |
+|---|---|
+| **P2 行省化总判** | 并省的金融代价＝当地旧公债名义削至 **1/3** × 实际登记率 **1/2** ≈ **面值 1/6**（热那亚实测）；被消灭的正是最可能购买新政权公债的阶层 |
+| **P4 海军差距** | 跨阵营白银转移摩擦成本区间 **23.5%（宽松）– 62.5%（加严）**；制海权决定的是摩擦而非归属 |
+| **P6 逐年对弈** | 法国承包商体系年净动员上限 **6,000万–1亿法郎**；超限即触发法兰西银行挤兑（1805-11 实测）→ **1805年战役在财政上被“必须在12月前结束”约束** |
+| **P6/P8 最高优先改判项** | **F4：关闭加来—敦刻尔克—格拉沃利戈斯的金几尼—伦敦汇票通道**（成本近于零）；但需同时评估它与 F3（保护清算节点）的**内在冲突** |
+| **B2 英国耐力** | 1813–15年英国的约束是**结算而非财政**：1814年1月全欧两月内可搜集的法国硬币仅 **£15万**；补贴另是法兰克福资本市场的边际买盘来源 |
+| **M1 市场隐含预期** | 欧洲外汇市场深度 **£10万（官方/单点）–£70万（多节点私人网络）**；另建议新增 **汉堡 agio** 为第四条市场证词序列 |
+| **X2 大陆体系** | 加严封锁产生的不是守法而是**寡头化的违法**（1810年法兰克福234家被抄、但多数行在特里亚农后仍走私） |
+| **SP1/MX/SA** | 1806–08年白银链对法年均交付 **200–400万法郎现金＋等值殖民地产品**（区间假设）；**1808年废黜即摧毁该链** |
+| **IT1/IT3** | Monte Napoleone 第13条的**预算优先＋利息法定封顶**是法制藩属公债的模板；其债务在1816–20年由外交公约分摊并付息至1866年 |
+| **NL/D2** | 荷兰 tiercering（年金78m→26m）与热那亚（近1.22亿里拉被否认）**是同一条规则的两次实施**，不应分别叙述 |
+| **F4** | 建议把本卡的 **F1（废除三分之一规则）** 与 **F2（法定上限的统合公债）** 列入其“和平财政转型 B 分支”的必要条件 |

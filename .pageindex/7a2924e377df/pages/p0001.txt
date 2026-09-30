@@ -1,0 +1,34 @@
+# G1 · SOURCES（来源清册）
+
+体例：编号｜出处｜实际阅读层级｜本地路径或doc_id｜独立性备注。「搜索快照核读」＝检索返回的连续正文段落已核读但未另存整页；此类引用在正文注URL。转引层级逐项标明。
+
+## 一手文书（条约、宪法、敕令）
+
+- **S1** Rheinbundakte 1806-07-12：法文（Köbler转录）＋德文（Wikisource）。上一轮已核，复用：`downloads/pages/227f1cf6004e.md`、`downloads/pages/92b28bd48ca8.md`；逐条摘录见 nodes/r_b55f2c1cf5/cards/t_7da32d/rhine_notes.md §1。两转录为同一文书两语种，非独立史料。
+- **S2** Konstitution für das Königreich Baiern（1808-05-01签署/05-25公报颁布）：verfassungen.de全文（底本Pölitz 1847），`downloads/pages/5b085cf6826c.md`；GHDI节选＋编者说明（底本Regierungsblatt Sp.985–1000，转印Demel/Puschner 1995），`downloads/pages/964e681bbff7.md`。同一文书两转录。
+- **S3** Rieder-Vertrag 1813-10-08 全文（公开条款德法双栏＋秘密条款法文）：de.wikisource，底本G.M. Kletke《Die Staats-Verträge des Königreichs Bayern…von 1806 bis einschließlich 1858》(Pustet 1860)，另注Martens Recueil T.Supp.V p.612。`downloads/pages/c7e7b21e85be.md`。网络转录非签署原件；HHStA藏原件（AT-OeStA/HHStA UR AUR 1813 X 8）仅目录见于搜索快照。
+- **S4** Badisches Landrecht 1809-02-03引入敕令（印页III–XX）：Köbler转录。上一轮已核，复用：`downloads/pages/e7645400387a.md`（rhine_notes §4.1）。
+- **S5** Deutsche Bundesakte 1815-06-08 Art.14（陪臣贵族条款）：germanhistorydocs＋documentarchiv.de＋verfassungen.de三转录一致（搜索快照核读）。同一文书三转录。
+- **S6** Zollvereinigungsvertrag 1833-03-22及续约系谱：verfassungen.de/de06-66/zollverein33.htm＋reichsgesetzblatt.de目录（搜索快照核读）。
+
+## 研究性辞典条目与门户（当代学术编纂）
+
+- **R1** Historisches Lexikon Bayerns「Konstitution des Königreichs Bayern (1808)」（Katharina Weigand, 2024）：全文抓取 `downloads/pages/5df7f181c2a5.md`。
+- **R2** Historisches Lexikon Bayerns「Säkularisation」（Winfried Müller†, 2026刊）：全文抓取 `downloads/pages/02935a70559b.md`。
+- **R3** Historisches Lexikon Bayerns「Bayerische Herrschaft in Tirol (1806-1813/14)」（Margot Hamm, 2025）：全文抓取 `downloads/pages/4161d873abee.md`。
+- **R4** Haus der Bayerischen Geschichte门户：Ried条约对象页 `downloads/pages/6fc5e566ba0b.md`；「Bayern Ende 1803/1810」地图对象页（objekt/339、337，搜索快照核读，含人口序列与拜罗伊特23M法郎购价）。
+- **R5** LEO-BW「Württemberg, Friedrich II./I.」＝Wolfram Siemann传（《Lexikon Haus Württemberg》1997, S.289–292全文转载）：`downloads/pages/4e950a03a636.md`。
+- **R6** Deutsche Biographie（NDB Schwarzmaier 2003＋ADB Weech）「Reitzenstein」＋Stadtlexikon Karlsruhe「Reitzenstein」：搜索快照核读（正文完整返回），URL见笔记二§B。两条目部分同源（皆据巴登史文献），按一个半独立来源计。
+- **R7** de.wikipedia「Württembergische Landstände」：`downloads/pages/2f8f4416ec15.md`；「Standesherr (Deutscher Bund)」：搜索快照核读。维基条目仅用于制度节点日期与构成数字，关键判断另有锚点。
+- **R8** IEG-Mainz HGIS Germany「Bayerisch-Württembergischer Zollverein (1828-1833)」文档PDF：搜索快照核读，URL见笔记三§C。
+- **R9** verfassungen.de「Verfassung des Königreichs Bayern (1808)」编者按（1808宪法未实际运转、1818被替代）：随S2抓取。
+
+## 专著与论文（实际核读者）
+
+- **M1** Alexander Grab, *Napoleon and the Transformation of Europe* (Palgrave 2003)，德意志章（印页88–110）与相关页：全书文字转录 `downloads/pages/2ad693d5ac13.md`（上一轮资产复用）。本卡引用页码均为印页。
+- **M2** Eberhard Weis, *Die Säkularisation der bayerischen Klöster 1802/03. Neue Forschungen zu Vorgeschichte und Ergebnissen*（BAdW Sitzungsberichte 1983/6）：全文PDF `downloads/G1_Weis_Saekularisation_bayerische_Kloester.pdf`（doc 0144348752eb，75页）；本卡核读第7节（Gewinn，印页51–55）及大纲；转引其注引Montgelas《Denkwürdigkeiten》p.129与Demel 1981未刊博论数据处均标转引。
+- **M3** Johannes C. Buggle, "Law and Social Capital: Evidence from the Code Napoleon in Germany", SOEPpapers 566 (2013)：doc 41e0848d1333；核读p.1、p.10（印页8）。
+- **M4** Michael Kopsidis & Daniel W. Bromley, "The French revolution and German industrialization: dubious models and doubtful causality", *Journal of Institutional Economics* 12/1 (2016) 161–190：doc 40e4b5895015；核读p.1、印页169。**Fehrenbach 1983与Berding 1973的论点经此文转引**。
+- **M5** Hamish Davey Wright, "Andreas Hofer and the insurrection in the Tyrol, 1809", napoleon.org研究文章（注释引Sévillia 1991、Kerautret 2004、旧版Correspondance XVII–XX）：全文 `downloads/pages/1ee80b7507ce.md`。Sévillia页码（p.78、81、118等）经该文转引。
+- **M6** Stephan Gruber, "Resistance in the 'holy land' of Tyrol", habsburger.net：全文 `downloads/pages/9a69563ae505.md`。其所引拿破仑评巴伐利亚治蒂罗尔语无出处注，正文标"谨慎引用"。
+- **M7** Acemoglu/Cantoni/Johnson/Robinson 2011（"The Consequences of Radical Reform"）：doc 8835f54b20f5，在库；本卡仅经M3引用与M4批判转述间接使用，未独立采信其回归结果。

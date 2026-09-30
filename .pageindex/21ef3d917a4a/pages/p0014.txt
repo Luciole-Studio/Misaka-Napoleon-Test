@@ -1,0 +1,41 @@
+The price of a 4 percent redeemable bond, is the sum of a 3 percent bond and a bond
+that pays one pound per year until a maturity that is random and related to the end of
+the war. A longer war lowers the price of the 3 percent bond and increased the number
+of years during which the additional coupon of one would be paid. If the impact of the
+higher interest rate on discounting is not too large, the longer maturity had a positive
+effect on component with a random maturity. One should expect that the variance of
+the 4 percent bond price is lower than that of the 3 percent bond. The next table shows
+that the variance of the 4 percent price was indeed lower, but the effect is not very large.
+
+
+
+              Table 1: Descriptive Statistics of Annuity Prices, 1793-1821
+
+                                              Consols (3%)     4% annuities
+
+               Mean                                64.3            80.7
+               Standard Deviation /Mean            0.11            0.10
+               Maximum                             83.8            101.8
+               Minimum                             47.4            58.1
+               Observations                        7606            6420
+
+
+
+The arguments on the variances of the prices and the shift of interest payments to the
+future must have been discussed at the time since Grellier (1812) mentions them.
+
+
+The gains from the end of the war (assuming victory) are distributed differently when
+the loans are in consols at 3 percent or redeemable annuities at 4 percent or 5 percent.
+In the first case, the end of the war brings a capital gain and the beneficiaries are the
+bond holders. For the second case, we have to consider only the difference between
+holding redeemable annuities and consols. The end of the war eventually terminates the
+difference in coupons. The beneficiary is the tax payer.
+
+
+There are other arguments that would be in favor of high coupons bonds and these may
+not appear in the literature of the time. The first is that a high coupon bond generates
+an incentive for “good behavior”, both in terms of taxation and expenditures. Such a
+behavior generates a faster return to lower interest rates. By redeeming the high coupon
+
+                                            14

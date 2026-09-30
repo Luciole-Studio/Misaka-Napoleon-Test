@@ -1,0 +1,42 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: c4_transition_sensitivity.csv
+
+```meta
+▸ table "c4_transition_sensitivity.csv" (24 data rows)
+▸ columns
+    external_cash_loss: num, min=10, max=10
+    spending_saved: num, min=0, max=15
+    enforcement_added: num, min=0, max=5
+    domestic_cash_recovery: num, min=0, max=5
+    incremental_primary_gap: num, min=-10, max=15
+    unit: str, 1 uniq: ['arbitrary_money_unit']
+    status: str, 1 uniq: ['MODEL_UNCALIBRATED']
+    locator: str, 1 uniq: ['c4_endurance_scenarios.md section 6']
+    interpretation_limit: str, 1 uniq: ['24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus']
+```
+external_cash_loss,spending_saved,enforcement_added,domestic_cash_recovery,incremental_primary_gap,unit,status,locator,interpretation_limit
+10,0,0,0,10,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,0,0,5,5,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,0,2,0,12,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,0,2,5,7,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,0,5,0,15,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,0,5,5,10,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,5,0,0,5,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,5,0,5,0,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,5,2,0,7,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,5,2,5,2,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,5,5,0,10,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,5,5,5,5,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,10,0,0,0,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,10,0,5,-5,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,10,2,0,2,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,10,2,5,-3,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,10,5,0,5,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,10,5,5,0,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,15,0,0,-5,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,15,0,5,-10,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,15,2,0,-3,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,15,2,5,-8,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,15,5,0,0,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus
+10,15,5,5,-5,arbitrary_money_unit,MODEL_UNCALIBRATED,c4_endurance_scenarios.md section 6,24 complete combinations; not empirical French values; negative gap is budget improvement not observed surplus

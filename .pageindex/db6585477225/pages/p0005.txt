@@ -1,0 +1,43 @@
+
+
+### I2｜UK Parliament，“Emancipation”
+- https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/religion/overview/emancipation/ ；`downloads/pages/fcdc56f810a6.md`；短页全文已读。
+- 1823组织动员、1829统治安全顾虑：“British rule in Ireland might otherwise break down”。
+- 网页末句对投票权简化，本卡**不主张1829以前所有天主教徒都无票**。
+
+### J1｜Cobbett，1803-07-30
+- *Cobbett’s Weekly Political Register*, 30 July 1803；Leonora Nattrass/James Epstein现代选编公开摘要节录，DOI 10.4324/9781003192756-4。
+- https://doi.org/10.4324/9781003192756-4 ；`downloads/pages/39348d986bea.md`；“they are the people whom they are now preparing to invade”。
+- 只读该可见片段，不等于逐期报刊立场序列；可否定‘Cobbett始终亲法’，不能测量全国舆论。
+
+### J3｜Samuel Smiles，《Times》经营与消息网络
+- *Men of Invention and Industry* (1884)，ch.VII，Wikisource转录。
+- https://en.wikisource.org/wiki/Men_of_Invention_and_Industry/Chapter_VII ；`downloads/pages/0b0e283a3d34.md`，行30–58实读。
+- 记Walter批部长而失政府印务、1805消息受阻、自办信使；转引Crabb Robinson日记1807赴Altona任通讯员。
+- **回溯性、维多利亚企业家颂传、雇主立场**；不采其‘发明现代新闻’等夸张为事实，也不以其为日报全年的独立统计。
+
+## 四、财政、贸易与竞争解释
+
+### K1｜B2/Bank of England宏观历史序列
+- 数据源：Bank of England, *A millennium of macroeconomic data*, v3.1，更新至2016，B2于2026-09-23下载。
+- https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-the-uk.xlsx 。
+- 原始`downloads/B2_BoE_millennium_v31.xlsx`；SHA256 4c23dd392a498691eac92659aec283fb43f28118bd80511dc87fc595974195eb。
+- 本轮输入：`nodes/r_5b1357a9c6/cards/t_044211/B2_series.csv`、`BoE_selected_cached_values.xlsx`、`BoE_provenance.json`；B1实际读CSV字段/有关年度记录与provenance，不冒称重算整源簿；B2用openpyxl data_only读取源缓存。
+- 财政£million名义财年：A27!AT/AV/AW128、129、134、135、139；对应1804/05、1805/06、1810/11、1811/12、1815/16，1月5日年终。历年consol收益率A31!T130=4.4085408495%；T131=4.6741684621%，差约26.56bp。
+- 这些是现代历史整理，非当时政府可见的同口径综合表。未用其断定财政绝对上限。
+
+### K2｜Eli F. Heckscher贸易、回款与补贴
+- *The Continental System: An Economic Interpretation*, Oxford: Clarendon Press, 1922；印页175、240–247、353。
+- `downloads/c15_heckscher1922.pdf`，doc 1baaae7f3185；SHA256 1baaae7f3185eb96c40c95891dcd3efbf6da2426bd782d06bc4a3b81e7149a5a。
+- 本轮实读旧核证札记`nodes/r_b55f2c1cf5/cards/t_b7b7b1/trade_evidence.md`第一至三节；该轮已读原段并对p.175/244/245核图，本卡明确转引。
+- p.244：“‘real’, that is to say, declared, values”；“for Great Britain only, not for Ireland”。p.245原源为Hansard XXII appendix1 cols.lxi–lxii，未亲读该附表。
+- p.240：“exporters could not get payment from their South American buyers”；p.241回款常为殖民地产物。表列非美国美洲含西印度，不能写成纯拉美。
+- 1807–12现金补贴£14.722m（p.353）仅辅助，不包含全部海外军费；不把同一份表与其后引文算独立证据。
+
+### K4｜1815“陆转海”预算选项与反驳
+- HC Deb 14 June 1815, vol.31, cc799–822，“Separate Charges”；本卡读Vansittart cc806–808及Tierney cc809–813的上下文。
+- https://api.parliament.uk/historic-hansard/commons/1815/jun/14/separate-charges ；`downloads/pages/156d03703582.md`，本轮实读行168–196及头部日期/卷号。由B2发现、Last Order转交，本卡复核；不可把两卡引用算独立证据。
+- cc806–807：“supposing any arrangements to be made by her with the Continental Powers, that expense now incurred for our armies would cease, and the supplies at present demanded for them could be applied to the service of our navy”。这是当时部长提出的海战续行方案，不是英国与法国总和平的预定军费。
+- c.807部长称海员拨款人数削减后，返航人员要求补付欠饷，反使当期现金开支增大；人数是其预算陈述，不是本卡独立核定的在役数。
+- c.809 Tierney：“there seemed no reason to doubt that similar arrears would again accumulate”；并批评军需/营房低估，至c.813反对据此预言次年大减。页面发言标题误作“Mr. Turney”，c.812正文确写“Mr. Tierney”。
+- 支撑当时选项和转型滞后，不证明方案已执行、必可节省某数额或1807已有相同决议。详见本卡`notes_budget1815.md`。

@@ -1,0 +1,44 @@
+Oxen numbers were recorded in the surveys noted above, and previous estimates of oxen
+working in agriculture have been provided by J.-C. Toutain for 1850, 1890 and 1913.23 These
+appear to be reliable and have been followed here. For intervening benchmark dates
+numbers have simply been linearly interpolated. For the start of the nineteenth century, we
+have employed estimates collected by Chaptal on the basis of local statistical surveys.24
+Although his figure for working oxen is significantly lower than that provided by other
+agronomists of the revolutionary period, it is far more in line with all later estimates and on
+what seems likely on the basis of cross-national comparison.
+
+
+Italy
+
+
+        Year                  Horses    Oxen     Mules         Donkeys    Horse Equivalents
+        1860
+                               401      1351      236           472             1399
+        1870
+                               384      1376      226           452             1377
+        1880
+                               453      1452      267           666             1592
+        1890
+                               480      1660      282           564             1693
+        1900
+                               516      1762      303           607             1810
+        1913
+                               669      2038      393           787             2237
+
+
+
+Horses, mules and donkeys
+
+
+National statistics provide figures for total numbers of horses, mules and donkeys from 1861
+onwards. These have been adjusted by deducting 15% for foals, and a further 20% for
+horses used in non-agricultural purposes. It has further been assumed that 80% of donkeys
+and mules are used for draught power in agriculture.
+
+
+Oxen and cows
+
+
+
+23 See note 19.
+24 Chaptal, De l’industrie française.

@@ -1,0 +1,52 @@
+1364                                    R. Brázdil et al.: Climatic effects and impacts of the 1815 eruption of Mount Tambora
+
+
+
+
+Figure 2. Seasonal temperature anomalies at Prague-Klementinum (1), Žitenice (2), Brno (3), in the Czech Lands (4) and central Europe (5)
+series around the time of Tambora eruption in 1815 (Wi – Winter, Su – Summer). Anomalies are expressed with respect to the 5-year period
+pre-eruption: month zero – April 1815.
+
+
+analysis, interpretation of records with respect to recent             4.1   The Tambora eruption in the context of
+meteorological terminology, and cross-checking of records                    meteorological observations
+against various places in the Czech Lands. The creation of a
+database was the next step, in which information about place,          Figure 2 shows seasonal temperature anomalies for the
+time and event, characterised by key-words, full reports, and          Prague-Klementinum, Žitenice and Brno stations and for
+data sources, has been recorded to provide a basis for further         mean series for the Czech Lands and central Europe. These
+use (see Sect. 4.2). Kreybich’s records from Žitenice (S1–             are expressed with respect to the 5-year period pre-eruption.
+S3) and Hausner’s observations from Buchlovice (S4) were               Cooling, as indicated by negative anomalies, is already ev-
+then further employed for calculation of monthly numbers of            ident in the summer and autumn of 1815 and, after the
+precipitation days in 1815–1817 (see Fig. 6).                          slightly positive winter of 1815/1816 temperature anomaly
+   The climatic effects of the volcanic eruption based on in-          it continued for the rest of 1816. After a very mild win-
+strumental observations are expressed in the short-term and            ter of 1816/1817 (the mildest in the 1811–1820 period in
+long-term contexts. In the short-term, the approach followed           four series; only the winter in Brno 1814/1815 was slightly
+is that taken by several other papers addressing the effects           warmer), negative anomalies occurred, especially in spring
+of eruptions on temperature series (e.g. Sear et al., 1987;            which had the strongest negative anomaly (stronger than
+Robock and Mao, 1995; Kelly et al., 1996; Písek and Brázdil,           in summer 1816). Autumn 1817 also exhibited a nega-
+2006; Fischer et al., 2007). Temperature patterns related to           tive anomaly. However, it also follows from Fig. 2 that
+the eruption are described over a 10-year period to avoid the          a cooler period was already in process from spring 1812
+possible influence of a strong trend. The month of the erup-           to autumn 1814, interrupted by slightly positive anoma-
+tion is taken as month zero. The mean temperature for each             lies in spring 1813 at two Bohemian stations (Prague-
+month was calculated using temperature data from 5 years               Klementinum, Žitenice), while warm patterns prevailed in
+prior to the eruption. Each monthly mean temperature for               1811. Among monthly temperature anomalies, April 1817 is
+5 years before and after the eruption was then expressed as            worthy of a mention, fluctuating between −4.2 and −4.8 ◦ C
+a departure from the calculated mean value. The same ap-               for the five series studied (Fig. 3a). Other very cold months
+proach was applied to a series of precipitation totals. For            included October 1817, December and July 1815. On the
+the long-term context, the eruption year and two subsequent            other hand, very high positive anomalies occurred in January
+years were characterised by their order and magnitude in the           1816 and in January–February 1817.
+whole series shown in increasing (temperatures) or decreas-               A considerable drop in differences between mean winter
+ing (precipitation) order.                                             and summer temperatures in 1815 was followed by a clear
+                                                                       reduction of seasonality after the Tambora eruption for all
+                                                                       five series (Fig. 4). This is related to the fact that tropical
+4   Results                                                            eruptions induce a positive phase in NAO circulation over
+                                                                       Europe in the first and second years post-eruption, leading
+This section describes climate, weather and related phenom-            to winter warming on the one hand and summer radiative
+ena in the Czech Lands during the time after the Tamb-                 cooling due to volcanic aerosols on the other (Fischer et al.,
+ora eruption. Because the character of the data differs quite          2007).
+sharply, a division is maintained between information ob-                 Seasonal precipitation anomalies in the Prague-
+tained from quantitative meteorological measurements and               Klementinum, Brno and Czech Lands series (Fig. 5)
+more qualitative data arising out of documentary evidence.             exhibited positive anomalies in both summer 1815 (particu-
+
+
+Clim. Past, 12, 1361–1374, 2016                                                                   www.clim-past.net/12/1361/2016/

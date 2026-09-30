@@ -1,0 +1,32 @@
+# B4 来源、引文与口径
+
+本表只列实际读取的版本。正文用[S01]等代号；页码未标PDF者是印刷页。网页文件是本次捕获文本，不保证原站全部内容；全文已下载的书也不等于逐页读完。编纂史中的档案引注一律只是来源谱系，未冒充亲阅原折。工作目录 `/Users/makiko/Documents/exam/`。
+
+## 实际使用
+
+### S01 — Fortescue：郡尉、动员与原表
+J. W. Fortescue, *The County Lieutenancies and the Army, 1803–1814* (London: Macmillan, 1909).
+- 版本：Internet Archive扫描，https://archive.org/details/countylieutenanc00fortiala 。下载原PDF与OCR：`downloads/B4_Fortescue_CountyLieutenancies1909.pdf`、同名`.txt`；doc `abd412ff468f`、`f39a790d8d60`。
+- PDF SHA256：`abd412ff468f09c46f280d9d57e170e6a0c982e58e9981a574be3b5981f8ce92`。
+- 重点实读：pp.9–10、68–69、132–133、136–140、144、151–154、291–294；附表292–294看过影像（PDF316–318）。PDF页=这些印刷页+24。
+- p.9：rank and file在其1803表中定义为“corporals and privates only”；炮兵、军官、鼓手等不可随意并入。此页对锡兰本地军的贬词是作者殖民偏见，本卡不接受为能力测量。
+- p.10：1803-06-01大不列颠骑兵9,046、步兵22,814；爱尔兰另为3,215、16,556。引句：“The remainder were abroad or on passage.” 全国约114,000 all ranks是作者含炮兵等估计，不能直接与附表293的rank/file比较。
+- p.69：1803年12月GB志愿兵约380,000 all ranks；附表294更精确地列1803-12-16为380,193，1804年1月380,258，1805-01-01为360,814。附表1803爱尔兰80,000与正文约70,000不一致，本卡不使用爱尔兰该数。
+- p.136：1803-10-31撤粮畜令遭Richmond、Moore反对；转引1804-01-16、01-19、02-10通令设车辆运输。短引：“provided with seats for the conveyance of men from the remoter districts to London”。
+- p.137及注1：1804-08-11、08-17安排最后四个邮站换邮车向伦敦输送，所列起点含Guildford、Andover、Marlborough、Bedford、Banbury、Daventry、Northampton、Kettering、Stilton、Cambridge。原文：“It was reckoned that the waggons would carry the troops forty miles a day for three days”；是设计估计，不是演练测量。西约克郡农民拒绝车辆点验，理由作者仅推测。
+- p.139：1803-11-01—1804-03-05沿海郡超过80,000志愿兵参加连续服役；6月Pitt称升至100,000–150,000（后者经Fortescue转引议会）。p.140：Norfolk 1804年5月仅3/33团被视为fit for service，禁止外推全国比例。
+- p.151：KGL由1803年8月获准组建的King’s German Regiment扩展；1804年底2骑兵团、5炮兵连、6步兵营，1805年底步兵营9个。作者“不是雇佣兵”等价值判断不作为无条件忠诚证据。
+- p.152：1805年11月第一批11,000赴Cuxhaven；至1806年1月Cathcart超过26,000，不计被风暴驱回/失事近3,000；累计派约30,000，非同时到岸数。
+- p.154：Perth、Edinburgh、Caithness、Carmarthen郡尉1805年报告低赏金、家庭给养、选团限制、制造业高工资、既有征募与逃亡庇护影响入伍；原报告仅转引。
+- pp.291–292：Adjutant-General’s Office，1813-11-13；普通征募、Additional Force Act、民兵转募分列。1807–08、1809–10原表合并民兵转募，禁止拆年。1813行实际1812-12-25—1813-09-25。Casualties不是阵亡同义词。p.292民兵自由征募表日期1813-11-15，出处*Commons’ Journals* LXIX p.635。
+- p.293：有效rank/file全军、英籍单位、外国/殖民单位及民兵；*Commons’ Journals* LXIX p.638。这里只是Fortescue刊印的返回表，不等于本卡查阅议会原件。
+
+### S02 — Fortescue：本土防御及迈达
+J. W. Fortescue, *A History of the British Army*, vol. V, 1803–1807 (London: Macmillan, 1910).
+- 本地连续OCR：`downloads/c11_fortescueV.txt`；来源 https://archive.org/details/historyofbritisharm05fort 。检索doc `a6d48ed70111`；该OCR检索页不是印刷页。
+- 实读重点：pp.193–234、261–267、279–280、305–306、335–340；pp.338–340在本地17150–17432行附近。
+- pp.231–232：作者叙述1803-10-31的driving scheme因Richmond/Moore反对而被放弃；不可扩大为所有地方筹划终止。S20引11月地方命令构成必须保留的限定，两者是否同层级/版本尚待原卷。与S01同一作者/研究链，不能算独立互证。
+- pp.232–234：车运/旅编制/集结地是组织措施，作者“readily concentrated in any quarter”没有给出4万人或48小时。p.234英国巡航舰警戒及荷方船艇突破监視的叙述支持警戒有用但非无缝，不支持固定预警小时数。
+- pp.264–265：作者明言结果取决于登陆人数、地点、卸载时间及预警；1804–05已有集结点、侧翼退却、骑兵袭扰思路。“retreat to a flank if defeated”。政府迁Worcester的叙述未进一步取得原始命令。其随后“不会投降”“法军在伦敦必瓦解”的段落是作者的反事实推想，不是1805事实。
+- pp.338–339：Stuart远征总兵力约5,500 all ranks；注称登船返回4,795 rank/file，另引Oman统计251 officers+5,280 NCOs/men。正文不是三个可累加数字。“for want of horse-transports, had none, except sixteen”指骑兵。
+- p.340：1806-07-01分批卸载；当晚“every man, gun, and animal had been disembarked”；先头登陆未遇滩头抵抗，战斗稍后在内陆发生。说明小规模完整登陆的时间与马匹约束，不证明十万人的同比扩展。

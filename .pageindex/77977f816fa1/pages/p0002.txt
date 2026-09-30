@@ -1,0 +1,122 @@
+
+
+R2：
+
+> “das Königreich Württemberg 12,000”
+
+**口径限制：**
+
+- 是1806年创设条约中的**战时法定出兵责任**。
+- 不是某日实员、年度可持续征兵量或1812年远征军人数。
+- 不是邦联后续扩员后的总兵力。
+- 法文“de toutes armes”指各兵种合计；不能译为每种兵种各20万／3万人。
+- 法国20万人不计入上述63,000人的德意志成员合计。
+
+### 1.4 误录对照：符腾堡10,000人与错误的61,000合计
+
+检索结果显示下列网页第38条写为：
+
+> “das Königreich Württemberg 10,000”
+
+URL：  
+https://www.epoche-napoleon.net/quellen/1806/07/12/rheinbundakte.html
+
+本轮该页仅经检索返回内容核见，没有另行保存完整正文快照。
+
+若采用10,000，会得到：
+
+\[
+30,000+10,000+8,000+5,000+4,000+4,000=61,000
+\]
+
+【裁量｜高置信度】本札记采用R1法文“douze mille”与R2德文12,000相符的读数，即**63,000**；把Epoche Napoleon的10,000登记为网络转录差异，不用于军事核算。尚未核签署原件，不虚称完成原件校勘。
+
+---
+
+## 2. 1806年两份文书：扩大邦国与限制保护人内政职权
+
+### 2.1 版本与本轮核读范围
+
+**R3**
+
+*Œuvres de Napoléon Bonaparte*，tome IV，Panckoucke，1821；Project Gutenberg 13192。
+
+URL：  
+https://www.gutenberg.org/ebooks/13192
+
+实际核读的是用户提供的项目抓取：
+
+`downloads/pages/649e54bf4408.md`
+
+定位：
+
+- 第568–608行：该版署1806年4月21日致Talleyrand备忘录；
+- 第787–847行：1806年9月11日致prince primat信。
+
+【来源限制】1821年刊行的是文书汇编；所载1806信件不能仅因出版较晚便视为圣赫勒拿回忆录，但传本、日期和编辑处理仍须核查。本轮没有核到手稿或现代《Correspondance générale》的对应条目。
+
+### 2.2 **1806年9月11日**致prince primat
+
+日期标题：
+
+> “Au palais de Saint-Cloud, le 11 septembre 1806.”
+
+收件人：
+
+> “A.S.A.E. le prince primat.”
+
+【事实｜该版所载信文】拿破仑说明保护人的责任是保障邦联不受外国军队侵犯，以及保障成员不受其他成员侵害；随后否认意图承接旧德意志皇帝作为宗主的权力。
+
+关键原文：
+
+> “Les affaires intérieures de chaque état ne nous regardent pas.”
+
+> “Les princes de la confédération du Rhin sont les souverains qui n'ont point de suzerain.”
+
+> “Ce ne sont point des rapports de suzeraineté qui nous lient à la confédération, mais des rapports de simple protection.”
+
+信中还把邦联会议界定为维持诸侯间和平的政治法庭：
+
+> “La diète est le tribunal politique, conservateur de la paix entre les différens souverains qui composent la confédération.”
+
+【文献推断：本札记】这份信可作为**分散邦国主权的明确政策表述**。它不仅维护邦国对外地位，也拒绝把臣民与其君主的争议引向外国上级法庭。因此，“权力分散”不等于人民自治；它也可能强化各邦君主对臣民的权威。
+
+【局限】它证明拿破仑如此表述保护人的职权，不证明法国实际从不干涉。必须与条约第12、35–38条以及1807年给Jérôme的细密指令并读。
+
+### 2.3 该版署**1806年4月21日**致Talleyrand备忘录
+
+日期标题：
+
+> “Paris, le 21 avril 1806.”
+
+标题：
+
+> “Copie d'une note remise par Napoléon, lui-même, à M. Talleyrand, ministre des relations extérieures.”
+
+【事实｜该版文本】提出在德国北部建立亲法新邦，以保障荷兰、佛兰德免受普鲁士威胁，并阻挡俄国。以贝格、克莱沃、黑森—达姆施塔特等为核心，考虑形成约100万至120万人口的新邦；汉诺威为可选加入，汉堡、不来梅、吕贝克为远景。
+
+关键段落：
+
+> “Cela fait, considérer l'Allemagne comme divisée en huit états: Bavière, Bade, Wurtemberg, et le nouvel état; ces quatre, dans les intérêts de la France.”
+
+> “L'Autriche, la Prusse, la Saxe, Hesse-Cassel, dans les quatre autres.”
+
+随后要求：
+
+> “il faut faire un calcul statistique pour savoir si les quatre états qui sont dans les intérêts de la France perdront ou gagneront plus à cette destruction, que les quatre états qui n'y sont pas.”
+
+【文献推断：本札记】它直接支持以下判断：拿破仑曾考虑通过**扩大中等邦国、消灭部分小主权体、计算亲法与非亲法集团的相对收益**来塑造德国秩序。它不是保持无限碎片化的方案，也不是统一德国国家的方案。
+
+【局限】必须保留原文的条件性：“supposez”“si l'on veut”“dans la perspective”。这是一份要求研究和统计的桌面设想，不是已经执行的八邦安排。
+
+**日期警报：**
+
+备忘录要求星期日上午提交报告，编者紧接注：
+
+> “Nota. Le dimanche était le 23 d'avril.”
+
+【未验证项】该注与署年、署日存在历法疑点；本轮未独立执行历法校验或核原稿。因此宜写“**该版署1806年4月21日**”，不得擅改日期，也不得据此建立精确到日的决策因果链。
+
+---
+
+## 3. 威斯特伐利亚：宪制改革与军事汲取同时写入制度

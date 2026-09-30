@@ -1,0 +1,37 @@
+the 19th century. Having one more mechanized spindle in 1812 as a result of higher pro-
+tection during the blockade increased mechanized spinning capacity by about 2-3 spindles
+in 1840, and 5-6 spindles in 1887. As the industry expanded in France throughout the
+19th century, the results show that regions which had a first-mover advantage as a result
+of temporary protection were the ones disproportionately increasing their spinning capacity
+throughout the 19th century. Moreover, the pattern of persistence is inconsistent with the
+alternative mechanism of slow technology diffusion from Britain, as more southern regions
+of France decreased in absolute magnitude in the long-run. I also examine the extent to
+which temporary protection affected long-run development more generally through its effect
+on mechanized cotton spinning. I find that increased protection from British competition
+increased value added per capita in industry in 1860, through its effect on mechanized cotton
+spinning, but not later.
+    Since tariffs or prohibitions were imposed on cotton manufactures between Britain and
+France following the end of the Napoleonic Wars, the long-term within-country results are
+consistent with an infant industry mechanism at work within France. It does not necessarily
+show however, that (a subset of) firms had become competitive at free trade prices. For this
+reason, I also examine exports of cotton manufactures from France. Consistent with evolving
+comparative advantage in cotton manufactures, I find that exports increased substantially
+after the end of the Napoleonic Wars, in levels and relative to British exports of the same.
+As late as 1850, other countries in Continental Europe typically had much smaller cotton
+spinning industries, suggesting that adoption of the technology was far from inevitable.
+    The results of the paper contribute to several strands of the literature. To the best of
+my knowledge, this paper is the first to provide well-identified, reduced-form evidence of an
+infant industry mechanism. To date, the literature has partially addressed the challenges to
+estimating the effects of temporary trade protection by using calibrated or estimated model
+parameters to simulate the counterfactual of no-protection in partial equilibrium models
+(Baldwin and Krugman, 1986, 1988; Head, 1994; Irwin, 2000; Hansen et al., 2003). Without
+exception, papers in this literature study cases in which the policy-maker implemented tariff
+protection and as such, cannot address the inherent endogeneity of industry choice.
+    More generally, the economic theory underlying the infant industry mechanism can be
+seen in the context of a large class of models which predict that initial conditions are im-
+portant for determining the long-run location of industries as a result of agglomeration
+economies. In particular, the paper is related to a growing empirical literature which ex-
+amines whether temporary shocks can permanently shift the location of economic activity
+
+
+                                             5

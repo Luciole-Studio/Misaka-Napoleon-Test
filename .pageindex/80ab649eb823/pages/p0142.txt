@@ -1,0 +1,53 @@
+124    Robert Mark Spaulding
+
+
+Table 7.5   Downstream toll revenues (in francs)*
+
+1806          1807        1808        1809       1810       1811        1812          1813
+
+1,094,932   1,176,645   1,294,311   1,439,957   1,434,648 1,296,035   1,649,585** 1,093,167
+
+* The years 1806–11 in BHSA, Munich, MA/63447; 1813 calculated from Shirges, Rheinstrom, 80;
+1812 derived from the upstream estimate in Table 7.1; see asterisk note in Table 7.1.
+
+
+
+
+       Table 7.6   Downstream toll revenues: 1810 and 1811 as per cent of 1806
+
+       Location                                   1810                          1811
+
+       Neuburg                                     160                          160
+       Mannheim                                    157                          154
+       Mainz                                       171                          161
+       Kaub                                        172                          161
+       Koblenz                                     135                          126
+       Andernach                                   128                          119
+       Linz                                        125                          119
+       Cologne                                     113                          102
+       Dusseldorf                                  116                          101
+       Homberg/Ruhrort                             112                           96
+       Wesel                                       136                          112
+       Emmerich                                     na                          na
+
+
+50 per cent from 1806 to 1812, as Table 7.5 shows. Even in the economic
+crisis year of 1811, downstream revenues remained 18 per cent above the
+1806 level; only when typhus and war arrived on the middle Rhine in
+1813 did the downstream trade temporarily fall back to 1806 levels.
+   The expansion of downstream trade was a differentiated phenomenon;
+merchandise volumes increased most dramatically on the upper river, as
+reflected in the toll data of Table 7.6. Above Kaub, which meant all of the
+upper Rhine and the upper portion of the middle Rhine, the downstream
+trade grew by well over half. That trend was confirmed at Strasburg where
+210,636 metric quintals were sent downriver in 1810, or 260 per cent of
+the volume of 1806. On the lower section of the middle Rhine, downriver
+freights grew by one-third and on the lower river below Cologne by only
+one-eighth. Without reliable downstream toll data from Emmerich, it
+remains difficult to interpret or explain the incongruous data at Wesel.
+   The rise of a downstream trade greater than or equal to the previously
+dominant upstream trade was a dramatic reversal of long-term historical
+patterns. This was a not a short-term turnabout, but rather the beginning
+of a longer-term pattern of balanced trade that characterized the Rhine in
+the modern period and was brought on, in part, by relatively high rates of
+growth on the upper river.

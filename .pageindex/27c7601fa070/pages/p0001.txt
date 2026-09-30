@@ -1,0 +1,46 @@
+# C15｜大陆经济增长争论：Crouzet 与 O’Rourke 核查
+
+## 0. 验收状态：部分完成，不能标为两篇原文均核毕
+
+【事实】已取得并阅读 O’Rourke **May 2005 工作论文**的正文文本、表1—4及资料附录；TCD 与 NBER 两个来源均有全文提取。没有取得可逐页校对的本地 PDF，也没有完成与 2006 JGH 期刊版的逐项版本比较。
+
+【事实】Crouzet 1964 的 Cambridge 与 JSTOR 页面可定位，全文访问尝试分别返回访问选项、登录页或空内容。**尚未读到 Crouzet 全文**。以下涉及他的具体论点，严格标为转引，不能用于声称本卡已通过“原文全文＋精确页码”验收。
+
+【事实】此前已检查项目 downloads，未发现两篇目标文件。本次未写研究代码、未重新估计模型；使用网页提取并保存文本。提取文本不等同于冻结的原始 PDF。
+
+## 1. 版本与来源路径
+
+| 材料 | 可访问来源 | 本地保存与阅读状态 |
+|---|---|---|
+| François Crouzet, “Wars, Blockade, and Economic Change in Europe, 1792–1815,” JEH 24(4), 1964, pp.567–588 | DOI https://doi.org/10.1017/S0022050700061271；JSTOR https://www.jstor.org/stable/2115762 | 全文未得；访问墙记录 `downloads/pages/220a7b0807cf.md`；JSTOR 登录页 `downloads/pages/55392aeeec19.md` |
+| Kevin H. O’Rourke, *The worldwide economic impact of the Revolutionary and Napoleonic Wars*, May 2005, TCD 工作论文 | https://www.tcd.ie/Economics/TEP/2005_papers/TEP9.pdf | `downloads/pages/dda4372be1f5.md`，全文提取；核心方法、结果、讨论已读 |
+| 同题 NBER Working Paper 11344, May 2005 | https://www.nber.org/system/files/working_papers/w11344/w11344.pdf | `downloads/pages/7539dbb3657c.md`；正文与表4相关内容核对，非逐字符版本比对 |
+| O’Rourke, “The worldwide economic impact of the French Revolutionary and Napoleonic Wars, 1793–1815,” JGH 1(1), 2006, pp.123–149 | https://doi.org/10.1017/S1740022806000076 | 仅核题录和摘要；访问墙 `downloads/pages/7c4d4ef96482.md`。不可把 WP 表4及页码署为期刊版 |
+| Réka Juhász, *Appendix for Online Publication: Temporary Protection and Technology Adoption*, April 2, 2018 | https://www.rjuhasz.com/research/napoleonic_blockade_onlineappendix.pdf | `downloads/pages/ff5e48416b93.md`；实读 A.2.4，pp.11–12，含 Crouzet p.573 转引及反论 |
+| Geoffrey Ellis, “The Continental System Revisited”，收入 Aaslestad/Joor 编 *Revisiting Napoleon’s Continental System*, 2014 | https://www.perlego.com/book/3486690/revisiting-napoleons-continental-system-local-regional-and-european-experiences-pdf | `downloads/pages/2315e9456493.md`；实读公开章节预览，不是全书；预览未显示所引 Crouzet 原页码 |
+
+【事实】网页提取丢失不少页脚。下文 WP 的节号、表号和短引文均可在本地检索；**除保留下来的 p.29 外，不把依照段落分页推算的页码当作精确核定页码**。这意味着用户要求的逐项精确页码仍有缺口，而不是用虚假精确补齐。
+
+## 2. Crouzet：“产业内移”究竟是什么意思？
+
+### 2.1 可以追溯的原话，但属于转引
+
+【文献推断：Crouzet，转引自 Ellis 2014 章节开头】Ellis 明确把以下两句归于 Crouzet 的 1964 论文：
+
+> “shift of industry from the seaboard to the heartland of western Europe”
+
+> “the axis of the Continental economy had now moved from the Atlantic toward the Rhine”
+
+【裁量｜高置信度】这至少说明“沿海向西欧腹地转移”“大西洋轴心向莱茵转移”不是本报告杜撰的概括。但 Ellis 预览脚注1未展开，本次不能提供这两句话的 Crouzet 原页码。
+
+【文献推断：Crouzet 1964 p.573，转引自 Juhász 2018 附录 A.2.4，pp.11–12】海外贸易中断造成持续的区域去工业化：
+
+> “a lasting deindustrialization or pastoralization of large areas”
+
+其论证所指包括法国西部、西南部海岸及依赖黎凡特市场的朗格多克毛纺业，并将这些地方此后相对于法国北部、东部的工业落后，部分归因于战争期间传统产业的崩溃。**p.573 是 Juhász 明示的被引页码，不是本次查验原件所得。**
+
+【文献推断：Crouzet，转引自 O’Rourke 2005 结论部分】棉纺机械化是另一面：O’Rourke 引 Crouzet p.576，称1806—1810年机制棉纱产量增至四倍，并列举里尔、米卢斯、比利时和萨克森纱锭增加；萨克森 mule spindles 由1806年13,000增至1813年256,000。这里保留被引数值和页码，但**不能当成已独立检查 Crouzet 或其底层统计**。
+
+### 2.2 不应偷换成“工厂整体搬迁”或“净增长”
+
+【裁量｜高置信度】从以上文本能稳妥提炼的是产业地理重心重新分布：一边出口与港口关联产业萎缩，一边受保护地区的进口替代、机械棉纺扩张。它不自动证明原有厂房、资本、工人发生等量搬迁；也不证明腹地收益超过沿海损失，更不提供大陆 GDP 净增长率。

@@ -1,0 +1,35 @@
+# IN1 · 东印度公司：作为财政—军事单位的英属印度（1803–1848）
+
+> 卡号 t_0bb54c｜Sister 10041｜运行 r_5b1357a9c6
+> 单位定义：本卡把"东印度公司"当作一个**公司—国家混合体（company-state）**来研究，即"伦敦的法人机构＋控制委员会＋三个管区政府＋三支管区军队＋在印度洋与广州的商业机器"这一整套装置，以及它所统治的领地。凡涉及印度诸邦、马拉塔、锡克、迈索尔遗产等**被统治/未被统治方**的能动性，归 IN2；凡涉及波斯—阿富汗走廊，归 PS；奥斯曼与埃及归 OT/EG。本卡负责的是**英国在印度的那一端**。
+> 三段式标签：【锚点】＝史实／文书（来源）；【机制】＝史实类比或理论机制；【推演】＝情景下的具体演变（高／中／低置信）。
+
+---
+
+## 〇 判决先行（先给结论，再给证据）
+
+**主线判决（中高置信）**：1803–15 的东印度公司不是"英国在亚洲的现金奶牛"，而是一台**高杠杆的、领地端结构性亏损、由商业端（茶—中国贸易）单独维持偿付能力的复合机器**。因此，对本卡三问的答案是：
+
+1. **英国被逐出欧洲后印度能否自养？** — 能，而且比在史实中更能，但**"自养"的含义必须拆成三层**：
+   - 第一层"印度能否养活印度政府与印度军队"：**能**（高置信）。1793–1815 英国国库从未为印度的征服与行政出过一分钱，连派驻印度的**国王军团都按法律由公司岁入支付**（1813 年陆军预算原文，见①）。
+   - 第二层"印度能否在养活自己之后还向伦敦汇出足以支付利息与政治开支的盈余"：**不能**（高置信）。公司自己在 1813 年 2 月的请愿书里写明：若不大幅削减印度军费，就不会有足够的盈余可汇；伦敦义务的履行"most essentially"要靠贸易。
+   - 第三层"印度能否负担一场欧洲规模的对法战争"：**不能，且公司自己在 1812 年正式要求由英国国库承担**（高置信）。
+   → **关键推论：英国被排除于欧洲之外，恰恰放松而不是收紧印度体系的约束**——因为切断的是欧洲市场，而印度体系的偿付能力来自中国与印度洋。真正会被"欧洲失败"打断的，是**伦敦的信用**（汇票兑付），不是印度的税收。
+
+2. **公司对法国威胁如何反应？** — 反应函数是三段式的：**先要钱（要求国库分担并主张公方欠款）→ 再要人（接受更多国王军团，代价是内部军官团政治风险上升）→ 只要伦敦解禁且海军肯配合，立刻主动清除法国在印度洋的基地**（1810 波旁—毛里求斯、1811 爪哇为实测值）。它**没有独立的和战决定权**——1808 年请愿自述最高监督权在国王任命的控制委员会，机密外交经三人秘密委员会下达而董事会"无与闻"。
+
+3. **S4／S5 下 1815–48 走向？** — 无论法国胜败，公司作为**商业垄断者**都将在 1810s–20s 死亡；作为**领地行政机关**都将存活到 1850s 前后。差别在速度与代价：法国胜利（更长、更彻底的欧洲排除）会**提前**打开印度贸易、**提前**把公司变成纯行政机构、**加速**鸦片—中国路线的财政化，并把英印军队更早地"国王军化"。
+
+**falsifier 裁定**：本卡受命检验"1805–12 公司已无法自付驻军→承压能力下调"。裁定为 **部分成立，但必须改写**：公司在 1805–12 年确实无法从**领地经常收入**中支付"驻军＋利息＋伦敦政治开支"的全部（1803–04 实绩缺口 £1,124,403；1805–06 预算超支 £2,651,939；1808-03 本土债务 £9,122,621、当年现金缺口预估 £2,433,185），但它**仍然支付了**，靠的是三条替代通道：在印度高息借款、在伦敦发债与向政府借国库券、以及用商业利润回填。所以正确的表述不是"无法自付驻军"，而是**"公司能自付常规驻军，不能自付战争峰值与伦敦义务的叠加；它以举债把差额推到未来，而未来的偿付能力压在中国贸易上"**。承压能力不应整体下调，而应**按项目分档**（见⑮）。
+
+---
+
+## ① 决策结构与政治制度
+
+【锚点】1808-04-26 公司请愿（HC Deb vol 11 cc68–79，`downloads/pages/9ea19769f461.md`）自述其宪制位置：
+> "the immediate government of which territories is exercised under the orders of the Court of Directors of the petitioners; but **the supreme superintendence, direction, and controul of all acts, operations, and concerns which in any way relate to the civil or military government and revenue of the said territories ... is now vested in the Board of Commissioners appointed by his majesty for the Affairs of India**"
+
+【锚点】1813-02-22 公司请愿（HC Deb vol 24 cc659–76，`downloads/pages/db711396db6a.md`）补充机密渠道：涉及"levying war or making peace, or treating or negotiating with any of the native princes or states in India"的命令，若被认为需保密，经**三人秘密委员会**下达，"without any privity of the petitioners, or of their court of directors, and without any discretionary authority on the part of the members of such secret committee"。
+
+【锚点】1813-03-08 陆军预算（HC Deb vol 24 cc1156–90，`downloads/pages/18966578d993.md`）：
+> "The second head referred to regiments in the East Indies, but as these were **by law declared to be payable out of the revenues of the Company**, it was only necessary to mention them, that the whole state of the army of Great Britain might come into one complete view."

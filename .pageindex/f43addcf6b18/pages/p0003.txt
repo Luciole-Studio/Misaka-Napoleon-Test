@@ -1,0 +1,87 @@
+## Sheet: F4_fiscal.csv (continued)
+id,record_type,scenario,period,territory,series,value,low,high,unit,basis,source_id,locator,formula,notes
+F4-128,缺测,S0,1805,法国当时疆域；逐年变化,comparable_annual_extraordinary_share_all_resources,,,,%,严格相同边界的年度全资源贡赋比未形成,BR;M,BR p14附表;M pp315-324,,缺失不等于0；共和历与15个月会计期不能强配公历年。
+F4-129,缺测,S0,1806,法国当时疆域；逐年变化,comparable_annual_extraordinary_share_all_resources,,,,%,严格相同边界的年度全资源贡赋比未形成,BR;M,BR p14附表;M pp315-324,,缺失不等于0；共和历与15个月会计期不能强配公历年。
+F4-130,缺测,S0,1807,法国当时疆域；逐年变化,comparable_annual_extraordinary_share_all_resources,,,,%,严格相同边界的年度全资源贡赋比未形成,BR;M,BR p14附表;M pp315-324,,缺失不等于0；共和历与15个月会计期不能强配公历年。
+F4-131,缺测,S0,1808,法国当时疆域；逐年变化,comparable_annual_extraordinary_share_all_resources,,,,%,严格相同边界的年度全资源贡赋比未形成,BR;M,BR p14附表;M pp315-324,,缺失不等于0；共和历与15个月会计期不能强配公历年。
+F4-132,缺测,S0,1809,法国当时疆域；逐年变化,comparable_annual_extraordinary_share_all_resources,,,,%,严格相同边界的年度全资源贡赋比未形成,BR;M,BR p14附表;M pp315-324,,缺失不等于0；共和历与15个月会计期不能强配公历年。
+F4-133,缺测,S0,1810,法国当时疆域；逐年变化,comparable_annual_extraordinary_share_all_resources,,,,%,严格相同边界的年度全资源贡赋比未形成,BR;M,BR p14附表;M pp315-324,,缺失不等于0；共和历与15个月会计期不能强配公历年。
+F4-134,缺测,S0,1811,法国当时疆域；逐年变化,comparable_annual_extraordinary_share_all_resources,,,,%,严格相同边界的年度全资源贡赋比未形成,BR;M,BR p14附表;M pp315-324,,缺失不等于0；共和历与15个月会计期不能强配公历年。
+F4-135,缺测,S0,1812,法国当时疆域；逐年变化,comparable_annual_extraordinary_share_all_resources,,,,%,严格相同边界的年度全资源贡赋比未形成,BR;M,BR p14附表;M pp315-324,,缺失不等于0；共和历与15个月会计期不能强配公历年。
+F4-136,缺测,S0,1813,法国当时疆域；逐年变化,comparable_annual_extraordinary_share_all_resources,,,,%,严格相同边界的年度全资源贡赋比未形成,BR;M,BR p14附表;M pp315-324,,缺失不等于0；共和历与15个月会计期不能强配公历年。
+F4-137,缺测,S0,1814,法国当时疆域；逐年变化,comparable_annual_extraordinary_share_all_resources,,,,%,严格相同边界的年度全资源贡赋比未形成,BR;M,BR p14附表;M pp315-324,,缺失不等于0；共和历与15个月会计期不能强配公历年。
+F4-138,拨款,S0,An XIV-1806,法国当时疆域；逐年变化,army_credits_legal,390.563257,,,百万法郎,军务和军政两部法定拨款；不含盟军等全经济成本,M,p324/PDF344 image checked,,
+F4-139,拨款,S0,1807,法国当时疆域；逐年变化,army_credits_legal,321.4,,,百万法郎,军务和军政两部法定拨款；不含盟军等全经济成本,M,p324/PDF344 image checked,,
+F4-140,拨款,S0,1808,法国当时疆域；逐年变化,army_credits_legal,335.529,,,百万法郎,军务和军政两部法定拨款；不含盟军等全经济成本,M,p324/PDF344 image checked,,
+F4-141,拨款,S0,1809,法国当时疆域；逐年变化,army_credits_legal,340.149,,,百万法郎,军务和军政两部法定拨款；不含盟军等全经济成本,M,p324/PDF344 image checked,,
+F4-142,拨款,S0,1810,法国当时疆域；逐年变化,army_credits_legal,350,,,百万法郎,军务和军政两部法定拨款；不含盟军等全经济成本,M,p324/PDF344 image checked,,
+F4-143,拨款,S0,1811,法国当时疆域；逐年变化,army_credits_legal,460,,,百万法郎,军务和军政两部法定拨款；不含盟军等全经济成本,M,p324/PDF344 image checked,,
+F4-144,拨款,S0,1812,法国当时疆域；逐年变化,army_credits_legal,520,,,百万法郎,军务和军政两部法定拨款；不含盟军等全经济成本,M,p324/PDF344 image checked,,
+F4-145,拨款,S0,1813,法国当时疆域；逐年变化,army_credits_legal,585,,,百万法郎,军务和军政两部法定拨款；不含盟军等全经济成本,M,p324/PDF344 image checked,,
+F4-146,回溯性转引,S0,An XIV-1806,法国当时疆域；逐年变化,army_credits_Mollien,434.072,,,百万法郎,Mollien回忆录所列拨款，与法律列不同,M,p324/PDF344 image checked,,不能平均两列制造唯一值
+F4-147,回溯性转引,S0,1807,法国当时疆域；逐年变化,army_credits_Mollien,343.549,,,百万法郎,Mollien回忆录所列拨款，与法律列不同,M,p324/PDF344 image checked,,不能平均两列制造唯一值
+F4-148,回溯性转引,S0,1808,法国当时疆域；逐年变化,army_credits_Mollien,378.328,,,百万法郎,Mollien回忆录所列拨款，与法律列不同,M,p324/PDF344 image checked,,不能平均两列制造唯一值
+F4-149,回溯性转引,S0,1809,法国当时疆域；逐年变化,army_credits_Mollien,398.286,,,百万法郎,Mollien回忆录所列拨款，与法律列不同,M,p324/PDF344 image checked,,不能平均两列制造唯一值
+F4-150,回溯性转引,S0,1810,法国当时疆域；逐年变化,army_credits_Mollien,379.064,,,百万法郎,Mollien回忆录所列拨款，与法律列不同,M,p324/PDF344 image checked,,不能平均两列制造唯一值
+F4-151,回溯性转引,S0,1811,法国当时疆域；逐年变化,army_credits_Mollien,506.096,,,百万法郎,Mollien回忆录所列拨款，与法律列不同,M,p324/PDF344 image checked,,不能平均两列制造唯一值
+F4-152,回溯性转引,S0,1812,法国当时疆域；逐年变化,army_credits_Mollien,558,,,百万法郎,Mollien回忆录所列拨款，与法律列不同,M,p324/PDF344 image checked,,不能平均两列制造唯一值
+F4-153,回溯性转引,S0,1813,法国当时疆域；逐年变化,army_credits_Mollien,673,,,百万法郎,Mollien回忆录所列拨款，与法律列不同,M,p324/PDF344 image checked,,不能平均两列制造唯一值
+F4-154,预算量级,S0,An XII,法国当时疆域；逐年变化,navy_budget,180,,,百万法郎,Marion紧接拨款段所列量级；不是船舶单价,M,p325/PDF345,,
+F4-155,预算量级,S0,An XIII,法国当时疆域；逐年变化,navy_budget,140,,,百万法郎,Marion紧接拨款段所列量级；不是船舶单价,M,p325/PDF345,,
+F4-156,预算量级,S0,1811,法国当时疆域；逐年变化,navy_budget,155,,,百万法郎,Marion紧接拨款段所列量级；不是船舶单价,M,p325/PDF345,,
+F4-157,预算量级,S0,1812,法国当时疆域；逐年变化,navy_budget,159,,,百万法郎,Marion紧接拨款段所列量级；不是船舶单价,M,p325/PDF345,,
+F4-158,预算量级,S0,1813,法国当时疆域；逐年变化,navy_budget,167,,,百万法郎,Marion紧接拨款段所列量级；不是船舶单价,M,p325/PDF345,,
+F4-159,预算量级,S0,1806-1810,法国当时疆域；逐年变化,navy_budget_range,,105,110,百万法郎,作者概括各年范围,M,p325/PDF345,,
+F4-160,预算,S0,1810-07-26,法国当时疆域；逐年变化,army_sovereignty_baseline,350,,,百万法郎,皇帝罗马分摊计算的全帝国基准,C-JUL,1810-07-26财务会议,,
+F4-161,预算,S0,1810-07-26,法国当时疆域；逐年变化,navy_sovereignty_baseline,100,,,百万法郎,同上,C-JUL,1810-07-26财务会议,,
+F4-162,计划,S0,1810-06-06,法国当时疆域；逐年变化,ordinary_revenue_projection,,710,720,百万法郎,普通收入概算；Tuscany含入、Rome/Illyria另列,C-JUN,"1810-06-06 notes §§7,11",,
+F4-163,作者重建,S0,1803-1814,法国当时疆域；逐年变化,extra_war_finance_french_indirect_contributions,1272,,,百万法郎,额外战争融资分类；名义累计,BR,p14附表：Details of extraordinary financing,,计入节省不是收到现金；内部贷款不是新财富；原文不同段有舍入或排印差异，依能配平附表。
+F4-164,作者重建,S0,1803-1814,法国当时疆域；逐年变化,extra_war_finance_property_sales_deductions,224,,,百万法郎,额外战争融资分类；名义累计,BR,p14附表：Details of extraordinary financing,,计入节省不是收到现金；内部贷款不是新财富；原文不同段有舍入或排印差异，依能配平附表。
+F4-165,作者重建,S0,1803-1814,法国当时疆域；逐年变化,extra_war_finance_special_customs,137,,,百万法郎,额外战争融资分类；名义累计,BR,p14附表：Details of extraordinary financing,,计入节省不是收到现金；内部贷款不是新财富；原文不同段有舍入或排印差异，依能配平附表。
+F4-166,作者重建,S0,1803-1814,法国当时疆域；逐年变化,extra_war_finance_additional_centimes,62,,,百万法郎,额外战争融资分类；名义累计,BR,p14附表：Details of extraordinary financing,,计入节省不是收到现金；内部贷款不是新财富；原文不同段有舍入或排印差异，依能配平附表。
+F4-167,作者重建,S0,1803-1814,法国当时疆域；逐年变化,extra_war_finance_deposits,69,,,百万法郎,额外战争融资分类；名义累计,BR,p14附表：Details of extraordinary financing,,计入节省不是收到现金；内部贷款不是新财富；原文不同段有舍入或排印差异，依能配平附表。
+F4-168,作者重建,S0,1803-1814,法国当时疆域；逐年变化,extra_war_finance_civil_list_loans,95,,,百万法郎,额外战争融资分类；名义累计,BR,p14附表：Details of extraordinary financing,,计入节省不是收到现金；内部贷款不是新财富；原文不同段有舍入或排印差异，依能配平附表。
+F4-169,作者重建,S0,1803-1814,法国当时疆域；逐年变化,extra_war_finance_ordinary_foreign_contributions,809,,,百万法郎,额外战争融资分类；名义累计,BR,p14附表：Details of extraordinary financing,,计入节省不是收到现金；内部贷款不是新财富；原文不同段有舍入或排印差异，依能配平附表。
+F4-170,作者重建,S0,1803-1814,法国当时疆域；逐年变化,extra_war_finance_extraordinary_domain_loans,154,,,百万法郎,额外战争融资分类；名义累计,BR,p14附表：Details of extraordinary financing,,计入节省不是收到现金；内部贷款不是新财富；原文不同段有舍入或排印差异，依能配平附表。
+F4-171,作者重建,S0,1803-1814,法国当时疆域；逐年变化,extra_war_finance_treaty_external_revenue,453,,,百万法郎,额外战争融资分类；名义累计,BR,p14附表：Details of extraordinary financing,,计入节省不是收到现金；内部贷款不是新财富；原文不同段有舍入或排印差异，依能配平附表。
+F4-172,作者重建,S0,1803-1814,法国当时疆域；逐年变化,extra_war_finance_allied_savings,383,,,百万法郎,额外战争融资分类；名义累计,BR,p14附表：Details of extraordinary financing,,计入节省不是收到现金；内部贷款不是新财富；原文不同段有舍入或排印差异，依能配平附表。
+F4-173,作者重建,S0,1803-1814,法国当时疆域；逐年变化,extra_war_finance_unpaid_expenditure,503,,,百万法郎,额外战争融资分类；名义累计,BR,p14附表：Details of extraordinary financing,,计入节省不是收到现金；内部贷款不是新财富；原文不同段有舍入或排印差异，依能配平附表。
+F4-174,作者重建,S0,1803-1814,法国当时疆域；逐年变化,extra_war_finance_private_institution_loans,123,,,百万法郎,额外战争融资分类；名义累计,BR,p14附表：Details of extraordinary financing,,计入节省不是收到现金；内部贷款不是新财富；原文不同段有舍入或排印差异，依能配平附表。
+F4-175,作者重建,S0,1803-1814,法国当时疆域；逐年变化,extra_war_finance_grand_total,4284,,,百万法郎,附表分类总数；非全部军费,BR,p14附表,,
+F4-176,作者重建,S0,1803-1814,法国当时疆域；逐年变化,extra_war_finance_french_treasury_subtotal,1859,,,百万法郎,附表分类总数；非全部军费,BR,p14附表,,
+F4-177,作者重建,S0,1803-1814,法国当时疆域；逐年变化,extra_war_finance_war_subtotal,1799,,,百万法郎,附表分类总数；非全部军费,BR,p14附表,,
+F4-178,算术,S0,1803-1814,法国当时疆域；逐年变化,extra_war_finance_war_share,41.993464052287585,,,%,附表1799/4284,BR,p14附表,1799/4284*100,
+F4-179,作者模型,S0,1805,法国当时疆域；逐年变化,allied_contingent_avoided_cost,8.8242,,,百万法郎,战役兵日×1.91法郎；法国避免的开支非实收,BR,p13盟军兵日表,,Mollien700/年经二手转引；1812按作者战役日设定，不认作全年度维持成本
+F4-180,作者模型,S0,1806,法国当时疆域；逐年变化,allied_contingent_avoided_cost,23.25998,,,百万法郎,战役兵日×1.91法郎；法国避免的开支非实收,BR,p13盟军兵日表,,Mollien700/年经二手转引；1812按作者战役日设定，不认作全年度维持成本
+F4-181,作者模型,S0,1807,法国当时疆域；逐年变化,allied_contingent_avoided_cost,18.827825,,,百万法郎,战役兵日×1.91法郎；法国避免的开支非实收,BR,p13盟军兵日表,,Mollien700/年经二手转引；1812按作者战役日设定，不认作全年度维持成本
+F4-182,作者模型,S0,1808,法国当时疆域；逐年变化,allied_contingent_avoided_cost,10.668783,,,百万法郎,战役兵日×1.91法郎；法国避免的开支非实收,BR,p13盟军兵日表,,Mollien700/年经二手转引；1812按作者战役日设定，不认作全年度维持成本
+F4-183,作者模型,S0,1809,法国当时疆域；逐年变化,allied_contingent_avoided_cost,56.768065,,,百万法郎,战役兵日×1.91法郎；法国避免的开支非实收,BR,p13盟军兵日表,,Mollien700/年经二手转引；1812按作者战役日设定，不认作全年度维持成本
+F4-184,作者模型,S0,1810,法国当时疆域；逐年变化,allied_contingent_avoided_cost,24.748825,,,百万法郎,战役兵日×1.91法郎；法国避免的开支非实收,BR,p13盟军兵日表,,Mollien700/年经二手转引；1812按作者战役日设定，不认作全年度维持成本
+F4-185,作者模型,S0,1811,法国当时疆域；逐年变化,allied_contingent_avoided_cost,14.89036,,,百万法郎,战役兵日×1.91法郎；法国避免的开支非实收,BR,p13盟军兵日表,,Mollien700/年经二手转引；1812按作者战役日设定，不认作全年度维持成本
+F4-186,作者模型,S0,1812,法国当时疆域；逐年变化,allied_contingent_avoided_cost,60.072365,,,百万法郎,战役兵日×1.91法郎；法国避免的开支非实收,BR,p13盟军兵日表,,Mollien700/年经二手转引；1812按作者战役日设定，不认作全年度维持成本
+F4-187,作者模型,S0,1813,法国当时疆域；逐年变化,allied_contingent_avoided_cost,35.687777,,,百万法郎,战役兵日×1.91法郎；法国避免的开支非实收,BR,p13盟军兵日表,,Mollien700/年经二手转引；1812按作者战役日设定，不认作全年度维持成本
+F4-188,文献转录,S0,1805,外国贡赋；现金和实物按各行区分,austria_collected_including_material,75.473655,,,百万法郎,收得含缴获物资，不是全现金,M,pp317-319/PDF337-339,,经Marion转La Bouillerie账；不得再加到Branda累计表
+F4-189,文献转录,S0,1805,外国贡赋；现金和实物按各行区分,austria_remitted_to_france,48.428,,,百万法郎,带回法国额，非全部索赔,M,pp317-319/PDF337-339,,经Marion转La Bouillerie账；不得再加到Branda累计表
+F4-190,文献转录,S0,1809,外国贡赋；现金和实物按各行区分,austria_assessed,250,,,百万法郎,索取额,M,pp317-319/PDF337-339,,经Marion转La Bouillerie账；不得再加到Branda累计表
+F4-191,文献转录,S0,1809,外国贡赋；现金和实物按各行区分,austria_collected,164.488675,,,百万法郎,作者收得额,M,pp317-319/PDF337-339,,经Marion转La Bouillerie账；不得再加到Branda累计表
+F4-192,文献转录,S0,1809,外国贡赋；现金和实物按各行区分,austria_spent_locally,76,,,百万法郎,原文圆整数，不强制配平,M,pp317-319/PDF337-339,,经Marion转La Bouillerie账；不得再加到Branda累计表
+F4-193,文献转录,S0,1809,外国贡赋；现金和实物按各行区分,austria_remitted_to_france,88,,,百万法郎,原文圆整数，不强制配平,M,pp317-319/PDF337-339,,经Marion转La Bouillerie账；不得再加到Branda累计表
+F4-194,文献转录,S0,1807,外国贡赋；现金和实物按各行区分,portugal_assessed,100,,,百万法郎,索取额,M,pp317-319/PDF337-339,,经Marion转La Bouillerie账；不得再加到Branda累计表
+F4-195,文献转录,S0,1807,外国贡赋；现金和实物按各行区分,portugal_collected,6,,,百万法郎,收得额,M,pp317-319/PDF337-339,,经Marion转La Bouillerie账；不得再加到Branda累计表
+F4-196,文献转录,S0,1807,法国当时疆域；逐年变化,debt_and_pensions,105.9,,,百万法郎,年度预算负担,M,p325/PDF345,,
+F4-197,文献转录,S0,1811,法国当时疆域；逐年变化,debt_and_pensions,148,,,百万法郎,年度预算负担含荷兰,M,p325/PDF345,,
+F4-198,文献转录,S0,1811,法国当时疆域；逐年变化,dutch_rentes_service,26,,,百万法郎,三分之一化后年度息额，不是本金,M,p325/PDF345,,
+F4-199,文献转录,S0,1813-01-01,法国当时疆域；逐年变化,pensions_total,46.518996,,,百万法郎,年度养老金，非赠产年租,M,p325/PDF345,,
+F4-200,文献转录,S0,1809-12-21,法国当时疆域；逐年变化,rentes_annual_inscribed,56.730583,,,百万法郎,年度票息，不是债务本金,M,p343/PDF363,,
+F4-201,文献转录,S0,1809-12-21,法国当时疆域；逐年变化,rentes_private_french,32.927267,,,百万法郎,年度票息份额,M,p343/PDF363,,
+F4-202,文献转录,S0,1809-12-21,法国当时疆域；逐年变化,rentes_foreign_holders,5,,,百万法郎,年度票息概数,M,p343/PDF363,,
+F4-203,文献转录,S0,1814-07,法国当时疆域；逐年变化,endowment_top_group_income,18,,,百万法郎,1814表中约600名年收益>4000法郎者合计；与1810年初全体者18m是不同群体的同数值,SG,p683,,不得将两个18视作同一序列或相加
+F4-204,文献转录,S0,1809-08,法国当时疆域；逐年变化,endowment_annual_income,15.165,,,百万法郎,1809年8月全体赠产年收益,SG,p683,,
+F4-205,文献转录,S0,1810-01,法国当时疆域；逐年变化,endowment_annual_income,18,,,百万法郎,原文超过18m；不是总养老金,SG,p683,,下限；4035受益人
+F4-206,算术,S0,1814-07,法国当时疆域；逐年变化,endowment_reconstructed_annual_income,24.73,,,百万法郎,分层数重建约24.73m；非精确审计总额,SG,p683,3500*0.0005+950*0.002+770*0.004+18,
+F4-207,计划,S0,1812,法国当时疆域；逐年变化,annexed_receipts_gross,342.260044,,,百万法郎,所有1792以来并合地预期毛额,M,p321/PDF341 image checked,,
+F4-208,计划,S0,1812,法国当时疆域；逐年变化,annexed_receipts_net,226.389345,,,百万法郎,原文nets；扣项未全部分解，非财政利润,M,p321/PDF341 image checked,,
+F4-209,计划,S0,1812,比利时,annexed_receipts_component,83,,,百万法郎,1812预计1030m总收入中该地区份额；原文未逐项声明毛或净,M,p321/PDF341 image checked,,八项加总313.791，小于毛342.260044且原文尚有etc.，故更可能属毛口径；不得当作净上缴巴黎或实收。
+F4-210,计划,S0,1812,荷兰,annexed_receipts_component,66.5,,,百万法郎,1812预计1030m总收入中该地区份额；原文未逐项声明毛或净,M,p321/PDF341 image checked,,八项加总313.791，小于毛342.260044且原文尚有etc.，故更可能属毛口径；不得当作净上缴巴黎或实收。
+F4-211,计划,S0,1812,汉萨各部,annexed_receipts_component,38.791,,,百万法郎,1812预计1030m总收入中该地区份额；原文未逐项声明毛或净,M,p321/PDF341 image checked,,八项加总313.791，小于毛342.260044且原文尚有etc.，故更可能属毛口径；不得当作净上缴巴黎或实收。
+F4-212,计划,S0,1812,莱茵各部,annexed_receipts_component,37.5,,,百万法郎,1812预计1030m总收入中该地区份额；原文未逐项声明毛或净,M,p321/PDF341 image checked,,八项加总313.791，小于毛342.260044且原文尚有etc.，故更可能属毛口径；不得当作净上缴巴黎或实收。

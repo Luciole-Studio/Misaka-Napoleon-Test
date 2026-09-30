@@ -1,0 +1,46 @@
+---
+source_url: "http://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-06.pdf"
+final_url: "http://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-06.pdf"
+provider: "exa"
+text_sha256: "cfb343ba8bb371e3db9e9525e2bee3e939ba683e49e98879bb5098f5b0364651"
+title: "IN THE EPICENTER OF THE STORM? THE EFFECTS OF THE REVOLUTION AND WARFARE ON THE FRENCH ECONOMY, 1789-1815"
+content_kind: "page_text"
+---
+
+IN THE EPICENTER OF THE STORM? 
+THE EFFECTS OF THE REVOLUTION AND 
+WARFARE ON THE FRENCH ECONOMY, 
+1789-1815 
+Loïc Charles 
+Guillaume Daudin 
+Silvia Marzagalli 
+
+### SCIENCES PO OFCE WORKING PAPER n° 06/2022
+
+EDITORIAL BOARD Chair: Xavier Ragot (Sciences Po, OFCE) Members: Jérôme Creel (Sciences Po, OFCE), Eric Heyer (Sciences Po, OFCE), Sarah Guillou (Sciences Po, OFCE), Xavier Timbeau (Sciences Po, OFCE)
+
+CONTACT US
+
+OFCE 
+10 place de Catalogne | 75014 Paris | France 
+Tél. +33 1 44 18 54 24 
+
+www.ofce.fr
+
+WORKING P AP ER CITATION
+
+This Working Paper: 
+Loïc Charles, Guillaume Daudin and Silvia Marzagalli 
+In th e e p ic e n te r o f the s torm? The effects of the revolution and warfare on the French Econom y, 
+1789-1815 
+Sciences Po OFCE Working Paper, n° 06/2022. 
+Downloaded from URL: www.ofce.sciences-po.fr/pdf/dtravail/WP2022-06.pdf 
+DOI - ISSN 
+
+© 2022 OFCE
+
+ABOUT THE AUTHORS Loïc Charles, Université Paris 8 Saint-Denis, Institut National d’Études Démographiques (INED), Email Address: charles@ined.fr Guillaume Daudin, Université Paris-Dauphine, PSL University, CNRS, LEDa, DIAL, Sciences Po-OFCE, Email Address: guillaume.daudin@dauphine.psl.eu Silvia Marzagalli, Université Côte d'Azur, Centre de la Méditerranée Moderne et Contemporaine, Email Address: Silvia.Marzagalli@univ-cotedazur.fr
+
+ABSTRACT To assess the consequences of warfare and revolution on the French economy from 1792 to 1815, this chapter compares the dynamics of the French economy in the decades preceding 1789 and those following 1815. It discusses institutional changes, sectorial transformations, and macroeconomic trends of the French economy. The institutional reforms implemented by the various governments during the period between 1789 and 1815 were wide ranging. However, their direct impact on the economy is difficult to measure. What seems clear is that, on the whole, they reinforced the authority of the central state and favoured the development of rural France. The period had a profound influence on the industrial structure of the French economy. External trade was shattered by more than two decades of war and blockades and trade and export-led industrial sectors were badly hit. After 1815, the dynamism of the French economy was transferred from coastal ports and regions to the interior. These changes shaped the French economy of the nineteenth century which was dominated by agriculture and specialised in industrial sectors and techniques that used sparingly coal energy, and thus took an original path of development.
+
+KEYWORDS French Revolution; Napoleonic France; French Economic history; Economic consequences of warfare; eighteenth-century France.

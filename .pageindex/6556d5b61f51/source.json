@@ -1,0 +1,89 @@
+{
+  "S2_export": {
+    "gross_min_pct": 0.5250000000000005,
+    "gross_max_pct": 16.72125,
+    "free_min_pct": 0.7000000000000006,
+    "free_max_pct": 33.4425,
+    "endpoint_count": 64
+  },
+  "S2_inland": {
+    "gross_min_pct": 0.05250000000000004,
+    "gross_max_pct": 3.858749999999999,
+    "free_min_pct": 0.07000000000000005,
+    "free_max_pct": 7.717499999999998,
+    "endpoint_count": 64
+  },
+  "S3_export": {
+    "gross_min_pct": 7.2225,
+    "gross_max_pct": 41.30343750000001,
+    "free_min_pct": 9.629999999999999,
+    "free_max_pct": 82.60687500000002,
+    "endpoint_count": 64
+  },
+  "S3_inland": {
+    "gross_min_pct": 0.7222500000000001,
+    "gross_max_pct": 9.5315625,
+    "free_min_pct": 0.9630000000000002,
+    "free_max_pct": 19.063125,
+    "endpoint_count": 64
+  },
+  "central": {
+    "S2": {
+      "gross_pct": 5.330000000000002,
+      "free_pct": 8.883333333333336
+    },
+    "S3": {
+      "gross_pct": 22.749999999999996,
+      "free_pct": 37.916666666666664
+    }
+  },
+  "falsifier_probe": {
+    "0.7": {
+      "gross_min_pct": 9.000000000000002,
+      "gross_max_pct": 19.500000000000004
+    },
+    "0.9": {
+      "gross_min_pct": 2.999999999999999,
+      "gross_max_pct": 6.499999999999999
+    },
+    "1.05": {
+      "gross_min_pct": -3.2500000000000027,
+      "gross_max_pct": -1.5000000000000013
+    }
+  },
+  "S3_flax_sensitivity": {
+    "gross_min_pct": 13.0005,
+    "gross_max_pct": 49.56412500000001
+  },
+  "hemp_replacement": {
+    "scale_tons_author": 60000,
+    "uk_scale": 36600.0,
+    "france_scale": 1440.0,
+    "continental_scale": 15180.0,
+    "france_needed_total_multiplier": 26.416666666666668,
+    "continental_needed_total_multiplier": 3.411067193675889,
+    "continental_increment_for_10pct_uk": 0.24110671936758893,
+    "continental_increment_for_35pct_uk": 0.8438735177865613,
+    "warning": "circa1800 quantity times1806 shares is a scenario scale not observation; destination shares assumed to map to quantities at similar prices; value/volume basis unstated in table; intermediary flows may be British-bound"
+  },
+  "population": {
+    "1815": [
+      44.84533544698535,
+      45.38266747433337
+    ],
+    "1830": [
+      49.055418795714985,
+      51.91077498019427
+    ],
+    "1848": [
+      54.63244543752643,
+      60.995599590990984
+    ]
+  },
+  "row_counts": {
+    "input": 76,
+    "total": 157,
+    "missing": 38,
+    "loss_grid": 256
+  }
+}

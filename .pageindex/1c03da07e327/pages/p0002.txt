@@ -1,0 +1,6 @@
+## Sheet: MX_silver_ranges.csv (continued)
+block,item,unit,low,central,high,basis,source_anchor,status
+WAR,1810 Granaditas起义方兵力(骑),thousand,2,2,2,"cosa de dos mil hombres de caballería",downloads/pages/c68f606dbf1f.md,OBSERVED
+WAR,1810 Granaditas守方死亡(西班牙人),persons,105,105,105,"ciento cinco españoles",downloads/pages/c68f606dbf1f.md,OBSERVED
+WAR,1810 Granaditas守方死亡(士兵),persons,200,200,200,"unos doscientos",downloads/pages/c68f606dbf1f.md,OBSERVED
+WAR,1810 Granaditas起义方死亡,persons,200,1000,3000,市议会称3000;Abasolo称极少;Alamán两说皆疑,downloads/pages/c68f606dbf1f.md,OBSERVED_CONFLICT

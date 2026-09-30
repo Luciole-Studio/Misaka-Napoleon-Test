@@ -1,0 +1,46 @@
+
+
+### CB16　Oesterreichische Nationalbank，机构史1816–1818
+- URL：https://www.oenb.at/Ueber-Uns/unternehmensgeschichte/1816-1818.html
+- 本地：`downloads/pages/15d715a151a0.md`，实际全文读。
+- 原句：“1796 noch 44 Millionen ... 1810 bereits 942 Millionen”；1810年12月“15 Prozent”；5:1。1816-06-01两个敕令、07-01有限营业、1000股门槛及Stadion筹建。
+- 注意：网站的央行独立单因果叙事带机构自我正当化；此处只作事实与承诺机制锚，不宣称银行成立立即解决全部问题。
+
+### JK16　Clemens Jobst / Hans Kernbauer，2016
+- *Die Bank. Das Geld. Der Staat. Nationalbank und Währungspolitik in Österreich 1816–2016*，Campus，2016，公开试读。
+- URL：https://www.oenb.at/dam/jcr:ce9aac3a-adb5-45a2-af68-73d3ac72314b/bank_geld_staat_leseprobe_de.pdf
+- 本地：`downloads/A_Jobst_Kernbauer2016_excerpt.pdf`；doc `a56119dbd34b`；实读PDF16–19＝印26–29的战争发钞节。
+- 印28：“verlässliche Angaben zum tatsächlichen Umlauf ... fehlen”；印29割地概数约350万人/10万km²、作废纸券回流。
+- 限制：仅23页试读，印31–35不在文本内，不能假装已读完整1811章节；图没有逐点抄单年数据。CB16/C11与其资料谱系并非完全独立。
+
+### AB　ABGB1811：Heino Speer电子转录，2013
+- URL：https://repertorium.at/qu/1811_oestabgb.html
+- 本地：`downloads/pages/7378b53aa48e.md`；实际读编者说明、1811-06-01颁行敕令、§§15–19、284、1140–1143。
+- 原句：“für Unsere gesammten Deutschen Erbländer”；“mit dem ersten Januar 1812”；§16“Jeder Mensch hat angeborne ... Rechte”；§1142“Laudemium ... Sterbelehen”。
+- 编辑说明：底本Augsburg标1811的原样重印，精确印次不能判，不称首印。颁行范围不自动含匈牙利；禁止人身奴役不等于全部租赋、分层土地权消失。
+
+### K15　Klemens Kaps，2015
+- *Habsburg Monarchy, eighteenth century–1918*，*Revue de l’OFCE*140，253–264。
+- URL：https://www.ofce.fr/pdf/revue/2015/12-140.pdf（下载自ofce.sciences-po.fr后重定向）
+- 本地：`downloads/A_Kaps2015_trade_statistics.pdf`；doc `1d0307c721e1`；实际读印253–255、258–260（PDF1–3、6–8）。
+- 承重：1775关税同盟、1790/92系列、行政定价、1820伙伴实为过境国家、Otruba1790–1839与档案FHKA路线。
+- 原句：“both movements seem to have been influenced by price changes”（1804/1811贸易值跳动）；“do not always identify the real trade partners”。统计疆界1825含Tyrol不代表政治领土1825才收回。
+
+### G11　Simone Gingrich，2011
+- *Foreign trade and early industrialisation in the Habsburg Monarchy and the United Kingdom—Two extremes in comparison*，*Ecological Economics*70(7)，1280–1288，DOI 10.1016/j.ecolecon.2010.08.013。
+- URL：https://pmc.ncbi.nlm.nih.gov/articles/PMC3092985/
+- 本地：`downloads/pages/7b11d8a7dad4.md`；实读§§2–3、表1–2、§6及脚注，未逐图抄数据。
+- 原句：“In 1830, coal contributed less than 1%”；表1人口28.511m；§6.1木消费15—20GJ/人年；§6.2内部谷物整合。
+- 限制：农业71%仅1840 Cisleithania；1830领土统计不是1810剩余奥国；1900粮食转运25%未用于1803—48；1840等年插值，1851前木贸补估。能源比例包含农业生物质，不等于工厂动力结构。
+
+### HU11　Reiszig Ede撰Somogy县史，《1811. évi országgyűlés. Devalváczió》节
+- 收于Borovszky Samu编*Magyarország vármegyéi és városai*，Arcanum数字版；所读页面未显示原卷刊年，不补造。
+- URL：https://www.arcanum.com/hu/online-kiadvanyok/Borovszky-borovszky-samu-magyarorszag-varmegyei-es-varosai-1/somogy-varmegye-153D7/somogy-varmegye-tortenete-irta-reiszig-ede-dr-15DBA/ii-a-mohacsi-vesztol-a-kiegyezesig-16088/2-a-xviii-szazad-es-a-franczia-haboruk-kora-1624A/1811-evi-orszaggyules-devalvaczio-16380/
+- 本地：`downloads/pages/9a8e1d55620d.md`；全文读。原文“mely intézkedést törvénytelennek nyilvánítván”；指令第2–3项斥削值非法、不愿为未同意发行的旧券作保证。
+- 转Melhárd p.386，非本卡亲阅郡原指令；只代表一郡的具体反应，不代表全匈一致。
+
+### BR09 / BRM / BHU　Brockhaus1809词典条目，Zeno转录
+- BR09《Oestreich》，页163，http://www.zeno.org/Brockhaus-1809/B/Oestreich ，`downloads/pages/664a7ecc0984.md`，全文读。1808人口“22 (nach andern 23) Millionen”；1808后备和Landwehr数字是同时代估计/宣传尺度，未当实到兵。
+- BRM《Mähren》，页4，http://www.zeno.org/Brockhaus-1809/B/M%C3%A4hren ，`downloads/pages/2c1a774dc889.md`，实读全文，只采经济末段：“Hanf ... Silber- und Eisenbergwerke, Steinkohlen ... Salpeter-Siedereien”。
+- BHU《Ungarn》，页约437–439经济/宪制段，http://www.zeno.org/Brockhaus-1809/B/Ungarn ，`downloads/pages/5f1e86c351d1.md` L18–22，只读这些段而未使用早期族群起源叙述；“eine der wichtigsten Kornkammern der Monarchie”；有铜、铁、金银和商路。
+- 限制：同时代描述带偏见，老单位未桥接、合计金银不可拆纯银；不用其具体矿产量或古史叙述。

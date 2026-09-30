@@ -1,0 +1,167 @@
+---
+source_url: "https://archives.somme.fr/document/r1_rep_militaire"
+final_url: "https://archives.somme.fr/document/r1_rep_militaire"
+provider: "exa"
+text_sha256: "cf22ce4e20664b9e976e46d4f0ea6aa1c4494fbfd61d90ac06ebb8f577098d70"
+title: ""
+content_kind: "page_text"
+---
+
+Archives départementales de la Somme
+Sous-série 1 R (en partie)
+RECENSEMENT MILITAIRE ET 
+REGISTRES MATRICULES
+(an IX-1940)
+Répertoire numérique
+Amiens
+1994-2018
+Dernières modifications : 22 février 2024
+
+Table des matières
+3
+Table des matières
+INTRODUCTION........................................................................................................................ 5
+Dates extrêmes .................................................................................................................................... 5
+Niveau de description........................................................................................................................... 5
+Importance matérielle........................................................................................................................... 5
+Service producteur ............................................................................................................................... 5
+Histoire administrative .......................................................................................................................... 5
+Quelques chiffres concernant la conscription .................................................................................. 5
+Législation (1798-1936) ................................................................................................................... 5
+Présentation du contenu ...................................................................................................................... 7
+Archives de la préfecture ................................................................................................................. 8
+Fonds du Service historique de la défense (Pau) : les registres matricules .................................. 10
+Garde nationale mobile : listes départementales du contingent et registres matricules (1864-1871)
+........................................................................................................................................................ 12
+Dossiers de carrière des militaires ................................................................................................. 12
+Degré d'instruction des conscrits ................................................................................................... 13
+Conditions d'accès ............................................................................................................................. 13
+Conditions de reproduction ................................................................................................................ 13
+Notes de l'archiviste ........................................................................................................................... 13
+Date(s) de la description .................................................................................................................... 13
+RÉPERTOIRE NUMÉRIQUE ................................................................................................... 15
+RECRUTEMENT MILITAIRE ................................................................................................................. 17
+Fonds de la préfecture ....................................................................................................................... 17
+Listes des conscrits (an IX-an XIII) ................................................................................................ 17
+Listes cantonales du tirage au sort. Listes cantonales puis départementales du contingent (an 
+XIV-1871) ....................................................................................................................................... 18
+Listes cantonales du tirage au sort. Listes du recrutement cantonal (1872-1880)........................ 28
+Listes du tirage au sort et du recrutement cantonal (1881-1904).................................................. 29
+Tableaux de recensement cantonal (1905-1940) .......................................................................... 31
+Fonds de l'Armée de Terre (Pau)....................................................................................................... 35
+Divers ............................................................................................................................................. 35
+Registres matricules (1867-1940).................................................................................................. 35
+1867-1871 : reprise rétroactive des listes départementales ...................................................................... 35
+1872-1877 : tenue des registres selon la circulaire du 14 juillet 1873 ....................................................... 36
+À partir de 1878 : feuillets matricules......................................................................................................... 36
+1930-1940 : un seul bureau de recrutement.............................................................................................. 53
+Présentation des tables alphabétiques 1931-1940 : les colonnes de chiffres.......................................................53
+ANNEXES................................................................................................................................ 58
+CONTENU DES REGISTRES MATRICULES....................................................................................... 60
+4
+Introduction
+5
+INTRODUCTION
+Dates extrêmes
+an IX-1940
+Niveau de description
+Partie de sous-série
+Importance matérielle
+80 m.l. (1411 articles).
+Service producteur
+Préfecture de la Somme.
+Centre des archives du personnel militaire du Service historique de la défense (Pau).
+Histoire administrative
+Quelques chiffres concernant la conscription
+Loi de Service actif (en années) Service militaire total Taille minimale
+1798 5
+1818 6 1m57
+1824 8 sans changement
+1832 7 1m56
+1868 5
+1872 5 ou 1 20 1m541
+1889 3 ou 1 25 1m54
+1905 2 25
+1913 3 28
+1923 1,5 28
+1928 1 28
+1936 2
+Législation (1798-1936)
+1798
+La loi 19 fructidor an VI (5 septembre 1798) relative au mode de formation de l'armée de 
+terre dite loi Jourdan proclame que « Tout Français est soldat, et se doit à la défense de la 
+patrie » (art 1er). Elle établit la conscription pour les jeunes hommes de 20 à 25 ans, et donc 
+pour cinq ans. Les conscrits sont divisés en cinq classes, chacune comprend tous les conscrits 
+d'une même année. La loi fixe le nombre des défenseurs conscrits qui doivent être mis en 
+activité de service. Ils sont appelés par classe en commençant pas les moins âgés. Les 
+tableaux des conscrits sont formés par classe, au niveau des arrondissements puis réunis au 
+niveau des départements. Cette loi trouve bientôt son utilité avec la loi du 9 vendémiaire an VII 
+(30 septembre 1798) contenant une adresse au Peuple français sur la levée de 200.000 
+hommes.
+1800
+La loi du 17 ventôse an VIII (8 mars 1800) qui met à la disposition du Gouvernement tous les 
+Français dont la vingtième année a été terminée le 1er vendémiaire an VIII, stipule : « Art. 1er. 
+Tous les Français qui ont terminé leur vingtième année au 1er vendémiaire dernier, et qui depuis 
+cette époque forment la première classe de la conscription militaire, sont à la disposition du 
+1 Pas d'exemption immédiate, mais ajournement à deux ans.
+Sous-série 1 R (en partie) – RECENSEMENT MILITAIRE ET REGISTRES MATRICULES
+6
+Gouvernement, pour être mis en activité de service à mesure que les besoins de l'armée le 
+requerront. »
+1805 : le tirage au sort
+Le décret du 8 fructidor an XIII (26 août 1805) relatif à la levée de la conscription de l'an 13
+établit le principe du tirage au sort et du remplacement. Le tirage au sort subsiste jusqu'en 
+1905, mais pas toujours pour les mêmes motifs. Il faut noter la possibilité de payer un 
+remplaçant jusqu'en 1872.
+1814
+La Charte de 1814 (art. 12) abolit la conscription, ce qui explique l'absence de registres en 
+1815.
+1818
+La loi du 10 mars 1818 sur le recrutement de l'armée dite Gouvion Saint-Cyr met fin à la 
+conscription : « L'armée se recrute par des engagements volontaires, et, en cas d'insuffisance, 
+par des appels. » (art. 1er). Le total de l'armée est fixé à 240.000 hommes. Les appels sont 
+destinés à compléter ce chiffre dans la limite annuelle de 40.000 hommes (en cas de besoins 
+supérieurs, une loi est nécessaire). Le nombre des appelés est réparti entre départements, 
+arrondissements et cantons au prorata de la population. Le contingent cantonal est fourni par 
+tirage au sort entre les jeunes gens qui ont leur domicile légal dans le canton et auront atteint 
+l'âge de vingt ans révolus dans le courant de l'année précédente. La durée du service est fixée 
+à six ans, sauf pour la classe de 1816 (cinq ans). Ces principes généraux perdurent jusqu'en 
+1872. La taille minimale requise est de 1 m 57 cm.
+1824
+La loi du 9 juin 1824 qui modifie quelques dispositions de celle du 10 mars 1818 sur le 
+recrutement des troupes fixe à 60.000 hommes les appels pour compléter l'armée. La durée du 
+service militaire est désormais de huit ans.
+1832
+La loi du 21 mars 1832 sur le recrutement de l'armée spécifie que « L'armée se recrute par 
+des appels et des engagements volontaires » (art. 1er). La durée du service est de sept ans. Le 
+contingent à fournir est déterminé par des lois. Les jeunes gens définitivement appelés (ou 
+leurs remplaçants) sont, d'après l'ordre de leurs numéros et les proportions déterminées par les 
+lois annuelles du contingent, répartis en deux classes : ceux qui seront mis en activité, et ceux 
+qui seront laissés dans leurs foyers et qui ne pourront être mis en activité qu'en vertu d'une 
+ordonnance (art. 29). Cette loi, modifiée par celle de 1868, est en usage jusqu'à la classe 1871. 
+La taille minimale requise est de 1 m 56 cm.
+1868
+La loi du 1er février 1868 sur le recrutement de l'Armée et l'organisation de la Garde nationale 
+mobile modifie la loi de 1832. La durée du service est réduite à cinq ans.
+Cette loi, qui permet la création d'une garde nationale mobile, auxiliaire de l'armée active, 
+concourant à la défense des places fortes, des côtes et frontières de l'Empire, et au maintien de 
+l'ordre dans l'intérieur, ouvre la voie au service universel. En effet, cette garde nationale se 
+compose des jeunes gens des classes des années 1867 et suivantes non compris dans le 
+contingent, en raison de leur numéro de tirage, de ceux des mêmes classes qui se sont fait 
+remplacer et de ceux tombant dans un certains cas d'exemption prévus par la loi de 18322.
+1872 : le service militaire personnel obligatoire
+La loi du 27 juillet 1872 sur le recrutement de l'armée marque la fin du remplacement et rend 
+le service militaire personnel obligatoire pour tous. Le tirage au sort est maintenu afin de 
+déterminer les deux catégories de conscrits. Ceux ayant tiré un petit numéro faisaient un 
+service armé de cinq ans, les suivants d'un an (mais leur sort n'est connu qu'après une année 
+2 Aînés d'orphelins de père et mère ; fils unique d'une veuve, d'un père aveugle ou de plus de 70 ans ; celui dont le 
+plus âgé de deux frères fait partie du même tirage ; celui dont un frère est sous les drapeaux ; celui dont un frère est 
+mort en activité de service ou a été réformé pour blessure.
+Introduction
+7
+de service, en fonction des chiffres fixés chaque année par le ministre de la Guerre). La durée 
+totale du service militaire est fixée à 20 années : cinq ans d'armée active, quatre ans de réserve 
+de l'armée active, cinq ans d'armée territoriale, six ans de réserve de l'armée territoriale. Taille 
+requise : 1 m 54 cm.
+1889
+La loi du 15 juillet 1889 sur le recrutement de l'armée, dite du régime du service universel, 

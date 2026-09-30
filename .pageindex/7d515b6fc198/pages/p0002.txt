@@ -1,0 +1,64 @@
+
+
+**Q-R7，正文段首“The imperial government had expected”，注57附近：**
+> “From a legal standpoint, the note was unsigned and thus valueless.”
+
+【文献推断：Caiani】1811年5月19日萨沃纳谈判笔记不能直接当作教皇签署并生效的协议；作者认为教皇随后撤回其中部分内容。
+
+**Q-R8，正文段首“On 25 July”，注100附近：**
+> “the concile’s favourable verdict was the outcome of physical coercion and psychological intimidation.”
+
+【文献推断：Caiani】会议并非简单“一致拒绝皇帝”：拘捕反对者、暂停会议、逐一争取书面同意之后，确实出现有利皇帝的议决；但权威与执行争议继续存在。与“教会始终统一、任何妥协必然不可能”的解释相对，Caiani 强调中间派与谈判失误。
+
+**当时桌面选项，而非凭空反事实：**正文注53–57附近记述向萨沃纳派代表团、允许教皇在罗马居住但须宣誓、保证独立外交团通信，以及提名后六个月内授职的方案。注96–105附近又有会议决议须争取教皇批准及1811年9月教皇简函草案的争执。【模型推演】若 C8 使用“协商授职期限、保留教皇确认权、停止羞辱与拘捕”的分支，必须写为从这些真实谈判选项抽取的条件性方案，不得写成教皇一定接受。
+
+**档案谱系，仅转引 Caiani：**AN AF IV 1047, dossier 2（会议敕令、警方报告、主教意见与简函争议）；AN AF IV 1048, dossier 2, nos 123–124；ASMi, Atti di governo, Culto parte moderna 2540。未阅原卷。Rossetti 1844年刊日记及 d’Haussonville/Ricard 重刊资料均仅经 Caiani 了解，不冒称本次直接读原始日记。
+
+**质量警报：**所抓 Caiani 正文把教皇移往枫丹白露写成1812年2月；这条本次未独立核正，不纳入冻结时间线。作者关于警方可能泄露拟议法令亦明确说无存世证据，不能改写为已证事实。
+
+## 2. 荷兰：1810 退位不是平稳的王朝继承
+
+### 2.1 S：Huygens ING 法律研究指南
+
+- URL：https://resources.huygens.knaw.nl/bataafsfransetijd/Wet/20
+- 本地：`downloads/pages/c7f4880c3e09.md`，完整短条目已读。
+- 身份：现代档案/法律研究指南，**不是退位诏书全文**。
+
+**Q-H1，日期栏：**
+> “Datum en dagnummer: 1810 juli 1 no. 26”
+
+**Q-H2，Commentaar：**
+> “Lodewijk Napoleon deed afstand van zijn koninklijke waardigheid ten gunste van zijn zoon Napoleon Lodewijk”
+
+【事实，经研究指南确认】退位法令日期为1810年7月1日，第26号；让位对象是其子，条目并载王后摄政、暂以部长组成摄政委员会。不能把退位与7月9日法国兼并当成同一法律行为。
+
+### 2.2 P：拿破仑通信，1810-07-09，两件
+
+- 实际版本：*Correspondance de Napoléon Ier – Juillet 1810*，napoleon-histoire.com 网页转录；有明显 OCR 瑕疵，未对校书页或手稿。
+- URL：https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1810/
+- 本地：`downloads/pages/82a063e7e022.md`。该月长页仅查读本案相关文书，不能称整月通信通读。
+
+**Q-H3，Rambouillet, 9 juillet 1810, “Instructions pour le prince Lebrun”：**
+> “Mon intention est de gouverner moi-même le pays.”
+
+**Q-H4，同件，海关段：**
+> “Tout l’argent qui se trouve dans les caisses des douanes hol­landaises et tout ce qui proviendra des marchandises doit être versé dans la caisse des douanes françaises.”
+
+【事实：皇帝命令】接管不只是亲属换位：明确要求直接统治，并将荷兰海关现金与货物所得移交法国海关。这不是“所有荷兰税收都直接汇入法国”的证据；引句对象仅为海关及指定货物所得。
+
+**Q-H5，同日致阿姆斯特丹政府委员会主席：**
+> “Je ne puis donner mon assentiment à ce que le grand-duc de Berg, mon neveu et pupille, soit roi de Hollande.”
+
+【事实：皇帝立场】皇帝明拒承认侄子的荷兰王位，直接限制了藩属内部依宪进行的继承。
+
+【裁量；高置信度】C8 最有力的用法不是把路易描写成“背叛家族”，而是指出双重责任：藩王对本国制度和利益的责任，无法抵挡皇帝在战略危机下单方收回自治的权力。封锁执行与自治冲突为合理机制，但仅凭这两封信不能量出封锁对退位的独立因果贡献。
+
+**后续可核原件的谱系，尚未阅卷：**法国国家档案馆目录 FRAN_IR_003829，https://www.siv.archives-nationales.culture.gouv.fr/siv/IR/FRAN_IR_003829 ：AF IV 1720（退位、Daru使命与兼并）；AF IV 1683（路易致拿破仑原信）；AF IV 1719–1832（相关整体档案）。本次仅检索定位，未把该目录列为已读原折。
+
+## 3. 蒂罗尔 1809：征兵、地方权利与宗教的结合
+
+### 3.1 S：Hamish Davey Wright，公开带注全文
+
+- “Andreas Hofer and the insurrection in the Tyrol, 1809”, Fondation Napoléon。
+- URL：https://www.napoleon.org/en/history-of-the-two-empires/articles/andreas-hofer-and-the-insurrection-in-the-tyrol-1809/
+- 本地：`downloads/pages/1ee80b7507ce.md`。已读事件主体与书目、注释；属现代综合文章，不是当事人证言。

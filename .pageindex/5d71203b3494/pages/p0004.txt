@@ -1,0 +1,67 @@
+
+
+【模型推演】可接受的最小延展是：以1806真实协商条文为起点，固定既已承诺的兵额及疆界，不在每次争议后重演荷兰兼并。它不是已证拿破仑愿意实施的完整方案；对“法国是否肯被自身体系约束”的最终判断仍交C13。对俄奥英的大国协商也不能直接从莱茵小邦设计类推成功。
+
+【模型推演】摄政的集体议决可能迫使法国从个人命令转向宫廷—大臣间协调，但同样可能造成迟缓和派系交易。它是一个有1813法律锚点的变化通道，**不是拿破仑死后自动出现欧陆协调体制**。
+
+## 八、两种前景与真正的分歧
+
+### A．Schroeder式体系约束前景
+
+【理论层，非原文转述】本卡将其用作待检验对手盘：若法国保留不断重订边界、剥夺君主和追加义务的权力，盟友对未来地位无保障，军事胜利难以冻结秩序。荷兰文书提供直接机制证据。[S5]
+
+【证据界限】Schroeder《Napoleon’s Foreign Policy: a Criminal Enterprise》仅取得出版社书目／预览，未实读全文；不冒充已核其措辞、全部例证或对拿破仑个人的判断。其更强体系论须由C13进一步检验。[S19]
+
+【模型推演】在这组前提下，第二代持续霸权的关键是降低法国可任意改变他国地位的权限。若拒绝此调整，即便没有1812灾难，仍不能从“获得时间”推出“长期秩序完成”。
+
+### B．Broers／Grab所代表的制度转型前景
+
+【文献推断：本卡实读Broers，不冒充实读Grab】西德与北意部分区域在其模型中从边疆转为涵化地区；内圈保守整合与边疆革命使命并存。长期效应可能首先出现在干部、法律和社会行为，而非新王朝的群众认同。[S1]
+
+【模型推演】在这组前提下，停止摧毁既有改革联盟、减轻战争任务，确能提高制度扎根机会。威斯特伐利亚行政未在失败前自行消失，是对“一切改革全是空纸”的反证；也仍不能证明全欧同质化。[S8]
+
+【证据界限】Grab、Woolf、Ellis、Connelly等专著本轮没有逐章实读；“Broers／Grab”在此是研究计划中的议题分组，不表示两人的论证一致。不得引用这些书为本卡未核实结论背书。
+
+### 综合而不抹平
+
+【裁量；中高】上述前景可同时成立：**国内／地方的制度可留下，大陆霸权却可失败；行政国家可以存续，波拿巴王朝却可终结；王朝可以续存，疆域却可收缩。**把三者统称“拿破仑胜利”会产生错误答案。
+
+【模型推演】因此至1848只给三种条件终局，不给虚构逐年编年：
+1. **有限法国霸权**：核心政府及部分附属制度稳定，盟邦保有王位与行政空间；法国享有优先权而非无限命令权。相对可行性最高，但仍是中，不是已证必然。
+2. **战时帝国延长**：靠追加义务和直接接管维持，边缘行政与军队长期捆绑；能延长统治，却最易在军事挫折或继承时被重新谈判。可行性低中。
+3. **制度留存、霸权解体**：当地继续使用某些法制、干部和教育，而外交脱离法国或王朝更替。不是“法国永久控制欧洲”的实现，却是现有材料最充分支持的失败后韧性机制之一。[S8、S11]
+
+## 九、交总装的限制与追加核查优先级
+
+【证据界限】本卡已完成可追溯政治模型，但未完成全量原刊对校及欧洲净财政收益估算。优先补查：
+1. 《Bulletin des lois》1813第474号p.141起与第490号p.509，分别确认死亡后摄政法细节及出征代理敕书；先消除S17的错译与标题污染。
+2. C9/C14补各藩属实际预算、实到驻军和征兵分母。没有这些，不能用“外帝国成本大于收益”决定疆域边界。
+3. C13取得Schroeder全文与替代外交文书；判定落实协商条款的政治可行性。
+4. 1814皇后通信及行动命令原件，区分服从丈夫、军事撤离与亲奥选择；不以性格传记代替因果判断。
+5. 圣拿破仑节原法令与地方实施材料，d’Hauterive/Fiévée警务文书、Crosland的Arcueil专著；未完成前不量化忠诚转化。
+
+【研究设计限制】法语与英语现代研究居多；荷兰仅研究指南，蒂罗尔主要经英文转引，地方德语原始行政材料不足。法律、皇帝命令、教皇声明和现代研究是不同来源家族；同一Napoleon.org平台不等于同一作者，但同一文书的转录与二手引述也不能计为两个独立见证。多数规范文本只能证“说要做什么”，不是“民众实际如何反应”。
+
+## 来源索引与精确锚点
+
+所有缓存相对于 `/Users/makiko/Documents/exam/`。保存文本不等于原件影像；以下只列实读部分及明确未读边界。
+
+- **S1｜Broers**，Michael，“A Turner thesis for Europe? the frontier in Napoleonic Europe”，*Napoleonica. La Revue*，2009/2，no.5，起页157，DOI [10.3917/napo.092.0157](https://doi.org/10.3917/napo.092.0157)。`downloads/pages/6ca335048c90.md`。承重段首“If not yet specifically nationalist”“In common with the evolution”“For Turner, the frontier also”。引句：“spheres defined less by the amount of time … than the degree to which their elites accepted French public institutions”。抓取尾部和脚注错位，未对页PDF。
+- **S2｜1804宪令官方历史转录**，[Élysée](https://www.elysee.fr/la-presidence/le-senatus-consulte-organique-du-28-floreal-an-xii)，`downloads/pages/37731b8139ce.md`。实读第3—18条等；关键第17条：“L’Empereur est mineur jusqu’à l’âge de dix-huit ans accomplis”。不是1804原刊影像。
+- **S3｜Zacharie**，Clémence，“Napoléon et les règles de dévolution de la couronne. Contribution à l’étude du droit constitutionnel impérial”，*RFDC* 2008/4，76，703—731，[DOI 10.3917/rfdc.076.0703](https://droit.cairn.info/revue-francaise-de-droit-constitutionnel-2008-4-page-703)。`downloads/pages/25101e384c5e.md`，§§12、24—27、32—38及注14—15。§12：“en admettant, contrairement à son article 18 … l’attribution de la régence à une femme”。抓取标题误标，不采用错误标题。
+- **S4｜Lentz访谈**，“Thierry Lentz: four questions on the 1812 Malet Affair”，2012-01，[Fondation Napoléon](https://www.napoleon.org/en/magazine/interviews/thierry-lentz-four-questions-on-the-1812-malet-affair/)。`downloads/pages/2939d79f08d0.md`，小节“Was the empire really on the point of collapse…”及“What does this coup…”。是学者访谈，未读所依审判卷或全书。
+- **S5｜荷兰两组材料**：Huygens ING研究指南[1810/07/01 no.26](https://resources.huygens.knaw.nl/bataafsfransetijd/Wet/20)，`downloads/pages/c7f4880c3e09.md`，Commentaar；拿破仑[1810年7月通信转录](https://napoleon-histoire.com/correspondance-de-napoleon-ier-juillet-1810/)，`downloads/pages/82a063e7e022.md`，1810-07-09致Lebrun指示及致Amsterdam政府委员会主席。关键：“Mon intention est de gouverner moi-même le pays”；“Je ne puis donner mon assentiment … soit roi de Hollande”。未阅手稿，且月页仅查读相关信。
+- **S6｜1806-07-12莱茵邦联条约**，[Köbler转录](https://www.koeblergerhard.de/Fontes/Rheinbunds-Akte1806.htm)，`downloads/pages/227f1cf6004e.md`，VI、IX、XI、XII、XXXIV—XXXVIII条。VI：“Les intérêts communs … seront traités dans une Diète”；XXXV：“toute guerre continentale … deviendra immédiatement commune”。页面指Binding与Zeumer的文献汇编；未阅原件。
+- **S7｜1807-11-15威斯特伐利亚宪法英译节录**，[GHDI](https://germanhistorydocs.org/en/the-holy-roman-empire-1648-1815/constitution-of-the-kingdom-of-westphalia-proclaimed-by-napoleon-bonaparte-in-fontainebleau-november-15-1807)，`downloads/pages/0e37b207d300.md`，第2、5、10—17、29—33条。底本定位*Bulletin des lois et décrets du royaume de Westphalie*，vol.1，1810第二版，pp.6—15、19；经Demel/Puschner 1995汇编，114—119。仅实读网页英译，不冒称完整宪法。
+- **S8｜Todorov**，Nicola P.，评Mustafa，*H-France Review* 19(2019)，no.37，[全文](https://h-france.net/vol19reviews/vol19no37todorov.pdf)，`downloads/pages/5feaa9142411.md`，封赏补偿段、税额口径段及“Neither the predicted…”段。引句：“Westphalia was simply occupied by the regular forces … victorious at Leipzig”。Mustafa/Berding/Malchus均转引；未自行复算其数字。
+- **S9｜Davey Wright**，Hamish，“Andreas Hofer and the insurrection in the Tyrol, 1809”，[Fondation Napoléon](https://www.napoleon.org/en/history-of-the-two-empires/articles/andreas-hofer-and-the-insurrection-in-the-tyrol-1809/)，`downloads/pages/1ee80b7507ce.md`，“Bavarian domination”“1809: war…”“Austria abandons…”，注6、15。1809-07-20致Lefebvre信no.15559为转引英译：“Disarm the country, take a large number of hostages, and make examples.” 不采用其未核税增比及末尾领土重划细节。
+- **S10｜1808-03-17大学法令转录**，[Wikisource](https://fr.wikisource.org/wiki/D%C3%A9cret_portant_organisation_de_l%E2%80%99Universit%C3%A9)，`downloads/pages/38ea070805ed.md`，第1—3、38条。另定位INRP 2000官方文本汇编pp.113—121，但不冒称已对校全部书页。
+- **S11｜Petiteau**，Natalie，“Prosopographie et noblesse impériale : de l’histoire d’une élite à l’histoire sociale”，*Histoire, économie & société* 17-2(1998)，277—285，[Persée](https://www.persee.fr/doc/hes_0752-5702_1998_num_17_2_1985)，`downloads/pages/ae3c3e520a05.md`，p.283。引文分母与跨政权时间范围见正文。
+- **S12｜Maras**，Raymond J.，“Napoleon I and Education in the Sciences: One Aspect of the Two Cultures in Conflict”，*University of Dayton Review* 12(3)(1976)，Article 3，[大学库](https://ecommons.udayton.edu/udr/vol12/iss3/3)。`downloads/c8_science_education.pdf`；doc_id `a50c64c62544`，数字页9、11。Arcueil段：“promoted experiment, provided a library, laboratory facilities, and occasionally obtained financial aid.” 页码抽取次序须以PDF为准，本报告不沿用早先把数字页9等同印刷29的未经校正对应。
+- **S13｜Coffin**，Victor，“Censorship and Literature under Napoleon I”，*American Historical Review* 22(2)(1917)，288—308，[网页重刊](https://www.napoleon.org/en/history-of-the-two-empires/articles/censorship-literature-napoleon/)，`downloads/pages/bfc5cba262e2.md`。实读开篇、统计前后及结尾，不称全篇细读。引句：“even here the censorship frequently found itself impeded by the police”。统计依存世周报并非所有作品，故未用其年表估全社会审查率；末段Beugnot轶事为回溯性，未采作意图主证。
+- **S14｜Papot**，Emmanuelle，tr./ed. H.D.W.，“Marie-Louise of Austria”，[Fondation Napoléon](https://www.napoleon.org/en/history-of-the-two-empires/biographies/marie-louise-of-austria/)，`downloads/pages/e13528a6bc65.md`，“Empress and mother…”及“The Duchess of Parma”。其Méneval 1844回忆与1887通信编本均仅转引；不采用传记“easily seduced”等价值化措辞作因果依据。
+- **S15｜Pius VII**，《Quum memoranda》，1809-06-10，[梵蒂冈意大利文](https://www.vatican.va/content/pius-vii/it/documents/breve-quum-memoranda-10-giugno-1809.html)，`downloads/pages/282993960dad.md`。段首“E quanto grande”“Pertanto scomunichiamo”“Mentre in verità”；关键：“nessuno ardisca recare danno … o ai loro beni, diritti o prerogative”。官方题称Breve，未校拉丁原刊。
+- **S16｜Caiani**，Ambrogio A.，“The Concile National of 1811: Napoleon, Gallicanism and the Failure of Neo-Conciliarism”，*Journal of Ecclesiastical History* 70(3)(2019)，546—564，[Cambridge全文](https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/concile-national-of-1811-napoleon-gallicanism-and-the-failure-of-neoconciliarism/16AF80367F48F9D01E63DDC3A69F1C70)，`downloads/pages/e6ebb5ba44b2.md`。核心论述已读，定位注53—57、71—105附近。“Most bishops were moderates”；“the note was unsigned and thus valueless”。正文教皇1812移送月份有质量警报，不纳入时间线；作者关于警方泄露草案的猜测亦不当事实。
+- **S17｜1813-02-05摄政法转录**，[verfassungen.eu](https://www.verfassungen.eu/f/fverf13-3.htm)，`downloads/pages/05431bdd1dd4.md`，第1—5、9—12、19—29条。版本警报详第五节。原公报[定位p.141](https://books.google.de/books?id=QgJHAAAAcAAJ&pg=PA141)，[3月30日敕书定位p.509](https://books.google.de/books?id=QgJHAAAAcAAJ&pg=PA509)，二者仅定位、未亲验书页。
+- **S18｜四国同盟**，1815-11-20，[Wikisource转录](https://en.wikisource.org/wiki/Quadruple_Alliance)，`downloads/pages/b01c3f60f27c.md`，第II—VI条。页尾指Hertslet 1875，372—376及Hansard vol.XXXII，269—274。网页脚注关联有错置风险，只用正文条款，不复制错误脚注映射；未阅原签本。
+- **S19｜Schroeder，未读全文的对照书目**，“Napoleon’s Foreign Policy: a Criminal Enterprise”，期刊原版1990，DOI 10.2307/1986040；2004论文集重刊[出版社条目](https://link.springer.com/chapter/10.1007/978-1-137-06138-6_2)，缓存`downloads/pages/c95c6ca57978.md`仅预览／书目信息。不得将本卡理论重建引成作者原话。

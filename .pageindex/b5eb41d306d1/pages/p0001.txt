@@ -1,0 +1,283 @@
+{
+  "status": "ok",
+  "query": "Lettres inédites Talleyrand Napoléon",
+  "domain": "annas-archive.gl",
+  "count": 48,
+  "results": [
+    {
+      "title": "Lettres inédites de Talleyrand à Napoléon, 1800-1809. Publiées d'après les originaux conservés aux Archives des affaires étrangères. Avec une introduction et des notes par Pierre Bertrand.",
+      "authors": "Talleyrand-Périgord, Charles Maurice de, prince de Bénévent, 1754-1838.",
+      "publisher": "Perrin et cie, 1889., France, 1889",
+      "language": "French",
+      "format": "",
+      "size": "0.6MB",
+      "hash": "81e6f0e346565119d0bb40f22e942cdb",
+      "url": "https://annas-archive.gl/md5/81e6f0e346565119d0bb40f22e942cdb"
+    },
+    {
+      "title": "Lettres inédites de Talleyrand à Napoléon, 1800-1809. Publiées d'après les originaux conservés aux Archives des affaires étrangères. Avec une introduction et des notes par Pierre Bertrand.",
+      "authors": "Talleyrand-Périgord, Charles Maurice de, prince de Bénévent, 1754-1838.",
+      "publisher": "Perrin et cie, 1889., France, 1889",
+      "language": "French",
+      "format": "",
+      "size": "0.5MB",
+      "hash": "72c58bd36529ceb052639d928aae1bed",
+      "url": "https://annas-archive.gl/md5/72c58bd36529ceb052639d928aae1bed"
+    },
+    {
+      "title": "Lettres inédites de Talleyrand à Napoléon, 1800-1809. Publiées d'après les originaux conservés aux Archives des affaires étrangères. Avec une introduction et des notes par Pierre Bertrand.",
+      "authors": "Talleyrand-Périgord, Charles Maurice de, prince de Bénévent, 1754-1838.",
+      "publisher": "Perrin et cie, 1889., France, 1889",
+      "language": "French",
+      "format": "",
+      "size": "0.6MB",
+      "hash": "0ee3f5de6c151264a5aed2d4018a691f",
+      "url": "https://annas-archive.gl/md5/0ee3f5de6c151264a5aed2d4018a691f"
+    },
+    {
+      "title": "talleyrand lettres a napoleon",
+      "authors": "Unknown",
+      "publisher": "1800",
+      "language": "English",
+      "format": "PDF",
+      "size": "22.0MB",
+      "hash": "f88dff821af002a2f5d8a5b0a0d1af3c",
+      "url": "https://annas-archive.gl/md5/f88dff821af002a2f5d8a5b0a0d1af3c"
+    },
+    {
+      "title": "Mémoires, lettres inédites et papiers secrets / Accompagnés de notes explicatives, par Jean Gorsas. Lettre autographe fac simile.",
+      "authors": "Talleyrand-Périgord, Charles Maurice de, prince de Bénévent, 1754-1838.",
+      "publisher": "A. Savine, 1891., France, 1891",
+      "language": "French",
+      "format": "",
+      "size": "0.2MB",
+      "hash": "f300b62e2e0f5f8cf6917698824d32c6",
+      "url": "https://annas-archive.gl/md5/f300b62e2e0f5f8cf6917698824d32c6"
+    },
+    {
+      "title": "Napoléon et Talleyrand",
+      "authors": "Dard, Émile",
+      "publisher": "Editions de Fallois",
+      "language": "French",
+      "format": "EPUB",
+      "size": "1.4MB",
+      "hash": "b2db38e4888ade9d73bea7e6eca81b5e",
+      "url": "https://annas-archive.gl/md5/b2db38e4888ade9d73bea7e6eca81b5e"
+    },
+    {
+      "title": "Essai sur la vie de Tissot. Contenant des lettres inédites de Tronchin, Voltaire, Haller, Zimmerman, Rousseau, Bonnet, Stanislas Auguste II, Napoleon Bonaparte, etc.",
+      "authors": "Eynard, Charles, 1808-1876.",
+      "publisher": "Marc Ducloux, 1839., Switzerland, 1839",
+      "language": "French",
+      "format": "",
+      "size": "0.3MB",
+      "hash": "e0594fc12ab33e0adde597446edf18c8",
+      "url": "https://annas-archive.gl/md5/e0594fc12ab33e0adde597446edf18c8"
+    },
+    {
+      "title": "Histoire militaire de Masséna. La troisième Campagne d'Italie (1805-1806) : guerre de l'an XIV, expédition de Naples, le vrai Fra Diavolo [Michel Pezza], lettres inédites des princes Eugène et Joseph-Napoléon . Par Édouard Gachot",
+      "authors": "Gachot, Édouard (1862-1945)",
+      "publisher": "",
+      "language": "PDF",
+      "format": "",
+      "size": "109.6MB",
+      "hash": "c992cce379083210fc9fd34111e908c2",
+      "url": "https://annas-archive.gl/md5/c992cce379083210fc9fd34111e908c2"
+    },
+    {
+      "title": "Condillac Lettres inédites à Gabriel Cramer",
+      "authors": "Condillac; Georges Le Roy",
+      "publisher": "Presses Universitaires de France, 1953",
+      "language": "French",
+      "format": "PDF",
+      "size": "67.7MB",
+      "hash": "5a9c23c83f05c29d426658967f8736b0",
+      "url": "https://annas-archive.gl/md5/5a9c23c83f05c29d426658967f8736b0"
+    },
+    {
+      "title": "Napoléon et Talleyrand / Emile Dard",
+      "authors": "Author Unknown",
+      "publisher": "None",
+      "language": "English",
+      "format": "PDF",
+      "size": "21.8MB",
+      "hash": "3b1126d9b7830b51b1c7a5fee0afae85",
+      "url": "https://annas-archive.gl/md5/3b1126d9b7830b51b1c7a5fee0afae85"
+    },
+    {
+      "title": "Lettres inedites à C. de Blignières",
+      "authors": "Comte, Philosophie - Auguste",
+      "publisher": "",
+      "language": "French",
+      "format": "EPUB",
+      "size": "0.4MB",
+      "hash": "07339cc369361d26e3e49fb8e4f7e1a2",
+      "url": "https://annas-archive.gl/md5/07339cc369361d26e3e49fb8e4f7e1a2"
+    },
+    {
+      "title": "Lettres ine  dites de Napole  on Ier (an VIII-1815) publie  es par Le  on Lecestre ...",
+      "authors": "Napoleon I, Emperor of the French, 1769-1821.",
+      "publisher": "E. Plon, Nourrit et cie, 1897., France, 1897",
+      "language": "French",
+      "format": "",
+      "size": "0.6MB",
+      "hash": "731b6fbe29e24c1e8e77e7c05561db1c",
+      "url": "https://annas-archive.gl/md5/731b6fbe29e24c1e8e77e7c05561db1c"
+    },
+    {
+      "title": "Lettres inédites à Charles Morice",
+      "authors": "Paul Verlaine",
+      "publisher": "Librairie Droz, 1963",
+      "language": "French",
+      "format": "MOBI",
+      "size": "12.2MB",
+      "hash": "61aff3514bbef3e997ff739e106c19f5",
+      "url": "https://annas-archive.gl/md5/61aff3514bbef3e997ff739e106c19f5"
+    },
+    {
+      "title": "Napoleon and Talleyrand",
+      "authors": "Dard, Émile, 1871-, Turner, Christopher Rede, 1877-",
+      "publisher": "New York, London, D. Appleton Century company, inc, New York, London, New York State, 1937",
+      "language": "English",
+      "format": "PDF",
+      "size": "19.0MB",
+      "hash": "cde8dc3873a16217f597a8ecfc950e54",
+      "url": "https://annas-archive.gl/md5/cde8dc3873a16217f597a8ecfc950e54"
+    },
+    {
+      "title": "Une maîtresse de Napoléon : d'après des documents nouveaux et des lettres inédites / Hector Fleischmann ; avec une préface de M. Jules Claretie...",
+      "authors": "Fleischmann, Hector (1882-1914)",
+      "publisher": "",
+      "language": "PDF",
+      "format": "",
+      "size": "12.6MB",
+      "hash": "89c0ec565c163e67ee736da13af59aa3",
+      "url": "https://annas-archive.gl/md5/89c0ec565c163e67ee736da13af59aa3"
+    },
+    {
+      "title": "H. Thirria. La Marquise de Crenay, une amie de la reine Hortense, de Napoléon III et de la duchesse de Berry,... Lettres inédites",
+      "authors": "Thirria, Hippolyte",
+      "publisher": "",
+      "language": "French",
+      "format": "PDF",
+      "size": "96.9MB",
+      "hash": "f54303cd53afa93b6964ae0c75806365",
+      "url": "https://annas-archive.gl/md5/f54303cd53afa93b6964ae0c75806365"
+    },
+    {
+      "title": "La marquise de Crenay, une amie de la reine Hortense, de Napoléon III et de la duchesse de Berry; lettres inédites.",
+      "authors": "Thirria, H.",
+      "publisher": "T.J. Plange, 1898., France, 1898",
+      "language": "French",
+      "format": "",
+      "size": "0.2MB",
+      "hash": "569defae10d9e8b9449d143b663fc0b4",
+      "url": "https://annas-archive.gl/md5/569defae10d9e8b9449d143b663fc0b4"
+    },
+    {
+      "title": "Catalogue des tableaux anciens, objets d'art et d'ameublement, tapisseries, tapis, dependant de la succession du Duc de Talleyrand, Valençay et Sagan et provenant du château de Valençay, dont la vente aura lieu ... mai ... juin 1899 ...",
+      "authors": "Talleyrand-Périgord, Napoléon Louis, duc de Talleyrand et de Valençay, Herzog zu Sagan, 1811-1898.",
+      "publisher": "E. Moreau et Cie.] 1899., France, 1899",
+      "language": "French",
+      "format": "",
+      "size": "0.1MB",
+      "hash": "7e46d80c26490c7e78d0a041f7cd3ce9",
+      "url": "https://annas-archive.gl/md5/7e46d80c26490c7e78d0a041f7cd3ce9"
+    },
+    {
+      "title": "Lettres inédites de Georges Bizet",
+      "authors": "Georges Bizet",
+      "publisher": "2008",
+      "language": "French",
+      "format": "EPUB",
+      "size": "0.3MB",
+      "hash": "63d0984a19c2d6d2aa7682d1fbcd8fff",
+      "url": "https://annas-archive.gl/md5/63d0984a19c2d6d2aa7682d1fbcd8fff"
+    },
+    {
+      "title": "L’amante et l’amie LETTRES INÉDITES 1804-1828",
+      "authors": "François de Chateaubriand, Delphine de Custine, Claire de Duras",
+      "publisher": "Gallimard, 2017",
+      "language": "French",
+      "format": "EPUB",
+      "size": "1.6MB",
+      "hash": "b45e56c28088457a497624ce208bc6bf",
+      "url": "https://annas-archive.gl/md5/b45e56c28088457a497624ce208bc6bf"
+    },
+    {
+      "title": "Lettres inédites à divers correspondants",
+      "authors": "",
+      "publisher": "Librairie Droz, 1976",
+      "language": "EPUB",
+      "format": "",
+      "size": "6.0MB",
+      "hash": "c6ed256866762e8bb75f45f01d8dd49d",
+      "url": "https://annas-archive.gl/md5/c6ed256866762e8bb75f45f01d8dd49d"
+    },
+    {
+      "title": "Cent quatre-vingt-trois lettres inédites de Napoléon : (année 1806) ...",
+      "authors": "Napoleon I, Emperor of the French, 1769-1821.",
+      "publisher": "190-?], Italy, 1909",
+      "language": "French",
+      "format": "",
+      "size": "0.1MB",
+      "hash": "d203a01d31ec1e6d6fe2656fc390d36a",
+      "url": "https://annas-archive.gl/md5/d203a01d31ec1e6d6fe2656fc390d36a"
+    },
+    {
+      "title": "Mon amour bleu - L'amour inconnu d'Edith Piaf (lettres inédites)",
+      "authors": "Piaf, Edith",
+      "publisher": "Grasset jeunesse, 2015",
+      "language": "French",
+      "format": "EPUB",
+      "size": "1.5MB",
+      "hash": "6a10cf84b2ac703729fa6fd3e3cf4cb6",
+      "url": "https://annas-archive.gl/md5/6a10cf84b2ac703729fa6fd3e3cf4cb6"
+    },
+    {
+      "title": "Sept lettres inédites de Napoléon 1er.",
+      "authors": "Napoleon I, Emperor of the French, 1769-1821",
+      "publisher": "Modes e Mendel, etc., etc., 1899.], Italy, 1899",
+      "language": "French",
+      "format": "",
+      "size": "0.1MB",
+      "hash": "fe311799e9e53d58bcb0c3aa92b2cf07",
+      "url": "https://annas-archive.gl/md5/fe311799e9e53d58bcb0c3aa92b2cf07"
+    },
+    {
+      "title": "226 lettres inédites de Jean Paulhan",
+      "authors": "Jeannine Kohn-Etiemble",
+      "publisher": "Klincksieck, 1974",
+      "language": "French",
+      "format": "PDF",
+      "size": "75.3MB",
+      "hash": "88bfe38a53fe7dcf5a757f4d1c833a50",
+      "url": "https://annas-archive.gl/md5/88bfe38a53fe7dcf5a757f4d1c833a50"
+    },
+    {
+      "title": "Souvenirs d'égotisme autobiographie et lettres inédites publiées par Casimir Stryienski",
+      "authors": "Stendhal",
+      "publisher": "",
+      "language": "French",
+      "format": "EPUB",
+      "size": "0.8MB",
+      "hash": "890d94523adba775fbd1fe7b16d2339a",
+      "url": "https://annas-archive.gl/md5/890d94523adba775fbd1fe7b16d2339a"
+    },
+    {
+      "title": "Cent quatre-vingt-trois lettres inédites de Napoléon : (année 1806) ...",
+      "authors": "Napoleon I, Emperor of the French, 1769-1821.",
+      "publisher": "190-?], Italy, 1909",
+      "language": "French",
+      "format": "",
+      "size": "0.1MB",
+      "hash": "bdc872cce55099f706297983d05f64d1",
+      "url": "https://annas-archive.gl/md5/bdc872cce55099f706297983d05f64d1"
+    },
+    {
+      "title": "Dernières lettres inédites de Napoléon Ier, collationnées sur les textes et publiées par Léonee de Brotonne.",
+      "authors": "Napoleon I, Emperor of the French, 1769-1821",
+      "publisher": "H. Champion, 1903., France, 1903",
+      "language": "French",
+      "format": "",
+      "size": "0.6MB",

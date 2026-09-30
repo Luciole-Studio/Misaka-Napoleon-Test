@@ -1,0 +1,140 @@
+The detailed historical data sources and the variables constructed out of them are listed in the following.
+Trade Occupation, Income, Religion, Education, Population in 19th century Prussia The first set of
+data covers employment shares and controls to be used on the county level in 19th century Prussia.
+Starting in 1816, the Royal Prussian Statistical Office collected throughout the 19th century data on
+population, education, religious denomination, occupation, and tax income. Several different waves of
+the Prussian Statistics are used and combined. For measuring the development of the trade sector in 19th
+century, I use the data on occupation gathered in 1849. The data lists the number of people working
+in trade related jobs, such as wholesaler, mercer, spice-trader, or broker, and other occupations, such
+as civil servants or servants “for the convenience of the lordship”. My measure of trade occupations,
+Trade, divides the total number of people working in trade related jobs by the county’s population. I
+also use the per capita share of individuals employed in factories, except mills, in 1849 as a measure
+of industrialization, following Becker, Hornung, and Woessmann (2011b). I label this variable Factory.
+Furthermore, the variable Craft gives per capita share of employment in craft, and encompasses jobs as
+baker, tailor or music instrument maker. TrFaCr combines the previous three variables. Counterfactuals,
+on which no effects are expected, are the number of people working as civil servants as a share of the
+population, and the number of male servants per capita. Several controls taken from the 1864 dataset
+are included, such as the share of Protestant and Jewish population, the share of females, the number
+of elementary schools per capita. Following Becker and Woessmann (2009), the counties’ income tax
+per capita in 1878 will proxy for per capita economic prosperity. The source of the data is Becker et al.
+(2012), who compiled the data from the original Prussian statistics. Furthermore, I assign to every county
+its geographic location, that is a measure for longitude and latitude.33
+Gymnasts and Volunteer Fire Departments The source for the gymnasts clubs and the fire departments
+is the Second Statistical Yearbook of German Gymnast Clubs (Zweites statistisches Jahrbuch Deutscher
+Turnvereine) from 1865 (Hirth, 1865).34 It lists all German gymnast clubs existing at that time and
+33Table B.2 in the Appendix lists the territories included in the sample and the treatment.
+34See Data Appendix for further information.
+24
+furthermore provides information on whether the club had a fire department, and if yes, the number of
+firemen. From this data, I construct the per capita amount of firemen per county, Firemen p.c., as a first
+measure of social capital, and second the total number of clubs per county, labeled No of Clubs.
+Shooting Associations As a last measure of social capital for 19th century Germany, I use a dataset
+for the two Prussian provinces Rhineland and Westphalia that contains the number of German shooting
+associations (Schützenvereine) founded per county from the Middle Ages to 1939 at a yearly level.35
+I use the years from 1700 to 1900. The source is Plett (1991), who gathered this data by directly by
+surveying current day shooting clubs about their year of foundation. In the data, a club is reported to
+exist in year t, if its date of foundation falls in this year.
+Summary Statistics for the variables generated out of the historical data sources are displayed in Table 9.
+Table 9 about here
+4.2 The Impact on Trade, Factory and Craft Employment
+Table 10 displays the regression results of estimating the following model:
+Yc,p = α + δ ∗ codec + X
+0
+c,p ∗ β + uc,p (2)
+where Yc,p gives the relative occupational share in county c located in Prussian province p. The variable
+codecis a dummy indicating whether county c used the code civil or not. X
+0
+c,p
+includes the controls listed
+above.
+Table 10 about here
+Counties applying the Code Civil are associated with a significantly higher occupational share in trade,
+see column (1). Conditionally on other controls, adopting the Code Civil goes along with an increase
+in the trade share by 0.004 in absolute values (column (2)), or about 0.66 of a standard deviation in
+trade. Treated regions also have higher levels of industrialization, as measured by the per capita share
+of employment in factories (column (3)) and a higher share craftsmen (column (4)). The effects are
+equally large, as adopting the Code Civil increases factory and craft employment by about 50 percent
+of the relevant standard deviation. They are furthermore comparable both in magnitude and significance
+35See Data Appendix for further information.
+25
+to those using the composition of trade, factor employment and craft as dependent variable in columns
+(5) and (6). Making use of the counterfactuals, I run the regression with the share of civil servants
+and servants as dependent variables. The regressions, see columns (7) and (8), report non-significant,
+negative associations between the Code Civil and the employment share in the civil sector, as well as the
+per capita share of servants.
+4.3 The Impact on Gymnast Clubs and Volunteer Fire Departments
+To assess the impact on the number of gymnast clubs and firemen, the following model is regressed:
+Gc,p = α + δ ∗ codec + X
+0
+c,p ∗ β + uc,p (3)
+where Gc,r,p is one of the following dependent variables measured in county c in province p: Member
+p.c. gives the per capita share of members in gymnast clubs. Firemen p.c. gives the per capita share of
+voluntary firemen per county. Member gives the total number members in gymnast clubs. Firemen gives
+the total number volunteer firemen per county. The variable codecis a dummy indicating whether county
+c used the code civil or not. X
+0
+c,p
+includes the controls listed above.
+Table 11 about here
+As Table 11 shows, there exists a positive correlation between the Code Civil and gymnast club membership, as well as volunteer firemen departments. Columns (1) and (2) indicate that in counties applying
+the Napoleonic legal code, the per capita share of club members and firemen is higher. Switching from 0
+(no Code) to 1 (adopting the Code) increases the participation in gymnast clubs per capita by on average
+about 35 percent of its sample mean. The number of volunteer firemen per capita increases by a magnitude of on average 20 percent of the sample mean for regions that adopted the Code Civil. This finding
+is robust to using total numbers of members and firemen, as columns (3) and (4) show, and population is
+controlled for. When education and the share of females are included in the regression, the coefficients
+of interest stay significant on the 10 percent significance level in column (5), as well as in column (6).
+Finally, regressions of the social capital measures on economic cooperation display a strong positive
+correlation of membership in gymnast clubs, as well as voluntary participation as firemen, with trade and
+factory employment. Table 12 shows this correlation in columns (1) to (6), which is robust to including
+potential covariates in columns (7) to (12).
+26
+Table 12 about here
+4.4 The Impact on Shooting Associations
+To test empirically if the Napoleonic treatment in the Rhineland resulted in a higher number of shooting
+clubs founded per year compared to Westphalia, I use the foundation dates of shooting clubs available
+in a panel of 128 districts and an annual time period from 1700 to 1900. I aggregate the data on the
+district level into four different periods composed of 50 years, i.e. 1700 – 1750, 1750 – 1800, 1800 –
+1850 and 1850 – 1900.36 I run a set of binary regressions - equivalent to simple t-tests - comparing the
+mean number of clubs founded per province per period. Results are shown in Table 13 .
+Table 13 about here
+The results indicate that both provinces did not differ significantly in the average number of clubs founded
+during the period from 1700 to 1750. However, starting from the second period I find a significant
+differences between the two provinces. From 1750 to 1800 on average an addition of 0.3 shooting clubs
+per district were founded in Westphalia. The negative difference aggravates in the period between 1800
+and 1850. Only from 1850 onwards, a the sign of the mean difference changes and gets positive. From
+1850, more clubs were founded in the Rhineland using the Code Civil then in the neighboring province
+of Westphalia.37 The same pattern shows up when the lagged cumulative number of clubs per district
+is controlled for in Panel B. On the one hand should be cautious generalizing those results, as the type
+of association is particular. An explanation for the spike in the number of clubs founded in Westphalia
+in the years from 1800 to 1850 could, for example, be the high number of veterans returning from the
+Napoleonic wars. On the other hand, the evidence shows roughly the expected pattern. While before
+1800 there was no or even a negative different in associations in the Rhineland vs Westphalia, this trend
+turns during the 19th century.
+4.5 Summary: Trade and Associations in 19th century Prussia
+This section using historical social capital supports the findings described in section 3. Although each
+regression by itself might have drawbacks, as they do not account for unobserved heterogeneity on the
+36The reason for aggregating the data rather than running a panel regression comes from the concern that in a panel regression, serial and spatial correlation potentially bias the estimation results. With only two cross-sectional units for which the
+treatment varies, and thus only two potentially cluster, clustering is in this case not a feasible option to account for this. See
+also Bertrand, Duflo, and Mullainathan (2003).
+37Running regressions with panel data produces the same results.
+27
+county (or province) level by applying county level (or provincial level) fixed effects as two of the regressions use cross-sectional data, the overall picture points in one direction: Those Prussian counties that
+belonged to the province of Rhineland and that kept the Code Civil, have had both a higher share of people engaging in impersonal trade, factory work and craft, and at the same time more engagement in civic
+associations. Assuming that all counties started out with comparable characteristics before Napoleon
+imposed the Code Civil to those regions, the increase in institutional quality causally impacted trade and
+associational participation. Those effects give a rational for the observed differences in contemporaneous
+differences in trust.
+Lastly, one could ask if there is evidence that cooperation persisted. Putnam (1994) for example shows
+remarkable persistence of associational participation in Italy between 1900 and 1970 by using comparable measures of club membership. To elicit persistence of cooperation, I therefore regress individual
+responses for Trust on the employment shares, as well as per capita firemen and gymnast membership in
+19th century Prussia.
+Table 14 about here
+Table 14 displays that only the employment shares can explain current trust significantly (see columns
+(1) -(6)). Both, firemen and membership do not show any significant association. One explanation for the
+latter might be that the share of people that were actually engaged in historical associations are relatively
+low and that historical and current indicators of social capital used are quite different. The positive
+association between current trust and past employment holds even when the entire set of individual
+controls is included in the regressions (see columns (7) - (12)). It seems that, consistent with my initial
+hypothesis, economic exchange played an important role for generating trust.
+5 CONCLUSION
+This paper provides evidence that impartial legal enforcement institutions can increase norms of trust

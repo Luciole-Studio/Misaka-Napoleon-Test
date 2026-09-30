@@ -1,0 +1,39 @@
+
+
+### 存在但本轮未亲得正文／未对校
+
+1. B.R. Mitchell and Phyllis Deane, *Abstract of British Historical Statistics*, Cambridge UP, 1962；p.442银行系列仅经Bordo–White表3转引。本轮查得IA重印入口https://archive.org/details/abstractofbritis0000mitc （`downloads/pages/6e6f2ee5c7e3.md`），借阅受限。Mitchell（1988）在D1有数字转录，不等于已核1962/1971原表。
+2. John M. Sherwig, *Guineas and Gunpowder: British Foreign Aid in the Wars with France, 1793–1815*, Harvard UP, 1969。pp.362—368及全期援助表未亲读。网页书评中约66m只为检索线索，不作本卡核定总量；相关缓存`afa9eb650bc6.md`、`f4388af7a51c.md`。
+3. A. Hope-Jones, *Income Tax in the Napoleonic Wars*, Cambridge UP, 1939；所得税早期年表经Avery Jones转引，样章缓存`1e04060345f8.md`仅有出版页眉，不称已阅正文。
+4. François Crouzet, *L’économie britannique et le blocus continental (1806–1813)*, 2 vols., 1958；p.855通过L7转引。法国视角和非英语正文仍不足。
+5. Silberling、Tooke、Knight、Hilton及Herries原账：列为来源谱系和后续线索，不因文献设计列过其名而冒充已经引用其未见页。
+
+### 档案谱系（未查原折）
+
+- **Bank of England Archive**：Court of Directors Minutes、Committee of Treasury Minutes、Discount Office账、日记账与资产负债表账；本轮数字经D1—D3，危机审查记录经L6。
+- **英国财政与战争行政**：TNA Treasury（T）、Exchequer（E）、Customs（CUST）、Admiralty（ADM）、War Office（WO）、Foreign Office（FO）；需进一步确认具体系列号后再调卷。没有伪造盒卷号。
+- **刊印议会财政账**：Annual Finance Accounts；*Accounts of the Public Income and Expenditure, 1688–1869*（Chisholm报告，PP 1868—69 XXXV）；1870 Commissioners of Inland Revenue年报；1811商业贷款专员账/回收表。这些是应补材料，不称本卡全读。
+- O’Brien文中所列旧P.R.O. Customs 17/10—30等为作者实际档案引据；本卡仅读其引注，未把旧编号不加核实转换成新TNA编号。
+
+## 五、数据字段与不能相加的附列
+
+`B2_series.csv`的前21列为主财政年系列和来源；随后附银行、4月5日税年及少量贷款成本。把同一个year列放在一行只为检索便利，**不意味着各列都在同一天或同一财政年度计量**。
+
+- `revenue/expenditure/interest_gbp_m`：D1历年转换后的流量。
+- `debt_funded_unfunded_calendar_gbp_m`、`capital_value_terminable_annuities_gbp_m`、`debt_total_calendar_gbp_m`：D1综合债务及构成；全部56年均有源值；不存在本卡填零或以总额替代组件，各行`debt_component_note`明确标识。
+- `debt_gdp_pct_boe_all_ireland`：沿用D1比率，不供法胜GDP预测。
+- `direct_income_tax_category_fy_gbp_m`：A27税目AA原财年，依`fiscal_source_label`、`fiscal_end_convention`辨读。1799桥接季度不能当全年；1815/16指截至1816年1月的财年，不表示1816废税后新税。
+- `boe_notes_end_feb_gbp_m`、`boe_coin_bullion_end_feb_gbp_m`：D2的银行存量；1844后本卡留空，不暗中改观察日。
+- `property_tax_net_produce_year_to_april5_gbp_m`：H7原表分项，1804—09六点；不跟D1税目混接。
+- `new_loan_cash_coupon_cost_pct`：1810=4+4/20+2/240=4.208333%；1811=355937.5/7500000×100=4.745833%；1815由H2认缴100所获130面额3%+44面额3%+10面额4%，等于5.62%。1815不含期初Exchequer bills转长债的另一批融资，**不是全年全部贷款的平均成本**。
+- 1811票息包括组合与年金年度支付，未纳缴款时序折扣IRR；1810只是H1同段给的比较率，不声称已重建其逐券合同。市场bonus按当时市价计，不能再无时限地加成年度利率；管理费与偿债基金也分列。
+- `B2_consol_monthly_1809_1812.csv`：raw和spliced均来自M10，保留原文source字段；48点是月末，不与年平均直接当同观测相减。
+
+## 六、模型、独立复核与未完成检查的范围
+
+- `B2_model.py`读主CSV真实起点，并公开R/G/y/g/还现款上限、起始利息调整与减支时滞；输出`B2_model_paths.csv`、`B2_model_assumptions.json`。8个主情景＋24个网格＋8个过渡版本，共40条。过渡首年维持原G，1或2个年度阶梯降至目标；金额属于情景参数，不是新找到的裁撤实账。S3过渡版1844—47触及60%，撤销对它的“1848前无探针压力”判断。
+- 模型没有把全存量债券重定价；用3%等价永久债折价发行，新增票息进入下一期；面额变化与现金缺口之差单列stock-flow adjustment。旧本金含期限年金资本值，故称面额代理，不能当逐券法律本金。
+- 60%、70%债息/收入和30m现金缺口只是审查探针；1797已超60%是明确反例。越探针后的爆炸数字不作为可融资预测，也不以“模型尚能借到”证明历史市场愿意认购。
+- 年表各项推演引文支持制度和机制，年份由情景设定/计算给出，不声称史料能直接描述未发生的世界。
+- 当前证据层级不支持统计显著性检验、封锁的识别性因果估计、整体贸易—税收弹性、首都失守后重组的直接历史概率。本卡给明确条件路径，不用这些缺口拒绝结论。
+- 本卡另以`verify_B2.py`检查56年、48月、40条模型路径、现金与面额恒等式、旧券/新券票息时点、JSON检查点、8项反应函数、32个年表节点及14项引文片段（仅规范空白），结果写入`B2_validation.txt`。文字定位不是论证支持检验；SHA相符不是对原始账目的独立核验。只读代理fiscal-audit对原8＋24线静态审计有条件通过，确认旧券/新券、现金/面额和模板；执行权限限制使其未能独立全量复算。新增过渡公式及时序获其确认，但新数值由本卡复算。代理提出的立即节流/滞后接口和“探针不能指定调整事件”问题已修正，记录见`B2_independent_audit.md`。项目红队仍待另行抽查，不把本卡自检称作已通过全项目红队。

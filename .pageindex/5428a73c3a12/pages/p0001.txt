@@ -1,0 +1,61 @@
+---
+source_url: "https://www.persee.fr/doc/ahrf_0003-4436_1999_num_315_1_2219?pageId=T1_10"
+final_url: "https://www.persee.fr/doc/ahrf_0003-4436_1999_num_315_1_2219"
+provider: "exa"
+text_sha256: "ce8f30fa4ea62e3a4130251fe3ba183aa7e72f4597998bd333324c2a6237e0f7"
+title: "La vente des biens nationaux : essai de synth\u00e8se - Pers\u00e9e"
+content_kind: "page_text"
+---
+
+La vente des biens nationaux : essai de synthèse - Persée Saut au contenu
+
+#### Plan
+
+#### Figures
+
+## La vente des biens nationaux : essai de synthèse
+
+#### [article]
+
+Annales historiques de la Révolution française Année 1999 315 pp. 7-19
+
+Fait partie d’un numéro thématique : Paysanneries et communautés villageoises de l'Europe du Nord-Ouest
+
+- Documents liés
+- Référence bibliographique
+
+Bodinier Bernard. La vente des biens nationaux : essai de synthèse. In: Annales historiques de la Révolution française, n°315, 1999. Paysanneries et communautés villageoises de l'Europe du Nord-Ouest. pp. 7-19.
+
+### Résumé (ger)
+
+Bernard Bodinier,
+
+La vente des biens nationaux. Essai de synthèse.
+
+Der Verkauf der Nationalgüter ist sicher eines der wichtigsten Ereignisse der Revolution, auch wenn das Eigentum der Kirche und der Emigrierten nicht so ansehnlich war, wie man gewöhnlich dachte (doch fast 10 % des Nationalgebiets). Die Historiker haben lange darüber gestritten und Marion scheint a posteriori über Loutchisky zu siegen, das Burgertum über den Bauernstand.
+
+### Résumé (fre)
+
+Bernard Bodinier,
+
+La vente des biens nationaux : essai de synthèse.
+
+La vente des biens nationaux représente certainement l'un des événements les plus importants de la Révolution, même si la propriété de l'Église et celle qui fut aliénée aux dépens des émigrés étaient moins importantes qu'on ne le pensait généralement (près de 10 % du territoire national cependant). Les historiens en ont longuement débattu et Marion semble bien l'emporter a posteriori sur Loutchisky, la bourgeoisie sur la paysannerie.
+
+### Résumé (eng)
+
+Bernard Bodinier,
+
+The Sale of Biens Nationaux : an Overview.
+
+The disposal of national lands certainly constitutes one of the most important events of the Revolution, even if Church property and that forfeited by the Émigrés was less substantial than generally thought (about 10 % of national territory nonetheless). Historians have discussed the issue at length and in retrospect Marion turns out to have been right, rather than Loutchisky : the bourgeoisie did better than the peasantry.
+
+### Résumé (ita)
+
+Bernard Bodinier,
+
+La vendita di beni nazionali. Saggio di sintesi.
+
+La vendita di beni nazionali rappresenta certamente uno degli eventi più importanti della Rivoluzione, anche se la propriété della Chiesa e quella che fu confiscata agli emigrati erano, in realtà, meno importanti di quanto generalmente si pensi (circa il 10 % del territorio nazionale). Gli storici ne hanno lungamente discusso e Marion sembra a posteriori aver la meglio su Loutchisky, in altre parole la borghesia sulla gente comune.
+
+### Plan

@@ -1,0 +1,38 @@
+
+
+## 1. 实际读本与证据边界
+
+- **已读** A. T. Mahan, *The Influence of Sea Power upon the French Revolution and Empire, 1793–1812*, vol. II，Gutenberg #52589所转录的 **Fourth Edition**，London: Sampson Low, Marston, Searle, & Rivington。标题页摘录未显示出版年，不把1892初版年强加于本读本。阅读第XV–XVI章相关正文印刷pp.111–185及相关脚注。HTML保留`[Pg …]`印刷页标；未逐页对校扫描。
+  - URL：https://www.gutenberg.org/files/52589/52589-h/52589-h.htm
+  - 已保存材料：`downloads/pages/4c05b3e278f4.md`（工具返回page_text，910,266字符；全文级抓取，正文按本地read实际读取，不能将工具屏幕头尾窗口误当所读全部）。
+  - 正文核心本地行段2172–2400；脚注3170–3370。
+- **未充分读到** Julian S. Corbett, *The Campaign of Trafalgar*, London: Longmans, Green, 1910。IA item `campaignoftrafal00corb`。多个OCR/PDF网页入口只回零散excerpts，不能据此捏造六条Corbett引文或给出已核实的史家分歧。
+  - https://archive.org/download/campaignoftrafal00corb/campaignoftrafal00corb_djvu.txt
+  - 书目/目录/碎片分别保存于`downloads/pages/68fdc2145ce9.md`、`712506f26959.md`、`2b3f6e45a9c4.md`等。
+  - 下一步目标章节：XIII p.185、XIV p.193、XV p.208、XVI p.226、XVII p.239、XVIII p.255、XXVI p.408；这些只是目录定位，不是正文证据。
+- Desbrière：协调者交接`downloads/c11_desbriere_01.txt`（IV I–II pp.1–354）、`02.txt`（IV III pp.355–834），本笔记尚未核读，不据此宣称亲见原令。
+- 没有使用Rodger或Glover未读材料；也没有亲查AN、SHD或TNA档案。以下所有拿破仑信件均为**转引自Mahan**，应由协调者以Desbrière出版转录核对后升级。
+
+## 2. 计划谱系：不得把“1805计划”拼成一版
+
+本节均为【事实：据Mahan叙述，尚待原令独立互证】。舰数是各版计划数或特定时点报告数，不是同日全部可作战舰力。
+
+| 版本 | 主线与真正变化 | 来源与可核对原令线索 |
+|---|---|---|
+| 1803末—1804初，Latouche核心版 | 土伦约10艘向东佯航，转直布罗陀；与罗什福尔分舰队会合达15–16艘，入海峡至布洛涅。布雷斯特约20艘搭载赴爱尔兰兵力的准备主要用于牵制Cornwallis。不可倒灌后来的西印度大迂回。 | Mahan II pp.124–126；注114：旧《通信集》VIII p.657；注115：IX p.168。 |
+| 1804夏修订 | 5月25日询问7月能否就绪；7月2日期望8月初出海，接加的斯法国舰，赴罗什福尔，再经海峡或必要时绕英国北方赴布洛涅。8月2日因船队尚未齐集再推迟，8月20日Latouche死亡。 | pp.129–130；注133–134：旧《通信集》IX pp.475、513。日期须再核原信。 |
+| 1804年9月27/29日版—1805年1月执行 | Toulon由主突击转为海外牵制；Ganteaume率Brest主力赴爱尔兰实际登陆，再向多佛集中，或护送荷兰Marmont军赴爱尔兰。Villeneuve与Missiessy各赴西印度，进行殖民地行动，回航解Ferrol之围、集中Rochefort；不是先前Latouche版。 | pp.131–133、140–145；注136、138：9月27/29日文书；注160：旧《通信集》X pp.79–97（12月详细指令）。 |
+| 1805年3月2日版 | 放弃原定爱尔兰登陆与主要美洲征服任务；Brest经Ferrol赴Martinique，Ganteaume会合后总指挥；Villeneuve经Cadiz赴Martinique。形成海外舰队集中，再整体赴布洛涅。Ganteaume至少等30日；Villeneuve等40日，无会合则另有Santiago备选会合方案。 | pp.146–150；注174：旧《通信集》X p.227；注175：X p.232。Mahan本人注明Santiago在命令中“Canary Islands”与后来“Cape de Verde”表述冲突，不能擅自抹平。 |
+| 1805年4—5月，Magon携修订令 | Brest仍不能出海：Villeneuve等Magon到达后35日；无Ganteaume则回Ferrol，集舰后赴Brest接主力，再入海峡。这是从海外集中退到敌军密集的比斯开湾集中。 | pp.153–154；Magon于6月4日送达。 |
+| 5月8日决定、5月20/21日截止及后续Ferrol令 | Ganteaume过截止时点即不再出海横渡大西洋。Villeneuve回航有数种择风路线：Ferrol→Rochefort→Brest；直接Brest；条件极好时跳过Brest直接布洛涅；绕英国北部接Texel为末选。 | pp.163–165。不能把这些条件选项当成一个必须逐站执行的行程。 |
+| 7—8月危机版 | 既有备用Cadiz退路与强烈要求赴海峡的命令并存；8月13日又强调优势时战斗。8月15日Villeneuve转向Cadiz；8月下旬陆军转向德国。 | pp.173–181。必须区别皇帝发令时认知、舰队实际位置及收令时点。 |
+
+## 3. 英国部署：双层防御，不是“Nelson一走英国空门”
+
+【事实：据Mahan II pp.118–120、148】英国主力在敌海军港口前压制，同时海峡近岸维持巡逻、通信和防御。Cornwallis封Brest为中心，Keith不是可以从模型里删掉的闲置指挥官。
+
+- 早期部署说明（pp.119–120）中：Cornwallis若法舰逃出，以Lizard附近为集合位置；Spithead舰可向东跟进；Keith在Downs还可调用北海兵力。书中涉及“6舰+6 block ships”等**不能与1805年3月数字简单相加**。
+- 1805年3月态势（p.148）：Keith辖11艘较小战列舰，监视Texel与多佛海峡；Brest封锁舰力由年初11艘至4月20–24艘不等；Ferrol外8艘；Nelson辖区在Orde接管Cadiz后西界改为Gibraltar。此系列Mahan注173主要据《Naval Chronicle》XIII pp.365–367，再与James等核对，属于**二手汇编**。
+- 【文献推断：Mahan，p.126】英国体系有效不要求每个港口绝对封死，而要求阻止法国数支舰队在规定时空同步集中。法国一个分队成功逃出，不足以证明整套防御失效。
+- 【事实：据Mahan，pp.168–170】Curieux送回消息后，Barham抽调Rochefort封锁舰加强Calder，主动牺牲局部封锁以阻止Villeneuve与Ferrol舰队会合；这是集中机动，不是封锁纪律的机械执行。
+- 【文献推断：Mahan，pp.175–176】8月中旬英国在Brest前集中34–35艘后占据内线；Cornwallis于17日分出18艘交Calder，自己留16艘，是一次危险的分兵。**不能把后来才发生的分兵让Villeneuve在15日预先知道**，更不能把“继续北上”和“英国必按实际17日分兵”无条件捆绑。

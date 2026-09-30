@@ -1,0 +1,255 @@
+## Sheet: Full data (continued)
+	A	B	C	D	E
+1728	BIH	Bosnia and Herzegovina	1992	3,830	4,233
+1729	BIH	Bosnia and Herzegovina	1993	2,831	3,913
+1730	BIH	Bosnia and Herzegovina	1994	3,017	3,727
+1731	BIH	Bosnia and Herzegovina	1995	3,237	3,636
+1732	BIH	Bosnia and Herzegovina	1996	4,915	3,649
+1733	BIH	Bosnia and Herzegovina	1997	5,913	3,681
+1734	BIH	Bosnia and Herzegovina	1998	6,590	3,713
+1735	BIH	Bosnia and Herzegovina	1999	7,026	3,811
+1736	BIH	Bosnia and Herzegovina	2000	7,082	3,901
+1737	BIH	Bosnia and Herzegovina	2001	7,129	3,919
+1738	BIH	Bosnia and Herzegovina	2002	7,392	3,923
+1739	BIH	Bosnia and Herzegovina	2003	7,551	3,940
+1740	BIH	Bosnia and Herzegovina	2004	7,857	3,975
+1741	BIH	Bosnia and Herzegovina	2005	8,058	3,991
+1742	BIH	Bosnia and Herzegovina	2006	8,411	3,993
+1743	BIH	Bosnia and Herzegovina	2007	8,812	3,990
+1744	BIH	Bosnia and Herzegovina	2008	9,199	3,987
+1745	BIH	Bosnia and Herzegovina	2009	9,019	3,985
+1746	BIH	Bosnia and Herzegovina	2010	8,982	3,983
+1747	BIH	Bosnia and Herzegovina	2011	8,961	3,980
+1748	BIH	Bosnia and Herzegovina	2012	8,873	3,977
+1749	BIH	Bosnia and Herzegovina	2013	9,093	3,973
+1750	BIH	Bosnia and Herzegovina	2014	9,201	3,969
+1751	BIH	Bosnia and Herzegovina	2015	9,495	3,964
+1752	BIH	Bosnia and Herzegovina	2016	9,746	3,959
+1753	BIH	Bosnia and Herzegovina	2017	10,069	3,953
+1754	BIH	Bosnia and Herzegovina	2018	10,461	3,947
+1755	BLR	Belarus	1950		7,722
+1756	BLR	Belarus	1951		7,742
+1757	BLR	Belarus	1952		7,698
+1758	BLR	Belarus	1953		7,667
+1759	BLR	Belarus	1954		7,699
+1760	BLR	Belarus	1955		7,781
+1761	BLR	Belarus	1956		7,857
+1762	BLR	Belarus	1957		7,913
+1763	BLR	Belarus	1958		7,983
+1764	BLR	Belarus	1959		8,075
+1765	BLR	Belarus	1960		8,168
+1766	BLR	Belarus	1961		8,263
+1767	BLR	Belarus	1962		8,365
+1768	BLR	Belarus	1963		8,439
+1769	BLR	Belarus	1964		8,502
+1770	BLR	Belarus	1965		8,591
+1771	BLR	Belarus	1966		8,694
+1772	BLR	Belarus	1967		8,787
+1773	BLR	Belarus	1968		8,865
+1774	BLR	Belarus	1969		8,946
+1775	BLR	Belarus	1970		9,027
+1776	BLR	Belarus	1971		9,101
+1777	BLR	Belarus	1972		9,169
+1778	BLR	Belarus	1973	8,341	9,236
+1779	BLR	Belarus	1974		9,304
+1780	BLR	Belarus	1975		9,360
+1781	BLR	Belarus	1976		9,406
+1782	BLR	Belarus	1977		9,457
+1783	BLR	Belarus	1978		9,520
+1784	BLR	Belarus	1979		9,582
+1785	BLR	Belarus	1980	9,487	9,644
+1786	BLR	Belarus	1981	9,844	9,713
+1787	BLR	Belarus	1982	10,217	9,779
+1788	BLR	Belarus	1983	10,667	9,845
+1789	BLR	Belarus	1984	10,957	9,914
+1790	BLR	Belarus	1985	11,000	9,982
+1791	BLR	Belarus	1986	11,230	10,044
+1792	BLR	Belarus	1987	11,297	10,097
+1793	BLR	Belarus	1988	11,198	10,150
+1794	BLR	Belarus	1989	11,893	10,184
+1795	BLR	Belarus	1990	11,467	10,201
+1796	BLR	Belarus	1991	11,171	10,206
+1797	BLR	Belarus	1992	9,961	10,228
+1798	BLR	Belarus	1993	9,077	10,251
+1799	BLR	Belarus	1994	7,932	10,239
+1800	BLR	Belarus	1995	6,994	10,205
+1801	BLR	Belarus	1996	7,128	10,171
+1802	BLR	Belarus	1997	7,885	10,129
+1803	BLR	Belarus	1998	8,482	10,092
+1804	BLR	Belarus	1999	8,690	10,064
+1805	BLR	Belarus	2000	9,111	10,034
+1806	BLR	Belarus	2001	9,462	10,000
+1807	BLR	Belarus	2002	9,870	9,955
+1808	BLR	Belarus	2003	10,493	9,905
+1809	BLR	Belarus	2004	11,616	9,856
+1810	BLR	Belarus	2005	12,630	9,807
+1811	BLR	Belarus	2006	13,793	9,764
+1812	BLR	Belarus	2007	14,857	9,734
+1813	BLR	Belarus	2008	16,224	9,713
+1814	BLR	Belarus	2009	16,089	9,697
+1815	BLR	Belarus	2010	17,172	9,681
+1816	BLR	Belarus	2011	17,918	9,662
+1817	BLR	Belarus	2012	18,251	9,644
+1818	BLR	Belarus	2013	18,464	9,626
+1819	BLR	Belarus	2014	18,822	9,609
+1820	BLR	Belarus	2015	18,136	9,590
+1821	BLR	Belarus	2016	17,628	9,571
+1822	BLR	Belarus	2017	18,113	9,550
+1823	BLR	Belarus	2018	18,727	9,528
+1824	BOL	Bolivia (Plurinational State of)	1820		1,100
+1825	BOL	Bolivia (Plurinational State of)	1846	1,184	
+1826	BOL	Bolivia (Plurinational State of)	1850		1,374
+1827	BOL	Bolivia (Plurinational State of)	1870		1,495
+1828	BOL	Bolivia (Plurinational State of)	1890	1,361	
+1829	BOL	Bolivia (Plurinational State of)	1891	1,371	
+1830	BOL	Bolivia (Plurinational State of)	1892	1,390	
+1831	BOL	Bolivia (Plurinational State of)	1893	1,390	
+1832	BOL	Bolivia (Plurinational State of)	1894	1,446	
+1833	BOL	Bolivia (Plurinational State of)	1895	1,446	
+1834	BOL	Bolivia (Plurinational State of)	1896	1,352	
+1835	BOL	Bolivia (Plurinational State of)	1897	1,384	
+1836	BOL	Bolivia (Plurinational State of)	1898	1,414	
+1837	BOL	Bolivia (Plurinational State of)	1899	1,420	
+1838	BOL	Bolivia (Plurinational State of)	1900	1,462	1,696
+1839	BOL	Bolivia (Plurinational State of)	1901	1,513	1,710
+1840	BOL	Bolivia (Plurinational State of)	1902	1,462	1,723
+1841	BOL	Bolivia (Plurinational State of)	1903	1,458	1,737
+1842	BOL	Bolivia (Plurinational State of)	1904	1,460	1,751
+1843	BOL	Bolivia (Plurinational State of)	1905	1,510	1,765
+1844	BOL	Bolivia (Plurinational State of)	1906	1,562	1,779
+1845	BOL	Bolivia (Plurinational State of)	1907	1,568	1,793
+1846	BOL	Bolivia (Plurinational State of)	1908	1,616	1,808
+1847	BOL	Bolivia (Plurinational State of)	1909	1,651	1,822
+1848	BOL	Bolivia (Plurinational State of)	1910	1,714	1,837
+1849	BOL	Bolivia (Plurinational State of)	1911	1,744	1,851
+1850	BOL	Bolivia (Plurinational State of)	1912	1,787	1,866
+1851	BOL	Bolivia (Plurinational State of)	1913	1,862	1,881
+1852	BOL	Bolivia (Plurinational State of)	1914	1,769	1,915
+1853	BOL	Bolivia (Plurinational State of)	1915	1,798	1,951
+1854	BOL	Bolivia (Plurinational State of)	1916	1,839	1,986
+1855	BOL	Bolivia (Plurinational State of)	1917	1,957	2,023
+1856	BOL	Bolivia (Plurinational State of)	1918	1,965	2,060
+1857	BOL	Bolivia (Plurinational State of)	1919	1,956	2,098
+1858	BOL	Bolivia (Plurinational State of)	1920	1,932	2,136
+1859	BOL	Bolivia (Plurinational State of)	1921	1,849	2,161
+1860	BOL	Bolivia (Plurinational State of)	1922	2,002	2,186
+1861	BOL	Bolivia (Plurinational State of)	1923	2,008	2,212
+1862	BOL	Bolivia (Plurinational State of)	1924	2,077	2,237
+1863	BOL	Bolivia (Plurinational State of)	1925	2,144	2,263
+1864	BOL	Bolivia (Plurinational State of)	1926	2,157	2,289
+1865	BOL	Bolivia (Plurinational State of)	1927	2,289	2,316
+1866	BOL	Bolivia (Plurinational State of)	1928	2,356	2,343
+1867	BOL	Bolivia (Plurinational State of)	1929	2,426	2,370
+1868	BOL	Bolivia (Plurinational State of)	1930	2,281	2,397
+1869	BOL	Bolivia (Plurinational State of)	1931	2,040	2,425
+1870	BOL	Bolivia (Plurinational State of)	1932	1,879	2,453
+1871	BOL	Bolivia (Plurinational State of)	1933	1,954	2,482
+1872	BOL	Bolivia (Plurinational State of)	1934	2,099	2,511
+1873	BOL	Bolivia (Plurinational State of)	1935	2,173	2,540
+1874	BOL	Bolivia (Plurinational State of)	1936	2,230	2,569
+1875	BOL	Bolivia (Plurinational State of)	1937	2,381	2,599
+1876	BOL	Bolivia (Plurinational State of)	1938	2,431	2,629
+1877	BOL	Bolivia (Plurinational State of)	1939	2,488	2,659
+1878	BOL	Bolivia (Plurinational State of)	1940	2,667	2,690
+1879	BOL	Bolivia (Plurinational State of)	1941	2,823	2,721
+1880	BOL	Bolivia (Plurinational State of)	1942	2,860	2,753
+1881	BOL	Bolivia (Plurinational State of)	1943	2,922	2,785
+1882	BOL	Bolivia (Plurinational State of)	1944	2,888	2,817
+1883	BOL	Bolivia (Plurinational State of)	1945	2,966	2,850
+1884	BOL	Bolivia (Plurinational State of)	1946	2,891	2,883
+1885	BOL	Bolivia (Plurinational State of)	1947	2,797	2,916
+1886	BOL	Bolivia (Plurinational State of)	1948	2,987	2,950
+1887	BOL	Bolivia (Plurinational State of)	1949	3,083	2,984
+1888	BOL	Bolivia (Plurinational State of)	1950	3,011	2,766
+1889	BOL	Bolivia (Plurinational State of)	1951	3,209	2,824
+1890	BOL	Bolivia (Plurinational State of)	1952	3,237	2,883
+1891	BOL	Bolivia (Plurinational State of)	1953	2,869	2,945
+1892	BOL	Bolivia (Plurinational State of)	1954	2,868	3,009
+1893	BOL	Bolivia (Plurinational State of)	1955	2,954	3,074
+1894	BOL	Bolivia (Plurinational State of)	1956	2,719	3,142
+1895	BOL	Bolivia (Plurinational State of)	1957	2,573	3,212
+1896	BOL	Bolivia (Plurinational State of)	1958	2,576	3,284
+1897	BOL	Bolivia (Plurinational State of)	1959	2,511	3,358
+1898	BOL	Bolivia (Plurinational State of)	1960	2,560	3,434
+1899	BOL	Bolivia (Plurinational State of)	1961	2,555	3,513
+1900	BOL	Bolivia (Plurinational State of)	1962	2,636	3,594
+1901	BOL	Bolivia (Plurinational State of)	1963	2,742	3,678
+1902	BOL	Bolivia (Plurinational State of)	1964	2,809	3,764
+1903	BOL	Bolivia (Plurinational State of)	1965	2,879	3,853
+1904	BOL	Bolivia (Plurinational State of)	1966	3,014	3,945
+1905	BOL	Bolivia (Plurinational State of)	1967	3,127	4,041
+1906	BOL	Bolivia (Plurinational State of)	1968	3,314	4,139
+1907	BOL	Bolivia (Plurinational State of)	1969	3,379	4,241
+1908	BOL	Bolivia (Plurinational State of)	1970	3,469	4,346
+1909	BOL	Bolivia (Plurinational State of)	1971	3,513	4,455
+1910	BOL	Bolivia (Plurinational State of)	1972	3,602	4,566
+1911	BOL	Bolivia (Plurinational State of)	1973	3,757	4,680
+1912	BOL	Bolivia (Plurinational State of)	1974	3,854	4,796
+1913	BOL	Bolivia (Plurinational State of)	1975	4,010	4,914
+1914	BOL	Bolivia (Plurinational State of)	1976	4,219	4,956
+1915	BOL	Bolivia (Plurinational State of)	1977	4,289	5,080
+1916	BOL	Bolivia (Plurinational State of)	1978	4,328	5,205
+1917	BOL	Bolivia (Plurinational State of)	1979	4,227	5,327
+1918	BOL	Bolivia (Plurinational State of)	1980	4,100	5,441
+1919	BOL	Bolivia (Plurinational State of)	1981	4,060	5,545
+1920	BOL	Bolivia (Plurinational State of)	1982	3,816	5,642
+1921	BOL	Bolivia (Plurinational State of)	1983	3,585	5,737
+1922	BOL	Bolivia (Plurinational State of)	1984	3,561	5,834
+1923	BOL	Bolivia (Plurinational State of)	1985	3,476	5,935
+1924	BOL	Bolivia (Plurinational State of)	1986	3,306	6,041
+1925	BOL	Bolivia (Plurinational State of)	1987	3,330	6,156
+1926	BOL	Bolivia (Plurinational State of)	1988	3,386	6,283
+1927	BOL	Bolivia (Plurinational State of)	1989	3,408	6,423
+1928	BOL	Bolivia (Plurinational State of)	1990	3,502	6,574
+1929	BOL	Bolivia (Plurinational State of)	1991	3,610	6,731
+1930	BOL	Bolivia (Plurinational State of)	1992	3,592	6,893
+1931	BOL	Bolivia (Plurinational State of)	1993	3,670	7,054
+1932	BOL	Bolivia (Plurinational State of)	1994	3,765	7,215
+1933	BOL	Bolivia (Plurinational State of)	1995	3,865	7,375
+1934	BOL	Bolivia (Plurinational State of)	1996	3,959	7,534
+1935	BOL	Bolivia (Plurinational State of)	1997	4,080	7,695
+1936	BOL	Bolivia (Plurinational State of)	1998	4,206	7,859
+1937	BOL	Bolivia (Plurinational State of)	1999	4,146	8,026
+1938	BOL	Bolivia (Plurinational State of)	2000	4,174	8,195
+1939	BOL	Bolivia (Plurinational State of)	2001	4,166	8,367
+1940	BOL	Bolivia (Plurinational State of)	2002	4,194	8,542
+1941	BOL	Bolivia (Plurinational State of)	2003	4,230	8,719
+1942	BOL	Bolivia (Plurinational State of)	2004	4,331	8,896
+1943	BOL	Bolivia (Plurinational State of)	2005	4,445	9,073
+1944	BOL	Bolivia (Plurinational State of)	2006	4,582	9,250
+1945	BOL	Bolivia (Plurinational State of)	2007	4,713	9,426
+1946	BOL	Bolivia (Plurinational State of)	2008	4,924	9,601
+1947	BOL	Bolivia (Plurinational State of)	2009	5,011	9,775
+1948	BOL	Bolivia (Plurinational State of)	2010	5,142	9,947
+1949	BOL	Bolivia (Plurinational State of)	2011	5,331	10,119
+1950	BOL	Bolivia (Plurinational State of)	2012	5,511	10,290
+1951	BOL	Bolivia (Plurinational State of)	2013	5,789	10,461
+1952	BOL	Bolivia (Plurinational State of)	2014	6,007	10,631
+1953	BOL	Bolivia (Plurinational State of)	2015	6,200	10,801
+1954	BOL	Bolivia (Plurinational State of)	2016	6,355	10,970
+1955	BOL	Bolivia (Plurinational State of)	2017	6,521	11,138
+1956	BOL	Bolivia (Plurinational State of)	2018	6,696	11,306
+1957	BRA	Brazil	1000		700
+1958	BRA	Brazil	1500		1,000
+1959	BRA	Brazil	1600		800
+1960	BRA	Brazil	1700		1,250
+1961	BRA	Brazil	1800	867	
+1962	BRA	Brazil	1820	867	4,507
+1963	BRA	Brazil	1850	867	7,234
+1964	BRA	Brazil	1851	926	
+1965	BRA	Brazil	1852	901	
+1966	BRA	Brazil	1853	846	
+1967	BRA	Brazil	1854	818	
+1968	BRA	Brazil	1855	824	
+1969	BRA	Brazil	1856	854	
+1970	BRA	Brazil	1857	915	
+1971	BRA	Brazil	1858	974	
+1972	BRA	Brazil	1859	966	
+1973	BRA	Brazil	1860	991	
+1974	BRA	Brazil	1861	982	
+1975	BRA	Brazil	1862	936	
+1976	BRA	Brazil	1863	956	
+1977	BRA	Brazil	1864	971	
+1978	BRA	Brazil	1865	1,042	
+1979	BRA	Brazil	1866	1,081	
+1980	BRA	Brazil	1867	1,170	

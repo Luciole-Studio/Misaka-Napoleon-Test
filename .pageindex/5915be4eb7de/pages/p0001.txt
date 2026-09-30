@@ -1,0 +1,126 @@
+
+===== FILE: META-INF/com.apple.ibooks.display-options.xml =====
+true
+
+===== FILE: META-INF/container.xml =====
+
+
+===== FILE: OEBPS/nav.xhtml =====
+The Peninsular War
+
+ Contents
+
+ Title Page
+
+ Copyright Notice
+
+ Dedication
+
+ Preface
+
+ List of Maps
+
+ Maps
+
+ 1. Lisbon: the Origins of the Peninsular War
+
+ 2. Madrid: the Iberian Insurrections, May–June 1808
+
+ 3. Bailén: the Summer Campaign of 1808
+
+ 4. Vimeiro: the Liberation of Portugal, August 1808
+
+ 5. Somosierra: Napoleon’s Revenge, November–December 1808
+
+ 6. La Coruña: the Campaign of Sir John Moore, December 1808–January 1809
+
+ 7. Oporto: Conquest Frustrated, January–June 1809
+
+ 8. Talavera: the Fall of the Junta Central, July 1809–January 1810
+
+ 9. Seville: the Bonaparte Kingdom of Spain 1808–1813
+
+ 10. Pancorbo: the Emergence of Guerrilla War, 1808–1810
+
+ 11. Cádiz: the Making of the Spanish Revolution, 1810–1812
+
+ 12. Torres Vedras: the Defence of Portugal, July 1810–March 1811
+
+ 13. Albuera: Stalemate on the Portuguese Frontier, March–December 1811
+
+ 14. Badajoz: the Anglo-Portuguese Offensive of 1812
+
+ 15. Burgos: the Autumn Campaign of 1812
+
+ 16. Vitoria: the Defeat of King Joseph, January–June 1813
+
+ 17. Pyrenees: the Invasion of France, July–November 1813
+
+ 18. Báscara: Peace and Thereafter
+
+ Glossary
+
+ Notes
+
+ Further Reading
+
+ Bibliography
+
+ Index
+
+ About the Author
+
+ Newsletter Sign-up
+
+ Copyright
+
+ Guide
+
+ Cover
+
+ Table of Contents
+
+===== FILE: OEBPS/xhtml/abouttheauthor.xhtml =====
+The Peninsular War
+
+ About the Author
+
+ Charles Esdaile is Senior Lecturer in History at the University of Liverpool. He is the author of The Wars of Napoleon, The French Wars, and others. He lives in England. You can sign up for email updates here .
+
+===== FILE: OEBPS/xhtml/bibliography.xhtml =====
+The Peninsular War
+
+ Bibliography
+
+ A. ARCHIVAL SOURCES
+
+ Archivo Histórico Nacional, Madrid
+
+ Sección de Estado, Legajos 5, 14–17, 30–1, 33, 38–41, 46, 52, 60, 62, 65, 70, 75, 77, 80–3, 2821, 2959, 2995, 3010, 3566.
+
+ Biblióteca Nacional, Madrid
+
+ Colección Gómez Imaz, Volumes R60002, R60016, R60034, R60087, R60124, R60129, R61075, R60140, R62280, R63078
+
+ Biblióteca del Senado, Madrid
+
+ Colección Gómez de Arteche, Volumes 011166, 011634, 011867, 011961, 016544, 017057, 028477, 029083, 031030, 032589, 032605, 032675, 035255, 038158, 039054, 039809, 039854, 040126, 040270, 040325, 040458, 040733, 041437, 041478,
+041970, 041996, 042062, 042070, 042092, 042094, 043523, 431437
+
+ British Library, London
+
+ Additional Manuscripts 37286–9, 37291–3, 37314, 38243–4, 38246–7, 38249–55, 49482, 64131.
+
+ Public Record Office, Kew
+
+ (a) War Office Papers, Series 1, Volumes 226–7, 229–52, 260–1.
+
+ (b) Foreign Office Papers, Series 72, Volumes 71, 73, 75, 108, 112, 121, 128, 131–3, 142–7, 150–5, 159–60.
+
+ Real Academía de Historia, Madrid
+
+ 2-MS134; 2-MS135; 9–31–6: 6964–66; 9–31–7: 7021; 9–31–7; 7025; 11-2–2: 8154; 11-5-7: 9003; 14-9-6: 6925.
+
+ Real Colegio de San Albano, Valladolid
+
+ R. Brindle, ‘A Brief Account of Travels, etc., in Spain’ (MS)

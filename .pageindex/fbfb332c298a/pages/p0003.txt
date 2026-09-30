@@ -1,0 +1,35 @@
+
+
+---
+
+## §2 ②法律司法与行政渗透
+
+【锚点】1776 年起 Audiencia 设 regente，分两庭各五名 oidores；其职能不止司法，还包括总督缺位时代行、以 Real Acuerdo 形式对"最重大事务"提供**强制性**咨询（依《印度法》第二卷第十五题第 36 律）（doc 41309a4dc88a 与 SciELO 快照）。
+
+【锚点】行政渗透密度的实测：1786 年设 intendencia 制，全境十二个 intendencia 加内陆诸省。1793 年普查分省人口：瓜纳华托 398,000（印第安 175,000）、巴利亚多利德 290,000（119,000）、普埃夫拉 638,000（416,000）、瓦哈卡 411,000（363,000）（Humboldt 伯尔尼数字版英译快照）。
+
+【机制】**殖民行政的渗透深度与"能收上多少税"高度相关，与"能镇压多少人"相关度低。**证据：1810 年 9 月，一个有十二 intendencia、一座造币厂、一支常备军的行政体系，在 Hidalgo 起兵后十二天内丢掉了瓜纳华托，而守军的求援信写的是"vuele vuestra señoría a mi socorro, a mi socorro"（Riaño 致 Calleja，1810-09-28 上午十一时，HYD II-53，doc 46ec015b0dc6，亲读）。
+
+【推演·中置信】新西班牙的法律-行政机器在**三个层次上可被任何新主人继承**：税务（alcabalas、tributo、烟草专卖）、造币、司法程式；在**两个层次上不可继承**：王权的宗教-王朝正统性、以及"半岛人垄断高位"的人事分配。前者决定法国式接管在技术上可行，后者决定它在政治上不可行——因为法国要么保留半岛人垄断（则克里奥尔人反）、要么打破它（则半岛人反，正如 1808 年 9 月），**没有第三格**。
+
+---
+
+## §3 ③财政货币金融
+
+【锚点·核心数字，全部亲读 Marichal doc f137a3c2e0fa】
+- **人均税负 3.6 pesos/年**，其中约 1.5 pesos 是对外净转移（p.273）。以 1803 年人口 5.8 百万计，**全境年税收约 1,900–2,300 万 pesos**。
+- **1760–1810 年累计对外汇出 >2.5 亿 pesos，"somewhat over 40 percent of total taxes collected in the viceroyalty. This was the effective fiscal cost of being a colony."** 其中约 1 亿是给其他西属殖民地与菲律宾的 situados，1.5 亿是净汇宗主国（p.273）。
+- **1780–1810 年均对外汇出 800 万 pesos/年**（p.273）。
+- **1800–1810 年直接汇往西班牙及其欧洲债权人 7,000 万 pesos**（p.273 注 3）。
+- **1780–1810 年从私人与法团筹得贷款 ≥3,000 万 pesos、捐输 500 万 pesos，全部运出境外**（p.255）。Marichal 明言此数低于 Klein 的估计，因为 Klein 用 cartas cuentas 会重复计算（p.255–256 及注 6）。
+- **"almost half of all taxes paid in New Spain were not spent within the viceroyalty but rather were exported abroad (as a kind of tax surplus) to support empire and metropolis"**（p.94）。
+- **新西班牙一地贡献了 1780–1810 年马德里总国库"印度收入"的 60% 以上**（p.94）；美洲相关资金约占马德里国库总收入的五分之一（Barbier & Klein，Marichal 认为偏低，p.95）。
+- **贷款结构**：墨西哥城商人行会 1782–1811 年经手有息贷款 8,033,000 pesos、无息"supplements" 6,742,915 pesos；1810、1811 两年借的钱一分未还（p.257 表 8.1 与正文）。Valle Pavón 语：商人行会"changed from being a collector of capital … to operating as **an instrument of the royal treasury to extract and withdraw from circulation money that Mexico City proprietors had put aside for periods of scarcity**"（p.257）。
+
+【锚点·Consolidación，本卡最重要的一组数】
+- 1804-11-24 敕令把 Consolidación 推广到全帝国；不是没收而是**以 3% 公债换取教会流动资本**；明文排除"funds whose yield constitutes the support and sustenance of its members"（p.158）。
+- **新西班牙实收 10,321,800 pesos（1805–09），汇欧 9,398,000**；全美洲＋菲律宾 15,402,040；新西班牙占约三分之二（p.166–167 表 4.2、4.3）。分教区：墨西哥 525 万、普埃夫拉 216 万、米却肯 96 万、瓜达拉哈拉 89 万、瓦哈卡 55 万。
+- **88% 来自征回教会放出的贷款，仅 12% 来自抵押不动产拍卖**（p.165 及注 97 引 von Wobeser p.242）。
+- 基数：Humboldt 称教会不动产仅值 200–300 万 pesos，但"les capitaux que les couvens, les chapitres, les confréries, les hospices et les hôpitaux ont placés sur des terres, s'élèvent à la somme de **44 millions et demi de piastres**"（印 p.286，亲读 OCR）；Alamán 与 Abad y Queipo 的同时代估计为 4,000–5,000 万（Marichal p.159 注 77）。→ **Consolidación 一次抽走了殖民地长期信贷体系可动资本的 21–26%。**
+- Alamán 的定性（Marichal p.159 引）："the affluence of the clergy did not consist so much in their properties … but of **interest-bearing loans applied to particulars**. Furthermore, the business resulting from the imposition and redemption of those funds made **each juzgado de obras pías y capellanías a sort of bank**."
+- 后果：墨西哥城商人行会、矿业法庭与各地产权人联名抗议（representaciones），Marichal 称之为"one of the most revealing evidences of the intensifying political and economic tensions within the viceroyalty, shortly before the outbreak of insurgency in 1810"（p.165）。

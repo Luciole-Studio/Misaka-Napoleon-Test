@@ -1,0 +1,30 @@
+
+
+Source: see note 65.
+
+Table 3: Growth of the French population, 1740-1840
+
+| Year | 1740-1765 | | 1765-1790 | | | 1790-1815 | | | | 1815-1840 | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Annual rate of | | | | | | | | | | | | |
+| growth (%) | 0.4 | | 0.37 | | | 0.23 (0.44) | | | | 0.57 | | |
+
+Source: see text, notes 63 and 65.
+
+Table 4: Growth of the French population, 1780-1800
+
+Year 1780-1790 1790-1795 1795-1800 1790-1800 1800-1815 Variation in population (thousands) 1,029 -400 890 490 1176 Annual rate of growth (%) 0.37 -0.28 0.63 0.17 0.26
+
+Source: see note 65.
+
+When one goes into factors conditioning population growth, a pattern emerges. The mortality rate began to drop after the two major demographic crises: the 1709 famine and the 1720 plague (in
+
+Marseille and Provence) that followed the ‘années de misère’. Most of the gains resulted from the drop of infant mortality rates, at least until the end of the eighteenth century, and were linked first and foremost to the disappearance of the mortality peaks associated with poor harvests. 23 This
+
+21 Conscription, introduced in 1798, increased the marriage rate (as married men were not called to serve the army), and thus natality rates. For a detailed case study, see Jean-Pierre Bois (1976, 467-493). 22 We calculated the data from the following sources: Jacques Dupâquier (1988); Henry and Blayo (1975). The evaluation of losses due to emigration is from Dupâquier (1988, 76) and that of those due to military losses is from Henry and Blayo (1975, 104-107). The various estimations of civil losses for the 1790-1795 period, especially in the Western part of France, are messy at best, since the records are unreliable in this period of quasi-civil war. Reasonable estimates go from 200,000 to 400,000 casualties (including disease outbreaks). 23 Since the last quarter of the eighteenth-century, inoculation campaigns also positively affected mortality rates.
+
+trend continued throughout the whole period, without being significantly altered in the long term by the short-term mortality crises caused by the Revolutionary turmoil and Napoleonic wars. Finally, the natality rate moved more slowly and began to drop in the 1740s, much earlier than anywhere else in Europe. This decline accelerated from the 1790s onwards. This ultimately accounted for the progressive slackening of the growth of the French population from 1840 onwards. All in all, the analysis of the long-term evolution of the French population suggests that warfare had a sizeable short-term impact but a much smaller effect on the long term.
+
+Figure 8: French population growth, 1740-1840
+
+Source : see note 65 The French population growth was significantly lower over the whole period than in other European countries, particularly England. The difference was limited during the first part of the eighteenth century, when only England and Russia significantly outperformed France. The 1789-1815 period represented a turning point, when the growth rate of the English population doubled (from 0.65 per cent to 1.3 per cent) and remained more or less at that level throughout all of the nineteenth

@@ -1,0 +1,41 @@
+
+
+**补充已读但不承担主线定量：**
+
+- “Army Estimates”, HC Deb 4 March 1811, vol.19（使用c191、cc195—196、211—213、225以后），`downloads/pages/eff6555b7abe.md`：民兵训练21→14日、省0.110m；志愿军减少0.303m部分为当年不发衣，非永久撤半岛战争红利。减陆保海为当时政治选项，但Canning有牵制法国的反论。
+- “Issue of Exchequer Bills for Purposes of Local and Temporary Relief”, HC Deb 28 April 1817, vol.36, cc27—48，https://api.parliament.uk/historic-hansard/commons/1817/apr/28/issue-of-exchequer-bills-for-purposes-of ，`downloads/pages/29931d6389d2.md`：回顾1793/1811先例，未提供本卡可用的1811实放审计额。
+
+### 关键引文审查表（可供红队抽核）
+
+引文是其发言/文本内容的证据，不自动证明发言者对经济因果的解释正确。
+
+|编号|原文|来源定位|使用与防误读|
+|---|---|---|---|
+|Q1|“subject to the approbation of parliament”|H1，c210开篇|说明借款合同有议会许可条件，非泛称议会随时一致|
+|Q2|“Last year the interest was 4l. 4s. 2d. per cent.; this year it was 4l. 14s. 11d.”|H1，c216|特定新增贷款现金票息比较，不是全部旧债调息|
+|Q3|“For each hundred pounds subscribed … 100l. in the 3 per cents, reduced, 20l. in the consols, 20l. in the 4 per cents, and 6s. 11d. in the long annuities.”|H1，cc214—215；省略仅连接前后同一段|3+0.6+0.8+0.345833=4.745833；分期折扣与市价bonus另算，不称完整IRR|
+|Q4|“4,864,267l. had been received”|H1，c214|当期11.8m净评定中的已收部分，不能把评定全当现金|
+|Q5|“that expense now incurred for our armies would cease, and the supplies at present demanded for them could be applied to the service of our navy”|H2，c807|以法国与大陆列强达成安排为条件；不是从此英国所有陆军费用皆为零|
+|Q6|“the numbers of persons returning from long voyages and claiming the arrears due to them, had made larger disbursements necessary”|H2，c807|裁撤和减员初期可能增现金开支，迫使模型承认滞后|
+|Q7|“to grant relief to the extent of six millions, not with the supposition that that sum would be required”|H8，c332|授权上限非实际拨付；同段2.2m是1793，不是1811|
+|Q8|“The Bank of England had now to complain, not that they had no funds with which to discount, but of a deficiency of good paper to discount.”|H8，c338，Huskisson|与“全是流动性冲击”竞争的同时代判断|
+|Q9|“should the state of Europe continue to require it”|H5，c567|仅有条件新增补贴0.5m，不用作拒偿旧欠1m依据|
+|Q10|“if it was to be done at all, it must be done with the consent of parliament”|H6，c542|奥方擅开英方票据不生无限财政权|
+|Q11|“cannot safely be removed at an earlier period than two years”|H3，原报告结论pp.30—33|建议两年后恢复，不是编辑导语所谓立即恢复|
+|Q12|“The Committee then divided on the first … Ayes 75—Noes 151”; “on the 16th, or last Resolution … Ayes 45, Noes 180”|H11，c1169；两段分别节引|第一项与最后项表决分开，不伪造同一连续引文|
+|Q13|“not to enable Houses who have failed to compromise or settle with their creditors”|L6，先行版p.23，转引C.D. 28 February 1811 pp.521—522|特别贷款有偿付能力筛选；本卡未亲见董事会档案|
+|Q14|“£.3.17.10½. per ounce of standard fineness”|H3，原报告p.1|铸币标准价而非市场现金价；黄金溢价和纸币折价分母不同|
+
+Q3/Q12的省略号为编辑节录，不伪称连续原句。正文短引不含省略时均对应可直接找到的词串。
+
+## 三、实际使用的研究文献
+
+### L1　Michael D. Bordo and Eugene N. White, *British and French Finance during the Napoleonic Wars*, NBER Working Paper No.3517, November 1990
+
+- 完整PDF：https://www.nber.org/system/files/working_papers/w3517/w3517.pdf 。`downloads/B2_Bordo_White_WP3517.pdf`；doc `ed2c1913a953`；SHA256 `ed2c1913a953d70e4ac436da4aea5a895a7c80fc0aaa0d714d12b086920d2800`。
+- **版本必须写工作稿1990**。1991 *Journal of Economic History*正式刊本本卡没有核全文，不能套用其分页。
+- 已读：摘要、英国信誉及限制期/税收平滑部分，印刷pp.17—25；表2（p.51，PDF物理p.53）与表3（p.52，PDF物理p.54）已旋转放大看图，不依破碎OCR。
+- 表2为GB净收入而非D1的UK财政序列；源列Gayer–Rostow–Schwartz。1810/1811净收入约68.39/66.53，债务负担23.40/23.86；细末位使用“约”而非装作现代统一统计。
+- 表3纸币行源注明Mitchell & Deane（1962）p.442；1810可稳读约22—23m，与D3严格2月底20.120486不同，末位和日期仍不作统一冻结。**终检撤销先前22.32的精确抄值，疑有邻年错位；主CSV不使用这套表3纸币数**。
+- 看图件：`BW_table2.png`、`BW_table2_right.png`、`BW_table3.png`、`BW_table3_right.png`、`BW_table3_1810_1811.png`、`BW_table3_1810.png`，均在本卡目录。裁图不增加原影像信息。
+- 论证用途：信誉有助财政平滑；作者自己强调宏观收入基准稀疏，检验只具提示性。本卡不把该理论当英国无条件长胜定律。

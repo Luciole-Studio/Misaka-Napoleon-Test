@@ -1,0 +1,36 @@
+Germany
+            Year                           Horses               Oxen & Cows                Horse Equivalent
+           1815                             1656                     1924                         2945
+           1840                             1796                     2143                         3232
+           1850                             1868                     2095                         3272
+           1860                             2193                     2178                         3652
+           1870                             2319                     2122                         3741
+           1880                             2187                     2080                         3581
+           1890                             2522                     2164                         3972
+           1900                             2895                     1970                         4215
+           1913                             3145                     2210                         4626
+
+
+Horses
+Surveys of horse numbers in the German states occurred intermittently from the 1810s
+onward. Nearly every state produced comprehensive surveys in the early 1860s, and from
+1873 truly national surveys of livestock were conducted.9 These took place in 1883, 1892,
+1900, and with increasingly regularity until becoming annual after 1912. It should also be
+noted that data on donkeys and mules also survives, but these were too insignificant in
+number to be included in the analysis. All of the national surveys from 1873 provide data on
+horses either used ‘predominately in agriculture’, or from the 1890s, explicitly those used for
+the preparation of the soil.10 In the case of the first category, statisticians acknowledged that
+this could only be an estimate of actual use, but they expressed the hope that the time spent
+by these horses doing non-agricultural tasks was balanced out by non-agricultural horses that
+do occasional agricultural work.11 After 1873 the time series is based on this data with
+interpolations for the missing years. The entire time series relates to the territory of the
+German Reich to within its 1873 borders (i.e., including Alsace-Lorraine).
+
+
+Before 1873 no direct data on horses working in agriculture exists, and estimates must be
+made of both the total number of horses, and then the numbers of these employed in
+9 Statistik des deutschen Reiches, Bd.VIII (1874)
+10 Statistisches Jahrbuch des deutschen Reiches (1881, 1883, 1884, 1887, 1893, 1894, 1898, 1899, 1900, 1902, 1904,
+
+1905, 1907, 1915)
+11 Statistik des deutschen Reiches, Bd.VIII (1874), p.105.

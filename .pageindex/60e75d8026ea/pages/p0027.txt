@@ -1,0 +1,40 @@
+as follows; “It is suggested here that the loss of French transmarine markets and sources
+of supply had some influence on Napoleon’s Blockade. If the vacuum left in the French
+economy was to be filled, the key recovery seemed to lie in the resources of the Continental
+mainland. New, and it appeared inevitable non-oceanic, supply lines and outlets had to be
+found to give the imperial economy the stimulus for expansion, especially from 1807 onwards
+when neutral trade lay in the stranglehold of belligerent Powers.”
+    Table 2 explores robustness of the results to the inclusion of variables that capture chang-
+ing market potential throughout the blockade. Column (1) restates the baseline effect for
+comparison, while Column (2) adds the baseline measure of market potential defined in the
+previous section. Column (3) explores robustness of the results to accounting for the ex-
+panding French Empire, which can be thought of as increased internal market access. The
+(time-varying) control for market potential is constructed to include any city that formed
+part of the Empire in 1803 and 1812, respectively, thereby capturing the effect that annex-
+ation had on market access. Figure A.10 shows the spatial distribution of regions annexed
+between 1803-1812 and the cities they contain. Relative to Column (1), the coefficient of in-
+terest is virtually unchanged, while the time varying measure of market potential is negative
+and insignificant. This is unsurprising. As can be seen from Figure A.10, territories were
+annexed to the French Empire in fairly equal amounts both along the northern seaboard and
+in the south.
+    To capture increased access to continental European markets outside of France’s expand-
+ing internal market, I calculated the same measure of market potential for regions outside of
+the French Empire. In particular, any city belonging to a region classified by Grab (2003, p.
+17) to be a French satellite as of 1812 was included.37 I also construct a more conservative
+measure that drops all of Spain. As a result of the insurgency against French rule and British
+military presence, it is unlikely that French firms enjoyed easy access to Spanish markets.
+Columns (4)-(5) show the estimation results when including these controls interacted with
+a time dummy (one-by-one). In both cases, the coefficient of interest increases somewhat in
+size and remains highly significant. The controls enter with a positive coefficient, but only
+the measure excluding Spain is significantly different from zero. While there is some evidence
+for increased access to third markets having a positive effect on spinning capacity, given the
+distribution of French satellites, the market potential measure is largest for areas along the
+  37
+    This included most of Germany and Italy, all of Spain, the Illryian provinces and the Grand Duchy
+of Warsaw as shown in Figure A.11. Note that the Illryian provinces were in fact annexed to the French
+Empire, however as they were geographically separate from the rest of France, it seemed more reasonable to
+include them in the external measure of market potential.
+
+
+
+                                                   27

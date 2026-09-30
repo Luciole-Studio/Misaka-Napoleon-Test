@@ -1,0 +1,41 @@
+
+
+### L5/K3｜某版广泛撤粮方案的执行界限
+- Fortescue V，pp.231–232；文本同L1。本轮B4核证、协调者交接，本卡转引，未重核原页。
+- 现收窄为：按Fortescue叙述，1803-10-31某版广泛driving方案遭Moore/Richmond反对而放弃；**不能扩为各地一切撤粮迁畜准备终止**。新L7显示11月地方仍有准备。
+- 两者是否同一命令层级/版本未决。不保证全国焦土能执行，也不保证法国征粮必成。
+
+### L7｜Chilcott：1803年11月地方仍规划撤移
+- Christopher Chilcott, *Maintaining the British Army, 1793 to 1820*, 博士论文，2006，印页242–243／PDF250–251；书目由B4札记提供，本卡经doc_outline后实际读两页，未全读论文或另核题页。
+- https://researchspace.bathspa.ac.uk/1461/1/Christopher%20Chilcott%20-%202006.pdf ；`downloads/B4_Chilcott_Maintaining_British_Army_2006.pdf`，doc ad3fc15a73a7；B4札记`nodes/r_5b1357a9c6/cards/t_b9e29c/notes_Chilcott_2006.md`已读。
+- p.242 fn779、p.243 fn784：Orders, General Meeting of the Lieutenancy, Sarum, 19 November 1803，WSRO1719/30，**转引Chilcott，未阅原卷**。p.243称“the greater part of this county is highly favourable for the removal, not only of inhabitants, but of large flocks of sheep requiring space; they must therefore take their route over the downs”。p.242另记押畜人员与牲畜给养安排。
+- 仅证地方计划续存，不证执行率或全国协调成功；也不必然推翻Fortescue针对另一版本的记载。B1/B4同引一论文及档案链，不算两份独立互证。
+
+### C1｜William Blackstone，战和权与部长问责
+- *Commentaries on the Laws of England*, Book I, ch.VII，§II–III，约pp.249–250；Avalon转录，https://avalon.law.yale.edu/18th_century/blackstone_bk1ch7.asp 。
+- `downloads/pages/9fc696fc8978.md`，本轮实际读行247–370；“the king has also the sole prerogative of making war and peace”。
+- 长s统一为现代字形。此为规范性法学锚点，不独证1804实际宫廷/军队服从。
+
+### D1｜UK Parliament，地方与中央警务
+- “Metropolitan Police”；https://www.parliament.uk/about/living-heritage/transformingsociety/laworder/policeprisons/overview/metropolitanpolice/ ；`downloads/pages/9e5e88f140a4.md`，短页全文已读。
+- 1829伦敦中央专业警察，和18世纪教区警力对比：“the small and disorganised parish forces”；1835新市议会雇警，1839郡自愿设警。
+- 官方教育概述，不是1804各郡警员或执行能力普查；只支撑结构边界，不给虚构全国数。
+
+### D2｜ONS，1801人口及调查结构
+- “Story of the Census”，20 June 2022；https://www.ons.gov.uk/visualisations/storyofthecensus/ ；`downloads/pages/06ff00adf220.md`，实际读前段至“How old are you?”。
+- “population of England and Wales was 8.9 million, not counting those at sea, in the military, or prisoners”；是四舍五入的地区值，非UK人口或动员兵力。
+- 职业分类1801到1811改变；1831及以前经Overseers of the Poor/教士汇总，1841才家庭填表。ONS现代回顾，不是亲读原始1801回报表。
+
+### P3｜葡萄牙1807跨海迁廷的同类事件
+- *London Gazette Extraordinary*, no.16100, 22 December 1807，pp.1726–1728，Strangford 11月29日、Sidney Smith 12月1/6日报告。
+- https://www.thegazette.co.uk/London/issue/16100/data.pdf ；`downloads/pages/cfd2c9f1cdc0.md`；本轮依用户授权经旧C16已核记录转引。
+- 短引：“to attend the Portuguese Fleet to the Brazils”。两个英国报告属同一行动链，不算完全独立互证；不证明英国同样已定加拿大预案。
+
+## 二、1802–1812外交与经济政策
+
+### A1｜亚眠和约
+- 《亚眠和约》英文转录，1802年3月，原已读序言、I、III–X条相关段；本次新增XII尾及XIII–XV段，另定位II释放俘虏条款。
+- https://www.napoleon-empire.org/en/official-texts/treaty-of-amiens.php ；`downloads/pages/809d3495176a.md`，原承重行43–94，新增行120–143。
+- III保留“the island of Trinidad, and ... the Dutch possessions on the island of Ceylon”；X.4撤马耳他兵力附接收权和驻军条件。
+- XIII给割让/归还领地居民财产、宗教和免政治追诉保护；XIV：“All the sequestrations laid on either side on funds, revenues, and credits ... shall be taken off immediately after the signature of this definitive treaty.”个人债权归有权法院救济。是明确财产/债权保护，不是法国保证所有英国公债本息或入侵后保英国议会。转录claims疑误为chains，未据此造新含义。
+- **日期质量提醒**：网页写25 March，通行最终签署27 March；本卡不据这份转录裁断，正文只写1802年3月。其他条文按编号引用；非亲见签字本。

@@ -1,0 +1,37 @@
+---
+source_url: "https://www.nber.org/system/files/working_papers/w27904/w27904.pdf"
+final_url: "https://www.nber.org/system/files/working_papers/w27904/w27904.pdf"
+provider: "exa"
+text_sha256: "2b5bdf1c11e5915441417d437f018b27a1dc7f2c32ab810de538df3561da02ca"
+title: "October 2020, Revised July 2026"
+content_kind: "page_text"
+---
+
+NBER WORKING PAPER SERIES
+
+DISTANCE, EMPIRE, AND BRITISH EXPORTS OVER TWO CENTURIES
+
+David S. Jacks 
+Kevin Hjortshøj O'Rourke 
+Alan M. Taylor 
+Yoto V. Yotov 
+
+Working Paper 27904 http://www.nber.org/papers/w27904
+
+NATIONAL BUREAU OF ECONOMIC RESEARCH 1050 Massachusetts Avenue Cambridge, MA 02138 October 2020, Revised July 2026
+
+We are most grateful to Felipe Benguria, Stephen Carroll, Bo Chen, Nick Dadson, Gabby Domingo, James Ensom, Rowena Gray, Mahmut Ipek, Margaret Kapitany, Sean Kelly, Sean Lee, Alaz Munzur, and Sarah Quincy for excellent research assistance. We appreciate the advice, suggestions, and help with data received from John Darwin, Guillaume Daudin, James Feyrer, Jules Hugot, Morgan Kelly, Thierry Mayer, Chris Meissner, Isabelle Méjean, Anders Mikkelsen, Farid Toubal, David Weinstein, and seminar participants at Huazhong University of Science and Technology, Queen’s University, Sciences Po Paris, the University of New South Wales, the 2019 Canadian Economics Association Annual Meeting, the 2020 Asia-Pacific Economic and Business History Conference, and the 2021 CEPR Economic History Symposium. Bishnu Gupta and three anonymous referees have made numerous suggestions which have helped us to significantly improve the paper. Finally, we gratefully acknowledge research support from the National Science Foundation (award number 0851158) and the Social Science and Humanities Research Council of Canada as well as All Souls College, the All-UC Group in Economic History, the Center for the Evolution of the Global Economy, and the NYU Abu Dhabi Faculty of Social Science. We wish to particularly thank Alison Oaxaca for all her help over the course of this project. The views expressed herein are those of the authors and do not necessarily reflect the views of the National Bureau of Economic Research.
+
+NBER working papers are circulated for discussion and comment purposes. They have not been peer-reviewed or been subject to the review by the NBER Board of Directors that accompanies official NBER publications.
+
+© 2020 by David S. Jacks, Kevin Hjortshøj O'Rourke, Alan M. Taylor, and Yoto V. Yotov. All rights reserved. Short sections of text, not to exceed two paragraphs, may be quoted without explicit permission provided that full credit, including © notice, is given to the source.
+
+Distance, Empire, and British Exports Over Two Centuries 
+David S. Jacks, Kevin Hjortshøj O'Rourke, Alan M. Taylor, and Yoto V. Yotov 
+NBER Working Paper No. 27904 
+October 2020, Revised July 2026 
+JEL No. F1, N7 
+
+##### ABSTRACT
+
+We introduce a new, publicly available dataset on the universe of British exports at the bilateral, commodity level from 1700 to 1899. We then pit two primary determinants of bilateral trade against one another: the trade-diminishing effects of distance versus the trade-enhancing effects of the British Empire. We find that the impact of distance fell by roughly two-thirds between the 1780s and 1860s. The influence of empire on British exports was very large throughout, but the impact of 18th century mercantilism was much higher than that of "liberal empire" in the late 19th century.

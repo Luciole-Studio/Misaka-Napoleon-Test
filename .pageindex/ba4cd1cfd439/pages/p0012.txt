@@ -1,0 +1,58 @@
+
+
+1186 Keller and Shiue 
+variable is equal to one if both cities j and k have a distance to the 
+nearest coast that puts them into the lowest quartile in the sample. Other 
+control variables are of a geographic nature (longitude, latitude), and 
+ZH DOVR HPSOR\ PHDVXUHV RQ FLW\ SRSXODWLRQ VL]H IURP 3DXO %DLURFK 
+Jean Batou, and Pierre Chevre (1988), Jan De Vries (1984), as well as 
+Wolfgang Keller and Carol Shiue (2013). We now turn to our empirical 
+results. 
+EMPIRICAL RESULTS 
+Our goal is to obtain a valid regression estimate of the impact of 
+FXVWRPV OLEHUDOL]DWLRQ CustLib) on trade (Trade /HW İ EH WKH UHJUHV 
+VLRQHUURU &RUUHODWLRQEHWZHHQİDQGFXVWRPVOLEHUDOL]DWLRQZRXOG OHDG 
+to a biased ordinary least squares (OLS) estimate. For example, if the 
+VWDWHV WKDW H[SHFW WKH ODUJHVW WUDGH EHQH¿WV IURPMRLQLQJ WKH Zollverein 
+MRLQHDUO\ 2/6ZLOORYHUHVWLPDWHWKHJDLQVIURPFXVWRPVOLEHUDOL]DWLRQ 
+This gives rise to reverse causation, where the expected gains in Trade 
+GHWHUPLQH WKH GHFLVLRQ WR OLEHUDOL]H FXVWRPV %H\RQGUHYHUVH FDXVDWLRQ 
+endogeneity through omitted variables is a concern. For example, if 
+Zollverein accession were more likely for relatively small states that get 
+UHODWLYHO\OLWWOHOLEHUDOL]DWLRQJDLQV 2/6ZRXOGXQGHUHVWLPDWHWKHLPSDFW 
+of the Zollverein. 
+To solve these econometric problems we use an instrumental vari 
+ables approach, with relative market access (RDistCoast) as the instru 
+ment (for more on the following, see Joshua Angrist and Jörn-Steffen 
+Pischke 2009, Chapter 4, especially pp. 152–53). For this strategy to be 
+VXFFHVVIXO WKH LQVWUXPHQW PXVW ¿UVW KDYH VXI¿FLHQW SRZHU LQ WKH VHQVH 
+that conditional on covariates it must be correlated with customs liberal 
+L]DWLRQ 7KLVFDQEHWHVWHGIRUDVWKH¿UVW VWDJHFRUUHODWLRQ DQGDVZHZLOO 
+see, the correlation is strong. Second, the instrument must be valid. For 
+this to be the case the instrument must be as good as randomly assigned. 
+Our instrument is based on geographic features, distance to the nearest 
+coast, which is as close to randomly assigned as one can hope to come 
+in a non-experimental setting. The other condition for the instrument to 
+be valid is that it operates exclusively through the endogenous variable, 
+FXVWRPVOLEHUDOL]DWLRQ WKLVLVFRPPRQO\FDOOHGWKHH[FOXVLRQUHVWULFWLRQ 
+This cannot be tested because it involves the unobserved error (one can 
+always estimate a regression residual, but if indeed the analysis is plagued 
+by endogeneity, this residual is not a consistent estimate of the error and 
+hence not useful for applying valid tests). However, a well-known way of 
+
+gauging the likelihood that the exclusion restriction holds is to extend the 
+reduced form regression (here: the effect of RDistCoast on price gaps) 
+by including other likely determinants of price gaps through which the 
+instrumental variable might operate. We will extensively make use of 
+this approach of providing evidence on the exclusion restriction below 
+(see Table 2). 
+2XULQVWUXPHQWDOYDULDEOHLVGH¿QHGDV 
+RDistCoastjkt = DistCoastjk/[ØDistCoast | Not_ZVt], j, (4) 
+where DistCoastjk LVGH¿QHGDVWKHDYHUDJHGLVWDQFHWRWKHQHDUHVW1RUWK k 
+or Baltic Seacoast for cities j and k 
+DistCoastjk = 0.5 k w (DistCoastjt + DistCoastkt ). (5) 
+The expression [ØDistCoast | Not_ZVt] is the average distance across all 
+market pairs lq to the nearest coast that are not yet part of the Zollverein 
+customs union, as of year t: 
+∅ = 
+N ∑ = | I D× istCoast 1 , ZV Nt lq I t lq 

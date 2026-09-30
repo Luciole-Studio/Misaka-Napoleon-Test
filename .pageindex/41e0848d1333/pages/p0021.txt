@@ -1,0 +1,63 @@
+If the results found in the previous section are due to the true treatment moving the border and performing
+
+the same regressions as above should not display an effect of the fictitious treatment variable on social
+
+capital outcomes. Since no treatment took place in the regions that are placebo treated, they should not
+
+differ significantly in the outcome variables.
+
+                                             Table 7 about here
+
+Results from this falsification test are shown in Table 7. Columns (1) to (4) display the results from mov-
+
+ing the border outwards, columns (5) to (7) respectively the results from a moving the border inwards. As
+
+it can be seen from columns (1), the one border movement suggests no statistically significant difference
+
+in the way people trust between placebo treated regions and controls. The coefficient is already small and
+
+increases further when state fixed effects are included in column (2). Controlling for other influences on
+
+the individual level only leads to a change in the sign of the treatment coefficient in column (3). Finally,
+
+including historical controls for initial shares of protestantism and urbanization rates do not change the
+
+result, as shown in column (4).
+
+The finding of a non-significant treatment effect holds true for regressions of the treatment generated
+
+from moving the border inwards. While the coefficient of the fictitious treatment variable is now con-
+
+stantly negative, it is still insignificant, as shown in column (5). This is robust to including Federal States
+
+fixed effects in column (6), to control for further covariates in column (7) and for historical controls in
+
+column (8). This exercise allows to infer that only in the original border specification, using the correct
+
+border treatment, there exists a positive, significant and positive treatment effect for regions on the left
+
+of the border. Hence, the falsification tests and the original results suggest a peculiarity attributable to
+
+the Napoleonic influence.
+
+
+
+                           3.7    Comparing Pre-Treatment Characteristics
+
+While the border sample already cancels out much of pre-treatment heterogeneity, it is still possible
+
+that differences in initial regional characteristics drive my results. Ideally I would like to observe and
+
+compare regional pre-treatment levels of social capital. Since this is not possible given the lack of data,
+
+comparing pre-treatment characteristics that have been shown to be able to explain social capital levels in
+
+different contexts is the best feasible alternative. For this purpose I assembled data on several dimensions
+
+having been identified in the literature to matter for social capital levels and at the same time might give
+
+further insights about the reception of the Code Civil. For some variables this data is only available at
+
+
+
+                                                      19

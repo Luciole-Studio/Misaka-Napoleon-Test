@@ -1,0 +1,23 @@
+
+
+### 7.4 焚货（autos-da-fé）的真实成色
+- 印p.227–228 / PDF243–244：英国工业品一律销毁，此项"Napoleon never, so far as is known, made an exception"；但Heckscher强调**这一半反而更无效**——"the reason is the total absence of pecuniary interest, public and private, in obedience to the latter regulations"。仪式有军乐与地方显要出席，"the ceremony was just as great whatever was the real value of the goods burnt"。
+- 印p.228 / PDF244 **法兰克福实例**：1810-11首次清查，金币卷放进专设抽屉后"the goods became Swiss or Saxon instead of British"；实际付之一炬者价值仅**800,000法郎**，官方估价 **1,800,000**（OCR"1,&00,000"）。1811年春第二次清查，弗里德贝格犹太人Cassella充当替罪羊，仅其英国棉布被焚；市长坦言"When they were spread out, there seemed to be a lot of cloth, and they could give the impression of a great quantity at the burning"，目的是"to ward off unpleasantness from France, not to ruin our own population"。
+- 印p.229 / PDF245：Servières（汉萨）与M. Schäfer（不来梅）所载焚货**总值约4,500,000法郎**，但"many burnings took place for which we have no figures"，且"it is very difficult to determine the truth behind the official statements"。焚烧发生于"hundreds of towns from one end to the other of the territory of Napoleon and his allies, **with the sole exception of Denmark**"。Heckscher评其为"a very cunning display of power"，效果是"tremendous though altogether exaggerated impression"。
+
+### 7.5 贸易路线的重排（执行造成的**地理转移**而非消灭）
+- 印p.230 / PDF246：许可证使**海路重新合法化**，终结了斯特拉斯堡作为法国进口（合法与非法）集散地的繁荣。
+- 印p.230 / PDF246：1811年夏起莱比锡集市上英货"practical cessation"、殖民品亦降至微量；法兰克福反而受损较小。Heckscher解释：萨克森有**真实的守法意愿**（其纺织工业受益于排斥英国竞争），法兰克福无此利益。→ **执行力最强处＝本地产业利益与禁令一致处**，这是本卡反应函数的关键机制。
+- 印pp.231–232 / PDF247–248 **Bacher报告（1810-10-02，Schmidt《Le Grand-duché de Berg》印行）**——法国驻莱茵邦联公使的预测：
+  > "the Danube will now take the place of the Rhine as the channel through which the states of the Confederation of the Rhine will in future be able to provide themselves."
+  并预言：即使萨克森王把关税警戒线从维滕贝格延至波希米亚边界并对原棉课税，"this painful sacrifice, which would reduce the whole of the mountainous part of Saxony [Erzgebirge] to the deepest misery, would be no profit to France. It would only enrich the government and merchants of Austria"；棉纺工人将"be compelled to emigrate from Saxony and Voigtland, and even from Bavaria, Baden, and Switzerland, in order to seek their livelihood in the Austrian factories erected and managed by Englishmen"。
+- 印pp.232–233 / PDF248–249：维也纳取代莱比锡成为大陆贸易枢纽；货路两条同至**加利西亚的Brody**——北线经普俄波罗的海港口绕华沙公国，南线先自敖德萨过黑海、法俄战争爆发后改经君士坦丁堡与萨洛尼卡至伦贝格；再经**巴伐利亚免税过境**输往南德、瑞士，并走私入法。
+- 印p.233 / PDF249 **运费即关税（转引Tooke, *History of Prices* I, pp.309–310注）**，1809–12 vs 1837：小麦运费每夸特 50先令 vs 4先令6便士；大麻每吨 £30 vs £2 10s；木材每load £30 vs £1；生丝自贝加莫经士麦那／阿尔汉格尔斯克绕行，历时一年／两年；经法国每包费用£100（另加勒阿弗尔至英国运费）。**一艘一百余吨船自加来到伦敦往返的运费＋法国许可证费可达 £50,000**，折靛蓝每英磅运费4先令6便士 vs 1837年1便士（1/54）；一艘总值£4,000的船自波尔多至伦敦往返毛运费 £80,000。
+  → **本卡的"走私弹性"可用这一组价格当"执法税率"的上界观测：体系把贸易成本抬高一至两个数量级，却没有把贸易归零。**
+
+### 7.6 波罗的海与哥德堡：执行机器够不到的地方
+- 印p.234 / PDF250：1810年夏600艘英国商船（挂各中立旗、货值£8,000,000–9,000,000）滞留哥德堡，9月进入波罗的海驶往瑞典、俄国、普鲁士港口；Champagny称其"wandering about like the fragments of a scattered army"；拿破仑以威胁与分赃利诱各国没收。
+- 印pp.234–235 / PDF250–251 **结果**：梅克伦堡驱逐船只；普鲁士让步但柯尼斯堡领事Clérembault使查扣落空；**亚历山大拒绝全面没收**，称到港者不过约60艘（Caulaincourt按俄方说法称9月中以来载货者仅15艘）；1816年英商备忘录称被扣140船货、价值£1,500,000（Heckscher认为"much too high"）。瑞典1811年春在**卡尔斯港(Karlshamn)误扣百余艘**（挂丹麦、普鲁士、汉堡、帕彭堡旗），查明为英国财产（估值£500,000）后以"视为瑞典货＋虚拟回购"处理，"the British here lost nothing"。1811年8月底拿破仑信称已有**150艘挂美国旗的船**进入俄国港口。
+- 印p.236 / PDF252 **哥德堡**：1810-09 总督 Axel Pontus von Rosen 描述锚地"such an appearance as it had never had since the Creation, with **19 British men-of-war and 1,124 merchantmen** lying at anchor"；某日风转东，"several hundred vessels sailed away at the same time"。11月给von Rosen的训令：对瑞典臣民所有、挂美旗或其他可接受旗的货船，"His Majesty does not require you to recur to extremities of diligence, but on the contrary to **suppress facts and facilitate traffic** as far as you may do so ... without compromising your position."
+- 印p.236 / PDF252 **哥德堡数量**：进口1807→1809翻两番(quadrupled)，1810再增至五倍(quintupled)；原糖出口 **14,500,000磅**（约为上年两倍），咖啡 **4,500,000磅**，尚不计经瑞典本土转运出去的部分。
+- 印pp.236–237 / PDF252–253：波罗的海内的 **Hanö 与 Matvik**（布莱金厄省）由瑞典政府训令同时充当英国分舰队基地与殖民品／制品集散地；瑞典整体是英美贸易通往俄国与波罗的海南岸的转运国，因该路线"more secure from French and Danish privateers than the direct route"。

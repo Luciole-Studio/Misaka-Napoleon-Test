@@ -1,0 +1,36 @@
+---
+source_url: "https://doi.org/10.35765/rfi.2025.3103.15"
+final_url: "https://doi.org/10.35765/rfi.2025.3103.15"
+provider: "exa"
+text_sha256: "ca5366d9def9a8c9b2682d5aaf1b58bfa9b1e8760ebe247eadba8c4797ffcf76"
+title: "Jean-Charles Serra wobec stanu finans\u00f3w Ksi\u0119stwa Warszawskiego w 1808 r."
+content_kind: "page_text"
+---
+
+# Jean-Charles Serra wobec stanu finansów Księstwa Warszawskiego w 1808 r.
+
+Rocznik Filozoficzny Ignatianum. Published: 2025-09-30. 0 citations.
+
+## Authors
+
+- Dominika Rychel-Mantur: corresponding author
+
+## Topics
+
+- Polish Historical and Cultural Studies
+- Historical and Cultural Studies of Poland
+- European Political History Analysis
+
+---
+
+# Uniwersytet Śląski w Katowicach
+
+## Abstract
+
+Celem artykułu jest ukazanie, w jaki sposób Jean-Charles Serra -rezydent francuski w Warszawie w latach 1808-1811 -oceniał sytuację finansową Księstwa Warszawskiego w 1808 r. oraz jak próbował na nią wpływać w 1808 r.
+
+## Cel artykułu i stan badań
+
+Celem niniejszego artykułu jest analiza stanowiska francuskiego rezydenta Jeana-Charles'a Serry wobec bieżących problemów finansowych Księstwa Warszawskiego w 1808 r. W tym czasie ten młody kraj stanął przed wyzwaniami związanymi z utrzymaniem wojsk polskich, części francuskich oraz saskich, a także rozliczeniem pierwszej wojny polskiej. W tekście podjęta zostanie również próba ukazania rezydenta jako pośrednika pomiędzy interesami Francji Napoleona Bonaparte a rzeczywistością ekonomiczną Księstwa Warszawskiego ze zwróceniem uwagi na sposób, w jaki Serra postrzegał największe problemy finansowe państwa pozostającego pod wpływem Napoleona. Artykuł jest przyczynkiem do badań nad finansami Księstwa Warszawskiego i finansowymi relacjami napoleońskiej Francji z podległymi jej państwami satelickimi. Próbuje również odpowiedzieć na pytanie, w jaki sposób dyplomacja francuska w Księstwie Warszawskim mogła stawać się narzędziem nadzoru finansowego oraz jak napięcia między oczekiwaniami władz francuskich a możliwościami małego państwa wpływały na decyzje polityczne w Warszawie i Dreźnie.
+
+Podstawą źródłową niniejszego artykułu są depesze rezydenta francuskiego Jeana-Charles'a Serry, wydane przez Marcelego Handelsmana 1 , a także te niewydane wraz z innymi pismami dyplomatycznymi, znajdujące się w zasobach Archives Diplomatiques du Ministére des Affaires étrangéres à Paris, dokumentacja odnosząca się do pożyczki krajowej z 1808 r. przechowywana w archiwum Głównym Akt Dawnych w Warszawie oraz protokoły posiedzeń Rady Stanu i Rady Ministrów. Artykuł stanowi wycinek z badań nad historią finansów Księstwa Warszawskiego oraz obrazem tego państwa w oczach Francuzów. Stan badań nad jednym i drugim wciąż zachęca do pogłębiania studiów. Podstawy finansowych dziejów Księstwa Warszawskiego wyłożył jeszcze w końcówce XIX wieku Stanisław Żółtowski 2 . Próbę zgłębienia tematu podjął Rafał Kowalczyk w monografii dotyczącej polityki finansowej i gospodarczej Księstwa Warszawskiego 3 . Na chwilę obecną najnowsze ustalenia wniósł jeden z rozdziałów monografii Księstwa Warszawskiego Jarosława Czubatego 4 . Wybrane aspekty działalności rezydentów francuskich w Warszawie omówił Marceli Handelsman 5 . O francuskich wyobrażeniach na temat Księstwa Warszawskiego pisała z kolei Paulina Dąbrosz-Drewnowska 6 . Jej 1 Instrukcje i depesze rezydentów francuskich w Warszawie 1807-1813, oprac. Marceli Handelsman, t. 1 (Kraków: Akademia Umiejętności, 1914). 2 Stanisław Żółtowski, Die Finanzen des Herzogtums Warschau (1806-1815) wspomnieniach. Obraz Księstwa Warszawskiego (1807–1815) (Szczecin: Wydawnictwo Naukowe Uniwersytetu Szczecińskiego, 2019). 7 Dąbrosz-Drewnowska, Oczami Paryżanina, 74, 77. 8 Thierry Lentz, Nouvelle histoire du Premier Empire, La France et l’Europe de Napoleon 1804–1814, t. 3 (Paris: Fayard, 2007), 716–722. 9 Dąbrosz-Drewnowska, Oczami Paryżanina, 18. 10 Więcej na temat Serry: „Gian Carlo Serrra”, w Giornale degli Studiosi di Lettere, Scienze, Arti e Mestieri. Dedicato alla Società Ligure di Storia Patria (Genova: L. Girllo, 1869),

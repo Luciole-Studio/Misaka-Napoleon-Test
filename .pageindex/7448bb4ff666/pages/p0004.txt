@@ -1,0 +1,25 @@
+
+
+> A full hull model of HMS ‘Lightning’, a wooden paddle gunboat launched in 1823.
+> The ‘Lightning’ was one of the first steam powered vessels to appear in the Navy List and as such, her shallow hull and paddle wheel propulsion made it ideal for survey work.
+> During her 45 years of service, she carried out extensive surveys of the British Isles, Norway and Russia.
+
+预算定义：未提供购船、机器、煤耗或维护经费。人员定义：未提供舰员或轮机人员数量。证据支持1823年木质明轮炮艇及早期蒸汽应用；不支持1830前主战舰队已蒸汽化。注意馆藏元数据Vessels栏写“Lightning (1829)”，与标题/正文1823不一致，需防同名舰串联；本条日期和用途仅依正文，并公开保留元数据冲突。Comet 1822未取得可靠已读对应材料，不据搜索同名Comet 1828帆船补入。
+
+## 交付限制及后续需查
+- 1815–1830尚非逐年完整投票系列；本次有当年决议直接核实1817、1820、1826、1830，预算1817–21有Hume原表转引，另有1826及1830总额。
+- 未形成1815/1816人员复员的精确起终点；已取得复员后舰体状态、半薪保留、船工留用与1830回航复员时滞等机制证据。
+- Hansard各时期回顾性口头系列互相矛盾，不将1826对1818/19的回忆拼成无误逐年数据。早期Hansard是辩论报道，不是现代逐字录音。
+- 1812的145,000口径由主研究者接续；本文件不声称已独立核查。
+- 使用1830“two years”重建论述时只可称当时政府估计，不能未经船坞和人员核算变成机械固定两年参数。
+- 本笔记不决定海军竞赛、法国仍强情景的英国兵额、预算或科技替代速度。
+
+## 已读材料溯源清单
+1. 1817-02-17：网页全文阅读；缓存downloads/pages/245fa51bae26.md。
+2. 1820-05-17：网页全文阅读；缓存downloads/pages/7aa4f576eb19.md。
+3. 1821-06-27：复用主研究者缓存downloads/pages/95e29ff1c015.md；实际阅读行1–769，重点No.28–35；不声称全文读完。
+4. 1822-02-27：网页全文阅读；缓存downloads/pages/9198b046bbb7.md。
+5. 1826-02-21：网页全文阅读；缓存downloads/pages/990e6312e3fa.md。
+6. 1830-03-01：网页返回头尾并补读缓存28–39行相关中段；缓存downloads/pages/597653e3e3aa.md。
+7. RMG SLR0709：页面完整馆藏说明阅读；缓存downloads/pages/453f975faa96.md。
+本目录已保存上述材料的实际引用段落、关键表格及笔记；全文缓存位置仅为复核入口，不代替引文。

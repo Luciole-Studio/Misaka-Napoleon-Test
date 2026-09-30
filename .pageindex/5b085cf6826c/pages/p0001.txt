@@ -1,0 +1,22 @@
+---
+source_url: "https://www.verfassungen.de/by/verf08.htm"
+final_url: "https://www.verfassungen.de/by/verf08.htm"
+provider: "exa"
+text_sha256: "5c04d09cdccbc17fffa3c66f37796511f40b83dde4ff13c06c449bda34d392b2"
+title: "Verfassung des K\u00f6nigreichs Bayern (1808)"
+content_kind: "page_text"
+---
+
+Verfassung des Königreichs Bayern (1808) Verfassung des Königreichs Bayern
+
+vom 1. Mai 1808
+
+Maximilian Joseph, von Gottes Gnaden König von Bayern. Von der Ueberzeugung geleitet, daß der Staat, so lange er ein bloßes Aggregat verschiedenartiger Bestandtheile bleibt, weder zur Erreichung der vollen Gesammtkraft, die in seinen Mitteln liegt, gelangen, noch den einzelnen Gliedern desselben alle Vortheile der bürgerlichen Vereinigung, in dem Maaße, wie es diese bezweckt, gewähren kann, haben Wir bereits durch mehrere Verordnungen die Verschiedenheit der Verwaltungsformen in Unserm Reiche, so weit es vor der Hand möglich war, zu heben, für die direkten Auflagen sowohl, als für die indirecten, ein gleichförmigeres System zu gründen, und die wichtigsten öffentlichen Anstalten dem Gemeinsamen ihrer Bestimmung durch Einrichtungen, die zugleich ihre besondern sichern, entsprechender zu machen gesucht. Ferner haben Wir, um Unsern gesammten Staaten den Vortheil angemessener gleicher bürgerlicher und peinlicher Gesetze zu verschaffen, auch die hiezu nöthigen Vorarbeiten angeordnet, die zum Theil wirklich vollendet sind. Da aber diese einzelnen Ausbildungen besonderer Theile der Staatseinrichtung nur unvollkommen zum Zwecke führen, und Lücken zurücklassen, deren Ausfüllung ein wesentliches Bedürfniß der nothwendigen Einheit des Ganzen ist; so haben Wir beschlossen, sämmtlichen Bestandtheilen der Gesetzgebung und Verwaltung Unsers Reiches, mit Rücksicht auf die äußern und innern Verhältnisse desselben, durch organische Gesetze einen vollständigen Zusammenhang zu geben, und hiezu den Grund durch gegenwärtige Constitutionsurkunde zu legen, die zur Absicht hat, durch entsprechende Anordnungen und Bestimmungen den gerechten, im allgemeinen Staatszwecke gegründeten, Forderungen des Staates an seine einzelnen Glieder, so wie der einzelnen Glieder an den Staat, die Gewährleistung ihrer Erfüllung, dem Ganzen feste Haltung und Verbindung, und jedem Theile der Staatsgewalt die ihm angemessene Wirkungskraft nach den Bedürfnissen des Gesamtwohls zu verschaffen. Wir bestimmen und verordnen demnach, wie folgt:
+
+Erster Titel. Hauptbestimmungen.
+
+§. 1. Das Königreich Bayern bildet einen Theil der rheinischen Föderation.
+
+§. 2. Alle besondere Verfassungen, Privilegien, Erbämter und landschaftlichen Corporationen der einzelnen Provinzen sind aufgehoben. Das ganze Königreich wird durch eine Nationalrepräsentation vertreten, nach gleichen Gesetzen gerichtet, und nach gleichen Grundsätzen verwaltet; dem zu Folge soll ein und dasselbe Steuersystem für das ganze Königreich seyn. Die Grundsteuer kann den fünften Theil der Einkünfte nicht übersteigen.
+
+hierzu wurde das "Organische Edict vom 8. September 1808, die Patrimonialgerichtsbarkeit betreffend." erlassen.

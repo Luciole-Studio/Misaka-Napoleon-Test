@@ -1,0 +1,263 @@
+## Sheet: Full data (continued)
+	A	B	C	D	E
+20074	TWN	Taiwan, Province of China	1925	1,959	4,048
+20075	TWN	Taiwan, Province of China	1926	1,954	4,140
+20076	TWN	Taiwan, Province of China	1927	1,919	4,232
+20077	TWN	Taiwan, Province of China	1928	1,934	4,330
+20078	TWN	Taiwan, Province of China	1929	1,991	4,437
+20079	TWN	Taiwan, Province of China	1930	2,021	4,563
+20080	TWN	Taiwan, Province of China	1931	1,997	4,684
+20081	TWN	Taiwan, Province of China	1932	2,066	4,806
+20082	TWN	Taiwan, Province of China	1933	1,957	4,932
+20083	TWN	Taiwan, Province of China	1934	2,012	5,063
+20084	TWN	Taiwan, Province of China	1935	2,169	5,179
+20085	TWN	Taiwan, Province of China	1936	2,246	5,297
+20086	TWN	Taiwan, Province of China	1937	2,212	5,432
+20087	TWN	Taiwan, Province of China	1938	2,295	5,552
+20088	TWN	Taiwan, Province of China	1939	2,200	5,680
+20089	TWN	Taiwan, Province of China	1940	1,992	5,837
+20090	TWN	Taiwan, Province of China	1941		6,002
+20091	TWN	Taiwan, Province of China	1942		6,174
+20092	TWN	Taiwan, Province of China	1943		6,325
+20093	TWN	Taiwan, Province of China	1944		6,266
+20094	TWN	Taiwan, Province of China	1945		6,140
+20095	TWN	Taiwan, Province of China	1946		6,014
+20096	TWN	Taiwan, Province of China	1947		6,419
+20097	TWN	Taiwan, Province of China	1948		6,724
+20098	TWN	Taiwan, Province of China	1949		7,302
+20099	TWN	Taiwan, Province of China	1950	1,460	7,456
+20100	TWN	Taiwan, Province of China	1951	1,513	7,771
+20101	TWN	Taiwan, Province of China	1952	1,639	8,031
+20102	TWN	Taiwan, Province of China	1953	1,728	8,326
+20103	TWN	Taiwan, Province of China	1954	1,825	8,635
+20104	TWN	Taiwan, Province of China	1955	1,895	8,992
+20105	TWN	Taiwan, Province of China	1956	1,926	9,341
+20106	TWN	Taiwan, Province of China	1957	1,997	9,662
+20107	TWN	Taiwan, Province of China	1958	2,056	10,020
+20108	TWN	Taiwan, Province of China	1959	2,118	10,468
+20109	TWN	Taiwan, Province of China	1960	2,157	10,861
+20110	TWN	Taiwan, Province of China	1961	2,228	11,235
+20111	TWN	Taiwan, Province of China	1962	2,326	11,615
+20112	TWN	Taiwan, Province of China	1963	2,463	11,999
+20113	TWN	Taiwan, Province of China	1964	2,676	12,385
+20114	TWN	Taiwan, Province of China	1965	2,885	12,766
+20115	TWN	Taiwan, Province of China	1966	3,054	13,140
+20116	TWN	Taiwan, Province of China	1967	3,300	13,460
+20117	TWN	Taiwan, Province of China	1968	3,484	13,918
+20118	TWN	Taiwan, Province of China	1969	3,720	14,200
+20119	TWN	Taiwan, Province of China	1970	4,044	14,532
+20120	TWN	Taiwan, Province of China	1971	4,470	14,862
+20121	TWN	Taiwan, Province of China	1972	4,962	15,168
+20122	TWN	Taiwan, Province of China	1973	5,496	15,454
+20123	TWN	Taiwan, Province of China	1974	5,455	15,752
+20124	TWN	Taiwan, Province of China	1975	5,614	16,061
+20125	TWN	Taiwan, Province of China	1976	6,245	16,435
+20126	TWN	Taiwan, Province of China	1977	6,752	16,753
+20127	TWN	Taiwan, Province of China	1978	7,519	17,090
+20128	TWN	Taiwan, Province of China	1979	7,967	17,448
+20129	TWN	Taiwan, Province of China	1980	8,384	17,788
+20130	TWN	Taiwan, Province of China	1981	8,749	18,097
+20131	TWN	Taiwan, Province of China	1982	8,910	18,399
+20132	TWN	Taiwan, Province of China	1983	9,530	18,657
+20133	TWN	Taiwan, Province of China	1984	10,394	18,918
+20134	TWN	Taiwan, Province of China	1985	10,779	19,148
+20135	TWN	Taiwan, Province of China	1986	11,918	19,332
+20136	TWN	Taiwan, Province of China	1987	13,705	19,536
+20137	TWN	Taiwan, Province of China	1988	14,183	19,752
+20138	TWN	Taiwan, Province of China	1989	15,203	19,943
+20139	TWN	Taiwan, Province of China	1990	15,841	20,172
+20140	TWN	Taiwan, Province of China	1991	16,935	20,375
+20141	TWN	Taiwan, Province of China	1992	18,101	20,569
+20142	TWN	Taiwan, Province of China	1993	19,088	20,759
+20143	TWN	Taiwan, Province of China	1994	20,269	20,940
+20144	TWN	Taiwan, Province of China	1995	21,330	21,117
+20145	TWN	Taiwan, Province of China	1996	22,390	21,283
+20146	TWN	Taiwan, Province of China	1997	23,438	21,499
+20147	TWN	Taiwan, Province of China	1998	24,131	21,683
+20148	TWN	Taiwan, Province of China	1999	25,472	21,844
+20149	TWN	Taiwan, Province of China	2000	26,787	22,027
+20150	TWN	Taiwan, Province of China	2001	26,204	22,154
+20151	TWN	Taiwan, Province of China	2002	27,426	22,268
+20152	TWN	Taiwan, Province of China	2003	28,349	22,351
+20153	TWN	Taiwan, Province of China	2004	29,975	22,434
+20154	TWN	Taiwan, Province of China	2005	31,374	22,514
+20155	TWN	Taiwan, Province of China	2006	32,867	22,620
+20156	TWN	Taiwan, Province of China	2007	34,761	22,700
+20157	TWN	Taiwan, Province of China	2008	34,762	22,778
+20158	TWN	Taiwan, Province of China	2009	33,974	22,860
+20159	TWN	Taiwan, Province of China	2010	37,385	22,902
+20160	TWN	Taiwan, Province of China	2011	38,565	22,964
+20161	TWN	Taiwan, Province of China	2012	39,207	23,054
+20162	TWN	Taiwan, Province of China	2013	39,971	23,112
+20163	TWN	Taiwan, Province of China	2014	41,472	23,171
+20164	TWN	Taiwan, Province of China	2015	41,668	23,228
+20165	TWN	Taiwan, Province of China	2016	42,165	23,276
+20166	TWN	Taiwan, Province of China	2017	43,504	23,306
+20167	TWN	Taiwan, Province of China	2018	44,664	23,324
+20168	TZA	U.R. of Tanzania: Mainland	1950	676	7,935
+20169	TZA	U.R. of Tanzania: Mainland	1951	743	8,125
+20170	TZA	U.R. of Tanzania: Mainland	1952	740	8,323
+20171	TZA	U.R. of Tanzania: Mainland	1953	697	8,529
+20172	TZA	U.R. of Tanzania: Mainland	1954	735	8,745
+20173	TZA	U.R. of Tanzania: Mainland	1955	733	8,971
+20174	TZA	U.R. of Tanzania: Mainland	1956	724	9,206
+20175	TZA	U.R. of Tanzania: Mainland	1957	720	9,453
+20176	TZA	U.R. of Tanzania: Mainland	1958	708	9,711
+20177	TZA	U.R. of Tanzania: Mainland	1959	724	9,979
+20178	TZA	U.R. of Tanzania: Mainland	1960	732	10,260
+20179	TZA	U.R. of Tanzania: Mainland	1961	703	10,555
+20180	TZA	U.R. of Tanzania: Mainland	1962	746	10,864
+20181	TZA	U.R. of Tanzania: Mainland	1963	770	11,185
+20182	TZA	U.R. of Tanzania: Mainland	1964	787	11,522
+20183	TZA	U.R. of Tanzania: Mainland	1965	792	11,870
+20184	TZA	U.R. of Tanzania: Mainland	1966	867	12,231
+20185	TZA	U.R. of Tanzania: Mainland	1967	875	12,607
+20186	TZA	U.R. of Tanzania: Mainland	1968	894	12,988
+20187	TZA	U.R. of Tanzania: Mainland	1969	883	13,390
+20188	TZA	U.R. of Tanzania: Mainland	1970	905	13,807
+20189	TZA	U.R. of Tanzania: Mainland	1971	915	14,237
+20190	TZA	U.R. of Tanzania: Mainland	1972	945	14,707
+20191	TZA	U.R. of Tanzania: Mainland	1973	945	15,201
+20192	TZA	U.R. of Tanzania: Mainland	1974	937	15,681
+20193	TZA	U.R. of Tanzania: Mainland	1975	956	16,148
+20194	TZA	U.R. of Tanzania: Mainland	1976	996	16,626
+20195	TZA	U.R. of Tanzania: Mainland	1977	993	17,130
+20196	TZA	U.R. of Tanzania: Mainland	1978	993	17,647
+20197	TZA	U.R. of Tanzania: Mainland	1979	977	18,145
+20198	TZA	U.R. of Tanzania: Mainland	1980	958	18,665
+20199	TZA	U.R. of Tanzania: Mainland	1981	920	19,212
+20200	TZA	U.R. of Tanzania: Mainland	1982	905	19,777
+20201	TZA	U.R. of Tanzania: Mainland	1983	875	20,368
+20202	TZA	U.R. of Tanzania: Mainland	1984	870	20,984
+20203	TZA	U.R. of Tanzania: Mainland	1985	843	21,618
+20204	TZA	U.R. of Tanzania: Mainland	1986	845	22,284
+20205	TZA	U.R. of Tanzania: Mainland	1987	859	23,017
+20206	TZA	U.R. of Tanzania: Mainland	1988	867	23,764
+20207	TZA	U.R. of Tanzania: Mainland	1989	870	24,485
+20208	TZA	U.R. of Tanzania: Mainland	1990	875	25,214
+20209	TZA	U.R. of Tanzania: Mainland	1991	892	25,925
+20210	TZA	U.R. of Tanzania: Mainland	1992	895	26,674
+20211	TZA	U.R. of Tanzania: Mainland	1993	900	27,562
+20212	TZA	U.R. of Tanzania: Mainland	1994	905	28,625
+20213	TZA	U.R. of Tanzania: Mainland	1995	931	29,544
+20214	TZA	U.R. of Tanzania: Mainland	1996	980	30,164
+20215	TZA	U.R. of Tanzania: Mainland	1997	1,017	30,878
+20216	TZA	U.R. of Tanzania: Mainland	1998	1,052	31,780
+20217	TZA	U.R. of Tanzania: Mainland	1999	1,100	32,719
+20218	TZA	U.R. of Tanzania: Mainland	2000	1,149	33,741
+20219	TZA	U.R. of Tanzania: Mainland	2001	1,214	34,755
+20220	TZA	U.R. of Tanzania: Mainland	2002	1,293	35,808
+20221	TZA	U.R. of Tanzania: Mainland	2003	1,370	36,906
+20222	TZA	U.R. of Tanzania: Mainland	2004	1,464	38,000
+20223	TZA	U.R. of Tanzania: Mainland	2005	1,554	39,122
+20224	TZA	U.R. of Tanzania: Mainland	2006	1,622	40,272
+20225	TZA	U.R. of Tanzania: Mainland	2007	1,754	41,461
+20226	TZA	U.R. of Tanzania: Mainland	2008	1,848	42,660
+20227	TZA	U.R. of Tanzania: Mainland	2009	1,947	43,806
+20228	TZA	U.R. of Tanzania: Mainland	2010	2,069	45,019
+20229	TZA	U.R. of Tanzania: Mainland	2011	2,227	46,344
+20230	TZA	U.R. of Tanzania: Mainland	2012	2,275	47,687
+20231	TZA	U.R. of Tanzania: Mainland	2013	2,372	49,059
+20232	TZA	U.R. of Tanzania: Mainland	2014	2,467	50,459
+20233	TZA	U.R. of Tanzania: Mainland	2015	2,566	51,889
+20234	TZA	U.R. of Tanzania: Mainland	2016	2,660	53,349
+20235	TZA	U.R. of Tanzania: Mainland	2017	2,763	54,842
+20236	TZA	U.R. of Tanzania: Mainland	2018	2,875	56,367
+20237	UGA	Uganda	1950	1,095	5,522
+20238	UGA	Uganda	1951	1,023	5,671
+20239	UGA	Uganda	1952	1,058	5,825
+20240	UGA	Uganda	1953	1,076	5,983
+20241	UGA	Uganda	1954	1,033	6,148
+20242	UGA	Uganda	1955	1,071	6,317
+20243	UGA	Uganda	1956	1,100	6,493
+20244	UGA	Uganda	1957	1,116	6,676
+20245	UGA	Uganda	1958	1,092	6,864
+20246	UGA	Uganda	1959	1,116	7,059
+20247	UGA	Uganda	1960	1,137	7,262
+20248	UGA	Uganda	1961	1,093	7,472
+20249	UGA	Uganda	1962	1,106	7,689
+20250	UGA	Uganda	1963	1,197	7,914
+20251	UGA	Uganda	1964	1,251	8,147
+20252	UGA	Uganda	1965	1,242	8,389
+20253	UGA	Uganda	1966	1,280	8,640
+20254	UGA	Uganda	1967	1,310	8,900
+20255	UGA	Uganda	1968	1,304	9,170
+20256	UGA	Uganda	1969	1,404	9,450
+20257	UGA	Uganda	1970	1,382	9,743
+20258	UGA	Uganda	1971	1,385	10,009
+20259	UGA	Uganda	1972	1,364	10,224
+20260	UGA	Uganda	1973	1,331	10,428
+20261	UGA	Uganda	1974	1,302	10,672
+20262	UGA	Uganda	1975	1,243	10,952
+20263	UGA	Uganda	1976	1,219	11,242
+20264	UGA	Uganda	1977	1,207	11,541
+20265	UGA	Uganda	1978	1,111	11,850
+20266	UGA	Uganda	1979	966	12,138
+20267	UGA	Uganda	1980	912	12,415
+20268	UGA	Uganda	1981	923	12,725
+20269	UGA	Uganda	1982	972	13,079
+20270	UGA	Uganda	1983	1,014	13,470
+20271	UGA	Uganda	1984	897	13,920
+20272	UGA	Uganda	1985	886	14,392
+20273	UGA	Uganda	1986	858	14,911
+20274	UGA	Uganda	1987	877	15,520
+20275	UGA	Uganda	1988	902	16,176
+20276	UGA	Uganda	1989	929	16,832
+20277	UGA	Uganda	1990	932	17,456
+20278	UGA	Uganda	1991	915	18,067
+20279	UGA	Uganda	1992	935	18,703
+20280	UGA	Uganda	1993	959	19,391
+20281	UGA	Uganda	1994	995	20,103
+20282	UGA	Uganda	1995	1,055	20,680
+20283	UGA	Uganda	1996	1,092	21,270
+20284	UGA	Uganda	1997	1,108	21,926
+20285	UGA	Uganda	1998	1,138	22,622
+20286	UGA	Uganda	1999	1,185	23,408
+20287	UGA	Uganda	2000	1,192	24,195
+20288	UGA	Uganda	2001	1,256	24,992
+20289	UGA	Uganda	2002	1,301	25,846
+20290	UGA	Uganda	2003	1,335	26,661
+20291	UGA	Uganda	2004	1,365	27,414
+20292	UGA	Uganda	2005	1,451	28,200
+20293	UGA	Uganda	2006	1,501	29,021
+20294	UGA	Uganda	2007	1,570	29,846
+20295	UGA	Uganda	2008	1,679	30,647
+20296	UGA	Uganda	2009	1,757	31,469
+20297	UGA	Uganda	2010	1,831	32,343
+20298	UGA	Uganda	2011	1,890	33,257
+20299	UGA	Uganda	2012	1,877	34,234
+20300	UGA	Uganda	2013	1,889	35,271
+20301	UGA	Uganda	2014	1,923	36,419
+20302	UGA	Uganda	2015	1,954	37,673
+20303	UGA	Uganda	2016	1,980	39,158
+20304	UGA	Uganda	2017	1,992	40,880
+20305	UGA	Uganda	2018	2,045	42,331
+20306	UKR	Ukraine	1950		36,775
+20307	UKR	Ukraine	1951		37,436
+20308	UKR	Ukraine	1952		38,006
+20309	UKR	Ukraine	1953		38,541
+20310	UKR	Ukraine	1954		38,994
+20311	UKR	Ukraine	1955		39,368
+20312	UKR	Ukraine	1956		39,940
+20313	UKR	Ukraine	1957		40,656
+20314	UKR	Ukraine	1958		41,359
+20315	UKR	Ukraine	1959		42,006
+20316	UKR	Ukraine	1960		42,644
+20317	UKR	Ukraine	1961		43,196
+20318	UKR	Ukraine	1962		43,697
+20319	UKR	Ukraine	1963		44,256
+20320	UKR	Ukraine	1964		44,786
+20321	UKR	Ukraine	1965		45,235
+20322	UKR	Ukraine	1966		45,674
+20323	UKR	Ukraine	1967		46,111
+20324	UKR	Ukraine	1968		46,510
+20325	UKR	Ukraine	1969		46,871
+20326	UKR	Ukraine	1970		47,236
+20327	UKR	Ukraine	1971		47,637
+20328	UKR	Ukraine	1972		48,027
+20329	UKR	Ukraine	1973	7,849	48,367
+20330	UKR	Ukraine	1974		48,677
+20331	UKR	Ukraine	1975		48,973
+20332	UKR	Ukraine	1976		49,234
+20333	UKR	Ukraine	1977		49,454
+20334	UKR	Ukraine	1978		49,643

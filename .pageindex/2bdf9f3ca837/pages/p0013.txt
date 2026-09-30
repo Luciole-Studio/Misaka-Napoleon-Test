@@ -1,0 +1,455 @@
+      "year": 2014,
+      "type": "article",
+      "venue": "Constitutional Political Economy",
+      "venue_issn": "1043-4062",
+      "authors": [
+        {
+          "name": "Gerhard Wegner",
+          "id": "https://openalex.org/A5060413144",
+          "institutions": [
+            "University of Erfurt"
+          ]
+        }
+      ],
+      "cited_by_count": 15,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 52,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W253434336",
+      "doi": null,
+      "title": "Zur Geschichte der deutschen Kleingewerbe im 19. Jahrhundert",
+      "year": 1975,
+      "type": "book",
+      "venue": "G. Olms eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Gustav von Schmoller",
+          "id": "https://openalex.org/A5034454328",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 15,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2795392113",
+      "doi": "10.2307/1430976",
+      "title": "From Domestic Manufacture to Industrial Revolution: The Case of the Rhineland Textile Districts",
+      "year": 1991,
+      "type": "article",
+      "venue": "German Studies Review",
+      "venue_issn": "0149-7952",
+      "authors": [
+        {
+          "name": "Jeffry M. Diefendorf",
+          "id": "https://openalex.org/A5046761624",
+          "institutions": []
+        },
+        {
+          "name": "Herbert Kisch",
+          "id": "https://openalex.org/A5015693181",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 14,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W1994041277",
+      "doi": "10.2307/2598815",
+      "title": "Eisenbahnen und deutsches Wirtschaftswachstum, 1840-79: Ein Beitrag zur Entwicklungstheorie und zur Theorie der Infrastruktur.",
+      "year": 1978,
+      "type": "article",
+      "venue": "The Economic History Review",
+      "venue_issn": "0013-0117",
+      "authors": [
+        {
+          "name": "Wilfried Forstmann",
+          "id": "https://openalex.org/A5097254924",
+          "institutions": []
+        },
+        {
+          "name": "Rainer Fremdling",
+          "id": "https://openalex.org/A5082755130",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 13,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W586373925",
+      "doi": "10.1515/9783486830705",
+      "title": "Politischer Umbruch und gesellschaftliche Bewegung",
+      "year": 1997,
+      "type": "book",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Elisabeth Fehrenbach",
+          "id": "https://openalex.org/A5003798006",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 13,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W642574040",
+      "doi": null,
+      "title": "The Napoleonic wars, 1803-1815",
+      "year": 1997,
+      "type": "book",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "D. J. Gates",
+          "id": "https://openalex.org/A5068108211",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 12,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2796063309",
+      "doi": "10.2307/1429433",
+      "title": "Germany without Prussia: A Closer Look at the Confederation of the Rhine",
+      "year": 1983,
+      "type": "article",
+      "venue": "German Studies Review",
+      "venue_issn": "0149-7952",
+      "authors": [
+        {
+          "name": "Hans A. Schmitt",
+          "id": "https://openalex.org/A5108608397",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 12,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W2518940920",
+      "doi": "10.1017/s1744137416000242",
+      "title": "Institutions and the shale boom",
+      "year": 2016,
+      "type": "article",
+      "venue": "Journal of Institutional Economics",
+      "venue_issn": "1744-1374",
+      "authors": [
+        {
+          "name": "Ilia Murtazashvili",
+          "id": "https://openalex.org/A5085259728",
+          "institutions": [
+            "University of Pittsburgh"
+          ]
+        }
+      ],
+      "cited_by_count": 12,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 149,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W4205190322",
+      "doi": "10.32609/0042-8736-2022-1-47-71",
+      "title": "Institutional changes, inequality and long-run economic development: Theory and empirics",
+      "year": 2022,
+      "type": "article",
+      "venue": "Voprosy Ekonomiki",
+      "venue_issn": "0042-8736",
+      "authors": [
+        {
+          "name": "D. A. Veselov",
+          "id": "https://openalex.org/A5089001790",
+          "institutions": [
+            "National Research University Higher School of Economics"
+          ]
+        },
+        {
+          "name": "Alexander Yarkin",
+          "id": "https://openalex.org/A5071149797",
+          "institutions": [
+            "Brown University"
+          ]
+        }
+      ],
+      "cited_by_count": 12,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 96,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W3121943845",
+      "doi": "10.1484/res-eb",
+      "title": "Rural economy and society in north-western Europe, 500-2000",
+      "year": 2018,
+      "type": "paratext",
+      "venue": "Rural economy and society in north-western Europe, 500-2000",
+      "venue_issn": "2566-0047",
+      "authors": [],
+      "cited_by_count": 11,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2276057031",
+      "doi": "10.4232/1.8276",
+      "title": "Quellen zur Bevölkerungsstatistik Deutschlands 1815-1875",
+      "year": 2010,
+      "type": "dataset",
+      "venue": "GESIS Data Archive",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Antje Kraus",
+          "id": "https://openalex.org/A5000998451",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 9,
+      "is_oa": true,
+      "oa_pdf": "https://doi.org/10.4232/1.8276",
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W566635780",
+      "doi": null,
+      "title": "Die mitteldeutsche Grundherrschaft und ihre Auflösung",
+      "year": 1957,
+      "type": "book",
+      "venue": "G. Fischer eBooks",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Friedrich Lütge",
+          "id": "https://openalex.org/A5041352007",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 8,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "de",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W2071402324"
+      }
+    },
+    {
+      "id": "W255325767",
+      "doi": null,
+      "title": "Agricultural development during early industrialization in a low-wage economy: Saxony, c. 1790-1830",
+      "year": 2013,
+      "type": "preprint",
+      "venue": "RePEc: Research Papers in Economics",
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Michael Kopsidis",
+          "id": "https://openalex.org/A5065734990",
+          "institutions": []
+        },
+        {
+          "name": "Ulrich Pfister",
+          "id": "https://openalex.org/A5078533380",
+          "institutions": []
+        }
+      ],
+      "cited_by_count": 8,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 0,
+      "_snowball": {
+        "hop": 1,
+        "via": "backward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W4283458858",
+      "doi": "10.1016/j.worlddev.2022.105995",
+      "title": "The confusions of democracy: The Arab spring and beyond",
+      "year": 2022,
+      "type": "article",
+      "venue": "World Development",
+      "venue_issn": "0305-750X",
+      "authors": [
+        {
+          "name": "Daniel W. Bromley",
+          "id": "https://openalex.org/A5073835856",
+          "institutions": [
+            "University of Wisconsin–Madison"
+          ]
+        }
+      ],
+      "cited_by_count": 8,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 45,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W3107925321",
+      "doi": null,
+      "title": "The Origins and Consequences of Property Rights: Austrian, Public Choice, and Institutional Economics Perspectives",
+      "year": 2020,
+      "type": "book",
+      "venue": null,
+      "venue_issn": null,
+      "authors": [
+        {
+          "name": "Colin Harris",
+          "id": "https://openalex.org/A5111431638",
+          "institutions": [
+            "St. Olaf College"
+          ]
+        },
+        {
+          "name": "Meina Cai",
+          "id": "https://openalex.org/A5002980677",
+          "institutions": [
+            "University of Connecticut"
+          ]
+        },
+        {
+          "name": "Ilia Murtazashvili",
+          "id": "https://openalex.org/A5085259728",
+          "institutions": [
+            "University of Pittsburgh"
+          ]
+        },
+        {
+          "name": "Jennifer Brick Murtazashvili",
+          "id": "https://openalex.org/A5041207866",
+          "institutions": [
+            "University of Pittsburgh"
+          ]
+        }
+      ],
+      "cited_by_count": 8,
+      "is_oa": false,
+      "oa_pdf": null,
+      "language": "en",
+      "is_retracted": false,
+      "referenced_works_count": 347,
+      "_snowball": {
+        "hop": 1,
+        "via": "forward",
+        "from": "W1843319626"
+      }
+    },
+    {
+      "id": "W2018574271",
+      "doi": "10.2307/1833495",
+      "title": "Studies in Napoleonic Statesmanship: Germany",
+      "year": 1904,
+      "type": "article",
+      "venue": "The American Historical Review",

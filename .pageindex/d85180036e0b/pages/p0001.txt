@@ -1,0 +1,34 @@
+# PR经济、社会、知识与能力笔记
+
+## 源标签、数表纠错
+C11/C12/C13/C14是本卡按网页路由命名的引用标签，**不是纸书章数**；例如Erenow /14.php对应章题“God’s March through History”、网页内显示第12章。正文统一用章题，不写错章号。Vandal对人物民族性推断不用，近代统计不假装现代GDP。
+
+## T08 1808巴黎公约法文核读
+`downloads/pages/0964a00115c5.md`L26–110：Napoleon-Histoire网络转录，原底本未明；Vandal I L14280–14305引用De Clercq II270–273，后者仅定位未亲阅。
+本约I 140m francs总额，half cash/accepted bills(6m per month)+half royal-domain mortgage bills(1–1.5y)；页注称Erfurt减20m。II签署日起归还税收；V撤普通占军；VI三据点暂留；VII Glogau3,300+Custrin2,800+Stettin3,900=10,000；VIII法付饷、普给住宿粮饲；XI普收税司法、法控制警察；XII普军不得一日行程内靠近；XV忠于法则疆界保证。附约I–III 42k/1809-01-01起十年/期限内禁额外民兵，II期满恢复通常扩军权。法文“82 escadrons”及附约V10,000与德文32/16,000冲突，明确转录讹误风险，不拿这两小数作模型输入。42k与十年两文一致且Vandal佐证前者。
+
+## F10 1810-10-27财政敕令
+`downloads/pages/a0a178c08a7e.md`L19–55完整已读节录；网站底本Gesetzsammlung1810 p25、Huber文书I（不等于亲阅影本）。国王声明120m赔款年末将付半：是官方**预期**不是年底实收证书。拟统一税、取消贵族地税免除、营业自由/专利税、国有地与教会财产变卖、国债按2/3面额买地、省和全国代表制；与Clark C12未落实地税/农村司法的段落对读，法律许诺≠实际渗透。
+
+## LWL Stein生平第5节
+`downloads/pages/54fd0efdaf3a.md`L23–56已读。1806旧国>9m人口，残普约一半；140→120m赔款；一次占军150,000、马50,000是该叙述阶段负担，并非全年均值。重要政策菜单真锚：Stein同意派Prince Wilhelm提30–40k普军供法自由使用，换减款撤军，任务失败；这是**当时提出**的武装客户国家交易，不是今造B8。财政需王领抵押、冠珠、商人/省等级担保。改革前王领>50k畜力农户已受解放，不能将所有解放因果归拿破仑。Tugendbund最多700、1809末解散；警方夸大其规模。作者对西班牙“1808末恢复平静”简化不采用。
+
+## IIDA2019与农村社会
+Takashi Iida, “Coping with Poverty in Rural Brandenburg: The Role of Lords and State in the Late Eighteenth Century”, 2019, DOI10.1525/luminos.63.g；`downloads/pages/a01b8afccf5d.md`L22–97已读正文/表5，提取有重复。
+- 表5（转Schmoller1898 p180）1806纯国家收入27m Reichstaler，军支16–17m，军籍250k，人口10.7m；与LWL>9m/他书9.75口径不同，人口用9–10.7m/军籍20–25万包络，不把250k当耶拿在场。
+- Kurmark rural establishments 1725→1800 35,784→65,804；农户28k近稳，棚户/寄居7,930→36,345。谷价上涨惠有余粮农户、伤无地消费者；劳役身份≠全农民贫困、自由身份≠生活富足。
+- ALR1794 II7§122领主救助义务、§288–293若败产可逐户；Alt-Ruppin实际案例，地方救贫与国家救贫互踢，3年居住救助资格引驱逐。适用条件为Brandenburg个案，不机械推广全西里西亚。
+
+## KB16 经济改革争议
+Michael Kopsidis & Daniel W. Bromley, “The French revolution and German industrialization: dubious models and doubtful causality”, 2016；已读doc40e4b5895015 PDFpp12–13＝印171–172，“Agrarian reforms/abolish guilds”。指许多依附农民有强土地权；个人状态与土地身份相连，粗分人身/土地可能不适于所有地区。1810–11普农村营业自由比不少法系邦贯彻更广。作者是反单因法国移植解释，不据此推出法制无作用。
+
+## C13 民众动员与军队（完整章未通读，只读所列）
+`downloads/pages/1b329de6f5e8.md`L22–48：1809 Schill自行出营，广泛观看/有限跟从；多数军官不愿违王命；1811-08-08 Gneisenau西班牙式群众战争备忘录，要教士动员而非民众天然自发。
+L156–180：改革军的指挥改善但Landwehr训练装备不齐，1815夏仍缺衣鞋裤；统计转引未核原调查：农民约人口3/4仅志愿者18%、手工业7%人口41%志愿者、教育男性2%人口12%；仅用于自愿参与不均，不等于全军/全阶级政治支持率。gold-for-iron筹6.5m thalers、600妇女协会（1813–15），亦非每年常规税。
+L228–230：普爱国与德民族主义有威胁王权/可收编双面，胜战记忆后被民族化。
+
+## C14 维也纳后对照，不将其当反事实
+`downloads/pages/0e5a385b8bba.md`L25–66实读：1815西部补偿是英方哨兵构想、非普洞见鲁尔未来；得部分萨克森（文字先“北半”后“两五分”，不用精确面积）；莱茵/威斯特法利亚改变地理与整合动力。1825普曾拒黑森关税请约，1827态度才转，领导权非早有总计划。关税分账可巩固小邦自主，非必向普效忠；1831/1840安全统合努力受奥与小邦、普内阁内派系阻止；至1840年代奥仍脆弱霸权。此为主线“残普更不可能当然超奥”的反史实惯性证据。
+
+## E 工业资产
+ERIH德文“Zur Industriegeschichte von Polen”，`downloads/pages/e00651d91906.md`L14整段已读：Tarnowitz1788蒸汽机（银铅排水），Gleiwitz1796焦炭高炉、Baildon引进与机器生产，国家初始投入后地主投资。只引这些点，不照录“欧洲/大陆第一”等有口径风险的冠词。煤铁资源不是立即财政收入，封锁技术/资本/运输会限制扩产。硝、铜、大麻未得同年普国总表，正文按进口/区域采购风险给条件而不造吨数。

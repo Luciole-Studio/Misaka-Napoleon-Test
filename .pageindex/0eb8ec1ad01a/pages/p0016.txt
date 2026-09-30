@@ -1,0 +1,65 @@
+   We define land to be suitable for cultivation if it is classified in the database as being either
+
+“very suitable”, “suitable”, or “moderately suitable”. Put differently, our measure defines land to
+
+be suitable if it yields at least 40% of the maximum possible yield.16 Our baseline measure of a
+
+country’s suitability for growing potatoes is the fraction of each country’s land area that is defined
+
+as suitable based on our definition. Note that because the FAO does not report the distribution
+
+of suitability within each category, we are unable to calculate a measure of average suitability for
+
+each country. We can only calculate the fraction of land that falls into different categories.
+
+   Figure 2 illustrates the FAO’s suitability measures at the grid-cell level for the Old World
+
+countries of our sample. The map shows grid-cells classified according to the five categories above.
+
+Also shown are the extreme grid cells for which 100% of the maximum potato yield is obtainable
+
+and for which 0% is obtainable. A darker shade corresponds to greater suitability.
+
+   A number of facts are immediately apparent from the map. The first is that much of the world
+
+is completely unsuitable for growing potatoes. The result of this is that 53 of the 130 Old World
+
+countries in our sample have a measure of land suitable for cultivating potatoes equal to zero. In
+
+our empirical analysis we pay particular attention to this fact, and show that our results are not
+
+being driven by zero suitability countries. We obtain similar results if we omit zero suitability
+
+countries from the sample.
+
+   The second fact that is apparent from Figure 2 is that much of the land area suitable for potato
+
+cultivation is concentrated in Europe. This fact is a potential cause of concern since we know
+
+that Western Europe diverged from the rest of the world after 1700. The underlying causes of
+
+this divergence may bias our estimated impact of the introduction of potatoes on population and
+
+urbanization. We address this concern explicitly in a number of ways. We show that our estimates
+
+do not change if we control for underlying determinants of Western Europe’s divergent growth
+
+after the 18th century. Furthermore, we also show that our results are robust to the exclusion of
+
+Western European countries from our sample.
+
+   A final concern with our potato suitability measure is whether the measure calculated in the
+
+1990s by the FAO is an accurate indicator of suitability two hundred years ago. The construction
+
+of the suitability measures gives us confidence that it is. The measures are based primarily on
+
+geographic characteristics that do not change over the period of our study, namely, temperature,
+  16 The results are very similar when we use 20% or 60% of the maximum yield as alternative cut-offs. They are not
+
+reported for sake of brevity.
+
+
+
+
+                                                        14

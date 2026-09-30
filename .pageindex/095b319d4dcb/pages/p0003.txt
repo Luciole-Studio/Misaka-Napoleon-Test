@@ -1,0 +1,17 @@
+
+
+## 三、只读到快照／题录的文献线索（未据以立论）
+
+24. **[S] *Outre-Mers. Revue d'histoire* 90:340–341 (2003), «Haïti Première République Noire», dir. Marcel Dorigny**（Persée，PDF 对本会话403）。已确认存在并记录页码的篇目：Dorigny 5–13；**Gainot & Macé「Fin de campagne à Saint-Domingue, novembre 1802-novembre 1803」15–40**；**Lentz「Bonaparte, Haïti et l'échec colonial du régime consulaire」41–60**；Lutz 61–81；Rogers 83–101；**Barthélémy「Aux origines d'Haïti: 'Africains' et paysans」103–120**；Midy 121–138；**Eugène「La normalisation des relations franco-haïtiennes (1825-1838)」139–154**；**Saint-Louis「Relations internationales et classe politique en Haïti (1784-1814)」155–175**；**Léo Elisabeth「Les relations entre les Petites Antilles françaises et Haïti…1804-1825」177–206**；Léonard 207–225；**Bohórquez「L'ambivalente présence d'Haïti dans l'indépendance du Vénézuéla」227–240**；**Blancpain「Note sur les 'dettes' de l'esclavage: le cas de l'indemnité payée par Haïti (1825-1883)」241–245**；附录247–254。
+25. **[S] Serge Daget, "Long cours et négriers nantais du trafic illégal, 1814-1833," *Outre-Mers* 62:226 (1975)**（Persée 快照）。引用的数字（南特占法国非法贩奴47%；1817–22增长；1824为峰年；1826转折）来自快照，**全文未读**。
+26. **[C] Serge Daget, *Répertoire des expéditions françaises à la traite illégale (1814-1850)*, Nantes 1988** — 经1990年 Persée 书评转引：1820年70次、1824年73次、1825年72次、1828年36次；1830年后由安的列斯船东接替。
+27. **[R] 南特城堡博物馆专题页**：1814–1831南特武装318艘贩奴船＝法国同期约70%。**与25的47%口径冲突，并列保留。**
+28. **[R] DUMAS 硕论《L'Atlantique et Nantes à l'époque de la traite illégale vers Cuba (1789-1831)》**（dumas-04830465，摘要与引言已读）：1815–17对古巴286次远征；法国商船队1816年14,412艘/435,000吨→1825年24,125艘/677,138吨。
+29. **[S] Laurent Dubois, «La résurrection de l'esclavage à la Guadeloupe (1802-1803)», Persée cbc_0989-5191_2003_num_53_1_1446**（检索快照含大段正文，**Persée 正文页只返回首页**）。本卡引用其转录的 Richepance 令文字时标为 [C]。
+30. **[S] Jean-François Niort & Jérémy Richard, «A propos de la découverte de l'arrêté consulaire du 16 juillet 1802…», *Bull. Soc. Hist. Guadeloupe* n°152 (2009) 31–59**（Érudit doi 10.7202/1036868ar，快照含大段正文）。
+31. **[S] Herbert S. Klein, "The Cuban Slave Trade in a Period of Transition, 1790-1843," *Outre-Mers* 62:226 (1975)**（Persée 快照）：1790–1819糖出口+147%而奴隶进口+578%；表1据 Humboldt《Ensayo político》1960版 pp.205–206 与 AGI Santo Domingo leg. 2207。
+32. **[S] *HAHR* 57:2 (1977), "Origins of Wealth and the Sugar Revolution in Cuba, 1750-1850"**（Duke UP 页面，含人口普查表与叙述）。
+33. **[S] *Business History Review*, "The Old Cuba Trade"**（Cambridge Core 摘要页，含 Reesse/Geerligs 1919 p.11 的各国糖产量、Erénchun 的阿罗瓦序列、1827普查）。
+34. **[S] B. W. Higman, *Slave Populations of the British Caribbean, 1807–1834*, JHU Press 1984**（archive.org 条目 slavepopulations0000higm，**借阅未取**）。
+35. **[S] Baron de Vastey, *Le système colonial dévoilé* (1814)** — PDF 存于 haiti-now.org；**仅读封面与题献页扫描OCR片段**。相关：Duke 藏1814–16海地印本11种（含《Manifeste du Roi》1814、《Réfutation de la lettre du général français Dauxion Lavaysse》1814），题录已记，正文未读。
+36. **[S] Cairn *AHRF* n°385 关于 Dauxion-Lavaysse 的论文**（shs.cairn.info/article/AHRF_385_0067，快照含大段正文，述马卢埃计划、克里斯托夫处决 Franco de Medina、Beugnot 否认使团）。本卡据快照记述该计划内容时标为 [C]。

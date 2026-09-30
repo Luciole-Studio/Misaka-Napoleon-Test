@@ -1,0 +1,29 @@
+
+
+## C 转引层（本卡未见原件，经 M1–M9 引用）
+- **AGI, Ultramar, 833**,「Razón de las cantidades que se han librado sobre las Cajas Reales de América desde el 2 de agosto de 1804 hasta 8 de febrero de 1808」—— 经 Calderón Quijano (1968) pp.242–243，再经 Marichal p.189 注 66。**本卡"2,000 万 pesos"上限锚点的原始出处。**
+- **AGN México, Correspondencia de Virreyes**, 1ª serie, vols. 233、236（exps. 1231、1253、1326、1328、1362、1510）——Iturrigaray 致 Soler 各信，经 Marichal 第五、六章。
+- **AGN México, Reales Cédulas Originales**, vols. 195–198 ——Soler 的支付令，经 Marichal。
+- **AGN México, Marina**, vol. 244 ——英舰运银，经 Marichal 表 6.2。
+- **José Canga Argüelles, *Diccionario de Hacienda*, vol. 1 (Madrid, 1833), p.162** ——表 7.4 的唯一来源，经 Marichal。
+- **Asunción Lavrin, "The Execution of the Laws of Consolidación in New Spain", *HAHR* 53:1 (1973)** ——表 4.2 的来源，经 Marichal。
+- **Reinhard Liehr, "Staatsverschuldung und Privatkredit: die consolidación de vales reales in Hispanoamerika", *Ibero-Amerikanisches Archiv* N.F. 6:2 (1980)** ——表 4.3 的来源，经 Marichal。
+- **Gisela von Wobeser, *Dominación colonial: la Consolidación de vales reales, 1804–1812* (UNAM, 2003)** ——12% 来自不动产拍卖，经 Marichal 注 97。
+- **M. G. Buist, *At Spes Non Fracta: Hope & Co. 1770–1815* (1974), pp.281–285, 306–309** ——8,484,375 pesos 的十张汇票、Hope 持约 1,000 万 pesos、75% 面值交付法国国库，经 Marichal 注 39/40/61/62。**本卡最大单点依赖，原书未获。**
+- **G. Jiménez Codinach, *La Gran Bretaña y la independencia de México*, p.211** ——Diana 货物在 Lloyd's 投保 £658,600，经 Marichal 注 79。
+- **G. Valle Pavón,《Consulado de Comerciantes》, p.616** ——商人行会性质转变的定性，经 Marichal p.257。
+- **Ramón de la Sagra, *Historia económico-política y estadística de la isla de Cuba* (Habana, 1831), pp.240–266, 277** ——烟草 situado 与 1760–1810 年一亿 pesos 烟叶，经 Marichal 注 58/59/63。
+- **H. S. Commager, *Documents of American History*, no.128, p.237** ——亚当斯 1823-04-28 致 Hugh Nelson 的"政治引力"原句，本卡经西班牙文转述读到，**未见英文原件**。
+- **J. Fontana & R. Garrabou, *Guerra y Hacienda*, p.97** ——1809–14 爱国政府收入结构，经 Marichal 注 65。
+- **Richard Salvucci, "Mexican National Income in the Era of Independence", p.225** ——1800 年人均生存收入 34 pesos，经 Marichal 注 5。
+
+## D 本卡指名、供 Last Order 分派其他 Sister 的待取材料
+1. **M. G. Buist, *At Spes non Fracta* (Martinus Nijhoff, 1974)**，尤其 Ch.9–10 与 pp.295–356。→ 建议交 **X1（Sister 10041）**，与其"Hope/Baring/Ouvrard 白银合同"任务重合。
+2. **Gisela von Wobeser, *Dominación colonial* (UNAM 2003)**，附录 1–5（pp.265–449）逐笔 Consolidación 明细。
+3. **TePaske & Klein, *Ingresos y egresos de la Real Hacienda de Nueva España*（及 TePaske–Klein/Klein *The American Finances of the Spanish Empire*）**——逐年国库序列。
+4. **Romero Sotelo,《El mercurio y la producción minera en la Nueva España, 1810-1821》**（Historia Mexicana 49:3, 2000, 349–377）。
+5. **Brian Hamnett, *Roots of Insurgency: Mexican Regions 1750–1824*；Timothy Anna, *The Fall of the Royal Government in Mexico City*；D. A. Brading, *Miners and Merchants in Bourbon Mexico 1763–1810*（archive.org 有借阅本 minersmerchantsi0000brad）。**
+6. **Jaime E. Rodríguez O., *The Independence of Spanish America*；Manuel Chust 编《1808: La eclosión juntera en el mundo hispano》。**
+7. **Allan J. Kuethe, *Cuba, 1753–1815: Crown, Military, and Society*；Moreno Fraginals, *El ingenio*（3 vols., Habana 1978），尤其 vol. III 的产量表。**
+8. **档案谱系（不冒称调阅）**：AGI Ultramar 833、AGI Cuba 1710/1747、AGN México（Consolidación、Préstamos y donativos、Caja Matriz、Correspondencia de Virreyes）、AHN Madrid Hacienda leg. 5848（荷兰债与对法债务索引，Marichal 称部分文件已佚）、ANF AF IV vols. 1082 与 1608（Ouvrard 汇票由 Michel、Séguin 等法国银行家赎回的记录——**这一条最可能直接给出"法国实得"的原始数字**）。
+9. **西班牙侧**：Archivo Histórico de Almadén / Minas de Almadén y Arrayanes 的 azogues 发运账；AGI Contratación 的 azogues 船期。→ 这是检验本卡"汞禁运"备选二的唯一直接路径。

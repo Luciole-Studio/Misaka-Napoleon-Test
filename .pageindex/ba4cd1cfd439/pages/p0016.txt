@@ -1,0 +1,51 @@
+
+
+31 For example, Protestantism in city j and Protestantism in city k separately, instead of the variable 0.5 × (Protestantism in city j + Protestantism in city k). 32 We have also included bilateral geographic distance in the reduced form, interacted with period dummies, as a control for differential changes in transport costs for short- versus long distance trade. The results are similar.
+
+1192 Keller and Shiue 
+The Impact of Customs Liberalizations on Trade 
+2XUHVWLPDWHRIWKHLPSDFWRIFXVWRPVOLEHUDOL]DWLRQRQWUDGHLVJLYHQE\ 
+Gl in equation 9: 
+
+Tradejkt = G1CustLibjkt + X Iȕ + Jjkt , (9)
+
+ZKHUH &XVWRPV /LEHUDOL]DWLRQ LV LQVWUXPHQWHG E\ 5HODWLYH 'LVWDQFH WR 
+Coast given in equation (4). The vector XLQFOXGHV\HDU¿[HGHIIHFWV Gt) 
+DQG FLW\ SDLU ¿[HG HIIHFWV Gjk). The method of estimation is two-stage k 
+least squares (TSLS). Results are given in Table 3. 
+7KH &XVWRPV /LEHUDOL]DWLRQ FRHI¿FLHQW LV QHJDWLYH DW DERXW ± 
+FROXPQ ZKLFK LQGLFDWHV WKDW FXVWRPV OLEHUDOL]DWLRQ KDV EURXJKW 
+down price gaps, by about 28 percent at the mean, and thus improved 
+trade. Inferences in column 1 are based on robust standard errors 
+consistent with arbitrary heteroskedasticity; the p-value of the customs 
+OLEHUDOL]DWLRQ HVWLPDWH LQGLFDWHV WKDW LW LV KLJKO\ VLJQL¿FDQW DW VWDQGDUG 
+levels. 
+:KDWDERXWWKH¿UVW VWDJHUHVXOWV")LUVWWKH)VWDWLVWLFLV VXJJHVWLQJ 
+the instrument is strong. The Relative Distance to Coast instrument has 
+DSRVLWLYHFRHI¿FLHQW 7KHVLJQFRQ¿UPVWKDWFLWLHVLQVWDWHVWKDWDUHIDU 
+away from the coast (such as München) tended to become members of 
+the Zollverein relatively early compared to cities close to the seaboard 
+(such as Hamburg or Bremen). 
+We also report the OLS estimate of Gl, which would be preferred to 
+76/6 EHFDXVH RIORZHU YDULDQFH LI FXVWRPV OLEHUDOL]DWLRQV KDG EHHQ 
+H[RJHQRXV 7KH2/6HVWLPDWHLVDURXQG± FORVHUWR]HURFRPSDUHG 
+to the TSLS estimate. This may be in part because the IV approach 
+addresses the attenuation bias from the measurement error in the 0/1 
+FXVWRPV OLEHUDOL]DWLRQ YDULDEOH ZKLFK GRHV QRW XVH WKH VSHFL¿F VL]H RI 
+WKHWDULIIFXWVLQHDFKOLEHUDOL]DWLRQ $WHVWRIHQGRJHQHLW\LQGLFDWHVWKDW 
+WKHQXOORIH[RJHQHLW\FDQEHUHMHFWHGDWVWDQGDUGOHYHOVRIVLJQL¿FDQFH 
+Because there is evidence that OLS estimates are inconsistent, the discus 
+sion will focus on the TSLS estimates. 
+Let us now turn to the magnitude of our IV estimate of around –0.05. 
++RZUHDVRQDEOHLVWKLV"7KH,9HVWLPDWHLVDERXWWKUHHWLPHVWKHVL]HRI 
+WKH2/6HVWLPDWH $WWKHVDPHWLPH WKH2/6HVWLPDWHLVFORVHWR]HUR 
+VR D WULSOLQJ RIWKLV VL]H LV VWLOO QRW D YHU\ ODUJH QXPEHU 7R SXW WKLV LQ 
+SHUVSHFWLYH WKH FXVWRPV OLEHUDOL]DWLRQ HIIHFW ZKLOH VL]DEOH LV VPDOOHU 
+than the trade impact of railroads in nineteenth century Germany found 
+
+TABLE 3 THE IMPACT OF THE ZOLLVEREIN LIBERALIZATIONS
+
+| | | | | | | | (2) | | (3) | | | | (4) | | | | (5) | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | (1) | | | City-pair | | | City | | | | 6L]H | | | | No | | | | |
+| | | Robust | | | | Clustering | | Clustering | | | | weights | | | | Prussia | | | | | |

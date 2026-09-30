@@ -1,0 +1,27 @@
+# C17 有界日历核查：1805联盟—东调—乌尔姆；1806–07补证
+
+## 范围与读本
+【事实：本次工作记录】仅核读本地材料，无网络新搜，无搜索摘要引用；不估概率，不编反事实后续，不宣告整个季度表通过。行号从文件第一行起算。英文引文只合并OCR断行及多余空格；未对校扫描图。以下“事实”指所读文献明确记载，非亲查档案原件。
+
+原始材料路径（均相对于项目根目录）：
+- **C**：`downloads/c11_corbett.txt`，Julian S. Corbett, *The Campaign of Trafalgar*；出版转录/OCR。
+- **F**：`downloads/c11_fortescueV.txt`，J. W. Fortescue, *A History of the British Army*, V；出版转录/OCR。
+- **J**：`downloads/pages/b8bc84d9143a.md`，Fondation Napoléon《The twin battles of Jena and Auerstedt, 14 October, 1806》，网页正文年表，源URL保存在文件头。
+- **P**：`downloads/pages/ddef576b0be2.md`，Peter Hicks《The wars of the ‘Fourth Coalition’: part one, the Polish Campaign》，网页正文文章，**不是1807逐日年表**。
+- 补证 **I**：`downloads/pages/fcff28bd1292.md`，Jean Calmard, “GARDANE MISSION”, *Encyclopaedia Iranica*，正文，源URL及作者见行1–20。
+- 已复用并检查 `nodes/r_b55f2c1cf5/cards/t_2c338c/fleetplans.md`；它是项目笔记，不当独立史料。其补记已覆盖“Corbett未读”的旧状态，引用时不能把旧状态与补记混用。
+
+## 一、1805年日期链
+
+| 时间／季度 | 已读原文与定位 | 限定 |
+|---|---|---|
+| **4月11日，Q2：英俄条约签署** | 【事实：转引自C，附录A】6月7日给Leveson-Gower的指示写：“arrangements proposed in the Treaty signed on the 11th of April”。C行21721–21739，附录题名为“PITT'S INSTRUCTIONS TO LORD G. LEVESON-GOWER”，来源标“Foreign Office. Russia. 58.” | 是同期文书的出版转引；未亲查FO原件。只能据此确认签署日，不能把批准、生效、奥方加入一并前移到4月。 |
+| **8月9日，Q3：奥方正式加入** | 【事实：据F，p.263】“On the 9 th of August that power formally joined the alliance with Russia and England”；F行13671–13674。 | 本次依据史家叙述，未读奥方加入文书原件；不能混同此前俄奥接触或动员。 |
+| **8月13日：暂停入侵的表述** | 【事实：据F，p.263】“he informed Talleyrand that he had suspended the invasion of England in order to defend his southern frontiers.” F行13674–13678。 | 是对塔列朗的表态，非全军同日解营证明；同页仍有后续召舰赴海峡的信件。 |
+| **8月22日：F所记初次解营／向乌尔姆命令** | 【事实：据F，p.263】先给8月22日信日期，继写：“Yet on this very same day he gave his first orders for the army to break up and march upon Ulm”；F行13679–13685。 | 与C的分阶段日期有差别，见下文；不径定所有东调均始于22日。 |
+| **8月23日：C所录转向决定** | 【事实：转引自C，pp.274–275】“My decision is made.”；“I strike my camps and replace my war battalions by my third battalions”。C行13786–13820；该信脚注行13842标“Correspondance, xi. 117, Aug. 23rd.” | 同信仍说若舰队到来“there is still time”。决定转向与最后的海上希望在文字上并存；不能把它画成一个毫无重叠的切换瞬间。 |
+| **8月25日：告知入侵告终；8月26日：Berthier收到行军命令** | 【事实：据C，pp.276–277】“on the 25 th Napoleon informed Talleyrand that all was over with the invasion”；“Berthier received the marching orders on August 26 th”。C行13858–13904。 | C还写此前向Berthier发出维也纳路线；其“On the morrow”承接复杂，本次不擅补一个精确发令日。明确可用的是25日表态、26日收令。 |
+| **8月下旬解营，9月初外界获报** | 【事实：据C】一名9月2日离开布洛涅的船长称部队“had marched off into the country six days before”。C行14548–14556。 | 倒算指向8月27日，但只是被截船长报告，不是全军逐部出发日志。F的“by the 1st of September not a man was left at Boulogne”（行13685–13686）不可字面化为港区零驻军。 |
+| **9月1日：拿破仑确知Villeneuve退到Cadiz** | 【事实：据C，p.278】“It was on September 1st the news reached him that Villeneuve had actually retired to Cadiz”；C行13959–13969。 | 到港事件、消息抵达、陆军决定必须分列；C明确说东调决定先于确讯。 |
+| **10月7日，Q4：到达Mack后方多瑙河** | 【事实：据F，p.271】“by the 7th of October one hundred thousand men had reached the Danube in his rear”；F行14035–14042。 | 这是作者所述特定到达节点，非逐军渡莱茵日程；人数未在本核查独立验算。 |
+| **10月20日：乌尔姆投降** | 【事实：据F，p.272】“Finally on the 20th of October came the crowning disaster, when Mack surrendered”；F行14048–14055。 | 所读段落不给较早谈判／签订投降条件日，不能声称已排除其他日期口径。 |

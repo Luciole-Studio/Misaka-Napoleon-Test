@@ -1,0 +1,128 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: X2_enforcement_model.csv
+
+```meta
+▸ table "X2_enforcement_model.csv" (131 data rows)
+▸ columns
+    block: str, 4 uniq: ['A', 'B', 'C', 'D']
+    item: str, 131 uniq, first 20: ['AVE_high::Coast→Düsseldorf/Mainz/Frankfurt 1810-09 (保险+运输)', 'AVE_high::France frontier 1809 (general)', 'AVE_high::Rees–Bremen line 1809', 'AVE_high::Rhine 1798-12', 'AVE_high::Rhine 1800', 'AVE_high::Rhine 1801-02', 'AVE_high::Rhine 1806-10→1808-06', 'AVE_high::Rhine 1809-07', 'AVE_high::Rhine 1809末→1811', 'AVE_high::Rhine Consulate(Eichhoff)', 'AVE_high::Strasbourg top-grade insurer 1809', 'AVE_low::Coast→Düsseldorf/Mainz/Frankfurt 1810-09 (保险+运输)', 'AVE_low::France frontier 1809 (general)', 'AVE_low::Rees–Bremen line 1809', 'AVE_low::Rhine 1798-12', 'AVE_low::Rhine 1800', 'AVE_low::Rhine 1801-02', 'AVE_low::Rhine 1806-10→1808-06', 'AVE_low::Rhine 1809-07', 'AVE_low::Rhine 1809末→1811']
+    value: num, min=-80, max=35000
+    unit: str, 12 uniq: ['%', '% ad valorem', '% of value', 'fr', 'fr/kg', 'km', 'm fr', 'm fr/yr', 'men', 'men/100k', 'men/km', 'ratio']
+    kind: str, 2 uniq: ['MODEL', 'OBS']
+    source: str, 42 uniq, first 20: ['= 27,200×500fr / 11.6m', '= 3.5 / (1-0.80)', '= 300fr/100kg ÷ 伦敦价', '= 30750 * on_post_share / frontier_km', '= 30750 / frontier_km', '= 3200/700', '= 35,000 × 500 fr × 乘数', '= 97 − 严格版关税', '= 保费 + 绕道运输附加', '= 巴黎价 − (伦敦价 + 特里亚农原糖税)', '= 张数 × 费率', '= 纯薪成本 / 1809年关税净收', '= 莱比锡糖涨幅 / (1 - 不来梅麦跌幅)', 'AHAD/Cahiers n°24 (二手)', 'F4卡 t_9f10b6 补订②', 'F4卡（普通35.881+非常61.046）', 'Grab2015 p.106 (Prina)', 'Heckscher App.II 页图', 'Heckscher p.194', 'Heckscher p.194 (40–50中值)']
+    note: str, 26 uniq, first 20: ['1809年是体系最严格、收入最低的年份：光工资就吃掉关税收入的百倍量级以上（注：1809年编制为27,200非35,000，见下行敏感性）', '与合法渠道的特里亚农税率比较', '乘数含军官/总监薪级、兵站、船只、武器、诉讼与监狱成本；下界为纯普通员薪', '仅关税项，不含税基损伤（F4另给−60至−110m/年）', '以糖换麦的实物贸易条件恶化约9倍（同一大陆内部，非跨境）', '优先线密度约为帝国平均的1.5–2倍，与Rowe定性叙述一致', '低阈值：与萨克森/瑞士/阿尔萨斯同类品成本差约三成', '占巴黎价 37.5%；含运费、保险(走私保费)、许可证费、中间商垄断租与库存投机；不等于净走私利润', '占巴黎价 45.6%；含运费、保险(走私保费)、许可证费、中间商垄断租与库存投机；不等于净走私利润', '占巴黎价 58.3%；含运费、保险(走私保费)、许可证费、中间商垄断租与库存投机；不等于净走私利润', '占巴黎价 63.8%；含运费、保险(走私保费)、许可证费、中间商垄断租与库存投机；不等于净走私利润', '在册人，非同时在岗', '张数为情景假设，非观测；用以给许可证财政的量级上下界', '按1812年疆界分段估计；海岸线长度随量尺变化，故给三档', '梅梅尔口径', '每名哨兵负责 0.74 公里', '每名哨兵负责 0.93 公里', '每名哨兵负责 1.16 公里', '每名哨兵负责 1.21 公里', '每名哨兵负责 1.3 公里']
+```
+block,item,value,unit,kind,source,note
+A,customs_agents_total_1812,35000,men,OBS,Rowe2015 p.187,
+A,customs_bureau_1812,4000,men,OBS,Rowe2015 p.187,
+A,customs_brigades_1812,30750,men,OBS,Rowe2015 p.187,
+A,rhine_brigade_men,3200,men,OBS,Rowe2015 p.187,
+A,rhine_density_per_100k_pop,241,men/100k,OBS,Rowe2015 p.187,
+A,frontier_km_low,8000,km,MODEL,本卡构造,按1812年疆界分段估计；海岸线长度随量尺变化，故给三档
+A,brigade_men_per_km_low,3.84,men/km,MODEL,= 30750 / frontier_km,在册人，非同时在岗
+A,frontier_km_mid,10000,km,MODEL,本卡构造,按1812年疆界分段估计；海岸线长度随量尺变化，故给三档
+A,brigade_men_per_km_mid,3.08,men/km,MODEL,= 30750 / frontier_km,在册人，非同时在岗
+A,frontier_km_high,13000,km,MODEL,本卡构造,按1812年疆界分段估计；海岸线长度随量尺变化，故给三档
+A,brigade_men_per_km_high,2.37,men/km,MODEL,= 30750 / frontier_km,在册人，非同时在岗
+A,sentries_per_km_frontierlow_sharelow,0.769,men/km,MODEL,= 30750 * on_post_share / frontier_km,每名哨兵负责 1.3 公里
+A,sentries_per_km_frontierlow_sharemid,1.076,men/km,MODEL,= 30750 * on_post_share / frontier_km,每名哨兵负责 0.93 公里
+A,sentries_per_km_frontierlow_sharehigh,1.345,men/km,MODEL,= 30750 * on_post_share / frontier_km,每名哨兵负责 0.74 公里
+A,sentries_per_km_frontiermid_sharelow,0.615,men/km,MODEL,= 30750 * on_post_share / frontier_km,每名哨兵负责 1.63 公里
+A,sentries_per_km_frontiermid_sharemid,0.861,men/km,MODEL,= 30750 * on_post_share / frontier_km,每名哨兵负责 1.16 公里
+A,sentries_per_km_frontiermid_sharehigh,1.076,men/km,MODEL,= 30750 * on_post_share / frontier_km,每名哨兵负责 0.93 公里
+A,sentries_per_km_frontierhigh_sharelow,0.473,men/km,MODEL,= 30750 * on_post_share / frontier_km,每名哨兵负责 2.11 公里
+A,sentries_per_km_frontierhigh_sharemid,0.662,men/km,MODEL,= 30750 * on_post_share / frontier_km,每名哨兵负责 1.51 公里
+A,sentries_per_km_frontierhigh_sharehigh,0.828,men/km,MODEL,= 30750 * on_post_share / frontier_km,每名哨兵负责 1.21 公里
+A,rhine_line_km,700,km,MODEL,本卡构造,
+A,rhine_men_per_km,4.57,men/km,MODEL,= 3200/700,优先线密度约为帝国平均的1.5–2倍，与Rowe定性叙述一致
+B,paris_sugar_1810,8.0,fr/kg,OBS,Heckscher p.292,
+B,paris_sugar_late,12.0,fr/kg,OBS,Heckscher p.292,
+B,london_sugar_1812_low,1.35,fr/kg,OBS,Heckscher p.292,
+B,london_sugar_1812_high,2.0,fr/kg,OBS,Heckscher p.292,
+B,trianon_duty_sugar_raw,3.0,fr/kg,OBS,Heckscher App.II 页图,
+B,trianon_duty_sugar_clay,4.0,fr/kg,OBS,Heckscher App.II 页图,
+B,residual_rent_1810_lowLondon,3.65,fr/kg,MODEL,= 巴黎价 − (伦敦价 + 特里亚农原糖税),占巴黎价 45.6%；含运费、保险(走私保费)、许可证费、中间商垄断租与库存投机；不等于净走私利润
+B,residual_share_1810_lowLondon,45.6,%,MODEL,residual / paris_price,
+B,residual_rent_1810_highLondon,3.0,fr/kg,MODEL,= 巴黎价 − (伦敦价 + 特里亚农原糖税),占巴黎价 37.5%；含运费、保险(走私保费)、许可证费、中间商垄断租与库存投机；不等于净走私利润
+B,residual_share_1810_highLondon,37.5,%,MODEL,residual / paris_price,
+B,residual_rent_late_lowLondon,7.65,fr/kg,MODEL,= 巴黎价 − (伦敦价 + 特里亚农原糖税),占巴黎价 63.8%；含运费、保险(走私保费)、许可证费、中间商垄断租与库存投机；不等于净走私利润
+B,residual_share_late_lowLondon,63.8,%,MODEL,residual / paris_price,
+B,residual_rent_late_highLondon,7.0,fr/kg,MODEL,= 巴黎价 − (伦敦价 + 特里亚农原糖税),占巴黎价 58.3%；含运费、保险(走私保费)、许可证费、中间商垄断租与库存投机；不等于净走私利润
+B,residual_share_late_highLondon,58.3,%,MODEL,residual / paris_price,
+B,leipzig_sugar_1813_over_1806,3.5,ratio,OBS,Heckscher p.292,
+B,leipzig_indigo_typical,2.0,ratio,OBS,Heckscher pp.289–290 (转引König),
+B,leipzig_indigo_max,5.0,ratio,OBS,Heckscher pp.289–290 (转引König),
+B,memel_corn_fall_1806_1810_low,-60.0,%,OBS,Heckscher p.319 (转引Hoeniger),
+B,memel_corn_fall_1806_1810_high,-80.0,%,OBS,Heckscher p.319,
+B,bremen_wheat_fall_1806_1811,-62.0,%,OBS,Heckscher p.319 (转引Schäfer表IX),
+B,tot_shock_colonial_over_grain_low,9.21,ratio,MODEL,= 莱比锡糖涨幅 / (1 - 不来梅麦跌幅),以糖换麦的实物贸易条件恶化约9倍（同一大陆内部，非跨境）
+B,tot_shock_colonial_over_grain_high,17.5,ratio,MODEL,= 3.5 / (1-0.80),梅梅尔口径
+C,smuggling_premium::Rhine 1798-12,6.0,% of value,OBS,Rowe2015 p.189 n.6 (Wirion),
+C,smuggling_premium::Rhine 1800,6.0,% of value,OBS,Rowe2015 p.195 n.27,
+C,smuggling_premium::Rhine 1801-02,10.0,% of value,OBS,Rowe2015 p.195 n.27,
+C,smuggling_premium::Rhine Consulate(Eichhoff),15.0,% of value,OBS,Rowe2015 pp.188-189 n.5 (10/15/20区间中值),
+C,smuggling_premium::Rhine 1806-10→1808-06,26.0,% of value,OBS,Rowe2015 p.195 n.27,
+C,smuggling_premium::Rhine 1809-07,30.0,% of value,OBS,Rowe2015 p.195 n.27,
+C,smuggling_premium::Rhine 1809末→1811,50.0,% of value,OBS,Rowe2015 p.195 n.27,
+C,smuggling_premium::France frontier 1809 (general),30.0,% of value,OBS,Heckscher p.194,
+C,smuggling_premium::Strasbourg top-grade insurer 1809,45.0,% of value,OBS,Heckscher p.194 (40–50中值),
+C,smuggling_premium::Rees–Bremen line 1809,7.0,% of value,OBS,Rowe2015 p.195 n.26 / Heckscher p.194 (6–8中值),
+C,smuggling_premium::Coast→Düsseldorf/Mainz/Frankfurt 1810-09 (保险+运输),50.0,% of value,OBS,Rowe2015 pp.197-198 n.34,
+C,AVE_low::Rhine 1798-12,11.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_mid::Rhine 1798-12,18.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_high::Rhine 1798-12,31.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_low::Rhine 1800,11.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_mid::Rhine 1800,18.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_high::Rhine 1800,31.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_low::Rhine 1801-02,15.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_mid::Rhine 1801-02,22.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_high::Rhine 1801-02,35.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_low::Rhine Consulate(Eichhoff),20.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_mid::Rhine Consulate(Eichhoff),27.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_high::Rhine Consulate(Eichhoff),40.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_low::Rhine 1806-10→1808-06,31.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_mid::Rhine 1806-10→1808-06,38.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_high::Rhine 1806-10→1808-06,51.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_low::Rhine 1809-07,35.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_mid::Rhine 1809-07,42.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_high::Rhine 1809-07,55.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_low::Rhine 1809末→1811,55.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_mid::Rhine 1809末→1811,62.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_high::Rhine 1809末→1811,75.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_low::France frontier 1809 (general),35.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_mid::France frontier 1809 (general),42.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_high::France frontier 1809 (general),55.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_low::Strasbourg top-grade insurer 1809,50.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_mid::Strasbourg top-grade insurer 1809,57.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_high::Strasbourg top-grade insurer 1809,70.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_low::Rees–Bremen line 1809,12.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_mid::Rees–Bremen line 1809,19.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_high::Rees–Bremen line 1809,32.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_low::Coast→Düsseldorf/Mainz/Frankfurt 1810-09 (保险+运输),55.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_mid::Coast→Düsseldorf/Mainz/Frankfurt 1810-09 (保险+运输),62.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,AVE_high::Coast→Düsseldorf/Mainz/Frankfurt 1810-09 (保险+运输),75.0,% ad valorem,MODEL,= 保费 + 绕道运输附加,与合法渠道的特里亚农税率比较
+C,trianon_AVE_sugar_londonbase_1.35,222.0,% ad valorem,MODEL,= 300fr/100kg ÷ 伦敦价,特里亚农原糖税的从价等价 150%–222%，远高于任何观测到的走私保费→ 合法渠道在价格上始终劣于走私渠道，除非走私被物理封死
+C,trianon_AVE_sugar_londonbase_2.0,150.0,% ad valorem,MODEL,= 300fr/100kg ÷ 伦敦价,特里亚农原糖税的从价等价 150%–222%，远高于任何观测到的走私保费→ 合法渠道在价格上始终劣于走私渠道，除非走私被物理封死
+C,uncompetitive_threshold_low,35.0,% ad valorem,MODEL,本卡构造,低阈值：与萨克森/瑞士/阿尔萨斯同类品成本差约三成
+C,uncompetitive_threshold_high,60.0,% ad valorem,MODEL,本卡构造,高阈值：英国纱线成本优势较大的品类
+D,french_customs_net_1806,51.2,m fr,OBS,Heckscher p.197,
+D,french_customs_net_1807,60.6,m fr,OBS,Heckscher p.197,
+D,french_customs_net_1808,18.6,m fr,OBS,Heckscher p.197,
+D,french_customs_net_1809,11.6,m fr,OBS,Heckscher p.197,
+D,customs_trianon_to_end1811,105.9,m fr,OBS,Heckscher p.221,
+D,marion_extraordinary_0810_0112,105.927667,m fr,OBS,Marion IV p.306 via F4卡,
+D,auction_cash_1810_rest,150.0,m fr,OBS,Heckscher p.222 (转引Thiers),
+D,holstein_inkind,19.7,m fr,OBS,Heckscher p.226,
+D,holstein_total,42.5,m fr,OBS,Heckscher p.226,
+D,frankfurt_oct1810_yield,9.0,m fr,OBS,Heckscher p.226 (转引Darmstädter),
+D,burnt_goods_hanse_bremen,4.5,m fr,OBS,Heckscher p.229 (Servières/Schäfer),
+D,burnt_goods_italy_1811,0.230109,m fr,OBS,Grab2015 p.106 (Prina),
+D,S3strict_total_customs_low,15.0,m fr/yr,OBS,F4卡 t_9f10b6 补订②,
+D,S3strict_total_customs_high,35.0,m fr/yr,OBS,F4卡 t_9f10b6 补订②,
+D,S0_1810_total_customs,97.0,m fr,OBS,F4卡（普通35.881+非常61.046）,
+D,S3strict_customs_loss_vs1810_low,82.0,m fr/yr,MODEL,= 97 − 严格版关税,仅关税项，不含税基损伤（F4另给−60至−110m/年）
+D,S3strict_customs_loss_vs1810_high,62.0,m fr/yr,MODEL,= 97 − 严格版关税,仅关税项，不含税基损伤（F4另给−60至−110m/年）
+D,prepose_annual_salary,500.0,fr,OBS,Rowe2015 p.191,
+D,customs_payroll_cost_wage_only,17.5,m fr/yr,MODEL,"= 35,000 × 500 fr × 乘数",乘数含军官/总监薪级、兵站、船只、武器、诉讼与监狱成本；下界为纯普通员薪
+D,customs_payroll_cost_with_overhead_1_6,28.0,m fr/yr,MODEL,"= 35,000 × 500 fr × 乘数",乘数含军官/总监薪级、兵站、船只、武器、诉讼与监狱成本；下界为纯普通员薪

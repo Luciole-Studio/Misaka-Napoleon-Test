@@ -1,0 +1,44 @@
+
+
+### N0904　拿破仑致Champagny及附NOTE，1809年9月4日
+- URL：https://napoleon-histoire.com/correspondance-de-napoleon-ier-septembre-1809/
+- 本地：`downloads/pages/064046ec6241.md` L154–175，实际读信与附照会。
+- 原句：“En demandant la Bohême, j’ai pour raison de laisser croire que c’est convenu avec la Russie”；“cède à la Saxe les cercles de Leitmeritz, de Saatz et d’Elnbogen”。Theresienstadt留奥。
+- 所证：具体三圈割让有案，且含假示俄方同意的谈判策略；不是波希米亚全境独立、不是终局签署。网页未列原书信号，本卡不补造。
+
+### V09　Albert Vandal，1892年卷
+- *Napoléon et Alexandre Ier: L’alliance russe sous le Premier Empire*，卷II，1809—Le second mariage de Napoléon—Déclin de l’alliance；Gutenberg 31260转录版；卷内标1892年12月呈缴。
+- URL：https://www.gutenberg.org/files/31260/31260-h/31260-h.htm
+- 本地：`downloads/pages/35dcb892b38d.md`（旧卡复用），doc `35dcb892b38d`；实际读第四章La paix de Vienne开头与§I，L782–824，其他章未通读。
+- 原句：“ériger la Galicie en État distinct, en royaume séparé ... le grand-duc de Würtzbourg”；注154/156指外交档案Vienne384，注155指Correspondance15676，注157 Caulaincourt1809-09-13。
+- 限制：本卡读的是19世纪外交史作者对档案的转述，不是档案原件。有关更换弗朗茨的细节仅据章内容提纲与已读语境，用作有争议的威胁策略，低于N0904具体信件。
+
+### MM　梅特涅文集卷I，1881第三版
+- *Mémoires, documents et écrits divers laissés par le prince de Metternich*，其子Richard刊、A.de Klinkowstroem编，Paris:E.Plon，troisième édition，t.I，1881。
+- IA来源标记：http://www.archive.org/details/mmoiresdocumen01mett
+- 本地：`downloads/f1_metternich_memoires_t1.txt`；doc `b7a6ca84dc9a`；实际读索引页71–74＝印约93–98，并读扉页确认版本。初笔记误写1880已更正。
+- 印94：“conservation du noyau ... l’Empire d’Autriche”；拿破仑“une digue contre les efforts de l’anarchie”。印97所述弗朗茨话：“quelques années de paix politique ... guérir ses blessures”。
+- **回溯性自传**，不是1809当天日记；不把“早已预见法败”作为真实预见能力。关于玛丽路易丝自愿的叙述也是男性政治人的自我呈现，未作她本人自由选择的直接证据。
+
+### MH81　Claude Michaud评Domokos Kosáry，1981
+- 书评对象*Napoléon et la Hongrie*，Budapest:Akadémiai Kiadó，1979，122页；*Revue d’histoire moderne et contemporaine* 28(3)，1981，530–531。网页OCR将Kosáry误为Rosáry。
+- URL：https://www.persee.fr/doc/rhmc_0048-8003_1981_num_28_3_1162_t1_0530_0000_1
+- 本地：`downloads/pages/3f4aaa790362.md`，实际全文读。
+- 提及Talleyrand试把奥国导向东方、作为抗俄屏障的设想；不证有可执行瓜分地图。使员Lacuée之语（书评再转引）：“l’indépendance des nobles et l’asservissement des paysans”。另一个使员判断贵族更惧革命；1809宣言未带来贵族倒戈，少量拒役/逃兵、Berzeviczy草案未抵拿破仑。
+- 限制：没有读Kosáry全书；不把批判者反事实“若找农民更好”当事实。与Nagy部分同源，非两次独立民意调查。
+
+## 二、财政、法律、经济与资源
+
+### AX91　Roland Axtmann，1991
+- *Geopolitics and internal power structures: The state, police and public order in Austria and Ireland in the late 18th century*，LSE博士论文，1991。
+- URL：https://researchonline.lse.ac.uk/id/eprint/132265/1/U062406.pdf
+- 本地：`downloads/A_Axtmann1991_Austria_Ireland.pdf`；doc `404e0e6ff417`；SHA256 `404e0e6ff4178381e6628dca11bf23797b185d58bc77a063870990d45949d016`。
+- 实读财政附录PDF262–268＝印259–265及书目Beer条；**页图核**PDF262/265/267三张表。全文566页未全读。
+- 统一使用：VI.1列IV收入；VI.2列II支出；VI.3列IV军费，均经Beer *Die Finanzen Oesterreichs*, Prague1877，pp.390–392年平均银值转换。原注“average annual value of the BZ measured in fl CM”；总支出“debt repayments and redemption of Bancozettel not included”。
+- 限制：转Beer未亲核原书；不同列的Czoernig/Schmidt-Brentano不可混合；表总标题CM不能覆盖1811个别WW格注；银值≠不变购买力，地区疆界有变。
+
+### C11　Wien Geschichte Wiki，《Staatsbankrott 1811》
+- URL：https://www.geschichtewiki.wien.gv.at/Staatsbankrott_1811
+- 本地：`downloads/pages/2226957c29b6.md`，实际全文读。
+- 承重：1811-02-20财政敕令、03-15公布、5:1换Einlösungsscheine、合同换算表、1813预支税券、1816银行整顿。
+- 书目指向ALEX原令、Wilhelm König1918、Jobst/Kernbauer2016 pp.31–35；本卡未把这些目录当已读原件。

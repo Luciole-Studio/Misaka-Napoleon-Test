@@ -1,0 +1,100 @@
+{
+  "method": "deterministic accounting, no fitted parameters",
+  "rows": 479,
+  "packages": [
+    {
+      "package": "P0",
+      "line": 15,
+      "frigates": 25,
+      "small_cruisers": 60,
+      "other_personnel": 7000,
+      "total_personnel": 30350,
+      "cost_low": 6579750,
+      "cost_high": 9186750
+    },
+    {
+      "package": "A_low",
+      "line": 45,
+      "frigates": 50,
+      "small_cruisers": 60,
+      "other_personnel": 10000,
+      "total_personnel": 59850,
+      "cost_low": 9087250,
+      "cost_high": 12284250
+    },
+    {
+      "package": "A_high",
+      "line": 70,
+      "frigates": 75,
+      "small_cruisers": 90,
+      "other_personnel": 12000,
+      "total_personnel": 88400,
+      "cost_low": 11514000,
+      "cost_high": 15282000
+    },
+    {
+      "package": "W_low",
+      "line": 100,
+      "frigates": 100,
+      "small_cruisers": 200,
+      "other_personnel": 15000,
+      "total_personnel": 130000,
+      "cost_low": 15050000,
+      "cost_high": 19650000
+    },
+    {
+      "package": "W_high",
+      "line": 115,
+      "frigates": 115,
+      "small_cruisers": 230,
+      "other_personnel": 15000,
+      "total_personnel": 147250,
+      "cost_low": 16516250,
+      "cost_high": 21461250
+    },
+    {
+      "package": "E",
+      "line": 125,
+      "frigates": 125,
+      "small_cruisers": 260,
+      "other_personnel": 16000,
+      "total_personnel": 160850,
+      "cost_low": 17672250,
+      "cost_high": 22889250
+    }
+  ],
+  "thresholds": [
+    {
+      "french_deployable_pressure": 40,
+      "UK_sea_hulls_low": 68,
+      "UK_sea_hulls_high": 98,
+      "UK_task_lines_low": 57,
+      "UK_task_lines_high": 73
+    },
+    {
+      "french_deployable_pressure": 60,
+      "UK_sea_hulls_low": 92,
+      "UK_sea_hulls_high": 130,
+      "UK_task_lines_low": 78,
+      "UK_task_lines_high": 97
+    },
+    {
+      "french_deployable_pressure": 80,
+      "UK_sea_hulls_low": 117,
+      "UK_sea_hulls_high": 162,
+      "UK_task_lines_low": 99,
+      "UK_task_lines_high": 121
+    },
+    {
+      "french_deployable_pressure": 100,
+      "UK_sea_hulls_low": 142,
+      "UK_sea_hulls_high": 194,
+      "UK_task_lines_low": 120,
+      "UK_task_lines_high": 145
+    }
+  ],
+  "annual_source_loaded": true,
+  "annual_complete_rows": 7,
+  "paired_response_rows": 16,
+  "skill_audit": "econ-integrity data_provenance audit passed metadata presence; not source validation"
+}

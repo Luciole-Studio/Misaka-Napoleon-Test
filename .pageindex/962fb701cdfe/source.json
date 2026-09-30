@@ -1,0 +1,873 @@
+{
+ "warning": "key falsifier failed; numerical model prediction withheld by contract",
+ "rows": [
+  {
+   "region": "北意伦巴第",
+   "scenario": "A_藩属",
+   "conditions": {
+    "T": 0,
+    "R": 0,
+    "E": 1,
+    "O": 0,
+    "S": 0,
+    "D": 1
+   },
+   "analogue_config": "0010",
+   "analogue_n": 4,
+   "analogue_mass_rate": 0.25,
+   "analogue_sustained_rate": 0.0,
+   "analogue_cases": [
+    "BE1802",
+    "NL1811",
+    "HH1806",
+    "PL1807"
+   ],
+   "policy_bundle_n": 3,
+   "policy_bundle_mass_rate": 0.33,
+   "policy_bundle_cases": [
+    "BG1813",
+    "BA1813",
+    "PL1807"
+   ],
+   "judgement_band_mass": [
+    0.15,
+    0.3
+   ],
+   "judgement_band_sustained": [
+    0.0,
+    0.05
+   ],
+   "band_basis": "1809威尼托与艾米利亚先例显示新间接税+奥军入境即可触发;无此二者则以IT王国常态计",
+   "flip_evidence": "若磨粉税式新消费税再开或奥军重返波河;若本地府长体系被法籍官员替换",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "北意伦巴第",
+   "scenario": "P_缓和并合",
+   "conditions": {
+    "T": 0,
+    "R": 0,
+    "E": 1,
+    "O": 0,
+    "S": 1,
+    "D": 0
+   },
+   "analogue_config": "0010",
+   "analogue_n": 4,
+   "analogue_mass_rate": 0.25,
+   "analogue_sustained_rate": 0.0,
+   "analogue_cases": [
+    "BE1802",
+    "NL1811",
+    "HH1806",
+    "PL1807"
+   ],
+   "policy_bundle_n": 1,
+   "policy_bundle_mass_rate": 0.0,
+   "policy_bundle_cases": [
+    "NL1799"
+   ],
+   "judgement_band_mass": [
+    0.25,
+    0.45
+   ],
+   "judgement_band_sustained": [
+    0.03,
+    0.1
+   ],
+   "band_basis": "类比0010格(BE1802/NL1811/HH1806/PL1807)4例中1例大起义;主权破坏提高但无宗教与地形放大",
+   "flip_evidence": "若并合同时撤换本地精英则上调;若奥地利被彻底中立化且十年无新税则下调",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "北意伦巴第",
+   "scenario": "H_强制并合",
+   "conditions": {
+    "T": 0,
+    "R": 1,
+    "E": 1,
+    "O": 1,
+    "S": 1,
+    "D": 1
+   },
+   "analogue_config": "0111",
+   "analogue_n": 2,
+   "analogue_mass_rate": 1.0,
+   "analogue_sustained_rate": 0.5,
+   "analogue_cases": [
+    "VE1809",
+    "EM1809"
+   ],
+   "policy_bundle_n": 1,
+   "policy_bundle_mass_rate": 0.0,
+   "policy_bundle_cases": [
+    "RM1809"
+   ],
+   "judgement_band_mass": [
+    0.7,
+    0.9
+   ],
+   "judgement_band_sustained": [
+    0.15,
+    0.3
+   ],
+   "band_basis": "类比0111格(VE1809/EM1809)2例皆大起义、1例跨季;Woolf印p232蒂罗尔蔓延布雷西亚以北由新消费税推动",
+   "flip_evidence": "若对教会采取专约式妥协则R归零;若奥军无力进抵则sustained上界减半",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "德意志西部",
+   "scenario": "A_藩属",
+   "conditions": {
+    "T": 1,
+    "R": 0,
+    "E": 1,
+    "O": 0,
+    "S": 0,
+    "D": 1
+   },
+   "analogue_config": "1010",
+   "analogue_n": 6,
+   "analogue_mass_rate": 0.17,
+   "analogue_sustained_rate": 0.0,
+   "analogue_cases": [
+    "RH1802",
+    "PI1809",
+    "LI1805",
+    "TU1808",
+    "ZH1804",
+    "CH1805"
+   ],
+   "policy_bundle_n": 3,
+   "policy_bundle_mass_rate": 0.33,
+   "policy_bundle_cases": [
+    "BG1813",
+    "BA1813",
+    "PL1807"
+   ],
+   "judgement_band_mass": [
+    0.1,
+    0.25
+   ],
+   "judgement_band_sustained": [
+    0.0,
+    0.05
+   ],
+   "band_basis": "Grab印p108南德1813仍calm;Rowe印p79莱茵1804统治可接受",
+   "flip_evidence": "若1813式帝国崩溃期到来;若征兵额突增至威斯特法利亚水平",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "德意志西部",
+   "scenario": "P_缓和并合",
+   "conditions": {
+    "T": 1,
+    "R": 0,
+    "E": 1,
+    "O": 0,
+    "S": 1,
+    "D": 0
+   },
+   "analogue_config": "1010",
+   "analogue_n": 6,
+   "analogue_mass_rate": 0.17,
+   "analogue_sustained_rate": 0.0,
+   "analogue_cases": [
+    "RH1802",
+    "PI1809",
+    "LI1805",
+    "TU1808",
+    "ZH1804",
+    "CH1805"
+   ],
+   "policy_bundle_n": 1,
+   "policy_bundle_mass_rate": 0.0,
+   "policy_bundle_cases": [
+    "NL1799"
+   ],
+   "judgement_band_mass": [
+    0.15,
+    0.3
+   ],
+   "judgement_band_sustained": [
+    0.0,
+    0.05
+   ],
+   "band_basis": "类比1010格6例仅1例(ZH1804)大起义;RH1802为同类实测负例",
+   "flip_evidence": "若教产或礼仪政策再起冲突;若并省同时提高间接税征管粗暴度(Woolf印p232 droits réunis)",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "德意志西部",
+   "scenario": "H_强制并合",
+   "conditions": {
+    "T": 1,
+    "R": 1,
+    "E": 1,
+    "O": 1,
+    "S": 1,
+    "D": 1
+   },
+   "analogue_config": "1111",
+   "analogue_n": 0,
+   "analogue_mass_rate": null,
+   "analogue_sustained_rate": null,
+   "analogue_cases": [],
+   "policy_bundle_n": 1,
+   "policy_bundle_mass_rate": 0.0,
+   "policy_bundle_cases": [
+    "RM1809"
+   ],
+   "judgement_band_mass": [
+    0.35,
+    0.6
+   ],
+   "judgement_band_sustained": [
+    0.05,
+    0.15
+   ],
+   "band_basis": "罗马1809(1110)为强制并合但无大起义的单例;威斯特法利亚1809(1011)有大起义无持续;两者夹逼",
+   "flip_evidence": "若奥普同时开战提供外援机会则上调;若维持专约与本地司法则回落至P档",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "巴伐利亚",
+   "scenario": "A_藩属",
+   "conditions": {
+    "T": 1,
+    "R": 0,
+    "E": 1,
+    "O": 0,
+    "S": 0,
+    "D": 1
+   },
+   "analogue_config": "1010",
+   "analogue_n": 6,
+   "analogue_mass_rate": 0.17,
+   "analogue_sustained_rate": 0.0,
+   "analogue_cases": [
+    "RH1802",
+    "PI1809",
+    "LI1805",
+    "TU1808",
+    "ZH1804",
+    "CH1805"
+   ],
+   "policy_bundle_n": 3,
+   "policy_bundle_mass_rate": 0.33,
+   "policy_bundle_cases": [
+    "BG1813",
+    "BA1813",
+    "PL1807"
+   ],
+   "judgement_band_mass": [
+    0.05,
+    0.15
+   ],
+   "judgement_band_sustained": [
+    0.0,
+    0.03
+   ],
+   "band_basis": "Grab印pp103-108本朝得地、精英入官、1813南德仍平静;本档是史实档",
+   "flip_evidence": "若南德被要求承担西班牙式长期兵役;若1809蒂罗尔式割省再现于本部",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "巴伐利亚",
+   "scenario": "P_缓和并合",
+   "conditions": {
+    "T": 1,
+    "R": 0,
+    "E": 1,
+    "O": 0,
+    "S": 1,
+    "D": 0
+   },
+   "analogue_config": "1010",
+   "analogue_n": 6,
+   "analogue_mass_rate": 0.17,
+   "analogue_sustained_rate": 0.0,
+   "analogue_cases": [
+    "RH1802",
+    "PI1809",
+    "LI1805",
+    "TU1808",
+    "ZH1804",
+    "CH1805"
+   ],
+   "policy_bundle_n": 1,
+   "policy_bundle_mass_rate": 0.0,
+   "policy_bundle_cases": [
+    "NL1799"
+   ],
+   "judgement_band_mass": [
+    0.2,
+    0.4
+   ],
+   "judgement_band_sustained": [
+    0.02,
+    0.08
+   ],
+   "band_basis": "类比S1R0D1E1束6例中3例大起义;废朝但保官僚的中间档",
+   "flip_evidence": "若旧王室在奥地利设流亡中心;若并合换来关税与市场一体化红利且十年无新征兵峰",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "巴伐利亚",
+   "scenario": "H_强制并合",
+   "conditions": {
+    "T": 1,
+    "R": 1,
+    "E": 1,
+    "O": 1,
+    "S": 1,
+    "D": 1
+   },
+   "analogue_config": "1111",
+   "analogue_n": 0,
+   "analogue_mass_rate": null,
+   "analogue_sustained_rate": null,
+   "analogue_cases": [],
+   "policy_bundle_n": 1,
+   "policy_bundle_mass_rate": 0.0,
+   "policy_bundle_cases": [
+    "RM1809"
+   ],
+   "judgement_band_mass": [
+    0.45,
+    0.7
+   ],
+   "judgement_band_sustained": [
+    0.08,
+    0.2
+   ],
+   "band_basis": "蒂罗尔1809是巴伐利亚强制中央化的实测结果(1101格);但巴伐利亚本部无蒂罗尔式特权传统与奥军边境",
+   "flip_evidence": "若奥地利仍在且能出兵蒂罗尔—因河方向;若安排本地贵族进入法国元老院与军官团",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "加泰罗尼亚",
+   "scenario": "A_藩属",
+   "conditions": {
+    "T": 1,
+    "R": 1,
+    "E": 0,
+    "O": 1,
+    "S": 0,
+    "D": 0
+   },
+   "analogue_config": "1101",
+   "analogue_n": 10,
+   "analogue_mass_rate": 0.9,
+   "analogue_sustained_rate": 0.4,
+   "analogue_cases": [
+    "RH1796",
+    "PI1798",
+    "TU1799",
+    "NA1799",
+    "CA1806",
+    "TY1809",
+    "CH1802",
+    "ES1808",
+    "PT1807",
+    "IL1813"
+   ],
+   "policy_bundle_n": 0,
+   "policy_bundle_mass_rate": null,
+   "policy_bundle_cases": [],
+   "judgement_band_mass": [
+    0.25,
+    0.45
+   ],
+   "judgement_band_sustained": [
+    0.05,
+    0.15
+   ],
+   "band_basis": "1793-95 guerra gran已显示somatén可复活(Moliner Prada印p91);无王朝废立则动员理由弱",
+   "flip_evidence": "若法军再度驻扎并摊派;若西班牙王室主动配合且不发生正规军瓦解",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "加泰罗尼亚",
+   "scenario": "P_缓和并合",
+   "conditions": {
+    "T": 1,
+    "R": 1,
+    "E": 1,
+    "O": 1,
+    "S": 1,
+    "D": 0
+   },
+   "analogue_config": "1111",
+   "analogue_n": 0,
+   "analogue_mass_rate": null,
+   "analogue_sustained_rate": null,
+   "analogue_cases": [],
+   "policy_bundle_n": 0,
+   "policy_bundle_mass_rate": null,
+   "policy_bundle_cases": [],
+   "judgement_band_mass": [
+    0.55,
+    0.8
+   ],
+   "judgement_band_sustained": [
+    0.2,
+    0.4
+   ],
+   "band_basis": "类比1101格9/10;E上调因保留地方建制;但沿海英舰与西班牙腹地仍提供外援",
+   "flip_evidence": "若英国无法在地中海岸持续补给;若同时废除somatén与miquelet建制则上调至H档",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "加泰罗尼亚",
+   "scenario": "H_强制并合",
+   "conditions": {
+    "T": 1,
+    "R": 1,
+    "E": 0,
+    "O": 1,
+    "S": 1,
+    "D": 1
+   },
+   "analogue_config": "1101",
+   "analogue_n": 10,
+   "analogue_mass_rate": 0.9,
+   "analogue_sustained_rate": 0.4,
+   "analogue_cases": [
+    "RH1796",
+    "PI1798",
+    "TU1799",
+    "NA1799",
+    "CA1806",
+    "TY1809",
+    "CH1802",
+    "ES1808",
+    "PT1807",
+    "IL1813"
+   ],
+   "policy_bundle_n": 6,
+   "policy_bundle_mass_rate": 0.67,
+   "policy_bundle_cases": [
+    "BE1798",
+    "RH1796",
+    "CA1806",
+    "TY1809",
+    "IL1810",
+    "IL1813"
+   ],
+   "judgement_band_mass": [
+    0.8,
+    0.95
+   ],
+   "judgement_band_sustained": [
+    0.4,
+    0.65
+   ],
+   "band_basis": "1101格实测9/10大起义、含ES/TY/CA三个持续例;Moliner Prada印pp91-94既存武装建制+有产者领导",
+   "flip_evidence": "若法军彻底控制海岸并切断巴利阿里—西西里补给;若西班牙本部同时保持和平与合作",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "那不勒斯",
+   "scenario": "A_藩属",
+   "conditions": {
+    "T": 1,
+    "R": 1,
+    "E": 1,
+    "O": 1,
+    "S": 0,
+    "D": 1
+   },
+   "analogue_config": "1111",
+   "analogue_n": 0,
+   "analogue_mass_rate": null,
+   "analogue_sustained_rate": null,
+   "analogue_cases": [],
+   "policy_bundle_n": 2,
+   "policy_bundle_mass_rate": 1.0,
+   "policy_bundle_cases": [
+    "VE1809",
+    "EM1809"
+   ],
+   "judgement_band_mass": [
+    0.35,
+    0.55
+   ],
+   "judgement_band_sustained": [
+    0.15,
+    0.3
+   ],
+   "band_basis": "卡拉布里亚1806-11为藩属期实测持续起义;Woolf印p232西西里英援是其存续条件",
+   "flip_evidence": "若西西里被夺或英援中断;若南方封建废除让农民实得公地",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "那不勒斯",
+   "scenario": "P_缓和并合",
+   "conditions": {
+    "T": 1,
+    "R": 0,
+    "E": 1,
+    "O": 1,
+    "S": 1,
+    "D": 0
+   },
+   "analogue_config": "1011",
+   "analogue_n": 3,
+   "analogue_mass_rate": 0.67,
+   "analogue_sustained_rate": 0.0,
+   "analogue_cases": [
+    "WE1809",
+    "BG1813",
+    "BA1813"
+   ],
+   "policy_bundle_n": 1,
+   "policy_bundle_mass_rate": 0.0,
+   "policy_bundle_cases": [
+    "NL1799"
+   ],
+   "judgement_band_mass": [
+    0.45,
+    0.7
+   ],
+   "judgement_band_sustained": [
+    0.15,
+    0.3
+   ],
+   "band_basis": "并省提高主权破坏但宗教冲突可控;英西西里基地使O不可能归零",
+   "flip_evidence": "若英军撤出地中海;若中南意行政由本地人主导十年以上",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "那不勒斯",
+   "scenario": "H_强制并合",
+   "conditions": {
+    "T": 1,
+    "R": 1,
+    "E": 0,
+    "O": 1,
+    "S": 1,
+    "D": 1
+   },
+   "analogue_config": "1101",
+   "analogue_n": 10,
+   "analogue_mass_rate": 0.9,
+   "analogue_sustained_rate": 0.4,
+   "analogue_cases": [
+    "RH1796",
+    "PI1798",
+    "TU1799",
+    "NA1799",
+    "CA1806",
+    "TY1809",
+    "CH1802",
+    "ES1808",
+    "PT1807",
+    "IL1813"
+   ],
+   "policy_bundle_n": 6,
+   "policy_bundle_mass_rate": 0.67,
+   "policy_bundle_cases": [
+    "BE1798",
+    "RH1796",
+    "CA1806",
+    "TY1809",
+    "IL1810",
+    "IL1813"
+   ],
+   "judgement_band_mass": [
+    0.8,
+    0.95
+   ],
+   "judgement_band_sustained": [
+    0.4,
+    0.65
+   ],
+   "band_basis": "1101格;卡拉布里亚三年才平定(Grab印pp165-168)",
+   "flip_evidence": "若采Manhès式军事化治安并同时收买氏族网络;若英国失西西里",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "全西班牙",
+   "scenario": "H_强制并合",
+   "conditions": {
+    "T": 1,
+    "R": 1,
+    "E": 0,
+    "O": 1,
+    "S": 1,
+    "D": 1
+   },
+   "analogue_config": "1101",
+   "analogue_n": 10,
+   "analogue_mass_rate": 0.9,
+   "analogue_sustained_rate": 0.4,
+   "analogue_cases": [
+    "RH1796",
+    "PI1798",
+    "TU1799",
+    "NA1799",
+    "CA1806",
+    "TY1809",
+    "CH1802",
+    "ES1808",
+    "PT1807",
+    "IL1813"
+   ],
+   "policy_bundle_n": 6,
+   "policy_bundle_mass_rate": 0.67,
+   "policy_bundle_cases": [
+    "BE1798",
+    "RH1796",
+    "CA1806",
+    "TY1809",
+    "IL1810",
+    "IL1813"
+   ],
+   "judgement_band_mass": [
+    0.9,
+    0.98
+   ],
+   "judgement_band_sustained": [
+    0.7,
+    0.9
+   ],
+   "band_basis": "ES1808实测;Woolf印pp233-234统治阶级全面失信+无第三等级承接",
+   "flip_evidence": "若保留波旁立宪王朝(见A档);若英军无法维持半岛军事存在",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "全西班牙",
+   "scenario": "A_保王朝同盟",
+   "conditions": {
+    "T": 1,
+    "R": 1,
+    "E": 1,
+    "O": 0,
+    "S": 0,
+    "D": 0
+   },
+   "analogue_config": "1110",
+   "analogue_n": 1,
+   "analogue_mass_rate": 0.0,
+   "analogue_sustained_rate": 0.0,
+   "analogue_cases": [
+    "RM1809"
+   ],
+   "policy_bundle_n": 0,
+   "policy_bundle_mass_rate": null,
+   "policy_bundle_cases": [],
+   "judgement_band_mass": [
+    0.2,
+    0.4
+   ],
+   "judgement_band_sustained": [
+    0.03,
+    0.12
+   ],
+   "band_basis": "1808前西班牙持续作为法国盟邦;Woolf印p234指1808年前危机来自宫廷派系而非民众反法",
+   "flip_evidence": "若戈多伊式宫廷危机再爆并被法国介入;若法国要求超出1803补助条约的兵员摊派",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "葡萄牙",
+   "scenario": "H_强制并合",
+   "conditions": {
+    "T": 1,
+    "R": 1,
+    "E": 0,
+    "O": 1,
+    "S": 1,
+    "D": 1
+   },
+   "analogue_config": "1101",
+   "analogue_n": 10,
+   "analogue_mass_rate": 0.9,
+   "analogue_sustained_rate": 0.4,
+   "analogue_cases": [
+    "RH1796",
+    "PI1798",
+    "TU1799",
+    "NA1799",
+    "CA1806",
+    "TY1809",
+    "CH1802",
+    "ES1808",
+    "PT1807",
+    "IL1813"
+   ],
+   "policy_bundle_n": 6,
+   "policy_bundle_mass_rate": 0.67,
+   "policy_bundle_cases": [
+    "BE1798",
+    "RH1796",
+    "CA1806",
+    "TY1809",
+    "IL1810",
+    "IL1813"
+   ],
+   "judgement_band_mass": [
+    0.85,
+    0.95
+   ],
+   "judgement_band_sustained": [
+    0.4,
+    0.65
+   ],
+   "band_basis": "1807-08实测:六月Oporto主教起义、八月英军登陆(Grab印pp145-147)",
+   "flip_evidence": "若英国海军无法登陆且巴西宫廷不资助;若保留摄政与旧军且只封港",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "葡萄牙",
+   "scenario": "P_缓和",
+   "conditions": {
+    "T": 1,
+    "R": 1,
+    "E": 1,
+    "O": 0,
+    "S": 0,
+    "D": 0
+   },
+   "analogue_config": "1110",
+   "analogue_n": 1,
+   "analogue_mass_rate": 0.0,
+   "analogue_sustained_rate": 0.0,
+   "analogue_cases": [
+    "RM1809"
+   ],
+   "policy_bundle_n": 0,
+   "policy_bundle_mass_rate": null,
+   "policy_bundle_cases": [],
+   "judgement_band_mass": [
+    0.25,
+    0.45
+   ],
+   "judgement_band_sustained": [
+    0.05,
+    0.15
+   ],
+   "band_basis": "1807年前葡萄牙长期在英法间两面周旋而无起义",
+   "flip_evidence": "若驻军就地征发与解散葡军;若英国以武力强夺舰队反使本地转向法国",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "波兰",
+   "scenario": "A_藩属",
+   "conditions": {
+    "T": 0,
+    "R": 0,
+    "E": 1,
+    "O": 0,
+    "S": 0,
+    "D": 1
+   },
+   "analogue_config": "0010",
+   "analogue_n": 4,
+   "analogue_mass_rate": 0.25,
+   "analogue_sustained_rate": 0.0,
+   "analogue_cases": [
+    "BE1802",
+    "NL1811",
+    "HH1806",
+    "PL1807"
+   ],
+   "policy_bundle_n": 3,
+   "policy_bundle_mass_rate": 0.33,
+   "policy_bundle_cases": [
+    "BG1813",
+    "BA1813",
+    "PL1807"
+   ],
+   "judgement_band_mass": [
+    0.05,
+    0.15
+   ],
+   "judgement_band_sustained": [
+    0.0,
+    0.03
+   ],
+   "band_basis": "Grab印pp179-183全部本地行政与贵族掌权;军费占预算三分之二仍未见大起义",
+   "flip_evidence": "若农奴解放被实质推行触动贵族;若复国承诺被公开放弃",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "波兰",
+   "scenario": "P_缓和并合",
+   "conditions": {
+    "T": 0,
+    "R": 0,
+    "E": 1,
+    "O": 0,
+    "S": 1,
+    "D": 0
+   },
+   "analogue_config": "0010",
+   "analogue_n": 4,
+   "analogue_mass_rate": 0.25,
+   "analogue_sustained_rate": 0.0,
+   "analogue_cases": [
+    "BE1802",
+    "NL1811",
+    "HH1806",
+    "PL1807"
+   ],
+   "policy_bundle_n": 1,
+   "policy_bundle_mass_rate": 0.0,
+   "policy_bundle_cases": [
+    "NL1799"
+   ],
+   "judgement_band_mass": [
+    0.15,
+    0.35
+   ],
+   "judgement_band_sustained": [
+    0.02,
+    0.08
+   ],
+   "band_basis": "类比0010格;主权破坏但精英续任;波兰精英合作动机来自复国而非法国本身",
+   "flip_evidence": "若并合被读作放弃复国;若同时给予波兰王国名号与宪法",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  },
+  {
+   "region": "波兰",
+   "scenario": "H_强制并合",
+   "conditions": {
+    "T": 0,
+    "R": 1,
+    "E": 0,
+    "O": 1,
+    "S": 1,
+    "D": 1
+   },
+   "analogue_config": "0101",
+   "analogue_n": 1,
+   "analogue_mass_rate": 1.0,
+   "analogue_sustained_rate": 0.0,
+   "analogue_cases": [
+    "PV1796"
+   ],
+   "policy_bundle_n": 6,
+   "policy_bundle_mass_rate": 0.67,
+   "policy_bundle_cases": [
+    "BE1798",
+    "RH1796",
+    "CA1806",
+    "TY1809",
+    "IL1810",
+    "IL1813"
+   ],
+   "judgement_band_mass": [
+    0.45,
+    0.7
+   ],
+   "judgement_band_sustained": [
+    0.1,
+    0.25
+   ],
+   "band_basis": "无地形庇护与近便外援时上界受限;但俄国边境提供O;贵族一旦转向则组织能力极强",
+   "flip_evidence": "若俄国同时施压边境;若法国以土地与官职买断szlachta",
+   "band_status": "researcher conditional judgement; NOT an empirical frequency, NOT a calibrated probability, NOT a model output"
+  }
+ ]
+}

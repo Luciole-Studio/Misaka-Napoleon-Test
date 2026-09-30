@@ -1,0 +1,44 @@
+# F2 法国陆军容量：有界军工物资补查
+
+## 交付性质与结论
+
+仅交付证据与模型口径建议，不作最终反事实推演。已先搜索项目 downloads，未发现指定工厂的直接生产记录；外网搜索恰为8次，随后只打开所获网址。已加载 agent-reach 及搜索路由说明；shell/doctor 被环境审批拦截，采用可用 web_search/web_extract（返回标示 Exa）替代。网页抓取快照均在项目 downloads/pages，下列路径相对于项目根目录。
+
+**【裁量，中等置信】F2不应采用“枪炮生产没有约束、只有干部／马匹才是瓶颈”的排他假说。** 核读的 Jean-François Brun 研究明确支持：大规模重建依赖积年库存，新造枪械的短期流量不足以替代大规模支出；火药则呈现不同情况，其全国生产在1813年总体上能够应付需求。这里是产品分项、时间依赖的约束，不是单一军工总瓶颈。
+
+**关键验收缺口：本轮未取得 Saint-Étienne、Charleville、Douai、Strasbourg、Essonnes 五个指定地点在1803–1814年的可核实单厂年度峰值。** 不以全国数或其他厂数填空。Douai有待核候选，详见末节。所得全国流量和 Metz 验收记录可作为F2的旁证锚点，不能伪装为完成了指定五厂统计。没有余力独立补查马匹存量、采购或干部供给，故不对三者作定量排序。
+
+## 一、可供模型使用的数量锚点
+
+下表的历史数均为【事实：已核读二手作者记述】，并非本人核过原始统计簿。原始报告未展示档号的地方明确保留。
+
+| 对象／时段 | 已读数量及性质 | 模型用途与禁用方式 |
+|---|---|---|
+| 帝国枪械库，1812-04-01 | 811,000支 fusils，库存 | 不是年产，更不是Saint-Étienne或Charleville库存 |
+| 帝国枪械制造，1812-04-01至1813-07-01 | 159,000支，15个月累计新造 | 【模型推演：算术换算】平均10,600支/月；不可当1813峰月 |
+| 同时段枪械“consommés” | 880,000支，原文如此称呼 | 先视为仓库支出／使用口径，不能径直译成战损、遗失或死亡人数 |
+| 帝国常态枪械制造 | 作者估计8,000–10,000支/月，各型号 fusils | 【模型推演：恒定月率年化】96,000–120,000支/年，不是逐年实测系列 |
+| 1813动员期肩射武器 | “peine à dépasser”18,000件/月 | 约1.8万/月的困难门槛，不是经审定硬产能上限，也不是已确认峰值；原词为 armes d’épaule，比 fusils 范围更宽 |
+| Metz，1804-09-23至1808-01-01，作者按39个月 | 制造279门炮，验收211门 | 单厂累计制造／验收，不能套给Douai/Strasbourg；【模型推演】211/279≈75.6%，验收流量约5.41门/月、64.9门/年等效，不能称额定产能 |
+| 帝国火药生产 | 全国每年约3,000吨 | 作者宽时段概述，兼含民用／军用；不是Essonnes，也不是全为陆军可得军用火药 |
+| Le Ripault，1808 | 44名工人；4座磨坊“susceptibles de fabriquer quotidiennement 800 kg” | 800公斤/日是能力表述，不能当实际日产，不能乘365当实产；非Essonnes |
+| 枪械生产劳动定额 | 每月1,200支1777式需345名师傅／熟练工及26名约十岁的帮工 | 转引《Aide-mémoire》的技术／组织定额，不是任何指定厂实测产量；约3.48支／成年熟练工月只作含辅助劳动的比率，不作纯人均生产率 |
+
+### 核心来源 A：Jean-François Brun，《Des armes et de la poudre…》
+
+- 版本：Fondation Napoléon 网站，作者署名，文末标“mise en ligne : avril 2025”。
+- URL：https://www.napoleon.org/histoire-des-2-empires/articles/des-armes-et-de-la-poudre/
+- 保存：`downloads/pages/26d8892840a9.md`。网页非书籍，无纸页号；以小节和段首定位。抽取曾省略中段，已另读本地98–162行，覆盖火药统计及文章结论。
+- 层级：法语署名研究性综述；没有在所读网页给出枪械统计报告的确切档号，因此不能把其数字标为已核原档。多项数字来自同一篇文章，不构成多源独立互证。
+
+**A1，章节《Les « usines d’armement » : d’abord des entreprises privées》，段首“Faute de séries statistiques complètes”**：
+
+> « Au 1er avril 1812, les magasins abritaient 811 000 fusils. Du 1er avril 1812 au 1er juillet 1813, 159 000 autres ont été fabriqués. Mais, dans le même laps de temps, 880 000 ont été consommés, les événements ayant conduit à utiliser “dans l’espace de 15 mois ce qui est le produit des manufactures pendant six ans”. »
+
+> « Bref, la construction mensuelle semble osciller, bon an mal an, entre 8 000 et 10 000 fusils de tous modèles […] Mais la production peine à dépasser le seuil de 18 000 armes d’épaule par mois […] »
+
+【模型推演，口径假设】仅若这三项属于同一库存边界，且没有遗漏修复、缴获、调拨等净流入，811,000+159,000−880,000=90,000支剩余；这是账面算术残差，**不是已观察的1813年7月库存**。同理，880,000/15≈58,667支/月为该异常期平均支出，不能长期外推为常态需求。159,000仅相当于该期支出的18.1%；这是积年库存依赖的强信号，但不是每一支支出的最终用途证明。
+
+**A2，同章，段首“Jauger l’efficacité du système”**：
+
+> « du 1er vendémiaire an XIII (23 septembre 1804) au 1er janvier 1808, soit une période de 39 mois, les ateliers de Metz utilisent 78 304 kg de métal pour fabriquer 279 canons, sur lesquels 211 ont été acceptés. »

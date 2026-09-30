@@ -1,0 +1,61 @@
+VOL. 101 NO. 7                   ACEMOGLU ET AL.: CONSEQUENCES OF RADICAL REFORM                                 3305
+
+
+
+in contrast with many other, less successful reform experiences.21 Nevertheless, we
+are not able to provide any evidence that this is the correct interpretation of the
+historical events surrounding the French Revolution, and we view a more detailed
+investigation of when and how externally imposed institutional reforms could be
+effective and contribute to economic development as an interesting area for future
+theoretical and empirical work.
+
+                                                 Data Description
+
+Variable                                      Description—Source
+Distance to Paris                             Great circle distance from a territory’s capital to Paris—own
+                                              calculation, based on latitude and longitude data.
+Latitude                                      Latitude in degrees of a territory’s capital—Wikipedia.
+Longitude                                     Longitude in degrees of a territory’s capital—Wikipedia.
+Number of prerevolutionary territories        Number of territories of the Holy Roman Empire (immediate
+                                              to the Emperor) existing prior to the invasion of French
+                                              Revolutionary armies and the dissolution of the Empire through the
+                                              Reichsdeputationshauptschluss—see online Appendix C.
+Share agriculture                             Share of total population (in percent) whose primary employment is
+                                              in the agricultural sector—Frank (1994)
+Share industry                                Share of total population (in percent) whose primary employment is
+                                              in the industrial and manufacturing sector—Frank (1994)
+Share Protestant                              Approximate share of the population of Protestant (Lutheran/
+                                              Calvinist) faith around 1800—own projection, based on nineteenth
+                                              century census data. Cf. also online Appendix B.
+Urbanization rate                             Percent of total population living in cities above 5,000 inhabitants—
+                                              see online Appendix B.
+Years French presence                         Years of presence of French troops or rule by French-appointed
+                                              rulers—Grab (2003).
+
+
+
+
+                                                REFERENCES
+
+Acemoglu, Daron. 2008. “Oligarchic versus Democratic Societies.” Journal of the European Economic
+   Association, 6(1): 1–44.
+Acemoglu, Daron, and James A. Robinson. 2008. “Persistence of Power, Elites, and Institutions.”
+   American Economic Review, 98(1): 267–93.
+Acemoglu, Daron, Simon Johnson, and James A. Robinson. 2002. “Reversal of Fortune: Geography
+  and Institutions in the Making of the Modern World Income Distribution.” Quarterly Journal of
+  Economics, 117(4): 1231–94.
+Acemoglu, Daron, Davide Cantoni, Simon Johnson, and James A. Robinson. 2009. “The Conse-
+  quences of Radical Reform: The French Revolution.” National Bureau of Economic Research
+  Working Paper 14831.
+Acemoglu, Daron, Davide Cantoni, Simon Johnson, and James Alan Robinson. 2011. “The Conse-
+  quences of Radical Reform: The French Revolution: Dataset.” American Economic Review. http://
+  www.aeaweb.org/articles.php?doi=10.1257/aer.101.7.3286.
+
+
+
+   21
+      Our results also have some relevance to the literature on the role of culture in economic development and on
+the interactions between culture and institutions (e.g., Lawrence E. Harrison and Samuel P. Huntington 2000; Avner
+Greif 2006; Guido Tabellini 2010). In this context, the relatively successful transplantation of French institutions on
+several German polities with different histories, cultures and traditions also suggests that differences in culture do
+not create immutable barriers against institutional reform.

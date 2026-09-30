@@ -1,0 +1,47 @@
+
+
+-
+
+Daniel Lakeland on [“Protection from inappropriate influence is a hallmark of scientific integrity” . . . not any more!](https://statmodeling.stat.columbia.edu/2026/09/15/protection-from-inappropriate-influence-is-a-hallmark-of-scientific-integrity-not-any-more/#comment-2419073)September 19, 2026 9:17 PM
+
+Dale, the first sale of commodities may indeed be 2% of the economy. But to first approximation, if I snapped…
+
+-
+
+[Andrew](https://www.stat.columbia.edu/~gelman/) on [Why I don’t like highest posterior density (HPD) intervals](https://statmodeling.stat.columbia.edu/2026/09/11/why-i-dont-like-highest-posterior-density-hpd-intervals/#comment-2419072)September 19, 2026 7:50 PM
+
+Carlos: Good catch. We'll change "inference about the posterior mean" in that sentence on page 198 to "inference about theta."
+
+-
+
+Carlos Ungil on [Why I don’t like highest posterior density (HPD) intervals](https://statmodeling.stat.columbia.edu/2026/09/11/why-i-dont-like-highest-posterior-density-hpd-intervals/#comment-2419071)September 19, 2026 6:05 PM
+
+> The discussion of typical sets has been very confusing [...] Sorry for contributing to that! I think the way…
+
+-
+
+[Andrew](https://www.stat.columbia.edu/~gelman/) on [Meritocracy to-morrow and meritocracy yesterday – but never meritocracy to-day](https://statmodeling.stat.columbia.edu/2026/09/18/meritocracy-to-morrow-and-meritocracy-yesterday-but-never-meritocracy-to-day/#comment-2419070)September 19, 2026 5:04 PM
+
+Yummy: I guess there must be some people who don't want attendance to top schools to depend on selection based…
+
+-
+
+Yummy Noodles on [Meritocracy to-morrow and meritocracy yesterday – but never meritocracy to-day](https://statmodeling.stat.columbia.edu/2026/09/18/meritocracy-to-morrow-and-meritocracy-yesterday-but-never-meritocracy-to-day/#comment-2419069)September 19, 2026 4:51 PM
+
+how do you contrast or compare "meritocracy" to "idiocracy"? I grant this is an impossible hypothetical but just play along…
+
+-
+
+Meese on [“Protection from inappropriate influence is a hallmark of scientific integrity” . . . not any more!](https://statmodeling.stat.columbia.edu/2026/09/15/protection-from-inappropriate-influence-is-a-hallmark-of-scientific-integrity-not-any-more/#comment-2419068)September 19, 2026 1:29 PM
+
+Daniel, I don't understand why you're using GDP at all. I can insert the old joke about Ben Bernanke and…
+
+-
+
+Dale Lehman on [“Protection from inappropriate influence is a hallmark of scientific integrity” . . . not any more!](https://statmodeling.stat.columbia.edu/2026/09/15/protection-from-inappropriate-influence-is-a-hallmark-of-scientific-integrity-not-any-more/#comment-2419067)September 19, 2026 1:19 PM
+
+Daniel I think your data only reflects that raw commodities (meaning agriculture, fishing, minerals, energy - no finished goods and…
+
+-
+
+Daniel Lakeland on [“Protection from inappropriate influence is a hallmark of scientific integrity” . . . not any more!](https://statmodeling.stat.columbia.edu/2026/09/15/protection-from-inappropriate-influence-is-a-hallmark-of-scientific-integrity-not-any-more/#comment-2419066)September 19, 2026 12:40 PM

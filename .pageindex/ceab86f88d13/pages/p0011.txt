@@ -1,0 +1,39 @@
+GRP : revues JOB : num121⊕xml DIV : 10⊕LevyGarbouaMonnet p. 9 folio : 43 --- 5/4/016 --- 16H4
+
+
+
+
+                              LES TAUX D’INTÉRÊT EN FRANCE : UNE PERSPECTIVE HISTORIQUE
+
+
+
+
+                                                 Graphique 7
+                             Courbe des taux, inﬂation et PIB, France, 1870-2014
+                                        (moyenne mobile sur cinq ans)
+
+
+
+
+                            ère
+             Sources : cf. 1 partie de l’article intitulée « Présentation des données » pour les taux d’intérêt ; Piketty (2013)
+             et Insee pour l’inﬂation et le PIB ; calculs des auteurs.
+
+
+
+                                                Graphique 8                                                                        43
+                          Courbe des taux, inﬂation et PIB, Angleterre, 1874-2014
+                                       (moyenne mobile sur cinq ans)
+
+
+
+
+                            ère
+             Sources : cf. 1 partie de l’article intitulée « Présentation des données » ; Bank of England ; Piketty (2013) et
+             Insee pour l’inﬂation et le PIB ; calculs des auteurs.
+
+                                                        LES TAUX RÉELS
+                                                    Le niveau des taux réels
+                Le graphique 9 (infra) reproduit, sur la même période, les taux d’inté-
+             rêt réels. Ces derniers sont calculés en déduisant du taux nominal le taux
+             d’inflation constaté, selon l’approximation de la formule de Fisher.

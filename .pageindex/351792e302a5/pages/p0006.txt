@@ -1,0 +1,24 @@
+
+
+The standard Ottoman measures and weights were fundamentally different from the metric system (see Table 1). The oka of 1.28 kg was the major unit of weight while the kile (composed of 4 sinik) or was the main measure of dry mass. Surface areas were measured in dönüm (officially equal to 918 sq.m. or 0.092 ha). `underline "oka / kile / sinik / dönüm"`
+
+![image 1]
+
+The Russian system was also different in measures and weights (see table 2), but its major variance was the fact that there was no standard golden peg until 1897, when finally the golden standard was officially adopted at a rate of 2.67 francs per golden ruble. Until then, the ruble (called paper or credit ruble) was a paper note whose price was fluctuating (see table 3). In 1885, the golden ruble unit (at the current rate of 10 paper to one gold ruble) was introduced. Thus, since 1885, there was a peg of the golden ruble unit to the golden franc, at a ratio of 4 francs per ruble (thus there was a conversion ratio of 1.5 standard golden rubles of 1897 to the golden ruble unit of 1885). The major problem is to establish a coherent annual deflator for the paper ruble. In this DB we have adopted the paper ruble deflator elaborated by Harvey (1938, Annex A1, p.341).
+
+The Russian system of weights was using a standard weight unit, the pud (пуд), equal to 16.38 kg. All volumes of exports and production after 1885 are usually given in pud. Before this year volumes were customarily given in chetvert (четверть), which was the official dry mass unit. It was equal to 2.10 hl or 5.77 British imperial and 5.96 US bushels. It is worth adding that the extensively used in our documentation British imperial quarter (qr) of the long hundredweight (cwt) weighted 28 lb (each lb corresponding to 453.6 gr) or 12.7 kg. [^7] `underline "pud / pud / chetvert"`
+
+`table 7×5`
+Grains	kg per chetvert	kg per US bushel	kg per kile	kg per hl
+Wheat	162.13	27.22	25.64	77.23
+rye, maize	151.32	25.40	23.93	72.09
+barley, buckwheat	129.70	21.77	20.51	61.79
+oats	86.47	14.52	13.67	41.19
+spelt	83.76	14.06	13.25	39.90
+millet	123.20	22.68	21.37	58.69
+
+The Russian unit of surface was the desiatina (десятин). The state desiatina measured 1.0925 ha, but there was also a larger landlord desiatina (equal to 1⅓ state desiatina). Distance was measured in verst of 1,066.8 m. The independent Greek, Serbian, Romanian and (the autonomous) Bulgarian states adopted the metric system and pegged their currency to the LMU golden franc, but being initially parts of the Ottoman real they shared with the Ottomans their weight and measures. Surfaces were measured in dekar (декар) in Bulgaria or stremma in Greece. This was officially equal to 1,000 sq.m. or one tenth of a ha. `underline "desiatina / desiatina / desiatina / verst / dekar / stremma"`
+
+**3. STRUCTURE OF THE BLACK SEA HISTORICAL STATISTICS**
+
+There are two kinds of statistics, firstly the Trade statistics and secondly the Shipping statistics. `bold "Trade statistics / Shipping statistics"`

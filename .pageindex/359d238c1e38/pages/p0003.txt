@@ -1,0 +1,14 @@
+
+
+## 3. 尝试获取但失败（不作证据）
+- Aurélien Lignereux, "Accommodation et arrangements dans les départements réunis: l'éclairage paradoxal des rébellions (1800–1813)", in Chanet/Crépin/Windler (dir.), *Le temps des hommes doubles. Les arrangements face à l'occupation…*, Rennes, PUR, 2013, pp.107–126；DOI `10.4000/books.pur.134235`。
+  - `web_extract` 与 `web_fetch` 均只返回 Anubis 反机器人验证页（`downloads/pages/3e7fb25f7a64.md`、`downloads/pages/6b907925f3ee.md`）。**工具未报错不等于获取成功。**
+- Lignereux, "Les Européens face à la conscription: de l'insoumission à la rébellion (1800–1813)", HAL `halshs-00807705`：仅得题录元数据（`downloads/pages/ab6a44ffb405.md`），无正文。
+- Lignereux, *Servir Napoléon. Policiers et gendarmes dans les départements annexés (1796–1814)*：仅见书评题录（DOI `10.4000/ahrf.13311`）。
+- **这是本卡最重要的未补缺口**：该组研究正对口"并合省的反叛作为协商形式"，若取得可能改写 §4.3 的分类与 `mass` 阈值（见报告 §8 改判证据3）。建议交由可取得纸本或机构权限的姐妹卡。
+
+## 4. 检索覆盖说明
+`coverage_scan(query="Napoleonic occupation popular resistance conscription")` 仅返回2条，主题落在苏俄史与后共产主义转型，与目标问题偏离。**计数是雷达不是证据**：不能据此声称拿破仑时期反抗研究稀缺或检索已穷尽。本领域核心文献在专著与非英语期刊，索引库系统性低估。
+
+## 5. 非英语来源统计
+法语1（IG-F Madelin）、德语2（IG-G Graber、IG-H Bickert）；加泰/西班牙语材料经 IG-D 的 Moliner Prada 英译章进入，原文未读。满足"非英语来源≥2种"的要求，但须注明：法语关键专题（Lignereux）未取得，德语仅及两个地方个案，波兰语、斯洛文尼亚/克罗地亚语材料完全缺位——波兰与伊利里亚两行的结局区间正因此保留 `[0,1]`。

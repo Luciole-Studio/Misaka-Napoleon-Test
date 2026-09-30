@@ -1,0 +1,44 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: F2_replacement_sensitivity.csv
+
+```meta
+▸ table "F2_replacement_sensitivity.csv" (27 data rows)
+▸ columns
+    annual_call: num, min=90000, max=115000
+    conversion: num, min=0.9, max=0.9
+    service_years: num, min=5, max=7
+    other_exit_rate: num, min=0.015, max=0.04
+    steady_gross: num, min=337500, max=655656
+    fixed_term_variant: num, min=367070, max=687761
+    status: str, 1 uniq: ['sensitivity_assumptions']
+    anchor: str, 1 uniq: ['P11;H72_pp49_50;peace_analogy']
+```
+annual_call,conversion,service_years,other_exit_rate,steady_gross,fixed_term_variant,status,anchor
+90000,0.9,5,0.015,376744,390185,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+90000,0.9,5,0.025,360000,380710,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+90000,0.9,5,0.04,337500,367070,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+90000,0.9,6,0.015,445872,464772,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+90000,0.9,6,0.025,422609,451306,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+90000,0.9,6,0.04,391935,432079,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+90000,0.9,7,0.015,513122,538248,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+90000,0.9,7,0.025,482553,520159,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+90000,0.9,7,0.04,442969,494538,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+105000,0.9,5,0.015,439535,455216,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+105000,0.9,5,0.025,420000,444162,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+105000,0.9,5,0.04,393750,428249,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+105000,0.9,6,0.015,520183,542234,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+105000,0.9,6,0.025,493043,526524,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+105000,0.9,6,0.04,457258,504092,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+105000,0.9,7,0.015,598643,627956,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+105000,0.9,7,0.025,562979,606852,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+105000,0.9,7,0.04,516797,576961,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+115000,0.9,5,0.015,481395,498570,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+115000,0.9,5,0.025,460000,486463,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+115000,0.9,5,0.04,431250,469034,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+115000,0.9,6,0.015,569725,593875,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+115000,0.9,6,0.025,540000,576669,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+115000,0.9,6,0.04,500806,552100,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+115000,0.9,7,0.015,655656,687761,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+115000,0.9,7,0.025,616596,664648,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy
+115000,0.9,7,0.04,566016,631910,sensitivity_assumptions,P11;H72_pp49_50;peace_analogy

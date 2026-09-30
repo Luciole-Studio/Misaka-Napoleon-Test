@@ -1,0 +1,68 @@
+---
+source_url: "https://api.parliament.uk/historic-hansard/commons/1811/may/20/the-budget"
+final_url: "https://api.parliament.uk/historic-hansard/commons/1811/may/20/the-budget"
+provider: "exa"
+text_sha256: "cbf75f78416a92dc8c6dfc23af39745c7f67ec4e5bc5f646131fae1563b0138a"
+title: "THE BUDGET. (Hansard, 20 May 1811)"
+content_kind: "page_text"
+---
+
+THE BUDGET. (Hansard, 20 May 1811)
+
+# THE BUDGET.
+
+HC Deb 20 May 1811 vol 20 cc210-23 210
+
+§ The House having resolved into a Committee of Ways and Means,
+
+rose to open the Budget for the present year. He began by observing that having that morning concluded a contract, subject to the approbation of parliament, for the Loan for the service of the present year, on terms which he trusted, under all the circumstances of the case, the Committee would consider to be highly advantageous to the public, he should proceed to submit to them the details of that contract. But, before he did this, he conceived that it would be necessary for him to state, with as much clearness as he possibly could, the various sums which the House had already voted for the supply of the present year, and the Ways and Means to which in his judgment, they ought to resort for the purpose of meeting those sums. The supplies which had been voted were as follow:—
+
+| SUPPLIES, 1811. |
+| --- |
+| Navy (exclusive of Ordnance Sea Service) | £ 20,276 144 |
+| Army (including Barracks and Commissariat) | £14, 209,422 |
+| Ditto Ireland | 3,233,421 |
+| Extraordinaries | 3,200,000 |
+| Unprovided ditto last year | 627,098 |
+| 21,269,941 |
+| Ordnance | 5,612,378 |
+| Miscellaneous, including 400,000 l. |
+| Irish Permanent Grants. | 2,050,000 |
+| Vote of Credit |
+| England | 3,000,000 |
+| Ireland | 200,000 |
+| 3,200,000 |
+
+| Sicily | 400,000 |
+| --- | --- |
+| Portugal | 2,100,000 |
+| Joint Charge | 54,308,453. |
+| SEPARATE CHARGES. |
+| Loyalty loan | 113,416 |
+| Interest on Exchequer Bills | 1,600,000 |
+| 1,713,416 |
+| Total Supplies | 56,021,869 |
+| Irish Proportion | 6,569,000 |
+| 49,452,869 |
+| Irish Proportion of 54,308,453l | 6,389,000 |
+| Irish Civil List and other Charges | 180,000 |
+| 6,569,000 |
+
+With respect to the Sicilian subsidy, he had to intreat the indulgence of the Committee for a great inattention on his part, namely, in having omitted to lay before parliament the last treaty with Sicily, on which that vote was founded. He had erroneously apprehended that the treaty was already on the table of the House, and it was but three or four days ago that he discovered his mistake. To-morrow, however, or the next day at farthest, he would take care to present it to the House, and he hoped they would accept that apology for his omission hitherto to do so.
+
+He would proceed to state the various articles of Ways and Means, by which he proposed to meet the 49,452,869l. of supply to be provided by England:
+
+| WAYS AND MEANS, 1811. |
+| --- |
+| Annul Duties | £3,000,000 |
+| Surplus Consolidated Fund, 1810 | 1,353,715 |
+| Surplus Consolidated Fund, 1811 | 5,000,000 |
+| War Taxes | 20,000,000 |
+| Lottery | 300,000 |
+| Exchequer Bills | 4,000,000 |
+| Vote of Credit | 8,000,000 |
+| Loan in 6 per Cent Stock | 4,981,300 |
+| in 3 and 4 per Cents | 7,500,000 |
+| 12,481,300 |
+| Naval Stores | 420,364 |
+| 49,555,379 |

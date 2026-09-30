@@ -1,0 +1,26 @@
+---
+source_url: "https://hunghist.org/84-abstract/351-2016-1-horcher"
+final_url: "https://hunghist.org/84-abstract/351-2016-1-horcher"
+provider: "exa"
+text_sha256: "b0e2b699b6939d8b8b66be816295cb47515a57da1ade1f4a99e3996976676a1b"
+title: "2016_1_H\u00f6rcher"
+content_kind: "page_text"
+---
+
+2016_1_Hörcher
+
+# 2016_1_Hörcher 
+
+Ferenc Hörcher
+
+### Enlightened Reform or National Reform?
+
+The Continuity Debate about the Hungarian Reform Era and the Example of the Two Széchenyis (1790–1848) 1
+
+This paper returns to the problem of how to interpret the Reform Era, a constant issue of Hungarian historiography since the 1840s. While most master narratives continue, even today, to repeat that it actually began in 1830, there are compelling arguments that in fact the reform programs of the 1830s were deeply rooted in the earlier movements of the 1790s, or even in Joseph II’s reforms of the 1780s. The paper offers an overview of some of the latest trends in the research of the problem (in the writings of Károly Kecskeméti and Gábor Vermes, viewed from the perspective of Ambrus Miskolczy), as well as a reconstruction of the ways in which contemporaries saw the issue during the Reform Era. In the second part, it compares two important aristocratic protagonists of the age, father and son, Counts Ferenc Széchényi and István Széchenyi. 2 It will show that there are indeed close links between these two people, including their plans for reform and their anglophile political attitudes. As both of them played major roles in their own time and were often regarded as heroes by members of their respective societies, if the link between them is strong enough, their example can presumably be used as an argument for the continuity thesis between the two reform generations of the period, and thereby for an interpretation of the Reform Era in the context of the late Enlightenment.
+
+Preliminary Remarks
+
+One of the key questions of narratives of political history is how to make sense of apparent historical ruptures or breaks. Although the issue is obviously present in all kinds of historical narratives, it is more pressing in the history of political thought, confined to specific cultural contexts. We know that the transition into modernity most often was accompanied by social unrest, political upheavals and frequent and abrupt changes of political regimes, resulting in a series of rather divergent political settings in a short span of time. In this respect, Central Europe certainly has one of the richest catalogues of problems: in the nineteenth and twentieth centuries, sharp historical turns were part and parcel of daily political life in the region.
+
+This paper, an exercise in the history of political thought, will not use new primary resources. It will rely on the basic research that has been done by historians of the Reform Era to analyze a recurring debate in the discourse on the Hungarian past. In Hungarian historiography, the question of continuity versus rupture is a key issue. One particular manifestation of this is the debate about how to look at the period between 1790 and 1848 and how exactly to connect in a historical narrative the well-known political phases of this era. The historian’s choices are telling with regards to their professional and personal priorities, including their value-hierarchy. As soon as you claim, for example, that there is continuity between the 1790s and the 1830s, you can easily argue that what is called Hungarian Liberalism grew out of the spiritual fermentation of what is usually labeled Enlightenment. Also, it will represent the fathers’ generation (active at the turn of the century) as having been quite in tune with the spirit of its age, while the sons (who entered the public arena in the 1820s) will probably be characterized as latecomers. On the other hand, by disconnecting the 1830s from signs of change at the end of the previous century, one presents Hungarian Liberalism as a post-romantic phenomenon which has more to do with the rise of nationalism and turbulent social upheavals than with the European program of the Enlightenment.

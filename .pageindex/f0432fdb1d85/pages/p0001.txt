@@ -1,0 +1,67 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: B4_landing_scenario_matrix.csv
+
+```meta
+▸ table "B4_landing_scenario_matrix.csv" (48 data rows)
+▸ columns
+    baseline_year: num, min=1805, max=1805
+    landing_zone: str, 4 uniq: ['Kent', 'Sussex', 'Thames–Essex', 'Weymouth']
+    effective_warning_bin: str, 3 uniq: ['W0', 'W1', 'W2']
+    French_effective_ashore_D2: num, min=20000, max=120000
+    ordinal_outcome: str, 4 uniq: ['C', 'F', 'F西', 'I']
+    GB_regular_stock_scenario: num, min=58000, max=58000
+    arrival_share_low_assumed: num, min=0.1, max=0.45
+    arrival_share_high_assumed: num, min=0.2, max=0.65
+    British_regular_D2_low_model: num, min=6000, max=26000
+    British_regular_D2_high_model: num, min=12000, max=38000
+    militia_D2_low_assumed: num, min=3000, max=20000
+    militia_D2_high_assumed: num, min=8000, max=32000
+    evidence_status: str, 1 uniq: ['MODEL_NOT_OBSERVATION']
+    confidence: str, 1 uniq: ['low_to_medium']
+    mechanism_sources: str, 1 uniq: ['S01 pp136-140; S02 pp264-265; S04; S07']
+    shared_assumptions: str, 1 uniq: ['D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements']
+```
+baseline_year,landing_zone,effective_warning_bin,French_effective_ashore_D2,ordinal_outcome,GB_regular_stock_scenario,arrival_share_low_assumed,arrival_share_high_assumed,British_regular_D2_low_model,British_regular_D2_high_model,militia_D2_low_assumed,militia_D2_high_assumed,evidence_status,confidence,mechanism_sources,shared_assumptions
+1805,Kent,W0,20000,C,58000,0.2,0.35,12000,20000,6000,12000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Kent,W0,40000,F,58000,0.2,0.35,12000,20000,6000,12000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Kent,W0,80000,F,58000,0.2,0.35,12000,20000,6000,12000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Kent,W0,120000,F,58000,0.2,0.35,12000,20000,6000,12000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Kent,W1,20000,I,58000,0.35,0.5,20000,29000,12000,22000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Kent,W1,40000,C,58000,0.35,0.5,20000,29000,12000,22000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Kent,W1,80000,F,58000,0.35,0.5,20000,29000,12000,22000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Kent,W1,120000,F,58000,0.35,0.5,20000,29000,12000,22000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Kent,W2,20000,I,58000,0.45,0.65,26000,38000,20000,32000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Kent,W2,40000,C,58000,0.45,0.65,26000,38000,20000,32000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Kent,W2,80000,F,58000,0.45,0.65,26000,38000,20000,32000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Kent,W2,120000,F,58000,0.45,0.65,26000,38000,20000,32000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Sussex,W0,20000,C,58000,0.15,0.3,9000,17000,5000,10000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Sussex,W0,40000,F,58000,0.15,0.3,9000,17000,5000,10000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Sussex,W0,80000,F,58000,0.15,0.3,9000,17000,5000,10000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Sussex,W0,120000,F,58000,0.15,0.3,9000,17000,5000,10000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Sussex,W1,20000,C,58000,0.25,0.45,15000,26000,10000,18000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Sussex,W1,40000,C,58000,0.25,0.45,15000,26000,10000,18000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Sussex,W1,80000,F,58000,0.25,0.45,15000,26000,10000,18000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Sussex,W1,120000,F,58000,0.25,0.45,15000,26000,10000,18000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Sussex,W2,20000,I,58000,0.4,0.6,23000,35000,18000,28000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Sussex,W2,40000,C,58000,0.4,0.6,23000,35000,18000,28000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Sussex,W2,80000,F,58000,0.4,0.6,23000,35000,18000,28000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Sussex,W2,120000,F,58000,0.4,0.6,23000,35000,18000,28000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Thames–Essex,W0,20000,C,58000,0.12,0.25,7000,15000,4000,10000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Thames–Essex,W0,40000,F,58000,0.12,0.25,7000,15000,4000,10000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Thames–Essex,W0,80000,F,58000,0.12,0.25,7000,15000,4000,10000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Thames–Essex,W0,120000,F,58000,0.12,0.25,7000,15000,4000,10000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Thames–Essex,W1,20000,C,58000,0.25,0.4,15000,23000,10000,18000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Thames–Essex,W1,40000,C,58000,0.25,0.4,15000,23000,10000,18000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Thames–Essex,W1,80000,F,58000,0.25,0.4,15000,23000,10000,18000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Thames–Essex,W1,120000,F,58000,0.25,0.4,15000,23000,10000,18000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Thames–Essex,W2,20000,I,58000,0.4,0.6,23000,35000,18000,28000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Thames–Essex,W2,40000,C,58000,0.4,0.6,23000,35000,18000,28000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Thames–Essex,W2,80000,F,58000,0.4,0.6,23000,35000,18000,28000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Thames–Essex,W2,120000,F,58000,0.4,0.6,23000,35000,18000,28000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Weymouth,W0,20000,C,58000,0.1,0.2,6000,12000,3000,8000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Weymouth,W0,40000,F西,58000,0.1,0.2,6000,12000,3000,8000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Weymouth,W0,80000,F西,58000,0.1,0.2,6000,12000,3000,8000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Weymouth,W0,120000,F西,58000,0.1,0.2,6000,12000,3000,8000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Weymouth,W1,20000,C,58000,0.2,0.35,12000,20000,8000,15000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements
+1805,Weymouth,W1,40000,C,58000,0.2,0.35,12000,20000,8000,15000,MODEL_NOT_OBSERVATION,low_to_medium,S01 pp136-140; S02 pp264-265; S04; S07,D+2 effective combined arms; RN restores interdiction D+2 to D+7; no Irish or overseas reinforcements

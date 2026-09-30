@@ -1,0 +1,47 @@
+1068                            Rouanet and Piano
+
+Bertrand (1985, p. 17) explain, these relays were used “by young recruits
+to join their units” and ensured that troops traveling by foot could find
+“shelter for the night and a daily ration of bread.” While potentially
+endogenous to desertion rates, these relays were built before the formal
+adoption of large-scale conscription in 1798 and can thus be interpreted
+as having affected the central government’s enforcement costs.
+   Unfortunately, Lacuée’s data did not include the height of soldiers
+or their socio-economic background. We obviate this limitation by
+collecting data about the 1820 draft cohort in the Archives Nationales.22
+These include information about the average height of young men eligible
+for the draft and the structure of the local economy. We rely on the latter
+to construct an “agricultural sector” variable measuring the percentage of
+men eligible for the draft working on farms.
+   We employ these data to explore: (1) the sources of variation in the
+rate of draft dodging across France; (2) how the imperial government
+responded to this variation rationally by implementing a system of
+discriminatory conscription; and (3) how the system of discriminatory
+conscription enforcement affected France’s fight against draft evasion.
+   Key to our analysis is the claim that geographical characteristics
+systematically influence the ruler’s calculus via their effect on the cost
+of enforcing conscription and preventing draft dodging.23 Our main
+geographic variable of interest is terrain ruggedness as defined by Riley,
+DeGloria, and Elliot (1999). We also generated other geographic vari-
+ables measuring the distance from Paris, whether a department is adja-
+cent to the border, the year a department was created/annexed, wheat
+suitability, proximity to the sea, township density, and elevation.
+   Terrain ruggedness measures “topographic heterogeneity in wildlife
+habitats providing concealment for preys and lookout posts” (Nunn and
+Puga 2012, p. 21). Terrain ruggedness is measured by first dividing a terri-
+tory into (926x929 ms) squares. Ruggedness is then calculated by taking
+the square root of the sum of the squared difference in elevation between
+the center of our original square and the elevation of each of the eight
+neighboring squares.24 Akin to Nunn and Puga’s (2012) argument that
+ruggedness affected the ability of European colonists to capture slaves
+in West Africa, we take ruggedness to proxy the exogenous constraint
+  22
+      AN, see boxes F/9/150 through 259.
+  23
+      In Online Appendix F.4, we also show that geography influenced the choice of conscription
+enforcement technology. The gendarmerie employed fewer mounted—as opposed to on foot—
+brigades in more rugged departments, even though they were more effective at fighting desertion
+on average. Horses could not operate easily in rugged terrain and therefore lost much of their
+advantage for enforcing conscription in mountainous regions.
+   24
+      This method is described in more detail in Nunn and Puga (2012, pp. 21–22).

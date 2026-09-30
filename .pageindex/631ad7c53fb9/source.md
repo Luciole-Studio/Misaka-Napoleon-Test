@@ -1,0 +1,48 @@
+# SOURCES — IT2 那不勒斯与西西里（t_8f2668）
+
+引用诚信声明：以下分"本卡实际阅读"“转引层"“未获取"三档。所有页码以本卡下载版本为准；Davis页码=书页（PDF页-9），其余标明。二手著作内引的档案系列（ANP、ASN、AAEP、BNP、PRO/TNA、A de G）**均为转引谱系，本卡未亲阅原档**。
+
+## 一、本卡实际阅读（全文可检索文本在workspace）
+
+1. **Davis, John A., *Naples and Napoleon: Southern Italy and the European Revolutions (1780–1860)*, Oxford UP 2006.**
+   文件：downloads/IT2_Davis_Naples_and_Napoleon__56c91cc713a7.pdf + 同名.txt（MD5前缀56c91cc713a7，Anna's Archive）。本卡通读ch.7–15（书pp.129–330），逐条摘录见notes_davis*.md。承重：拜永条约义务、1808–13预算序列（Mosbourg账）、1811危机、卡拉布里亚战争与Manhès镇压（含王家宪兵1812年5,421人报告）、封建委员会、烧炭党、1814–15、复辟与1820–21。
+2. **Gregory, Desmond, *Sicily: The Insecure Base. A History of the British Occupation of Sicily, 1806–1815*, Fairleigh Dickinson UP 1988.**
+   文件：downloads/IT2_Gregory_Sicily_Insecure_Base__c5e2c8e4567c.pdf + .txt（AA）。重点读ch.2–3、6–9、11与附录A/B（PDF pp.30–52, 63, 83–133, 141–146）。承重：补贴序列（£150k→300k→400k）、王军与民兵实况、1812宪法、7,300人师、13,500人输西班牙、经济影响。
+3. **Rosselli, John, *Lord William Bentinck and the British Occupation of Sicily, 1811–1814*, Cambridge UP 1956.**
+   文件：downloads/IT2_Rosselli_Bentinck_Sicily__c2d83f774574.pdf + .txt（AA）。重点读Introduction、ch.VI与附录A/B（PDF pp.26–27, 145–150, 175–177）。承重："Sogno filosofico"（西西里入英）档案学、Drummond使命、£400,000条约、伦敦-巴勒莫决策链。
+4. **Johnston, R. M., *The Napoleonic Empire in Southern Italy and the Rise of the Secret Societies*, 2 vols., Macmillan 1904.**
+   文件：downloads/IT2_Johnston_v1.txt（archive.org: napoleonicempire01john）、IT2_Johnston_v2.txt（napoleonicempire02john）；另downloads/IT2_Johnston_Napoleonic_Southern_Italy__13a72796ecd0.pdf（AA本，无OCR，仅备影印对照）。选读：旧制度国情（v1 ch.1）、1806征服与卡拉布里亚（v1 ch.3）、约瑟夫财政（v1 ch.5）、缪拉军队与1814–15（v1 ch.9–12）、复辟secret societies与1820–21（v2 ch.2–5）。承重：Bianchini 1790岁入表、Masséna兵力、1806囚犯俘虏1万、1815野战军35,000、1821年25,000、普利亚社团30–40,000。
+5. **Rambaud, Jacques, *Naples sous Joseph Bonaparte 1806–1808*, Plon 1911.**
+   文件：downloads/IT2_Rambaud_Naples_Joseph.txt（archive.org: rambaud-naples-sous-joseph-bonaparte-1806-1808，djvu文本，OCR质量中等）。选读财政两章（印pp.324, 336区, 364区）。承重：fondiaria定额与实收（700万vs550万；卡拉布里亚70万vs45万）、1808各部预算（战争部4,534,000 ducats/半年）、债务口径（流动债9.26m；永久债降至50.4m；Bianchini毛口径430m）、薪俸表。
+6. **Esdaile, Charles J. (ed.), *Popular Resistance in the French Wars: Patriots, Partisans and Land Pirates*, Palgrave 2005.**
+   文件：downloads/IT2_Esdaile_Popular_Resistance__5769805d6a10.pdf + .txt（AA）。查目录确认无卡拉布里亚专章（Forrest盗匪镇压章与Esdaile总论为背景参照）；本卡未据其立任何独立结论。
+7. **Gregory, Desmond, "The British Presence in Mediterranean Islands, 1793–1815", *Storja* '98 (1998).**
+   文件：downloads/B6_Gregory1998_Mediterranean.pdf（doc c21dc17061a3，B6卡遗留资产复用）。承重：18岛占领清单、"主权基地"逻辑。
+8. **Delpu, P.-M., I. Moullier, M. Traversier, "Gouverner Naples à l'époque napoléonienne: une histoire européenne", HAL hal-01892692 (2018).**
+   文件：downloads/f1_gouverner_naples_hal.pdf（F1卡遗留资产复用）。史学定位用（那不勒斯=帝国治理实验室论）。
+9. **Le Brethon, Paul (ed.), *Lettres et documents pour servir à l'histoire de Joachim Murat*, vols. 6–8, Plon 1908–14.**
+   文件：downloads/IT2_LeBrethon_v6.txt、IT2_LeBrethon_v7.txt、IT2_LeBrethon_v8.txt（archive.org: lettresetdocumen06mura/07joac/08joacuoft，djvu文本）。**注意：该刊本止于1810-08-06（v.8），1811–15卷从未出版**——1811危机与1815年须由Correspondance de Napoléon、Davis所引ANP 31 AP系列与Colletta承担。本卡经Davis转引其vi.410（1808-11-15削息信）、vi.478（193,000 ducats现金）、viii.3838（Berthier"做法国人"信）等；直接检索v6–v8全文用于核对时段与体例。
+10. **复用上一轮t_7da32d已核一手锚点**（原文保存于downloads/pages/）：
+    - 1806-03-30约瑟夫受封令三冠分离条款：downloads/pages/649e54bf4408.md（Panckoucke 1821, Gutenberg 13192）。
+    - 1811-07-06拿破仑致Clarke（Grenier脱离那王指挥）：downloads/pages/6864746209f3.md L542-548（napoleon-histoire.com转载，未对校通信原版编号）。
+    - 1815-03-30里米尼宣言：downloads/pages/567748874d93.md（it.wikisource转录，无纸本对照）。
+    - 1805-03-17意大利王国宪制令：downloads/pages/523d0f5541c4.md + downloads/c6_1805_italian_statute.pdf。
+
+## 二、转引层（经上述著作引用，本卡未亲阅）
+
+- **Colletta, Pietro, *Storia del reame di Napoli*（Cortese编1957）**：经Davis大量转引（Manhès战法ii.342为Colletta任Monteleone省督的亲历层；1820"五日革命"iii段）。本卡已下载英译本卷2（downloads/IT2_Colletta_v2_en.txt, archive.org: historykingdomn02collgoog）备查但未系统通读——标注为部分获取。
+- **Bianchini, Lodovico, *Della storia delle finanze del regno di Napoli* (1834/1839)**：三处关键数（1790岁入16.7m；1806债务105m/130m/430m三口径；复辟债务100m=五倍岁入）分别经Ermice/Davis、Johnston、Rambaud、Ostuni转引。原书archive.org有多版（bub_gb_*），未亲阅。
+- 档案系列（谱系名，未亲阅）：ANP Fonds Joseph Bonaparte 381 AP；ANP 31 AP（Murat papers）；ANP AFiv 1714；ASN Ministero Esteri f.5490/5545、Min. Interno、Archivio Tommasi；AAEP CP/CC Naples；BNP Fonds italiens 1124–1127（卡拉布里亚镇压报告群）；A de G C(5*)系列；PRO WO 1；BSPN Ms XXI B5。
+- Ermice(2005)、Villani(1964)、Cortese(1926)、Valente(1965)、Cutolo(1937)、Espitalier(1910–12)、Weil(1902–15)、Tulard(1983)、Ostuni(1992)、Castellano(2004)、Pilati(1978)、Martuscelli(1979)：均经Davis脚注转引。
+- Pasley(1810)、Leckie、Bunbury(1854)、Balsamo、Brydone(1770)：经Gregory/Rosselli转引。
+
+## 三、检索未获/未采
+- **Finley, Milton, *The Most Monstrous of Wars: The Napoleonic Guerrilla War in Southern Italy, 1806–1811* (LSU Press 1994)**：Anna's Archive当前检索未命中（search-book三种关键词组合，status=not found in current AA-indexed searches；不等于全网不存在）。其承重功能由Davis ch.11（同题材更新研究）+Johnston v1+BNP Fonds italiens转引层+王家宪兵1812年报数据替代。若后续获取，优先核对其对1806–07法军兵力与损耗的估计以校正falsifier区间。
+- Acton, *The Bourbons of Naples*（AA有5576ab53a786…，31.7MB）：未下载（Davis/Gregory已覆盖宫廷叙事；如红队需要可即时补取）。
+- Colletta意大利文原版与法译、Blanch全集、Cuoco全集：未获取，经Davis/Johnston转引。
+- 非英语来源合规说明：本卡直接使用法语（Rambaud、Le Brethon、napoleon-histoire转载文书）与意大利语（里米尼宣言、1805宪制令）来源≥2种；意大利语二手专著（Valente、Villani、Ermice、Scirocco、De Martino）经Davis脚注进入并标注。
+
+## 工具与获取路径记录
+- Anna's Archive skill：search-book+download-book五次（Davis/Gregory/Rosselli/Esdaile/Johnston-AA本），MD5校验全过。
+- archive.org直连：Johnston v1/v2、Rambaud、Colletta英译v2、Le Brethon v6–8 djvu.txt。
+- 上一轮资产复用：t_7da32d（四个一手锚点页）、B6卡（Gregory 1998）、F1卡（HAL论文）。

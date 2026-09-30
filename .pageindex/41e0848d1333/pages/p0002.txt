@@ -1,0 +1,49 @@
+SOEPpapers on Multidisciplinary Panel Data Research
+at DIW Berlin
+
+This series presents research findings based either directly on data from the German Socio-
+Economic Panel Study (SOEP) or using SOEP data as part of an internationally comparable
+data set (e.g. CNEF, ECHP, LIS, LWS, CHER/PACO). SOEP is a truly multidisciplinary
+household panel study covering a wide range of social and behavioral sciences: economics,
+sociology, psychology, survey methodology, econometrics and applied statistics, educational
+science, political science, public health, behavioral genetics, demography, geography, and
+sport science.
+
+The decision to publish a submission in SOEPpapers is made by a board of editors chosen
+by the DIW Berlin to represent the wide range of disciplines covered by SOEP. There is no
+external referee process and papers are either accepted or rejected without revision. Papers
+appear in this series as works in progress and may also appear elsewhere. They often
+represent preliminary studies and are circulated to encourage discussion. Citation of such a
+paper should account for its provisional character. A revised version may be requested from
+the author directly.
+
+Any opinions expressed in this series are those of the author(s) and not those of DIW Berlin.
+Research disseminated by DIW Berlin may include views on public policy issues, but the
+institute itself takes no institutional policy positions.
+
+The SOEPpapers are available at
+http://www.diw.de/soeppapers
+
+Editors:
+Jürgen Schupp (Sociology)
+Gert G. Wagner (Social Sciences, Vice Dean DIW Graduate Center)
+
+Conchita D’Ambrosio (Public Economics)
+Denis Gerstorf (Psychology, DIW Research Director)
+Elke Holst (Gender Studies, DIW Research Director)
+Frauke Kreuter (Survey Methodology, DIW Research Professor)
+Martin Kroh (Political Science and Survey Methodology)
+Frieder R. Lang (Psychology, DIW Research Professor)
+Henning Lohmann (Sociology, DIW Research Professor)
+Jörg-Peter Schräpler (Survey Methodology, DIW Research Professor)
+Thomas Siedler (Empirical Economics)
+C. Katharina Spieß (Empirical Economics and Educational Science)
+
+
+ISSN: 1864-6689 (online)
+German Socio-Economic Panel Study (SOEP)
+DIW Berlin
+Mohrenstrasse 58
+10117 Berlin, Germany
+
+Contact: Uta Rahmann | soeppapers@diw.de

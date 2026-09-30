@@ -1,0 +1,13 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: borne_1793.csv
+
+```meta
+▸ table "borne_1793.csv" (5 data rows)
+```
+year,time_scope,metric,value,unit,source,locator,quality
+1793,January,naval_men_borne,23000,persons,Hansard_HC_1839-03-04_vol45,c1237,retrospective_rounded_marines_scope_unspecified_not_mustered
+1793,March,naval_men_borne,39000,persons,Hansard_HC_1839-03-04_vol45,c1237,retrospective_rounded_marines_scope_unspecified_not_mustered
+1793,May,naval_men_borne,50000,persons,Hansard_HC_1839-03-04_vol45,c1237,retrospective_rounded_marines_scope_unspecified_not_mustered
+1793,July,naval_men_borne,60000,persons,Hansard_HC_1839-03-04_vol45,c1237,retrospective_rounded_marines_scope_unspecified_not_mustered
+1793,before_year_end,naval_men_borne,70000,persons,Hansard_HC_1839-03-04_vol45,c1237,retrospective_rounded_marines_scope_unspecified_not_mustered

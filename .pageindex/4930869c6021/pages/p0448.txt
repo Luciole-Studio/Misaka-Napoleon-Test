@@ -1,0 +1,66 @@
+
+
+ The changes in the Lent conception rate are admittedly often so small – no more than tenths of one percent – that they may statistically be the outcome of random results, as computer tests of their validity have demonstrated.
+However, the occurrence of certain annual rises and falls running counter to natural growth and which can be related to wartime events, especially the restoration of absolutism in 1814, indicate that in historical terms more than
+randomness was at stake.
+
+===== FILE: OEBPS/35_App04.xhtml =====
+Napoleon’s Cursed War
+
+ Appendix 4
+
+ Guerrillas
+
+ The author’s database of 751 guerrilleros (-as) is the foundation of the following tables. * (As the original sources on which it is based are inordinately long, they are given at the end of this appendix.) The db’s purpose was
+to construct a social profile of the guerrilleros and en route to discover as much as possible about their numbers, the regions in which – and the reasons for which – they fought. The criterion for a guerrillero’s inclusion in
+the db was that more than one fact other than name should be established about each. (Even so, existing information was so meagre that many of the data fields yielded information on only about one-third of the db’s total;
+consequently each of the tables states the number and percentage of those in the db about whom this data is known.)
+
+ In order to compute guerrilleros’ total numbers – a particularly difficult task because a considerable number of parties have no recorded figures, and of those that do, the numbers are not always of consecutive years – a special
+procedure was adopted: parties were first segregated into large, medium and small; thereafter, if various figures were given for different months in one year, the last month available was taken as the yearly figure; and where
+data existed for one year but not the next, it was assumed that the same numbers existed as in the prior year. While in the big parties, which dominated in numbers, this was of little general import since the addition or loss of
+some members did not fundamentally change the overall picture, in the medium and small parties the effect was more significant. However, as the latter’s members formed by 1811–1812 only one-sixth of those of the large parties the
+margin of error was reduced.
+
+ TABLE 4.1 START OF GUERRILLA ACTIONS *
+
+     YEAR
+ Numbers
+ % (of 216)
+
+     1808
+   54
+   25.0
+
+     1809
+   42
+   19.4
+
+     1810
+   73
+   33.8
+
+     1811
+   25
+   11.6
+
+     1812
+   21
+     9.7
+
+     1813
+     1
+     0.5
+
+     TOTAL
+ 216
+ 100
+
+ Source : Author, db/Guerrillas
+
+ * The commencement year is known for only 216 (28.8%) of the 751 recorded guerrilleros
+
+ TABLE 4.2 TYPES OF GUERRILLA PARTIES
+
+ Of the total guerrillero db of 751 members, 448 (59.7%) are recorded as having fought in one of three distinct types of guerrilla: partisans (those who raised parties without official permission); privateers (those having
+received civilian or military permission); and ‘religious crusades’ (parties led by or manned principally by clerics).

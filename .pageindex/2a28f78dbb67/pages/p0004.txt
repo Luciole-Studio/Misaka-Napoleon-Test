@@ -1,0 +1,43 @@
+
+
+### 2. 三条财政分支（不替代C17的军事胜利路径）
+
+| 分支 | 同时代／史实锚点 | 明示新增假设 | 财政可持续性判断与败因 |
+|---|---|---|---|
+| A：继续重驻军、强制分担及赠产特权 | 1810-03-20汉诺威信；1810-05-05西班牙军饷信 | 维持类似负担，且无更大新增征服收益 | 【裁量｜低至中】短期能续，长期风险高；藩属财政收缩、欠款与反抗增加控制成本 |
+| B：和平减负＋有限信用＋赠产渐进转换 | 1810-01-09和平编制；03-03赠产法令；05-05/09信用指令 | 军费实降，外交承诺可信，转型不被再战打断；这是组合假设，非已发现一揽子方案 | 【裁量｜中】最值得保留；失败点是贡款骤减、军费不降、内地纳税与产业利益阻力 |
+| C：英国式长期战争公债体系移植 | 现有法国短票是有限起点，非该体系的同义物 | 需新增财政承诺、债务市场深度及政治约束 | 【裁量｜低】文书支持不足，不作为“最小改写”主干；不是经济学上不可能，而是本轮证据未授予该分支 |
+
+【裁量｜中高置信】若英国仍敌对，B并不自动带来足够海军经费：必须先算陆军驻防节省、海军资本支出与训练时滞。若英国已接受共存，B的必要财政条件更容易满足，但这属于C12/C13/C16的外交政治条件，不能由C9自行假定已实现。
+
+**S3白银互斥条款｜模型一致性约束：**若强化封锁实际切断许可证、中立航运或跨国结算，不得同时计入Hope–Baring管道完整银流收益。若为维持该管道保留商业豁免，则须相应放松“封锁无泄漏”的假设；不能既享用中介与英国商业利益提供的通道，又假定其利益与活动全部被消灭。来源为C5移交 `nodes/r_b55f2c1cf5/cards/t_c2dbca/britain_silver.md`“白银支付链”及Marichal《El comercio neutral y los consorcios extranjeros en Veracruz,1805–1808》(2000), pp.163–192，已重读缓存 `downloads/pages/63d42a1442bd.md` 的“Las operaciones…”节相关代理、中立船及许可证段（约237–304行）。这是对已见1805–1808机制的条件外推，不保证管道在更晚年份原样持续；欧洲端最终净结算未闭合，不设银流收益数值。
+
+【模型推演】到摄政期或第二代，原来依皇帝裁量维系的赠产、盟国分担与债务可能被重新议价。现有工具证明“有转型入口”，尚不足证明直到1830–1848的继承稳态。不得把法国战场胜利直接等号化为百年财政霸权。
+
+## 七、给C4／C8／C17的接口与缺口
+
+- **C4：**采用有限英国信用弹性而非无限信用；1797和1810危机不等于财政终点。1810–1811封锁迫和阈值仍需其商业、粮价和政治证据。英国战后军费下降不是法国胜利情景中可无条件复制的参数。
+- **C8：**财政转型不是必须把全部军功贵族消灭；1810赠产制度提供资产内地化路径。但其兑现依赖租金／税收和合法性，继承时仍需谈判。
+- **C17：**Branda42%只指额外融资，不得当全部军费；国家贷款、就地军需与盟军节省不可同时计入法国现金；减贡款须与减驻军逐期配对。
+- **C15：**贝格案例显示法国支配不等于大陆统一市场；财政改革必须与藩属产业和消费税基一致。
+
+**最有价值的后续资料：**(1) Branda原PDF pp.10–13与原账对校；(2) Grab 1998意大利财政专文逐年配对；(3) Connelly p.208、Berding财政章；(4) Mollien按1810-05-05命令提交的西班牙军饷分担报告；(5) 1810预算报告和03-03法令原刊；(6) Bordo–White正式版及英国议会财政原表。当前缺口允许有限结论，不允许精确英法净汲取率或“谁会在某年先破产”预测。
+
+## 八、来源、版本与独立性
+
+仅以下实际读取内容支撑正文；网络转录与原版影印逐页对校不同。所有本地路径相对于项目根目录。二手引用的原档案没有读过。
+
+| 编号 | 文献、实际阅读位置 | 访问链接与本地文件 |
+|---|---|---|
+| S1 | Crétet，1806-05-13银行演说；PDF pp.2–5、9–11，关键PDF p.9 | https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1994&context=ypfs-documents2 ；`downloads/c9_cretet1806.pdf`；doc `748d34adda0c` |
+| S2 | Monika Senkowska-Gluck，“Les donataires de Napoléon”，RHMC 17(3), 1970, pp.680–693；关键683、689–690 | https://www.persee.fr/doc/rhmc_0048-8003_1970_num_17_3_2102 ；`downloads/pages/de8da74a2316.md` |
+| S3a | 《Correspondance de Napoléon Ier》1810年5月现代网页转录；05-05两封Mollien信、05-09信 | https://napoleon-histoire.com/correspondance-de-napoleon-ier-mai-1810/ ；`downloads/pages/25240612f417.md`，关键394–402、530–536行 |
+| S3b | 同上，1810年1–3月；01-09致Clarke、03-20致Champagny | https://napoleon-histoire.com/correspondance-de-napoleon-ier-janvier-fevrier-mars-1810/ ；`downloads/pages/df27e5314cf3.md`；未对校原刊信号卷页 |
+| S4 | Patrick K. O’Brien，“The Political Economy of British Taxation, 1660–1815”，EcHR 41(1), 1988, pp.1–32；表1及随后论借款段 | http://slantchev.ucsd.edu/courses/ps143a/readings/O'Brien%20-%20Political%20Economy%20of%20British%20Taxation,%201660-1815.pdf ；`downloads/pages/bb07a813031b.md` |
+| S5 | Jean Gabillard，“Le financement des guerres napoléoniennes et la conjoncture du Premier Empire”，Revue économique 4(4), 1953, pp.548–572；关键554、556–563 | https://www.persee.fr/doc/reco_0035-2764_1953_num_4_4_406987 ；`downloads/pages/e4f61139af7d.md`；其Mollien／Gaudin回忆录及圣赫勒拿引述皆属回溯性转引 |
+| S6 | Pierre Branda，“Did the war pay for the war?…”，Napoleonica. La Revue 3, 2008；正文及附录pp.10–13 | https://doi.org/10.3917/napo.083.0001a ；`downloads/pages/2e17b555b294.md`；带分页转录 https://www.scribd.com/document/903628600/Napoleons-Attempts-to-Make-His-Campaigns-Self-Financing ，`downloads/pages/906d4b3f363b.md`。两个网页是同一来源；Scribd网页自动问答不作证 |
+| S7 | Alexander Grab，Napoleon and the Transformation of Europe，Palgrave, 2003；pp.101、161–162、219注43 | https://ndl.ethernet.edu.et/bitstream/123456789/44567/1/2.Alexander%20Grab.pdf ；`downloads/pages/2ad693d5ac13.md`；Connelly、Berding均明确为转引 |
+| S8 | O’Brien & Palma，Danger to the Old Lady of Threadneedle Street?，EHES WP100，2016；§1 | https://ehes.org/wp/EHES_100.pdf ；`downloads/pages/a2034fc310ff.md` |
+| S9 | Larry Neal，“The Financial Crisis of 1825 and the Restructuring of the British Financial System”，FRB St. Louis Review 80, 1998, pp.53–76；“THE SHOCK…”节 | https://doi.org/10.20955/r.80.53-76 ；`downloads/pages/004521d1e27f.md` |
+| S10 | Pamfili Antipa & Christophe Chamley，Monetary and Fiscal Policy in England during the French Wars (1793–1821)，2017-10稿；pp.19、23–31 | https://people.bu.edu/chamley/Ec365-17/UKFR.pdf ；`downloads/pages/cf02c798c3f0.md`；不是Bordo–White正文替代品 |
+| S11 | Eli F. Heckscher，The Continental System: An Economic Interpretation，英文版；pp.311–314 | https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/327/0142_Bk.pdf ；`downloads/pages/70cc6a857e5f.md` |

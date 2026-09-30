@@ -1,0 +1,57 @@
+# C8 有界案例史料包：宗教、荷兰、蒂罗尔、威斯特伐利亚与 Broers 模型
+
+## 使用说明与完成边界
+
+仅处理所指定材料，不作欧洲秩序总装。以下引文来自本次实际打开的网页正文、数字文书或公开学术文章；不是搜索摘要的拼接。所有 `downloads/pages/` 路径均相对于项目根 `/Users/makiko/Documents/exam/`，是抓取文本而非原件影像。无纸本分页的网页以章节、文书日期/收信人、脚注位置和可检索原句定位；没有虚构页码。网页文字仍可能有 OCR 或编辑错误。
+
+材料层级：**P**＝原始文书的公开转录/译文（不等于亲验手稿）；**S**＝现代研究或学术编辑说明；**R**＝事后回忆/辩解，只经二手接触时明确标记。本次取得宗教与荷兰直接文书；威斯特伐利亚取得学术文献库的宪法节录全文，而非整部宪法；蒂罗尔直接史料仍主要是二手文章转引的通信。该缺口不得隐藏。
+
+## 1. 宗教：1809 年绝罚与 1811 年会议
+
+### 1.1 P：庇护七世《Quum memoranda》，1809-06-10
+
+- 实际版本：梵蒂冈网站意大利文；官方页面题为 **Breve**（简函）。通常被叙述为“绝罚诏书/bull”，引用时宜保留该页自身标题。未校拉丁文原刊。
+- URL：https://www.vatican.va/content/pius-vii/it/documents/breve-quum-memoranda-10-giugno-1809.html
+- 本地：`downloads/pages/282993960dad.md`，正文及结尾已读。
+
+**Q-R1，绝罚对象，段首“Pertanto scomunichiamo”：**
+> “Pertanto scomunichiamo ed anatemizziamo nuovamente, se necessario, i loro mandanti, fautori, consulenti, aderenti, o comunque implicati nell’esecuzione dei predetti mali”
+
+【事实：文书措辞】对象是上述恶行的命令者、支持者、顾问、附从者和参与执行者；不要把引文改写为文书逐字点名“拿破仑”。
+
+**Q-R2，禁止伤害，紧接绝罚规定之后：**
+> “nessuno ardisca recare danno, pregiudizio, ingiustizia o nocumento a coloro ai quali è diretta la presente lettera, o ai loro beni, diritti o prerogative.”
+
+【事实：文书措辞】同时命令不得伤害被该函针对之人及其财物、权利或特权。**绝罚不等于教皇命令武装叛乱**；这是 C8 尤须保留的限定。
+
+**Q-R3，世俗主权之论证，段首“E quanto grande”：**
+> “quanto esso sia necessario per garantire al Capo supremo della Chiesa il libero e sicuro esercizio dell’attività spirituale”
+
+【事实：当事人主张】教皇把世俗统治表述为保障精神职务自由、安全行使的条件。这能证明教皇的公开论证，不能自动证明世俗主权是宗教自由唯一可能的制度形式。
+
+【裁量；高置信度】C8 可写成：兼并不是仅夺取地方财政，而是触及教皇关于全教会独立性的制度性主张；然而绝罚本身明确限制对被绝罚者实施人身及财产伤害。
+
+### 1.2 S：Peter Hicks，公开历史文章
+
+- *Napoleon and the Pope: from the Concordat to the Excommunication*，Fondation Napoléon。
+- URL：https://www.napoleon.org/en/history-of-the-two-empires/articles/napoleon-and-the-pope-from-the-concordat-to-the-excommunication/
+- 本地：`downloads/pages/efa0bb62bc3b.md`；正文和注释已读。
+
+**Q-R4，段首“The conflict was to escalate”：**
+> “Napoleon, the usurper, encourager and advisor, was not explicitly named.”
+
+【文献推断：Hicks】文章把教皇拒绝为部分皇帝提名主教授职、法国军事兼并及绝罚串联起来。其关于逮捕命令究竟有多明确的解释不宜直接升格为定论。
+
+其中拿破仑“Si le Pape […] prêche la révolte […] on doit l’arrêter.”系 **转引自 Hicks 注10，再引 Bernardine Melchior-Bonnet, *Napoléon et le Pape*（1958），p.122**，本次未读该书和信件原折，不标直接档案。
+
+### 1.3 S：Ambrogio A. Caiani，1811 会议公开学术全文
+
+- “The Concile National of 1811: Napoleon, Gallicanism and the Failure of Neo-Conciliarism”, *The Journal of Ecclesiastical History* 70(3), 2019, pp.546–564。
+- URL：https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/concile-national-of-1811-napoleon-gallicanism-and-the-failure-of-neoconciliarism/16AF80367F48F9D01E63DDC3A69F1C70
+- 本地：`downloads/pages/e6ebb5ba44b2.md`。已读完整论述主体；所用引句以段首/脚注锚定，不给未经 PDF 对页的单页页码。
+
+**Q-R5，摘要及正文段首“This article puts forward”：**
+> “the failure of the concile national was not strategic, but tactical.”
+
+**Q-R6，正文段首“Those who opposed”，注71前：**
+> “Most bishops were moderates, who hoped that the council would present an opportunity for discussion, and that a new concordat might result.”

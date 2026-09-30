@@ -1,0 +1,68 @@
+3292                                       THE AMERICAN ECONOMIC REVIEW                                  DECEMBER 2011
+
+
+
+                                             Table 1—Territories and Reforms
+
+                          Years of                    Abolition                   Abolition     Reforms Reforms      Pop.
+                           French         Civil           of        Agrarian         of         index as index as   weights
+Territory                 presence        code        serfdom        reform        guilds       of 1850 of 1900     (1750)
+                             (1)           (2)           (3)           (4)          (5)            (6)      (7)       (8)
+Panel A. Treatment
+Rhineland (Prussia)          19           1802          1798          1804          1795         50.25    100.25    1,439
+Palatinate (Bavaria)         19           1802          1798          1804          1795         50.25    100.25      239
+Mark/Ruhr (Prussia)           6       1810–15, 1900     1808          1825          1809         28.25     65.75      150
+Westphalia (Prussia)          6       1810–15, 1900     1808          1825          1809         28.25     65.75      529
+Brunswick                     6       1808–14, 1900 1808–18, 1834 1809–18, 1834 1808–15, 1864    16        50         155
+Province of Saxony            6       1808–15, 1900     1808          1809          1809         32.75     70.25      763
+  (Prussia)
+Hessen-Kassel                 6       1808–14, 1900 1808–14, 1832 1809–14, 1832 1808–16, 1869    15.25     48         294
+Hanover                       3       1808–13, 1900 1808–14, 1833 1809–14, 1833 1808–15, 1869    14.25     47       1,090
+Average                       9.98                                                               32.41     72.88
+
+
+Panel B. Control
+Baden                         0           1810          1783          1820          1862         34.25     81.25      609
+Bavaria, southern half        0           1900          1808          1826          1868         16.5      49.5     1,163
+Hessen-Darmstadt              0           1900          1811          1816          1866         18.25     51.75      264
+Saxony                        0           1865          1832          1832          1862          9        52.25    1,020
+Württemberg                   0           1900          1817          1836          1862         11.75     46.25      925
+Average                       0                                                                  16.31     54.46
+
+
+Panel C. Control (east of the Elbe)
+Brandenburg (Prussia)          0          1900          1811          1821          1810         27        64.5       797
+East Prussia (Prussia)         0          1900          1811          1821          1810         27        64.5       554
+Pomerania (Prussia)            0          1900          1811          1821          1810         27        64.5       342
+Silesia (Prussia)              0          1900          1811          1821          1810         27        64.5     1,053
+Mecklenburg-Schwerin           0          1900          1820          1862          1869          7.5      37.25      217
+Schleswig-Holstein             0          1900          1805          1805          1867         22.5      55.75      541
+Average                        0                                                                 25.1      61.46
+
+Notes: Sources for the dates of reform are listed in the online Appendix. Averages are weighted by total population
+in 1750 (reported in column 8, in 1,000s). The reform index in columns 6 and 7 has been computed exemplarily for
+two dates (1850, 1900) according to the formula reported in the text.
+
+
+
+
+code (Bürgerliches Gesetzbuch) of 1900.10 The civil code was introduced between
+1802 and 1810 in the areas controlled by the French. Note that although Baden was
+never treated, it introduced a version of the French civil code in 1810.
+   The following two columns examine reforms in the agrarian sector: first, in
+column 3, the date of the effective abolition of serfdom (often a nominal though
+symbolic measure, as serfdom was not practiced any more around 1800 in most
+parts of Germany west of the Elbe) and, in column 4, the proclamation of mea-
+sures determining the resolution of feudal landholding arrangements, such as the
+Grundherrschaft. In most cases, these measures consisted of laws allowing the pos-
+sibility to turn feudal arrangements into free contracts and determining the price
+needed to redeem the property of a parcel of land (usually, 20–25 times the annual
+payment due to the landlord). From the dates in columns 3 and 4, it is evident how
+polities in the treated area undertook these reforms earlier than the ones in the con-
+trol regions. At the same time, it also appears that the polities that were assigned to
+Prussia after the Congress of Vienna mostly maintained these reforms (Prussia itself
+
+   10
+      Our results are robust to considering also other forms of written civil codes that did not recognize uni-
+versal equality in front of the law, such as the Prussian Allgemeines Landrecht of 1795 or the Bavarian Codex
+Maximilianeus of 1756; see online Appendix E.

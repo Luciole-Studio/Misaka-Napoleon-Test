@@ -1,0 +1,11 @@
+scenario,parameter,low,high,status,grounds
+S2,neutral_retention,0.7,0.95,assumption,S01 p144-146 and209-213; S03 p856; not econometric estimates
+S2,continental_replacement,0.1,0.3,assumption,S01 p144-146 and209-213; S03 p856; not econometric estimates
+S2,realized_price,0.9,1,assumption,S01 p144-146 and209-213; S03 p856; not econometric estimates
+S3,neutral_retention,0.15,0.4,assumption,S01 p144-146 and209-213; S03 p856; not econometric estimates
+S3,continental_replacement,0.1,0.35,assumption,S01 p144-146 and209-213; S03 p856; not econometric estimates
+S3,realized_price,0.65,0.85,assumption,S01 p144-146 and209-213; S03 p856; not econometric estimates
+all,export_estate_share,0.3,0.65,assumption,model_protocol; b bounded by S01p37 and S02p263
+all,inland_estate_share,0.03,0.15,assumption,model_protocol; b bounded by S01p37 and S02p263
+all,british_share,0.5,0.75,assumption,model_protocol; b bounded by S01p37 and S02p263
+all,fixed_commitments,0.25,0.5,assumption,model_protocol; b bounded by S01p37 and S02p263

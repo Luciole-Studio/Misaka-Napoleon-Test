@@ -1,0 +1,62 @@
+                                                Table A1: Correlations with potato suitability.
+
+                                                                                                                 Potato suitability
+
+
+
+
+                                  Other suitability measures
+                                                               Neighbors' potato suitability                          0.661
+
+                                                               All crops suitability                                  0.577
+
+                                                               Old World staple crops suitability                     0.712
+
+                                                               New World staple crops suitability                     0.601
+
+
+
+
+                                  Geography
+                                                               Average elevation                                      -0.216
+
+                                                               Average ruggedness                                     -0.058
+
+                            Notes : The table reports pairwise correlation coefficients for the 132
+                            Old World countries in the sample.
+
+
+
+
+                                                                    Table A2: Summary statistics.
+
+                                                                                       Country level data                             City level data
+                                                                             Obs             Mean       Std. error           Obs          Mean          Std. error
+A. Demographic variables
+  ln Population                                                              922            -0.265          (1.808)           885         -2.669         (0.920)
+  Population growth                                                          790             0.231          (0.272)           649         0.331          (0.650)
+  City population share                                                      922             2.794          (0.593)
+  Change in city population share                                            790             0.007          (0.049)
+B. Agricultural suitability variables
+  Potato suitability                                                         922             0.078          (0.144)           885         0.278          (0.292)
+  All crops suitability                                                      922             0.290          (0.236)           885         0.636          (0.300)
+  Old World staple crops suitability                                         922             0.211          (0.206)           885         0.433          (0.316)
+  New World staple crops suitability                                         922             0.170          (0.175)           885         0.362          (0.292)
+  Neighbors' potato suitability                                              922             0.063          (0.106)
+C. Geography variables
+  Average elevation                                                          922           613.130      (563.060)             885        812.851         (0.708)
+  Average ruggedness                                                         922             3.404          (0.329)           885        15.908          (0.990)
+  Average distance from ice-free coast                                       922           380.556      (431.544)
+D. Other variables
+  Existence of serfdom or slavery in 1700                                    922             0.161          (0.350)
+  City population share in 1700                                              922             2.229          (0.410)
+  Population growth 1000-1400                                                922             0.098          (0.078)
+  Part of the Roman Empire                                                   922             0.061          (0.239)
+  ln Total slave exports                            922        -14.294       (4.332)
+Notes : The table reports summary statistics for the variables used in the analysis. An observation is either a country and time
+period or a city and time period.
+
+
+
+
+                                                                                           43

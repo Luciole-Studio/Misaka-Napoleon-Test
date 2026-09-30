@@ -1,0 +1,316 @@
+## Sheet: Full data (continued)
+	A	B	C	D	E
+6939	GBR	United Kingdom	1619	1,586	
+6940	GBR	United Kingdom	1620	1,842	
+6941	GBR	United Kingdom	1621	1,832	
+6942	GBR	United Kingdom	1622	1,581	
+6943	GBR	United Kingdom	1623	1,568	
+6944	GBR	United Kingdom	1624	1,781	
+6945	GBR	United Kingdom	1625	1,798	
+6946	GBR	United Kingdom	1626	1,730	
+6947	GBR	United Kingdom	1627	1,733	
+6948	GBR	United Kingdom	1628	1,947	
+6949	GBR	United Kingdom	1629	1,430	
+6950	GBR	United Kingdom	1630	1,416	
+6951	GBR	United Kingdom	1631	1,451	
+6952	GBR	United Kingdom	1632	1,630	
+6953	GBR	United Kingdom	1633	1,501	
+6954	GBR	United Kingdom	1634	1,519	
+6955	GBR	United Kingdom	1635	1,571	
+6956	GBR	United Kingdom	1636	1,526	
+6957	GBR	United Kingdom	1637	1,476	
+6958	GBR	United Kingdom	1638	1,624	
+6959	GBR	United Kingdom	1639	1,640	
+6960	GBR	United Kingdom	1640	1,683	
+6961	GBR	United Kingdom	1641	1,499	
+6962	GBR	United Kingdom	1642	1,635	
+6963	GBR	United Kingdom	1643	1,725	
+6964	GBR	United Kingdom	1644	1,745	
+6965	GBR	United Kingdom	1645	1,511	
+6966	GBR	United Kingdom	1646	1,524	
+6967	GBR	United Kingdom	1647	1,515	
+6968	GBR	United Kingdom	1648	1,535	
+6969	GBR	United Kingdom	1649	1,508	
+6970	GBR	United Kingdom	1650	1,446	
+6971	GBR	United Kingdom	1651	1,527	
+6972	GBR	United Kingdom	1652	1,720	
+6973	GBR	United Kingdom	1653	1,920	
+6974	GBR	United Kingdom	1654	1,903	
+6975	GBR	United Kingdom	1655	1,982	
+6976	GBR	United Kingdom	1656	1,835	
+6977	GBR	United Kingdom	1657	1,727	
+6978	GBR	United Kingdom	1658	1,702	
+6979	GBR	United Kingdom	1659	1,441	
+6980	GBR	United Kingdom	1660	1,578	
+6981	GBR	United Kingdom	1661	1,610	
+6982	GBR	United Kingdom	1662	1,664	
+6983	GBR	United Kingdom	1663	1,959	
+6984	GBR	United Kingdom	1664	1,828	
+6985	GBR	United Kingdom	1665	1,907	
+6986	GBR	United Kingdom	1666	2,135	
+6987	GBR	United Kingdom	1667	2,196	
+6988	GBR	United Kingdom	1668	1,940	
+6989	GBR	United Kingdom	1669	1,991	
+6990	GBR	United Kingdom	1670	1,934	
+6991	GBR	United Kingdom	1671	1,873	
+6992	GBR	United Kingdom	1672	1,860	
+6993	GBR	United Kingdom	1673	1,897	
+6994	GBR	United Kingdom	1674	1,806	
+6995	GBR	United Kingdom	1675	1,853	
+6996	GBR	United Kingdom	1676	2,191	
+6997	GBR	United Kingdom	1677	2,029	
+6998	GBR	United Kingdom	1678	2,103	
+6999	GBR	United Kingdom	1679	1,963	
+7000	GBR	United Kingdom	1680	2,209	
+7001	GBR	United Kingdom	1681	2,004	
+7002	GBR	United Kingdom	1682	2,150	
+7003	GBR	United Kingdom	1683	2,323	
+7004	GBR	United Kingdom	1684	1,946	
+7005	GBR	United Kingdom	1685	2,110	
+7006	GBR	United Kingdom	1686	1,949	
+7007	GBR	United Kingdom	1687	2,169	
+7008	GBR	United Kingdom	1688	2,333	
+7009	GBR	United Kingdom	1689	2,233	
+7010	GBR	United Kingdom	1690	2,386	
+7011	GBR	United Kingdom	1691	2,400	
+7012	GBR	United Kingdom	1692	2,595	
+7013	GBR	United Kingdom	1693	2,197	
+7014	GBR	United Kingdom	1694	2,616	
+7015	GBR	United Kingdom	1695	2,502	
+7016	GBR	United Kingdom	1696	2,392	
+7017	GBR	United Kingdom	1697	2,361	
+7018	GBR	United Kingdom	1698	2,417	
+7019	GBR	United Kingdom	1699	2,324	
+7020	GBR	United Kingdom	1700	2,412	8,565
+7021	GBR	United Kingdom	1701	2,613	
+7022	GBR	United Kingdom	1702	2,526	
+7023	GBR	United Kingdom	1703	2,345	
+7024	GBR	United Kingdom	1704	2,778	
+7025	GBR	United Kingdom	1705	2,630	
+7026	GBR	United Kingdom	1706	2,220	
+7027	GBR	United Kingdom	1707	2,485	
+7028	GBR	United Kingdom	1708	2,636	
+7029	GBR	United Kingdom	1709	2,278	
+7030	GBR	United Kingdom	1710	2,066	
+7031	GBR	United Kingdom	1711	2,255	
+7032	GBR	United Kingdom	1712	2,257	
+7033	GBR	United Kingdom	1713	2,157	
+7034	GBR	United Kingdom	1714	2,364	
+7035	GBR	United Kingdom	1715	2,294	
+7036	GBR	United Kingdom	1716	2,367	
+7037	GBR	United Kingdom	1717	2,483	
+7038	GBR	United Kingdom	1718	2,606	
+7039	GBR	United Kingdom	1719	2,542	
+7040	GBR	United Kingdom	1720	2,715	
+7041	GBR	United Kingdom	1721	2,611	
+7042	GBR	United Kingdom	1722	2,636	
+7043	GBR	United Kingdom	1723	2,563	
+7044	GBR	United Kingdom	1724	2,528	
+7045	GBR	United Kingdom	1725	2,585	
+7046	GBR	United Kingdom	1726	2,483	
+7047	GBR	United Kingdom	1727	2,455	
+7048	GBR	United Kingdom	1728	2,554	
+7049	GBR	United Kingdom	1729	2,452	
+7050	GBR	United Kingdom	1730	2,538	
+7051	GBR	United Kingdom	1731	2,499	
+7052	GBR	United Kingdom	1732	2,654	
+7053	GBR	United Kingdom	1733	2,699	
+7054	GBR	United Kingdom	1734	2,662	
+7055	GBR	United Kingdom	1735	2,576	
+7056	GBR	United Kingdom	1736	2,745	
+7057	GBR	United Kingdom	1737	2,582	
+7058	GBR	United Kingdom	1738	2,619	
+7059	GBR	United Kingdom	1739	2,584	
+7060	GBR	United Kingdom	1740	2,526	
+7061	GBR	United Kingdom	1741	2,595	
+7062	GBR	United Kingdom	1742	2,683	
+7063	GBR	United Kingdom	1743	2,621	
+7064	GBR	United Kingdom	1744	2,565	
+7065	GBR	United Kingdom	1745	2,577	
+7066	GBR	United Kingdom	1746	2,641	
+7067	GBR	United Kingdom	1747	2,750	
+7068	GBR	United Kingdom	1748	2,713	
+7069	GBR	United Kingdom	1749	2,681	
+7070	GBR	United Kingdom	1750	2,702	
+7071	GBR	United Kingdom	1751	2,627	
+7072	GBR	United Kingdom	1752	2,738	
+7073	GBR	United Kingdom	1753	2,743	
+7074	GBR	United Kingdom	1754	2,648	
+7075	GBR	United Kingdom	1755	2,710	
+7076	GBR	United Kingdom	1756	2,643	
+7077	GBR	United Kingdom	1757	2,783	
+7078	GBR	United Kingdom	1758	2,815	
+7079	GBR	United Kingdom	1759	2,850	
+7080	GBR	United Kingdom	1760	2,915	
+7081	GBR	United Kingdom	1761	3,011	
+7082	GBR	United Kingdom	1762	2,917	
+7083	GBR	United Kingdom	1763	2,914	
+7084	GBR	United Kingdom	1764	2,898	
+7085	GBR	United Kingdom	1765	2,853	
+7086	GBR	United Kingdom	1766	2,879	
+7087	GBR	United Kingdom	1767	2,891	
+7088	GBR	United Kingdom	1768	2,911	
+7089	GBR	United Kingdom	1769	3,056	
+7090	GBR	United Kingdom	1770	2,952	
+7091	GBR	United Kingdom	1771	2,989	
+7092	GBR	United Kingdom	1772	2,890	
+7093	GBR	United Kingdom	1773	2,920	
+7094	GBR	United Kingdom	1774	2,834	
+7095	GBR	United Kingdom	1775	2,895	
+7096	GBR	United Kingdom	1776	2,962	
+7097	GBR	United Kingdom	1777	3,017	
+7098	GBR	United Kingdom	1778	2,966	
+7099	GBR	United Kingdom	1779	2,931	
+7100	GBR	United Kingdom	1780	3,049	
+7101	GBR	United Kingdom	1781	3,102	
+7102	GBR	United Kingdom	1782	3,048	
+7103	GBR	United Kingdom	1783	3,027	
+7104	GBR	United Kingdom	1784	3,009	
+7105	GBR	United Kingdom	1785	2,962	
+7106	GBR	United Kingdom	1786	2,981	
+7107	GBR	United Kingdom	1787	2,898	
+7108	GBR	United Kingdom	1788	2,861	
+7109	GBR	United Kingdom	1789	2,888	
+7110	GBR	United Kingdom	1790	3,072	
+7111	GBR	United Kingdom	1791	3,046	
+7112	GBR	United Kingdom	1792	3,134	
+7113	GBR	United Kingdom	1793	3,051	
+7114	GBR	United Kingdom	1794	2,925	
+7115	GBR	United Kingdom	1795	3,207	
+7116	GBR	United Kingdom	1796	3,233	
+7117	GBR	United Kingdom	1797	3,167	
+7118	GBR	United Kingdom	1798	3,161	
+7119	GBR	United Kingdom	1799	3,207	
+7120	GBR	United Kingdom	1800	3,343	
+7121	GBR	United Kingdom	1801	3,351	
+7122	GBR	United Kingdom	1802	3,360	
+7123	GBR	United Kingdom	1803	3,252	
+7124	GBR	United Kingdom	1804	3,204	
+7125	GBR	United Kingdom	1805	3,347	
+7126	GBR	United Kingdom	1806	3,287	
+7127	GBR	United Kingdom	1807	3,454	
+7128	GBR	United Kingdom	1808	3,250	
+7129	GBR	United Kingdom	1809	3,309	
+7130	GBR	United Kingdom	1810	3,478	
+7131	GBR	United Kingdom	1811	3,397	
+7132	GBR	United Kingdom	1812	3,207	
+7133	GBR	United Kingdom	1813	3,328	
+7134	GBR	United Kingdom	1814	3,204	
+7135	GBR	United Kingdom	1815	3,489	
+7136	GBR	United Kingdom	1816	3,250	
+7137	GBR	United Kingdom	1817	3,253	
+7138	GBR	United Kingdom	1818	3,201	
+7139	GBR	United Kingdom	1819	3,103	
+7140	GBR	United Kingdom	1820	3,306	21,239
+7141	GBR	United Kingdom	1821	3,308	21,551
+7142	GBR	United Kingdom	1822	3,315	21,832
+7143	GBR	United Kingdom	1823	3,359	22,117
+7144	GBR	United Kingdom	1824	3,492	22,407
+7145	GBR	United Kingdom	1825	3,521	22,698
+7146	GBR	United Kingdom	1826	3,290	22,996
+7147	GBR	United Kingdom	1827	3,499	23,275
+7148	GBR	United Kingdom	1828	3,461	23,560
+7149	GBR	United Kingdom	1829	3,443	23,847
+7150	GBR	United Kingdom	1830	3,550	24,139
+7151	GBR	United Kingdom	1831	3,545	24,433
+7152	GBR	United Kingdom	1832	3,612	24,684
+7153	GBR	United Kingdom	1833	3,599	24,937
+7154	GBR	United Kingdom	1834	3,639	25,194
+7155	GBR	United Kingdom	1835	3,861	25,452
+7156	GBR	United Kingdom	1836	3,937	25,715
+7157	GBR	United Kingdom	1837	3,857	25,968
+7158	GBR	United Kingdom	1838	3,963	26,223
+7159	GBR	United Kingdom	1839	3,881	26,483
+7160	GBR	United Kingdom	1840	4,018	26,745
+7161	GBR	United Kingdom	1841	3,894	27,004
+7162	GBR	United Kingdom	1842	3,808	27,277
+7163	GBR	United Kingdom	1843	3,950	27,511
+7164	GBR	United Kingdom	1844	4,245	27,785
+7165	GBR	United Kingdom	1845	4,387	28,040
+7166	GBR	United Kingdom	1846	4,334	28,272
+7167	GBR	United Kingdom	1847	4,234	28,118
+7168	GBR	United Kingdom	1848	4,361	27,683
+7169	GBR	United Kingdom	1849	4,422	27,429
+7170	GBR	United Kingdom	1850	4,332	27,181
+7171	GBR	United Kingdom	1851	4,477	26,945
+7172	GBR	United Kingdom	1852	4,626	27,076
+7173	GBR	United Kingdom	1853	4,734	27,248
+7174	GBR	United Kingdom	1854	4,909	27,446
+7175	GBR	United Kingdom	1855	4,748	27,697
+7176	GBR	United Kingdom	1856	5,013	27,978
+7177	GBR	United Kingdom	1857	5,019	28,186
+7178	GBR	United Kingdom	1858	4,879	28,422
+7179	GBR	United Kingdom	1859	5,031	28,660
+7180	GBR	United Kingdom	1860	5,086	28,888
+7181	GBR	United Kingdom	1861	5,024	29,128
+7182	GBR	United Kingdom	1862	4,764	29,401
+7183	GBR	United Kingdom	1863	5,165	29,630
+7184	GBR	United Kingdom	1864	5,255	29,842
+7185	GBR	United Kingdom	1865	5,333	30,089
+7186	GBR	United Kingdom	1866	5,451	30,315
+7187	GBR	United Kingdom	1867	5,424	30,572
+7188	GBR	United Kingdom	1868	5,636	30,845
+7189	GBR	United Kingdom	1869	5,635	31,127
+7190	GBR	United Kingdom	1870	5,829	31,400
+7191	GBR	United Kingdom	1871	5,797	31,685
+7192	GBR	United Kingdom	1872	5,769	31,874
+7193	GBR	United Kingdom	1873	5,842	32,177
+7194	GBR	United Kingdom	1874	5,874	32,501
+7195	GBR	United Kingdom	1875	5,950	32,839
+7196	GBR	United Kingdom	1876	5,938	33,200
+7197	GBR	United Kingdom	1877	5,923	33,576
+7198	GBR	United Kingdom	1878	5,879	33,932
+7199	GBR	United Kingdom	1879	5,786	34,304
+7200	GBR	United Kingdom	1880	5,997	34,623
+7201	GBR	United Kingdom	1881	6,146	34,935
+7202	GBR	United Kingdom	1882	6,269	35,206
+7203	GBR	United Kingdom	1883	6,264	35,450
+7204	GBR	United Kingdom	1884	6,220	35,724
+7205	GBR	United Kingdom	1885	6,132	36,015
+7206	GBR	United Kingdom	1886	6,170	36,313
+7207	GBR	United Kingdom	1887	6,358	36,598
+7208	GBR	United Kingdom	1888	6,585	36,881
+7209	GBR	United Kingdom	1889	6,876	37,178
+7210	GBR	United Kingdom	1890	6,845	37,485
+7211	GBR	United Kingdom	1891	6,781	37,802
+7212	GBR	United Kingdom	1892	6,553	38,134
+7213	GBR	United Kingdom	1893	6,486	38,490
+7214	GBR	United Kingdom	1894	6,851	38,859
+7215	GBR	United Kingdom	1895	6,996	39,221
+7216	GBR	United Kingdom	1896	7,211	39,599
+7217	GBR	United Kingdom	1897	7,229	39,987
+7218	GBR	United Kingdom	1898	7,500	40,381
+7219	GBR	United Kingdom	1899	7,729	40,773
+7220	GBR	United Kingdom	1900	7,594	41,155
+7221	GBR	United Kingdom	1901	7,516	41,538
+7222	GBR	United Kingdom	1902	7,635	41,893
+7223	GBR	United Kingdom	1903	7,482	42,246
+7224	GBR	United Kingdom	1904	7,455	42,611
+7225	GBR	United Kingdom	1905	7,603	42,981
+7226	GBR	United Kingdom	1906	7,782	43,361
+7227	GBR	United Kingdom	1907	7,855	43,737
+7228	GBR	United Kingdom	1908	7,461	44,124
+7229	GBR	United Kingdom	1909	7,557	44,520
+7230	GBR	United Kingdom	1910	7,718	44,916
+7231	GBR	United Kingdom	1911	7,874	45,268
+7232	GBR	United Kingdom	1912	7,954	45,426
+7233	GBR	United Kingdom	1913	8,212	45,649
+7234	GBR	United Kingdom	1914	8,131	46,049
+7235	GBR	United Kingdom	1915	8,639	46,340
+7236	GBR	United Kingdom	1916	8,702	46,514
+7237	GBR	United Kingdom	1917	8,665	46,614
+7238	GBR	United Kingdom	1918	8,630	46,575
+7239	GBR	United Kingdom	1919	7,605	46,534
+7240	GBR	United Kingdom	1920	7,017	46,821
+7241	GBR	United Kingdom	1921	6,792	44,072
+7242	GBR	United Kingdom	1922	7,391	44,372
+7243	GBR	United Kingdom	1923	7,587	44,596
+7244	GBR	United Kingdom	1924	7,844	44,915
+7245	GBR	United Kingdom	1925	8,199	45,059
+7246	GBR	United Kingdom	1926	7,868	45,232
+7247	GBR	United Kingdom	1927	8,472	45,389
+7248	GBR	United Kingdom	1928	8,539	45,578
+7249	GBR	United Kingdom	1929	8,772	45,672
+7250	GBR	United Kingdom	1930	8,673	45,866
+7251	GBR	United Kingdom	1931	8,190	46,074
+7252	GBR	United Kingdom	1932	8,206	46,335

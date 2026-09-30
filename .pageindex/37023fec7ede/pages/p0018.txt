@@ -1,0 +1,43 @@
+F.1.2     Excluding practically irrelevant values for terrain ruggedness
+As we discuss in the main body of the text (Section 3), high values of terrain rugged-
+ness for some departments may be capturing the high altitude levels due to the
+presence of very tall mountains.
+    However, not all rugged terrains gave draftees the same chance of success in
+escaping their military obligation. Highly rugged areas in the Alps and Pyrenees
+were often inaccessible or too dangerous to travel through. Perpetual snows would
+cover some steep mountains in both regions and temperatures stayed below freezing
+for most of the year. Similarly, these areas were mostly lacking of vegetation and
+fauna, due to both their low temperature and high elevations and are known as the
+“alpine zone.” This area starts at altitude levels of between 1800 and 2300 meters
+in the Alps and at 2300 meters in the Pyrenees (Nagy et al. 2003, p.2).1 In this
+appendix, we use two strategies to account for this fact and exclude ruggedness
+values that are likely to be irrelevant for conscription choice and therefore could bias
+the results:
+
+    • First, we exclude any data point within the raster file with altitude of 2000
+      meters above the sea level and higher.
+
+    • Second, we exclude any data point within the raster file classified as being
+      covered in mountainous rocks or glaciers by the European geological survey.2
+
+     With respect to the first method, we use the raster files on elevation data provided
+by the U.S. Geological Survey and constructed from the Shuttle Radar Topography
+Mission. We then modified our department shapefile by removing all land more than
+2,000 meters above the sea level.
+     For the second method excluding glaciers and mountainous bare rocks, we use
+Corine land cover data for the reference year 2006 (CLC2006) which is derived from
+satellite imaging (Büttner & Kosztra 2007). We then modified our department shape-
+file by removing land cover which was characterized as “glaciers and perpetual snows”
+and “bare rocks” in the CLC2006 data.
+     Figure 6 shows portions of the raster file excluded from the new calculation of
+average departmental ruggedness when using either of our two strategies. Table
+7 reproduces the results of evaluating the specifications from Table 1 using both
+   1
+      The Church of the highest village in Europe, Saint-Véran, is at an elevation of 2,042 meters
+above the sea level. Already in 1929, there was only 3 villages inhabited all year above 2,000 meters
+in the Alps (Godefroy 1938).
+    2
+      https://image.discomap.eea.europa.eu/arcgis/rest/services/Corine/CLC2006_WM/
+MapServer.
+
+                                                 18

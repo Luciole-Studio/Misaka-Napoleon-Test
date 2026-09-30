@@ -1,0 +1,10 @@
+## Sheet: A6. Charts
+
+`data region: A1:B1`
+	A	B
+1	Back to front page	'Front Page'!D38
+
+```meta
+▸ styles
+    underline: A1:B1
+```

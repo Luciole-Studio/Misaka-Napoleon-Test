@@ -1,0 +1,502 @@
+
+
+11 
+
+112 
+
+Cheriton,North  Soiner.. 
+
+2 
+
+Lo.  Wincaunton. 
+
+101 
+
+Challock 
+
+.Kent.. 
+
+1, 
+
+/.  Eastwell 
+
+10 
+
+Cherrington   . 
+Cherry  Hinto 
+
+.Glouc. 
+
+2, 
+
+1.  Minch.Hampt. 
+
+185 
+
+Chalton  
+
+.  Hants.. 
+
+2 
+
+Lo.  GravelH.Inn 
+
+2K 
+
+iCamb.. 
+
+2 
+
+r.  Cambridge  .. 
+
+507 
+
+Chalvington  . 
+Chapel  Charlt 
+
+.  Sussex. 
+
+4 
+
+r.  Horsebridge.. 
+
+60 
+
+Cheselborne  . 
+
+.  Dorset. 
+
+3 
+
+r.  Melbourne.... 
+
+50 
+
+.  Stafford 
+
+5 
+
+Lo.  Darlaston  .. 
+
+300 
+
+Chesham  Bois 
+
+.  Bucks.. 
+
+H 
+
+r.Ametsbain.... 
+
+247 
+
+Chapel  on  le  F.  Derby. 
+
+2 
+
+r.  Whaley 
+
+375 
+
+Cheshnnt 
+
+.  Herts... 
+
+M 
+
+1.  WalthamCross 
+
+443 
+
+Charborough  . 
+
+.  Dorset. 
+
+t) 
+
+L  Blanriford  .... 
+
+50 
+
+Cheshington  . 
+
+.Surry .. 
+
+r.  Ewell 
+
+43 
+
+Chardford  Nth.  Hants .. 
+
+10 
+
+r.  Romsey 
+
+H7 
+
+ChesterfordPar  Essex.. 
+
+l 
+
+r.o.  Littlebury.. 
+
+519 
+
+Chardstock ... 
+
+.  Dorset. 
+
+4 
+
+L  Chard 
+
+108 
+
+Chesterton   .. 
+
+.Camb.. 
+
+i 
+
+Lo.  Cambridge. 
+
+507 
+
+Charlbury  ... 
+
+.  Oxford. 
+
+34 
+
+Z.Over  Kiddingt. 
+
+102 
+
+Chesterton  ... 
+
+.  Warw.. 
+
+3 
+
+1.  Ufton  
+
+308 
+
+Charlcomb  ... 
+Charlcote  .... 
+
+.  Somer.. 
+.  Warw. 
+
+1 
+4 
+
+r.  Bath 
+
+146 
+
+227 
+
+Chesterton  ....Hunt... 
+Chesterton,  Gt. Oxford. 
+
+i   I.  Kate's  Cabin.. 
+Ii  I.  Bicester 
+
+347 
+
+270 
+
+r.  Stratford   .... 
+
+Charles   
+
+.  Devon. 
+
+5 
+
+r.  South  Molton 
+
+112 
+
+Cheswardiiie  . 
+
+.  Salop... 
+
+24 
+
+r.  Nth.  Hinstock 
+
+312 
+
+Charleton  .... 
+
+.do 
+
+1 
+
+Lo.  Kingsbridge. 
+
+180 
+
+Chetnole 
+
+.  Dorset. 
+
+b 
+
+L  Sherborne  .... 
+
+108 
+
+Charfield     ... 
+
+Glouc. 
+
+5 
+
+L  Dursley 
+
+174 
+
+Chettle 
+
+.do 
+
+H 
+
+r.o.Caislnnore  1. 
+
+5b 
+
+Charlinch  .... 
+
+.  Somer.. 
+
+3* 
+
+r.  Bridgewater.. 
+
+Chetton 
+
+.  Salop.. 
+
+4 
+
+/.  Bridgenorih.. 
+
+252 
+
+Charlton 
+
+.  Berks.. 
+
+1 
+
+r.  Wantage 
+
+10U 
+
+Chetwode   ... 
+
+.  Bucks.. 
+
+5 
+
+L  Buckingham..  260 
+
+Charlton 
+
+Charlton 
+
+.Kent.. 
+.Wilts... 
+
+1 
+
+L  Buckland  .... 
+L  Lndwell 
+
+7 
+
+107 
+
+ChetwyndPark  Salop . . 
+Cheveley Camb.. 
+
+1 
+
+3 
+
+r.o.  Newport  ... 
+r.  Newmarket.. 
+
+312 
+51Q 
+
+Charlton 
+
+.  Oxford. 
+
+45 
+
+Z.BIackThorn  H. 
+
+270 
+
+Chevening .... 
+
+.Kent.... 
+
+1 
+
+r.  Dunton  Green 
+
+17 
+
+Charlton  
+
+.Kent.. 
+
+u 
+
+r.  Greenwich.... 
+
+q 
+
+Chevington  ... 
+
+.  Suffolk. 
+
+5 
+
+I.  BurvSt.  Edm. 
+
+544 
+
+CharltonAbbts.  Glonc. 
+
+4 
+
+r.  Frog  Mill  Inn. 
+
+105 
+
+Chevington,  E. N.hum. 
+
+4 
+
+r.  Earsden  Moor 
+
+452 
+
+Charlton  Adam  Somer.. 
+
+2 
+
+Z.KeyutonMand. 
+
+120. 
+
+Chevington.  W.  do 
+
+4 
+
+r.  do 
+
+452 
+
+Charlton  Hore 
+
+Chew  Magna. 
+
+.Somer.. 
+
+7 
+
+1.  Bristol 
+
+15Q 
+
+thorne   
+
+CharltouMack 
+
+.do 
+
+do 
+
+4 
+
+9 
+
+L  Wincaunton... 
+Z.KeyntonMand. 
+
+101 
+
+1 
+
+Chew  Stoke.... do 
+
+Chewton  Mend  do 
+
+7 
+9 
+
+L  do 
+
+159 
+13Q 
+
+r.  Emborrow .... 
+
+Chai  ItonMarsh  Dorset. 
+
+9 
+
+L  Blandford  .... 
+
+Cheynies 
+
+.Bucks.. 
+
+3 
+
+r.  Chalfont  St.G. 
+
+247 
+
+Charlton Musg.  Somer.. 
+
+4 
+
+r.  Bayford 
+
+101 
+
+Chickeral,West  Dorset. 
+
+V 
+
+r.  B  rode  way .... 
+
+84 
+
+Charlt.  Queens,  do 
+
+a 
+
+/.  Keynsham.... 
+
+15Q 
+
+Chicklade   ... 
+
+.  Wilts.. 
+
+1 
+
+r.  Hindon 
+
+123 

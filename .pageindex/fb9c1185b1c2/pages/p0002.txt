@@ -1,0 +1,66 @@
+1362                                  R. Brázdil et al.: Climatic effects and impacts of the 1815 eruption of Mount Tambora
+
+   A great deal of literature has been devoted to analysis of     ering 1780–1789, kept by Karel Bernard Hein in Hodonice,
+the climatological and environmental effects of the Tambora       south-west Moravia. Písek and Brázdil (2006) used tempera-
+eruption. The volcanic eruption of Tambora (Lesser Sunda          ture records from Prague-Klementinum, together with other
+islands, Indonesia) in April 1815 is among the most pow-          central European series (Kremsmünster, Vienna-Hohe Warte
+erful of its kind recorded, classified at an intensity of 7 in    and Germany), to address the temperature effects of seven
+terms of volcanic explosivity index (VEI) (a relative mea-        large tropical eruptions and nine eruptions in Iceland and the
+sure of volcanic explosiveness, VEI is an open-ended scale        Mediterranean, complemented by short descriptions of the
+that ranges from 0 to 8, where 8 represents the most colossal     Lakagígar 1783 and Tambora 1815 events based on docu-
+events in history. It is based on the amount of volcanic ma-      mentary data. This paper also included the effects of three
+terial ejected and the altitude it reaches – see Newhall and      tropical eruptions on series of sums of global radiation for
+Senf, 1982). During the Tambora eruption, around 60 Tg of         the Hradec Králové station (together with Potsdam in Ger-
+SO2 was thrown into the stratosphere, where the SO2 ox-           many and Skalnaté Pleso in Slovakia). Brázdil et al. (2010a)
+idised to sulphate aerosols (Self et al., 2004; Kandlbauer        analysed climate and floods in the first post-Lakagígar winter
+and Sparks, 2014). The subsequent year of 1816 has been           (1783/1784) with particular reference to central Europe. Vol-
+termed the “Year Without a Summer” (see e.g. Stommel and          canic forcing was also taken into account as part of an attri-
+Stommel, 1983; Stothers, 1984; Harington, 1992; Vupputuri,        bution analysis of Czech temperature and precipitation series
+1992; Habegger, 1997; Oppenheimer, 2003; Bodenmann et             by Mikšovský et al. (2014) and in Czech series of spring and
+al., 2011; Klingaman and Klingaman, 2013; Brugnara et al.,        summer droughts by Brázdil et al. (2015b).
+2015; Luterbacher and Pfister, 2015). Kužić (2007) inves-           This contribution aims to provide a comprehensive de-
+tigated the effects in Croatia of an unidentified eruption in     scription of climatic and environmental responses to the
+1809 and the 1815 Tambora event. Trigo et al. (2009) stud-        Tambora 1815 eruption for the Czech Lands (recently the
+ied Tambora impacts in Iberia using both documentary and          Czech Republic). Section 2 addresses temperature and pre-
+instrumental data. Lee and MacKenzie (2010), referring to         cipitation instrumental series, weather-related documentary
+a farming diary from north-west England that held weather         data and the socio-economic data used in this study. Section 3
+entries for 1815–1829, found significant climate anomalies        presents methods used for the study of short-term and long-
+for the 2 years following the Tambora eruption. Auchmann          term responses. Section 4 gives a full description of the cli-
+et al. (2012) paid particular attention to the weather and cli-   matic and environmental consequences of the Tambora erup-
+mate of the 1816 summer for Geneva, Switzerland. Cole-Dai         tion in the Czech Lands. The broader context of the results
+et al. (2009) held Tambora, with a further unidentified trop-     obtained is discussed in Sect. 5. The final section summarises
+ical eruption in 1809, responsible for the bitter 1810–1819       the most important findings.
+period, probably the coldest decade of the last 500 years or
+longer. However, Guevara-Murua et al. (2014) attributed the       2     Data
+unidentified 1809 eruption to late November/early December
+1808, as the second most explosive sulphur-dioxide-rich vol-      2.1    Instrumental data
+canic eruption for the last 2 centuries. Büntgen et al. (2015)
+identified the 1810s as coolest summer decade for the last 3      The climatological analysis herein is based on the following
+centuries in central Europe, basing this conclusion on tree-      monthly, seasonal and annual temperature and precipitation
+rings from 565 samples of Swiss stone pine (Pinus cembra)         series for the Czech Lands (Fig. 1):
+from high-elevation sites in the Slovak Tatra Mountains and
+                                                                      i. Prague-Klementinum (central Bohemia): homogenised
+the Austrian Alps. Briffa and Jones (1992) classified just the
+                                                                         series of temperatures (1775–2010) and precipitation
+summer of 1816 as extreme in that particular decade in Eu-
+                                                                         (1804–2010), starting in a block of buildings that were
+rope. This was also clearly demonstrated in summer tem-
+                                                                         once the Jesuit college of St. Clement, and located on
+perature responses over the whole of Europe for the three
+                                                                         the same site until quite recently (for data see Brázdil et
+post-Tambora years by Luterbacher et al. (2016; see SOM
+                                                                         al., 2012a)
+Fig. S15).
+   There are only a few studies that address the effects of           ii. Brno (south-eastern Moravia): homogenised series of
+volcanic activity on the Czech Lands (central Europe). For                temperatures (1800–2010) and precipitation (1803–
+example, Kyncl et al. (1990) analysed climatic reactions and              2010) compiled from a number of places in the Brno
+tree-ring responses to the Katmai eruption (Alaska) in 1912,              area and homogenised to the recent Brno airport station
+largely on a central European scale. Brůžek (1992) studied               (for data see Brázdil et al., 2012a)
+the impacts of large 19th–20th-century volcanic eruptions
+upon temperature series at the Prague-Klementinum station.         iii. Czech Lands: series of mean areal temperatures (1800–
+Brázdil et al. (2003) described a number of extreme climatic            2010) and mean areal precipitation (1804–2010) calcu-
+anomalies following the 1783 Lakagígar eruption (Iceland)               lated from 10 homogenised temperature series and 14
+in the course of an analysis of daily weather records cov-              homogenised precipitation series over the Czech Lands
+
+
+Clim. Past, 12, 1361–1374, 2016                                                               www.clim-past.net/12/1361/2016/

@@ -1,0 +1,28 @@
+---
+source_url: "https://thecanadianencyclopedia.ca/fr/article/histoire-du-commerce-du-bois-1"
+final_url: "https://thecanadianencyclopedia.ca/fr/article/histoire-du-commerce-du-bois-1"
+provider: "exa"
+text_sha256: "e437e75f1d9d7a8b55d331817f11e453e3011a9a5e0e6640f962c5d866ca4fda"
+title: "Histoire du commerce du bois | l'Encyclop\u00e9die Canadienne"
+content_kind: "page_text"
+---
+
+Histoire du commerce du bois | l'Encyclopédie Canadienne
+
+# Histoire du commerce du bois
+
+Article par Graeme Wynn 
+
+Mis à jour par Erin James-Abra; Jessica Poulin 
+
+Date de publication en ligne le 16 juillet 2013 
+
+Dernière modification le 24 juillet 2015 
+
+Le bois est le principal produit commercial canadien pendant la plus grande partie du 19 e siècle. Alimenté par la demande européenne, le commerce du bois attire les investissements et favorise l’ immigration vers l’est du Canada, contribue à l'essor économique et transforme l'environnement régional beaucoup plus radicalement que ne l'ont fait la pêche ou la traite des fourrures (voir Industrie de la pêche; Industrie de la fourrure). Le commerce encourage l’ exploration, le développement de villes et villages, et l'ouverture de routes. Si le bois est une ressource vitale pour le Canada, il n'engendre pas moins l'instabilité par moments. Au fil de l’histoire de cette industrie, les conditions climatiques, les aléas du commerce et la méconnaissance du marché font fluctuer grandement la demande et le prix.
+
+### Techniques de coupe
+
+L’abattage des arbres est un travail qui se fait principalement l’hiver, dès la première neige. Non seulement la main-d’œuvre bon marché abonde à cette saison, mais l’abattage est plus facile parce que la sève ne coule pas et que la neige permet de traîner les billes. À l’automne, les bûcherons préparent leurs campements et ouvrent des routes pour y apporter du foin et des provisions, et transporter le bois vers les cours d’eau (voir Cambuse). L’industrie dépend de la force des hommes et des bêtes, car la coupe est manuelle jusque vers 1912. Au départ, on utilise des bœufs, puis, jusque dans les années 1920, des chevaux. Le treuil de débardage à propulsion-vapeur, une innovation américaine des plus importantes introduite vers 1897, permet de transporter les rondins jusqu’à 150 m. La voie à câbles, autre technique novatrice composée d'un système de cordage placé au-dessus d'une longrine, permet de tirer les rondins par-dessus les obstacles.
+
+Normalement, on abat les arbres avec différentes sortes de haches de bûcherons (jusqu’aux années 1870, lorsque l’usage de la scie de travers se répand) et on débite les troncs en billes, ensuite équarries à la hache parce que la forme carrée permet de mieux ranger et transporter le bois en bateau vers l’Europe. Pour équarrir, on commence par marquer le bois sur sa longueur et sur les côtés pour délimiter la dimension requise d’un carré, puis on le coupe pour enlever l’excédent, on scie les côtés des rondins de façon à ce que les arêtes ne soient pas vives, et enfin on l'aplanit à la doloire. Ce processus est répété sur les autres faces du rondin. Avant le transport, les deux embouts sont taillés en forme pyramidale.

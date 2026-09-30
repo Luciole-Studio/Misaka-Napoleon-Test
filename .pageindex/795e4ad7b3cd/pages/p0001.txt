@@ -1,0 +1,39 @@
+# C11 战略证据笔记：Mahan主线与Corbett关键反证
+
+**状态：按协调者要求收束返回，不再检索完整专著，不完成卡片。** 分工限定为Corbett/Mahan战略主线；船队工程与Desbrière原令详核由协调者负责。本笔记不声称已完成两史家比较。计划表见第2节，9条原文短引见第4节（其中8条标单页，第9条保留跨页范围）。
+
+## 0. 可直接用于主报告的海上组合结论
+
+- 【文献推断：Mahan II pp.124–126、129–133】**1804年Latouche方案不是1805年西印度集中方案。** 前者以土伦舰队摆脱监视、联合罗什福尔后赴海峡为主，布雷斯特牵制Cornwallis；其死亡后，9月方案改以布雷斯特赴爱尔兰承担主行动、土伦赴海外牵制。不能把各版有利因素拼成一张“最优原计划”。
+- 【事实：据Mahan II pp.146–150、153–154、163–165】**1805年海上组合有两个关键阶段：海外集中；失败后改为Ferrol—Brest方向集中。** 3月2日版要求Ganteaume与Villeneuve在Martinique会合，再返海峡；Brest无法脱离封锁，迫使皇帝改令Villeneuve回欧洲接应。各分队逃出港口的成功，并不等于它们能够同步会合。
+- 【文献推断：Mahan II pp.126、168–170、183】**真正的门槛是带着足够战斗力、在敌方重新集中之前抵达正确海区，并保持所需时长。** 英国不须封死每个港口；港前监视、通信、内线机动以及必要时撤局部封锁集中截击，足以使法国组合连锁失败。Keith海峡防御仍须列入，不得把Nelson远航解释为英国本土海面清空。
+- 【事实：转引自Mahan II p.173，注227】皇帝后来的要求已是：“Make us masters of the Straits of Dover … be it but for four or five days.” 此处省略Mahan插语“he implored”；原信仍需以Desbrière核对。**“六小时”不是贯穿所有版本的固定作战需求**，也不是经海军与港口共同验证的工期。协调者所报Desbrière港口证据独立处理，本笔记不冒充已核读。
+- 【裁量：中置信度；据Mahan II pp.150、175–180】可研究的改写包括放宽Ganteaume不交战限制、Villeneuve坚持北上，以及Latouche存活继续任职；但均只能提高某些环节的机会，不能一并消除操舰质量、风向、损伤与英国反应。尤其**8月15日法国决定不能使用8月17日英国分兵的后见情报**。
+- 【文献推断：Mahan II pp.182–184；裁量：中置信度】总体胜算偏英国，但法国短期取得海峡优势并非逻辑不可能。**短期海上优势→船队出港与渡海→登陆→维持补给→英国媾和，必须分开验收。** 本笔记支持第一环存在条件性分支，不证明余下各环成立；不给伪精确概率。
+
+## 补记：Corbett对分兵与入侵风险的直接反证（本地OCR专项核读）
+
+**最新状态覆盖下文旧检索状态：** 协调者已取得`downloads/c11_corbett.txt`（索引doc `4ab49819b134`）。本次只用本地grep/read，连续核读印刷pp.247–255（本地行12475–12885），不再网络检索、不声称通读全书。页码依OCR保留的页眉核定；引文仅合并断行与连续空格，未对照扫描图。下文旧有“Corbett待取得/未读”仅记录此前交付状态；现已补上这一具体争点的直接比较。
+
+### 三条原文短引
+
+1. **Corbett, *The Campaign of Trafalgar* (1910), p.249：**
+   > “In his view they were still concentrated in the real sense of the term, within supporting distance of each other.”
+   
+   【文献推断：Corbett】“his”指Cornwallis；这不是Cornwallis原信的逐字引文，而是Corbett解释其部署。作者认为分出的舰队在侦察通信支撑下仍可相互支援，故“分开航行”不自动等于战略失去集中。紧邻正文转录Cornwallis报告，并指出Barham独立下达类似分兵命令；若引用该报告，必须写“转引自Corbett”，不可当亲查海军部原件。
+
+2. **同书，p.252：**
+   > “Bold as was the division of the fleet, a closer examination of the conditions will show that it was well within fair risk of war.”
+   
+   【文献推断：Corbett】直译：分兵虽大胆，但细察条件，其风险完全属于战争中可合理承受的范围。作者的论据不仅是守海峡，还包括保持地中海联合行动主动权、保护正在返航的东印度和西印度商船队（pp.250–252）。**这与Mahan II p.176把分兵判作违反基本原则的错误，是明确实质分歧。**
+
+3. **同书，p.253：**
+   > “he might hurry out with his supplies incomplete, in which case it would be impossible for him to keep the sea long enough to carry out Napoleon's intentions.”
+   
+   【文献推断：Corbett】“he”指Villeneuve。完整论证的另一支是：若在港补足海峡战役所需储备，Calder就有时间赶到封锁；若急于出港，储备不足以在海上维持所需时间。因此作者否定的不是单纯航抵海峡的物理可能，而是**在当时舰队状态与补给条件下完成任务的能力**。这是Corbett的历史反事实判断，不能升级为本项目已独立核算的续航定理。
+
+### 对原笔记的必要限定（不扩大任务）
+
+- 【事实：读本差异】Corbett pp.247–249把分兵命令署为**8月16日**，派18艘加南方已有Dragon、Goliath成20艘，Cornwallis留下18艘、约10艘三层甲板舰；原Mahan笔记写**17日分出18艘、留16艘**。这些日期与舰数**不可静默拼接或平均**；可能涉及发令/行动日与计入范围差别，当前未独立裁决。前文“15日不能预知17日分兵”的警戒应更严格写作：**法国15日决策不可使用其后英方分兵的后见情报，无论采用哪位史家的日期。**
+- 【文献推断：Corbett，pp.253–254】作者认为英舰质量与三层甲板舰比例可弥补数量劣势；战斗会使Villeneuve即便胜出也无力继续，或Cornwallis可保持接触、等待Calder。他最后预言法西舰队进入海峡将遭遇比Armada、Trafalgar更惨的灾难，属强烈反事实修辞，**本笔记不把它作为已证明事实**。
+- 【裁量：高置信度】两史家争点不能简化成“一人懂海军、一人不懂”。Mahan强调分兵后被各个击破的风险；Corbett强调可互援的分散部署、舰队质量/补给和全战区任务。主报告应保留两解，不再把Cornwallis分兵无条件列为法国现成的制胜窗口。实际互援航时、天气和储备数量未在此核算，无法据本补记裁决谁必然正确。

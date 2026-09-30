@@ -1,0 +1,24 @@
+    Germany                État des départements qui This variable measures the percentage of conscripts sent
+                           doivent fournir les Conscripts to Germany.
+                           de 1810. Archives nationales,
+                           AF/IV/1124. (Pascal 1864).
+    Italy                  État des départements qui This variable measures the percentage of conscripts sent
+                           doivent fournir les Conscripts to Italy.
+                           de 1810. Archives nationales,
+                           AF/IV/1124. (Pascal 1864).
+    Spain                  État des départements qui This variable measures the percentage of conscripts sent
+                           doivent fournir les Conscripts to Spain.
+                           de 1810. Archives nationales,
+                           AF/IV/1124. (Pascal 1864).
+                                                   Haute-Vienne:
+9   Agricultural sector    Archives de Haute-Vienne, This variable measures the portion of young men in the
+                           1/R/50.                        1807 Haute-Vienne cohort whose occupations were:
+                                                          Jardinier, Fermier, Cultivateur, Laboureur, Metayer,
+                                                          Colon, Vigneron, Manoeuvrier.
+    Construction workers   Archives de Haute-Vienne, This variable measures the portion of young men in the
+                           1/R/50.                        1807 Haute-Vienne cohort whose occupations were:
+                                                          Tuillier, Thuiller, Tailleur de Pierre, Recouvreur, Macon,
+                                                          Couvreur, Goujat.
+    Owner share            Archives de Haute-Vienne, This variable measures the portion of young men in the
+                           1/R/50.                        1807 Haute-Vienne cohort whose occupations were (in
+                                                          French): Propriétaire, Bourgeois.

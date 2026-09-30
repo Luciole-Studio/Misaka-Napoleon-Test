@@ -1,0 +1,37 @@
+
+
+### F4-04 商会：1811年科隆主张排斥贝格以促工厂迁入
+原文短引（H p.314，1811年秋科隆商会致皇帝请愿英译）：
+> “the manufacturers of the Grand-Duchy, excluded from the markets of France, Italy, and North Germany, will find themselves reduced to the pressing necessity of moving their works to the left bank of the Rhine.”
+定位：H pp.313–314；缓存约6730–6789行。前页明确科隆、亚琛、克雷费尔德商会及Roer棉业制造商反对贝格并入法国。原请愿经H转引；p.314注指Zeyss p.367；多件请愿见Schmidt, *Le Grand-duché de Berg*, app.E及Zeyss, Anhang VIII，未亲阅。
+【事实｜二手转引，中高】至少部分帝国境内商会追求排他市场，而非支持所有欧洲制造业共同保护；危机期竞争加剧了排斥诉求。
+边界：Roer是并入法国的莱茵左岸，不是旧法国巴黎商会；不能泛称“法国商人一致如此”。请愿目的不等于实际迁厂数量。Heckscher的“sophisms”“cynicism”等评价是自由贸易取向的解释，不作事实措辞照搬。
+
+### F4-05 土地所得者与国家：封赏财产可落到地产、公债与银行股份
+原文短引（S p.683）：
+> “des biens fonciers en France, des actions de la Banque de France ou la rente de 5 %, inscrite au Grand Livre de la Dette Publique.”
+原文补充（S p.684）：
+> “Les majorats ne pouvaient se composer que d’immeubles libres de tous privilèges et hypothèques, de rentes sur l’État et des actions de la Banque de France”
+定位：S pp.683–684，缓存约59–75行；第一句涉及1807及1808年前几月封赏法令要求经批准出售后再投资；第二句涉及1808-03-01第二项statut，尾注指*Bulletin des Lois*, IV, 1808, texte3207。
+【事实｜刊文所述制度，中高】王朝精英财产基础有地产、国家年金和银行股份三种法定形式，并以majorat限制分割与流通。
+边界：5%是年金名义票息而非当时市场收益率。法定可投不等于实际投了多少；donataires以军政精英为核心，不能替代工商资产阶级总体投资组合。
+
+### F4-06 1810转换境外封赏：不是“危机后工商精英自动退出实业”的证据
+原文短引（S pp.689–690）：
+> “la moitié des biens dans un délai de vingt ans et l’autre moitié dans les vingt années suivantes”
+> “de placer l’argent ainsi obtenu soit en rentes, soit en domaines situés dans l’intérieur de l’Empire.”
+定位：1810-03-03法令讨论段；缓存约149–153行（按句搜索最稳）。制度要求尽早出售境外dotations，最迟前半20年、后半再20年，并经主管委员会批准置换。
+【事实｜二手法令转述，中高】国家主动把境外战利财产转换为帝国内部地产/年金，支持“将征服所得固定为王朝财产基础”的机制。
+边界：命令在1810下半年商业危机之前，不能说由该危机触发；未得实际交易量。p.690明确“未生效”的是扣留部分收入强制购置住宅的条款，不应扩大为一切资产转换都未实行。与F4-05同一来源、同一制度链，不独立计票。
+
+### F4-07 地方地主官员并不总与中央政策一致
+原文短引（B“Un dirigisme inefficace”，Caen段）：
+> “on craint des déclarations inexactes car presque tous les maires sont des propriétaires et des cultivateurs.”
+定位：B pp.26–33网页节，无可靠单页映射；缓存downloads/pages/414d9ffcebd4.md第33行长段，搜索上述句。作者注12转引Nicole Gotteri, *La police secrète du Premier Empire – Bulletins quotidiens adressés par Savary à l’empereur de janvier à juin 1812*, p.337。该报告谈5月13日拟实行粮食清查，勿与3月骚动混同。
+【事实｜当时报告，经B转引，中高】行政报告担心身兼地主、耕作者的市长会歪曲粮食申报；地方财产利益可能妨碍中央供粮政策。
+边界：这是报告者的担忧，不是已查实所有市长造假；propriétaires et cultivateurs不能直接译成纯粹收租阶级。事件是1812粮荒，不是1810–11金融危机本身。
+
+## 可交接结论与未解决项
+【裁量｜中高】可以支撑的不是单一“资产阶级支持/抛弃拿破仑”，而是三种不同关系：产业救助与政策依赖；保护市场内部竞争；军政封赏精英的财产固化。其间有交叉但不可相互替代。
+【未验证】未取得Bergeron正文、Ternaux在1810–11的具体立场、巴黎商会原请愿，以及工商精英危机前后购买土地/公债的连续账簿数据。因此不确认“1810–11危机促使法国工商精英普遍转向地产、公债”。H p.269注提Ternaux在复辟初制造业总委员会的发言（转引Levasseur vol.I p.732 app.A），但只涉及对莱茵纺织竞争力的认可，未足以承重用户重点，故不列第八条。
+【解释竞争】Heckscher强调排他保护、原料短缺和过度刺激；Senkowska-Gluck强调财产法与王朝社会基础，两者对象不同，不能互作直接反证。C4已有Gabillard对信用膨胀解释的质疑，本次未重核该原段，不据此新增事实。

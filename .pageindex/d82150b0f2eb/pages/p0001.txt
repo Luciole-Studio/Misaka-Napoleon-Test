@@ -1,0 +1,65 @@
+---
+source_url: "https://www.onf.fr/onf/%2B/ff6::la-grande-histoire-des-forets-episode-ordonnance-de-colbert-en-1669-la-gestion-forestiere-en-foret-de-troncais.html"
+final_url: "https://www.onf.fr/onf/%2B/ff6::la-grande-histoire-des-forets-episode-ordonnance-de-colbert-en-1669-la-gestion-forestiere-en-foret-de-troncais.html"
+sha256: "f4072cc92547bb3cfa7d21a2df6bab12b42c7a4bedf63120f0ab654ab581cb90"
+text_sha256: "b887266fb6aed193b5be363c10a541d2c57bdf353667581481abca3ccec74545"
+title: "La grande Histoire des for\u00eats (#Episode 4) - L'ordonnance de Colbert en 1669 : la gestion foresti\u00e8re en for\u00eat de Tron\u00e7ais"
+---
+
+Title: La grande Histoire des forêts (#Episode 4) - L'ordonnance de Colbert en 1669 : la gestion forestière en forêt de Tronçais
+
+- Aller au contenu
+- Aller à la recherche
+- Aller au menu
+
+#
+Mon espace
+
+Connectez-vous sur les services qui vous concernent.
+
+[Paiement en ligne Pour payer des factures émises par l’ONF](https://paiement.onf.fr)
+
+[Ventes de bois ONF Achetez votre bois à ceux qui le connaissent le mieux](https://ventesdebois.onf.fr/vel/#/)
+
+[Portail des collectivités Un service en ligne pour les élus](https://portaildescollectivites.onf.fr/)
+
+[Portail Artemis Pour permissionnaires et locataires de chasse en forêt domaniale](https://portail-artemis.onf.fr/)
+
+#
+Mon espace
+
+Connectez-vous sur les services qui vous concernent.
+
+- [Forêt et climat](https://www.onf.fr/vivre-la-foret/enjeux-foret/changement-climatique-foret)
+- [Vivre la forêt](https://www.onf.fr/vivre-la-foret)
+- [Mécénat et dons](https://www.onf.fr/onf/+/36::mecenat-dons-onf-pour-des-projets-davenir.html)
+- [Nous rejoindre](https://www.onf.fr/nous-rejoindre)
+- [L'ONF en régions](https://www.onf.fr/onf/lonf-en-regions)
+- Accessibilité
+
+Modifier le contraste
+
+- Mon espace
+
+Menu
+
+- L'ONF en action
+
+- [Gérer les forêts](https://www.onf.fr/onf/lonf-agit/+/15::gerer-les-forets.html)
+- [Protéger l'environnement](https://www.onf.fr/onf/lonf-agit/+/1b::proteger-les-forets-et-agir-pour-lenvironnement.html)
+- [Accueillir le public](https://www.onf.fr/onf/lonf-agit/+/1c::accueillir-le-public-en-foret.html)
+- [Valoriser les espaces naturels et la ressource en bois](https://www.onf.fr/onf/lonf-agit/+/1d::valoriser-les-espaces-naturels-et-la-ressource-en-bois.html)
+- [Innover pour relever les défis du XXIe siècle](https://www.onf.fr/onf/lonf-agit/+/1e::innover-pour-preserver-la-foret-et-mieux-repondre-aux-besoins-de-la-societe.html)
+
+- Forêts et espaces naturels
+
+- [Comprendre la forêt](https://www.onf.fr/onf/forets-et-espaces-naturels/+/1f::comprendre-la-foret.html)
+- [Les forêts de nos territoires](https://www.onf.fr/onf/forets-et-espaces-naturels/+/20::les-forets-de-nos-territoires.html)
+- [Les activités en forêt](https://www.onf.fr/+/21::les-activites-en-foret.html)
+- [Tous promeneurs citoyens !](https://www.onf.fr/onf/forets-et-espaces-naturels/+/30::tous-promeneurs-citoyens.html)
+
+- Communes et collectivités
+
+- [Les forêts publiques, des écosystèmes précieux à préserver](https://www.onf.fr/onf/communes-et-collectivites/+/24::les-forets-publiques-des-ecosystemes-precieux-preserver.html)
+- [La forêt, un levier pour l'attractivité des territoires](https://www.onf.fr/onf/communes-et-collectivites/+/23::la-foret-un-levier-pour-lattractivite-des-territoires.html)
+- [L'ONF, interlocuteur privilégié des communes forestières](https://www.onf.fr/onf/communes-et-collectivites/+/25::lonf-interlocuteur-privilegie-des-communes-forestieres.html)

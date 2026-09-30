@@ -1,0 +1,59 @@
+---
+source_url: "https://www.persee.fr/doc/pop_0032-4663_1972_num_27_1_15097"
+final_url: "https://www.persee.fr/doc/pop_0032-4663_1972_num_27_1_15097"
+sha256: "c6cc1110ba5bee5b5e3eec54822a340495ec88ac7091351335a394d009c311fc"
+text_sha256: "772e465a919c2edcef8291f39023f3cf6bf99d01ba4d7b828ca935ae98e6822b"
+title: "Pertes de l'arm\u00e9e de terre sous le premier Empire, d'apr\u00e8s les registres matricules. - Pers\u00e9e"
+---
+
+Title: Pertes de l'armée de terre sous le premier Empire, d'après les registres matricules. - Persée
+
+Saut au contenu
+
+fr[en](https://www.persee.fr?pRedirect=https://www.persee.fr/doc/pop_0032-4663_1972_num_27_1_15097&pLang=en)
+
+[Persée](http://info.persee.fr) [Portail Persée](https://www.persee.fr) [Perséides](https://info.persee.fr/section/perseides/) [Data Persée](http://data.persee.fr)
+
+[Parcourir les collections](https://www.persee.fr/disciplines)
+
+#### Plan
+
+#### Figures
+
+## Pertes de l'armée de terre sous le premier Empire, d'après les registres matricules.
+
+#### [article]
+
+[Jacques Houdaille](https://www.persee.fr/authority/273586)
+
+[Population](https://www.persee.fr/collection/pop) Année 1972 [27-1](https://www.persee.fr/issue/pop_0032-4663_1972_num_27_1?sectionId=pop_0032-4663_1972_num_27_1_15097) pp. 27-50
+
+- Résumés
+- Documents liés
+- Référence bibliographique
+
+-
+
+Houdaille Jacques. Pertes de l'armée de terre sous le premier Empire, d'après les registres matricules.. In: Population, 27ᵉ année, n°1, 1972. pp. 27-50.
+
+DOI : 10.2307/1529611
+
+[www.persee.fr/doc/pop_0032-4663_1972_num_27_1_15097](https://www.persee.fr/doc/pop_0032-4663_1972_num_27_1_15097)
+
+- [BibTex](https://www.persee.fr/docAsBibTex/pop_0032-4663_1972_num_27_1_15097.bib)
+- [RefWorks](https://www.persee.fr/docAsRefworks/pop_0032-4663_1972_num_27_1_15097.txt)
+- [RIS (ProCite, Endnote, …)](https://www.persee.fr/docAsRIS/pop_0032-4663_1972_num_27_1_15097.ris)
+
+PERTES DE L'ARMÉE DE TERRE
+
+SOUS LE PREMIER EMPIRE, D'APRÈS LES REGISTRES MATRICULES
+
+En 1815, un adversaire de Napoléon avait estimé à 5 256 000 ^ les hommes morts de son fait, dont la moitié de Français. Cette affirmation ne se fondait naturellement sur aucun calcul et, depuis la Restauration, le montant de ces pertes a donné lieu à tant de discussions qu'on pourrait croire, à première vue, cette question assez vaine.
+
+Jusqu'ici, cependant, aucun historien n'a utilisé, pour l'animer, une source de documentation pourtant indispensable : les registres matricules de l'armée, conservés à Vincennes et, depuis 1951, accessibles au public. Mais, avant d'examiner comment on peut les utiliser, rappelons brièvement les estimations faites à partir d'autres données.
+
+(1> Cité dans J. Godechot : Les institutions de la France sous la Révolution et l'Empire. Paris, 1968, p. 611. Le nom de cet antibonapartiste n'est pas indiqué.
+
+### Informations
+
+[Au sujet de persee.fr](https://www.persee.fr/a-propos) [Votre collection sur persee.fr](https://www.persee.fr/votre-collection-sur-persee) [Nous contacter](https://www.persee.fr/nous-contacter)

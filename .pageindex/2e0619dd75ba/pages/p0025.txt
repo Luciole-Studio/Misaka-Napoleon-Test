@@ -1,0 +1,116 @@
+##### 4.2 PPMLandtheintensivemarginofBritishexports
+
+Themoststraightforwardwaytoproceedisin estimating equation(5),usingvariationintheintensivemarginofBritishexports(thatis,howmuchBritainexportstothe99countriesacrossthe57 industriesinourdata). Asmentionedbefore,wesimultaneouslyobtaintimevaryingdistanceandempirecoefficientsby runningaseries ofannual (benchmark-year)cross-sectiongravityregressionswith
+
+PPML.Figure5depictsthecoefficientpointestimatesandassociated95%standarderrorbands for the two key dependent variables: bilateral distance (log, continuous) andmembershipintheBritishEmpire (binaryindicator).Turningfirsttobilateraldistance,theelasticityofBritishexportsisfirstestimatedin1700tobeequalto-1.11 and,thus,closely inlinewithresultsfor thepost-WorldWarIIera(HeadandMayer,2014).Thispointestimateis also precisely estimated and statistically significant at conventional levels (z =
+
+3.53).Abstractingawayfromthevaluesofthestandarderrorbands,weseethatthisisfollowedbyaroughconstancy inthedistanceelasticity from1710to1780,withanaveragevalueof-1.03.Fromthispointonthingsdramaticallychange,andthe distanceelasticitycollapsesinabsolutevalue,averagingjust-0.11 overtheentire19th century.Itisalsogrosslystatisticallyinsignificantthroughoutthisperiod.Thus,weareconfrontedwiththecuriousresultthatthe
+
+A2
+
+#### C Imperial status and maritime distances
+
+Table A1 gives for each destination in our sample the year in which it was incorporated into the British Empire while Table A2 gives for each destination its principal port and the distance in nautical miles to London or Liverpool (whichever is shorter), before and after the opening of the Suez Canal.
+
+| | Destination | | Year | | |
+| --- | --- | --- | --- | --- | --- |
+| | Aden | | 1839 | | |
+| | Australia | | 1788 | | |
+| | Bermuda | | 1684 | | |
+| | British Borneo | | 1888 | | |
+| | British East | Africa | 1888 | | |
+| | British Guiana | | 1796 | | |
+| | British Honduras | | 1749 | | |
+| | British India | | 1608 | | |
+| | British New | Guinea | 1888 | | |
+| | British South | Africa | 1795 | | |
+| | British West | Africa | 1821 | | |
+| | British West | Indies | 1623 | | |
+| | Canada | | 1763 | | |
+| | Cyprus | | 1878 | | |
+| | Egypt | | 1882 | | |
+| | Falkland Islands | | 1765 | | |
+| | Fiji Islands | | 1840 | | |
+| | Gibraltar | | 1704 | | |
+| | Malta | | 1800 | | |
+| | Mauritius | | 1810 | | |
+| | New Zealand | | 1841 | | |
+| | Straits Settlements | | 1786 | | |
+| | United States | | 1607 | | |
+
+Table A1: Year of incorporation into the British Empire
+
+A3
+
+Table A2: Maritime distances before and after the opening of the Suez Canal
+
+| Destination | | | | | | | Pre-Suez | | | | | | PortCode | | | Distance | | | Post-Suez | | | | | | PortCode | | | Distance | | | Difference | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Abyssinia | | | | | | | Massawa | | | | | | ERMSW | | | 10645.1 | | | Massawa | | | | | | ERMSW | | | 4314.3 | | | -6330.8 | | |
+| Aden | | | | | | | Aden | | | | | | YEADE | | | 10297.2 | | | Aden | | | | | | YEADE | | | 4720.8 | | | -5576.4 | | |
+| Algeria | | | | | | | Algiers | | | | | | DZALG | | | 1755.3 | | | Algiers | | | | | | DZALG | | | 1755.3 | | | 0.0 | | |
+| Arabia | | | | | | | Muscat | | | | | | OMMCT | | | 10594.2 | | | Jeddah | | | | | | SAJED | | | 3974.4 | | | -6619.8 | | |
+| Argentina | | | | | | | Buenos | | Aires | | | | ARBUE | | | 6294.9 | | | Buenos | | Aires | | | | ARBUE | | | 6294.9 | | | 0.0 | | |
+| Australia | | | | | | | Perth | | | | | | AUPER | | | 10908.6 | | | Perth | | | | | | AUPER | | | 9599.6 | | | -1309.0 | | |
+| Austria | | | Hungary | | | | Split | | | | | | HRSPU | | | 2865.6 | | | Split | | | | | | HRSPU | | | 2865.6 | | | 0.0 | | |
+| Belgium | | | | | | | Antwerp | | | | | | BEANR | | | 193.3 | | | Antwerp | | | | | | BEANR | | | 193.3 | | | 0.0 | | |
+| Bermuda | | | | | | | Hamilton | | | | | | BMBDA | | | 2975.3 | | | Hamilton | | | | | | BMBDA | | | 2975.3 | | | 0.0 | | |
+| Bolivia | | | | | | | Antofagasta | | | | | | CLANF | | | 9355.7 | | | Antofagasta | | | | | | CLANF | | | 9355.7 | | | 0.0 | | |
+| Brazil | | | | | | | Belem | | | | | | BRBEL | | | 4053.9 | | | Belem | | | | | | BRBEL | | | 4053.9 | | | 0.0 | | |
+| British | | Borneo | | | | | Muara | | | | | | BNMUA | | | 12176.3 | | | Muara | | | | | | BNMUA | | | 9058.2 | | | -3118.1 | | |
+| British | | East | | Africa | | | Mombasa | | | | | | KEMBA | | | 8605.1 | | | Mombasa | | | | | | KEMBA | | | 6507.7 | | | -2097.4 | | |
+| British | | Guiana | | | | | Georgetown | | | | | | GYGEO | | | 3918.0 | | | Georgetown | | | | | | GYGEO | | | 3918.0 | | | 0.0 | | |
+| British | | Honduras | | | | | Belize | | | | | | BZBZE | | | 4540.0 | | | Belize | | | | | | BZBZE | | | 4540.0 | | | 0.0 | | |
+| British | | India | | | | | Colombo | | | | | | LKCMB | | | 10466.6 | | | Mumbai | | | | | | INBOM | | | 6342.9 | | | -4123.8 | | |
+| British | | New | | Guinea | | | Port | Moresby | | | | | PGPOM | | | 13271.8 | | | Port | Moresby | | | | | PGPOM | | | 11077.4 | | | -2194.4 | | |
+| British | | South | | Africa | | | Cape | Town | | | | | ZACPT | | | 6082.1 | | | Cape | Town | | | | | ZACPT | | | 6082.1 | | | 0.0 | | |
+| British | | West | | Africa | | | Banjul | | | | | | GMBJL | | | 2604.0 | | | Banjul | | | | | | GMBJL | | | 2604.0 | | | 0.0 | | |
+| British | | West | | Indies | | | Kingston | | | | | | JMKIN | | | 4104.6 | | | Kingston | | | | | | JMKIN | | | 4104.6 | | | 0.0 | | |
+| Bulgaria | | | | | | | Varna | | | | | | BGVAR | | | 3310.1 | | | Varna | | | | | | BGVAR | | | 3310.1 | | | 0.0 | | |
+| Canada | | | | | | | Halifax | | | | | | CAHAL | | | 2486.8 | | | Halifax | | | | | | CAHAL | | | 2486.8 | | | 0.0 | | |
+| Central | | | America | | | | Puerto | | Barrios | | | | GTPBR | | | 4636.9 | | | Puerto | | Barrios | | | | GTPBR | | | 4636.9 | | | 0.0 | | |
+| Chile | | | | | | | Valparaiso | | | | | | CLVAP | | | 8819.6 | | | Valparaiso | | | | | | CLVAP | | | 8819.6 | | | 0.0 | | |
+| China | | | | | | | Canton | | | | | | CNCAN | | | 13043.2 | | | Canton | | | | | | CNCAN | | | 9787.3 | | | -3255.9 | | |
+| Colombia | | | | | | | Cartagena | | | | | | COCTG | | | 4379.0 | | | Cartagena | | | | | | COCTG | | | 4379.0 | | | 0.0 | | |
+| Congo | | Free | | State | | | Matadi | | | | | | CDMAT | | | 4851.8 | | | Matadi | | | | | | CDMAT | | | 4851.8 | | | 0.0 | | |
+| Cyprus | | | | | | | Larnaca | | | | | | CYLCA | | | 3298.4 | | | Larnaca | | | | | | CYLCA | | | 3298.4 | | | 0.0 | | |
+| Danish | | | West | Indies | | | Charlotte | | | Amalie | | | VICHA | | | 3617.3 | | | Charlotte | | | Amalie | | | VICHA | | | 3617.3 | | | 0.0 | | |
+| Denmark | | | | | | | Copenhagen | | | | | | DKCPH | | | 737.0 | | | Copenhagen | | | | | | DKCPH | | | 737.0 | | | 0.0 | | |
+| Dutch | | East | | Indies | | | Jakarta | | | | | | IDJKT | | | 11284.8 | | | Jakarta | | | | | | IDJKT | | | 8593.8 | | | -2691.0 | | |
+| Dutch | | Guiana | | | | | Paramaribo | | | | | | SRPBM | | | 3877.9 | | | Paramaribo | | | | | | SRPBM | | | 3877.9 | | | 0.0 | | |
+| Dutch | | West | | Indies | | | Willemstad | | | | | | CWWIL | | | 4100.4 | | | Willemstad | | | | | | CWWIL | | | 4100.4 | | | 0.0 | | |
+| Ecuador | | | | | | | Guayaquil | | | | | | ECGYE | | | 10666.4 | | | Guayaquil | | | | | | ECGYE | | | 10666.4 | | | 0.0 | | |
+| Egypt | | | | | | | Alexandria | | | | | | EGALY | | | 3133.2 | | | Alexandria | | | | | | EGALY | | | 3133.2 | | | 0.0 | | |
+| Falkland | | | Islands | | | | Port | Stanley | | | | | FKPSY | | | 6968.6 | | | Port | Stanley | | | | | FKPSY | | | 6968.6 | | | 0.0 | | |
+| Fiji | Islands | | | | | | Suva | | | | | | FJSUV | | | 12938.1 | | | Suva | | | | | | FJSUV | | | 12938.1 | | | 0.0 | | |
+| France | | | | | | | Dunkirk | | | | | | FRIRK | | | 111.4 | | | Dunkirk | | | | | | FRIRK | | | 111.4 | | | 0.0 | | |
+| French | | | Guiana | | | | Cayenne | | | | | | GFCAY | | | 3856.5 | | | Cayenne | | | | | | GFCAY | | | 3856.5 | | | 0.0 | | |
+| French | | | India | | | | Pondicherry | | | | | | INPNY | | | 10843.7 | | | Pondicherry | | | | | | INPNY | | | 7241.3 | | | -3602.4 | | |
+| French | | | Indochina | | | | Saigon | | | | | | VNSIT | | | 12267.6 | | | Saigon | | | | | | VNSIT | | | 8948.4 | | | -3319.2 | | |
+| French | | | West | Africa | | | Dakar | | | | | | SNDKR | | | 2509.9 | | | Dakar | | | | | | SNDKR | | | 2509.9 | | | 0.0 | | |
+| French | | | West | Indies | | | Pointe-à-Pitre | | | | | | GPPTP | | | 3743.0 | | | Pointe-à-Pitre | | | | | | GPPTP | | | 3743.0 | | | 0.0 | | |
+| German | | | East | Africa | | | Dar | es | Salaam | | | | TZDAR | | | 8466.2 | | | Dar | es | Salaam | | | | TZDAR | | | 6598.3 | | | -1867.9 | | |
+| German | | | New | Guinea | | | Finschhafen | | | | | | PGFIN | | | 13985.3 | | | Finschhafen | | | | | | PGFIN | | | 11321.7 | | | -2663.6 | | |
+| German | | | West | Africa | | | Lomé | | | | | | TGLFW | | | 4014.8 | | | Lomé | | | | | | TGLFW | | | 4014.8 | | | 0.0 | | |
+| Germany | | | | | | | Bremerhaven | | | | | | DEBRV | | | 412.9 | | | Bremerhaven | | | | | | DEBRV | | | 412.9 | | | 0.0 | | |
+| Gibraltar | | | | | | | Gibraltar | | | | | | GIGIB | | | 1339.8 | | | Gibraltar | | | | | | GIGIB | | | 1339.8 | | | 0.0 | | |
+| Greece | | | | | | | Piraeus | | | | | | GRPIR | | | 2780.7 | | | Piraeus | | | | | | GRPIR | | | 2780.7 | | | 0.0 | | |
+| Haiti | | & | Dominican | | | Republic | Port-au-Prince | | | | | | HTPAP | | | 4005.8 | | | Port-au-Prince | | | | | | HTPAP | | | 4005.8 | | | 0.0 | | |
+| Italy | | | | | | | Genoa | | | | | | ITGOA | | | 2204.3 | | | Genoa | | | | | | ITGOA | | | 2204.3 | | | 0.0 | | |
+| Japan | | | | | | | Nagasaki | | | | | | JPNGS | | | 14010.2 | | | Nagasaki | | | | | | JPNGS | | | 10755.7 | | | -3254.5 | | |
+| Korea | | | | | | | Busan | | | | | | KRPUS | | | 14115.2 | | | Busan | | | | | | KRPUS | | | 10839.0 | | | -3276.1 | | |
+| Liberia | | | | | | | Monrovia | | | | | | LRMLW | | | 3211.2 | | | Monrovia | | | | | | LRMLW | | | 3211.2 | | | 0.0 | | |
+| Madagascar | | | | | | | Toamasina | | | | | | MGTOA | | | 8233.9 | | | Toamasina | | | | | | MGTOA | | | 6966.3 | | | -1267.6 | | |
+| Malta | | | | | | | Valletta | | | | | | MTMLA | | | 2321.8 | | | Valletta | | | | | | MTMLA | | | 2321.8 | | | 0.0 | | |
+| Mauritius | | | | | | | Port | Louis | | | | | MUPLU | | | 8380.7 | | | Port | Louis | | | | | MUPLU | | | 7046.5 | | | -1334.2 | | |
+| Mexico | | | | | | | Veracruz | | | | | | MXVER | | | 4808.2 | | | Veracruz | | | | | | MXVER | | | 4808.2 | | | 0.0 | | |
+| Morocco | | | | | | | Safi | | | | | | MASFI | | | 1388.7 | | | Safi | | | | | | MASFI | | | 1388.7 | | | 0.0 | | |
+| Montenegro | | | | | | | Bar | | | | | | MEBAR | | | 2745.7 | | | Bar | | | | | | MEBAR | | | 2745.7 | | | 0.0 | | |
+| Netherlands | | | | | | | Amsterdam | | | | | | NLAMS | | | 208.3 | | | Amsterdam | | | | | | NLAMS | | | 208.3 | | | 0.0 | | |
+| New | Zealand | | | | | | Auckland | | | | | | NZAKL | | | 12412.4 | | | Auckland | | | | | | NZAKL | | | 12412.4 | | | 0.0 | | |
+| Norway | | | | | | | Bergen | | | | | | NOBGO | | | 634.2 | | | Bergen | | | | | | NOBGO | | | 634.2 | | | 0.0 | | |
+| Paraguay | | | | | | | Asuncion | | | | | | PYASU | | | 7120.4 | | | Asuncion | | | | | | PYASU | | | 7120.4 | | | 0.0 | | |
+| Persia | | | | | | | Bushehr | | | | | | IRBUZ | | | 11191.3 | | | Bushehr | | | | | | IRBUZ | | | 6519.9 | | | -4671.4 | | |
+| Peru | | | | | | | Callao | | | | | | PECLL | | | 10015.9 | | | Callao | | | | | | PECLL | | | 10015.9 | | | 0.0 | | |
+| Philippine | | | | Islands | | | Manila | | | | | | PHMNL | | | 12819.0 | | | Manila | | | | | | PHMNL | | | 9669.3 | | | -3149.7 | | |
+| Portugal | | | | | | | Lisbon | | | | | | PTLIS | | | 1035.0 | | | Lisbon | | | | | | PTLIS | | | 1035.0 | | | 0.0 | | |

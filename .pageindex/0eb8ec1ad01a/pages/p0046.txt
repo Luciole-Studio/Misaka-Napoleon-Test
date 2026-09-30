@@ -1,0 +1,63 @@
+  Table A3: Flexible equation estimates for potato suitability and all crops suitability.
+                                                                                   Dependent Variable
+                                                           (1)                   (2)                  (3)                  (4)
+                                                                                                City population       Change in city
+                                                     ln Population       Population growth           share           population share
+Potato x 1400                                            0.261                                       10.960
+                                                        (0.157)                                     (8.371)
+
+
+Potato x 1500                                            0.437                 0.117                 5.118                 -0.085
+                                                        (0.230)               (0.065)               (2.994)               (0.083)
+
+
+Potato x 1600                                            0.573                 0.076                 1.118                 -0.067
+                                                        (0.235)               (0.079)               (4.893)               (0.034)
+
+
+Potato x 1700                                            0.497                 -0.135                3.941                 0.001
+                                                        (0.268)               (0.073)               (3.286)               (0.044)
+
+
+Potato x 1800                                            1.293                 0.737                 5.123                 -0.015
+                                                        (0.334)               (0.106)               (2.903)               (0.043)
+
+
+Potato x 1900                                            2.380                 1.027                 32.484                0.247
+                                                        (0.414)               (0.117)               (5.927)               (0.058)
+
+
+All Crops x 1400                                         0.522                                       0.555
+                                                        (0.117)                                     (1.654)
+
+
+All Crops x 1500                                         0.653                 0.030                 0.567                 0.000
+                                                        (0.138)               (0.027)               (1.696)               (0.013)
+
+
+All Crops x 1600                                         0.626                 -0.128                3.861                 0.033
+                                                        (0.131)               (0.067)               (2.698)               (0.020)
+
+
+All Crops x 1700                                         0.826                 0.098                 1.801                 -0.021
+                                                        (0.158)               (0.051)               (1.751)               (0.021)
+
+
+All Crops x 1800                                         0.792                 -0.135                1.055                 -0.008
+                                                        (0.191)               (0.055)               (1.756)               (0.012)
+
+
+All Crops x 1900                                         0.567                 -0.327                -3.398                -0.045
+                                                        (0.255)               (0.125)               (2.529)               (0.019)
+
+
+F-test for Potato x 1800 = Potato x 1900 =0              34.44                 50.56                 16.93                 19.35
+
+
+Observations                                               922                   790                   922                   790
+Notes : All regressions include country fixed effects and year fixed effects. Standard errors are clustered at the country level.
+
+
+
+
+                                                                  44

@@ -1,0 +1,82 @@
+Environ. Res. Lett. 12 (2017) 074026
+
+
+
+    In contrast to the situation in 1816/17, and assuming        Auchmann R et al 2013 Impact of volcanic stratospheric aerosols
+                                                                        on diurnal temperature range (DTR) over the past 200
+no large-scale market effects of crop losses, short-term                years: Observations versus model simulations J. Geophys.
+reductions in food supply due to a loss in domestic crop                Res. 118 9064–77
+yields in the order of 30%–40% would seem manageable             Bider M, Schüepp M and von Rudloff H 1959 Die Reduktion
+within the current technical, economic and political                    der 200 jährigen Basler Temperaturreihe Arch. Met.
+                                                                        Bioklim. B9 360–411
+situation in Switzerland, given current emergency plans,         Brázdil R, Reznícková L, Valášek H, Dolák L and Kotyza O 2016
+information systems including accurate medium-range                     Climatic effects and impacts of the 1815 eruption of
+weather forecasts, and the lead time between a volcanic                 Mount Tambora in the Czech Lands Clim. Past 12
+eruption and effects. However, an eruption climate                      1361–74
+                                                                 Brönnimann S and Krämer D 2016 Tambora and the ‘year
+scenario might have a disruptive effect on the global                   without a summer’ of 1816. A perspective on earth and
+food system (Puma et al 2015), which indirectly could                   human systems science Geographica Bernensia
+affect food availability and prices in Switzerland.                     G90 p 48
+    An important lesson learned from studying the                Brugnara Y et al 2015 A collection of sub-daily pressure and
+                                                                        temperature observations for the early instrumental period
+Tambora eruption and subsequent YWAS is that a                          with a focus on the ‘year without a summer’ 1816 Clim.
+mono-causal argumentation leading from the volcanic                     Past 11 1027–47
+eruption to societal impacts is not an appropriate way           Evans R O and Skaggs R W 1984 Crop susceptibility factors for
+to think about climate-society interactions (Brönni-                    corn and soybeans to controlled ﬂooding ASAE Paper
+                                                                        84–2567 (ASAE, St Joseph)
+mann and Krämer 2016). While such a link can indeed              Frei C 2013 Interpolation of temperature in a mountainous
+be made, and our model simulations presented here                       region using nonlinear proﬁles and non-euclidean
+are a part of such a deterministic chain, we ﬁnd that at                distances Int. J. Climatol. 34 1585–605
+each step, other inﬂuences matter, and perhaps even              Hardjoamidjojo S, Skaggs R W and Schwab G O 1982 Corn yield
+                                                                        response to excessive soil water conditions Trans. ASAE 25
+dominated the response. For instance, the Tambora                       922–7
+eruption explains only one (arguably minor) part of              Klein T, Calanca P, Holzkämper A, Lehmann N, Roesch A and
+the YWAS. Furthermore, adverse weather is not the                       Fuhrer J 2012 Using farm accountancy data to calibrate a
+only factor affecting crop yields, and yields do not                    crop model for climate impact studies Agr. Syst. 111
+                                                                        23–33
+directly translate into prices and societal impacts. The         Krämer D 2015 «Menschen grasten nun mit dem Vieh» Die letzte
+crises of 1817 following the YWAS hit in the worst                      grosse Hungerkrise der Schweiz 1816/17 (Basel: Schwabe)
+possible moment a society that was vulnerable, in a                     p 527
+phase of political transition, with poor governance, a           Luterbacher J and Pﬁster C 2015 The year without a summer
+                                                                        Nat. Geosci. 8 246–8
+down turning economy, and lack of reserves                       MeteoSwiss 2013a Documentation of Meteoswiss grid data
+(Brönnimann and Krämer 2016). Yet, also in the                          products: Daily mean, minimum and maximum
+future, there will be countries and societies vulnerable                temperature: TabsD, TminD, TmaxD Federal Ofﬁce of
+to a severe climatic event. Modelling tools to                          Meteorology and Climatology MeteoSwiss 4 pp
+                                                                 MeteoSwiss 2013b Documentation of Meteoswiss grid data
+quantitatively investigate possible climatic effects on                 products: Daily precipitation (ﬁnal analysis): RhiresD
+such subsystems can strengthen a society’s adaptive                     Federal Ofﬁce of Meteorology and Climatology
+capacity by providing relevant information for                          MeteoSwiss p 4
+adaptation planning. However, socio-economic fac-                Oppenheimer C 2003 Climatic, environmental and human
+                                                                        consequences of the largest known historic eruption:
+tors play a very important role in determining how                      Tambora volcano (Indonesia) 1815 Prog. Phys. Geogr. 27
+successfully a society will be able to respond to extreme               230–59
+climate events. Therefore, interdisciplinary efforts in          Pﬁster C 2015 Module Switzerland ed C Pﬁster and C Rohr
+research and implementation are necessary for                           Data-base Euro-Climhist (http/www.euroclimhist.unibe.ch/
+                                                                        en/) (Accessed: 3 November 2016)
+designing proactive strategies to improve the resilience         Post J D 1977 The Last Great Subsistence crisis in the Western
+of the respective food systems.                                         World (Baltimore: Johns Hopkins University Press) p 240
+                                                                 Puma M J, Bose S, Chon S Y and Cook B I 2015 Assessing the
+                                                                        evolving fragility of the global food system Environ. Res.
+Acknowledgments                                                         Lett. 10 024007
+                                                                 Ravelo C J, Reddell D L, Hiler E A and Skaggs R W 1982
+This work was supported by the Swiss National Science                   Incorporation of crop needs into drainage system design
+                                                                        Trans. ASAE 25 623–9
+Foundation (projects CHIMES and EXTRA-LARGE).
+                                                                 Raible C C et al 2016 Tambora 1815 as a test case for high
+We acknowledge the support by Martin Grosjean and                       impact volcanic eruptions: Earth system effects WIREs
+the Oeschger Centre for Climate Change Research of the                  Clim. Change 7 569–89
+University of Bern and the PAGES working group VICS              Schüepp M 1961 Lufttemperatur Beiheft zu den Annalen der
+                                                                        SMZ, Zürich
+(Volcanic Impacts on Climate and Society).
+                                                                 Stöckle C O, Donatelli M and Nelson R 2003 CropSyst, a
+                                                                        cropping systems simulation model European J. Agronomy
+References                                                              18 289–307
+                                                                 Veale L and Endﬁeld G H 2016 Situating 1816, the ‘year without
+Auchmann R, Brönnimann S, Breda L, Bühler M, Spadin R and               summer’, in the UK Geogr. J 182 318–30
+     Stickler A 2012 Extreme climate, not extreme weather: the   Winkler P 2009 Revision and necessary correction of the long-
+     summer of 1816 in Geneva, Switzerland Clim. Past Discuss.          term temperature series of Hohenpeissenberg, 1781–2006
+     7 3745–74                                                          Theor. Appl. Climatol. 98 259–68
+
+
+                                                   10

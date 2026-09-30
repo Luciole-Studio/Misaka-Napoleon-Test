@@ -1,0 +1,226 @@
+## Sheet: B5_boe_cells.csv (continued)
+source_sheet,source_cell,cached_value
+A4. Ind Production 1270-1870,G579,241.3093336634796
+A4. Ind Production 1270-1870,H579,958.3984045756652
+A4. Ind Production 1270-1870,I579,518.5049583985754
+A4. Ind Production 1270-1870,J579,1370.4513193910884
+A4. Ind Production 1270-1870,K579,1944.924813830584
+A4. Ind Production 1270-1870,L579,888.399611977845
+A4. Ind Production 1270-1870,M579,426.34288622822936
+A4. Ind Production 1270-1870,N579,769.1479683239108
+A4. Ind Production 1270-1870,A580,1841
+A4. Ind Production 1270-1870,B580,362.49999999999994
+A4. Ind Production 1270-1870,C580,3587.985588413646
+A4. Ind Production 1270-1870,D580,1414.6444584764413
+A4. Ind Production 1270-1870,E580,1329.6924764701776
+A4. Ind Production 1270-1870,F580,291.34181707597463
+A4. Ind Production 1270-1870,G580,237.58761923757555
+A4. Ind Production 1270-1870,H580,914.1825068727669
+A4. Ind Production 1270-1870,I580,424.30152589727055
+A4. Ind Production 1270-1870,J580,1329.6924764701776
+A4. Ind Production 1270-1870,K580,1971.5845782606816
+A4. Ind Production 1270-1870,L580,904.1018118229599
+A4. Ind Production 1270-1870,M580,398.33713198422214
+A4. Ind Production 1270-1870,N580,758.9781670102157
+A4. Ind Production 1270-1870,A581,1842
+A4. Ind Production 1270-1870,B581,362.49999999999994
+A4. Ind Production 1270-1870,C581,2556.439731744723
+A4. Ind Production 1270-1870,D581,1431.0949022964166
+A4. Ind Production 1270-1870,E581,1294.761779186411
+A4. Ind Production 1270-1870,F581,315.67995412900444
+A4. Ind Production 1270-1870,G581,230.57671147296705
+A4. Ind Production 1270-1870,H581,673.4924572748014
+A4. Ind Production 1270-1870,I581,433.56743729084155
+A4. Ind Production 1270-1870,J581,1294.761779186411
+A4. Ind Production 1270-1870,K581,1703.6401458816918
+A4. Ind Production 1270-1870,L581,904.6540656346783
+A4. Ind Production 1270-1870,M581,350.87629412949906
+A4. Ind Production 1270-1870,N581,704.0145009404669
+A4. Ind Production 1270-1870,A582,1843
+A4. Ind Production 1270-1870,B582,371.875
+A4. Ind Production 1270-1870,C582,2690.989191310234
+A4. Ind Production 1270-1870,D582,1373.988924363821
+A4. Ind Production 1270-1870,E582,1463.6272201100612
+A4. Ind Production 1270-1870,F582,315.67995412900444
+A4. Ind Production 1270-1870,G582,230.42844195540138
+A4. Ind Production 1270-1870,H582,873.3091946288216
+A4. Ind Production 1270-1870,I582,445.53590617420394
+A4. Ind Production 1270-1870,J582,1463.6272201100612
+A4. Ind Production 1270-1870,K582,1823.2675844956186
+A4. Ind Production 1270-1870,L582,991.2985878277179
+A4. Ind Production 1270-1870,M582,379.3055125318858
+A4. Ind Production 1270-1870,N582,757.7119284007142
+A4. Ind Production 1270-1870,A583,1844
+A4. Ind Production 1270-1870,B583,400
+A4. Ind Production 1270-1870,C583,4798.9307245032505
+A4. Ind Production 1270-1870,D583,1348.588382587038
+A4. Ind Production 1270-1870,E583,1589.692380159534
+A4. Ind Production 1270-1870,F583,346.46053922548333
+A4. Ind Production 1270-1870,G583,233.21627841722253
+A4. Ind Production 1270-1870,H583,923.9000928667499
+A4. Ind Production 1270-1870,I583,480.669153541494
+A4. Ind Production 1270-1870,J583,1589.692380159534
+A4. Ind Production 1270-1870,K583,2424.5532703539807
+A4. Ind Production 1270-1870,L583,1079.4197846740074
+A4. Ind Production 1270-1870,M583,403.06048010576666
+A4. Ind Production 1270-1870,N583,852.1134614404812
+A4. Ind Production 1270-1870,A584,1845
+A4. Ind Production 1270-1870,B584,420.3124999999999
+A4. Ind Production 1270-1870,C584,3677.6852281239867
+A4. Ind Production 1270-1870,D584,1656.7612293144211
+A4. Ind Production 1270-1870,E584,1728.4995921676712
+A4. Ind Production 1270-1870,F584,348.60802190663304
+A4. Ind Production 1270-1870,G584,239.2632873068789
+A4. Ind Production 1270-1870,H584,1338.085015027907
+A4. Ind Production 1270-1870,I584,577.5751435325903
+A4. Ind Production 1270-1870,J584,1728.4995921676712
+A4. Ind Production 1270-1870,K584,2210.924259442531
+A4. Ind Production 1270-1870,L584,1152.0627172995935
+A4. Ind Production 1270-1870,M584,508.03041482813444
+A4. Ind Production 1270-1870,N584,941.4845342112004
+A4. Ind Production 1270-1870,A585,1846
+A4. Ind Production 1270-1870,B585,434.375
+A4. Ind Production 1270-1870,C585,4215.883066386034
+A4. Ind Production 1270-1870,D585,1575.5480081379392
+A4. Ind Production 1270-1870,E585,1668.0644377986564
+A4. Ind Production 1270-1870,F585,292.77347219674107
+A4. Ind Production 1270-1870,G585,246.149432522615
+A4. Ind Production 1270-1870,H585,1517.2555369869945
+A4. Ind Production 1270-1870,I585,581.4359399465782
+A4. Ind Production 1270-1870,J585,1668.0644377986564
+A4. Ind Production 1270-1870,K585,2387.831702803927
+A4. Ind Production 1270-1870,L585,1078.228142758205
+A4. Ind Production 1270-1870,M585,538.0952812261886
+A4. Ind Production 1270-1870,N585,943.8568445747052
+A4. Ind Production 1270-1870,A586,1847
+A4. Ind Production 1270-1870,B586,446.875
+A4. Ind Production 1270-1870,C586,4664.38126493774
+A4. Ind Production 1270-1870,D586,1790.8909662714475
+A4. Ind Production 1270-1870,E586,1363.4357916268902
+A4. Ind Production 1270-1870,F586,321.40657461207024
+A4. Ind Production 1270-1870,G586,249.6914374455427
+A4. Ind Production 1270-1870,H586,1246.733221178679
+A4. Ind Production 1270-1870,I586,528.1569494335452
+A4. Ind Production 1270-1870,J586,1363.4357916268902
+A4. Ind Production 1270-1870,K586,2543.290832363936
+A4. Ind Production 1270-1870,L586,943.9750446363817
+A4. Ind Production 1270-1870,M586,490.46794329440166
+A4. Ind Production 1270-1870,N586,888.2181634579691
+A4. Ind Production 1270-1870,A587,1848
+A4. Ind Production 1270-1870,B587,460.9375
+A4. Ind Production 1270-1870,C587,4843.780544358422
+A4. Ind Production 1270-1870,D587,1849.8135126785628
+A4. Ind Production 1270-1870,E587,1684.7317667656698
+A4. Ind Production 1270-1870,F587,302.79505804210623
+A4. Ind Production 1270-1870,G587,242.64794996493535
+A4. Ind Production 1270-1870,H587,1346.5730284960105
+A4. Ind Production 1270-1870,I587,494.5680206318504
+A4. Ind Production 1270-1870,J587,1684.7317667656698
+A4. Ind Production 1270-1870,K587,2655.12467675567
+A4. Ind Production 1270-1870,L587,1094.5230825680244
+A4. Ind Production 1270-1870,M587,499.71829830718804
+A4. Ind Production 1270-1870,N587,955.124003726169
+A4. Ind Production 1270-1870,A588,1849
+A4. Ind Production 1270-1870,B588,481.25
+A4. Ind Production 1270-1870,C588,4933.480184068763
+A4. Ind Production 1270-1870,D588,1747.8827101571135
+A4. Ind Production 1270-1870,E588,1780.3601223399305
+A4. Ind Production 1270-1870,F588,317.82743681015404
+A4. Ind Production 1270-1870,G588,256.5084054292698
+A4. Ind Production 1270-1870,H588,1134.8066308966722
+A4. Ind Production 1270-1870,I588,543.214055448098
+A4. Ind Production 1270-1870,J588,1780.3601223399305
+A4. Ind Production 1270-1870,K588,2687.6920893014108
+A4. Ind Production 1270-1870,L588,1155.0878423786614
+A4. Ind Production 1270-1870,M588,470.2230541311432
+A4. Ind Production 1270-1870,N588,948.904481715403
+A4. Ind Production 1270-1870,A589,1850
+A4. Ind Production 1270-1870,B589,468.75
+A4. Ind Production 1270-1870,C589,5381.978382620468
+A4. Ind Production 1270-1870,D589,1912.7489972130124
+A4. Ind Production 1270-1870,E589,1705.3068410627532
+A4. Ind Production 1270-1870,F589,297.78426511942365
+A4. Ind Production 1270-1870,G589,273.3162320862254
+A4. Ind Production 1270-1870,H589,1058.0907111668425
+A4. Ind Production 1270-1870,I589,667.5316999785084
+A4. Ind Production 1270-1870,J589,1705.3068410627532
+A4. Ind Production 1270-1870,K589,2858.8280853477886
+A4. Ind Production 1270-1870,L589,1101.874317434509
+A4. Ind Production 1270-1870,M589,482.7569320542408
+A4. Ind Production 1270-1870,N589,957.4038891740109
+A40. Trade by region 1710-1822,A1,Back to front page
+A40. Trade by region 1710-1822,B1,A40. Trade by regions 1710-1822 based on official values
+A40. Trade by region 1710-1822,B2,"Source: Moreau (1822) from Mitchell (1988).  England and Wales to 1754 (Imports)/1758(Exports), Great Britain thereafter."
+A40. Trade by region 1710-1822,B3,These data are based on official values which were based on prices largely set and fixed at the end of the C17th.  So they do not accurately reflect the value of trade although this is unlikely to give a distortionary picture until the late C18th.  From 1784 the declared and computed values in the next sheet are to be preferred.
+A40. Trade by region 1710-1822,B5,Northern Europe
+A40. Trade by region 1710-1822,D5,Southern Europe
+A40. Trade by region 1710-1822,F5,Africa
+A40. Trade by region 1710-1822,H5,Asia
+A40. Trade by region 1710-1822,J5,North America 
+A40. Trade by region 1710-1822,P5,Central and South America
+A40. Trade by region 1710-1822,R5,British West Indies
+A40. Trade by region 1710-1822,T5,Total
+A40. Trade by region 1710-1822,V5,Total based on Deane and Cole's data
+A40. Trade by region 1710-1822,B6,Includes the ports of Europe as far south as the Franco-Belgian frontier.
+A40. Trade by region 1710-1822,D6,"Includes the ports of Europe as far north as the Franco-Belgian frontier, plus Turkey and its domains (including Egypt)."
+A40. Trade by region 1710-1822,J6,"US, Canada"
+A40. Trade by region 1710-1822,L6,o/w Canada
+A40. Trade by region 1710-1822,N6,o/w USA
+A40. Trade by region 1710-1822,P6,including foreign West Indies
+A40. Trade by region 1710-1822,B7,Total Imports of goods
+A40. Trade by region 1710-1822,C7,Total Exports of Goods
+A40. Trade by region 1710-1822,D7,Total Imports of goods
+A40. Trade by region 1710-1822,E7,Total Exports of Goods
+A40. Trade by region 1710-1822,F7,Total Imports of goods
+A40. Trade by region 1710-1822,G7,Total Exports of Goods
+A40. Trade by region 1710-1822,H7,Total Imports of goods
+A40. Trade by region 1710-1822,I7,Total Exports of Goods
+A40. Trade by region 1710-1822,J7,Total Imports of goods
+A40. Trade by region 1710-1822,K7,Total Exports of Goods
+A40. Trade by region 1710-1822,P7,Total Imports of goods
+A40. Trade by region 1710-1822,Q7,Total Exports of Goods
+A40. Trade by region 1710-1822,R7,Total Imports of goods
+A40. Trade by region 1710-1822,S7,Total Exports of Goods
+A40. Trade by region 1710-1822,T7,Total Imports of goods
+A40. Trade by region 1710-1822,U7,Total Exports of Goods
+A40. Trade by region 1710-1822,V7,Total Imports of goods
+A40. Trade by region 1710-1822,W7,Total Exports of Goods
+A40. Trade by region 1710-1822,X7,Difference
+A40. Trade by region 1710-1822,Y7,Difference
+A40. Trade by region 1710-1822,A8,£mn
+A40. Trade by region 1710-1822,A94,1795
+A40. Trade by region 1710-1822,B94,4.106
+A40. Trade by region 1710-1822,C94,10.045
+A40. Trade by region 1710-1822,D94,2.566
+A40. Trade by region 1710-1822,E94,2.412
+A40. Trade by region 1710-1822,F94,0.065
+A40. Trade by region 1710-1822,G94,0.429
+A40. Trade by region 1710-1822,H94,5.761
+A40. Trade by region 1710-1822,I94,2.383
+A40. Trade by region 1710-1822,J94,1.667
+A40. Trade by region 1710-1822,K94,6.254
+A40. Trade by region 1710-1822,L94,0.315
+A40. Trade by region 1710-1822,M94,1
+A40. Trade by region 1710-1822,N94,1.352
+A40. Trade by region 1710-1822,O94,5.254
+A40. Trade by region 1710-1822,P94,0.385
+A40. Trade by region 1710-1822,Q94,0.206
+A40. Trade by region 1710-1822,R94,4.099
+A40. Trade by region 1710-1822,S94,2.461
+A40. Trade by region 1710-1822,T94,18.649
+A40. Trade by region 1710-1822,U94,24.19
+A40. Trade by region 1710-1822,A95,1796
+A40. Trade by region 1710-1822,B95,6.805
+A40. Trade by region 1710-1822,C95,8.317
+A40. Trade by region 1710-1822,D95,2.072
+A40. Trade by region 1710-1822,E95,2.457
+A40. Trade by region 1710-1822,F95,0.12
+A40. Trade by region 1710-1822,G95,0.614
+A40. Trade by region 1710-1822,H95,3.737
+A40. Trade by region 1710-1822,I95,2.377
+A40. Trade by region 1710-1822,J95,2.285
+A40. Trade by region 1710-1822,K95,6.869
+A40. Trade by region 1710-1822,L95,0.204
+A40. Trade by region 1710-1822,M95,0.815
+A40. Trade by region 1710-1822,N95,2.081
+A40. Trade by region 1710-1822,O95,6.054

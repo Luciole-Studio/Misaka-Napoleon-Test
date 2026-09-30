@@ -1,0 +1,16 @@
+{
+  "doc_id": "c0331caf4c13",
+  "title": "[t_95ef51] nodes/r_b55f2c1cf5/cards/t_95ef51/c4_annual_status.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_b55f2c1cf5/cards/t_95ef51/c4_annual_status.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_b55f2c1cf5/cards/t_95ef51/c4_annual_status.csv"
+  ],
+  "sha256": "c0331caf4c135e8f4e8bf84d9748b91be79a1644232291974da5dfff2b1744bf",
+  "pages": 2,
+  "task_id": "t_95ef51",
+  "task_ids": [
+    "t_95ef51"
+  ],
+  "added_at": 1789894852,
+  "office_format": "csv"
+}

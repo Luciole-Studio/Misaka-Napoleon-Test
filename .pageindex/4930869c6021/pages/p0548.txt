@@ -1,0 +1,34 @@
+
+
+ * AGS. References to the guerrilla are scattered, at an approximate count, throughout over one-third of the 121 legajos of this series. In the AHN, guerrilla matters also appear in great numbers of the 84 legajos of the Junta
+Suprema’s papers. Though the PRO references are less abundant, it is nonetheless materially impossible to provide a comprehensive list here of all those papers in the three archives which deal with the guerrilla.
+
+ APPENDIX 5:
+HUMAN COSTS OF WAR (AND PEACE)
+
+ * As acknowledged in Chapter 19 , I am deeply indebted to Professor David Sven Reher, historian and demographer at the Complutense University, Madrid, for his help and guidance, most especially for suggesting that the crude
+sample data be converted into a weighted sample and for calculating the pre-war and wartime potential population losses. Needless to say, any errors are my responsibility.
+
+ † This consisted essentially of taking the sample’s unweighted mid-1800–1801 estimated population figure and dividing it by the reliable (1787) census figure of regional populations. The resulting proportion was then applied to
+the sample’s births and deaths to re-compute the mid-1800/mid-1801 population. The same process was used to re-calculate the mid-1807/mid-1808 estimated population on the eve of the war and the mid-1813/mid-1814 figure on the
+conflict’s end.
+
+ * This was effected by using an average Spanish birthrate of 40 per 1000 at the time. Taking the average number of births for the three year period 1800–1802 and dividing this by 0.04 (the average birthrate) the mid-1801
+population was arrived at. On the basis of the latter, the mid-1800 population was calculated by subtracting the cumulative average natural growth (births minus deaths) of 1801 and 1802. This resulted in the data covering one
+mid-year to the next. (In regions – most notably in Andalucía and Extremadura where birth rates were lower – the population estimate was probably too high, and in those with higther rates – Galicia was an example – too low.)
+
+ † Pérez Moreda, ‘La evolución demográfica española en el siglo XIX (1797–1930). Tendencias generales y contrastes regionales’, in Società Italiana di Demografia Storica (SIDES). La popolazione italiana nell’ottocento. Continuità
+e mutamenti , Bologna, 1985. See also Jordi Nadal, Les grandees mortalités des anneés 1793–1812: effets à long terme sur la démographie catalane . Problèmes de mortalité , Liege, 1963.
+
+===== FILE: OEBPS/38_Bib.xhtml =====
+Napoleon’s Cursed War
+
+ Bibliography
+
+ Aguilar Piñal, Francisco, 1989: ‘Predicación y mentalidad popular en la Andalucía del siglo XVIII’, in Álvarez Santaló, C. Buxo et al., 1989 (3), vol 2, pp. 57–71
+
+ Alexander, Don W., 1984: Rod of Iron: French Counterinsurgency Policy in Aragón during the Peninsular War , Wilmington
+
+ Alía y Plana, Jesusmaría, 1992: ‘El primer lunes de mayo de 1808 en Madrid,’ in Museo del Ejército (ed.), 1992, Madrid
+
+ Alianza, 1988: Enciclopedia de Historia de España , 7 vols, ed. Miguel Artola, Madrid

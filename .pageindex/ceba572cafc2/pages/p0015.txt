@@ -1,0 +1,30 @@
+
+
+May 1819: Peel's Act definitively fixed the details and timeline for the resumption of the gold standard (see next section). On this occasion, the agio decreased to 2 percent.Footnote 32
+
+### Biweekly Results for the Agio
+
+Break date estimation on biweekly data for the agio are presented in Figure 6 and Table 4. The results for overlapping periods from the daily procedure corroborate the monthly results and provide greater definition of events leading to changes in the agio.
+
+Figure 6
+
+BREAK DATES IN THE AGIO, BIWEEKLY DATA, JULY 1810 TO DECEMBER 1820
+
+Notes: Dashed lines highlight the detected break dates; the shaded areas represent the 95 percent asymmetric confidence intervals.
+Sources: Author's calculations.
+
+Table 4
+
+BREAK DATES FOR THE AGIO, DAILY DATA–JULY 1810 TO MAY 1823
+
+## Sources:
+
+Author's calculations, data see text.
+
+8 February 1811: No military or political events occurred at this exact date. However, the confidence interval encompasses the battle of Gebora and the ensuing fall of Badajoz (February 1811). Following these events, the agio on gold increased to 28 percent.
+
+25 August 1812: During the summer of 1812, a great deal of uncertainty surrounded the war with America, causing upheaval in the trading community and fluctuations in the funds.Footnote 33 While the American declaration of war had reached London by the end of July, its primary cause, Britain's demand that the United States cease trade with France, had already been revoked. It was, thus, expected that Lord Liverpool's repeal of the Orders of Council would put an end to hostilities. It came as a surprise when news regarding the American decision to continue warfare reached London towards the end of August.Footnote 34 The opening up of a new war front amid ongoing war in the Peninsula caused a rise in the agio to 35 percent.
+
+17 June 1814: The Treaty of Paris, signed on 30 May 1814, ended the War of the Sixth Coalition. The peace treaty and its ratification were published in the London Gazette on the 2nd and 18th of June. As restoring a strong and stable French state was part of returning to the pre-Napoleonic balance of power, Britain relinquished reparation payments. The counterpart to this was eliminating the French threat to Britain's commercial interests around the world (White Reference White2001). On this occasion, the agio fell to 16 percent.
+
+17 March 1815: After escaping his exile on Elba, Napoleon entered Paris on 20 March.Footnote 35 Upon reaccession to the throne, he started to organize his armed forces. By the end of May, he had formed “l'Armée du Nord,” consisting of approximately 200,000 troops ready for deployment in the Waterloo Campaign (Chesney Reference Chesney1868). At the mere prospect of a new war against Napoleon, the agio rose to 38 percent. The evolution of the agio in response to this particular event emphasizes that it is the expectation of future public spending that affects the internal value of the pound. This is clearly a fiscal news shock, as no war-related spending had yet occurred, which rules out the hypothesis that inflationary tensions were caused by monetary expansion.

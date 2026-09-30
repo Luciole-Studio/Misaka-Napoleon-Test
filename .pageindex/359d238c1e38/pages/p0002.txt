@@ -1,0 +1,34 @@
+
+
+### IG-E｜Aaslestad 汉堡
+- Katherine B. Aaslestad, "War without Battles: Civilian Experiences of Economic Warfare during the Napoleonic Era in Hamburg", 同 IG-B 所在文集。doc `caa0e8d86884`，node `0043`，PDF pp.140–143 ＝ 印pp.128–131。记入 `notes_aaslestad.md`。
+- 关键位置：印p.128 1806/1810未抗拒、参议会寻求合作；p.130 "the police handled the few occasions of disorder without the assistance of French troops until February 1813"；p.130 1813-02-24 走私小贩被捕与征兵逃亡引爆全城攻击关卡；p.131 民兵与汉萨军团。
+- **内部时序矛盾**：印p.131先称法军 early April 撤出，紧接"One month later, in March 1813"。已裁断：不据此写精确持续天数，`sustained` 给 0–1。
+
+### IG-F｜Madelin 罗马（法语，1906/1907 Plon 版）
+- Louis Madelin, *La Rome de Napoléon: la domination française à Rome de 1809 à 1814*, Paris, Librairie Plon（扉页已核，`downloads/D2_Madelin_Rome_de_Napoleon.txt` 索引pp.1–146；含 Harvard/Aulard 藏书印记）。doc `78ac3c3029f7`。
+- 本卡亲读索引pp.186–189、375–378、389–391（对应印页约301–306、600–605、621–626）。记入 `notes_nonenglish.md` M01a–M01d。
+- OCR 质量差（"1813"可误作"1818"等），不引难辨词；档案签号（AF IV、F7 系列）经 Madelin 转引，**本卡未亲阅原档**。
+- 来源批判：20世纪初法方视角，含"退化的罗马人""背叛"等价值修辞，本卡不采其价值判断，只取事件与行政证词。
+
+### IG-G｜Graber 苏黎世1804（德语）
+- Rolf Graber, "'Jezt seye es einmal Zeit, die Freyheit und Gleichheit zu erfechten…' Zur 'sozialen Logik' des Volksaufstandes von 1804 auf der Zürcher Landschaft", Zurich Open Repository and Archive, 2004, DOI `10.5167/uzh-78425`。
+- 提取快照 `downloads/pages/c4615e9a2a2b.md`，text_sha256 `2ea1b8aa989fb8856f2ff66869160ca02268ac64b31e309a0e4acf36462a1880`；本卡实读 L1–50，**后半未逐段读**。
+- 提供 Bockenkrieg 的独立地方研究视角（Wädenswil纵火、Horgen击退苏黎世部队、联邦增援镇压、1804-04-25 三名领袖处决、自由平等话语）。与 IG-A 的瑞士综述**不构成两条独立实验**，但属不同研究传统的独立叙述。
+
+### IG-H｜Bickert 威斯特法利亚/黑森1809（德语）
+- Hans Günther Bickert, "Der Aufstands-Dörnberg. Zu seiner Rolle im Widerstand gegen Jérôme Bonaparte vor 200 Jahren", *Zeitschrift des Vereins für hessische Geschichte* 114 (2009), pp.177–198。
+- URL `https://www.vhghessen.de/inhalt/zhg/ZHG_114/10_Bickert_Doernberg.pdf`；提取 `downloads/pages/20f93b3b3965.md`。本卡亲读印pp.177–179、181–183、185局部。记入 `notes_nonenglish.md` BI01。
+- 关键位置：p.179 军事负担、惩逃、间谍与法语官方语言使政权失信，1809奥法开战为背景；pp.181–182 密谋者名单与农民队伍（Felsberg约800、Homberg约1500，作者明言总数更高但未知）；p.183 "Der Putsch brach noch während seiner Entstehung zusammen"。
+- 引用 StA MR 档案（Best. 17 II、76a、4h、340）为作者的档案谱系，**本卡未亲阅**。作者对2008年展览淡化军事负担有批评取向，已记入来源批判。
+
+### IG-I｜前一轮本节点已验收材料（复用，注路径）
+- `nodes/r_b55f2c1cf5/cards/t_f3c44f/c10_causal_evidence.md`（Sister 10036，制度移植现代因果证据）。本卡**只复用其外推限制**：ACJR/Buggle 等长期制度遗产系数不是起义风险系数；1850年前基准效应不显著。不复用其"未识别"结论。
+- 邻卡笔记 `nodes/r_5b1357a9c6/cards/t_ccdcc8/notes_joor.md`、`t_40198e/notes_rowe.md` 等：仅用于定位，**不计为独立来源**。
+
+---
+
+## 2. 本卡未使用但曾被指定的来源（说明为何未入证据）
+- Michael Broers, *Napoleon's Other War* / *Politics and Religion in Napoleonic Italy*（`downloads/D1_Broers_Politics_Religion_Napoleonic_Italy__4c3bc326766c.pdf`, doc `5afb7e8091c4`）：本轮**未实读**，故未引。Broers 的判断仅经 IG-C、IG-D 转述出现，且已标注为转引。
+- Michael Rowe, *From Reich to State*（`downloads/D1_Rowe_From_Reich_to_State__49f41cfc7013.pdf`, doc `efa2c87c4afb`）：未实读；与 IG-D 的 Rowe 章同作者，即便读取也不构成独立互证。
+- Finley、Eyck、Forrest 专著、Tone、Blanning、Schama、HYDE/Nunn-Puga：本轮未取得或未实读，**不列入证据**。Nunn-Puga 崎岖度未使用，故 `T` 明确声明为定性代理。

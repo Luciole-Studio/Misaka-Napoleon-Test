@@ -1,0 +1,17 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: P6_durability.csv
+
+```meta
+▸ table "P6_durability.csv" (9 data rows)
+```
+步骤,p_low,p_high,来源
+基线：F5加权无条件王朝存续至1848,0.4,0.55,F5（台账 F5 验收条）
+＋教会已和解（避免 −5–10pp）,0.4,0.55,F5横切修正；IT3 7.1和解均衡
+＋无战败（避免 ×0.3–0.5）,0.4,0.55,F5：叠加战败×0.3–0.5
+＋常备军在容忍带内（年征8–10万）,0.42,0.58,F5：超容忍 −5–15pp，本路径不触发
+＋宪政化让渡（统合公债/法定利率/藩属宪章）,0.5,0.7,F5：+10–15pp，但体制漂向'带盔甲的七月王朝'
+−F1 0.7/18月单边冲动未被吸收的残差,0.35,0.6,F1 L251；本路径设计了导流阀，残差按 −10~−15pp 计（MODEL）
+最终：王朝仍在位（1848）,0.35,0.5,本卡综合
+最终：法国主导的大陆秩序仍在（1848，允许王朝更替）,0.45,0.65,F5'行政国家存续而王朝更替≥70%'×秩序外部条件
+最终：A层版图未收缩（1848）,0.3,0.45,D1内圈稳定性 + D2外圈韧性为零

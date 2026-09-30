@@ -1,0 +1,31 @@
+
+
+Figure 4: British Export Shares by Continent, 1700–1899
+
+1700 1750 1800 1850 1899 Africa Asia Europe N America Oceania S America
+
+Notes: Shaded areas represent the share of British exports going to destinations by continent.
+
+in 1790. There followed a relatively stable share over the 19th century with a final value of 34% in 1899. Exports to what would become the United States had been very important prior to independence. They represented on average 11% of total exports between 1700 and 1780, peaking at 22% in 1760. The dramatic rise in the US share of total exports between 1790 and 1807 reflects the resumption of normal trading relationships between ex-colony and coloniser as well as the diversion of British exports in light of the war with France (at least until the US Embargo Act came into effect in December 1807). The figure also highlights the importance of the United States as a destination for British exports after 1815, representing on average 13% of total exports between 1820 and 1899.9
+
+Figure 4 depicts export destinations by continent over the same 200 year period. A few notable trends dominate: (a) the secular decline of the European share from 79% in
+
+9Other notable destinations in the British Empire include: (a) British India whose share of total exports climbed from 3% in 1700 to 13% in 1899; (b) the British West Indies whose share of total exports declined from 5% in 1700 to <1% in 1899; and (c) the eventually self-governing Dominions of Australia, Canada, New Zealand, and South Africa whose share of total exports climbed from <1% in 1700 to 16% in 1899.
+
+Figure 5: British Export Shares by One-Digit Sections, 1700–1899
+
+1700 1750 1800 1850 1899 SITC 0, 1, 4 SITC 2, 3 SITC 5 SITC 6 SITC 7 SITC 8, 9
+
+Notes: Shaded areas represent the share of British exports by 1-digit section.
+
+1700 to 40% in 1899; (b) the rise and decline of the North American share (inclusive of the Caribbean and Central America) from 11% in 1700 to 59% in 1807 and 12% in 1899; (c)
+
+the dramatic 19th century rise of the combined share for Africa and Asia (particularly the latter) from 16% in 1800 to 32% in 1899; and (d) the emergence of trade with Oceania and
+
+South America (particularly the former) seen in their combined share rising from 2% in
+
+1800 to 16% in 1899.
+
+Finally, Figure 5 depicts the share of exports across the ten SITC one-digit sections.10
+
+Here, we collapse similar sections for ease of presentation, e.g., sections (2) and (3) which capture all crude materials inclusive of coal. A few interesting patterns emerge. First, at the highest level of aggregation, manufactured goods in sections (5) through (9) dominate the total value of exports over these two centuries with an average share of 89%. Second, 10One-digit sections correspond to the following categories: (0) Food and live animals chiefly for food; (1) Beverages and tobacco; (2) Crude materials, inedible, except fuels; (3) Mineral fuels and lubricants; (4) Animal and vegetable oils, fats, waxes; (5) Chemicals and related products; (6) Goods classified chiefly by materials; (7) Machinery and transport equipment; (8) Miscellaneous manufactured articles; and (9) Commodities not classified elsewhere.

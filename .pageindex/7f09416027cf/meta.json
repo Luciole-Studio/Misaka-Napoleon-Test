@@ -1,0 +1,16 @@
+{
+  "doc_id": "7f09416027cf",
+  "title": "[t_208a11] nodes/r_b55f2c1cf5/cards/t_208a11/c14_manpower.csv",
+  "orig_path": "/Users/makiko/Documents/exam/nodes/r_b55f2c1cf5/cards/t_208a11/c14_manpower.csv",
+  "paths": [
+    "/Users/makiko/Documents/exam/nodes/r_b55f2c1cf5/cards/t_208a11/c14_manpower.csv"
+  ],
+  "sha256": "7f09416027cfae8ff073a8f3f0c84e21096c80e2bbaba0e7c0d60488483000d8",
+  "pages": 1,
+  "task_id": "t_208a11",
+  "task_ids": [
+    "t_208a11"
+  ],
+  "added_at": 1789889336,
+  "office_format": "csv"
+}

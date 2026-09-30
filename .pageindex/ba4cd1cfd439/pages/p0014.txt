@@ -1,0 +1,78 @@
+
+
+Tradejkt = L1 rdistcoastjkt + L2Zjkt + XeȖ + ujkt , (8)
+
+where Z is a potential determinant of Trade, which might also be corre lated with rdistcoast (DFKRQHRIWKHVHVSHFL¿FDWLRQVSURYLGHVDGGLWLRQDO evidence on the exclusion restriction, that rdistcoast affects Trade only WKURXJKLWVHIIHFWRQFXVWRPVOLEHUDOL]DWLRQ ,WLVLPSRUWDQWWRGLVWLQJXLVK
+
+these two features. As we will see, there are several variables that affect 
+Trade LQ WKH VHQVH WKDW Ȗ2 LV HVWLPDWHG WR EH QRQ ]HUR ,Q LWVHOI WKDW LV 
+QRW D FRQFHUQ IRU WKH LQVWUXPHQWDO YDULDEOHV VWUDWHJ\ +RZHYHU LIȖ2 is 
+HVWLPDWHGWREHQRQ ]HUR and WKHFRHI¿FLHQWRQUHODWLYHGLVWDQFHȖl turns 
+LQVLJQL¿FDQW WKDW ZRXOG EH HYLGHQFH WKDW UHODWLYH GLVWDQFH LV VWURQJO\ 
+correlated with another factor, Z, that affects Trade. In that case, relative 
+distance could not be used as an instrumental variable for customs liber 
+DOL]DWLRQEHFDXVHLWPLJKWIDLOWKHH[FOXVLRQUHVWULFWLRQ ,WZRXOGQRWEH 
+clear whether the instrumental variable picks up the Zollverein OLEHUDOL]D 
+tions or something related to that other factor, Z. 
+:H ¿UVW FRQVLGHU LQVWLWXWLRQDO FKDQJH 0DQ\ RI WKH *HUPDQ VWDWHV 
+underwent institutional change as a consequence of French occupation 
+during the times of the French Revolution and in Napoleonic times. These 
+institutional changes tended to be pro-business. In particular, in many 
+DUHDV WKH ³HTXDOLW\ EHIRUH WKH ODZ´ ZDV HVWDEOLVKHG DQG WKH LQÀXHQFH 
+of craft guilds, which typically would restrict the entry of newcomers 
+in an industry, was curtailed (Acemoglu et al. 2011). As a consequence, 
+the institutional change in the German states during the early nineteenth 
+century might affect our instrumental variables strategy: What if these 
+institutional reforms determined which state joined the Zollverein, and 
+not their relative market access as captured by rdistcoast? 
+A good measure of the depth and the extent of irreversibility of these 
+institutional changes, it turns out, is the length of French rule (Acemoglu 
+et al. 2011). We have added the log of the average length of French rule 
+in cities j and k into the reduced form as the next Z variable. The results 
+DUHVKRZQLQFROXPQ RI7DEOH 7KHQHJDWLYHFRHI¿FLHQWVLQGLFDWHWKDW 
+longer French rule led to lower price gaps, consistent with the idea that 
+)UHQFK UXOH WULJJHUHG LQVWLWXWLRQDO LPSURYHPHQWV WKDW EHQH¿WHG WUDGH 
+The test at the bottom of column 2 indicates that, in line with Keller 
+DQG6KLXH )UHQFKUXOHLVDVLJQL¿FDQWGHWHUPLQDQWRISULFHJDSV 
+Importantly, the impact of French rule is largely orthogonal to that of the 
+UHODWLYHGLVWDQFHWRWKHFRDVW WKHFRHI¿FLHQWRQ rdistcoast in column 2 is 
+quite similar to that in column 1. Thus, whatever the impact of institu 
+tional change on trade might have been, there is no evidence that it will 
+prevent us from estimating the causal impact of the Zollverein on trade 
+using our market access instrument. 
+According to much of the literature, the introduction of railroads has 
+been second to none in importance for improving trade and causing 
+economic growth in nineteenth century Germany (Fremdling 1975). It 
+has also been noted that the Zollverein facilitated railway construction. It 
+was easier to agree on the building as well as the location of the railway 
+1190 Keller and Shiue 
+tracks when all parties were members of the Zollverein, because tariff 
+considerations were removed from the deliberations over routes (Hahn 
+1984, p. 93). It is therefore not implausible that railway building both 
+affected trade and was correlated with Zollverein accession. To examine 
+what this means for the Instrumental Variables (IV) strategy, we include 
+a railway measure, namely the GIS-based cost of railway building based 
+RQWKHGLI¿FXOW\RIWKHWHUUDLQ IURP.HOOHUDQG6KLXH LQWKHUHGXFHG 
+form. According to column 3 of Table 2, railway costs affect price gaps, 
+however they do not much affect the proposed instrument. 
+In column 4 we include the share of Protestants in the population as 
+an additional Z variable. Protestantism has been proposed as a driver of 
+economic performance (Weber 1930), and that may include trade arbi 
+WUDJH 3URWHVWDQWLVPLVLQGHHGVLJQL¿FDQWDVDGHWHUPLQDQWRISULFHJDSV 
+(bottom of column 4). In Germany’s North the share of Protestants is 
+ODUJHUWKDQLQWKH6RXWK ,QFOXGLQJ3URWHVWDQWLVPFKDQJHVWKHFRHI¿FLHQW 
+on relative distance to the coast. 
+:HDOVRFRQVLGHUWKHUROHRIUHPRWHQHVVIRURXUUHVXOWV GH¿QHGDVWKH 
+geographic location of a particular city-pair relative to the mean of the 
+sample. 29&XVWRPVOLEHUDOL]DWLRQEHWZHHQWZRUHODWLYHO\ LVRODWHGPDUNHWV 
+PD\PDWWHUPRUHWKDQFXVWRPVOLEHUDOL]DWLRQEHWZHHQWZRPDUNHWVWKDW 
+each have a multitude of alternative trade partners nearby. Including 
+remoteness also sheds some light on general-equilibrium effects that 
+might be present. Table 2 shows that remoteness is associated with lower 
+price gaps in the sample (column 5). 30 Including remoteness also reduces 
+VRPHZKDW WKH VL]H RI WKH FRHI¿FLHQW RQ rdistcoast, however, relative 
+GLVWDQFHWRFRDVWUHPDLQVKLJKO\VLJQL¿FDQW 
+Next, we examine the role of shipping routes, which may be important 
+because the nineteenth century saw the widespread adoption of steam 
+ships in Germany (column 6 of Table 2). The variable Shipping NS is 
+equal to one if the drainage areas in a particular state feed into rivers that 

@@ -1,0 +1,69 @@
+Spring of 1791, the long-term rate had decreased to 3.5 percent but the premium was
+still high (Figure 1). At the beginning of the summer, the 3 percent was priced at 85
+and the 4 percent at 105. That difference of 20 meant an expectation of redemption of
+more than 30 years in the future.4 That premium fell precipitously in 1791. In March
+1792, the 3 percent was priced at 97, the premium of the 4 percent had shrunk to 5, with
+an expected interval of time to redemption of about 5 years. The market expectations
+and conditions were very similar to those in 1747 before the previous interest reduction
+for all 4 percent annuities (Chamley, 2011). The events in France during the summer of
+1791 led the market to believe that a new period of peace was coming.
+
+
+
+              150
+
+
+
+              140
+
+
+
+              130
+
+
+
+              120
+
+
+
+              110                       q = 5p/3
+                                                                             08!91             03!92
+
+              100
+
+
+
+               90                             q = 4p/3
+
+
+
+               80
+                                     10!84
+
+
+               70
+                                                         q=p
+
+
+               60
+
+
+
+               50
+                 50      55     60                 65    70        75   80   85      90   95      p    100
+
+
+
+
+                      Figure 1: Prices of the consol (3%) and of the 4% annuities
+
+Source: Gentleman’s Magazine, authors’ calculations.
+
+   4
+       The present value of coupons of one pound for 30 years, discounted at 3 percent–the lower bound
+for the interest in this case–is 19.6.
+
+
+
+
+                                                               8

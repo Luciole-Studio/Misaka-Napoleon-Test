@@ -1,0 +1,36 @@
+---
+source_url: "https://www.tcd.ie/Economics/TEP/2005_papers/TEP9.pdf"
+final_url: "https://www.tcd.ie/Economics/TEP/2005_papers/TEP9.pdf"
+provider: "exa"
+text_sha256: "c9e01a40476640e05f50565ea7e2aaa9634a44ebe1d68d2069cf4719ffcd775a"
+title: "The worldwide economic impact of the Revolutionary and Napoleonic Wars"
+content_kind: "page_text"
+---
+
+The worldwide economic impact of the Revolutionary and Napoleonic Wars
+
+Kevin H. O’Rourke Department of Economics and IIIS, Trinity College Dublin and CEPR and NBER
+
+May 2005
+
+The work for this paper was done while the author was an IRCHSS Government of Ireland Senior Fellow. I am grateful to the Irish Research Council for the Humanities and Social Sciences for their generous research funding. I also gratefully acknowledge research funding under the European Commission's Sixth Framework Programme, Marie Curie Research Training Network contract number MRTN-CT-2004-512439. William Hynes, Patrick Leahy, and Hampus Willfors provided excellent research assistance. I also wish to thank Liam Brunt, François Crouzet, Jean-Pierre Dormois, David Eltis, Stanley Engerman, Javier Cuenca Esteban, Ronald Findlay, Dennis Flynn, Arturo Giraldez, Philip Hoffman, Douglas Irwin, Jan Tore Klovland, Jim Livesey, Leandro Prados, David Richardson, Jean-Laurent Rosenthal, Lennart Schön, Alan Taylor and Jeffrey Williamson for generous help with sources, making available unpublished material, encouragement and advice. Stanley Engerman and François Crouzet most generously provided extensive written comments on earlier drafts. Participants at the OFCE economic history seminar and the NBER DAE 2005 Spring Program Meeting made a number of helpful comments for which I am grateful. Needless to say, the usual disclaimer applies.
+
+For a recent insightful review of this work, see Crouzet (2003). 1
+
+Section 1. Introduction 
+The years between 1793 and 1815 saw an unusually bloody, lengthy and widespread 
+conflict between Great Britain and France, which widened to include many of the other 
+leading powers of the day. The period is also notable for its economic warfare, which 
+involved not only the belligerents, but several (at least initially) neutral countries, notably the 
+young United States. This paper offers a comparative, quantitative assessment of the 
+economic impact of the conflict. While data availability dictates that the paper’s focus be on 
+comparatively well-documented countries, such as Britain, France and the US, the paper will 
+attempt to range more widely, and bring together evidence concerning the impact of the wars 
+not just on Europe and North America, but on Latin America, Asia and Africa as well. The 
+paper has three main conclusions. First, the wars of 1793-1815 had a powerful, worldwide 
+economic impact. Second, they imposed large welfare costs, both on participating nations and 
+on neutrals. Third, Britain was less severely damaged by the conflict than its main military 
+and economic rivals. 
+Several scholars have already explored this episode, some in considerable detail. Eli 
+Heckscher’s (1922) great book on Napoleon’s Continental Blockade remains the starting 
+point for any serious exploration of the subject, while François Crouzet’s (1987) exhaustive 1 

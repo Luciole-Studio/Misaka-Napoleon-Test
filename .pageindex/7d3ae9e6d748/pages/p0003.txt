@@ -1,0 +1,50 @@
+
+
+### B3｜波兰增兵与供养占领军争夺同一社会资源
+- B，p.258（位于明确p.257和259页眉之间；258页眉缺失）： “Extraordinary efforts on the part of the citizens of a state have their limits; if they are called for in one direction they cannot be available in another.”
+- 上下文解释：农民赶车运输、住屋驻兵、庄园交出粮储后，难再提供志愿财物与兵役；奥属与俄控波兰地区、奥地利盟约顾虑又限制动员。
+- 【文献推断·Clausewitz，战后】冬季稳固与武装波兰不能作为彼此独立的免费收益。
+- 【裁量·中高置信】机制可作为C12/C18约束；原句单页暂按上下页夹定，正式出版前验图。
+
+### B4｜作者并未保证更强的莫斯科攻势一定迫和
+- B，末段约pp.254–255，页眉丢失： “Whether 200,000 men placed in the heart of the Russian empire would have produced the requisite moral effect, and commanded a peace, is certainly still a question”。
+- 【文献推断·Clausewitz】他主张较谨慎行军、补给和减少战斗损失本可保留更多兵力，但明确保留“迫和是否成功”的问题。**这里的20万人是反事实目标，不是实际人数或本轮计算结果。**
+- p.259可精确引用其比较结论：“it will be very doubtful, all things compared, whether Buonaparte’s plan did not involve greater probability of final success than the other”。
+- 【裁量·高置信】不能借Clausewitz权威宣布“不进莫斯科就是必胜”；也不能借其反面辩护宣布实际计划必然可行。
+
+## 5. van Creveld：补给数量与解释校准
+
+### C1｜莫斯科全程依靠后方马车输送不成立——但这是条件模型
+- C，p.64：“overall consumption during this period would have come to 18,000 tons for the men alone”。
+- 同页：“daily consumption in Moscow would have come to 300 tons”。
+- 【文献推断·van Creveld】其假定是20万人、60天前进、600英里后方距离、运输纵队每天20英里；18,000吨既出现在前进期人员累计消耗，又出现在60天往返周期对应的载运容量需求。作者估计车队容量约为前者的一半，同时还须服务其他部队。
+- 【模型推演·本卡复核】300吨/日×60日=18,000吨；600英里÷20英里/日×2=60日。这里只复核维度与算术，**没有复核粮秣定额、车辆数、实际行速或吨制**；马料尤其未包含在“for the men alone”里。
+- 【裁量·高置信】不能把运输容量（吨）当日吞吐量（吨/日），不能将此模型变成“全军只能活24天”的硬截止。
+
+### C2｜24日携粮与三周战争是作者从筹备倒推，不是拿破仑作战令
+- C，p.64：“Napoleon took with him into Russia twenty-four days’ provisions, of which twenty were transported by the train battalion and 4 on the men’s backs.”
+- 同页：“Rather, he must have been thinking in terms of a war lasting for about three weeks”。
+- C，p.63：“none of his operational plans — if such ever existed — have survived.”
+- 【文献推断·van Creveld】作者明确承认意图是从补给安排推断。24日口粮、约三周预期、约200英里深入三者不能升级为发现了一份完整“有限战争计划”。具体库存与实发差异本轮未查原账。
+
+### C3｜纪律论对纯粹距离决定论构成校准，但不是消除距离约束
+- C，p.67：“the worst shortages were experienced during the first two weeks of the advance”。
+- 同页：“those units whose commanders were strict disciplinarians (e.g. Davout’s) consistently did better than the rest”。
+- C，p.70：“The need to protect enormously long lines of communication and to leave garrisons behind, and the effect of distance per se were also factors of major importance.”
+- 【文献推断·van Creveld】他强调抢掠导致居民逃散、征发行政失效与车队遭劫，也认为较东地区资源改善，进莫斯科并非全无后勤理性。这里的“纪律”是组织能力，不是士兵道德归罪。
+- 【裁量·中高置信】不能把“纪律较佳部队较好”直接当成全军同样规模、同样道路也可复制的因果识别。Caulaincourt在Witepsk说近卫军同样缺粮（A7），van Creveld说近卫总体较好；目前较合理的处理是保留时段与单位差异，未做日尺度互证，不宣称两者矛盾已解决。
+
+## 6. Riehn与原始命令：明确留缺
+
+【事实·获取状态】Richard K. Riehn, *1812: Napoleon’s Russian Campaign*，找到1991 Wiley版条目（ISBN 0471543020，525页）但未取得正文：
+- https://zlib.pub/book/1812-napoleons-russian-campaign-auhpdungnp60
+- 尝试对应vdoc正文地址，返回“no content returned”。
+- 搜索另见维基转引其对短促战役体系、马车道路制约的批评；**未核页码，未把转引复制为Riehn本人已读证据**。因此本卡不声称已完成Riehn/van Creveld双重校准。
+
+【未验证项·优先补件】
+1. Caulaincourt法文t.I及1811谈话对应卷页；英编本有删节，缺席不能作“不存在”的证据。
+2. 1811年6月前后Caulaincourt—Napoléon当时书信，以核对谈话回忆。
+3. 1812年7月底—8月的停驻、补给、筑垒、医院与行军命令：本轮未取得带日期和编号的原始文书，不能说“停驻已有正式命令”。
+4. Berthier、Daru等具体停进建议的独立材料；不能将Ségur转引和Caulaincourt同场叙述计为多个独立见证。
+5. 斯摩棱斯克俄军官身份和传话结果、俄方决策记录。
+6. Riehn补给附录与各版页码；Clausewitz及A/C关键引文扫描验图。

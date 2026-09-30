@@ -1,0 +1,37 @@
+
+
+## ⑤ 撷取与动员上限
+
+【锚·Perkins 行17170–17182】1811-11-29 Porter 报告建议：补足正规军法定额、招募三年兵与志愿兵、征调州民兵、装备海军、准许商船武装。
+【锚·Perkins 行17405–17425】1812-01-27 众议院以 **62:59** 否决 Cheves 提出的"12 艘战列舰＋20 艘巡航舰"造舰案；"Many Republicans, even sincere War Hawks, opposed expansion of a service they considered a heritage from Federalism."
+【锚·Perkins 行17430 注31】"few more than 1,000 men were enlisted in the army between January and May"（1812）。
+【锚·Perkins 行17570–17610】盐税 57:60 被否 → 改投后 66:54 恢复。
+【锚·Perkins 行2650–2660】杰斐逊的炮艇路线：Constellation 造价 30 万美元以上，一艘炮艇仅 10,000–14,000 美元，"Jefferson built hundreds"。
+【机】动员上限 = min(政治可通过的税额, 政治可通过的常备军, 借款市场的意愿)。三项中前两项由航运州＋反常备军意识形态封顶，第三项由反战资本封顶。
+【演·中高】**美国 1803–1815 年的可持续对外军事投入上限约为：常备正规军 1.0–1.2 万（战时纸面 3.5 万、实到远低）、可下海的巡航舰 6–10 艘、外加数百艘炮艇（无战略价值）与数百艘私掠船（有实战价值）**。S1/S2 下该上限不上升（无威胁即无政治意愿）；S3 下上升有限（1813–15 式紧急动员）；S5 下 1830 年代随关税收入增长可上升至"可远洋巡航的 15–20 艘级"（推断，改判见⑯ E3）。
+
+## ⑥ 军事
+
+【锚】常备海军为少量重型巡航舰（Constitution 级）＋大量炮艇；陆军以西部要塞与民兵为主体。【机】美国的实战比较优势是**私掠与单舰巡航**（船速、船员、港口分散、保险市场），劣势是**攻城与联合作战**。
+【锚·Perkins 行13757】"Jefferson considered the conquest of Canada, at least as far as the walls of Quebec, an almost costless corollary of war with England."；【锚·行13861】"Four of every five settlers in Upper Canada were American by either birth or descent."
+【演·中】对加拿大的军事幻想来自两项真实条件（上加拿大居民多为美裔、英军在北美常驻兵力薄弱）与一项误判（民兵可远征）。**任何情景下美国对加拿大的攻势都会在魁北克-蒙特利尔一线失败，除非英国本土同时被攻**；反之只要英国本土受压，美国的北美攻势成本立刻下降——这构成 B1/B4/P6 的耦合项：**美英战争的军事意义完全由欧洲战局决定，而非相反**。
+
+## ⑦ 社会结构与阶层
+
+【锛·Pitkin 行75360–75364（引联邦人口普查）】1810 年总人口 7,239,903；1820 年 9,638,131；1830 年 12,866,020。
+【权重·待核】其中奴隶人口 1810 年约 119 万、占总人口约 16.4%；自由黑人约 18.6 万。**本卡未取得分种族普查原表**，待核源：*Aggregate Amount of Each Description of Persons within the United States … 1810*（国务院印本）或 HSUS 系列 A。该数字不承载本卡任何结论，只用于标定南部政治的权重。
+【机】四个有否决能力的利益集合：①新英格兰航运-渔业-保险资本；②中部大西洋港商业资本（费城、巴尔的摩、纽约）；③南部种植园主（烟草、棉花，依赖出口价格）；④西部定居者（依赖土地、河运出海口、印安土地让与）。③与④组成战争多数，①与部分②组成和平少数。
+【演·中高】**美国的对外政策是“以贸易为介的阶级妥協”**：南部-西部愿意为“国家荣誉”开战但不愿付税；东北部付税但不愿开战。因此“禁运—不交往—私掠”这条低成本路线在所有情景中都是默认选项；“陆军—海军—内税”路线在所有情景中都需要一次领土入侵才能解锁。
+
+## ⑧ 社会运动与抗争传统
+
+【锛·Hartford 决议全文】州级对联邦强制的抗行模式已有成文纲领：“… to adopt all such measures as may be necessary effectually to protect the citizens of said States from the operation and effects of all acts … subjecting the militia or other citizens to forcible drafts, conscriptions, or impressments, not authorized by the Constitution”；并要求州可“assume upon themselves the defense of their territory”并截留州内征税。
+【机·史实类比】与 NL 卡的荷兰骚动（>580 起）对照：美国的抗争不走起义路线而走**州主权与司法-选举路线**，因为抗争者手中有合法的州政府与民兵。这使得镇压成本极高而分裂成本极低。
+【演·中】S3 长期化（1815 年后仍持续的英法双重封锁）下，新英格兰分离运动的崛起概率 0.15–0.30（不是成功概率）；它不需要外国仁涉便可发生，但也不会因外国仁涉而成功（英国 1814 年已具备条件而未推进）。
+
+## ⑨ 思潮、宗教、民族意识与舆论传播
+
+【锛·Perkins 行2572–2582】杰菲逊自述的经济国教：“An equilibrium of agriculture, manufactures & commerce is certainly become essential to our independence, manufactures sufficient for our own consumption … these are the true limits of manufactures & commerce.”
+【锛·Perkins 行4815–4825】反制造业的保守舆论（*Connecticut Courant*）：“Who that has seen the happy state of society throughout our villages … can wish it to be exchanged for the dissipated and effeminate manners and habits, which extensive establishments of manufactures, never fail to bring in their trains?”
+【机】两种“独立”语汇相互竞争：共和党的“商业独立”（不被英国海军许可证制约束）与联邦党的“组织独立”（不被法国霸权携带）。
+【演·中高】**法国在美国的意识形态市场上结构性处于弱势**：拿破仑帝国既不提供共和主义认同（共和党无法以“姐妹共和国”动员），也不提供新英格兰所珍视的法治与新教认同。因此法美合作只能是**交易性的**（1803 购地模式），永不能是同盟性的。这是对“美国作为法国杆杆”的最硬上限。

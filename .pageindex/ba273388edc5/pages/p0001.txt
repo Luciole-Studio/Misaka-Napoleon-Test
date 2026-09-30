@@ -1,0 +1,11 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: Q2_fiscal_thresholds.csv
+
+```meta
+▸ table "Q2_fiscal_thresholds.csv" (3 data rows)
+```
+profile,settled_garrison_min_per1000,settled_garrison_max_per1000,cost_low,cost_high,minimum_tax_surplus_before_security_million,maximum_tax_surplus_needed_million,status
+L,2,4,700,1000,1.4,4.0,ACCOUNTING_THRESHOLD_NOT_REVENUE_PREDICTION
+M,4,8,700,1000,2.8,8.0,ACCOUNTING_THRESHOLD_NOT_REVENUE_PREDICTION
+H,10,20,700,1000,7.0,20.0,ACCOUNTING_THRESHOLD_NOT_REVENUE_PREDICTION

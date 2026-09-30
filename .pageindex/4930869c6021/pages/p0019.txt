@@ -1,0 +1,32 @@
+
+
+ For place names and proper names I have used the spelling of the time with two exceptions to make the book more readily comprehensible to the English language reader. Regions’ derivative names (which in Spanish can vary
+considerably from the original) have been left in an anglicized form (Galician, for example, instead of the formally correct Gallego). In place names, I have substituted the former initial ‘X’ for the ‘J’ in current Spanish usage
+(Jerez therefore instead of Xerez). For the rest, I believe that if today we can manage Beijing instead of Peking, it is surely not expecting too much of the reader to identify Zaragoza or Sevilla. (However, lest there be any
+doubt, Castilla la Vieja and Castilla la Nueva are Old and New Castile respectively).
+
+ Finally, to any reader who may come across the Spanish edition of this book, I should say that the two, while broadly the same, vary in their chapter structure – this edition combining a number of chapters into one – and more
+importantly in the extent of their exposition. This was because in the Spanish version I have included material which I believed would interest mainly or solely a Spanish readership.
+
+===== FILE: OEBPS/08_Prol.xhtml =====
+Napoleon’s Cursed War
+
+ Prologue
+
+ Spain’s Old Order on the
+Eve of the Napoleonic War
+
+ The six-year conflict, Spain’s War of Independence (1808–1814) as it later came to be called, was deeply and inevitably conditioned from its outbreak by the ancien régime’s social order; at the same time the war itself marked
+the first political rupture with that order. An overview of pre-war society may, in consequence, assist an understanding of the war and the issues involved.
+
+ ABSOLUTISM, CENTRALISM AND
+THE DISPERSION OF POWER
+
+ Like his forebears, Carlos IV was king by divine right but not – as his decrees’ preambles made clear – King of Spain; he was the sovereign of the kingdoms of Castilla, León, Aragón, Valencia, Navarra, Count of Barcelona, Señor
+(Lord) of Vizcaya, Molina and a long etc . Seventy-five years of Bourbon centralism, culminating in the reformist absolutism of his father, Carlos III, had in other words not forged a legally unified Spanish kingdom. The map of
+Spain was a palimpsest of kingdoms, principalities and provinces, many of them with islands adrift in alien territories, where considerable differences (in such elementary matters as weights and measures, terms for money, not to
+speak of laws, customs and language) pertained. * This cartographical palimpsest can stand as a metaphor for the ancien régime’s overlapping of functions and powers.
+
+ As in all Old Orders the king united in his being all legislative, executive and judicial powers. These could be delegated to a single person or a corporative body without distinguishing precisely between the different
+functions. The geopolitical confusion was thus replicated in the overlapping administrative, judicial and political roles of the principal state institutions and official posts. As the highest organ of central government, the
+Consejo de Castilla, apart from being a state consultative council, enjoyed executive, legislative and judicial powers.

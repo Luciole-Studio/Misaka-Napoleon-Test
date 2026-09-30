@@ -1,0 +1,25 @@
+
+
+**S5** Katrina Navickas, “The search for ‘General Ludd’: the mythology of Luddism”, *Social History* 30(3), 2005, pp.281–295，承重pp.282–283；`downloads/c16_navickas2005.pdf`，doc `3c4c39c32329`，PDF pp.3–4。全篇已取，阅读有截断，不冒称完整精读。
+
+**S6** Eli F. Heckscher, *The Continental System: An Economic Interpretation*, Oxford: Clarendon Press, 1922。`downloads/c15_heckscher1922.pdf`，doc `1baaae7f3185`。承重印页144–145、173–178、238–247、353–355；贸易表与口径p.175、244、245已由专项核图，p.353本卡再次核图。正文图像PDF页通常为印页+16。原表是经作者转引，非独立亲查海关／财政原账。
+
+**S7** W. H. Chaloner, review of François Crouzet, *L’économie britannique et le blocus continental (1806–1813)*, *Revue belge de philologie et d’histoire* 38(2), 1960, pp.525–526；全文已读，原书p.855引句为**转引**。https://www.persee.fr/doc/rbph_0035-0818_1960_num_38_2_2317_t1_0525_0000_2 ；`downloads/pages/e5b32951df65.md`。
+
+**S8** H. F. B. Wheeler and A. M. Broadley, *Napoleon and the Invasion of England: The Story of the Great Terror*, vol.I, London: John Lane, 1908, Introduction pp.xiii–xiv，转印George III致Hurd 1803-11-30。https://epdf.tips/napoleon-and-the-invasion-in-england.html ；`downloads/pages/5550fd06ab38.md`。Hurd原信手稿、编者所称1849刊布出处未核；网页版与百科引用属同源。
+
+**S9** J. W. Fortescue, *A History of the British Army*, vol.V, London: Macmillan, 1910, p.265；`downloads/c11_fortescueV.txt`约13738–13757行。OCR已回读，未校扫描，不据作者反事实评语作英国当时命令。
+
+**S10** *London Gazette Extraordinary*, no.16100, 22 December 1807, pp.1725–1728，Strangford 11月29日、Sidney Smith 12月1日及6日报告。https://www.thegazette.co.uk/London/issue/16100/data.pdf ；`downloads/pages/cfd2c9f1cdc0.md`，已回读p.1726–1728；OCR差，故只用短引与明确事项。
+
+**S11** *Hansard*, HL Deb 2 January 1807, vol.8, cc259–300，“Negociation with France”，承重cc264–266。https://api.parliament.uk/historic-hansard/lords/1807/jan/02/negociation-with-france ；`downloads/pages/85d915a3148f.md`。开场姓名标签抽取不全，本文不猜发言者。
+
+**S12** H. Butterfield, *The Peace Tactics of Napoleon 1806–1808*, CUP, 1929，pp.32–41；`downloads/pages/83caafca03de.md`（题页已再核，ENGLAND AND THE SYSTEM OF TILSIT为正文标题而非替代书名）。本卡复用C13札记：`nodes/r_b55f2c1cf5/cards/t_75e9a5/peace_evidence.md`及`c13_settlement_design.md`第三节。档案FO Russia 65/64、FO France 27/74、FO Prussia 64/73、Dropmore Papers VIII等均为Butterfield转引，未亲见原档。
+
+**S13** “Papers relating to the overtures…”刊于HC Deb 20 January 1809, vol.12, cc93–105，实际文书成文日期为1808年10—12月。https://hansard.parliament.uk/html/Commons/1809-01-20/CommonsChamber ；`downloads/pages/5ab65f0d1e5e.md`。以文书号、原日期与栏号定位。
+
+**S14** 荷兰机制辅助来源：Napoleon Series “French Cavalry Defeats Dutch Fleet?”，`downloads/pages/5c42ebbe4e31.md`；MaSS “Vlieter Incident”，`downloads/pages/78e2bc2f87ff.md`；RMG版画PAI6412，`downloads/pages/f64010c80a00.md`。前两者的De Jonge转引未核原书，版画只支持公开表现；完整URL与冲突见附件`evacuation_evidence.md`。
+
+### 仍缺而可能改变结论的材料
+
+【未验证】(1) Cookson完整目标章与请愿／选区原注，可判断地方动员如何实际影响议员；(2) 1811–1812 Grey、Grenville、摄政者与内阁通信及和平相关点名表决，可检验替代政府的条件而不只观察失败；(3) Bartlett与爱尔兰地方档案，可评估再起义条件；(4) Kaufmann、Platt pp.28–30、Crouzet危机章及Hansard原附表，可识别拉美分项与危机强度；(5) Glover *Britain at Bay*所收1803年10月19／21日York–Keith文书、Philp编书Fedorak pp.91–110、ADM与Bank of England档案，可查续战命令及财政转运；(6) Sherwig与原始补贴账、盟约，可把联盟重返从机制细化到具体年度。以上是待查清单，不是已读书目。

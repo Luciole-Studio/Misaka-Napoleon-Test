@@ -1,0 +1,23 @@
+
+
+## 保王派、共和残余、地方样本
+
+- **S27｜Bernet, Anne**, "Cadoudal et « le coup essentiel »", *Revue du Souvenir Napoléonien* 452 (avril-mai 2004) 27–33；napoleon.org 重刊。捕获 `downloads/pages/28673b2d1174.md`。本卡用：1803-08-23 Biville 登陆与网络构成（含 Rivière、两 Polignac）；Mme de Bonneuil 双面线；1804-01-26 Moreau 会面；预审与公众同情；42 死刑求刑、20 判死、8 赦（"照顾高级贵族、军队或瑞士银行"）；Moreau 两年（"comme un voleur de mouchoirs"）；行刑场面（"Vive le Roi!"）。**行刑日口径冲突备案**：Bernet 与 napoleon.org 图录页作 6-28；S28 年表作 6-25；原判档未见，本卡正文并列存疑。
+- **S28｜napoleon-empire.org**, "Chronologie 1804"。摘录读取。用于事件序列对照（1-16 登陆情报、2-13/17 告发与报告、5-25/28 开审口径、6-10 判决、6-25 行刑）。非学术版权页，仅作对照层。
+- **S29｜Rambaud, Jacques**, "L'esprit public dans le Sud-Ouest et l'entrée des Anglais à Bordeaux (1814)", *Revue historique de Bordeaux* 7-4 (1914) 225–245。捕获 `downloads/pages/f15921073a36.md`。本卡用：Lynch 及市府半数副职通王党；Beresford 6,000 人（部分葡军）3-02 决定 3-07 出动；3-12 撕勋章场景与白旗；国民卫队交叉刺刀而无指挥；Soult 判词；Wellington 3-29 声明；Vidal de la Blache 底本谱系。
+- **S30｜辅助（波尔多）**：Higounet 系）"Bordeaux et la restauration des Bourbons", *Annales du Midi* 105-201 (1993)（摘录读取：Rodez 未遂、事件影响同盟对波旁支持）；SAMLHOC "Ordre du Brassard de Bordeaux"（摘录读取：昂古莱姆 2-01 登陆、3-12 入城、勋饰制度）；"La presse à Bordeaux sous Louis XVIII", *RHB* 32 (1986)（摘录读取：Institut philanthropique 网络名单、Lainé 3-24 任省长、Géraud 3-12 亲历日记语）。
+- **S31｜Lignereux, Aurélien**, *Chouans et Vendéens contre l'Empire. 1815, l'autre guerre des Cent-Jours*, Paris: Vendémiaire, 2015。未实读原书；经 Gainot, Bernard 书评（*Revue d'histoire du XIXe siècle* 53, 2016）捕获 `downloads/pages/056d83ccd7e8.md`。本卡用：兵力对比（帝国约 2 万+地方纵队 vs 起事名义约 5 万）；军事结局与 Lamarque 指挥优势；"民众动员迟滞，远非民众保王主义"；"拿破仑式绥靖是错视画"；宗教（威权高卢主义）与征兵不满的持续。
+- **S32｜"Le combat de Rocheservière (19–20 juin 1815)"**, *Révolution de 1848 et les révolutions du XIXe siècle* 21-105 (1924)（Persée，摘录读取；含 Mornac 参谋长回忆转录，回溯性）。用于战斗序列与 Suzannet 阵亡。
+- **S33｜Ouest-France (2015-06 纪念报道)**。摘录读取。仅用作 25,000 帝国军投入的流行口径对照；正文采 S31 的 2 万学术口径。
+- **S34｜Malet 伪 sénatus-consulte 全文（1812-10-22 署期）**, napoleon.org "Affaire Malet : le faux Sénatus-consulte du 22 octobre 1812"，捕获 `downloads/pages/21f2ec59e7fc.md`；页面注源 SHD dossier Malet（原档未见）。本卡用：全部 19 条纲领与临时政府名单。
+- **S35｜Lentz 访谈（Malet 事件四问）**。[C8-S4] 捕获复用 `downloads/pages/2939d79f08d0.md`（"three hours of 'emotion'"；帝国非濒崩溃）。
+
+## 教会、警务、审查、教育
+
+- **S23｜Hicks, Peter**, "Napoleon and the Pope: from the Concordat to the Excommunication", napoleon.org。捕获 `downloads/pages/efa0bb62bc3b.md`。本卡用：专约-组织条款-加冕-1806 教理问答-罗马占领-1809 兼并/绝罚/绑架-Savona/枫丹白露链条；1806 拿破仑论教士助征兵语（**转引** Melchior-Bonnet, *Napoléon et le Pape*, 1958, p.87）；"Vous êtes souverain de Rome, mais j'en suis l'empereur"（Correspondance générale n°11445 系年）。
+- **S36｜同 S23**（别名，教俗冲突叙事线引用位）。
+- **S37｜Caiani, Ambrogio A.**, "The Concile National of 1811…", *JEH* 70(3) 2019。[C8-S16] 捕获复用 `downloads/pages/e6ebb5ba44b2.md`。1811 会议与 Savona 通信网络。
+- **S21｜Gotteri, Nicole (éd.)**, *La police secrète du Premier Empire. Bulletins quotidiens adressés par Savary à l'Empereur*, t.3 (juil.–déc. 1811), Champion, 1999；经 Gainot 书评（*AHRF* 323, 2001, 145–146）捕获 `downloads/pages/8b06894246ac.md`。本卡用：卷帙谱系（d'Hauterive/Grassion 五卷 1908–1964 覆盖 Fouché 1806–10；Gotteri 续 Savary）；底档 F7（Desmarest/J.-A. François 起草）副本呈 AF IV；内容含 mercuriales、émotions ouvrières、救济。**原卷未读**，本卡以其为"系统能力包络"证词。
+- **S38｜Sorel, Patricia**, *Napoléon et le livre. La censure sous le Consulat et l'Empire (1799–1815)*, PUR, 2020（préface Mollier）。章节全文（Chap. II "La censure de 1810 à 1814"）OpenEdition 捕获 `downloads/pages/1ff459f0bfec.md`；书目页与出版社页确证作者（doi:10.4000/13zbo；pur-editions.fr/product/7309）。本卡用：1810-02-05 令结构；巴黎印刷所 60→80；brevet+宣誓；1809-12-12 国务会议"武器库"语；Portalis 任免与 Pommereul 继任；"La censure devait être invisible"；历书圣拿破仑节强制；教会书籍 germinal an XIII 令；censeurs impériaux 1,200 法郎与 1812 年 18 人名单；Savary "bureau de l'esprit public"（Étienne、Jay、Michaud、Tissot 等）；Barère 1803–07 舆情报告线。
+- **S39｜Coffin, Victor**, "Censorship and Literature under Napoleon I", *AHR* 22(2) 1917, 288–308。[C8-S13] 捕获复用 `downloads/pages/bfc5cba262e2.md`。本卡新增使用：审查统计（1811 年 669 稿/改 163/禁 76；1812 年 1–3 月 vs 4–12 月骤松；1813 年改禁率 <3%）；拿破仑 1811-12-13 国务会议放松训话（转录自 Locré 1819, p.296ff，转引）；省级政治报刊消亡论；底档 AF IV 1049/1354 谱系（原卷未读）。
+- **S40｜1808-03-17 帝国大学令**。[C8-S10] 捕获复用 `downloads/pages/38ea070805ed.md`（Wikisource 转录；第 38 条效忠条款）。

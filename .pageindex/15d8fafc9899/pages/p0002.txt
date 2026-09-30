@@ -1,0 +1,53 @@
+
+
+## I｜爱尔兰
+### I1 1804-09-27致Berthier
+【事实·转录】Mayence：« l’expédition d’Irlande est résolue »；Brest有18000人运输手段，Marmont称备25000人，不能相加成43000已登船。若流亡者及派往爱尔兰人员情报证实、大量当地响应，才直趋Dublin；反之驻守等Marmont及主力登陆。Boulogne—Kent联动；10/22仅希望准备就绪日。
+https://www.histoire-empire.org/correspondance_de_napoleon/1804/septembre_02.htm
+缓存downloads/pages/4b8f2a2c5183.md行232–236。
+同信另录https://cartlann.org/authors/napoleon/letter-to-marshal-berthier/ ，非独立互证；英译把débarquée译embarked，依法文作登陆。
+
+### I2 1804-09-29致Decrès
+【事实·转录】同URL缓存行402–420，Lough Swilly偏好：
+> En parlant ainsi je ne parle que politiquement et point nautiquement, car les courants doivent décider du point où l’on doit attaquer la terre.
+> Mais le débarquement en Irlande ne peut être qu’un premier acte; si seul il devait former une opération, nous courrions de grandes chances.
+Brest登陆后舰队入海峡、Cherbourg获Boulogne军情并掩护渡海；风向不利可赴Texel护送荷舰与军队。要求18000人（15000步兵，其余3000），500马；属方案要求非完成量。
+【数字冲突】前段Texel25000，后段95000。95000不得入冻结，不静默校成25000。海峡协同、爱尔兰当地响应均不可免费。
+
+### I3 政治自主性与演说版本
+【文献推断·Geoghegan】“[Which] Speech from the Dock?”讨论Emmet1803-09-19庭审讲话，援法不等于受法统治；疏远法国动机系史家解释。
+https://historyireland.com/which-speech-from-the-dock/
+缓存downloads/pages/d250f548ac2d.md，Why the anti-French sentiment?及Proclamation节。Ridgeway/Madden/Angell存在后期编辑版本问题；未读1803初刊或原信。Elliott/Vance仅经此文得知。不另计已核原始文书。
+
+## F｜Fulton技术、采购与实用性
+### F0 来源与前史
+William Barclay Parsons,Robert Fulton and the Submarine,Columbia UP,1922。
+https://www.gutenberg.org/cache/epub/63351/pg63351-images.html
+缓存downloads/pages/af472c3dfa49.md。1801Nautilus实验及报告只作背景，不属于1803-05PoD。1803后法方重立项仍须单独证。
+
+### F1 1803-06-19英国海军部通报
+【事实·转引】Admiralty Office,Evan Nepean，Parsons第IV章p52及附件，缓存行505–517，称Fulton在第一执政影响下设计破坏英国海力。附件七小时潜航、2.5英里/小时、25磅火药是敌国情报报告值，不是核实性能；也不证法国1803仍正式资助。现代TNA件号未核。
+
+### F2 1804-06-22、27致Hammond
+【事实·转引】Fulton化名Robt Francis，6/22抱怨五周等待且求报酬，pp96–97、行1089起。6/27 p98、行1103：
+> I have examined the 5 Articles of the commission they seem to admit the possibility of making a Submarine Vessel but they conceive it impossible to use it to Advantage, hence recommend that it Should not be adopted,
+【限制】系发明人转述并反驳委员会，非委员会原报告；能造与能实用是两问。
+
+### F3 1804年7月英国合同
+【事实·转引】Articles of Agreement，Pitt/Melville与Fulton；正文署7/17，外封7/20，Fulton记述7/20早餐签署，三层不强统一。Parsonspp83–85、101；缓存行972–1016、1142附近。
+£200/月为劳务费用，£7000为机械准备信用上限，£40000附实用性评定/毁舰等条件，非签约即付；另有毁舰估值分成及14年保密约束。
+【限制】Parsons说副本1812见于Melville遗稿并入Public Record Office，现代件号未核。合同证政府研发采购，不证建成作战潜艇；更不是法国合同。
+
+### F4 1805作战失败与演示成功，1810回溯
+Robert Fulton,Torpedo War,and Submarine Explosions,1810,经1914Abbatt重印：
+https://www.gutenberg.org/files/51748/51748-h/51748-h.htm
+缓存downloads/pages/babfe7fc830f.md。
+【回溯性自述】pp18–19、行196–204：1805-10-01Siccombe在Boulogne袭击，« both Torpedoes exploded, but, to his astonishment, the brig was not destroyed »；Payne另一次亦未明显毁舰。Fulton技术诊断未独立验证，不用其转引法报伤亡数据。
+【回溯性自述】pp7–9 PlateI、行131–143：10/15Dorothea毁舰演示，为锚泊目标且前日演练；Pitt/Melville赴伦敦不在场，不能写亲眼观看。
+【裁量】同一本书不是独立互证，但必须同时保留失败/成功；演示不证攻击机动戒备舰队的同等效能。1815前成文仍可能回溯，不把1810细节自动前移。
+
+### F5 术语与准入
+NRS公开摘要：
+https://www.navyrecords.org.uk/magazine_posts/fultons-torpedoes-used-in-the-attack-on-boulogne-1804/
+缓存downloads/pages/635f200bfaf6.md；会员正文未读。torpedoes按现代术语为sea mines，须区别潜艇、水下爆炸装置、自航鱼雷。
+【模型推演·待核】1803后法国重新资助可作检索假设；尚缺法方立项提案、预算或批示。英国采购是制度类比，不能冒充法国桌面选项。“留下Fulton即逆转海权”排除主干。

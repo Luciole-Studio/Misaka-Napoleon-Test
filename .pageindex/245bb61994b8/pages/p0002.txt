@@ -1,0 +1,224 @@
+      "authors": "Commonwealth;Great Britain. Colonial Medical Service.;Grossbritannien. Colonial Medical Service.;Greenwood, Anna",
+      "publisher": "Manchester University Press, Studies in imperialism (Manchester England), 2019",
+      "language": "English",
+      "format": "PDF",
+      "size": "5.5MB",
+      "hash": "b1c387ef5000e6ef53d45fd9e67d9b5c",
+      "url": "https://annas-archive.gl/md5/b1c387ef5000e6ef53d45fd9e67d9b5c"
+    },
+    {
+      "title": "British railway enthusiasm (Studies in Popular Culture)",
+      "authors": "Ian Carter, Manchester University Press Staff",
+      "publisher": "Manchester University Press, Studies in Popular Culture MUP, 1, 2014",
+      "language": "English",
+      "format": "PDF",
+      "size": "3.2MB",
+      "hash": "8c166924b19ff5806e24dc0371d8979b",
+      "url": "https://annas-archive.gl/md5/8c166924b19ff5806e24dc0371d8979b"
+    },
+    {
+      "title": "The culture of diplomacy : Britain in Europe, c. 1750-1830",
+      "authors": "Mori, Jennifer",
+      "publisher": "Manchester University Press, Manchester University Press, Manchester, 2011",
+      "language": "English",
+      "format": "PDF",
+      "size": "1.8MB",
+      "hash": "5e68387e3c78bd82c1330814a0ac9cfb",
+      "url": "https://annas-archive.gl/md5/5e68387e3c78bd82c1330814a0ac9cfb"
+    },
+    {
+      "title": "British women of the Eastern Front : war, writing, and experience in Serbia and Russia, 1914-20",
+      "authors": "Angela K. Smith",
+      "publisher": "Manchester University Press, Jul 01, 2016",
+      "language": "English",
+      "format": "PDF",
+      "size": "12.3MB",
+      "hash": "5a579a60bc26aa5cebc7814cccd8210e",
+      "url": "https://annas-archive.gl/md5/5a579a60bc26aa5cebc7814cccd8210e"
+    },
+    {
+      "title": "The colonisation of time : ritual, routine and resistance in the British Empire",
+      "authors": "Giordano Nanni, Andrew Thompson, John M. MacKenzie, Manchester University Press Staff",
+      "publisher": "Manchester University Press ; Distributed in the United States exclusively by Palgrave Macmillan, Studies in Imperialism, online, 2012",
+      "language": "English",
+      "format": "PDF",
+      "size": "2.9MB",
+      "hash": "55fdfe24405f01e5d4d3c772b892b9b1",
+      "url": "https://annas-archive.gl/md5/55fdfe24405f01e5d4d3c772b892b9b1"
+    },
+    {
+      "title": "The grotesque in contemporary British fiction (Disability History)",
+      "authors": "Robert Duggan",
+      "publisher": "Manchester University Press, JSTOR EBA, Manchester, 2016",
+      "language": "English",
+      "format": "EPUB",
+      "size": "0.5MB",
+      "hash": "4bd410cbe9d07a768840da1b50d9d00d",
+      "url": "https://annas-archive.gl/md5/4bd410cbe9d07a768840da1b50d9d00d"
+    },
+    {
+      "title": "Welsh missionaries and British imperialism: The Empire of Clouds in north-east India (Studies in Imperialism, 98)",
+      "authors": "Andrew J. May",
+      "publisher": "Manchester University Press ; Distributed in the United States exclusively by Palgrave MacMillan, Studies in Imperialism, 98, 1, 2012",
+      "language": "English",
+      "format": "PDF",
+      "size": "13.7MB",
+      "hash": "eaaa71859a98289a1578d95c2886d2d8",
+      "url": "https://annas-archive.gl/md5/eaaa71859a98289a1578d95c2886d2d8"
+    },
+    {
+      "title": "The colonisation of time : ritual, routine and resistance in the British Empire",
+      "authors": "Giordano Nanni",
+      "publisher": "Manchester University Press ; Distributed in the United States exclusively by Palgrave Macmillan, Studies in Imperialism, online, 2012",
+      "language": "English",
+      "format": "PDF",
+      "size": "2.9MB",
+      "hash": "f31ffb213249c3a54fd912ef9a72b061",
+      "url": "https://annas-archive.gl/md5/f31ffb213249c3a54fd912ef9a72b061"
+    },
+    {
+      "title": "Men in Reserve : British Civilian Masculinities in the Second World War",
+      "authors": "McIvor, Arthur;Pattinson, Juliette;Robb, Linsey",
+      "publisher": "Manchester University Press, Cultural history of modern war, Manchester, 2017",
+      "language": "English",
+      "format": "PDF",
+      "size": "32.6MB",
+      "hash": "aec19cb7008db69a6a11aefc177537e7",
+      "url": "https://annas-archive.gl/md5/aec19cb7008db69a6a11aefc177537e7"
+    },
+    {
+      "title": "Manchester in the Great War",
+      "authors": "O'Neill, Joseph",
+      "publisher": "Pen and Sword Military, Your Towns and Cities in the Great War, South Yorkshire, England, 2014",
+      "language": "English",
+      "format": "EPUB",
+      "size": "22.1MB",
+      "hash": "61c130a0a5f8dbff65f60f7f43efe455",
+      "url": "https://annas-archive.gl/md5/61c130a0a5f8dbff65f60f7f43efe455"
+    },
+    {
+      "title": "Listen in Terror : British Horror Radio From the Advent of Broadcasting to the Digital Age",
+      "authors": "Richard J Hand; Manchester University Press",
+      "publisher": "Manchester University Press, 2013",
+      "language": "English",
+      "format": "PDF",
+      "size": "56.4MB",
+      "hash": "e53135fb88349449adf6f7b04b76922e",
+      "url": "https://annas-archive.gl/md5/e53135fb88349449adf6f7b04b76922e"
+    },
+    {
+      "title": "Emancipation and the remaking of the British Imperial world (Neale UCL Studies in British History)",
+      "authors": "Catherine  Hall; Nicholas Draper; Keith McClelland; Clare Anderson; Robin Blackburn",
+      "publisher": "Manchester University Press, Neale UCL Studies in British History, 1, 2014",
+      "language": "English",
+      "format": "EPUB",
+      "size": "0.8MB",
+      "hash": "264d9311d9287335d2e0a236cfef952e",
+      "url": "https://annas-archive.gl/md5/264d9311d9287335d2e0a236cfef952e"
+    },
+    {
+      "title": "The Entangled City : Crime As Urban Fabric in São Paulo",
+      "authors": "Feltran, Gabriel de Santis",
+      "publisher": "Manchester University Press, Manchester University Press, Manchester, 2020",
+      "language": "English",
+      "format": "PDF",
+      "size": "3.7MB",
+      "hash": "77d6f64af42fd373a670c33bd5fc6a90",
+      "url": "https://annas-archive.gl/md5/77d6f64af42fd373a670c33bd5fc6a90"
+    },
+    {
+      "title": "Ending British rule in Africa: Writers in a common cause (Studies in Imperialism, 77)",
+      "authors": "Polsgrove, Carol",
+      "publisher": "Manchester : Manchester University Press, Studies in imperialism (Manchester, England), Manchester, New York, 2012, ©2009",
+      "language": "English",
+      "format": "PDF",
+      "size": "14.0MB",
+      "hash": "8db450a9987c581c64256154530c67bd",
+      "url": "https://annas-archive.gl/md5/8db450a9987c581c64256154530c67bd"
+    },
+    {
+      "title": "Emancipation and the remaking of the British Imperial world (Neale UCL Studies in British History)",
+      "authors": "Catherine Hall (editor), Nicholas Draper (editor), Keith McClelland (editor)",
+      "publisher": "Manchester University Press, Neale UCL Studies in British History, 1, 2014",
+      "language": "English",
+      "format": "PDF",
+      "size": "2.9MB",
+      "hash": "24899a38d0f0f102520032ea6cb747d9",
+      "url": "https://annas-archive.gl/md5/24899a38d0f0f102520032ea6cb747d9"
+    },
+    {
+      "title": "Colossal Christ: The Preeminence and All-Sufficiency of Jesus in the Christian Life",
+      "authors": "Ken Marino, Rick Gallipeau, Jeff Sullivan",
+      "publisher": "CreateSpace Independent Publishing Platform, Createspace Independent Publishing Platform, Mar 25, 2016",
+      "language": "English",
+      "format": "PDF",
+      "size": "8.3MB",
+      "hash": "f9325c6ef945ed7e723f508105acf77e",
+      "url": "https://annas-archive.gl/md5/f9325c6ef945ed7e723f508105acf77e"
+    },
+    {
+      "title": "Pockets of resistance : British news media, war and theory in the 2003 invasion of Iraq.",
+      "authors": "Piers Robinson, Peter Goddard, Katy Parry, Craig Murray, Philip M. Taylor, Philip Taylor",
+      "publisher": "Manchester University Press ; Distributed by ... Palgrave Macmillan, Manchester, New York, 2010",
+      "language": "English",
+      "format": "PDF",
+      "size": "2.6MB",
+      "hash": "228c203c74e1a28005b406e9051e592a",
+      "url": "https://annas-archive.gl/md5/228c203c74e1a28005b406e9051e592a"
+    },
+    {
+      "title": "Pockets of resistance : British news media, war and theory in the 2003 invasion of Iraq.",
+      "authors": "Piers Robinson;Peter Goddard;Katy Parry;Craig Murray; & Peter Goddard & Katy Parry & Craig Murray & Philip M. Taylor",
+      "publisher": "Manchester University Press ; Distributed by ... Palgrave Macmillan, Manchester, New York, 2010",
+      "language": "English",
+      "format": "EPUB",
+      "size": "4.6MB",
+      "hash": "fbe4109afe9958f84a51cc7d6cb19094",
+      "url": "https://annas-archive.gl/md5/fbe4109afe9958f84a51cc7d6cb19094"
+    },
+    {
+      "title": "British Rural Landscapes on Film",
+      "authors": "Edited by Paul Newland",
+      "publisher": "Manchester University Press, Manchester University Press, Manchester, 2016",
+      "language": "English",
+      "format": "PDF",
+      "size": "19.7MB",
+      "hash": "bc7cfaf7d4baa3b22c9b33848d0c5ccf",
+      "url": "https://annas-archive.gl/md5/bc7cfaf7d4baa3b22c9b33848d0c5ccf"
+    },
+    {
+      "title": "The Neolithic and Bronze Age Settlement at Oversley Farm, Styal, Cheshire: Excavations in advance of Manchester Airport's Second Runway, 1997-8: Excavations in advance of Manchester Airport's Second Runway, 1997-8",
+      "authors": "Garner, D. J. ;Allen, C. S. M. ;Wenban-Smith, F. F.",
+      "publisher": "University of Michigan Press, BAR British Archaeological Reports British Series 435, 2007",
+      "language": "English",
+      "format": "PDF",
+      "size": "80.4MB",
+      "hash": "434cee59be733f13cf089c26c93522ba",
+      "url": "https://annas-archive.gl/md5/434cee59be733f13cf089c26c93522ba"
+    },
+    {
+      "title": "Travellers in Africa: British Travelogues, 1850-1900 (Studies in Imperalism)",
+      "authors": "Youngs, Tim",
+      "publisher": "Manchester ; New York: Manchester University Press ; New York, NY, USA: Distributed exclusively in the USA and Canada by St. Martin's Press, Studies in imperialism, Studies in imperialism (Manchester, England), Manchester, New York, New York, NY, USA, New York State, 1994",
+      "language": "English",
+      "format": "PDF",
+      "size": "16.2MB",
+      "hash": "eafb4d5c6d91dcc3420d693eea76e766",
+      "url": "https://annas-archive.gl/md5/eafb4d5c6d91dcc3420d693eea76e766"
+    },
+    {
+      "title": "An Anglican British world: The Church of England and the expansion of the settler empire, c. 1790–1860 (Studies in Imperialism, 114)",
+      "authors": "Joseph Hardwick; Andrew Thompson; John M. MacKenzie",
+      "publisher": "Manchester University Press : Distributed in the United States exclusively by Palgrave Macmillan, Studies in Imperialism, 114, 2014",
+      "language": "English",
+      "format": "PDF",
+      "size": "1.8MB",
+      "hash": "3686d9cb134f5ec04fc1f30568636e6e",
+      "url": "https://annas-archive.gl/md5/3686d9cb134f5ec04fc1f30568636e6e"
+    }
+  ],
+  "source_url": "https://annas-archive.gl/search?q=Manchester+British+preeminence+in+Brazil&content=book_nonfiction&content=book_fiction&content=book_unknown",
+  "transport": "http",
+  "scope": "current_page_only",
+  "complete": false
+}

@@ -1,0 +1,35 @@
+     Table 15: Conscription and ruggedness with alternative to “Urbanization”.
+
+Note: This table displays the same regression as in Table 3’s column 3, 4 and 5, while replacing “Ur-
+banization” with another measure of urbanization. We report robust standard errors in parenthesis
+and Conley standard errors (100km) in brackets.
+
+            Conscription rate                      (3)            (4)             (5)
+            Log of ruggedness                   -0.88471       -2.25974        -2.32155
+                                             (0.29967)∗∗∗    (0.47282)∗∗∗    (0.50884)∗∗∗
+                                              [0.37125]∗∗    [0.45139]∗∗∗    [0.49280]∗∗∗
+            Exemption rate                      -0.31726       -0.33825        -0.33873
+                                            (0.016670)∗∗∗   (0.019564)∗∗∗   (0.019712)∗∗∗
+                                            [0.021619]∗∗∗   [0.020481]∗∗∗   [0.020519]∗∗∗
+            Townships Density                   -1.81781       -3.30084        -2.06126
+                                               (5.99509)      (10.3776)       (11.1281)
+                                               [8.08142]       [12.6668]       [14.5580]
+            Distance from Paris                 -0.30056        0.59348         0.58458
+                                               (0.28414)      (0.39061)       (0.39529)
+                                               [0.41338]       [0.49152]       [0.49674]
+            Border                              -1.41346       -1.99767        -2.02452
+                                             (0.44609)∗∗∗    (0.68737)∗∗∗    (0.69165)∗∗∗
+                                              [0.56855]∗∗    [0.69249]∗∗∗    [0.70370]∗∗∗
+            Urbanization (towns>10000)           4.37882        1.01573         1.11959
+                                             (1.43678)∗∗∗     (2.68266)       (2.70468)
+                                              [2.03710]∗∗      [3.37411]       [3.47566]
+            Same Controls
+            as in Table 3                        X             X                  X
+            Observations                        535           365                365
+            R-squared                         0.69350       0.74332            0.74341
+                                  *** p<0.01, ** p<0.05, * p<0.1
+
+
+
+
+                                                 29

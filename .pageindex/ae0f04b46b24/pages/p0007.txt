@@ -1,0 +1,664 @@
+
+
+The  First  Column  contains  the  Name  of  the  Place. 
+
+The  Second,  the  Name  of  the  County. 
+
+The  Third,  the  Distance  from  London,  in  Miles  and  Furlongs. 
+
+The  Fourth,  the  Days  on  which  the  Markets  are  held. 
+
+The  Fifth,  the  Page  in  which  the  Place  is  to  be  found. 
+
+i^ 
+
+| 
+
+| 
+
+<£ 
+
+S 
+
+** 
+
+i 
+
+. 
+
+Place. 
+
+a 
+
+<3 
+
+Q 
+
+5? 
+
+Place. 
+
+R 
+
+3 
+
+S 
+
+1° 
+
+A 
+
+6 
+
+^ 
+
+§ 
+
+a. 
+
+5 
+
+q 
+
+1 
+
+a, 
+
+Abberford 
+
+York. 
+
+
+
+Wed 
+
+Aber^eley 
+
+Denb. 
+
+224  5 
+
+Sat. 
+
+291 
+
+— by  Hatfield  &f 
+
+Aberglaslyn  Br. 
+
+Merio. 
+
+233  2 
+
+
+
+243 
+
+Worksop 
+
+— 
+
+188      1 
+
+— 
+
+352 
+
+Abergwili 
+
+Caerm 
+
+216  0 
+
+
+
+203 
+
+: — by  Ware  and 
+
+Abershavesp 
+
+Mont. 
+
+181  0 
+
+267 
+
+Worksop 
+
+— 
+
+184    O 
+
+— 
+
+447 
+
+Abermarles 
+
+Caerm 
+
+196  2 
+
+
+
+203 
+
+Abbey  Foregate 
+
+Salop 
+
+l6o    O 
+
+
+
+255 
+
+Aberystwith 
+
+Card. 
+
+— 
+
+Mo. 
+
+Abbey  Holme 
+
+Cumb. 
+
+312     1 
+
+
+
+4i3 
+
+— by  Gloucester 
+
+— 
+
+210  3 
+
+— 
+
+216 
+
+Abbots  Bromley 
+
+Staff. 
+
+129  6 
+
+Tue. 
+
+37i 
+
+— by  Worcester 
+
+— 
+
+207  4 
+
+— 
+
+213 
+
+AbbotsKerswell 
+
+Devon 
+
+188   7 
+
+142 
+
+Abingdon 
+
+Berks 
+
+55  5 
+
+M.F. 
+
+171 
+
+Abbotsbury 
+
+Dorset 
+
+129  6 
+
+
+
+86 
+
+Abinton 
+
+Laner. 
+
+366  1 
+
+360 
+
+Aber 
+
+Caern. 
+
+— 
+
+
+
+Abridge 
+
+Essex 
+
+13  4 
+
+54* 
+
+— by  Chester 
+
+— 
+
+245  4 
+
+— 
+
+291 
+
+Abrighton 
+
+Salop 
+
+164  7 
+
+255 
+
+— by  Shrewsbury 
+
+— 
+
+246  2 
+
+— 
+
+275 
+
+Accrington(01d 
+
+Lane. 
+
+207  4 
+
+
+
+415 
+
+Aberavon 
+
+Glam. 
+
+190  2 
+
+^i 
+
+A  col 
+
+Kent 
+
+67  7 
+
+
+
+10 
+
+Aberbrothick 
+
+Angus 
+
+460  1 
+
+
+
+472 
+
+Acton 
+
+Midd. 
+
+4  7 
+
+
+
+191 
+
+Aberconway 
+
+Caern. 
+
+— 
+
+Fri. 
+
+Acton 
+
+Chesh. 
+
+171   1 
+
+
+
+287 
+
+-by  Birmingham 
+
+— 
+
+237  ° 
+
+
+
+275 
+
+Acton  Turvil 
+
+Glouc. 
+
+— 
+
+— by  Lichfield 
+
+— 
+
+236  0 
+
+— 
+
+291 
+
+— by  Chippenham 
+
+— 
+
+102  \ 
+
+— 
+
+158 
+
+Aberdeen 
+
+Aberd. 
+
+— 
+
+
+
+— by  Malmsbury 
+
+— 
+
+106  2 
+
+— 
+
+l75 
+
+i — by  Worksop, 
+
+Adderbury 
+
+Oxon 
+
+72  3 
+
+
+
+248 
+
+Boro  bridge, 
+
+Adderwater 
+
+Devon 
+
+175  0 
+
+
+
+60 
+
+and  Dundee 
+
+— 
+
+508   1 
+
+— 
+
+472 
+
+Addingham 
+
+York. 
+
+212  5 
+
+
+
+410. 
+
+f-by  Ware ,  Work- 
+
+Adwalton 
+
+York. 
+
+192  5 
+
+
+
+425 
+
+sopyBoro 'bridge. 
+
+Ainsford  Inn 
+
+Som. 
+
+—  * 
+
+
+
+and  Forfar 
+
+— 
+
+516  7 
+
+— 
+
+460 
+
+— by  Brttton 
+
+— 
+
+112  5 
+
+— 
+
+129; 
+
+— by  York  and 
+
+— by  Wincaunton 
+
+— 
+
+115   2 
+
+— 
+
+1 1 1  j 
+
+Forfar 
+
+— 
+
+522  0 
+
+— 
+
+477 
+
+Albourne 
+
+Wilts 
+
+72  5 
+
+
+
+187L 
+
+Abergavenny 
+
+Monm 
+
+— 
+
+Tue. 
+
+Alcester 
+
+War  iv 
+
+103   3 
+
+Tue. 
+
+25  if 
+
+— by  Monmouth 
+
+Alconbury  Inn 
+
+Hunt. 
+
+
+
+and  Llandilo 
+
+—by  Hatfield 
+
+— 
+
+68  0 
+
+_ 
+
+344. 
+
+Cresseney 
+
+— ■ 
+
+'45  c 
+
+— 
+
+206 
+
+— by  Ware  and 
+
+— by  Monmouth 
+
+Huntingdon 
+
+— 
+
+63  7 
+
+— 
+
+447 
+
+and  Ragland 
+
+— 
+
+147  c 
+
+— 
+
+207 
+
+Aldborough 
+
+Suff. 
+
+94  1 
+
+W.S. 
+
+556 
+
+— by  Monmouth 
+
+Aldborough 
+
+York. 
+
+208  6 
+
+Sat. 
+
+352 
+
+and  Tregare 
+
+—     148  C 
+
+.-— .. 
+
+.199 
+
+.Alder 
+
+Devon 
+
+203  6 
+
+
+
+60 
+
+Index  to  the  Direct  Roads  from  London. 
+
+Place.            ( 
+
+-ounty 
+
+Dist. 
+
+VI.  D 
+
+fa. 
+
+Place. 
+
+Jourty    Disf. 
+
+XI  D 
+
+Pa. 
+
+Aldermaston 
+
+Berks 
+
+47    3 
+
+
+
+.78 
+

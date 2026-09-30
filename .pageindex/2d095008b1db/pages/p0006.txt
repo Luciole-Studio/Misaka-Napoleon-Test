@@ -1,0 +1,19 @@
+
+
+---
+
+## 9. 文件清单
+
+| 文件 | 内容 |
+|---|---|
+| `Q1_resistance_determinants.md` | 本报告 |
+| `Q1_dataset.csv` / `Q1_cases_frozen.csv` | 35行编码数据集（逐行出处、编码依据、不确定性） |
+| `Q1_codebook.md` | 建模前冻结的编码本与算法 |
+| `q1_analysis.py` | 真值表、留一行/留一簇、12项敏感性 |
+| `q1_policy_profiles.py` | 政策束、挑衅×机会交叉、异常案例 |
+| `q1_prediction.py` + `Q1_prediction_assumptions.csv` | 八区类比映射与裁量区间 |
+| `Q1_analysis_output.md/.json`、`Q1_policy_profiles.json`、`Q1_prediction_output.json` | 可复算输出 |
+| `notes_grab.md`、`notes_joor.md`、`notes_aaslestad.md`、`notes_esdaile_rowe.md`、`notes_woolf.md`、`notes_catalonia.md`、`notes_nonenglish.md` | 逐条原文摘录与页码定位 |
+| `SOURCES.md` | 来源清单、独立性分组与获取状态 |
+
+复算：`cd nodes/r_5b1357a9c6/cards/t_afeae6 && python3 q1_analysis.py && python3 q1_policy_profiles.py && python3 q1_prediction.py`

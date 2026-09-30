@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+  <head data-release=abe44b16 data-node="www21.us.archive.org">
+    <title>Full text of &quot;Memoirs of the secret societies of the south of Italy, particularly the Carbonari&quot;</title>
+
+          <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    
+        <meta name="google-site-verification" content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" />
+    <meta name="google-site-verification" content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" />
+
+    <meta name="baggage" content="sentry-trace_id=8f1d6699b79f4b4cb98f4f721269ccb0,sentry-sample_rate=0.001,sentry-transaction=%2Fdownload.php,sentry-public_key=94bf3037c1e245c8a927aaa4daad2dbb,sentry-environment=production,sentry-sampled=false,sentry-sample_rand=0.274558"/>    <meta name="sentry-trace" content="8f1d6699b79f4b4cb98f4f721269ccb0-502dfb1457b04ba7-0"/>
+    <script  nonce="a059a0a622638fbccf230b94c0473302" >
+/* @licstart  The following is the entire license notice for the
+ * JavaScript code in this page.
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ * @licend  The above is the entire license notice
+ * for the JavaScript code in this page.
+ */
+</script>
+        <meta charset="UTF-8">
+                      <meta property="mediatype" content="texts">
+                      <meta property="primary_collection" content="">
+            <script src="//archive.org/includes/athena.js?v=abe44b16" type="text/javascript"></script>
+    <script src="//archive.org/includes/apollo.js?v=abe44b16" type="text/javascript"></script>
+    <script src="//archive.org/components/npm/lit/polyfill-support.js?v=abe44b16" type="text/javascript"></script>
+    <script src="//archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=abe44b16" type="text/javascript"></script>
+<script nonce="a059a0a622638fbccf230b94c0473302" >
+      window.__realDefine = customElements.define.bind(customElements);
+      customElements.define = function() {
+        try {
+          return window.__realDefine.apply(this, arguments);
+        } catch (e) {
+          console.warn(e);
+        }
+      }
+    </script>    <script src="//archive.org/includes/build/js/ia-topnav.min.js?v=abe44b16" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/archive.min.js?v=abe44b16" type="text/javascript"></script>
+<link rel="canonical" href="https://archive.org/details/memoirsofsecrets00bert">
+    <link href="//archive.org/includes/build/css/archive.min.css?v=abe44b16" rel="stylesheet" type="text/css"/>
+    <link rel="SHORTCUT ICON" href="https://archive.org/images/glogo.jpg"/>
+  </head>
+  <body class="navia ">
+    <a href="#maincontent" class="hidden-for-screen-readers">Skip to main content</a>

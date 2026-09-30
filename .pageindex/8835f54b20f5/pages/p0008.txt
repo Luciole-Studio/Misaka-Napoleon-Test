@@ -1,0 +1,64 @@
+VOL. 101 NO. 7                      ACEMOGLU ET AL.: CONSEQUENCES OF RADICAL REFORM          3293
+
+
+
+                        80
+
+
+
+
+                        60
+                                        Treatment             Control
+
+
+
+
+        Reforms index
+                        40
+
+
+
+
+                        20
+
+
+
+
+                        0
+                             1700        1750             1800              1850      1900
+                                                           Year
+
+                                    Figure 1. Reforms Index, by Treatment Group
+
+
+
+
+is the archetypal example of “defensive modernizer”). In contrast, other states such
+as Brunswick, Hanover, and Hesse-Kassel, where the old rulers returned after 1815,
+tried to roll back the Napoleonic reforms.
+   Column 5 records the date in which guilds were abolished, either effectively or
+indirectly, by removing mandatory membership for craftsmen. We know that the
+abolition of guilds often went hand in hand with a liberal stance in granting con-
+cessions to set up industries and manufacturing activities, outside of the traditional
+crafts, even though we did not code this latter feature explicitly. Again, we see that
+the treated polities were early reformers (though with some setbacks), whereas the
+other states, with the exception of Prussia, liberalized the crafts system only later in
+the nineteenth century.
+   In columns 6 and 7 we construct a simple index of reforms at two exemplary
+dates, 1850 and 1900. For each polity, the index is computed simply by adding the
+number of years each particular reform had been in place and dividing by 4. As an
+example, consider the Duchy of Brunswick, which was controlled by the French
+through the Kingdom of Westphalia, and where the old ruling dynasty was restored
+by the Congress of Vienna. By 1850 there had been six years of validity of the Code
+Napoléon, the abolition of serfdom had been in place for 26 years, agrarian reforms
+for 25 years, and the abolition of guilds for seven years. Therefore the value of the
+index for the Brunswick in 1850 is (6 + 25 + 26 + 7)/4 = 16.
+   This index shows a clear distinction between parts of western Germany that were
+reformed by the French, those places which defensively modernized, like Prussia
+or Baden, and the rest of Germany—this distinction is evident in the average val-
+ues reported at the bottom of each panel of Table 1, and in Figure 1. In 1850, for
+instance, the reform index was 50.25 for the Rhineland and 28.25 for Westphalia.
+The fact that it was 27 for the Prussian provinces east of the Elbe and 34.25 for
+Baden highlights the potential extent of defensive modernization and suggests that
+to be able to interpret the differences between treated and untreated polities as being
+due to institutions, an instrumental-variables strategy is crucial.

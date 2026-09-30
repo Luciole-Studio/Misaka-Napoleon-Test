@@ -1,0 +1,16 @@
+
+
+## 四、通说数据（未逐件核原始文件，红队可抽查标准工具书）
+
+37. 家族生卒年（Carlo 1785/Letizia 1836/兄弟姊妹各卒年）；战场与暗杀暴露编年（1800-12-24、1809-04-23、1809-10-12、1814-03）；Sieyès 1799大选帝侯方案与波拿巴拒绝；Chappe电报网覆盖；Orcha焚档1812-11-20（另见napoleon.org 2012年"Bilan d'étape"文，检索捕获）；Cambacérès《Éclaircissements inédits》(1999)对西/俄保留说。工具书锚点：Tulard编《Dictionnaire Napoléon》、Lentz《Nouvelle histoire du Premier Empire》——**本卡未能获取全文，此类条目均标"通说"且不承担页码引用**。
+
+## 五、未获与缺口清单（它们能解决什么）
+
+- **Roederer *Œuvres* t.III原卷**：将"权力靠光荣"引语定点（1797 vs 1804）并核措辞——影响2.2b的引文等级，不影响结论（有Metternich/Caulaincourt同构证据）。
+- **Fain《Manuscrit de 1813》/Maret档**：德累斯顿会谈对照版本——影响"un million d'hommes"句的采信等级。
+- **d'Hauterive《La police secrète》公报原文**：把2.3"采集层质量"从结构判断升级为逐日样本判断；亦可检验公报的坦率程度（本卡假设"公报相对坦率、失真在整合层"，若公报本身系统美化则2.3需改写——这是第四条潜在改判证据）。
+- **CG T5/T7/T9/T13–15导言**：补齐通量序列缺口（尤其1807、1809）。
+- **Cambacérès两种文书（1999年刊回忆与Tulard编通信）**：大法官的克制记录从通说升级为文本。
+- **Hillemand《Pathologie de Napoléon》与1811–14健康档案**：1810–12衰退的医学面（现仅有目击印象层）。
+- **P. Bertrand编Talleyrand密信集原卷**：斯特拉斯堡备忘录全文核对（现为Dard长段转录）。
+- **Thiry、Tulard回忆录分级工具**：回忆录证据的系统分级（现为逐件手工标注）。

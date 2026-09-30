@@ -1,0 +1,30 @@
+---
+source_url: "https://danmarkshistorien.lex.dk/Den_dansk-norske_skilsmisse_i_1814"
+final_url: "https://danmarkshistorien.lex.dk/Den_dansk-norske_skilsmisse_i_1814"
+provider: "exa"
+text_sha256: "d1fc15384af247ec78e5825b2322c24a9830df2058c04fbba517814f0a17f50b"
+title: "Den dansk-norske skilsmisse i 1814 \u2013 Danmarkshistorien | Lex"
+content_kind: "page_text"
+---
+
+Den dansk-norske skilsmisse i 1814 – Danmarkshistorien | Lex
+
+## Skrevet af 
+
+- Ruth Hemstad 
+
+Ved Freden i Kiel 14. januar 1814 måtte Frederik 6. nødtvungent afstå Norge til den svenske konge efter nederlaget i Napoleonskrigene. Den såkaldte ’dansk-norske skilsmisse’ i 1814 afsluttede et 434-års politisk statsfællesskab mellem de to kongeriger Norge og Danmark (1380-1814). Selv om der i Norge var en stigende utilfredshed med den dansk-norske union, kom bruddet ikke indefra, men som resultatet af svensk diplomati og politik samt international storpolitik. Afståelsen af Norge var et svensk krav, men fredsaftalen fra 14. januar 1814 blev udnyttet af nordmændene godt hjulpet af den danske tronfølger Christian Frederik. Den danske prins opholdt sig i Norge som statholder og bidrog i foråret 1814 til at give Norge en form for uafhængighedserklæring med en liberal grundlov, der blev vedtaget 17. maj 1814. Christian Frederik blev samme dag valgt til Norges konge, hvilket han accepterede to dage senere og kortvarigt forblev, frem til han efter svensk krav måtte abdicere den 10. oktober. Den 4. november 1814 blev der indgået en svensk-norsk personalunion, som forenede de to kongeriger frem til 1905 og derved ændrede magtbalancen i Norden. Til trods for bruddet med Danmark fortsatte det dansk-norske samliv i mange henseender på det kulturelle felt.
+
+## Faktaboks
+
+ Tidsafgrænsning 
+
+ 1814 - 
+
+## Året 1814 
+
+ 
+
+ Oscar Wergelands (1844-1910) berømte maleri ‘Eidsvold 1814’ er Norges kendteste billede af Rigsforsamlingen i Eidsvoll-bygningen nord for hovedstaden Christiania (Oslo). Det blev malet som en gave til det norske parlament, Stortinget, i 1884-1885, og det hænger stadig centralt placeret bag talerstolen i Stortingssalen. På billedet ses Rigsforsamlingens 112 repræsentanter, som i foråret 1814 udformede den liberale norske grundlov, Eidsvoll-forfatningen, vedtaget 17. maj 1814. Den 17. maj har siden været Norges nationaldag. Eidsvold 1814 Af Oscar Wergeland/Stortingets Kunstsamling. Licens: Materialet er fri af ophavsret 
+
+Resultatet af Freden i Kiel, hvor Frederik 6. (født 1768, regent 1808-1839) nødtvungent måtte overlade Norge til den svenske konge, blev i Danmark beklaget af mange og senere omtalt som ”tabet af Norge”. I Norge derimod greb folket chancen for større selvstændighed med stort begær. Her blev opløsningen af det, der også var kendt som ”Tvilling-Riget”, ikke set som et tab, selv om der var dem, der begræd bruddet. For nordmændene var 1814 en genfødsel og en ny begyndelse, et pludseligt spring fra at være en integreret del af en af Europas mest restriktive enevældige stater til i vidt omfang at blive en selvstændig nation med en af de mest liberale grundlove, Eidsvoll-forfatningen fra den 17. maj 1814. Efteråret 1814 endte, til trods for norsk modstand, med en løsere form for personalunion med Sverige, hvor den norske grundlov i en noget revideret form blev anerkendt og gav Stortinget magt til stædigt at stå imod alle senere svenske forsøg på at knytte landene tættere sammen.

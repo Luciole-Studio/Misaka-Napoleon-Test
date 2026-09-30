@@ -1,0 +1,106 @@
+Rural Change and Royal Finances in Spain
+
+             Tables 12.6 and 12.7 permit one to derive the income of outside owners from lands they leased and from those they cultivated with
+       hired labor (Table 12.8). How much of the harvests also left the town to pay outside administrators cannot be calculated as in Baños, for
+       the catastro of Lopera does not identify administrators. The best I can do is apply the same proportions as in Baños, since we have found
+       the leasing practices of outsiders to be similar. [14] The results are shown in Table 12.9.
+             Summing the results of Tables 12.8 and 12.9, one sees that a total of 4,498 EFW left the economy of Lopera in rent, harvests, and
+       costs of administration of lands owned by outsiders. This is about 21 percent
+
+       [14] Drawing on Table 11.10, I assume the following proportions of lands in Lopera belonging to outsiders were administered from
+       outside: arable, 70 percent; olive groves, 80 percent; vineyards, 100 percent; orchards, 100 percent; huertas, 60 percent. (The last two
+       estimates are without supporting evidence, but the amounts involved are small.)
+
+
+                                                                                               ― 445 ―
+
+
+                                   Table 12.8. Income of Outside Owners from Land, Lopera, 1751
+
+
+
+                                           Arable        Olive Groves         Vineyards    Orchards         Huertas
+
+
+
+        A. Outside owners, percent
+          of land in town (Table
+                   12.5)                    55.5             48.4               22.0           100           59.6
+
+
+
+         B. Gross harvest in town
+                  (EFW)                    16,339            11,920             447             65           304
+
+
+
+          C. Harvest on out-side
+           lands (EFW) (A × B)             9,068               5,769             98             65           181
+
+
+
+            D. Percent leased
+               (Table 12.6)                  90               30                66.7           66.7          100
+
+
+
+        E. Harvest on leased land
+                (C × D)                    8,161               1,731             65             43           181
+
+
+
+         F. Outside owners' share
+          (Table 12.7, Method H)             22               22                 22             22            16
+
+
+
+        G. Outside owners' income
+             (EFW) (E × F)                 1,795             381                 14             10            29
+
+
+
+                                         H. Total income from leasing land = 2,229 EFWa
+
+
+
+            I. Percent exploited
+            directly (100 – D)               10               70                33.3           33.3           0
+
+
+
+         J. Outside owners' share
+             (Methods F, G) b                21               37                 18             18
+
+
+
+        K. Outside owners' income
+            (EFW) (C × I × J)               190             1,494                6              4
+
+
+
+                                       L. Total income from direct exploitation = 1,694 EFWc
+
+
+
+                     SOURCE. Gross harvest in town: Lopera, catastro, and calculations described in text.
+
+
+
+                                                          a Total of Row G.
+
+
+
+                                                  b Methods not shown in Table 12.7.
+
+
+
+                                                          c Total of Row K.
+
+
+
+
+                                                                                               ― 446 ―
+
+
+
+http://publishing.cdlib.org/ucpressebooks/view?docId=ft4d5nb394;chunk.id=0;doc.view=print[1/22/2011 11:30:51 AM]

@@ -1,0 +1,29 @@
+
+
+【事实】这是effectifs存量而非当年下水流量。脚注72专门警告此前序列增长受到`“l’intégration des vaisseaux de la marine hollandaise”`影响，那些舰`“n’ont pas été lancés entre 1809–1810”`。**74包括荷兰及意大利港区，确定；不等于全为1814仍可自由调遣的在役舰。** 表头按所在港／帝国控制范围，不应转译成建造原籍；意大利厂建造后调往土伦的舰可进入旧法国港区，**Gênes/Venise/Corfou=2绝不表示这些船厂累计只造2艘**。表也未给armé／désarmé细分。
+
+【检验p16“年产20”的结果】第16页称满负荷时`“une vingtaine de vaisseaux de ligne par an”`。本次指定七组逐舰名单为1807—1813年依次9、10、3、7、9、8、4艘；补入瑟堡后1813为6艘。特别是1810、1811、1812三个相关年，当前分别只有7、9、8个舰体。**这不能验证年产约20：需明确作者所指年份，并为相应年补出约13、11或12艘的实际下水记录。** 但本名单尚未穷尽荷兰等区域，因此也不能把这些小计当全国上限，进而声称已证伪20。模型校准应将20留为“作者概括、逐舰尚未复现”，不能由1810夏50至1812年72的净存量增加22反推某一年的20艘下水。
+
+**R** — J. Muracciole, “Napoléon et les arsenaux de la Marine”, *Revue historique des Armées* 1974, 1-1, pp.83–98：
+https://www.persee.fr/doc/rharm_0035-3299_1974_num_1_1_7813
+实际读到用户提供全文缓存`downloads/pages/21ae17eda88c.md`。104句在“L’héritage de la Révolution”末尾、网页印刷83页标记之后（跨入84页文本）；短引：`“104 vaisseaux, à flot ou en chantier”`。正文“Une politique des arsenaux”分别谈荷兰1810兼并及意大利厂，但无104逐港加总，**104是否完整包含荷兰／意大利各舰，原句自身没有充分分项证明**。**104−74=30只是跨作者、跨状态及潜在跨时点的算术差，不能标成已核30艘在建，更不能把104包装为已核的74+30分解。** 土伦17 en service+3 en construction和威尼斯12 en service ou en achèvement是存量混合，不录为下水量。威尼斯“1809从奥地利取得”原文问题挂账，不据此定所有权；热那亚“三艘”也不单独充当本表3艘的独立核验，因为段落未交代对应起讫年／舰名。
+
+### 后补：Éric Schérer《La Marine sous l’Empire》的6→8及20
+
+【事实：实际读取PDF网页提取文本】Éric Schérer，*La Marine sous l’Empire*，署名© VAE (2s) Éric Schérer, 2025。URL：https://www.marins-traditions.fr/_files/ugd/c3f5ca_e33d085ac71744eaa6165b42ebdca588.pdf 。位置：第5节“La reconstruction de la Marine”，以“Après Trafalgar”开头的段落；缓存`downloads/pages/bcf22d70f791.md`第134行，PDF物理页码本轮未核。
+
+原文先谈1810年计划：`“il pensait pouvoir aligner de 110 à 115 vaisseaux à la fin de 1812, après l’achèvement de la construction de 20 nouveaux bâtiments cette année-là”`；接着写1811年修订目标，并`“demandant de pousser le rythme de construction à 8 vaisseaux par an au lieu de 6 jusqu’alors”`。
+
+【修订裁量：已读下列同期信件现代转录】这是有作者的新来源，但不是全国下水实績反证：①20明确处在计划及achèvement语境，不是launched实績；②**6→8的安特卫普地域口径已由1811年10月2日信澄清，不再列为全国6→8与全国20的直接冲突**；③该段20后脚注6为“Pierre Lévêque, Ibid, p.256”，仅由此提取不能稳妥解出完整书名，原书未阅；6→8句本身没有独立细注。来源不同不等于统计证据独立。Todorov p16的20仍缺全国逐舰复现，**不认定为已核峰值**。
+
+【模型使用边界】协调方提出前期8—12艘/年、后期6—10艘/年；这是协调方模型设定，不是本memo核出的历史区间，亦未获本卡认证。逐舰名单只能检验特定年份的下限；建模还须说明期间、地域、下水到完工时滞及转入／损失，不能用保守参数措辞消除口径问题。本卡不进行未来预测。
+
+### 后补：安特卫普同期厂级产能目标（非实绩）
+
+【事实：同期书信的现代网页转录已读；纸本／手稿未对校】
+
+**N3：1811年3月5日，巴黎，致Decrès**，起句“j’ai pris un décret pour porter à dix-huit”。URL：https://napoleon-histoire.com/correspondance-de-napoleon-ier-mars-1811/ 。缓存`downloads/pages/f042c1f13d31.md`第188行整段。
+- 原文：`“dix-huit le nombre des cales de vaisseaux de ligne qui sont à Anvers”`，即要求将安特卫普战列舰船台增至18个，不是已验收18个可用船台。
+- 原文：`“six vaisseaux par an ... qu’ils restent trois ans sur le chantier”`；另希望无急需时保留`“six ou huit sur le chantier tout prêts à être lancés”`。
+- 【文献推断】18船台／每舰占台3年＝年均6艘的规划关系，与原信一致；待下水6—8艘为计划缓冲库存，不是额外6—8个船台，更不该加进afloat存量。信同时表达宣传目的“fasse du bruit”，故18也不能脱离实际投产核查直接充当已实现产能。
+- 原信点名Illustre、Pacificateur、Auguste、Trajan、Gaulois、Conquérant，要求1811年下水六艘。与本memo逐舰表对照：前四艘列1811，后两艘列1812年4月。**这正是计划≠实绩的可逐舰对照**，不宜从指令六艘覆盖实际日期。

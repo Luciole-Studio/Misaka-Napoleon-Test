@@ -1,0 +1,21 @@
+
+
+---
+
+## §A 核心事件链证据（1801–1812）：卡面指定议题逐项落锚
+
+**A1 弑君约束（1801）**：见①⑧。补一笔：亚历山大初见Czartoryski即言"若你在场，事情不至于此"并"以不可言说的悲痛与悔恨"反复重提父死（回忆录卷I行8790–8820）【锚点·回溯性】。凶手群体的下场（Pahlen放逐、Bennigsen外放至1806因军事声望起用、Zubov兄弟边缘化）证明沙皇有限报复能力与永久心理阴影并存【锚点：同章】。
+
+**A2 提尔西特与1807后沙龙敌意**：同盟条约（1807-07-07，缓存`downloads/pages/ff744d3eea74.md`）；彼得堡社交界抵制见③⑨；皇太后"一分钟接见"（Vandal I行5062–5072）；1807年秋沙龙"换政策不惜换君主"言论【锚点】。但同期亚历山大展示了压制英派的能力：1807-11-07对英断交早于条约期限，Kochubey交卸、Novosiltsev"奉命旅行"、Orlov跪谢罪（Vandal I行6597–6640）【锚点】。**机制启示：沙皇可以短期压制贵族反对，代价是预支信用；不可长期逆贵族核心利益而行。**
+
+**A3 埃尔福特（1808-09/10）**：①公约文本（缓存`e6fecc9325ac.md`已核）：第5条芬兰/瓦拉几亚/摩尔达维亚入俄为对英和平绝对条件；第10条奥地利互助条款；第12条一年后再会。②Talleyrand变节："Sire, que venez-vous faire ici? C'est à vous de sauver l'Europe, et vous n'y parviendrez qu'en tenant tête à Napoléon..."（Vandal I行15634–15646，转引Metternich回忆II,248；另有Talleyrand回忆录自述平行传本，缓存`b9eaa7cabeae.md`【回溯性】）【锚点·双传本互证但同源于Talleyrand自述】。③亚历山大在奥地利问题上首次公开顶撞（scène vive，章目）；④婚姻问题被拿破仑托Caulaincourt/Talleyrand试探【锚点：章目§V】。**埃尔福特是同盟内部讨价模式的峰值：俄方以拖延换实利，法方以前景换即时服从；Talleyrand把'抵抗即救欧洲'的合法性叙事植入沙皇。**
+
+**A4 1809–10波兰公约与婚姻（双轨失败）**：①公约1810-01-04（Caulaincourt签署）首条"Le royaume de Pologne ne sera jamais rétabli"；拿破仑拒批，2月改提"不援助复国"版；【锚点：Vandal II缓存`35dcb892b38d.md`行1464–1472/1830–1844，上一轮D2已核】。②俄婚试探与之并行：法方自限"Ce n'est pas une demande formelle que je fais"；安娜年幼+皇太后veto→拖延；拿破仑转婚奥地利（【锚点：同卷婚姻段；veto法理见①】）。**两事在彼得堡被读作同一个信号：法国不愿为同盟支付结构性价格。**
+
+**A5 奥尔登堡（1810-12–1811）**：吞并触动条约（提尔西特第12条）+王朝+皇太后党三线；俄方抗议照会通告全欧（Champagny拒收、信封留桌一幕）【锚点：Vandal III行2050–2095+上一轮E5】。但**自拆牌**：1812年2月亚历山大向瑞典特使指图愿以奥尔登堡补偿丹麦"qu'il sacrifierait volontiers malgré la parenté"（Löwenhielm 1812-02-24/03-03发报；Vandal III行12599–12612）【锚点】→奥事是可交易的面子/法理议题，非真实安全核心。
+
+**A6 1811年初条件性进攻筹划**：1810-12-25致Czartoryski信（八问+兵力表230,000对155,000+"此时机仅现一次"+"拿破仑不能长生"论）；1811-01-31第二信（全部担保：短期内先发复国宣言、东界德维纳-别列津纳-第聂伯、五三宪法精神的"自由宪法"、纯个人联合；对奥以两公国换加利西亚；矢言不先手："Mais tout change de face si les Polonais veulent se joindre à moi"）【锚点：Czartoryski回忆II英译行8107–8460亲核；Vandal III行1105–1400】。Czartoryski复信泼冷水（纸面兵力、Caulaincourt警觉、需先给确定性保证）。**该筹划因华沙不倒戈、奥地利冷淡而中止（1811春夏），转入防御；它证明亚历山大既非无条件主战也非被动羊羔，而是机会主义的均势操盘手。**
+
+**A7 1811年秋：Nesselrode/Kurakin备忘录与"不再谈判"**：①Nesselrode十月备忘录（法文全文，Vandal III附录III行20965–21287；俄文网络传本上一轮E4已核）：五议题（奥尔登堡权利换安全让步、但泽减驻、不向华沙派法军、普鲁士政治生存为"最关键条款"、贸易主权不得让渡）+邀奥担保+"和平使俄奥rétablir leurs finances et leurs armées"。②同期亚历山大已"不再谈判"：谢绝普奥调停（致Stackelberg 1811-10-27）；只提奥事藏波兰（Vandal III行7360–7400）【锚点】。**Kurakin备忘录辨析**：卡面所称"库拉金备忘录"在已核材料中最近对应物为Kurakin 1808–09商务报告（Makarov 2024据АВПРИ转引，上一轮E2）及其在巴黎的条约权限问题；若指1811年另有专题备忘录，本轮未获原档——不伪称已阅，列入缺口清单。
+
+**A8 1812：瑞典同盟、最后通牒、不媾和誓言**：①瑞典：1812-02-23原则同意换挪威；Rumiantsev暗阻被绕过。②对拿破仑02-25提案："efforts pour gagner du temps...je ne me laisserai pas tromper"。③主和派3–4月围攻失败；Speransky 03-17夜流放（见①）。④04-08最后通牒：撤出普鲁士全境/瑞典波美拉尼亚、减但泽驻军、退易北河西，为"不可变更先决条件"；对价仅后续谈判意向+中立贸易硬条款（Vandal III行12830–12878；上一轮D5原句已核）。⑤入侵后：Balashov口信"Tant qu'un soldat resterait en armes sur le territoire russe...ne prononcerait ni n'écouterait une parole de paix"（engagement d'honneur；Balashov亲笔报告1882刊；Vandal III行17491–17497）【锚点】；而1811年5月Kamtchatka宣言（⑥所引）证明该决心已预先成型一年。⑥秋季拒和（Lauriston莫斯科使命无果）、年底决心进军欧洲（Rey短文，上一轮E3/R6已核）【锚点·作者叙述】。

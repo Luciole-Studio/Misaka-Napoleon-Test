@@ -1,0 +1,28 @@
+
+
+## B. 同时代商业与统计著作
+
+| 编号 | 文献 | 本地路径 | 标识 | sha256（前16位） | 用途 |
+|---|---|---|---|---|---|
+| C01 | William Milburn, *Oriental Commerce*, vol. I（London 1813） | `downloads/IN1_milburn_v1.txt` | `in.ernet.dli.2015.181513` | 0e7a5988e678a7ef | 孟买对华棉花（8 万包/3,000 万磅）；公司保留 2/3 船位与广州—伦敦汇票机制；对华贸易带回孟买现银年均 Sicca Rs 27,03,907 |
+| C02 | William Milburn, *Oriental Commerce*, vol. II（London 1813） | `downloads/IN1_milburn_v2.txt` | `dli.ernet.26367` | 4b2b1a11601cb350 | 孟加拉鸦片专卖收入 1792-3–1809-10 逐年；对华鸦片出口值；17 年中国贸易销售额与英国关税消费税；茶的百年税额与 £5m/年估计 |
+| C03 | *Report … on the China Trade / East India Company Report on Finance*（1830） | `downloads/IN1_eic_finance_report_1830.txt` | `in.ernet.dli.2015.109741` | 7ba2d716f7a83fd6 | 仅用于确认 1830 年委员会对茶、鸦片、广州费用的证据结构；OCR 数字未采用 |
+| C04 | *Appendix to the Report on the Affairs of the East India Company, III — External and Internal Commerce*（1831） | `downloads/IN1_appx_commerce_1831.txt` | `india.history.resource.92168` | dd5f593fd09d8125 | 1828-29 前后孟加拉出口结构（鸦片 4,817 箱等），作为 1815–48 趋势的端点参照 |
+| C05 | *General Appendix to the Report from the Select Committee … 16 August 1832* | `downloads/IN1_genappendix_1833.txt` | `india.history.resource.106678` | 66b865ed1c8a0b85 | 查阅确认其内容为行政/司法文件而非财政序列；**未引用** |
+| C06 | *Report on the military expenditure of the Honourable East India Company*（1831，致 Sir John Malcolm） | `downloads/IN1_malcolm_military_expenditure_1831.txt` | `militaryexpendit00east` | a5f3097e1f17366a | 查阅确认其为 1830 年口粮/营务成本细节，非 1803–15 兵力序列；**未引用为兵力数据** |
+
+## C. 十九世纪史著（二手，已注明）
+
+| 编号 | 文献 | 本地路径 | 标识 | sha256（前16位） | 用途 |
+|---|---|---|---|---|---|
+| H01 | *Lord Minto in India: Life and Letters of Gilbert Elliot, First Earl of Minto, from 1807 to 1814*（London 1880） | `downloads/IN1_minto_in_india.txt` | `lordmintoinindia01mint` | 580bcd19ed4c6a6c | 明托 1807 年威胁评估（2 万法军）；毛里求斯作为"渐进集结基地"的论证；1803 本地治里事件与"Citizen Tippoo"；1809 年 6 艘东印度商船被俘；1810–11 远征 |
+| H02 | W. J. Wilson, *History of the Madras Army*, vol. III（Madras 1882） | `downloads/IN1_wilson_madras_army_v3.txt` | `dli.csl.6715` | 3bc446ea3c253cf2 | 韦洛尔兵变全过程与伤亡；1809 欧籍军官哗变的原因、裁定与处置 |
+| H03 | R. C. Dutt, *The Economic History of India under Early British Rule*（1906） | `downloads/IN1_dutt_econ_hist_early.txt` | `india.history.resource.89099` | cb8f05e6a65aff64 | 1793–1837 财政叙述与 1835-36–1837-38 分管区表；其**转引**的 *Returns of the Gross Revenue, &c., in India since 1792*（HC 1855-06-22）为年度序列的权威来源名 |
+| H04 | F. G. Cardew, *A Sketch of the Services of the Bengal Native Army*（1903） | `downloads/IN1_cardew_bengal_army.txt` | `bengalnativearmycardew` | a5455715ea825eec | 已下载并检索，本卡正文未直接引用（孟加拉军扩编叙述备用） |
+| H05 | Sir John Malcolm, *The Political History of India from 1784 to 1823*, vol. II（1826） | `downloads/IN1_malcolm_polhist_v2.txt` | `in.ernet.dli.2015.22421` | 1439f4a72e38651f | 已下载；本卡未引用（其附录 OCR 未定位） |
+| H06 | 误标文件：`downloads/IN1_mill_wilson_v7.txt`（archive.org 标为 *History of British India Vol VII*，实际内容为威灵顿书信集） | 同左 | `in.ernet.dli.2015.81828` | c0f6b51e621e7262 | **不作为来源使用**，在此登记以免他卡误用 |
+
+## D. 复用上一轮（r_b55f2c1cf5）与他卡资产（均注路径）
+- 1763 年巴黎和约第 XI 条（归还商站但不得设防驻军）：`downloads/pages/2c591936a232.md`（上一轮 t_c17367 已核）。
+- 明托 1808-06-17 备忘录关于向拉合尔、喀布尔派使：`downloads/pages/7ace9e1b1b47.md`（Cambridge Core 公开章节**节选转引**，非全章亲阅）。
+- 1812-04-17 谢菲尔德/Hallamshire 刀具商请愿（要求开放东印度公司垄断以补大陆与美国市场损失）：`downloads/pages/ba2ab29e8259.md`（B5 卡核证，本卡未复读，不计为独立互证）。

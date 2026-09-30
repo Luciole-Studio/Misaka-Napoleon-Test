@@ -1,0 +1,43 @@
+advantage is that breaks are determined endogenously, hence allowing to understanding the
+perceptions at the time of the events, excluding any ex-post bias. This advantage is enhanced by
+the use of financial market data, highly informative when one wishes to assess the perceived
+importance of given events at the moment they happened, as any misinterpretation of
+information could heavily penalize the market operators (Waldenström and Frey, 2007).
+However, this approach also presents some limits, namely a risk of “over-interpretation” (i.e.
+econometrically determined break for which one seeks a historical reason at any costs) and a risk
+of omission, particularly in the presence of simultaneous events producing opposite effects.
+
+     In order to infer more information regarding the response of the French yields to the
+implementation of several institutions with direct link to public debt management as well as to
+decisions leading to an enhancement of their credibility, we test the changes in the French yield at
+the dates these decisions were made. Thus, we are able to capture a short-term effect in the yield,
+at the dates for which there is an a priori. To do so, we apply a two steps procedure. First of all,
+to take into account market trend, the French yields are detrended by using the British consol as
+the benchmark for the sovereign bonds market at that time, i.e.
+
+                                                                                                    (2)
+
+where y t represents the French yield, trend _ consolt is the Hodrick-Prescott trend11 of the
+
+British consol over the same time-period,        are the coefficients and      the residual. In a second
+step, residuals are described by a GARCH(1,1) model with dummies in the mean as proxies for
+the chosen dates as follows:
+
+                                  ∑                                                                 (3)
+
+                                                                                                    (4)
+
+with      standing for the chosen        dummies,       is the conditional variance,       and     are the
+different coefficients.
+
+     The advantage of this approach is that there is no risk of over-interpretation, as the events are
+chosen exogenously for a specific reason. However, the reverse is that by doing so, there is
+potential ex-post bias (choosing events that are nowadays considered as major by most historians
+while they were perceived as minor at the time they arrived).
+
+
+11
+  The smoothing parameter  was chosen according to the frequency power rule of Ravn and Uhlig (2002) and a
+power rule of 2, following Hodrick and Prescott (1997).
+
+                                                                                                          19

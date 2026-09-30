@@ -1,0 +1,120 @@
+# C6专项研究笔记：普鲁士与奥地利，1807—1812
+
+## 一、核心结论与核验范围
+
+**【裁量｜中高置信度】法国胜利不能直接推出普鲁士将继续压倒奥地利。** 已读条约所呈现的结构是：普鲁士保留王朝与政府，却受到领土削减、外交网络瓦解、通行义务和军事动员限制；奥地利虽同样遭到削弱，但在1812年法奥同盟中取得了比较明确的军团完整性、加利西亚领土保证和潜在补偿安排。
+
+**【裁量｜中置信度】1811—1812年进一步肢解普鲁士的危险和讨论有文献支持，但本轮未取得经原件核对的、拿破仑最终批准且划定具体边界的瓜分决定。** 必须区分：
+
+1. 普王担忧国家灭亡；
+2. 法国以进军或领土损失相威胁；
+3. 梅特涅把普鲁士灭亡纳入政策计算；
+4. 法国已决定实施某份具体瓜分方案。
+
+前三者不能自动证明第四者。
+
+### 实际阅读范围
+
+- 法普1807年和约、1812年公开同盟、秘密附加条款、供给与军事协定：已读下列网页返回的全部条文。
+- 1809年申布伦和约、1812年法奥同盟：已读网页返回的全部条文。
+- Clark：实际读到非官方英文转载的一个连续片段，**没有核对正规纸本、德译目标章节及尾注**。
+- 德语旧史：实际读到Berthold Volz书中相关第231—235页的提取文本；**OCR存在错序，未逐页核对影像**。
+- 档案：只读到GStA PK目录，**没有读档案原卷**。
+- 没有把搜索摘要当作条约全文；以下正式引用均来自实际提取并阅读的正文。
+
+---
+
+## 二、来源登记：准确题名、版本、URL与本地路径
+
+### S1　1807年提尔西特对普和约
+
+**题名：** *Treaty between Prussia and France, Tilsit, 9 July, 1807*  
+**载体：** Fondation Napoléon网站，英文转录。  
+**分类：** 原始文书的网络译文／转录，不是签署原件。  
+**已读范围：** I—XXX条及文末签署、批准交换说明。  
+**限制：** 本次返回正文未明确交代英译底本；存在拼写、地名及编号讹误。
+
+URL：  
+https://www.napoleon.org/en/history-of-the-two-empires/articles/treaty-between-prussia-and-france-tilsit-9-july-1807/
+
+本地抓取：  
+`downloads/pages/4b40ca3af7f7.md`
+
+### S2　1812年法普公开同盟
+
+**网页题名／标识：** *Allianzvertrag zwischen Preußen und Frankreich*；`18120224-001:allianzvertrag`  
+**日期：** 1812年2月24日。  
+**分类：** 原始文书的德文网络转录。  
+**已读范围：** 全部5条、签署文字及来源说明。  
+**网站所列底本：** Ludwig August Friedrich von Liebenstein，*Der Krieg Napoleons gegen Russland in den Jahren 1812 und 1813*，Frankfurt am Main，1819。网站未提供具体卷页；本轮未读该版影印。
+
+URL：  
+https://www.epoche-napoleon.net/quellen/1812/02/24/allianzvertrag.html
+
+本地抓取：  
+`downloads/pages/00ca352688de.md`
+
+### S3　1812年法普秘密附加条款
+
+**题名：** *Geheimes Zusatzprotokoll zum Allianztraktat zwischen Preußen und Frankreich*  
+**日期：** 1812年2月24日。  
+**分类：** 原始文书的德文网络转录。  
+**已读范围：** 全部4条及来源说明。  
+**底本声明：** 同S2，Liebenstein，1819；影印未读。
+
+URL：  
+https://www.epoche-napoleon.net/quellen/1812/02/24/geheimtaktat01.html
+
+本地抓取：  
+`downloads/pages/e1e7391aae89.md`
+
+### S4a　1812年法普秘密供给／赔款协定
+
+**网页标识：** `18120224-003:geheimtaktat02`  
+**内容识别：** 以实物供给抵扣赔款、运输、军医院及结算的秘密协定。该描述是本笔记按内容所作分类，不冒充原始正式题名。  
+**分类：** 原始文书的德文网络转录。  
+**已读范围：** 全部15条、签署及来源说明。  
+**底本声明：** 同S2，Liebenstein，1819；影印未读。  
+**限制：** 抓取正文未显示完整题头与日期，日期根据网页路径及同组文书定位，仍宜核对印本。
+
+URL：  
+https://www.epoche-napoleon.net/quellen/1812/02/24/geheimtaktat02.html
+
+本地抓取：  
+`downloads/pages/3a419bf742fa.md`
+
+### S4b　1812年法普秘密军事协定
+
+**网页题名：** *4. Geheimes Zusatzprotokoll zum Allianztraktat zwischen Preußen und Frankreich*  
+**日期：** 1812年2月24日。  
+**分类：** 原始文书的德文网络转录。  
+**已读范围：** 全部15条及来源说明。  
+**底本声明：** 同S2，Liebenstein，1819；影印未读。
+
+URL：  
+https://www.epoche-napoleon.net/quellen/1812/02/24/geheimtaktat04.html
+
+本地抓取：  
+`downloads/pages/6d14b89ddb86.md`
+
+### S5　1809年申布伦和约
+
+**题名：** *The Treaty of Vienna, 14 October, 1809*  
+**载体：** Fondation Napoléon。  
+**分类：** 原始文书的同时代英译之网络转录。  
+**明确底本：** *Cobbett’s Political Register*, vol.16，1809。  
+**已读范围：** I—XVIII条、拿破仑批准文及网站说明。
+
+URL：  
+https://www.napoleon.org/en/history-of-the-two-empires/articles/39720/
+
+本地抓取：  
+`downloads/pages/e5074feabef0.md`
+
+### S6　1812年法奥同盟
+
+**题名：** *Traité d’alliance signé à Paris le 14 mars 1812 entre la France et l’Autriche*  
+**载体：** Napoleon-Histoire，网页署名Robert，2018年10月21日。  
+**分类：** 原始文书的法文网络转录。  
+**已读范围：** 本约9条、秘密条款11条。  
+**限制：** 返回正文未列明确印本底本；本约末尾误作“14 Mars 1813”，标题与秘密条款落款均为1812。不能隐瞒这一版本问题。

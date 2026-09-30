@@ -1,0 +1,102 @@
+
+
+Rcamid
+
+319804
+
+Scandate
+
+20080616185056
+
+Scanfactors
+
+4
+
+Scanner
+
+iasw6
+
+Scanningcenter
+
+uoft
+
+Show More
+
+Show Less
+
+Full catalog record
+
+[MARCXML](https://archive.org/download/correspondancede30napouoft/correspondancede30napouoft_archive_marc.xml)
+
+##
+
+plus-circle Add Review
+
+comment
+
+Reviews
+
+1,415
+
+Views
+
+1 Favorite
+
+#
+DOWNLOAD OPTIONS
+
+[download 1 file](https://archive.org/download/correspondancede30napouoft/correspondancede30napouoft_abbyy.gz)
+
+[ABBYY GZ download](https://archive.org/download/correspondancede30napouoft/correspondancede30napouoft_abbyy.gz)
+
+[download 1 file](https://archive.org/download/correspondancede30napouoft/correspondancede30napouoft_chocr.html.gz)
+
+[CHOCR download](https://archive.org/download/correspondancede30napouoft/correspondancede30napouoft_chocr.html.gz)
+
+Generate
+
+DAISY
+
+For users with print-disabilities
+
+Generate
+
+EPUB
+
+[download 1 file](https://archive.org/stream/correspondancede30napouoft/correspondancede30napouoft_djvu.txt)
+
+[FULL TEXT download](https://archive.org/stream/correspondancede30napouoft/correspondancede30napouoft_djvu.txt)
+
+[download 1 file](https://archive.org/download/correspondancede30napouoft/correspondancede30napouoft_hocr.html)
+
+[HOCR download](https://archive.org/download/correspondancede30napouoft/correspondancede30napouoft_hocr.html)
+
+[download 1 file](https://archive.org/download/correspondancede30napouoft/__ia_thumb.jpg)
+
+[ITEM TILE download](https://archive.org/download/correspondancede30napouoft/__ia_thumb.jpg)
+
+[download 1 file](https://archive.org/download/correspondancede30napouoft/correspondancede30napouoft_hocr_pageindex.json.gz)
+
+[OCR PAGE INDEX download](https://archive.org/download/correspondancede30napouoft/correspondancede30napouoft_hocr_pageindex.json.gz)
+
+[download 1 file](https://archive.org/download/correspondancede30napouoft/correspondancede30napouoft_hocr_searchtext.txt.gz)
+
+[OCR SEARCH TEXT download](https://archive.org/download/correspondancede30napouoft/correspondancede30napouoft_hocr_searchtext.txt.gz)
+
+[download 1 file](https://archive.org/download/correspondancede30napouoft/correspondancede30napouoft_page_numbers.json)
+
+[PAGE NUMBERS JSON download](https://archive.org/download/correspondancede30napouoft/correspondancede30napouoft_page_numbers.json)
+
+[download 1 file](https://archive.org/download/correspondancede30napouoft/correspondancede30napouoft.pdf)
+
+[PDF download](https://archive.org/download/correspondancede30napouoft/correspondancede30napouoft.pdf)
+
+[download 1 file](https://archive.org/download/correspondancede30napouoft/scandata.zip)
+
+[SCRIBE SCANDATA ZIP download](https://archive.org/download/correspondancede30napouoft/scandata.zip)
+
+[download 1 file](https://archive.org/download/correspondancede30napouoft/correspondancede30napouoft_jp2.zip)
+
+[SINGLE PAGE PROCESSED JP2 ZIP download](https://archive.org/download/correspondancede30napouoft/correspondancede30napouoft_jp2.zip)
+
+[download 1 file](https://archive.org/download/correspondancede30napouoft/correspondancede30napouoft_raw_jp2.zip)

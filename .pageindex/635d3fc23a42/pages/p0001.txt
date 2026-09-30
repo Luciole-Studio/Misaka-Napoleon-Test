@@ -1,0 +1,18 @@
+---
+source_url: "https://www.ibf-frankfurt.de/components/getdata.php?file=1500751347_SFupLD_boersenzeitung210_ullmann_01nov2011.pdf"
+final_url: "https://www.ibf-frankfurt.de/components/getdata.php"
+provider: "exa"
+text_sha256: "01c6eae9d8099ad8d4349ab7dcaf416d14fcca5a3e2211a1d3f38ed9083f9937"
+title: "Innovatives System"
+content_kind: "page_text"
+---
+
+[BOZ: BZ-BANKENFINANZEN-PRODUKTION [BOZ -19 ] ... 01.11.11] Autor:TAGESDIENST 02.11.11 16:45
+
+Dienstag, 1. November 2011 Börsen-Zeitung Nr. 210 19
+
+„Das bey denen Herren Gebrüder Bethmann eröffnete Anlehen vor den Kaiserl. Königlichen Hof, bleit annoch offen. Die Obligationes sind jede von fl. 1000. im 20 Gul den=Fuß auf 8 Jahre ohnableglich à 4 ½ pro=Cent jährlicher Zinsen. Die Gelder werden hier in Franck furt geschossen, auch geschieht die jedesmaliche Interesse=Zah lung und seiner Zeit die Ablage auch wieder allhier im nehmli chen Werth des Geldes. Die zur Si cherheit derer Herren Darleyhere bestimmte Banco Obligatione, sind auf hiesigem Löblichen Re cheney-Amt Deponirt.“ Von Hans-Peter Ullmann *) Börsen-Zeitung, 1.11.2011 Mit dieser Annonce, die Anfang 1779 in den Frankfurter „Frag- und Anzeigungs-Nachrichten“ erschien, pries das Bankhaus Gebr. Bethmann interessierten Anlegern die Partialob ligationen einer österreichischen An leihe an. Die von ihm zur Zeichnung gestellten Inhaberschuldverschrei bungen waren eine finanztechnische Innovation. Welchem Vorbild die Bankiers folgten und ob die Anleihe von 1778 die erste ihrer Art war, ist bis heute ungewiss. Viel spricht dafür, dass sich Gebr. Bethmann am Amsterda mer Kapitalmarkt orientierte und die Einführung der Inhaberschuld verschreibung in Frankfurt nicht als einmaliger Akt, sondern als ein Pro zess zu sehen ist, der mehrere Etap pen durchlief. Nur soweit diese Ent wicklung in der österreichischen An leihe von 1778 kulminierte, kann sie als Geburtsstunde der Inhaber schuldverschreibung gelten.
+
+Innovatives System
+
+Die öffentliche Anleihe gegen Par tialobligationen revolutionierte den Frankfurter Kapitalmarkt, denn sie verknüpfte vier Neuerungen zu ei nem innovativen System staatlicher Verschuldung: Dieses beruhte (1.) auf versachlichten Schuldverhältnis sen, (2.) auf einer neuen Technik öf fentlicher Verschuldung, (3.) auf ei nem Funktionswandel der Finanzin stitutionen und (4.) auf einem auf nahmefähigen, sich börsenmäßig or ganisierenden Kapitalmarkt. 1. Die öffentliche Anleihe gegen Inhaberschuldverschreibungen ver sachlichte die Schuldverhältnisse. Sie kam nicht mehr durch eine per sönliche Vereinbarung zwischen zwei bekannten Personen zustande, sondern „durch ein System menschli cher Einrichtungen zwischen einan der unbekannten Personen nach ob jektiven Normen und schematisier ten Formen“ (Sombart). Bis zur Einführung der Inhaber schuldverschreibung im ausgehen den 18. Jahrhundert war das anders. Die vorher gebräuchlichen Schuldar ten lassen sich als grundlegende Vari anten einer persönlichen Verschul dungsform begreifen: des Darle hens. Dieses stellte rechtlich gesehen „die – entgeltliche oder unentgeltli che – Überlassung eines bestimmten Kapitals, meist einer Geldsumme, zu zeitweiliger Nutzung“ (Larenz) dar. Schuldner und Gläubiger schlossen dazu einen Darlehensvertrag, dessen Konditionen sie frei festlegten. Im Darlehnsschuldschein bestätigte der Darlehnsnehmer, vom Darleiher ein Darlehen erhalten zu haben, und ver sprach dessen Rückzahlung. Der Schuldschein lautete auf den Namen des Gläubigers; er diente Beweiszwe cken, war eine Beweisurkunde. Da sich diese allein durch förmliche Zes sion übertragen ließ, konnte sie nur schwer zirkulieren; so blieb der Kreis potenzieller Gläubiger klein und ter ritorial begrenzt.

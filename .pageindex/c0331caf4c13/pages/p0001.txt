@@ -1,0 +1,63 @@
+<!-- csv readout: the file's own rows, with a ```meta column summary added above them (parser-added, not file content). The rows are the file's, separator and quoting included, so a line quoted as it appears here verifies against it. -->
+
+## Sheet: c4_annual_status.csv
+
+```meta
+▸ table "c4_annual_status.csv" (76 data rows)
+▸ columns
+    scenario: str, 4 uniq: ['S2_maritime_coexistence', 'S3_licence_compromise', 'S3_strict_blockade', 'S5_conditional_peace']
+    year: num, min=1812, max=1830
+    uk_tax_revenue: str, 1 uniq: ['NA']
+    uk_debt: str, 1 uniq: ['NA']
+    fr_net_transfers: str, 1 uniq: ['NA']
+    fr_available_reserves: str, 1 uniq: ['NA']
+    binding_constraint_year: str, 1 uniq: ['NA']
+    status: str, 1 uniq: ['NOT_IDENTIFIED']
+    locator: str, 1 uniq: ['c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv']
+    interpretation_limit: str, 1 uniq: ['Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified']
+```
+scenario,year,uk_tax_revenue,uk_debt,fr_net_transfers,fr_available_reserves,binding_constraint_year,status,locator,interpretation_limit
+S2_maritime_coexistence,1812,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S2_maritime_coexistence,1813,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S2_maritime_coexistence,1814,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S2_maritime_coexistence,1815,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S2_maritime_coexistence,1816,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S2_maritime_coexistence,1817,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S2_maritime_coexistence,1818,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S2_maritime_coexistence,1819,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S2_maritime_coexistence,1820,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S2_maritime_coexistence,1821,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S2_maritime_coexistence,1822,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S2_maritime_coexistence,1823,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S2_maritime_coexistence,1824,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S2_maritime_coexistence,1825,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S2_maritime_coexistence,1826,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S2_maritime_coexistence,1827,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S2_maritime_coexistence,1828,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S2_maritime_coexistence,1829,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S2_maritime_coexistence,1830,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_strict_blockade,1812,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_strict_blockade,1813,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_strict_blockade,1814,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_strict_blockade,1815,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_strict_blockade,1816,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_strict_blockade,1817,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_strict_blockade,1818,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_strict_blockade,1819,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_strict_blockade,1820,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_strict_blockade,1821,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_strict_blockade,1822,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_strict_blockade,1823,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_strict_blockade,1824,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_strict_blockade,1825,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_strict_blockade,1826,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_strict_blockade,1827,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_strict_blockade,1828,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_strict_blockade,1829,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_strict_blockade,1830,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_licence_compromise,1812,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_licence_compromise,1813,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_licence_compromise,1814,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_licence_compromise,1815,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_licence_compromise,1816,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified
+S3_licence_compromise,1817,NA,NA,NA,NA,NA,NOT_IDENTIFIED,c4_endurance_scenarios.md sections 6-9; C2 c2_gaps.csv,Historical cross-sections do not identify counterfactual annual paths; NA is not zero; S5 conditional activation date unspecified

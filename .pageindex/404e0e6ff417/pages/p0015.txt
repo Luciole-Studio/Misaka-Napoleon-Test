@@ -1,0 +1,42 @@
+-   14   -
+
+
+
+
+LIST QF TABLES
+
+
+
+VI.1         State income of the Habsburg Monarchy,
+              1780 - 1811 (in mio. fl. CM)             259
+VI.2         State expenditure of the Habsburg
+             Monarchy, 1780 - 1811 (in mio.
+             fl. CM)                                   262
+VI. 3        Military expenditure of the Habsburg
+              Monarchy, 1780 - 1811 (in mio.
+              fl. CM)                                  264
+VI. 4        State expenditure of the Habsburg
+              Monarchy, 1780 - 1811 (as percentage
+              of state revenue)                        266
+XVI. 1       Nominal and effective strength of army
+              and militia in Ireland, 1793 - 1799      443
+XVI.2        Expenditure for the army and navy,
+              the militia and yeomanry in Ireland
+              for the years 1793 to1800 (in £)         450
+XVII.1       Government receipts from customs and
+              import excise and inland excise in
+              Ireland, 1782 - 1792                     467
+XVII.2       Trend of state tax revenue and county
+              cess in Ireland, 1786 - 1800             470
+XVII.3       State expenditure for Ireland, 1770 -
+              1800 (in & at currentprices)             472
+XVII.4       State expenditures for Ireland in
+              percentage of total net revenue,
+              (1770 - 1801)                            473
+XVII, 5      Distribution of state expenditure for
+             Ireland, 1770 - 1800 (in percentage
+             of total expenditure)                     474
+XVII.6       Ratios of military expenditure to civil
+              expenditure and ratios of military
+             expenditure plus debt servicing to
+             civil expenditure, 1770 - 1800            475

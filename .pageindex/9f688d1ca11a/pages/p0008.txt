@@ -1,0 +1,83 @@
+Environ. Res. Lett. 14 (2019) 094019
+
+
+
+Table 1. Return times for the summer of 1816 - Return times (in years) and the increase in risk ratio (probability with eruption, relative to
+without eruption) for different model experiments. 5%–95% uncertainty ranges given in brackets, risk ratio results signiﬁcant at 5% level
+are indicated by an asterisk. For temperature three values are given for the MPI-ESM1.2 experiments corresponding to low, best and high
+volcanic forcings, for precipitation and SLP just the combined values from the three MPI-ESM1.2 experiments are reported.
+
+Name of Experiment                             Return time (years)                                              Risk ratio
+
+                                                                   Temperature
+
+HadCM3 No Volc                                   855 (603–1256)
+                                                                                                              101* (50–169)
+HadCM3 With Volc                                  8.6 (6.0–15.3)
+
+MPI-ESM1.2 No Volc                                  57 (46–72)
+                                                                                          13* (6.6–19)        29* (20–39)          44* (35–55)
+MPI-ESM1.2 With Volc           4.4 (3.1–8.4)       2.0 (1.6–2.6)        1.3 (1.2–1.5)
+
+                                                                   Precipitation
+
+HadCM3 No Volc                                      12 (11–14)
+                                                                                                                 *
+                                                                                                              3.3 (2.1–4.5)
+HadCM3 With Volc                                   3.7 (2.9–5.6)
+
+MPI-ESM1.2 No Volc                                 9.1 (8.2–10)
+                                                                                                                 *
+                                                                                                              1.6 (1.1–2.1)
+MPI-ESM1.2 With Volc                               5.7 (4.3–8.3)
+
+                                                              Sea level pressure
+
+HadCM3 No Volc                                      74 (59–92)
+                                                                                                                 *
+                                                                                                              2.5 (1.0–4.4)
+HadCM3 With Volc                                    28 (17–69)
+
+MPI-ESM1.2 No Volc                                  52 (43–63)
+                                                                                                              1.0 (0.3–2.1)
+MPI-ESM1.2 With Volc                               52 (25–177)
+
+
+
+several plausible explanation to these model differences.                  cause only about a quarter of the cold anomaly observed.
+The experimental set-up is likely to play an important                     Including volcanic forcing in climate models can
+role. A different volcanic dataset is used for each model,                 account for the cooling, and is estimated to increase the
+which results in a more prolonged tropical forcing in the                  likelihood of the extremely cold temperatures by up to
+HadCM3 model, that is still large in the summer of 1816                    100 times. The observed SLP pattern can account for
+(see supplementary ﬁgure S3). Even when the same volca-                    much of the observed anomalously wet conditions, even
+nic forcing is used, models have been found to react dif-                  in the absence of volcanic forcing. However, there is
+ferently on both a large scale (see, e.g. Brohan et al 2012,               strong evidence that in the model simulations the
+Zanchettin et al 2016) and on a regional scale (see, e.g.                  volcanic eruption increases the chance of such a wet
+Driscoll et al 2012), which could be both due to differ-                   summer over Central Europe by about 1.5–3 times.
+ences in how a model implements the forcing and how                        There is some evidence that the volcanic forcing
+the forcing impacts on atmospheric dynamics. Disen-
+                                                                           increases the chances of the low-pressure system centred
+tangling these differences will be a key goal of the VolMIP
+                                                                           over Central Europe, which is largely responsible for the
+initiative (Zanchettin et al 2016). In addition, it is clear in
+                                                                           wet conditions. However it leaves open the possibility
+ﬁgure 3 that differences also exist in the return time for
+                                                                           that other mechanism driven by volcanism could also be
+the event in the piControl simulations (those without vol-
+                                                                           causing the wetter conditions over Europe, possibly on a
+canic forcing). Such differences in return time, which
+reﬂects differences in the intrinsic climate variability gen-              sub-monthly scale (see e.g. Brugnara et al 2015).
+erated by both models, will also impact on the risk ratio.                      Although this study relies on reconstructed climate
+Furthermore, different climatological biases between                       from early instrumental observations, these have been
+models are known to exist in this region (see e.g. Pyrina                  found to agree well with a number of alternative datasets,
+et al 2017), which could be as a result of differences in                  so are thought to be reliable. We also do not consider
+parameterisation and the resolution of the model.                          solar forced variability explicitly. Since 1816 falls within
+                                                                           the Dalton minimum, solar forcing could have made
+5. Conclusions                                                             some contribution to the cold temperatures (Anet et al
+                                                                           2014) despite estimated small response on large scales
+In Central Europe the summer of 1816 was the coldest                       (Schurer et al 2013). Nevertheless, a signiﬁcant increase in
+summer on record and was also quite wet. This study                        the risk of both the cold and the wet conditions experi-
+ﬁnds that the atmospheric circulation associated with                      enced in 1816 is found when volcanic forcing was inclu-
+the SLP pattern in the summer of 1816 is estimated to                      ded in the two model ensembles analysed in this study,
+
+                                                          8

@@ -1,0 +1,18 @@
+---
+source_url: "https://carlosmarichal.colmex.mx/finanzas-coloniales/Comercio%20neutral%202000.pdf"
+final_url: "https://carlosmarichal.colmex.mx/finanzas-coloniales/Comercio%20neutral%202000.pdf"
+provider: "exa"
+text_sha256: "2eba05c186962ea2936c6a12d88227baa3f0681da87cd33b6418bec5b3f07d1b"
+title: "Hemos visto con sumo dolor y espanto las Reales Gracias que se concedieron a la Caxa de Consolidaci\u00f3n de Vales Reales y a varias casas extranjeras de Europa y de los Estados Unidos con facultad de remitir a este puerto cuantas expediciones quisieran y de hacer los retornos en oro, plata y producciones de este pa\u00eds directamente a Espa\u00f1a o a puertos neutrales. Consulado de Veracruz (1806)"
+content_kind: "page_text"
+---
+
+Carlos Marichal, (2000), “El comercio neutral y los consorcios extranjeros en Veracruz, 1805-1808”, en Carmen Yuste López y Matilde Souto Mantecón (coords.), El Comercio Exterior de México 1713-1850 , entre la quiebra del sistema imperial y el surgimiento de una nación, México, Instituto Mora, IIH-UNAM, Universidad Veracruzana, pp. 163-192.
+
+EL COMERCIO NEUTRAL Y LOS CONSORCIOS EXTRANJEROS EN VERACRUZ, 1805-1808
+
+Hemos visto con sumo dolor y espanto las Reales Gracias que se concedieron a la Caxa de Consolidación de Vales Reales y a varias casas extranjeras de Europa y de los Estados Unidos con facultad de remitir a este puerto cuantas expediciones quisieran y de hacer los retornos en oro, plata y producciones de este país directamente a España o a puertos neutrales. Consulado de Veracruz (1806)
+
+En los años de 1805-1808, Veracruz se convirtió en eje de un singular experimento mercantil conocido como "el comercio neutral", lo cual significó que pudieron entrar y salir del principal puerto del virreinato de la Nueva España decenas de buques de diversas del nacionalidades. Ello constituiría un antecedente importante de lo que, luego, vendría a ser el comercio libre, característico del siglo XIX. La causa fundamental que llevó a la Corona española a autorizar el "comercio neutral" a través de Veracruz fue la guerra entre la Armada británica y la española, habiéndose iniciado a partir de octubre de 1804 cuando fragatas inglesas tomaron presa varios buques de guerra navíos españoles provenientes del Río de la Plata, cargados con caudales. Este nuevo conflicto terminó con el breve interludio de tranquilidad en el Atlántico que había seguido a la paz de Amiens (1802). Con el objeto de enfrentar o inclusive derrotar a la Armada británica, se unieron las flotas española y francesa pero sin éxito alguno. Al contrario, la derrota sufrida en Trafalgar (21 de octubre 1805) aseguró el predominio de Inglaterra sobre los mares y presentó la Corona española con el espectro de la ruptura absoluta de sus líneas de comunicación con las colonias.
+
+A partir de ese momento, las autoridades de la Real Hacienda española encontraron que no existía otra alternativa para mantener el comercio con las Américas que ratificar y ampliar las medidas destinadas a legalizar expediciones por parte de buques de países neutrales a los puertos de los diversos virreinatos y capitanías generales. Por otra parte, debe enfatizarse que estas medidas mercantiles se vinculaban con un propósito financiero fundamental que consistía en mantener los flujos de plata para el sostenimiento de los situados del imperio, así como para asegurar algunas remesas de plata americana para la tesorería metropolitana.

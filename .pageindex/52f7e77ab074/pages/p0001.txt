@@ -1,0 +1,185 @@
+---
+source_url: "https://gallica.bnf.fr/SRU?operation=searchRetrieve&version=1.2&query=gallica%20all%20%22Sassenay%20Napol%C3%A9on%20argentine%22&maximumRecords=5"
+final_url: "https://gallica.bnf.fr/SRU"
+sha256: "a5ae97f489e9715c780fdebd8b90042b4a7d00c9e759a4db0bebb3f0890fa292"
+text_sha256: "a5ae97f489e9715c780fdebd8b90042b4a7d00c9e759a4db0bebb3f0890fa292"
+title: ""
+---
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>gallica all "Sassenay Napoléon argentine"</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>374</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;1443&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1925-1926</dc:date>
+                    <dc:description>Variante(s) de titre : La Revue du XIXe siècle. Napoléon</dc:description>
+                    <dc:description>Variante(s) de titre : Napoléon : la revue du XIXe siècle</dc:description>
+                    <dc:description>Périodicité : Semestriel</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb456260064/date</dc:identifier>
+                    <dc:identifier>NUMP-6646</dc:identifier>
+                    <dc:identifier>ISSN 26482835</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>F. Alcan (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb456260064</dc:relation>
+                    <dc:relation>A pour reproduction : Napoléon (Paris. 1925. Reproduction numérique) = ISSN 2697-9020 (https://gallica.bnf.fr/ark:/12148/cb456260064/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France</dc:source>
+                    <dc:title>Napoléon (Paris. 1925)</dc:title>
+                    <dc:title>Napoléon : revue des études napoléoniennes : les origines de l'Europe nouvelle</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k15500r.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb456260064/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k15500r.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k15500r.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k15500r.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k15500r</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Sassenay, Fernand Bernard (1829-1899 ; marquis de). Auteur du texte</dc:creator>
+                    <dc:date>1892</dc:date>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (VIII-285 p.) ; in-18</dc:format>
+                    <dc:format>Nombre total de vues : 315</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k54214325</dc:identifier>
+                    <dc:identifier>NUMM-5421432</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>E. Plon, Nourrit (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34029662q</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, LB44-1482</dc:source>
+                    <dc:subject>Liniers y Bremond, Santiago de (1753-1810)</dc:subject>
+                    <dc:subject>Argentine -- 1810-....</dc:subject>
+                    <dc:subject>France (1804-1814, Empire)</dc:subject>
+                    <dc:title>Napoléon Ier et la fondation de la République argentine : Jacques de Liniers, comte de Buenos-Ayres, vice-roi de La Plata, et le marquis de Sassenay (1808-1810) / par le marquis de Sassenay</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k54214325.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k54214325</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k54214325.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k54214325.medres</medres>
+                <nqamoyen>93.23</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k54214325.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k54214325</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1912-1924</dc:date>
+                    <dc:description>Variante(s) de titre : Revue des études napoléoniennes : les origines de l'Europe nouvelle</dc:description>
+                    <dc:description>Périodicité : Semestriel</dc:description>
+                    <dc:description>Etat de collection : 1912 (1, janv.)-1939</dc:description>
+                    <dc:format>Nombre total de vues : 15652</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb328584274/date</dc:identifier>
+                    <dc:identifier>NUMP-504</dc:identifier>
+                    <dc:identifier>ISSN 19625006</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>F. Alcan (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb328584274</dc:relation>
+                    <dc:relation>A pour reproduction : Revue des études napoléoniennes (Reproduction numérique) = ISSN 2419-4174 (https://gallica.bnf.fr/ark:/12148/cb328584274/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France</dc:source>
+                    <dc:title>Revue des études napoléoniennes</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k15499c.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb328584274/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k15499c.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k15499c.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k15499c.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k15499c</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Dumas, Alexandre (1824-1895). Préfacier</dc:contributor>
+                    <dc:contributor>Dumas, Alexandre (1824-1895). Préfacier</dc:contributor>
+                    <dc:creator>Gille, Philippe (1831-1901). Auteur du texte</dc:creator>
+                    <dc:date>1889-1894</dc:date>
+                    <dc:format>7 vol. ; in-16</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k2050930</dc:identifier>
+                    <dc:identifier>NUMM-205093</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Victor-Havard (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb365736017</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb365736017</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France</dc:source>
+                    <dc:title>La bataille littéraire. 7e sér. 1893 (préf. d'Alexandre Dumas fils, 2 éd. différentes) / Philippe Gille</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k2050930.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k2050930</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k2050930.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k2050930.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k2050930.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k2050930</uri>
+            </srw:extraRecordData>
+        </srw:record>
